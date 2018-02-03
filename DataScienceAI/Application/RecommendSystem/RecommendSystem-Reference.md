@@ -30,3 +30,5 @@
 - [歌曲推荐系统实践：Pandas、SciPy和D3.js](http://www.infoq.com/cn/news/2015/05/pandas-scipy-d3-js)
 
 - [2017-Spotify’s Discover Weekly: How machine learning finds your new music](https://parg.co/URN): The science behind personalized music recommendations.
+
+* [2018-今日头条算法原理](https://www.toutiao.com/i6511211182064402951/): 今日头条委托资深算法架构师曹欢欢博士，公开今日头条的算法原理，以期推动整个行业问诊算法、建言算法；通过让算法透明，来消除各界对算法的误解，并逐步推动整个行业让算法更好的造福社会。
