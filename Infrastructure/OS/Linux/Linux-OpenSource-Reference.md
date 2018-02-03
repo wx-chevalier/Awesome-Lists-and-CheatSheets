@@ -9,3 +9,5 @@
 - [osquery #Project#](https://github.com/facebook/osquery): osquery is an operating system instrumentation framework for OS X/macOS, Windows, and Linux. The tools make low-level operating system analytics and monitoring both performant and intuitive.
 
 - [gtop #Project#](https://github.com/aksakalli/gtop): System monitoring dashboard for terminal.
+
+- [Linux Dash #Project#](https://github.com/afaqurk/linux-dash): A simple & low-overhead web dashboard for linux systems.
