@@ -1,9 +1,8 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # React 基础语法资料索引
 
-# Component: 组件开发
+# Component: 组件语法
 
 * [2017-How Pure CSS Images Helped Me Understand React Components](https://parg.co/bL6): How did I overcome impostor syndrome and finally learn React? There are a few reasons but one of the most significant ones was learning how to make pure CSS images.
 
@@ -22,6 +21,22 @@
 ## Syntax
 
 * JSX: [JSX Specification](https://facebook.github.io/jsx/), [JSX In Depth](https://facebook.github.io/react/docs/jsx-in-depth.html), [Conditional Rendering](http://reactpatterns.com/#conditional-rendering), [2015-WTF is JSX](https://jasonformat.com/wtf-is-jsx/)
+
+## DOM
+
+* [Refs and the DOM](https://facebook.github.io/react/docs/refs-and-the-dom.html)
+
+## LifeCycle
+
+* [React’s Component Lifecycles](https://medium.com/mofed/reacts-component-lifecycles-adf0ebc89d23#.79hd0xcxd)
+
+* [浅析 React 生命周期](http://www.tuicool.com/articles/ANNVveE)
+
+## Error Boundary
+
+* [2018-Handling Errors in React Components with Error Boundaries](https://dev.to/sarah_chima/error-boundaries-in-react-3eib): Error Boundaries are React Components and they catch error anywhere in their child component tree.
+
+# Component Dataflow: 组件数据流
 
 ## Props
 
@@ -42,16 +57,6 @@
 * [How to safely use React context](https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076#.pnc15zji9)
 
 * [React Docs:Context](https://facebook.github.io/react/docs/context.html)
-
-## DOM
-
-* [Refs and the DOM](https://facebook.github.io/react/docs/refs-and-the-dom.html)
-
-# LifeCycle
-
-* [React’s Component Lifecycles](https://medium.com/mofed/reacts-component-lifecycles-adf0ebc89d23#.79hd0xcxd)
-
-* [浅析 React 生命周期](http://www.tuicool.com/articles/ANNVveE)
 
 # Style: 样式
 
@@ -83,7 +88,7 @@
 
 * [2017-Migrating to styled-components cheatsheet](http://jsramblings.com/2017/10/29/migrating-to-styled-components-cheatsheet.html)
 
-# Animation
+# Animation: 动画
 
 * [2017-react-move #Project# ](https://github.com/tannerlinsley/react-move): Beautifully and deterministically animate anything in React.
 

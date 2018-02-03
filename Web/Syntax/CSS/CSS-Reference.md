@@ -1,7 +1,6 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-
-# CSS
+# CSS 学习与实践资料索引
 
 * [扒一扒 CSS 语言的诞生史](http://qianduan.guru/2016/07/26/The-Languages-Which-Almost-Became-CSS/)
 
