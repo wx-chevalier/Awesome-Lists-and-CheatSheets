@@ -20,3 +20,5 @@
 * [fastify #Project#](https://github.com/fastify/fastify): Fast and low overhead web framework, for Node.js.
 
 * [Server.js #Project#](https://github.com/franciscop/server): Simple and powerful server for Node.js.
+
+* [Polka #Project#](https://github.com/lukeed/polka): Polka is an extremely minimal, highly performant Express.js alternative.
