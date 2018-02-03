@@ -37,6 +37,8 @@
 
 * [The 5 Problem-Solving Skills of Great Software Developers](https://www.coderhood.com/5-problem-solving-skills-great-software-developers/)
 
+* [2018-The Path to Becoming a Software Architect](https://parg.co/Uv2): There are several career paths a developer might take, and this series talks over how to become a software architect.
+
 # 工程管理
 
 * [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager): A list of engineering manager resource links.
