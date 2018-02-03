@@ -4,6 +4,8 @@
 
 * [fsociety #Project#](https://github.com/Manisso/fsociety): A Penetration Testing Framework, you will have every script that a hacker needs.
 
+* [AutoSploit #Project#](https://github.com/NullArray/AutoSploit): As the name might suggest AutoSploit attempts to automate the exploitation of remote hosts. Targets are collected automatically as well by employing the Shodan.io API.
+
 # CTF
 
 * [fbctf](https://github.com/facebook/fbctf)
