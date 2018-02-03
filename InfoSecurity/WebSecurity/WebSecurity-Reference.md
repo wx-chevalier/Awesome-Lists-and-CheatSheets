@@ -12,6 +12,8 @@
 
 - [2018-Hacker101](https://github.com/Hacker0x01/hacker101): Hacker101 is a free class for web security. Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
 
+- [2018-How to stop me harvesting credit card numbers and passwords from your site](https://parg.co/Uvz)
+
 # WebAPI
 
 * [2017-Improve Your Website Security in 5 Minutes With These HTTP Headers](https://parg.co/Upz)
