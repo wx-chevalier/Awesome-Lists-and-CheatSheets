@@ -20,6 +20,8 @@
 
 ## Kali
 
+* [2018-Kali Linux: Social Engineering Toolkit](https://linuxhint.com/kali-linux-set/)
+
 # Hardware: 硬件
 
 * [PoisonTap #Project#](https://github.com/samyk/poisontap)
