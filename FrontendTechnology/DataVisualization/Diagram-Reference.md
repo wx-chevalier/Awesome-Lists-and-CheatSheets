@@ -20,6 +20,8 @@
 
 * [mxGraph #Project#](https://jgraph.github.io/mxgraph/): mxGraph is a JavaScript diagramming library that enables interactive graph and charting applications to be quickly created that run natively in any major browser that is supported by its vendor.
 
+* [GoJS #Project#](https://github.com/NorthwoodsSoftware/GoJS): JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
+
 # Flow: 流程图
 
 * [jsPlumb](https://github.com/sporritt/jsPlumb)

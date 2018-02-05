@@ -16,6 +16,8 @@
 
 - [12 best practices for user account, authorization and password management](https://parg.co/U9A)
 
+- [MDN-Web security](https://developer.mozilla.org/en-US/docs/Web/Security): The web security oriented articles listed here provide information that may help you secure your site and its code from attacks and data theft.
+
 # WebAPI
 
 * [2017-Improve Your Website Security in 5 Minutes With These HTTP Headers](https://parg.co/Upz)
