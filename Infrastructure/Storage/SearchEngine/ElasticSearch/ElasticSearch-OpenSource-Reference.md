@@ -5,6 +5,8 @@
 
 * [elasticsearch_queryAPI](http://leequangang.github.io/tech/2013/12/02/elasticsearch_queryAPI.html#match-query)
 
+* [Search Guard SSL #Project#](https://github.com/floragunncom/search-guard-ssl): Search Guard SSL is a free and Open Source plugin for Elasticsearch which provides SSL/TLS for Elasticsearch. 
+
 # Development and debugging
 
 * [Found Play](https://www.found.no/play#): JSFiddle-like playground for Elasticsearch;
