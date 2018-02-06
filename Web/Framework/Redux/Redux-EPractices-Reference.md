@@ -50,3 +50,9 @@ State思考
 [react-redux-provide](https://github.com/loggur/react-redux-provide)
 
 - [how-to-dispatch-a-redux-action-with-a-timeout](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559)
+
+# Middleware: 中间件
+
+- [2016-A Beginner's Guide to Redux Middleware](https://parg.co/U9T): The application should be able to display the elapsed time on the screen and then save the elapsed time to a server using an HTTP request.
+
+- [2015-Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a): I will attempt to guide you through a lot of these functional concepts which include function composition, currying, and applying high-order functions.
