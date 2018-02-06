@@ -20,3 +20,5 @@
 - [golang/dep #Project#](https://github.com/golang/dep): dep is a prototype dependency management tool for Go. It requires Go 1.8 or newer to compile. dep is safe for production use.
 
 - [glide #Project#](https://github.com/Masterminds/glide): Glide is a tool for managing the vendor directory within a Go package. 
+
+- [gin #Project#](https://github.com/codegangsta/gin): gin is a simple command line utility for live-reloading Go web applications.
