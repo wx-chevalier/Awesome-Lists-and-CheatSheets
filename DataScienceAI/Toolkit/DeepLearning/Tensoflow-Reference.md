@@ -28,3 +28,5 @@
 ## Example Models
 
 - [TensorFlow Models by Sarasra](https://github.com/Sarasra/models): This repository contains a number of different models implemented in TensorFlow: the official models, the research models, the samples folder and the tutorials folder.
+
+- [Tensorflow Project Template](https://github.com/Mrgemy95/Tensorflow-Project-Template): A simple and well designed structure is essential for any Deep Learning project, so after a lot of practice and contributing in tensorflow projects here's a tensorflow project template that combines simplcity, best practice for folder structure and good OOP design.
