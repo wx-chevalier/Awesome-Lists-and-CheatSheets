@@ -42,6 +42,8 @@
 
 * [Grafana dashboards for MySQL and MongoDB monitoring using Prometheus #Project#](https://github.com/percona/grafana-dashboards)
 
+* [2018-Prometheus 原理和源码分析](http://www.infoq.com/cn/articles/Prometheus-theory-source-code#): 本文分析了客户端和服务端的部分源码实现，介绍了客户端数据模型和 PromQL 计算逻辑，希望能为基于 Prom 的监控平台提供一些启发。
+
 # Open Falcon
 
 * [Open Falcon](http://open-falcon.org/)
