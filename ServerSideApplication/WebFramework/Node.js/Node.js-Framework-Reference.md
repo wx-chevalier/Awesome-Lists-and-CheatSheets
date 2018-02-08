@@ -9,6 +9,9 @@
 
 * [Easy Node Authentication Getting Started and Local, based on Express and Passport](https://scotch.io/tutorials/easy-node-authentication-setup-and-local)
 
+- [2016-对 express 中 next 函数的一些理解](https://cnodejs.org/topic/5757e80a8316c7cb1ad35bab)
+
+
 # Koa
 
 * [Async testing Koa with Jest](https://hackernoon.com/async-testing-koa-with-jest-1b6e84521b71?source=linkShare-fe48c4221a4c-1508838328): Simplify API and middleware tests with lesser-known featuresSimplify API and middleware tests with lesser-known features.
