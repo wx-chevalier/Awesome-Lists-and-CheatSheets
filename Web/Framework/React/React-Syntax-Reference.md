@@ -54,9 +54,7 @@
 
 ## Context
 
-* [How to safely use React context](https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076#.pnc15zji9)
-
-* [React Docs:Context](https://facebook.github.io/react/docs/context.html)
+* [React’s ⚛️ new Context API](https://parg.co/UXl): It’s way more ergonomic, it’s no longer “experimental,” and it’s now a first-class api! OH, AND IT USES A RENDER PROP!
 
 # Style: 样式
 

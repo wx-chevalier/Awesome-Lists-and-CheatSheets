@@ -1,18 +1,14 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-![](https://cdn-images-1.medium.com/max/2000/1*D2NgKZ1T7LYXrFPAXnorTg.jpeg)
-
 # Git 资料索引
 
-* [2017-Better Git configuration](https://blog.scottnonnenberg.com/better-git-configuration/): I recently took some time to really dig in, read through documentation, and review my global Git configuration.
+# Overview
 
-* [2017-How to master the art of Git](https://parg.co/bsu): Step up your software development game with 7 simple Git commands.
+* [2018-GIT Good: A Practical Introduction to GIT and GitHub (Hello GitHub)](https://codeburst.io/git-good-part-a-e0d826286a2a)
 
-* [看完就会用的 Git 操作图解分析](http://blog.yubangweb.com/kan-wan-jiu-hui-yong-de-gitcao-zuo-tu-jie-fen-xi/)
+- [2017-How to master the art of Git](https://parg.co/bsu): Step up your software development game with 7 simple Git commands.
 
-* [Git 核心概念](https://zhuanlan.zhihu.com/p/22750675)
-
-* [Git 的基本概念与入门](http://www.epubit.com.cn/article/829)
+- [看完就会用的 Git 操作图解分析](http://blog.yubangweb.com/kan-wan-jiu-hui-yong-de-gitcao-zuo-tu-jie-fen-xi/)
 
 * [Mastering Git — Why Rebase is amazing](https://hackernoon.com/mastering-git-why-rebase-is-amazing-a954485b128a?source=reading_list---------90-1---------)
 
@@ -26,9 +22,35 @@
 
 * [2017-A Guide to Single Branch Development with Git](https://parg.co/bBr): This post is aimed at people who have read my last one which you can read here on my website and all those who want to learn more about how to incorporate git into their solo developer workflow.
 
-# CheatSheet: 备忘清单
+- [Git Step by Step][3]
+
+- [githug](https://github.com/Gazler/githug):一个集齐了 54 个管卡的 Git 小游戏，很不错，过关说明文档看[这里](https://codingstyle.cn/topics/51)
+
+* [dropbox-as-a-true-git-server](http://www.anishathalye.com/2016/04/25/dropbox-as-a-true-git-server/)
+
+* [Git tips](https://github.com/git-tips/tips): 常用的 Git 小技巧
+
+* [My-Git:Github 上的 Git 学习资料的整合][2]
+
+* [Pro Git v2 中文版](https://git-scm.com/book/zh/v2)
+
+## CheatSheet: 备忘清单
 
 * [Flight rules for git](https://github.com/k88hudson/git-flight-rules): Flight Rules are the hard-earned body of knowledge recorded in manuals that list, step-by-step, what to do if X occurs, and why. Essentially, they are extremely detailed, scenario-specific standard operating procedures. [...]
+
+# Tutorial: 教程
+
+* [2017-Better Git configuration](https://blog.scottnonnenberg.com/better-git-configuration/): I recently took some time to really dig in, read through documentation, and review my global Git configuration.
+
+## Concept: 概念
+
+* [Git 核心概念](https://zhuanlan.zhihu.com/p/22750675)
+
+* [Git 的基本概念与入门](http://www.epubit.com.cn/article/829)
+
+## Github
+
+* [5 GitHub tips for new coders](https://parg.co/UQD): As it’s own form of an open source contribution, I wanted to share with other folks new to coding my top 5 tips for using GitHub.
 
 # Rebase
 
@@ -37,27 +59,3 @@
 * [2017-Why you should stop using Git rebase](https://parg.co/bBO): After using Git for several years, I found myself gradually using more and more advanced Git commands as part of my daily workflow.
 
 - [git-rebase-and-the-golden-rule-explained](https://medium.freecodecamp.com/git-rebase-and-the-golden-rule-explained-70715eccc372#.8snfmpokv)
-
-# Hook
-
-* [conceptual-overview](https://www.atlassian.com/git/tutorials/git-hooks/conceptual-overview)
-
-* [基于 git hooks 的前端代码质量控制解决方案](https://github.com/kuitos/kuitos.github.io/issues/28)
-
-* [自定义 Git - Git 钩子](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git-%E9%92%A9%E5%AD%90)
-
-* [pre-commit by Yelp: A framework for managing and maintaining multi-language pre-commit hooks.](http://pre-commit.com/#node)
-
-# Workflow: 工作流
-
-* [comparing-workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
-
-* [一个成功的 Git 分支模型](http://blog.jobbole.com/81196/)
-
-* [Gitflow 有害论 ](http://insights.thoughtworkers.org/gitflow-consider-harmful/)
-
-* [Git 工作流分析](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
-
-* [feature-toggles](http://martinfowler.com/articles/feature-toggles.html)
-
-* [Feature Flag 功能发布控制](http://fex.baidu.com/blog/2014/07/feature-flag/?qq-pf-to=pcqq.c2c)

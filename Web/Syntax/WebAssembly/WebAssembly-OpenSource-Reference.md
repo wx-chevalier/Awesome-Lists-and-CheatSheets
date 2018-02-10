@@ -1,9 +1,12 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
+
 # WebAssembly 开源工具与框架索引
 
 * [AssemblyScript #Project#](https://github.com/AssemblyScript/prototype): AssemblyScript defines a subset of TypeScript that it compiles to WebAssembly.
 
 - [wabt #Project](https://github.com/WebAssembly/wabt): The WebAssembly Binary Toolkit
+
+- [WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio): Learn, Teach, Work and Play in the Web Assembly Studio.
 
 # Rust
 

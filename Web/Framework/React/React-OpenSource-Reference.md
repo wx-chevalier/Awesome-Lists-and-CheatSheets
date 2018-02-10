@@ -1,5 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # React 开源组件与库索引
 
@@ -10,6 +9,10 @@
 - [react-i18next #Project#](https://github.com/i18next/react-i18next): Internationalization for react done right. Using the i18next i18n ecosystem.
 
 * [react-content-loader #Project#](https://github.com/danilowoz/react-content-loader): React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders.
+
+# Tool: 工具
+
+* [Rekit #JavaScript#](https://github.com/supnate/rekit): Toolkit for building scalable web applications with React, Redux and React-router
 
 # Alternatives: 替代库
 

@@ -32,6 +32,8 @@
 
 * [Experimenting With The Background Fetch API](https://parg.co/UEk): The service worker API is expanding as more ways to use the background dwelling worker emerge.
 
+* [2018-Service workers: the little heroes behind Progressive Web Apps](https://parg.co/UXo): Service workers are at the core of Progressive Web Apps. They allow caching of resources and push notifications, which are two of the main distinguishing features that have set native apps apart up to this point.
+
 ## Offline Storage
 
 * [2016-Offline Storage for Progressive Web Apps](https://medium.com/@addyosmani/offline-storage-for-progressive-web-apps-70d52695513c) : The current state of offline storage in the browser

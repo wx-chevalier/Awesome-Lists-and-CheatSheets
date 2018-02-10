@@ -55,11 +55,15 @@
 
 * [Creating more efficient React views with windowing](https://parg.co/UiL): In this presentation, the [bvaughn](https://github.com/bvaughn/) talks something abot performance, search, and app architecture in React development.
 
-## OpenSource: 工具
+## Metrics
+
+## Avoid Unnecessary Re-renders
+
+* [why-did-you-update #Project# ](https://github.com/garbles/why-did-you-update): Puts your console on blast when React is making unnecessary updates.
 
 * [High Performance React: 3 New Tools to Speed Up Your Apps](https://parg.co/b1v): In this post I’ll highlight tools and techniques for making React apps fast. Each section also has an interactive, and (hopefully) fun demo!
 
-* [why-did-you-update #Project# ](https://github.com/garbles/why-did-you-update): Puts your console on blast when React is making unnecessary updates.
+* [React PureComponent Pitfalls](https://parg.co/UXA): Unnecessary re-renders can slow down your app, especially when rendering large collections where updates to the collection occur frequently.
 
 # Server Side Rendering: 服务端渲染
 

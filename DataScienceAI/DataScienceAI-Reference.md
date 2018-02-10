@@ -42,7 +42,9 @@
 
 * [Using Deep Learning to Discover Drugs, Classify Pokémon, Save Zebras, Play Flappy Bird & More](https://medium.com/transmission-newsletter/using-deep-learning-to-discover-drugs-classify-pok%C3%A9mon-save-zebras-play-flappy-bird-more-a3a57fc98a15?source=reading_list---------1-2)
 
-# Engineering:工程化
+# Engineering: 工程化
+
+* [2015-Doing Data Science at Twitter](https://parg.co/UXU): A reflection of my two year Journey so far. Sample size N = 1
 
 # Book: 书籍
 

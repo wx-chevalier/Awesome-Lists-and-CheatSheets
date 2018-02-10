@@ -6,6 +6,8 @@
 
 # MAC
 
+* [Laptop #Project#](https://github.com/thoughtbot/laptop): A shell script to set up a macOS laptop for web and mobile development.
+
 * [LuLu #Project#](https://github.com/objective-see/LuLu): LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic.
 
 * [Kap #Project#](https://github.com/wulkano/kap): Sentry is a cross-platform crash reporting and aggregation platform.

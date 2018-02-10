@@ -29,6 +29,8 @@ Browser Automation 即所谓的自动化浏览器或者能够以脚本等方式
 
 * [Rendertron #Project#](https://github.com/GoogleChrome/rendertron): Rendertron is a dockerized, headless Chrome rendering solution designed to render & serialise web pages on the fly.
 
+* [headless-devtools #Project#](https://github.com/cowchimp/headless-devtools): Lets you perform Chrome DevTools actions from code by leveraging Headless Chrome+Puppeteer.
+
 # Selenium
 
 * [clean-architecture-of-selenium-tests](http://ovaraksin.blogspot.jp/2016/04/clean-architecture-of-selenium-tests.html)

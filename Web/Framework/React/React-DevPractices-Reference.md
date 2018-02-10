@@ -1,5 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # React 工程实践资料索引
 
@@ -92,6 +91,8 @@
 ## CodeStyle: 代码风格
 
 * [eslint-plugin-react #Project# ](https://parg.co/b11): React specific linting rules for ESLint.
+
+* [Evolving Patterns in React](https://parg.co/UXm): Let’s take a closer look at some of the patterns that are emerging in the React ecosystem. These patterns improve readability, code clarity, and push your code towards composition and reusability.
 
 ## Functional React: 函数式 React
 
