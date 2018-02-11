@@ -6,7 +6,11 @@
 
 `Copyright © 王下邀月熊 - WxChevalier` [![Awesome](https://parg.co/UvS)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-[Awesome Reference: Guide to Galaxy](https://parg.co/UMJ) collect curated, worthy and up-to-date links for ITCS, including Programming Language(Java, JavaScript, Python, Go, Rust, etc.), Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc. Each domain may contain the following files:
+[Awesome Reference: Guide to Galaxy](https://parg.co/UMJ) collect curated, worthy and up-to-date links for ITCS, including Programming Language(Java, JavaScript, Python, Go, Rust, etc.), Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
+
+Complete reference lists can be found in [table of contents](./toc.md).
+
+Each domain may contain the following files:
 
 * {Something}-Reference.md - This file may contain or separate into the following:
 
@@ -53,5 +57,3 @@
 * {Something}-OpenSource-Reference.md - Awesome tools, frameworks, projects
 
 * {Something}-Internals-Reference.md Inner mechanism under the hood, Core/Compiler/Engine
-
-Complete reference lists can be found in [table of contents](./toc.md).

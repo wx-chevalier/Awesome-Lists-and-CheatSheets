@@ -1,5 +1,8 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
+# Web Performance Optimization for Asset
+
+* [2018-Web Performance Optimization with Webpack by Addy Osmani](https://parg.co/UXN): Taking advantage of its features for optimizing modern code, code-splitting scripts into critical and non-critical pieces and stripping out unused code.
 
 # Image Optimization: 图片优化
 

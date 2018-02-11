@@ -1,5 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # Webpack 学习与实践资料索引
 
@@ -46,6 +45,8 @@
 - [基于 Webpack 搭建前端工程解决方案探索](http://www.infoq.com/cn/articles/frontend-engineering-webpack)
 
 - [基于 Webpack 的前端资源构建方案](http://lifei.github.io/2015/12/20/webpack/#___8)
+
+- [Web Performance Optimization with Webpack by Addy Osmani](https://parg.co/UXN): Taking advantage of its features for optimizing modern code, code-splitting scripts into critical and non-critical pieces and stripping out unused code.
 
 ## Code Split: 代码分割
 

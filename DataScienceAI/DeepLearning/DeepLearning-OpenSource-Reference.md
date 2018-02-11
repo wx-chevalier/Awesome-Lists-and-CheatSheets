@@ -11,3 +11,5 @@
 - [2018-How to build your own AlphaZero AI using Python and Keras](https://parg.co/UiX): Teach a machine to learn Connect4 strategy through self-play and deep learning.
 
 - [2018-Minigo #Project#](https://github.com/tensorflow/minigo): A minimalist Go engine modeled after AlphaGo Zero, built on MuGo.
+
+* [How you can train an AI to convert your design mockups into HTML and CSS](https://parg.co/UXR)

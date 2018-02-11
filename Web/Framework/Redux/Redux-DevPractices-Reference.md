@@ -10,7 +10,7 @@
 
 * [Reselect Yourself](https://parg.co/UXG): Make developing with Redux even more glorious.
 
-# EPractices
+# DevPractices
 
 * [2017-Five Tips for Working with Redux in Large Applications](https://parg.co/bIi): The following points of discussion should help anyone working with Redux on large, data intensive applications.
 
@@ -49,3 +49,5 @@ State 思考
 * [2016-A Beginner's Guide to Redux Middleware](https://parg.co/U9T): The application should be able to display the elapsed time on the screen and then save the elapsed time to a server using an HTTP request.
 
 * [2015-Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a): I will attempt to guide you through a lot of these functional concepts which include function composition, currying, and applying high-order functions.
+
+* [Redux modules and code-splitting](http://nicolasgallagher.com/redux-modules-and-code-splitting/): This post describes how I added support for incrementally loading the Redux modules in Twitter Lite.
