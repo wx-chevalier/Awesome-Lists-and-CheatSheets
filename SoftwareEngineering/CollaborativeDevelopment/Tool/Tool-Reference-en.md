@@ -27,3 +27,5 @@
 # Media
 
 * [MoviePy #Project#](https://github.com/Zulko/moviepy): MoviePy (full documentation) is a Python library for video editing: cutting, concatenations, title insertions, video compositing (a.k.a. non-linear editing), video processing, and creation of custom effects.
+
+* [Squarespace logo creator #Project#](https://logo.squarespace.com/)

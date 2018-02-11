@@ -1,8 +1,6 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # 区块链资料索引
-
-![](https://cdn-images-1.medium.com/max/2000/1*BphKK1wX2TbhiFmbUFtI5w.jpeg)
 
 * [2017-Blockchain for non-techies #Series#](https://hackernoon.com/blockchain-for-non-techies-2-how-they-work-2f94d313c7e5): [2. How they work](https://hackernoon.com/blockchain-for-non-techies-2-how-they-work-2f94d313c7e5)
 
@@ -16,27 +14,25 @@
 
 * [区块链：中间件的下一件大事](http://www.infoq.com/cn/articles/blockchain-middleware)
 
-* [中国区块链技术和应用发展白皮书](http://chainb.com/download/%E5%B7%A5%E4%BF%A1%E9%83%A8-%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%92%8C%E5%BA%94%E7%94%A8%E5%8F%91%E5%B1%95%E7%99%BD%E7%9A%AE%E4%B9%A61014.pdf)
+* [2016-中国区块链技术和应用发展白皮书](https://parg.co/UXQ)
 
-* [从概念到底层技术，一篇文看懂重塑世界的区块链](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650994345&idx=1&sn=0999eb0d4e2b0819751a6b73334c2b0c&chksm=bdbf0efa8ac887ec4eab294794fec20f6883f181f25eb3bf0c41cb1eb27c62a0789e47251772&mpshare=1&scene=1&srcid=10103NGYuJvWEPqZ2Xss6Vcc#rd)
+- [2017- 区块链开发技术综述](http://mp.weixin.qq.com/s/LSTYz1LyRdrhOwbg0f4v2A)
 
-* [2017- 区块链开发技术综述](http://mp.weixin.qq.com/s/LSTYz1LyRdrhOwbg0f4v2A)
+* [区块链到底有啥用?](http://mp.weixin.qq.com/s?__biz=MzA5Mzk0MDU1Ng==&mid=2650893865&idx=1&sn=a9a5ec4388100528c69a2629725a6dc7&chksm=8ba3f00abcd4791cec625842185a7948d03d1a82afdd2bf550cac2becab1cfa65a27a266e22d&scene=0#wechat_redirect)
 
-- [区块链到底有啥用？ ](http://mp.weixin.qq.com/s?__biz=MzA5Mzk0MDU1Ng==&mid=2650893865&idx=1&sn=a9a5ec4388100528c69a2629725a6dc7&chksm=8ba3f00abcd4791cec625842185a7948d03d1a82afdd2bf550cac2becab1cfa65a27a266e22d&scene=0#wechat_redirect)
+* [专访钟馥百：区块链技术如何落地保险互助行业](http://www.infoq.com/cn/news/2016/08/zhongfubai-interview)
 
-- [专访钟馥百：区块链技术如何落地保险互助行业](http://www.infoq.com/cn/news/2016/08/zhongfubai-interview)
+* [区块链 ——2016 最耀眼的新兴技术之一 ](http://mp.weixin.qq.com/s?__biz=MzI3MzEzMDI1OQ==&mid=2651815383&idx=1&sn=dd55f73df9f054b4d1354675f76b2f61)
 
-- [区块链 ——2016 最耀眼的新兴技术之一 ](http://mp.weixin.qq.com/s?__biz=MzI3MzEzMDI1OQ==&mid=2651815383&idx=1&sn=dd55f73df9f054b4d1354675f76b2f61)
-
-- [CryptoList #Collection#](https://github.com/coinpride/CryptoList): Curated collection of blockchain & cryptocurrency links.
+* [CryptoList #Collection#](https://github.com/coinpride/CryptoList): Curated collection of blockchain & cryptocurrency links.
 
 # Overview
 
-- [2017-Blockchains from a Distributed Computing Perspective](http://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf)
+* [2017-Blockchains from a Distributed Computing Perspective](http://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf)
 
 ## Case Study: 案例分析
 
-
+* [2016-从概念到底层技术，一篇文看懂重塑世界的区块链](https://parg.co/UXC): 区块链是目前一个比较热门的新概念，蕴含了技术与金融两层概念。从技术角度来看，这是一个牺牲一致性效率且保证最终一致性的的分布式的数据库，当然这是比较片面的。从经济学的角度来看，这种容错能力很强的点对点网络，恰恰满足了共享经济的一个必须要求——低成本的可信环境。
 
 # Resource
 
@@ -46,14 +42,30 @@
 
 ## Blog
 
-- [Blockgeeks #Blog#](https://blockgeeks.com/): Blockgeeks is a leading online learning platform that helps anyone learn Blockchain in business, software, technology and creative skills to achieve personal and professional goals.
+* [Blockgeeks #Blog#](https://blockgeeks.com/): Blockgeeks is a leading online learning platform that helps anyone learn Blockchain in business, software, technology and creative skills to achieve personal and professional goals.
 
 # Tutorial: 教程
 
-- [2018-BlockShell #Project#](https://github.com/daxeel/blockshell): A command line utility for learning Blockchain technical concepts likechaining, mining, proof of work etc.
+* [2018-BlockShell #Project#](https://github.com/daxeel/blockshell): A command line utility for learning Blockchain technical concepts likechaining, mining, proof of work etc.
 
-- [2018-The Complete Guide to Kickstart Blockchain Development](https://parg.co/Uvu): Cryptocurrencies, ICOs, magic internet money — it’s all so exciting, and you are the eager developer, want to get in on the madness.
+* [2018-The Complete Guide to Kickstart Blockchain Development](https://parg.co/Uvu): Cryptocurrencies, ICOs, magic internet money — it’s all so exciting, and you are the eager developer, want to get in on the madness.
 
-## Smart Contract: 智能合约
+## JavaScript
 
-- [为什么要用区块链技术实现智能合约？](https://www.zhihu.com/question/43404157): 智能合约貌似就是一段脚本，可以被准确执行。这用传统的技术也能实现，为什么一定要用区块链技术呢？
+* [2017-A blockchain in 200 lines of code](http://6me.us/8sPpk): This makes understanding blockchains a necessarily harder task, than it must be. Especially source-code-wisely. Here I will go through a super-simple blockchain I implemented in 200 lines of Javascript called NaiveChain.
+
+* [2017-NodeJS blockchain implementation: BrewChain: Chain+WebSockets+HTTP Server](http://www.darrenbeck.co.uk/blockchain/nodejs/nodejscrypto/): In this tutorial you’ll lean to create BrewChain - a verifiable chain of which member of the team made a brew and when.
+
+* [2018-Chicco Coin](https://github.com/thecreazy/chiccocoin): Learn what is a blockchain by creating one.
+
+## Python
+
+* [2017-Crackcoin](https://github.com/DutchGraa/crackcoin): Crackcoin is a very basic blockchain-free cryptocurrency PoC in Python.
+
+* [2017-Let’s Build the Tiniest Blockchain](https://parg.co/baX): In Less Than 50 Lines of Python.
+
+- [2017-Dumbcoin #Project#](https://parg.co/UsN): An educational python implementation of a bitcoin-like blockchain
+
+## Go
+
+* [Building Blockchain in Go #Series#](https://github.com/Jeiwan/blockchain_go): A simplified blockchain implementation in Golang.

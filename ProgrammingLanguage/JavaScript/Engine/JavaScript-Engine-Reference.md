@@ -1,5 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # JavaScript 引擎资料索引
 
@@ -29,7 +28,7 @@
 
 * [2017-Understanding JS Engine with Cartoons](https://parg.co/U3B)
 
-## Event Loop
+# Event Loop
 
 * [2014- 阮一峰 -JavaScript 运行机制详解：再谈 Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
 
@@ -55,16 +54,4 @@
 
 - [The Node.js Event Loop, Timers, and process.nextTick()](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
 
-# Memory Model
-
-* [A crash course in memory management](https://parg.co/b9p): To understand why ArrayBuffer and SharedArrayBuffer were added to JavaScript, you need to understand a bit about memory management.
-
-- [2017-How JavaScript works: memory management + how to handle 4 common memory leaks](https://parg.co/bnw)
-
-* [JavaScript Memory Usage](https://roman01la.github.io/js-memory-usage/)
-
-- [2017-JavaScript 内存泄漏教程](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)
-
-## Object Representation: 对象表示
-
-# Garbage Collection: 垃圾回收
+* [How does Node.js manage timers internally](https://asafdav2.github.io/2017/node-js-timers/)

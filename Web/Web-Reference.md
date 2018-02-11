@@ -1,5 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 ![](http://7xi5sw.com1.z0.glb.clouddn.com/1-gcVLvWktBPvc3rgp5fLvBA.jpeg)
 
@@ -7,7 +6,7 @@
 
 本文上承接[ AwesomeReference: 程序员成长道路上的阅读学习资料工具集锦](https://github.com/wxyyxc1992/Awesome-Reference)，子索引包含：
 
-# Sight: 视野
+# Overview: 概述
 
 * [2015-Modern Web Development](http://6me.us/nS16): This is the script for a talk I gave at Google Dev Fest MN in 2015. It was meant to be a lighthearted history of web development and a commentary on its future.
 
@@ -27,20 +26,18 @@
 
 * [2017-重构 Airbnb 前端架构](https://parg.co/bkA)：本文是近日 Airbnb 开发团队在思索重构代码库中 JavaScript 部分的经验总结；本文主要着眼于产品驱动开发以及技术沉淀、从传统的 Rails 架构中积攒的经验以及新的技术栈的某些特性。本文首先介绍了从 Rails 迁移过程中的一些经验，譬如将原本完全的服务端渲染界面所需要的数据切分为了 API 与 Non-API 两大类，并且使用 Hypernova 来进行 React 服务端渲染。然后介绍了如何在应用前端通过引入懒加载与异步加载等方式提升前端性能与用户体验。
 
-# Book: 书籍
+# Resource: 资源
 
-* [2017-Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+## Book: 书籍
+
+* [2017-Front-End Developer Handbook 2017 #Book#](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
 
 * [2017-Spellbook of Modern Web Dev #Book#](https://parg.co/bv9): A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 
 * [Grab Front End Guide #Book#](https://github.com/grab/front-end-guide): Study guide and introduction to the modern front end stack.
 
-# Framework: 框架设计与对比
+# Tutorial: 教程
 
-* [2017-hyperapp #Project# ](https://github.com/hyperapp/hyperapp): 1kb JavaScript library for building frontend applications.
+## Interview: 面试
 
-* [Web Frameworks Under the hood](https://parg.co/b1h): This analysis will give us an indication of what sort of foundations we are building on when leveraging a particular framework. [Web Frameworks: Foundational Technologies](https://parg.co/b14), [Web Frameworks: User Experience Design](https://www.sitepen.com/blog/2017/06/27/web-frameworks-user-experience-design/), [Web Frameworks: User Interface Development](https://parg.co/b1R)
-
-* [2017-Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://parg.co/bxB)
-
-* [为何 Angular 2/4 为时已晚](https://parg.co/bXn)：作者在本文中首先回顾了 2012 年中 Angular 为何名噪一时，2013 年里 React 又是如何重塑了前端开发的技术栈与理念，2015 年里 React Native 的登场又带来了哪些变化，以及现代前端开发中如何使用 Webpack、NPM 这些工具辅助 React、Vue.js 这些轻量级的前端框架来维护大规模、可扩展的单页应用。
+* [2017-Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook): Almost complete answers to "Front-end Job Interview Questions"
