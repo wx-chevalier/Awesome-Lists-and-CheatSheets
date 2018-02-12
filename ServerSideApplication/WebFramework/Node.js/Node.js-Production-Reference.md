@@ -1,9 +1,6 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # Node.js 微服务架构学习与实践资料索引
-
-* [node-prune #Project#](https://github.com/tj/node-prune): node-prune is a small tool to prune unnecessary files from ./node_modules, such as markdown, typescript source files, and so on.
 
 * [Putting the helmet on – Securing your Express app](https://parg.co/U55)
 
@@ -14,6 +11,8 @@
 * [2017-Scaling Node.js Applications](https://parg.co/b1y): Everything you need to know about Node.js built-in tools for scalability.
 
 * [2017-Checklist: Node.JS production best practices](http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/)
+
+* [How N26 built a modern banking software with JavaScript & Microservices.](https://parg.co/UXc)
 
 # Deploy: 部署
 
