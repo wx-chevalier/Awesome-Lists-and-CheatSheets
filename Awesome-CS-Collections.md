@@ -33,8 +33,14 @@ Awesome CS Collections 是集合的集合，集结了 CS、IT 相关的跨领域
 
 * [awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 
+# Web
+
+* [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook): Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore.
+
 # Server Side Application
 
-* [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions): A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
+* [Back-End Developer Interview Questions](https://parg.co/UXF): A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 
 # Infrastructure
+
+# Frontend

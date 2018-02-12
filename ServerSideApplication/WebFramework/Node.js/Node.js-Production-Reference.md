@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# Node.js 微服务架构学习与实践资料索引
+# Node.js Production Reference for MicroServices
 
 * [Putting the helmet on – Securing your Express app](https://parg.co/U55)
 
@@ -14,7 +14,7 @@
 
 * [How N26 built a modern banking software with JavaScript & Microservices.](https://parg.co/UXc)
 
-# Deploy: 部署
+# Deploy
 
 * [PM2 入门与部署 GitBook](https://wohugb.gitbooks.io/pm2/content/index.html)
 
@@ -22,7 +22,7 @@
 
 * [Nodejs 线上服务稳定性保障体系](http://www.tuicool.com/articles/RRvQ7zi)
 
-# Performance: 性能优化
+# Performance
 
 * [2017-Understanding & Measuring HTTP Timings with Node.js](https://blog.risingstack.com/measuring-http-timings-node-js/): This article explains timings in an HTTP request and shows how to measure them in Node.js.
 
@@ -30,7 +30,7 @@
 
 - [2018-node-clinic #Project#](https://github.com/nearform/node-clinic): Clinic diagnoses your Node.js performance issues.
 
-# Cluster: 集群与并发架构
+# Cluster
 
 * [2017-CPU Intensive Node.js](https://codeburst.io/cpu-intensive-node-js-part-1-1218b102e5ec): We explore the issues and solutions around running CPU intensive code in Node.js; in particular in a web server.
 
@@ -42,7 +42,7 @@
 
 * [2017-Node.js Child Processes: Everything you need to know](https://parg.co/bLq): Using multiple processes is the best way to scale a Node application. Node.js is designed for building distributed applications with many nodes. This is why it’s named Node. Scalability is baked into the platform and it’s not something you start thinking about later in the lifetime of an application.
 
-# MicroService: 微服务
+# MicroService
 
 * [2017-Microservices made easy with Node.js](https://arm.ag/microservices-made-easy-with-node-js-f41bb2be2d3c): You might think microservices are too hard to get started with. This post will prove otherwise.
 

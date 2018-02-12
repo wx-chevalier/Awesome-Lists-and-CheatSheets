@@ -44,6 +44,8 @@ State 思考
 
 * [how-to-dispatch-a-redux-action-with-a-timeout](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559)
 
+# Module & Code Splitting
+
 # Middleware: 中间件
 
 * [2016-A Beginner's Guide to Redux Middleware](https://parg.co/U9T): The application should be able to display the elapsed time on the screen and then save the elapsed time to a server using an HTTP request.
