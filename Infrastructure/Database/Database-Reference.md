@@ -24,11 +24,3 @@
 
 - [2017 年数据库技术盘点](https://cloud.tencent.com/developer/article/1042652):
   我们将从学术界、工程界的角度，从国外到国内，从数据库内核技术到数据库运维等多种角度，一起来回顾精彩的 2017。
-
-# CAP
-
-* [大话分布式系统理论基础](http://mp.weixin.qq.com/s/p4PEZPjxJyYXKpkCCdShbw)
-
-* [不懂点 CAP 理论，你好意思说你是做分布式的吗？ ](https://parg.co/ULa): CAP 理论，被戏称为[帽子理论]。CAP 理论由 Eric Brewer 在 ACM 研讨会上提出，而后 CAP 被奉为分布式领域的重要理论。
-
-* [Base: 一种 Acid 的替代方案-中文翻译](http://article.yeeyan.org/view/167444/125572)
