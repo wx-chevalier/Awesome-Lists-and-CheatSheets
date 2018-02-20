@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# Linux Shell 资料索引
+# Linux Shell Reference 
 
 * [bash-handbook](https://github.com/denysdovhan/bash-handbook)
 
@@ -21,6 +21,15 @@
 * [2017-Linux 下容易被忽视的那些命令用法](https://parg.co/b2E)
 
 * [How Do I Find The Largest Top 10 Files and Directories On a Linux / UNIX / BSD?](http://www.cyberciti.biz/faq/how-do-i-find-the-largest-filesdirectories-on-a-linuxunixbsd-filesystem/)
+
+# Resource 
+
+## Book
+
+## Course
+
+- [Bandit](http://overthewire.org/wargames/bandit/bandit1.html): The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames. 
+
 
 # 后台运行
 
