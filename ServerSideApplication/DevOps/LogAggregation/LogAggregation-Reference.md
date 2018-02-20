@@ -1,7 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
- 
- 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # 日志与聚合实践资料索引
 
@@ -18,7 +15,6 @@
 - [statsd](https://github.com/etsy/statsd)
 
 - [Building a Centralized Logging Application #Series#](https://medium.com/eulercoder/part-1-building-a-centralized-logging-application-5a537033da0a?source=linkShare-fe48c4221a4c-1516701704)
-
 
 # Logstash
 

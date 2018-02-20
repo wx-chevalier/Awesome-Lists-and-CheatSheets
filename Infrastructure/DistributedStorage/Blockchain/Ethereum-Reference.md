@@ -11,3 +11,5 @@
 - [2018-Deep dive into Ethereum logs](https://parg.co/UMB): Hey kids, today we are going low level trying to understand how Ethereum events and logs work.
 
 - [2018-Bringing the blockchain to React Native](https://parg.co/UXf): Despite the fact of the non existence of an Ethereum Wallet or Browser for React Native to interact with cross platform decentralized mobile apps, it’s possible bring the blockchain to React Native.
+
+* [vue-ethereum-ipfs](https://github.com/redacademy/vue-ethereum-ipfs): Distributed Application Starter: Vue front-end, Ethereum / IPFS Backend.
