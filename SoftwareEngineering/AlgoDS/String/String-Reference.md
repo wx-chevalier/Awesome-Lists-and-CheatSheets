@@ -6,7 +6,7 @@
 
 * [VerbalExpressions #Project#](https://github.com/VerbalExpressions): VerbalExpressions 是非常不错的正则表达式辅助生成工具。
 
-* [Regexper #Project#]（https://regexper.com/): These diagram are a straight-forward way to illustrate what can sometimes become very complicated processing in a regular expression, with nested looping and optional elements.
+* [Regexper #Project#](https://regexper.com/): These diagram are a straight-forward way to illustrate what can sometimes become very complicated processing in a regular expression, with nested looping and optional elements.
 
 # 模式匹配
 

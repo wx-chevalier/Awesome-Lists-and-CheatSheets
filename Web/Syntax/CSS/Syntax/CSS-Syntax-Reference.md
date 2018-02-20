@@ -1,4 +1,5 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
+
 # CSS 语法资料索引
 
 * [2017-Locally Scoped CSS Variables: What, How, and Why](https://parg.co/bLS): CSS Custom Properties (also popularly called CSS Variables) are here! This is really exciting because we finally have true variables in CSS!
@@ -24,6 +25,10 @@
 * [How I started drawing CSS Images](http://6me.us/kpnB)
 
 * [An Intermediate Guide to Pure CSS Images](http://codepen.io/mikemang/post/an-intermediate-guide-to-pure-css-images)
+
+# CSS Custom Properties
+
+* [Variable Order](http://kizu.ru/en/blog/variable-order/): Ordering a table with CSS Custom Properties and the order: property. Mind. Blowing.
 
 # 颜色与背景
 

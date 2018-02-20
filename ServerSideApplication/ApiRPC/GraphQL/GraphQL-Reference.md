@@ -6,11 +6,13 @@
 
 * [2018-GraphQL at the REST-aurant](https://parg.co/UvI): A tasty introduction to GraphQL.
 
+# Overview
+
 ## Resource
 
 * [Awesome GraphQL #Collection#](https://github.com/chentsulin/awesome-graphql): 一系列的关于 GraphQL 相关的资源的搜集
 
-## Comparison: 与 REST 的对比
+## Comparison
 
 * [2016-From REST to GraphQL](https://blog.jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b#.klx32whu6)：从 REST 到 GraphQL 的思维变迁。
 

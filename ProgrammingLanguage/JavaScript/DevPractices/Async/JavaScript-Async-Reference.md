@@ -40,6 +40,8 @@
 
 - [Master the JavaScript Interview: What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261#.yeuxdynfz)
 
+* [2018-Promises are not neutral enough](https://staltz.com/promises-are-not-neutral-enough.html): Promises in JavaScript create problems which affect the entire ecosystem. In this blog post I’ll explain some of those problems.
+
 # Generator
 
 * [2017-Asyncing Feeling about JavaScript Generators](https://www.bignerdranch.com/blog/asyncing-feeling-about-javascript-generators/)

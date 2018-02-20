@@ -20,6 +20,8 @@
 
 # VSCode
 
+* [Polaroid](https://github.com/octref/polacode): Polaroid for your code 📸.
+
 # Documents
 
 * [Docusaurus #Project#](https://parg.co/UtL): Docusaurus is a project for easily building, deploying, and maintaining open source project websites.
