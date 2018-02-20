@@ -1,7 +1,4 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
- 
- 
- 
 
 # JVM 问题定位与性能调优资料索引
 
@@ -21,26 +18,7 @@
 - [Java 性能优化指南，及唯品会的实战](http://www.tuicool.com/articles/r2eeimI)
 
 
-# OpenSource: 开源工具与框架
+# AOP Dynamic Tracing
 
-- [useful-scripts #Project#](https://github.com/oldratlee/useful-scripts): 把平时有用的手动操作做成脚本，这样可以便捷的使用。 
+- [2018-阿里巴巴正式开源自研动态非侵入AOP解决方案：JVM-Sandbox](https://mp.weixin.qq.com/s/Nn7Yl6UzRpWnSleKUss8Sw): 如何屏蔽字节码增强技术的高门槛，降低研发运维成本，同时又能支持上层多个工具平台功能的快速实现和动态管理，成为阿里集团的目标。
 
-## JProfiler
-
-- [2014-JProfiler 入门笔记](http://blog.csdn.net/chendc201/article/details/22897999)
-
-- [2017-What is VisualVM? How to Use VisualVM, Benefits, Tutorials and More](https://stackify.com/what-is-visualvm/)
-
-- [2017-Profiling Java Programs With VisualVM](https://parg.co/UuX)
-
-## GC
-
-- [GCViewer #Project#](https://github.com/chewiebug/GCViewer): Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector)
-
-- [Memory Analyzer (MAT) #Project#](https://www.eclipse.org/mat/): The Eclipse Memory Analyzer is a fast and feature-rich Java heap analyzer that helps you find memory leaks and reduce memory consumption.
-
-## Dynamic Tracing
-
-- [BTrace #Project#](https://github.com/btraceio/btrace): A safe, dynamic tracing tool for the Java platform
-
-- [JVM Sandbox #Project#](https://github.com/alibaba/jvm-sandbox): Real - time non-invasive AOP framework container based on JVM.
