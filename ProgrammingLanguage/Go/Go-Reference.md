@@ -20,7 +20,7 @@
 
 # Resource: 资源
 
-* [Awesome Go](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software.
+* [Awesome Go #Project#](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software.
 
 ## Book: 书籍
 
@@ -28,7 +28,13 @@
 
 * [2016-Learning Go Programming #Book#](https://parg.co/b21): An insightful guide to learning the Go programming language
 
-- [2017-Go 语言高级编程 #Book#](https://parg.co/UMV): 本书针对 Go 语言有一定经验，想深入了解 Go 语言各种高级用法的开发人员。
+* [2016-Go Web 编程 #Book#](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/)
+
+* [2016-深入解析 Go #Book#](https://tiancaiamao.gitbooks.io/go-internals/content/zh/): 因为自己对 Go 底层的东西比较感兴趣，所以抽空在写一本开源的书籍《深入解析 Go》。写这本书不表示我能力很强，而是我愿意分享，和大家一起分享对 Go 语言的内部实现的一些研究。
+
+- [2016-Webapp with Golang Anti Textbook](https://drive.wps.cn/view/l/576006e7ef6c4c4e8fe19663ded5e944)
+
+* [2017-Go 语言高级编程 #Book#](https://parg.co/UMV): 本书针对 Go 语言有一定经验，想深入了解 Go 语言各种高级用法的开发人员。
 
 # Tutorial: 教程
 
