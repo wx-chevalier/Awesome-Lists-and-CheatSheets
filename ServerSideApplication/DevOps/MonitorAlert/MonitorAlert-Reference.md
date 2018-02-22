@@ -4,6 +4,8 @@
 
 # Cluster&OS: 集群与主机监控
 
+- [2016-osquery For Security](https://medium.com/@clong/osquery-for-security-b66fffdf2daf): This post contains an overview of how to create an osquery config, centralize the log output, and start creating effective searches and alerts.
+
 # Visualization Monitor: 可视化监控
 
 - [2017-新思路设计可视化大型微服务监控系统](https://mp.weixin.qq.com/s/UTcpXJcrIERHZYmLkt1gog):达达 - 京东到家的 Overwatch 系统已经在线上运行了一年有余，采用了创新性的可视化监控设计，并成功帮助达达。
