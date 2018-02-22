@@ -70,6 +70,8 @@
 
 * [Cloud Native Computing](http://container-solutions.com/cloud-native-computing/)
 
+* [2018-The business of SaaS](https://stripe.com/atlas/guides/business-of-saas#benchmarks-to-know): Understand why SaaS businesses work and how to grow them.
+
 # 大厂分享
 
 * [2017 杭州云栖大会精华 PPT](https://github.com/Alimei/hangzhouYunQi2017ppt): 杭州云栖大会是阿里集团一年一度的全生态科技盛会。此次大会包含 140 多场技术主题论坛，共计 800 多个主题分享，涵盖人工智能、金融科技、量子计算、生命科学、IoT 、政务、多媒体、VR 等 20 多个前沿科技领域。

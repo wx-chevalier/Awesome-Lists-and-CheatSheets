@@ -28,6 +28,8 @@
 
 # Overview
 
+* [2018-Why Decentralization Matters](https://parg.co/UIk): Cryptonetworks are a powerful way to develop community-owned networks and provide a level playing field for 3rd-party developers, creators, and businesses.
+
 * [2017-Blockchains from a Distributed Computing Perspective](http://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf)
 
 ## Case Study: 案例分析

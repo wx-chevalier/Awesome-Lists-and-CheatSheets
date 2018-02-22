@@ -1,5 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # Carousel: 走马灯
 
@@ -34,6 +33,8 @@
 * [ScrollTrigger](https://github.com/terwanerik/ScrollTrigger)
 
 * AOS
+
+* [basicScroll](https://github.com/electerious/basicScroll): Standalone parallax scrolling for mobile and desktop with CSS variables.
 
 # Scrollytelling
 

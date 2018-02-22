@@ -1,5 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # Web 测试资料索引
 
@@ -40,60 +39,12 @@
 
 * [2017-TDD the RITE Way](https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3): Test Driven Development (TDD) is a process for writing software that provably satisfies the software requirements.
 
-# Test Runner
-
-* [2017-JavaScript unit testing frameworks: Comparing Jasmine, Mocha, AVA, Tape and Jest](https://parg.co/bJ5): When starting development on a new front end project, I always ask myself two questions: “Which Javascript unit testing frameworks should I use?” and “Should I even spend time adding tests?”
-
-## Mocha
-
-* [2015-Testing API requests from window.fetch](https://rjzaworski.com/2015/06/testing-api-requests-from-window-fetch)
-
-* [2015-测试框架 Mocha 实例教程](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
-
-* [2017-How to test JavaScript with Mocha #Series#](https://parg.co/bL5)：Mocha is one of the most popular Node.js testing frameworks and while it may seem daunting, it’s actually pretty easy to get started with. [The Basics](https://parg.co/bL5)
-
-## Karma
-
-* [2017-Automated testing with Headless Chrome](https://parg.co/beo): If you want to run automated tests using Headless Chrome, look no further! This article will get you all set up using Karma as a runner and Mocha+Chai for authoring tests.
-
-# UnitTest
-
-* [2016-5 Questions Every Unit Test Must Answer How to Write Better Tests](https://parg.co/bh4)
-
-* [2016-5 Common Misconceptions About TDD & Unit Tests](https://parg.co/b4S): Most developers seem to agree that testing is good, but developers frequently disagree about how to test. In this article, I’ll break down some common misconceptions and hopefully teach you a few things about how you can benefit the most from TDD (Test Driven Development) & unit tests.
-
-* [Learning React with Create-React-App](https://parg.co/bhf)
-
-* [Redux Testing Step by Step: A Simple Methodology for Testing Business Logic](https://parg.co/b41)
-
-# End To End Test
-
-* [2015-Just Say No to More End-to-End Tests](https://parg.co/bym): Good ideas often fail in practice, and in the world of testing, one pervasive good idea that often fails in practice is a testing strategy built around end-to-end tests.
-
-* [2017-Top 5 Most Rated Node.js Frameworks for End-to-End Web Testing](https://parg.co/bQo)
-
-* [2017-Javascript tools for end-to-end testing web applications](https://mo.github.io/2017/07/20/javascript-e2e-integration-testing.html): This post reviews available tools for end-to-end testing web applications using Javascript (i.e. tests that click buttons, type text etc).
-
-## Nightmare
-
-* [2016-Nightmarishly good scraping with Nightmare.js and async/await](https://parg.co/bQA)
-
-## TestCafe
-
-* [TestCafe Official Docs](https://devexpress.github.io/testcafe/)
-
-* [2017-End-to-End Testing Vue.js Apps with TestCafe](https://alligator.io/vuejs/e2e-testing-testcafe/): End-to-end testing is one of the most valuable tools in your testing arsenal, allowing you to simulate what your user would do as they move through your app and determine if your app is responding correctly to that.
-
-* [2017-E2E Testing React applications with TestCafe](https://parg.co/bhF): In this article, we will use TestCafe to test the React TodoMVC application.
-
-* [2017-All the tricks that help you debug TestCafe tests](https://medium.com/@dikareva1209/all-the-tricks-that-help-you-debug-testcafe-tests-af0418220d)：When you write functional tests, sooner or later you face the need to debug them. In this article, I’ll review everything TestCafe offers to facilitate this daily routine task.
-
 # Test Utils
 
 ## Mock
 
 * [2017-How to Mock Data for Node.js Applications using Faker.js](https://hackernoon.com/how-to-mock-data-for-node-js-applications-using-faker-js-b1f4c0e78102)
 
-  # A/B Test
+# A/B Test
 
 * [2017-How to quickly set up A/B testing for React websites](https://parg.co/bvk): Start collecting important data in as little as 30 minutes

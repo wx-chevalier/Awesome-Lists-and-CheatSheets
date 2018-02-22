@@ -18,13 +18,17 @@
 
 - [MDN-Web security](https://developer.mozilla.org/en-US/docs/Web/Security): The web security oriented articles listed here provide information that may help you secure your site and its code from attacks and data theft.
 
+# Browser Security
+
+* [CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging): Chrome extension and Express server that exploits keylogging abilities of CSS.
+
 # WebAPI
 
 * [2017-Improve Your Website Security in 5 Minutes With These HTTP Headers](https://parg.co/Upz)
 
-- [REST_Security_Cheat_Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
+* [REST_Security_Cheat_Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
 
-- [OWASP_API_Security_Project](https://www.owasp.org/index.php/OWASP_API_Security_Project)
+* [OWASP_API_Security_Project](https://www.owasp.org/index.php/OWASP_API_Security_Project)
 
 # XSS
 

@@ -1,7 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
- 
- 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # DataScienceAI Python
 
@@ -47,3 +44,8 @@
 * [Gensim Tutorial](https://radimrehurek.com/gensim/tutorial.html): The tutorials are organized as a series of examples that highlight various features of gensim. It is assumed that the reader is familiar with the Python language, has installed gensim and read the introduction.
 
 - [fastText #Project#](https://github.com/facebookresearch/fastText): Library for fast text representation and classification.
+
+# spaCy
+
+* [NLP concepts with spaCy](https://gist.github.com/aparrish/f21f6abbf2367e8eb23438558207e1c3):
+  The aim of this notebook is to introduce a few simple concepts and techniques from NLP.

@@ -1,12 +1,8 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 ![](https://cdn-images-1.medium.com/max/2000/0*I5vtdhUqmRJ1zI1e.jpg)
 
 # 数据结构与算法资料索引
-
-> “Bad programmers worry about the code. Good programmers worry about data structures and their relationships.”
-> — Linus Torvalds, creator of Linux
 
 本文是笔者对于常见的数据结构与算法资料搜集索引，本文剩余章节按照语言列举了数据结构与算法书籍或者系列教程。
 
@@ -86,6 +82,8 @@
 - [2017-pygorithm](https://github.com/OmkarPathak/pygorithm): A Python module for learning all major algorithms
 
 # Go
+
+* [2017-go-algorithms #Project#](https://github.com/0xAX/go-algorithms): Algorithms and data structures for golang.
 
 # Rust
 

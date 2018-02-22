@@ -26,9 +26,11 @@
 
 * [An Intermediate Guide to Pure CSS Images](http://codepen.io/mikemang/post/an-intermediate-guide-to-pure-css-images)
 
-# CSS Custom Properties
+# CSS Custom Properties/CSS Variables
 
-* [Variable Order](http://kizu.ru/en/blog/variable-order/): Ordering a table with CSS Custom Properties and the order: property. Mind. Blowing.
+* [2018-Variable Order](http://kizu.ru/en/blog/variable-order/): Ordering a table with CSS Custom Properties and the order: property. Mind. Blowing.
+
+* [2016-Reactive Animations CSS Variables](http://slides.com/davidkhourshid/reactanim#/): This is the concept of describing a continuous series of events in a discrete way.
 
 # 颜色与背景
 
