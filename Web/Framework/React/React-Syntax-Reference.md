@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# React 基础语法资料索引
+# React Syntax Reference
 
 # Component: 组件语法
 

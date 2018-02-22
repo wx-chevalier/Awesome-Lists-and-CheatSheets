@@ -1,58 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# React 工程实践资料索引
-
-# Debug: 调试
-
-# Test: 测试
-
-* [2017-Testing React Applications #Series#](https://blog.logrocket.com/testing-react-applications-part-1-of-3-ebd8397917f3)：With React and the ecosystem of testing tools that have emerged around it, it’s finally possible to build robust, scalable tests that provide strong guarantees on code correctness.
-
-* [Snapshot Testing React Components with Jest](https://semaphoreci.com/community/tutorials/snapshot-testing-react-components-with-jest)
-
-- [Testing in React: best practices, tips and tricks](https://parg.co/bsP)
-
-- [Testing React components with Jest and Enzyme](https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f#.yfpuy4eip)
-
-- [Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/)
-
-* [Testing in React: Getting Off The Ground](https://medium.com/javascript-inside/testing-in-react-getting-off-the-ground-5f569f3088a#.6ip96uul5)
-
-* [UI Testing in React](http://www.tuicool.com/articles/FBRN322)
-
-- [a-step-by-step-tdd-approach-on-testing-react-components-using-enzyme](http://thereignn.ghost.io/a-step-by-step-tdd-approach-on-testing-react-components-using-enzyme/)
-
-- [enzyme-javascript-testing-utilities-for-react](https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f#.huj3rtv24)
-
-* [Testing React Apps With Jest](https://facebook.github.io/jest/docs/tutorial-react.html)
-
-- [2017-Front-end (React) Snapshot Testing with Jest: What is it for?](https://parg.co/bRQ)
-
-# StaticType: 静态类型检测
-
-* [2017-Typing Higher-order Components in Recompose With Flow](https://parg.co/bDu)
-
-## Flow
-
-## TypeScript
-
-* [2017-React Higher-Order Components in TypeScript made simple](https://codeburst.io/react-higher-order-components-in-typescript-made-simple-6f9b55691af1)
-
-- [2017-react-typescript-samples](https://parg.co/UZK): The goal of this project is to provide a set of simple samples, providing and step by step guide to start working with React and Typescript.
-
-# Code Splitting & Components Decomposition: 代码分割与组件解耦
-
-* [2017-React Loadable #Project# ](https://github.com/thejameskyle/react-loadable): [2017-Introducing React Loadable](http://6me.us/mNHi)、[react-loadable-visibility #Project# ](https://github.com/stratiformltd/react-loadable-visibility)
-
-* [2017-Code Splitting in Create React App](http://serverless-stack.com/chapters/code-splitting-in-create-react-app.html): This chapter is an extra step that can help speed up the initial load time of your React app.
-
-* [2017-https://parg.co/bXz](https://parg.co/bXz): Techniques for decomposing React components. React components have a lot of power and flexibility. With so many tools at your disposal, it is incredibly easy for components to grow over time, become bloated and do too much.
-
-* [2017-Writing Clean and Concise React Components by Making Full Use of ES6/7 Features and the Container-Component Pattern](https://parg.co/b1B)
-
-- [2018-Server Rendering, Code Splitting, and Lazy Loading with React Router v4](https://parg.co/UVJ): In this article, software engineers from Airbnb share practices in combing server rendering and code splitting.
-
-* [Upgrading a create-react-app project to a SSR + code splitting setup](https://parg.co/Ukg): This is what we’ll cover: Server-side rendering, Code splitting with react-loadable, Code splitting on the server, Taking benefit of webpack’s chunkNames.
+# React DevPractices Reference
 
 # Architecture Pattern: 架构模式
 
@@ -76,8 +24,6 @@
 
 * [Higher-Order Components in React](http://6me.us/MUHBdp)
 
-* [jsinspect](https://github.com/danielstjules/jsinspect)
-
 - [Our Best Practices for Writing React Components](https://medium.com/code-life/our-best-practices-for-writing-react-components-dec3eb5c3fc8#.mh12fzmoi)
 
 - [2017-Avoiding deeply nested component trees](https://parg.co/beQ): By passing child components down instead of data you can avoid passing data down through many levels of components.
@@ -87,10 +33,6 @@
 - [2017-8 Key React Component Decisions](https://parg.co/Um6): Standardize your React development with these key decisions.
 
 - [How to structure components in React?](https://parg.co/USj)
-
-## CodeStyle: 代码风格
-
-* [eslint-plugin-react #Project# ](https://parg.co/b11): React specific linting rules for ESLint.
 
 * [Evolving Patterns in React](https://parg.co/UXm): Let’s take a closer look at some of the patterns that are emerging in the React ecosystem. These patterns improve readability, code clarity, and push your code towards composition and reusability.
 
@@ -129,3 +71,43 @@
 * [React Higher Order Components in depth](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.52i6nt3at)
 
 - [2016-Building HOCs with Recompose](https://medium.com/front-end-developers/building-hocs-with-recompose-7debb951d101)
+
+## Code Organization: 代码组织
+
+* [2016-How to better organize your React applications?](https://parg.co/UII): I decided to spend some time to figure out what could be the best way to organize my future React projects.
+
+# StaticType: 静态类型检测
+
+## Flow
+
+* [2017-Typing Higher-order Components in Recompose With Flow](https://parg.co/bDu)
+
+## TypeScript
+
+* [2017-React Higher-Order Components in TypeScript made simple](https://codeburst.io/react-higher-order-components-in-typescript-made-simple-6f9b55691af1)
+
+- [2017-react-typescript-samples](https://parg.co/UZK): The goal of this project is to provide a set of simple samples, providing and step by step guide to start working with React and Typescript.
+
+# Test: 测试
+
+* [2017-Testing React Applications #Series#](https://blog.logrocket.com/testing-react-applications-part-1-of-3-ebd8397917f3)：With React and the ecosystem of testing tools that have emerged around it, it’s finally possible to build robust, scalable tests that provide strong guarantees on code correctness.
+
+* [Snapshot Testing React Components with Jest](https://semaphoreci.com/community/tutorials/snapshot-testing-react-components-with-jest)
+
+- [Testing in React: best practices, tips and tricks](https://parg.co/bsP)
+
+- [Testing React components with Jest and Enzyme](https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f#.yfpuy4eip)
+
+- [Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/)
+
+* [Testing in React: Getting Off The Ground](https://medium.com/javascript-inside/testing-in-react-getting-off-the-ground-5f569f3088a#.6ip96uul5)
+
+* [UI Testing in React](http://www.tuicool.com/articles/FBRN322)
+
+- [a-step-by-step-tdd-approach-on-testing-react-components-using-enzyme](http://thereignn.ghost.io/a-step-by-step-tdd-approach-on-testing-react-components-using-enzyme/)
+
+- [enzyme-javascript-testing-utilities-for-react](https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f#.huj3rtv24)
+
+* [Testing React Apps With Jest](https://facebook.github.io/jest/docs/tutorial-react.html)
+
+- [2017-Front-end (React) Snapshot Testing with Jest: What is it for?](https://parg.co/bRQ)

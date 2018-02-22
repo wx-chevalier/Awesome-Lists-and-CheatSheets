@@ -30,6 +30,8 @@
 
 * [2018-Variable Order](http://kizu.ru/en/blog/variable-order/): Ordering a table with CSS Custom Properties and the order: property. Mind. Blowing.
 
+* [2018-Everything you need to know about CSS Variables](https://parg.co/UIJ): In this guide, I’ll show you how variables work natively in CSS, and how you can use them to make your life a lot easier.
+
 * [2016-Reactive Animations CSS Variables](http://slides.com/davidkhourshid/reactanim#/): This is the concept of describing a continuous series of events in a discrete way.
 
 # 颜色与背景

@@ -14,23 +14,19 @@
 
 * [Rekit #JavaScript#](https://github.com/supnate/rekit): Toolkit for building scalable web applications with React, Redux and React-router
 
-# Alternatives: 替代库
+* [react-armor #Project#](https://github.com/elierotenberg/react-armor): Protect your DOM from third-party tampering.
 
-## Preact
+* [eslint-plugin-react #Project#](https://parg.co/b11): React specific linting rules for ESLint.
 
-* [The Inner Workings Of Virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf#.or5425hja)
-
-- [Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact](https://github.com/lukeed/preact-starter)
-
-- [司徒正美 preact 源码学习系列文章](https://segmentfault.com/a/1190000010336457)
+* [jsinspect #Project#](https://github.com/danielstjules/jsinspect): Detect copy-pasted and structurally similar code.
 
 # Pattern Library: 模式库
 
-* [Material-UI](http://www.material-ui.com/#/): A Set of React Components that Implement Google's Material Design.
+* [Material-UI #Project#](http://www.material-ui.com/#/): A Set of React Components that Implement Google's Material Design.
 
-- [Ant Design](https://www.hugedomains.com/domain_profile.cfm?d=ant-design&e=com): An enterprise-class UI design language and React-based implementation.
+- [Ant Design #Project#](https://www.hugedomains.com/domain_profile.cfm?d=ant-design&e=com): An enterprise-class UI design language and React-based implementation.
 
-* [2017-Downshift](https://medium.com/@kentcdodds/introducing-downshift-for-react-b1de3fca0817): Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
+* [2017-Downshift #Project#](https://medium.com/@kentcdodds/introducing-downshift-for-react-b1de3fca0817): Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
 
 # Widgets: 组件
 
@@ -52,7 +48,7 @@
 
 ## Form
 
-* [2017Some Thoughts On Forms in React](https://parg.co/bIR): There are a number of viable approaches to solve aforementioned situations when it comes forms in React land. Without getting too specific, let’s just think about those approaches from a high level perspective.
+* [2017-Some Thoughts On Forms in React](https://parg.co/bIR): There are a number of viable approaches to solve aforementioned situations when it comes forms in React land. Without getting too specific, let’s just think about those approaches from a high level perspective.
 
 * [Formik #Project# ](https://github.com/jaredpalmer/formik): Forms in React, without tears
 

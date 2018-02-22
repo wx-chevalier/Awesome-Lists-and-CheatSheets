@@ -1,4 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # 定时任务资料索引
 
@@ -8,9 +8,8 @@
 
 - [2018-延迟任务调度系统技术选型与设计](http://blog.csdn.net/yigezei/article/details/79286225): 顾名思义，延迟任务的特点是延迟执行。
 
-# OpenSource 
+# OpenSource
 
 * [Agenda #Project#](https://github.com/agenda/agenda): Lightweight job scheduling for Node.js, Mongo backed persistence layer.
 
 * [minicron](https://github.com/jamesrwhite/minicron): Monitor your cron jobs
-

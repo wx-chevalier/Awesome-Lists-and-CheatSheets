@@ -1,4 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # React 学习与实践资料索引
 
@@ -72,4 +72,4 @@
 
 - [2017-A React TODOs example, explained](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)
 
-- [2018-Rock Solid React.js Foundations: A Beginner’s Guide](https://parg.co/Uv3):  this post is aimed towards the audience who is looking for a perfect mix of theory and hands-on. 
+- [2018-Rock Solid React.js Foundations: A Beginner’s Guide](https://parg.co/Uv3): this post is aimed towards the audience who is looking for a perfect mix of theory and hands-on.

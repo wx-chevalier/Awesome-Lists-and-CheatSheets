@@ -1,7 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
- 
- 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # 权限认证资料索引
 
@@ -14,8 +11,6 @@
 * [登录工程：现代 Web 应用的典型身份验证需求](http://insights.thoughtworkers.org/project-of-login/)
 
 * [How CAPTCHA Works](https://blog.jscrambler.com/how-captcha-works/)
-
-- [4 种微服务系统认证策略 ](http://mp.weixin.qq.com/s?__biz=MzI4MjE3MTcwNA==&mid=2664335074&idx=1&sn=3c909e3ff9129e1ec01b5b1b53de2aa5&chksm=f0a426b5c7d3afa3926bf6344b36ee13fb2dff73f859f3788176977568dd9f33d36c2aa4e783#rd)
 
 - [2017- 接口的权限认证技术纵览](https://parg.co/bte)：本文以表格的方式详细列举了常见的接口权限认证技术的描述、适用场景、数据存储以及和服务端交互方式等内容。本文涉及到的常用权限认证技术包括：HTTP Basic 认证、无状态 Session Cookie、JWT 、有状态 Session Cookie、随机令牌、请求签名、OAuth 等。( https://parg.co/bte )
 

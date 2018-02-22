@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# React 应用架构与性能优化资料索引
+# React Production Reference
 
 * [Rendering a function with React](https://parg.co/UEv): How I tricked React into rendering a function (not call it… render it)
 
@@ -65,6 +65,20 @@
 
 * [React PureComponent Pitfalls](https://parg.co/UXA): Unnecessary re-renders can slow down your app, especially when rendering large collections where updates to the collection occur frequently.
 
+# Code Splitting & Components Decomposition: 代码分割与组件解耦
+
+* [2017-React Loadable #Project# ](https://github.com/thejameskyle/react-loadable): [2017-Introducing React Loadable](http://6me.us/mNHi)、[react-loadable-visibility #Project# ](https://github.com/stratiformltd/react-loadable-visibility)
+
+* [2017-Code Splitting in Create React App](http://serverless-stack.com/chapters/code-splitting-in-create-react-app.html): This chapter is an extra step that can help speed up the initial load time of your React app.
+
+* [2017-https://parg.co/bXz](https://parg.co/bXz): Techniques for decomposing React components. React components have a lot of power and flexibility. With so many tools at your disposal, it is incredibly easy for components to grow over time, become bloated and do too much.
+
+* [2017-Writing Clean and Concise React Components by Making Full Use of ES6/7 Features and the Container-Component Pattern](https://parg.co/b1B)
+
+- [2018-Server Rendering, Code Splitting, and Lazy Loading with React Router v4](https://parg.co/UVJ): In this article, software engineers from Airbnb share practices in combing server rendering and code splitting.
+
+* [Upgrading a create-react-app project to a SSR + code splitting setup](https://parg.co/Ukg): This is what we’ll cover: Server-side rendering, Code splitting with react-loadable, Code splitting on the server, Taking benefit of webpack’s chunkNames.
+
 # Server Side Rendering: 服务端渲染
 
 * [2017-Introducing Rapscallion #Project#](http://formidable.com/blog/2017/introducing-rapscallion/): a new approach for server-side rendering React applications.
@@ -89,4 +103,12 @@
 
 # Monitor & Report
 
-* [react-armor #Project#](https://github.com/elierotenberg/react-armor): Protect your DOM from third-party tampering.
+# Alternatives: 替代库
+
+## Preact
+
+* [The Inner Workings Of Virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf#.or5425hja)
+
+- [Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact](https://github.com/lukeed/preact-starter)
+
+- [司徒正美 preact 源码学习系列文章](https://segmentfault.com/a/1190000010336457)
