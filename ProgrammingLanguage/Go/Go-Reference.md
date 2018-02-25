@@ -51,3 +51,5 @@
 * [2017-Golang tutorial series by GolangBot.com](https://golangbot.com/learn-golang-series/)
 
 * [2017-Golang command tutorial in Chinese.](https://github.com/hyper0x/go_command_tutorial)
+
+- [2018-Using Go as a scripting language in Linux](https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/)

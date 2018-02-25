@@ -18,6 +18,8 @@
 
 * [How to build a GraphQL Server with `graphql-yoga`](https://parg.co/UIg): In this post, you’ll learn how to build your own GraphQL server using graphql-yoga from scratch.
 
+- [How to wrap a REST API with GraphQL](https://blog.graph.cool/how-to-wrap-a-rest-api-with-graphql-8bf3fb17547d): 3-step tutorial how to easily turn a REST API into a GraphQL API.
+
 # Client
 
 * [Exploring different GraphQL Clients](https://itnext.io/exploring-different-graphql-clients-d1bc69de305f): I wanted to study how these clients work, so I aimed to implement the same query using different clients and share my experience.
