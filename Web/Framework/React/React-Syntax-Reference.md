@@ -135,3 +135,8 @@
 ## React Router Animation
 
 * [2017-A shallow dive into React Router v4 Animated Transitions](https://parg.co/b1I): It can be a bit confusing getting animated transitions setup with React Router v4. This article won’t cover every scenario, but we’ll go over the basics so that you can add animated transitions to your application.
+
+
+# Widgets
+
+- [2018-An imperative guide to forms in React](https://blog.logrocket.com/an-imperative-guide-to-forms-in-react-927d9670170a?source=linkShare-fe48c4221a4c-1519391172): in this tutorial, I will explain how React deals with forms and events.

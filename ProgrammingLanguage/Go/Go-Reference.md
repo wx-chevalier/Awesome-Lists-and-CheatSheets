@@ -59,3 +59,7 @@
 * [Go Web Examples #Series#](https://gowebexamples.github.io/): Go Web Examples provides easy to understand code snippets on how to do web development in the Go programming language.
 
 * [2018-Building a JSON API in Go](https://parg.co/U1h): I've recently been building more and more complex things with the Go programming language. It's been a lot of fun!
+
+* [2017-Golang command tutorial in Chinese.](https://github.com/hyper0x/go_command_tutorial)
+
+- [2018-Using Go as a scripting language in Linux](https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/)
