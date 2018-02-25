@@ -40,6 +40,8 @@
 
 * [ECMAScript 2017 and beyond](https://speakerdeck.com/rauschma/ecmascript-2017-and-beyond): In this talk, we’ll go into the latest JavaScript features and how they are designed.
 
+* [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html): This book is about two versions of JavaScript: ECMAScript 2018 and ECMAScript 2019.
+
 ## CheatSheet: 语法速览
 
 * [2017-JavaScript 核心概念归纳整理](https://mp.weixin.qq.com/s/I7A1iC8Et6uOGZ234DsTlA)：本文针对 JavaScript 语言的核心概念进行简单的梳理，对应的每个知识点仅仅点到为止，不作详细介绍。目的是为了方便大家快速审查自己对 JavaScript 的知识结构是否完善，如有遗漏或不正确的地方，还望批评指正。
@@ -85,3 +87,7 @@
 * [Interview Algorithm Questions in Javascript() {...}](https://github.com/kennymkchan/interview-questions-in-javascript)
 
 * [2017-The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://parg.co/bIL)
+
+# Tutorial
+
+* [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html): This book is about two versions of JavaScript: ECMAScript 2018 and ECMAScript 2019.

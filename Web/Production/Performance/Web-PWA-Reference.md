@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# Progressive Web Apps 学习与实践资料索引
+# Progressive Web Apps Reference
 
 本文是 Progressive Web Apps 开发中搜集的一系列有价值的参考资料。
 

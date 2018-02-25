@@ -8,6 +8,8 @@
 
 - [graphiql-graphql-s-killer-app](https://medium.com/the-graphqlhub/graphiql-graphql-s-killer-app-9896242b2125#.gork8qie3)
 
+* [2018-Securing Your GraphQL API from Malicious Queries](https://parg.co/U1t): In this guest post he describes how they secured their GraphQL API from attackers.
+
 # Apollo
 
 ## Apollo Server

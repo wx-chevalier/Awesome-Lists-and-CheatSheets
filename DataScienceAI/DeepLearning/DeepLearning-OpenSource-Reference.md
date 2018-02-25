@@ -13,3 +13,5 @@
 - [2018-Minigo #Project#](https://github.com/tensorflow/minigo): A minimalist Go engine modeled after AlphaGo Zero, built on MuGo.
 
 * [How you can train an AI to convert your design mockups into HTML and CSS](https://parg.co/UXR)
+
+* [2018-One Pixel Attack #Project#](https://github.com/Hyperparticle/one-pixel-attack-keras): Keras reimplementation of "One pixel attack for fooling deep neural networks" using differential evolution on cifar10.

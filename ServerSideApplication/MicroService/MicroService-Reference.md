@@ -26,7 +26,10 @@
 
 ## 视频演讲
 
-# 技术选型
+# 架构设计
+
+* [微服务架构的 4 大设计原则和 1 个平台实践](https://mp.weixin.qq.com/s/dmPhaERxkDlC2lbzgJIMgg):
+  本文介绍微服务架构的演进、优缺点和微服务应用的设计原则，然后着重介绍作为一个“微服务应用平台”需要提供哪些能力、解决哪些问题才能更好地支撑企业应用架构。
 
 # 工程实践
 
@@ -42,7 +45,7 @@
 
 - [探索 Service 本源](https://drive.wps.cn/view/l/c082daaed0c2454c8cb32c76c9af2d88)
 
-- [一个可供创业公司借鉴的 API 架构演进思路 ](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598657&idx=1&sn=a663aa0b0326fefe59af31f84316a7b0&chksm=8be99453bc9e1d45e979b0e28af8b7e174dfb3c499cc40ba9bc3b90a5bb6e5e6525ae8b49ddc#rd)
+- [一个可供创业公司借鉴的 API 架构演进思路 ](https://parg.co/U13)
 
 - [微服务架构的理论基础 - 康威定律](https://yq.aliyun.com/articles/8611?f=tt)
 

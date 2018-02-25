@@ -76,7 +76,7 @@
 
 * [2016-How to better organize your React applications?](https://parg.co/UII): I decided to spend some time to figure out what could be the best way to organize my future React projects.
 
-# StaticType: 静态类型检测
+# Static Type: 静态类型检测
 
 ## Flow
 
@@ -86,7 +86,9 @@
 
 * [2017-React Higher-Order Components in TypeScript made simple](https://codeburst.io/react-higher-order-components-in-typescript-made-simple-6f9b55691af1)
 
-- [2017-react-typescript-samples](https://parg.co/UZK): The goal of this project is to provide a set of simple samples, providing and step by step guide to start working with React and Typescript.
+* [2017-react-typescript-samples](https://parg.co/UZK): The goal of this project is to provide a set of simple samples, providing and step by step guide to start working with React and Typescript.
+
+* [2018-TypeScript and React using create-react-app](https://parg.co/U15): A step-by-step guide to setting up your first app.
 
 # Test: 测试
 
@@ -96,7 +98,7 @@
 
 - [Testing in React: best practices, tips and tricks](https://parg.co/bsP)
 
-- [Testing React components with Jest and Enzyme](https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f#.yfpuy4eip)
+- [2017-Testing React components with Jest and Enzyme](https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f#.yfpuy4eip)
 
 - [Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/)
 
@@ -111,3 +113,5 @@
 * [Testing React Apps With Jest](https://facebook.github.io/jest/docs/tutorial-react.html)
 
 - [2017-Front-end (React) Snapshot Testing with Jest: What is it for?](https://parg.co/bRQ)
+
+* [2017-Jest Testing patterns in React-Redux applications](https://parg.co/U1G): Jest provides a complete ecosystem for testing. There is no need of extra libraries - Mocha, Sinon, Istanbul, Chai, proxyquire etc. as all are present in Jest itself.
