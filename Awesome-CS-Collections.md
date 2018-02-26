@@ -29,11 +29,9 @@ Awesome CS Collections 是集合的集合，集结了 CS、IT 相关的跨领域
 
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 
-* [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps): Use your terminal shell to do awesome things.
-
-* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps): A curated list of command line apps.
-
 * [awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+
+* [InterviewNotes](https://github.com/CyC2018/InterviewNotes): :books: 计算机基础知识整理，持续更新中~
 
 # Web
 
