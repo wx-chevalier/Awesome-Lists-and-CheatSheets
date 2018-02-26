@@ -24,4 +24,18 @@
 
 * [Spark #Project#](http://sparkjava.com/): A micro framework for creating web applications in Kotlin and Java 8 with minimal effort.
 
+# Production
+
+## Static Analysis
+
+CheckStyle
+
+Cobertura
+
+* [FindBugs](http://findbugs.sourceforge.net/)
+
+* [SourceMonitor #Project#](http://www.campwoodsw.com/sourcemonitor.html): The freeware program SourceMonitor lets you see inside your software source code to find out how much code you have and to identify the relative complexity of your modules. 
+
+* [PMD #Project#](https://pmd.github.io/): PMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth.
+
 # Web Framework
