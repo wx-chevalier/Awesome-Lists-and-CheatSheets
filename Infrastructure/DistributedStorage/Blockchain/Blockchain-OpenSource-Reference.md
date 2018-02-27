@@ -5,3 +5,7 @@
 * [blockchain-cli #Project# #JavaScript#](https://github.com/seanseany/blockchain-cli): A minimal blockchain command-line interface.
 
 * [2017-Naivecoin #Series#](https://lhartikk.github.io/): a tutorial for building a cryptocurrency.
+
+# Ethereum 
+
+* [TypeChain #Project#](https://github.com/Neufund/TypeChain): Typescript bindings for Ethereum smartcontracts.
