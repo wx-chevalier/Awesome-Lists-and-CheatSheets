@@ -30,6 +30,8 @@
 
 - [2017-Idiomatic Redux: The Tao of Redux #Series#](http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/): Thoughts on what Redux requires, how Redux is intended to be used, and what is possible with Redux. [Part 1 - Implementation and Intent](http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/)
 
+- [2018-Learn Redux by Building Redux from Scratch](https://parg.co/Uah): A tutorial to understand the core Redux library by building it step-by-step.
+
 # Tutorial
 
 * [How To Manage UI State With Redux](https://codeburst.io/how-to-manage-ui-state-with-redux-24deb6cf0d57): Questions regarding how to handle UI state are asked continuously on development boards, so I’d like to share with you how I maintain it. It’s a best practice that has improved the management of my applications.
