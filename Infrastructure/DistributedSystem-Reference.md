@@ -6,6 +6,8 @@
 
 - [In search of a simple consensus algorithm](http://rystsov.info/2017/02/15/simple-consensus.html)
 
+- [漫谈分布式系统、拜占庭将军问题与区块链](https://mp.weixin.qq.com/s/tngWdvoev8SQiyKt1gy5vw): 今天本文就借这个机会，跟大家一起讨论一下分布式系统的核心问题和概念。最后，我们将尽量沿着逻辑上前后一贯的思路，讨论一下区块链技术。
+
 # CAP
 
 * [大话分布式系统理论基础](http://mp.weixin.qq.com/s/p4PEZPjxJyYXKpkCCdShbw)
