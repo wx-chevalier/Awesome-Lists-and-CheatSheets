@@ -27,6 +27,8 @@
 
 * [A Brief History of Node Streams #Series#](http://6me.us/cC9Jcm)
 
+- [2017-Do you want a better understanding of Buffer in Node.js? Check this out.](https://medium.freecodecamp.org/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8)
+
 # Command Line
 
 * 命令行辅助参数解析：[yargs #Project# ](https://github.com/yargs/yargs)、[Inquirer.js #Project# ](https://github.com/SBoudrias/Inquirer.js)
