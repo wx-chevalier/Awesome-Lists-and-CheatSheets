@@ -32,6 +32,8 @@
 
 - [2017-kittenTricks](https://github.com/akveo/kittenTricks): A react native mobile starter kit with over 40 screens and theme hot reload support.
 
+- [2017-Reactive Search #Project#](https://github.com/appbaseio/reactivesearch): A React and React Native UI components library for building data-driven apps.
+
 # App
 
 ## Expo
