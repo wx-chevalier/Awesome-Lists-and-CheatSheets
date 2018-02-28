@@ -1,10 +1,10 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# Go 学习与实践资料索引
+# Go Reference
 
 * [2017-The beauty of Go](https://hackernoon.com/the-beauty-of-go-98057e3f0a7d): So if you’re an engineer or a startup trying to decide what language you want to explore or try out, do give Go a serious thought.
 
-# Overview: 概述
+# Overview
 
 * [2017-为什么说 2017 年你必须要学习 Go 了](http://mp.weixin.qq.com/s/hQLUjvttTPgfd9qO1l-i6A)
 
@@ -14,7 +14,7 @@
 
 * [2018-Golang 工程经验](https://juejin.im/post/5a6873fb518825733e60a1ae): 转战 Golang 一年有余，经历了两个线上项目的洗礼，总结出一些工程经验，一个是总结出一些实战经验，一个是用来发现自我不足之处
 
-## Case Study: 案例分析
+## Case Study
 
 * [2018-Uber-Code Migration in Production](https://eng.uber.com/schemaless-rewrite/): Rewriting the Sharding Layer of Uber’s Schemaless Datastore.
 
@@ -22,11 +22,11 @@
 
 * [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet): An overview of Go syntax and features.
 
-# Resource: 资源
+# Resource
 
 * [Awesome Go #Project#](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software.
 
-## Book: 书籍
+## Book
 
 * [2015-An Introduction to Programming in Go #Book#](http://www.golang-book.com/): A short, concise introduction to computer programming using the language Go. Designed by Google, Go is a general purpose programming language with modern features, clean syntax and a robust well-documented common library, making it an ideal language to learn as your first programming language.
 
@@ -40,7 +40,9 @@
 
 * [2017-Go 语言高级编程 #Book#](https://parg.co/UMV): 本书针对 Go 语言有一定经验，想深入了解 Go 语言各种高级用法的开发人员。
 
-# Tutorial: 教程
+* [2018-Essential Go #Book#](https://www.programming-books.io/essential/go/): a free Go programming book, a continuation of Stack Overflow Documentation.
+
+# Tutorial
 
 * [2017-A tour of Go #Project#](https://tour.golang.org/welcome/1): The tour is divided into a list of modules and interactive, These example programs demonstrate different aspects of Go. The programs in the tour are meant to be starting points for your own experimentation.
 
@@ -54,7 +56,7 @@
 
 - [2017-Golang command tutorial in Chinese.](https://github.com/hyper0x/go_command_tutorial)
 
-## Web
+## Web Dev
 
 * [Go Web Examples #Series#](https://gowebexamples.github.io/): Go Web Examples provides easy to understand code snippets on how to do web development in the Go programming language.
 
