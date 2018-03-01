@@ -44,7 +44,7 @@
 
 * [Graphite #Project#](https://graphiteapp.org/): Graphite is an enterprise-ready monitoring tool that runs equally well on cheap hardware or Cloud infrastructure.
 
-## Prometheus
+# Prometheus
 
 * [Prometheus #Project#](https://prometheus.io/): Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts if some condition is observed to be true.
 
@@ -55,6 +55,8 @@
 * [Grafana dashboards for MySQL and MongoDB monitoring using Prometheus #Project#](https://github.com/percona/grafana-dashboards)
 
 * [2018-Prometheus 原理和源码分析](http://www.infoq.com/cn/articles/Prometheus-theory-source-code#): 本文分析了客户端和服务端的部分源码实现，介绍了客户端数据模型和 PromQL 计算逻辑，希望能为基于 Prom 的监控平台提供一些启发。
+
+* [2018-Prometheus Metrics without Prometheus Server](https://blog.latency.at/2018-01-06-prometheus-metrics-without-prometheus-server/):  the simple and open exposition format can be consumed by many other systems and is on it’s way to become the defacto standard of metrics exposition. 
 
 # Open Falcon
 
