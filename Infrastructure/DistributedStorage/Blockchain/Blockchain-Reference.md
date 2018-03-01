@@ -32,7 +32,7 @@
 
 * [2017-Blockchains from a Distributed Computing Perspective](http://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf)
 
-## Case Study: 案例分析
+## Case Study
 
 * [2016-从概念到底层技术，一篇文看懂重塑世界的区块链](https://parg.co/UXC): 区块链是目前一个比较热门的新概念，蕴含了技术与金融两层概念。从技术角度来看，这是一个牺牲一致性效率且保证最终一致性的的分布式的数据库，当然这是比较片面的。从经济学的角度来看，这种容错能力很强的点对点网络，恰恰满足了共享经济的一个必须要求——低成本的可信环境。
 
@@ -44,11 +44,13 @@
 
 ## Collection
 
+* [awesome-blockchain](https://github.com/chaozh/awesome-blockchain): 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
+
 ## Blog
 
 * [Blockgeeks #Blog#](https://blockgeeks.com/): Blockgeeks is a leading online learning platform that helps anyone learn Blockchain in business, software, technology and creative skills to achieve personal and professional goals.
 
-# Tutorial: 教程
+# Tutorial
 
 * [2018-BlockShell #Project#](https://github.com/daxeel/blockshell): A command line utility for learning Blockchain technical concepts likechaining, mining, proof of work etc.
 
