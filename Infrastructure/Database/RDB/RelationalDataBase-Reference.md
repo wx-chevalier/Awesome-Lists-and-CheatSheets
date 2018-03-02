@@ -12,10 +12,6 @@
 
 * [2016-Relational Database Design and Implementation, 4th Edition #Book#](https://parg.co/bjE): The book begins by reviewing basic concepts of databases and database design, then turns to creating, populating, and retrieving data using SQL.
 
-## Tool: 工具
-
-* [usql](https://github.com/knq/usql): usql is a universal command-line interface for working with SQL databases.
-
 # 数据库设计
 
 * [Tutorial: Step by Step Database Design in SQL](https://www.linkedin.com/pulse/tutorial-step-database-design-sql-david-mccaldin): Database Design and Implementation is applicable for whatever industry your in. Here is a step by step approach to designing and implementing a database in your organisation, using specific data from a sweet shop case study I implemented during my M.Sc. in Software & Information Systems.
