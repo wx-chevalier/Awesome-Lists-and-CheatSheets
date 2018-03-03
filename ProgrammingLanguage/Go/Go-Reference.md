@@ -42,6 +42,10 @@
 
 * [2018-Essential Go #Book#](https://www.programming-books.io/essential/go/): a free Go programming book, a continuation of Stack Overflow Documentation.
 
+## Collection
+
+* [2018-A Gopher's Reading List](https://github.com/enocom/gopher-reading-list): A curated selection of blog posts on Go.
+
 # Tutorial
 
 * [2017-A tour of Go #Project#](https://tour.golang.org/welcome/1): The tour is divided into a list of modules and interactive, These example programs demonstrate different aspects of Go. The programs in the tour are meant to be starting points for your own experimentation.
