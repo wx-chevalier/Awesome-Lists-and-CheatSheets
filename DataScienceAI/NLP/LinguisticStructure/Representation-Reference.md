@@ -1,9 +1,13 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
  
  
-# 文本表示
+# Document Representation Reference
 
 - [2016-NLP Research Lab Part 1: Distributed Representations](http://blog.districtdatalabs.com/nlp-research-lab-part-1-distributed-representations): How I Learned To Stop Worrying And Love Word Embeddings
+
+# Word Vectors
+
+- [2018-Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469): Understanding word vectors: A tutorial for "Reading and Writing Electronic Text," a class I teach at ITP.
 
 # Word2Vec
 
