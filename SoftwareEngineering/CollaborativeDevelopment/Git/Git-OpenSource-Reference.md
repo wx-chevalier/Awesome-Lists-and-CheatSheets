@@ -22,6 +22,8 @@
 
 * [极简的 Git 服务器：git-daemon](http://harttle.com/2016/06/20/git-daemon.html)
 
+* [Git flow - Animated #Project#](https://github.com/vraa/gitflowanimated): An Experimental try in React to visualize and animate Gitflow.
+
 # Github
 
 * [强力推荐！那些你不能错过的 GitHub 插件和工具](https://juejin.im/post/59ade28051882538fd72fa2c)
