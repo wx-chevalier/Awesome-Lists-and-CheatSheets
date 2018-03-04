@@ -14,4 +14,8 @@
 
 - [Google’s Infrastructure Security Design Overview](http://6me.us/1gPM)
 
-- [技术分享 | 自制攻击欺骗防御系统 ](http://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247483994&idx=1&sn=64fcc83146fb6c5ec9943e64f10306c7&chksm=ea8024cfddf7add9acb9f42110e43a31722f9e60881542de6e14957edce7e36e35524ce41a96#rd)
+- [技术分享 | 自制攻击欺骗防御系统 ](https://parg.co/UWp)
+
+# GDPR
+
+* [GDPR – A PRACTICAL GUIDE FOR DEVELOPERS](https://techblog.bozho.net/gdpr-practical-guide-developers/)

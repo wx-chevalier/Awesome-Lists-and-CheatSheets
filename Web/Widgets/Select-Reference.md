@@ -13,3 +13,6 @@
 * [FileSaver #Project#](https://github.com/eligrey/FileSaver.js): FileSaver.js implements the saveAs() FileSaver interface in browsers that do not natively support it.
 
 * [StreamSaver.js #Project#](https://github.com/jimmywarting/StreamSaver.js): StreamSaver writes stream to the filesystem directly asynchronous.
+
+* [filepond #Project#](https://github.com/pqina/filepond):
+  A Flexible and Fun JavaScript File Upload Plugin.

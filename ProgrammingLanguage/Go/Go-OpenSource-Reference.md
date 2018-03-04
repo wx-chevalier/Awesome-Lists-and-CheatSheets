@@ -1,5 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # Go 开源框架与工具资料索引
 
@@ -13,12 +12,14 @@
 
 - [2017-Profiling Go](http://www.integralist.co.uk/posts/profiling-go/): We dive into the techniques and tools available for profiling Go applications
 
+- [Slack-Term #Project#](https://github.com/erroneousboat/slack-term): A Slack client for your terminal.
+
 # Tool: 工具
 
 ## Dev: 开发工具
 
-- [golang/dep #Project#](https://github.com/golang/dep): dep is a prototype dependency management tool for Go. It requires Go 1.8 or newer to compile. dep is safe for production use.
+* [golang/dep #Project#](https://github.com/golang/dep): dep is a prototype dependency management tool for Go. It requires Go 1.8 or newer to compile. dep is safe for production use.
 
-- [glide #Project#](https://github.com/Masterminds/glide): Glide is a tool for managing the vendor directory within a Go package. 
+* [glide #Project#](https://github.com/Masterminds/glide): Glide is a tool for managing the vendor directory within a Go package.
 
-- [gin #Project#](https://github.com/codegangsta/gin): gin is a simple command line utility for live-reloading Go web applications.
+* [gin #Project#](https://github.com/codegangsta/gin): gin is a simple command line utility for live-reloading Go web applications.
