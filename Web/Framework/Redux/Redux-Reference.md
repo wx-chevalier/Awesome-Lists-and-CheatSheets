@@ -32,15 +32,21 @@
 
 - [2018-Learn Redux by Building Redux from Scratch](https://parg.co/Uah): A tutorial to understand the core Redux library by building it step-by-step.
 
-# Tutorial
+# Overview
 
-* [How To Manage UI State With Redux](https://codeburst.io/how-to-manage-ui-state-with-redux-24deb6cf0d57): Questions regarding how to handle UI state are asked continuously on development boards, so I’d like to share with you how I maintain it. It’s a best practice that has improved the management of my applications.
+## Designing
+
+- [2018-Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38): Shouldn’t state management be a solved problem by now? Intuitively, developers seem to know a hidden truth: state management seems harder than it needs to be.
 
 # Resources
 
 ## Book
 
 * [2016-Developing a Redux Edge #Book#](https://parg.co/b4L): This book is for anyone wanting to learn about Redux, a predictable state container for JavaScript apps. It is aimed at intermediate developers who have a good understanding of creating single page applications with JavaScript. Having an understanding of ES6, functional programming, and React will certainly help too, but isn’t necessary. If you want to follow along with the examples you should also know your way around a terminal, and know what Node and npm are, as well as having them installed and ready to use.
+
+# Tutorial
+
+* [How To Manage UI State With Redux](https://codeburst.io/how-to-manage-ui-state-with-redux-24deb6cf0d57): Questions regarding how to handle UI state are asked continuously on development boards, so I’d like to share with you how I maintain it. It’s a best practice that has improved the management of my applications.
 
 # Async Action
 

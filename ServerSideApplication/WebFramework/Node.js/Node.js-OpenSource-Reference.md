@@ -4,4 +4,6 @@
 
 * [Pandora.js #Project#](https://github.com/midwayjs/pandora): A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript.
 
-* [Prompts](https://github.com/terkelg/prompts): Lightweight, beautiful and user-friendly interactive prompts
+* [Prompts #Project#](https://github.com/terkelg/prompts): Lightweight, beautiful and user-friendly interactive prompts
+
+* [coroute #Project#](https://github.com/ethanent/coroute): The awesome Node.js HTTP reverse-proxy server.
