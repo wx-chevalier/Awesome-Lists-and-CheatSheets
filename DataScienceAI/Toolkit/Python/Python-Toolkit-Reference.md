@@ -49,3 +49,7 @@
 
 * [NLP concepts with spaCy](https://gist.github.com/aparrish/f21f6abbf2367e8eb23438558207e1c3):
   The aim of this notebook is to introduce a few simple concepts and techniques from NLP.
+
+# Pandas
+
+* [How to rewrite your SQL queries in Pandas, and more](https://parg.co/UWC): You may end up with CSV files, plain text, Parquet, HDF5, and who knows what else. This is where Pandas library shines.
