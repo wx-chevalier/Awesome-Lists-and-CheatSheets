@@ -37,6 +37,8 @@ Awesome CS Collections 是集合的集合，集结了 CS、IT 相关的跨领域
 
 * [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook): Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore.
 
+* [Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies): A curated list of technical talks and articles about real-world enterprise frontend development
+
 # Server Side Application
 
 * [Back-End Developer Interview Questions](https://parg.co/UXF): A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
