@@ -1,11 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
- 
- 
- 
- 
- 
 
-# Web 开发界面调试资料索引
+# Web Debug Reference
 
 # 调试工具
 
@@ -65,7 +60,7 @@
 
 - [High-resolution JavaScript timer based on performance.mark/measure (461 bytes min+gz)](https://github.com/nolanlawson/marky) 
 
-# 内存分析
+# Memory Leak
 
 - [2017-Google Developers - 解决你的内存问题系列](https://developers.google.com/web/tools/chrome-devtools/memory-problems/): [内存术语](https://developers.google.com/web/tools/chrome-devtools/memory-problems/memory-101)
 
@@ -76,3 +71,5 @@
 - [2017-JavaScript's Promise Leaks Memory](https://alexn.org/blog/2017/10/11/javascript-promise-leaks-memory.html)
 
 - [Understanding and Solving Internet Explorer Leak Patterns](https://msdn.microsoft.com/en-us/library/bb250448(v=vs.85).aspx)
+
+- [2018-Tracing from JS to the DOM and back again](https://v8project.blogspot.sg/2018/03/tracing-js-dom.html): Debugging memory leaks in Chrome 66 just became much easier. Chrome’s DevTools can now trace and snapshot C++ DOM objects and display all reachable DOM objects from JavaScript with their references. This feature is one of the benefits of the new C++ tracing mechanism of the V8 garbage collector.
