@@ -20,7 +20,9 @@
 
 - [2017-Things nobody will tell you about React.js](https://parg.co/bNg)
 
-- [2017-react-aha-moments](https://tylermcginnis.com/react-aha-moments/): One of my main goals whenever I’m teaching or writing technical content is to maximize “aha” moments. An “aha” moment is a moment of sudden insight or clarity; when the subject matter suddenly makes sense. We’ve all experienced them and the best teachers I know are able to understand their audience and adapt the lesson in order to maximize these moments.
+- [2018-React 是怎样炼成的](https://segmentfault.com/a/1190000013365426): 本文主要讲述 React 的诞生过程和优化思路。内容整理自 2014 年的 OSCON - React Architecture by vjeux，虽然从今天（2018）来看可能会有点历史感，但仍然值得学习了解。以史为鉴，从中也可以管窥 Facebook 优秀的工程管理文化。
+
+* [2017-react-aha-moments](https://tylermcginnis.com/react-aha-moments/): One of my main goals whenever I’m teaching or writing technical content is to maximize “aha” moments. An “aha” moment is a moment of sudden insight or clarity; when the subject matter suddenly makes sense. We’ve all experienced them and the best teachers I know are able to understand their audience and adapt the lesson in order to maximize these moments.
 
 ## Case Study: 应用案例
 
