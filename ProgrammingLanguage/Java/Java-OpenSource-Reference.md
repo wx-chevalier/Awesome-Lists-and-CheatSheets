@@ -24,6 +24,10 @@
 
 * [Spark #Project#](http://sparkjava.com/): A micro framework for creating web applications in Kotlin and Java 8 with minimal effort.
 
+## Database
+
+* [Lettuce #Project#](https://github.com/lettuce-io/lettuce-core): Lettuce is a scalable thread-safe Redis client for synchronous, asynchronous and reactive usage. Multiple threads may share one connection if they avoid blocking and transactional operations such as BLPOP and MULTI/EXEC.
+
 # Production
 
 ## Static Analysis
