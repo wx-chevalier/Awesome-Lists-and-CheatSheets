@@ -23,3 +23,7 @@
 * [glide #Project#](https://github.com/Masterminds/glide): Glide is a tool for managing the vendor directory within a Go package.
 
 * [gin #Project#](https://github.com/codegangsta/gin): gin is a simple command line utility for live-reloading Go web applications.
+
+# Database
+
+- [Bolt #Project#](https://github.com/boltdb/bolt): An embedded key/value database for Go.
