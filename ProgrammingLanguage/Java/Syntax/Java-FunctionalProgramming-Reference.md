@@ -1,7 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
  
- 
-# Java 函数式编程资料索引
+# Java Functional Programming Reference
 
 * [2017-Functional alternatives to the traditional for loop](https://parg.co/baJ)
 
@@ -9,26 +8,19 @@
 
 - [2017-Java 8 idioms #Series#](https://www.ibm.com/developerworks/java/library/j-java8idioms1/index.html): Think declaratively to adopt functional techniques in your Java programs.
 
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
- 
- 
-
-
-# Java 函数与函数式编程资料索引
+- [2018-精练代码：一次 Java 函数式编程的重构之旅](http://www.importnew.com/28139.html): 通过一次并发处理数据集的Java代码重构之旅，展示函数式编程如何使得代码更加精练。
 
 # Function
 
 * [A Comprehensive Walk Through Java Method References](https://dzone.com/articles/a-comprehensive-walk-over-java-method-references)
+
+* [Java 中的闭包与对象](https://www.zhihu.com/question/21395848)
 
 # Lambda
 
 * [Java 中普通 lambda 表达式和方法引用本质上有什么区别？ ](https://www.zhihu.com/question/51491241/answer/126232275)
 
 * [Java8 Lambda 表达式 10 个示例](http://www.importnew.com/16436.html)
-
-# Closure: 闭包
-
-- [Java 中的闭包与对象](https://www.zhihu.com/question/21395848)
 
 # Stream: 流
 
