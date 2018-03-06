@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# Linux 资料索引
+# Linux Reference
 
 * [Build yourself a Linux](https://github.com/MichielDerhaeg/build-linux): A short tutorial about building Linux based operating systems.
 
@@ -11,6 +11,14 @@
 - [LPIC-1 学习路线图](http://www.ibm.com/developerworks/cn/linux/l-lpic1-map/index.html): developerWorks 上的 LPIC-1 认证准备教程指南。
 
 - [Linux 进程隐藏的一种实现思路 ](http://www.freebuf.com/articles/system/117234.html)
+
+# Overview
+
+# Tutorial
+
+## Game
+
+* [The Command Line Murders](https://github.com/veltman/clmystery): There's been a murder in Terminal City, and TCPD needs your help.
 
 # Terminal
 
