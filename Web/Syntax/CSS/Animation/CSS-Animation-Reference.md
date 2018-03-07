@@ -43,6 +43,8 @@
 
 * [Hover.css #Project#](https://github.com/IanLunn/Hover)
 
+* [Woah.css #Project#](http://www.joerezendes.com/projects/Woah.css/): Animations for eccentric developers.
+
 # JavaScript Animation
 
 ## requestAnimationFrame
