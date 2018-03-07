@@ -10,8 +10,9 @@
 
 * [react-content-loader #Project#](https://github.com/danilowoz/react-content-loader): React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders.
 
-# Tool: 工具
+* [React Reveal #Project#](https://github.com/rnosov/react-reveal): Easily add reveal on scroll animations to your React app
 
+# Tool
 * [Rekit #JavaScript#](https://github.com/supnate/rekit): Toolkit for building scalable web applications with React, Redux and React-router
 
 * [react-armor #Project#](https://github.com/elierotenberg/react-armor): Protect your DOM from third-party tampering.
@@ -20,7 +21,7 @@
 
 * [jsinspect #Project#](https://github.com/danielstjules/jsinspect): Detect copy-pasted and structurally similar code.
 
-# Pattern Library: 模式库
+# Pattern Library
 
 * [Material-UI #Project#](http://www.material-ui.com/#/): A Set of React Components that Implement Google's Material Design.
 
@@ -28,7 +29,7 @@
 
 * [2017-Downshift #Project#](https://medium.com/@kentcdodds/introducing-downshift-for-react-b1de3fca0817): Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
 
-# Widgets: 组件
+# Widgets
 
 ## List
 
