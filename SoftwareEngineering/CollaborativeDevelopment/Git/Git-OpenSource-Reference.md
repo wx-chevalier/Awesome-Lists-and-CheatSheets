@@ -1,10 +1,12 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# Git 开源工具与框架索引
+# Git OpenSource Reference
 
 * [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#git-deploy)
 
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
+
+* [git-sizer #Project#](https://github.com/github/git-sizer/): Compute various size metrics for a Git repository, flagging those that might cause problems
 
 # Plugins
 
