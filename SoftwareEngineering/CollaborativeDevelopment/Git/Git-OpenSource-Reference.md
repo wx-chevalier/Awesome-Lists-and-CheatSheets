@@ -8,6 +8,10 @@
 
 * [git-sizer #Project#](https://github.com/github/git-sizer/): Compute various size metrics for a Git repository, flagging those that might cause problems
 
+- [githug](https://github.com/Gazler/githug):一个集齐了 54 个管卡的 Git 小游戏，很不错，过关说明文档看[这里](https://codingstyle.cn/topics/51)
+
+* [dropbox-as-a-true-git-server](http://www.anishathalye.com/2016/04/25/dropbox-as-a-true-git-server/)
+
 # Plugins
 
 * [git-fire](https://github.com/qw3rtman/git-fire): git-fire 可以用于在某些紧急状态下将当前的文件暂存，提交并且推送到一个新的分支。
