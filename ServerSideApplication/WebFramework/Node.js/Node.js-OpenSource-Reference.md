@@ -7,3 +7,5 @@
 * [Prompts #Project#](https://github.com/terkelg/prompts): Lightweight, beautiful and user-friendly interactive prompts
 
 * [coroute #Project#](https://github.com/ethanent/coroute): The awesome Node.js HTTP reverse-proxy server.
+
+* [node-formidable #Project#](https://github.com/felixge/node-formidable): A node.js module for parsing form data, especially file uploads.
