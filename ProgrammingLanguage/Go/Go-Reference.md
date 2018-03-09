@@ -42,6 +42,8 @@
 
 * [2018-Essential Go #Book#](https://www.programming-books.io/essential/go/): a free Go programming book, a continuation of Stack Overflow Documentation.
 
+* [2018-go-internals #Book#](https://github.com/teh-cmc/go-internals): go-internals is a work-in-progress book about the internals of the Go (1.10+) programming language.
+
 ## Collection
 
 * [2018-A Gopher's Reading List](https://github.com/enocom/gopher-reading-list): A curated selection of blog posts on Go.
@@ -68,4 +70,4 @@
 
 * [2017-Golang command tutorial in Chinese.](https://github.com/hyper0x/go_command_tutorial)
 
-- [2018-Using Go as a scripting language in Linux](https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/)
+* [2018-Using Go as a scripting language in Linux](https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/)
