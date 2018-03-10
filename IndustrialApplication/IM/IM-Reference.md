@@ -1,7 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
- 
- 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # 即时通信资料索引
 
@@ -12,3 +9,5 @@
 - [2017-Build a Location-based Chatroom with Firebase and Vue.js](https://parg.co/bLH)[ssh-chat](https://github.com/shazow/ssh-chat)
 
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat): Have your own Slack like online chat, built with Meteor.
+
+* [Websocket based group chat app built with socket.io and react.](https://github.com/justadudewhohacks/websocket-chat)

@@ -13,6 +13,7 @@
 * [React Reveal #Project#](https://github.com/rnosov/react-reveal): Easily add reveal on scroll animations to your React app
 
 # Tool
+
 * [Rekit #JavaScript#](https://github.com/supnate/rekit): Toolkit for building scalable web applications with React, Redux and React-router
 
 * [react-armor #Project#](https://github.com/elierotenberg/react-armor): Protect your DOM from third-party tampering.
@@ -34,6 +35,8 @@
 ## List
 
 * [2015-Index as a key is an anti-pattern](https://parg.co/beq)
+
+* [react-virtual-list #Project#](https://github.com/developerdizzle/react-virtual-list): Super simple virtualized list React component.
 
 * [React Canvas #Project# ](https://github.com/Flipboard/react-canvas)
 
