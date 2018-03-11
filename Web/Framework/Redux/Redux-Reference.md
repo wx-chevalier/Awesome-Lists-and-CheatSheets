@@ -1,6 +1,10 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# Redux 学习与实践资料索引
+# Redux Reference
+
+This file aggregates curated popular links for learning Redux. More reference about ITCS can turn to [Awesome Reference: Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Reference), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
+
+# Overview
 
 * [2017-What’s So Great About Redux?](https://medium.freecodecamp.org/whats-so-great-about-redux-ac16f1cc0f8b)
 
@@ -36,7 +40,7 @@
 
 ## Designing
 
-- [2018-Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38): Shouldn’t state management be a solved problem by now? Intuitively, developers seem to know a hidden truth: state management seems harder than it needs to be.
+* [2018-Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38): Shouldn’t state management be a solved problem by now? Intuitively, developers seem to know a hidden truth: state management seems harder than it needs to be.
 
 # Resources
 
@@ -48,10 +52,6 @@
 
 * [How To Manage UI State With Redux](https://codeburst.io/how-to-manage-ui-state-with-redux-24deb6cf0d57): Questions regarding how to handle UI state are asked continuously on development boards, so I’d like to share with you how I maintain it. It’s a best practice that has improved the management of my applications.
 
-# Async Action
-
-* [2017-Moving API requests in React to Redux-Saga’s](https://hackernoon.com/moving-api-requests-to-redux-saga-21780f49cbc8)
-
-# React
+## React
 
 * [2017-Quick Redux tips for connecting your React components](https://medium.com/dailyjs/quick-redux-tips-for-connecting-your-react-components-e08da72f5b3)

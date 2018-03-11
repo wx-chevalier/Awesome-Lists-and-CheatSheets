@@ -1,5 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # Web 动画资料索引
 
@@ -78,3 +77,9 @@
 ## Loading: 加载案例
 
 * [Secret View preloader animation](https://codepen.io/anon/pen/wrVygR)
+
+* [lottie-web #Project#](https://github.com/airbnb/lottie-web): Render After Effects animations natively on Web, Android and iOS, and React Native.
+
+# Animation Engine: 动画引擎
+
+* [2017-Popmotion #Project#](https://popmotion.io/): A functional JavaScript motion library.

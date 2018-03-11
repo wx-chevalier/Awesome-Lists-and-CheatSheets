@@ -53,3 +53,5 @@ State 思考
 * [2015-Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a): I will attempt to guide you through a lot of these functional concepts which include function composition, currying, and applying high-order functions.
 
 * [Redux modules and code-splitting](http://nicolasgallagher.com/redux-modules-and-code-splitting/): This post describes how I added support for incrementally loading the Redux modules in Twitter Lite.
+
+* [2017-Moving API requests in React to Redux-Saga’s](https://hackernoon.com/moving-api-requests-to-redux-saga-21780f49cbc8)
