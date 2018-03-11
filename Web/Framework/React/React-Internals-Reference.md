@@ -65,3 +65,11 @@
 * [react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture)
 
 * [Didact Fiber: Incremental reconciliation](https://parg.co/UW5): In this post we are going to rewrite most of the code from the didact series to follow React 16 new architecture.
+
+## Async Rendering
+
+* [2018-Beyond React 16: Time Slicing and Suspense API](https://auth0.com/blog/time-slice-suspense-react16/): Learn what's coming to ReactJS. Get a sneak peek of the powerful features that will grace ReactJS soon.
+
+* [2018-React suspense and server rendering](https://blogg.svt.se/svti/react-suspense-server-rendering/): The recently revealed React suspense functionality has the potential to solve a lot of the current pain points in server rendering.
+
+* [2018-Understanding React “Suspense”](https://medium.com/@baphemot/understanding-react-suspense-1c73b4b0b1e6): In short: the new feature allows you to defer rendering part of your application tree until some condition is met (for example data from an endpoint or a resource is loaded).

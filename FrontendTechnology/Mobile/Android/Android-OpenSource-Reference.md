@@ -1,7 +1,12 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
- 
- 
-# Android 开源工具与框架索引
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
+
+# Android OpenSource Reference
+
+# Tool
+
+* [scrcpy](https://github.com/Genymobile/scrcpy): This application provides display and control of Android devices connected on USB. It does not require any root access. It works on GNU/Linux, Windows and Mac OS.
+
+# Widgets
 
 * [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager)
 
@@ -21,40 +26,39 @@
 
 - [JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim)
 
-# Indicator 
+# Indicator
 
-- [Highlight](https://github.com/hongyangAndroid/Highlight)
+* [Highlight](https://github.com/hongyangAndroid/Highlight)
 
-- [BlurLockView](https://github.com/Nightonke/BlurLockView)
+* [BlurLockView](https://github.com/Nightonke/BlurLockView)
 
 ## ProgressBar
 
-- [ColorArcProgressBar](https://raw.githubusercontent.com/Shinelw/ColorArcProgressBar)
+* [ColorArcProgressBar](https://raw.githubusercontent.com/Shinelw/ColorArcProgressBar)
 
-- [Progress Layout](https://github.com/iammert/ProgressLayout)
+* [Progress Layout](https://github.com/iammert/ProgressLayout)
 
-- [Steppers](https://github.com/drozdzynski/Steppers)
+* [Steppers](https://github.com/drozdzynski/Steppers)
 
 ## Intro
 
-- [MaterialIntroView](https://github.com/iammert/MaterialIntroView)
+* [MaterialIntroView](https://github.com/iammert/MaterialIntroView)
 
-- [PaoloRotolo-AppIntro][1]
+* [PaoloRotolo-AppIntro][1]
 
-- [ProductTour][3]
+* [ProductTour][3]
 
-- [android-about-page](https://github.com/medyo/android-about-page)
+* [android-about-page](https://github.com/medyo/android-about-page)
 
-- [SplashScreenZoom]()
+* [SplashScreenZoom]()
 
-- [Highlight](https://github.com/hongyangAndroid/Highlight)
+* [Highlight](https://github.com/hongyangAndroid/Highlight)
 
 # TableGrid
 
-- [ListView源代码解析](http://blog.csdn.net/guolin_blog/article/details/44996879)
+* [ListView 源代码解析](http://blog.csdn.net/guolin_blog/article/details/44996879)
 
-- [ParticleLayout：左滑删除粒子效果](https://github.com/ZhaoKaiQiang/ParticleLayout/)
-
+* [ParticleLayout：左滑删除粒子效果](https://github.com/ZhaoKaiQiang/ParticleLayout/)
 
 - [folding-cell-android](https://github.com/Ramotion/folding-cell-android)
 

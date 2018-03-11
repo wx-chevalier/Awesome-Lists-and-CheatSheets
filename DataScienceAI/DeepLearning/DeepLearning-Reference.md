@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# 深度学习资料索引
+# DeepLearning Reference
 
 # Overview: 概论
 

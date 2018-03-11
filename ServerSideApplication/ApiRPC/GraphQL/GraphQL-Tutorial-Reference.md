@@ -2,6 +2,8 @@
 
 # Concepts & Specification
 
+* [2018-GraphQL: Everything You Need to Know](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8): The purpose of this article is to highlight the major features associated with GraphQL along with discussing the significant pros and cons associated with this particular API specification.
+
 * [GraphQL explained How GraphQL turns a query into a response](https://medium.com/apollo-stack/graphql-explained-5844742f195e#.rsa2k61tx): GraphQL 简单的原理介绍，可以有助于理解 GraphQL 的设计理念与作用
 
 * [GraphQL Concepts Visualized](https://parg.co/UIv): Our mental model of GraphQL, explained in diagrams.
