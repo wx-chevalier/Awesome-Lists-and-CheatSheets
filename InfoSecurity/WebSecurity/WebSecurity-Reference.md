@@ -30,6 +30,9 @@
 
 * [OWASP_API_Security_Project](https://www.owasp.org/index.php/OWASP_API_Security_Project)
 
+- [浏览器漏洞挖掘思路](https://zhuanlan.zhihu.com/p/28719766): 在这篇讲座（文章）中，我们会给读者带来挖掘浏览器漏洞的思路。
+
+
 # XSS
 
 * [Preventing cross-site attacks using same-site cookies](https://parg.co/bs5)
