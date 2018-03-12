@@ -2,9 +2,11 @@
 
 # Go Reference
 
-* [2017-The beauty of Go](https://hackernoon.com/the-beauty-of-go-98057e3f0a7d): So if you’re an engineer or a startup trying to decide what language you want to explore or try out, do give Go a serious thought.
+This file aggregates curated popular links for learning Golang. More reference about ITCS can turn to [Awesome Reference: Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Reference), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
 
 # Overview
+
+* [2017-The beauty of Go](https://hackernoon.com/the-beauty-of-go-98057e3f0a7d): So if you’re an engineer or a startup trying to decide what language you want to explore or try out, do give Go a serious thought.
 
 * [2017-为什么说 2017 年你必须要学习 Go 了](http://mp.weixin.qq.com/s/hQLUjvttTPgfd9qO1l-i6A)
 
@@ -61,6 +63,8 @@
 - [2017-Golang tutorial series by GolangBot.com](https://golangbot.com/learn-golang-series/)
 
 - [2017-Golang command tutorial in Chinese.](https://github.com/hyper0x/go_command_tutorial)
+
+- [2018-Learn go with tests](https://github.com/quii/learn-go-with-tests): Explore the Go language by writing tests.
 
 ## Web Dev
 
