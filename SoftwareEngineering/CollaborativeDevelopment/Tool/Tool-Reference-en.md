@@ -18,6 +18,8 @@
 
 * [UPX #Project#](https://github.com/upx/upx): UPX is an advanced executable file compressor. UPX will typically reduce the file size of programs and DLLs by around 50%-70%, thus reducing disk space, network load times, download times and other distribution and storage costs.
 
+- [asciinema #Project#](https://asciinema.org/): asciinema [as-kee-nuh-muh] is a free and open source solution for recording terminal sessions and sharing them on the web. 
+
 # VSCode
 
 * [Polaroid](https://github.com/octref/polacode): Polaroid for your code 📸.
