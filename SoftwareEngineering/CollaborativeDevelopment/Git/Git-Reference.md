@@ -16,6 +16,8 @@
 
 * [Pro Git v2 中文版 #Book#](https://git-scm.com/book/zh/v2)
 
+* [Git Magic #Book#](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html): Rather than go into details, we provide rough instructions for particular effects. After repeated use, gradually you will understand how each trick works, and how to tailor the recipes for your needs.
+
 ## Collection
 
 * [Git tips](https://github.com/git-tips/tips): 常用的 Git 小技巧
