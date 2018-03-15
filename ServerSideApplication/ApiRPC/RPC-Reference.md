@@ -1,7 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
- 
- 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # RPC 与 WebAPI 资料索引
 
@@ -19,15 +16,13 @@
 
 * [RPC 使用中的一些注意点](http://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=2650610778&idx=1&sn=630db2a23f4f465de2417cba3f1371cb&chksm=834c7baeb43bf2b82550baf37d4b8595e0c59f82ebbda5bf8eeb6d7bf37b6857035877fb4f89#rd)
 
-# API 设计与实践资料索引
+- [What is an API?](https://words.werd.io/what-is-an-api-bd913f45ff23#.21o2m1qc0)
 
-* [What is an API?](https://words.werd.io/what-is-an-api-bd913f45ff23#.21o2m1qc0)
+- [API 返回结果设计经验与总结](http://tutuge.me/2016/05/02/design-json-api-respoense/)
 
-* [API 返回结果设计经验与总结](http://tutuge.me/2016/05/02/design-json-api-respoense/)
+- [API 调用次数限制实现](https://zhuanlan.zhihu.com/p/20872901)
 
-* [API 调用次数限制实现](https://zhuanlan.zhihu.com/p/20872901)
-
-* [谈 API 网关的背景、架构以及落地方案](http://www.infoq.com/cn/news/2016/07/API-background-architecture-floo)
+- [谈 API 网关的背景、架构以及落地方案](http://www.infoq.com/cn/news/2016/07/API-background-architecture-floo)
 
 [How to design APIs that don’t suck](https://medium.freecodecamp.com/https-medium-com-anupcowkur-how-to-design-apis-that-dont-suck-922d864365c9#.muabkix06)
 
@@ -44,3 +39,15 @@
 * [2017-OpenAPI and gRPC Side-by-Side](https://parg.co/U6o): Both are open source efforts, both describe APIs, and both promise better experiences for API producers and consumers. So why do we need both? If we do, what value does each provide? What can each project learn from the other?
 
 * [2017-What are Web APIs](https://hackernoon.com/what-are-web-apis-c74053fa4072): What exactly are Web APIs? Why are Web APIs so popular and widely used? Let’s first explore what APIs are so you can understand how they evolved into Web APIs.
+
+# Overview
+
+## Case Study
+
+http://rap2.taobao.org/
+
+http://apizza.cc/
+
+https://nei.netease.com/
+
+https://www.eolinker.com/

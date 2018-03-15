@@ -1,5 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # Rust 学习与实践资料索引
 
@@ -8,6 +7,16 @@
 * [2017-Deep drive into rust programming language](https://parg.co/UP1)
 
 - [2018-Why is Rust difficult?](https://vorner.github.io/difficult.html): Rust is considered difficult to learn by many people but I don’t consider it necessarily a bad thing for a language to be hard to learn.
+
+* [如何看待 Rust 的应用前景](http://www.zhihu.com/question/30407715)
+
+- [Evaluation of performance and productivity metrics of potential programming languages in the HPC environment](http://octarineparrot.com/assets/mrfloya-thesis-ba.pdf)
+
+* [why-rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+- [Golang vs Rust vs Dlang 那个更有前途](http://www.zhihu.com/question/27226962)
+
+* [rustlings](https://github.com/carols10cents/rustlings)
 
 ## Case Study
 
