@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# JavaScript 设计模式资料索引
+# JavaScript Design Patterns Reference
 
 # Overview
 
@@ -20,8 +20,12 @@
 
 - [2012-solid-javascript](http://aspiringcraftsman.com/2012/01/22/solid-javascript-the-dependency-inversion-principle/)
 
-# Creator
+# Creational Pattern
 
 ## Factory
 
 - [2018-Elegant patterns in modern JavaScript: Ice Factory](https://medium.freecodecamp.org/elegant-patterns-in-modern-javascript-ice-factory-4161859a0eee): An Ice Factory is just a function that creates and returns a frozen object. 
+
+# Behavioral Pattern
+
+- [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87): Observable is just a function that takes an observer and returns a function.
