@@ -28,6 +28,8 @@
 
 - [2017-Tracking CPU with Long Tasks API](https://calendar.perfplanet.com/2017/tracking-cpu-with-long-tasks-api/): the old bottleneck for web performance used to be the network. But the new bottleneck for web performance is the CPU, and particularly the main thread.
 
+- [美团境外业务性能优化实践](https://zhuanlan.zhihu.com/p/33179166): 本文根据第16期美团点评技术线上沙龙OnLine演讲内容整理而成。
+
 # Benchmark: 性能评测与监控
 
 * [Lighthouse #Project# ](https://github.com/GoogleChrome/lighthouse): Lighthouse analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
