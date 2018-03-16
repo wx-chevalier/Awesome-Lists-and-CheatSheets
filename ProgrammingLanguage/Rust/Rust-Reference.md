@@ -49,3 +49,6 @@ This file aggregates curated popular links for learning Rust. More reference abo
 # Tutorial
 
 * [2018-Learning Rust](https://learning-rust.github.io/): Installation, Hello World, Cargo, Crates, Variable bindings, Functions, Primitive Data Types, Operators & Control Flows.
+
+* [2018-Writing a Microservice in Rust](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/): Let me begin this article on Writing a Microservice in Rust by talking about C++.
+
