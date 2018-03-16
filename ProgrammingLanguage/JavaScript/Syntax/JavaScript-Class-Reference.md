@@ -25,6 +25,10 @@
 
 - [JavaScript 写类的前世今生](http://jdc.jd.com/archives/2942)
 
+# this
+
+- [This in JavaScript](https://zellwk.com/blog/this/): Are you confused by the this keyword in JavaScript? It confuses everyone in the beginning, so don’t worry about it. You’re not alone.
+
 # ES6 Class
 
 - [Classes in ECMAScript 6 (final semantics)](http://www.2ality.com/2015/02/es6-classes-final.html)
@@ -33,7 +37,7 @@
 
 * [2017-JavaScript's new #private class fields](http://thejameskyle.com/javascripts-new-private-class-fields.html): What they are, how they work, and why they are the way they are
 
-# Prototype: 原型
+# Prototype & Prototype Inheritance
 
 * [2015-ES6 classes and JavaScript prototypes](https://reinteractive.com/posts/235-es6-classes-and-javascript-prototypes)
 
