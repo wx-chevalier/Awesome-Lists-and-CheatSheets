@@ -1,6 +1,8 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# Rust 学习与实践资料索引
+# Rust Reference
+
+This file aggregates curated popular links for learning Rust. More reference about ITCS can turn to [Awesome Reference: Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Reference), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
 
 # Overview
 
@@ -43,3 +45,7 @@
 - [2016-Algorithm Cookbook in Rust #Book#](https://github.com/EbTech/rust-algorithms): A collection of classic data structures and algorithms, emphasizing beauty and clarity over full generality.
 
 * [2016-Rust-101](https://www.ralfj.de/projects/rust-101/main.html): This is Rust-101, a small tutorial for the Rust language. It is intended to be an interactive, hands-on course: I believe the only way to really learn a language is to write code in it, so you should be coding during the course.
+
+# Tutorial
+
+* [2018-Learning Rust](https://learning-rust.github.io/): Installation, Hello World, Cargo, Crates, Variable bindings, Functions, Primitive Data Types, Operators & Control Flows.
