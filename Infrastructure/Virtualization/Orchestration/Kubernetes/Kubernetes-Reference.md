@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# Kubernetes 学习与资料索引
+# Kubernetes Reference
 
 * [2015-十分钟带你理解 Kubernetes 核心概念](http://www.dockone.io/article/932)
 
@@ -17,6 +17,16 @@
 - [2017-Learning to operate Kubernetes reliably](https://stripe.com/blog/operating-kubernetes): In this post, we’ll explain why we chose to build on top of Kubernetes. We’ll examine how we integrated Kubernetes into our existing infrastructure, our approach to building confidence in (and improving) our Kubernetes’ cluster’s reliability, and the abstractions we’ve built on top of Kubernetes.
 
 - [2018-Top 10 Kubernetes tips and tricks](https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222?source=linkShare-fe48c4221a4c-1516862034)
+
+# Resource
+
+## Collection
+
+* [2018-Resources for Getting Started with Kubernetes](https://vsupalov.com/getting-started-with-kubernetes/): Hand-picked reading material and courses to help you make progress towards getting started with Kubernetes.
+
+# Tutorial
+
+# Engineering Practices
 
 # Tool
 
