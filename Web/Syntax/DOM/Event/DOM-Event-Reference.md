@@ -41,10 +41,6 @@
 
 * [jquery.nicescroll](https://github.com/inuyaksa/jquery.nicescroll):基于 jQuery 的滚动插件
 
-## IntersectionObserver
-
-- [2018-Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://parg.co/Uiu): In this article, we are going to go out of the scroll darkness and talk about the modern way of lazy-loading resources.
-
 ## ScrollSpy: 滚动监听
 
 * [React Visibility Sensor #Project#](https://github.com/joshwnj/react-visibility-sensor): Sensor component for React that notifies you when it goes in or out of the window viewport.
@@ -52,3 +48,13 @@
 * [Build a Custom JavaScript Scrollspy Navigation](https://scotch.io/tutorials/build-a-custom-javascript-scrollspy-navigation)
 
 - [InView](https://github.com/camwiegert/in-view): 自动判断某个元素是否在 ViewPort 内
+
+# Observer
+
+## IntersectionObserver
+
+- [2018-Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://parg.co/Uiu): In this article, we are going to go out of the scroll darkness and talk about the modern way of lazy-loading resources.
+
+## MutationObserver
+
+* [How JavaScript works: tracking changes in the DOM using MutationObserver](https://parg.co/UzY)
