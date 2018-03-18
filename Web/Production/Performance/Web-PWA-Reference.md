@@ -1,10 +1,10 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# Progressive Web Apps Reference
+# PWA Reference: Curated links for mastering PWA
 
-本文是 Progressive Web Apps 开发中搜集的一系列有价值的参考资料。
+This file aggregates popular links for learning how to implement Progressive Web Apps. More reference about ITCS can turn to [Awesome Reference: Guide to Galaxy](https://parg.co/UMJ), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
 
-# Overview: 概览
+# Overview
 
 * [2016-Why Google Thinks You Should Start Building Progressive Web Apps](https://arc.applause.com/2016/05/24/progressive-web-apps/)
 

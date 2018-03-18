@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# 编程语言资料索引
+# Programming Language Reference
 
 * [Rosetta Code — unlocking the mysteries of the programming languages that power our world](https://medium.freecodecamp.com/rosetta-code-unlocking-the-mysteries-of-the-programming-languages-that-power-our-world-300b787d8401#.phi7tdwd1)
 

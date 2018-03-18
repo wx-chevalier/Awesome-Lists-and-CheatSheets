@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# 服务端应用程序开发与架构资料索引
+# Server Side Application Reference
 
 * [服务端应用程序入门与实践](https://github.com/wxyyxc1992/ServerSideApplication-Introduction-And-Practices)
 
