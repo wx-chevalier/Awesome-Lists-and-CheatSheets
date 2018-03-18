@@ -1,10 +1,10 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# Linux Shell Reference 
+# Linux Shell Reference
 
 * [bash-handbook](https://github.com/denysdovhan/bash-handbook)
 
-* [SHELL 编程之执行过程 ](http://mp.weixin.qq.com/s?__biz=MzIxNDMyODgyMA==&mid=2247483666&idx=1&sn=b3df5f3f8d8803fb88719463388db4ed&scene=0#wechat_redirect)
+* [2016-Shell 编程之执行过程](https://parg.co/UT0)
 
 * [Shell Style Guide](https://google.github.io/styleguide/shell.xml)
 
@@ -22,16 +22,9 @@
 
 * [How Do I Find The Largest Top 10 Files and Directories On a Linux / UNIX / BSD?](http://www.cyberciti.biz/faq/how-do-i-find-the-largest-filesdirectories-on-a-linuxunixbsd-filesystem/)
 
-# Resource 
+# System & Process
 
-## Book
-
-## Course
-
-- [Bandit](http://overthewire.org/wargames/bandit/bandit1.html): The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames. 
-
-
-# 后台运行
+## Background
 
 * [Difference between nohup, disown and &](http://unix.stackexchange.com/questions/3886/difference-between-nohup-disown-and)
 
@@ -43,7 +36,11 @@
 
 - [Alternatives to nohup?](http://askubuntu.com/questions/600956/alternatives-to-nohup)
 
-# 文本处理
+## Web Service
+
+* [beero.cl/ock](https://github.com/hhsnopek/beeroclock): Proof of concept for a bash service.
+
+# Text Editor
 
 * [文本处理利器 sed 与 awk 使用总结](https://taozj.org/201612/cmd-tools-sed-awk.html)
 
