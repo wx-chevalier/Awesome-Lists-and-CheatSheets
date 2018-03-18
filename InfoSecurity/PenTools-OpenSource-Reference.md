@@ -6,6 +6,8 @@
 
 * [AutoSploit #Project#](https://github.com/NullArray/AutoSploit): As the name might suggest AutoSploit attempts to automate the exploitation of remote hosts. Targets are collected automatically as well by employing the Shodan.io API.
 
+* [Retire.js #Project#](http://retirejs.github.io/retire.js/): The goal of Retire.js is to help you detect use of version with known vulnerabilities.
+
 # CTF
 
 * [fbctf](https://github.com/facebook/fbctf)

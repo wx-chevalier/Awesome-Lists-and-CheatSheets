@@ -1,8 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# Web 安全资料索引
-
-* [2017-From Markdown to RCE in Atom](https://statuscode.ch/2017/11/from-markdown-to-rce-in-atom/): Recently I took a look at Atom, a text editor by GitHub. With a little bit of work, I was able to chain multiple vulnerabilities in Atom into an actual Remote Code Execution.
+# Web Security Reference
 
 * [2017-How I Hacked 40 Websites in 7 minutes](https://parg.co/U5b)
 
@@ -12,15 +10,19 @@
 
 - [2018-Hacker101](https://github.com/Hacker0x01/hacker101): Hacker101 is a free class for web security. Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
 
-- [2018-How to stop me harvesting credit card numbers and passwords from your site](https://parg.co/Uvz)
+* [12 best practices for user account, authorization and password management](https://parg.co/U9A)
 
-- [12 best practices for user account, authorization and password management](https://parg.co/U9A)
+* [MDN-Web security](https://developer.mozilla.org/en-US/docs/Web/Security): The web security oriented articles listed here provide information that may help you secure your site and its code from attacks and data theft.
 
-- [MDN-Web security](https://developer.mozilla.org/en-US/docs/Web/Security): The web security oriented articles listed here provide information that may help you secure your site and its code from attacks and data theft.
+* [The Bug Hunters Methodology](https://github.com/jhaddix/tbhm): This repo is a conglomeration of tips, tricks, tools, and data analysis to use while doing web application security assessments, and more specifically towards bug hunting in bug bounties.
 
 # Browser Security
 
 * [CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging): Chrome extension and Express server that exploits keylogging abilities of CSS.
+
+- [2018-How to stop me harvesting credit card numbers and passwords from your site](https://parg.co/Uvz)
+
+* [2017-From Markdown to RCE in Atom](https://statuscode.ch/2017/11/from-markdown-to-rce-in-atom/): Recently I took a look at Atom, a text editor by GitHub. With a little bit of work, I was able to chain multiple vulnerabilities in Atom into an actual Remote Code Execution.
 
 # WebAPI
 
@@ -31,7 +33,6 @@
 * [OWASP_API_Security_Project](https://www.owasp.org/index.php/OWASP_API_Security_Project)
 
 - [浏览器漏洞挖掘思路](https://zhuanlan.zhihu.com/p/28719766): 在这篇讲座（文章）中，我们会给读者带来挖掘浏览器漏洞的思路。
-
 
 # XSS
 
@@ -49,7 +50,7 @@
 
 * [深入解析跨站请求伪造漏洞：原理剖析](http://netsecurity.51cto.com/art/200812/102951.htm)
 
-* [ Web 安全测试之跨站请求伪造（CSRF ）](http://netsecurity.51cto.com/art/200811/97281.htm)
+* [Web 安全测试之跨站请求伪造（CSRF ）](http://netsecurity.51cto.com/art/200811/97281.htm)
 
 * [深入解析跨站请求伪造漏洞：实例讲解](http://netsecurity.51cto.com/art/200812/102925.htm)
 
