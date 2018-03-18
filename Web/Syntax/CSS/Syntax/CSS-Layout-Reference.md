@@ -1,33 +1,6 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-
-# CSS 布局学习与实践资料索引
-
-# 盒模型与文档流
-
-* [2017-The CSS Box Model Explained by Living in a Boring Suburban Neighborhood](https://parg.co/bhN)
-
-* [how-well-do-you-know-display](https://www.chenhuijing.com/blog/how-well-do-you-know-display/#a-responsive-numeric-stepper)
-
-## BFC
-
-* [2017-Understanding CSS Layout And The Block Formatting Context](https://parg.co/UOz)
-
-- [10 分钟理解 BFC 原理](https://parg.co/bOg)
-
-## 定位
-
-* [css-positioning-explained-by-building-an-ice-cream-sundae](https://medium.freecodecamp.com/css-positioning-explained-by-building-an-ice-cream-sundae-831cb884bfa9#.1l7m0fcao)
-
-* [position: sticky 在移动端的应用与实践](https://fe.ele.me/position-sticky-zai-yi-dong-duan-de-ying-yong-yu-shi-jian/)
-
-* [CSS 中 position 属性 ( absolute | relative | static | fixed ) 详解](http://blog.csdn.net/chen_zw/article/details/8741365)
-
-* [使用 CSS 完成元素居中的七种方法 ](http://www.zcfy.cc/article/439)
-
-* [把简单做好也不简单 -css 水平垂直居中](http://www.tuicool.com/articles/VrQzya)
-
-* [CSS Vertical Centering – Everything You Need To Know](http://webdesignerwall.com/tutorials/css-vertical-centering-everything-need-know)
+# CSS Layout Reference
 
 # Size: 尺寸
 
@@ -40,6 +13,34 @@
 * [等宽字体在 web 布局中应用以及 CSS3 ch 单位嘿嘿](http://www.zhangxinxu.com/wordpress/2016/07/monospaced-font-css3-ch-unit/)
 
 * [2018-How Big Is That Box? Understanding Sizing In CSS Layout](https://parg.co/Ukr): In this article, I’m going to share with you some interesting things about sizing boxes in CSS.
+
+# Box Model
+
+* [2017-The CSS Box Model Explained by Living in a Boring Suburban Neighborhood](https://parg.co/bhN)
+
+* [how-well-do-you-know-display](https://parg.co/UTb)
+
+* [What’s the Deal with Margin Collapse?](https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/): Learn about the margin collapse, a fundamental concept of CSS layout. See visual examples of when margin collapse happens, and when it doesn't.
+
+## BFC
+
+* [2017-Understanding CSS Layout And The Block Formatting Context](https://parg.co/UOz)
+
+- [10 分钟理解 BFC 原理](https://parg.co/bOg)
+
+## Position
+
+* [css-positioning-explained-by-building-an-ice-cream-sundae](https://medium.freecodecamp.com/css-positioning-explained-by-building-an-ice-cream-sundae-831cb884bfa9#.1l7m0fcao)
+
+* [position: sticky 在移动端的应用与实践](https://fe.ele.me/position-sticky-zai-yi-dong-duan-de-ying-yong-yu-shi-jian/)
+
+* [CSS 中 position 属性 ( absolute | relative | static | fixed ) 详解](http://blog.csdn.net/chen_zw/article/details/8741365)
+
+* [使用 CSS 完成元素居中的七种方法 ](http://www.zcfy.cc/article/439)
+
+* [把简单做好也不简单 -css 水平垂直居中](http://www.tuicool.com/articles/VrQzya)
+
+* [CSS Vertical Centering – Everything You Need To Know](http://webdesignerwall.com/tutorials/css-vertical-centering-everything-need-know)
 
 # Flexbox
 
@@ -80,5 +81,3 @@
 - [2017-Debugging CSS Grid Layouts With Firefox Grid Inspector](https://parg.co/U3i)
 
 - [2018-CSS Grid + Flexbox Solving Real-world Problems](https://parg.co/Ukv): The challenge for this would be supporting Internet Explorer 11 and Safari 9+.
-
-
