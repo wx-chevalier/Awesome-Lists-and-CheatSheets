@@ -6,6 +6,8 @@
 
 # Virtual DOM
 
+* [Snabbdom #Project#](https://github.com/snabbdom/snabbdom): A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
+
 # Web Worker
 
 # Graphic
