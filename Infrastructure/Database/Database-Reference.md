@@ -18,9 +18,14 @@
 
 - [走向分布式，分布式系列入门教程](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
 
-- [浅析分布式系统 ](http://wetest.qq.com/lab/view/203.html?from=content_toutiao): 来自腾讯 Wadehan 关于服务器端系统技术的基础概念探索
+- [浅析分布式系统](http://wetest.qq.com/lab/view/203.html?from=content_toutiao): 来自腾讯 Wadehan 关于服务器端系统技术的基础概念探索
 
 - [分布式系统互斥性与幂等性问题的分析与解决 ](http://blog.csdn.net/zdy0_2004/article/details/52760404)
 
-- [2017 年数据库技术盘点](https://cloud.tencent.com/developer/article/1042652):
-  我们将从学术界、工程界的角度，从国外到国内，从数据库内核技术到数据库运维等多种角度，一起来回顾精彩的 2017。
+- [2017 年数据库技术盘点](https://cloud.tencent.com/developer/article/1042652): 我们将从学术界、工程界的角度，从国外到国内，从数据库内核技术到数据库运维等多种角度，一起来回顾精彩的 2017。
+
+# Resource
+
+## Book
+
+## Collection
