@@ -1,6 +1,10 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
-# 神经网络资料索引
+# Neural Network Reference
+
+* [Deep Learning Basics: Neural Networks, Backpropagation and Stochastic Gradient Descent](http://alexminnaar.com/deep-learning-basics-neural-networks-backpropagation-and-stochastic-gradient-descent.html)
+
+* [[ 翻译 ] 神经网络的直观解释](http://www.hackcv.com/index.php/archives/104/): 卷积神经网络的讲解非常通俗易懂。
 
 * [Neural networks from scratch for Javascript linguists #Series#](https://parg.co/bNa): so let’s go on a journey, I’ll tell you everything I learned, some misconceptions I had, how to interpret the results, and some basic vocabulary and fun facts along the way.
 
