@@ -2,13 +2,11 @@
 
 # DeepLearning Reference
 
-# Overview: 概论
+# Overview
 
 * [2017-The Deep Learning Roadmap](https://medium.com/intuitionmachine/the-deep-learning-roadmap-f0b4cac7009a).
 
 * [2017- 深度学习简史](http://6me.us/d3t)：一部深度学习的简史，虽然不那么波澜壮阔，但其发展也是一波三折，艰难而行。随着 AlphaGo 掀起的人工智能新浪潮，人工智能的春天才刚刚开始。希望本文为大家了解深度学习的历史，理解深度学习的本质带来帮助。
-
-* [李宏毅 :Deep Learning Tutorial](https://drive.wps.cn/view/l/a034b6d643e7455fa1b533ded239acd1):300 多页的 PPT 深入浅出地介绍了深度学习的基本概念。
 
 - [我如何理解深度学习？](http://www.afenxi.com/post/38176)
 
@@ -32,13 +30,7 @@
 
 - [【直观梳理深度学习关键概念】优化算法、调参基本思路、正则化方式等](https://mp.weixin.qq.com/s/GYno7htF_-Hw4UN_Nc2etg)
 
-## 神经网络基础
-
-* [Deep Learning Basics: Neural Networks, Backpropagation and Stochastic Gradient Descent](http://alexminnaar.com/deep-learning-basics-neural-networks-backpropagation-and-stochastic-gradient-descent.html)
-
-* [[ 翻译 ] 神经网络的直观解释](http://www.hackcv.com/index.php/archives/104/): 卷积神经网络的讲解非常通俗易懂。
-
-## 盘点与回顾
+## Review
 
 * [2016-Deep Learning 2016: The Year in Review](http://www.deeplearningweekly.com/blog/deep-learning-2016-the-year-in-review)
 
@@ -46,7 +38,15 @@
 
 - [2017-Deep Learning Achievements Over the Past Year](https://parg.co/UCI): Great developments in text, voice, and computer vision technologies.
 
-# Collection: 资料索引
+## Case Study
+
+* [2017-The-Terrible-Deep-Learning-List](https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List): 15 working examples to get you started with Deep Learning without learning any of the math.
+
+* [Miles Deep - AI Porn Video Editor](https://github.com/ryanjay0/miles-deep)
+
+# Resource
+
+## Collection
 
 * [Deep Learning for Noobs [Part 1]](https://hackernoon.com/supervised-deep-learning-in-image-classification-for-noobs-part-1-9f831b6d430d#.byiv0mk3u)
 
@@ -60,48 +60,10 @@
 
 - [Theories of Deep Learning (STATS 385) Stanford University, Fall 2017](https://stats385.github.io/)
 
-# Book: 书籍
-
-* [2016-Deep Learning By Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://github.com/HFTrader/DeepLearningBook): 中文译本[这里](https://pan.baidu.com/s/1o8boqdc)。The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free. The print version will be available for sale soon.
-
-* [Stanford Deep Learning Tutorial #Book#](http://deeplearning.stanford.edu/tutorial/): This tutorial will teach you the main ideas of Unsupervised Feature Learning and Deep Learning. By working through it, you will also get to implement several feature learning/deep learning algorithms, get to see them work for yourself, and learn how to apply/adapt these ideas to new problems.
-
-* [2016-Neural Networks and Deep Learning #Book#](http://neuralnetworksanddeeplearning.com/): Neural Networks and Deep Learning is a free online book. The book will teach you about: (1) Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data. (2) Deep learning, a powerful set of techniques for learning in neural networks.
-
-* [深度学习入门 #Book#](https://github.com/PaddlePaddle/book/blob/develop/README.md)：您现在在看的这本书是一本 “ 交互式 ” 电子书 —— 每一章都可以运行在一个 Jupyter Notebook 里。 我们把 Jupyter、PaddlePaddle 、以及各种被依赖的软件都打包进一个 Docker image 了。所以您不需要自己来安装各种软件，只需要安装 Docker 即可。
-
-# Course: 视频课程
-
-* [Practical Deep Learning For Coders -FastAI #Course#](http://course.fast.ai/index.html)：fast.ai 提供的七周的免费深度学习课程，学习如何构建那些优秀的模型；目前已经包含了[ Part 1 ](http://course.fast.ai/)、[ Part 2 ](http://course.fast.ai/part2.html)。
-
-* [fastai](https://github.com/fastai/fastai): The fast.ai deep learning library, lessons, and tutorials.
-
-- [Oxford Deep NLP 2017 course #Course#](https://github.com/oxford-cs-deepnlp-2017/lectures): This is an advanced course on natural language processing. Automatically processing natural language inputs and producing language outputs is a key component of Artificial General Intelligence.
-
-- [2017-DeepLearning AI #Course#](https://github.com/fastai/fastai)
-
-# Case: 案例
-
-* [2017-The-Terrible-Deep-Learning-List](https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List): 15 working examples to get you started with Deep Learning without learning any of the math.
-
-* [Miles Deep - AI Porn Video Editor](https://github.com/ryanjay0/miles-deep)
-
-# Toolkits: 工具
-
-* [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks)
-
-* [代码解析深度学习系统编程模型：TensorFlow vs. CNTK](http://geek.csdn.net/news/detail/62429)
-
-* [tensorflow-playground](https://github.com/tensorflow/playground):Play with neural networks!
-
-* [dl-docker](https://github.com/saiprashanths/dl-docker): 将常用的深度学习工具打包在了一个 Docker 镜像中
-
-- [deep-learning-models](https://github.com/fchollet/deep-learning-models):Keras code and weights files for popular deep learning models.
-
-- [Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning)
-
-- [neurojs](https://github.com/janhuenermann/neurojs): neurojs is a JavaScript framework for deep learning in the browser. It mainly focuses on reinforcement learning, but can be used for any neural network based task. It contains neat demos to visualise these capabilities, for instance a 2D self-driving car.
-
-# Others: 其他
+## Others: 其他
 
 * [深度学习岗位面试问题整理笔记](https://zhuanlan.zhihu.com/p/25005808)
+
+# Tutorial
+
+* [李宏毅: Deep Learning Tutorial](https://drive.wps.cn/view/l/a034b6d643e7455fa1b533ded239acd1):300 多页的 PPT 深入浅出地介绍了深度学习的基本概念。
