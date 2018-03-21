@@ -1,7 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
 
-
-# Docker 常用配置
+# Docker Configuration Reference
 
 # Docker Storage
 
@@ -38,4 +37,8 @@
 # Dockerfile
 
 - [2018-An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps](https://parg.co/UyX): This post is filled with examples ranging from a simple Dockerfile to multistage production builds for Node.js web apps.
+
+# Registry
+
+* [private-docker-registry-ssl](https://github.com/fzuleta/private-docker-registry-ssl): Private Docker registry protected with Let's Encrypt SSL
 
