@@ -10,6 +10,8 @@
 
 * [Snips NLU #Project#](https://github.com/snipsco/snips-nlu): Snips NLU (Natural Language Understanding) is a Python library that allows to parse sentences written in natural language and extracts structured information.
 
+- [Word2Bits #Project#](https://github.com/agnusmaximus/Word2Bits): Word2Bits extends the Word2Vec algorithm to output high quality quantized word vectors that take 8x-16x less storage/memory than regular word vectors.
+
 # Deep Learning
 
 * [2018-One Pixel Attack #Project#](https://github.com/Hyperparticle/one-pixel-attack-keras): Keras reimplementation of "One pixel attack for fooling deep neural networks" using differential evolution on cifar10.
