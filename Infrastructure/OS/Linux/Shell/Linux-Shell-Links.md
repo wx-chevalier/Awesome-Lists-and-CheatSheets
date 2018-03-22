@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Linux Shell Reference
+# Linux Shell Links
 
 * [bash-handbook](https://github.com/denysdovhan/bash-handbook)
 

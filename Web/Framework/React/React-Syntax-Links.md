@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# React Syntax Reference
+# React Syntax Links
 
 # Component: 组件语法
 

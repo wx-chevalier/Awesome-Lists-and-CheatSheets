@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
 
-# Weex Reference
+# Weex Links
 
 - [阿里云社区 Weex 技术专题](https://yq.aliyun.com/topic/34)
 

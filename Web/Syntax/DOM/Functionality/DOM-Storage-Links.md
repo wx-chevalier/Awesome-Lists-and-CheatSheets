@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# DOM Storage Reference
+# DOM Storage Links
 
 * [2017-Web Cache - Everything you need to know](http://kamranahmed.info/blog/2017/03/14/quick-guide-to-http-caching/?rd=1): This is one is going to be specifically about the caching.
 

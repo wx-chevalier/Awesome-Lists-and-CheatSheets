@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Raft Reference
+# Raft Links
 
 * [基于 Raft 构建的大规模分布式存储](https://zhuanlan.zhihu.com/p/23872141)
 

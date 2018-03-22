@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
  
-# Java Functional Programming Reference
+# Java Functional Programming Links
 
 * [2017-Functional alternatives to the traditional for loop](https://parg.co/baJ)
 
@@ -12,7 +12,7 @@
 
 # Function
 
-* [A Comprehensive Walk Through Java Method References](https://dzone.com/articles/a-comprehensive-walk-over-java-method-references)
+* [A Comprehensive Walk Through Java Method Linkss](https://dzone.com/articles/a-comprehensive-walk-over-java-method-references)
 
 * [Java 中的闭包与对象](https://www.zhihu.com/question/21395848)
 

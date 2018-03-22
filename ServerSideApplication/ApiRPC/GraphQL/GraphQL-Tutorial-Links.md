@@ -1,4 +1,4 @@
-# GraphQL Tutorial Reference
+# GraphQL Tutorial Links
 
 # Concepts & Specification
 

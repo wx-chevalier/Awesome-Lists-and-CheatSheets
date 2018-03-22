@@ -1,4 +1,4 @@
-# NoSQL OpenSource Reference
+# NoSQL OpenSource Links
 
 # Redis
 

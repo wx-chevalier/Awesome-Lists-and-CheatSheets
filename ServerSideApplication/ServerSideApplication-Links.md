@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Server Side Application Reference
+# Server Side Application Links
 
 * [服务端应用程序入门与实践](https://github.com/wxyyxc1992/ServerSideApplication-Introduction-And-Practices)
 

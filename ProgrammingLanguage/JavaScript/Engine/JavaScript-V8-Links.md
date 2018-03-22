@@ -20,7 +20,7 @@
 
 - [Demystifying v8 and JavaScript Performance](http://thlorenz.com/talks/demystifying-v8/talk.pdf)
 
-- [V8 Docs:Object Class Reference](https://v8docs.nodesource.com/node-7.2/db/d85/classv8_1_1_object.html)
+- [V8 Docs:Object Class Links](https://v8docs.nodesource.com/node-7.2/db/d85/classv8_1_1_object.html)
 
 - [How does V8 manage the memory of object instances?](http://stackoverflow.com/questions/7413168/how-does-v8-manage-the-memory-of-object-instances)
 

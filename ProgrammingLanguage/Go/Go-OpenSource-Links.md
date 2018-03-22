@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Go OpenSource Reference
+# Go OpenSource Links
 
 * [promptui #Project#](https://github.com/manifoldco/promptui): Interactive prompt for command-line applications.
 

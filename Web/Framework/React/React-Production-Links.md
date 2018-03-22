@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# React Production Reference
+# React Production Links
 
 * [Rendering a function with React](https://parg.co/UEv): How I tricked React into rendering a function (not call it… render it)
 

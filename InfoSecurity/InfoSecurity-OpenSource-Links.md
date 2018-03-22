@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# 开源渗透测试工具索引
+# InfoSecurity & Penetration OpenSource Links
 
 * [fsociety #Project#](https://github.com/Manisso/fsociety): A Penetration Testing Framework, you will have every script that a hacker needs.
 
@@ -13,3 +13,9 @@
 * [fbctf](https://github.com/facebook/fbctf)
 
 * [Wargames #Project#](http://overthewire.org/wargames/): The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
+
+# Scanner
+
+* [TangScan #Project#](https://github.com/WooYun/TangScan): Tangscan（唐朝扫描器）是一个由社区众多安全研究人员维护的企业在线安全平台，我们希望能够以更简单更快捷更有效的方式帮助企业监控和发现安全问题。
+
+* [巡风](https://github.com/ysrc/xunfeng): 巡风是一款适用于企业内网的漏洞快速应急、巡航扫描系统，通过搜索功能可清晰的了解内部网络资产分布情况，并且可指定漏洞插件对搜索结果进行快速漏洞检测并输出结果报表。

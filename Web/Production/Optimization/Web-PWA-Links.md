@@ -1,8 +1,8 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# PWA Reference: Curated links for mastering PWA
+# PWA Links: Curated links for mastering PWA
 
-This file aggregates popular links for learning how to implement Progressive Web Apps. More reference about ITCS can turn to [Awesome Reference: Guide to Galaxy](https://parg.co/UMJ), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
+This file aggregates popular links for learning how to implement Progressive Web Apps. More reference about ITCS can turn to [Awesome Links : Guide to Galaxy](https://parg.co/UMJ), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
 
 # Overview
 

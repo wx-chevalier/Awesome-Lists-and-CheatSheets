@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Spark Streaming Reference
+# Spark Streaming Links
 
 * [Apache Spark 的设计与实现](https://www.gitbook.com/book/yourtion/sparkinternals/details)
 

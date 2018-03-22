@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Git OpenSource Reference
+# Git OpenSource Links
 
 * [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#git-deploy)
 

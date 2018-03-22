@@ -19,7 +19,7 @@
 
 
 
-# JavaScript TypeSystem Reference
+# JavaScript TypeSystem Links
 
 
 

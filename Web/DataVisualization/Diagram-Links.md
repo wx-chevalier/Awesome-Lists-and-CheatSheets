@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Web Diagram Reference
+# Web Diagram Links
 
 * [mo.js](https://github.com/legomushroom/mojs)
 

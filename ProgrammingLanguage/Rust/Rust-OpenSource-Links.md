@@ -1,7 +1,7 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
 
 
-# Rust OpenSource Reference
+# Rust OpenSource Links
 
 本文包含了 Rust 相关的优秀开源框架与库，以及值得阅读的 Rust 优秀项目。
 

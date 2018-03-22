@@ -1,7 +1,7 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
 
 
-# JavaScript EPractices Reference
+# JavaScript EPractices Links
 
 * [2017-Composing Software #Series#](https://parg.co/bJ4): the “Composing Software” series on learning functional programming and compositional software techniques in JavaScript ES6+ from the ground up.
 

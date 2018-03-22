@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Streaming Reference
+# Streaming Links
 
 * [State in scalable architectures](http://www.tuicool.com/articles/Q7F3aq2)
 

@@ -2,11 +2,11 @@
 
 ![](https://parg.co/Uhb)
 
-# [Awesome Reference: 精而全的技术开发学习与实践资料索引](https://github.com/wxyyxc1992/Awesome-Links)
+# [Awesome Links : 精而全的技术开发学习与实践资料索引](https://github.com/wxyyxc1992/Awesome-Links)
 
 `Copyright © 王下邀月熊 - WxChevalier` [![Awesome](https://parg.co/UvS)](https://github.com/wxyyxc1992/Awesome-Links)
 
-Awesome Reference 是 [Awesome-Coder](https://github.com/wxyyxc1992/Awesome-Coder) 系列的重要组成，记录了笔者在日常阅读、学习与实践中发掘的优秀的资料，其按照[知识图谱](https://parg.co/bwI)中定义的各个领域的知识体系分门别类地存放。笔者会不断更新其中链接，去芜存菁，去重留一，希望为同仁提供优秀的、有价值的、尽可能精简的资料索引。如果您想更加系统化地学习某些知识，可以参考笔者的技术书籍归档类仓库 [Awesome-CS-Books-Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse)。
+Awesome Links  是 [Awesome-Coder](https://github.com/wxyyxc1992/Awesome-Coder) 系列的重要组成，记录了笔者在日常阅读、学习与实践中发掘的优秀的资料，其按照[知识图谱](https://parg.co/bwI)中定义的各个领域的知识体系分门别类地存放。笔者会不断更新其中链接，去芜存菁，去重留一，希望为同仁提供优秀的、有价值的、尽可能精简的资料索引。如果您想更加系统化地学习某些知识，可以参考笔者的技术书籍归档类仓库 [Awesome-CS-Books-Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse)。
 
 本系列文章目录层次如下：
 
@@ -70,11 +70,11 @@ Awesome Reference 是 [Awesome-Coder](https://github.com/wxyyxc1992/Awesome-Code
 
 大道三千，触类旁通；他山之石，可以攻玉。我们
 
-相较于其他很多的 Awesome-\* 项目，笔者认为 Awesome Reference 更为纯粹，其中收录的文章链接都是笔者阅读、筛选之后，按照 [IT 技术图谱与知识架构](https://parg.co/UHY)归档留存。在碎片化学习的同时，也能够建立系统化的知识。
+相较于其他很多的 Awesome-\* 项目，笔者认为 Awesome Links  更为纯粹，其中收录的文章链接都是笔者阅读、筛选之后，按照 [IT 技术图谱与知识架构](https://parg.co/UHY)归档留存。在碎片化学习的同时，也能够建立系统化的知识。
 
 梭罗在《瓦尔登湖》中写道：知道自己知道什么，也知道自己不知道什么，这就是真正的知识。知我所知是对于自己能力的正确认识，知我所不知则能为自己未来的路明确些方向。站在巨人的肩膀上
 
-Awesome Reference 包含了笔者正在使用的，或者关注到的技术，自然无法做到没有遗漏，也是仅代表笔者的个人看法。
+Awesome Links  包含了笔者正在使用的，或者关注到的技术，自然无法做到没有遗漏，也是仅代表笔者的个人看法。
 
 ## 参考
 
@@ -88,7 +88,7 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 # 目录索引
 
-可以前往 [toc.md](./toc.md) 查看完整的 Reference 目录，或者前往 [Interactive MindMap]() 进行交互式浏览与搜索。
+可以前往 [toc.md](./toc.md) 查看完整的 Links 目录，或者前往 [Interactive MindMap]() 进行交互式浏览与搜索。
 
 * [DataScienceAI](./toc.md#datascienceai)
   * [Application](./toc.md#application)

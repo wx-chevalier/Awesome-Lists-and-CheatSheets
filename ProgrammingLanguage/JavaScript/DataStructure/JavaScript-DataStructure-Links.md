@@ -3,7 +3,7 @@
  
 
 
-# JavaScript DataStructure Reference
+# JavaScript DataStructure Links
 
 # Basic DataType
 

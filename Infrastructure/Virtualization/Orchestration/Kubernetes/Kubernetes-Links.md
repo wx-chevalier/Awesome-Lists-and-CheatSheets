@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Kubernetes Reference
+# Kubernetes Links
 
 * [2015-十分钟带你理解 Kubernetes 核心概念](http://www.dockone.io/article/932)
 

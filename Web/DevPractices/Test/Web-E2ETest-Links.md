@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Web End to End Test Reference
+# Web End to End Test Links
 
 * [Stateless end-to-end testing for web apps using Chrome, Lighthouse, and Treo](https://hackernoon.com/stateless-end-to-end-testing-for-web-apps-7b54855f3c48?source=linkShare-fe48c4221a4c-1508838031): This article introduces an idea of stateless end-to-end tests using Google Chrome’s Lighthouse and automatic snapshots. This approach enables fast development experience and tests availability, performance, and quality regressions. For practical examples the article uses Treo.
 

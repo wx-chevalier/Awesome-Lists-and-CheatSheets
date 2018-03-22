@@ -4,7 +4,7 @@
 
 * [11 IPython Tutorials for Data Science and Machine Learning](http://6me.us/xq2OgY): This is a collection of 10 great GitHub repositories focusing on IPython, TensorFlow, Theano and related topics, for data scientists. The last one is not on GitHub.
 * [2017-SciPy Cheat Sheet: Linear Algebra in Python](http://6me.us/gsj9Zp)
-* [2017-Working With Numpy Matrices: A Handy First Reference](http://6me.us/HoKt0X): This introductory tutorial does a great job of outlining the most common Numpy array creation and manipulation functionality. A good post to keep handy while taking your first steps in Numpy, or to use as a handy reminder.
+* [2017-Working With Numpy Matrices: A Handy First Links](http://6me.us/HoKt0X): This introductory tutorial does a great job of outlining the most common Numpy array creation and manipulation functionality. A good post to keep handy while taking your first steps in Numpy, or to use as a handy reminder.
 * [2017-Pandas Cheat Sheet: Data Wrangling in Python](http://6me.us/tN0VH8)
 
 # Matplotlib

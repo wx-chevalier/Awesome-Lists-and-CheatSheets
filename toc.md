@@ -1,6 +1,6 @@
-# Table of Contents for Awesome Reference
+# Table of Contents for Awesome Links 
 
-[Awesome Reference: Guide to Galaxy](https://parg.co/UMJ) collect curated, worthy and up-to-date links for ITCS, including Programming Language(Java, JavaScript, Python, Go, Rust, etc.), Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
+[Awesome Links : Guide to Galaxy](https://parg.co/UMJ) collect curated, worthy and up-to-date links for ITCS, including Programming Language(Java, JavaScript, Python, Go, Rust, etc.), Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
 
 * [Awesome-CS-Collections-en](./Awesome-CS-Collections-en.md): Awesome CS Collection: Curated list for awesome
 
@@ -10,9 +10,9 @@
 
 * [DataScienceAI-Book-Links](./DataScienceAI/DataScienceAI-Book-Links.md): 数学基础
 
-- [DataScienceAI-Course-Links](./DataScienceAI/DataScienceAI-Course-Links.md): DataScienceAI Course Reference
+- [DataScienceAI-Course-Links](./DataScienceAI/DataScienceAI-Course-Links.md): DataScienceAI Course Links
 
-* [DataScienceAI-OpenSource-Links](./DataScienceAI/DataScienceAI-OpenSource-Links.md): DataScienceAI OpenSource Reference
+* [DataScienceAI-OpenSource-Links](./DataScienceAI/DataScienceAI-OpenSource-Links.md): DataScienceAI OpenSource Links
 
 - [DataScienceAI-Links](./DataScienceAI/DataScienceAI-Links.md): 面向程序猿的数据科学与机器学习知识体系及资料合集
 
@@ -30,11 +30,11 @@
 
 ### Personas
 
-* [Personas-Links](./DataScienceAI/Application/Personas/Personas-Links.md): Personas Reference
+* [Personas-Links](./DataScienceAI/Application/Personas/Personas-Links.md): Personas Links
 
 ### RecommendSystem
 
-* [RecommendSystem-Links](./DataScienceAI/Application/RecommendSystem/RecommendSystem-Links.md): Recommend System Reference
+* [RecommendSystem-Links](./DataScienceAI/Application/RecommendSystem/RecommendSystem-Links.md): Recommend System Links
 
 ### SNA
 
@@ -56,7 +56,7 @@
 
 * [DeepLearning-OpenSource-Links](./DataScienceAI/DeepLearning/DeepLearning-OpenSource-Links.md): 深度学习开源项目索引
 
-- [DeepLearning-Links](./DataScienceAI/DeepLearning/DeepLearning-Links.md): DeepLearning Reference
+- [DeepLearning-Links](./DataScienceAI/DeepLearning/DeepLearning-Links.md): DeepLearning Links
 
 ### CNN
 
@@ -170,7 +170,7 @@
 
 ## NLP
 
-* [NLP-OpenSource-Links](./DataScienceAI/NLP/NLP-OpenSource-Links.md): NLP OpenSource Reference
+* [NLP-OpenSource-Links](./DataScienceAI/NLP/NLP-OpenSource-Links.md): NLP OpenSource Links
 
 - [NLP-Links](./DataScienceAI/NLP/NLP-Links.md): 自然语言处理资料索引
 
@@ -186,7 +186,7 @@
 
 ### LinguisticStructure
 
-* [Representation-Links](./DataScienceAI/NLP/LinguisticStructure/Representation-Links.md): Document Representation Reference
+* [Representation-Links](./DataScienceAI/NLP/LinguisticStructure/Representation-Links.md): Document Representation Links
 
 - [StatisticalLanguageModel-Links](./DataScienceAI/NLP/LinguisticStructure/StatisticalLanguageModel-Links.md): 统计语言模型资料索引
 
@@ -206,11 +206,11 @@
 
 ### DeepLearning
 
-* [Keras-Links](./DataScienceAI/Toolkit/DeepLearning/Keras-Links.md): Keras Reference
+* [Keras-Links](./DataScienceAI/Toolkit/DeepLearning/Keras-Links.md): Keras Links
 
 - [Tensoflow-Links](./DataScienceAI/Toolkit/DeepLearning/Tensoflow-Links.md): Tensorflow 学习与实践资料索引
 
-* [Tensorflow-OpenSource-Links](./DataScienceAI/Toolkit/DeepLearning/Tensorflow-OpenSource-Links.md): Tensorflow OpenSource Reference
+* [Tensorflow-OpenSource-Links](./DataScienceAI/Toolkit/DeepLearning/Tensorflow-OpenSource-Links.md): Tensorflow OpenSource Links
 
 - [Tensorflow-Tutorial-Links](./DataScienceAI/Toolkit/DeepLearning/Tensorflow-Tutorial-Links.md): Tutorial
 
@@ -234,17 +234,17 @@
 
 * [DataVisualization-Links](./FrontendTechnology/DataVisualization/DataVisualization-Links.md): 数据可视化资料索引
 
-- [Diagram-Links](./FrontendTechnology/DataVisualization/Diagram-Links.md): Web Diagram Reference
+- [Diagram-Links](./FrontendTechnology/DataVisualization/Diagram-Links.md): Web Diagram Links
 
 * [Map-Links](./FrontendTechnology/DataVisualization/Map-Links.md): 地理位置可视化资料索引
 
 ## Desktop
 
-* [Desktop-Links](./FrontendTechnology/Desktop/Desktop-Links.md): Desktop Applications Reference
+* [Desktop-Links](./FrontendTechnology/Desktop/Desktop-Links.md): Desktop Applications Links
 
 ### Electron
 
-* [Electron-OpenSource-Links](./FrontendTechnology/Desktop/Electron/Electron-OpenSource-Links.md): Electron OpenSource Reference
+* [Electron-OpenSource-Links](./FrontendTechnology/Desktop/Electron/Electron-OpenSource-Links.md): Electron OpenSource Links
 
 - [Electron-Links](./FrontendTechnology/Desktop/Electron/Electron-Links.md): Electron 学习与实践资料索引
 
@@ -254,7 +254,7 @@
 
 ## Mobile
 
-* [Mobile-Links](./FrontendTechnology/Mobile/Mobile-Links.md): Mobile Reference
+* [Mobile-Links](./FrontendTechnology/Mobile/Mobile-Links.md): Mobile Links
 
 ### Android
 
@@ -262,7 +262,7 @@
 
 - [Android-Internals-Links](./FrontendTechnology/Mobile/Android/Android-Internals-Links.md): Android 运行机制与内部原理
 
-* [Android-OpenSource-Links](./FrontendTechnology/Mobile/Android/Android-OpenSource-Links.md): Android OpenSource Reference
+* [Android-OpenSource-Links](./FrontendTechnology/Mobile/Android/Android-OpenSource-Links.md): Android OpenSource Links
 
 - [Android-Links](./FrontendTechnology/Mobile/Android/Android-Links.md): Android 学习与实践资料索引
 
@@ -276,7 +276,7 @@
 
 * [ReactNative-DevPractices-Links](./FrontendTechnology/Mobile/ReactNative/ReactNative-DevPractices-Links.md): ReactNative 开发实践资料索引
 
-- [ReactNative-Internals-Links](./FrontendTechnology/Mobile/ReactNative/ReactNative-Internals-Links.md): React Native Internals Reference
+- [ReactNative-Internals-Links](./FrontendTechnology/Mobile/ReactNative/ReactNative-Internals-Links.md): React Native Internals Links
 
 * [ReactNative-OpenSource-Links](./FrontendTechnology/Mobile/ReactNative/ReactNative-OpenSource-Links.md): React Native 开源工具与框架索引
 
@@ -286,7 +286,7 @@
 
 ### Weex
 
-* [Weex-Links](./FrontendTechnology/Mobile/Weex/Weex-Links.md): Weex Reference
+* [Weex-Links](./FrontendTechnology/Mobile/Weex/Weex-Links.md): Weex Links
 
 ### iOS
 
@@ -336,7 +336,7 @@
 
 ## IoT
 
-* [IoT-Links](./IndustrialApplication/IoT/IoT-Links.md): Internet of Things Reference
+* [IoT-Links](./IndustrialApplication/IoT/IoT-Links.md): Internet of Things Links
 
 ## LBS
 
@@ -404,7 +404,7 @@
 
 ## WebSecurity
 
-* [WebSecurity-Links](./InfoSecurity/WebSecurity/WebSecurity-Links.md): Web Security Reference
+* [WebSecurity-Links](./InfoSecurity/WebSecurity/WebSecurity-Links.md): Web Security Links
 
 # Infrastructure
 
@@ -412,9 +412,9 @@
 
 ## Database
 
-* [Database-Links](./Infrastructure/Database/Database-Links.md): Database Reference
+* [Database-Links](./Infrastructure/Database/Database-Links.md): Database Links
 
-- [Sharding-Links](./Infrastructure/Database/Sharding-Links.md): Database Sharding Reference
+- [Sharding-Links](./Infrastructure/Database/Sharding-Links.md): Database Sharding Links
 
 ### DataWareHouse
 
@@ -474,7 +474,7 @@
 
 ---
 
-* [SEO-Links](./Infrastructure/Database/NoSQL/SearchEngine/SEO-Links.md): SEO Reference
+* [SEO-Links](./Infrastructure/Database/NoSQL/SearchEngine/SEO-Links.md): SEO Links
 
 - [SearchEngine-Links](./Infrastructure/Database/NoSQL/SearchEngine/SearchEngine-Links.md): 搜索引擎学习与实践资料索引
 
@@ -492,7 +492,7 @@
 
 ### RDB
 
-* [RelationalDataBase-Links](./Infrastructure/Database/RDB/RelationalDataBase-Links.md): Relational Database Reference
+* [RelationalDataBase-Links](./Infrastructure/Database/RDB/RelationalDataBase-Links.md): Relational Database Links
 
 - [RelationalDatabase-OpenSource-Links](./Infrastructure/Database/RDB/RelationalDatabase-OpenSource-Links.md): Relational Database OpenSource
 
@@ -522,7 +522,7 @@
 
 ## DistributedComputing
 
-* [DistributedComputing-Links](./Infrastructure/DistributedComputing/DistributedComputing-Links.md): Distributed Computing Reference
+* [DistributedComputing-Links](./Infrastructure/DistributedComputing/DistributedComputing-Links.md): Distributed Computing Links
 
 ### Batch
 
@@ -538,11 +538,11 @@
 
 ### QuantumComputing
 
-* [QuantumComputing-Links](./Infrastructure/DistributedComputing/QuantumComputing/QuantumComputing-Links.md): Quantum Computing Reference
+* [QuantumComputing-Links](./Infrastructure/DistributedComputing/QuantumComputing/QuantumComputing-Links.md): Quantum Computing Links
 
 ### Streaming
 
-* [Streaming-Links](./Infrastructure/DistributedComputing/Streaming/Streaming-Links.md): Streaming Reference
+* [Streaming-Links](./Infrastructure/DistributedComputing/Streaming/Streaming-Links.md): Streaming Links
 
 ---
 
@@ -550,7 +550,7 @@
 
 ---
 
-* [SparkStreaming-Links](./Infrastructure/DistributedComputing/Streaming/SparkStreaming/SparkStreaming-Links.md): Spark Streaming Reference
+* [SparkStreaming-Links](./Infrastructure/DistributedComputing/Streaming/SparkStreaming/SparkStreaming-Links.md): Spark Streaming Links
 
 ---
 
@@ -560,7 +560,7 @@
 
 * [DistributedSystem-Links](./Infrastructure/DistributedSystem/DistributedSystem-Links.md): 分布式系统学习与实践资料索引
 
-- [DistributedTransaction-Links](./Infrastructure/DistributedSystem/DistributedTransaction-Links.md): Distributed Transaction Reference
+- [DistributedTransaction-Links](./Infrastructure/DistributedSystem/DistributedTransaction-Links.md): Distributed Transaction Links
 
 ### Blockchain
 
@@ -572,7 +572,7 @@
 
 - [Blockchain-Links](./Infrastructure/DistributedSystem/Blockchain/Blockchain-Links.md): 区块链资料索引
 
-* [Ethereum-Links](./Infrastructure/DistributedSystem/Blockchain/Ethereum-Links.md): Ethereum Reference
+* [Ethereum-Links](./Infrastructure/DistributedSystem/Blockchain/Ethereum-Links.md): Ethereum Links
 
 ### DistributedFS
 
@@ -584,13 +584,13 @@
 
 ### DistributedTransaction
 
-* [DistributedTransaction-Links](./Infrastructure/DistributedSystem/DistributedTransaction/DistributedTransaction-Links.md): Distributed Transaction Reference
+* [DistributedTransaction-Links](./Infrastructure/DistributedSystem/DistributedTransaction/DistributedTransaction-Links.md): Distributed Transaction Links
 
 ---
 
-* [Paxos-Links](./Infrastructure/DistributedSystem/DistributedTransaction/ConsensusProtocol/Paxos-Links.md): Paxos Reference
+* [Paxos-Links](./Infrastructure/DistributedSystem/DistributedTransaction/ConsensusProtocol/Paxos-Links.md): Paxos Links
 
-- [Raft-Links](./Infrastructure/DistributedSystem/DistributedTransaction/ConsensusProtocol/Raft-Links.md): Raft Reference
+- [Raft-Links](./Infrastructure/DistributedSystem/DistributedTransaction/ConsensusProtocol/Raft-Links.md): Raft Links
 
 ---
 
@@ -608,9 +608,9 @@
 
 ### MOM
 
-* [DataPipeline-Links](./Infrastructure/DistributedSystem/MOM/DataPipeline-Links.md): Data Pipeline Reference
+* [DataPipeline-Links](./Infrastructure/DistributedSystem/MOM/DataPipeline-Links.md): Data Pipeline Links
 
-- [Kafka-Links](./Infrastructure/DistributedSystem/MOM/Kafka-Links.md): Kafka Reference
+- [Kafka-Links](./Infrastructure/DistributedSystem/MOM/Kafka-Links.md): Kafka Links
 
 * [MOM-OpenSource-Links](./Infrastructure/DistributedSystem/MOM/MOM-OpenSource-Links.md): Message Oriented Middle 我
 
@@ -650,11 +650,11 @@
 
 * [Linux-OpenSource-Links](./Infrastructure/OS/Linux/Linux-OpenSource-Links.md): Linux 开源资料索引
 
-- [Linux-Links](./Infrastructure/OS/Linux/Linux-Links.md): Linux Reference
+- [Linux-Links](./Infrastructure/OS/Linux/Linux-Links.md): Linux Links
 
 ---
 
-* [Linux-Configuration-Links](./Infrastructure/OS/Linux/Configuration/Linux-Configuration-Links.md): Linux Configuration Reference
+* [Linux-Configuration-Links](./Infrastructure/OS/Linux/Configuration/Linux-Configuration-Links.md): Linux Configuration Links
 
 ---
 
@@ -662,7 +662,7 @@
 
 ---
 
-* [Linux-Shell-Links](./Infrastructure/OS/Linux/Shell/Linux-Shell-Links.md): Linux Shell Reference
+* [Linux-Shell-Links](./Infrastructure/OS/Linux/Shell/Linux-Shell-Links.md): Linux Shell Links
 
 ### OperatingSystem
 
@@ -674,7 +674,7 @@
 
 ### Container
 
-* [Container-Links](./Infrastructure/Virtualization/Container/Container-Links.md): Container Reference
+* [Container-Links](./Infrastructure/Virtualization/Container/Container-Links.md): Container Links
 
 ---
 
@@ -684,7 +684,7 @@
 
 * [Docker-OpenSource-Links](./Infrastructure/Virtualization/Container/Docker/Docker-OpenSource-Links.md): Docker 开源框架与工具索引
 
-- [Docker-Links](./Infrastructure/Virtualization/Container/Docker/Docker-Links.md): Docker Reference
+- [Docker-Links](./Infrastructure/Virtualization/Container/Docker/Docker-Links.md): Docker Links
 
 * [Dokcer-Swarm-Links](./Infrastructure/Virtualization/Container/Docker/Dokcer-Swarm-Links.md): Docker Swarm 资料索引
 
@@ -698,9 +698,9 @@
 
 ---
 
-* [Kubernetes-OpenSource-Links](./Infrastructure/Virtualization/Orchestration/Kubernetes/Kubernetes-OpenSource-Links.md): Kubernetes OpenSource Reference
+* [Kubernetes-OpenSource-Links](./Infrastructure/Virtualization/Orchestration/Kubernetes/Kubernetes-OpenSource-Links.md): Kubernetes OpenSource Links
 
-- [Kubernetes-Links](./Infrastructure/Virtualization/Orchestration/Kubernetes/Kubernetes-Links.md): Kubernetes Reference
+- [Kubernetes-Links](./Infrastructure/Virtualization/Orchestration/Kubernetes/Kubernetes-Links.md): Kubernetes Links
 
 ---
 
@@ -722,23 +722,23 @@
 
 # ProgrammingLanguage
 
-* [ProgrammingLanguage-Links](./ProgrammingLanguage/ProgrammingLanguage-Links.md): Programming Language Reference
+* [ProgrammingLanguage-Links](./ProgrammingLanguage/ProgrammingLanguage-Links.md): Programming Language Links
 
 ## C
 
-* [CPP-OpenSource-Links](./ProgrammingLanguage/C/CPP-OpenSource-Links.md): C++ OpenSource Reference
+* [CPP-OpenSource-Links](./ProgrammingLanguage/C/CPP-OpenSource-Links.md): C++ OpenSource Links
 
 - [CPP-Links](./ProgrammingLanguage/C/CPP-Links.md): C++ 学习与实践资料索引
 
 ## Go
 
-* [Go-OpenSource-Links](./ProgrammingLanguage/Go/Go-OpenSource-Links.md): Go OpenSource Reference
+* [Go-OpenSource-Links](./ProgrammingLanguage/Go/Go-OpenSource-Links.md): Go OpenSource Links
 
-- [Go-Links](./ProgrammingLanguage/Go/Go-Links.md): Go Reference
+- [Go-Links](./ProgrammingLanguage/Go/Go-Links.md): Go Links
 
 ### DevPractices
 
-* [Go-DevPractices-Links](./ProgrammingLanguage/Go/DevPractices/Go-DevPractices-Links.md): Go Develop Practices Reference
+* [Go-DevPractices-Links](./ProgrammingLanguage/Go/DevPractices/Go-DevPractices-Links.md): Go Develop Practices Links
 
 - [Go-EPractices-Links](./ProgrammingLanguage/Go/DevPractices/Go-EPractices-Links.md): Go 工程实践资料索引
 
@@ -750,7 +750,7 @@
 
 ## Java
 
-* [Java-OpenSource-Links](./ProgrammingLanguage/Java/Java-OpenSource-Links.md): Java OpenSource Reference
+* [Java-OpenSource-Links](./ProgrammingLanguage/Java/Java-OpenSource-Links.md): Java OpenSource Links
 
 - [Java-Links](./ProgrammingLanguage/Java/Java-Links.md): Java 学习与实践资料索引
 
@@ -812,7 +812,7 @@
 
 ---
 
-* [Java-System-Links](./ProgrammingLanguage/Java/Functionality/SysProc/Java-System-Links.md): Java System Reference
+* [Java-System-Links](./ProgrammingLanguage/Java/Functionality/SysProc/Java-System-Links.md): Java System Links
 
 ### JVM
 
@@ -826,7 +826,7 @@
 
 ### Syntax
 
-* [Java-FunctionalProgramming-Links](./ProgrammingLanguage/Java/Syntax/Java-FunctionalProgramming-Links.md): Java Functional Programming Reference
+* [Java-FunctionalProgramming-Links](./ProgrammingLanguage/Java/Syntax/Java-FunctionalProgramming-Links.md): Java Functional Programming Links
 
 - [Java-MetaProgramming-Links](./ProgrammingLanguage/Java/Syntax/Java-MetaProgramming-Links.md): Java 元编程资料索引
 
@@ -834,7 +834,7 @@
 
 ## JavaScript
 
-* [JavaScript-OpenSource-Links](./ProgrammingLanguage/JavaScript/JavaScript-OpenSource-Links.md): JavaScript OpenSource Reference
+* [JavaScript-OpenSource-Links](./ProgrammingLanguage/JavaScript/JavaScript-OpenSource-Links.md): JavaScript OpenSource Links
 
 - [JavaScript-Links](./ProgrammingLanguage/JavaScript/JavaScript-Links.md): JavaScript 学习与实践资料索引
 
@@ -842,11 +842,11 @@
 
 * [JavaScript-Collection-Links](./ProgrammingLanguage/JavaScript/DataStructure/JavaScript-Collection-Links.md): JavaScript 集合类型索引
 
-- [JavaScript-DataStructure-Links](./ProgrammingLanguage/JavaScript/DataStructure/JavaScript-DataStructure-Links.md): JavaScript DataStructure Reference
+- [JavaScript-DataStructure-Links](./ProgrammingLanguage/JavaScript/DataStructure/JavaScript-DataStructure-Links.md): JavaScript DataStructure Links
 
 ### DevPractices
 
-* [JavaScript-DevPractices-Links](./ProgrammingLanguage/JavaScript/DevPractices/JavaScript-DevPractices-Links.md): JavaScript EPractices Reference
+* [JavaScript-DevPractices-Links](./ProgrammingLanguage/JavaScript/DevPractices/JavaScript-DevPractices-Links.md): JavaScript EPractices Links
 
 ---
 
@@ -878,7 +878,7 @@
 
 * [Flow-Links](./ProgrammingLanguage/JavaScript/TypeSystem/Flow-Links.md): Flow 学习与实践资料索引
 
-- [JavaScript-TypeSystem-Links](./ProgrammingLanguage/JavaScript/TypeSystem/JavaScript-TypeSystem-Links.md): JavaScript TypeSystem Reference
+- [JavaScript-TypeSystem-Links](./ProgrammingLanguage/JavaScript/TypeSystem/JavaScript-TypeSystem-Links.md): JavaScript TypeSystem Links
 
 * [TypeScript-Links](./ProgrammingLanguage/JavaScript/TypeSystem/TypeScript-Links.md): TypeScript 学习与实践资料索引
 
@@ -936,31 +936,31 @@
 
 ## Rust
 
-* [Rust-OpenSource-Links](./ProgrammingLanguage/Rust/Rust-OpenSource-Links.md): Rust OpenSource Reference
+* [Rust-OpenSource-Links](./ProgrammingLanguage/Rust/Rust-OpenSource-Links.md): Rust OpenSource Links
 
-- [Rust-Links](./ProgrammingLanguage/Rust/Rust-Links.md): Rust Reference
+- [Rust-Links](./ProgrammingLanguage/Rust/Rust-Links.md): Rust Links
 
 * [Rust-Syntax-Links](./ProgrammingLanguage/Rust/Rust-Syntax-Links.md): Rust 语法资料索引
 
 # ServerSideApplication
 
-* [ServerSideApplication-Links](./ServerSideApplication/ServerSideApplication-Links.md): Server Side Application Reference
+* [ServerSideApplication-Links](./ServerSideApplication/ServerSideApplication-Links.md): Server Side Application Links
 
 ## ApiRPC
 
-* [ApiRPC-OpenSource-Links](./ServerSideApplication/ApiRPC/ApiRPC-OpenSource-Links.md): ApiRPC OpenSource Reference
+* [ApiRPC-OpenSource-Links](./ServerSideApplication/ApiRPC/ApiRPC-OpenSource-Links.md): ApiRPC OpenSource Links
 
-- [RPC-Links](./ServerSideApplication/ApiRPC/RPC-Links.md): Rpc & WebAPI Reference
+- [RPC-Links](./ServerSideApplication/ApiRPC/RPC-Links.md): Rpc & WebAPI Links
 
 ### GraphQL
 
-* [GraphQL-DevPractices-Links](./ServerSideApplication/ApiRPC/GraphQL/GraphQL-DevPractices-Links.md): GraphQL DevPractices Reference
+* [GraphQL-DevPractices-Links](./ServerSideApplication/ApiRPC/GraphQL/GraphQL-DevPractices-Links.md): GraphQL DevPractices Links
 
-- [GraphQL-OpenSource-Links](./ServerSideApplication/ApiRPC/GraphQL/GraphQL-OpenSource-Links.md): GraphQL OpenSource Reference
+- [GraphQL-OpenSource-Links](./ServerSideApplication/ApiRPC/GraphQL/GraphQL-OpenSource-Links.md): GraphQL OpenSource Links
 
-* [GraphQL-Links](./ServerSideApplication/ApiRPC/GraphQL/GraphQL-Links.md): GraphQL Reference
+* [GraphQL-Links](./ServerSideApplication/ApiRPC/GraphQL/GraphQL-Links.md): GraphQL Links
 
-- [GraphQL-Tutorial-Links](./ServerSideApplication/ApiRPC/GraphQL/GraphQL-Tutorial-Links.md): GraphQL Tutorial Reference
+- [GraphQL-Tutorial-Links](./ServerSideApplication/ApiRPC/GraphQL/GraphQL-Tutorial-Links.md): GraphQL Tutorial Links
 
 ### RESTful-API
 
@@ -992,7 +992,7 @@
 
 * [MonitorAlert-OpenSource-Links](./ServerSideApplication/DevOps/MonitorAlert/MonitorAlert-OpenSource-Links.md): 监控与告警开源工具框架索引
 
-- [MonitorAlert-Links](./ServerSideApplication/DevOps/MonitorAlert/MonitorAlert-Links.md): Monitor&Alert Reference: 监控与告警资料索引
+- [MonitorAlert-Links](./ServerSideApplication/DevOps/MonitorAlert/MonitorAlert-Links.md): Monitor&Alert Links: 监控与告警资料索引
 
 ### SecurityReinforce
 
@@ -1000,13 +1000,13 @@
 
 ## MicroService
 
-* [MicroService-OpenSource-Links](./ServerSideApplication/MicroService/MicroService-OpenSource-Links.md): MicorService OpenSource Reference
+* [MicroService-OpenSource-Links](./ServerSideApplication/MicroService/MicroService-OpenSource-Links.md): MicorService OpenSource Links
 
 - [MicroService-Links](./ServerSideApplication/MicroService/MicroService-Links.md): 微服务架构学习与实践资料索引
 
 ### ServiceAvailability
 
-* [Cache-Links](./ServerSideApplication/MicroService/ServiceAvailability/Cache-Links.md): Cache Reference
+* [Cache-Links](./ServerSideApplication/MicroService/ServiceAvailability/Cache-Links.md): Cache Links
 
 - [ServiceAvailability-Links](./ServerSideApplication/MicroService/ServiceAvailability/ServiceAvailability-Links.md): 高可用服务端架构实践资料索引
 
@@ -1064,13 +1064,13 @@
 
 * [Node.js-Internals-Links](./ServerSideApplication/WebFramework/Node.js/Node.js-Internals-Links.md): Node.js 运行机制与核心原理资料索引
 
-- [Node.js-OpenSource-Links](./ServerSideApplication/WebFramework/Node.js/Node.js-OpenSource-Links.md): Node.js OpenSource Reference
+- [Node.js-OpenSource-Links](./ServerSideApplication/WebFramework/Node.js/Node.js-OpenSource-Links.md): Node.js OpenSource Links
 
-* [Node.js-Production-Links](./ServerSideApplication/WebFramework/Node.js/Node.js-Production-Links.md): Node.js Production Reference for MicroServices
+* [Node.js-Production-Links](./ServerSideApplication/WebFramework/Node.js/Node.js-Production-Links.md): Node.js Production Links for MicroServices
 
 - [Node.js-Links](./ServerSideApplication/WebFramework/Node.js/Node.js-Links.md): Node.js 学习与实践资料索引
 
-* [Node.js-Syntax-Links](./ServerSideApplication/WebFramework/Node.js/Node.js-Syntax-Links.md): Node.js Syntax Reference
+* [Node.js-Syntax-Links](./ServerSideApplication/WebFramework/Node.js/Node.js-Syntax-Links.md): Node.js Syntax Links
 
 ### PHP
 
@@ -1152,15 +1152,15 @@
 
 ### Agile
 
-* [Agile-Links](./SoftwareEngineering/CollaborativeDevelopment/Agile/Agile-Links.md): Agile Development Reference
+* [Agile-Links](./SoftwareEngineering/CollaborativeDevelopment/Agile/Agile-Links.md): Agile Development Links
 
 ### Git
 
 * [Git-EPractices-Links](./SoftwareEngineering/CollaborativeDevelopment/Git/Git-EPractices-Links.md): Git 工程实践资料索引
 
-- [Git-OpenSource-Links](./SoftwareEngineering/CollaborativeDevelopment/Git/Git-OpenSource-Links.md): Git OpenSource Reference
+- [Git-OpenSource-Links](./SoftwareEngineering/CollaborativeDevelopment/Git/Git-OpenSource-Links.md): Git OpenSource Links
 
-* [Git-Links](./SoftwareEngineering/CollaborativeDevelopment/Git/Git-Links.md): Git Reference
+* [Git-Links](./SoftwareEngineering/CollaborativeDevelopment/Git/Git-Links.md): Git Links
 
 ### Tool
 
@@ -1176,11 +1176,11 @@
 
 ## DesignPattern
 
-* [DesignPattern-Links](./SoftwareEngineering/DesignPattern/DesignPattern-Links.md): Design Pattern Reference
+* [DesignPattern-Links](./SoftwareEngineering/DesignPattern/DesignPattern-Links.md): Design Pattern Links
 
 - [Java-DesignPattern-Links](./SoftwareEngineering/DesignPattern/Java-DesignPattern-Links.md): Java 设计模式资料索引
 
-* [JavaScript-DesignPattern-Links](./SoftwareEngineering/DesignPattern/JavaScript-DesignPattern-Links.md): JavaScript Design Patterns Reference
+* [JavaScript-DesignPattern-Links](./SoftwareEngineering/DesignPattern/JavaScript-DesignPattern-Links.md): JavaScript Design Patterns Links
 
 ## Product
 
@@ -1208,7 +1208,7 @@
 
 ### SoftwareTest
 
-* [Debug-Links](./SoftwareEngineering/QualityAssurance/SoftwareTest/Debug-Links.md): Debug Reference
+* [Debug-Links](./SoftwareEngineering/QualityAssurance/SoftwareTest/Debug-Links.md): Debug Links
 
 - [SoftwareTest-Links](./SoftwareEngineering/QualityAssurance/SoftwareTest/SoftwareTest-Links.md): 软件测试资料索引
 
@@ -1236,13 +1236,13 @@
 
 ### ServerArchitecture
 
-* [ServerArchitecture-Links](./SoftwareEngineering/SoftwareArchitecture/ServerArchitecture/ServerArchitecture-Links.md): Server Architecture Reference
+* [ServerArchitecture-Links](./SoftwareEngineering/SoftwareArchitecture/ServerArchitecture/ServerArchitecture-Links.md): Server Architecture Links
 
 # Web
 
 * [Web-Frontend-Links](./Web/Web-Frontend-Links.md): Introduction & Overview:入门与概览
 
-- [Web-OpenSource-Links](./Web/Web-OpenSource-Links.md): Web OpenSource Reference
+- [Web-OpenSource-Links](./Web/Web-OpenSource-Links.md): Web OpenSource Links
 
 * [Web-Links](./Web/Web-Links.md): Web 学习与实践资料索引
 
@@ -1264,7 +1264,7 @@
 
 - [Web-Componentization-Links](./Web/DevPractices/Architecture/Web-Componentization-Links.md): Web 组件化资料索引
 
-* [Web-SPA-Links](./Web/DevPractices/Architecture/Web-SPA-Links.md): Web SPA Reference
+* [Web-SPA-Links](./Web/DevPractices/Architecture/Web-SPA-Links.md): Web SPA Links
 
 - [Web-StateManagement-Links](./Web/DevPractices/Architecture/Web-StateManagement-Links.md): Web 状态管理资料索引
 
@@ -1278,7 +1278,7 @@
 
 ### Debug
 
-* [Web-Debug-Links](./Web/DevPractices/Debug/Web-Debug-Links.md): Web Debug Reference
+* [Web-Debug-Links](./Web/DevPractices/Debug/Web-Debug-Links.md): Web Debug Links
 
 ### Responsive
 
@@ -1290,9 +1290,9 @@
 
 ### Test
 
-* [Web-E2ETest-Links](./Web/DevPractices/Test/Web-E2ETest-Links.md): Web End to End Test Reference
+* [Web-E2ETest-Links](./Web/DevPractices/Test/Web-E2ETest-Links.md): Web End to End Test Links
 
-- [Web-Test-OpenSource-Links](./Web/DevPractices/Test/Web-Test-OpenSource-Links.md): Web Test OpenSource Reference
+- [Web-Test-OpenSource-Links](./Web/DevPractices/Test/Web-Test-OpenSource-Links.md): Web Test OpenSource Links
 
 * [Web-Test-Links](./Web/DevPractices/Test/Web-Test-Links.md): Web 测试资料索引
 
@@ -1314,17 +1314,17 @@
 
 ### React
 
-* [React-DevPractices-Links](./Web/Framework/React/React-DevPractices-Links.md): React DevPractices Reference
+* [React-DevPractices-Links](./Web/Framework/React/React-DevPractices-Links.md): React DevPractices Links
 
-- [React-Internals-Links](./Web/Framework/React/React-Internals-Links.md): React Internals Reference
+- [React-Internals-Links](./Web/Framework/React/React-Internals-Links.md): React Internals Links
 
 * [React-OpenSource-Links](./Web/Framework/React/React-OpenSource-Links.md): React 开源组件与库索引
 
-- [React-Production-Links](./Web/Framework/React/React-Production-Links.md): React Production Reference
+- [React-Production-Links](./Web/Framework/React/React-Production-Links.md): React Production Links
 
 * [React-Links](./Web/Framework/React/React-Links.md): React 学习与实践资料索引
 
-- [React-Syntax-Links](./Web/Framework/React/React-Syntax-Links.md): React Syntax Reference
+- [React-Syntax-Links](./Web/Framework/React/React-Syntax-Links.md): React Syntax Links
 
 ### Redux
 
@@ -1332,7 +1332,7 @@
 
 - [Redux-OpenSource-Links](./Web/Framework/Redux/Redux-OpenSource-Links.md): Redux 开源资源索引
 
-* [Redux-Links](./Web/Framework/Redux/Redux-Links.md): Redux Reference
+* [Redux-Links](./Web/Framework/Redux/Redux-Links.md): Redux Links
 
 ### Vue
 
@@ -1346,7 +1346,7 @@
 
 * [Vue-Links](./Web/Framework/Vue/Vue-Links.md): Vue.js 学习与实践资料索引
 
-- [Vue-Syntax-Links](./Web/Framework/Vue/Vue-Syntax-Links.md): Vue Syntax Reference
+- [Vue-Syntax-Links](./Web/Framework/Vue/Vue-Syntax-Links.md): Vue Syntax Links
 
 ### jQuery
 
@@ -1364,9 +1364,9 @@
 
 ### Performance
 
-* [Web-PWA-Links-en](./Web/Production/Performance/Web-PWA-Links-en.md): PWA Reference: Curated links for mastering PWA
+* [Web-PWA-Links-en](./Web/Production/Performance/Web-PWA-Links-en.md): PWA Links: Curated links for mastering PWA
 
-- [Web-PWA-Links](./Web/Production/Performance/Web-PWA-Links.md): Progressive Web Apps Reference
+- [Web-PWA-Links](./Web/Production/Performance/Web-PWA-Links.md): Progressive Web Apps Links
 
 * [Web-Performance-Critical-Path-Links](./Web/Production/Performance/Web-Performance-Critical-Path-Links.md): Critical Path: 关键渲染路径
 
@@ -1374,7 +1374,7 @@
 
 * [Web-Performance-Links-all](./Web/Production/Performance/Web-Performance-Links-all.md):
 
-- [Web-Performance-Links](./Web/Production/Performance/Web-Performance-Links.md): Web Performance Reference
+- [Web-Performance-Links](./Web/Production/Performance/Web-Performance-Links.md): Web Performance Links
 
 * [Web-Performance-Rendering-Links](./Web/Production/Performance/Web-Performance-Rendering-Links.md): Web 性能优化实践资料索引
 
@@ -1396,9 +1396,9 @@
 
 ### CSS
 
-* [CSS-OpenSource-Links](./Web/Syntax/CSS/CSS-OpenSource-Links.md): CSS OpenSource Reference
+* [CSS-OpenSource-Links](./Web/Syntax/CSS/CSS-OpenSource-Links.md): CSS OpenSource Links
 
-- [CSS-Links](./Web/Syntax/CSS/CSS-Links.md): CSS Reference
+- [CSS-Links](./Web/Syntax/CSS/CSS-Links.md): CSS Links
 
 ---
 
@@ -1418,7 +1418,7 @@
 
 ### DOM
 
-* [DOM-OpenSource-Links](./Web/Syntax/DOM/DOM-OpenSource-Links.md): DOM OpenSource Reference
+* [DOM-OpenSource-Links](./Web/Syntax/DOM/DOM-OpenSource-Links.md): DOM OpenSource Links
 
 - [DOM-Links](./Web/Syntax/DOM/DOM-Links.md): DOM 学习与实践资料索引
 
@@ -1430,7 +1430,7 @@
 
 * [DOM-Network-Links](./Web/Syntax/DOM/Functionality/DOM-Network-Links.md): DOM 网络请求相关资料索引
 
-- [DOM-Storage-Links](./Web/Syntax/DOM/Functionality/DOM-Storage-Links.md): DOM Storage Reference
+- [DOM-Storage-Links](./Web/Syntax/DOM/Functionality/DOM-Storage-Links.md): DOM Storage Links
 
 * [DOM-Worker-Links](./Web/Syntax/DOM/Functionality/DOM-Worker-Links.md): ServiceWorker 资料索引
 
@@ -1474,6 +1474,6 @@
 
 - [Select-Links](./Web/Widgets/Select-Links.md): Web 选择器资料索引
 
-* [Web-Widgets-Links-en](./Web/Widgets/Web-Widgets-Links-en.md): Web Widgets Reference: Awesome Widgets for Next Web Application
+* [Web-Widgets-Links-en](./Web/Widgets/Web-Widgets-Links-en.md): Web Widgets Links: Awesome Widgets for Next Web Application
 
 - [Web-Widgets-Links](./Web/Widgets/Web-Widgets-Links.md): Web 插件索引

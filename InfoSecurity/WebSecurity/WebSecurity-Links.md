@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Web Security Reference
+# Web Security Links
 
 * [2017-How I Hacked 40 Websites in 7 minutes](https://parg.co/U5b)
 

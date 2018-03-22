@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Linux Reference
+# Linux Links
 
 * [Build yourself a Linux](https://github.com/MichielDerhaeg/build-linux): A short tutorial about building Linux based operating systems.
 

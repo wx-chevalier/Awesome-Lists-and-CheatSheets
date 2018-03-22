@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Recurrent Neural Network Reference
+# Recurrent Neural Network Links
 
 * [2017-Unfolding RNNs #Series#](http://suriyadeepan.github.io/2017-01-07-unfolding-rnn/): [RNN : Concepts and Architectures](http://suriyadeepan.github.io/2017-01-07-unfolding-rnn/)
 
