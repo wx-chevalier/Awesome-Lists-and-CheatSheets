@@ -2,7 +2,7 @@
 
 [中文版本](./README.md) | [English Version](./README-en.md)
 
-# [Awesome Reference: Guide to Galaxy](https://parg.co/UMJ)
+# [Awesome Links: Guide to Galaxy](https://parg.co/UMJ)
 
 `Copyright © 王下邀月熊 - WxChevalier` [![Awesome](https://parg.co/UvS)](https://github.com/wxyyxc1992/Awesome-Links)
 

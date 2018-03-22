@@ -1,9 +1,6 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
- 
- 
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-
-# 循环神经网络资料索引
+# Recurrent Neural Network Reference
 
 * [2017-Unfolding RNNs #Series#](http://suriyadeepan.github.io/2017-01-07-unfolding-rnn/): [RNN : Concepts and Architectures](http://suriyadeepan.github.io/2017-01-07-unfolding-rnn/)
 
@@ -30,3 +27,5 @@
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/): 中文版为 [理解 LSTM 网络](http://www.tuicool.com/articles/FjUjaeu)
 
 * [LSTM NEURAL NETWORK FOR TIME SERIES PREDICTION](http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction)
+
+* [Understanding Long Short-Term Memory Networks (LSTMs)](https://parg.co/Uxp): This upgraded version of RNNs solved some of the problems that these networks usually have.
