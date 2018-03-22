@@ -2,21 +2,21 @@
 
 ![](https://parg.co/Uhb)
 
-# [Awesome Reference: 精而全的技术开发学习与实践资料索引](https://github.com/wxyyxc1992/Awesome-Reference)
+# [Awesome Reference: 精而全的技术开发学习与实践资料索引](https://github.com/wxyyxc1992/Awesome-Links)
 
-`Copyright © 王下邀月熊 - WxChevalier` [![Awesome](https://parg.co/UvS)](https://github.com/wxyyxc1992/Awesome-Reference)
+`Copyright © 王下邀月熊 - WxChevalier` [![Awesome](https://parg.co/UvS)](https://github.com/wxyyxc1992/Awesome-Links)
 
 Awesome Reference 是 [Awesome-Coder](https://github.com/wxyyxc1992/Awesome-Coder) 系列的重要组成，记录了笔者在日常阅读、学习与实践中发掘的优秀的资料，其按照[知识图谱](https://parg.co/bwI)中定义的各个领域的知识体系分门别类地存放。笔者会不断更新其中链接，去芜存菁，去重留一，希望为同仁提供优秀的、有价值的、尽可能精简的资料索引。如果您想更加系统化地学习某些知识，可以参考笔者的技术书籍归档类仓库 [Awesome-CS-Books-Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse)。
 
 本系列文章目录层次如下：
 
-* {Something}-Reference.md - 该文件包含或者分割为以下内容：
+* {Something}-Links.md - 该文件包含或者分割为以下内容：
 
   * Overview & Case Study & CheatSheet
   * Resource & Book & Collection
   * Tutorial & Learning Path
 
-* {Something}-Syntax-Reference.md - 该文件包含或者分割为以下内容：
+* {Something}-Syntax-Links.md - 该文件包含或者分割为以下内容：
 
   * Variable & Expression
   * Control flow & Error Handler
@@ -24,19 +24,19 @@ Awesome Reference 是 [Awesome-Coder](https://github.com/wxyyxc1992/Awesome-Code
   * Class & Object
   * MetaProgramming
 
-* {Something}-DataStructure-Reference.md - 该文件包含或者分割为以下内容：
+* {Something}-DataStructure-Links.md - 该文件包含或者分割为以下内容：
 
   * Basic Type
   * Indexed Collection
   * Keyed Collection
 
-* {Something}-Functionality-Reference.md - 该文件包含或者分割为以下内容：
+* {Something}-Functionality-Links.md - 该文件包含或者分割为以下内容：
 
   * Storage
   * Network
   * System / Process
 
-* {Something}-DevPractices-Reference.md - 该文件包含或者分割为以下内容：
+* {Something}-DevPractices-Links.md - 该文件包含或者分割为以下内容：
 
   * Builder, Task runner, Bundler, dependence management
   * Debug
@@ -44,7 +44,7 @@ Awesome Reference 是 [Awesome-Coder](https://github.com/wxyyxc1992/Awesome-Code
   * Architecture, module system, State management,
   * StyleGuide, coding standards for source code in the JavaScript programming language.
 
-* {Something}-Production-Reference.md - 该文件包含或者分割为以下内容：
+* {Something}-Production-Links.md - 该文件包含或者分割为以下内容：
 
   * Performance Optimization / Tunning
   * Release / Deploy
@@ -52,9 +52,9 @@ Awesome Reference 是 [Awesome-Coder](https://github.com/wxyyxc1992/Awesome-Code
   * RealTime
   * I18n
 
-* {Something}-OpenSource-Reference.md - Awesome tools, frameworks, projects
+* {Something}-OpenSource-Links.md - Awesome tools, frameworks, projects
 
-* {Something}-Internals-Reference.md Inner mechanism under the hood, Core/Compiler/Engine
+* {Something}-Internals-Links.md Inner mechanism under the hood, Core/Compiler/Engine
 
 本系列文章索引类别约定如下：
 

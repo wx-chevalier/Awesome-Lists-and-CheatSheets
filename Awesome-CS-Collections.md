@@ -1,4 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
 [中文版本](./Awesome-CS-Collections.md) | [English Version](./Awesome-CS-Collections-en.md)
 
