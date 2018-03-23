@@ -28,8 +28,6 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 # Resource
 
-* [Awesome Go #Project#](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software.
-
 ## Book
 
 * [2015-An Introduction to Programming in Go #Book#](http://www.golang-book.com/): A short, concise introduction to computer programming using the language Go. Designed by Google, Go is a general purpose programming language with modern features, clean syntax and a robust well-documented common library, making it an ideal language to learn as your first programming language.
@@ -52,6 +50,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 * [2018-A Gopher's Reading List](https://github.com/enocom/gopher-reading-list): A curated selection of blog posts on Go.
 
+* [Awesome Go #Project#](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software.
+
 # Tutorial
 
 * [2017-A tour of Go #Project#](https://tour.golang.org/welcome/1): The tour is divided into a list of modules and interactive, These example programs demonstrate different aspects of Go. The programs in the tour are meant to be starting points for your own experimentation.
@@ -67,6 +67,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 - [2017-Golang command tutorial in Chinese.](https://github.com/hyper0x/go_command_tutorial)
 
 - [2018-Learn go with tests](https://github.com/quii/learn-go-with-tests): Explore the Go language by writing tests.
+
+- [2018-How to Build a Search Service with Go and Elasticsearch](https://outcrawl.com/go-elastic-search-service/): This article shows how to build a simple search service in Go using Elasticsearch. 
 
 ## Web Dev
 
