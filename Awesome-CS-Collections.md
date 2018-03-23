@@ -1,8 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-[中文版本](./Awesome-CS-Collections.md) | [English Version](./Awesome-CS-Collections-en.md)
-
-# Awesome CS Collections
+# Awesome CS Collections: Curated links of awesome collections & resources
 
 Awesome CS Collections is collections of collection, including Programming Language, Software Engineering, Web, Server Side Application, Frontend, etc. Every link in this collection may containing massive domains.
 
