@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# MongoDB 资料索引
+# MongoDB Links
 
 * [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
 

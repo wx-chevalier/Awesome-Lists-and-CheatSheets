@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# HTML 学习与实践资料索引
+# HTML  Learning & Practices Links
 
 * [More HTML5 Semantics: New Elements and Features](http://6me.us/RAy)
 

@@ -1,7 +1,7 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
  
 
-# HTTPS 资料索引
+# HTTPS Links
 
 * [https://en.wikipedia.org/wiki/Transport_Layer_Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 

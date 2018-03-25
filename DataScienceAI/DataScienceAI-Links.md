@@ -28,7 +28,7 @@
 
 * [2017-Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://parg.co/bad)
 
-# Collection: 资料索引
+# Collection: Links
 
 * [人工智能从入门到进阶，机器之心高分技术文章全集](http://mp.weixin.qq.com/s/o6egF1_usHSXZCZJ1RTfhQ)
 

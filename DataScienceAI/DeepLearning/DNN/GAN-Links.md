@@ -3,7 +3,7 @@
  
 
 
-# GAN 资料索引
+# GAN Links
 
 * [2017-GAN by Example using Keras on Tensorflow Backend](https://parg.co/btF)
 

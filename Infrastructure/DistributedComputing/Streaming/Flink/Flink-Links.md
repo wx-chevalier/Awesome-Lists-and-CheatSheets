@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Flink 学习与实践资料索引
+# Flink  Learning & Practices Links
 
 * [Flink 原理与实现：内存管理](https://yq.aliyun.com/articles/57815?spm=5176.100239.bloglist.24.YjJbYa)
 

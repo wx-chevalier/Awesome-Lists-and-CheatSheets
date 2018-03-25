@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# DOM 学习与实践资料索引
+# DOM  Learning & Practices Links
 
 * [JavaScript 一些 DOM 的知识点](http://www.tuicool.com/articles/MnMRZ3v)
 

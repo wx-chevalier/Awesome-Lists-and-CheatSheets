@@ -17,7 +17,7 @@
 
 
 
-# Angular 学习与实践资料索引
+# Angular  Learning & Practices Links
 
 # 教程实践
 

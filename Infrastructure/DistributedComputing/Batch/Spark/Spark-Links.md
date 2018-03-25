@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Spark 学习与实践资料索引
+# Spark  Learning & Practices Links
 
 * [十分钟了解分布式计算:GraphX](http://www.cnblogs.com/wei-li/p/graphx.html)
 

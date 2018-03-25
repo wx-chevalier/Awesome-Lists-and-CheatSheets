@@ -1,7 +1,7 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
 
 
-# Tensorflow 学习与实践资料索引
+# Tensorflow  Learning & Practices Links
 
 # Overview
 

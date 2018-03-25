@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# C++ 学习与实践资料索引
+# C++  Learning & Practices Links
 
 * [Master C++ Programming With Open-Source Books](https://www.ossblog.org/master-c-programming-with-open-source-books/)
 

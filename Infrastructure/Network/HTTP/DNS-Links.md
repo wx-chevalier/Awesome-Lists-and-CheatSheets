@@ -1,7 +1,7 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
  
 
-# DNS 资料索引
+# DNS Links
 
 * [DNS 原理入门](http://www.ruanyifeng.com/blog/2016/06/dns.html)
 

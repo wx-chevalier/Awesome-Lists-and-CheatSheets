@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
 
-# JVM 资料索引
+# JVM Links
 
 [Creating JVM Language Serials](http://jakubdziworski.github.io/categories.html#Enkel-ref)
 

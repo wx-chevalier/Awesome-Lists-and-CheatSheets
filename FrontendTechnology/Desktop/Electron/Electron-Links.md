@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Electron 学习与实践资料索引
+# Electron  Learning & Practices Links
 
 * [2017-How to build a Desktop Application with Electron and React](https://parg.co/bI4):
 

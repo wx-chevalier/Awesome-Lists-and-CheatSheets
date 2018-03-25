@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Webpack 学习与实践资料索引
+# Webpack  Learning & Practices Links
 
 * [前端缓存策略与基于 Webpack 的静态资源版本管理](https://zhuanlan.zhihu.com/p/24954527)
 

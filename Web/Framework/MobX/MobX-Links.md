@@ -1,7 +1,6 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-
-# MobX 学习与实践资料索引
+# MobX Links
 
 # Tutorial
 
@@ -35,11 +34,10 @@
 
 - [2017-Mobx React — Best Practices](https://medium.com/dailyjs/mobx-react-best-practices-17e01cec4140): In this article I want to show you common best practices for using React with mobx.
 
-
-# Under the hood
+# Internals
 
 * [如何自己实现一个 mobx - 原理解析](https://zhuanlan.zhihu.com/p/26559530)
 
-# OpenSource: 工具与扩展
+# OpenSource
 
 * [2017-Wiretap #Project#](https://github.com/Raathigesh/wiretap): A desktop app for inspecting mobx and mobx state tree apps.

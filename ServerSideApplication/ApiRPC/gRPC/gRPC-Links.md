@@ -1,7 +1,7 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
 
 
-# gRPC 学习与实践资料索引
+# gRPC  Learning & Practices Links
 
 * [2017-gRPC in Production](https://parg.co/ban)
 

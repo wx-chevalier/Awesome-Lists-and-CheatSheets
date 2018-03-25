@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# 搜索引擎学习与实践资料索引
+# 搜索引擎 Learning & Practices Links
 
 * [搜索引擎索引数据结构和算法](http://www.hoohack.me/2016/05/09/datasture-and-algorithm-of-search-engine)
 

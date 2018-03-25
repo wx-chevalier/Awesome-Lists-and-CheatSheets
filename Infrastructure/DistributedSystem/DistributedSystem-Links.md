@@ -28,3 +28,15 @@ Distributed Systems: Principles and Paradigms
 Scalable Web Architecture and Distributed Systems
 Principles of Distributed Systems
 Making reliable distributed systems in the presence of software errorsDesigning Data Intensive Applications
+
+# Resources
+
+## Book
+
+* [2012-Concurrent Programming for Scalable Web Architectures #Book#](http://berb.github.io/diploma-thesis/): We examine the relations between concurrency, scalability and distributed systems and dare an outlook on the near future.
+
+- [松本行弘-代码的未来]()
+
+* [2012-The Art of Multiprocessor Programming, Revised Reprint](https://www.safaribooksonline.com/library/view/the-art-of/9780123973375/): The Art of Multiprocessor Programming is an authoritative guide to multicore programming. It introduces a higher level set of software development skills than that needed for efficient single-core programming. This book provides comprehensive coverage of the new principles, algorithms, and tools necessary for effective multiprocessor programming.
+
+- [深入理解计算机系统 #Book#]():此书中设计有关并行与并发的部分可以作为借鉴，有助于理解并发编程在系统底层上的实现原理，本文的很多内容与论断也是借鉴了本书。

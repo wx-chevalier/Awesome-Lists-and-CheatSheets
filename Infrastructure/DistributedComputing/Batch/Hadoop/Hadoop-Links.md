@@ -17,7 +17,7 @@
 
 
 
-# Hadoop 学习与实践资料索引
+# Hadoop  Learning & Practices Links
 
 
 

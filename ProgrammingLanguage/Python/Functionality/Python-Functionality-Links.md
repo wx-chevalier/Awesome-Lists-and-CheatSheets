@@ -3,7 +3,7 @@
  
 
 
-# Python 功能性开发学习与实践资料索引
+# Python 功能性开发 Learning & Practices Links
 
 # IO
 

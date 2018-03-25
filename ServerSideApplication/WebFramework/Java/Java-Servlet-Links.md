@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
 
-# Java Servlet 资料索引
+# Java Servlet Links
 
 # Application Server
 

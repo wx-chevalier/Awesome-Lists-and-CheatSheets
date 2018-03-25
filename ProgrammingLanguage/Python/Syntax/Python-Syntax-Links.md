@@ -16,7 +16,7 @@
 
 
 
-# Python 语法基础学习与实践资料索引
+# Python 语法基础 Learning & Practices Links
 
 
 

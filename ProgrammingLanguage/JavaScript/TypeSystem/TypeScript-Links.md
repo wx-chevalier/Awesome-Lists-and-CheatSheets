@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# TypeScript 学习与实践资料索引
+# TypeScript  Learning & Practices Links
 
 * [52-technologies-in-2016:Let's Learn TypeScript](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/17-typescript)
 

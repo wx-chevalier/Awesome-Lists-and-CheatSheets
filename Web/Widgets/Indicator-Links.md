@@ -1,7 +1,6 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-
-# Web 指示器插件索引
+# Indicator Links
 
 # ProgressBar
 

@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Python 学习与实践资料索引
+# Python  Learning & Practices Links
 
 # Overview: 入门指引
 

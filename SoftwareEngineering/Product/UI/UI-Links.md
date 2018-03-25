@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# UI 学习与实践资料索引
+# UI  Learning & Practices Links
 
 1. 平面设计： [《超赞！设计师完全自学指南》](http://www.uisdc.com/designer-self-study-2)
 2. 交互设计： [《交互设计师修炼指南！教你从零开始成为优秀交互设计师》](http://www.uisdc.com/interaction-designers-guide)

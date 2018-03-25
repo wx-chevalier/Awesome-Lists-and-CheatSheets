@@ -1,7 +1,7 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
  
  
-# Expectation-Maximization 资料索引
+# Expectation-Maximization Links
 
 * [What is an intuitive explanation for the expectation maximization (EM) algorithm?](http://6me.us/R0gEUS)
 

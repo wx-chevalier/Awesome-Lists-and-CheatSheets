@@ -6,6 +6,6 @@
  
 
 
-# jQuery 学习与实践资料索引
+# jQuery  Learning & Practices Links
 
 - [Best Free jQuery Plugins of 2016](https://designmodo.com/free-jquery-plugins-2016/)

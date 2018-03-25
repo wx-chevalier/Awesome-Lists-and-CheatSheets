@@ -1,7 +1,7 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
  
  
-# HDFS 资料索引
+# HDFS Links
 
 * [Hadoop 读文件分析](http://shiyanjun.cn/archives/962.html)
 

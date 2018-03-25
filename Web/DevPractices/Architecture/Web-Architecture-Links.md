@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Web 架构学习与实践资料索引
+# Web 架构 Learning & Practices Links
 
 # Micro Frontend
 

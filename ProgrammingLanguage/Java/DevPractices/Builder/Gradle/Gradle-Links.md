@@ -16,7 +16,7 @@
 
 
 
-# Gradle 学习与实践资料索引
+# Gradle  Learning & Practices Links
 
 
 

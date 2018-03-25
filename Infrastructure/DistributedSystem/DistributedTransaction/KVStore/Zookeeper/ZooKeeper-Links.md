@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# ZooKeeper 学习与实践资料索引
+# ZooKeeper  Learning & Practices Links
 
 * [ZooKeeper 编程指导](http://ifeve.com/zookeeperprogrammers/)
 

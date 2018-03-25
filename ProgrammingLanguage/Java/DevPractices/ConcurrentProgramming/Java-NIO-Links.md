@@ -1,13 +1,10 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
- 
- 
- 
-# Java NIO 资料索引
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-- [NIO全解析说明 ](http://zoeminghong.github.io/2016/06/12/nio20160612/)
+# Java NIO Links
 
+* [NIO 全解析说明  ](http://zoeminghong.github.io/2016/06/12/nio20160612/)
 
-- [Java I/O模型从BIO到NIO和Reactor模式 ](http://www.jasongj.com/java/nio_reactor/)
+- [Java I/O 模型从 BIO 到 NIO 和 Reactor 模式  ](http://www.jasongj.com/java/nio_reactor/)
 
 - [Java NIO Tutorial](http://tutorials.jenkov.com/java-nio/index.html)
 
@@ -15,5 +12,4 @@
 
 - [IBM DeveloperWorkers Java NIO2](https://www.ibm.com/developerworks/cn/java/j-nio2-1/)
 
-- [Java NIO浅析](https://zhuanlan.zhihu.com/p/23488863)
-
+- [Java NIO 浅析](https://zhuanlan.zhihu.com/p/23488863)

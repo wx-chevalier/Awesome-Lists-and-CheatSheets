@@ -3,7 +3,7 @@
  
  
 
-# PostgreSQL 资料索引
+# PostgreSQL Links
 
 - [Scaling the GitLab database](http://hn.premii.com/#/article/15586488):  In this article we'll take a look at what we did to help solve these problems for both GitLab.com and self-hosted GitLab instances.
 

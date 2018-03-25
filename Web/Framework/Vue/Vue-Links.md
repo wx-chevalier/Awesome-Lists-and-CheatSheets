@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Vue.js 学习与实践资料索引
+# Vue.js  Learning & Practices Links
 
 * [2017-Getting Started with Vue.js](https://sabe.io/tutorials/getting-started-with-vue-js): I’m writing this post to help people get started with very little knowledge required other than basic HTML, CSS and JavaScript.
 

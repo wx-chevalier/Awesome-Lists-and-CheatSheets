@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# TCP/IP 资料索引
+# TCP/IP Links
 
 * [TCP/IP 漫游](https://parg.co/UVU): TCP/IP 是互联网的基础协议栈，它包括大大小小几十个协议。本篇文章主要涉及到就是 HTTP、TCP、IP 协议。我们经常学的网络模型是七层或者五层，实际上一般认为一共只有四层就可以了。
 

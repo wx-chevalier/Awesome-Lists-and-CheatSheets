@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Presto 资料索引
+# Presto Links
 
 * [Presto 架构及原理](http://www.cnblogs.com/tgzhu/p/6033373.html)
 

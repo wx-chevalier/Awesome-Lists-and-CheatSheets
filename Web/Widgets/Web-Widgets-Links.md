@@ -1,5 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
 [中文版本](./Web-Widgets-Links.md) | [English Version](Web-Widgets-Links-en.md)
 
@@ -14,6 +13,8 @@
   * Icon - 图标
 
   * LocaleProvider - 国际化
+
+  * Form - 表单
 
   * Validation - 校验
 
@@ -33,7 +34,7 @@
 
   * Page Slider - 滚动页面
 
-- Navigation - 导航
+* Navigation - 导航
 
   * Affix / Anchor - 固钉 / 锚点
 
@@ -53,7 +54,7 @@
 
   * Search - 搜索
 
-  * Form
+  * Tour - 指南
 
 * Picker - 输入器
 

@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Consul 学习与实践资料索引
+# Consul  Learning & Practices Links
 
 * [consul-template](https://github.com/hashicorp/consul-template): Generic template rendering and notifications with Consul.
 

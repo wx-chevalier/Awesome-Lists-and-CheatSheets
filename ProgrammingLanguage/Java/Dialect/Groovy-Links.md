@@ -17,7 +17,7 @@
 
 
 
-# Groovy 学习与实践资料索引
+# Groovy  Learning & Practices Links
 [30分钟groovy快速入门并掌握(ubuntu 14.04+IntelliJ 13)](http://www.cnblogs.com/amosli/p/3970810.html)
 
 

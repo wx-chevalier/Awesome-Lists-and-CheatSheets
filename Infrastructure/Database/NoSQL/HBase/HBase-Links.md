@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# HBase 资料索引
+# HBase Links
 
 * [Hbase 系统架构及数据结构 ](http://blog.csdn.net/cnbird2008/article/details/9151585)
 

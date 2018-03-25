@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Hive 资料索引
+# Hive Links
 
 * [TutorialSpoint Hive](http://www.tutorialspoint.com/hive)
 

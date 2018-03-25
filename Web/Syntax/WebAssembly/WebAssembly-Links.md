@@ -1,7 +1,7 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
 
 
-# WebAssembly 学习与实践资料索引
+# WebAssembly  Learning & Practices Links
 
 ![](https://pic1.zhimg.com/a3d0d0e45057489e78b70620b739bb74_r.png)
 

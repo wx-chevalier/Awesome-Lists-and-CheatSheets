@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# VirtualDOM 资料索引
+# VirtualDOM Links
 
 * [2015-The difference between Virtual DOM and DOM](http://reactkungfu.com/2015/10/the-difference-between-virtual-dom-and-dom/): React attacks us with the virtual DOM right away, on the main page. This feature seems to be very important!
 

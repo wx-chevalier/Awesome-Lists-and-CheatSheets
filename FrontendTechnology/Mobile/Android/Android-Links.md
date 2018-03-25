@@ -3,7 +3,7 @@
  
 
 
-# Android 学习与实践资料索引
+# Android  Learning & Practices Links
 
 * [Android 学习笔记](https://github.com/CharonChui/AndroidNote)
 

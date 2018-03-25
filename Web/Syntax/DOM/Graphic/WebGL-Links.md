@@ -1,4 +1,4 @@
-# WebGL 学习与实践资料索引
+# WebGL  Learning & Practices Links
 
 # Tutorial
 
