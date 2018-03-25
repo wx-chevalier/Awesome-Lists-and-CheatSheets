@@ -8,10 +8,6 @@
 
 - [HttpRouter #Project#](https://github.com/julienschmidt/httprouter): A high performance HTTP request router that scales well.
 
-- [2017-Visualizing Concurrency in Go · divan's blog](http://divan.github.io/posts/go_concurrency_visualize/): One of the strongest sides of Go programming language is a built-in concurrency based on Tony Hoare’s CSP paper. Go is designed with concurrency in mind and allows us to build complex concurrent pipelines. But have you ever wondered - how various concurrency patterns look like?
-
-- [2017-Profiling Go](http://www.integralist.co.uk/posts/profiling-go/): We dive into the techniques and tools available for profiling Go applications
-
 - [Slack-Term #Project#](https://github.com/erroneousboat/slack-term): A Slack client for your terminal.
 
 # Tool
@@ -26,8 +22,10 @@
 
 # Database
 
-- [Bolt #Project#](https://github.com/boltdb/bolt): An embedded key/value database for Go.
+* [Bolt #Project#](https://github.com/boltdb/bolt): An embedded key/value database for Go.
 
 # Other
 
-- [gorush](https://github.com/appleboy/gorush): A push notification server written in Go (Golang).
+* [gorush #Project#](https://github.com/appleboy/gorush): A push notification server written in Go (Golang).
+
+* [qr-filetransfer #Project#](https://github.com/claudiodangelis/qr-filetransfer): Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.

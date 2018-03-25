@@ -10,7 +10,7 @@
 
 * [Found Play](https://www.found.no/play#): JSFiddle-like playground for Elasticsearch;
 
-# UI: 管理界面
+# UI
 
 * [ElasticHQ](http://www.elastichq.org/index.html)
 
@@ -19,6 +19,8 @@
 * [Yelp-elastalert](https://github.com/Yelp/elastalert):Easy & Flexible Alerting With ElasticSearch
 
 * [Kibana](https://github.com/elastic/kibana)：[Kibana 4 权威指南](http://www.code123.cc/docs/kibana-logstash/v4/index.html)
+
+* [dejavu](https://github.com/appbaseio/dejavu): dejavu is the missing web UI for Elasticsearch.
 
 ## UI Component
 

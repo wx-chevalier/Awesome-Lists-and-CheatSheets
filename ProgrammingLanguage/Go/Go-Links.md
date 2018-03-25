@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Go Links
+# Go Link: Learning & Practices
 
 This file aggregates curated popular links for learning Golang. More reference about ITCS can turn to [Awesome Links : Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Links), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
 
@@ -68,7 +68,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2018-Learn go with tests](https://github.com/quii/learn-go-with-tests): Explore the Go language by writing tests.
 
-- [2018-How to Build a Search Service with Go and Elasticsearch](https://outcrawl.com/go-elastic-search-service/): This article shows how to build a simple search service in Go using Elasticsearch. 
+- [2018-How to Build a Search Service with Go and Elasticsearch](https://outcrawl.com/go-elastic-search-service/): This article shows how to build a simple search service in Go using Elasticsearch.
 
 ## Web Dev
 
