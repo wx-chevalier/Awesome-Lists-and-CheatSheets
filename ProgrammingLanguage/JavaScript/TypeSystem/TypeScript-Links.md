@@ -24,6 +24,8 @@
 
 * [2017-Common TypeScript Error Messages](https://www.sitepen.com/blog/2017/11/01/common-typescript-error-messages/)
 
+- [2018-Advanced functional programming in TypeScript](https://codewithstyle.info/advanced-functional-programming-typescript-monads-generators/): In this post, you’ll see how to take advantage of generators to make the monadic code more readable.
+
 # OpenSource
 
 * [DefinitelyTyped #Project# ](https://github.com/DefinitelyTyped/DefinitelyTyped): The repository for high quality TypeScript type definitions.
