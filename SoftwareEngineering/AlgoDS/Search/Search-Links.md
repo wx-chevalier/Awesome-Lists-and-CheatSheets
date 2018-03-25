@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# 搜索算法资料索引
+# Search Links
 
 * [Java 线性查找和二分查找](http://blog.163.com/magicc_love/blog/static/185853662201471941758112/)
 

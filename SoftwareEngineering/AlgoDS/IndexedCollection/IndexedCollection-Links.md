@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# 序列结构资料索引
+# Indexed Collection Links
 
 * [数据结构浅析(四)：栈与队列](http://www.jianshu.com/p/c3ba7e56fb53)
 

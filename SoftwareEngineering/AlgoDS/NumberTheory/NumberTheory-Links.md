@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# 数论资料索引
+# Number Theory Links
 
 # Scientific Calculation
 
