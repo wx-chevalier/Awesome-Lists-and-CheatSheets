@@ -8,6 +8,10 @@
 
 - [Didact](https://github.com/hexacta/didact): This repository goes together with a series of posts that explains how to build React from scratch step by step.
 
+# Component System
+
+* [The React and React Native Event System Explained: A Harmonious Coexistence](https://parg.co/UDq): You’re using it. You’re liking it. But did you know what React’s event handler is doing under the hood?
+
 # Virtual DOM
 
 * [2017-react diff 原理](https://cloud.tencent.com/community/article/654179001489391651?fromSource=gwzcw.114428.114428.114428)：React diff 作为 Virtual DOM 的加速器，其算法上的改进优化是 React 整个界面渲染的基础，以及性能提高的保障，同时也是 React 源码中最神秘、最不可思议的部分，本文将剖析 React diff 的不可思议之处。

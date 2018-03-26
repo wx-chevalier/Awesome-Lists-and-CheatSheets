@@ -2,7 +2,9 @@
 
 # React Syntax Links
 
-# Component: 组件语法
+This post aggregates curated popular links for learning React Syntax. More reference about ITCS can turn to [Awesome Links: Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Links), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
+
+# Component
 
 * [2017-How Pure CSS Images Helped Me Understand React Components](https://parg.co/bL6): How did I overcome impostor syndrome and finally learn React? There are a few reasons but one of the most significant ones was learning how to make pure CSS images.
 
@@ -36,7 +38,7 @@
 
 * [2018-Handling Errors in React Components with Error Boundaries](https://dev.to/sarah_chima/error-boundaries-in-react-3eib): Error Boundaries are React Components and they catch error anywhere in their child component tree.
 
-# Component Dataflow: 组件数据流
+# Component Dataflow
 
 ## Props
 
@@ -56,7 +58,7 @@
 
 * [React’s ⚛️ new Context API](https://parg.co/UXl): It’s way more ergonomic, it’s no longer “experimental,” and it’s now a first-class api! OH, AND IT USES A RENDER PROP!
 
-# Style: 样式
+# Style
 
 * [SurviveJS:Styling React](http://survivejs.com/react/advanced-techniques/styling-react/)
 
@@ -86,7 +88,7 @@
 
 * [2017-Migrating to styled-components cheatsheet](http://jsramblings.com/2017/10/29/migrating-to-styled-components-cheatsheet.html)
 
-# Animation: 动画
+# Animation
 
 * [2017-react-move #Project# ](https://github.com/tannerlinsley/react-move): Beautifully and deterministically animate anything in React.
 
@@ -136,7 +138,6 @@
 
 * [2017-A shallow dive into React Router v4 Animated Transitions](https://parg.co/b1I): It can be a bit confusing getting animated transitions setup with React Router v4. This article won’t cover every scenario, but we’ll go over the basics so that you can add animated transitions to your application.
 
-
 # Widgets
 
-- [2018-An imperative guide to forms in React](https://blog.logrocket.com/an-imperative-guide-to-forms-in-react-927d9670170a?source=linkShare-fe48c4221a4c-1519391172): in this tutorial, I will explain how React deals with forms and events.
+* [2018-An imperative guide to forms in React](https://blog.logrocket.com/an-imperative-guide-to-forms-in-react-927d9670170a?source=linkShare-fe48c4221a4c-1519391172): in this tutorial, I will explain how React deals with forms and events.

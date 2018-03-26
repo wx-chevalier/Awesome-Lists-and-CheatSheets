@@ -1,12 +1,12 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# React Native 语法资料索引
+# React Native Syntax Links
 
 * [animate-all-the-things-transitions-in-android](https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50#.8fh117w2y)
 
-# Component Syntax: 组件基础
+# Component Syntax
 
-## Style: 组件样式
+## Style
 
 * [2016-Tips for styling your React Native apps](https://parg.co/beN): In this post I’ll go through a series of techniques for “theming” your react native application.
 

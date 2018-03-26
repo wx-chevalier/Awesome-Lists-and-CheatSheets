@@ -1,10 +1,10 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# React  Learning & Practices Links
+# React Learning & Practices Links
 
-过去的一年里 React 及其社区依旧活跃，开源协议的变更、新版本的发布、组件库的扩充，都在不断为 React 的蓬勃发展注入新的动力。本文即是对笔者 [Awesome Links  中 React  Learning & Practices Links]()的总结，涵盖了[概述与学习资源、语法、开发实践、生产环境优化、调和算法与内部原理、开源框架与库]()等几个部分。
+This file aggregates curated popular links for learning React, Syntax, DevPractices, Production Tips, Internals, OpenSource, etc. More reference about ITCS can turn to [Awesome Links: Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Links), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
 
-# Overview: 概览
+# Overview
 
 * [2014-Removing-User-Interface-Complexity,-or-Why-React-is-Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
 
@@ -14,7 +14,7 @@
 
 - [2017-All the fundamental React.js concepts, jammed into this single Medium article](https://parg.co/bzp): This article is not going to cover what React is or why you should learn it. Instead, this is a practical introduction to the fundamentals of React.js for those who are already familiar with JavaScript and know the basics of the DOM API.
 
-## Concept: 概念
+## Concept
 
 * [2016-Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html): One of the many great parts of React is how it makes you think about apps as you build them. In this document, we'll walk you through the thought process of building a searchable product data table using React.
 
@@ -24,13 +24,13 @@
 
 * [2017-react-aha-moments](https://tylermcginnis.com/react-aha-moments/): One of my main goals whenever I’m teaching or writing technical content is to maximize “aha” moments. An “aha” moment is a moment of sudden insight or clarity; when the subject matter suddenly makes sense. We’ve all experienced them and the best teachers I know are able to understand their audience and adapt the lesson in order to maximize these moments.
 
-## Case Study: 应用案例
+## Case Study
 
 * [2016-Moving Airbnb Search to React](http://6me.us/2mS): Using experiments to tackle a large refactor with confidence
 
-# Resource: 资源
+# Resource
 
-## Book: 书籍
+## Book
 
 * [2016-React In-depth: An exploration of UI development #Book#](https://www.gitbook.com/book/developmentarc/react-indepth/details):Our goal with this GitBook is to document our process, share our research and try to organize our experiences into a single living document. Too be honest, this is a pretty lofty goal. We may not achieve this goal, but hopefully we can get some helpful thoughts down.
 
@@ -48,11 +48,11 @@
 
 - [2017-React and React Native #Book#](https://parg.co/beh): Use React and React Native to build applications for desktop browsers, mobile browsers, and even as native mobile apps.
 
-## Course & Conf: 视频教程与会议
+## Course & Conf
 
 * [2017 React 大会](http://conf.reactjs.org/livestream)：2017 年 React Conf 于 3 月 13 日、14 日成功举办，会上来自世界各地的开发者就 React Fiber、Flow 、 Performance、React Native 等多个主题发表了演说与讨论，推荐选择自己喜欢的演讲视频观看。
 
-## Collection: 其他资源集锦
+## Collection
 
 * [Awesome-React #Collection#](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem.
 
@@ -60,7 +60,7 @@
 
 - [Using forms in React-Redux: Tips And Tricks #Collection#](https://medium.com/@royisch/using-forms-in-react-redux-tips-and-tricks-48ad9c7522f6#.krt2lrdhw)
 
-# Tutorial: 入门教程
+# Tutorial
 
 * [2016-Learning React with Create-React-App #Series#](https://parg.co/bhf)
 
@@ -75,3 +75,5 @@
 - [2017-A React TODOs example, explained](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)
 
 - [2018-Rock Solid React.js Foundations: A Beginner’s Guide](https://parg.co/Uv3): this post is aimed towards the audience who is looking for a perfect mix of theory and hands-on.
+
+- [A Comprehensive Guide to React.js in 2018](https://medium.freecodecamp.org/a-comprehensive-guide-to-react-js-in-2018-ba8bb6975597): This article was originally published in January of 2015, but was recently updated to React 16.3 and all the goodness it contains.

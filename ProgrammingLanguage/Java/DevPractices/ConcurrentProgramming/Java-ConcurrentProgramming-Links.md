@@ -1,13 +1,10 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
+# Java Concurrent Programming Links
 
-# Java 并发编程资料索引
-
-* [java-concurrency](http://tutorials.jenkov.com/java-concurrency/index.html)
+* [2015-Java Concurrency / Multithreading Tutorial](http://tutorials.jenkov.com/java-concurrency/index.html): The trail will primarily be concerned with multithreading in Java, but some of the problems occurring in multithreading are similar to problems occurring in multitasking and in distributed systems.
 
 * [Java 并发编程的艺术-方腾飞]()
-
-* [Java 并发编程实战](http://book.51cto.com/art/201203/323171.htm)
 
 * [Java 多线程编程核心技术]()
 
@@ -41,10 +38,10 @@
 
 - [Java Concurrency Patterns and Features #Project#](https://parg.co/UVC): Concurrency Patterns and features found in Java, through multithreaded programming. Threads, Locks, Atomics and more.
 
-# ConcurrenceControl: 并发控制
+# Concurrence Control: 并发控制
 
 * [2017-An Introduction to Atomic Variables in Java](http://www.baeldung.com/java-atomic-variables)
 
 # Coroutine: 协程
 
-- [2017-Project Loom: Fibers and Continuations for the Java Virtual Machine](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)
+* [2017-Project Loom: Fibers and Continuations for the Java Virtual Machine](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)

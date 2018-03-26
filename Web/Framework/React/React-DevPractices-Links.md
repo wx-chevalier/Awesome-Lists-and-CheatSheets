@@ -72,11 +72,11 @@
 
 - [2016-Building HOCs with Recompose](https://medium.com/front-end-developers/building-hocs-with-recompose-7debb951d101)
 
-## Code Organization: 代码组织
+## Code Organization
 
 * [2016-How to better organize your React applications?](https://parg.co/UII): I decided to spend some time to figure out what could be the best way to organize my future React projects.
 
-# Static Type: 静态类型检测
+# Static Type
 
 ## Flow
 
@@ -89,6 +89,8 @@
 * [2017-react-typescript-samples](https://parg.co/UZK): The goal of this project is to provide a set of simple samples, providing and step by step guide to start working with React and Typescript.
 
 * [2018-TypeScript and React using create-react-app](https://parg.co/U15): A step-by-step guide to setting up your first app.
+
+* [2018-Ultimate React Component Patterns with Typescript 2.8](https://parg.co/UDE): Stateful, Stateless, Default Props, Render Callbacks, Component Injection, Generic Components, High Order Components, Controlled Components.
 
 # Test: 测试
 

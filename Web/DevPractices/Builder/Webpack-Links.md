@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Webpack  Learning & Practices Links
+# Webpack Learning & Practices Links
 
 * [前端缓存策略与基于 Webpack 的静态资源版本管理](https://zhuanlan.zhihu.com/p/24954527)
 
@@ -58,7 +58,7 @@
 
 - [2018-RIP CommonsChunkPlugin](https://parg.co/Ukz): webpack 4 removes the CommonsChunkPlugin in favor of two new options (optimization.splitChunks and optimization.runtimeChunk). Here is how it works.
 
-# OpenSource: 相关的开源工具与扩展
+# OpenSource
 
 ## 监控
 

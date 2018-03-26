@@ -1,5 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
-
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
 # Docker Links
 
@@ -29,9 +28,9 @@
 
 ## Book
 
-* [2017- 自己动手写 Docker](http://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=50014)：通过讲解 Docker 使用到的各种底层技术，例如 Namespace、Cgroups 等来自己一步步动手完成一个简单版本的 Docker。在自己动手的过程中，从而对 Docker 这个技术有一个整体、细致的了解。能够明白 Docker 的原理以及结构，从而加深对目前炽手可热的 Docker 技术的理解，方便解决工作中使用 Docker 遇到的各种问题。[系列书摘](https://yq.aliyun.com/articles/64928)。
+* [2017- 自己动手写 Docker #Book#](http://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=50014)：通过讲解 Docker 使用到的各种底层技术，例如 Namespace、Cgroups 等来自己一步步动手完成一个简单版本的 Docker。在自己动手的过程中，从而对 Docker 这个技术有一个整体、细致的了解。能够明白 Docker 的原理以及结构，从而加深对目前炽手可热的 Docker 技术的理解，方便解决工作中使用 Docker 遇到的各种问题。[系列书摘](https://yq.aliyun.com/articles/64928)。
 
-* [2017-The DevOps 2.1 Toolkit: Docker Swarm](https://parg.co/bjC): Viktor Farcic's latest book, The DevOps 2.1 Toolkit: Docker Swarm, shows you how to successfully integrate Docker Swarm into your DevOps toolset.
+* [2017-The DevOps 2.1 Toolkit: Docker Swarm #Book#](https://parg.co/bjC): Viktor Farcic's latest book, The DevOps 2.1 Toolkit: Docker Swarm, shows you how to successfully integrate Docker Swarm into your DevOps toolset.
 
 * [2017-Continuous Delivery with Docker and Jenkins #Book#](https://parg.co/UrV): Unleash the combination of Docker and Jenkins in order to enhance the DevOps workflow.
 
@@ -42,3 +41,5 @@
 * [Docker + Kubernetes](https://parg.co/UVt)
 
 * [2018-A crash course on Docker — Learn to swim with the big fish](https://parg.co/UvP)
+
+* [2018-Docker for Beginners](https://docker-curriculum.com/): Learn to build and deploy your distributed applications easily to the cloud with Docker.

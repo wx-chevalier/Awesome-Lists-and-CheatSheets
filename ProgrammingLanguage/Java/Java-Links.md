@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Java  Learning & Practices Links
+# Java Learning & Practices Links
 
 当我们谈起 Java 的时候，往往是将其作为一门编程语言来讨论；然而编程语言的特性只是 Java 架构的某部分，保障其平台独立性的一系列底层架构也是 Java 不可分割的组成。宏观来看，我们认为 Java 主要包含以下四个部分：Java 编程语言、Java 类文件格式、Java API 以及 JVM。当我们在进行 Java 开发时，我们使用 Java 编程语言来编写代码，然后将其编译为 Java 类文件，最终在 JVM 中执行这些类文件；目前我们也可以使用 Gradle、Kotlin 等其他优秀的语言来编写 Java 应用程序。而 JVM 与 Java 平台的核心库就构成了我们所熟知的 Java Runtime Environment（JRE）：
 
@@ -8,7 +8,7 @@
 
 作为主流的编程语言之一，Java 走过了二十余载的路程；从 Java 8 到 Java 9，其语法特性与开发模式也处于不断地迭代当中。本文即是希望对于不断变化的并且在实际工作中大量应用的 Java 学习与实践的资料进行收集与索引。
 
-# Overview: 概述
+# Overview
 
 * [2017-细思极恐-你真的会写 java 吗?](http://6me.us/IZ45)
 
@@ -16,7 +16,7 @@
 
 - [Java Web Frameworks Index by RebelLabs](https://zeroturnaround.com/rebellabs/java-web-frameworks-index-by-rebellabs/)
 
-## CheatSheet: 语法速览
+## CheatSheet
 
 * [Java Programming Cheatsheet From Princeton](http://introcs.cs.princeton.edu/java/11cheatsheet/): This appendix summarizes the most commonly-used Java language features in the textbook.
 
@@ -52,15 +52,17 @@
 
 * [2011-深入理解 Java 虚拟机：JVM 高级特性与最佳实践 #Book#](https://parg.co/b1E)：全书共分为五大部分。第一部分从宏观的角度介绍了整个 Java 技术体系的过去、现在和未来；第二部分讲解了 JVM 的自动内存管理；第三部分分析了虚拟机的执行子系统；第四部分讲解了程序的编译与代码的优化；第五部分探讨了 Java 实现高效并发的原理。
 
+* [2011-Java Concurrency In Practice #Book#](https://parg.co/UVQ):Our goal is to give readers a set of design rules and mental models that make it easier and more fun to build correct, performant concurrent classes and applications in Java.
+
+- [2012-Java 并发编程实战 #Book#](http://book.51cto.com/art/201203/323171.htm): 本书深入浅出地介绍了 Java 线程和并发，是一本完美的 Java 并发参考手册。
+
 * [2015-实战 Java 高并发程序设计 #Book#]()：
 
-* [2015-Pro Java 8 Programming, Third Edition #Project# ](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
+- [2015-Pro Java 8 Programming, Third Edition #Project# ](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
 
-* [2017-Think Java #Book#](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
+- [2017-Think Java #Book#](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
 
-- [2017-Introduction To Programming In Java #Book#](http://introcs.cs.princeton.edu/java/home/): Princeton 出品的 Java 入门书籍
-
-- [2011-Java Concurrency In Practice #Book#](https://parg.co/UVQ):Our goal is to give readers a set of design rules and mental models that make it easier and more fun to build correct, performant concurrent classes and applications in Java.
+* [2017-Introduction To Programming In Java #Book#](http://introcs.cs.princeton.edu/java/home/): Princeton 出品的 Java 入门书籍
 
 ## Blog: 博客
 

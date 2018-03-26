@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# ReactNative  Learning & Practices Links
+# ReactNative Learning & Practices Links
 
 ## Overview
 
@@ -10,7 +10,11 @@
 
 * [2017-All You Need To Know About React Native](https://parg.co/U1R): Shorter development cycles, faster deployment, and great app performance.
 
-## Case Study: 案例分析
+## Case Study
+
+* [2017-How We Built Our React Native App](https://parg.co/bDM): An ideal mobile application should be an extension of the mobile web instead of being a replacement.
+
+* [2017-Housing.com How We Built Our React Native App](https://parg.co/bDM):We received a very positive response from the community as well as our customers and wanted to replicate the same success for our mobile application too.
 
 # Resource
 
@@ -34,7 +38,7 @@
 
 - [2016-Writing Cross-Platform Apps with React Native](https://www.infoq.com/articles/react-native-introduction)
 
-## Quick Start: 开发环境搭建与调试
+## Quick Start
 
 * [Create React Native App #Project# ](http://6me.us/PIszU): Create a React Native app on any OS with no build config.
 
@@ -47,3 +51,7 @@
 * [2017-VSCode for React Native](https://medium.com/@Kelset/vscode-for-react-native-526ec4a368ce): An opinionated list of extensions to get the most out of it.
 
 * [2017-GitPoint](https://github.com/gitpoint/git-point): GitHub for iOS. Built with React Native.
+
+## Expo
+
+* [2017-The Joys of building React Native Apps with Expo](http://t.cn/RHuAZzN)

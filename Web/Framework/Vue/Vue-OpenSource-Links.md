@@ -1,7 +1,6 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-
-# Vue.js 开源组件与库索引
+# Vue.js OpenSouce Links
 
 * [Vue  前端框架比较](http://6me.us/5E8wN)：本文是对常用的基于  Vue  的前端框架的比较。( http://6me.us/5E8wN )
 

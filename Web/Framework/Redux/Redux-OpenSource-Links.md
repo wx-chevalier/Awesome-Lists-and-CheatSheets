@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Redux 开源资源索引
+# Redux Links
 
 * [Redux Search #Project#](https://github.com/treasure-data/redux-search)
 

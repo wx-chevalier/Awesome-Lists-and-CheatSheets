@@ -1,6 +1,5 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
- 
- 
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
+
 # Functional Programming: 函数式编程
 
 * [2016-Eric Elliott: Composing Software](http://6me.us/SJr7): series on learning functional programming and compositional software techniques in JavaScript ES6+ from the ground up.
@@ -14,12 +13,6 @@
 - [So You Want to be a Functional Programmer](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a)
 
 - [2017-avascript and Functional Programming #Series#](https://parg.co/UQn): This is part of the “Javascript and Functional Programming” series on learning functional programming techniques in JavaScript ES6+.
-
-# OpenSource: 开源工具与库
-
-* [Rambda #Project#](http://ramdajs.com/0.22.1/index.html)
-
-- [immer #Project#](https://github.com/mweststrate/immer): Create the next immutable state tree by simply modifying the current tree.
 
 ## Immutable
 
