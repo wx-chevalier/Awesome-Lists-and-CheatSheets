@@ -16,7 +16,7 @@
   * [ ] SoftwareEngineering
   * [ ] Web
 
-* [ ] DataScienceAI-\*-Reference
+* [ ] DataScienceAI-\*-Links
 
   * [ ] 发布 Book 与 Course 混合
   * [ ] 发布 Model 与 OpenSource 混合

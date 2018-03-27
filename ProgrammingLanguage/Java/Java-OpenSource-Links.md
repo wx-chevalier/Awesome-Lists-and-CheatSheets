@@ -10,6 +10,10 @@
 
 * [Lombok #Project#](https://projectlombok.org/): Project Lombok is a java library that automatically plugs into your editor and build tools, spicing up your java.
 
+## Concurrent Programming
+
+* [concurrency-limits #Project#](https://github.com/Netflix/concurrency-limits): Java Library that implements and integrates concepts from TCP congestion control to auto-detect concurrency limits to achieve optimal throughput with optimal latency.
+
 # Tool
 
 * [Capsule #Project#](http://www.capsule.io/user-guide/#getting-capsule): Dead-Simple Packaging and Deployment for JVM Apps.
@@ -38,7 +42,7 @@ Cobertura
 
 * [FindBugs](http://findbugs.sourceforge.net/)
 
-* [SourceMonitor #Project#](http://www.campwoodsw.com/sourcemonitor.html): The freeware program SourceMonitor lets you see inside your software source code to find out how much code you have and to identify the relative complexity of your modules. 
+* [SourceMonitor #Project#](http://www.campwoodsw.com/sourcemonitor.html): The freeware program SourceMonitor lets you see inside your software source code to find out how much code you have and to identify the relative complexity of your modules.
 
 * [PMD #Project#](https://pmd.github.io/): PMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth.
 

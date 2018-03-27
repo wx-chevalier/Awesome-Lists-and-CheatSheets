@@ -38,10 +38,10 @@
 
 - [Java Concurrency Patterns and Features #Project#](https://parg.co/UVC): Concurrency Patterns and features found in Java, through multithreaded programming. Threads, Locks, Atomics and more.
 
-# Concurrence Control: 并发控制
+# Concurrence Control
 
 * [2017-An Introduction to Atomic Variables in Java](http://www.baeldung.com/java-atomic-variables)
 
-# Coroutine: 协程
+# Coroutine
 
 * [2017-Project Loom: Fibers and Continuations for the Java Virtual Machine](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)
