@@ -1,7 +1,6 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-
-# JavaScript 函数相关资料索引
+# JavaScript Function Links
 
 # Function: 函数定义与使用
 

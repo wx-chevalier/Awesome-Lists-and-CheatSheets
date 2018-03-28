@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# DOM 网络请求相关资料索引
+# DOM Networks Links
 
 # XMLHTTPRequest
 

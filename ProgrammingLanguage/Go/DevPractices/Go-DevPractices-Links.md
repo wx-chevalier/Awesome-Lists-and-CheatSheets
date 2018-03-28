@@ -7,3 +7,7 @@
 * [2017-Go tools & GitLab — how to do Continuous Integration like a boss](https://parg.co/U5Z)
 
 - [2017-Profiling Go](http://www.integralist.co.uk/posts/profiling-go/): We dive into the techniques and tools available for profiling Go applications
+
+# Test
+
+* [Golang basics - writing unit tests](https://blog.alexellis.io/golang-writing-unit-tests/): This post is a continuation of that theme, which covers unit testing.

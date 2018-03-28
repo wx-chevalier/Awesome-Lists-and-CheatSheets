@@ -29,3 +29,5 @@
 * [gorush #Project#](https://github.com/appleboy/gorush): A push notification server written in Go (Golang).
 
 * [qr-filetransfer #Project#](https://github.com/claudiodangelis/qr-filetransfer): Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+
+* [find3 #Project#](https://github.com/schollz/find3): The Framework for Internal Navigation and Discovery (FIND) is like indoor GPS for your house or business, using only a simple smartphone or laptop.

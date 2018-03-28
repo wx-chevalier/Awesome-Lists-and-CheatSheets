@@ -1,4 +1,4 @@
-# Table of Contents for Awesome Links 
+# Table of Contents for Awesome Links
 
 [Awesome Links : Guide to Galaxy](https://parg.co/UMJ) collect curated, worthy and up-to-date links for ITCS, including Programming Language(Java, JavaScript, Python, Go, Rust, etc.), Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
 
@@ -208,7 +208,7 @@
 
 * [Keras-Links](./DataScienceAI/Toolkit/DeepLearning/Keras-Links.md): Keras Links
 
-- [Tensoflow-Links](./DataScienceAI/Toolkit/DeepLearning/Tensoflow-Links.md): Tensorflow  Learning & Practices Links
+- [Tensoflow-Links](./DataScienceAI/Toolkit/DeepLearning/Tensoflow-Links.md): Tensorflow Learning & Practices Links
 
 * [Tensorflow-OpenSource-Links](./DataScienceAI/Toolkit/DeepLearning/Tensorflow-OpenSource-Links.md): Tensorflow OpenSource Links
 
@@ -246,7 +246,7 @@
 
 * [Electron-OpenSource-Links](./FrontendTechnology/Desktop/Electron/Electron-OpenSource-Links.md): Electron OpenSource Links
 
-- [Electron-Links](./FrontendTechnology/Desktop/Electron/Electron-Links.md): Electron  Learning & Practices Links
+- [Electron-Links](./FrontendTechnology/Desktop/Electron/Electron-Links.md): Electron Learning & Practices Links
 
 ## Game
 
@@ -264,7 +264,7 @@
 
 * [Android-OpenSource-Links](./FrontendTechnology/Mobile/Android/Android-OpenSource-Links.md): Android OpenSource Links
 
-- [Android-Links](./FrontendTechnology/Mobile/Android/Android-Links.md): Android  Learning & Practices Links
+- [Android-Links](./FrontendTechnology/Mobile/Android/Android-Links.md): Android Learning & Practices Links
 
 * [Android-Syntax-Links](./FrontendTechnology/Mobile/Android/Android-Syntax-Links.md): Android 功能语法资料索引
 
@@ -280,7 +280,7 @@
 
 * [ReactNative-OpenSource-Links](./FrontendTechnology/Mobile/ReactNative/ReactNative-OpenSource-Links.md): React Native 开源工具与框架索引
 
-- [ReactNative-Links](./FrontendTechnology/Mobile/ReactNative/ReactNative-Links.md): ReactNative  Learning & Practices Links
+- [ReactNative-Links](./FrontendTechnology/Mobile/ReactNative/ReactNative-Links.md): ReactNative Learning & Practices Links
 
 * [ReactNative-Syntax-Links](./FrontendTechnology/Mobile/ReactNative/ReactNative-Syntax-Links.md): React Native 语法资料索引
 
@@ -304,7 +304,7 @@
 
 - [VR-Links](./FrontendTechnology/VR/VR-Links.md): VR Links
 
-* [WebVR-Links](./FrontendTechnology/VR/WebVR-Links.md): WebVR  Learning & Practices Links
+* [WebVR-Links](./FrontendTechnology/VR/WebVR-Links.md): WebVR Learning & Practices Links
 
 # IndustrialApplication
 
@@ -530,11 +530,11 @@
 
 ---
 
-* [Hadoop-Links](./Infrastructure/DistributedComputing/Batch/Hadoop/Hadoop-Links.md): Hadoop  Learning & Practices Links
+* [Hadoop-Links](./Infrastructure/DistributedComputing/Batch/Hadoop/Hadoop-Links.md): Hadoop Learning & Practices Links
 
 ---
 
-* [Spark-Links](./Infrastructure/DistributedComputing/Batch/Spark/Spark-Links.md): Spark  Learning & Practices Links
+* [Spark-Links](./Infrastructure/DistributedComputing/Batch/Spark/Spark-Links.md): Spark Learning & Practices Links
 
 ### QuantumComputing
 
@@ -546,7 +546,7 @@
 
 ---
 
-* [Flink-Links](./Infrastructure/DistributedComputing/Streaming/Flink/Flink-Links.md): Flink  Learning & Practices Links
+* [Flink-Links](./Infrastructure/DistributedComputing/Streaming/Flink/Flink-Links.md): Flink Learning & Practices Links
 
 ---
 
@@ -554,7 +554,7 @@
 
 ---
 
-* [Storm-Links](./Infrastructure/DistributedComputing/Streaming/Storm/Storm-Links.md): Storm  Learning & Practices Links
+* [Storm-Links](./Infrastructure/DistributedComputing/Streaming/Storm/Storm-Links.md): Storm Learning & Practices Links
 
 ## DistributedSystem
 
@@ -596,15 +596,15 @@
 
 ---
 
-* [Consul-Links](./Infrastructure/DistributedSystem/DistributedTransaction/KVStore/Consul/Consul-Links.md): Consul  Learning & Practices Links
+* [Consul-Links](./Infrastructure/DistributedSystem/DistributedTransaction/KVStore/Consul/Consul-Links.md): Consul Learning & Practices Links
 
 ---
 
-* [Etcd-Links](./Infrastructure/DistributedSystem/DistributedTransaction/KVStore/Etcd/Etcd-Links.md): Etcd  Learning & Practices Links
+* [Etcd-Links](./Infrastructure/DistributedSystem/DistributedTransaction/KVStore/Etcd/Etcd-Links.md): Etcd Learning & Practices Links
 
 ---
 
-* [ZooKeeper-Links](./Infrastructure/DistributedSystem/DistributedTransaction/KVStore/Zookeeper/ZooKeeper-Links.md): ZooKeeper  Learning & Practices Links
+* [ZooKeeper-Links](./Infrastructure/DistributedSystem/DistributedTransaction/KVStore/Zookeeper/ZooKeeper-Links.md): ZooKeeper Learning & Practices Links
 
 ### MOM
 
@@ -620,13 +620,13 @@
 
 * [Network-Links](./Infrastructure/Network/Network-Links.md): 通信网络资料索引
 
-- [UDP-Links](./Infrastructure/Network/UDP-Links.md): UDP  Learning & Practices Links
+- [UDP-Links](./Infrastructure/Network/UDP-Links.md): UDP Learning & Practices Links
 
 ### HTTP
 
 * [DNS-Links](./Infrastructure/Network/HTTP/DNS-Links.md): DNS Links
 
-- [HTTP-Links](./Infrastructure/Network/HTTP/HTTP-Links.md): HTTP  Learning & Practices Links
+- [HTTP-Links](./Infrastructure/Network/HTTP/HTTP-Links.md): HTTP Learning & Practices Links
 
 * [HTTP2-Links](./Infrastructure/Network/HTTP/HTTP2-Links.md): HTTP/2 学习与资料索引
 
@@ -728,7 +728,7 @@
 
 * [CPP-OpenSource-Links](./ProgrammingLanguage/C/CPP-OpenSource-Links.md): C++ OpenSource Links
 
-- [CPP-Links](./ProgrammingLanguage/C/CPP-Links.md): C++  Learning & Practices Links
+- [CPP-Links](./ProgrammingLanguage/C/CPP-Links.md): C++ Learning & Practices Links
 
 ## Go
 
@@ -752,7 +752,7 @@
 
 * [Java-OpenSource-Links](./ProgrammingLanguage/Java/Java-OpenSource-Links.md): Java OpenSource Links
 
-- [Java-Links](./ProgrammingLanguage/Java/Java-Links.md): Java  Learning & Practices Links
+- [Java-Links](./ProgrammingLanguage/Java/Java-Links.md): Java Learning & Practices Links
 
 ### DataStructure
 
@@ -768,11 +768,11 @@
 
 ---
 
-* [Gradle-Links](./ProgrammingLanguage/Java/DevPractices/Builder/Gradle/Gradle-Links.md): Gradle  Learning & Practices Links
+* [Gradle-Links](./ProgrammingLanguage/Java/DevPractices/Builder/Gradle/Gradle-Links.md): Gradle Learning & Practices Links
 
 ---
 
-* [Maven-Links](./ProgrammingLanguage/Java/DevPractices/Builder/Maven/Maven-Links.md): Maven  Learning & Practices Links
+* [Maven-Links](./ProgrammingLanguage/Java/DevPractices/Builder/Maven/Maven-Links.md): Maven Learning & Practices Links
 
 ---
 
@@ -794,7 +794,7 @@
 
 ### Dialect
 
-* [Groovy-Links](./ProgrammingLanguage/Java/Dialect/Groovy-Links.md): Groovy  Learning & Practices Links
+* [Groovy-Links](./ProgrammingLanguage/Java/Dialect/Groovy-Links.md): Groovy Learning & Practices Links
 
 - [Scala-Links](./ProgrammingLanguage/Java/Dialect/Scala-Links.md):
 
@@ -836,7 +836,7 @@
 
 * [JavaScript-OpenSource-Links](./ProgrammingLanguage/JavaScript/JavaScript-OpenSource-Links.md): JavaScript OpenSource Links
 
-- [JavaScript-Links](./ProgrammingLanguage/JavaScript/JavaScript-Links.md): JavaScript  Learning & Practices Links
+- [JavaScript-Links](./ProgrammingLanguage/JavaScript/JavaScript-Links.md): JavaScript Learning & Practices Links
 
 ### DataStructure
 
@@ -864,7 +864,7 @@
 
 * [JavaScript-Class-Links](./ProgrammingLanguage/JavaScript/Syntax/JavaScript-Class-Links.md): JavaScript 类与对象资料索引
 
-- [JavaScript-Function-Links](./ProgrammingLanguage/JavaScript/Syntax/JavaScript-Function-Links.md): JavaScript 函数相关资料索引
+- [JavaScript-Function-Links](./ProgrammingLanguage/JavaScript/Syntax/JavaScript-Function-Links.md): JavaScript Function Links
 
 * [JavaScript-FunctionalProgramming-Links](./ProgrammingLanguage/JavaScript/Syntax/JavaScript-FunctionalProgramming-Links.md): Functional Programming: 函数式编程
 
@@ -876,11 +876,11 @@
 
 ### TypeSystem
 
-* [Flow-Links](./ProgrammingLanguage/JavaScript/TypeSystem/Flow-Links.md): Flow  Learning & Practices Links
+* [Flow-Links](./ProgrammingLanguage/JavaScript/TypeSystem/Flow-Links.md): Flow Learning & Practices Links
 
 - [JavaScript-TypeSystem-Links](./ProgrammingLanguage/JavaScript/TypeSystem/JavaScript-TypeSystem-Links.md): JavaScript TypeSystem Links
 
-* [TypeScript-Links](./ProgrammingLanguage/JavaScript/TypeSystem/TypeScript-Links.md): TypeScript  Learning & Practices Links
+* [TypeScript-Links](./ProgrammingLanguage/JavaScript/TypeSystem/TypeScript-Links.md): TypeScript Learning & Practices Links
 
 ## Limbo
 
@@ -912,7 +912,7 @@
 
 * [Python-OpenSource-Links](./ProgrammingLanguage/Python/Python-OpenSource-Links.md): Python 相关开源库索引
 
-- [Python-Links](./ProgrammingLanguage/Python/Python-Links.md): Python  Learning & Practices Links
+- [Python-Links](./ProgrammingLanguage/Python/Python-Links.md): Python Learning & Practices Links
 
 ### DataStructure
 
@@ -966,11 +966,11 @@
 
 * [QueryLanguage-Links](./ServerSideApplication/ApiRPC/RESTful-API/QueryLanguage-Links.md):
 
-- [RESTful-Links](./ServerSideApplication/ApiRPC/RESTful-API/RESTful-Links.md): RESTful API  Learning & Practices Links
+- [RESTful-Links](./ServerSideApplication/ApiRPC/RESTful-API/RESTful-Links.md): RESTful API Learning & Practices Links
 
 ### gRPC
 
-* [gRPC-Links](./ServerSideApplication/ApiRPC/gRPC/gRPC-Links.md): gRPC  Learning & Practices Links
+* [gRPC-Links](./ServerSideApplication/ApiRPC/gRPC/gRPC-Links.md): gRPC Learning & Practices Links
 
 ## DevOps
 
@@ -1046,13 +1046,13 @@
 
 ---
 
-* [Tomcat-Links](./ServerSideApplication/WebFramework/Java/Container/Tomcat-Links.md): Tomcat  Learning & Practices Links
+* [Tomcat-Links](./ServerSideApplication/WebFramework/Java/Container/Tomcat-Links.md): Tomcat Learning & Practices Links
 
 ---
 
 * [Spring-Links](./ServerSideApplication/WebFramework/Java/Spring/Spring-Links.md): Spring Boot & Spring Cloud 学习与实践资料总结
 
-- [SpringBoot-Links](./ServerSideApplication/WebFramework/Java/Spring/SpringBoot-Links.md): Spring Boot  Learning & Practices Links
+- [SpringBoot-Links](./ServerSideApplication/WebFramework/Java/Spring/SpringBoot-Links.md): Spring Boot Learning & Practices Links
 
 * [SpringCloud-Links](./ServerSideApplication/WebFramework/Java/Spring/SpringCloud-Links.md): Spring Cloud 学习与资料索引
 
@@ -1068,13 +1068,13 @@
 
 * [Node.js-Production-Links](./ServerSideApplication/WebFramework/Node.js/Node.js-Production-Links.md): Node.js Production Links for MicroServices
 
-- [Node.js-Links](./ServerSideApplication/WebFramework/Node.js/Node.js-Links.md): Node.js  Learning & Practices Links
+- [Node.js-Links](./ServerSideApplication/WebFramework/Node.js/Node.js-Links.md): Node.js Learning & Practices Links
 
 * [Node.js-Syntax-Links](./ServerSideApplication/WebFramework/Node.js/Node.js-Syntax-Links.md): Node.js Syntax Links
 
 ### PHP
 
-* [PHP-Links](./ServerSideApplication/WebFramework/PHP/PHP-Links.md): PHP  Learning & Practices Links
+* [PHP-Links](./ServerSideApplication/WebFramework/PHP/PHP-Links.md): PHP Learning & Practices Links
 
 ## WebServer
 
@@ -1082,7 +1082,7 @@
 
 ### Apahe
 
-* [Apache-Links](./ServerSideApplication/WebServer/Apahe/Apache-Links.md): Apache  Learning & Practices Links
+* [Apache-Links](./ServerSideApplication/WebServer/Apahe/Apache-Links.md): Apache Learning & Practices Links
 
 ### MockServer
 
@@ -1194,9 +1194,9 @@
 
 ### UI
 
-* [Sketch-Links](./SoftwareEngineering/Product/UI/Sketch-Links.md): Sketch  Learning & Practices Links
+* [Sketch-Links](./SoftwareEngineering/Product/UI/Sketch-Links.md): Sketch Learning & Practices Links
 
-- [UI-Links](./SoftwareEngineering/Product/UI/UI-Links.md): UI  Learning & Practices Links
+- [UI-Links](./SoftwareEngineering/Product/UI/UI-Links.md): UI Learning & Practices Links
 
 ## QualityAssurance
 
@@ -1244,7 +1244,7 @@
 
 - [Web-OpenSource-Links](./Web/Web-OpenSource-Links.md): Web OpenSource Links
 
-* [Web-Links](./Web/Web-Links.md): Web  Learning & Practices Links
+* [Web-Links](./Web/Web-Links.md): Web Learning & Practices Links
 
 ## Browser
 
@@ -1270,11 +1270,11 @@
 
 ### Builder
 
-* [Parcel-Links](./Web/DevPractices/Builder/Parcel-Links.md): Parcel  Learning & Practices Links
+* [Parcel-Links](./Web/DevPractices/Builder/Parcel-Links.md): Parcel Learning & Practices Links
 
 - [Web-Builder-Links](./Web/DevPractices/Builder/Web-Builder-Links.md): Web 构建工具资料索引
 
-* [Webpack-Links](./Web/DevPractices/Builder/Webpack-Links.md): Webpack  Learning & Practices Links
+* [Webpack-Links](./Web/DevPractices/Builder/Webpack-Links.md): Webpack Learning & Practices Links
 
 ### Debug
 
@@ -1304,13 +1304,13 @@
 
 ### Angular
 
-* [Angular-Links](./Web/Framework/Angular/Angular-Links.md): Angular  Learning & Practices Links
+* [Angular-Links](./Web/Framework/Angular/Angular-Links.md): Angular Learning & Practices Links
 
 ### MobX
 
 * [MST-Links](./Web/Framework/MobX/MST-Links.md): Mobx State Tree Links
 
-- [MobX-Links](./Web/Framework/MobX/MobX-Links.md): MobX  Learning & Practices Links
+- [MobX-Links](./Web/Framework/MobX/MobX-Links.md): MobX Learning & Practices Links
 
 ### React
 
@@ -1322,7 +1322,7 @@
 
 - [React-Production-Links](./Web/Framework/React/React-Production-Links.md): React Production Links
 
-* [React-Links](./Web/Framework/React/React-Links.md): React  Learning & Practices Links
+* [React-Links](./Web/Framework/React/React-Links.md): React Learning & Practices Links
 
 - [React-Syntax-Links](./Web/Framework/React/React-Syntax-Links.md): React Syntax Links
 
@@ -1344,13 +1344,13 @@
 
 - [Vue-Production-Links](./Web/Framework/Vue/Vue-Production-Links.md): Performance: 性能优化
 
-* [Vue-Links](./Web/Framework/Vue/Vue-Links.md): Vue.js  Learning & Practices Links
+* [Vue-Links](./Web/Framework/Vue/Vue-Links.md): Vue.js Learning & Practices Links
 
 - [Vue-Syntax-Links](./Web/Framework/Vue/Vue-Syntax-Links.md): Vue Syntax Links
 
 ### jQuery
 
-* [jQuery-Links](./Web/Framework/jQuery/jQuery-Links.md): jQuery  Learning & Practices Links
+* [jQuery-Links](./Web/Framework/jQuery/jQuery-Links.md): jQuery Learning & Practices Links
 
 ## Production
 
@@ -1420,7 +1420,7 @@
 
 * [DOM-OpenSource-Links](./Web/Syntax/DOM/DOM-OpenSource-Links.md): DOM OpenSource Links
 
-- [DOM-Links](./Web/Syntax/DOM/DOM-Links.md): DOM  Learning & Practices Links
+- [DOM-Links](./Web/Syntax/DOM/DOM-Links.md): DOM Learning & Practices Links
 
 ---
 
@@ -1440,17 +1440,17 @@
 
 * [DOM-Graphic-Links](./Web/Syntax/DOM/Graphic/DOM-Graphic-Links.md): DOM 绘图相关资料索引
 
-- [WebGL-Links](./Web/Syntax/DOM/Graphic/WebGL-Links.md): WebGL  Learning & Practices Links
+- [WebGL-Links](./Web/Syntax/DOM/Graphic/WebGL-Links.md): WebGL Learning & Practices Links
 
 ### HTML
 
-* [HTML-Links](./Web/Syntax/HTML/HTML-Links.md): HTML  Learning & Practices Links
+* [HTML-Links](./Web/Syntax/HTML/HTML-Links.md): HTML Learning & Practices Links
 
 ### WebAssembly
 
 * [WebAssembly-OpenSource-Links](./Web/Syntax/WebAssembly/WebAssembly-OpenSource-Links.md): WebAssembly 开源工具与框架索引
 
-- [WebAssembly-Links](./Web/Syntax/WebAssembly/WebAssembly-Links.md): WebAssembly  Learning & Practices Links
+- [WebAssembly-Links](./Web/Syntax/WebAssembly/WebAssembly-Links.md): WebAssembly Learning & Practices Links
 
 ## Widgets
 
