@@ -1,4 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links) 
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
 # 技术管理资料索引
 
 - [程序员、技术主管和架构师 ](http://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=2650610669&idx=1&sn=5f4a61edddf909ea8750e258719328ec&chksm=834c7c19b43bf50fcf5ce9ab1ba54c3fba239b238b15c25151f78c655000dfa5a22e0c188151)

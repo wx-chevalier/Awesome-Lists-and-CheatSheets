@@ -1,4 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Links)
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
 # Awesome CS Collections: Curated links of awesome collections & resources
 
@@ -42,9 +42,11 @@ Awesome CS Collections is subject to [Awesome Links](https://github.com/wxyyxc19
 
 * [Back-End Developer Interview Questions](https://parg.co/UXF): A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 
-* [2018-Awesome Scalability, Availability, and Stability Back-end Design Patterns](https://github.com/binhnguyennus/awesome-scalability):  A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development.
+* [2018-Awesome Scalability, Availability, and Stability Back-end Design Patterns](https://github.com/binhnguyennus/awesome-scalability): A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development.
 
 # Infrastructure
+
+* [The Twelve-Factor App](http://12factor.net/zh_cn/): raise awareness of some systemic problems we’ve seen in modern application development, to provide a shared vocabulary for discussing those problems, and to offer a set of broad conceptual solutions to those problems with accompanying terminology.
 
 # Frontend
 
