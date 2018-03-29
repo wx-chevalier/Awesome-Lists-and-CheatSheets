@@ -10,6 +10,8 @@
 
 * [构建能够每秒处理 3 百万请求的高性能 Web 集群系列文章](http://blog.jobbole.com/87509/)
 
+* [根据 PV 计算带宽及根据 PV 算并发](http://www.tuicool.com/articles/aqi6Znr)
+
 # 概览
 
 * [2015-Practical Scalability Analysis With The Universal Scalability Law #Book#](https://parg.co/bNA): I wrote this book to help you understand the simple, but profoundly powerful, truths about scalability.

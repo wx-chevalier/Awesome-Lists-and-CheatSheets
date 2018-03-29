@@ -16,6 +16,8 @@ The contents organization form follows [Web MindMap](),
 
 ### Benchmark
 
+* [LagRadar #Project#](https://github.com/mobz/lag-radar): Add this to any javascript application and you can see when the app drops below 60fps as the radar sweep changes colour and gets janky.
+
 ### Loading
 
 ### Rendering
