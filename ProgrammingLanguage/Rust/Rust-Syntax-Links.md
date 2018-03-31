@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
 
-# Rust 语法资料索引
+# Rust Syntax Links
 
 - [2017-Undefined vs Unsafe in Rust](https://parg.co/URP): It’s a very useful but subtle distinction and I feel we’d be able to talk about safety more expressively if this was well known.
 
@@ -18,3 +18,5 @@
 - [2018-Async/Await I: Self-Referential Structs](https://parg.co/Ui5): This is the first in a series of blog posts about generators, async & await in Rust. 
 
 - [2018-Writing complex macros in Rust: Reverse Polish Notation](https://rreverser.com/writing-complex-macros-in-rust/)
+
+* [Python Idioms in Rust](http://benjamincongdon.me/blog/2018/03/23/Python-Idioms-in-Rust/): In fact, I found Rust to be rather Pythonic1. ✨ Sure, you have to be careful about types and ownership, but there is a strong case to be made that Rust shares many of the strengths of Python’s syntax.
