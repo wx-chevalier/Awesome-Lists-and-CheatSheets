@@ -16,6 +16,15 @@
   * [ ] SoftwareEngineering
   * [ ] Web
 
+* [ ] 整理 Pocket 上遗留的链接，如下为遗留数目
+
+  * [ ] 20
+  * [ ] 50
+  * [ ] 100
+  * [ ] 150
+  * [ ] 200
+  * [ ] 300
+
 * [ ] DataScienceAI-\*-Links
 
   * [ ] 发布 Book 与 Course 混合

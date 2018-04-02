@@ -1,7 +1,4 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
- 
- 
-
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
 # JavaScript DataStructure Links
 
@@ -21,7 +18,7 @@
 
 # Type Coercion: 类型转换
 
-- [2018-JavaScript type coercion explained](https://parg.co/U8B): Type coercion is the process of converting value from one type to another.
+* [2018-JavaScript type coercion explained](https://parg.co/U8B): Type coercion is the process of converting value from one type to another.
 
 # String
 
@@ -35,8 +32,6 @@
 
 ## Template Literals
 
-- []()
-
 ## Codec: 编码
 
 * [纯前端 Js 解决各种汉字 urlencode,urldecode（GBK 、 UTF-8 均可）](http://zcw.me/blogwp/front-end-urldecode-gbk/)
@@ -44,5 +39,3 @@
 * [阮一峰的网络日志 : 关于 URL 编码](http://www.ruanyifeng.com/blog/2010/02/url_encoding.html)
 
 # DataTime
-
-* [Luxon #Project#](https://github.com/moment/luxon): Luxon is a library for working with dates and times in Javascript.

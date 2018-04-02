@@ -41,3 +41,7 @@
 # Web Security
 
 * [SQLMap]()
+
+# HIDS
+
+* [大型互联网企业入侵检测实战总结](https://xz.aliyun.com/t/1626/): 入侵检测是每一个大型互联网企业都要面对的一个难题。

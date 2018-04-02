@@ -10,9 +10,9 @@ This file aggregates curated popular links for learning React, Syntax, DevPracti
 
 * [2016-React Howto](https://github.com/petehunt/react-howto): Throughout this document, I’ll assume you’ve built a web page with HTML, CSS and JavaScript.
 
-* [2017-React 常用面试题目与分析](https://zhuanlan.zhihu.com/p/24856035)
-
 - [2017-All the fundamental React.js concepts, jammed into this single Medium article](https://parg.co/bzp): This article is not going to cover what React is or why you should learn it. Instead, this is a practical introduction to the fundamentals of React.js for those who are already familiar with JavaScript and know the basics of the DOM API.
+
+* [揭秘 React 生态体系](https://zhuanlan.zhihu.com/p/26270621): React 可以说是目前为止最热门，生态最完善，应用范围最广的前端框架。React 结合它的整个生态，它可以横跨 web 端，移动端，服务器端，乃至 VR 领域。
 
 ## Concept
 
@@ -76,4 +76,12 @@ This file aggregates curated popular links for learning React, Syntax, DevPracti
 
 - [2018-Rock Solid React.js Foundations: A Beginner’s Guide](https://parg.co/Uv3): this post is aimed towards the audience who is looking for a perfect mix of theory and hands-on.
 
-- [A Comprehensive Guide to React.js in 2018](https://medium.freecodecamp.org/a-comprehensive-guide-to-react-js-in-2018-ba8bb6975597): This article was originally published in January of 2015, but was recently updated to React 16.3 and all the goodness it contains.
+- [2018-A Comprehensive Guide to React.js in 2018](https://medium.freecodecamp.org/a-comprehensive-guide-to-react-js-in-2018-ba8bb6975597): This article was originally published in January of 2015, but was recently updated to React 16.3 and all the goodness it contains.
+
+## Demo Application
+
+* [react-kanban #Project#](https://github.com/yogaboll/react-kanban): A Trello-like application built with React and Redux.
+
+## Interview
+
+* [2017-React 常用面试题目与分析](https://zhuanlan.zhihu.com/p/24856035)

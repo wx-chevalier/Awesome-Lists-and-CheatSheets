@@ -79,3 +79,5 @@ This file aggregates curated popular links for learning Golang. More reference a
 * [2017-Golang command tutorial in Chinese.](https://github.com/hyper0x/go_command_tutorial)
 
 * [2018-Using Go as a scripting language in Linux](https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/)
+
+* [2018-Go web framework benchmark #Project#](https://github.com/smallnest/go-web-framework-benchmark): This benchmark suite aims to compare the performance of Go web frameworks. It is inspired by Go HTTP Router Benchmark but this benchmark suite is different with that.

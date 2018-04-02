@@ -1,7 +1,6 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
- 
- 
-# Modularity: 模块化
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
+
+# JavaScript Modularity Links
 
 * [2017-The state of JavaScript modules](https://parg.co/bi0): Recently, there was a lot of fuss on Twitter regarding the current state of ES modules, especially in Node.js, which decided to introduce \*.mjs as file extension. The fear and uncertainty is understandable since the topic is complex and following the discussions takes a high degree of effort and dedication.
 
@@ -36,3 +35,7 @@
 - [ES6 module loading: More complicated than you think](https://www.nczonline.net/blog/2016/04/es6-module-loading-more-complicated-than-you-think/)
 
 - [Understanding Scope in JavaScript](https://scotch.io/tutorials/understanding-scope-in-javascript)
+
+# ES Modules
+
+* [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/): Let’s take a look at what problem ES modules solve and how they are different from modules in other module systems.

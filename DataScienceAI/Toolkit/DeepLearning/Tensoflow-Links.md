@@ -1,7 +1,6 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-
-# Tensorflow  Learning & Practices Links
+# Tensorflow Learning & Practices Links
 
 # Overview
 
@@ -27,6 +26,6 @@
 
 ## Example Models
 
-- [TensorFlow Models by Sarasra](https://github.com/Sarasra/models): This repository contains a number of different models implemented in TensorFlow: the official models, the research models, the samples folder and the tutorials folder.
+* [TensorFlow Models by Sarasra](https://github.com/Sarasra/models): This repository contains a number of different models implemented in TensorFlow: the official models, the research models, the samples folder and the tutorials folder.
 
-- [Tensorflow Project Template](https://github.com/Mrgemy95/Tensorflow-Project-Template): A simple and well designed structure is essential for any Deep Learning project, so after a lot of practice and contributing in tensorflow projects here's a tensorflow project template that combines simplcity, best practice for folder structure and good OOP design.
+* [Tensorflow Project Template](https://github.com/Mrgemy95/Tensorflow-Project-Template): A simple and well designed structure is essential for any Deep Learning project, so after a lot of practice and contributing in tensorflow projects here's a tensorflow project template that combines simplcity, best practice for folder structure and good OOP design.

@@ -21,3 +21,9 @@
 * [巡风](https://github.com/ysrc/xunfeng): 巡风是一款适用于企业内网的漏洞快速应急、巡航扫描系统，通过搜索功能可清晰的了解内部网络资产分布情况，并且可指定漏洞插件对搜索结果进行快速漏洞检测并输出结果报表。
 
 * [Pocsuite #Project#](https://github.com/knownsec/Pocsuite): Pocsuite is an open-sourced remote vulnerability testing framework developed by the Knownsec Security Team.
+
+* [洞察 #Project#](https://github.com/creditease-sec/insight): 洞察-宜信集应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的平台。
+
+# HIDS
+
+* [驭龙 HIDS](https://github.com/ysrc/yulong-hids): 驭龙 HIDS 是一款由 YSRC 开源的入侵检测系统，由 Agent， Daemon， Server 和 Web 四个部分组成，集异常检测、监控管理为一体，拥有异常行为发现、快速阻断、高级分析等功能，可从多个维度行为信息中发现入侵行为。

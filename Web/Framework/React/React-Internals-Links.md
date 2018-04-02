@@ -77,3 +77,5 @@
 * [2018-React suspense and server rendering](https://blogg.svt.se/svti/react-suspense-server-rendering/): The recently revealed React suspense functionality has the potential to solve a lot of the current pain points in server rendering.
 
 * [2018-Understanding React “Suspense”](https://medium.com/@baphemot/understanding-react-suspense-1c73b4b0b1e6): In short: the new feature allows you to defer rendering part of your application tree until some condition is met (for example data from an endpoint or a resource is loaded).
+
+* [2018-A Walkthrough of _that_ React Suspense Demo](https://dev.to/swyx/a-walkthrough-of-that-react-suspense-demo--4j6a):I'm a recent bootcamp grad. You're not reading the divinings of some thought leader here. I'm just some guy learning in public.

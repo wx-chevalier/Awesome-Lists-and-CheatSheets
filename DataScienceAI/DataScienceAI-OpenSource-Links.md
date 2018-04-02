@@ -18,4 +18,6 @@
 
 # Deep Learning
 
-* [brain.js](https://github.com/BrainJS/brain.js): brain.js is a library of Neural Networks written in JavaScript.
+* [tfjs #Project#](https://github.com/tensorflow/tfjs): A WebGL accelerated, browser based JavaScript library for training and deploying ML models.
+
+* [brain.js #Project#](https://github.com/BrainJS/brain.js): brain.js is a library of Neural Networks written in JavaScript.
