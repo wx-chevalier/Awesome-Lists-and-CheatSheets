@@ -20,3 +20,5 @@
 
 * [2018-You can't Rust that](http://lucumr.pocoo.org/2018/3/31/you-cant-rust-that/): Handles, not self referential pointers; Reference count your way out of lifetime / borrow checker hell; Consider promoting new state instead of interior mutability
   .
+
+* [Python Idioms in Rust](http://benjamincongdon.me/blog/2018/03/23/Python-Idioms-in-Rust/): In fact, I found Rust to be rather Pythonic1. ✨ Sure, you have to be careful about types and ownership, but there is a strong case to be made that Rust shares many of the strengths of Python’s syntax.
