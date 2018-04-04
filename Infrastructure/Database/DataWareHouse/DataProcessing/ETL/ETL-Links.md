@@ -4,10 +4,8 @@
 
 * [Spark Streaming + Spark SQL 实现配置化 ETL 流程](http://www.jianshu.com/p/cd26a413cbd4)
 
-* [FlyWay](https://github.com/flyway/flyway)
-
-- [DataX](https://github.com/alibaba/DataX): 阿里巴巴集团内被广泛使用的离线数据同步工具 / 平台
-
-- [PingCAP-Loader](https://github.com/pingcap/docs-cn/blob/master/tools/loader.md)
-
 # Greenplum
+
+> [Pentaho Kettle within a web application](https://labs.consol.de/de/application%20server/kettle/2012/03/26/pentaho-kettle-within-a-web-application.html)
+>
+> [Pentaho Data Integration - Java API Examples](http://wiki.pentaho.com/display/EAI/Pentaho+Data+Integration+-+Java+API+Examples)

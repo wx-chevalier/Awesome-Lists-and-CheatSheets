@@ -14,4 +14,6 @@
 
 # Development Tool
 
-* [node-prune](https://github.com/tj/node-prune): 能够帮助移除 node_modules 中的不必要内容。
+* [node-prune #Project#](https://github.com/tj/node-prune): 能够帮助移除 node_modules 中的不必要内容。
+
+* [Consola #Project#](https://github.com/nuxt/consola): Elegant Console Logger

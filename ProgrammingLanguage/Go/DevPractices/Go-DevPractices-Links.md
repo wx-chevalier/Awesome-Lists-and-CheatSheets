@@ -11,3 +11,7 @@
 # Test
 
 * [Golang basics - writing unit tests](https://blog.alexellis.io/golang-writing-unit-tests/): This post is a continuation of that theme, which covers unit testing.
+
+# Style Guide
+
+* [Golang 代码规范](https://sheepbao.github.io/post/golang_code_specification/)
