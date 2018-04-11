@@ -1,5 +1,4 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
-
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
 # 特征工程资料索引
 
@@ -13,13 +12,15 @@
 
 * [机器学习中的范数规则化之（二）核范数与规则项参数选择 ](http://blog.csdn.net/zouxy09/article/details/24972869)
 
-# Dimension Reduction: 特征降维
+* [机器学习中的范数规则化](http://blog.csdn.net/zouxy09/article/details/24971995)
+
+# Dimension Reduction
 
 * [维度打击，机器学习中的降维算法：ISOMAP & MDS ](http://blog.csdn.net/dark_scope/article/details/53229427)
 
 - [降维算法总结比较](https://zhuanlan.zhihu.com/p/25095926)
 
-# Feature Extraction: 特征提取
+# Feature Extraction
 
 * [基于统计的特征提取方法(构造评估函数)](http://blog.csdn.net/heiyeshuwu/article/details/43429447)
 

@@ -18,8 +18,12 @@
 
 ## Book
 
+* [bash-handbook](https://github.com/denysdovhan/bash-handbook)
+
 ## Course
 
 * [Bandit](http://overthewire.org/wargames/bandit/bandit1.html): The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.
 
 * [The Command Line Murders](https://github.com/veltman/clmystery): There's been a murder in Terminal City, and TCPD needs your help.
+
+* [vim-galore](https://github.com/mhinz/vim-galore#buffers-windows-tabs)

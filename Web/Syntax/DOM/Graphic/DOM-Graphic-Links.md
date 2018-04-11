@@ -36,12 +36,6 @@
 
 - [atrament.js](https://github.com/jakubfiala/atrament.js):Tiny JS library for beautiful drawing and handwriting on the HTML Canvas
 
-## D3
-
-* [D3 and Canvas in 3 steps](https://medium.freecodecamp.com/d3-and-canvas-in-3-steps-8505c8b27444#.c34qehc0y)
-
-- [D3 in Depth](http://d3indepth.com/introduction/): D3 in Depth aims to bridge the gap between introductory tutorials/books and the official documentation.
-
 # WebGL
 
 * [DecorativeBackgrounds #Project#](https://github.com/Mamboleoo/DecorativeBackgrounds): A collection of decorative animated background shapes powered by WebGL and TweenMax
@@ -55,11 +49,3 @@
 ## GPGPU
 
 * [Unleash Your Inner Supercomputer Your Guide to GPGPU with WebGL](http://www.vizitsolutions.com/portfolio/webgl/gpgpu/index.html)
-
-## Three.js
-
-* [Babylon.js #Project# ](https://parg.co/b1C): Babylon.js is an open source framework that allows you to create stunning 3D experiences in your browser. Built with simplicity and performance in mind, it is the engine that fuels the Remix3D site or the Xbox Design Lab.
-
-# WebVR
-
-* [2017-From zero to hero, creating WebVR experiences with Babylon.js on all platforms](https://parg.co/b1i)

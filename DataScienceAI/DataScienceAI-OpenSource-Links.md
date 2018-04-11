@@ -8,6 +8,14 @@
 
 * [AWS Public Datasets](https://aws.amazon.com/public-datasets/): AWS hosts a variety of public datasets that anyone can access for free.
 
+* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets):An awesome list of high-quality open datasets in public domains (on-going).
+
+* [Wikimedia Dumps](https://dumps.wikimedia.org): Wiki 上的数据打包下载。
+
+* [Reddit Datasets](https://www.reddit.com/r/datasets/):Reddit 上关于数据集的讨论板块
+
+* [InstaReProxy #Project#](https://github.com/whizzzkid/instagram-proxy-api): This builds over the Instagram's public API to provide more functionality and provides a CORS complaint reverse instagram proxy service.
+
 # Machine Learning
 
 # Natural Language Processing

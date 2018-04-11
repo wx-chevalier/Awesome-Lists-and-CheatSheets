@@ -2,7 +2,7 @@
 
 # Design Pattern Links
 
-# Resource: 资源
+# Resource
 
 ## Book
 

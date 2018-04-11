@@ -34,6 +34,20 @@
 
 * [Unsupervised Feature Learning and Deep Learning【Course】](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial):来自斯坦福的无监督特征学习与深度学习系列教程
 
+- [2015 - Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook):Jupyter Notebooks for the Python Data Science Handbook
+
+* [2014 - DataScience From Scratch](https://drive.wps.cn/view/l/5f44c391b0d74b798122ebb4655cad22)
+
+* [2012 - 李航 : 统计方法学](https://drive.wps.cn/view/l/ccfc95e5c9ba42db8cbcbb6507d85d1d)
+
+* [2015 - Data Mining, The Textbook](https://drive.wps.cn/view/l/57c1ef99942b4cb789ed464a189df6c0)
+
+* [2016 - 周志华 机器学习](https://drive.wps.cn/view/l/004e86e89e4347fcb1e10569a35295a3)
+
+* [2012 - Machine Learning A Probabilistic Perspective ](https://drive.wps.cn/view/l/8a5acb26d91f4008b425430eae8565fb)
+
+* [2012 - 深入浅出机器学习 中文版](https://drive.wps.cn/view/l/215ff72bda3f4054b1b7e50fc9a2ee30)
+
 # 深度学习
 
 * [2015-The Deep Learning Textbook #Book#](http://www.deeplearningbook.org/):中文译本[这里](https://exacity.github.io/deeplearningbook-chinese/Chapter1_introduction/)，The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free.

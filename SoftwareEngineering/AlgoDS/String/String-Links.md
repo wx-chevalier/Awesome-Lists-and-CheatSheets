@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# 字符串算法资料索引
+# String Algorithms Links
 
 # Regex Expression
 
@@ -17,6 +17,8 @@
 * [字符串匹配算法](http://blog.rainy.im/2016/04/24/string-find/)
 
 * [字符串模式匹配算法——BM、Horspool、Sunday、KMP、KR、AC 算法一网打尽](http://dsqiu.iteye.com/blog/1700312)
+
+* [VerbalExpressions #Project#](https://github.com/VerbalExpressions): VerbalExpressions 是非常不错的正则表达式辅助生成工具。
 
 # Multiple Pattern Match
 

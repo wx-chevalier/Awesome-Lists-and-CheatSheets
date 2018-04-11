@@ -3,3 +3,7 @@
 # Quantum Computing Links
 
 * [2017-Motivations Behind Exploring Quantum Computing](http://www.clerro.com/guide/580/quantum-computing-explained)
+
+# OpenSource
+
+* [2018-QuSimPy](https://github.com/adamisntdead/QuSimPy): Qusim.py is a toy multi-qubit quantum computer simulator, written in 150 lines of python.

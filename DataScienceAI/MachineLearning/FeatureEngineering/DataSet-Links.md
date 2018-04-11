@@ -1,17 +1,8 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
-
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
 # Data Sets
 
 ## Collections:资源汇总帖
-
-* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets):An awesome list of high-quality open datasets in public domains (on-going).
-
-* [Wikimedia Dumps](https://dumps.wikimedia.org):Wiki 上的数据打包下载
-
-* [Reddit Datasets](https://www.reddit.com/r/datasets/):Reddit 上关于数据集的讨论板块 | Militarized Interstate Disputes          | Nearly 200 years of international threats, conflicts, etc. for modelling or prediction. Includes action taken, level of hostility, fatalities, and outcomes. | Multiple datasets, e.g., 962KB, 179KB    | http://www.correlatesofwar.org/data-sets/MIDs |
-
-* [InstaReProxy #Project#](https://github.com/whizzzkid/instagram-proxy-api): This builds over the Instagram's public API to provide more functionality and provides a CORS complaint reverse instagram proxy service.
 
 ### 单一数据库
 

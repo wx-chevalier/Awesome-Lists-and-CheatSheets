@@ -2,7 +2,9 @@
 
 # Java OpenSource Links
 
-# Library
+* [uniVocity-parsers](https://github.com/uniVocity/univocity-parsers)
+
+# Development Libraries
 
 * [Guava #Project#](https://github.com/google/guava): Guava is a set of core libraries that includes new collection types (such as multimap and multiset), immutable collections, a graph library, functional types, an in-memory cache, and APIs/utilities for concurrency, I/O, hashing, primitives, reflection, string processing, and much more!
 
@@ -14,7 +16,7 @@
 
 * [concurrency-limits #Project#](https://github.com/Netflix/concurrency-limits): Java Library that implements and integrates concepts from TCP congestion control to auto-detect concurrency limits to achieve optimal throughput with optimal latency.
 
-# Tool
+# Development Tools
 
 * [Capsule #Project#](http://www.capsule.io/user-guide/#getting-capsule): Dead-Simple Packaging and Deployment for JVM Apps.
 
@@ -47,3 +49,9 @@ Cobertura
 * [PMD #Project#](https://pmd.github.io/): PMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth.
 
 # Web Framework
+
+## Spring
+
+* [Springfox #Project#](https://github.com/springfox/springfox): Automated JSON API documentation for API's built with Spring.
+
+* [Java Hipster #Project#](https://github.com/jhipster/generator-jhipster): Open Source application generator for creating Spring Boot + Angular/React projects in seconds!

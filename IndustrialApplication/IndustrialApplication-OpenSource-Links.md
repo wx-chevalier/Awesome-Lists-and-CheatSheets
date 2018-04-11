@@ -8,3 +8,7 @@
 
 * [Spectrum #Project#](https://github.com/withspectrum/spectrum):
   This is the main monorepo codebase of Spectrum. Every single line of code that's not packaged into a reusable library is in this repository.
+
+* [jsonstore #Project#](https://github.com/bluzi/jsonstore): jsonstore.io offers a free, secured and JSON based cloud datastore for small projects.
+
+* [Reverse engineering WhatsApp Web. #Project#](https://github.com/sigalor/whatsapp-web-reveng): This project intends to provide a complete description and re-implementation of the WhatsApp Web API, which will eventually lead to a custom client. WhatsApp Web internally works using WebSockets; this project does as well.
