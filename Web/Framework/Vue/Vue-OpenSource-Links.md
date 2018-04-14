@@ -11,6 +11,8 @@
 
 * [cube-ui #Project#](https://didi.github.io/cube-ui/#/zh-CN): 滴滴开源的基于 Vue.js 实现的精致移动端组件库。
 
+- [VuePress #Project#](https://vuepress.vuejs.org/): Vue-powered Static Site Generator.
+
 # Form: 表单
 
 * [2017-An imperative guide to forms in Vue.js](https://parg.co/UGT): In this tutorial, I will walk you through the process of creating, validating, and utilising inputs from a form in a Vue.js 2.x application.
