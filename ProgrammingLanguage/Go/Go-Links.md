@@ -16,7 +16,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 * [2018-Golang 工程经验](https://juejin.im/post/5a6873fb518825733e60a1ae): 转战 Golang 一年有余，经历了两个线上项目的洗礼，总结出一些工程经验，一个是总结出一些实战经验，一个是用来发现自我不足之处。
 
-* [Go: the Good, the Bad and the Ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/#go-is-easy-to-learn): Go does have some nice features, hence the "The Good" part in this post, but overall I find it cumbersome and painful to use when we go beyond API or network server.
+* [2018-Go: the Good, the Bad and the Ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/#go-is-easy-to-learn): Go does have some nice features, hence the "The Good" part in this post, but overall I find it cumbersome and painful to use when we go beyond API or network server.
 
 ## Case Study
 
