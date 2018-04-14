@@ -49,3 +49,5 @@
 * [qr-filetransfer #Project#](https://github.com/claudiodangelis/qr-filetransfer): Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 
 * [find3 #Project#](https://github.com/schollz/find3): The Framework for Internal Navigation and Discovery (FIND) is like indoor GPS for your house or business, using only a simple smartphone or laptop.
+
+* [Janus #Project#](https://github.com/hellofresh/janus): This is a lightweight API Gateway and Management Platform that enables you to control who accesses your API, when they access it and how they access it.

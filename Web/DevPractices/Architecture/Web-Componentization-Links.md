@@ -1,9 +1,8 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
+# Web Componentization Links
 
-# Web 组件化资料索引
-
-# Componentization: 组件化
+# Componentization
 
 * [2017-Beyond Bootstrap –moving from UI toolkit to component library](https://parg.co/bXt):   This paradigm shift allows teams of any size to create “component libraries” tailored to their exact needs and brand. Today, I’ll walk through how we got here and the process of creating your own component library.
 

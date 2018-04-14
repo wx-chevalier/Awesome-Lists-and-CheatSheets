@@ -208,11 +208,11 @@
 
 * [Keras-Links](./DataScienceAI/Toolkit/DeepLearning/Keras-Links.md): Keras Links
 
-- [Tensoflow-Links](./DataScienceAI/Toolkit/DeepLearning/Tensoflow-Links.md): Tensorflow Learning & Practices Links
+- [Tensoflow-Links](./DataScienceAI/Toolkit/DeepLearning/Tensoflow-Links.md):  TensorFlow Learning & Practices Links
 
-* [Tensorflow-OpenSource-Links](./DataScienceAI/Toolkit/DeepLearning/Tensorflow-OpenSource-Links.md): Tensorflow OpenSource Links
+* [ TensorFlow-OpenSource-Links](./DataScienceAI/Toolkit/DeepLearning/ TensorFlow-OpenSource-Links.md):  TensorFlow OpenSource Links
 
-- [Tensorflow-Tutorial-Links](./DataScienceAI/Toolkit/DeepLearning/Tensorflow-Tutorial-Links.md): Tutorial
+- [ TensorFlow-Tutorial-Links](./DataScienceAI/Toolkit/DeepLearning/ TensorFlow-Tutorial-Links.md): Tutorial
 
 ### JavaScript
 

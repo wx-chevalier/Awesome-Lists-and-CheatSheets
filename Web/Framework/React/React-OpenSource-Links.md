@@ -12,7 +12,7 @@
 
 * [React Reveal #Project#](https://github.com/rnosov/react-reveal): Easily add reveal on scroll animations to your React app
 
-# Tool
+# Development Tools
 
 * [Rekit #JavaScript#](https://github.com/supnate/rekit): Toolkit for building scalable web applications with React, Redux and React-router
 
@@ -22,13 +22,19 @@
 
 * [jsinspect #Project#](https://github.com/danielstjules/jsinspect): Detect copy-pasted and structurally similar code.
 
-# Pattern Library
+# Development Libraries
+
+## Pattern Libraries
 
 * [Material-UI #Project#](http://www.material-ui.com/#/): A Set of React Components that Implement Google's Material Design.
 
 - [Ant Design #Project#](https://www.hugedomains.com/domain_profile.cfm?d=ant-design&e=com): An enterprise-class UI design language and React-based implementation.
 
 * [2017-Downshift #Project#](https://medium.com/@kentcdodds/introducing-downshift-for-react-b1de3fca0817): Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
+
+## Animation
+
+* [react-spring #Project#](https://github.com/drcmda/react-spring): Helping react-motion and animated to become best friends
 
 # Widgets
 
