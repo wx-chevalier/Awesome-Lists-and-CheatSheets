@@ -24,6 +24,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 * [2018-PHP to Go: How we boosted API performance by 8X](https://www.kairos.com/blog/php-to-go-how-we-boosted-api-performance-by-8x): In this article we share why we made the move, how it’s radically improved performance, and some lessons learned along the way.
 
+* [Gopher China Conference #Collection#](https://github.com/gopherchina/conference): Gopher China Conference Presentations.
+
 ## CheatSheet
 
 * [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet): An overview of Go syntax and features.

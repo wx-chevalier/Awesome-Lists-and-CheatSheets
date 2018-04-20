@@ -1,5 +1,12 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
+# IndustrialApplication OpenSource Links
+
+Awesome List of Open source applications for macOS, Self-hosted Service, etc.
+
+* [Awesome macOS open source applications. #Collection#](https://github.com/serhii-londar/open-source-mac-os-apps):
+  List of awesome open source applications for macOS. This list contains a lot of native and cross-platform apps. The main goal of this repository is to find open source and free apps and start contributing.
+
 # Self-hosted Service
 
 * [URL to PDF Microservice](https://github.com/alvarcarto/url-to-pdf-api): Web page PDF rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
