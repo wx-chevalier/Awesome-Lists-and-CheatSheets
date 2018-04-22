@@ -24,6 +24,14 @@ The contents organization form follows [Web MindMap](),
 
 ### Image
 
+# Graphic
+
+* [image-diff](https://github.com/uber-archive/image-diff): Create image differential between two images.
+
+* [gif.js](https://github.com/jnordberg/gif.js): JavaScript GIF encoder that runs in your browser.
+
+* [gifshot](https://github.com/yahoo/gifshot): JavaScript library that can create animated GIFs from media streams, videos, or images
+
 # Browser
 
 ## Feature
@@ -35,3 +43,7 @@ The contents organization form follows [Web MindMap](),
 * [feature.js #Project#](https://github.com/viljamis/feature.js)
 
 * [Bowser #Project#](https://github.com/ded/bowser)
+
+## Automation
+
+* [Remote Browser #Project#](https://github.com/intoli/remote-browser): A low-level browser automation framework built on top of the Web Extensions API standard.

@@ -24,24 +24,8 @@
 
 - [2017 年数据库技术盘点](https://cloud.tencent.com/developer/article/1042652): 我们将从学术界、工程界的角度，从国外到国内，从数据库内核技术到数据库运维等多种角度，一起来回顾精彩的 2017。
 
+* [2016- 一篇文章，掌握所有开源数据库的现状](http://www.tuicool.com/articles/mYBZFbN)
+
 # Resource
 
-## Book
-
-## Collection
-
-# SQL
-
-* [SQL Recap for Interviews](https://parg.co/bBs): In this article, I will be walking you through the commonly used SQL commands which every programmer should know about.
-
-* [SQL in a Nutshell #Series#](https://parg.co/U31): This series focuses on the most frequent data science and analytical problems in the real-world, and aims at solving them with SQL.
-
-* [SQL Fiddle #Project#](http://sqlfiddle.com/)
-
-* [SQL Teaching](https://www.sqlteaching.com/)
-
-* [Clean SQL](http://jonathansacramento.com/posts/20161119_clean_sql.html):如何编写清晰的 SQL 代码
-
-* [SQL cheat sheet](https://zeroturnaround.com/rebellabs/sql-cheat-sheet/): We realize that it’s hard to fit everything you need to know about SQL on a single A4 page.
-
-* [Intro to SQL: Querying and managing data #Course#](https://parg.co/Uxe): Learn how to use SQL to store, query, and manipulate data. SQL is a special-purpose programming language designed for managing data in a relational database, and is used by a huge number of apps and organizations.
+* [2016-Readings in Databases #Collection#](https://github.com/rxin/db-readings): A list of papers essential to understanding databases and building new data systems.

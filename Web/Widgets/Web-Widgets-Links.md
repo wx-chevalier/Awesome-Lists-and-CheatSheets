@@ -32,7 +32,7 @@
 
   * Scroll View - 滚动视图
 
-  * Page Slider - 滚动页面
+  * Swpie View - 滑动视图
 
 * Navigation - 导航
 

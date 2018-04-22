@@ -2,11 +2,7 @@
 
 # Relational Database Links
 
-* [2016- 一篇文章，掌握所有开源数据库的现状](http://www.tuicool.com/articles/mYBZFbN)
-
 # Resource
-
-* [2016-Readings in Databases #Collection#](https://github.com/rxin/db-readings): A list of papers essential to understanding databases and building new data systems.
 
 ## Book
 

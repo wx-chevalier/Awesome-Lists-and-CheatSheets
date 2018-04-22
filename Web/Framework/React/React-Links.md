@@ -48,6 +48,8 @@ This file aggregates curated popular links for learning React, Syntax, DevPracti
 
 - [2017-React and React Native #Book#](https://parg.co/beh): Use React and React Native to build applications for desktop browsers, mobile browsers, and even as native mobile apps.
 
+- [2018-React in patterns #Book#](https://legacy.gitbook.com/book/krasimir/react-in-patterns/details): A book about common design patterns used while developing with React. It includes techniques for composition, data flow, dependency management and more.
+
 ## Course & Conf
 
 * [2017 React 大会](http://conf.reactjs.org/livestream)：2017 年 React Conf 于 3 月 13 日、14 日成功举办，会上来自世界各地的开发者就 React Fiber、Flow 、 Performance、React Native 等多个主题发表了演说与讨论，推荐选择自己喜欢的演讲视频观看。
@@ -78,7 +80,7 @@ This file aggregates curated popular links for learning React, Syntax, DevPracti
 
 - [2018-A Comprehensive Guide to React.js in 2018](https://medium.freecodecamp.org/a-comprehensive-guide-to-react-js-in-2018-ba8bb6975597): This article was originally published in January of 2015, but was recently updated to React 16.3 and all the goodness it contains.
 
-## Demo Application
+## Showcases
 
 * [react-kanban #Project#](https://github.com/yogaboll/react-kanban): A Trello-like application built with React and Redux.
 

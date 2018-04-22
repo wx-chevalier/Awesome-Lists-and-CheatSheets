@@ -43,3 +43,9 @@
 - [图解 Monad](http://www.ruanyifeng.com/blog/2015/07/monad.html)
 
 * [Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.qicl6ze0h)
+
+# Libraries
+
+## immer
+
+* [2018-Introducing Immer: Immutability the easy way](https://hackernoon.com/introducing-immer-immutability-the-easy-way-9d73d8f71cb3)

@@ -1,7 +1,6 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-
-# Web 状态管理资料索引
+# Web State Management Links
 
 * [2017-Redux or Mobx --前端应用状态管理方案的探索与思考](http://www.jianshu.com/p/a52e896f8c8f)
 

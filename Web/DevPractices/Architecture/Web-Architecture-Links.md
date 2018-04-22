@@ -1,6 +1,8 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Web 架构 Learning & Practices Links
+# Web Architecture Learning & Practices Links
+
+* [2018-Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3): Besides not being open source, I think there is a lot to learn from it and it is worth sharing the things we learned along the way.
 
 # Micro Frontend
 

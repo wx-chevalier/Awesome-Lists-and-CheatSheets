@@ -1,13 +1,14 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
+# Web Layout Widgets Links
 
-# 布局控件索引
-
-# Page Slider
+# Swipe View
 
 * [Swiper]()
 
 * [FullPage.js]()
+
+* [swiper #Project#](https://github.com/fex-team/swiper): 轻量的移动端 H5 翻页库，提供了必要的配置选项和 API，同时具有高性能的特点。目前百度 H5 运行时页面在使用。
 
 # Dialog
 

@@ -29,3 +29,13 @@
 * [tfjs #Project#](https://github.com/tensorflow/tfjs): A WebGL accelerated, browser based JavaScript library for training and deploying ML models.
 
 * [brain.js #Project#](https://github.com/BrainJS/brain.js): brain.js is a library of Neural Networks written in JavaScript.
+
+# Computer Vision
+
+* [2017-Detectron #Project#](https://github.com/facebookresearch/Detectron): Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN.
+
+* [2018-Faceswap #Project#](https://github.com/deepfakes/faceswap): Faceswap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.
+
+* [2018-FastPhotoStyle #Project#](https://github.com/NVIDIA/FastPhotoStyle): This code repository contains an implementation of our fast photorealistic style transfer algorithm.
+
+* [2018-pico.js](https://github.com/tehnokv/picojs): a face-detection library in 200 lines of JavaScript

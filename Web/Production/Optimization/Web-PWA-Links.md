@@ -8,7 +8,9 @@ This file aggregates popular links for learning how to implement Progressive Web
 
 * [2016-Why Google Thinks You Should Start Building Progressive Web Apps](https://arc.applause.com/2016/05/24/progressive-web-apps/)
 
-## Case Study: 案例分析
+* [2018-Progressive Web Apps: Bridging the gap between web and mobile apps](https://parg.co/lRc): So this article is a summary of the concepts and approaches that Progressive Web Apps follow.
+
+## Case Study
 
 * [AliExpress Case Study](https://developers.google.com/web/showcase/2016/aliexpress) : AliExpress increases conversion rate for new users by 104% with new progressive web apps.
 
@@ -36,7 +38,7 @@ This file aggregates popular links for learning how to implement Progressive Web
 
 - [2017-A Tinder Progressive Web App Performance Case Study](https://parg.co/UMw): Techniques for JavaScript performance optimization, Service Workers for network resilience and Push Notifications for chat engagement.
 
-## Tool: 工具
+## Tool
 
 * [2017-Progressive Web App Libraries in Production](https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34#.z5egf9m7v): This article is written by Addy Osmani. Two years ago, our team at Google started work on JavaScript libraries to reduce the friction for building Progressive Web Apps.
 
