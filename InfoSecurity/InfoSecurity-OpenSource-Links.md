@@ -31,3 +31,7 @@
 # HIDS
 
 * [驭龙 HIDS](https://github.com/ysrc/yulong-hids): 驭龙 HIDS 是一款由 YSRC 开源的入侵检测系统，由 Agent， Daemon， Server 和 Web 四个部分组成，集异常检测、监控管理为一体，拥有异常行为发现、快速阻断、高级分析等功能，可从多个维度行为信息中发现入侵行为。
+
+# Social Engineering
+
+* [Muffet #Project#](https://github.com/raviqqe/muffet): Muffet is a website link checker which scrapes and inspects all pages in a website recursively.

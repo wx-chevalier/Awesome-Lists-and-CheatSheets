@@ -12,8 +12,14 @@
 
 * [Luxon #Project#](https://github.com/moment/luxon): Luxon is a library for working with dates and times in Javascript.
 
+* [dayjs #Project#](https://github.com/xx45/dayjs): Fast 2KB immutable date library alternative to Moment.js with the same modern API.
+
 # Development Tool
 
 * [node-prune #Project#](https://github.com/tj/node-prune): 能够帮助移除 node_modules 中的不必要内容。
 
 * [Consola #Project#](https://github.com/nuxt/consola): Elegant Console Logger
+
+# Other
+
+* [Sweet #Project#](https://www.sweetjs.org/): Sweet brings the hygienic macros of languages like Scheme and Rust to JavaScript.

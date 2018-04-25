@@ -50,12 +50,6 @@
 
 * [2017-How Web Workers can help with consistent, asynchronous tasks in JavaScript](https://medium.freecodecamp.org/how-web-workers-can-help-with-consistent-asynchronous-tasks-in-javascript-cd6d728fa4ee)
 
-- [workerize #Project#](https://github.com/developit/workerize): Moves a module into a Web Worker, automatically reflecting exported functions as asynchronous proxies.
-
-- [workerize-loader #Project#](https://github.com/developit/workerize-loader): Automatically move a module into a Web Worker (Webpack loader).
-
-- [greenlet #Project#](https://github.com/developit/greenlet): Move an async function into its own thread, a simplified single-function version of workerize.
-
 - [2018-How JavaScript works: The building blocks of Web Workers + 5 cases when you should use them](https://parg.co/Uig): We’ll offer an overview, discuss the different types of workers, how their building components come to play together, and what advantages and limitations they offer in different scenarios.
 
 ## ArrayBuffers & SharedArrayBuffers

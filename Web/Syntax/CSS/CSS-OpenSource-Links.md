@@ -5,3 +5,5 @@
 * [finder #Project#](https://github.com/antonmedv/finder): CSS Selector Generator, Generates shortest selectors.
 
 # Animation
+
+* [CSS Blocks #Project#](https://github.com/linkedin/css-blocks): CSS Blocks is an ergonomic, component-oriented CSS authoring system that compiles to high-performance stylesheets.
