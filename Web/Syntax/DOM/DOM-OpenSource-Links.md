@@ -33,3 +33,9 @@
 * [dom-to-image #Project#](https://github.com/tsayen/dom-to-image): Generates an image from a DOM node using HTML5 canvas
 
 * [html2canvas](https://github.com/niklasvh/html2canvas): The script allows you to take "screenshots" of webpages or parts of it, directly on the users browser.
+
+# Storage 
+
+- [Pouchdb #Project#](https://github.com/pouchdb/pouchdb): PouchDB was created to help web developers build applications that work as well offline as they do online.
+
+
