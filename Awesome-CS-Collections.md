@@ -6,7 +6,9 @@ Awesome CS Collections is collections of collection, including Programming Langu
 
 Awesome CS Collections is subject to [Awesome Links](https://github.com/wxyyxc1992/Awesome-Links/), which is also part of [Awesome Coder](https://github.com/wxyyxc1992/Awesome-Coder).
 
-# Sites: Blog & News & Forum
+Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速找到合适的学习指引。
+
+# Sites: Blog & News & Forum | 博客、资讯与论坛
 
 * Content Aggregation Portal: [HackerNews](https://news.ycombinator.com/news), [Reddit](https://www.reddit.com/), [Google+](plus.google.com), [推酷](tuicool.com), [TechMeme](https://www.techmeme.com/), [V2EX](https://www.v2ex.com/), [DZone](dzone.com), [Voat](https://voat.co/)
 
@@ -26,7 +28,7 @@ Awesome CS Collections is subject to [Awesome Links](https://github.com/wxyyxc19
 
 * Giants: [MSDN](https://msdn.microsoft.com/zh-cn), [Google Developers](https://developers.google.cn/), [云栖社区](https://yq.aliyun.com/), [IBM DeveloperWorks](http://www.ibm.com/developerworks/), [Facebook AI Research ](https://research.fb.com/ai-helps-facebooks-internet-drones-find-where-the-people-are/), [Facebook](https://code.facebook.com/posts/), [Airbnb](http://nerds.airbnb.com/)
 
-# Universe
+# Universe | 通用
 
 * [Learn Anything](https://github.com/learn-anything/learn-anything): Learn Anything is an Open Source Website built by community to Learn Anything with Interactive Maps.
 
@@ -40,7 +42,7 @@ Awesome CS Collections is subject to [Awesome Links](https://github.com/wxyyxc19
 
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts): Collection of awesome podcasts. Awesome list of Important Podcasts for software engineers.
 
-# Programming Language
+# Programming Language | 编程语言
 
 * [Exercism](http://exercism.io/): Exercism gives you hundreds of practice problems in over 30 programming languages, and a place where you can get feedback on your solutions.
 
@@ -48,13 +50,13 @@ Awesome CS Collections is subject to [Awesome Links](https://github.com/wxyyxc19
 
 * [Hackr](https://hackr.io/): Find the Best Programming Courses & Tutorials
 
-# Software Engineering
+# Software Engineering | 软件工程
 
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 
 * [awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 
-* [InterviewNotes](https://github.com/CyC2018/InterviewNotes): :books: 计算机基础知识整理，持续更新中~
+* [InterviewNotes](https://github.com/CyC2018/InterviewNotes): 计算机基础知识整理，持续更新中~
 
 * [2018-Interviews #Collection#](https://github.com/kdn251/interviews): Everything you need to know to get the job.
 
@@ -64,17 +66,19 @@ Awesome CS Collections is subject to [Awesome Links](https://github.com/wxyyxc19
 
 * [Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies): A curated list of technical talks and articles about real-world enterprise frontend development
 
-# Server Side Application
+# Server Side Application | 服务端应用程序
 
-* [Back-End Developer Interview Questions](https://parg.co/UXF): A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
+* [2016-Back-End Developer Interview Questions](https://parg.co/UXF): A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 
 * [2018-Awesome Scalability, Availability, and Stability Back-end Design Patterns](https://github.com/binhnguyennus/awesome-scalability): A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development.
 
-# Infrastructure
+* [2018-后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+
+# Infrastructure | 基础架构
 
 * [The Twelve-Factor App](http://12factor.net/zh_cn/): To raise awareness of some systemic problems we’ve seen in modern application development, to provide a shared vocabulary for discussing those problems, and to offer a set of broad conceptual solutions to those problems with accompanying terminology.
 
-# Frontend
+# Frontend | 前端
 
 # DataScienceAI
 

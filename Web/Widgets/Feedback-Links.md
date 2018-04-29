@@ -1,46 +1,29 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
- 
- 
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
+# Web Feedback Widgets Links | 反馈
 
-# 表格与网格控件索引
+# Loading | 加载
 
-* [react-pivottable #Project#](https://react-pivottable.js.org/): React-based drag'n'drop pivot table with Plotly.js charts.
+## Spin | 自旋式加载中
 
-# ListView: 列表
+* [css-loaders](https://github.com/lukehaas/css-loaders)
 
-* [Sortable #Project#](http://rubaxa.github.io/Sortable/): 可记录的拖拽排序，可以用在移动设备上
+* [SpinKit](https://github.com/tobiasahlin/SpinKit):A collection of loading indicators animated with CSS,IE8 Support
 
-* [react-flip-move #Project#](https://github.com/joshwcomeau/react-flip-move#enterleave-animations)
+* [loaders.css](https://github.com/ConnorAtherton/loaders.css)
 
-* [jQuery-HTML5 Sortable #Project#](http://farhadi.ir/projects/html5sortable/): 基于 jQuery 的拖拽插件
+## Skeleton | 骨骼式加载中
 
-* [react-virtualized #Project#](https://bvaughn.github.io/react-virtualized/)
+# Progress | 进度条
 
-# Grid Layout: 网格布局
+* [Elastic Progress](https://github.com/codrops/ElasticProgress)
 
-* [Minigrid #Project#](http://alves.im/minigrid/)
+# Popover | 气泡卡片
 
-* [Simple-Grid #Project#](https://github.com/ThisIsDallas/Simple-Grid): Basic Responsive Grid
+# Tooltip | 提示
 
-- [2017-Muuri #Project#](https://github.com/haltu/muuri): Muuri is a magical JavaScript layout engine that allows you to build all kinds of layouts and make them responsive, sortable, filterable, draggable and/or animated. 
+# Alert | 警告提示
 
-## Cascading Layout: 瀑布流布局
+# Message | 全局提示
 
-* [Bricklayer #Project#](https://github.com/ademilter/bricklayer): Bricklayer is a Lightweight and Independent Pinterest-like Cascading Grid Layout Library.
-
-- [Masonry #Project#](https://github.com/desandro/masonry): Cascading grid layout library Masonry works by placing elements in optimal position based on available vertical space, sort of like a mason fitting stones in a wall. You’ve probably seen it in use all over the Internet.
-
-- [LightGallery](https://sachinchoolur.github.io/lightgallery.js/)
-
-# DataGrid: 数据表格
-
-* [2017-Handsontable #Project#](https://github.com/handsontable/handsontable): Handsontable Community Edition - JavaScript/HTML5 Spreadsheet Component for Web Apps.
-
-* [Facebook-FixedDataTable #Project#](http://facebook.github.io/fixed-data-table/getting-started.html): A React table component designed to allow presenting thousands of rows of data.
-
-* [ag-grid #Project#](https://github.com/ceolter/ag-grid): Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
-
-* [SlickGrid #Project# #Inactive#](https://github.com/mleibman/SlickGrid): A lightning fast JavaScript grid/spreadsheet
-
-* [jQuery-DataTables #Project#](https://www.datatables.net/examples/basic_init/zero_configuration.html)
+# Notification | 通知提醒框

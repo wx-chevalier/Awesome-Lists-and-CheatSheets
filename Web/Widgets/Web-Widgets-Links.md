@@ -2,167 +2,169 @@
 
 [中文版本](./Web-Widgets-Links.md) | [English Version](Web-Widgets-Links-en.md)
 
-# Web 插件索引
+# Web Widgets Links | 插件索引
 
 不拘泥于某种框架或者实现方式，本索引涵盖了 Web 开发中常用的组件模式，其按照如下方式进行归类：
 
-* [General - 通用](./General-Widgets-Links.md)
+* [General | 通用](./General-Widgets-Links.md)
 
-  * Button - 按钮: FAB - 悬浮按钮, ImageButton - 图片按钮
+  * Button | 按钮
 
-  * Icon - 图标
+  * Icon | 图标
 
-  * LocaleProvider - 国际化
+  * LocaleProvider | 国际化
 
-  * Form - 表单
+  * Form | 表单
 
-  * Validation - 校验
+  * Validation | 校验
 
-  * Other - 其他
+  * Other | 其他
 
-* Layout - 布局
+* Layout | 布局
 
-  * Grid - 网格
+  * Grid | 网格
 
-  * Dialog - 窗体
+  * Dialog | 窗体
 
-  * Cascading - 瀑布流
+  * Cascading | 瀑布流
 
-  * Tabs - 标签页
+  * Tabs | 标签页
 
-  * Scroll View - 滚动视图
+  * Collapse Panel | 折叠面板
 
-  * Swpie View - 滑动视图
+* Interaction | 交互
 
-* Navigation - 导航
+  * Drag & Drop | 拖拽
 
-  * Affix / Anchor - 固钉 / 锚点
+  * Scroll | 滚动
 
-  * Breadcrumb - 面包屑
+  * Swpie | 滑动
 
-  * Menu - 普通可分组菜单
+* Navigation | 导航
 
-  * Dropdown - 下拉菜单
+  * Affix/Anchor | 固钉/锚点
 
-  * Pagination - 分页
+  * Breadcrumb | 面包屑
 
-  * Steps - 步骤条
+  * Menu | 普通可分组菜单
 
-  * Timeline - 时间轴
+  * Dropdown | 下拉菜单
 
-  * Collapse Panel - 折叠面板
+  * Pagination | 分页
 
-  * Search - 搜索
+  * Steps | 步骤条
 
-  * Tour - 指南
+  * Timeline | 时间轴
 
-* Picker - 输入器
+  * Search | 搜索
 
-  * Input - 输入框
+  * Tour | 指南
 
-  * Input Number - 数字输入框
+* Picker | 输入器
 
-  * Auto Complete - 自动完成
+  * Input | 输入框
 
-  * Auto Format - 自动格式化
+  * Input Number | 数字输入框
 
-  * Date Picker - 日期选择器
+  * Auto Complete | 自动完成
 
-  * Time Picker - 时间选择器
+  * Auto Format | 自动格式化
 
-  * DateTime Picker - 时间与日期选择
+  * Date Picker | 日期选择器
 
-  * Editor - 编辑器
+  * Time Picker | 时间选择器
 
-* Select - 选择器
+  * DateTime Picker | 时间与日期选择
 
-  * Radio - 单选框
+  * Editor | 编辑器
 
-  * Checkbox - 多选框
+* Select | 选择器
 
-  * Select - 下拉选择框
+  * Radio | 单选框
 
-  * Slider - 滑动输入条
+  * Checkbox | 多选框
 
-  * Wheeler - 滚轮选择
+  * Select | 下拉选择框
 
-  * Switch - 开关
+  * Slider | 滑动输入条
 
-  * TreeSelect - 树形选择
+  * Wheeler | 滚轮选择
 
-  * Transfer - 穿梭选择
+  * Switch | 开关
 
-  * Mention - 提及
+  * TreeSelect | 树形选择
 
-  * Cascader - 级联选择
+  * Transfer | 穿梭选择
 
-  * Rate - 评分
+  * Mention | 提及
 
-  * Upload - 上传
+  * Cascader | 级联选择
 
-  * City Select - 城市选择
+  * Rate | 评分
 
-- Indicator - 展现器
+  * Upload | 上传
 
-  * Label - 标签: TypeWriter - 打字机
+  * City Select | 城市选择
 
-  * List - 列表
+* Indicator | 展现器
 
-  * Table - 表格
+  * Label | 标签: TypeWriter | 打字机
 
-  * Tree - 树形控件
+  * List | 列表
 
-  * File - 文件夹与文件
+  * Table | 表格
 
-  * Clock - 时钟与计数器
+  * Tree | 树形控件
 
-  * Calendar - 日历
+  * File | 文件夹与文件
 
-  * Tag - 标签
+  * Clock | 时钟与计数器
 
-  * Badge - 徽标数
+  * Calendar | 日历
 
-  * Divider - 分割线
+  * Tag | 标签
 
-  * Code - 代码高亮显示
+  * Badge | 徽标数
 
-* Feedback - 反馈
+  * Divider | 分割线
 
-  * Spin - 自旋式加载中
+  * Code | 代码高亮显示
 
-  * Skeleton - 骨骼式加载中
+* Feedback | 反馈
 
-  * Progress - 进度条
+  * Loading | 加载中
 
-  * Popover - 气泡卡片
+  - Progress | 进度条
 
-  * Tooltip - 提示
+  - Popover | 气泡卡片
 
-  * Alert - 警告提示
+  - Tooltip | 提示
 
-  * Modal - 对话框
+  - Alert | 警告提示
 
-  * Message - 全局提示
+  - Modal | 对话框
 
-  * Notification - 通知提醒框
+  - Message | 全局提示
 
-* Gallery - 画廊
+  - Notification | 通知提醒框
 
-  * Avatar - 头像
+* Gallery | 画廊
 
-  * Card - 卡片
+  * Avatar | 头像
 
-  * Image View - 图片视图/滤镜
+  * Card | 卡片
 
-  * Image Crop - 图片裁剪
+  * Image View | 图片视图/滤镜
 
-  * Carousel - 走马灯 / 轮播
+  * Image Crop | 图片裁剪
 
-  * Parallax - 并发滚动
+  * Carousel | 走马灯 | 轮播
 
-  * Scrollytelling - 滚动介绍
+  * Parallax | 并发滚动
 
-  * Video Player - 视频播放
+  * Scrollytelling | 滚动介绍
+
+  * Video Player | 视频播放
 
 # Other
 

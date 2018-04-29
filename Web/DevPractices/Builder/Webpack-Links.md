@@ -6,7 +6,7 @@
 
 * [大公司里怎样开发和部署前端代码](https://github.com/fouber/blog/issues/6)。
 
-## Tutorial: 教程
+## Tutorial | 教程
 
 * [2016-Getting Started with Webpack 2](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.3ksiast1f): At its simplest, webpack is a module bundler for your JavaScript. However, since its release it’s evolved into a manager of all your front-end code.
 
@@ -36,7 +36,7 @@
 
 * [parallel-webpack #Project#](https://parg.co/UkW): Builds multi-config webpack projects in parallel.
 
-# Production: 发布到生产环境
+# Production | 发布到生产环境
 
 * [2017-Reducing CSS bundle size 70% by cutting the class names and using scope isolation](https://parg.co/b19)
 
