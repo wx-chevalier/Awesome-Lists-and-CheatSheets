@@ -15,3 +15,7 @@
 - [workerize-loader #Project#](https://github.com/developit/workerize-loader): Automatically move a module into a Web Worker (Webpack loader).
 
 - [greenlet #Project#](https://github.com/developit/greenlet): Move an async function into its own thread, a simplified single-function version of workerize.
+
+# Storage
+
+* [Pouchdb #Project#](https://github.com/pouchdb/pouchdb): PouchDB was created to help web developers build applications that work as well offline as they do online.
