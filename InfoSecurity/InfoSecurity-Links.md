@@ -33,3 +33,5 @@
 - [Penetration Testing/Security Cheatsheets](https://github.com/jshaw87/Cheatsheets): 渗透测试与安全 Cheatsheet
 
 - [各种安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map)
+
+- [兜哥系列丛书](https://github.com/duoergun0729): Web 安全之机器学习入门/Web 安全之深度学习实战/Web 安全之强化学习与 GAN  系列

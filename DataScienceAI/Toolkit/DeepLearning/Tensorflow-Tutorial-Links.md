@@ -38,7 +38,7 @@
 
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples):TensorFlow tutorials and code examples for beginners
 
-- [ TensorFlow-101](https://github.com/sjchoi86/ TensorFlow-101): TensorFlow Tutorials using Jupyter Notebook
+- [TensorFlow-101](https://github.com/sjchoi86/ TensorFlow-101): TensorFlow Tutorials using Jupyter Notebook
 
 - [深度 | Google Brain 研究员详解聊天机器人：面临的深度学习技术问题以及基于 TensorFlow 的开发实践 ](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650716717&idx=1&sn=c7cbccb6b34549629b36d3d2f0cc37f3&scene=0#wechat_redirect)
 

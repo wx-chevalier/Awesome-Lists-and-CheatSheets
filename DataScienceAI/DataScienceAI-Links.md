@@ -87,3 +87,25 @@
 * [Quora 关于机器学习的招聘启事](https://www.quora.com/careers/technical_lead_machine_learning)
 
 * [Google 关于机器学习与人工智能岗位的招聘启事](https://www.google.com/about/careers/search?_ga=1.89288795.153537653.1473158707#!t=jo&jid=28625001&)
+
+* [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks)
+
+* [代码解析深度学习系统编程模型：TensorFlow vs. CNTK](http://geek.csdn.net/news/detail/62429)
+
+* [tensorflow-playground](https://github.com/tensorflow/playground):Play with neural networks!
+
+* [dl-docker](https://github.com/saiprashanths/dl-docker): 将常用的深度学习工具打包在了一个 Docker 镜像中
+
+- [deep-learning-models](https://github.com/fchollet/deep-learning-models):Keras code and weights files for popular deep learning models.
+
+- [Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning)
+
+- [neurojs](https://github.com/janhuenermann/neurojs): neurojs is a JavaScript framework for deep learning in the browser. It mainly focuses on reinforcement learning, but can be used for any neural network based task. It contains neat demos to visualise these capabilities, for instance a 2D self-driving car.
+
+* [2016-Deep Learning By Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://github.com/HFTrader/DeepLearningBook): 中文译本[这里](https://pan.baidu.com/s/1o8boqdc)。The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free. The print version will be available for sale soon.
+
+* [Stanford Deep Learning Tutorial #Book#](http://deeplearning.stanford.edu/tutorial/): This tutorial will teach you the main ideas of Unsupervised Feature Learning and Deep Learning. By working through it, you will also get to implement several feature learning/deep learning algorithms, get to see them work for yourself, and learn how to apply/adapt these ideas to new problems.
+
+* [2016-Neural Networks and Deep Learning #Book#](http://neuralnetworksanddeeplearning.com/): Neural Networks and Deep Learning is a free online book. The book will teach you about: (1) Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data. (2) Deep learning, a powerful set of techniques for learning in neural networks.
+
+* [深度学习入门 #Book#](https://github.com/PaddlePaddle/book/blob/develop/README.md)：您现在在看的这本书是一本 “ 交互式 ” 电子书 —— 每一章都可以运行在一个 Jupyter Notebook 里。 我们把 Jupyter、PaddlePaddle 、以及各种被依赖的软件都打包进一个 Docker image 了。所以您不需要自己来安装各种软件，只需要安装 Docker 即可。

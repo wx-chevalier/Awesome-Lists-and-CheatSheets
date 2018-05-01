@@ -105,3 +105,32 @@
 * [Java 面试问题](https://dongchuan.gitbooks.io/java-interview-question/content/java/index.html)
 
 ## Online Playground: 在线实践
+
+* [Twitter Java Style Guide](https://parg.co/b7M): The intention of this guide is to provide a set of conventions that encourage good code.
+
+* [2016-Java 问题定位](http://blog.csdn.net/wodeyuer125/article/details/50557168)
+
+* [2016-A beginner’s guide to SQL injection and how you should prevent it](https://parg.co/bB1)
+
+* [P3C【Project】](https://github.com/alibaba/p3c): 2017 年 10 月 14 日杭州云栖大会，Java 代码规约扫描插件全球首发仪式正式启动，规范正式以插件形式公开走向业界，引领 Java 语言的规范之路。目前，插件已在云效公有云产品中集成，立即体验！（云效>公有云>设置->测试服务->阿里巴巴 Java 代码规约）。
+
+* [2017-Java 老矣，尚能饭否？](http://www.infoq.com/cn/articles/is-java-out-of-date): 从 1995 年第一个版本发布到现在，Java 语言已经在跌宕起伏中走过了 22 年，最新的 Java 版本也已经迭代到 Java 9。
+
+* [2017-阿里巴巴 Java 开发手册]()：《阿里巴巴 Java 开发手册》是阿里巴巴集团技术团队的集体经验总结，经历了多次大规模一线实战的检验及不断的完善，反馈给广大开发者。
+
+* [2016-Think-in-Java【Book】](https://parg.co/b7t): Thinking In Java should be read cover to cover by every Java programmer, then kept close at hand for frequent reference. The exercises are challenging, and the chapter on Collections is superb!
+
+* [2014-Java 问题定位技术【Book】](http://download.csdn.net/download/dhf880913/9337919)
+
+* [2015-The CERT ® Oracle ® Secure Coding Standard for Java【Book】](https://ptgmedia.pearsoncmg.com/images/9780321803955/samplepages/0321803957.pdf)
+
+* [Twitter-commons【Project】](https://github.com/twitter/commons): Twitter common libraries for python and the JVM.
+
+* [Top 10 Java Blogs for Programmers of All Levels](https://stackify.com/java-blogs-for-programmers-of-all-levels/): All over the world, Java professionals are posting daily about new findings or new feature functions. Unfortunately, blogs can also provide some not so great insight and perspective.
+
+- [2017-Java 反射由浅入深 | 进阶必备](https://juejin.im/post/598ea9116fb9a03c335a99a4)
+- [2017-Java Reflection, 1000x Faster](http://norswap.com/fast-java-reflection/)
+- [Java Parser](https://github.com/javaparser/javaparser): Java Parser and Abstract Syntax Tree
+
+* [Java 异常处理的误区和经验总结](https://www.ibm.com/developerworks/cn/java/j-lo-exception-misdirection)
+* [2016-Java 编程手册—异常处理与断言](http://blog.csdn.net/hp910315/article/details/51067333)

@@ -1,8 +1,8 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# JavaScript  Learning & Practices Links
+# JavaScript Learning & Practices Links
 
-参考笔者在[泛编程语言学习知识结构](https://parg.co/bt0)一文中介绍的知识图谱了解目录划分原则，本文是 JavaScript  Learning & Practices Links的入口部分，关联子索引还包括[语法基础](https://github.com/wxyyxc1992/Awesome-Links)等。
+参考笔者在[泛编程语言学习知识结构](https://parg.co/bt0)一文中介绍的知识图谱了解目录划分原则，本文是 JavaScript Learning & Practices Links 的入口部分，关联子索引还包括[语法基础](https://github.com/wxyyxc1992/Awesome-Links)等。
 
 # Overview: 概述
 
@@ -91,3 +91,15 @@
 # Tutorial
 
 * [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html): This book is about two versions of JavaScript: ECMAScript 2018 and ECMAScript 2019.
+
+* [2017-To type or not to type: quantifying detectable bugs in JavaScript](https://parg.co/bwX)
+
+- [2017-Javascript closures explained in depth](https://weeklywebwisdom.com/2017/09/24/javascript-closures-explained-in-depth/)
+
+* [6 Simple Tips on How to Start Writing Clean Code](https://parg.co/UlR)
+
+- [2015-ES6 Promises](http://www.datchley.name/es6-promises/): there is a better pattern using Promises, which give us much more than just an escape from callback hell.
+
+- [2017-How to write clean code for cascaded promises](https://hackernoon.com/how-to-write-clean-code-for-cascaded-promises-809de5b950fd): An in-depth guide about working with Interdependent Promises
+
+- [2017-Promise error handling in-depth](https://codeburst.io/promise-error-handling-in-depth-90b0965149c0): This blog is written in Q and A form and targeting those who are looking for the answers.

@@ -2,6 +2,8 @@
 
 # DataScienceAI Course Links
 
+# Machine Learning
+
 * [2018-Machine Learning Crash Course with TensorFlow APIs by Google](https://developers.google.com/machine-learning/crash-course/): Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.
 
 * [Practical Deep Learning For Coders -FastAI #Course#](http://course.fast.ai/index.html)：fast.ai 提供的七周的免费深度学习课程，学习如何构建那些优秀的模型；目前已经包含了[ Part 1 ](http://course.fast.ai/)、[ Part 2 ](http://course.fast.ai/part2.html)。
@@ -25,6 +27,9 @@
 * [机器学习温和指南](http://www.csdn.net/article/2015-09-08/2825647#rd?sukey=b0cb5c5b9e50130317c130ba2243b8e573404f264fe1467cde82d02d2529978108ee91bb9a2bbc0d81118e2db77390ca)
 
 - [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
+
 - [Stanford-UFLDL 教程](http://ufldl.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
 
 * [Standford-The Elements of Statistical Learning Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf)
+
+# Deep Learning
