@@ -39,6 +39,8 @@
 
 * [Walt #Project#](https://github.com/ballercat/walt): WAlt is an alternative syntax for WebAssembly text format. It's an experiment for using JavaScript syntax to write to as 'close to the metal' as possible.
 
+- [2018-Writing WebAssembly By Hand](http://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html):  However, it is actually possible to write WebAssembly directly by hand.
+
 # Under the hood
 
 * [2017-Understanding WebAssembly text format](https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format): To enable WebAssembly to be read and edited by humans, there is a textual representation of the wasm binary format. This is an intermediate form designed to exposed in text editors, browser developer tools, etc. This article explains how that text format works, in terms of the raw syntax, and how it is related to the underlying bytecode it represents — and the wrapper objects representing wasm in JavaScript.

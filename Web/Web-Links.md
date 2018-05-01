@@ -16,6 +16,10 @@
 
 * [2017-What is the Future of Front End Web Development?](https://parg.co/bJr): What websites are being asked to do is rising. Developers are being asked to build very complicated things very quickly and have them work very well and very fast.
 
+## Framework 
+
+- [2018-How components won the “framework wars”](https://hackernoon.com/how-components-won-the-framework-wars-e40abd38668b?source=linkShare-fe48c4221a4c-1525105934): React vs Angular vs Vue: Why it doesn’t matter.
+
 ## Front-end Leader: 领袖意见
 
 * [How to Keep Up To Date On Frontend Technologies](https://uptodate.frontendrescue.org/)
