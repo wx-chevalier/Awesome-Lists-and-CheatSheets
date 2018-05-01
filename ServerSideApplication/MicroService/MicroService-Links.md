@@ -94,3 +94,5 @@
 * [微服务架构三十六计](https://mp.weixin.qq.com/s/thflf4uFrC2059X9OZ1Frg): 在微服务的落地过程中，我们认为如下几点将成为组织实施微服务架构的必备能力。
 
 * [2017-How to Define Service Boundaries](https://hackernoon.com/how-to-define-service-boundaries-251c4fc0f205?source=linkShare-fe48c4221a4c-1516851130)
+
+- [2018-微服务并非Spring Cloud和Dubbo，下一代微服务是什么？](https://mp.weixin.qq.com/s/qkXa3VszeMquhTodUtYMbQ): 近几年，微服务技术得以迅猛普及，而以 Spring Cloud、Dubbo 为代表较为成熟的微服务开发框架，占据着市场的主流地位，它们甚至一度成为微服务的代名词。
