@@ -1,8 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# MicroService Links
-
-本部分资料侧重于微服务模式设计与上层应用实践。
+# MicroService Links | 微服务模式设计与上层应用实践资料索引
 
 # Overview
 
@@ -18,11 +16,11 @@
 
 - [2018-The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
 
-## Case Study
+## Case Study | 案例分析
 
 * 阿里：[阿里巴巴 Aliware 十年微服务架构演进历程中的挑战与实践](https://parg.co/b2j)
 
-* 阿里云：[2017- 中间件技术峰会分享 | 微服务架构上云最佳实践](http://jm.taobao.org/2017/08/07/20170807/)
+* 阿里云：[2017-中间件技术峰会分享：微服务架构上云最佳实践](http://jm.taobao.org/2017/08/07/20170807/)
 
 * 今日头条：[今日头条 Go 建千亿级微服务的实践](https://zhuanlan.zhihu.com/p/26695984)
 
@@ -34,6 +32,8 @@
 
 - [2017-REST ? RPC ? 是时候改变你对微服务的认知了！](https://mp.weixin.qq.com/s/HTeQNU-1P-hWloEdjl1QYg): 在本文中，我们将会讨论一种完全不同的架构：不是把 service 们通过命令链揉到一块，而是通过事件流（stream of events ）来做。这是一个不错的方式。这种方式也是我们之后要讨论的一系列的一个基础。
 
+- [2018-方圆－罗辑思维 Go 语言微服务改造实践](https://mp.weixin.qq.com/s/WtRcGWauZJ7gkwz23QIm4A): 曾在 Cisco 负责流媒体工作，在微博负责 feed 系统研发，三年游戏行业开发经验，现任罗辑思维首席架构师，主导罗辑思维微服务改造。
+
 # Resource
 
 ## Books
@@ -44,7 +44,7 @@
 
 ## Video
 
-# Architecture Patterns
+# Architecture Patterns | 架构模式
 
 * [微服务架构的 4 大设计原则和 1 个平台实践](https://mp.weixin.qq.com/s/dmPhaERxkDlC2lbzgJIMgg):
   本文介绍微服务架构的演进、优缺点和微服务应用的设计原则，然后着重介绍作为一个“微服务应用平台”需要提供哪些能力、解决哪些问题才能更好地支撑企业应用架构。
@@ -95,4 +95,6 @@
 
 * [2017-How to Define Service Boundaries](https://hackernoon.com/how-to-define-service-boundaries-251c4fc0f205?source=linkShare-fe48c4221a4c-1516851130)
 
-- [2018-微服务并非Spring Cloud和Dubbo，下一代微服务是什么？](https://mp.weixin.qq.com/s/qkXa3VszeMquhTodUtYMbQ): 近几年，微服务技术得以迅猛普及，而以 Spring Cloud、Dubbo 为代表较为成熟的微服务开发框架，占据着市场的主流地位，它们甚至一度成为微服务的代名词。
+- [2018-微服务并非 Spring Cloud 和 Dubbo，下一代微服务是什么？](https://mp.weixin.qq.com/s/qkXa3VszeMquhTodUtYMbQ): 近几年，微服务技术得以迅猛普及，而以 Spring Cloud、Dubbo 为代表较为成熟的微服务开发框架，占据着市场的主流地位，它们甚至一度成为微服务的代名词。
+
+---

@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# 云计算和大数据平台基础架构资料索引
+# Infrastructure Links | 云计算和大数据平台基础架构资料索引
 
 [云计算和大数据平台基础架构 Learning & Practices Links]()是笔者对于现代 IT 系统中使用的基础架构相关的资料汇总，包含了分布式系统、分布式计算、（分布式）存储、虚拟化、网络与操作系统等多个方面；而偏向应用层的资料参考[服务端应用程序 Learning & Practices Links]()
 
@@ -62,6 +62,10 @@
 
 * [2017-Distributed Systems-3rd edition #Book#](https://parg.co/UeG): 1. Introduction 2. Architectures 3. Processes 4. Communication 5. Naming 6. Coordination 7. Replication 8. Fault tolerance 9. Security
 
+# Resource | 资源
+
+* [互联网公司经典技术架构 #Resource#](https://github.com/davideuler/architecture.of.internet-product#): 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay 的架构
+
 # 云计算
 
 * [吴军博士-大数据与 2%的人类](http://www.chinahadoop.cn/course/136/learn#lesson/3822)
@@ -77,3 +81,5 @@
 * [2017 杭州云栖大会精华 PPT](https://github.com/Alimei/hangzhouYunQi2017ppt): 杭州云栖大会是阿里集团一年一度的全生态科技盛会。此次大会包含 140 多场技术主题论坛，共计 800 多个主题分享，涵盖人工智能、金融科技、量子计算、生命科学、IoT 、政务、多媒体、VR 等 20 多个前沿科技领域。
 
 * [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://parg.co/UKc):
+
+---

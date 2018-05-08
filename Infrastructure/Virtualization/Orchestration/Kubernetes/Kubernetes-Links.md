@@ -28,6 +28,10 @@
 
 * [Kubernetes 中文指南/云原生应用架构实践手册 #Book#](https://github.com/rootsongjc/kubernetes-handbook): 本书记录了本人从零开始学习和使用 Kubernetes 的心路历程，着重于经验分享和总结，同时也会有相关的概念解析，希望能够帮助大家少踩坑，少走弯路，还会指引大家关于关注 kubernetes 生态周边，如微服务构建、DevOps、大数据应用、Service Mesh、Cloud Native 等领域。
 
+## Video
+
+* [2017-Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes): Want to learn Kubernetes? Get an in-depth primer on this powerful system for managing containerized applications.
+
 ## Collection
 
 * [2018-Resources for Getting Started with Kubernetes](https://vsupalov.com/getting-started-with-kubernetes/): Hand-picked reading material and courses to help you make progress towards getting started with Kubernetes.

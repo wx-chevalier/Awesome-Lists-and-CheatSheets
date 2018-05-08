@@ -1,5 +1,9 @@
 # DataScienceAI Models Links
 
+# Game | 游戏
+
+* [OpenAI Gym](https://github.com/openai/gym): OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms. This is the gym open-source library, which gives you access to a standardized set of environments.
+
 # Chess
 
 * [2018-Minigo #Project#](https://github.com/tensorflow/minigo): A minimalist Go engine modeled after AlphaGo Zero, built on MuGo.

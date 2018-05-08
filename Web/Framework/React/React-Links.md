@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# React Learning & Practices Links
+# Ultimate Links for Learning React in 2018, from Zero to Hero
 
 This file aggregates curated popular links for learning React, Syntax, DevPractices, Production Tips, Internals, OpenSource, etc. More reference about ITCS can turn to [Awesome Links: Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Links), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
 
@@ -12,7 +12,7 @@ This file aggregates curated popular links for learning React, Syntax, DevPracti
 
 - [2017-All the fundamental React.js concepts, jammed into this single Medium article](https://parg.co/bzp): This article is not going to cover what React is or why you should learn it. Instead, this is a practical introduction to the fundamentals of React.js for those who are already familiar with JavaScript and know the basics of the DOM API.
 
-* [揭秘 React 生态体系](https://zhuanlan.zhihu.com/p/26270621): React 可以说是目前为止最热门，生态最完善，应用范围最广的前端框架。React 结合它的整个生态，它可以横跨 web 端，移动端，服务器端，乃至 VR 领域。
+* [2018-揭秘 React 生态体系](https://zhuanlan.zhihu.com/p/26270621): React 可以说是目前为止最热门，生态最完善，应用范围最广的前端框架。React 结合它的整个生态，它可以横跨 web 端，移动端，服务器端，乃至 VR 领域。
 
 ## Concept
 
@@ -87,3 +87,5 @@ This file aggregates curated popular links for learning React, Syntax, DevPracti
 ## Interview
 
 * [2017-React 常用面试题目与分析](https://zhuanlan.zhihu.com/p/24856035)
+
+---
