@@ -41,3 +41,7 @@
 * [Slate #Project#](https://github.com/ianstormtaylor/slate)
 
 * [GhostText #Project#](https://github.com/GhostText/GhostText): Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
+
+* [2018-ReLaXed #Project#](https://github.com/RelaxedJS/ReLaXed): ReLaXed is a tool which creates PDF documents interactively using HTML or Pug (a shorthand for HTML). 
+
+---

@@ -24,6 +24,8 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 * [Why Rust is the future of robotics](https://parg.co/UVu): We believe Rust is the future of robotics because it enables developers to be fearless, to create and enforce standards, and to build and rely on a strong community.
 
+- [2018-Rust in production at Figma](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929): How Mozilla’s new language dramatically improved our server-side performance.
+
 ## CheatSheet
 
 * [2017-Rust CheatSheet](http://phaiax.github.io/rust-cheatsheet/)

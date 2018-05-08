@@ -7,6 +7,8 @@
 
 - [Lepton](https://github.com/dropbox/lepton): 用于存储时图片压缩
 
+- [2018-学会这些技巧，你就成了 GIF 达人](https://zhuanlan.zhihu.com/p/36379462)
+
 # SVG
 
 * [high-performance-svgs](https://css-tricks.com/high-performance-svgs/)

@@ -2,7 +2,7 @@
 
 # React DevPractices Links
 
-# Architecture Pattern: 架构模式
+# Architecture Pattern | 架构模式
 
 * [2017-How to structure components in React?](https://parg.co/USj): Structuring system is the hardest thing and it has a big impact on the overall project.
 
@@ -36,13 +36,13 @@
 
 * [Evolving Patterns in React](https://parg.co/UXm): Let’s take a closer look at some of the patterns that are emerging in the React ecosystem. These patterns improve readability, code clarity, and push your code towards composition and reusability.
 
-## Functional React: 函数式 React
+## Functional React | 函数式 React
 
 * [2017-Functional setState is the future of React](https://parg.co/bMW): Declare state changes separately from the component classes.
 
 * [non-functional-react-js](https://medium.com/@arqex/non-functional-react-js-6e020ce27ee2#.cj3dcxl4j)
 
-* [recompose #Project# ](https://github.com/acdlite/recompose/blob/master/docs/API.md#withstate): A React utility belt for function components and higher-order components.
+* [recompose #Project#](https://github.com/acdlite/recompose/blob/master/docs/API.md#withstate): A React utility belt for function components and higher-order components.
 
 * [2016-Why The Hipsters Recompose Everything](https://medium.com/javascript-inside/why-the-hipsters-recompose-everything-23ac08748198): Building a Utility Library for React
 
@@ -76,23 +76,7 @@
 
 * [2016-How to better organize your React applications?](https://parg.co/UII): I decided to spend some time to figure out what could be the best way to organize my future React projects.
 
-# Static Type
-
-## Flow
-
-* [2017-Typing Higher-order Components in Recompose With Flow](https://parg.co/bDu)
-
-## TypeScript
-
-* [2017-React Higher-Order Components in TypeScript made simple](https://codeburst.io/react-higher-order-components-in-typescript-made-simple-6f9b55691af1)
-
-* [2017-react-typescript-samples](https://parg.co/UZK): The goal of this project is to provide a set of simple samples, providing and step by step guide to start working with React and Typescript.
-
-* [2018-TypeScript and React using create-react-app](https://parg.co/U15): A step-by-step guide to setting up your first app.
-
-* [2018-Ultimate React Component Patterns with Typescript 2.8](https://parg.co/UDE): Stateful, Stateless, Default Props, Render Callbacks, Component Injection, Generic Components, High Order Components, Controlled Components.
-
-# Test: 测试
+# Test | 测试
 
 * [2017-Testing React Applications #Series#](https://blog.logrocket.com/testing-react-applications-part-1-of-3-ebd8397917f3)：With React and the ecosystem of testing tools that have emerged around it, it’s finally possible to build robust, scalable tests that provide strong guarantees on code correctness.
 
@@ -117,3 +101,21 @@
 - [2017-Front-end (React) Snapshot Testing with Jest: What is it for?](https://parg.co/bRQ)
 
 * [2017-Jest Testing patterns in React-Redux applications](https://parg.co/U1G): Jest provides a complete ecosystem for testing. There is no need of extra libraries - Mocha, Sinon, Istanbul, Chai, proxyquire etc. as all are present in Jest itself.
+
+# Static Type | 静态类型
+
+## Flow 
+
+* [2017-Typing Higher-order Components in Recompose With Flow](https://parg.co/bDu)
+
+## TypeScript
+
+* [2017-React Higher-Order Components in TypeScript made simple](https://codeburst.io/react-higher-order-components-in-typescript-made-simple-6f9b55691af1)
+
+* [2017-react-typescript-samples](https://parg.co/UZK): The goal of this project is to provide a set of simple samples, providing and step by step guide to start working with React and Typescript.
+
+* [2018-TypeScript and React using create-react-app](https://parg.co/U15): A step-by-step guide to setting up your first app.
+
+* [2018-Ultimate React Component Patterns with Typescript 2.8](https://parg.co/UDE): Stateful, Stateless, Default Props, Render Callbacks, Component Injection, Generic Components, High Order Components, Controlled Components.
+
+* [2018-react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide): The complete guide to static typing in "React & Redux" apps using TypeScript
