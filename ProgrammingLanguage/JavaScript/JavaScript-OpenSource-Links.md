@@ -14,6 +14,8 @@
 
 * [dayjs #Project#](https://github.com/xx45/dayjs): Fast 2KB immutable date library alternative to Moment.js with the same modern API.
 
+* [minimatch](https://github.com/isaacs/minimatch): a glob matcher in javascript.
+
 # Development Tool
 
 * [node-prune #Project#](https://github.com/tj/node-prune): 能够帮助移除 node_modules 中的不必要内容。

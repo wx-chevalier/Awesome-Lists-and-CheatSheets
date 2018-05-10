@@ -2,7 +2,7 @@
 
 # Development Tools
 
-* [Electron Forge #Project#](https://github.com/electron-userland/electron-forge): Electron Forge unifies the existing (and well maintained) build tools for Electron development into a simple, easy to use package so that anyone can jump right in to Electron development. 非常便捷的开箱即用的 Electron 开发全流程辅助工具。
+* [Electron Forge #Project#](https://github.com/electron-userland/electron-forge): Electron Forge unifies the existing (and well maintained) build tools for Electron development into a simple, easy to use package so that anyone can jump right in to Electron development. | 非常便捷的开箱即用的 Electron 开发全流程辅助工具。
 
 * [Electron Packager #Project#](https://github.com/electron-userland/electron-packager): Package your Electron app into OS-specific bundles (.app, .exe, etc.) via JavaScript or the command line.
 

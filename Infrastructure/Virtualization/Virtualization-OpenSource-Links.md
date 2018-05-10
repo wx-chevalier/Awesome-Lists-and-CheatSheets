@@ -6,10 +6,4 @@
 
 * [TinyVM #Project#](https://github.com/jakogut/tinyvm): TinyVM is a virtual machine with the goal of having a small footprint. Low memory usage, a small amount of code, and a small binary.
 
-<<<<<<< HEAD
 * [gVisor #Project#](https://github.com/google/gvisor): gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface.
-
----
-=======
-* [gVisor #Project#](https://github.com/google/gvisor): gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. 
->>>>>>> 49501245ed9ead6540410042db985c7fde29b315

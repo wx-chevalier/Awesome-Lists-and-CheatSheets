@@ -6,6 +6,12 @@
 
 * [大公司里怎样开发和部署前端代码](https://github.com/fouber/blog/issues/6)。
 
+# Resource | 资源
+
+## Book | 书籍
+
+* [SurviveJS - Webpack #Book#](https://survivejs.com/webpack/): SurviveJS - Webpack is meant for beginner to intermediate users of webpack.
+
 ## Tutorial | 教程
 
 * [2016-Getting Started with Webpack 2](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.3ksiast1f): At its simplest, webpack is a module bundler for your JavaScript. However, since its release it’s evolved into a manager of all your front-end code.
@@ -15,6 +21,8 @@
 * [2017-How to setup Webpack +2.0 from scratch in 2017 #Series#](https://medium.com/@wesharehoodies/simple-beginner-guide-for-webpack-2-0-from-scratch-part-v-495dba627718)
 
 * [2017-Webpack: A Detailed Introduction](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/): JavaScript module bundling has been around for a while. RequireJS had its first commits in 2009, then Browserify made its debut, and since then several other bundlers have spawned across the Internet. Among that group, webpack has jumped out as one of the best. If you’re not familiar with it, I hope this article will get you started with this powerful tool.
+
+* [WEBPACK - THE GOOD PARTS](https://presentations.survivejs.com/webpack-the-good-parts/#/00): What is Webpack, Developing, Building, Assets, Bundle/code Splitting, Analysis, Optimizing.
 
 # Configuration: 基础配置
 
@@ -48,7 +56,7 @@
 
 - [Web Performance Optimization with Webpack by Addy Osmani](https://parg.co/UXN): Taking advantage of its features for optimizing modern code, code-splitting scripts into critical and non-critical pieces and stripping out unused code.
 
-## Code Split: 代码分割
+## Code Split | 代码分割
 
 * [2017-Vendor and code splitting in webpack 2](https://medium.com/@adamrackis/vendor-and-code-splitting-in-webpack-2-6376358f1923#.4ma6usgf0)
 

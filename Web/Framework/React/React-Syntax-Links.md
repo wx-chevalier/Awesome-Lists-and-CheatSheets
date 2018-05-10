@@ -54,6 +54,8 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 * [2017-Atomic SetState Updates in React](https://alligator.io/react/getting-atomic-updates-with-setstate)
 
+* [2018-ReactStateMuseum](https://github.com/GantMan/ReactStateMuseum): A whirlwind tour of React state management systems by example.
+
 ## Context
 
 * [React’s ⚛️ new Context API](https://parg.co/UXl): It’s way more ergonomic, it’s no longer “experimental,” and it’s now a first-class api! OH, AND IT USES A RENDER PROP!

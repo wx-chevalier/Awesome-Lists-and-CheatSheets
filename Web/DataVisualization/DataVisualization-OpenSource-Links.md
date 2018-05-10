@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# DataVisualization OpenSource Links
+# DataVisualization OpenSource Links | 数据可视化开源工具索引
 
 * [Redash #Project#]()
 
@@ -23,3 +23,9 @@
 * [dom-to-image #Project#](https://github.com/tsayen/dom-to-image): Generates an image from a DOM node using HTML5 canvas
 
 * [html2canvas](https://github.com/niklasvh/html2canvas): The script allows you to take "screenshots" of webpages or parts of it, directly on the users browser.
+
+# Diagram
+
+## Heatmap | 热力图
+
+* [github-contributions-canvas #Project#](https://github.com/sallar/github-contributions-canvas): A tool for drawing a heat-map of Github contributions on HTML Canvas.

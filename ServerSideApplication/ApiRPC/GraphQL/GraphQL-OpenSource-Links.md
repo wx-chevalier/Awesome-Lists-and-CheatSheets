@@ -2,7 +2,13 @@
 
 # GraphQL OpenSource Links
 
-# Server
+# Schema
+
+* [graphql-tag #Project#](https://www.npmjs.com/package/graphql-tag): Helpful utilities for parsing GraphQL queries.
+
+# Server Side
+
+## Framework
 
 * [express-graphql #Project#](https://github.com/graphql/express-graphql): Facebook’s Express middleware released in 2015, alongside the official GraphQL spec and GraphQL.js reference implementation.
 
@@ -10,7 +16,7 @@
 
 * [graphql-yoga #Project#](https://github.com/graphcool/graphql-yoga): Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.
 
-# Automation
+## Automation
 
 * [Prisma #Project#](https://github.com/graphcool/prisma): Prisma turns your database into a realtime GraphQL API.
 
@@ -18,6 +24,10 @@
   This is a tool to generate API code or type annotations based on a GraphQL schema and query documents.
 
 * [PostGraphile #Project#](https://github.com/graphile/postgraphile): A GraphQL API created by reflection over a PostgreSQL schema.
+
+# Client
+
+* [Apollo Client #Project#](https://github.com/apollographql/apollo-client): A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 
 # Utility
 

@@ -1,6 +1,5 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
- 
- 
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
+
 # 服务端图片处理资料索引
 
 * [delivering-octicons-with-svg](https://github.com/blog/2112-delivering-octicons-with-svg):Github 决定用 SVG 取代 icon-fonts.
@@ -19,8 +18,8 @@
 
 - [node-imagemagick](https://github.com/yourdeveloper/node-imagemagick)
 
-- [Sharp #Project#]():  High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images.
+- [Sharp #Project#](): High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images.
 
 # Image Recognition
 
-- [Uber Image Diff](https://github.com/uber/image-diff)
+* [Uber Image Diff](https://github.com/uber/image-diff)

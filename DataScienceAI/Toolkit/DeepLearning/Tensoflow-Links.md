@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# TensorFlow Learning & Practices Links
+# TensorFlow Learning & Practices Links | TensorFlow 资料索引
 
 # Overview
 
@@ -31,3 +31,5 @@
 * [TensorFlow Project Template](https://github.com/Mrgemy95/ TensorFlow-Project-Template): A simple and well designed structure is essential for any Deep Learning project, so after a lot of practice and contributing in tensorflow projects here's a tensorflow project template that combines simplcity, best practice for folder structure and good OOP design.
 
 * [Deep-Learning-21-Examples](https://github.com/hzy46/Deep-Learning-21-Examples): 本工程是《21 个项目玩转深度学习———基于 TensorFlow 的实践详解》的配套代码，代码推荐的运行环境为：Ubuntu 14.04，Python 2.7、TensorFlow >= 1.4.0。请尽量使用类 UNIX 系统和 Python 2 运行本书的代码。
+
+---

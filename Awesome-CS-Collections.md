@@ -50,6 +50,8 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 * [Hackr](https://hackr.io/): Find the Best Programming Courses & Tutorials
 
+* [The Coding Train](https://www.youtube.com/user/shiffman/about): Subjects covered range from the basics of programming languages like JavaScript (with p5.js) and Java (with Processing) to generative algorithms like physics simulation, computer vision, and data visualization.
+
 # Software Engineering | 软件工程
 
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.

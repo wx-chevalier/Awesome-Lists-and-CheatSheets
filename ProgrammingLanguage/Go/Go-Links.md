@@ -38,7 +38,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 * [2016-Learning Go Programming #Book#](https://parg.co/b21): An insightful guide to learning the Go programming language
 
-* [2016-Go Web 编程 #Book#](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/)
+* [2016-Go Web 编程 #Book#](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/): Go web 编程是因为我喜欢 Web 编程,所以写了这本书,希望大家喜欢。English Version is [Build web application with Golang](https://legacy.gitbook.com/book/astaxie/build-web-application-with-golang/details).
 
 * [2016-深入解析 Go #Book#](https://tiancaiamao.gitbooks.io/go-internals/content/zh/): 因为自己对 Go 底层的东西比较感兴趣，所以抽空在写一本开源的书籍《深入解析 Go》。写这本书不表示我能力很强，而是我愿意分享，和大家一起分享对 Go 语言的内部实现的一些研究。
 
