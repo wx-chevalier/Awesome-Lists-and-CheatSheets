@@ -22,6 +22,8 @@
 
 * [Nodejs 线上服务稳定性保障体系](http://www.tuicool.com/articles/RRvQ7zi)
 
+- [2018-Switching from cluster module to PM2 & RabbitMQ in Node.js](https://medium.com/the-node-js-collection/switching-from-cluster-module-to-pm2-rabbitmq-in-node-js-d0cce5eb96f4): This blog will cover the reasons why I made this change and provide background on how and why I moved to PM2 & RabbitMQ.
+
 # Performance
 
 * [2017-Understanding & Measuring HTTP Timings with Node.js](https://blog.risingstack.com/measuring-http-timings-node-js/): This article explains timings in an HTTP request and shows how to measure them in Node.js.
