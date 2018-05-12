@@ -17,3 +17,5 @@
 # Tutorial
 
 * [A guide to developing an Ethereum decentralized voting application](https://medium.freecodecamp.org/developing-an-ethereum-decentralized-voting-application-a99de24992d9):  I will briefly go over Ethereum, but you probably should have an understanding of it to use this guide to the fullest.
+
+- [2018-How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369): I’ve added my own explanations and diagrams to make understanding Ethereum easier. 
