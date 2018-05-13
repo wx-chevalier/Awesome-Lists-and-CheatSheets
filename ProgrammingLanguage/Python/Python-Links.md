@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Python  Learning & Practices Links
+# Python Learning & Practices Links
 
 # Overview: 入门指引
 
@@ -8,7 +8,7 @@
 
 * [2017-Writing a basic x86-64 JIT compiler from scratch in stock Python](https://csl.name/post/python-jit/): In this post I'll show how to write a rudimentary, native x86-64 just-in-time compiler (JIT) in CPython, using only the built-in modules.
 
-## CheatSheet: 速览清单
+## CheatSheet | 速览清单
 
 * [Python Crash Course - Cheat Sheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html): A cheat sheet can be really helpful when you’re trying a set of exercises related to a specific topic, or working on a project.
 

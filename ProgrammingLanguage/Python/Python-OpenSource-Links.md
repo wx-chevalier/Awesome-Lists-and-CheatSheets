@@ -9,3 +9,5 @@
 - [json-sempai #Project#](https://github.com/kragniz/json-sempai):Use JSON files as Modules
 
 - [rebound #Project#](https://github.com/shobrook/rebound): Command-line tool that instantly fetches Stack Overflow results when you get a compiler error.
+
+- [Pyre #Project#](https://github.com/facebook/pyre-check): Pyre is a fast, scalable type checker for large python codebases, designed to help improve code quality and development speed by flagging type errors interactively in your terminal or favorite editor.

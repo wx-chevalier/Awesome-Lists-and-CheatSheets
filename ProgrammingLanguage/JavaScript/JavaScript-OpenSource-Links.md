@@ -25,3 +25,5 @@
 # Other
 
 * [Sweet #Project#](https://www.sweetjs.org/): Sweet brings the hygienic macros of languages like Scheme and Rust to JavaScript.
+
+* [js-worker-search #Project#](https://github.com/bvaughn/js-worker-search): JavaScript client-side search API with web-worker support

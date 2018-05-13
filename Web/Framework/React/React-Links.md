@@ -4,7 +4,7 @@
 
 This file aggregates curated popular links for learning React, Syntax, DevPractices, Production Tips, Internals, OpenSource, etc. More reference about ITCS can turn to [Awesome Links: Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Links), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
 
-# Overview
+# Overview | 概述
 
 * [2014-Removing-User-Interface-Complexity,-or-Why-React-is-Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
 
@@ -67,6 +67,8 @@ This file aggregates curated popular links for learning React, Syntax, DevPracti
 * [2016-Learning React with Create-React-App #Series#](https://parg.co/bhf)
 
 - [2016-A Primer on the React Ecosystem Serials](http://patternhatch.com/2016/07/06/a-primer-on-the-react-ecosystem-part-1-of-3/): I thought I’d share what I’ve learned so far through a primer. Over three parts, I’m going to show you how to set up an environment for React app development, create React components and have them respond to data changes, manage app state with Redux.
+
+- [2017-learncodeacademy/react-js-tutorials](https://github.com/learncodeacademy/react-js-tutorials): Code that goes along with my YouTube React JS Series.
 
 - [2017-Simple React Development in 2017](https://parg.co/bCx): The goal of this guide is to showcase how easy it can be to start modern React development.
 

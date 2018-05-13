@@ -12,7 +12,7 @@ This file aggregates curated popular links for learning GraphQL. More reference 
 
 * [2018-GraphQL at the REST-aurant](https://parg.co/UvI): A tasty introduction to GraphQL.
 
-* [2018-How GraphQL Replaces Redux](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d): GraphQL is a server side query language. Redux is a client-side state management library. How could one replace the other?
+* [2018-GraphQL: Everything You Need to Know](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8): The purpose of this article is to highlight the major features associated with GraphQL along with discussing the significant pros and cons associated with this particular API specification.
 
 ## vs REST
 
@@ -24,8 +24,9 @@ This file aggregates curated popular links for learning GraphQL. More reference 
 
 * [Give it a REST: use GraphQL for your APIs!](https://medium.com/@davidcelis/give-it-a-rest-use-graphql-for-your-apis-40a2761e6336#.4shk2q5lq)
 
-
 ## Case Study
+
+* [2018-How GraphQL Replaces Redux](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d): GraphQL is a server side query language. Redux is a client-side state management library. How could one replace the other?
 
 # Resource
 

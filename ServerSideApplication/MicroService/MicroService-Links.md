@@ -2,7 +2,9 @@
 
 # MicroService Links | 微服务模式设计与上层应用实践资料索引
 
-# Overview
+# Overview | 概述
+
+* [2016-架构的本质是管理复杂性，微服务本身也是架构演化的结果](https://parg.co/YUM): 我就职于携程旅游网框架研发部，有幸主导了携程服务化体系和无线 API 网关的建设，本分享基于我之前的实战经验，以及自己近期在业余时间对业界服务化最新进展的学习、思考和总结。
 
 * [2017-Evolution of Business Logic from Monoliths through Microservices, to Functions](http://6me.us/bR50k): Underlying technology advancements are creating a shift to event driven functions and radical improvements in time to value.
 
@@ -10,11 +12,9 @@
 
 * [2017-微服务架构(Microservice Architecture)总结](https://parg.co/b22)
 
-* [2016-Production Ready Microservices #Book#](https://parg.co/U6C): Susan Fowler presents a set of microservice standards in depth, drawing from her experience standardizing over a thousand microservices at Uber. You’ll learn how to design microservices that are stable, reliable, scalable, fault tolerant, performant, monitored, documented, and prepared for any catastrophe.
+- [2017-Microservices Links Architecture #Book#](https://parg.co/U6h): Learn how to connect, secure, and scale microservices in this free ebook.
 
-* [2017-Microservices Links Architecture #Book#](https://parg.co/U6h): Learn how to connect, secure, and scale microservices in this free ebook.
-
-- [2018-The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
+* [2018-The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
 
 ## Case Study | 案例分析
 
@@ -34,13 +34,15 @@
 
 - [2018-方圆－罗辑思维 Go 语言微服务改造实践](https://mp.weixin.qq.com/s/WtRcGWauZJ7gkwz23QIm4A): 曾在 Cisco 负责流媒体工作，在微博负责 feed 系统研发，三年游戏行业开发经验，现任罗辑思维首席架构师，主导罗辑思维微服务改造。
 
-# Resource
+# Resource | 资源
 
 ## Books
 
-* [2017-Re：从 0 开始的微服务架构 #Series#](http://www.infoq.com/cn/minibooks/microservice--from-zero): 系列文章就是将以上过程给大家做个分享，不深究概念，不深入细节，只希望能够对微服务架构能够有一个相对全面的认识，从而能够帮助大家成功落地微服务架构。
-
 * [2016-架构师特刊-微服务与 DevOps 技术内参 #Book#](http://q.infoqstatic.com/ppt/Microservice&DevOps.pdf)
+
+* [2016-Production Ready Microservices #Book#](https://parg.co/U6C): Susan Fowler presents a set of microservice standards in depth, drawing from her experience standardizing over a thousand microservices at Uber. You’ll learn how to design microservices that are stable, reliable, scalable, fault tolerant, performant, monitored, documented, and prepared for any catastrophe.
+
+* [2017-Re：从 0 开始的微服务架构 #Series#](http://www.infoq.com/cn/minibooks/microservice--from-zero): 系列文章就是将以上过程给大家做个分享，不深究概念，不深入细节，只希望能够对微服务架构能够有一个相对全面的认识，从而能够帮助大家成功落地微服务架构。
 
 ## Video
 

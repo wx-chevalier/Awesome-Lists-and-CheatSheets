@@ -1,22 +1,26 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-#  机器学习、深度学习与自然语言处理领域推荐的书籍列表
+# DataScienceAI Book Links | 机器学习、深度学习与自然语言处理领域推荐的书籍列表
 
-机器学习、深度学习与自然语言处理领域推荐的书籍列表是笔者 [Awesome Links ](http://6me.us/qvPQ) 系列的一部分；对于其他的资料、文章、视频教程、工具实践请参考[面向程序猿的数据科学与机器学习知识体系及资料合集](http://6me.us/2qZiOD)。本文算是抛砖引玉，笔者最近有空就会在 Pad 上面随手翻阅这些书籍，希望能够了解其他优秀的书籍。
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# 数学基础
+A curated list of Artificial Intelligence (AI) courses and books, aggerated with [DataScienceAI-Book-Links](./DataScienceAI-Book-Links.md) and [DataScienceAI-Course-Links](./DataScienceAI-Course-Links.md) from [Awesome-Links](https://github.com/wxyyxc1992/Awesome-Links).
+
+机器学习、深度学习与自然语言处理领域推荐的书籍列表是笔者 [Awesome Links](http://6me.us/qvPQ) 系列的一部分；对于其他的资料、文章、视频教程、工具实践请参考[面向程序猿的数据科学与机器学习知识体系及资料合集](http://6me.us/2qZiOD)。本文算是抛砖引玉，笔者最近有空就会在 Pad 上面随手翻阅这些书籍，希望能够了解其他优秀的书籍。
+
+# Mathematics | 数学基础
 
 * [2010-All of Statistics: A Concise Course in Statistical Inference #Book#](http://read.pudn.com/downloads158/ebook/702714/Larry%20Wasserman_ALL%20OF%20Statistics.pdf): The goal of this book is to provide a broad background in probability and statistics for students in statistics, Computer science (especially data mining and machine learning), mathematics, and related disciplines.
 
 * [2008-统计学完全教程](https://drive.wps.cn/view/l/ea00dc2e829f41ec8fd7c5995c41bfc9)：由美国当代著名统计学家 L·沃塞曼所著的《统计学元全教程》是一本几乎包含了统计学领域全部知识的优秀教材。本书除了介绍传统数理统计学的全部内容以外，还包含了 Bootstrap 方法（自助法）、独立性推断、因果推断、图模型、非参数回归、正交函数光滑法、分类、统计学理论及数据挖掘等统计学领域的新方法和技术。本书不但注重概率论与数理统计基本理论的阐述，同时还强调数据分析能力的培养。本书中含有大量的实例以帮助广大读者快速掌握使用 R 软件进行统计数据分析。
 
-# 机器学习
+# Machine Learning | 机器学习
 
 * [2007-Pattern Recognition And Machine Learning #Book#](https://book.douban.com/subject/2061116/): The book is suitable for courses on machine learning, statistics, computer science, signal processing, computer vision, data mining, and bioinformatics.
 
 * [2012 - Machine Learning A Probabilistic Perspective #Book#](https://drive.wps.cn/view/l/8a5acb26d91f4008b425430eae8565fb): This textbook offers a comprehensive and self-contained introduction to the field of machine learning, a unified, probabilistic approach. The coverage combines breadth and depth, offering necessary background material on such topics as probability, optimization, and linear algebra as well as discussion of recent developments in the field, including conditional random fields, L1 regularization, and deep learning.
 
-* [2012-李航:统计方法学](https://drive.wps.cn/view/l/ccfc95e5c9ba42db8cbcbb6507d85d1d)：李航老师的这本书偏优化和推倒，推倒相应算法的时候可以参考这本书。
+* [2012-李航-统计方法学 #Book#](https://drive.wps.cn/view/l/ccfc95e5c9ba42db8cbcbb6507d85d1d)：李航老师的这本书偏优化和推倒，推倒相应算法的时候可以参考这本书。
 
 - [2014-DataScience From Scratch #Book#](https://drive.wps.cn/view/l/5f44c391b0d74b798122ebb4655cad22): In this book, you’ll learn how many of the most fundamental data science tools and algorithms work by implementing them from scratch.
 
@@ -38,17 +42,15 @@
 
 * [2014 - DataScience From Scratch](https://drive.wps.cn/view/l/5f44c391b0d74b798122ebb4655cad22)
 
-* [2012 - 李航 : 统计方法学](https://drive.wps.cn/view/l/ccfc95e5c9ba42db8cbcbb6507d85d1d)
+* [2015-Data Mining, The Textbook](https://drive.wps.cn/view/l/57c1ef99942b4cb789ed464a189df6c0)
 
-* [2015 - Data Mining, The Textbook](https://drive.wps.cn/view/l/57c1ef99942b4cb789ed464a189df6c0)
+* [2016-周志华-机器学习](https://drive.wps.cn/view/l/004e86e89e4347fcb1e10569a35295a3)
 
-* [2016 - 周志华 机器学习](https://drive.wps.cn/view/l/004e86e89e4347fcb1e10569a35295a3)
+* [2012-Machine Learning A Probabilistic Perspective #Book#](https://drive.wps.cn/view/l/8a5acb26d91f4008b425430eae8565fb)
 
-* [2012 - Machine Learning A Probabilistic Perspective ](https://drive.wps.cn/view/l/8a5acb26d91f4008b425430eae8565fb)
+* [2018-AndrewNG-Machine Learning Yearning #Book#](http://www.mlyearning.org/): This book is focused not on teaching you ML algorithms, but on how to make ML algorithms work. Some technical AI classes will give you a hammer; this book teaches you how to use the hammer.
 
-* [2012 - 深入浅出机器学习 中文版](https://drive.wps.cn/view/l/215ff72bda3f4054b1b7e50fc9a2ee30)
-
-# 深度学习
+# DeepLearning | 深度学习
 
 * [2015-The Deep Learning Textbook #Book#](http://www.deeplearningbook.org/):中文译本[这里](https://exacity.github.io/deeplearningbook-chinese/Chapter1_introduction/)，The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free.
 
@@ -60,7 +62,7 @@
 
 * [Oxford Deep NLP 2017 course【Course】](https://github.com/oxford-cs-deepnlp-2017/lectures): This is an advanced course on natural language processing. Automatically processing natural language inputs and producing language outputs is a key component of Artificial General Intelligence.
 
-# 自然语言处理
+# NLP | 自然语言处理
 
 * [2016 - CS224d: Deep Learning for Natural Language Processing【Course】](http://cs224d.stanford.edu/syllabus.html)
 
@@ -81,3 +83,5 @@
 - Data Science at the Command Line — Janssens:  在介绍本书之前首先要强调下，千万不要畏惧编程，学习些简单的编程知识能够有助于你做更多有趣的事。你可以自己去获取、清洗、转化或者分析你的数据。不过我也不会一上来就扔出大堆的编程知识，我建议还是从简单的命令行操作开始学起，而本书正是介绍如何只用命令行就帮你完成些数据科学的任务。
 - Python for Data Analysis — McKinney: Python 算是近几年来非常流行的数据分析的语言了吧，人生苦短，请用 Python。这本书算是个大部头了，有 400 多页吧，不过它首先为你介绍了 Python 的基础语法，因此学起来不会很困难吧。
 - I heart logs — Jay Kreps:  最后一本书则是短小精悍，加起来才 60 多页吧。不过它对于数据收集和处理的技术背景有很好的概述，虽然很多分析家或者数据科学家并不会直接用到这些知识，但是至少你能够理解技术人员们可以用哪些架构去解决数据问题。
+
+---

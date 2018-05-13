@@ -88,6 +88,10 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 * [2017-The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://parg.co/bIL)
 
+## Interactive Learning | 交互式学习
+
+* [WarriorJS #Project#](https://github.com/olistic/warriorjs): An exciting game of programming and Artificial Intelligence.
+
 # Tutorial
 
 * [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html): This book is about two versions of JavaScript: ECMAScript 2018 and ECMAScript 2019.

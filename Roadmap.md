@@ -2,6 +2,9 @@
 
 # Milestone 0.2
 
+* [ ] DataScience-Book-Links
+  * [ ] https://github.com/rohanchikorde/Data-Science-books
+
 # Milestone 0.1
 
 * [ ] 文件目录二次规整，规范所有文档的目录结构与内容
@@ -29,6 +32,7 @@
 
   * [ ] 发布 Book 与 Course 混合
   * [ ] 发布 Model 与 OpenSource 混合
+  * [ ] https://github.com/owainlewis/awesome-artificial-intelligence#courses
 
 * [ ] 整理 Web Widgets 相关 Links
 
