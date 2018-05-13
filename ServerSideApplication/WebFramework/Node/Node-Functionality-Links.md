@@ -1,0 +1,1 @@
+- [Using ES6 classes for Sequelize 4 models](https://hackernoon.com/using-es6-classes-for-sequelize-4-models-b9fd54a5f8c9?source=linkShare-fe48c4221a4c-1526129263)
