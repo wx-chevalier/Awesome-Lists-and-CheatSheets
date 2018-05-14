@@ -77,6 +77,8 @@
 
 * [2017-go-algorithms #Project#](https://github.com/0xAX/go-algorithms): Algorithms and data structures for golang.
 
+- [2018-DataViz #Project#](https://github.com/Arafatk/DataViz?files=1): Build and visualize data structures in Golang. 
+
 # Rust
 
 * [2017-Common data structures and algorithms in Rust #Project#](https://github.com/EbTech/rust-algorithms): A collection of classic data structures and algorithms, emphasizing beauty and clarity over full generality.
