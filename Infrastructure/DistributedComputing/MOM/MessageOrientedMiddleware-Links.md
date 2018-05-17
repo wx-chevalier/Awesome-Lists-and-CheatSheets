@@ -35,7 +35,7 @@
 
 * [2017-View Counting at Reddit](https://parg.co/bJE): Reddit’s data pipeline is primarily oriented around Apache Kafka. When a user views a post, an event gets fired and sent to an event collector server, which batches the events and persists them into Kafka.
 
-* [Kafka 设计解析（六）- Kafka 高性能架构之道](http://www.jasongj.com/kafka/high_throughput/)
+* [Kafka 设计解析(六)- Kafka 高性能架构之道](http://www.jasongj.com/kafka/high_throughput/)
 
 * [Benchmarking Kafka Performance #Series#](https://hackernoon.com/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1)：a series that explores Kafka performance on multiple public cloud providers. [Part 1: Write Throughput](https://hackernoon.com/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1)
 

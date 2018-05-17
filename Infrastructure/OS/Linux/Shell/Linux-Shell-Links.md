@@ -2,25 +2,21 @@
 
 # Linux Shell Links
 
-* [bash-handbook](https://github.com/denysdovhan/bash-handbook)
-
 * [2016-Shell 编程之执行过程](https://parg.co/UT0)
 
-* [Shell Style Guide](https://google.github.io/styleguide/shell.xml)
+* [Google-Shell Style Guide](https://google.github.io/styleguide/shell.xml): Shell Files and Interpreter Invocation, Environment, Comments, Formatting, Features and Bugs, Naming Conventions, Calling Commands, Conclusion.
 
-* [Bash-Beginners-Guide #Book#](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_01_01.html)
+- [shell 中 >/dev/null 2>&1 是什么鬼？](http://www.kissyu.org/2016/12/25/shell%E4%B8%AD%3E%20:dev:null%202%20%3E%20&1%E6%98%AF%E4%BB%80%E4%B9%88%E9%AC%BC%EF%BC%9F/)
 
-* [shell 中 >/dev/null 2>&1 是什么鬼？](http://www.kissyu.org/2016/12/25/shell%E4%B8%AD%3E%20:dev:null%202%20%3E%20&1%E6%98%AF%E4%BB%80%E4%B9%88%E9%AC%BC%EF%BC%9F/)
+- [Explain Shell](http://www.explainshell.com/)
 
-* [Explain Shell](http://www.explainshell.com/)
+- [the-art-of-command-line](https://parg.co/bXZ): Master the command line, in one page.
 
-* [the-art-of-command-line](https://parg.co/bXZ): Master the command line, in one page.
+- [2017-Bash-Snippets #Project# ](https://github.com/alexanderepstein/Bash-Snippets): A collection of small bash scripts for heavy terminal users.
 
-* [2017-Bash-Snippets #Project# ](https://github.com/alexanderepstein/Bash-Snippets): A collection of small bash scripts for heavy terminal users.
+- [2017-Linux 下容易被忽视的那些命令用法](https://parg.co/b2E)
 
-* [2017-Linux 下容易被忽视的那些命令用法](https://parg.co/b2E)
-
-* [How Do I Find The Largest Top 10 Files and Directories On a Linux / UNIX / BSD?](http://www.cyberciti.biz/faq/how-do-i-find-the-largest-filesdirectories-on-a-linuxunixbsd-filesystem/)
+- [How Do I Find The Largest Top 10 Files and Directories On a Linux / UNIX / BSD?](http://www.cyberciti.biz/faq/how-do-i-find-the-largest-filesdirectories-on-a-linuxunixbsd-filesystem/)
 
 # System & Process
 

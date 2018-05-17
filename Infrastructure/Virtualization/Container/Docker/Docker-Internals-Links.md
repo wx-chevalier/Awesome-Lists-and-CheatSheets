@@ -2,7 +2,7 @@
 
 # Docker Internals Links | Docker 内部原理资料索引
 
-* [手把手教你写 Docker](https://parg.co/UvM): 模拟 Docker 实现一个简单的容器不到 200 行代码（包括空行、注释、异常处理）。
+* [手把手教你写 Docker](https://parg.co/UvM): 模拟 Docker 实现一个简单的容器不到 200 行代码(包括空行、注释、异常处理)。
 
 * [rubber-docker #Project#](https://github.com/Fewbytes/rubber-docker): A workshop on Linux containers: Rebuild Docker from Scratch
 

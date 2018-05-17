@@ -18,7 +18,9 @@
 
 ## Book
 
-* [bash-handbook](https://github.com/denysdovhan/bash-handbook)
+* [bash-handbook #Book#](https://github.com/denysdovhan/bash-handbook)
+
+* [Bash-Beginners-Guide #Book#](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_01_01.html)
 
 ## Course
 

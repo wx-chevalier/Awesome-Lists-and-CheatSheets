@@ -1,5 +1,11 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
+# Web Gallery Widgets Links
+
+* [2017-react-imgpro #Project# ](https://github.com/nitin42/react-imgpro): Image Processing Component for React.
+
+- [react-content-loader #Project#](https://github.com/danilowoz/react-content-loader): React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders.
+
 # Carousel: 走马灯
 
 * [2017-A Content Slider](https://inclusive-components.design/a-content-slider/): Here, we shall be creating something that fulfills the basic purpose of a carousel — to allow the traversal of content along a horizontal axis — without being too reverential about the characteristics of past implementations.

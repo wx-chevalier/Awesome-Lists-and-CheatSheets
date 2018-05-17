@@ -10,11 +10,13 @@
 
 - [5 亿整数的大文件，怎么排？](http://www.tuicool.com/articles/ui2Qjyz)
 
+- [2018-Algorithms Behind Modern Storage Systems](https://queue.acm.org/detail.cfm?id=3220266): Different uses for read-optimized B-trees and write-optimized LSM-trees.
+
 # B-Tree
 
 * [B- 树、B+ 树、B\* 树的区别](http://blog.csdn.net/dazhong159/article/details/7963846/)
 
-* [B 树（B-Tree ）的由来、数据结构、基本操作以及数据库索引的应用](http://www.cnblogs.com/yanghuahui/p/3483047.html)
+* [B 树(B-Tree )的由来、数据结构、基本操作以及数据库索引的应用](http://www.cnblogs.com/yanghuahui/p/3483047.html)
 
 * [B- 树和 B+ 树的应用：数据搜索和数据库索引 ](http://blog.csdn.net/hguisu/article/details/7786014)
 

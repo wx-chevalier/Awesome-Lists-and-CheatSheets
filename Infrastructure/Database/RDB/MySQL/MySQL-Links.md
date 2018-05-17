@@ -10,7 +10,7 @@
 
 * [MySQL 线程池内幕](https://my.oschina.net/andylucc/blog/820624)：在 MySQL 中，线程池指的是用来管理处理 MySQL 客户端连接任务的线程的一种机制，我厂用的 percona 版本已经是集成了线程池，只需要通过如下参数开启即可。
 
-* [MySQL 锁系列（七）之 锁算法详解](https://parg.co/bXN)
+* [MySQL 锁系列(七)之 锁算法详解](https://parg.co/bXN)
 
 * [InnoDB 存储引擎体系架构](https://segmentfault.com/a/1190000004673132)
 
@@ -40,7 +40,7 @@
 
 ## Tool: 辅助工具
 
-* [2017-SQLAdvisor](http://6me.us/cULIo3): SQLAdvisor 是由美团点评公司技术工程部 DBA 团队（北京）开发维护的一个分析 SQL 给出索引优化建议的工具。它基于 MySQL 原生态词法解析，结合分析 SQL 中的 where 条件、聚合条件、多表 Join 关系 给出索引优化建议。目前 SQLAdvisor 在美团点评内部广泛应用，公司内部对 SQLAdvisor 的开发全面转到 github 上，开源和内部使用保持一致。
+* [2017-SQLAdvisor](http://6me.us/cULIo3): SQLAdvisor 是由美团点评公司技术工程部 DBA 团队(北京)开发维护的一个分析 SQL 给出索引优化建议的工具。它基于 MySQL 原生态词法解析，结合分析 SQL 中的 where 条件、聚合条件、多表 Join 关系 给出索引优化建议。目前 SQLAdvisor 在美团点评内部广泛应用，公司内部对 SQLAdvisor 的开发全面转到 github 上，开源和内部使用保持一致。
 
 # Performance: 性能优化
 
@@ -70,6 +70,6 @@
 
 # Distributed Cluster: 分布式集群
 
-* [MySQL Group Replication 官方文档中文版](http://storage.360buyimg.com/brickhaha/Mysql.pdf)：MySQL Group Replication（简称 MGR）是 MySQL 官方于 2016 年 12 月推出的一个全新的高可用与高扩展的解决方案。MySQL 组复制提供了高可用、高扩展、高可靠的 MySQL 集群服务。
+* [MySQL Group Replication 官方文档中文版](http://storage.360buyimg.com/brickhaha/Mysql.pdf)：MySQL Group Replication(简称 MGR)是 MySQL 官方于 2016 年 12 月推出的一个全新的高可用与高扩展的解决方案。MySQL 组复制提供了高可用、高扩展、高可靠的 MySQL 集群服务。
 
 * [2017-五大常见的 MySQL 高可用方案](https://zhuanlan.zhihu.com/p/25960208)：这里只讨论常用高可用方案的优缺点以及高可用方案的选型。

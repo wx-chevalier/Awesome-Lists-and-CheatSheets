@@ -76,9 +76,9 @@
 
 * [《ECMAScript 6 入门：generator 》](http://es6.ruanyifeng.com/#docs/generator)
 
-* [深入浅出 ES6（三）：生成器 Generators](http://www.infoq.com/cn/articles/es6-in-depth-generators)
+* [深入浅出 ES6(三)：生成器 Generators](http://www.infoq.com/cn/articles/es6-in-depth-generators)
 
-* [深入浅出 ES6（十一）：生成器 Generators，续篇](http://www.infoq.com/cn/articles/es6-in-depth-generators-continued)
+* [深入浅出 ES6(十一)：生成器 Generators，续篇](http://www.infoq.com/cn/articles/es6-in-depth-generators-continued)
 
 ## this
 

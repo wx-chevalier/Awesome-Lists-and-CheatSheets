@@ -4,37 +4,37 @@
 
 * [2017-React Internals](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/): In this five part series, we will “recreate” React from the ground up, learning how it works along the way. Once we’ve finished, you should have a good grasp of how React works, and when and why it calls the various lifecycle methods of a component.
 
-- [Understanding The React Source Code #Series#](https://parg.co/UVD): From time to time, I was curious about how React works internally, hence this article.
+- [2017-Understanding The React Source Code #Series#](https://parg.co/UVD): From time to time, I was curious about how React works internally, hence this article.
 
-- [Didact](https://github.com/hexacta/didact): This repository goes together with a series of posts that explains how to build React from scratch step by step.
-
-# Component System
-
-* [The React and React Native Event System Explained: A Harmonious Coexistence](https://parg.co/UDq): You’re using it. You’re liking it. But did you know what React’s event handler is doing under the hood?
+- [2017-Didact](https://github.com/hexacta/didact): This repository goes together with a series of posts that explains how to build React from scratch step by step.
 
 # Virtual DOM
 
+* [2013-Performance Calendar: React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
+
 * [2017-react diff 原理](https://cloud.tencent.com/community/article/654179001489391651?fromSource=gwzcw.114428.114428.114428)：React diff 作为 Virtual DOM 的加速器，其算法上的改进优化是 React 整个界面渲染的基础，以及性能提高的保障，同时也是 React 源码中最神秘、最不可思议的部分，本文将剖析 React diff 的不可思议之处。
 
-* [Performance Calendar:React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
+- [React 源码剖析系列 － 不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379?refer=purerender)
 
-* [React 源码剖析系列 － 不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379?refer=purerender)
+- [React 源码剖析系列 － 解密 setState](https://zhuanlan.zhihu.com/p/20328570?refer=purerender)
 
-* [React 源码剖析系列 － 解密 setState](https://zhuanlan.zhihu.com/p/20328570?refer=purerender)
+- [深入浅出 React(四)：虚拟 DOM Diff 算法解析](http://www.infoq.com/cn/articles/react-dom-diff)
 
-* [深入浅出 React（四）：虚拟 DOM Diff 算法解析](http://www.infoq.com/cn/articles/react-dom-diff)
+- [ReactJS | Learning Virtual DOM and React Diff Algorithm](http://www.oyecode.com/2015/09/reactjs-learning-virtual-dom-and-react.html)
 
-* [ReactJS | Learning Virtual DOM and React Diff Algorithm](http://www.oyecode.com/2015/09/reactjs-learning-virtual-dom-and-react.html)
+- [So-You-Want-To-Be-A-Functional-Programmer](http://62f7d6c2.fromwiz.com/share/s/1yZZr21Yv4w42GorJm0oBXEi3AKTQa3rcARz2nKoQ71RpX_Z)
 
-* [So-You-Want-To-Be-A-Functional-Programmer](http://62f7d6c2.fromwiz.com/share/s/1yZZr21Yv4w42GorJm0oBXEi3AKTQa3rcARz2nKoQ71RpX_Z)
+- [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
 
-* [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
+- [virtual-dom](https://github.com/Matt-Esch/virtual-dom)
 
-* [virtual-dom](https://github.com/Matt-Esch/virtual-dom)
+- [The Secrets of React’s virtual DOM](http://fluentconf.com/fluent2014/public/schedule/detail/32395)
 
-* [The Secrets of React’s virtual DOM](http://fluentconf.com/fluent2014/public/schedule/detail/32395)
+- [Why is React’s concept of virtual DOM said to be moreperformant than dirty model checking?](http://stackoverflow.com/questions/21109361/why-is-reacts-concept-of-virtual-dom-said-to-be-more-performant-than-dirty-mode)
 
-* [Why is React’s concept of virtual DOM said to be moreperformant than dirty model checking?](http://stackoverflow.com/questions/21109361/why-is-reacts-concept-of-virtual-dom-said-to-be-more-performant-than-dirty-mode)
+# Component System | 组件系统
+
+* [The React and React Native Event System Explained: A Harmonious Coexistence](https://parg.co/UDq): You’re using it. You’re liking it. But did you know what React’s event handler is doing under the hood?
 
 # Stack Reconciler
 
@@ -62,7 +62,7 @@
 
 * [2017-React Fiber 是什么](https://zhuanlan.zhihu.com/p/26027085)：React Fiber 这个大改变 Facebook 已经折腾两年多了，刚刚结束不久的 React Conf 2017 会议上，Facebook 终于确认，React Fiber 会搭上 React 下一个大版本 v16 的顺风车发布。
 
-* [2017-React 新引擎 React Fiber 究竟要解决什么问题？](https://parg.co/btw)： Facebook 正在以流行的 JavaScript 框架 React 为基础开发一个全新的架构。这个名为 React Fiber 的全新设计改变了检测变更的方法和时机，借此可改进浏览器端和其他渲染设备的响应速度。 这一 全新架构 最初已于 2016 年 7 月公开发布，其中蕴含着过去多年来 Facebook 不断改进的工作成果。该架构可向后兼容，彻底重写了 React 的协调（Reconciliation ）算法。该过程可用于确定出现变更的具体时间，并将变更传递给渲染器。
+* [2017-React 新引擎 React Fiber 究竟要解决什么问题？](https://parg.co/btw)： Facebook 正在以流行的 JavaScript 框架 React 为基础开发一个全新的架构。这个名为 React Fiber 的全新设计改变了检测变更的方法和时机，借此可改进浏览器端和其他渲染设备的响应速度。 这一 全新架构 最初已于 2016 年 7 月公开发布，其中蕴含着过去多年来 Facebook 不断改进的工作成果。该架构可向后兼容，彻底重写了 React 的协调(Reconciliation )算法。该过程可用于确定出现变更的具体时间，并将变更传递给渲染器。
 
 * [2017-React Conf: A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs)
 

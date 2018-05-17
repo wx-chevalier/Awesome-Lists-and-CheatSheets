@@ -12,6 +12,6 @@
 
 * [machine-learning-with-python-logistic](http://aimotion.blogspot.jp/2011/11/machine-learning-with-python-logistic.html): 基于 Python 的 Logistic 回归
 
-- [机器学习算法与 Python 实践之（七）逻辑回归（Logistic Regression ）](http://blog.csdn.net/zouxy09/article/details/20319673)
+- [机器学习算法与 Python 实践之(七)逻辑回归(Logistic Regression )](http://blog.csdn.net/zouxy09/article/details/20319673)
 
 - [using-machine-learning-detect-malicious-urls](http://fsecurify.com/using-machine-learning-detect-malicious-urls/): 基于 Logistic Regression 对于潜在垃圾链接进行识别

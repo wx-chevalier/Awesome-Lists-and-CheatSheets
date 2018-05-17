@@ -8,7 +8,7 @@
 
 * [树形 DP 总结](http://blog.csdn.net/lmyclever/article/details/6667412)
 
-* [树形动态规划（树形 DP）入门问题 — 初探 & 训练 ](http://blog.csdn.net/txl199106/article/details/45372337)
+* [树形动态规划(树形 DP)入门问题 — 初探 & 训练 ](http://blog.csdn.net/txl199106/article/details/45372337)
 
 - [动态规划线性 DP 总结](http://www.cnblogs.com/shangyu/category/371886.html)
 

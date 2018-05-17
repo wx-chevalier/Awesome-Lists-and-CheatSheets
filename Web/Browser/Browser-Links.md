@@ -8,6 +8,6 @@
 
 # Browser Feature Detection: 浏览器特征检测
 
-* [天猫双 11 前端分享系列（七）：如何精确识别终端](https://github.com/tmallfe/tmallfe.github.io/issues/32)
+* [天猫双 11 前端分享系列(七)：如何精确识别终端](https://github.com/tmallfe/tmallfe.github.io/issues/32)
 
 * [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)

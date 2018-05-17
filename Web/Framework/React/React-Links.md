@@ -2,35 +2,39 @@
 
 # Ultimate Links for Learning React in 2018, from Zero to Hero
 
-This file aggregates curated popular links for learning React, Syntax, DevPractices, Production Tips, Internals, OpenSource, etc. More reference about ITCS can turn to [Awesome Links: Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Links), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
+This file aggregates curated popular links for learning [React, Syntax, DevPractices, Production Tips, Internals, OpenSource](https://github.com/wxyyxc1992/Awesome-Reference/blob/master/Web/Framework/React), etc. More reference about ITCS can turn to [Awesome Links: Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Links), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
+
+Source files are hosted in [Github](https://github.com/wxyyxc1992/Awesome-Reference/blob/master/Web/Framework/React), PRs Welcome.
+
+如果想了解更多关于 Redux、MobX 等相关生态系统的资料，同样可以查看 [Awesome Links]() 中的 [Redux Links](https://parg.co/Yds) 与 [MobX Links](https://github.com/wxyyxc1992/Awesome-Links/blob/master/Web/Framework/MobX/MobX-Links.md) 等内容。
 
 # Overview | 概述
 
+## Concept | 概念阐述
+
 * [2014-Removing-User-Interface-Complexity,-or-Why-React-is-Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
-
-* [2016-React Howto](https://github.com/petehunt/react-howto): Throughout this document, I’ll assume you’ve built a web page with HTML, CSS and JavaScript.
-
-- [2017-All the fundamental React.js concepts, jammed into this single Medium article](https://parg.co/bzp): This article is not going to cover what React is or why you should learn it. Instead, this is a practical introduction to the fundamentals of React.js for those who are already familiar with JavaScript and know the basics of the DOM API.
-
-* [2018-揭秘 React 生态体系](https://zhuanlan.zhihu.com/p/26270621): React 可以说是目前为止最热门，生态最完善，应用范围最广的前端框架。React 结合它的整个生态，它可以横跨 web 端，移动端，服务器端，乃至 VR 领域。
-
-## Concept
 
 * [2016-Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html): One of the many great parts of React is how it makes you think about apps as you build them. In this document, we'll walk you through the thought process of building a searchable product data table using React.
 
 - [2017-Things nobody will tell you about React.js](https://parg.co/bNg)
 
-- [2018-React 是怎样炼成的](https://segmentfault.com/a/1190000013365426): 本文主要讲述 React 的诞生过程和优化思路。内容整理自 2014 年的 OSCON - React Architecture by vjeux，虽然从今天（2018）来看可能会有点历史感，但仍然值得学习了解。以史为鉴，从中也可以管窥 Facebook 优秀的工程管理文化。
+- [2018-React 是怎样炼成的](https://segmentfault.com/a/1190000013365426): 本文主要讲述 React 的诞生过程和优化思路。内容整理自 2014 年的 OSCON - React Architecture by vjeux，虽然从今天(2018)来看可能会有点历史感，但仍然值得学习了解。以史为鉴，从中也可以管窥 Facebook 优秀的工程管理文化。
 
-* [2017-react-aha-moments](https://tylermcginnis.com/react-aha-moments/): One of my main goals whenever I’m teaching or writing technical content is to maximize “aha” moments. An “aha” moment is a moment of sudden insight or clarity; when the subject matter suddenly makes sense. We’ve all experienced them and the best teachers I know are able to understand their audience and adapt the lesson in order to maximize these moments.
+- [2016-React "Aha" Moments](https://tylermcginnis.com/react-aha-moments/): So what I want to do in this post is share my collection of these moments while also adding my thoughts on some of the moments shared in that Reddit thread.
 
-## Case Study
+## Ecosystem | 生态圈
+
+* [2016-A Primer on the React Ecosystem Serials](http://patternhatch.com/2016/07/06/a-primer-on-the-react-ecosystem-part-1-of-3/): I thought I’d share what I’ve learned so far through a primer. Over three parts, I’m going to show you how to set up an environment for React app development, create React components and have them respond to data changes, manage app state with Redux.
+
+- [2018-揭秘 React 生态体系](https://zhuanlan.zhihu.com/p/26270621): React 可以说是目前为止最热门，生态最完善，应用范围最广的前端框架。React 结合它的整个生态，它可以横跨 web 端，移动端，服务器端，乃至 VR 领域。
+
+## Case Study | 案例分析
 
 * [2016-Moving Airbnb Search to React](http://6me.us/2mS): Using experiments to tackle a large refactor with confidence
 
-# Resource
+# Resource | 资源
 
-## Book
+## Book | 书籍
 
 * [2016-React In-depth: An exploration of UI development #Book#](https://www.gitbook.com/book/developmentarc/react-indepth/details):Our goal with this GitBook is to document our process, share our research and try to organize our experiences into a single living document. Too be honest, this is a pretty lofty goal. We may not achieve this goal, but hopefully we can get some helpful thoughts down.
 
@@ -50,11 +54,13 @@ This file aggregates curated popular links for learning React, Syntax, DevPracti
 
 - [2018-React in patterns #Book#](https://legacy.gitbook.com/book/krasimir/react-in-patterns/details): A book about common design patterns used while developing with React. It includes techniques for composition, data flow, dependency management and more.
 
-## Course & Conf
+## Course & Conf | 课程与会议
 
 * [2017 React 大会](http://conf.reactjs.org/livestream)：2017 年 React Conf 于 3 月 13 日、14 日成功举办，会上来自世界各地的开发者就 React Fiber、Flow 、 Performance、React Native 等多个主题发表了演说与讨论，推荐选择自己喜欢的演讲视频观看。
 
-## Collection
+* [2017-learncodeacademy/react-js-tutorials](https://github.com/learncodeacademy/react-js-tutorials): Code that goes along with my YouTube React JS Series.
+
+## Collection | 集合
 
 * [Awesome-React #Collection#](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem.
 
@@ -62,21 +68,15 @@ This file aggregates curated popular links for learning React, Syntax, DevPracti
 
 - [Using forms in React-Redux: Tips And Tricks #Collection#](https://medium.com/@royisch/using-forms-in-react-redux-tips-and-tricks-48ad9c7522f6#.krt2lrdhw)
 
-# Tutorial
+# Tutorial | 教程
 
 * [2016-Learning React with Create-React-App #Series#](https://parg.co/bhf)
 
-- [2016-A Primer on the React Ecosystem Serials](http://patternhatch.com/2016/07/06/a-primer-on-the-react-ecosystem-part-1-of-3/): I thought I’d share what I’ve learned so far through a primer. Over three parts, I’m going to show you how to set up an environment for React app development, create React components and have them respond to data changes, manage app state with Redux.
-
-- [2017-learncodeacademy/react-js-tutorials](https://github.com/learncodeacademy/react-js-tutorials): Code that goes along with my YouTube React JS Series.
+* [2016-React Howto](https://github.com/petehunt/react-howto): Throughout this document, I’ll assume you’ve built a web page with HTML, CSS and JavaScript.
 
 - [2017-Simple React Development in 2017](https://parg.co/bCx): The goal of this guide is to showcase how easy it can be to start modern React development.
 
-- [2017-Create a realtime football voting app using React, Redux, React-Router-v4 and Firebase](https://parg.co/bhD): In this series of tutorials, we’ll be creating a football voting app using React, Redux, Redux-Saga, React-Router v4, and Firebase. In this first part, we will setup the project. We’re going to use create-react-app to scaffold the initial project structure, tweak it a bit, and then add the necessary libraries that we’ll be using.
-
-- [2017-How to Build a ToDo App Using React, Redux, and Webpack](https://parg.co/bMT): In this tutorial I’m going to show you how to create a simple “ToDo” app using React, Redux, a little bit of Node, and Cosmic JS.
-
-- [2017-A React TODOs example, explained](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)
+* [2017-All the fundamental React.js concepts, jammed into this single Medium article](https://parg.co/bzp): This article is not going to cover what React is or why you should learn it. Instead, this is a practical introduction to the fundamentals of React.js for those who are already familiar with JavaScript and know the basics of the DOM API.
 
 - [2018-Rock Solid React.js Foundations: A Beginner’s Guide](https://parg.co/Uv3): this post is aimed towards the audience who is looking for a perfect mix of theory and hands-on.
 
@@ -84,7 +84,13 @@ This file aggregates curated popular links for learning React, Syntax, DevPracti
 
 ## Showcases
 
-* [react-kanban #Project#](https://github.com/yogaboll/react-kanban): A Trello-like application built with React and Redux.
+* [2017-A React TODOs example, explained](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)
+
+* [2017-Create a realtime football voting app using React, Redux, React-Router-v4 and Firebase](https://parg.co/bhD): In this series of tutorials, we’ll be creating a football voting app using React, Redux, Redux-Saga, React-Router v4, and Firebase. In this first part, we will setup the project. We’re going to use create-react-app to scaffold the initial project structure, tweak it a bit, and then add the necessary libraries that we’ll be using.
+
+- [2017-How to Build a ToDo App Using React, Redux, and Webpack](https://parg.co/bMT): In this tutorial I’m going to show you how to create a simple “ToDo” app using React, Redux, a little bit of Node, and Cosmic JS.
+
+* [2018-react-kanban #Project#](https://github.com/yogaboll/react-kanban): A Trello-like application built with React and Redux.
 
 ## Interview
 

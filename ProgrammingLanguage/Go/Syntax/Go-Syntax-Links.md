@@ -15,3 +15,7 @@
 ## Memory Model
 
 * [The Go Memory Model](https://golang.org/ref/mem): The Go memory model specifies the conditions under which reads of a variable in one goroutine can be guaranteed to observe values produced by writes to the same variable in a different goroutine.
+
+# Meta Programming | 元编程
+
+* [2018-Dependency Injection in Go](https://blog.drewolson.org/dependency-injection-in-go/): In this post I'll give an introduction to DI and then show an example application before and after using DI (via the dig library).

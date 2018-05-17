@@ -40,7 +40,7 @@
 
 《移动设备交互设计》——移动交互入门  
  《移动应用的设计与开发》——移动产品入门  
- 《Tapworthy（触动人心）》——IOS 设计  
+ 《Tapworthy(触动人心)》——IOS 设计  
  《App Savvy》  
  《Mobile Design Pattern Gallery》  
  《简约至上》

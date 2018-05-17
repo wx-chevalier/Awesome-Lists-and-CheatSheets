@@ -90,7 +90,7 @@
 
 - [Nginx 负载均衡系列](http://blog.csdn.net/zhangskd/article/details/50208527)
 
-- [章文嵩（正明）博士和他背后的负载均衡 (LOAD BANLANCER) 帝国](https://yq.aliyun.com/articles/52752)
+- [章文嵩(正明)博士和他背后的负载均衡 (LOAD BANLANCER) 帝国](https://yq.aliyun.com/articles/52752)
 
 - [荔枝 FM 架构师刘耀华：异地多活 IDC 机房架构](http://geek.csdn.net/news/detail/53231)
 
@@ -108,7 +108,7 @@
 
 * [2017-An alternative approach to rate limiting](https://medium.com/figma-design/an-alternative-approach-to-rate-limiting-f8a06cf7c94c)
 
-- [2017- 服务流量控制及限流](http://blog.brucefeng.info/post/rate-limiter): 流量控制的维度主要有 QPS 流量控制以及一定时间区间（如 / 天、/ 小时）的调用次数。
+- [2017- 服务流量控制及限流](http://blog.brucefeng.info/post/rate-limiter): 流量控制的维度主要有 QPS 流量控制以及一定时间区间(如 / 天、/ 小时)的调用次数。
 
 # 服务容错
 

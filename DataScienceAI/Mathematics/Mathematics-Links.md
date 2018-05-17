@@ -10,7 +10,7 @@
 
 - [2010-All of Statistics: A Concise Course in Statistical Inference #Book#](http://read.pudn.com/downloads158/ebook/702714/Larry%20Wasserman_ALL%20OF%20Statistics.pdf): The goal of this book is to provide a broad background in probability and statistics for students in statistics, Computer science (especially data mining and machine learning), mathematics, and related disciplines.
 
-- [2008- 统计学完全教程 #Book#](https://drive.wps.cn/view/l/ea00dc2e829f41ec8fd7c5995c41bfc9)：由美国当代著名统计学家 L· 沃塞曼所著的《统计学元全教程》是一本几乎包含了统计学领域全部知识的优秀教材。本书除了介绍传统数理统计学的全部内容以外，还包含了 Bootstrap 方法（自助法）、独立性推断、因果推断、图模型、非参数回归、正交函数光滑法、分类、统计学理论及数据挖掘等统计学领域的新方法和技术。本书不但注重概率论与数理统计基本理论的阐述，同时还强调数据分析能力的培养。本书中含有大量的实例以帮助广大读者快速掌握使用 R 软件进行统计数据分析。
+- [2008- 统计学完全教程 #Book#](https://drive.wps.cn/view/l/ea00dc2e829f41ec8fd7c5995c41bfc9)：由美国当代著名统计学家 L· 沃塞曼所著的《统计学元全教程》是一本几乎包含了统计学领域全部知识的优秀教材。本书除了介绍传统数理统计学的全部内容以外，还包含了 Bootstrap 方法(自助法)、独立性推断、因果推断、图模型、非参数回归、正交函数光滑法、分类、统计学理论及数据挖掘等统计学领域的新方法和技术。本书不但注重概率论与数理统计基本理论的阐述，同时还强调数据分析能力的培养。本书中含有大量的实例以帮助广大读者快速掌握使用 R 软件进行统计数据分析。
 
 - [2009-Convex Optimization #Book#](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf):This book is about convex optimization, a special class of mathematical optimization problems, which includes least-squares and linear programming problems. It is well known that least-squares and linear programming problems have a fairly complete theory, arise in a variety of applications, and can be solved numerically very efficiently. The basic point of this book is that the same can be said for the larger class of convex optimization problems..
 

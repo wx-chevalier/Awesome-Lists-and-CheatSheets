@@ -16,7 +16,7 @@
 
 * [2017-CORS — a guided tour](https://parg.co/bOF): Cross-origin resource sharing
 
-* [前端解决跨域问题的 8 种方案（最新最全）](http://www.tuicool.com/articles/ENZbEvi)
+* [前端解决跨域问题的 8 种方案(最新最全)](http://www.tuicool.com/articles/ENZbEvi)
 
 * [JavaScript  四种跨域方法](http://segmentfault.com/a/1190000003642057)
 

@@ -15,7 +15,7 @@
 
 - [从 Chrome 源码看 DNS 解析过程](https://mp.weixin.qq.com/s/K7rdF82yi-yGk5-aN9Se8A)
 
-- [2016-文详解](https://parg.co/U8z): DNS【域名系统：（英文：Domain Name System，缩写：DNS）】是互联网的一项服务。 它作为将域名和IP地址相互映射的一个分布式数据库，能够使人更方便地访问互联网。 DNS使用TCP和UDP端口53。
+- [2016-文详解](https://parg.co/U8z): DNS【域名系统：(英文：Domain Name System，缩写：DNS)】是互联网的一项服务。 它作为将域名和IP地址相互映射的一个分布式数据库，能够使人更方便地访问互联网。 DNS使用TCP和UDP端口53。
 
 # OpenSource
 

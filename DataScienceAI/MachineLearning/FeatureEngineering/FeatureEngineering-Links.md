@@ -8,9 +8,9 @@
 
 * [What-is-the-difference-between-L1-and-L2-regularization](https://www.quora.com/What-is-the-difference-between-L1-and-L2-regularization)
 
-* [机器学习中的范数规则化之（一）L0、L1 与 L2 范数 ](http://blog.csdn.net/zouxy09/article/details/24971995)
+* [机器学习中的范数规则化之(一)L0、L1 与 L2 范数 ](http://blog.csdn.net/zouxy09/article/details/24971995)
 
-* [机器学习中的范数规则化之（二）核范数与规则项参数选择 ](http://blog.csdn.net/zouxy09/article/details/24972869)
+* [机器学习中的范数规则化之(二)核范数与规则项参数选择 ](http://blog.csdn.net/zouxy09/article/details/24972869)
 
 * [机器学习中的范数规则化](http://blog.csdn.net/zouxy09/article/details/24971995)
 

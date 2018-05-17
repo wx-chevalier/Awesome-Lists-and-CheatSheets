@@ -22,7 +22,7 @@
 
 - [What is a Support Vector Machine, and Why Would I Use it?](http://www.kdnuggets.com/2017/02/yhat-support-vector-machine.html)
 
-- [支持向量机通俗导论（理解 SVM 的三层境界）](http://blog.csdn.net/v_july_v/article/details/7624837)
+- [支持向量机通俗导论(理解 SVM 的三层境界)](http://blog.csdn.net/v_july_v/article/details/7624837)
 
 # Random Forest: 随机森林
 

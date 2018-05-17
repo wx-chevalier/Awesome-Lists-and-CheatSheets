@@ -2,9 +2,7 @@
 
 # React Production Links
 
-* [Rendering a function with React](https://parg.co/UEv): How I tricked React into rendering a function (not call it… render it)
-
-# Performance Optimization
+# Performance Optimization | 性能优化
 
 * [2017-React Performance Fixes on Airbnb Listing Pages](https://parg.co/UpT): We have been hard at work migrating the airbnb.com core booking flow into a single-page server-rendered app using React Router and Hypernova.
 
@@ -61,8 +59,6 @@
 
 ## Avoid Unnecessary Re-renders
 
-* [why-did-you-update #Project# ](https://github.com/garbles/why-did-you-update): Puts your console on blast when React is making unnecessary updates.
-
 * [High Performance React: 3 New Tools to Speed Up Your Apps](https://parg.co/b1v): In this post I’ll highlight tools and techniques for making React apps fast. Each section also has an interactive, and (hopefully) fun demo!
 
 * [React PureComponent Pitfalls](https://parg.co/UXA): Unnecessary re-renders can slow down your app, especially when rendering large collections where updates to the collection occur frequently.
@@ -81,7 +77,7 @@
 
 * [Upgrading a create-react-app project to a SSR + code splitting setup](https://parg.co/Ukg): This is what we’ll cover: Server-side rendering, Code splitting with react-loadable, Code splitting on the server, Taking benefit of webpack’s chunkNames.
 
-# Server Side Rendering: 服务端渲染
+# Server Side Rendering | 服务端渲染
 
 * [2017-Introducing Rapscallion #Project#](http://formidable.com/blog/2017/introducing-rapscallion/): a new approach for server-side rendering React applications.
 
@@ -105,11 +101,9 @@
 
 * [Streaming Server-Side Rendering and Caching at Spectrum](https://zeit.co/blog/streaming-server-rendering-at-spectrum): In this guest post he describes the journey to high performance server-rendering of their React application with streaming responses and distributed caching.
 
-# Monitor & Report
+# Monitor & Report | 监控与回报
 
-# Alternatives: 替代库
-
-## Preact
+# Preact
 
 * [The Inner Workings Of Virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf#.or5425hja)
 

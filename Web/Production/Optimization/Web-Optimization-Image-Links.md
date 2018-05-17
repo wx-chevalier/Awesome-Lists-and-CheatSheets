@@ -4,7 +4,7 @@
 
 * [2018-Web Performance Optimization with Webpack by Addy Osmani](https://parg.co/UXN): Taking advantage of its features for optimizing modern code, code-splitting scripts into critical and non-critical pieces and stripping out unused code.
 
-* [腾讯社交网络图片带宽优化技术演进之路](https://parg.co/Ua4): 为进一步降低运营带宽成本，减小用户访问流量及提升页面加载速度，社交网络 CDN 运维紧跟行业图片优化趋势，创新引入 WebP、SharpP、自适应分辨率、Guetzli 等图像压缩技术到现网，经过三年多的多部门联合攻关，已逐渐形成一套覆盖全图片类型（JPEG、JPG、PNG、WebP、GIF）多场景的图片压缩运营体系，适用于各类型终端，每年节约外网带宽几百 G。
+* [腾讯社交网络图片带宽优化技术演进之路](https://parg.co/Ua4): 为进一步降低运营带宽成本，减小用户访问流量及提升页面加载速度，社交网络 CDN 运维紧跟行业图片优化趋势，创新引入 WebP、SharpP、自适应分辨率、Guetzli 等图像压缩技术到现网，经过三年多的多部门联合攻关，已逐渐形成一套覆盖全图片类型(JPEG、JPG、PNG、WebP、GIF)多场景的图片压缩运营体系，适用于各类型终端，每年节约外网带宽几百 G。
 
 # Image Optimization: 图片优化
 

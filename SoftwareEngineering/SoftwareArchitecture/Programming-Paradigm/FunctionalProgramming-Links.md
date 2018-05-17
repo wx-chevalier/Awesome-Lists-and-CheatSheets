@@ -23,7 +23,7 @@
 
 - [2017-Practical Functional Programming](https://parg.co/UEI): The presentation attempted to explain functional programming without using concepts like “monads” or “immutability” or “side effects”.
 
-- [左耳朵耗子：什么是函数式编程？](https://mp.weixin.qq.com/s/nh5qifdneF_Y3xOJBy_ipg): 本文结合递归、map 和 reduce，以及 pipeline 等技术，对比了非函数式编程和函数式编程在解决相同问题时的不同处理思路，让你对函数式编程范式有了清晰明确的认知。并在文末引入了 decorator（修饰器），使得将普通函数管道化成为一件轻而易举的事情。
+- [左耳朵耗子：什么是函数式编程？](https://mp.weixin.qq.com/s/nh5qifdneF_Y3xOJBy_ipg): 本文结合递归、map 和 reduce，以及 pipeline 等技术，对比了非函数式编程和函数式编程在解决相同问题时的不同处理思路，让你对函数式编程范式有了清晰明确的认知。并在文末引入了 decorator(修饰器)，使得将普通函数管道化成为一件轻而易举的事情。
 
 # Monad
 

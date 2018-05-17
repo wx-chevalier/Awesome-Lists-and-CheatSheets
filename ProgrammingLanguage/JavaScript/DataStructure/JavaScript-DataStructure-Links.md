@@ -36,7 +36,7 @@
 
 ## Codec: 编码
 
-* [纯前端 Js 解决各种汉字 urlencode,urldecode（GBK 、 UTF-8 均可）](http://zcw.me/blogwp/front-end-urldecode-gbk/)
+* [纯前端 Js 解决各种汉字 urlencode,urldecode(GBK 、 UTF-8 均可)](http://zcw.me/blogwp/front-end-urldecode-gbk/)
 
 * [阮一峰的网络日志 : 关于 URL 编码](http://www.ruanyifeng.com/blog/2010/02/url_encoding.html)
 

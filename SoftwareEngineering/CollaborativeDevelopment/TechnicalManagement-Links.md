@@ -41,7 +41,7 @@
 # 技术管理
 
 
-- [（完整版）Facebook研发团队的高效秘诀](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=205983820&idx=1&sn=f0791810eb87012bb09ffbb6a75c11c0&scene=21#wechat_redirect)
+- [(完整版)Facebook研发团队的高效秘诀](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=205983820&idx=1&sn=f0791810eb87012bb09ffbb6a75c11c0&scene=21#wechat_redirect)
   
 
 - [丁香园技术副总裁范凯：公司高速发展是对团队最好的管理](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=210785109&idx=1&sn=b89a0a9d938d01d6eac5b6ff06db4f05&scene=21#wechat_redirect)

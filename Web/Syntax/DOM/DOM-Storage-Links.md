@@ -12,7 +12,7 @@
 
 # Cookie
 
-* [cookie 规范（RFC 6265）翻译](https://github.com/renaesop/blog/issues/4)
+* [cookie 规范(RFC 6265)翻译](https://github.com/renaesop/blog/issues/4)
 
 # JSON DataBase
 

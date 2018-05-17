@@ -5,7 +5,7 @@
 
 # Java 测试 Learning & Practices Links
 
-- [一篇文章带你了解 Java 服务端单元测试的方方面面（保持更新）](https://zhuanlan.zhihu.com/p/21372411)
+- [一篇文章带你了解 Java 服务端单元测试的方方面面(保持更新)](https://zhuanlan.zhihu.com/p/21372411)
 
 # JUnit
 

@@ -12,7 +12,7 @@
 
 * [2016-2016 年，分布式数据库的那些事儿都在这里！](https://parg.co/b1g)
 
-* [2016-腾讯金融级分布式数据库 TDSQL 的前世今生](http://blog.csdn.net/test_soy/article/details/53259136): TDSQL（Tencent Distributed MySQL，腾讯分布式 MySQL）是由腾讯技术工程事业群计费平台部针对金融联机交易场景开发的高一致性数据库集群产品。
+* [2016-腾讯金融级分布式数据库 TDSQL 的前世今生](http://blog.csdn.net/test_soy/article/details/53259136): TDSQL(Tencent Distributed MySQL，腾讯分布式 MySQL)是由腾讯技术工程事业群计费平台部针对金融联机交易场景开发的高一致性数据库集群产品。
 
 - [An introduction to distributed systems](https://github.com/aphyr/distsys-class): 一个基本的分布式系统简介
 

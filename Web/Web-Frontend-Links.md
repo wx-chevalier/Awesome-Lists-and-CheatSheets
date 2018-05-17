@@ -17,7 +17,7 @@
 
 ## Tutorials
 
-* [MDN](https://developer.mozilla.org/zh-CN/):Mozilla 开发者网络（MDN）提供有关开放网络技术（Open Web）的信息，包括 HTML、CSS 和万维网及 HTML5 应用的 API。非常权威与详细的各种语法细节介绍，必看首推。
+* [MDN](https://developer.mozilla.org/zh-CN/):Mozilla 开发者网络(MDN)提供有关开放网络技术(Open Web)的信息，包括 HTML、CSS 和万维网及 HTML5 应用的 API。非常权威与详细的各种语法细节介绍，必看首推。
 
 * [How-To-Become-A-Great-Front-End-Engineer](http://philipwalton.com/articles/how-to-become-a-great-front-end-engineer/):如何成为一名伟大的前端工程师
 
@@ -98,7 +98,7 @@
 * [Javascript-Obfuscate](http://www.danstools.com/javascript-obfuscate/):一个在线混淆工具，通过先进的算法，来混淆你的 JavaScript 代码，使其不可读。该工具还可以减小文件的大小，以便快速加载。
 
 * [Best CSS Button Generator](http://www.bestcssbuttongenerator.com/):网站主要提供各种按钮的 CSS 代码，你可以从预设的按钮中选择并使用模板用于自己的设计，还可以查看源代码，非常适合学习。
-* Chrome Tools 介绍:[我的 Chrome 插件集](http://www.w3ctrain.com/2016/10/16/my-chrome-extension/)、[私人珍藏的 Chrome 插件，吐血推荐](http://stormzhang.com/devtools/2016/01/15/google-chrome-extension/)、[前端程序员必知的 30 个 Chrome 扩展](http://www.codeceo.com/article/30-useful-extensions-for-web.html)、[Dev Tips（讲了很多 Chrome 开发技巧）](https://umaar.com/dev-tips/)、[Chrome 控制台实用指南](http://damonare.github.io/2016/09/09/Chrome%25E6%258E%25A7%25E5%2588%25B6%25E5%258F%25B0%25E4%25BD%25BF%25E7%2594%25A8%25E6%2580%25BB%25E7%25BB%2593/)、[Chrome 实用调试技巧](http://blog.lxjwlt.com/2016/07/23/chrome.html%23directory0100542517940424245)
+* Chrome Tools 介绍:[我的 Chrome 插件集](http://www.w3ctrain.com/2016/10/16/my-chrome-extension/)、[私人珍藏的 Chrome 插件，吐血推荐](http://stormzhang.com/devtools/2016/01/15/google-chrome-extension/)、[前端程序员必知的 30 个 Chrome 扩展](http://www.codeceo.com/article/30-useful-extensions-for-web.html)、[Dev Tips(讲了很多 Chrome 开发技巧)](https://umaar.com/dev-tips/)、[Chrome 控制台实用指南](http://damonare.github.io/2016/09/09/Chrome%25E6%258E%25A7%25E5%2588%25B6%25E5%258F%25B0%25E4%25BD%25BF%25E7%2594%25A8%25E6%2580%25BB%25E7%25BB%2593/)、[Chrome 实用调试技巧](http://blog.lxjwlt.com/2016/07/23/chrome.html%23directory0100542517940424245)
 
 * 配色类网站，为设计师提供很多配色方案与建议:[ColorHunt](http://colorhunt.co)、[Adobe Color Wheel](https://color.adobe.com/zh/create/color-wheel)、[ColorHunter](http://www.colorhunter.com/)、[BootCSS WebSafeColors](http://www.colorhunter.com/)
 * 图标类网站:[阿里巴巴图标库:IconFont](http://www.iconfont.cn/plus)、[IconSearch](http://www.easyicon.net/iconsearch/ios/)
@@ -128,7 +128,7 @@
 
 * [廖雪峰 JavaScript 教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000):介绍了基础的语法与 API。
 
-* [JavaScript 标准参考教程（alpha） -阮一峰](http://javascript.ruanyifeng.com/):阮一峰老师出品，相当完善与成体系，也是以基础语法与 API 为主。
+* [JavaScript 标准参考教程(alpha) -阮一峰](http://javascript.ruanyifeng.com/):阮一峰老师出品，相当完善与成体系，也是以基础语法与 API 为主。
 
 - [2015 - Speaking JavaScript #Book#](http://speakingjs.com/es5/index.html#toc_ch01):Dr. Axel 出品的详细 JavaScript 基础语法的书籍。
 
@@ -136,8 +136,8 @@
 
 ### ES6/ES7 专区
 
-* 中文教程:[阮一峰 ECMAScript 6 入门](https://github.com/ruanyf/es6tutorial)、[30 分钟掌握 ES6/ES2015 核心内容（上）](http://segmentfault.com/a/1190000004365693)
-* 语法规范手册:[EcmaScript6 全规范（含 node） -ouvens](https://github.com/ouvens/es6-code-style-guide)、[ES2015 规范 英文](http://www.ecma-international.org/ecma-262/6.0/)
+* 中文教程:[阮一峰 ECMAScript 6 入门](https://github.com/ruanyf/es6tutorial)、[30 分钟掌握 ES6/ES2015 核心内容(上)](http://segmentfault.com/a/1190000004365693)
+* 语法规范手册:[EcmaScript6 全规范(含 node) -ouvens](https://github.com/ouvens/es6-code-style-guide)、[ES2015 规范 英文](http://www.ecma-international.org/ecma-262/6.0/)
 
 * [2015 - Setting Up ES6 #Book#](https://leanpub.com/setting-up-es6/read):Dr. Axel 出品的介绍如何搭建 ES6 开发环境的书籍。
 

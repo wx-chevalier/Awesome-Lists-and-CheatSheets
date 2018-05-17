@@ -3,7 +3,7 @@
 
 # 贝叶斯理论及扩展资料索引
 
-* [贝叶斯集锦（4 ）：贝叶斯统计基础](https://site.douban.com/182577/widget/notes/10567181/note/294041203/)
+* [贝叶斯集锦(4 )：贝叶斯统计基础](https://site.douban.com/182577/widget/notes/10567181/note/294041203/)
 
 * [贝叶斯学习及共轭先验](http://blog.csdn.net/acdreamers/article/details/45026459)
 

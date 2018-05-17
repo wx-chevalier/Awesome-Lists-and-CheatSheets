@@ -32,4 +32,4 @@
 
 # 2FA 双因素认证
 
-* [双因素认证（2FA ）教程](https://parg.co/Ucx)
+* [双因素认证(2FA )教程](https://parg.co/Ucx)

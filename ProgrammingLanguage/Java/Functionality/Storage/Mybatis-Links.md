@@ -9,7 +9,7 @@
 
 - [Mybatis工具类总结](http://git.oschina.net/free/Mybatis_Utils/tree/master)
 
-- [Mybatis 3 自动生成 主键 针对不同的数据库（oracle/sqlserver/mysql）](http://www.cnblogs.com/yuanermen/archive/2013/04/02/2995920.html)
+- [Mybatis 3 自动生成 主键 针对不同的数据库(oracle/sqlserver/mysql)](http://www.cnblogs.com/yuanermen/archive/2013/04/02/2995920.html)
 
 - [Mybatis 分页插件](http://git.oschina.net/free/Mybatis_PageHelper)
 

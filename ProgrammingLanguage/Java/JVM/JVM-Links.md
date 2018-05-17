@@ -38,7 +38,7 @@
 
 - [java-garbage-collection-handbook](https://plumbr.eu/java-garbage-collection-handbook)
 
-- [成为JavaGC专家（1）—深入浅出Java垃圾回收机制](http://www.importnew.com/1993.html)
+- [成为JavaGC专家(1)—深入浅出Java垃圾回收机制](http://www.importnew.com/1993.html)
 
 
 - [JVM 垃圾回收器工作原理及使用实例介绍](www.ibm.com/developerworks/cn/java/j-lo-JVMGarbageCollection/index.html)

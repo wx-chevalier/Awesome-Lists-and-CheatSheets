@@ -17,7 +17,7 @@
 
 - [OOPinJS](http://phrogz.net/js/classes/OOPinJS2.html)
 
-- [阮一峰 :Javascript 面向对象编程（一）](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html)
+- [阮一峰 :Javascript 面向对象编程(一)](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html)
 
 - [Interfaces In JavaScript](http://www.tuicool.com/articles/jyYV7rA)
 

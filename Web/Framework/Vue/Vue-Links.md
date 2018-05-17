@@ -14,7 +14,7 @@
 
 * [尤雨溪：Vue 2.0，渐进式前端解决方案  ](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484393&idx=1&sn=142b8e37dfc94de07be211607e468030&chksm=9723612ba054e83db6622a891287af119bb63708f1b7a09aed9149d846c9428ad5abbb822294&mpshare=1&scene=1&srcid=1026nSmSxkHsYaHtIq00c09T#rd)
 
-- [Vue 2.2 完整 API 清单](https://parg.co/bhC)：本文是  Vue 2.2 中完整的 API 介绍，可以作为手册随时查阅  。（ https://parg.co/bhC ）
+- [Vue 2.2 完整 API 清单](https://parg.co/bhC)：本文是  Vue 2.2 中完整的 API 介绍，可以作为手册随时查阅  。( https://parg.co/bhC )
 
 * [2017-An overview of Vue.js and the future of the framework](https://parg.co/UmG):  This post is far from being a guide. It’s another timeline attempt on Vue.js in a well-organized way, from the beginning, to what awaits us in version 3.0 of the framework.
 

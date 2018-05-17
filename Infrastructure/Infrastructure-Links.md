@@ -2,7 +2,7 @@
 
 # Infrastructure Links | 云计算和大数据平台基础架构资料索引
 
-[云计算和大数据平台基础架构 Learning & Practices Links]()是笔者对于现代 IT 系统中使用的基础架构相关的资料汇总，包含了分布式系统、分布式计算、（分布式）存储、虚拟化、网络与操作系统等多个方面；而偏向应用层的资料参考[服务端应用程序 Learning & Practices Links]()
+[云计算和大数据平台基础架构 Learning & Practices Links]()是笔者对于现代 IT 系统中使用的基础架构相关的资料汇总，包含了分布式系统、分布式计算、(分布式)存储、虚拟化、网络与操作系统等多个方面；而偏向应用层的资料参考[服务端应用程序 Learning & Practices Links]()
 
 * [一系列基础架构](http://ginobefunny.com/post/reading_record_201612/)
 
@@ -26,9 +26,9 @@
 
 * [宜人贷纽交所上市，CTO 段念谈背后的技术探索](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=402791950&idx=1&sn=6dad53415a9f4970c5fc9e6ec0763377&scene=21#wechat_redirect)
 
-- [环信首席架构师梁宇鹏谈架构、管理及成长（上）](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=211307407&idx=1&sn=9d2ab16be60f862f7e5ef9d607ac0654&scene=21#wechat_redirect)
+- [环信首席架构师梁宇鹏谈架构、管理及成长(上)](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=211307407&idx=1&sn=9d2ab16be60f862f7e5ef9d607ac0654&scene=21#wechat_redirect)
 
-* [环信首席架构师梁宇鹏谈架构、管理及成长（下）](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=211956893&idx=1&sn=c1be86768d02b0d562229ef537293cdb&scene=21#wechat_redirect)
+* [环信首席架构师梁宇鹏谈架构、管理及成长(下)](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=211956893&idx=1&sn=c1be86768d02b0d562229ef537293cdb&scene=21#wechat_redirect)
 
 - [高可用可伸缩架构实用经验谈](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=206450474&idx=1&sn=bf03ae890b2e7f07e9752715b2b7ca68&scene=21#wechat_redirect)
 
@@ -42,7 +42,7 @@
 
 * [设计高并发下的读服务？一个电商老兵的 10 条经验](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597710&idx=1&sn=e8801d7aba68485489cfcac9ac2fd2ba&scene=0#wechat_redirect)
 
-* [今日头条架构演进之路 —— 高压下的架构演进专题（含 PPT）](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547520&idx=1&sn=f303a6250eb68775e9b6dbbdea6b9f06&scene=23&srcid=0715cLKw7d65sunBdZV8Y405#rd)
+* [今日头条架构演进之路 —— 高压下的架构演进专题(含 PPT)](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547520&idx=1&sn=f303a6250eb68775e9b6dbbdea6b9f06&scene=23&srcid=0715cLKw7d65sunBdZV8Y405#rd)
 
 - [高性能高并发系统的稳定性保障](http://www.yunweipai.com/archives/10501.html)
 
@@ -54,7 +54,7 @@
 
 # 大规模基础架构
 
-* [2017- 深度解密京东登月平台基础架构](https://parg.co/bg7)：近日，京东发布登月机器学习平台，并在京东云上线，正式对外提供人工智能服务。登月机器学习平台的上线代表着京东人工智能技术从应用级服务到基础算法的全面对外开放，实践着京东 RaaS（零售即服务）的发展策略。今天我们邀请了 AI 与大数据部的工程师为大家深度解密京东登月平台基础架构。
+* [2017- 深度解密京东登月平台基础架构](https://parg.co/bg7)：近日，京东发布登月机器学习平台，并在京东云上线，正式对外提供人工智能服务。登月机器学习平台的上线代表着京东人工智能技术从应用级服务到基础算法的全面对外开放，实践着京东 RaaS(零售即服务)的发展策略。今天我们邀请了 AI 与大数据部的工程师为大家深度解密京东登月平台基础架构。
 
 - [2016-Data Infrastructure At Airbnb](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c#.8y91c8qmk): At Airbnb we promote a data informed culture and use data as a key input for making decisions.
 

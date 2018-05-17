@@ -12,7 +12,7 @@
 
 * [2017-Introducing Javascript ES6 Proxies](https://codeburst.io/introducing-javascript-es6-proxies-1327419ab413)
 
-* [深入浅出 ES6（十二）：代理 Proxies](http://www.infoq.com/cn/articles/es6-in-depth-proxies-and-reflect/)
+* [深入浅出 ES6(十二)：代理 Proxies](http://www.infoq.com/cn/articles/es6-in-depth-proxies-and-reflect/)
 
 * [2017-ES6 Features - 10 Use Cases for Proxy](http://dealwithjs.io/es6-features-10-use-cases-for-proxy/)
 

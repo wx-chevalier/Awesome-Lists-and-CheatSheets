@@ -26,6 +26,8 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2018-Rust in production at Figma](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929): How Mozilla’s new language dramatically improved our server-side performance.
 
+* [2018-Rust in Cloudflare](https://parg.co/YA1)
+
 ## CheatSheet
 
 * [2017-Rust CheatSheet](http://phaiax.github.io/rust-cheatsheet/)
@@ -53,4 +55,3 @@ This file aggregates curated popular links for learning Rust. More reference abo
 * [2018-Learning Rust](https://learning-rust.github.io/): Installation, Hello World, Cargo, Crates, Variable bindings, Functions, Primitive Data Types, Operators & Control Flows.
 
 * [2018-Writing a Microservice in Rust](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/): Let me begin this article on Writing a Microservice in Rust by talking about C++.
-

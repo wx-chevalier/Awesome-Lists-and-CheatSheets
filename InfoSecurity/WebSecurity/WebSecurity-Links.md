@@ -32,7 +32,7 @@
 
 * [OWASP_API_Security_Project](https://www.owasp.org/index.php/OWASP_API_Security_Project)
 
-- [浏览器漏洞挖掘思路](https://zhuanlan.zhihu.com/p/28719766): 在这篇讲座（文章）中，我们会给读者带来挖掘浏览器漏洞的思路。
+- [浏览器漏洞挖掘思路](https://zhuanlan.zhihu.com/p/28719766): 在这篇讲座(文章)中，我们会给读者带来挖掘浏览器漏洞的思路。
 
 # XSS
 
@@ -50,7 +50,7 @@
 
 * [深入解析跨站请求伪造漏洞：原理剖析](http://netsecurity.51cto.com/art/200812/102951.htm)
 
-* [Web 安全测试之跨站请求伪造（CSRF ）](http://netsecurity.51cto.com/art/200811/97281.htm)
+* [Web 安全测试之跨站请求伪造(CSRF )](http://netsecurity.51cto.com/art/200811/97281.htm)
 
 * [深入解析跨站请求伪造漏洞：实例讲解](http://netsecurity.51cto.com/art/200812/102925.htm)
 

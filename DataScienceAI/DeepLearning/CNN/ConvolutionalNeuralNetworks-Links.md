@@ -6,6 +6,6 @@
 
 * [从入门到精通：卷积神经网络初学者指南 ](http://www.jiqizhixin.com/article/1363)
 
-* [Deep Learning 论文笔记之（四）CNN 卷积神经网络推导和实现](http://blog.csdn.net/zouxy09/article/details/9993371)
+* [Deep Learning 论文笔记之(四)CNN 卷积神经网络推导和实现](http://blog.csdn.net/zouxy09/article/details/9993371)
 
 * [一文读懂卷积神经网络](http://www.36dsj.com/archives/24006)

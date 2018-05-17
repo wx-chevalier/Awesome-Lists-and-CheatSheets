@@ -20,7 +20,7 @@
 
 - [Rednaxelafx: 各 JavaScript 引擎的简介，及相关资料 / 博客收集帖](http://hllvm.group.iteye.com/group/topic/37596): 各 JavaScript 引擎的简介，及相关资料 / 博客收集帖
 
-- [JavaScript 中使用 object[key] 查找属性的过程是怎样的呢（相对于 Array 查找元素）？](https://www.zhihu.com/question/30848981/answer/51997592)
+- [JavaScript 中使用 object[key] 查找属性的过程是怎样的呢(相对于 Array 查找元素)？](https://www.zhihu.com/question/30848981/answer/51997592)
 
 - [2017- 认识 V8 引擎](https://zhuanlan.zhihu.com/p/27628685)：V8 是如何使得 JavaScript 性能有大幅提升的呢？通过对一些书籍和文章的学习，梳理了 V8 的相关内容，本文将带你认识 V8。
 

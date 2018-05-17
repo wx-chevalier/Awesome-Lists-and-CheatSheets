@@ -6,7 +6,7 @@
 
 * [2017-Deep Learning in 7 lines of code](https://chatbotslife.com/deep-learning-in-7-lines-of-code-7879a8ef8cfb): The essence of machine learning is recognizing patterns within data. This boils down to 3 things: data, software and math. What can be done in seven lines of code you ask? A lot.
 
-* [2017- TensorFlow 代码解析](https://zhuanlan.zhihu.com/p/25646408)：2015 年 11 月 9 日，Google 发布深度学习框架 TensorFlow 并宣布开源，并迅速得到广泛关注，在图形分类、音频处理、推荐系统和自然语言处理等场景下都被大面积推广。TensorFlow 系统更新快速，官方文档教程齐全，上手快速且简单易用，支持 Python 和 C++接口。本文依据对 Tensorflow（简称 TF）白皮书[1]、TF Github[2]和 TF 官方教程[3]的理解，从系统和代码实现角度讲解 TF 的内部实现原理。以 TensorFlow r0.8.0 为基础，本文由浅入深的阐述 Tensor 和 Flow 的概念。先介绍了 TensorFlow 的核心概念和基本概述，然后剖析了 OpKernels 模块、Graph 模块、Session 模块。
+* [2017- TensorFlow 代码解析](https://zhuanlan.zhihu.com/p/25646408)：2015 年 11 月 9 日，Google 发布深度学习框架 TensorFlow 并宣布开源，并迅速得到广泛关注，在图形分类、音频处理、推荐系统和自然语言处理等场景下都被大面积推广。TensorFlow 系统更新快速，官方文档教程齐全，上手快速且简单易用，支持 Python 和 C++接口。本文依据对 Tensorflow(简称 TF)白皮书[1]、TF Github[2]和 TF 官方教程[3]的理解，从系统和代码实现角度讲解 TF 的内部实现原理。以 TensorFlow r0.8.0 为基础，本文由浅入深的阐述 Tensor 和 Flow 的概念。先介绍了 TensorFlow 的核心概念和基本概述，然后剖析了 OpKernels 模块、Graph 模块、Session 模块。
 
 * [2017-TensorFlow 入门级解读：矩阵、多特征线性和逻辑回归](https://zhuanlan.zhihu.com/p/25352208)：本文是日本东京 TensorFlow 聚会联合组织者 Hin Khor 所写的 TensorFlow 系列介绍文章。
 

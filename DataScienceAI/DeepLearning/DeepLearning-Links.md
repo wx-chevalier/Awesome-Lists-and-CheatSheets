@@ -12,13 +12,13 @@
 
 - [有趣的机器学习概念纵览：从多元拟合，神经网络到深度学习，给每个感兴趣的人](https://segmentfault.com/a/1190000005746236)
 
-- [深层学习为何要 “Deep”（上）](https://zhuanlan.zhihu.com/p/22888385)
+- [深层学习为何要 “Deep”(上)](https://zhuanlan.zhihu.com/p/22888385)
 
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap): 为每个对深度学习感兴趣的朋友整理的论文阅读路线图
 
-* [程序员的深度学习入门指南](http://mp.weixin.qq.com/s?__biz=MzA4ODMwMDcxMQ==&mid=2650891687&idx=1&sn=5cacb7cc40907c4b3080f95a2f007396&chksm=8bd9886fbcae0179ffb26e77cf448827870827fb24c3b4c6df7889f46ae59955f278eccba19a&mpshare=1&scene=2&srcid=1107xRQnB44aPEpI8Tvtatls&from=timeline&isappinstalled=0#wechat_redirect): 来自费良宏在 2016QCon 全球软件开发大会（上海）上的演讲。
+* [程序员的深度学习入门指南](http://mp.weixin.qq.com/s?__biz=MzA4ODMwMDcxMQ==&mid=2650891687&idx=1&sn=5cacb7cc40907c4b3080f95a2f007396&chksm=8bd9886fbcae0179ffb26e77cf448827870827fb24c3b4c6df7889f46ae59955f278eccba19a&mpshare=1&scene=2&srcid=1107xRQnB44aPEpI8Tvtatls&from=timeline&isappinstalled=0#wechat_redirect): 来自费良宏在 2016QCon 全球软件开发大会(上海)上的演讲。
 
-* [2017- 深度神经网络全面概述：从基本概念到实际模型和硬件基础](https://parg.co/bC6)：深度神经网络（DNN ）所代表的人工智能技术被认为是这一次技术变革的基石（之一）。近日，由 IEEE Fellow Joel Emer 领导的一个团队发布了一篇题为《深度神经网络的有效处理：教程和调研（Efficient Processing of Deep Neural Networks: A Tutorial and Survey ）》的综述论文，从算法、模型、硬件和架构等多个角度对深度神经网络进行了较为全面的梳理和总结。。
+* [2017- 深度神经网络全面概述：从基本概念到实际模型和硬件基础](https://parg.co/bC6)：深度神经网络(DNN )所代表的人工智能技术被认为是这一次技术变革的基石(之一)。近日，由 IEEE Fellow Joel Emer 领导的一个团队发布了一篇题为《深度神经网络的有效处理：教程和调研(Efficient Processing of Deep Neural Networks: A Tutorial and Survey )》的综述论文，从算法、模型、硬件和架构等多个角度对深度神经网络进行了较为全面的梳理和总结。。
 
 - [Deep Learning 101 #Series#](http://beamandrew.github.io/deeplearning/2017/02/23/deep_learning_101_part1.html): The Deep Learning 101 series is a companion piece to a talk given as part of the Department of Biomedical Informatics @ Harvard Medical School ‘Open Insights’ series. Slides for the talk are available here
 

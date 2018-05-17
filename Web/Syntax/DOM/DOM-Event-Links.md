@@ -9,7 +9,7 @@
 
 * [前端进阶之路：点击事件绑定](https://github.com/cssmagic/blog/issues/48)
 
-* [如何让 H5 体验接近 APP：（一）触摸反馈](https://segmentfault.com/a/1190000006864910)
+* [如何让 H5 体验接近 APP：(一)触摸反馈](https://segmentfault.com/a/1190000006864910)
 
 # DnD: 拖拽事件
 

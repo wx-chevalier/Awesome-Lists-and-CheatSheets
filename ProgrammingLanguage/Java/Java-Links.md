@@ -2,7 +2,7 @@
 
 # Java Learning & Practices Links
 
-当我们谈起 Java 的时候，往往是将其作为一门编程语言来讨论；然而编程语言的特性只是 Java 架构的某部分，保障其平台独立性的一系列底层架构也是 Java 不可分割的组成。宏观来看，我们认为 Java 主要包含以下四个部分：Java 编程语言、Java 类文件格式、Java API 以及 JVM。当我们在进行 Java 开发时，我们使用 Java 编程语言来编写代码，然后将其编译为 Java 类文件，最终在 JVM 中执行这些类文件；目前我们也可以使用 Gradle、Kotlin 等其他优秀的语言来编写 Java 应用程序。而 JVM 与 Java 平台的核心库就构成了我们所熟知的 Java Runtime Environment（JRE）：
+当我们谈起 Java 的时候，往往是将其作为一门编程语言来讨论；然而编程语言的特性只是 Java 架构的某部分，保障其平台独立性的一系列底层架构也是 Java 不可分割的组成。宏观来看，我们认为 Java 主要包含以下四个部分：Java 编程语言、Java 类文件格式、Java API 以及 JVM。当我们在进行 Java 开发时，我们使用 Java 编程语言来编写代码，然后将其编译为 Java 类文件，最终在 JVM 中执行这些类文件；目前我们也可以使用 Gradle、Kotlin 等其他优秀的语言来编写 Java 应用程序。而 JVM 与 Java 平台的核心库就构成了我们所熟知的 Java Runtime Environment(JRE)：
 
 ![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2017/8/1/java.png)
 
@@ -112,7 +112,7 @@
 
 * [2016-A beginner’s guide to SQL injection and how you should prevent it](https://parg.co/bB1)
 
-* [P3C【Project】](https://github.com/alibaba/p3c): 2017 年 10 月 14 日杭州云栖大会，Java 代码规约扫描插件全球首发仪式正式启动，规范正式以插件形式公开走向业界，引领 Java 语言的规范之路。目前，插件已在云效公有云产品中集成，立即体验！（云效>公有云>设置->测试服务->阿里巴巴 Java 代码规约）。
+* [P3C【Project】](https://github.com/alibaba/p3c): 2017 年 10 月 14 日杭州云栖大会，Java 代码规约扫描插件全球首发仪式正式启动，规范正式以插件形式公开走向业界，引领 Java 语言的规范之路。目前，插件已在云效公有云产品中集成，立即体验！(云效>公有云>设置->测试服务->阿里巴巴 Java 代码规约)。
 
 * [2017-Java 老矣，尚能饭否？](http://www.infoq.com/cn/articles/is-java-out-of-date): 从 1995 年第一个版本发布到现在，Java 语言已经在跌宕起伏中走过了 22 年，最新的 Java 版本也已经迭代到 Java 9。
 

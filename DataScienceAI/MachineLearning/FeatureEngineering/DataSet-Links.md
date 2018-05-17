@@ -57,7 +57,7 @@
 * http://ckan.net
 * http://quandl.com
 
-* Open Data Inception（这里有 2500+ 开源接口）
+* Open Data Inception(这里有 2500+ 开源接口)
 
 ## Text:文本
 
@@ -69,7 +69,7 @@
 
 * http://enigma.io
 * http://www.ufindthem.com/
-* http://NetworkRepository.com（有视觉互动分析的机器学习数据库） - http://MLvis.com
+* http://NetworkRepository.com(有视觉互动分析的机器学习数据库) - http://MLvis.com
 
 * [Yahoo Instant Messenger Friends Connectivity Graph](http://webscope.sandbox.yahoo.com/catalog.php?datatype=g):Connections between Yahoo users who communicate with each other using Yahoo messenger, can be used to identify key social contacts/influencers. Add dataset to cart to access. 共 28MB。
 
@@ -257,7 +257,7 @@ Data repositories
 * http://thedatahub.org
 * http://ckan.net
 * http://quandl.com
-* Open Data Inception（这里有 2500+ 开源接口）
+* Open Data Inception(这里有 2500+ 开源接口)
 
 **单一数据集和数据库**：
 
@@ -301,5 +301,5 @@ Data repositories
 
 * http://enigma.io
 * http://www.ufindthem.com/
-* http://NetworkRepository.com（有视觉互动分析的机器学习数据库）
+* http://NetworkRepository.com(有视觉互动分析的机器学习数据库)
 * http://MLvis.com
