@@ -74,6 +74,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 * [2018-How to Build a Search Service with Go and Elasticsearch](https://outcrawl.com/go-elastic-search-service/): This article shows how to build a simple search service in Go using Elasticsearch.
 
+- [2018-How to start a Go project in 2018](https://boyter.org/posts/how-to-start-go-project-2018/): Getting started with a Go project in 2018 is frankly a little more painful then getting anything else started IMHO.
+
 ## Web Dev
 
 * [Go Web Examples #Series#](https://gowebexamples.github.io/): Go Web Examples provides easy to understand code snippets on how to do web development in the Go programming language.
