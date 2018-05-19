@@ -1,6 +1,5 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
 
-
 # Node.js 运行机制与核心原理资料索引
 
 * [2017-Building a crude Node.js from scratch](https://blog.twobucks.co/building-a-crude-node-js-from-scratch/)
@@ -11,7 +10,13 @@
 
 * [2017-Before you bury yourself in packages, learn the Node.js runtime itself](https://parg.co/b4I)
 
-# Native Modules: 原生模块
+# Architecture
+
+- [2017-Understanding Node.js Event-Driven Architecture](https://medium.freecodecamp.com/understanding-node-js-event-driven-architecture-223292fcbc2d): In this analogy, the event will be fired once (when Node is ready to call the callback) and the callback acts as the event handler.
+
+- [2018-Node.js 中遇到含空格 URL 的神奇“Bug”——小范围深入 HTTP 协议](https://zhuanlan.zhihu.com/p/31966196)
+
+# Native Modules | 原生模块
 
 * [Writing Native Node.js Modules - Node.js at Scale](https://blog.risingstack.com/writing-native-node-js-modules/)
 

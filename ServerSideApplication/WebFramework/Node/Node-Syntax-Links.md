@@ -4,8 +4,6 @@
 
 * [Node.js如何解析Form上传？](https://mp.weixin.qq.com/s/pJ6yVvcuFWROmuFU1ULXeQ): 作者前段时间遇到了一个需要手动解析 Form 表单上传的机会，也借此为各位解析一下 Node.js 解析 Form 上传的实现细节。
 
-
-
 # Core Modules: 核心模块
 
 * [2017-Mastering the Node.js Core Modules - The File System & fs Module](https://blog.risingstack.com/mastering-the-nodejs-core-modules-file-system-fs-module/): In this article, we'll take a look at the File System core module, File Streams and some fs module alternatives.
@@ -33,6 +31,10 @@
 * [A Brief History of Node Streams #Series#](http://6me.us/cC9Jcm)
 
 - [2017-Do you want a better understanding of Buffer in Node.js? Check this out.](https://medium.freecodecamp.org/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8)
+
+- [2017-Video stream with Node.js and HTML5](https://medium.com/@daspinola/video-stream-with-node-js-and-html5-320b3191a6b6): The “challenge” was to make a route sending a .mp4 file to a page and make the video available to be seen. 
+
+- [2017-Something about Buffer](https://hackernoon.com/nodejs-javasript-react-buffer-understand-tutorial-example-easy-step-create-read-utf8-ce37866ddd8c): In node.js a buffer is a container for raw bytes. 
 
 # Command Line
 

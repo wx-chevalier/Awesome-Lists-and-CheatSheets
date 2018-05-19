@@ -28,6 +28,10 @@
 
 * [2017-TypeScript + Webpack: Super Pursuit Mode](https://medium.com/webpack/typescript-webpack-super-pursuit-mode-83cc568dea79):
 
+# Integration
+
+- [2018-A crash course on TypeScript with Node.js](https://blog.sourcerer.io/a-crash-course-on-typescript-with-node-js-2c376285afe1)
+
 # OpenSource
 
 * [DefinitelyTyped #Project#](https://github.com/DefinitelyTyped/DefinitelyTyped): The repository for high quality TypeScript type definitions.

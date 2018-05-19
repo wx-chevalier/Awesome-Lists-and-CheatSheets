@@ -6,6 +6,8 @@
 
 * [大公司里怎样开发和部署前端代码](https://github.com/fouber/blog/issues/6)。
 
+- [2017-Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007): Hot Module Replacement（以下简称 HMR）是 webpack 发展至今引入的最令人兴奋的特性之一。
+
 # Resource | 资源
 
 ## Book | 书籍
@@ -23,6 +25,8 @@
 * [2017-Webpack: A Detailed Introduction](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/): JavaScript module bundling has been around for a while. RequireJS had its first commits in 2009, then Browserify made its debut, and since then several other bundlers have spawned across the Internet. Among that group, webpack has jumped out as one of the best. If you’re not familiar with it, I hope this article will get you started with this powerful tool.
 
 * [WEBPACK - THE GOOD PARTS](https://presentations.survivejs.com/webpack-the-good-parts/#/00): What is Webpack, Developing, Building, Assets, Bundle/code Splitting, Analysis, Optimizing.
+
+- [2018-Webpack Basics](https://dev.to/kayis/webpack-basics): Many people seem to like Webpack and use it for their everyday web bundling process.
 
 # Configuration: 基础配置
 
