@@ -62,6 +62,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 * [Oxford Deep NLP 2017 course【Course】](https://github.com/oxford-cs-deepnlp-2017/lectures): This is an advanced course on natural language processing. Automatically processing natural language inputs and producing language outputs is a key component of Artificial General Intelligence.
 
+- [TensorFlow Book #Book#](https://github.com/BinRoot/TensorFlow-Book)
+
 # NLP | 自然语言处理
 
 * [2016 - CS224d: Deep Learning for Natural Language Processing【Course】](http://cs224d.stanford.edu/syllabus.html)
@@ -83,5 +85,33 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 - Data Science at the Command Line — Janssens:  在介绍本书之前首先要强调下，千万不要畏惧编程，学习些简单的编程知识能够有助于你做更多有趣的事。你可以自己去获取、清洗、转化或者分析你的数据。不过我也不会一上来就扔出大堆的编程知识，我建议还是从简单的命令行操作开始学起，而本书正是介绍如何只用命令行就帮你完成些数据科学的任务。
 - Python for Data Analysis — McKinney: Python 算是近几年来非常流行的数据分析的语言了吧，人生苦短，请用 Python。这本书算是个大部头了，有 400 多页吧，不过它首先为你介绍了 Python 的基础语法，因此学起来不会很困难吧。
 - I heart logs — Jay Kreps:  最后一本书则是短小精悍，加起来才 60 多页吧。不过它对于数据收集和处理的技术背景有很好的概述，虽然很多分析家或者数据科学家并不会直接用到这些知识，但是至少你能够理解技术人员们可以用哪些架构去解决数据问题。
+
+* [2012 - 深入浅出数据分析 中文版 #Book#](https://drive.wps.cn/view/l/215ff72bda3f4054b1b7e50fc9a2ee30)：深入浅出数据分析》以类似“章回小说”的活泼形式，生动地向读者展现优秀的数据分析人员应知应会的技术：数据分析基本步骤、实验方法、最优化方法、假设检验方法、贝叶斯统计方法、主观概率法、启发法、直方图法、回归法、误差处理、相关数据库、数据整理技巧；正文之后，意犹未尽地以三篇附录介绍数据分析十大要务、R 工具及 ToolPak 工具，在充分展现目标知识以外，为读者搭建了走向深入研究的桥梁。
+
+* Lean Analytics — by Croll & Yoskovitz:  本书是教会你如何建立基本的以商业思维去使用这些数据，虽然这本书本身定位是面向初学者，不过我觉得你可以从中学到更多。你可以从本书中学到一条基本准则、6 个基础的线上商业形态以及隐藏其后的数据策略。
+* Business value in the ocean of data — by Fajszi, Cser & Fehér:  如果说 Lean Analytics 是关于面向初学者讲解商业逻辑加上数据，那么本书是面向大型公司来讲解这些内容。听上去好像没啥新鲜的，不过往往初创企业与独角兽之间面对的问题是千差万别，本书中会介绍譬如保险公司是如何进行定价预测或者银行从业者们又在面临怎样的数据问题。
+* Naked Statistics — Charles Wheelan:  这本书我一直很是推荐，因为它不仅仅面向数据科学家，而是为任何一个行业的人提供基本的统计思维，这一点恰恰是我认为非常关键的。这本书并没有太多的长篇大论，而是以一个又一个的故事形式来讲解统计思维在公司运营中的重要作用。
+* Doing Data Science — Schutt and O’Neil:  这算是最后一本非技术向的书了吧，这本书相较于上面三本更上一层楼，他深入了譬如拟合模型、垃圾信息过滤、推荐系统等等方面的知识。
+* Data Science at the Command Line — Janssens:  在介绍本书之前首先要强调下，千万不要畏惧编程，学习些简单的编程知识能够有助于你做更多有趣的事。你可以自己去获取、清洗、转化或者分析你的数据。不过我也不会一上来就扔出大堆的编程知识，我建议还是从简单的命令行操作开始学起，而本书正是介绍如何只用命令行就帮你完成些数据科学的任务。
+* Python for Data Analysis — McKinney: Python 算是近几年来非常流行的数据分析的语言了吧，人生苦短，请用 Python。这本书算是个大部头了，有 400 多页吧，不过它首先为你介绍了 Python 的基础语法，因此学起来不会很困难吧。
+* I heart logs — Jay Kreps:  最后一本书则是短小精悍，加起来才 60 多页吧。不过它对于数据收集和处理的技术背景有很好的概述，虽然很多分析家或者数据科学家并不会直接用到这些知识，但是至少你能够理解技术人员们可以用哪些架构去解决数据问题。
+
+- [2017- 机器学习理论篇 1：机器学习的数学基础](https://zhuanlan.zhihu.com/p/25197792)：机器学习的特点就是：以计算机为工具和平台，以数据为研究对象，以学习方法为中心；是概率论、线性代数、数值计算、信息论、最优化理论和计算机科学等多个领域的交叉学科。所以本文就先介绍一下机器学习涉及到的一些最常用的的数学知识。
+
+- [2016-Immersive Linear Algebra #Book#](http://immersivemath.com/ila/index.html): The World's First Linear Algeria Book with fully Interactive Figures.
+
+- [2017-The Mathematics of Machine Learning #Book#](http://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-machine-learning): Machine Learning theory is a field that intersects statistical, probabilistic, computer science and algorithmic aspects arising from learning iteratively from data and finding hidden insights which can be used to build intelligent applications. Despite the immense possibilities of Machine and Deep Learning, a thorough mathematical understanding of many of these techniques is necessary for a good grasp of the inner workings of the algorithms and getting good results.
+
+* [2010-All of Statistics: A Concise Course in Statistical Inference #Book#](http://read.pudn.com/downloads158/ebook/702714/Larry%20Wasserman_ALL%20OF%20Statistics.pdf): The goal of this book is to provide a broad background in probability and statistics for students in statistics, Computer science (especially data mining and machine learning), mathematics, and related disciplines.
+
+* [2008- 统计学完全教程 #Book#](https://drive.wps.cn/view/l/ea00dc2e829f41ec8fd7c5995c41bfc9)：由美国当代著名统计学家 L· 沃塞曼所著的《统计学元全教程》是一本几乎包含了统计学领域全部知识的优秀教材。本书除了介绍传统数理统计学的全部内容以外，还包含了 Bootstrap 方法(自助法)、独立性推断、因果推断、图模型、非参数回归、正交函数光滑法、分类、统计学理论及数据挖掘等统计学领域的新方法和技术。本书不但注重概率论与数理统计基本理论的阐述，同时还强调数据分析能力的培养。本书中含有大量的实例以帮助广大读者快速掌握使用 R 软件进行统计数据分析。
+
+* [2009-Convex Optimization #Book#](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf):This book is about convex optimization, a special class of mathematical optimization problems, which includes least-squares and linear programming problems. It is well known that least-squares and linear programming problems have a fairly complete theory, arise in a variety of applications, and can be solved numerically very efficiently. The basic point of this book is that the same can be said for the larger class of convex optimization problems..
+
+- [2015 - Text Data Management and Analysis #Book#](): A Practical Introduction to Information Retrieval and Text Mining
+
+- [2016 - CS224d: Deep Learning for Natural Language Processing【Course】](http://cs224d.stanford.edu/syllabus.html)
+
+- [2017 - Oxford Deep NLP 2017 course【Course】](https://github.com/oxford-cs-deepnlp-2017/lectures)
 
 ---
