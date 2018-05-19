@@ -18,6 +18,8 @@
 
 * [MySQL 如何存储大数据](https://github.com/zhangyachen/zhangyachen.github.io/issues/96)
 
+- [2017-青铜到王者，快速提升你MySQL数据库的段位！](http://database.51cto.com/art/201708/550029.htm)
+
 # Resource
 
 ## Book
@@ -73,3 +75,7 @@
 * [MySQL Group Replication 官方文档中文版](http://storage.360buyimg.com/brickhaha/Mysql.pdf)：MySQL Group Replication(简称 MGR)是 MySQL 官方于 2016 年 12 月推出的一个全新的高可用与高扩展的解决方案。MySQL 组复制提供了高可用、高扩展、高可靠的 MySQL 集群服务。
 
 * [2017-五大常见的 MySQL 高可用方案](https://zhuanlan.zhihu.com/p/25960208)：这里只讨论常用高可用方案的优缺点以及高可用方案的选型。
+
+# Case Study
+
+- [2016-同程旅游的 MySQL 实践](http://mp.weixin.qq.com/s/LhCHEkSstmru4PnrfuoaVg):  以架构之“道”为基础，呈现更多务实落地的架构内容。

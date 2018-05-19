@@ -36,6 +36,10 @@
 
 * [2018-How To Build GraphQL Servers](https://medium.com/apollo-stack/how-to-build-graphql-servers-87587591ded5#.za2zqmq0i): 一些使用 GraphQL 进行服务端构建的最佳实践.
 
+## Apollo Server
+
+- [2017-Creating a structured, hot-reloadable GraphQL API with Express.js, Apollo Server and Webpack](https://hackernoon.com/creating-a-structured-hot-reloadable-graphql-api-with-express-js-de62c859643): We’ll walk through how to set up an API with Express and Apollo Server
+
 # Client
 
 * [Exploring different GraphQL Clients](https://itnext.io/exploring-different-graphql-clients-d1bc69de305f): I wanted to study how these clients work, so I aimed to implement the same query using different clients and share my experience.

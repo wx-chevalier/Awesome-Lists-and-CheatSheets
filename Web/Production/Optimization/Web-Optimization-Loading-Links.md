@@ -46,6 +46,8 @@
 
 - [2017-Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://parg.co/bwo)
 
+- [2017-Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://vuejsdevelopers.com/2017/07/24/critical-css-webpack/): Isolating critical CSS is something that can be done programmatically, and in this article I’ll show you how to delegate it to your Webpack pipeline.
+
 - [2018-purgecss #Project#](https://github.com/FullHuman/purgecss): Purgecss analyzes your content and your css files. Then it matches the selectors used in your files with the one in your content files. It removes unused selectors from your css, resulting in smaller css files.
 
 ## Lazy Loading: 懒加载

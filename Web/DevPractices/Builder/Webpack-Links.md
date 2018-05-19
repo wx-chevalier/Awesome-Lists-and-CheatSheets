@@ -6,6 +6,8 @@
 
 * [大公司里怎样开发和部署前端代码](https://github.com/fouber/blog/issues/6)。
 
+- [2017-Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007): Hot Module Replacement（以下简称 HMR）是 webpack 发展至今引入的最令人兴奋的特性之一。
+
 # Resource | 资源
 
 ## Book | 书籍
