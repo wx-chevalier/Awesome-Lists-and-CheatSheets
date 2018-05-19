@@ -24,6 +24,8 @@
 
 * [WEBPACK - THE GOOD PARTS](https://presentations.survivejs.com/webpack-the-good-parts/#/00): What is Webpack, Developing, Building, Assets, Bundle/code Splitting, Analysis, Optimizing.
 
+- [2018-Webpack Basics](https://dev.to/kayis/webpack-basics): Many people seem to like Webpack and use it for their everyday web bundling process.
+
 # Configuration: 基础配置
 
 ## Modularity: 模块化

@@ -32,6 +32,8 @@ Source files are hosted in [Github](https://github.com/wxyyxc1992/Awesome-Refere
 
 * [2016-Moving Airbnb Search to React](http://6me.us/2mS): Using experiments to tackle a large refactor with confidence
 
+- [2018-Migrating Medium to React.js and GraphQL](https://www.infoq.com/news/2018/05/medium-reactjs-graphql-migration): making the new system incrementally available to users while not hindering development of new features.
+
 # Resource | 资源
 
 ## Book | 书籍
@@ -73,6 +75,8 @@ Source files are hosted in [Github](https://github.com/wxyyxc1992/Awesome-Refere
 * [2016-Learning React with Create-React-App #Series#](https://parg.co/bhf)
 
 * [2016-React Howto](https://github.com/petehunt/react-howto): Throughout this document, I’ll assume you’ve built a web page with HTML, CSS and JavaScript.
+
+- [2017-Why React Developers LOVE Node](https://medium.com/@samerbuna/why-react-developers-love-node-83f6053d68): Some people mistakenly assume that Node is required in order to use React.
 
 - [2017-Simple React Development in 2017](https://parg.co/bCx): The goal of this guide is to showcase how easy it can be to start modern React development.
 
