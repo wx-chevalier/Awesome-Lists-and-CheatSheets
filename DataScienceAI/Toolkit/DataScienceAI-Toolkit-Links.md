@@ -1,14 +1,10 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# DataScienceAI 工具资料索引
+# DataScienceAI Toolkit Links
 
 * [[原]深入对比数据科学工具箱：Python 和 R 之争](https://zhuanlan.zhihu.com/p/20885818)
 
-* [Deepo #Project#](https://github.com/ufoym/deepo): Deepo is a Docker image with a full reproducible deep learning research environment. It contains most popular deep learning frameworks: theano, tensorflow, sonnet, pytorch, keras, lasagne, mxnet, cntk, chainer, caffe, torch.
-
-* [2017-Turi Create #Project#](https://github.com/apple/turicreate): Turi Create simplifies the development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
-
-* [2015-Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/): At the moment, deep learning is held together by an extremely successful tool. This tool doesn’t seem fundamental; it’s something we’ve stumbled on, with seemingly arbitrary details that change regularly. As a field, we don’t yet have some unifying insight or shared understanding. In fact, the field has several competing narratives!
+- [2015-Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/): At the moment, deep learning is held together by an extremely successful tool. This tool doesn’t seem fundamental; it’s something we’ve stumbled on, with seemingly arbitrary details that change regularly. As a field, we don’t yet have some unifying insight or shared understanding. In fact, the field has several competing narratives!
 
 # CUDA
 

@@ -2,8 +2,8 @@
 
 # Milestone 0.2
 
-* [ ] DataScience-Book-Links
-  * [ ] https://github.com/rohanchikorde/Data-Science-books
+* [x] DataScience-Book-Links
+  * [x] https://github.com/rohanchikorde/Data-Science-books
 
 # Milestone 0.1
 
@@ -28,11 +28,11 @@
   * [ ] 200
   * [ ] 300
 
-* [ ] DataScienceAI-\*-Links
+* [x] DataScienceAI-\*-Links
 
-  * [ ] 发布 Book 与 Course 混合
-  * [ ] 发布 Model 与 OpenSource 混合
-  * [ ] https://github.com/owainlewis/awesome-artificial-intelligence#courses
+  * [x] 发布 Book 与 Course 混合
+  * [x] 发布 Model 与 OpenSource 混合
+  * [x] https://github.com/owainlewis/awesome-artificial-intelligence#courses
 
 * [ ] 整理 Web Widgets 相关 Links
 

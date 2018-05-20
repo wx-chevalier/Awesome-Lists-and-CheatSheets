@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# DataScienceAI Links
+# DataScience & Artificial Intelligence Links
 
 本文是笔者在学习 DataScience 过程中所有资源的汇总，本文着眼于各个领域的入门介绍以及综述性质资源的汇总，并不会过多 的深挖前沿，若有兴趣了解更多，可以关注笔者的[程序猿的数据科学与机器学习实战手册](https://github.com/wxyyxc1992/DataScience-And-MachineLearning-Handbook-For-Coders)。本文主线从对数据科学与机器学习入门概览开始，继而提供一系列的资源、书籍与教程，然后介绍各个具体的领域内的参考文章，最后介绍一系列的实用工具。笔者的数据科学与机器学习世界观图解如下，其从属于笔者的[编程世界观与方法论](https://github.com/wxyyxc1992/Coder-Knowledge-Graph/blob/master/when-you-want-to-learn.zh.md)系列:
 
@@ -22,19 +22,21 @@
 
 * [2017-Teachable Machine](https://github.com/googlecreativelab/teachable-machine): Explore how machine learning works, live in the browser. No coding required.
 
-* [2017-Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience): An open source Data Science repository to learn and apply towards solving real world problems.
+# Resource | 资源
 
-## CheatSheet: 清单
-
-* [2017-Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://parg.co/bad)
-
-# Collection: Links
+## Collection | 集合
 
 * [人工智能从入门到进阶，机器之心高分技术文章全集](http://mp.weixin.qq.com/s/o6egF1_usHSXZCZJ1RTfhQ)
 
 * [Distill](http://distill.pub/): The web is a powerful medium to share new ways of thinking.
 
-# Case:案例
+* [2017-Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience): An open source Data Science repository to learn and apply towards solving real world problems.
+
+## CheatSheet | 清单
+
+* [2017-Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://parg.co/bad)
+
+## Case Study | 案例分析
 
 * [深度学习带来的变革：深度学习的十个典型应用](https://segmentfault.com/a/1190000007391860)
 
@@ -42,19 +44,7 @@
 
 * [Using Deep Learning to Discover Drugs, Classify Pokémon, Save Zebras, Play Flappy Bird & More](https://medium.com/transmission-newsletter/using-deep-learning-to-discover-drugs-classify-pok%C3%A9mon-save-zebras-play-flappy-bird-more-a3a57fc98a15?source=reading_list---------1-2)
 
-# Engineering: 工程化
-
-* [2015-Doing Data Science at Twitter](https://parg.co/UXU): A reflection of my two year Journey so far. Sample size N = 1
-
-# Book: 书籍
-
-# Toolkit: 工具
-
-* [Apache Superset](https://github.com/apache/incubator-superset): Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application. [Superset: Airbnb’s data exploration platform](https://parg.co/bIh)
-
-# Others: 其他
-
-## Competition:机器学习相关竞赛
+## Competition | 机器学习相关竞赛
 
 * [阿里天池 新人实战赛](https://tianchi.shuju.aliyun.com/getStart/index.htm?spm=5176.100065.111.3.jgYTrv&id=&_lang=zh_CN)
 
@@ -72,7 +62,7 @@
 
 * [DataFountain](http://www.wid.org.cn/data/science/player/home/;jsessionid=47D3236D25B0A85DE344BEFCBF1159F6-n1):DF,CCF 指定中国专业的数据竞赛平台
 
-## Career:职业
+# Career | 职业
 
 * [Quora 关于机器学习的招聘启事](https://www.quora.com/careers/technical_lead_machine_learning)
 
@@ -81,21 +71,3 @@
 * [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks)
 
 * [代码解析深度学习系统编程模型：TensorFlow vs. CNTK](http://geek.csdn.net/news/detail/62429)
-
-* [tensorflow-playground](https://github.com/tensorflow/playground):Play with neural networks!
-
-* [dl-docker](https://github.com/saiprashanths/dl-docker): 将常用的深度学习工具打包在了一个 Docker 镜像中
-
-- [deep-learning-models](https://github.com/fchollet/deep-learning-models):Keras code and weights files for popular deep learning models.
-
-- [Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning)
-
-- [neurojs](https://github.com/janhuenermann/neurojs): neurojs is a JavaScript framework for deep learning in the browser. It mainly focuses on reinforcement learning, but can be used for any neural network based task. It contains neat demos to visualise these capabilities, for instance a 2D self-driving car.
-
-* [2016-Deep Learning By Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://github.com/HFTrader/DeepLearningBook): 中文译本[这里](https://pan.baidu.com/s/1o8boqdc)。The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free. The print version will be available for sale soon.
-
-* [Stanford Deep Learning Tutorial #Book#](http://deeplearning.stanford.edu/tutorial/): This tutorial will teach you the main ideas of Unsupervised Feature Learning and Deep Learning. By working through it, you will also get to implement several feature learning/deep learning algorithms, get to see them work for yourself, and learn how to apply/adapt these ideas to new problems.
-
-* [2016-Neural Networks and Deep Learning #Book#](http://neuralnetworksanddeeplearning.com/): Neural Networks and Deep Learning is a free online book. The book will teach you about: (1) Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data. (2) Deep learning, a powerful set of techniques for learning in neural networks.
-
-* [深度学习入门 #Book#](https://github.com/PaddlePaddle/book/blob/develop/README.md)：您现在在看的这本书是一本 “ 交互式 ” 电子书 —— 每一章都可以运行在一个 Jupyter Notebook 里。 我们把 Jupyter、PaddlePaddle 、以及各种被依赖的软件都打包进一个 Docker image 了。所以您不需要自己来安装各种软件，只需要安装 Docker 即可。

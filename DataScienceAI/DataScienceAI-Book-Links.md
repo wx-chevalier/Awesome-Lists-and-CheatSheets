@@ -6,112 +6,81 @@
 
 A curated list of Artificial Intelligence (AI) courses and books, aggerated with [DataScienceAI-Book-Links](./DataScienceAI-Book-Links.md) and [DataScienceAI-Course-Links](./DataScienceAI-Course-Links.md) from [Awesome-Links](https://github.com/wxyyxc1992/Awesome-Links).
 
-机器学习、深度学习与自然语言处理领域推荐的书籍列表是笔者 [Awesome Links](http://6me.us/qvPQ) 系列的一部分；对于其他的资料、文章、视频教程、工具实践请参考[面向程序猿的数据科学与机器学习知识体系及资料合集](http://6me.us/2qZiOD)。本文算是抛砖引玉，笔者最近有空就会在 Pad 上面随手翻阅这些书籍，希望能够了解其他优秀的书籍。
+人工智能、深度学习与 Tensorflow 相关书籍、课程、示例列表是笔者 [Awesome Links](https://github.com/wxyyxc1992/Awesome-Links) 系列的一部分；对于其他的资料集锦、模型、开源工具与框架请参考 [DataScienceAI Links Series](https://github.com/wxyyxc1992/Awesome-Links/tree/master/DataScienceAI)。
 
 # Mathematics | 数学基础
 
+* [2008-统计学完全教程 #Book#](https://book.douban.com/subject/3180810/)：由美国当代著名统计学家 L·沃塞曼所著的《统计学元全教程》是一本几乎包含了统计学领域全部知识的优秀教材。本书除了介绍传统数理统计学的全部内容以外，还包含了 Bootstrap 方法(自助法)、独立性推断、因果推断、图模型、非参数回归、正交函数光滑法、分类、统计学理论及数据挖掘等统计学领域的新方法和技术。本书不但注重概率论与数理统计基本理论的阐述，同时还强调数据分析能力的培养。本书中含有大量的实例以帮助广大读者快速掌握使用 R 软件进行统计数据分析。
+
+- [2009-Convex Optimization #Book#](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf):This book is about convex optimization, a special class of mathematical optimization problems, which includes least-squares and linear programming problems. It is well known that least-squares and linear programming problems have a fairly complete theory, arise in a variety of applications, and can be solved numerically very efficiently. The basic point of this book is that the same can be said for the larger class of convex optimization problems.
+
+- [2009-The Elements of Statistical Learning: Data Mining, Inference, and Prediction-Second Edition](https://web.stanford.edu/~hastie/ElemStatLearn/): Hastie and Tibshirani cover a broad range of topics, from supervised learning (prediction) to unsupervised learning including neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book.
+
 * [2010-All of Statistics: A Concise Course in Statistical Inference #Book#](http://read.pudn.com/downloads158/ebook/702714/Larry%20Wasserman_ALL%20OF%20Statistics.pdf): The goal of this book is to provide a broad background in probability and statistics for students in statistics, Computer science (especially data mining and machine learning), mathematics, and related disciplines.
 
-* [2008-统计学完全教程](https://drive.wps.cn/view/l/ea00dc2e829f41ec8fd7c5995c41bfc9)：由美国当代著名统计学家 L·沃塞曼所著的《统计学元全教程》是一本几乎包含了统计学领域全部知识的优秀教材。本书除了介绍传统数理统计学的全部内容以外，还包含了 Bootstrap 方法(自助法)、独立性推断、因果推断、图模型、非参数回归、正交函数光滑法、分类、统计学理论及数据挖掘等统计学领域的新方法和技术。本书不但注重概率论与数理统计基本理论的阐述，同时还强调数据分析能力的培养。本书中含有大量的实例以帮助广大读者快速掌握使用 R 软件进行统计数据分析。
+- [2012-李航-统计方法学 #Book#](https://www.amazon.cn/dp/B007TSFMTA): 本书全面系统地介绍了统计学习的主要方法，特别是监督学习方法，包括感知机、k 近邻法、朴素贝叶斯法、决策树、逻辑斯谛回归与熵模型、支持向量机、提升方法、EM 算法、隐马尔可夫模型和条件随机场等。
+
+* [2016-Immersive Linear Algebra #Book#](http://immersivemath.com/ila/index.html): The World's First Linear Algeria Book with fully Interactive Figures.
+
+- [2017-The Mathematics of Machine Learning #Book#](http://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-machine-learning): Machine Learning theory is a field that intersects statistical, probabilistic, computer science and algorithmic aspects arising from learning iteratively from data and finding hidden insights which can be used to build intelligent applications. Despite the immense possibilities of Machine and Deep Learning, a thorough mathematical understanding of many of these techniques is necessary for a good grasp of the inner workings of the algorithms and getting good results.
 
 # Machine Learning | 机器学习
 
 * [2007-Pattern Recognition And Machine Learning #Book#](https://book.douban.com/subject/2061116/): The book is suitable for courses on machine learning, statistics, computer science, signal processing, computer vision, data mining, and bioinformatics.
 
-* [2012 - Machine Learning A Probabilistic Perspective #Book#](https://drive.wps.cn/view/l/8a5acb26d91f4008b425430eae8565fb): This textbook offers a comprehensive and self-contained introduction to the field of machine learning, a unified, probabilistic approach. The coverage combines breadth and depth, offering necessary background material on such topics as probability, optimization, and linear algebra as well as discussion of recent developments in the field, including conditional random fields, L1 regularization, and deep learning.
+* [2012-Machine Learning A Probabilistic Perspective #Book#](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020): This textbook offers a comprehensive and self-contained introduction to the field of machine learning, a unified, probabilistic approach. The coverage combines breadth and depth, offering necessary background material on such topics as probability, optimization, and linear algebra as well as discussion of recent developments in the field, including conditional random fields, L1 regularization, and deep learning.
 
-* [2012-李航-统计方法学 #Book#](https://drive.wps.cn/view/l/ccfc95e5c9ba42db8cbcbb6507d85d1d)：李航老师的这本书偏优化和推倒，推倒相应算法的时候可以参考这本书。
+- [2014-The Cambridge Handbook of Artificial Intelligence #Book#](https://parg.co/Y6V): With a focus on theory rather than technical and applied issues, the volume will be valuable not only to people working in AI, but also to those in other disciplines wanting an authoritative and up-to-date introduction to the field.
 
-- [2014-DataScience From Scratch #Book#](https://drive.wps.cn/view/l/5f44c391b0d74b798122ebb4655cad22): In this book, you’ll learn how many of the most fundamental data science tools and algorithms work by implementing them from scratch.
+* [2015-Data Mining, The Textbook #Book#](https://www.springer.com/gp/book/9783319141411): This textbook explores the different aspects of data mining from the fundamentals to the complex data types and their applications, capturing the wide diversity of problem domains for data mining issues.
 
-- [2016-Python Data Science Handbook #Book#](https://github.com/jakevdp/PythonDataScienceHandbook):Jupyter Notebooks for the Python Data Science Handbook
+- [2016-Dive into Machine Learning #Book#](https://github.com/hangtwenty/dive-into-machine-learning): I learned Python by hacking first, and getting serious later. I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself.
 
-* [2016-周志华 机器学习 #Book#](https://drive.wps.cn/view/l/004e86e89e4347fcb1e10569a35295a3)：周志华老师的这本书非常适合作为机器学习入门的书籍，书中的例子十分形象且简单易懂。
+* [2016-周志华-机器学习 #Book#](https://www.amazon.cn/dp/B01ARKEV1G)：机器学习》作为该领域的入门教材，在内容上尽可能涵盖机器学习基础知识的各方面。介绍了机器学习的基础知识，经典而常用的机器学习方法（决策树、神经网络、支持向量机、贝叶斯分类器、集成学习、聚类、降维与度量学习），特征选择与稀疏学习、计算学习理论、半监督学习、概率图模型、规则学习以及强化学习等。
 
-- [University of Illinois at Urbana-Champaign:Text Mining and Analytics【Course】](https://zh.coursera.org/learn/text-mining)
+* [2016-Prateek Joshi-Python Real World Machine Learning #Book#](https://parg.co/Y63): Learn to solve challenging data science problems by building powerful machine learning models using Python.
 
-- [台大机器学习技法【Course】](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
-
-- [斯坦福 机器学习课程【Course】](https://zh.coursera.org/learn/machine-learning)
-
-* [CS224d: Deep Learning for Natural Language Processing【Course】](http://cs224d.stanford.edu/syllabus.html)
-
-* [Unsupervised Feature Learning and Deep Learning【Course】](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial):来自斯坦福的无监督特征学习与深度学习系列教程
-
-- [2015 - Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook):Jupyter Notebooks for the Python Data Science Handbook
-
-* [2014 - DataScience From Scratch](https://drive.wps.cn/view/l/5f44c391b0d74b798122ebb4655cad22)
-
-* [2015-Data Mining, The Textbook](https://drive.wps.cn/view/l/57c1ef99942b4cb789ed464a189df6c0)
-
-* [2016-周志华-机器学习](https://drive.wps.cn/view/l/004e86e89e4347fcb1e10569a35295a3)
-
-* [2012-Machine Learning A Probabilistic Perspective #Book#](https://drive.wps.cn/view/l/8a5acb26d91f4008b425430eae8565fb)
+* [2016-Designing Machine Learning Systems with Python](https://parg.co/Y6O): Gain an understanding of the machine learning design process, Optimize machine learning systems for improved accuracy, Understand common programming tools and techniques for machine learning, Develop techniques and strategies for dealing with large amounts of data from a variety of sources, Build models to solve unique tasks.
 
 * [2018-AndrewNG-Machine Learning Yearning #Book#](http://www.mlyearning.org/): This book is focused not on teaching you ML algorithms, but on how to make ML algorithms work. Some technical AI classes will give you a hammer; this book teaches you how to use the hammer.
 
+* [2018-Artificial Intelligence: A Modern Approach-3rd Edition #Book#](https://parg.co/Y6t):Artificial Intelligence: A Modern Approach, 3e offers the most comprehensive, up-to-date introduction to the theory and practice of artificial intelligence. Number one in its field, this textbook is ideal for one or two-semester, undergraduate or graduate-level courses in Artificial Intelligence.
+
+## Reinforcement Learning | 强化学习
+
+* [2018-Reinforcement Learning: An Introduction-Second Edition #Book#](https://parg.co/Y6M): This textbook provides a clear and simple account of the key ideas and algorithms of reinforcement learning that is accessible to readers in all the related disciplines. Familiarity with elementary concepts of probability is required.
+
 # DeepLearning | 深度学习
 
-* [2015-The Deep Learning Textbook #Book#](http://www.deeplearningbook.org/):中文译本[这里](https://exacity.github.io/deeplearningbook-chinese/Chapter1_introduction/)，The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free.
+* [2015-Goodfellow, Bengio and Courville-The Deep Learning Textbook #Book#](http://www.deeplearningbook.org/):中文译本[这里](https://exacity.github.io/deeplearningbook-chinese/Chapter1_introduction/)，The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free.
 
-* [Stanford Deep Learning Tutorial #Book#](http://deeplearning.stanford.edu/tutorial/): This tutorial will teach you the main ideas of Unsupervised Feature Learning and Deep Learning. By working through it, you will also get to implement several feature learning/deep learning algorithms, get to see them work for yourself, and learn how to apply/adapt these ideas to new problems.
+* [2016-Stanford Deep Learning Tutorial #Book#](http://deeplearning.stanford.edu/tutorial/): This tutorial will teach you the main ideas of Unsupervised Feature Learning and Deep Learning. By working through it, you will also get to implement several feature learning/deep learning algorithms, get to see them work for yourself, and learn how to apply/adapt these ideas to new problems.
 
-* [Neural Networks and Deep Learning #Book#](http://neuralnetworksanddeeplearning.com/): Neural Networks and Deep Learning is a free online book. The book will teach you about: (1) Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data. (2) Deep learning, a powerful set of techniques for learning in neural networks
+* [2016-Building Machine Learning Projects with TensorFlow #Book#](https://parg.co/Y6s): Engaging projects that will teach you how complex data can be exploited to gain the most insight.
 
-* [Practical Deep Learning For Coders 【Course】](http://course.fast.ai/index.html):七周的免费深度学习课程，学习如何构建那些优秀的模型。
+- [2016-深度学习入门 #Book#](https://github.com/PaddlePaddle/book/blob/develop/README.md)：您现在在看的这本书是一本“交互式”电子书 —— 每一章都可以运行在一个 Jupyter Notebook 里。 我们把 Jupyter, PaddlePaddle, 以及各种被依赖的软件都打包进一个 Docker image 了。所以您不需要自己来安装各种软件，只需要安装 Docker 即可。
 
-* [Oxford Deep NLP 2017 course【Course】](https://github.com/oxford-cs-deepnlp-2017/lectures): This is an advanced course on natural language processing. Automatically processing natural language inputs and producing language outputs is a key component of Artificial General Intelligence.
+- [2017-Neural Networks and Deep Learning #Book#](http://neuralnetworksanddeeplearning.com/): Neural Networks and Deep Learning is a free online book. The book will teach you about: (1) Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data. (2) Deep learning, a powerful set of techniques for learning in neural networks
 
-- [TensorFlow Book #Book#](https://github.com/BinRoot/TensorFlow-Book)
+* [2017-TensorFlow Book #Book#](https://github.com/BinRoot/TensorFlow-Book): Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
 
 # NLP | 自然语言处理
 
-* [2016 - CS224d: Deep Learning for Natural Language Processing【Course】](http://cs224d.stanford.edu/syllabus.html)
+* [2016-Text Data Management and Analysis #Book#](https://dl.acm.org/citation.cfm?id=2915031): A Practical Introduction to Information Retrieval and Text Mining
 
-- [2017 - Oxford Deep NLP 2017 course【Course】](https://github.com/oxford-cs-deepnlp-2017/lectures)
+* [2017-DL4NLP-Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP):
+  State of the art resources for NLP sequence modeling tasks such as machine translation, image captioning, and dialog.
 
-- [2015 - Text Data Management and Analysis #Book#](): A Practical Introduction to Information Retrieval and Text Mining
+# Computer Vision | 计算机视觉
 
-- [DL4NLP-Deep Learning for NLP resources【Resource】](https://github.com/andrewt3000/DL4NLP)
+* [2016-OpenCV: Computer Vision Projects with Python](https://parg.co/Y6Q): Use OpenCV's Python bindings to capture video, manipulate images, and track objects. Learn about the different functions of OpenCV and their actual implementations.
 
 # DataScience | 泛数据科学
 
-* [2012-深入浅出数据分析-中文版 #Book#](https://drive.wps.cn/view/l/215ff72bda3f4054b1b7e50fc9a2ee30)：深入浅出数据分析》以类似“章回小说”的活泼形式，生动地向读者展现优秀的数据分析人员应知应会的技术：数据分析基本步骤、实验方法、最优化方法、假设检验方法、贝叶斯统计方法、主观概率法、启发法、直方图法、回归法、误差处理、相关数据库、数据整理技巧；正文之后，意犹未尽地以三篇附录介绍数据分析十大要务、R 工具及 ToolPak 工具，在充分展现目标知识以外，为读者搭建了走向深入研究的桥梁。
+* [2012-深入浅出数据分析-中文版 #Book#](https://book.douban.com/subject/5257905/): 深入浅出数据分析》以类似“章回小说”的活泼形式，生动地向读者展现优秀的数据分析人员应知应会的技术：数据分析基本步骤、实验方法、最优化方法、假设检验方法、贝叶斯统计方法、主观概率法、启发法、直方图法、回归法、误差处理、相关数据库、数据整理技巧；正文之后，意犹未尽地以三篇附录介绍数据分析十大要务、R 工具及 ToolPak 工具，在充分展现目标知识以外，为读者搭建了走向深入研究的桥梁。
 
-- Lean Analytics — by Croll & Yoskovitz:  本书是教会你如何建立基本的以商业思维去使用这些数据，虽然这本书本身定位是面向初学者，不过我觉得你可以从中学到更多。你可以从本书中学到一条基本准则、6 个基础的线上商业形态以及隐藏其后的数据策略。
-- Business value in the ocean of data — by Fajszi, Cser & Fehér:  如果说 Lean Analytics 是关于面向初学者讲解商业逻辑加上数据，那么本书是面向大型公司来讲解这些内容。听上去好像没啥新鲜的，不过往往初创企业与独角兽之间面对的问题是千差万别，本书中会介绍譬如保险公司是如何进行定价预测或者银行从业者们又在面临怎样的数据问题。
-- Naked Statistics — Charles Wheelan:  这本书我一直很是推荐，因为它不仅仅面向数据科学家，而是为任何一个行业的人提供基本的统计思维，这一点恰恰是我认为非常关键的。这本书并没有太多的长篇大论，而是以一个又一个的故事形式来讲解统计思维在公司运营中的重要作用。
-- Doing Data Science — Schutt and O’Neil:  这算是最后一本非技术向的书了吧，这本书相较于上面三本更上一层楼，他深入了譬如拟合模型、垃圾信息过滤、推荐系统等等方面的知识。
-- Data Science at the Command Line — Janssens:  在介绍本书之前首先要强调下，千万不要畏惧编程，学习些简单的编程知识能够有助于你做更多有趣的事。你可以自己去获取、清洗、转化或者分析你的数据。不过我也不会一上来就扔出大堆的编程知识，我建议还是从简单的命令行操作开始学起，而本书正是介绍如何只用命令行就帮你完成些数据科学的任务。
-- Python for Data Analysis — McKinney: Python 算是近几年来非常流行的数据分析的语言了吧，人生苦短，请用 Python。这本书算是个大部头了，有 400 多页吧，不过它首先为你介绍了 Python 的基础语法，因此学起来不会很困难吧。
-- I heart logs — Jay Kreps:  最后一本书则是短小精悍，加起来才 60 多页吧。不过它对于数据收集和处理的技术背景有很好的概述，虽然很多分析家或者数据科学家并不会直接用到这些知识，但是至少你能够理解技术人员们可以用哪些架构去解决数据问题。
+- [2014-DataScience From Scratch #Book#](http://shop.oreilly.com/product/0636920033400.do): In this book, you’ll learn how many of the most fundamental data science tools and algorithms work by implementing them from scratch.
 
-* [2012 - 深入浅出数据分析 中文版 #Book#](https://drive.wps.cn/view/l/215ff72bda3f4054b1b7e50fc9a2ee30)：深入浅出数据分析》以类似“章回小说”的活泼形式，生动地向读者展现优秀的数据分析人员应知应会的技术：数据分析基本步骤、实验方法、最优化方法、假设检验方法、贝叶斯统计方法、主观概率法、启发法、直方图法、回归法、误差处理、相关数据库、数据整理技巧；正文之后，意犹未尽地以三篇附录介绍数据分析十大要务、R 工具及 ToolPak 工具，在充分展现目标知识以外，为读者搭建了走向深入研究的桥梁。
-
-* Lean Analytics — by Croll & Yoskovitz:  本书是教会你如何建立基本的以商业思维去使用这些数据，虽然这本书本身定位是面向初学者，不过我觉得你可以从中学到更多。你可以从本书中学到一条基本准则、6 个基础的线上商业形态以及隐藏其后的数据策略。
-* Business value in the ocean of data — by Fajszi, Cser & Fehér:  如果说 Lean Analytics 是关于面向初学者讲解商业逻辑加上数据，那么本书是面向大型公司来讲解这些内容。听上去好像没啥新鲜的，不过往往初创企业与独角兽之间面对的问题是千差万别，本书中会介绍譬如保险公司是如何进行定价预测或者银行从业者们又在面临怎样的数据问题。
-* Naked Statistics — Charles Wheelan:  这本书我一直很是推荐，因为它不仅仅面向数据科学家，而是为任何一个行业的人提供基本的统计思维，这一点恰恰是我认为非常关键的。这本书并没有太多的长篇大论，而是以一个又一个的故事形式来讲解统计思维在公司运营中的重要作用。
-* Doing Data Science — Schutt and O’Neil:  这算是最后一本非技术向的书了吧，这本书相较于上面三本更上一层楼，他深入了譬如拟合模型、垃圾信息过滤、推荐系统等等方面的知识。
-* Data Science at the Command Line — Janssens:  在介绍本书之前首先要强调下，千万不要畏惧编程，学习些简单的编程知识能够有助于你做更多有趣的事。你可以自己去获取、清洗、转化或者分析你的数据。不过我也不会一上来就扔出大堆的编程知识，我建议还是从简单的命令行操作开始学起，而本书正是介绍如何只用命令行就帮你完成些数据科学的任务。
-* Python for Data Analysis — McKinney: Python 算是近几年来非常流行的数据分析的语言了吧，人生苦短，请用 Python。这本书算是个大部头了，有 400 多页吧，不过它首先为你介绍了 Python 的基础语法，因此学起来不会很困难吧。
-* I heart logs — Jay Kreps:  最后一本书则是短小精悍，加起来才 60 多页吧。不过它对于数据收集和处理的技术背景有很好的概述，虽然很多分析家或者数据科学家并不会直接用到这些知识，但是至少你能够理解技术人员们可以用哪些架构去解决数据问题。
-
-- [2017- 机器学习理论篇 1：机器学习的数学基础](https://zhuanlan.zhihu.com/p/25197792)：机器学习的特点就是：以计算机为工具和平台，以数据为研究对象，以学习方法为中心；是概率论、线性代数、数值计算、信息论、最优化理论和计算机科学等多个领域的交叉学科。所以本文就先介绍一下机器学习涉及到的一些最常用的的数学知识。
-
-- [2016-Immersive Linear Algebra #Book#](http://immersivemath.com/ila/index.html): The World's First Linear Algeria Book with fully Interactive Figures.
-
-- [2017-The Mathematics of Machine Learning #Book#](http://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-machine-learning): Machine Learning theory is a field that intersects statistical, probabilistic, computer science and algorithmic aspects arising from learning iteratively from data and finding hidden insights which can be used to build intelligent applications. Despite the immense possibilities of Machine and Deep Learning, a thorough mathematical understanding of many of these techniques is necessary for a good grasp of the inner workings of the algorithms and getting good results.
-
-* [2010-All of Statistics: A Concise Course in Statistical Inference #Book#](http://read.pudn.com/downloads158/ebook/702714/Larry%20Wasserman_ALL%20OF%20Statistics.pdf): The goal of this book is to provide a broad background in probability and statistics for students in statistics, Computer science (especially data mining and machine learning), mathematics, and related disciplines.
-
-* [2008- 统计学完全教程 #Book#](https://drive.wps.cn/view/l/ea00dc2e829f41ec8fd7c5995c41bfc9)：由美国当代著名统计学家 L· 沃塞曼所著的《统计学元全教程》是一本几乎包含了统计学领域全部知识的优秀教材。本书除了介绍传统数理统计学的全部内容以外，还包含了 Bootstrap 方法(自助法)、独立性推断、因果推断、图模型、非参数回归、正交函数光滑法、分类、统计学理论及数据挖掘等统计学领域的新方法和技术。本书不但注重概率论与数理统计基本理论的阐述，同时还强调数据分析能力的培养。本书中含有大量的实例以帮助广大读者快速掌握使用 R 软件进行统计数据分析。
-
-* [2009-Convex Optimization #Book#](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf):This book is about convex optimization, a special class of mathematical optimization problems, which includes least-squares and linear programming problems. It is well known that least-squares and linear programming problems have a fairly complete theory, arise in a variety of applications, and can be solved numerically very efficiently. The basic point of this book is that the same can be said for the larger class of convex optimization problems..
-
-- [2015 - Text Data Management and Analysis #Book#](): A Practical Introduction to Information Retrieval and Text Mining
-
-- [2016 - CS224d: Deep Learning for Natural Language Processing【Course】](http://cs224d.stanford.edu/syllabus.html)
-
-- [2017 - Oxford Deep NLP 2017 course【Course】](https://github.com/oxford-cs-deepnlp-2017/lectures)
+* [2016-Python Data Science Handbook #Book#](https://github.com/jakevdp/PythonDataScienceHandbook):Jupyter Notebooks for the Python Data Science Handbook
 
 ---

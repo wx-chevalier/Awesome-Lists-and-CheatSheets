@@ -2,6 +2,12 @@
 
 # DataScienceAI OpenSource Links
 
+* [Apache Superset](https://github.com/apache/incubator-superset): Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application. [Superset: Airbnb’s data exploration platform](https://parg.co/bIh)
+
+- [Deepo #Project#](https://github.com/ufoym/deepo): Deepo is a Docker image with a full reproducible deep learning research environment. It contains most popular deep learning frameworks: theano, tensorflow, sonnet, pytorch, keras, lasagne, mxnet, cntk, chainer, caffe, torch.
+
+- [2017-Turi Create #Project#](https://github.com/apple/turicreate): Turi Create simplifies the development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
+
 # Datasets
 
 * [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全的中华古典文集数据库, 包含 5.5 万首唐诗、26 万首宋诗和 2.1 万首宋词. 唐宋两朝近 1.4 万古诗人, 和两宋时期 1.5K 词人. 数据来源于互联网。
@@ -12,7 +18,7 @@
 
 * [Wikimedia Dumps](https://dumps.wikimedia.org): Wiki 上的数据打包下载。
 
-* [Reddit Datasets](https://www.reddit.com/r/datasets/):Reddit 上关于数据集的讨论板块
+* [Reddit Datasets](https://www.reddit.com/r/datasets/): Reddit 上关于数据集的讨论板块
 
 * [InstaReProxy #Project#](https://github.com/whizzzkid/instagram-proxy-api): This builds over the Instagram's public API to provide more functionality and provides a CORS complaint reverse instagram proxy service.
 
@@ -29,6 +35,8 @@
 * [tfjs #Project#](https://github.com/tensorflow/tfjs): A WebGL accelerated, browser based JavaScript library for training and deploying ML models.
 
 * [brain.js #Project#](https://github.com/BrainJS/brain.js): brain.js is a library of Neural Networks written in JavaScript.
+
+* [neurojs](https://github.com/janhuenermann/neurojs): neurojs is a JavaScript framework for deep learning in the browser. It mainly focuses on reinforcement learning, but can be used for any neural network based task. It contains neat demos to visualise these capabilities, for instance a 2D self-driving car.
 
 # Computer Vision
 

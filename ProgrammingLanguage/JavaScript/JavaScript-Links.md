@@ -68,7 +68,7 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 * [2015-ECMAScript 6 入门 #Book#](http://es6.ruanyifeng.com/#README)：ECMAScript 6 入门是由阮一峰老师编写的一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
 
-* [2015-ES6 in Depth #Book#](https://ponyfoo.com/articles/tagged/es6-in-depth)： A twenty-four article-long series of pragmatic articles describing JavaScript language features in ES6. 中文译本[深入浅出 ES6]()
+* [2015-ES6 in Depth #Book#](https://ponyfoo.com/articles/tagged/es6-in-depth): A twenty-four article-long series of pragmatic articles describing JavaScript language features in ES6. 中文译本[深入浅出 ES6]()
 
 * [2015-Exploring ES6 #Book#](http://exploringjs.com/es6/index.html): Upgrade to the next version of JavaScript
 

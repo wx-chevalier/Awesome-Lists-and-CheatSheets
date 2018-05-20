@@ -64,7 +64,7 @@ Awesome Links  是 [Awesome-Coder](https://github.com/wxyyxc1992/Awesome-Coder) 
 * #Book#：书籍
 * #Course#：视频教程
 * #Resource#：资源集锦
-* #Project#： 开源的项目或者框架、库。
+* #Project#: 开源的项目或者框架、库。
 
 # 前言
 

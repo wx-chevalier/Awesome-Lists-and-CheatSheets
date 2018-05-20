@@ -26,8 +26,6 @@
 
 - [sjchoi86-深度学习指导](https://github.com/sjchoi86/dl_tutorials):一系列对于深度学习入门指导的 PPT
 
-- [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
-
 - [【直观梳理深度学习关键概念】优化算法、调参基本思路、正则化方式等](https://mp.weixin.qq.com/s/GYno7htF_-Hw4UN_Nc2etg)
 
 ## Review

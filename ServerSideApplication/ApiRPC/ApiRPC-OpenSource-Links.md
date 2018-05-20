@@ -12,7 +12,7 @@
 
 * [pREST #Project#](https://github.com/prest/prest): Serve a RESTful API from any PostgreSQL database
 
-* [apig #Project#](https://github.com/wantedly/apig)： Golang RESTful API Server Generator
+* [apig #Project#](https://github.com/wantedly/apig): Golang RESTful API Server Generator
 
 # API Management
 

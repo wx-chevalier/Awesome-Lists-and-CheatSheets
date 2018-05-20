@@ -17,7 +17,7 @@
 
 * [推荐系统的苟且和远方](http://h2ex.com/1280)
 
-* [深度丨从零搭建推荐体系： 推荐体系和评估体系(下)](http://www.tuicool.com/articles/67ZjIrZ)
+* [深度丨从零搭建推荐体系: 推荐体系和评估体系(下)](http://www.tuicool.com/articles/67ZjIrZ)
 
 * [推荐系统老司机的十条经验 ](http://mp.weixin.qq.com/s?__biz=MzA4OTk5OTQzMg==&mid=2449231408&idx=1&sn=e564d339803a04a59293c585b82a1a03)
 
