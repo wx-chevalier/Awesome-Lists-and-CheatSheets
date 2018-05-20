@@ -6,6 +6,8 @@
 
 * [Snabbdom #Project#](https://github.com/snabbdom/snabbdom): A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 
+- [asm-dom #Project#](https://github.com/mbasso/asm-dom): A minimal WebAssembly virtual DOM to build C++ SPA (Single page applications) 
+
 # Web Worker
 
 * [Workly #Project#](https://github.com/pshihn/workly): A really simple way to move a stand-alone function/class to a worker thread.

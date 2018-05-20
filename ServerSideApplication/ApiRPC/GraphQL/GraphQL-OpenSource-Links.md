@@ -32,3 +32,5 @@
 # Utility
 
 * [dataloader #Project#](https://github.com/facebook/dataloader): DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
+
+- [sql-to-graphql #Project#](https://github.com/rexxars/sql-to-graphql): Generate GraphQL schemas and server based on SQL table structure.

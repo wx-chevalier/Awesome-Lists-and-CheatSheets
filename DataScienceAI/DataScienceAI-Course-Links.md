@@ -6,9 +6,15 @@
 
 * [2010-MIT Artifical Intelligence Videos](https://parg.co/Y6h): This course includes interactive demonstrations which are intended to stimulate interest and to help students gain intuition about how artificial intelligence methods work under a variety of circumstances.
 
+<<<<<<< HEAD
 * [2014-斯坦福-机器学习课程 #Course#](https://zh.coursera.org/learn/machine-learning): 在本课程中，您将学习最高效的机器学习技术，了解如何使用这些技术，并自己动手实践这些技术。更重要的是，您将不仅将学习理论知识，还将学习如何实践，如何快速使用强大的技术来解决新问题。最后，您将了解在硅谷企业如何在机器学习和 AI 领域进行创新。
 
 * [2014-Statistical Learning (Self-Paced) #Course#](https://parg.co/Y6f): This is an introductory-level course in supervised learning, with a focus on regression and classification methods.
+=======
+- [Oxford Deep NLP 2017 course #Course#](https://github.com/oxford-cs-deepnlp-2017/lectures): This is an advanced course on natural language processing. Automatically processing natural language inputs and producing language outputs is a key component of Artificial General Intelligence.
+
+- [2017-DeepLearning AI #Course#](https://github.com/fastai/fastai)
+>>>>>>> 720ddbd7878b0332b26f9f67411c3e52078116cc
 
 * [2015-Udacity-Intro to Artificial Intelligence #Course#](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271): In this course, you’ll learn the basics of modern AI as well as some of the representative applications of AI. Along the way, we also hope to excite you about the numerous applications and huge possibilities in the field of AI, which continues to expand human capability beyond our imagination.
 
@@ -44,9 +50,13 @@
 
 # Examples | 示范
 
+<<<<<<< HEAD
 * [2015-Trained image classification models for Keras #Project#](https://github.com/fchollet/deep-learning-models): Keras code and weights files for popular deep learning models.
 
 - [All-in-one Docker image for Deep Learning #Project#](https://github.com/saiprashanths/dl-docker): An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
+=======
+* [Practical Deep Learning For Coders by FastAI #Course#](http://course.fast.ai/index.html)：fast.ai 提供的七周的免费深度学习课程，学习如何构建那些优秀的模型；目前已经包含了[ Part 1 ](http://course.fast.ai/)、[ Part 2 ](http://course.fast.ai/part2.html)。
+>>>>>>> 720ddbd7878b0332b26f9f67411c3e52078116cc
 
 - [Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning): A list of popular github projects related to deep learning (ranked by stars).
 

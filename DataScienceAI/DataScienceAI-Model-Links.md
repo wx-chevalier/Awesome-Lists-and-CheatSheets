@@ -10,15 +10,17 @@
 
 * [2018-Minigo #Project#](https://github.com/tensorflow/minigo): A minimalist Go engine modeled after AlphaGo Zero, built on MuGo.
 
+<<<<<<< HEAD
 - [2018-How to build your own AlphaZero AI using Python and Keras](https://parg.co/UiX): Teach a machine to learn Connect4 strategy through self-play and deep learning.
 
 # Image Processing | 图像处理
+=======
+# Image Processing
+>>>>>>> 720ddbd7878b0332b26f9f67411c3e52078116cc
 
 * [2018-One Pixel Attack #Project#](https://github.com/Hyperparticle/one-pixel-attack-keras): Keras reimplementation of "One pixel attack for fooling deep neural networks" using differential evolution on cifar10.
 
 * [person-blocker #Project#](https://github.com/minimaxir/person-blocker): Automatically "block" people in images (like Black Mirror) using a pretrained neural network.
-
-* [2018-Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://parg.co/Yq4)
 
 # Development | 开发辅助
 
