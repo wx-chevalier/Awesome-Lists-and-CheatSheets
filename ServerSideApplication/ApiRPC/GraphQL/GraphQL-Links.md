@@ -24,10 +24,6 @@ This file aggregates curated popular links for learning GraphQL. More reference 
 
 * [Give it a REST: use GraphQL for your APIs!](https://medium.com/@davidcelis/give-it-a-rest-use-graphql-for-your-apis-40a2761e6336#.4shk2q5lq)
 
-## Case Study
-
-* [2018-How GraphQL Replaces Redux](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d): GraphQL is a server side query language. Redux is a client-side state management library. How could one replace the other?
-
 # Resource
 
 * [GraphQL Specification](http://facebook.github.io/graphql/October2016/): This is a Draft RFC Specification for GraphQL, a query language created by Facebook in 2012 for describing the capabilities and requirements of data models for client‐server applications.
@@ -35,3 +31,21 @@ This file aggregates curated popular links for learning GraphQL. More reference 
 * [Awesome GraphQL #Collection#](https://github.com/chentsulin/awesome-graphql): Awesome list of GraphQL & Relay.
 
 * [2017-How to GraphQL #Series#](https://github.com/howtographql/howtographql): How to GraphQL is a fullstack tutorial website to learn all around GraphQL! It was built by Graphcool and many amazing contributors.
+
+## Case Study
+
+* [2018-How GraphQL Replaces Redux](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d): GraphQL is a server side query language. Redux is a client-side state management library. How could one replace the other?
+
+- [2017-GraphQL First in practice at Quri](https://dev-blog.apollodata.com/graphql-first-in-practice-at-quri-7bf84b260135): Bringing GraphQL efficiencies to non JavaScript environment
+
+## Showcase
+
+- [2017-Hacker News Clone React/GraphQL](https://github.com/clintonwoo/hackernews-react-graphql): This project is a clone of hacker news rewritten with universal JavaScript, using React and GraphQL.
+
+# Tutorials 
+
+
+
+# Schema
+
+- [2018-Modularizing your GraphQL schema code](https://dev-blog.apollodata.com/modularizing-your-graphql-schema-code-d7f71d5ed5f2): How to split up your schema definition, resolvers, and Query type into multiple files
