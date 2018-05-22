@@ -6,6 +6,8 @@
 
 * [graphql-tag #Project#](https://www.npmjs.com/package/graphql-tag): Helpful utilities for parsing GraphQL queries.
 
+- [sql-to-graphql #Project#](https://github.com/rexxars/sql-to-graphql): Generate GraphQL schemas and server based on SQL table structure.
+
 # Server Side
 
 ## Framework
@@ -25,12 +27,10 @@
 
 * [PostGraphile #Project#](https://github.com/graphile/postgraphile): A GraphQL API created by reflection over a PostgreSQL schema.
 
-# Client
-
-* [Apollo Client #Project#](https://github.com/apollographql/apollo-client): A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
-
-# Utility
+## Utility
 
 * [dataloader #Project#](https://github.com/facebook/dataloader): DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
 
-- [sql-to-graphql #Project#](https://github.com/rexxars/sql-to-graphql): Generate GraphQL schemas and server based on SQL table structure.
+# Client
+
+* [Apollo Client #Project#](https://github.com/apollographql/apollo-client): A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.

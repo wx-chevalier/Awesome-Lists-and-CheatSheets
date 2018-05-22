@@ -8,6 +8,8 @@
 
 - [2017-Didact](https://github.com/hexacta/didact): This repository goes together with a series of posts that explains how to build React from scratch step by step.
 
+* [2018-Gooact: React in 160 lines of JavaScript](https://parg.co/Y5s): How to build own React clone in a matter of minutes.
+
 # Virtual DOM
 
 * [2013-Performance Calendar: React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)

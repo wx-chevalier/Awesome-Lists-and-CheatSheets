@@ -38,16 +38,4 @@
 
 ## Apollo Server
 
-- [2017-Creating a structured, hot-reloadable GraphQL API with Express.js, Apollo Server and Webpack](https://hackernoon.com/creating-a-structured-hot-reloadable-graphql-api-with-express-js-de62c859643): We’ll walk through how to set up an API with Express and Apollo Server
-
-# Client
-
-* [Exploring different GraphQL Clients](https://itnext.io/exploring-different-graphql-clients-d1bc69de305f): I wanted to study how these clients work, so I aimed to implement the same query using different clients and share my experience.
-
-* [Structure and implementation of GraphQL servers #Series#](https://parg.co/Ug0): When starting out with GraphQL — one of the first questions to ask is how do I build a GraphQL server?
-
-# DevPractices
-
-* [2018-Caching GraphQL results in your CDN](https://dev-blog.apollodata.com/caching-graphql-results-in-your-cdn-54299832b8e2): How putting together Apollo Cache Control, Engine, and Automatic Persisted Queries makes it easy.
-
-* [2018-GraphQL Best Practices](https://jsjaspreet.com/blog/graphql-best-practices): For the purposes of this guide, I'm going to assume you're using Apollo's GraphQL ecosystem, though the general ideas are applicable regardless of which GraphQL flavor you're using.
+* [2017-Creating a structured, hot-reloadable GraphQL API with Express.js, Apollo Server and Webpack](https://hackernoon.com/creating-a-structured-hot-reloadable-graphql-api-with-express-js-de62c859643): We’ll walk through how to set up an API with Express and Apollo Server

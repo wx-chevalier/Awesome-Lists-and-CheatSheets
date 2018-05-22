@@ -32,6 +32,8 @@
 
 * [cli #Project#](https://github.com/urfave/cli): A simple, fast, and fun package for building command line apps in Go.
 
+* [gojay #Project#](https://github.com/francoispqt/gojay): Highly performant JSON encoder/decoder with powerful stream API for Golang.
+
 # Database
 
 * [Bolt #Project#](https://github.com/boltdb/bolt): An embedded key/value database for Go.

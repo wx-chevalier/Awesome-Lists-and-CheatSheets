@@ -42,6 +42,8 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts): Collection of awesome podcasts. Awesome list of Important Podcasts for software engineers.
 
+* [Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x#build-your-own-database): What I cannot create, I do not understand.
+
 # Programming Language | 编程语言
 
 * [Exercism](http://exercism.io/): Exercism gives you hundreds of practice problems in over 30 programming languages, and a place where you can get feedback on your solutions.

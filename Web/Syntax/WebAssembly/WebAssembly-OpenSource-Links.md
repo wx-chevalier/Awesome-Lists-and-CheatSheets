@@ -4,7 +4,7 @@
 
 * [AssemblyScript #Project#](https://github.com/AssemblyScript/prototype): AssemblyScript defines a subset of TypeScript that it compiles to WebAssembly.
 
-- [wabt #Project](https://github.com/WebAssembly/wabt): The WebAssembly Binary Toolkit
+* [Walt #Project#](https://github.com/ballercat/walt): WAlt is an alternative syntax for WebAssembly text format. It's an experiment for using JavaScript syntax to write to as 'close to the metal' as possible.
 
 - [WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio): Learn, Teach, Work and Play in the Web Assembly Studio.
 

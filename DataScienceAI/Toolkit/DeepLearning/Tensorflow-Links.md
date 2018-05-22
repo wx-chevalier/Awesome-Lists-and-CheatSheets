@@ -57,6 +57,8 @@
 
 # Tutorial | 教程
 
+## Concepts | 概念
+
 * [2016-TensorFlow in a Nutshell — Part One: Basics](https://medium.com/@camrongodbout/tensorflow-in-a-nutshell-part-one-basics-3f4403709c9d#.m0948trt3): The fast and easy guide to the most popular Deep Learning framework in the world.
 
 * [2016-Tensorflow 架构](http://blog.csdn.net/stdcoutzyx/article/details/51645396): TF 的特点之一就是可以支持很多种设备，大到 GPU、CPU，小到手机平板，五花八门的设备都可以跑起来 TF。
@@ -67,10 +69,20 @@
 
 - [2017-Deep Learning in 7 lines of code](https://chatbotslife.com/deep-learning-in-7-lines-of-code-7879a8ef8cfb): The essence of machine learning is recognizing patterns within data. This boils down to 3 things: data, software and math. What can be done in seven lines of code you ask? A lot.
 
-- [2017- TensorFlow 代码解析](https://zhuanlan.zhihu.com/p/25646408)：本文由浅入深的阐述 Tensor 和 Flow 的概念。先介绍了 TensorFlow 的核心概念和基本概述，然后剖析了 OpKernels 模块、Graph 模块、Session 模块。
+- [2017-TensorFlow 代码解析](https://zhuanlan.zhihu.com/p/25646408)：本文由浅入深的阐述 Tensor 和 Flow 的概念。先介绍了 TensorFlow 的核心概念和基本概述，然后剖析了 OpKernels 模块、Graph 模块、Session 模块。
 
 - [2017-TensorFlow 入门级解读：矩阵、多特征线性和逻辑回归](https://zhuanlan.zhihu.com/p/25352208)：本文是日本东京 TensorFlow 聚会联合组织者 Hin Khor 所写的 TensorFlow 系列介绍文章。
 
 - [2017-We Need to Go Deeper: A Practical Guide to TensorFlow and Inception](http://6me.us/s2n)
+
+## Python
+
+* [2017-How to use Dataset in TensorFlow](https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428): This article will explain the basic mechanics of the Dataset, covering the most common use cases.
+
+* [2018-Simple and comprehensive tutorials in TensorFlow](https://github.com/easy-tensorflow/easy-tensorflow): The goal of this repository is to provide comprehensive tutorials for TensorFlow while maintaining the simplicity of the code.
+
+## Tensorflow.js
+
+* [2018-A Gentle Introduction to TensorFlow.js](https://parg.co/YrP): This tutorial starts by explaining the basic building blocks of TensorFlow.js and the operations on them. Then, we describe how to create some complicated models.
 
 ---

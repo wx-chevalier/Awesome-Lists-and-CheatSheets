@@ -13,6 +13,8 @@
 
 - [VuePress #Project#](https://vuepress.vuejs.org/): Vue-powered Static Site Generator.
 
+- [Vuido #Project#](https://github.com/mimecorg/vuido): Create native desktop applications for Windows, OS X and Linux using Vue.js.
+
 # Form: 表单
 
 * [2017-An imperative guide to forms in Vue.js](https://parg.co/UGT): In this tutorial, I will walk you through the process of creating, validating, and utilising inputs from a form in a Vue.js 2.x application.

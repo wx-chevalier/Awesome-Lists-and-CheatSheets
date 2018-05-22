@@ -14,14 +14,15 @@
 
 * [Prompts #Project#](https://github.com/terkelg/prompts): Lightweight, beautiful and user-friendly interactive prompts
 
+* [Signale #Project#](https://github.com/klauscfhq/signale): Hackable and configurable to the core, signale can be used for logging purposes, status reporting, as well as for handling the output rendering process of other node modules and applications.
+
 # Development Tool
 
 * [node-prune #Project#](https://github.com/tj/node-prune): node-prune is a small tool to prune unnecessary files from ./node_modules, such as markdown, typescript source files, and so on.
 
 * [Pandora.js #Project#](https://github.com/midwayjs/pandora): A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript.
 
-* [flamebearer #Project#](https://github.com/mapbox/flamebearer):
-  A blazing fast flame graph tool for Node and V8. Used to visualize and explore performance profiling results. Designed to produce fast, lightweight flame graphs that remain responsive even on really big input.
+* [flamebearer #Project#](https://github.com/mapbox/flamebearer): A blazing fast flame graph tool for Node and V8. Used to visualize and explore performance profiling results. Designed to produce fast, lightweight flame graphs that remain responsive even on really big input.
 
 # Functionality Library
 

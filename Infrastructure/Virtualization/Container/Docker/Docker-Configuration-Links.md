@@ -1,4 +1,4 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
 # Docker Configuration Links
 
@@ -7,12 +7,6 @@
 * [2016-Docker : Storage Patterns for Persistence](https://parg.co/Ur8): We’ll go over several variants when it comes down to data persistence.
 
 * [2017-Managing Persistence for Docker Containers](https://thenewstack.io/methods-dealing-container-storage/)
-
-* [2015-Flocker #Project#](https://github.com/ClusterHQ/flocker)
-
-* [REX-Ray #Project#](https://github.com/thecodeteam/rexray)
-
-* [GlusterFS #Project#](https://github.com/gluster/glusterfs)
 
 - [copying-data-between-docker-containers](https://medium.com/@gchudnov/copying-data-between-docker-containers-26890935da3f)
 
@@ -36,9 +30,8 @@
 
 # Dockerfile
 
-- [2018-An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps](https://parg.co/UyX): This post is filled with examples ranging from a simple Dockerfile to multistage production builds for Node.js web apps.
+* [2018-An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps](https://parg.co/UyX): This post is filled with examples ranging from a simple Dockerfile to multistage production builds for Node.js web apps.
 
 # Registry
 
 * [private-docker-registry-ssl](https://github.com/fzuleta/private-docker-registry-ssl): Private Docker registry protected with Let's Encrypt SSL
-

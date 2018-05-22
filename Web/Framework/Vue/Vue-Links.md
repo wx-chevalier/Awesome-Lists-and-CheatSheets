@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Vue.js  Learning & Practices Links
+# Vue.js Learning & Practices Links
 
 * [2017-Getting Started with Vue.js](https://sabe.io/tutorials/getting-started-with-vue-js): I’m writing this post to help people get started with very little knowledge required other than basic HTML, CSS and JavaScript.
 

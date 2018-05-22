@@ -1,7 +1,6 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-
-# WebAssembly  Learning & Practices Links
+# WebAssembly Learning & Practices Links
 
 ![](https://pic1.zhimg.com/a3d0d0e45057489e78b70620b739bb74_r.png)
 
@@ -27,19 +26,17 @@
 
 * [2017-WebAssembly cut Figma’s load time by 3x](https://parg.co/biB): Many people have started experimenting with toy WebAssembly projects on the side, but it’s hard to tell what the real-world performance gains will be unless you have a large compatible code base for comparison.
 
+* [2017-How to get a performance boost using WebAssembly](https://hackernoon.com/how-to-get-a-performance-boost-using-webassembly-8844ec6dd665#.gle72anx6)
+
 # Tutorial
 
-* [Build Your First Thing With WebAssembly](http://cultureofdevelopment.com/blog/build-your-first-thing-with-web-assembly/)
+* [2017-Build Your First Thing With WebAssembly](http://cultureofdevelopment.com/blog/build-your-first-thing-with-web-assembly/)
 
-* [How to get a performance boost using WebAssembly](https://hackernoon.com/how-to-get-a-performance-boost-using-webassembly-8844ec6dd665#.gle72anx6)
+- [2017-WebAssembly 101: a developer's first steps](http://blog.openbloc.fr/webassembly-first-steps/):  This tutorial will guide you along the necessary steps to port a JavaScript library of the Conway's game of life to WebAssembly (wasm). This is a simple exercise that is perfect to start beyond a trivial Hello World.
 
-* [2017-WebAssembly 101: a developer's first steps](http://blog.openbloc.fr/webassembly-first-steps/):  This tutorial will guide you along the necessary steps to port a JavaScript library of the Conway's game of life to WebAssembly (wasm). This is a simple exercise that is perfect to start beyond a trivial Hello World.
+- [2017-Egghead.io WASM Introduction Examples](https://github.com/guybedford/wasm-intro): Course examples from the Introduction to WebAssembly egghead.io course.
 
-* [2017-Egghead.io WASM Introduction Examples](https://github.com/guybedford/wasm-intro): Course examples from the Introduction to WebAssembly egghead.io course.
-
-* [Walt #Project#](https://github.com/ballercat/walt): WAlt is an alternative syntax for WebAssembly text format. It's an experiment for using JavaScript syntax to write to as 'close to the metal' as possible.
-
-- [2018-Writing WebAssembly By Hand](http://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html):  However, it is actually possible to write WebAssembly directly by hand.
+* [2018-Writing WebAssembly By Hand](http://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html): However, it is actually possible to write WebAssembly directly by hand.
 
 # Under the hood
 

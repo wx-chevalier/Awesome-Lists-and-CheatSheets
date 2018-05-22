@@ -14,7 +14,9 @@
 
 * [react-native-desktop](https://github.com/ptmt/react-native-desktop)
 
-* [2017-React Native Node #Project#](https://github.com/staltz/react-native-node): Run a separate Node.js process behind a React Native app
+* [2017-React Native Node #Project#](https://github.com/staltz/react-native-node): Run a separate Node.js process behind a React Native app.
+
+* [2018-React Native DOM](https://github.com/vincentriemer/react-native-dom): An experimental, comprehensive port of React Native to the web.
 
 # Pattern Library
 
