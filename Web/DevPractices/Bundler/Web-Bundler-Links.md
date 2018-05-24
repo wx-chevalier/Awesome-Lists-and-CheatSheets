@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Web 构建工具资料索引
+# Web Bundler CheatSheet | Web 构建工具资料索引
 
 * [支付宝前端构建工具的发展和未来的选择](https://github.com/pigcan/blog/issues/4)
 

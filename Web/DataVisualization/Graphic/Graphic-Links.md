@@ -2,6 +2,12 @@
 
 # DOM Graphics Links
 
+# Basics
+
+* [2016-使用 JavaScript 和 canvas 做精确的像素碰撞检测](https://www.cnblogs.com/nzbin/p/5720862.html)
+
+* [2017-等一下，我碰！](https://github.com/JChehe/blog/issues/8): 常见的 2D 碰撞检测。
+
 # SVG
 
 * [SVG 动画精髓](https://parg.co/bNB)：本文主要是讲解关于 SVG 的一些高级动画特效，比如 SVG 动画标签，图形渐变，路径动画，线条动画，SVG 裁剪等。。

@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Weapp Links
+# Weapp Links | Weapp 资料索引
 
 * [微信小程序开发思考总结——腾讯“信用卡还款”项目实践](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653578147&idx=1&sn=dc8ed8974bd7086389155eecc82e524d&chksm=84b3b1a4b3c438b275dc04bc454b1177fce1e3175841bd09a3be23ca8bf17679e3be90556d68&scene=4#wechat_redirect)
 
@@ -14,13 +14,18 @@
 
 - [微信小程序填坑记，论组件复用](https://segmentfault.com/n/1330000007037416)
 
-WXML 提供两种文件引入方式，import 和 include。区别在于：import 可以引入定义好的 template 模板，模板是有作用域的；而 include 就是拷贝一个公用的代码片段到目标文件中，适合做公共页面片的拆分。
+# Overview
 
-```
-<!--import-->
-<import src="../template/a.wxml"/>
-<!--include-->
-<include src="../include/footer.wxml"/>
-```
+## Case Study
 
-文件引入在小程序做模块化拆分的过程中非常重要。
+## Example
+
+* [weapp-demo-session #Project#](https://github.com/CFETeam/weapp-demo-session): The weapp-session demo of wechat micro program
+
+# Tutorial
+
+# Internals | 内部架构
+
+# OpenSource | 开源框架
+
+* [wxDraw #Project#](https://github.com/bobiscool/wxDraw): A lightweight canvas library which providing 2d draw for weapp.
