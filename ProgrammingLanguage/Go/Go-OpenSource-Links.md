@@ -2,13 +2,7 @@
 
 # Go OpenSource Links | Go 开源工具与框架索引
 
-* [promptui #Project#](https://github.com/manifoldco/promptui): Interactive prompt for command-line applications.
-
-* [2017-Colly #Project#](https://github.com/gocolly/colly): Lightning Fast and Elegant Scraping Framework for Gophers.
-
-- [HttpRouter #Project#](https://github.com/julienschmidt/httprouter): A high performance HTTP request router that scales well.
-
-- [Slack-Term #Project#](https://github.com/erroneousboat/slack-term): A Slack client for your terminal.
+* [Slack-Term #Project#](https://github.com/erroneousboat/slack-term): A Slack client for your terminal.
 
 # Development Tool
 
@@ -34,9 +28,11 @@
 
 * [gojay #Project#](https://github.com/francoispqt/gojay): Highly performant JSON encoder/decoder with powerful stream API for Golang.
 
-# Database
+- [2017-Colly #Project#](https://github.com/gocolly/colly): Lightning Fast and Elegant Scraping Framework for Gophers.
 
-* [Bolt #Project#](https://github.com/boltdb/bolt): An embedded key/value database for Go.
+## Command Line
+
+* [promptui #Project#](https://github.com/manifoldco/promptui): Interactive prompt for command-line applications.
 
 # Web Framework
 
@@ -45,6 +41,12 @@
 * [rpcx #Project#](https://github.com/smallnest/rpcx): Faster multil-language bidirectional RPC framework in Go, like alibaba Dubbo and weibo Motan in Java, but with more features, Scale easily.
 
 * [ws #Project#](https://github.com/gobwas/ws): Tiny WebSocket library for Go.
+
+- [HttpRouter #Project#](https://github.com/julienschmidt/httprouter): A high performance HTTP request router that scales well.
+
+# Database
+
+* [Bolt #Project#](https://github.com/boltdb/bolt): An embedded key/value database for Go.
 
 # Other
 
