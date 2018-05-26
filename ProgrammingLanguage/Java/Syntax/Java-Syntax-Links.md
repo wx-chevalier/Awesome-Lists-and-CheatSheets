@@ -29,3 +29,5 @@
 * [如何优雅的设计 java 异常](http://lrwinx.github.io/2016/04/28/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E7%9A%84%E8%AE%BE%E8%AE%A1java%E5%BC%82%E5%B8%B8/)
 
 * [2018-Java’s Mysterious Interrupt](https://carlmastrangelo.com/blog/javas-mysterious-interrupt): One of the lesser known parts of Java is InterruptedException.
+
+- [2018-11 Mistakes Java Developers make when Using Exceptions](https://nobugsproject.com/2017/05/28/11-mistakes-java-developers-make-when-using-exceptions/): See the 11 mistakes Java Developers make when using Exceptions.

@@ -1,6 +1,5 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
  
- 
 # JavaScript 类与对象资料索引
 
 * [2017-Object-oriented programming in vanilla JavaScript](https://parg.co/UEy): JavaScript is a powerful object-oriented programming (OOP) language, however, unlike many traditional programming languages, it uses a prototype-based OOP model which makes its syntax foreign to most developers.

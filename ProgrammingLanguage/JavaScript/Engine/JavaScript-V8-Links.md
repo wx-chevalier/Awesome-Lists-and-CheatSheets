@@ -26,6 +26,8 @@
 
 - [2017-Node.js V8 internals: an illustrative primer](https://parg.co/UXh): It’s really interesting to dig some proof of concept technology, it also will help us to write better code.
 
+- [2017-How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e): The first post of the series focused on providing an overview of the engine, the runtime and the call stack. This second post will be diving into the internal parts of Google’s V8 JavaScript engine. 
+
 # JIT
 
 * [2017-Understanding How the Chrome V8 Engine Translates JavaScript into Machine Code](https://parg.co/Utm)

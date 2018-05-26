@@ -93,3 +93,7 @@
 - [gentle-explanation-of-this-in-javascript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 
 * [JavaScript Keywords: What's Up With `this`?](http://jakewiesler.com/javascript-keywords-whats-up-with-this/)
+
+# Decorator
+
+- [2017Create And Test Decorators in JavaScript](https://netbasal.com/create-and-test-decorators-in-javascript-85e8d5cf879c): Decorators are a mechanism for observing, modifying, or replacing classes, methods or properties in a declarative fashion.

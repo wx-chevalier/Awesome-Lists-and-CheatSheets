@@ -53,6 +53,8 @@
 
 * [2017-36 个代码块，带你读懂异常处理的优雅演进](http://mp.weixin.qq.com/s/9_Gxn5eAr8XKYyRxh8e8EA)：本文讲解了从函数回调，到 ES7 规范的异常处理方式。异常处理随着规范的进步变得越来越优雅，作为程序员，我们不要害怕使用 try catch，也不能回避异常处理。
 
+- [2017-JavaScript error messages && debugging](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c): I will come back to this code in the call stack section, let us first see what the types of error can be.
+
 - [JavaScript Errors and Stack Traces in Depth](http://lucasfcosta.com/2017/02/17/JavaScript-Errors-and-Stack-Traces.html)
 
 - [A Guide to Proper Error Handling in JavaScript](https://www.sitepoint.com/proper-error-handling-javascript/)
