@@ -39,19 +39,3 @@
 - [lithophane](http://3dp.rocks/lithophane/)
 
 - [selva3d](http://app.selva3d.com/transform)
-
-- [atrament.js](https://github.com/jakubfiala/atrament.js):Tiny JS library for beautiful drawing and handwriting on the HTML Canvas
-
-# WebGL
-
-* [DecorativeBackgrounds #Project#](https://github.com/Mamboleoo/DecorativeBackgrounds): A collection of decorative animated background shapes powered by WebGL and TweenMax
-
-- [2017-WebGL 基础知识](http://eux.baidu.com/blog/2017/11/832)
-
-- [WebGL2 Fundamentals](https://webgl2fundamentals.org): WebGL2 from the ground up. No magic.
-
-- [TWGL #Project#](http://twgljs.org): This library's sole purpose is to make using the WebGL API less verbose.
-
-## GPGPU
-
-* [Unleash Your Inner Supercomputer Your Guide to GPGPU with WebGL](http://www.vizitsolutions.com/portfolio/webgl/gpgpu/index.html)

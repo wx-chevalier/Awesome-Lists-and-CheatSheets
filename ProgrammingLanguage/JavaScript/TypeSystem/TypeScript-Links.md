@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# TypeScript Learning & Practices Links
+# TypeScript Learning & Practices Links | TypeScript 资料索引
 
 * [52-technologies-in-2016:Let's Learn TypeScript](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/17-typescript)
 
@@ -8,11 +8,13 @@
 
 # Resource
 
-* [Awesome TypeScript #Project#](https://github.com/dzharii/awesome-typescript): A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the awesome lists.
-
 * [TypeScript Handbook #Book#](https://github.com/Microsoft/TypeScript-Handbook): The TypeScript Handbook is a comprehensive guide to the TypeScript language.
 
-- [Design Patterns in TypeScript #Project#](https://parg.co/Ui8): Here are the implementations of the following design patterns in TypeScript.
+- [2016-TypeScript Deep Dive #Book#](https://basarat.gitbooks.io/typescript/content/index.html): This is based on the lessons from Stack Overflow / DefinitelyTyped and general engagement with the TypeScript community.
+
+* [Awesome TypeScript #Collection#](https://github.com/dzharii/awesome-typescript): A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the awesome lists.
+
+* [Design Patterns in TypeScript #Project#](https://parg.co/Ui8): Here are the implementations of the following design patterns in TypeScript.
 
 # Tutorial
 
@@ -30,7 +32,7 @@
 
 # Integration
 
-- [2018-A crash course on TypeScript with Node.js](https://blog.sourcerer.io/a-crash-course-on-typescript-with-node-js-2c376285afe1)
+* [2018-A crash course on TypeScript with Node.js](https://blog.sourcerer.io/a-crash-course-on-typescript-with-node-js-2c376285afe1)
 
 # OpenSource
 

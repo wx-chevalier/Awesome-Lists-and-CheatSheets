@@ -42,6 +42,8 @@
 
 * [2017-Artificial Intelligence for Robotics #Course#](https://www.class-central.com/course/udacity-artificial-intelligence-for-robotics-319): Learn how to program all the major systems of a robotic car from the leader of Google and Stanford's autonomous driving teams.
 
+* [A self driving toy car using end-to-end learning #Project#](https://github.com/experiencor/self-driving-toy-car): To make a lane follower based on a standard RC car using Raspberry Pi and a camera. The software is a simple Convolutional Network, which takes in the image fetched from the camera and outputs the steering angle.
+
 # Examples | 示范
 
 * [2015-Trained image classification models for Keras #Project#](https://github.com/fchollet/deep-learning-models): Keras code and weights files for popular deep learning models.
