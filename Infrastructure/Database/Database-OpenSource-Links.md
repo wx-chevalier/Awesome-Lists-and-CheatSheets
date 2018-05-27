@@ -11,7 +11,3 @@
 * [DataX](https://github.com/alibaba/DataX): 阿里巴巴集团内被广泛使用的离线数据同步工具 / 平台
 
 * [PingCAP-Loader](https://github.com/pingcap/docs-cn/blob/master/tools/loader.md)
-
-# Sharding
-
-* [Sharding-JDBC #Project#](https://github.com/shardingjdbc/sharding-jdbc): A data sharding, read-write splitting, BASE transaction and database orchestration middleware.

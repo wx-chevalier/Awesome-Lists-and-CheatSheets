@@ -11,3 +11,7 @@
 * [聊一聊一致性哈希](http://mp.weixin.qq.com/s/FgRi3aVpNYfaLU3EeVk7ug)
 
 * [一致性 hashing 的原理解析](https://taozj.org/201612/consistent-hashing.html)
+
+# OpenSource
+
+* [Sharding-JDBC #Project#](https://github.com/shardingjdbc/sharding-jdbc): A data sharding, read-write splitting, BASE transaction and database orchestration middleware.

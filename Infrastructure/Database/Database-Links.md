@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Database Links
+# Database Links | 数据库资料索引
 
 # Overview
 
@@ -10,22 +10,32 @@
 
 - [Evolutionary Database Design](http://martinfowler.com/articles/evodb.html)
 
-* [2016-2016 年，分布式数据库的那些事儿都在这里！](https://parg.co/b1g)
+* [2017 年数据库技术盘点](https://cloud.tencent.com/developer/article/1042652): 我们将从学术界、工程界的角度，从国外到国内，从数据库内核技术到数据库运维等多种角度，一起来回顾精彩的 2017。
 
-* [2016-腾讯金融级分布式数据库 TDSQL 的前世今生](http://blog.csdn.net/test_soy/article/details/53259136): TDSQL(Tencent Distributed MySQL，腾讯分布式 MySQL)是由腾讯技术工程事业群计费平台部针对金融联机交易场景开发的高一致性数据库集群产品。
-
-- [An introduction to distributed systems](https://github.com/aphyr/distsys-class): 一个基本的分布式系统简介
-
-- [走向分布式，分布式系列入门教程](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
-
-- [浅析分布式系统](http://wetest.qq.com/lab/view/203.html?from=content_toutiao): 来自腾讯 Wadehan 关于服务器端系统技术的基础概念探索
-
-- [分布式系统互斥性与幂等性问题的分析与解决 ](http://blog.csdn.net/zdy0_2004/article/details/52760404)
-
-- [2017 年数据库技术盘点](https://cloud.tencent.com/developer/article/1042652): 我们将从学术界、工程界的角度，从国外到国内，从数据库内核技术到数据库运维等多种角度，一起来回顾精彩的 2017。
+## Comparison
 
 * [2016- 一篇文章，掌握所有开源数据库的现状](http://www.tuicool.com/articles/mYBZFbN)
 
+* [Millions of Queries per Second: PostgreSQL and MySQL’s Peaceful Battle at Today’s Demanding Workloads](https://www.percona.com/blog/2017/01/06/millions-queries-per-second-postgresql-and-mysql-peaceful-battle-at-modern-demanding-workloads/)
+
 # Resource
 
+## Collection
+
 * [2016-Readings in Databases #Collection#](https://github.com/rxin/db-readings): A list of papers essential to understanding databases and building new data systems.
+
+## Book
+
+* [2015-Readings in Database Systems-5th Edition](http://www.redbook.io/): Readings in Database Systems (commonly known as the "Red Book") has offered readers an opinionated take on both classic and cutting-edge research in the field of data management since 1988.
+
+* [2016-Relational Database Design and Implementation, 4th Edition #Book#](https://parg.co/bjE): The book begins by reviewing basic concepts of databases and database design, then turns to creating, populating, and retrieving data using SQL.
+
+# Internals | 内部原理分析
+
+* [2013-How did the modern relational database come to be?](https://www.linkedin.com/pulse/how-did-modern-relational-database-come-david-mccaldin): The purpose of this Annotated Bibliography is to illustrate, in chronological order, the major development of database models from 1st generation (network model etc) to second generation (relational) to 3rd generation (e.g. semantic). The Bibliography is presented in order of the year when the paper was published.
+
+- [2017-How does a relational database work](http://coding-geek.com/how-databases-work/): When it comes to relational databases, I can’t help thinking that something is missing. They’re used everywhere. There are many different databases: from the small and useful SQLite to the powerful Teradata. But, there are only a few articles that explain how a database works.
+
+- [2017-A beginner’s guide to ACID and database transactions](http://6me.us/OzSh): Transactions are omnipresent in today’s enterprise systems, providing data integrity even in highly concurrent environments. So let’s get started by first defining the term and the context where you might usually employ it.
+
+- [2015-Database Indexes Explained](https://www.essentialsql.com/what-is-a-database-index/)
