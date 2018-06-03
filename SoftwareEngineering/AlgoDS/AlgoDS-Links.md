@@ -16,6 +16,8 @@
 
 * [Algorithm → AST → CSS](https://github.com/skidding/illustrated-algorithms): 常见算法流程演示
 
+- [2017-Java 101: Datastructures and algorithms in Java](http://www.javaworld.com/article/2073390/core-java/datastructures-and-algorithms-part-1.html?nsdr=true): Datastructures and algorithms are essential to computer science, which is the study of data, its representation in memory, and its transformation from one form to another
+
 ## Book
 
 * [2017-Algorithm Design: Parallel and Sequential](http://www.parallel-algorithms-book.com/): 15-210 aims to teach methods for designing, analyzing, and programming sequential and parallel algorithms and data structures.

@@ -17,6 +17,8 @@
 
 - [2017-Java 技术之类加载机制](http://wingjay.com/2017/05/08/java_classloader/)：类加载机制是 Java 语言的一大亮点，使得 Java 类可以被动态加载到 Java 虚拟机中。 这次我们抛开术语和概念，从例子入手，由浅入深地讲解 Java 的类加载机制。 本文涉及知识点：双亲委托机制、BootstrapClassLoader、ExtClassLoader、AppClassLoader、自定义网络类加载器等。
 
+- [Java虚拟机规范(Java SE 8版)读后总结](http://www.jianshu.com/p/00ffffc9103c?from=timeline): Java虚拟机的实现必须体现书中内容，但仅在确有必要时才应该受制于这些规范。用书中的原话来说即"公有设计，私有实现"。
+
 
 # Memory Model: 内存模型
 

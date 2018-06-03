@@ -38,9 +38,24 @@
 
 - [Java Concurrency Patterns and Features #Project#](https://parg.co/UVC): Concurrency Patterns and features found in Java, through multithreaded programming. Threads, Locks, Atomics and more.
 
-# Concurrence Control
+- [2017-Java Concurrency / Multithreading Basics](https://www.callicoder.com/java-concurrency-multithreading-basics/): Concurrency is the ability to do more than one thing at the same time.
+
+# JMM | Java 内存模型
+
+# Concurrency Primitives | 并发单元
+
+## - [2017-
+深度解析Java线程池的异常处理机制](https://github.com/aCoder2013/blog/issues/3): 线程池提交的任务如果没有catch异常，那么会抛到哪里去？
+
+# Async Patterns | 异步模式
+
+# Concurrency Control | 并发控制
+
+## Variables | 变量
 
 * [2017-An Introduction to Atomic Variables in Java](http://www.baeldung.com/java-atomic-variables)
+
+- [深入理解 Java 之 ThreadLocal 工作原理](http://allenwu.itscoder.com/threadlocal-source): 简单理解“Thread”即线程，“Local”即本地。连续起来理解就是 每个线程本地独有的。
 
 # Coroutine
 
