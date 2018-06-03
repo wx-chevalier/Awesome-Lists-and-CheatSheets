@@ -12,6 +12,8 @@
 
 * [2017-video-streaming-service #Project#](https://github.com/tabvn/video-streaming-service): Build Live Video Streaming Server use Ffmpeg Nginx Rtmp Module & Nodejs
 
+- [2017-不再碎片化学习，快速掌握 H5 直播技术](https://segmentfault.com/a/1190000010440054?utm_source=tuicool&utm_medium=referral): 所以，本文主要给大家介绍一下当下 HTML5 直播所涵盖的技术范围，如果要深度学习每一个技术，我们后续可以继续讨论。
+
 # Client: 客户端模块
 
 * [Android 音视频点 / 直播模块开发](http://toutiao.io/posts/76jep8)
@@ -22,11 +24,9 @@
 
 * [iOS 开发之集成 ijkplayer 视频直播](http://allluckly.cn/%E6%8A%95%E7%A8%BF/tuogao46)
 
-# WebRTC
+## H5
 
-* [screencat](https://github.com/maxogden/screencat):webrtc screensharing electron app for mac os (Alpha)
-
-* [Hublin](https://github.com/linagora/hublin)
+- [2017-H5 直播避坑指南](https://zhuanlan.zhihu.com/p/27690199?utm_medium=social&utm_source=ZHShareTargetIDMore):在摸索优化背后，我们也想把这些问题和解决方法总结下来，让其他同学做到直播的时候可以自豪的说，这就是我们的h5直播体验。
 
 # 弹幕
 
