@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# General Widgets Links
+# Web General Widgets Links | Web 通用控件列表
 
 # Button | 按钮
 
@@ -14,6 +14,12 @@
 
 ## Image Button
 
-# Form
+# Form | 表单
 
 * [Conversational Form](https://github.com/space10-community/conversational-form)
+
+# Terminals | 终端
+
+* [2017-Terminal in React #Project#](https://github.com/nitin42/terminal-in-react): A component that renders a terminal.
+
+* [2017-react-bash](https://github.com/zackargyle/react-bash): A configurable/extendable bash terminal React component.
