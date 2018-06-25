@@ -16,6 +16,8 @@
 
 - [Signale #Project#](https://github.com/klauscfhq/signale): Hackable and configurable to the core, signale can be used for logging purposes, status reporting, as well as for handling the output rendering process of other node modules and applications.
 
+- [ora #Project#](https://github.com/sindresorhus/ora): Elegant terminal spinner.
+
 # Development Tool
 
 - [node-prune #Project#](https://github.com/tj/node-prune): node-prune is a small tool to prune unnecessary files from ./node_modules, such as markdown, typescript source files, and so on.

@@ -4,16 +4,18 @@
 
 # Resource
 
+## Collection
+
+- [Awesome design patterns](https://github.com/DovAmir/awesome-design-patterns): A general, reusable solution to a commonly occurring problem within a given context in software design. It is a description or template for how to solve a problem that can be used in many different situations.
+
 ## Book
 
-* [OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift)
+- [OOD-Principles-In-Swift #Book#](https://github.com/ochococo/OOD-Principles-In-Swift)
 
-- [android-development-the-solid-principles](https://medium.com/android-news/android-development-the-solid-principles-3b5779b105d2#.2at10l13j)
+# Tutorial | 教程
 
-# Tutorial
+- [2017-Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans): A topic that can easily make anyone's mind wobble. Here I try to make them stick in to your mind (and maybe mine) by explaining them in the simplest way possible.
 
-* [2017-Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans): A topic that can easily make anyone's mind wobble. Here I try to make them stick in to your mind (and maybe mine) by explaining them in the simplest way possible.
+# Domain Driven Development | 领域驱动开发
 
-# Domain Driven Development: 领域驱动开发
-
-* [阿里盒马领域驱动设计实践](https://mp.weixin.qq.com/s/NMtbP8X2AB0dbW3RzWrdhg):
+- [阿里盒马领域驱动设计实践](https://mp.weixin.qq.com/s/NMtbP8X2AB0dbW3RzWrdhg):
