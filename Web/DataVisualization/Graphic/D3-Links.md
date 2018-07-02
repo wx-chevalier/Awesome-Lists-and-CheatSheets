@@ -1,0 +1,1 @@
+- [2017-The Hitchhiker’s Guide to d3.js](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a): This guide is meant to prepare you mentally as well as give you some fruitful directions to pursue.
