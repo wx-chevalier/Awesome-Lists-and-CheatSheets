@@ -18,6 +18,8 @@
 
   * Validation | 校验
 
+  * Terminal | 终端
+
   * Other | 其他
 
 * Layout | 布局
