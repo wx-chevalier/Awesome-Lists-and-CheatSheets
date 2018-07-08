@@ -20,6 +20,10 @@
 
 * [2017-An Abridged Cartoon Introduction To WebAssembly](https://www.smashingmagazine.com/2017/05/abridged-cartoon-introduction-webassembly/): In this article, I want to help you understand what exactly it is about WebAssembly that makes it fast.
 
+## Comparsion
+
+- [2018-WebAssembly: A New Hope](https://pspdfkit.com/blog/2017/webassembly-a-new-hope/): But what is WebAssembly and what does it mean for the web?
+
 ## Case Study
 
 * [2017-Execute millions of SQL statements in milliseconds in the browser with WebAssembly and Web Workers.](https://hackernoon.com/execute-millions-of-sql-statements-in-milliseconds-in-the-browser-with-webassembly-and-web-workers-3e0b25c3f1a6#.wmwgurgvu)
