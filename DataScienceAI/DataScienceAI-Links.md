@@ -22,15 +22,9 @@
 
 * [2017-Teachable Machine](https://github.com/googlecreativelab/teachable-machine): Explore how machine learning works, live in the browser. No coding required.
 
-# Resource | 资源
+## Survey | 前沿调查
 
-## Collection | 集合
-
-* [人工智能从入门到进阶，机器之心高分技术文章全集](http://mp.weixin.qq.com/s/o6egF1_usHSXZCZJ1RTfhQ)
-
-* [Distill](http://distill.pub/): The web is a powerful medium to share new ways of thinking.
-
-* [2017-Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience): An open source Data Science repository to learn and apply towards solving real world problems.
+- [AI Playbook](http://aiplaybook.a16z.com/): This site is designed as a resource for anyone asking those questions, complete with examples and sample code to help you get started.
 
 ## CheatSheet | 清单
 
@@ -43,6 +37,18 @@
 * [2015 年 Quora 关于其机器学习具体应用的讲解](https://www.quora.com/How-does-Quora-use-machine-learning-in-2015)
 
 * [Using Deep Learning to Discover Drugs, Classify Pokémon, Save Zebras, Play Flappy Bird & More](https://medium.com/transmission-newsletter/using-deep-learning-to-discover-drugs-classify-pok%C3%A9mon-save-zebras-play-flappy-bird-more-a3a57fc98a15?source=reading_list---------1-2)
+
+
+# Resource | 资源
+
+## Collection | 集合
+
+* [人工智能从入门到进阶，机器之心高分技术文章全集](http://mp.weixin.qq.com/s/o6egF1_usHSXZCZJ1RTfhQ)
+
+* [Distill](http://distill.pub/): The web is a powerful medium to share new ways of thinking.
+
+* [2017-Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience): An open source Data Science repository to learn and apply towards solving real world problems.
+
 
 ## Competition | 机器学习相关竞赛
 

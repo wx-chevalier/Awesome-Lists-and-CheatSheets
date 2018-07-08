@@ -4,6 +4,12 @@
 
 前端优化的根本目的是为了有一个更好地用户体验的同时尽可能减少后端负载压力。即保证更少的加载时间、更快的首屏渲染、更流畅的用户交互。鉴于本文篇幅较长，因此拆分为了[第一部分](.Web-Performance-Links.md)与[第二部分](./Web-Performance-Links.2.md)。
 
+# Rendering Mechanism | 渲染机制
+
+- [2017-Pulling Back The Curtains on Your Stylesheets](https://medium.freecodecamp.org/its-not-dark-magic-pulling-back-the-curtains-from-your-stylesheets-c8d677fa21b2): My talk (and this post) will focus on the why by taking a deep dive into browser internals to see how our styles are parsed and rendered.
+
+
+
 # Scripting: 脚本解析与执行
 
 * [2017-The Cost Of JavaScript](https://parg.co/UEm): In this post, I’ll cover why a little discipline can help if you’d like your site to load & be interactive quickly on mobile devices.

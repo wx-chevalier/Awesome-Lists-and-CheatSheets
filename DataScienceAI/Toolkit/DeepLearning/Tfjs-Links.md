@@ -1,0 +1,1 @@
+- [2018-A Project Based Introduction to TensorFlow.js](http://kexp.io/intro_tensorflowjs/): I hope this article inspires you to make your own neural network powered applications as well. 

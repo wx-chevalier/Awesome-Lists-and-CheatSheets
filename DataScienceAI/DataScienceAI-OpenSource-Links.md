@@ -22,6 +22,8 @@
 
 * [InstaReProxy #Project#](https://github.com/whizzzkid/instagram-proxy-api): This builds over the Instagram's public API to provide more functionality and provides a CORS complaint reverse instagram proxy service.
 
+- [facets #Project#](https://github.com/PAIR-code/facets): The facets project contains two visualizations for understanding and analyzing machine learning datasets: Facets Overview and Facets Dive.
+
 # Machine Learning
 
 # Natural Language Processing
@@ -46,4 +48,4 @@
 
 * [2018-FastPhotoStyle #Project#](https://github.com/NVIDIA/FastPhotoStyle): This code repository contains an implementation of our fast photorealistic style transfer algorithm.
 
-* [2018-pico.js](https://github.com/tehnokv/picojs): a face-detection library in 200 lines of JavaScript
+* [2018-pico.js #Project#](https://github.com/tehnokv/picojs): a face-detection library in 200 lines of JavaScript
