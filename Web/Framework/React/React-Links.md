@@ -88,6 +88,8 @@ Source files are hosted in [Github](https://github.com/wxyyxc1992/Awesome-Refere
 
 * [2018-A Comprehensive Guide to React.js in 2018](https://medium.freecodecamp.org/a-comprehensive-guide-to-react-js-in-2018-ba8bb6975597): This article was originally published in January of 2015, but was recently updated to React 16.3 and all the goodness it contains.
 
+* [2018-React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap): Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn in order to become a React developer.
+
 ## Showcases
 
 - [2017-A React TODOs example, explained](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)

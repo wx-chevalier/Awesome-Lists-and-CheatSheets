@@ -10,8 +10,14 @@
 
 - [gtop #Project#](https://github.com/aksakalli/gtop): System monitoring dashboard for terminal.
 
+* [Cockpit #Project#](https://github.com/cockpit-project/cockpit): Cockpit is an interactive server admin interface. It is easy to use and very light weight. Cockpit interacts directly with the operating system from a real Linux session in a browser.
+
+* [Upterm #Project#](https://github.com/railsware/upterm): Upterm (formerly Black Screen) is an IDE in the world of terminals. Strictly speaking, it's both a terminal emulator and an interactive shell based on Electron.
+
+# Terminal
+
+- [termtosvg #Project#](https://github.com/nbedos/termtosvg): A Linux terminal recorder written in Python that renders your command line sessions as standalone SVG animations.
+
 - [Linux Dash #Project#](https://github.com/afaqurk/linux-dash): A simple & low-overhead web dashboard for linux systems.
 
-- [Cockpit #Project#](https://github.com/cockpit-project/cockpit): Cockpit is an interactive server admin interface. It is easy to use and very light weight. Cockpit interacts directly with the operating system from a real Linux session in a browser.
-
-- [Upterm #Project#](https://github.com/railsware/upterm): Upterm (formerly Black Screen) is an IDE in the world of terminals. Strictly speaking, it's both a terminal emulator and an interactive shell based on Electron.
+# System
