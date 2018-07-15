@@ -30,6 +30,8 @@
 
 * [2017-TensorFlow-World](https://github.com/astorfi/TensorFlow-World): This repository is aimed to provide simple and ready-to-use tutorials for TensorFlow.
 
+- [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials): This repository contains code examples for the course CS 20: TensorFlow for Deep Learning Research. 
+
 ## Examples | 示例
 
 * [2015-TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples): This tutorial was designed for easily diving into TensorFlow, through examples. For readability, it includes both notebooks and source codes with explanation.
@@ -81,8 +83,6 @@
 
 * [2018-Simple and comprehensive tutorials in TensorFlow](https://github.com/easy-tensorflow/easy-tensorflow): The goal of this repository is to provide comprehensive tutorials for TensorFlow while maintaining the simplicity of the code.
 
-## Tensorflow.js
 
-* [2018-A Gentle Introduction to TensorFlow.js](https://parg.co/YrP): This tutorial starts by explaining the basic building blocks of TensorFlow.js and the operations on them. Then, we describe how to create some complicated models.
 
 ---
