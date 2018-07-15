@@ -26,7 +26,7 @@
 
 - [2017-Software Engineering 101 for Front-end Developers](https://parg.co/byf): For any such developers who want to level-up their game, I’ve summarized what I consider to be some of the MOST important software engineering principles to be aware of and to abide by. I’ve followed it up with a short list of must-read books that will help you on this upgrade path.
 
-## Giant Practice | 大厂实践
+## Engineering Practice | 大厂实践
 
 - [2017-重构 Airbnb 前端架构](https://parg.co/bkA)：本文是近日 Airbnb 开发团队在思索重构代码库中 JavaScript 部分的经验总结；本文主要着眼于产品驱动开发以及技术沉淀、从传统的 Rails 架构中积攒的经验以及新的技术栈的某些特性。本文首先介绍了从 Rails 迁移过程中的一些经验，譬如将原本完全的服务端渲染界面所需要的数据切分为了 API 与 Non-API 两大类，并且使用 Hypernova 来进行 React 服务端渲染。然后介绍了如何在应用前端通过引入懒加载与异步加载等方式提升前端性能与用户体验。
 
@@ -48,8 +48,7 @@
 
 - [Real World #Project#](https://github.com/gothinkster/realworld): RealWorld solves this by allowing you to choose any frontend (React, Angular 2, & more) and any backend (Node, Django, & more) and see how they power a real world, beautifully designed fullstack app called "Conduit".
 
-# Tutoria | 教程
-
 ## Interview | 面试
 
 - [2017-Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook): Almost complete answers to "Front-end Job Interview Questions"
+

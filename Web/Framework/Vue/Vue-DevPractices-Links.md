@@ -18,9 +18,12 @@
 
 - [2017-Writing Vue Components with Flow](https://alligator.io/vuejs/components-flow/): Getting Flow to work with Vue is a bit tricky as it involves several dependencies and minor configuration tweaks to make them all work properly together, so let’s start out by installing those first.
 
-- [Vue 组件样式指南](https://github.com/pablohpsilva/vuejs-component-style-guide)：该样式指南提供了一种统一架构 Vue 代码的建议，其目标是达成易于开发者与团队成员理解以及寻找东西、易于 IDE 来审查代码并且提供帮助、易于重用开发构建工具、易于独立地缓存与使用代码块。该指南借鉴了 [RiotJS](https://github.com/voorhoede/riotjs-style-guide)样式指南，主要还包含了以下几个部分：[基于模块开发](https://github.com/pablohpsilva/vuejs-component-style-guide#module-based-development)、[Vue 组件命名](https://github.com/pablohpsilva/vuejs-component-style-guide#vue-component-names)，等等。
+- [2017-Vue 组件样式指南](https://github.com/pablohpsilva/vuejs-component-style-guide)：该样式指南提供了一种统一架构 Vue 代码的建议，其目标是达成易于开发者与团队成员理解以及寻找东西、易于 IDE 来审查代码并且提供帮助、易于重用开发构建工具、易于独立地缓存与使用代码块。该指南借鉴了 [RiotJS](https://github.com/voorhoede/riotjs-style-guide)样式指南，主要还包含了以下几个部分：[基于模块开发](https://github.com/pablohpsilva/vuejs-component-style-guide#module-based-development)、[Vue 组件命名](https://github.com/pablohpsilva/vuejs-component-style-guide#vue-component-names)，等等。
 
 - [2017-Deep dive into Vue2.5 Typing -- A tour of advanced typing feature](https://parg.co/UdZ): Vue 2.5 improves TypeScript definition! Before that, TS users will have to use class component API to get proper typing, but now canonical API is both precise and concise with few compromises!
+
+- [2018-How to Structure a Vue.js Project](https://medium.com/@sandoche/29e4ddc1aeeb): 
+The perfect Vue.js folder structure and component architecture with smart and dumb components.
 
 # Static Type
 
@@ -30,4 +33,6 @@
 
 # Test | 测试
 
-- [Five Traps to Avoid While Unit Testing Vue.js](https://parg.co/UkZ): In the blog, the author will show you concrete steps you can use in your day-to-day work, walking through Vue.js examples, and help you to avoid five traps: waiting until the end, testing the wrong things, test doubles, structural coupling, testing everything.
+- [2017-Five Traps to Avoid While Unit Testing Vue.js](https://parg.co/UkZ): In the blog, the author will show you concrete steps you can use in your day-to-day work, walking through Vue.js examples, and help you to avoid five traps: waiting until the end, testing the wrong things, test doubles, structural coupling, testing everything.
+
+- [2017-Write blazing fast Vue unit tests with Tape and Vue Test Utils](https://medium.freecodecamp.org/how-to-write-blazing-fast-vue-unit-tests-with-tape-and-vue-test-utils-be069ccd4acf): In this article, we’ll see how to write Vue unit tests with Tape and Vue Test Utils.

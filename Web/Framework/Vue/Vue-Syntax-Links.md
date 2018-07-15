@@ -20,6 +20,9 @@
 
 - [2017-Animation and Data Visualization with Vue](https://parg.co/Ud3): Animation can explain whatever the mind can conceive. When animation is functionally applied to a website or app, the event flow can easily map with the user's ability to navigate through the app.
 
+- [2017-Creating Vue.js Transitions & Animation: Live Examples
+](https://snipcart.com/blog/vuejs-transitions-animations): I've prepared live demos on CodePen, code snippets, and an open source GitHub repo for you guys.
+
 # Component Dataflow | 组件数据流
 
 - [2017-Vue Component Communication Patterns](https://parg.co/bgm): There are several methods that can be used for inter-component communication in Vue. Normal props and events should be sufficient for most cases, but there are other methods available at your disposal as well.
