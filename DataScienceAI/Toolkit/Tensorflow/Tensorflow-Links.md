@@ -46,6 +46,8 @@
 
 - [Android TensorFlow Machine Learning Example](http://6me.us/GbWFKx): This article is for those who are already familiar with machine learning and know how to the build model for machine learning(for this example I will be using a pre-trained model).
 
+- [2017-NakedTensor](https://github.com/jostmey/NakedTensor): Bare bone examples of machine learning in TensorFlow.
+
 * [2018-Deep Learning Using Tensorflow](https://github.com/anujdutt9/Tensorflow-DeepLearning):
   This repository contains the code for Tensorflow Tutorials for Deep Learning from Starting to End. All the code is written using Python3.
 
@@ -68,8 +70,6 @@
 - [2016-Tensorflow 架构](http://blog.csdn.net/stdcoutzyx/article/details/51645396): TF 的特点之一就是可以支持很多种设备，大到 GPU、CPU，小到手机平板，五花八门的设备都可以跑起来 TF。
 
 * [2016-Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)
-
-- [2017-NakedTensor](https://github.com/jostmey/NakedTensor): Bare bone examples of machine learning in TensorFlow.
 
 * [2017-Deep Learning in 7 lines of code](https://chatbotslife.com/deep-learning-in-7-lines-of-code-7879a8ef8cfb): The essence of machine learning is recognizing patterns within data. This boils down to 3 things: data, software and math. What can be done in seven lines of code you ask? A lot.
 
