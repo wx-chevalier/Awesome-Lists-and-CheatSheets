@@ -49,3 +49,5 @@
 * [2018-FastPhotoStyle #Project#](https://github.com/NVIDIA/FastPhotoStyle): This code repository contains an implementation of our fast photorealistic style transfer algorithm.
 
 * [2018-pico.js #Project#](https://github.com/tehnokv/picojs): a face-detection library in 200 lines of JavaScript
+
+- [face-api.js #Project#](): JavaScript API for Face Recognition in the Browser with tensorflow.js.
