@@ -20,7 +20,7 @@
 
 ## Book
 
-- [2017-Algorithm Design: Parallel and Sequential](http://www.parallel-algorithms-book.com/): 15-210 aims to teach methods for designing, analyzing, and programming sequential and parallel algorithms and data structures.
+- [2017-Algorithm Design: Parallel and Sequential #Book#](http://www.parallel-algorithms-book.com/): 15-210 aims to teach methods for designing, analyzing, and programming sequential and parallel algorithms and data structures.
 
 * [2017-Competitive Programmer's Handbook #Book#](https://cses.fi/book.html): The purpose of this book is to give the reader a thorough introduction to competitive programming. The book is especially intended for students who want to learn algorithms and possibly participate in the International Olympiad in Informatics (IOI) or in the International Collegiate Programming Contest (ICPC).
 
@@ -63,6 +63,8 @@
 
 # JavaScript
 
+- [2015-itsy-bitsy-data-structures #Project#](https://github.com/jamiebuilds/itsy-bitsy-data-structures): All the things you didn't know you wanted to know about data structures.
+
 - [2017-10 Common Data Structures Explained with Videos + Exercises](https://parg.co/bIC): Data structures are a critical part of software development, and one of the most common topics for developer job interview questions. The good news is that they’re basically just specialized formats for organizing and storing data. I’m going to teach you 10 of the most common data structures — right here in this short article.
 
 * [2017-Basic javascript algorithms toolbox: starter kit](https://parg.co/b75): Here’s a list of javascript quick-to-write algos that are often useful.
@@ -70,6 +72,8 @@
 * [2017-CS-Playground-React: Algos & Data Structures #Project#](https://parg.co/UZd): In-Browser Algorithm and Data Structure Interview Prep.
 
 * [2017-javascript-algorithms #Project#](https://github.com/trekhleb/javascript-algorithms): This repository contains JavaScript based examples of many popular algorithms and data structures.
+
+* [2018-javascript-datastructures-algorithms #Project#](https://github.com/loiane/javascript-datastructures-algorithms): collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book.
 
 # Python
 
