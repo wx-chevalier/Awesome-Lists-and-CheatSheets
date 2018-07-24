@@ -6,6 +6,10 @@
 
 - [learn-regex](https://github.com/zeeshanu/learn-regex): Learn regex the easy way.
 
+- [正则表达式的拆分](https://zhuanlan.zhihu.com/p/27526085): 对于一门语言的掌握程度怎么样，可以有两个角度来衡量：读和写。
+
+- [2018-藏在正则表达式里的陷阱](https://zhuanlan.zhihu.com/p/38278481): Java 正则表达式使用的引擎实现是 NFA 自动机，这种正则表达式引擎在进行字符匹配时会发生回溯（backtracking）。
+
 # OpenSource
 
 - [Verbal Expressions #Project#](https://github.com/VerbalExpressions): Verbal Expressions 是非常不错的正则表达式辅助生成工具。

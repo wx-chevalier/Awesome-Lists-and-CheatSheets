@@ -12,6 +12,8 @@
 
 * [minimatch](https://github.com/isaacs/minimatch): a glob matcher in javascript.
 
+* [fbjs #Project#](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
+
 ## DataStructure
 
 - [Luxon #Project#](https://github.com/moment/luxon): Luxon is a library for working with dates and times in Javascript.
