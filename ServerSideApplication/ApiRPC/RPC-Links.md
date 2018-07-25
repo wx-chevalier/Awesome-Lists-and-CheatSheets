@@ -51,3 +51,9 @@ http://apizza.cc/
 https://nei.netease.com/
 
 https://www.eolinker.com/
+
+# RPC
+
+- [2017-体系化认识RPC](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486833&idx=1&sn=2e44bf6c3bc1f6aadeba9bfb96e34620): 本文并不会深入到每一个主题剖析，只做提纲挈领的介绍。
+
+- [2017-从核心概念和技术层面着眼，系统化认识RPC](https://mp.weixin.qq.com/s/6AX2-zjvcpesSe93HihVoA): RPC 最核心要解决的问题就是在分布式系统间，如何执行另外一个地址空间上的函数、方法，就仿佛在本地调用一样，个人总结的 RPC 最核心的概念和技术包括如下。

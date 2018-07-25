@@ -6,6 +6,10 @@
 
 * [Structure and implementation of GraphQL servers #Series#](https://parg.co/Ug0): When starting out with GraphQL — one of the first questions to ask is how do I build a GraphQL server?
 
+# Apollo
+
+- [A first look at Async React + Apollo](https://dev-blog.apollodata.com/a-first-look-at-async-react-apollo-10a82907b48e?source=userActivityShare-fe48c4221a4c-1519979306): The suspense was killing us, so we built async React Apollo!
+
 # DevPractices
 
 - [2017-How to use GraphQL beyond the frontend, from GraphQL Summit 2017](https://dev-blog.apollodata.com/universal-graphql-5d4260a9a1b5)

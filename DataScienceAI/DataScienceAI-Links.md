@@ -49,7 +49,6 @@
 
 * [2017-Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience): An open source Data Science repository to learn and apply towards solving real world problems.
 
-
 ## Competition | 机器学习相关竞赛
 
 * [阿里天池 新人实战赛](https://tianchi.shuju.aliyun.com/getStart/index.htm?spm=5176.100065.111.3.jgYTrv&id=&_lang=zh_CN)
@@ -67,6 +66,8 @@
 * [Tunedit](http://tunedit.org/challenges?type=student)
 
 * [DataFountain](http://www.wid.org.cn/data/science/player/home/;jsessionid=47D3236D25B0A85DE344BEFCBF1159F6-n1):DF,CCF 指定中国专业的数据竞赛平台
+
+- [Distill](https://distill.pub/)
 
 # Career | 职业
 

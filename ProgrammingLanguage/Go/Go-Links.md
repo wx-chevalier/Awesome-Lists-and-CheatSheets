@@ -50,6 +50,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 * [2018-go-internals #Book#](https://github.com/teh-cmc/go-internals): go-internals is a work-in-progress book about the internals of the Go (1.10+) programming language.
 
+- [2018-Go Assembly by Example](http://davidwong.fr/goasm/): Go Assembly by Example is a hands-on introduction to Go's Assembly language using annotated example programs. 
+
 ## Collection
 
 * [2018-A Gopher's Reading List](https://github.com/enocom/gopher-reading-list): A curated selection of blog posts on Go.

@@ -7,3 +7,5 @@
 - [TaskBotJS #Project#](https://github.com/eropple/taskbotjs): The best JavaScript/TypeScript job processing framework on the planet.
 
 - [Ofelia #Project#](https://github.com/mcuadros/ofelia): Ofelia is a modern and low footprint job scheduler for docker environments, built on Go. Ofelia aims to be a replacement for the old fashioned cron.
+
+- [PhxQueue #Project#](https://github.com/Tencent/phxqueue): PhxQueue 是微信开源的一款基于 Paxos 协议实现的高可用、高吞吐和高可靠的分布式队列，保证 At-Least-Once Delivery，在微信内部广泛支持微信支付、公众平台等多个重要业务。

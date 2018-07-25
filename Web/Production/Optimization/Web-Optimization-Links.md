@@ -52,6 +52,8 @@
 
 - [前端性能 —— 监控起步](http://www.07net01.com/2016/09/1653517.html)
 
+- [2018-使用 RAIL 模型评估性能](https://developers.google.com/web/fundamentals/performance/rail?hl=zh-cn): RAIL 是一种以用户为中心的性能模型。每个网络应用均具有与其生命周期有关的四个不同方面，且这些方面以不同的方式影响着性能。
+
 ## API Metric: 接口性能评测
 
 - [Locust](https://locust.io/): Define user behaviour with Python code, and swarm your system with millions of simultaneous users.

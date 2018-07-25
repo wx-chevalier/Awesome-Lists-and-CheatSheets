@@ -16,6 +16,8 @@
 
 - [Python cheatsheet #Project#](https://www.pythonsheets.com/): This project tries to provide a lot of piece of Python code that makes life easier.
 
+- [2017-Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567): “high-level programming language, and its core design philosophy is all about code readability and a syntax which allows programmers to express concepts in a few lines of code.”
+
 # Resource | 资源
 
 ## Book

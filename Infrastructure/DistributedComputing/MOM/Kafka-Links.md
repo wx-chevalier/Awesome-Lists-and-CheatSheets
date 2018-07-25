@@ -23,3 +23,5 @@
 - [2017-Exactly-once Semantics are Possible: Here’s How Kafka Does it](https://parg.co/bXj): In this post, I’d like to tell you what exactly-once semantics mean in Apache Kafka, why it is a hard problem, and how the new idempotence and transactions features in Kafka enable correct exactly-once stream processing using Kafka’s Streams API.
 
 - [2017-Delivering Billions of Messages Exactly Once](https://segment.com/blog/exactly-once-delivery/):In the past three months we’ve built an entirely new de-duplication system to get as close as possible to exactly-once delivery, in the face of a wide variety of failure modes. The new system is able to track 100x the number of messages of the old system, with increased reliability, at a fraction of the cost. Here’s how.
+
+- [微信开源 PhxQueue 高可用、高可靠、高性能的分布式队列](http://mp.weixin.qq.com/s/YFMFCijamQvz_O-MPv5yfA): 本文对比了 Kafka 与 PhxQueue，讨论了 Kafka 的不足。

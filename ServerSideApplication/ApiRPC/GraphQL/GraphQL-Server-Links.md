@@ -1,5 +1,7 @@
 # GraphQL Server Links
 
+- [2018-Tutorial: Designing a GraphQL API](https://gist.github.com/swalkinshaw/3a33e2d292b60e68fcebe12b62bbb3e2): This tutorial was created by Shopify for internal purposes. We've created a public version of it since we think it's useful to anyone creating a GraphQL API.
+
 # Concepts & Specification
 
 - [GraphQL explained How GraphQL turns a query into a response](https://medium.com/apollo-stack/graphql-explained-5844742f195e#.rsa2k61tx): GraphQL 简单的原理介绍，可以有助于理解 GraphQL 的设计理念与作用

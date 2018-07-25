@@ -15,3 +15,7 @@
 * [记一次 docker 问题定位](https://parg.co/lIW): 性能测试发现业务进程运行在容器中比业务进程运行在宿主机上吞吐量下降了 100 倍，这让周一显得更加阴暗。
 
 * [2018-Docker 底层技术](https://www.jianshu.com/p/7a1ce51a0eba): Docker 容器技术已经发展了好些年，在很多项目都有应用，线上运行也很稳定。整理了部分 Docker 的学习笔记以及新版本特性，对 Docker 感兴趣的同学可以看看，之前整理过的 Linux namespace 可以见之前的博文。
+
+# cgroup
+
+- [2017-docker 容器基础技术：linux cgroup 简介](http://cizixs.com/2017/08/25/linux-cgroup): Linux cgroups 的全称是 Linux Control Groups，它是 Linux 内核的特性，主要作用是限制、记录和隔离进程组（process groups）使用的物理资源（cpu、memory、IO 等）。

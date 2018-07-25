@@ -10,6 +10,8 @@
 
 - [iview-weapp #Project#](https://github.com/TalkingData/iview-weapp): 一套高质量的微信小程序 UI 组件库。
 
+- [TouchUI WX #Project#](https://github.com/uileader/touchuiwx): TouchUI-WX是一套完全免费的微信小程序开发框架，包含丰富的UI控件用于官方组件的补充。
+
 # Data Visualization
 
 - [mpvue-echarts](https://github.com/F-loat/mpvue-echarts): 适用于 Mpvue 的 ECharts 组件

@@ -64,6 +64,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 * [2017-TensorFlow Book #Book#](https://github.com/BinRoot/TensorFlow-Book): Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
 
+- [2017-Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks): Here we have only included the code samples themselves and immediately related surrounding comments.
+
 # NLP | 自然语言处理
 
 * [2016-Text Data Management and Analysis #Book#](https://dl.acm.org/citation.cfm?id=2915031): A Practical Introduction to Information Retrieval and Text Mining

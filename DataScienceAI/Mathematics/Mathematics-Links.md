@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# 机器学习的数学理论资料索引
+# Mathematics Links | 机器学习的数学理论资料索引
 
 * [知乎：「数据会说谎」的真实例子有哪些？](https://www.zhihu.com/question/19578400)
 
@@ -14,4 +14,5 @@
 
 * [2014-math-as-code](https://github.com/Jam3/math-as-code): This is a reference to ease developers into mathematical notation by showing comparisons with JavaScript code.
 
-- [The Mathematics of Machine Learning](http://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-machine-learning)
+- [2017-The Mathematics of Machine Learning](http://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-machine-learning): Despite the immense possibilities of Machine and Deep Learning, a thorough mathematical understanding of many of these techniques is necessary for a good grasp of the inner workings of the algorithms and getting good results.
+
