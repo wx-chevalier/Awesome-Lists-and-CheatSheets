@@ -12,7 +12,7 @@
 
 ## Case Study | 案例分析
 
-- [2017-Top Five Use Cases of Tensorflow](https://www.exastax.com/deep-learning/top-five-use-cases-of-tensorflow/): TensorFlow is mainly used for: Classification, Perception, Understanding, Discovering, Prediction and Creation.
+- [2017-Top Five Use Cases of TensorFlow](https://www.exastax.com/deep-learning/top-five-use-cases-of-tensorflow/): TensorFlow is mainly used for: Classification, Perception, Understanding, Discovering, Prediction and Creation.
 
 * [2018-Google Brain 研究员详解聊天机器人](https://parg.co/Yqf): 面临的深度学习技术问题以及基于 TensorFlow 的开发实践。
 
@@ -22,9 +22,9 @@
 
 ## Series | 系列教程
 
-- [2015-tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials): From the basics to slightly more interesting applications of Tensorflow
+- [2015-tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials): From the basics to slightly more interesting applications of TensorFlow
 
-- [2017-Effective TensorFlow](https://github.com/vahidk/EffectiveTensorflow): My attempt is to gradually expand this series by adding new articles and keep the content up to date with the latest releases of TensorFlow API.
+- [2017-Effective TensorFlow](https://github.com/vahidk/EffectiveTensorFlow): My attempt is to gradually expand this series by adding new articles and keep the content up to date with the latest releases of TensorFlow API.
 
 * [2017-TensorFlow 101](https://mubaris.com/2017-10-21/tensorflow-101): TensorFlow is an open source machine learning library developed at Google. TensorFlow uses data flow graphs for numerical computations.
 
@@ -38,7 +38,7 @@
 
 - [2015-TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples): This tutorial was designed for easily diving into TensorFlow, through examples. For readability, it includes both notebooks and source codes with explanation.
 
-- [2016-Deep Learning Using Tensorflow](https://github.com/anujdutt9/Tensorflow-DeepLearning): This repository contains the code for Tensorflow Tutorials for Deep Learning from Starting to End. All the code is written using Python3.
+- [2016-Deep Learning Using TensorFlow](https://github.com/anujdutt9/TensorFlow-DeepLearning): This repository contains the code for TensorFlow Tutorials for Deep Learning from Starting to End. All the code is written using Python3.
 
 * [2017-Deep Learning 21 Examples](https://github.com/hzy46/Deep-Learning-21-Examples): 本工程是《21 个项目玩转深度学习———基于 TensorFlow 的实践详解》的配套代码，代码推荐的运行环境为：Ubuntu 14.04，Python 2.7、TensorFlow >= 1.4.0。请尽量使用类 UNIX 系统和 Python 2 运行本书的代码。
 
@@ -48,12 +48,12 @@
 
 - [2017-NakedTensor](https://github.com/jostmey/NakedTensor): Bare bone examples of machine learning in TensorFlow.
 
-* [2018-Deep Learning Using Tensorflow](https://github.com/anujdutt9/Tensorflow-DeepLearning):
-  This repository contains the code for Tensorflow Tutorials for Deep Learning from Starting to End. All the code is written using Python3.
+* [2018-Deep Learning Using TensorFlow](https://github.com/anujdutt9/TensorFlow-DeepLearning):
+  This repository contains the code for TensorFlow Tutorials for Deep Learning from Starting to End. All the code is written using Python3.
 
 - [2018-TensorFlow Project Template #Project#](https://github.com/Mrgemy95/TensorFlow-Project-Template): A simple and well designed structure is essential for any Deep Learning project, so after a lot of practice and contributing in tensorflow projects here's a tensorflow project template that combines simplcity, best practice for folder structure and good OOP design.
 
-* [2018-Beginner Tensorflowjs Examples in Javascript](https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/): This is the easiest set of Machine Learning examples that I can find or make. I hope you enjoy it.
+* [2018-Beginner TensorFlowjs Examples in Javascript](https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/): This is the easiest set of Machine Learning examples that I can find or make. I hope you enjoy it.
 
 ## Collection
 
@@ -67,7 +67,7 @@
 
 - [2016-TensorFlow in a Nutshell — Part One: Basics](https://medium.com/@camrongodbout/tensorflow-in-a-nutshell-part-one-basics-3f4403709c9d#.m0948trt3): The fast and easy guide to the most popular Deep Learning framework in the world.
 
-- [2016-Tensorflow 架构](http://blog.csdn.net/stdcoutzyx/article/details/51645396): TF 的特点之一就是可以支持很多种设备，大到 GPU、CPU，小到手机平板，五花八门的设备都可以跑起来 TF。
+- [2016-TensorFlow 架构](http://blog.csdn.net/stdcoutzyx/article/details/51645396): TF 的特点之一就是可以支持很多种设备，大到 GPU、CPU，小到手机平板，五花八门的设备都可以跑起来 TF。
 
 * [2016-Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)
 

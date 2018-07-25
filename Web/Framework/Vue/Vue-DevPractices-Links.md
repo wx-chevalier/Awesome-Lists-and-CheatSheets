@@ -22,14 +22,16 @@
 
 - [2017-Deep dive into Vue2.5 Typing -- A tour of advanced typing feature](https://parg.co/UdZ): Vue 2.5 improves TypeScript definition! Before that, TS users will have to use class component API to get proper typing, but now canonical API is both precise and concise with few compromises!
 
-- [2018-How to Structure a Vue.js Project](https://medium.com/@sandoche/29e4ddc1aeeb): 
-The perfect Vue.js folder structure and component architecture with smart and dumb components.
+- [2018-How to Structure a Vue.js Project](https://medium.com/@sandoche/29e4ddc1aeeb):
+  The perfect Vue.js folder structure and component architecture with smart and dumb components.
 
 # Static Type
 
 ## TypeScript
 
 - [2017-Vue.js with TypeScript](https://johnpapa.net/vue-typescript/): This post explores how I refactored the Vue app to use TypeScript.
+
+- [2018-TypeScript + 大型项目实战](https://juejin.im/post/5b54886ce51d45198f5c75d7): TypeScript 已经出来很久了，很多大公司很多大项目也都在使用它进行开发。上个月，我这边也正式跟进一个对集团的大型运维类项目。
 
 # Test | 测试
 

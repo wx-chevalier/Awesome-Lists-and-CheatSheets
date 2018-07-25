@@ -1,35 +1,41 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# 权限认证资料索引
+# Auth Links | 权限认证资料索引
 
-* [HTTP 认证的底层技术简析与揭秘](http://www.freebuf.com/articles/web/129527.html)
+# Overview | 概述
 
-- [Password Rules Are Bullshit](http://6me.us/Kfj0wz): Let this pledge be duly noted on the permanent record of the Internet. I don't know if there's an afterlife, but I'll be finding out soon enough, and I plan to go out mad as hell.
+- [2017-HTTP 认证的底层技术简析与揭秘](http://www.freebuf.com/articles/web/129527.html)
 
-- [Auth-Boss](https://github.com/teesloane/Auth-Boss): Become an Auth Boss. Learn about different authentication methodologies on the web.
+* [2017-Auth Boss](https://github.com/teesloane/Auth-Boss): Become an Auth Boss. Learn about different authentication methodologies on the web.
 
-* [登录工程：现代 Web 应用的典型身份验证需求](http://insights.thoughtworkers.org/project-of-login/)
+- [2017-登录工程：现代 Web 应用的典型身份验证需求](http://insights.thoughtworkers.org/project-of-login/): 在这篇文章里，我将简要介绍现代 Web 应用中几种典型的身份验证需求。
 
-* [How CAPTCHA Works](https://blog.jscrambler.com/how-captcha-works/)
+- [2017-Google 接口的权限认证技术纵览](https://parg.co/bte)：本文以表格的方式详细列举了常见的接口权限认证技术的描述、适用场景、数据存储以及和服务端交互方式等内容。本文涉及到的常用权限认证技术包括：HTTP Basic 认证、无状态 Session Cookie、JWT 、有状态 Session Cookie、随机令牌、请求签名、OAuth 等。
 
-- [2017- 接口的权限认证技术纵览](https://parg.co/bte)：本文以表格的方式详细列举了常见的接口权限认证技术的描述、适用场景、数据存储以及和服务端交互方式等内容。本文涉及到的常用权限认证技术包括：HTTP Basic 认证、无状态 Session Cookie、JWT 、有状态 Session Cookie、随机令牌、请求签名、OAuth 等。( https://parg.co/bte )
+# Session
 
-- [CIA](http://www.ciaapp.cn/index.html)
+- [2016-Cookies vs. Tokens: The Definitive Guide](https://dzone.com/articles/cookies-vs-tokens-the-definitive-guide): Finally, putting theory to practice, we'll build an application that uses token authentication and make it a progressive web app.
 
 # 验证码
 
-* [【Dev Club 分享】腾讯验证码的十二年 ](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653578147&idx=3&sn=94a8f8f8b4a23b2429ba18bd50c4e048&chksm=84b3b1a4b3c438b28476200037170798276cf7762a115dad9e4b49afeed3151955afe7cf82c4&scene=4#wechat_redirect)
+- [【Dev Club 分享】腾讯验证码的十二年 ](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653578147&idx=3&sn=94a8f8f8b4a23b2429ba18bd50c4e048&chksm=84b3b1a4b3c438b28476200037170798276cf7762a115dad9e4b49afeed3151955afe7cf82c4&scene=4#wechat_redirect)
+
+- [How CAPTCHA Works](https://blog.jscrambler.com/how-captcha-works/)
 
 * [验证码的前世今生](https://jaq.alibaba.com/community/art/show?articleid=548)
 
-# Json Web Token
+# JSON Web Token
 
-* [2015-Learn how to use JSON Web Token (JWT) to secure your next Web App! (Example with Tests!!)](https://github.com/dwyl/learn-json-web-tokens)
+- [2015-Learn how to use JSON Web Token (JWT) to secure your next Web App! (Example with Tests!!)](https://github.com/dwyl/learn-json-web-tokens)
 
-* [2016-In this article, the fundamentals of what JSON Web Tokens (JWT) are, and why they are used will be explained.](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
+- [2016-5 Easy Steps to Understanding JSON Web Tokens (JWT)](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec): In this article, the fundamentals of what JSON Web Tokens (JWT) are, and why they are used will be explained.
 
-- [JSON Web Token Tutorial: An Example in Laravel and AngularJS](http://www.toptal.com/web/cookie-free-authentication-with-json-web-tokens-an-example-in-laravel-and-angularjs)
+* [2016-JSON Web Token Tutorial](http://www.toptal.com/web/cookie-free-authentication-with-json-web-tokens-an-example-in-laravel-and-angularjs): An Example in Laravel and AngularJS
+
+- [2017-JWT: The Complete Guide to JSON Web Tokens](https://blog.angular-university.io/angular-jwt/): This post is the first part of a two-parts step-by-step guide for implementing JWT-based Authentication in an Angular application (also applicable to enterprise applications).
 
 # 2FA 双因素认证
 
-* [双因素认证(2FA )教程](https://parg.co/Ucx)
+- [双因素认证(2FA )教程](https://parg.co/Ucx)
+
+# OAuth

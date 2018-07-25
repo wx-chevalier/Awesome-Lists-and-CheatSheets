@@ -77,9 +77,11 @@
 
 # Python
 
-- [2017-Problem Solving with Algorithms and Data Structures using Python #Book#](http://6me.us/jgWZ)：中文版参考[这里](https://github.com/facert/python-data-structure-cn)。
+- [2014-algorithm #Project#](https://github.com/qiwsir/algorithm): 如果要成为一个有一定水平的程序员，算法是必须要会的。算法，让你的程序变得更有灵气。
 
-* [2017-pygorithm](https://github.com/OmkarPathak/pygorithm): A Python module for learning all major algorithms
+* [2017-Problem Solving with Algorithms and Data Structures using Python #Book#](http://6me.us/jgWZ)：中文版参考[这里](https://github.com/facert/python-data-structure-cn)。
+
+- [2017-pygorithm #Project#](https://github.com/OmkarPathak/pygorithm): A Python module for learning all major algorithms
 
 # Go
 

@@ -42,7 +42,7 @@
 
 * [WebPagetest #Project#](https://github.com/WPO-Foundation/webpagetest)
 
-## Page Metric: 页面评测
+## Page Metric | 页面评测
 
 - [Leveraging the Performance Metrics that Most Affect User Experience](https://parg.co/b96): But as you try to answer the question: how fast is my app?, you'll realize that fast is a vague term. What exactly do we mean when we say fast? In what context? And fast for whom?
 
