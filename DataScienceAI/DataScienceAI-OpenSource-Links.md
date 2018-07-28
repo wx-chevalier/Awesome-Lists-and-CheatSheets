@@ -26,6 +26,8 @@
 
 # Machine Learning
 
+- [feature-selector #Project#](https://github.com/WillKoehrsen/feature-selector): Feature selector is a tool for dimensionality reduction of machine learning datasets
+
 # Natural Language Processing
 
 * [Snips NLU #Project#](https://github.com/snipsco/snips-nlu): Snips NLU (Natural Language Understanding) is a Python library that allows to parse sentences written in natural language and extracts structured information.

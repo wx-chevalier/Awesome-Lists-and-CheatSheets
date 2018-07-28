@@ -7,3 +7,5 @@
 # Animation
 
 * [CSS Blocks #Project#](https://github.com/linkedin/css-blocks): CSS Blocks is an ergonomic, component-oriented CSS authoring system that compiles to high-performance stylesheets.
+
+- [layoutit #Project#](https://www.layoutit.com/grid): An interactive CSS Grid  builder.

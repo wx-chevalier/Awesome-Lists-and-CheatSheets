@@ -20,7 +20,7 @@
 
 - [2017-Having your Node.js Cake and Eating It Too](https://parg.co/bTW)
 
-## Engineering Practices: 工程实践
+## Engineering Practices | 工程实践
 
 # Resource
 
@@ -44,7 +44,7 @@
 
 - [The Definitive Guide for Monitoring Node.js Applications](https://blog.risingstack.com/monitoring-nodejs-applications-nodejs-at-scale/)
 
-## Commandline Tool: 命令行工具
+## Commandline Tool | 命令行工具
 
 - [Building command line tools with Node.js](https://developer.atlassian.com/blog/2015/11/scripting-with-node/)
 

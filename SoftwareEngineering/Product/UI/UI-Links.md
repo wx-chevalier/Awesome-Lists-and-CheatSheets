@@ -13,6 +13,8 @@
 
 * [2018-7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886): Improving your designs with tactics instead of talent.
 
+- [2017-Froala Design Blocks](https://github.com/froala/design-blocks): All blocks are based on the Bootstrap Library, and they are the building blocks for beautiful websites.
+
 # Atomic Design
 
 * [2017-Atomic Design with React](https://cheesecakelabs.com/blog/atomic-design-react/): That was the moment in which we paused to rethink our architecture and how we could set the components in a more distributed and organized way.

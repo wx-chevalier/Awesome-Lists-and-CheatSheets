@@ -1,4 +1,5 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
+
 # CSS 命名规范与模块化资料索引
 
 * [CSS 模块化与工程化演进](https://mp.weixin.qq.com/s/1QkGy9UbRF3FtyBllmJdmA)
@@ -21,9 +22,11 @@
 
 * [CSS Naming Conventions that Will Save You Hours of Debugging](https://parg.co/UkE)
 
-# Naming Conventions: 命名规范
+# Naming Conventions | 命名规范
 
 # SCSS
+
+- [What’s the Difference Between Sass and SCSS?](https://www.sitepoint.com/whats-difference-sass-scss/): When we talk about Sass, we usually refer to the preprocessor and the language as a whole. 
 
 * [What are the best CSS preprocessors/postprocessors?](http://www.slant.co/topics/217/~css-preprocessors-postprocessors)
 

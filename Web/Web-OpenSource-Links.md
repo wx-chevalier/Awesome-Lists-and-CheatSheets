@@ -26,6 +26,8 @@ The contents organization form follows [Web MindMap](),
 
 ## Loading
 
+- [Lozad #Project#](https://github.com/ApoorvSaxena/lozad.js): lozad.js is a light-weight library to lazy load elements using JavaScript.
+
 ## Rendering
 
 ## Image

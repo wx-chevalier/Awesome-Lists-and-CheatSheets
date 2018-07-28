@@ -44,6 +44,11 @@
 
 - [github-contributions-canvas #Project#](https://github.com/sallar/github-contributions-canvas): A tool for drawing a heat-map of Github contributions on HTML Canvas.
 
+# Map
+
+- [2017-maptalks.js](https://github.com/maptalks/maptalks.js): An open-source javascript library for map applications.
+
+
 # Application
 
 - [Signature Pad #Project#](https://github.com/szimek/signature_pad): Signature Pad is a JavaScript library for drawing smooth signatures. It's HTML5 canvas based and uses variable width Bézier curve interpolation based on Smoother Signatures post by Square.

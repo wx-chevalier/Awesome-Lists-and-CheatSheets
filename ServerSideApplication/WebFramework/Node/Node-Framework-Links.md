@@ -14,6 +14,10 @@
 
 * [Async testing Koa with Jest](https://hackernoon.com/async-testing-koa-with-jest-1b6e84521b71?source=linkShare-fe48c4221a4c-1508838328): Simplify API and middleware tests with lesser-known featuresSimplify API and middleware tests with lesser-known features.
 
+- [从头实现一个 koa 框架](https://zhuanlan.zhihu.com/p/35040744): 相信大家在看完本文之后，会对koa有一个更深入的理解，同时在阅读本文之后再去阅读koa源码，思路也将非常的顺畅。
+
+- [2018-Koa2源码阅读笔记](https://mrsunny123.github.io/2017/06/21/Koa2-Code): 最近空闲时间读了一下Koa2的源码；在阅读Koa2(version 2.2.0)的源码的过程中，我的感受是代码简洁、思路清晰。
+
 # Eggjs
 
 * [egg-graphql-boilerplate](https://github.com/freebyron/egg-graphql-boilerplate): 本项目是使用 egg-graphql 插件构建的 graphql 服务器。

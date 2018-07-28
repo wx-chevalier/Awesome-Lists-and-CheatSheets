@@ -41,7 +41,11 @@
 
 * [jquery.nicescroll](https://github.com/inuyaksa/jquery.nicescroll):基于 jQuery 的滚动插件
 
-## ScrollSpy: 滚动监听
+## Parallaxing
+
+- [2016-Performant Parallaxing](https://developers.google.com/web/updates/2016/12/performant-parallaxing): In this article we’ll discuss a solution that is both performant and, just as importantly, works cross-browser
+
+## ScrollSpy | 滚动监听
 
 * [React Visibility Sensor #Project#](https://github.com/joshwnj/react-visibility-sensor): Sensor component for React that notifies you when it goes in or out of the window viewport.
 
@@ -52,6 +56,8 @@
 # Observer
 
 ## IntersectionObserver
+
+- [2017-IntersectionObserver’s Coming into View](https://developers.google.com/web/updates/2016/04/intersectionobserver): Making this visibility test more efficient is what IntersectionObserver was designed for.
 
 - [2018-Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://parg.co/Uiu): In this article, we are going to go out of the scroll darkness and talk about the modern way of lazy-loading resources.
 

@@ -8,6 +8,8 @@
 
 - [2017-Writing a basic x86-64 JIT compiler from scratch in stock Python](https://csl.name/post/python-jit/): In this post I'll show how to write a rudimentary, native x86-64 just-in-time compiler (JIT) in CPython, using only the built-in modules.
 
+- [What the f*ck Python](https://github.com/satwikkansal/wtfpython): An interesting collection of surprising snippets and lesser-known Python features.
+
 ## CheatSheet | 速览清单
 
 - [Python Crash Course - Cheat Sheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html): A cheat sheet can be really helpful when you’re trying a set of exercises related to a specific topic, or working on a project.
@@ -29,6 +31,8 @@
 - [2017-Intermediate Python #Book#](http://book.pythontips.com/en/latest/index.html#): Through this book I aim to solve this problem. I would give you bits of information about some interesting topics which you can further explore.
 
 - [Python 之旅 #Book#](https://github.com/ethan-funny/explore-python):本书是我学习和使用 Python 的总结。在学习和使用 Python 的过程中，我作了不少笔记，并对一些笔记进行了加工和完善，发表在博客上。随着笔记的增加，我就萌生了写一本书的想法，希望能比较系统地总结相关知识，巩固自己的知识体系，而不是停留在『感觉好像懂了』的状态中。
+
+- [2017-Cracking Codes with Python #Book#](https://inventwithpython.com/cracking/): Cracking Codes with Python teaches complete beginners how to program in the Python programming language.
 
 # Tutoria | 教程
 

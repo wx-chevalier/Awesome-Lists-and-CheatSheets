@@ -15,3 +15,5 @@
 # Style Guide
 
 * [Golang 代码规范](https://sheepbao.github.io/post/golang_code_specification/)
+
+- [2018-Go coding in Go way－Gopher China演讲分享](http://mp.weixin.qq.com/s/MVxleQ7HufBo46eKFzygKA)
