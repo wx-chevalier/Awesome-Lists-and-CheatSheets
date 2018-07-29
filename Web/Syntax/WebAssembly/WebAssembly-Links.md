@@ -20,6 +20,8 @@
 
 * [2017-An Abridged Cartoon Introduction To WebAssembly](https://www.smashingmagazine.com/2017/05/abridged-cartoon-introduction-webassembly/): In this article, I want to help you understand what exactly it is about WebAssembly that makes it fast.
 
+- [2017-The future of WebAssembly - A look at upcoming features and proposals](https://blog.scottlogic.com/2018/07/20/wasm-future.html): I’ll skip over some of the more technical proposals, instead focusing on what they might mean for languages that target WebAssembly.
+
 ## Comparsion
 
 - [2018-WebAssembly: A New Hope](https://pspdfkit.com/blog/2017/webassembly-a-new-hope/): But what is WebAssembly and what does it mean for the web?

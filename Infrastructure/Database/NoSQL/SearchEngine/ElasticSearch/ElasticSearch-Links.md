@@ -24,6 +24,8 @@
 
 - [2017-Elasticsearch For Beginners: Indexing your Gmail Inbox](https://github.com/oliver006/elasticsearch-gmail): Goal of this tutorial is to load an entire Gmail inbox into Elasticsearch using bulk indexing and then start querying the cluster to get a better picture of what's going on.
 
-# Engineering Practices: 工程实践
+# Engineering Practices | 工程实践
 
 - [2018-Elasticsearch Performance Tuning Practice at eBay](https://parg.co/Utg): This document summarizes the challenges as well as the process and tools that the Pronto team builds to address the challenges in a strategic way.
+
+- [2018-Elasticsearch 集群黄色原因的终极探秘](https://mp.weixin.qq.com/s/iT0osDnW4XxZ-jMxTrWdCA)

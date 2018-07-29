@@ -26,6 +26,10 @@
 
 * [MDN-HTTP 访问控制(CORS)](https://parg.co/UGw)
 
+# 长连接
+
+- [长连接/websocket/SSE等主流服务器推送技术比较](https://zhuanlan.zhihu.com/p/31297574): 本文将介绍web常用的几种方式，希望给需要服务器端推送消息的同学在选型上有一点启发。
+
 # 文件传输
 
 * [前端实现文件的断点续传](http://www.tuicool.com/articles/neUzAbB)

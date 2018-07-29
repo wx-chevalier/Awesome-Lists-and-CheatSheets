@@ -18,6 +18,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 * [2018-Go: the Good, the Bad and the Ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/#go-is-easy-to-learn): Go does have some nice features, hence the "The Good" part in this post, but overall I find it cumbersome and painful to use when we go beyond API or network server.
 
+- [2018-Go 语言发展史及史上最全 Go 语言知识图谱！](https://zhuanlan.zhihu.com/p/34263871): 今天和大家一起聊聊 Go 的发展历史，同时发布我们 Gopher China 整理的 Go 知识图谱。
+
 ## Case Study
 
 * [2018-Uber-Code Migration in Production](https://eng.uber.com/schemaless-rewrite/): Rewriting the Sharding Layer of Uber’s Schemaless Datastore.
@@ -58,6 +60,10 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 * [Awesome Go #Project#](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software.
 
+- [2017-Golang Guide: A List of Top Golang Frameworks, IDEs & Tools](https://medium.com/@quintinglvr/golang-guide-a-list-of-top-golang-frameworks-ides-tools-e7c7866e96c9)
+
+## Series 
+
 # Tutorial
 
 * [2014-Go Start](https://github.com/alco/gostart):A getting started guide for Go newcomers
@@ -78,14 +84,4 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2018-How to start a Go project in 2018](https://boyter.org/posts/how-to-start-go-project-2018/): Getting started with a Go project in 2018 is frankly a little more painful then getting anything else started IMHO.
 
-## Web Dev
-
-* [Go Web Examples #Series#](https://gowebexamples.github.io/): Go Web Examples provides easy to understand code snippets on how to do web development in the Go programming language.
-
-* [2018-Building a JSON API in Go](https://parg.co/U1h): I've recently been building more and more complex things with the Go programming language. It's been a lot of fun!
-
-* [2017-Golang command tutorial in Chinese.](https://github.com/hyper0x/go_command_tutorial)
-
-* [2018-Using Go as a scripting language in Linux](https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/)
-
-* [2018-Go web framework benchmark #Project#](https://github.com/smallnest/go-web-framework-benchmark): This benchmark suite aims to compare the performance of Go web frameworks. It is inspired by Go HTTP Router Benchmark but this benchmark suite is different with that.
+- [2017-The ultimate guide to writing a Go tool · Fatih Arslan](https://arslan.io/2017/09/14/the-ultimate-guide-to-writing-a-go-tool/)
