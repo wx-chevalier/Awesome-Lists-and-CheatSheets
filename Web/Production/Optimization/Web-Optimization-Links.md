@@ -30,11 +30,7 @@
 
 * [美团境外业务性能优化实践](https://zhuanlan.zhihu.com/p/33179166): 本文根据第 16 期美团点评技术线上沙龙 OnLine 演讲内容整理而成。
 
-# Benchmark: 性能评测与监控
-
-- [Lighthouse #Project# ](https://github.com/GoogleChrome/lighthouse): Lighthouse analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
-
-- [stats.js #Project# ](https://github.com/mrdoob/stats.js): JavaScript Performance Monitor.
+# Benchmark | 性能评测与监控
 
 - [SiteSpeed](https://www.sitespeed.io/): itespeed.io is a set of Open Source tools that helps make your web pages faster.
 
@@ -54,7 +50,7 @@
 
 - [2018-使用 RAIL 模型评估性能](https://developers.google.com/web/fundamentals/performance/rail?hl=zh-cn): RAIL 是一种以用户为中心的性能模型。每个网络应用均具有与其生命周期有关的四个不同方面，且这些方面以不同的方式影响着性能。
 
-## API Metric: 接口性能评测
+## API Metric | 接口性能评测
 
 - [Locust](https://locust.io/): Define user behaviour with Python code, and swarm your system with millions of simultaneous users.
 
@@ -62,6 +58,6 @@
 
 - [Apache JMeter](https://jmeter.apache.org/): The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance.
 
-## Code Coverage: 代码覆盖率
+## Code Coverage | 代码覆盖率
 
 - [Using the Chrome devtools new code coverage feature](https://blog.logrocket.com/using-the-chrome-devtools-new-code-coverage-feature-ca96c3dddcaf): This is an exciting feature that is useful both when working with JavaScript and CSS, so I thought I’d do a quick demo and explore how it can be helpful.

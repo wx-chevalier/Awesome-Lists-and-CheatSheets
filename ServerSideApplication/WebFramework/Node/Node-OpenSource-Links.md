@@ -26,6 +26,10 @@
 
 - [flamebearer #Project#](https://github.com/mapbox/flamebearer): A blazing fast flame graph tool for Node and V8. Used to visualize and explore performance profiling results. Designed to produce fast, lightweight flame graphs that remain responsive even on really big input.
 
+## Debug
+
+- [ndb #Project#](https://github.com/GoogleChromeLabs/ndb): ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools.
+
 # Functionality Library
 
 ## Storage

@@ -24,6 +24,10 @@ The contents organization form follows [Web MindMap](),
 
 - [LagRadar #Project#](https://github.com/mobz/lag-radar): Add this to any javascript application and you can see when the app drops below 60fps as the radar sweep changes colour and gets janky.
 
+- [Lighthouse #Project#](https://github.com/GoogleChrome/lighthouse): Lighthouse analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
+
+- [stats.js #Project#](https://github.com/mrdoob/stats.js): JavaScript Performance Monitor.
+
 ## Loading
 
 ## Rendering

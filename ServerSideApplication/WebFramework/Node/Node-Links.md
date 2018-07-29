@@ -34,6 +34,10 @@
 
 - [2017-Node.js 实践教程 #Book#](https://github.com/ElemeFE/node-practice)：本教程的初衷是做一个 Node.js 进阶的视频教程 , 在撰写 node-interview 之后 , 觉得按照概念依次讲下来不好组织 , 于是决定按照以一些有名的模块 / 功能为基础 , 在实现的过程中讲解各项知识点。
 
+## Interview
+
+- [node-interview](https://github.com/ElemeFE/node-interview): How to pass the Node.js interview of ElemeFE.
+
 # Tutoria | 教程
 
 ## NPM
