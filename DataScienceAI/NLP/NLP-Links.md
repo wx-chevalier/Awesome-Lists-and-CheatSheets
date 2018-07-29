@@ -16,6 +16,8 @@
 
 * [2017-Learning AI if You Suck at Math — P7 — The Magic of Natural Language Processing](https://parg.co/bR4)
 
+- [2018-2018自然语言处理研究报告](https://mp.weixin.qq.com/s/Hz2_xAyToCEXf2scl7me8Q): 该报告从 NLP 的概念介绍、研究与应用情况、专家学者概要以及发展趋势这 5 个方向纵览了这一领域的当下与未来。
+
 ## DeepLearning
 
 * [2017-Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html#optimization): This post is a collection of best practices for using neural networks in Natural Language Processing.
@@ -30,4 +32,4 @@
 
 # Tool
 
-* [SnowNLP #Project# ](https://github.com/isnowfy/snownlp): SnowNLP 是一个 Python 写的类库，可以方便的处理中文文本内容，是受到了 TextBlob 的启发而写的，由于现在大部分的自然语言处理库基本都是针对英文的，于是写了一个方便处理中文的类库，并且和 TextBlob 不同的是，这里没有用 NLTK，所有的算法都是自己实现的，并且自带了一些训练好的字典。
+* [SnowNLP #Project#](https://github.com/isnowfy/snownlp): SnowNLP 是一个 Python 写的类库，可以方便的处理中文文本内容，是受到了 TextBlob 的启发而写的，由于现在大部分的自然语言处理库基本都是针对英文的，于是写了一个方便处理中文的类库，并且和 TextBlob 不同的是，这里没有用 NLTK，所有的算法都是自己实现的，并且自带了一些训练好的字典。
