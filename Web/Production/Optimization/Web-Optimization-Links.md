@@ -8,8 +8,6 @@
 
 - [2017-Production Web Apps Performance Study Q4/16 - Q1/17](https://github.com/GoogleChrome/discovery/issues/1)
 
-- [小胡子哥的性能专栏](https://github.com/barretlee√/performance-column/issues)
-
 - [2017-Frontend Performance Check-list For Production](https://parg.co/bLP): In this article I will share with you my chick-list that I use to optimize my web pages after development. So feel free to leave a comment if you think I miss something.
 
 * [2017-The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3): A guide to impactful performance improvements.
@@ -28,7 +26,15 @@
 
 * [2017-Tracking CPU with Long Tasks API](https://calendar.perfplanet.com/2017/tracking-cpu-with-long-tasks-api/): the old bottleneck for web performance used to be the network. But the new bottleneck for web performance is the CPU, and particularly the main thread.
 
-* [美团境外业务性能优化实践](https://zhuanlan.zhihu.com/p/33179166): 本文根据第 16 期美团点评技术线上沙龙 OnLine 演讲内容整理而成。
+- [2018-Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist): The only Front-End Performance Checklist that runs faster than the others
+
+## Case Study | 案例分析
+
+- [美团境外业务性能优化实践](https://zhuanlan.zhihu.com/p/33179166): 本文根据第 16 期美团点评技术线上沙龙 OnLine 演讲内容整理而成。
+
+## Resource
+
+- [小胡子哥的性能专栏](https://github.com/barretlee√/performance-column/issues)
 
 # Benchmark | 性能评测与监控
 
