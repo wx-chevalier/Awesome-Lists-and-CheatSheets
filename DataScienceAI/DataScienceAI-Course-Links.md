@@ -18,7 +18,9 @@
 
 - [2018-Machine Learning Crash Course with TensorFlow APIs by Google #Course#](https://developers.google.com/machine-learning/crash-course/): Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.
 
-* [2018-Foundations of Machine Learning](https://bloomberg.github.io/foml/): Understand the Concepts, Techniques and Mathematical Frameworks Used by Experts in Machine Learning.
+* [2018-Foundations of Machine Learning #Course#](https://bloomberg.github.io/foml/): Understand the Concepts, Techniques and Mathematical Frameworks Used by Experts in Machine Learning.
+
+* [100-Days-Of-ML-Code #Series#](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100 Days of ML Coding
 
 # Deep Learning
 
