@@ -70,6 +70,10 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 * [2017-Golang tutorial series by GolangBot.com](https://golangbot.com/learn-golang-series/)
 
+## Course
+
+- [2018-Beginner Solutions in Go - The Basics, Clients, and Servers #Project#](https://parg.co/oZc)
+
 # Tutorial
 
 - [2014-Go Start](https://github.com/alco/gostart):A getting started guide for Go newcomers

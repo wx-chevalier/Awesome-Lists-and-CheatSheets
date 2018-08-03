@@ -6,6 +6,12 @@
 
 - [Caravel #Project#](https://github.com/airbnb/caravel)
 
+# Animation | 动画库
+
+- [react-motion #Project#](https://github.com/chenglou/react-motion): A spring that solves your animation problems.
+
+- [popmotion #Project#](https://github.com/Popmotion/popmotion): Simple animation libraries for delightful user interfaces.
+
 # Library | 数据可视化库
 
 # Graphic | 绘图接口
@@ -47,7 +53,6 @@
 # Map
 
 - [2017-maptalks.js](https://github.com/maptalks/maptalks.js): An open-source javascript library for map applications.
-
 
 # Application
 
