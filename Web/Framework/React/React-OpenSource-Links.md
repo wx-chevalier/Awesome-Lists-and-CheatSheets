@@ -38,6 +38,8 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wxyyxc19
 
 * [2017-React Loadable #Project#](https://github.com/thejameskyle/react-loadable): A higher order component for loading components with promises.
 
+* [hocs #Project#](https://github.com/deepsweet/hocs): A collection of Higher-Order Components for React and React Native.
+
 ## Animation
 
 - [react-spring #Project#](https://github.com/drcmda/react-spring): Helping react-motion and animated to become best friends

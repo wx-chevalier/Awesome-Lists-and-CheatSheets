@@ -28,7 +28,7 @@
 
 * [2017-CS 20SI: TensorFlow for Deep Learning Research #Course#](https://web.stanford.edu/class/cs20si/): This course will cover the fundamentals and contemporary usage of the TensorFlow library for deep learning research. We aim to help students understand the graphical computational model of TensorFlow, explore the functions it has to offer, and learn how to build and structure models best suited for a deep learning project.
 
-- [2017-Fast.ai DeepLearning AI #Course#](https://github.com/fastai/fastai): Most of the library is quite well tested since many students have used it to complete the Practical Deep Learning for Coders course. However it hasn't been widely used yet outside of the course, so you may find some missing features or rough edges.
+- [2017-Fast.ai DeepLearning AI #Course#](https://github.com/fastai/fastai): Most of the library is quite well tested since many students have used it to complete the Practical Deep Learning for Coders course. However it hasn't been widely used yet outside of the course, so you may find some missing features or rough edges. [Personal notes](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197) can be found here;
 
 * [2018-CS230: Deep Learning](https://web.stanford.edu/class/cs230/): In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. [百度网盘，j2vp](https://pan.baidu.com/s/1Toko6dTqK-W6-e8EVm2kpA)
 

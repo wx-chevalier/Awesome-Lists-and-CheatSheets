@@ -12,6 +12,16 @@
 
 - [popmotion #Project#](https://github.com/Popmotion/popmotion): Simple animation libraries for delightful user interfaces.
 
+* [animateplus #Project#](https://github.com/bendc/animateplus)
+
+* [Effeckt.css #Project#](https://github.com/h5bp/Effeckt.css)
+
+* [Hover.css #Project#](https://github.com/IanLunn/Hover): A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on.
+
+* [iHover #Project#](http://gudh.github.io/ihover/dist/index.html#): iHover is an impressive hover effects collection, powered by pure CSS3, no dependency, work well with Bootstrap 3!
+
+* [Woah.css #Project#](http://www.joerezendes.com/projects/Woah.css/): Animations for eccentric developers.
+
 # Library | 数据可视化库
 
 # Graphic | 绘图接口
