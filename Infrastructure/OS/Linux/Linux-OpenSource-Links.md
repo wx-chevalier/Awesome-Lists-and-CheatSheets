@@ -16,8 +16,6 @@
 
 # Terminal
 
-- [termtosvg #Project#](https://github.com/nbedos/termtosvg): A Linux terminal recorder written in Python that renders your command line sessions as standalone SVG animations.
-
 - [Linux Dash #Project#](https://github.com/afaqurk/linux-dash): A simple & low-overhead web dashboard for linux systems.
 
 # System

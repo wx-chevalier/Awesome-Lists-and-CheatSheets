@@ -18,17 +18,33 @@
 
 ## Chrome
 
+# Terminal
+
+## Share
+
+- [terminalizer #Project#](https://github.com/faressoft/terminalizer): Record your terminal and generate animated gif images.
+
+- [asciinema #Project#](https://asciinema.org/): asciinema [as-kee-nuh-muh] is a free and open source solution for recording terminal sessions and sharing them on the web.
+
+- [termtosvg #Project#](https://github.com/nbedos/termtosvg): A Linux terminal recorder written in Python that renders your command line sessions as standalone SVG animations.
+
+- [gotty #Project#](https://github.com/yudai/gotty): Share your terminal as a web application.
+
+## Draw
+
+- [blessed-contrib #Project#](https://github.com/yaronn/blessed-contrib): Build terminal dashboards using ascii/ansi art and javascript.
+
+- [blessed #Project#](https://github.com/chjj/blessed): A high-level terminal interface library for node.js. [react-blessed](https://github.com/Yomguithereal/react-blessed), A React custom renderer for the blessed library.
+
+- [gocui #Project#](https://github.com/jroimartin/gocui): Minimalist Go package aimed at creating Console User Interfaces.
+
+- [termui #Project#](https://github.com/gizak/termui): termui is a cross-platform, easy-to-compile, and fully-customizable terminal dashboard. It is inspired by blessed-contrib, but purely in Go.
+
 # Development Tools
 
 ## VSCode
 
 - [Polaroid](https://github.com/octref/polacode): Polaroid for your code 📸.
-
-## Terminal
-
-- [terminalizer #Project#](https://github.com/faressoft/terminalizer): Record your terminal and generate animated gif images.
-
-- [asciinema #Project#](https://asciinema.org/): asciinema [as-kee-nuh-muh] is a free and open source solution for recording terminal sessions and sharing them on the web.
 
 ## HTTP
 
@@ -97,6 +113,8 @@
 - [whiteboard](https://github.com/mpociot/whiteboard)
 
 - [mkdocs](https://github.com/mkdocs/mkdocs/)
+
+- [2018-docz #Project#](https://github.com/pedronauck/docz): It has never been so easy to document your things!
 
 ## 协同编辑
 

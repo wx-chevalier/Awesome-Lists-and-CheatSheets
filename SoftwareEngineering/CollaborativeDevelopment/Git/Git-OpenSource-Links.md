@@ -12,6 +12,8 @@
 
 - [dropbox-as-a-true-git-server](http://www.anishathalye.com/2016/04/25/dropbox-as-a-true-git-server/)
 
+- [lazygit #Project#](https://github.com/jesseduffield/lazygit): A simple terminal UI for git commands, written in Go with the gocui library.
+
 # Plugins
 
 - [git-fire](https://github.com/qw3rtman/git-fire): git-fire 可以用于在某些紧急状态下将当前的文件暂存，提交并且推送到一个新的分支。
