@@ -69,3 +69,11 @@
 # WebShell
 
 - [PHP-backdoors #Project#](https://github.com/bartblaze/PHP-backdoors)
+
+# DDOS
+
+* [Deflect](https://deflect.ca/#en): Deflect 是一款开源服务，帮助非政府组织(NGO )、行动主义者和独立媒体公司免于受到分布式拒绝服务攻击(DDoS )。与商业 CDN 类似，它基于分布式反向代理缓存，隐藏真实服务器 IP 地址，同时能够阻止对后台的公开访问，并致力于抵抗针对独立言论的僵尸网络。
+
+- [浅析大规模 DDOS 防御架构：应对 T 级攻防](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=400299276&idx=1&sn=e132a62a492b1139edf9acae115932a4&scene=23&srcid=1107fxqJm1ylDDLN7xZRgmdH#rd)
+
+- [2018-被骗几十万总结出来的Ddos攻击防护经验！](https://zhuanlan.zhihu.com/p/22953451): DDoS(Distributed Denial of Service，分布式拒绝服务)攻击的主要目的是让指定目标无法提供正常服务，甚至从互联网上消失，是目前最强大、最难防御的攻击之一。这是一个世界级的难题并没有解决办法只能缓解.
