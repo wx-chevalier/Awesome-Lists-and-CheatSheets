@@ -38,6 +38,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2015-An Introduction to Programming in Go #Book#](http://www.golang-book.com/): A short, concise introduction to computer programming using the language Go. Designed by Google, Go is a general purpose programming language with modern features, clean syntax and a robust well-documented common library, making it an ideal language to learn as your first programming language.
 
+- [2015-The Go Programming Language #Project#](http://www.gopl.io/): This book is meant to help you start using Go effec tive ly rig ht away and to use it well, taking full advantage of Go’s langu age features and stand ard librar ies to write clear, idiomatic, and efficient programs. [中文译本地址](https://docs.hacknode.org/gopl-zh/)。
+
 - [2016-Learning Go Programming #Book#](https://parg.co/b21): An insightful guide to learning the Go programming language
 
 - [2016-Go Web 编程 #Book#](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/): Go web 编程是因为我喜欢 Web 编程,所以写了这本书,希望大家喜欢。English Version is [Build web application with Golang](https://legacy.gitbook.com/book/astaxie/build-web-application-with-golang/details).
@@ -53,6 +55,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 - [2018-go-internals #Book#](https://github.com/teh-cmc/go-internals): go-internals is a work-in-progress book about the internals of the Go (1.10+) programming language.
 
 * [2018-Go Assembly by Example](http://davidwong.fr/goasm/): Go Assembly by Example is a hands-on introduction to Go's Assembly language using annotated example programs.
+
+* [2018-Go 语言高级编程 #Project#](https://github.com/chai2010/advanced-go-programming-book): 开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题。
 
 ## Collection
 

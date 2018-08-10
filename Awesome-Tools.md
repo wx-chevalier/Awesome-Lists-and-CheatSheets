@@ -20,6 +20,10 @@
 
 # Terminal
 
+## Enhance
+
+- [Upterm #Project#](https://github.com/railsware/upterm): Upterm (formerly Black Screen) is an IDE in the world of terminals. Strictly speaking, it's both a terminal emulator and an interactive shell based on Electron.
+
 ## Share
 
 - [terminalizer #Project#](https://github.com/faressoft/terminalizer): Record your terminal and generate animated gif images.
