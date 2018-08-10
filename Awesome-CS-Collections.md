@@ -84,6 +84,8 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 - [The Twelve-Factor App](http://12factor.net/zh_cn/): To raise awareness of some systemic problems we’ve seen in modern application development, to provide a shared vocabulary for discussing those problems, and to offer a set of broad conceptual solutions to those problems with accompanying terminology.
 
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+
 # Frontend | 前端
 
 # DataScienceAI
