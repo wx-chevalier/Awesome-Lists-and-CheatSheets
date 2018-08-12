@@ -2,33 +2,21 @@
 
 # Docker Links | Docker 资料索引
 
-* [container-diff #Project#](https://github.com/GoogleCloudPlatform/container-diff): container-diff is a tool for analyzing and comparing container images. container-diff can examine images along several different criteria
-
-- [basics-docker-containers-hypervisors-coreos](http://etherealmind.com/basics-docker-containers-hypervisors-coreos/)
-
-- [深入 Docker：容器和镜像](http://segmentfault.com/a/1190000002766882)
-
-- [Docker Tutorial - Cheatsheet](https://gist.github.com/botchagalupe/53695f50eebbd3eaa9aa)
-
-- [docker-curriculum](https://github.com/prakhar1989/docker-curriculum)
-
-- [Docker 中文文档](https://github.com/widuu/chinese_docker)
-
-* [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet#images)
-
-* [10 个日常 Docker 使用技巧](https://xiequan.info/10%E4%B8%AA%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8docker%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/)
-
-- [Docker 实战](http://dockerpool.com/static/books/docker_practice/introduction/README.html)
-
-# Overview 
+# Overview
 
 ## CheatSheet
 
 - [2017-DockerCheatSheet](https://github.com/eon01/DockerCheatSheet)
 
+* [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet#images)
+
+- [Docker Tutorial - Cheatsheet](https://gist.github.com/botchagalupe/53695f50eebbd3eaa9aa)
+
 # Resource
 
 ## Book
+
+- [Docker 实战](http://dockerpool.com/static/books/docker_practice/introduction/README.html)
 
 * [2017- 自己动手写 Docker #Book#](http://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=50014)：通过讲解 Docker 使用到的各种底层技术，例如 Namespace、Cgroups 等来自己一步步动手完成一个简单版本的 Docker。在自己动手的过程中，从而对 Docker 这个技术有一个整体、细致的了解。能够明白 Docker 的原理以及结构，从而加深对目前炽手可热的 Docker 技术的理解，方便解决工作中使用 Docker 遇到的各种问题。[系列书摘](https://yq.aliyun.com/articles/64928)。
 
@@ -40,8 +28,10 @@
 
 ## Tutorial
 
-* [Docker + Kubernetes](https://parg.co/UVt)
+- [Docker + Kubernetes](https://parg.co/UVt)
 
-* [2018-A crash course on Docker — Learn to swim with the big fish](https://parg.co/UvP)
+- [2018-A crash course on Docker — Learn to swim with the big fish](https://parg.co/UvP)
 
-* [2018-Docker for Beginners](https://docker-curriculum.com/): Learn to build and deploy your distributed applications easily to the cloud with Docker.
+- [2018-Docker for Beginners](https://docker-curriculum.com/): Learn to build and deploy your distributed applications easily to the cloud with Docker.
+
+* [2018-docker-curriculum](https://github.com/prakhar1989/docker-curriculum): A comprehensive tutorial on getting started with Docker!
