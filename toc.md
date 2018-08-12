@@ -904,7 +904,7 @@
 
 * [Compiler-Links](./ProgrammingLanguage/ProgrammingLanguageTheory/Compiler-Links.md): 编译器资料索引
 
-- [PLT-OpenSource-Links](./ProgrammingLanguage/ProgrammingLanguageTheory/PLT-OpenSource-Links.md):  编程语言理论相关工具与框架索引
+- [PLT-OpenSource-Links](./ProgrammingLanguage/ProgrammingLanguageTheory/PLT-OpenSource-Links.md): 编程语言理论相关工具与框架索引
 
 * [PLT-Links](./ProgrammingLanguage/ProgrammingLanguageTheory/PLT-Links.md): 编程语言理论资料索引
 

@@ -20,7 +20,7 @@
 
 - [The Basics of Building a Cross-Platform Desktop Application with Electron](https://parg.co/UVf).
 
-# DevPractices:  开发实践
+# DevPractices: 开发实践
 
 # Production: 生产环境
 
