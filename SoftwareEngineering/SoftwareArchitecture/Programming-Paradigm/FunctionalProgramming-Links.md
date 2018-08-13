@@ -1,5 +1,4 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
-
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
 # 函数式编程资料索引
 
@@ -16,7 +15,7 @@
 - [Functional Reactive Programming, first concepts must be looked into further.](https://medium.com/@tuyenbq/functional-reactive-programing-first-concepts-must-be-looked-into-further-c17db2cc51ac#.84iwlj6g0)
 
 - [Jargon from the functional programming world in simple terms!](https://github.com/hemanth/functional-programming-jargon)
- 
+
 - [在下函数式编程有何贵干](https://segmentfault.com/a/1190000005898817)
 
 - [2017-What's Functional Programming All About?](http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)

@@ -37,3 +37,5 @@
 - [Google-Shell Style Guide](https://google.github.io/styleguide/shell.xml): Shell Files and Interpreter Invocation, Environment, Comments, Formatting, Features and Bugs, Naming Conventions, Calling Commands, Conclusion.
 
 - [2018-pure bash bible](https://github.com/dylanaraps/pure-bash-bible): The goal of this book is to document known and unknown methods of doing various tasks using only built-in bash features.
+
+- [Bash Infinity #Project#](https://github.com/niieani/bash-oo-framework): Bash Infinity is a modern boilerplate / framework / standard library for bash

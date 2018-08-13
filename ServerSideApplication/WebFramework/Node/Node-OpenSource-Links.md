@@ -30,6 +30,8 @@
 
 - [ndb #Project#](https://github.com/GoogleChromeLabs/ndb): ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools.
 
+- [dumper.js #Project#](https://github.com/zeeshanu/dumper.js): A better and pretty variable inspector for your Node.js applications.
+
 # Functionality Library
 
 ## Storage
