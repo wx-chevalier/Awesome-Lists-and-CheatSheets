@@ -14,6 +14,12 @@ This file aggregates curated popular links for learning GraphQL. More reference 
 
 - [2018-GraphQL at the REST-aurant](https://parg.co/UvI): A tasty introduction to GraphQL.
 
+## Backend for Frontend
+
+- [微服务下使用 GraphQL 构建 BFF 的实践](https://mp.weixin.qq.com/s/g5zHRLFSBvHWaKLLhedtvQ): Backend for Frontends(以下简称 BFF) 顾名思义，是为前端而存在的后端 (服务) 中间层。
+
+- [BFF - backend for frontends](https://www.thoughtworks.com/radar/techniques/bff-backend-for-frontends)
+
 ## vs REST
 
 - [2016-From REST to GraphQL](https://blog.jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b#.klx32whu6)：从 REST 到 GraphQL 的思维变迁。
@@ -45,6 +51,8 @@ This file aggregates curated popular links for learning GraphQL. More reference 
 ## Showcase
 
 - [2017-Hacker News Clone React/GraphQL](https://github.com/clintonwoo/hackernews-react-graphql): This project is a clone of hacker news rewritten with universal JavaScript, using React and GraphQL.
+
+- [2018-基于 SPA 架构的 GraphQL 工程实践](https://parg.co/oIZ)
 
 # Tutorials
 

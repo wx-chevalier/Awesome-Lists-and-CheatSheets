@@ -72,6 +72,8 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 - [Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies): A curated list of technical talks and articles about real-world enterprise frontend development
 
+- [How JavaScript works #Series#](https://blog.sessionstack.com/tagged/tutorial): the series dedicated to exploring JavaScript and its building components.
+
 # Server Side Application | 服务端应用程序
 
 - [2016-Back-End Developer Interview Questions](https://parg.co/UXF): A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore

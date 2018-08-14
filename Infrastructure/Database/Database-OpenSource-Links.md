@@ -19,3 +19,5 @@
 # Analysis
 
 - [queryparser #Project#](https://github.com/uber/queryparser): Parsing and analysis of Vertica, Hive, and Presto SQL. [Queryparser, an Open Source Tool for Parsing and Analyzing SQL](https://eng.uber.com/queryparser/)
+
+- [sql-parser #Project#](https://github.com/dt-fe/sql-parser): Light and fast sql parser on browser.

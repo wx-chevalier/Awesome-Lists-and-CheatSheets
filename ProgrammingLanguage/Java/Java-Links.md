@@ -38,6 +38,8 @@
 
 - [2015-实战 Java 高并发程序设计 #Book#]()：
 
+- [JVM 内幕：Java 虚拟机详解](www.importnew.com/17770.html?utm_source=tuicool&utm_medium=referral)
+
 * [2015-Pro Java 8 Programming, Third Edition #Project# ](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
 
 * [2017-Think Java #Book#](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
