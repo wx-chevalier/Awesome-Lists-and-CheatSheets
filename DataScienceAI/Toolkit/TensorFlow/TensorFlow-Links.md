@@ -4,11 +4,17 @@
 
 # Overview | 概述
 
-- [2017- TensorFlow demystified](https://chatbotslife.com/tensorflow-demystified-80987184faf7): To understand a new framework, Google’s TensorFlow is a framework for machine-learning calculations, it is often useful to see a ‘toy’ example and learn from it.
+- [2017-TensorFlow demystified](https://chatbotslife.com/tensorflow-demystified-80987184faf7): To understand a new framework, Google’s TensorFlow is a framework for machine-learning calculations, it is often useful to see a ‘toy’ example and learn from it.
 
 * [如何将 TensorFlow 用作计算框架](https://zhuanlan.zhihu.com/p/30719727): 如果你刚刚接触 TensorFlow 并想使用其来作为计算框架，那么本文是你的一个很好的选择，阅读它相信会对你有所帮助。
 
 - [2017-We Need to Go Deeper: A Practical Guide to TensorFlow and Inception](https://parg.co/YqN)
+
+* [2017-TensorFlow 代码解析](https://zhuanlan.zhihu.com/p/25646408)：本文由浅入深的阐述 Tensor 和 Flow 的概念。先介绍了 TensorFlow 的核心概念和基本概述，然后剖析了 OpKernels 模块、Graph 模块、Session 模块。
+
+* [2017-TensorFlow 入门级解读：矩阵、多特征线性和逻辑回归](https://zhuanlan.zhihu.com/p/25352208)：本文是日本东京 TensorFlow 聚会联合组织者 Hin Khor 所写的 TensorFlow 系列介绍文章。
+
+- [2018-Tensorflow: The Confusing Parts #Series#](http://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/): This tutorial is intended for people who already have some experience with both programming and machine learning, and want to pick up Tensorflow. 
 
 ## Case Study | 案例分析
 
@@ -72,10 +78,6 @@
 * [2016-Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)
 
 * [2017-Deep Learning in 7 lines of code](https://chatbotslife.com/deep-learning-in-7-lines-of-code-7879a8ef8cfb): The essence of machine learning is recognizing patterns within data. This boils down to 3 things: data, software and math. What can be done in seven lines of code you ask? A lot.
-
-* [2017-TensorFlow 代码解析](https://zhuanlan.zhihu.com/p/25646408)：本文由浅入深的阐述 Tensor 和 Flow 的概念。先介绍了 TensorFlow 的核心概念和基本概述，然后剖析了 OpKernels 模块、Graph 模块、Session 模块。
-
-* [2017-TensorFlow 入门级解读：矩阵、多特征线性和逻辑回归](https://zhuanlan.zhihu.com/p/25352208)：本文是日本东京 TensorFlow 聚会联合组织者 Hin Khor 所写的 TensorFlow 系列介绍文章。
 
 * [2017-We Need to Go Deeper: A Practical Guide to TensorFlow and Inception](http://6me.us/s2n)
 

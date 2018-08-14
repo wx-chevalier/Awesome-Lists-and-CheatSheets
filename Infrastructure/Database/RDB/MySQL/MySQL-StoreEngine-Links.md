@@ -31,3 +31,4 @@
 
 - [2017-10分钟让你明白MySQL是如何利用索引的](http://fordba.com/spend-10-min-to-understand-how-mysql-use-index.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io): 在MySQL中进行SQL优化的时候，经常会在一些情况下，对MySQL能否利用索引有一些迷惑。
 
+- [2018-B-Tree索引](http://blueskykong.com/2018/07/28/b-tree-index/): 本文就详细讲解一下B-Tree索引的的底层结构，使用原则和特性

@@ -8,4 +8,4 @@
 
 # Configuration | 配置管理
 
-* [Hawk](https://parg.co/Uv4): Hawk 基于 ETCD 打造，主要解决把开发人员从复杂的业务流程和烦琐的配置中解脱出来，让开发人员只关注自己的业务代码，把运维、配置这些剥离出去。同时降低服务部署、发布过程中的风险。
+- [2018-Facebook：当ZooKeeper遇瓶颈，我们如何规模化配置服务器](https://mp.weixin.qq.com/s/QByd_6eQ0LS8Qqx7A5uNqA): 作为取代 ZooKeeper 的新对等系统，位置感知分发系统 (Location-Aware Distribution, LAD) 是 Facebook 设计面向未来应用的一个系统，现已经部署应用处理对数百万台服务器的配置更改的分发任务。

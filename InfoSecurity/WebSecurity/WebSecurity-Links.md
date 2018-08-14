@@ -44,6 +44,8 @@
 
 * [Cross-site scripting for dummies](https://hackernoon.com/cross-site-scripting-for-dummies-be30f76fad09#.6yvkvry4s)
 
+- [2018-Practical Web Cache Poisoning](https://portswigger.net/blog/practical-web-cache-poisoning): In this paper I'll show you how to compromise websites by using esoteric web features to turn their caches into exploit delivery systems, targeting everyone that makes the mistake of visiting their homepage.
+
 # CSRF
 
 - [从零开始学 CSRF](http://www.freebuf.com/articles/web/55965.html)
