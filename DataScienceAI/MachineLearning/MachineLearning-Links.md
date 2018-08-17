@@ -26,7 +26,7 @@
 
 - [State-of-the-art result for all Machine Learning Problems](https://parg.co/UE8): This repository provides state-of-the-art (SoTA) results for all machine learning problems.
 
-## Algorithms: 算法
+## Algorithms | 算法
 
 - [10 Machine Learning Algorithms Explained to an ‘Army Soldier’](https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/)
 
@@ -58,6 +58,6 @@
 
 # Tutorial
 
-## Interview
+# Interview
 
 - [想知道机器学习掌握的怎么样了吗？这有一份自测题(附答案和解析)](https://yq.aliyun.com/articles/64929)

@@ -18,7 +18,7 @@
 
 # Internals
 
-## Communication
+## Communication
 
 - [深入浅出 Redis client/server 交互流程](http://www.infoq.com/cn/articles/communication-redis-clientserver)
 

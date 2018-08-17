@@ -47,7 +47,7 @@
 
 - [Lettuce #Project#](https://github.com/lettuce-io/lettuce-core): Lettuce is a scalable thread-safe Redis client for synchronous, asynchronous and reactive usage. Multiple threads may share one connection if they avoid blocking and transactional operations such as BLPOP and MULTI/EXEC.
 
-# SysProc
+# SysProc
 
 ## Concurrent Programming
 

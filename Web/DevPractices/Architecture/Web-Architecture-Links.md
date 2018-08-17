@@ -12,7 +12,7 @@
 
 - Phodal 系列文章：[实施微前端的六种方式（上）：三种借助路由微服务化前端应用](https://www.phodal.com/blog/implement-microfrontend-apply-route-change/), [实施微前端的六种方式（下）：更好的三种实现方式](https://parg.co/o3W), [前端微服务化方案对比：路由懒加载 vs 子应用模式](https://parg.co/o3g)
 
-- [Mooa #Project#](https://github.com/phodal/mooa): Mooa 是一个为 Angular 服务的微前端框架 ，[前端微服务化：使用微前端框架 Mooa 开发微前端应用](https://parg.co/o3F)。
+- [Mooa #Project#](https://github.com/phodal/mooa): Mooa 是一个为 Angular 服务的微前端框架 ，[前端微服务化：使用微前端框架 Mooa 开发微前端应用](https://parg.co/o3F)。
 
 - [2018-Micro Frontends](https://micro-frontends.org/): Techniques, strategies and recipes for building a modern web app with multiple teams using different JavaScript frameworks.
 
