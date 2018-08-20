@@ -12,6 +12,8 @@
 
 - [react-motion #Project#](https://github.com/chenglou/react-motion): A spring that solves your animation problems.
 
+- [react-move #Project#](https://github.com/react-tools/react-move): React Move 🌀 Beautiful, data-driven animations for React.
+
 - [popmotion #Project#](https://github.com/Popmotion/popmotion): Simple animation libraries for delightful user interfaces.
 
 * [animateplus #Project#](https://github.com/bendc/animateplus)

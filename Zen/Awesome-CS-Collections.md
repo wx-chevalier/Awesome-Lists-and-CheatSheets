@@ -30,7 +30,7 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 # Universe | 通用
 
-- [Learn Anything](https://github.com/learn-anything/learn-anything): Learn Anything is an Open Source Website built by community to Learn Anything with Interactive Maps.
+- [Learn Anything #Project#](https://github.com/learn-anything/learn-anything): Learn Anything is an Open Source Website built by community to Learn Anything with Interactive Maps.
 
 - [Computer Science: Open Source Society University](https://github.com/ossu/computer-science): The OSSU curriculum is a complete education in computer science using online materials.
 
@@ -44,7 +44,15 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 - [Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x#build-your-own-database): What I cannot create, I do not understand.
 
+## Interview | 面试
+
 - [InterviewMap #Project#](https://github.com/InterviewMap/InterviewMap): uild the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
+
+- [InterviewNotes](https://github.com/CyC2018/InterviewNotes): 计算机基础知识整理，持续更新中~
+
+- [2018-Interviews #Collection#](https://github.com/kdn251/interviews): Everything you need to know to get the job.
+
+- [2018-Interview_Notes-Chinese #Collection#](https://github.com/imhuay/Interview_Notes-Chinese): 2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记
 
 # Programming Language | 编程语言
 
@@ -61,10 +69,6 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 
 - [awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-
-- [InterviewNotes](https://github.com/CyC2018/InterviewNotes): 计算机基础知识整理，持续更新中~
-
-- [2018-Interviews #Collection#](https://github.com/kdn251/interviews): Everything you need to know to get the job.
 
 # Web
 

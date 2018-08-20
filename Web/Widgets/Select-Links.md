@@ -20,21 +20,29 @@
 
 # Mention | 提及
 
-* [Tribute.js](http://zurb.com/article/1435/tribute-js-a-new-lightweight-and-easy-to-)
+- [Tribute.js](http://zurb.com/article/1435/tribute-js-a-new-lightweight-and-easy-to-)
 
 # Cascader | 级联选择
 
 # Rate | 评分
 
-# Upload | 上传
+# File | 文件
 
-* [uppy #Project#](https://parg.co/UMk): The next open source file uploader for web browsers.
+- [FileAPI #Project#](https://github.com/mailru/FileAPI): FileAPI — a set of javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.
 
-* [FileSaver #Project#](https://github.com/eligrey/FileSaver.js): FileSaver.js implements the saveAs() FileSaver interface in browsers that do not natively support it.
+## Downloader | 下载
 
-* [StreamSaver.js #Project#](https://github.com/jimmywarting/StreamSaver.js): StreamSaver writes stream to the filesystem directly asynchronous.
+- [FileSaver #Project#](https://github.com/eligrey/FileSaver.js): FileSaver.js implements the saveAs() FileSaver interface in browsers that do not natively support it.
+
+- [StreamSaver.js #Project#](https://github.com/jimmywarting/StreamSaver.js): StreamSaver writes stream to the filesystem directly asynchronous.
+
+## Upload | 上传
+
+- [uppy #Project#](https://parg.co/UMk): The next open source file uploader for web browsers.
 
 * [filepond #Project#](https://github.com/pqina/filepond):
   A Flexible and Fun JavaScript File Upload Plugin.
+
+* [2018-react-dropzone](https://github.com/react-dropzone/react-dropzone): Simple HTML5 drag-drop zone with React.js.
 
 # City Select | 城市选择

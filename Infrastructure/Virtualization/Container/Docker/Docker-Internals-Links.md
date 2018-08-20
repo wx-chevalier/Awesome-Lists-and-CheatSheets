@@ -6,7 +6,7 @@
 
 - [2015-Tiny Docker in Docker #Project#](https://github.com/rancher/docker-from-scratch): Docker-in-Docker image based off of the empty image scratch. Only the bare minimum required files are included to make Docker run. This image weighs in around 25MB expanded.
 
-- [2016-mydocker](https://github.com/xianlubird/mydocker): 本书在详细分析 Docker 所依赖的技术栈的基础上,一步一步地通过代码实例,让读者可以自己循 序渐进地用 Go 语言构建出一个容器的引擎。
+- [2016-Docker Internals](http://docker-saigon.github.io/post/Docker-Internals/): A Deep Dive Into Docker For Engineers Interested In The Gritty Details.
 
 * [2017-rubber-docker #Project#](https://github.com/Fewbytes/rubber-docker): A workshop on Linux containers: Rebuild Docker from Scratch
 
