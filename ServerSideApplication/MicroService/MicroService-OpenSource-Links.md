@@ -10,6 +10,10 @@
 
 * [Træfik](https://github.com/containous/traefik): Træfik (pronounced like traffic) is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
 
+## SSO
+
+- [2018-sso #Project#](https://github.com/buzzfeed/sso): Ovingly known as the S.S. Octopus or octoboi — is the authentication and authorization system BuzzFeed developed to provide a secure, single sign-on experience for access to the many internal web apps used by our employees.
+
 # Service Coordination
 
 - [Apollo #Project#](https://github.com/ctripcorp/apollo): Apollo(阿波罗)是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。

@@ -2,6 +2,22 @@
 
 # Penetration Tool Links | 信息安全与渗透测试工具索引
 
+网上一些工具功能
+http://www.freebuf.com/sectool/176562.html 一些不错的功能
+https://github.com/subfinder/subfinder 子域名收集
+https://www.jianshu.com/p/561e4404316d 指纹识别
+
+    暴力破解：Medusa、 Hydra
+
+各种弱口令扫描
+web 漏洞扫描
+http://www.freebuf.com/sectool/176104.html
+https://github.com/jeffzh3ng/Fuxi-Scanner/blob/master/doc/README.zh.md 和我们类似
+https://github.com/SecWiki/Fox-scan/blob/master/README.md 代理扫描
+
+https://www.secpulse.com/archives/69055.html 爬虫
+https://blog.csdn.net/hackerie/article/details/77885818 各种扫描器
+
 # Playground
 
 - [XSS game area](https://xss-game.appspot.com/):Google created an XSS game to teach you how to exploit and prevent them.
