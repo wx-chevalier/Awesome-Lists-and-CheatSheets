@@ -69,6 +69,8 @@
 
 - [useful-scripts #Project#](https://github.com/oldratlee/useful-scripts): 把平时有用的手动操作做成脚本，这样可以便捷的使用。
 
+- [2018-vjtools #Project#](https://github.com/vipshop/vjtools): The vip.com's java coding standard, libraries and tools
+
 ## JProfiler
 
 - [2014-JProfiler 入门笔记](http://blog.csdn.net/chendc201/article/details/22897999)

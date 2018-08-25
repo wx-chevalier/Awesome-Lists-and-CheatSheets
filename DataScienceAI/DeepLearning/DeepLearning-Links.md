@@ -28,6 +28,8 @@
 
 - [【直观梳理深度学习关键概念】优化算法、调参基本思路、正则化方式等](https://mp.weixin.qq.com/s/GYno7htF_-Hw4UN_Nc2etg)
 
+- [2018-什么是深度学习？](http://staff.ustc.edu.cn/~lgliu/Resources/DL/What_is_DeepLearning.html?from=timeline&isappinstalled=0): 45分钟理解深度神经网络和深度学习。
+
 ## Review
 
 * [2016-Deep Learning 2016: The Year in Review](http://www.deeplearningweekly.com/blog/deep-learning-2016-the-year-in-review)

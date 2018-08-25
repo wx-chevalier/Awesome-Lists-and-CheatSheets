@@ -18,6 +18,8 @@
 
 - [Yelp-undebt #Project#](https://github.com/Yelp/undebt): Undebt is a fast, straightforward, reliable tool for performing massive, automated code refactoring used @Yelp.
 
+- [PyPy.js #Project#](https://pypyjs.org/): PyPy.js is an experiment in building a fast and compliant python environment for the web.
+
 # Storage
 
 - [dataset #Project#](https://github.com/pudo/dataset/blob/master/README.md): In short, dataset makes reading and writing data in databases as simple as reading and writing JSON files.
