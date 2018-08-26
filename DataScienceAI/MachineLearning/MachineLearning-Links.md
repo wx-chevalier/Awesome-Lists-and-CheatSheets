@@ -55,9 +55,3 @@
 - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Machine Learning models and algorithms.
 
 * [机器学习算法比较](http://www.csuldw.com/2016/02/26/2016-02-26-choosing-a-machine-learning-classifier/)
-
-# Tutorial
-
-# Interview
-
-- [想知道机器学习掌握的怎么样了吗？这有一份自测题(附答案和解析)](https://yq.aliyun.com/articles/64929)

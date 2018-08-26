@@ -50,11 +50,13 @@
 
 - [2018-Deep Learning World #Resource#](https://github.com/astorfi/Deep-Learning-World): Organized Resources for Deep Learning Researchers and Developers.
 
+## Blog | 博客
+
 ## Competition | 机器学习相关竞赛
 
 - [阿里天池 新人实战赛](https://tianchi.shuju.aliyun.com/getStart/index.htm?spm=5176.100065.111.3.jgYTrv&id=&_lang=zh_CN)
 
-- [Kaggle](https://www.kaggle.com/competitions):官方新人赛，不错的入门学习
+- [Kaggle](https://www.kaggle.com/competitions): 官方新人赛，不错的入门学习
 
 - [Kaggle Tutorial](https://www.dataquest.io/blog/kaggle-tutorial/):基于旅馆推荐比赛实例的完整 Tutorial
 
@@ -70,12 +72,14 @@
 
 * [Distill](https://distill.pub/)
 
-# Career | 职业
+## Career | 职业
 
 - [Quora 关于机器学习的招聘启事](https://www.quora.com/careers/technical_lead_machine_learning)
 
 - [Google 关于机器学习与人工智能岗位的招聘启事](https://www.google.com/about/careers/search?_ga=1.89288795.153537653.1473158707#!t=jo&jid=28625001&)
 
-- [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks)
+* [代码解析深度学习系统编程模型：TensorFlow vs. CNTK](http://geek.csdn.net/news/detail/62429)
 
-- [代码解析深度学习系统编程模型：TensorFlow vs. CNTK](http://geek.csdn.net/news/detail/62429)
+* [深度学习岗位面试问题整理笔记](https://zhuanlan.zhihu.com/p/25005808)
+
+- [想知道机器学习掌握的怎么样了吗？这有一份自测题(附答案和解析)](https://yq.aliyun.com/articles/64929)
