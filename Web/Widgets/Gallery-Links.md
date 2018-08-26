@@ -30,7 +30,7 @@
 
 * [Pica](http://nodeca.github.io/pica/demo/):Resize image in browser with high quality and high speed
 
-# Parallax
+# Parallax
 
 * [rellax #Project#](https://github.com/dixonandmoe/rellax): Lightweight, vanilla javascript parallax library.
 

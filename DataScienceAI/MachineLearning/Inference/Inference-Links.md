@@ -1,6 +1,6 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# 模型推导资料索引
+# Inference Links | 模型推导资料索引
 
 - [深度学习最全优化方法总结比较(SGD，Adagrad，Adadelta，Adam，Adamax，Nadam)](https://zhuanlan.zhihu.com/p/22252270)
 

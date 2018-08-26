@@ -22,6 +22,8 @@
 
 - [cartoonify #Project#](https://github.com/danmacnish/cartoonify): Draw This is a polaroid camera that draws cartoons.
 
+- [2018-vid2vid #Project#](https://github.com/NVIDIA/vid2vid): Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
+
 # Development | 开发辅助
 
 - [SketchCode #Project#](https://github.com/ashnkumar/sketch-code): Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images.

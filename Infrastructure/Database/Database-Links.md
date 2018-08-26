@@ -34,7 +34,7 @@
 
 - [2018-SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL-4th Edition](https://parg.co/oUa)
 
-# Internals | 内部原理分析
+# Relational DataBase
 
 - [2013-How did the modern relational database come to be?](https://www.linkedin.com/pulse/how-did-modern-relational-database-come-david-mccaldin): The purpose of this Annotated Bibliography is to illustrate, in chronological order, the major development of database models from 1st generation (network model etc) to second generation (relational) to 3rd generation (e.g. semantic). The Bibliography is presented in order of the year when the paper was published.
 
@@ -43,3 +43,25 @@
 * [2017-A beginner’s guide to ACID and database transactions](http://6me.us/OzSh): Transactions are omnipresent in today’s enterprise systems, providing data integrity even in highly concurrent environments. So let’s get started by first defining the term and the context where you might usually employ it.
 
 * [2015-Database Indexes Explained](https://www.essentialsql.com/what-is-a-database-index/)
+
+# NoSQL
+
+- [The Definitive Guide to NoSQL Databases](https://www.toptal.com/database/the-definitive-guide-to-nosql-databases)
+
+- [nosql-data-modeling-techniques](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)，中文译本：[大数据架构师必读的 NoSQL 建模技术 ](http://www.dataguru.cn/article-9422-1.html)
+
+- [List of NoSQL Database](http://nosql-database.org/)
+
+- [2017-Architect's Guide to NoSQL](http://www.datastax.com/wp-content/uploads/resources/whitepaper/DataStax_WP_Architects_Guide_to_NoSQL.pdf): This guide was created to help answer all these questions and more. In the following pages, you'll learn exactly what NoSQL is, why it's needed, how it works, what it should be used for, and (just as importantly) when it shouldn't be used
+
+# Search Engine
+
+- [搜索引擎索引数据结构和算法](http://www.hoohack.me/2016/05/09/datasture-and-algorithm-of-search-engine)
+
+- [倒排索引介绍](http://www.cnblogs.com/fly1988happy/archive/2012/04/01/2429000.html)
+
+- [这就是搜索引擎：核心技术详解](https://drive.wps.cn/view/l/5b7984707cbb47d9b1b484d3a7cd92a6)
+
+- [2017-How ElasticSearch changed the way I think about search engines… twice](https://parg.co/USg)
+
+- [search-index #Project#](https://github.com/fergiemcdowall/search-index): A persistent, network resilient, full text search library for the browser and Node.js.

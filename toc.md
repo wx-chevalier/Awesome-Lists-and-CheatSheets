@@ -1316,7 +1316,7 @@
 
 * [React-DevPractices-Links](./Web/Framework/React/React-DevPractices-Links.md): React DevPractices Links
 
-- [React-Internals-Links](./Web/Framework/React/React-Internals-Links.md): React Internals Links
+- [React-Internals-Links](./Web/Framework/React/React-Internals-Links.md): React Internals Links
 
 * [React-OpenSource-Links](./Web/Framework/React/React-OpenSource-Links.md): React 开源组件与库索引
 
