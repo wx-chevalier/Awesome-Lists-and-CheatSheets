@@ -47,6 +47,10 @@
 - [Bull #Project#](https://github.com/OptimalBits/bull): The fastest, most reliable, Redis-based queue for Node.
   Carefully written for rock solid stability and atomicity.
 
+- [AliOS-nodejs #Project#](https://github.com/alibaba/AliOS-nodejs): speed up nodejs booting using snapshot
+
+- [Napa.js #Project#](https://github.com/Microsoft/napajs): Napa.js is a multi-threaded JavaScript runtime built on V8, which was originally designed to develop highly iterative services with non-compromised performance in Bing.
+
 # Application
 
 - [Taskbook #Project#](https://github.com/klauscfhq/taskbook): Tasks, boards & notes for the command-line habitat.

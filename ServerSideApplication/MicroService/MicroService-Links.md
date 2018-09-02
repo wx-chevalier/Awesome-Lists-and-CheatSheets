@@ -38,7 +38,7 @@
 
 # Resource | 资源
 
-## Books
+## Books & Series
 
 - [2016-架构师特刊-微服务与 DevOps 技术内参 #Book#](http://q.infoqstatic.com/ppt/Microservice&DevOps.pdf)
 
@@ -46,15 +46,15 @@
 
 - [2017-Re：从 0 开始的微服务架构 #Series#](http://www.infoq.com/cn/minibooks/microservice--from-zero): 系列文章就是将以上过程给大家做个分享，不深究概念，不深入细节，只希望能够对微服务架构能够有一个相对全面的认识，从而能够帮助大家成功落地微服务架构。
 
+- [2017-Microservice Patterns #Book#](https://microservices.io/patterns/index.html): A pattern language for microservices
+
 ## Video
 
 ## Collection
 
 - [微服务经典文章大汇总](http://mp.weixin.qq.com/s?__biz=MzA3MDg4Nzc2NQ==&mid=504649826&idx=1&sn=6a9a2f98f3be076e234d9758ce87f656#rd)
 
-# 理论设计
-
-- [2018-从 Spring Cloud 开始，聊聊微服务架构实践之路](http://mp.weixin.qq.com/s/DZQU4s9YNx4fXsfwu5whIg): 平台的技术架构也完成了从传统的单体应用到微服务化的演进。
+* [2018-从 Spring Cloud 开始，聊聊微服务架构实践之路](http://mp.weixin.qq.com/s/DZQU4s9YNx4fXsfwu5whIg): 平台的技术架构也完成了从传统的单体应用到微服务化的演进。
 
 # Architecture Patterns | 架构模式
 

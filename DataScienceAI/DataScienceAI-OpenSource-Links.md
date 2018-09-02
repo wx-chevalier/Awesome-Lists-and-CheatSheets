@@ -36,6 +36,8 @@
 
 * [SnowNLP #Project#](https://github.com/isnowfy/snownlp): SnowNLP 是一个 Python 写的类库，可以方便的处理中文文本内容，是受到了 TextBlob 的启发而写的，由于现在大部分的自然语言处理库基本都是针对英文的，于是写了一个方便处理中文的类库，并且和 TextBlob 不同的是，这里没有用 NLTK，所有的算法都是自己实现的，并且自带了一些训练好的字典。
 
+- [ansj_seg #Project#](https://github.com/NLPchina/ansj_seg): ansj 分词.ict 的真正 java 实现.分词效果速度都超过开源版的 ict. 中文分词,人名识别,词性标注,用户自定义词典。
+
 # Deep Learning
 
 - [tfjs #Project#](https://github.com/tensorflow/tfjs): A WebGL accelerated, browser based JavaScript library for training and deploying ML models.

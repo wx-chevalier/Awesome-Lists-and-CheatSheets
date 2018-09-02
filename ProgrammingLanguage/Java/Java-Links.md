@@ -108,9 +108,7 @@
 
 * [Top 10 Java Blogs for Programmers of All Levels](https://stackify.com/java-blogs-for-programmers-of-all-levels/): All over the world, Java professionals are posting daily about new findings or new feature functions. Unfortunately, blogs can also provide some not so great insight and perspective.
 
-- [2017-Java 反射由浅入深 | 进阶必备](https://juejin.im/post/598ea9116fb9a03c335a99a4)
-
-- [2017-Java Reflection, 1000x Faster](http://norswap.com/fast-java-reflection/)
+# Tutorial
 
 ## Java 8
 

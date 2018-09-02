@@ -8,6 +8,8 @@
 
 - [Anko #Project#](https://github.com/mattn/anko): Anko is a scriptable interpreter written in Go.
 
+- [gperftools #Project#](https://github.com/gperftools/gperftools): Main gperftools repository.
+
 ## Debug
 
 - [Delve #Project#](https://github.com/derekparker/delve): Delve is a debugger for the Go programming language.
@@ -24,8 +26,6 @@
 
 - [viper #Project#](https://github.com/spf13/viper): Go configuration with fangs!
 
-- [cli #Project#](https://github.com/urfave/cli): A simple, fast, and fun package for building command line apps in Go.
-
 - [gojay #Project#](https://github.com/francoispqt/gojay): Highly performant JSON encoder/decoder with powerful stream API for Golang.
 
 * [2017-Colly #Project#](https://github.com/gocolly/colly): Lightning Fast and Elegant Scraping Framework for Gophers.
@@ -35,6 +35,8 @@
 ## Command Line
 
 - [promptui #Project#](https://github.com/manifoldco/promptui): Interactive prompt for command-line applications.
+
+- [cli #Project#](https://github.com/urfave/cli): A simple, fast, and fun package for building command line apps in Go.
 
 # Web Framework
 
