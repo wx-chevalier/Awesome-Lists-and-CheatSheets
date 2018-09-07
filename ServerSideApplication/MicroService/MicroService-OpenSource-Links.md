@@ -2,6 +2,8 @@
 
 # MicorService OpenSource Links | 微服务相关开源框架索引
 
+与编程框架强相关的微服务相关框架应用归纳在本处，其余归纳在 [DevOps OpenSource Links](https://parg.co/A1W)。
+
 # Service Gateway
 
 - [Kong](https://getkong.org/): The open-source API Gateway and Microservices Management Layer, delivering high performance and reliability.
@@ -25,6 +27,18 @@
 - [Istio #Project#](https://istio.io/about/intro.html): Istio is an open platform that provides a uniform way to connect, manage, and secure microservices. Istio supports managing traffic flows between microservices, enforcing access policies, and aggregating telemetry data, all without requiring changes to the microservice code.
 
 - [Service Fabric #Project#](https://github.com/Microsoft/service-fabric): Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
+
+## Distributed Transaction | 分布式事务
+
+- [2015-tcc-transaction #Project#](https://github.com/changmingxie/tcc-transaction): tcc-transaction是TCC型事务java实现。
+
+- [2016-Solar #Project#](https://github.com/prontera/spring-cloud-rest-tcc): 基于Spring Cloud Netflix的TCC柔性事务和EDA事件驱动示例，结合Spring Cloud Sleuth进行会话追踪和Spring Boot Admin的健康监控，并辅以Hystrix Dashboard提供近实时的熔断监控。
+
+- [2017-ByteTCC #Project#](https://github.com/liuyangming/ByteTCC): ByteTCC是一个兼容JTA规范的基于TCC机制的分布式事务管理器。
+
+## Distributed Tracing | 分布式追踪
+
+- [Zipkin #Project#](https://github.com/openzipkin/zipkin): Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in microservice architectures. It manages both the collection and lookup of this data. Zipkin’s design is based on the Google Dapper paper.
 
 # Service Availability
 
