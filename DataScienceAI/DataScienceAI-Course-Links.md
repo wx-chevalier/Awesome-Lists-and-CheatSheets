@@ -54,8 +54,10 @@
 
 - [2015-Trained image classification models for Keras #Project#](https://github.com/fchollet/deep-learning-models): Keras code and weights files for popular deep learning models.
 
-* [All-in-one Docker image for Deep Learning #Project#](https://github.com/saiprashanths/dl-docker): An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
+- [2015-Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures): Lectures on scientific computing with python, as IPython notebooks.
 
-* [Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning): A list of popular github projects related to deep learning (ranked by stars).
+* [2017-All-in-one Docker image for Deep Learning #Project#](https://github.com/saiprashanths/dl-docker): An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
+
+* [2017-Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning): A list of popular github projects related to deep learning (ranked by stars).
 
 ---

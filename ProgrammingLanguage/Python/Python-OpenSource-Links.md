@@ -2,17 +2,11 @@
 
 # Python OpenSource Links
 
+# Development Library
+
 - [Bounter #Project#](https://github.com/RaRe-Technologies/bounter): Efficient Counter that uses a limited (bounded) amount of memory regardless of data size.
 
-- [requests-html #Project#](https://github.com/kennethreitz/requests-html): This library intends to make parsing HTML (e.g. scraping the web) as simple and intuitive as possible.
-
-* [json-sempai #Project#](https://github.com/kragniz/json-sempai):Use JSON files as Modules
-
-* [rebound #Project#](https://github.com/shobrook/rebound): Command-line tool that instantly fetches Stack Overflow results when you get a compiler error.
-
-* [Pyre #Project#](https://github.com/facebook/pyre-check): Pyre is a fast, scalable type checker for large python codebases, designed to help improve code quality and development speed by flagging type errors interactively in your terminal or favorite editor.
-
-# Development Library
+- [json-sempai #Project#](https://github.com/kragniz/json-sempai):Use JSON files as Modules
 
 # Development Tool
 
@@ -20,8 +14,22 @@
 
 - [PyPy.js #Project#](https://pypyjs.org/): PyPy.js is an experiment in building a fast and compliant python environment for the web.
 
+- [Pyre #Project#](https://github.com/facebook/pyre-check): Pyre is a fast, scalable type checker for large python codebases, designed to help improve code quality and development speed by flagging type errors interactively in your terminal or favorite editor.
+
+## Tuning
+
+- [Py-Spy #Project#](https://github.com/benfred/py-spy): Py-Spy is a sampling profiler for Python programs. It lets you visualize what your Python program is spending time on without restarting the program or modifying the code in any way.
+
 # Storage
 
 - [dataset #Project#](https://github.com/pudo/dataset/blob/master/README.md): In short, dataset makes reading and writing data in databases as simple as reading and writing JSON files.
 
 - [Faust #Project#](https://github.com/robinhood/faust): Faust is a stream processing library, porting the ideas from Kafka Streams to Python.
+
+# Network
+
+- [requests-html #Project#](https://github.com/kennethreitz/requests-html): This library intends to make parsing HTML (e.g. scraping the web) as simple and intuitive as possible.
+
+# Application
+
+- [rebound #Project#](https://github.com/shobrook/rebound): Command-line tool that instantly fetches Stack Overflow results when you get a compiler error.

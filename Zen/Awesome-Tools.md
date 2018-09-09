@@ -54,6 +54,10 @@
 
 - [httpie #Project#](https://github.com/jakubroztocil/httpie): Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 
+* [insomnia #Project#](https://github.com/getinsomnia/insomnia): The most intuitive cross-platform REST API Client.
+
+- [Charles #Project#](https://www.charlesproxy.com/): Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
+
 ## File
 
 - [UPX #Project#](https://github.com/upx/upx): UPX is an advanced executable file compressor. UPX will typically reduce the file size of programs and DLLs by around 50%-70%, thus reducing disk space, network load times, download times and other distribution and storage costs.

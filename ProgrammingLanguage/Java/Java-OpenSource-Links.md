@@ -12,6 +12,8 @@
 
 - [Lombok #Project#](https://projectlombok.org/): Project Lombok is a java library that automatically plugs into your editor and build tools, spicing up your java.
 
+- [caffeine #Project#](https://github.com/ben-manes/caffeine): A high performance caching library for Java 8
+
 # Development Tool | 开发工具
 
 ## Static Analysis | 静态分析
@@ -53,14 +55,6 @@
 
 - [concurrency-limits #Project#](https://github.com/Netflix/concurrency-limits): Java Library that implements and integrates concepts from TCP congestion control to auto-detect concurrency limits to achieve optimal throughput with optimal latency.
 
-# Web Framework
-
-## Spring
-
-- [Springfox #Project#](https://github.com/springfox/springfox): Automated JSON API documentation for API's built with Spring.
-
-- [Java Hipster #Project#](https://github.com/jhipster/generator-jhipster): Open Source application generator for creating Spring Boot + Angular/React projects in seconds!
-
 # Other
 
 - [Java Parser #Project#](https://github.com/javaparser/javaparser): Java Parser and Abstract Syntax Tree
@@ -70,6 +64,8 @@
 - [useful-scripts #Project#](https://github.com/oldratlee/useful-scripts): 把平时有用的手动操作做成脚本，这样可以便捷的使用。
 
 - [2018-vjtools #Project#](https://github.com/vipshop/vjtools): The vip.com's java coding standard, libraries and tools
+
+- [2018-jvm-profiler #Project#](https://github.com/uber-common/jvm-profiler): JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter.
 
 ## JProfiler
 

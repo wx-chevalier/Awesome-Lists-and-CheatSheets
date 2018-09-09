@@ -2,12 +2,12 @@
 
 # 即时通信资料索引
 
-* [有赞 APP IM SDK 组件架构设计](http://tech.youzan.com/you-zan-im-sdk-ke-hu-duan-she-ji/)
+- [有赞 APP IM SDK 组件架构设计](http://tech.youzan.com/you-zan-im-sdk-ke-hu-duan-she-ji/)
 
-* [简聊](https://github.com/jianliaoim/talk-os)
+- [简聊](https://github.com/jianliaoim/talk-os)
 
-- [2017-Build a Location-based Chatroom with Firebase and Vue.js](https://parg.co/bLH)[ssh-chat](https://github.com/shazow/ssh-chat)
+* [2017-Build a Location-based Chatroom with Firebase and Vue.js](https://parg.co/bLH)[ssh-chat](https://github.com/shazow/ssh-chat)
 
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat): Have your own Slack like online chat, built with Meteor.
+* [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat): Have your own Slack like online chat, built with Meteor.
 
-* [Websocket based group chat app built with socket.io and react.](https://github.com/justadudewhohacks/websocket-chat)
+- [Websocket based group chat app built with socket.io and react.](https://github.com/justadudewhohacks/websocket-chat)
