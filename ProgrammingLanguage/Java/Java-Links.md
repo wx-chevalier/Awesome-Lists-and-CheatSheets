@@ -2,10 +2,6 @@
 
 # Java Learning & Practices Links
 
-当我们谈起 Java 的时候，往往是将其作为一门编程语言来讨论；然而编程语言的特性只是 Java 架构的某部分，保障其平台独立性的一系列底层架构也是 Java 不可分割的组成。宏观来看，我们认为 Java 主要包含以下四个部分：Java 编程语言、Java 类文件格式、Java API 以及 JVM。当我们在进行 Java 开发时，我们使用 Java 编程语言来编写代码，然后将其编译为 Java 类文件，最终在 JVM 中执行这些类文件；目前我们也可以使用 Gradle、Kotlin 等其他优秀的语言来编写 Java 应用程序。而 JVM 与 Java 平台的核心库就构成了我们所熟知的 Java Runtime Environment(JRE)：
-
-![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2017/8/1/java.png)
-
 作为主流的编程语言之一，Java 走过了二十余载的路程；从 Java 8 到 Java 9，其语法特性与开发模式也处于不断地迭代当中。本文即是希望对于不断变化的并且在实际工作中大量应用的 Java 学习与实践的资料进行收集与索引。
 
 # Overview
@@ -77,6 +73,8 @@
 - [Java 工程师成神之路~](http://www.hollischuang.com/archives/489)
 
 - [Java 资源大全中文版](https://github.com/jobbole/awesome-java-cn)
+
+- [2018-Java 学习指南 #Collection#](https://github.com/Snailclimb/JavaGuide): 一份涵盖大部分 Java 程序员所需要掌握的核心知识，正在一步一步慢慢完善，期待您的参与。
 
 ## Interview | 面试
 

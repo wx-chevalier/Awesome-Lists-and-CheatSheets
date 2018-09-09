@@ -36,7 +36,7 @@
 
 - [2015 年 Quora 关于其机器学习具体应用的讲解](https://www.quora.com/How-does-Quora-use-machine-learning-in-2015)
 
-- [Using Deep Learning to Discover Drugs, Classify Pokémon, Save Zebras, Play Flappy Bird & More](https://medium.com/transmission-newsletter/using-deep-learning-to-discover-drugs-classify-pok%C3%A9mon-save-zebras-play-flappy-bird-more-a3a57fc98a15?source=reading_list---------1-2)
+- [Using Deep Learning to Discover Drugs, Classify Pokémon, Save Zebras, Play Flappy Bird & More](https://parg.co/Ajl)
 
 # Resource | 资源
 

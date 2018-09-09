@@ -40,6 +40,10 @@
 
 - [Knex #Project#](https://github.com/tgriesser/knex): A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 
+- [Sqorn #Project#](https://github.com/lusakasa/sqorn): Sqorn is a Javascript library for building SQL queries.
+
+- [bookshelf #Project#](https://github.com/bookshelf/bookshelf): A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
+
 ## SysProc
 
 - [execa #Project#](https://github.com/sindresorhus/execa): A better `child_process`.
@@ -50,6 +54,8 @@
 - [AliOS-nodejs #Project#](https://github.com/alibaba/AliOS-nodejs): speed up nodejs booting using snapshot
 
 - [Napa.js #Project#](https://github.com/Microsoft/napajs): Napa.js is a multi-threaded JavaScript runtime built on V8, which was originally designed to develop highly iterative services with non-compromised performance in Bing.
+
+- [microjob #Project#](https://github.com/wilk/microjob): A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads.
 
 # Application
 

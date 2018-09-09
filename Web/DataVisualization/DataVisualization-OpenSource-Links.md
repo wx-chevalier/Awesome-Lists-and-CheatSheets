@@ -64,6 +64,10 @@
 
 - [github-contributions-canvas #Project#](https://github.com/sallar/github-contributions-canvas): A tool for drawing a heat-map of Github contributions on HTML Canvas.
 
+## Editor | 图编辑器
+
+- [2018-GGEditor #Project#](http://ggeditor.com/): A visual graph editor based on G6 and React.
+
 # Map
 
 - [2017-maptalks.js](https://github.com/maptalks/maptalks.js): An open-source javascript library for map applications.
