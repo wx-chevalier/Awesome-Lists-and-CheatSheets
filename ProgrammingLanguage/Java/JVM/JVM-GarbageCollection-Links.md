@@ -14,6 +14,8 @@
 
 - [垃圾收集器与内存分配策略——在线文字版](http://book.51cto.com/art/201107/278857.htm)
 
+- [2018-Java程序员的荣光，听R大论JDK11的ZGC](https://mp.weixin.qq.com/s/KUCs_BJUNfMMCO1T3_WAjw?from=groupmessage&isappinstalled=0): ZGC的成绩是，无论你开了多大的堆内存(1288G？ 2T？)，硬是能保证低于10毫秒的JVM停顿。
+
 # Memory Leak | 内存泄漏
 
 - [2017-How Memory Leaks Happen in a Java Application](https://stackify.com/memory-leaks-java/): In this article, we’re going to describe the most common memory leaks, understand their causes, and look at a few techniques to detect/avoid them.

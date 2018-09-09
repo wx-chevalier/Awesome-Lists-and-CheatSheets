@@ -1,0 +1,1 @@
+- [2018-GopherCon 2018 - Allocator Wrestling](https://about.sourcegraph.com/go/gophercon-2018-allocator-wrestling/): A whirlwind tour of the Go memory allocator and garbage collector, with tools and tips on how to optimize.

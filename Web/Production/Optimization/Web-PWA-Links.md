@@ -66,7 +66,7 @@ This file aggregates popular links for learning how to implement Progressive Web
 
 - [Installable Web Apps with the Web App Manifest in Chrome for Android](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android): An introduction to installable Web Apps in Chrome for Android.
 
-## Push
+# Web Push
 
 - [Chrome Platform Status - Web Notifications](https://www.chromestatus.com/feature/5480344312610816) : Implementation status for Chrome and other browsers.
 
@@ -75,3 +75,5 @@ This file aggregates popular links for learning how to implement Progressive Web
 - [Using the Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API/Using_the_Push_API) : An article introducing Push API.
 
 - [web-push-libs](https://github.com/web-push-libs) : A collection of useful libraries for web push in different technologies (Node.js, PHP, Python, etc.)
+
+- [2018-Web 推送通知](https://github.com/yued-fe/y-translation/blob/master/en/web-push-notifications/introduction.md): 本系列文章是翻译自谷歌开发者网站，我们的主要目的，是让对 Web 推送服务有兴趣的开发者，能够通过阅读本系列的文章而初步掌握 Web 推送的一些基本原理和实现方式，从而在实际工作中可以应用起来。

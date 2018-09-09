@@ -72,6 +72,8 @@
 
 # OpenSource
 
+- [2018-size-plugin #Project#](https://github.com/GoogleChromeLabs/size-plugin): Prints the gzipped sizes of your webpack assets and the changes since the last build.
+
 ## 监控
 
 * [Webpack Dashboard #Project#](https://github.com/FormidableLabs/webpack-dashboard): A CLI dashboard for webpack dev server. 如果是 Windows 下的开发者可以优先使用 [electron-webpack-dashboard](https://github.com/FormidableLabs/electron-webpack-dashboard)

@@ -30,6 +30,8 @@
 
 - [洞察 #Project#](https://github.com/creditease-sec/insight): 洞察-宜信集应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的平台。
 
+- [WAM #Project#](https://github.com/knownsec/wam): WAM is a platform powered by Python to monitor "Web App", "The dynamic network information"
+
 # HIDS
 
 - [驭龙 HIDS](https://github.com/ysrc/yulong-hids): 驭龙 HIDS 是一款由 YSRC 开源的入侵检测系统，由 Agent， Daemon， Server 和 Web 四个部分组成，集异常检测、监控管理为一体，拥有异常行为发现、快速阻断、高级分析等功能，可从多个维度行为信息中发现入侵行为。
