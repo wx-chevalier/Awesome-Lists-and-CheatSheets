@@ -4,6 +4,7 @@
 
 * [A curated list of deep learning resources for computer vision](https://github.com/kjw0612/awesome-deep-vision)
 
+
 # OCR
 
 * [2017-Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning]()

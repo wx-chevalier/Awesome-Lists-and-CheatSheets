@@ -4,6 +4,8 @@
 
 * [Faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
 
+- [2018-深度学习中常用的图像数据增强方法-纯干货](https://mp.weixin.qq.com/s/_7xFBLPGT0VRTJ22toHJ3g): 本文将会带你学会如何对已有的图像数据进行数据增强，获取样本的多样性与数据的多样性从而为训练模型打下良好基础。
+
 # 归一化与正则化
 
 * [What-is-the-difference-between-L1-and-L2-regularization](https://www.quora.com/What-is-the-difference-between-L1-and-L2-regularization)
