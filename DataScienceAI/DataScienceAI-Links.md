@@ -50,6 +50,10 @@
 
 - [2018-Deep Learning World #Resource#](https://github.com/astorfi/Deep-Learning-World): Organized Resources for Deep Learning Researchers and Developers.
 
+## Paper | 论文
+
+- [pwc](https://github.com/zziz/pwc): Papers with code. Sorted by stars. Updated weekly.
+
 ## Blog | 博客
 
 ## Competition | 机器学习相关竞赛
@@ -68,11 +72,11 @@
 
 - [Tunedit](http://tunedit.org/challenges?type=student)
 
-- [DataFountain](http://www.wid.org.cn/data/science/player/home/;jsessionid=47D3236D25B0A85DE344BEFCBF1159F6-n1):DF,CCF 指定中国专业的数据竞赛平台
+- [DataFountain](http://www.wid.org.cn/data/science/player/home/): DF,CCF 指定中国专业的数据竞赛平台
 
 * [Distill](https://distill.pub/)
 
-## Career | 职业
+## Interview | 面试
 
 - [Quora 关于机器学习的招聘启事](https://www.quora.com/careers/technical_lead_machine_learning)
 

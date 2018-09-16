@@ -2,9 +2,9 @@
 
 # Awesome CS Collections: Curated links of awesome sites & collections & resources
 
-Awesome CS Collections is collections of collection, including Programming Language, Software Engineering, Web, Server Side Application, Frontend, etc. Every link in this collection may containing massive domains.
+[Awesome CS Collections](https://parg.co/ddq) is collections of collection, including Programming Language, Software Engineering, Web, Server Side Application, Frontend, etc. Every link in this collection may containing massive domains.
 
-Awesome CS Collections is subject to [Awesome Links](https://github.com/wxyyxc1992/Awesome-Links/), which is also part of [Awesome Coder](https://github.com/wxyyxc1992/Awesome-Coder).
+Awesome CS Collections is subject to [Awesome Links](https://github.com/wxyyxc1992/Awesome-Links/), which is also part of [Awesome Coder](https://github.com/wxyyxc1992/Awesome-Coder). You may also like [Awesome-DataSet-Collections](https://parg.co/ddS), [Awesome Tools](https://parg.co/ddc), etc.
 
 Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速找到合适的学习指引。
 
@@ -44,6 +44,12 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 - [Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x#build-your-own-database): What I cannot create, I do not understand.
 
+- [devdocs](http://devdocs.io/): 这里集合了大量的在线的文档，同时 DevDocs 还支持离线浏览，主要是依靠 IndexDB 将数据存放在浏览器的本地缓存中。
+
+- [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese): 在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，真心希望本指南能给你带来一点小小的帮助。
+
+## Computer Science
+
 ## Interview | 面试
 
 - [InterviewMap #Project#](https://github.com/InterviewMap/InterviewMap): uild the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
@@ -68,8 +74,6 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 
-- [awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-
 # Web
 
 - [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook): Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore.
@@ -91,6 +95,10 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 - [The Twelve-Factor App](http://12factor.net/zh_cn/): To raise awareness of some systemic problems we’ve seen in modern application development, to provide a shared vocabulary for discussing those problems, and to offer a set of broad conceptual solutions to those problems with accompanying terminology.
 
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+
+- [awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+
+- [free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
 
 # Frontend | 前端
 

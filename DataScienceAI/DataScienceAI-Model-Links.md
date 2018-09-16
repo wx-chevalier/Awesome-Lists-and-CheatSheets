@@ -24,6 +24,10 @@
 
 - [2018-vid2vid #Project#](https://github.com/NVIDIA/vid2vid): Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 
+## OCR
+
+- [2018-alpr-unconstrained](https://github.com/sergiomsilva/alpr-unconstrained): License Plate Detection and Recognition in Unconstrained Scenarios.
+
 # Development | 开发辅助
 
 - [SketchCode #Project#](https://github.com/ashnkumar/sketch-code): Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images.

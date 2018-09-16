@@ -4,19 +4,9 @@
 
 # Algorithm & DataStructure Links
 
+This series collect curated, worthy and up-to-date links/reading list for Algorithm & DataStructure.
+
 # Resource
-
-## Tutorial
-
-- [VisuAlgo](http://visualgo.net/?ref=webdesignernews.com&_branch_match_id=296605835303953850): 以动画与交互形式展现常见数据结构与算法的工作流程
-
-- [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions)
-
-- [Top Algorithms/Data Structures/Concepts every computer science student should know](https://techiedelight.quora.com/Top-Algorithms-Data-Structures-Concepts-every-computer-science-student-should-know)
-
-- [Algorithm → AST → CSS](https://github.com/skidding/illustrated-algorithms): 常见算法流程演示
-
-- [2017-Java 101: Datastructures and algorithms in Java](http://www.javaworld.com/article/2073390/core-java/datastructures-and-algorithms-part-1.html?nsdr=true): Datastructures and algorithms are essential to computer science, which is the study of data, its representation in memory, and its transformation from one form to another
 
 ## Book
 
@@ -24,20 +14,44 @@
 
 * [2017-Competitive Programmer's Handbook #Book#](https://cses.fi/book.html): The purpose of this book is to give the reader a thorough introduction to competitive programming. The book is especially intended for students who want to learn algorithms and possibly participate in the International Olympiad in Informatics (IOI) or in the International Collegiate Programming Contest (ICPC).
 
+- [2018-The Algorithms #Book#](https://github.com/TheAlgorithms): Open Source Book for Newbies to Learn Algorithms and Implement them in any Programming Language.
+
 ## Online Judge
 
 - [Leetcode](https://leetcode.com/): LeetCode is a platform for preparing technical coding interviews. Pick from an expanding library of more than 450 questions, code and submit your solution to see if you have solved it correctly. It is that easy!
 
-- [牛客网]()
+- [Project Euler](https://projecteuler.net/)
 
-## Solution
+- [CodingGame](https://www.codingame.com/start)
+
+- [Kaggle](https://www.kaggle.com/)
+
+- [Topcoder](https://www.topcoder.com/)
+
+- 牛客网
+
+- [HackerRank](https://www.hackerrank.com/)
+
+- [JS Fight](https://jsfight.club/)
+
+## Collection
 
 - [2018-algorithms #Project#](https://github.com/marcosfede/algorithms): Solved algorithms and data structures problems in many languages.
 
-- [algorithmist](http://www.algorithmist.com/index.php/Main_Page):
+- [algorithmist #Project#](http://www.algorithmist.com/index.php/Main_Page):
   The Algorithmist is a resource dedicated to anything algorithms - from the practical realm, to the theoretical realm. There are also links and explanation to problemsets.
 
 - [Solve Data In Code #Project#](https://github.com/espadrine/Solve-Data-In-Code): All decidable problems can be solved with algorithms.
+
+# Universe
+
+- [VisuAlgo](https://parg.co/ddd): visualising data structures and algorithms through animation
+
+- [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions)
+
+- [Top Algorithms/Data Structures/Concepts every computer science student should know](https://techiedelight.quora.com/Top-Algorithms-Data-Structures-Concepts-every-computer-science-student-should-know)
+
+- [Algorithm → AST → CSS](https://github.com/skidding/illustrated-algorithms): 常见算法流程演示
 
 # C++
 
@@ -48,6 +62,8 @@
 # Java
 
 - [2017-AlgoDS](https://github.com/sherxon/AlgoDS): Implementation of Algorithms and Data Structures, Interview Questions and Answers.
+
+- [2017-Java 101: Datastructures and algorithms in Java](http://www.javaworld.com/article/2073390/core-java/datastructures-and-algorithms-part-1.html?nsdr=true): Datastructures and algorithms are essential to computer science, which is the study of data, its representation in memory, and its transformation from one form to another
 
 * [Introduction to Data Structures and Algorithms](http://www.idevelopment.info/data/Programming/data_structures/overview/Data_Structures_Algorithms_Introduction.shtml)
 

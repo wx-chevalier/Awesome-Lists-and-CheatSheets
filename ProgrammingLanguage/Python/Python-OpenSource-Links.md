@@ -16,6 +16,8 @@
 
 - [Pyre #Project#](https://github.com/facebook/pyre-check): Pyre is a fast, scalable type checker for large python codebases, designed to help improve code quality and development speed by flagging type errors interactively in your terminal or favorite editor.
 
+- [Bowler #Project#](https://pybowler.io/): Safe code refactoring for modern Python.
+
 ## Tuning
 
 - [Py-Spy #Project#](https://github.com/benfred/py-spy): Py-Spy is a sampling profiler for Python programs. It lets you visualize what your Python program is spending time on without restarting the program or modifying the code in any way.
