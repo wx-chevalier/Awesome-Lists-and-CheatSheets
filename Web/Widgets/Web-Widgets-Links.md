@@ -6,7 +6,7 @@
 
 不拘泥于某种框架或者实现方式，本索引涵盖了 Web 开发中常用的组件模式，其按照如下方式进行归类：
 
-- [General | 通用](./General-Widgets-Links.md)
+- [General | 通用](./General-Links.md)
 
   - Button | 按钮
 

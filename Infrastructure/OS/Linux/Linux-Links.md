@@ -28,8 +28,6 @@
 
 ## Collection
 
-# Shell
-
 - [2017-The Art of Command Line](https://parg.co/bXZ): Master the command line, in one page.
 
 - [2017-Bash-Snippets #Project#](https://github.com/alexanderepstein/Bash-Snippets): A collection of small bash scripts for heavy terminal users.
@@ -39,3 +37,5 @@
 - [2018-pure bash bible](https://github.com/dylanaraps/pure-bash-bible): The goal of this book is to document known and unknown methods of doing various tasks using only built-in bash features.
 
 - [Bash Infinity #Project#](https://github.com/niieani/bash-oo-framework): Bash Infinity is a modern boilerplate / framework / standard library for bash
+
+# Tutorial

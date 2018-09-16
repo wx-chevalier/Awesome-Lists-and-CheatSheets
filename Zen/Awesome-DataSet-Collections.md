@@ -8,6 +8,8 @@
 
 - [Google Dataset Search #Project#](https://toolbox.google.com/datasetsearch): A new search service to find data from sciences, government, some news organizations.
 
+- [Fake Mail Generator #Project#](http://www.fakemailgenerator.com/#/armyspy.com/Nity1962/)
+
 # Data Sets
 
 ## Collections:资源汇总帖

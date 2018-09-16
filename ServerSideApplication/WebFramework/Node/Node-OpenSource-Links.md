@@ -44,6 +44,8 @@
 
 - [bookshelf #Project#](https://github.com/bookshelf/bookshelf): A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
 
+- [TypeORM #Project#](https://github.com/typeorm/typeorm): ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+
 ## SysProc
 
 - [execa #Project#](https://github.com/sindresorhus/execa): A better `child_process`.

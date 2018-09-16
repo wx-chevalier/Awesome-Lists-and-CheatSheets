@@ -53,3 +53,9 @@
 - [the-infinite-path-of-scrolling](https://medium.com/@jankuca/the-infinite-path-of-scrolling-463bc649c7bd#.ut93imoai)
 
 - [react infinite](https://github.com/seatgeek/react-infinite)
+
+# Drag & Drop
+
+- [2016-interact.js #Project#](https://github.com/taye/interact.js): JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+)
+
+- [2017-draggable #Project#](https://github.com/Shopify/draggable): The JavaScript Drag & Drop library your grandparents warned you about. Draggable comes with additional modules: Sortable, Droppable, Swappable. Draggable itself does not perform any sorting behaviour while dragging, but does the heavy lifting;

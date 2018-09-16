@@ -4,13 +4,9 @@
 
 # Overview
 
-* [2015-十分钟带你理解 Kubernetes 核心概念](http://www.dockone.io/article/932)
+- [2015-十分钟带你理解 Kubernetes 核心概念](http://www.dockone.io/article/932)
 
-* [2018-The Kubernetes Effect](https://www.infoq.com/articles/kubernetes-effect): The way we should look at Kubernetes is more like a fundamental paradigm that has implications in multiple dimensions, rather than an API to interact with.
-
-* [Teaching Kubernetes](http://blog.slashdeploy.com/2017/02/19/teaching-kubernetes/):  teach people already working with containers how to deploy their existing applications to Kubernetes.
-
-* [2017-Kubernetes The Hard Way #Series#](https://github.com/kelseyhightower/kubernetes-the-hard-way): This tutorial walks you through setting up Kubernetes the hard way. This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster. If that's you then check out Google Kubernetes Engine, or the Getting Started Guides.
+- [2018-The Kubernetes Effect](https://www.infoq.com/articles/kubernetes-effect): The way we should look at Kubernetes is more like a fundamental paradigm that has implications in multiple dimensions, rather than an API to interact with.
 
 * [2017-Kubernetes vs Docker Swarm](https://platform9.com/blog/kubernetes-docker-swarm-compared/): We’ll walk you through high-level discussions of Kubernetes and Docker Swarm, and then compare them head-to-head.
 
@@ -30,14 +26,26 @@
 
 ## Book
 
-* [2017-Kubernetes 中文指南/云原生应用架构实践手册 #Book#](https://github.com/rootsongjc/kubernetes-handbook): 本书记录了本人从零开始学习和使用 Kubernetes 的心路历程，着重于经验分享和总结，同时也会有相关的概念解析，希望能够帮助大家少踩坑，少走弯路，还会指引大家关于关注 kubernetes 生态周边，如微服务构建、DevOps、大数据应用、Service Mesh、Cloud Native 等领域。
+- [2017-Kubernetes 中文指南/云原生应用架构实践手册 #Book#](https://github.com/rootsongjc/kubernetes-handbook): 本书记录了本人从零开始学习和使用 Kubernetes 的心路历程，着重于经验分享和总结，同时也会有相关的概念解析，希望能够帮助大家少踩坑，少走弯路，还会指引大家关于关注 kubernetes 生态周边，如微服务构建、DevOps、大数据应用、Service Mesh、Cloud Native 等领域。
 
-- [2017-Kubernetes for Java Developers #Book#](https://www.oreilly.com/programming/free/files/kubernetes-for-java-developers.pdf): Orchestrate Multi-Container Applications with Ease
+* [2017-Kubernetes for Java Developers #Book#](https://www.oreilly.com/programming/free/files/kubernetes-for-java-developers.pdf): Orchestrate Multi-Container Applications with Ease
 
-## Video
+- [2017-Kubernetes The Hard Way #Series#](https://github.com/kelseyhightower/kubernetes-the-hard-way): This tutorial walks you through setting up Kubernetes the hard way. This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster. If that's you then check out Google Kubernetes Engine, or the Getting Started Guides.
 
-* [2017-Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes): Want to learn Kubernetes? Get an in-depth primer on this powerful system for managing containerized applications.
+## Courses
+
+- [2017-Introduction to Kubernetes #Course#](https://www.edx.org/course/introduction-to-kubernetes): Want to learn Kubernetes? Get an in-depth primer on this powerful system for managing containerized applications.
+
+- [2017-Scalable Microservices with Kubernetes (Udacity) #Course#](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615): This course is designed to teach you about managing application containers, using Kubernetes
 
 ## Collection
 
-* [2018-Resources for Getting Started with Kubernetes](https://vsupalov.com/getting-started-with-kubernetes/): Hand-picked reading material and courses to help you make progress towards getting started with Kubernetes.
+- [2018-Resources for Getting Started with Kubernetes](https://vsupalov.com/getting-started-with-kubernetes/): Hand-picked reading material and courses to help you make progress towards getting started with Kubernetes.
+
+## Interactive Playground
+
+- [Play with Kubernetes](https://labs.play-with-k8s.com/): Play with Kubernetes is a labs site provided by Docker and created by Tutorius. Play with Kubernetes is a playground which allows users to run K8s clusters in a matter of seconds.
+
+# Tutorials
+
+- [Kubernetes 101 & 201 #Series#](https://kubernetes.io/docs/tutorials/k8s101/): For Kubernetes 101, we will cover kubectl, Pods, Volumes, and multiple containers. For Kubernetes 201, we will pick up where 101 left off and cover some slightly more advanced topics in Kubernetes, related to application productionization, Deployment and scaling.

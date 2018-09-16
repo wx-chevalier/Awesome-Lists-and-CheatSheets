@@ -44,7 +44,7 @@
 
 - [termui #Project#](https://github.com/gizak/termui): termui is a cross-platform, easy-to-compile, and fully-customizable terminal dashboard. It is inspired by blessed-contrib, but purely in Go.
 
-# Development Tools
+# Development Tools | 开发工具
 
 ## VSCode
 
@@ -52,9 +52,13 @@
 
 ## HTTP
 
+### Client
+
 - [httpie #Project#](https://github.com/jakubroztocil/httpie): Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 
 * [insomnia #Project#](https://github.com/getinsomnia/insomnia): The most intuitive cross-platform REST API Client.
+
+### Proxy
 
 - [Charles #Project#](https://www.charlesproxy.com/): Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
 
@@ -62,7 +66,7 @@
 
 - [UPX #Project#](https://github.com/upx/upx): UPX is an advanced executable file compressor. UPX will typically reduce the file size of programs and DLLs by around 50%-70%, thus reducing disk space, network load times, download times and other distribution and storage costs.
 
-- [xsv #Project#](https://github.com/BurntSushi/xsv): xsv is a command line program for indexing, slicing, analyzing, splitting and joining CSV files. 
+- [xsv #Project#](https://github.com/BurntSushi/xsv): xsv is a command line program for indexing, slicing, analyzing, splitting and joining CSV files.
 
 ## Online Editor | 在线编辑与共享
 
@@ -96,35 +100,33 @@
 
 ## Documents
 
-- [Docusaurus #Project#](https://parg.co/UtL): Docusaurus is a project for easily building, deploying, and maintaining open source project websites.
+- [beautiful-docs #Collection#](https://github.com/PharkMillups/beautiful-docs): Pointers to useful, well-written, and otherwise beautiful documentation.
+
+### Project WebSite | 项目主页
+
+- [Gitbook](https://github.com/GitbookIO/gitbook): Modern documentation format and toolchain using Git and Markdown.
+
+* [2016-mkdocs #Project#](https://github.com/mkdocs/mkdocs/): MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file.
+
+* [2017-Docusaurus #Project#](https://parg.co/UtL): Docusaurus is a project for easily building, deploying, and maintaining open source project websites.
+
+### API Docs | 接口文档
+
+- [2017-whiteboard #Project#](https://github.com/mpociot/whiteboard): Simply write beautiful API documentation.
+
+* [2018-docz #Project#](https://github.com/pedronauck/docz): It has never been so easy to document your things!
 
 ## 文件共享
 
-- [Resilio](https://www.resilio.com/): Synchronize, Distribute & Consolidate Files Using a P2P Protocol
+- [Resilio #Project#](https://www.resilio.com/): Synchronize, Distribute & Consolidate Files Using a P2P Protocol
 
-- [Syncthing #Project](https://syncthing.net/): Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
+- [Syncthing #Project#](https://syncthing.net/): Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
+
+- [Carbon #Project#](https://github.com/dawnlabs/carbon): Create and share beautiful images of your source code.
 
 ## 项目管理
 
 - [滴答清单]
-
-## 接口文档
-
-查阅各种 API 文档是程序猿的必备技能，这里列举出部分整合类型的文档查阅网站，方便特别是被墙的情况下查阅文档。
-
-- [devdocs](http://devdocs.io/)
-
-这里集合了大量的在线的文档，同时 DevDocs 还支持离线浏览，主要是依靠 IndexDB 将数据存放在浏览器的本地缓存中。
-
-- [beautiful-docs](https://github.com/PharkMillups/beautiful-docs)
-
-- [Gitbook](https://github.com/GitbookIO/gitbook)
-
-- [whiteboard](https://github.com/mpociot/whiteboard)
-
-- [mkdocs](https://github.com/mkdocs/mkdocs/)
-
-- [2018-docz #Project#](https://github.com/pedronauck/docz): It has never been so easy to document your things!
 
 ## 协同编辑
 
@@ -159,3 +161,7 @@
 # Presentation
 
 - [2018-mdx-deck #Project#](https://github.com/jxnblk/mdx-deck): MDX-based presentation decks (Beta).
+
+# Todos
+
+- 合并 Workbench Collection
