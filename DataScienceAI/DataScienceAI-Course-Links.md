@@ -32,6 +32,10 @@
 
 * [2018-CS230: Deep Learning](https://web.stanford.edu/class/cs230/): In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. [百度网盘，j2vp](https://pan.baidu.com/s/1Toko6dTqK-W6-e8EVm2kpA)
 
+# Reinforcement Learning
+
+- [2018-Deep Reinforcement Learning Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/): Deep Reinforcement Learning Course is a free series of blog posts and videos 🆕 about Deep Reinforcement Learning, where we'll learn the main algorithms, and how to implement them with Tensorflow.
+
 # NLP | 自然语言处理
 
 - [2016-University of Illinois at Urbana-Champaign:Text Mining and Analytics #Course#](https://zh.coursera.org/learn/text-mining): This course will cover the major techniques for mining and analyzing text data to discover interesting patterns, extract useful knowledge, and support decision making, with an emphasis on statistical approaches that can be generally applied to arbitrary text data in any natural language with no or minimum human effort.
