@@ -106,6 +106,8 @@
 
 - [Gitbook](https://github.com/GitbookIO/gitbook): Modern documentation format and toolchain using Git and Markdown.
 
+- [2013-Sphinx #Project#](https://github.com/sphinx-doc/sphinx): Sphinx is a tool that makes it easy to create intelligent and beautiful documentation for Python projects (or other documents consisting of multiple reStructuredText sources), written by Georg Brandl.
+
 * [2016-mkdocs #Project#](https://github.com/mkdocs/mkdocs/): MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file.
 
 * [2017-Docusaurus #Project#](https://parg.co/UtL): Docusaurus is a project for easily building, deploying, and maintaining open source project websites.
