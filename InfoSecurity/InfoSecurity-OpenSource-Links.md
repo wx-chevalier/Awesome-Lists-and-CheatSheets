@@ -18,6 +18,8 @@
 
 * [2018-Fuxi Scanner #Project#](https://github.com/jeffzh3ng/Fuxi-Scanner): Fuxi Scanner is an open source network security vulnerability scanner, it comes with multiple functions.
 
+- [2017-Wfuzz #Project#](https://github.com/xmendez/wfuzz): Wfuzz has been created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.
+
 # HIDS
 
 - [驭龙 HIDS](https://github.com/ysrc/yulong-hids): 驭龙 HIDS 是一款由 YSRC 开源的入侵检测系统，由 Agent， Daemon， Server 和 Web 四个部分组成，集异常检测、监控管理为一体，拥有异常行为发现、快速阻断、高级分析等功能，可从多个维度行为信息中发现入侵行为。

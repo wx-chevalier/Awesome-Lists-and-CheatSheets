@@ -4,6 +4,8 @@
 
 # Performance Optimization | 性能优化
 
+- [2018-React Profiler](https://mp.weixin.qq.com/s/k-icCIEOHkGmV-cBJ0HUGQ): React 16.5 新增了对开发工具（DevTools）性能分析插件（profiler plugin）的支持。
+
 - [2017-React Performance Fixes on Airbnb Listing Pages](https://parg.co/UpT): We have been hard at work migrating the airbnb.com core booking flow into a single-page server-rendered app using React Router and Hypernova.
 
 - [React Office Site —— Optimizing Performance](https://facebook.github.io/react/docs/optimizing-performance.html): For many applications, using React will lead to a fast user interface without doing much work to specifically optimize for performance. Nevertheless, there are several ways you can speed up your React application.

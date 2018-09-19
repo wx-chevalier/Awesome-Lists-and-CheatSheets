@@ -16,6 +16,10 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2018-The Algorithms #Book#](https://github.com/TheAlgorithms): Open Source Book for Newbies to Learn Algorithms and Implement them in any Programming Language.
 
+- [2018-算法珠玑 #Book#](https://soulmachine.gitbooks.io/algorithm-essentials/): 本书的目标读者是准备去硅谷找工作的码农，也适用于在国内找工作的码农，以及刚接触ACM算法竞赛的新手。
+
+## Course | 课程
+
 ## Online Judge
 
 - [Leetcode](https://leetcode.com/): LeetCode is a platform for preparing technical coding interviews. Pick from an expanding library of more than 450 questions, code and submit your solution to see if you have solved it correctly. It is that easy!
@@ -33,6 +37,10 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 - [HackerRank](https://www.hackerrank.com/)
 
 - [JS Fight](https://jsfight.club/)
+
+### Leetcode Solutions
+
+- [2018-LeetCode All in One讲解汇总](http://www.goodtecher.com/zh/leetcode%E8%AE%B2%E8%A7%A3%E6%B1%87%E6%80%BB/): 大家好，这里是GoodTecher LeetCode题目讲解汇总表。
 
 ## Collection
 
@@ -73,7 +81,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [结构之法 算法之道](http://blog.csdn.net/v_july_v)
 
-- [Algo- 数据结构与算法学习实践指南](https://github.com/absfree/Algo)
+- [Algo-数据结构与算法学习实践指南](https://github.com/absfree/Algo)
 
 - [数据结构与算法学习笔记 ,gitbook 上对于 Leetcode 题解](https://www.gitbook.com/book/yuanbin/algorithm/details)
 
