@@ -29,3 +29,5 @@ Working Effectively with Legacy Code, by Michael Feathers. This book will give y
 - [大家的公司的 code review 都是怎么做的？遇到过什么问题么？](https://www.zhihu.com/question/41089988/answer/135943884)
 
 - [CRACKING THE CODE REVIEW, PART 1: PREPARING YOUR CODE REVIEW](https://www.lucidchart.com/techblog/2017/02/08/cracking-the-code-review-part-1-preparing-your-code-review/)
+
+- [2018-Modern Code Review: A Case Study at Google](https://sback.it/publications/icse2018seip.pdf): In this paper, we make an exploratory investigation of modern code review at Google.
