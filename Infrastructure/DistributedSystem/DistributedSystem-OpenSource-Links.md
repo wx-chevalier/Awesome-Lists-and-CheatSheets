@@ -8,3 +8,11 @@
 # Distributed Computing
 
 - [Wallaroo #Project#](https://github.com/wallaroolabs/wallaroo): Wallaroo is a fast, elastic data processing engine that rapidly takes you from prototype to production by eliminating infrastructure complexity.
+
+# Distributed FS
+
+## Object Storage
+
+- [Image Server #Project#](https://github.com/pierrre/imageserver): An image server toolkit in Go (Golang)
+
+* [Pavlov Match #Project#](https://github.com/pavlovml/match):Scalable reverse image search

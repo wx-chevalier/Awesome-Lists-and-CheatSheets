@@ -2,7 +2,7 @@
 
 # Web Internals Links | Web 运行原理与内部机制资料索引
 
-# Overview | 概述
+# Browser Rendering | 浏览器渲染
 
 - [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 
@@ -21,6 +21,8 @@
 - [the-rendering-process-of-a-web-page](https://medium.com/@gneutzling/the-rendering-process-of-a-web-page-78e05a6749dc#.zdp2moezo)
 
 - [应该知道的前端性能二三事：Reflow 和 Repaint](http://www.tuicool.com/articles/UvYBfy)
+
+- [2018-How browser rendering works — behind the scenes](https://parg.co/d3A): The purpose of this article is to explain, in very simple terms, the steps your browser takes to convert HTML, CSS and JavaScript into a working website you can interact with.
 
 # Chrome
 

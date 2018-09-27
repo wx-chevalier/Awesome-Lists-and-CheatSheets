@@ -35,3 +35,7 @@
 - [Kafka 源码分析](https://zqhxuyuan1.gitbooks.io/kafka/content/chapter1-intro.html)
 
 * [Kafka 深度解析](http://www.jasongj.com/2015/01/02/Kafka%e6%b7%b1%e5%ba%a6%e8%a7%a3%e6%9e%90/)
+
+# OpenSource
+
+- [2016-kafkacat #Project#](https://github.com/edenhill/kafkacat): Generic command line non-JVM Apache Kafka producer and consumer

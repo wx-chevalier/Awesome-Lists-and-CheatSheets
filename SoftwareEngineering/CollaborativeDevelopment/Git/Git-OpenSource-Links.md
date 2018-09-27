@@ -8,7 +8,7 @@
 
 - [git-sizer #Project#](https://github.com/github/git-sizer/): Compute various size metrics for a Git repository, flagging those that might cause problems
 
-* [githug](https://github.com/Gazler/githug):一个集齐了 54 个管卡的 Git 小游戏，很不错，过关说明文档看[这里](https://codingstyle.cn/topics/51)
+* [githug #Project#](https://github.com/Gazler/githug): Githug is designed to give you a practical way of learning git. It has a series of levels, each requiring you to use git commands to arrive at a correct answer. [Here](https://codingstyle.cn/topics/51) is tutorials.
 
 - [dropbox-as-a-true-git-server](http://www.anishathalye.com/2016/04/25/dropbox-as-a-true-git-server/)
 
@@ -20,7 +20,7 @@
 
 - [2018-GRV #Project#](https://github.com/rgburke/grv): GRV is a terminal based interface for viewing git repositories. It allows refs, commits and diffs to be viewed, searched and filtered.
 
-## DVisual(数据可视化)
+## DVisual | 数据可视化
 
 - [gitgraphjs](http://gitgraphjs.com/#): gitgraphjs 提供了一套基于 JS 的绘图的 API，方便进行 Git 中常见的流程绘制。
 
@@ -49,3 +49,5 @@
 # Internals
 
 - [gitprotocolio #Project#](https://github.com/google/gitprotocolio): A Git protocol parser written in Go.
+
+- [Gitea #Project#](https://github.com/go-gitea/gitea): The goal of this project is to make the easiest, fastest, and most painless way of setting up a self-hosted Git service.

@@ -48,6 +48,8 @@
 
 * [HttpRouter #Project#](https://github.com/julienschmidt/httprouter): A high performance HTTP request router that scales well.
 
+* [gqlgen #Project#](https://gqlgen.com/): gqlgen is a golang library for building graphql servers without any fuss.
+
 # Storage
 
 ## FileSystem

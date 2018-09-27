@@ -4,11 +4,19 @@
 
 - [Redash #Project#]()
 
-- [Caravel #Project#](https://github.com/airbnb/caravel)
-
-- [glTF #Project#](https://github.com/KhronosGroup/glTF): glTF™ (GL Transmission Format) is a royalty-free specification for the efficient transmission and loading of 3D scenes and models by applications.
-
 # Animation | 动画库
+
+# Animation Effect
+
+- [Woah.css #Project#](http://www.joerezendes.com/projects/Woah.css/): Animations for eccentric developers.
+
+* [Effeckt.css #Project#](https://github.com/h5bp/Effeckt.css)
+
+* [Hover.css #Project#](https://github.com/IanLunn/Hover): A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on.
+
+* [iHover #Project#](http://gudh.github.io/ihover/dist/index.html#): iHover is an impressive hover effects collection, powered by pure CSS3, no dependency, work well with Bootstrap 3!
+
+# Tween Animation | 补间动画
 
 - [react-motion #Project#](https://github.com/chenglou/react-motion): A spring that solves your animation problems.
 
@@ -18,13 +26,9 @@
 
 * [animateplus #Project#](https://github.com/bendc/animateplus)
 
-* [Effeckt.css #Project#](https://github.com/h5bp/Effeckt.css)
+# Plstopfic
 
-* [Hover.css #Project#](https://github.com/IanLunn/Hover): A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on.
-
-* [iHover #Project#](http://gudh.github.io/ihover/dist/index.html#): iHover is an impressive hover effects collection, powered by pure CSS3, no dependency, work well with Bootstrap 3!
-
-* [Woah.css #Project#](http://www.joerezendes.com/projects/Woah.css/): Animations for eccentric developers.
+- [Turn.js #Project#](http://www.turnjs.com/#samples/magazine2/9): Turn.js is a JavaScript library that will make your content look like a real book or magazine using all the advantages of HTML5.
 
 # Library | 数据可视化库
 
@@ -44,7 +48,11 @@
 
 - [TWGL #Project#](http://twgljs.org): This library's sole purpose is to make using the WebGL API less verbose.
 
+- [glTF #Project#](https://github.com/KhronosGroup/glTF): glTF™ (GL Transmission Format) is a royalty-free specification for the efficient transmission and loading of 3D scenes and models by applications.
+
 # Diagram
+
+- [drawio #Project#](https://github.com/jgraph/drawio): draw.io is an online diagramming web site that delivers the source in this project.
 
 ## Chart
 
@@ -68,9 +76,13 @@
 
 - [2018-GGEditor #Project#](http://ggeditor.com/): A visual graph editor based on G6 and React.
 
-# Map
+- [2014-mxGraph](https://github.com/jgraph/mxgraph): mxGraph is a fully client side JavaScript diagramming library that uses SVG and HTML for rendering.
+
+# Map | 地图
 
 - [2017-maptalks.js](https://github.com/maptalks/maptalks.js): An open-source javascript library for map applications.
+
+- [2018-deck.gl #Project#](http://deck.gl/#/): deck.gl is a WebGL-powered framework for visual exploratory data analysis of large datasets.
 
 # Application
 
@@ -79,3 +91,9 @@
 - [Rough.js #Project#](http://roughjs.com/): Rough.js is a light weight (~8k), Canvas based library that lets you draw in a sketchy, hand-drawn-like, style. The library defines primitives to draw lines, curves, arcs, polygons, circles, and ellipses. It also supports drawing SVG paths.
 
 - [atrament.js #Project#](https://github.com/jakubfiala/atrament.js):Tiny JS library for beautiful drawing and handwriting on the HTML Canvas
+
+## Business Intelligence
+
+- [2015-Caravel #Project#](https://github.com/airbnb/caravel): Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
+
+- [2016-Redash #Project#](https://github.com/getredash/redash): Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
