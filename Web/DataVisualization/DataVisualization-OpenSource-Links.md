@@ -38,6 +38,8 @@
 
 * [Babylon.js #Project# ](https://parg.co/b1C): Babylon.js is an open source framework that allows you to create stunning 3D experiences in your browser. Built with simplicity and performance in mind, it is the engine that fuels the Remix3D site or the Xbox Design Lab.
 
+- [sketch.js #Project#](https://github.com/soulwire/sketch.js): Cross-Platform JavaScript Creative Coding Framework
+
 ## Canvas
 
 - [dom-to-image #Project#](https://github.com/tsayen/dom-to-image): Generates an image from a DOM node using HTML5 canvas

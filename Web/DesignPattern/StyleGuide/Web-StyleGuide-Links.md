@@ -1,8 +1,5 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links) 
- 
- 
- 
- 
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
+
 # Web 开发样式指南资料索引
 
 - [CSS Guildelines](https://cssguidelin.es/) - High-level advice and guidelines for writing sane, manageable, scalable CSS.
@@ -21,14 +18,12 @@
 
 - [airbnb-JavaScript Style Guide](https://github.com/airbnb/javascript)
 
-- [阮一峰-JavaScript编程风格](http://javascript.ruanyifeng.com/grammar/style.html)
+- [阮一峰-JavaScript 编程风格](http://javascript.ruanyifeng.com/grammar/style.html)
 
 - [JavaScript Standard Style](https://github.com/feross/standard)
 
 - [node-jscs:JavaScript Code Style checker](https://github.com/jscs-dev/node-jscs/)
 
-
 # CSS
 
 # HTML
-
