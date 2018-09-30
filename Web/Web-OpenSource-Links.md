@@ -6,11 +6,9 @@ The contents organization form follows [Web MindMap](),
 
 # Development Library
 
-- [ICE #Project#](https://github.com/alibaba/ice): 飞冰 - 海量可复用物料，通过 GUI 工具极速构建中后台应用。
+- [ui-element-samples #Project#](https://github.com/GoogleChrome/ui-element-samples): A collection of UI element samples written with vanilla web platform features.
 
-* [ui-element-samples #Project#](https://github.com/GoogleChrome/ui-element-samples): A collection of UI element samples written with vanilla web platform features.
-
-* [fbjs #Project#](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
+- [fbjs #Project#](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
 
 ## Framework
 
@@ -111,3 +109,15 @@ The contents organization form follows [Web MindMap](),
 # Storage
 
 - [Pouchdb #Project#](https://github.com/pouchdb/pouchdb): PouchDB was created to help web developers build applications that work as well offline as they do online.
+
+# Engineering Practices
+
+## Builder
+
+- [2016-Structor #Project#](https://github.com/ipselon/structor): Install Components > Prototype UI > Generate Source Code > Build Application.
+
+- [ICE #Project#](https://github.com/alibaba/ice): 飞冰 - 海量可复用物料，通过 GUI 工具极速构建中后台应用。
+
+* [2017-grapesjs #Project#](https://github.com/artf/grapesjs): Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
+
+-

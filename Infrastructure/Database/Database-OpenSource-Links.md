@@ -56,7 +56,19 @@
 
 - [Dgraph #Project#](https://dgraph.io/): Dgraph is a horizontally scalable and distributed graph database, providing ACID transactions, consistent replication and linearizable reads.
 
-# Big Table Database
+# Datawarehouse
+
+## OLAP
+
+- [2016-ClickHouse #Project#](https://clickhouse.yandex/): ClickHouse is an open source column-oriented database management system capable of real time generation of analytical data reports using SQL queries.
+
+- [2017-Druid #Project#](http://druid.io/): Apache Druid (incubating) is a high performance analytics data store for event-driven data.
+
+- [Pinot #Project#](https://github.com/linkedin/pinot): Pinot is a realtime distributed OLAP datastore, which is used at LinkedIn to deliver scalable real time analytics with low latency.
+
+## Query Engine
+
+- [Presto #Project#](https://prestodb.io/): Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.
 
 # TimeSeries
 

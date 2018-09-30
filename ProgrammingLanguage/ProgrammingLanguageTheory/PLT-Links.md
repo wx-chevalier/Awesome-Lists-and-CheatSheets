@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# 编程语言理论资料索引
+# Programming Language Theory Links | 编程语言理论资料索引
 
 - [2017-Where do Type Systems Come From?](http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/): In short, type theory was developed to be an alternative to set theory as the foundation of mathematical proofs in symbolic logic due to its ability to solve some contradictions stemming from naive set theory.
 

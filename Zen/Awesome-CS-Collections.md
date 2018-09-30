@@ -82,6 +82,8 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 - [How JavaScript works #Series#](https://blog.sessionstack.com/tagged/tutorial): the series dedicated to exploring JavaScript and its building components.
 
+- [2018-Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap): Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops.
+
 # Server Side Application | 服务端应用程序
 
 - [2016-Back-End Developer Interview Questions](https://parg.co/UXF): A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
@@ -89,6 +91,8 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 - [2018-Awesome Scalability, Availability, and Stability Back-end Design Patterns](https://github.com/binhnguyennus/awesome-scalability): A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development.
 
 - [2018-后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+
+- [Awesome design patterns](https://github.com/DovAmir/awesome-design-patterns): A general, reusable solution to a commonly occurring problem within a given context in software design. It is a description or template for how to solve a problem that can be used in many different situations.
 
 # Infrastructure | 基础架构
 

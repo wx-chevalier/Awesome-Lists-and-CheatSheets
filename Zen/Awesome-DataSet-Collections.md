@@ -313,3 +313,15 @@ Data repositories
 - http://www.ufindthem.com/
 - http://NetworkRepository.com(有视觉互动分析的机器学习数据库)
 - http://MLvis.com
+
+# 实验数据
+
+# 较大型数据
+
+# 领域数据
+
+# Model | 模型
+
+- [Thingiverse #Collection#](https://www.thingiverse.com/)
+
+- [GrabCAD #Collection#](https://grabcad.com/library)

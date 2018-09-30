@@ -19,4 +19,5 @@
 - [Java 虚拟机规范(Java SE 8 版)读后总结](http://www.jianshu.com/p/00ffffc9103c?from=timeline): Java 虚拟机的实现必须体现书中内容，但仅在确有必要时才应该受制于这些规范。用书中的原话来说即"公有设计，私有实现"。
 
 - [JVM 各区域的用途以及潜在出现异常的示例](https://www.devh.net/yidongnan/blog/4v312p6ben9jnbg403tsnkvgan)
+
 - [JVM memory model](http://coding-geek.com/jvm-memory-model/#Stack_based_architecture)

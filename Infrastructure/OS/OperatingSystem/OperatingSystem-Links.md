@@ -21,3 +21,7 @@
 - [os_process_scheduling_algorithms](http://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm)
 
 - [OS 中常用的调度算法总结](http://blog.chinaunix.net/uid-25132162-id-361291.html)
+
+# Storage | 存储
+
+- [2016-存储基础知识](https://mp.weixin.qq.com/s?__biz=MzU0ODczMzM2OA==&mid=2247489647&idx=1&sn=f618dda0e62e1eeb739cb4d00ab2ef42&=41#wechat_redirect): 如果你能熟悉掌握这里面所有的内容，相信你的存储武功将非常了得。同时，对你练习上层武功打下坚实的基础！
