@@ -42,6 +42,8 @@
 
 ## DDOS
 
+* [Deflect](https://deflect.ca/#en): Deflect 是一款开源服务，帮助非政府组织(NGO )、行动主义者和独立媒体公司免于受到分布式拒绝服务攻击(DDoS )。与商业 CDN 类似，它基于分布式反向代理缓存，隐藏真实服务器 IP 地址，同时能够阻止对后台的公开访问，并致力于抵抗针对独立言论的僵尸网络。
+
 ## Brute Force
 
 - [hydra #Project#](https://github.com/vanhauser-thc/thc-hydra): Number one of the biggest security holes are passwords, as every password security study shows. This tool is a proof of concept code, to give researchers and security consultants the possibility to show how easy it would be to gain unauthorized access from remote to a system.

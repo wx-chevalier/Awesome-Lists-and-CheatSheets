@@ -5,3 +5,5 @@
 - [2018-A Project Based Introduction to TensorFlow.js](http://kexp.io/intro_tensorflowjs/): I hope this article inspires you to make your own neural network powered applications as well. 
 
 - [2018-Introducing TensorFlow.js: Machine Learning in Javascript](https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db): In this post, we’ll give you a quick overview of TensorFlow.js, and getting started resources you can use to try it out.
+
+- [2018-TensorFlow.js Crash Course – Machine Learning For The Web #Series#](https://codingthesmartway.com/): How TensorFlow.js can be used to add machine learning capabilities to your web application.

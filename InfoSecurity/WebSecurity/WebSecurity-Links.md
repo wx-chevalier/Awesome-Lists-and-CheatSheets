@@ -46,6 +46,8 @@
 
 - [2018-Practical Web Cache Poisoning](https://portswigger.net/blog/practical-web-cache-poisoning): In this paper I'll show you how to compromise websites by using esoteric web features to turn their caches into exploit delivery systems, targeting everyone that makes the mistake of visiting their homepage.
 
+- [2018-如何防止XSS攻击？](https://tech.meituan.com/fe_security.html): 随着互联网的高速发展，信息安全问题已经成为企业最为关注的焦点之一，而前端又是引发企业安全问题的高危据点。
+
 # CSRF
 
 - [从零开始学 CSRF](http://www.freebuf.com/articles/web/55965.html)
@@ -73,8 +75,6 @@
 - [PHP-backdoors #Project#](https://github.com/bartblaze/PHP-backdoors)
 
 # DDOS
-
-* [Deflect](https://deflect.ca/#en): Deflect 是一款开源服务，帮助非政府组织(NGO )、行动主义者和独立媒体公司免于受到分布式拒绝服务攻击(DDoS )。与商业 CDN 类似，它基于分布式反向代理缓存，隐藏真实服务器 IP 地址，同时能够阻止对后台的公开访问，并致力于抵抗针对独立言论的僵尸网络。
 
 - [浅析大规模 DDOS 防御架构：应对 T 级攻防](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=400299276&idx=1&sn=e132a62a492b1139edf9acae115932a4&scene=23&srcid=1107fxqJm1ylDDLN7xZRgmdH#rd)
 
