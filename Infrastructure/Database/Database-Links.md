@@ -65,3 +65,7 @@
 - [2017-How ElasticSearch changed the way I think about search engines… twice](https://parg.co/USg)
 
 - [search-index #Project#](https://github.com/fergiemcdowall/search-index): A persistent, network resilient, full text search library for the browser and Node.js.
+
+# HA Database
+
+- [2018-A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/): In this post, we want to take a look at how distributed databases have historically handled partial failures within a system and understand––at a high level––what high availability looks like.
