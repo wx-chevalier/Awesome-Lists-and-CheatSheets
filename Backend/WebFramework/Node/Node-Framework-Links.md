@@ -24,6 +24,12 @@
 
 # Nest.js
 
+# Auth
+
+- [2017-Securing Node.js RESTful APIs with JSON Web Tokens](https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52): It’s a way of encrypting a value, in turn creating a unique token that users use as an identifier. 
+
+* [Node Hero - Node.js Authentication using Passport.js](https://parg.co/UqY)
+
 # Other
 
 * [fastify #Project#](https://github.com/fastify/fastify): Fast and low overhead web framework, for Node.js.
