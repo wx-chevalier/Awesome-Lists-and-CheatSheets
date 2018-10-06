@@ -106,9 +106,31 @@ The contents organization form follows [Web MindMap](),
 
 * [greenlet #Project#](https://github.com/developit/greenlet): Move an async function into its own thread, a simplified single-function version of workerize.
 
-# Storage
+# Functionality
 
-- [Pouchdb #Project#](https://github.com/pouchdb/pouchdb): PouchDB was created to help web developers build applications that work as well offline as they do online.
+## Network
+
+- [DeepStream]()
+
+* [CometD](https://github.com/cometd/cometd): The CometD project, a scalable comet (server push) implementation for web messaging.
+
+## Storage
+
+- [2013-Pouchdb #Project#](https://github.com/pouchdb/pouchdb): PouchDB was created to help web developers build applications that work as well offline as they do online.
+
+* [2013-localForage #Project#](https://github.com/localForage/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+
+- [2014-Lovefield #Project#](https://google.github.io/lovefield/): Relational Database With Schema
+
+- [LokiJS #Project#](https://github.com/techfort/LokiJS): LokiJS is a document oriented database written in javascript, Its purpose is to store javascript objects as documents in a nosql fashion and retrieve them with a similar mechanism.
+
+* [2017-Lowdb #Project#](https://github.com/typicode/lowdb): Small JSON database for Node, Electron and the browser. Powered by Lodash.
+
+- [2017-RxDB #Project#](https://github.com/pubkey/rxdb): The reactive, serverless, client-side, offline-first database for your next javascript-application.
+
+- [2017-Dexie.js #Project#](https://github.com/dfahlander/Dexie.js): Dexie.js is a wrapper library for indexedDB - the standard database in the browser.
+
+- [2018-turtleDB #Project#](https://github.com/turtle-DB/turtleDB): turtleDB is a JavaScript framework and in-browser database for developers to build offline-first, collaborative web applications. It provides a developer-friendly API to access an in-browser database built on top of IndexedDB.
 
 # Engineering Practices
 

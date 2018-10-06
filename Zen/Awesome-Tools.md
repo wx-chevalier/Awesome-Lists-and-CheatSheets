@@ -8,6 +8,8 @@
 
 ## MAC
 
+- [My wonderful world of macOS #Collection#](https://github.com/nikitavoloboev/my-mac-os): List of applications and tools that make my macOS experience even more amazing
+
 - [Laptop #Project#](https://github.com/thoughtbot/laptop): A shell script to set up a macOS laptop for web and mobile development.
 
 - [LuLu #Project#](https://github.com/objective-see/LuLu): LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic.

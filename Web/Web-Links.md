@@ -52,3 +52,6 @@
 
 - [2017-Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook): Almost complete answers to "Front-end Job Interview Questions"
 
+# Decenterilze | 去中心化
+
+- [2018-Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors): In this article, we will dive deeper into this topic, trying to understand what problem CORS really solves. However, we will start with the Same-Origin Policy (SOP) concept.
