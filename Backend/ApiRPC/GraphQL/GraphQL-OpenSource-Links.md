@@ -18,6 +18,8 @@
 
 - [graphql-yoga #Project#](https://github.com/graphcool/graphql-yoga): Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.
 
+- [type-graphql #Project#](https://github.com/19majkel94/type-graphql): Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
+
 ## Automation
 
 - [Prisma #Project#](https://github.com/graphcool/prisma): Prisma turns your database into a realtime GraphQL API.
