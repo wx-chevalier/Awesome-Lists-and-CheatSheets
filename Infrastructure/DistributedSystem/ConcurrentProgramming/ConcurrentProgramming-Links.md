@@ -18,6 +18,10 @@
 
 - [2018-Why goroutines are not lightweight threads?](https://codeburst.io/why-goroutines-are-not-lightweight-threads-7c460c1f155f): Concurrency has existed since long ago in the form of Threads which are used in almost all the applications these days.
 
+# Concurrent Primitive 
+
+- [2018-Why you can have millions of goroutines but only thousands of Java threads](https://rcoh.me/posts/why-you-can-have-a-million-go-routines-but-only-1000-java-threads/)
+
 # Concurrent IO
 
 * [2017-epoll 浅析以及 nio 中的 Selector](http://www.importnew.com/24794.html)
