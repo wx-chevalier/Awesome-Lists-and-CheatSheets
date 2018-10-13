@@ -16,6 +16,10 @@
 
 - [The Bug Hunters Methodology](https://github.com/jhaddix/tbhm): This repo is a conglomeration of tips, tricks, tools, and data analysis to use while doing web application security assessments, and more specifically towards bug hunting in bug bounties.
 
+# Overview | 概述
+
+- [2018-Web Application Penetration Testing Cheat Sheet](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/#data-validation-testing): This cheatsheet is intended to run down the typical steps performed when conducting a web application penetration test. 
+
 # Browser Security | 浏览器安全
 
 - [CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging): Chrome extension and Express server that exploits keylogging abilities of CSS.
