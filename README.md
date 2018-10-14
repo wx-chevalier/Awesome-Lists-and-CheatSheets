@@ -8,6 +8,8 @@
 
 Awesome Links 是 [Awesome-Coder](https://github.com/wxyyxc1992/Awesome-Coder) 系列的重要组成，记录了笔者在日常阅读、学习与实践中发掘的优秀的资料，其按照[知识图谱](https://parg.co/bwI)中定义的各个领域的知识体系分门别类地存放。笔者会不断更新其中链接，去芜存菁，去重留一，希望为同仁提供优秀的、有价值的、尽可能精简的资料索引。如果您想更加系统化地学习某些知识，可以参考笔者的技术书籍归档类仓库 [Awesome-CS-Books-Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse)。
 
+**建议前往 [xCompass](https://wxyyxc1992.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程，或者直接浏览本仓库的目录以了解更多内容。**
+
 ## Specials
 
 为了便于知识归纳，Awesome Links 在 [Specials](./Specials) 目录中准备了多个专题的集锦，它们包括：
