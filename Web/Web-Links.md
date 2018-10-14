@@ -4,7 +4,7 @@
 
 # Web Learning & Practices Links
 
-本文上承接[ AwesomeReference: 程序员成长道路上的阅读学习资料工具集锦](https://github.com/wxyyxc1992/Awesome-Links)，子索引包含：
+本文上承接 [AwesomeReference: 程序员成长道路上的阅读学习资料工具集锦](https://github.com/wxyyxc1992/Awesome-Links)，子索引包含：
 
 # Overview | 概述
 

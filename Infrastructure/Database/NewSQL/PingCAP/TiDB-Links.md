@@ -3,3 +3,5 @@
 # TiDB Links
 
 * [如何编写一个分布式数据库](http://studygolang.com/articles/4860)
+
+- [2018-分布式数据库 TiDB 在商业银行的设计与实践](https://mp.weixin.qq.com/s/GfHIUWPetDUClCOOJF27bw): 这篇文章中，我们将详细介绍TiDB在我行的设计与实践。
