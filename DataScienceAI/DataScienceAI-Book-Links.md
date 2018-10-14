@@ -73,6 +73,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 * [2017-DL4NLP-Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP):
   State of the art resources for NLP sequence modeling tasks such as machine translation, image captioning, and dialog.
 
+- [2018-Dan Jurafsky-Speech and Language Processing-3rd #Book#](https://web.stanford.edu/~jurafsky/slp3/): New pedagogical sequences on neural networks and their training, starting with logistic regression and continuing with embeddings, feed-forward nets, and RNNs. 
+
 # Computer Vision | 计算机视觉
 
 * [2016-OpenCV: Computer Vision Projects with Python](https://parg.co/Y6Q): Use OpenCV's Python bindings to capture video, manipulate images, and track objects. Learn about the different functions of OpenCV and their actual implementations.
