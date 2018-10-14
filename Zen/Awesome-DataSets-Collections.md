@@ -1,8 +1,24 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Awesome DataSet Collections
+# Awesome DataSets Collections
 
 - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua): 中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
+
+# Datasets
+
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全的中华古典文集数据库, 包含 5.5 万首唐诗、26 万首宋诗和 2.1 万首宋词. 唐宋两朝近 1.4 万古诗人, 和两宋时期 1.5K 词人. 数据来源于互联网。
+
+- [AWS Public Datasets](https://aws.amazon.com/public-datasets/): AWS hosts a variety of public datasets that anyone can access for free.
+
+- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets):An awesome list of high-quality open datasets in public domains (on-going).
+
+- [Wikimedia Dumps](https://dumps.wikimedia.org): Wiki 上的数据打包下载。
+
+- [Reddit Datasets](https://www.reddit.com/r/datasets/): Reddit 上关于数据集的讨论板块
+
+- [InstaReProxy #Project#](https://github.com/whizzzkid/instagram-proxy-api): This builds over the Instagram's public API to provide more functionality and provides a CORS complaint reverse instagram proxy service.
+
+* [facets #Project#](https://github.com/PAIR-code/facets): The facets project contains two visualizations for understanding and analyzing machine learning datasets: Facets Overview and Facets Dive.
 
 # Search Index | 索引
 
@@ -11,6 +27,8 @@
 - [Fake Mail Generator #Project#](http://www.fakemailgenerator.com/#/armyspy.com/Nity1962/)
 
 # Data Sets
+
+- [fashion-mnist #Project#](https://github.com/zalandoresearch/fashion-mnist): Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples.
 
 ## Collections:资源汇总帖
 
@@ -325,3 +343,7 @@ Data repositories
 - [Thingiverse #Collection#](https://www.thingiverse.com/)
 
 - [GrabCAD #Collection#](https://grabcad.com/library)
+
+# Todos
+
+- https://www.zhihu.com/question/32164316/answer/132515302

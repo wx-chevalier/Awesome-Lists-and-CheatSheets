@@ -8,22 +8,6 @@
 
 * [2017-Turi Create #Project#](https://github.com/apple/turicreate): Turi Create simplifies the development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
 
-# Datasets
-
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全的中华古典文集数据库, 包含 5.5 万首唐诗、26 万首宋诗和 2.1 万首宋词. 唐宋两朝近 1.4 万古诗人, 和两宋时期 1.5K 词人. 数据来源于互联网。
-
-- [AWS Public Datasets](https://aws.amazon.com/public-datasets/): AWS hosts a variety of public datasets that anyone can access for free.
-
-- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets):An awesome list of high-quality open datasets in public domains (on-going).
-
-- [Wikimedia Dumps](https://dumps.wikimedia.org): Wiki 上的数据打包下载。
-
-- [Reddit Datasets](https://www.reddit.com/r/datasets/): Reddit 上关于数据集的讨论板块
-
-- [InstaReProxy #Project#](https://github.com/whizzzkid/instagram-proxy-api): This builds over the Instagram's public API to provide more functionality and provides a CORS complaint reverse instagram proxy service.
-
-* [facets #Project#](https://github.com/PAIR-code/facets): The facets project contains two visualizations for understanding and analyzing machine learning datasets: Facets Overview and Facets Dive.
-
 # Machine Learning
 
 - [feature-selector #Project#](https://github.com/WillKoehrsen/feature-selector): Feature selector is a tool for dimensionality reduction of machine learning datasets
@@ -57,3 +41,7 @@
 - [2018-pico.js #Project#](https://github.com/tehnokv/picojs): a face-detection library in 200 lines of JavaScript
 
 * [face-api.js #Project#](): JavaScript API for Face Recognition in the Browser with tensorflow.js.
+
+## OCR
+
+- [Tess4j](https://github.com/nguyenq/tess4j)

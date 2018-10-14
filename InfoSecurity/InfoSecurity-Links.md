@@ -39,3 +39,11 @@
 ## Book
 
 ## Collection
+
+# HIDS
+
+- [大型互联网企业入侵检测实战总结](https://xz.aliyun.com/t/1626/): 入侵检测是每一个大型互联网企业都要面对的一个难题。
+
+# Tutorial
+
+- [2018-Kali Linux: Social Engineering Toolkit](https://linuxhint.com/kali-linux-set/): In this post i am going to show you the simple scenario of how to implement Social Engineering Attack in daily life.

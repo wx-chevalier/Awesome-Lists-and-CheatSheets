@@ -52,33 +52,37 @@
 
 - [glTF #Project#](https://github.com/KhronosGroup/glTF): glTF™ (GL Transmission Format) is a royalty-free specification for the efficient transmission and loading of 3D scenes and models by applications.
 
-# Diagram
+# Chart
 
-- [drawio #Project#](https://github.com/jgraph/drawio): draw.io is an online diagramming web site that delivers the source in this project.
-
-## Chart
-
-## Flowchart
-
-- [bpmn-js #Project#](https://github.com/bpmn-io/bpmn-js): A BPMN 2.0 rendering toolkit and web modeler.
-
-- [jsPlumb #Project#](https://github.com/sporritt/jsPlumb): jsPlumb provides a means for a developer to visually connect elements on their web pages. It uses SVG and runs on all browsers from IE9 and later.
-
-- [jsWorkFlow #Project#](https://github.com/hemantsshetty/jsWorkflow): jsWorkflow, a jsPlumb based workfow API, helps to create JavaScript based workflow diagrams for various applications. It abstracts all the complexities involved in designing and managing workflows.
-
-* [js2flowchart #Project#](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart): a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
-
-* [React JS Diagrams #Project#](https://github.com/woodenconsulting/react-js-diagrams): A flow based diagramming library written in React
+- [Echarts]()
 
 ## Heatmap | 热力图
 
 - [github-contributions-canvas #Project#](https://github.com/sallar/github-contributions-canvas): A tool for drawing a heat-map of Github contributions on HTML Canvas.
 
-## Editor | 图编辑器
+# Diagram
+
+## Flowchart
+
+- [js2flowchart #Project#](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart): a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
+
+- [React JS Diagrams #Project#](https://github.com/woodenconsulting/react-js-diagrams): A flow based diagramming library written in React
+
+### Editor | 图编辑器
+
+- [2014-mxGraph #Project#](https://github.com/jgraph/mxgraph): mxGraph is a fully client side JavaScript diagramming library that uses SVG and HTML for rendering.
+
+- [2014-bpmn-js #Project#](https://github.com/bpmn-io/bpmn-js): A BPMN 2.0 rendering toolkit and web modeler.
+
+- [2014-jsPlumb #Project#](https://github.com/sporritt/jsPlumb): jsPlumb provides a means for a developer to visually connect elements on their web pages. It uses SVG and runs on all browsers from IE9 and later.
+
+- [2014-jsWorkFlow #Project#](https://github.com/hemantsshetty/jsWorkflow): jsWorkflow, a jsPlumb based workfow API, helps to create JavaScript based workflow diagrams for various applications. It abstracts all the complexities involved in designing and managing workflows.
 
 - [2018-GGEditor #Project#](http://ggeditor.com/): A visual graph editor based on G6 and React.
 
-- [2014-mxGraph](https://github.com/jgraph/mxgraph): mxGraph is a fully client side JavaScript diagramming library that uses SVG and HTML for rendering.
+- [2018-rete #Project#](https://github.com/retejs/rete): JavaScript framework for visual programming and creating node editor.
+
+## MindMap | 思维脑图
 
 # Map | 地图
 
@@ -93,6 +97,8 @@
 - [Rough.js #Project#](http://roughjs.com/): Rough.js is a light weight (~8k), Canvas based library that lets you draw in a sketchy, hand-drawn-like, style. The library defines primitives to draw lines, curves, arcs, polygons, circles, and ellipses. It also supports drawing SVG paths.
 
 - [atrament.js #Project#](https://github.com/jakubfiala/atrament.js):Tiny JS library for beautiful drawing and handwriting on the HTML Canvas
+
+- [drawio #Project#](https://github.com/jgraph/drawio): draw.io is an online diagramming web site that delivers the source in this project.
 
 ## Business Intelligence
 

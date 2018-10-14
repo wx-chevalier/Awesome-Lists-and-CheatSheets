@@ -16,7 +16,11 @@
 
 ## Golang
 
+- [2015-go_spider #Project#](https://github.com/hu17889/go_spider): An awesome Go concurrent Crawler(spider) framework. The crawler is flexible and modular. It can be expanded to an Individualized crawler easily or you can use the default crawl components only.
+
 - [2017-Colly #Project#](https://github.com/asciimoo/colly): Lightning Fast and Elegant Scraping Framework for Gophers.
+
+- [2018-ferret #Project#](https://github.com/MontFerret/ferret): ferret is a web scraping system aiming to simplify data extraction from the web for such things like UI testing, machine learning and analytics.
 
 ## Java
 

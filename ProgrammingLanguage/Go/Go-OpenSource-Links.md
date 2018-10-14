@@ -28,9 +28,9 @@
 
 - [gojay #Project#](https://github.com/francoispqt/gojay): Highly performant JSON encoder/decoder with powerful stream API for Golang.
 
-* [2017-Colly #Project#](https://github.com/gocolly/colly): Lightning Fast and Elegant Scraping Framework for Gophers.
-
 * [2018-jstream #Project#](https://github.com/bcicen/jstream): jstream is a streaming JSON parser and value extraction library for Go.
+
+## Utils
 
 ## Command Line
 
@@ -38,9 +38,15 @@
 
 - [cli #Project#](https://github.com/urfave/cli): A simple, fast, and fun package for building command line apps in Go.
 
+## Log
+
+- [logrus #Project#](https://github.com/sirupsen/logrus): Logrus is a structured logger for Go (golang), completely API compatible with the standard library logger.
+
 # Web Framework
 
 - [Beego #Project#](https://beego.me/): An open source framework to build and develop your applications in the Go way.
+
+- [Gin #Project#](https://github.com/gin-gonic/gin): Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 
 - [rpcx #Project#](https://github.com/smallnest/rpcx): Faster multil-language bidirectional RPC framework in Go, like alibaba Dubbo and weibo Motan in Java, but with more features, Scale easily.
 
@@ -49,6 +55,10 @@
 * [HttpRouter #Project#](https://github.com/julienschmidt/httprouter): A high performance HTTP request router that scales well.
 
 * [gqlgen #Project#](https://gqlgen.com/): gqlgen is a golang library for building graphql servers without any fuss.
+
+# Network
+
+- [2017-Colly #Project#](https://github.com/gocolly/colly): Lightning Fast and Elegant Scraping Framework for Gophers.
 
 # Storage
 

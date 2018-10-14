@@ -26,6 +26,8 @@
 
 ## Book
 
+- [2010-Database System Concepts-6th Edition #Book#](http://codex.cs.yale.edu/avi/db-book/db6/slide-dir/index.html):
+
 - [2014-SQL for MySQL: A Beginner's Tutorial #Book#](https://parg.co/oU1): This introduction to SQL for MySQL begins by discussing exactly how data is stored and maintained in a relational database, familiarizing readers with SQL INSERT, UPDATE, and DELETE statements.
 
 - [2015-Readings in Database Systems-5th Edition #Book#](http://www.redbook.io/): Readings in Database Systems (commonly known as the "Red Book") has offered readers an opinionated take on both classic and cutting-edge research in the field of data management since 1988.
@@ -66,6 +68,6 @@
 
 - [search-index #Project#](https://github.com/fergiemcdowall/search-index): A persistent, network resilient, full text search library for the browser and Node.js.
 
-# HA Database
+# HA Database | 高可用数据库
 
 - [2018-A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/): In this post, we want to take a look at how distributed databases have historically handled partial failures within a system and understand––at a high level––what high availability looks like.

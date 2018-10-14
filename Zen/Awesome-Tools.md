@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Awesome Tools for Efficient and Dedicated Workbench
+# Awesome Tools for Efficient and Dedicated Workflow, Development & Cooperation & Deployment & DevOps
 
 选择合适的工具能够大大减少我们的尝试时间，从而提升工作效率；本文则是对于笔者多年工作中感觉不错的工具资源的总结与分享，不可避免地会带有些主观色彩，请批判性阅读。
 
@@ -144,13 +144,13 @@
 
 - [Kap #Project#](https://getkap.co/): Capture your screen, An open-source screen recorder built with web technology.
 
-## 云端部署
+## Deployment | 云端部署
 
 - [Github Pages](): [2017-GitHub Pages and Single-Page Apps](https://dev.to/_evansalter/github-pages-and-single-page-apps)
 
 * [now.sh]()
 
-## Public APIs
+- [CaptainDuckDuck #Project#](https://github.com/githubsaturn/captainduckduck): Easiest app/database deployment platform and webserver package for your NodeJS, Python, Java applications. No Docker, nginx knowledge required!
 
 # Media
 

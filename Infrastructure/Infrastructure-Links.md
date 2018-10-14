@@ -46,15 +46,13 @@
 
 * [高性能高并发系统的稳定性保障](http://www.yunweipai.com/archives/10501.html)
 
-* [CaptainDuckDuck #Project#](https://github.com/githubsaturn/captainduckduck): Easiest app/database deployment platform and webserver package for your NodeJS, Python, Java applications. No Docker, nginx knowledge required!
-
 # 大数据
 
 # 架构演化
 
 # 大规模基础架构
 
-- [2017- 深度解密京东登月平台基础架构](https://parg.co/bg7)：近日，京东发布登月机器学习平台，并在京东云上线，正式对外提供人工智能服务。登月机器学习平台的上线代表着京东人工智能技术从应用级服务到基础算法的全面对外开放，实践着京东 RaaS(零售即服务)的发展策略。今天我们邀请了 AI 与大数据部的工程师为大家深度解密京东登月平台基础架构。
+- [2017-深度解密京东登月平台基础架构](https://parg.co/bg7)：近日，京东发布登月机器学习平台，并在京东云上线，正式对外提供人工智能服务。登月机器学习平台的上线代表着京东人工智能技术从应用级服务到基础算法的全面对外开放，实践着京东 RaaS(零售即服务)的发展策略。今天我们邀请了 AI 与大数据部的工程师为大家深度解密京东登月平台基础架构。
 
 * [2016-Data Infrastructure At Airbnb](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c#.8y91c8qmk): At Airbnb we promote a data informed culture and use data as a key input for making decisions.
 
@@ -66,15 +64,21 @@
 
 - [互联网公司经典技术架构 #Resource#](https://github.com/davideuler/architecture.of.internet-product#): 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay 的架构
 
+## Course
+
+- [2018-MIT-6.824](http://nil.csail.mit.edu/6.824/2018/schedule.html): Distributed Systems Engineering, What is a distributed system?, etc.
+
 # 云计算
 
-- [吴军博士-大数据与 2%的人类](http://www.chinahadoop.cn/course/136/learn#lesson/3822)
+- [吴军博士-大数据与 2% 的人类](http://www.chinahadoop.cn/course/136/learn#lesson/3822)
 
 - [解读 2015 之大数据篇：大数据的黄金时代](http://www.tuicool.com/articles/MBVFrmQ)
 
 - [Cloud Native Computing](http://container-solutions.com/cloud-native-computing/)
 
 - [2018-The business of SaaS](https://stripe.com/atlas/guides/business-of-saas#benchmarks-to-know): Understand why SaaS businesses work and how to grow them.
+
+# Case Study | 案例分析
 
 # 大厂分享
 

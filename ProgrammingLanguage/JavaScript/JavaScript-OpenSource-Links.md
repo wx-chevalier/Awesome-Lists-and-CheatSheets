@@ -14,6 +14,8 @@
 
 * [fbjs #Project#](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
 
+* [Numeral-js #Project#](https://github.com/adamwdraper/Numeral-js): A javascript library for formatting and manipulating numbers.
+
 ## DataStructure
 
 - [Luxon #Project#](https://github.com/moment/luxon): Luxon is a library for working with dates and times in Javascript.
