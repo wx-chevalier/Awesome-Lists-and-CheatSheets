@@ -38,6 +38,10 @@
 
 * [看完就会用的 Git 操作图解分析](http://blog.yubangweb.com/kan-wan-jiu-hui-yong-de-gitcao-zuo-tu-jie-fen-xi/)
 
+# Internals
+
+- [2018-Git 原理入门](http://www.ruanyifeng.com/blog/2018/10/git-internals.html): 这篇文章用一个实例，解释 Git 的运行过程，帮助你理解 Git 的原理。
+
 # Github
 
 - [5 GitHub tips for new coders](https://parg.co/UQD): As it’s own form of an open source contribution, I wanted to share with other folks new to coding my top 5 tips for using GitHub.
