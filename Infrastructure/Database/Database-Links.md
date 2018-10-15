@@ -71,3 +71,7 @@
 # HA Database | 高可用数据库
 
 - [2018-A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/): In this post, we want to take a look at how distributed databases have historically handled partial failures within a system and understand––at a high level––what high availability looks like.
+
+# Real Time Database
+
+- [2018-Scalable Push-Based Real-Time Queries on Top of Pull-Based Databases #Paper#](https://www.dropbox.com/s/6tnbrylf86w5e0x/wingerath_dissertation.pdf?dl=0)

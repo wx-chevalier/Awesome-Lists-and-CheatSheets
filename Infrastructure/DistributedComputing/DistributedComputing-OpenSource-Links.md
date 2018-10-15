@@ -1,12 +1,18 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# Message Oriented Middle OpenSource | 消息中间件开源项目索引
+# Distributed Computing OpenSource Links | 分布式计算相关开源项目索引
+
+Massive & Curated OpenSource Project/Framework/Tool Links, for building great distributed infrastructure system.
+
+# Message Oriental Middleware
 
 ## Message Queue
 
 - [2017-Sandglass #Project#](https://github.com/celrenheit/sandglass): Sandglass is a distributed, horizontally scalable, persistent, time sorted message queue.
 
-* [PhxQueue #Project#](https://github.com/Tencent/phxqueue): PhxQueue 是微信开源的一款基于 Paxos 协议实现的高可用、高吞吐和高可靠的分布式队列，保证 At-Least-Once Delivery，在微信内部广泛支持微信支付、公众平台等多个重要业务。
+* [2018-PhxQueue #Project#](https://github.com/Tencent/phxqueue): PhxQueue 是微信开源的一款基于 Paxos 协议实现的高可用、高吞吐和高可靠的分布式队列，保证 At-Least-Once Delivery，在微信内部广泛支持微信支付、公众平台等多个重要业务。
+
+* [2018-Jocko #Project#](https://github.com/travisjeffery/jocko): Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
 
 ## Task Queue
 

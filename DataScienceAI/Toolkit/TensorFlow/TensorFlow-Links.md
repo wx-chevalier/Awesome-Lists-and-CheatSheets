@@ -14,7 +14,7 @@
 
 * [2017-TensorFlow 入门级解读：矩阵、多特征线性和逻辑回归](https://zhuanlan.zhihu.com/p/25352208)：本文是日本东京 TensorFlow 聚会联合组织者 Hin Khor 所写的 TensorFlow 系列介绍文章。
 
-- [2018-Tensorflow: The Confusing Parts #Series#](http://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/): This tutorial is intended for people who already have some experience with both programming and machine learning, and want to pick up Tensorflow. 
+- [2018-Tensorflow: The Confusing Parts #Series#](http://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/): This tutorial is intended for people who already have some experience with both programming and machine learning, and want to pick up Tensorflow.
 
 ## Case Study | 案例分析
 
@@ -28,17 +28,19 @@
 
 ## Series | 系列教程
 
-- [2015-tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials): From the basics to slightly more interesting applications of TensorFlow
+- [2015-tensorflow_tutorials #Series#](https://github.com/pkmital/tensorflow_tutorials): From the basics to slightly more interesting applications of TensorFlow
 
-- [2017-Effective TensorFlow](https://github.com/vahidk/EffectiveTensorFlow): My attempt is to gradually expand this series by adding new articles and keep the content up to date with the latest releases of TensorFlow API.
+- [2017-Effective TensorFlow #Series#](https://github.com/vahidk/EffectiveTensorFlow): My attempt is to gradually expand this series by adding new articles and keep the content up to date with the latest releases of TensorFlow API.
 
-* [2017-TensorFlow 101](https://mubaris.com/2017-10-21/tensorflow-101): TensorFlow is an open source machine learning library developed at Google. TensorFlow uses data flow graphs for numerical computations.
+* [2017-TensorFlow 101 #Series#](https://mubaris.com/2017-10-21/tensorflow-101): TensorFlow is an open source machine learning library developed at Google. TensorFlow uses data flow graphs for numerical computations.
 
-- [2017-TensorFlow-World](https://github.com/astorfi/TensorFlow-World): This repository is aimed to provide simple and ready-to-use tutorials for TensorFlow.
+- [2017-TensorFlow-World #Series#](https://github.com/astorfi/TensorFlow-World): This repository is aimed to provide simple and ready-to-use tutorials for TensorFlow.
 
-- [2018-easy-tensorflow, Simple and comprehensive tutorials in TensorFlow](https://github.com/easy-tensorflow/easy-tensorflow): The goal of this repository is to provide comprehensive tutorials for TensorFlow while maintaining the simplicity of the code.
+- [2018-easy-tensorflow, Simple and comprehensive tutorials in TensorFlow #Series#](https://github.com/easy-tensorflow/easy-tensorflow): The goal of this repository is to provide comprehensive tutorials for TensorFlow while maintaining the simplicity of the code.
 
-- [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials): This repository contains code examples for the course CS 20: TensorFlow for Deep Learning Research.
+- [2018-stanford-tensorflow-tutorials #Series#](https://github.com/chiphuyen/stanford-tensorflow-tutorials): This repository contains code examples for the course CS 20: TensorFlow for Deep Learning Research.
+
+- [2018-TensorFlow Course #Series#](https://github.com/open-source-for-science/TensorFlow-Course): This repository aims to provide simple and ready-to-use tutorials for TensorFlow. Each tutorial includes source code and most of them are associated with a documentation.
 
 ## Examples | 示例
 
