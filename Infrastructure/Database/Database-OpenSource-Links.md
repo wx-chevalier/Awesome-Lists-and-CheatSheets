@@ -38,6 +38,8 @@
 
 # Key-Value Database
 
+- [LevelDB #Project#](https://github.com/google/leveldb): LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+
 ## Redis
 
 - [RedisGraph #Project#](http://redisgraph.io/design/): A High Performance In-Memory Graph Database as a Redis Module.

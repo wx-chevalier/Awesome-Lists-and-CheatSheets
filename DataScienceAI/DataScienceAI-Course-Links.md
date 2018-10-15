@@ -2,9 +2,13 @@
 
 # DataScienceAI Course Links | 机器学习、深度学习与自然语言处理领域推荐的课程列表
 
+# AI | 人工智能
+
+- [2018-英特尔-人工智能学生套件 #Course#](https://software.intel.com/zh-cn/ai-academy/students/kits): 通过我们为软件开发人员、数据科学家和学生制作的免费课程学习人工智能理论并跟随动手练习。 这些课程涵盖人工智能论题，并探讨在个人计算机和服务器工作站中利用英特尔 ® 处理器的工具和优化的库。
+
 # Machine Learning | 机器学习
 
-- [2010-MIT Artifical Intelligence Videos](https://parg.co/Y6h): This course includes interactive demonstrations which are intended to stimulate interest and to help students gain intuition about how artificial intelligence methods work under a variety of circumstances.
+- [2010-MIT Artifical Intelligence Videos #Course#](https://parg.co/Y6h): This course includes interactive demonstrations which are intended to stimulate interest and to help students gain intuition about how artificial intelligence methods work under a variety of circumstances.
 
 - [2014-斯坦福-机器学习课程 #Course#](https://zh.coursera.org/learn/machine-learning): 在本课程中，您将学习最高效的机器学习技术，了解如何使用这些技术，并自己动手实践这些技术。更重要的是，您将不仅将学习理论知识，还将学习如何实践，如何快速使用强大的技术来解决新问题。最后，您将了解在硅谷企业如何在机器学习和 AI 领域进行创新。 [Here](https://github.com/dibgerge/ml-coursera-python-assignments) is Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions.
 
@@ -20,7 +24,7 @@
 
 * [2018-Foundations of Machine Learning #Course#](https://bloomberg.github.io/foml/): Understand the Concepts, Techniques and Mathematical Frameworks Used by Experts in Machine Learning.
 
-* [100-Days-Of-ML-Code #Series#](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100 Days of ML Coding
+* [2018-100-Days-Of-ML-Code #Series#](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100 Days of ML Coding
 
 # Deep Learning
 
