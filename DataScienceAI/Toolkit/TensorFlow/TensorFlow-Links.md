@@ -63,6 +63,8 @@
 
 * [2018-Beginner TensorFlowjs Examples in Javascript](https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/): This is the easiest set of Machine Learning examples that I can find or make. I hope you enjoy it.
 
+- [2018-finch](https://github.com/zhedongzheng/finch #Project#): Make NLP Flow in TensorFlow
+
 ## Collection
 
 - [Awesome TensorFlow #Collection#](https://github.com/jtoy/awesome-tensorflow#github-projects): A curated list of awesome TensorFlow experiments, libraries, and projects. Inspired by awesome-machine-learning.
