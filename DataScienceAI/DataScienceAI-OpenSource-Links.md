@@ -22,6 +22,10 @@
 
 - [ansj_seg #Project#](https://github.com/NLPchina/ansj_seg): ansj 分词.ict 的真正 java 实现.分词效果速度都超过开源版的 ict. 中文分词,人名识别,词性标注,用户自定义词典。
 
+## Knowledge Graph | 知识图谱
+
+- [2018-OpenKE #Project#](https://github.com/thunlp/OpenKE): An Open-Source Package for Knowledge Embedding (KE).
+
 # Deep Learning
 
 - [tfjs #Project#](https://github.com/tensorflow/tfjs): A WebGL accelerated, browser based JavaScript library for training and deploying ML models.
