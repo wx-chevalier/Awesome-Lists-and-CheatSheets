@@ -64,6 +64,10 @@
 
 - [Charles #Project#](https://www.charlesproxy.com/): Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
 
+- [Fiddler #Project#](https://www.telerik.com/fiddler): Fiddler is a free web debugging tool which logs all HTTP(S) traffic between your computer and the Internet. Inspect traffic, set breakpoints. 
+
+- [whistle #Project#](https://github.com/avwo/whistle): whistle is a cross-platform web debugging tool based on Node.js.
+
 ## File
 
 - [UPX #Project#](https://github.com/upx/upx): UPX is an advanced executable file compressor. UPX will typically reduce the file size of programs and DLLs by around 50%-70%, thus reducing disk space, network load times, download times and other distribution and storage costs.
