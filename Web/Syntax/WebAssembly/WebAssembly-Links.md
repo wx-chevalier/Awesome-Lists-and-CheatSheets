@@ -22,6 +22,8 @@
 
 - [2017-The future of WebAssembly - A look at upcoming features and proposals](https://blog.scottlogic.com/2018/07/20/wasm-future.html): I’ll skip over some of the more technical proposals, instead focusing on what they might mean for languages that target WebAssembly.
 
+- [2018-WebAssembly’s post-MVP future](https://hn.premii.com/#/article/18275489): There are many features that are coming to WebAssembly which will fundamentally alter what you can do with WebAssembly.
+
 ## Comparsion
 
 - [2018-WebAssembly: A New Hope](https://pspdfkit.com/blog/2017/webassembly-a-new-hope/): But what is WebAssembly and what does it mean for the web?

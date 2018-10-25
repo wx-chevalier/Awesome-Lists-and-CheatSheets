@@ -44,4 +44,6 @@
 
 * [2018-ReLaXed #Project#](https://github.com/RelaxedJS/ReLaXed): ReLaXed is a tool which creates PDF documents interactively using HTML or Pug (a shorthand for HTML). 
 
+- [Countable #Project#](https://github.com/RadLikeWhoa/Countable/blob/master/README.md): Countable is a JavaScript function to add live paragraph-, word- and character-counting to an HTML element.
+
 ---

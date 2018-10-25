@@ -334,9 +334,15 @@ Data repositories
 
 # 实验数据
 
-# 较大型数据
+# 文本类型
+
+## 较大型数据
 
 # 领域数据
+
+# 图片
+
+- [2018-Tencent ML-Images](https://github.com/Tencent/tencent-ml-images): Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
 
 # Model | 模型
 
