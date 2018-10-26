@@ -1,20 +1,18 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# 直播资料索引
+# Live Links | 直播资料索引
 
-- [怎样支持万人直播在线教室？](http://www.infoq.com/cn/presentations/how-to-support-the-people-live-online-classroom)
+# Overview
 
-- [Live #Project#](https://github.com/ltebean/Live):Demonstrate how to build a live broadcast app.
+- [2016-HTML 5 视频直播一站式扫盲](https://cloud.tencent.com/developer/article/1071271): 为了紧跟潮流，本文将向大家介绍一下视频直播中的基本流程和主要的技术点，包括但不限于前端技术。
 
-- [HTML 5 视频直播一站式扫盲](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=1277)
-
-- [如何实现 1080P 延迟低于 500ms 的实时超清直播传输技术 ](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547697&idx=1&sn=acc748b7fcf0058b58e244970e51eabc&scene=0&from=groupmessage&isappinstalled=0#wechat_redirect)
-
-- [2017-video-streaming-service #Project#](https://github.com/tabvn/video-streaming-service): Build Live Video Streaming Server use Ffmpeg Nginx Rtmp Module & Nodejs
+- [2016-如何实现 1080P 延迟低于 500ms 的实时超清直播传输技术 ](https://parg.co/Son): 视频直播是很多技术团队及架构师关注的问题，在实时性方面，大部分直播是准实时的，存在 1-3 秒延迟。本文由袁荣喜向「高可用架构」投稿，介绍其将直播延迟控制在 500ms 的背后的实现。
 
 * [2017-不再碎片化学习，快速掌握 H5 直播技术](https://segmentfault.com/a/1190000010440054?utm_source=tuicool&utm_medium=referral): 所以，本文主要给大家介绍一下当下 HTML5 直播所涵盖的技术范围，如果要深度学习每一个技术，我们后续可以继续讨论。
 
-# Client: 客户端模块
+# Client | 客户端模块
+
+## Android
 
 - [Android 音视频点 / 直播模块开发](http://toutiao.io/posts/76jep8)
 
@@ -22,7 +20,11 @@
 
 - [直播方向的资源收集](http://www.henishuo.com/live-play-resource-collections/)
 
+## iOS
+
 - [iOS 开发之集成 ijkplayer 视频直播](http://allluckly.cn/%E6%8A%95%E7%A8%BF/tuogao46)
+
+- [Live #Project#](https://github.com/ltebean/Live): Demonstrate how to build a live broadcast app.
 
 ## H5
 
@@ -31,3 +33,7 @@
 # 弹幕
 
 - [聊聊高并发长连接架构：百万在线的美拍直播弹幕系统如何实现](https://mp.weixin.qq.com/s/yrcO8yA0Ut2RVhUxG2OSvQ): 直播弹幕是直播系统的核心功能之一。如何迅速作出一个有很好扩展性的弹幕系统？如何应对业务迅速发展？
+
+# Engineering Practices
+
+- [2016-怎样支持万人直播在线教室？](http://www.infoq.com/cn/presentations/how-to-support-the-people-live-online-classroom)

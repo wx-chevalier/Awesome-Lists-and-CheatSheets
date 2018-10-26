@@ -56,9 +56,11 @@
 
 ## Blog | 博客
 
+- [天池/AI 学习](https://tianchi.aliyun.com/learn/index.htm?spm=5176.11510297.5610718.9.1fd94546OoB1Hx&_lang=zh_CN): 机器学习从入门到深入的一系列课程
+
 ## Competition | 机器学习相关竞赛
 
-- [阿里天池 新人实战赛](https://tianchi.shuju.aliyun.com/getStart/index.htm?spm=5176.100065.111.3.jgYTrv&id=&_lang=zh_CN)
+- [阿里天池-新人实战赛](https://tianchi.shuju.aliyun.com/getStart/index.htm?spm=5176.100065.111.3.jgYTrv&id=&_lang=zh_CN)
 
 - [Kaggle](https://www.kaggle.com/competitions): 官方新人赛，不错的入门学习
 

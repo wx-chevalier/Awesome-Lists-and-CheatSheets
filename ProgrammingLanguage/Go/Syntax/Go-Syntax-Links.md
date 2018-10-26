@@ -6,6 +6,10 @@
 
 - [2015-Design generic functions in golang](https://parthdesai.me/articles/2015/08/30/go-generic-functions/): In this article, I will describe how to write generic functions in golang, as well as disadvantages of it, compared to static functions.
 
+# Modules
+
+- [Go 1.11 Modules](https://parg.co/01g): Go 1.11 includes preliminary support for versioned modules as proposed here.
+
 # Struct
 
 - [2018-The Go Object Lifecycle](https://middlemost.com/object-lifecycle/): In this post we’ll look at a 3-step approach to object management—instantiation, initialization, & initiation.

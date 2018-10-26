@@ -34,6 +34,8 @@
 
 - [2017-Fast.ai DeepLearning AI #Course#](https://github.com/fastai/fastai): Most of the library is quite well tested since many students have used it to complete the Practical Deep Learning for Coders course. However it hasn't been widely used yet outside of the course, so you may find some missing features or rough edges. [Personal notes](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197) can be found here; 关联的课件、代码等资源可以查看[这里](https://github.com/sjtu-medialab/DeepLearning-IntroductionCourse)。
 
+- [2018-Deep Learning Specialization #Course#](https://www.deeplearning.ai/courses/): Deep Learning is transforming multiple industries. This five-course specialization will help you understand Deep Learning fundamentals, apply them, and build a career in AI.
+
 * [2018-CS230: Deep Learning](https://web.stanford.edu/class/cs230/): In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. [百度网盘，j2vp](https://pan.baidu.com/s/1Toko6dTqK-W6-e8EVm2kpA)
 
 # Reinforcement Learning

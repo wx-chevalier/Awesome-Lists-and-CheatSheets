@@ -1,6 +1,20 @@
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
+
 # DataScienceAI Models Links
 
 本文包含了一些基于人工智能、机器学习、深度学习等技术，实现的有趣的模型、应用、案例。
+
+# DeepLearning
+
+# Natural Language Processing
+
+## RNN
+
+- [char-rnn #Project#](https://github.com/karpathy/char-rnn): Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
+
+## Linguistic Structure
+
+### Word Embedding
 
 # Game | 游戏
 
