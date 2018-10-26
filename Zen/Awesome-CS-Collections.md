@@ -104,6 +104,8 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 - [free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
 
+- [Cloud Native Landscape #Project#](https://github.com/cncf/landscape): Static Cloud Native Landscapes and Interactive Landscape that filters and sorts hundreds of cloud native projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets. 
+
 # Frontend | 前端
 
 # DataScienceAI

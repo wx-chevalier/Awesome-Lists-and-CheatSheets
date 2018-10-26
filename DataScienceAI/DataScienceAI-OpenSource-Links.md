@@ -60,6 +60,12 @@
 
 - [gensim #Project#](https://radimrehurek.com/gensim/): topic modelling for humans
 
+## Knowledge Graph | 知识图谱
+
+- [2018-OpenKE #Project#](https://github.com/thunlp/OpenKE): An Open-Source Package for Knowledge Embedding (KE).
+
+# Deep Learning
+
 ## Dialogue System
 
 - [2018-DeepPavlov #Project#](https://github.com/deepmipt/DeepPavlov): An open source library for building end-to-end dialog systems and training chatbots.
