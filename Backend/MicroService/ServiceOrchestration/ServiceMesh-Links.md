@@ -9,3 +9,11 @@
 # Istio
 
 - [2018-阿里云Kubernetes Service Mesh实践，Istio 篇](https://yq.aliyun.com/articles/599874)
+
+# K8s
+
+- [2018-深入解读Service Mesh背后的技术细节](https://mp.weixin.qq.com/s/GJLS4PQEeu4bV898rNv5jg): 概念的多，讲技术细节的少，所以专门写一篇文章，来解析Service Mesh背后的技术细节
+
+# Envoy
+
+- [2018-深入解读Service Mesh的数据面Envoy](https://mp.weixin.qq.com/s/LDVwqOHUISulXNppClmduA): 但是对于数据面的关键组件Envoy没有详细解读，这篇文章补上。

@@ -20,6 +20,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 * [2018-Go 语言发展史及史上最全 Go 语言知识图谱！](https://zhuanlan.zhihu.com/p/34263871): 今天和大家一起聊聊 Go 的发展历史，同时发布我们 Gopher China 整理的 Go 知识图谱。
 
+- [2018-Proposal: Go 2 transition](https://github.com/golang/proposal/blob/master/design/28221-go2-transitions.md): A proposal for how to make incompatible changes from Go 1 to Go 2 while breaking as little as possible.
+
 ## Case Study
 
 - [2018-Uber-Code Migration in Production](https://eng.uber.com/schemaless-rewrite/): Rewriting the Sharding Layer of Uber’s Schemaless Datastore.
