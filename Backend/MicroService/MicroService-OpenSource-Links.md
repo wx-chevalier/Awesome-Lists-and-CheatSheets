@@ -8,11 +8,9 @@
 
 - [Kong](https://getkong.org/): The open-source API Gateway and Microservices Management Layer, delivering high performance and reliability.
 
-- [2017-kong-dashboard #Project#](https://github.com/PGBI/kong-dashboard): Dashboard for managing Kong gateway
+* [2018-HTTPS Portal #Project#](https://github.com/SteveLTN/https-portal): A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 
-- [2018-https-portal #Project#](https://github.com/SteveLTN/https-portal): A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
-
-* [Træfik](https://github.com/containous/traefik): Træfik (pronounced like traffic) is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
+- [Træfik](https://github.com/containous/traefik): Træfik (pronounced like traffic) is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
 
 ## SSO
 
@@ -22,21 +20,15 @@
 
 - [Dubbo #Project#](https://github.com/apache/incubator-dubbo): Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
 
-### Dubbo
-
-- [dubbogo #Project#](https://github.com/AlexStocks/dubbogo): a golang micro-service framework compatible with alibaba dubbo.
-
-* [dubbo2.js #Project#](https://github.com/dubbo/dubbo2.js)： Node.js native dubbo client on hessian.
-
 # Service Coordination
 
 - [Apollo #Project#](https://github.com/ctripcorp/apollo): Apollo(阿波罗)是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
 
-* [Hawk](https://parg.co/Uv4): Hawk 基于 ETCD 打造，主要解决把开发人员从复杂的业务流程和烦琐的配置中解脱出来，让开发人员只关注自己的业务代码，把运维、配置这些剥离出去。同时降低服务部署、发布过程中的风险。
+* [Hawk #Project#](https://parg.co/Uv4): Hawk 基于 ETCD 打造，主要解决把开发人员从复杂的业务流程和烦琐的配置中解脱出来，让开发人员只关注自己的业务代码，把运维、配置这些剥离出去。同时降低服务部署、发布过程中的风险。
 
 ## Distributed Transaction | 分布式事务
 
-- [2015-tcc-transaction #Project#](https://github.com/changmingxie/tcc-transaction): tcc-transaction 是 TCC 型事务 java 实现。
+- [2015-tcc transaction #Project#](https://github.com/changmingxie/tcc-transaction): tcc-transaction 是 TCC 型事务 java 实现。
 
 - [2016-Solar #Project#](https://github.com/prontera/spring-cloud-rest-tcc): 基于 Spring Cloud Netflix 的 TCC 柔性事务和 EDA 事件驱动示例，结合 Spring Cloud Sleuth 进行会话追踪和 Spring Boot Admin 的健康监控，并辅以 Hystrix Dashboard 提供近实时的熔断监控。
 

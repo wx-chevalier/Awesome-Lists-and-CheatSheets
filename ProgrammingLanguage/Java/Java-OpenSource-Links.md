@@ -57,10 +57,6 @@
 
 - [concurrency-limits #Project#](https://github.com/Netflix/concurrency-limits): Java Library that implements and integrates concepts from TCP congestion control to auto-detect concurrency limits to achieve optimal throughput with optimal latency.
 
-# Other
-
-- [Java Parser #Project#](https://github.com/javaparser/javaparser): Java Parser and Abstract Syntax Tree
-
 # JVM
 
 - [useful-scripts #Project#](https://github.com/oldratlee/useful-scripts): 把平时有用的手动操作做成脚本，这样可以便捷的使用。
@@ -94,3 +90,19 @@
 ## JIT
 
 - [2018-Java Grinder #Project#](https://github.com/mikeakohn/java_grinder): Compile Java bytecode to microcontroller assembly.
+
+# Web Framework
+
+## Frameworks
+
+## Spring
+
+- [SOFABoot #Project#](https://github.com/alipay/sofa-boot): SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc.
+
+- [Springfox #Project#](https://github.com/springfox/springfox): Automated JSON API documentation for API's built with Spring.
+
+- [Java Hipster #Project#](https://github.com/jhipster/generator-jhipster): Open Source application generator for creating Spring Boot + Angular/React projects in seconds!
+
+# Other
+
+- [Java Parser #Project#](https://github.com/javaparser/javaparser): Java Parser and Abstract Syntax Tree
