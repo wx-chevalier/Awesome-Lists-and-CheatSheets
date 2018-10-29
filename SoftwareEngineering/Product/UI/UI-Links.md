@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# UI  Learning & Practices Links
+# UI Links
 
 1. 平面设计: [《超赞！设计师完全自学指南》](http://www.uisdc.com/designer-self-study-2)
 2. 交互设计: [《交互设计师修炼指南！教你从零开始成为优秀交互设计师》](http://www.uisdc.com/interaction-designers-guide)
@@ -18,3 +18,8 @@
 # Atomic Design
 
 * [2017-Atomic Design with React](https://cheesecakelabs.com/blog/atomic-design-react/): That was the moment in which we paused to rethink our architecture and how we could set the components in a more distributed and organized way.
+
+# Web Design 
+
+- [2018-Stop building websites with infinite scroll!](https://logrocket.com/blog/infinite-scroll/): In this article, we will explain why you need to stop building websites with infinite scroll.
+
