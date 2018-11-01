@@ -91,9 +91,17 @@
 
 - [2018-Java Grinder #Project#](https://github.com/mikeakohn/java_grinder): Compile Java bytecode to microcontroller assembly.
 
-# Web Framework
+# Web Development
 
 ## Frameworks
+
+- [cicada #Project#](https://github.com/TogetherOS/cicada): Fast, lightweight Web framework based on Netty; without too much dependency, and the core jar package is only 30KB.
+
+- [Ninja #Project#](https://github.com/ninjaframework/ninja): Ninja is a full stack web framework for Java. Rock solid, fast and super productive.
+
+- [2018-JFinal #Project#](https://github.com/jfinal/jfinal): JFinal 是基于 Java 语言的极速 WEB + ORM 框架，其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展、Restful。在拥有 Java 语言所有优势的同时再拥有 ruby、python 等动态语言的开发效率！
+
+- [Spark #Project#](https://github.com/perwendel/spark): A simple expressive web framework for java. News: Spark now has a kotlin DSL.
 
 ## Spring
 

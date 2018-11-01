@@ -21,9 +21,24 @@
 - [Remoting and web services using Spring](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/remoting.html)
 
 - [使用 Spring 进行远程访问与 Web 服务](http://www.cnblogs.com/zfc2201/p/3473974.html)
-- [Secure Your Spring Boot WebApp with Apache and LetsEncrypt SSL in 20 Minutes](https://stormpath.com/blog/secure-spring-boot-webapp-apache-letsencrypt-ssl)
 
-# SpringBoot
+# Resource
+
+## Series
+
+- [2016-SpringBootForBeginners #Series#](https://github.com/in28minutes/SpringBootForBeginners): In this course, you will learn the cool things about Spring Boot and Spring Boot Starter Projects. We will develop a basic REST Service to manage questions of a survey.
+
+* [2017-Sprint Boot 完整教程 #Series#](https://blog.csdn.net/column/details/13466.html): 从功能性的角度开始讲解 SpringBoot 的用户，层层递进。全教程分为两个等级初级和高级，完美讲述了 SpringBoot 在开发过程中的使用。
+
+## Books
+
+- [2018-Spring Boot Reference Guide #Book#](https://docs.spring.io/spring-boot/docs/2.1.x-SNAPSHOT/reference/html/): 中文版本参考 [SpringBoot 参考指南](https://www.gitbook.com/book/qbgbook/spring-boot-reference-guide-zh/details)
+
+## Courses
+
+- [2018-The "REST with Spring" Classes #Course#](https://github.com/eugenp/tutorials): This project is a collection of small and focused tutorials - each covering a single and well defined area of development in the Java ecosystem. A strong focus of these is, of course, the Spring Framework - Spring, Spring Boot and Spring Securiyt. In additional to Spring, the following technologies are in focus: core Java, Jackson, HttpClient, Guava.
+
+# Spring Boot
 
 - [2017-Zen and the Art of Unit Testing](http://marcin-chwedczuk.github.io/zen-and-the-art-of-unit-testing): In this blog post we will concern ourselves with unit testing of classic 3-layer business applications.
 
@@ -35,9 +50,7 @@
 
 * [running_multiple_spring_boot_apps_in_the_same_jvm](http://davidtanzer.net/running_multiple_spring_boot_apps_in_the_same_jvm)
 
-- [SpringBoot 参考指南](https://www.gitbook.com/book/qbgbook/spring-boot-reference-guide-zh/details)
-
-* [Spring Boot 系列文章](http://blog.didispace.com/tag/spring-boot/)
+- [Spring Boot 系列文章](http://blog.didispace.com/tag/spring-boot/)
 
 # AOP
 
@@ -62,3 +75,7 @@
 - [Spring Batch 在大型企业中的最佳实践](http://insights.thoughtworkers.org/spring-batch-best-practices/)
 
 - [Setting Up Swagger 2 with a Spring REST API](http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api): In this tutorial, we will look at Swagger 2 for a Spring REST web service. For this article, we will use the Springfox implementation of the Swagger 2 specification.
+
+# Internals
+
+- [2017-基于 Netty 的 Spring Boot 内置 Servlet 容器的实现 #Series#](https://parg.co/SCE): Spring Boot 有 Tomcat、Jetty 和 undertow 三种内置 Servlet 容器，默认使用 Tomcat。一般来说已经够用了，但当 Spring Boot 用于高并发微服务的时候，可能并不够用，而且 tomcat 的资源占用在这种情况下说不上轻量化了。于是萌生了自己实现一个 Spring Boot 的 Netty Servlet 容器的想法。

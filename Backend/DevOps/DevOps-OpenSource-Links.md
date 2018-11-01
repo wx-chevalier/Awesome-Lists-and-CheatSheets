@@ -37,3 +37,5 @@
 - [Glances #Project#](https://github.com/nicolargo/glances): Glances is a cross-platform monitoring tool which aims to present a large amount of monitoring information through a curses or Web based interface. The information dynamically adapts depending on the size of the user interface.
 
 * [2016-ctop #Project#](https://github.com/bcicen/ctop): ctop provides a concise and condensed overview of real-time metrics for multiple containers.
+
+- [2018-gotop #Project#](https://github.com/cjbassi/gotop): Another terminal based graphical activity monitor, inspired by gtop and vtop, this time written in Go!

@@ -4,7 +4,13 @@
 
 - [LiveGo #Project#](https://github.com/gwuhaolin/livego): 纯 Go 写的直播服务器
 
-# WebRTC
+# Web
+
+## Media Recorder
+
+- [MediaStreamRecorder #Project#](https://github.com/streamproc/MediaStreamRecorder): Cross browser audio/video/screen recording. It supports Chrome, Firefox, Opera and Microsoft Edge. It even works on Android browsers. It follows latest MediaRecorder API standards and provides similar APIs.
+
+## WebRTC
 
 - [screencat](https://github.com/maxogden/screencat):webrtc screensharing electron app for mac os (Alpha)
 
