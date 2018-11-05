@@ -8,6 +8,8 @@
 
 # Natural Language Processing
 
+- [2018-BERT #Project#](https://github.com/google-research/bert): BERT is method of pre-training language representations, meaning that we train a general-purpose "language understanding" model on a large text corpus (like Wikipedia), and then use that model for downstream NLP tasks that we care about (like question answering).
+
 ## RNN
 
 - [char-rnn #Project#](https://github.com/karpathy/char-rnn): Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
@@ -37,6 +39,8 @@
 - [cartoonify #Project#](https://github.com/danmacnish/cartoonify): Draw This is a polaroid camera that draws cartoons.
 
 - [2018-vid2vid #Project#](https://github.com/NVIDIA/vid2vid): Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
+
+- [2018-DeOldify #Project#](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
 
 ## OCR
 

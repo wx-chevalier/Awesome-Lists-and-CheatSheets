@@ -10,15 +10,15 @@
 
 ## Exploitation Framework | 渗透框架
 
-- BackTrack
-
-- Kali
+- [2013-Kali #Project#](https://www.backtrack-linux.org/): Kali Linux is constantly evolving with new features being added to the distribution all the time.
 
 * [fsociety #Project#](https://github.com/Manisso/fsociety): A Penetration Testing Framework, you will have every script that a hacker needs.
 
 * [AutoSploit #Project#](https://github.com/NullArray/AutoSploit): As the name might suggest AutoSploit attempts to automate the exploitation of remote hosts. Targets are collected automatically as well by employing the Shodan.io API.
 
 * [Retire.js #Project#](http://retirejs.github.io/retire.js/): The goal of Retire.js is to help you detect use of version with known vulnerabilities.
+
+- [Metasploit #Project#](https://www.metasploit.com/): Metasploit helps security teams do more than just verify vulnerabilities, manage security assessments, and improve security awareness;
 
 ## POC Framework | POC 框架
 

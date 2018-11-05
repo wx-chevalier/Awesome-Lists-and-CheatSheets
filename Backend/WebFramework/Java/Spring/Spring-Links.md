@@ -24,6 +24,10 @@
 
 # Resource
 
+- [Spring MVC 4.2.4.RELEASE 中文文档  ](https://www.gitbook.com/book/linesh/spring-mvc-documentation-linesh-translation/details)
+
+- [Spring 知识点提炼](http://www.importnew.com/19933.html)
+
 ## Series
 
 - [2016-SpringBootForBeginners #Series#](https://github.com/in28minutes/SpringBootForBeginners): In this course, you will learn the cool things about Spring Boot and Spring Boot Starter Projects. We will develop a basic REST Service to manage questions of a survey.

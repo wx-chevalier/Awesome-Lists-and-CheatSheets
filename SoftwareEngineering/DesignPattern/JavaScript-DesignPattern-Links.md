@@ -10,9 +10,13 @@
 
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript)
 
-* [2017-Design-Patterns-JS #Project#](https://github.com/fbeline/Design-Patterns-JS/): All the 23 (GoF) design patterns implemented in Javascript
+## Resources
 
-* [2017-Design Patterns in TypeScript](https://parg.co/Ui8): Here are the implementations of the following design patterns in TypeScript.
+- [2016-Design Patterns in Typescript #Project#](https://github.com/gztchan/design-patterns-in-typescript)
+
+* [2017-Design Patterns JS #Project#](https://github.com/fbeline/Design-Patterns-JS/): All the 23 (GoF) design patterns implemented in Javascript
+
+* [2017-Design Patterns in TypeScript #Project#](https://parg.co/Ui8): Here are the implementations of the following design patterns in TypeScript.
 
 # SOLID
 

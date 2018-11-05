@@ -4,7 +4,7 @@
 
 选择合适的工具能够大大减少我们的尝试时间，从而提升工作效率；本文则是对于笔者多年工作中感觉不错的工具资源的总结与分享，不可避免地会带有些主观色彩，请批判性阅读。
 
-# System Utility
+# System Utility | 系统辅助
 
 ## MAC
 
@@ -20,7 +20,23 @@
 
 ## Chrome
 
-# Terminal
+- IE Tab: 仅支持 Windows 系统，能够在标签中以 IE 内核显示网页。
+
+- [Chrono 下载管理器](http://6me.us/PFn)
+
+* [Save to Pocket](http://6me.us/Zp5): 允许将浏览的网页保存到 Pocket
+
+- [Evernote Web Clipper](http://6me.us/6ldwK7)
+
+- [Mercury Reader: 自定义阅读体验](http://6me.us/8hOKsH)
+
+* [Google Scholar Button](http://6me.us/wXicA0)
+
+- 链接缩略: [Goog.gl URL Shortener](http://6me.us/vaJuM3)
+
+* 截图工具: [Awesome Screenshot](http://6me.us/lzEw), [Chrome Remote Desktop](http://6me.us/55h)
+
+# Terminal | 终端增强
 
 ## Enhance
 
@@ -48,10 +64,6 @@
 
 # Development Tools | 开发工具
 
-## VSCode
-
-- [Polaroid](https://github.com/octref/polacode): Polaroid for your code 📸.
-
 ## HTTP
 
 ### Client
@@ -64,7 +76,7 @@
 
 - [Charles #Project#](https://www.charlesproxy.com/): Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
 
-- [Fiddler #Project#](https://www.telerik.com/fiddler): Fiddler is a free web debugging tool which logs all HTTP(S) traffic between your computer and the Internet. Inspect traffic, set breakpoints. 
+- [Fiddler #Project#](https://www.telerik.com/fiddler): Fiddler is a free web debugging tool which logs all HTTP(S) traffic between your computer and the Internet. Inspect traffic, set breakpoints.
 
 - [whistle #Project#](https://github.com/avwo/whistle): whistle is a cross-platform web debugging tool based on Node.js.
 
@@ -74,7 +86,7 @@
 
 - [xsv #Project#](https://github.com/BurntSushi/xsv): xsv is a command line program for indexing, slicing, analyzing, splitting and joining CSV files.
 
-## Online Editor | 在线编辑与共享
+## Editor | 编辑与共享
 
 - [CodePen]()
 
@@ -84,23 +96,17 @@
 
 - [Dwitter](https://www.dwitter.net/): Edit the code to start the fun, or browse through other peoples demos below
 
-## Chrome Extension
+### Code Sharing & Visualization
 
-- IE Tab: 仅支持 Windows 系统，能够在标签中以 IE 内核显示网页。
+- [Carbon #Project#](https://github.com/dawnlabs/carbon): Create and share beautiful images of your source code.
 
-- [Chrono 下载管理器](http://6me.us/PFn)
+- [Polaroid #Project#](https://github.com/octref/polacode): Polaroid for your code 📸.
 
-* [Save to Pocket](http://6me.us/Zp5): 允许将浏览的网页保存到 Pocket
+- [2018-GoCity #Project#](https://go-city.github.io/#/github.com/gin-gonic/gin): GoCity is an implementation of the Code City metaphor for visualizing Go source code.
 
-- [Evernote Web Clipper](http://6me.us/6ldwK7)
+- [2018-Glorious Demo #Project#](https://github.com/glorious-codes/glorious-demo): The easiest way to demonstrate your code in action.
 
-- [Mercury Reader: 自定义阅读体验](http://6me.us/8hOKsH)
-
-* [Google Scholar Button](http://6me.us/wXicA0)
-
-- 链接缩略: [Goog.gl URL Shortener](http://6me.us/vaJuM3)
-
-* 截图工具: [Awesome Screenshot](http://6me.us/lzEw), [Chrome Remote Desktop](http://6me.us/55h)
+## VSCode
 
 # Cooperative Work | 协同工作
 
@@ -129,8 +135,6 @@
 - [Resilio #Project#](https://www.resilio.com/): Synchronize, Distribute & Consolidate Files Using a P2P Protocol
 
 - [Syncthing #Project#](https://syncthing.net/): Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
-
-- [Carbon #Project#](https://github.com/dawnlabs/carbon): Create and share beautiful images of your source code.
 
 ## 项目管理
 

@@ -24,6 +24,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 * [2017-The Mathematics of Machine Learning #Book#](http://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-machine-learning): Machine Learning theory is a field that intersects statistical, probabilistic, computer science and algorithmic aspects arising from learning iteratively from data and finding hidden insights which can be used to build intelligent applications. Despite the immense possibilities of Machine and Deep Learning, a thorough mathematical understanding of many of these techniques is necessary for a good grasp of the inner workings of the algorithms and getting good results.
 
+* [2017-G. Casella-An Introduction to Statistical Learning #Book#](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf): This book is appropriate for advanced undergraduates or master’s students in statistics or related quantitative fields or for individuals in otherdisciplines who wish to use statistical learning tools to analyze their data.
+
 # Machine Learning | 机器学习
 
 - [2007-Pattern Recognition And Machine Learning #Book#](https://book.douban.com/subject/2061116/): The book is suitable for courses on machine learning, statistics, computer science, signal processing, computer vision, data mining, and bioinformatics.
