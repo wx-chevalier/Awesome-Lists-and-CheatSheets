@@ -106,6 +106,9 @@ The contents organization form follows [Web MindMap](),
 
 * [greenlet #Project#](https://github.com/developit/greenlet): Move an async function into its own thread, a simplified single-function version of workerize.
 
+* [2017-Comlink #Project#](https://github.com/GoogleChromeLabs/comlink): 
+Comlink’s goal is to make WebWorkers enjoyable. Comlink removes the mental barrier of thinking about postMessage and hides the fact that you are working with workers.
+
 # Functionality
 
 ## Network
