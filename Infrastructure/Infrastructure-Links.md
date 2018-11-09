@@ -86,4 +86,8 @@
 
 - [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://parg.co/UKc):
 
+- [Software Architecture and Design](https://msdn.microsoft.com/en-us/library/ee658098.aspx)
+
+- [从无到有：微信后台系统的演进之路](https://mp.weixin.qq.com/s?__biz=MzI5MDAwOTIzOQ==&mid=402045684&idx=1&sn=5690281c941cd8eb203b6980cdae73ce)
+
 ---

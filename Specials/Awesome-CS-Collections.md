@@ -84,7 +84,7 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 - [2018-Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap): Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops.
 
-# Server Side Application | 服务端应用程序
+# Backend | 服务端应用程序
 
 - [2016-Back-End Developer Interview Questions](https://parg.co/UXF): A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 
@@ -93,6 +93,10 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 - [2018-后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 
 - [Awesome design patterns](https://github.com/DovAmir/awesome-design-patterns): A general, reusable solution to a commonly occurring problem within a given context in software design. It is a description or template for how to solve a problem that can be used in many different situations.
+
+- [Comic For What is BackEnd Developer](https://consolia-comic.com/comics/back-end)
+
+* [2017-The non-techie’s guide to servers](https://parg.co/bDN)
 
 # Infrastructure | 基础架构
 
@@ -104,10 +108,14 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 - [free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
 
-- [Cloud Native Landscape #Project#](https://github.com/cncf/landscape): Static Cloud Native Landscapes and Interactive Landscape that filters and sorts hundreds of cloud native projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets. 
+- [Cloud Native Landscape #Project#](https://github.com/cncf/landscape): Static Cloud Native Landscapes and Interactive Landscape that filters and sorts hundreds of cloud native projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 
 # Frontend | 前端
 
 # DataScienceAI
 
 - [Project Euler](https://projecteuler.net/about): Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
+
+# Others
+
+- [2017-awesome-indie](https://github.com/mezod/awesome-indie): Resources to help independent developers make money.

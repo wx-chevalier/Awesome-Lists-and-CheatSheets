@@ -13,3 +13,11 @@
 ## Nacos
 
 - [2018-阿里巴巴发布 Nacos v0.1.0 版本，回顾自研 10 年路](https://mp.weixin.qq.com/s/MJOx_wk8VILSLZ7JOn3NyA): 本文将为大家探秘阿里巴巴服务注册中心 ConfigServer 的 10 年自研历程。
+
+# 分布式追踪
+
+- [分布式会话跟踪系统架构设计与实践](http://www.tuicool.com/articles/Az6FRz)
+
+- [Zipkin #Project#](http://zipkin.io/): Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in microservice architectures. It manages both the collection and lookup of this data.
+
+- [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://research.google.com/pubs/pub36356.html)

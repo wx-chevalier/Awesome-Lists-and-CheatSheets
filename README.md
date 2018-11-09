@@ -18,7 +18,7 @@ Awesome Links 是记录了笔者在日常阅读、学习与实践中发掘的优
 
 当然，Awesome Links 包含了笔者正在使用的，或者关注到的技术，自然无法做到没有遗漏，也是仅代表笔者的个人看法。
 
-## TOC
+## Index | 索引
 
 为了便于知识归纳，Awesome Links 在 [Specials](./Specials) 目录中准备了多个专题的集锦，它们包括：
 

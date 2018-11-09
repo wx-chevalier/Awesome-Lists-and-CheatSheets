@@ -64,6 +64,8 @@
 
 # Development Tools | 开发工具
 
+- [Upterm #Project#](https://github.com/shockone/black-screen): Upterm (formerly Black Screen) is an IDE in the world of terminals. Strictly speaking, it's both a terminal emulator and an interactive shell based on Electron.
+
 ## HTTP
 
 ### Client

@@ -18,7 +18,9 @@
 
 # Overview | 概述
 
-- [2018-Web Application Penetration Testing Cheat Sheet](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/#data-validation-testing): This cheatsheet is intended to run down the typical steps performed when conducting a web application penetration test. 
+- [2018-Web Application Penetration Testing Cheat Sheet](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/#data-validation-testing): This cheatsheet is intended to run down the typical steps performed when conducting a web application penetration test.
+
+* [Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56): Michael O’Brien shares a security checklist for web developers so that you don’t forget anything crucial in your next projects.
 
 # Browser Security | 浏览器安全
 
@@ -50,7 +52,7 @@
 
 - [2018-Practical Web Cache Poisoning](https://portswigger.net/blog/practical-web-cache-poisoning): In this paper I'll show you how to compromise websites by using esoteric web features to turn their caches into exploit delivery systems, targeting everyone that makes the mistake of visiting their homepage.
 
-- [2018-如何防止XSS攻击？](https://tech.meituan.com/fe_security.html): 随着互联网的高速发展，信息安全问题已经成为企业最为关注的焦点之一，而前端又是引发企业安全问题的高危据点。
+- [2018-如何防止 XSS 攻击？](https://tech.meituan.com/fe_security.html): 随着互联网的高速发展，信息安全问题已经成为企业最为关注的焦点之一，而前端又是引发企业安全问题的高危据点。
 
 # CSRF
 
@@ -82,4 +84,4 @@
 
 - [浅析大规模 DDOS 防御架构：应对 T 级攻防](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=400299276&idx=1&sn=e132a62a492b1139edf9acae115932a4&scene=23&srcid=1107fxqJm1ylDDLN7xZRgmdH#rd)
 
-- [2018-被骗几十万总结出来的Ddos攻击防护经验！](https://zhuanlan.zhihu.com/p/22953451): DDoS(Distributed Denial of Service，分布式拒绝服务)攻击的主要目的是让指定目标无法提供正常服务，甚至从互联网上消失，是目前最强大、最难防御的攻击之一。这是一个世界级的难题并没有解决办法只能缓解.
+- [2018-被骗几十万总结出来的 Ddos 攻击防护经验！](https://zhuanlan.zhihu.com/p/22953451): DDoS(Distributed Denial of Service，分布式拒绝服务)攻击的主要目的是让指定目标无法提供正常服务，甚至从互联网上消失，是目前最强大、最难防御的攻击之一。这是一个世界级的难题并没有解决办法只能缓解.
