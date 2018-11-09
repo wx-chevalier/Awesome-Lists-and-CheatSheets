@@ -33,6 +33,10 @@
 
 - [MyPerf4J #Project#](https://github.com/ThinkpadNC5/MyPerf4J): eal-time Java method performance monitoring and statistical tool.
 
+## Test | 测试工具
+
+- [REST Assured #Project#](https://github.com/rest-assured/rest-assured): Testing and validation of REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain. languages into the Java domain.
+
 ## Production | 发布到生产环境
 
 - [Capsule #Project#](http://www.capsule.io/user-guide/#getting-capsule): Dead-Simple Packaging and Deployment for JVM Apps.
