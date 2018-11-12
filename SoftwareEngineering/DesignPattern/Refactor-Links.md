@@ -1,8 +1,12 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Links)
 
-# 重构之道
+# Code Style & Refactor
 
-Working Effectively with Legacy Code, by Michael Feathers. This book will give you an appreciation of what it is like to work with long-lived code bases, and how to write code now so future You (and future Your Colleagues) can be happy developers. Refactoring: Improving the Design of Existing Code, by Martin Fowler. You’ll get a whole new appreciation for the word “refactoring” after reading this book. Design Patterns: Elements of Reusable Object-Oriented Software, by Erich Gamma et al. This is also famously knows as the Gang of Four book. If you want a simpler version of this, check out Head First Design Patterns too.
+* [2017-Awesome Guidelines](https://github.com/Kristories/awesome-guidelines): A curated list of high quality coding style conventions and standards.
+
+# Clean Code
+
+- [CLEAN CODE - NOTES](https://smalldata.tech/blog/2018/09/16/clean-code-notes): The following is a list of notes taken on writing clean code, i.e. code that is maintainable and extensible.
 
 - [Codebrag](https://github.com/softwaremill/codebrag):Your daily code review tool. Codebrag is a simple code review tool that makes the process work for your team. NOW OPEN-SOURCE AND FREE!
 
