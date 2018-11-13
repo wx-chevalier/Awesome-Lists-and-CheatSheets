@@ -14,11 +14,11 @@
 
 * [fbjs #Project#](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
 
-* [Numeral-js #Project#](https://github.com/adamwdraper/Numeral-js): A javascript library for formatting and manipulating numbers.
-
 ## DataStructure
 
 - [Calculatorjs #Project#](https://github.com/fzred/calculatorjs): Accurately arithmetic library.
+
+* [Numeral-js #Project#](https://github.com/adamwdraper/Numeral-js): A javascript library for formatting and manipulating numbers.
 
 ### DateTime
 
@@ -27,6 +27,10 @@
 - [dayjs #Project#](https://github.com/xx45/dayjs): Fast 2KB immutable date library alternative to Moment.js with the same modern API.
 
 - [date-fns #Project#](https://date-fns.org/): date-fns provides the most comprehensive, yet simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js.
+
+## Class
+
+- [TypeDI #Project#](https://github.com/typestack/typedi): TypeDI is a dependency injection tool for JavaScript and TypeScript. Using TypeDI you can build well-structured and easily tested applications.
 
 # Development Tool
 
