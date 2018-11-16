@@ -38,7 +38,7 @@
 
 * [draft-js-plugins #Project#](https://www.draft-js-plugins.com/)
 
-* [Slate #Project#](https://github.com/ianstormtaylor/slate)
+* [2018-Slate #Project#](https://github.com/ianstormtaylor/slate): A completely customizable framework for building rich text editors.
 
 * [GhostText #Project#](https://github.com/GhostText/GhostText): Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 
