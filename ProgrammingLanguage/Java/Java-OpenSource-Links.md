@@ -71,13 +71,9 @@
 
 - [2018-Arthas #Project#](https://github.com/alibaba/arthas): Arthas 是 Alibaba 开源的 Java 诊断工具，深受开发者喜爱。
 
-## JProfiler
+- JIP，housemd，btrace，greys
 
-- [2014-JProfiler 入门笔记](http://blog.csdn.net/chendc201/article/details/22897999)
-
-- [2017-What is VisualVM? How to Use VisualVM, Benefits, Tutorials and More](https://stackify.com/what-is-visualvm/)
-
-- [2017-Profiling Java Programs With VisualVM](https://parg.co/UuX)
+- JProfiler
 
 ## GC
 
