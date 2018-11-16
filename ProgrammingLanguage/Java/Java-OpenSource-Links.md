@@ -45,6 +45,8 @@
 
 - [Warp #Project#](https://github.com/dgiagio/warp): Warp lets you create self-contained single binary applications making it simpler and more ergonomic to deliver your application to your customers.
 
+- [2018-Amazon Corretto #Project#](https://github.com/corretto/corretto-8): Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK
+
 # Storage | 数据存储
 
 - [sql2o #Project#](https://github.com/aaberg/sql2o): sql2o is a small library, which makes it easy to convert the result of your sql-statements into objects. No resultset hacking required. Kind of like an orm, but without the sql-generation capabilities. Supports named parameters.
