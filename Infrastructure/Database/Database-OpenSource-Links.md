@@ -6,6 +6,8 @@
 
 ## Universal Tools
 
+- [2018-q #Project#](https://github.com/harelba/q): q is a command line tool that allows direct execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
+
 ### Client & Analysis
 
 - [usql #Project#](https://github.com/knq/usql): usql is a universal command-line interface for working with SQL databases.

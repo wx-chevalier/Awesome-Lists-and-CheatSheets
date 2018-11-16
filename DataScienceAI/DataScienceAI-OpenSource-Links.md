@@ -22,6 +22,10 @@
 
 - [Apache Superset](https://github.com/apache/incubator-superset): Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application. [Superset: Airbnb’s data exploration platform](https://parg.co/bIh)
 
+## Visualization
+
+- [TensorSpace.js #Project#](https://github.com/tensorspace-team/tensorspace): Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
+
 # Machine Learning
 
 - [NumPy #Project#](http://www.numpy.org/): NumPy is the fundamental package for scientific computing with Python.
@@ -63,8 +67,6 @@
 ## Knowledge Graph | 知识图谱
 
 - [2018-OpenKE #Project#](https://github.com/thunlp/OpenKE): An Open-Source Package for Knowledge Embedding (KE).
-
-# Deep Learning
 
 ## Dialogue System
 

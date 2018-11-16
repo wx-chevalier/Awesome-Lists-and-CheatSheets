@@ -22,13 +22,15 @@
 
 * [instagram.css #Project#](https://github.com/picturepan2/instagram.css): Instagram.css - Pure CSS Instagram filters. You can add all these Instagram-like filters to your photos with using CSS only.
 
-# Crop: 裁剪
+# Crop & Compression | 裁剪与压缩
 
 - [Cropper](http://fengyuanchen.github.io/cropper/): 基于 jQuery 的图片裁剪工具
 
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop)
 
-- [Pica](http://nodeca.github.io/pica/demo/):Resize image in browser with high quality and high speed
+- [2018-Pica #Project#](http://nodeca.github.io/pica/demo/): Resize image in browser with high quality and high speed
+
+- [2018-Squoosh #Project#](https://github.com/GoogleChromeLabs/squoosh): Squoosh is an image compression web app that allows you to dive into the advanced options provided by various image compressors.
 
 # Parallax
 
