@@ -16,7 +16,7 @@
 
 ## Golang
 
-- [2015-go_spider #Project#](https://github.com/hu17889/go_spider): An awesome Go concurrent Crawler(spider) framework. The crawler is flexible and modular. It can be expanded to an Individualized crawler easily or you can use the default crawl components only.
+- [2015-go_spider #Project#](https://github.com/hu17889/go_spider): An awesome Go concurrent Crawler(spider) framework. The crawler is flexible and modular. It can be expanded to an Individualized crawler easily or you can use the default crawl components only.
 
 - [2017-Colly #Project#](https://github.com/asciimoo/colly): Lightning Fast and Elegant Scraping Framework for Gophers.
 

@@ -46,8 +46,6 @@
 
 - [2017-Zen and the Art of Unit Testing](http://marcin-chwedczuk.github.io/zen-and-the-art-of-unit-testing): In this blog post we will concern ourselves with unit testing of classic 3-layer business applications.
 
-# Tutorials
-
 - [2017-Spring Boot metrics monitoring using Prometheus & Grafana](https://parg.co/UV0): In this post we'll discuss how to achieve the same goal, using another open source stack: Prometheus and Grafana.
 
 - [2018-SpringBoot 2 performance — servlet stack vs WebFlux reactive stack](https://parg.co/U7O): The intent of this experiment to compare the traditional servlet stack vs the reactive stack by capturing their performance under load.
@@ -56,7 +54,7 @@
 
 - [Spring Boot 系列文章](http://blog.didispace.com/tag/spring-boot/)
 
-# AOP
+## AOP
 
 - [Spring Boot 中使用 AOP 统一处理 Web 请求日志](http://blog.didispace.com/springbootaoplog/)
 
@@ -64,9 +62,9 @@
 
 - [Spring AOP 实现原理](http://blog.csdn.net/moreevan/article/details/11977115)
 
-# Production: 发布到生产环境
+## Production | 发布到生产环境
 
-## Docs: 文档
+## Docs | 文档
 
 - [swagger-2-documentation-for-spring-rest-api](http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api)
 
@@ -80,6 +78,18 @@
 
 - [Setting Up Swagger 2 with a Spring REST API](http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api): In this tutorial, we will look at Swagger 2 for a Spring REST web service. For this article, we will use the Springfox implementation of the Swagger 2 specification.
 
-# Internals
+# Spring Security
+
+- [2018-Security with Spring #Series#](https://www.baeldung.com/security-spring): The Security with Spring tutorials focus, as you'd expect, on Spring Security. Get started with the Registration series if you're interested in building a registration flow, and understanding some of the frameworks basics. Then, explore the topics you're most interested in, related to security. Finally, have a look at some of the more advanced topics, such as the OAuth support.
+
+## Spring Security 5
+
+- [Spring Security Series #Series#](https://www.baeldung.com/tag/spring-security-5/): With the latest Spring Security release, a lot has changed. One of those changes is how we can handle password encoding in our applications.
+
+## JWT
+
+- [2017-Spring Boot Security Jwt Authentication](https://www.devglan.com/spring-security/spring-boot-jwt-auth): In this post we will be securing our REST APIs with JWT(JSOn Web Token) authentication. We will be using spring boot maven based configuration to develop and secure our APIs with seperate API for signup and generate token.
+
+# Spring Internals
 
 - [2017-基于 Netty 的 Spring Boot 内置 Servlet 容器的实现 #Series#](https://parg.co/SCE): Spring Boot 有 Tomcat、Jetty 和 undertow 三种内置 Servlet 容器，默认使用 Tomcat。一般来说已经够用了，但当 Spring Boot 用于高并发微服务的时候，可能并不够用，而且 tomcat 的资源占用在这种情况下说不上轻量化了。于是萌生了自己实现一个 Spring Boot 的 Netty Servlet 容器的想法。

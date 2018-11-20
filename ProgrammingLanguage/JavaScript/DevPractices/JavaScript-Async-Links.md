@@ -8,8 +8,6 @@
 
 * [The Evolution of Asynchronous JavaScript](https://blog.risingstack.com/asynchronous-javascript/)
 
-* [2013:JavaScript 异步编程 #Book#](https://drive.wps.cn/view/l/0fd7151862114e68b9e331caf1414ae1)
-
 * [最后谈一次 JavaScript 异步编程](https://zhuanlan.zhihu.com/p/24444262)
 
 * [introduction-to-asynchronous-javascript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-asynchronous-javascript)
@@ -20,11 +18,11 @@
 
 # Event Loop
 
-- [2014-阮一峰 -JavaScript 运行机制详解：再谈 Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
+- [2014-阮一峰-JavaScript 运行机制详解：再谈 Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
 
 - [2015-Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 
-* [2016- 理解事件循环](https://github.com/ccforward/cc/issues/47)
+* [2016-理解事件循环](https://github.com/ccforward/cc/issues/47)
 
 - [2017-Vue 源码详解之 nextTick：MutationObserver 只是浮云，microtask 才是核心！](https://segmentfault.com/a/1190000008589736):
 
@@ -105,6 +103,8 @@
 * [es7-async-functions](https://jakearchibald.com/2014/es7-async-functions/)
 
 - [Mastering Async Await in Node.js](https://blog.risingstack.com/mastering-async-await-in-nodejs/): In this article, you will learn how you can simplify your callback or Promise based Node.js application with async functions (async/await).
+
+- [2018-Faster async functions and promises](https://v8.dev/blog/fast-async): This article explores how we optimized async functions and promises in V8 (and to some extent in other JavaScript engines as well), and describes how we improved the debugging experience for async code.
 
 # Reactive Programming
 
