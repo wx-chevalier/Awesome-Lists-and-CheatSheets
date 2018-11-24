@@ -2,7 +2,11 @@
 
 # Resource
 
+## Blog
+
 - [Hakim El Hattab](https://lab.hakim.se/meny/): I love to experiment with graphics and interactivity.
+
+- [The Pudding #Project#](https://pudding.cool/): The Pudding explains ideas debated in culture with visual essays.
 
 ## Blogs
 
@@ -15,4 +19,3 @@
 - [DecorativeBackgrounds #Project#](https://github.com/Mamboleoo/DecorativeBackgrounds): A collection of decorative animated background shapes powered by WebGL and TweenMax
 
 - [Pure CSS Francine](https://github.com/cyanharlow/purecss-francine): HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
-
