@@ -57,3 +57,5 @@
 * [Screenshot-to-code-in-Keras #Project#](https://github.com/emilwallner/Screenshot-to-code-in-Keras): A neural network that transforms a screenshot into a static website.
 
 - [How you can train an AI to convert your design mockups into HTML and CSS](https://parg.co/UXR)
+
+- [2018-Doodle Master #Project#](https://github.com/karanchahal/DoodleMaster): The Doodle Master seeks to turn your UI mockups into real code. Currently this repository just serves to demonstrate a Proof Of Concept of Artificially Intelligent Design Tools.

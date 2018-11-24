@@ -42,6 +42,10 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2018-LeetCode All in One讲解汇总](http://www.goodtecher.com/zh/leetcode%E8%AE%B2%E8%A7%A3%E6%B1%87%E6%80%BB/): 大家好，这里是GoodTecher LeetCode题目讲解汇总表。
 
+## Blog
+
+- [程序员进阶之算法练习 #Series#](https://cloud.tencent.com/developer/article/1365773)
+
 ## Collection
 
 - [2018-algorithms #Project#](https://github.com/marcosfede/algorithms): Solved algorithms and data structures problems in many languages.

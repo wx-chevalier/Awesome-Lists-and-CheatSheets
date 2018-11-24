@@ -29,3 +29,7 @@
 - [isomorphic-rendering](https://medium.com/@oleg008/isomorphic-rendering-d3e39c3ed073#.6ghei4r1l)
 
 - [redux-async-connect](https://github.com/Rezonans/redux-async-connect)
+
+# Large-scale Applications
+
+
