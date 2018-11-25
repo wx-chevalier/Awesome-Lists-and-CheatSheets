@@ -27,3 +27,7 @@
 - [使用 Nginx+Lua(OpenResty)开发高性能 Web 应用](http://jinnianshilongnian.iteye.com/blog/2280928)
 
 - [OpenResty 最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/index.html)
+
+# OpenSource
+
+- [NGiИX configuration generator #Project#](https://github.com/valentinxxx/nginxconfig.io): NGiИX config generator generator on steroids.

@@ -45,6 +45,8 @@
 
 - [Warp #Project#](https://github.com/dgiagio/warp): Warp lets you create self-contained single binary applications making it simpler and more ergonomic to deliver your application to your customers.
 
+- [2018-Amazon Corretto #Project#](https://github.com/corretto/corretto-8): Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK
+
 # Storage | 数据存储
 
 - [sql2o #Project#](https://github.com/aaberg/sql2o): sql2o is a small library, which makes it easy to convert the result of your sql-statements into objects. No resultset hacking required. Kind of like an orm, but without the sql-generation capabilities. Supports named parameters.
@@ -71,13 +73,9 @@
 
 - [2018-Arthas #Project#](https://github.com/alibaba/arthas): Arthas 是 Alibaba 开源的 Java 诊断工具，深受开发者喜爱。
 
-## JProfiler
+- JIP，housemd，btrace，greys
 
-- [2014-JProfiler 入门笔记](http://blog.csdn.net/chendc201/article/details/22897999)
-
-- [2017-What is VisualVM? How to Use VisualVM, Benefits, Tutorials and More](https://stackify.com/what-is-visualvm/)
-
-- [2017-Profiling Java Programs With VisualVM](https://parg.co/UuX)
+- JProfiler
 
 ## GC
 
