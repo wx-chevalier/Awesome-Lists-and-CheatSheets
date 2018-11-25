@@ -28,7 +28,7 @@
 
 # Tuning 
 
-
+- [2018-SQL 查询优化原理与 Volcano Optimizer 介绍](https://zhuanlan.zhihu.com/p/48735419): 本文将重点着眼于对 Volcano(Cascades) Optimizer的详细介绍上，这是因为 Volcano 模型不但十分流行， 更是被 Apache Calcite 这一优秀的开源框架所实现了。 
 
 # Internals
 
