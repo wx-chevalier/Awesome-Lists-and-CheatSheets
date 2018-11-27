@@ -2,6 +2,8 @@
 
 # 自动化资料索引
 
+- [Lessons Learned from Writing Over 300,000 Lines of Infrastructure Code](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1)
+
 # Ansibe
 
 * [Ansible Official Documents](http://docs.ansible.com/ansible/latest/intro_installation.html)

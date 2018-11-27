@@ -6,6 +6,8 @@
 
 - [Terraform #Project#](https://www.terraform.io/): Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently.
 
+- [Packer #Project#](https://packer.io/): HashiCorp Packer is easy to use and automates the creation of any type of machine image.
+
 - [Terratest #Project#](https://github.com/gruntwork-io/terratest): Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 
 ## Linux Admin Interface
