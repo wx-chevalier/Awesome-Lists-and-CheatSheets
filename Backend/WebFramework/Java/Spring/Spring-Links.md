@@ -80,6 +80,10 @@
 
 - [Spring AOP 实现原理](http://blog.csdn.net/moreevan/article/details/11977115)
 
+## Storage | 存储
+
+- [2018-Spring JDBC](https://www.baeldung.com/spring-jdbc-jdbctemplate): In this article, we’ll go through practical use cases of the Spring JDBC module.
+
 ## Test | 测试
 
 - [2018-Testing in Spring Boot](https://www.baeldung.com/spring-boot-testing): In this article, we’ll have a look at writing tests using the framework support in Spring Boot. 
