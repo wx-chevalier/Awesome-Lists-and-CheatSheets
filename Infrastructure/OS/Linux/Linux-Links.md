@@ -24,9 +24,9 @@
 
 - [The Command Line Murders](https://github.com/veltman/clmystery): There's been a murder in Terminal City, and TCPD needs your help.
 
-- [vim-galore](https://github.com/mhinz/vim-galore#buffers-windows-tabs)
+- [vim-galore](https://github.com/mhinz/vim-galore)
 
-## Collection
+# Bash
 
 - [2017-The Art of Command Line](https://parg.co/bXZ): Master the command line, in one page.
 
@@ -37,5 +37,3 @@
 - [2018-pure bash bible](https://github.com/dylanaraps/pure-bash-bible): The goal of this book is to document known and unknown methods of doing various tasks using only built-in bash features.
 
 - [Bash Infinity #Project#](https://github.com/niieani/bash-oo-framework): Bash Infinity is a modern boilerplate / framework / standard library for bash
-
-# Tutorial

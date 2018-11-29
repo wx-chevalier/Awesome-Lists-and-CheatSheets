@@ -36,7 +36,9 @@
 
 * [mybench](http://jeremy.zawodny.com/mysql/mybench/)
 
-# MySQL
+# Relational Database
+
+## MySQL
 
 - [mycli #Project#](https://github.com/dbcli/mycli): A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 
@@ -45,6 +47,10 @@
 - [gh-ost #Project#](https://github.com/github/gh-ost): gh-ost is a triggerless online schema migration solution for MySQL.
 
 * [2017-OnlineSchemaChange #Project#](https://github.com/facebookincubator/OnlineSchemaChange): A tool for performing online schema changes on MySQL.
+
+## Sharding
+
+- [Sharding-Sphere #Project#](https://gitee.com/Sharding-Sphere/sharding-sphere): Sharding-Sphere is an open-source ecosystem consisted of a set of distributed database middleware solutions, including 3 independent products, Sharding-JDBC, Sharding-Proxy & Sharding-Sidecar (todo).
 
 # Key-Value Database
 

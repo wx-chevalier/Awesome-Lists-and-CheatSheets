@@ -24,7 +24,7 @@
 
 # Crop & Compression | 裁剪与压缩
 
-- [Cropper](http://fengyuanchen.github.io/cropper/): 基于 jQuery 的图片裁剪工具
+- [2017-Cropper #Project#](http://fengyuanchen.github.io/cropper/): 基于 jQuery 的图片裁剪工具
 
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop)
 

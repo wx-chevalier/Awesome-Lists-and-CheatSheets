@@ -8,6 +8,8 @@
 
 * [How Operating Systems Work: 10 Concepts you Should Know as a Developer](https://parg.co/UVV): In this article, the author shares 10 critical operating system concepts that you need to learn if you want to get good at developing software.
 
+- [2018-性能之殇 #Series#](https://lvwenhan.com/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/492.html): 本文的目标是在我有限的认知范围内，讨论一下人们为了提高性能做出的种种努力，这里面包含硬件层面的 CPU、RAM、磁盘，操作系统层面的并发、并行、事件驱动，软件层面的多进程、多线程，网络层面的分布式，等等等等。
+
 # CPU
 
 - [Why Raspberry Pi Isn't Vulnerable to Spectre or Meltdown](http://t.cn/RH3DVKj): To help us understand why, here’s a little primer on some concepts in modern processor design.

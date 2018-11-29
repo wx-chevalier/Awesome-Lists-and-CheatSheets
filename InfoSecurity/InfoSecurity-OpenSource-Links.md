@@ -104,6 +104,10 @@
 
 - [XSStrike #Project#](https://github.com/s0md3v/XSStrike): XSS Scanner equipped with powerful fuzzing engine & intelligent payload generator.
 
+## DNS
+
+- [DNSLog #Project#](https://github.com/BugScanTeam/DNSLog): DNSLog 是一款监控 DNS 解析记录和 HTTP 访问记录的工具。
+
 # Network
 
 ## DDOS

@@ -2,14 +2,14 @@
 
 # 地理位置可视化资料索引
 
-* [TileMill](https://github.com/tilemill-project/tilemill): Make maps with OpenStreetMap and Mapnik.
+- [TileMill](https://github.com/tilemill-project/tilemill): Make maps with OpenStreetMap and Mapnik.
 
-* [MapSCII - The Whole World In Your Console. #Project#](https://github.com/rastapasta/mapscii)
+- [MapSCII - The Whole World In Your Console. #Project#](https://github.com/rastapasta/mapscii)
 
-* [使用 D3.js 创建令人惊奇的地图 ](http://colobu.com/2016/08/02/using-D3-js-to-make-amazing-web-maps/)
+- [使用 D3.js 创建令人惊奇的地图](http://colobu.com/2016/08/02/using-D3-js-to-make-amazing-web-maps/)
 
-* [Generating fantasy maps](http://mewo2.com/notes/terrain/)
+- [Generating fantasy maps](http://mewo2.com/notes/terrain/)
 
-* [Reactive Maps](https://github.com/appbaseio/reactivemaps):A React components library for building maps that update in realtime.
+- [Reactive Maps](https://github.com/appbaseio/reactivemaps):A React components library for building maps that update in realtime.
 
-- [2017-How I built a wind map with WebGL](https://frontendfoc.us/link/20435/cef8043de7):  2D wind simulation looked like a perfect opportunity — it’s useful, visually stunning, and challenging, yet it still felt attainable in scope. 
+* [2017-How I built a wind map with WebGL](https://frontendfoc.us/link/20435/cef8043de7): 2D wind simulation looked like a perfect opportunity — it’s useful, visually stunning, and challenging, yet it still felt attainable in scope.
