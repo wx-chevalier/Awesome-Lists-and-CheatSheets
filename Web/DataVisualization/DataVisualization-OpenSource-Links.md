@@ -56,6 +56,8 @@
 
 * [animateplus #Project#](https://github.com/bendc/animateplus)
 
+- [2017-Ant Motion #Project#](https://motion.ant.design/): 使用 Ant Motion 能够快速在 React 框架中使用动画；我们提供了单项，组合动画，以及整套解决方案。
+
 ## Graphic Animation
 
 - [mo.js #Project#](https://github.com/legomushroom/mojs): motion graphics toolbelt for the web.
