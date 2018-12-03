@@ -68,6 +68,8 @@ This file aggregates popular links for learning how to implement Progressive Web
 
 # Service Worker
 
+- [2017-Progressive Web App Libraries in Production](https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34#.z5egf9m7v): This article is written by Addy Osmani. Two years ago, our team at Google started work on JavaScript libraries to reduce the friction for building Progressive Web Apps.
+
 - [2018-Workbox 3：Service Worker 可以如此简单](http://taobaofed.org/blog/2018/08/08/workbox3/): 不过到了现在有了 Workbox 3，一切关于 Service Worker 的担心都不再是问题。
 
 # Web Push
