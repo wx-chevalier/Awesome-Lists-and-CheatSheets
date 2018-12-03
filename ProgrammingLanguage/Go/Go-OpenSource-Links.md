@@ -30,6 +30,8 @@
 
 * [2018-jstream #Project#](https://github.com/bcicen/jstream): jstream is a streaming JSON parser and value extraction library for Go.
 
+- [2018-wire #Project#](https://github.com/google/wire): Compile-time Dependency Injection for Go
+
 ## Utils
 
 ## Command Line
