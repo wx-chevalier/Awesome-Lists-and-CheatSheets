@@ -40,9 +40,7 @@ The contents organization form follows [Web MindMap](),
 
 ## PWA
 
-- [2017-Progressive Web App Libraries in Production](https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34#.z5egf9m7v): This article is written by Addy Osmani. Two years ago, our team at Google started work on JavaScript libraries to reduce the friction for building Progressive Web Apps.
-
-- [Manifoldjs: PWA Builder](http://6me.us/hx5JS): PWA Builder will give you an easy way to provide the missing pieces of your PWA, and not weigh down your site with data you don’t need or use.
+- [Manifoldjs: PWA Builder #Project#](http://6me.us/hx5JS): PWA Builder will give you an easy way to provide the missing pieces of your PWA, and not weigh down your site with data you don’t need or use.
 
 - [Offline-plugin for webpack #Project#](https://github.com/NekR/offline-plugin): This plugin is intended to provide an offline experience for webpack projects. It uses ServiceWorker, and AppCache as a fallback under the hood. Simply include this plugin in your webpack.config, and the accompanying runtime in your client script, and your project will become offline ready by caching all (or some) of the webpack output assets. you can also turn to [Easy Offline First Apps With Webpack's Offline Plugin](https://dev.to/kayis/easy-offline-first-apps-with-webpacks-offline-plugin) for further information.
 
