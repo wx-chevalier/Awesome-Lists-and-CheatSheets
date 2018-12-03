@@ -28,6 +28,8 @@
 
 # Storage
 
+- [2015-Deep dive into Docker storage drivers](https://jpetazzo.github.io/assets/2015-03-03-not-so-deep-dive-into-docker-storage-drivers.html)
+
 - [2015-深入分析Docker镜像原理](https://www.csdn.net/article/2015-08-21/2825511): 分享内容包含两个部分：1.Docker镜像的基本知识；2.Dockerfile、Docker镜像与Docker容器的关系。
 
 - [2018-What's in a Docker image?](https://cameronlonsdale.com/2018/11/26/whats-in-a-docker-image/): Not only do I want to give you the answer, but I want to show you how I got there.
