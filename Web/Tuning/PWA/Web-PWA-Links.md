@@ -66,6 +66,10 @@ This file aggregates popular links for learning how to implement Progressive Web
 
 - [Installable Web Apps with the Web App Manifest in Chrome for Android](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android): An introduction to installable Web Apps in Chrome for Android.
 
+# Service Worker
+
+- [2018-Workbox 3：Service Worker 可以如此简单](http://taobaofed.org/blog/2018/08/08/workbox3/): 不过到了现在有了 Workbox 3，一切关于 Service Worker 的担心都不再是问题。
+
 # Web Push
 
 - [Chrome Platform Status - Web Notifications](https://www.chromestatus.com/feature/5480344312610816) : Implementation status for Chrome and other browsers.
