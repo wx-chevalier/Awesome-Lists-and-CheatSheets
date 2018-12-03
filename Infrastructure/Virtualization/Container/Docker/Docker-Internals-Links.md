@@ -25,3 +25,9 @@
 # Network
 
 - [2017-理解 Docker 容器网络之 Linux Network Namespace](https://blog.csdn.net/xuguokun1986/article/details/54411394): 在本文中我们将尝试理解 Linux Network Namespace 及相关 Linux 内核网络设备的概念，并手工模拟 Docker 容器网络模型的部分实现，包括单机容器网络中的容器与主机连通、容器。
+
+# Storage
+
+- [2015-深入分析Docker镜像原理](https://www.csdn.net/article/2015-08-21/2825511): 分享内容包含两个部分：1.Docker镜像的基本知识；2.Dockerfile、Docker镜像与Docker容器的关系。
+
+- [2018-What's in a Docker image?](https://cameronlonsdale.com/2018/11/26/whats-in-a-docker-image/): Not only do I want to give you the answer, but I want to show you how I got there.
