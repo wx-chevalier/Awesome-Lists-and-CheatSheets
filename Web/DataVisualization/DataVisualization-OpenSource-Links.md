@@ -54,13 +54,15 @@
 
 - [popmotion #Project#](https://github.com/Popmotion/popmotion): Simple animation libraries for delightful user interfaces.
 
-* [animateplus #Project#](https://github.com/bendc/animateplus)
+* [2017-animateplus #Project#](https://github.com/bendc/animateplus): Animate Plus is a JavaScript animation library focusing on performance and authoring flexibility. It aims to deliver a steady 60 FPS and weighs less than 3 KB (minified and compressed), making it particularly well-suited for mobile
 
 - [2017-Ant Motion #Project#](https://motion.ant.design/): 使用 Ant Motion 能够快速在 React 框架中使用动画；我们提供了单项，组合动画，以及整套解决方案。
 
 ## Graphic Animation
 
 - [mo.js #Project#](https://github.com/legomushroom/mojs): motion graphics toolbelt for the web.
+
+- [bezierjs #Project#](https://github.com/Pomax/bezierjs): A node.js and client-side library for (quadratic and cubic) Bezier curve work.
 
 ## Plstopfic
 
