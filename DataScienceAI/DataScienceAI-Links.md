@@ -64,19 +64,17 @@
 
 - [Kaggle](https://www.kaggle.com/competitions): 官方新人赛，不错的入门学习
 
-- [Kaggle Tutorial](https://www.dataquest.io/blog/kaggle-tutorial/):基于旅馆推荐比赛实例的完整 Tutorial
+* [Driven Data](https://www.drivendata.org/competitions/)
 
-- [Driven Data](https://www.drivendata.org/competitions/)
+* [Innocentive](https://www.innocentive.com/ar/challenge/browse)
 
-- [Innocentive](https://www.innocentive.com/ar/challenge/browse)
+* [Crowdanalytix](https://www.crowdanalytix.com/community)
 
-- [Crowdanalytix](https://www.crowdanalytix.com/community)
+* [Tunedit](http://tunedit.org/challenges?type=student)
 
-- [Tunedit](http://tunedit.org/challenges?type=student)
+* [DataFountain](http://www.wid.org.cn/data/science/player/home/): DF,CCF 指定中国专业的数据竞赛平台
 
-- [DataFountain](http://www.wid.org.cn/data/science/player/home/): DF,CCF 指定中国专业的数据竞赛平台
-
-* [Distill](https://distill.pub/)
+- [Distill](https://distill.pub/)
 
 ## Interview | 面试
 

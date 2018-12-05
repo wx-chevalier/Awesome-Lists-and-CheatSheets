@@ -38,6 +38,8 @@
 
 - [Consola #Project#](https://github.com/nuxt/consola): Elegant Console Logger
 
+- [Bundlephobia #Project#](https://github.com/pastelsky/bundlephobia): Find out the cost of adding a new frontend dependency to your project.
+
 # Other
 
 - [Sweet #Project#](https://www.sweetjs.org/): Sweet brings the hygienic macros of languages like Scheme and Rust to JavaScript.

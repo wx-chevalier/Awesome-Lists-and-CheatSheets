@@ -62,6 +62,8 @@
 
 # Examples | 示范
 
+- [2014-Kaggle Tutorial](https://www.dataquest.io/blog/kaggle-tutorial/): 基于旅馆推荐比赛实例的完整教程。
+
 - [2015-Trained image classification models for Keras #Project#](https://github.com/fchollet/deep-learning-models): Keras code and weights files for popular deep learning models.
 
 - [2015-Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures): Lectures on scientific computing with python, as IPython notebooks.

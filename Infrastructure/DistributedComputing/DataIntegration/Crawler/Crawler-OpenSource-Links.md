@@ -14,6 +14,8 @@
 
 - [Photon #Project#](https://github.com/s0md3v/Photon): Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.
 
+- [Gerapy #Project#](https://github.com/Gerapy/Gerapy): Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Scrapyd-Client, Scrapyd-API, Django and Vue.js.
+
 ## Golang
 
 - [2015-go_spider #Project#](https://github.com/hu17889/go_spider): An awesome Go concurrent Crawler(spider) framework. The crawler is flexible and modular. It can be expanded to an Individualized crawler easily or you can use the default crawl components only.
