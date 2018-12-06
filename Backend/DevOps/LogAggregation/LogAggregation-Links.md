@@ -18,11 +18,11 @@
 
 * [写日志的那些事儿](https://yq.aliyun.com/articles/2920#index_section)
 
-# Logstash
-
-* [使用 Elasticsearch + Logstash + Kibana 搭建日志集中分析平台实践](http://xiequan.info/%E4%BD%BF%E7%94%A8elasticsearch-logstash-kibana%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97%E9%9B%86%E4%B8%AD%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B0%E5%AE%9E%E8%B7%B5/)
+# ELK
 
 * [使用 ELK(Elasticsearch + Logstash + Kibana) 搭建日志集中分析平台实践](https://wsgzao.github.io/post/elk/)
+
+* [2017-Docker Logging with the ELK Stack](https://logz.io/blog/docker-logging/): In this part, I covered the basic steps of how to set up a pipeline of logs from Docker containers into the ELK Stack (Elasticsearch, Logstash and Kibana). 
 
 # Flume
 
