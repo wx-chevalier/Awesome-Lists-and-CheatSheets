@@ -4,17 +4,25 @@
 
 # Overview | 概述
 
-- [2016-架构的本质是管理复杂性，微服务本身也是架构演化的结果](https://parg.co/YUM): 我就职于携程旅游网框架研发部，有幸主导了携程服务化体系和无线 API 网关的建设，本分享基于我之前的实战经验，以及自己近期在业余时间对业界服务化最新进展的学习、思考和总结。
+- [2015-an-introduction-to-microservices](https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/)
 
-- [2017-Evolution of Business Logic from Monoliths through Microservices, to Functions](http://6me.us/bR50k): Underlying technology advancements are creating a shift to event driven functions and radical improvements in time to value.
+* [2016-架构的本质是管理复杂性，微服务本身也是架构演化的结果](https://parg.co/YUM): 我就职于携程旅游网框架研发部，有幸主导了携程服务化体系和无线 API 网关的建设，本分享基于我之前的实战经验，以及自己近期在业余时间对业界服务化最新进展的学习、思考和总结。
 
-* [From Monolith to Microservices](https://blog.poki.com/from-monolith-to-microservices-b16bae1d6c9d#.iof40icta): How we’re rebuilding our infrastructure from scratch.
+* [2017-Evolution of Business Logic from Monoliths through Microservices, to Functions](http://6me.us/bR50k): Underlying technology advancements are creating a shift to event driven functions and radical improvements in time to value.
 
-- [2017-微服务架构(Microservice Architecture)总结](https://parg.co/b22)
+- [From Monolith to Microservices](https://blog.poki.com/from-monolith-to-microservices-b16bae1d6c9d#.iof40icta): How we’re rebuilding our infrastructure from scratch.
 
-* [2017-Microservices Links Architecture #Book#](https://parg.co/U6h): Learn how to connect, secure, and scale microservices in this free ebook.
+* [2017-微服务架构(Microservice Architecture)总结](https://parg.co/b22)
 
-- [2018-The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
+- [2017-Microservices Links Architecture #Book#](https://parg.co/U6h): Learn how to connect, secure, and scale microservices in this free ebook.
+
+* [2018-The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
+
+- [微服务(Microservices)](http://blog.csdn.net/wurenhai/article/details/37659335)
+
+- [微服务实战](http://kb.cnblogs.com/page/521880/)
+
+- [Getting started with microservices](https://blog.ruxit.com/microservices/)
 
 ## Case Study | 案例分析
 
