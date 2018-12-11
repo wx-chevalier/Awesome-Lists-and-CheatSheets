@@ -6,6 +6,10 @@
 
 - [wepy #Project#](https://tencent.github.io/wepy/): 让小程序支持组件化开发的框架，一个最受欢迎的小程序框架。
 
+- [2018-mpx #Project#](https://github.com/didi/mpx): A enhanced miniprogram framework with data reactivity and deep optimizition.
+
+- [taro #Project#](https://github.com/NervJS/taro): 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序/百度智能小程序/支付宝小程序、H5、React Native 等的应用。
+
 # Widgets
 
 - [iview-weapp #Project#](https://github.com/TalkingData/iview-weapp): 一套高质量的微信小程序 UI 组件库。
