@@ -12,11 +12,17 @@ The contents organization form follows [Web MindMap](),
 
 ## Framework
 
-# Debug
+## Development Tool
 
-# Test
+## Debug
 
-# Builder
+## Test
+
+## Builder
+
+## IDE
+
+- [Rekit](https://github.com/supnate/rekit): IDE and toolkit for building scalable web applications with React, Redux and React-router 
 
 # Performance Optimization | 性能优化
 

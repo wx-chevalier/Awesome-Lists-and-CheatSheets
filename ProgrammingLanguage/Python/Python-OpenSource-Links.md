@@ -18,6 +18,10 @@
 
 - [Bowler #Project#](https://pybowler.io/): Safe code refactoring for modern Python.
 
+## Debug
+
+- [nbtutor #Project#](https://github.com/lgpage/nbtutor): Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
+
 ## Tuning
 
 - [Py-Spy #Project#](https://github.com/benfred/py-spy): Py-Spy is a sampling profiler for Python programs. It lets you visualize what your Python program is spending time on without restarting the program or modifying the code in any way.
