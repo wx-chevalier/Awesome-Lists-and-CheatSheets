@@ -2,6 +2,10 @@
 
 # Streaming Computing Links | 流计算资料索引
 
+# Overview
+
+- [2015-Streaming 101 & 102](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102): In this post, I want to focus further on the data-processing patterns from last time, but in more detail, and within the context of concrete examples. 
+
 # Resource
 
 ## Collection
@@ -18,13 +22,11 @@
 
 - [Madhukara Phatak: 某个大数据咨询师的博客](http://blog.madhukaraphatak.com/)
 
-# Overview
-
-## Mechanism | 机制
+# Mechanism | 机制
 
 - [2014-从 Storm 和 Spark 学习流式实时分布式计算的设计](http://blog.csdn.net/anzhsoft/article/details/38168025)
 
-## Comparison | 对比
+# Comparison | 对比
 
 - [2018-Spark 比拼 Flink：下一代大数据计算引擎之争，谁主沉浮？](https://mp.weixin.qq.com/s/dRzPtdEqI6h3lRzmxsxEnw): 本文对 Spark 和 Flink 的技术与场景进行了全面分析与对比，且看下一代大数据计算引擎之争，谁主沉浮？
 
