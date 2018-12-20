@@ -26,6 +26,8 @@
 
 - [TensorSpace.js #Project#](https://github.com/tensorspace-team/tensorspace): Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
 
+- [Curve #Project#](https://github.com/baidu/Curve): An Integrated Experimental Platform for time series data anomaly detection.
+
 # Machine Learning
 
 - [NumPy #Project#](http://www.numpy.org/): NumPy is the fundamental package for scientific computing with Python.

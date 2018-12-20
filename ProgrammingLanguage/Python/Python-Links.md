@@ -8,7 +8,7 @@
 
 - [2017-Writing a basic x86-64 JIT compiler from scratch in stock Python](https://csl.name/post/python-jit/): In this post I'll show how to write a rudimentary, native x86-64 just-in-time compiler (JIT) in CPython, using only the built-in modules.
 
-- [What the f*ck Python](https://github.com/satwikkansal/wtfpython): An interesting collection of surprising snippets and lesser-known Python features.
+- [What the f\*ck Python](https://github.com/satwikkansal/wtfpython): An interesting collection of surprising snippets and lesser-known Python features.
 
 ## CheatSheet | 速览清单
 
@@ -43,6 +43,8 @@
 - [Interactive Coding Challenges](https://parg.co/bhs): Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki Flashcards.
 
 - [pytudes #Project#](https://github.com/norvig/pytudes): This project contains pytudes—Python programs for perfecting programming skills. Some are in Jupyter (IPython) notebooks, some in \*.py files.
+
+- [wtfpython](https://github.com/leisurelicht/wtfpython-cn): 这个有趣的项目意在收集 Python 中那些难以理解和反人类直觉的例子以及鲜为人知的功能特性, 并尝试讨论这些现象背后真正的原理!
 
 ## Python 3
 
