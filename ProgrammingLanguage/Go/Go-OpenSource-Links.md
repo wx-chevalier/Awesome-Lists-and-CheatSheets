@@ -58,6 +58,10 @@
 
 * [gqlgen #Project#](https://gqlgen.com/): gqlgen is a golang library for building graphql servers without any fuss.
 
+## HTTPS
+
+- [2018-CertMagic #Project#](https://github.com/mholt/certmagic): Caddy's automagic TLS features, now for your own Go programs, in one powerful and easy-to-use library!
+
 # Network
 
 - [2017-Colly #Project#](https://github.com/gocolly/colly): Lightning Fast and Elegant Scraping Framework for Gophers.

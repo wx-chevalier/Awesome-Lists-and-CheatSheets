@@ -10,17 +10,13 @@
 
 - [2017-Advanced Vue.js concepts: mixins, custom directives, filters, transitions, and state management](https://parg.co/UA1)
 
-## Overview | 概览
+# Overview | 概览
 
 - [2016-尤雨溪：Vue 2.0，渐进式前端解决方案](https://parg.co/GS1): 前端框架的存在是为了解决什么问题？在众多的框架之中，Vue 独具魅力之处何在？为什么说其背后的核心思想是渐进式？
 
 * [Vue 2.2 完整 API 清单](https://parg.co/bhC)：本文是  Vue 2.2 中完整的 API 介绍，可以作为手册随时查阅。
 
 - [2017-An overview of Vue.js and the future of the framework](https://parg.co/UmG):  This post is far from being a guide. It’s another timeline attempt on Vue.js in a well-organized way, from the beginning, to what awaits us in version 3.0 of the framework.
-
-## Books | 书籍
-
-- [2018-The Vue Handbook #Project#](https://vuehandbook.com/): It targets beginners, covering the 20% that makes you accomplish the 80% of the job. It’s not a definitive guide to Vue, but it can be helpful when you are starting out.
 
 ## Case Study | 案例分析
 
@@ -31,6 +27,12 @@
 - [React or Vue: Which Javascript UI Library Should You Be Using?](https://medium.com/js-dojo/react-or-vue-which-javascript-ui-library-should-you-be-using-543a383608d#.cq7hef3um)
 
 * [面向重度 jQuery 开发者的 Vue 介绍](https://parg.co/bRN)：本文是一位经验丰富的开发者，在将原有的基于 jQuery 工程重构为基于 Vue 工程的过程中总结出的经验与认识介绍。本文首先从零开始介绍如何搭建 Vue 基础项目并且一步一步地实现应用的各种特征，同时还对比了利用 Vue 与 利用 jQuery 实现的差异性以及二者在设计思想上的区别。
+
+# Resource
+
+## Books | 书籍
+
+- [2018-The Vue Handbook #Project#](https://vuehandbook.com/): It targets beginners, covering the 20% that makes you accomplish the 80% of the job. It’s not a definitive guide to Vue, but it can be helpful when you are starting out.
 
 # Tutoria | 教程
 

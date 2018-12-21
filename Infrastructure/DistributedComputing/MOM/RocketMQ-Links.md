@@ -17,3 +17,7 @@
 - [2016-Jaskey RocketMQ 系列文章 #Series#](http://jaskey.github.io/blog/2016/12/15/rocketmq-concept/)
 
 - [2017-YunaiV RocketMQ 源码解析系列文章 #Series#](https://github.com/YunaiV/Blog/tree/master/RocketMQ)
+
+# Internals
+
+- [2018-RocketMQ 高性能之底层存储设计](https://www.jianshu.com/p/d06e9bc6c463): RocketMQ 在底层存储上借鉴了 Kafka，但是也有它独到的设计，本文主要关注深刻影响着 RocketMQ 性能的底层文件存储结构，中间会穿插一点点 Kafka 的东西以作为对比。

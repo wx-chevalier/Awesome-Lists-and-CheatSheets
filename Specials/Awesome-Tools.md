@@ -154,6 +154,8 @@
 
 - [Kap #Project#](https://getkap.co/): Capture your screen, An open-source screen recorder built with web technology.
 
+- [Remove Image Background](https://www.remove.bg/): 100% automatically – in 5 seconds – without a single click.
+
 ## Deployment | 云端部署
 
 - [Github Pages](): [2017-GitHub Pages and Single-Page Apps](https://dev.to/_evansalter/github-pages-and-single-page-apps)

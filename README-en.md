@@ -40,7 +40,7 @@ Each domain may contain the following files:
   - Network
   - System / Process
 
-- {Something}-DevPractices-Links.md - This file may contain or separate into the following:
+- {Something}-DevOps-Links.md - This file may contain or separate into the following:
 
   - Builder, Task runner, Bundler, dependence management
   - Debug

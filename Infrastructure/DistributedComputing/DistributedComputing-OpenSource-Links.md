@@ -14,6 +14,8 @@ Massive & Curated OpenSource Project/Framework/Tool Links, for building great di
 
 * [2018-Jocko #Project#](https://github.com/travisjeffery/jocko): Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
 
+* [2018-QMQ #Project#](https://github.com/qunarcorp/qmq): QMQ 是去哪儿网内部广泛使用的消息中间件，自 2012 年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。
+
 ## Task Queue
 
 - [Disque #Project#](https://github.com/antirez/disque): Disque is a distributed message broker.

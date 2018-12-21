@@ -67,7 +67,7 @@ $ wc -l **/*.md | grep -E -v "(Weekly|total|README)" | awk '{s+=$1} END {printf 
   - Network
   - System / Process
 
-- {Something}-DevPractices-Links.md - 该文件包含或者分割为以下内容：
+- {Something}-DevOps-Links.md - 该文件包含或者分割为以下内容：
 
   - Builder, Task runner, Bundler, dependence management
   - Debug
