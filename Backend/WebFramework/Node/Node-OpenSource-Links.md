@@ -18,22 +18,6 @@
 
 - [ora #Project#](https://github.com/sindresorhus/ora): Elegant terminal spinner.
 
-# Development Tool
-
-- [node-heapdump #Project#](https://github.com/bnoordhuis/node-heapdump): Make a dump of the V8 heap for later inspection.
-
-- [node-prune #Project#](https://github.com/tj/node-prune): node-prune is a small tool to prune unnecessary files from ./node_modules, such as markdown, typescript source files, and so on.
-
-- [Pandora.js #Project#](https://github.com/midwayjs/pandora): A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript.
-
-- [flamebearer #Project#](https://github.com/mapbox/flamebearer): A blazing fast flame graph tool for Node and V8. Used to visualize and explore performance profiling results. Designed to produce fast, lightweight flame graphs that remain responsive even on really big input.
-
-## Debug
-
-- [ndb #Project#](https://github.com/GoogleChromeLabs/ndb): ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools.
-
-- [dumper.js #Project#](https://github.com/zeeshanu/dumper.js): A better and pretty variable inspector for your Node.js applications.
-
 # Functionality Library
 
 ## Storage
@@ -60,6 +44,28 @@
 - [Napa.js #Project#](https://github.com/Microsoft/napajs): Napa.js is a multi-threaded JavaScript runtime built on V8, which was originally designed to develop highly iterative services with non-compromised performance in Bing.
 
 - [microjob #Project#](https://github.com/wilk/microjob): A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads.
+
+# DevOps
+
+- [node-heapdump #Project#](https://github.com/bnoordhuis/node-heapdump): Make a dump of the V8 heap for later inspection.
+
+- [node-prune #Project#](https://github.com/tj/node-prune): node-prune is a small tool to prune unnecessary files from ./node_modules, such as markdown, typescript source files, and so on.
+
+- [Pandora.js #Project#](https://github.com/midwayjs/pandora): A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript.
+
+- [flamebearer #Project#](https://github.com/mapbox/flamebearer): A blazing fast flame graph tool for Node and V8. Used to visualize and explore performance profiling results. Designed to produce fast, lightweight flame graphs that remain responsive even on really big input.
+
+## Logging
+
+- [node-bunyan #Project#](https://github.com/trentm/node-bunyan): a simple and fast JSON logging module for node.js services.
+
+# Tuning
+
+## Debug
+
+- [ndb #Project#](https://github.com/GoogleChromeLabs/ndb): ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools.
+
+- [dumper.js #Project#](https://github.com/zeeshanu/dumper.js): A better and pretty variable inspector for your Node.js applications.
 
 # Application
 

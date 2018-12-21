@@ -4,6 +4,12 @@
 
 The contents organization form follows [Web MindMap](),
 
+- [finder #Project#](https://github.com/antonmedv/finder): CSS Selector Generator, Generates shortest selectors.
+
+- [CSS Blocks #Project#](https://github.com/linkedin/css-blocks): CSS Blocks is an ergonomic, component-oriented CSS authoring system that compiles to high-performance stylesheets.
+
+* [layoutit #Project#](https://www.layoutit.com/grid): An interactive CSS Grid builder.
+
 # Development Library
 
 - [ui-element-samples #Project#](https://github.com/GoogleChrome/ui-element-samples): A collection of UI element samples written with vanilla web platform features.
@@ -22,7 +28,7 @@ The contents organization form follows [Web MindMap](),
 
 ## IDE
 
-- [Rekit](https://github.com/supnate/rekit): IDE and toolkit for building scalable web applications with React, Redux and React-router 
+- [Rekit](https://github.com/supnate/rekit): IDE and toolkit for building scalable web applications with React, Redux and React-router
 
 # Performance Optimization | 性能优化
 
@@ -110,8 +116,8 @@ The contents organization form follows [Web MindMap](),
 
 * [greenlet #Project#](https://github.com/developit/greenlet): Move an async function into its own thread, a simplified single-function version of workerize.
 
-* [2017-Comlink #Project#](https://github.com/GoogleChromeLabs/comlink): 
-Comlink’s goal is to make WebWorkers enjoyable. Comlink removes the mental barrier of thinking about postMessage and hides the fact that you are working with workers.
+* [2017-Comlink #Project#](https://github.com/GoogleChromeLabs/comlink):
+  Comlink’s goal is to make WebWorkers enjoyable. Comlink removes the mental barrier of thinking about postMessage and hides the fact that you are working with workers.
 
 # Functionality
 
@@ -145,7 +151,7 @@ Comlink’s goal is to make WebWorkers enjoyable. Comlink removes the mental bar
 
 - [2015-SpeechKITT](https://github.com/TalAter/SpeechKITT): A flexible GUI for Speech Recognition
 
-# Develop Practices | 开发实践
+# Pattern | 开发实践
 
 ## Builder
 
