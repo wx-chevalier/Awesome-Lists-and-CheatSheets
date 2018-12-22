@@ -16,3 +16,5 @@
 - [Image Server #Project#](https://github.com/pierrre/imageserver): An image server toolkit in Go (Golang)
 
 * [Pavlov Match #Project#](https://github.com/pavlovml/match):Scalable reverse image search
+
+- [Blb #Project#](https://github.com/westerndigitalcorporation/blb): Blb is a distributed object storage system designed for use on bare metal with spinning disks in cluster computing environments.
