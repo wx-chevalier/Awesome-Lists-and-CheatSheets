@@ -2,8 +2,6 @@
 
 # Java OpenSource Links | Java 开源框架与工具索引
 
-- [uniVocity-parsers](https://github.com/uniVocity/univocity-parsers)
-
 # Development Library | 通用开发库
 
 - [Guava #Project#](https://github.com/google/guava): Guava is a set of core libraries that includes new collection types (such as multimap and multiset), immutable collections, a graph library, functional types, an in-memory cache, and APIs/utilities for concurrency, I/O, hashing, primitives, reflection, string processing, and much more!
@@ -13,6 +11,8 @@
 - [Lombok #Project#](https://projectlombok.org/): Project Lombok is a java library that automatically plugs into your editor and build tools, spicing up your java.
 
 - [caffeine #Project#](https://github.com/ben-manes/caffeine): A high performance caching library for Java 8
+
+- [jOOR #Project#](https://github.com/jOOQ/jOOR): Fluent Reflection in Java jOOR is a very simple fluent API that gives access to your Java Class structures in a more intuitive way.
 
 # Development Tool | 开发工具
 
@@ -126,3 +126,5 @@
 # Other
 
 - [Java Parser #Project#](https://github.com/javaparser/javaparser): Java Parser and Abstract Syntax Tree
+
+- [uniVocity-parsers #Project#](https://github.com/uniVocity/univocity-parsers)

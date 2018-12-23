@@ -18,8 +18,6 @@
 
 # Reflect | 反射
 
-- [jOOR](https://github.com/jOOQ/jOOR): Fluent Reflection in Java jOOR is a very simple fluent API that gives access to your Java Class structures in a more intuitive way.
-
 - [Java 反射在 JVM 的实现](http://www.importnew.com/21211.html)
 
 - [2017-Java 反射由浅入深 | 进阶必备](https://juejin.im/post/598ea9116fb9a03c335a99a4)
