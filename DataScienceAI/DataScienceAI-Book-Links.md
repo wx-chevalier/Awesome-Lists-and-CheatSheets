@@ -77,6 +77,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 - [2017-DL4NLP-Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP):
   State of the art resources for NLP sequence modeling tasks such as machine translation, image captioning, and dialog.
 
+- [2017-Li Deng-Deep Learning in Natural Language Processing #Book#](https://parg.co/66P): this book provides comprehensive introduction to and up-to-date review of the state of art in applying deep learning to solve fundamental problems in NLP.
+
 * [2018-Dan Jurafsky-Speech and Language Processing-3rd #Book#](https://web.stanford.edu/~jurafsky/slp3/): New pedagogical sequences on neural networks and their training, starting with logistic regression and continuing with embeddings, feed-forward nets, and RNNs.
 
 # Computer Vision | 计算机视觉
