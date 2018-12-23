@@ -5,7 +5,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/wxyyxc1992/Awesome-Links)
 
 A curated list of Artificial Intelligence (AI) courses and books, aggerated with [DataScienceAI-Book-Links](./DataScienceAI-Book-Links.md) and [DataScienceAI-Course-Links](./DataScienceAI-Course-Links.md) from [Awesome-Links](https://github.com/wxyyxc1992/Awesome-Links).
-
+:
 人工智能、深度学习与 TensorFlow 相关书籍、课程、示例列表是笔者 [Awesome Links](https://github.com/wxyyxc1992/Awesome-Links) 系列的一部分；对于其他的资料集锦、模型、开源工具与框架请参考 [DataScienceAI Links Series](https://github.com/wxyyxc1992/Awesome-Links/tree/master/DataScienceAI)。
 
 # Mathematics | 数学基础
