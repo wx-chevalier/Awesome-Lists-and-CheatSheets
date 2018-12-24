@@ -10,13 +10,17 @@
 
 ## Case Study | 案例分析
 
-## Resource 
+# Resource 
 
 - [Madhukara Phatak:某个大数据咨询师的博客](http://blog.madhukaraphatak.com/)
 
 - [wuchong Jark's Bloh 一系列关于 Flink 的博客](http://wuchong.me/archives/)
 
 - [推酷上汇集的一系列关于 Flink 的文章](http://www.tuicool.com/search?t=1&kw=flink&lang=0)
+
+# Tutorials 
+
+- [2018-Apache Flink Training](https://training.da-platform.com/): This training teaches how to implement scalable data analysis programs with Apache Flink 1.6.0.
 
 # Internals | 内部原理
 
