@@ -161,6 +161,8 @@ The contents organization form follows [Web MindMap](),
 
 ### Form Builder
 
+- [json-editor #Project#](https://github.com/json-editor/json-editor): JSON Schema Based Editor
+
 - [React Form Builder #Project#](https://github.com/blackjk3/react-form-builder): A complete react form builder that interfaces with a json endpoint to load and save generated forms. The toolbox contains 16 items for gathering data. Everything from star ratings to signature boxes!
 
 ### Materials
