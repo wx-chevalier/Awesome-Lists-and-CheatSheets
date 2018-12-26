@@ -62,6 +62,10 @@
 
 - [termui #Project#](https://github.com/gizak/termui): termui is a cross-platform, easy-to-compile, and fully-customizable terminal dashboard. It is inspired by blessed-contrib, but purely in Go.
 
+## Hacker Simulator
+
+- [Geek Typer](http://geektyper.com/shield/): GeekTyper was inspired by the various media where hacking is usually portrayed incorrectly.
+
 # Development Tools | 开发工具
 
 - [Upterm #Project#](https://github.com/shockone/black-screen): Upterm (formerly Black Screen) is an IDE in the world of terminals. Strictly speaking, it's both a terminal emulator and an interactive shell based on Electron.
