@@ -58,6 +58,10 @@ Source files are hosted in [Github](https://github.com/wxyyxc1992/Awesome-Refere
 
 * [2018-React From Zero #Book#](https://github.com/kay-is/react-from-zero): Everything runs in the browser without a manual pre-compilation.
 
+## Blog | 博客
+
+- [Overreacted](https://overreacted.io/): Blogs by Dan Abramov.
+
 ## Course & Conf | 课程与会议
 
 - [2017 React 大会](http://conf.reactjs.org/livestream)：2017 年 React Conf 于 3 月 13 日、14 日成功举办，会上来自世界各地的开发者就 React Fiber、Flow 、 Performance、React Native 等多个主题发表了演说与讨论，推荐选择自己喜欢的演讲视频观看。
