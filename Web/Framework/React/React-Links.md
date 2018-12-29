@@ -2,9 +2,9 @@
 
 # Ultimate Links for Learning React in 2018, from Zero to Hero
 
-This file aggregates curated popular links for learning [React, Syntax, DevOps, Production Tips, Internals, OpenSource](https://github.com/wxyyxc1992/Awesome-Reference/blob/master/Web/Framework/React), etc. More reference about ITCS can turn to [Awesome Links: Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Links), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
+This file aggregates curated popular links for learning [React, Syntax, DevOps, Production Tips, Internals, OpenSource](https://github.com/wxyyxc1992/Awesome-Links/blob/master/Web/Framework/React), etc. More reference about ITCS can turn to [Awesome Links: Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Links), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
 
-Source files are hosted in [Github](https://github.com/wxyyxc1992/Awesome-Reference/blob/master/Web/Framework/React), PRs Welcome.
+Source files are hosted in [Github](https://github.com/wxyyxc1992/Awesome-Links/blob/master/Web/Framework/React), PRs Welcome.
 
 如果想了解更多关于 Redux、MobX 等相关生态系统的资料，同样可以查看 [Awesome Links]() 中的 [Redux Links](https://parg.co/Yds) 与 [MobX Links](https://github.com/wxyyxc1992/Awesome-Links/blob/master/Web/Framework/MobX/MobX-Links.md) 等内容。
 
