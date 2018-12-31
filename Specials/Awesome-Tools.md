@@ -174,6 +174,8 @@
 
 - [Squarespace logo creator #Project#](https://logo.squarespace.com/)
 
+- [Remove Image Background #Project#](https://www.remove.bg/): 100% automatically – in 5 seconds – without a single click
+
 ## Slack
 
 - [Slack-Term #Project#](https://github.com/erroneousboat/slack-term): A Slack client for your terminal.
