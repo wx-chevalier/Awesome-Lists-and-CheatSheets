@@ -54,6 +54,10 @@
 
 - [pwc](https://github.com/zziz/pwc): Papers with code. Sorted by stars. Updated weekly.
 
+* [Awesome - Most Cited Deep Learning Papers #Collection#](https://github.com/terryum/awesome-deep-learning-papers)
+
+* [Deep-Learning-Papers-Reading-Roadmap #Collection#](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap): Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+
 ## Blog | 博客
 
 - [天池/AI 学习](https://tianchi.aliyun.com/learn/index.htm?spm=5176.11510297.5610718.9.1fd94546OoB1Hx&_lang=zh_CN): 机器学习从入门到深入的一系列课程
