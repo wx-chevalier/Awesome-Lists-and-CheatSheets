@@ -14,8 +14,6 @@
 
 * [深层学习为何要 “Deep”(上)](https://zhuanlan.zhihu.com/p/22888385)
 
-* [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap): 为每个对深度学习感兴趣的朋友整理的论文阅读路线图
-
 - [程序员的深度学习入门指南](http://mp.weixin.qq.com/s?__biz=MzA4ODMwMDcxMQ==&mid=2650891687&idx=1&sn=5cacb7cc40907c4b3080f95a2f007396&chksm=8bd9886fbcae0179ffb26e77cf448827870827fb24c3b4c6df7889f46ae59955f278eccba19a&mpshare=1&scene=2&srcid=1107xRQnB44aPEpI8Tvtatls&from=timeline&isappinstalled=0#wechat_redirect): 来自费良宏在 2016QCon 全球软件开发大会(上海)上的演讲。
 
 - [2017- 深度神经网络全面概述：从基本概念到实际模型和硬件基础](https://parg.co/bC6)：深度神经网络(DNN )所代表的人工智能技术被认为是这一次技术变革的基石(之一)。近日，由 IEEE Fellow Joel Emer 领导的一个团队发布了一篇题为《深度神经网络的有效处理：教程和调研(Efficient Processing of Deep Neural Networks: A Tutorial and Survey )》的综述论文，从算法、模型、硬件和架构等多个角度对深度神经网络进行了较为全面的梳理和总结。。
@@ -24,7 +22,7 @@
 
 * [深度学习：2016 年的进展综述及 2017 年的预测 ](http://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653161579&idx=1&sn=e1d157cb4c6e9610be78ebf79eb4379c&chksm=8b493505bc3ebc1323b2d0a673e479d4bb9321748c62c9ad613260936849ea76c48902249868#rd)
 
-* [sjchoi86-深度学习指导](https://github.com/sjchoi86/dl_tutorials):一系列对于深度学习入门指导的 PPT
+* [sjchoi86-深度学习指导](https://github.com/sjchoi86/dl_tutorials): 一系列对于深度学习入门指导的 PPT
 
 * [【直观梳理深度学习关键概念】优化算法、调参基本思路、正则化方式等](https://mp.weixin.qq.com/s/GYno7htF_-Hw4UN_Nc2etg)
 
@@ -49,8 +47,6 @@
 ## Collection
 
 - [Deep Learning for Noobs [Part 1]](https://hackernoon.com/supervised-deep-learning-in-image-classification-for-noobs-part-1-9f831b6d430d#.byiv0mk3u)
-
-* [Awesome - Most Cited Deep Learning Papers【Paper 】](https://github.com/terryum/awesome-deep-learning-papers)
 
 * [126 篇殿堂级深度学习论文分类整理-从入门到应用](https://zhuanlan.zhihu.com/p/25549497)：昵称为 songrotek 的学霸在 GitHub 发布了他整理的深度学习路线图，分门别类梳理了新入门者最需要学习的 DL 论文，又按重要程度给每篇论文打上星星。
 
