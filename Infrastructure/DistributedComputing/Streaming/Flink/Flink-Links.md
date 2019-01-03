@@ -20,6 +20,8 @@
 
 # Tutorials 
 
+- [从0到1学习Flink #Series#](https://mp.weixin.qq.com/s/WrDwd1Ca1jMch6ERCpb_FA): Flink 是一种流式计算框架，我自己整理了些 Flink 的学习资料，目前已经全部放到微信公众号了。
+
 - [2018-Apache Flink Training](https://training.da-platform.com/): This training teaches how to implement scalable data analysis programs with Apache Flink 1.6.0.
 
 # Internals | 内部原理
