@@ -16,7 +16,9 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2018-The Algorithms #Book#](https://github.com/TheAlgorithms): Open Source Book for Newbies to Learn Algorithms and Implement them in any Programming Language.
 
-- [2018-算法珠玑 #Book#](https://soulmachine.gitbooks.io/algorithm-essentials/): 本书的目标读者是准备去硅谷找工作的码农，也适用于在国内找工作的码农，以及刚接触ACM算法竞赛的新手。
+- [2018-算法珠玑 #Book#](https://soulmachine.gitbooks.io/algorithm-essentials/): 本书的目标读者是准备去硅谷找工作的码农，也适用于在国内找工作的码农，以及刚接触 ACM 算法竞赛的新手。
+
+- [2018-Algorithms #Book#](http://jeffe.cs.illinois.edu/teaching/algorithms/?#book): This textbook grew out of a collection of lecture notes that I wrote for various algorithms classes at the University of Illinois at Urbana-Champaign, which I have been teaching about once a year since January 1999.
 
 ## Course | 课程
 
@@ -32,7 +34,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [Topcoder](https://www.topcoder.com/)
 
-- 牛客网
+- [牛客网]()
 
 - [HackerRank](https://www.hackerrank.com/)
 
@@ -40,7 +42,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 ### Leetcode Solutions
 
-- [2018-LeetCode All in One讲解汇总](http://www.goodtecher.com/zh/leetcode%E8%AE%B2%E8%A7%A3%E6%B1%87%E6%80%BB/): 大家好，这里是GoodTecher LeetCode题目讲解汇总表。
+- [2018-LeetCode All in One 讲解汇总](http://www.goodtecher.com/zh/leetcode%E8%AE%B2%E8%A7%A3%E6%B1%87%E6%80%BB/): 大家好，这里是 GoodTecher LeetCode 题目讲解汇总表。
 
 ## Blog
 
