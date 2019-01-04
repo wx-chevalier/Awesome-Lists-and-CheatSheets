@@ -65,6 +65,8 @@
 
 * [mybatis-types #Project#](https://github.com/javaplugs/mybatis-types/): Type Handlers for Mybatis 3.x including Java 8 time (JSR 310) support.
 
+* [mybatis-multi-tenancy #Project#](https://github.com/Mearalu/mybatis-multi-tenancy): 这是一个mybatis的基于共享数据表模式的多租户插件
+
 ### Hibernate
 
 # SysProc
