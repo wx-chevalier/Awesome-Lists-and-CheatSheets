@@ -6,7 +6,7 @@
 
 - [Bounter #Project#](https://github.com/RaRe-Technologies/bounter): Efficient Counter that uses a limited (bounded) amount of memory regardless of data size.
 
-- [json-sempai #Project#](https://github.com/kragniz/json-sempai):Use JSON files as Modules
+- [json-sempai #Project#](https://github.com/kragniz/json-sempai): Use JSON files as Modules.
 
 # Development Tool
 
