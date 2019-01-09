@@ -24,7 +24,7 @@
 
 - [MyBatis Generator 官方文档](http://generator.sturgeon.mopaas.com/whatsNew.html)
 
-- [MyBatis Generator 详解](http://blog.csdn.net/isea533/article/details/42102297)
+- [2014-MyBatis Generator 详解](http://blog.csdn.net/isea533/article/details/42102297): 该中文文档由于尽可能和原文内容一致，所以有些地方如果不熟悉，看中文版的文档的也会有一定的障碍，所以本章根据该中文文档以及实际应用，使用通俗的语言来讲解详细的配置。
 
 # Internals
 
