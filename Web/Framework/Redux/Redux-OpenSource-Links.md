@@ -33,3 +33,7 @@ https://github.com/tappleby/redux-batched-subscribe
 - [Redux-RemoteDeb](https://github.com/zalmoxisus/redux-remotedev)
 
 * [redux-batched-actions](https://github.com/tshelburne/redux-batched-actions)
+
+# Middleware
+
+- [redux-promise-middleware #Project#](https://github.com/pburtchaell/redux-promise-middleware): Enables simple, yet robust handling of async action creators in Redux 
