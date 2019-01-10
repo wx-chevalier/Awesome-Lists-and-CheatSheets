@@ -37,3 +37,5 @@ https://github.com/tappleby/redux-batched-subscribe
 # Middleware
 
 - [redux-promise-middleware #Project#](https://github.com/pburtchaell/redux-promise-middleware): Enables simple, yet robust handling of async action creators in Redux 
+
+- [redux-undo #Project#](https://github.com/omnidan/redux-undo): higher order reducer to add undo/redo functionality to redux state containers
