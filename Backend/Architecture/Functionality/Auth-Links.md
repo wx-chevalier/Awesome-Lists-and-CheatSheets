@@ -18,7 +18,7 @@
 
 # 验证码
 
-- [【Dev Club 分享】腾讯验证码的十二年 ](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653578147&idx=3&sn=94a8f8f8b4a23b2429ba18bd50c4e048&chksm=84b3b1a4b3c438b28476200037170798276cf7762a115dad9e4b49afeed3151955afe7cf82c4&scene=4#wechat_redirect)
+- [腾讯验证码的十二年 ](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653578147&idx=3&sn=94a8f8f8b4a23b2429ba18bd50c4e048&chksm=84b3b1a4b3c438b28476200037170798276cf7762a115dad9e4b49afeed3151955afe7cf82c4&scene=4#wechat_redirect)
 
 - [How CAPTCHA Works](https://blog.jscrambler.com/how-captcha-works/)
 
