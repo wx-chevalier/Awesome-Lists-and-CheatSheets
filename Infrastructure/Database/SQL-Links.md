@@ -26,9 +26,13 @@
 
 * [Intro to SQL: Querying and managing data #Course#](https://parg.co/Uxe): Learn how to use SQL to store, query, and manipulate data. SQL is a special-purpose programming language designed for managing data in a relational database, and is used by a huge number of apps and organizations.
 
-# Tuning 
+- [W3School SQL 教程](https://wizardforcel.gitbooks.io/w3school-sql/content/part1.html)
 
-- [2018-SQL 查询优化原理与 Volcano Optimizer 介绍](https://zhuanlan.zhihu.com/p/48735419): 本文将重点着眼于对 Volcano(Cascades) Optimizer的详细介绍上，这是因为 Volcano 模型不但十分流行， 更是被 Apache Calcite 这一优秀的开源框架所实现了。 
+- [SQL Basics](https://hgducharme.gitbooks.io/sql-basics/content/basic_syntax/README.html)
+
+# Tuning
+
+- [2018-SQL 查询优化原理与 Volcano Optimizer 介绍](https://zhuanlan.zhihu.com/p/48735419): 本文将重点着眼于对 Volcano(Cascades) Optimizer 的详细介绍上，这是因为 Volcano 模型不但十分流行， 更是被 Apache Calcite 这一优秀的开源框架所实现了。
 
 # Internals
 

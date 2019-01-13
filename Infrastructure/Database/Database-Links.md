@@ -36,6 +36,10 @@
 
 - [2018-SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL-4th Edition](https://parg.co/oUa)
 
+## Courses
+
+- [2017-SimpleDB #Project#](https://github.com/iamxpy/SimpleDB): UC Berkeley's Database class CS186: Implement A Simple Database Management System
+
 # Relational DataBase
 
 - [2013-How did the modern relational database come to be?](https://www.linkedin.com/pulse/how-did-modern-relational-database-come-david-mccaldin): The purpose of this Annotated Bibliography is to illustrate, in chronological order, the major development of database models from 1st generation (network model etc) to second generation (relational) to 3rd generation (e.g. semantic). The Bibliography is presented in order of the year when the paper was published.
@@ -45,6 +49,10 @@
 * [2017-A beginner’s guide to ACID and database transactions](http://6me.us/OzSh): Transactions are omnipresent in today’s enterprise systems, providing data integrity even in highly concurrent environments. So let’s get started by first defining the term and the context where you might usually employ it.
 
 * [2015-Database Indexes Explained](https://www.essentialsql.com/what-is-a-database-index/)
+
+## Internals
+
+- [MiniDataBase #Project#](https://github.com/msdeep14/MiniDataBase): A simple Relational Database using B+ Tree Indexing
 
 # NoSQL
 
@@ -65,8 +73,6 @@
 - [这就是搜索引擎：核心技术详解](https://drive.wps.cn/view/l/5b7984707cbb47d9b1b484d3a7cd92a6)
 
 - [2017-How ElasticSearch changed the way I think about search engines… twice](https://parg.co/USg)
-
-- [search-index #Project#](https://github.com/fergiemcdowall/search-index): A persistent, network resilient, full text search library for the browser and Node.js.
 
 # HA Database | 高可用数据库
 

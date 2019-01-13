@@ -68,6 +68,10 @@
 
 # Document Database
 
+## Search Engine
+
+- [search-index #Project#](https://github.com/fergiemcdowall/search-index): A persistent, network resilient, full text search library for the browser and Node.js.
+
 ## MongoDB
 
 - [MemDB #Project#](https://github.com/rain1017/memdb): Distributed Transactional In-Memory Database.
