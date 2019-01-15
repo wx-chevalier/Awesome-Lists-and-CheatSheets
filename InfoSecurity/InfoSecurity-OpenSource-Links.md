@@ -4,7 +4,7 @@
 
 ## Collection
 
-- [2017-Scanners-Box #Project#](https://github.com/We5ter/Scanners-Box): Scanners Box is a collection of open source scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc.
+- [2017-Scanners Box #Project#](https://github.com/We5ter/Scanners-Box): Scanners Box is a collection of open source scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc.
 
 # Universal Penetration Tools/Scanners
 
@@ -44,11 +44,13 @@
 
 * [w3af #Project#](https://github.com/andresriancho/w3af): w3af: web application attack and audit framework, the open source web vulnerability scanner.
 
-## HIDS
+## IDS & WAF
 
-- [驭龙 HIDS](https://github.com/ysrc/yulong-hids): 驭龙 HIDS 是一款由 YSRC 开源的入侵检测系统，由 Agent， Daemon， Server 和 Web 四个部分组成，集异常检测、监控管理为一体，拥有异常行为发现、快速阻断、高级分析等功能，可从多个维度行为信息中发现入侵行为。
+- [驭龙 HIDS #Project#](https://github.com/ysrc/yulong-hids): 驭龙 HIDS 是一款由 YSRC 开源的入侵检测系统，由 Agent， Daemon， Server 和 Web 四个部分组成，集异常检测、监控管理为一体，拥有异常行为发现、快速阻断、高级分析等功能，可从多个维度行为信息中发现入侵行为。
 
-* [Climber #Project#](https://github.com/raffaele-forte/climber): Check UNIX/Linux systems for privilege escalation
+- [ModSecurity #Project#](https://github.com/SpiderLabs/ModSecurity): ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs.
+
+- [Janusec #Project#](https://github.com/Janusec/janusec): Janusec Application Gateway, a Golang based application security solution which provides WAF (Web Application Firewall), CC attack defense, unified web administration portal, private key protection, web routing and scalable load balancing.
 
 # Vulns
 
@@ -107,6 +109,10 @@
 ## Web Shell
 
 - [Cknife #Project#](https://github.com/Chora10/Cknife): 方便已被授权的渗透测试人员进行渗透测试；
+
+# OS
+
+- [Climber #Project#](https://github.com/raffaele-forte/climber): Check UNIX/Linux systems for privilege escalation
 
 # Network
 

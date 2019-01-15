@@ -38,6 +38,8 @@
 
 ## Book
 
+- [CTF Wiki #Series#](https://ctf-wiki.github.io/ctf-wiki/): 作为一个自由的站点，围绕 CTF 近几年赛题，CTF Wiki 对 CTF 中的各个方向的知识和技术进行介绍，以便于初学者更好地学习 CTF 相关的知识。
+
 ## Collection
 
 # HIDS
