@@ -11,3 +11,9 @@
 * [A Brief Totally Accurate History Of Programming Languages](http://t.cn/RHuzOGO): One Hundred Percent Inspired by Facts.
 
 * [Luna](https://github.com/tj/luna): Luna is an expressive, minimalistic, elegant programming language implemented in C. With cooperative thread concurrency at its core, async I/O, and influences derived from languages such as Lua, io, Rust, Ruby, and C.
+
+# Resources
+
+## Books
+
+- [2018-How to Design Programs](https://htdp.org/2018-01-06/Book/index.html): Program design—but not programming—deserves the same role in a liberal-arts education as mathematics and language skills.
