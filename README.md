@@ -4,7 +4,7 @@
 
 # Awesome Links | 精而全的技术开发学习与实践资料索引
 
-`Copyright © 王下邀月熊 - WxChevalier` [![Awesome](https://parg.co/UvS)](https://github.com/wxyyxc1992/Awesome-Links)
+`Copyright © 王下邀月熊 - WxChevalier` [![Awesome](https://parg.co/UvS)](https://github.com/wxyyxc1992/Awesome-Lists)
 
 Awesome Links 是记录了笔者在日常阅读、学习与实践中发掘的优秀的资料，其按照[知识图谱](https://wxyyxc1992.github.io/home/#/perspective)中定义的各个领域的知识体系分门别类地存放；笔者会不断更新其中链接，去芜存菁，去重留一，希望为同仁提供优秀的、有价值的、尽可能精简的资料索引。
 
