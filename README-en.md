@@ -6,7 +6,7 @@
 
 `Copyright © 王下邀月熊 - WxChevalier` [![Awesome](https://parg.co/UvS)](https://github.com/wxyyxc1992/Awesome-Links)
 
-[Awesome Links : Guide to Galaxy](https://parg.co/UMJ) collect curated, worthy and up-to-date links for ITCS, including Programming Language(Java, JavaScript, Python, Go, Rust, etc.), Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
+[Awesome Links](https://parg.co/UMJ) collects curated, worthy and up-to-date links for ITCS, including Programming Language(Java, JavaScript, Python, Go, Rust, etc.), Software Engineering, Backend(Spring, Nginx, MicroServices, etc.), Infrastructure(Database, Network, etc.), InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc. Note that I've attempted to order the books in order of most "tackleable". So the idea is to read books from top to bottom.
 
 There are massive curated links to help you study anything about \* head first, with tutorials, practices, opensource, courses, books, etc. You can search more links/books in [xCompass](https://https:wxyyxc1992.github.io/home/#/search?query=React).
 
