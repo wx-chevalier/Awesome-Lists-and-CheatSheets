@@ -12,6 +12,8 @@
 
 ## Book
 
+- [2013-Vaughn-Implementing Domain Driven Design #Book#](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577): Implementing Domain-Driven Design will impart a treasure trove of knowledge hard won within the DDD and enterprise application architecture communities over the last couple decades.
+
 - [2018-Martin-Clean Architecture #Book#](http://putregai.com/sbooks/clean_arch.pdf): A Craftsman's Guide to Software Structure and Design.
 
 # Tech Debt | 技术负债

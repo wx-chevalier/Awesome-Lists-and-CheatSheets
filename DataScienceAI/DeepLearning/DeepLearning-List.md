@@ -36,6 +36,8 @@
 
 * [2017-Deep Learning Achievements Over the Past Year](https://parg.co/UCI): Great developments in text, voice, and computer vision technologies.
 
+* [2019-Deep Learning:State of the Art (2019)](https://www.dropbox.com/s/v3rq3895r05xick/deep_learning_state_of_the_art.pdf?dl=0): Breakthrough Developments in 2017 & 2018
+
 ## Case Study
 
 - [2017-The-Terrible-Deep-Learning-List](https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List): 15 working examples to get you started with Deep Learning without learning any of the math.

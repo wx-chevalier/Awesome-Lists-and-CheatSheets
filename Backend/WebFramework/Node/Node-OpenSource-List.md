@@ -28,11 +28,17 @@
 
 ## Storage
 
+### Database
+
+- [2018-AlaSQL #Project#](https://github.com/agershun/alasql): AlaSQL - ( à la SQL ) [ælæ ɛskju:ɛl] - is an open source SQL database for JavaScript with a strong focus on query speed and data source flexibility for both relational data and schemaless data. It works in the web browser, Node.js, and mobile apps.
+
+### ORM
+
+- [Sqorn #Project#](https://github.com/lusakasa/sqorn): Sqorn is a Javascript library for building SQL queries.
+
 - [Sequelize #Project](http://docs.sequelizejs.com/): Sequelize is a promise-based ORM for Node.js v4 and up. It supports the dialects PostgreSQL, MySQL, SQLite and MSSQL and features solid transaction support, relations, read replication and more.
 
 - [Knex #Project#](https://github.com/tgriesser/knex): A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
-
-- [Sqorn #Project#](https://github.com/lusakasa/sqorn): Sqorn is a Javascript library for building SQL queries.
 
 - [bookshelf #Project#](https://github.com/bookshelf/bookshelf): A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
 
