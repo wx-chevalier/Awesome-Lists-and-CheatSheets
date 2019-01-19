@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Vue.js Syntax Links | Vue.js 基础语法资料索引
+# Vue.js SyntaxList| Vue.js 基础语法资料索引
 
 - [Let’s Build a Custom Vue Router](https://css-tricks.com/build-a-custom-vue-router/): In this article, we'll build a simple custom client-side router with Vue.
 

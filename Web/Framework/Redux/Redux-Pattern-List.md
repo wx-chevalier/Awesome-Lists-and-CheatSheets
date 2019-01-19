@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Redux Pattern Links | Redux 工程实践资料索引
+# Redux PatternList| Redux 工程实践资料索引
 
 - [2017-Five Tips for Working with Redux in Large Applications](https://parg.co/bIi): The following points of discussion should help anyone working with Redux on large, data intensive applications.
 

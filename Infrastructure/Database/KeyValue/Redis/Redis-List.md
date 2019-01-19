@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Redis Links
+# Redis List
 
 - [Redis 存储海量小数据，如何优化内存使用](http://zzyongx.github.io/blogs/redis-memory-optimization-when-store-small-data.html) s
 

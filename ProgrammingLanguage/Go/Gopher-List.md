@@ -1,4 +1,4 @@
-# Cute Go gopher Images Links
+# Cute Go gopher Images List
 
 The Go gopher is an iconic mascot and one of the most distinctive features of the Go project. In [that post](https://blog.golang.org/gopher) you can give sight in its origins, evolution, and behavior. And in this post, i gather some cute images about Gopher.
 

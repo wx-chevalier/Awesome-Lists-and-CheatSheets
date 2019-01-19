@@ -1,7 +1,7 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists) 
 
 
-# Lisp Links
+# Lisp List
 
 * [Lisp QuickStart](http://cs.gmu.edu/~sean/lisp/LispTutorial.html): The goal of this tutorial is not to teach you many of those powerful features: rather it's to teach you just enough of Lisp that you can get up and coding quickly if you have a previous background in a procedural language such as C or Java.
 

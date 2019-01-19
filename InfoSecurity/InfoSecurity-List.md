@@ -2,7 +2,7 @@
 
 ![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2017/1/2/1-1kLfZcbO_baIyNAHfakk2w.jpeg)
 
-# InfoSecurity & Penetration Links
+# InfoSecurity & Penetration List
 
 - [List of resources about programming practices for writing safety-critical software. ](https://github.com/stanislaw/awesome-safety-critical)
 

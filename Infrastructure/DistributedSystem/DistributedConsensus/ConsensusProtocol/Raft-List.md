@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Raft Links
+# Raft List
 
 * [基于 Raft 构建的大规模分布式存储](https://zhuanlan.zhihu.com/p/23872141)
 

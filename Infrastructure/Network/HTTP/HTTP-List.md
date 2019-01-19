@@ -1,7 +1,7 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists) 
  
 
-# HTTP  Learning & Practices Links
+# HTTP  Learning & Practices List
 
 - [互联网协议的演变之路](https://mp.weixin.qq.com/s/pyyhRkaWtMhGR9Yh6lP-lw): 网络协议诞生至今，已经发生了哪些变化、未来还将迎来哪些演进，这会给网络带来怎样的影响，以及网络又会如何左右协议的设计思路？
 

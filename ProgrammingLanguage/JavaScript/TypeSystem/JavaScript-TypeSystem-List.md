@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# JavaScript TypeSystem Links
+# JavaScript TypeSystem List
 
 - [2017-Type systems will make you a better JavaScript programmer](http://jaredforsyth.com/type-systems-js-dev/#/5): Managing large JavaScript codebases is challenging — whenever we casually pass objects from Chrome’s JavaScript to Objective-C just to receive a callback on a different thread in Node.js, we need a guarantee that the individual pieces fit together.
 

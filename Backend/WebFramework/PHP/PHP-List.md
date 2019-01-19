@@ -16,5 +16,5 @@
 
 
 
-# PHP  Learning & Practices Links
+# PHP  Learning & Practices List
 

@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Java OpenSource Links | Java 开源框架与工具索引
+# Java OpenSourceList| Java 开源框架与工具索引
 
 # Development Library | 通用开发库
 
@@ -57,6 +57,8 @@
 
 - [Lettuce #Project#](https://github.com/lettuce-io/lettuce-core): Lettuce is a scalable thread-safe Redis client for synchronous, asynchronous and reactive usage. Multiple threads may share one connection if they avoid blocking and transactional operations such as BLPOP and MULTI/EXEC.
 
+- [Speedment #Project#](https://github.com/speedment/speedment): Speedment is an open source Java Stream ORM toolkit and runtime. The toolkit analyzes the metadata of an existing SQL database and automatically creates a Java representation of the data model.
+
 ### Mybatis
 
 - [Mybatis #Project#](http://www.mybatis.org/mybatis-3/zh/java-api.html): MyBatis is a first class persistence framework with support for custom SQL, stored procedures and advanced mappings.
@@ -65,7 +67,7 @@
 
 * [mybatis-types #Project#](https://github.com/javaplugs/mybatis-types/): Type Handlers for Mybatis 3.x including Java 8 time (JSR 310) support.
 
-* [mybatis-multi-tenancy #Project#](https://github.com/Mearalu/mybatis-multi-tenancy): 这是一个mybatis的基于共享数据表模式的多租户插件
+* [mybatis-multi-tenancy #Project#](https://github.com/Mearalu/mybatis-multi-tenancy): 这是一个 mybatis 的基于共享数据表模式的多租户插件
 
 ### Hibernate
 

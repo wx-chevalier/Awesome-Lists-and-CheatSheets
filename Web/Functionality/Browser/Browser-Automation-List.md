@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Browser Automation Links
+# Browser Automation List
 
 Browser Automation 即所谓的自动化浏览器或者能够以脚本等方式操作网页完成交互，即利用 Web Driver 或者所谓的 Headless Browser 等技术，可以进行后台的 JS 或者 CSS 脚本渲染，并完成一系列的包括数据分析、模拟操作等步骤。
 

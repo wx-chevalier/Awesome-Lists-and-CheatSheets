@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Java 测试 Learning & Practices Links
+# Java 测试 Learning & Practices List
 
 - [一篇文章带你了解 Java 服务端单元测试的方方面面(保持更新)](https://zhuanlan.zhihu.com/p/21372411)
 

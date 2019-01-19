@@ -2,7 +2,7 @@
 
 [中文版本](./Web-Widgets-Links.md) | [English Version](Web-Widgets-Links-en.md)
 
-# Web Widgets Links | 插件索引
+# Web WidgetsList| 插件索引
 
 不拘泥于某种框架或者实现方式，本索引涵盖了 Web 开发中常用的组件模式，其按照如下方式进行归类：
 

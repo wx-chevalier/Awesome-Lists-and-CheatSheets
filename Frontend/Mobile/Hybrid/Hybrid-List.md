@@ -1,7 +1,7 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists) 
 
 
-# WebView Links
+# WebView List
 
 * [Hybrid 开发：JsBridge - Web 和客户端的桥](http://www.tuicool.com/articles/7bQRRj7)
 

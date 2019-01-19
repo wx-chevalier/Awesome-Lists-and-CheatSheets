@@ -2,7 +2,7 @@
 
 # Go Link: Learning & Practices
 
-This file aggregates curated popular links for learning Golang. More reference about ITCS can turn to [Awesome Links : Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Lists), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
+This file aggregates curated popular links for learning Golang. More reference about ITCS can turn to [AwesomeList: Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Lists), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
 
 # Overview
 

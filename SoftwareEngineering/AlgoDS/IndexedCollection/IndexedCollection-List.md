@@ -1,10 +1,10 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Indexed Collection Links
+# Indexed Collection List
 
 * [数据结构浅析(四)：栈与队列](http://www.jianshu.com/p/c3ba7e56fb53)
 
-# List
+#  List
 
 * [2018-Data Structures — Linked List Implementation in JS](https://medium.com/front-end-hacking/data-structures-linked-list-implementation-in-js-3beb48ff49cd)
 

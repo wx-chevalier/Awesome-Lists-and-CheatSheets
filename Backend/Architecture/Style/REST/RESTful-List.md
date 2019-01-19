@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# RESTful API Learning & Practices Links
+# RESTful API Learning & Practices List
 
 - [2000-Architectural Styles and the Design of Network-based Software Architectures]()：[论文中文译版 : 架构风格与基于网络的软件架构设计](http://o6v08w541.bkt.clouddn.com/REST-article.pdf)
 

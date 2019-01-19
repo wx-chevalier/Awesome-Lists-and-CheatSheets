@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# TimeSeries Database Links
+# TimeSeries Database List
 
 - [Writing a Time Series Database from Scratch](https://fabxc.org/blog/2017-04-10-writing-a-tsdb/)
 

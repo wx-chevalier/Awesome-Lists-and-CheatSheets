@@ -1,4 +1,4 @@
-# GraphQL Server Links
+# GraphQL Server List
 
 - [2018-Tutorial: Designing a GraphQL API](https://gist.github.com/swalkinshaw/3a33e2d292b60e68fcebe12b62bbb3e2): This tutorial was created by Shopify for internal purposes. We've created a public version of it since we think it's useful to anyone creating a GraphQL API.
 

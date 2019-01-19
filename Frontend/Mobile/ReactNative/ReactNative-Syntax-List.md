@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# React Native Syntax Links
+# React Native Syntax List
 
 * [animate-all-the-things-transitions-in-android](https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50#.8fh117w2y)
 
@@ -16,7 +16,7 @@
 
 - [Responsive UIs in React Native](https://parg.co/baT): This is true even for libraries that address the topic of responsive design: they assume that the dimensions of the window won’t change over time.
 
-## List
+##  List
 
 * [2016-Custom Pull to Refresh Animations in React Native](https://parg.co/bXO)
 

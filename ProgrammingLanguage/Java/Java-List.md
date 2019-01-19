@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Java Learning & Practices Links
+# Java Learning & Practices List
 
 作为主流的编程语言之一，Java 走过了二十余载的路程；从 Java 8 到 Java 9，其语法特性与开发模式也处于不断地迭代当中。本文即是希望对于不断变化的并且在实际工作中大量应用的 Java 学习与实践的资料进行收集与索引。
 

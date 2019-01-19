@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Quality Assurance OpenSource Links
+# Quality Assurance OpenSource List
 
 - [sysbench 0.5 性能测试工具使用手册](http://blog.csdn.net/clh604/article/details/12108477)
 

@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Serverless Links
+# Serverless List
 
 * [Challenges of Serverless in 2017](https://read.acloud.guru/challenges-of-serverless-in-2017-1086275165ec#.s7q05y9z6): Bringing serverless into the mainstream will require breaking with old habits — especially around tooling and documentation
 

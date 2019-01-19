@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Go Web Development Links
+# Go Web Development List
 
 - [Go Web Examples #Series#](https://gowebexamples.github.io/): Go Web Examples provides easy to understand code snippets on how to do web development in the Go programming language.
 

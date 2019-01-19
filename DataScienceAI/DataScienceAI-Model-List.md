@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# DataScienceAI Models Links
+# DataScienceAI Models List
 
 本文包含了一些基于人工智能、机器学习、深度学习等技术，实现的有趣的模型、应用、案例。
 

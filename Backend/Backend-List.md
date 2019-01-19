@@ -1,3 +1,3 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
+# Server Architecture List
 
-# Backend Links
+- [Event sourcing vs CRUD](https://parg.co/U1V): In many cases event sourcing is combined with domain-driven design (DDD) and the design pattern CQRS.

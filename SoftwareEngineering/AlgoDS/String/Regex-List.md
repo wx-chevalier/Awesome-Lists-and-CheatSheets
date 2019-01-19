@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Regex Expression Links | 正则表达式资料索引
+# Regex ExpressionList| 正则表达式资料索引
 
 - [2018-Exploring the Linguistics Behind Regular Expressions](https://parg.co/UWP): what does he have to do with regular expressions? Hell, what does he even have to do with computer science?
 

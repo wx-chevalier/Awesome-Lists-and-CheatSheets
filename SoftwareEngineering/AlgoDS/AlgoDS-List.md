@@ -2,7 +2,7 @@
 
 ![](https://cdn-images-1.medium.com/max/2000/0*I5vtdhUqmRJ1zI1e.jpg)
 
-# Algorithm & DataStructure Links
+# Algorithm & DataStructure List
 
 This series collect curated, worthy and up-to-date links/reading list for Algorithm & DataStructure.
 

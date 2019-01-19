@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Nginx Links
+# Nginx List
 
 - [2017-An nginx config for 2017](https://certsimple.com/blog/nginx-http2-load-balancing-config): With HTTP/2 in every browser, load balancing with automatic failover, IPv6, a sorry page, separate blog server, HTML5 SSE and A+ HTTPS.
 

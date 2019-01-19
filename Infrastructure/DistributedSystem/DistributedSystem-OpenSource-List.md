@@ -1,4 +1,4 @@
-# Distributed System OpenSource Links
+# Distributed System OpenSource List
 
 - [Redlock-rb](https://github.com/antirez/redlock-rb) (Ruby 实现).
 - [Redlock-php](https://github.com/ronnylt/redlock-php) (PHP 实现).

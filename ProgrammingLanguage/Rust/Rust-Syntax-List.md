@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Rust Syntax Links
+# Rust Syntax List
 
 * [2017-Undefined vs Unsafe in Rust](https://parg.co/URP): It’s a very useful but subtle distinction and I feel we’d be able to talk about safety more expressively if this was well known.
 

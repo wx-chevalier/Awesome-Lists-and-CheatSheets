@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Web Performance Links
+# Web Performance List
 
 前端优化的根本目的是为了有一个更好地用户体验的同时尽可能减少后端负载压力。即保证更少的加载时间、更快的首屏渲染、更流畅的用户交互。鉴于本文篇幅较长，因此拆分为了[第一部分](.Web-Performance-Links.md)与[第二部分](./Web-Performance-Links.2.md)。
 

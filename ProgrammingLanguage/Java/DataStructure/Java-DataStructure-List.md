@@ -16,7 +16,7 @@
 
 
 
-# Java 数据结构 Learning & Practices Links
+# Java 数据结构 Learning & Practices List
 
 
 

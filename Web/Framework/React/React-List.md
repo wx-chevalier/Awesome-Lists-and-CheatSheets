@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Ultimate Links for Learning React in 2018, from Zero to Hero
+# UltimateListfor Learning React in 2018, from Zero to Hero
 
 This file aggregates curated popular links for learning [React, Syntax, DevOps, Production Tips, Internals, OpenSource](https://github.com/wxyyxc1992/Awesome-Lists/blob/master/Web/Framework/React), etc. More reference about ITCS can turn to [Awesome Links: Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Lists), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
 
@@ -72,7 +72,7 @@ Source files are hosted in [Github](https://github.com/wxyyxc1992/Awesome-Lists/
 
 - [Awesome-React #Collection#](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem.
 
-* [React/Redux Links #Collection#](https://github.com/markerikson/react-redux-links): Curated tutorial and resource links I've collected on React, Redux, ES6, and more
+* [React/ReduxList#Collection#](https://github.com/markerikson/react-redux-links): Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 
 * [Using forms in React-Redux: Tips And Tricks #Collection#](https://medium.com/@royisch/using-forms-in-react-redux-tips-and-tricks-48ad9c7522f6#.krt2lrdhw)
 

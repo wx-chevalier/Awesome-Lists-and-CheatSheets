@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Storm  Learning & Practices Links
+# Storm  Learning & Practices List
 
 * [Storm 内部原理分析](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=402753092&idx=1&sn=a6a1190241481357a3adc29f1733b550&scene=23&srcid=0417uaylfxnig869nCTaCkMs#rd)
 

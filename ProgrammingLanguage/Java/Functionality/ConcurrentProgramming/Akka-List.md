@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Akka Links
+# Akka List
 
 - [JVM 并发性: 使用 Akka 执行异步操作](http://www.ibm.com/developerworks/cn/java/j-jvmc5/index.html)
 

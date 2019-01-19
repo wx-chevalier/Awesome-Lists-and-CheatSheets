@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# MobX Links
+# MobX List
 
 # Overview
 
@@ -42,7 +42,7 @@
 
 - [如何自己实现一个 mobx - 原理解析](https://zhuanlan.zhihu.com/p/26559530)
 
-# Mobx State Tree Links
+# Mobx State Tree List
 
 - [Manage Application State with Mobx-state-tree #Course#](https://parg.co/UCB): In this course, Michel Westrate - Creator of Mobx - will teach us how to model application state after your problem domain with Mobx-state-tree (MST).
 

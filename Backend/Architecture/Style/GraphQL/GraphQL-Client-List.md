@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# GraphQL Client Links
+# GraphQL Client List
 
 * [Exploring different GraphQL Clients](https://itnext.io/exploring-different-graphql-clients-d1bc69de305f): I wanted to study how these clients work, so I aimed to implement the same query using different clients and share my experience.
 

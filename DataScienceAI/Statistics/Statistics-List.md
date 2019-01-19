@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Mathematics Links | 机器学习的数学理论资料索引
+# MathematicsList| 机器学习的数学理论资料索引
 
 - [知乎：「数据会说谎」的真实例子有哪些？](https://www.zhihu.com/question/19578400)
 

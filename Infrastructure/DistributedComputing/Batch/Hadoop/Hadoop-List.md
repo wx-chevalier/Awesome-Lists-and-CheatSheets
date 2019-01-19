@@ -17,7 +17,7 @@
 
 
 
-# Hadoop  Learning & Practices Links
+# Hadoop  Learning & Practices List
 
 
 

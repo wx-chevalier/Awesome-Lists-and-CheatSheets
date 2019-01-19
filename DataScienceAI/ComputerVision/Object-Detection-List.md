@@ -1,4 +1,4 @@
-# Object Detection Links
+# Object Detection List
 
 - [Move Your Cursor with Webcam Using TensorFlow Object Detection API](https://medium.com/towards-data-science/move-cursor-with-tensorflow-3727ed5e2795): TensorMouse is a small open source Python application that allows you to move your cursor by moving a random household object (like a cup, apple or banana) in front of webcam and acts as a replacement for computer mouse or trackpad.
 

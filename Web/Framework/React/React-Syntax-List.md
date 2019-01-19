@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# React Syntax Links | React 基础语法资料索引
+# React SyntaxList| React 基础语法资料索引
 
 This post aggregates curated popular links for learning React Syntax. More reference about ITCS can turn to [Awesome Links: Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Lists), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
 

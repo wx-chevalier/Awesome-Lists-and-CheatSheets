@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# HBase Links
+# HBase List
 
 * [Hbase 系统架构及数据结构 ](http://blog.csdn.net/cnbird2008/article/details/9151585)
 

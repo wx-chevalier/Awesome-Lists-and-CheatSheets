@@ -2,7 +2,7 @@
 
 ![](http://7xi5sw.com1.z0.glb.clouddn.com/1-gcVLvWktBPvc3rgp5fLvBA.jpeg)
 
-# Web Learning & Practices Links
+# Web Learning & Practices List
 
 本文上承接 [AwesomeReference: 程序员成长道路上的阅读学习资料工具集锦](https://github.com/wxyyxc1992/Awesome-Lists)，子索引包含：
 

@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# ServiceWorker Links
+# ServiceWorker List
 
 * [Service Workers Break the Browser’s Refresh Button by Default; Here’s Why](https://parg.co/Uue): Service Workers are like apps. You can’t safely upgrade an app while it’s still running. [How to Fix the Refresh Button When Using Service Workers](https://parg.co/Uu1)
 

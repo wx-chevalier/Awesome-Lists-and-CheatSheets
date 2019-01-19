@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Infrastructure Links | 云计算和大数据平台基础架构资料索引
+# InfrastructureList| 云计算和大数据平台基础架构资料索引
 
 [云计算和大数据平台基础架构]()是笔者对于现代 IT 系统中使用的基础架构相关的资料汇总，包含了分布式系统、分布式计算、(分布式)存储、虚拟化、网络与操作系统等多个方面；而偏向应用层的资料参考[服务端应用程序 Learning & Practices Links]()
 

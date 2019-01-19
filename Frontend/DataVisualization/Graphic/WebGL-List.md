@@ -1,4 +1,4 @@
-# WebGL Learning & Practices Links
+# WebGL Learning & Practices List
 
 # Tutorial
 

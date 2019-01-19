@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Rust OpenSource Links
+# Rust OpenSource List
 
 本文包含了 Rust 相关的优秀开源框架与库，以及值得阅读的 Rust 优秀项目。
 

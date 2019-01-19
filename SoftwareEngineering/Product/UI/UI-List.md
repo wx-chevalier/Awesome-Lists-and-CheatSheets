@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# UI Links
+# UI List
 
 1. 平面设计: [《超赞！设计师完全自学指南》](http://www.uisdc.com/designer-self-study-2)
 2. 交互设计: [《交互设计师修炼指南！教你从零开始成为优秀交互设计师》](http://www.uisdc.com/interaction-designers-guide)

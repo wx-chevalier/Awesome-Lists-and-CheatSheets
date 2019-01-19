@@ -17,7 +17,7 @@
 
 
 
-# Angular  Learning & Practices Links
+# Angular  Learning & Practices List
 
 # 教程实践
 

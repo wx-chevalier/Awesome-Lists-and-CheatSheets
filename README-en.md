@@ -14,7 +14,7 @@ What's the difference between [Awesome Lists](./) and others?
 
 - Lists in this repo are ordered mannualy
 
-- Links in single list may
+-Listin single list may
 
 You can use [xCompass](https://https:wxyyxc1992.github.io/home/#/search?query=React) or [alfred]
 
@@ -84,7 +84,7 @@ Finally, Let these lists speak for themselves:
 
 - {Something}-Links
 
-This file aggregates curated popular links for learning Redux. More reference about ITCS can turn to [Awesome Links : Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Lists), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
+This file aggregates curated popular links for learning Redux. More reference about ITCS can turn to [AwesomeList: Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Lists), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
 
 本文是对于 {Something} 综述性资料的集锦，其子目录还归档了 []() 等相关资料索引。
 

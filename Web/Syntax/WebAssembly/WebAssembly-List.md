@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# WebAssembly Learning & Practices Links
+# WebAssembly Learning & Practices List
 
 ![](https://pic1.zhimg.com/a3d0d0e45057489e78b70620b739bb74_r.png)
 

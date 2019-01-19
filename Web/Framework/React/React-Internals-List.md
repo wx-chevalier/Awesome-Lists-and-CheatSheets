@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# React Internals Links | React 内部原理解析
+# React InternalsList| React 内部原理解析
 
 * [2017-React Internals](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/): In this five part series, we will “recreate” React from the ground up, learning how it works along the way. Once we’ve finished, you should have a good grasp of how React works, and when and why it calls the various lifecycle methods of a component.
 

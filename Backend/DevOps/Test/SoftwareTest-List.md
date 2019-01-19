@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Software Test Links | 软件测试资料索引
+# Software TestList| 软件测试资料索引
 
 - [一名资深质量工程师总结的 4 个工作思路](http://mp.weixin.qq.com/s/0qEBWuZa2fpybCjV52Qi1g)
 
