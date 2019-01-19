@@ -48,7 +48,11 @@
 
 - [Real World #Project#](https://github.com/gothinkster/realworld): RealWorld solves this by allowing you to choose any frontend (React, Angular 2, & more) and any backend (Node, Django, & more) and see how they power a real world, beautifully designed fullstack app called "Conduit".
 
-## Interview | 面试
+# Meetings
+
+- [2019-第十三届 D2 前端技术论坛精彩回顾](https://www.yuque.com/d2forum/content/d213): 智能化和渲染技术，可视化技术和工程化技术，开发模式与语言框架。
+
+# Interview | 面试
 
 - [2017-Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook): Almost complete answers to "Front-end Job Interview Questions"
 

@@ -4,25 +4,29 @@
 
 # Universal SQL Tools
 
-## Execution & Runner
+## Client 
 
 - [2018-q #Project#](https://github.com/harelba/q): q is a command line tool that allows direct execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
-
-- [2018-sqler #Project#](https://github.com/alash3al/sqler): write APIs using direct SQL queries with no hassle, let's rethink about SQL.
-
-- [2018-ginbro #Project#](https://github.com/dejavuzhou/ginbro): Converting a MySQL database'schema to a RESTful golang APIs app in the fastest way.
-
-## Client & Analysis
 
 - [usql #Project#](https://github.com/knq/usql): usql is a universal command-line interface for working with SQL databases.
 
 * [SQL Fiddle #Project#](http://sqlfiddle.com/): A tool for easy online testing and sharing of database problems and their solutions.
+
+- [Dbeaver #Project#](https://dbeaver.io): Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. 
+
+- [HeidiSQL #Project#](https://www.heidisql.com/): HeidiSQL is free software, and has the aim to be easy to learn. "Heidi" lets you see and edit data and structures from computers running one of the database systems MariaDB, MySQL, Microsoft SQL or PostgreSQL. 
+
+## Analysis & Execution 
 
 - [queryparser #Project#](https://github.com/uber/queryparser): Parsing and analysis of Vertica, Hive, and Presto SQL. [Queryparser, an Open Source Tool for Parsing and Analyzing SQL](https://eng.uber.com/queryparser/)
 
 - [sql-parser #Project#](https://github.com/dt-fe/sql-parser): Light and fast sql parser on browser.
 
 * [2017-SQLAdvisor #Project#](https://github.com/Meituan-Dianping/SQLAdvisor): SQLAdvisor 是由美团点评公司技术工程部 DBA 团队(北京)开发维护的一个分析 SQL 给出索引优化建议的工具。它基于 MySQL 原生态词法解析，结合分析 SQL 中的 where 条件、聚合条件、多表 Join 关系 给出索引优化建议。目前 SQLAdvisor 在美团点评内部广泛应用，公司内部对 SQLAdvisor 的开发全面转到 github 上，开源和内部使用保持一致。
+
+- [2018-sqler #Project#](https://github.com/alash3al/sqler): write APIs using direct SQL queries with no hassle, let's rethink about SQL.
+
+- [2018-ginbro #Project#](https://github.com/dejavuzhou/ginbro): Converting a MySQL database'schema to a RESTful golang APIs app in the fastest way.
 
 ## Migration & Transfer
 
@@ -53,6 +57,8 @@
 - [gh-ost #Project#](https://github.com/github/gh-ost): gh-ost is a triggerless online schema migration solution for MySQL.
 
 * [2017-OnlineSchemaChange #Project#](https://github.com/facebookincubator/OnlineSchemaChange): A tool for performing online schema changes on MySQL.
+
+- [Freno #Project#](https://github.com/github/freno): Cooperative, highly available throttler service: clients use freno to throttle writes to a resource.
 
 ## Sharding
 
