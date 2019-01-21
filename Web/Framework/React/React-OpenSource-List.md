@@ -2,7 +2,7 @@
 
 # React OpenSource List
 
-More Web Widgets can be found in [Web Widgets Links](https://github.com/wxyyxc1992/Awesome-Lists/blob/master/Web/Widgets/Web-Widgets-Links.md).
+More Web Widgets can be found in [Web Widgets Links](https://github.com/wxyyxc1992/Awesome-Lists/blob/master/Web/Widgets/Web-Widgets-List.md).
 
 # Development Tools | 开发工具
 

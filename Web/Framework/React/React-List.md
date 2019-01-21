@@ -6,7 +6,7 @@ This file aggregates curated popular links for learning [React, Syntax, DevOps, 
 
 Source files are hosted in [Github](https://github.com/wxyyxc1992/Awesome-Lists/blob/master/Web/Framework/React), PRs Welcome.
 
-如果想了解更多关于 Redux、MobX 等相关生态系统的资料，同样可以查看 [Awesome Links]() 中的 [Redux Links](https://parg.co/Yds) 与 [MobX Links](https://github.com/wxyyxc1992/Awesome-Lists/blob/master/Web/Framework/MobX/MobX-Links.md) 等内容。
+如果想了解更多关于 Redux、MobX 等相关生态系统的资料，同样可以查看 [Awesome Links]() 中的 [Redux Links](https://parg.co/Yds) 与 [MobX Links](https://github.com/wxyyxc1992/Awesome-Lists/blob/master/Web/Framework/MobX/MobX-List.md) 等内容。
 
 # Overview | 概述
 

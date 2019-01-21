@@ -2,7 +2,7 @@
 
 [中文版本](./README.md) | [English Version](./README-en.md)
 
-# [Awesome Lists: Systematic & Structured Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Links/blob/master/README-en.md)
+# [Awesome Lists: Systematic & Structured Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-List/blob/master/README-en.md)
 
 `Copyright © 王下邀月熊 - WxChevalier` [![Awesome](https://parg.co/UvS)](https://github.com/wxyyxc1992/Awesome-Lists)
 
@@ -10,7 +10,7 @@ Everyone may be very familiar with the so-called awesome list:
 
 > An awesome list is a list of awesome things curated by the community, about everything from CLI applications to fantasy books. Just like other thousands of awesome lists,
 
-[Awesome Lists](https://github.com/wxyyxc1992/Awesome-Links/blob/master/README-en.md) collects curated, worthy and up-to-date links for ITCS, including Programming Language(Java, JavaScript, Python, Go, Rust, etc.), Software Engineering, Backend(Spring, Nginx, MicroServices, etc.), Infrastructure(Database, Network, etc.), InfoSecurity & Penetration, Industrial Application, DataScienceAI(Statistics, Machine Learning, Deep Learning, NLP, CV), Frontend Technology(iOS, Android, RN, Electron), etc. Note that I've attempted to order the books in order of most "tackleable". So the idea is to read books from top to bottom.
+[Awesome Lists](https://github.com/wxyyxc1992/Awesome-List/blob/master/README-en.md) collects curated, worthy and up-to-date links for ITCS, including Programming Language(Java, JavaScript, Python, Go, Rust, etc.), Software Engineering, Backend(Spring, Nginx, MicroServices, etc.), Infrastructure(Database, Network, etc.), InfoSecurity & Penetration, Industrial Application, DataScienceAI(Statistics, Machine Learning, Deep Learning, NLP, CV), Frontend Technology(iOS, Android, RN, Electron), etc. Note that I've attempted to order the books in order of most "tackleable". So the idea is to read books from top to bottom.
 
 What's the difference between [Awesome Lists](./) and others?
 
@@ -38,13 +38,13 @@ You can use [xCompass](https://https:wxyyxc1992.github.io/home/#/search?query=Re
 
 There are massive curated links to help you study anything about heading first, with tutorials, practices, opensource, courses, books, etc. Each domain may contain the following files:
 
-- {Something}-Links.md - This file may contain or separate into the following:
+- {Something}-List.md - This file may contain or separate into the following:
 
   - Overview & Case Study & CheatSheet
   - Resource & Book & Collection
   - Tutorial & Learning Path
 
-- {Something}-Syntax-Links.md - This file may contain or separate into the following:
+- {Something}-Syntax-List.md - This file may contain or separate into the following:
 
   - Variable & Expression
   - Control flow & Error Handler
@@ -52,19 +52,19 @@ There are massive curated links to help you study anything about heading first, 
   - Class & Object
   - MetaProgramming
 
-- {Something}-DataStructure-Links.md - This file may contain or separate into the following:
+- {Something}-DataStructure-List.md - This file may contain or separate into the following:
 
   - Basic Type
   - Indexed Collection
   - Keyed Collection
 
-- {Something}-Functionality-Links.md - This file may contain or separate into the following:
+- {Something}-Functionality-List.md - This file may contain or separate into the following:
 
   - Storage
   - Network
   - System / Process
 
-- {Something}-DevOps-Links.md - This file may contain or separate into the following:
+- {Something}-DevOps-List.md - This file may contain or separate into the following:
 
   - Builder, Task runner, Bundler, dependence management
   - Debug
@@ -72,7 +72,7 @@ There are massive curated links to help you study anything about heading first, 
   - Architecture, module system, State management,
   - StyleGuide, coding standards for source code in the JavaScript programming language.
 
-- {Something}-Production-Links.md - This file may contain or separate into the following:
+- {Something}-Production-List.md - This file may contain or separate into the following:
 
   - Performance Optimization / Tunning
   - Release / Deploy
@@ -80,9 +80,9 @@ There are massive curated links to help you study anything about heading first, 
   - RealTime
   - I18n
 
-- {Something}-OpenSource-Links.md - Awesome tools, frameworks, projects
+- {Something}-OpenSource-List.md - Awesome tools, frameworks, projects
 
-- {Something}-Internals-Links.md Inner mechanism under the hood, Core/Compiler/Engine
+- {Something}-Internals-List.md Inner mechanism under the hood, Core/Compiler/Engine
 
 # About
 
@@ -90,10 +90,10 @@ There are massive curated links to help you study anything about heading first, 
 
 允许中英文混排，必须英文在前，中文在后，并且使用 | 进行分割。
 
-- {Something}-Links
+- {Something}-List
 
 This file aggregates curated popular links for learning Redux. More reference about ITCS can turn to [AwesomeList: Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Lists), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
 
 本文是对于 {Something} 综述性资料的集锦，其子目录还归档了 []() 等相关资料索引。
 
-- {Something}-OpenSource-Links
+- {Something}-OpenSource-List

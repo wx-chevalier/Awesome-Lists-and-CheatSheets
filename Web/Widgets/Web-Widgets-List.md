@@ -1,12 +1,12 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-[中文版本](./Web-Widgets-Links.md) | [English Version](Web-Widgets-Links-en.md)
+[中文版本](./Web-Widgets-List.md) | [English Version](Web-Widgets-List-en.md)
 
 # Web WidgetsList| 插件索引
 
 不拘泥于某种框架或者实现方式，本索引涵盖了 Web 开发中常用的组件模式，其按照如下方式进行归类：
 
-- [General | 通用](./General-Links.md)
+- [General | 通用](./General-List.md)
 
   - Button | 按钮
 
