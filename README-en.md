@@ -6,35 +6,37 @@
 
 `Copyright © 王下邀月熊 - WxChevalier` [![Awesome](https://parg.co/UvS)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-Everyone may be very familiar with the so-called awesome list, An awesome list is a list of awesome things curated by the community, about everything from CLI applications to fantasy books. Just like other thousands of awesome lists, [Awesome Lists](https://parg.co/UMJ) collects curated, worthy and up-to-date links for ITCS, including Programming Language(Java, JavaScript, Python, Go, Rust, etc.), Software Engineering, Backend(Spring, Nginx, MicroServices, etc.), Infrastructure(Database, Network, etc.), InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc. Note that I've attempted to order the books in order of most "tackleable". So the idea is to read books from top to bottom.
+Everyone may be very familiar with the so-called awesome list:
+
+> An awesome list is a list of awesome things curated by the community, about everything from CLI applications to fantasy books. Just like other thousands of awesome lists,
+
+[Awesome Lists](https://parg.co/UMJ) collects curated, worthy and up-to-date links for ITCS, including Programming Language(Java, JavaScript, Python, Go, Rust, etc.), Software Engineering, Backend(Spring, Nginx, MicroServices, etc.), Infrastructure(Database, Network, etc.), InfoSecurity & Penetration, Industrial Application, DataScienceAI(Statistics, Machine Learning, Deep Learning, NLP, CV), Frontend Technology(iOS, Android, RN, Electron), etc. Note that I've attempted to order the books in order of most "tackleable". So the idea is to read books from top to bottom.
 
 What's the difference between [Awesome Lists](./) and others?
 
-- They are
+- All lists are organized in a systematic and structured way, keep to my Ultimate Knowledge Graph(see below).
 
-- Lists in this repo are ordered mannualy
-
--Listin single list may
+- Links in single list are ordered mannualy, seperated into multiple sections: Overview, Resources(Books, Courses, etc), Tutorials, etc.
 
 ## Navigation
 
 Finally, Let these lists speak for themselves:
 
-- If you wan't to learn
+- If you wan't to learn Web Development, you may like [DOM List](./Web/Syntax/DOM/DOM-List.md), [CSS List](), [React List](), [Redux List](), [Vue List](), [PWA List](), [Web Performance List](), [WebAssembly List](), etc.
 
-- If you wan't to learn
+- If you wan't to learn Java, Go, MicroService... you may like [Java List](./Web/Syntax/DOM/DOM-List.md), [JVM List](), [Go List](), [MicroService List](), [Spring List](), [DevOps List](), etc.
 
-You can use [xCompass](https://https:wxyyxc1992.github.io/home/#/search?query=React) or [alfred]
+- If you wan't to learn Distributed System, Database, Concurrent Programming... you may like [](),
+
+- If you wan't to learn AI, DeepLearning, TensorFlow... you may like [DataScienceAI Book List](./DataScienceAI/DataScienceAI-Book-List.md), [DataScienceAI Course List](), [Machine Learning List](), [Deep Learning List](), [NLP List](), [TensorFlow List](), [PyTorch List](), etc.
+
+You can use [xCompass](https://https:wxyyxc1992.github.io/home/#/search?query=React) for searching in Web or [alfred-sg](https://github.com/wxyyxc1992/xCompass/blob/master/soogle/alfred-sg/) for searching in MAC.
 
 ## Knowledge Graph
 
-As you see in this repo, the project structure also implies
+![](https://github.com/wxyyxc1992/Developer-Zero-To-Mastery/blob/master/TechRoad/MindMap/MindMap.summary.png?raw=true)
 
-There are massive curated links to help you study anything about \* head first, with tutorials, practices, opensource, courses, books, etc. You can search more links/books in [xCompass](https://https:wxyyxc1992.github.io/home/#/search?query=React).
-
-Complete reference lists can be found in [table of contents](./toc.md).
-
-Each domain may contain the following files:
+There are massive curated links to help you study anything about heading first, with tutorials, practices, opensource, courses, books, etc. Each domain may contain the following files:
 
 - {Something}-Links.md - This file may contain or separate into the following:
 
