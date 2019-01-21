@@ -20,9 +20,9 @@
 
 # Resource
 
-## Collection
+## Blog
 
-- [2016-Readings in Databases #Collection#](https://github.com/rxin/db-readings): A list of papers essential to understanding databases and building new data systems.
+- [digoal/blog](https://github.com/digoal/blog): Everything about database,bussiness.(Most for PostgreSQL).
 
 ## Book
 
@@ -35,6 +35,10 @@
 - [2016-Relational Database Design and Implementation, 4th Edition #Book#](https://parg.co/bjE): The book begins by reviewing basic concepts of databases and database design, then turns to creating, populating, and retrieving data using SQL.
 
 - [2018-SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL-4th Edition](https://parg.co/oUa)
+
+## Collection
+
+- [2016-Readings in Databases #Collection#](https://github.com/rxin/db-readings): A list of papers essential to understanding databases and building new data systems.
 
 ## Courses
 

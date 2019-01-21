@@ -2,7 +2,7 @@
 
 [中文版本](./README.md) | [English Version](./README-en.md)
 
-# [Awesome Lists: Systematic & Structured Guide to Galaxy](https://parg.co/UMJ)
+# [Awesome Lists: Systematic & Structured Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Links/blob/master/README-en.md)
 
 `Copyright © 王下邀月熊 - WxChevalier` [![Awesome](https://parg.co/UvS)](https://github.com/wxyyxc1992/Awesome-Lists)
 
@@ -10,7 +10,7 @@ Everyone may be very familiar with the so-called awesome list:
 
 > An awesome list is a list of awesome things curated by the community, about everything from CLI applications to fantasy books. Just like other thousands of awesome lists,
 
-[Awesome Lists](https://parg.co/UMJ) collects curated, worthy and up-to-date links for ITCS, including Programming Language(Java, JavaScript, Python, Go, Rust, etc.), Software Engineering, Backend(Spring, Nginx, MicroServices, etc.), Infrastructure(Database, Network, etc.), InfoSecurity & Penetration, Industrial Application, DataScienceAI(Statistics, Machine Learning, Deep Learning, NLP, CV), Frontend Technology(iOS, Android, RN, Electron), etc. Note that I've attempted to order the books in order of most "tackleable". So the idea is to read books from top to bottom.
+[Awesome Lists](https://github.com/wxyyxc1992/Awesome-Links/blob/master/README-en.md) collects curated, worthy and up-to-date links for ITCS, including Programming Language(Java, JavaScript, Python, Go, Rust, etc.), Software Engineering, Backend(Spring, Nginx, MicroServices, etc.), Infrastructure(Database, Network, etc.), InfoSecurity & Penetration, Industrial Application, DataScienceAI(Statistics, Machine Learning, Deep Learning, NLP, CV), Frontend Technology(iOS, Android, RN, Electron), etc. Note that I've attempted to order the books in order of most "tackleable". So the idea is to read books from top to bottom.
 
 What's the difference between [Awesome Lists](./) and others?
 
@@ -26,9 +26,9 @@ Finally, Let these lists speak for themselves:
 
 - If you wan't to learn Java, Go, MicroService... you may like [Java List](./Web/Syntax/DOM/DOM-List.md), [JVM List](./ProgrammingLanguage/Java/JVM/JVM-List.md), [Go List](./ProgrammingLanguage/Go/Go-List.md), [MicroService List](./Backend/MicroService/MicroService-List.md), [Spring List](./Backend/WebFramework/Java/Spring/Spring-List.md), [DevOps List](./Backend/DevOps/DevOps-List.md), etc.
 
-- If you wan't to learn Distributed System, Database, Concurrent Programming... you may like [Docker List](), [Kubernetes List](), [Linux List](), [HTTP List](), [Distributed System List](), [Blockchain List](), [Flink List](), [Kafka List](), [Database List](), [MySQL List](), [PostgreSQL List](), etc.
+- If you wan't to learn Distributed System, Database, Concurrent Programming... you may like [Docker List](./Infrastructure/Virtualization/Container/Docker/Docker-List.md), [Kubernetes List](./Infrastructure/Virtualization/Orchestration/Kubernetes/Kubernetes-List.md), [Linux List](./Infrastructure/OS/Linux/Linux-List.md), [HTTP List](./Infrastructure/Network/HTTP/HTTP-List.md), [Distributed System List](), [Blockchain List](./Infrastructure/DistributedSystem/Blockchain/Blockchain-List.md), [Flink List](./Infrastructure/DistributedComputing/Streaming/Flink/Flink-List.md), [Kafka List](./Infrastructure/DistributedComputing/MOM/Kafka-List.md), [Database List](./Infrastructure/Database/Database-List.md), [MySQL List](./Infrastructure/Database/RDB/MySQL/MySQL-List.md), [PostgreSQL List](./Infrastructure/Database/RDB/PostgreSQL/PostgreSQL-List.md), etc.
 
-- If you wan't to learn AI, DeepLearning, TensorFlow... you may like [DataScienceAI Book List](./DataScienceAI/DataScienceAI-Book-List.md), [DataScienceAI Course List](), [Machine Learning List](), [Deep Learning List](), [NLP List](), [TensorFlow List](), [PyTorch List](), etc.
+- If you wan't to learn AI, DeepLearning, TensorFlow... you may like [DataScienceAI Book List](./DataScienceAI/DataScienceAI-Book-List.md), [DataScienceAI Course List](./DataScienceAI/DataScienceAI-Course-List.md), [Machine Learning List](./DataScienceAI/MachineLearning/MachineLearning-List.md), [Deep Learning List](./DataScienceAI/DeepLearning/DeepLearning-List.md), [NLP List](./DataScienceAI/NLP/NLP-List.md), [TensorFlow List](./DataScienceAI/Toolkit/TensorFlow/TensorFlow-List.md), [PyTorch List](./DataScienceAI/Toolkit/PyTorch/PyTorch-List.md), etc.
 
 You can use [xCompass](https://https:wxyyxc1992.github.io/home/#/search?query=React) for searching in Web or [alfred-sg](https://github.com/wxyyxc1992/xCompass/blob/master/soogle/alfred-sg/) for searching in MAC.
 
