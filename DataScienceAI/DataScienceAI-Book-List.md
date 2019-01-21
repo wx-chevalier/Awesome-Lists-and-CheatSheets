@@ -62,6 +62,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 * [2016-深度学习入门 #Book#](https://github.com/PaddlePaddle/book/blob/develop/README.md)：您现在在看的这本书是一本“交互式”电子书 —— 每一章都可以运行在一个 Jupyter Notebook 里。 我们把 Jupyter, PaddlePaddle, 以及各种被依赖的软件都打包进一个 Docker image 了。所以您不需要自己来安装各种软件，只需要安装 Docker 即可。
 
+- [动手学深度学习 #Book#](http://zh.gluon.ai/index.html#): 这是一本深度学习在线书，其使用 Apache MXNet 的最新 gluon 接口来演示如何从 0 开始实现深度学习的各个算法。作者利用 Jupyter notebook 能将文档、代码、公式和图形统一在一起的优势，提供了一个交互式的学习体验。
+
 * [2017-Neural Networks and Deep Learning #Book#](http://neuralnetworksanddeeplearning.com/): Neural Networks and Deep Learning is a free online book. The book will teach you about: (1) Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data. (2) Deep learning, a powerful set of techniques for learning in neural networks
 
 - [2017-TensorFlow Book #Book#](https://github.com/BinRoot/TensorFlow-Book): Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
