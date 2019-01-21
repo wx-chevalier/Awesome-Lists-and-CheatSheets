@@ -2,7 +2,7 @@
 
 [中文版本](./README.md) | [English Version](./README-en.md)
 
-# [Awesome Lists: Guide to Galaxy](https://parg.co/UMJ)
+# [Awesome Lists: Systematic & Structured Guide to Galaxy](https://parg.co/UMJ)
 
 `Copyright © 王下邀月熊 - WxChevalier` [![Awesome](https://parg.co/UvS)](https://github.com/wxyyxc1992/Awesome-Lists)
 
@@ -22,11 +22,11 @@ What's the difference between [Awesome Lists](./) and others?
 
 Finally, Let these lists speak for themselves:
 
-- If you wan't to learn Web Development, you may like [DOM List](./Web/Syntax/DOM/DOM-List.md), [CSS List](), [React List](), [Redux List](), [Vue List](), [PWA List](), [Web Performance List](), [WebAssembly List](), etc.
+- If you wan't to learn Web Development, you may like [DOM List](./Web/Syntax/DOM/DOM-List.md), [CSS List](./Web/Syntax/CSS/CSS-List.md), [React List](./Web/Framework/React/React-List.md), [Redux List](./Web/Framework/Redux/Redux-List.md), [Vue List](./Web/Framework/Vue/Vue-List.md), [PWA List](./Web/Tuning/PWA/Web-PWA-List.md), [Web Performance List](./Web/Tuning/Performance/Web-Performance-List.md), [WebAssembly List](), etc.
 
-- If you wan't to learn Java, Go, MicroService... you may like [Java List](./Web/Syntax/DOM/DOM-List.md), [JVM List](), [Go List](), [MicroService List](), [Spring List](), [DevOps List](), etc.
+- If you wan't to learn Java, Go, MicroService... you may like [Java List](./Web/Syntax/DOM/DOM-List.md), [JVM List](./ProgrammingLanguage/Java/JVM/JVM-List.md), [Go List](./ProgrammingLanguage/Go/Go-List.md), [MicroService List](./Backend/MicroService/MicroService-List.md), [Spring List](./Backend/WebFramework/Java/Spring/Spring-List.md), [DevOps List](./Backend/DevOps/DevOps-List.md), etc.
 
-- If you wan't to learn Distributed System, Database, Concurrent Programming... you may like [](),
+- If you wan't to learn Distributed System, Database, Concurrent Programming... you may like [Docker List](), [Kubernetes List](), [Linux List](), [HTTP List](), [Distributed System List](), [Blockchain List](), [Flink List](), [Kafka List](), [Database List](), [MySQL List](), [PostgreSQL List](), etc.
 
 - If you wan't to learn AI, DeepLearning, TensorFlow... you may like [DataScienceAI Book List](./DataScienceAI/DataScienceAI-Book-List.md), [DataScienceAI Course List](), [Machine Learning List](), [Deep Learning List](), [NLP List](), [TensorFlow List](), [PyTorch List](), etc.
 
