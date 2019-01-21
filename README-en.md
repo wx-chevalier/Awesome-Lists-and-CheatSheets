@@ -16,7 +16,19 @@ What's the difference between [Awesome Lists](./) and others?
 
 -Listin single list may
 
+## Navigation
+
+Finally, Let these lists speak for themselves:
+
+- If you wan't to learn
+
+- If you wan't to learn
+
 You can use [xCompass](https://https:wxyyxc1992.github.io/home/#/search?query=React) or [alfred]
+
+## Knowledge Graph
+
+As you see in this repo, the project structure also implies
 
 There are massive curated links to help you study anything about \* head first, with tutorials, practices, opensource, courses, books, etc. You can search more links/books in [xCompass](https://https:wxyyxc1992.github.io/home/#/search?query=React).
 
@@ -69,12 +81,6 @@ Each domain may contain the following files:
 - {Something}-OpenSource-Links.md - Awesome tools, frameworks, projects
 
 - {Something}-Internals-Links.md Inner mechanism under the hood, Core/Compiler/Engine
-
-Finally, Let these lists speak for themselves:
-
-- If you wan't to learn
-
-- If you wan't to learn
 
 # About
 

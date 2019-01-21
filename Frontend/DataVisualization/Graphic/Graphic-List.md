@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# DOM Graphics List
+# DOM Graphics List | DOM 绘图基础资料索引
 
 # Basics
 
@@ -31,3 +31,19 @@
 * [lithophane](http://3dp.rocks/lithophane/)
 
 * [selva3d](http://app.selva3d.com/transform)
+
+- [HTML5 Canvas Tutorials #Series#](https://www.html5canvastutorials.com/): Here you will find the best tutorials and resources to learn Canvas and other HTML5 aspects.
+
+# WebGL
+
+- [WebGL and Image Filter 101](https://parg.co/UvE): WebGL is the foundation of most of the 3D applications on the Web; more than that, it can also be used to enhance images effects.
+
+- [2017-Build a flappy bird copy with TypeScript & Pixi.js](https://parg.co/Uv5)
+
+* [2017-WebGL 基础知识](http://eux.baidu.com/blog/2017/11/832)
+
+* [WebGL2 Fundamentals](https://webgl2fundamentals.org): WebGL2 from the ground up. No magic.
+
+## GPGPU
+
+- [Unleash Your Inner Supercomputer Your Guide to GPGPU with WebGL](http://www.vizitsolutions.com/portfolio/webgl/gpgpu/index.html)
