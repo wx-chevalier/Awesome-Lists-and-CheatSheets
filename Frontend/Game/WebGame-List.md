@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Web GameList| Web 游戏开发资料索引
+# Web Game List | Web 游戏开发资料索引
 
 * [2017-Building Progressive Web Games #Series#](https://medium.com/@prateekbh/progressive-web-games-part-1-62dcb89c39ff): All app-stores(Google play/iTunes/Windows app store) are filled with tons of games ranging from really simple ones to super complex ones. These games are downloaded millions of times. With the power of PWAs, a lot of these are perfect candidates to be brought to the web instead.
 

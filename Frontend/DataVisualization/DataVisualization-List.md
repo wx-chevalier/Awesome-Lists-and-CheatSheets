@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Data VisualizationList| 数据可视化资料索引
+# Data Visualization List | 数据可视化资料索引
 
 - [2012-数据可视化之美](http://www.ituring.com.cn/article/9967): 在网上看到一篇关于数据可视化的文章，很大的视觉冲击，数据可视化是那么的妙不可言，因为图片非常多，所以花了些时间，希望对大家有所帮助。摘录下来，供大家鉴赏。
 

@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# JavaScript AsyncList| JavaScript 异步编程资料索引
+# JavaScript Async List | JavaScript 异步编程资料索引
 
 - [2016-JavaScript 之异步编程简述](http://blog.codingplayboy.com/2016/01/20/js_async_intro/)
 

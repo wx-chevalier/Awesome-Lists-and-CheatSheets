@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Vue.js Development PracticesList| Vue.js 工程实践资料索引
+# Vue.js Development Practices List | Vue.js 工程实践资料索引
 
 - [Vue 实用技巧](http://6me.us/alZ)：本文来自于饿了么大前端的 cinwell， Vue 2.0 已经发布了有一段时间，生态链也日渐完善。作者在使用 Vue 开发项目时收集的一些工具和使用技巧，分享给各位。( http://6me.us/alZ )
 

@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# LinuxList| Linux 学习与资料索引
+# Linux List | Linux 学习与资料索引
 
 - [Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.](https://github.com/marcan/takeover.sh)
 

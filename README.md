@@ -2,7 +2,7 @@
 
 [中文版本](./README.md) | [English Version](./README-en.md)
 
-# AwesomeList| 精而全的技术开发学习与实践资料索引
+# Awesome List | 精而全的技术开发学习与实践资料索引
 
 `Copyright © 王下邀月熊 - WxChevalier` [![Awesome](https://parg.co/UvS)](https://github.com/wxyyxc1992/Awesome-Lists)
 

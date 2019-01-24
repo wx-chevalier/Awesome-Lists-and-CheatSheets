@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Docker InternalsList| Docker 内部原理资料索引
+# Docker Internals List | Docker 内部原理资料索引
 
 - [2015-Docker 基础技术 #Series#](https://coolshell.cn/articles/17010.html): 我会用几篇文章来把这些技术给大家做个介绍，希望通过这些文章大家可以自己打造一个山寨版的 docker。
 
@@ -30,6 +30,6 @@
 
 - [2015-Deep dive into Docker storage drivers](https://jpetazzo.github.io/assets/2015-03-03-not-so-deep-dive-into-docker-storage-drivers.html)
 
-- [2015-深入分析Docker镜像原理](https://www.csdn.net/article/2015-08-21/2825511): 分享内容包含两个部分：1.Docker镜像的基本知识；2.Dockerfile、Docker镜像与Docker容器的关系。
+- [2015-深入分析 Docker 镜像原理](https://www.csdn.net/article/2015-08-21/2825511): 分享内容包含两个部分：1.Docker 镜像的基本知识；2.Dockerfile、Docker 镜像与 Docker 容器的关系。
 
 - [2018-What's in a Docker image?](https://cameronlonsdale.com/2018/11/26/whats-in-a-docker-image/): Not only do I want to give you the answer, but I want to show you how I got there.

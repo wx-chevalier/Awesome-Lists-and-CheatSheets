@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# CrawlerList| 爬虫资料索引
+# Crawler List | 爬虫资料索引
 
 - [推荐一些优秀的开源 Java 爬虫项目](https://zhuanlan.zhihu.com/p/24844250)
 

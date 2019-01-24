@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Decision TreeList| 决策树资料索引
+# Decision Tree List | 决策树资料索引
 
 - [2017-A Practical Guide to Tree Based Learning Algorithms](https://sadanand-singh.github.io/posts/treebasedmodels/): Common examples of tree based models are: decision trees, random forest, and boosted trees.
 

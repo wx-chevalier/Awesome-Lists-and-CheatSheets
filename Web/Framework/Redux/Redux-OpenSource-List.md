@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Redux OpenSourceList| Redux 开源工具
+# Redux OpenSource List | Redux 开源工具
 
 * [Redux Search #Project#](https://github.com/treasure-data/redux-search): Higher-order Redux library for searching collections of objects. Search algorithms powered by js-worker-search.
 

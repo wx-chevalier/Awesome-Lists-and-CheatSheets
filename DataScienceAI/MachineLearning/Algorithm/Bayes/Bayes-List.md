@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# BayesList| 贝叶斯理论及扩展资料索引
+# Bayes List | 贝叶斯理论及扩展资料索引
 
 - [贝叶斯集锦(4 )：贝叶斯统计基础](https://site.douban.com/182577/widget/notes/10567181/note/294041203/)
 

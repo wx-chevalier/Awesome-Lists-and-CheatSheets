@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Go OpenSourceList| Go 开源工具与框架索引
+# Go OpenSource List | Go 开源工具与框架索引
 
 - [Slack-Term #Project#](https://github.com/erroneousboat/slack-term): A Slack client for your terminal.
 

@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# JVM ClassList| JVM 类机制资料索引
+# JVM Class List | JVM 类机制资料索引
 
 - [2017-一篇文章读懂 Java 类加载器](http://www.jianshu.com/p/a6ba4f152968?utm_source=tuicool&utm_medium=referral): Java 类加载器算是一个老生常谈的问题，大多 Java 工程师也都对其中的知识点倒背如流，最近在看源码的时候发现有一些细节的地方理解还是比较模糊，正好写一篇文章梳理一下。
 

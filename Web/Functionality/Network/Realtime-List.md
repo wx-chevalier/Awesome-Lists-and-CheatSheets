@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# RealtimeList| 长连接与实时通信资料索引
+# Realtime List | 长连接与实时通信资料索引
 
 - [长连接/websocket/SSE 等主流服务器推送技术比较](https://zhuanlan.zhihu.com/p/31297574): 本文将介绍 web 常用的几种方式，希望给需要服务器端推送消息的同学在选型上有一点启发。
 

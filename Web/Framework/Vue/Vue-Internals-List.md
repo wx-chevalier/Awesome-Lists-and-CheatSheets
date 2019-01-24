@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Vue.js InternalsList| Vue.js 内部原理分析
+# Vue.js Internals List | Vue.js 内部原理分析
 
 - [深入浅出 - vue 之深入响应式原理](https://github.com/berwin/Blog/issues/11)
 

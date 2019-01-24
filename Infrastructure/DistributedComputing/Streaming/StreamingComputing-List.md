@@ -1,10 +1,10 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Streaming ComputingList| 流计算资料索引
+# Streaming Computing List | 流计算资料索引
 
 # Overview
 
-- [2015-Streaming 101 & 102](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102): In this post, I want to focus further on the data-processing patterns from last time, but in more detail, and within the context of concrete examples. 
+- [2015-Streaming 101 & 102](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102): In this post, I want to focus further on the data-processing patterns from last time, but in more detail, and within the context of concrete examples.
 
 # Resource
 

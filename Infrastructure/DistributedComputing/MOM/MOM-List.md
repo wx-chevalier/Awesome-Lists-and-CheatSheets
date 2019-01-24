@@ -2,7 +2,7 @@
 
 ![](https://img.readitlater.com/i/cdn-images-1.medium.com/max/800/1*LBocICeBuP3FSLPMBLA04g/RS/w1408.png?&ssl=1)
 
-# Message Oriented MiddlewareList| 消息中间件资料索引
+# Message Oriented Middleware List | 消息中间件资料索引
 
 # Overview
 

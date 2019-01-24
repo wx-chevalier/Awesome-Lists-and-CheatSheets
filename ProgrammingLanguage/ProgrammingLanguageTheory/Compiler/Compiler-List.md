@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# CompilerList| 编译原理资料索引
+# Compiler List | 编译原理资料索引
 
 There are massive curated links to help you study anything about Compiler head first, with tutorials, practices, opensource, courses, books, etc. You can search more links/books in [xCompass](https://https:wxyyxc1992.github.io/home/#/search?query=React).
 

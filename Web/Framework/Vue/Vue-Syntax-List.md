@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Vue.js SyntaxList| Vue.js 基础语法资料索引
+# Vue.js Syntax List | Vue.js 基础语法资料索引
 
 - [Let’s Build a Custom Vue Router](https://css-tricks.com/build-a-custom-vue-router/): In this article, we'll build a simple custom client-side router with Vue.
 
@@ -21,7 +21,7 @@
 - [2017-Animation and Data Visualization with Vue](https://parg.co/Ud3): Animation can explain whatever the mind can conceive. When animation is functionally applied to a website or app, the event flow can easily map with the user's ability to navigate through the app.
 
 - [2017-Creating Vue.js Transitions & Animation: Live Examples
-](https://snipcart.com/blog/vuejs-transitions-animations): I've prepared live demos on CodePen, code snippets, and an open source GitHub repo for you guys.
+  ](https://snipcart.com/blog/vuejs-transitions-animations): I've prepared live demos on CodePen, code snippets, and an open source GitHub repo for you guys.
 
 # Component Dataflow | 组件数据流
 

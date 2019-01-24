@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Web InternalsList| Web 运行原理与内部机制资料索引
+# Web Internals List | Web 运行原理与内部机制资料索引
 
 # Browser Rendering | 浏览器渲染
 
