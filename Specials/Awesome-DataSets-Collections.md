@@ -70,11 +70,13 @@
 
 - [NORB 3D Object Recognition](http://www.cs.nyu.edu/~ylclab/data/norb-v1.0/):Binocular images of 50 toy figurines for 3D object recognition from image.Multiple files, over 5GB total
 
-- [One Million Songs ](http://labrosa.ee.columbia.edu/millionsong/):Audio features and metadata for a subset (10,000) of the one million popular songs dataset for recognition/classification.1.8GB
+- [One Million Songs](http://labrosa.ee.columbia.edu/millionsong/): Audio features and metadata for a subset (10,000) of the one million popular songs dataset for recognition/classification.1.8GB
 
 - [Hate Speech Identification](https://www.crowdflower.com/wp-content/uploads/2016/03/twitter-hate-speech-classifier-DFE-a845520.csv):A sampling of Twitter posts that have been judged based on whether they are offensive or contain hate speech, as a training set for text analysis.2.66MB
 
 - [Hidden Beauty of Flickr Pictures](http://www.di.unito.it/~schifane/dataset/beauty-icwsm15/): 15,000 Flickr photo IDs that have received ratings based on aesthetics, for image analysis.138KB, use Flickr API to get images
+
+- [NSFW Data Scrapper #Project#](https://github.com/alexkimxyz/nsfw_data_scrapper): Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier.
 
 # 领域数据 | Domain
 
