@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Spring Cloud List| 学习与资料索引
+# Spring Cloud List | 学习与资料索引
 
 - [2015-Learning SpringCloud Infrastructure and Configuration](https://www.javacodegeeks.com/2015/06/learning-spring-cloud-infrastructure-and-configuration.html)
 
