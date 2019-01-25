@@ -8,8 +8,10 @@
 
 - [Using EXPLAIN ANALYZE to debug a slow SQL query](http://6me.us/VBTwlM)
 
-# Internals 
-
-- [The Internals of PostgreSQL #Series#](http://www.interdb.jp/pg/index.html): The main purposes of this document are to explain how each subsystem works, and to provide the whole picture of PostgreSQL.
+# Overview
 
 # Resources
+
+# Internals
+
+- [The Internals of PostgreSQL #Series#](http://www.interdb.jp/pg/index.html): The main purposes of this document are to explain how each subsystem works, and to provide the whole picture of PostgreSQL.
