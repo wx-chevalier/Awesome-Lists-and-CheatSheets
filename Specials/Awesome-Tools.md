@@ -142,9 +142,11 @@
 
 - [Syncthing #Project#](https://syncthing.net/): Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
 
-## 项目管理
+## Notes & Todos
 
 - [滴答清单]
+
+- [Joplin #Project#](https://github.com/laurent22/joplin): a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. 
 
 ## 协同编辑
 
