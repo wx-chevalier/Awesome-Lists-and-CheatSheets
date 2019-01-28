@@ -28,13 +28,15 @@
 
 - [2010-Database System Concepts-6th Edition #Book#](http://codex.cs.yale.edu/avi/db-book/db6/slide-dir/index.html):
 
-- [2014-SQL for MySQL: A Beginner's Tutorial #Book#](https://parg.co/oU1): This introduction to SQL for MySQL begins by discussing exactly how data is stored and maintained in a relational database, familiarizing readers with SQL INSERT, UPDATE, and DELETE statements.
+- [2012-The Internals of PostgreSQL #Book#](http://www.interdb.jp/pg/index.html): The main purposes of this document are to explain how each subsystem works, and to provide the whole picture of PostgreSQL.
 
-- [2015-Readings in Database Systems-5th Edition #Book#](http://www.redbook.io/): Readings in Database Systems (commonly known as the "Red Book") has offered readers an opinionated take on both classic and cutting-edge research in the field of data management since 1988.
+* [2014-SQL for MySQL: A Beginner's Tutorial #Book#](https://parg.co/oU1): This introduction to SQL for MySQL begins by discussing exactly how data is stored and maintained in a relational database, familiarizing readers with SQL INSERT, UPDATE, and DELETE statements.
 
-- [2016-Relational Database Design and Implementation, 4th Edition #Book#](https://parg.co/bjE): The book begins by reviewing basic concepts of databases and database design, then turns to creating, populating, and retrieving data using SQL.
+* [2015-Readings in Database Systems-5th Edition #Book#](http://www.redbook.io/): Readings in Database Systems (commonly known as the "Red Book") has offered readers an opinionated take on both classic and cutting-edge research in the field of data management since 1988.
 
-- [2018-SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL-4th Edition](https://parg.co/oUa)
+* [2016-Relational Database Design and Implementation, 4th Edition #Book#](https://parg.co/bjE): The book begins by reviewing basic concepts of databases and database design, then turns to creating, populating, and retrieving data using SQL.
+
+* [2018-SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL-4th Edition](https://parg.co/oUa)
 
 ## Collection
 

@@ -13,5 +13,3 @@
 # Resources
 
 # Internals
-
-- [The Internals of PostgreSQL #Series#](http://www.interdb.jp/pg/index.html): The main purposes of this document are to explain how each subsystem works, and to provide the whole picture of PostgreSQL.
