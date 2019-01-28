@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Collaborative Development List
+# 团队协作
 
 - [How to be a Programmer](https://github.com/ahangchen/How-to-Be-A-Programmer-CN): 做一个好的程序员 , 困难而高尚。将一个软件工程集体愿景变为现实，最困难的地方在于与你的同事和顾客相处。编程很重要，这需要强大的智力和技能。 但在好的程序员看来，相比构建一个让客户和各种各样的同事都满意的软件系统，(纯粹的)编程真的只是小孩子的玩意。在这篇文章里，我尝试尽可能简洁地总结那些当我 21 岁时，希望别人告诉我的事。
 
@@ -49,3 +49,7 @@
 - [《番茄工作法图解》作者分享：番茄工作法的实际使用](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=400033721&idx=1&sn=6c0fe97beb6edd8971b5997efbcd2513&scene=21#wechat_redirect)
 
 * [百姓网艾芙：用技术让生活更有趣儿](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=206530770&idx=1&sn=316d860f4dd1d8fa33e2b2a01e65bda0&scene=21#wechat_redirect)
+
+# 沟通
+
+- [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way): 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
