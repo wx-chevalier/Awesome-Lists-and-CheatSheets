@@ -46,6 +46,10 @@
 
 - [2017-SimpleDB #Project#](https://github.com/iamxpy/SimpleDB): UC Berkeley's Database class CS186: Implement A Simple Database Management System
 
+## Papers
+
+- [2013-F1: A Distributed SQL Database That Scales #Paper#](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41344.pdf): F1 is a distributed relational database system built at Google to support the AdWords business.
+
 # Relational DataBase
 
 - [2013-How did the modern relational database come to be?](https://www.linkedin.com/pulse/how-did-modern-relational-database-come-david-mccaldin): The purpose of this Annotated Bibliography is to illustrate, in chronological order, the major development of database models from 1st generation (network model etc) to second generation (relational) to 3rd generation (e.g. semantic). The Bibliography is presented in order of the year when the paper was published.
