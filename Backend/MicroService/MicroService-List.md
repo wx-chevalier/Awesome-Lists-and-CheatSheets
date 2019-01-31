@@ -32,8 +32,6 @@
 
 - 今日头条：[今日头条 Go 建千亿级微服务的实践](https://zhuanlan.zhihu.com/p/26695984)
 
-- [微服务部署：蓝绿部署、滚动部署、灰度发布等部署方案对比与总结](http://mp.weixin.qq.com/s/EOsVEvZ95onDXJPsjMoA2g)
-
 * [2017-The evolution of scalable microservices](https://www.oreilly.com/ideas/the-evolution-of-scalable-microservices): In this article, we will look at microservices, not as a tool to scale the organization, development and release process (even though it's one of the main reasons for adopting microservices), but from an architecture and design perspective, and put it in its true context: distributed systems.
 
 * [2017-Testing Strategies in Microservices Architecture](https://parg.co/bec): Microservices is a new term introduced which changed the architecture of the software development, moreover, it changes the working culture of the teams the way teams work together.
