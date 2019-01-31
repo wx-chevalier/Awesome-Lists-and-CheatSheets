@@ -10,7 +10,19 @@ AwesomeList 是记录了笔者在日常阅读、学习与实践中发掘的优�
 
 ![default](https://user-images.githubusercontent.com/5803001/47262684-025c2e00-d522-11e8-8c82-4a5afcf428d1.png)
 
-**建议前往 [xCompass](https://wxyyxc1992.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程，或者直接浏览本仓库的目录以了解更多内容。**
+# Nav | 导航
+
+Finally, Let these lists speak for themselves:
+
+- If you wan't to learn Web Development, you may like [DOM List](./Web/Syntax/DOM/DOM-List.md), [CSS List](./Web/Syntax/CSS/CSS-List.md), [React List](./Web/Framework/React/React-List.md), [Redux List](./Web/Framework/Redux/Redux-List.md), [Vue List](./Web/Framework/Vue/Vue-List.md), [PWA List](./Web/Tuning/PWA/Web-PWA-List.md), [Web Performance List](./Web/Tuning/Performance/Web-Performance-List.md), [WebAssembly List](), etc.
+
+- If you wan't to learn Java, Go, MicroService... you may like [Java List](./Web/Syntax/DOM/DOM-List.md), [JVM List](./ProgrammingLanguage/Java/JVM/JVM-List.md), [Go List](./ProgrammingLanguage/Go/Go-List.md), [MicroService List](./Backend/MicroService/MicroService-List.md), [Spring List](./Backend/WebFramework/Java/Spring/Spring-List.md), [DevOps List](./Backend/DevOps/DevOps-List.md), etc.
+
+- 如果想了解分布式系统、虚拟化调度、数据库、分布式存储、分布式计算、操作系统等领域的知识，可以参阅 [Docker List](./Infrastructure/Virtualization/Container/Docker/Docker-List.md), [Kubernetes List](./Infrastructure/Virtualization/Orchestration/Kubernetes/Kubernetes-List.md), [Linux List](./Infrastructure/OS/Linux/Linux-List.md), [HTTP List](./Infrastructure/Network/HTTP/HTTP-List.md), [Distributed System List](./Infrastructure/DistributedSystem/DistributedSystem-List.md), [Blockchain List](./Infrastructure/DistributedSystem/Blockchain/Blockchain-List.md), [Flink List](./Infrastructure/DistributedComputing/Streaming/Flink/Flink-List.md), [Kafka List](./Infrastructure/DistributedComputing/MOM/Kafka-List.md), [Database List](./Infrastructure/Database/Database-List.md), [MySQL List](./Infrastructure/Database/RDB/MySQL/MySQL-List.md), [PostgreSQL List](./Infrastructure/Database/RDB/PostgreSQL/PostgreSQL-List.md), etc.
+
+- If you wan't to learn AI, DeepLearning, TensorFlow... you may like [DataScienceAI Book List](./DataScienceAI/DataScienceAI-Book-List.md), [DataScienceAI Course List](./DataScienceAI/DataScienceAI-Course-List.md), [Machine Learning List](./DataScienceAI/MachineLearning/MachineLearning-List.md), [Deep Learning List](./DataScienceAI/DeepLearning/DeepLearning-List.md), [NLP List](./DataScienceAI/NLP/NLP-List.md), [TensorFlow List](./DataScienceAI/Toolkit/TensorFlow/TensorFlow-List.md), [PyTorch List](./DataScienceAI/Toolkit/PyTorch/PyTorch-List.md), etc.
+
+建议前往 [xCompass](https://wxyyxc1992.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程，或者直接浏览本仓库的目录以了解更多内容，也可以使用 [alfred-sg](https://github.com/wxyyxc1992/xCompass/tree/master/soogle/alfred-sg) 在 MAC 设备上进行快速检索。
 
 # Preface | 前言
 
