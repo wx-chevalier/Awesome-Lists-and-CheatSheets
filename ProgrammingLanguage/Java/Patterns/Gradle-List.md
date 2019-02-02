@@ -2,7 +2,13 @@
 
 # Gradle List
 
-- [Gradle Links](#gradle-links)
+# Overview
+
+## Case Study
+
+- [Gradle 在大型 Java 项目上的应用](http://www.infoq.com/cn/articles/Gradle-application-in-large-Java-projects/)
+
+# Resources
 
 - [How to decrease your Gradle build time by 65%?](http://6me.us/QpxUcN)
 
@@ -12,8 +18,10 @@
 
 * [Gradle 学习系列](http://www.cnblogs.com/CloudTeng/p/3417762.html)
 
-* [Gradle 实战](https://lippiouyang.gitbooks.io/gradle-in-action-cn/content/index.html)
+- [Gradle 奇技淫巧](http://blog.chengyunfeng.com/)
 
-* [Gradle 奇技淫巧](http://blog.chengyunfeng.com/)
+- [受用不尽的 Gradle 使用方法与技巧](http://www.tuicool.com/articles/i2Ijiin)
 
-* [受用不尽的 Gradle 使用方法与技巧](http://www.tuicool.com/articles/i2Ijiin)
+## Books
+
+- [Gradle 实战](https://lippiouyang.gitbooks.io/gradle-in-action-cn/content/index.html)
