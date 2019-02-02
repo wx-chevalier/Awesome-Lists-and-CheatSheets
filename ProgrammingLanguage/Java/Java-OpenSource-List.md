@@ -111,6 +111,8 @@
 
 - JProfiler
 
+- [Jolokia](https://jolokia.org/):Remote JMX with JSON over HTTP
+
 ## GC
 
 - [GCViewer #Project#](https://github.com/chewiebug/GCViewer): Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector)
