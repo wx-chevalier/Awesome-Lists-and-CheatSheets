@@ -10,6 +10,8 @@
 
 - [2018-Gooact: React in 160 lines of JavaScript](https://parg.co/Y5s): How to build own React clone in a matter of minutes.
 
+- [2019-React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/): This is a deep dive — THIS IS NOT a beginner-friendly post. In this post, I’m describing most of the React programming model from first principles. I don’t explain how to use it — just how it works.
+
 # Virtual DOM
 
 - [2013-Performance Calendar: React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
