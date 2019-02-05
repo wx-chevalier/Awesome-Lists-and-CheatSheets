@@ -59,3 +59,5 @@ This file aggregates curated popular links for learning Redux. More reference ab
 - [2017-React Redux Cheat Sheet on Workflow & Concept](https://github.com/uanders/react-redux-cheatsheet): This article contains a graphical cheat sheet for the workflow and concept of Redux.
 
 - [React and Redux Sagas Authentication App Tutorial](http://start.jcolemorrison.com/react-and-redux-sagas-authentication-app-tutorial/)
+
+- [中文的 React+Redux 系列教程](https://github.com/lewis617/react-redux-tutorial)

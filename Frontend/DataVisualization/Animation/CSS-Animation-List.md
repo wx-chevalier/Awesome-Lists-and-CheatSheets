@@ -34,7 +34,15 @@
 
 - [Popular Web Animation Techniques](https://uxplanet.org/popular-web-animation-techniques-a6a467309028#.d2oei0zgn)
 
-## Collection：动画合集
+- [GPU Animation: Doing It Right](https://www.smashingmagazine.com/2016/12/gpu-animation-doing-it-right/)
+
+- [一篇文章说清浏览器解析和 CSS(GPU)动画优化](https://segmentfault.com/a/1190000008015671?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+
+- [精选！CSS 动画之工具、框架和教程](https://zhuanlan.zhihu.com/p/24931899)
+
+- [AlloyTouch-transformjs](http://alloyteam.github.io/AlloyTouch/transformjs/)
+
+- [搞定这些疑难杂症，向 css3 动画说 yes](http://www.imweb.io/topic/5643850eed18cc424277050e#rd)
 
 # JavaScript Animation
 
@@ -43,6 +51,12 @@
 - [2017-Gain Motion Superpowers with requestAnimationFrame](https://parg.co/bDt)
 
 - [intro-to-the-web-animations-api](https://pawelgrzybek.com/intro-to-the-web-animations-api/)
+
+* [Understanding JavaScript's requestAnimationFrame() method for smooth animations](http://www.javascriptkit.com/javatutors/requestanimationframe.shtml)
+
+* [性能更好的 js 动画实现方式——requestAnimationFrame](http://www.js-code.com/JavaScript/2016022453238.html)
+
+* [CSS3 动画那么强，requestAnimationFrame 还有毛线用？](http://www.zhangxinxu.com/wordpress/2013/09/css3-animation-requestanimationframe-tween-%e5%8a%a8%e7%94%bb%e7%ae%97%e6%b3%95/)
 
 ## Animation Engine：动画引擎
 
@@ -54,7 +68,7 @@
 
 - [mojs #Project#](https://github.com/legomushroom/mojs)
 
-# Animation Case: 动画案例
+# Animation Case | 动画案例
 
 - [CSS3 动画实践 – 2017 京东集团开年大会项目有趣的动画实现](http://jdc.jd.com/archives/3337)
 
@@ -71,7 +85,3 @@
 - [Secret View preloader animation](https://codepen.io/anon/pen/wrVygR)
 
 - [lottie-web #Project#](https://github.com/airbnb/lottie-web): Render After Effects animations natively on Web, Android and iOS, and React Native.
-
-# Animation Engine: 动画引擎
-
-- [2017-Popmotion #Project#](https://popmotion.io/): A functional JavaScript motion library.

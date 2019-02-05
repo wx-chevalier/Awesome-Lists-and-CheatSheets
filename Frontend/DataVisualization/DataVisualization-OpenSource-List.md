@@ -50,13 +50,15 @@
 
 - [react-motion #Project#](https://github.com/chenglou/react-motion): A spring that solves your animation problems.
 
-- [react-move #Project#](https://github.com/react-tools/react-move): React Move 🌀 Beautiful, data-driven animations for React.
+- [2017-Popmotion #Project#](https://popmotion.io/): A functional JavaScript motion library.
 
-- [popmotion #Project#](https://github.com/Popmotion/popmotion): Simple animation libraries for delightful user interfaces.
+* [react-move #Project#](https://github.com/react-tools/react-move): React Move 🌀 Beautiful, data-driven animations for React.
 
-* [2017-animateplus #Project#](https://github.com/bendc/animateplus): Animate Plus is a JavaScript animation library focusing on performance and authoring flexibility. It aims to deliver a steady 60 FPS and weighs less than 3 KB (minified and compressed), making it particularly well-suited for mobile
+* [popmotion #Project#](https://github.com/Popmotion/popmotion): Simple animation libraries for delightful user interfaces.
 
-- [2017-Ant Motion #Project#](https://motion.ant.design/): 使用 Ant Motion 能够快速在 React 框架中使用动画；我们提供了单项，组合动画，以及整套解决方案。
+- [2017-animateplus #Project#](https://github.com/bendc/animateplus): Animate Plus is a JavaScript animation library focusing on performance and authoring flexibility. It aims to deliver a steady 60 FPS and weighs less than 3 KB (minified and compressed), making it particularly well-suited for mobile
+
+* [2017-Ant Motion #Project#](https://motion.ant.design/): 使用 Ant Motion 能够快速在 React 框架中使用动画；我们提供了单项，组合动画，以及整套解决方案。
 
 ## Graphic Animation
 

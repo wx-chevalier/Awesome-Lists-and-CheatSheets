@@ -12,6 +12,12 @@
 
 - [2019-React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/): This is a deep dive — THIS IS NOT a beginner-friendly post. In this post, I’m describing most of the React programming model from first principles. I don’t explain how to use it — just how it works.
 
+- [React 源码剖析系列 － 解密 setState](https://zhuanlan.zhihu.com/p/20328570?refer=purerender)
+
+* [为什么 setState 没有立即执行](http://www.jianshu.com/p/2d50a413e74a)
+
+* [拆解 setState[一][一源看世界][之 React]](http://www.jianshu.com/p/47f24add2b5e)
+
 # Virtual DOM
 
 - [2013-Performance Calendar: React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)

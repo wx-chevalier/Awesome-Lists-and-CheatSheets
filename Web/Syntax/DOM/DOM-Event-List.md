@@ -10,13 +10,41 @@
 
 - [如何让 H5 体验接近 APP：(一)触摸反馈](https://segmentfault.com/a/1190000006864910)
 
-# DnD: 拖拽事件
+# Event Handle
+
+## Event Delegation
+
+- [JavaScript 事件冒泡与事件捕获](http://www.cnblogs.com/zichi/p/4713038.html)
+
+* [How JavaScript Event Delegation Works](http://davidwalsh.name/event-delegate)
+
+* [Event Delegation versus Event Handling](http://icant.co.uk/sandbox/eventdelegation/)
+
+* [jQuery.delegate](http://api.jquery.com/delegate/) is event delegation + selector specification
+
+* [jQuery.on](http://api.jquery.com/on/#direct-and-delegated-events) uses event delegation when passed a selector as the 2nd parameter
+
+* [Event delegation without a JavaScript library](http://web.archive.org/web/20090420170842/http://usabletype.com/weblog/event-delegation-without-javascript-library/)
+
+* [Closures vs Event delegation](http://lists.evolt.org/archive/Week-of-Mon-20090209/127339.html): takes a look at the pros of _not_ converting code to use event delegation
+
+- Interesting approach PPK uncovered for [delegating the `focus` and `blur` events](http://www.quirksmode.org/blog/archives/2008/04/delegating_the.html) (which do *not*bubble)
+
+# Event Type
+
+## Touch Event
+
+- [Introduction to Touch events in JavaScript](http://www.javascriptkit.com/javatutors/touchevents.shtml)
+
+## DnD | 拖拽事件
 
 - [2015-dragula](https://github.com/bevacqua/dragula): Drag and drop so simple it hurts
 
 - [Rethinking drag and drop Taking something basic and making it beautiful](https://medium.com/@alexandereardon/rethinking-drag-and-drop-d9f5770b4e6b)
 
 - [2010-Native HTML5 Drag and Drop](https://www.html5rocks.com/en/tutorials/dnd/basics/): Drag and drop (DnD) is a first class citizen in HTML5! The spec defines an event-based mechanism, JavaScript API, and additional markup for declaring that just about any type of element be draggable on a page.
+
+- [超小 Web 手势库 AlloyFinger 原理](http://www.cnblogs.com/iamzhanglei/p/6053235.html)
 
 # Scroll & Visibility: 滚动事件与可见性
 
