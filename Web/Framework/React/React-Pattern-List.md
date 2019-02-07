@@ -123,3 +123,5 @@
 - [2018-Ultimate React Component Patterns with Typescript 2.8](https://parg.co/UDE): Stateful, Stateless, Default Props, Render Callbacks, Component Injection, Generic Components, High Order Components, Controlled Components.
 
 - [2018-react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide): The complete guide to static typing in "React & Redux" apps using TypeScript
+
+- [2018-TypeScript and React](https://fettblog.eu/typescript-react/): With that, TypeScript and React are a perfect fit. You will enjoy combining both technologies together to get huge productivity boost when writing your applications!
