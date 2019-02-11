@@ -1,7 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists) 
  
-
-# HTTP  Learning & Practices List
+# HTTP List
 
 - [互联网协议的演变之路](https://mp.weixin.qq.com/s/pyyhRkaWtMhGR9Yh6lP-lw): 网络协议诞生至今，已经发生了哪些变化、未来还将迎来哪些演进，这会给网络带来怎样的影响，以及网络又会如何左右协议的设计思路？
 
@@ -16,6 +15,12 @@
 * [阮一峰 ——HTTP 协议入门](HTTP://www.ruanyifeng.com/blog/2016/08/HTTP.html)
 
 * [High Performance Browser Networking](HTTP://chimera.labs.oreilly.com/books/1230000000545/index.html)
+
+# Resources
+
+## Books
+
+- [2018-HTTP/3 explained #Book#](https://http3-explained.haxx.se/en/): This book effort was started in March 2018. The plan is to document HTTP/3 and its underlying protocol: QUIC. Why, how they work, protocol details, the implementations and more.
 
 ## Request
 
