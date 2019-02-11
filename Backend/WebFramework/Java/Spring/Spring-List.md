@@ -28,12 +28,6 @@
 
 - [Spring 知识点提炼](http://www.importnew.com/19933.html)
 
-## Series
-
-- [2016-SpringBootForBeginners #Series#](https://github.com/in28minutes/SpringBootForBeginners): In this course, you will learn the cool things about Spring Boot and Spring Boot Starter Projects. We will develop a basic REST Service to manage questions of a survey.
-
-* [2017-Sprint Boot 完整教程 #Series#](https://blog.csdn.net/column/details/13466.html): 从功能性的角度开始讲解 SpringBoot 的用户，层层递进。全教程分为两个等级初级和高级，完美讲述了 SpringBoot 在开发过程中的使用。
-
 ## Books
 
 - [2018-Spring Boot Reference Guide #Book#](https://docs.spring.io/spring-boot/docs/2.1.x-SNAPSHOT/reference/html/): 中文版本参考 [SpringBoot 参考指南](https://www.gitbook.com/book/qbgbook/spring-boot-reference-guide-zh/details)
@@ -41,6 +35,14 @@
 ## Courses
 
 - [2018-The "REST with Spring" Classes #Course#](https://github.com/eugenp/tutorials): This project is a collection of small and focused tutorials - each covering a single and well defined area of development in the Java ecosystem. A strong focus of these is, of course, the Spring Framework - Spring, Spring Boot and Spring Securiyt. In additional to Spring, the following technologies are in focus: core Java, Jackson, HttpClient, Guava.
+
+## Series
+
+- [浅入浅出 Java Web #Series#](https://github.com/letiantian/another-tutorial-about-java-web): 浅入浅出 Java Web
+
+- [2016-Spring Boot For Beginners #Series#](https://github.com/in28minutes/SpringBootForBeginners): In this course, you will learn the cool things about Spring Boot and Spring Boot Starter Projects. We will develop a basic REST Service to manage questions of a survey.
+
+* [2017-Sprint Boot 完整教程 #Series#](https://blog.csdn.net/column/details/13466.html): 从功能性的角度开始讲解 Spring Boot 的用户，层层递进。全教程分为两个等级初级和高级，完美讲述了 Spring Boot 在开发过程中的使用。
 
 # Spring Boot
 
@@ -86,7 +88,7 @@
 
 ## Test | 测试
 
-- [2018-Testing in Spring Boot](https://www.baeldung.com/spring-boot-testing): In this article, we’ll have a look at writing tests using the framework support in Spring Boot. 
+- [2018-Testing in Spring Boot](https://www.baeldung.com/spring-boot-testing): In this article, we’ll have a look at writing tests using the framework support in Spring Boot.
 
 - [2018-Unit and Integration Tests in Spring Boot](https://dzone.com/articles/unit-and-integration-tests-in-spring-boot-2): Learn how to write unit and integration tests in a Spring Boot environment and the tools to facilitate this in this tutorial.
 
@@ -110,4 +112,4 @@
 
 ## IoC
 
-- [2018-徒手撸框架–实现IoC](https://github.com/diaozxin007/xilidou-framework): Spring 作为 J2ee 开发事实上的标准，是每个Java开发人员都需要了解的框架。但是Spring 的 IoC 和 Aop 的特性，对于初级的Java开发人员来说还是比较难于理解的。所以我就想写一系列的文章给大家讲解这些特性。从而能够进一步深入了解 Spring 框架。
+- [2018-徒手撸框架–实现 IoC](https://github.com/diaozxin007/xilidou-framework): Spring 作为 J2ee 开发事实上的标准，是每个 Java 开发人员都需要了解的框架。但是 Spring 的 IoC 和 Aop 的特性，对于初级的 Java 开发人员来说还是比较难于理解的。所以我就想写一系列的文章给大家讲解这些特性。从而能够进一步深入了解 Spring 框架。
