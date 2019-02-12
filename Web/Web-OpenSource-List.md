@@ -46,6 +46,8 @@ The contents organization form follows [Web MindMap](),
 
 - [2018-whatcss #Project#](https://github.com/jonroig/whatcss): WhatCSS.info: CSS StyleSheet Pageload Analyser/Optimizer 🤷
 
+- [2018-instant.page #Project#](https://github.com/instantpage/instant.page): Make your site’s pages instant in 1 minute and improve your conversion rate by 1%.
+
 ## Rendering
 
 ## Image
