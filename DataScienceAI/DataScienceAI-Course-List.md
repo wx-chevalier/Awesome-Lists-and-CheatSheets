@@ -28,6 +28,8 @@
 
 - [2018-Machine Learning and Medicine #Course#](https://sgfin.github.io/learning-resources/): This is a not-particularly-systematic attempt to curate a handful of my favorite resources for learning statistics and machine learning.
 
+- [mlcourse.ai #Course#](https://github.com/Yorko/mlcourse.ai): Open Machine Learning Course
+
 # Deep Learning
 
 - [2016-Deep Learning by Google #Course#](https://parg.co/Y6N): In this course, you’ll develop a clear understanding of the motivation for deep learning, and design intelligent systems that learn from complex and/or large-scale datasets.
