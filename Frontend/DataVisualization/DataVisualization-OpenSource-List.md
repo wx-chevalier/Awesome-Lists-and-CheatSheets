@@ -159,3 +159,7 @@
 - [2015-Caravel #Project#](https://github.com/airbnb/caravel): Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 
 - [2016-Redash #Project#](https://github.com/getredash/redash): Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+
+# Others
+
+- [Datashader #Project#](https://github.com/pyviz/datashader): Datashader is a data rasterization pipeline for automating the process of creating meaningful representations of large amounts of data. 

@@ -18,6 +18,8 @@
 
 - [2017-Turi Create #Project#](https://github.com/apple/turicreate): Turi Create simplifies the development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
 
+- [Ludwig #Project#](https://uber.github.io/ludwig/): Ludwig is a toolbox that allows to train and test deep learning models without the need to write code.
+
 ## Business Intelligence
 
 - [Apache Superset](https://github.com/apache/incubator-superset): Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application. [Superset: Airbnb’s data exploration platform](https://parg.co/bIh)
