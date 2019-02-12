@@ -15,8 +15,6 @@ Awesome List of Open source applications for macOS, Self-hosted Service, etc.
 
 - [wallabag #Project#](https://github.com/wallabag/wallabag): wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 
-- [Spectrum #Project#](https://github.com/withspectrum/spectrum): This is the main monorepo codebase of Spectrum. Every single line of code that's not packaged into a reusable library is in this repository.
-
 - [jsonstore #Project#](https://github.com/bluzi/jsonstore): jsonstore.io offers a free, secured and JSON based cloud datastore for small projects.
 
 - [Reverse engineering WhatsApp Web. #Project#](https://github.com/sigalor/whatsapp-web-reveng): This project intends to provide a complete description and re-implementation of the WhatsApp Web API, which will eventually lead to a custom client. WhatsApp Web internally works using WebSockets; this project does as well.
@@ -38,3 +36,7 @@ Awesome List of Open source applications for macOS, Self-hosted Service, etc.
 - [Directus #Project#](https://github.com/directus/directus): Directus is an Open-Source Headless CMS & API for Managing Custom Databases
 
 - [Canner #Project#](https://github.com/Canner/canner): Universal CMS framework using React & Apollo GraphQL for Firebase, Prisma, GraphQL, Restful API
+
+# Community
+
+- [Spectrum #Project#](https://github.com/withspectrum/spectrum): This is the main monorepo codebase of Spectrum. Every single line of code that's not packaged into a reusable library is in this repository.
