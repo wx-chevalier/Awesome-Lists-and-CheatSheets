@@ -20,6 +20,8 @@
 
 - [2017-Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567): “high-level programming language, and its core design philosophy is all about code readability and a syntax which allows programmers to express concepts in a few lines of code.”
 
+- [Python Cheatsheet](https://github.com/gto76/python-cheatsheet): Comprehensive Python Cheatsheet 
+
 # Resource | 资源
 
 ## Book
