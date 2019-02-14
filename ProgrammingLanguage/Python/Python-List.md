@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
-# Python Learning & Practices List
+# Python List
 
 # Overview | 概述
 
@@ -19,6 +19,8 @@
 - [Python cheatsheet #Project#](https://www.pythonsheets.com/): This project tries to provide a lot of piece of Python code that makes life easier.
 
 - [2017-Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567): “high-level programming language, and its core design philosophy is all about code readability and a syntax which allows programmers to express concepts in a few lines of code.”
+
+- [Python Cheatsheet](https://github.com/gto76/python-cheatsheet): Comprehensive Python Cheatsheet 
 
 # Resource | 资源
 
