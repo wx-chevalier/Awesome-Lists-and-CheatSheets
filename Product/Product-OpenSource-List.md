@@ -8,6 +8,6 @@
 
 - [Bubble](https://bubble.is/): Build software by pointing and clicking.
 
-# Web Template 
+# Web Template
 
 - [Cruip](https://cruip.com)

@@ -95,6 +95,10 @@ UI 设计的主要工作都包括进去了，如果能够将这三本书很好�
 
 文章包括行业经验分享、研究工具探索、总结项目实践、设计管理心得、预测发展趋势，以及理论研究与探讨，其中既有当今行业国内外资深专家或教授的专题撰写，也有往年 UXPA 文集中的精选佳作，更有行业最前沿的投稿评选精品。[《用户体验百家谈》](http://book.douban.com/subject/25773225/)
 
-# Enterprise Design 
+# Enterprise Design
 
 - [2018-How white space killed an enterprise app (and why data density matters)](https://uxdesign.cc/how-white-space-killed-an-enterprise-app-and-why-data-density-matters-b3afad6a5f2a)
+
+* [2014-Steve-Don’t Make Me Think, Revisited #Book#](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf): A Common Sense Approach to Web Usability.
+
+* [2017-The Design of Everyday Things #Book#](http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf): This is a starter kit for good design. It is intended to be enjoyable and informative for everyone: everyday people, technical people, designers, and nondesigners.
