@@ -2,7 +2,7 @@
 
 # Monitor & Alert Links: 监控与告警资料索引
 
-# Cluster&OS: 集群与主机监控
+# 监控与告警
 
 - [2016-osquery For Security](https://medium.com/@clong/osquery-for-security-b66fffdf2daf): This post contains an overview of how to create an osquery config, centralize the log output, and start creating effective searches and alerts.
 
@@ -10,7 +10,11 @@
 
 - [2017-新思路设计可视化大型微服务监控系统](https://mp.weixin.qq.com/s/UTcpXJcrIERHZYmLkt1gog):达达 - 京东到家的 Overwatch 系统已经在线上运行了一年有余，采用了创新性的可视化监控设计，并成功帮助达达。
 
-# Distributed Tracing: 分布式追踪
+# Distributed Tracing | 分布式追踪
+
+- [分布式会话跟踪系统架构设计与实践](http://www.tuicool.com/articles/Az6FRz)
+
+- [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://research.google.com/pubs/pub36356.html)
 
 # APM: 线上应用监控
 
