@@ -1,5 +1,9 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
 
+# CPU
+
+- [2018-What's a CPU to do when it has nothing to do?](https://lwn.net/Articles/767630/): At Kernel Recipes 2018, Rafael Wysocki discussed what CPUs do when they don't have anything to do
+
 # Linux SysProc List
 
 - [浅析 Linux 初始化 init 系统，第 1 部分: sysvinit](http://www.ibm.com/developerworks/cn/linux/1407_liuming_init1/)
