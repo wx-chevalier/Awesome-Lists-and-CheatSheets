@@ -4,7 +4,7 @@
 
 # Overview | 概述
 
-- [2015-an-introduction-to-microservices](https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/)
+- [2015-An Introduction to MicroServices #Series#](https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/)
 
 * [2016-架构的本质是管理复杂性，微服务本身也是架构演化的结果](https://parg.co/YUM): 我就职于携程旅游网框架研发部，有幸主导了携程服务化体系和无线 API 网关的建设，本分享基于我之前的实战经验，以及自己近期在业余时间对业界服务化最新进展的学习、思考和总结。
 
@@ -62,6 +62,10 @@
 
 * [2018-从 Spring Cloud 开始，聊聊微服务架构实践之路](http://mp.weixin.qq.com/s/DZQU4s9YNx4fXsfwu5whIg): 平台的技术架构也完成了从传统的单体应用到微服务化的演进。
 
+# Demos | 实例
+
+- [2018-Hipster Shop #Project#](https://github.com/GoogleCloudPlatform/microservices-demo): Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.
+
 # Architecture Patterns | 架构模式
 
 - [微服务架构的 4 大设计原则和 1 个平台实践](https://mp.weixin.qq.com/s/dmPhaERxkDlC2lbzgJIMgg):
@@ -92,8 +96,6 @@
 * [架构的本质是管理复杂性，微服务本身也是架构演化的结果](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=411129391&idx=1&sn=ebf06fb5cc4a5f57f86341ba4114cab8&scene=0#wechat_redirect)
 
 * [微服务的性能模式](http://blog.oneapm.com/apm-tech/657.html)
-
-- [an-introduction-to-microservices](https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/)
 
 - [微服务 (Microservices)](http://blog.csdn.net/wurenhai/article/details/37659335)
 
