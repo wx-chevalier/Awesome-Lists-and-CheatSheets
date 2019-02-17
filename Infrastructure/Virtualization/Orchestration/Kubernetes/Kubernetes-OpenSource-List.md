@@ -2,14 +2,16 @@
 
 # Kubernetes OpenSource List
 
-* [2018-Scaling Kubernetes to 2,500 Nodes](https://parg.co/Uke): On the path to this scale, many system components caused breakages, including etcd, the Kube masters, Docker image pulls, network, KubeDNS, and even our machines’ ARP caches.
+- [OpenEBS](https://www.openebs.io/): OpenEBS is an open source storage platform that provides persistent and containerized block storage for DevOps and container environments.
 
-* [OpenEBS](https://www.openebs.io/): OpenEBS is an open source storage platform that provides persistent and containerized block storage for DevOps and container environments.
+- [Skaffold #Project#](https://github.com/GoogleCloudPlatform/skaffold): Skaffold is a command line tool that facilitates continuous development for Kubernetes applications.
 
-* [Skaffold #Project#](https://github.com/GoogleCloudPlatform/skaffold): Skaffold is a command line tool that facilitates continuous development for Kubernetes applications.
+- [Kubernetes Helm #Project#](https://github.com/kubernetes/helm): Helm is a tool for managing Kubernetes charts. Charts are packages of pre-configured Kubernetes resources.
 
-* [Kubernetes Helm #Project#](https://github.com/kubernetes/helm): Helm is a tool for managing Kubernetes charts. Charts are packages of pre-configured Kubernetes resources.
+- [Brigade #Project#](https://github.com/Azure/brigade): Script simple and complex workflows using JavaScript. Chain together containers, running them in parallel or serially. Fire scripts based on times, GitHub events, Docker pushes, or any other trigger. Brigade is the tool for creating pipelines for Kubernetes.
 
-* [Brigade #Project#](https://github.com/Azure/brigade): Script simple and complex workflows using JavaScript. Chain together containers, running them in parallel or serially. Fire scripts based on times, GitHub events, Docker pushes, or any other trigger. Brigade is the tool for creating pipelines for Kubernetes.
+* [Wayne #Project#](https://github.com/Qihoo360/wayne): Web UI for Kubernetes multi-clusters
 
-- [Wayne #Project#](https://github.com/Qihoo360/wayne): Web UI for Kubernetes multi-clusters
+* [krew #Project#](https://github.com/GoogleContainerTools/krew): krew is the package manager for kubectl plugins.
+
+* [kubectx #Project#](https://github.com/ahmetb/kubectx): Switch faster between clusters and namespaces in kubectl
