@@ -53,3 +53,7 @@
 # 沟通
 
 - [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way): 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
+
+# 需求管理
+
+- [十年老产品经理教你管理需求池](http://www.woshipm.com/pmd/510851.html)

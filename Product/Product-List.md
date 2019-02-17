@@ -59,6 +59,6 @@
 《Mobile Design Pattern Gallery》  
 《简约至上》
 
-# 需求管理
+# 产品思维
 
-- [十年老产品经理教你管理需求池](http://www.woshipm.com/pmd/510851.html)
+- [产品思维系列 #Series#](https://zhuanlan.zhihu.com/p/55741247): 在产品设计领域，有五种最基础的产品思维框架：本质思维、相对思维、抽象思维、系统思维以及演化思维。
