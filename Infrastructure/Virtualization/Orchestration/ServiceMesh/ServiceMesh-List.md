@@ -6,6 +6,8 @@
 
 - [解读 2017 之 Service Mesh：群雄逐鹿烽烟起](https://mp.weixin.qq.com/s/ur3PmLZ6VjP5L5FatIYYmg): 2017 年的 Service Mesh 历程，在平淡中开始，如戏剧般结束，留给我们一个充满想象和憧憬的 2018。让我们一起来回顾这堪称精彩的一年。
 
+- [2018-下一代微服务！ServiceMesh的2018年度总结](https://mp.weixin.qq.com/s/5j-1B5U8q2kE7f_DvPrBaw): 本次年度总结将由来自聚集国内 ServiceMesh 爱好者的 ServiceMesher 社区 的多位嘉宾共襄盛举，希望能为 Service Mesh 2018 年的发展做一个系统而全面的总结。
+
 # Istio
 
 - [2018-阿里云 Kubernetes Service Mesh 实践，Istio 篇](https://yq.aliyun.com/articles/599874)
