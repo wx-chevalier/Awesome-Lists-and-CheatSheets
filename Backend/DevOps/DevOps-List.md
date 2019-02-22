@@ -15,3 +15,9 @@
 - [运维知识体系](https://www.unixhot.com/page/ops)
 
 - [应用性能监控分类](http://www.infoq.com/cn/news/2015/08/monitoring-applications-category)
+
+# Resources
+
+## Books
+
+- [2017-Chaos Engineering #Book#](https://learning.oreilly.com/library/view/chaos-engineering/9781491988459/): By introducing controlled experiments, you’ll learn how emergent behavior from component interactions can cause your system to drift into an unsafe, chaotic state.
