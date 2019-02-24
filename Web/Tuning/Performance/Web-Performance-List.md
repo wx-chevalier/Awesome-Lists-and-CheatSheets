@@ -32,6 +32,8 @@
 
 - [美团境外业务性能优化实践](https://zhuanlan.zhihu.com/p/33179166): 本文根据第 16 期美团点评技术线上沙龙 OnLine 演讲内容整理而成。
 
+- [2018-蚂蚁金服如何把前端性能监控做到极致?](https://mp.weixin.qq.com/s/pqFhhb5u6w7gmUutilH5xQ): 将分享如何通过 Performance 相关的 API 准确的采集用户性能数据，并如何通过大数据计算加工最终产出用户性能分析产品，以及如何通过性能数据纵向衡量产品性能、发现性能瓶颈。
+
 ## Resource
 
 - [小胡子哥的性能专栏](https://github.com/barretlee√/performance-column/issues)
