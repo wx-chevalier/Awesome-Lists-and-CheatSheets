@@ -1,4 +1,4 @@
-# Server Architecture List
+# Backend List
 
 - [Event sourcing vs CRUD](https://parg.co/U1V): In many cases event sourcing is combined with domain-driven design (DDD) and the design pattern CQRS.
 
@@ -6,7 +6,7 @@
 
 - [如何在云平台构建大规模分布式系统](http://www.infoq.com/cn/articles/build-a-large-scale-distributed-system)
 
-- [LinkedIn 架构这十年 ](http://colobu.com/2015/07/24/brief-history-scaling-linkedin/)
+- [LinkedIn 架构这十年](http://colobu.com/2015/07/24/brief-history-scaling-linkedin/)
 
 - [构建能够每秒处理 3 百万请求的高性能 Web 集群系列文章](http://blog.jobbole.com/87509/)
 
@@ -14,7 +14,7 @@
 
 - [C1000K-Servers #Project#](https://github.com/smallnest/C1000K-Servers): High performance websocket servers implemented by Spray-can, Netty, undertow, jetty, Vert.x, Grizzly, node.js and Go. It supports 1,200,000 active websocket connections.
 
-# 概览
+# Overview 
 
 - [2015-Practical Scalability Analysis With The Universal Scalability Law #Book#](https://parg.co/bNA): I wrote this book to help you understand the simple, but profoundly powerful, truths about scalability.
 
@@ -33,3 +33,10 @@
 - [乐视秒杀：每秒十万笔交易的数据架构解读 ](http://www.uml.org.cn/sjjm/201611184.asp)
 
 - [晓明 美团点评技术团队 常见性能优化策略的总结](http://tech.meituan.com/performance_tunning.html)
+
+# Case Study
+
+## 架构衍化
+
+- [2018-小团队的微服务之路](https://mp.weixin.qq.com/s/_EpgKGKukSZ50Labb9vfag): 公司的背景是提供SaaS服务，对于大客户也会有定制开发以及私有化部署。经过2年不到的时间，技术架构经历了从单体到微服务再到容器化的过程。
+
