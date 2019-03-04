@@ -24,11 +24,13 @@
 
 * [2018-Foundations of Machine Learning #Course#](https://bloomberg.github.io/foml/): Understand the Concepts, Techniques and Mathematical Frameworks Used by Experts in Machine Learning.
 
-* [2018-100-Days-Of-ML-Code #Series#](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100 Days of ML Coding
+* [2018-100 Days Of ML Code #Series#](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100 Days of ML Coding
 
 - [2018-Machine Learning and Medicine #Course#](https://sgfin.github.io/learning-resources/): This is a not-particularly-systematic attempt to curate a handful of my favorite resources for learning statistics and machine learning.
 
 - [mlcourse.ai #Course#](https://github.com/Yorko/mlcourse.ai): Open Machine Learning Course
+
+- [2017-Advanced Machine Learning #Course#](https://www.coursera.org/specializations/aml?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-TzFMe90rgoVoC7rrHct37A&siteID=OyHlmBp2G0c-TzFMe90rgoVoC7rrHct37A&utm_content=2&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c): Deep Dive Into The Modern AI Techniques. You will teach computer to see, draw, read, talk, play games and solve industry problems.
 
 # Deep Learning
 
