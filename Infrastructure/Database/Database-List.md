@@ -14,7 +14,7 @@
 
 ## Comparison
 
-- [2016- 一篇文章，掌握所有开源数据库的现状](http://www.tuicool.com/articles/mYBZFbN)
+- [2016-一篇文章，掌握所有开源数据库的现状](http://www.tuicool.com/articles/mYBZFbN)
 
 - [Millions of Queries per Second: PostgreSQL and MySQL’s Peaceful Battle at Today’s Demanding Workloads](https://www.percona.com/blog/2017/01/06/millions-queries-per-second-postgresql-and-mysql-peaceful-battle-at-modern-demanding-workloads/)
 
@@ -87,7 +87,3 @@
 # HA Database | 高可用数据库
 
 - [2018-A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/): In this post, we want to take a look at how distributed databases have historically handled partial failures within a system and understand––at a high level––what high availability looks like.
-
-# Real Time Database
-
-- [2018-Scalable Push-Based Real-Time Queries on Top of Pull-Based Databases #Paper#](https://www.dropbox.com/s/6tnbrylf86w5e0x/wingerath_dissertation.pdf?dl=0)
