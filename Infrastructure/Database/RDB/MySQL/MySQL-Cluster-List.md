@@ -45,3 +45,9 @@
 * [单表 60 亿记录等大数据场景的 MySQL 优化和运维之道 | 高可用架构](http://www.francissoung.com/2016/04/15/%E5%8D%95%E8%A1%A860%E4%BA%BF%E8%AE%B0%E5%BD%95%E7%AD%89%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9C%BA%E6%99%AF%E7%9A%84MySQL%E4%BC%98%E5%8C%96%E5%92%8C%E8%BF%90%E7%BB%B4%E4%B9%8B%E9%81%93/)
 
 - [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/)
+
+# Distributed Cluster | 分布式集群
+
+- [MySQL Group Replication 官方文档中文版](http://storage.360buyimg.com/brickhaha/Mysql.pdf)：MySQL Group Replication(简称 MGR)是 MySQL 官方于 2016 年 12 月推出的一个全新的高可用与高扩展的解决方案。MySQL 组复制提供了高可用、高扩展、高可靠的 MySQL 集群服务。
+
+- [2017-五大常见的 MySQL 高可用方案](https://zhuanlan.zhihu.com/p/25960208)：这里只讨论常用高可用方案的优缺点以及高可用方案的选型。

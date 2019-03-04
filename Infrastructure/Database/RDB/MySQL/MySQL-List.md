@@ -2,19 +2,29 @@
 
 # MySQL List
 
+# Overview
+
+## Case Study
+
+- [2016-同程旅游的 MySQL 实践](http://mp.weixin.qq.com/s/LhCHEkSstmru4PnrfuoaVg): 以架构之“道”为基础，呈现更多务实落地的架构内容。
+
 # Resource
 
-## Book
+## Books
 
 - [2017-MySQL 学习笔记 #Book#](http://notes.diguage.com/mysql/)
 
 * [2017-The Unofficial MySQL 8.0 Optimizer Guide #Book#](http://www.unofficialmysqlguide.com/introduction.html): Morgan Tocker is the Product Manager for the MySQL Server at Oracle. He has previously worked in a variety of roles including Support, Training and Community. Morgan is based out of Toronto, Canada.
 
-## Resource
+## Collections
 
 - [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn)
 
-# Performance: 性能优化
+# Usage
+
+- [MySQL 表字段字符集不同导致的索引失效问题](http://www.tuicool.com/articles/A7nM3yI)
+
+# Tuning | 性能调优
 
 - [2017-我必须得告诉大家的 MySQL 优化原理](http://www.jianshu.com/p/d7665192aaaf)：理解这些优化建议背后的原理就尤为重要，希望本文能让你重新审视这些优化建议，并在实际业务场景下合理的运用。
 
@@ -35,17 +45,3 @@
 - [mysql 使用 utf8mb4 经验吐血总结](http://mp.weixin.qq.com/s?__biz=MzAwMDU2ODU3MA==&mid=2247484084&idx=1&sn=e3740e1087dc73ffcdc4b56bfeaaaa6d&chksm=9ae7bf21ad9036370e8174995ff73775a0ff8c8a51b9995fc8675a994a768a136d187e2aa76d#rd)
 
 * [实例解析 MySQL 性能瓶颈排查定位](http://ourmysql.com/archives/1416?utm_source=tuicool&utm_medium=referral)
-
-# EPractices
-
-- [MySQL 表字段字符集不同导致的索引失效问题](http://www.tuicool.com/articles/A7nM3yI)
-
-# Distributed Cluster | 分布式集群
-
-- [MySQL Group Replication 官方文档中文版](http://storage.360buyimg.com/brickhaha/Mysql.pdf)：MySQL Group Replication(简称 MGR)是 MySQL 官方于 2016 年 12 月推出的一个全新的高可用与高扩展的解决方案。MySQL 组复制提供了高可用、高扩展、高可靠的 MySQL 集群服务。
-
-- [2017-五大常见的 MySQL 高可用方案](https://zhuanlan.zhihu.com/p/25960208)：这里只讨论常用高可用方案的优缺点以及高可用方案的选型。
-
-# Case Study
-
-- [2016-同程旅游的 MySQL 实践](http://mp.weixin.qq.com/s/LhCHEkSstmru4PnrfuoaVg): 以架构之“道”为基础，呈现更多务实落地的架构内容。

@@ -30,6 +30,8 @@
 
 - [2012-The Internals of PostgreSQL #Book#](http://www.interdb.jp/pg/index.html): The main purposes of this document are to explain how each subsystem works, and to provide the whole picture of PostgreSQL.
 
+- [2012-High Performance MySQL #Book#](https://www.oreilly.com/library/view/high-performance-mysql/9781449332471/): With High Performance MySQL, you’ll learn advanced techniques for everything from designing schemas, indexes, and queries to tuning your MySQL server, operating system, and hardware to their fullest potential. This guide also teaches you safe and practical ways to scale applications through replication, load balancing, high availability, and failover.
+
 * [2014-SQL for MySQL: A Beginner's Tutorial #Book#](https://parg.co/oU1): This introduction to SQL for MySQL begins by discussing exactly how data is stored and maintained in a relational database, familiarizing readers with SQL INSERT, UPDATE, and DELETE statements.
 
 * [2015-Readings in Database Systems-5th Edition #Book#](http://www.redbook.io/): Readings in Database Systems (commonly known as the "Red Book") has offered readers an opinionated take on both classic and cutting-edge research in the field of data management since 1988.
