@@ -6,17 +6,15 @@
 
 - [2017-The Rise of GPU Databases](https://parg.co/UZc): The recent but noticeable shift from CPUs to GPUs is mainly due to the unique benefits they bring to sectors like AdTech, finance, telco, retail, or security/IT . We examine where GPU databases shine.
 
-* [运维 DBA 的消亡](https://dbarobin.com/2016/03/20/withering-away-of-dba/)
-
 * [Evolutionary Database Design](http://martinfowler.com/articles/evodb.html)
 
-- [2017 年数据库技术盘点](https://cloud.tencent.com/developer/article/1042652): 我们将从学术界、工程界的角度，从国外到国内，从数据库内核技术到数据库运维等多种角度，一起来回顾精彩的 2017。
+- [2017-2017 年数据库技术盘点](https://cloud.tencent.com/developer/article/1042652): 我们将从学术界、工程界的角度，从国外到国内，从数据库内核技术到数据库运维等多种角度，一起来回顾精彩的 2017。
 
 ## Comparison
 
 - [2016-一篇文章，掌握所有开源数据库的现状](http://www.tuicool.com/articles/mYBZFbN)
 
-- [Millions of Queries per Second: PostgreSQL and MySQL’s Peaceful Battle at Today’s Demanding Workloads](https://www.percona.com/blog/2017/01/06/millions-queries-per-second-postgresql-and-mysql-peaceful-battle-at-modern-demanding-workloads/)
+- [2017-Millions of Queries per Second](https://parg.co/Pwp): PostgreSQL and MySQL’s Peaceful Battle at Today’s Demanding Workloads
 
 # Resource
 
