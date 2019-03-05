@@ -76,7 +76,7 @@
 
 - [2017-Architect's Guide to NoSQL](http://www.datastax.com/wp-content/uploads/resources/whitepaper/DataStax_WP_Architects_Guide_to_NoSQL.pdf): This guide was created to help answer all these questions and more. In the following pages, you'll learn exactly what NoSQL is, why it's needed, how it works, what it should be used for, and (just as importantly) when it shouldn't be used
 
-# Search Engine
+## Search Engine
 
 - [搜索引擎索引数据结构和算法](http://www.hoohack.me/2016/05/09/datasture-and-algorithm-of-search-engine)
 
@@ -86,6 +86,6 @@
 
 - [2017-How ElasticSearch changed the way I think about search engines… twice](https://parg.co/USg)
 
-# HA Database | 高可用数据库
+# NewSQL List
 
-- [2018-A Brief History of High Availability](https://www.cockroachlabs.com/blog/brief-history-high-availability/): In this post, we want to take a look at how distributed databases have historically handled partial failures within a system and understand––at a high level––what high availability looks like.
+- [2016-What’s Really New with NewSQL?](http://db.cs.cmu.edu/papers/2016/pavlo-newsql-sigmodrec2016.pdf): we first discuss the history of databases to understand how NewSQL systems came about. We then provide a detailed explanation of what the term NewSQL means and the different categories of systems that fall under this definition.
