@@ -56,13 +56,19 @@
 
 * [2017-How does a relational database work](http://coding-geek.com/how-databases-work/): When it comes to relational databases, I can’t help thinking that something is missing. They’re used everywhere. There are many different databases: from the small and useful SQLite to the powerful Teradata. But, there are only a few articles that explain how a database works.
 
-* [2017-A beginner’s guide to ACID and database transactions](http://6me.us/OzSh): Transactions are omnipresent in today’s enterprise systems, providing data integrity even in highly concurrent environments. So let’s get started by first defining the term and the context where you might usually employ it.
-
-* [2015-Database Indexes Explained](https://www.essentialsql.com/what-is-a-database-index/)
-
-## Internals
-
 - [MiniDataBase #Project#](https://github.com/msdeep14/MiniDataBase): A simple Relational Database using B+ Tree Indexing
+
+- [chidb](https://people.cs.uchicago.edu/~adamshaw/papers/sigcse2016-chidb.pdf): Building a Simple Relational Database System from Scratch
+
+## Transaction & Concurrency Control
+
+- [2017-A beginner’s guide to ACID and database transactions](http://6me.us/OzSh): Transactions are omnipresent in today’s enterprise systems, providing data integrity even in highly concurrent environments. So let’s get started by first defining the term and the context where you might usually employ it.
+
+## Query Processing
+
+## Index
+
+- [2015-Database Indexes Explained](https://www.essentialsql.com/what-is-a-database-index/)
 
 # NoSQL
 
