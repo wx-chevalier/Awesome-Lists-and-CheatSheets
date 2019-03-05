@@ -20,6 +20,8 @@ The contents organization form follows [Web MindMap](),
 
 ## Development Tool
 
+- [2018-@pika/web #Project#](https://github.com/pikapkg/web): Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required.
+
 ## Debug
 
 ## Test
