@@ -22,6 +22,8 @@ The contents organization form follows [Web MindMap](),
 
 - [2018-@pika/web #Project#](https://github.com/pikapkg/web): Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required.
 
+- [2018-code-server #Project#](https://github.com/codercom/code-server): code-server is VS Code running on a remote server, accessible through the browser.
+
 ## Debug
 
 ## Test
