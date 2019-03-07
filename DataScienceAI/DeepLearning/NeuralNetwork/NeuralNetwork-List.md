@@ -34,6 +34,8 @@
 
 - [2015-A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/): A bare bones neural network implementation to describe the inner workings of backpropagation.
 
+- [2018-Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/): A simple explanation of how they work and how to implement one from scratch in Python.
+
 # Back Propagation | 反向传播
 
 * [如何直观的解释 back propagation 算法？ 关注者 1267 被浏览 59615](https://www.zhihu.com/question/27239198)
