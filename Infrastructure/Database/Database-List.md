@@ -24,7 +24,9 @@
 
 ## Book
 
-- [2010-Database System Concepts-6th Edition #Book#](http://codex.cs.yale.edu/avi/db-book/db6/slide-dir/index.html):
+- [2007-Architecture of a Database System #Paper#](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf): This paper presents an architectural discussion of DBMS design principles, including process models, parallel architecture, storage system design, transaction system implementation, query processor and optimizer architectures, and typical shared components and utilities.
+
+- [2010-Database System Concepts-6th #Book#](http://codex.cs.yale.edu/avi/db-book/db6/slide-dir/index.html):
 
 - [2012-The Internals of PostgreSQL #Book#](http://www.interdb.jp/pg/index.html): The main purposes of this document are to explain how each subsystem works, and to provide the whole picture of PostgreSQL.
 
@@ -90,6 +92,6 @@
 
 - [2017-How ElasticSearch changed the way I think about search engines… twice](https://parg.co/USg)
 
-# NewSQL List
+# NewSQL
 
 - [2016-What’s Really New with NewSQL?](http://db.cs.cmu.edu/papers/2016/pavlo-newsql-sigmodrec2016.pdf): we first discuss the history of databases to understand how NewSQL systems came about. We then provide a detailed explanation of what the term NewSQL means and the different categories of systems that fall under this definition.
