@@ -12,6 +12,8 @@
 
 * [如何给 100 亿个数字排序 ?](http://www.jianshu.com/p/8dc11152f178)
 
+- [2005-Implementing Sorting in Database Systems #Paper#](http://wwwlgis.informatik.uni-kl.de/archiv/wwwdvs.informatik.uni-kl.de/courses/DBSREAL/SS2005/Vorlesungsunterlagen/Implementing_Sorting.pdf): This survey collects many of these techniques for easy reference by students, researchers, and product de- velopers. It covers in-memory sorting, disk-based external sorting, and considerations that apply specifically to sorting in database systems.
+
 # TimSort
 
 - [2015-如何找出Timsort算法和玉兔月球车中的Bug？](http://www.freebuf.com/vuls/62129.html): 说起排序，我们比较熟悉的有冒泡、选择、插入排序，当然还有神奇的快排（Quick Sort），Timsort是个什么鬼？
