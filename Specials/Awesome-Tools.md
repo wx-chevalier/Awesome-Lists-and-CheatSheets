@@ -120,6 +120,8 @@
 
 # Cooperative Work | 协同工作
 
+- [Traduora #Project#](https://traduora.com/): Teams use traduora to reach users all around the globe. Automate your translation workflow today.
+
 ## Documents
 
 - [beautiful-docs #Collection#](https://github.com/PharkMillups/beautiful-docs): Pointers to useful, well-written, and otherwise beautiful documentation.
