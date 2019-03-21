@@ -8,6 +8,8 @@
 
 - [2018-关于 Flutter 的一些想法](https://zhuanlan.zhihu.com/p/37894353): 本文试图按照自己的理解来回答这些问题。
 
+- [2018-为什么 Flutter 会选择 Dart ？](https://infoq.cn/article/why-flutter-uses-dart): 这与 Flutter 和 Dart 有什么关系？确实有关系。早期的 Flutter 团队评估了十多种语言，并选择了 Dart，因为它符合他们构建用户界面的方式。
+
 ## Case Study
 
 - [2018-We Rebuilt a React Native App with Flutter](https://blog.geekyants.com/we-rebuilt-a-react-native-app-with-flutter-4160f0499a82): In this post I will talk about Google’s Flutter by comparing it’s Language Stack, UI, Style and other things with that of React Native.

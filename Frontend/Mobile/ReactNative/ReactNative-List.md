@@ -26,7 +26,7 @@
 
 - [2017-React and React Native #Book#](https://parg.co/beh): Use React and React Native to build applications for desktop browsers, mobile browsers, and even as native mobile apps.
 
-- [beginning-mobile-app-development-with-react-native](https://leanpub.com/beginning-mobile-app-development-with-react-native?a=0_dCaHBbnEiR_Uy2Ihm_Wk)
+- [2017-React Native Guide #Book#](https://www.reactnative.guide/index.html): A reference for building production-grade applications which are easy to test, maintain and extend to multiple platforms. This book is for the Web developers who have already got their hands dirty with React and ES6 and want to build complex native apps.
 
 # Tutorial
 

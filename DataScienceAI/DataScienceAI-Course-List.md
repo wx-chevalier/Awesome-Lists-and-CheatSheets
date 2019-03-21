@@ -20,17 +20,19 @@
 
 - [2017-EdX-Artificial Intelligence (AI) #Course#](https://parg.co/Y64): Learn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems.
 
-- [2018-Machine Learning Crash Course with TensorFlow APIs by Google #Course#](https://developers.google.com/machine-learning/crash-course/): Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.
-
-* [2018-Foundations of Machine Learning #Course#](https://bloomberg.github.io/foml/): Understand the Concepts, Techniques and Mathematical Frameworks Used by Experts in Machine Learning.
-
-* [2018-100 Days Of ML Code #Series#](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100 Days of ML Coding
-
-- [2018-Machine Learning and Medicine #Course#](https://sgfin.github.io/learning-resources/): This is a not-particularly-systematic attempt to curate a handful of my favorite resources for learning statistics and machine learning.
-
-- [mlcourse.ai #Course#](https://github.com/Yorko/mlcourse.ai): Open Machine Learning Course
-
 - [2017-Advanced Machine Learning #Course#](https://www.coursera.org/specializations/aml?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-TzFMe90rgoVoC7rrHct37A&siteID=OyHlmBp2G0c-TzFMe90rgoVoC7rrHct37A&utm_content=2&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c): Deep Dive Into The Modern AI Techniques. You will teach computer to see, draw, read, talk, play games and solve industry problems.
+
+* [2018-Machine Learning Crash Course with TensorFlow APIs by Google #Course#](https://developers.google.com/machine-learning/crash-course/): Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.
+
+- [2018-Foundations of Machine Learning #Course#](https://bloomberg.github.io/foml/): Understand the Concepts, Techniques and Mathematical Frameworks Used by Experts in Machine Learning.
+
+- [2018-100 Days Of ML Code #Series#](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100 Days of ML Coding
+
+* [2018-Machine Learning and Medicine #Course#](https://sgfin.github.io/learning-resources/): This is a not-particularly-systematic attempt to curate a handful of my favorite resources for learning statistics and machine learning.
+
+* [2018-mlcourse.ai #Course#](https://github.com/Yorko/mlcourse.ai): Open Machine Learning Course
+
+* [2019-台大教授李宏毅的机器学习课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html): 台大教授李宏毅的机器学习课程经常被认为是中文开放课程中的首选。李教授的授课风格风趣幽默，通俗易懂，其课程内容中不仅有机器学习、深度学习的基础知识，也会介绍 ML 领域里的各种最新技术。
 
 # Deep Learning
 
