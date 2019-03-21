@@ -10,6 +10,8 @@
 
 - [Go 1.11 Modules](https://parg.co/01g): Go 1.11 includes preliminary support for versioned modules as proposed here.
 
+- [2019-Using Go Modules](https://blog.golang.org/using-go-modules): This blog post is a tutorial to introduction to the basic operations needed to get started using modules. A followup post will cover releasing modules for others to use.
+
 # Struct
 
 - [2018-The Go Object Lifecycle](https://middlemost.com/object-lifecycle/): In this post we’ll look at a 3-step approach to object management—instantiation, initialization, & initiation.

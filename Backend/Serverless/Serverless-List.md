@@ -10,6 +10,10 @@
 
 - [2017-Serverless beyond Functions](https://medium.com/cloud-academy-inc/serverless-beyond-functions-cd81ee4c6b8d): Most of the time, when talking about serverless, people thinks of functions, such as those provided by AWS Lambda.
 
+# Patterns
+
+- [2018-Serverless Code Patterns](https://serverless.com/blog/serverless-architecture-code-patterns/): In this post, we'll share the best ways to structure your Serverless applications by applying the patterns directly on a simple example app we’re building — A Serverless Social Network.
+
 # AWS
 
 - [2017-Anatomy of a Serverless Application](https://serverless.com/blog/anatomy-of-a-serverless-app/): In this post, I'll walk you through how to get up and running on your first application.
