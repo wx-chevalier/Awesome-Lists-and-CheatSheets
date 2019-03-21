@@ -14,15 +14,15 @@
 
 - [How Modern Web Browsers Accelerate Performance: The Networking Layer](https://parg.co/UtY): In this post, we’ll try to analyze what techniques modern browsers employ to automatically boost performance.
 
+# HTTP
+
 ## Compression: 压缩
 
-## HTTP/2 Push: HTTP/2 推送
-
-## Streaming
+## HTTP/2 Push | HTTP/2 推送
 
 * [2018-Use streaming JSON to speed up your website](https://instantdomainsearch.com/articles/streaming-json-jsons/): JSON streaming—or JSONS—is a simple technique we use to decrease search latency for users, particularly anyone on a slow connection.
 
-# CDN
+## CDN
 
 * [2016-从直播 CDN 的原理说起，谈如何解决延时和连麦的老难题？](https://parg.co/UtK)
 
@@ -32,9 +32,15 @@
 
 * [jare-instant-free-cdn](http://www.yegor256.com/2016/03/30/jare-instant-free-cdn.html)
 
-# Critical Path: 关键渲染路径
+# Cache | 缓存优化
 
-## Critical CSS: 关键 CSS
+# Prefetch | 预抓取
+
+- [2018-Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/): Prefetch a CSS file, prerender a full page, or resolve a domain ahead of time – and you won’t have to wait for it when it’s actually needed! Sounds cool.
+
+# Critical Path | 关键渲染路径
+
+## Critical CSS | 关键 CSS
 
 * [critical](https://github.com/addyosmani/critical):Extract & Inline Critical-path CSS in HTML pages
 
@@ -50,12 +56,12 @@
 
 - [2018-purgecss #Project#](https://github.com/FullHuman/purgecss): Purgecss analyzes your content and your css files. Then it matches the selectors used in your files with the one in your content files. It removes unused selectors from your css, resulting in smaller css files.
 
-## Lazy Loading: 懒加载
+## Lazy Loading | 懒加载
 
 * [2017-Lozad.js #Project# ](https://github.com/ApoorvSaxena/lozad.js): Highly performant, light ~0.5kb and configurable lazy loader in pure JS with no dependencies for images, iframes and more, using IntersectionObserver API
 
 - [2017-How to use SVG as a Placeholder, and Other Image Loading Techniques](https://parg.co/UEY)
 
-## Code Spliting: 代码分割
+## Code Spliting | 代码分割
 
 * [Bundle Buddy #Project#](https://github.com/samccone/bundle-buddy): Bundle Buddy is a tool to help you find source code duplication across your javascript chunks/splits. This enables you to fine tune code splitting parameters to reduce bundle invalidation rates as well as improve repeat page load performance \o/.

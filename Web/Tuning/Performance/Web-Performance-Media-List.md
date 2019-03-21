@@ -43,3 +43,5 @@
 - [web-performance-secrets-from-the-bbc](https://medium.com/net-magazine/web-performance-secrets-from-the-bbc-d4b01f869752#.hwhq6jcbn)
 
 - [2017-Developer's Guide to E-Commerce Sites Speed Optimization](https://parg.co/U6q): You need to optimize your e-commerce website for speed at a time when search engines themselves rank faster websites above slower ones. At that same time, audience's attention span is getting shorter by the day.
+
+# Font
