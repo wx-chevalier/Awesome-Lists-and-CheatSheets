@@ -7,3 +7,7 @@
 - [localtunnel #Project#](https://github.com/localtunnel/localtunnel): localtunnel exposes your localhost to the world for easy testing and sharing! No need to mess with DNS or deploy just to have others test out your changes.
 
 * [whistle #Project#](https://github.com/avwo/whistle): whistle is a cross-platform web debugging tool based on Node.js.
+
+# Interceptor
+
+- [Talkback #Project#](https://github.com/ijpiantanida/talkback/): Talkback is a pure javascript standalone HTTP proxy. 
