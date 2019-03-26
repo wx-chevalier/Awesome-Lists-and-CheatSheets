@@ -102,6 +102,8 @@ The contents organization form follows [Web MindMap](),
 
 - [Rendertron #Project#](https://github.com/GoogleChrome/rendertron): Rendertron is a dockerized, headless Chrome rendering solution designed to render & serialise web pages on the fly.
 
+- [Rendora #Project#](https://github.com/rendora/rendora): Rendora is a dynamic renderer to provide zero-configuration server-side rendering mainly to web crawlers in order to effortlessly improve SEO for websites.
+
 - [headless-devtools #Project#](https://github.com/cowchimp/headless-devtools): Lets you perform Chrome DevTools actions from code by leveraging Headless Chrome+Puppeteer.
 
 # Event
