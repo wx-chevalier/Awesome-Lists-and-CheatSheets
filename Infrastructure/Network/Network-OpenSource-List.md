@@ -10,4 +10,8 @@
 
 # Interceptor
 
-- [Talkback #Project#](https://github.com/ijpiantanida/talkback/): Talkback is a pure javascript standalone HTTP proxy. 
+- [Talkback #Project#](https://github.com/ijpiantanida/talkback/): Talkback is a pure javascript standalone HTTP proxy.
+
+# WebSocket
+
+- [2017-go-socket.io #Project#](https://github.com/googollee/go-socket.io): go-socket.io is an implementation of Socket.IO in Golang, which is a realtime application framework.
