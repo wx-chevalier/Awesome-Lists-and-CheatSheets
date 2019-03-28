@@ -28,7 +28,7 @@
 
 * [how-to-choose-http-status-code](http://www.infoq.com/cn/news/2015/12/how-to-choose-http-status-code/)
 
-# Cache: 缓存
+# Cache | 缓存
 
 * [Google Developer HTTP 缓存](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=zh-cn#cache-control-)
 
@@ -41,3 +41,5 @@
 * [web 性能优化之：no-cache 与 must-revalidate 深入探究](https://zhuanlan.zhihu.com/p/23281814)
 
 - [2017-Clearing cache in the browser](https://calendar.perfplanet.com/2017/clearing-cache-in-the-browser/): Caching assets in the browser is the most common and most obvious way to improve front end performance.
+
+- [2018-深入理解浏览器的缓存机制](https://mp.weixin.qq.com/s/8jg4X-cymkIpn0zVaMDf6Q): 接下来的内容中我们将通过缓存位置、缓存策略以及实际场景应用缓存策略来探讨浏览器缓存机制。
