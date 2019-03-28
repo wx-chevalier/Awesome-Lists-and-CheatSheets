@@ -60,6 +60,10 @@
 
 - [Freno #Project#](https://github.com/github/freno): Cooperative, highly available throttler service: clients use freno to throttle writes to a resource.
 
+### HA
+
+- [Orchestrator #Project#](https://github.com/github/orchestrator): MySQL replication topology management and HA
+
 ## Sharding
 
 - [Sharding-Sphere #Project#](https://gitee.com/Sharding-Sphere/sharding-sphere): Sharding-Sphere is an open-source ecosystem consisted of a set of distributed database middleware solutions, including 3 independent products, Sharding-JDBC, Sharding-Proxy & Sharding-Sidecar (todo).
