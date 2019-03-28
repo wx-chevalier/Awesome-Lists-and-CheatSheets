@@ -1,10 +1,10 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
 
 ![](http://7xi5sw.com1.z0.glb.clouddn.com/1-gcVLvWktBPvc3rgp5fLvBA.jpeg)
 
 # Web Learning & Practices List
 
-本文上承接 [AwesomeReference: 程序员成长道路上的阅读学习资料工具集锦](https://github.com/wxyyxc1992/Awesome-Lists)，子索引包含：
+本文上承接 [AwesomeReference: 程序员成长道路上的阅读学习资料工具集锦](https://github.com/wx-chevalier/Awesome-Lists)，子索引包含：
 
 # Overview | 概述
 

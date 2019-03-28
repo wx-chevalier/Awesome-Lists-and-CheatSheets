@@ -2,15 +2,15 @@
 
 [中文版本](./README.md) | [English Version](./README-en.md)
 
-# [Awesome Lists: Systematic & Structured Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-List/blob/master/README-en.md)
+# [Awesome Lists: Systematic & Structured Guide to Galaxy](https://github.com/wx-chevalier/Awesome-List/blob/master/README-en.md)
 
-`Copyright © 王下邀月熊 - WxChevalier` [![Awesome](https://parg.co/UvS)](https://github.com/wxyyxc1992/Awesome-Lists)
+`Copyright © 王下邀月熊 - WxChevalier` [![Awesome](https://parg.co/UvS)](https://github.com/wx-chevalier/Awesome-Lists)
 
 Everyone may be very familiar with the so-called awesome list:
 
 > An awesome list is a list of awesome things curated by the community, about everything from CLI applications to fantasy books. Just like other thousands of awesome lists,
 
-[Awesome Lists](https://github.com/wxyyxc1992/Awesome-List/blob/master/README-en.md) collects curated, worthy and up-to-date links for ITCS, including Programming Language(Java, JavaScript, Python, Go, Rust, etc.), Software Engineering, Backend(Spring, Nginx, MicroServices, etc.), Infrastructure(Database, Network, etc.), InfoSecurity & Penetration, Industrial Application, DataScienceAI(Statistics, Machine Learning, Deep Learning, NLP, CV), Frontend Technology(iOS, Android, RN, Electron), etc. Note that I've attempted to order the books in order of most "tackleable". So the idea is to read books from top to bottom.
+[Awesome Lists](https://github.com/wx-chevalier/Awesome-List/blob/master/README-en.md) collects curated, worthy and up-to-date links for ITCS, including Programming Language(Java, JavaScript, Python, Go, Rust, etc.), Software Engineering, Backend(Spring, Nginx, MicroServices, etc.), Infrastructure(Database, Network, etc.), InfoSecurity & Penetration, Industrial Application, DataScienceAI(Statistics, Machine Learning, Deep Learning, NLP, CV), Frontend Technology(iOS, Android, RN, Electron), etc. Note that I've attempted to order the books in order of most "tackleable". So the idea is to read books from top to bottom.
 
 What's the difference between [Awesome Lists](./) and others?
 
@@ -30,11 +30,11 @@ Finally, Let these lists speak for themselves:
 
 - If you wan't to learn AI, DeepLearning, TensorFlow... you may like [DataScienceAI Book List](./DataScienceAI/DataScienceAI-Book-List.md), [DataScienceAI Course List](./DataScienceAI/DataScienceAI-Course-List.md), [Machine Learning List](./DataScienceAI/MachineLearning/MachineLearning-List.md), [Deep Learning List](./DataScienceAI/DeepLearning/DeepLearning-List.md), [NLP List](./DataScienceAI/NLP/NLP-List.md), [TensorFlow List](./DataScienceAI/Toolkit/TensorFlow/TensorFlow-List.md), [PyTorch List](./DataScienceAI/Toolkit/PyTorch/PyTorch-List.md), etc.
 
-You can use [xCompass](https://https:wxyyxc1992.github.io/home/#/search?query=React) for searching in Web or [alfred-sg](https://github.com/wxyyxc1992/xCompass/blob/master/soogle/alfred-sg/) for searching in MAC.
+You can use [xCompass](https://https:wx-chevalier.github.io/home/#/search?query=React) for searching in Web or [alfred-sg](https://github.com/wx-chevalier/xCompass/blob/master/soogle/alfred-sg/) for searching in MAC.
 
 ## Knowledge Graph
 
-![](https://github.com/wxyyxc1992/Developer-Zero-To-Mastery/blob/master/TechRoad/MindMap/MindMap.summary.png?raw=true)
+![](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/blob/master/TechRoad/MindMap/MindMap.summary.png?raw=true)
 
 There are massive curated links to help you study anything about heading first, with tutorials, practices, opensource, courses, books, etc. Each domain may contain the following files:
 
@@ -92,7 +92,7 @@ There are massive curated links to help you study anything about heading first, 
 
 - {Something}-List
 
-This file aggregates curated popular links for learning Redux. More reference about ITCS can turn to [AwesomeList: Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Lists), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
+This file aggregates curated popular links for learning Redux. More reference about ITCS can turn to [AwesomeList: Guide to Galaxy](https://github.com/wx-chevalier/Awesome-Lists), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
 
 本文是对于 {Something} 综述性资料的集锦，其子目录还归档了 []() 等相关资料索引。
 

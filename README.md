@@ -4,9 +4,9 @@
 
 # Awesome List | 精而全的技术开发学习与实践资料索引
 
-`Copyright © 王下邀月熊 - WxChevalier` [![Awesome](https://parg.co/UvS)](https://github.com/wxyyxc1992/Awesome-Lists)
+`Copyright © 王下邀月熊 - WxChevalier` [![Awesome](https://parg.co/UvS)](https://github.com/wx-chevalier/Awesome-Lists)
 
-AwesomeList 是记录了笔者在日常阅读、学习与实践中发掘的优秀的资料，其按照[知识图谱](https://wxyyxc1992.github.io/home/#/perspective)中定义的各个领域的知识体系分门别类地存放；笔者会不断更新其中链接，去芜存菁，去重留一，希望为同仁提供优秀的、有价值的、尽可能精简的资料索引。
+AwesomeList 是记录了笔者在日常阅读、学习与实践中发掘的优秀的资料，其按照[知识图谱](https://wx-chevalier.github.io/home/#/perspective)中定义的各个领域的知识体系分门别类地存放；笔者会不断更新其中链接，去芜存菁，去重留一，希望为同仁提供优秀的、有价值的、尽可能精简的资料索引。
 
 ![default](https://i.postimg.cc/y1QXgJ6f/image.png)
 
@@ -22,7 +22,7 @@ Finally, Let these lists speak for themselves:
 
 - If you wan't to learn AI, DeepLearning, TensorFlow... you may like [DataScienceAI Book List](./DataScienceAI/DataScienceAI-Book-List.md), [DataScienceAI Course List](./DataScienceAI/DataScienceAI-Course-List.md), [Machine Learning List](./DataScienceAI/MachineLearning/MachineLearning-List.md), [Deep Learning List](./DataScienceAI/DeepLearning/DeepLearning-List.md), [NLP List](./DataScienceAI/NLP/NLP-List.md), [TensorFlow List](./DataScienceAI/Toolkit/TensorFlow/TensorFlow-List.md), [PyTorch List](./DataScienceAI/Toolkit/PyTorch/PyTorch-List.md), etc.
 
-建议前往 [xCompass](https://wxyyxc1992.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程，或者直接浏览本仓库的目录以了解更多内容，也可以使用 [alfred-sg](https://github.com/wxyyxc1992/Soogle/tree/master/alfred-sg) 在 MAC 设备上进行快速检索。
+建议前往 [xCompass](https://wx-chevalier.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程，或者直接浏览本仓库的目录以了解更多内容，也可以使用 [alfred-sg](https://github.com/wx-chevalier/Soogle/tree/master/alfred-sg) 在 MAC 设备上进行快速检索。
 
 # Preface | 前言
 
@@ -115,4 +115,4 @@ $ wc -l **/*.md | grep -E -v "(Weekly|total|README)" | awk '{s+=$1} END {printf 
 
 笔者所有文章遵循 [知识共享 署名 - 非商业性使用 - 禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)，欢迎转载，尊重版权。如果觉得本系列对你有所帮助，欢迎给我家布丁买点狗粮(支付宝扫码)~
 
-![](https://github.com/wxyyxc1992/OSS/blob/master/2017/8/1/Buding.jpg?raw=true)
+![](https://github.com/wx-chevalier/OSS/blob/master/2017/8/1/Buding.jpg?raw=true)

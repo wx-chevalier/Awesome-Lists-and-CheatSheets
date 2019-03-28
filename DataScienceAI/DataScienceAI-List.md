@@ -1,8 +1,8 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
 
 # DataScience & Artificial Intelligence List
 
-本文是笔者在学习 DataScience 过程中所有资源的汇总，本文着眼于各个领域的入门介绍以及综述性质资源的汇总，并不会过多 的深挖前沿，若有兴趣了解更多，可以关注笔者的[程序猿的数据科学与机器学习实战手册](https://github.com/wxyyxc1992/DataScience-And-MachineLearning-Handbook-For-Coders)。本文主线从对数据科学与机器学习入门概览开始，继而提供一系列的资源、书籍与教程，然后介绍各个具体的领域内的参考文章，最后介绍一系列的实用工具。笔者的数据科学与机器学习世界观图解如下，其从属于笔者的[编程世界观与方法论](https://github.com/wxyyxc1992/Coder-Knowledge-Graph/blob/master/when-you-want-to-learn.zh.md)系列:
+本文是笔者在学习 DataScience 过程中所有资源的汇总，本文着眼于各个领域的入门介绍以及综述性质资源的汇总，并不会过多 的深挖前沿，若有兴趣了解更多，可以关注笔者的[程序猿的数据科学与机器学习实战手册](https://github.com/wx-chevalier/DataScience-And-MachineLearning-Handbook-For-Coders)。本文主线从对数据科学与机器学习入门概览开始，继而提供一系列的资源、书籍与教程，然后介绍各个具体的领域内的参考文章，最后介绍一系列的实用工具。笔者的数据科学与机器学习世界观图解如下，其从属于笔者的[编程世界观与方法论](https://github.com/wx-chevalier/Coder-Knowledge-Graph/blob/master/when-you-want-to-learn.zh.md)系列:
 
 ![](https://coding.net/u/hoteam/p/Cache/git/raw/master/DataScience.png)
 

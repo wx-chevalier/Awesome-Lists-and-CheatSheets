@@ -1,8 +1,8 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
 
 # React OpenSource List
 
-More Web Widgets can be found in [Web Widgets Links](https://github.com/wxyyxc1992/Awesome-Lists/blob/master/Web/Widgets/Web-Widgets-List.md).
+More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-chevalier/Awesome-Lists/blob/master/Web/Widgets/Web-Widgets-List.md).
 
 # Development Tools | 开发工具
 

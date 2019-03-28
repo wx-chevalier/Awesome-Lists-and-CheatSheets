@@ -1,10 +1,10 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
 
 # Awesome CS Collections: Curated links of awesome sites & collections & resources
 
 [Awesome CS Collections](https://parg.co/ddq) is collections of collection, including Programming Language, Software Engineering, Web, Server Side Application, Frontend, etc. Every link in this collection may containing massive domains.
 
-Awesome CS Collections is subject to [Awesome Links](https://github.com/wxyyxc1992/Awesome-Lists/), which is also part of [Awesome Coder](https://github.com/wxyyxc1992/Awesome-Coder). You may also like [Awesome-DataSet-Collections](https://parg.co/ddS), [Awesome Tools](https://parg.co/ddc), etc.
+Awesome CS Collections is subject to [Awesome Links](https://github.com/wx-chevalier/Awesome-Lists/), which is also part of [Awesome Coder](https://github.com/wx-chevalier/Awesome-Coder). You may also like [Awesome-DataSet-Collections](https://parg.co/ddS), [Awesome Tools](https://parg.co/ddc), etc.
 
 Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速找到合适的学习指引。
 

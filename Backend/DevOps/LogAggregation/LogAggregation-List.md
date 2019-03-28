@@ -1,8 +1,8 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
 
 # Log Aggregation List
 
-* [为什么要进行日志测试以及如何进行日志测试？](https://github.com/wxyyxc1992/Web-Series/): 这篇文章解释了为什么测试日志是有价值的和如何用现代日志聚合工具做日志测试。这种方法使日志成为了一种渠道，使分布式系统更具可测试性。
+* [为什么要进行日志测试以及如何进行日志测试？](https://github.com/wx-chevalier/Web-Series/): 这篇文章解释了为什么测试日志是有价值的和如何用现代日志聚合工具做日志测试。这种方法使日志成为了一种渠道，使分布式系统更具可测试性。
 
 * [日志级别动态调整 —— 小工具解决大问题](http://tech.meituan.com/change_log_level.html)
 

@@ -1,12 +1,12 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
 
 # DataScienceAI Book List | 机器学习、深度学习与自然语言处理领域推荐的书籍列表
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/wxyyxc1992/Awesome-Lists)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/wx-chevalier/Awesome-Lists)
 
-A curated list of Artificial Intelligence (AI) courses and books, aggerated with [DataScienceAI-Book-List](./DataScienceAI-Book-List.md) and [DataScienceAI-Course-List](./DataScienceAI-Course-List.md) from [Awesome-Lists](https://github.com/wxyyxc1992/Awesome-Lists).
+A curated list of Artificial Intelligence (AI) courses and books, aggerated with [DataScienceAI-Book-List](./DataScienceAI-Book-List.md) and [DataScienceAI-Course-List](./DataScienceAI-Course-List.md) from [Awesome-Lists](https://github.com/wx-chevalier/Awesome-Lists).
 :
-人工智能、深度学习与 TensorFlow 相关书籍、课程、示例列表是笔者 [Awesome Links](https://github.com/wxyyxc1992/Awesome-Lists) 系列的一部分；对于其他的资料集锦、模型、开源工具与框架请参考 [DataScienceAIListSeries](https://github.com/wxyyxc1992/Awesome-Lists/tree/master/DataScienceAI)。
+人工智能、深度学习与 TensorFlow 相关书籍、课程、示例列表是笔者 [Awesome Links](https://github.com/wx-chevalier/Awesome-Lists) 系列的一部分；对于其他的资料集锦、模型、开源工具与框架请参考 [DataScienceAIListSeries](https://github.com/wx-chevalier/Awesome-Lists/tree/master/DataScienceAI)。
 
 # Mathematics | 数学基础
 

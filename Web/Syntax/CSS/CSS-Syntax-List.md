@@ -1,4 +1,4 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wxyyxc1992/Awesome-Lists)
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
 
 # CSS 语法资料索引
 
@@ -18,7 +18,7 @@
 
 * [css 巧用 border 属性制作各种图形(矩形，梯形，三角形)](http://www.manongjc.com/article/86.html)
 
-* [CodePen-BorderShapes](http://codepen.io/wxyyxc1992/pen/BzrPrb)
+* [CodePen-BorderShapes](http://codepen.io/wx-chevalier/pen/BzrPrb)
 
 ## CSS Shape
 
