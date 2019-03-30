@@ -70,6 +70,8 @@
 
 - [2017-Characteristics of an Ideal React Architecture](https://parg.co/bD4): React is only the View; in essence: a thin view library with unidirectional data bindings and its own internal component life-cycle.
 
+- [2019-Writing Resilient Components](https://overreacted.io/writing-resilient-components/): There are important design principles that every component should strive to follow. But I don’t think style guides capture those principles well. We’ll talk about style guides first, and then look at the principles that really are useful.
+
 ## Code Organization | 代码组织
 
 - [2016-How to better organize your React applications?](https://parg.co/UII): I decided to spend some time to figure out what could be the best way to organize my future React projects.
