@@ -90,6 +90,12 @@
 
 - [whistle #Project#](https://github.com/avwo/whistle): whistle is a cross-platform web debugging tool based on Node.js.
 
+### Download
+
+- [aria2 #Project#](https://github.com/aria2/aria2): aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+- [BaiduExporter #Project#](https://github.com/acgotaku/BaiduExporter): Export Baidu Cloud files address to aria2/aria2-rpc, support YAAW.
+
 ## File
 
 - [UPX #Project#](https://github.com/upx/upx): UPX is an advanced executable file compressor. UPX will typically reduce the file size of programs and DLLs by around 50%-70%, thus reducing disk space, network load times, download times and other distribution and storage costs.
@@ -152,7 +158,7 @@
 
 - [滴答清单]
 
-- [Joplin #Project#](https://github.com/laurent22/joplin): a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. 
+- [Joplin #Project#](https://github.com/laurent22/joplin): a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 
 ## 协同编辑
 
