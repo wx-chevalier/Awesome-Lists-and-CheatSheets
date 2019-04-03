@@ -128,6 +128,8 @@
 
 - [2014-jsWorkFlow #Project#](https://github.com/hemantsshetty/jsWorkflow): jsWorkflow, a jsPlumb based workfow API, helps to create JavaScript based workflow diagrams for various applications. It abstracts all the complexities involved in designing and managing workflows.
 
+- [2017-diagram-js #Project#](https://github.com/bpmn-io/diagram-js): A toolbox for displaying and modifying diagrams on the web.
+
 - [2018-GGEditor #Project#](http://ggeditor.com/): A visual graph editor based on G6 and React.
 
 - [2018-rete #Project#](https://github.com/retejs/rete): JavaScript framework for visual programming and creating node editor.

@@ -50,6 +50,8 @@
 
 - [2018-Deep Learning World #Resource#](https://github.com/astorfi/Deep-Learning-World): Organized Resources for Deep Learning Researchers and Developers.
 
+- [2019-Virgilio #Project#](https://github.com/clone95/virgilio): Your new Mentor for Data Science E-Learning.
+
 ## Paper | 论文
 
 - [pwc](https://github.com/zziz/pwc): Papers with code. Sorted by stars. Updated weekly.
