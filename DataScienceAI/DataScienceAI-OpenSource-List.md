@@ -96,4 +96,4 @@
 
 ## OCR
 
-- [Tess4j](https://github.com/nguyenq/tess4j)
+- [Tess4j #Project#](https://github.com/nguyenq/tess4j): Java JNA wrapper for Tesseract OCR API.
