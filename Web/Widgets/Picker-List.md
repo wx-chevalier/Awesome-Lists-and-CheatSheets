@@ -40,10 +40,10 @@
 
 - [2018-Slate #Project#](https://github.com/ianstormtaylor/slate): A completely customizable framework for building rich text editors.
 
-- [GhostText #Project#](https://github.com/GhostText/GhostText): Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
+- [2018-GhostText #Project#](https://github.com/GhostText/GhostText): Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 
 - [2018-ReLaXed #Project#](https://github.com/RelaxedJS/ReLaXed): ReLaXed is a tool which creates PDF documents interactively using HTML or Pug (a shorthand for HTML).
 
-* [Countable #Project#](https://github.com/RadLikeWhoa/Countable/blob/master/README.md): Countable is a JavaScript function to add live paragraph-, word- and character-counting to an HTML element.
+* [2018-Countable #Project#](https://github.com/RadLikeWhoa/Countable/blob/master/README.md): Countable is a JavaScript function to add live paragraph-, word- and character-counting to an HTML element.
 
----
+- [2019-Editor.js #Project#](https://github.com/codex-team/editor.js): A block-styled editor with clean JSON output.
