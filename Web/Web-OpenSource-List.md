@@ -52,6 +52,8 @@ The contents organization form follows [Web MindMap](),
 
 - [2018-instant.page #Project#](https://github.com/instantpage/instant.page): Make your site’s pages instant in 1 minute and improve your conversion rate by 1%.
 
+- [2018-lazysizes #Project#](https://github.com/aFarkas/lazysizes): lazysizes is a fast (jank-free), SEO-friendly and self-initializing lazyloader for images (including responsive images picture/srcset), iframes, scripts/widgets and much more.
+
 ## Rendering
 
 ## Image

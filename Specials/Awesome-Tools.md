@@ -168,11 +168,13 @@
 
 - [Realms Wiki Beta #Project#](https://github.com/scragg0x/realms-wiki): Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger. Basic authentication and registration included.
 
-## 图片资源
+## 媒体处理
 
 - [Kap #Project#](https://getkap.co/): Capture your screen, An open-source screen recorder built with web technology.
 
 - [Remove Image Background](https://www.remove.bg/): 100% automatically – in 5 seconds – without a single click.
+
+- [MathPix](https://mathpix.com): Take a screenshot of math and paste the LaTeX into your editor, all with a single keyboard shortcut.
 
 ## Deployment | 云端部署
 
