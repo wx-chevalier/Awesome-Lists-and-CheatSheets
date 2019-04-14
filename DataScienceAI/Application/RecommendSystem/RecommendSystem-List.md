@@ -41,3 +41,7 @@
 - [2018-推荐系统的参考阅读](https://time.geekbang.org/column/article/8113): 整体来说，在选择参考文献时，我偏爱那些由公司发表的。
 
 - [2018-深度学习在推荐系统中的应用及代码集锦](https://mp.weixin.qq.com/s/tqkb-44K6dfryngMttEtQQ): 搜集了数十篇推荐系统在深度学习领域的文章与代码。
+
+## Books
+
+- [深度学习遇上推荐系统 #Series#](https://ask.hellobi.com/m/article/11821): 在计算广告和推荐系统中，CTR预估(click-through rate)是非常重要的一个环节，判断一个商品的是否进行推荐需要根据CTR预估的点击率来进行。
