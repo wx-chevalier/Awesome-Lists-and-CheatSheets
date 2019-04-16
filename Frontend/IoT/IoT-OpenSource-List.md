@@ -20,3 +20,7 @@
 - [2017-dingdang-robot #Project#](https://github.com/dingdang-robot/dingdang-robot): 叮当是一款可以工作在 Raspberry Pi 上的中文语音对话机器人/智能音箱项目。
 
 - [2017-BT-Speaker #Project#](https://github.com/lukasjapan/bt-speaker): A simple Bluetooth Speaker Daemon for the Raspberry Pi 3.
+
+# Visual Tools
+
+- [node-red #Project#](https://github.com/node-red/node-red): A visual tool for wiring the Internet of Things.

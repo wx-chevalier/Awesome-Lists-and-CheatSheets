@@ -118,7 +118,7 @@
 
 * [react-network-diagrams #Project#](https://github.com/esnet/react-network-diagrams): Contains ESnet network mapping and circuit rendering code, as used in the ESnet portal.
 
-## Editor | 图编辑器
+## Graph Editor | 图编辑器
 
 - [2014-mxGraph #Project#](https://github.com/jgraph/mxgraph): mxGraph is a fully client side JavaScript diagramming library that uses SVG and HTML for rendering.
 
@@ -164,4 +164,4 @@
 
 # Others
 
-- [Datashader #Project#](https://github.com/pyviz/datashader): Datashader is a data rasterization pipeline for automating the process of creating meaningful representations of large amounts of data. 
+- [Datashader #Project#](https://github.com/pyviz/datashader): Datashader is a data rasterization pipeline for automating the process of creating meaningful representations of large amounts of data.
