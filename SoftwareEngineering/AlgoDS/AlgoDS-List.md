@@ -24,25 +24,13 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 ## Online Judge
 
-- [Leetcode](https://leetcode.com/): LeetCode is a platform for preparing technical coding interviews. Pick from an expanding library of more than 450 questions, code and submit your solution to see if you have solved it correctly. It is that easy!
+- [Project Euler](https://projecteuler.net/), [CodingGame](https://www.codingame.com/start), [Kaggle](https://www.kaggle.com/), [Topcoder](https://www.topcoder.com/), [牛客网](), [HackerRank](https://www.hackerrank.com/),[JS Fight](https://jsfight.club/).
 
-- [Project Euler](https://projecteuler.net/)
-
-- [CodingGame](https://www.codingame.com/start)
-
-- [Kaggle](https://www.kaggle.com/)
-
-- [Topcoder](https://www.topcoder.com/)
-
-- [牛客网]()
-
-- [HackerRank](https://www.hackerrank.com/)
-
-- [JS Fight](https://jsfight.club/)
-
-### Leetcode Solutions
+### Leetcode
 
 - [2018-LeetCode All in One 讲解汇总](http://www.goodtecher.com/zh/leetcode%E8%AE%B2%E8%A7%A3%E6%B1%87%E6%80%BB/): 大家好，这里是 GoodTecher LeetCode 题目讲解汇总表。
+
+- [Leetcode](https://leetcode.com/): LeetCode is a platform for preparing technical coding interviews. Pick from an expanding library of more than 450 questions, code and submit your solution to see if you have solved it correctly. It is that easy!
 
 ## Blog
 
@@ -52,8 +40,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2018-algorithms #Project#](https://github.com/marcosfede/algorithms): Solved algorithms and data structures problems in many languages.
 
-- [algorithmist #Project#](http://www.algorithmist.com/index.php/Main_Page):
-  The Algorithmist is a resource dedicated to anything algorithms - from the practical realm, to the theoretical realm. There are also links and explanation to problemsets.
+- [algorithmist #Project#](http://www.algorithmist.com/index.php/Main_Page): The Algorithmist is a resource dedicated to anything algorithms - from the practical realm, to the theoretical realm. There are also links and explanation to problemsets.
 
 - [Solve Data In Code #Project#](https://github.com/espadrine/Solve-Data-In-Code): All decidable problems can be solved with algorithms.
 
@@ -104,6 +91,8 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 * [2017-javascript-algorithms #Project#](https://github.com/trekhleb/javascript-algorithms): This repository contains JavaScript based examples of many popular algorithms and data structures.
 
 * [2018-javascript-datastructures-algorithms #Project#](https://github.com/loiane/javascript-datastructures-algorithms): collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book.
+
+- [2019-dsa.js #Project#](https://github.com/amejiarosario/dsa.js): Data Structures and Algorithms explained and implemented in JavaScript
 
 # Python
 
