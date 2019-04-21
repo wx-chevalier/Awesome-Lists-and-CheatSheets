@@ -14,7 +14,7 @@
 
 * [A Brief Totally Accurate History Of Programming Languages](http://t.cn/RHuzOGO): One Hundred Percent Inspired by Facts.
 
-* [Luna](https://github.com/tj/luna): Luna is an expressive, minimalistic, elegant programming language implemented in C. With cooperative thread concurrency at its core, async I/O, and influences derived from languages such as Lua, io, Rust, Ruby, and C.
+* [Luna](https://github.com/tj/luna): Luna is an expressive, minimalistic, elegant programming language implemented in C. With cooperative thread concurrency at its core, async IO, and influences derived from languages such as Lua, io, Rust, Ruby, and C.
 
 # Resources
 

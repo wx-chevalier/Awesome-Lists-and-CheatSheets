@@ -6,7 +6,7 @@
 
 - [2015-Amdahl's Law](http://tutorials.jenkov.com/java-concurrency/amdahls-law.html)
 
-- [2016-Concurrency and Parallelism: Understanding I/O](https://blog.risingstack.com/concurrency-and-parallelism-understanding-i-o/)
+- [2016-Concurrency and Parallelism: Understanding IO](https://blog.risingstack.com/concurrency-and-parallelism-understanding-i-o/)
 
 * [2017-Go 语言并发机制初探](https://yq.aliyun.com/articles/72365)：Go 语言一个很大的优势就是可以方便地编写并发程序。Go 语言内置了 goroutine 机制，使用 goroutine 可以快速地开发并发程序，Go 语言的并发机制有很多值得探讨的，比如 Go 语言和 Scala 并发实现的不同，Golang CSP 和 Actor 模型的对比等，了解并发机制的这些实现，可以帮助我们更好的进行并发程序的开发，实现性能的最优化。
 
@@ -34,6 +34,6 @@
 
 - [AlgorithmCollection #Project#](https://github.com/s-hironobu/AlgorithmCollection): An Educational parallel Algorithm collection
 
-## Message Queue 
+## Message Queue
 
 - [Disruptor](http://lmax-exchange.github.io/disruptor/): The Disruptor is the result of our research and testing. We found that cache misses at the CPU-level, and locks requiring kernel arbitration are both extremely costly, so we created a framework which has "mechanical sympathy" for the hardware it's running on, and that's lock-free.

@@ -4,7 +4,7 @@
 
 # Development Library | 通用开发库
 
-- [Guava #Project#](https://github.com/google/guava): Guava is a set of core libraries that includes new collection types (such as multimap and multiset), immutable collections, a graph library, functional types, an in-memory cache, and APIs/utilities for concurrency, I/O, hashing, primitives, reflection, string processing, and much more!
+- [Guava #Project#](https://github.com/google/guava): Guava is a set of core libraries that includes new collection types (such as multimap and multiset), immutable collections, a graph library, functional types, an in-memory cache, and APIs/utilities for concurrency, IO, hashing, primitives, reflection, string processing, and much more!
 
 - [Guice #Project#](https://github.com/google/guice): Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
 
