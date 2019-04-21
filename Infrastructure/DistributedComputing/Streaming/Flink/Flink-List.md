@@ -4,13 +4,13 @@
 
 # Overview
 
-* [Apache Flink：特性、概念、组件栈、架构及原理分析](http://shiyanjun.cn/archives/1508.html)
+- [Apache Flink：特性、概念、组件栈、架构及原理分析](http://shiyanjun.cn/archives/1508.html)
 
-* [Flink 原理与实现：架构和拓扑概览](https://yq.aliyun.com/articles/57816?spm=5176.100240.searchblog.15.918ieV)
+- [Flink 原理与实现：架构和拓扑概览](https://yq.aliyun.com/articles/57816?spm=5176.100240.searchblog.15.918ieV)
 
 ## Case Study | 案例分析
 
-# Resource 
+# Resource
 
 - [Madhukara Phatak:某个大数据咨询师的博客](http://blog.madhukaraphatak.com/)
 
@@ -18,9 +18,9 @@
 
 - [推酷上汇集的一系列关于 Flink 的文章](http://www.tuicool.com/search?t=1&kw=flink&lang=0)
 
-# Tutorials 
+# Tutorials
 
-- [从0到1学习Flink #Series#](https://mp.weixin.qq.com/s/WrDwd1Ca1jMch6ERCpb_FA): Flink 是一种流式计算框架，我自己整理了些 Flink 的学习资料，目前已经全部放到微信公众号了。
+- [从 0 到 1 学习 Flink #Series#](https://mp.weixin.qq.com/s/WrDwd1Ca1jMch6ERCpb_FA): Flink 是一种流式计算框架，我自己整理了些 Flink 的学习资料，目前已经全部放到微信公众号了。
 
 - [2018-Apache Flink Training](https://training.da-platform.com/): This training teaches how to implement scalable data analysis programs with Apache Flink 1.6.0.
 
