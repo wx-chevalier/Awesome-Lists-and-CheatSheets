@@ -72,6 +72,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 * [2018-深度学习 500 问 #Book#](https://github.com/scutan90/DeepLearning-500-questions): 以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。
 
+- [2019-深度学习理论与实战：提高篇 #Book#](http://fancyerii.github.io/2019/03/14/dl-book/): 本书的目标是使用通俗易懂的语言来介绍基础理论和最新的进展，同时也介绍代码的实现。通过理论与实践的结合使读者更加深入的理解理论知识，同时也把理论知识用于指导实践。
+
 # NLP | 自然语言处理
 
 - [2016-Text Data Management and Analysis #Book#](https://dl.acm.org/citation.cfm?id=2915031): A Practical Introduction to Information Retrieval and Text Mining
