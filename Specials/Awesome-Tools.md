@@ -200,6 +200,10 @@
 
 - [2018-mdx-deck #Project#](https://github.com/jxnblk/mdx-deck): MDX-based presentation decks (Beta).
 
+# Workflow
+
+- [Repeat #Project#](https://github.com/repeats/Repeat): Repeat yourself with some intelligence. This, if used correctly, can improve your productivity greatly.
+
 # Todos
 
 - 合并 Workbench Collection

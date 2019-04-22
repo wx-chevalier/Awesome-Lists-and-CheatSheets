@@ -108,6 +108,8 @@ The contents organization form follows [Web MindMap](),
 
 - [headless-devtools #Project#](https://github.com/cowchimp/headless-devtools): Lets you perform Chrome DevTools actions from code by leveraging Headless Chrome+Puppeteer.
 
+## Visually Configuration 
+
 # Event
 
 - [Pressure.js #Project#](https://pressurejs.com/): Pressure is a JavaScript library for handling Force Touch, 3D Touch, and Pointer Pressure on the web.
