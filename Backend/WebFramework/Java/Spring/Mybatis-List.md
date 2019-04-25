@@ -1,26 +1,24 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
 
-# Mybatis List
+# MyBatis List
 
 # Overview
 
 - [MyBatis 完全使用指南](http://www.kknotes.com/blog/mybatis%E5%AE%8C%E5%85%A8%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/)
 
-# Tutorial | 开发使用
+# Tutorials | 开发使用
 
-- [Mybatis 3 自动生成 主键 针对不同的数据库(oracle/sqlserver/mysql)](http://www.cnblogs.com/yuanermen/archive/2013/04/02/2995920.html)
+- [MyBatis 3 自动生成 主键 针对不同的数据库(oracle/sqlserver/mysql)](http://www.cnblogs.com/yuanermen/archive/2013/04/02/2995920.html)
 
 ## Mapper
 
-### Relation | 关联关系
-
-- [MyBatis 关联关系详解](https://www.cnblogs.com/hellokitty1/p/5218892.html): 介绍了 Mybatis 中一对一关系与一对多关系以及多对多关系。
+- [MyBatis 关联关系详解](https://www.cnblogs.com/hellokitty1/p/5218892.html): 介绍了 MyBatis 中一对一关系与一对多关系以及多对多关系。
 
 # Plugins
 
-- [Mybatis 工具类总结](http://git.oschina.net/free/Mybatis_Utils/tree/master)
+- [MyBatis 工具类总结](http://git.oschina.net/free/Mybatis_Utils/tree/master)
 
-## Mybatis Generator
+## MyBatis Generator
 
 - [MyBatis Generator 官方文档](http://generator.sturgeon.mopaas.com/whatsNew.html)
 
