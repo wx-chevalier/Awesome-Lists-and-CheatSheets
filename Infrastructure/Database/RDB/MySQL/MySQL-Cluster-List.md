@@ -10,19 +10,15 @@
 
 - [MySQL 高可用集群之 MySQL-MMM](https://yq.aliyun.com/articles/38718)
 
-* [TDDL、Amoeba、Cobar、MyCAT 架构比较 ](http://blog.csdn.net/lichangzhen2008/article/details/44708227)
+* [TDDL、Amoeba、Cobar、MyCAT 架构比较](http://blog.csdn.net/lichangzhen2008/article/details/44708227)
 
-* [kingshard](https://github.com/flike/kingshard)
+- [Mycat 与数据访问层](http://minirick.duapp.com/mycatyu-chou-xiang-shu-ju-ceng/)
 
-* [Atlas](https://github.com/Qihoo360/Atlas)
+- [MySQL 数据库复制概论](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=2650342801&idx=1&sn=337f93df2278f749be14eb82ba34cd64&scene=23&srcid=0713bxquXQNfMnx3VPOjdGL4#rd)
 
-* [Mycat 与数据访问层](http://minirick.duapp.com/mycatyu-chou-xiang-shu-ju-ceng/)
+- [exploration-of-distributed-mysql-cluster-scheme](http://www.infoq.com/cn/articles/exploration-of-distributed-mysql-cluster-scheme)
 
-* [MySQL 数据库复制概论](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=2650342801&idx=1&sn=337f93df2278f749be14eb82ba34cd64&scene=23&srcid=0713bxquXQNfMnx3VPOjdGL4#rd)
-
-* [exploration-of-distributed-mysql-cluster-scheme](http://www.infoq.com/cn/articles/exploration-of-distributed-mysql-cluster-scheme)
-
-* [Yelp —— Streaming MySQL tables in real-time to Kafka](http://engineeringblog.yelp.com/2016/08/streaming-mysql-tables-in-real-time-to-kafka.html)
+- [Yelp —— Streaming MySQL tables in real-time to Kafka](http://engineeringblog.yelp.com/2016/08/streaming-mysql-tables-in-real-time-to-kafka.html)
 
 # Sharding | 分库与分表
 
