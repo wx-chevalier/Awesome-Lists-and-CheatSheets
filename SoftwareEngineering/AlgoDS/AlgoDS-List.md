@@ -68,13 +68,13 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 * [Introduction to Data Structures and Algorithms](http://www.idevelopment.info/data/Programming/data_structures/overview/Data_Structures_Algorithms_Introduction.shtml)
 
-- [编程之法：面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md)
+- [编程之法：面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-By-July)
 
 * [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer)
 
 - [结构之法 算法之道](http://blog.csdn.net/v_july_v)
 
-- [Algo-数据结构与算法学习实践指南](https://github.com/absfree/Algo)
+- [Algo](https://github.com/absfree/Algo): 数据结构与算法学习实践指南
 
 - [数据结构与算法学习笔记 ,gitbook 上对于 Leetcode 题解](https://www.gitbook.com/book/yuanbin/algorithm/details)
 

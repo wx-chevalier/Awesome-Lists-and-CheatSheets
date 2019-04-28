@@ -1,5 +1,10 @@
 # Distributed System OpenSource List
 
+# Distributed ID
+
+- [Unique Id generator #Project#](https://github.com/mumrah/flake-java): Id generator based on Twitter's Snowflake.
+- [Twitter Snowflake Official Repo #Project#](https://github.com/twitter/snowflake)
+
 # Distributed Computing
 
 - [Wallaroo #Project#](https://github.com/wallaroolabs/wallaroo): Wallaroo is a fast, elastic data processing engine that rapidly takes you from prototype to production by eliminating infrastructure complexity.
