@@ -3,7 +3,10 @@
 # Distributed ID
 
 - [Unique Id generator #Project#](https://github.com/mumrah/flake-java): Id generator based on Twitter's Snowflake.
+
 - [Twitter Snowflake Official Repo #Project#](https://github.com/twitter/snowflake)
+
+- [Leaf #Project#](https://github.com/Meituan-Dianping/Leaf): Distributed ID Generate Service.
 
 # Distributed Computing
 
@@ -15,7 +18,7 @@
 
 # Distributed Transaction
 
-- [Fescar #Project#](https://github.com/alibaba/fescar): Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution.
+- [Seata #Project#](https://github.com/seata/Seata): Seata is an easy-to-use, high-performance, java based, open source distributed transaction solution.
 
 # Distributed FS
 
