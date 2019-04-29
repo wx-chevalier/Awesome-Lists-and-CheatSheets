@@ -52,7 +52,7 @@
 
 - [the-infinite-path-of-scrolling](https://medium.com/@jankuca/the-infinite-path-of-scrolling-463bc649c7bd#.ut93imoai)
 
-- [react infinite](https://github.com/seatgeek/react-infinite)
+- [React Infinite](https://github.com/seatgeek/react-infinite)
 
 # Drag & Drop
 
