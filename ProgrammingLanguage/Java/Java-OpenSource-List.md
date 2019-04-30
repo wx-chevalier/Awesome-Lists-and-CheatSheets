@@ -131,6 +131,10 @@
 
 # Other
 
+## AST & Generator
+
 - [Java Parser #Project#](https://github.com/javaparser/javaparser): Java Parser and Abstract Syntax Tree
 
 - [uniVocity-parsers #Project#](https://github.com/uniVocity/univocity-parsers)
+
+- [JavaPoet #Project#](https://github.com/square/javapoet): JavaPoet is a Java API for generating .java source files.
