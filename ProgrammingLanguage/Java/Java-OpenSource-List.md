@@ -59,6 +59,8 @@
 
 - [Speedment #Project#](https://github.com/speedment/speedment): Speedment is an open source Java Stream ORM toolkit and runtime. The toolkit analyzes the metadata of an existing SQL database and automatically creates a Java representation of the data model.
 
+- [HikariCP #Project#](https://github.com/brettwooldridge/HikariCP): 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
+
 ### MyBatis
 
 - [MyBatis #Project#](http://www.mybatis.org/mybatis-3/zh/java-api.html): MyBatis is a first class persistence framework with support for custom SQL, stored procedures and advanced mappings.
