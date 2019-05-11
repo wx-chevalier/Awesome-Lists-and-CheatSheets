@@ -46,6 +46,8 @@
 
 * [iHover #Project#](http://gudh.github.io/ihover/dist/index.html#): iHover is an impressive hover effects collection, powered by pure CSS3, no dependency, work well with Bootstrap 3!
 
+* [cssfx #Project#](https://cssfx.dev/): A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by CSS with minimal markup. Completely open source and MIT licensed.
+
 ## Tween Animation | 补间动画
 
 - [react-motion #Project#](https://github.com/chenglou/react-motion): A spring that solves your animation problems.

@@ -4,6 +4,8 @@
 
 # Resource | 资源
 
+- [Awesome Product Design](https://github.com/teoga/awesome-product-design): A collection of bookmarks, resources, articles for product designers.
+
 ## Book | 书籍
 
 ### 思维

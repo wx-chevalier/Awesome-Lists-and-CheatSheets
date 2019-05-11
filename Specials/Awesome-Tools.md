@@ -200,6 +200,8 @@
 
 - [2018-mdx-deck #Project#](https://github.com/jxnblk/mdx-deck): MDX-based presentation decks (Beta).
 
+- [2019-fusuma #Project#](https://github.com/hiroppy/fusuma): Fusuma makes slides with Markdown easily.
+
 # Workflow
 
 - [Repeat #Project#](https://github.com/repeats/Repeat): Repeat yourself with some intelligence. This, if used correctly, can improve your productivity greatly.

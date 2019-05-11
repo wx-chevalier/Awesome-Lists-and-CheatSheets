@@ -22,15 +22,11 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 ## Course | 课程
 
-## Online Judge
-
-- [Project Euler](https://projecteuler.net/), [CodingGame](https://www.codingame.com/start), [Kaggle](https://www.kaggle.com/), [Topcoder](https://www.topcoder.com/), [牛客网](), [HackerRank](https://www.hackerrank.com/),[JS Fight](https://jsfight.club/).
-
-### Leetcode
+## Leetcode
 
 - [2018-LeetCode All in One 讲解汇总](http://www.goodtecher.com/zh/leetcode%E8%AE%B2%E8%A7%A3%E6%B1%87%E6%80%BB/): 大家好，这里是 GoodTecher LeetCode 题目讲解汇总表。
 
-- [Leetcode](https://leetcode.com/): LeetCode is a platform for preparing technical coding interviews. Pick from an expanding library of more than 450 questions, code and submit your solution to see if you have solved it correctly. It is that easy!
+* [LeetCodeAnimation #Project#](https://github.com/MisterBooo/LeetCodeAnimation): Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解 LeetCode 题目的思路）
 
 ## Blog
 

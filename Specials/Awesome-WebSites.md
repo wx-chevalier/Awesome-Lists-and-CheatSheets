@@ -8,4 +8,24 @@
 - 期刊订阅：[MyBridge](mybridge.co)、[InfoQ 架构师](www.infoq.com/cn)、[CSDN 程序员杂志]()、[码农周刊](http://weekly.manong.io/)、[高可用架构系列](http://www.ituring.com.cn/search?q=%E9%AB%98%E5%8F%AF%E7%94%A8%E6%9E%B6%E6%9E%84&type=)、[ThoughtWorks 技术雷达](https://assets.thoughtworks.com/assets/technology-radar-apr-2016-cn.pdf)
 - 在线学习：[Coursera](https://www.coursera.org/)、[edX](https://www.edx.org/)、[Udacity](https://cn.udacity.com/)、[MIT 公开课](https://ocw.mit.edu/index.htm)、[MOOC 学院](http://mooc.guokr.com/course/)、[慕课网](http://www.imooc.com/)
 - 在线编程：[LeetCode](https://leetcode.com/)、[Project Euler](https://projecteuler.net/)、[CodingGame](https://www.codingame.com/start)、[Kaggle](https://www.kaggle.com/)、[Topcoder](https://www.topcoder.com/)、牛客网、[HackerRank](https://www.hackerrank.com/)、[JS Fight](https://jsfight.club/)
-- 大厂风范：[MSDN](https://msdn.microsoft.com/zh-cn)、[Google 开发者 ](https://developers.google.cn/)、[云栖社区](https://yq.aliyun.com/)、[IBM DeveloperWorks](http://www.ibm.com/developerworks/)、[Facebook AI Research ](https://research.fb.com/ai-helps-facebooks-internet-drones-find-where-the-people-are/)、[Facebook](https://code.facebook.com/posts/)、[airbnb](http://nerds.airbnb.com/)
+- 大厂风范：[MSDN](https://msdn.microsoft.com/zh-cn)、[Google 开发者](https://developers.google.cn/)、[云栖社区](https://yq.aliyun.com/)、[IBM DeveloperWorks](http://www.ibm.com/developerworks/)、[Facebook AI Research ](https://research.fb.com/ai-helps-facebooks-internet-drones-find-where-the-people-are/)、[Facebook](https://code.facebook.com/posts/)、[airbnb](http://nerds.airbnb.com/)
+
+# Blogs & Community
+
+# Online Coding
+
+- [Project Euler](https://projecteuler.net/), [CodingGame](https://www.codingame.com/start), [Kaggle](https://www.kaggle.com/), [Topcoder](https://www.topcoder.com/), [牛客网](), [HackerRank](https://www.hackerrank.com/),[JS Fight](https://jsfight.club/).
+
+## OJ
+
+- [Leetcode](https://leetcode.com/): LeetCode is a platform for preparing technical coding interviews. Pick from an expanding library of more than 450 questions, code and submit your solution to see if you have solved it correctly. It is that easy!
+
+## IDE
+
+- [Gitpod](https://gitpod.io/workspaces/): One-Click Online IDE for GitHub
+
+# Handbook
+
+- [Learn X in Y minutes](https://learnxinyminutes.com/): Take a whirlwind tour of your next favorite language. Community-driven!
+
+# Docs

@@ -20,7 +20,7 @@
 
 - [2017-Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567): “high-level programming language, and its core design philosophy is all about code readability and a syntax which allows programmers to express concepts in a few lines of code.”
 
-- [Python Cheatsheet](https://github.com/gto76/python-cheatsheet): Comprehensive Python Cheatsheet 
+- [Python Cheatsheet](https://github.com/gto76/python-cheatsheet): Comprehensive Python Cheatsheet
 
 # Resource | 资源
 
@@ -35,6 +35,8 @@
 - [Python 之旅 #Book#](https://github.com/ethan-funny/explore-python):本书是我学习和使用 Python 的总结。在学习和使用 Python 的过程中，我作了不少笔记，并对一些笔记进行了加工和完善，发表在博客上。随着笔记的增加，我就萌生了写一本书的想法，希望能比较系统地总结相关知识，巩固自己的知识体系，而不是停留在『感觉好像懂了』的状态中。
 
 - [2017-Cracking Codes with Python #Book#](https://inventwithpython.com/cracking/): Cracking Codes with Python teaches complete beginners how to program in the Python programming language.
+
+- [2019-Python - 100 天从新手到大师 #Series#](https://github.com/jackfrued/Python-100-Days)
 
 # Tutoria | 教程
 
