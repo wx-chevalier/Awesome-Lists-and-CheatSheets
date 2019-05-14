@@ -12,11 +12,17 @@
 
 # Resource
 
+## Series 
+
 - [Madhukara Phatak:某个大数据咨询师的博客](http://blog.madhukaraphatak.com/)
 
 - [wuchong Jark's Bloh 一系列关于 Flink 的博客](http://wuchong.me/archives/)
 
 - [推酷上汇集的一系列关于 Flink 的文章](http://www.tuicool.com/search?t=1&kw=flink&lang=0)
+
+## Confs
+
+- [Flink Forward China 2018 Slides](https://github.com/flink-china/flink-forward-china-2018)
 
 # Tutorials
 
