@@ -22,17 +22,15 @@
 
 - [gin #Project#](https://github.com/codegangsta/gin): gin is a simple command line utility for live-reloading Go web applications.
 
-# Development Library
-
-- [viper #Project#](https://github.com/spf13/viper): Go configuration with fangs!
-
-- [gojay #Project#](https://github.com/francoispqt/gojay): Highly performant JSON encoder/decoder with powerful stream API for Golang.
-
-* [2018-jstream #Project#](https://github.com/bcicen/jstream): jstream is a streaming JSON parser and value extraction library for Go.
+## Dependence Injection
 
 - [2018-wire #Project#](https://github.com/google/wire): Compile-time Dependency Injection for Go
 
-## Utils
+# Development Library
+
+## Configuration
+
+- [viper #Project#](https://github.com/spf13/viper): Go configuration with fangs!
 
 ## Command Line
 
@@ -66,6 +64,12 @@
 
 - [gqlgen #Project#](https://gqlgen.com/): gqlgen is a golang library for building graphql servers without any fuss.
 
+# Data Structure
+
+- [gojay #Project#](https://github.com/francoispqt/gojay): Highly performant JSON encoder/decoder with powerful stream API for Golang.
+
+* [2018-jstream #Project#](https://github.com/bcicen/jstream): jstream is a streaming JSON parser and value extraction library for Go.
+
 # Network
 
 - [2017-Colly #Project#](https://github.com/gocolly/colly): Lightning Fast and Elegant Scraping Framework for Gophers.
@@ -79,6 +83,10 @@
 ## Database
 
 - [Bolt #Project#](https://github.com/boltdb/bolt): An embedded key/value database for Go.
+
+## ORM
+
+- [xo #Project#](https://github.com/xo/xo): Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
 
 # Other
 

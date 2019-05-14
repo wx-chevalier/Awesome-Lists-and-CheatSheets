@@ -4,6 +4,12 @@
 
 Massive & Curated OpenSource Project/Framework/Tool Links, for building great distributed infrastructure system.
 
+- [awesome-streaming](https://github.com/manuzhang/awesome-streaming): a curated list of awesome streaming frameworks, applications, etc
+
+# DSL
+
+- [Apache Beam #Project#](https://github.com/apache/beam): Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines, as well as a set of language-specific SDKs for constructing pipelines and Runners for executing them on distributed processing backends, including Apache Apex, Apache Flink, Apache Spark, and Google Cloud Dataflow.
+
 # Message Oriental Middleware
 
 ## Message Queue
@@ -23,3 +29,9 @@ Massive & Curated OpenSource Project/Framework/Tool Links, for building great di
 - [Ofelia #Project#](https://github.com/mcuadros/ofelia): Ofelia is a modern and low footprint job scheduler for docker environments, built on Go. Ofelia aims to be a replacement for the old fashioned cron.
 
 - [TaskBotJS #Project#](https://github.com/eropple/taskbotjs): The best JavaScript/TypeScript job processing framework on the planet.
+
+# Processing Engine
+
+- [hazelcast-jet #Project#](https://github.com/hazelcast/hazelcast-jet): A general purpose distributed data processing engine, built on top of Hazelcast.
+
+- [Flink #Project#](https://github.com/apache/flink): Apache Flink is an open source stream processing framework with powerful stream- and batch-processing capabilities.
