@@ -42,6 +42,10 @@
 
 - [2017-Introduction To Programming In Java #Book#](http://introcs.cs.princeton.edu/java/home/): Princeton 出品的 Java 入门书籍
 
+## Series | 系列文章
+
+- [JCSprout](https://github.com/crossoverJie/JCSprout): Java Core Sprout : basic, concurrent, algorithm
+
 ## Blog | 博客
 
 - [Novixys Software Dev Blog【Blog】](http://www.novixys.com/blog/): [Using Timer Class to Schedule Tasks](http://www.novixys.com/blog/using-timer-schedule-tasks/)
@@ -56,7 +60,7 @@
 
 - [ImportNews:专注 Java&Android](http://www.importnew.com/)
 
-- [来自 GeniusVJR 的学习笔记 d](https://github.com/GeniusVJR/LearningNotes)
+- [来自 GeniusVJR 的学习笔记](https://github.com/GeniusVJR/LearningNotes)
 
 * [Java Specialists](https://www.javaspecialists.eu/): From expert level specialists articles, to inhouse concurrency courses to emergency consulting.
 
