@@ -14,10 +14,6 @@
 
 - [天池数据集](https://tianchi.aliyun.com/datalab/index.htm?spm=5176.11510288.5610778.11.7282b7bdy7YcOF): 多领域的用于科学研究与实验的数据集合
 
-## Open APIs
-
-- [InstaReProxy #Project#](https://github.com/whizzzkid/instagram-proxy-api): This builds over the Instagram's public API to provide more functionality and provides a CORS complaint reverse instagram proxy service.
-
 ## Repositories | 资源
 
 - [Reddit Datasets](https://www.reddit.com/r/datasets/): A place to share, find, and discuss Datasets.
@@ -80,7 +76,7 @@
 
 - [NSFW Data Scrapper #Project#](https://github.com/alexkimxyz/nsfw_data_scrapper): Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier.
 
-# Voice & Media & Video 
+# Voice & Media & Video
 
 # 领域数据 | Domain
 
@@ -110,7 +106,7 @@
 
 ## Financial | 金融证券
 
-- [Tushare](http://tushare.org/trading.html#id2): 交易类数据提供股票的交易行情数据，通过简单的接口调用可获取相应的DataFrame格式数据。
+- [Tushare](http://tushare.org/trading.html#id2): 交易类数据提供股票的交易行情数据，通过简单的接口调用可获取相应的 DataFrame 格式数据。
 
 ## Sports | 体育
 

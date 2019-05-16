@@ -54,7 +54,7 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 - [InterviewMap #Project#](https://github.com/InterviewMap/InterviewMap): uild the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 
-- [InterviewNotes](https://github.com/CyC2018/InterviewNotes): 计算机基础知识整理，持续更新中~
+- [CS-Notes #Project#](https://github.com/CyC2018/CS-Notes): 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计
 
 - [2018-Interviews #Collection#](https://github.com/kdn251/interviews): Everything you need to know to get the job.
 

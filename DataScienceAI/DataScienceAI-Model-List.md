@@ -4,6 +4,10 @@
 
 本文包含了一些基于人工智能、机器学习、深度学习等技术，实现的有趣的模型、应用、案例。
 
+# Machine Learning
+
+- [SPTAG #Project#](https://github.com/microsoft/SPTAG): A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
+
 # DeepLearning
 
 # Natural Language Processing
@@ -40,7 +44,7 @@
 
 - [cartoonify #Project#](https://github.com/danmacnish/cartoonify): Draw This is a polaroid camera that draws cartoons.
 
-- [2017-Fully convolutional watermark removal attack #Project#](https://github.com/marcbelmont/cnn-watermark-removal): Fully convolutional deep neural network to remove transparent overlays from images. 
+- [2017-Fully convolutional watermark removal attack #Project#](https://github.com/marcbelmont/cnn-watermark-removal): Fully convolutional deep neural network to remove transparent overlays from images.
 
 - [2018-vid2vid #Project#](https://github.com/NVIDIA/vid2vid): Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 
@@ -52,7 +56,7 @@
 
 ## Motion Capture
 
-- [Handtrack.js  #Project#](https://victordibia.github.io/handtrack.js/#/): 它可以让开发人员使用经过训练的手部检测模型快速创建手势交互原型。
+- [Handtrack.js #Project#](https://victordibia.github.io/handtrack.js/#/): 它可以让开发人员使用经过训练的手部检测模型快速创建手势交互原型。
 
 # Development | 开发辅助
 

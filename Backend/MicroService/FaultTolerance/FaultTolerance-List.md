@@ -1,3 +1,5 @@
+# 服务容错
+
 # 系统降级
 
 ## 服务限流
@@ -17,3 +19,7 @@
 - [服务降级背后的技术架构设计](http://mp.weixin.qq.com/s/cfWwjhKgDXMSQ3BzJ_S2Ag)
 
 - [2017-Scaling your API with rate limiters](https://stripe.com/blog/rate-limiters)
+
+# Resilience Engineering
+
+- [Resilience engineering notes](https://github.com/lorin/resilience-engineering#john-allspaw): This file contains notes about people active in resilience engineering, as well as some influential researchers who are no longer with us, organized alphabetically.
