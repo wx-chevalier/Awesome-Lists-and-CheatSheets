@@ -19,6 +19,8 @@
 
 - [2017-Atomic Design with React](https://cheesecakelabs.com/blog/atomic-design-react/): That was the moment in which we paused to rethink our architecture and how we could set the components in a more distributed and organized way.
 
+- [2019-Design Systems and Front-End Architecture](https://noti.st/sturobson/yc1gwN/design-systems-and-front-end-architecture#suKJUUR): Design Systems are so hot right now, in this talk I will discuss the various parts that make up one and offer various takeaways to help you start or continue your current system.
+
 # Web Design
 
 - [2018-Stop building websites with infinite scroll!](https://logrocket.com/blog/infinite-scroll/): In this article, we will explain why you need to stop building websites with infinite scroll.

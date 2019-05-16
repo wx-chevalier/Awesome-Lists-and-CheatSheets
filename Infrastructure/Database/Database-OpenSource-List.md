@@ -34,9 +34,7 @@
 
 - [FlyWay #Project#](https://github.com/flyway/flyway): Evolve your database schema easily and reliably across all your instances.
 
-- [DataX #Project#](https://github.com/alibaba/DataX): 阿里巴巴集团内被广泛使用的离线数据同步工具 / 平台
-
-- [PingCAP-Loader](https://github.com/pingcap/docs-cn/blob/master/tools/loader.md)
+* [PingCAP-Loader #Project#](https://github.com/pingcap/docs-cn/blob/master/tools/loader.md)
 
 ## Benchmark
 
