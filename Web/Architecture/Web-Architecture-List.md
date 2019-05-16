@@ -18,18 +18,6 @@
 
 - [single-spa #Project#](https://single-spa.js.org/docs/getting-started-overview.html): Build micro frontends that coexist and can each be written with their own framework.
 
-# 前后端分离
-
-- [2017-前后端分离，是为了彼此更好](https://parg.co/bwq)
-
-## Isomorphic | 同构开发
-
-- [isomorphic-tutorial](https://github.com/spikebrehm/isomorphic-tutorial)
-
-- [isomorphic-rendering](https://medium.com/@oleg008/isomorphic-rendering-d3e39c3ed073#.6ghei4r1l)
-
-- [redux-async-connect](https://github.com/Rezonans/redux-async-connect)
-
 # Large-scale Applications
 
 
