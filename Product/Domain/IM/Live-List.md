@@ -24,8 +24,6 @@
 
 - [iOS 开发之集成 ijkplayer 视频直播](http://allluckly.cn/%E6%8A%95%E7%A8%BF/tuogao46)
 
-- [Live #Project#](https://github.com/ltebean/Live): Demonstrate how to build a live broadcast app.
-
 ## H5
 
 - [2017-H5 直播避坑指南](https://zhuanlan.zhihu.com/p/27690199?utm_medium=social&utm_source=ZHShareTargetIDMore):在摸索优化背后，我们也想把这些问题和解决方法总结下来，让其他同学做到直播的时候可以自豪的说，这就是我们的 h5 直播体验。
