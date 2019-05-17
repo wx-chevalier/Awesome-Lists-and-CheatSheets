@@ -36,10 +36,14 @@ Massive & Curated OpenSource Project/Framework/Tool Links, for building great di
 
 - [Flink #Project#](https://github.com/apache/flink): Apache Flink is an open source stream processing framework with powerful stream- and batch-processing capabilities.
 
-# Datawarehouse
+# OLAP
 
-## ETL
+- [2016-ClickHouse #Project#](https://clickhouse.yandex/): ClickHouse is an open source column-oriented database management system capable of real time generation of analytical data reports using SQL queries.
 
-- [awesome-etl #Project#](https://github.com/pawl/awesome-etl#workflow-managementengines): A curated list of awesome ETL frameworks, libraries, and software.
+- [2017-Druid #Project#](http://druid.io/): Apache Druid (incubating) is a high performance analytics data store for event-driven data.
 
-- [DataX #Project#](https://github.com/alibaba/DataX): 阿里巴巴集团内被广泛使用的离线数据同步工具/平台
+- [Pinot #Project#](https://github.com/linkedin/pinot): Pinot is a realtime distributed OLAP datastore, which is used at LinkedIn to deliver scalable real time analytics with low latency.
+
+## Query Engine
+
+- [Presto #Project#](https://prestodb.io/): Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.

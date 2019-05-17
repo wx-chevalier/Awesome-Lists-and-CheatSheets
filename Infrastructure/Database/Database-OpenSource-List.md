@@ -102,20 +102,6 @@
 
 - [Dgraph #Project#](https://dgraph.io/): Dgraph is a horizontally scalable and distributed graph database, providing ACID transactions, consistent replication and linearizable reads.
 
-# Datawarehouse
-
-## OLAP
-
-- [2016-ClickHouse #Project#](https://clickhouse.yandex/): ClickHouse is an open source column-oriented database management system capable of real time generation of analytical data reports using SQL queries.
-
-- [2017-Druid #Project#](http://druid.io/): Apache Druid (incubating) is a high performance analytics data store for event-driven data.
-
-- [Pinot #Project#](https://github.com/linkedin/pinot): Pinot is a realtime distributed OLAP datastore, which is used at LinkedIn to deliver scalable real time analytics with low latency.
-
-## Query Engine
-
-- [Presto #Project#](https://prestodb.io/): Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.
-
 # TimeSeries
 
 - [2013-InfluxDB #Project#](https://github.com/influxdata/influxdb): InfluxDB is an open source time series database with no external dependencies. It's useful for recording metrics, events, and performing analytics.
@@ -127,3 +113,11 @@
 # NewSQL
 
 - [FoundationDB #Project#](https://github.com/apple/foundationdb): FoundationDB is a distributed database designed to handle large volumes of structured data across clusters of commodity servers.
+
+# Datawarehouse
+
+## ETL
+
+- [awesome-etl #Project#](https://github.com/pawl/awesome-etl#workflow-managementengines): A curated list of awesome ETL frameworks, libraries, and software.
+
+- [DataX #Project#](https://github.com/alibaba/DataX): 阿里巴巴集团内被广泛使用的离线数据同步工具/平台
