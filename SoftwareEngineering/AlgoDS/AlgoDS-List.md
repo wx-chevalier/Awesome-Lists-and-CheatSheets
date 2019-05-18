@@ -28,6 +28,10 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 * [LeetCodeAnimation #Project#](https://github.com/MisterBooo/LeetCodeAnimation): Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解 LeetCode 题目的思路）
 
+- [Python & JAVA Solutions for Leetcode (inspired by haoel's leetcode)](https://github.com/qiyuangong/leetcode)
+
+- [LeetCode Algorithm in C++](https://github.com/haoel/leetcode)
+
 ## Blog
 
 - [程序员进阶之算法练习 #Series#](https://cloud.tencent.com/developer/article/1365773)

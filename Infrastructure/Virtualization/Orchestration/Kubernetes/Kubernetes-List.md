@@ -22,6 +22,8 @@
 
 * [2017-Kubernetes clusters for the hobbyist](https://github.com/hobby-kube/guide#cluster-size): This guide answers the question of how to setup and operate a fully functional, secure Kubernetes cluster on a cloud provider such as DigitalOcean or Scaleway.
 
+- [2019-浅谈 Kubernetes 在生产环境中架构](https://mp.weixin.qq.com/s/dbH3E51TKEqCgcFu-isbXQ): 本文，只是笔者针对Kubernetes生产环境运行的一些关于架构设计和实现方案的总结，内容很粗糙，同时也会不断完善。
+
 # Resource
 
 ## Book
