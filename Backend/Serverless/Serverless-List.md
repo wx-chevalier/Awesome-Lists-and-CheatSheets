@@ -6,6 +6,12 @@
 
 * [2017-The Comprehensive Guide to Serverless Architecture](https://www.simform.com/serverless-architecture-guide/)
 
+# Resources
+
+## Books
+
+- [Serverless 应用开发指南 #Book#](https://serverless.ink/): Serverless 架构是指大量依赖第三方服务（也叫做后端即服务，即“BaaS”）或暂存容器中运行的自定义代码（函数即服务，即“FaaS”）的应用程序。
+
 # Theory
 
 - [2017-Serverless beyond Functions](https://medium.com/cloud-academy-inc/serverless-beyond-functions-cd81ee4c6b8d): Most of the time, when talking about serverless, people thinks of functions, such as those provided by AWS Lambda.
