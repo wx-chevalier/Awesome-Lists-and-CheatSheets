@@ -8,9 +8,11 @@
 
 * [whistle #Project#](https://github.com/avwo/whistle): whistle is a cross-platform web debugging tool based on Node.js.
 
-# Interceptor
+# Interceptor & Proxy
 
 - [Talkback #Project#](https://github.com/ijpiantanida/talkback/): Talkback is a pure javascript standalone HTTP proxy.
+
+- [whistle #Project#](https://github.com/avwo/whistle): HTTP, HTTPS, WebSocket debugging proxy
 
 # WebSocket
 

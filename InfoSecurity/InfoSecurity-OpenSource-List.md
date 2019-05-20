@@ -2,9 +2,13 @@
 
 # InfoSecurity & Penetration OpenSource Scanners/Tools List | 信息安全与渗透测试工具集锦
 
+List of Security Archives Tools and software, generally for facilitate security & penetration research.
+
 ## Collection
 
 - [2017-Scanners Box #Project#](https://github.com/We5ter/Scanners-Box): Scanners Box is a collection of open source scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc.
+
+- [awesome-pentest #Project#](https://github.com/enaqx/awesome-pentest): A collection of awesome penetration testing resources, tools and other shiny things
 
 # Universal Penetration Tools/Scanners
 
@@ -58,6 +62,8 @@
 
 - [SecLists #Project#](https://github.com/danielmiessler/SecLists): SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
+- [2019-PayloadsAllTheThings #Project#](https://github.com/swisskyrepo/PayloadsAllTheThings): A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+
 ## Vulnerability Environment | 漏洞环境
 
 - [2015-常见漏洞扫描器测试平台](http://demo.aisec.cn/demo/)
@@ -98,6 +104,10 @@
 
 - [hydra #Project#](https://github.com/vanhauser-thc/thc-hydra): Number one of the biggest security holes are passwords, as every password security study shows. This tool is a proof of concept code, to give researchers and security consultants the possibility to show how easy it would be to gain unauthorized access from remote to a system.
 
+- Medusa
+
+- Hydra
+
 ## SQL Injection
 
 - [SQLMap]()
@@ -128,7 +138,9 @@
 
 - [Zap]()
 
-wireshark/burpsuite/fiddler/charles
+- [Wireshark]()
+
+- [Burpsuite]()
 
 ## WiFi
 
@@ -138,22 +150,19 @@ wireshark/burpsuite/fiddler/charles
 
 - [XX 摸机神器](http://xxsqblog.javaer.xyz/): 最好用的安卓改机工具。
 
-网上一些工具功能
-http://www.freebuf.com/sectool/176562.html 一些不错的功能
-https://github.com/subfinder/subfinder 子域名收集
-https://www.jianshu.com/p/561e4404316d 指纹识别
-
-    暴力破解：Medusa、 Hydra
-
-各种弱口令扫描
-web 漏洞扫描
-http://www.freebuf.com/sectool/176104.html
-https://github.com/jeffzh3ng/Fuxi-Scanner/blob/master/doc/README.zh.md 和我们类似
-https://github.com/SecWiki/Fox-scan/blob/master/README.md 代理扫描
-
-https://www.secpulse.com/archives/69055.html 爬虫
-https://blog.csdn.net/hackerie/article/details/77885818 各种扫描器
-
 # Hardware | 硬件
 
 - [PoisonTap #Project#](https://github.com/samyk/poisontap)
+
+# 链接
+
+- https://github.com/unexpectedBy/awesome-pentest-tools
+- https://github.com/x0x8x/awesome-pentester
+- http://www.freebuf.com/sectool/176562.html 一些不错的功能
+- https://github.com/subfinder/subfinder 子域名收集
+- https://www.jianshu.com/p/561e4404316d 指纹识别
+- http://www.freebuf.com/sectool/176104.html
+- https://github.com/jeffzh3ng/Fuxi-Scanner/blob/master/doc/README.zh.md 和我们类似
+- https://github.com/SecWiki/Fox-scan/blob/master/README.md 代理扫描
+- https://www.secpulse.com/archives/69055.html 爬虫
+- https://blog.csdn.net/hackerie/article/details/77885818 各种扫描器

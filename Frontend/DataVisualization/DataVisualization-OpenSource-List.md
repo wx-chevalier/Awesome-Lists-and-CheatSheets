@@ -72,13 +72,17 @@
 
 - [Turn.js #Project#](http://www.turnjs.com/#samples/magazine2/9): Turn.js is a JavaScript library that will make your content look like a real book or magazine using all the advantages of HTML5.
 
+## Misc
+
+- [ola #Project#](https://github.com/franciscop/ola): Smooth animation library for interpolating numbers.
+
 # Diagram Library | 数据可视化库
 
 ## Chart
 
 - [Echarts]()
 
-- [AntV]
+- [AntV]()
 
 * [CssCo](http://www.cssco.co/)
 
@@ -92,19 +96,17 @@
 
 * [Reacharts #Project#](http://recharts.org/): Redefined chart library built with React
 
-* [Frappé Charts #Project#](https://github.com/frappe/charts): https://github.com/frappe/charts
+* [Frappé Charts #Project#](https://github.com/frappe/charts): 
 
 * [mxGraph #Project#](https://jgraph.github.io/mxgraph/): mxGraph is a JavaScript diagramming library that enables interactive graph and charting applications to be quickly created that run natively in any major browser that is supported by its vendor.
 
 * [GoJS #Project#](https://github.com/NorthwoodsSoftware/GoJS): JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 
-### Heatmap | 热力图
+## Heatmap | 热力图
 
 - [github-contributions-canvas #Project#](https://github.com/sallar/github-contributions-canvas): A tool for drawing a heat-map of Github contributions on HTML Canvas.
 
-## Diagram
-
-### Flowchart
+## Flowchart
 
 - [js2flowchart #Project#](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart): a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 
@@ -112,15 +114,15 @@
 
 - [mermaid #Project#](https://github.com/knsv/mermaid)
 
-### MindMap | 思维脑图
-
-### Graph & Network
+## Graph & Network
 
 - [2018-Cytoscape.js #Project#](http://js.cytoscape.org/): Graph theory / network library for analysis and visualisation.
 
 * [react-network-diagrams #Project#](https://github.com/esnet/react-network-diagrams): Contains ESnet network mapping and circuit rendering code, as used in the ESnet portal.
 
-## Graph Editor | 图编辑器
+### MindMap | 思维脑图
+
+### Graph Editor | 图编辑器
 
 - [2014-mxGraph #Project#](https://github.com/jgraph/mxgraph): mxGraph is a fully client side JavaScript diagramming library that uses SVG and HTML for rendering.
 
