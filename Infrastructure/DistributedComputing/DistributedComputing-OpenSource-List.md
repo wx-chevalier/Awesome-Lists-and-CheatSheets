@@ -42,6 +42,8 @@ Massive & Curated OpenSource Project/Framework/Tool Links, for building great di
 
 - [2017-Druid #Project#](http://druid.io/): Apache Druid (incubating) is a high performance analytics data store for event-driven data.
 
+- [2017-Mondrian #Project#](https://github.com/pentaho/mondrian): Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time.
+
 - [Pinot #Project#](https://github.com/linkedin/pinot): Pinot is a realtime distributed OLAP datastore, which is used at LinkedIn to deliver scalable real time analytics with low latency.
 
 ## Query Engine
