@@ -110,6 +110,10 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [Slim #Project#](https://github.com/openacid/slim): Slim is collection of surprisingly space efficient data types, with corresponding serialization APIs to persisting them on-disk or for transport.
 
+- [gods #Project#](https://github.com/emirpasic/gods): GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, …
+
+- [go-datastructures #Project#](https://github.com/Workiva/go-datastructures): Go-datastructures is a collection of useful, performant, and threadsafe Go datastructures.
+
 # Rust
 
 - [2017-Common data structures and algorithms in Rust #Project#](https://github.com/EbTech/rust-algorithms): A collection of classic data structures and algorithms, emphasizing beauty and clarity over full generality.
