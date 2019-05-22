@@ -30,6 +30,21 @@ The contents organization form follows [Web MindMap](),
 
 ## Builder
 
+### Bundler
+
+* [Webpack #Project#](https://webpack.js.org/): Webpack is a static module bundler for modern JavaScript applications.
+
+- [2017-Parcel #Project#](https://github.com/parcel-bundler/parcel): Blazing fast, zero configuration web application bundler.
+
+- [browserify #Project#](https://github.com/browserify/browserify): browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single <script> tag.
+
+- [2017-Backpack #Project#](https://github.com/jaredpalmer/backpack): Backpack is minimalistic build system for Node.js. Inspired by Facebook's create-react-app, Zeit's Next.js, and Remy's Nodemon, Backpack lets you create modern Node.js apps and services with zero configuration.
+
+- [2017-Microbundle #Project#](https://github.com/developit/microbundle): A zero-configuration bundler for tiny modules, powered by Rollup.
+
+- [FuseBox #Project](https://github.com/fuse-box/fuse-box): FuseBox is a bundler/module loader that combines the power of webpack, JSPM and SystemJS.
+
+
 ## IDE
 
 - [Rekit](https://github.com/supnate/rekit): IDE and toolkit for building scalable web applications with React, Redux and React-router
