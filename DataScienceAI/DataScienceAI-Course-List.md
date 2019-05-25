@@ -6,6 +6,8 @@
 
 - [2018-英特尔-人工智能学生套件 #Course#](https://software.intel.com/zh-cn/ai-academy/students/kits): 通过我们为软件开发人员、数据科学家和学生制作的免费课程学习人工智能理论并跟随动手练习。 这些课程涵盖人工智能论题，并探讨在个人计算机和服务器工作站中利用英特尔 ® 处理器的工具和优化的库。
 
+- [stanford-cs-221-artificial-intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence): VIP cheatsheets for Stanford's CS 221 Artificial Intelligence
+
 # Machine Learning | 机器学习
 
 - [2010-MIT Artifical Intelligence Videos #Course#](https://parg.co/Y6h): This course includes interactive demonstrations which are intended to stimulate interest and to help students gain intuition about how artificial intelligence methods work under a variety of circumstances.

@@ -94,6 +94,8 @@
 
 * [face-api.js #Project#](): JavaScript API for Face Recognition in the Browser with tensorflow.js.
 
+- [videoflow #Project#](https://github.com/videoflow/videoflow): Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
+
 ## OCR
 
 - [Tess4j #Project#](https://github.com/nguyenq/tess4j): Java JNA wrapper for Tesseract OCR API.

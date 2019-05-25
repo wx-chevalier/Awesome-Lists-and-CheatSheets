@@ -44,6 +44,8 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [Solve Data In Code #Project#](https://github.com/espadrine/Solve-Data-In-Code): All decidable problems can be solved with algorithms.
 
+- [2019-algo](https://github.com/wangzheng0822/algo): 数据结构和算法必知必会的 50 个代码实现。
+
 # Universe
 
 - [VisuAlgo](https://parg.co/ddd): visualising data structures and algorithms through animation

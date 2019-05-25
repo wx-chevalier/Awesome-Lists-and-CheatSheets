@@ -74,9 +74,13 @@
 
 - [Sharding-Sphere #Project#](https://gitee.com/Sharding-Sphere/sharding-sphere): Sharding-Sphere is an open-source ecosystem consisted of a set of distributed database middleware solutions, including 3 independent products, Sharding-JDBC, Sharding-Proxy & Sharding-Sidecar (todo).
 
-* [KingShard #Project#](https://github.com/flike/kingshard): kingshard is a high-performance proxy for MySQL powered by Go.
+* [2015-KingShard #Project#](https://github.com/flike/kingshard): kingshard is a high-performance proxy for MySQL powered by Go.
 
 * [Atlas #Project#](https://github.com/Qihoo360/Atlas): A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team.
+
+* [2017-Vitess #Project#](https://github.com/vitessio/vitess): Vitess is a database clustering system for horizontal scaling of MySQL.
+
+* [2019-Gaea #Project#](https://github.com/XiaoMi/Gaea): Gaea is a mysql proxy, it's developed by xiaomi b2c-systech team.
 
 # Key-Value Database
 
