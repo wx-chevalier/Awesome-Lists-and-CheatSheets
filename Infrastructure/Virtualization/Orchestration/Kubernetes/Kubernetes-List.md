@@ -22,7 +22,7 @@
 
 * [2017-Kubernetes clusters for the hobbyist](https://github.com/hobby-kube/guide#cluster-size): This guide answers the question of how to setup and operate a fully functional, secure Kubernetes cluster on a cloud provider such as DigitalOcean or Scaleway.
 
-- [2019-浅谈 Kubernetes 在生产环境中架构](https://mp.weixin.qq.com/s/dbH3E51TKEqCgcFu-isbXQ): 本文，只是笔者针对Kubernetes生产环境运行的一些关于架构设计和实现方案的总结，内容很粗糙，同时也会不断完善。
+- [2019-浅谈 Kubernetes 在生产环境中架构](https://mp.weixin.qq.com/s/dbH3E51TKEqCgcFu-isbXQ): 本文，只是笔者针对 Kubernetes 生产环境运行的一些关于架构设计和实现方案的总结，内容很粗糙，同时也会不断完善。
 
 # Resource
 
@@ -54,4 +54,4 @@
 
 ## Helm
 
-- [使用Helm优化Kubernetes下的研发体验：基础设施即代码](https://mp.weixin.qq.com/s/NdQYzMfRnQv7YatX7075Eg): 本文中，笔者将以一个Spring Boot程序为例，介绍如何在软件研发端到端过程中是使用Helm。
+- [使用 Helm 优化 Kubernetes 下的研发体验：基础设施即代码](https://mp.weixin.qq.com/s/NdQYzMfRnQv7YatX7075Eg): 本文中，笔者将以一个 Spring Boot 程序为例，介绍如何在软件研发端到端过程中是使用 Helm。
