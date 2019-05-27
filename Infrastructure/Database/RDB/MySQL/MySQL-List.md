@@ -34,7 +34,7 @@
 
 - [实例解析 MySQL 性能瓶颈排查定位](http://ourmysql.com/archives/1416)
 
-- [高效 MySQL 的 N 个习惯  ](http://mp.weixin.qq.com/s?__biz=MjM5NzAzMTY4NQ==&mid=2653929230&idx=1&sn=60dd4c8527af847dd0ef58cc4c2c976e&chksm=bd3b25648a4cac72f0c5d4055b5a743b3847775c97b73c613a4b0b88271f16026d480d1ff2f0&scene=0#rd)
+- [高效 MySQL 的 N 个习惯](http://mp.weixin.qq.com/s?__biz=MjM5NzAzMTY4NQ==&mid=2653929230&idx=1&sn=60dd4c8527af847dd0ef58cc4c2c976e&chksm=bd3b25648a4cac72f0c5d4055b5a743b3847775c97b73c613a4b0b88271f16026d480d1ff2f0&scene=0#rd)
 
 - [MySQL 大表优化方案](https://segmentfault.com/a/1190000006158186)
 

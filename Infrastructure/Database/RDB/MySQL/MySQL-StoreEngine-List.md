@@ -42,6 +42,10 @@
 
 - [2011-MySQL 索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html): 为了避免混乱，本文将只关注于 BTree 索引，因为这是平常使用 MySQL 时主要打交道的索引，至于哈希索引和全文索引本文暂不讨论。
 
-- [2017-10 分钟让你明白 MySQL 是如何利用索引的](http://fordba.com/spend-10-min-to-understand-how-mysql-use-index.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io): 在 MySQL 中进行 SQL 优化的时候，经常会在一些情况下，对 MySQL 能否利用索引有一些迷惑。
+- [2017-10 分钟让你明白 MySQL 是如何利用索引的](http://fordba.com/spend-10-min-to-understand-how-mysql-use-index.html): 在 MySQL 中进行 SQL 优化的时候，经常会在一些情况下，对 MySQL 能否利用索引有一些迷惑。
 
 - [2018-B-Tree 索引](http://blueskykong.com/2018/07/28/b-tree-index/): 本文就详细讲解一下 B-Tree 索引的的底层结构，使用原则和特性
+
+# 事务管理
+
+- [Hermitage](https://github.com/ept/hermitage): Testing transaction isolation levels
