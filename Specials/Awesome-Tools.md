@@ -122,6 +122,8 @@
 
 - [2018-Glorious Demo #Project#](https://github.com/glorious-codes/glorious-demo): The easiest way to demonstrate your code in action.
 
+- [CodeSpeak #Project#](https://github.com/sethwilsonUS/codespeak): A web-based speech-to-code editor for humans.
+
 ## VSCode
 
 # Cooperative Work | 协同工作
