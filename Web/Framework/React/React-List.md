@@ -34,6 +34,18 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 * [2018-Migrating Medium to React.js and GraphQL](https://www.infoq.com/news/2018/05/medium-reactjs-graphql-migration): making the new system incrementally available to users while not hindering development of new features.
 
+### Showcases
+
+- [2017-A React TODOs example, explained](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)
+
+- [2017-Create a realtime football voting app using React, Redux, React-Router-v4 and Firebase](https://parg.co/bhD): In this series of tutorials, we’ll be creating a football voting app using React, Redux, Redux-Saga, React-Router v4, and Firebase. In this first part, we will setup the project. We’re going to use create-react-app to scaffold the initial project structure, tweak it a bit, and then add the necessary libraries that we’ll be using.
+
+* [2017-How to Build a ToDo App Using React, Redux, and Webpack](https://parg.co/bMT): In this tutorial I’m going to show you how to create a simple “ToDo” app using React, Redux, a little bit of Node, and Cosmic JS.
+
+- [2018-react-kanban #Project#](https://github.com/yogaboll/react-kanban): A Trello-like application built with React and Redux.
+
+- [2018-devhub #Project#](https://github.com/devhubapp/devhub): DevHub: TweetDeck for GitHub - Android, iOS, Web & Desktop
+
 # Resource | 资源
 
 ## Book | 书籍
@@ -93,16 +105,6 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 * [2018-A Comprehensive Guide to React.js in 2018](https://medium.freecodecamp.org/a-comprehensive-guide-to-react-js-in-2018-ba8bb6975597): This article was originally published in January of 2015, but was recently updated to React 16.3 and all the goodness it contains.
 
 * [2018-React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap): Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn in order to become a React developer.
-
-## Showcases
-
-- [2017-A React TODOs example, explained](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)
-
-- [2017-Create a realtime football voting app using React, Redux, React-Router-v4 and Firebase](https://parg.co/bhD): In this series of tutorials, we’ll be creating a football voting app using React, Redux, Redux-Saga, React-Router v4, and Firebase. In this first part, we will setup the project. We’re going to use create-react-app to scaffold the initial project structure, tweak it a bit, and then add the necessary libraries that we’ll be using.
-
-* [2017-How to Build a ToDo App Using React, Redux, and Webpack](https://parg.co/bMT): In this tutorial I’m going to show you how to create a simple “ToDo” app using React, Redux, a little bit of Node, and Cosmic JS.
-
-- [2018-react-kanban #Project#](https://github.com/yogaboll/react-kanban): A Trello-like application built with React and Redux.
 
 ## Interview
 
