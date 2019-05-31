@@ -30,6 +30,8 @@
 
 - [glTF #Project#](https://github.com/KhronosGroup/glTF): glTF™ (GL Transmission Format) is a royalty-free specification for the efficient transmission and loading of 3D scenes and models by applications.
 
+- [Zdog #Project#](https://github.com/metafizzy/zdog): Round, flat, designer-friendly pseudo-3D engine
+
 ## D3.js
 
 ## Three.js

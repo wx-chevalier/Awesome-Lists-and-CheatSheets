@@ -9,3 +9,7 @@
 # Ethereum 
 
 * [TypeChain #Project#](https://github.com/Neufund/TypeChain): Typescript bindings for Ethereum smartcontracts.
+
+# Market 
+
+- [0x Launch Kit #Project#](https://0x.org/launch-kit): Launch your own exchange or marketplace in minutes.
