@@ -170,14 +170,6 @@
 
 - [Realms Wiki Beta #Project#](https://github.com/scragg0x/realms-wiki): Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger. Basic authentication and registration included.
 
-## 媒体处理
-
-- [Kap #Project#](https://getkap.co/): Capture your screen, An open-source screen recorder built with web technology.
-
-- [Remove Image Background](https://www.remove.bg/): 100% automatically – in 5 seconds – without a single click.
-
-- [MathPix](https://mathpix.com): Take a screenshot of math and paste the LaTeX into your editor, all with a single keyboard shortcut.
-
 ## Deployment | 云端部署
 
 - [Github Pages](): [2017-GitHub Pages and Single-Page Apps](https://dev.to/_evansalter/github-pages-and-single-page-apps)
@@ -211,6 +203,20 @@
 # Workflow
 
 - [Repeat #Project#](https://github.com/repeats/Repeat): Repeat yourself with some intelligence. This, if used correctly, can improve your productivity greatly.
+
+# 图片与录屏
+
+## 录屏
+
+- [Kap #Project#](https://getkap.co/): Capture your screen, An open-source screen recorder built with web technology.
+
+## 图片处理
+
+- [Remove Image Background](https://www.remove.bg/): 100% automatically – in 5 seconds – without a single click.
+
+## OCR
+
+- [MathPix](https://mathpix.com): Take a screenshot of math and paste the LaTeX into your editor, all with a single keyboard shortcut.
 
 # Todos
 

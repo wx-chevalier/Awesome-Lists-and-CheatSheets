@@ -57,3 +57,5 @@
 * [Dockerfile 最佳实践](http://dockone.io/article/132)
 
 * [Dockerfile 优化浅谈](http://dockone.io/article/255)
+
+- [记一次 docker 问题定位](https://parg.co/lIW): 性能测试发现业务进程运行在容器中比业务进程运行在宿主机上吞吐量下降了 100 倍，这让周一显得更加阴暗。

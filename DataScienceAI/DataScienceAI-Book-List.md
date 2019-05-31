@@ -26,6 +26,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 * [2017-G. Casella-An Introduction to Statistical Learning #Book#](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf): This book is appropriate for advanced undergraduates or master’s students in statistics or related quantitative fields or for individuals in otherdisciplines who wish to use statistical learning tools to analyze their data.
 
+* [2018-AI 算法工程师手册 #Book#](http://www.huaxiaozhuan.com/): 这是作者多年以来学习总结的笔记，经整理之后开源于世。目前还有约一半的内容在陆续整理中，已经整理好的内容放置在此。
+
 # Machine Learning | 机器学习
 
 - [2007-Pattern Recognition And Machine Learning #Book#](https://book.douban.com/subject/2061116/): The book is suitable for courses on machine learning, statistics, computer science, signal processing, computer vision, data mining, and bioinformatics.
