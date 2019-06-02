@@ -80,6 +80,8 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 - [2017-learncodeacademy/react-js-tutorials](https://github.com/learncodeacademy/react-js-tutorials): Code that goes along with my YouTube React JS Series.
 
+- [2018-React 从入门到精通 #Course#](https://github.com/supnate/react-geek-time): 极客时间：React 从入门到精通。
+
 ## Collection | 集合
 
 - [Awesome-React #Collection#](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem.
