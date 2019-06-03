@@ -24,6 +24,10 @@
 
 ## Linguistic Structure
 
+## Knowledge Graph | 知识图谱
+
+- [基于医药知识图谱的智能问答系统](https://github.com/YeYzheng/KGQA-Based-On-medicine): 这是一个基于Python模块REfO实现的知识库问答初级系统. 该问答系统可以解析输入的自然语言问句生成 SPARQL 查询，进一步请求后台基于TDB知识库的Apache Jena Fuseki 服务, 进而得到问题的结果。
+
 # Game | 游戏
 
 - [OpenAI Gym](https://github.com/openai/gym): OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms. This is the gym open-source library, which gives you access to a standardized set of environments.
