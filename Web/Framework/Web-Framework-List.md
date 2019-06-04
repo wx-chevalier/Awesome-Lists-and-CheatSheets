@@ -8,7 +8,7 @@
 
 * [2017-Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://parg.co/bxB)
 
-* [为何 Angular 2/4 为时已晚](https://parg.co/bXn)：作者在本文中首先回顾了 2012 年中 Angular 为何名噪一时，2013 年里 React 又是如何重塑了前端开发的技术栈与理念，2015 年里 React Native 的登场又带来了哪些变化，以及现代前端开发中如何使用 Webpack、NPM 这些工具辅助 React、Vue.js 这些轻量级的前端框架来维护大规模、可扩展的单页应用。
+* [为何 Angular 2/4 为时已晚](https://url.wx-coder.cn/lrKga)：作者在本文中首先回顾了 2012 年中 Angular 为何名噪一时，2013 年里 React 又是如何重塑了前端开发的技术栈与理念，2015 年里 React Native 的登场又带来了哪些变化，以及现代前端开发中如何使用 Webpack、NPM 这些工具辅助 React、Vue.js 这些轻量级的前端框架来维护大规模、可扩展的单页应用。
 
 # Comparison
 

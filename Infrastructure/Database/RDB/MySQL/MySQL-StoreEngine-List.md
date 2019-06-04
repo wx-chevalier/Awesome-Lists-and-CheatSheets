@@ -10,7 +10,7 @@
 
 - [MySQL 线程池内幕](https://my.oschina.net/andylucc/blog/820624)：在 MySQL 中，线程池指的是用来管理处理 MySQL 客户端连接任务的线程的一种机制，我厂用的 percona 版本已经是集成了线程池，只需要通过如下参数开启即可。
 
-- [MySQL 锁系列(七)之 锁算法详解](https://parg.co/bXN)
+- [MySQL 锁系列(七)之 锁算法详解](https://url.wx-coder.cn/lrKga)
 
 - [InnoDB 存储引擎体系架构](https://segmentfault.com/a/1190000004673132)
 
