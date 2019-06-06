@@ -13,3 +13,7 @@
 * [2017-Build a Location-based Chatroom with Firebase and Vue.js](https://parg.co/bLH)[ssh-chat](https://github.com/shazow/ssh-chat)
 
 - [Websocket based group chat app built with socket.io and react.](https://github.com/justadudewhohacks/websocket-chat)
+
+# 长连接网关
+
+- [2019-知乎千万级高性能长连接网关是如何搭建的](https://mp.weixin.qq.com/s/gF2kyUtYQb53l10hln2I1g?from=groupmessage&isappinstalled=0): 知乎长连接网关致力于业务数据解耦、消息高效分发、解决容量问题，同时提供一定程度的消息可靠性保证。
