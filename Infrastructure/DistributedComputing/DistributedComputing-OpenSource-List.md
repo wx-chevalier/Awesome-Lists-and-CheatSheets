@@ -48,6 +48,6 @@ Massive & Curated OpenSource Project/Framework/Tool Links, for building great di
 
 - [Pinot #Project#](https://github.com/linkedin/pinot): Pinot is a realtime distributed OLAP datastore, which is used at LinkedIn to deliver scalable real time analytics with low latency.
 
-## Query Engine
+## MPP
 
 - [Presto #Project#](https://prestodb.io/): Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.
