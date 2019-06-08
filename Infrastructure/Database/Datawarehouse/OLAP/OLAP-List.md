@@ -5,3 +5,11 @@
 - [2018-Uber 为什么已有 Elasticsearch，我们还要重造实时分析引擎 AresDB？](https://mp.weixin.qq.com/s/Hpy76P0spGJcDmmBCq2vpA): AresDB 发布于 2018 年 11 月，是一个开源的实时分析引擎，它使用了一种非同寻常的算能来源——图形处理单元（GPU），使我们的分析能力得以大规模增长。作为一种新兴的实时分析工具，GPU 技术在过去几年中取得了显著进步，非常适用于实时计算和并行数据处理。
 
 - [2018-Scalable Push-Based Real-Time Queries on Top of Pull-Based Databases #Paper#](https://www.dropbox.com/s/6tnbrylf86w5e0x/wingerath_dissertation.pdf?dl=0)
+
+# ETL
+
+- [Spark Streaming + Spark SQL 实现配置化 ETL 流程](http://www.jianshu.com/p/cd26a413cbd4)
+
+- [2018-弃用 ETL，为什么说 ELT 才更适合 AI 应用场景？](https://mp.weixin.qq.com/s/osCRnfnuCFGJIR1jkhgUwA): 在 AI 应用场景下，数据集成有哪些特点？随着 AI 应用场景越来越多，为什么我们需要从 ETL 转换到 ELT？又会遇到哪些问题和挑战？
+
+# Data Pipeline
