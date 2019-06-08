@@ -144,6 +144,8 @@
 
 - [The home of the U.S. Government’s open data](https://www.data.gov/): Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.
 
+- [Enterprise Registration Data of Chinese Mainland](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland): 中国大陆 31 个省份1978 年至 2019 年一千多万工商企业注册信息，包含企业名称、注册地址、统一社会信用代码、地区、注册日期、经营范围、法人代表、注册资金、企业类型等详细资料。
+
 # Others
 
 - [Fake Mail Generator #Project#](http://www.fakemailgenerator.com/#/armyspy.com/Nity1962/)
