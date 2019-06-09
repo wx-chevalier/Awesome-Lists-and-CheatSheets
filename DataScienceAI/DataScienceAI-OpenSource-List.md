@@ -90,12 +90,16 @@
 
 - [2018-FastPhotoStyle #Project#](https://github.com/NVIDIA/FastPhotoStyle): This code repository contains an implementation of our fast photorealistic style transfer algorithm.
 
+- [videoflow #Project#](https://github.com/videoflow/videoflow): Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
+
+## Face Recognition
+
 - [2018-pico.js #Project#](https://github.com/tehnokv/picojs): a face-detection library in 200 lines of JavaScript
 
 * [face-api.js #Project#](): JavaScript API for Face Recognition in the Browser with tensorflow.js.
 
-- [videoflow #Project#](https://github.com/videoflow/videoflow): Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
-
 ## OCR
 
 - [Tess4j #Project#](https://github.com/nguyenq/tess4j): Java JNA wrapper for Tesseract OCR API.
+
+- [2018-alpr-unconstrained](https://github.com/sergiomsilva/alpr-unconstrained): License Plate Detection and Recognition in Unconstrained Scenarios.
