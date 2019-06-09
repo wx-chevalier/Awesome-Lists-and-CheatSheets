@@ -4,6 +4,9 @@
 
 本文包含了一些基于人工智能、机器学习、深度学习等技术，实现的有趣的模型、应用、案例。
 
+- [2019-Deep Learning Models](https://github.com/rasbt/deeplearning-models): 
+A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
+
 # Machine Learning
 
 - [SPTAG #Project#](https://github.com/microsoft/SPTAG): A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
@@ -40,7 +43,7 @@
 
 * [2018-How to build your own AlphaZero AI using Python and Keras](https://parg.co/UiX): Teach a machine to learn Connect4 strategy through self-play and deep learning.
 
-# Image Processing | 图像处理
+# Computer Vision | 计算机视觉
 
 - [2018-One Pixel Attack #Project#](https://github.com/Hyperparticle/one-pixel-attack-keras): Keras reimplementation of "One pixel attack for fooling deep neural networks" using differential evolution on cifar10.
 
@@ -53,10 +56,6 @@
 - [2018-vid2vid #Project#](https://github.com/NVIDIA/vid2vid): Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 
 - [2018-DeOldify #Project#](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
-
-## OCR
-
-- [2018-alpr-unconstrained](https://github.com/sergiomsilva/alpr-unconstrained): License Plate Detection and Recognition in Unconstrained Scenarios.
 
 ## Motion Capture
 
