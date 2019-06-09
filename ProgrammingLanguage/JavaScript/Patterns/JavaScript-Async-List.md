@@ -32,17 +32,17 @@
 
 - [What is the JavaScript Event Loop?](http://altitudelabs.com/blog/what-is-the-javascript-event-loop/)
 
+* [2017-Understanding Javascript Function Executions — Call Stack, Event Loop , Tasks & more ](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec?source=linkShare-fe48c4221a4c-1503534847)
+
+- [浏览器和 Node 中 Event Loop 其实是不相同的。](https://zhuanlan.zhihu.com/p/54882306): 本文我们将会介绍 JS 实现异步的原理，并且了解了在浏览器和 Node 中 Event Loop 其实是不相同的。
+
+## Node.js EventLoop
+
 - [The Node.js Event Loop, Timers, and process.nextTick()](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
 
 - [2016-Understanding the Node.js Event Loop](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/): This article helps you to understand how the Node.js event loop works, and how you can leverage it to build fast applications. We’ll also discuss the most common problems you might encounter, and the solutions for them.
 
 - [2016-The Node.js Event Loop, Timers, and process.nextTick()](https://parg.co/b1l): The event loop is what allows Node.js to perform non-blocking IO operations — despite the fact that JavaScript is single-threaded — by offloading operations to the system kernel whenever possible.
-
-* [2017-Understanding Javascript Function Executions — Call Stack, Event Loop , Tasks & more ](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec?source=linkShare-fe48c4221a4c-1503534847)
-
-* [2017-JavaScript in parallel](http://50linesofco.de/post/2017-02-06-javascript-in-parallel-web-workers-transferables-and-sharedarraybuffer): Workers, transferable objects and SharedArrayBuffer
-
-## Node.js EventLoop
 
 - [2017-How does Node.js manage timers internally](https://asafdav2.github.io/2017/node-js-timers/)
 
@@ -58,13 +58,13 @@
 
 - [2017-How to make the fastest Promise library](https://parg.co/bhz): I have developed Aigle which is a fast Promise library. It is inspired byBluebird. The library is not only a benchmark exercise but a production-ready library that implements the Promise A+ standard, and does so faster than Bluebird.
 
-- [2017- 理解 Promise 简单实现的背后原理](http://bupt-hjm.github.io/2017/03/23/study-promise/)
+- [2017-理解 Promise 简单实现的背后原理](http://bupt-hjm.github.io/2017/03/23/study-promise/)
 
 - [2017-A quick guide to JavaScript Promises](https://dev.to/dkundel/a-quick-guide-to-javascript-promises): When you are writing JavaScript, callbacks are one of the most confusing concepts. Promises are the new approach to improve working with async code.
 
 - [2017-ES6 Promises: Patterns and Anti-Patterns](https://parg.co/UYb): Here I’ll lay out a few basic patterns I’ve learned while working with Promises, as well as some gotchas.
 
-* [剖析 Promise 内部结构，一步一步实现一个完整的、能通过所有 Test case 的 Promise 类](https://github.com/xieranmaya/blog/issues/3)
+* [剖析 Promise 内部结构](https://github.com/xieranmaya/blog/issues/3): 一步一步实现一个完整的、能通过所有 Test case 的 Promise 类。
 
 * [写一个符合 Promises/A+ 规范并可配合 ES7 async/await 使用的 Promise](https://zhuanlan.zhihu.com/p/23312442)
 
@@ -80,40 +80,36 @@
 
 # async/await
 
-- [2017-Await and Async Explained with Diagrams and Examples](http://nikgrozev.com/2017/10/01/async-await/)
+- [2014-es7-async-functions](https://jakearchibald.com/2014/es7-async-functions/)
 
-- [2017-Even with async/await, raw promises are still key to writing optimal concurrent javascript](https://medium.com/@bluepnume/even-with-async-await-you-probably-still-need-promises-9b259854c161#.w1k2udirb)
+* [2017-Await and Async Explained with Diagrams and Examples](http://nikgrozev.com/2017/10/01/async-await/)
 
-- [2017-The 80/20 Guide to Async/Await in Node.js](http://6me.us/jIIzOs)
+* [2017-Even with async/await, raw promises are still key to writing optimal concurrent javascript](https://medium.com/@bluepnume/even-with-async-await-you-probably-still-need-promises-9b259854c161#.w1k2udirb)
 
-- [2017-ES7 Async/Await pitfalls](https://medium.com/@matansokolovsky/es7-async-await-pitfalls-d24331388a70#.xkeyncsca)
+* [2017-The 80/20 Guide to Async/Await in Node.js](http://6me.us/jIIzOs)
 
-- [2017-Await and Async Explained with Diagrams and Examples](http://nikgrozev.com/2017/10/01/async-await/#composite-promises)
+* [2017-ES7 Async/Await pitfalls](https://medium.com/@matansokolovsky/es7-async-await-pitfalls-d24331388a70#.xkeyncsca)
 
-- [2017-How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with async/await](https://parg.co/UGj)
+* [2017-Await and Async Explained with Diagrams and Examples](http://nikgrozev.com/2017/10/01/async-await/#composite-promises)
 
-- [2017-Bounce #Project#](https://github.com/hapijs/bounce): Selective error catching and rewrite rules.[Learning to Throw Again](https://medium.com/@eranhammer/learning-to-throw-again-79b498504d28), [Catching without Awaiting](https://medium.com/@eranhammer/catching-without-awaiting-b2cb7df45790).
+* [2017-How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with async/await](https://parg.co/UGj)
 
-- [2017-JavaScript ES 2017: Learn Async/Await by Example](https://parg.co/U6L): Async/Await explained through a clear example.
+* [2017-Bounce #Project#](https://github.com/hapijs/bounce): Selective error catching and rewrite rules. [Learning to Throw Again](https://medium.com/@eranhammer/learning-to-throw-again-79b498504d28), [Catching without Awaiting](https://medium.com/@eranhammer/catching-without-awaiting-b2cb7df45790).
 
-* [Async Await BIBLE: Sequential, Parallel, Nest, Dynamic and Error Handling in Javascript](http://6me.us/ZMNvVy)
+* [2017-JavaScript ES 2017: Learn Async/Await by Example](https://parg.co/U6L): Async/Await explained through a clear example.
 
-* [asyncawait](https://github.com/yortus/asyncawait#1-introduction)
+- [Async Await BIBLE: Sequential, Parallel, Nest, Dynamic and Error Handling in Javascript](http://6me.us/ZMNvVy)
 
-* [simplifying-asynchronous-coding-es7-async-functions](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/)
+- [asyncawait](https://github.com/yortus/asyncawait#1-introduction)
 
-* [Taming the asynchronous beast with ES7](http://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html)
+- [simplifying-asynchronous-coding-es7-async-functions](http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/)
 
-* [es7-async-functions](https://jakearchibald.com/2014/es7-async-functions/)
+- [Taming the asynchronous beast with ES7](http://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html)
 
-- [Mastering Async Await in Node.js](https://blog.risingstack.com/mastering-async-await-in-nodejs/): In this article, you will learn how you can simplify your callback or Promise based Node.js application with async functions (async/await).
+* [Mastering Async Await in Node.js](https://blog.risingstack.com/mastering-async-await-in-nodejs/): In this article, you will learn how you can simplify your callback or Promise based Node.js application with async functions (async/await).
 
-- [2018-Faster async functions and promises](https://v8.dev/blog/fast-async): This article explores how we optimized async functions and promises in V8 (and to some extent in other JavaScript engines as well), and describes how we improved the debugging experience for async code.
+* [2018-Faster async functions and promises](https://v8.dev/blog/fast-async): This article explores how we optimized async functions and promises in V8 (and to some extent in other JavaScript engines as well), and describes how we improved the debugging experience for async code.
 
 # Reactive Programming
 
 - [2017-How to build a reactive engine in JavaScript.](https://parg.co/bhR)
-
-* [mitt](https://github.com/developit/mitt): Tiny 200b functional event emitter / pubsub.
-
-* [RxJS](https://github.com/Reactive-Extensions/RxJS)
