@@ -20,6 +20,8 @@
 
 * [Numeral-js #Project#](https://github.com/adamwdraper/Numeral-js): A javascript library for formatting and manipulating numbers.
 
+- [collect.js #Project#](https://github.com/ecrmnn/collect.js): Convenient and dependency free wrapper for working with arrays and objects.
+
 ### DateTime
 
 - [Luxon #Project#](https://github.com/moment/luxon): Luxon is a library for working with dates and times in Javascript.
