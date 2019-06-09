@@ -8,12 +8,6 @@
 
 - [2017-Mastering the Node.js Core Modules - The File System & fs Module](https://blog.risingstack.com/mastering-the-nodejs-core-modules-file-system-fs-module/): In this article, we'll take a look at the File System core module, File Streams and some fs module alternatives.
 
-## Event Loop
-
-- [2016-Understanding the Node.js Event Loop](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/): This article helps you to understand how the Node.js event loop works, and how you can leverage it to build fast applications. We’ll also discuss the most common problems you might encounter, and the solutions for them.
-
-- [2016-The Node.js Event Loop, Timers, and process.nextTick()](https://parg.co/b1l): The event loop is what allows Node.js to perform non-blocking IO operations — despite the fact that JavaScript is single-threaded — by offloading operations to the system kernel whenever possible.
-
 ## Modularity | 模块机制
 
 - [2011- 深入 Node.js 的模块机制](http://www.infoq.com/cn/articles/nodejs-module-mechanism)
