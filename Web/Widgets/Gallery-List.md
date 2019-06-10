@@ -22,6 +22,14 @@
 
 * [Instagram.css #Project#](https://github.com/picturepan2/instagram.css): Instagram.css - Pure CSS Instagram filters. You can add all these Instagram-like filters to your photos with using CSS only.
 
+## Gif
+
+- [image-diff](https://github.com/uber-archive/image-diff): Create image differential between two images.
+
+- [gif.js](https://github.com/jnordberg/gif.js): JavaScript GIF encoder that runs in your browser.
+
+- [gifshot](https://github.com/yahoo/gifshot): JavaScript library that can create animated GIFs from media streams, videos, or images
+
 # Crop & Compression | 裁剪与压缩
 
 - [2017-Cropper #Project#](http://fengyuanchen.github.io/cropper/): 基于 jQuery 的图片裁剪工具
