@@ -64,8 +64,6 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 * [2016-深度学习入门 #Book#](https://github.com/PaddlePaddle/book/blob/develop/README.md)：您现在在看的这本书是一本“交互式”电子书 —— 每一章都可以运行在一个 Jupyter Notebook 里。 我们把 Jupyter, PaddlePaddle, 以及各种被依赖的软件都打包进一个 Docker image 了。所以您不需要自己来安装各种软件，只需要安装 Docker 即可。
 
-- [动手学深度学习 #Book#](http://zh.gluon.ai/index.html#): 这是一本深度学习在线书，其使用 Apache MXNet 的最新 gluon 接口来演示如何从 0 开始实现深度学习的各个算法。作者利用 Jupyter notebook 能将文档、代码、公式和图形统一在一起的优势，提供了一个交互式的学习体验。
-
 * [2017-Neural Networks and Deep Learning #Book#](http://neuralnetworksanddeeplearning.com/): Neural Networks and Deep Learning is a free online book. The book will teach you about: (1) Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data. (2) Deep learning, a powerful set of techniques for learning in neural networks
 
 - [2017-TensorFlow Book #Book#](https://github.com/BinRoot/TensorFlow-Book): Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
@@ -75,6 +73,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 * [2018-深度学习 500 问 #Book#](https://github.com/scutan90/DeepLearning-500-questions): 以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。
 
 - [2019-深度学习理论与实战：提高篇 #Book#](http://fancyerii.github.io/2019/03/14/dl-book/): 本书的目标是使用通俗易懂的语言来介绍基础理论和最新的进展，同时也介绍代码的实现。通过理论与实践的结合使读者更加深入的理解理论知识，同时也把理论知识用于指导实践。
+
+- [2019-动手学深度学习 #Book#](http://zh.gluon.ai/index.html#): 这是一本深度学习在线书，其使用 Apache MXNet 的最新 gluon 接口来演示如何从 0 开始实现深度学习的各个算法。作者利用 Jupyter notebook 能将文档、代码、公式和图形统一在一起的优势，提供了一个交互式的学习体验。
 
 # NLP | 自然语言处理
 
