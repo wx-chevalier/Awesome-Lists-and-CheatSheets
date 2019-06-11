@@ -5,7 +5,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/wx-chevalier/Awesome-Lists)
 
 A curated list of Artificial Intelligence (AI) courses and books, aggerated with [DataScienceAI-Book-List](./DataScienceAI-Book-List.md) and [DataScienceAI-Course-List](./DataScienceAI-Course-List.md) from [Awesome-Lists](https://github.com/wx-chevalier/Awesome-Lists).
-:
+
 人工智能、深度学习与 TensorFlow 相关书籍、课程、示例列表是笔者 [Awesome Links](https://github.com/wx-chevalier/Awesome-Lists) 系列的一部分；对于其他的资料集锦、模型、开源工具与框架请参考 [DataScienceAIListSeries](https://github.com/wx-chevalier/Awesome-Lists/tree/master/DataScienceAI)。
 
 # Mathematics | 数学基础
@@ -60,13 +60,9 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2016-Stanford Deep Learning Tutorial #Book#](http://deeplearning.stanford.edu/tutorial/): This tutorial will teach you the main ideas of Unsupervised Feature Learning and Deep Learning. By working through it, you will also get to implement several feature learning/deep learning algorithms, get to see them work for yourself, and learn how to apply/adapt these ideas to new problems.
 
-- [2016-Building Machine Learning Projects with TensorFlow #Book#](https://parg.co/Y6s): Engaging projects that will teach you how complex data can be exploited to gain the most insight.
-
 * [2016-深度学习入门 #Book#](https://github.com/PaddlePaddle/book/blob/develop/README.md)：您现在在看的这本书是一本“交互式”电子书 —— 每一章都可以运行在一个 Jupyter Notebook 里。 我们把 Jupyter, PaddlePaddle, 以及各种被依赖的软件都打包进一个 Docker image 了。所以您不需要自己来安装各种软件，只需要安装 Docker 即可。
 
 * [2017-Neural Networks and Deep Learning #Book#](http://neuralnetworksanddeeplearning.com/): Neural Networks and Deep Learning is a free online book. The book will teach you about: (1) Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data. (2) Deep learning, a powerful set of techniques for learning in neural networks
-
-- [2017-TensorFlow Book #Book#](https://github.com/BinRoot/TensorFlow-Book): Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
 
 * [2017-Deep Learning with Python #Book#](https://github.com/fchollet/deep-learning-with-python-notebooks): Here we have only included the code samples themselves and immediately related surrounding comments.
 
@@ -98,5 +94,15 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 * [2014-DataScience From Scratch #Book#](http://shop.oreilly.com/product/0636920033400.do): In this book, you’ll learn how many of the most fundamental data science tools and algorithms work by implementing them from scratch.
 
 - [2016-Python Data Science Handbook #Book#](https://github.com/jakevdp/PythonDataScienceHandbook):Jupyter Notebooks for the Python Data Science Handbook
+
+# Toolkits
+
+## TensorFlow
+
+- [2016-Building Machine Learning Projects with TensorFlow #Book#](https://parg.co/Y6s): Engaging projects that will teach you how complex data can be exploited to gain the most insight.
+
+- [2017-TensorFlow Book #Book#](https://github.com/BinRoot/TensorFlow-Book): Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
+
+## PyTorch
 
 ---
