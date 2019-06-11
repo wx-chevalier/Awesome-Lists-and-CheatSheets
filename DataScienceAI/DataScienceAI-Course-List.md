@@ -82,4 +82,6 @@
 
 * [2017-Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning): A list of popular github projects related to deep learning (ranked by stars).
 
+* [2018-Seedbank #Project#](https://research.google.com/seedbank/guide/tutorial): Browse seeds from a list of different kinds of machine learning examples and use the top level categories to narrow your search according to your interests.
+
 ---
