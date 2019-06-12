@@ -66,7 +66,9 @@
 
 ## Course
 
-- [2018-MIT-6.824](http://nil.csail.mit.edu/6.824/2018/schedule.html): Distributed Systems Engineering, What is a distributed system?, etc.
+- [2018-MIT-6.824 #Course#](http://nil.csail.mit.edu/6.824/2018/schedule.html): Distributed Systems Engineering, What is a distributed system?, etc.
+
+- [PingCAP Talent Plan #Course#](https://github.com/pingcap/talent-plan): This is a series of training courses about writing distributed systems in Go and Rust. It is maintained by PingCAP for training and/or evaluating students, new employees, and new contributors to TiDB and TiKV.
 
 # 云计算
 
@@ -77,17 +79,5 @@
 - [Cloud Native Computing](http://container-solutions.com/cloud-native-computing/)
 
 - [2018-The business of SaaS](https://stripe.com/atlas/guides/business-of-saas#benchmarks-to-know): Understand why SaaS businesses work and how to grow them.
-
-# Case Study | 案例分析
-
-# 大厂分享
-
-- [2017 杭州云栖大会精华 PPT](https://github.com/Alimei/hangzhouYunQi2017ppt): 杭州云栖大会是阿里集团一年一度的全生态科技盛会。此次大会包含 140 多场技术主题论坛，共计 800 多个主题分享，涵盖人工智能、金融科技、量子计算、生命科学、IoT 、政务、多媒体、VR 等 20 多个前沿科技领域。
-
-- [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://parg.co/UKc):
-
-- [Software Architecture and Design](https://msdn.microsoft.com/en-us/library/ee658098.aspx)
-
-- [从无到有：微信后台系统的演进之路](https://mp.weixin.qq.com/s?__biz=MzI5MDAwOTIzOQ==&mid=402045684&idx=1&sn=5690281c941cd8eb203b6980cdae73ce)
 
 ---
