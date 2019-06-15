@@ -39,3 +39,5 @@
 - [双因素认证(2FA )教程](https://parg.co/Ucx)
 
 # OAuth
+
+# SSO | 单点登录

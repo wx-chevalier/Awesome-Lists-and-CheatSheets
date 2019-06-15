@@ -47,15 +47,3 @@
 - [2018-Unit and Integration Tests in Spring Boot](https://dzone.com/articles/unit-and-integration-tests-in-spring-boot-2): Learn how to write unit and integration tests in a Spring Boot environment and the tools to facilitate this in this tutorial.
 
 ## Production | 发布到生产环境
-
-# Spring Security
-
-- [2018-Security with Spring #Series#](https://www.baeldung.com/security-spring): The Security with Spring tutorials focus, as you'd expect, on Spring Security. Get started with the Registration series if you're interested in building a registration flow, and understanding some of the frameworks basics. Then, explore the topics you're most interested in, related to security. Finally, have a look at some of the more advanced topics, such as the OAuth support.
-
-## Spring Security 5
-
-- [Spring Security Series #Series#](https://www.baeldung.com/tag/spring-security-5/): With the latest Spring Security release, a lot has changed. One of those changes is how we can handle password encoding in our applications.
-
-## JWT
-
-- [2017-Spring Boot Security Jwt Authentication](https://www.devglan.com/spring-security/spring-boot-jwt-auth): In this post we will be securing our REST APIs with JWT(JSOn Web Token) authentication. We will be using spring boot maven based configuration to develop and secure our APIs with seperate API for signup and generate token.
