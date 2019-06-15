@@ -24,6 +24,10 @@
 
 - [Server-Side Vs. Client-Side A/B Testing Tools: What’s The Difference?](https://conversionxl.com/server-side-vs-client-side-ab-testing-tools-whats-the-difference/)
 
+# Chaos Engineering 
+
+- [2018-PRINCIPLES OF CHAOS ENGINEERING](http://principlesofchaos.org): Chaos Engineering is the discipline of experimenting on a system in order to build confidence in the system’s capability to withstand turbulent conditions in production.
+
 # 第三方测试
 
 - [2015- 国内移动测试服务盘点](http://www.infoq.com/cn/news/2015/06/mobile-testing-service)
