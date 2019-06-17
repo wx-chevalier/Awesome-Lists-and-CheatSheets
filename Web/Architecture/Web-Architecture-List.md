@@ -18,6 +18,8 @@
 
 - [single-spa #Project#](https://single-spa.js.org/docs/getting-started-overview.html): Build micro frontends that coexist and can each be written with their own framework.
 
+- [2019-大前端时代下的微前端架构：实现增量升级、代码解耦、独立部署](https://mp.weixin.qq.com/s/DVkrV_KKE9KaGSeUSenc6w): 本文将介绍前端领域最近的一项变革：单体前端架构正在过渡到许多较小、较易管理的前端架构。
+
 # Large-scale Applications
 
 
