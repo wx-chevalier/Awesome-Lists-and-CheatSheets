@@ -22,13 +22,7 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 # Development Libraries
 
-## Pattern Libraries
-
-- [Material-UI #Project#](http://www.material-ui.com/#/): A Set of React Components that Implement Google's Material Design.
-
-* [Ant Design #Project#](https://www.hugedomains.com/domain_profile.cfm?d=ant-design&e=com): An enterprise-class UI design language and React-based implementation.
-
-- [2017-Downshift #Project#](https://medium.com/@kentcdodds/introducing-downshift-for-react-b1de3fca0817): Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
+- [React Canvas #Project#](https://github.com/Flipboard/react-canvas): High performance <canvas> rendering for React components.
 
 ## Component Utilities
 
@@ -54,22 +48,4 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 - [styled-components](https://github.com/styled-components/styled-components):Visual primitives for the component age
 
-# Widgets
-
-##  List
-
-- [react-virtual-list #Project#](https://github.com/developerdizzle/react-virtual-list): Super simple virtualized list React component.
-
-- [React Canvas #Project#](https://github.com/Flipboard/react-canvas)
-
-## Table
-
-- [react-datasheet](https://nadbm.github.io/react-datasheet/)
-
-## Form
-
-- [Formik #Project# ](https://github.com/jaredpalmer/formik): Forms in React, without tears
-
-## I18n
-
-- [react-i18next #Project#](https://github.com/i18next/react-i18next): Internationalization for react done right. Using the i18next i18n ecosystem.
+# Internals

@@ -18,11 +18,15 @@
 
 ## Virtualized List | 虚拟列表
 
-- [react-virtualized #Project#](https://bvaughn.github.io/react-virtualized/)
+- [react-virtualized #Project#](https://bvaughn.github.io/react-virtualized/): React components for efficiently rendering large lists and tabular data.
+
+* [react-virtual-list #Project#](https://github.com/developerdizzle/react-virtual-list): Super simple virtualized list React component.
 
 # Table | 表格
 
 - [react-pivottable #Project#](https://react-pivottable.js.org/): React-based drag'n'drop pivot table with Plotly.js charts.
+
+* [react-datasheet #Project#](https://nadbm.github.io/react-datasheet/)
 
 ## DataGrid | 数据表格
 

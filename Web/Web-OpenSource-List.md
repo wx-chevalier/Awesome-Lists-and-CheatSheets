@@ -26,6 +26,12 @@ The contents organization form follows [Web MindMap](),
 
 - [2018-code-server #Project#](https://github.com/codercom/code-server): code-server is VS Code running on a remote server, accessible through the browser.
 
+## Pattern Libraries
+
+- [Material-UI #Project#](http://www.material-ui.com/#/): A Set of React Components that Implement Google's Material Design.
+
+* [Ant Design #Project#](https://www.hugedomains.com/domain_profile.cfm?d=ant-design&e=com): An enterprise-class UI design language and React-based implementation.
+
 # Engineering Practices
 
 ## Debug
