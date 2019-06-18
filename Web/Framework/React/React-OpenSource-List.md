@@ -46,6 +46,10 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 ## CSS-in-JS
 
-- [styled-components](https://github.com/styled-components/styled-components):Visual primitives for the component age
+- [styled-components #Project#](https://github.com/styled-components/styled-components):Visual primitives for the component age
 
 # Internals
+
+- [re-implement react fiber #Project#](https://github.com/tranbathanhtung/react-fiber-implement): react-fiber is my self-study project help me understand how react work.
+
+- [Didact #Project#](https://github.com/pomber/didact): A DIY guide to build your own React.
