@@ -52,6 +52,8 @@
 
 - [Nirvana #Project#](https://github.com/caicloud/nirvana): Golang Restful API Framework for Productivity. [才云正式开源其 Golang API 框架 Nirvana](https://mp.weixin.qq.com/s/NWGsPhVXuOW2t8cukP3TJQ)
 
+- [Sniper #Project#](https://github.com/bilibili/sniper/): 轻量级业务框架。
+
 ## WebSocket
 
 - [ws #Project#](https://github.com/gobwas/ws): Tiny WebSocket library for Go.
