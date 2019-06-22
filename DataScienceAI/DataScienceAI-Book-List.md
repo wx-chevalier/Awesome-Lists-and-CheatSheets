@@ -95,6 +95,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2016-Python Data Science Handbook #Book#](https://github.com/jakevdp/PythonDataScienceHandbook):Jupyter Notebooks for the Python Data Science Handbook
 
+- [2019-Another Book on Data Science #Book#](https://www.anotherbookondatascience.com): Learn R and Python in Parallel
+
 # Toolkits
 
 ## TensorFlow
