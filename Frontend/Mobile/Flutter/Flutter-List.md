@@ -27,3 +27,5 @@
 - [2018-Using Google’s Flutter For Truly Cross-Platform Mobile Development](https://www.smashingmagazine.com/2018/06/google-flutter-mobile-development/)
 
 - [2018-阿里巴巴 Flutter 技术全解析](https://mp.weixin.qq.com/s/bUJojkMXcy8oaPyga8Dg2Q): 为了回答这些问题，这篇文章将以“hello_flutter”为例，首先介绍 Flutter 的设计原则，然后讨论定制和优化，并为对 Flutter 感兴趣的开发人员提供了一些可遵循的步骤。
+
+- [2018-十分钟带你入坑Flutter](https://mp.weixin.qq.com/s/f9Ow954gBBK2Qpxj8Ifdxg): Flutter是Google开发的新一代跨平台方案，Flutter可以实现写一份代码同时运行在iOS和Android设备上，并且提供很好的性能体验。
