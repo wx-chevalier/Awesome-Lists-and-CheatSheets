@@ -28,7 +28,9 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 - Giants: [MSDN](https://msdn.microsoft.com/zh-cn), [Google Developers](https://developers.google.cn/), [云栖社区](https://yq.aliyun.com/), [IBM DeveloperWorks](http://www.ibm.com/developerworks/), [Facebook AI Research ](https://research.fb.com/ai-helps-facebooks-internet-drones-find-where-the-people-are/), [Facebook](https://code.facebook.com/posts/), [Airbnb](http://nerds.airbnb.com/)
 
-# Universe | 通用
+# Learning Methodology | 学习方法论
+
+# Lists
 
 - [Learn Anything #Project#](https://github.com/learn-anything/learn-anything): Learn Anything is an Open Source Website built by community to Learn Anything with Interactive Maps.
 
@@ -48,9 +50,9 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 - [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese): 在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，真心希望本指南能给你带来一点小小的帮助。
 
-## Computer Science
+# Computer Science
 
-## Interview | 面试
+# Interview | 面试
 
 - [InterviewMap #Project#](https://github.com/InterviewMap/InterviewMap): uild the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 
@@ -99,20 +101,6 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 - [Comic For What is BackEnd Developer](https://consolia-comic.com/comics/back-end)
 
 * [2017-The non-techie’s guide to servers](https://parg.co/bDN)
-
-# Infrastructure | 基础架构
-
-- [The Twelve-Factor App](http://12factor.net/zh_cn/): To raise awareness of some systemic problems we’ve seen in modern application development, to provide a shared vocabulary for discussing those problems, and to offer a set of broad conceptual solutions to those problems with accompanying terminology.
-
-- [The System Design Primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-
-- [awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-
-- [free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
-
-- [Cloud Native Landscape #Project#](https://github.com/cncf/landscape): Static Cloud Native Landscapes and Interactive Landscape that filters and sorts hundreds of cloud native projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
-
-# Frontend | 前端
 
 # DataScienceAI
 
