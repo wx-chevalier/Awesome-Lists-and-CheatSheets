@@ -28,6 +28,8 @@
 
 - [schema-to-yup #Project#](https://github.com/kristianmandrup/schema-to-yup): Schema to Yup validation schema conversion.
 
+- [json-schema-to-typescript #Project#](https://github.com/bcherny/json-schema-to-typescript): Compile json schema to typescript typings.
+
 ### DateTime
 
 - [Luxon #Project#](https://github.com/moment/luxon): Luxon is a library for working with dates and times in Javascript.
@@ -56,9 +58,9 @@
 
 ## Parser
 
-- [Acorn](https://github.com/ternjs/acorn)
+- [Acorn #Project#](https://github.com/ternjs/acorn): A small, fast, JavaScript-based JavaScript parser.
 
-- [babylon](https://github.com/babel/babylon)
+- [babylon #Project#](https://github.com/babel/babylon)
 
 ## Interpreter
 
@@ -69,3 +71,7 @@
 # TypeScript
 
 - [reflect-metadata #Project#](https://www.npmjs.com/package/reflect-metadata): A number of use cases (Composition/Dependency Injection, Runtime Type Assertions, Reflection/Mirroring, Testing) want the ability to add additional metadata to a class in a consistent manner.
+
+* [DefinitelyTyped #Project#](https://github.com/DefinitelyTyped/DefinitelyTyped): The repository for high quality TypeScript type definitions.
+
+- [tslint.json #Project#](https://palantir.github.io/tslint/usage/tslint-json/): When using the CLI or many third-party tools, a file named tslint.json is used to configure which rules get run.
