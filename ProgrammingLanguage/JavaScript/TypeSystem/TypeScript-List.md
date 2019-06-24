@@ -14,7 +14,7 @@
 
 - [2015-TypeScript Handbook #Book#](https://github.com/Microsoft/TypeScript-Handbook): The TypeScript Handbook is a comprehensive guide to the TypeScript language.
 
-* [2016-TypeScript Deep Dive #Book#](https://basarat.gitbooks.io/typescript/content/index.html): This is based on the lessons from Stack Overflow / DefinitelyTyped and general engagement with the TypeScript community.
+* [2016-TypeScript Deep Dive #Book#](https://basarat.gitbooks.io/typescript/content/index.html): This is based on the lessons from Stack Overflow / DefinitelyTyped and general engagement with the TypeScript community. 中文版参考 [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)。
 
 - [Awesome TypeScript #Collection#](https://github.com/dzharii/awesome-typescript): A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the awesome lists.
 
