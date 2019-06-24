@@ -33,7 +33,3 @@
 - [TypeScript Practical Introduction](https://parg.co/UsM): Let's learn TypeScript features through practical examples.
 
 * [2018-Surviving the TypeScript Ecosystem #Series#](https://medium.com/@KevinBGreene/surviving-the-typescript-ecosystem-writing-type-safe-ish-javascript-code-1e8375819d2e): I won’t be explaining anything around the JavaScript ecosystem and I won’t be covering with any depth TypeScript features that are intuitive and/or consistent with other statically-typed languages.
-
-# Integration
-
-- [2018-A crash course on TypeScript with Node.js](https://blog.sourcerer.io/a-crash-course-on-typescript-with-node-js-2c376285afe1)
