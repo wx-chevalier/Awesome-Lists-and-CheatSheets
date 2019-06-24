@@ -22,6 +22,12 @@
 
 - [collect.js #Project#](https://github.com/ecrmnn/collect.js): Convenient and dependency free wrapper for working with arrays and objects.
 
+### Object Schema
+
+- [Yup #Project#](https://github.com/jquense/yup): Dead simple Object schema validation.
+
+- [schema-to-yup #Project#](https://github.com/kristianmandrup/schema-to-yup): Schema to Yup validation schema conversion.
+
 ### DateTime
 
 - [Luxon #Project#](https://github.com/moment/luxon): Luxon is a library for working with dates and times in Javascript.
