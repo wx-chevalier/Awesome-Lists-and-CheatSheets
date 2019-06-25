@@ -1,4 +1,28 @@
-# Backend Test List | 服务端测试资料索引
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
+
+# Backend Test List | 软件测试资料索引
+
+- [一名资深质量工程师总结的 4 个工作思路](http://mp.weixin.qq.com/s/0qEBWuZa2fpybCjV52Qi1g)
+
+# Unit Test | 单元测试
+
+- [mocksArentStubs](http://martinfowler.com/articles/mocksArentStubs.html)
+
+- [BDD 从踢弟弟到逼弟弟](https://testerhome.com/topics/6804)
+
+- [2014-Goto Fail, Heartbleed, and Unit Testing Culture](https://martinfowler.com/articles/testing-culture.html): This article considers the role unit testing could play, showing how unit tests, and more importantly a unit testing culture, could have identified these particular bugs.
+
+# Integration Test | 集成测试
+
+# End To End Test | 端到端测试
+
+- [根据 PV 计算带宽及根据 PV 算并发](http://www.tuicool.com/articles/aqi6Znr)
+
+# A/B Test | A/B 测试
+
+- [perfecting-a-b-testing](http://blog.nordeus.com/dev-ops/perfecting-a-b-testing.htm)
+
+- [Server-Side Vs. Client-Side A/B Testing Tools: What’s The Difference?](https://conversionxl.com/server-side-vs-client-side-ab-testing-tools-whats-the-difference/)
 
 # Test Strategy
 
@@ -27,8 +51,6 @@
 - [模拟百万级 TCP 并发](http://mp.weixin.qq.com/s?__biz=MzIxMjAzMDA1MQ==&mid=2648945745&idx=1&sn=422c7dd658ba83a42f5753669716378f&chksm=8f5b535db82cda4b281dfab3858e4afa6e6b453d0b77f5dd5d3f8ca3e33184fa470803d4d21e#rd)
 
 - [性能测试应该怎么做？](http://coolshell.cn/articles/17381.html)
-
-- [k6 #Project# ](https://github.com/loadimpact/k6): k6 is a modern load testing tool, building on Load Impact's years of experience. It provides a clean, approachable scripting API, distributed and cloud execution, and orchestration via a REST API.
 
 * [sysbench 0.5 性能测试工具使用手册](http://blog.csdn.net/clh604/article/details/12108477)
 

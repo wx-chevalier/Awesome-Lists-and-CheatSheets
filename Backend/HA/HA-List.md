@@ -11,3 +11,7 @@
 # Resilience Engineering
 
 - [Resilience engineering notes](https://github.com/lorin/resilience-engineering#john-allspaw): This file contains notes about people active in resilience engineering, as well as some influential researchers who are no longer with us, organized alphabetically.
+
+# Chaos Engineering
+
+- [2018-Chaos Engineering](http://principlesofchaos.org): Chaos Engineering is the discipline of experimenting on a system in order to build confidence in the system’s capability to withstand turbulent conditions in production.
