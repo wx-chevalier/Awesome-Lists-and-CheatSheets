@@ -22,6 +22,10 @@
 
 - Facebook-Infer
 
+# IO Test
+
+- [fio #Project#](https://github.com/axboe/fio): Hence I needed a tool that would be able to simulate a given I/O workload without resorting to writing a tailored test case again and again.
+
 # Service Test Tools
 
 - [ChaosBlade #Project#](https://github.com/chaosblade-io): ChaosBlade 是一款遵循混沌工程实验原理，提供丰富故障场景实现，帮助分布式系统提升容错性和可恢复性的混沌工程工具，可实现底层故障的注入，特点是操作简洁、无侵入、扩展性强。
