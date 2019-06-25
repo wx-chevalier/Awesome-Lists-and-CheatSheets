@@ -20,7 +20,7 @@ The contents organization form follows [Web MindMap](),
 
 - [Svelte #Project#](https://github.com/sveltejs/svelte): Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
 
-## Development Tool
+## Scaffold
 
 - [2018-@pika/web #Project#](https://github.com/pikapkg/web): Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required.
 

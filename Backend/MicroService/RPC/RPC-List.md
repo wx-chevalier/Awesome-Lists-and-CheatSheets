@@ -57,3 +57,13 @@ https://www.eolinker.com/
 - [2017-体系化认识 RPC](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486833&idx=1&sn=2e44bf6c3bc1f6aadeba9bfb96e34620): 本文并不会深入到每一个主题剖析，只做提纲挈领的介绍。
 
 - [2017-从核心概念和技术层面着眼，系统化认识 RPC](https://mp.weixin.qq.com/s/6AX2-zjvcpesSe93HihVoA): RPC 最核心要解决的问题就是在分布式系统间，如何执行另外一个地址空间上的函数、方法，就仿佛在本地调用一样，个人总结的 RPC 最核心的概念和技术包括如下。
+
+# 系统降级
+
+## 服务限流
+
+- [2017-An alternative approach to rate limiting](https://medium.com/figma-design/an-alternative-approach-to-rate-limiting-f8a06cf7c94c)
+
+* [2017- 服务流量控制及限流](http://blog.brucefeng.info/post/rate-limiter): 流量控制的维度主要有 QPS 流量控制以及一定时间区间(如 / 天、/ 小时)的调用次数。
+
+* [2018-Sentinel 实战 #Series#](https://mp.weixin.qq.com/s/rjyU37Dm-sxNln7GUD8tOw): Sentinel 的三大功能： 限流 降级 系统保护。

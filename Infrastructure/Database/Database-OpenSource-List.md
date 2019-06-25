@@ -80,7 +80,7 @@
 
 - [Orchestrator #Project#](https://github.com/github/orchestrator): MySQL replication topology management and HA
 
-- [Canal #Project#](https://github.com/alibaba/canal): 阿里巴巴mysql数据库binlog的增量订阅&消费组件 。阿里云DRDS( https://www.aliyun.com/product/drds )、阿里巴巴TDDL 二级索引、小表复制powerd by canal. 
+- [Canal #Project#](https://github.com/alibaba/canal): 阿里巴巴 mysql 数据库 binlog 的增量订阅&消费组件 。阿里云 DRDS( https://www.aliyun.com/product/drds )、阿里巴巴 TDDL 二级索引、小表复制 powerd by canal.
 
 ## Sharding
 
@@ -105,6 +105,8 @@
 * [2018-RDR #Project#](https://github.com/xueqiu/rdr): RDR(redis data reveal) is a tool to parse redis rdbfile. Comparing to redis-rdb-tools, RDR is implemented by golang, much faster (5GB rdbfile takes about 2mins on my PC).
 
 * [2018-Tidis #Project#](https://github.com/yongman/tidis): Tidis is a Distributed NoSQL database, providing a redis-protocal api(string,list,hash,set,sorted-set), written in Go.
+
+* [2018-KeyDB #Project#](https://github.com/JohnSully/KeyDB): A Multithreaded Fork of Redis
 
 # Document Database
 
@@ -164,6 +166,6 @@
 
 - [DataX #Project#](https://github.com/alibaba/DataX): 阿里巴巴集团内被广泛使用的离线数据同步工具/平台
 
-## Data Pipeline 
+## Data Pipeline
 
-- [Debezium #Project#](https://debezium.io/docs/tutorial/): Debezium is a distributed platform that turns your existing databases into event streams, so applications can see and respond immediately to each row-level change in the databases. 
+- [Debezium #Project#](https://debezium.io/docs/tutorial/): Debezium is a distributed platform that turns your existing databases into event streams, so applications can see and respond immediately to each row-level change in the databases.

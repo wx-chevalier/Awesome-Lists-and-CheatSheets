@@ -112,6 +112,8 @@
 
 - [Dwitter](https://www.dwitter.net/): Edit the code to start the fun, or browse through other peoples demos below
 
+- [MarkText #Project#](https://github.com/marktext/marktext): A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
 ### Code Sharing & Visualization
 
 - [Carbon #Project#](https://github.com/dawnlabs/carbon): Create and share beautiful images of your source code.
