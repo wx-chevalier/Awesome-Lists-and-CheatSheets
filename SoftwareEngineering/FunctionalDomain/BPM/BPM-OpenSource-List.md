@@ -2,6 +2,12 @@
 
 # BPMN
 
+- [bpmn-js #Project#](https://github.com/bpmn-io/bpmn-js): A BPMN 2.0 rendering toolkit and web modeler.
+
+- [Activiti #Project#](https://www.activiti.org/): Helping businesses solve automation challenges in distributed, highly-scalable and cost effective infrastructures.
+
+- [Camunda #Project#](https://docs.camunda.org/manual/7.11/): Camunda BPM is a light-weight, open-source platform for Business Process Management.
+
 # Workflow management
 
 - [Prefect #Project#](https://github.com/PrefectHQ/prefect): Prefect is a new workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine. Users organize Tasks into Flows, and Prefect takes care of the rest.
