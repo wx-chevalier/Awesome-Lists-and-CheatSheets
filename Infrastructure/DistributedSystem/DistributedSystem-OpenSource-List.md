@@ -20,7 +20,9 @@
 
 - [Seata #Project#](https://github.com/seata/Seata): Seata is an easy-to-use, high-performance, java based, open source distributed transaction solution.
 
-# Distributed FS
+# Distributed Storage
+
+## Distributed FS
 
 ## Object Storage
 
@@ -29,3 +31,13 @@
 * [Pavlov Match #Project#](https://github.com/pavlovml/match):Scalable reverse image search
 
 - [Blb #Project#](https://github.com/westerndigitalcorporation/blb): Blb is a distributed object storage system designed for use on bare metal with spinning disks in cluster computing environments.
+
+- BFS
+
+- TFS
+
+- fastDFS
+
+- MogileFS
+
+# Block Storage
