@@ -7,3 +7,7 @@
 - [2019-Making Containers More Isolated: An Overview of Sandboxed Container Technologies](https://unit42.paloaltonetworks.com/making-containers-more-isolated-an-overview-of-sandboxed-container-technologies/): While the majority of the IT industry is in the midst of adopting container-based infrastructure (cloud-native solution), it is imperative to understand the technology’s limitations. 
 
 # Kata
+
+# Scratch 
+
+* [2017-Linux containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
