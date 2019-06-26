@@ -26,6 +26,6 @@
 
 - [ChaosBlade #Project#](https://github.com/chaosblade-io): ChaosBlade 是一款遵循混沌工程实验原理，提供丰富故障场景实现，帮助分布式系统提升容错性和可恢复性的混沌工程工具，可实现底层故障的注入，特点是操作简洁、无侵入、扩展性强。
 
-# Database Test Tools
+# Chaos Engineering
 
-- [Jepsen #Project#](https://github.com/aphyr/jepsen): 模拟网络分割情况下数据库表现
+- [Jepsen #Project#](https://github.com/jepsen-io/jepsen): A framework for distributed systems verification, with fault injection. 

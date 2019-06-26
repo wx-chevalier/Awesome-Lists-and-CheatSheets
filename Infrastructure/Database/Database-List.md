@@ -52,6 +52,10 @@
 
 - [2013-F1: A Distributed SQL Database That Scales #Paper#](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41344.pdf): F1 is a distributed relational database system built at Google to support the AdWords business.
 
+## Case Study 
+
+- [2019-深度揭秘腾讯云数据库技术的7年变迁史](https://mp.weixin.qq.com/s/GNCEbpVz7hxorBCMRrJ4TQ): 腾讯分布式数据库 TDSQL& 企业级云原生数据库 CynosDB 具有重要的历史节点。接下来，我们将从架构等细节着手，为大家详细介绍这两款数据库背后的技术进阶和研发历程。
+
 # Relational DataBase
 
 - [2013-How did the modern relational database come to be?](https://www.linkedin.com/pulse/how-did-modern-relational-database-come-david-mccaldin): The purpose of this Annotated Bibliography is to illustrate, in chronological order, the major development of database models from 1st generation (network model etc) to second generation (relational) to 3rd generation (e.g. semantic). The Bibliography is presented in order of the year when the paper was published.

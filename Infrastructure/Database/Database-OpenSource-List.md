@@ -118,6 +118,26 @@
 
 - [MemDB #Project#](https://github.com/rain1017/memdb): Distributed Transactional In-Memory Database.
 
+## Elastic Search 
+
+* [elasticsearch_queryAPI](http://leequangang.github.io/tech/2013/12/02/elasticsearch_queryAPI.html#match-query)
+
+* [Search Guard SSL #Project#](https://github.com/floragunncom/search-guard-ssl): Search Guard SSL is a free and Open Source plugin for Elasticsearch which provides SSL/TLS for Elasticsearch.
+
+* [Found Play](https://www.found.no/play#): JSFiddle-like playground for Elasticsearch;
+
+* [ElasticHQ](http://www.elastichq.org/index.html)
+
+* [elasticsearch-dump](https://github.com/taskrabbit/elasticsearch-dump):Import and export tools for elasticsearch
+
+* [Yelp-elastalert](https://github.com/Yelp/elastalert):Easy & Flexible Alerting With ElasticSearch
+
+* [Kibana](https://github.com/elastic/kibana)：[Kibana 4 权威指南](http://www.code123.cc/docs/kibana-logstash/v4/index.html)
+
+* [dejavu](https://github.com/appbaseio/dejavu): dejavu is the missing web UI for Elasticsearch.
+
+* [Searchkit #Project#](https://github.com/searchkit/searchkit): React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
+
 # Graph Database
 
 - [Cayley #Project#](https://github.com/cayleygraph/cayley): Cayley is an open-source graph inspired by the graph database behind Freebase and Google's Knowledge Graph.
