@@ -14,7 +14,7 @@
 
 * [Comparison-of-Architecture-presentation-patterns](http://www.codeproject.com/Articles/66585/Comparison-of-Architecture-presentation-patterns-M)
 
-# MV\*
+# `MV*`
 
 * [THE EVOLUTION OF ANDROID ARCHITECTURE](http://zserge.com/blog/android-mvp-mvvm-redux-history.html)
 
