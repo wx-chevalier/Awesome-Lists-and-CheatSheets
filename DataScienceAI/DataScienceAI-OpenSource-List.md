@@ -12,14 +12,6 @@
 
 * [SciPy #Project#](https://github.com/scipy/scipy): SciPy (pronounced "Sigh Pie") is open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
 
-## Integrated Tools
-
-- [Deepo #Project#](https://github.com/ufoym/deepo): Deepo is a Docker image with a full reproducible deep learning research environment. It contains most popular deep learning frameworks: theano, tensorflow, sonnet, pytorch, keras, lasagne, mxnet, cntk, chainer, caffe, torch.
-
-- [2017-Turi Create #Project#](https://github.com/apple/turicreate): Turi Create simplifies the development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
-
-- [Ludwig #Project#](https://uber.github.io/ludwig/): Ludwig is a toolbox that allows to train and test deep learning models without the need to write code.
-
 ## Business Intelligence
 
 - [Apache Superset](https://github.com/apache/incubator-superset): Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application. [Superset: Airbnb’s data exploration platform](https://parg.co/bIh)
@@ -103,3 +95,17 @@
 - [Tess4j #Project#](https://github.com/nguyenq/tess4j): Java JNA wrapper for Tesseract OCR API.
 
 - [2018-alpr-unconstrained](https://github.com/sergiomsilva/alpr-unconstrained): License Plate Detection and Recognition in Unconstrained Scenarios.
+
+# Training 
+
+## Distributed Training 
+
+- [BytePS #Project#](https://github.com/bytedance/byteps): BytePS is a high performance and general distributed training framework.
+
+## Integrated Tools
+
+- [Deepo #Project#](https://github.com/ufoym/deepo): Deepo is a Docker image with a full reproducible deep learning research environment. It contains most popular deep learning frameworks: theano, tensorflow, sonnet, pytorch, keras, lasagne, mxnet, cntk, chainer, caffe, torch.
+
+- [2017-Turi Create #Project#](https://github.com/apple/turicreate): Turi Create simplifies the development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
+
+- [Ludwig #Project#](https://uber.github.io/ludwig/): Ludwig is a toolbox that allows to train and test deep learning models without the need to write code.
