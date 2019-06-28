@@ -2,27 +2,33 @@
 
 [中文版本](./README.md) | [English Version](./README-en.md)
 
-# Awesome List | 精而全的技术开发学习与实践资料索引
+# Awesome-Lists | 精而全的技术开发学习与实践资料索引
 
 `Copyright © 王下邀月熊 - WxChevalier` [![Awesome](https://parg.co/UvS)](https://github.com/wx-chevalier/Awesome-Lists)
 
-AwesomeList 是记录了笔者在日常阅读、学习与实践中发掘的优秀的资料，其按照[知识图谱](https://wx-chevalier.github.io/home/#/perspective)中定义的各个领域的知识体系分门别类地存放；笔者会不断更新其中链接，去芜存菁，去重留一，希望为同仁提供优秀的、有价值的、尽可能精简的资料索引。
+Awesome-Lists 是横跨了编程语言与理论、Web 与大前端、服务端开发与基础架构、云计算与大数据、数据科学与人工智能、产品设计等多个领域的，包括了文章、书籍、课程、案例、开源项目等多种类型的资料索引。Awesome-Lists 记录了笔者在日常阅读、学习与实践中发掘的优秀的资料，其按照[知识图谱](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)中定义的各个领域的知识体系分门别类地存放；笔者会不断更新其中链接，去芜存菁，去重留一，希望为同仁提供优秀的、有价值的、尽可能精简的资料索引。
 
 ![default](https://i.postimg.cc/y1QXgJ6f/image.png)
 
 # Nav | 导航
 
-Finally, Let these lists speak for themselves:
+您可以通过以下任一方式阅读笔者的系列文章，涵盖了技术资料归纳、编程语言与理论、Web 与大前端、服务端开发与基础架构、云计算与大数据、数据科学与人工智能、产品设计等多个领域：
 
-- If you wan't to learn Web Development, you may like [DOM List](./Web/Syntax/DOM/DOM-List.md), [CSS List](./Web/Syntax/CSS/CSS-List.md), [React List](./Web/Framework/React/React-List.md), [Redux List](./Web/Framework/Redux/Redux-List.md), [Vue List](./Web/Framework/Vue/Vue-List.md), [PWA List](./Web/Tuning/PWA/Web-PWA-List.md), [Web Performance List](./Web/Tuning/Performance/Web-Performance-List.md), [WebAssembly List](), etc.
+- 在 Gitbook 中在线浏览，每个系列对应各自的 Gitbook 仓库。
 
-- If you wan't to learn Java, Go, MicroService... you may like [Java List](./Web/Syntax/DOM/DOM-List.md), [JVM List](./ProgrammingLanguage/Java/JVM/JVM-List.md), [Go List](./ProgrammingLanguage/Go/Go-List.md), [MicroService List](./Backend/MicroService/MicroService-List.md), [Spring List](./Backend/WebFramework/Java/Spring/Spring-List.md), [DevOps List](./Backend/DevOps/DevOps-List.md), etc.
+| [Awesome Lists](https://ngte-al.gitbook.io/i/) | [Awesome CheatSheets](https://ngte-ac.gitbook.io/i/) | [Awesome Interviews](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/tree/master/Interview) | [Awesome RoadMaps](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/tree/master/RoadMap) |
+| ---------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 
-- 如果想了解分布式系统、虚拟化调度、数据库、分布式存储、分布式计算、操作系统等领域的知识，可以参阅 [Docker List](./Infrastructure/Virtualization/Container/Docker/Docker-List.md), [Kubernetes List](./Infrastructure/Virtualization/Orchestration/Kubernetes/Kubernetes-List.md), [Linux List](./Infrastructure/OS/Linux/Linux-List.md), [HTTP List](./Infrastructure/Network/HTTP/HTTP-List.md), [Distributed System List](./Infrastructure/DistributedSystem/DistributedSystem-List.md), [Blockchain List](./Infrastructure/DistributedSystem/Blockchain/Blockchain-List.md), [Flink List](./Infrastructure/DistributedComputing/Streaming/Flink/Flink-List.md), [Kafka List](./Infrastructure/DistributedComputing/MOM/Kafka-List.md), [Database List](./Infrastructure/Database/Database-List.md), [MySQL List](./Infrastructure/Database/RDB/MySQL/MySQL-List.md), [PostgreSQL List](./Infrastructure/Database/RDB/PostgreSQL/PostgreSQL-List.md), etc.
 
-- If you wan't to learn AI, DeepLearning, TensorFlow... you may like [DataScienceAI Book List](./DataScienceAI/DataScienceAI-Book-List.md), [DataScienceAI Course List](./DataScienceAI/DataScienceAI-Course-List.md), [Machine Learning List](./DataScienceAI/MachineLearning/MachineLearning-List.md), [Deep Learning List](./DataScienceAI/DeepLearning/DeepLearning-List.md), [NLP List](./DataScienceAI/NLP/NLP-List.md), [TensorFlow List](./DataScienceAI/Toolkit/TensorFlow/TensorFlow-List.md), [PyTorch List](./DataScienceAI/Toolkit/PyTorch/PyTorch-List.md), etc.
+| [编程语言理论与实践](https://ngte-pl.gitbook.io/i/) | [软件工程、数据结构与算法、设计模式、软件架构](https://ngte-se.gitbook.io/i/) | [现代 Web 开发基础与工程实践](https://ngte-web.gitbook.io/i/) | [大前端混合开发与数据可视化](https://ngte-fe.gitbook.io/i/) | [服务端开发实践与工程架构](https://ngte-be.gitbook.io/i/) | [分布式基础架构](https://ngte-infras.gitbook.io/i/) | [数据科学，人工智能与深度学习](https://ngte-aidl.gitbook.io/i/) | [产品设计与用户体验](https://ngte-pd.gitbook.io/i/) |
+| --------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------- |
 
-建议前往 [xCompass](https://wx-chevalier.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程，或者直接浏览本仓库的目录以了解更多内容，也可以使用 [alfred-sg](https://github.com/wx-chevalier/Soogle/tree/master/alfred-sg) 在 MAC 设备上进行快速检索。
+
+- 前往 [xCompass https://wx-chevalier.github.io](https://wx-chevalier.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程。
+
+![](https://i.postimg.cc/3RVYtbsv/image.png)
+
+- 在下文的 [MATRIX 文章与代码矩阵 https://github.com/wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) 中查看文章与项目的源代码。
 
 # Preface | 前言
 
