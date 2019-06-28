@@ -98,6 +98,10 @@
 
 - [LevelDB #Project#](https://github.com/google/leveldb): LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 
+- [RocksDB #Project#](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage. 
+
+- [Badger #Project#](https://github.com/dgraph-io/badger): Fast key-value DB in Go. 
+
 ## Redis
 
 - [RedisGraph #Project#](http://redisgraph.io/design/): A High Performance In-Memory Graph Database as a Redis Module.

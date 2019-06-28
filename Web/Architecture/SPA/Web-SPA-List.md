@@ -24,7 +24,7 @@
 
 * [page.js](https://github.com/visionmedia/page.js)
 
-* [Nginx and Apache rewrites to support HTML5 Pushstate in pure Backbone.js (or other JS MV\*) Application.](http://readystate4.com/2012/05/17/nginx-and-apache-rewrite-to-support-html5-pushstate/)
+* [Nginx and Apache rewrites to support HTML5 Pushstate in pure Backbone.js (or other JS `MV*`) Application.](http://readystate4.com/2012/05/17/nginx-and-apache-rewrite-to-support-html5-pushstate/)
 
 * [Routing URLs in Static Web Apps](https://staticapps.org/articles/routing-urls-in-static-apps/)
 
