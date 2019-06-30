@@ -205,3 +205,7 @@ The contents organization form follows [Web MindMap](),
 - [Rendora #Project#](https://github.com/rendora/rendora): Rendora is a dynamic renderer to provide zero-configuration server-side rendering mainly to web crawlers in order to effortlessly improve SEO for websites.
 
 - [headless-devtools #Project#](https://github.com/cowchimp/headless-devtools): Lets you perform Chrome DevTools actions from code by leveraging Headless Chrome+Puppeteer.
+
+# Analytics
+
+- [Fathom #Project#](https://github.com/usefathom/fathom): Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.
