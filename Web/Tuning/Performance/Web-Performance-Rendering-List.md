@@ -8,9 +8,9 @@
 
 - [2017-Pulling Back The Curtains on Your Stylesheets](https://medium.freecodecamp.org/its-not-dark-magic-pulling-back-the-curtains-from-your-stylesheets-c8d677fa21b2): My talk (and this post) will focus on the why by taking a deep dive into browser internals to see how our styles are parsed and rendered.
 
-# Scripting: 脚本解析与执行
+# Scripting | 脚本解析与执行
 
-- [2017-The Cost Of JavaScript](https://parg.co/UEm): In this post, I’ll cover why a little discipline can help if you’d like your site to load & be interactive quickly on mobile devices.
+- [2019-The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019#json): In 2019, the dominant costs of processing scripts are now download and CPU execution time. User interaction can be delayed if the browser’s main thread is busy executing JavaScript, so optimizing bottlenecks with script execution time and network can be impactful.
 
 - [Planning for Performance](https://www.youtube.com/watch?v=RWLzUnESylc)
 
