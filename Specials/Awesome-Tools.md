@@ -224,6 +224,16 @@
 
 - [MathPix](https://mathpix.com): Take a screenshot of math and paste the LaTeX into your editor, all with a single keyboard shortcut.
 
+# Self-hosted Service
+
+- [URL to PDF Microservice](https://github.com/alvarcarto/url-to-pdf-api): Web page PDF rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
+
+- [wallabag #Project#](https://github.com/wallabag/wallabag): wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+
+- [jsonstore #Project#](https://github.com/bluzi/jsonstore): jsonstore.io offers a free, secured and JSON based cloud datastore for small projects.
+
+- [Reverse engineering WhatsApp Web. #Project#](https://github.com/sigalor/whatsapp-web-reveng): This project intends to provide a complete description and re-implementation of the WhatsApp Web API, which will eventually lead to a custom client. WhatsApp Web internally works using WebSockets; this project does as well.
+
 # Todos
 
 - 合并 Workbench Collection
