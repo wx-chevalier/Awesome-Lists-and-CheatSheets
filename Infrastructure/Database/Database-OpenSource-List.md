@@ -98,9 +98,9 @@
 
 - [LevelDB #Project#](https://github.com/google/leveldb): LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 
-- [RocksDB #Project#](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage. 
+- [RocksDB #Project#](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
 
-- [Badger #Project#](https://github.com/dgraph-io/badger): Fast key-value DB in Go. 
+- [Badger #Project#](https://github.com/dgraph-io/badger): Fast key-value DB in Go.
 
 ## Redis
 
@@ -122,25 +122,25 @@
 
 - [MemDB #Project#](https://github.com/rain1017/memdb): Distributed Transactional In-Memory Database.
 
-## Elastic Search 
+## Elastic Search
 
-* [elasticsearch_queryAPI](http://leequangang.github.io/tech/2013/12/02/elasticsearch_queryAPI.html#match-query)
+- [elasticsearch_queryAPI](http://leequangang.github.io/tech/2013/12/02/elasticsearch_queryAPI.html#match-query)
 
-* [Search Guard SSL #Project#](https://github.com/floragunncom/search-guard-ssl): Search Guard SSL is a free and Open Source plugin for Elasticsearch which provides SSL/TLS for Elasticsearch.
+- [Search Guard SSL #Project#](https://github.com/floragunncom/search-guard-ssl): Search Guard SSL is a free and Open Source plugin for Elasticsearch which provides SSL/TLS for Elasticsearch.
 
-* [Found Play](https://www.found.no/play#): JSFiddle-like playground for Elasticsearch;
+- [Found Play](https://www.found.no/play#): JSFiddle-like playground for Elasticsearch;
 
-* [ElasticHQ](http://www.elastichq.org/index.html)
+- [ElasticHQ](http://www.elastichq.org/index.html)
 
-* [elasticsearch-dump](https://github.com/taskrabbit/elasticsearch-dump):Import and export tools for elasticsearch
+- [elasticsearch-dump](https://github.com/taskrabbit/elasticsearch-dump):Import and export tools for elasticsearch
 
-* [Yelp-elastalert](https://github.com/Yelp/elastalert):Easy & Flexible Alerting With ElasticSearch
+- [Yelp-elastalert](https://github.com/Yelp/elastalert):Easy & Flexible Alerting With ElasticSearch
 
-* [Kibana](https://github.com/elastic/kibana)：[Kibana 4 权威指南](http://www.code123.cc/docs/kibana-logstash/v4/index.html)
+- [Kibana](https://github.com/elastic/kibana)：[Kibana 4 权威指南](http://www.code123.cc/docs/kibana-logstash/v4/index.html)
 
-* [dejavu](https://github.com/appbaseio/dejavu): dejavu is the missing web UI for Elasticsearch.
+- [dejavu](https://github.com/appbaseio/dejavu): dejavu is the missing web UI for Elasticsearch.
 
-* [Searchkit #Project#](https://github.com/searchkit/searchkit): React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
+- [Searchkit #Project#](https://github.com/searchkit/searchkit): React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
 
 # Graph Database
 
@@ -161,15 +161,3 @@
 # NewSQL
 
 - [FoundationDB #Project#](https://github.com/apple/foundationdb): FoundationDB is a distributed database designed to handle large volumes of structured data across clusters of commodity servers.
-
-# Datawarehouse
-
-## ETL
-
-- [awesome-etl #Project#](https://github.com/pawl/awesome-etl#workflow-managementengines): A curated list of awesome ETL frameworks, libraries, and software.
-
-- [DataX #Project#](https://github.com/alibaba/DataX): 阿里巴巴集团内被广泛使用的离线数据同步工具/平台
-
-## Data Pipeline
-
-- [Debezium #Project#](https://debezium.io/docs/tutorial/): Debezium is a distributed platform that turns your existing databases into event streams, so applications can see and respond immediately to each row-level change in the databases.
