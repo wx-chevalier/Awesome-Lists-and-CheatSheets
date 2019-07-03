@@ -2,6 +2,10 @@
 
 # Cache List
 
+# Case Study | 案例分析
+
+- [2019-知乎已读服务的前生今世与未来](https://zhuanlan.zhihu.com/p/68383301): 为了避免给用户推荐重复的内容，已读服务会将所有知乎站上用户深入阅读或快速掠过的内容长期保存，并将这些数据应用于首页推荐信息流和个性化推送的已读过滤。
+
 # Concepts
 
 - [2018-The hidden components of Web Caching](https://parg.co/UFt): Let’s take a bottom-up approach to understanding the various layers of caching.
