@@ -8,9 +8,17 @@
 
 - [Leaf #Project#](https://github.com/Meituan-Dianping/Leaf): Distributed ID Generate Service.
 
-# Distributed Computing
+# Distributed Scheduler
 
-- [Wallaroo #Project#](https://github.com/wallaroolabs/wallaroo): Wallaroo is a fast, elastic data processing engine that rapidly takes you from prototype to production by eliminating infrastructure complexity.
+## Job Scheduler
+
+- [Disque #Project#](https://github.com/antirez/disque): Disque is a distributed message broker.
+
+- [Ofelia #Project#](https://github.com/mcuadros/ofelia): Ofelia is a modern and low footprint job scheduler for docker environments, built on Go. Ofelia aims to be a replacement for the old fashioned cron.
+
+- [TaskBotJS #Project#](https://github.com/eropple/taskbotjs): The best JavaScript/TypeScript job processing framework on the planet.
+
+- [SIA #Project#](https://github.com/siaorg/sia-task): SIA 是我们公司基础开发平台 Simple is Awesome 的简称，SIA-TASK（微服务任务调度平台）是其中的一项重要产品，SIA-TASK 契合当前微服务架构模式，具有跨平台，可编排，高可用，无侵入，一致性，异步并行，动态扩展，实时监控等特点。
 
 # Distributed Lock
 
@@ -40,4 +48,4 @@
 
 - MogileFS
 
-# Block Storage
+## Block Storage

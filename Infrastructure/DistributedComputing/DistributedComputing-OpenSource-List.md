@@ -12,8 +12,6 @@ Massive & Curated OpenSource Project/Framework/Tool Links, for building great di
 
 # Message Oriental Middleware
 
-## Message Queue
-
 - [2017-Sandglass #Project#](https://github.com/celrenheit/sandglass): Sandglass is a distributed, horizontally scalable, persistent, time sorted message queue.
 
 * [2018-PhxQueue #Project#](https://github.com/Tencent/phxqueue): PhxQueue 是微信开源的一款基于 Paxos 协议实现的高可用、高吞吐和高可靠的分布式队列，保证 At-Least-Once Delivery，在微信内部广泛支持微信支付、公众平台等多个重要业务。
@@ -22,21 +20,13 @@ Massive & Curated OpenSource Project/Framework/Tool Links, for building great di
 
 * [2018-QMQ #Project#](https://github.com/qunarcorp/qmq): QMQ 是去哪儿网内部广泛使用的消息中间件，自 2012 年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。
 
-## Job Scheduler
-
-- [Disque #Project#](https://github.com/antirez/disque): Disque is a distributed message broker.
-
-- [Ofelia #Project#](https://github.com/mcuadros/ofelia): Ofelia is a modern and low footprint job scheduler for docker environments, built on Go. Ofelia aims to be a replacement for the old fashioned cron.
-
-- [TaskBotJS #Project#](https://github.com/eropple/taskbotjs): The best JavaScript/TypeScript job processing framework on the planet.
-
-- [SIA #Project#](https://github.com/siaorg/sia-task): SIA 是我们公司基础开发平台 Simple is Awesome 的简称，SIA-TASK（微服务任务调度平台）是其中的一项重要产品，SIA-TASK 契合当前微服务架构模式，具有跨平台，可编排，高可用，无侵入，一致性，异步并行，动态扩展，实时监控等特点。
-
 # Processing Engine
 
 - [hazelcast-jet #Project#](https://github.com/hazelcast/hazelcast-jet): A general purpose distributed data processing engine, built on top of Hazelcast.
 
 - [Flink #Project#](https://github.com/apache/flink): Apache Flink is an open source stream processing framework with powerful stream- and batch-processing capabilities.
+
+* [Wallaroo #Project#](https://github.com/wallaroolabs/wallaroo): Wallaroo is a fast, elastic data processing engine that rapidly takes you from prototype to production by eliminating infrastructure complexity.
 
 # Datawarehouse
 
