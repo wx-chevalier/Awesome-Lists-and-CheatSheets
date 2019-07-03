@@ -118,7 +118,7 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 ## SQL Injection
 
-- [SQLMap]()
+- [sqlmap #Project#](https://github.com/sqlmapproject/sqlmap): Automatic SQL injection and database takeover tool
 
 ## XSS
 
@@ -127,6 +127,10 @@ List of Security Archives Tools and software, generally for facilitate security 
 ## Web Shell
 
 - [Cknife #Project#](https://github.com/Chora10/Cknife): 方便已被授权的渗透测试人员进行渗透测试；
+
+## CSRF
+
+- [Bolt #Project#](https://github.com/s0md3v/Bolt): CSRF Scanner.
 
 ## JS Libraries
 
