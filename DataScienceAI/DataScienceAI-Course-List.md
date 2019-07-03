@@ -8,6 +8,10 @@
 
 - [stanford-cs-221-artificial-intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence): VIP cheatsheets for Stanford's CS 221 Artificial Intelligence
 
+# DataScience & Statistics
+
+- [Virgilio #Course#](https://github.com/virgili0/Virgilio): Your new Mentor for Data Science E-Learning.
+
 # Machine Learning | 机器学习
 
 - [2010-MIT Artifical Intelligence Videos #Course#](https://parg.co/Y6h): This course includes interactive demonstrations which are intended to stimulate interest and to help students gain intuition about how artificial intelligence methods work under a variety of circumstances.
