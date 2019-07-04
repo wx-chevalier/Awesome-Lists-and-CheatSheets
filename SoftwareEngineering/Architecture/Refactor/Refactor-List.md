@@ -35,3 +35,11 @@
 - [CRACKING THE CODE REVIEW, PART 1: PREPARING YOUR CODE REVIEW](https://www.lucidchart.com/techblog/2017/02/08/cracking-the-code-review-part-1-preparing-your-code-review/)
 
 - [2018-Modern Code Review: A Case Study at Google](https://sback.it/publications/icse2018seip.pdf): In this paper, we make an exploratory investigation of modern code review at Google.
+
+# Tech Debt | 技术负债
+
+- [2015-务实的技术债务管理](http://6me.us/vrhF9): 技术债务是由 Ward Cunningham 在 1992 年的报告中创造的一个比喻，被定义为当我们有意或无意地做了错误的或不理想的技术决策所累积的债务。
+
+- [浅议技术债](http://www.zcfy.cc/article/we-need-to-talk-about-technical-debt-9670-24-ways-2097.html)
+
+* [技术债务和技术投资](http://www.tuicool.com/articles/YZNRZ3M)
