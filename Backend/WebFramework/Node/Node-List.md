@@ -20,6 +20,10 @@
 
 - [2017-Having your Node.js Cake and Eating It Too](https://parg.co/bTW)
 
+- [What is Node.js? An explanation too late](https://lethalbrains.com/what-is-node-js-an-explanation-too-late-477c10778dea#.5daatualo)
+
+- [The Art of Node An introduction to Node.js](https://github.com/maxogden/art-of-node#modules)
+
 ## Engineering Practices | 工程实践
 
 # Resource

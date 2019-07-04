@@ -32,6 +32,8 @@
 
 * [TSFresh #Project#](http://tsfresh.readthedocs.io/en/latest/index.html):automatically calculate a huge number of time series characteristics, the so called features.
 
+* [2019-The Hitchhiker’s Guide to Feature Extraction](https://towardsdatascience.com/the-hitchhikers-guide-to-feature-extraction-b4c157e96631): Some Tricks and Code for Kaggle and Everyday work
+
 # 频繁项挖掘
 
 * [频繁项集挖掘算法之 FPGrowth](http://blog.csdn.net/huagong_adu/article/details/17739247)
