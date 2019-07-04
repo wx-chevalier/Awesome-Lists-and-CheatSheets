@@ -12,6 +12,8 @@
 
 ## Job Scheduler
 
+- [2017-Elastic-Job #Project#](https://github.com/elasticjob/elastic-job-lite): Elastic-Job is a distributed scheduled job solution. Elastic-Job is composited from 2 independent sub projects: Elastic-Job-Lite and Elastic-Job-Cloud.
+
 - [Disque #Project#](https://github.com/antirez/disque): Disque is a distributed message broker.
 
 - [Ofelia #Project#](https://github.com/mcuadros/ofelia): Ofelia is a modern and low footprint job scheduler for docker environments, built on Go. Ofelia aims to be a replacement for the old fashioned cron.
