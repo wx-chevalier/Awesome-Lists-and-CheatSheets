@@ -57,6 +57,8 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 - [2017-Fully convolutional watermark removal attack #Project#](https://github.com/marcbelmont/cnn-watermark-removal): Fully convolutional deep neural network to remove transparent overlays from images.
 
+- [im2markup #Project#](https://github.com/harvardnlp/im2markup): A general-purpose, deep learning-based system to decompile an image into presentational markup.
+
 - [2018-vid2vid #Project#](https://github.com/NVIDIA/vid2vid): Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 
 - [2018-DeOldify #Project#](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images

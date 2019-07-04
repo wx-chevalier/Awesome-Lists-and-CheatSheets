@@ -76,6 +76,10 @@
 
 - [NSFW Data Scrapper #Project#](https://github.com/alexkimxyz/nsfw_data_scrapper): Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier.
 
+## OCR
+
+- [im2latex-100k #Project#](https://zenodo.org/record/56198#.XR1z2SW-uaO): A prebuilt dataset for OpenAI's task for image-2-latex system. Includes total of ~100k formulas and images splitted into train, validation and test sets.
+
 # Voice & Media & Video
 
 # 领域数据 | Domain
