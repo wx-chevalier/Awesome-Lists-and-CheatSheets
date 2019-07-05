@@ -84,6 +84,8 @@
 
 * [2018-Seedbank #Project#](https://research.google.com/seedbank/guide/tutorial): Browse seeds from a list of different kinds of machine learning examples and use the top level categories to narrow your search according to your interests.
 
+- [numpy-ml #Project#](https://github.com/ddbourgin/numpy-ml): Ever wish you had an inefficient but somewhat legible collection of machine learning algorithms implemented exclusively in numpy? No?
+
 ## TensorFlow
 
 - [2015-TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples): This tutorial was designed for easily diving into TensorFlow, through examples. For readability, it includes both notebooks and source codes with explanation.
