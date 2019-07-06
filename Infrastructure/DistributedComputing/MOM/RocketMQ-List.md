@@ -8,7 +8,7 @@
 
 - [2017-专访 RocketMQ 联合创始人：项目思路、技术细节和未来规划](http://www.infoq.com/cn/news/2017/02/RocketMQ-future-idea)
 
-- [2016-分布式开放消息系统 (RocketMQ) 的原理与实践](http://www.jianshu.com/p/453c6e7ff81c)
+# Resources
 
 - [2016-分布式消息队列 RocketMQ #Series#](http://blog.csdn.net/chunlongyu/article/category/6638499)
 
@@ -20,4 +20,6 @@
 
 # Internals
 
-- [2018-RocketMQ 高性能之底层存储设计](https://www.jianshu.com/p/d06e9bc6c463): RocketMQ 在底层存储上借鉴了 Kafka，但是也有它独到的设计，本文主要关注深刻影响着 RocketMQ 性能的底层文件存储结构，中间会穿插一点点 Kafka 的东西以作为对比。
+- [2016-分布式开放消息系统 (RocketMQ) 的原理与实践](http://www.jianshu.com/p/453c6e7ff81c)
+
+* [2018-RocketMQ 高性能之底层存储设计](https://www.jianshu.com/p/d06e9bc6c463): RocketMQ 在底层存储上借鉴了 Kafka，但是也有它独到的设计，本文主要关注深刻影响着 RocketMQ 性能的底层文件存储结构，中间会穿插一点点 Kafka 的东西以作为对比。

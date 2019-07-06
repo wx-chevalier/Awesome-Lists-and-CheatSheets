@@ -15,6 +15,12 @@
 
 - [2018-YodaOS #Project#](https://github.com/yodaos-project/yodaos): This is a modern operating system for next generation interactive device, and it embraces Web community, uses JavaScript as the application language.
 
+# Gateway
+
+- [2015-Microsoft Azure IoT Protocol Gateway](https://github.com/Azure/azure-iot-protocol-gateway): Azure IoT protocol gateway enables protocol translation for Azure IoT Hub.
+
+- [2016-thingsboard-gateway #Project#](https://github.com/thingsboard/thingsboard-gateway): Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with ThingsBoard IoT Platform using OPC-UA and MQTT protocols
+
 # Raspberry
 
 - [2017-dingdang-robot #Project#](https://github.com/dingdang-robot/dingdang-robot): 叮当是一款可以工作在 Raspberry Pi 上的中文语音对话机器人/智能音箱项目。
