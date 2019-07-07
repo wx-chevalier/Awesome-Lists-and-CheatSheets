@@ -14,7 +14,7 @@
 
 - [400% 飞跃：Web 页面加载速度优化实战](https://parg.co/Utq)
 
-- [移动端 HTML5 页面开发备忘录 ](http://zerosoul.github.io/2016/11/15/h5-memo/)
+- [移动端 HTML5 页面开发备忘录](http://zerosoul.github.io/2016/11/15/h5-memo/)
 
 - [钉钉的 H5 性能优化方案](http://mp.weixin.qq.com/s/r-D4S94XOo22PQM_wZlrig)
 
