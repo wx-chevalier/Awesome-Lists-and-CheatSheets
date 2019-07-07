@@ -20,10 +20,14 @@
 
 * [异地多活设计难？其实是你陷入了这四大误区出不来！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650993345&idx=1&sn=f460c51ad3dfd1da4d41e0a408969c54&scene=0#wechat_redirect)
 
-## LVS
+# LVS
 
 - [Linux 服务器集群系统](http://www.linuxvirtualserver.org/zh/lvs1.html)
 
 * [LVS+Keepalived 构建高可用负载均衡](http://os.51cto.com/art/201202/317441.htm)
 
 * [Ali-LVS](https://github.com/alibaba/LVS)
+
+# Tengine
+
+- [2019-QPS比Nginx提升60%，阿里Tengine负载均衡算法揭秘](https://mp.weixin.qq.com/s/3KZ99d94yqRDxEByn7nGWg): 阿里自研 Tengine 通过实现新的负载均衡算法 Virtual Node Smooth Weighted Round-Robin（VNSWRR）解决了 SWRR 算法在阿里业务场景下的缺陷，而且 QPS 处理能力相对于 Nginx 官方的 SWRR 算法也提升了 60% 左右。

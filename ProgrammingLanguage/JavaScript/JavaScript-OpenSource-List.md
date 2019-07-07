@@ -14,7 +14,7 @@
 
 * [fbjs #Project#](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
 
-## DataStructure
+# DataStructure
 
 - [Calculatorjs #Project#](https://github.com/fzred/calculatorjs): Accurately arithmetic library.
 
@@ -22,7 +22,11 @@
 
 - [collect.js #Project#](https://github.com/ecrmnn/collect.js): Convenient and dependency free wrapper for working with arrays and objects.
 
-### Object Schema
+## String
+
+- [lit-html #Project#](https://github.com/Polymer/lit-html): An efficient, expressive, extensible HTML templating library for JavaScript.
+
+## Object Schema
 
 - [Yup #Project#](https://github.com/jquense/yup): Dead simple Object schema validation.
 
@@ -30,7 +34,7 @@
 
 - [json-schema-to-typescript #Project#](https://github.com/bcherny/json-schema-to-typescript): Compile json schema to typescript typings.
 
-### DateTime
+## DateTime
 
 - [Luxon #Project#](https://github.com/moment/luxon): Luxon is a library for working with dates and times in Javascript.
 
