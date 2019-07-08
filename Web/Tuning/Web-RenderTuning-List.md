@@ -64,4 +64,4 @@
 
 * [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a): All of the below properties or methods, when requested/called in JavaScript, will trigger the browser to synchronously calculate the style and layout\*.
 
-# Interaction & Animation: 交互与动画
+# Interaction & Animation | 交互与动画
