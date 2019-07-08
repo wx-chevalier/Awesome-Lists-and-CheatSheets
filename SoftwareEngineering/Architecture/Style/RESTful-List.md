@@ -1,8 +1,8 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
 
-# RESTful API Learning & Practices List
+# RESTful API List
 
-- [2000-Architectural Styles and the Design of Network-based Software Architectures]()：[论文中文译版 : 架构风格与基于网络的软件架构设计](http://o6v08w541.bkt.clouddn.com/REST-article.pdf)
+- [2000-Architectural Styles and the Design of Network-based Software Architectures](http://o6v08w541.bkt.clouddn.com/REST-article.pdf)：[论文中文译版 : 架构风格与基于网络的软件架构设计](http://o6v08w541.bkt.clouddn.com/REST-article.pdf)
 
 * [rest-api-design-resource-modeling](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
 
@@ -35,14 +35,8 @@
 - [Restful API 中的错误处理](http://scarletsky.github.io/2016/11/30/error-handling-in-restful-api/)
 
 * [rest-api-design-resource-modeling](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
-* [rest-api-documentation](https://dzone.com/articles/rest-api-documentation-part-1)
 
-> 参考资料
->
-> - [Roy Thomas Fielding - Architectural Styles and the Design of Network-based Software Architectures][1]
-> - [Rest API Tutorial][2]
-> - [一些 Rest 最佳实践](http://colobu.com/2015/08/10/some-REST-best-practices/?utm_source=tuicool)
-> - [best-practices-for-a-pragmatic-restful-api](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+* [rest-api-documentation](https://dzone.com/articles/rest-api-documentation-part-1)
 
 # Drawback
 
