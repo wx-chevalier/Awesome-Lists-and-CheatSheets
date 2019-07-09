@@ -86,6 +86,8 @@
 
 - [numpy-ml #Project#](https://github.com/ddbourgin/numpy-ml): Ever wish you had an inefficient but somewhat legible collection of machine learning algorithms implemented exclusively in numpy? No?
 
+- [AI Playbook](http://aiplaybook.a16z.com/): This site is designed as a resource for anyone asking those questions, complete with examples and sample code to help you get started.
+
 ## TensorFlow
 
 - [2015-TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples): This tutorial was designed for easily diving into TensorFlow, through examples. For readability, it includes both notebooks and source codes with explanation.

@@ -22,9 +22,11 @@
 
 - [2017-Teachable Machine](https://github.com/googlecreativelab/teachable-machine): Explore how machine learning works, live in the browser. No coding required.
 
-## Survey | 前沿调查
+## History | 历史
 
-- [AI Playbook](http://aiplaybook.a16z.com/): This site is designed as a resource for anyone asking those questions, complete with examples and sample code to help you get started.
+- [2019-人工智能 60 年技术简史](https://mp.weixin.qq.com/s/SxdV0xVBBFyWIEwUfJnr4Q): 关于人工智能有很多的定义，它本身就是很多学科的交叉融合，不同的人关注它的不同方面，因此很难给出一个大家都认可的一个定义。我们下面通过时间的脉络来了解 AI 的反正过程。
+
+## Survey | 前沿调查
 
 ## CheatSheet | 清单
 

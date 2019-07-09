@@ -80,3 +80,5 @@ A collection of various deep learning architectures, models, and tips for Tensor
 - [How you can train an AI to convert your design mockups into HTML and CSS](https://parg.co/UXR)
 
 - [2018-Doodle Master #Project#](https://github.com/karanchahal/DoodleMaster): The Doodle Master seeks to turn your UI mockups into real code. Currently this repository just serves to demonstrate a Proof Of Concept of Artificially Intelligent Design Tools.
+
+- [A simple neural network for python autocompletion](https://github.com/vpj/python_autocomplete): This a toy project we started to see how well a simple LSTM model can autocomplete python code.
