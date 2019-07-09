@@ -15,3 +15,11 @@
 # Allocation
 
 # Garbage Collection
+
+- [Memory management in various languages](http://www.memorymanagement.org/mmref/lang.html)
+
+- [visualizing-garbage-collection-algorithms](https://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms/)
+
+- [mark-and-sweep-garbage-collection-algorithm](http://www.geeksforgeeks.org/mark-and-sweep-garbage-collection-algorithm/)
+
+- [Modern Garbage Collection](https://medium.com/@octskyward/modern-garbage-collection-911ef4f8bd8e#.e8fq0wq0r)
