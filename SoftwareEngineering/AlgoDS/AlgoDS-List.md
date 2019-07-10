@@ -6,6 +6,18 @@
 
 This series collect curated, worthy and up-to-date links/reading list for Algorithm & DataStructure.
 
+# Overview
+
+- [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions)
+
+- [2017-Top Algorithms/Data Structures/Concepts every computer science student should know](https://parg.co/Nr6)
+
+## Visually
+
+- [VisuAlgo](https://parg.co/ddd): visualising data structures and algorithms through animation
+
+- [Algorithm → AST → CSS](https://github.com/skidding/illustrated-algorithms): Inspired by Grokking Algorithms and python-execution-trace, this project aims to reveal the mechanics behind algorithms via interactive visualizations of their execution.
+
 # Resource
 
 ## Book
@@ -45,16 +57,6 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 - [Solve Data In Code #Project#](https://github.com/espadrine/Solve-Data-In-Code): All decidable problems can be solved with algorithms.
 
 - [2019-algo](https://github.com/wangzheng0822/algo): 数据结构和算法必知必会的 50 个代码实现。
-
-# Universe
-
-- [VisuAlgo](https://parg.co/ddd): visualising data structures and algorithms through animation
-
-- [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions)
-
-- [Top Algorithms/Data Structures/Concepts every computer science student should know](https://techiedelight.quora.com/Top-Algorithms-Data-Structures-Concepts-every-computer-science-student-should-know)
-
-- [Algorithm → AST → CSS](https://github.com/skidding/illustrated-algorithms): 常见算法流程演示
 
 # C++
 
