@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
 
-# JavaScript Learning & Practices List
+# Awesome JavaScript List
 
 This file aggregates curated popular links for learning JavaScript. More reference about ITCS can turn to [AwesomeList: Guide to Galaxy](https://github.com/wx-chevalier/Awesome-Lists), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
 
@@ -11,6 +11,72 @@ This file aggregates curated popular links for learning JavaScript. More referen
 - [2017-A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/): We take a look at the evolution of JavaScript, arguably one of the most important languages of today, and tomorrow
 
 - [2017-JavaScript — A First-Class Language At Last](https://hackernoon.com/javascript-a-first-class-language-at-last-209376f69731): As a JavaScript engineer, I wanted to dig deeper into the public perception of the language and how rooted in reality it is. What I found is that some criticisms hold water, but many do not.
+
+## CheatSheet | 语法速览
+
+- [2017-JavaScript 核心概念归纳整理](https://mp.weixin.qq.com/s/I7A1iC8Et6uOGZ234DsTlA)：本文针对 JavaScript 语言的核心概念进行简单的梳理，对应的每个知识点仅仅点到为止，不作详细介绍。目的是为了方便大家快速审查自己对 JavaScript 的知识结构是否完善，如有遗漏或不正确的地方，还望批评指正。
+
+- [2017-Writing modern JavaScript code](https://dev.to/scastiel/writing-modern-javascript-code): I'll try here to list some good practices to make your JavaScript code easier to write, read and maintain.
+
+- [2017-What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs#-is-equal-): A list of funny and tricky JavaScript examples
+
+- [2017-Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet): This document is a cheatsheet for JavaScript you will frequently encounter in modern projects and most contemporary sample code.
+
+* [2017-The Definitive JavaScript Handbook for a developer interview ](https://parg.co/UZS)
+
+* [2017-30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code): Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
+
+# Resource | 资料集锦
+
+- [Master JavaScript Programming With 18 OpenSource Books #Collection#](http://6me.us/snwXG): This compilation focuses on the JavaScript language with 18 solid recommendations. There are books here for beginner, intermediate, and advanced programmers alike. All of the texts are released under an open source license.
+
+- [Awesome JavaScript #Collection#](https://github.com/sorrycc/awesome-javascript): A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+
+- [JavaScript-Garden](http://bonsaiden.github.io/JavaScript-Garden/): JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes and subtle bugs, as well as performance issues and bad practices, that non-expert JavaScript programmers may encounter on their endeavours into the depths of the language.
+
+* [2017-Must-Watch JavaScript #Project#](https://parg.co/U37): This is a collection of well-received talks about JavaScript, covering topics such as ES6, JavaScript frameworks, client-side apps, mobile integration, JavaScript performance, tooling, leveling up, and more.
+
+## Book
+
+- [2015-ECMAScript 6 入门 #Book#](http://es6.ruanyifeng.com/#README)：ECMAScript 6 入门是由阮一峰老师编写的一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
+
+- [2015-ES6 in Depth #Book#](https://ponyfoo.com/articles/tagged/es6-in-depth): A twenty-four article-long series of pragmatic articles describing JavaScript language features in ES6. 中文译本[深入浅出 ES6]()
+
+- [2015-Exploring ES6 #Book#](http://exploringjs.com/es6/index.html): Upgrade to the next version of JavaScript
+
+- [2017-The Modern JavaScript Tutorial #Book#](https://javascript.info/): How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+
+- [2017-The JavaScript Wa #Book#](https://github.com/bpesquet/thejsway): A modern introduction to an essential language.
+
+* [Modern JavaScript Tutorial #Book#](https://github.com/iliakan/javascript-tutorial-en): How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+
+* [JavaScript. The Core: 2nd Edition #Book#](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/#class): This is the second edition of the JavaScript. The Core overview lecture, devoted to ECMAScript programming language and core components of its runtime system.
+
+- [Exploring ES2018 and ES2019 #Book#](http://exploringjs.com/es2018-es2019/toc.html): This book is about two versions of JavaScript: ECMAScript 2018 and ECMAScript 2019.
+
+## Interactive Learning | 交互式学习
+
+- [WarriorJS #Project#](https://github.com/olistic/warriorjs): An exciting game of programming and Artificial Intelligence.
+
+- [Kajero #Project#](https://github.com/JoelOtter/kajero): Interactive JavaScript notebooks with clever graphing
+
+# Tutorial
+
+- [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html): This book is about two versions of JavaScript: ECMAScript 2018 and ECMAScript 2019.
+
+- [2017-To type or not to type: quantifying detectable bugs in JavaScript](https://parg.co/bwX)
+
+* [2017-Javascript closures explained in depth](https://weeklywebwisdom.com/2017/09/24/javascript-closures-explained-in-depth/)
+
+- [6 Simple Tips on How to Start Writing Clean Code](https://parg.co/UlR)
+
+* [2015-ES6 Promises](http://www.datchley.name/es6-promises/): there is a better pattern using Promises, which give us much more than just an escape from callback hell.
+
+* [2017-How to write clean code for cascaded promises](https://hackernoon.com/how-to-write-clean-code-for-cascaded-promises-809de5b950fd): An in-depth guide about working with Interdependent Promises
+
+* [2017-Promise error handling in-depth](https://codeburst.io/promise-error-handling-in-depth-90b0965149c0): This blog is written in Q and A form and targeting those who are looking for the answers.
+
+- [2017-js-bits](https://github.com/vasanthk/js-bits): JavaScript concepts explained with code.
 
 ## Modern JavaScript | 现代 JavaScript 明晰
 
@@ -38,48 +104,6 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [ECMAScript 2017 and beyond](https://speakerdeck.com/rauschma/ecmascript-2017-and-beyond): In this talk, we’ll go into the latest JavaScript features and how they are designed.
 
-- [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html): This book is about two versions of JavaScript: ECMAScript 2018 and ECMAScript 2019.
-
-## CheatSheet | 语法速览
-
-- [2017-JavaScript 核心概念归纳整理](https://mp.weixin.qq.com/s/I7A1iC8Et6uOGZ234DsTlA)：本文针对 JavaScript 语言的核心概念进行简单的梳理，对应的每个知识点仅仅点到为止，不作详细介绍。目的是为了方便大家快速审查自己对 JavaScript 的知识结构是否完善，如有遗漏或不正确的地方，还望批评指正。
-
-- [2017-Writing modern JavaScript code](https://dev.to/scastiel/writing-modern-javascript-code): I'll try here to list some good practices to make your JavaScript code easier to write, read and maintain.
-
-- [2017-What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs#-is-equal-): A list of funny and tricky JavaScript examples
-
-- [2017-Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet): This document is a cheatsheet for JavaScript you will frequently encounter in modern projects and most contemporary sample code.
-
-* [2017-The Definitive JavaScript Handbook for a developer interview ](https://parg.co/UZS)
-
-* [2017-30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code): Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
-
-# Collection | 资料集锦
-
-- [Master JavaScript Programming With 18 OpenSource Books #Collection#](http://6me.us/snwXG): This compilation focuses on the JavaScript language with 18 solid recommendations. There are books here for beginner, intermediate, and advanced programmers alike. All of the texts are released under an open source license.
-
-- [Awesome JavaScript #Collection#](https://github.com/sorrycc/awesome-javascript): A collection of awesome browser-side JavaScript libraries, resources and shiny things.
-
-- [JavaScript-Garden](http://bonsaiden.github.io/JavaScript-Garden/): JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes and subtle bugs, as well as performance issues and bad practices, that non-expert JavaScript programmers may encounter on their endeavours into the depths of the language.
-
-* [2017-Must-Watch JavaScript #Project#](https://parg.co/U37): This is a collection of well-received talks about JavaScript, covering topics such as ES6, JavaScript frameworks, client-side apps, mobile integration, JavaScript performance, tooling, leveling up, and more.
-
-## Book
-
-- [2015-ECMAScript 6 入门 #Book#](http://es6.ruanyifeng.com/#README)：ECMAScript 6 入门是由阮一峰老师编写的一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
-
-- [2015-ES6 in Depth #Book#](https://ponyfoo.com/articles/tagged/es6-in-depth): A twenty-four article-long series of pragmatic articles describing JavaScript language features in ES6. 中文译本[深入浅出 ES6]()
-
-- [2015-Exploring ES6 #Book#](http://exploringjs.com/es6/index.html): Upgrade to the next version of JavaScript
-
-- [2017-The Modern JavaScript Tutorial #Book#](https://javascript.info/): How it's done now. From the basics to advanced topics with simple, but detailed explanations.
-
-- [2017-The JavaScript Wa #Book#](https://github.com/bpesquet/thejsway): A modern introduction to an essential language.
-
-* [Modern JavaScript Tutorial #Book#](https://github.com/iliakan/javascript-tutorial-en): How it's done now. From the basics to advanced topics with simple, but detailed explanations.
-
-* [JavaScript. The Core: 2nd Edition #Book#](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/#class): This is the second edition of the JavaScript. The Core overview lecture, devoted to ECMAScript programming language and core components of its runtime system.
-
 ## Interview | 面试
 
 - [3 JavaScript questions to watch out for during coding interviews](http://6me.us/JAZ4): This article isn’t about the newest JavaScript libraries, common development practices, or any of the new ES6 functions. Rather, it’s about 3 things that usually come up in interviews when discussing JavaScript.
@@ -87,25 +111,3 @@ This file aggregates curated popular links for learning JavaScript. More referen
 - [Interview Algorithm Questions in Javascript() {...}](https://github.com/kennymkchan/interview-questions-in-javascript)
 
 - [2017-The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://parg.co/bIL)
-
-## Interactive Learning | 交互式学习
-
-- [WarriorJS #Project#](https://github.com/olistic/warriorjs): An exciting game of programming and Artificial Intelligence.
-
-# Tutorial
-
-- [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html): This book is about two versions of JavaScript: ECMAScript 2018 and ECMAScript 2019.
-
-- [2017-To type or not to type: quantifying detectable bugs in JavaScript](https://parg.co/bwX)
-
-* [2017-Javascript closures explained in depth](https://weeklywebwisdom.com/2017/09/24/javascript-closures-explained-in-depth/)
-
-- [6 Simple Tips on How to Start Writing Clean Code](https://parg.co/UlR)
-
-* [2015-ES6 Promises](http://www.datchley.name/es6-promises/): there is a better pattern using Promises, which give us much more than just an escape from callback hell.
-
-* [2017-How to write clean code for cascaded promises](https://hackernoon.com/how-to-write-clean-code-for-cascaded-promises-809de5b950fd): An in-depth guide about working with Interdependent Promises
-
-* [2017-Promise error handling in-depth](https://codeburst.io/promise-error-handling-in-depth-90b0965149c0): This blog is written in Q and A form and targeting those who are looking for the answers.
-
-- [2017-js-bits](https://github.com/vasanthk/js-bits): JavaScript concepts explained with code.
