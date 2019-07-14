@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
 
-# Web Network List | Web 网络通信资料索引
+# DOM Network List | Web 网络通信资料索引
 
 # HTTP Client
 
