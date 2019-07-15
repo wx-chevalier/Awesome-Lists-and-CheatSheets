@@ -18,11 +18,25 @@
 
 - [2017-Java 语法清单](https://zhuanlan.zhihu.com/p/25578170)
 
-## Engineering Practices | 工程实践
+## Case Study | 案例分析
 
 - [2017-阿里巴巴 Java 开发手册](https://github.com/alibaba/p3c)：《阿里巴巴 Java 开发手册》是阿里巴巴集团技术团队的集体经验总结，经历了多次大规模一线实战的检验及不断的完善，反馈给广大开发者。
 
 # Resource
+
+## Collection | 其他资源集锦
+
+- [2017-在 Java 路上，我看过的一些书、源码和框架 #Collection#](http://www.jianshu.com/p/4a41ee88bd82)
+
+- [Java 程序员们值得一看的好书推荐](https://zhuanlan.zhihu.com/p/23444919)
+
+- [2017-Best Java Sites](http://www.baeldung.com/java-blogs): There are several “Top Java Blogs” pages out there – but also a lot of noise. Some of these blogs are abandoned with the last postin 2008, some have simply switched focused from Java to something else. Others are gone altogether.
+
+- [Java 学习中的 99 个实践问题](https://github.com/shekhargulati/99-problems/blob/master/java8/README.md)
+
+- [Java 资源大全中文版](https://github.com/jobbole/awesome-java-cn): Java 资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
+
+- [2018-Java 学习指南 #Collection#](https://github.com/Snailclimb/JavaGuide): 一份涵盖大部分 Java 程序员所需要掌握的核心知识，正在一步一步慢慢完善，期待您的参与。
 
 ## Book | 书籍
 
@@ -36,7 +50,7 @@
 
 - [JVM 内幕：Java 虚拟机详解](www.importnew.com/17770.html?utm_source=tuicool&utm_medium=referral)
 
-* [2015-Pro Java 8 Programming, Third Edition #Project# ](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
+* [2015-Pro Java 8 Programming, Third Edition #Project#](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
 
 * [2017-Think Java #Book#](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
 
@@ -44,7 +58,7 @@
 
 ## Series | 系列文章
 
-- [JCSprout](https://github.com/crossoverJie/JCSprout): Java Core Sprout : basic, concurrent, algorithm
+- [JCSprout](https://github.com/crossoverJie/JCSprout): Java Core Sprout: basic, concurrent, algorithm
 
 ## Blog | 博客
 
@@ -63,32 +77,6 @@
 - [来自 GeniusVJR 的学习笔记](https://github.com/GeniusVJR/LearningNotes)
 
 * [Java Specialists](https://www.javaspecialists.eu/): From expert level specialists articles, to inhouse concurrency courses to emergency consulting.
-
-## Collection | 其他资源集锦
-
-- [2017-在 Java 路上，我看过的一些书、源码和框架 #Collection#](http://www.jianshu.com/p/4a41ee88bd82)
-
-- [Java 程序员们值得一看的好书推荐](https://zhuanlan.zhihu.com/p/23444919)
-
-- [2017-Best Java Sites](http://www.baeldung.com/java-blogs): There are several “Top Java Blogs” pages out there – but also a lot of noise. Some of these blogs are abandoned with the last postin 2008, some have simply switched focused from Java to something else. Others are gone altogether.
-
-- [Java 学习中的 99 个实践问题](https://github.com/shekhargulati/99-problems/blob/master/java8/README.md)
-
-- [Java 工程师成神之路~](http://www.hollischuang.com/archives/489)
-
-- [Java 资源大全中文版](https://github.com/jobbole/awesome-java-cn)
-
-- [2018-Java 学习指南 #Collection#](https://github.com/Snailclimb/JavaGuide): 一份涵盖大部分 Java 程序员所需要掌握的核心知识，正在一步一步慢慢完善，期待您的参与。
-
-## Interview | 面试
-
-- [2017-Java Collection Interview Questions and Answer](https://parg.co/bak): Here is a list of Java Collections interview Questions. These are some of the famous questions asked in interviews.
-
-- [Java 高级开发工程师面试考点](http://www.sanesee.com/article/java-engineer-interview-of-content-tree)
-
-- [Java 面试问题](https://dongchuan.gitbooks.io/java-interview-question/content/java/index.html)
-
-- [2018-Java Interview](https://github.com/crossoverJie/Java-Interview): 多数是一些 Java 基础知识、底层原理、算法详解。也有上层应用设计，其中不乏一些大厂面试真题。
 
 ## Online Playground | 在线实践
 
@@ -135,3 +123,17 @@
 - [2017-Java 9 Articles – Series Index](https://blog.idrsolutions.com/2017/06/java-9-articles-series-index/): In this series we have put together some tutorials to explain what they are, why they are useful andquickly show you how to use them.
 
 - [2017-Wrapping up Java 9 new Features](https://aboullaite.me/wrapping-up-java-9-new-features/): In this write up we’re going to have quick, high level look at some of the new features;
+
+## IDE
+
+- [IntelliJ IDEA](https://github.com/judasn/IntelliJ-IDEA-Tutorial/)
+
+# Interview | 面试
+
+- [2017-Java Collection Interview Questions and Answer](https://parg.co/bak): Here is a list of Java Collections interview Questions. These are some of the famous questions asked in interviews.
+
+- [Java 高级开发工程师面试考点](http://www.sanesee.com/article/java-engineer-interview-of-content-tree)
+
+- [Java 面试问题](https://dongchuan.gitbooks.io/java-interview-question/content/java/index.html)
+
+- [2018-Java Interview](https://github.com/crossoverJie/Java-Interview): 多数是一些 Java 基础知识、底层原理、算法详解。也有上层应用设计，其中不乏一些大厂面试真题。

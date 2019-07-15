@@ -29,6 +29,8 @@
 
 - [PMD #Project#](https://pmd.github.io/): PMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth.
 
+- [Simian - Similarity Analyser](http://www.harukizaemon.com/simian/installation.html): Simian (Similarity Analyser) identifies duplication in Java, C#, C, C++, COBOL, Ruby, JSP, ASP, HTML, XML, Visual Basic, Groovy source code and even plain text files. In fact, simian can be used on any human readable files such as ini files, deployment descriptors, you name it.
+
 ## Performance Optimization | 性能优化
 
 - [MyPerf4J #Project#](https://github.com/ThinkpadNC5/MyPerf4J): Real-time Java method performance monitoring and statistical tool.

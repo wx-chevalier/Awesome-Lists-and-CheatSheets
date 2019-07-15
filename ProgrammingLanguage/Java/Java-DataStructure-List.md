@@ -1,38 +1,16 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists) 
- 
- 
- 
- 
- 
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
 
-
- 
-
-
- 
-
-
- 
-
-
-
-# Java 数据结构 Learning & Practices List
-
-
+# Java DataStructure List
 
 # 基础数据结构
 
-
 ## RegExp: 正则表达式
-
-
 
 - [2017-Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
 
 - [2017-Java Regex – Simple Patterns](http://www.novixys.com/blog/java-regex-simple-patterns/): Learn the basics of regular expression pattern matching in Java. Covers a few basic regular expression constructs.
 
 - [Java regular expressions cheat sheet](https://zeroturnaround.com/rebellabs/java-regular-expressions-cheat-sheet)
-
 
 ## DateTime: 时间与日期
 
@@ -46,16 +24,10 @@
 
 - [2015-20 个关于 Java 8 时间与日期的例子](http://javarevisited.blogspot.com/2015/03/20-examples-of-date-and-time-api-from-Java8.html)
 
-
 # Collections: 集合类型
-
-
 
 - [Collections in Java by Java Point #Series#](https://www.javatpoint.com/collections-in-java)
 
-
 # Map: 映射类型
-
-
 
 - [2017-Guide to hashCode() in Java](http://www.baeldung.com/java-hashcode)
