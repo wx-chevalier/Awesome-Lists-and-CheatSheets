@@ -73,6 +73,8 @@
 
 * [mybatis-multi-tenancy #Project#](https://github.com/Mearalu/mybatis-multi-tenancy): 这是一个 mybatis 的基于共享数据表模式的多租户插件
 
+- [mybatis-plus #Project#](https://github.com/baomidou/mybatis-plus): An powerful enhanced toolkit of MyBatis for simplify development.
+
 ### Hibernate
 
 # SysProc
