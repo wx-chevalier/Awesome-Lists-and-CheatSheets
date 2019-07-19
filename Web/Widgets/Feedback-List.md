@@ -27,3 +27,7 @@
 # Message | 全局提示
 
 # Notification | 通知提醒框
+
+# Comment 
+
+- [Talk #Project#](https://github.com/coralproject/talk): Our open-source commenting platform, Talk, rethinks how moderation, comment display, and conversation function, creating the opportunity for safer, smarter discussions around your work.

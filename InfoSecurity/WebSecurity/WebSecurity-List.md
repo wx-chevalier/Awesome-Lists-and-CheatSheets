@@ -30,6 +30,8 @@
 
 - [2017-From Markdown to RCE in Atom](https://statuscode.ch/2017/11/from-markdown-to-rce-in-atom/): Recently I took a look at Atom, a text editor by GitHub. With a little bit of work, I was able to chain multiple vulnerabilities in Atom into an actual Remote Code Execution.
 
+- [2019-HTTP Security Headers - A Complete Guide](https://nullsweep.com/http-security-headers-a-complete-guide/): In this article, I will walk through the commonly evaluated headers, recommend security values for each, and give a sample header setting.
+
 # WebAPI
 
 - [2017-Improve Your Website Security in 5 Minutes With These HTTP Headers](https://parg.co/Upz)

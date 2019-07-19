@@ -12,6 +12,8 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2017-Top Algorithms/Data Structures/Concepts every computer science student should know](https://parg.co/Nr6)
 
+- [2019-Think in Math. Write in Code.](https://justinmeiners.github.io/think-in-math/): Programming languages are implementation tools, not thinking tools. They are strict formal languages invented to instruct machines in a human-friendly way. In contrast, thoughts are best expressed through a medium which is free and flexible.
+
 ## Visually
 
 - [VisuAlgo](https://parg.co/ddd): visualising data structures and algorithms through animation
