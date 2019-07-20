@@ -1,6 +1,8 @@
+# Java Engineering Practices List
+
 # Log
 
-# Log4j
+## Log4j
 
 - [Log4j 2.0 在开发中的高级使用详解](http://blog.csdn.net/xmtblog/article/details/37996225)
 - [官方网站](http://logging.apache.org/log4j/2.x/index.html)

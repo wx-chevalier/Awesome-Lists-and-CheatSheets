@@ -57,3 +57,25 @@
 # Coroutine
 
 - [2017-Project Loom: Fibers and Continuations for the Java Virtual Machine](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)
+
+* [2017-Java CompletableFuture Tutorial with Examples](https://www.callicoder.com/java-8-completablefuture-tutorial/): In this post I’ll give you a detailed explanation of CompletableFuture and all its methods using simple examples.
+
+# RxJava
+
+- [RxJava for the Rest of Us](https://realm.io/news/mobilization-hugo-visser-rxjava-for-rest-of-us/)
+
+- [深入浅出 RxJava](http://blog.csdn.net/lzyzsd/article/details/41833541)
+
+- [RxJava's repeatWhen and retryWhen, explained](http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/)
+
+- [彻底搞懂 RxJava](http://ms.csdn.net/geek/57742)
+
+- [RxJava 官方文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/Intro.html)
+
+- [howdy-rxjava](https://medium.com/fuzz/howdy-rxjava-8f40fef88181#.hzvemavv6)
+
+- [2017-Awesome RxJava #Collection#](https://github.com/lzyzsd/Awesome-RxJava): RxJava resources.
+
+- [Effective RxJava](https://github.com/mgp/effective-rxjava):一系列基于 RxJava 最佳实践的文章
+
+- [深入浅出 RxJava](http://blog.csdn.net/lzyzsd/article/details/41833541)
