@@ -8,8 +8,6 @@
 
 Awesome-Lists 是横跨了编程语言与理论、Web 与大前端、服务端开发与基础架构、云计算与大数据、数据科学与人工智能、产品设计等多个领域的，包括了文章、书籍、课程、案例、开源项目等多种类型的资料索引。Awesome-Lists 记录了笔者在日常阅读、学习与实践中发掘的优秀的资料，其按照[知识图谱](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)中定义的各个领域的知识体系分门别类地存放；笔者会不断更新其中链接，去芜存菁，去重留一，希望为同仁提供优秀的、有价值的、尽可能精简的资料索引。
 
-![default](https://i.postimg.cc/y1QXgJ6f/image.png)
-
 # Nav | 导航
 
 您可以通过以下任一方式阅读笔者的系列文章，涵盖了技术资料归纳、编程语言与理论、Web 与大前端、服务端开发与基础架构、云计算与大数据、数据科学与人工智能、产品设计等多个领域：
@@ -125,4 +123,4 @@ $ wc -l **/*.md | grep -E -v "(Weekly|total|README)" | awk '{s+=$1} END {printf 
 
 笔者所有文章遵循 [知识共享 署名 - 非商业性使用 - 禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)，欢迎转载，尊重版权。如果觉得本系列对你有所帮助，欢迎给我家布丁买点狗粮(支付宝扫码)~
 
-![](https://github.com/wx-chevalier/OSS/blob/master/2017/8/1/Buding.jpg?raw=true)
+![default](https://i.postimg.cc/y1QXgJ6f/image.png)
