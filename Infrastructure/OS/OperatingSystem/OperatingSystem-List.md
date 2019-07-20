@@ -4,6 +4,8 @@
 
 - [Why Raspberry Pi Isn't Vulnerable to Spectre or Meltdown](http://t.cn/RH3DVKj): To help us understand why, here’s a little primer on some concepts in modern processor design.
 
+- [2019-CPU 的工作原理是什么？](https://www.zhihu.com/question/40571490/answer/746043817): 第一部分是补充背景知识的综述部分，我相信就算是外行耐下心来看也是可以读懂的；文章的第二部分深度会有增加。
+
 # GPU
 
 - [Interactive GPU Programming](https://parg.co/UiQ): I will explore major CUDA and OpenCL topics in detail.
