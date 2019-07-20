@@ -35,3 +35,27 @@
 * [2018-11 Mistakes Java Developers make when Using Exceptions](https://nobugsproject.com/2017/05/28/11-mistakes-java-developers-make-when-using-exceptions/): See the 11 mistakes Java Developers make when using Exceptions.
 
 - [Java 异常处理的误区和经验总结](https://www.ibm.com/developerworks/cn/java/j-lo-exception-misdirection)
+
+# Meta Programming
+
+- [2017-Java 元编程及其应用](http://tech.youzan.com/java-metaprograming/)：可以说,社区内,成功的 web 框架中基本没有不强依赖元编程技术的,框架做的工作越多,应用编写就越轻松。
+
+- [Bytecode manipulation with Javassist for fun and profit part I: Implementing a lightweight IoC container in 300 lines of code](http://6me.us/ssw)
+
+## Generic | 泛型
+
+- [Java Generics cheat sheet](http://zeroturnaround.com/rebellabs/java-generics-cheat-sheet/)
+
+- [Java 泛型总结](http://www.tuicool.com/articles/YNZF3ev)
+
+- [Java 泛型里的协变和逆变 ](http://ybin.cc/programming/java-variance-in-generics/)
+
+- [generics-extends-super](http://onewebsql.com/blog/generics-extends-super)
+
+## Reflect | 反射
+
+- [Java 反射在 JVM 的实现](http://www.importnew.com/21211.html)
+
+- [2017-Java 反射由浅入深 | 进阶必备](https://juejin.im/post/598ea9116fb9a03c335a99a4)
+
+- [2017-Java Reflection, 1000x Faster](http://norswap.com/fast-java-reflection/)
