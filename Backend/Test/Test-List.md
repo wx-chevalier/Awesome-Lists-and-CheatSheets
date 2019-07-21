@@ -59,3 +59,7 @@
 # Database
 
 - [Analysis of TPC-DS](https://dl.acm.org/citation.cfm?id=3127479.3128603): Analysis of TPC-DS: the first standard benchmark for SQL-based big data systems
+
+# Chaos Engineering 
+
+- [2018-Chaos Engineering](http://principlesofchaos.org): Chaos Engineering is the discipline of experimenting on a system in order to build confidence in the system’s capability to withstand turbulent conditions in production.
