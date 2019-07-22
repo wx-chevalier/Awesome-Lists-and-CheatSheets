@@ -16,10 +16,13 @@
 
 - [2018-Java程序员的荣光，听R大论JDK11的ZGC](https://mp.weixin.qq.com/s/KUCs_BJUNfMMCO1T3_WAjw?from=groupmessage&isappinstalled=0): ZGC的成绩是，无论你开了多大的堆内存(1288G？ 2T？)，硬是能保证低于10毫秒的JVM停顿。
 
+- [Java 内存管理初探](https://halfstackdeveloper.github.io/2016/12/30/java%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E5%88%9D%E6%8E%A2/)
+
+# Garbage Collection 
+
 # CMS
 
 - [2013-并发垃圾收集器（CMS）为什么没有采用标记整理-算法来实现，而是采用的标记-清除算法？](http://hllvm.group.iteye.com/group/topic/38223#post-248757)
-
 
 # Memory Leak | 内存泄漏
 
