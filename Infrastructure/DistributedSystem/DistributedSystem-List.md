@@ -4,17 +4,13 @@
 
 # Overview
 
-- [分布式系统本质论](http://www.52cs.org/)
+- [漫谈分布式系统、拜占庭将军问题与区块链](https://mp.weixin.qq.com/s/tngWdvoev8SQiyKt1gy5vw): 今天本文就借这个机会，跟大家一起讨论一下分布式系统的核心问题和概念。最后，我们将尽量沿着逻辑上前后一贯的思路，讨论一下区块链技术。
 
-* [In search of a simple consensus algorithm](http://rystsov.info/2017/02/15/simple-consensus.html)
+* [走向分布式，分布式系列入门教程](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
 
-* [漫谈分布式系统、拜占庭将军问题与区块链](https://mp.weixin.qq.com/s/tngWdvoev8SQiyKt1gy5vw): 今天本文就借这个机会，跟大家一起讨论一下分布式系统的核心问题和概念。最后，我们将尽量沿着逻辑上前后一贯的思路，讨论一下区块链技术。
+* [浅析分布式系统](http://wetest.qq.com/lab/view/203.html?from=content_toutiao): 来自腾讯 Wadehan 关于服务器端系统技术的基础概念探索
 
-- [走向分布式，分布式系列入门教程](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
-
-- [浅析分布式系统](http://wetest.qq.com/lab/view/203.html?from=content_toutiao): 来自腾讯 Wadehan 关于服务器端系统技术的基础概念探索
-
-* [分布式系统互斥性与幂等性问题的分析与解决 ](http://blog.csdn.net/zdy0_2004/article/details/52760404)
+- [分布式系统互斥性与幂等性问题的分析与解决 ](http://blog.csdn.net/zdy0_2004/article/details/52760404)
 
 # Resources
 
@@ -67,3 +63,5 @@
 - [2016-腾讯金融级分布式数据库 TDSQL 的前世今生](http://blog.csdn.net/test_soy/article/details/53259136): TDSQL(Tencent Distributed MySQL，腾讯分布式 MySQL)是由腾讯技术工程事业群计费平台部针对金融联机交易场景开发的高一致性数据库集群产品。
 
 * [An introduction to distributed systems](https://github.com/aphyr/distsys-class): 一个基本的分布式系统简介
+
+# Distributed Consistency | 分布式一致性
