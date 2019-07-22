@@ -14,6 +14,6 @@
 
 - [图解 Paxos 一致性协议](http://blog.xiaohansong.com/2016/09/30/Paxos/)
 
-## Implementations
+# Implementations
 
 - [Plain Paxos Implementations in Python & Java](https://github.com/cocagne/paxos)
