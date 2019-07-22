@@ -26,6 +26,10 @@
 
 - Redis Based Lock: [Redlock-rb](https://github.com/antirez/redlock-rb), [Redlock-php](https://github.com/ronnylt/redlock-php), [Redsync.go](https://github.com/hjr265/redsync.go), [Redisson](https://github.com/mrniko/redisson).
 
+# Distributed Consensus
+
+- [liferaft #Project#](https://parg.co/Uro): Consensus protocol based on raft, but only for saving lifes and works in node as well as in browers.
+
 # Distributed Transaction
 
 - [Seata #Project#](https://github.com/seata/Seata): Seata is an easy-to-use, high-performance, java based, open source distributed transaction solution.
