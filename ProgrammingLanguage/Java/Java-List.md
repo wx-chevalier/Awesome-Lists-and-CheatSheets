@@ -46,11 +46,9 @@
 
 * [2012-Java 并发编程实战 #Book#](http://book.51cto.com/art/201203/323171.htm): 本书深入浅出地介绍了 Java 线程和并发，是一本完美的 Java 并发参考手册。
 
-- [2015-实战 Java 高并发程序设计 #Book#]()：
+- [JVM 内幕：Java 虚拟机详解 #Book#](www.importnew.com/17770.html?utm_source=tuicool&utm_medium=referral)
 
-- [JVM 内幕：Java 虚拟机详解](www.importnew.com/17770.html?utm_source=tuicool&utm_medium=referral)
-
-* [2015-Pro Java 8 Programming, Third Edition #Project#](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
+* [2015-Pro Java 8 Programming-3rd #Book#](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
 
 * [2017-Think Java #Book#](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
 

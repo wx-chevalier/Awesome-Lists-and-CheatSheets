@@ -4,9 +4,11 @@
 
 # Class Structure | 类结构
 
-- [2018-JVM 揭秘：一个 class 文件的前世今生](http://www.tuicool.com/articles/jEnYrye)
+- [实例探索 Class 文件](http://www.importnew.com/17086.html)
 
-* [实例探索 Class 文件](http://www.importnew.com/17086.html)
+* [Jvm 之用 java 解析 class 文件](http://www.tuicool.com/articles/ZfMnMju)
+
+- [2018-JVM 揭秘：一个 class 文件的前世今生](http://www.tuicool.com/articles/jEnYrye)
 
 # Classloader | 累类加载器
 
@@ -16,7 +18,6 @@
 
 - [2017-如何实现一个 Java Class 解析器](https://mp.weixin.qq.com/s/jj8e8KkqNyJc8iWHjLYogg): 实际上 JDK 已经提供了命令行工具 javap 来反编译 Class 文件，但本篇文章将阐明我实现解析器的思路。
 
-
 # 类初始化
 
-* [Java 类的连接与初始化 (及 2013 阿里初始化笔试题解析)](http://www.importnew.com/17105.html)
+- [Java 类的连接与初始化 (及 2013 阿里初始化笔试题解析)](http://www.importnew.com/17105.html)
