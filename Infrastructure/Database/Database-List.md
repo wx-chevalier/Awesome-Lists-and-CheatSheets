@@ -20,7 +20,9 @@
 
 ## Blog
 
-- [digoal/blog](https://github.com/digoal/blog): Everything about database,bussiness.(Most for PostgreSQL).
+- [digoal/blog #Series#](https://github.com/digoal/blog): Everything about database,bussiness.(Most for PostgreSQL).
+
+- [数据库内核 #Series#](https://zhuanlan.zhihu.com/c_206071340): 解码数据库实现
 
 ## Book
 
