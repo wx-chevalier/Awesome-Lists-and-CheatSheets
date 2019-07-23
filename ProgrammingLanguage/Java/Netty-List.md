@@ -4,7 +4,9 @@
 
 # Resource
 
-- [2016-Netty Learning #Book#](https://github.com/code4craft/netty-learning): Netty 是 Java 世界知名的网络应用框架。本系列文章是 Netty 的源码导读。
+- [2015-Norman-Netty in Action #Book#](http://93.174.95.29/_ads/A861BBD08F8EADD7068C39B33DA23C16): Netty in Action introduces the Netty framework and shows you how to incorporate it into your Java network applications. You'll learn to write highly scalable applications without the need to dive into the low-level non-blocking APIs at the core of Java.
+
+* [2016-Netty Learning #Book#](https://github.com/code4craft/netty-learning): Netty 是 Java 世界知名的网络应用框架。本系列文章是 Netty 的源码导读。
 
 # Engineering Practices | 工程实践
 

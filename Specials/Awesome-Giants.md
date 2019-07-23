@@ -99,3 +99,7 @@
 * [2018-Stream & Go: News Feeds for Over 300 Million End Users](https://parg.co/Uku): Stream is an API that enables developers to build news feeds and activity streams (try the API). We are used by over 500 companies and power the feeds of more than 300 million end users.
 
 - [2017-Distributed Systems-3rd edition #Book#](https://parg.co/UeG): 1. Introduction 2. Architectures 3. Processes 4. Communication 5. Naming 6. Coordination 7. Replication 8. Fault tolerance 9. Security
+
+# Others
+
+- [互联网风雨十年，我所经历的技术变迁](http://zhangtielei.com/posts/blog-mobile-to-ai.html)
