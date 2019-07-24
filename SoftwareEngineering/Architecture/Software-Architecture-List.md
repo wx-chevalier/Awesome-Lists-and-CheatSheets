@@ -28,6 +28,8 @@
 
 - [2013-Vaughn-Implementing Domain Driven Design #Book#](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577): Implementing Domain-Driven Design will impart a treasure trove of knowledge hard won within the DDD and enterprise application architecture communities over the last couple decades.
 
+* [2016-架构漫谈 #Book#](https://www.amazon.cn/dp/B01B60Z9WG): 专栏以 Kevin 的架构经验为基础，逐步讨论什么是架构、怎样做好架构、软件架构如何落地、如何写好代码等问题。
+
 - [2018-Martin-Clean Architecture #Book#](http://putregai.com/sbooks/clean_arch.pdf): A Craftsman's Guide to Software Structure and Design.
 
 # Principles
@@ -38,12 +40,6 @@
 
 # Architect | 架构师
 
-- [架构师画像](http://mp.weixin.qq.com/s?__biz=MjM5MzYzMzkyMQ==&mid=401938578&idx=1&sn=575e6cbef78f61516db0516d8c791373&scene=23&srcid=#rd)
+- [2016-架构师画像](https://parg.co/M8y): 这篇文章就来讲讲我觉得的架构师的画像，到底具备什么素质的同学是贴合架构师形象的。
 
 - [支付宝架构师：从工程师到架构师的成长之路](http://www.scalerstalk.com/838-architect)
-
-- [谈谈系统设计的面试 ](http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=401641618&idx=1&sn=3a6dbb475ceb85a4610e49910443a098&scene=19#wechat_redirect)
-
-- [设计恰如其分的架构](http://www.jianshu.com/p/ac8da825c26f)
-
-- [架构师漫谈](http://o6v08w541.bkt.clouddn.com/Informal-Discussion-on-Architecture.pdf)
