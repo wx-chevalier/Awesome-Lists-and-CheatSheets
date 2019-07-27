@@ -1,10 +1,10 @@
 # Architectural Pattern List
 
-# EDA List
+# EDA
 
 - [Events As First-Class Citizens](https://parg.co/UMx): In this post, I’ll discuss the lifecycle of a “fix” at Stitch Fix and how we use events to model it.
 
-# CQRS List
+# CQRS
 
 - [Building Scalable Applications Using Event Sourcing and CQRS](https://medium.com/@ikem/event-sourcing-and-cqrs-a-look-at-kafka-e0c1b90d17d8#.bqrq7j3fa)
 
