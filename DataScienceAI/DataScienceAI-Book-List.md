@@ -72,6 +72,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2019-动手学深度学习 #Book#](http://zh.gluon.ai/index.html#): 这是一本深度学习在线书，其使用 Apache MXNet 的最新 gluon 接口来演示如何从 0 开始实现深度学习的各个算法。作者利用 Jupyter notebook 能将文档、代码、公式和图形统一在一起的优势，提供了一个交互式的学习体验。
 
+- [2019-神经网络与深度学习 #Project#](https://nndl.github.io): 本课程主要介绍神经网络与深度学习中的基础知识、主要模型（前馈网络、卷积网络、循环网络等）以及在计算机视觉、自然语言处理等领域的应用。
+
 # NLP | 自然语言处理
 
 - [2016-Text Data Management and Analysis #Book#](https://dl.acm.org/citation.cfm?id=2915031): A Practical Introduction to Information Retrieval and Text Mining
