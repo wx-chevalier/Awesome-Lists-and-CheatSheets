@@ -22,6 +22,8 @@
 
 ## Books
 
+- [2003-Martin Fowler-Patterns of Enterprise Application Architecture #Book#](https://martinfowler.com/books/eaa.html): This book started after Dave Rice and I gave some talks on J2EE architecture and mulled over how the concepts we had learned in C++, Forte, CORBA, and Smalltalk had been crucial to us developing good designs in Java.
+
 - [2012-Clean Code #Book#](https://parg.co/Mg5): Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.
 
 - [500 Lines or Less: The Architecture of Open Source Applications #Book#](http://aosabook.org/en/index.html): 神书一套，介绍了很多开源软件的架构设计，In these two books, the authors of four dozen open source applications explain how their software is structured, and why. What are each program's major components? How do they interact? And what did their builders learn during their development? In answering these questions, the contributors to these books provide unique insights into how they think.
