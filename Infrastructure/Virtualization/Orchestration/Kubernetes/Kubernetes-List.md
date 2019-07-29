@@ -51,7 +51,3 @@
 # Tutorials
 
 - [Kubernetes 101 & 201 #Series#](https://kubernetes.io/docs/tutorials/k8s101/): For Kubernetes 101, we will cover kubectl, Pods, Volumes, and multiple containers. For Kubernetes 201, we will pick up where 101 left off and cover some slightly more advanced topics in Kubernetes, related to application productionization, Deployment and scaling.
-
-## Helm
-
-- [使用 Helm 优化 Kubernetes 下的研发体验：基础设施即代码](https://mp.weixin.qq.com/s/NdQYzMfRnQv7YatX7075Eg): 本文中，笔者将以一个 Spring Boot 程序为例，介绍如何在软件研发端到端过程中是使用 Helm。
