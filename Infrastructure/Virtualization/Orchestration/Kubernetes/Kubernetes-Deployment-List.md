@@ -8,7 +8,7 @@
 
 * [原生加速中国区 Kubernetes 安装](https://www.cnrancher.com/kubernetes-installation/): 教你如何在中国区加速部署 k8s，且实现自定义设置拥有 k8s 镜像的仓库与其命名空间。
 
-* [Quick deployment of Kubernetes - VPC environment on Alibaba Cloud ](https://www.alibabacloud.com/forum/read-830)
+* [Quick deployment of Kubernetes - VPC environment on Alibaba Cloud](https://www.alibabacloud.com/forum/read-830)
 
 # Cluster
 
