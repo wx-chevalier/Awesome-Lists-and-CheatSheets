@@ -28,3 +28,7 @@ Awesome Codebases 收藏了哪些设计，代码风格，或者架构优美的�
 - [Spectrum #Project#](https://github.com/withspectrum/spectrum): This is the main monorepo codebase of Spectrum. Every single line of code that's not packaged into a reusable library is in this repository.
 
 - [DevHub #Project#](https://github.com/devhubapp/devhub): GitHub Notifications Manager & Activity Watcher - Web, Mobile & Desktop
+
+# 链接
+
+- https://news.ycombinator.com/item?id=20556336
