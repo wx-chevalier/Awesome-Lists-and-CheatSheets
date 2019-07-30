@@ -25,3 +25,7 @@
 # 长连接网关
 
 - [2019-知乎千万级高性能长连接网关是如何搭建的](https://mp.weixin.qq.com/s/gF2kyUtYQb53l10hln2I1g?from=groupmessage&isappinstalled=0): 知乎长连接网关致力于业务数据解耦、消息高效分发、解决容量问题，同时提供一定程度的消息可靠性保证。
+
+# IM 系统
+
+- [现代 IM 系统中的消息系统架构 #Series#](https://yq.aliyun.com/articles/701593): 我们介绍了现代 IM 消息系统的架构，介绍了 Timeline 的抽象模型以及基于 Timeline 模型构建的一个支持『消息漫游』、『多端同步』和『消息检索』多种高级功能的消息系统的典型架构。

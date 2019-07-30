@@ -2,6 +2,8 @@
 
 # JavaScript TypeSystem List
 
+- [2016-TypeScript vs Flow](https://github.com/niieani/typescript-vs-flowtype): Differences between Flowtype and TypeScript -- syntax and usability
+
 - [2017-Type systems will make you a better JavaScript programmer](http://jaredforsyth.com/type-systems-js-dev/#/5): Managing large JavaScript codebases is challenging — whenever we casually pass objects from Chrome’s JavaScript to Objective-C just to receive a callback on a different thread in Node.js, we need a guarantee that the individual pieces fit together.
 
 - [2017-Adopting Flow & TypeScript](http://thejameskyle.com/adopting-flow-and-typescript.html): A comparison between the two on-boarding processes.
@@ -28,15 +30,15 @@
 
 * [2017-The definitive guide for using Flow static JavaScript type checker](https://parg.co/b27)
 
-## Resources: 资源
+## Resources | 资源
 
 - [2016-awesome-flow](https://github.com/dustinspecker/awesome-flow): A list of awesome Flow integrations, tools, tutorials, etc.
 
-## Syntax: 语法介绍
+## Syntax | 语法介绍
 
 - [Type-checking React and Redux (+Thunk) with Flow — Part 1](https://blog.callstack.io/type-checking-react-and-redux-thunk-with-flow-part-1-ad12de935c36#.i4tr67qtz)
 
-## EPractices: 实践
+## Engineering Practices | 实践
 
 - [Flow’s best kept secret](https://medium.com/@forbeslindesay/covariance-and-contravariance-c3b43d805611#.1jh1c2s36)
 

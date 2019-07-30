@@ -20,6 +20,8 @@ Massive & Curated OpenSource Project/Framework/Tool Links, for building great di
 
 * [2018-QMQ #Project#](https://github.com/qunarcorp/qmq): QMQ 是去哪儿网内部广泛使用的消息中间件，自 2012 年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。
 
+- [2018-NATS #Project#](https://github.com/nats-io/nats-server): High-Performance server for NATS, the cloud native messaging system.
+
 # Processing Engine
 
 - [hazelcast-jet #Project#](https://github.com/hazelcast/hazelcast-jet): A general purpose distributed data processing engine, built on top of Hazelcast.
@@ -50,7 +52,7 @@ Massive & Curated OpenSource Project/Framework/Tool Links, for building great di
 
 - [DataX #Project#](https://github.com/alibaba/DataX): 阿里巴巴集团内被广泛使用的离线数据同步工具/平台
 
-- [dbt #Project#](https://github.com/fishtown-analytics/dbt): dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications. 
+- [dbt #Project#](https://github.com/fishtown-analytics/dbt): dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 
 ### Data Pipeline
 

@@ -28,11 +28,13 @@
 
 ## Book
 
-- [2017-Kubernetes 中文指南/云原生应用架构实践手册 #Book#](https://github.com/rootsongjc/kubernetes-handbook): 本书记录了本人从零开始学习和使用 Kubernetes 的心路历程，着重于经验分享和总结，同时也会有相关的概念解析，希望能够帮助大家少踩坑，少走弯路，还会指引大家关于关注 kubernetes 生态周边，如微服务构建、DevOps、大数据应用、Service Mesh、Cloud Native 等领域。
+- [2017-Kubernetes 中文指南/云原生应用架构实践手册 #Book#](https://jimmysong.io/kubernetes-handbook/): 本书记录了本人从零开始学习和使用 Kubernetes 的心路历程，着重于经验分享和总结，同时也会有相关的概念解析，希望能够帮助大家少踩坑，少走弯路，还会指引大家关于关注 kubernetes 生态周边，如微服务构建、DevOps、大数据应用、Service Mesh、Cloud Native 等领域。
 
-* [2017-Kubernetes for Java Developers #Book#](https://www.oreilly.com/programming/free/files/kubernetes-for-java-developers.pdf): Orchestrate Multi-Container Applications with Ease
+* [2017-Kubernetes for Java Developers #Book#](https://www.oreilly.com/programming/free/files/kubernetes-for-java-developers.pdf): Orchestrate Multi-Container Applications with Ease.
 
 - [2017-Kubernetes The Hard Way #Series#](https://github.com/kelseyhightower/kubernetes-the-hard-way): This tutorial walks you through setting up Kubernetes the hard way. This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster. If that's you then check out Google Kubernetes Engine, or the Getting Started Guides.
+
+- [2019-Kubernetes Patterns #Book#](https://www.oreilly.com/library/view/kubernetes-patterns/9781492050278/): With this focused guide, Bilgin Ibryam and Roland Huß from Red Hat provide common reusable elements, patterns, principles, and practices for designing and implementing cloud-native applications on Kubernetes.
 
 ## Courses
 
@@ -51,7 +53,3 @@
 # Tutorials
 
 - [Kubernetes 101 & 201 #Series#](https://kubernetes.io/docs/tutorials/k8s101/): For Kubernetes 101, we will cover kubectl, Pods, Volumes, and multiple containers. For Kubernetes 201, we will pick up where 101 left off and cover some slightly more advanced topics in Kubernetes, related to application productionization, Deployment and scaling.
-
-## Helm
-
-- [使用 Helm 优化 Kubernetes 下的研发体验：基础设施即代码](https://mp.weixin.qq.com/s/NdQYzMfRnQv7YatX7075Eg): 本文中，笔者将以一个 Spring Boot 程序为例，介绍如何在软件研发端到端过程中是使用 Helm。
