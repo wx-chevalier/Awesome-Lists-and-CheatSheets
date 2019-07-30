@@ -42,6 +42,10 @@
 
 - [2017-Scalable Microservices with Kubernetes (Udacity) #Course#](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615): This course is designed to teach you about managing application containers, using Kubernetes
 
+- [2017-Kubernetes 完全教程 #Course#](https://github.com/jolestar/kubernetes-complete-course): 这个教程是一个公开课系列课程，预计包含 8 课（包含一节预备课）。
+
+- [2017-从 Docker 到 Kubernetes 进阶](https://www.qikqiak.com/k8s-book/): 从 Docker 入门一步步迁移到 Kubernetes 的进阶课程。
+
 ## Collection
 
 - [2018-Resources for Getting Started with Kubernetes](https://vsupalov.com/getting-started-with-kubernetes/): Hand-picked reading material and courses to help you make progress towards getting started with Kubernetes.
