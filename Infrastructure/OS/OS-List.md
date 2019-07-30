@@ -2,11 +2,11 @@
 
 # Operating System List | 操作系统资料索引
 
-- [Operating System: From 0 to 1](https://github.com/tuhdo/os01):
-
-* [2017-How to write a simple operating system](http://mikeos.sourceforge.net/write-your-own-os.html)：This document shows you how to write and build your first operating system in x86 assembly language.
+# Overview 
 
 * [How Operating Systems Work: 10 Concepts you Should Know as a Developer](https://parg.co/UVV): In this article, the author shares 10 critical operating system concepts that you need to learn if you want to get good at developing software.
+
+- [2019-世界操作系统发展简史](https://mp.weixin.qq.com/s/lQYtuTkc1tzP7pejMYMCWg): 我们回顾操作系统的发展历史发现，操作系统已经发展了近半个世纪，其覆盖的范围包括：个人电脑端操作系统、工业应用操作系统以及移动端操作系统。
 
 # Resource
 
@@ -18,7 +18,9 @@
 
 - [linux-insides #Book#](https://github.com/0xAX/linux-insides): A book-in-progress about the linux kernel and its insides.
 
-- [2018-性能之殇 #Series#](https://lvwenhan.com/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/492.html): 本文的目标是在我有限的认知范围内，讨论一下人们为了提高性能做出的种种努力，这里面包含硬件层面的 CPU、RAM、磁盘，操作系统层面的并发、并行、事件驱动，软件层面的多进程、多线程，网络层面的分布式，等等等等。
+- [2017-Operating System: From 0 to 1 #Book#](https://github.com/tuhdo/os01): Bootstrap yourself to write an OS from scratch. A book for self-learner.
+
+* [2017-How to write a simple operating system #Book#](http://mikeos.sourceforge.net/write-your-own-os.html)：This document shows you how to write and build your first operating system in x86 assembly language.
 
 - [2019-Operating Systems: Three Easy Pieces #Project#](http://pages.cs.wisc.edu/~remzi/OSTEP/): The book is centered around three conceptual pieces that are fundamental to operating systems: virtualization, concurrency, and persistence. In understanding the conceptual, you will also learn the practical, including how an operating system does things like schedule the CPU, manage memory, and store files persistently.
 

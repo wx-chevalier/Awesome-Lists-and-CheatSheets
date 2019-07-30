@@ -100,6 +100,10 @@
 
 - [2017-Distributed Systems-3rd edition #Book#](https://parg.co/UeG): 1. Introduction 2. Architectures 3. Processes 4. Communication 5. Naming 6. Coordination 7. Replication 8. Fault tolerance 9. Security
 
+# 创业公司的基础架构
+
+- [2019-一个牛逼的创业公司后台技术栈搭建方案](https://zhuanlan.zhihu.com/p/71267807): 说到后台技术栈，脑海中是不是浮现的下面这样一幅图？
+
 # Others
 
 - [互联网风雨十年，我所经历的技术变迁](http://zhangtielei.com/posts/blog-mobile-to-ai.html)

@@ -52,6 +52,8 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 # Computer Science
 
+- [Best Paper Awards in Computer Science (since 1996) #Paper#](https://jeffhuang.com/best_paper_awards.html): I (Jeff Huang) tried to collect best paper awards from the top-tier conferences in each area, but some conferences do not have such an award (e.g. SIGGRAPH, CAV). 
+
 # Interview | 面试
 
 - [InterviewMap #Project#](https://github.com/InterviewMap/InterviewMap): uild the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
