@@ -6,7 +6,7 @@
 
 - [2019-知乎已读服务的前生今世与未来](https://zhuanlan.zhihu.com/p/68383301): 为了避免给用户推荐重复的内容，已读服务会将所有知乎站上用户深入阅读或快速掠过的内容长期保存，并将这些数据应用于首页推荐信息流和个性化推送的已读过滤。
 
-# Concepts
+# 缓存概念
 
 - [2018-The hidden components of Web Caching](https://parg.co/UFt): Let’s take a bottom-up approach to understanding the various layers of caching.
 
@@ -16,7 +16,7 @@
 
 * [你有自己的 Web 缓存知识体系吗？](http://www.tuicool.com/articles/z2uqamn)
 
-# Engineering Practices
+# 缓存策略
 
 - [2016-缓存架构设计细节二三事](https://parg.co/UFN): 本文主要讨论这么几个问题：“缓存与数据库”需求缘起，“淘汰缓存”还是“更新缓存”，缓存和数据库的操作时序，缓存和数据库架构简析。
 
@@ -31,3 +31,7 @@
 * [缓存级别与缓存更新问题](https://parg.co/bs3)：缓存失效问题被认为是计算机科学中最难的两件事之一，这篇文章来自翻译，内容主要包括缓存级别与缓存更新常见的几种模式。
 
 * [2016-Design of a Modern Cache](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html): In this article we will explore the modern methods used by Caffeine, an open-source Java caching library, that yield high hit rates and excellent concurrency.
+
+# 缓存架构
+
+- [2019-这些年，我们一起追过的缓存数据库](https://mp.weixin.qq.com/s/zJnqmZqlwYGkC8BXHwjzjw): 畅途网为了解决节假日或高峰期的车次查询、抢票等大数据量的访问请求，很早以前就引进了 Redis，来作为数据库的上游缓存层，缓解底层数据库的读写压力。

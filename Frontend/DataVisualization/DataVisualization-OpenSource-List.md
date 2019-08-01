@@ -150,6 +150,10 @@
 
 - [2018-deck.gl #Project#](http://deck.gl/#/): deck.gl is a WebGL-powered framework for visual exploratory data analysis of large datasets.
 
+# Image 
+
+- [bild #Project#](https://github.com/anthonynsimon/bild): A collection of parallel image processing algorithms in pure Go.
+
 # Application
 
 ## Handwriting & Signature
