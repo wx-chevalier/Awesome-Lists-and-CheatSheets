@@ -52,7 +52,7 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 # Computer Science
 
-- [Best Paper Awards in Computer Science (since 1996) #Paper#](https://jeffhuang.com/best_paper_awards.html): I (Jeff Huang) tried to collect best paper awards from the top-tier conferences in each area, but some conferences do not have such an award (e.g. SIGGRAPH, CAV). 
+- [Best Paper Awards in Computer Science (since 1996) #Paper#](https://jeffhuang.com/best_paper_awards.html): I (Jeff Huang) tried to collect best paper awards from the top-tier conferences in each area, but some conferences do not have such an award (e.g. SIGGRAPH, CAV).
 
 # Interview | 面试
 
@@ -103,6 +103,8 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 - [Comic For What is BackEnd Developer](https://consolia-comic.com/comics/back-end)
 
 * [2017-The non-techie’s guide to servers](https://parg.co/bDN)
+
+- [awesome-architecture #Collection#](https://github.com/toutiaoio/awesome-architecture): 架构师技术图谱包括：分布式、前端、大数据、存储、微服务、推荐系统、框架 、消息队列、编程语言、设计模式、重构、集群等内容。
 
 # DataScienceAI
 

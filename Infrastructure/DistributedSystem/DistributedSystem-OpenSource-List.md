@@ -54,4 +54,6 @@
 
 - MogileFS
 
+- [2019-MinIO #Project#](https://github.com/minio/minio): MinIO is a high performance object storage server compatible with Amazon S3 APIs.
+
 ## Block Storage

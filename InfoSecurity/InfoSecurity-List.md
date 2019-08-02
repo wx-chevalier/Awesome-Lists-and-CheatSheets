@@ -42,6 +42,10 @@
 
 ## Collection
 
+## Course
+
+- [Beginner Network Pentesting #Series#](https://github.com/hmaverickadams/Beginner-Network-Pentesting): Welcome to the Beginner Network Pentesting course. Previously, the course was delivered weekly on Twitch and built from lessons learned in the previous week.
+
 # HIDS
 
 - [大型互联网企业入侵检测实战总结](https://xz.aliyun.com/t/1626/): 入侵检测是每一个大型互联网企业都要面对的一个难题。

@@ -18,6 +18,10 @@
 
 - [gotty #Project#](https://github.com/yudai/gotty): Share your terminal as a web application.
 
+# CI/CD
+
+- [Spinnaker #Project#](https://www.spinnaker.io/concepts/): Spinnaker is an open-source, multi-cloud continuous delivery platform that helps you release software changes with high velocity and confidence.
+
 # Monitor & Alert
 
 - [netdata #Project#](https://my-netdata.io/): nparalleled insights, in real-time, of everything happening on your systems and applications, with stunning, interactive web dashboards and powerful performance and health alarms.
