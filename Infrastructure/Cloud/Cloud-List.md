@@ -9,3 +9,7 @@
 - [Cloud Native Computing](http://container-solutions.com/cloud-native-computing/)
 
 - [2018-The business of SaaS](https://stripe.com/atlas/guides/business-of-saas#benchmarks-to-know): Understand why SaaS businesses work and how to grow them.
+
+# AWS
+
+- [2018-The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws): Amazon Web Services — a practical guide.
