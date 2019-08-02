@@ -12,6 +12,8 @@
 
 - [2017-Google 接口的权限认证技术纵览](https://parg.co/bte)：本文以表格的方式详细列举了常见的接口权限认证技术的描述、适用场景、数据存储以及和服务端交互方式等内容。本文涉及到的常用权限认证技术包括：HTTP Basic 认证、无状态 Session Cookie、JWT 、有状态 Session Cookie、随机令牌、请求签名、OAuth 等。
 
+- [2019-可能是史上最全的权限系统设计](https://zhuanlan.zhihu.com/p/73414693): 权限管理是所有后台系统的都会涉及的一个重要组成部分，主要目的是对不同的人访问资源进行权限的控制，避免因权限控制缺失或操作不当引发的风险问题，如操作错误，隐私数据泄露等问题。
+
 # Session & Cookie 
 
 - [2016-Cookies vs. Tokens: The Definitive Guide](https://dzone.com/articles/cookies-vs-tokens-the-definitive-guide): Finally, putting theory to practice, we'll build an application that uses token authentication and make it a progressive web app.

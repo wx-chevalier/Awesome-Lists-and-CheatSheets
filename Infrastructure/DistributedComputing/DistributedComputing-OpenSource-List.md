@@ -72,6 +72,8 @@ Massive & Curated OpenSource Project/Framework/Tool Links, for building great di
 
 - [Metatron Discovery #Project#](https://github.com/metatron-app/metatron-discovery): Metatron Discovery is an end-to-end big data self discovery solution. To learn more about it, visit our web site. Check our blog for upcoming events and development news.
 
+- [Poli #Project#](https://github.com/shzlw/poli): An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
+
 ## MPP
 
 - [Presto #Project#](https://prestodb.io/): Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.

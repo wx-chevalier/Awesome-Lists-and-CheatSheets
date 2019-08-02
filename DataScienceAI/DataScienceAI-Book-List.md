@@ -42,7 +42,7 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 * [2016-Dive into Machine Learning #Book#](https://github.com/hangtwenty/dive-into-machine-learning): I learned Python by hacking first, and getting serious later. I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself.
 
-- [2016-周志华-机器学习 #Book#](https://www.amazon.cn/dp/B01ARKEV1G)：机器学习》作为该领域的入门教材，在内容上尽可能涵盖机器学习基础知识的各方面。介绍了机器学习的基础知识，经典而常用的机器学习方法（决策树、神经网络、支持向量机、贝叶斯分类器、集成学习、聚类、降维与度量学习），特征选择与稀疏学习、计算学习理论、半监督学习、概率图模型、规则学习以及强化学习等。
+- [2016-周志华-机器学习 #Book#](https://www.amazon.cn/dp/B01ARKEV1G)：机器学习》作为该领域的入门教材，在内容上尽可能涵盖机器学习基础知识的各方面。介绍了机器学习的基础知识，经典而常用的机器学习方法（决策树、神经网络、支持向量机、贝叶斯分类器、集成学习、聚类、降维与度量学习），特征选择与稀疏学习、计算学习理论、半监督学习、概率图模型、规则学习以及强化学习等。[《机器学习》（西瓜书）公式推导解析](https://github.com/datawhalechina/pumpkin-book)
 
 - [2016-Prateek Joshi-Python Real World Machine Learning #Book#](https://parg.co/Y63): Learn to solve challenging data science problems by building powerful machine learning models using Python.
 

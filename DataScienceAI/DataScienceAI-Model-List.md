@@ -11,6 +11,8 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 - [Papers with Code](https://paperswithcode.com)
 
+- [UER-py #Project#](https://github.com/dbiir/UER-py): Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo
+
 # Machine Learning
 
 - [SPTAG #Project#](https://github.com/microsoft/SPTAG): A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
