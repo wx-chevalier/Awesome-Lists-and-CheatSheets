@@ -7,3 +7,7 @@
 - [Olivia #Project#](https://github.com/olivia-ai/olivia): Your new best friend built with an artificial neural networ.
 
 - [Leon #Project#](https://github.com/leon-ai/leon): Leon is your open-source personal assistant.
+
+# IM Plugin
+
+- [nonebot #Project#](https://github.com/richardchien/nonebot): 基于 酷 Q 的 Python 异步 QQ 机器人框架。

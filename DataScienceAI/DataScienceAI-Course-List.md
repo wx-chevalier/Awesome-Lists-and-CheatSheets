@@ -110,6 +110,8 @@
 
 - [2018-finch #Project#](https://github.com/zhedongzheng/finch): Make NLP Flow in TensorFlow
 
+- [2019-TensorFlow in Practice #Course#](https://www.coursera.org/specializations/tensorflow-in-practice): In this four-course Specialization, you’ll explore exciting opportunities for AI applications. Begin by developing an understanding of how to build and train neural networks.
+
 ## PyTorch
 
 - [Pytorch Examples](https://github.com/pytorch/examples): A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
@@ -125,3 +127,7 @@
 - [2014-Kaggle Tutorial](https://www.dataquest.io/blog/kaggle-tutorial/): 基于旅馆推荐比赛实例的完整教程。
 
 ---
+
+# 链接
+
+- https://github.com/yanshengjia/ml-road
