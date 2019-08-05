@@ -20,6 +20,8 @@
 
 - [2017-What I Love and Hate About Flow](https://parg.co/bBP): I’m not talking about incontinence, that’s flomax!
 
+- [Flow 中的联结类型使用详解](https://zhuanlan.zhihu.com/p/26401539)
+
 ## Tutoria | 教程
 
 - [Type Checking In JavaScript: Getting Started with Flow.](https://hackernoon.com/type-checking-in-javascript-getting-started-with-flow-8532c11aceb3)

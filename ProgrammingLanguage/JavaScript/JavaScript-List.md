@@ -54,11 +54,25 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [Exploring ES2018 and ES2019 #Book#](http://exploringjs.com/es2018-es2019/toc.html): This book is about two versions of JavaScript: ECMAScript 2018 and ECMAScript 2019.
 
+- [You don’t know Js](https://github.com/getify/You-Dont-Know-JS): 关于 JavaScript 中很多的细节部分讲解
+
+- [ecma262](http://tc39.github.io/ecma262/):ECMAScript 2017 标准介绍
+
+- [Eloquent Javascript](http://eloquentjavascript.net/index.html)
+
 ## Interactive Learning | 交互式学习
 
 - [WarriorJS #Project#](https://github.com/olistic/warriorjs): An exciting game of programming and Artificial Intelligence.
 
 - [Kajero #Project#](https://github.com/JoelOtter/kajero): Interactive JavaScript notebooks with clever graphing
+
+## Collections
+
+- [Github-JavaScript Path JavaScript 学习规划](https://github.com/javascript-society/javascript-path)
+
+- [essential-javascript-links](https://github.com/ericelliott/essential-javascript-links)
+
+- [awesome-javascript-guide](https://github.com/wwsun/awesome-javascript)
 
 # Tutorial
 
@@ -77,6 +91,8 @@ This file aggregates curated popular links for learning JavaScript. More referen
 * [2017-Promise error handling in-depth](https://codeburst.io/promise-error-handling-in-depth-90b0965149c0): This blog is written in Q and A form and targeting those who are looking for the answers.
 
 - [2017-js-bits](https://github.com/vasanthk/js-bits): JavaScript concepts explained with code.
+
+## ES6
 
 ## Modern JavaScript | 现代 JavaScript 明晰
 
@@ -111,3 +127,10 @@ This file aggregates curated popular links for learning JavaScript. More referen
 - [Interview Algorithm Questions in Javascript() {...}](https://github.com/kennymkchan/interview-questions-in-javascript)
 
 - [2017-The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://parg.co/bIL)
+
+- [toptal-interview-questions](https://www.toptal.com/javascript/interview-questions)
+- [21-essential-javascript-tech-interview-practice-questions-answers](https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers)
+
+- [top-85-javascript-interview-questions](http://career.guru99.com/top-85-javascript-interview-questions/)
+
+- [interviewcake-javascript-interview-questions ](https://www.interviewcake.com/javascript-interview-questions)
