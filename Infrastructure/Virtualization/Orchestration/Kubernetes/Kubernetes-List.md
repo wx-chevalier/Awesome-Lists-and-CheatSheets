@@ -55,3 +55,5 @@
 - [Kubernetes 101 & 201 #Series#](https://kubernetes.io/docs/tutorials/k8s101/): For Kubernetes 101, we will cover kubectl, Pods, Volumes, and multiple containers. For Kubernetes 201, we will pick up where 101 left off and cover some slightly more advanced topics in Kubernetes, related to application productionization, Deployment and scaling.
 
 - [Play with Kubernetes](https://labs.play-with-k8s.com/): Play with Kubernetes is a labs site provided by Docker and created by Tutorius. Play with Kubernetes is a playground which allows users to run K8s clusters in a matter of seconds.
+
+- [Kubernetes Tutorial](https://www.tutorialspoint.com/kubernetes/index.htm): This tutorial has been prepared for those who want to understand the containerized infrastructure and deployment of application on containers. This tutorial will help in understanding the concepts of container management using Kubernetes.
