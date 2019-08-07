@@ -34,6 +34,14 @@
 
 - [2018-藏在正则表达式里的陷阱](https://zhuanlan.zhihu.com/p/38278481): Java 正则表达式使用的引擎实现是 NFA 自动机，这种正则表达式引擎在进行字符匹配时会发生回溯（backtracking）。
 
+- [正则表达式详解](http://my.oschina.net/u/2448717/blog/688037?fromerr=xJU48HPy)
+
+- [知道这 20 个正则表达式，能让你少写 1,000 行代码](http://www.tuicool.com/articles/qqURreY)
+
+- [Useful Regex Patterns](https://projects.lukehaas.me/regexhub/?)
+
+- [正则表达式实践篇](https://aotu.io/notes/2016/12/07/regexp-practice/)
+
 ## OpenSource
 
 - [Verbal Expressions #Project#](https://github.com/VerbalExpressions): Verbal Expressions 是非常不错的正则表达式辅助生成工具。
