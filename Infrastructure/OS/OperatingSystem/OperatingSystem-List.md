@@ -1,5 +1,9 @@
 # Operating System List
 
+# Boot
+
+- [UEFI 引导与 BIOS 引导在原理上有什么区别？](https://www.zhihu.com/question/21672895/answer/774538058)
+
 # CPU
 
 - [Why Raspberry Pi Isn't Vulnerable to Spectre or Meltdown](http://t.cn/RH3DVKj): To help us understand why, here’s a little primer on some concepts in modern processor design.

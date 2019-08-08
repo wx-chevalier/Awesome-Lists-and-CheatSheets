@@ -30,4 +30,4 @@
 
 - [Resilience engineering notes](https://github.com/lorin/resilience-engineering#john-allspaw): This file contains notes about people active in resilience engineering, as well as some influential researchers who are no longer with us, organized alphabetically.
 
-# Chaos Engin
+# Chaos Engineering 
