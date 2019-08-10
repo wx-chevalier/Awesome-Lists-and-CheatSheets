@@ -24,7 +24,7 @@
 
 - [2016-Learn TypeScript in 30 Minutes](http://www.tuicool.com/articles/iAzI7bn): Today we’re going to take a look at TypeScript, a compile-to-JavaScript language designed for developers who build large and complex apps.
 
-* [2016-52-technologies-in-2016:Let's Learn TypeScript](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/17-typescript)
+* [2016-Let's Learn TypeScript](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/17-typescript)
 
 - [2017-Common TypeScript Error Messages](https://www.sitepen.com/blog/2017/11/01/common-typescript-error-messages/)
 
