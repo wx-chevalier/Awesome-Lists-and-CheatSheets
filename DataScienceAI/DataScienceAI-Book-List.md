@@ -52,6 +52,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2018-Artificial Intelligence: A Modern Approach-3rd Edition #Book#](https://parg.co/Y6t):Artificial Intelligence: A Modern Approach, 3e offers the most comprehensive, up-to-date introduction to the theory and practice of artificial intelligence. Number one in its field, this textbook is ideal for one or two-semester, undergraduate or graduate-level courses in Artificial Intelligence.
 
+- [2019-Interpretable Machine Learning #Book#](https://christophm.github.io/interpretable-ml-book/): This book is about making machine learning models and their decisions interpretable.
+
 ## Reinforcement Learning | 强化学习
 
 - [2018-Reinforcement Learning: An Introduction-Second Edition #Book#](https://parg.co/Y6M): This textbook provides a clear and simple account of the key ideas and algorithms of reinforcement learning that is accessible to readers in all the related disciplines. Familiarity with elementary concepts of probability is required.
