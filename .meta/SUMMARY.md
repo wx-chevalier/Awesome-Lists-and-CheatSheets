@@ -204,6 +204,8 @@
     - [TensorFlow-OpenSource-List](../DataScienceAI/Toolkit/TensorFlow/TensorFlow-OpenSource-List.md) 
   - [Training](../DataScienceAI/Toolkit/Training/README.md) 
     - [Training-List](../DataScienceAI/Toolkit/Training/Training-List.md) 
+  - [Visualization](../DataScienceAI/Toolkit/Visualization/README.md) 
+    - [Visualization-List](../DataScienceAI/Toolkit/Visualization/Visualization-List.md) 
 
 ## [Frontend](../Frontend/README.md) 
 
