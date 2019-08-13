@@ -16,6 +16,8 @@
 
 - [2015-Microsoft Azure IoT Protocol Gateway](https://github.com/Azure/azure-iot-protocol-gateway): Azure IoT protocol gateway enables protocol translation for Azure IoT Hub.
 
+- [2015-EMQ X Broker #Project#](https://github.com/emqx/emqx): Scalable Distributed MQTT Message Broker for IoT in 5G Era
+
 - [2016-thingsboard-gateway #Project#](https://github.com/thingsboard/thingsboard-gateway): Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with ThingsBoard IoT Platform using OPC-UA and MQTT protocols
 
 * [Haven #Project#](https://github.com/guardianproject/haven): Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors.
