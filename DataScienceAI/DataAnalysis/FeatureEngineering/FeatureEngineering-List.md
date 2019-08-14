@@ -2,6 +2,8 @@
 
 # 特征工程资料索引
 
+- [2019-#Series#](https://mp.weixin.qq.com/s/btjxZ4toD0nGQBLbU77cwg): 构建特征是一个很大的工程，总体来讲包括“特征选择”、“特征表达”和“特征评估”3个部分。我们也按这3个部分，并结合自己的具体实践，用3篇文章来和大家聊一下特征工程的相关问题。
+
 * [Faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
 
 - [2018-深度学习中常用的图像数据增强方法-纯干货](https://mp.weixin.qq.com/s/_7xFBLPGT0VRTJ22toHJ3g): 本文将会带你学会如何对已有的图像数据进行数据增强，获取样本的多样性与数据的多样性从而为训练模型打下良好基础。
