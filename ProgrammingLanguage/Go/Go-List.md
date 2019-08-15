@@ -10,10 +10,6 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2017-为什么说 2017 年你必须要学习 Go 了](http://mp.weixin.qq.com/s/hQLUjvttTPgfd9qO1l-i6A)
 
-- [Go 语言的垃圾回收算法被吹过头了？与 Java 相比如何？](http://mp.weixin.qq.com/s/9Uj1E3VO7Cd-6G_xZS_zoQ)
-
-- [2017-The Zoo of Go Functions](https://parg.co/U5u): An overview about: anonymous, higher-order, closures, concurrent, deferred, and other kinds of Golang funcs.
-
 - [2018-Golang 工程经验](https://juejin.im/post/5a6873fb518825733e60a1ae): 转战 Golang 一年有余，经历了两个线上项目的洗礼，总结出一些工程经验，一个是总结出一些实战经验，一个是用来发现自我不足之处。
 
 - [2018-Go: the Good, the Bad and the Ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/#go-is-easy-to-learn): Go does have some nice features, hence the "The Good" part in this post, but overall I find it cumbersome and painful to use when we go beyond API or network server.
@@ -59,6 +55,10 @@ This file aggregates curated popular links for learning Golang. More reference a
 * [2018-Go 语言高级编程 #Project#](https://github.com/chai2010/advanced-go-programming-book): 开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题。
 
 - [2018-Go 语言四十二章经 #Book#](https://www.jianshu.com/nb/29056963): 这本书适合 Go 语言新手来细细阅读，对于有一定经验的开发人员，也可以根据自己的情况，选择一些章节来看。最后，希望更多的人了解和使用 Go 语言，也希望阅读本书的朋友们多多交流。
+
+## Blog
+
+- [Draveness's Blog](https://draveness.me): 非常不错的 Go 系列博客。
 
 ## Collection
 

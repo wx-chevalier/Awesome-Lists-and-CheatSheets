@@ -6,6 +6,10 @@
 
 - [2015-Design generic functions in golang](https://parthdesai.me/articles/2015/08/30/go-generic-functions/): In this article, I will describe how to write generic functions in golang, as well as disadvantages of it, compared to static functions.
 
+# Function
+
+- [2017-The Zoo of Go Functions](https://parg.co/U5u): An overview about: anonymous, higher-order, closures, concurrent, deferred, and other kinds of Golang funcs.
+
 # Modules
 
 - [Go 1.11 Modules](https://parg.co/01g): Go 1.11 includes preliminary support for versioned modules as proposed here.

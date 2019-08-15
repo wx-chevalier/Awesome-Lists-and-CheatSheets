@@ -11,3 +11,7 @@
 ## Assembly
 
 - [2018-Go Assembly by Example #Series#](http://davidwong.fr/goasm/): Go Assembly by Example is a hands-on introduction to Go's Assembly language using annotated example programs.
+
+# Memory Management
+
+- [Go 语言的垃圾回收算法被吹过头了？与 Java 相比如何？](http://mp.weixin.qq.com/s/9Uj1E3VO7Cd-6G_xZS_zoQ)
