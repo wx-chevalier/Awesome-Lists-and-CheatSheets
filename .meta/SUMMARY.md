@@ -648,7 +648,7 @@
   - [String-List](../SoftwareEngineering/AlgoDS/String-List.md) 
   - [Tree-List](../SoftwareEngineering/AlgoDS/Tree-List.md) 
 - [Architecture](../SoftwareEngineering/Architecture/README.md) 
-  - [Software-Architecture-List](../SoftwareEngineering/Architecture/Software-Architecture-List.md) 
+  - [SoftwareArchitecture-List](../SoftwareEngineering/Architecture/SoftwareArchitecture-List.md) 
   - [ArchitecturalPattern](../SoftwareEngineering/Architecture/ArchitecturalPattern/README.md) 
     - [ArchitecturalPattern-List](../SoftwareEngineering/Architecture/ArchitecturalPattern/ArchitecturalPattern-List.md) 
   - [ArchitecturalStyle](../SoftwareEngineering/Architecture/ArchitecturalStyle/README.md) 
