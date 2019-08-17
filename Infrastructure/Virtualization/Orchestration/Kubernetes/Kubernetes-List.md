@@ -34,7 +34,7 @@
 
 - [2017-Kubernetes The Hard Way #Series#](https://github.com/kelseyhightower/kubernetes-the-hard-way): This tutorial walks you through setting up Kubernetes the hard way. This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster. If that's you then check out Google Kubernetes Engine, or the Getting Started Guides.
 
-- [2019-Kubernetes Patterns #Book#](https://www.oreilly.com/library/view/kubernetes-patterns/9781492050278/): With this focused guide, Bilgin Ibryam and Roland Huß from Red Hat provide common reusable elements, patterns, principles, and practices for designing and implementing cloud-native applications on Kubernetes.
+- [2019-Kubernetes Patterns #Book#](https://www.oreilly.com/library/view/kubernetes-patterns/9781492050278/): With this focused guide, Bilgin Ibryam and Roland Huß from Red Hat provide common reusable elements, patterns, principles, and practices for designing and implementing cloud-native applications on Kubernetes. [Examples](https://github.com/k8spatterns/examples).
 
 ## Courses
 
