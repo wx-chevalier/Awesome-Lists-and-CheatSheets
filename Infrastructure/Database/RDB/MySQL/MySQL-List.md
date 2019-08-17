@@ -24,6 +24,12 @@
 
 - [MySQL 表字段字符集不同导致的索引失效问题](http://www.tuicool.com/articles/A7nM3yI)
 
+# Replication 
+
+## Canal
+
+- [2019-基于Docker结合Canal实现MySQL实时增量数据传输](https://mp.weixin.qq.com/s/1_FkVoMGhJfee7oFwQTvhA)
+
 # Tuning | 性能调优
 
 - [2017-我必须得告诉大家的 MySQL 优化原理](http://www.jianshu.com/p/d7665192aaaf)：理解这些优化建议背后的原理就尤为重要，希望本文能让你重新审视这些优化建议，并在实际业务场景下合理的运用。
