@@ -24,6 +24,8 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 ## Book
 
+- [2011-编程之法：面试和算法心得 #Book#](https://github.com/julycoding/The-Art-Of-Programming-By-July): 原编程艺术系列从 2011 年 4 月至今，写了 42 个编程问题，在创作的过程当中，得到了很多朋友的支持，特别是博客上随时都会有朋友不断留言，或提出改进建议，或 show 出自己的思路、代码，或指正 bug。为更好的改进、优化、增补编程艺术系列，特把博客上的这个程序员编程艺术系列和博客内其它部分经典文章同步到此，成立本项目。
+
 - [2017-Algorithm Design: Parallel and Sequential #Book#](http://www.parallel-algorithms-book.com/): 15-210 aims to teach methods for designing, analyzing, and programming sequential and parallel algorithms and data structures.
 
 * [2017-Competitive Programmer's Handbook #Book#](https://cses.fi/book.html): The purpose of this book is to give the reader a thorough introduction to competitive programming. The book is especially intended for students who want to learn algorithms and possibly participate in the International Olympiad in Informatics (IOI) or in the International Collegiate Programming Contest (ICPC).
@@ -58,7 +60,9 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [Solve Data In Code #Project#](https://github.com/espadrine/Solve-Data-In-Code): All decidable problems can be solved with algorithms.
 
-- [2019-algo](https://github.com/wangzheng0822/algo): 数据结构和算法必知必会的 50 个代码实现。
+- [2019-algo #Project#](https://github.com/wangzheng0822/algo): 数据结构和算法必知必会的 50 个代码实现。
+
+- [Algorithm Visualizer #Project#](https://github.com/algorithm-visualizer/algorithm-visualizer): Interactive Online Platform that Visualizes Algorithms from Code.
 
 # C++
 
@@ -68,19 +72,11 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 # Java
 
-- [2017-AlgoDS](https://github.com/sherxon/AlgoDS): Implementation of Algorithms and Data Structures, Interview Questions and Answers.
+- [2017-AlgoDS #Project#](https://github.com/sherxon/AlgoDS): Implementation of Algorithms and Data Structures, Interview Questions and Answers.
 
 - [2017-Java 101: Datastructures and algorithms in Java](http://www.javaworld.com/article/2073390/core-java/datastructures-and-algorithms-part-1.html?nsdr=true): Datastructures and algorithms are essential to computer science, which is the study of data, its representation in memory, and its transformation from one form to another
 
 * [Introduction to Data Structures and Algorithms](http://www.idevelopment.info/data/Programming/data_structures/overview/Data_Structures_Algorithms_Introduction.shtml)
-
-- [编程之法：面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-By-July)
-
-* [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer)
-
-- [结构之法 算法之道](http://blog.csdn.net/v_july_v)
-
-- [Algo](https://github.com/absfree/Algo): 数据结构与算法学习实践指南
 
 - [数据结构与算法学习笔记 ,gitbook 上对于 Leetcode 题解](https://www.gitbook.com/book/yuanbin/algorithm/details)
 
@@ -92,7 +88,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 * [2017-Basic javascript algorithms toolbox: starter kit](https://parg.co/b75): Here’s a list of javascript quick-to-write algos that are often useful.
 
-* [2017-CS-Playground-React: Algos & Data Structures #Project#](https://parg.co/UZd): In-Browser Algorithm and Data Structure Interview Prep.
+* [2017-CS Playground React: Algos & Data Structures #Project#](https://parg.co/UZd): In-Browser Algorithm and Data Structure Interview Prep.
 
 * [2017-javascript-algorithms #Project#](https://github.com/trekhleb/javascript-algorithms): This repository contains JavaScript based examples of many popular algorithms and data structures.
 
