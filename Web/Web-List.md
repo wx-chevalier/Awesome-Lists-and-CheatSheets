@@ -16,19 +16,15 @@
 
 - [2017-What is the Future of Front End Web Development?](https://parg.co/bJr): What websites are being asked to do is rising. Developers are being asked to build very complicated things very quickly and have them work very well and very fast.
 
-## Framework
+## History 
 
-- [2018-How components won the “framework wars”](https://hackernoon.com/how-components-won-the-framework-wars-e40abd38668b?source=linkShare-fe48c4221a4c-1525105934): React vs Angular vs Vue: Why it doesn’t matter.
+- [2019-前端开发 20 年变迁史](https://mp.weixin.qq.com/s/cDsYO1AsYXOjZVpSwBq2HA): 我们经历了前端的洪荒时代、Prototype时代、jQuery时代 、后jQuery时期、三大框架割据时代，这其中均是由国外开发者主导，直到如今的小程序时代，才是中国开发者独创的。
 
 ## Front-end Leader | 领袖意见
 
 - [How to Keep Up To Date On Frontend Technologies](https://uptodate.frontendrescue.org/)
 
 - [2017-Software Engineering 101 for Front-end Developers](https://parg.co/byf): For any such developers who want to level-up their game, I’ve summarized what I consider to be some of the MOST important software engineering principles to be aware of and to abide by. I’ve followed it up with a short list of must-read books that will help you on this upgrade path.
-
-## Engineering Practice | 大厂实践
-
-- [2017-重构 Airbnb 前端架构](https://parg.co/bkA)：本文是近日 Airbnb 开发团队在思索重构代码库中 JavaScript 部分的经验总结；本文主要着眼于产品驱动开发以及技术沉淀、从传统的 Rails 架构中积攒的经验以及新的技术栈的某些特性。本文首先介绍了从 Rails 迁移过程中的一些经验，譬如将原本完全的服务端渲染界面所需要的数据切分为了 API 与 Non-API 两大类，并且使用 Hypernova 来进行 React 服务端渲染。然后介绍了如何在应用前端通过引入懒加载与异步加载等方式提升前端性能与用户体验。
 
 # Resource | 资源
 
