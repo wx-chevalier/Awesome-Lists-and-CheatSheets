@@ -42,26 +42,6 @@
 
 * [2017-15 年资深架构师详解：一个大型互联网公司的微服务转型实践](http://mp.weixin.qq.com/s/aOCd2fxIY_y3jwWo-Bfu3g): 微服务是一个比较大的话题，基于我的过往经历，本文将以 Netflix 为例，分享一个大型互联网公司如何从一个 Monolithic 的 APP 成功转型到微服务。
 
-# Resource | 资源
-
-## Books & Series
-
-- [2016-架构师特刊-微服务与 DevOps 技术内参 #Book#](http://q.infoqstatic.com/ppt/Microservice&DevOps.pdf)
-
-- [2016-Production Ready Microservices #Book#](https://parg.co/U6C): Susan Fowler presents a set of microservice standards in depth, drawing from her experience standardizing over a thousand microservices at Uber. You’ll learn how to design microservices that are stable, reliable, scalable, fault tolerant, performant, monitored, documented, and prepared for any catastrophe.
-
-- [2017-Re：从 0 开始的微服务架构 #Series#](http://www.infoq.com/cn/minibooks/microservice--from-zero): 系列文章就是将以上过程给大家做个分享，不深究概念，不深入细节，只希望能够对微服务架构能够有一个相对全面的认识，从而能够帮助大家成功落地微服务架构。
-
-- [2017-Microservice Patterns #Book#](https://microservices.io/patterns/index.html): A pattern language for microservices
-
-## Video
-
-## Collection
-
-- [微服务经典文章大汇总](http://mp.weixin.qq.com/s?__biz=MzA3MDg4Nzc2NQ==&mid=504649826&idx=1&sn=6a9a2f98f3be076e234d9758ce87f656#rd)
-
-* [2018-从 Spring Cloud 开始，聊聊微服务架构实践之路](http://mp.weixin.qq.com/s/DZQU4s9YNx4fXsfwu5whIg): 平台的技术架构也完成了从传统的单体应用到微服务化的演进。
-
 # Demos | 实例
 
 - [2018-Hipster Shop #Project#](https://github.com/GoogleCloudPlatform/microservices-demo): Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.
