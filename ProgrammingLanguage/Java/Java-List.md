@@ -56,7 +56,9 @@
 
 ## Series | 系列文章
 
-- [JCSprout](https://github.com/crossoverJie/JCSprout): Java Core Sprout: basic, concurrent, algorithm
+- [JCSprout #Series#](https://github.com/crossoverJie/JCSprout): Java Core Sprout: basic, concurrent, algorithm
+
+- [2018-Java 面试题，精品合集](http://www.iocoder.cn/Interview/good-collection/?title)
 
 ## Blog | 博客
 

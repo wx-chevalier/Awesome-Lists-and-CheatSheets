@@ -2,15 +2,11 @@
 
 # Spring List
 
-- [Securing Spring Boot with JWTs](https://auth0.com/blog/securing-spring-boot-with-jwts/): Learn how to set up a Spring Boot project using Java, and secure it with JWTs.
-
 - [Spring Boot and Security Events with Actuator](http://blog.codeleak.pl/2017/03/spring-boot-and-security-events-with-actuator.html)
 
 - [We will cover the concept of HTTP protocol, servlets, web services, REST and JSON.](https://howtotrainyourjava.com/2017/03/09/spring-web-basics/)
 
 - [2017-Spring Boot 的自动配置](http://www.tuicool.com/articles/zAfQjy3)：随着 Ruby、Groovy 等动态语言的流行，相比较之下 Java 的开发显得格外笨重。繁多的配置、低下的开发效率、复杂的部署流程以及第三方技术集成难度大等问题一直被人们所诟病。随着 Spring 家族中的新星 Spring Boot 的诞生，这些问题都在逐渐被解决。
-
-- [2017-Docker + Spring Boot Microservice (with Gradle)](https://parg.co/bhg): Step-by-step tutorial on how to create a Spring Boot Microservice and wrap it up using Docker for simple, better and safer deployments of redundant APIs.
 
 * [2017-Spring Cloud 系列文章](http://www.ityouknow.com/spring-cloud)
 
@@ -45,3 +41,13 @@
 - [2016-Spring Boot For Beginners #Series#](https://github.com/in28minutes/SpringBootForBeginners): In this course, you will learn the cool things about Spring Boot and Spring Boot Starter Projects. We will develop a basic REST Service to manage questions of a survey.
 
 * [2017-Sprint Boot 完整教程 #Series#](https://blog.csdn.net/column/details/13466.html): 从功能性的角度开始讲解 Spring Boot 的用户，层层递进。全教程分为两个等级初级和高级，完美讲述了 Spring Boot 在开发过程中的使用。
+
+* [2018-Spring Framework 实现原理与源码解析系统 #Series#](http://www.iocoder.cn/Spring/good-collection/?title)
+
+* [2018-Spring MVC 实现原理与源码解析系统 #Series#](http://www.iocoder.cn/Spring-MVC/good-collection/?title)
+
+* [2018-Spring Boot 实现原理与源码解析系统 #Series#](http://www.iocoder.cn/Spring-Boot/good-collection/?title)
+
+# Tutorials
+
+- [2017-Docker + Spring Boot Microservice (with Gradle)](https://parg.co/bhg): Step-by-step tutorial on how to create a Spring Boot Microservice and wrap it up using Docker for simple, better and safer deployments of redundant APIs.
