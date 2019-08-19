@@ -2,6 +2,8 @@
 
 # Dubbo List
 
+- [2019-Dubbo 实现原理与源码解析系列 #Series#](http://www.iocoder.cn/Dubbo/good-collection/?title)
+
 # OpenSource
 
 - [dubbogo #Project#](https://github.com/AlexStocks/dubbogo): a golang micro-service framework compatible with alibaba dubbo.

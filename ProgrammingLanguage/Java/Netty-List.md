@@ -8,7 +8,7 @@
 
 * [2016-Netty Learning #Book#](https://github.com/code4craft/netty-learning): Netty 是 Java 世界知名的网络应用框架。本系列文章是 Netty 的源码导读。
 
-- [2018-深入浅出Netty #Series#](https://www.infoq.cn/article/netty-in-depth): 为了便于大家集中学习Netty，我们把已经发表的相关文章进行汇总和提取，形成一本迷你书，奉献给各位读者。
+- [2018-深入浅出 Netty #Series#](https://www.infoq.cn/article/netty-in-depth): 为了便于大家集中学习 Netty，我们把已经发表的相关文章进行汇总和提取，形成一本迷你书，奉献给各位读者。
 
 # Engineering Practices | 工程实践
 
