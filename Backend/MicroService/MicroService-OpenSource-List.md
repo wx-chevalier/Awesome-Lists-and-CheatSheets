@@ -18,9 +18,9 @@
 
 - [gRPC #Project#](https://grpc.io/docs/guides/): gRPC is a modern, open source, high-performance remote procedure call (RPC) framework that can run anywhere. It enables client and server applications to communicate transparently, and makes it easier to build connected systems.
 
-- [Dubbo #Project#](https://github.com/apache/incubator-dubbo): Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
-
 - [rpcx #Project#](https://github.com/smallnest/rpcx): Faster multil-language bidirectional RPC framework in Go, like alibaba Dubbo and weibo Motan in Java, but with more features, Scale easily.
+
+- [Dubbo #Project#](https://github.com/apache/incubator-dubbo): Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
 
 ## Data Formatter
 
