@@ -28,7 +28,7 @@
 
 - [500 Lines or Less: The Architecture of Open Source Applications #Book#](http://aosabook.org/en/index.html): 神书一套，介绍了很多开源软件的架构设计，In these two books, the authors of four dozen open source applications explain how their software is structured, and why. What are each program's major components? How do they interact? And what did their builders learn during their development? In answering these questions, the contributors to these books provide unique insights into how they think.
 
-- [2013-Alexander-简约之美：软件设计之道 #Book#](https://github.com/wx-chevalier/Awesome-CS-Books-Warehouse)：本书将软件设计作为一门严谨的科学，阐述了开发出优雅简洁的代码所应该遵循的基本原则。作者从为什么以前软件设计没有像数学等学科一样成为一门科学开始入手，道出了软件以及优秀的软件设计的终极目标，并给出了具体的指导规则。这是一本软件思想著作，适合任何背景、使用任何语言的程序员。
+- [2013-Alexander-简约之美：软件设计之道 #Book#](https://github.com/wx-chevalier/Awesome-CS-Books)：本书将软件设计作为一门严谨的科学，阐述了开发出优雅简洁的代码所应该遵循的基本原则。作者从为什么以前软件设计没有像数学等学科一样成为一门科学开始入手，道出了软件以及优秀的软件设计的终极目标，并给出了具体的指导规则。这是一本软件思想著作，适合任何背景、使用任何语言的程序员。
 
 - [2013-Vaughn-Implementing Domain Driven Design #Book#](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577): Implementing Domain-Driven Design will impart a treasure trove of knowledge hard won within the DDD and enterprise application architecture communities over the last couple decades.
 

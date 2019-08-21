@@ -86,6 +86,6 @@
 
 # DDOS
 
-- [浅析大规模 DDOS 防御架构：应对 T 级攻防](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=400299276&idx=1&sn=e132a62a492b1139edf9acae115932a4&scene=23&srcid=1107fxqJm1ylDDLN7xZRgmdH#rd)
+- [浅析大规模 DDOS 防御架构：应对 T 级攻防](https://parg.co/VBY): 在讲防御之前简单介绍一下各类攻击，因为 DDOS 是一类攻击而并不是一种攻击，并且 DDOS 的防御是一个可以做到相对自动化但做不到绝对自动化的过程，很多演进的攻击方式自动化不一定能识别，还是需要进一步的专家肉眼判断。
 
 - [2018-被骗几十万总结出来的 Ddos 攻击防护经验！](https://zhuanlan.zhihu.com/p/22953451): DDoS(Distributed Denial of Service，分布式拒绝服务)攻击的主要目的是让指定目标无法提供正常服务，甚至从互联网上消失，是目前最强大、最难防御的攻击之一。这是一个世界级的难题并没有解决办法只能缓解.
