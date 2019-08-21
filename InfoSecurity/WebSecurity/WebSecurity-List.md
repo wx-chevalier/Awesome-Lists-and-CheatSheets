@@ -32,6 +32,8 @@
 
 - [2019-HTTP Security Headers - A Complete Guide](https://nullsweep.com/http-security-headers-a-complete-guide/): In this article, I will walk through the commonly evaluated headers, recommend security values for each, and give a sample header setting.
 
+- [扒一扒浏览器的安全机制](http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651061832&idx=2&sn=233869f7e47291aa9d7cde78f0d02599&scene=0#wechat_redirect)
+
 # WebAPI
 
 - [2017-Improve Your Website Security in 5 Minutes With These HTTP Headers](https://parg.co/Upz)

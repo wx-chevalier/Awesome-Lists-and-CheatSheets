@@ -728,7 +728,6 @@
 
 - [Introduction](../Web/README.md) 
 
-- [Web-Internals-List](../Web/Web-Internals-List.md) 
 - [Web-List](../Web/Web-List.md) 
 - [Web-OpenSource-List](../Web/Web-OpenSource-List.md) 
 - [Architecture](../Web/Architecture/README.md) 
@@ -819,6 +818,7 @@
   - [Web-LoadTuning-List](../Web/Tuning/Web-LoadTuning-List.md) 
   - [Web-PWA-List](../Web/Tuning/Web-PWA-List.md) 
   - [Web-RenderTuning-List](../Web/Tuning/Web-RenderTuning-List.md) 
+  - [Web-SSR-List](../Web/Tuning/Web-SSR-List.md) 
   - [Web-Tuning-List](../Web/Tuning/Web-Tuning-List.md) 
 - [Widgets](../Web/Widgets/README.md) 
   - [Feedback-List](../Web/Widgets/Feedback-List.md) 
