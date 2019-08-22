@@ -8,8 +8,6 @@ The contents organization form follows [Web MindMap](),
 
 - [CSS Blocks #Project#](https://github.com/linkedin/css-blocks): CSS Blocks is an ergonomic, component-oriented CSS authoring system that compiles to high-performance stylesheets.
 
-* [layoutit #Project#](https://www.layoutit.com/grid): An interactive CSS Grid builder.
-
 # Development Library
 
 - [ui-element-samples #Project#](https://github.com/GoogleChrome/ui-element-samples): A collection of UI element samples written with vanilla web platform features.
@@ -31,30 +29,6 @@ The contents organization form follows [Web MindMap](),
 - [Material-UI #Project#](http://www.material-ui.com/#/): A Set of React Components that Implement Google's Material Design.
 
 * [Ant Design #Project#](https://www.hugedomains.com/domain_profile.cfm?d=ant-design&e=com): An enterprise-class UI design language and React-based implementation.
-
-# Engineering Practices
-
-## Debug
-
-## Test
-
-## Bundler
-
-- [Webpack #Project#](https://webpack.js.org/): Webpack is a static module bundler for modern JavaScript applications.
-
-* [2017-Parcel #Project#](https://github.com/parcel-bundler/parcel): Blazing fast, zero configuration web application bundler.
-
-* [browserify #Project#](https://github.com/browserify/browserify): browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single <script> tag.
-
-* [2017-Backpack #Project#](https://github.com/jaredpalmer/backpack): Backpack is minimalistic build system for Node.js. Inspired by Facebook's create-react-app, Zeit's Next.js, and Remy's Nodemon, Backpack lets you create modern Node.js apps and services with zero configuration.
-
-* [2017-Microbundle #Project#](https://github.com/developit/microbundle): A zero-configuration bundler for tiny modules, powered by Rollup.
-
-* [FuseBox #Project](https://github.com/fuse-box/fuse-box): FuseBox is a bundler/module loader that combines the power of webpack, JSPM and SystemJS.
-
-## IDE
-
-- [Rekit](https://github.com/supnate/rekit): IDE and toolkit for building scalable web applications with React, Redux and React-router
 
 # DOM
 
@@ -116,6 +90,30 @@ The contents organization form follows [Web MindMap](),
 
 - [2015-SpeechKITT](https://github.com/TalAter/SpeechKITT): A flexible GUI for Speech Recognition
 
+# Engineering Practices
+
+## Debug
+
+## Test
+
+## Bundler
+
+- [Webpack #Project#](https://webpack.js.org/): Webpack is a static module bundler for modern JavaScript applications.
+
+* [2017-Parcel #Project#](https://github.com/parcel-bundler/parcel): Blazing fast, zero configuration web application bundler.
+
+* [browserify #Project#](https://github.com/browserify/browserify): browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single <script> tag.
+
+* [2017-Backpack #Project#](https://github.com/jaredpalmer/backpack): Backpack is minimalistic build system for Node.js. Inspired by Facebook's create-react-app, Zeit's Next.js, and Remy's Nodemon, Backpack lets you create modern Node.js apps and services with zero configuration.
+
+* [2017-Microbundle #Project#](https://github.com/developit/microbundle): A zero-configuration bundler for tiny modules, powered by Rollup.
+
+* [FuseBox #Project](https://github.com/fuse-box/fuse-box): FuseBox is a bundler/module loader that combines the power of webpack, JSPM and SystemJS.
+
+## IDE
+
+- [Rekit](https://github.com/supnate/rekit): IDE and toolkit for building scalable web applications with React, Redux and React-router
+
 # Tuning | 性能调优
 
 ## Benchmark
@@ -164,34 +162,6 @@ The contents organization form follows [Web MindMap](),
 
 - [dialog-polyfill.js #Project#](https://github.com/GoogleChrome/dialog-polyfill): Polyfill for the HTML dialog element.
 
-# Pattern | 开发实践
-
-## Visual Builder
-
-- [2015-react-ui-builder #Project#](https://github.com/Dmytro-Medzatiy/react-ui-builder): This tool is a visual builder of React JS components for your web application. In builder you can easily combine available components with each other, and see how they look and feel right on a web page.
-
-- [2016-Structor #Project#](https://github.com/ipselon/structor): Install Components > Prototype UI > Generate Source Code > Build Application.
-
-* [2017-grapesjs #Project#](https://github.com/artf/grapesjs): Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
-
-* [Elementor #Project#](https://github.com/pojome/elementor): The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
-
-- [2018-Pagedraw #Project#](https://github.com/Pagedraw/pagedraw): Pagedraw is a UI builder for React web apps. It works like a Sketch or Figma style design tool, but emits good quality JSX code.
-
-### MIS
-
-- [2017-amis #Project#](https://github.com/baidu/amis): 一种基于特定 JSON 格式生成 MIS 页面的工具。
-
-### Form Builder
-
-- [json-editor #Project#](https://github.com/json-editor/json-editor): JSON Schema Based Editor
-
-- [React Form Builder #Project#](https://github.com/blackjk3/react-form-builder): A complete react form builder that interfaces with a json endpoint to load and save generated forms. The toolbox contains 16 items for gathering data. Everything from star ratings to signature boxes!
-
-### Materials
-
-- [ICE #Project#](https://github.com/alibaba/ice): 飞冰 - 海量可复用物料，通过 GUI 工具极速构建中后台应用。
-
 # Browser
 
 - [browsh #Project#](https://github.com/browsh-org/browsh): A fully interactive, realtime, and modern text-based browser rendered to TTYs and browsers
@@ -215,7 +185,3 @@ The contents organization form follows [Web MindMap](),
 - [Rendora #Project#](https://github.com/rendora/rendora): Rendora is a dynamic renderer to provide zero-configuration server-side rendering mainly to web crawlers in order to effortlessly improve SEO for websites.
 
 - [headless-devtools #Project#](https://github.com/cowchimp/headless-devtools): Lets you perform Chrome DevTools actions from code by leveraging Headless Chrome+Puppeteer.
-
-# Analytics
-
-- [Fathom #Project#](https://github.com/usefathom/fathom): Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.

@@ -47,3 +47,5 @@
 * [2018-Countable #Project#](https://github.com/RadLikeWhoa/Countable/blob/master/README.md): Countable is a JavaScript function to add live paragraph-, word- and character-counting to an HTML element.
 
 - [2019-Editor.js #Project#](https://github.com/codex-team/editor.js): A block-styled editor with clean JSON output.
+
+- [2019-React Page #Project#](https://github.com/react-page/react-page): Next-gen, highly customizable content editor for the browser - based on React and Redux and written in TypeScript. WYSIWYG on steroids.
