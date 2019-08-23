@@ -60,6 +60,8 @@
 
 # Engine
 
+- [Hermes #Project#](https://github.com/facebook/hermes): Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.
+
 ## Parser
 
 - [Acorn #Project#](https://github.com/ternjs/acorn): A small, fast, JavaScript-based JavaScript parser.

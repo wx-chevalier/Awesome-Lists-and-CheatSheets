@@ -18,6 +18,8 @@
 
 - [2016-Cookies vs. Tokens: The Definitive Guide](https://dzone.com/articles/cookies-vs-tokens-the-definitive-guide): Finally, putting theory to practice, we'll build an application that uses token authentication and make it a progressive web app.
 
+- [2019-彻底理解cookie，session，token](https://zhuanlan.zhihu.com/p/63061864)
+
 # 验证码
 
 - [腾讯验证码的十二年 ](https://parg.co/CHF): 验证码的诞生就是用来对抗自动机，但随着 OCR 技术的发展，腾讯验证码怎么发展让它能够有效持续对抗自动机。

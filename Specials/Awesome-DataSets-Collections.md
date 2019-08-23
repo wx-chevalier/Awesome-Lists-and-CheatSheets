@@ -98,6 +98,8 @@
 
 - [UDA City 开源的 223G 的关于自动驾驶的历史数据](https://medium.com/udacity/open-sourcing-223gb-of-mountain-view-driving-data-f6b5593fbfa5#.nk7avwpuk)
 
+- [Unlocking Access to Self-Driving Research: The Lyft Level 5 Dataset and Competition](https://medium.com/lyftlevel5/unlocking-access-to-self-driving-research-the-lyft-level-5-dataset-and-competition-d487c27b1b6c)
+
 ## LBS | 地理位置
 
 - [中国 5 级行政区域 mysql 库](https://github.com/kakuilan/china_area_mysql)

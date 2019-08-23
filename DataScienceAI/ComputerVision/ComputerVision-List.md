@@ -4,6 +4,10 @@
 
 - [A curated list of deep learning resources for computer vision](https://github.com/kjw0612/awesome-deep-vision)
 
+# Overview 
+
+- [2019-图像处理，计算机视觉和人工智能之间的差异](https://mp.weixin.qq.com/s/kLYm3hNFiEXNAlSW3Zaq5g): 因此，在本文中，我将帮助你了解图像处理，计算机视觉和人工智能之间的区别。
+
 # OCR
 
 - [2017-Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning]()

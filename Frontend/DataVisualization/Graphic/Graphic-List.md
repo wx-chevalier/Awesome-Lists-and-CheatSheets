@@ -44,6 +44,8 @@
 
 * [WebGL2 Fundamentals](https://webgl2fundamentals.org): WebGL2 from the ground up. No magic.
 
+- [2019-带你走进WebGL的随机美学](https://mp.weixin.qq.com/s/cKhkfRjw9vJ5epBbesDaIw): 大自然蕴含着各式各样的纹理，小到细胞菌落分布，大到宇宙星球表面。运用图形噪声，我们可以在 3d 场景中模拟它们，本文就带大家一起走进万能的图形噪声。
+
 ## GPGPU
 
 - [Unleash Your Inner Supercomputer Your Guide to GPGPU with WebGL](http://www.vizitsolutions.com/portfolio/webgl/gpgpu/index.html)

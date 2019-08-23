@@ -18,6 +18,8 @@
 
 - [2017-An overview of Vue.js and the future of the framework](https://parg.co/UmG):  This post is far from being a guide. It’s another timeline attempt on Vue.js in a well-organized way, from the beginning, to what awaits us in version 3.0 of the framework.
 
+- [Vue 和 React 的优点分别是什么？](https://www.zhihu.com/question/301860721)
+
 ## Case Study | 案例分析
 
 - [2017-Creating Beautiful Charts Using Vue Wrappers for Chart.js](https://www.sitepoint.com/creating-beautiful-charts-vue-chart-js/): In this article I will show you how to represent data in the form of various types of chart with the help of Chart.js and Vue.

@@ -20,6 +20,8 @@
 
 - [推酷上汇集的一系列关于 Flink 的文章](http://www.tuicool.com/search?t=1&kw=flink&lang=0)
 
+- [Flink 系列博客 #Series#](https://mp.weixin.qq.com/s/ok-YwuVbwAVtJz7hUCiZxg): Flink 灵魂两百问，这谁顶得住？
+
 ## Confs
 
 - [Flink Forward China 2018 Slides](https://github.com/flink-china/flink-forward-china-2018)
