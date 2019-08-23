@@ -80,6 +80,14 @@
 
 - [2018-DeepPavlov #Project#](https://github.com/deepmipt/DeepPavlov): An open source library for building end-to-end dialog systems and training chatbots.
 
+### ASR
+
+- [Common Voice #Project#](https://voice.mozilla.org/): The Common Voice project is Mozilla's initiative to help teach machines how real people speak.
+
+- [DeepSpeech #Project#](https://github.com/mozilla/DeepSpeech): Project DeepSpeech is an open source Speech-To-Text engine. It uses a model trained by machine learning techniques, based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow project to make the implementation easier.
+
+- [wav2letter #Project#](https://parg.co/UM8): wav2letter is a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research.
+
 # Computer Vision
 
 - [2017-Detectron #Project#](https://github.com/facebookresearch/Detectron): Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN.
