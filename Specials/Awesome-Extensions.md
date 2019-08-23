@@ -43,3 +43,7 @@
 - [google-java-format](https://github.com/google/google-java-format): google-java-format is a program that reformats Java source code to comply with Google Java Style.
 
 # ZSH
+
+# Sketch
+
+- [Segmented circles #Project#](https://github.com/design4use/gb-sketch-segmentcircle): Sketch plugin creates circular graphics for diagrams, instrumentation and analytics.

@@ -39,3 +39,5 @@
 - [浅议技术债](http://www.zcfy.cc/article/we-need-to-talk-about-technical-debt-9670-24-ways-2097.html)
 
 * [技术债务和技术投资](http://www.tuicool.com/articles/YZNRZ3M)
+
+* [code-dependencies-are-the-devil](https://medium.freecodecamp.com/code-dependencies-are-the-devil-35ed28b556d?source=reading_list---------1-2)

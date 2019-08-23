@@ -4,19 +4,7 @@
 
 - [2017-10 Common Software Architectural Patterns in a nutshell](https://parg.co/bD3): In this article, I will be briefly explaining the following 10 common architectural patterns with their usage, pros and cons.
 
-- [The 5 Problem-Solving Skills of Great Software Developers](https://www.coderhood.com/5-problem-solving-skills-great-software-developers/)
-
-- [2018-The Path to Becoming a Software Architect](https://parg.co/Uv2): There are several career paths a developer might take, and this series talks over how to become a software architect.
-
-* [2016-Modern Software Over-Engineering Mistakes](https://parg.co/bih): Few things are guaranteed to increase all the time: Distance between stars, Entropy in the visible universe, and Fucking business requirements . Many articles say Dont over-engineer but don’t say why or how. Here are 10 clear examples.
-
-- [open-source-society：computer-science-and-engineering](https://github.com/open-source-society/computer-science-and-engineering#introduction)
-
-- [code-dependencies-are-the-devil](https://medium.freecodecamp.com/code-dependencies-are-the-devil-35ed28b556d?source=reading_list---------1-2)
-
-- [针对架构设计的几个痛点，我总结出的架构原则和模式](http://www.infoq.com/cn/articles/several-pain-points-architecture-design)
-
-- [坑系列---重构过程中的过度设计](http://mp.weixin.qq.com/s?__biz=MjM5ODczNTkwMA==&mid=2650107080&idx=1&sn=527e1f3f9b048127d1114f9272ddd927#rd)
+- [2017-The Software Architecture Chronicles #Series#](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/): In them, I write about what I’ve learned about Software Architecture, how I think of it, and how I use that knowledge.
 
 # Resources
 
@@ -44,8 +32,20 @@
 
 - [12-factors](http://12factor.net/zh_cn/)
 
+* [针对架构设计的几个痛点，我总结出的架构原则和模式](http://www.infoq.com/cn/articles/several-pain-points-architecture-design)
+
+## Over-Engineering | 过度设计
+
+- [坑系列---重构过程中的过度设计](http://mp.weixin.qq.com/s?__biz=MjM5ODczNTkwMA==&mid=2650107080&idx=1&sn=527e1f3f9b048127d1114f9272ddd927#rd)
+
+- [2016-Modern Software Over-Engineering Mistakes](https://parg.co/bih): Few things are guaranteed to increase all the time: Distance between stars, Entropy in the visible universe, and Fucking business requirements . Many articles say Dont over-engineer but don’t say why or how. Here are 10 clear examples.
+
 # Architect | 架构师
 
 - [2016-架构师画像](https://parg.co/M8y): 这篇文章就来讲讲我觉得的架构师的画像，到底具备什么素质的同学是贴合架构师形象的。
 
 - [支付宝架构师：从工程师到架构师的成长之路](http://www.scalerstalk.com/838-architect)
+
+- [The 5 Problem-Solving Skills of Great Software Developers](https://www.coderhood.com/5-problem-solving-skills-great-software-developers/)
+
+* [2018-The Path to Becoming a Software Architect](https://parg.co/Uv2): There are several career paths a developer might take, and this series talks over how to become a software architect.

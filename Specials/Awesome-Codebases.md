@@ -16,8 +16,7 @@ Awesome Codebases 收藏了哪些设计，代码风格，或者架构优美的�
 
 # Collection
 
-- [Awesome macOS open source applications. #Collection#](https://github.com/serhii-londar/open-source-mac-os-apps):
-  List of awesome open source applications for macOS. This list contains a lot of native and cross-platform apps. The main goal of this repository is to find open source and free apps and start contributing.
+- [Awesome macOS open source applications. #Collection#](https://github.com/serhii-londar/open-source-mac-os-apps): List of awesome open source applications for macOS. This list contains a lot of native and cross-platform apps. The main goal of this repository is to find open source and free apps and start contributing.
 
 # Collaboration
 

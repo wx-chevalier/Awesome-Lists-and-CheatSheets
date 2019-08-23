@@ -20,7 +20,7 @@
 
 ## Collection
 
-- [2017-awesome-compilers](https://github.com/aalhour/awesome-compilers): A curated list of awesome resources on the theory and construction of Compilers, Interpreters and Runtimes.
+- [2017-awesome-compilers #Collection#](https://github.com/aalhour/awesome-compilers): A curated list of awesome resources on the theory and construction of Compilers, Interpreters and Runtimes.
 
 - [PLT #Collection#](https://github.com/steshaw/plt): A path to Programming Language Theory enlightenment.
 

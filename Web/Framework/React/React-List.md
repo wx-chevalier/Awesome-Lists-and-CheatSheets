@@ -86,7 +86,7 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 - [Awesome-React #Collection#](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem.
 
-* [React/ReduxList#Collection#](https://github.com/markerikson/react-redux-links): Curated tutorial and resource links I've collected on React, Redux, ES6, and more
+* [React/ReduxList #Collection#](https://github.com/markerikson/react-redux-links): Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 
 * [Using forms in React-Redux: Tips And Tricks #Collection#](https://medium.com/@royisch/using-forms-in-react-redux-tips-and-tricks-48ad9c7522f6#.krt2lrdhw)
 

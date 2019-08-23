@@ -4,7 +4,7 @@
 
 [Awesome CS Collections](https://parg.co/ddq) is collections of collection, including Programming Language, Software Engineering, Web, Server Side Application, Frontend, etc. Every link in this collection may containing massive domains.
 
-Awesome CS Collections is subject to [Awesome Links](https://github.com/wx-chevalier/Awesome-Lists/), which is also part of [Awesome Coder](https://github.com/wx-chevalier/Awesome-Coder). You may also like [Awesome-DataSet-Collections](https://parg.co/ddS), [Awesome Tools](https://parg.co/ddc), etc.
+Awesome CS Collections is subject to [Awesome Lists](https://github.com/wx-chevalier/Awesome-Lists/), which is also part of [Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery).
 
 Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速找到合适的学习指引。
 
@@ -30,7 +30,7 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 # Learning Methodology | 学习方法论
 
-# Lists
+# Collections
 
 - [Learn Anything #Project#](https://github.com/learn-anything/learn-anything): Learn Anything is an Open Source Website built by community to Learn Anything with Interactive Maps.
 
@@ -45,10 +45,6 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts): Collection of awesome podcasts. Awesome list of Important Podcasts for software engineers.
 
 - [Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x#build-your-own-database): What I cannot create, I do not understand.
-
-- [devdocs](http://devdocs.io/): 这里集合了大量的在线的文档，同时 DevDocs 还支持离线浏览，主要是依靠 IndexDB 将数据存放在浏览器的本地缓存中。
-
-- [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese): 在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，真心希望本指南能给你带来一点小小的帮助。
 
 # Computer Science
 
@@ -113,3 +109,39 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 # Others
 
 - [2017-awesome-indie](https://github.com/mezod/awesome-indie): Resources to help independent developers make money.
+
+- [devdocs](http://devdocs.io/): 这里集合了大量的在线的文档，同时 DevDocs 还支持离线浏览，主要是依靠 IndexDB 将数据存放在浏览器的本地缓存中。
+
+- [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese): 在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，真心希望本指南能给你带来一点小小的帮助。
+
+# Awesome WebSites
+
+- 资讯聚合：[HackerNews](https://news.ycombinator.com/news)、[Reddit](https://www.reddit.com/)、[Google+](plus.google.com)、[推酷](tuicool.com)、[TechMeme](https://www.techmeme.com/)、[V2EX](https://www.v2ex.com/)、[DZone](dzone.com)、[掘金](https://gold.xitu.io/)
+- 技术书籍：[Gitbook](https://www.gitbook.com/)、[SafariBooksOnline](https://www.safaribooksonline.com/)
+- 技术博客：[Medium](https://medium.com)、[开发者头条](https://toutiao.io)、[CSDN](http://www.csdn.net/)、[freeCodeCamp Guide](https://guide.freecodecamp.org/agile)
+- 技术问答：[StackOverflow](https://stackoverflow.com/)、[SegmentFault](https://segmentfault.com/)
+- 开源社区：[Github](https://github.com/)、[OSChina](https://git.oschina.net/)、[coding.net](https://coding.net)
+- 期刊订阅：[MyBridge](mybridge.co)、[InfoQ 架构师](www.infoq.com/cn)、[CSDN 程序员杂志]()、[码农周刊](http://weekly.manong.io/)、[高可用架构系列](http://www.ituring.com.cn/search?q=%E9%AB%98%E5%8F%AF%E7%94%A8%E6%9E%B6%E6%9E%84&type=)、[ThoughtWorks 技术雷达](https://assets.thoughtworks.com/assets/technology-radar-apr-2016-cn.pdf)
+- 在线学习：[Coursera](https://www.coursera.org/)、[edX](https://www.edx.org/)、[Udacity](https://cn.udacity.com/)、[MIT 公开课](https://ocw.mit.edu/index.htm)、[MOOC 学院](http://mooc.guokr.com/course/)、[慕课网](http://www.imooc.com/)
+- 在线编程：[LeetCode](https://leetcode.com/)、[Project Euler](https://projecteuler.net/)、[CodingGame](https://www.codingame.com/start)、[Kaggle](https://www.kaggle.com/)、[Topcoder](https://www.topcoder.com/)、牛客网、[HackerRank](https://www.hackerrank.com/)、[JS Fight](https://jsfight.club/)
+- 大厂风范：[MSDN](https://msdn.microsoft.com/zh-cn)、[Google 开发者](https://developers.google.cn/)、[云栖社区](https://yq.aliyun.com/)、[IBM DeveloperWorks](http://www.ibm.com/developerworks/)、[Facebook AI Research ](https://research.fb.com/ai-helps-facebooks-internet-drones-find-where-the-people-are/)、[Facebook](https://code.facebook.com/posts/)、[airbnb](http://nerds.airbnb.com/)
+
+# Blogs & Community
+
+# Online Coding
+
+- [Project Euler](https://projecteuler.net/), [CodingGame](https://www.codingame.com/start), [Kaggle](https://www.kaggle.com/), [Topcoder](https://www.topcoder.com/), [牛客网](), [HackerRank](https://www.hackerrank.com/),[JS Fight](https://jsfight.club/).
+
+## OJ
+
+- [Leetcode](https://leetcode.com/): LeetCode is a platform for preparing technical coding interviews. Pick from an expanding library of more than 450 questions, code and submit your solution to see if you have solved it correctly. It is that easy!
+
+## IDE
+
+- [Gitpod](https://gitpod.io/workspaces/): One-Click Online IDE for GitHub
+
+# Handbook
+
+- [Learn X in Y minutes](https://learnxinyminutes.com/): Take a whirlwind tour of your next favorite language. Community-driven!
+
+# Docs
