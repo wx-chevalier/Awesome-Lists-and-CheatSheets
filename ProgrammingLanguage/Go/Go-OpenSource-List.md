@@ -42,6 +42,36 @@
 
 - [logrus #Project#](https://github.com/sirupsen/logrus): Logrus is a structured logger for Go (golang), completely API compatible with the standard library logger.
 
+# Data Structure
+
+- [gojay #Project#](https://github.com/francoispqt/gojay): Highly performant JSON encoder/decoder with powerful stream API for Golang.
+
+* [2018-jstream #Project#](https://github.com/bcicen/jstream): jstream is a streaming JSON parser and value extraction library for Go.
+
+# Network
+
+- [2017-Colly #Project#](https://github.com/gocolly/colly): Lightning Fast and Elegant Scraping Framework for Gophers.
+
+## TCP Server
+
+- [Zinx #Project#](https://github.com/aceld/zinx): Zinx 是一个基于 Golang 的轻量级并发服务器框架。
+
+# Storage
+
+## FileSystem
+
+- [2015-fsnotify #Project#](https://github.com/fsnotify/fsnotify): Cross-platform file system notifications for Go.
+
+## Database
+
+- [Bolt #Project#](https://github.com/boltdb/bolt): An embedded key/value database for Go.
+
+- [gendry #Project#](https://github.com/didi/gendry): a golang library for sql builder
+
+## ORM
+
+- [xo #Project#](https://github.com/xo/xo): Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
+
 # Web Framework
 
 - [Beego #Project#](https://beego.me/): An open source framework to build and develop your applications in the Go way.
@@ -65,35 +95,6 @@
 ## GraphQL
 
 - [gqlgen #Project#](https://gqlgen.com/): gqlgen is a golang library for building graphql servers without any fuss.
-
-# Data Structure
-
-- [gojay #Project#](https://github.com/francoispqt/gojay): Highly performant JSON encoder/decoder with powerful stream API for Golang.
-
-* [2018-jstream #Project#](https://github.com/bcicen/jstream): jstream is a streaming JSON parser and value extraction library for Go.
-
-# Network
-
-- [2017-Colly #Project#](https://github.com/gocolly/colly): Lightning Fast and Elegant Scraping Framework for Gophers.
-
-## TCP Server 
-
-- [Zinx #Project#](https://github.com/aceld/zinx): Zinx 是一个基于Golang的轻量级并发服务器框架。
-
-
-# Storage
-
-## FileSystem
-
-- [2015-fsnotify #Project#](https://github.com/fsnotify/fsnotify): Cross-platform file system notifications for Go.
-
-## Database
-
-- [Bolt #Project#](https://github.com/boltdb/bolt): An embedded key/value database for Go.
-
-## ORM
-
-- [xo #Project#](https://github.com/xo/xo): Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
 
 # Other
 
