@@ -20,15 +20,21 @@
 
 # CI/CD
 
-- [Spinnaker #Project#](https://www.spinnaker.io/concepts/): Spinnaker is an open-source, multi-cloud continuous delivery platform that helps you release software changes with high velocity and confidence.
+## Pipeline
+
+- [Drone #Project#](https://github.com/drone/drone): Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.
+
+- [Tekton](https://github.com/tektoncd/pipeline): The Tekton Pipelines project provides k8s-style resources for declaring CI/CD-style pipelines.
 
 - [flow-platform #Project#](https://github.com/FlowCI/flow-platform): CI backend server and agent
+
+## Platform
+
+- [Spinnaker #Project#](https://www.spinnaker.io/concepts/): Spinnaker is an open-source, multi-cloud continuous delivery platform that helps you release software changes with high velocity and confidence.
 
 - [Argo Rollouts #Project#](https://github.com/argoproj/argo-rollouts): Argo Rollouts controller, uses the Rollout custom resource to provide additional deployment strategies such as Blue Green and Canary to Kubernetes.
 
 - [Jenkins X #Project#](https://github.com/jenkins-x/jx): Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Tekton, Knative, Prow, Skaffold and Helm
-
-- [Drone #Project#](https://github.com/drone/drone): Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.
 
 # Monitor & Alert
 
