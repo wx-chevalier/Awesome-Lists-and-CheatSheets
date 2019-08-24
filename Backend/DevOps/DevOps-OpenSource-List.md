@@ -22,6 +22,14 @@
 
 - [Spinnaker #Project#](https://www.spinnaker.io/concepts/): Spinnaker is an open-source, multi-cloud continuous delivery platform that helps you release software changes with high velocity and confidence.
 
+- [flow-platform #Project#](https://github.com/FlowCI/flow-platform): CI backend server and agent
+
+- [Argo Rollouts #Project#](https://github.com/argoproj/argo-rollouts): Argo Rollouts controller, uses the Rollout custom resource to provide additional deployment strategies such as Blue Green and Canary to Kubernetes.
+
+- [Jenkins X #Project#](https://github.com/jenkins-x/jx): Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Tekton, Knative, Prow, Skaffold and Helm
+
+- [Drone #Project#](https://github.com/drone/drone): Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.
+
 # Monitor & Alert
 
 - [netdata #Project#](https://my-netdata.io/): nparalleled insights, in real-time, of everything happening on your systems and applications, with stunning, interactive web dashboards and powerful performance and health alarms.
