@@ -34,7 +34,7 @@ You can use [xCompass](https://https:wx-chevalier.github.io/home/#/search?query=
 
 ## Knowledge Graph
 
-![](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/blob/master/TechRoad/MindMap/MindMap.summary.png?raw=true)
+![](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/blob/master/技术之路/MindMap/MindMap.summary.png?raw=true)
 
 There are massive curated links to help you study anything about heading first, with tutorials, practices, opensource, courses, books, etc. Each domain may contain the following files:
 
