@@ -116,7 +116,7 @@
 
 - [2018-alpr-unconstrained](https://github.com/sergiomsilva/alpr-unconstrained): License Plate Detection and Recognition in Unconstrained Scenarios.
 
-# Training
+# Platform 
 
 ## Distributed Training
 
@@ -129,3 +129,7 @@
 - [2017-Turi Create #Project#](https://github.com/apple/turicreate): Turi Create simplifies the development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
 
 - [Ludwig #Project#](https://uber.github.io/ludwig/): Ludwig is a toolbox that allows to train and test deep learning models without the need to write code.
+
+## Federated Learning
+
+- [FATE #Project#](https://github.com/webankfintech/fate): 微众银行 AI 团队自主研发的全球首个工业级联邦学习框架 FATE（Federated AI Technology Enabler），提供基于数据隐私保护的分布式安全计算框架，为机器学习、深度学习、迁移学习算法提供高性能的安全计算支持，此外，FATE 还提供友好的跨域交互信息管理方案，能够解决联邦学习信息安全审计难问题。

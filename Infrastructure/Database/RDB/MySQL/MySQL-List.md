@@ -8,6 +8,8 @@
 
 - [2016-同程旅游的 MySQL 实践](http://mp.weixin.qq.com/s/LhCHEkSstmru4PnrfuoaVg): 以架构之“道”为基础，呈现更多务实落地的架构内容。
 
+- [2019-全球最大金融级分布式MySQL集群实践：5个9可用性、20万TPS、快乐运维](https://mp.weixin.qq.com/s/VanCDyrX4xzyPVZ4ul_yJQ): 腾讯金融科技有着全球最大的金融级分布式 MySQL 集群，支撑着微信支付、QQ 钱包、理财通等业务，近两年数据库可用性达到 99.999%，保障除夕红包业务超 20 万级别的 TPS 请求，给 DBA 和运维带来快乐。
+
 # Resource
 
 ## Books
