@@ -24,7 +24,7 @@ The contents organization form follows [Web MindMap](),
 
 - [2018-mpx #Project#](https://github.com/didi/mpx): A enhanced miniprogram framework with data reactivity and deep optimizition.
 
-- [taro #Project#](https://github.com/NervJS/taro): 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序/百度智能小程序/支付宝小程序、H5、React Native 等的应用。
+- [Taro #Project#](https://github.com/NervJS/taro): 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序/百度智能小程序/支付宝小程序、H5、React Native 等的应用。
 
 - [Remax #Project#](https://github.com/remaxjs/remax): Remax 将 React 运行在小程序环境中，让你可以使用完整的 React 进行开发。
 
