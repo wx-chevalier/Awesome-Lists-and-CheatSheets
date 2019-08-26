@@ -56,6 +56,8 @@
 
 - [litemall #Project#](https://github.com/linlinjava/litemall): 又一个小商城。litemall = Spring Boot 后端 + Vue 管理员前端 + 微信小程序用户前端 + Vue 用户移动端。
 
+- [microservices-platform #Project#](https://gitee.com/zlt2000/microservices-platform): 基于 SpringBoot2.x、SpringCloud 和 SpringCloudAlibaba 并采用前后端分离的企业级微服务多租户系统架构。
+
 # Tutorials
 
 - [2017-Docker + Spring Boot Microservice (with Gradle)](https://parg.co/bhg): Step-by-step tutorial on how to create a Spring Boot Microservice and wrap it up using Docker for simple, better and safer deployments of redundant APIs.
