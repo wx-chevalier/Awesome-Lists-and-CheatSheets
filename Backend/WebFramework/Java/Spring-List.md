@@ -48,6 +48,14 @@
 
 * [2018-Spring Boot 实现原理与源码解析系统 #Series#](http://www.iocoder.cn/Spring-Boot/good-collection/?title)
 
+## Showcases
+
+- [mall #Project#](https://github.com/macrozheng/mall): mall 项目是一套电商系统，包括前台商城系统及后台管理系统，基于 SpringBoot+MyBatis 实现。
+
+- [mall4j #Project#](https://gitee.com/gz-yami/mall4j): 一个基于 spring boot、spring oauth2.0、mybatis、redis 的轻量级、前后端分离、防范 xss 攻击、拥有分布式锁，为生产环境多实例完全准备，数据库为 b2b2c 设计，拥有完整 sku 和下单流程的完全开源商城
+
+- [litemall #Project#](https://github.com/linlinjava/litemall): 又一个小商城。litemall = Spring Boot 后端 + Vue 管理员前端 + 微信小程序用户前端 + Vue 用户移动端。
+
 # Tutorials
 
 - [2017-Docker + Spring Boot Microservice (with Gradle)](https://parg.co/bhg): Step-by-step tutorial on how to create a Spring Boot Microservice and wrap it up using Docker for simple, better and safer deployments of redundant APIs.
