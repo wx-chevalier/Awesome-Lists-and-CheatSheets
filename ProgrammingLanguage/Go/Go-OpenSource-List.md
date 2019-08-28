@@ -68,6 +68,8 @@
 
 - [gendry #Project#](https://github.com/didi/gendry): a golang library for sql builder
 
+- [Fabric #Project#](https://github.com/spy16/fabric): Fabric is a triple-store written in Go. Fabric provides simple functions and store options to deal with "Subject->Predicate->Object" relations or so called triples.
+
 ## ORM
 
 - [xo #Project#](https://github.com/xo/xo): Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
