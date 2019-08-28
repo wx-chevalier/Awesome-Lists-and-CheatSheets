@@ -7,3 +7,7 @@
 - [FindBugs #Project#](http://findbugs.sourceforge.net/): This is the web page for FindBugs, a program which uses static analysis to look for bugs in Java code.
 
 - Facebook-Infer
+
+* [Ohm #Project#](https://github.com/harc/ohm): A library and language for building parsers, interpreters, compilers, etc.
+
+- [2018-Tau Prolog #Project#](https://github.com/jariazavalverde/tau-prolog/): Tau Prolog is a Prolog interpreter fully implemented in JavaScript.
