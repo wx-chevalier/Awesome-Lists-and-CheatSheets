@@ -24,6 +24,8 @@
 
 - [Curve #Project#](https://github.com/baidu/Curve): An Integrated Experimental Platform for time series data anomaly detection.
 
+- [wandb #Project#](https://docs.wandb.com/docs/started.html): Our tool wandb helps you track and visualize machine learning experiments.
+
 # Data Analysis 
 
 ## Feature Engineering
