@@ -28,8 +28,5 @@
 
 ## Course
 
-- [Bandit](http://overthewire.org/wargames/bandit/bandit1.html): The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.
+- [2019-MIT6.828 #Course#](https://zhuanlan.zhihu.com/p/74028717): 起 OS 的大厦框架。从 Lab1 的手把手教学到 Lab6 的放任你自由，很好地对学生的学习进行了引导。学完这个课程后，你也就拥有了一个属于你自己的完整的内核雏形！
 
-- [The Command Line Murders](https://github.com/veltman/clmystery): There's been a murder in Terminal City, and TCPD needs your help.
-
-- [vim-galore](https://github.com/mhinz/vim-galore)

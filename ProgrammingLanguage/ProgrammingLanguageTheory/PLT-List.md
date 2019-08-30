@@ -41,3 +41,7 @@
 - [2018-Interactive SICP n. Interactive Structure and Interpretation of Computer Programs. Online version of SICP with a built-in scheme interpreter to allow readers to edit and run the code embedded in SICP.](https://xuanji.appspot.com/isicp/)
 
 - [2019-Elements of Programming #Project#](http://elementsofprogramming.com): This book applies the deductive method to programming by affiliating programs with the abstract mathematical theories that enable them to work.
+
+## Memory Management
+
+- [2012-The Garbage Collection Handbook #Book#](http://gchandbook.org): The book addresses new challenges to garbage collection made by recent advances in hardware and software. 

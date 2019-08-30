@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
 
-# JVM 内存管理与垃圾回收资料索引
+# JVM Memory Management List
 
 # Overview
 
@@ -25,6 +25,10 @@
 - [Java 中, 为什么一个对象的实例方法在执行完成之前其对象可以被 GC 回收?](https://www.zhihu.com/question/51244545/answer/126055789)
 
 * [【笔记】Java 虚拟机(一)-GC](https://darkness463.github.io/2017/03/30/Java-VM-GC/)
+
+## Garbage Collector
+
+- [2019-Do It Yourself (OpenJDK) Garbage Collector](https://shipilev.net/jvm/diy-gc/): Adding garbage collection to our non-garbage collector: wait, what?
 
 ## CMS
 

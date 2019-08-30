@@ -10,6 +10,14 @@
 
 # Resource
 
+## Playground 
+
+- [Bandit](http://overthewire.org/wargames/bandit/bandit1.html): The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.
+
+- [The Command Line Murders](https://github.com/veltman/clmystery): There's been a murder in Terminal City, and TCPD needs your help.
+
+- [vim-galore](https://github.com/mhinz/vim-galore)
+
 # Commands
 
 - [2017-The Art of Command Line](https://parg.co/bXZ): Master the command line, in one page.
