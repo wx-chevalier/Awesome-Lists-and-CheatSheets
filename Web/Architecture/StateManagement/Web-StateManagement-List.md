@@ -17,3 +17,5 @@
 - [domain-state-vs-ui-state](https://medium.com/front-end-developers/domain-state-vs-ui-state-768c1271a41d#.39j4vok6z)
 
 - [复杂单页应用的数据层设计](https://zhuanlan.zhihu.com/p/24677176)
+
+- [2018-How to visually design state in JavaScript](https://link.medium.com/MU9cV0nNzZ): A roadmap for developing applications with state machines & statecharts
