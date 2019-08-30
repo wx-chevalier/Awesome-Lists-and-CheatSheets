@@ -22,6 +22,10 @@
 
 - [Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice): This document acts as a best practice guide to Kubernetes security.
 
+# Knative
+
+- [2019-Knative 实践：从源代码到服务的自动化部署](https://mp.weixin.qq.com/s/RFFddicupQUOjAs6dP92sQ): 那么现在就让我们来看一下，在 Knative 中如何实现从代码到服务？
+
 # Helm
 
 - [2018-使用 Helm 优化 Kubernetes 下的研发体验：基础设施即代码](http://dockone.io/article/8243): 在本文中笔者，将以一个 Spring Boot 程序为例，介绍如何在软件研发端到端过程中是使用 Helm。
