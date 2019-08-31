@@ -10,6 +10,8 @@
 
 - [2019-容器十年，一部软件交付编年史](https://yq.aliyun.com/articles/707171): 伴随着容器技术普及到“千家万户”，我们在这两年期间所经历的，是现代软件交付形式的一次重要变革。
 
+- [2019-虚拟化技术发展编年史](https://mp.weixin.qq.com/s/wuQ8-pwqb9qXfOt4w3Zviw): 几乎所有的问题都能够在历史长河中寻得答案。可惜的是，但凡历史，最是难写，笔者碍于能力有限，还望大家多指点一二。
+
 # Container
 
 - [2018-Containers Patterns](https://l0rd.github.io/containerspatterns/#1): There are a thousand ways to use containers.
