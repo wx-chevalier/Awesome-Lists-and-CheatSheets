@@ -30,6 +30,10 @@
 
 - [2018-Martin-Clean Architecture #Book#](http://putregai.com/sbooks/clean_arch.pdf): A Craftsman's Guide to Software Structure and Design.
 
+### DDD
+
+- [2016-Vaughn-Domain Driven Design Distilled #Book#](https://www.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/): Vernon guides you through each core DDD technique for building better software. You’ll learn how to segregate domain models using the powerful Bounded Contexts pattern, to develop a Ubiquitous Language within an explicitly bounded context, and to help domain experts and developers work together to create that language.
+
 # Architect | 架构师
 
 - [2016-架构师画像](https://parg.co/M8y): 这篇文章就来讲讲我觉得的架构师的画像，到底具备什么素质的同学是贴合架构师形象的。
