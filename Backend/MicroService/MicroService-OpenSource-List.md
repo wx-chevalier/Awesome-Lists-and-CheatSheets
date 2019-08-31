@@ -22,6 +22,8 @@
 
 - [Dubbo #Project#](https://github.com/apache/incubator-dubbo): Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
 
+- [OCTO #Project#](https://github.com/Meituan-Dianping/octo-rpc): 微服务通信框架及治理平台 OCTO 作为美团基础架构设施的重要组成部分，目前已广泛应用于公司技术线，稳定承载上万应用、日均支撑千亿级的调用。
+
 ## Data Formatter
 
 - [gron #Project#](https://github.com/tomnomnom/gron): gron transforms JSON into discrete assignments to make it easier to grep for what you want and see the absolute 'path' to it.

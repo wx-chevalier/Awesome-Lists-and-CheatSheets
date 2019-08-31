@@ -20,6 +20,8 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [rustlings](https://github.com/carols10cents/rustlings)
 
+- [2019-想要改变世界的 Rust 语言](https://mp.weixin.qq.com/s/lPbag5EbuWPUZOCvObW-yw): 通过了解 Rust 遵循什么样的设计哲学，进一步了解它的语法结构和编程理念，就可以系统地掌握这门语言的核心，而不至于在其纷繁复杂的语法细节中迷失。
+
 ## Case Study
 
 - [Why Rust is the future of robotics](https://parg.co/UVu): We believe Rust is the future of robotics because it enables developers to be fearless, to create and enforce standards, and to build and rely on a strong community.
