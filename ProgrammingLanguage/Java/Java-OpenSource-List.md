@@ -2,17 +2,66 @@
 
 # Java OpenSource List | Java 开源框架与工具索引
 
-# Development Library | 通用开发库
+# Toolkits
+
+## Static Analysis | 静态分析
+
+- [CheckStyle #Project#](http://checkstyle.sourceforge.net/):
+  Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard.
+
+- [Cobertura #Project#](http://cobertura.github.io/cobertura/): Cobertura is a free Java tool that calculates the percentage of code accessed by tests.
+
+- [FindBugs #Project#](http://findbugs.sourceforge.net/): A program which uses static analysis to look for bugs in Java code.
+
+- [SourceMonitor #Project#](http://www.campwoodsw.com/sourcemonitor.html): The freeware program SourceMonitor lets you see inside your software source code to find out how much code you have and to identify the relative complexity of your modules.
+
+- [PMD #Project#](https://pmd.github.io/): PMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth.
+
+- [Simian - Similarity Analyser](http://www.harukizaemon.com/simian/installation.html): Simian (Similarity Analyser) identifies duplication in Java, C#, C, C++, COBOL, Ruby, JSP, ASP, HTML, XML, Visual Basic, Groovy source code and even plain text files. In fact, simian can be used on any human readable files such as ini files, deployment descriptors, you name it.
+
+## Test | 测试工具
+
+- [REST Assured #Project#](https://github.com/rest-assured/rest-assured): Testing and validation of REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain. languages into the Java domain.
+
+## Deployment | 部署
+
+- [Capsule #Project#](http://www.capsule.io/user-guide/#getting-capsule): Dead-Simple Packaging and Deployment for JVM Apps.
+
+- [Launch4j #Project#](http://launch4j.sourceforge.net/): Launch4j is a cross-platform tool for wrapping Java applications distributed as jars in lightweight Windows native executables.
+
+- [Warp #Project#](https://github.com/dgiagio/warp): Warp lets you create self-contained single binary applications making it simpler and more ergonomic to deliver your application to your customers.
+
+- [2018-Amazon Corretto #Project#](https://github.com/corretto/corretto-8): Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK
+
+# Framework & Library
+
+## Utils
 
 - [Guava #Project#](https://github.com/google/guava): Guava is a set of core libraries that includes new collection types (such as multimap and multiset), immutable collections, a graph library, functional types, an in-memory cache, and APIs/utilities for concurrency, IO, hashing, primitives, reflection, string processing, and much more!
-
-- [Guice #Project#](https://github.com/google/guice): Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
 
 * [caffeine #Project#](https://github.com/ben-manes/caffeine): A high performance caching library for Java 8
 
 * [jOOR #Project#](https://github.com/jOOQ/jOOR): Fluent Reflection in Java jOOR is a very simple fluent API that gives access to your Java Class structures in a more intuitive way.
 
-## Data Structures
+### Dependence Injection
+
+- [Guice #Project#](https://github.com/google/guice): Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
+
+## AST & Generator
+
+- [Java Parser #Project#](https://github.com/javaparser/javaparser): Java Parser and Abstract Syntax Tree
+
+- [uniVocity-parsers #Project#](https://github.com/uniVocity/univocity-parsers)
+
+- [JavaPoet #Project#](https://github.com/square/javapoet): JavaPoet is a Java API for generating .java source files.
+
+- [Lombok #Project#](https://projectlombok.org/): Project Lombok is a java library that automatically plugs into your editor and build tools, spicing up your java.
+
+- [Java Hipster #Project#](https://github.com/jhipster/generator-jhipster): Open Source application generator for creating Spring Boot + Angular/React projects in seconds!
+
+## Concurrent Programming
+
+- [concurrency-limits #Project#](https://github.com/Netflix/concurrency-limits): Java Library that implements and integrates concepts from TCP congestion control to auto-detect concurrency limits to achieve optimal throughput with optimal latency.
 
 # Storage | 数据存储
 
@@ -42,12 +91,6 @@
 
 ### Hibernate
 
-# SysProc
-
-## Concurrent Programming
-
-- [concurrency-limits #Project#](https://github.com/Netflix/concurrency-limits): Java Library that implements and integrates concepts from TCP congestion control to auto-detect concurrency limits to achieve optimal throughput with optimal latency.
-
 # Web Development
 
 ## Frameworks
@@ -60,13 +103,21 @@
 
 - [Spark #Project#](https://github.com/perwendel/spark): A simple expressive web framework for java. News: Spark now has a kotlin DSL.
 
-## Auth
-
 ## Spring
 
 - [SOFABoot #Project#](https://github.com/alipay/sofa-boot): SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc.
 
 - [Springfox #Project#](https://github.com/springfox/springfox): Automated JSON API documentation for API's built with Spring.
+
+## Auth
+
+- [Spring Security #Project#](https://github.com/spring-projects/spring-security): Spring Security provides security services for the Spring IO Platform. Spring Security 5.0 requires Spring 5.0 as a minimum and also requires Java 8.
+
+- [pac4j #Project#](https://github.com/pac4j/pac4j): Security engine for Java (authentication, authorization, multi frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT...
+
+- [buji-pac4j #Project#](https://github.com/bujiio/buji-pac4j): The buji-pac4j project is an easy and powerful security library for Shiro web applications and web services which supports authentication and authorization, but also advanced features like CSRF protection. It's based on Java 8, Shiro 1.4 and on the pac4j security engine v3.
+
+- [Apache Shiro #Project#](https://github.com/apache/shiro): Apache Shiro is a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
 
 # JVM
 
@@ -99,51 +150,6 @@
 ## JIT
 
 - [2018-Java Grinder #Project#](https://github.com/mikeakohn/java_grinder): Compile Java bytecode to microcontroller assembly.
-
-# Engineering Practices Tools | 工程化工具
-
-## Static Analysis | 静态分析
-
-- [CheckStyle #Project#](http://checkstyle.sourceforge.net/):
-  Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard.
-
-- [Cobertura #Project#](http://cobertura.github.io/cobertura/): Cobertura is a free Java tool that calculates the percentage of code accessed by tests.
-
-- [FindBugs #Project#](http://findbugs.sourceforge.net/): A program which uses static analysis to look for bugs in Java code.
-
-- [SourceMonitor #Project#](http://www.campwoodsw.com/sourcemonitor.html): The freeware program SourceMonitor lets you see inside your software source code to find out how much code you have and to identify the relative complexity of your modules.
-
-- [PMD #Project#](https://pmd.github.io/): PMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth.
-
-- [Simian - Similarity Analyser](http://www.harukizaemon.com/simian/installation.html): Simian (Similarity Analyser) identifies duplication in Java, C#, C, C++, COBOL, Ruby, JSP, ASP, HTML, XML, Visual Basic, Groovy source code and even plain text files. In fact, simian can be used on any human readable files such as ini files, deployment descriptors, you name it.
-
-## Test | 测试工具
-
-- [REST Assured #Project#](https://github.com/rest-assured/rest-assured): Testing and validation of REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain. languages into the Java domain.
-
-## Production | 发布到生产环境
-
-- [Capsule #Project#](http://www.capsule.io/user-guide/#getting-capsule): Dead-Simple Packaging and Deployment for JVM Apps.
-
-- [Launch4j #Project#](http://launch4j.sourceforge.net/): Launch4j is a cross-platform tool for wrapping Java applications distributed as jars in lightweight Windows native executables.
-
-- [Warp #Project#](https://github.com/dgiagio/warp): Warp lets you create self-contained single binary applications making it simpler and more ergonomic to deliver your application to your customers.
-
-- [2018-Amazon Corretto #Project#](https://github.com/corretto/corretto-8): Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK
-
-# Other
-
-## AST & Generator
-
-- [Java Parser #Project#](https://github.com/javaparser/javaparser): Java Parser and Abstract Syntax Tree
-
-- [uniVocity-parsers #Project#](https://github.com/uniVocity/univocity-parsers)
-
-- [JavaPoet #Project#](https://github.com/square/javapoet): JavaPoet is a Java API for generating .java source files.
-
-- [Lombok #Project#](https://projectlombok.org/): Project Lombok is a java library that automatically plugs into your editor and build tools, spicing up your java.
-
-- [Java Hipster #Project#](https://github.com/jhipster/generator-jhipster): Open Source application generator for creating Spring Boot + Angular/React projects in seconds!
 
 # 链接
 
