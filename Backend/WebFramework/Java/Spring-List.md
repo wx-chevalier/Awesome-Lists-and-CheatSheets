@@ -58,6 +58,8 @@
 
 - [microservices-platform #Project#](https://gitee.com/zlt2000/microservices-platform): 基于 SpringBoot2.x、SpringCloud 和 SpringCloudAlibaba 并采用前后端分离的企业级微服务多租户系统架构。
 
+- [hope-boot #Project#](https://github.com/hope-for/hope-boot): 一款现代化的脚手架项目。企业开发？接外包？赚外快？还是学习？这都能满足你，居家必备，值得拥有 🍻
+
 # Tutorials
 
 - [2017-Docker + Spring Boot Microservice (with Gradle)](https://parg.co/bhg): Step-by-step tutorial on how to create a Spring Boot Microservice and wrap it up using Docker for simple, better and safer deployments of redundant APIs.

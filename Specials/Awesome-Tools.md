@@ -132,9 +132,11 @@
 
 - [Traduora #Project#](https://traduora.com/): Teams use traduora to reach users all around the globe. Automate your translation workflow today.
 
-## Documents
+# Documents
 
 - [beautiful-docs #Collection#](https://github.com/PharkMillups/beautiful-docs): Pointers to useful, well-written, and otherwise beautiful documentation.
+
+- [Outline #Project#](https://github.com/outline/outline): The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
 
 ### Project WebSite | 项目主页
 

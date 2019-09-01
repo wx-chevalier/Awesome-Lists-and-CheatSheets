@@ -102,7 +102,11 @@
 
 ## LBS | 地理位置
 
-- [中国 5 级行政区域 mysql 库](https://github.com/kakuilan/china_area_mysql)
+- [中国 5 级行政区域 mysql 库 #Project#](https://github.com/kakuilan/china_area_mysql): 爬取国家统计局官网的行政区域数据,包括省市县镇村 5 个层级;
+
+- [china_regions #Project#](https://github.com/wecatch/china_regions): 最全最新中国省，市，地区 json 及 sql 数据
+
+- [qqzeng-ip #Project#](https://github.com/zengzhan/qqzeng-ip): 最新 IP 地址数据库-多语言解析以及导入数据库脚本。
 
 ## Time Series
 
@@ -150,7 +154,7 @@
 
 - [The home of the U.S. Government’s open data](https://www.data.gov/): Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.
 
-- [Enterprise Registration Data of Chinese Mainland](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland): 中国大陆 31 个省份1978 年至 2019 年一千多万工商企业注册信息，包含企业名称、注册地址、统一社会信用代码、地区、注册日期、经营范围、法人代表、注册资金、企业类型等详细资料。
+- [Enterprise Registration Data of Chinese Mainland](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland): 中国大陆 31 个省份 1978 年至 2019 年一千多万工商企业注册信息，包含企业名称、注册地址、统一社会信用代码、地区、注册日期、经营范围、法人代表、注册资金、企业类型等详细资料。
 
 # Others
 

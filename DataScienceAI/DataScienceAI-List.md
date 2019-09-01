@@ -32,6 +32,8 @@
 
 - [2017-Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://parg.co/bad)
 
+- [2019-Data-Science--Cheat-Sheet #CheatSheet#](https://github.com/abhat222/Data-Science--Cheat-Sheet): List of Data Science Cheatsheets.
+
 ## Case Study | 案例分析
 
 - [深度学习带来的变革：深度学习的十个典型应用](https://segmentfault.com/a/1190000007391860)
