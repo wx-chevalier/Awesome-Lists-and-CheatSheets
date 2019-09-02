@@ -28,13 +28,13 @@
 
 - [2017-在 Java 路上，我看过的一些书、源码和框架 #Collection#](http://www.jianshu.com/p/4a41ee88bd82)
 
-- [Java 程序员们值得一看的好书推荐](https://zhuanlan.zhihu.com/p/23444919)
+- [Java 程序员们值得一看的好书推荐 #Collection#](https://zhuanlan.zhihu.com/p/23444919)
 
-- [2017-Best Java Sites](http://www.baeldung.com/java-blogs): There are several “Top Java Blogs” pages out there – but also a lot of noise. Some of these blogs are abandoned with the last postin 2008, some have simply switched focused from Java to something else. Others are gone altogether.
+- [2017-Best Java Sites #Collection#](http://www.baeldung.com/java-blogs): There are several “Top Java Blogs” pages out there – but also a lot of noise. Some of these blogs are abandoned with the last postin 2008, some have simply switched focused from Java to something else. Others are gone altogether.
 
 - [Java 学习中的 99 个实践问题](https://github.com/shekhargulati/99-problems/blob/master/java8/README.md)
 
-- [Java 资源大全中文版](https://github.com/jobbole/awesome-java-cn): Java 资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
+- [Java 资源大全中文版 #Collection#](https://github.com/jobbole/awesome-java-cn): Java 资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 
 - [2018-Java 学习指南 #Collection#](https://github.com/Snailclimb/JavaGuide): 一份涵盖大部分 Java 程序员所需要掌握的核心知识，正在一步一步慢慢完善，期待您的参与。
 

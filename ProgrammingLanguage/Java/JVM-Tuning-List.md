@@ -1,6 +1,6 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
 
-# JVM Tunning List | JVM 问题定位与性能调优资料索引
+# JVM Tuning List | JVM 问题定位与性能调优资料索引
 
 # Overview
 
@@ -46,7 +46,7 @@
 
 - [2017-What is VisualVM? How to Use VisualVM, Benefits, Tutorials and More](https://stackify.com/what-is-visualvm/)
 
-# AOP Dynamic Tracing
+## AOP Dynamic Tracing
 
 - [2008-深入 Java 调试体系](https://www.ibm.com/developerworks/cn/java/j-lo-jpda1/)
 
