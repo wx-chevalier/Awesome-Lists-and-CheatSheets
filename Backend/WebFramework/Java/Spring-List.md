@@ -30,6 +30,8 @@
 
 - [Spring Boot 编程思想 #Book#](https://mercyblitz.github.io/books/thinking-in-spring-boot/): 本书全名为《Spring Boot 编程思想》，是以 Spring Boot 2.0 为讨论的主线，讨论的范围将涵盖 Spring Boot 1.x 的所有版本，以及所关联的 Spring Framework 版本。
 
+- [Spring Cloud 微服务 #Book#](https://github.com/yinjihuan/spring-cloud): 《Spring Cloud 微服务-全栈技术与案例解析》和《Spring Cloud 微服务 入门 实战与进阶》配套源码
+
 ## Courses
 
 - [2018-The "REST with Spring" Classes #Course#](https://github.com/eugenp/tutorials): This project is a collection of small and focused tutorials - each covering a single and well defined area of development in the Java ecosystem. A strong focus of these is, of course, the Spring Framework - Spring, Spring Boot and Spring Securiyt. In additional to Spring, the following technologies are in focus: core Java, Jackson, HttpClient, Guava.
