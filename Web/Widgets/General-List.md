@@ -34,6 +34,10 @@
 
 - [Json Schema Linter](https://www.json-schema-linter.com/): The main purpose of the JSON schema linter is to catch issues and critical errors in schema specifications early and automatically.
 
+- [json-schema-to-typescript #Project#](https://github.com/bcherny/json-schema-to-typescript): Compile json schema to typescript typings.
+
+- [ts-json-schema-generator #Project#](https://github.com/vega/ts-json-schema-generator): Generate JSON schema from your Typescript sources.
+
 # Terminals | 终端
 
 - [2017-Terminal in React #Project#](https://github.com/nitin42/terminal-in-react): A component that renders a terminal.
