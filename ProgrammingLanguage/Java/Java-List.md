@@ -6,11 +6,11 @@
 
 # Overview
 
-- [2017-细思极恐-你真的会写 java 吗?](http://6me.us/IZ45)
-
 - [Top 10 Mistakes Java Developers Make](http://www.gauravkgupta.com/top-10-mistakes-java-developers-make/)
 
 * [Java Web Frameworks Index by RebelLabs](https://zeroturnaround.com/rebellabs/java-web-frameworks-index-by-rebellabs/)
+
+- [2017-Java 老矣，尚能饭否？](http://www.infoq.com/cn/articles/is-java-out-of-date): 从 1995 年第一个版本发布到现在，Java 语言已经在跌宕起伏中走过了 22 年，最新的 Java 版本也已经迭代到 Java 9。
 
 ## CheatSheet
 
@@ -22,6 +22,16 @@
 
 - [2017-阿里巴巴 Java 开发手册](https://github.com/alibaba/p3c)：《阿里巴巴 Java 开发手册》是阿里巴巴集团技术团队的集体经验总结，经历了多次大规模一线实战的检验及不断的完善，反馈给广大开发者。
 
+# Interview | 面试
+
+- [2017-Java Collection Interview Questions and Answer](https://parg.co/bak): Here is a list of Java Collections interview Questions. These are some of the famous questions asked in interviews.
+
+- [Java 高级开发工程师面试考点](http://www.sanesee.com/article/java-engineer-interview-of-content-tree)
+
+- [Java 面试问题](https://dongchuan.gitbooks.io/java-interview-question/content/java/index.html)
+
+- [2018-Java Interview](https://github.com/crossoverJie/Java-Interview): 多数是一些 Java 基础知识、底层原理、算法详解。也有上层应用设计，其中不乏一些大厂面试真题。
+
 # Resource
 
 ## Collection | 其他资源集锦
@@ -32,7 +42,7 @@
 
 - [2017-Best Java Sites #Collection#](http://www.baeldung.com/java-blogs): There are several “Top Java Blogs” pages out there – but also a lot of noise. Some of these blogs are abandoned with the last postin 2008, some have simply switched focused from Java to something else. Others are gone altogether.
 
-- [Java 学习中的 99 个实践问题](https://github.com/shekhargulati/99-problems/blob/master/java8/README.md)
+- [Java 学习中的 99 个实践问题 #Collection#](https://github.com/shekhargulati/99-problems/blob/master/java8/README.md)
 
 - [Java 资源大全中文版 #Collection#](https://github.com/jobbole/awesome-java-cn): Java 资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 
@@ -53,6 +63,12 @@
 * [2017-Think Java #Book#](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
 
 - [2017-Introduction To Programming In Java #Book#](http://introcs.cs.princeton.edu/java/home/): Princeton 出品的 Java 入门书籍
+
+* [2016-Think-in-Java #Book#](https://parg.co/b7t): Thinking In Java should be read cover to cover by every Java programmer, then kept close at hand for frequent reference. The exercises are challenging, and the chapter on Collections is superb!
+
+* [2014-Java 问题定位技术 #Book#](http://download.csdn.net/download/dhf880913/9337919)
+
+- [2015-The CERT ® Oracle ® Secure Coding Standard for Java #Book#](https://ptgmedia.pearsoncmg.com/images/9780321803955/samplepages/0321803957.pdf)
 
 ### Spring
 
@@ -92,19 +108,7 @@
 
 - [2016-Java 问题定位](http://blog.csdn.net/wodeyuer125/article/details/50557168)
 
-- [2016-A beginner’s guide to SQL injection and how you should prevent it](https://parg.co/bB1)
-
-- [2017-Java 老矣，尚能饭否？](http://www.infoq.com/cn/articles/is-java-out-of-date): 从 1995 年第一个版本发布到现在，Java 语言已经在跌宕起伏中走过了 22 年，最新的 Java 版本也已经迭代到 Java 9。
-
-* [2016-Think-in-Java #Book#](https://parg.co/b7t): Thinking In Java should be read cover to cover by every Java programmer, then kept close at hand for frequent reference. The exercises are challenging, and the chapter on Collections is superb!
-
-* [2014-Java 问题定位技术 #Book#](http://download.csdn.net/download/dhf880913/9337919)
-
-* [2015-The CERT ® Oracle ® Secure Coding Standard for Java #Book#](https://ptgmedia.pearsoncmg.com/images/9780321803955/samplepages/0321803957.pdf)
-
-* [Twitter-commons#Project#](https://github.com/twitter/commons): Twitter common libraries for python and the JVM.
-
-* [Top 10 Java Blogs for Programmers of All Levels](https://stackify.com/java-blogs-for-programmers-of-all-levels/): All over the world, Java professionals are posting daily about new findings or new feature functions. Unfortunately, blogs can also provide some not so great insight and perspective.
+- [Top 10 Java Blogs for Programmers of All Levels](https://stackify.com/java-blogs-for-programmers-of-all-levels/): All over the world, Java professionals are posting daily about new findings or new feature functions. Unfortunately, blogs can also provide some not so great insight and perspective.
 
 # Tutorial
 
@@ -126,22 +130,10 @@
 
 - [2017-Java 8 Vs. Java 9: Get Ready for a New Era](https://www.romexsoft.com/blog/java-8-vs-java-9/): Learn what’s new in Java 9 - a comprehensive overview for business owners and developers.
 
-- [2016-A RevealJS overview presentation & example project of what to expect from Java 9 (Jul'2016)](https://github.com/bentolor/java9-in-action/blob/master/playground/src/main/java/de/exxcellent/java9/module-info.java)
-
-- [2017-Java 9 Articles – Series Index](https://blog.idrsolutions.com/2017/06/java-9-articles-series-index/): In this series we have put together some tutorials to explain what they are, why they are useful andquickly show you how to use them.
+- [2017-Java 9 Articles #Series#](https://blog.idrsolutions.com/2017/06/java-9-articles-series-index/): In this series we have put together some tutorials to explain what they are, why they are useful andquickly show you how to use them.
 
 - [2017-Wrapping up Java 9 new Features](https://aboullaite.me/wrapping-up-java-9-new-features/): In this write up we’re going to have quick, high level look at some of the new features;
 
 ## IDE
 
 - [IntelliJ IDEA](https://github.com/judasn/IntelliJ-IDEA-Tutorial/)
-
-# Interview | 面试
-
-- [2017-Java Collection Interview Questions and Answer](https://parg.co/bak): Here is a list of Java Collections interview Questions. These are some of the famous questions asked in interviews.
-
-- [Java 高级开发工程师面试考点](http://www.sanesee.com/article/java-engineer-interview-of-content-tree)
-
-- [Java 面试问题](https://dongchuan.gitbooks.io/java-interview-question/content/java/index.html)
-
-- [2018-Java Interview](https://github.com/crossoverJie/Java-Interview): 多数是一些 Java 基础知识、底层原理、算法详解。也有上层应用设计，其中不乏一些大厂面试真题。

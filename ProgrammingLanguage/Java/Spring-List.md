@@ -20,9 +20,7 @@
 
 # Resource
 
-- [Spring MVC 4.2.4.RELEASE 中文文档  ](https://www.gitbook.com/book/linesh/spring-mvc-documentation-linesh-translation/details)
-
-- [Spring 知识点提炼](http://www.importnew.com/19933.html)
+- Spring 中文文档系列：[Spring MVC 4.2.4.RELEASE 中文文档](https://spring-mvc.linesh.tw/)，[Spring Framework 5 中文文档](https://lfvepclr.gitbooks.io/spring-framework-5-doc-cn/content/)，[Spring Framework 中文文档](https://www.docs4dev.com/docs/zh/spring-framework/5.1.3.RELEASE/reference)
 
 ## Courses
 

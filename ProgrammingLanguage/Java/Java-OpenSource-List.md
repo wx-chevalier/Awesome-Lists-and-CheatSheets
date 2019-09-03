@@ -43,6 +43,8 @@
 
 * [jOOR #Project#](https://github.com/jOOQ/jOOR): Fluent Reflection in Java jOOR is a very simple fluent API that gives access to your Java Class structures in a more intuitive way.
 
+* [Twitter-commons #Project#](https://github.com/twitter/commons): Twitter common libraries for python and the JVM.
+
 ### Dependence Injection
 
 - [Guice #Project#](https://github.com/google/guice): Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.

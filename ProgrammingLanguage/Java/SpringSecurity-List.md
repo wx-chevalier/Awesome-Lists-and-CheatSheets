@@ -17,3 +17,7 @@
 - [2019-A Quick Guide to Using Keycloak with Spring Boot](https://www.baeldung.com/spring-boot-keycloak): In this article, we’ll cover the basics of setting up a Keycloak server, how to connect a Spring Boot application to it, and how to use it with Spring Security.
 
 - [2019-CAS SSO With Spring Security](https://www.baeldung.com/spring-security-cas-sso): In this article, we’re going to look at integrating the Central Authentication Service (CAS) with Spring Security. CAS is a Single Sign-On (SSO) service.
+
+# SQL Injection
+
+- [2016-A beginner’s guide to SQL injection and how you should prevent it](https://parg.co/bB1)
