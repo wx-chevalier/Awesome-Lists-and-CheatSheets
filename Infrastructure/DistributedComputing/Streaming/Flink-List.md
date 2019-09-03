@@ -32,6 +32,8 @@
 
 - [2018-Apache Flink Training](https://training.da-platform.com/): This training teaches how to implement scalable data analysis programs with Apache Flink 1.6.0.
 
+- [2019-基于 Flink 实现的商品实时推荐系统](https://mp.weixin.qq.com/s/pF8mr4AeUwWWpGEAKmJW2w): 近期我在 GitHub 观察到一个不错的 Flink 项目，然后也和作者交流了下，于是在这里做一个分享。
+
 # Internals | 内部原理
 
 - [2016-Flink 原理与实现：理解 Flink 中的计算资源](http://wuchong.me/blog/2016/05/09/flink-internals-understanding-execution-resources/)
