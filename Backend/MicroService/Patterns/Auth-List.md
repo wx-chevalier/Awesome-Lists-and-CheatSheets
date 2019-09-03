@@ -46,6 +46,8 @@
 
 ## OAuth
 
+- [2019-A complete guide to Oauth2 protocol](https://milapneupane.com.np/2019/09/02/a-complete-guide-to-oauth2-protocol/): Oauth2 protocol was designed to solve the delegation problem. OpenID is a protocol on top of Oauth2 for authentication.
+
 ## SAM
 
 - [2019-How SAML 2.0 Authentication Works](https://gravitational.com/blog/how-saml-authentication-works/): At its core, Security Assertion Markup Language (SAML) 2.0 is a means to exchange authorization and authentication information between services.

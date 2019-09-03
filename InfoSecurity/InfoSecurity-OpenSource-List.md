@@ -30,6 +30,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [TrackRay #Project#](https://github.com/iSafeBlue/TrackRay): 溯光 (TrackRay) 3 Beta 版插件式渗透测试框架（资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|漏洞扫描|AWVS|NMAP|Metasploit）
 
+- [Kunpeng #Project#](https://github.com/opensec-cn/kunpeng): Kunpeng 是一个 Golang 编写的开源 POC 检测框架，集成了包括数据库、中间件、web 组件、cms 等等的漏洞 POC，可检测弱口令、SQL 注入、XSS、RCE 等漏洞类型，以动态链接库的形式提供调用，通过此项目可快速开发漏洞检测类的系统，比攻击者快一步发现风险漏洞。
+
 ## Asset Management | 安全管理
 
 - [TangScan #Project#](https://github.com/WooYun/TangScan): Tangscan(唐朝扫描器)是一个由社区众多安全研究人员维护的企业在线安全平台，我们希望能够以更简单更快捷更有效的方式帮助企业监控和发现安全问题。

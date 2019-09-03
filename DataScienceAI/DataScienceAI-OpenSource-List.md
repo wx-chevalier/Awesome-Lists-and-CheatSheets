@@ -98,8 +98,6 @@
 
 - [2018-videoflow #Project#](https://github.com/videoflow/videoflow): Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
 
-- [2019-faceai #Project#](https://github.com/vipstone/faceai): 一款入门级的人脸、视频、文字检测以及识别的项目。
-
 ## Object Detection
 
 - [2017-Detectron #Project#](https://github.com/facebookresearch/Detectron): Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN.
@@ -113,6 +111,10 @@
 * [face-api.js #Project#](): JavaScript API for Face Recognition in the Browser with tensorflow.js.
 
 - [2018-Faceswap #Project#](https://github.com/deepfakes/faceswap): Faceswap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.
+
+- [2019-faceai #Project#](https://github.com/vipstone/faceai): 一款入门级的人脸、视频、文字检测以及识别的项目。
+
+- [SeetaFace #Project#](https://github.com/seetafaceengine/SeetaFace2): Open source, full stack face recognization toolkit.
 
 ## OCR
 

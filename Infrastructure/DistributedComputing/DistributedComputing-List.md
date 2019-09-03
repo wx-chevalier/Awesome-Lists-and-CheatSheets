@@ -4,7 +4,13 @@
 
 - [Turning your web traffic into a Super Computer](http://ben.akrin.com/?p=5997): The subject matter of this post is controversial as it discusses extracting computing resources from the visitors of a website.
 
+# Overview 
+
+## Comparsion 
+
 * [阿里蒋晓伟谈流计算和批处理引擎 Blink，以及 Flink 和 Spark 的异同与优势](https://yq.aliyun.com/articles/57232?spm=5176.100240.searchblog.30.918ieV)
+
+- [2019-端到端一致性,流系统Spark/Flink/Kafka/DataFlow对比总结(压箱宝具呕血之作)](https://zhuanlan.zhihu.com/p/77677075)
 
 # Resource 
 

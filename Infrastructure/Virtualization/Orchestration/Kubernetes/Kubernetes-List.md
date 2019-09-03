@@ -24,6 +24,8 @@
 
 - [2019-浅谈 Kubernetes 在生产环境中架构](https://mp.weixin.qq.com/s/dbH3E51TKEqCgcFu-isbXQ): 本文，只是笔者针对 Kubernetes 生产环境运行的一些关于架构设计和实现方案的总结，内容很粗糙，同时也会不断完善。
 
+- [2019-国外手机交友APP Tinder向Kubernetes迁移的过程](https://mp.weixin.qq.com/s/rTTeXk83nGdNcXQHzCjbVw): 大概两年前，Tinder决定转向Kubernetes。Kubernetes通过不可变部署推动Tinder Engine向容器化以及低接触式运维发展。应用程序的构建、部署以及基础架构都可以由代码定义。
+
 # Resource
 
 ## Book
