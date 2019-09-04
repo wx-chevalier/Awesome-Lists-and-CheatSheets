@@ -20,7 +20,7 @@
 
 # IO Test
 
-- [fio #Project#](https://github.com/axboe/fio): Hence I needed a tool that would be able to simulate a given I/O workload without resorting to writing a tailored test case again and again.
+- [fio #Project#](https://github.com/axboe/fio): Hence I needed a tool that would be able to simulate a given IO workload without resorting to writing a tailored test case again and again.
 
 # Service Test Tools
 
