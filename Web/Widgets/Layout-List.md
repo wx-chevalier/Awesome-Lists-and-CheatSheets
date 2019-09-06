@@ -2,7 +2,9 @@
 
 # Grid Layout | 网格布局
 
-- [Minigrid #Project#](http://alves.im/minigrid/)
+- [2015-Minigrid #Project#](https://github.com/henriquea/minigrid): Minimal 2kb zero dependency cascading grid layout.
+
+- [2015-React-Grid-Layout #Project#](https://github.com/STRML/react-grid-layout): A draggable and resizable grid layout with responsive breakpoints, for React.
 
 - [Simple-Grid #Project#](https://github.com/ThisIsDallas/Simple-Grid): Basic Responsive Grid
 
