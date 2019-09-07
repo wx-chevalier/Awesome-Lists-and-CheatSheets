@@ -4,6 +4,42 @@
 
 与编程框架强相关的微服务相关框架应用归纳在本处，其余归纳在 [DevOps OpenSource Links](https://parg.co/A1W)。
 
+# API Gateway
+
+- [2001-HAProxy #Project#](http://www.haproxy.org/): HAProxy is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications.
+
+- [2013-Tengine #Project#](https://github.com/alibaba/tengine): A distribution of Nginx with some advanced features.
+
+- [2016-Kong #Project#](https://getkong.org/): The open-source API Gateway and Microservices Management Layer, delivering high performance and reliability.
+
+- [2016-VeryNginx #Project#](https://github.com/alexazhou/VeryNginx): A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
+
+* [2018-HTTPS Portal #Project#](https://github.com/SteveLTN/https-portal): A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
+
+- [2018-Træfik #Project#](https://github.com/containous/traefik): Træfik (pronounced like traffic) is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
+
+## Load Balancer
+
+- [glb-director #Project#](https://github.com/github/glb-director): GitHub Load Balancer Director and supporting tooling.
+
+## Long Connection Gateway
+
+- [iot_push #Project#](https://github.com/1ssqq1lxr/iot_push): 基于 netty+mqtt 3.1.1 协议开发的物联网消息推送框架。
+
+## API Automation
+
+- [automatic-api #Project#](https://github.com/dbohdan/automatic-api): The following is a list of tools that automatically expose a REST, GraphQL, or another kind of API for your database.
+
+- [pREST #Project#](https://github.com/prest/prest): Serve a RESTful API from any PostgreSQL database
+
+- [apig #Project#](https://github.com/wantedly/apig): Golang RESTful API Server Generator
+
+## API Management
+
+- [WSO2 #Project#](https://wso2.com/api-management/): WSO2 API Manager is a 100% open source enterprise-class solution that supports API publishing, lifecycle management, application development, access control, rate limiting and analytics in one cleanly integrated system.
+
+- [DOClever #Project#](https://github.com/sx1989827/DOClever): DOClever 是一个商业化开源产品，完全免费。无论你是前端工程师，还是后端工程师，接口永远都是两者交互的桥梁，所以 DOClever 专为中小型团队量身打造，旨在解决接口的管理，测试与数据生成，实现真正的一体化解决方案。
+
 # RPC
 
 ## RPC Protocol
@@ -28,38 +64,6 @@
 
 - [gron #Project#](https://github.com/tomnomnom/gron): gron transforms JSON into discrete assignments to make it easier to grep for what you want and see the absolute 'path' to it.
 
-# Service Gateway
-
-- [2001-HAProxy #Project#](http://www.haproxy.org/): HAProxy is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications.
-
-- [2013-Tengine #Project#](https://github.com/alibaba/tengine): A distribution of Nginx with some advanced features.
-
-- [2016-Kong #Project#](https://getkong.org/): The open-source API Gateway and Microservices Management Layer, delivering high performance and reliability.
-
-- [2016-VeryNginx #Project#](https://github.com/alexazhou/VeryNginx): A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
-
-* [2018-HTTPS Portal #Project#](https://github.com/SteveLTN/https-portal): A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
-
-- [2018-Træfik #Project#](https://github.com/containous/traefik): Træfik (pronounced like traffic) is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
-
-## SSO
-
-- [2018-sso #Project#](https://github.com/buzzfeed/sso): Ovingly known as the S.S. Octopus or octoboi — is the authentication and authorization system BuzzFeed developed to provide a secure, single sign-on experience for access to the many internal web apps used by our employees.
-
-## API Automation
-
-- [automatic-api #Project#](https://github.com/dbohdan/automatic-api): The following is a list of tools that automatically expose a REST, GraphQL, or another kind of API for your database.
-
-- [pREST #Project#](https://github.com/prest/prest): Serve a RESTful API from any PostgreSQL database
-
-- [apig #Project#](https://github.com/wantedly/apig): Golang RESTful API Server Generator
-
-## API Management
-
-- [WSO2 #Project#](https://wso2.com/api-management/): WSO2 API Manager is a 100% open source enterprise-class solution that supports API publishing, lifecycle management, application development, access control, rate limiting and analytics in one cleanly integrated system.
-
-- [DOClever #Project#](https://github.com/sx1989827/DOClever): DOClever 是一个商业化开源产品，完全免费。无论你是前端工程师，还是后端工程师，接口永远都是两者交互的桥梁，所以 DOClever 专为中小型团队量身打造，旨在解决接口的管理，测试与数据生成，实现真正的一体化解决方案。
-
 # Service Coordination
 
 ## Configuration
@@ -69,14 +73,6 @@
 * [Hawk #Project#](https://parg.co/Uv4): Hawk 基于 ETCD 打造，主要解决把开发人员从复杂的业务流程和烦琐的配置中解脱出来，让开发人员只关注自己的业务代码，把运维、配置这些剥离出去。同时降低服务部署、发布过程中的风险。
 
 - [2018-Nacos #Project#](https://github.com/alibaba/nacos): an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications(更易于构建云原生应用的动态服务发现、配置管理和服务管理平台)
-
-## Fault Tolerance
-
-- [2015-Hystrix #Project#](https://github.com/Netflix/Hystrix): Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
-
-- [Sentinel #Project#](https://github.com/alibaba/Sentinel): A lightweight flow-control library providing high-available protection and monitoring (高可用防护的流量管理框架)
-
-- [2018-Resilience4j #Project#](https://github.com/resilience4j/resilience4j): Resilience4j is a fault tolerance library designed for Java8 and functional programming
 
 ## Distributed Transaction | 分布式事务
 
@@ -92,13 +88,7 @@
 
 - [Pinpoint #Project#](http://naver.github.io/pinpoint/): Pinpoint is an APM (Application Performance Management) tool for large-scale distributed systems written in Java / PHP.
 
-# Service Availability
-
-## Load Balancer
-
-- [glb-director #Project#](https://github.com/github/glb-director): GitHub Load Balancer Director and supporting tooling.
-
-# Serverless OpenSource List
+# Serverless
 
 - [2017-faas #Project#](https://github.com/alexellis/faas): Functions as a Service - a serverless framework for Docker & Kubernetes
 
@@ -114,8 +104,6 @@
 
 - [YApi #Project#](https://github.com/YMFE/yapi): YApi 是一个可本地部署的、打通前后端及 QA 的、可视化的接口管理平台。
 
-# Cache
-
 # Auth
 
 ## SSO
@@ -124,10 +112,4 @@
 
 - [Apereo CAS #Project#](https://github.com/apereo/cas): Enterprise Single Sign On for all earthlings and beyond.
 
-# Push
-
-- [iot_push #Project#](https://github.com/1ssqq1lxr/iot_push): 基于 netty+mqtt 3.1.1 协议开发的物联网消息推送框架。
-
-# Cron
-
-- [Dkron #Project#](https://github.com/victorcoder/dkron): Distributed, fault tolerant job scheduling system
+- [2018-sso #Project#](https://github.com/buzzfeed/sso): Ovingly known as the S.S. Octopus or octoboi — is the authentication and authorization system BuzzFeed developed to provide a secure, single sign-on experience for access to the many internal web apps used by our employees.

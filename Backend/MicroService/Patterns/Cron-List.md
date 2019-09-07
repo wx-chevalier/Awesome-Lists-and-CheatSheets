@@ -13,3 +13,5 @@
 - [Agenda #Project#](https://github.com/agenda/agenda): Lightweight job scheduling for Node.js, Mongo backed persistence layer.
 
 - [minicron #Project#](https://github.com/jamesrwhite/minicron): Monitor your cron jobs
+
+- [Dkron #Project#](https://github.com/victorcoder/dkron): Distributed, fault tolerant job scheduling system
