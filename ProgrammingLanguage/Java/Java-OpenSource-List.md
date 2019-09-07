@@ -65,19 +65,23 @@
 
 - [concurrency-limits #Project#](https://github.com/Netflix/concurrency-limits): Java Library that implements and integrates concepts from TCP congestion control to auto-detect concurrency limits to achieve optimal throughput with optimal latency.
 
-# Storage | 数据存储
+## Storage | 数据存储
+
+### JDBC
+
+- [Commons DbUtils: JDBC Utility Component #Project#](http://commons.apache.org/proper/commons-dbutils/): The Commons DbUtils library is a small set of classes designed to make working with JDBC easier.
+
+- [HikariCP #Project#](https://github.com/brettwooldridge/HikariCP): 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
 
 - [sql2o #Project#](https://github.com/aaberg/sql2o): sql2o is a small library, which makes it easy to convert the result of your sql-statements into objects. No resultset hacking required. Kind of like an orm, but without the sql-generation capabilities. Supports named parameters.
 
-- [Spark #Project#](http://sparkjava.com/): A micro framework for creating web applications in Kotlin and Java 8 with minimal effort.
-
-## Database
-
-- [Lettuce #Project#](https://github.com/lettuce-io/lettuce-core): Lettuce is a scalable thread-safe Redis client for synchronous, asynchronous and reactive usage. Multiple threads may share one connection if they avoid blocking and transactional operations such as BLPOP and MULTI/EXEC.
-
 - [Speedment #Project#](https://github.com/speedment/speedment): Speedment is an open source Java Stream ORM toolkit and runtime. The toolkit analyzes the metadata of an existing SQL database and automatically creates a Java representation of the data model.
 
-- [HikariCP #Project#](https://github.com/brettwooldridge/HikariCP): 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
+- [jOOQ #Project#](http://www.jooq.org/): jOOQ generates Java code from your database and lets you build type safe SQL queries through its fluent API.
+
+### Redis
+
+- [Lettuce #Project#](https://github.com/lettuce-io/lettuce-core): Lettuce is a scalable thread-safe Redis client for synchronous, asynchronous and reactive usage. Multiple threads may share one connection if they avoid blocking and transactional operations such as BLPOP and MULTI/EXEC.
 
 ### MyBatis
 
@@ -90,8 +94,6 @@
 * [mybatis-multi-tenancy #Project#](https://github.com/Mearalu/mybatis-multi-tenancy): 这是一个 mybatis 的基于共享数据表模式的多租户插件
 
 - [mybatis-plus #Project#](https://github.com/baomidou/mybatis-plus): An powerful enhanced toolkit of MyBatis for simplify development.
-
-### Hibernate
 
 # Web Development
 
