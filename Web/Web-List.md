@@ -16,9 +16,9 @@
 
 - [2017-What is the Future of Front End Web Development?](https://parg.co/bJr): What websites are being asked to do is rising. Developers are being asked to build very complicated things very quickly and have them work very well and very fast.
 
-## History 
+## History
 
-- [2019-前端开发 20 年变迁史](https://mp.weixin.qq.com/s/cDsYO1AsYXOjZVpSwBq2HA): 我们经历了前端的洪荒时代、Prototype时代、jQuery时代 、后jQuery时期、三大框架割据时代，这其中均是由国外开发者主导，直到如今的小程序时代，才是中国开发者独创的。
+- [2019-前端开发 20 年变迁史](https://mp.weixin.qq.com/s/cDsYO1AsYXOjZVpSwBq2HA): 我们经历了前端的洪荒时代、Prototype 时代、jQuery 时代 、后 jQuery 时期、三大框架割据时代，这其中均是由国外开发者主导，直到如今的小程序时代，才是中国开发者独创的。
 
 ## Front-end Leader | 领袖意见
 
@@ -42,7 +42,13 @@
 
 ## Showcase
 
-- [Real World #Project#](https://github.com/gothinkster/realworld): RealWorld solves this by allowing you to choose any frontend (React, Angular 2, & more) and any backend (Node, Django, & more) and see how they power a real world, beautifully designed fullstack app called "Conduit".
+- [2015-todomvc #Project#](https://github.com/tastejs/todomvc): Helping you select an `MV*` framework - Todo apps for React.js, Ember.js, Angular, and many more.
+
+- [2015-Real World #Project#](https://github.com/gothinkster/realworld): RealWorld solves this by allowing you to choose any frontend (React, Angular 2, & more) and any backend (Node, Django, & more) and see how they power a real world, beautifully designed fullstack app called "Conduit".
+
+* [ui-element-samples #Project#](https://github.com/GoogleChrome/ui-element-samples): A collection of UI element samples written with vanilla web platform features.
+
+* [fbjs #Project#](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
 
 # Meetings
 

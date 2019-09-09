@@ -20,6 +20,8 @@
 
 - [xg2xg #Project#](https://github.com/jhuangtw-dev/xg2xg): by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 
+- [2019-Google Engineering Practices Documentation](https://github.com/google/eng-practices): Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time. It is possible that open source projects or other organizations would benefit from this knowledge, so we work to make it available publicly when possible.
+
 # 美团
 
 - [晓明-美团点评技术团队-常见性能优化策略的总结](http://tech.meituan.com/performance_tunning.html)
