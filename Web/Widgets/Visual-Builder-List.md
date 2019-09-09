@@ -32,6 +32,6 @@
 
 - [React Form Builder #Project#](https://github.com/blackjk3/react-form-builder): A complete react form builder that interfaces with a json endpoint to load and save generated forms. The toolbox contains 16 items for gathering data. Everything from star ratings to signature boxes!
 
-# Materials
+# Materials | 物料
 
 - [ICE #Project#](https://github.com/alibaba/ice): 飞冰 - 海量可复用物料，通过 GUI 工具极速构建中后台应用。
