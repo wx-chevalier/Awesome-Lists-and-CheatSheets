@@ -62,6 +62,8 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 - [google-interview-university](https://github.com/jwasham/google-interview-university#recursion)
 
+- [2019-Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook): This repository has practical content that covers all phases of a technical interview, from applying for a job to passing the interviews to offer negotiation. Technically competent candidates might still find the non-technical content helpful as well.
+
 # Programming Language | 编程语言
 
 - [Exercism](http://exercism.io/): Exercism gives you hundreds of practice problems in over 30 programming languages, and a place where you can get feedback on your solutions.
