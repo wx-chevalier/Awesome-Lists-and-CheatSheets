@@ -6,17 +6,19 @@
 
 ## Spin | 自旋式加载中
 
-- [css-loaders](https://github.com/lukehaas/css-loaders)
+- [css-loaders #Project#](https://github.com/lukehaas/css-loaders)
 
-- [SpinKit](https://github.com/tobiasahlin/SpinKit):A collection of loading indicators animated with CSS,IE8 Support
+- [SpinKit #Project#](https://github.com/tobiasahlin/SpinKit): A collection of loading indicators animated with CSS,IE8 Support
 
-- [loaders.css](https://github.com/ConnorAtherton/loaders.css)
+- [loaders.css #Project#](https://github.com/ConnorAtherton/loaders.css)
 
 ## Skeleton | 骨骼式加载中
 
+- [react-content-loader #Project#](https://github.com/danilowoz/react-content-loader): React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders.
+
 # Progress | 进度条
 
-- [Elastic Progress](https://github.com/codrops/ElasticProgress)
+- [Elastic Progress #Project#](https://github.com/codrops/ElasticProgress)
 
 # Popover | 气泡卡片
 
@@ -28,6 +30,6 @@
 
 # Notification | 通知提醒框
 
-# Comment 
+# Comment
 
 - [Talk #Project#](https://github.com/coralproject/talk): Our open-source commenting platform, Talk, rethinks how moderation, comment display, and conversation function, creating the opportunity for safer, smarter discussions around your work.

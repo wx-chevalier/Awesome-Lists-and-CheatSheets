@@ -42,6 +42,8 @@
 
 ## Showcases
 
+- [2016-zheng #Project#](https://gitee.com/shuzheng/zheng): 基于 Spring+SpringMVC+Mybatis 分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位 J2EE 企业级开发解决方案。
+
 - [mall #Project#](https://github.com/macrozheng/mall): mall 项目是一套电商系统，包括前台商城系统及后台管理系统，基于 SpringBoot+MyBatis 实现。
 
 - [mall4j #Project#](https://gitee.com/gz-yami/mall4j): 一个基于 spring boot、spring oauth2.0、mybatis、redis 的轻量级、前后端分离、防范 xss 攻击、拥有分布式锁，为生产环境多实例完全准备，数据库为 b2b2c 设计，拥有完整 sku 和下单流程的完全开源商城

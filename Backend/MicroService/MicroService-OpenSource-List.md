@@ -24,7 +24,11 @@
 
 ## Long Connection Gateway
 
-- [iot_push #Project#](https://github.com/1ssqq1lxr/iot_push): 基于 netty+mqtt 3.1.1 协议开发的物联网消息推送框架。
+- [2015-CometD #Project](https://github.com/cometd/cometd): The CometD project, a scalable comet (server push) implementation for web messaging.
+
+- [2016-deepstream #Project#](https://github.com/deepstreamIO/deepstream.io): deepstream is an open source server inspired by concepts behind financial trading technology. It allows clients and backend services to sync data, send messages and make rpcs at very high speed and scale.
+
+- [2017-iot_push #Project#](https://github.com/1ssqq1lxr/iot_push): 基于 netty + mqtt 3.1.1 协议开发的物联网消息推送框架。
 
 ## API Automation
 
