@@ -226,6 +226,20 @@
 
 - [MathPix](https://mathpix.com): Take a screenshot of math and paste the LaTeX into your editor, all with a single keyboard shortcut.
 
+# IDE
+
+## Online IDE
+
+- [code-server #Project#](https://github.com/cdr/code-server): code-server is VS Code running on a remote server, accessible through the browser.
+
+- [Eclipse Theia #Project#](https://www.theia-ide.org/): Eclipse Theia is an extensible platform to develop multi-language Cloud & Desktop IDEs with state-of-the-art web technologies.
+
+- [Monaco Editor #Project#](https://github.com/Microsoft/monaco-editor): The Monaco Editor is the code editor which powers VS Code, with the features better described here.
+
+## Playground
+
+- [RunKit #Project#](https://runkit.com/home): RunKit notebooks completely remove the friction of trying new ideas.
+
 # Self-hosted Service
 
 - [URL to PDF Microservice](https://github.com/alvarcarto/url-to-pdf-api): Web page PDF rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
