@@ -8,6 +8,8 @@
 
 - [stanford-cs-221-artificial-intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence): VIP cheatsheets for Stanford's CS 221 Artificial Intelligence
 
+- [2019-微软人工智能教育与学习共建社区](https://github.com/microsoft/ai-edu): 本社区是微软亚洲研究院（Microsoft Research Asia，简称 MSRA）人工智能教育团队创立的人工智能教育与学习共建社区。在教育部指导下，依托于新一代人工智能开放科研教育平台，微软亚洲研究院研发团队和学术合作部将为本社区提供全面支持。我们将在此提供人工智能应用开发的真实案例，以及配套的教程、工具等学习资源，人工智能领域的一线教师及学习者也将分享他们的资源与经验。
+
 # DataScience & Statistics
 
 - [Virgilio #Course#](https://github.com/virgili0/Virgilio): Your new Mentor for Data Science E-Learning.

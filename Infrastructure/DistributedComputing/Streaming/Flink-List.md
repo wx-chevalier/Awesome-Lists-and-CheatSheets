@@ -10,9 +10,11 @@
 
 ## Case Study | 案例分析
 
+- [2019-滴滴实时计算发展之路及平台架构实践](https://mp.weixin.qq.com/s/NGeukit_TpwD4_opIZRb-Q): 滴滴的核心业务是一个实时在线服务，因此具有丰富的实时数据和实时计算场景。本文将介绍滴滴实时计算发展之路以及平台架构实践。
+
 # Resource
 
-## Series 
+## Series
 
 - [Madhukara Phatak:某个大数据咨询师的博客](http://blog.madhukaraphatak.com/)
 

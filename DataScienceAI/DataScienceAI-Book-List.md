@@ -28,7 +28,7 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 * [2018-AI 算法工程师手册 #Book#](http://www.huaxiaozhuan.com/): 这是作者多年以来学习总结的笔记，经整理之后开源于世。目前还有约一半的内容在陆续整理中，已经整理好的内容放置在此。
 
-- [2019-Math Basics #Book#](http://117.128.6.20/cache/www.cis.upenn.edu/~jean/math-basics.pdf): 
+- [2019-Math Basics #Book#](http://117.128.6.20/cache/www.cis.upenn.edu/~jean/math-basics.pdf):
 
 # Machine Learning | 机器学习
 
