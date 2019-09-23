@@ -8,7 +8,7 @@
 
 # Resources
 
-## Books
+## Book
 
 - [Serverless 应用开发指南 #Book#](https://serverless.ink/): Serverless 架构是指大量依赖第三方服务（也叫做后端即服务，即“BaaS”）或暂存容器中运行的自定义代码（函数即服务，即“FaaS”）的应用程序。
 

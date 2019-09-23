@@ -36,7 +36,11 @@
 
 - [2017-Cracking Codes with Python #Book#](https://inventwithpython.com/cracking/): Cracking Codes with Python teaches complete beginners how to program in the Python programming language.
 
-- [2019-Python - 100 天从新手到大师 #Series#](https://github.com/jackfrued/Python-100-Days)
+- [2019-Python 100 天从新手到大师 #Series#](https://github.com/jackfrued/Python-100-Days)
+
+## Course
+
+- [c9-python-getting-started #Course#](https://github.com/microsoft/c9-python-getting-started): The series of videos on Channel 9 is designed to help get you up to speed on Python.
 
 # Tutoria | 教程
 
