@@ -1,12 +1,32 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
 
-# Web Performance Optimization for Page Rendering
+# Web Render Tuning List
 
-前端优化的根本目的是为了有一个更好地用户体验的同时尽可能减少后端负载压力。即保证更少的加载时间、更快的首屏渲染、更流畅的用户交互。鉴于本文篇幅较长，因此拆分为了[第一部分](.Web-Performance-List.md)与[第二部分](./Web-Performance-List.2.md)。
+- [2019-Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web): The differences between these approaches help illustrate the trade-offs of rendering on the web through the lens of performance.
 
 # Rendering Mechanism | 渲染机制
 
 - [2017-Pulling Back The Curtains on Your Stylesheets](https://medium.freecodecamp.org/its-not-dark-magic-pulling-back-the-curtains-from-your-stylesheets-c8d677fa21b2): My talk (and this post) will focus on the why by taking a deep dive into browser internals to see how our styles are parsed and rendered.
+
+- [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
+
+- [浅析渲染引擎与前端优化](http://jdc.jd.com/archives/2806)
+
+- [浏览器工作原理](https://segmentfault.com/a/1190000004934730)
+
+- [从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen/)
+
+- [CSDN-开发者应该知道的有关于网页渲染的事](http://www.csdn.net/article/2015-06-12/2824946)
+
+- [JS 一定要放在 Body 的最底部么？聊聊浏览器的渲染机制](http://delai.me/code/js-and-performance/)
+
+- [how-browsers-work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
+
+- [the-rendering-process-of-a-web-page](https://medium.com/@gneutzling/the-rendering-process-of-a-web-page-78e05a6749dc#.zdp2moezo)
+
+- [应该知道的前端性能二三事：Reflow 和 Repaint](http://www.tuicool.com/articles/UvYBfy)
+
+- [2018-How browser rendering works — behind the scenes](https://parg.co/d3A): The purpose of this article is to explain, in very simple terms, the steps your browser takes to convert HTML, CSS and JavaScript into a working website you can interact with.
 
 # Scripting | 脚本解析与执行
 

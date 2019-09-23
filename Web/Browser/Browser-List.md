@@ -2,28 +2,6 @@
 
 # Browser List | 浏览器相关学习与资料索引
 
-# Browser Rendering | 浏览器渲染
-
-- [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
-
-- [浅析渲染引擎与前端优化](http://jdc.jd.com/archives/2806)
-
-- [浏览器工作原理](https://segmentfault.com/a/1190000004934730)
-
-- [从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen/)
-
-- [CSDN-开发者应该知道的有关于网页渲染的事](http://www.csdn.net/article/2015-06-12/2824946)
-
-- [JS 一定要放在 Body 的最底部么？聊聊浏览器的渲染机制](http://delai.me/code/js-and-performance/)
-
-- [how-browsers-work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
-
-- [the-rendering-process-of-a-web-page](https://medium.com/@gneutzling/the-rendering-process-of-a-web-page-78e05a6749dc#.zdp2moezo)
-
-- [应该知道的前端性能二三事：Reflow 和 Repaint](http://www.tuicool.com/articles/UvYBfy)
-
-- [2018-How browser rendering works — behind the scenes](https://parg.co/d3A): The purpose of this article is to explain, in very simple terms, the steps your browser takes to convert HTML, CSS and JavaScript into a working website you can interact with.
-
 # Browser Feature Detection | 浏览器特征检测
 
 - [天猫双 11 前端分享系列(七)：如何精确识别终端](https://github.com/tmallfe/tmallfe.github.io/issues/32)
