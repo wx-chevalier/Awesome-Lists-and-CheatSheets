@@ -12,7 +12,7 @@
 
 # Resources
 
-## Books
+## Book
 
 - [2005-The Grammar of Graphics (Statistics and Computing) #Book#](https://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448): This fascinating book deconstructs the process of producing graphics and in doing so raises many fascinating questions on the nature and representation of information
 

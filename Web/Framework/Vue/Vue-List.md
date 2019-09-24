@@ -32,7 +32,7 @@
 
 # Resource
 
-## Books | 书籍
+## Book | 书籍
 
 - [2018-The Vue Handbook #Project#](https://vuehandbook.com/): It targets beginners, covering the 20% that makes you accomplish the 80% of the job. It’s not a definitive guide to Vue, but it can be helpful when you are starting out.
 
@@ -50,6 +50,6 @@
 
 - [Vue 2 中的权限验证指南](https://auth0.com/blog/vuejs2-authentication-tutorial/)：本文介绍了如何快速构建 Vue 2 应用程序并且添加合适的权限验证模块。本文首先介绍了 Vue、Angular 以及 React 之间设计思想的对比，然后介绍了 Vue 2.0 中的核心概念与基本用法，最后以某个真实的登录控制案例介绍了如何为 Vue 应用中添加权限验证功能。
 
-# Interview 
+# Interview
 
 - [2019-vue 248+个知识点（面试题）为你保驾护航](https://zhuanlan.zhihu.com/p/71229672)

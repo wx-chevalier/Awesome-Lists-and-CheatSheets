@@ -22,6 +22,6 @@
 
 - [受用不尽的 Gradle 使用方法与技巧](http://www.tuicool.com/articles/i2Ijiin)
 
-## Books
+## Book
 
 - [Gradle 实战](https://lippiouyang.gitbooks.io/gradle-in-action-cn/content/index.html)

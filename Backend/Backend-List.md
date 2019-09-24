@@ -24,7 +24,7 @@
 
 # Resources
 
-## Books & Series
+## Book & Series
 
 - [2016-架构师特刊-微服务与 DevOps 技术内参 #Book#](http://q.infoqstatic.com/ppt/Microservice&DevOps.pdf)
 

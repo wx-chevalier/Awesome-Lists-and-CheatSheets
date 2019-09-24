@@ -12,7 +12,7 @@
 
 # Resources
 
-## Books
+## Book
 
 - [2003-Martin Fowler-Patterns of Enterprise Application Architecture #Book#](https://martinfowler.com/books/eaa.html): This book started after Dave Rice and I gave some talks on J2EE architecture and mulled over how the concepts we had learned in C++, Forte, CORBA, and Smalltalk had been crucial to us developing good designs in Java.
 

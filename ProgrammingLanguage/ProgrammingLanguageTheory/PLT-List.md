@@ -30,7 +30,7 @@
 
 - [2016-History of Programming Languages, Spring '17 Edition #Course#](https://github.com/nuprl/hopl-s2017):The primary goal is to understand (some of) the discipline as it exists today and how some of its major themes evolved. Initially, the seminar will focus on themes that NUPRL faculty members have developed over the many decades of their careers. The choice of other themes will depend on students’ interests and preferences. The secondary goal is to develop basic skills for understanding and describing research themes. Every student will learn to study a theme via a series of papers, prepare an annotated bibliography, and present the key steps in the evaluation of the theme.
 
-## Books
+## Book
 
 - [2013-Tim Stuart-Understanding Computation #Book#](http://computationbook.com/): You can learn computation theory and programming language design in an engaging, practical way. Understanding Computation explains theoretical computer science in a context you'll recognize, helping you appreciate why these ideas matter and how they can inform your day-to-day programming.
 

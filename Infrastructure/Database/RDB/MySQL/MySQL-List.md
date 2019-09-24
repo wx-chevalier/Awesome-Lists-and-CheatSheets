@@ -12,7 +12,7 @@
 
 # Resource
 
-## Books
+## Book
 
 - [2017-MySQL 学习笔记 #Book#](http://notes.diguage.com/mysql/)
 
