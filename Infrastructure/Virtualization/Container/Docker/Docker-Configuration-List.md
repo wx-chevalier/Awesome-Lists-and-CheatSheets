@@ -50,6 +50,8 @@
 
 - [Docker Security CheatSheet](https://parg.co/d6b): The following tips should help you to secure a container based system.
 
+- [2019-Docker 容器安全的“终极武器” AIM](https://mp.weixin.qq.com/s/i9lMWgST6ZdRGxau5hGt9g): 我们需要关注 Docker 中的安全问题吗？这个得具体分析。Docker 拥有相当强大的安全保障能力，因此如果大家只使用官方 Docker 镜像而且不需要进行机器间通信，就完全没必要为安全而担心。
+
 ## Optimization
 
 - [2017-Tips to Reduce Docker Image Sizes](https://parg.co/beS): Docker images can easily get to 2–3GB. Here’s some tips that can help reduce their sizes.
