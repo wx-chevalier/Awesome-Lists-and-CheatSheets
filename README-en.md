@@ -10,7 +10,7 @@ Everyone may be very familiar with the so-called awesome list:
 
 > An awesome list is a list of awesome things curated by the community, about everything from CLI applications to fantasy books. Just like other thousands of awesome lists,
 
-[Awesome Lists](https://github.com/wx-chevalier/Awesome-List/blob/master/README-en.md) collects curated, worthy and up-to-date links for ITCS, including Programming Language(Java, JavaScript, Python, Go, Rust, etc.), Software Engineering, Backend(Spring, Nginx, MicroServices, etc.), Infrastructure(Database, Network, etc.), InfoSecurity & Penetration, Industrial Application, DataScienceAI(Statistics, Machine Learning, Deep Learning, NLP, CV), Frontend Technology(iOS, Android, RN, Electron), etc. Note that I've attempted to order the books in order of most "tackleable". So the idea is to read books from top to bottom.
+[Awesome Lists](https://github.com/wx-chevalier/Awesome-List/blob/master/README-en.md) collects curated, worthy and up-to-date links for ITCS, including Programming Language(Java, JavaScript, Python, Go, Rust, etc.), Software Engineering, Backend(Spring, Nginx, MicroServices, etc.), Infrastructure(Database, Network, etc.), InfoSecurity & Penetration, Industrial Application, DataScienceAI(Statistics, Machine Learning, Deep Learning, NLP, CV), Frontend Technology(iOS, Android, RN, Electron), etc. Note that I've attempted to order the books in order of most "tackleable". So the idea is to read books from top to bottom.
 
 What's the difference between [Awesome Lists](./) and others?
 

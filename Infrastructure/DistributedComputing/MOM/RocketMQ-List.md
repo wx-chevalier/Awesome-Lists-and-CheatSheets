@@ -18,7 +18,7 @@
 
 - [2017-YunaiV RocketMQ 源码解析系列文章 #Series#](https://github.com/YunaiV/Blog/tree/master/RocketMQ)
 
-# Internals
+# Internals
 
 - [2016-分布式开放消息系统 (RocketMQ) 的原理与实践](http://www.jianshu.com/p/453c6e7ff81c)
 
