@@ -10,6 +10,6 @@
 
 - [2018-Pytorch模型训练实用教程](https://github.com/tensor-yu/PyTorch_Tutorial)
 
-# Tutorials 
+# Tutorial 
 
 - [用PyTorch创建一个图像分类器？](https://zhuanlan.zhihu.com/p/52838751): 学习完了如何加载预训练神经网络，下面就让我们来看看如何训练分类器吧！

@@ -44,7 +44,7 @@
 
 - [2017-Profiling Java Programs With VisualVM](https://parg.co/UuX)
 
-- [2017-What is VisualVM? How to Use VisualVM, Benefits, Tutorials and More](https://stackify.com/what-is-visualvm/)
+- [2017-What is VisualVM? How to Use VisualVM, Benefits, Tutorial and More](https://stackify.com/what-is-visualvm/)
 
 ## AOP Dynamic Tracing
 

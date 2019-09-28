@@ -22,7 +22,7 @@
 
 - Spring 中文文档系列：[Spring MVC 4.2.4.RELEASE 中文文档](https://spring-mvc.linesh.tw/)，[Spring Framework 5 中文文档](https://lfvepclr.gitbooks.io/spring-framework-5-doc-cn/content/)，[Spring Framework 中文文档](https://www.docs4dev.com/docs/zh/spring-framework/5.1.3.RELEASE/reference)
 
-## Courses
+## Course
 
 - [2018-The "REST with Spring" Classes #Course#](https://github.com/eugenp/tutorials): This project is a collection of small and focused tutorials - each covering a single and well defined area of development in the Java ecosystem. A strong focus of these is, of course, the Spring Framework - Spring, Spring Boot and Spring Securiyt. In additional to Spring, the following technologies are in focus: core Java, Jackson, HttpClient, Guava.
 
@@ -40,7 +40,7 @@
 
 * [2018-Spring Boot 实现原理与源码解析系统 #Series#](http://www.iocoder.cn/Spring-Boot/good-collection/?title)
 
-## Showcases
+## Showcase
 
 - [2016-zheng #Project#](https://gitee.com/shuzheng/zheng): 基于 Spring+SpringMVC+Mybatis 分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位 J2EE 企业级开发解决方案。
 
@@ -54,6 +54,6 @@
 
 - [hope-boot #Project#](https://github.com/hope-for/hope-boot): 一款现代化的脚手架项目。企业开发？接外包？赚外快？还是学习？这都能满足你，居家必备，值得拥有 🍻
 
-# Tutorials
+# Tutorial
 
 - [2017-Docker + Spring Boot Microservice (with Gradle)](https://parg.co/bhg): Step-by-step tutorial on how to create a Spring Boot Microservice and wrap it up using Docker for simple, better and safer deployments of redundant APIs.

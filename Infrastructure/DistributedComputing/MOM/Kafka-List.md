@@ -20,7 +20,7 @@
 
 - [Awesome Kafka](https://github.com/infoslack/awesome-kafka#books)
 
-# Tutorials
+# Tutorial
 
 - [Kafka 实战 —— 简单实例](http://www.cnblogs.com/smartloli/p/4543211.html)
 

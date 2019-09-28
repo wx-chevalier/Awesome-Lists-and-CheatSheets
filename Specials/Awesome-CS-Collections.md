@@ -70,7 +70,7 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 - [Freely available programming books](https://github.com/EbookFoundation/free-programming-books): List of Free Learning Resources
 
-- [Hackr](https://hackr.io/): Find the Best Programming Courses & Tutorials
+- [Hackr](https://hackr.io/): Find the Best Programming Course & Tutorial
 
 - [The Coding Train](https://www.youtube.com/user/shiffman/about): Subjects covered range from the basics of programming languages like JavaScript (with p5.js) and Java (with Processing) to generative algorithms like physics simulation, computer vision, and data visualization.
 

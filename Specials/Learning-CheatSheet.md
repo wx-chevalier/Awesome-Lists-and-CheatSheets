@@ -69,7 +69,7 @@
 
 # Collection: 资源合集
 
-- [Computer Science Video Courses #Collection#](https://github.com/Developer-Y/cs-video-courses): 计算机科学与技术的系列视频搜集
+- [Computer Science Video Course #Collection#](https://github.com/Developer-Y/cs-video-courses): 计算机科学与技术的系列视频搜集
 
 - [Papers We Love #Collection#](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
 

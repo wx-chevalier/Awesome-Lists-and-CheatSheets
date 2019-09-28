@@ -16,7 +16,7 @@ What's the difference between [Awesome Lists](./) and others?
 
 - All lists are organized in a systematic and structured way, keep to my Ultimate Knowledge Graph(see below).
 
-- Links in single list are ordered mannualy, seperated into multiple sections: Overview, Resources(Books, Courses, etc), Tutorials, etc.
+- Links in single list are ordered mannualy, seperated into multiple sections: Overview, Resources(Books, Course, etc), Tutorial, etc.
 
 ## Navigation
 

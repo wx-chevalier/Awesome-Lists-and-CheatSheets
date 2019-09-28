@@ -2,7 +2,7 @@
 
 # DataScienceAI Python
 
-- [11 IPython Tutorials for Data Science and Machine Learning](http://6me.us/xq2OgY): This is a collection of 10 great GitHub repositories focusing on IPython, TensorFlow, Theano and related topics, for data scientists. The last one is not on GitHub.
+- [11 IPython Tutorial for Data Science and Machine Learning](http://6me.us/xq2OgY): This is a collection of 10 great GitHub repositories focusing on IPython, TensorFlow, Theano and related topics, for data scientists. The last one is not on GitHub.
 
 # Matplotlib
 

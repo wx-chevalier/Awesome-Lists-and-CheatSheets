@@ -114,7 +114,7 @@
 
 ## Java 8
 
-- [2017-Java 8 Tutorials](https://www.mkyong.com/tutorials/java-8-tutorials/): Some Java 8 examples, hope you like it.
+- [2017-Java 8 Tutorial](https://www.mkyong.com/tutorials/java-8-tutorials/): Some Java 8 examples, hope you like it.
 
 - [2017-Java 8 Top Tips by Jetbrains](https://blog.jetbrains.com/idea/2016/07/java-8-top-tips/)
 

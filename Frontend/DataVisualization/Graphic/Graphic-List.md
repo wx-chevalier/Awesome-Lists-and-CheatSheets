@@ -32,7 +32,7 @@
 
 * [selva3d](http://app.selva3d.com/transform)
 
-- [HTML5 Canvas Tutorials #Series#](https://www.html5canvastutorials.com/): Here you will find the best tutorials and resources to learn Canvas and other HTML5 aspects.
+- [HTML5 Canvas Tutorial #Series#](https://www.html5canvastutorials.com/): Here you will find the best tutorials and resources to learn Canvas and other HTML5 aspects.
 
 # WebGL
 
