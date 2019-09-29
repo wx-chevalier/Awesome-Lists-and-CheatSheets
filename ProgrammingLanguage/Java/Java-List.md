@@ -108,13 +108,13 @@
 
 - [2016-Java 问题定位](http://blog.csdn.net/wodeyuer125/article/details/50557168)
 
-- [Top 10 Java Blogs for Programmers of All Levels](https://stackify.com/java-blogs-for-programmers-of-all-levels/): All over the world, Java professionals are posting daily about new findings or new feature functions. Unfortunately, blogs can also provide some not so great insight and perspective.
+- [Top 10 Java Blog for Programmers of All Levels](https://stackify.com/java-blogs-for-programmers-of-all-levels/): All over the world, Java professionals are posting daily about new findings or new feature functions. Unfortunately, blogs can also provide some not so great insight and perspective.
 
 # Tutorial
 
 ## Java 8
 
-- [2017-Java 8 Tutorials](https://www.mkyong.com/tutorials/java-8-tutorials/): Some Java 8 examples, hope you like it.
+- [2017-Java 8 Tutorial](https://www.mkyong.com/tutorials/java-8-tutorials/): Some Java 8 examples, hope you like it.
 
 - [2017-Java 8 Top Tips by Jetbrains](https://blog.jetbrains.com/idea/2016/07/java-8-top-tips/)
 

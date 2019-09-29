@@ -10,7 +10,7 @@
 
 - [MyBatis 实现原理与源码解析系统 #Series#](http://www.iocoder.cn/MyBatis/good-collection/?title)
 
-# Tutorials | 开发使用
+# Tutorial | 开发使用
 
 - [MyBatis 3 自动生成 主键 针对不同的数据库(oracle/sqlserver/mysql)](http://www.cnblogs.com/yuanermen/archive/2013/04/02/2995920.html)
 

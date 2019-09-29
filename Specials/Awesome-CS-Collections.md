@@ -14,7 +14,7 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 - Online Books: [Gitbook](https://www.gitbook.com/), [SafariBooksOnline](https://www.safaribooksonline.com/)
 
-- Blogs: [Medium](https://medium.com), [开发者头条](https://toutiao.io), [掘金](https://gold.xitu.io/), [CSDN](http://www.csdn.net/), [freeCodeCamp Guide](https://guide.freecodecamp.org/agile)
+- Blog: [Medium](https://medium.com), [开发者头条](https://toutiao.io), [掘金](https://gold.xitu.io/), [CSDN](http://www.csdn.net/), [freeCodeCamp Guide](https://guide.freecodecamp.org/agile)
 
 - Q & A Community: [StackOverflow](https://stackoverflow.com/), [SegmentFault](https://segmentfault.com/)
 
@@ -70,7 +70,7 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 - [Freely available programming books](https://github.com/EbookFoundation/free-programming-books): List of Free Learning Resources
 
-- [Hackr](https://hackr.io/): Find the Best Programming Courses & Tutorials
+- [Hackr](https://hackr.io/): Find the Best Programming Course & Tutorial
 
 - [The Coding Train](https://www.youtube.com/user/shiffman/about): Subjects covered range from the basics of programming languages like JavaScript (with p5.js) and Java (with Processing) to generative algorithms like physics simulation, computer vision, and data visualization.
 
@@ -128,7 +128,7 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 - 在线编程：[LeetCode](https://leetcode.com/)、[Project Euler](https://projecteuler.net/)、[CodingGame](https://www.codingame.com/start)、[Kaggle](https://www.kaggle.com/)、[Topcoder](https://www.topcoder.com/)、牛客网、[HackerRank](https://www.hackerrank.com/)、[JS Fight](https://jsfight.club/)
 - 大厂风范：[MSDN](https://msdn.microsoft.com/zh-cn)、[Google 开发者](https://developers.google.cn/)、[云栖社区](https://yq.aliyun.com/)、[IBM DeveloperWorks](http://www.ibm.com/developerworks/)、[Facebook AI Research ](https://research.fb.com/ai-helps-facebooks-internet-drones-find-where-the-people-are/)、[Facebook](https://code.facebook.com/posts/)、[airbnb](http://nerds.airbnb.com/)
 
-# Blogs & Community
+# Blog & Community
 
 # Online Coding
 

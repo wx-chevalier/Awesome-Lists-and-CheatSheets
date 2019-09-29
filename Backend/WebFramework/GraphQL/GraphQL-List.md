@@ -54,7 +54,7 @@ This file aggregates curated popular links for learning GraphQL. More reference 
 
 - [2018-基于 SPA 架构的 GraphQL 工程实践](https://parg.co/oIZ)
 
-# Tutorials
+# Tutorial
 
 - [2017-A Front End Developer’s Guide to GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/): In this post, we’ll walk through a couple of hands-on examples to show you how integrating GraphQL into your application will solve many pain points working with remote data.
 

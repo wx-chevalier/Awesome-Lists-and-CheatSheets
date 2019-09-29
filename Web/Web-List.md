@@ -38,7 +38,13 @@
 
 ## Blog | 博客
 
-- [2018-How JavaScript works #Series#](https://blog.sessionstack.com/tagged/tutorial): the series dedicated to exploring JavaScript and its building components. In the process of identifying and describing the core elements, we also share some rules of thumb we use when building SessionStack.
+- [2018-How JavaScript works #Blog#](https://blog.sessionstack.com/tagged/tutorial): the series dedicated to exploring JavaScript and its building components. In the process of identifying and describing the core elements, we also share some rules of thumb we use when building SessionStack.
+
+## Course | 课程
+
+## Meeting
+
+- [2019-第十三届 D2 前端技术论坛精彩回顾 #Meeting#](https://www.yuque.com/d2forum/content/d213): 智能化和渲染技术，可视化技术和工程化技术，开发模式与语言框架。
 
 ## Showcase
 
@@ -50,9 +56,9 @@
 
 * [fbjs #Project#](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
 
-# Meetings
+# Tutorial
 
-- [2019-第十三届 D2 前端技术论坛精彩回顾](https://www.yuque.com/d2forum/content/d213): 智能化和渲染技术，可视化技术和工程化技术，开发模式与语言框架。
+- [The Modern JavaScript Tutorial #Series#](https://github.com/javascript-tutorial/en.javascript.info): This repository hosts the English content of the Modern JavaScript Tutorial, published at https://javascript.info.
 
 # Interview | 面试
 

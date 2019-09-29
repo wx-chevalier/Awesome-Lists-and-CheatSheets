@@ -28,7 +28,7 @@
 
 - [Flink Forward China 2018 Slides](https://github.com/flink-china/flink-forward-china-2018)
 
-# Tutorials
+# Tutorial
 
 - [从 0 到 1 学习 Flink #Series#](https://mp.weixin.qq.com/s/WrDwd1Ca1jMch6ERCpb_FA): Flink 是一种流式计算框架，我自己整理了些 Flink 的学习资料，目前已经全部放到微信公众号了。
 

@@ -34,7 +34,7 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 * [2018-Migrating Medium to React.js and GraphQL](https://www.infoq.com/news/2018/05/medium-reactjs-graphql-migration): making the new system incrementally available to users while not hindering development of new features.
 
-### Showcases
+### Showcase
 
 - [2017-A React TODOs example, explained](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)
 
@@ -72,7 +72,7 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 ## Blog | 博客
 
-- [Overreacted](https://overreacted.io/): Blogs by Dan Abramov.
+- [Overreacted](https://overreacted.io/): Blog by Dan Abramov.
 
 ## Course & Conf | 课程与会议
 

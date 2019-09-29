@@ -14,7 +14,7 @@
 
 - [electron-json-storage #Project#](https://github.com/electron-userland/electron-json-storage): electron-json-storage implements an API somehow similar to localStorage to write and read JSON objects to/from the operating system application data directory.
 
-# Showcases
+# Showcase
 
 - [Manta #Project#](https://github.com/hql287/Manta): A desktop application for creating invoices with beautiful and customizable templates.
 

@@ -22,7 +22,7 @@
 
 ## Showcase
 
-# Tutorials
+# Tutorial
 
 - [2018-Using Google’s Flutter For Truly Cross-Platform Mobile Development](https://www.smashingmagazine.com/2018/06/google-flutter-mobile-development/)
 

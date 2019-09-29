@@ -94,7 +94,7 @@
 
 - [2015-TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples): This tutorial was designed for easily diving into TensorFlow, through examples. For readability, it includes both notebooks and source codes with explanation.
 
-- [2016-Deep Learning Using TensorFlow](https://github.com/anujdutt9/TensorFlow-DeepLearning): This repository contains the code for TensorFlow Tutorials for Deep Learning from Starting to End. All the code is written using Python3.
+- [2016-Deep Learning Using TensorFlow](https://github.com/anujdutt9/TensorFlow-DeepLearning): This repository contains the code for TensorFlow Tutorial for Deep Learning from Starting to End. All the code is written using Python3.
 
 * [2017-Deep Learning 21 Examples](https://github.com/hzy46/Deep-Learning-21-Examples): 本工程是《21 个项目玩转深度学习———基于 TensorFlow 的实践详解》的配套代码，代码推荐的运行环境为：Ubuntu 14.04，Python 2.7、TensorFlow >= 1.4.0。请尽量使用类 UNIX 系统和 Python 2 运行本书的代码。
 
@@ -104,7 +104,7 @@
 
 - [2017-NakedTensor #Project#](https://github.com/jostmey/NakedTensor): Bare bone examples of machine learning in TensorFlow.
 
-* [2018-Deep Learning Using TensorFlow #Project#](https://github.com/anujdutt9/TensorFlow-DeepLearning): This repository contains the code for TensorFlow Tutorials for Deep Learning from Starting to End. All the code is written using Python3.
+* [2018-Deep Learning Using TensorFlow #Project#](https://github.com/anujdutt9/TensorFlow-DeepLearning): This repository contains the code for TensorFlow Tutorial for Deep Learning from Starting to End. All the code is written using Python3.
 
 - [2018-TensorFlow Project Template #Project#](https://github.com/Mrgemy95/TensorFlow-Project-Template): A simple and well designed structure is essential for any Deep Learning project, so after a lot of practice and contributing in tensorflow projects here's a tensorflow project template that combines simplcity, best practice for folder structure and good OOP design.
 

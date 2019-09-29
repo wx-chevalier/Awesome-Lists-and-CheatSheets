@@ -46,7 +46,7 @@
 
 - [2016-Readings in Databases #Collection#](https://github.com/rxin/db-readings): A list of papers essential to understanding databases and building new data systems.
 
-## Courses
+## Course
 
 - [2017-SimpleDB #Project#](https://github.com/iamxpy/SimpleDB): UC Berkeley's Database class CS186: Implement A Simple Database Management System
 
@@ -54,9 +54,9 @@
 
 - [2013-F1: A Distributed SQL Database That Scales #Paper#](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41344.pdf): F1 is a distributed relational database system built at Google to support the AdWords business.
 
-## Case Study 
+## Case Study
 
-- [2019-深度揭秘腾讯云数据库技术的7年变迁史](https://mp.weixin.qq.com/s/GNCEbpVz7hxorBCMRrJ4TQ): 腾讯分布式数据库 TDSQL& 企业级云原生数据库 CynosDB 具有重要的历史节点。接下来，我们将从架构等细节着手，为大家详细介绍这两款数据库背后的技术进阶和研发历程。
+- [2019-深度揭秘腾讯云数据库技术的 7 年变迁史](https://mp.weixin.qq.com/s/GNCEbpVz7hxorBCMRrJ4TQ): 腾讯分布式数据库 TDSQL& 企业级云原生数据库 CynosDB 具有重要的历史节点。接下来，我们将从架构等细节着手，为大家详细介绍这两款数据库背后的技术进阶和研发历程。
 
 # Relational DataBase
 
