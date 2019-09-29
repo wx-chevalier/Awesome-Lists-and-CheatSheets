@@ -75,7 +75,7 @@
 
 * [2017-Awesome Creative Coding #Collection#](https://github.com/terkelg/awesome-creative-coding): Creative coding is a different discipline than programming systems in which the goal is to create something expressive instead of something functional. This is carefully curated list of awesome creative coding resources primarily for beginners/intermediates.
 
-- 博客集锦：[Over 2500 dev blogs dataset](https://github.com/abdelhai/devblogs)、[Awesome Dev Blogs](https://github.com/abdelhai/awesome-dev-blogs)、[Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+- 博客集锦：[Over 2500 dev blogs dataset](https://github.com/abdelhai/devblogs)、[Awesome Dev Blog](https://github.com/abdelhai/awesome-dev-blogs)、[Software Engineering Blog](https://github.com/kilimchoi/engineering-blogs)
 
 - [One-Click-to-Be-Pro 【 Collection】](https://github.com/vic317yeh/One-Click-to-Be-Pro): 质量很高的优秀学习资源收集
 

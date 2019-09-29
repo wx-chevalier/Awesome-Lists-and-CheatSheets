@@ -4,7 +4,7 @@
 
 # Resource
 
-## Blogs
+## Blog
 
 - [Hakim El Hattab](https://lab.hakim.se/meny/): I love to experiment with graphics and interactivity.
 

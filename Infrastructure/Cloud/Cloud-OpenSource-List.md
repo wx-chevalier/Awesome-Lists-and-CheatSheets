@@ -28,6 +28,8 @@
 
 - [Poli #Project#](https://github.com/shzlw/poli): An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
 
+- [Cube.js #Project#](https://github.com/cube-js/cube.js): Open Source Analytics Framework.
+
 ## MPP
 
 - [Presto #Project#](https://prestodb.io/): Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.

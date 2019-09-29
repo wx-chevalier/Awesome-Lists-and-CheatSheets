@@ -72,7 +72,7 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 ## Blog | 博客
 
-- [Overreacted](https://overreacted.io/): Blogs by Dan Abramov.
+- [Overreacted](https://overreacted.io/): Blog by Dan Abramov.
 
 ## Course & Conf | 课程与会议
 
