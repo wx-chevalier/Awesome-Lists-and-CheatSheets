@@ -12,6 +12,8 @@
 
 - [Websocket based group chat app built with socket.io and react.](https://github.com/justadudewhohacks/websocket-chat)
 
+- [2019-马蜂窝 IM 系统架构的演化和升级](https://segmentfault.com/a/1190000019832652): 伴随着业务的快速发展，几年间，马蜂窝 IM 系统也经历了几次比较重要的架构演化和转型。
+
 # Web 实时通信
 
 - [浏览器与服务器的消息通信](http://blog.brucefeng.info/post/brower-server-msg)

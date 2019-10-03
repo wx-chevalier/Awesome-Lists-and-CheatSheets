@@ -12,6 +12,10 @@
 
 - [2019-滴滴实时计算发展之路及平台架构实践](https://mp.weixin.qq.com/s/NGeukit_TpwD4_opIZRb-Q): 滴滴的核心业务是一个实时在线服务，因此具有丰富的实时数据和实时计算场景。本文将介绍滴滴实时计算发展之路以及平台架构实践。
 
+## ChangeLog
+
+- [2019-修改代码150万行！Apache Flink 1.9.0做了这些重大修改！](https://mp.weixin.qq.com/s/Gj76cO5VGQ76R7d7Kc--0Q): 8月22日，Apache Flink 1.9.0 正式发布。早在今年1月，阿里便宣布将内部过去几年打磨的大数据处理引擎Blink进行开源并向 Apache Flink 贡献代码。此次版本在结构上有重大变更，修改代码达150万行，接下来，我们一起梳理 Flink 1.9.0 中非常值得关注的重要功能与特性。
+
 # Resource
 
 ## Series
