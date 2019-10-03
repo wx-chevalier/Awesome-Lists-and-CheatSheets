@@ -22,6 +22,8 @@ Massive & Curated OpenSource Project/Framework/Tool Links, for building great di
 
 - [2018-NATS #Project#](https://github.com/nats-io/nats-server): High-Performance server for NATS, the cloud native messaging system.
 
+- [2018-Waltz #Project#](https://github.com/wepay/waltz): Waltz is a quorum-based distributed write-ahead log for replicating transactions.
+
 # Processing Engine
 
 - [hazelcast-jet #Project#](https://github.com/hazelcast/hazelcast-jet): A general purpose distributed data processing engine, built on top of Hazelcast.
