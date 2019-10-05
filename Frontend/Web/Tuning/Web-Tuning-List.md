@@ -28,11 +28,15 @@
 
 - [2018-Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist): The only Front-End Performance Checklist that runs faster than the others
 
+- [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist#performance-1): The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
+
 ## Case Study | 案例分析
 
 - [美团境外业务性能优化实践](https://zhuanlan.zhihu.com/p/33179166): 本文根据第 16 期美团点评技术线上沙龙 OnLine 演讲内容整理而成。
 
 - [2018-蚂蚁金服如何把前端性能监控做到极致?](https://mp.weixin.qq.com/s/pqFhhb5u6w7gmUutilH5xQ): 将分享如何通过 Performance 相关的 API 准确的采集用户性能数据，并如何通过大数据计算加工最终产出用户性能分析产品，以及如何通过性能数据纵向衡量产品性能、发现性能瓶颈。
+
+- [2017- 美团点评收银台前端可用性保障实践](https://parg.co/ba2)：本文主要讨论的是前端可用性相关话题，以在美团点评移动端网页收银台的实践为例，讲解收银台前端是如何保障可用性的。
 
 ## Resource
 
