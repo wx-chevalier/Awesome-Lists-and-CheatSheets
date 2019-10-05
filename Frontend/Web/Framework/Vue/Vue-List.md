@@ -14,7 +14,7 @@
 
 - [2016-尤雨溪：Vue 2.0，渐进式前端解决方案](https://parg.co/GS1): 前端框架的存在是为了解决什么问题？在众多的框架之中，Vue 独具魅力之处何在？为什么说其背后的核心思想是渐进式？
 
-* [Vue 2.2 完整 API 清单](https://parg.co/bhC)：本文是  Vue 2.2 中完整的 API 介绍，可以作为手册随时查阅。
+- [Vue 2.2 完整 API 清单](https://parg.co/bhC)：本文是  Vue 2.2 中完整的 API 介绍，可以作为手册随时查阅。
 
 - [2017-An overview of Vue.js and the future of the framework](https://parg.co/UmG):  This post is far from being a guide. It’s another timeline attempt on Vue.js in a well-organized way, from the beginning, to what awaits us in version 3.0 of the framework.
 
@@ -28,7 +28,7 @@
 
 - [React or Vue: Which Javascript UI Library Should You Be Using?](https://medium.com/js-dojo/react-or-vue-which-javascript-ui-library-should-you-be-using-543a383608d#.cq7hef3um)
 
-* [面向重度 jQuery 开发者的 Vue 介绍](https://parg.co/bRN)：本文是一位经验丰富的开发者，在将原有的基于 jQuery 工程重构为基于 Vue 工程的过程中总结出的经验与认识介绍。本文首先从零开始介绍如何搭建 Vue 基础项目并且一步一步地实现应用的各种特征，同时还对比了利用 Vue 与 利用 jQuery 实现的差异性以及二者在设计思想上的区别。
+- [面向重度 jQuery 开发者的 Vue 介绍](https://parg.co/bRN)：本文是一位经验丰富的开发者，在将原有的基于 jQuery 工程重构为基于 Vue 工程的过程中总结出的经验与认识介绍。本文首先从零开始介绍如何搭建 Vue 基础项目并且一步一步地实现应用的各种特征，同时还对比了利用 Vue 与 利用 jQuery 实现的差异性以及二者在设计思想上的区别。
 
 # Resource
 
@@ -42,11 +42,11 @@
 
 - [Vue Pokemon Battle Tutorial](https://medium.com/coding-artist/vue-js-pokemon-battle-tutorial-380cd72eb681#.x8wnb4s0f): A very detailed read that goes through the creation of a Pokemon Battle using Vue.
 
-* [基于 Vue 与 DeepStream 构建实时 CRUD 应用](https://scotch.io/tutorials/build-a-realtime-crud-app-with-vue-deepstream)：Vue 是专注于 JavaScript UI 的渐进式库，它提供了开发现代 Web 应用的各种先进的特性。而随着移动互联网的发展，实时技术也愈发重要；各种各样的提供抽象接口的实时服务器扮演着越发重要的作用，其中[DeepStream](https://deepstream.io/) 就是开源的、免费的并且性能表现相当优秀的实时服务器。而本文就利用 Vue 与 DeepStream 这两个开源工具构建实时交互的应用。
+- [基于 Vue 与 DeepStream 构建实时 CRUD 应用](https://scotch.io/tutorials/build-a-realtime-crud-app-with-vue-deepstream)：Vue 是专注于 JavaScript UI 的渐进式库，它提供了开发现代 Web 应用的各种先进的特性。而随着移动互联网的发展，实时技术也愈发重要；各种各样的提供抽象接口的实时服务器扮演着越发重要的作用，其中[DeepStream](https://deepstream.io/) 就是开源的、免费的并且性能表现相当优秀的实时服务器。而本文就利用 Vue 与 DeepStream 这两个开源工具构建实时交互的应用。
 
-* [使用 Vue 与 Electron 构建桌面问卷应用](https://parg.co/bQ3)：本文介绍了如何利用 Vue 与 Electron 来构建简单的桌面问卷应用，作者首先介绍了如何使用 vue-cli 创建简单的 Web 项目，然后讨论了如何将项目运行在 Electron 中，最后阐述了如何将应用整体打包发布。
+- [使用 Vue 与 Electron 构建桌面问卷应用](https://parg.co/bQ3)：本文介绍了如何利用 Vue 与 Electron 来构建简单的桌面问卷应用，作者首先介绍了如何使用 vue-cli 创建简单的 Web 项目，然后讨论了如何将项目运行在 Electron 中，最后阐述了如何将应用整体打包发布。
 
-* [创建基于 Vue 的可复用组件](https://parg.co/b49)：本系列文章关注于如何利用 Vue 创建可复用的组件，每一篇都会讲解某个具体的界面组件，然后一步一步地介绍如何利用 Vue 来实现这些组件，顺便也介绍 Vue 的各种原理与设计准则。
+- [创建基于 Vue 的可复用组件](https://parg.co/b49)：本系列文章关注于如何利用 Vue 创建可复用的组件，每一篇都会讲解某个具体的界面组件，然后一步一步地介绍如何利用 Vue 来实现这些组件，顺便也介绍 Vue 的各种原理与设计准则。
 
 - [Vue 2 中的权限验证指南](https://auth0.com/blog/vuejs2-authentication-tutorial/)：本文介绍了如何快速构建 Vue 2 应用程序并且添加合适的权限验证模块。本文首先介绍了 Vue、Angular 以及 React 之间设计思想的对比，然后介绍了 Vue 2.0 中的核心概念与基本用法，最后以某个真实的登录控制案例介绍了如何为 Vue 应用中添加权限验证功能。
 

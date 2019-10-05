@@ -6,7 +6,7 @@
 
 - [2017-Comparing the Performance between Native iOS (Swift) and React-Native](https://medium.com/the-react-native-log/comparing-the-performance-between-native-ios-swift-and-react-native-7b5490d363e2#.azcqq063o)
 
-* [2017-React Native vs Real Native Apps](https://parg.co/U6A): This post is targeted to highlight the theoretical as well as practical aspects of using React Native in comparison with the Swift.
+- [2017-React Native vs Real Native Apps](https://parg.co/U6A): This post is targeted to highlight the theoretical as well as practical aspects of using React Native in comparison with the Swift.
 
 - [2017-All You Need To Know About React Native](https://parg.co/U1R): Shorter development cycles, faster deployment, and great app performance.
 
@@ -38,7 +38,7 @@
 
 - [React Native Styling Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet#text)
 
-* [2016-Writing Cross-Platform Apps with React Native](https://www.infoq.com/articles/react-native-introduction)
+- [2016-Writing Cross-Platform Apps with React Native](https://www.infoq.com/articles/react-native-introduction)
 
 ## Quick Start
 

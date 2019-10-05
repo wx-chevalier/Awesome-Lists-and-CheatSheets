@@ -10,7 +10,7 @@
 
 - [一起脱去小程序的外套和内衣 - 微信小程序架构解析](http://mp.weixin.qq.com/s/KxqdX16MH8AX7ZYv8CQNIw)
 
-* [微信小程序填坑记，论组件复用](https://segmentfault.com/n/1330000007037416)
+- [微信小程序填坑记，论组件复用](https://segmentfault.com/n/1330000007037416)
 
 # Overview
 

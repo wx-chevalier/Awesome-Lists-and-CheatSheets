@@ -8,25 +8,25 @@
 
 - [JVM 并发编程模型览](http://www.qingjingjie.com/blogs/23)
 
-* [2015-Java Concurrency / Multithreading Tutorial](http://tutorials.jenkov.com/java-concurrency/index.html): The trail will primarily be concerned with multithreading in Java, but some of the problems occurring in multithreading are similar to problems occurring in multitasking and in distributed systems.
+- [2015-Java Concurrency / Multithreading Tutorial](http://tutorials.jenkov.com/java-concurrency/index.html): The trail will primarily be concerned with multithreading in Java, but some of the problems occurring in multithreading are similar to problems occurring in multitasking and in distributed systems.
 
-* [Java 并发的四种风味：Thread、Executor、ForkJoin 和 Actor](http://www.open-open.com/lib/view/open1421202894171.html)
+- [Java 并发的四种风味：Thread、Executor、ForkJoin 和 Actor](http://www.open-open.com/lib/view/open1421202894171.html)
 
-* [java8-concurrency-tutorial](http://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/)
+- [java8-concurrency-tutorial](http://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/)
 
-* [java-util-concurrent](http://tutorials.jenkov.com/java-util-concurrent/index.html)
+- [java-util-concurrent](http://tutorials.jenkov.com/java-util-concurrent/index.html)
 
-* [Threading in Java](https://medium.com/@behzodbekqodirov/threading-java-541bd986647d#.lmwvdmeje)
+- [Threading in Java](https://medium.com/@behzodbekqodirov/threading-java-541bd986647d#.lmwvdmeje)
 
 - [2017-面试小结之并发篇](http://ginobefunny.com/post/java_concurrent_interview_questions/)：最近面试一些公司，被问到的关于 Java  并发编程的问题，以及自己总结的回答。
 
-* [2017-所有对象都自动含有单一的锁与一个对象可以被多次加锁的矛盾？](https://parg.co/bO2)
+- [2017-所有对象都自动含有单一的锁与一个对象可以被多次加锁的矛盾？](https://parg.co/bO2)
 
-* [2017-Java 线程池的理论与实践](http://www.jianshu.com/p/0478e283cfef)：本文将会包含以下内容：Java 中的 Thread 与操作系统中的线程的关系、线程切换的各种开销、ThreadGroup 存在的意义、使用线程池减少线程开销、Executor 的概念、ThreadPoolExecutor 中的一些具体实现、如何监控线程的健康、参考 ThreadPoolExecutor 来设计适合自己的线程模型。
+- [2017-Java 线程池的理论与实践](http://www.jianshu.com/p/0478e283cfef)：本文将会包含以下内容：Java 中的 Thread 与操作系统中的线程的关系、线程切换的各种开销、ThreadGroup 存在的意义、使用线程池减少线程开销、Executor 的概念、ThreadPoolExecutor 中的一些具体实现、如何监控线程的健康、参考 ThreadPoolExecutor 来设计适合自己的线程模型。
 
 - [2017-Using the Timer Class to Schedule Tasks](https://dzone.com/articles/using-timer-class-to-schedule-tasks): Setting up simple scheduled tasks within an app is easy with the Timer class. There's a lot of versatility in the class, giving you plenty of customization.
 
-* [Using the Timer Class to Schedule Tasks](https://dzone.com/articles/using-timer-class-to-schedule-tasks)
+- [Using the Timer Class to Schedule Tasks](https://dzone.com/articles/using-timer-class-to-schedule-tasks)
 
 - [Java Concurrency Patterns and Features #Project#](https://parg.co/UVC): Concurrency Patterns and features found in Java, through multithreaded programming. Threads, Locks, Atomics and more.
 
@@ -42,7 +42,7 @@
 
 - [2017-深度解析 Java 线程池的异常处理机制](https://github.com/aCoder2013/blog/issues/3): 线程池提交的任务如果没有 catch 异常，那么会抛到哪里去？
 
-* [2017-从 0 到 1 学习 Java 线程池 #Series#](http://6me.us/TOE3)：该系列文章总共三篇，介绍了 Java 线程池的使用以及原理，并且最后会实现一个基本的线程池。
+- [2017-从 0 到 1 学习 Java 线程池 #Series#](http://6me.us/TOE3)：该系列文章总共三篇，介绍了 Java 线程池的使用以及原理，并且最后会实现一个基本的线程池。
 
 # Async Patterns | 异步模式
 
@@ -52,13 +52,13 @@
 
 - [2017-An Introduction to Atomic Variables in Java](http://www.baeldung.com/java-atomic-variables)
 
-* [深入理解 Java 之 ThreadLocal 工作原理](http://allenwu.itscoder.com/threadlocal-source): 简单理解“Thread”即线程，“Local”即本地。连续起来理解就是 每个线程本地独有的。
+- [深入理解 Java 之 ThreadLocal 工作原理](http://allenwu.itscoder.com/threadlocal-source): 简单理解“Thread”即线程，“Local”即本地。连续起来理解就是 每个线程本地独有的。
 
 # Coroutine
 
 - [2017-Project Loom: Fibers and Continuations for the Java Virtual Machine](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)
 
-* [2017-Java CompletableFuture Tutorial with Examples](https://www.callicoder.com/java-8-completablefuture-tutorial/): In this post I’ll give you a detailed explanation of CompletableFuture and all its methods using simple examples.
+- [2017-Java CompletableFuture Tutorial with Examples](https://www.callicoder.com/java-8-completablefuture-tutorial/): In this post I’ll give you a detailed explanation of CompletableFuture and all its methods using simple examples.
 
 # RxJava
 

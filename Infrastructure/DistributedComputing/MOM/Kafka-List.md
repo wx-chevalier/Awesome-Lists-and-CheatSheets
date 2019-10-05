@@ -6,9 +6,9 @@
 
 - [微信开源 PhxQueue 高可用、高可靠、高性能的分布式队列](http://mp.weixin.qq.com/s/YFMFCijamQvz_O-MPv5yfA): 本文对比了 Kafka 与 PhxQueue，讨论了 Kafka 的不足。
 
-* [Kafka 设计解析(六)-Kafka 高性能架构之道](http://www.jasongj.com/kafka/high_throughput/)
+- [Kafka 设计解析(六)-Kafka 高性能架构之道](http://www.jasongj.com/kafka/high_throughput/)
 
-* [2017-Apache Kafka Goes 1.0](https://www.confluent.io/blog/apache-kafka-goes-1-0/): The feature set and the broad deployments all speak of a stable and Enterprise-ready product, which leads to an important step we are taking with this release: as of today, Apache Kafka is going 1.0!
+- [2017-Apache Kafka Goes 1.0](https://www.confluent.io/blog/apache-kafka-goes-1-0/): The feature set and the broad deployments all speak of a stable and Enterprise-ready product, which leads to an important step we are taking with this release: as of today, Apache Kafka is going 1.0!
 
 ## Engineering Practices
 
@@ -34,7 +34,7 @@
 
 - [Kafka 源码分析](https://zqhxuyuan1.gitbooks.io/kafka/content/chapter1-intro.html)
 
-* [Kafka 深度解析](http://www.jasongj.com/2015/01/02/Kafka%e6%b7%b1%e5%ba%a6%e8%a7%a3%e6%9e%90/)
+- [Kafka 深度解析](http://www.jasongj.com/2015/01/02/Kafka%e6%b7%b1%e5%ba%a6%e8%a7%a3%e6%9e%90/)
 
 # OpenSource
 

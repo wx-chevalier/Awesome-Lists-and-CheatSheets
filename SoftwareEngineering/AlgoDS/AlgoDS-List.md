@@ -28,7 +28,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2017-Algorithm Design: Parallel and Sequential #Book#](http://www.parallel-algorithms-book.com/): 15-210 aims to teach methods for designing, analyzing, and programming sequential and parallel algorithms and data structures.
 
-* [2017-Competitive Programmer's Handbook #Book#](https://cses.fi/book.html): The purpose of this book is to give the reader a thorough introduction to competitive programming. The book is especially intended for students who want to learn algorithms and possibly participate in the International Olympiad in Informatics (IOI) or in the International Collegiate Programming Contest (ICPC).
+- [2017-Competitive Programmer's Handbook #Book#](https://cses.fi/book.html): The purpose of this book is to give the reader a thorough introduction to competitive programming. The book is especially intended for students who want to learn algorithms and possibly participate in the International Olympiad in Informatics (IOI) or in the International Collegiate Programming Contest (ICPC).
 
 - [2018-The Algorithms #Book#](https://github.com/TheAlgorithms): Open Source Book for Newbies to Learn Algorithms and Implement them in any Programming Language.
 
@@ -42,7 +42,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2018-LeetCode All in One 讲解汇总](http://www.goodtecher.com/zh/leetcode%E8%AE%B2%E8%A7%A3%E6%B1%87%E6%80%BB/): 大家好，这里是 GoodTecher LeetCode 题目讲解汇总表。
 
-* [LeetCodeAnimation #Project#](https://github.com/MisterBooo/LeetCodeAnimation): Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解 LeetCode 题目的思路）
+- [LeetCodeAnimation #Project#](https://github.com/MisterBooo/LeetCodeAnimation): Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解 LeetCode 题目的思路）
 
 - [Python & JAVA Solutions for Leetcode (inspired by haoel's leetcode)](https://github.com/qiyuangong/leetcode)
 
@@ -68,7 +68,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2017-Data Structures and Algorithms Problems #Collection#](http://www.techiedelight.com/list-of-problems/): 一系列基于 C 实现的数据结构与算法问题的总结。
 
-* [Data Structure and Algorithms Problems](https://parg.co/UVm): 160+ Algorithm & Data Structure Problems using C++.
+- [Data Structure and Algorithms Problems](https://parg.co/UVm): 160+ Algorithm & Data Structure Problems using C++.
 
 # Java
 
@@ -76,7 +76,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2017-Java 101: Datastructures and algorithms in Java](http://www.javaworld.com/article/2073390/core-java/datastructures-and-algorithms-part-1.html?nsdr=true): Datastructures and algorithms are essential to computer science, which is the study of data, its representation in memory, and its transformation from one form to another
 
-* [Introduction to Data Structures and Algorithms](http://www.idevelopment.info/data/Programming/data_structures/overview/Data_Structures_Algorithms_Introduction.shtml)
+- [Introduction to Data Structures and Algorithms](http://www.idevelopment.info/data/Programming/data_structures/overview/Data_Structures_Algorithms_Introduction.shtml)
 
 - [数据结构与算法学习笔记 ,gitbook 上对于 Leetcode 题解](https://www.gitbook.com/book/yuanbin/algorithm/details)
 
@@ -86,13 +86,13 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2017-10 Common Data Structures Explained with Videos + Exercises](https://parg.co/bIC): Data structures are a critical part of software development, and one of the most common topics for developer job interview questions. The good news is that they’re basically just specialized formats for organizing and storing data. I’m going to teach you 10 of the most common data structures — right here in this short article.
 
-* [2017-Basic javascript algorithms toolbox: starter kit](https://parg.co/b75): Here’s a list of javascript quick-to-write algos that are often useful.
+- [2017-Basic javascript algorithms toolbox: starter kit](https://parg.co/b75): Here’s a list of javascript quick-to-write algos that are often useful.
 
-* [2017-CS Playground React: Algos & Data Structures #Project#](https://parg.co/UZd): In-Browser Algorithm and Data Structure Interview Prep.
+- [2017-CS Playground React: Algos & Data Structures #Project#](https://parg.co/UZd): In-Browser Algorithm and Data Structure Interview Prep.
 
-* [2017-javascript-algorithms #Project#](https://github.com/trekhleb/javascript-algorithms): This repository contains JavaScript based examples of many popular algorithms and data structures.
+- [2017-javascript-algorithms #Project#](https://github.com/trekhleb/javascript-algorithms): This repository contains JavaScript based examples of many popular algorithms and data structures.
 
-* [2018-javascript-datastructures-algorithms #Project#](https://github.com/loiane/javascript-datastructures-algorithms): collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book.
+- [2018-javascript-datastructures-algorithms #Project#](https://github.com/loiane/javascript-datastructures-algorithms): collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book.
 
 - [2019-dsa.js #Project#](https://github.com/amejiarosario/dsa.js): Data Structures and Algorithms explained and implemented in JavaScript
 
@@ -100,7 +100,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2014-algorithm #Project#](https://github.com/qiwsir/algorithm): 如果要成为一个有一定水平的程序员，算法是必须要会的。算法，让你的程序变得更有灵气。
 
-* [2017-Problem Solving with Algorithms and Data Structures using Python #Book#](http://6me.us/jgWZ)：中文版参考[这里](https://github.com/facert/python-data-structure-cn)。
+- [2017-Problem Solving with Algorithms and Data Structures using Python #Book#](http://6me.us/jgWZ)：中文版参考[这里](https://github.com/facert/python-data-structure-cn)。
 
 - [2017-pygorithm #Project#](https://github.com/OmkarPathak/pygorithm): A Python module for learning all major algorithms
 
@@ -108,7 +108,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2017-go-algorithms #Project#](https://github.com/0xAX/go-algorithms): Algorithms and data structures for golang.
 
-* [2018-DataViz #Project#](https://github.com/Arafatk/DataViz?files=1): Build and visualize data structures in Golang.
+- [2018-DataViz #Project#](https://github.com/Arafatk/DataViz?files=1): Build and visualize data structures in Golang.
 
 - [Slim #Project#](https://github.com/openacid/slim): Slim is collection of surprisingly space efficient data types, with corresponding serialization APIs to persisting them on-disk or for transport.
 

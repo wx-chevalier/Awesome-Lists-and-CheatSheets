@@ -8,9 +8,9 @@
 
 - [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](http://6me.us/LjcoDA)
 
-* [GAN 学习指南：从原理入门到制作生成 Demo](https://zhuanlan.zhihu.com/p/24767059)
+- [GAN 学习指南：从原理入门到制作生成 Demo](https://zhuanlan.zhihu.com/p/24767059)
 
-* [How do GANs intuitively work?](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1#.g613r5575)
+- [How do GANs intuitively work?](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1#.g613r5575)
 
 - [GAN in Numpy #Project#](https://github.com/shinseung428/gan_numpy): This is a very simple step by step implementation of GAN using only numpy. Without the use of GPU, it takes too much time to generate all the numbers.
 

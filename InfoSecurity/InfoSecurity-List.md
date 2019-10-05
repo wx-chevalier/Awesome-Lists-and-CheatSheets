@@ -26,13 +26,13 @@
 
 - [2017-A penetration tester’s guide to sub-domain enumeration](https://parg.co/U6Y)
 
-* [awesome penetration testing](https://github.com/enaqx/awesome-pentest): 一系列关于渗透测试相关的资料的搜集
+- [awesome penetration testing](https://github.com/enaqx/awesome-pentest): 一系列关于渗透测试相关的资料的搜集
 
-* [Penetration Testing/Security Cheatsheets](https://github.com/jshaw87/Cheatsheets): 渗透测试与安全 Cheatsheet
+- [Penetration Testing/Security Cheatsheets](https://github.com/jshaw87/Cheatsheets): 渗透测试与安全 Cheatsheet
 
-* [各种安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map)
+- [各种安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map)
 
-* [兜哥系列丛书](https://github.com/duoergun0729): Web 安全之机器学习入门/Web 安全之深度学习实战/Web 安全之强化学习与 GAN 系列
+- [兜哥系列丛书](https://github.com/duoergun0729): Web 安全之机器学习入门/Web 安全之深度学习实战/Web 安全之强化学习与 GAN 系列
 
 # Resource
 

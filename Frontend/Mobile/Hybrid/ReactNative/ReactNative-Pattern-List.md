@@ -16,15 +16,15 @@
 
 - [react-native-auto-updater](https://github.com/aerofs/react-native-auto-updater)
 
-* [animate-all-the-things-transitions-in-android](https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50#.8fh117w2y)
+- [animate-all-the-things-transitions-in-android](https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50#.8fh117w2y)
 
-* [React Native For Android 架构初探](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf&scene=1&srcid=1009Q3qo6mLeT2ydjdzUwLQ7&from=groupmessage&isappinstalled=0#rd)
+- [React Native For Android 架构初探](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf&scene=1&srcid=1009Q3qo6mLeT2ydjdzUwLQ7&from=groupmessage&isappinstalled=0#rd)
 
-* [React Native Android 版核心层 js-bridge 实现浅析](http://supercocoa.github.io/2015/09/26/react_native_android_js_bridge/)
+- [React Native Android 版核心层 js-bridge 实现浅析](http://supercocoa.github.io/2015/09/26/react_native_android_js_bridge/)
 
-* [React Native 之底层源码分析篇 ](http://blog.csdn.net/u014486880/article/details/51535391#rd)
+- [React Native 之底层源码分析篇 ](http://blog.csdn.net/u014486880/article/details/51535391#rd)
 
-* [BRIDGING IN REACT NATIVE](http://tadeuzagallo.com/blog/react-native-bridge/)
+- [BRIDGING IN REACT NATIVE](http://tadeuzagallo.com/blog/react-native-bridge/)
 
 - [2017-React Native: developing using best practices](https://parg.co/beC): I am one of those who felt in love at first sight with it, so I will try to find out the best practices that should be applied to a React Native project in order to have an understandable, easily maintainable and scalable, and highly performant mobile app.
 
@@ -42,7 +42,7 @@
 
 - [performance-limitations-of-react-native-and-how-to-overcome-them](https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440#.oftytc7lc)
 
-* [2017-I made React Native fast, you can too](http://6me.us/3Yx9): The purpose of this article is to walk you through how you can use Native tools to track down and fix performance issues in your React Native app.
+- [2017-I made React Native fast, you can too](http://6me.us/3Yx9): The purpose of this article is to walk you through how you can use Native tools to track down and fix performance issues in your React Native app.
 
 - [携程是如何做 React Native 优化的](https://zhuanlan.zhihu.com/p/23715716)
 
@@ -68,6 +68,6 @@
 
 - [2017-React Native 拆包及热更新方案](http://solart.cc/2017/02/22/react-native-jsbundle_patch)：随着 React Native 的不断发展完善，越来越多的公司选择使用 React Native 替代 iOS/Android 进行部分业务线的开发，也有不少使用 Hybrid 技术的公司转向了 React Native 。要说 React Native 最能吸引开发者的地方那就是其拥有前端的开发速度以及原生的体验。
 
-* [2017-11 mistakes I’ve made during React Native / Redux app development](https://parg.co/bQS):  After working almost a year with React Native I decided to describe mistakes that I’ve made while being a beginner.
+- [2017-11 mistakes I’ve made during React Native / Redux app development](https://parg.co/bQS):  After working almost a year with React Native I decided to describe mistakes that I’ve made while being a beginner.
 
-* [2017-Powering UberEATS With React Native and Uber Engineering](https://eng.uber.com/ubereats-react-native/)
+- [2017-Powering UberEATS With React Native and Uber Engineering](https://eng.uber.com/ubereats-react-native/)

@@ -6,7 +6,7 @@
 
 - [2017-Time-series data: Why (and how) to use a relational database instead of NoSQL](https://blog.timescale.com/time-series-data-why-and-how-to-use-a-relational-database-instead-of-nosql-d0cd6975e87c)
 
-* [2017-Design of a Cost Efficient Time Series Store for Big Data](https://medium.com/@leventov/design-of-a-cost-efficient-time-series-store-for-big-data-88c5dc41af8e): This post is based on experience of running Druid at scale at Metamarkets and theoretical research, but the described design has not yet implemented and tested in production.
+- [2017-Design of a Cost Efficient Time Series Store for Big Data](https://medium.com/@leventov/design-of-a-cost-efficient-time-series-store-for-big-data-88c5dc41af8e): This post is based on experience of running Druid at scale at Metamarkets and theoretical research, but the described design has not yet implemented and tested in production.
 
 # TimescaleDB
 

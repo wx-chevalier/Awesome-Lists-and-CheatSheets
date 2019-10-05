@@ -12,4 +12,4 @@
 
 - [PhantomJS & NodeJS 在京东网站前端监控平台的最佳实践](https://zhuanlan.zhihu.com/p/22271290)
 
-* [Webpage tracking only using CSS (and no JS)](https://github.com/jbtronics/CrookedStyleSheets): Proof of concept for website tracking/analytics using only CSS and without Javascript.
+- [Webpage tracking only using CSS (and no JS)](https://github.com/jbtronics/CrookedStyleSheets): Proof of concept for website tracking/analytics using only CSS and without Javascript.

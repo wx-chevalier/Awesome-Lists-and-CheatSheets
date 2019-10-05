@@ -4,7 +4,7 @@
 
 - [2017-Node.js Best Practices](https://github.com/i0natan/nodebestpractices): The largest Node.JS best practices list. Curated from the top ranked articles and always updated.
 
-* [Advanced Node.js Project Structure Tutorial - Node.js at Scale](https://blog.risingstack.com/node-js-project-structure-tutorial-node-js-at-scale/)
+- [Advanced Node.js Project Structure Tutorial - Node.js at Scale](https://blog.risingstack.com/node-js-project-structure-tutorial-node-js-at-scale/)
 
 # Debug
 
@@ -12,7 +12,7 @@
 
 - [2017-Debugging remote Node.js application running in a Docker container](https://parg.co/byP)
 
-* [2017-Debugging Memory Leaks and Memory Bloat in Node.js](https://parg.co/UEi): The goal of this article is to make them no more of a problem than your average bug.
+- [2017-Debugging Memory Leaks and Memory Bloat in Node.js](https://parg.co/UEi): The goal of this article is to make them no more of a problem than your average bug.
 
 # Test
 

@@ -10,21 +10,21 @@
 
 - [React Office Site —— Optimizing Performance](https://facebook.github.io/react/docs/optimizing-performance.html): For many applications, using React will lead to a fast user interface without doing much work to specifically optimize for performance. Nevertheless, there are several ways you can speed up your React application.
 
-* [2017-Keep Your React Redux Healthy, Performance Optimization Story](https://parg.co/bCn): I am here to be honest about React optimization.
+- [2017-Keep Your React Redux Healthy, Performance Optimization Story](https://parg.co/bCn): I am here to be honest about React optimization.
 
-* [2017-React at Light Speed](https://blog.vixlet.com/react-at-light-speed-78cd172a6411): Lessons in optimizing performance at Vixlet
+- [2017-React at Light Speed](https://blog.vixlet.com/react-at-light-speed-78cd172a6411): Lessons in optimizing performance at Vixlet
 
-* [2017-45% Faster React Functional Components, Now](https://parg.co/bMa)
+- [2017-45% Faster React Functional Components, Now](https://parg.co/bMa)
 
-* [2017-Our Best Practices for Writing React Components](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8#.3kin14vrf): When I first started writing React, I remember seeing many different approaches to writing components, varying greatly from tutorial to tutorial. Though the framework has matured considerably since then, there doesn’t seem to yet be a firm ‘right’ way of doing things.
+- [2017-Our Best Practices for Writing React Components](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8#.3kin14vrf): When I first started writing React, I remember seeing many different approaches to writing components, varying greatly from tutorial to tutorial. Though the framework has matured considerably since then, there doesn’t seem to yet be a firm ‘right’ way of doing things.
 
-* [2017-Memoize React components](https://github.com/planttheidea/moize)
+- [2017-Memoize React components](https://github.com/planttheidea/moize)
 
-* [2017-React at Light Speed](http://6me.us/dx5)
+- [2017-React at Light Speed](http://6me.us/dx5)
 
-* [Should I use shouldComponentUpdate?](http://jamesknelson.com/should-i-use-shouldcomponentupdate/)
+- [Should I use shouldComponentUpdate?](http://jamesknelson.com/should-i-use-shouldcomponentupdate/)
 
-* [React 移动 web 极致优化](https://github.com/lcxfs1991/blog/issues/8?f=tt)
+- [React 移动 web 极致优化](https://github.com/lcxfs1991/blog/issues/8?f=tt)
 
 - [component-rendering-performance-in-react](https://medium.com/modus-create-front-end-development/component-rendering-performance-in-react-df859b474adc#.rjjvtwgs8)
 
@@ -49,11 +49,11 @@
 
 - [2017-React, Inline Functions, and Performance](https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578)
 
-* [2017-reactopt #Project#](https://github.com/reactopt/reactopt): A CLI React performance optimization tool that identifies potential unnecessary re-rendering.
+- [2017-reactopt #Project#](https://github.com/reactopt/reactopt): A CLI React performance optimization tool that identifies potential unnecessary re-rendering.
 
-* [2017-React is Slow, React is Fast: Optimizing React Apps in Practice](https://parg.co/UZq): If you care about performance, it's fairly easy to make any React application super fast. Here is how.
+- [2017-React is Slow, React is Fast: Optimizing React Apps in Practice](https://parg.co/UZq): If you care about performance, it's fairly easy to make any React application super fast. Here is how.
 
-* [2017-React Performance Fixes on Airbnb Listing Pages](https://parg.co/UpT): There may be a lot of low-hanging fruit affecting performance in areas you might not track very closely but are still very important.
+- [2017-React Performance Fixes on Airbnb Listing Pages](https://parg.co/UpT): There may be a lot of low-hanging fruit affecting performance in areas you might not track very closely but are still very important.
 
 - [Creating more efficient React views with windowing](https://parg.co/UiL): In this presentation, the [bvaughn](https://github.com/bvaughn/) talks something abot performance, search, and app architecture in React development.
 
@@ -73,7 +73,7 @@
 
 - [2017-Writing Clean and Concise React Components by Making Full Use of ES6/7 Features and the Container-Component Pattern](https://parg.co/b1B)
 
-* [2018-Server Rendering, Code Splitting, and Lazy Loading with React Router v4](https://parg.co/UVJ): In this article, software engineers from Airbnb share practices in combing server rendering and code splitting.
+- [2018-Server Rendering, Code Splitting, and Lazy Loading with React Router v4](https://parg.co/UVJ): In this article, software engineers from Airbnb share practices in combing server rendering and code splitting.
 
 - [Upgrading a create-react-app project to a SSR + code splitting setup](https://parg.co/Ukg): This is what we’ll cover: Server-side rendering, Code splitting with react-loadable, Code splitting on the server, Taking benefit of webpack’s chunkNames.
 
@@ -81,7 +81,7 @@
 
 - [2017-Introducing Rapscallion #Project#](http://formidable.com/blog/2017/introducing-rapscallion/): a new approach for server-side rendering React applications.
 
-* [2017-Server-Side React Rendering](https://css-tricks.com/server-side-react-rendering/): In this tutorial, we'll take you through a server side rendering example step-by-step. including working around a common roadblock for React apps that talk to APIs.
+- [2017-Server-Side React Rendering](https://css-tricks.com/server-side-react-rendering/): In this tutorial, we'll take you through a server side rendering example step-by-step. including working around a common roadblock for React apps that talk to APIs.
 
 - [React 同构技术](https://zhuanlan.zhihu.com/p/21492780)
 
@@ -107,6 +107,6 @@
 
 - [The Inner Workings Of Virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf#.or5425hja)
 
-* [Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact](https://github.com/lukeed/preact-starter)
+- [Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact](https://github.com/lukeed/preact-starter)
 
-* [司徒正美 preact 源码学习系列文章](https://segmentfault.com/a/1190000010336457)
+- [司徒正美 preact 源码学习系列文章](https://segmentfault.com/a/1190000010336457)

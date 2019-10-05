@@ -12,7 +12,7 @@
 
 - [2017-Using SASS/SCSS in Vue 2](https://medium.com/@mahesh.ks/using-sass-scss-in-vue-js-2-d472af0facf9): This blog gives you a brief description on how to include SASS/SCSS styling files in your vue.js files.
 
-* [2017-Creating Vue.js Transitions & Animation: Live Examples](https://snipcart.com/blog/vuejs-transitions-animations)
+- [2017-Creating Vue.js Transitions & Animation: Live Examples](https://snipcart.com/blog/vuejs-transitions-animations)
 
 - [在 Vue 项目中使用第三方库](https://parg.co/bf4)：本文介绍了如何在基于单文件模块的 Vue 项目中使用 Lodash、Moment、Axios 这些优秀的第三方库或框架。本文递进地介绍了譬如全局变量引用、单文件导入、扩展 Vue 对象、插件实现等多种方式。
 

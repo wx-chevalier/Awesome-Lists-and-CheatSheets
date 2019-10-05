@@ -4,7 +4,7 @@
 
 - [Redis 存储海量小数据，如何优化内存使用](http://zzyongx.github.io/blogs/redis-memory-optimization-when-store-small-data.html) s
 
-* [Redis 的内存优化](https://cachecloud.github.io/2017/02/16/Redis%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96/)
+- [Redis 的内存优化](https://cachecloud.github.io/2017/02/16/Redis%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96/)
 
 - [Redis 架构之防雪崩设计：网站不宕机背后的兵法](http://mp.weixin.qq.com/s/TBCEwLVAXdsTszRVpXhVug)：互联网系统中不可避免要大量用到缓存，在缓存的使用过程中，架构师需要注意哪些问题？本文以 Redis 为例，详细探讨了最关键的 3 个问题。
 
@@ -88,7 +88,7 @@
 
 - [深入浅出 Redis client/server 交互流程](http://www.infoq.com/cn/articles/communication-redis-clientserver)
 
-* [深入浅出 Redis client/server 交互流程 ](http://mp.weixin.qq.com/s/M_8JYKounmZWHPOXVJFNuQ)
+- [深入浅出 Redis client/server 交互流程 ](http://mp.weixin.qq.com/s/M_8JYKounmZWHPOXVJFNuQ)
 
 - [Redis 客户端查询缓冲区和输出缓冲区 ](https://zhuoroger.github.io/2016/07/30/redis-client-two-buffers/)
 

@@ -2,9 +2,9 @@
  
 # HTTP/2 学习与资料索引
 
-* [2017-A Comprehensive Guide To HTTP/2 Server Push](https://www.smashingmagazine.com/2017/04/guide-http2-server-push/)
+- [2017-A Comprehensive Guide To HTTP/2 Server Push](https://www.smashingmagazine.com/2017/04/guide-http2-server-push/)
 
-* [2017-HTTP/2 push is tougher than I thought](https://parg.co/bi4): HTTP/2 push is more complicated and low-level than I initially thought, but what really caught me off-guard is how inconsistent it is between browsers – I'd assumed it was a done deal & totally ready for production.
+- [2017-HTTP/2 push is tougher than I thought](https://parg.co/bi4): HTTP/2 push is more complicated and low-level than I initially thought, but what really caught me off-guard is how inconsistent it is between browsers – I'd assumed it was a done deal & totally ready for production.
 
 - [speed-up-your-sites-with-http-2](https://medium.com/@WebdesignerDepot/speed-up-your-sites-with-http-2-f6ee33cef6bd#.yzdpzial0)
 

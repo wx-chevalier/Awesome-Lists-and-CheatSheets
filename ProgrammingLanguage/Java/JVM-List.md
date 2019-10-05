@@ -8,7 +8,7 @@
 
 - [2017-面试小结之 JVM 篇](http://ginobefunny.com/post/jvm_interview_questions/)：最近面试一些公司，被问到的关于 Java 虚拟机的问题，以及自己总结的回答。
 
-* [Java 虚拟机规范(Java SE 8 版)读后总结](http://www.jianshu.com/p/00ffffc9103c?from=timeline): Java 虚拟机的实现必须体现书中内容，但仅在确有必要时才应该受制于这些规范。用书中的原话来说即"公有设计，私有实现"。
+- [Java 虚拟机规范(Java SE 8 版)读后总结](http://www.jianshu.com/p/00ffffc9103c?from=timeline): Java 虚拟机的实现必须体现书中内容，但仅在确有必要时才应该受制于这些规范。用书中的原话来说即"公有设计，私有实现"。
 
 - [2017 - JVM Anatomy Park #Series#](http://6me.us/oa8): "JVM Anatomy Park" is the mini-post series, where every post is slated to take 5-10 minutes to read (and no more than 2 hours for me to write).
 

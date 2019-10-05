@@ -12,15 +12,15 @@
 
 - [Easy Node Authentication Getting Started and Local, based on Express and Passport](https://scotch.io/tutorials/easy-node-authentication-setup-and-local)
 
-* [2016-对 express 中 next 函数的一些理解](https://cnodejs.org/topic/5757e80a8316c7cb1ad35bab)
+- [2016-对 express 中 next 函数的一些理解](https://cnodejs.org/topic/5757e80a8316c7cb1ad35bab)
 
 # Koa
 
 - [Async testing Koa with Jest](https://hackernoon.com/async-testing-koa-with-jest-1b6e84521b71?source=linkShare-fe48c4221a4c-1508838328): Simplify API and middleware tests with lesser-known featuresSimplify API and middleware tests with lesser-known features.
 
-* [从头实现一个 koa 框架](https://zhuanlan.zhihu.com/p/35040744): 相信大家在看完本文之后，会对 koa 有一个更深入的理解，同时在阅读本文之后再去阅读 koa 源码，思路也将非常的顺畅。
+- [从头实现一个 koa 框架](https://zhuanlan.zhihu.com/p/35040744): 相信大家在看完本文之后，会对 koa 有一个更深入的理解，同时在阅读本文之后再去阅读 koa 源码，思路也将非常的顺畅。
 
-* [2018-Koa2 源码阅读笔记](https://mrsunny123.github.io/2017/06/21/Koa2-Code): 最近空闲时间读了一下 Koa2 的源码；在阅读 Koa2(version 2.2.0)的源码的过程中，我的感受是代码简洁、思路清晰。
+- [2018-Koa2 源码阅读笔记](https://mrsunny123.github.io/2017/06/21/Koa2-Code): 最近空闲时间读了一下 Koa2 的源码；在阅读 Koa2(version 2.2.0)的源码的过程中，我的感受是代码简洁、思路清晰。
 
 # Eggjs
 
@@ -32,7 +32,7 @@
 
 - [2017-Securing Node.js RESTful APIs with JSON Web Tokens](https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52): It’s a way of encrypting a value, in turn creating a unique token that users use as an identifier.
 
-* [Node Hero - Node.js Authentication using Passport.js](https://parg.co/UqY)
+- [Node Hero - Node.js Authentication using Passport.js](https://parg.co/UqY)
 
 # Other
 

@@ -41,13 +41,13 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 - [OpenAI Gym](https://github.com/openai/gym): OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms. This is the gym open-source library, which gives you access to a standardized set of environments.
 
-* [Using Keras and Deep Q-Network to Play FlappyBird](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
+- [Using Keras and Deep Q-Network to Play FlappyBird](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
 
 ## Chess | 象棋
 
 - [2018-Minigo #Project#](https://github.com/tensorflow/minigo): A minimalist Go engine modeled after AlphaGo Zero, built on MuGo.
 
-* [2018-How to build your own AlphaZero AI using Python and Keras](https://parg.co/UiX): Teach a machine to learn Connect4 strategy through self-play and deep learning.
+- [2018-How to build your own AlphaZero AI using Python and Keras](https://parg.co/UiX): Teach a machine to learn Connect4 strategy through self-play and deep learning.
 
 # Computer Vision | 计算机视觉
 
@@ -77,7 +77,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 - [Guess.js #Project#](https://github.com/guess-js/guess): Libraries and tools for enabling data-driven user-experiences on the web.
 
-* [Screenshot-to-code-in-Keras #Project#](https://github.com/emilwallner/Screenshot-to-code-in-Keras): A neural network that transforms a screenshot into a static website.
+- [Screenshot-to-code-in-Keras #Project#](https://github.com/emilwallner/Screenshot-to-code-in-Keras): A neural network that transforms a screenshot into a static website.
 
 - [How you can train an AI to convert your design mockups into HTML and CSS](https://parg.co/UXR)
 

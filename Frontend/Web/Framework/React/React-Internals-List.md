@@ -4,9 +4,9 @@
 
 - [2017-React Internals](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/): In this five part series, we will “recreate” React from the ground up, learning how it works along the way. Once we’ve finished, you should have a good grasp of how React works, and when and why it calls the various lifecycle methods of a component.
 
-* [2017-Understanding The React Source Code #Series#](https://parg.co/UVD): From time to time, I was curious about how React works internally, hence this article.
+- [2017-Understanding The React Source Code #Series#](https://parg.co/UVD): From time to time, I was curious about how React works internally, hence this article.
 
-* [2017-Didact](https://github.com/hexacta/didact): This repository goes together with a series of posts that explains how to build React from scratch step by step.
+- [2017-Didact](https://github.com/hexacta/didact): This repository goes together with a series of posts that explains how to build React from scratch step by step.
 
 - [2018-Gooact: React in 160 lines of JavaScript](https://parg.co/Y5s): How to build own React clone in a matter of minutes.
 
@@ -14,9 +14,9 @@
 
 - [React 源码剖析系列 － 解密 setState](https://zhuanlan.zhihu.com/p/20328570?refer=purerender)
 
-* [为什么 setState 没有立即执行](http://www.jianshu.com/p/2d50a413e74a)
+- [为什么 setState 没有立即执行](http://www.jianshu.com/p/2d50a413e74a)
 
-* [拆解 setState[一][一源看世界][之 React]](http://www.jianshu.com/p/47f24add2b5e)
+- [拆解 setState[一][一源看世界][之 React]](http://www.jianshu.com/p/47f24add2b5e)
 
 # Virtual DOM
 
@@ -24,23 +24,23 @@
 
 - [2017-react diff 原理](https://cloud.tencent.com/community/article/654179001489391651?fromSource=gwzcw.114428.114428.114428)：React diff 作为 Virtual DOM 的加速器，其算法上的改进优化是 React 整个界面渲染的基础，以及性能提高的保障，同时也是 React 源码中最神秘、最不可思议的部分，本文将剖析 React diff 的不可思议之处。
 
-* [React 源码剖析系列 － 不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379?refer=purerender)
+- [React 源码剖析系列 － 不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379?refer=purerender)
 
-* [React 源码剖析系列 － 解密 setState](https://zhuanlan.zhihu.com/p/20328570?refer=purerender)
+- [React 源码剖析系列 － 解密 setState](https://zhuanlan.zhihu.com/p/20328570?refer=purerender)
 
-* [深入浅出 React(四)：虚拟 DOM Diff 算法解析](http://www.infoq.com/cn/articles/react-dom-diff)
+- [深入浅出 React(四)：虚拟 DOM Diff 算法解析](http://www.infoq.com/cn/articles/react-dom-diff)
 
-* [ReactJS | Learning Virtual DOM and React Diff Algorithm](http://www.oyecode.com/2015/09/reactjs-learning-virtual-dom-and-react.html)
+- [ReactJS | Learning Virtual DOM and React Diff Algorithm](http://www.oyecode.com/2015/09/reactjs-learning-virtual-dom-and-react.html)
 
-* [So-You-Want-To-Be-A-Functional-Programmer](http://62f7d6c2.fromwiz.com/share/s/1yZZr21Yv4w42GorJm0oBXEi3AKTQa3rcARz2nKoQ71RpX_Z)
+- [So-You-Want-To-Be-A-Functional-Programmer](http://62f7d6c2.fromwiz.com/share/s/1yZZr21Yv4w42GorJm0oBXEi3AKTQa3rcARz2nKoQ71RpX_Z)
 
-* [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
+- [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
 
-* [virtual-dom](https://github.com/Matt-Esch/virtual-dom)
+- [virtual-dom](https://github.com/Matt-Esch/virtual-dom)
 
-* [The Secrets of React’s virtual DOM](http://fluentconf.com/fluent2014/public/schedule/detail/32395)
+- [The Secrets of React’s virtual DOM](http://fluentconf.com/fluent2014/public/schedule/detail/32395)
 
-* [Why is React’s concept of virtual DOM said to be moreperformant than dirty model checking?](http://stackoverflow.com/questions/21109361/why-is-reacts-concept-of-virtual-dom-said-to-be-more-performant-than-dirty-mode)
+- [Why is React’s concept of virtual DOM said to be moreperformant than dirty model checking?](http://stackoverflow.com/questions/21109361/why-is-reacts-concept-of-virtual-dom-said-to-be-more-performant-than-dirty-mode)
 
 # Component System | 组件系统
 
@@ -50,15 +50,15 @@
 
 - [2017-RFClarification: why is `setState` asynchronous?](https://parg.co/Uid)
 
-* [Dive into setState() method in React](https://gist.github.com/ajhsu/e259392f06aa8e3bf5c9)
+- [Dive into setState() method in React](https://gist.github.com/ajhsu/e259392f06aa8e3bf5c9)
 
-* [Dive into React codebase: Handling state changes](http://reactkungfu.com/2016/03/dive-into-react-codebase-handling-state-changes/)
+- [Dive into React codebase: Handling state changes](http://reactkungfu.com/2016/03/dive-into-react-codebase-handling-state-changes/)
 
-* [2017-react-reconciler-demo #Project# ](https://github.com/lukebelliveau/react-reconciler-demo): A simple implementation of React's stack reconciler. This is much different from the real implementation, but demonstrates the concepts.
+- [2017-react-reconciler-demo #Project# ](https://github.com/lukebelliveau/react-reconciler-demo): A simple implementation of React's stack reconciler. This is much different from the real implementation, but demonstrates the concepts.
 
-* [ON THE ASYNC NATURE OF `SETSTATE` IN REACT](http://thereignn.ghost.io/on-the-async-nature-of-setstate-in-react/)
+- [ON THE ASYNC NATURE OF `SETSTATE` IN REACT](http://thereignn.ghost.io/on-the-async-nature-of-setstate-in-react/)
 
-* [2017-Under-the-hood-ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS): Entire ReactJS code base explanation by visual block schemes (Stack+Fiber versions)
+- [2017-Under-the-hood-ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS): Entire ReactJS code base explanation by visual block schemes (Stack+Fiber versions)
 
 # Fiber
 

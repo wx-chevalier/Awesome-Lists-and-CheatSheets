@@ -16,11 +16,11 @@
 
 - [2017-Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning]()
 
-* [2017-Deep image prior #Project#](https://github.com/DmitryUlyanov/deep-image-prior): Image restoration with neural networks but without learning.
+- [2017-Deep image prior #Project#](https://github.com/DmitryUlyanov/deep-image-prior): Image restoration with neural networks but without learning.
 
-* [2017-How to break a CAPTCHA system in 15 minutes with Machine Learning](https://parg.co/UsP): Let’s hack the world’s most popular Wordpress CAPTCHA Plug-in.
+- [2017-How to break a CAPTCHA system in 15 minutes with Machine Learning](https://parg.co/UsP): Let’s hack the world’s most popular Wordpress CAPTCHA Plug-in.
 
-* [digit-classifier](https://github.com/karandesai-96/digit-classifier)
+- [digit-classifier](https://github.com/karandesai-96/digit-classifier)
 
 # Face Recognition: 人脸识别
 

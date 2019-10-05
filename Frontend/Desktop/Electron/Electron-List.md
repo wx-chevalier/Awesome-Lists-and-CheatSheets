@@ -18,7 +18,7 @@
 
 - [Electron Toolkit #Project#](https://github.com/PhilippLgh/electron-toolkit): "Command Line Gui Tools" to make launching Electron apps easier, faster and fun
 
-* [The Basics of Building a Cross-Platform Desktop Application with Electron](https://parg.co/UVf).
+- [The Basics of Building a Cross-Platform Desktop Application with Electron](https://parg.co/UVf).
 
 # DevOps: 开发实践
 

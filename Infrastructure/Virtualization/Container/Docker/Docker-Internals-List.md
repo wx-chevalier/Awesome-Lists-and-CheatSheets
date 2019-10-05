@@ -6,9 +6,9 @@
 
 - [2018-Docker 底层技术](https://www.jianshu.com/p/7a1ce51a0eba): Docker 容器技术已经发展了好些年，在很多项目都有应用，线上运行也很稳定。整理了部分 Docker 的学习笔记以及新版本特性，对 Docker 感兴趣的同学可以看看，之前整理过的 Linux namespace 可以见之前的博文。
 
-* [深入 Docker：容器和镜像](http://segmentfault.com/a/1190000002766882)
+- [深入 Docker：容器和镜像](http://segmentfault.com/a/1190000002766882)
 
-* [Docker 核心技术与实现原理](https://draveness.me/docker): 作为在生产环境中广泛应用的产品，Docker 有着非常成熟的社区以及大量的使用者，代码库中的内容也变得非常庞大。
+- [Docker 核心技术与实现原理](https://draveness.me/docker): 作为在生产环境中广泛应用的产品，Docker 有着非常成熟的社区以及大量的使用者，代码库中的内容也变得非常庞大。
 
 # cgroup
 
@@ -34,6 +34,6 @@
 
 - [2016-Docker Internals](http://docker-saigon.github.io/post/Docker-Internals/): A Deep Dive Into Docker For Engineers Interested In The Gritty Details.
 
-* [2017-rubber-docker #Project#](https://github.com/Fewbytes/rubber-docker): A workshop on Linux containers: Rebuild Docker from Scratch
+- [2017-rubber-docker #Project#](https://github.com/Fewbytes/rubber-docker): A workshop on Linux containers: Rebuild Docker from Scratch
 
 - [2018-手把手教你写 Docker](https://parg.co/UvM): 模拟 Docker 实现一个简单的容器不到 200 行代码(包括空行、注释、异常处理)。

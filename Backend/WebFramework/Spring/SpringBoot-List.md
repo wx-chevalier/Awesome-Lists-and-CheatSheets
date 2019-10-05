@@ -6,7 +6,7 @@
 
 - [2018-SpringBoot 2 performance — servlet stack vs WebFlux reactive stack](https://parg.co/U7O): The intent of this experiment to compare the traditional servlet stack vs the reactive stack by capturing their performance under load.
 
-* [running_multiple_spring_boot_apps_in_the_same_jvm](http://davidtanzer.net/running_multiple_spring_boot_apps_in_the_same_jvm)
+- [running_multiple_spring_boot_apps_in_the_same_jvm](http://davidtanzer.net/running_multiple_spring_boot_apps_in_the_same_jvm)
 
 - [Spring Boot 系列文章](http://blog.didispace.com/tag/spring-boot/)
 

@@ -8,9 +8,9 @@
 
 - [gVisor #Project#](https://github.com/google/gvisor): gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface.
 
-* [Kata Containers #Project#](https://katacontainers.io/): Kata Containers is a new open source project building extremely lightweight virtual machines that seamlessly plug into the containers ecosystem.
+- [Kata Containers #Project#](https://katacontainers.io/): Kata Containers is a new open source project building extremely lightweight virtual machines that seamlessly plug into the containers ecosystem.
 
-* [Hyper Container #Project#](https://hypercontainer.io/): Hypervisor-agnostic Docker Runtime.
+- [Hyper Container #Project#](https://hypercontainer.io/): Hypervisor-agnostic Docker Runtime.
 
 # Docker
 
@@ -40,7 +40,7 @@
 
 - [krew #Project#](https://github.com/GoogleContainerTools/krew): krew is the package manager for kubectl plugins.
 
-* [Wayne #Project#](https://github.com/Qihoo360/wayne): Web UI for Kubernetes multi-clusters
+- [Wayne #Project#](https://github.com/Qihoo360/wayne): Web UI for Kubernetes multi-clusters
 
 - [kubectx #Project#](https://github.com/ahmetb/kubectx): Switch faster between clusters and namespaces in kubectl
 

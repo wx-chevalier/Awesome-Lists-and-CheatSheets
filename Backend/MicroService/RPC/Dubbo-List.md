@@ -14,4 +14,4 @@
 
 - [dubbogo #Project#](https://github.com/AlexStocks/dubbogo): a golang micro-service framework compatible with alibaba dubbo.
 
-* [dubbo2.js #Project#](https://github.com/dubbo/dubbo2.js)： Node.js native dubbo client on hessian.
+- [dubbo2.js #Project#](https://github.com/dubbo/dubbo2.js)： Node.js native dubbo client on hessian.

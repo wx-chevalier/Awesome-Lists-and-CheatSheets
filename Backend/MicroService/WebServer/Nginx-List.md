@@ -8,9 +8,9 @@
 
 - [Nginx  中文官方文档](https://www.gitbook.com/book/wizardforcel/nginx-doc/details)
 
-* [agentzh 的 Nginx 教程](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder01)
+- [agentzh 的 Nginx 教程](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder01)
 
-* [The Architecture of Open Source Applications-Nginx 章节](http://aosabook.org/en/nginx.html)
+- [The Architecture of Open Source Applications-Nginx 章节](http://aosabook.org/en/nginx.html)
 
 # Resource
 

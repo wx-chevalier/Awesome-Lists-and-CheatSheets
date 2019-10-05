@@ -36,7 +36,7 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 - [function-as-child-components](https://medium.com/@iammerrick/function-as-child-components-5f3920a9ace9#.4dpp6haq9)
 
-* [React Patterns：Children 相关](http://reactpatterns.com/#stateless-function)
+- [React Patterns：Children 相关](http://reactpatterns.com/#stateless-function)
 
 - [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive/)
 
@@ -58,7 +58,7 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 - [SurviveJS: Styling React](http://survivejs.com/react/advanced-techniques/styling-react/)
 
-* [react-functional-css-protips](https://github.com/chibicode/react-functional-css-protips)
+- [react-functional-css-protips](https://github.com/chibicode/react-functional-css-protips)
 
 ## CSS-in-JS
 
@@ -76,9 +76,9 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 - [2017-Quick Tip: How to Style React Components with styled-components](https://www.sitepoint.com/style-react-components-styled-components/)
 
-* [2017-Styled-components — Mastering the fundamentals through practice](https://parg.co/Ucr)
+- [2017-Styled-components — Mastering the fundamentals through practice](https://parg.co/Ucr)
 
-* [2017-Migrating to styled-components cheatsheet](http://jsramblings.com/2017/10/29/migrating-to-styled-components-cheatsheet.html)
+- [2017-Migrating to styled-components cheatsheet](http://jsramblings.com/2017/10/29/migrating-to-styled-components-cheatsheet.html)
 
 # Animation | 动画
 
@@ -100,9 +100,9 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 - [2017-Build your own React Router v4](http://6me.us/jfUwEw): this has helped you create a better mental model of what’s happening in React Router while also helping you to gain an appreciation for React Router’s elegance and “Just Components” API.
 
-* [2017-Universal JavaScript Apps with React Router 4](https://ebaytech.berlin/universal-web-apps-with-react-router-4-15002bb30ccb): How to use the latest version of React Router both on the server side and the client side.
+- [2017-Universal JavaScript Apps with React Router 4](https://ebaytech.berlin/universal-web-apps-with-react-router-4-15002bb30ccb): How to use the latest version of React Router both on the server side and the client side.
 
-* [2017-Changing Old Habits in React Router 4](https://parg.co/bVv): At React Conf 2017, Michael Jackson & Ryan Florence talked about React Router in their talk called “Learn Once, Route Anywhere”. They unveiled the new React Router website, and with it, the new focus that React router has taken — declarative components.
+- [2017-Changing Old Habits in React Router 4](https://parg.co/bVv): At React Conf 2017, Michael Jackson & Ryan Florence talked about React Router in their talk called “Learn Once, Route Anywhere”. They unveiled the new React Router website, and with it, the new focus that React router has taken — declarative components.
 
 - [2017-The One Thing you need to know about React Router 4](https://parg.co/bIf):
 
@@ -116,11 +116,11 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 - [2017-A shallow dive into React Router v4 Animated Transitions](https://parg.co/b1I): It can be a bit confusing getting animated transitions setup with React Router v4. This article won’t cover every scenario, but we’ll go over the basics so that you can add animated transitions to your application.
 
-* [Super easy magic-move transitions for React apps](https://github.com/berzniz/react-overdrive)
+- [Super easy magic-move transitions for React apps](https://github.com/berzniz/react-overdrive)
 
-* [React Router V4 页面动画](https://github.com/tkh44/data-driven-motion/blob/master/demo/src/App.js#L187-L191)
+- [React Router V4 页面动画](https://github.com/tkh44/data-driven-motion/blob/master/demo/src/App.js#L187-L191)
 
-* [2017-Animated page transitions with React Router 4, ReactTransitionGroup and Animated](https://parg.co/bel): In this article I’ll show you how to animate your page transitions using lifecycle methods from ReactTransitionGroup and the Animated library.
+- [2017-Animated page transitions with React Router 4, ReactTransitionGroup and Animated](https://parg.co/bel): In this article I’ll show you how to animate your page transitions using lifecycle methods from ReactTransitionGroup and the Animated library.
 
 # Widgets | 控件
 
@@ -130,7 +130,7 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 - [2017-Automagically manage React forms state and automatic validation with MobX](https://medium.com/@foxhound87/automagically-manage-react-forms-state-with-mobx-and-automatic-validation-2b00a32b9769)
 
-* [2018-An imperative guide to forms in React](https://blog.logrocket.com/an-imperative-guide-to-forms-in-react-927d9670170a?source=linkShare-fe48c4221a4c-1519391172): in this tutorial, I will explain how React deals with forms and events.
+- [2018-An imperative guide to forms in React](https://blog.logrocket.com/an-imperative-guide-to-forms-in-react-927d9670170a?source=linkShare-fe48c4221a4c-1519391172): in this tutorial, I will explain how React deals with forms and events.
 
 ## List | 列表
 

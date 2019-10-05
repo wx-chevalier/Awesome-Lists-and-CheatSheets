@@ -20,7 +20,7 @@
 
 - [Building an Ecommerce GraphQL API: The Challenges](https://techblog.commercetools.com/building-an-ecommerce-graphql-api-the-challenges-6d652a95f478?source=reading_list---------99-3---------)
 
-* [tutorial-building-a-graphql-server](https://medium.com/apollo-stack/tutorial-building-a-graphql-server-cddaa023c035#.w6r1huy4b): 从零开始构建一个 GraphQL 服务端，包含了 SQL 查询、Mongodb 查询以及 REST Endpoint 的支持
+- [tutorial-building-a-graphql-server](https://medium.com/apollo-stack/tutorial-building-a-graphql-server-cddaa023c035#.w6r1huy4b): 从零开始构建一个 GraphQL 服务端，包含了 SQL 查询、Mongodb 查询以及 REST Endpoint 的支持
 
 - [how-do-i-graphql](https://medium.com/apollo-stack/how-do-i-graphql-2fcabfc94a01#.wzt7u46uc)
 
@@ -28,11 +28,11 @@
 
 - [How to build a GraphQL Server with `graphql-yoga`](https://parg.co/UIg): In this post, you’ll learn how to build your own GraphQL server using graphql-yoga from scratch.
 
-* [How to wrap a REST API with GraphQL](https://blog.graph.cool/how-to-wrap-a-rest-api-with-graphql-8bf3fb17547d): 3-step tutorial how to easily turn a REST API into a GraphQL API.
+- [How to wrap a REST API with GraphQL](https://blog.graph.cool/how-to-wrap-a-rest-api-with-graphql-8bf3fb17547d): 3-step tutorial how to easily turn a REST API into a GraphQL API.
 
 - [2017-Apollo Server 1.0 — A GraphQL Server for all Node.js frameworks](https://parg.co/bWY): Use GraphQL with Express, Hapi, Koa, Lambda, Micro, Restify, etc.
 
-* [2018-Building a Realtime GraphQL Server with Subscriptions](https://blog.graph.cool/tutorial-building-a-realtime-graphql-server-with-subscriptions-2758cfc6d427): GraphQL subscriptions allow clients to receive realtime updates from a GraphQL API upon specific events。
+- [2018-Building a Realtime GraphQL Server with Subscriptions](https://blog.graph.cool/tutorial-building-a-realtime-graphql-server-with-subscriptions-2758cfc6d427): GraphQL subscriptions allow clients to receive realtime updates from a GraphQL API upon specific events。
 
 - [2018-How To Build GraphQL Servers](https://medium.com/apollo-stack/how-to-build-graphql-servers-87587591ded5#.za2zqmq0i): 一些使用 GraphQL 进行服务端构建的最佳实践。
 

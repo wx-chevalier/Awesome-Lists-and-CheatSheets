@@ -2,9 +2,9 @@
 
 # Spark Streaming List
 
-* [Apache Spark 的设计与实现](https://www.gitbook.com/book/yourtion/sparkinternals/details)
+- [Apache Spark 的设计与实现](https://www.gitbook.com/book/yourtion/sparkinternals/details)
 
-* [Spark 性能优化指南——高级篇](http://tech.meituan.com/spark-tuning-pro.html)
+- [Spark 性能优化指南——高级篇](http://tech.meituan.com/spark-tuning-pro.html)
 
 - [unit-testing-spark-with-java](http://www.jesse-anderson.com/2016/04/unit-testing-spark-with-java/)
 

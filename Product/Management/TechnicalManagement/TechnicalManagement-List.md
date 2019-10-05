@@ -44,7 +44,7 @@
 
 - [(完整版)Facebook 研发团队的高效秘诀](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=205983820&idx=1&sn=f0791810eb87012bb09ffbb6a75c11c0&scene=21#wechat_redirect)
 
-* [丁香园技术副总裁范凯：公司高速发展是对团队最好的管理](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=210785109&idx=1&sn=b89a0a9d938d01d6eac5b6ff06db4f05&scene=21#wechat_redirect)
+- [丁香园技术副总裁范凯：公司高速发展是对团队最好的管理](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=210785109&idx=1&sn=b89a0a9d938d01d6eac5b6ff06db4f05&scene=21#wechat_redirect)
 
 - [访谈  |  果糖移动 CTO 刘建国：怎样带出一个 2.5 倍速的研发团队](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=209773987&idx=1&sn=284793a7f132e146d8b0a6098006e7aa&scene=21#wechat_redirect)
 
@@ -52,7 +52,7 @@
 
 - [运筹帷幄，解密远程管理；决胜千里，打造王牌团队](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=208427708&idx=1&sn=380a1d28bbaa635038195a7549276d44&scene=21#wechat_redirect)
 
-* [Coding.net CTO 孙宇聪谈全员全栈](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=211010887&idx=1&sn=a3952db8e58ffbc749c920f508c18b97&scene=21#wechat_redirect)
+- [Coding.net CTO 孙宇聪谈全员全栈](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=211010887&idx=1&sn=a3952db8e58ffbc749c920f508c18b97&scene=21#wechat_redirect)
 
 - [如何才能成为一个好的技术领导者？](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=400644089&idx=1&sn=1cf732f5529c64ee8d3fa9e55dbd84db#wechat_redirect)
 
@@ -60,17 +60,17 @@
 
 - [靠制度？NO！人才是管理的根本](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=206214586&idx=1&sn=7697a1039fb1eed57ded2e542c5ec76a&scene=21#wechat_redirect)
 
-* [访谈  |  荔枝 FM CTO 丁宁：CTO 要扮演好技术领袖与精神领袖](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=400485548&idx=1&sn=1a8d7691df5df19c5a9bd23fd3704d85#wechat_redirect)
+- [访谈  |  荔枝 FM CTO 丁宁：CTO 要扮演好技术领袖与精神领袖](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=400485548&idx=1&sn=1a8d7691df5df19c5a9bd23fd3704d85#wechat_redirect)
 
 - [技术主管的瑞士军刀](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=206769057&idx=1&sn=a403f8fe0291a8fd3ddad6937702a0b5&scene=21#wechat_redirect)
 
-* [我们到底需要什么样的领导](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=209939002&idx=1&sn=899db6479266684e137eb645aa21c545&scene=21#wechat_redirect)
+- [我们到底需要什么样的领导](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=209939002&idx=1&sn=899db6479266684e137eb645aa21c545&scene=21#wechat_redirect)
 
 #  技术创业
 
 - [丁香园技术副总裁范凯：公司高速发展是对团队最好的管理](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=210785109&idx=1&sn=b89a0a9d938d01d6eac5b6ff06db4f05&scene=21#wechat_redirect)
 
-* [访谈  |  果糖移动 CTO 刘建国：怎样带出一个 2.5 倍速的研发团队](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=209773987&idx=1&sn=284793a7f132e146d8b0a6098006e7aa&scene=21#wechat_redirect)
+- [访谈  |  果糖移动 CTO 刘建国：怎样带出一个 2.5 倍速的研发团队](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=209773987&idx=1&sn=284793a7f132e146d8b0a6098006e7aa&scene=21#wechat_redirect)
 
 - [酒仙网副总裁助理宗刚：那些技术创业踩过的坑](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=401393053&idx=1&sn=e3b1ddfb7d917fd7f988472123e64f90&scene=21#wechat_redirect)
 
@@ -78,7 +78,7 @@
 
 - [访谈  |  听云 CTO 陈靖华：创业就像一场必须坚持到底的长跑](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=401057711&idx=1&sn=56d595699ce4819a89a62dd84b634b8c&scene=21#wechat_redirect)
 
-* [资本的逻辑：各轮融资中投资人更看重的那些事](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=400782767&idx=1&sn=5ab4594308df290c5af617a14f90acd4&scene=21#wechat_redirect)
+- [资本的逻辑：各轮融资中投资人更看重的那些事](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=400782767&idx=1&sn=5ab4594308df290c5af617a14f90acd4&scene=21#wechat_redirect)
 
 - [听云 CTO 陈靖华讲述技术型公司的创新与上市经验](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=208520423&idx=1&sn=0a0eed5ad5ef1eadc144c1425685d460&scene=21#wechat_redirect)
 

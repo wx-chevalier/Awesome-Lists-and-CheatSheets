@@ -4,4 +4,4 @@
 
 - [静态分析工具大集合](http://www.freebuf.com/sectool/119680.html)
 
-* [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check#tab=Main): OWASP 出品的代码依赖项的分析工具。
+- [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check#tab=Main): OWASP 出品的代码依赖项的分析工具。

@@ -14,8 +14,8 @@
 
 ## Redis
 
-* [node_redis #Project#](https://github.com/NodeRedis/node_redis): This is a complete and feature rich Redis client for node.js. It supports all Redis commands and focuses on high performance.
+- [node_redis #Project#](https://github.com/NodeRedis/node_redis): This is a complete and feature rich Redis client for node.js. It supports all Redis commands and focuses on high performance.
 
-* [ioredis #Project#](https://github.com/luin/ioredis): A robust, performance-focused and full-featured Redis client for Node and io.js.
+- [ioredis #Project#](https://github.com/luin/ioredis): A robust, performance-focused and full-featured Redis client for Node and io.js.
 
-* [Radredis #Project#](https://github.com/bustle/radredis): Radredis is a node data adapter for redis. It is not a full ORM but a simple opinionated interface for storing application data in redis.
+- [Radredis #Project#](https://github.com/bustle/radredis): Radredis is a node data adapter for redis. It is not a full ORM but a simple opinionated interface for storing application data in redis.

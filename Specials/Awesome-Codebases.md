@@ -4,11 +4,11 @@ Awesome Codebases 收藏了哪些设计，代码风格，或者架构优美的�
 
 - [FullStack Home Renting #Project#](https://github.com/TrillCyborg/fullstack): This project was supposed to be an app where users receive benefits for paying their rent through the platform as opposed to check or bank transfer.
 
-* [Joplin #Project#](https://github.com/laurent22/joplin): a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+- [Joplin #Project#](https://github.com/laurent22/joplin): a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 
-* [Bottery #Project#](https://github.com/google/bottery): Bottery is a syntax, editor, and simulator for prototyping generative contextual conversations modeled as finite state machines.
+- [Bottery #Project#](https://github.com/google/bottery): Bottery is a syntax, editor, and simulator for prototyping generative contextual conversations modeled as finite state machines.
 
-* [Bubble](https://bubble.is/): Build software by pointing and clicking.
+- [Bubble](https://bubble.is/): Build software by pointing and clicking.
 
 # Web Template
 

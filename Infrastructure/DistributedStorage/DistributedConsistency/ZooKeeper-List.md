@@ -4,7 +4,7 @@
 
 - [ZooKeeper 编程指导](http://ifeve.com/zookeeperprogrammers/)
 
-* [ZooKeeper](https://zookeeper.apache.org/doc/current/)
+- [ZooKeeper](https://zookeeper.apache.org/doc/current/)
 
 - [分布式系统服务 ZooKeeper 的学习历程](https://github.com/llohellohe/zookeeper)
 

@@ -20,9 +20,9 @@
 
 - [2017-An Abridged Cartoon Introduction To WebAssembly](https://www.smashingmagazine.com/2017/05/abridged-cartoon-introduction-webassembly/): In this article, I want to help you understand what exactly it is about WebAssembly that makes it fast.
 
-* [2017-The future of WebAssembly - A look at upcoming features and proposals](https://blog.scottlogic.com/2018/07/20/wasm-future.html): I’ll skip over some of the more technical proposals, instead focusing on what they might mean for languages that target WebAssembly.
+- [2017-The future of WebAssembly - A look at upcoming features and proposals](https://blog.scottlogic.com/2018/07/20/wasm-future.html): I’ll skip over some of the more technical proposals, instead focusing on what they might mean for languages that target WebAssembly.
 
-* [2018-WebAssembly’s post-MVP future](https://hn.premii.com/#/article/18275489): There are many features that are coming to WebAssembly which will fundamentally alter what you can do with WebAssembly.
+- [2018-WebAssembly’s post-MVP future](https://hn.premii.com/#/article/18275489): There are many features that are coming to WebAssembly which will fundamentally alter what you can do with WebAssembly.
 
 ## Comparsion
 
@@ -42,9 +42,9 @@
 
 - [2017-Build Your First Thing With WebAssembly](http://cultureofdevelopment.com/blog/build-your-first-thing-with-web-assembly/)
 
-* [2017-WebAssembly 101: a developer's first steps](http://blog.openbloc.fr/webassembly-first-steps/):  This tutorial will guide you along the necessary steps to port a JavaScript library of the Conway's game of life to WebAssembly (wasm). This is a simple exercise that is perfect to start beyond a trivial Hello World.
+- [2017-WebAssembly 101: a developer's first steps](http://blog.openbloc.fr/webassembly-first-steps/):  This tutorial will guide you along the necessary steps to port a JavaScript library of the Conway's game of life to WebAssembly (wasm). This is a simple exercise that is perfect to start beyond a trivial Hello World.
 
-* [2017-Egghead.io WASM Introduction Examples](https://github.com/guybedford/wasm-intro): Course examples from the Introduction to WebAssembly egghead.io course.
+- [2017-Egghead.io WASM Introduction Examples](https://github.com/guybedford/wasm-intro): Course examples from the Introduction to WebAssembly egghead.io course.
 
 - [2018-Writing WebAssembly By Hand](http://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html): However, it is actually possible to write WebAssembly directly by hand.
 

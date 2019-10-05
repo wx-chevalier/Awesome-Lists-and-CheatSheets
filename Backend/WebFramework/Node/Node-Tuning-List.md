@@ -4,7 +4,7 @@
 
 - [Putting the helmet on – Securing your Express app](https://parg.co/U55)
 
-* [2017-Writing Secure Node.js Code - Danny Grander](https://parg.co/bVL)：In his presentation, Danny Grander walked us through hacking a vulnerable Node.js application, as well as looking in-depth into three different vulnerabilities in popular npm packages.
+- [2017-Writing Secure Node.js Code - Danny Grander](https://parg.co/bVL)：In his presentation, Danny Grander walked us through hacking a vulnerable Node.js application, as well as looking in-depth into three different vulnerabilities in popular npm packages.
 
 - [2017-Node.js Performance Monitoring with Prometheus](https://parg.co/bed): This article helps you to understand what to monitor if you have a Node.js application in production, and how to use Prometheus - an open-source solution, which provides powerful data compressions and fast data querying for time series data - for Node.js monitoring.
 
@@ -22,17 +22,17 @@
 
 - [Nodejs 线上服务稳定性保障体系](http://www.tuicool.com/articles/RRvQ7zi)
 
-* [2018-Switching from cluster module to PM2 & RabbitMQ in Node.js](https://parg.co/Awx): This blog will cover the reasons why I made this change and provide background on how and why I moved to PM2 & RabbitMQ.
+- [2018-Switching from cluster module to PM2 & RabbitMQ in Node.js](https://parg.co/Awx): This blog will cover the reasons why I made this change and provide background on how and why I moved to PM2 & RabbitMQ.
 
-* [2017-Running Node.js on Linux with systemd](https://blog.codeship.com/running-node-js-linux-systemd/): In this blog post, I’ll show you how to recreate process management, logging and clustering functionality using the Linux init system, systemd, and I’ll make the case for this being a superior approach.
+- [2017-Running Node.js on Linux with systemd](https://blog.codeship.com/running-node-js-linux-systemd/): In this blog post, I’ll show you how to recreate process management, logging and clustering functionality using the Linux init system, systemd, and I’ll make the case for this being a superior approach.
 
 # Performance
 
 - [2017-Understanding & Measuring HTTP Timings with Node.js](https://blog.risingstack.com/measuring-http-timings-node-js/): This article explains timings in an HTTP request and shows how to measure them in Node.js.
 
-* [node-micro-optimizations-javascript](https://www.infoq.com/articles/node-micro-optimizations-javascript) ：中文译本为[多个提高 Node.js 应用吞吐量的小优化技巧介绍](https://zhuanlan.zhihu.com/p/25276558)。
+- [node-micro-optimizations-javascript](https://www.infoq.com/articles/node-micro-optimizations-javascript) ：中文译本为[多个提高 Node.js 应用吞吐量的小优化技巧介绍](https://zhuanlan.zhihu.com/p/25276558)。
 
-* [2018-node-clinic #Project#](https://github.com/nearform/node-clinic): Clinic diagnoses your Node.js performance issues.
+- [2018-node-clinic #Project#](https://github.com/nearform/node-clinic): Clinic diagnoses your Node.js performance issues.
 
 # Cluster
 
@@ -50,4 +50,4 @@
 
 - [2017-Microservices made easy with Node.js](https://arm.ag/microservices-made-easy-with-node-js-f41bb2be2d3c): You might think microservices are too hard to get started with. This post will prove otherwise.
 
-* [「服务端」node 服务的监控预警系统架构](https://github.com/ShowJoy-com/showjoy-blog/issues/4)
+- [「服务端」node 服务的监控预警系统架构](https://github.com/ShowJoy-com/showjoy-blog/issues/4)

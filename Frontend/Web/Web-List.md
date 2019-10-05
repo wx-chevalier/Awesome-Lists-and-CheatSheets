@@ -52,9 +52,9 @@
 
 - [2015-Real World #Project#](https://github.com/gothinkster/realworld): RealWorld solves this by allowing you to choose any frontend (React, Angular 2, & more) and any backend (Node, Django, & more) and see how they power a real world, beautifully designed fullstack app called "Conduit".
 
-* [ui-element-samples #Project#](https://github.com/GoogleChrome/ui-element-samples): A collection of UI element samples written with vanilla web platform features.
+- [ui-element-samples #Project#](https://github.com/GoogleChrome/ui-element-samples): A collection of UI element samples written with vanilla web platform features.
 
-* [fbjs #Project#](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
+- [fbjs #Project#](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
 
 # Tutorial
 

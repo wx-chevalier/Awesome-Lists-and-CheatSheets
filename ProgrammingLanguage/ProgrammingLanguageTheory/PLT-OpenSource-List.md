@@ -8,6 +8,6 @@
 
 - Facebook-Infer
 
-* [Ohm #Project#](https://github.com/harc/ohm): A library and language for building parsers, interpreters, compilers, etc.
+- [Ohm #Project#](https://github.com/harc/ohm): A library and language for building parsers, interpreters, compilers, etc.
 
 - [2018-Tau Prolog #Project#](https://github.com/jariazavalverde/tau-prolog/): Tau Prolog is a Prolog interpreter fully implemented in JavaScript.

@@ -6,7 +6,7 @@
 
 - [Guava #Project#](https://github.com/google/guava): Guava is a set of core libraries that includes new collection types (such as multimap and multiset), immutable collections, a graph library, functional types, an in-memory cache, and APIs/utilities for concurrency, IO, hashing, primitives, reflection, string processing, and much more!
 
-* [Twitter-commons #Project#](https://github.com/twitter/commons): Twitter common libraries for python and the JVM.
+- [Twitter-commons #Project#](https://github.com/twitter/commons): Twitter common libraries for python and the JVM.
 
 - [Lombok #Project#](https://projectlombok.org/): Project Lombok is a java library that automatically plugs into your editor and build tools, spicing up your java.
 
@@ -60,9 +60,9 @@
 
 - [MyBatis 分页插件 PageHelper、通用 Mapper #Project#](http://mybatis.tk/)
 
-* [mybatis-types #Project#](https://github.com/javaplugs/mybatis-types/): Type Handlers for MyBatis 3.x including Java 8 time (JSR 310) support.
+- [mybatis-types #Project#](https://github.com/javaplugs/mybatis-types/): Type Handlers for MyBatis 3.x including Java 8 time (JSR 310) support.
 
-* [mybatis-multi-tenancy #Project#](https://github.com/Mearalu/mybatis-multi-tenancy): 这是一个 mybatis 的基于共享数据表模式的多租户插件
+- [mybatis-multi-tenancy #Project#](https://github.com/Mearalu/mybatis-multi-tenancy): 这是一个 mybatis 的基于共享数据表模式的多租户插件
 
 - [mybatis-plus #Project#](https://github.com/baomidou/mybatis-plus): An powerful enhanced toolkit of MyBatis for simplify development.
 
@@ -108,13 +108,13 @@
 
 - [MyPerf4J #Project#](https://github.com/ThinkpadNC5/MyPerf4J): Real-time Java method performance monitoring and statistical tool.
 
-* [useful-scripts #Project#](https://github.com/oldratlee/useful-scripts): 把平时有用的手动操作做成脚本，这样可以便捷的使用。
+- [useful-scripts #Project#](https://github.com/oldratlee/useful-scripts): 把平时有用的手动操作做成脚本，这样可以便捷的使用。
 
-* [2018-vjtools #Project#](https://github.com/vipshop/vjtools): The vip.com's java coding standard, libraries and tools
+- [2018-vjtools #Project#](https://github.com/vipshop/vjtools): The vip.com's java coding standard, libraries and tools
 
-* [2018-jvm-profiler #Project#](https://github.com/uber-common/jvm-profiler): JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter.
+- [2018-jvm-profiler #Project#](https://github.com/uber-common/jvm-profiler): JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter.
 
-* [2018-Arthas #Project#](https://github.com/alibaba/arthas): Arthas 是 Alibaba 开源的 Java 诊断工具，深受开发者喜爱。
+- [2018-Arthas #Project#](https://github.com/alibaba/arthas): Arthas 是 Alibaba 开源的 Java 诊断工具，深受开发者喜爱。
 
 - JIP，housemd，btrace，greys
 

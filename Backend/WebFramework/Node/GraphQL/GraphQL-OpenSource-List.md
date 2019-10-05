@@ -6,7 +6,7 @@
 
 - [graphql-tag #Project#](https://www.npmjs.com/package/graphql-tag): Helpful utilities for parsing GraphQL queries.
 
-* [sql-to-graphql #Project#](https://github.com/rexxars/sql-to-graphql): Generate GraphQL schemas and server based on SQL table structure.
+- [sql-to-graphql #Project#](https://github.com/rexxars/sql-to-graphql): Generate GraphQL schemas and server based on SQL table structure.
 
 # Server Side
 

@@ -16,11 +16,11 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [2013-Kali #Project#](https://www.backtrack-linux.org/): Kali Linux is constantly evolving with new features being added to the distribution all the time.
 
-* [fsociety #Project#](https://github.com/Manisso/fsociety): A Penetration Testing Framework, you will have every script that a hacker needs.
+- [fsociety #Project#](https://github.com/Manisso/fsociety): A Penetration Testing Framework, you will have every script that a hacker needs.
 
-* [AutoSploit #Project#](https://github.com/NullArray/AutoSploit): As the name might suggest AutoSploit attempts to automate the exploitation of remote hosts. Targets are collected automatically as well by employing the Shodan.io API.
+- [AutoSploit #Project#](https://github.com/NullArray/AutoSploit): As the name might suggest AutoSploit attempts to automate the exploitation of remote hosts. Targets are collected automatically as well by employing the Shodan.io API.
 
-* [Retire.js #Project#](http://retirejs.github.io/retire.js/): The goal of Retire.js is to help you detect use of version with known vulnerabilities.
+- [Retire.js #Project#](http://retirejs.github.io/retire.js/): The goal of Retire.js is to help you detect use of version with known vulnerabilities.
 
 - [Metasploit #Project#](https://www.metasploit.com/): Metasploit helps security teams do more than just verify vulnerabilities, manage security assessments, and improve security awareness;
 
@@ -38,9 +38,9 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [巡风 #Project#](https://github.com/ysrc/xunfeng): 巡风是一款适用于企业内网的漏洞快速应急、巡航扫描系统，通过搜索功能可清晰的了解内部网络资产分布情况，并且可指定漏洞插件对搜索结果进行快速漏洞检测并输出结果报表。
 
-* [洞察 #Project#](https://github.com/creditease-sec/insight): 洞察-宜信集应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的平台。
+- [洞察 #Project#](https://github.com/creditease-sec/insight): 洞察-宜信集应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的平台。
 
-* [2018-Fuxi Scanner #Project#](https://github.com/jeffzh3ng/Fuxi-Scanner): Fuxi Scanner is an open source network security vulnerability scanner, it comes with multiple functions.
+- [2018-Fuxi Scanner #Project#](https://github.com/jeffzh3ng/Fuxi-Scanner): Fuxi Scanner is an open source network security vulnerability scanner, it comes with multiple functions.
 
 - [2017-Wfuzz #Project#](https://github.com/xmendez/wfuzz): Wfuzz has been created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.
 
@@ -92,11 +92,11 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [一款轻量级 Web 漏洞教学演示系统( DSVW )](http://www.freebuf.com/sectool/126707.html)：Damn Small Vulnerable Web (DSVW) 是使用 Python 语言开发的 Web 应用漏洞 的演练系统。其系统只有一个 python 的脚本文件组成 , 当中涵盖了 26 种 Web 应用漏洞环境, 并且脚本代码行数控制在了 100 行以内。
 
-* [Gryffin #Project#](https://github.com/yahoo/gryffin): Gryffin is a large scale web security scanning platform. It is not yet another scanner. It was written to solve two specific problems with existing scanners: coverage and scale.
+- [Gryffin #Project#](https://github.com/yahoo/gryffin): Gryffin is a large scale web security scanning platform. It is not yet another scanner. It was written to solve two specific problems with existing scanners: coverage and scale.
 
-* [收集整理的一些黑客游戏的网址](http://toutiao.io/posts/nkt6rh)
+- [收集整理的一些黑客游戏的网址](http://toutiao.io/posts/nkt6rh)
 
-* [RouterSploit - Router Exploitation Framework #Project#](https://github.com/reverse-shell/routersploit)
+- [RouterSploit - Router Exploitation Framework #Project#](https://github.com/reverse-shell/routersploit)
 
 # Web Security
 

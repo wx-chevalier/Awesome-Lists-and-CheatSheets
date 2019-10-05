@@ -20,7 +20,7 @@
 
 - [2016-thingsboard-gateway #Project#](https://github.com/thingsboard/thingsboard-gateway): Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with ThingsBoard IoT Platform using OPC-UA and MQTT protocols
 
-* [Haven #Project#](https://github.com/guardianproject/haven): Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors.
+- [Haven #Project#](https://github.com/guardianproject/haven): Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors.
 
 # Firmware
 

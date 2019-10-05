@@ -2,15 +2,15 @@
 
 # Sorting Algorithm List
 
-* [面试中的排序算法总结](http://www.cnblogs.com/wxisme/p/5243631.html?f=tt)
+- [面试中的排序算法总结](http://www.cnblogs.com/wxisme/p/5243631.html?f=tt)
 
-* [各种排序算法总结](http://www.jianshu.com/p/f5baf7f27a7e)
+- [各种排序算法总结](http://www.jianshu.com/p/f5baf7f27a7e)
 
-* [八大排序算法](http://blog.jobbole.com/103456/)
+- [八大排序算法](http://blog.jobbole.com/103456/)
 
-* [深入理解排序算法](http://www.cnblogs.com/absfree/p/5469212.html)
+- [深入理解排序算法](http://www.cnblogs.com/absfree/p/5469212.html)
 
-* [如何给 100 亿个数字排序 ?](http://www.jianshu.com/p/8dc11152f178)
+- [如何给 100 亿个数字排序 ?](http://www.jianshu.com/p/8dc11152f178)
 
 - [2005-Implementing Sorting in Database Systems #Paper#](http://wwwlgis.informatik.uni-kl.de/archiv/wwwdvs.informatik.uni-kl.de/courses/DBSREAL/SS2005/Vorlesungsunterlagen/Implementing_Sorting.pdf): This survey collects many of these techniques for easy reference by students, researchers, and product de- velopers. It covers in-memory sorting, disk-based external sorting, and considerations that apply specifically to sorting in database systems.
 

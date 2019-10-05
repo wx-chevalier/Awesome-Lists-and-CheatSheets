@@ -4,7 +4,7 @@
 
 - [2017-Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans): A topic that can easily make anyone's mind wobble. Here I try to make them stick in to your mind (and maybe mine) by explaining them in the simplest way possible.
 
-* [云栖社区-架构师的路到底怎么走](https://www.zhihu.com/question/40520339/answer/250338569)
+- [云栖社区-架构师的路到底怎么走](https://www.zhihu.com/question/40520339/answer/250338569)
 
 - [2017-10 Common Software Architectural Patterns in a nutshell](https://parg.co/bD3)
 
@@ -36,23 +36,23 @@
 
 - [The Command Pattern Using Higher Order Functions](https://parg.co/U82): If your team is used to functional programming, then know that design patterns like the Command pattern can be used in a functional way as well.
 
-* [JavaScript — Observables Under The Hood](https://netbasal.com/javascript-observables-under-the-hood-2423f760584#.ihd02lckm)
+- [JavaScript — Observables Under The Hood](https://netbasal.com/javascript-observables-under-the-hood-2423f760584#.ihd02lckm)
 
-* [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript)
+- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript)
 
 ## Resources
 
 - [2016-Design Patterns in Typescript #Project#](https://github.com/gztchan/design-patterns-in-typescript)
 
-* [2017-Design Patterns JS #Project#](https://github.com/fbeline/Design-Patterns-JS/): All the 23 (GoF) design patterns implemented in Javascript
+- [2017-Design Patterns JS #Project#](https://github.com/fbeline/Design-Patterns-JS/): All the 23 (GoF) design patterns implemented in Javascript
 
-* [2017-Design Patterns in TypeScript #Project#](https://parg.co/Ui8): Here are the implementations of the following design patterns in TypeScript.
+- [2017-Design Patterns in TypeScript #Project#](https://parg.co/Ui8): Here are the implementations of the following design patterns in TypeScript.
 
 ## SOLID
 
 - [Understanding SOLID Principles #Series#](https://parg.co/U6m): [Understanding SOLID Principles: Open Closed Principle](https://parg.co/U6m)
 
-* [2012-solid-javascript](http://aspiringcraftsman.com/2012/01/22/solid-javascript-the-dependency-inversion-principle/)
+- [2012-solid-javascript](http://aspiringcraftsman.com/2012/01/22/solid-javascript-the-dependency-inversion-principle/)
 
 ## Creational Pattern
 

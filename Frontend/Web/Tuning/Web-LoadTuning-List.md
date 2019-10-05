@@ -12,7 +12,7 @@
 
 - [The Best Request Is No Request, Revisited](https://alistapart.com/article/the-best-request-is-no-request-revisited)
 
-* [How Modern Web Browsers Accelerate Performance: The Networking Layer](https://parg.co/UtY): In this post, we’ll try to analyze what techniques modern browsers employ to automatically boost performance.
+- [How Modern Web Browsers Accelerate Performance: The Networking Layer](https://parg.co/UtY): In this post, we’ll try to analyze what techniques modern browsers employ to automatically boost performance.
 
 # HTTP
 
@@ -28,7 +28,7 @@
 
 - [完结篇：史上最全的 CDN 内容分发网络实战技巧](http://mp.weixin.qq.com/s/a9rxbe8Zj8TZGhTVQPBzyQ)
 
-* [JARE](http://www.jare.io/)
+- [JARE](http://www.jare.io/)
 
 - [jare-instant-free-cdn](http://www.yegor256.com/2016/03/30/jare-instant-free-cdn.html)
 
@@ -50,25 +50,25 @@
 
 - [UnCSS #Project# ](https://github.com/giakki/uncss): UnCSS is a tool that removes unused CSS from your stylesheets. It works across multiple files and supports Javascript-injected CSS.
 
-* [2017-Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://parg.co/bwo)
+- [2017-Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://parg.co/bwo)
 
-* [2017-Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://vuejsdevelopers.com/2017/07/24/critical-css-webpack/): Isolating critical CSS is something that can be done programmatically, and in this article I’ll show you how to delegate it to your Webpack pipeline.
+- [2017-Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://vuejsdevelopers.com/2017/07/24/critical-css-webpack/): Isolating critical CSS is something that can be done programmatically, and in this article I’ll show you how to delegate it to your Webpack pipeline.
 
-* [2018-purgecss #Project#](https://github.com/FullHuman/purgecss): Purgecss analyzes your content and your css files. Then it matches the selectors used in your files with the one in your content files. It removes unused selectors from your css, resulting in smaller css files.
+- [2018-purgecss #Project#](https://github.com/FullHuman/purgecss): Purgecss analyzes your content and your css files. Then it matches the selectors used in your files with the one in your content files. It removes unused selectors from your css, resulting in smaller css files.
 
 ## Lazy Loading | 懒加载
 
 - [2017-Lozad.js #Project# ](https://github.com/ApoorvSaxena/lozad.js): Highly performant, light ~0.5kb and configurable lazy loader in pure JS with no dependencies for images, iframes and more, using IntersectionObserver API
 
-* [2017-How to use SVG as a Placeholder, and Other Image Loading Techniques](https://parg.co/UEY)
+- [2017-How to use SVG as a Placeholder, and Other Image Loading Techniques](https://parg.co/UEY)
 
 ## Code Spliting | 代码分割
 
 - [Bundle Buddy #Project#](https://github.com/samccone/bundle-buddy): Bundle Buddy is a tool to help you find source code duplication across your javascript chunks/splits. This enables you to fine tune code splitting parameters to reduce bundle invalidation rates as well as improve repeat page load performance \o/.
 
-* [2018-Web Performance Optimization with Webpack by Addy Osmani](https://parg.co/UXN): Taking advantage of its features for optimizing modern code, code-splitting scripts into critical and non-critical pieces and stripping out unused code.
+- [2018-Web Performance Optimization with Webpack by Addy Osmani](https://parg.co/UXN): Taking advantage of its features for optimizing modern code, code-splitting scripts into critical and non-critical pieces and stripping out unused code.
 
-* [腾讯社交网络图片带宽优化技术演进之路](https://parg.co/Ua4): 为进一步降低运营带宽成本，减小用户访问流量及提升页面加载速度，社交网络 CDN 运维紧跟行业图片优化趋势，创新引入 WebP、SharpP、自适应分辨率、Guetzli 等图像压缩技术到现网，经过三年多的多部门联合攻关，已逐渐形成一套覆盖全图片类型(JPEG、JPG、PNG、WebP、GIF)多场景的图片压缩运营体系，适用于各类型终端，每年节约外网带宽几百 G。
+- [腾讯社交网络图片带宽优化技术演进之路](https://parg.co/Ua4): 为进一步降低运营带宽成本，减小用户访问流量及提升页面加载速度，社交网络 CDN 运维紧跟行业图片优化趋势，创新引入 WebP、SharpP、自适应分辨率、Guetzli 等图像压缩技术到现网，经过三年多的多部门联合攻关，已逐渐形成一套覆盖全图片类型(JPEG、JPG、PNG、WebP、GIF)多场景的图片压缩运营体系，适用于各类型终端，每年节约外网带宽几百 G。
 
 # Image Optimization: 图片优化
 
@@ -78,7 +78,7 @@
 
 - [2017-Reducing Image File Size at Etsy](https://parg.co/bvn): Serving images is a critical part of Etsy’s infrastructure.
 
-* [Save time by transforming images in the command line](http://6me.us/WYOP1)
+- [Save time by transforming images in the command line](http://6me.us/WYOP1)
 
 - [2017-Network based image loading using the Network Information API in Service Worker](https://parg.co/U5N): Recently, Chromium improved their implementation of navigator.connection by adding three new attributes: effectiveType, downlink and rtt.
 

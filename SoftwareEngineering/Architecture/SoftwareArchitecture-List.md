@@ -26,7 +26,7 @@
 
 - [2013-Vaughn-Implementing Domain Driven Design #Book#](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577): Implementing Domain-Driven Design will impart a treasure trove of knowledge hard won within the DDD and enterprise application architecture communities over the last couple decades.
 
-* [2016-架构漫谈 #Book#](https://www.amazon.cn/dp/B01B60Z9WG): 专栏以 Kevin 的架构经验为基础，逐步讨论什么是架构、怎样做好架构、软件架构如何落地、如何写好代码等问题。
+- [2016-架构漫谈 #Book#](https://www.amazon.cn/dp/B01B60Z9WG): 专栏以 Kevin 的架构经验为基础，逐步讨论什么是架构、怎样做好架构、软件架构如何落地、如何写好代码等问题。
 
 - [2017-Source Making-Refactoring Series #Book#](https://sourcemaking.com/refactoring): The book covers 89 code smells and the appropriate methods for refactoring. It consists of simple text slides, cute illustrations and interactive code examples.
 
@@ -44,4 +44,4 @@
 
 - [The 5 Problem-Solving Skills of Great Software Developers](https://www.coderhood.com/5-problem-solving-skills-great-software-developers/)
 
-* [2018-The Path to Becoming a Software Architect](https://parg.co/Uv2): There are several career paths a developer might take, and this series talks over how to become a software architect.
+- [2018-The Path to Becoming a Software Architect](https://parg.co/Uv2): There are several career paths a developer might take, and this series talks over how to become a software architect.

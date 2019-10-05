@@ -14,7 +14,7 @@
 
 - [JVM 调试工具说明](http://blog.csdn.net/jiushuai/article/details/8455788)
 
-* [JVM 监控与调优](http://my.oschina.net/91jason/blog/493870?p={{page}})
+- [JVM 监控与调优](http://my.oschina.net/91jason/blog/493870?p={{page}})
 
 - [2017-The State of Debugging in Java](https://dzone.com/articles/the-state-of-debugging-in-java): Debugging has come a long way from the jdb days. Here, we cover the variety of Java debuggers out there and some common practices devs use.
 
@@ -50,4 +50,4 @@
 
 - [2008-深入 Java 调试体系](https://www.ibm.com/developerworks/cn/java/j-lo-jpda1/)
 
-* [2018-阿里巴巴正式开源自研动态非侵入 AOP 解决方案：JVM-Sandbox](https://mp.weixin.qq.com/s/Nn7Yl6UzRpWnSleKUss8Sw): 如何屏蔽字节码增强技术的高门槛，降低研发运维成本，同时又能支持上层多个工具平台功能的快速实现和动态管理，成为阿里集团的目标。
+- [2018-阿里巴巴正式开源自研动态非侵入 AOP 解决方案：JVM-Sandbox](https://mp.weixin.qq.com/s/Nn7Yl6UzRpWnSleKUss8Sw): 如何屏蔽字节码增强技术的高门槛，降低研发运维成本，同时又能支持上层多个工具平台功能的快速实现和动态管理，成为阿里集团的目标。

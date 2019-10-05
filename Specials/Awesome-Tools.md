@@ -28,13 +28,13 @@
 
 - [Chrono 下载管理器](http://6me.us/PFn)
 
-* [Save to Pocket](http://6me.us/Zp5): 允许将浏览的网页保存到 Pocket
+- [Save to Pocket](http://6me.us/Zp5): 允许将浏览的网页保存到 Pocket
 
 - [Evernote Web Clipper](http://6me.us/6ldwK7)
 
 - [Mercury Reader: 自定义阅读体验](http://6me.us/8hOKsH)
 
-* [Google Scholar Button](http://6me.us/wXicA0)
+- [Google Scholar Button](http://6me.us/wXicA0)
 
 - 链接缩略: [Goog.gl URL Shortener](http://6me.us/vaJuM3)
 
@@ -80,7 +80,7 @@
 
 - [httpie #Project#](https://github.com/jakubroztocil/httpie): Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 
-* [insomnia #Project#](https://github.com/getinsomnia/insomnia): The most intuitive cross-platform REST API Client.
+- [insomnia #Project#](https://github.com/getinsomnia/insomnia): The most intuitive cross-platform REST API Client.
 
 - [monolith #Project#](https://github.com/Y2Z/monolith): ⬛️ CLI tool for saving complete web pages as a single HTML file
 
@@ -146,15 +146,15 @@
 
 - [2013-Sphinx #Project#](https://github.com/sphinx-doc/sphinx): Sphinx is a tool that makes it easy to create intelligent and beautiful documentation for Python projects (or other documents consisting of multiple reStructuredText sources), written by Georg Brandl.
 
-* [2016-mkdocs #Project#](https://github.com/mkdocs/mkdocs/): MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file.
+- [2016-mkdocs #Project#](https://github.com/mkdocs/mkdocs/): MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file.
 
-* [2017-Docusaurus #Project#](https://parg.co/UtL): Docusaurus is a project for easily building, deploying, and maintaining open source project websites.
+- [2017-Docusaurus #Project#](https://parg.co/UtL): Docusaurus is a project for easily building, deploying, and maintaining open source project websites.
 
 ### API Docs | 接口文档
 
 - [2017-whiteboard #Project#](https://github.com/mpociot/whiteboard): Simply write beautiful API documentation.
 
-* [2018-docz #Project#](https://github.com/pedronauck/docz): It has never been so easy to document your things!
+- [2018-docz #Project#](https://github.com/pedronauck/docz): It has never been so easy to document your things!
 
 ## 文件共享
 
@@ -180,7 +180,7 @@
 
 - [Github Pages](): [2017-GitHub Pages and Single-Page Apps](https://dev.to/_evansalter/github-pages-and-single-page-apps)
 
-* [now.sh]()
+- [now.sh]()
 
 - [CaptainDuckDuck #Project#](https://github.com/githubsaturn/captainduckduck): Easiest app/database deployment platform and webserver package for your NodeJS, Python, Java applications. No Docker, nginx knowledge required!
 

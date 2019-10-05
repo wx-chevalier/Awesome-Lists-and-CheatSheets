@@ -10,7 +10,7 @@
 
 - [Koa11y #Project](https://github.com/open-indy/Koa11y): Easily check for website accessibility issues.
 
-* [2017-Web Content Accessibility Guidelines—for People Who Haven't Read Them](https://24ways.org/2017/wcag-for-people-who-havent-read-them/): In a single article—what gifts the Web Content Accessibility Guidelines 2.0 editors have bestowed upon us.
+- [2017-Web Content Accessibility Guidelines—for People Who Haven't Read Them](https://24ways.org/2017/wcag-for-people-who-havent-read-them/): In a single article—what gifts the Web Content Accessibility Guidelines 2.0 editors have bestowed upon us.
 
 # Polyfill
 
@@ -22,33 +22,33 @@
 
 - [W3C 中文排版需求](https://www.w3.org/TR/clreq/#positioning_of_bilingual_annotations)
 
-* [Sizzy #Project# ](https://github.com/kitze/sizzy)：A tool for developing responsive websites crazy-fast. Sizzy 是辅助开发者预览网页在不同屏幕分辨率下显示效果的工具，它能够在同一页上列举出目标网页在多个设备上的显示效果，从而加速响应式开发的速度。
+- [Sizzy #Project# ](https://github.com/kitze/sizzy)：A tool for developing responsive websites crazy-fast. Sizzy 是辅助开发者预览网页在不同屏幕分辨率下显示效果的工具，它能够在同一页上列举出目标网页在多个设备上的显示效果，从而加速响应式开发的速度。
 
-* [React SizeME](https://github.com/ctrlplusb/react-sizeme): Make your React Components aware of their width, height and position.
+- [React SizeME](https://github.com/ctrlplusb/react-sizeme): Make your React Components aware of their width, height and position.
 
-* [Reframe #Project# ](https://dollarshaveclub.github.io/reframe.js/)
+- [Reframe #Project# ](https://dollarshaveclub.github.io/reframe.js/)
 
-* [移动端样式小技巧](http://www.tuicool.com/articles/niuaaar)
+- [移动端样式小技巧](http://www.tuicool.com/articles/niuaaar)
 
-* [专注于移动端样式库 Mobi.css](https://github.com/xcatliu/mobi.css/blob/master/dist/mobi.css)
+- [专注于移动端样式库 Mobi.css](https://github.com/xcatliu/mobi.css/blob/master/dist/mobi.css)
 
-* [Device.js #Project#](https://github.com/matthewhudson/device.js): 面向不同的设备选用不同的布局代码
+- [Device.js #Project#](https://github.com/matthewhudson/device.js): 面向不同的设备选用不同的布局代码
 
-* [2013-Media Queries Are Not The Answer: Element Query Polyfill](https://www.smashingmagazine.com/2013/06/media-queries-are-not-the-answer-element-query-polyfill/)
+- [2013-Media Queries Are Not The Answer: Element Query Polyfill](https://www.smashingmagazine.com/2013/06/media-queries-are-not-the-answer-element-query-polyfill/)
 
-* [2016-Element Queries: the Future of Responsive Web Design](http://webdesign.tutsplus.com/tutorials/element-queries-the-future-of-responsive-web-design--cms-26945)
+- [2016-Element Queries: the Future of Responsive Web Design](http://webdesign.tutsplus.com/tutorials/element-queries-the-future-of-responsive-web-design--cms-26945)
 
-* [网易和淘宝移动 WEB 适配方案再分析](https://zhuanlan.zhihu.com/p/25216275)
+- [网易和淘宝移动 WEB 适配方案再分析](https://zhuanlan.zhihu.com/p/25216275)
 
 - [Scaling Responsive Animations](https://css-tricks.com/scaling-responsive-animations/)
 
-* [这可能是史上最全的 CSS 自适应布局总结](http://mp.weixin.qq.com/s?__biz=MzA4ODIxMzg5MQ==&mid=2653995792&idx=1&sn=730974c4cff6d3738c52902a2f99ed7e&scene=23&srcid=0516rsLrl38nVY19S5QIKHGC#rd)
+- [这可能是史上最全的 CSS 自适应布局总结](http://mp.weixin.qq.com/s?__biz=MzA4ODIxMzg5MQ==&mid=2653995792&idx=1&sn=730974c4cff6d3738c52902a2f99ed7e&scene=23&srcid=0516rsLrl38nVY19S5QIKHGC#rd)
 
-* [developing-mobile-web-apps-when-why-and-how](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how)
+- [developing-mobile-web-apps-when-why-and-how](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how)
 
-* [10-tips-for-mobile-web-design-optimization](https://www.elegantthemes.com/blog/tips-tricks/10-tips-for-mobile-web-design-optimization)
+- [10-tips-for-mobile-web-design-optimization](https://www.elegantthemes.com/blog/tips-tricks/10-tips-for-mobile-web-design-optimization)
 
-* [The pro's guide to responsive web design](http://www.creativebloq.com/rwd/pros-guide-responsive-web-design-71515692):  Advanced techniques from top web designers to build better sites for any device.
+- [The pro's guide to responsive web design](http://www.creativebloq.com/rwd/pros-guide-responsive-web-design-71515692):  Advanced techniques from top web designers to build better sites for any device.
 
 # Media Query: 媒介查询
 

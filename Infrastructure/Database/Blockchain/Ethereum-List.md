@@ -4,9 +4,9 @@
 
 # Overview
 
-* [2017-The Beginner’s Guide to Ethereum’s Roadmap](https://parg.co/U3v): Ethereum’s mission is to become a decentralized world computer that replaces server farms.
+- [2017-The Beginner’s Guide to Ethereum’s Roadmap](https://parg.co/U3v): Ethereum’s mission is to become a decentralized world computer that replaces server farms.
 
-* [2017-Ethereum Zero to Hero #Series#](https://parg.co/URV): This guide is not to mean to the end all or be all, rather a quick introduction that can get you started quickly and hopefully agnostic enough that won’t go out of date too fast.
+- [2017-Ethereum Zero to Hero #Series#](https://parg.co/URV): This guide is not to mean to the end all or be all, rather a quick introduction that can get you started quickly and hopefully agnostic enough that won’t go out of date too fast.
 
 - [Truffle #Project#](http://truffleframework.com/docs/): Truffle is a world class development environment, testing framework and asset pipeline for Ethereum, aiming to make life as an Ethereum developer easier.
 
@@ -16,7 +16,7 @@
 
 # Tutorial
 
-* [A guide to developing an Ethereum decentralized voting application](https://medium.freecodecamp.org/developing-an-ethereum-decentralized-voting-application-a99de24992d9):  I will briefly go over Ethereum, but you probably should have an understanding of it to use this guide to the fullest.
+- [A guide to developing an Ethereum decentralized voting application](https://medium.freecodecamp.org/developing-an-ethereum-decentralized-voting-application-a99de24992d9):  I will briefly go over Ethereum, but you probably should have an understanding of it to use this guide to the fullest.
 
 - [2018-How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369): I’ve added my own explanations and diagrams to make understanding Ethereum easier. 
 

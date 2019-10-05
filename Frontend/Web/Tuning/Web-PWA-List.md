@@ -24,19 +24,19 @@ This file aggregates popular links for learning how to implement Progressive Web
 
 - [2017- 百度搜索对 PWA 的探索和初步实践](http://6me.us/JS85s): 本文是百度搜索资深 Web 前端工程师沈洲在前端之巅微信群中的分享整理总结而成，介绍了百度天气 PWA 应用的开发实践，本周还分享了[《PWA 实践：从一个简单的页面开始》](http://6me.us/Ik5k1L)与[《PWA 实践：理解和创建 Service Worker 脚本》](http://6me.us/P5cB)等 PWA 相关内容 。
 
-* [2017-PWA 在饿了么的实践经验](https://parg.co/bO7)：本篇旨在和大家分享「饿了么 M 站」(https://h5.ele.me/msite/)在 PWA 改造中的实践经验。涉及到的方面有：PWA 线上部署的准备工作、多页应用的 prerender 优化、实践过程中踩到的(和推进解决的)坑。
+- [2017-PWA 在饿了么的实践经验](https://parg.co/bO7)：本篇旨在和大家分享「饿了么 M 站」(https://h5.ele.me/msite/)在 PWA 改造中的实践经验。涉及到的方面有：PWA 线上部署的准备工作、多页应用的 prerender 优化、实践过程中踩到的(和推进解决的)坑。
 
 - [2017-Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3): A look into removing common and uncommon performance bottlenecks in one of the worlds largest React.js PWAs, Twitter Lite.
 
 - [2017-Upgrading Ele.me to Progressive Web App](https://parg.co/bMz): we at Ele.me (the biggest food ordering and delivering company in China) have been working on upgrading our mobile website to a Progressive Web App.
 
-* [2017-A Pinterest Progressive Web App Performance Case Study](https://parg.co/UuI): In this post we’ll cover some of their work to load fast on mobile hardware by keeping JavaScript bundles lean and adopting Service Workers for network resilience.
+- [2017-A Pinterest Progressive Web App Performance Case Study](https://parg.co/UuI): In this post we’ll cover some of their work to load fast on mobile hardware by keeping JavaScript bundles lean and adopting Service Workers for network resilience.
 
 - [2017-HNPWA #Project#](https://parg.co/biQ): Hacker News readers as Progressive Web Apps
 
-* [2017-A React And Preact Progressive Web App Performance Case Study: Treebo](https://parg.co/bBH): They recently shipped a new Progressive Web App as their default mobile experience, initially using React and eventually switching to Preact in production.
+- [2017-A React And Preact Progressive Web App Performance Case Study: Treebo](https://parg.co/bBH): They recently shipped a new Progressive Web App as their default mobile experience, initially using React and eventually switching to Preact in production.
 
-* [2017-A Tinder Progressive Web App Performance Case Study](https://parg.co/UMw): Techniques for JavaScript performance optimization, Service Workers for network resilience and Push Notifications for chat engagement.
+- [2017-A Tinder Progressive Web App Performance Case Study](https://parg.co/UMw): Techniques for JavaScript performance optimization, Service Workers for network resilience and Push Notifications for chat engagement.
 
 # Tutorial
 
@@ -44,11 +44,11 @@ This file aggregates popular links for learning how to implement Progressive Web
 
 - [2016-Google Developers - Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/your-first-progressive-web-app/?hl=en) : A step-by-step guide to building a progressive web apps using the app shell pattern.
 
-* [2017-A beginner’s guide to making Progressive Web Apps](https://parg.co/b1n): Hopefully, this post will be all you need to get started in making your own PWA.
+- [2017-A beginner’s guide to making Progressive Web Apps](https://parg.co/b1n): Hopefully, this post will be all you need to get started in making your own PWA.
 
-* [2017-A progressive Web application with Vue JS, Webpack & Material Design #Series#](https://parg.co/btH): The tutorial will be split in several parts, that will be published successively
+- [2017-A progressive Web application with Vue JS, Webpack & Material Design #Series#](https://parg.co/btH): The tutorial will be split in several parts, that will be published successively
 
-* [2017-Progressive Web Apps (PWA) 中文版 #Book#](https://github.com/SangKa/PWA-Book-CN): This book is written with stand-alone chapters, letting you learn about particular features of interest without having read previous chapters. By the end, you'll be ready to build better web applications and improve the user experience.
+- [2017-Progressive Web Apps (PWA) 中文版 #Book#](https://github.com/SangKa/PWA-Book-CN): This book is written with stand-alone chapters, letting you learn about particular features of interest without having read previous chapters. By the end, you'll be ready to build better web applications and improve the user experience.
 
 - [2016-Building Progressive Web Apps - O'Reilly Media](https://pwabook.com/oreillyapwa) : A deep dive into progressive web apps, service workers, push notifications, background sync, IndexedDB, offline first and much more (disclaimer: written by the maintainer of this page).
 

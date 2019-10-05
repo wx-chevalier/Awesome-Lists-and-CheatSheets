@@ -13,7 +13,7 @@
 
 - [2018-7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886): Improving your designs with tactics instead of talent.
 
-* [2017-Froala Design Blocks](https://github.com/froala/design-blocks): All blocks are based on the Bootstrap Library, and they are the building blocks for beautiful websites.
+- [2017-Froala Design Blocks](https://github.com/froala/design-blocks): All blocks are based on the Bootstrap Library, and they are the building blocks for beautiful websites.
 
 # Atomic Design
 
@@ -101,6 +101,6 @@ UI 设计的主要工作都包括进去了，如果能够将这三本书很好�
 
 - [2018-How white space killed an enterprise app (and why data density matters)](https://uxdesign.cc/how-white-space-killed-an-enterprise-app-and-why-data-density-matters-b3afad6a5f2a)
 
-* [2014-Steve-Don’t Make Me Think, Revisited #Book#](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf): A Common Sense Approach to Web Usability.
+- [2014-Steve-Don’t Make Me Think, Revisited #Book#](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf): A Common Sense Approach to Web Usability.
 
-* [2017-The Design of Everyday Things #Book#](http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf): This is a starter kit for good design. It is intended to be enjoyable and informative for everyone: everyday people, technical people, designers, and nondesigners.
+- [2017-The Design of Everyday Things #Book#](http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf): This is a starter kit for good design. It is intended to be enjoyable and informative for everyone: everyday people, technical people, designers, and nondesigners.

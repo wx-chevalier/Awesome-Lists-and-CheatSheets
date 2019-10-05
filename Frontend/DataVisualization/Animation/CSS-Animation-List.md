@@ -52,11 +52,11 @@
 
 - [intro-to-the-web-animations-api](https://pawelgrzybek.com/intro-to-the-web-animations-api/)
 
-* [Understanding JavaScript's requestAnimationFrame() method for smooth animations](http://www.javascriptkit.com/javatutors/requestanimationframe.shtml)
+- [Understanding JavaScript's requestAnimationFrame() method for smooth animations](http://www.javascriptkit.com/javatutors/requestanimationframe.shtml)
 
-* [性能更好的 js 动画实现方式——requestAnimationFrame](http://www.js-code.com/JavaScript/2016022453238.html)
+- [性能更好的 js 动画实现方式——requestAnimationFrame](http://www.js-code.com/JavaScript/2016022453238.html)
 
-* [CSS3 动画那么强，requestAnimationFrame 还有毛线用？](http://www.zhangxinxu.com/wordpress/2013/09/css3-animation-requestanimationframe-tween-%e5%8a%a8%e7%94%bb%e7%ae%97%e6%b3%95/)
+- [CSS3 动画那么强，requestAnimationFrame 还有毛线用？](http://www.zhangxinxu.com/wordpress/2013/09/css3-animation-requestanimationframe-tween-%e5%8a%a8%e7%94%bb%e7%ae%97%e6%b3%95/)
 
 ## Animation Engine：动画引擎
 

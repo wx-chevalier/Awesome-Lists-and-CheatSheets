@@ -6,7 +6,7 @@
 
 - [2016-Anatomy of an Elasticsearch Cluster #Series#](https://parg.co/UZz): This post is part of a series covering the underlying architecture and prototyping examples with a popular distributed search engine, Elasticsearch.
 
-* [2016-剖析 Elasticsearch 集群系列 #Series#](https://www.infoq.cn/article/analysis-of-elasticsearch-cluster-part01)：剖析 Elasticsearch 集群系列涵盖了当今最流行的分布式搜索引擎 Elasticsearch 的底层架构和原型实例。
+- [2016-剖析 Elasticsearch 集群系列 #Series#](https://www.infoq.cn/article/analysis-of-elasticsearch-cluster-part01)：剖析 Elasticsearch 集群系列涵盖了当今最流行的分布式搜索引擎 Elasticsearch 的底层架构和原型实例。
 
 - [Elasticsearch的ETL利器——Ingest节点](https://mp.weixin.qq.com/s/wQYHgj-QlYQIzwXbX4aD8Q): “Ingest node什么场景会遇到它？ 一直没搜到它是在什么场景工作的？”
 

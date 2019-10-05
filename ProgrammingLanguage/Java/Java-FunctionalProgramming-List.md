@@ -4,11 +4,11 @@
 
 - [2017-Functional alternatives to the traditional for loop](https://parg.co/baJ)
 
-* [2017-Immutables #Project#](http://immutables.github.io/): Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most comprehensive tool in this field!
+- [2017-Immutables #Project#](http://immutables.github.io/): Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most comprehensive tool in this field!
 
-* [2017-Java 8 idioms #Series#](https://www.ibm.com/developerworks/java/library/j-java8idioms1/index.html): Think declaratively to adopt functional techniques in your Java programs.
+- [2017-Java 8 idioms #Series#](https://www.ibm.com/developerworks/java/library/j-java8idioms1/index.html): Think declaratively to adopt functional techniques in your Java programs.
 
-* [2018-精练代码：一次 Java 函数式编程的重构之旅](http://www.importnew.com/28139.html): 通过一次并发处理数据集的 Java 代码重构之旅，展示函数式编程如何使得代码更加精练。
+- [2018-精练代码：一次 Java 函数式编程的重构之旅](http://www.importnew.com/28139.html): 通过一次并发处理数据集的 Java 代码重构之旅，展示函数式编程如何使得代码更加精练。
 
 # Function
 

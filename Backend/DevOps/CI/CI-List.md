@@ -6,7 +6,7 @@
 
 - [continuousintegration-continuousdelivery](http://blog.nwcadence.com/continuousintegration-continuousdelivery/)
 
-* [How I built a CI server Using Docker](https://codeburst.io/sicuro-ci-2f40ba138233): This article identifies the various parts to a reliable CI server and explores how to put them together using docker.
+- [How I built a CI server Using Docker](https://codeburst.io/sicuro-ci-2f40ba138233): This article identifies the various parts to a reliable CI server and explores how to put them together using docker.
 
 # Jenkins
 

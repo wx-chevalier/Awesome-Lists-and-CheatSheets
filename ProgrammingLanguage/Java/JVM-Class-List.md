@@ -6,7 +6,7 @@
 
 - [实例探索 Class 文件](http://www.importnew.com/17086.html)
 
-* [Jvm 之用 java 解析 class 文件](http://www.tuicool.com/articles/ZfMnMju)
+- [Jvm 之用 java 解析 class 文件](http://www.tuicool.com/articles/ZfMnMju)
 
 - [2018-JVM 揭秘：一个 class 文件的前世今生](http://www.tuicool.com/articles/jEnYrye)
 

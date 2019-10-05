@@ -18,15 +18,15 @@
 
 - [immer #Project#](https://github.com/mweststrate/immer): Create the next immutable state tree by simply modifying the current tree.
 
-* [minimatch](https://github.com/isaacs/minimatch): a glob matcher in javascript.
+- [minimatch](https://github.com/isaacs/minimatch): a glob matcher in javascript.
 
-* [fbjs #Project#](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
+- [fbjs #Project#](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
 
 # DataStructure
 
 - [Calculatorjs #Project#](https://github.com/fzred/calculatorjs): Accurately arithmetic library.
 
-* [Numeral-js #Project#](https://github.com/adamwdraper/Numeral-js): A javascript library for formatting and manipulating numbers.
+- [Numeral-js #Project#](https://github.com/adamwdraper/Numeral-js): A javascript library for formatting and manipulating numbers.
 
 - [collect.js #Project#](https://github.com/ecrmnn/collect.js): Convenient and dependency free wrapper for working with arrays and objects.
 
@@ -78,6 +78,6 @@
 
 - [reflect-metadata #Project#](https://www.npmjs.com/package/reflect-metadata): A number of use cases (Composition/Dependency Injection, Runtime Type Assertions, Reflection/Mirroring, Testing) want the ability to add additional metadata to a class in a consistent manner.
 
-* [DefinitelyTyped #Project#](https://github.com/DefinitelyTyped/DefinitelyTyped): The repository for high quality TypeScript type definitions.
+- [DefinitelyTyped #Project#](https://github.com/DefinitelyTyped/DefinitelyTyped): The repository for high quality TypeScript type definitions.
 
 - [tslint.json #Project#](https://palantir.github.io/tslint/usage/tslint-json/): When using the CLI or many third-party tools, a file named tslint.json is used to configure which rules get run.

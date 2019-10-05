@@ -4,9 +4,9 @@
 
 - [2000-Architectural Styles and the Design of Network-based Software Architectures](http://o6v08w541.bkt.clouddn.com/REST-article.pdf)：[论文中文译版 : 架构风格与基于网络的软件架构设计](http://o6v08w541.bkt.clouddn.com/REST-article.pdf)
 
-* [rest-api-design-resource-modeling](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
+- [rest-api-design-resource-modeling](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
 
-* [rest-api-documentation](https://dzone.com/articles/rest-api-documentation-part-1)
+- [rest-api-documentation](https://dzone.com/articles/rest-api-documentation-part-1)
 
 - [编写符合规范的 REST 接口](http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=208060670&idx=1&sn=ce67b8896985e8448137052b338093e0)
 
@@ -34,9 +34,9 @@
 
 - [Restful API 中的错误处理](http://scarletsky.github.io/2016/11/30/error-handling-in-restful-api/)
 
-* [rest-api-design-resource-modeling](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
+- [rest-api-design-resource-modeling](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
 
-* [rest-api-documentation](https://dzone.com/articles/rest-api-documentation-part-1)
+- [rest-api-documentation](https://dzone.com/articles/rest-api-documentation-part-1)
 
 # Drawback
 

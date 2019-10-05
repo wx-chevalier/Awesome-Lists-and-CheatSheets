@@ -30,7 +30,7 @@
 
 - [2017-CORS — a guided tour](https://parg.co/bOF): Cross-origin resource sharing
 
-* [MDN-HTTP 访问控制(CORS)](https://parg.co/UGw)
+- [MDN-HTTP 访问控制(CORS)](https://parg.co/UGw)
 
 # File Transfer | 文件传输
 

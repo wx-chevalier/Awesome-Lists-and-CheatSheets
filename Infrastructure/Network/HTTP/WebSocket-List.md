@@ -2,9 +2,9 @@
 
 - [WebSocket 协议深入探究](https://mp.weixin.qq.com/s/eNwWJ_sCqqOW9QuozZslbQ): 本文由浅入深，介绍了 WebSocket 如何建立连接、交换数据的细节，以及数据帧的格式。此外，还简要介绍了针对 WebSocket 的安全攻击，以及协议是如何抵御类似攻击的。
 
-* [WebSocket 原理说明](https://www.qcloud.com/document/product/214/4150)
+- [WebSocket 原理说明](https://www.qcloud.com/document/product/214/4150)
 
-* [2017-A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
+- [2017-A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 
 - [微信 ,QQ 这类 IM app 怎么做 —— 谈谈 Websocket](http://www.jianshu.com/p/bcefda55bce4)
 

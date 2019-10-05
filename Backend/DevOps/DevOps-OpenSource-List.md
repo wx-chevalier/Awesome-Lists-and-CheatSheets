@@ -52,9 +52,9 @@
 
 - [gtop #Project#](https://github.com/aksakalli/gtop): System monitoring dashboard for terminal.
 
-* [Glances #Project#](https://github.com/nicolargo/glances): Glances is a cross-platform monitoring tool which aims to present a large amount of monitoring information through a curses or Web based interface. The information dynamically adapts depending on the size of the user interface.
+- [Glances #Project#](https://github.com/nicolargo/glances): Glances is a cross-platform monitoring tool which aims to present a large amount of monitoring information through a curses or Web based interface. The information dynamically adapts depending on the size of the user interface.
 
-* [2018-gotop #Project#](https://github.com/cjbassi/gotop): Another terminal based graphical activity monitor, inspired by gtop and vtop, this time written in Go!
+- [2018-gotop #Project#](https://github.com/cjbassi/gotop): Another terminal based graphical activity monitor, inspired by gtop and vtop, this time written in Go!
 
 - [osquery #Project#](https://github.com/facebook/osquery): osquery is an operating system instrumentation framework for OS X/macOS, Windows, and Linux. The tools make low-level operating system analytics and monitoring both performant and intuitive.
 

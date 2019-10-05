@@ -4,7 +4,7 @@
 
 - [2017-C++17/14/11](https://parg.co/b1f): A cheatsheet of modern C++ language and library features.
 
-* [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): a set of tried-and-true guidelines, rules, and best practices about coding in C++.
+- [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): a set of tried-and-true guidelines, rules, and best practices about coding in C++.
 
 - [C++ 总结笔记，供新手观看](https://zhuanlan.zhihu.com/p/30996101): 还是要有扎实的基础。以下是自己的一份总结，比较适合自己。
 

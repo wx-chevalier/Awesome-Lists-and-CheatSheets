@@ -6,15 +6,15 @@
 
 - [2017-Where do Type Systems Come From?](http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/): In short, type theory was developed to be an alternative to set theory as the foundation of mathematical proofs in symbolic logic due to its ability to solve some contradictions stemming from naive set theory.
 
-* [2013-The Future of Programming (2013)](http://worrydream.com/dbx/)，[Near Future of Programming Languages](http://dev.stephendiehl.com/nearfuture.pdf)
+- [2013-The Future of Programming (2013)](http://worrydream.com/dbx/)，[Near Future of Programming Languages](http://dev.stephendiehl.com/nearfuture.pdf)
 
 - [Rosetta Code — unlocking the mysteries of the programming languages that power our world](https://medium.freecodecamp.com/rosetta-code-unlocking-the-mysteries-of-the-programming-languages-that-power-our-world-300b787d8401#.phi7tdwd1)
 
-* [2017-王垠-如何掌握所有的程序语言](http://www.yinwang.org/blog-cn/2017/07/06/master-pl)
+- [2017-王垠-如何掌握所有的程序语言](http://www.yinwang.org/blog-cn/2017/07/06/master-pl)
 
-* [A Brief Totally Accurate History Of Programming Languages](http://t.cn/RHuzOGO): One Hundred Percent Inspired by Facts.
+- [A Brief Totally Accurate History Of Programming Languages](http://t.cn/RHuzOGO): One Hundred Percent Inspired by Facts.
 
-* [Luna](https://github.com/tj/luna): Luna is an expressive, minimalistic, elegant programming language implemented in C. With cooperative thread concurrency at its core, async IO, and influences derived from languages such as Lua, io, Rust, Ruby, and C.
+- [Luna](https://github.com/tj/luna): Luna is an expressive, minimalistic, elegant programming language implemented in C. With cooperative thread concurrency at its core, async IO, and influences derived from languages such as Lua, io, Rust, Ruby, and C.
 
 # Resources
 

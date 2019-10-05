@@ -8,7 +8,7 @@
 
 - [PixiJS #Project#](http://www.pixijs.com/): Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 
-* [Babylon.js #Project# ](https://parg.co/b1C): Babylon.js is an open source framework that allows you to create stunning 3D experiences in your browser. Built with simplicity and performance in mind, it is the engine that fuels the Remix3D site or the Xbox Design Lab.
+- [Babylon.js #Project# ](https://parg.co/b1C): Babylon.js is an open source framework that allows you to create stunning 3D experiences in your browser. Built with simplicity and performance in mind, it is the engine that fuels the Remix3D site or the Xbox Design Lab.
 
 - [sketch.js #Project#](https://github.com/soulwire/sketch.js): Cross-Platform JavaScript Creative Coding Framework
 
@@ -20,9 +20,9 @@
 
 - [html2canvas #Project#](https://github.com/niklasvh/html2canvas): The script allows you to take "screenshots" of webpages or parts of it, directly on the users browser.
 
-* [e2d #Project#](https://github.com/jtenner/e2d): An es5 declarative canvas renderer.
+- [e2d #Project#](https://github.com/jtenner/e2d): An es5 declarative canvas renderer.
 
-* [react-konva #Project#](https://github.com/lavrton/react-konva):JavaScript library for drawing complex canvas graphics using React
+- [react-konva #Project#](https://github.com/lavrton/react-konva):JavaScript library for drawing complex canvas graphics using React
 
 ## WebGL
 
@@ -42,13 +42,13 @@
 
 - [Woah.css #Project#](http://www.joerezendes.com/projects/Woah.css/): Animations for eccentric developers.
 
-* [Effeckt.css #Project#](https://github.com/h5bp/Effeckt.css)
+- [Effeckt.css #Project#](https://github.com/h5bp/Effeckt.css)
 
-* [Hover.css #Project#](https://github.com/IanLunn/Hover): A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on.
+- [Hover.css #Project#](https://github.com/IanLunn/Hover): A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on.
 
-* [iHover #Project#](http://gudh.github.io/ihover/dist/index.html#): iHover is an impressive hover effects collection, powered by pure CSS3, no dependency, work well with Bootstrap 3!
+- [iHover #Project#](http://gudh.github.io/ihover/dist/index.html#): iHover is an impressive hover effects collection, powered by pure CSS3, no dependency, work well with Bootstrap 3!
 
-* [cssfx #Project#](https://cssfx.dev/): A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by CSS with minimal markup. Completely open source and MIT licensed.
+- [cssfx #Project#](https://cssfx.dev/): A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by CSS with minimal markup. Completely open source and MIT licensed.
 
 ## Tween Animation | 补间动画
 
@@ -56,13 +56,13 @@
 
 - [2017-Popmotion #Project#](https://popmotion.io/): A functional JavaScript motion library.
 
-* [react-move #Project#](https://github.com/react-tools/react-move): React Move 🌀 Beautiful, data-driven animations for React.
+- [react-move #Project#](https://github.com/react-tools/react-move): React Move 🌀 Beautiful, data-driven animations for React.
 
-* [popmotion #Project#](https://github.com/Popmotion/popmotion): Simple animation libraries for delightful user interfaces.
+- [popmotion #Project#](https://github.com/Popmotion/popmotion): Simple animation libraries for delightful user interfaces.
 
 - [2017-animateplus #Project#](https://github.com/bendc/animateplus): Animate Plus is a JavaScript animation library focusing on performance and authoring flexibility. It aims to deliver a steady 60 FPS and weighs less than 3 KB (minified and compressed), making it particularly well-suited for mobile
 
-* [2017-Ant Motion #Project#](https://motion.ant.design/): 使用 Ant Motion 能够快速在 React 框架中使用动画；我们提供了单项，组合动画，以及整套解决方案。
+- [2017-Ant Motion #Project#](https://motion.ant.design/): 使用 Ant Motion 能够快速在 React 框架中使用动画；我们提供了单项，组合动画，以及整套解决方案。
 
 ## Graphic Animation
 
@@ -88,23 +88,23 @@
 
 - [AntV]()
 
-* [CssCo](http://www.cssco.co/)
+- [CssCo](http://www.cssco.co/)
 
-* [d4 #Project#](https://github.com/joelburget/d4):Data-Driven Declarative Documents
+- [d4 #Project#](https://github.com/joelburget/d4):Data-Driven Declarative Documents
 
-* [jQuery Sparklines #Project#](http://omnipotent.net/jquery.sparkline/#s-about)
+- [jQuery Sparklines #Project#](http://omnipotent.net/jquery.sparkline/#s-about)
 
-* [react-sparklines #Project#](https://github.com/borisyankov/react-sparklines)
+- [react-sparklines #Project#](https://github.com/borisyankov/react-sparklines)
 
-* [ChartJS #Project#](http://www.chartjs.org/): 简单灵活响应式的 HTML 图表库
+- [ChartJS #Project#](http://www.chartjs.org/): 简单灵活响应式的 HTML 图表库
 
-* [Reacharts #Project#](http://recharts.org/): Redefined chart library built with React
+- [Reacharts #Project#](http://recharts.org/): Redefined chart library built with React
 
-* [Frappé Charts #Project#](https://github.com/frappe/charts):
+- [Frappé Charts #Project#](https://github.com/frappe/charts):
 
-* [mxGraph #Project#](https://jgraph.github.io/mxgraph/): mxGraph is a JavaScript diagramming library that enables interactive graph and charting applications to be quickly created that run natively in any major browser that is supported by its vendor.
+- [mxGraph #Project#](https://jgraph.github.io/mxgraph/): mxGraph is a JavaScript diagramming library that enables interactive graph and charting applications to be quickly created that run natively in any major browser that is supported by its vendor.
 
-* [GoJS #Project#](https://github.com/NorthwoodsSoftware/GoJS): JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
+- [GoJS #Project#](https://github.com/NorthwoodsSoftware/GoJS): JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 
 ## Heatmap | 热力图
 
@@ -122,7 +122,7 @@
 
 - [2018-Cytoscape.js #Project#](http://js.cytoscape.org/): Graph theory / network library for analysis and visualisation.
 
-* [react-network-diagrams #Project#](https://github.com/esnet/react-network-diagrams): Contains ESnet network mapping and circuit rendering code, as used in the ESnet portal.
+- [react-network-diagrams #Project#](https://github.com/esnet/react-network-diagrams): Contains ESnet network mapping and circuit rendering code, as used in the ESnet portal.
 
 ### MindMap | 思维脑图
 

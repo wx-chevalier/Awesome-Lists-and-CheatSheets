@@ -26,7 +26,7 @@
 
 - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack): Java Extension Pack is a collection of popular extensions that can help write, test and debug Java applications in Visual Studio Code. Check out Java in VS Code to get started.
 
-* [Java Test Runner](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test): A lightweight extension to run and debug Java test cases in Visual Studio Code. It works with Language Support for Java by Red Hat and Debugger for Java to provide the following features.
+- [Java Test Runner](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test): A lightweight extension to run and debug Java test cases in Visual Studio Code. It works with Language Support for Java by Red Hat and Debugger for Java to provide the following features.
 
 - [Spring Initializr](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr): Spring Initializr is a lightweight extension to quickly generate a Spring Boot project in Visual Studio Code (VS Code).
 

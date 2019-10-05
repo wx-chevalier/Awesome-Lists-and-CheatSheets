@@ -10,7 +10,7 @@ This file aggregates curated popular links for learning GraphQL. More reference 
 
 - [2017-The GraphQL stack: How everything fits together](https://parg.co/U6S): A look at caching, tracing, schema stitching, and GraphQL’s future from GraphQL Summit 2017.
 
-* [2017-REST APIs are REST-in-Peace APIs. Long Live GraphQL.](https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4): This article is not actually 100% in favor of GraphQL. There is a very important section about the cost of GraphQL’s flexibility.
+- [2017-REST APIs are REST-in-Peace APIs. Long Live GraphQL.](https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4): This article is not actually 100% in favor of GraphQL. There is a very important section about the cost of GraphQL’s flexibility.
 
 - [2018-GraphQL at the REST-aurant](https://parg.co/UvI): A tasty introduction to GraphQL.
 
@@ -42,11 +42,11 @@ This file aggregates curated popular links for learning GraphQL. More reference 
 
 - [2018-How GraphQL Replaces Redux](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d): GraphQL is a server side query language. Redux is a client-side state management library. How could one replace the other?
 
-* [2017-GraphQL First in practice at Quri](https://dev-blog.apollodata.com/graphql-first-in-practice-at-quri-7bf84b260135): Bringing GraphQL efficiencies to non JavaScript environment
+- [2017-GraphQL First in practice at Quri](https://dev-blog.apollodata.com/graphql-first-in-practice-at-quri-7bf84b260135): Bringing GraphQL efficiencies to non JavaScript environment
 
-* [2017-Why We’re Betting on GraphQL](https://engineering.universe.com/why-were-betting-on-graphql-233ddf1a0779): Universe is betting big on GraphQL. We’ve been hard at work this quarter aiming to deliver a richly typed, documented, publicly available GraphQL interface into our existing event ticketing platform.
+- [2017-Why We’re Betting on GraphQL](https://engineering.universe.com/why-were-betting-on-graphql-233ddf1a0779): Universe is betting big on GraphQL. We’ve been hard at work this quarter aiming to deliver a richly typed, documented, publicly available GraphQL interface into our existing event ticketing platform.
 
-* [2017-Adding GraphQL to a REST and microservices backend](https://dev-blog.apollodata.com/courseras-journey-to-graphql-a5ad3b77f39a): Client developers at Coursera love GraphQL’s flexibility, type-safety, and community of support, and we’ve made that well known.
+- [2017-Adding GraphQL to a REST and microservices backend](https://dev-blog.apollodata.com/courseras-journey-to-graphql-a5ad3b77f39a): Client developers at Coursera love GraphQL’s flexibility, type-safety, and community of support, and we’ve made that well known.
 
 ## Showcase
 
@@ -60,9 +60,9 @@ This file aggregates curated popular links for learning GraphQL. More reference 
 
 - [2018-An Introduction to GraphQL](https://hackernoon.com/an-introduction-to-graphql-2c3f7d8fb4e0?source=userActivityShare-fe48c4221a4c-1518927834): It is a methodology that directly competes with REST (Representational state transfer) APIs, much like REST competed with SOAP at first.
 
-* [2018-GraphQL: Everything You Need to Know](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8): The purpose of this article is to highlight the major features associated with GraphQL along with discussing the significant pros and cons associated with this particular API specification.
+- [2018-GraphQL: Everything You Need to Know](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8): The purpose of this article is to highlight the major features associated with GraphQL along with discussing the significant pros and cons associated with this particular API specification.
 
-* [Launchpad #Project#](https://github.com/apollographql/launchpad): Launchpad is an in-browser GraphQL server playground. You can write a GraphQL schema example in JavaScript, and instantly create a serverless, publicly-accessible GraphQL endpoint. We call these code snippets that live on Launchpad “pads”.
+- [Launchpad #Project#](https://github.com/apollographql/launchpad): Launchpad is an in-browser GraphQL server playground. You can write a GraphQL schema example in JavaScript, and instantly create a serverless, publicly-accessible GraphQL endpoint. We call these code snippets that live on Launchpad “pads”.
 
 # Schema
 

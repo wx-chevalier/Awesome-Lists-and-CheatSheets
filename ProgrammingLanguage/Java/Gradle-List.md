@@ -14,9 +14,9 @@
 
 - [Gradle: How to manage dependencies](http://6me.us/RGl3)
 
-* [Gradle 入门系列](http://blog.jobbole.com/71999/)
+- [Gradle 入门系列](http://blog.jobbole.com/71999/)
 
-* [Gradle 学习系列](http://www.cnblogs.com/CloudTeng/p/3417762.html)
+- [Gradle 学习系列](http://www.cnblogs.com/CloudTeng/p/3417762.html)
 
 - [Gradle 奇技淫巧](http://blog.chengyunfeng.com/)
 

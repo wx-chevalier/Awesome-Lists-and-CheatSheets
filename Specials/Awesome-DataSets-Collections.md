@@ -52,13 +52,13 @@
 
 - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua): 中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
 
-* [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全的中华古典文集数据库, 包含 5.5 万首唐诗、26 万首宋诗和 2.1 万首宋词. 唐宋两朝近 1.4 万古诗人, 和两宋时期 1.5K 词人. 数据来源于互联网。
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全的中华古典文集数据库, 包含 5.5 万首唐诗、26 万首宋诗和 2.1 万首宋词. 唐宋两朝近 1.4 万古诗人, 和两宋时期 1.5K 词人. 数据来源于互联网。
 
 # Image DataSets | 图片数据
 
 - [fashion-mnist #Project#](https://github.com/zalandoresearch/fashion-mnist): Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples.
 
-* [facets #Project#](https://github.com/PAIR-code/facets): The facets project contains two visualizations for understanding and analyzing machine learning datasets: Facets Overview and Facets Dive.
+- [facets #Project#](https://github.com/PAIR-code/facets): The facets project contains two visualizations for understanding and analyzing machine learning datasets: Facets Overview and Facets Dive.
 
 - [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/):13,000 named faces for facial recognition. Multiple training and test sets. 共 173MB
 
@@ -122,7 +122,7 @@
 
 - [Football Strategy](https://www.crowdflower.com/wp-content/uploads/2016/03/Football-Scenarios-DFE-832307.csv):Thousands of scenarios to make the best coaching decisions. 共 876KB
 
-* [Horses for Course](https://www.kaggle.com/lukebyrne/horses-for-courses):Horse-racing data for predicting race results. 共 19MB
+- [Horses for Course](https://www.kaggle.com/lukebyrne/horses-for-courses):Horse-racing data for predicting race results. 共 19MB
 
 - [NBA & MLB Stats](http://www.dougstats.com/):Current and past season stats for teams and players for fantasy sports predictions.
 

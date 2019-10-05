@@ -40,9 +40,9 @@
 
 - [uppy #Project#](https://parg.co/UMk): The next open source file uploader for web browsers.
 
-* [filepond #Project#](https://github.com/pqina/filepond):
+- [filepond #Project#](https://github.com/pqina/filepond):
   A Flexible and Fun JavaScript File Upload Plugin.
 
-* [2018-react-dropzone](https://github.com/react-dropzone/react-dropzone): Simple HTML5 drag-drop zone with React.js.
+- [2018-react-dropzone](https://github.com/react-dropzone/react-dropzone): Simple HTML5 drag-drop zone with React.js.
 
 # City Select | 城市选择

@@ -16,17 +16,17 @@
 
 - [JavaScript 事件冒泡与事件捕获](http://www.cnblogs.com/zichi/p/4713038.html)
 
-* [How JavaScript Event Delegation Works](http://davidwalsh.name/event-delegate)
+- [How JavaScript Event Delegation Works](http://davidwalsh.name/event-delegate)
 
-* [Event Delegation versus Event Handling](http://icant.co.uk/sandbox/eventdelegation/)
+- [Event Delegation versus Event Handling](http://icant.co.uk/sandbox/eventdelegation/)
 
-* [jQuery.delegate](http://api.jquery.com/delegate/) is event delegation + selector specification
+- [jQuery.delegate](http://api.jquery.com/delegate/) is event delegation + selector specification
 
-* [jQuery.on](http://api.jquery.com/on/#direct-and-delegated-events) uses event delegation when passed a selector as the 2nd parameter
+- [jQuery.on](http://api.jquery.com/on/#direct-and-delegated-events) uses event delegation when passed a selector as the 2nd parameter
 
-* [Event delegation without a JavaScript library](http://web.archive.org/web/20090420170842/http://usabletype.com/weblog/event-delegation-without-javascript-library/)
+- [Event delegation without a JavaScript library](http://web.archive.org/web/20090420170842/http://usabletype.com/weblog/event-delegation-without-javascript-library/)
 
-* [Closures vs Event delegation](http://lists.evolt.org/archive/Week-of-Mon-20090209/127339.html): takes a look at the pros of _not_ converting code to use event delegation
+- [Closures vs Event delegation](http://lists.evolt.org/archive/Week-of-Mon-20090209/127339.html): takes a look at the pros of _not_ converting code to use event delegation
 
 - Interesting approach PPK uncovered for [delegating the `focus` and `blur` events](http://www.quirksmode.org/blog/archives/2008/04/delegating_the.html) (which do *not*bubble)
 
@@ -74,7 +74,7 @@
 
 - [Build a Custom JavaScript Scrollspy Navigation](https://scotch.io/tutorials/build-a-custom-javascript-scrollspy-navigation)
 
-* [InView](https://github.com/camwiegert/in-view): 自动判断某个元素是否在 ViewPort 内
+- [InView](https://github.com/camwiegert/in-view): 自动判断某个元素是否在 ViewPort 内
 
 # Observer
 

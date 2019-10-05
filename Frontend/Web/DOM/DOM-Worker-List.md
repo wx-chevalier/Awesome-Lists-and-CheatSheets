@@ -4,7 +4,7 @@
 
 - [Service Workers Break the Browser’s Refresh Button by Default; Here’s Why](https://parg.co/Uue): Service Workers are like apps. You can’t safely upgrade an app while it’s still running. [How to Fix the Refresh Button When Using Service Workers](https://parg.co/Uu1)
 
-* [2017-JavaScript in parallel](http://50linesofco.de/post/2017-02-06-javascript-in-parallel-web-workers-transferables-and-sharedarraybuffer): Workers, transferable objects and SharedArrayBuffer
+- [2017-JavaScript in parallel](http://50linesofco.de/post/2017-02-06-javascript-in-parallel-web-workers-transferables-and-sharedarraybuffer): Workers, transferable objects and SharedArrayBuffer
 
 # Service Worker
 
@@ -28,9 +28,9 @@
 
 - [Background Sync Spec](https://wicg.github.io/BackgroundSync/spec/) : The WIP spec for Background Sync.
 
-* [Service Worker, what are you ?](https://medium.com/@kosamari/service-worker-what-are-you-ca0f8df92b65#.vf0c3n2jk)
+- [Service Worker, what are you ?](https://medium.com/@kosamari/service-worker-what-are-you-ca0f8df92b65#.vf0c3n2jk)
 
-* [ServiceWorker Specification](https://github.com/w3c/ServiceWorker)
+- [ServiceWorker Specification](https://github.com/w3c/ServiceWorker)
 
 - [Experimenting With The Background Fetch API](https://parg.co/UEk): The service worker API is expanding as more ways to use the background dwelling worker emerge.
 
@@ -40,16 +40,16 @@
 
 - [2016-Offline Storage for Progressive Web Apps](https://medium.com/@addyosmani/offline-storage-for-progressive-web-apps-70d52695513c) : The current state of offline storage in the browser
 
-* [IndexedDB API](https://developer.mozilla.org/en/docs/Web/API/IndexedDB_API) : API docs, key concepts, and sample code from Mozilla.
+- [IndexedDB API](https://developer.mozilla.org/en/docs/Web/API/IndexedDB_API) : API docs, key concepts, and sample code from Mozilla.
 
-* [CacheStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Cache) : API docs, and sample code from Mozilla.
+- [CacheStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Cache) : API docs, and sample code from Mozilla.
 
-* [2017-Redux Offline](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
+- [2017-Redux Offline](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
 
-* [2017-The Offline Cookbook](https://parg.co/UZh): With ServiceWorker we gave up trying to solve offline, and gave developers the moving parts to go solve it themselves.
+- [2017-The Offline Cookbook](https://parg.co/UZh): With ServiceWorker we gave up trying to solve offline, and gave developers the moving parts to go solve it themselves.
 
 # Web Worker
 
 - [2017-How Web Workers can help with consistent, asynchronous tasks in JavaScript](https://medium.freecodecamp.org/how-web-workers-can-help-with-consistent-asynchronous-tasks-in-javascript-cd6d728fa4ee)
 
-* [2018-How JavaScript works: The building blocks of Web Workers + 5 cases when you should use them](https://parg.co/Uig): We’ll offer an overview, discuss the different types of workers, how their building components come to play together, and what advantages and limitations they offer in different scenarios.
+- [2018-How JavaScript works: The building blocks of Web Workers + 5 cases when you should use them](https://parg.co/Uig): We’ll offer an overview, discuss the different types of workers, how their building components come to play together, and what advantages and limitations they offer in different scenarios.

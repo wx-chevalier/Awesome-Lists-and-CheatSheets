@@ -10,4 +10,4 @@
 
 - [图解隐马尔可夫模型(HMM)](http://www.cnblogs.com/crazyacking/p/6505033.html)
 
-* [如何用简单易懂的例子解释隐马尔可夫模型？](https://www.zhihu.com/question/20962240)
+- [如何用简单易懂的例子解释隐马尔可夫模型？](https://www.zhihu.com/question/20962240)

@@ -18,7 +18,7 @@
 
 - [mysql 使用 utf8mb4 经验吐血总结](http://mp.weixin.qq.com/s?__biz=MzAwMDU2ODU3MA==&mid=2247484084&idx=1&sn=e3740e1087dc73ffcdc4b56bfeaaaa6d&chksm=9ae7bf21ad9036370e8174995ff73775a0ff8c8a51b9995fc8675a994a768a136d187e2aa76d#rd)
 
-* [实例解析 MySQL 性能瓶颈排查定位](http://ourmysql.com/archives/1416?utm_source=tuicool&utm_medium=referral)
+- [实例解析 MySQL 性能瓶颈排查定位](http://ourmysql.com/archives/1416?utm_source=tuicool&utm_medium=referral)
 
 # Standards
 

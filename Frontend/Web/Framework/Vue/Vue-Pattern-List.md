@@ -4,11 +4,11 @@
 
 - [Vue 实用技巧](http://6me.us/alZ)：本文来自于饿了么大前端的 cinwell， Vue 2.0 已经发布了有一段时间，生态链也日渐完善。作者在使用 Vue 开发项目时收集的一些工具和使用技巧，分享给各位。( http://6me.us/alZ )
 
-* [滴滴 webapp 5.0 Vue 2.0 重构经验分享](https://github.com/DDFE/DDFE-blog/issues/13)：滴滴的 webapp 是运行在微信、支付宝、手 Q 以及其它第三方渠道的打车软件。借着产品层面的功能和视觉升级，我们用 Vue 2.0 对它进行了一次技术重构；本文即是本次重构中的经验分享。( https://github.com/DDFE/DDFE-blog/issues/13 )
+- [滴滴 webapp 5.0 Vue 2.0 重构经验分享](https://github.com/DDFE/DDFE-blog/issues/13)：滴滴的 webapp 是运行在微信、支付宝、手 Q 以及其它第三方渠道的打车软件。借着产品层面的功能和视觉升级，我们用 Vue 2.0 对它进行了一次技术重构；本文即是本次重构中的经验分享。( https://github.com/DDFE/DDFE-blog/issues/13 )
 
-* [How we do Vue: one year later](https://parg.co/U6b): How we, at GitLab, write VueJS, one year later.
+- [How we do Vue: one year later](https://parg.co/U6b): How we, at GitLab, write VueJS, one year later.
 
-* [2017-A Look at Angular Alongside Vue](https://johnpapa.net/a-look-at-angular-alongside-vue-1/): wanted to get a sense of how it compared, how it works, and how it feels to develop an app with it. I spent a few days on and off learning parts of Vue to write a small app.
+- [2017-A Look at Angular Alongside Vue](https://johnpapa.net/a-look-at-angular-alongside-vue-1/): wanted to get a sense of how it compared, how it works, and how it feels to develop an app with it. I spent a few days on and off learning parts of Vue to write a small app.
 
 # Pattern | 模式
 

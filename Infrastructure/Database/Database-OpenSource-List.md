@@ -10,9 +10,9 @@
 
 - [SQL Fiddle #Project#](http://sqlfiddle.com/): A tool for easy online testing and sharing of database problems and their solutions.
 
-* [Dbeaver #Project#](https://dbeaver.io): Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.
+- [Dbeaver #Project#](https://dbeaver.io): Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.
 
-* [HeidiSQL #Project#](https://www.heidisql.com/): HeidiSQL is free software, and has the aim to be easy to learn. "Heidi" lets you see and edit data and structures from computers running one of the database systems MariaDB, MySQL, Microsoft SQL or PostgreSQL.
+- [HeidiSQL #Project#](https://www.heidisql.com/): HeidiSQL is free software, and has the aim to be easy to learn. "Heidi" lets you see and edit data and structures from computers running one of the database systems MariaDB, MySQL, Microsoft SQL or PostgreSQL.
 
 ### CMD
 
@@ -36,7 +36,7 @@
 
 - [Apache Calcite #Project#](https://calcite.apache.org/): Industry-standard SQL parser,validator and JDBC driver.
 
-* [2017-SQLAdvisor #Project#](https://github.com/Meituan-Dianping/SQLAdvisor): SQLAdvisor 是由美团点评公司技术工程部 DBA 团队(北京)开发维护的一个分析 SQL 给出索引优化建议的工具。它基于 MySQL 原生态词法解析，结合分析 SQL 中的 where 条件、聚合条件、多表 Join 关系 给出索引优化建议。目前 SQLAdvisor 在美团点评内部广泛应用，公司内部对 SQLAdvisor 的开发全面转到 github 上，开源和内部使用保持一致。
+- [2017-SQLAdvisor #Project#](https://github.com/Meituan-Dianping/SQLAdvisor): SQLAdvisor 是由美团点评公司技术工程部 DBA 团队(北京)开发维护的一个分析 SQL 给出索引优化建议的工具。它基于 MySQL 原生态词法解析，结合分析 SQL 中的 where 条件、聚合条件、多表 Join 关系 给出索引优化建议。目前 SQLAdvisor 在美团点评内部广泛应用，公司内部对 SQLAdvisor 的开发全面转到 github 上，开源和内部使用保持一致。
 
 - [2018-sqler #Project#](https://github.com/alash3al/sqler): write APIs using direct SQL queries with no hassle, let's rethink about SQL.
 
@@ -46,7 +46,7 @@
 
 - [FlyWay #Project#](https://github.com/flyway/flyway): Evolve your database schema easily and reliably across all your instances.
 
-* [PingCAP-Loader #Project#](https://github.com/pingcap/docs-cn/blob/master/tools/loader.md)
+- [PingCAP-Loader #Project#](https://github.com/pingcap/docs-cn/blob/master/tools/loader.md)
 
 ## Benchmark
 
@@ -56,7 +56,7 @@
 
 - [supersmack #Project#](http://vegan.net/tony/supersmack/)
 
-* [mybench](http://jeremy.zawodny.com/mysql/mybench/)
+- [mybench](http://jeremy.zawodny.com/mysql/mybench/)
 
 # Relational Database
 
@@ -68,7 +68,7 @@
 
 - [gh-ost #Project#](https://github.com/github/gh-ost): gh-ost is a triggerless online schema migration solution for MySQL.
 
-* [2017-OnlineSchemaChange #Project#](https://github.com/facebookincubator/OnlineSchemaChange): A tool for performing online schema changes on MySQL.
+- [2017-OnlineSchemaChange #Project#](https://github.com/facebookincubator/OnlineSchemaChange): A tool for performing online schema changes on MySQL.
 
 - [Freno #Project#](https://github.com/github/freno): Cooperative, highly available throttler service: clients use freno to throttle writes to a resource.
 
@@ -90,13 +90,13 @@
 
 - [Sharding-Sphere #Project#](https://gitee.com/Sharding-Sphere/sharding-sphere): Sharding-Sphere is an open-source ecosystem consisted of a set of distributed database middleware solutions, including 3 independent products, Sharding-JDBC, Sharding-Proxy & Sharding-Sidecar (todo).
 
-* [2015-KingShard #Project#](https://github.com/flike/kingshard): kingshard is a high-performance proxy for MySQL powered by Go.
+- [2015-KingShard #Project#](https://github.com/flike/kingshard): kingshard is a high-performance proxy for MySQL powered by Go.
 
-* [Atlas #Project#](https://github.com/Qihoo360/Atlas): A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team.
+- [Atlas #Project#](https://github.com/Qihoo360/Atlas): A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team.
 
-* [2017-Vitess #Project#](https://github.com/vitessio/vitess): Vitess is a database clustering system for horizontal scaling of MySQL.
+- [2017-Vitess #Project#](https://github.com/vitessio/vitess): Vitess is a database clustering system for horizontal scaling of MySQL.
 
-* [2019-Gaea #Project#](https://github.com/XiaoMi/Gaea): Gaea is a mysql proxy, it's developed by xiaomi b2c-systech team.
+- [2019-Gaea #Project#](https://github.com/XiaoMi/Gaea): Gaea is a mysql proxy, it's developed by xiaomi b2c-systech team.
 
 # Key-Value Database
 
@@ -110,11 +110,11 @@
 
 - [RedisGraph #Project#](http://redisgraph.io/design/): A High Performance In-Memory Graph Database as a Redis Module.
 
-* [2018-RDR #Project#](https://github.com/xueqiu/rdr): RDR(redis data reveal) is a tool to parse redis rdbfile. Comparing to redis-rdb-tools, RDR is implemented by golang, much faster (5GB rdbfile takes about 2mins on my PC).
+- [2018-RDR #Project#](https://github.com/xueqiu/rdr): RDR(redis data reveal) is a tool to parse redis rdbfile. Comparing to redis-rdb-tools, RDR is implemented by golang, much faster (5GB rdbfile takes about 2mins on my PC).
 
-* [2018-Tidis #Project#](https://github.com/yongman/tidis): Tidis is a Distributed NoSQL database, providing a redis-protocal api(string,list,hash,set,sorted-set), written in Go.
+- [2018-Tidis #Project#](https://github.com/yongman/tidis): Tidis is a Distributed NoSQL database, providing a redis-protocal api(string,list,hash,set,sorted-set), written in Go.
 
-* [2018-KeyDB #Project#](https://github.com/JohnSully/KeyDB): A Multithreaded Fork of Redis
+- [2018-KeyDB #Project#](https://github.com/JohnSully/KeyDB): A Multithreaded Fork of Redis
 
 # Document Database
 

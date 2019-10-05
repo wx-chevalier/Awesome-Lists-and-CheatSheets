@@ -44,11 +44,11 @@ This file aggregates curated popular links for learning Redux. More reference ab
 
 - [2017-How Redux Works: A Counter-Example](https://daveceddia.com/how-does-redux-work/): So in this post we’re going to demystify how Redux works with a backwards approach that I think will help your understanding. As in the last post, I’ll try to explain Redux in simple terms before tackling the terminology.
 
-* [2017-Learn Redux by coding a Mini-Redux](http://blog.jakoblind.no/2017/03/13/learn-redux-by-coding-a-mini-redux/): A different learning strategy is to code a simple Redux yourself to develop a deeper understanding of the fundamental principles of the library.
+- [2017-Learn Redux by coding a Mini-Redux](http://blog.jakoblind.no/2017/03/13/learn-redux-by-coding-a-mini-redux/): A different learning strategy is to code a simple Redux yourself to develop a deeper understanding of the fundamental principles of the library.
 
 - [2018-Learn Redux by Building Redux from Scratch](https://parg.co/Uah): A tutorial to understand the core Redux library by building it step-by-step.
 
-* [Immutability in JavaScript using Redux](https://www.toptal.com/javascript/immutability-in-javascript-using-redux)
+- [Immutability in JavaScript using Redux](https://www.toptal.com/javascript/immutability-in-javascript-using-redux)
 
 # React Integration | React 集成使用
 

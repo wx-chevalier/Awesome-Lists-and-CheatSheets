@@ -8,7 +8,7 @@
 
 - [2017-Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://parg.co/bxB)
 
-* [2018-How components won the “framework wars”](https://hackernoon.com/how-components-won-the-framework-wars-e40abd38668b?source=linkShare-fe48c4221a4c-1525105934): React vs Angular vs Vue: Why it doesn’t matter.
+- [2018-How components won the “framework wars”](https://hackernoon.com/how-components-won-the-framework-wars-e40abd38668b?source=linkShare-fe48c4221a4c-1525105934): React vs Angular vs Vue: Why it doesn’t matter.
 
 # Comparison
 

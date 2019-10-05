@@ -10,7 +10,7 @@
 
 - [scikit-learn #Project#](https://github.com/scikit-learn/scikit-learn): scikit-learn is a Python module for machine learning built on top of SciPy and distributed under the 3-Clause BSD license.
 
-* [SciPy #Project#](https://github.com/scipy/scipy): SciPy (pronounced "Sigh Pie") is open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
+- [SciPy #Project#](https://github.com/scipy/scipy): SciPy (pronounced "Sigh Pie") is open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
 
 ## Business Intelligence
 
@@ -52,7 +52,7 @@
 
 - [SnowNLP #Project#](https://github.com/isnowfy/snownlp): SnowNLP 是一个 Python 写的类库，可以方便的处理中文文本内容，是受到了 TextBlob 的启发而写的，由于现在大部分的自然语言处理库基本都是针对英文的，于是写了一个方便处理中文的类库，并且和 TextBlob 不同的是，这里没有用 NLTK，所有的算法都是自己实现的，并且自带了一些训练好的字典。
 
-* [nlp_compromise #Project#](https://github.com/nlp-compromise/nlp_compromise): a cool way to use natural language in javascript
+- [nlp_compromise #Project#](https://github.com/nlp-compromise/nlp_compromise): a cool way to use natural language in javascript
 
 - [flair #Project#](https://github.com/zalandoresearch/flair): A very simple framework for state-of-the-art Natural Language Processing (NLP)
 
@@ -70,7 +70,7 @@
 
 - [Snips NLU #Project#](https://github.com/snipsco/snips-nlu): Snips NLU (Natural Language Understanding) is a Python library that allows to parse sentences written in natural language and extracts structured information.
 
-* [Word2Bits #Project#](https://github.com/agnusmaximus/Word2Bits): Word2Bits extends the Word2Vec algorithm to output high quality quantized word vectors that take 8x-16x less storage/memory than regular word vectors.
+- [Word2Bits #Project#](https://github.com/agnusmaximus/Word2Bits): Word2Bits extends the Word2Vec algorithm to output high quality quantized word vectors that take 8x-16x less storage/memory than regular word vectors.
 
 - [ansj_seg #Project#](https://github.com/NLPchina/ansj_seg): ansj 分词.ict 的真正 java 实现.分词效果速度都超过开源版的 ict. 中文分词,人名识别,词性标注,用户自定义词典。
 
@@ -108,7 +108,7 @@
 
 - [2018-pico.js #Project#](https://github.com/tehnokv/picojs): a face-detection library in 200 lines of JavaScript
 
-* [face-api.js #Project#](): JavaScript API for Face Recognition in the Browser with tensorflow.js.
+- [face-api.js #Project#](): JavaScript API for Face Recognition in the Browser with tensorflow.js.
 
 - [2018-Faceswap #Project#](https://github.com/deepfakes/faceswap): Faceswap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.
 

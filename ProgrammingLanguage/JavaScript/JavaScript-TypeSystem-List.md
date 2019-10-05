@@ -26,11 +26,11 @@
 
 - [Type Checking In JavaScript: Getting Started with Flow.](https://hackernoon.com/type-checking-in-javascript-getting-started-with-flow-8532c11aceb3)
 
-* [2017-Flow 的使用入门](https://zhuanlan.zhihu.com/p/26204569)：Facebook 刚刚上线了重构之后的 Flow 官方站点，新的站点结构清晰、内容丰富。如果你想深入学习使用 Flow，最好的办法当然是直接看官方文档；不过如果你没有太多时间去看完整文档，我们为你准备了这篇 Flow 的基本入门知识。注意，本文不会分享如何具体安装以及在项目中配置 Flow，关于这些，你可以参考这篇文章。
+- [2017-Flow 的使用入门](https://zhuanlan.zhihu.com/p/26204569)：Facebook 刚刚上线了重构之后的 Flow 官方站点，新的站点结构清晰、内容丰富。如果你想深入学习使用 Flow，最好的办法当然是直接看官方文档；不过如果你没有太多时间去看完整文档，我们为你准备了这篇 Flow 的基本入门知识。注意，本文不会分享如何具体安装以及在项目中配置 Flow，关于这些，你可以参考这篇文章。
 
-* [2017-Flow 中的联结类型使用详解](https://zhuanlan.zhihu.com/p/26401539)
+- [2017-Flow 中的联结类型使用详解](https://zhuanlan.zhihu.com/p/26401539)
 
-* [2017-The definitive guide for using Flow static JavaScript type checker](https://parg.co/b27)
+- [2017-The definitive guide for using Flow static JavaScript type checker](https://parg.co/b27)
 
 ## Resources | 资源
 
@@ -48,4 +48,4 @@
 
 - [Shipping Flowtype Definitions in NPM Packages](https://medium.com/@ryyppy/shipping-flowtype-definitions-in-npm-packages-c987917efb65#.3d39c4xr4)
 
-* [2017-Linting in Flow](https://parg.co/b2x)
+- [2017-Linting in Flow](https://parg.co/b2x)

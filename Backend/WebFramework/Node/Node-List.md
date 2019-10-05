@@ -60,8 +60,8 @@
 
 - [Caporal.js](https://github.com/mattallty/Caporal.js): A full-featured framework for building command line applications (cli) with node.js
 
-* [tips-for-making-a-cli-based-tool-with-node](https://medium.com/@kentcdodds/tips-for-making-a-cli-based-tool-with-node-9903255c2a3b#.ugk1a07dg)
+- [tips-for-making-a-cli-based-tool-with-node](https://medium.com/@kentcdodds/tips-for-making-a-cli-based-tool-with-node-9903255c2a3b#.ugk1a07dg)
 
-* [【译】使用 Node.js 创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/)
+- [【译】使用 Node.js 创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/)
 
-* [auto-sni](https://github.com/DylanPiercey/auto-sni):Free, automated HTTPS for NodeJS made easy.
+- [auto-sni](https://github.com/DylanPiercey/auto-sni):Free, automated HTTPS for NodeJS made easy.

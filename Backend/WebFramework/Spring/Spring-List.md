@@ -8,9 +8,9 @@
 
 - [2017-Spring Boot 的自动配置](http://www.tuicool.com/articles/zAfQjy3)：随着 Ruby、Groovy 等动态语言的流行，相比较之下 Java 的开发显得格外笨重。繁多的配置、低下的开发效率、复杂的部署流程以及第三方技术集成难度大等问题一直被人们所诟病。随着 Spring 家族中的新星 Spring Boot 的诞生，这些问题都在逐渐被解决。
 
-* [2017-Spring Cloud 系列文章](http://www.ityouknow.com/spring-cloud)
+- [2017-Spring Cloud 系列文章](http://www.ityouknow.com/spring-cloud)
 
-* [2016-Spring Boot 系列文章](http://www.ityouknow.com/spring-boot)
+- [2016-Spring Boot 系列文章](http://www.ityouknow.com/spring-boot)
 
 - [Unit Test Spring MVC Rest Service: MockMVC, JUnit, Mockito](http://memorynotfound.com/unit-test-spring-mvc-rest-service-junit-mockito/)
 
@@ -32,13 +32,13 @@
 
 - [2016-Spring Boot For Beginners #Series#](https://github.com/in28minutes/SpringBootForBeginners): In this course, you will learn the cool things about Spring Boot and Spring Boot Starter Projects. We will develop a basic REST Service to manage questions of a survey.
 
-* [2017-Sprint Boot 完整教程 #Series#](https://blog.csdn.net/column/details/13466.html): 从功能性的角度开始讲解 Spring Boot 的用户，层层递进。全教程分为两个等级初级和高级，完美讲述了 Spring Boot 在开发过程中的使用。
+- [2017-Sprint Boot 完整教程 #Series#](https://blog.csdn.net/column/details/13466.html): 从功能性的角度开始讲解 Spring Boot 的用户，层层递进。全教程分为两个等级初级和高级，完美讲述了 Spring Boot 在开发过程中的使用。
 
-* [2018-Spring Framework 实现原理与源码解析系统 #Series#](http://www.iocoder.cn/Spring/good-collection/?title)
+- [2018-Spring Framework 实现原理与源码解析系统 #Series#](http://www.iocoder.cn/Spring/good-collection/?title)
 
-* [2018-Spring MVC 实现原理与源码解析系统 #Series#](http://www.iocoder.cn/Spring-MVC/good-collection/?title)
+- [2018-Spring MVC 实现原理与源码解析系统 #Series#](http://www.iocoder.cn/Spring-MVC/good-collection/?title)
 
-* [2018-Spring Boot 实现原理与源码解析系统 #Series#](http://www.iocoder.cn/Spring-Boot/good-collection/?title)
+- [2018-Spring Boot 实现原理与源码解析系统 #Series#](http://www.iocoder.cn/Spring-Boot/good-collection/?title)
 
 ## Showcase
 

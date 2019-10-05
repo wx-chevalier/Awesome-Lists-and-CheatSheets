@@ -24,35 +24,35 @@
 
 - [2015-Udacity-Intro to Artificial Intelligence #Course#](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271): In this course, you’ll learn the basics of modern AI as well as some of the representative applications of AI. Along the way, we also hope to excite you about the numerous applications and huge possibilities in the field of AI, which continues to expand human capability beyond our imagination.
 
-* [2016-台大机器学习技法 #Course#](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2): Linear Support Vector Machine (SVM) :: Course Introduction @ Machine Learning Techniques, etc.
+- [2016-台大机器学习技法 #Course#](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2): Linear Support Vector Machine (SVM) :: Course Introduction @ Machine Learning Techniques, etc.
 
 - [2017-EdX-Artificial Intelligence (AI) #Course#](https://parg.co/Y64): Learn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems.
 
 - [2017-Advanced Machine Learning #Course#](https://www.coursera.org/specializations/aml?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-TzFMe90rgoVoC7rrHct37A&siteID=OyHlmBp2G0c-TzFMe90rgoVoC7rrHct37A&utm_content=2&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c): Deep Dive Into The Modern AI Techniques. You will teach computer to see, draw, read, talk, play games and solve industry problems.
 
-* [2018-Machine Learning Crash Course with TensorFlow APIs by Google #Course#](https://developers.google.com/machine-learning/crash-course/): Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.
+- [2018-Machine Learning Crash Course with TensorFlow APIs by Google #Course#](https://developers.google.com/machine-learning/crash-course/): Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.
 
 - [2018-Foundations of Machine Learning #Course#](https://bloomberg.github.io/foml/): Understand the Concepts, Techniques and Mathematical Frameworks Used by Experts in Machine Learning.
 
 - [2018-100 Days Of ML Code #Series#](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100 Days of ML Coding
 
-* [2018-Machine Learning and Medicine #Course#](https://sgfin.github.io/learning-resources/): This is a not-particularly-systematic attempt to curate a handful of my favorite resources for learning statistics and machine learning.
+- [2018-Machine Learning and Medicine #Course#](https://sgfin.github.io/learning-resources/): This is a not-particularly-systematic attempt to curate a handful of my favorite resources for learning statistics and machine learning.
 
-* [2018-mlcourse.ai #Course#](https://github.com/Yorko/mlcourse.ai): Open Machine Learning Course
+- [2018-mlcourse.ai #Course#](https://github.com/Yorko/mlcourse.ai): Open Machine Learning Course
 
-* [2019-台大教授李宏毅的机器学习课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html): 台大教授李宏毅的机器学习课程经常被认为是中文开放课程中的首选。李教授的授课风格风趣幽默，通俗易懂，其课程内容中不仅有机器学习、深度学习的基础知识，也会介绍 ML 领域里的各种最新技术。
+- [2019-台大教授李宏毅的机器学习课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html): 台大教授李宏毅的机器学习课程经常被认为是中文开放课程中的首选。李教授的授课风格风趣幽默，通俗易懂，其课程内容中不仅有机器学习、深度学习的基础知识，也会介绍 ML 领域里的各种最新技术。
 
 # Deep Learning
 
 - [2016-Deep Learning by Google #Course#](https://parg.co/Y6N): In this course, you’ll develop a clear understanding of the motivation for deep learning, and design intelligent systems that learn from complex and/or large-scale datasets.
 
-* [2017-CS 20SI: TensorFlow for Deep Learning Research #Course#](https://web.stanford.edu/class/cs20si/): This course will cover the fundamentals and contemporary usage of the TensorFlow library for deep learning research. We aim to help students understand the graphical computational model of TensorFlow, explore the functions it has to offer, and learn how to build and structure models best suited for a deep learning project.
+- [2017-CS 20SI: TensorFlow for Deep Learning Research #Course#](https://web.stanford.edu/class/cs20si/): This course will cover the fundamentals and contemporary usage of the TensorFlow library for deep learning research. We aim to help students understand the graphical computational model of TensorFlow, explore the functions it has to offer, and learn how to build and structure models best suited for a deep learning project.
 
 - [2017-Fast.ai DeepLearning AI #Course#](https://github.com/fastai/fastai): Most of the library is quite well tested since many students have used it to complete the Practical Deep Learning for Coders course. However it hasn't been widely used yet outside of the course, so you may find some missing features or rough edges. [Personal notes](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197) can be found here; 关联的课件、代码等资源可以查看[这里](https://github.com/sjtu-medialab/DeepLearning-IntroductionCourse)。
 
 - [2018-Deep Learning Specialization #Course#](https://www.deeplearning.ai/courses/): Deep Learning is transforming multiple industries. This five-course specialization will help you understand Deep Learning fundamentals, apply them, and build a career in AI.
 
-* [2018-CS230: Deep Learning](https://web.stanford.edu/class/cs230/): In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. [百度网盘，j2vp](https://pan.baidu.com/s/1Toko6dTqK-W6-e8EVm2kpA)
+- [2018-CS230: Deep Learning](https://web.stanford.edu/class/cs230/): In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. [百度网盘，j2vp](https://pan.baidu.com/s/1Toko6dTqK-W6-e8EVm2kpA)
 
 # Reinforcement Learning
 
@@ -64,7 +64,7 @@
 
 - [2017-Neural Networks for Machine Learning #Course#](https://www.coursera.org/learn/neural-networks): Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc.
 
-* [2017-Oxford Deep NLP course #Course#](https://github.com/oxford-cs-deepnlp-2017/lectures): This is an advanced course on natural language processing. Automatically processing natural language inputs and producing language outputs is a key component of Artificial General Intelligence.
+- [2017-Oxford Deep NLP course #Course#](https://github.com/oxford-cs-deepnlp-2017/lectures): This is an advanced course on natural language processing. Automatically processing natural language inputs and producing language outputs is a key component of Artificial General Intelligence.
 
 - [2017-CS224d: Deep Learning for Natural Language Processing #Course#](http://cs224d.stanford.edu/syllabus.html): Intro to NLP and Deep Learning, Simple Word Vector representations: word2vec, GloVe, etc.
 
@@ -80,11 +80,11 @@
 
 - [2015-Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures): Lectures on scientific computing with python, as IPython notebooks.
 
-* [2017-All-in-one Docker image for Deep Learning #Project#](https://github.com/saiprashanths/dl-docker): An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
+- [2017-All-in-one Docker image for Deep Learning #Project#](https://github.com/saiprashanths/dl-docker): An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
-* [2017-Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning): A list of popular github projects related to deep learning (ranked by stars).
+- [2017-Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning): A list of popular github projects related to deep learning (ranked by stars).
 
-* [2018-Seedbank #Project#](https://research.google.com/seedbank/guide/tutorial): Browse seeds from a list of different kinds of machine learning examples and use the top level categories to narrow your search according to your interests.
+- [2018-Seedbank #Project#](https://research.google.com/seedbank/guide/tutorial): Browse seeds from a list of different kinds of machine learning examples and use the top level categories to narrow your search according to your interests.
 
 - [numpy-ml #Project#](https://github.com/ddbourgin/numpy-ml): Ever wish you had an inefficient but somewhat legible collection of machine learning algorithms implemented exclusively in numpy? No?
 
@@ -96,19 +96,19 @@
 
 - [2016-Deep Learning Using TensorFlow](https://github.com/anujdutt9/TensorFlow-DeepLearning): This repository contains the code for TensorFlow Tutorial for Deep Learning from Starting to End. All the code is written using Python3.
 
-* [2017-Deep Learning 21 Examples](https://github.com/hzy46/Deep-Learning-21-Examples): 本工程是《21 个项目玩转深度学习———基于 TensorFlow 的实践详解》的配套代码，代码推荐的运行环境为：Ubuntu 14.04，Python 2.7、TensorFlow >= 1.4.0。请尽量使用类 UNIX 系统和 Python 2 运行本书的代码。
+- [2017-Deep Learning 21 Examples](https://github.com/hzy46/Deep-Learning-21-Examples): 本工程是《21 个项目玩转深度学习———基于 TensorFlow 的实践详解》的配套代码，代码推荐的运行环境为：Ubuntu 14.04，Python 2.7、TensorFlow >= 1.4.0。请尽量使用类 UNIX 系统和 Python 2 运行本书的代码。
 
-* [2017-TensorFlow Models by Sarasra #Project#](https://github.com/Sarasra/models): This repository contains a number of different models implemented in TensorFlow: the official models, the research models, the samples folder and the tutorials folder.
+- [2017-TensorFlow Models by Sarasra #Project#](https://github.com/Sarasra/models): This repository contains a number of different models implemented in TensorFlow: the official models, the research models, the samples folder and the tutorials folder.
 
 - [Android TensorFlow Machine Learning Example #Project#](http://6me.us/GbWFKx): This article is for those who are already familiar with machine learning and know how to the build model for machine learning(for this example I will be using a pre-trained model).
 
 - [2017-NakedTensor #Project#](https://github.com/jostmey/NakedTensor): Bare bone examples of machine learning in TensorFlow.
 
-* [2018-Deep Learning Using TensorFlow #Project#](https://github.com/anujdutt9/TensorFlow-DeepLearning): This repository contains the code for TensorFlow Tutorial for Deep Learning from Starting to End. All the code is written using Python3.
+- [2018-Deep Learning Using TensorFlow #Project#](https://github.com/anujdutt9/TensorFlow-DeepLearning): This repository contains the code for TensorFlow Tutorial for Deep Learning from Starting to End. All the code is written using Python3.
 
 - [2018-TensorFlow Project Template #Project#](https://github.com/Mrgemy95/TensorFlow-Project-Template): A simple and well designed structure is essential for any Deep Learning project, so after a lot of practice and contributing in tensorflow projects here's a tensorflow project template that combines simplcity, best practice for folder structure and good OOP design.
 
-* [2018-Beginner TensorFlowjs Examples in Javascript #Project#](https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/): This is the easiest set of Machine Learning examples that I can find or make. I hope you enjoy it.
+- [2018-Beginner TensorFlowjs Examples in Javascript #Project#](https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/): This is the easiest set of Machine Learning examples that I can find or make. I hope you enjoy it.
 
 - [2018-finch #Project#](https://github.com/zhedongzheng/finch): Make NLP Flow in TensorFlow
 

@@ -42,4 +42,4 @@
 
 - [微服务经典文章大汇总](http://mp.weixin.qq.com/s?__biz=MzA3MDg4Nzc2NQ==&mid=504649826&idx=1&sn=6a9a2f98f3be076e234d9758ce87f656#rd)
 
-* [2018-从 Spring Cloud 开始，聊聊微服务架构实践之路](http://mp.weixin.qq.com/s/DZQU4s9YNx4fXsfwu5whIg): 平台的技术架构也完成了从传统的单体应用到微服务化的演进。
+- [2018-从 Spring Cloud 开始，聊聊微服务架构实践之路](http://mp.weixin.qq.com/s/DZQU4s9YNx4fXsfwu5whIg): 平台的技术架构也完成了从传统的单体应用到微服务化的演进。

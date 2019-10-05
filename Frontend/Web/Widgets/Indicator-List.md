@@ -14,13 +14,13 @@
 
 - [jQuery-HTML5 Sortable #Project#](http://farhadi.ir/projects/html5sortable/): 基于 jQuery 的拖拽插件
 
-* [2018-react-window #Project#](https://github.com/bvaughn/react-window): React components for efficiently rendering large lists and tabular data.
+- [2018-react-window #Project#](https://github.com/bvaughn/react-window): React components for efficiently rendering large lists and tabular data.
 
 ## Virtualized List | 虚拟列表
 
 - [react-virtualized #Project#](https://bvaughn.github.io/react-virtualized/): React components for efficiently rendering large lists and tabular data.
 
-* [react-virtual-list #Project#](https://github.com/developerdizzle/react-virtual-list): Super simple virtualized list React component.
+- [react-virtual-list #Project#](https://github.com/developerdizzle/react-virtual-list): Super simple virtualized list React component.
 
 - [react-window #Project#](https://github.com/bvaughn/react-window): React components for efficiently rendering large lists and tabular data. 
 
@@ -28,7 +28,7 @@
 
 - [react-pivottable #Project#](https://react-pivottable.js.org/): React-based drag'n'drop pivot table with Plotly.js charts.
 
-* [react-datasheet #Project#](https://nadbm.github.io/react-datasheet/)
+- [react-datasheet #Project#](https://nadbm.github.io/react-datasheet/)
 
 ## DataGrid | 数据表格
 

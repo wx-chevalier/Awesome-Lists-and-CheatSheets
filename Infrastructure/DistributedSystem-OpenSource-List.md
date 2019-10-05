@@ -42,7 +42,7 @@
 
 - [Image Server #Project#](https://github.com/pierrre/imageserver): An image server toolkit in Go (Golang)
 
-* [Pavlov Match #Project#](https://github.com/pavlovml/match):Scalable reverse image search
+- [Pavlov Match #Project#](https://github.com/pavlovml/match):Scalable reverse image search
 
 - [Blb #Project#](https://github.com/westerndigitalcorporation/blb): Blb is a distributed object storage system designed for use on bare metal with spinning disks in cluster computing environments.
 
@@ -66,11 +66,11 @@
 
 - [2017-Sandglass #Project#](https://github.com/celrenheit/sandglass): Sandglass is a distributed, horizontally scalable, persistent, time sorted message queue.
 
-* [2018-PhxQueue #Project#](https://github.com/Tencent/phxqueue): PhxQueue 是微信开源的一款基于 Paxos 协议实现的高可用、高吞吐和高可靠的分布式队列，保证 At-Least-Once Delivery，在微信内部广泛支持微信支付、公众平台等多个重要业务。
+- [2018-PhxQueue #Project#](https://github.com/Tencent/phxqueue): PhxQueue 是微信开源的一款基于 Paxos 协议实现的高可用、高吞吐和高可靠的分布式队列，保证 At-Least-Once Delivery，在微信内部广泛支持微信支付、公众平台等多个重要业务。
 
-* [2018-Jocko #Project#](https://github.com/travisjeffery/jocko): Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
+- [2018-Jocko #Project#](https://github.com/travisjeffery/jocko): Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
 
-* [2018-QMQ #Project#](https://github.com/qunarcorp/qmq): QMQ 是去哪儿网内部广泛使用的消息中间件，自 2012 年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。
+- [2018-QMQ #Project#](https://github.com/qunarcorp/qmq): QMQ 是去哪儿网内部广泛使用的消息中间件，自 2012 年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。
 
 - [2018-NATS #Project#](https://github.com/nats-io/nats-server): High-Performance server for NATS, the cloud native messaging system.
 
@@ -82,7 +82,7 @@
 
 - [Flink #Project#](https://github.com/apache/flink): Apache Flink is an open source stream processing framework with powerful stream- and batch-processing capabilities.
 
-* [Wallaroo #Project#](https://github.com/wallaroolabs/wallaroo): Wallaroo is a fast, elastic data processing engine that rapidly takes you from prototype to production by eliminating infrastructure complexity.
+- [Wallaroo #Project#](https://github.com/wallaroolabs/wallaroo): Wallaroo is a fast, elastic data processing engine that rapidly takes you from prototype to production by eliminating infrastructure complexity.
 
 # Edge Computing | 边缘计算
 

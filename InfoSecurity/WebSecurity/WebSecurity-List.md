@@ -6,9 +6,9 @@
 
 - [2017-Common Security Issues in Web Applications #Series#](https://parg.co/Uu9): I hope this article will help developers to have simple understanding of some issues that appear to be in 80–85% of applications.
 
-* [A practical security guide for web developers](https://github.com/FallibleInc/security-guide-for-developers)
+- [A practical security guide for web developers](https://github.com/FallibleInc/security-guide-for-developers)
 
-* [2018-Hacker101](https://github.com/Hacker0x01/hacker101): Hacker101 is a free class for web security. Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
+- [2018-Hacker101](https://github.com/Hacker0x01/hacker101): Hacker101 is a free class for web security. Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
 
 - [12 best practices for user account, authorization and password management](https://parg.co/U9A)
 
@@ -20,13 +20,13 @@
 
 - [2018-Web Application Penetration Testing Cheat Sheet](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/#data-validation-testing): This cheatsheet is intended to run down the typical steps performed when conducting a web application penetration test.
 
-* [Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56): Michael O’Brien shares a security checklist for web developers so that you don’t forget anything crucial in your next projects.
+- [Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56): Michael O’Brien shares a security checklist for web developers so that you don’t forget anything crucial in your next projects.
 
 # Browser Security | 浏览器安全
 
 - [CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging): Chrome extension and Express server that exploits keylogging abilities of CSS.
 
-* [2018-How to stop me harvesting credit card numbers and passwords from your site](https://parg.co/Uvz)
+- [2018-How to stop me harvesting credit card numbers and passwords from your site](https://parg.co/Uvz)
 
 - [2017-From Markdown to RCE in Atom](https://statuscode.ch/2017/11/from-markdown-to-rce-in-atom/): Recently I took a look at Atom, a text editor by GitHub. With a little bit of work, I was able to chain multiple vulnerabilities in Atom into an actual Remote Code Execution.
 
@@ -42,7 +42,7 @@
 
 - [OWASP_API_Security_Project](https://www.owasp.org/index.php/OWASP_API_Security_Project)
 
-* [浏览器漏洞挖掘思路](https://zhuanlan.zhihu.com/p/28719766): 在这篇讲座(文章)中，我们会给读者带来挖掘浏览器漏洞的思路。
+- [浏览器漏洞挖掘思路](https://zhuanlan.zhihu.com/p/28719766): 在这篇讲座(文章)中，我们会给读者带来挖掘浏览器漏洞的思路。
 
 # 密码、校验与过滤
 
@@ -52,7 +52,7 @@
 
 - [Preventing cross-site attacks using same-site cookies](https://parg.co/bs5)
 
-* [Cross-site scripting for dummies](https://hackernoon.com/cross-site-scripting-for-dummies-be30f76fad09#.6yvkvry4s)
+- [Cross-site scripting for dummies](https://hackernoon.com/cross-site-scripting-for-dummies-be30f76fad09#.6yvkvry4s)
 
 - [2018-Practical Web Cache Poisoning](https://portswigger.net/blog/practical-web-cache-poisoning): In this paper I'll show you how to compromise websites by using esoteric web features to turn their caches into exploit delivery systems, targeting everyone that makes the mistake of visiting their homepage.
 
@@ -78,7 +78,7 @@
 
 - [大话数据库 SQL 注入的 N 种姿势](http://www.freebuf.com/articles/web/98119.html)
 
-* [2017-NetSPI SQL Injection Wiki](https://sqlwiki.netspi.com/): This wiki's mission is to be a one stop resource for fully identifying, exploiting, and escalating SQL injection vulnerabilities across various Database Management Systems (DBMS).
+- [2017-NetSPI SQL Injection Wiki](https://sqlwiki.netspi.com/): This wiki's mission is to be a one stop resource for fully identifying, exploiting, and escalating SQL injection vulnerabilities across various Database Management Systems (DBMS).
 
 # WebShell
 

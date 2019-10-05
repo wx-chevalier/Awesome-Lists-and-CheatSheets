@@ -14,7 +14,7 @@
 
 - [Typehead.js](https://github.com/twitter/typeahead.js)
 
-* [places](https://github.com/algolia/places):Turn any `input` into an address autocomplete
+- [places](https://github.com/algolia/places):Turn any `input` into an address autocomplete
 
 # Auto Format | 自动格式化
 
@@ -22,7 +22,7 @@
 
 - [React-date-range #Project#](https://github.com/Adphorus/react-date-range)
 
-* [FlatPicker #Project#](https://github.com/chmln/flatpickr): 无依赖非常小的日期选择器
+- [FlatPicker #Project#](https://github.com/chmln/flatpickr): 无依赖非常小的日期选择器
 
 # Time Picker / 时间选择器
 
@@ -32,9 +32,9 @@
 
 - [Pell #Project#](https://github.com/jaredreich/pell): pell is the simplest and smallest WYSIWYG text editor for web, with no dependencies
 
-* [TOAST UI Editor #Project#](https://parg.co/UVY): Markdown WYSIWYG Editor | Productive and Extensible.
+- [TOAST UI Editor #Project#](https://parg.co/UVY): Markdown WYSIWYG Editor | Productive and Extensible.
 
-* [Draft.js](http://facebook.github.io/draft-js/)
+- [Draft.js](http://facebook.github.io/draft-js/)
 
 - [draft-js-plugins #Project#](https://www.draft-js-plugins.com/)
 
@@ -44,7 +44,7 @@
 
 - [2018-ReLaXed #Project#](https://github.com/RelaxedJS/ReLaXed): ReLaXed is a tool which creates PDF documents interactively using HTML or Pug (a shorthand for HTML).
 
-* [2018-Countable #Project#](https://github.com/RadLikeWhoa/Countable/blob/master/README.md): Countable is a JavaScript function to add live paragraph-, word- and character-counting to an HTML element.
+- [2018-Countable #Project#](https://github.com/RadLikeWhoa/Countable/blob/master/README.md): Countable is a JavaScript function to add live paragraph-, word- and character-counting to an HTML element.
 
 - [2019-Editor.js #Project#](https://github.com/codex-team/editor.js): A block-styled editor with clean JSON output.
 

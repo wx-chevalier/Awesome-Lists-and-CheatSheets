@@ -8,7 +8,7 @@
 
 - [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
 
-* [2018-WWDC 中提到的浏览器 Fingerprinting 有多可怕？](https://juejin.im/post/5b17de31f265da6e397b70f4): 这个技术和指纹有什么关系，是用来做什么的，又有多值得普通用户担心呢？让我们从它的来龙去脉说起吧 :-)
+- [2018-WWDC 中提到的浏览器 Fingerprinting 有多可怕？](https://juejin.im/post/5b17de31f265da6e397b70f4): 这个技术和指纹有什么关系，是用来做什么的，又有多值得普通用户担心呢？让我们从它的来龙去脉说起吧 :-)
 
 # Chrome
 
@@ -22,7 +22,7 @@
 
 - [2017-Entering the Quantum Era—How Firefox got fast again and where it’s going to get faster](https://parg.co/U6v)
 
-* [2018-Making WebAssembly even faster: Firefox’s new streaming and tiering compiler](https://parg.co/U8j)
+- [2018-Making WebAssembly even faster: Firefox’s new streaming and tiering compiler](https://parg.co/U8j)
 
 # Edge
 

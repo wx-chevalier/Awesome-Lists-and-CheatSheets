@@ -10,7 +10,7 @@
 
 - [2017-Frontend Performance Check-list For Production](https://parg.co/bLP): In this article I will share with you my chick-list that I use to optimize my web pages after development. So feel free to leave a comment if you think I miss something.
 
-* [2017-The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3): A guide to impactful performance improvements.
+- [2017-The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3): A guide to impactful performance improvements.
 
 - [400% 飞跃：Web 页面加载速度优化实战](https://parg.co/Utq)
 
@@ -24,7 +24,7 @@
 
 - [Speed Matters: Designing for Mobile Performance](https://parg.co/bDR)
 
-* [2017-Tracking CPU with Long Tasks API](https://calendar.perfplanet.com/2017/tracking-cpu-with-long-tasks-api/): the old bottleneck for web performance used to be the network. But the new bottleneck for web performance is the CPU, and particularly the main thread.
+- [2017-Tracking CPU with Long Tasks API](https://calendar.perfplanet.com/2017/tracking-cpu-with-long-tasks-api/): the old bottleneck for web performance used to be the network. But the new bottleneck for web performance is the CPU, and particularly the main thread.
 
 - [2018-Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist): The only Front-End Performance Checklist that runs faster than the others
 
@@ -46,9 +46,9 @@
 
 - [SiteSpeed](https://www.sitespeed.io/): itespeed.io is a set of Open Source tools that helps make your web pages faster.
 
-* [stacks-cli #Project#](https://github.com/WeiChiaChang/stacks-cli): Check website stack from the terminal.
+- [stacks-cli #Project#](https://github.com/WeiChiaChang/stacks-cli): Check website stack from the terminal.
 
-* [WebPagetest #Project#](https://github.com/WPO-Foundation/webpagetest)
+- [WebPagetest #Project#](https://github.com/WPO-Foundation/webpagetest)
 
 ## Page Metric | 页面评测
 

@@ -60,9 +60,9 @@
 
 - [pwc](https://github.com/zziz/pwc): Papers with code. Sorted by stars. Updated weekly.
 
-* [Awesome - Most Cited Deep Learning Papers #Collection#](https://github.com/terryum/awesome-deep-learning-papers)
+- [Awesome - Most Cited Deep Learning Papers #Collection#](https://github.com/terryum/awesome-deep-learning-papers)
 
-* [Deep-Learning-Papers-Reading-Roadmap #Collection#](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap): Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+- [Deep-Learning-Papers-Reading-Roadmap #Collection#](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap): Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 
 ## Blog | 博客
 
@@ -74,15 +74,15 @@
 
 - [Kaggle](https://www.kaggle.com/competitions): 官方新人赛，不错的入门学习
 
-* [Driven Data](https://www.drivendata.org/competitions/)
+- [Driven Data](https://www.drivendata.org/competitions/)
 
-* [Innocentive](https://www.innocentive.com/ar/challenge/browse)
+- [Innocentive](https://www.innocentive.com/ar/challenge/browse)
 
-* [Crowdanalytix](https://www.crowdanalytix.com/community)
+- [Crowdanalytix](https://www.crowdanalytix.com/community)
 
-* [Tunedit](http://tunedit.org/challenges?type=student)
+- [Tunedit](http://tunedit.org/challenges?type=student)
 
-* [DataFountain](http://www.wid.org.cn/data/science/player/home/): DF,CCF 指定中国专业的数据竞赛平台
+- [DataFountain](http://www.wid.org.cn/data/science/player/home/): DF,CCF 指定中国专业的数据竞赛平台
 
 - [Distill](https://distill.pub/)
 
@@ -92,8 +92,8 @@
 
 - [Google 关于机器学习与人工智能岗位的招聘启事](https://www.google.com/about/careers/search?_ga=1.89288795.153537653.1473158707#!t=jo&jid=28625001&)
 
-* [代码解析深度学习系统编程模型：TensorFlow vs. CNTK](http://geek.csdn.net/news/detail/62429)
+- [代码解析深度学习系统编程模型：TensorFlow vs. CNTK](http://geek.csdn.net/news/detail/62429)
 
-* [深度学习岗位面试问题整理笔记](https://zhuanlan.zhihu.com/p/25005808)
+- [深度学习岗位面试问题整理笔记](https://zhuanlan.zhihu.com/p/25005808)
 
 - [想知道机器学习掌握的怎么样了吗？这有一份自测题(附答案和解析)](https://yq.aliyun.com/articles/64929)

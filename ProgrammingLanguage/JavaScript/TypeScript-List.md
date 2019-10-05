@@ -14,7 +14,7 @@
 
 - [2015-TypeScript Handbook #Book#](https://github.com/Microsoft/TypeScript-Handbook): The TypeScript Handbook is a comprehensive guide to the TypeScript language.
 
-* [2016-TypeScript Deep Dive #Book#](https://basarat.gitbooks.io/typescript/content/index.html): This is based on the lessons from Stack Overflow / DefinitelyTyped and general engagement with the TypeScript community. 中文版参考 [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)。
+- [2016-TypeScript Deep Dive #Book#](https://basarat.gitbooks.io/typescript/content/index.html): This is based on the lessons from Stack Overflow / DefinitelyTyped and general engagement with the TypeScript community. 中文版参考 [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)。
 
 - [Awesome TypeScript #Collection#](https://github.com/dzharii/awesome-typescript): A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the awesome lists.
 
@@ -24,14 +24,14 @@
 
 - [2016-Learn TypeScript in 30 Minutes](http://www.tuicool.com/articles/iAzI7bn): Today we’re going to take a look at TypeScript, a compile-to-JavaScript language designed for developers who build large and complex apps.
 
-* [2016-Let's Learn TypeScript](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/17-typescript)
+- [2016-Let's Learn TypeScript](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/17-typescript)
 
 - [2017-Common TypeScript Error Messages](https://www.sitepen.com/blog/2017/11/01/common-typescript-error-messages/)
 
-* [2018-Advanced functional programming in TypeScript](https://codewithstyle.info/advanced-functional-programming-typescript-monads-generators/): In this post, you’ll see how to take advantage of generators to make the monadic code more readable.
+- [2018-Advanced functional programming in TypeScript](https://codewithstyle.info/advanced-functional-programming-typescript-monads-generators/): In this post, you’ll see how to take advantage of generators to make the monadic code more readable.
 
 - [TypeScript Practical Introduction](https://parg.co/UsM): Let's learn TypeScript features through practical examples.
 
-* [2018-Surviving the TypeScript Ecosystem #Series#](https://medium.com/@KevinBGreene/surviving-the-typescript-ecosystem-writing-type-safe-ish-javascript-code-1e8375819d2e): I won’t be explaining anything around the JavaScript ecosystem and I won’t be covering with any depth TypeScript features that are intuitive and/or consistent with other statically-typed languages.
+- [2018-Surviving the TypeScript Ecosystem #Series#](https://medium.com/@KevinBGreene/surviving-the-typescript-ecosystem-writing-type-safe-ish-javascript-code-1e8375819d2e): I won’t be explaining anything around the JavaScript ecosystem and I won’t be covering with any depth TypeScript features that are intuitive and/or consistent with other statically-typed languages.
 
 - [2019-TypeScript Evolution #Series#](https://mariusschulz.com/blog/series/typescript-evolution): The TypeScript Evolution series consists of 40 posts.

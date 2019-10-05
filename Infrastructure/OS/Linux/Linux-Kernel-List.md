@@ -8,6 +8,6 @@
 
 - [2018-Interactive map of Linux kernel](http://www.makelinux.net/kernel_map/)
 
-* [Build yourself a Linux](https://github.com/MichielDerhaeg/build-linux): A short tutorial about building Linux based operating systems.
+- [Build yourself a Linux](https://github.com/MichielDerhaeg/build-linux): A short tutorial about building Linux based operating systems.
 
 - [2018-mkernel #Project#](https://github.com/arjun024/mkeykernel?subject=os): This is a minimalist kernel which prints "my first kernel" on the screen and then hangs.

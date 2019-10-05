@@ -42,7 +42,7 @@
 
 - [Unpacking the Black Box: Benchmarking JS Parsing and Execution on Mobile Devices](https://www.safaribooksonline.com/library/view/velocity-conference-new/9781491900406/part78.html)
 
-* [slides](https://speakerdeck.com/desp/unpacking-the-black-box-benchmarking-js-parsing-and-execution-on-mobile-devices))
+- [slides](https://speakerdeck.com/desp/unpacking-the-black-box-benchmarking-js-parsing-and-execution-on-mobile-devices))
 
 - [When everything’s important, nothing is!](https://aerotwist.com/blog/when-everything-is-important-nothing-is/)
 
@@ -56,11 +56,11 @@
 
 - [Turn off negate_iife by default as it hurts V8 performance.](https://github.com/mishoo/UglifyJS2/issues/886)
 
-* [Optimization killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers): This document will contain advice to avoid writing code that will perform significantly worse than expected. Specifically those patterns that cause V8 (relevant to Node.JS, Opera, Chromium...) to refuse to optimize the affected function.
+- [Optimization killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers): This document will contain advice to avoid writing code that will perform significantly worse than expected. Specifically those patterns that cause V8 (relevant to Node.JS, Opera, Chromium...) to refuse to optimize the affected function.
 
-* [2017-Optimizing dynamic JavaScript with inline caches](https://parg.co/b4a): This is an overview of an optimization technique I've been using in JSIL for a while, where you create and update polymorphic inline caches in your JavaScript code at runtime so that it can stay fast while adapting to unexpected changes.。( https://parg.co/b4a )
+- [2017-Optimizing dynamic JavaScript with inline caches](https://parg.co/b4a): This is an overview of an optimization technique I've been using in JSIL for a while, where you create and update polymorphic inline caches in your JavaScript code at runtime so that it can stay fast while adapting to unexpected changes.。( https://parg.co/b4a )
 
-* [2017-Improved JavaScript performance, WebAssembly, and Shared Memory in Microsoft Edge](https://parg.co/bfk)
+- [2017-Improved JavaScript performance, WebAssembly, and Shared Memory in Microsoft Edge](https://parg.co/bfk)
 
 - [2012:writing-fast-memory-efficient-javascript](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/)
 
@@ -80,8 +80,8 @@
 
 - [避免大规模、复杂的布局](https://developers.google.com/web/fundamentals/performance/rendering/?hl=zh-cn)
 
-* [一篇文章说清浏览器解析和 CSS(GPU )动画优化](https://segmentfault.com/a/1190000008015671)
+- [一篇文章说清浏览器解析和 CSS(GPU )动画优化](https://segmentfault.com/a/1190000008015671)
 
-* [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a): All of the below properties or methods, when requested/called in JavaScript, will trigger the browser to synchronously calculate the style and layout\*.
+- [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a): All of the below properties or methods, when requested/called in JavaScript, will trigger the browser to synchronously calculate the style and layout\*.
 
 # Interaction & Animation | 交互与动画

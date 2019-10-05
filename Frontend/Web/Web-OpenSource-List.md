@@ -32,7 +32,7 @@
 
 - [Material-UI #Project#](http://www.material-ui.com/#/): A Set of React Components that Implement Google's Material Design.
 
-* [Ant Design #Project#](https://www.hugedomains.com/domain_profile.cfm?d=ant-design&e=com): An enterprise-class UI design language and React-based implementation.
+- [Ant Design #Project#](https://www.hugedomains.com/domain_profile.cfm?d=ant-design&e=com): An enterprise-class UI design language and React-based implementation.
 
 - [2019-Chakra UI #Project#](https://github.com/chakra-ui/chakra-ui): ⚡️Simple, Modular & Accessible UI Components for your React Applications.
 
@@ -46,15 +46,15 @@
 
 - [Webpack #Project#](https://webpack.js.org/): Webpack is a static module bundler for modern JavaScript applications.
 
-* [2017-Parcel #Project#](https://github.com/parcel-bundler/parcel): Blazing fast, zero configuration web application bundler.
+- [2017-Parcel #Project#](https://github.com/parcel-bundler/parcel): Blazing fast, zero configuration web application bundler.
 
-* [browserify #Project#](https://github.com/browserify/browserify): browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single <script> tag.
+- [browserify #Project#](https://github.com/browserify/browserify): browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single <script> tag.
 
-* [2017-Backpack #Project#](https://github.com/jaredpalmer/backpack): Backpack is minimalistic build system for Node.js. Inspired by Facebook's create-react-app, Zeit's Next.js, and Remy's Nodemon, Backpack lets you create modern Node.js apps and services with zero configuration.
+- [2017-Backpack #Project#](https://github.com/jaredpalmer/backpack): Backpack is minimalistic build system for Node.js. Inspired by Facebook's create-react-app, Zeit's Next.js, and Remy's Nodemon, Backpack lets you create modern Node.js apps and services with zero configuration.
 
-* [2017-Microbundle #Project#](https://github.com/developit/microbundle): A zero-configuration bundler for tiny modules, powered by Rollup.
+- [2017-Microbundle #Project#](https://github.com/developit/microbundle): A zero-configuration bundler for tiny modules, powered by Rollup.
 
-* [FuseBox #Project](https://github.com/fuse-box/fuse-box): FuseBox is a bundler/module loader that combines the power of webpack, JSPM and SystemJS.
+- [FuseBox #Project](https://github.com/fuse-box/fuse-box): FuseBox is a bundler/module loader that combines the power of webpack, JSPM and SystemJS.
 
 ## IDE
 
@@ -68,19 +68,19 @@
 
 - [Snabbdom #Project#](https://github.com/snabbdom/snabbdom): A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 
-* [asm-dom #Project#](https://github.com/mbasso/asm-dom): A minimal WebAssembly virtual DOM to build C++ SPA (Single page applications)
+- [asm-dom #Project#](https://github.com/mbasso/asm-dom): A minimal WebAssembly virtual DOM to build C++ SPA (Single page applications)
 
 ## Web Worker
 
 - [Workly #Project#](https://github.com/pshihn/workly): A really simple way to move a stand-alone function/class to a worker thread.
 
-* [workerize #Project#](https://github.com/developit/workerize): Moves a module into a Web Worker, automatically reflecting exported functions as asynchronous proxies.
+- [workerize #Project#](https://github.com/developit/workerize): Moves a module into a Web Worker, automatically reflecting exported functions as asynchronous proxies.
 
-* [workerize-loader #Project#](https://github.com/developit/workerize-loader): Automatically move a module into a Web Worker (Webpack loader).
+- [workerize-loader #Project#](https://github.com/developit/workerize-loader): Automatically move a module into a Web Worker (Webpack loader).
 
-* [greenlet #Project#](https://github.com/developit/greenlet): Move an async function into its own thread, a simplified single-function version of workerize.
+- [greenlet #Project#](https://github.com/developit/greenlet): Move an async function into its own thread, a simplified single-function version of workerize.
 
-* [2017-Comlink #Project#](https://github.com/GoogleChromeLabs/comlink): Comlink’s goal is to make WebWorkers enjoyable. Comlink removes the mental barrier of thinking about postMessage and hides the fact that you are working with workers.
+- [2017-Comlink #Project#](https://github.com/GoogleChromeLabs/comlink): Comlink’s goal is to make WebWorkers enjoyable. Comlink removes the mental barrier of thinking about postMessage and hides the fact that you are working with workers.
 
 ## Network
 
@@ -100,17 +100,17 @@
 
 - [2013-Pouchdb #Project#](https://github.com/pouchdb/pouchdb): PouchDB was created to help web developers build applications that work as well offline as they do online.
 
-* [2014-Lovefield #Project#](https://google.github.io/lovefield/): Relational Database With Schema
+- [2014-Lovefield #Project#](https://google.github.io/lovefield/): Relational Database With Schema
 
-* [LokiJS #Project#](https://github.com/techfort/LokiJS): LokiJS is a document oriented database written in javascript, Its purpose is to store javascript objects as documents in a nosql fashion and retrieve them with a similar mechanism.
+- [LokiJS #Project#](https://github.com/techfort/LokiJS): LokiJS is a document oriented database written in javascript, Its purpose is to store javascript objects as documents in a nosql fashion and retrieve them with a similar mechanism.
 
 - [2017-Lowdb #Project#](https://github.com/typicode/lowdb): Small JSON database for Node, Electron and the browser. Powered by Lodash.
 
-* [2017-RxDB #Project#](https://github.com/pubkey/rxdb): The reactive, serverless, client-side, offline-first database for your next javascript-application.
+- [2017-RxDB #Project#](https://github.com/pubkey/rxdb): The reactive, serverless, client-side, offline-first database for your next javascript-application.
 
-* [2017-Dexie.js #Project#](https://github.com/dfahlander/Dexie.js): Dexie.js is a wrapper library for indexedDB - the standard database in the browser.
+- [2017-Dexie.js #Project#](https://github.com/dfahlander/Dexie.js): Dexie.js is a wrapper library for indexedDB - the standard database in the browser.
 
-* [2018-turtleDB #Project#](https://github.com/turtle-DB/turtleDB): turtleDB is a JavaScript framework and in-browser database for developers to build offline-first, collaborative web applications. It provides a developer-friendly API to access an in-browser database built on top of IndexedDB.
+- [2018-turtleDB #Project#](https://github.com/turtle-DB/turtleDB): turtleDB is a JavaScript framework and in-browser database for developers to build offline-first, collaborative web applications. It provides a developer-friendly API to access an in-browser database built on top of IndexedDB.
 
 ## Media | 媒介资源
 
@@ -204,9 +204,9 @@
 
 - [Walt #Project#](https://github.com/ballercat/walt): WAlt is an alternative syntax for WebAssembly text format. It's an experiment for using JavaScript syntax to write to as 'close to the metal' as possible.
 
-* [WebAssemblyStudio #Project#](https://github.com/wasdk/WebAssemblyStudio): Learn, Teach, Work and Play in the Web Assembly Studio.
+- [WebAssemblyStudio #Project#](https://github.com/wasdk/WebAssemblyStudio): Learn, Teach, Work and Play in the Web Assembly Studio.
 
-* [WebAssembly Micro Runtime #Project#](https://github.com/intel/wasm-micro-runtime): WebAssembly Micro Runtime (WAMR) is standalone WebAssembly (WASM) runtime with a small footprint. It includes a few components.
+- [WebAssembly Micro Runtime #Project#](https://github.com/intel/wasm-micro-runtime): WebAssembly Micro Runtime (WAMR) is standalone WebAssembly (WASM) runtime with a small footprint. It includes a few components.
 
 ## Rust
 

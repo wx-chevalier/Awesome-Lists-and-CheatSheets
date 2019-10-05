@@ -8,7 +8,7 @@
 
 - [Top 10 Mistakes Java Developers Make](http://www.gauravkgupta.com/top-10-mistakes-java-developers-make/)
 
-* [Java Web Frameworks Index by RebelLabs](https://zeroturnaround.com/rebellabs/java-web-frameworks-index-by-rebellabs/)
+- [Java Web Frameworks Index by RebelLabs](https://zeroturnaround.com/rebellabs/java-web-frameworks-index-by-rebellabs/)
 
 - [2017-Java 老矣，尚能饭否？](http://www.infoq.com/cn/articles/is-java-out-of-date): 从 1995 年第一个版本发布到现在，Java 语言已经在跌宕起伏中走过了 22 年，最新的 Java 版本也已经迭代到 Java 9。
 
@@ -54,19 +54,19 @@
 
 - [2011-Java Concurrency In Practice #Book#](https://parg.co/UVQ):Our goal is to give readers a set of design rules and mental models that make it easier and more fun to build correct, performant concurrent classes and applications in Java.
 
-* [2012-Java 并发编程实战 #Book#](http://book.51cto.com/art/201203/323171.htm): 本书深入浅出地介绍了 Java 线程和并发，是一本完美的 Java 并发参考手册。
+- [2012-Java 并发编程实战 #Book#](http://book.51cto.com/art/201203/323171.htm): 本书深入浅出地介绍了 Java 线程和并发，是一本完美的 Java 并发参考手册。
 
 - [JVM 内幕：Java 虚拟机详解 #Book#](www.importnew.com/17770.html?utm_source=tuicool&utm_medium=referral)
 
-* [2015-Pro Java 8 Programming-3rd #Book#](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
+- [2015-Pro Java 8 Programming-3rd #Book#](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
 
-* [2017-Think Java #Book#](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
+- [2017-Think Java #Book#](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
 
 - [2017-Introduction To Programming In Java #Book#](http://introcs.cs.princeton.edu/java/home/): Princeton 出品的 Java 入门书籍
 
-* [2016-Think-in-Java #Book#](https://parg.co/b7t): Thinking In Java should be read cover to cover by every Java programmer, then kept close at hand for frequent reference. The exercises are challenging, and the chapter on Collections is superb!
+- [2016-Think-in-Java #Book#](https://parg.co/b7t): Thinking In Java should be read cover to cover by every Java programmer, then kept close at hand for frequent reference. The exercises are challenging, and the chapter on Collections is superb!
 
-* [2014-Java 问题定位技术 #Book#](http://download.csdn.net/download/dhf880913/9337919)
+- [2014-Java 问题定位技术 #Book#](http://download.csdn.net/download/dhf880913/9337919)
 
 - [2015-The CERT ® Oracle ® Secure Coding Standard for Java #Book#](https://ptgmedia.pearsoncmg.com/images/9780321803955/samplepages/0321803957.pdf)
 
@@ -100,7 +100,7 @@
 
 - [来自 GeniusVJR 的学习笔记](https://github.com/GeniusVJR/LearningNotes)
 
-* [Java Specialists](https://www.javaspecialists.eu/): From expert level specialists articles, to inhouse concurrency courses to emergency consulting.
+- [Java Specialists](https://www.javaspecialists.eu/): From expert level specialists articles, to inhouse concurrency courses to emergency consulting.
 
 ## Online Playground | 在线实践
 

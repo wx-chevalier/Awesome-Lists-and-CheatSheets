@@ -46,7 +46,7 @@
 
 - [gojay #Project#](https://github.com/francoispqt/gojay): Highly performant JSON encoder/decoder with powerful stream API for Golang.
 
-* [2018-jstream #Project#](https://github.com/bcicen/jstream): jstream is a streaming JSON parser and value extraction library for Go.
+- [2018-jstream #Project#](https://github.com/bcicen/jstream): jstream is a streaming JSON parser and value extraction library for Go.
 
 # Network
 
@@ -80,7 +80,7 @@
 
 - [Gin #Project#](https://github.com/gin-gonic/gin): Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 
-* [HttpRouter #Project#](https://github.com/julienschmidt/httprouter): A high performance HTTP request router that scales well.
+- [HttpRouter #Project#](https://github.com/julienschmidt/httprouter): A high performance HTTP request router that scales well.
 
 - [Nirvana #Project#](https://github.com/caicloud/nirvana): Golang Restful API Framework for Productivity. [才云正式开源其 Golang API 框架 Nirvana](https://mp.weixin.qq.com/s/NWGsPhVXuOW2t8cukP3TJQ)
 

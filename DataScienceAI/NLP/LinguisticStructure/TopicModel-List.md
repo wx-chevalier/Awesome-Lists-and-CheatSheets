@@ -13,17 +13,17 @@
 
 # LDA
 
-* [LDA 算法理解](http://6me.us/idj2)
+- [LDA 算法理解](http://6me.us/idj2)
 
-* [Notes Nonparametric Bayesian Methods and Dirichlet Processes](https://github.com/tdhopper/notes-on-dirichlet-processes): [Nonparametric Latent Dirichlet Allocation](https://parg.co/bsl)
+- [Notes Nonparametric Bayesian Methods and Dirichlet Processes](https://github.com/tdhopper/notes-on-dirichlet-processes): [Nonparametric Latent Dirichlet Allocation](https://parg.co/bsl)
 
-* [Nonparametric Latent Dirichlet Allocation](https://parg.co/bsl)
+- [Nonparametric Latent Dirichlet Allocation](https://parg.co/bsl)
 
 # Lda2Vec
 
-* [A tale about LDA2vec: when LDA meets word2vec](http://www.datasciencecentral.com/profiles/blogs/a-tale-about-lda2vec-when-lda-meets-word2vec?xg_source=activity)
+- [A tale about LDA2vec: when LDA meets word2vec](http://www.datasciencecentral.com/profiles/blogs/a-tale-about-lda2vec-when-lda-meets-word2vec?xg_source=activity)
 
-* [word2vec, LDA, and introducing a new hybrid algorithm: lda2vec](http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994)
+- [word2vec, LDA, and introducing a new hybrid algorithm: lda2vec](http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994)
 
 
 # Topic Model Evaluation

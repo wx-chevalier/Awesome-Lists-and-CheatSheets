@@ -22,9 +22,9 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [2017-Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet): This document is a cheatsheet for JavaScript you will frequently encounter in modern projects and most contemporary sample code.
 
-* [2017-The Definitive JavaScript Handbook for a developer interview ](https://parg.co/UZS)
+- [2017-The Definitive JavaScript Handbook for a developer interview ](https://parg.co/UZS)
 
-* [2017-30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code): Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
+- [2017-30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code): Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
 
 # Resource | 资料集锦
 
@@ -34,7 +34,7 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [JavaScript-Garden](http://bonsaiden.github.io/JavaScript-Garden/): JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes and subtle bugs, as well as performance issues and bad practices, that non-expert JavaScript programmers may encounter on their endeavours into the depths of the language.
 
-* [2017-Must-Watch JavaScript #Project#](https://parg.co/U37): This is a collection of well-received talks about JavaScript, covering topics such as ES6, JavaScript frameworks, client-side apps, mobile integration, JavaScript performance, tooling, leveling up, and more.
+- [2017-Must-Watch JavaScript #Project#](https://parg.co/U37): This is a collection of well-received talks about JavaScript, covering topics such as ES6, JavaScript frameworks, client-side apps, mobile integration, JavaScript performance, tooling, leveling up, and more.
 
 ## Book
 
@@ -48,9 +48,9 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [2017-The JavaScript Wa #Book#](https://github.com/bpesquet/thejsway): A modern introduction to an essential language.
 
-* [Modern JavaScript Tutorial #Book#](https://github.com/iliakan/javascript-tutorial-en): How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+- [Modern JavaScript Tutorial #Book#](https://github.com/iliakan/javascript-tutorial-en): How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 
-* [JavaScript. The Core: 2nd Edition #Book#](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/#class): This is the second edition of the JavaScript. The Core overview lecture, devoted to ECMAScript programming language and core components of its runtime system.
+- [JavaScript. The Core: 2nd Edition #Book#](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/#class): This is the second edition of the JavaScript. The Core overview lecture, devoted to ECMAScript programming language and core components of its runtime system.
 
 - [Exploring ES2018 and ES2019 #Book#](http://exploringjs.com/es2018-es2019/toc.html): This book is about two versions of JavaScript: ECMAScript 2018 and ECMAScript 2019.
 
@@ -80,15 +80,15 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [2017-To type or not to type: quantifying detectable bugs in JavaScript](https://parg.co/bwX)
 
-* [2017-Javascript closures explained in depth](https://weeklywebwisdom.com/2017/09/24/javascript-closures-explained-in-depth/)
+- [2017-Javascript closures explained in depth](https://weeklywebwisdom.com/2017/09/24/javascript-closures-explained-in-depth/)
 
 - [6 Simple Tips on How to Start Writing Clean Code](https://parg.co/UlR)
 
-* [2015-ES6 Promises](http://www.datchley.name/es6-promises/): there is a better pattern using Promises, which give us much more than just an escape from callback hell.
+- [2015-ES6 Promises](http://www.datchley.name/es6-promises/): there is a better pattern using Promises, which give us much more than just an escape from callback hell.
 
-* [2017-How to write clean code for cascaded promises](https://hackernoon.com/how-to-write-clean-code-for-cascaded-promises-809de5b950fd): An in-depth guide about working with Interdependent Promises
+- [2017-How to write clean code for cascaded promises](https://hackernoon.com/how-to-write-clean-code-for-cascaded-promises-809de5b950fd): An in-depth guide about working with Interdependent Promises
 
-* [2017-Promise error handling in-depth](https://codeburst.io/promise-error-handling-in-depth-90b0965149c0): This blog is written in Q and A form and targeting those who are looking for the answers.
+- [2017-Promise error handling in-depth](https://codeburst.io/promise-error-handling-in-depth-90b0965149c0): This blog is written in Q and A form and targeting those who are looking for the answers.
 
 - [2017-js-bits](https://github.com/vasanthk/js-bits): JavaScript concepts explained with code.
 

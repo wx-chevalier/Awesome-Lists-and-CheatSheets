@@ -6,6 +6,6 @@
 
 - [Profile-based optimization techniques in the JVM](https://t.co/KYKrcM1ycW)
 
-* [Java On Steroids 5 Super Useful JIT Optimization Techniques](http://blog.takipi.com/java-on-steroids-5-super-useful-jit-optimization-techniques/)
+- [Java On Steroids 5 Super Useful JIT Optimization Techniques](http://blog.takipi.com/java-on-steroids-5-super-useful-jit-optimization-techniques/)
 
-* [2017-Understanding How Graal Works - a Java JIT Compiler Written in Java](http://chrisseaton.com/rubytruffle/jokerconf17/): I’ll talk about just a little bit of the theory but then I’ll show you how this is applied to compile a method all the way from the bytecode to the machine code.
+- [2017-Understanding How Graal Works - a Java JIT Compiler Written in Java](http://chrisseaton.com/rubytruffle/jokerconf17/): I’ll talk about just a little bit of the theory but then I’ll show you how this is applied to compile a method all the way from the bytecode to the machine code.

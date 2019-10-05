@@ -4,7 +4,7 @@
 
 - [2012-数据可视化之美](http://www.ituring.com.cn/article/9967): 在网上看到一篇关于数据可视化的文章，很大的视觉冲击，数据可视化是那么的妙不可言，因为图片非常多，所以花了些时间，希望对大家有所帮助。摘录下来，供大家鉴赏。
 
-* [2017-数据可视化基础——可视化流程](http://geekplux.com/2017/01/01/basics-of-data-visualization-the-process-model.html)
+- [2017-数据可视化基础——可视化流程](http://geekplux.com/2017/01/01/basics-of-data-visualization-the-process-model.html)
 
 - [2017-文本数据可视化——一图胜千言](http://geekplux.com/2017/06/26/text-data-visualization.html)：本文将简单介绍文本可视化的基础概念，然后重点通过各类文本可视化的案例来阐述可视化之美。
 

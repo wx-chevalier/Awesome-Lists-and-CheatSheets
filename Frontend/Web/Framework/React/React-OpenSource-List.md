@@ -30,9 +30,9 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 - [svgr #Project#](https://github.com/smooth-code/svgr): Transform SVG into React components
 
-* [2017-React Loadable #Project#](https://github.com/thejameskyle/react-loadable): A higher order component for loading components with promises.
+- [2017-React Loadable #Project#](https://github.com/thejameskyle/react-loadable): A higher order component for loading components with promises.
 
-* [hocs #Project#](https://github.com/deepsweet/hocs): A collection of Higher-Order Components for React and React Native.
+- [hocs #Project#](https://github.com/deepsweet/hocs): A collection of Higher-Order Components for React and React Native.
 
 ## Animation
 
@@ -42,7 +42,7 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 - [react-flight #Project# ](https://github.com/jondot/react-flight): The best way to build animation compositions for React. Design and compose a component to start with, a component to end with, and Flight will take it from there.
 
-* [React Reveal #Project#](https://github.com/rnosov/react-reveal): Easily add reveal on scroll animations to your React app.
+- [React Reveal #Project#](https://github.com/rnosov/react-reveal): Easily add reveal on scroll animations to your React app.
 
 ## CSS-in-JS
 

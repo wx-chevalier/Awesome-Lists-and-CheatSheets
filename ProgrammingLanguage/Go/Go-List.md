@@ -14,7 +14,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2018-Go: the Good, the Bad and the Ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/#go-is-easy-to-learn): Go does have some nice features, hence the "The Good" part in this post, but overall I find it cumbersome and painful to use when we go beyond API or network server.
 
-* [2018-Go 语言发展史及史上最全 Go 语言知识图谱！](https://zhuanlan.zhihu.com/p/34263871): 今天和大家一起聊聊 Go 的发展历史，同时发布我们 Gopher China 整理的 Go 知识图谱。
+- [2018-Go 语言发展史及史上最全 Go 语言知识图谱！](https://zhuanlan.zhihu.com/p/34263871): 今天和大家一起聊聊 Go 的发展历史，同时发布我们 Gopher China 整理的 Go 知识图谱。
 
 - [2018-Proposal: Go 2 transition](https://github.com/golang/proposal/blob/master/design/28221-go2-transitions.md): A proposal for how to make incompatible changes from Go 1 to Go 2 while breaking as little as possible.
 
@@ -52,7 +52,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2018-go-internals #Book#](https://github.com/teh-cmc/go-internals): go-internals is a work-in-progress book about the internals of the Go (1.10+) programming language.
 
-* [2018-Go 语言高级编程 #Project#](https://github.com/chai2010/advanced-go-programming-book): 开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题。
+- [2018-Go 语言高级编程 #Project#](https://github.com/chai2010/advanced-go-programming-book): 开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题。
 
 - [2018-Go 语言四十二章经 #Book#](https://www.jianshu.com/nb/29056963): 这本书适合 Go 语言新手来细细阅读，对于有一定经验的开发人员，也可以根据自己的情况，选择一些章节来看。最后，希望更多的人了解和使用 Go 语言，也希望阅读本书的朋友们多多交流。
 
@@ -66,7 +66,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [Awesome Go #Project#](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software.
 
-* [2017-Golang Guide: A List of Top Golang Frameworks, IDEs & Tools](https://parg.co/oGO)
+- [2017-Golang Guide: A List of Top Golang Frameworks, IDEs & Tools](https://parg.co/oGO)
 
 ## Series
 
@@ -74,7 +74,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2017-A tour of Go #Project#](https://tour.golang.org/welcome/1): The tour is divided into a list of modules and interactive, These example programs demonstrate different aspects of Go. The programs in the tour are meant to be starting points for your own experimentation.
 
-* [2017-Golang tutorial series by GolangBot.com](https://golangbot.com/learn-golang-series/)
+- [2017-Golang tutorial series by GolangBot.com](https://golangbot.com/learn-golang-series/)
 
 ## Course
 
@@ -84,7 +84,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2014-Go Start](https://github.com/alco/gostart):A getting started guide for Go newcomers
 
-* [2017-Go Tooling in Action](https://github.com/campoy/go-tooling-workshop): A workshop covering all the tools gophers use in their day to day life.
+- [2017-Go Tooling in Action](https://github.com/campoy/go-tooling-workshop): A workshop covering all the tools gophers use in their day to day life.
 
 - [2017-Golang command tutorial in Chinese.](https://github.com/hyper0x/go_command_tutorial)
 
@@ -92,6 +92,6 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2018-How to Build a Search Service with Go and Elasticsearch](https://outcrawl.com/go-elastic-search-service/): This article shows how to build a simple search service in Go using Elasticsearch.
 
-* [2018-How to start a Go project in 2018](https://boyter.org/posts/how-to-start-go-project-2018/): Getting started with a Go project in 2018 is frankly a little more painful then getting anything else started IMHO.
+- [2018-How to start a Go project in 2018](https://boyter.org/posts/how-to-start-go-project-2018/): Getting started with a Go project in 2018 is frankly a little more painful then getting anything else started IMHO.
 
-* [2017-The ultimate guide to writing a Go tool · Fatih Arslan](https://arslan.io/2017/09/14/the-ultimate-guide-to-writing-a-go-tool/)
+- [2017-The ultimate guide to writing a Go tool · Fatih Arslan](https://arslan.io/2017/09/14/the-ultimate-guide-to-writing-a-go-tool/)

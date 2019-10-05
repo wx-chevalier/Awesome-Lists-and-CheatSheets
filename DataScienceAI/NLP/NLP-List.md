@@ -16,7 +16,7 @@
 
 - [2017-Learning AI if You Suck at Math — P7 — The Magic of Natural Language Processing](https://parg.co/bR4)
 
-* [2018-2018 自然语言处理研究报告](https://mp.weixin.qq.com/s/Hz2_xAyToCEXf2scl7me8Q): 该报告从 NLP 的概念介绍、研究与应用情况、专家学者概要以及发展趋势这 5 个方向纵览了这一领域的当下与未来。
+- [2018-2018 自然语言处理研究报告](https://mp.weixin.qq.com/s/Hz2_xAyToCEXf2scl7me8Q): 该报告从 NLP 的概念介绍、研究与应用情况、专家学者概要以及发展趋势这 5 个方向纵览了这一领域的当下与未来。
 
 ## DeepLearning
 

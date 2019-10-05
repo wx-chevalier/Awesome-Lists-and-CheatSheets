@@ -6,7 +6,7 @@
 
 - [白话解释机器学习基本概念](https://zhuanlan.zhihu.com/p/24346657)
 
-* [2017-机器学习理论篇 1：机器学习的数学基础](https://zhuanlan.zhihu.com/p/25197792)：机器学习的特点就是：以计算机为工具和平台，以数据为研究对象，以学习方法为中心；是概率论、线性代数、数值计算、信息论、最优化理论和计算机科学等多个领域的交叉学科。所以本文就先介绍一下机器学习涉及到的一些最常用的的数学知识。
+- [2017-机器学习理论篇 1：机器学习的数学基础](https://zhuanlan.zhihu.com/p/25197792)：机器学习的特点就是：以计算机为工具和平台，以数据为研究对象，以学习方法为中心；是概率论、线性代数、数值计算、信息论、最优化理论和计算机科学等多个领域的交叉学科。所以本文就先介绍一下机器学习涉及到的一些最常用的的数学知识。
 
 - [Visual Intro To Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/): 图解如何基于决策树对于纽约与 San Francisco 的房产进行分类
 
@@ -46,12 +46,12 @@
 
 - [Fundamental Tools for Machine Learning](https://toolsformachinelearning.blogspot.hk/2017/02/introduction-machine-learning-is.html)
 
-* [MLAlgorithms](https://github.com/rushter/MLAlgorithms):Minimal and clean examples of machine learning algorithms
+- [MLAlgorithms](https://github.com/rushter/MLAlgorithms):Minimal and clean examples of machine learning algorithms
 
-* [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks): 一系列基于 IPython 的数据科学代码展示
+- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks): 一系列基于 IPython 的数据科学代码展示
 
 - [The Open Source Data Science Masters](https://github.com/datasciencemasters/go)
 
 - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Machine Learning models and algorithms.
 
-* [机器学习算法比较](http://www.csuldw.com/2016/02/26/2016-02-26-choosing-a-machine-learning-classifier/)
+- [机器学习算法比较](http://www.csuldw.com/2016/02/26/2016-02-26-choosing-a-machine-learning-classifier/)

@@ -4,7 +4,7 @@
 
 - [12-factors](http://12factor.net/zh_cn/)
 
-* [针对架构设计的几个痛点，我总结出的架构原则和模式](http://www.infoq.com/cn/articles/several-pain-points-architecture-design)
+- [针对架构设计的几个痛点，我总结出的架构原则和模式](http://www.infoq.com/cn/articles/several-pain-points-architecture-design)
 
 ## Over-Engineering | 过度设计
 

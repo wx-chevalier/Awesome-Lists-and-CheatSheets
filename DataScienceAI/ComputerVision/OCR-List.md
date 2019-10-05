@@ -8,11 +8,11 @@
 
 - [The Best Online OCR Software for Converting Images to Text](http://blog.a9t9.com/2015/02/ocr-online-converter-review.html)
 
-* [NewOCR](https://www.newocr.com/)
+- [NewOCR](https://www.newocr.com/)
 
-* [OnlineOCR](http://www.onlineocr.net/)
+- [OnlineOCR](http://www.onlineocr.net/)
 
-* [Ocrad](http://www.gnu.org/software/ocrad/): is an OCR (Optical Character Recognition) program based on a feature extraction method. It reads images in pbm (bitmap), pgm (greyscale) or ppm (color) formats and produces text in byte (8-bit) or UTF-8 formats.
+- [Ocrad](http://www.gnu.org/software/ocrad/): is an OCR (Optical Character Recognition) program based on a feature extraction method. It reads images in pbm (bitmap), pgm (greyscale) or ppm (color) formats and produces text in byte (8-bit) or UTF-8 formats.
 
 # Overview
 

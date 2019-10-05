@@ -8,15 +8,15 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2017-Deep drive into rust programming language](https://parg.co/UP1)
 
-* [2018-Why is Rust difficult?](https://vorner.github.io/difficult.html): Rust is considered difficult to learn by many people but I don’t consider it necessarily a bad thing for a language to be hard to learn.
+- [2018-Why is Rust difficult?](https://vorner.github.io/difficult.html): Rust is considered difficult to learn by many people but I don’t consider it necessarily a bad thing for a language to be hard to learn.
 
 - [如何看待 Rust 的应用前景](http://www.zhihu.com/question/30407715)
 
-* [Evaluation of performance and productivity metrics of potential programming languages in the HPC environment](http://octarineparrot.com/assets/mrfloya-thesis-ba.pdf)
+- [Evaluation of performance and productivity metrics of potential programming languages in the HPC environment](http://octarineparrot.com/assets/mrfloya-thesis-ba.pdf)
 
 - [why-rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-* [Golang vs Rust vs Dlang 那个更有前途](http://www.zhihu.com/question/27226962)
+- [Golang vs Rust vs Dlang 那个更有前途](http://www.zhihu.com/question/27226962)
 
 - [rustlings](https://github.com/carols10cents/rustlings)
 
@@ -26,7 +26,7 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [Why Rust is the future of robotics](https://parg.co/UVu): We believe Rust is the future of robotics because it enables developers to be fearless, to create and enforce standards, and to build and rely on a strong community.
 
-* [2018-Rust in production at Figma](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929): How Mozilla’s new language dramatically improved our server-side performance.
+- [2018-Rust in production at Figma](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929): How Mozilla’s new language dramatically improved our server-side performance.
 
 - [2018-Rust in Cloudflare](https://parg.co/YA1)
 
@@ -38,9 +38,9 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [The Rust Programming Language #Book#](https://doc.rust-lang.org/book/first-edition/README.html): This book will teach you about the Rust Programming Language. Rust is a systems programming language focused on three goals: safety, speed, and concurrency.
 
-* [Rust Books #Project#](https://github.com/sger/RustBooks): 一系列对于 Rust 书籍的搜集
+- [Rust Books #Project#](https://github.com/sger/RustBooks): 一系列对于 Rust 书籍的搜集
 
-* [Rust Primer #Book#](https://github.com/rustcc/RustPrimer): 中国人写的 Rust 编程书籍
+- [Rust Primer #Book#](https://github.com/rustcc/RustPrimer): 中国人写的 Rust 编程书籍
 
 - [Rust by Example #Book#](https://rustbyexample.com/): Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
 
@@ -48,7 +48,7 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2017-Rust Essentials-Second Edition #Book#](https://parg.co/UPI): Leverage the functional programming and concurrency features of Rust and speed up your application development.
 
-* [2016-Algorithm Cookbook in Rust #Book#](https://github.com/EbTech/rust-algorithms): A collection of classic data structures and algorithms, emphasizing beauty and clarity over full generality.
+- [2016-Algorithm Cookbook in Rust #Book#](https://github.com/EbTech/rust-algorithms): A collection of classic data structures and algorithms, emphasizing beauty and clarity over full generality.
 
 - [2016-Rust-101](https://www.ralfj.de/projects/rust-101/main.html): This is Rust-101, a small tutorial for the Rust language. It is intended to be an interactive, hands-on course: I believe the only way to really learn a language is to write code in it, so you should be coding during the course.
 
