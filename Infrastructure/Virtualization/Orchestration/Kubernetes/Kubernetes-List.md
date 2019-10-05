@@ -4,17 +4,13 @@
 
 # Overview
 
-- [2015-十分钟带你理解 Kubernetes 核心概念](http://www.dockone.io/article/932)
-
 - [2018-The Kubernetes Effect](https://www.infoq.com/articles/kubernetes-effect): The way we should look at Kubernetes is more like a fundamental paradigm that has implications in multiple dimensions, rather than an API to interact with.
 
 * [2017-Kubernetes vs Docker Swarm](https://platform9.com/blog/kubernetes-docker-swarm-compared/): We’ll walk you through high-level discussions of Kubernetes and Docker Swarm, and then compare them head-to-head.
 
-- [2017-Learning to operate Kubernetes reliably](https://stripe.com/blog/operating-kubernetes): In this post, we’ll explain why we chose to build on top of Kubernetes. We’ll examine how we integrated Kubernetes into our existing infrastructure, our approach to building confidence in (and improving) our Kubernetes’ cluster’s reliability, and the abstractions we’ve built on top of Kubernetes.
-
-- [2018-Top 10 Kubernetes tips and tricks](https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222?source=linkShare-fe48c4221a4c-1516862034)
-
 - [2018-Why Kubernetes is The New Application Server](https://hn.premii.com/#/article/17516706): In this article, I’m going to ask some provocative questions to make my case for Why Kubernetes is the new application server.
+
+- [2019-Kubernetes 101 Concepts and Why It Matters](https://www.magalix.com/blog/kubernetes-101-concepts-and-why-it-matters): A 10k feet overview of Kubernetes Concepts and Architecture. If you are into the DevOps or the IT field in general, you surely heard the term Kubernetes. In this article, we explore Kubernetes from a 10,000 ft. We’ll also shed light on some of its most important use cases and best practices.
 
 ## Case Study
 
@@ -58,6 +54,14 @@
 
 - [Kubernetes 101 & 201 #Series#](https://kubernetes.io/docs/tutorials/k8s101/): For Kubernetes 101, we will cover kubectl, Pods, Volumes, and multiple containers. For Kubernetes 201, we will pick up where 101 left off and cover some slightly more advanced topics in Kubernetes, related to application productionization, Deployment and scaling.
 
+- [2015-十分钟带你理解 Kubernetes 核心概念](http://www.dockone.io/article/932)
+
 - [Play with Kubernetes](https://labs.play-with-k8s.com/): Play with Kubernetes is a labs site provided by Docker and created by Tutorius. Play with Kubernetes is a playground which allows users to run K8s clusters in a matter of seconds.
 
 - [Kubernetes Tutorial](https://www.tutorialspoint.com/kubernetes/index.htm): This tutorial has been prepared for those who want to understand the containerized infrastructure and deployment of application on containers. This tutorial will help in understanding the concepts of container management using Kubernetes.
+
+# Engineering Practices
+
+- [2017-Learning to operate Kubernetes reliably](https://stripe.com/blog/operating-kubernetes): In this post, we’ll explain why we chose to build on top of Kubernetes. We’ll examine how we integrated Kubernetes into our existing infrastructure, our approach to building confidence in (and improving) our Kubernetes’ cluster’s reliability, and the abstractions we’ve built on top of Kubernetes.
+
+- [2018-Top 10 Kubernetes tips and tricks](https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222?source=linkShare-fe48c4221a4c-1516862034)

@@ -83,5 +83,3 @@
 ## Loading: 加载案例
 
 - [Secret View preloader animation](https://codepen.io/anon/pen/wrVygR)
-
-- [lottie-web #Project#](https://github.com/airbnb/lottie-web): Render After Effects animations natively on Web, Android and iOS, and React Native.

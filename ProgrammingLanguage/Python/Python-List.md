@@ -38,6 +38,8 @@
 
 - [2019-Python 100 天从新手到大师 #Series#](https://github.com/jackfrued/Python-100-Days)
 
+- [2019-Halterman-Fundamentals of Python Programming](https://python.cs.southern.edu/pythonbook/pythonbook.pdf): Fundamentals of Python Programming.
+
 ## Course
 
 - [c9-python-getting-started #Course#](https://github.com/microsoft/c9-python-getting-started): The series of videos on Channel 9 is designed to help get you up to speed on Python.

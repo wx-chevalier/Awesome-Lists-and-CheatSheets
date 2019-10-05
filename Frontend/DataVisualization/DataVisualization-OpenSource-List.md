@@ -70,6 +70,8 @@
 
 - [bezierjs #Project#](https://github.com/Pomax/bezierjs): A node.js and client-side library for (quadratic and cubic) Bezier curve work.
 
+- [lottie-web #Project#](https://github.com/airbnb/lottie-web): Render After Effects animations natively on Web, Android and iOS, and React Native. [React animated icons](https://github.com/useAnimations/react-useanimations),
+
 ## Plstopfic
 
 - [Turn.js #Project#](http://www.turnjs.com/#samples/magazine2/9): Turn.js is a JavaScript library that will make your content look like a real book or magazine using all the advantages of HTML5.
@@ -98,7 +100,7 @@
 
 * [Reacharts #Project#](http://recharts.org/): Redefined chart library built with React
 
-* [Frappé Charts #Project#](https://github.com/frappe/charts): 
+* [Frappé Charts #Project#](https://github.com/frappe/charts):
 
 * [mxGraph #Project#](https://jgraph.github.io/mxgraph/): mxGraph is a JavaScript diagramming library that enables interactive graph and charting applications to be quickly created that run natively in any major browser that is supported by its vendor.
 
@@ -150,7 +152,7 @@
 
 - [2018-deck.gl #Project#](http://deck.gl/#/): deck.gl is a WebGL-powered framework for visual exploratory data analysis of large datasets.
 
-# Image 
+# Image
 
 - [bild #Project#](https://github.com/anthonynsimon/bild): A collection of parallel image processing algorithms in pure Go.
 
