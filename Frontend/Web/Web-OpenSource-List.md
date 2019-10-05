@@ -190,6 +190,14 @@
 
 - [headless-devtools #Project#](https://github.com/cowchimp/headless-devtools): Lets you perform Chrome DevTools actions from code by leveraging Headless Chrome+Puppeteer.
 
+# Architecture 
+
+- [single-spa #Project#](https://single-spa.js.org/docs/getting-started-overview.html): Build micro frontends that coexist and can each be written with their own framework.
+
+- [2018-Micro Frontends](https://micro-frontends.org/): Techniques, strategies and recipes for building a modern web app with multiple teams using different JavaScript frameworks.
+
+- [Mooa #Project#](https://github.com/phodal/mooa): Mooa 是一个为 Angular 服务的微前端框架 ，[前端微服务化：使用微前端框架 Mooa 开发微前端应用](https://parg.co/o3F)。
+
 # WebAssembly
 
 - [AssemblyScript #Project#](https://github.com/AssemblyScript/prototype): AssemblyScript defines a subset of TypeScript that it compiles to WebAssembly.

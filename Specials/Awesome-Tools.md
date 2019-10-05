@@ -82,6 +82,8 @@
 
 * [insomnia #Project#](https://github.com/getinsomnia/insomnia): The most intuitive cross-platform REST API Client.
 
+- [monolith #Project#](https://github.com/Y2Z/monolith): ⬛️ CLI tool for saving complete web pages as a single HTML file
+
 ### Proxy
 
 - [Charles #Project#](https://www.charlesproxy.com/): Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
