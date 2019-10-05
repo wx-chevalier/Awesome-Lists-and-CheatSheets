@@ -6,15 +6,11 @@
 
 - [2017-TensorFlow demystified](https://chatbotslife.com/tensorflow-demystified-80987184faf7): To understand a new framework, Google’s TensorFlow is a framework for machine-learning calculations, it is often useful to see a ‘toy’ example and learn from it.
 
-* [如何将 TensorFlow 用作计算框架](https://zhuanlan.zhihu.com/p/30719727): 如果你刚刚接触 TensorFlow 并想使用其来作为计算框架，那么本文是你的一个很好的选择，阅读它相信会对你有所帮助。
-
-- [2017-We Need to Go Deeper: A Practical Guide to TensorFlow and Inception](https://parg.co/YqN)
-
 * [2017-TensorFlow 代码解析](https://zhuanlan.zhihu.com/p/25646408)：本文由浅入深的阐述 Tensor 和 Flow 的概念。先介绍了 TensorFlow 的核心概念和基本概述，然后剖析了 OpKernels 模块、Graph 模块、Session 模块。
 
 * [2017-TensorFlow 入门级解读：矩阵、多特征线性和逻辑回归](https://zhuanlan.zhihu.com/p/25352208)：本文是日本东京 TensorFlow 聚会联合组织者 Hin Khor 所写的 TensorFlow 系列介绍文章。
 
-- [2018-Tensorflow: The Confusing Parts #Series#](http://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/): This tutorial is intended for people who already have some experience with both programming and machine learning, and want to pick up Tensorflow.
+- [2019-一文看尽 TensorFlow“奋斗史”！](https://mp.weixin.qq.com/s/iQ8azTcyW4oJLSacJ84w-g): TensorFlow 的“奋斗史”包括三个章节：锋芒初露（0.1），中原逐鹿（1.0），王者归来（2.0）。
 
 ## Case Study | 案例分析
 
@@ -49,6 +45,12 @@
 - [TensorFlow-World-Resources #Collection#](https://github.com/astorfi/TensorFlow-World-Resources): Organized & Useful Resources about Deep Learning with TensorFlow
 
 # Tutorial | 教程
+
+- [如何将 TensorFlow 用作计算框架](https://zhuanlan.zhihu.com/p/30719727): 如果你刚刚接触 TensorFlow 并想使用其来作为计算框架，那么本文是你的一个很好的选择，阅读它相信会对你有所帮助。
+
+- [2017-We Need to Go Deeper: A Practical Guide to TensorFlow and Inception](https://parg.co/YqN)
+
+- [2018-Tensorflow: The Confusing Parts #Series#](http://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/): This tutorial is intended for people who already have some experience with both programming and machine learning, and want to pick up Tensorflow.
 
 ## Concepts | 概念
 
