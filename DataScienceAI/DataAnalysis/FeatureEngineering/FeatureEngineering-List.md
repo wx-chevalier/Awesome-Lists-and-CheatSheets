@@ -24,7 +24,7 @@
 
 - [降维算法总结比较](https://zhuanlan.zhihu.com/p/25095926)
 
-- [2018-漫谈概率 PCA 和变分自编码器](https://mp.weixin.qq.com/s/iOdh1iIP0GIYe4gRDE0z-g): 本文的主要目的就是整理一下 PCA、概率 PCA、AutoEncoders、变分 AutoEncoders 这四者的关系。 
+- [2018-漫谈概率 PCA 和变分自编码器](https://mp.weixin.qq.com/s/iOdh1iIP0GIYe4gRDE0z-g): 本文的主要目的就是整理一下 PCA、概率 PCA、AutoEncoders、变分 AutoEncoders 这四者的关系。
 
 # Feature Extraction
 

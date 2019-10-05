@@ -7,7 +7,7 @@
 - [2019-Deep Learning Models](https://github.com/rasbt/deeplearning-models): 
 A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
 
-- [PyTorch Hub](https://pytorch.org/hub): PyTorch Hub 包含一个经过预训练的模型库，专门用于促进研究的可重复性和快速开展新的研究。PyTorch Hub 内置了对 Colab的 支持，并且能够与 Papers With Code 集成。目前 PyTorch Hub 已包含一系列广泛的模型，包括分类器和分割器、生成器、变换器等。 
+- [PyTorch Hub](https://pytorch.org/hub): PyTorch Hub 包含一个经过预训练的模型库，专门用于促进研究的可重复性和快速开展新的研究。PyTorch Hub 内置了对 Colab的 支持，并且能够与 Papers With Code 集成。目前 PyTorch Hub 已包含一系列广泛的模型，包括分类器和分割器、生成器、变换器等。
 
 - [Papers with Code](https://paperswithcode.com)
 
