@@ -16,14 +16,10 @@
 
 - Phodal 系列文章：[实施微前端的六种方式（上）：三种借助路由微服务化前端应用](https://www.phodal.com/blog/implement-microfrontend-apply-route-change/), [实施微前端的六种方式（下）：更好的三种实现方式](https://parg.co/o3W), [前端微服务化方案对比：路由懒加载 vs 子应用模式](https://parg.co/o3g)
 
-- [Mooa #Project#](https://github.com/phodal/mooa): Mooa 是一个为 Angular 服务的微前端框架 ，[前端微服务化：使用微前端框架 Mooa 开发微前端应用](https://parg.co/o3F)。
-
-- [2018-Micro Frontends](https://micro-frontends.org/): Techniques, strategies and recipes for building a modern web app with multiple teams using different JavaScript frameworks.
-
-- [single-spa #Project#](https://single-spa.js.org/docs/getting-started-overview.html): Build micro frontends that coexist and can each be written with their own framework.
-
 - [2019-大前端时代下的微前端架构：实现增量升级、代码解耦、独立部署](https://mp.weixin.qq.com/s/DVkrV_KKE9KaGSeUSenc6w): 本文将介绍前端领域最近的一项变革：单体前端架构正在过渡到许多较小、较易管理的前端架构。
+
+- [2019-Micro Frontends](https://martinfowler.com/articles/micro-frontends.html): In this article we'll describe a recent trend of breaking up frontend monoliths into many smaller, more manageable pieces, and how this architecture can increase the effectiveness and efficiency of teams working on frontend code.
 
 # Large-scale Applications
 
-
+- [2019-How to build a plugin system on the web and also sleep well at night](https://www.figma.com/blog/how-we-built-the-figma-plugin-system/): Since we published this blog post, we decided to change our sandbox implementation to an alternative approach: compiling a JavaScript VM written in C to WebAssembly. As you'll see in the blog post below, it was one of several ideas we originally weighed.
