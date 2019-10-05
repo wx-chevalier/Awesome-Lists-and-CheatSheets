@@ -22,4 +22,4 @@
 
 # Large-scale Applications
 
-
+- [2019-How to build a plugin system on the web and also sleep well at night](https://www.figma.com/blog/how-we-built-the-figma-plugin-system/): Since we published this blog post, we decided to change our sandbox implementation to an alternative approach: compiling a JavaScript VM written in C to WebAssembly. As you'll see in the blog post below, it was one of several ideas we originally weighed.
