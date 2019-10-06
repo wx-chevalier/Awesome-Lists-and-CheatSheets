@@ -78,6 +78,8 @@
 
 - [gensim #Project#](https://radimrehurek.com/gensim/): topic modelling for humans
 
+- [2019-GPT2 Chinese #Project#](https://github.com/Morizeyao/GPT2-Chinese): Chinese version of GPT2 training code, using BERT or BPE tokenizer.
+
 ## Knowledge Graph | 知识图谱
 
 - [2018-OpenKE #Project#](https://github.com/thunlp/OpenKE): An Open-Source Package for Knowledge Embedding (KE).
