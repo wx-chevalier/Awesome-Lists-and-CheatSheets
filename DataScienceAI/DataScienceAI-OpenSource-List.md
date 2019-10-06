@@ -26,6 +26,8 @@
 
 - [wandb #Project#](https://docs.wandb.com/docs/started.html): Our tool wandb helps you track and visualize machine learning experiments.
 
+- [Streamlit #Project#](https://github.com/streamlit/streamlit): Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts.
+
 # Data Analysis 
 
 ## Feature Engineering
