@@ -22,7 +22,7 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 # Development Libraries
 
-- [React Canvas #Project#](https://github.com/Flipboard/react-canvas): High performance <canvas> rendering for React components.
+- [React Canvas #Project#](https://github.com/Flipboard/react-canvas): High performance `<canvas>` rendering for React components.
 
 ## Component Utilities
 

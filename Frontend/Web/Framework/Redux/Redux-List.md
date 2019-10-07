@@ -28,15 +28,15 @@ This file aggregates curated popular links for learning Redux. More reference ab
 
 - [2018-Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38): Shouldn’t state management be a solved problem by now? Intuitively, developers seem to know a hidden truth: state management seems harder than it needs to be.
 
+## Case Study | 案例分析
+
+- [Dissecting Twitter’s Redux Store](https://medium.com/statuscode/dissecting-twitters-redux-store-d7280b62c6b1#.wu5trgupx):
+
 # Resources
 
 ## Book
 
 - [2016-Developing a Redux Edge #Book#](https://parg.co/b4L): This book is for anyone wanting to learn about Redux, a predictable state container for JavaScript apps. It is aimed at intermediate developers who have a good understanding of creating single page applications with JavaScript. Having an understanding of ES6, functional programming, and React will certainly help too, but isn’t necessary. If you want to follow along with the examples you should also know your way around a terminal, and know what Node and npm are, as well as having them installed and ready to use.
-
-## Case Study | 案例分析
-
-- [Dissecting Twitter’s Redux Store](https://medium.com/statuscode/dissecting-twitters-redux-store-d7280b62c6b1#.wu5trgupx):
 
 # Tutorial
 
@@ -49,15 +49,3 @@ This file aggregates curated popular links for learning Redux. More reference ab
 - [2018-Learn Redux by Building Redux from Scratch](https://parg.co/Uah): A tutorial to understand the core Redux library by building it step-by-step.
 
 - [Immutability in JavaScript using Redux](https://www.toptal.com/javascript/immutability-in-javascript-using-redux)
-
-# React Integration | React 集成使用
-
-- [2017-Quick Redux tips for connecting your React components](https://medium.com/dailyjs/quick-redux-tips-for-connecting-your-react-components-e08da72f5b3)
-
-- [2017-From Zero to Redux in 3 Minutes A simplified guide to using Redux in a React application.](https://medium.com/@christiannaths/from-zero-to-redux-8db779b6ed01#.1j80ztr5q)
-
-- [2017-React Redux Cheat Sheet on Workflow & Concept](https://github.com/uanders/react-redux-cheatsheet): This article contains a graphical cheat sheet for the workflow and concept of Redux.
-
-- [React and Redux Sagas Authentication App Tutorial](http://start.jcolemorrison.com/react-and-redux-sagas-authentication-app-tutorial/)
-
-- [中文的 React+Redux 系列教程](https://github.com/lewis617/react-redux-tutorial)

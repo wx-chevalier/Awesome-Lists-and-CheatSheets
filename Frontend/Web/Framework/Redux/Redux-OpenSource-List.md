@@ -4,7 +4,7 @@
 
 - [Redux Search #Project#](https://github.com/treasure-data/redux-search): Higher-order Redux library for searching collections of objects. Search algorithms powered by js-worker-search.
 
-> [why-use-redux-over-facebook-flux](http://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux)
+- [why-use-redux-over-facebook-flux](http://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux)
 
 - [Redux Docs](http://rackt.org/redux/index.html)
 - [Redux 中文文档](http://camsong.github.io/redux-in-chinese/)
