@@ -12,6 +12,14 @@
 
 # Functional Reactive Programming
 
+- [Stack Overflow:What is Functional Reactive Programming?](http://stackoverflow.com/questions/1028250/what-is-functional-reactive-programming)
+
+- [Functional Reactive Programming in Java](https://realm.io/news/droidcon-gomez-functional-reactive-programming/)
+
+- [Functional Reactive Animation](http://conal.net/papers/icfp97/)
+
+- [Heinrich Apfelmus: Functional Reactive Programming](http://bobkonf.de/2016/apfelmus.html)
+
 # Event Stream Based FRP
 
 # Transparent FRP
