@@ -128,7 +128,9 @@
 
 - [2018-TypeScript and React #Series#](https://fettblog.eu/typescript-react/): With that, TypeScript and React are a perfect fit. You will enjoy combining both technologies together to get huge productivity boost when writing your applications!
 
-# Redux | 与 Redux 集成使用
+# State Management | 状态管理
+
+## Redux | 与 Redux 集成使用
 
 - [2017-Quick Redux tips for connecting your React components](https://medium.com/dailyjs/quick-redux-tips-for-connecting-your-react-components-e08da72f5b3)
 
