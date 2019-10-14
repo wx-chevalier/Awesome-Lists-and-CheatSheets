@@ -106,6 +106,10 @@
 
 - [GoJS #Project#](https://github.com/NorthwoodsSoftware/GoJS): JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 
+### Realtime（实时图表）
+
+- [apexcharts.js #Project#](https://github.com/apexcharts/apexcharts.js): A modern JavaScript charting library to build interactive charts and visualizations with simple API.
+
 ## Heatmap | 热力图
 
 - [github-contributions-canvas #Project#](https://github.com/sallar/github-contributions-canvas): A tool for drawing a heat-map of Github contributions on HTML Canvas.
@@ -151,10 +155,6 @@
 - [2017-maptalks.js](https://github.com/maptalks/maptalks.js): An open-source javascript library for map applications.
 
 - [2018-deck.gl #Project#](http://deck.gl/#/): deck.gl is a WebGL-powered framework for visual exploratory data analysis of large datasets.
-
-# Image
-
-- [bild #Project#](https://github.com/anthonynsimon/bild): A collection of parallel image processing algorithms in pure Go.
 
 # Application
 

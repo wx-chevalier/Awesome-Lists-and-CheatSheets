@@ -6,4 +6,8 @@
 
 - [Lepton #Project#](https://github.com/dropbox/lepton): 用于存储时图片压缩
 
+# Image
+
+- [bild #Project#](https://github.com/anthonynsimon/bild): A collection of parallel image processing algorithms in pure Go.
+
 # Compression | 压缩
