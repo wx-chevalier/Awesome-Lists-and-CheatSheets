@@ -50,6 +50,8 @@
 
 - [cssfx #Project#](https://cssfx.dev/): A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by CSS with minimal markup. Completely open source and MIT licensed.
 
+- [CssCo](http://www.cssco.co/): Photographic filters made with CSS, inspired by VSCO and CSSgram.
+
 ## Tween Animation | 补间动画
 
 - [react-motion #Project#](https://github.com/chenglou/react-motion): A spring that solves your animation problems.
@@ -82,33 +84,30 @@
 
 # Diagram Library | 数据可视化库
 
+- [2018-GoJS #Project#](https://github.com/NorthwoodsSoftware/GoJS): JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
+
 ## Chart
 
-- [Echarts]()
+- [Echarts #Project#](https://echarts.apache.org/zh/index.html): A powerful, interactive charting and visualization library for browser.
 
-- [AntV]()
+- [AntV #Project#](https://antv.alipay.com/zh-cn/index.html): AntV 是蚂蚁金服全新一代数据可视化解决方案，致力于提供一套简单
+  方便、专业可靠、无限可能的数据可视化最佳实践。
 
-- [CssCo](http://www.cssco.co/)
-
-- [d4 #Project#](https://github.com/joelburget/d4):Data-Driven Declarative Documents
-
-- [jQuery Sparklines #Project#](http://omnipotent.net/jquery.sparkline/#s-about)
-
-- [react-sparklines #Project#](https://github.com/borisyankov/react-sparklines)
+- [d4 #Project#](https://github.com/joelburget/d4): Data-Driven Declarative Documents
 
 - [ChartJS #Project#](http://www.chartjs.org/): 简单灵活响应式的 HTML 图表库
 
 - [Reacharts #Project#](http://recharts.org/): Redefined chart library built with React
 
-- [Frappé Charts #Project#](https://github.com/frappe/charts):
+- [Frappé Charts #Project#](https://github.com/frappe/charts): GitHub-inspired simple and modern SVG charts for the web with zero dependencies.
 
-- [mxGraph #Project#](https://jgraph.github.io/mxgraph/): mxGraph is a JavaScript diagramming library that enables interactive graph and charting applications to be quickly created that run natively in any major browser that is supported by its vendor.
-
-- [GoJS #Project#](https://github.com/NorthwoodsSoftware/GoJS): JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
+- [2015-react-vis #Project#](https://github.com/uber/react-vis): A collection of react components to render common data visualization charts, such as line/area/bar charts, heat maps, scatterplots, contour plots, hexagon heatmaps, pie and donut charts, sunbursts, radar charts, parallel coordinates, and tree maps.
 
 ### Realtime（实时图表）
 
 - [apexcharts.js #Project#](https://github.com/apexcharts/apexcharts.js): A modern JavaScript charting library to build interactive charts and visualizations with simple API.
+
+- [react-sparklines #Project#](https://github.com/borisyankov/react-sparklines): Beautiful and expressive sparklines component for React.
 
 ## Heatmap | 热力图
 
@@ -127,6 +126,8 @@
 - [2018-Cytoscape.js #Project#](http://js.cytoscape.org/): Graph theory / network library for analysis and visualisation.
 
 - [react-network-diagrams #Project#](https://github.com/esnet/react-network-diagrams): Contains ESnet network mapping and circuit rendering code, as used in the ESnet portal.
+
+- [mxGraph #Project#](https://jgraph.github.io/mxgraph/): mxGraph is a JavaScript diagramming library that enables interactive graph and charting applications to be quickly created that run natively in any major browser that is supported by its vendor.
 
 ### MindMap | 思维脑图
 

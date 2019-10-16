@@ -12,6 +12,8 @@
 
 - [2019-动态规划套路详解](https://zhuanlan.zhihu.com/p/78220312): 动态规划算法似乎是一种很高深莫测的算法，你会在一些面试或算法书籍的高级技巧部分看到相关内容，什么状态转移方程，重叠子问题，最优子结构等高大上的词汇也可能让你望而却步。
 
+- [2019-tspvis #Project#](https://github.com/jhackshaw/tspvis): Dynamic visualizations of algorithms for solving the traveling salesman problem.
+
 # 树型动态规划
 
 - [树形动态规划(树形 DP)入门问题 — 初探 & 训练 ](http://blog.csdn.net/txl199106/article/details/45372337)
