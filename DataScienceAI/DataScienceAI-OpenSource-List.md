@@ -132,6 +132,10 @@
 
 - [BytePS #Project#](https://github.com/bytedance/byteps): BytePS is a high performance and general distributed training framework.
 
+- [SQLFlow #Project#](https://github.com/sql-machine-learning/sqlflow): SQLFlow is a bridge that connects a SQL engine, e.g. MySQL, Hive or MaxCompute, with TensorFlow, XGBoost and other machine learning toolkits. SQLFlow extends the SQL syntax to enable model training, prediction and model explanation.
+
+- [Horovod #Project#](https://github.com/horovod/horovod): Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. 
+
 ## Integrated Tools
 
 - [Deepo #Project#](https://github.com/ufoym/deepo): Deepo is a Docker image with a full reproducible deep learning research environment. It contains most popular deep learning frameworks: theano, tensorflow, sonnet, pytorch, keras, lasagne, mxnet, cntk, chainer, caffe, torch.
