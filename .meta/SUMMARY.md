@@ -140,7 +140,6 @@
 
 - [DataScienceAI-Book-List](../DataScienceAI/DataScienceAI-Book-List.md) 
 - [DataScienceAI-Course-List](../DataScienceAI/DataScienceAI-Course-List.md) 
-- [DataScienceAI-Image-List](../DataScienceAI/DataScienceAI-Image-List.md) 
 - [DataScienceAI-List](../DataScienceAI/DataScienceAI-List.md) 
 - [DataScienceAI-Model-List](../DataScienceAI/DataScienceAI-Model-List.md) 
 - [DataScienceAI-OpenSource-List](../DataScienceAI/DataScienceAI-OpenSource-List.md) 
