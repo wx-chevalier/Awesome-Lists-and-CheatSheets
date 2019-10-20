@@ -4,10 +4,10 @@
 
 本文包含了一些基于人工智能、机器学习、深度学习等技术，实现的有趣的模型、应用、案例。
 
-- [2019-Deep Learning Models](https://github.com/rasbt/deeplearning-models): 
-A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
+- [2019-Deep Learning Models](https://github.com/rasbt/deeplearning-models):
+  A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
 
-- [PyTorch Hub](https://pytorch.org/hub): PyTorch Hub 包含一个经过预训练的模型库，专门用于促进研究的可重复性和快速开展新的研究。PyTorch Hub 内置了对 Colab的 支持，并且能够与 Papers With Code 集成。目前 PyTorch Hub 已包含一系列广泛的模型，包括分类器和分割器、生成器、变换器等。
+- [PyTorch Hub](https://pytorch.org/hub): PyTorch Hub 包含一个经过预训练的模型库，专门用于促进研究的可重复性和快速开展新的研究。PyTorch Hub 内置了对 Colab 的 支持，并且能够与 Papers With Code 集成。目前 PyTorch Hub 已包含一系列广泛的模型，包括分类器和分割器、生成器、变换器等。
 
 - [Papers with Code](https://paperswithcode.com)
 
@@ -21,7 +21,9 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 # Natural Language Processing
 
-- [2018-BERT #Project#](https://github.com/google-research/bert): BERT is method of pre-training language representations, meaning that we train a general-purpose "language understanding" model on a large text corpus (like Wikipedia), and then use that model for downstream NLP tasks that we care about (like question answering).
+## Language Representation
+
+- [2018-BERT #Project#](https://github.com/google-research/bert): BERT is method of pre-training language representations, meaning that we train a general-purpose "language understanding" model on a large text corpus (like Wikipedia), and then use that model for downstream NLP tasks that we care about (like question answering). [海量中文预训练 ALBERT 模型](https://github.com/brightmart/albert_zh)。
 
 ## ASR & TTL
 
@@ -35,7 +37,9 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 ## Knowledge Graph | 知识图谱
 
-- [基于医药知识图谱的智能问答系统](https://github.com/YeYzheng/KGQA-Based-On-medicine): 这是一个基于Python模块REfO实现的知识库问答初级系统. 该问答系统可以解析输入的自然语言问句生成 SPARQL 查询，进一步请求后台基于TDB知识库的Apache Jena Fuseki 服务, 进而得到问题的结果。
+- [基于医药知识图谱的智能问答系统](https://github.com/YeYzheng/KGQA-Based-On-medicine): 这是一个基于 Python 模块 REfO 实现的知识库问答初级系统. 该问答系统可以解析输入的自然语言问句生成 SPARQL 查询，进一步请求后台基于 TDB 知识库的 Apache Jena Fuseki 服务, 进而得到问题的结果。
+
+- [2019-KnowledgeGraphData #Project#](https://github.com/ownthink/KnowledgeGraphData): 知识就是力量，知识图谱是人工智能新时代的产物，简单地说知识图谱就是通过关联关系将知识组成网状的结构，然后我们的人工智能可以通过这个图谱来认识其代表的这一个现实事件，这个事件可以是现实，也可以是虚构的。
 
 # Game | 游戏
 
@@ -68,6 +72,10 @@ A collection of various deep learning architectures, models, and tips for Tensor
 ## Motion Capture
 
 - [Handtrack.js #Project#](https://victordibia.github.io/handtrack.js/#/): 它可以让开发人员使用经过训练的手部检测模型快速创建手势交互原型。
+
+## Face Recognition
+
+- [2019-超轻量级人脸检测模型 #Project#](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB): 该模型设计是针对边缘计算设备或低算力设备(如用 ARM 推理)设计的实时超轻量级通用人脸检测模型，可以在低算力设备中如用 ARM 进行实时的通用场景的人脸检测推理，同样适用于移动端、PC。
 
 # Development | 开发辅助
 

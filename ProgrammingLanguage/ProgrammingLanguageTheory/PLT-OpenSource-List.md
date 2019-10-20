@@ -1,3 +1,7 @@
+# Programma Language OpenSource List
+
+- [2019-vlang #Project#](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. 1.0 release in December 2019.
+
 # Static Quality Tools
 
 - [2017-SonarQube #Project#](https://github.com/SonarSource/sonarqube): SonarQube provides the capability to not only show health of an application but also to highlight issues newly introduced. With a Quality Gate in place, you can fix the leak and therefore improve code quality systematically.
