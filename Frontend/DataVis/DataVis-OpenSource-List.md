@@ -36,57 +36,11 @@
 
 ## Three.js
 
-# Animation | 动画库
-
-## Animation Effect
-
-- [Woah.css #Project#](http://www.joerezendes.com/projects/Woah.css/): Animations for eccentric developers.
-
-- [Effeckt.css #Project#](https://github.com/h5bp/Effeckt.css)
-
-- [Hover.css #Project#](https://github.com/IanLunn/Hover): A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on.
-
-- [iHover #Project#](http://gudh.github.io/ihover/dist/index.html#): iHover is an impressive hover effects collection, powered by pure CSS3, no dependency, work well with Bootstrap 3!
-
-- [cssfx #Project#](https://cssfx.dev/): A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by CSS with minimal markup. Completely open source and MIT licensed.
-
-- [CssCo](http://www.cssco.co/): Photographic filters made with CSS, inspired by VSCO and CSSgram.
-
-## Tween Animation | 补间动画
-
-- [react-motion #Project#](https://github.com/chenglou/react-motion): A spring that solves your animation problems.
-
-- [2017-Popmotion #Project#](https://popmotion.io/): A functional JavaScript motion library.
-
-- [react-move #Project#](https://github.com/react-tools/react-move): React Move 🌀 Beautiful, data-driven animations for React.
-
-- [popmotion #Project#](https://github.com/Popmotion/popmotion): Simple animation libraries for delightful user interfaces.
-
-- [2017-animateplus #Project#](https://github.com/bendc/animateplus): Animate Plus is a JavaScript animation library focusing on performance and authoring flexibility. It aims to deliver a steady 60 FPS and weighs less than 3 KB (minified and compressed), making it particularly well-suited for mobile
-
-- [2017-Ant Motion #Project#](https://motion.ant.design/): 使用 Ant Motion 能够快速在 React 框架中使用动画；我们提供了单项，组合动画，以及整套解决方案。
-
-## Graphic Animation
-
-- [mo.js #Project#](https://github.com/legomushroom/mojs): motion graphics toolbelt for the web.
-
-- [bezierjs #Project#](https://github.com/Pomax/bezierjs): A node.js and client-side library for (quadratic and cubic) Bezier curve work.
-
-- [lottie-web #Project#](https://github.com/airbnb/lottie-web): Render After Effects animations natively on Web, Android and iOS, and React Native. [React animated icons](https://github.com/useAnimations/react-useanimations),
-
-## Plstopfic
-
-- [Turn.js #Project#](http://www.turnjs.com/#samples/magazine2/9): Turn.js is a JavaScript library that will make your content look like a real book or magazine using all the advantages of HTML5.
-
-## Misc
-
-- [ola #Project#](https://github.com/franciscop/ola): Smooth animation library for interpolating numbers.
-
 # Diagram Library | 数据可视化库
 
 - [2018-GoJS #Project#](https://github.com/NorthwoodsSoftware/GoJS): JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 
-## Chart
+# Chart
 
 - [Echarts #Project#](https://echarts.apache.org/zh/index.html): A powerful, interactive charting and visualization library for browser.
 
@@ -103,7 +57,7 @@
 
 - [2015-react-vis #Project#](https://github.com/uber/react-vis): A collection of react components to render common data visualization charts, such as line/area/bar charts, heat maps, scatterplots, contour plots, hexagon heatmaps, pie and donut charts, sunbursts, radar charts, parallel coordinates, and tree maps.
 
-### Realtime（实时图表）
+## Realtime（实时图表）
 
 - [apexcharts.js #Project#](https://github.com/apexcharts/apexcharts.js): A modern JavaScript charting library to build interactive charts and visualizations with simple API.
 
@@ -121,7 +75,11 @@
 
 - [mermaid #Project#](https://github.com/knsv/mermaid)
 
-## Graph & Network
+## Analytics
+
+- [SandDance #Project#](https://sanddance.js.org/app/): By using easy-to-understand views, SandDance helps you find insights about your data, which in turn help you tell stories supported by data, build cases based on evidence, test hypotheses, dig deeper into surface explanations, support decisions for purchases, or relate data into a wider, real world context.
+
+# Graph & Network
 
 - [2018-Cytoscape.js #Project#](http://js.cytoscape.org/): Graph theory / network library for analysis and visualisation.
 
@@ -129,9 +87,9 @@
 
 - [mxGraph #Project#](https://jgraph.github.io/mxgraph/): mxGraph is a JavaScript diagramming library that enables interactive graph and charting applications to be quickly created that run natively in any major browser that is supported by its vendor.
 
-### MindMap | 思维脑图
+## MindMap | 思维脑图
 
-### Graph Editor | 图编辑器
+## Graph Editor | 图编辑器
 
 - [2014-mxGraph #Project#](https://github.com/jgraph/mxgraph): mxGraph is a fully client side JavaScript diagramming library that uses SVG and HTML for rendering.
 
@@ -170,12 +128,6 @@
 ## Icons
 
 - [bytesize-icons](https://github.com/danklammer/bytesize-icons)
-
-## Business Intelligence
-
-- [2015-Caravel #Project#](https://github.com/airbnb/caravel): Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
-
-- [2016-Redash #Project#](https://github.com/getredash/redash): Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
 # Others
 

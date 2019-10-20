@@ -95,3 +95,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 - [2018-How to start a Go project in 2018](https://boyter.org/posts/how-to-start-go-project-2018/): Getting started with a Go project in 2018 is frankly a little more painful then getting anything else started IMHO.
 
 - [2017-The ultimate guide to writing a Go tool · Fatih Arslan](https://arslan.io/2017/09/14/the-ultimate-guide-to-writing-a-go-tool/)
+
+## StyleGuide
+
+- [2018-Uber Go 语言编码规范](https://github.com/xxjwxc/uber_go_guide_cn/blob/master/README.md): 
+Uber 是一家美国硅谷的科技公司，也是 Go 语言的早期 adopter. 其开源了很多 golang 项目，诸如被 Gopher 圈熟知的 zap、jaeger 等。2018 年年末 Uber 将内部的 Go 风格规范 开源到 GitHub。
