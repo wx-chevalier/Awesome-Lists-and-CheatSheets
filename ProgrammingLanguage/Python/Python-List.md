@@ -40,6 +40,10 @@
 
 - [2019-Halterman-Fundamentals of Python Programming](https://python.cs.southern.edu/pythonbook/pythonbook.pdf): Fundamentals of Python Programming.
 
+## Collection
+
+- [2019-Awesome Python Applications #Collection#](https://github.com/mahmoud/awesome-python-applications): 💿 Free software that works great, and also happens to be open-source Python
+
 ## Course
 
 - [c9-python-getting-started #Course#](https://github.com/microsoft/c9-python-getting-started): The series of videos on Channel 9 is designed to help get you up to speed on Python.
