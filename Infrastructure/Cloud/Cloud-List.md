@@ -20,12 +20,6 @@
 
 - [2019-虚拟化技术发展编年史](https://mp.weixin.qq.com/s/wuQ8-pwqb9qXfOt4w3Zviw): 几乎所有的问题都能够在历史长河中寻得答案。可惜的是，但凡历史，最是难写，笔者碍于能力有限，还望大家多指点一二。
 
-# Container
+# Application Model
 
-- [2018-Containers Patterns](https://l0rd.github.io/containerspatterns/#1): There are a thousand ways to use containers.
-
-- [2019-Making Containers More Isolated: An Overview of Sandboxed Container Technologies](https://unit42.paloaltonetworks.com/making-containers-more-isolated-an-overview-of-sandboxed-container-technologies/): While the majority of the IT industry is in the midst of adopting container-based infrastructure (cloud-native solution), it is imperative to understand the technology’s limitations.
-
-## Scratch
-
-- [2017-Linux containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+- [OAM #Project#](https://github.com/oam-dev/spec/): OAM 的愿景是以标准化的方式沟通和连接应用开发者、运维人员、应用基础设施，让云原生应用管理与交付变得更加简洁，高效，并且可控。
