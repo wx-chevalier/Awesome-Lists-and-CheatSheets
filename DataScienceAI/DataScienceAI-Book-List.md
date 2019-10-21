@@ -30,6 +30,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2019-Math Basics #Book#](http://117.128.6.20/cache/www.cis.upenn.edu/~jean/math-basics.pdf):
 
+- [2019-Mathematics for Machine Learning #Book#](https://mml-book.github.io): We wrote a book on Mathematics for Machine Learning that motivates people to learn mathematical concepts. The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books.
+
 # Machine Learning | 机器学习
 
 - [2007-Pattern Recognition And Machine Learning #Book#](https://book.douban.com/subject/2061116/): The book is suitable for courses on machine learning, statistics, computer science, signal processing, computer vision, data mining, and bioinformatics.

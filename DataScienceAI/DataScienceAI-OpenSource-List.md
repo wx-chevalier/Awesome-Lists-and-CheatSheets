@@ -80,6 +80,8 @@
 
 - [2019-GPT2 Chinese #Project#](https://github.com/Morizeyao/GPT2-Chinese): Chinese version of GPT2 training code, using BERT or BPE tokenizer.
 
+- [2019-pkuseg #Project#](https://github.com/lancopku/pkuseg-python): pkuseg 简单易用，支持细分领域分词，有效提升了分词准确度。
+
 ## Knowledge Graph | 知识图谱
 
 - [2018-OpenKE #Project#](https://github.com/thunlp/OpenKE): An Open-Source Package for Knowledge Embedding (KE).
@@ -135,6 +137,8 @@
 - [SQLFlow #Project#](https://github.com/sql-machine-learning/sqlflow): SQLFlow is a bridge that connects a SQL engine, e.g. MySQL, Hive or MaxCompute, with TensorFlow, XGBoost and other machine learning toolkits. SQLFlow extends the SQL syntax to enable model training, prediction and model explanation.
 
 - [Horovod #Project#](https://github.com/horovod/horovod): Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. 
+
+- [2019-ElasticDL #Project#](https://github.com/sql-machine-learning/elasticdl): ElasticDL is a Kubernetes-native deep learning framework built on top of TensorFlow 2.0 that supports fault-tolerance and elastic scheduling.
 
 ## Integrated Tools
 
