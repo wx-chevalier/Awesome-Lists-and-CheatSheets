@@ -18,6 +18,8 @@
 
 - [cim #Project#](https://github.com/crossoverJie/cim): 📲cim(cross IM) 适用于开发者的即时通讯系统
 
+- [Tinode #Project#](https://github.com/tinode/chat): Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
+
 # WebRTC
 
 - [Screencat #Project#](https://github.com/maxogden/screencat): webrtc screensharing electron app for mac os (Alpha).

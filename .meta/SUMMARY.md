@@ -610,6 +610,7 @@
     - [Linux-Kernel-List](../Infrastructure/OS/Linux/Linux-Kernel-List.md) 
     - [Linux-List](../Infrastructure/OS/Linux/Linux-List.md) 
     - [Linux-Network-List](../Infrastructure/OS/Linux/Linux-Network-List.md) 
+    - [Linux-OpenSource-List](../Infrastructure/OS/Linux/Linux-OpenSource-List.md) 
     - [Linux-Shell-List](../Infrastructure/OS/Linux/Linux-Shell-List.md) 
     - [Linux-Storage-List](../Infrastructure/OS/Linux/Linux-Storage-List.md) 
     - [Linux-SysProc-List](../Infrastructure/OS/Linux/Linux-SysProc-List.md) 

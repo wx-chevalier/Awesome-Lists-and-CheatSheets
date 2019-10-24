@@ -60,6 +60,8 @@
 
 - [Kubernetes Tutorial](https://www.tutorialspoint.com/kubernetes/index.htm): This tutorial has been prepared for those who want to understand the containerized infrastructure and deployment of application on containers. This tutorial will help in understanding the concepts of container management using Kubernetes.
 
+- [2019-Learning Kubernetes](https://github.com/knrt10/kubernetes-basicLearning): Understand kubernetes step by step. A simple repo for beginners 🔥.
+
 # Engineering Practices
 
 - [2017-Learning to operate Kubernetes reliably](https://stripe.com/blog/operating-kubernetes): In this post, we’ll explain why we chose to build on top of Kubernetes. We’ll examine how we integrated Kubernetes into our existing infrastructure, our approach to building confidence in (and improving) our Kubernetes’ cluster’s reliability, and the abstractions we’ve built on top of Kubernetes.
