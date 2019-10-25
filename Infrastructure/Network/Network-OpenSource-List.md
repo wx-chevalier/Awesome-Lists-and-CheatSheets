@@ -22,6 +22,8 @@
 
 - [DSVPN #Project#](https://github.com/jedisct1/dsvpn): DSVPN is a Dead Simple VPN, designed to address the most common use case for using a VPN.
 
+- [Streisand #Project# #Awesome#](https://github.com/StreisandEffect/streisand): Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge.
+
 # HTTPS
 
 - [acme.sh](https://github.com/Neilpang/acme.sh): A pure Unix shell script implementing ACME client protocol.

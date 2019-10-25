@@ -11,9 +11,3 @@
 - [坑系列---重构过程中的过度设计](http://mp.weixin.qq.com/s?__biz=MjM5ODczNTkwMA==&mid=2650107080&idx=1&sn=527e1f3f9b048127d1114f9272ddd927#rd)
 
 - [2016-Modern Software Over-Engineering Mistakes](https://parg.co/bih): Few things are guaranteed to increase all the time: Distance between stars, Entropy in the visible universe, and Fucking business requirements . Many articles say Dont over-engineer but don’t say why or how. Here are 10 clear examples.
-
-# Middle-end | 中台
-
-- [2019-我的一年中台实战录](https://mp.weixin.qq.com/s/SPMJvk_Jv1vCnSGA86RX_Q): 他所在的团队用一年时间搭建中台，虽然因为公司战略和组织架构调整，中台项目被停止了，但是其间有太多的收获、感悟和反思，借本篇文章分享给对中台感兴趣的朋友们。
-
-- [2019-网易杭研中台实践：建中台有可行方法论吗？](https://mp.weixin.qq.com/s/qTvj6MmrRRaLOjtyqc25XA): 本文中，InfoQ 对网易副总裁，网易杭州研究院执行院长汪源进行了独家采访，试图了解网易杭研的中台搭建背景及中台实践方法论。

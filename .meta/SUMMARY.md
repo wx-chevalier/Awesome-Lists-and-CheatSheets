@@ -796,7 +796,6 @@
 - [Introduction](../Specials/README.md) 
 
 - [Awesome-CS-Collections](../Specials/Awesome-CS-Collections.md) 
-- [Awesome-Career-Tips](../Specials/Awesome-Career-Tips.md) 
 - [Awesome-Codebases](../Specials/Awesome-Codebases.md) 
 - [Awesome-DataSets-Collections](../Specials/Awesome-DataSets-Collections.md) 
 - [Awesome-DataVisualization-Collections](../Specials/Awesome-DataVisualization-Collections.md) 
