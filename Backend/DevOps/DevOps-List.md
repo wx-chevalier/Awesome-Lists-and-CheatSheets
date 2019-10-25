@@ -2,19 +2,23 @@
 
 # DevOps List | DevOps 资料索引
 
+- [运维知识体系](https://www.unixhot.com/page/ops)
+
+- [应用性能监控分类](http://www.infoq.com/cn/news/2015/08/monitoring-applications-category)
+
+# Overview 
+
 - [Awesome Microservices](https://github.com/mfornos/awesome-microservices): A curated list of Microservice Architecture related principles and technologies.
 
-- [So you want to be an SRE?](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c#.x8tn42pb7)
-
 - [DevOps explained by Jerome Kehrli](https://www.niceideas.ch/roller2/badtrash/entry/devops-explained): DevOps is a very key methodology bringing principles and practices that address precisely the biggest problem, the saddest factor of failure of software development projects in such institutions : the wall of confusion between developers and operators. 中文译本参见 [DevOps 详解](https://www.zybuluo.com/liuhui0803/note/650897)。
+
+- [2019-DevOps didn’t exist when I started as a developer: How this one principle changed my career](https://circleci.com/blog/cicd-engineer/):  I’ll traverse my professional timeline discussing how DevOps came into my life and expressing how it impacted me and my chosen career.
+
+## Case Study 
 
 - [解读 2016，眺望 2017：运维的风口在哪？](http://mp.weixin.qq.com/s/X4929d1NtrmWGfT6ZEHxUg)
 
 - [初创公司应该如何做好持续集成和部署？](http://www.simlinux.com/archives/1638.html)
-
-- [运维知识体系](https://www.unixhot.com/page/ops)
-
-- [应用性能监控分类](http://www.infoq.com/cn/news/2015/08/monitoring-applications-category)
 
 # Resources
 
@@ -24,8 +28,8 @@
 
 - [2019-DevOps Interview Questions](https://github.com/bregman-arie/devops-interview-questions): Linux, Jenkins, AWS, Network, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP.
 
-# System Ops
+# SRE
 
-- [2018-深入理解 iostat](https://mp.weixin.qq.com/s/nvDudsOmYxLUKblcAtCqng): 现在我们由浅到深地介绍这个工具，它输出的含义什么，介绍它的能力边界，介绍关于这个工具的常见误解。
+- [So you want to be an SRE?](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c#.x8tn42pb7)
 
 # Interview

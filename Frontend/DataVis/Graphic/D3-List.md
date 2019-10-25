@@ -10,6 +10,10 @@
 
 - [Over 2000 D3.js Examples and Demos](http://techslides.com/over-2000-d3-js-examples-and-demos): Examples are really helpful when doing any kind of development so I am hoping that this big list of D3 examples will be a valuable resource.
 
+# Tutorial
+
+- [A Introduction to D3.js](https://wattenberger.com/blog/d3)
+
 # Canvas
 
 - [D3 and Canvas in 3 steps](https://medium.freecodecamp.com/d3-and-canvas-in-3-steps-8505c8b27444#.c34qehc0y)
