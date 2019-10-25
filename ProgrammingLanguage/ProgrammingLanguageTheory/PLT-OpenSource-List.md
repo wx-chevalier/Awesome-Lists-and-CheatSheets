@@ -1,6 +1,14 @@
-# Programma Language OpenSource List
+# Program Language OpenSource List
+
+# Program Languages
 
 - [2019-vlang #Project#](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. 1.0 release in December 2019.
+
+# Build Utility
+
+- [2017-Premake #Project#](https://github.com/premake/premake-core): Premake is a command line utility which reads a scripted definition of a software project, then uses it to perform build configuration tasks or generate project files for toolsets like Visual Studio, Xcode, and GNU Make. Premake's scripts are little Lua programs, so the sky's the limit!
+
+- [2018-xmake #Project#](https://github.com/xmake-io/xmake): xmake is a cross-platform build utility based on lua. The project focuses on making development and building easier and provides many features (e.g package, install, plugin, macro, action, option, task ...), so that any developer can quickly pick it up and enjoy a productivity boost when developing and building projects.
 
 # Static Quality Tools
 
