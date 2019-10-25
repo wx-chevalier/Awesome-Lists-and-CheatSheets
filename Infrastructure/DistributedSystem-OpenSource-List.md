@@ -12,7 +12,7 @@
 
 ## Job Scheduler
 
-- [2017-Elastic-Job #Project#](https://github.com/elasticjob/elastic-job-lite): Elastic-Job is a distributed scheduled job solution. Elastic-Job is composited from 2 independent sub projects: Elastic-Job-Lite and Elastic-Job-Cloud.
+- [2017-Elastic Job #Project#](https://github.com/elasticjob/elastic-job-lite): Elastic-Job is a distributed scheduled job solution. Elastic-Job is composited from 2 independent sub projects: Elastic-Job-Lite and Elastic-Job-Cloud.
 
 - [Disque #Project#](https://github.com/antirez/disque): Disque is a distributed message broker.
 
@@ -21,6 +21,8 @@
 - [TaskBotJS #Project#](https://github.com/eropple/taskbotjs): The best JavaScript/TypeScript job processing framework on the planet.
 
 - [SIA #Project#](https://github.com/siaorg/sia-task): SIA 是我们公司基础开发平台 Simple is Awesome 的简称，SIA-TASK（微服务任务调度平台）是其中的一项重要产品，SIA-TASK 契合当前微服务架构模式，具有跨平台，可编排，高可用，无侵入，一致性，异步并行，动态扩展，实时监控等特点。
+
+- [2019-Mantis #Project#](https://github.com/netflix/mantis/): A platform that makes it easy for developers to build realtime, cost-effective, operations-focused applications.
 
 # Distributed Lock
 

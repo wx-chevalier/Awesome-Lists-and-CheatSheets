@@ -28,7 +28,7 @@
 
 - [Streamlit #Project#](https://github.com/streamlit/streamlit): Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts.
 
-# Data Analysis 
+# Data Analysis
 
 ## Feature Engineering
 
@@ -66,7 +66,13 @@
 
 ## Chatbot
 
+- [2016-Hubot #Project#](https://github.com/hubotio/hubot): Hubot is a framework to build chat bots, modeled after GitHub's Campfire bot of the same name, hubot. He's pretty cool. He's extendable with scripts and can work on many different chat services.
+
 - [2019-Botpress #Project#](https://github.com/botpress/botpress): The ultimate open-source conversational platform with built-in natural language processing (NLU), easy-to-use graphical interface and dialog manager.
+
+- [Olivia #Project#](https://github.com/olivia-ai/olivia): Your new best friend built with an artificial neural networ.
+
+- [Leon #Project#](https://github.com/leon-ai/leon): Leon is your open-source personal assistant.
 
 ## Syntax & Semantic Analysis
 
@@ -128,7 +134,7 @@
 
 - [2018-alpr-unconstrained](https://github.com/sergiomsilva/alpr-unconstrained): License Plate Detection and Recognition in Unconstrained Scenarios.
 
-# Platform 
+# Platform
 
 ## Distributed Training
 
@@ -136,7 +142,7 @@
 
 - [SQLFlow #Project#](https://github.com/sql-machine-learning/sqlflow): SQLFlow is a bridge that connects a SQL engine, e.g. MySQL, Hive or MaxCompute, with TensorFlow, XGBoost and other machine learning toolkits. SQLFlow extends the SQL syntax to enable model training, prediction and model explanation.
 
-- [Horovod #Project#](https://github.com/horovod/horovod): Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. 
+- [Horovod #Project#](https://github.com/horovod/horovod): Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 
 - [2019-ElasticDL #Project#](https://github.com/sql-machine-learning/elasticdl): ElasticDL is a Kubernetes-native deep learning framework built on top of TensorFlow 2.0 that supports fault-tolerance and elastic scheduling.
 

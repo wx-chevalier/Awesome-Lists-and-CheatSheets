@@ -58,6 +58,12 @@
 
 - [osquery #Project#](https://github.com/facebook/osquery): osquery is an operating system instrumentation framework for OS X/macOS, Windows, and Linux. The tools make low-level operating system analytics and monitoring both performant and intuitive.
 
+### Container
+
+- [2016-ctop #Project#](https://github.com/bcicen/ctop): ctop provides a concise and condensed overview of real-time metrics for multiple containers.
+
+- [2017-cAdvisor #Project#](https://github.com/google/cadvisor): Analyzes resource usage and performance characteristics of running containers.
+
 ## APM
 
 - [perf-tools #Project#](https://github.com/brendangregg/perf-tools): A miscellaneous collection of in-development and unsupported performance analysis tools for Linux ftrace and perf_events (aka the "perf" command).
@@ -70,11 +76,13 @@
 
 - [2017-SkyWalking #Project#](https://github.com/apache/skywalking): SkyWalking: an APM(application performance monitor) system, especially designed for microservices, cloud native and container-based (Docker, Kubernetes, Mesos) architectures.
 
-## Container
+## Analytics
 
-- [2016-ctop #Project#](https://github.com/bcicen/ctop): ctop provides a concise and condensed overview of real-time metrics for multiple containers.
+- [Fathom #Project#](https://github.com/usefathom/fathom): Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.
 
-- [2017-cAdvisor #Project#](https://github.com/google/cadvisor): Analyzes resource usage and performance characteristics of running containers.
+- [Matomo #Project#](https://github.com/matomo-org/matomo): Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
+
+- [Sentry #Project#](https://github.com/getsentry/sentry): Sentry is cross-platform application monitoring, with a focus on error reporting.
 
 ## Visualization
 
