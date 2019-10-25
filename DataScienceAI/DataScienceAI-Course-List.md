@@ -68,6 +68,8 @@
 
 - [2017-CS224d: Deep Learning for Natural Language Processing #Course#](http://cs224d.stanford.edu/syllabus.html): Intro to NLP and Deep Learning, Simple Word Vector representations: word2vec, GloVe, etc.
 
+- [2018-CS 4650 and 7650 #Course#](https://github.com/jacobeisenstein/gt-nlp-class): Course materials for Georgia Tech CS 4650 and 7650, "Natural Language".
+
 # Industrial Applications | 行业应用
 
 ## Autonomous Driving | 自动驾驶
