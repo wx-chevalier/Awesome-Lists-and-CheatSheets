@@ -32,6 +32,8 @@
 
 - [Git flow - Animated #Project#](https://github.com/vraa/gitflowanimated): An Experimental try in React to visualize and animate Gitflow.
 
+- [Onefetch #Project#](https://github.com/o2sh/onefetch): Onefetch is a command line tool that displays information about your Git project directly on your terminal. 
+
 # Github
 
 - [强力推荐！那些你不能错过的 GitHub 插件和工具](https://juejin.im/post/59ade28051882538fd72fa2c)
