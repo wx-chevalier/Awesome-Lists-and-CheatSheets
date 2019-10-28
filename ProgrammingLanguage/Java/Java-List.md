@@ -6,10 +6,6 @@
 
 # Overview
 
-- [Top 10 Mistakes Java Developers Make](http://www.gauravkgupta.com/top-10-mistakes-java-developers-make/)
-
-- [Java Web Frameworks Index by RebelLabs](https://zeroturnaround.com/rebellabs/java-web-frameworks-index-by-rebellabs/)
-
 - [2017-Java 老矣，尚能饭否？](http://www.infoq.com/cn/articles/is-java-out-of-date): 从 1995 年第一个版本发布到现在，Java 语言已经在跌宕起伏中走过了 22 年，最新的 Java 版本也已经迭代到 Java 9。
 
 ## CheatSheet
@@ -21,16 +17,6 @@
 ## Case Study | 案例分析
 
 - [2017-阿里巴巴 Java 开发手册](https://github.com/alibaba/p3c)：《阿里巴巴 Java 开发手册》是阿里巴巴集团技术团队的集体经验总结，经历了多次大规模一线实战的检验及不断的完善，反馈给广大开发者。
-
-# Interview | 面试
-
-- [2017-Java Collection Interview Questions and Answer](https://parg.co/bak): Here is a list of Java Collections interview Questions. These are some of the famous questions asked in interviews.
-
-- [Java 高级开发工程师面试考点](http://www.sanesee.com/article/java-engineer-interview-of-content-tree)
-
-- [Java 面试问题](https://dongchuan.gitbooks.io/java-interview-question/content/java/index.html)
-
-- [2018-Java Interview](https://github.com/crossoverJie/Java-Interview): 多数是一些 Java 基础知识、底层原理、算法详解。也有上层应用设计，其中不乏一些大厂面试真题。
 
 # Resource
 
@@ -137,3 +123,15 @@
 ## IDE
 
 - [IntelliJ IDEA](https://github.com/judasn/IntelliJ-IDEA-Tutorial/)
+
+# Interview | 面试
+
+- [2017-Java Collection Interview Questions and Answer](https://parg.co/bak): Here is a list of Java Collections interview Questions. These are some of the famous questions asked in interviews.
+
+- [Java 高级开发工程师面试考点](http://www.sanesee.com/article/java-engineer-interview-of-content-tree)
+
+- [Java 面试问题](https://dongchuan.gitbooks.io/java-interview-question/content/java/index.html)
+
+- [2018-Java Interview](https://github.com/crossoverJie/Java-Interview): 多数是一些 Java 基础知识、底层原理、算法详解。也有上层应用设计，其中不乏一些大厂面试真题。
+
+- [Top 10 Mistakes Java Developers Make](http://www.gauravkgupta.com/top-10-mistakes-java-developers-make/)

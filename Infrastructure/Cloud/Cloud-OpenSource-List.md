@@ -54,6 +54,8 @@
 
 - [Draft #Project#](https://github.com/Azure/draft): A tool for developers to create cloud-native applications on Kubernetes.
 
+- [Gatekeeper #Project#](https://github.com/open-policy-agent/gatekeeper): Gatekeeper - Policy Controller for Kubernetes -
+
 ## Plugins
 
 - [OpenEBS](https://www.openebs.io/): OpenEBS is an open source storage platform that provides persistent and containerized block storage for DevOps and container environments.
@@ -73,6 +75,8 @@
 ## Sidecar
 
 - [Envoy #Project#](https://www.envoyproxy.io/): Envoy is an OpenSource Egde and Service Proxy, Design for Cloud-Native Applications.
+
+- [2019-Kuma #Project#](https://kuma.io/docs/0.1.0/#what-is-kuma): Kuma is a universal open-source control plane for Service Mesh and Microservices.
 
 # Serverless
 
