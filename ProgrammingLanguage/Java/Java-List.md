@@ -8,6 +8,8 @@
 
 - [2017-Java 老矣，尚能饭否？](http://www.infoq.com/cn/articles/is-java-out-of-date): 从 1995 年第一个版本发布到现在，Java 语言已经在跌宕起伏中走过了 22 年，最新的 Java 版本也已经迭代到 Java 9。
 
+- [2019-可能是国内第一篇全面解读Java现状及趋势的文章](https://mp.weixin.qq.com/s/-Q1qJY9nytCnyLKunb-x4Q): 基于以上两个原因，我们决定策划和撰写这份《2019 中国 Java 发展趋势报告》，要把 Java 在中国发展的独特性反映出来，同时也希望大家对 Java 有一个正确的认识：既不捧杀，也不要妖魔化。
+
 ## CheatSheet
 
 - [Java Programming Cheatsheet From Princeton](http://introcs.cs.princeton.edu/java/11cheatsheet/): This appendix summarizes the most commonly-used Java language features in the textbook.
