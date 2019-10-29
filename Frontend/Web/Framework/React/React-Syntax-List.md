@@ -52,6 +52,8 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 - [React’s ⚛️ new Context API](https://parg.co/UXl): It’s way more ergonomic, it’s no longer “experimental,” and it’s now a first-class api! OH, AND IT USES A RENDER PROP!
 
+- [2019-How to Use the useContext Hook in React](https://upmostly.com/tutorials/how-to-use-the-usecontext-hook-in-react): Let’s explore the React useContext Hook by building a music player! I’ll also show you how a custom React Hook can make the useContext Hook easier to use.
+
 # Hooks
 
 - [2019-Deep dive: How do React hooks really work?](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/): In this article, we reintroduce closures by building a tiny clone of React Hooks. This will serve two purposes – to demonstrate the effective use of closures, and to show how you can build a Hooks clone in just 29 lines of readable JS. Finally, we arrive at how Custom Hooks naturally arise.
