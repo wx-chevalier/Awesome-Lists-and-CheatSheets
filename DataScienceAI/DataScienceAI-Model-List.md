@@ -17,6 +17,10 @@
 
 - [SPTAG #Project#](https://github.com/microsoft/SPTAG): A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
 
+## Reinforcement Learning
+
+- [2019-TensorTrade #Project#](https://github.com/notadamking/tensortrade): An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
+
 # DeepLearning
 
 # Natural Language Processing
