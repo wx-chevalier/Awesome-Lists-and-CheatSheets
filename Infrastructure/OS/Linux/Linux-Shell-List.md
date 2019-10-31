@@ -29,11 +29,3 @@
 ## Web Service
 
 - [beero.cl/ock](https://github.com/hhsnopek/beeroclock): Proof of concept for a bash service.
-
-# Text Editor
-
-- [文本处理利器 sed 与 awk 使用总结](https://taozj.org/201612/cmd-tools-sed-awk.html)
-
-- [Introduction to text manipulation on UNIX-based systems](https://www.ibm.com/developerworks/aix/library/au-unixtext/#19Useofsortoutline)
-
-- [Text Processing Commands](http://www.tldp.org/LDP/abs/html/textproc.html)
