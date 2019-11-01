@@ -50,6 +50,8 @@
 
 - [2018-Resources for Getting Started with Kubernetes](https://vsupalov.com/getting-started-with-kubernetes/): Hand-picked reading material and courses to help you make progress towards getting started with Kubernetes.
 
+- [2019-Awesome-Kubernetes](https://github.com/ramitsurana/awesome-kubernetes/blob/master/README.md#related-software): A curated list for awesome kubernetes sources 🚢🎉 -
+
 # Tutorial
 
 - [Kubernetes 101 & 201 #Series#](https://kubernetes.io/docs/tutorials/k8s101/): For Kubernetes 101, we will cover kubectl, Pods, Volumes, and multiple containers. For Kubernetes 201, we will pick up where 101 left off and cover some slightly more advanced topics in Kubernetes, related to application productionization, Deployment and scaling.
