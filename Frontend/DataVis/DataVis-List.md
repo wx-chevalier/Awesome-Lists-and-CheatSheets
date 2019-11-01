@@ -18,7 +18,9 @@
 
 - [2018-数据可视化入门教程 #Book#](https://www.yuque.com/mo-college/beginner-tutorial): 市场对数据可视化工具有着巨大的需求，广大工程师和学习者渴望得到清晰易懂、简单实用的培训教程。为了满足这些需求，AntV 团队投入很大的精力，编写了这本《数据可视化入门教程》。
 
-- [2018-AntV 图表用法](https://antv.alipay.com/zh-cn/vis/chart/index.html): 一提到图表，大家脑海里浮现的，通常是柱状图、饼图、趋势图等等。这是按照图形等维度对图表进行分类，经常会导致图表的误用。
+- [2018-AntV 图表用法 #Book#](https://antv.alipay.com/zh-cn/vis/chart/index.html): 一提到图表，大家脑海里浮现的，通常是柱状图、饼图、趋势图等等。这是按照图形等维度对图表进行分类，经常会导致图表的误用。
+
+- [2019-How to Design a Dashboard #Book#](https://dataschool.com/how-to-design-a-dashboard/): Dashboards enable people to make decisions based on data. This book walks you through the process of defining, prototyping, building, and deploying a dashboard. The focus of the book is to help people make dashboards that get used to make decisions.
 
 ## Course
 

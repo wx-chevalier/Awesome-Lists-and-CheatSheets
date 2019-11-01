@@ -8,7 +8,13 @@
 
 - [Twitter-commons #Project#](https://github.com/twitter/commons): Twitter common libraries for python and the JVM.
 
+## Language Extension
+
 - [Lombok #Project#](https://projectlombok.org/): Project Lombok is a java library that automatically plugs into your editor and build tools, spicing up your java.
+
+- [2019-Manifold #Project#](https://github.com/manifold-systems/manifold): Manifold plugs into Java to supplement it with game-changing features, from Type-safe Metaprogramming, Extension Methods, Operator Overloading, and Unit Expressions to an integrated Template Engine and a Preprocessor. All fully supported in IntelliJ IDEA. Simply add Manifold to your project and begin taking advantage of it.
+
+- [2019-VAVR #Project#](https://github.com/vavr-io/vavr): VAVR (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
 
 ## DataStructure
 

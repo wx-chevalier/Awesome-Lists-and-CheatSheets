@@ -56,6 +56,10 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2019-Interpretable Machine Learning #Book#](https://christophm.github.io/interpretable-ml-book/): This book is about making machine learning models and their decisions interpretable.
 
+## Data Mining
+
+- [2019-Fundamentals of Analysis #Book#](https://dataschool.com/fundamentals-of-analysis/): You have data, now how do you analyze it correctly? This is not a simple task, this book will cover common techniques to get insights out of data accurately.
+
 ## Reinforcement Learning | 强化学习
 
 - [2018-Reinforcement Learning: An Introduction-Second Edition #Book#](https://parg.co/Y6M): This textbook provides a clear and simple account of the key ideas and algorithms of reinforcement learning that is accessible to readers in all the related disciplines. Familiarity with elementary concepts of probability is required.

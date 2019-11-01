@@ -42,6 +42,18 @@
 
 - [2018-SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL-4th Edition](https://parg.co/oUa)
 
+### SQL
+
+- [2019-How to Teach People SQL #Book#](https://dataschool.com/how-to-teach-people-sql/): This book will help you empathize with people learning SQL for the first time.
+
+- [2019-Learn SQL #Book#](https://dataschool.com/learn-sql/): Welcome to our PostgreSQL interactive SQL Tutorial! We’ve designed this specifically for tech-savvy folks to learn enough SQL to be able to do their own analysis and data fetching.
+
+- [2019-SQL Optimization #Book#](https://dataschool.com/sql-optimization/): Get exposed to the most common techniques for improving query speed and database performance. Learn how to optimize queries by modifying SQL. Understand how indexes work and when to apply them.
+
+### Datawarehouse
+
+- [2019-Cloud Data Management #Book#](https://dataschool.com/data-governance/): Learn how to manage your data stack and set up processes to get the most out of your data in your organization.
+
 ## Collection
 
 - [2016-Readings in Databases #Collection#](https://github.com/rxin/db-readings): A list of papers essential to understanding databases and building new data systems.
