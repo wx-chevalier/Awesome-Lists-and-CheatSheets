@@ -12,20 +12,8 @@
 
 - [How Do I Find The Largest Top 10 Files and Directories On a Linux / UNIX / BSD?](http://www.cyberciti.biz/faq/how-do-i-find-the-largest-filesdirectories-on-a-linuxunixbsd-filesystem/)
 
-# System & Process
+# Tutorial
 
-## Background
+- [Google-Shell Style Guide](https://google.github.io/styleguide/shell.xml): Shell Files and Interpreter Invocation, Environment, Comments, Formatting, Features and Bugs, Naming Conventions, Calling Commands, Conclusion.
 
-- [Difference between nohup, disown and &](http://unix.stackexchange.com/questions/3886/difference-between-nohup-disown-and)
-
-- [10 Screen Command Examples to Manage Linux Terminals](http://www.tecmint.com/screen-command-examples-to-manage-linux-terminals/)
-
-- [A Quick and Easy Guide to tmux](http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
-
-- [Tmux 速成教程：技巧和调整](http://blog.jobbole.com/87584/)
-
-- [Alternatives to nohup?](http://askubuntu.com/questions/600956/alternatives-to-nohup)
-
-## Web Service
-
-- [beero.cl/ock](https://github.com/hhsnopek/beeroclock): Proof of concept for a bash service.
+- [2018-pure bash bible](https://github.com/dylanaraps/pure-bash-bible): The goal of this book is to document known and unknown methods of doing various tasks using only built-in bash features.

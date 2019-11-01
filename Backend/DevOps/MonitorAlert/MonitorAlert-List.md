@@ -1,10 +1,14 @@
 [![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
 
-# Monitor & Alert Links: 监控与告警资料索引
+# Monitor & Alert Links（监控与告警资料索引）
 
 - [2016-osquery For Security](https://medium.com/@clong/osquery-for-security-b66fffdf2daf): This post contains an overview of how to create an osquery config, centralize the log output, and start creating effective searches and alerts.
 
 - [2018-深入理解 iostat](https://mp.weixin.qq.com/s/nvDudsOmYxLUKblcAtCqng): 现在我们由浅到深地介绍这个工具，它输出的含义什么，介绍它的能力边界，介绍关于这个工具的常见误解。
+
+# Linux（Linux 服务器监控）
+
+- [2019-htop explained](https://peteris.rocks/blog/htop/#before): Explanation of everything you can see in htop/top on Linux.
 
 # Monitor & Alert System | 监控系统
 
@@ -18,4 +22,4 @@
 
 # 智能异常检测
 
-- [2019-如何基于Flink+TensorFlow打造实时智能异常检测平台？](https://mp.weixin.qq.com/s/lKsHvKjbIyBJ5OmCl2fIvg): 携程如何基于 Flink 与 TensorFlow 构建实时智能异常检测平台，以解决规则告警系统准确率低、时效性低、规则配置复杂与耗费人力等诸多问题，实现了业务指标毫秒级延迟与智能化检测，同时依托 Flink 实现了强大的容错机制。
+- [2019-如何基于 Flink+TensorFlow 打造实时智能异常检测平台？](https://mp.weixin.qq.com/s/lKsHvKjbIyBJ5OmCl2fIvg): 携程如何基于 Flink 与 TensorFlow 构建实时智能异常检测平台，以解决规则告警系统准确率低、时效性低、规则配置复杂与耗费人力等诸多问题，实现了业务指标毫秒级延迟与智能化检测，同时依托 Flink 实现了强大的容错机制。
