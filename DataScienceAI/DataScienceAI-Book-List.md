@@ -28,9 +28,11 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2018-AI 算法工程师手册 #Book#](http://www.huaxiaozhuan.com/): 这是作者多年以来学习总结的笔记，经整理之后开源于世。目前还有约一半的内容在陆续整理中，已经整理好的内容放置在此。
 
-- [2019-Math Basics #Book#](http://117.128.6.20/cache/www.cis.upenn.edu/~jean/math-basics.pdf):
+- [2019-Math Basics #Book#](http://117.128.6.20/cache/www.cis.upenn.edu/~jean/math-basics.pdf)
 
 - [2019-Mathematics for Machine Learning #Book#](https://mml-book.github.io): We wrote a book on Mathematics for Machine Learning that motivates people to learn mathematical concepts. The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books.
+
+- [2019-The Little Handbook of Statistical Practice #Book#](http://www.jerrydallal.com/LHSP/LHSP.htm): This is about statistical practice--what happens when a statistician (me) deals with data on a daily basis. 
 
 # Machine Learning | 机器学习
 
