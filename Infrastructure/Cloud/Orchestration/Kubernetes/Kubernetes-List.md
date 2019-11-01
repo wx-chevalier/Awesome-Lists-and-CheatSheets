@@ -62,6 +62,6 @@
 
 - [Kubernetes Tutorial](https://www.tutorialspoint.com/kubernetes/index.htm): This tutorial has been prepared for those who want to understand the containerized infrastructure and deployment of application on containers. This tutorial will help in understanding the concepts of container management using Kubernetes.
 
+- [2018-kubernetes-tutorial #Series#](https://github.com/KeKe-Li/kubernetes-tutorial): Running Kubernetes cluster Locally tutorial.
+
 - [2019-Learning Kubernetes](https://github.com/knrt10/kubernetes-basicLearning): Understand kubernetes step by step. A simple repo for beginners 🔥.
-
-

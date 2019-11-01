@@ -34,7 +34,11 @@
 
 - [Argo Rollouts #Project#](https://github.com/argoproj/argo-rollouts): Argo Rollouts controller, uses the Rollout custom resource to provide additional deployment strategies such as Blue Green and Canary to Kubernetes.
 
-- [Jenkins X #Project#](https://github.com/jenkins-x/jx): Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Tekton, Knative, Prow, Skaffold and Helm
+- [Jenkins X #Project#](https://github.com/jenkins-x/jx): Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Tekton, Knative, Prow, Skaffold and Helm.
+
+- [Werf #Project#](https://github.com/flant/werf): Werf is an Open Source CLI tool written in Golang to implement your application delivery fast & easy.
+
+## GitOps
 
 # Monitor & Alert
 
