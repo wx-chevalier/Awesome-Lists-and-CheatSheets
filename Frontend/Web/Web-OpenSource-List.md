@@ -212,6 +212,8 @@
 
 - [dialog-polyfill.js #Project#](https://github.com/GoogleChrome/dialog-polyfill): Polyfill for the HTML dialog element.
 
+- [Polyfill.io #Project#](https://polyfill.io/v3/api/): Get a bundle of polyfills which have been minified ready for production website use. This endpoint responds with a JavaScript file containing the polyfills which should be served to the requesting browser.
+
 # Browser
 
 - [browsh #Project#](https://github.com/browsh-org/browsh): A fully interactive, realtime, and modern text-based browser rendered to TTYs and browsers
