@@ -10,6 +10,10 @@
 
 - [2019-终于有人把Elasticsearch原理讲透了！](https://zhuanlan.zhihu.com/p/62892586): 以漫画形式讲解 Elastic Search.
 
+## Case Study 
+
+- [2019-日均5亿查询量的京东订单中心，为什么舍MySQL用ES?](https://mp.weixin.qq.com/s/YTYif36zE1e6UsbshRXcRw): 京东到家订单数据存储在MySQL中，但显然只通过DB来支撑大量的查询是不可取的。同时对于一些复杂的查询，MySQL支持得不够友好，所以订单中心系统使用了Elasticsearch来承载订单查询的主要压力。
+
 # Resource
 
 - [Awesome ElasticSearch #Project#](https://github.com/dzharii/awesome-elasticsearch): A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!

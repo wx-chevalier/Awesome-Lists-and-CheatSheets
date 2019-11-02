@@ -62,6 +62,8 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2018-Writing a Microservice in Rust](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/): Let me begin this article on Writing a Microservice in Rust by talking about C++.
 
-## Playground
+## Showcase 
 
 - [native_spark #Project#](https://github.com/rajasekarv/native_spark): A new arguably faster implementation of Apache Spark from scratch in Rust.
+
+- [2019-Bayard #Project#](https://github.com/mosuka/bayard): Bayard is a full-text search and indexing server written in Rust.
