@@ -124,3 +124,7 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 ## PyTorch
 
 ---
+
+# 链接
+
+- https://www.zhihu.com/question/343407265/answer/830912894
