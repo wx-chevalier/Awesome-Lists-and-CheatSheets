@@ -20,6 +20,10 @@ This file aggregates curated popular links for learning GraphQL. More reference 
 
 - [BFF - backend for frontends](https://www.thoughtworks.com/radar/techniques/bff-backend-for-frontends)
 
+- [Pattern: Backends For Frontends](http://samnewman.io/patterns/architectural/bff/)
+
+- [BFF@SoundCloud](https://www.thoughtworks.com/insights/blog/bff-soundcloud)
+
 ## vs REST
 
 - [2016-From REST to GraphQL](https://blog.jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b#.klx32whu6)：从 REST 到 GraphQL 的思维变迁。

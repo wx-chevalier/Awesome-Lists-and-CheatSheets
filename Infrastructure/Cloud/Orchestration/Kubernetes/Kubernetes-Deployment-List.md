@@ -14,6 +14,8 @@
 
 - [2018-Scaling Kubernetes to 2,500 Nodes](https://parg.co/Uke): On the path to this scale, many system components caused breakages, including etcd, the Kube masters, Docker image pulls, network, KubeDNS, and even our machines’ ARP caches.
 
+- [2019-kubeadm-playbook](https://github.com/ReSearchITEng/kubeadm-playbook): Fully fledged (HA) Kubernetes Cluster using official kubeadm, ansible and helm. Tested on RHEL/CentOS/Ubuntu with support of http_proxy, dashboard installed, ingress controller, heapster.
+
 ## HA
 
 - [2019-高可用 kubernetes 集群部署实践](https://yq.aliyun.com/articles/704946): 可用性对基础设施而言至关重要。各大云计算厂商纷纷推出了高可用、可扩展的 k8s 托管服务，其中比较有代表性的有 Amazon EKS、Azure Kubernetes Service (AKS)、Google Kubernetes Engine、阿里云容器服务 Kubernetes 版等。
