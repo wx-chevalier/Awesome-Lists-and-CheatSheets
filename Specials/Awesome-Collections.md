@@ -10,7 +10,7 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 # Sites: Blog & News & Forum | 博客、资讯与论坛
 
-- Content Aggregation Portal: [HackerNews](https://news.ycombinator.com/news), [Reddit](https://www.reddit.com/), [Google+](plus.google.com), [推酷](tuicool.com), [TechMeme](https://www.techmeme.com/), [V2EX](https://www.v2ex.com/), [DZone](dzone.com), [Voat](https://voat.co/)
+- Content Aggregation Portal: [HackerNews](https://news.ycombinator.com/news), [Reddit](https://www.reddit.com/), [Google+](plus.google.com), [推酷](tuicool.com), [TechMeme](https://www.techmeme.com/), [V2EX](https://www.v2ex.com/), [DZone](dzone.com), [Voat](https://voat.co/), [Daily](https://github.com/dailynowco/daily)
 
 - Online Books: [Gitbook](https://www.gitbook.com/), [SafariBooksOnline](https://www.safaribooksonline.com/)
 
@@ -77,16 +77,6 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 # Software Engineering | 软件工程
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
-
-# Web
-
-- [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook): Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore.
-
-- [Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies): A curated list of technical talks and articles about real-world enterprise frontend development
-
-- [How JavaScript works #Series#](https://blog.sessionstack.com/tagged/tutorial): the series dedicated to exploring JavaScript and its building components.
-
-- [2018-Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap): Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops.
 
 # Backend | 服务端应用程序
 

@@ -8,6 +8,12 @@
 
 - [2018-SurveyJS #Project#](https://github.com/surveyjs/survey-library): SurveyJS is a modern way to add surveys and forms to your website. It has versions for angular2+, jQuery, knockout, react and vue.
 
+# CRM
+
+- [2018-SuiteCRM #Project#](https://github.com/salesagility/SuiteCRM): SuiteCRM is the award-winning open-source, enterprise-ready Customer Relationship Management (CRM) software application.
+
+- [2019-MyCollab #Project#](https://github.com/MyCollab/mycollab): Free, open source Project Management software.
+
 # Conferences
 
 - [2014-Alf.io](https://github.com/alfio-event/alf.io): The open source ticket reservation system for conferences, trade shows, workshops, meetups.
