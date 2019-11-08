@@ -36,7 +36,15 @@
 
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): Run code snippet or code file for multiple languages
 
-# Chrome Extensions
+# Web Extension 
+
+## Utils
+
+- [2019-SingleFileZ #Project#](https://github.com/gildas-lormeau/SingleFileZ): SingleFileZ is a Web Extension for saving web pages as self-extracting HTML/ZIP hybrid files.
+
+## Dev
+
+## Chrome Extensions
 
 # Intellij
 

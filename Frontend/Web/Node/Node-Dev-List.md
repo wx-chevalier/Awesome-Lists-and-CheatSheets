@@ -1,21 +1,27 @@
-- [Using ES6 classes for Sequelize 4 models](https://hackernoon.com/using-es6-classes-for-sequelize-4-models-b9fd54a5f8c9?source=linkShare-fe48c4221a4c-1526129263)
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
 
-# SysProc
+# Node.js 工程实践资料索引
 
-- [2018-Threads in Node 10.5.0: a practical intro](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953): So I’m going to try and simplify the technical documentation provided by the initial PR and the official docs into a more practical and simple set of examples.
+- [2017-Node.js Best Practices](https://github.com/i0natan/nodebestpractices): The largest Node.JS best practices list. Curated from the top ranked articles and always updated.
 
-- [2018-Getting to know Node’s child_process module](https://medium.com/the-guild/getting-to-know-nodes-child-process-module-8ed63038f3fa): How to call git, cpp, sh, etc, from a Node.JS script.
+- [Advanced Node.js Project Structure Tutorial - Node.js at Scale](https://blog.risingstack.com/node-js-project-structure-tutorial-node-js-at-scale/)
 
-# Storage
+# Debug
 
-## MySQL
+- [2017-How to Debug Node.js with the Best Tools Available](https://blog.risingstack.com/how-to-debug-nodej-js-with-the-best-tools-available/): We will dive into two different aspects of debugging Node.js applications - the first one will be logging, so you can keep an eye on production systems, and have events from there. After logging, we will take a look at how you can debug your applications in development environments.
 
-## ORM
+- [2017-Debugging remote Node.js application running in a Docker container](https://parg.co/byP)
 
-## Redis
+- [2017-Debugging Memory Leaks and Memory Bloat in Node.js](https://parg.co/UEi): The goal of this article is to make them no more of a problem than your average bug.
 
-- [node_redis #Project#](https://github.com/NodeRedis/node_redis): This is a complete and feature rich Redis client for node.js. It supports all Redis commands and focuses on high performance.
+# Test
 
-- [ioredis #Project#](https://github.com/luin/ioredis): A robust, performance-focused and full-featured Redis client for Node and io.js.
+- [初识 mocha in NodeJS](https://cnodejs.org/topic/516526766d38277306c7d277)
 
-- [Radredis #Project#](https://github.com/bustle/radredis): Radredis is a node data adapter for redis. It is not a full ORM but a simple opinionated interface for storing application data in redis.
+- [Node Hero - Node.js Unit Testing Tutorial](https://blog.risingstack.com/node-hero-node-js-unit-testing-tutorial/)
+
+- [2017-A crash course on testing with Node.js](https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02): These masters of their craft, always cover code with tests, to ensure their work is valid.
+
+# Logging
+
+- [Better Logging in Nodejs](http://www.tuicool.com/articles/3iAFjev)
