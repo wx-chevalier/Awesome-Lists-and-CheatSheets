@@ -24,6 +24,10 @@
 
 - [2019-今日头条在消息服务平台和容灾体系建设方面的实践与思考](https://mp.weixin.qq.com/s/qsLNavqAhYv49r6WTAJy9w): 今日头条的业务背景；为什么选择 RocketMQ；RocketMQ 在头条的落地实践；头条的容灾系统建设。
 
+## Spec
+
+- [2019-Cloud Events](https://github.com/cloudevents/spec): CloudEvents is a specification for describing event data in common formats to provide interoperability across services, platforms and systems.
+
 # System Design
 
 - [2016-消息队列设计精要](https://tech.meituan.com/2016/07/01/mq-design.html): 当你需要使用消息队列时，首先需要考虑它的必要性。可以使用 mq 的场景有很多，最常用的几种，是做业务解耦/最终一致性/广播/错峰流控等。反之，如果需要强一致性，关注业务逻辑的处理结果，则 RPC 显得更为合适。
