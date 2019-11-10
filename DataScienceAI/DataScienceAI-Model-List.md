@@ -17,6 +17,8 @@
 
 - [SPTAG #Project#](https://github.com/microsoft/SPTAG): A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
 
+- [Spleeter #Project#](https://github.com/deezer/spleeter): Spleeter is the Deezer source separation library with pretrained models written in Python and uses Tensorflow.
+
 ## Reinforcement Learning
 
 - [2019-TensorTrade #Project#](https://github.com/notadamking/tensortrade): An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
@@ -28,6 +30,8 @@
 ## Language Representation
 
 - [2018-BERT #Project#](https://github.com/google-research/bert): BERT is method of pre-training language representations, meaning that we train a general-purpose "language understanding" model on a large text corpus (like Wikipedia), and then use that model for downstream NLP tasks that we care about (like question answering). [海量中文预训练 ALBERT 模型](https://github.com/brightmart/albert_zh)。
+
+- [2019-gpt-2 #Project#](https://github.com/openai/gpt-2): Code and models from the paper "Language Models are Unsupervised Multitask Learners".
 
 ## ASR & TTL
 

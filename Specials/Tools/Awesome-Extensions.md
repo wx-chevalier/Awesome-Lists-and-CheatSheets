@@ -2,6 +2,24 @@
 
 # Awesome Extensions
 
+# Chrome
+
+- IE Tab: 仅支持 Windows 系统，能够在标签中以 IE 内核显示网页。
+
+- [Chrono 下载管理器](http://6me.us/PFn)
+
+- [Save to Pocket](http://6me.us/Zp5): 允许将浏览的网页保存到 Pocket
+
+- [Evernote Web Clipper](http://6me.us/6ldwK7)
+
+- [Mercury Reader: 自定义阅读体验](http://6me.us/8hOKsH)
+
+- [Google Scholar Button](http://6me.us/wXicA0)
+
+- 链接缩略: [Goog.gl URL Shortener](http://6me.us/vaJuM3)
+
+- 截图工具: [Awesome Screenshot](http://6me.us/lzEw), [Chrome Remote Desktop](http://6me.us/55h)
+
 # VSCode Extensions
 
 - [ASCIIDecorator](https://marketplace.visualstudio.com/items?itemName=helixquar.asciidecorator): A VS Code extension that turns text to ASCII.
@@ -36,7 +54,7 @@
 
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): Run code snippet or code file for multiple languages
 
-# Web Extension 
+# Web Extension
 
 ## Utils
 
