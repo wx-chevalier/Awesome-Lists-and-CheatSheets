@@ -49,3 +49,7 @@
 - [2019-Editor.js #Project#](https://github.com/codex-team/editor.js): A block-styled editor with clean JSON output.
 
 - [2019-React Page #Project#](https://github.com/react-page/react-page): Next-gen, highly customizable content editor for the browser - based on React and Redux and written in TypeScript. WYSIWYG on steroids.
+
+## Tutorials
+
+- [2019-一篇文章彻底搞定富文本原理 + 实战](https://mp.weixin.qq.com/s/tx8y00WXa0OWFEnmSj5caw): 但我自己对富文本又没什么了解，所以顺带稍微看了下富文本的实现方式，特此来沉淀一下。

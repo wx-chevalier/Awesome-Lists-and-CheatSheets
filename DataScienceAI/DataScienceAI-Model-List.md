@@ -100,3 +100,9 @@
 - [2018-Doodle Master #Project#](https://github.com/karanchahal/DoodleMaster): The Doodle Master seeks to turn your UI mockups into real code. Currently this repository just serves to demonstrate a Proof Of Concept of Artificially Intelligent Design Tools.
 
 - [A simple neural network for python autocompletion](https://github.com/vpj/python_autocomplete): This a toy project we started to see how well a simple LSTM model can autocomplete python code.
+
+# Application 
+
+## Recommend System 
+
+- [2019-DeepCTR：易用可扩展的深度学习点击率预测算法包](https://zhuanlan.zhihu.com/p/53231955): 这个项目主要是对目前的一些基于深度学习的点击率预测算法进行了实现，如PNN, WDL,DeepFM,MLR,DeepCross,AFM,NFM,DIN,DIEN,xDeepFM,AutoInt等,并且对外提供了一致的调用接口。
