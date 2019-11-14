@@ -47,3 +47,5 @@
 # Time Series
 
 - [Time Series Analysis in Python: An Introduction](https://parg.co/UV4): Additive models for time series modeling.
+
+- [2019-Time Series Prediction - A short introduction for pragmatists](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices): This blog post will provide a comparison of the most prominent techniques and show you how to implement them.
