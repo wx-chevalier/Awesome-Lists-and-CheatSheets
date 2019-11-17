@@ -4,6 +4,14 @@
 
 - [Slack-Term #Project#](https://github.com/erroneousboat/slack-term): A Slack client for your terminal.
 
+# Showcase
+
+## Game
+
+- [2019-Snake #Project#](https://github.com/tristangoossens/snake-go): This is a Terminal based snake game made by tristangoossens.
+
+- [2019-OpenDiablo2 #Project#](https://github.com/OpenDiablo2/OpenDiablo2): OpenDiablo2 is an ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2. The engine is written in golang and is cross platform.
+
 # Toolkits
 
 - [Anko #Project#](https://github.com/mattn/anko): Anko is a scriptable interpreter written in Go.
@@ -26,7 +34,7 @@
 
 - [2018-wire #Project#](https://github.com/google/wire): Compile-time Dependency Injection for Go
 
-# Development Library
+# Dev
 
 ## Configuration
 
@@ -47,6 +55,8 @@
 - [gojay #Project#](https://github.com/francoispqt/gojay): Highly performant JSON encoder/decoder with powerful stream API for Golang.
 
 - [2018-jstream #Project#](https://github.com/bcicen/jstream): jstream is a streaming JSON parser and value extraction library for Go.
+
+- [2019-Package validator #Project#](https://github.com/go-playground/validator): 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
 
 # Network
 

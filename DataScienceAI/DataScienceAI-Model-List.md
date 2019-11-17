@@ -33,9 +33,11 @@
 
 - [2019-gpt-2 #Project#](https://github.com/openai/gpt-2): Code and models from the paper "Language Models are Unsupervised Multitask Learners".
 
-## ASR & TTL
+## ASR & TTS
 
 - [ASRT_SpeechRecognition #Project#](https://github.com/nl8590687/ASRT_SpeechRecognition): A Deep-Learning-Based Chinese Speech Recognition System.
+
+- [2019-Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning): SV2TTS is a three-stage deep learning framework that allows to create a numerical representation of a voice from a few seconds of audio, and to use it to condition a text-to-speech model trained to generalize to new voices.
 
 ## RNN
 
@@ -45,9 +47,13 @@
 
 ## Knowledge Graph | 知识图谱
 
-- [基于医药知识图谱的智能问答系统](https://github.com/YeYzheng/KGQA-Based-On-medicine): 这是一个基于 Python 模块 REfO 实现的知识库问答初级系统. 该问答系统可以解析输入的自然语言问句生成 SPARQL 查询，进一步请求后台基于 TDB 知识库的 Apache Jena Fuseki 服务, 进而得到问题的结果。
+- [基于医药知识图谱的智能问答系统 #Project#](https://github.com/YeYzheng/KGQA-Based-On-medicine): 这是一个基于 Python 模块 REfO 实现的知识库问答初级系统. 该问答系统可以解析输入的自然语言问句生成 SPARQL 查询，进一步请求后台基于 TDB 知识库的 Apache Jena Fuseki 服务, 进而得到问题的结果。
 
 - [2019-KnowledgeGraphData #Project#](https://github.com/ownthink/KnowledgeGraphData): 知识就是力量，知识图谱是人工智能新时代的产物，简单地说知识图谱就是通过关联关系将知识组成网状的结构，然后我们的人工智能可以通过这个图谱来认识其代表的这一个现实事件，这个事件可以是现实，也可以是虚构的。
+
+## Others
+
+- [2017-用深度学习对对联 #Project#](https://github.com/wb14123/seq2seq-couplet): This is a project use seq2seq model to play couplets (对对联)。 This project is written with Tensorflow. You can try the demo at https://ai.binwang.me/couplet.
 
 # Game | 游戏
 
@@ -101,8 +107,8 @@
 
 - [A simple neural network for python autocompletion](https://github.com/vpj/python_autocomplete): This a toy project we started to see how well a simple LSTM model can autocomplete python code.
 
-# Application 
+# Application
 
-## Recommend System 
+## Recommend System
 
-- [2019-DeepCTR：易用可扩展的深度学习点击率预测算法包](https://zhuanlan.zhihu.com/p/53231955): 这个项目主要是对目前的一些基于深度学习的点击率预测算法进行了实现，如PNN, WDL,DeepFM,MLR,DeepCross,AFM,NFM,DIN,DIEN,xDeepFM,AutoInt等,并且对外提供了一致的调用接口。
+- [2019-DeepCTR：易用可扩展的深度学习点击率预测算法包](https://zhuanlan.zhihu.com/p/53231955): 这个项目主要是对目前的一些基于深度学习的点击率预测算法进行了实现，如 PNN, WDL,DeepFM,MLR,DeepCross,AFM,NFM,DIN,DIEN,xDeepFM,AutoInt 等,并且对外提供了一致的调用接口。

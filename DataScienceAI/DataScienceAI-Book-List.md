@@ -32,7 +32,7 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2019-Mathematics for Machine Learning #Book#](https://mml-book.github.io): We wrote a book on Mathematics for Machine Learning that motivates people to learn mathematical concepts. The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books.
 
-- [2019-The Little Handbook of Statistical Practice #Book#](http://www.jerrydallal.com/LHSP/LHSP.htm): This is about statistical practice--what happens when a statistician (me) deals with data on a daily basis. 
+- [2019-The Little Handbook of Statistical Practice #Book#](http://www.jerrydallal.com/LHSP/LHSP.htm): This is about statistical practice--what happens when a statistician (me) deals with data on a daily basis.
 
 # Machine Learning | 机器学习
 
@@ -120,6 +120,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 - [2017-TensorFlow Book #Book#](https://github.com/BinRoot/TensorFlow-Book): Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
 
 - [2019-简单粗暴 TensorFlow 2.0 | A Concise Handbook of TensorFlow 2.0 #Book#](https://tf.wiki): 这是一本简明的 TensorFlow 2.0 入门指导手册，基于 Keras 和 Eager Execution（即时运行）模式，力图让具备一定机器学习及 Python 基础的开发者们快速上手 TensorFlow 2.0。
+
+- [2019-深度学习开源书，基于 TensorFlow 2.0 实战](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book): Open source Deep Learning book, based on TensorFlow 2.0 framework.
 
 ## PyTorch
 

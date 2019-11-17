@@ -54,15 +54,17 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 - [InterviewMap #Project#](https://github.com/InterviewMap/InterviewMap): uild the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 
-- [CS-Notes #Project#](https://github.com/CyC2018/CS-Notes): 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计
+- [CS-Notes #Collection#](https://github.com/CyC2018/CS-Notes): 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计
 
 - [2018-Interviews #Collection#](https://github.com/kdn251/interviews): Everything you need to know to get the job.
 
 - [2018-Interview_Notes-Chinese #Collection#](https://github.com/imhuay/Interview_Notes-Chinese): 2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记
 
-- [google-interview-university](https://github.com/jwasham/google-interview-university#recursion)
+- [google-interview-university #Collection#](https://github.com/jwasham/google-interview-university#recursion)
 
-- [2019-Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook): This repository has practical content that covers all phases of a technical interview, from applying for a job to passing the interviews to offer negotiation. Technically competent candidates might still find the non-technical content helpful as well.
+- [2019-Tech Interview Handbook #Collection#](https://github.com/yangshun/tech-interview-handbook): This repository has practical content that covers all phases of a technical interview, from applying for a job to passing the interviews to offer negotiation. Technically competent candidates might still find the non-technical content helpful as well.
+
+- [2019-Awesome Interviews #Collection#](https://github.com/MaximAbramchuck/awesome-interview-questions): :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
 
 # Programming Language | 编程语言
 

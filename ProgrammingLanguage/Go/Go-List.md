@@ -95,7 +95,3 @@ This file aggregates curated popular links for learning Golang. More reference a
 - [2018-How to start a Go project in 2018](https://boyter.org/posts/how-to-start-go-project-2018/): Getting started with a Go project in 2018 is frankly a little more painful then getting anything else started IMHO.
 
 - [2017-The ultimate guide to writing a Go tool · Fatih Arslan](https://arslan.io/2017/09/14/the-ultimate-guide-to-writing-a-go-tool/)
-
-## Showcase
-
-- [2019-Snake #Project#](https://github.com/tristangoossens/snake-go): This is a Terminal based snake game made by tristangoossens.
