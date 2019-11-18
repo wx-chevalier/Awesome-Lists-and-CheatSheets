@@ -34,6 +34,10 @@
 
 ## Feature Engineering
 
+## Time Series
+
+- [2019-adtk #Project#](https://github.com/arundo/adtk): A Python toolkit for unsupervised anomaly detection in time series
+
 # Machine Learning
 
 - [NumPy #Project#](http://www.numpy.org/): NumPy is the fundamental package for scientific computing with Python.
@@ -161,3 +165,9 @@
 ## Federated Learning
 
 - [FATE #Project#](https://github.com/webankfintech/fate): 微众银行 AI 团队自主研发的全球首个工业级联邦学习框架 FATE（Federated AI Technology Enabler），提供基于数据隐私保护的分布式安全计算框架，为机器学习、深度学习、迁移学习算法提供高性能的安全计算支持，此外，FATE 还提供友好的跨域交互信息管理方案，能够解决联邦学习信息安全审计难问题。
+
+# Application
+
+## Self Driving
+
+- [2019-selfdrive #Project#](https://github.com/littlemountainman/selfdrive): Autopilot written in Keras for Self Driving Cars.
