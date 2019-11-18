@@ -1,20 +1,18 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists) 
+[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
 
 # CSS 命名规范与模块化资料索引
 
-- [CSS 模块化与工程化演进](https://mp.weixin.qq.com/s/1QkGy9UbRF3FtyBllmJdmA)
-
-- [RSCSS-CSS 样式结构建议](https://github.com/rstacruz/rscss)
-
 - [Thoughtful CSS Architecture](https://seesparkbox.com/foundry/thoughtful_css_architecture)
-
-- [2017-基于 Shadow DOM 的样式封装](https://meowni.ca/posts/shadow-dom/)：Shadow DOM 是 Web Components 标准的重要组成部分，它能够将 DOM 树进行隔离封装，而本文则是介绍如何利用 Shadow DOM 实现对于样式类的隔离封装。由于 CSS 并没有提供内置的模块化或者作用域机制，而在大型项目中不同组件间的样式又极易引发冲突，因此我们需要选择合适的 CSS 样式隔离方案。目前常用的隔离方案有 BEM 命名策略、IFrame、CSS Modules、CSS-in-JS 等，本文首先盘点了这些方案的优势与不足；然后介绍了 Shadow DOM 的基本原理以及如何应用到样式封装上。
 
 - [css-architecture](http://philipwalton.com/articles/css-architecture/)
 
 - [mediums-css-is-actually-pretty-fucking-good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06#.p4vui6i9h)
 
-- [maintainablecss](http://maintainablecss.com/chapters/semantics/)
+# Modularity | 模块化
+
+- [CSS 模块化与工程化演进](https://mp.weixin.qq.com/s/1QkGy9UbRF3FtyBllmJdmA)
+
+- [RSCSS-CSS 样式结构建议](https://github.com/rstacruz/rscss)
 
 - [Improving CSS quality at Facebook and beyond](https://code.facebook.com/posts/879890885467584)
 
@@ -22,11 +20,15 @@
 
 - [CSS Naming Conventions that Will Save You Hours of Debugging](https://parg.co/UkE)
 
-# Naming Conventions | 命名规范
+- [2017-CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/): Writing CSS this way can evoke a pretty visceral reaction from a lot of developers, so I'd like to explain how I got to this point and share some of the lessons and insights I've picked up along the way.
+
+# Semantic & Naming Conventions | 命名规范
+
+# Less
 
 # SCSS
 
-- [What’s the Difference Between Sass and SCSS?](https://www.sitepoint.com/whats-difference-sass-scss/): When we talk about Sass, we usually refer to the preprocessor and the language as a whole. 
+- [What’s the Difference Between Sass and SCSS?](https://www.sitepoint.com/whats-difference-sass-scss/): When we talk about Sass, we usually refer to the preprocessor and the language as a whole.
 
 - [What are the best CSS preprocessors/postprocessors?](http://www.slant.co/topics/217/~css-preprocessors-postprocessors)
 
