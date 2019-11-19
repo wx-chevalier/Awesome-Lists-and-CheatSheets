@@ -58,6 +58,8 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 - [2019-Deep dive: How do React hooks really work?](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/): In this article, we reintroduce closures by building a tiny clone of React Hooks. This will serve two purposes – to demonstrate the effective use of closures, and to show how you can build a Hooks clone in just 29 lines of readable JS. Finally, we arrive at how Custom Hooks naturally arise.
 
+- [2018-详细 preact hook 源码逐行解析](https://mp.weixin.qq.com/s/LRvVZUDywdsVjKbLP_4zbw): 本文通过对preact的hook源码分析，理解和掌握react/preact的hook用法以及一些常见的问题。
+
 # Style | 样式处理
 
 ## CSS
