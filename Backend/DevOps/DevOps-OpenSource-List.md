@@ -38,6 +38,8 @@
 
 - [Werf #Project#](https://github.com/flant/werf): Werf is an Open Source CLI tool written in Golang to implement your application delivery fast & easy.
 
+- [2019-BK CI #Project#](https://github.com/Tencent/bk-ci): 蓝鲸持续集成平台（代号蓝盾）是一个开源的持续集成和持续交付系统，目前服务于腾讯 10000+开发人员，现已成为公司指定的 CI 平台。另外，她也获得行业至今为止唯一一个 4 级认证的 DevOps 标准。
+
 ## GitOps
 
 # Monitor & Alert

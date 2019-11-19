@@ -60,25 +60,7 @@
 
 # Relational Database
 
-## MySQL
-
-- [Freno #Project#](https://github.com/github/freno): Cooperative, highly available throttler service: clients use freno to throttle writes to a resource.
-
-### Tools
-
-- [mycli #Project#](https://github.com/dbcli/mycli): A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-
-- [Percona Toolkit #Project#](https://github.com/percona/percona-toolkit): Percona Toolkit is a collection of advanced command-line tools used by Percona support staff to perform a variety of MySQL and system tasks that are too difficult or complex to perform manually.
-
-- [gh-ost #Project#](https://github.com/github/gh-ost): gh-ost is a triggerless online schema migration solution for MySQL.
-
-- [2017-OnlineSchemaChange #Project#](https://github.com/facebookincubator/OnlineSchemaChange): A tool for performing online schema changes on MySQL.
-
-- [2019-Yearning #Project#](https://github.com/cookieY/Yearning): MYSQL web 端 SQL 审核平台。
-
-### HA
-
-- [Orchestrator #Project#](https://github.com/github/orchestrator): MySQL replication topology management and HA
+- [2019-MySQL #Project#](https://www.mysql.com/): The world's most popular open source database.
 
 ## Sharding
 
@@ -116,29 +98,11 @@
 
 - [search-index #Project#](https://github.com/fergiemcdowall/search-index): A persistent, network resilient, full text search library for the browser and Node.js.
 
+- [wwsearch #Project#](https://github.com/Tencent/wwsearch): A full-text search engine supporting massive users, real-time updating, fast fuzzy matching and flexible table splitting.
+
 ## MongoDB
 
 - [MemDB #Project#](https://github.com/rain1017/memdb): Distributed Transactional In-Memory Database.
-
-## Elastic Search
-
-- [elasticsearch_queryAPI](http://leequangang.github.io/tech/2013/12/02/elasticsearch_queryAPI.html#match-query)
-
-- [Search Guard SSL #Project#](https://github.com/floragunncom/search-guard-ssl): Search Guard SSL is a free and Open Source plugin for Elasticsearch which provides SSL/TLS for Elasticsearch.
-
-- [Found Play](https://www.found.no/play#): JSFiddle-like playground for Elasticsearch;
-
-- [ElasticHQ](http://www.elastichq.org/index.html)
-
-- [elasticsearch-dump](https://github.com/taskrabbit/elasticsearch-dump):Import and export tools for elasticsearch
-
-- [Yelp-elastalert](https://github.com/Yelp/elastalert):Easy & Flexible Alerting With ElasticSearch
-
-- [Kibana](https://github.com/elastic/kibana)：[Kibana 4 权威指南](http://www.code123.cc/docs/kibana-logstash/v4/index.html)
-
-- [dejavu](https://github.com/appbaseio/dejavu): dejavu is the missing web UI for Elasticsearch.
-
-- [Searchkit #Project#](https://github.com/searchkit/searchkit): React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
 
 # Graph Database
 
