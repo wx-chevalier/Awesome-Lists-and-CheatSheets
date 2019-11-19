@@ -2,7 +2,11 @@
 
 # Editor
 
-## 协同编辑
+## Todo Notes
+
+- [2019-Joplin #Project#](https://github.com/laurent22/joplin): a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+
+## Collaborative Editing（协同编辑）
 
 - [gollum #Project#](https://github.com/gollum/gollum): Gollum is a simple wiki system built on top of Git. A Gollum Wiki is simply a git repository (either bare or regular) of a specific nature.
 

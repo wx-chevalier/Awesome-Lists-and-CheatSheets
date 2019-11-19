@@ -34,7 +34,9 @@
 
 - [2017-Spellbook of Modern Web Dev #Book#](https://parg.co/bv9): A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 
-- [Grab Front End Guide #Book#](https://github.com/grab/front-end-guide): Study guide and introduction to the modern front end stack.
+- [2017-Grab Front End Guide #Book#](https://github.com/grab/front-end-guide): Study guide and introduction to the modern front end stack.
+
+- [2018-MaintainableCSS #Book#](https://maintainablecss.com/): Write CSS without worrying that overzealous, pre-existing styles will cause problems. MaintainableCSS is an approach to writing modular, scalable and maintainable CSS.
 
 ## Blog | 博客
 

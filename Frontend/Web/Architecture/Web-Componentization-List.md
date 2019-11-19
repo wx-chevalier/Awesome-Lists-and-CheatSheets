@@ -27,3 +27,7 @@
 - [神奇的 Shadow DOM](https://aotu.io/notes/2016/06/24/Shadow-DOM/)
 
 - [Web Components as successor to jQuery](https://gist.github.com/warpech/9431953)
+
+## Shadow DOM
+
+- [2017-基于 Shadow DOM 的样式封装](https://meowni.ca/posts/shadow-dom/)：Shadow DOM 是 Web Components 标准的重要组成部分，它能够将 DOM 树进行隔离封装，而本文则是介绍如何利用 Shadow DOM 实现对于样式类的隔离封装。由于 CSS 并没有提供内置的模块化或者作用域机制，而在大型项目中不同组件间的样式又极易引发冲突，因此我们需要选择合适的 CSS 样式隔离方案。目前常用的隔离方案有 BEM 命名策略、IFrame、CSS Modules、CSS-in-JS 等，本文首先盘点了这些方案的优势与不足；然后介绍了 Shadow DOM 的基本原理以及如何应用到样式封装上。

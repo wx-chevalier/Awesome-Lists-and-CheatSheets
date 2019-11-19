@@ -20,6 +20,10 @@
 
 - 截图工具: [Awesome Screenshot](http://6me.us/lzEw), [Chrome Remote Desktop](http://6me.us/55h)
 
+## Web Development
+
+- [Responsive Viewer](https://github.com/skmail/responsive-viewer): Chrome extension to show multiple screens in one view.
+
 # VSCode Extensions
 
 - [ASCIIDecorator](https://marketplace.visualstudio.com/items?itemName=helixquar.asciidecorator): A VS Code extension that turns text to ASCII.
