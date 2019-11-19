@@ -4,14 +4,17 @@
 
 本文包含了一些基于人工智能、机器学习、深度学习等技术，实现的有趣的模型、应用、案例。
 
-- [2019-Deep Learning Models](https://github.com/rasbt/deeplearning-models):
-  A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
+# Collections
 
-- [PyTorch Hub](https://pytorch.org/hub): PyTorch Hub 包含一个经过预训练的模型库，专门用于促进研究的可重复性和快速开展新的研究。PyTorch Hub 内置了对 Colab 的 支持，并且能够与 Papers With Code 集成。目前 PyTorch Hub 已包含一系列广泛的模型，包括分类器和分割器、生成器、变换器等。
+- [2019-Deep Learning Models #Collection# #Project#](https://github.com/rasbt/deeplearning-models): A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
 
-- [Papers with Code](https://paperswithcode.com)
+- [PyTorch Hub #Collection# #Project#](https://pytorch.org/hub): PyTorch Hub 包含一个经过预训练的模型库，专门用于促进研究的可重复性和快速开展新的研究。PyTorch Hub 内置了对 Colab 的 支持，并且能够与 Papers With Code 集成。目前 PyTorch Hub 已包含一系列广泛的模型，包括分类器和分割器、生成器、变换器等。
 
-- [UER-py #Project#](https://github.com/dbiir/UER-py): Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo
+- [Papers with Code #Collection# #Project#](https://paperswithcode.com)
+
+- [UER-py #Project#](https://github.com/dbiir/UER-py): Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo.
+
+- [google-research #Collection# #Project#](https://github.com/google-research/google-research): This repository contains code released by Google AI Research.
 
 # Machine Learning
 
