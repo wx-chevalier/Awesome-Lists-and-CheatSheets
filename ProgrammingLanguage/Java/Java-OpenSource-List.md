@@ -2,7 +2,38 @@
 
 # Java OpenSource List | Java 开源框架与工具索引
 
-# Utils
+# Dev Toolkits
+
+## Static Analysis | 静态分析
+
+- [CheckStyle #Project#](http://checkstyle.sourceforge.net/):
+  Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard.
+
+- [Cobertura #Project#](http://cobertura.github.io/cobertura/): Cobertura is a free Java tool that calculates the percentage of code accessed by tests.
+
+- [FindBugs #Project#](http://findbugs.sourceforge.net/): A program which uses static analysis to look for bugs in Java code.
+
+- [SourceMonitor #Project#](http://www.campwoodsw.com/sourcemonitor.html): The freeware program SourceMonitor lets you see inside your software source code to find out how much code you have and to identify the relative complexity of your modules.
+
+- [PMD #Project#](https://pmd.github.io/): PMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth.
+
+- [Simian - Similarity Analyser](http://www.harukizaemon.com/simian/installation.html): Simian (Similarity Analyser) identifies duplication in Java, C#, C, C++, COBOL, Ruby, JSP, ASP, HTML, XML, Visual Basic, Groovy source code and even plain text files. In fact, simian can be used on any human readable files such as ini files, deployment descriptors, you name it.
+
+## Test | 测试工具
+
+- [REST Assured #Project#](https://github.com/rest-assured/rest-assured): Testing and validation of REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain. languages into the Java domain.
+
+## Deployment | 部署
+
+- [Capsule #Project#](http://www.capsule.io/user-guide/#getting-capsule): Dead-Simple Packaging and Deployment for JVM Apps.
+
+- [Launch4j #Project#](http://launch4j.sourceforge.net/): Launch4j is a cross-platform tool for wrapping Java applications distributed as jars in lightweight Windows native executables.
+
+- [Warp #Project#](https://github.com/dgiagio/warp): Warp lets you create self-contained single binary applications making it simpler and more ergonomic to deliver your application to your customers.
+
+- [2018-Amazon Corretto #Project#](https://github.com/corretto/corretto-8): Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK
+
+# Frameworks & Utils
 
 - [Guava #Project#](https://github.com/google/guava): Guava is a set of core libraries that includes new collection types (such as multimap and multiset), immutable collections, a graph library, functional types, an in-memory cache, and APIs/utilities for concurrency, IO, hashing, primitives, reflection, string processing, and much more!
 
@@ -122,8 +153,6 @@
 
 - [2018-Arthas #Project#](https://github.com/alibaba/arthas): Arthas 是 Alibaba 开源的 Java 诊断工具，深受开发者喜爱。
 
-- JIP，housemd，btrace，greys
-
 - [Jolokia](https://jolokia.org/): Remote JMX with JSON over HTTP.
 
 ## AOP Dynamic Tracing
@@ -132,40 +161,11 @@
 
 - [JVM Sandbox #Project#](https://github.com/alibaba/jvm-sandbox): Real - time non-invasive AOP framework container based on JVM.
 
+- JIP，housemd，btrace，greys
+
 ## JIT
 
 - [2018-Java Grinder #Project#](https://github.com/mikeakohn/java_grinder): Compile Java bytecode to microcontroller assembly.
-
-# Toolkits
-
-## Static Analysis | 静态分析
-
-- [CheckStyle #Project#](http://checkstyle.sourceforge.net/):
-  Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard.
-
-- [Cobertura #Project#](http://cobertura.github.io/cobertura/): Cobertura is a free Java tool that calculates the percentage of code accessed by tests.
-
-- [FindBugs #Project#](http://findbugs.sourceforge.net/): A program which uses static analysis to look for bugs in Java code.
-
-- [SourceMonitor #Project#](http://www.campwoodsw.com/sourcemonitor.html): The freeware program SourceMonitor lets you see inside your software source code to find out how much code you have and to identify the relative complexity of your modules.
-
-- [PMD #Project#](https://pmd.github.io/): PMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth.
-
-- [Simian - Similarity Analyser](http://www.harukizaemon.com/simian/installation.html): Simian (Similarity Analyser) identifies duplication in Java, C#, C, C++, COBOL, Ruby, JSP, ASP, HTML, XML, Visual Basic, Groovy source code and even plain text files. In fact, simian can be used on any human readable files such as ini files, deployment descriptors, you name it.
-
-## Test | 测试工具
-
-- [REST Assured #Project#](https://github.com/rest-assured/rest-assured): Testing and validation of REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain. languages into the Java domain.
-
-## Deployment | 部署
-
-- [Capsule #Project#](http://www.capsule.io/user-guide/#getting-capsule): Dead-Simple Packaging and Deployment for JVM Apps.
-
-- [Launch4j #Project#](http://launch4j.sourceforge.net/): Launch4j is a cross-platform tool for wrapping Java applications distributed as jars in lightweight Windows native executables.
-
-- [Warp #Project#](https://github.com/dgiagio/warp): Warp lets you create self-contained single binary applications making it simpler and more ergonomic to deliver your application to your customers.
-
-- [2018-Amazon Corretto #Project#](https://github.com/corretto/corretto-8): Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK
 
 # 链接
 
