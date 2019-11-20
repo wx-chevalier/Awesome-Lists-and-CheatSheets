@@ -14,6 +14,8 @@
 
 - [Go 1.11 Modules](https://parg.co/01g): Go 1.11 includes preliminary support for versioned modules as proposed here.
 
+- [2018-go-modules-by-example #Series#](https://github.com/go-modules-by-example/index): Go modules by example is a series of work-along guides.
+
 - [2019-Using Go Modules](https://blog.golang.org/using-go-modules): This blog post is a tutorial to introduction to the basic operations needed to get started using modules. A followup post will cover releasing modules for others to use.
 
 # Function
