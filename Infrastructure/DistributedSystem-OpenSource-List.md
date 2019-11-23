@@ -78,6 +78,8 @@
 
 - [2018-Waltz #Project#](https://github.com/wepay/waltz): Waltz is a quorum-based distributed write-ahead log for replicating transactions.
 
+- [2018-TubeMQ #Project#](https://github.com/Tencent/TubeMQ): TubeMQ focuses on high-performance storage and transmission of massive data in big data scenarios
+
 # Processing Engine
 
 - [hazelcast-jet #Project#](https://github.com/hazelcast/hazelcast-jet): A general purpose distributed data processing engine, built on top of Hazelcast.
