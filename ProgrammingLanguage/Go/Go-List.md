@@ -18,6 +18,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2018-Proposal: Go 2 transition](https://github.com/golang/proposal/blob/master/design/28221-go2-transitions.md): A proposal for how to make incompatible changes from Go 1 to Go 2 while breaking as little as possible.
 
+- [2019-The Value in Go's Simplicity](https://benjamincongdon.me/blog/2019/11/11/The-Value-in-Gos-Simplicity/): After using Go for a couple years, I’ve really come to appreciate its simplicity. I started writing Go at work a couple months ago, and have found it really easy to iterate on – much more so than Python and Java.
+
 ## Case Study
 
 - [2018-Uber-Code Migration in Production](https://eng.uber.com/schemaless-rewrite/): Rewriting the Sharding Layer of Uber’s Schemaless Datastore.

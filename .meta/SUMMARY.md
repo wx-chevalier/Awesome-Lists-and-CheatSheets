@@ -491,7 +491,7 @@
     - [MongoDB](../Infrastructure/Database/Document/MongoDB/README.md) 
       - [MongoDB-List](../Infrastructure/Database/Document/MongoDB/MongoDB-List.md) 
   - [Graph](../Infrastructure/Database/Graph/README.md) 
-    - [Graph-List](../Infrastructure/Database/Graph/Graph-List.md) 
+    - [GraphDB-List](../Infrastructure/Database/Graph/GraphDB-List.md) 
   - [KeyValue](../Infrastructure/Database/KeyValue/README.md) 
     - [LevelDB](../Infrastructure/Database/KeyValue/LevelDB/README.md) 
       - [LevelDB-List](../Infrastructure/Database/KeyValue/LevelDB/LevelDB-List.md) 
