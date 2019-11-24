@@ -100,6 +100,10 @@
 
 - [2019-marktext #Project#](https://github.com/marktext/marktext): 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
+# Others
+
+- [2019-Motrix #Project#](https://github.com/agalwood/Motrix): Motrix is a full-featured download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, Baidu Net Disk, etc.
+
 # More
 
 - Awesome Extensions

@@ -14,30 +14,6 @@
 
 ## Image Button
 
-# Form | 表单
-
-- [Conversational Form](https://github.com/space10-community/conversational-form)
-
-- [Formik #Project#](https://github.com/jaredpalmer/formik): Forms in React, without tears
-
-- [uniforms #Project#](https://github.com/vazco/uniforms): Bunch of React components and helpers to easily generate and validate forms.
-
-## Json Schema
-
-- [2015-react-jsonschema-form #Project#](https://github.com/mozilla-services/react-jsonschema-form): A React component for building Web forms from JSON Schema.
-
-- [2015-Ajv #Project#](https://github.com/epoberezkin/ajv): The fastest JSON Schema validator for Node.js and browser. Supports draft-04/06/07.
-
-- [json-editor #Project#](https://github.com/json-editor/json-editor): JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, foundation, and jQueryUI).
-
-- [2017-json-schema-tools #Project#](https://github.com/cloudflare/json-schema-tools): Packages for working with JSON Schema and JSON Hyper-Schema.
-
-- [Json Schema Linter](https://www.json-schema-linter.com/): The main purpose of the JSON schema linter is to catch issues and critical errors in schema specifications early and automatically.
-
-- [json-schema-to-typescript #Project#](https://github.com/bcherny/json-schema-to-typescript): Compile json schema to typescript typings.
-
-- [ts-json-schema-generator #Project#](https://github.com/vega/ts-json-schema-generator): Generate JSON schema from your Typescript sources.
-
 # Terminals | 终端
 
 - [2017-Terminal in React #Project#](https://github.com/nitin42/terminal-in-react): A component that renders a terminal.

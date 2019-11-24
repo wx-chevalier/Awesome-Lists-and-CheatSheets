@@ -98,8 +98,10 @@
 
 - [2016-statsd #Project#](https://github.com/etsy/statsd): Daemon for easy but powerful stats aggregation.
 
-# LogAggregation | 日志聚合
+# Log Aggregation | 日志聚合
 
 - [docker-elk #Project#](https://github.com/deviantony/docker-elk): The ELK stack powered by Docker and Compose.
 
 - [Beats #Project#](https://www.elastic.co/products/beats): Beats is the platform for single-purpose data shippers. They send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch.
+
+- [2019-Loki #Project#](https://github.com/grafana/loki): Loki is a horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
