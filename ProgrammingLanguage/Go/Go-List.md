@@ -54,7 +54,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2018-go-internals #Book#](https://github.com/teh-cmc/go-internals): go-internals is a work-in-progress book about the internals of the Go (1.10+) programming language.
 
-- [2018-Go 语言高级编程 #Book#](https://github.com/chai2010/advanced-go-programming-book): 开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题。
+- [2018-Go 语言高级编程 #Book#](https://github.com/chai2010/advanced-go-programming-book): 开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系\统等高阶主题。
 
 - [2018-Go 语言四十二章经 #Book#](https://www.jianshu.com/nb/29056963): 这本书适合 Go 语言新手来细细阅读，对于有一定经验的开发人员，也可以根据自己的情况，选择一些章节来看。最后，希望更多的人了解和使用 Go 语言，也希望阅读本书的朋友们多多交流。
 

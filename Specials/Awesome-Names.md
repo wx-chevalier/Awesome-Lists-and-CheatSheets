@@ -14,6 +14,12 @@
 
 - 许珀里翁（Hyperiôn）：光明之神，和忒亚结合生下了赫利俄斯（太阳）、塞勒涅（月球）和厄俄斯（曙光）。
 
+# 电影
+
+- Cynthia：月亮女神
+
+- Eva/Walle: 瓦力是电影《机器人瓦力》中的一个虚构角色，亦是该片的主角。他是一台虚构的型号为 WALL-E（Waste Allocation Load Lifter Earth Class，地球版垃圾配置承载起重机）的机器人，后来一见钟情地喜欢上了新形异星植物探测女机器人伊芙(Eva)。
+
 # 魔兽世界（World of WarCraft）
 
 ## 人类（Human）
