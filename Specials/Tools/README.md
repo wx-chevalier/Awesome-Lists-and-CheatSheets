@@ -106,9 +106,9 @@
 
 # More
 
-- Awesome Extensions
 - Linux OpenSource List
 - Network OpenSource List
 - MicroService OpenSource List
 - Media OpenSource List
+- Product OpenSource List
 - IM OpenSource List

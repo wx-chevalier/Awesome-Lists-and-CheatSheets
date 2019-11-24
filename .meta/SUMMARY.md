@@ -825,7 +825,6 @@
 - [Tools](../Specials/Tools/README.md) 
   - [Awesome-Extensions](../Specials/Tools/Awesome-Extensions.md) 
   - [Awesome-Open-APIs](../Specials/Tools/Awesome-Open-APIs.md) 
-  - [Awesome-Tools](../Specials/Tools/Awesome-Tools.md) 
   - [Awesome-Workflow](../Specials/Tools/Awesome-Workflow.md) 
   - [Workbench-CheatSheet.en](../Specials/Tools/Workbench-CheatSheet.en.md) 
   - [Workbench-CheatSheet](../Specials/Tools/Workbench-CheatSheet.md) 
