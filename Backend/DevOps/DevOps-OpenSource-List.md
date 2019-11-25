@@ -42,6 +42,8 @@
 
 ## GitOps
 
+- [2019-Argo CD #Project#](https://github.com/argoproj/argo-cd): Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
+
 # Monitor & Alert
 
 - [netdata #Project#](https://my-netdata.io/): nparalleled insights, in real-time, of everything happening on your systems and applications, with stunning, interactive web dashboards and powerful performance and health alarms.

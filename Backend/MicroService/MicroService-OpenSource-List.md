@@ -116,6 +116,10 @@
 
 # Auth
 
+## RBAC
+
+- [Casbin #Project#](https://github.com/casbin/casbin): An authorization library that supports access control models like ACL, RBAC, ABAC in Golang.
+
 ## SSO
 
 - [Keycloak #Project#](https://github.com/keycloak/keycloak): Open Source Identity and Access Management For Modern Applications and Services

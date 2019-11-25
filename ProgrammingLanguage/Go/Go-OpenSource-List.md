@@ -112,6 +112,10 @@
 
 - [gqlgen #Project#](https://gqlgen.com/): gqlgen is a golang library for building graphql servers without any fuss.
 
+## Auth
+
+- [Casbin #Project#](https://github.com/casbin/casbin): An authorization library that supports access control models like ACL, RBAC, ABAC in Golang.
+
 # Other
 
 - [gorush #Project#](https://github.com/appleboy/gorush): A push notification server written in Go (Golang).
