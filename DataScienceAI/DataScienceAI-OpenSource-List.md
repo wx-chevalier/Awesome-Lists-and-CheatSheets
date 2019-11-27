@@ -66,6 +66,8 @@
 
 - [Chinese NLP #Project#](https://github.com/didi/ChineseNLP): Shared tasks, datasets and state-of-the-art results for Chinese Natural Language Processing (NLP).
 
+- [2019-Transformers #Project#](https://github.com/huggingface/transformers): 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+
 ## Classification
 
 - [2016-FastText #Project#](https://fasttext.cc/): FastText is an open-source, free, lightweight library that allows users to learn text representations and text classifiers. It works on standard, generic hardware. Models can later be reduced in size to even fit on mobile devices.

@@ -138,8 +138,10 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 - [Learn X in Y minutes](https://learnxinyminutes.com/): Take a whirlwind tour of your next favorite language. Community-driven!
 
-# Docs
-
 # Case Study
 
 - [Project Based Learning #Collection#](https://github.com/tuvtran/project-based-learning): A list of programming tutorials in which learners build an application from scratch. These tutorials are divided into different primary programming languages. Some have intermixed technologies and languages.
+
+# Bonus
+
+- [2019-free-for.dev #Collection#](https://github.com/ripienaar/free-for-dev): Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all in order to make informed decisions.
