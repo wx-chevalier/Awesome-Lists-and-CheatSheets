@@ -12,12 +12,6 @@
 
 - [SciPy #Project#](https://github.com/scipy/scipy): SciPy (pronounced "Sigh Pie") is open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
 
-## Business Intelligence
-
-- [Apache Superset](https://github.com/apache/incubator-superset): Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application. [Superset: Airbnb’s data exploration platform](https://parg.co/bIh)
-
-- [Grid studio #Project#](https://github.com/ricklamers/gridstudio): Grid studio is a web-based spreadsheet application with full integration of the Python programming language.
-
 ## Visualization
 
 - [TensorSpace.js #Project#](https://github.com/tensorspace-team/tensorspace): Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
@@ -29,6 +23,10 @@
 - [Streamlit #Project#](https://github.com/streamlit/streamlit): Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts.
 
 ## Notebook
+
+- [2014-Jupyter #Project#](https://jupyter.org/): Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
+
+- [2019-Jupytext #Project#](https://github.com/mwouts/jupytext): Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts.
 
 # Data Analysis
 

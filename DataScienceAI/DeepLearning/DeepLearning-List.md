@@ -59,3 +59,5 @@
 # Tutorial
 
 - [李宏毅: Deep Learning Tutorial](https://drive.wps.cn/view/l/a034b6d643e7455fa1b533ded239acd1):300 多页的 PPT 深入浅出地介绍了深度学习的基本概念。
+
+- [2019-The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html): This paper is an attempt to explain all the matrix calculus you need in order to understand the training of deep neural networks.

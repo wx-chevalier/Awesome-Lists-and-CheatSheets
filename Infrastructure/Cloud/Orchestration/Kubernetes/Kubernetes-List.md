@@ -46,6 +46,8 @@
 
 - [2018-阿里云云原生技术公开课 #Course#](https://edu.aliyun.com/roadmap/cloudnative#course): 云原生最初来描述云上应用的典型架构与特性，随着容器、kubernetes、Serverless、FaaS 技术的演进，CNCF（云原生计算基金会）把云原生的概念更广泛地定义为“让应用更有弹性、容错性、观测性的基础技术，让应用更容易部署、管理的基础软件、让应用更容易编写、编排的运行框架等”，希望能够让开发者最好的利用云的资源、产品和交付能力。
 
+- [2019-CKAD-exercises #Course#](https://github.com/dgkanatsios/CKAD-exercises): A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation.
+
 ## Collection
 
 - [2018-Resources for Getting Started with Kubernetes](https://vsupalov.com/getting-started-with-kubernetes/): Hand-picked reading material and courses to help you make progress towards getting started with Kubernetes.

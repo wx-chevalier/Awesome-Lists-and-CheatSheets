@@ -60,6 +60,8 @@
 
 - [2019-Virgilio #Project#](https://github.com/clone95/virgilio): Your new Mentor for Data Science E-Learning.
 
+- [2019-Deep Learning Drizzle #Collection#](https://github.com/kmario23/deep-learning-drizzle): Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
+
 ## Paper | 论文
 
 - [pwc](https://github.com/zziz/pwc): Papers with code. Sorted by stars. Updated weekly.
