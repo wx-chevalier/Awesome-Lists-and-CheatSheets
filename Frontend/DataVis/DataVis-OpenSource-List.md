@@ -12,6 +12,8 @@
 
 - [sketch.js #Project#](https://github.com/soulwire/sketch.js): Cross-Platform JavaScript Creative Coding Framework
 
+- [Zero #Project#](https://github.com/sinclairzx81/zero): A graphics pipeline implemented in JavaScript and rendered to the terminal. No GPU required.
+
 ## SVG
 
 ## Canvas

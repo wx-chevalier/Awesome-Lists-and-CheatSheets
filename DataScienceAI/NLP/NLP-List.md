@@ -24,7 +24,7 @@
 
 # Resource
 
-- [2017-DL4NLP #Resource#](https://github.com/andrewt3000/DL4NLP): Deep Learning for NLP resources.
+- [2017-DL4NLP #Collection#](https://github.com/andrewt3000/DL4NLP): Deep Learning for NLP resources.
 
 # Tutorial
 

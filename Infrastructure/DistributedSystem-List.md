@@ -6,7 +6,7 @@
 
 # Resources | 资源
 
-- [互联网公司经典技术架构 #Resource#](https://github.com/davideuler/architecture.of.internet-product#): 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay 的架构
+- [互联网公司经典技术架构 #Collection#](https://github.com/davideuler/architecture.of.internet-product#): 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay 的架构
 
 ## Course
 

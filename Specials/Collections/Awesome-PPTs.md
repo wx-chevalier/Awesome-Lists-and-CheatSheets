@@ -12,6 +12,8 @@
 
 # 素材
 
+- [PPTmall](http://www.pptmall.net/): PPTmall 是一套高效的可视化 PPT 素材库系统，提供了强大的模板分类索引功能。
+
 ## 图标
 
 - [Icons8](https://icons8.com/preloaders/): 汇集了许多的动效图片。

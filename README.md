@@ -114,7 +114,7 @@ $ wc -l **/*.md | grep -E -v "(Weekly|total|README)" | awk '{s+=$1} END {printf 
 - #Series#：系列文章
 - #Book#：书籍
 - #Course#：视频教程
-- #Resource#：资源集锦
+- #Collection#：资源集锦
 - #Project#: 开源的项目或者框架、库。
 
 ## 版权
