@@ -54,6 +54,8 @@
 
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全的中华古典文集数据库, 包含 5.5 万首唐诗、26 万首宋诗和 2.1 万首宋词. 唐宋两朝近 1.4 万古诗人, 和两宋时期 1.5K 词人. 数据来源于互联网。
 
+- [2019-ChineseGLUE #Project#](https://github.com/chineseGLUE/chineseGLUE): Language Understanding Evaluation benchmark for Chinese: datasets, baselines, pre-trained models,corpus and leaderboard.
+
 # Image DataSets | 图片数据
 
 - [fashion-mnist #Project#](https://github.com/zalandoresearch/fashion-mnist): Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples.
