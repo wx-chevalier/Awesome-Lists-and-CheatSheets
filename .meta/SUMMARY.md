@@ -298,7 +298,6 @@
     - [DOM-Worker-List](../Frontend/Web/DOM/DOM-Worker-List.md) 
     - [VirtualDOM-List](../Frontend/Web/DOM/VirtualDOM-List.md) 
   - [Dev](../Frontend/Web/Dev/README.md) 
-    - [Scaffold-List](../Frontend/Web/Dev/Scaffold-List.md) 
     - [Web-Builder-List](../Frontend/Web/Dev/Web-Builder-List.md) 
     - [Web-Debug-List](../Frontend/Web/Dev/Web-Debug-List.md) 
     - [Web-Dev-List](../Frontend/Web/Dev/Web-Dev-List.md) 
