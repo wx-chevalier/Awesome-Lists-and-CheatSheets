@@ -60,15 +60,15 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 ## Blog
 
-- [Draveness's Blog](https://draveness.me): 非常不错的 Go 系列博客。
+- [Draveness's Blog #Blog#](https://draveness.me): 非常不错的 Go 系列博客。
 
 ## Collection
 
-- [2018-A Gopher's Reading List](https://github.com/enocom/gopher-reading-list): A curated selection of blog posts on Go.
+- [2018-A Gopher's Reading List #Collection#](https://github.com/enocom/gopher-reading-list): A curated selection of blog posts on Go.
 
-- [Awesome Go #Project#](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software.
+- [Awesome Go #Collection#](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software.
 
-- [2017-Golang Guide: A List of Top Golang Frameworks, IDEs & Tools](https://parg.co/oGO)
+- [2017-Golang Guide: A List of Top Golang Frameworks, IDEs & Tools #Collection#](https://parg.co/oGO)
 
 ## Series
 
