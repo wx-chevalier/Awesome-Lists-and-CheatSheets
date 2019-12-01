@@ -26,6 +26,12 @@
 
 ## Case Study
 
+# Resource 
+
+## Collection
+
+- [2019-最全OCR相关资料整理 #Collection#](https://mp.weixin.qq.com/s/OXmWLuZR2mzEz7drn4xGDQ) 
+
 # Tutorial
 
 - [Java 使用 Tess4J 进行 图片文字识别 笔记](http://my.oschina.net/zhouxiang/blog/161619)
