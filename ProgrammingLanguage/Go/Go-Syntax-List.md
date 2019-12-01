@@ -34,6 +34,6 @@
 
 - [2017-Pipeline Patterns in Go](https://medium.com/statuscode/pipeline-patterns-in-go-a37bb3a7e61d): In this article, that pipeline pattern in Golang is extended with improved error-handling and cancellation.
 
-# Meta Programming | 元编程
+# Meta Programming（元编程）
 
 - [2018-Dependency Injection in Go](https://blog.drewolson.org/dependency-injection-in-go/): In this post I'll give an introduction to DI and then show an example application before and after using DI (via the dig library).

@@ -8,7 +8,7 @@
 
 - [2017-Java 老矣，尚能饭否？](http://www.infoq.com/cn/articles/is-java-out-of-date): 从 1995 年第一个版本发布到现在，Java 语言已经在跌宕起伏中走过了 22 年，最新的 Java 版本也已经迭代到 Java 9。
 
-- [2019-可能是国内第一篇全面解读Java现状及趋势的文章](https://mp.weixin.qq.com/s/-Q1qJY9nytCnyLKunb-x4Q): 基于以上两个原因，我们决定策划和撰写这份《2019 中国 Java 发展趋势报告》，要把 Java 在中国发展的独特性反映出来，同时也希望大家对 Java 有一个正确的认识：既不捧杀，也不要妖魔化。
+- [2019-可能是国内第一篇全面解读 Java 现状及趋势的文章](https://mp.weixin.qq.com/s/-Q1qJY9nytCnyLKunb-x4Q): 基于以上两个原因，我们决定策划和撰写这份《2019 中国 Java 发展趋势报告》，要把 Java 在中国发展的独特性反映出来，同时也希望大家对 Java 有一个正确的认识：既不捧杀，也不要妖魔化。
 
 ## CheatSheet
 
@@ -44,7 +44,7 @@
 
 - [2012-Java 并发编程实战 #Book#](http://book.51cto.com/art/201203/323171.htm): 本书深入浅出地介绍了 Java 线程和并发，是一本完美的 Java 并发参考手册。
 
-- [JVM 内幕：Java 虚拟机详解 #Book#](www.importnew.com/17770.html?utm_source=tuicool&utm_medium=referral)
+- [JVM 内幕：Java 虚拟机详解 #Book#](www.importnew.com/17770.html)
 
 - [2015-Pro Java 8 Programming-3rd #Book#](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
 
@@ -66,12 +66,6 @@
 
 - [Spring Cloud 微服务 #Book#](https://github.com/yinjihuan/spring-cloud): 《Spring Cloud 微服务-全栈技术与案例解析》和《Spring Cloud 微服务 入门 实战与进阶》配套源码
 
-## Series | 系列文章
-
-- [JCSprout #Series#](https://github.com/crossoverJie/JCSprout): Java Core Sprout: basic, concurrent, algorithm
-
-- [2018-Java 面试题，精品合集](http://www.iocoder.cn/Interview/good-collection/?title)
-
 ## Blog | 博客
 
 - [Novixys Software Dev Blog【Blog】](http://www.novixys.com/blog/): [Using Timer Class to Schedule Tasks](http://www.novixys.com/blog/using-timer-schedule-tasks/)
@@ -90,13 +84,11 @@
 
 - [Java Specialists](https://www.javaspecialists.eu/): From expert level specialists articles, to inhouse concurrency courses to emergency consulting.
 
-## Online Playground | 在线实践
+## Series | 系列文章
 
-- [Twitter Java Style Guide](https://parg.co/b7M): The intention of this guide is to provide a set of conventions that encourage good code.
+- [JCSprout #Series#](https://github.com/crossoverJie/JCSprout): Java Core Sprout: basic, concurrent, algorithm
 
-- [2016-Java 问题定位](http://blog.csdn.net/wodeyuer125/article/details/50557168)
-
-- [Top 10 Java Blog for Programmers of All Levels](https://stackify.com/java-blogs-for-programmers-of-all-levels/): All over the world, Java professionals are posting daily about new findings or new feature functions. Unfortunately, blogs can also provide some not so great insight and perspective.
+- [2018-Java 面试题，精品合集](http://www.iocoder.cn/Interview/good-collection/?title)
 
 # Tutorial
 
@@ -122,9 +114,13 @@
 
 - [2017-Wrapping up Java 9 new Features](https://aboullaite.me/wrapping-up-java-9-new-features/): In this write up we’re going to have quick, high level look at some of the new features;
 
-## IDE
+## Online Playground | 在线实践
 
-- [IntelliJ IDEA](https://github.com/judasn/IntelliJ-IDEA-Tutorial/)
+- [Twitter Java Style Guide](https://parg.co/b7M): The intention of this guide is to provide a set of conventions that encourage good code.
+
+- [2016-Java 问题定位](http://blog.csdn.net/wodeyuer125/article/details/50557168)
+
+- [Top 10 Java Blog for Programmers of All Levels](https://stackify.com/java-blogs-for-programmers-of-all-levels/): All over the world, Java professionals are posting daily about new findings or new feature functions. Unfortunately, blogs can also provide some not so great insight and perspective.
 
 # Interview | 面试
 

@@ -2,6 +2,10 @@
 
 # IoT OpenSource List
 
+# Hardware Architectures
+
+- [2019-Zephyr #Project#](https://github.com/zephyrproject-rtos/zephyr): Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+
 # Platform
 
 - [PlatformIO #Project#](https://platformio.org/): PlatformIO is an open source ecosystem for IoT development Cross-platform IDE and unified debugger. Remote unit testing and firmware updates

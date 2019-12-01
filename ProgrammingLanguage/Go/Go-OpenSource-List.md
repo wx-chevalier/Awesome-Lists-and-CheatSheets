@@ -12,11 +12,7 @@
 
 - [2019-OpenDiablo2 #Project#](https://github.com/OpenDiablo2/OpenDiablo2): OpenDiablo2 is an ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2. The engine is written in golang and is cross platform.
 
-# Toolkits
-
-- [Anko #Project#](https://github.com/mattn/anko): Anko is a scriptable interpreter written in Go.
-
-- [gperftools #Project#](https://github.com/gperftools/gperftools): Main gperftools repository.
+# Dev
 
 ## Debug
 
@@ -34,7 +30,7 @@
 
 - [2018-wire #Project#](https://github.com/google/wire): Compile-time Dependency Injection for Go
 
-# Dev
+# Framework
 
 ## Configuration
 
@@ -50,7 +46,11 @@
 
 - [logrus #Project#](https://github.com/sirupsen/logrus): Logrus is a structured logger for Go (golang), completely API compatible with the standard library logger.
 
-# Data Structure
+* [Anko #Project#](https://github.com/mattn/anko): Anko is a scriptable interpreter written in Go.
+
+* [gperftools #Project#](https://github.com/gperftools/gperftools): Main gperftools repository.
+
+## Data Structure
 
 - [gojay #Project#](https://github.com/francoispqt/gojay): Highly performant JSON encoder/decoder with powerful stream API for Golang.
 
