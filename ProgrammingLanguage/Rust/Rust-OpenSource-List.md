@@ -16,9 +16,15 @@
 
 - [Rustface #Project#](https://github.com/atomashpolskiy/rustface): Face detection library for the Rust programming language
 
-# Development Tools
+# Showcase
 
-# Development Libraries
+- [native_spark #Project#](https://github.com/rajasekarv/native_spark): A new arguably faster implementation of Apache Spark from scratch in Rust.
+
+- [2019-Bayard #Project#](https://github.com/mosuka/bayard): Bayard is a full-text search and indexing server written in Rust.
+
+# Dev Toolkits
+
+# Framework
 
 ## JavaScript Bindings
 

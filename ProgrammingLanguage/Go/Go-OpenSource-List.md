@@ -62,6 +62,8 @@
 
 - [2017-Colly #Project#](https://github.com/gocolly/colly): Lightning Fast and Elegant Scraping Framework for Gophers.
 
+- [2017-req #Project#](https://github.com/imroc/req): A golang http request library for humans.
+
 ## TCP Server
 
 - [Zinx #Project#](https://github.com/aceld/zinx): Zinx 是一个基于 Golang 的轻量级并发服务器框架。

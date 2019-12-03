@@ -48,7 +48,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2016-Webapp with Golang Anti Textbook #Book#](https://drive.wps.cn/view/l/576006e7ef6c4c4e8fe19663ded5e944)
 
-- [2017-Go 语言高级编程 #Book#](https://parg.co/UMV): 本书针对 Go 语言有一定经验，想深入了解 Go 语言各种高级用法的开发人员。
+- [2017-Concurrency in Go 中文笔记 #Book#](https://www.kancloud.cn/mutouzhang/go/596804): 以希望大家能够了解并掌握有关 Go 中并发性的高质量、全面的信息：如何使用它，如何将最佳实践和模式整合到系统中，以及它们如何在所有系统中运行。 我尽力在这些考量之间取得平衡。
 
 - [2018-Essential Go #Book#](https://www.programming-books.io/essential/go/): a free Go programming book, a continuation of Stack Overflow Documentation.
 
@@ -56,7 +56,11 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2018-Go 语言高级编程 #Book#](https://github.com/chai2010/advanced-go-programming-book): 开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系\统等高阶主题。
 
-- [2018-Go 语言四十二章经 #Book#](https://www.jianshu.com/nb/29056963): 这本书适合 Go 语言新手来细细阅读，对于有一定经验的开发人员，也可以根据自己的情况，选择一些章节来看。最后，希望更多的人了解和使用 Go 语言，也希望阅读本书的朋友们多多交流。
+- [2018-Go 语言四十二章经 #Book#](https://github.com/ffhelicopter/Go42): 这本书适合 Go 语言新手来细细阅读，对于有一定经验的开发人员，也可以根据自己的情况，选择一些章节来看。最后，希望更多的人了解和使用 Go 语言，也希望阅读本书的朋友们多多交流。
+
+- [2019-Go2 编程指南 #Book#](https://github.com/chai2010/go2-book): 本书重点讲解 Go2 新特性，以及 Go1 教程中较少涉及的特性。本书适合对 Go 语言有一定基础的用户学习。
+
+- [2019-For learning Go Tutorial #Book](https://github.com/KeKe-Li/For-learning-Go-Tutorial): 准备写一本 Go 的书针对初学者快速入门开发和使用 go！
 
 ## Blog
 

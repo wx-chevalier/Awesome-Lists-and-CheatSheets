@@ -30,15 +30,9 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2018-Rust in Cloudflare](https://parg.co/YA1)
 
-## CheatSheet
-
-- [2017-Rust CheatSheet](http://phaiax.github.io/rust-cheatsheet/)
-
 ## Book
 
 - [The Rust Programming Language #Book#](https://doc.rust-lang.org/book/first-edition/README.html): This book will teach you about the Rust Programming Language. Rust is a systems programming language focused on three goals: safety, speed, and concurrency.
-
-- [Rust Books #Project#](https://github.com/sger/RustBooks): 一系列对于 Rust 书籍的搜集
 
 - [Rust Primer #Book#](https://github.com/rustcc/RustPrimer): 中国人写的 Rust 编程书籍
 
@@ -52,9 +46,13 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2016-Rust-101](https://www.ralfj.de/projects/rust-101/main.html): This is Rust-101, a small tutorial for the Rust language. It is intended to be an interactive, hands-on course: I believe the only way to really learn a language is to write code in it, so you should be coding during the course.
 
+## Collection
+
+- [Rust Books #Collection#](https://github.com/sger/RustBooks): 一系列对于 Rust 书籍的搜集。
+
 ## Series
 
-- [2018-Writing an OS in Rust](https://os.phil-opp.com/): This blog series creates a small operating system in the Rust programming language. Each post is a small tutorial and includes all needed code, so you can follow along if you like.
+- [2018-Writing an OS in Rust #Series#](https://os.phil-opp.com/): This blog series creates a small operating system in the Rust programming language. Each post is a small tutorial and includes all needed code, so you can follow along if you like.
 
 # Tutorial
 
@@ -62,8 +60,8 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2018-Writing a Microservice in Rust](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/): Let me begin this article on Writing a Microservice in Rust by talking about C++.
 
-## Showcase 
+## CheatSheet
 
-- [native_spark #Project#](https://github.com/rajasekarv/native_spark): A new arguably faster implementation of Apache Spark from scratch in Rust.
+- [2017-Rust CheatSheet](http://phaiax.github.io/rust-cheatsheet/)
 
-- [2019-Bayard #Project#](https://github.com/mosuka/bayard): Bayard is a full-text search and indexing server written in Rust.
+- [2019-Five minutes Rust](https://github.com/ankur-anand/five-min-rust): Rust concise 5 Minutes cheat-sheet for each concepts.
