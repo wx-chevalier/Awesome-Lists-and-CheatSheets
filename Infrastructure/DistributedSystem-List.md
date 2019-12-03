@@ -30,6 +30,8 @@
 
 - [Cloud Native Landscape #Project#](https://github.com/cncf/landscape): Static Cloud Native Landscapes and Interactive Landscape that filters and sorts hundreds of cloud native projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 
+- [2019-分布式系统领域经典论文翻译集](https://zhuanlan.zhihu.com/p/91434149)
+
 # Overview
 
 - [漫谈分布式系统、拜占庭将军问题与区块链](https://mp.weixin.qq.com/s/tngWdvoev8SQiyKt1gy5vw): 今天本文就借这个机会，跟大家一起讨论一下分布式系统的核心问题和概念。最后，我们将尽量沿着逻辑上前后一贯的思路，讨论一下区块链技术。

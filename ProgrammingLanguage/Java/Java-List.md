@@ -133,3 +133,7 @@
 - [2018-Java Interview](https://github.com/crossoverJie/Java-Interview): 多数是一些 Java 基础知识、底层原理、算法详解。也有上层应用设计，其中不乏一些大厂面试真题。
 
 - [Top 10 Mistakes Java Developers Make](http://www.gauravkgupta.com/top-10-mistakes-java-developers-make/)
+
+# 链接
+
+- https://www.zhihu.com/question/34544815/answer/909638944
