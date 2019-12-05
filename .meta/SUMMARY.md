@@ -114,6 +114,7 @@
 
 - [DataScienceAI-Book-List](../DataScienceAI/DataScienceAI-Book-List.md) 
 - [DataScienceAI-Course-List](../DataScienceAI/DataScienceAI-Course-List.md) 
+- [DataScienceAI-Example-List](../DataScienceAI/DataScienceAI-Example-List.md) 
 - [DataScienceAI-List](../DataScienceAI/DataScienceAI-List.md) 
 - [DataScienceAI-Model-List](../DataScienceAI/DataScienceAI-Model-List.md) 
 - [DataScienceAI-OpenSource-List](../DataScienceAI/DataScienceAI-OpenSource-List.md) 
