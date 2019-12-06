@@ -61,6 +61,8 @@
 
 - [2015-react-vis #Project#](https://github.com/uber/react-vis): A collection of react components to render common data visualization charts, such as line/area/bar charts, heat maps, scatterplots, contour plots, hexagon heatmaps, pie and donut charts, sunbursts, radar charts, parallel coordinates, and tree maps.
 
+- [roughViz.js #Project#](https://github.com/jwilber/roughViz): Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
+
 ## Realtime（实时图表）
 
 - [apexcharts.js #Project#](https://github.com/apexcharts/apexcharts.js): A modern JavaScript charting library to build interactive charts and visualizations with simple API.
