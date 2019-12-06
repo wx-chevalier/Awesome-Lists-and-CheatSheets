@@ -158,6 +158,8 @@
 
 - [2019-ElasticDL #Project#](https://github.com/sql-machine-learning/elasticdl): ElasticDL is a Kubernetes-native deep learning framework built on top of TensorFlow 2.0 that supports fault-tolerance and elastic scheduling.
 
+- [2019-Alink #Project#](https://github.com/alibaba/Alink): Alink 是基于 Flink 的通用算法平台,由阿里巴巴计算平台 PAI 团队研发。
+
 ## Integrated Tools
 
 - [Deepo #Project#](https://github.com/ufoym/deepo): Deepo is a Docker image with a full reproducible deep learning research environment. It contains most popular deep learning frameworks: theano, tensorflow, sonnet, pytorch, keras, lasagne, mxnet, cntk, chainer, caffe, torch.
