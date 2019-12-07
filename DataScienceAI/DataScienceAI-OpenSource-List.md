@@ -34,6 +34,8 @@
 
 # Data Analysis
 
+- [2019-metaflow #Project#](https://github.com/Netflix/metaflow): Build and manage real-life data science projects with ease.
+
 ## Feature Engineering
 
 ## Time Series
@@ -102,6 +104,10 @@
 
 - [2018-OpenKE #Project#](https://github.com/thunlp/OpenKE): An Open-Source Package for Knowledge Embedding (KE).
 
+## Speech
+
+- [2019-Project DeepSpeech #Project#](https://github.com/mozilla/DeepSpeech): A TensorFlow implementation of Baidu's DeepSpeech architecture.
+
 ## Dialogue System
 
 - [2018-DeepPavlov #Project#](https://github.com/deepmipt/DeepPavlov): An open source library for building end-to-end dialog systems and training chatbots.
@@ -157,6 +163,8 @@
 - [Horovod #Project#](https://github.com/horovod/horovod): Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 
 - [2019-ElasticDL #Project#](https://github.com/sql-machine-learning/elasticdl): ElasticDL is a Kubernetes-native deep learning framework built on top of TensorFlow 2.0 that supports fault-tolerance and elastic scheduling.
+
+- [2019-Alink #Project#](https://github.com/alibaba/Alink): Alink 是基于 Flink 的通用算法平台,由阿里巴巴计算平台 PAI 团队研发。
 
 ## Integrated Tools
 

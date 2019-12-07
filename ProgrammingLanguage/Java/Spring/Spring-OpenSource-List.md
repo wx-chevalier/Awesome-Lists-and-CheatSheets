@@ -17,3 +17,5 @@
 - [hope-boot #Project#](https://github.com/hope-for/hope-boot): 一款现代化的脚手架项目。企业开发？接外包？赚外快？还是学习？这都能满足你，居家必备，值得拥有 🍻
 
 - [2019-gmall #Project#](https://github.com/2227324689/gpmall): 【咕泡学院实战项目】-基于 SpringBoot+Dubbo 构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch.
+
+- [2019-mall-swarm #Project#](https://github.com/macrozheng/mall-swarm): mall-swarm 是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch 等核心技术，同时提供了基于 Vue 的管理后台方便快速搭建系统。mall-swarm 在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套 Spring Cloud 教程。

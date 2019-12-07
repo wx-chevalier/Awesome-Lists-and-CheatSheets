@@ -8,6 +8,8 @@
 
 - [InstaReProxy #Project#](https://github.com/whizzzkid/instagram-proxy-api): This builds over the Instagram's public API to provide more functionality and provides a CORS complaint reverse instagram proxy service.
 
+- [Public JSON APIs](https://github.com/toddmotto/public-apis): A collective list of public JSON APIs for use in web development. 信息检索、机器学习、在线。
+
 # Motivation & Credits
 
 - [public-apis](https://github.com/toddmotto/public-apis): A collective list of free APIs for use in software and web development.

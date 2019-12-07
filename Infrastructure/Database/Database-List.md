@@ -100,16 +100,6 @@
 
 - [2017-Architect's Guide to NoSQL](http://www.datastax.com/wp-content/uploads/resources/whitepaper/DataStax_WP_Architects_Guide_to_NoSQL.pdf): This guide was created to help answer all these questions and more. In the following pages, you'll learn exactly what NoSQL is, why it's needed, how it works, what it should be used for, and (just as importantly) when it shouldn't be used
 
-## Search Engine
-
-- [搜索引擎索引数据结构和算法](http://www.hoohack.me/2016/05/09/datasture-and-algorithm-of-search-engine)
-
-- [倒排索引介绍](http://www.cnblogs.com/fly1988happy/archive/2012/04/01/2429000.html)
-
-- [这就是搜索引擎：核心技术详解](https://drive.wps.cn/view/l/5b7984707cbb47d9b1b484d3a7cd92a6)
-
-- [2017-How ElasticSearch changed the way I think about search engines… twice](https://parg.co/USg)
-
 # NewSQL
 
 - [2016-What’s Really New with NewSQL?](http://db.cs.cmu.edu/papers/2016/pavlo-newsql-sigmodrec2016.pdf): we first discuss the history of databases to understand how NewSQL systems came about. We then provide a detailed explanation of what the term NewSQL means and the different categories of systems that fall under this definition.

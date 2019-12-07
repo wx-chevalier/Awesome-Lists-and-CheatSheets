@@ -45,6 +45,7 @@
 - [Open Source Society University](http://6me.us/eWa): This is a solid path for those of you who want to complete a Computer Science course on your own time, for free, with courses from the best universities in the World.
 
 - [52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016): Let's learn a new technology every week. A new technology blog every Sunday in 2016.
+
   ## 视频
 
 - [you-get](https://github.com/soimort/you-get): 网络视频下载
@@ -77,7 +78,7 @@
 
 - 博客集锦：[Over 2500 dev blogs dataset](https://github.com/abdelhai/devblogs)、[Awesome Dev Blog](https://github.com/abdelhai/awesome-dev-blogs)、[Software Engineering Blog](https://github.com/kilimchoi/engineering-blogs)
 
-- [One-Click-to-Be-Pro 【 Collection】](https://github.com/vic317yeh/One-Click-to-Be-Pro): 质量很高的优秀学习资源收集
+- [One-Click-to-Be-Pro #Collection#](https://github.com/vic317yeh/One-Click-to-Be-Pro): 质量很高的优秀学习资源收集
 
 - [2016-dev-books #Collection#](http://www.dev-books.com/): analysed more than 40 000 000 questions and answers on stackoverflow.com to bring you the top of most mentioned books (5720 in total)
 

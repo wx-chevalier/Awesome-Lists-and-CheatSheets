@@ -65,3 +65,7 @@
 - [now.sh]()
 
 - [CaptainDuckDuck #Project#](https://github.com/githubsaturn/captainduckduck): Easiest app/database deployment platform and webserver package for your NodeJS, Python, Java applications. No Docker, nginx knowledge required!
+
+# LaTeX
+
+- [2019-SwiftLaTeX #Project#](https://github.com/SwiftLaTeX/SwiftLaTeX): SwiftLaTeX is a Web-browser based editor to create PDF documents such as reports, term projects, slide decks, in the typesetting system LaTeX.
