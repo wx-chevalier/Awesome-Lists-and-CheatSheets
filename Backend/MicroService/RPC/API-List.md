@@ -10,8 +10,6 @@
 
 - [从达标到卓越 —— 淘宝 API 设计之道](http://taobaofed.org/blog/2017/02/16/a-guide-to-api-design/)
 
-- [Public JSON APIs](https://github.com/toddmotto/public-apis): A collective list of public JSON APIs for use in web development. 信息检索、机器学习、在线。
-
 - [2017-API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist): Checklist of the most important security countermeasures when designing, testing, and releasing your API.
 
 - [2017-OpenAPI and gRPC Side-by-Side](https://parg.co/U6o): Both are open source efforts, both describe APIs, and both promise better experiences for API producers and consumers. So why do we need both? If we do, what value does each provide? What can each project learn from the other?
