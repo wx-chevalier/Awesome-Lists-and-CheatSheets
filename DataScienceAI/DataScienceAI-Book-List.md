@@ -58,6 +58,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2019-Interpretable Machine Learning #Book#](https://christophm.github.io/interpretable-ml-book/): This book is about making machine learning models and their decisions interpretable.
 
+- [2019-Python Machine Learning #Book#](https://github.com/rasbt/python-machine-learning-book-3rd-edition): The "Python Machine Learning (3nd edition)" book code repository.
+
 ## Data Mining
 
 - [2019-Fundamentals of Analysis #Book#](https://dataschool.com/fundamentals-of-analysis/): You have data, now how do you analyze it correctly? This is not a simple task, this book will cover common techniques to get insights out of data accurately.
@@ -124,6 +126,10 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 - [2019-深度学习开源书，基于 TensorFlow 2.0 实战](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book): Open source Deep Learning book, based on TensorFlow 2.0 framework.
 
 ## PyTorch
+
+- [2019-Deep Learning with PyTorch #Book#](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf): This book is intended to be a starting point for software engineers, data scientists, and motivated students who are fluent in Python and want to become comfortable using PyTorch to build deep learning projects.
+
+- [2019-Dive into DL PyTorch #Book#](https://github.com/ShusenTang/Dive-into-DL-PyTorch): 本项目将《动手学深度学习》 原书中 MXNet 代码实现改为 PyTorch 实现。原书作者：阿斯顿·张、李沐、扎卡里 C. 立顿、亚历山大 J. 斯莫拉以及其他社区贡献者，GitHub 地址：https://github.com/d2l-ai/d2l-zh
 
 ---
 

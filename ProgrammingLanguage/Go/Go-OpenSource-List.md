@@ -32,6 +32,10 @@
 
 # Framework
 
+## Utils
+
+- [go-funk #{rpkecy](https://github.com/thoas/go-funk): go-funk is a modern Go library based on reflect.
+
 ## Configuration
 
 - [viper #Project#](https://github.com/spf13/viper): Go configuration with fangs!

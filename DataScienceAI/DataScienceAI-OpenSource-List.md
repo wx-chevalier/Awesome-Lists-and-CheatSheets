@@ -34,6 +34,8 @@
 
 # Data Analysis
 
+- [2019-metaflow #Project#](https://github.com/Netflix/metaflow): Build and manage real-life data science projects with ease.
+
 ## Feature Engineering
 
 ## Time Series
@@ -101,6 +103,10 @@
 ## Knowledge Graph | 知识图谱
 
 - [2018-OpenKE #Project#](https://github.com/thunlp/OpenKE): An Open-Source Package for Knowledge Embedding (KE).
+
+## Speech
+
+- [2019-Project DeepSpeech #Project#](https://github.com/mozilla/DeepSpeech): A TensorFlow implementation of Baidu's DeepSpeech architecture.
 
 ## Dialogue System
 
