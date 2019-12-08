@@ -10,6 +10,12 @@
 
 - [2017-2017 年数据库技术盘点](https://cloud.tencent.com/developer/article/1042652): 我们将从学术界、工程界的角度，从国外到国内，从数据库内核技术到数据库运维等多种角度，一起来回顾精彩的 2017。
 
+- [2015-The Next 50 Years of Databases](http://www.cs.cmu.edu/~pavlo/blog/2015/09/the-next-50-years-of-databases.html): I know that it's been a year since my last post and that I still need to write part 3 in my series on the open research problems for transaction processing database systems.
+
+## Case Study
+
+- [2019-深度揭秘腾讯云数据库技术的 7 年变迁史](https://mp.weixin.qq.com/s/GNCEbpVz7hxorBCMRrJ4TQ): 腾讯分布式数据库 TDSQL& 企业级云原生数据库 CynosDB 具有重要的历史节点。接下来，我们将从架构等细节着手，为大家详细介绍这两款数据库背后的技术进阶和研发历程。
+
 ## Comparison
 
 - [2016-一篇文章，掌握所有开源数据库的现状](http://www.tuicool.com/articles/mYBZFbN)
@@ -62,31 +68,7 @@
 
 - [2017-SimpleDB #Project#](https://github.com/iamxpy/SimpleDB): UC Berkeley's Database class CS186: Implement A Simple Database Management System
 
-## Papers
+## Paper
 
 - [2013-F1: A Distributed SQL Database That Scales #Paper#](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41344.pdf): F1 is a distributed relational database system built at Google to support the AdWords business.
-
-## Case Study
-
-- [2019-深度揭秘腾讯云数据库技术的 7 年变迁史](https://mp.weixin.qq.com/s/GNCEbpVz7hxorBCMRrJ4TQ): 腾讯分布式数据库 TDSQL& 企业级云原生数据库 CynosDB 具有重要的历史节点。接下来，我们将从架构等细节着手，为大家详细介绍这两款数据库背后的技术进阶和研发历程。
-
-# Relational DataBase
-
-- [2013-How did the modern relational database come to be?](https://www.linkedin.com/pulse/how-did-modern-relational-database-come-david-mccaldin): The purpose of this Annotated Bibliography is to illustrate, in chronological order, the major development of database models from 1st generation (network model etc) to second generation (relational) to 3rd generation (e.g. semantic). The Bibliography is presented in order of the year when the paper was published.
-
-- [2017-How does a relational database work](http://coding-geek.com/how-databases-work/): When it comes to relational databases, I can’t help thinking that something is missing. They’re used everywhere. There are many different databases: from the small and useful SQLite to the powerful Teradata. But, there are only a few articles that explain how a database works.
-
-- [MiniDataBase #Project#](https://github.com/msdeep14/MiniDataBase): A simple Relational Database using B+ Tree Index. 
-
-- [chidb](https://people.cs.uchicago.edu/~adamshaw/papers/sigcse2016-chidb.pdf): Building a Simple Relational Database System from Scratch
-
-## Transaction & Concurrency Control
-
-- [2017-A beginner’s guide to ACID and database transactions](http://6me.us/OzSh): Transactions are omnipresent in today’s enterprise systems, providing data integrity even in highly concurrent environments. So let’s get started by first defining the term and the context where you might usually employ it.
-
-## Query Processing
-
-## Index
-
-- [2015-Database Indexes Explained](https://www.essentialsql.com/what-is-a-database-index/)
 
