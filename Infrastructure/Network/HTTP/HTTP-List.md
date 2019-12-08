@@ -12,7 +12,7 @@
 
 - [High Performance Browser Networking](HTTP://chimera.labs.oreilly.com/books/1230000000545/index.html)
 
-# Resources
+# Resource
 
 ## Book
 

@@ -4,7 +4,7 @@
 
 本文包含了一些基于人工智能、机器学习、深度学习等技术，实现的有趣的模型、应用、案例。
 
-# Collections
+# Collection
 
 - [2019-Deep Learning Models #Collection# #Project#](https://github.com/rasbt/deeplearning-models): A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
 

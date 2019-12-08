@@ -2,7 +2,7 @@
 
 # 即时通信资料索引
 
-# Resources
+# Resource
 
 ## Case Study
 

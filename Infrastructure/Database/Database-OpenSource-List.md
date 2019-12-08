@@ -2,6 +2,12 @@
 
 # Database OpenSource List | 数据库相关开源工具索引
 
+# Showcase
+
+- [MiniDataBase #Project#](https://github.com/msdeep14/MiniDataBase): A simple Relational Database using B+ Tree Index.
+
+- [chidb](https://people.cs.uchicago.edu/~adamshaw/papers/sigcse2016-chidb.pdf): Building a Simple Relational Database System from Scratch
+
 # Universal SQL Tools
 
 ## Client

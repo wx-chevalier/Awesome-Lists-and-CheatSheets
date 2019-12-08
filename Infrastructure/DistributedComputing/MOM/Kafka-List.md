@@ -16,7 +16,7 @@
 
 # Resouces
 
-## Collections
+## Collection
 
 - [Awesome Kafka](https://github.com/infoslack/awesome-kafka#books)
 

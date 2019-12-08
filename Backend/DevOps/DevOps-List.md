@@ -6,21 +6,21 @@
 
 - [应用性能监控分类](http://www.infoq.com/cn/news/2015/08/monitoring-applications-category)
 
-# Overview 
+# Overview
 
 - [Awesome Microservices](https://github.com/mfornos/awesome-microservices): A curated list of Microservice Architecture related principles and technologies.
 
 - [DevOps explained by Jerome Kehrli](https://www.niceideas.ch/roller2/badtrash/entry/devops-explained): DevOps is a very key methodology bringing principles and practices that address precisely the biggest problem, the saddest factor of failure of software development projects in such institutions : the wall of confusion between developers and operators. 中文译本参见 [DevOps 详解](https://www.zybuluo.com/liuhui0803/note/650897)。
 
-- [2019-DevOps didn’t exist when I started as a developer: How this one principle changed my career](https://circleci.com/blog/cicd-engineer/):  I’ll traverse my professional timeline discussing how DevOps came into my life and expressing how it impacted me and my chosen career.
+- [2019-DevOps didn’t exist when I started as a developer: How this one principle changed my career](https://circleci.com/blog/cicd-engineer/): I’ll traverse my professional timeline discussing how DevOps came into my life and expressing how it impacted me and my chosen career.
 
-## Case Study 
+## Case Study
 
 - [解读 2016，眺望 2017：运维的风口在哪？](http://mp.weixin.qq.com/s/X4929d1NtrmWGfT6ZEHxUg)
 
 - [初创公司应该如何做好持续集成和部署？](http://www.simlinux.com/archives/1638.html)
 
-# Resources
+# Resource
 
 ## Book
 

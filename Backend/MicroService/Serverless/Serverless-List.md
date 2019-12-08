@@ -6,7 +6,7 @@
 
 - [2017-The Comprehensive Guide to Serverless Architecture](https://www.simform.com/serverless-architecture-guide/)
 
-# Resources
+# Resource
 
 ## Book
 

@@ -18,7 +18,7 @@
 
 - [2017-The Unofficial MySQL 8.0 Optimizer Guide #Book#](http://www.unofficialmysqlguide.com/introduction.html): Morgan Tocker is the Product Manager for the MySQL Server at Oracle. He has previously worked in a variety of roles including Support, Training and Community. Morgan is based out of Toronto, Canada.
 
-## Collections
+## Collection
 
 - [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn)
 

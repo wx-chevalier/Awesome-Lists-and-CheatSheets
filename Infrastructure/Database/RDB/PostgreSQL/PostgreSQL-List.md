@@ -10,6 +10,6 @@
 
 # Overview
 
-# Resources
+# Resource
 
 # Internals

@@ -40,7 +40,7 @@
 
 # Resource
 
-## Collections
+## Collection
 
 - [2018-推荐系统的参考阅读 #Collection#](https://time.geekbang.org/column/article/8113): 整体来说，在选择参考文献时，我偏爱那些由公司发表的。
 

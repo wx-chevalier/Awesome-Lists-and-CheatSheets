@@ -18,13 +18,13 @@
 
 - [Redis 缓存失效机制](http://my.oschina.net/andylucc/blog/679222)
 
-## Resources
+## Resource
 
 - [The Little Redis Book 中文教程](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 
 ## Case Study
 
-- [2018-携程Redis容器化实践](https://mp.weixin.qq.com/s/uqMrYp7FTI11zBIm8kiTLg): 携程的Redis使用规模有200T+，并且每天有百万亿次的访问频率，如此大规模的Redis容器化对于我们来说是个不小的挑战，本文分享携程Redis容器化落地的一些实践经验。
+- [2018-携程 Redis 容器化实践](https://mp.weixin.qq.com/s/uqMrYp7FTI11zBIm8kiTLg): 携程的 Redis 使用规模有 200T+，并且每天有百万亿次的访问频率，如此大规模的 Redis 容器化对于我们来说是个不小的挑战，本文分享携程 Redis 容器化落地的一些实践经验。
 
 # Cluster | 集群架构
 
@@ -68,6 +68,6 @@
 
 - [Under the Hood of Redis](http://redisplanet.com/redis/under-the-hood-of-redis-hash-part-1/)
 
-# OpenSource 
+# OpenSource
 
-- [Redis-shake #Project#](https://github.com/alibaba/RedisShake): Redis-shake是一个用于在两个redis之间同步数据的工具，满足用户非常灵活的同步、迁移需求。
+- [Redis-shake #Project#](https://github.com/alibaba/RedisShake): Redis-shake 是一个用于在两个 redis 之间同步数据的工具，满足用户非常灵活的同步、迁移需求。

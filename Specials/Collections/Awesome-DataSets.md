@@ -2,7 +2,7 @@
 
 # Awesome DataSets Collections
 
-# Collections | 数据集合
+# Collection | 数据集合
 
 ## Search Index | 索引
 

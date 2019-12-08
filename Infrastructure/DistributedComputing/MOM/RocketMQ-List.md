@@ -8,7 +8,7 @@
 
 - [2017-专访 RocketMQ 联合创始人：项目思路、技术细节和未来规划](http://www.infoq.com/cn/news/2017/02/RocketMQ-future-idea)
 
-# Resources
+# Resource
 
 - [2016-分布式消息队列 RocketMQ #Series#](http://blog.csdn.net/chunlongyu/article/category/6638499)
 

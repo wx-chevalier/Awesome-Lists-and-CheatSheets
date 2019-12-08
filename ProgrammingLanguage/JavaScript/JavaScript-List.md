@@ -66,7 +66,7 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [Kajero #Project#](https://github.com/JoelOtter/kajero): Interactive JavaScript notebooks with clever graphing
 
-## Collections
+## Collection
 
 - [Github-JavaScript Path JavaScript 学习规划](https://github.com/javascript-society/javascript-path)
 

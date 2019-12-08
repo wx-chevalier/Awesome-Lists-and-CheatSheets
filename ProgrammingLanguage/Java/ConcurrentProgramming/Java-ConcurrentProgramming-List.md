@@ -32,7 +32,7 @@
 
 - [2017-Java Concurrency / Multithreading Basics](https://www.callicoder.com/java-concurrency-multithreading-basics/): Concurrency is the ability to do more than one thing at the same time.
 
-# Resources
+# Resource
 
 ## Series
 

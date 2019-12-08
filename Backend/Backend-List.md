@@ -22,7 +22,7 @@
 
 - [2019-Operating a Large, Distributed System in a Reliable Way: Practices I Learned](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/#slos-slas-reporting-on-them): This post is the collection of the practices I've found useful to reliably operate a large system at Uber, while working here.
 
-# Resources
+# Resource
 
 ## Book & Series
 

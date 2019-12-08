@@ -40,7 +40,7 @@
 
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript)
 
-## Resources
+## Resource
 
 - [2016-Design Patterns in Typescript #Project#](https://github.com/gztchan/design-patterns-in-typescript)
 

@@ -32,7 +32,7 @@
 
 - [2017-The definitive guide for using Flow static JavaScript type checker](https://parg.co/b27)
 
-## Resources | 资源
+## Resource | 资源
 
 - [2016-awesome-flow](https://github.com/dustinspecker/awesome-flow): A list of awesome Flow integrations, tools, tutorials, etc.
 

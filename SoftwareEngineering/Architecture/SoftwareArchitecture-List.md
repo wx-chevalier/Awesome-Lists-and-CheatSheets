@@ -12,7 +12,7 @@
 
 - [2019-复杂度应对之道，COLA 应用架构](https://blog.csdn.net/significantfrank/article/details/85785565): 这种人为的复杂性导致系统越来越臃肿，越来越难维护，酱缸的老代码发出一阵阵恶臭，新来的同学，往往要捂着鼻子抠几天甚至几个月，才能理清系统和业务脉络，然后又一头扎进各种 bug fix，业务修补的恶性循环中，暗无天日！
 
-# Resources
+# Resource
 
 ## Book
 
@@ -52,4 +52,4 @@
 
 - [2019-网易杭研中台实践：建中台有可行方法论吗？](https://mp.weixin.qq.com/s/qTvj6MmrRRaLOjtyqc25XA): 本文中，InfoQ 对网易副总裁，网易杭州研究院执行院长汪源进行了独家采访，试图了解网易杭研的中台搭建背景及中台实践方法论。
 
-- [2019-百分点 To B转型之路：技术中台及DevOps的建设实践](https://mp.weixin.qq.com/s/ZHnJNYDoD3qCpsmszXIuHA): 我今天分享的内容主要包括：百分点在发展 ToB 业务过程中遇到的挑战；针对这些挑战，我们在技术建设和组织建设方面的思考；最后，我会针对整个转型过程做个总结。
+- [2019-百分点 To B 转型之路：技术中台及 DevOps 的建设实践](https://mp.weixin.qq.com/s/ZHnJNYDoD3qCpsmszXIuHA): 我今天分享的内容主要包括：百分点在发展 ToB 业务过程中遇到的挑战；针对这些挑战，我们在技术建设和组织建设方面的思考；最后，我会针对整个转型过程做个总结。

@@ -24,7 +24,7 @@
 
 - [2015-20 个关于 Java 8 时间与日期的例子](http://javarevisited.blogspot.com/2015/03/20-examples-of-date-and-time-api-from-Java8.html)
 
-# Collections: 集合类型
+# Collection: 集合类型
 
 - [Collections in Java by Java Point #Series#](https://www.javatpoint.com/collections-in-java)
 

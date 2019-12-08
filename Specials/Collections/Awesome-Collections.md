@@ -30,7 +30,7 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 # Learning Methodology | 学习方法论
 
-# Collections
+# Collection
 
 - [Learn Anything #Project#](https://github.com/learn-anything/learn-anything): Learn Anything is an Open Source Website built by community to Learn Anything with Interactive Maps.
 

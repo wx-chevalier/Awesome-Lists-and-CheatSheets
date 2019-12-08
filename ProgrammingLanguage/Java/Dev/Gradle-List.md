@@ -8,7 +8,7 @@
 
 - [Gradle 在大型 Java 项目上的应用](http://www.infoq.com/cn/articles/Gradle-application-in-large-Java-projects/)
 
-# Resources
+# Resource
 
 - [How to decrease your Gradle build time by 65%?](http://6me.us/QpxUcN)
 
