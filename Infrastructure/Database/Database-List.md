@@ -76,7 +76,7 @@
 
 - [2017-How does a relational database work](http://coding-geek.com/how-databases-work/): When it comes to relational databases, I can’t help thinking that something is missing. They’re used everywhere. There are many different databases: from the small and useful SQLite to the powerful Teradata. But, there are only a few articles that explain how a database works.
 
-- [MiniDataBase #Project#](https://github.com/msdeep14/MiniDataBase): A simple Relational Database using B+ Tree Indexing
+- [MiniDataBase #Project#](https://github.com/msdeep14/MiniDataBase): A simple Relational Database using B+ Tree Index. 
 
 - [chidb](https://people.cs.uchicago.edu/~adamshaw/papers/sigcse2016-chidb.pdf): Building a Simple Relational Database System from Scratch
 
@@ -90,18 +90,3 @@
 
 - [2015-Database Indexes Explained](https://www.essentialsql.com/what-is-a-database-index/)
 
-# NoSQL
-
-- [The Definitive Guide to NoSQL Databases](https://www.toptal.com/database/the-definitive-guide-to-nosql-databases)
-
-- [nosql-data-modeling-techniques](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)，中文译本：[大数据架构师必读的 NoSQL 建模技术 ](http://www.dataguru.cn/article-9422-1.html)
-
-- [List of NoSQL Database](http://nosql-database.org/)
-
-- [2017-Architect's Guide to NoSQL](http://www.datastax.com/wp-content/uploads/resources/whitepaper/DataStax_WP_Architects_Guide_to_NoSQL.pdf): This guide was created to help answer all these questions and more. In the following pages, you'll learn exactly what NoSQL is, why it's needed, how it works, what it should be used for, and (just as importantly) when it shouldn't be used
-
-# NewSQL
-
-- [2016-What’s Really New with NewSQL?](http://db.cs.cmu.edu/papers/2016/pavlo-newsql-sigmodrec2016.pdf): we first discuss the history of databases to understand how NewSQL systems came about. We then provide a detailed explanation of what the term NewSQL means and the different categories of systems that fall under this definition.
-
-# 数据中台
