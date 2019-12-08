@@ -2,6 +2,12 @@
 
 - [2019-W3C首次发布小程序标准化白皮书](https://mp.weixin.qq.com/s/CUDhn9Q8u8AsyosqUCvI5Q): 2019 年 9 月 12 日，W3C 首次公开发布了小程序标准化白皮书，该文档介绍了这种非常流行的混合解决方案，既依赖 Web 技术，也集成了原生应用的功能。此标准一出，各家小程序将来有望实现统一吗？
 
+- [2019-小程序底层实现原理及思考](https://mp.weixin.qq.com/s/T6Mcu24Cmih-E_VCUo3PEQ): 本篇文章更多的是在描述架构与技术方向层面的思考和决策，不会过多介绍具体某个问题是如何解决的，因为细节实在太多。
+
+# 微信小程序
+
+- [2019-微信官方小程序同构新方案Kbone全解析](https://mp.weixin.qq.com/s/47UmvrNVFdXWo6YpXE_G9A): 对Kbone做了一个简单的介绍，不知道你有去试试todo的例子了么？
+
 # Taro
 
 # Chameleon

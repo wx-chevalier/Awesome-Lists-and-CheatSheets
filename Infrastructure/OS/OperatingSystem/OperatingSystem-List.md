@@ -21,3 +21,7 @@
 - [2010-OS 中常用的调度算法总结](http://blog.chinaunix.net/uid-25132162-id-361291.html)
 
 # Storage | 存储
+
+# Scratch 
+
+- [2019-使用高级语言实现POSIX内核的成本和收益](https://www.zhihu.com/question/326571508/answer/703388743): 这篇论文旨在评估用有垃圾回收特性的高级语言去实现一个类POSIX内核的性价比。

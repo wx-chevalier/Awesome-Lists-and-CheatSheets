@@ -12,9 +12,7 @@
 
 - [2019-滴滴实时计算发展之路及平台架构实践](https://mp.weixin.qq.com/s/NGeukit_TpwD4_opIZRb-Q): 滴滴的核心业务是一个实时在线服务，因此具有丰富的实时数据和实时计算场景。本文将介绍滴滴实时计算发展之路以及平台架构实践。
 
-## ChangeLog
-
-- [2019-修改代码150万行！Apache Flink 1.9.0做了这些重大修改！](https://mp.weixin.qq.com/s/Gj76cO5VGQ76R7d7Kc--0Q): 8月22日，Apache Flink 1.9.0 正式发布。早在今年1月，阿里便宣布将内部过去几年打磨的大数据处理引擎Blink进行开源并向 Apache Flink 贡献代码。此次版本在结构上有重大变更，修改代码达150万行，接下来，我们一起梳理 Flink 1.9.0 中非常值得关注的重要功能与特性。
+- [2019-日处理数据量超10亿：友信金服基于Flink构建实时用户画像系统的实践](https://mp.weixin.qq.com/s/ptNHzhMu50pAOUMzTxaGfA): 友信金服用户画像项目正是以此为背景成立，旨在实现“数据驱动业务与运营”的集团战略。目前该系统支持日处理数据量超 10 亿，接入上百种合规数据源。
 
 # Resource
 
@@ -39,6 +37,10 @@
 - [2018-Apache Flink Training](https://training.da-platform.com/): This training teaches how to implement scalable data analysis programs with Apache Flink 1.6.0.
 
 - [2019-基于 Flink 实现的商品实时推荐系统](https://mp.weixin.qq.com/s/pF8mr4AeUwWWpGEAKmJW2w): 近期我在 GitHub 观察到一个不错的 Flink 项目，然后也和作者交流了下，于是在这里做一个分享。
+
+## ChangeLog
+
+- [2019-修改代码150万行！Apache Flink 1.9.0做了这些重大修改！](https://mp.weixin.qq.com/s/Gj76cO5VGQ76R7d7Kc--0Q): 8月22日，Apache Flink 1.9.0 正式发布。早在今年1月，阿里便宣布将内部过去几年打磨的大数据处理引擎Blink进行开源并向 Apache Flink 贡献代码。此次版本在结构上有重大变更，修改代码达150万行，接下来，我们一起梳理 Flink 1.9.0 中非常值得关注的重要功能与特性。
 
 # Internals | 内部原理
 

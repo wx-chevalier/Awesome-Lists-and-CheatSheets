@@ -12,6 +12,10 @@
 
 - [2018-Go Assembly by Example #Series#](http://davidwong.fr/goasm/): Go Assembly by Example is a hands-on introduction to Go's Assembly language using annotated example programs.
 
-# Memory Management
+# Runtime 
+
+- [2019-万字长文深入浅出 Golang Runtime](https://zhuanlan.zhihu.com/p/95056679): Golang Runtime 是个什么? Golang Runtime 的发展历程, 每个版本的改进。
+
+## Memory Management
 
 - [Go 语言的垃圾回收算法被吹过头了？与 Java 相比如何？](http://mp.weixin.qq.com/s/9Uj1E3VO7Cd-6G_xZS_zoQ)
