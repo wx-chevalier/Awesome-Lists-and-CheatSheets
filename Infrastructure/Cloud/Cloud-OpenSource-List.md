@@ -24,6 +24,8 @@
 
 - [dive #Project#](https://github.com/wagoodman/dive): A tool for exploring each layer in a docker image.
 
+- [2019-docker-slim #Project#](https://github.com/docker-slim/docker-slim): DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+
 ## Storage | 存储
 
 - [2015-Flocker #Project#](https://github.com/ClusterHQ/flocker): Flocker is an open-source Container Data Volume Manager for your Dockerized applications.
