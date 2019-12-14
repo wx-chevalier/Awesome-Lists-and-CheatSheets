@@ -44,6 +44,12 @@
 
 - [浏览器漏洞挖掘思路](https://zhuanlan.zhihu.com/p/28719766): 在这篇讲座(文章)中，我们会给读者带来挖掘浏览器漏洞的思路。
 
+- [2019-REST API 面临的 7 大安全威胁](https://www.infoq.cn/article/caQ6KibpAquIgFoku0up): API 安全性是组织希望在未来几年内解决的最大挑战，而安全性挑战的解决很有可能会成为 API 领域增长的催化剂。
+
+## JWT
+
+- [2019-JWT攻击手册：如何入侵你的Token](https://mp.weixin.qq.com/s/BH-gmMpHUkMvBcSBgJWnwA): 不仅可以让你伪造任意用户获得无限的访问权限，而且还可能进一步发现更多的安全漏洞，如信息泄露，越权访问，SQLi，XSS，SSRF，RCE，LFI等。
+
 # 密码、校验与过滤
 
 - [Password Rules Are Bullshit](http://6me.us/Kfj0wz): Let this pledge be duly noted on the permanent record of the Internet. I don't know if there's an afterlife, but I'll be finding out soon enough, and I plan to go out mad as hell.
