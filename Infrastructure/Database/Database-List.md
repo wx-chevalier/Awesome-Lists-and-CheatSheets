@@ -12,6 +12,8 @@
 
 - [2015-The Next 50 Years of Databases](http://www.cs.cmu.edu/~pavlo/blog/2015/09/the-next-50-years-of-databases.html): I know that it's been a year since my last post and that I still need to write part 3 in my series on the open research problems for transaction processing database systems.
 
+- [2019-国产数据库激荡 40 年](https://mp.weixin.qq.com/s/JgBbKHzVBbPxClEiNMH2Wg): 在被 Oracle、MySQL、DB2 等产品蚕食的中国数据库市场，国产自研数据库如何才能真正崛起？
+
 ## Case Study
 
 - [2019-深度揭秘腾讯云数据库技术的 7 年变迁史](https://mp.weixin.qq.com/s/GNCEbpVz7hxorBCMRrJ4TQ): 腾讯分布式数据库 TDSQL& 企业级云原生数据库 CynosDB 具有重要的历史节点。接下来，我们将从架构等细节着手，为大家详细介绍这两款数据库背后的技术进阶和研发历程。
