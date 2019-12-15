@@ -14,6 +14,8 @@
 
 - [How N26 built a modern banking software with JavaScript & Microservices.](https://parg.co/UXc)
 
+- [2019-How we 30x'd our Node parallelism](https://blog.plaid.com/how-we-parallelized-our-node-service-by-30x/): This post will outline how we increased the performance and efficiency of our Node workers and describe the lessons that we learned in the process.
+
 # Deploy
 
 - [PM2 入门与部署 GitBook](https://wohugb.gitbooks.io/pm2/content/index.html)
