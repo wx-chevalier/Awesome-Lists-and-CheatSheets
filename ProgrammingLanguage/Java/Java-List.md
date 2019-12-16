@@ -38,14 +38,6 @@
 
 ## Book | 书籍
 
-- [2011-深入理解 Java 虚拟机：JVM 高级特性与最佳实践 #Book#](https://parg.co/b1E)：全书共分为五大部分。第一部分从宏观的角度介绍了整个 Java 技术体系的过去、现在和未来；第二部分讲解了 JVM 的自动内存管理；第三部分分析了虚拟机的执行子系统；第四部分讲解了程序的编译与代码的优化；第五部分探讨了 Java 实现高效并发的原理。
-
-- [2011-Java Concurrency In Practice #Book#](https://parg.co/UVQ):Our goal is to give readers a set of design rules and mental models that make it easier and more fun to build correct, performant concurrent classes and applications in Java.
-
-- [2012-Java 并发编程实战 #Book#](http://book.51cto.com/art/201203/323171.htm): 本书深入浅出地介绍了 Java 线程和并发，是一本完美的 Java 并发参考手册。
-
-- [JVM 内幕：Java 虚拟机详解 #Book#](www.importnew.com/17770.html)
-
 - [2015-Pro Java 8 Programming-3rd #Book#](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
 
 - [2017-Think Java #Book#](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
@@ -54,9 +46,21 @@
 
 - [2016-Think-in-Java #Book#](https://parg.co/b7t): Thinking In Java should be read cover to cover by every Java programmer, then kept close at hand for frequent reference. The exercises are challenging, and the chapter on Collections is superb!
 
-- [2014-Java 问题定位技术 #Book#](http://download.csdn.net/download/dhf880913/9337919)
-
 - [2015-The CERT ® Oracle ® Secure Coding Standard for Java #Book#](https://ptgmedia.pearsoncmg.com/images/9780321803955/samplepages/0321803957.pdf)
+
+### Concurrent
+
+- [2011-Java Concurrency In Practice #Book#](https://parg.co/UVQ):Our goal is to give readers a set of design rules and mental models that make it easier and more fun to build correct, performant concurrent classes and applications in Java.
+
+- [2012-Java 并发编程实战 #Book#](http://book.51cto.com/art/201203/323171.htm): 本书深入浅出地介绍了 Java 线程和并发，是一本完美的 Java 并发参考手册。
+
+### JVM & Tuning
+
+- [2011-深入理解 Java 虚拟机：JVM 高级特性与最佳实践 #Book#](https://parg.co/b1E)：全书共分为五大部分。第一部分从宏观的角度介绍了整个 Java 技术体系的过去、现在和未来；第二部分讲解了 JVM 的自动内存管理；第三部分分析了虚拟机的执行子系统；第四部分讲解了程序的编译与代码的优化；第五部分探讨了 Java 实现高效并发的原理。
+
+- [JVM 内幕：Java 虚拟机详解 #Book#](https://www.importnew.com/17770.html)
+
+- [2014-Java 问题定位技术 #Book#](http://download.csdn.net/download/dhf880913/9337919)
 
 ### Spring
 
@@ -68,27 +72,31 @@
 
 ## Blog | 博客
 
-- [Novixys Software Dev Blog【Blog】](http://www.novixys.com/blog/): [Using Timer Class to Schedule Tasks](http://www.novixys.com/blog/using-timer-schedule-tasks/)
+- [Novixys Software Dev Blog #Blog#](http://www.novixys.com/blog/): [Using Timer Class to Schedule Tasks](http://www.novixys.com/blog/using-timer-schedule-tasks/)
 
-- [java-weekly](http://www.thoughts-on-java.org/java-weekly/)
+- [java-weekly #Blog#](http://www.thoughts-on-java.org/java-weekly/)
 
-- [Java, JVM and beyond](http://blog.sanaulla.info/)
+- [Java, JVM and beyond #Blog#](http://blog.sanaulla.info/)
 
-- [javacodegeeks](http://www.javacodegeeks.com/category/java/core-java/)
+- [javacodegeeks #Blog#](http://www.javacodegeeks.com/category/java/core-java/)
 
-- [Oracle-Java Magazine](http://www.oracle.com/technetwork/java/javamagazine/index.html)
+- [Oracle-Java Magazine #Blog#](http://www.oracle.com/technetwork/java/javamagazine/index.html)
 
-- [ImportNews:专注 Java&Android](http://www.importnew.com/)
+- [ImportNews，专注 Java&Android #Blog#](http://www.importnew.com/)
 
-- [来自 GeniusVJR 的学习笔记](https://github.com/GeniusVJR/LearningNotes)
+- [来自 GeniusVJR 的学习笔记 #Blog#](https://github.com/GeniusVJR/LearningNotes)
 
-- [Java Specialists](https://www.javaspecialists.eu/): From expert level specialists articles, to inhouse concurrency courses to emergency consulting.
+- [2019-Java3y #Blog#](https://github.com/ZhongFuCheng3y/3y): 从 Java 基础、JavaWeb 基础到常用的框架再到面试题都有完整的教程，几乎涵盖了 Java 后端必备的知识点
+
+- [Java Specialists #Blog#](https://www.javaspecialists.eu/): From expert level specialists articles, to inhouse concurrency courses to emergency consulting.
 
 ## Series | 系列文章
 
 - [JCSprout #Series#](https://github.com/crossoverJie/JCSprout): Java Core Sprout: basic, concurrent, algorithm
 
 - [2018-Java 面试题，精品合集](http://www.iocoder.cn/Interview/good-collection/?title)
+
+- [2018-Java Interview #Collection#](https://github.com/crossoverJie/Java-Interview): 多数是一些 Java 基础知识、底层原理、算法详解。也有上层应用设计，其中不乏一些大厂面试真题。
 
 # Tutorial
 
@@ -129,8 +137,6 @@
 - [Java 高级开发工程师面试考点](http://www.sanesee.com/article/java-engineer-interview-of-content-tree)
 
 - [Java 面试问题](https://dongchuan.gitbooks.io/java-interview-question/content/java/index.html)
-
-- [2018-Java Interview](https://github.com/crossoverJie/Java-Interview): 多数是一些 Java 基础知识、底层原理、算法详解。也有上层应用设计，其中不乏一些大厂面试真题。
 
 - [Top 10 Mistakes Java Developers Make](http://www.gauravkgupta.com/top-10-mistakes-java-developers-make/)
 
