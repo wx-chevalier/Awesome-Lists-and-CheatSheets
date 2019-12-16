@@ -40,6 +40,8 @@
 
 - [2019-Halterman-Fundamentals of Python Programming](https://python.cs.southern.edu/pythonbook/pythonbook.pdf): Fundamentals of Python Programming.
 
+- [2019-Python最佳实践指南！#Book#](https://pythonguidecn.readthedocs.io/zh/latest/): 这份人工编写的指南旨在为Python初学者和专家提供一个 关于Python安装、配置、和日常使用的最佳实践手册。
+
 ## Collection
 
 - [2019-Awesome Python Applications #Collection#](https://github.com/mahmoud/awesome-python-applications): 💿 Free software that works great, and also happens to be open-source Python
