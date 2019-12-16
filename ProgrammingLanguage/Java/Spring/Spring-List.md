@@ -14,10 +14,6 @@
 
 - [使用 Spring 进行远程访问与 Web 服务](http://www.cnblogs.com/zfc2201/p/3473974.html)
 
-# Resource
-
-- Spring 中文文档系列：[Spring MVC 4.2.4.RELEASE 中文文档](https://spring-mvc.linesh.tw/)，[Spring Framework 5 中文文档](https://lfvepclr.gitbooks.io/spring-framework-5-doc-cn/content/)，[Spring Framework 中文文档](https://www.docs4dev.com/docs/zh/spring-framework/5.1.3.RELEASE/reference)
-
 # Tutorial
 
 - [2017-Docker + Spring Boot Microservice (with Gradle)](https://parg.co/bhg): Step-by-step tutorial on how to create a Spring Boot Microservice and wrap it up using Docker for simple, better and safer deployments of redundant APIs.
