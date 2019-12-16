@@ -18,22 +18,6 @@
 
 - Spring 中文文档系列：[Spring MVC 4.2.4.RELEASE 中文文档](https://spring-mvc.linesh.tw/)，[Spring Framework 5 中文文档](https://lfvepclr.gitbooks.io/spring-framework-5-doc-cn/content/)，[Spring Framework 中文文档](https://www.docs4dev.com/docs/zh/spring-framework/5.1.3.RELEASE/reference)
 
-## Course
-
-- [2018-The "REST with Spring" Classes #Course#](https://github.com/eugenp/tutorials): This project is a collection of small and focused tutorials - each covering a single and well defined area of development in the Java ecosystem. A strong focus of these is, of course, the Spring Framework - Spring, Spring Boot and Spring Securiyt. In additional to Spring, the following technologies are in focus: core Java, Jackson, HttpClient, Guava.
-
-## Series
-
-- [浅入浅出 Java Web #Series#](https://github.com/letiantian/another-tutorial-about-java-web): 浅入浅出 Java Web
-
-- [2017-Spring Cloud 系列文章](http://www.ityouknow.com/spring-cloud)
-
-- [2016-Spring Boot 系列文章](http://www.ityouknow.com/spring-boot)
-
-- [2016-Spring Boot For Beginners #Series#](https://github.com/in28minutes/SpringBootForBeginners): In this course, you will learn the cool things about Spring Boot and Spring Boot Starter Projects. We will develop a basic REST Service to manage questions of a survey.
-
-- [2017-Sprint Boot 完整教程 #Series#](https://blog.csdn.net/column/details/13466.html): 从功能性的角度开始讲解 Spring Boot 的用户，层层递进。全教程分为两个等级初级和高级，完美讲述了 Spring Boot 在开发过程中的使用。
-
 # Tutorial
 
 - [2017-Docker + Spring Boot Microservice (with Gradle)](https://parg.co/bhg): Step-by-step tutorial on how to create a Spring Boot Microservice and wrap it up using Docker for simple, better and safer deployments of redundant APIs.

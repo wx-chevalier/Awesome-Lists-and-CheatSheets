@@ -100,6 +100,8 @@
 
 - [2018-KeyDB #Project#](https://github.com/JohnSully/KeyDB): A Multithreaded Fork of Redis
 
+- [Redis-shake #Project#](https://github.com/alibaba/RedisShake): Redis-shake 是一个用于在两个 redis 之间同步数据的工具，满足用户非常灵活的同步、迁移需求。
+
 # Document Database
 
 ## Search Engine

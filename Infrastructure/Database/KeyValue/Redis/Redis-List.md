@@ -67,7 +67,3 @@
 - [Redis 的性能幻想与残酷现实](http://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=401738746&idx=1&sn=281af530d5abec981f3607d6e729914a&scene=21#wechat_redirect)
 
 - [Under the Hood of Redis](http://redisplanet.com/redis/under-the-hood-of-redis-hash-part-1/)
-
-# OpenSource
-
-- [Redis-shake #Project#](https://github.com/alibaba/RedisShake): Redis-shake 是一个用于在两个 redis 之间同步数据的工具，满足用户非常灵活的同步、迁移需求。
