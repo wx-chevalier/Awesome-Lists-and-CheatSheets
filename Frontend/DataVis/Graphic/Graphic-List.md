@@ -2,11 +2,7 @@
 
 # Graphics List | 绘图基础资料索引
 
-# Basics
-
-- [2016-使用 JavaScript 和 canvas 做精确的像素碰撞检测](https://www.cnblogs.com/nzbin/p/5720862.html)
-
-- [2017-等一下，我碰！](https://github.com/JChehe/blog/issues/8): 常见的 2D 碰撞检测。
+- [2019-Images done right: Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-done-right-web-graphics-good-to-the-last-byte-optimization-techniques): Study the theory behind digital images and how humans perceive them—to improve the experience for your users.
 
 # Svg
 
