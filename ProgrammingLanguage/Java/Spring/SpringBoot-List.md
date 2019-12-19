@@ -46,4 +46,6 @@
 
 - [2018-Unit and Integration Tests in Spring Boot](https://dzone.com/articles/unit-and-integration-tests-in-spring-boot-2): Learn how to write unit and integration tests in a Spring Boot environment and the tools to facilitate this in this tutorial.
 
+- [2019-Unit Testing with Spring Boot](https://reflectoring.io/unit-testing-spring-boot/): This tutorial provides you with these mechanics and goes into the technical details that are necessary to write good unit tests with a focus on Spring Boot applications.
+
 ## Production | 发布到生产环境
