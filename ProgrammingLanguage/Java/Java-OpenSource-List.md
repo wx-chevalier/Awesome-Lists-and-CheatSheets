@@ -91,6 +91,8 @@
 
 ## Redis
 
+- [Redisson #Project#](https://github.com/redisson/redisson): Redis Java client with features of In-Memory Data Grid. Supports over 30 objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, RPC.
+
 - [Lettuce #Project#](https://github.com/lettuce-io/lettuce-core): Lettuce is a scalable thread-safe Redis client for synchronous, asynchronous and reactive usage. Multiple threads may share one connection if they avoid blocking and transactional operations such as BLPOP and MULTI/EXEC.
 
 ## MyBatis
