@@ -10,8 +10,6 @@
 
 # SuRF
 
-- [SuRF，BloomFilter 的替代品？](https://www.atatech.org/articles/116385): SuRF 是一种查询效率高、压缩比高的字典树（Trie）数据结构，其功能十分简单，提供过滤器的功能。
-
 - [SuRF #Project#](https://github.com/efficient/SuRF): First Practical and General-purpose Range Filter
 
 # Algorithms

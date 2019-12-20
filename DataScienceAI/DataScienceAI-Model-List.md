@@ -56,7 +56,7 @@
 
 ## Others
 
-- [2017-用深度学习对对联 #Project#](https://github.com/wb14123/seq2seq-couplet): This is a project use seq2seq model to play couplets (对对联)。 This project is written with Tensorflow. You can try the demo at https://ai.binwang.me/couplet.
+- [2017-用深度学习对对联 #Project#](https://github.com/wb14123/seq2seq-couplet): This is a project use seq2seq model to play couplets (对对联)。This project is written with Tensorflow. You can try the demo at https://ai.binwang.me/couplet.
 
 # Game | 游戏
 
