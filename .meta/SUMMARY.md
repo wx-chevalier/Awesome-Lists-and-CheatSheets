@@ -91,7 +91,6 @@
     - [DistributedTracing-List](../Backend/MicroService/RPC/DistributedTracing-List.md) 
     - [Dubbo-List](../Backend/MicroService/RPC/Dubbo-List.md) 
     - [RPC-List](../Backend/MicroService/RPC/RPC-List.md) 
-    - [ServiceDiscovery-List](../Backend/MicroService/RPC/ServiceDiscovery-List.md) 
     - [gRPC-List](../Backend/MicroService/RPC/gRPC-List.md) 
   - [Serverless](../Backend/MicroService/Serverless/README.md) 
     - [Serverless-List](../Backend/MicroService/Serverless/Serverless-List.md) 

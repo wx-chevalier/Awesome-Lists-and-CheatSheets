@@ -29,3 +29,9 @@ http://apizza.cc/
 https://nei.netease.com/
 
 https://www.eolinker.com/
+
+- [微服务架构的基础框架选择：Spring Cloud 还是 Dubbo？](http://blog.didispace.com/microservice-framework/)
+
+# rpcx
+
+- [2019-rpcx 简史](https://blog.rpcx.site/posts/why-did-i-develop-rpcx/): 现在回过头来看 2016 年的一些探索，真是走对了方向。所以说， 2016 年是 rpcx 的元年，5.18 是它的诞生日。

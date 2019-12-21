@@ -38,6 +38,8 @@
 
 - [Dragonfly #Project#](https://github.com/alibaba/Dragonfly): Dragonfly is an intelligent P2P based file distribution system. It aims to resolve issues related to low-efficiency, low-success rate and waste of network bandwidth in file transferring process.
 
+- [Harbor #Project#](https://goharbor.io/): Harbor is an open source container image registry that secures images with role-based access control, scans images for vulnerabilities, and signs images as trusted.
+
 # Kubernetes
 
 ## Management
