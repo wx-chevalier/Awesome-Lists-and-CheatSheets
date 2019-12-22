@@ -12,4 +12,4 @@
 
 # Kubernetes
 
-- [2019-Dubbo 应用迁移到 docker 的问题](https://blog.51cto.com/nxlhero/2447505): Dubbo 是阿里开源的一套服务治理与 rpc 框架，服务的提供者通过 zookeeper 把自己的服务发布上去，然后服务调用方通过 zk 获取服务的 ip 和端口，dubbo 客户端通过自己的软负载功能自动选择服务提供者并调用，整个过程牵涉到的三方关系如下图所示。
+- [2019-Dubbo 应用迁移到 Docker 的问题](https://blog.51cto.com/nxlhero/2447505): Dubbo 是阿里开源的一套服务治理与 rpc 框架，服务的提供者通过 zookeeper 把自己的服务发布上去，然后服务调用方通过 zk 获取服务的 ip 和端口，dubbo 客户端通过自己的软负载功能自动选择服务提供者并调用，整个过程牵涉到的三方关系如下图所示。
