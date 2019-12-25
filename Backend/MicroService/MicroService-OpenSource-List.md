@@ -106,14 +106,6 @@
 
 - [2018-Nacos #Project#](https://github.com/alibaba/nacos): an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications(更易于构建云原生应用的动态服务发现、配置管理和服务管理平台)
 
-## Distributed Transaction | 分布式事务
-
-- [2015-tcc transaction #Project#](https://github.com/changmingxie/tcc-transaction): tcc-transaction 是 TCC 型事务 java 实现。
-
-- [2016-Solar #Project#](https://github.com/prontera/spring-cloud-rest-tcc): 基于 Spring Cloud Netflix 的 TCC 柔性事务和 EDA 事件驱动示例，结合 Spring Cloud Sleuth 进行会话追踪和 Spring Boot Admin 的健康监控，并辅以 Hystrix Dashboard 提供近实时的熔断监控。
-
-- [2017-ByteTCC #Project#](https://github.com/liuyangming/ByteTCC): ByteTCC 是一个兼容 JTA 规范的基于 TCC 机制的分布式事务管理器。
-
 # Web Server
 
 - [Mock.js](http://mockjs.com/)
@@ -135,3 +127,25 @@
 - [Apereo CAS #Project#](https://github.com/apereo/cas): Enterprise Single Sign On for all earthlings and beyond.
 
 - [2018-sso #Project#](https://github.com/buzzfeed/sso): Ovingly known as the S.S. Octopus or octoboi — is the authentication and authorization system BuzzFeed developed to provide a secure, single sign-on experience for access to the many internal web apps used by our employees.
+
+- [2019-Ambassador #Project#](https://github.com/datawire/ambassador): open source Kubernetes-native API gateway for microservices built on the Envoy Proxy.
+
+# Service Mesh
+
+- [Istio #Project#](https://istio.io/about/intro.html): Istio is an open platform that provides a uniform way to connect, manage, and secure microservices. Istio supports managing traffic flows between microservices, enforcing access policies, and aggregating telemetry data, all without requiring changes to the microservice code.
+
+- [Service Fabric #Project#](https://github.com/Microsoft/service-fabric): Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
+
+## Sidecar
+
+- [Envoy #Project#](https://www.envoyproxy.io/): Envoy is an OpenSource Egde and Service Proxy, Design for Cloud-Native Applications.
+
+- [2019-Kuma #Project#](https://kuma.io/docs/0.1.0/#what-is-kuma): Kuma is a universal open-source control plane for Service Mesh and Microservices.
+
+# Serverless
+
+- [2017-faas #Project#](https://github.com/alexellis/faas): Functions as a Service - a serverless framework for Docker & Kubernetes
+
+- [1Backend #Project#](https://github.com/1backend/1backend): Run your web apps with the ease of git repos. Build reusable microservices and functions.
+
+- [OpenWhisk #Project#](https://github.com/apache/incubator-openwhisk): OpenWhisk is a cloud-first distributed event-based programming service. It provides a programming model to upload event handlers to a cloud service, and register the handlers to respond to various events.

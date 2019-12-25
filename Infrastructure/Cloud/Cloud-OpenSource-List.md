@@ -72,22 +72,3 @@
 
 - [Brigade #Project#](https://github.com/Azure/brigade): Script simple and complex workflows using JavaScript. Chain together containers, running them in parallel or serially. Fire scripts based on times, GitHub events, Docker pushes, or any other trigger. Brigade is the tool for creating pipelines for Kubernetes.
 
-# Service Mesh
-
-- [Istio #Project#](https://istio.io/about/intro.html): Istio is an open platform that provides a uniform way to connect, manage, and secure microservices. Istio supports managing traffic flows between microservices, enforcing access policies, and aggregating telemetry data, all without requiring changes to the microservice code.
-
-- [Service Fabric #Project#](https://github.com/Microsoft/service-fabric): Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
-
-## Sidecar
-
-- [Envoy #Project#](https://www.envoyproxy.io/): Envoy is an OpenSource Egde and Service Proxy, Design for Cloud-Native Applications.
-
-- [2019-Kuma #Project#](https://kuma.io/docs/0.1.0/#what-is-kuma): Kuma is a universal open-source control plane for Service Mesh and Microservices.
-
-# Serverless
-
-- [2017-faas #Project#](https://github.com/alexellis/faas): Functions as a Service - a serverless framework for Docker & Kubernetes
-
-- [1Backend #Project#](https://github.com/1backend/1backend): Run your web apps with the ease of git repos. Build reusable microservices and functions.
-
-- [OpenWhisk #Project#](https://github.com/apache/incubator-openwhisk): OpenWhisk is a cloud-first distributed event-based programming service. It provides a programming model to upload event handlers to a cloud service, and register the handlers to respond to various events.

@@ -2,6 +2,10 @@
 
 - [2018-Elasticsearch Performance Tuning Practice at eBay](https://parg.co/Utg): This document summarizes the challenges as well as the process and tools that the Pronto team builds to address the challenges in a strategic way.
 
+# Performance Tuning 
+
+- [2019-优化后，ES 做到了几十亿数据检索 3 秒返回](https://mp.weixin.qq.com/s/p_XfgUNQz6x-FJZZsRMJkA?from=groupmessage&isappinstalled=0&scene=1&clicktime=1577289163&enterid=1577289163): 数据平台已迭代三个版本，从头开始遇到很多常见的难题，终于有片段时间整理一些已完善的文档，在此分享以供所需朋友的现参考，少走些弯路，在此篇幅中偏重于ES的优化，关于HBase，Hadoop的设计优化估计有很多文章可以参考，不再赘述。
+
 # Cluster 
 
 - [2016-Anatomy of an Elasticsearch Cluster #Series#](https://parg.co/UZz): This post is part of a series covering the underlying architecture and prototyping examples with a popular distributed search engine, Elasticsearch.
