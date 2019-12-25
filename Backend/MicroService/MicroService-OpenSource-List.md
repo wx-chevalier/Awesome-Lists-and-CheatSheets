@@ -78,6 +78,8 @@
 
 - [2018-ServiceComb #Project#](http://servicecomb.apache.org/cn/): 开箱即用、高性能、兼容流行生态、支持多语言的一站式开源微服务解决方案。
 
+- [Zebra #Project#](https://gitee.com/gszebra/zebra): Zebra 是国信证券的微服务框架，是国信证券在微服务架构和 CNCF 上的实践，让有相同目标方向的尽量少走弯路。
+
 ## Data Formatter
 
 - [gron #Project#](https://github.com/tomnomnom/gron): gron transforms JSON into discrete assignments to make it easier to grep for what you want and see the absolute 'path' to it.
