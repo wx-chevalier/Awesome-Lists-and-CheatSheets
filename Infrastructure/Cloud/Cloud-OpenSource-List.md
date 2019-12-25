@@ -38,6 +38,8 @@
 
 - [Dragonfly #Project#](https://github.com/alibaba/Dragonfly): Dragonfly is an intelligent P2P based file distribution system. It aims to resolve issues related to low-efficiency, low-success rate and waste of network bandwidth in file transferring process.
 
+- [Harbor #Project#](https://goharbor.io/): Harbor is an open source container image registry that secures images with role-based access control, scans images for vulnerabilities, and signs images as trusted.
+
 # Kubernetes
 
 ## Management
@@ -63,6 +65,8 @@
 - [OpenEBS](https://www.openebs.io/): OpenEBS is an open source storage platform that provides persistent and containerized block storage for DevOps and container environments.
 
 ## Development
+
+- [2018-Kubernetes Client #Project#](https://github.com/kubernetes-client): This organization hosts Kubernetes API client libraries.
 
 - [Skaffold #Project#](https://github.com/GoogleCloudPlatform/skaffold): Skaffold is a command line tool that facilitates continuous development for Kubernetes applications.
 
