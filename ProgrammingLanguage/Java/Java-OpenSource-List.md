@@ -123,6 +123,10 @@
 
 - [Spark #Project#](https://github.com/perwendel/spark): A simple expressive web framework for java. News: Spark now has a kotlin DSL.
 
+- [2017-Micronaut #Project#](https://micronaut.io): A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.
+
+- [2017-Quarkus #Project#](https://quarkus.io/#!): A Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards.
+
 ## Spring
 
 - [SOFABoot #Project#](https://github.com/alipay/sofa-boot): SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc.
