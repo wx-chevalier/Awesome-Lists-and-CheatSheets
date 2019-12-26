@@ -142,6 +142,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [Climber #Project#](https://github.com/raffaele-forte/climber): Check UNIX/Linux systems for privilege escalation
 
+- [TUF #Project#](https://theupdateframework.github.io/): TUF是一项用于保护软件更新系统的开源安全技术，亦是从云原生计算基金会毕业的第一个以规范与安全性为重点的项目。
+
 # Network
 
 ## DNS
