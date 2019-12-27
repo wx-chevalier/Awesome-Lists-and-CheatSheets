@@ -34,6 +34,8 @@
 
 - 今日头条：[今日头条 Go 建千亿级微服务的实践](https://zhuanlan.zhihu.com/p/26695984)
 
+- 美团：[美团下一代服务治理系统 OCTO2.0 的探索与实践](https://mp.weixin.qq.com/s/2eu6gX5OuSCf8wO6jeeIag)
+
 - [2017-The evolution of scalable microservices](https://www.oreilly.com/ideas/the-evolution-of-scalable-microservices): In this article, we will look at microservices, not as a tool to scale the organization, development and release process (even though it's one of the main reasons for adopting microservices), but from an architecture and design perspective, and put it in its true context: distributed systems.
 
 - [2017-Testing Strategies in Microservices Architecture](https://parg.co/bec): Microservices is a new term introduced which changed the architecture of the software development, moreover, it changes the working culture of the teams the way teams work together.
@@ -57,7 +59,7 @@
 
 - [2017- 如何快速搭建一个微服务架构？](http://mp.weixin.qq.com/s/aR_gz8Ns6ndegCc9WDT6fQ)：微服务火了很久，但网上很少有文章能做到成熟地将技术传播出来，同时完美地照顾 “ 初入微服务领域人员 ”，从 0 开始，采用通俗易懂的语言去讲解微服务架构的系列。所以，我们策划了这篇文章。
 
-- [2017- 几种常见的微服务架构方案简述——ZeroC IceGrid、Spring Cloud、基于消息队列](http://www.broadview.com.cn/article/348)
+- [2017-几种常见的微服务架构方案简述——ZeroC IceGrid、Spring Cloud、基于消息队列](http://www.broadview.com.cn/article/348)
 
 - [Refactoring to microservices #Series#](https://parg.co/b2z): How to move from traditional middleware architectures to microservices.[Part 1: What to consider when migrating from a monolith](https://parg.co/b2z)
 

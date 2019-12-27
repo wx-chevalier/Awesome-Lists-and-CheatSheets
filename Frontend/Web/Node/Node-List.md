@@ -50,6 +50,8 @@
 
 - [The Definitive Guide for Monitoring Node.js Applications](https://blog.risingstack.com/monitoring-nodejs-applications-nodejs-at-scale/)
 
+- [npm install 原理分析](https://mp.weixin.qq.com/s/5tmND0G_ZkYVR7Dmug0ugQ): 开门见山，npm install 大概会经过上面的几个流程，本篇文章来讲一讲各个流程的实现细节、发展以及为何要这样实现。
+
 ## Commandline Tool | 命令行工具
 
 - [Building command line tools with Node.js](https://developer.atlassian.com/blog/2015/11/scripting-with-node/)

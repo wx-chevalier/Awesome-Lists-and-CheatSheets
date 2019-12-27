@@ -74,3 +74,6 @@
 
 - [2013-F1: A Distributed SQL Database That Scales #Paper#](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41344.pdf): F1 is a distributed relational database system built at Google to support the AdWords business.
 
+# Tutorials
+
+- [2019-几万年前，有一只猴子大闹地府后删库跑路...](https://mp.weixin.qq.com/s/5QZiNOt98Dr4M0L5tvJNZA): 生死薄技术上如何实现？广大生灵在生死薄中的唯一标记是什么？阴间数据库是什么样一个数据库？于是脑洞大开的程序员开始了他们的表演.....
