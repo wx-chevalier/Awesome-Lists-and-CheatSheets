@@ -22,13 +22,13 @@
 
 ## Changelog（版本特性）
 
-- [2019-Vue 3中那些激动人心的新功能](https://mp.weixin.qq.com/s/SWIVoLfPjUe8BM6Bld5S9g): Vue 3 带来了许多激动人心的新功能。值得庆幸的是，Vue 团队主要针对当前 API 做了添加和改进，没有引入多少重大更改。因此，熟悉 Vue 2 的开发人员应该可以很快习惯新语法。
+- [2019-Vue 3 中那些激动人心的新功能](https://mp.weixin.qq.com/s/SWIVoLfPjUe8BM6Bld5S9g): Vue 3 带来了许多激动人心的新功能。值得庆幸的是，Vue 团队主要针对当前 API 做了添加和改进，没有引入多少重大更改。因此，熟悉 Vue 2 的开发人员应该可以很快习惯新语法。
 
 ## Case Study | 案例分析
 
 - [2017-Creating Beautiful Charts Using Vue Wrappers for Chart.js](https://www.sitepoint.com/creating-beautiful-charts-vue-chart-js/): In this article I will show you how to represent data in the form of various types of chart with the help of Chart.js and Vue.
 
-## Comparison | 比较
+## Comparison（比较）
 
 - [React or Vue: Which Javascript UI Library Should You Be Using?](https://medium.com/js-dojo/react-or-vue-which-javascript-ui-library-should-you-be-using-543a383608d#.cq7hef3um)
 
