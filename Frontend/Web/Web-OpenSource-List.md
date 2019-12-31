@@ -299,7 +299,3 @@
 ## Cross Browser Test | 跨浏览器测试
 
 - [Airtap #Project#](https://github.com/airtap/airtap): Airtap is an easy way to test your JavaScript in browsers, using a TAP-producing harness like tap or tape.
-
-## Network | 网络工具
-
-- [Polly.JS #Project#](https://github.com/Netflix/pollyjs): Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing HTTP interactions.
