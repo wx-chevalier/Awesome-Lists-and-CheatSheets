@@ -66,6 +66,10 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [Jump Server #Project#](https://github.com/jumpserver/jumpserver): Jumpserver 是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。
 
+# Cryptology（加密）
+
+- [age #Project#](https://github.com/FiloSottile/age): A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
+
 # Vulns
 
 ## Payloads
@@ -142,7 +146,7 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [Climber #Project#](https://github.com/raffaele-forte/climber): Check UNIX/Linux systems for privilege escalation
 
-- [TUF #Project#](https://theupdateframework.github.io/): TUF是一项用于保护软件更新系统的开源安全技术，亦是从云原生计算基金会毕业的第一个以规范与安全性为重点的项目。
+- [TUF #Project#](https://theupdateframework.github.io/): TUF 是一项用于保护软件更新系统的开源安全技术，亦是从云原生计算基金会毕业的第一个以规范与安全性为重点的项目。
 
 # Network
 

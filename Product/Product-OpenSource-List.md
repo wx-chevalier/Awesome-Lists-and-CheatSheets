@@ -23,3 +23,9 @@
 - [2014-Alf.io](https://github.com/alfio-event/alf.io): The open source ticket reservation system for conferences, trade shows, workshops, meetups.
 
 - [2018-frab #Project#](https://github.com/frab/frab): frab is a web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule.
+
+# Analytics
+
+- [Fathom #Project#](https://github.com/usefathom/fathom): Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.
+
+- [Matomo #Project#](https://github.com/matomo-org/matomo): Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
