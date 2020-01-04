@@ -10,7 +10,7 @@
 
 - [rems and ems, and why you probably don’t need them](https://parg.co/b4k)
 
-- [了解真实的『REM 』手机屏幕适配](https://github.com/hbxeagle/rem/blob/master/README.md)
+- [了解真实的REM 手机屏幕适配](https://github.com/hbxeagle/rem/blob/master/README.md)
 
 - [viewport-units-vw-vh-vmin-vmax/](https://web-design-weekly.com/2014/11/18/viewport-units-vw-vh-vmin-vmax/)
 

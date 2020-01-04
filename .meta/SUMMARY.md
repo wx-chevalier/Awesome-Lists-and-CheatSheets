@@ -960,6 +960,7 @@
 - [Career](../Specials/Career/README.md) 
   - [Coding-as-Vetren](../Specials/Career/Coding-as-Vetren.md) 
   - [Startup-Stories](../Specials/Career/Startup-Stories.md) 
+  - [Writing-List](../Specials/Career/Writing-List.md) 
 - [Collections](../Specials/Collections/README.md) 
   - [Awesome-Codebases](../Specials/Collections/Awesome-Codebases.md) 
   - [Awesome-Collections](../Specials/Collections/Awesome-Collections.md) 
