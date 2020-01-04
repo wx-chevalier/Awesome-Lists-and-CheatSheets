@@ -104,6 +104,8 @@
   - [PerformanceTest-List](../Backend/Test/PerformanceTest-List.md) 
   - [Test-List](../Backend/Test/Test-List.md) 
   - [Test-OpenSource-List](../Backend/Test/Test-OpenSource-List.md) 
+- [WebServer](../Backend/WebServer/README.md) 
+  - [WebServer-List](../Backend/WebServer/WebServer-List.md) 
 
 ## [Business](../Business/README.md) 
 
@@ -958,6 +960,7 @@
 - [Career](../Specials/Career/README.md) 
   - [Coding-as-Vetren](../Specials/Career/Coding-as-Vetren.md) 
   - [Startup-Stories](../Specials/Career/Startup-Stories.md) 
+  - [Writing-List](../Specials/Career/Writing-List.md) 
 - [Collections](../Specials/Collections/README.md) 
   - [Awesome-Codebases](../Specials/Collections/Awesome-Codebases.md) 
   - [Awesome-Collections](../Specials/Collections/Awesome-Collections.md) 
@@ -969,10 +972,10 @@
   - [Awesome-Sites](../Specials/Collections/Awesome-Sites.md) 
   - [Learning-CheatSheet](../Specials/Collections/Learning-CheatSheet.md) 
 - [Tools](../Specials/Tools/README.md) 
+  - [Awesome-Assistants](../Specials/Tools/Awesome-Assistants.md) 
   - [Awesome-Editors](../Specials/Tools/Awesome-Editors.md) 
   - [Awesome-Extensions](../Specials/Tools/Awesome-Extensions.md) 
   - [Awesome-Open-APIs](../Specials/Tools/Awesome-Open-APIs.md) 
-  - [Awesome-Presentations](../Specials/Tools/Awesome-Presentations.md) 
   - [Awesome-Services](../Specials/Tools/Awesome-Services.md) 
   - [Workbench-CheatSheet.en](../Specials/Tools/Workbench-CheatSheet.en.md) 
   - [Workbench-CheatSheet](../Specials/Tools/Workbench-CheatSheet.md) 

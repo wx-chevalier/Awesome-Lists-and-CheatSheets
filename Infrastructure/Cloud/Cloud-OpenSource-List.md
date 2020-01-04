@@ -42,6 +42,8 @@
 
 # Kubernetes
 
+- [2019-KinD #Project#](https://github.com/kubernetes-sigs/kind/): kind is a tool for running local Kubernetes clusters using Docker container "nodes". kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI.
+
 ## Management
 
 - [krew #Project#](https://github.com/GoogleContainerTools/krew): krew is the package manager for kubectl plugins.
@@ -72,3 +74,6 @@
 
 - [Brigade #Project#](https://github.com/Azure/brigade): Script simple and complex workflows using JavaScript. Chain together containers, running them in parallel or serially. Fire scripts based on times, GitHub events, Docker pushes, or any other trigger. Brigade is the tool for creating pipelines for Kubernetes.
 
+## HA
+
+- [kube-prometheus #Project#](https://github.com/coreos/kube-prometheus): Use Prometheus to monitor Kubernetes and applications running on Kubernetes.

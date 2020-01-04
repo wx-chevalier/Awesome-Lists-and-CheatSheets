@@ -30,4 +30,4 @@
 
 # IM 系统
 
-- [现代 IM 系统中的消息系统架构 #Series#](https://yq.aliyun.com/articles/701593): 我们介绍了现代 IM 消息系统的架构，介绍了 Timeline 的抽象模型以及基于 Timeline 模型构建的一个支持『消息漫游』、『多端同步』和『消息检索』多种高级功能的消息系统的典型架构。
+- [现代 IM 系统中的消息系统架构 #Series#](https://yq.aliyun.com/articles/701593): 我们介绍了现代 IM 消息系统的架构，介绍了 Timeline 的抽象模型以及基于 Timeline 模型构建的一个支持消息漫游、多端同步和消息检索多种高级功能的消息系统的典型架构。

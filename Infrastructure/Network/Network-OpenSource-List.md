@@ -44,6 +44,10 @@
 
 - [whistle #Project#](https://github.com/avwo/whistle): HTTP, HTTPS, WebSocket debugging proxy
 
+## Web
+
+- [Polly.JS #Project#](https://github.com/Netflix/pollyjs): Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing HTTP interactions.
+
 ## Download
 
 - [aria2 #Project#](https://github.com/aria2/aria2): aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.

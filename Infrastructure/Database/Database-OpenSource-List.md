@@ -38,7 +38,7 @@
 
 - [sql-parser #Project#](https://github.com/dt-fe/sql-parser): Light and fast sql parser on browser.
 
-- [2013-druid #Project#](https://github.com/alibaba/druid): 阿里巴巴数据库事业部出品，为监控而生的数据库连接池。
+- [2013-Druid #Project#](https://druid.apache.org/): 阿里巴巴数据库事业部出品，为监控而生的数据库连接池。
 
 - [Apache Calcite #Project#](https://calcite.apache.org/): Industry-standard SQL parser,validator and JDBC driver.
 

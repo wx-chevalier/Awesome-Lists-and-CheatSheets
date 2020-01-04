@@ -32,7 +32,7 @@
 
 - [2017-Intermediate Python #Book#](http://book.pythontips.com/en/latest/index.html#): Through this book I aim to solve this problem. I would give you bits of information about some interesting topics which you can further explore.
 
-- [Python 之旅 #Book#](https://github.com/ethan-funny/explore-python):本书是我学习和使用 Python 的总结。在学习和使用 Python 的过程中，我作了不少笔记，并对一些笔记进行了加工和完善，发表在博客上。随着笔记的增加，我就萌生了写一本书的想法，希望能比较系统地总结相关知识，巩固自己的知识体系，而不是停留在『感觉好像懂了』的状态中。
+- [Python 之旅 #Book#](https://github.com/ethan-funny/explore-python):本书是我学习和使用 Python 的总结。在学习和使用 Python 的过程中，我作了不少笔记，并对一些笔记进行了加工和完善，发表在博客上。随着笔记的增加，我就萌生了写一本书的想法，希望能比较系统地总结相关知识，巩固自己的知识体系，而不是停留在感觉好像懂了的状态中。
 
 - [2017-Cracking Codes with Python #Book#](https://inventwithpython.com/cracking/): Cracking Codes with Python teaches complete beginners how to program in the Python programming language.
 
