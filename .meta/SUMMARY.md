@@ -112,6 +112,8 @@
 - [Introduction](../Business/README.md) 
 
 - [HR-List](../Business/HR-List.md) 
+- [Internet-List](../Business/Internet-List.md) 
+- [Management-List](../Business/Management-List.md) 
 
 ## [DataScienceAI](../DataScienceAI/README.md) 
 
@@ -669,6 +671,7 @@
     - [TechnicalManagement-List](../Product/Management/TechnicalManagement/TechnicalManagement-List.md) 
 - [Operation](../Product/Operation/README.md) 
   - [Operation-List](../Product/Operation/Operation-List.md) 
+  - [UGC-List](../Product/Operation/UGC-List.md) 
 
 ## [ProgrammingLanguage](../ProgrammingLanguage/README.md) 
 
@@ -976,6 +979,7 @@
   - [Awesome-Editors](../Specials/Tools/Awesome-Editors.md) 
   - [Awesome-Extensions](../Specials/Tools/Awesome-Extensions.md) 
   - [Awesome-Open-APIs](../Specials/Tools/Awesome-Open-APIs.md) 
+  - [Awesome-Presentations](../Specials/Tools/Awesome-Presentations.md) 
   - [Awesome-Services](../Specials/Tools/Awesome-Services.md) 
   - [Workbench-CheatSheet.en](../Specials/Tools/Workbench-CheatSheet.en.md) 
   - [Workbench-CheatSheet](../Specials/Tools/Workbench-CheatSheet.md) 

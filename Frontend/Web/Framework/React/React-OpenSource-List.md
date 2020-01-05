@@ -6,7 +6,9 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 # Development Tools | 开发工具
 
-## IDE | 开发环境
+## Scaffold
+
+## Tools
 
 - [Rekit #JavaScript#](https://github.com/supnate/rekit): Toolkit for building scalable web applications with React, Redux and React-router
 
