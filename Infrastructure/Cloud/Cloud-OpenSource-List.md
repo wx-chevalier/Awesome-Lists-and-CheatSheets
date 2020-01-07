@@ -48,9 +48,11 @@
 
 - [krew #Project#](https://github.com/GoogleContainerTools/krew): krew is the package manager for kubectl plugins.
 
+- krew plugins: [kubectl-tree](https://github.com/ahmetb/kubectl-tree)
+
 - [Wayne #Project#](https://github.com/Qihoo360/wayne): Web UI for Kubernetes multi-clusters
 
-- [kubectx #Project#](https://github.com/ahmetb/kubectx): Switch faster between clusters and namespaces in kubectl
+- [kubectx #Project#](https://github.com/ahmetb/kubectx): Switch faster between clusters and namespaces in kubectl.
 
 ## Application Management
 
