@@ -42,9 +42,9 @@
 
 # Kubernetes
 
-- [2019-KinD #Project#](https://github.com/kubernetes-sigs/kind/): kind is a tool for running local Kubernetes clusters using Docker container "nodes". kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI.
+## CLI Tools
 
-## Management
+- [2019-KinD #Project#](https://github.com/kubernetes-sigs/kind/): kind is a tool for running local Kubernetes clusters using Docker container "nodes". kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI.
 
 - [krew #Project#](https://github.com/GoogleContainerTools/krew): krew is the package manager for kubectl plugins.
 
@@ -64,11 +64,19 @@
 
 - [Gatekeeper #Project#](https://github.com/open-policy-agent/gatekeeper): Gatekeeper - Policy Controller for Kubernetes -
 
-## Plugins
+## Network
 
-- [OpenEBS](https://www.openebs.io/): OpenEBS is an open source storage platform that provides persistent and containerized block storage for DevOps and container environments.
+- [OpenEBS #Project#](https://www.openebs.io/): OpenEBS is an open source storage platform that provides persistent and containerized block storage for DevOps and container environments.
 
-## Development
+## Storage
+
+- [Rook #Project#](https://github.com/rook/rook): Rook is an open source cloud-native storage orchestrator for Kubernetes, providing the platform, framework, and support for a diverse set of storage solutions to natively integrate with cloud-native environments.
+
+- [Velero #Project#](https://github.com/vmware-tanzu/velero): Velero (formerly Heptio Ark) gives you tools to back up and restore your Kubernetes cluster resources and persistent volumes. You can run Velero with a cloud provider or on-premises.
+
+- [Stash #Project#](https://github.com/stashed/stash): Stash by AppsCode is a Kubernetes operator for restic. If you are running production workloads in Kubernetes, you might want to take backup of your disks.
+
+## CI & CD
 
 - [2018-Kubernetes Client #Project#](https://github.com/kubernetes-client): This organization hosts Kubernetes API client libraries.
 
