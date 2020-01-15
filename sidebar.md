@@ -690,7 +690,6 @@
         - [Mybatis List](/ProgrammingLanguage/Java/Spring/Mybatis-List.md)
         - [Spring Internals List](/ProgrammingLanguage/Java/Spring/Spring-Internals-List.md)
         - [Spring List](/ProgrammingLanguage/Java/Spring/Spring-List.md)
-        - [Spring OpenSource List](/ProgrammingLanguage/Java/Spring/Spring-OpenSource-List.md)
         - [SpringBoot List](/ProgrammingLanguage/Java/Spring/SpringBoot-List.md)
         - [SpringCloud List](/ProgrammingLanguage/Java/Spring/SpringCloud-List.md)
         - [SpringSecurity List](/ProgrammingLanguage/Java/Spring/SpringSecurity-List.md)

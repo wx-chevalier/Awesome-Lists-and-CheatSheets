@@ -28,6 +28,10 @@
 
 - [2019-DevOps Interview Questions](https://github.com/bregman-arie/devops-interview-questions): Linux, Jenkins, AWS, Network, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP.
 
+## Collection
+
+- [2020-DevOps Questions & Exercises](https://github.com/bregman-arie/devops-exercises): Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
+
 # SRE
 
 - [So you want to be an SRE?](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c#.x8tn42pb7)
