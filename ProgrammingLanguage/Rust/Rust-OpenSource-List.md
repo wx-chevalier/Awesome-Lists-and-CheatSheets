@@ -28,6 +28,8 @@
 
 ## Concurrency
 
+- [2017-actix #Project#](https://github.com/actix/actix): Actor framework for Rust.
+
 - [2019-tokio #Project#](https://github.com/tokio-rs/tokio): A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 
 ## JavaScript Bindings

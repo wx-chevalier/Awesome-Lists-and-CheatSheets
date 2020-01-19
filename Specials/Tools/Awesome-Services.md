@@ -10,6 +10,10 @@
 
 - [2019-Firefly III #Project#](https://firefly-iii.org/about-general.html): “Firefly III” is a financial manager. It can help you keep track of expenses, income, budgets and everything in between. It even supports credit cards, shared household accounts and savings accounts! It’s pretty fancy. You should use it to save and organise money.
 
-# Agent & Assistant 
+# Agent & Assistant
 
-- [2019-Huginn #Project#](https://github.com/huginn/huginn/): Huginn is a system for building agents that perform automated tasks for you online. 
+- [2019-Huginn #Project#](https://github.com/huginn/huginn/): Huginn is a system for building agents that perform automated tasks for you online.
+
+- [2019-Vault #Project#](https://github.com/hashicorp/vault): A tool for secrets management, encryption as a service, and privileged access management.
+
+- [2019-Neko #Project#](https://github.com/nurdism/neko): A self hosted virtual browser (rabb.it clone) that runs in docker. This uses web rtc to stream a desktop inside of a docker container, I made this because rabb.it went under and my internet can't handle streaming and discord keeps crashing.
