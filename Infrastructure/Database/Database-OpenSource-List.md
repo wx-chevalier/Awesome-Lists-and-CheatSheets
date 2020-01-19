@@ -104,6 +104,8 @@
 
 - [2019-Redis Manager #Project#](https://github.com/ngbdf/redis-manager): Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作。
 
+- [2019-Medis #Project#](https://github.com/luin/medis): 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
+
 # Document Database
 
 ## Search Engine
