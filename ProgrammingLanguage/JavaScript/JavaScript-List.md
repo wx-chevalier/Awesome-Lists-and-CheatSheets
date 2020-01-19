@@ -133,4 +133,6 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [top-85-javascript-interview-questions](http://career.guru99.com/top-85-javascript-interview-questions/)
 
-- [interviewcake-javascript-interview-questions ](https://www.interviewcake.com/javascript-interview-questions)
+- [interviewcake-javascript-interview-questions](https://www.interviewcake.com/javascript-interview-questions)
+
+- [2019-typeofnan-javascript-quizzes #Project#](https://quiz.typeofnan.dev/): Learn JavaScript fundamentals through fun and challenging quizzes! Star this repo on Github to follow along as new questions are added! Created by Nick Scialli and many other contributors listed below!
