@@ -4,13 +4,13 @@
 
 # Overview
 
+- [2015-The Next 50 Years of Databases](http://www.cs.cmu.edu/~pavlo/blog/2015/09/the-next-50-years-of-databases.html): I know that it's been a year since my last post and that I still need to write part 3 in my series on the open research problems for transaction processing database systems.
+
+- [2016-Evolutionary Database Design](http://martinfowler.com/articles/evodb.html): Over the last decade we've developed and refined a number of techniques that allow a database design to evolve as an application develops.
+
 - [2017-The Rise of GPU Databases](https://parg.co/UZc): The recent but noticeable shift from CPUs to GPUs is mainly due to the unique benefits they bring to sectors like AdTech, finance, telco, retail, or security/IT . We examine where GPU databases shine.
 
-- [Evolutionary Database Design](http://martinfowler.com/articles/evodb.html)
-
 - [2017-2017 年数据库技术盘点](https://cloud.tencent.com/developer/article/1042652): 我们将从学术界、工程界的角度，从国外到国内，从数据库内核技术到数据库运维等多种角度，一起来回顾精彩的 2017。
-
-- [2015-The Next 50 Years of Databases](http://www.cs.cmu.edu/~pavlo/blog/2015/09/the-next-50-years-of-databases.html): I know that it's been a year since my last post and that I still need to write part 3 in my series on the open research problems for transaction processing database systems.
 
 - [2019-国产数据库激荡 40 年](https://mp.weixin.qq.com/s/JgBbKHzVBbPxClEiNMH2Wg): 在被 Oracle、MySQL、DB2 等产品蚕食的中国数据库市场，国产自研数据库如何才能真正崛起？
 
@@ -77,3 +77,5 @@
 # Tutorials
 
 - [2019-几万年前，有一只猴子大闹地府后删库跑路...](https://mp.weixin.qq.com/s/5QZiNOt98Dr4M0L5tvJNZA): 生死薄技术上如何实现？广大生灵在生死薄中的唯一标记是什么？阴间数据库是什么样一个数据库？于是脑洞大开的程序员开始了他们的表演.....
+
+- [2018-数据库内核杂谈 #Series#](https://www.jianshu.com/nb/25205074): 我希望能够深入浅出地去讲解数据库是一个什么样的系统，以及为什么它最后会演化成这样一个系统，为什么我们都用 SQL 来操作数据，而不是 AQL 或 BQL. 希望读者阅读后，对数据库的理解不再单单只是知道简单的 table, row 等的基本概念或者单单会写些 join, select 的 SQL 语句。而是能从源头真正做到知其所以然。
