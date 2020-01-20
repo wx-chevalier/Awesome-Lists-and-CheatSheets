@@ -94,6 +94,10 @@
 
 - [2019-超轻量级人脸检测模型 #Project#](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB): 该模型设计是针对边缘计算设备或低算力设备(如用 ARM 推理)设计的实时超轻量级通用人脸检测模型，可以在低算力设备中如用 ARM 进行实时的通用场景的人脸检测推理，同样适用于移动端、PC。
 
+## Pattern Recognition
+
+- [Nsfw JS #Project#](https://github.com/infinitered/nsfwjs): A simple JavaScript library to help you quickly identify unseemly images; all in the client's browser. NSFWJS isn't perfect, but it's pretty accurate (~90% from our test set of 15,000 test images)... and it's getting more accurate all the time.
+
 # Development | 开发辅助
 
 - [pix2code #Project#](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot.

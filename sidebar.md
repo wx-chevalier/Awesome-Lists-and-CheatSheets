@@ -1,3 +1,127 @@
+  - AI
+    - [AI Book List](/AI/AI-Book-List.md)
+    - [AI Course List](/AI/AI-Course-List.md)
+    - [AI Example List](/AI/AI-Example-List.md)
+    - [AI List](/AI/AI-List.md)
+    - [AI Model List](/AI/AI-Model-List.md)
+    - [AI OpenSource List](/AI/AI-OpenSource-List.md)
+    - Application
+      - [Application List](/AI/Application/Application-List.md)
+      - Assistant
+        - [Assistant List](/AI/Application/Assistant/Assistant-List.md)
+      - RecommendSystem
+        - [CTR List](/AI/Application/RecommendSystem/CTR-List.md)
+        - [RecommendSystem List](/AI/Application/RecommendSystem/RecommendSystem-List.md)
+      - SNA
+        - [SNA List](/AI/Application/SNA/SNA-List.md)
+      - SelfDriving
+        - [SelfDriving List](/AI/Application/SelfDriving/SelfDriving-List.md)
+    - ComputerVision
+      - [ComputerVision List](/AI/ComputerVision/ComputerVision-List.md)
+      - [OCR List](/AI/ComputerVision/OCR-List.md)
+      - [Object Detection List](/AI/ComputerVision/Object-Detection-List.md)
+    - DeepLearning
+      - CNN
+        - [ConvolutionalNeuralNetworks List](/AI/DeepLearning/CNN/ConvolutionalNeuralNetworks-List.md)
+      - DNN
+        - [GAN List](/AI/DeepLearning/DNN/GAN-List.md)
+        - [LSTM List](/AI/DeepLearning/DNN/LSTM-List.md)
+      - DRL
+        - [DeepReinforcementLearning](/AI/DeepLearning/DRL/DeepReinforcementLearning.md)
+      - [DeepLearning List](/AI/DeepLearning/DeepLearning-List.md)
+      - NeuralNetwork
+        - [NeuralNetwork List](/AI/DeepLearning/NeuralNetwork/NeuralNetwork-List.md)
+      - RNN
+        - [RecurrentNeuralNetwork List](/AI/DeepLearning/RNN/RecurrentNeuralNetwork-List.md)
+      - RepresentationLearning
+        - [RepresentationLearning List](/AI/DeepLearning/RepresentationLearning/RepresentationLearning-List.md)
+    - MachineLearning
+      - Algorithm
+        - Bayes
+          - [Bayes List](/AI/MachineLearning/Algorithm/Bayes/Bayes-List.md)
+        - Classification
+          - [Classification List](/AI/MachineLearning/Algorithm/Classification/Classification-List.md)
+          - [DecisionTree List](/AI/MachineLearning/Algorithm/Classification/DecisionTree-List.md)
+          - [Regression List](/AI/MachineLearning/Algorithm/Classification/Regression-List.md)
+        - Cluster
+          - [Cluster List](/AI/MachineLearning/Algorithm/Cluster/Cluster-List.md)
+        - Ensemble
+          - [Ensemble List](/AI/MachineLearning/Algorithm/Ensemble/Ensemble-List.md)
+        - GraphicalModel
+          - [GraphicalModel List](/AI/MachineLearning/Algorithm/GraphicalModel/GraphicalModel-List.md)
+        - Markov
+          - [Markov List](/AI/MachineLearning/Algorithm/Markov/Markov-List.md)
+        - Reinforcement
+          - [ReinforcementLearning List](/AI/MachineLearning/Algorithm/Reinforcement/ReinforcementLearning-List.md)
+        - Transfer
+          - [TransferLearning List](/AI/MachineLearning/Algorithm/Transfer/TransferLearning-List.md)
+      - DataMining
+        - [DataAnalysis List](/AI/MachineLearning/DataMining/DataAnalysis-List.md)
+      - FeatureEngineering
+        - [FeatureEngineering List](/AI/MachineLearning/FeatureEngineering/FeatureEngineering-List.md)
+        - [Personas List](/AI/MachineLearning/FeatureEngineering/Personas-List.md)
+      - Inference
+        - EM
+          - [EM List](/AI/MachineLearning/Inference/EM/EM-List.md)
+        - Evaluation
+          - [ModelEvaluation List](/AI/MachineLearning/Inference/Evaluation/ModelEvaluation-List.md)
+        - GradientDescent
+          - [GradientDescent List](/AI/MachineLearning/Inference/GradientDescent/GradientDescent-List.md)
+        - [Inference List](/AI/MachineLearning/Inference/Inference-List.md)
+        - MonteCarlo
+          - [MonteCarlo List](/AI/MachineLearning/Inference/MonteCarlo/MonteCarlo-List.md)
+        - OnlineLearning
+          - [OnlineLearning List](/AI/MachineLearning/Inference/OnlineLearning/OnlineLearning-List.md)
+        - VariationalInference
+          - [VariationalInference List](/AI/MachineLearning/Inference/VariationalInference/VariationalInference-List.md)
+      - [MachineLearning List](/AI/MachineLearning/MachineLearning-List.md)
+    - NLP
+      - DialogueSystem
+        - [ASR List](/AI/NLP/DialogueSystem/ASR-List.md)
+        - [Chatbot List](/AI/NLP/DialogueSystem/Chatbot-List.md)
+        - [DialogueSystem List](/AI/NLP/DialogueSystem/DialogueSystem-List.md)
+      - InformationRetrieval
+        - [InformationRetrieval List](/AI/NLP/InformationRetrieval/InformationRetrieval-List.md)
+      - KnowledgeGraph
+        - [KnowledgeGraph List](/AI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
+      - LinguisticStructure
+        - [Representation List](/AI/NLP/LinguisticStructure/Representation-List.md)
+        - [StatisticalLanguageModel List](/AI/NLP/LinguisticStructure/StatisticalLanguageModel-List.md)
+        - [TopicModel List](/AI/NLP/LinguisticStructure/TopicModel-List.md)
+      - MachineTranslation
+        - [MachineTranslation List](/AI/NLP/MachineTranslation/MachineTranslation-List.md)
+      - [NLP List](/AI/NLP/NLP-List.md)
+      - SyntaxSemanticAnalysis
+        - [SyntaxSemanticAnalysis List](/AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
+      - Voice
+        - [Voice List](/AI/NLP/Voice/Voice-List.md)
+    - Statistics
+      - [LinearAlgebra List](/AI/Statistics/LinearAlgebra-List.md)
+      - [Mathematics List](/AI/Statistics/Mathematics-List.md)
+      - [ProbabilityTheory List](/AI/Statistics/ProbabilityTheory-List.md)
+      - [Statistics List](/AI/Statistics/Statistics-List.md)
+    - Toolkit
+      - [DataScienceAI Toolkit List](/AI/Toolkit/DataScienceAI-Toolkit-List.md)
+      - FederalLearning
+        - [FederalLearning List](/AI/Toolkit/FederalLearning/FederalLearning-List.md)
+      - Framework
+        - [Metaflow](/AI/Toolkit/Framework/Metaflow/README.md)
+          
+        - PyTorch
+          - [PyTorch List](/AI/Toolkit/Framework/PyTorch/PyTorch-List.md)
+        - Scikit
+          - [Jupyter List](/AI/Toolkit/Framework/Scikit/Jupyter-List.md)
+          - [Scikit List](/AI/Toolkit/Framework/Scikit/Scikit-List.md)
+          - Vis
+            - [Vis List](/AI/Toolkit/Framework/Scikit/Vis/Vis-List.md)
+        - TensorFlow
+          - [Keras List](/AI/Toolkit/Framework/TensorFlow/Keras-List.md)
+          - [TFjs List](/AI/Toolkit/Framework/TensorFlow/TFjs-List.md)
+          - [TensorFlow Internals List](/AI/Toolkit/Framework/TensorFlow/TensorFlow-Internals-List.md)
+          - [TensorFlow List](/AI/Toolkit/Framework/TensorFlow/TensorFlow-List.md)
+          - [TensorFlow OpenSource List](/AI/Toolkit/Framework/TensorFlow/TensorFlow-OpenSource-List.md)
+      - Platform
+        - [Platform List](/AI/Toolkit/Platform/Platform-List.md)
   - Application
     - [Application List](/Application/Application-List.md)
     - ECommerce
@@ -101,130 +225,6 @@
     - [HR List](/Business/HR-List.md)
     - [Internet List](/Business/Internet-List.md)
     - [Management List](/Business/Management-List.md)
-  - DataScienceAI
-    - Application
-      - [Application List](/DataScienceAI/Application/Application-List.md)
-      - Assistant
-        - [Assistant List](/DataScienceAI/Application/Assistant/Assistant-List.md)
-      - RecommendSystem
-        - [CTR List](/DataScienceAI/Application/RecommendSystem/CTR-List.md)
-        - [RecommendSystem List](/DataScienceAI/Application/RecommendSystem/RecommendSystem-List.md)
-      - SNA
-        - [SNA List](/DataScienceAI/Application/SNA/SNA-List.md)
-      - SelfDriving
-        - [SelfDriving List](/DataScienceAI/Application/SelfDriving/SelfDriving-List.md)
-    - ComputerVision
-      - [ComputerVision List](/DataScienceAI/ComputerVision/ComputerVision-List.md)
-      - [OCR List](/DataScienceAI/ComputerVision/OCR-List.md)
-      - [Object Detection List](/DataScienceAI/ComputerVision/Object-Detection-List.md)
-    - [DataScienceAI Book List](/DataScienceAI/DataScienceAI-Book-List.md)
-    - [DataScienceAI Course List](/DataScienceAI/DataScienceAI-Course-List.md)
-    - [DataScienceAI Example List](/DataScienceAI/DataScienceAI-Example-List.md)
-    - [DataScienceAI List](/DataScienceAI/DataScienceAI-List.md)
-    - [DataScienceAI Model List](/DataScienceAI/DataScienceAI-Model-List.md)
-    - [DataScienceAI OpenSource List](/DataScienceAI/DataScienceAI-OpenSource-List.md)
-    - DeepLearning
-      - CNN
-        - [ConvolutionalNeuralNetworks List](/DataScienceAI/DeepLearning/CNN/ConvolutionalNeuralNetworks-List.md)
-      - DNN
-        - [GAN List](/DataScienceAI/DeepLearning/DNN/GAN-List.md)
-        - [LSTM List](/DataScienceAI/DeepLearning/DNN/LSTM-List.md)
-      - DRL
-        - [DeepReinforcementLearning](/DataScienceAI/DeepLearning/DRL/DeepReinforcementLearning.md)
-      - [DeepLearning List](/DataScienceAI/DeepLearning/DeepLearning-List.md)
-      - NeuralNetwork
-        - [NeuralNetwork List](/DataScienceAI/DeepLearning/NeuralNetwork/NeuralNetwork-List.md)
-      - RNN
-        - [RecurrentNeuralNetwork List](/DataScienceAI/DeepLearning/RNN/RecurrentNeuralNetwork-List.md)
-      - RepresentationLearning
-        - [RepresentationLearning List](/DataScienceAI/DeepLearning/RepresentationLearning/RepresentationLearning-List.md)
-    - MachineLearning
-      - Algorithm
-        - Bayes
-          - [Bayes List](/DataScienceAI/MachineLearning/Algorithm/Bayes/Bayes-List.md)
-        - Classification
-          - [Classification List](/DataScienceAI/MachineLearning/Algorithm/Classification/Classification-List.md)
-          - [DecisionTree List](/DataScienceAI/MachineLearning/Algorithm/Classification/DecisionTree-List.md)
-          - [Regression List](/DataScienceAI/MachineLearning/Algorithm/Classification/Regression-List.md)
-        - Cluster
-          - [Cluster List](/DataScienceAI/MachineLearning/Algorithm/Cluster/Cluster-List.md)
-        - Ensemble
-          - [Ensemble List](/DataScienceAI/MachineLearning/Algorithm/Ensemble/Ensemble-List.md)
-        - GraphicalModel
-          - [GraphicalModel List](/DataScienceAI/MachineLearning/Algorithm/GraphicalModel/GraphicalModel-List.md)
-        - Markov
-          - [Markov List](/DataScienceAI/MachineLearning/Algorithm/Markov/Markov-List.md)
-        - Reinforcement
-          - [ReinforcementLearning List](/DataScienceAI/MachineLearning/Algorithm/Reinforcement/ReinforcementLearning-List.md)
-        - Transfer
-          - [TransferLearning List](/DataScienceAI/MachineLearning/Algorithm/Transfer/TransferLearning-List.md)
-      - DataMining
-        - [DataAnalysis List](/DataScienceAI/MachineLearning/DataMining/DataAnalysis-List.md)
-      - FeatureEngineering
-        - [FeatureEngineering List](/DataScienceAI/MachineLearning/FeatureEngineering/FeatureEngineering-List.md)
-        - [Personas List](/DataScienceAI/MachineLearning/FeatureEngineering/Personas-List.md)
-      - Inference
-        - EM
-          - [EM List](/DataScienceAI/MachineLearning/Inference/EM/EM-List.md)
-        - Evaluation
-          - [ModelEvaluation List](/DataScienceAI/MachineLearning/Inference/Evaluation/ModelEvaluation-List.md)
-        - GradientDescent
-          - [GradientDescent List](/DataScienceAI/MachineLearning/Inference/GradientDescent/GradientDescent-List.md)
-        - [Inference List](/DataScienceAI/MachineLearning/Inference/Inference-List.md)
-        - MonteCarlo
-          - [MonteCarlo List](/DataScienceAI/MachineLearning/Inference/MonteCarlo/MonteCarlo-List.md)
-        - OnlineLearning
-          - [OnlineLearning List](/DataScienceAI/MachineLearning/Inference/OnlineLearning/OnlineLearning-List.md)
-        - VariationalInference
-          - [VariationalInference List](/DataScienceAI/MachineLearning/Inference/VariationalInference/VariationalInference-List.md)
-      - [MachineLearning List](/DataScienceAI/MachineLearning/MachineLearning-List.md)
-    - NLP
-      - DialogueSystem
-        - [ASR List](/DataScienceAI/NLP/DialogueSystem/ASR-List.md)
-        - [Chatbot List](/DataScienceAI/NLP/DialogueSystem/Chatbot-List.md)
-        - [DialogueSystem List](/DataScienceAI/NLP/DialogueSystem/DialogueSystem-List.md)
-      - InformationRetrieval
-        - [InformationRetrieval List](/DataScienceAI/NLP/InformationRetrieval/InformationRetrieval-List.md)
-      - KnowledgeGraph
-        - [KnowledgeGraph List](/DataScienceAI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
-      - LinguisticStructure
-        - [Representation List](/DataScienceAI/NLP/LinguisticStructure/Representation-List.md)
-        - [StatisticalLanguageModel List](/DataScienceAI/NLP/LinguisticStructure/StatisticalLanguageModel-List.md)
-        - [TopicModel List](/DataScienceAI/NLP/LinguisticStructure/TopicModel-List.md)
-      - MachineTranslation
-        - [MachineTranslation List](/DataScienceAI/NLP/MachineTranslation/MachineTranslation-List.md)
-      - [NLP List](/DataScienceAI/NLP/NLP-List.md)
-      - SyntaxSemanticAnalysis
-        - [SyntaxSemanticAnalysis List](/DataScienceAI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
-      - Voice
-        - [Voice List](/DataScienceAI/NLP/Voice/Voice-List.md)
-    - Statistics
-      - [LinearAlgebra List](/DataScienceAI/Statistics/LinearAlgebra-List.md)
-      - [Mathematics List](/DataScienceAI/Statistics/Mathematics-List.md)
-      - [ProbabilityTheory List](/DataScienceAI/Statistics/ProbabilityTheory-List.md)
-      - [Statistics List](/DataScienceAI/Statistics/Statistics-List.md)
-    - Toolkit
-      - [DataScienceAI Toolkit List](/DataScienceAI/Toolkit/DataScienceAI-Toolkit-List.md)
-      - FederalLearning
-        - [FederalLearning List](/DataScienceAI/Toolkit/FederalLearning/FederalLearning-List.md)
-      - Framework
-        - [Metaflow](/DataScienceAI/Toolkit/Framework/Metaflow/README.md)
-          
-        - PyTorch
-          - [PyTorch List](/DataScienceAI/Toolkit/Framework/PyTorch/PyTorch-List.md)
-        - Scikit
-          - [Jupyter List](/DataScienceAI/Toolkit/Framework/Scikit/Jupyter-List.md)
-          - [Scikit List](/DataScienceAI/Toolkit/Framework/Scikit/Scikit-List.md)
-          - Vis
-            - [Vis List](/DataScienceAI/Toolkit/Framework/Scikit/Vis/Vis-List.md)
-        - TensorFlow
-          - [Keras List](/DataScienceAI/Toolkit/Framework/TensorFlow/Keras-List.md)
-          - [TFjs List](/DataScienceAI/Toolkit/Framework/TensorFlow/TFjs-List.md)
-          - [TensorFlow Internals List](/DataScienceAI/Toolkit/Framework/TensorFlow/TensorFlow-Internals-List.md)
-          - [TensorFlow List](/DataScienceAI/Toolkit/Framework/TensorFlow/TensorFlow-List.md)
-          - [TensorFlow OpenSource List](/DataScienceAI/Toolkit/Framework/TensorFlow/TensorFlow-OpenSource-List.md)
-      - Platform
-        - [Platform List](/DataScienceAI/Toolkit/Platform/Platform-List.md)
   - Frontend
     - DataVis
       - Cube
