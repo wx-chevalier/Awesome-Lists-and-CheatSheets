@@ -44,11 +44,9 @@
 
 - [2014-SQL for MySQL: A Beginner's Tutorial #Book#](https://parg.co/oU1): This introduction to SQL for MySQL begins by discussing exactly how data is stored and maintained in a relational database, familiarizing readers with SQL INSERT, UPDATE, and DELETE statements.
 
-- [2015-Readings in Database Systems-5th Edition #Book#](http://www.redbook.io/): Readings in Database Systems (commonly known as the "Red Book") has offered readers an opinionated take on both classic and cutting-edge research in the field of data management since 1988.
+- [2015-Readings in Database Systems-5th #Book#](http://www.redbook.io/): Readings in Database Systems (commonly known as the "Red Book") has offered readers an opinionated take on both classic and cutting-edge research in the field of data management since 1988.
 
-- [2016-Relational Database Design and Implementation, 4th Edition #Book#](https://parg.co/bjE): The book begins by reviewing basic concepts of databases and database design, then turns to creating, populating, and retrieving data using SQL.
-
-- [2018-SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL-4th Edition](https://parg.co/oUa)
+- [2019-Database Internal #Book#](https://www.databass.dev): The book consists of two parts: Storage Engines and Distributed Systems since that’s where most of the differences between the vast majority of databases is coming from. 
 
 ### SQL
 
@@ -57,6 +55,12 @@
 - [2019-Learn SQL #Book#](https://dataschool.com/learn-sql/): Welcome to our PostgreSQL interactive SQL Tutorial! We’ve designed this specifically for tech-savvy folks to learn enough SQL to be able to do their own analysis and data fetching.
 
 - [2019-SQL Optimization #Book#](https://dataschool.com/sql-optimization/): Get exposed to the most common techniques for improving query speed and database performance. Learn how to optimize queries by modifying SQL. Understand how indexes work and when to apply them.
+
+- [2018-SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL-4th Edition](https://parg.co/oUa)
+
+### RDB
+
+- [2016-Relational Database Design and Implementation-4th #Book#](https://parg.co/bjE): The book begins by reviewing basic concepts of databases and database design, then turns to creating, populating, and retrieving data using SQL.
 
 ### Datawarehouse
 
