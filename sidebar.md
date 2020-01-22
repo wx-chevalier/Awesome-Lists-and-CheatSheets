@@ -142,6 +142,9 @@
       - [Intelligent Manufacturing OpenSource List](/Application/Intelligent-Manufacturing/Intelligent-Manufacturing-OpenSource-List.md)
   - Backend
     - [Backend List](/Backend/Backend-List.md)
+    - CloudNative
+      - [CloudNative List](/Backend/CloudNative/CloudNative-List.md)
+      - [Serverless List](/Backend/CloudNative/Serverless-List.md)
     - FunctionalDomain
       - Auth
         - [Auth List](/Backend/FunctionalDomain/Auth/Auth-List.md)
@@ -169,18 +172,11 @@
           - [Weapp List](/Backend/FunctionalDomain/OpenPlatform/Wechat/Weapp-List.md)
           - [Weapp OpenSource List](/Backend/FunctionalDomain/OpenPlatform/Wechat/Weapp-OpenSource-List.md)
           - [Wechat List](/Backend/FunctionalDomain/OpenPlatform/Wechat/Wechat-List.md)
-    - HA
-      - [Cache List](/Backend/HA/Cache-List.md)
-      - [HA List](/Backend/HA/HA-List.md)
-      - [HA OpenSource List](/Backend/HA/HA-OpenSource-List.md)
-      - [Resilience Service List](/Backend/HA/Resilience-Service-List.md)
-      - [Spike List](/Backend/HA/Spike-List.md)
     - MicroService
       - APIGateway
         - [APIGateway List](/Backend/MicroService/APIGateway/APIGateway-List.md)
         - [LoadBalancing List](/Backend/MicroService/APIGateway/LoadBalancing-List.md)
         - [LongConnection List](/Backend/MicroService/APIGateway/LongConnection-List.md)
-      - [CloudNative List](/Backend/MicroService/CloudNative-List.md)
       - Configuration
         - [Configuration List](/Backend/MicroService/Configuration/Configuration-List.md)
       - [MicroService List](/Backend/MicroService/MicroService-List.md)
@@ -191,20 +187,28 @@
         - [Dubbo List](/Backend/MicroService/RPC/Dubbo-List.md)
         - [RPC List](/Backend/MicroService/RPC/RPC-List.md)
         - [gRPC List](/Backend/MicroService/RPC/gRPC-List.md)
-      - Serverless
-        - [Serverless List](/Backend/MicroService/Serverless/Serverless-List.md)
-      - WebServer
-        - [Apache List](/Backend/MicroService/WebServer/Apache-List.md)
-        - [Caddy List](/Backend/MicroService/WebServer/Caddy-List.md)
-        - [Nginx List](/Backend/MicroService/WebServer/Nginx-List.md)
-        - [Traefik List](/Backend/MicroService/WebServer/Traefik-List.md)
-        - [WebServer List](/Backend/MicroService/WebServer/WebServer-List.md)
+      - ResilienceService
+        - [Cache List](/Backend/MicroService/ResilienceService/Cache-List.md)
+        - [Resilience Service List](/Backend/MicroService/ResilienceService/Resilience-Service-List.md)
+        - [Spike List](/Backend/MicroService/ResilienceService/Spike-List.md)
     - WebServer
+      - [Apache List](/Backend/WebServer/Apache-List.md)
+      - [Caddy List](/Backend/WebServer/Caddy-List.md)
+      - [Nginx List](/Backend/WebServer/Nginx-List.md)
+      - [Traefik List](/Backend/WebServer/Traefik-List.md)
       - [WebServer List](/Backend/WebServer/WebServer-List.md)
   - Business
     - [HR List](/Business/HR-List.md)
     - [Internet List](/Business/Internet-List.md)
     - [Management List](/Business/Management-List.md)
+    - SoftwareEngineering
+      - Git
+        - [Git List](/Business/SoftwareEngineering/Git/Git-List.md)
+        - [Git OpenSource List](/Business/SoftwareEngineering/Git/Git-OpenSource-List.md)
+        - [Git Workflow List](/Business/SoftwareEngineering/Git/Git-Workflow-List.md)
+        - [Github List](/Business/SoftwareEngineering/Git/Github-List.md)
+      - [Workflow List](/Business/SoftwareEngineering/Workflow-List.md)
+      - [Workflow OpenSource List](/Business/SoftwareEngineering/Workflow-OpenSource-List.md)
   - DevOps
     - Automation
       - [Automation List](/DevOps/Automation/Automation-List.md)
@@ -212,8 +216,6 @@
       - [CI List](/DevOps/CI/CI-List.md)
     - [DevOps List](/DevOps/DevOps-List.md)
     - [DevOps OpenSource List](/DevOps/DevOps-OpenSource-List.md)
-    - Harden
-      - [Harden List](/DevOps/Harden/Harden-List.md)
     - LogAggregation
       - [Flume List](/DevOps/LogAggregation/Flume-List.md)
       - [LogAggregation List](/DevOps/LogAggregation/LogAggregation-List.md)
@@ -221,6 +223,9 @@
       - [APM List](/DevOps/MonitorAlert/APM-List.md)
       - [Aggregation List](/DevOps/MonitorAlert/Aggregation-List.md)
       - [MonitorAlert List](/DevOps/MonitorAlert/MonitorAlert-List.md)
+    - SRE
+      - [Harden List](/DevOps/SRE/Harden-List.md)
+      - [SRE List](/DevOps/SRE/SRE-List.md)
     - Test
       - [PerformanceTest List](/DevOps/Test/PerformanceTest-List.md)
       - [Test List](/DevOps/Test/Test-List.md)
@@ -252,6 +257,7 @@
         - [Electron List](/Frontend/Desktop/Electron/Electron-List.md)
         - [Electron OpenSource List](/Frontend/Desktop/Electron/Electron-OpenSource-List.md)
     - [Frontend List](/Frontend/Frontend-List.md)
+    - [GUIArchitecture List](/Frontend/GUIArchitecture-List.md)
     - Game
       - [Game List](/Frontend/Game/Game-List.md)
       - [Game OpenSource List](/Frontend/Game/Game-OpenSource-List.md)
@@ -745,53 +751,41 @@
       - [Rust OpenSource List](/ProgrammingLanguage/Rust/Rust-OpenSource-List.md)
       - [Rust Syntax List](/ProgrammingLanguage/Rust/Rust-Syntax-List.md)
   - [README en](/README-en.md)
-  - SoftwareEngineering
+  - SoftwareArchitecture
     - AlgoDS
-      - [AlgoDS List](/SoftwareEngineering/AlgoDS/AlgoDS-List.md)
-      - [DP List](/SoftwareEngineering/AlgoDS/DP-List.md)
-      - [Graph List](/SoftwareEngineering/AlgoDS/Graph-List.md)
-      - [Hash List](/SoftwareEngineering/AlgoDS/Hash-List.md)
-      - [Index List](/SoftwareEngineering/AlgoDS/Index-List.md)
-      - [LinearList List](/SoftwareEngineering/AlgoDS/LinearList-List.md)
-      - [NumberTheory List](/SoftwareEngineering/AlgoDS/NumberTheory-List.md)
-      - [Search List](/SoftwareEngineering/AlgoDS/Search-List.md)
-      - [Serialization List](/SoftwareEngineering/AlgoDS/Serialization-List.md)
-      - [Sort List](/SoftwareEngineering/AlgoDS/Sort-List.md)
-      - [String List](/SoftwareEngineering/AlgoDS/String-List.md)
-      - [Tree List](/SoftwareEngineering/AlgoDS/Tree-List.md)
-    - Architecture
-      - ArchitecturalPattern
-        - [ArchitecturalPattern List](/SoftwareEngineering/Architecture/ArchitecturalPattern/ArchitecturalPattern-List.md)
-      - [ArchitecturalPrinciple List](/SoftwareEngineering/Architecture/ArchitecturalPrinciple-List.md)
-      - ArchitecturalStyle
-        - [ArchitecturalStyle List](/SoftwareEngineering/Architecture/ArchitecturalStyle/ArchitecturalStyle-List.md)
-        - [RESTful List](/SoftwareEngineering/Architecture/ArchitecturalStyle/RESTful-List.md)
-      - DDD
-        - [DDD List](/SoftwareEngineering/Architecture/DDD/DDD-List.md)
-      - GUI
-        - [GUIArchitecture List](/SoftwareEngineering/Architecture/GUI/GUIArchitecture-List.md)
-      - [SoftwareArchitecture List](/SoftwareEngineering/Architecture/SoftwareArchitecture-List.md)
+      - [AlgoDS List](/SoftwareArchitecture/AlgoDS/AlgoDS-List.md)
+      - [DP List](/SoftwareArchitecture/AlgoDS/DP-List.md)
+      - [Graph List](/SoftwareArchitecture/AlgoDS/Graph-List.md)
+      - [Hash List](/SoftwareArchitecture/AlgoDS/Hash-List.md)
+      - [Index List](/SoftwareArchitecture/AlgoDS/Index-List.md)
+      - [LinearList List](/SoftwareArchitecture/AlgoDS/LinearList-List.md)
+      - [NumberTheory List](/SoftwareArchitecture/AlgoDS/NumberTheory-List.md)
+      - [Search List](/SoftwareArchitecture/AlgoDS/Search-List.md)
+      - [Serialization List](/SoftwareArchitecture/AlgoDS/Serialization-List.md)
+      - [Sort List](/SoftwareArchitecture/AlgoDS/Sort-List.md)
+      - [String List](/SoftwareArchitecture/AlgoDS/String-List.md)
+      - [Tree List](/SoftwareArchitecture/AlgoDS/Tree-List.md)
+    - ArchitecturalPattern
+      - [ArchitecturalPattern List](/SoftwareArchitecture/ArchitecturalPattern/ArchitecturalPattern-List.md)
+    - [ArchitecturalPrinciple List](/SoftwareArchitecture/ArchitecturalPrinciple-List.md)
+    - ArchitecturalStyle
+      - [ArchitecturalStyle List](/SoftwareArchitecture/ArchitecturalStyle/ArchitecturalStyle-List.md)
+      - [DDD List](/SoftwareArchitecture/ArchitecturalStyle/DDD-List.md)
+      - [RESTful List](/SoftwareArchitecture/ArchitecturalStyle/RESTful-List.md)
     - DesignPattern
-      - [DesignPattern List](/SoftwareEngineering/DesignPattern/DesignPattern-List.md)
-      - [FunctionalProgramming List](/SoftwareEngineering/DesignPattern/FunctionalProgramming-List.md)
-      - [JavaScript DesignPattern List](/SoftwareEngineering/DesignPattern/JavaScript-DesignPattern-List.md)
-      - [MetaProgramming List](/SoftwareEngineering/DesignPattern/MetaProgramming-List.md)
-      - [ObjectOrientedProgramming List](/SoftwareEngineering/DesignPattern/ObjectOrientedProgramming-List.md)
-      - [Programming Paradigm List](/SoftwareEngineering/DesignPattern/Programming-Paradigm-List.md)
-      - [ReactiveProgramming List](/SoftwareEngineering/DesignPattern/ReactiveProgramming-List.md)
+      - [DesignPattern List](/SoftwareArchitecture/DesignPattern/DesignPattern-List.md)
+      - [FunctionalProgramming List](/SoftwareArchitecture/DesignPattern/FunctionalProgramming-List.md)
+      - [JavaScript DesignPattern List](/SoftwareArchitecture/DesignPattern/JavaScript-DesignPattern-List.md)
+      - [MetaProgramming List](/SoftwareArchitecture/DesignPattern/MetaProgramming-List.md)
+      - [ObjectOrientedProgramming List](/SoftwareArchitecture/DesignPattern/ObjectOrientedProgramming-List.md)
+      - [Programming Paradigm List](/SoftwareArchitecture/DesignPattern/Programming-Paradigm-List.md)
+      - [ReactiveProgramming List](/SoftwareArchitecture/DesignPattern/ReactiveProgramming-List.md)
     - Refactor
-      - [CleanCode List](/SoftwareEngineering/Refactor/CleanCode-List.md)
-      - [CodeReview List](/SoftwareEngineering/Refactor/CodeReview-List.md)
-      - [CodeStyle List](/SoftwareEngineering/Refactor/CodeStyle-List.md)
-      - [Refactor List](/SoftwareEngineering/Refactor/Refactor-List.md)
-    - Workflow
-      - Git
-        - [Git List](/SoftwareEngineering/Workflow/Git/Git-List.md)
-        - [Git OpenSource List](/SoftwareEngineering/Workflow/Git/Git-OpenSource-List.md)
-        - [Git Workflow List](/SoftwareEngineering/Workflow/Git/Git-Workflow-List.md)
-        - [Github List](/SoftwareEngineering/Workflow/Git/Github-List.md)
-      - [Workflow List](/SoftwareEngineering/Workflow/Workflow-List.md)
-      - [Workflow OpenSource List](/SoftwareEngineering/Workflow/Workflow-OpenSource-List.md)
+      - [CleanCode List](/SoftwareArchitecture/Refactor/CleanCode-List.md)
+      - [CodeReview List](/SoftwareArchitecture/Refactor/CodeReview-List.md)
+      - [CodeStyle List](/SoftwareArchitecture/Refactor/CodeStyle-List.md)
+      - [Refactor List](/SoftwareArchitecture/Refactor/Refactor-List.md)
+    - [SoftwareArchitecture List](/SoftwareArchitecture/SoftwareArchitecture-List.md)
   - Specials
     - Career
       - [Coding as Vetren](/Specials/Career/Coding-as-Vetren.md)
