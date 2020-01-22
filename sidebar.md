@@ -142,22 +142,6 @@
       - [Intelligent Manufacturing OpenSource List](/Application/Intelligent-Manufacturing/Intelligent-Manufacturing-OpenSource-List.md)
   - Backend
     - [Backend List](/Backend/Backend-List.md)
-    - DevOps
-      - Automation
-        - [Automation List](/Backend/DevOps/Automation/Automation-List.md)
-      - CI
-        - [CI List](/Backend/DevOps/CI/CI-List.md)
-      - [DevOps List](/Backend/DevOps/DevOps-List.md)
-      - [DevOps OpenSource List](/Backend/DevOps/DevOps-OpenSource-List.md)
-      - Harden
-        - [Harden List](/Backend/DevOps/Harden/Harden-List.md)
-      - LogAggregation
-        - [Flume List](/Backend/DevOps/LogAggregation/Flume-List.md)
-        - [LogAggregation List](/Backend/DevOps/LogAggregation/LogAggregation-List.md)
-      - MonitorAlert
-        - [APM List](/Backend/DevOps/MonitorAlert/APM-List.md)
-        - [Aggregation List](/Backend/DevOps/MonitorAlert/Aggregation-List.md)
-        - [MonitorAlert List](/Backend/DevOps/MonitorAlert/MonitorAlert-List.md)
     - FunctionalDomain
       - Auth
         - [Auth List](/Backend/FunctionalDomain/Auth/Auth-List.md)
@@ -225,6 +209,22 @@
     - [HR List](/Business/HR-List.md)
     - [Internet List](/Business/Internet-List.md)
     - [Management List](/Business/Management-List.md)
+  - DevOps
+    - Automation
+      - [Automation List](/DevOps/Automation/Automation-List.md)
+    - CI
+      - [CI List](/DevOps/CI/CI-List.md)
+    - [DevOps List](/DevOps/DevOps-List.md)
+    - [DevOps OpenSource List](/DevOps/DevOps-OpenSource-List.md)
+    - Harden
+      - [Harden List](/DevOps/Harden/Harden-List.md)
+    - LogAggregation
+      - [Flume List](/DevOps/LogAggregation/Flume-List.md)
+      - [LogAggregation List](/DevOps/LogAggregation/LogAggregation-List.md)
+    - MonitorAlert
+      - [APM List](/DevOps/MonitorAlert/APM-List.md)
+      - [Aggregation List](/DevOps/MonitorAlert/Aggregation-List.md)
+      - [MonitorAlert List](/DevOps/MonitorAlert/MonitorAlert-List.md)
   - Frontend
     - DataVis
       - Cube
@@ -745,123 +745,6 @@
       - [Rust OpenSource List](/ProgrammingLanguage/Rust/Rust-OpenSource-List.md)
       - [Rust Syntax List](/ProgrammingLanguage/Rust/Rust-Syntax-List.md)
   - [README en](/README-en.md)
-  - Series
-    - [前端每周清单](/Series/前端每周清单/README.md)
-      - 
-        - 
-          - [](/Series/前端每周清单/2016/12/12.1.md)
-          - [](/Series/前端每周清单/2016/12/12.2.md)
-      - 
-        - 
-          - [](/Series/前端每周清单/2017/1/1.1.md)
-          - [](/Series/前端每周清单/2017/1/1.2.md)
-          - [](/Series/前端每周清单/2017/1/1.3.md)
-          - [](/Series/前端每周清单/2017/1/1.4.md)
-        - 
-          - [](/Series/前端每周清单/2017/10/10.1.md)
-          - [](/Series/前端每周清单/2017/10/10.2.md)
-          - [](/Series/前端每周清单/2017/10/10.3.md)
-          - [](/Series/前端每周清单/2017/10/10.4.md)
-        - 
-          - [](/Series/前端每周清单/2017/11/11.1.md)
-          - [](/Series/前端每周清单/2017/11/11.2.md)
-          - [](/Series/前端每周清单/2017/11/11.3.md)
-          - [](/Series/前端每周清单/2017/11/11.4.md)
-        - 
-          - [](/Series/前端每周清单/2017/12/12.1.md)
-          - [](/Series/前端每周清单/2017/12/12.2.md)
-          - [](/Series/前端每周清单/2017/12/12.3.md)
-          - [](/Series/前端每周清单/2017/12/12.4.md)
-        - 
-          - [Frontend](/Series/前端每周清单/2017/2/2.1-Frontend.md)
-          - [](/Series/前端每周清单/2017/2/2.1.md)
-          - [Frontend](/Series/前端每周清单/2017/2/2.2-Frontend.md)
-          - [](/Series/前端每周清单/2017/2/2.2.md)
-          - [](/Series/前端每周清单/2017/2/2.3.md)
-          - [](/Series/前端每周清单/2017/2/2.4.md)
-          - [](/Series/前端每周清单/2017/2/2.5.md)
-          - [](/Series/前端每周清单/2017/2/2.6.md)
-        - 
-          - [Frontend](/Series/前端每周清单/2017/3/3.1-Frontend.md)
-          - [](/Series/前端每周清单/2017/3/3.1.md)
-          - [Frontend](/Series/前端每周清单/2017/3/3.2-Frontend.md)
-          - [Frontend](/Series/前端每周清单/2017/3/3.3-Frontend.md)
-          - [Frontend](/Series/前端每周清单/2017/3/3.4-Frontend.md)
-        - 
-          - [Frontend](/Series/前端每周清单/2017/4/4.1-Frontend.md)
-          - [Frontend](/Series/前端每周清单/2017/4/4.2-Frontend.md)
-          - [Frontend](/Series/前端每周清单/2017/4/4.3-Frontend.md)
-          - [Frontend](/Series/前端每周清单/2017/4/4.4-Frontend.md)
-        - 
-          - [Frontend](/Series/前端每周清单/2017/5/5.1-Frontend.md)
-          - [Frontend](/Series/前端每周清单/2017/5/5.2-Frontend.md)
-          - [Frontend](/Series/前端每周清单/2017/5/5.3-Frontend.md)
-          - [Frontend](/Series/前端每周清单/2017/5/5.4-Frontend.md)
-        - 
-          - [Frontend](/Series/前端每周清单/2017/6/6.1-Frontend.md)
-          - [Frontend](/Series/前端每周清单/2017/6/6.2-Frontend.md)
-          - [Frontend](/Series/前端每周清单/2017/6/6.3-Frontend.md)
-          - [Frontend](/Series/前端每周清单/2017/6/6.4-Frontend.md)
-          - [Frontend](/Series/前端每周清单/2017/6/6.5-Frontend.md)
-        - 
-          - [Frontend](/Series/前端每周清单/2017/7/7.1-Frontend.md)
-          - [Frontend](/Series/前端每周清单/2017/7/7.2-Frontend.md)
-          - [Frontend](/Series/前端每周清单/2017/7/7.3-Frontend.md)
-          - [Frontend](/Series/前端每周清单/2017/7/7.4-Frontend.md)
-          - [Frontend](/Series/前端每周清单/2017/7/7.5-Frontend.md)
-        - 
-          - [](/Series/前端每周清单/2017/8/8.1.md)
-          - [](/Series/前端每周清单/2017/8/8.2.md)
-          - [](/Series/前端每周清单/2017/8/8.3.md)
-          - [](/Series/前端每周清单/2017/8/8.4.md)
-        - 
-          - [](/Series/前端每周清单/2017/9/9.1.md)
-          - [](/Series/前端每周清单/2017/9/9.2.md)
-          - [](/Series/前端每周清单/2017/9/9.3.md)
-          - [](/Series/前端每周清单/2017/9/9.4.md)
-          - [](/Series/前端每周清单/2017/9/9.5.md)
-      - 
-        - 
-          - [](/Series/前端每周清单/2018/1/1.1.md)
-          - [en](/Series/前端每周清单/2018/1/1.2-en.md)
-          - [](/Series/前端每周清单/2018/1/1.2.md)
-          - [en](/Series/前端每周清单/2018/1/1.3-en.md)
-          - [](/Series/前端每周清单/2018/1/1.3.md)
-          - [en](/Series/前端每周清单/2018/1/1.4-en.md)
-          - [](/Series/前端每周清单/2018/1/1.4.md)
-        - 
-          - [en](/Series/前端每周清单/2018/2/2.1-en.md)
-          - [](/Series/前端每周清单/2018/2/2.1.md)
-          - [en](/Series/前端每周清单/2018/2/2.2-en.md)
-          - [](/Series/前端每周清单/2018/2/2.2.md)
-          - [en](/Series/前端每周清单/2018/2/2.3-en.md)
-          - [](/Series/前端每周清单/2018/2/2.3.md)
-        - 
-          - [en](/Series/前端每周清单/2018/3/3.1-en.md)
-          - [](/Series/前端每周清单/2018/3/3.1.md)
-          - [en](/Series/前端每周清单/2018/3/3.2-en.md)
-          - [](/Series/前端每周清单/2018/3/3.2.md)
-          - [en](/Series/前端每周清单/2018/3/3.3-en.md)
-          - [](/Series/前端每周清单/2018/3/3.3.md)
-          - [en](/Series/前端每周清单/2018/3/3.4-en.md)
-          - [](/Series/前端每周清单/2018/3/3.4.md)
-        - 
-          - [en](/Series/前端每周清单/2018/4/4.1-en.md)
-      - [ABOUT](/Series/前端每周清单/ABOUT.md)
-      - [CONTRIBUTION](/Series/前端每周清单/CONTRIBUTION.md)
-      - [README en](/Series/前端每周清单/README-en.md)
-      - SemiannualReport
-        - 1
-          - [Angular](/Series/前端每周清单/SemiannualReport/2017-1/Angular.md)
-          - [CSS](/Series/前端每周清单/SemiannualReport/2017-1/CSS.md)
-          - [JavaScript](/Series/前端每周清单/SemiannualReport/2017-1/JavaScript.md)
-          - [Node](/Series/前端每周清单/SemiannualReport/2017-1/Node.md)
-          - [PWA](/Series/前端每周清单/SemiannualReport/2017-1/PWA.md)
-          - [React](/Series/前端每周清单/SemiannualReport/2017-1/React.md)
-          - [Vue.js](/Series/前端每周清单/SemiannualReport/2017-1/Vue.js.md)
-          - [WebAssembly](/Series/前端每周清单/SemiannualReport/2017-1/WebAssembly.md)
-      - [TEMPLATE](/Series/前端每周清单/TEMPLATE.md)
-      - [Template en](/Series/前端每周清单/Template-en.md)
   - SoftwareEngineering
     - AlgoDS
       - [AlgoDS List](/SoftwareEngineering/AlgoDS/AlgoDS-List.md)
@@ -932,3 +815,119 @@
       - [Awesome Services](/Specials/Tools/Awesome-Services.md)
       - [Workbench CheatSheet.en](/Specials/Tools/Workbench-CheatSheet.en.md)
       - [Workbench CheatSheet](/Specials/Tools/Workbench-CheatSheet.md)
+    - [Weekly](/Specials/Weekly/README.md)
+      - 
+        - 
+          - [](/Specials/Weekly/2016/12/12.1.md)
+          - [](/Specials/Weekly/2016/12/12.2.md)
+      - 
+        - 
+          - [](/Specials/Weekly/2017/1/1.1.md)
+          - [](/Specials/Weekly/2017/1/1.2.md)
+          - [](/Specials/Weekly/2017/1/1.3.md)
+          - [](/Specials/Weekly/2017/1/1.4.md)
+        - 
+          - [](/Specials/Weekly/2017/10/10.1.md)
+          - [](/Specials/Weekly/2017/10/10.2.md)
+          - [](/Specials/Weekly/2017/10/10.3.md)
+          - [](/Specials/Weekly/2017/10/10.4.md)
+        - 
+          - [](/Specials/Weekly/2017/11/11.1.md)
+          - [](/Specials/Weekly/2017/11/11.2.md)
+          - [](/Specials/Weekly/2017/11/11.3.md)
+          - [](/Specials/Weekly/2017/11/11.4.md)
+        - 
+          - [](/Specials/Weekly/2017/12/12.1.md)
+          - [](/Specials/Weekly/2017/12/12.2.md)
+          - [](/Specials/Weekly/2017/12/12.3.md)
+          - [](/Specials/Weekly/2017/12/12.4.md)
+        - 
+          - [Frontend](/Specials/Weekly/2017/2/2.1-Frontend.md)
+          - [](/Specials/Weekly/2017/2/2.1.md)
+          - [Frontend](/Specials/Weekly/2017/2/2.2-Frontend.md)
+          - [](/Specials/Weekly/2017/2/2.2.md)
+          - [](/Specials/Weekly/2017/2/2.3.md)
+          - [](/Specials/Weekly/2017/2/2.4.md)
+          - [](/Specials/Weekly/2017/2/2.5.md)
+          - [](/Specials/Weekly/2017/2/2.6.md)
+        - 
+          - [Frontend](/Specials/Weekly/2017/3/3.1-Frontend.md)
+          - [](/Specials/Weekly/2017/3/3.1.md)
+          - [Frontend](/Specials/Weekly/2017/3/3.2-Frontend.md)
+          - [Frontend](/Specials/Weekly/2017/3/3.3-Frontend.md)
+          - [Frontend](/Specials/Weekly/2017/3/3.4-Frontend.md)
+        - 
+          - [Frontend](/Specials/Weekly/2017/4/4.1-Frontend.md)
+          - [Frontend](/Specials/Weekly/2017/4/4.2-Frontend.md)
+          - [Frontend](/Specials/Weekly/2017/4/4.3-Frontend.md)
+          - [Frontend](/Specials/Weekly/2017/4/4.4-Frontend.md)
+        - 
+          - [Frontend](/Specials/Weekly/2017/5/5.1-Frontend.md)
+          - [Frontend](/Specials/Weekly/2017/5/5.2-Frontend.md)
+          - [Frontend](/Specials/Weekly/2017/5/5.3-Frontend.md)
+          - [Frontend](/Specials/Weekly/2017/5/5.4-Frontend.md)
+        - 
+          - [Frontend](/Specials/Weekly/2017/6/6.1-Frontend.md)
+          - [Frontend](/Specials/Weekly/2017/6/6.2-Frontend.md)
+          - [Frontend](/Specials/Weekly/2017/6/6.3-Frontend.md)
+          - [Frontend](/Specials/Weekly/2017/6/6.4-Frontend.md)
+          - [Frontend](/Specials/Weekly/2017/6/6.5-Frontend.md)
+        - 
+          - [Frontend](/Specials/Weekly/2017/7/7.1-Frontend.md)
+          - [Frontend](/Specials/Weekly/2017/7/7.2-Frontend.md)
+          - [Frontend](/Specials/Weekly/2017/7/7.3-Frontend.md)
+          - [Frontend](/Specials/Weekly/2017/7/7.4-Frontend.md)
+          - [Frontend](/Specials/Weekly/2017/7/7.5-Frontend.md)
+        - 
+          - [](/Specials/Weekly/2017/8/8.1.md)
+          - [](/Specials/Weekly/2017/8/8.2.md)
+          - [](/Specials/Weekly/2017/8/8.3.md)
+          - [](/Specials/Weekly/2017/8/8.4.md)
+        - 
+          - [](/Specials/Weekly/2017/9/9.1.md)
+          - [](/Specials/Weekly/2017/9/9.2.md)
+          - [](/Specials/Weekly/2017/9/9.3.md)
+          - [](/Specials/Weekly/2017/9/9.4.md)
+          - [](/Specials/Weekly/2017/9/9.5.md)
+      - 
+        - 
+          - [](/Specials/Weekly/2018/1/1.1.md)
+          - [en](/Specials/Weekly/2018/1/1.2-en.md)
+          - [](/Specials/Weekly/2018/1/1.2.md)
+          - [en](/Specials/Weekly/2018/1/1.3-en.md)
+          - [](/Specials/Weekly/2018/1/1.3.md)
+          - [en](/Specials/Weekly/2018/1/1.4-en.md)
+          - [](/Specials/Weekly/2018/1/1.4.md)
+        - 
+          - [en](/Specials/Weekly/2018/2/2.1-en.md)
+          - [](/Specials/Weekly/2018/2/2.1.md)
+          - [en](/Specials/Weekly/2018/2/2.2-en.md)
+          - [](/Specials/Weekly/2018/2/2.2.md)
+          - [en](/Specials/Weekly/2018/2/2.3-en.md)
+          - [](/Specials/Weekly/2018/2/2.3.md)
+        - 
+          - [en](/Specials/Weekly/2018/3/3.1-en.md)
+          - [](/Specials/Weekly/2018/3/3.1.md)
+          - [en](/Specials/Weekly/2018/3/3.2-en.md)
+          - [](/Specials/Weekly/2018/3/3.2.md)
+          - [en](/Specials/Weekly/2018/3/3.3-en.md)
+          - [](/Specials/Weekly/2018/3/3.3.md)
+          - [en](/Specials/Weekly/2018/3/3.4-en.md)
+          - [](/Specials/Weekly/2018/3/3.4.md)
+        - 
+          - [en](/Specials/Weekly/2018/4/4.1-en.md)
+      - [ABOUT](/Specials/Weekly/ABOUT.md)
+      - [CONTRIBUTION](/Specials/Weekly/CONTRIBUTION.md)
+      - [README en](/Specials/Weekly/README-en.md)
+      - SemiannualReport
+        - 1
+          - [Angular](/Specials/Weekly/SemiannualReport/2017-1/Angular.md)
+          - [CSS](/Specials/Weekly/SemiannualReport/2017-1/CSS.md)
+          - [JavaScript](/Specials/Weekly/SemiannualReport/2017-1/JavaScript.md)
+          - [Node](/Specials/Weekly/SemiannualReport/2017-1/Node.md)
+          - [PWA](/Specials/Weekly/SemiannualReport/2017-1/PWA.md)
+          - [React](/Specials/Weekly/SemiannualReport/2017-1/React.md)
+          - [Vue.js](/Specials/Weekly/SemiannualReport/2017-1/Vue.js.md)
+          - [WebAssembly](/Specials/Weekly/SemiannualReport/2017-1/WebAssembly.md)
+      - [TEMPLATE](/Specials/Weekly/TEMPLATE.md)
+      - [Template en](/Specials/Weekly/Template-en.md)
