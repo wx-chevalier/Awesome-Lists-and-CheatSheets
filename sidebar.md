@@ -199,10 +199,6 @@
         - [Nginx List](/Backend/MicroService/WebServer/Nginx-List.md)
         - [Traefik List](/Backend/MicroService/WebServer/Traefik-List.md)
         - [WebServer List](/Backend/MicroService/WebServer/WebServer-List.md)
-    - Test
-      - [PerformanceTest List](/Backend/Test/PerformanceTest-List.md)
-      - [Test List](/Backend/Test/Test-List.md)
-      - [Test OpenSource List](/Backend/Test/Test-OpenSource-List.md)
     - WebServer
       - [WebServer List](/Backend/WebServer/WebServer-List.md)
   - Business
@@ -225,6 +221,10 @@
       - [APM List](/DevOps/MonitorAlert/APM-List.md)
       - [Aggregation List](/DevOps/MonitorAlert/Aggregation-List.md)
       - [MonitorAlert List](/DevOps/MonitorAlert/MonitorAlert-List.md)
+    - Test
+      - [PerformanceTest List](/DevOps/Test/PerformanceTest-List.md)
+      - [Test List](/DevOps/Test/Test-List.md)
+      - [Test OpenSource List](/DevOps/Test/Test-OpenSource-List.md)
   - Frontend
     - DataVis
       - Cube
