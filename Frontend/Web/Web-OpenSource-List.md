@@ -62,6 +62,8 @@
 
 - [FuseBox #Project](https://github.com/fuse-box/fuse-box): FuseBox is a bundler/module loader that combines the power of webpack, JSPM and SystemJS.
 
+- [2019-Snowpack #Project#](https://github.com/pikapkg/snowpack): Build web applications with less tooling and 10x faster iteration. No bundler required.
+
 ## IDE
 
 - [Rekit](https://github.com/supnate/rekit): IDE and toolkit for building scalable web applications with React, Redux and React-router
