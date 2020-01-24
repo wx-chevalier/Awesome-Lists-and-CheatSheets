@@ -4,6 +4,8 @@
 
 - [CoDo #Project#](https://github.com/opendevops-cn): CoDo 是一款为用户提供企业多混合云、自动化运维、完全开源的云管理平台。
 
+- [OneDev #Project#](https://github.com/theonedev/onedev): Super Easy All-In-One DevOps Platform.
+
 # Automation | 自动化
 
 - [Terraform #Project#](https://www.terraform.io/): Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently.

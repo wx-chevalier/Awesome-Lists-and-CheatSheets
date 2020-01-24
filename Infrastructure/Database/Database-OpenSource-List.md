@@ -6,7 +6,9 @@
 
 - [MiniDataBase #Project#](https://github.com/msdeep14/MiniDataBase): A simple Relational Database using B+ Tree Index.
 
-- [chidb #Project#](https://people.cs.uchicago.edu/~adamshaw/papers/sigcse2016-chidb.pdf): Building a Simple Relational Database System from Scratch
+- [chidb #Project#](https://people.cs.uchicago.edu/~adamshaw/papers/sigcse2016-chidb.pdf): Building a Simple Relational Database System from Scratch.
+
+- [LBADD #Project#](https://github.com/tomarrell/lbadd): An experimental, distributed SQL database. 
 
 # Universal SQL Tools
 
@@ -127,6 +129,8 @@
 - [Neo4j #Project#](https://github.com/neo4j/neo4j): Neo4j is the world’s leading Graph Database. It is a high performance graph store with all the features expected of a mature and robust database, like a friendly query language and ACID transactions.
 
 - [Dgraph #Project#](https://dgraph.io/): Dgraph is a horizontally scalable and distributed graph database, providing ACID transactions, consistent replication and linearizable reads.
+
+- [Nebula #Project#](https://github.com/vesoft-inc/nebula): A distributed, fast open-source graph database featuring horizontal scalability and high availability.
 
 # TimeSeries
 

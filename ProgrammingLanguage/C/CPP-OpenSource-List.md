@@ -10,6 +10,8 @@
 
 - [Cello #Project#](http://libcello.org/): Cello is a library that brings higher level programming to C. By acting as a modern, powerful runtime system Cello makes many things easy that were previously impractical or awkward in C.
 
+- [gc #Project#](https://github.com/mkirchner/gc): Simple, zero-dependency garbage collection for C.
+
 # Framework
 
 ## Concurrent

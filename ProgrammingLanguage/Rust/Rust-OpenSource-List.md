@@ -22,6 +22,8 @@
 
 - [2019-Bayard #Project#](https://github.com/mosuka/bayard): Bayard is a full-text search and indexing server written in Rust.
 
+- [2019-dtool #Project#](https://github.com/guoxbin/dtool): dtool is a command-line tool collection to assist development.
+
 # Dev Toolkits
 
 # Framework

@@ -32,6 +32,10 @@
 
 - [Geek Typer](http://geektyper.com/shield/): GeekTyper was inspired by the various media where hacking is usually portrayed incorrectly.
 
+## Utils
+
+- [2019-TLDR #Project#](https://tldr.sh): The TLDR pages are a community effort to simplify the beloved man pages with practical examples.
+
 # Shell
 
 - [Bash Infinity #Project#](https://github.com/niieani/bash-oo-framework): Bash Infinity is a modern boilerplate / framework / standard library for bash
