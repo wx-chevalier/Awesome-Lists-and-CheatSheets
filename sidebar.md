@@ -212,8 +212,9 @@
   - DevOps
     - Automation
       - [Automation List](/DevOps/Automation/Automation-List.md)
-    - CI
-      - [CI List](/DevOps/CI/CI-List.md)
+    - CD
+      - [CI List](/DevOps/CD/CI-List.md)
+      - [Delivery List](/DevOps/CD/Delivery-List.md)
     - [DevOps List](/DevOps/DevOps-List.md)
     - [DevOps OpenSource List](/DevOps/DevOps-OpenSource-List.md)
     - LogAggregation
