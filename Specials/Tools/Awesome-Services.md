@@ -17,3 +17,7 @@
 - [2019-Vault #Project#](https://github.com/hashicorp/vault): A tool for secrets management, encryption as a service, and privileged access management.
 
 - [2019-Neko #Project#](https://github.com/nurdism/neko): A self hosted virtual browser (rabb.it clone) that runs in docker. This uses web rtc to stream a desktop inside of a docker container, I made this because rabb.it went under and my internet can't handle streaming and discord keeps crashing.
+
+## Workflow
+
+- [2019-n8n #Project#](https://github.com/n8n-io/n8n): Free and open node based Workflow Automation Tool. Easily automate tasks across different services.

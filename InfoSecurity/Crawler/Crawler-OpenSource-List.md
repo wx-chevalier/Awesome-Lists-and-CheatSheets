@@ -24,6 +24,8 @@
 
 - [2018-ferret #Project#](https://github.com/MontFerret/ferret): ferret is a web scraping system aiming to simplify data extraction from the web for such things like UI testing, machine learning and analytics.
 
+- [2019-Hakrawler #Project#](https://github.com/hakluke/hakrawler): Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application.
+
 ## Java
 
 - [Crawler4j #Project#](https://github.com/yasserg/crawler4j): crawler4j is an open source web crawler for Java which provides a simple interface for crawling the Web. Using it, you can setup a multi-threaded web crawler in few minutes.

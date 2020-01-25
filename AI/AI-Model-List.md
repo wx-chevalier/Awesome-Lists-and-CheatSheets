@@ -98,6 +98,10 @@
 
 - [Nsfw JS #Project#](https://github.com/infinitered/nsfwjs): A simple JavaScript library to help you quickly identify unseemly images; all in the client's browser. NSFWJS isn't perfect, but it's pretty accurate (~90% from our test set of 15,000 test images)... and it's getting more accurate all the time.
 
+## OCR
+
+- [keras-ocr #Project#](https://github.com/faustomorales/keras-ocr): A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
+
 # Development | 开发辅助
 
 - [pix2code #Project#](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot.

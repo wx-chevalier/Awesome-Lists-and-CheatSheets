@@ -101,7 +101,7 @@
       - [ProbabilityTheory List](/AI/Statistics/ProbabilityTheory-List.md)
       - [Statistics List](/AI/Statistics/Statistics-List.md)
     - Toolkit
-      - [DataScienceAI Toolkit List](/AI/Toolkit/DataScienceAI-Toolkit-List.md)
+      - [AI Toolkit List](/AI/Toolkit/AI-Toolkit-List.md)
       - FederalLearning
         - [FederalLearning List](/AI/Toolkit/FederalLearning/FederalLearning-List.md)
       - Framework
@@ -807,7 +807,6 @@
       - [Awesome Editors](/Specials/Tools/Awesome-Editors.md)
       - [Awesome Extensions](/Specials/Tools/Awesome-Extensions.md)
       - [Awesome Open APIs](/Specials/Tools/Awesome-Open-APIs.md)
-      - [Awesome Presentations](/Specials/Tools/Awesome-Presentations.md)
       - [Awesome Services](/Specials/Tools/Awesome-Services.md)
       - [Workbench CheatSheet.en](/Specials/Tools/Workbench-CheatSheet.en.md)
       - [Workbench CheatSheet](/Specials/Tools/Workbench-CheatSheet.md)

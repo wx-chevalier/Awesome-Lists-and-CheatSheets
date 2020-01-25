@@ -90,7 +90,9 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [2017-Promise error handling in-depth](https://codeburst.io/promise-error-handling-in-depth-90b0965149c0): This blog is written in Q and A form and targeting those who are looking for the answers.
 
-- [2017-js-bits](https://github.com/vasanthk/js-bits): JavaScript concepts explained with code.
+- [2017-js-bits #Series#](https://github.com/vasanthk/js-bits): JavaScript concepts explained with code.
+
+- [2019-30DaysOfJavaScript #Series#](https://github.com/Asabeneh/30DaysOfJavaScript): A 30 days of JavaScript programming challenge.
 
 ## ES6
 
@@ -109,8 +111,6 @@ This file aggregates curated popular links for learning JavaScript. More referen
 - [2017-Everything I learned from #Javascript30](https://medium.com/craft-academy/everything-i-learned-from-javascript30-d8d2db246b7?source=userActivityShare-fe48c4221a4c-1488448383).
 
 - [Glossary of Modern JavaScript](https://auth0.com/blog/glossary-of-modern-javascript-concepts/): In this article, we'll address concepts that are crucial to understanding functional programming, reactive programming, and functional reactive programming and their use with JavaScript.
-
-- [TC39, ECMAScript, and the Future of JavaScript](https://parg.co/bXD)
 
 - [简明 ES6 Features 列表](https://codetower.github.io/es6-features/)
 
@@ -136,3 +136,7 @@ This file aggregates curated popular links for learning JavaScript. More referen
 - [interviewcake-javascript-interview-questions](https://www.interviewcake.com/javascript-interview-questions)
 
 - [2019-typeofnan-javascript-quizzes #Project#](https://quiz.typeofnan.dev/): Learn JavaScript fundamentals through fun and challenging quizzes! Star this repo on Github to follow along as new questions are added! Created by Nick Scialli and many other contributors listed below!
+
+# ECMAScript
+
+- [TC39, ECMAScript, and the Future of JavaScript](https://parg.co/bXD)

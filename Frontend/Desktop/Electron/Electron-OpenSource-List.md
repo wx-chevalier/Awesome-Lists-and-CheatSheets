@@ -1,5 +1,13 @@
 # Electron OpenSource List
 
+# Showcase
+
+- [Manta #Project#](https://github.com/hql287/Manta): A desktop application for creating invoices with beautiful and customizable templates.
+
+- [Xray #Project#](https://github.com/atom/xray): Xray is an experimental Electron-based text editor informed by what we've learned in the four years since the launch of Atom.
+
+- [lx-music-desktop #Project#](https://github.com/lyswhut/lx-music-desktop): 一个基于 Electron + Vue 开发的音乐软件。
+
 # Development Tools
 
 - [2018-Electron Fiddle #Project#](https://github.com/electron/fiddle): Electron Fiddle lets you create and play with small Electron experiments. It greets you with a quick-start template after opening – change a few things, choose the version of Electron you want to run it with, and play around.
@@ -13,9 +21,3 @@
 # Development Libraries
 
 - [electron-json-storage #Project#](https://github.com/electron-userland/electron-json-storage): electron-json-storage implements an API somehow similar to localStorage to write and read JSON objects to/from the operating system application data directory.
-
-# Showcase
-
-- [Manta #Project#](https://github.com/hql287/Manta): A desktop application for creating invoices with beautiful and customizable templates.
-
-- [Xray #Project#](https://github.com/atom/xray): Xray is an experimental Electron-based text editor informed by what we've learned in the four years since the launch of Atom.

@@ -8,7 +8,7 @@
 
 - [chidb #Project#](https://people.cs.uchicago.edu/~adamshaw/papers/sigcse2016-chidb.pdf): Building a Simple Relational Database System from Scratch.
 
-- [LBADD #Project#](https://github.com/tomarrell/lbadd): An experimental, distributed SQL database. 
+- [LBADD #Project#](https://github.com/tomarrell/lbadd): An experimental, distributed SQL database.
 
 # Universal SQL Tools
 
@@ -145,6 +145,8 @@
 - [TDengine #Project#](https://github.com/taosdata/TDengine): TDengine is an open-sourced big data platform under GNU AGPL v3.0, designed and optimized for the Internet of Things (IoT), Connected Cars, Industrial IoT, and IT Infrastructure and Application Monitoring.
 
 - [2019-LinDB #Project#](https://github.com/lindb/lindb): LinDB is a scalable, high performance, high availability distributed time series database.
+
+- [2019-VictoriaMetrics #Project#](https://github.com/VictoriaMetrics/VictoriaMetrics): Fast, cost-effective and scalable time series database, long-term remote storage for Prometheus.
 
 # NewSQL
 

@@ -69,3 +69,31 @@
 # LaTeX
 
 - [2019-SwiftLaTeX #Project#](https://github.com/SwiftLaTeX/SwiftLaTeX): SwiftLaTeX is a Web-browser based editor to create PDF documents such as reports, term projects, slide decks, in the typesetting system LaTeX.
+
+# 图片处理
+
+## 图床管理
+
+- [2018-PicGo #Project#](https://github.com/Molunerfinn/PicGo): 🚀A simple & beautiful tool for pictures uploading built by electron-vue
+
+# Documentation
+
+- [mdBook #Project#](https://github.com/rust-lang/mdBook): Create book from markdown files. Like Gitbook but implemented in Rust.
+
+## Project Website
+
+- [docsify #Project#](https://github.com/docsifyjs/docsify): A magical documentation site generator.
+
+- [2017-Docusaurus #Project#](https://github.com/facebook/docusaurus): Docusaurus is a project for easily building, deploying, and maintaining open source project websites.
+
+## API
+
+- [2013-DevDocs #Project#](https://github.com/freeCodeCamp/devdocs): DevDocs combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more.
+
+- [gollum #Project#](https://github.com/gollum/gollum): A simple, Git-powered wiki with a sweet API and local frontend.
+
+# Draw
+
+## Diagram
+
+- [2019-Excalidraw #Project#](https://github.com/excalidraw/excalidraw): Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
