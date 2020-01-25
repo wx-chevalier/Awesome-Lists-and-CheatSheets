@@ -803,6 +803,7 @@
       - [Awesome Sites](/Specials/Collections/Awesome-Sites.md)
       - [Learning CheatSheet](/Specials/Collections/Learning-CheatSheet.md)
     - [Tools](/Specials/Tools/README.md)
+      - [Awesome Apps](/Specials/Tools/Awesome-Apps.md)
       - [Awesome Editors](/Specials/Tools/Awesome-Editors.md)
       - [Awesome Extensions](/Specials/Tools/Awesome-Extensions.md)
       - [Awesome Open APIs](/Specials/Tools/Awesome-Open-APIs.md)
