@@ -8,6 +8,14 @@
 
 - [lx-music-desktop #Project#](https://github.com/lyswhut/lx-music-desktop): 一个基于 Electron + Vue 开发的音乐软件。
 
+- [marktext #Project#](https://github.com/marktext/marktext): A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
+- [Motrix #Project#](https://github.com/agalwood/Motrix): A full-featured download manager.
+
+## Boilerplate
+
+- [electron-react-typescript-webpack-boilerplate #Project#](https://github.com/Devtography/electron-react-typescript-webpack-boilerplate): Pre-configured boilerplate for Electron + React + TypeScript + Webpack.
+
 # Development Tools
 
 - [2018-Electron Fiddle #Project#](https://github.com/electron/fiddle): Electron Fiddle lets you create and play with small Electron experiments. It greets you with a quick-start template after opening – change a few things, choose the version of Electron you want to run it with, and play around.
