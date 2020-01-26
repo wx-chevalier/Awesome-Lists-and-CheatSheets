@@ -22,10 +22,6 @@
 
 - [2018-Why you can have millions of goroutines but only thousands of Java threads](https://rcoh.me/posts/why-you-can-have-a-million-go-routines-but-only-1000-java-threads/)
 
-# Concurrent IO
-
-- [2017-epoll 浅析以及 nio 中的 Selector](http://www.importnew.com/24794.html)
-
 # Asynchronous Pattern
 
 - [CS168-Introduction to Asynchronous Programming](http://cs.brown.edu/courses/cs168/s12/handouts/async.pdf)
