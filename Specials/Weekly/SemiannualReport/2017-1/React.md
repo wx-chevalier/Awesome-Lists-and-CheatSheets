@@ -166,7 +166,7 @@
 
 
 
-- [Twitter Lite 与高性能可扩展 React PWA 实践](https://parg.co/bRV)：本文是 Twitter 工程师团队介绍其在开发世界上最大的 PWA 应用之一， Twitter Lite 过程中克服各种各样的性能瓶颈的实践经验。其核心思想包括基于路由的代码切分、避免可能导致掉帧的函数、使用压缩比更好的图片资源、以及优化 React 更新过程、避免频繁修正 Redux Store、延迟注册 ServiceWorker 等部分。( https://parg.co/bRV )
+- [Twitter Lite 与高性能可扩展 React PWA 实践](https://parg.co/bRV)：本文是 Twitter 工程师团队介绍其在开发世界上最大的 PWA 应用之一，Twitter Lite 过程中克服各种各样的性能瓶颈的实践经验。其核心思想包括基于路由的代码切分、避免可能导致掉帧的函数、使用压缩比更好的图片资源、以及优化 React 更新过程、避免频繁修正 Redux Store、延迟注册 ServiceWorker 等部分。( https://parg.co/bRV )
 
 
 

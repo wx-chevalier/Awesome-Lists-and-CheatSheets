@@ -6,7 +6,7 @@
 
 - [谈 API 网关的背景、架构以及落地方案](http://www.infoq.com/cn/news/2016/07/API-background-architecture-floo)
 
-- [一个简单可参考的 API 网关架构设计](https://parg.co/8KN): 网关一词较早出现在网络设备里面，比如两个相互独立的局域网段之间通过路由器或者桥接设备进行通信， 这中间的路由或者桥接设备我们称之为网关。
+- [一个简单可参考的 API 网关架构设计](https://parg.co/8KN): 网关一词较早出现在网络设备里面，比如两个相互独立的局域网段之间通过路由器或者桥接设备进行通信，这中间的路由或者桥接设备我们称之为网关。
 
 - [2018-MicroService Proxy Gateway Solutions](https://gist.github.com/StevenACoffman/acf1133da6c5ff5226c0f6eb8fbd8132): Kong, Traefik, Caddy, Linkerd, Fabio, Vulcand, and Netflix Zuul seem to be the most common in microservice proxy/gateway solutions. Kubernetes Ingress is often a simple Ngnix, which is difficult to separate the popularity from other things.
 

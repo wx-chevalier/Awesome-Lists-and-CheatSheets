@@ -10,7 +10,7 @@
 
 - [JAVAScript 中 DOM 与 BOM 的差异分析](http://www.cnblogs.com/fjner/p/5892325.html)
 
-- [2016-JavaScript 中 DOM 对象](https://parg.co/bOa)：文档对象模型(Document Object Model ， DOM)是表示和操作 HTML 和 XML 文档内容的基础 API。
+- [2016-JavaScript 中 DOM 对象](https://parg.co/bOa)：文档对象模型(Document Object Model ，DOM)是表示和操作 HTML 和 XML 文档内容的基础 API。
 
 - [阮一峰 - 浏览器对象](http://javascript.ruanyifeng.com/bom/engine.html#)
 

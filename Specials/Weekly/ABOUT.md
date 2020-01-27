@@ -76,7 +76,7 @@
 
 ## 12
 
-- [前端每周清单第 42 期：V8 的执行流与优化， Pinterest 的 PWA 实践， Rust 与 WebAssembly 应用](https://github.com/wx-chevalier/Awesome-Coder/blob/master/Weekly/2017/12/12.1.md)
+- [前端每周清单第 42 期：V8 的执行流与优化，Pinterest 的 PWA 实践，Rust 与 WebAssembly 应用](https://github.com/wx-chevalier/Awesome-Coder/blob/master/Weekly/2017/12/12.1.md)
 - [前端每周清单第 43 期：2017 JavaScript 回顾、Rust 与 WebAssembly 开发游戏、Node.js 架构模式](https://github.com/wx-chevalier/Awesome-Coder/blob/master/Weekly/2017/12/12.2.md)
 - [前端每周清单第 44 期: 2017 JS 调查报告、REST 接口实时化、ESM 的过去与未来](https://github.com/wx-chevalier/Awesome-Coder/blob/master/Weekly/2017/12/12.3.md)
 

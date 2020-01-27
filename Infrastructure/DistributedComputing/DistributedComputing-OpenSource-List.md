@@ -28,7 +28,7 @@
 
 - [2018-Jocko #Project#](https://github.com/travisjeffery/jocko): Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
 
-- [2018-QMQ #Project#](https://github.com/qunarcorp/qmq): QMQ 是去哪儿网内部广泛使用的消息中间件，自 2012 年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。
+- [2018-QMQ #Project#](https://github.com/qunarcorp/qmq): QMQ 是去哪儿网内部广泛使用的消息中间件，自 2012 年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景；也包括报价搜索等高吞吐量场景。
 
 - [2018-NATS #Project#](https://github.com/nats-io/nats-server): High-Performance server for NATS, the cloud native messaging system.
 
