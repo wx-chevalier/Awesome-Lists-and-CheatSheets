@@ -18,6 +18,8 @@
 
 - [2019-NNI #Project#](https://github.com/microsoft/nni): An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.
 
+- [2019-Thinc #Project#](https://github.com/explosion/thinc): A refreshing functional take on deep learning, compatible with your favorite libraries.
+
 ## Visualization
 
 - [TensorSpace.js #Project#](https://github.com/tensorspace-team/tensorspace): Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
