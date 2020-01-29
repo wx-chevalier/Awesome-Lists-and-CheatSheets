@@ -616,8 +616,8 @@
         - [Linux SysProc List](/Infrastructure/OS/Linux/Linux-SysProc-List.md)
       - [OS List](/Infrastructure/OS/OS-List.md)
       - [OS OpenSource List](/Infrastructure/OS/OS-OpenSource-List.md)
-      - OperatingSystem
-        - [OperatingSystem List](/Infrastructure/OS/OperatingSystem/OperatingSystem-List.md)
+      - Theory
+        - [OST List](/Infrastructure/OS/Theory/OST-List.md)
   - Product
     - Design
       - [Design List](/Product/Design/Design-List.md)

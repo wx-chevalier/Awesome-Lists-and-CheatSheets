@@ -56,7 +56,7 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 ## IDS & WAF
 
-- [驭龙 HIDS #Project#](https://github.com/ysrc/yulong-hids): 驭龙 HIDS 是一款由 YSRC 开源的入侵检测系统，由 Agent， Daemon， Server 和 Web 四个部分组成，集异常检测、监控管理为一体，拥有异常行为发现、快速阻断、高级分析等功能，可从多个维度行为信息中发现入侵行为。
+- [驭龙 HIDS #Project#](https://github.com/ysrc/yulong-hids): 驭龙 HIDS 是一款由 YSRC 开源的入侵检测系统，由 Agent，Daemon，Server 和 Web 四个部分组成，集异常检测、监控管理为一体，拥有异常行为发现、快速阻断、高级分析等功能，可从多个维度行为信息中发现入侵行为。
 
 - [ModSecurity #Project#](https://github.com/SpiderLabs/ModSecurity): ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs.
 

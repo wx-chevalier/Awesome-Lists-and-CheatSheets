@@ -72,7 +72,7 @@
 
 
 
-- [NgRx 的设计模式与技巧分享](https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5)：状态管理一直是构建前端应用过程中的难点之一， Angular 也为我们提供了多种不同的设计模式来进行状态管理；而本文即是介绍如何使用 NgRx 这个库进行状态管理。NgRx 是非常简单易用，没有太多限制条件的状态管理库；本文首先概述了 NgRx 的核心概念与设计原则，然后以实际的项目为例介绍了如何使用 NgRx 处理 Action 以及副作用。
+- [NgRx 的设计模式与技巧分享](https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5)：状态管理一直是构建前端应用过程中的难点之一，Angular 也为我们提供了多种不同的设计模式来进行状态管理；而本文即是介绍如何使用 NgRx 这个库进行状态管理。NgRx 是非常简单易用，没有太多限制条件的状态管理库；本文首先概述了 NgRx 的核心概念与设计原则，然后以实际的项目为例介绍了如何使用 NgRx 处理 Action 以及副作用。
 
 
 - [基于 NGModules 与 Webpack 的 Angular 应用模块分割与懒加载](https://toddmotto.com/lazy-loading-angular-code-splitting-webpack)：本文主要讨论如何在 Angular 应用开发中利用 Webpack 与 NGModules 实现对于代码库的模块分割，并且利用懒加载来加载非首屏内容，从而提升整体的应用响应性能。本文首先介绍了代码分割与懒加载相关的概念知识，然后介绍了如何搭建 Webpack 基础环境，然后介绍了使用 NgModules 以及性能对比；更多 Webpack 相关资料参考[ https://parg.co/bVs  ](https://parg.co/bVs)。
