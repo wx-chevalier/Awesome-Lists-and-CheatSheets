@@ -122,56 +122,38 @@
           - [TensorFlow OpenSource List](/AI/Toolkit/Framework/TensorFlow/TensorFlow-OpenSource-List.md)
       - Platform
         - [Platform List](/AI/Toolkit/Platform/Platform-List.md)
-  - Application
-    - [Application List](/Application/Application-List.md)
-    - ECommerce
-      - [ECommerce List](/Application/ECommerce/ECommerce-List.md)
-      - [ECommerce OpenSource List](/Application/ECommerce/ECommerce-OpenSource-List.md)
-      - Logistics
-        - [Logistics List](/Application/ECommerce/Logistics/Logistics-List.md)
-      - Pay
-        - [Pay List](/Application/ECommerce/Pay/Pay-List.md)
-      - RiskControl
-        - [RiskControl List](/Application/ECommerce/RiskControl/RiskControl-List.md)
-    - Finance
-      - [Finance List](/Application/Finance/Finance-List.md)
-    - HCM
-      - [HCM List](/Application/HCM/HCM-List.md)
-    - Intelligent Manufacturing
-      - [Intelligent Manufacturing List](/Application/Intelligent-Manufacturing/Intelligent-Manufacturing-List.md)
-      - [Intelligent Manufacturing OpenSource List](/Application/Intelligent-Manufacturing/Intelligent-Manufacturing-OpenSource-List.md)
   - Backend
     - [Backend List](/Backend/Backend-List.md)
     - CloudNative
       - [CloudNative List](/Backend/CloudNative/CloudNative-List.md)
       - [Serverless List](/Backend/CloudNative/Serverless-List.md)
-    - FunctionalDomain
+    - Domain
       - Auth
-        - [Auth List](/Backend/FunctionalDomain/Auth/Auth-List.md)
+        - [Auth List](/Backend/Domain/Auth/Auth-List.md)
       - BPM
-        - [BPM List](/Backend/FunctionalDomain/BPM/BPM-List.md)
-        - [BPM OpenSource List](/Backend/FunctionalDomain/BPM/BPM-OpenSource-List.md)
+        - [BPM List](/Backend/Domain/BPM/BPM-List.md)
+        - [BPM OpenSource List](/Backend/Domain/BPM/BPM-OpenSource-List.md)
       - CMS
-        - [CMS List](/Backend/FunctionalDomain/CMS/CMS-List.md)
-        - [CMS OpenSource List](/Backend/FunctionalDomain/CMS/CMS-OpenSource-List.md)
+        - [CMS List](/Backend/Domain/CMS/CMS-List.md)
+        - [CMS OpenSource List](/Backend/Domain/CMS/CMS-OpenSource-List.md)
       - Cron
-        - [Cron List](/Backend/FunctionalDomain/Cron/Cron-List.md)
+        - [Cron List](/Backend/Domain/Cron/Cron-List.md)
       - IM
-        - [IM List](/Backend/FunctionalDomain/IM/IM-List.md)
-        - [IM OpenSource List](/Backend/FunctionalDomain/IM/IM-OpenSource-List.md)
-        - [Live List](/Backend/FunctionalDomain/IM/Live-List.md)
-        - [WebRTC List](/Backend/FunctionalDomain/IM/WebRTC-List.md)
+        - [IM List](/Backend/Domain/IM/IM-List.md)
+        - [IM OpenSource List](/Backend/Domain/IM/IM-OpenSource-List.md)
+        - [Live List](/Backend/Domain/IM/Live-List.md)
+        - [WebRTC List](/Backend/Domain/IM/WebRTC-List.md)
       - LBS
-        - [LBS List](/Backend/FunctionalDomain/LBS/LBS-List.md)
-        - [LBS OpenSource List](/Backend/FunctionalDomain/LBS/LBS-OpenSource-List.md)
+        - [LBS List](/Backend/Domain/LBS/LBS-List.md)
+        - [LBS OpenSource List](/Backend/Domain/LBS/LBS-OpenSource-List.md)
       - OpenPlatform
         - Alipay
-          - [Alipay List](/Backend/FunctionalDomain/OpenPlatform/Alipay/Alipay-List.md)
-        - [OpenPlatform List](/Backend/FunctionalDomain/OpenPlatform/OpenPlatform-List.md)
+          - [Alipay List](/Backend/Domain/OpenPlatform/Alipay/Alipay-List.md)
+        - [OpenPlatform List](/Backend/Domain/OpenPlatform/OpenPlatform-List.md)
         - Wechat
-          - [Weapp List](/Backend/FunctionalDomain/OpenPlatform/Wechat/Weapp-List.md)
-          - [Weapp OpenSource List](/Backend/FunctionalDomain/OpenPlatform/Wechat/Weapp-OpenSource-List.md)
-          - [Wechat List](/Backend/FunctionalDomain/OpenPlatform/Wechat/Wechat-List.md)
+          - [Weapp List](/Backend/Domain/OpenPlatform/Wechat/Weapp-List.md)
+          - [Weapp OpenSource List](/Backend/Domain/OpenPlatform/Wechat/Weapp-OpenSource-List.md)
+          - [Wechat List](/Backend/Domain/OpenPlatform/Wechat/Wechat-List.md)
     - MicroService
       - APIGateway
         - [APIGateway List](/Backend/MicroService/APIGateway/APIGateway-List.md)
@@ -198,9 +180,54 @@
       - [Traefik List](/Backend/WebServer/Traefik-List.md)
       - [WebServer List](/Backend/WebServer/WebServer-List.md)
   - Business
-    - [HR List](/Business/HR-List.md)
-    - [Internet List](/Business/Internet-List.md)
-    - [Management List](/Business/Management-List.md)
+    - Application
+      - [Application List](/Business/Application/Application-List.md)
+      - ECommerce
+        - [ECommerce List](/Business/Application/ECommerce/ECommerce-List.md)
+        - [ECommerce OpenSource List](/Business/Application/ECommerce/ECommerce-OpenSource-List.md)
+        - Logistics
+          - [Logistics List](/Business/Application/ECommerce/Logistics/Logistics-List.md)
+        - Pay
+          - [Pay List](/Business/Application/ECommerce/Pay/Pay-List.md)
+        - RiskControl
+          - [RiskControl List](/Business/Application/ECommerce/RiskControl/RiskControl-List.md)
+      - Finance
+        - [Finance List](/Business/Application/Finance/Finance-List.md)
+      - HCM
+        - [HCM List](/Business/Application/HCM/HCM-List.md)
+      - Intelligent Manufacturing
+        - [Intelligent Manufacturing List](/Business/Application/Intelligent-Manufacturing/Intelligent-Manufacturing-List.md)
+        - [Intelligent Manufacturing OpenSource List](/Business/Application/Intelligent-Manufacturing/Intelligent-Manufacturing-OpenSource-List.md)
+    - Industry
+      - [Internet List](/Business/Industry/Internet-List.md)
+    - Management
+      - [HR List](/Business/Management/HR-List.md)
+      - [Management List](/Business/Management/Management-List.md)
+    - Product
+      - Design
+        - [Design List](/Business/Product/Design/Design-List.md)
+        - Tools
+          - [Sketch List](/Business/Product/Design/Tools/Sketch-List.md)
+        - UI
+          - [UI List](/Business/Product/Design/UI/UI-List.md)
+      - Docs
+        - [Docs List](/Business/Product/Docs/Docs-List.md)
+        - [Office List](/Business/Product/Docs/Office-List.md)
+        - [PDF List](/Business/Product/Docs/PDF-List.md)
+      - Management
+        - Agile
+          - [Agile List](/Business/Product/Management/Agile/Agile-List.md)
+        - [Management List](/Business/Product/Management/Management-List.md)
+        - OpenSource
+          - [OpenSource List](/Business/Product/Management/OpenSource/OpenSource-List.md)
+        - TechnicalManagement
+          - [TechnicalManagement List](/Business/Product/Management/TechnicalManagement/TechnicalManagement-List.md)
+      - Operation
+        - [Operation List](/Business/Product/Operation/Operation-List.md)
+        - [UGC List](/Business/Product/Operation/UGC-List.md)
+      - [Product List](/Business/Product/Product-List.md)
+      - [Product OpenSource List](/Business/Product/Product-OpenSource-List.md)
+      - [Vision List](/Business/Product/Vision-List.md)
     - SoftwareEngineering
       - Git
         - [Git List](/Business/SoftwareEngineering/Git/Git-List.md)
@@ -618,31 +645,6 @@
       - [OS OpenSource List](/Infrastructure/OS/OS-OpenSource-List.md)
       - Theory
         - [OST List](/Infrastructure/OS/Theory/OST-List.md)
-  - Product
-    - Design
-      - [Design List](/Product/Design/Design-List.md)
-      - Tools
-        - [Sketch List](/Product/Design/Tools/Sketch-List.md)
-      - UI
-        - [UI List](/Product/Design/UI/UI-List.md)
-    - Docs
-      - [Docs List](/Product/Docs/Docs-List.md)
-      - [Office List](/Product/Docs/Office-List.md)
-      - [PDF List](/Product/Docs/PDF-List.md)
-    - Management
-      - Agile
-        - [Agile List](/Product/Management/Agile/Agile-List.md)
-      - [Management List](/Product/Management/Management-List.md)
-      - OpenSource
-        - [OpenSource List](/Product/Management/OpenSource/OpenSource-List.md)
-      - TechnicalManagement
-        - [TechnicalManagement List](/Product/Management/TechnicalManagement/TechnicalManagement-List.md)
-    - Operation
-      - [Operation List](/Product/Operation/Operation-List.md)
-      - [UGC List](/Product/Operation/UGC-List.md)
-    - [Product List](/Product/Product-List.md)
-    - [Product OpenSource List](/Product/Product-OpenSource-List.md)
-    - [Vision List](/Product/Vision-List.md)
   - ProgrammingLanguage
     - C
       - [CPP Compiler List](/ProgrammingLanguage/C/CPP-Compiler-List.md)
