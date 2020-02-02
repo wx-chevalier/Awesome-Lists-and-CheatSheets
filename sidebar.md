@@ -154,31 +154,33 @@
           - [Weapp List](/Backend/Domain/OpenPlatform/Wechat/Weapp-List.md)
           - [Weapp OpenSource List](/Backend/Domain/OpenPlatform/Wechat/Weapp-OpenSource-List.md)
           - [Wechat List](/Backend/Domain/OpenPlatform/Wechat/Wechat-List.md)
+    - Gateway
+      - [Gateway List](/Backend/Gateway/Gateway-List.md)
+      - [LoadBalancing List](/Backend/Gateway/LoadBalancing-List.md)
+      - [LongConnection List](/Backend/Gateway/LongConnection-List.md)
+      - WebServer
+        - [Apache List](/Backend/Gateway/WebServer/Apache-List.md)
+        - [Caddy List](/Backend/Gateway/WebServer/Caddy-List.md)
+        - [Nginx List](/Backend/Gateway/WebServer/Nginx-List.md)
+        - [Traefik List](/Backend/Gateway/WebServer/Traefik-List.md)
+        - [WebServer List](/Backend/Gateway/WebServer/WebServer-List.md)
+    - HA
+      - [Cache List](/Backend/HA/Cache-List.md)
+      - [HA List](/Backend/HA/HA-List.md)
+      - [Spike List](/Backend/HA/Spike-List.md)
     - MicroService
-      - APIGateway
-        - [APIGateway List](/Backend/MicroService/APIGateway/APIGateway-List.md)
-        - [LoadBalancing List](/Backend/MicroService/APIGateway/LoadBalancing-List.md)
-        - [LongConnection List](/Backend/MicroService/APIGateway/LongConnection-List.md)
       - Configuration
         - [Configuration List](/Backend/MicroService/Configuration/Configuration-List.md)
+      - DistributedTracing
+        - [DistributedTracing List](/Backend/MicroService/DistributedTracing/DistributedTracing-List.md)
       - [MicroService List](/Backend/MicroService/MicroService-List.md)
       - [MicroService OpenSource List](/Backend/MicroService/MicroService-OpenSource-List.md)
       - RPC
-        - [API List](/Backend/MicroService/RPC/API-List.md)
-        - [DistributedTracing List](/Backend/MicroService/RPC/DistributedTracing-List.md)
         - [Dubbo List](/Backend/MicroService/RPC/Dubbo-List.md)
         - [RPC List](/Backend/MicroService/RPC/RPC-List.md)
         - [gRPC List](/Backend/MicroService/RPC/gRPC-List.md)
       - ResilienceService
-        - [Cache List](/Backend/MicroService/ResilienceService/Cache-List.md)
-        - [Resilience Service List](/Backend/MicroService/ResilienceService/Resilience-Service-List.md)
-        - [Spike List](/Backend/MicroService/ResilienceService/Spike-List.md)
-    - WebServer
-      - [Apache List](/Backend/WebServer/Apache-List.md)
-      - [Caddy List](/Backend/WebServer/Caddy-List.md)
-      - [Nginx List](/Backend/WebServer/Nginx-List.md)
-      - [Traefik List](/Backend/WebServer/Traefik-List.md)
-      - [WebServer List](/Backend/WebServer/WebServer-List.md)
+        - [ResilienceService List](/Backend/MicroService/ResilienceService/ResilienceService-List.md)
   - Business
     - Application
       - [Application List](/Business/Application/Application-List.md)
@@ -772,6 +774,7 @@
       - [ArchitecturalPattern List](/SoftwareArchitecture/ArchitecturalPattern/ArchitecturalPattern-List.md)
     - [ArchitecturalPrinciple List](/SoftwareArchitecture/ArchitecturalPrinciple-List.md)
     - ArchitecturalStyle
+      - [API List](/SoftwareArchitecture/ArchitecturalStyle/API-List.md)
       - [ArchitecturalStyle List](/SoftwareArchitecture/ArchitecturalStyle/ArchitecturalStyle-List.md)
       - [DDD List](/SoftwareArchitecture/ArchitecturalStyle/DDD-List.md)
       - [RESTful List](/SoftwareArchitecture/ArchitecturalStyle/RESTful-List.md)

@@ -69,7 +69,7 @@
 
 - [react-sparklines #Project#](https://github.com/borisyankov/react-sparklines): Beautiful and expressive sparklines component for React.
 
-## Heatmap | 热力图
+## 热力图（Heatmap）
 
 - [github-contributions-canvas #Project#](https://github.com/sallar/github-contributions-canvas): A tool for drawing a heat-map of Github contributions on HTML Canvas.
 
