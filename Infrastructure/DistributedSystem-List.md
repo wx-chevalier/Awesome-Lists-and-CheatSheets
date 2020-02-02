@@ -1,5 +1,3 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
-
 # 分布式系统学习与实践资料索引
 
 [云计算和大数据平台基础架构]()是笔者对于现代 IT 系统中使用的基础架构相关的资料汇总，包含了分布式系统、分布式计算、(分布式)存储、虚拟化、网络与操作系统等多个方面；而偏向应用层的资料参考[服务端应用程序 Learning & Practices Links]()
@@ -52,7 +50,7 @@
 
 - [2011-Özsu-Principles of Distributed Database Systems-3rd Edition #Book#](http://www.springer.com/us/book/9781441988331): The first part discusses the fundamental principles of distributed data management and includes distribution design, data integration, distributed query processing and optimization, distributed transaction management, and replication. The second part focuses on more advanced topics and includes discussion of parallel database systems, distributed object management, peer-to-peer data management, web data management, data stream systems, and cloud computing.
 
-- [2017-Designing Data Intensive Applications #Book#](https://dataintensive.net/): This book will help you navigate the diverse and fast-changing landscape of technologies for storing and processing data.
+- [2017-Designing Data Intensive Applications #Book#](https://dataintensive.net/): This book will help you navigate the diverse and fast-changing landscape of technologies for storing and processing data. [DDIA 中文翻译](https://github.com/Vonng/ddia)。
 
 ## Course
 

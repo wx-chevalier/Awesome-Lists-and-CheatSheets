@@ -1,5 +1,3 @@
-[![返回目录](https://i.postimg.cc/JzFTMvjF/image.png)](https://github.com/wx-chevalier/Awesome-CheatSheets)
-
 # 程序员的学习进阶之途
 
 本文介绍了笔者自身学习工作中总结的阅读、写作、编程、视野提升与课程学习方面的资料以及经验分享。

@@ -1,8 +1,14 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
+
 
 # JavaScript OpenSource List
 
 - [Automerge #Project#](https://github.com/automerge/automerge): A JSON-like data structure that can be modified concurrently by different users, and merged again automatically.
+
+# Showcase
+
+- [WarriorJS #Project#](https://github.com/olistic/warriorjs): An exciting game of programming and Artificial Intelligence.
+
+- [Kajero #Project#](https://github.com/JoelOtter/kajero): Interactive JavaScript notebooks with clever graphing
 
 # Toolkits
 

@@ -1,5 +1,3 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
-
 # Awesome JavaScript List
 
 This file aggregates curated popular links for learning JavaScript. More reference about ITCS can turn to [AwesomeList: Guide to Galaxy](https://github.com/wx-chevalier/Awesome-Lists), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
@@ -60,12 +58,6 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [Eloquent Javascript](http://eloquentjavascript.net/index.html)
 
-## Interactive Learning | 交互式学习
-
-- [WarriorJS #Project#](https://github.com/olistic/warriorjs): An exciting game of programming and Artificial Intelligence.
-
-- [Kajero #Project#](https://github.com/JoelOtter/kajero): Interactive JavaScript notebooks with clever graphing
-
 ## Collection
 
 - [Github-JavaScript Path JavaScript 学习规划](https://github.com/javascript-society/javascript-path)
@@ -73,6 +65,10 @@ This file aggregates curated popular links for learning JavaScript. More referen
 - [essential-javascript-links](https://github.com/ericelliott/essential-javascript-links)
 
 - [awesome-javascript-guide](https://github.com/wwsun/awesome-javascript)
+
+## Course
+
+- [2020-20+ Web Projects With Vanilla JavaScript #Course#](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries.
 
 # Tutorial
 

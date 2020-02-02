@@ -1,5 +1,3 @@
-[![返回目录](https://user-images.githubusercontent.com/5803001/38079637-ff0abcf0-3371-11e8-9b76-ad651620afc7.jpg)](https://github.com/wx-chevalier/Awesome-Lists)
-
 # 电子商务资料索引
 
 - [解密 Airbnb 的定价算法](http://www.infoq.com/cn/articles/decryption-airbnb-pricing-algorithm)
@@ -11,4 +9,3 @@
 # 红包
 
 [10 亿红包从天而降，揭秘微信摇一摇背后的技术细节](http://www.infoq.com/cn/articles/1-billion-bonus-from-the-clouds)
-
