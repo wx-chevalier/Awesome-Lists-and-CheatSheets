@@ -41,3 +41,5 @@
 - [Bash Infinity #Project#](https://github.com/niieani/bash-oo-framework): Bash Infinity is a modern boilerplate / framework / standard library for bash
 
 - [2017-Bash Snippets #Project#](https://github.com/alexanderepstein/Bash-Snippets): A collection of small bash scripts for heavy terminal users.
+
+- [Shell Check](https://www.shellcheck.net): finds bugs in your shell scripts.

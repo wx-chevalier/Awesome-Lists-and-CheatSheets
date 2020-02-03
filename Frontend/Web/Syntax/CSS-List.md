@@ -10,13 +10,11 @@
 
 - [Houdini：CSS 领域最令人振奋的革新](http://qianduan.guru/2016/05/20/houdini/)
 
-- [CSS GuideLines](http://cssguidelin.es/): 免费的电子书，教你如何编写高质量可维护的 CSS 代码
-
 # Overview
 
-- [2017-8 CSS gotchas to start your morning off right](https://parg.co/bhl).
-
 - [2017-The invisible parts of CSS](https://madebymike.com.au/writing/the-invisible-parts-of-CSS/#cascade): If you use CSS in your daily work, your primary goal is probably focused around making things ‘look right’. How this is achieved is often far less important than the end result. This means we care less about how CSS works than the correct syntax and visual results.
+
+- [2020-Old CSS，New CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/): I’m here to tell all of you to get off my lawn. Here’s a history of CSS and web design, as I remember it.
 
 ## Compatibility
 
@@ -27,3 +25,5 @@
 - [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/): A curated collection of useful CSS snippets you can understand in 30 seconds or less.
 
 # Tutorial
+
+- [2017-8 CSS gotchas to start your morning off right](https://parg.co/bhl).

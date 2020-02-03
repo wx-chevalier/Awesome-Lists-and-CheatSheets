@@ -38,6 +38,8 @@
 
 - [2018-MaintainableCSS #Book#](https://maintainablecss.com/): Write CSS without worrying that overzealous, pre-existing styles will cause problems. MaintainableCSS is an approach to writing modular, scalable and maintainable CSS.
 
+- [CSS GuideLines #Book#](http://cssguidelin.es/): 免费的电子书，教你如何编写高质量可维护的 CSS 代码
+
 ## Blog | 博客
 
 - [2018-How JavaScript works #Blog#](https://blog.sessionstack.com/tagged/tutorial): the series dedicated to exploring JavaScript and its building components. In the process of identifying and describing the core elements, we also share some rules of thumb we use when building SessionStack.
