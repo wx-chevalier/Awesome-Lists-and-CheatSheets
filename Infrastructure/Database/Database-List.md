@@ -1,5 +1,3 @@
-
-
 # Database List | 数据库资料索引
 
 # Overview
@@ -48,9 +46,11 @@
 
 - [2015-Readings in Database Systems-5th #Book#](http://www.redbook.io/): Readings in Database Systems (commonly known as the "Red Book") has offered readers an opinionated take on both classic and cutting-edge research in the field of data management since 1988.
 
-- [2019-Database Internal #Book#](https://www.databass.dev): The book consists of two parts: Storage Engines and Distributed Systems since that’s where most of the differences between the vast majority of databases is coming from. 
+- [2019-Database Internal #Book#](https://www.databass.dev): The book consists of two parts: Storage Engines and Distributed Systems since that’s where most of the differences between the vast majority of databases is coming from.
 
 ### SQL
+
+- [2018-SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL-4th Edition #Book#](https://parg.co/oUa): SQL Queries for Mere Mortals has earned worldwide praise as the clearest, simplest tutorial on writing effective queries with the latest SQL standards and database applications. Now, author John L. Viescas has updated this hands-on classic with even more advanced and valuable techniques.
 
 - [2019-How to Teach People SQL #Book#](https://dataschool.com/how-to-teach-people-sql/): This book will help you empathize with people learning SQL for the first time.
 
@@ -58,11 +58,15 @@
 
 - [2019-SQL Optimization #Book#](https://dataschool.com/sql-optimization/): Get exposed to the most common techniques for improving query speed and database performance. Learn how to optimize queries by modifying SQL. Understand how indexes work and when to apply them.
 
-- [2018-SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL-4th Edition](https://parg.co/oUa)
-
 ### RDB
 
 - [2016-Relational Database Design and Implementation-4th #Book#](https://parg.co/bjE): The book begins by reviewing basic concepts of databases and database design, then turns to creating, populating, and retrieving data using SQL.
+
+### MySQL
+
+- [2017-MySQL 学习笔记 #Book#](http://notes.diguage.com/mysql/): 本文档可以看作是 D 瓜哥 学习《高性能 MySQL》时，做的读书笔记。为了让内容更丰富易懂，还参考了《MySQL 技术内幕》和《数据库索引设计与优化》。
+
+- [2017-The Unofficial MySQL 8.0 Optimizer Guide #Book#](http://www.unofficialmysqlguide.com/introduction.html): Morgan Tocker is the Product Manager for the MySQL Server at Oracle. He has previously worked in a variety of roles including Support, Training and Community. Morgan is based out of Toronto, Canada.
 
 ### Datawarehouse
 
@@ -74,7 +78,17 @@
 
 ## Course
 
-- [2017-SimpleDB #Project#](https://github.com/iamxpy/SimpleDB): UC Berkeley's Database class CS186: Implement A Simple Database Management System
+### SQL
+
+- [2019-W3Resource SQL Tutorial #Course#](https://www.w3resource.com/sql/tutorials.php#HISTSQL): SQL Tutorial of w3resource aims to meet the need of a beginner to learn SQL without any prior experience.
+
+- [SQL in a Nutshell #Course#](https://parg.co/U31): This series focuses on the most frequent data science and analytical problems in the real-world, and aims at solving them with SQL.
+
+- [W3School SQL 教程 #Course#](https://wizardforcel.gitbooks.io/w3school-sql/content/part1.html)
+
+- [SQL Teaching #Course#](https://www.sqlteaching.com/)
+
+- [Intro to SQL: Querying and managing data #Course#](https://parg.co/Uxe): Learn how to use SQL to store, query, and manipulate data. SQL is a special-purpose programming language designed for managing data in a relational database, and is used by a huge number of apps and organizations.
 
 ## Paper
 

@@ -1,5 +1,3 @@
-
-
 # MySQL List
 
 # Overview
@@ -9,14 +7,6 @@
 - [2016-同程旅游的 MySQL 实践](http://mp.weixin.qq.com/s/LhCHEkSstmru4PnrfuoaVg): 以架构之“道”为基础，呈现更多务实落地的架构内容。
 
 - [2019-全球最大金融级分布式 MySQL 集群实践：5 个 9 可用性、20 万 TPS、快乐运维](https://mp.weixin.qq.com/s/VanCDyrX4xzyPVZ4ul_yJQ): 腾讯金融科技有着全球最大的金融级分布式 MySQL 集群，支撑着微信支付、QQ 钱包、理财通等业务，近两年数据库可用性达到 99.999%，保障除夕红包业务超 20 万级别的 TPS 请求，给 DBA 和运维带来快乐。
-
-# Resource
-
-## Book
-
-- [2017-MySQL 学习笔记 #Book#](http://notes.diguage.com/mysql/)
-
-- [2017-The Unofficial MySQL 8.0 Optimizer Guide #Book#](http://www.unofficialmysqlguide.com/introduction.html): Morgan Tocker is the Product Manager for the MySQL Server at Oracle. He has previously worked in a variety of roles including Support, Training and Community. Morgan is based out of Toronto, Canada.
 
 ## Collection
 

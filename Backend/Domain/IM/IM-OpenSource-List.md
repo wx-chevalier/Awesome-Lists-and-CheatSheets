@@ -1,5 +1,3 @@
-
-
 # IM OpenSource List
 
 # Team Chat

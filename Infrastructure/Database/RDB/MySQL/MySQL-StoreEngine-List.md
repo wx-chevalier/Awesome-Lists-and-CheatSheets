@@ -1,12 +1,10 @@
-
-
 # MySQL 工程实践与性能优化资料索引
 
 - [2017-MySQL 处理海量数据时的一些优化查询速度方法](http://www.54tianzhisheng.cn/2017/04/29/MySQL-select-good/)
 
 - [2017-How to Optimize MySQL: Indexes, Slow Queries, Configuration](https://parg.co/UrU): In this article, we’ll look at some MySQL optimization tips we’ve covered previously, and combine them with novelties that came out since.
 
-- [2016-Writing a MySQL storage engine from scratch](https://www.codeproject.com/articles/1107279/writing-a-mysql-storage-engine-from-scratch): This article summarizes the things that I learned when I wrote a new MySQL storage engine (“SE”).
+- [2016-Writing a MySQL storage engine from scratch](https://www.codeproject.com/articles/1107279/writing-a-mysql-storage-engine-from-scratch): This article summarizes the things that I learned when I wrote a new MySQL storage engine (“SE”)。
 
 - [MySQL 线程池内幕](https://my.oschina.net/andylucc/blog/820624)：在 MySQL 中，线程池指的是用来管理处理 MySQL 客户端连接任务的线程的一种机制，我厂用的 percona 版本已经是集成了线程池，只需要通过如下参数开启即可。
 
