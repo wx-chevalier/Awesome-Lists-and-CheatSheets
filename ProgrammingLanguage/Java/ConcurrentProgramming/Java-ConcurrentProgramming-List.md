@@ -1,5 +1,3 @@
-
-
 # Java Concurrent Programming List
 
 # Overview

@@ -1,5 +1,3 @@
-
-
 # Java Syntax List | Java 语法基础资料索引
 
 # ControlFlow | 流程控制

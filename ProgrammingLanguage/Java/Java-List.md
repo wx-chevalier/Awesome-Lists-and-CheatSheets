@@ -24,13 +24,13 @@
 
 - [2015-Pro Java 8 Programming-3rd #Book#](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
 
+- [2015-The CERT ® Oracle ® Secure Coding Standard for Java #Book#](https://ptgmedia.pearsoncmg.com/images/9780321803955/samplepages/0321803957.pdf)
+
 - [2017-Think Java #Book#](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
 
 - [2017-Introduction To Programming In Java #Book#](http://introcs.cs.princeton.edu/java/home/): Princeton 出品的 Java 入门书籍
 
-- [2016-Think-in-Java #Book#](https://parg.co/b7t): Thinking In Java should be read cover to cover by every Java programmer, then kept close at hand for frequent reference. The exercises are challenging, and the chapter on Collections is superb!
-
-- [2015-The CERT ® Oracle ® Secure Coding Standard for Java #Book#](https://ptgmedia.pearsoncmg.com/images/9780321803955/samplepages/0321803957.pdf)
+- [2016-Think in Java #Book#](https://parg.co/b7t): Thinking In Java should be read cover to cover by every Java programmer, then kept close at hand for frequent reference. The exercises are challenging, and the chapter on Collections is superb!
 
 ### Concurrent
 
@@ -141,8 +141,6 @@
 ## Online Playground | 在线实践
 
 - [Twitter Java Style Guide](https://parg.co/b7M): The intention of this guide is to provide a set of conventions that encourage good code.
-
-- [2016-Java 问题定位](http://blog.csdn.net/wodeyuer125/article/details/50557168)
 
 - [Top 10 Java Blog for Programmers of All Levels](https://stackify.com/java-blogs-for-programmers-of-all-levels/): All over the world, Java professionals are posting daily about new findings or new feature functions. Unfortunately, blogs can also provide some not so great insight and perspective.
 

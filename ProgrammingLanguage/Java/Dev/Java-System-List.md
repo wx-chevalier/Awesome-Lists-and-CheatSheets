@@ -1,5 +1,3 @@
-
-
 # Java System List
 
 ## Jacob

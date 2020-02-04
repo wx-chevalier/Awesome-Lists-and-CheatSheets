@@ -1,5 +1,3 @@
-
-
 # Java Storage List
 
 # JDBC

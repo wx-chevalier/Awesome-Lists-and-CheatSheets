@@ -1,5 +1,3 @@
-
-
 # Maven Learning & Practices List
 
 - [Maven 学习](https://tracylihui.github.io/2015/07/09/Maven%E5%AD%A6%E4%B9%A0/)

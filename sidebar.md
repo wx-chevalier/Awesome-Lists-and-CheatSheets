@@ -200,6 +200,8 @@
       - Intelligent Manufacturing
         - [Intelligent Manufacturing List](/Business/Application/Intelligent-Manufacturing/Intelligent-Manufacturing-List.md)
         - [Intelligent Manufacturing OpenSource List](/Business/Application/Intelligent-Manufacturing/Intelligent-Manufacturing-OpenSource-List.md)
+    - Finance
+      - [Finance List](/Business/Finance/Finance-List.md)
     - Industry
       - [Internet List](/Business/Industry/Internet-List.md)
     - Management

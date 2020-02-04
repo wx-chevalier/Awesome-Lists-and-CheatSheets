@@ -1,5 +1,3 @@
-
-
 # Media OpenSource List
 
 - [Vision-diff #Project#](https://github.com/Meituan-Dianping/vision-diff): Vision-diff is an image comparison algorithm just like the diff utility. It is line-oriented rather than pixel-oriented, as a result, it returns a much more clear differences than the traditional pixel based image comparison algorithm (See the below example).
@@ -43,17 +41,3 @@
 ## MicroPhone
 
 - [microm #Project#](https://github.com/zzarcon/microm)
-
-# 图片与录屏
-
-## 录屏
-
-- [Kap #Project#](https://getkap.co/): Capture your screen, An open-source screen recorder built with web technology.
-
-## 图片处理
-
-- [Remove Image Background](https://www.remove.bg/): 100% automatically – in 5 seconds – without a single click.
-
-## OCR
-
-- [MathPix](https://mathpix.com): Take a screenshot of math and paste the LaTeX into your editor, all with a single keyboard shortcut.

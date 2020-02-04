@@ -1,5 +1,3 @@
-
-
 # Akka List
 
 - [JVM 并发性: 使用 Akka 执行异步操作](http://www.ibm.com/developerworks/cn/java/j-jvmc5/index.html)

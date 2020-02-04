@@ -1,5 +1,3 @@
-
-
 # Java Functional Programming List
 
 - [2017-Functional alternatives to the traditional for loop](https://parg.co/baJ)

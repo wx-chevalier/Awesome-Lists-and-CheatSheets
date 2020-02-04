@@ -1,5 +1,3 @@
-
-
 # Java DataStructure List
 
 # 基础数据结构

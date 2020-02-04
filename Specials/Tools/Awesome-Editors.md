@@ -92,6 +92,20 @@
 
 - [gollum #Project#](https://github.com/gollum/gollum): A simple, Git-powered wiki with a sweet API and local frontend.
 
+# 图片与录屏
+
+## 录屏
+
+- [Kap #Project#](https://getkap.co/): Capture your screen, An open-source screen recorder built with web technology.
+
+## 图片处理
+
+- [Remove Image Background](https://www.remove.bg/): 100% automatically – in 5 seconds – without a single click.
+
+## OCR
+
+- [MathPix](https://mathpix.com): Take a screenshot of math and paste the LaTeX into your editor, all with a single keyboard shortcut.
+
 # Draw
 
 ## Diagram
