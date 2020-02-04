@@ -1,5 +1,3 @@
-
-
 # RESTful API List
 
 - [2000-Architectural Styles and the Design of Network-based Software Architectures](http://o6v08w541.bkt.clouddn.com/REST-article.pdf)：[论文中文译版 : 架构风格与基于网络的软件架构设计](http://o6v08w541.bkt.clouddn.com/REST-article.pdf)

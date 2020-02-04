@@ -1,6 +1,3 @@
- 
- 
- 
 # Markov Chain Monte Carlo
 
 - [MCMC sampling for dummies](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)

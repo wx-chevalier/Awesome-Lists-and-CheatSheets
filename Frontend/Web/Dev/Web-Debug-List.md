@@ -1,5 +1,3 @@
- 
-
 # Web Debug List
 
 # 调试工具
@@ -14,7 +12,7 @@
 
 - [超完整的 Chrome 浏览器客户端调试大全](http://www.igeekbar.com/igeekbar/post/156.htm)
 
-- [More helpful (and lesser known) features in the Chrome dev tools](https://blog.logrocket.com/making-the-most-of-the-chrome-developer-tools-8cac9a206979) 
+- [More helpful (and lesser known) features in the Chrome dev tools](https://blog.logrocket.com/making-the-most-of-the-chrome-developer-tools-8cac9a206979)
 
 - [Seeing backend performance in the Chrome dev tools](https://blog.logrocket.com/visualizing-backend-performance-in-the-chrome-devtools-bb6fd232540)
 
@@ -42,7 +40,7 @@
 
 - [2017-Learn How To Debug JavaScript with Chrome DevTools](https://parg.co/bDf)
 
-- [九个Console命令，让js调试更简单](http://www.ido321.com/677.html)
+- [九个 Console 命令，让 js 调试更简单](http://www.ido321.com/677.html)
 
 - [beyond-console-debugging-tricks](https://medium.com/outsystems-experts/beyond-console-debugging-tricks-f7d0d7f5df4#.zd88ml8sz)
 
@@ -50,7 +48,7 @@
 
 - [Fun with Console object](https://dev.to/duchienvuong/fun-with-console-object)
 
-- [移动web开发调试工具 AlloyLever 介绍](http://www.cnblogs.com/iamzhanglei/p/5477500.html)
+- [移动 web 开发调试工具 AlloyLever 介绍](http://www.cnblogs.com/iamzhanglei/p/5477500.html)
 
 - [Browser console debugging tips for arrays & objects using groups and tables](https://medium.com/@brocco/browser-console-debugging-tips-for-arrays-objects-using-groups-and-tables-60b001316d8a#.5p4bh84px)
 
@@ -58,7 +56,7 @@
 
 - [Chrome command line api](https://developer.chrome.com/devtools/docs/commandline-api)
 
-- [High-resolution JavaScript timer based on performance.mark/measure (461 bytes min+gz)](https://github.com/nolanlawson/marky) 
+- [High-resolution JavaScript timer based on performance.mark/measure (461 bytes min+gz)](https://github.com/nolanlawson/marky)
 
 # Memory Leak
 
@@ -70,6 +68,6 @@
 
 - [2017-JavaScript's Promise Leaks Memory](https://alexn.org/blog/2017/10/11/javascript-promise-leaks-memory.html)
 
-- [Understanding and Solving Internet Explorer Leak Patterns](https://msdn.microsoft.com/en-us/library/bb250448(v=vs.85).aspx)
+- [Understanding and Solving Internet Explorer Leak Patterns](<https://msdn.microsoft.com/en-us/library/bb250448(v=vs.85).aspx>)
 
 - [2018-Tracing from JS to the DOM and back again](https://v8project.blogspot.sg/2018/03/tracing-js-dom.html): Debugging memory leaks in Chrome 66 just became much easier. Chrome’s DevTools can now trace and snapshot C++ DOM objects and display all reachable DOM objects from JavaScript with their references. This feature is one of the benefits of the new C++ tracing mechanism of the V8 garbage collector.

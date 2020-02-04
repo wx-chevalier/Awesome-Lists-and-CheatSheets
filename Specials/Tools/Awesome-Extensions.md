@@ -1,5 +1,3 @@
-
-
 # Awesome Extensions
 
 # Chrome

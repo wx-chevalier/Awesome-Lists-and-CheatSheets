@@ -1,5 +1,3 @@
-
-
 # HBase List
 
 - [Hbase 系统架构及数据结构 ](http://blog.csdn.net/cnbird2008/article/details/9151585)

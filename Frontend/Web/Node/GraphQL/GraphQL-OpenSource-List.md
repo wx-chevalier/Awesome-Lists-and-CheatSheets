@@ -1,5 +1,3 @@
-
-
 # GraphQL OpenSource List
 
 # Schema

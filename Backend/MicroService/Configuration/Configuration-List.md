@@ -1,5 +1,3 @@
-
-
 # Configuration | 配置管理
 
 - [2018-Facebook：当 ZooKeeper 遇瓶颈，我们如何规模化配置服务器](https://mp.weixin.qq.com/s/QByd_6eQ0LS8Qqx7A5uNqA): 作为取代 ZooKeeper 的新对等系统，位置感知分发系统 (Location-Aware Distribution, LAD) 是 Facebook 设计面向未来应用的一个系统，现已经部署应用处理对数百万台服务器的配置更改的分发任务。

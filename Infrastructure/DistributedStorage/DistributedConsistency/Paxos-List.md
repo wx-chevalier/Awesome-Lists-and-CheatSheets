@@ -1,5 +1,3 @@
-
-
 # Paxos List
 
 - [维基百科上关于 Paxos 算法的讲解](https://zh.wikipedia.org/wiki/Paxos%E7%AE%97%E6%B3%95)

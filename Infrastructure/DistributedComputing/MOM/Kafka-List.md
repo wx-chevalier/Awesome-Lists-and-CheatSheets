@@ -1,5 +1,3 @@
-
-
 # Kafka List
 
 # Overview

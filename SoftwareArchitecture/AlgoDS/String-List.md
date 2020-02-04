@@ -1,5 +1,3 @@
-
-
 # String Algorithms List
 
 # Pattern Match

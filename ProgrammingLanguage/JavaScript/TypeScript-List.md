@@ -1,5 +1,3 @@
-
-
 # TypeScript Learning & Practices List | TypeScript 资料索引
 
 # Overview

@@ -1,5 +1,3 @@
-
-
 # OCR List
 
 - [LEADTOOLs](http://leadtools.gcpowertools.com.cn/orders/)
@@ -26,11 +24,11 @@
 
 ## Case Study
 
-# Resource 
+# Resource
 
 ## Collection
 
-- [2019-最全OCR相关资料整理 #Collection#](https://mp.weixin.qq.com/s/OXmWLuZR2mzEz7drn4xGDQ) 
+- [2019-最全 OCR 相关资料整理 #Collection#](https://mp.weixin.qq.com/s/OXmWLuZR2mzEz7drn4xGDQ)
 
 # Tutorial
 

@@ -1,5 +1,3 @@
-
-
 # Cryptology List
 
 - [一万字带您走进密码学的世界(上)](http://www.ehcoo.com/cryptology.html)

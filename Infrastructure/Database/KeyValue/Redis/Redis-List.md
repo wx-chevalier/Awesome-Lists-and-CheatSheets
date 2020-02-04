@@ -1,5 +1,3 @@
-
-
 # Redis List
 
 - [Redis 存储海量小数据，如何优化内存使用](http://zzyongx.github.io/blogs/redis-memory-optimization-when-store-small-data.html) s

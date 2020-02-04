@@ -1,5 +1,3 @@
-
-
 # Quantum Computing List
 
 - [2017-Motivations Behind Exploring Quantum Computing](http://www.clerro.com/guide/580/quantum-computing-explained)

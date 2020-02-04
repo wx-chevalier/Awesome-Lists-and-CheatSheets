@@ -1,8 +1,6 @@
-
-
 # CSS Layout List
 
-- [2018-CSS Layout cookbook #Series#](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook): The CSS layout cookbook aims to bring together recipes for common layout patterns, things you might need to implement in your own sites. 
+- [2018-CSS Layout cookbook #Series#](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook): The CSS layout cookbook aims to bring together recipes for common layout patterns, things you might need to implement in your own sites.
 
 - [2018-Relearn CSS layout #Series#](https://every-layout.dev): Every Layout will teach you how to better harness the built-in algorithms that power browsers and CSS.
 
@@ -10,7 +8,7 @@
 
 - [rems and ems, and why you probably don’t need them](https://parg.co/b4k)
 
-- [了解真实的REM 手机屏幕适配](https://github.com/hbxeagle/rem/blob/master/README.md)
+- [了解真实的 REM 手机屏幕适配](https://github.com/hbxeagle/rem/blob/master/README.md)
 
 - [viewport-units-vw-vh-vmin-vmax/](https://web-design-weekly.com/2014/11/18/viewport-units-vw-vh-vmin-vmax/)
 

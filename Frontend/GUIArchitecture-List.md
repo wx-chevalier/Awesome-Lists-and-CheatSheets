@@ -1,5 +1,3 @@
-
-
 # GUI 应用程序架构资料索引
 
 - [three-ds-of-web-development](http://developer.telerik.com/featured/three-ds-of-web-development-1-declarative-vs-imperative/)

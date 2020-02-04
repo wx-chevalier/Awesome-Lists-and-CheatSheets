@@ -1,5 +1,3 @@
-
-
 # Concurrent Learning & Practices List
 
 # Overview

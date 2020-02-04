@@ -1,4 +1,4 @@
-# UDP  Learning & Practices List
+# UDP Learning & Practices List
 
 # QUIC: Quick UDP Internet Connection
 

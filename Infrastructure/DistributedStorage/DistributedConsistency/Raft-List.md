@@ -1,5 +1,3 @@
-
-
 # Raft List
 
 - [基于 Raft 构建的大规模分布式存储](https://zhuanlan.zhihu.com/p/23872141)

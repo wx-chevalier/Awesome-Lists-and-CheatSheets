@@ -1,5 +1,3 @@
-
-
 # 梯度下降资料索引
 
 - [Gradient-Descent-Algorithm-Implementation-in-Python](http://yphuang.github.io/blog/2016/03/17/Gradient-Descent-Algorithm-Implementation-in-Python/): 基于 Python 的梯度下降实现

@@ -1,5 +1,3 @@
-
-
 # VirtualDOM List
 
 - [2015-The difference between Virtual DOM and DOM](http://reactkungfu.com/2015/10/the-difference-between-virtual-dom-and-dom/): React attacks us with the virtual DOM right away, on the main page. This feature seems to be very important!
@@ -13,6 +11,7 @@
 - [2017-饿了么-对 Virtual-DOM 的一些理解](https://zhuanlan.zhihu.com/p/25630842)
 
 - [2017-The Inner Workings Of Virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf#.or5425hja): In this blog, I’ll take a simple example and go over various scenarios to give you an idea as to how they actually work.
+
 * 实现：[virtual-dom](https://github.com/Matt-Esch/virtual-dom)，[how-to-write-your-own-virtual-dom](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060#.59fqwanqa)，[simple-virtual-dom](https://github.com/livoras/simple-virtual-dom)
 
 * Benchmark: [Virtual DOM Benchmark](http://vdom-benchmark.github.io/vdom-benchmark/), [how-to-win-in-web-framework-benchmarks](https://medium.com/@localvoid/how-to-win-in-web-framework-benchmarks-8bc31af76ce7#.h3nedvhr5)

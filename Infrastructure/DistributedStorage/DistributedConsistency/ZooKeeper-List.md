@@ -1,5 +1,3 @@
-
-
 # ZooKeeper List
 
 - [ZooKeeper 编程指导](http://ifeve.com/zookeeperprogrammers/)

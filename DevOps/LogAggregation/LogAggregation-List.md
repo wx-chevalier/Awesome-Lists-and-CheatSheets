@@ -1,5 +1,3 @@
-
-
 # Log Aggregation List
 
 - [为什么要进行日志测试以及如何进行日志测试？](https://github.com/wx-chevalier/Web-Series/): 这篇文章解释了为什么测试日志是有价值的和如何用现代日志聚合工具做日志测试。这种方法使日志成为了一种渠道，使分布式系统更具可测试性。
@@ -22,7 +20,7 @@
 
 - [使用 ELK(Elasticsearch + Logstash + Kibana) 搭建日志集中分析平台实践](https://wsgzao.github.io/post/elk/)
 
-- [2017-Docker Logging with the ELK Stack](https://logz.io/blog/docker-logging/): In this part, I covered the basic steps of how to set up a pipeline of logs from Docker containers into the ELK Stack (Elasticsearch, Logstash and Kibana). 
+- [2017-Docker Logging with the ELK Stack](https://logz.io/blog/docker-logging/): In this part, I covered the basic steps of how to set up a pipeline of logs from Docker containers into the ELK Stack (Elasticsearch, Logstash and Kibana).
 
 # Flume
 

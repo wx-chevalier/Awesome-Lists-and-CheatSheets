@@ -1,5 +1,3 @@
-
-
 # JavaScript OpenSource List
 
 - [Automerge #Project#](https://github.com/automerge/automerge): A JSON-like data structure that can be modified concurrently by different users, and merged again automatically.

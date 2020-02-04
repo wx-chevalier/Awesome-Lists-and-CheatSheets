@@ -1,5 +1,3 @@
-
-
 # Scala List
 
 # Overview

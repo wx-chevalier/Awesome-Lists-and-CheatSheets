@@ -1,5 +1,3 @@
-
-
 # Electron Learning & Practices List
 
 - [2017-How to build a Desktop Application with Electron and React](https://parg.co/bI4):

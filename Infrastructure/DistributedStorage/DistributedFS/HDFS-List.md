@@ -1,5 +1,3 @@
-
-
 # HDFS List
 
 - [Hadoop 读文件分析](http://shiyanjun.cn/archives/962.html)

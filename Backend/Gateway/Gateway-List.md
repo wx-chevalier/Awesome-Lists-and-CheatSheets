@@ -1,5 +1,3 @@
-
-
 # Service Gateway List
 
 # Overview

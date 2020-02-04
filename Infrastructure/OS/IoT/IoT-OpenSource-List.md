@@ -1,5 +1,3 @@
-
-
 # IoT OpenSource List
 
 # Protocol

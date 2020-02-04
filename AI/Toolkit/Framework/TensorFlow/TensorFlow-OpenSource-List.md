@@ -1,5 +1,3 @@
-
-
 # TensorFlow OpenSource List
 
 - [tensorflow-playground](https://github.com/tensorflow/playground): Play with neural networks!

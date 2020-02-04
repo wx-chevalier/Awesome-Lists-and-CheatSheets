@@ -1,5 +1,3 @@
-
-
 # Browser List | 浏览器相关学习与资料索引
 
 # Browser Feature Detection | 浏览器特征检测

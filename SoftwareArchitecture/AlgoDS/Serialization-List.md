@@ -1,5 +1,3 @@
-
-
 # Serialization List
 
 # JSON

@@ -1,5 +1,3 @@
-
-
 - [2017-JavaScript unit testing frameworks: Comparing Jasmine, Mocha, AVA, Tape and Jest](https://parg.co/bJ5): When starting development on a new front end project, I always ask myself two questions: “Which Javascript unit testing frameworks should I use?” and “Should I even spend time adding tests?”
 
 ## Mocha

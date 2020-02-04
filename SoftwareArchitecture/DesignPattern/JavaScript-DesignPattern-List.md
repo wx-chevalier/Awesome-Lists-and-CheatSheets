@@ -1,3 +1,1 @@
-
-
 # JavaScript Design Patterns List

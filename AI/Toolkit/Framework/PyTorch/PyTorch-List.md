@@ -1,5 +1,3 @@
-
-
 # Pytorch List
 
 # Resource

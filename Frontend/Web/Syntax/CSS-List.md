@@ -1,5 +1,3 @@
-
-
 # CSS List
 
 - [扒一扒 CSS 语言的诞生史](http://qianduan.guru/2016/07/26/The-Languages-Which-Almost-Became-CSS/)

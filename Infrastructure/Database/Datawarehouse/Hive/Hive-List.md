@@ -1,5 +1,3 @@
-
-
 # Hive List
 
 - [TutorialSpoint Hive](http://www.tutorialspoint.com/hive)

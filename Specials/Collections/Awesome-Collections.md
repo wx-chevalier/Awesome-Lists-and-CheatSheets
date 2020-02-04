@@ -1,5 +1,3 @@
-
-
 # Awesome CS Collections: Curated links of awesome sites & collections & resources
 
 [Awesome CS Collections](https://parg.co/ddq) is collections of collection, including Programming Language, Software Engineering, Web, Server Side Application, Frontend, etc. Every link in this collection may containing massive domains.

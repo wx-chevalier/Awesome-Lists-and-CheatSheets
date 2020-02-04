@@ -1,5 +1,3 @@
-
-
 # Linux Shell List
 
 - [2016-Shell 编程之执行过程](https://parg.co/UT0)

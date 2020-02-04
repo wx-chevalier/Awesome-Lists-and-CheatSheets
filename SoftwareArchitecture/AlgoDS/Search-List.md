@@ -1,5 +1,3 @@
-
-
 # Search List
 
 - [Java 线性查找和二分查找](http://blog.163.com/magicc_love/blog/static/185853662201471941758112/)

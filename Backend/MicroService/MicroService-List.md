@@ -1,5 +1,3 @@
-
-
 # MicroService List | 微服务模式设计与上层应用实践资料索引
 
 # Overview | 概述
@@ -24,7 +22,7 @@
 
 - [Getting started with microservices](https://blog.ruxit.com/microservices/)
 
-- [2019-部署微服务的时候，Spring Cloud 和 Kubernetes 哪个更好？](http://dockone.io/m/article/2896): 本文比较了当下最火热的两大微服务开发平台：Spring Cloud和Kubernetes的优缺点，并指出结合二者的优点来组合使用，将在微服务旅程上获得更大成功。
+- [2019-部署微服务的时候，Spring Cloud 和 Kubernetes 哪个更好？](http://dockone.io/m/article/2896): 本文比较了当下最火热的两大微服务开发平台：Spring Cloud 和 Kubernetes 的优缺点，并指出结合二者的优点来组合使用，将在微服务旅程上获得更大成功。
 
 ## Case Study | 案例分析
 

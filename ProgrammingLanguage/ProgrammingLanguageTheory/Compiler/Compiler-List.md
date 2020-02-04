@@ -1,5 +1,3 @@
-
-
 # Compiler List | 编译原理资料索引
 
 There are massive curated links to help you study anything about Compiler head first, with tutorials, practices, opensource, courses, books, etc. You can search more links/books in [xCompass](https://https:wx-chevalier.github.io/home/#/search?query=React).

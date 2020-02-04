@@ -1,5 +1,3 @@
-
-
 # Web Animation List
 
 - [2016-A Guide to Browser Scroll Animations](http://developer.telerik.com/featured/guide-browser-scroll-animations/?ref=mybridge.co): In this article, we'll look at multiple options for implementing scroll animations, from building them from scratch yourself to using some existing libraries.

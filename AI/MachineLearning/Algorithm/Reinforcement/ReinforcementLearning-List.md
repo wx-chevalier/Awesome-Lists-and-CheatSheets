@@ -1,5 +1,3 @@
-
-
 # Reinforcement Learning List | 强化学习资料索引
 
 # Overview

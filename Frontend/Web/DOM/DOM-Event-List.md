@@ -1,5 +1,3 @@
-
-
 # DOM 事件处理资料索引
 
 - [移动 Web 之触摸和指针事件详解](http://www.infoq.com/cn/articles/touch-pointer-event)

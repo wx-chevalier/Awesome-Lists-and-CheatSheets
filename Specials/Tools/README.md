@@ -1,5 +1,3 @@
-
-
 # Awesome Tools for Efficient and Dedicated Workflow, Development & Cooperation & Deployment & DevOps
 
 选择合适的工具能够大大减少我们的尝试时间，从而提升工作效率；本文则是对于笔者多年工作中感觉不错的工具资源的总结与分享，不可避免地会带有些主观色彩，请批判性阅读。

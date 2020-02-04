@@ -1,6 +1,3 @@
- 
- 
- 
 # Expectation-Maximization List
 
 - [What is an intuitive explanation for the expectation maximization (EM) algorithm?](http://6me.us/R0gEUS)

@@ -1,5 +1,3 @@
-
-
 # Awesome Hadoop List
 
 - [Hadoop 十年解读与发展预测](http://www.infoq.com/cn/articles/hadoop-ten-years-interpretation-and-development-forecast)

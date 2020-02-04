@@ -1,5 +1,3 @@
-
-
 # Recommend System List | 推荐系统资料索引
 
 - [Collaborative Filtering Recommendation Engine Implementation in Python](http://dataaspirant.com/2015/05/25/collaborative-filtering-recommendation-engine-implementation-in-python/)

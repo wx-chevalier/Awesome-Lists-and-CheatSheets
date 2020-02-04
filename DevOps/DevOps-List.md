@@ -1,5 +1,3 @@
-
-
 # DevOps List | DevOps 资料索引
 
 - [运维知识体系](https://www.unixhot.com/page/ops)

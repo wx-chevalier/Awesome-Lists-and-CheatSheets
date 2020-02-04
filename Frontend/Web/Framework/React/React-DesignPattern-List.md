@@ -1,5 +1,3 @@
-
-
 # React Pattern List
 
 - [2016-来自 AlloyTeam 的 React.js 2016 最佳实践](http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/)

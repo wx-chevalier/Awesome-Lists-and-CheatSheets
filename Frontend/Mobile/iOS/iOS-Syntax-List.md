@@ -1,6 +1,3 @@
- 
- 
- 
 # iOS 开发基础资料索引
 
 - [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift)
@@ -17,7 +14,7 @@
 
 ## Tabbar
 
-- [Swift语言Storyboard教程:一个基于Tabbar与Navigation的小应用](http://www.cocoachina.com/ios/20150112/10892.html)
+- [Swift 语言 Storyboard 教程:一个基于 Tabbar 与 Navigation 的小应用](http://www.cocoachina.com/ios/20150112/10892.html)
 
 - [自定义 UITabBar 总结](http://www.tuicool.com/articles/uymy2y)
 

@@ -1,5 +1,3 @@
-
-
 # Web Performance Optimization for Page Loading
 
 - [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/#abstain)

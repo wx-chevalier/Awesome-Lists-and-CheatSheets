@@ -1,5 +1,3 @@
-
-
 # Reactive Programming List | 响应式编程资料索引
 
 - [2017-响应式编程总览](http://emacoo.cn/backend/reactive-overview/)：其中以 RxJava 和 Reactor 为代表的响应式(Reactive)编程技术针对的就是经典的大数据 4V 定义(Volume，Variety，Velocity，Value)中的 Velocity，即高并发问题，而在即将发布的 Spring 5 中，也引入了响应式编程的支持。

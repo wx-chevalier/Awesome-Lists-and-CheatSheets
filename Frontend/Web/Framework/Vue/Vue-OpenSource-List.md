@@ -1,5 +1,3 @@
-
-
 # Vue.js OpenSouce List
 
 - [Vue  前端框架比较](http://6me.us/5E8wN)：本文是对常用的基于 Vue 的前端框架的比较。( http://6me.us/5E8wN )

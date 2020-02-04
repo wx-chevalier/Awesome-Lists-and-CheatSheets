@@ -1,5 +1,3 @@
-
-
 # JavaScript Async List | JavaScript 异步编程资料索引
 
 - [2016-JavaScript 之异步编程简述](http://blog.codingplayboy.com/2016/01/20/js_async_intro/)

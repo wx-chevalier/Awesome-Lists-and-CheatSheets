@@ -1,5 +1,3 @@
-
-
 # RocketMQ List
 
 - [Apache RocketMQ Official](https://rocketmq.incubator.apache.org/docs/quick-start/)

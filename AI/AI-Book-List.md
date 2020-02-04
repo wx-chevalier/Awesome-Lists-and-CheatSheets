@@ -1,5 +1,3 @@
-
-
 # DataScienceAI Book List | 机器学习、深度学习与自然语言处理领域推荐的书籍列表
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/wx-chevalier/Awesome-Lists)

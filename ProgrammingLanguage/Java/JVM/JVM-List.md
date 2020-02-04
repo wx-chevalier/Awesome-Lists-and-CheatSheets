@@ -1,5 +1,3 @@
-
-
 # JVM List
 
 # Overview

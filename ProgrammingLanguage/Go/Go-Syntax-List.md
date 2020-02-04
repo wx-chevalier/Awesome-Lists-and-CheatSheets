@@ -1,5 +1,3 @@
-
-
 # Go Syntax List
 
 - [2014-Understanding Golang Packages](https://thenewstack.io/understanding-golang-packages/): In this post, we will take a look at packages in the Go programming language.

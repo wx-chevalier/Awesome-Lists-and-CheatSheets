@@ -1,5 +1,3 @@
-
-
 # Auth List | 权限认证资料索引
 
 # Overview | 概述
@@ -14,11 +12,11 @@
 
 - [2019-可能是史上最全的权限系统设计](https://zhuanlan.zhihu.com/p/73414693): 权限管理是所有后台系统的都会涉及的一个重要组成部分，主要目的是对不同的人访问资源进行权限的控制，避免因权限控制缺失或操作不当引发的风险问题，如操作错误，隐私数据泄露等问题。
 
-# Session & Cookie 
+# Session & Cookie
 
 - [2016-Cookies vs. Tokens: The Definitive Guide](https://dzone.com/articles/cookies-vs-tokens-the-definitive-guide): Finally, putting theory to practice, we'll build an application that uses token authentication and make it a progressive web app.
 
-- [2019-彻底理解cookie，session，token](https://zhuanlan.zhihu.com/p/63061864)
+- [2019-彻底理解 cookie，session，token](https://zhuanlan.zhihu.com/p/63061864)
 
 # 验证码
 

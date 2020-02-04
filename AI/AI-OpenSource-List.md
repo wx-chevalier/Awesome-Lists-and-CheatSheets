@@ -1,5 +1,3 @@
-
-
 # DataScienceAI OpenSource List
 
 # Universal Toolkits

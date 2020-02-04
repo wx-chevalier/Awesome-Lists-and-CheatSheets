@@ -1,5 +1,3 @@
-
-
 # Web Render Tuning List
 
 - [2019-Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web): The differences between these approaches help illustrate the trade-offs of rendering on the web through the lens of performance.

@@ -1,5 +1,3 @@
-
-
 # 树结构与算法资料索引
 
 - [哈夫曼树](http://blog.csdn.net/shuangde800/article/details/7341289)

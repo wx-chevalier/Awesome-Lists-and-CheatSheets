@@ -1,5 +1,3 @@
-
-
 # 地理位置可视化资料索引
 
 - [TileMill](https://github.com/tilemill-project/tilemill): Make maps with OpenStreetMap and Mapnik.

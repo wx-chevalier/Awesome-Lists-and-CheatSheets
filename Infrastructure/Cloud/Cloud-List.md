@@ -1,5 +1,3 @@
-
-
 # Cloud List
 
 - [吴军博士-大数据与 2% 的人类](http://www.chinahadoop.cn/course/136/learn#lesson/3822)

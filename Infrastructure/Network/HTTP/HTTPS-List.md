@@ -1,8 +1,6 @@
- 
- 
 # HTTPS List
 
-# Overview 
+# Overview
 
 - [2017-Brief(ish) explanation of how https works](https://dev.to/ruidfigueiredo/briefish-explanation-of-how-https-works)
 

@@ -1,5 +1,3 @@
-
-
 # Docker Configuration List
 
 # System

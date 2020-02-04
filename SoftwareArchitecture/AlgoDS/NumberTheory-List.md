@@ -1,5 +1,3 @@
-
-
 # Number Theory List
 
 # Scientific Calculation
@@ -8,9 +6,9 @@
 
 - [随机算法总结](http://www.jianshu.com/p/f8e7070c1c6b)
 
-# Number Theory | 随机数 
+# Number Theory | 随机数
 
-- [2019-How to pick a random number from 1-10](https://torvaney.github.io/projects/human-rng): Imagine you have to generate a uniform random number from 1 to 10. 
+- [2019-How to pick a random number from 1-10](https://torvaney.github.io/projects/human-rng): Imagine you have to generate a uniform random number from 1 to 10.
 
 # Matrix | 矩阵
 

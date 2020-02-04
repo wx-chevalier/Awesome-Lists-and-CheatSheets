@@ -1,5 +1,3 @@
-
-
 # Object Storage List
 
 # Case Study

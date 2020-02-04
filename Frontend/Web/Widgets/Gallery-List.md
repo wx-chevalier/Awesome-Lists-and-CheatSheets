@@ -1,5 +1,3 @@
-
-
 # Web Gallery Widgets List
 
 # Carousel | 走马灯

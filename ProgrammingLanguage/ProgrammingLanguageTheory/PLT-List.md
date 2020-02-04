@@ -1,5 +1,3 @@
-
-
 # Programming Language List
 
 # Overview

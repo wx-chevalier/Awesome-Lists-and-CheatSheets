@@ -1,6 +1,3 @@
- 
- 
- 
 # 信息检索资料索引
 
 # Question Answering: 问答系统

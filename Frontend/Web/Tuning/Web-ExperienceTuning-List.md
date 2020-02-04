@@ -1,5 +1,3 @@
-
-
 # Web Experience Tuning List | Web 体验优化
 
 # Robust: 健壮性
@@ -76,7 +74,7 @@
 
 ## 响应式尺寸
 
-- [前端：REM手机屏幕高清适配方案](https://github.com/hbxeagle/rem/blob/master/HD_ADAPTER.md)
+- [前端：REM 手机屏幕高清适配方案](https://github.com/hbxeagle/rem/blob/master/HD_ADAPTER.md)
 
 # 响应式组件
 

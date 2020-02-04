@@ -1,5 +1,3 @@
- 
-
 # 统计语言模型资料索引
 
 - [A Short Overview of Statistical Language Models](http://jon.dehdari.org/tutorials/lm_overview.pdf)

@@ -1,5 +1,3 @@
-
-
 # GraphQL List
 
 This file aggregates curated popular links for learning GraphQL. More reference about ITCS can turn to [AwesomeList: Guide to Galaxy](https://github.com/wx-chevalier/Awesome-Lists), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
@@ -52,7 +50,7 @@ This file aggregates curated popular links for learning GraphQL. More reference 
 
 - [2017-Adding GraphQL to a REST and microservices backend](https://dev-blog.apollodata.com/courseras-journey-to-graphql-a5ad3b77f39a): Client developers at Coursera love GraphQL’s flexibility, type-safety, and community of support, and we’ve made that well known.
 
-- [2019-PayPal：如何在你的公司扩展GraphQL？](https://mp.weixin.qq.com/s/7WTtx9qsHT1HC6XDxxIb5w): 去年，PayPal 将 GraphQL 引入了技术堆栈，彻底改变了开发人员思考数据、获取数据和构建应用程序的方式。本文作者在一年前曾写过一篇 GraphQL 最佳实践的文章，当时受到了广大读者的欢迎。这篇文章同样也是一篇精彩的总结，可以当作公司部署 GraphQL 的指南。
+- [2019-PayPal：如何在你的公司扩展 GraphQL？](https://mp.weixin.qq.com/s/7WTtx9qsHT1HC6XDxxIb5w): 去年，PayPal 将 GraphQL 引入了技术堆栈，彻底改变了开发人员思考数据、获取数据和构建应用程序的方式。本文作者在一年前曾写过一篇 GraphQL 最佳实践的文章，当时受到了广大读者的欢迎。这篇文章同样也是一篇精彩的总结，可以当作公司部署 GraphQL 的指南。
 
 ## Showcase
 

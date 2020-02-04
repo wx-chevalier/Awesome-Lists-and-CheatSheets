@@ -23,4 +23,3 @@
 ## APS
 
 - [Frepple #Project#](https://github.com/frePPLe/frepple): FrePPLe is an easy-to-use and easy-to-implement open source advanced planning and scheduling tool for manufacturing companies.
-

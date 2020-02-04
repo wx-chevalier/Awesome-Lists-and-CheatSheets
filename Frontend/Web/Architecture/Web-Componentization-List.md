@@ -1,5 +1,3 @@
-
-
 # Web Componentization List
 
 # Componentization

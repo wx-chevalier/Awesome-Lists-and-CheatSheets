@@ -1,5 +1,3 @@
-
-
 # 函数式编程资料索引
 
 - [2017-The Rise and Fall and Rise of Functional Programming (Composable Software)](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c#.1c7sks72i)

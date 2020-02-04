@@ -1,5 +1,3 @@
-
-
 # 服务端安全加固资料索引
 
 - [Personal notes on building/configuring a server](https://github.com/jrothrock/server_notes): Here are various notes I've made for creating a server. These rules are for Ubuntu running nginx. I have some notes for Apache that I may add at another time.

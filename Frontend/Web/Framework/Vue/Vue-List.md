@@ -1,5 +1,3 @@
-
-
 # Vue.js List | Vue.js 资料索引
 
 - [2017-Getting Started with Vue.js](https://sabe.io/tutorials/getting-started-with-vue-js): I’m writing this post to help people get started with very little knowledge required other than basic HTML, CSS and JavaScript.

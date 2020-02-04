@@ -1,5 +1,3 @@
-
-
 # Consul List
 
 - [consul-template](https://github.com/hashicorp/consul-template): Generic template rendering and notifications with Consul.

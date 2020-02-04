@@ -1,5 +1,3 @@
-
-
 # React Native OpenSource List
 
 # Development Tools

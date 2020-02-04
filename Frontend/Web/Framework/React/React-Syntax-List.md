@@ -1,5 +1,3 @@
-
-
 # React Syntax List | React 基础语法资料索引
 
 This post aggregates curated popular links for learning React Syntax. More reference about ITCS can turn to [Awesome Links: Guide to Galaxy](https://github.com/wx-chevalier/Awesome-Lists), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
@@ -58,7 +56,7 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 - [2019-Deep dive: How do React hooks really work?](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/): In this article, we reintroduce closures by building a tiny clone of React Hooks. This will serve two purposes – to demonstrate the effective use of closures, and to show how you can build a Hooks clone in just 29 lines of readable JS. Finally, we arrive at how Custom Hooks naturally arise.
 
-- [2018-详细 preact hook 源码逐行解析](https://mp.weixin.qq.com/s/LRvVZUDywdsVjKbLP_4zbw): 本文通过对preact的hook源码分析，理解和掌握react/preact的hook用法以及一些常见的问题。
+- [2018-详细 preact hook 源码逐行解析](https://mp.weixin.qq.com/s/LRvVZUDywdsVjKbLP_4zbw): 本文通过对 preact 的 hook 源码分析，理解和掌握 react/preact 的 hook 用法以及一些常见的问题。
 
 # Style | 样式处理
 

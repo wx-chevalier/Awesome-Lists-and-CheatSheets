@@ -1,5 +1,3 @@
-
-
 # JavaScript Collection List
 
 # Indexed Collection

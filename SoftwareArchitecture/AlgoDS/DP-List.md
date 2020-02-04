@@ -1,5 +1,3 @@
-
-
 # 动态规划
 
 - [树形 DP 总结](http://blog.csdn.net/lmyclever/article/details/6667412)

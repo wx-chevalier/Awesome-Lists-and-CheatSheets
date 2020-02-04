@@ -1,5 +1,3 @@
-
-
 # Web Interaction Widgets List
 
 # Swipe View

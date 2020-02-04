@@ -1,5 +1,3 @@
-
-
 # Graph List
 
 - [Graphs Interview Questions](http://www.techiedelight.com/graphs-interview-questions/)

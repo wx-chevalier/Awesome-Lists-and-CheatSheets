@@ -1,5 +1,3 @@
-
-
 # DOM List
 
 - [JavaScript 一些 DOM 的知识点](http://www.tuicool.com/articles/MnMRZ3v)

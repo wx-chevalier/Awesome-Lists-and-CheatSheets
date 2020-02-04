@@ -1,5 +1,3 @@
-
-
 # Redux OpenSource List | Redux 开源工具
 
 - [Redux Search #Project#](https://github.com/treasure-data/redux-search): Higher-order Redux library for searching collections of objects. Search algorithms powered by js-worker-search.
@@ -36,6 +34,6 @@ https://github.com/tappleby/redux-batched-subscribe
 
 # Middleware
 
-- [redux-promise-middleware #Project#](https://github.com/pburtchaell/redux-promise-middleware): Enables simple, yet robust handling of async action creators in Redux 
+- [redux-promise-middleware #Project#](https://github.com/pburtchaell/redux-promise-middleware): Enables simple, yet robust handling of async action creators in Redux
 
 - [redux-undo #Project#](https://github.com/omnidan/redux-undo): higher order reducer to add undo/redo functionality to redux state containers

@@ -1,5 +1,3 @@
-
-
 # Indexed Collection List
 
 - [数据结构浅析(四)：栈与队列](http://www.jianshu.com/p/c3ba7e56fb53)

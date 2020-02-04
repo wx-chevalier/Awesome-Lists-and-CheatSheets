@@ -4,4 +4,4 @@
 
 - [2018-深入理解 Flutter 引擎线程模式](https://zhuanlan.zhihu.com/p/38026271): 同为跨平台技术，Flutter 为什么有其它方案所不具备的高性能特性，
 
-- [2019-深入理解Flutter多线程](https://mp.weixin.qq.com/s/0dhV1FG0W7L45sCN49yLnQ): 本篇文章详细讲解了Flutter的多线程，由于笔者是做iOS开发的，并且将Flutter的多线程和iOS的GCD进行了对比，以帮助大家理解Flutter多线程。
+- [2019-深入理解 Flutter 多线程](https://mp.weixin.qq.com/s/0dhV1FG0W7L45sCN49yLnQ): 本篇文章详细讲解了 Flutter 的多线程，由于笔者是做 iOS 开发的，并且将 Flutter 的多线程和 iOS 的 GCD 进行了对比，以帮助大家理解 Flutter 多线程。

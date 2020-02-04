@@ -1,6 +1,3 @@
- 
- 
- 
 # Android 功能语法资料索引
 
 - [easydeviceinfo #Project#](https://github.com/nisrulz/easydeviceinfo)
@@ -15,7 +12,7 @@
 
 ## 事件处理
 
-- [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch/blob/master/README.md): Android键盘面板冲突 布局闪动处理方案
+- [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch/blob/master/README.md): Android 键盘面板冲突 布局闪动处理方案
 
 - [AndroidKeyboardWatcher](https://github.com/AzimoLabs/AndroidKeyboardWatcher)
 
@@ -27,7 +24,7 @@
 
 ## Tabbar
 
-- [NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar) 
+- [NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar)
 
 - [BottomBar](https://github.com/roughike/BottomBar)
 

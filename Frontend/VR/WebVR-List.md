@@ -1,5 +1,3 @@
-
-
 # WebVR Learning & Practices List
 
 # WebVR

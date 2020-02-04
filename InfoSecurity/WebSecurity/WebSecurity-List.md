@@ -1,5 +1,3 @@
-
-
 # Web Security List
 
 - [2017-How I Hacked 40 Websites in 7 minutes](https://parg.co/U5b)
@@ -48,7 +46,7 @@
 
 ## JWT
 
-- [2019-JWT攻击手册：如何入侵你的Token](https://mp.weixin.qq.com/s/BH-gmMpHUkMvBcSBgJWnwA): 不仅可以让你伪造任意用户获得无限的访问权限，而且还可能进一步发现更多的安全漏洞，如信息泄露，越权访问，SQLi，XSS，SSRF，RCE，LFI等。
+- [2019-JWT 攻击手册：如何入侵你的 Token](https://mp.weixin.qq.com/s/BH-gmMpHUkMvBcSBgJWnwA): 不仅可以让你伪造任意用户获得无限的访问权限，而且还可能进一步发现更多的安全漏洞，如信息泄露，越权访问，SQLi，XSS，SSRF，RCE，LFI 等。
 
 # 密码、校验与过滤
 

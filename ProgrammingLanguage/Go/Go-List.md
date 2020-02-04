@@ -1,5 +1,3 @@
-
-
 # Awesome Go Links List
 
 This file aggregates curated popular links for learning Golang. More reference about ITCS can turn to [AwesomeList: Guide to Galaxy](https://github.com/wx-chevalier/Awesome-Lists), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.
@@ -20,7 +18,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2019-The Value in Go's Simplicity](https://benjamincongdon.me/blog/2019/11/11/The-Value-in-Gos-Simplicity/): After using Go for a couple years, I’ve really come to appreciate its simplicity. I started writing Go at work a couple months ago, and have found it really easy to iterate on – much more so than Python and Java.
 
-- [2019-解读 Go 语言的 2019：如果惊喜不再 还有哪些值得关注？](https://www.infoq.cn/article/GvIGDDGavtU4KGmRQf9G?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io):   作为紧跟时代步伐的软件开发者，我们还是应该务实一些，多做一些脚踏实地的事情，尤其是在构建底层的基础设施方面。而 Go 语言正是我们做这类事情时所需要的强大工具。
+- [2019-解读 Go 语言的 2019：如果惊喜不再 还有哪些值得关注？](https://www.infoq.cn/article/GvIGDDGavtU4KGmRQf9G?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io): 作为紧跟时代步伐的软件开发者，我们还是应该务实一些，多做一些脚踏实地的事情，尤其是在构建底层的基础设施方面。而 Go 语言正是我们做这类事情时所需要的强大工具。
 
 ## Case Study
 

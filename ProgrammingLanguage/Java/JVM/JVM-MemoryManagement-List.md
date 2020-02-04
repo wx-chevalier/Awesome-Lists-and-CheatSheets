@@ -1,5 +1,3 @@
-
-
 # JVM Memory Management List
 
 # Overview

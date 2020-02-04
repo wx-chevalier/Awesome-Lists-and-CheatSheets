@@ -1,5 +1,3 @@
-
-
 # Operating System List | 操作系统资料索引
 
 # Overview

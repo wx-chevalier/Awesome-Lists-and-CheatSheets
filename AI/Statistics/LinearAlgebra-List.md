@@ -1,5 +1,3 @@
-
-
 # 线性代数资料索引
 
 - [Linear algebra cheat sheet for deep learning](https://parg.co/bCB): Beginner’s guide to commonly used operations.

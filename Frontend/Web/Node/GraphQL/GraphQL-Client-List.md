@@ -1,5 +1,3 @@
-
-
 # GraphQL Client List
 
 - [Exploring different GraphQL Clients](https://itnext.io/exploring-different-graphql-clients-d1bc69de305f): I wanted to study how these clients work, so I aimed to implement the same query using different clients and share my experience.

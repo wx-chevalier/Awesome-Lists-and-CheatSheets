@@ -1,9 +1,4 @@
- 
- 
- 
-
-
-# Android  Learning & Practices List
+# Android Learning & Practices List
 
 - [Android 学习笔记](https://github.com/CharonChui/AndroidNote)
 

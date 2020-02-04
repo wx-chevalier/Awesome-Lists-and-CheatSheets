@@ -1,5 +1,3 @@
-
-
 # Monitor & Alert Links（监控与告警资料索引）
 
 - [2016-osquery For Security](https://medium.com/@clong/osquery-for-security-b66fffdf2daf): This post contains an overview of how to create an osquery config, centralize the log output, and start creating effective searches and alerts.

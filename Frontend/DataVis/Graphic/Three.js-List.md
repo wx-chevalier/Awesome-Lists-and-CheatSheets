@@ -1,5 +1,3 @@
-
-
 # Three.js List
 
 - [Learning Three.js](https://github.com/josdirksen/learning-threejs): The examples in this branch are based on r63 and correspond to the second edition of "Learning Three.js"

@@ -1,5 +1,3 @@
-
-
 # Indicator Widgets List
 
 # Label | 标签
@@ -22,7 +20,7 @@
 
 - [react-virtual-list #Project#](https://github.com/developerdizzle/react-virtual-list): Super simple virtualized list React component.
 
-- [react-window #Project#](https://github.com/bvaughn/react-window): React components for efficiently rendering large lists and tabular data. 
+- [react-window #Project#](https://github.com/bvaughn/react-window): React components for efficiently rendering large lists and tabular data.
 
 # Table | 表格
 

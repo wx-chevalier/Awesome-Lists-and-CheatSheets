@@ -1,5 +1,3 @@
-
-
 # Nginx List
 
 - [2017-An nginx config for 2017](https://certsimple.com/blog/nginx-http2-load-balancing-config): With HTTP/2 in every browser, load balancing with automatic failover, IPv6, a sorry page, separate blog server, HTML5 SSE and A+ HTTPS.

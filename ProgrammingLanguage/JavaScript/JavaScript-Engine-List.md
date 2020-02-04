@@ -1,5 +1,3 @@
-
-
 # JavaScript Engine & V8 List
 
 # Overview

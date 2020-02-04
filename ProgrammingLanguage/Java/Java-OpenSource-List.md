@@ -1,5 +1,3 @@
-
-
 # Java OpenSource List | Java 开源框架与工具索引
 
 # Showcase

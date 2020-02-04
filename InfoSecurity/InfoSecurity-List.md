@@ -1,5 +1,3 @@
-
-
 ![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2017/1/2/1-1kLfZcbO_baIyNAHfakk2w.jpeg)
 
 # InfoSecurity & Penetration List

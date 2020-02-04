@@ -1,5 +1,3 @@
-
-
 # React Native Internals List
 
 - [2016-React Native 运行原理解析](http://blog.csdn.net/xiangzhihong8/article/details/52623852)：Facebook 于 2015 年 9 月 15 日推出 react native for Android 版本，加上 2014 年底已经开源的 IOS 版本，至此 RN (react-native)真正成为跨平台的客户端框架。本篇主要是从分析代码入手，探讨一下 RN 在安卓平台上是如何构建一套 JS 的运行框架。

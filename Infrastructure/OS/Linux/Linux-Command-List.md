@@ -6,7 +6,7 @@
 
 - [Linux Command #Project#](https://github.com/jaywcjlove/linux-command): 550 多个 Linux 命令，内容包含 Linux 命令手册、详解、学习，值得收藏的 Linux 命令速查手册。
 
-# Terminal 
+# Terminal
 
 ## Tmux
 

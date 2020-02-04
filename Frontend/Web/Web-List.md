@@ -1,5 +1,3 @@
-
-
 ![](http://7xi5sw.com1.z0.glb.clouddn.com/1-gcVLvWktBPvc3rgp5fLvBA.jpeg)
 
 # Web Learning & Practices List

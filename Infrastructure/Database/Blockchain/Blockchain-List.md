@@ -1,5 +1,3 @@
-
-
 # 区块链资料索引
 
 - [2017-Blockchain for non-techies #Series#](https://hackernoon.com/blockchain-for-non-techies-2-how-they-work-2f94d313c7e5): [2. How they work](https://hackernoon.com/blockchain-for-non-techies-2-how-they-work-2f94d313c7e5)
@@ -48,7 +46,7 @@
 
 ## Collection
 
-- [awesome-blockchain](https://github.com/chaozh/awesome-blockchain): 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
+- [awesome-blockchain](https://github.com/chaozh/awesome-blockchain): 收集所有区块链(BlockChain)技术开发相关资料，包括 Fabric 和 Ethereum 开发资料
 
 ## Blog
 

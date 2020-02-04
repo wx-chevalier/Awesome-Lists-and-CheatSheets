@@ -1,5 +1,3 @@
-
-
 # JavaScript DataStructure List
 
 # Basic DataType

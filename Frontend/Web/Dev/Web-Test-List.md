@@ -1,5 +1,3 @@
-
-
 # Web 测试资料索引
 
 - [前端测试工具集锦](http://qaseven.github.io/2016/05/24/front-end-tools/)
@@ -13,6 +11,7 @@
 - [karma 测试框架的前世今生](http://taobaofed.org/blog/2016/01/08/karma-origin/)
 
 - [测试框架  Mocha  实例教程](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
+
 * istanbul
 
 - [The Front-End Test Pyramid: How to Rethink Your Testing](https://parg.co/UEW): In this article we’ll look at what the front-end test pyramid is, and how to use it to create comprehensive test suites.

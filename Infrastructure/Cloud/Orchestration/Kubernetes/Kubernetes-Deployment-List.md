@@ -1,5 +1,3 @@
-
-
 # Kubernetes Deployment List
 
 - [阿里云 kubernetes 部署(v1.6.x)](http://www.jianshu.com/p/02dc13d2f651)
@@ -32,4 +30,4 @@
 
 # 开发环境
 
-- [2019-玩转Kubernetes开发测试环境](https://mp.weixin.qq.com/s/dD9s27g4tgyZmPauceCivg): Kubernetes原生的一些特性在一定程度上可以帮助开发者解决一些开发过程中的联调问题，但是软件研发根本要解决的是人与人直接的协作问题，本文将围绕云原生下的开发协作和效能提升问题来讨论。
+- [2019-玩转 Kubernetes 开发测试环境](https://mp.weixin.qq.com/s/dD9s27g4tgyZmPauceCivg): Kubernetes 原生的一些特性在一定程度上可以帮助开发者解决一些开发过程中的联调问题，但是软件研发根本要解决的是人与人直接的协作问题，本文将围绕云原生下的开发协作和效能提升问题来讨论。

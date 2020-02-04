@@ -1,5 +1,3 @@
-
-
 # Go Internals List
 
 - [2018-GopherCon 2018 - Allocator Wrestling](https://about.sourcegraph.com/go/gophercon-2018-allocator-wrestling/): A whirlwind tour of the Go memory allocator and garbage collector, with tools and tips on how to optimize.
@@ -12,7 +10,7 @@
 
 - [2018-Go Assembly by Example #Series#](http://davidwong.fr/goasm/): Go Assembly by Example is a hands-on introduction to Go's Assembly language using annotated example programs.
 
-# Runtime 
+# Runtime
 
 - [2019-万字长文深入浅出 Golang Runtime](https://zhuanlan.zhihu.com/p/95056679): Golang Runtime 是个什么? Golang Runtime 的发展历程, 每个版本的改进。
 

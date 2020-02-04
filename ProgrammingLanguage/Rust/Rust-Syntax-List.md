@@ -1,5 +1,3 @@
-
-
 # Rust Syntax List
 
 - [2017-Undefined vs Unsafe in Rust](https://parg.co/URP): It’s a very useful but subtle distinction and I feel we’d be able to talk about safety more expressively if this was well known.
@@ -24,4 +22,4 @@
 
 # 异常处理
 
-- [2019-ERROR HANDLING SURVEY](https://blog.yoshuawuyts.com/error-handling-survey/): This post is a survey of the current crates.io error library landscape. 
+- [2019-ERROR HANDLING SURVEY](https://blog.yoshuawuyts.com/error-handling-survey/): This post is a survey of the current crates.io error library landscape.

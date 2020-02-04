@@ -1,5 +1,3 @@
-
-
 # RabbitMQ List
 
 # Tutorial

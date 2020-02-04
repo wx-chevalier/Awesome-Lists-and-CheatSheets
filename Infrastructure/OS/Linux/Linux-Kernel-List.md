@@ -1,5 +1,3 @@
-
-
 # Linux Kernel List
 
 - [2017-Writing a Simple Linux Kernel Module](https://parg.co/UuV): A Linux kernel module is a piece of compiled binary code that is inserted directly into the Linux kernel, running at ring 0.

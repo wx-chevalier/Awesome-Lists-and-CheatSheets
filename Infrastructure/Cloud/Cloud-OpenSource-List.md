@@ -1,5 +1,3 @@
-
-
 # Cloud OpenSource List
 
 # Virtualization

@@ -1,5 +1,3 @@
-
-
 # Android OpenSource List
 
 # Tool

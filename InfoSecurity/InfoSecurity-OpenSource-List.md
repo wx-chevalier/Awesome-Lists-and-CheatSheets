@@ -1,5 +1,3 @@
-
-
 # InfoSecurity & Penetration OpenSource Scanners/Tools List | 信息安全与渗透测试工具集锦
 
 List of Security Archives Tools and software, generally for facilitate security & penetration research.

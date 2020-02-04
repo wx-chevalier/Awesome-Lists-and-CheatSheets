@@ -1,5 +1,3 @@
- 
-
 # Java Servlet List
 
 # Application Server

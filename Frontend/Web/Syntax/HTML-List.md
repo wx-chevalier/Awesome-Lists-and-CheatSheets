@@ -1,6 +1,4 @@
-
-
-# HTML  Learning & Practices List
+# HTML Learning & Practices List
 
 - [More HTML5 Semantics: New Elements and Features](http://6me.us/RAy)
 
@@ -25,9 +23,8 @@
 - [2017-Learn HTML: The language for building websites #Series#](https://codetheweb.blog/learn/html/):
   I’ve written many tutorials on HTML. As I want to make them easy to learn from, I’ve complied a list of which posts to check out in what order if you want to learn HTML.
 
-# Overview 
+# Overview
 
-- [2019-HTML 30 年进化史](https://mp.weixin.qq.com/s/Af52wIDTn02-c_7tnRJpnQ): 现在我们谈前端，大多数谈框架，对于前端最基础的 HTML 你了解多少呢？本文作者用近两万字为你详解 HTML 的进化史，涉及前身SGML、到浏览器大战，HTML 模块的详解、HTML5的进化……
+- [2019-HTML 30 年进化史](https://mp.weixin.qq.com/s/Af52wIDTn02-c_7tnRJpnQ): 现在我们谈前端，大多数谈框架，对于前端最基础的 HTML 你了解多少呢？本文作者用近两万字为你详解 HTML 的进化史，涉及前身 SGML、到浏览器大战，HTML 模块的详解、HTML5 的进化……
 
 # HTML5
-

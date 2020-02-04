@@ -1,5 +1,3 @@
-
-
 # JavaScript Functional Programming List
 
 - [2016-Eric Elliott: Composing Software](http://6me.us/SJr7): series on learning functional programming and compositional software techniques in JavaScript ES6+ from the ground up.

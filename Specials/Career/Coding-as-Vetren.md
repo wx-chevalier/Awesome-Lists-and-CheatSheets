@@ -1,5 +1,3 @@
-
-
 # Coding as Vetren
 
 # Debug

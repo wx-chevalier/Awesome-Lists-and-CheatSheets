@@ -1,5 +1,3 @@
-
-
 # Browser Automation List
 
 Browser Automation 即所谓的自动化浏览器或者能够以脚本等方式操作网页完成交互，即利用 Web Driver 或者所谓的 Headless Browser 等技术，可以进行后台的 JS 或者 CSS 脚本渲染，并完成一系列的包括数据分析、模拟操作等步骤。

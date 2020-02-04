@@ -1,5 +1,3 @@
-
-
 # Gradle List
 
 # Overview

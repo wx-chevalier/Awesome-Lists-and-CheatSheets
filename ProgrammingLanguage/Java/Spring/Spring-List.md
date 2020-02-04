@@ -1,5 +1,3 @@
-
-
 # Spring List
 
 - [Spring Boot and Security Events with Actuator](http://blog.codeleak.pl/2017/03/spring-boot-and-security-events-with-actuator.html)

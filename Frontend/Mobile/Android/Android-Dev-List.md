@@ -1,6 +1,3 @@
- 
- 
- 
 # Android 工程实践资料索引
 
 - [Memory leaks in Android — identify, treat and avoid](https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8#.57y7lvvyz)

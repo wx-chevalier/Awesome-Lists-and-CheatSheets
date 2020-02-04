@@ -1,5 +1,3 @@
-
-
 # MyBatis List
 
 # Overview

@@ -1,5 +1,3 @@
-
-
 # ReactNative Development Practices List
 
 - [routing-and-navigation-in-react-native](https://medium.com/reactnativeacademy/routing-and-navigation-in-react-native-14859365fe2f#.mm9t5d235)

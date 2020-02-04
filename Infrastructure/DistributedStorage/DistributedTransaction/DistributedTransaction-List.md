@@ -1,5 +1,3 @@
-
-
 # Distributed Transaction List
 
 # Overview

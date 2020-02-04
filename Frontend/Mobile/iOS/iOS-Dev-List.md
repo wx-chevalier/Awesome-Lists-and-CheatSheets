@@ -1,6 +1,3 @@
- 
- 
- 
 # iOS 工程实践资料索引
 
 # Unit Test
@@ -30,4 +27,3 @@
 - [iOS 架构模式 - 简述 MVC, MVP, MVVM 和 VIPER (译)](https://blog.coding.net/blog/ios-architecture-patterns)
 
 - [ReSwift](https://github.com/ReSwift/ReSwift)
-

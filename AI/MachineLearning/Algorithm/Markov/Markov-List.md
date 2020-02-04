@@ -1,5 +1,3 @@
-
-
 # Markov Model List | 马尔科夫模型资料索引
 
 - [From “What is a Markov Model” to “Here is how Markov Models Work”](https://hackernoon.com/from-what-is-a-markov-model-to-here-is-how-markov-models-work-1ac5f4629b71#.9mrz6lizf)

@@ -1,5 +1,3 @@
-
-
 # ElasticSearch List
 
 # Overview

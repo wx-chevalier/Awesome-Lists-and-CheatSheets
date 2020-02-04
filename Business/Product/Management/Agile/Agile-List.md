@@ -1,3 +1,1 @@
-
-
 # Agile Development List

@@ -1,5 +1,3 @@
-
-
 # JavaScript TypeSystem List
 
 - [2016-TypeScript vs Flow](https://github.com/niieani/typescript-vs-flowtype): Differences between Flowtype and TypeScript -- syntax and usability

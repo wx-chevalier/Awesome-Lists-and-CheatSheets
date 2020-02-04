@@ -1,5 +1,3 @@
-
-
 # Web Architecture List
 
 - [2018-Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3): Besides not being open source, I think there is a lot to learn from it and it is worth sharing the things we learned along the way.

@@ -1,10 +1,8 @@
-
-
 # TiDB List
 
 - [2018-分布式数据库 TiDB 在商业银行的设计与实践](https://mp.weixin.qq.com/s/GfHIUWPetDUClCOOJF27bw): 这篇文章中，我们将详细介绍 TiDB 在我行的设计与实践。
 
-# Overview 
+# Overview
 
 - [如何编写一个分布式数据库](http://studygolang.com/articles/4860): 今天主要介绍一下 NewSQL 与 TiDB 的设计实现, 未来的一些 Roadmap 以及 一些做开源项目的心得。
 

@@ -1,5 +1,3 @@
-
-
 # MobX List
 
 # Overview

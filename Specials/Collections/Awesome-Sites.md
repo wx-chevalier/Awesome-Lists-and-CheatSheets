@@ -1,8 +1,8 @@
-# Awesome Sites 
+# Awesome Sites
 
 > 注：工具类型的网站请参考 Awesome Tools
 
-# Funny Coding 
+# Funny Coding
 
 # 链接
 

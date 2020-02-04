@@ -13,14 +13,18 @@
 - [2019-Tina #Project#](https://github.com/tinacms/tinacms): Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js).
 
 <<<<<<< HEAD
+
 # Tutorials
+
 =======
+
 # Case Study
->>>>>>> b4cd2084ca4aeeb87067708e1f994ee29a167974
+
+> > > > > > > b4cd2084ca4aeeb87067708e1f994ee29a167974
 
 - [2019-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742): 本文将以概览性的视角来介绍云凤蝶在 低代码+可视化搭建这条路上遇到的问题与解决方案。
 
-# Component Specification 
+# Component Specification
 
 - [2019-WeComponents #Project#](https://github.com/Tencent/WeComponents): WeComponents 是一个基于通用组件语言规范 (CLS) 实现的 Vue.js 声明式组件库，写完 JSON 就做好了页面，让开发变得简单。
 

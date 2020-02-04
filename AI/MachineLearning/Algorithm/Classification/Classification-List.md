@@ -1,5 +1,3 @@
-
-
 # Classification List
 
 - [Logistic Regression Vs Decision Trees Vs SVM: Part I](http://www.edvancer.in/logistic-regression-vs-decision-trees-vs-svm-part1/)

@@ -1,5 +1,3 @@
-
-
 # Presto List
 
 - [Presto 架构及原理](http://www.cnblogs.com/tgzhu/p/6033373.html)

@@ -1,5 +1,3 @@
-
-
 # WebAssembly Learning & Practices List
 
 ![](https://pic1.zhimg.com/a3d0d0e45057489e78b70620b739bb74_r.png)

@@ -1,3 +1,3 @@
 # Flutter OpenSource List
 
-- [MXFlutter #Project#](https://github.com/TGIF-iMatrix/MXFlutter): 基于JS的高性能Flutter动态化框架 high-performance Flutter dynamic framework based on JS
+- [MXFlutter #Project#](https://github.com/TGIF-iMatrix/MXFlutter): 基于 JS 的高性能 Flutter 动态化框架 high-performance Flutter dynamic framework based on JS

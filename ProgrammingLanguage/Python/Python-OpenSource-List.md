@@ -1,5 +1,3 @@
-
-
 # Python OpenSource List
 
 # Development Library

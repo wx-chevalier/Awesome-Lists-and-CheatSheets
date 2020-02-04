@@ -1,5 +1,3 @@
-
-
 # Go OpenSource List | Go 开源工具与框架索引
 
 - [Slack-Term #Project#](https://github.com/erroneousboat/slack-term): A Slack client for your terminal.

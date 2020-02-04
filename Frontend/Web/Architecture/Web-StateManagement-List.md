@@ -1,5 +1,3 @@
-
-
 # Web State Management List
 
 - [2017-Redux or Mobx --前端应用状态管理方案的探索与思考](http://www.jianshu.com/p/a52e896f8c8f)

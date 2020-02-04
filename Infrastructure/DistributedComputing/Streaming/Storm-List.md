@@ -1,6 +1,4 @@
-
-
-# Storm  Learning & Practices List
+# Storm Learning & Practices List
 
 - [Storm 内部原理分析](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=402753092&idx=1&sn=a6a1190241481357a3adc29f1733b550&scene=23&srcid=0417uaylfxnig869nCTaCkMs#rd)
 

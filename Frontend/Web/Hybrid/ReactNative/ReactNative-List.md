@@ -1,5 +1,3 @@
-
-
 # ReactNative Learning & Practices List
 
 ## Overview

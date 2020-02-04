@@ -1,5 +1,3 @@
-
-
 # Docker Swarm List
 
 - [Swarm 介绍](http://blog.csdn.net/wangtaoking1/article/details/46731913)

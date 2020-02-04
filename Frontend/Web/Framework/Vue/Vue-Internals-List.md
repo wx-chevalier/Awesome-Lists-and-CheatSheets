@@ -1,5 +1,3 @@
-
-
 # Vue.js Internals List | Vue.js 内部原理分析
 
 - [深入浅出 - vue 之深入响应式原理](https://github.com/berwin/Blog/issues/11)

@@ -1,5 +1,3 @@
-
-
 # Spark Streaming List
 
 - [Apache Spark 的设计与实现](https://www.gitbook.com/book/yourtion/sparkinternals/details)

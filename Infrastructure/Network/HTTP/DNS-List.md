@@ -1,5 +1,3 @@
-
-
 # DNs List | DNS 资料索引
 
 - [DNS 原理入门](http://www.ruanyifeng.com/blog/2016/06/dns.html)

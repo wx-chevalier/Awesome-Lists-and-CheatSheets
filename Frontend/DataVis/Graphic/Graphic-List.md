@@ -1,5 +1,3 @@
-
-
 # Graphics List | 绘图基础资料索引
 
 - [2019-Images done right: Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-done-right-web-graphics-good-to-the-last-byte-optimization-techniques): Study the theory behind digital images and how humans perceive them—to improve the experience for your users.

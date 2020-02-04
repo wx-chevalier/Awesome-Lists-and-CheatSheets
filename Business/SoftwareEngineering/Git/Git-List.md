@@ -1,5 +1,3 @@
-
-
 # Git List
 
 # Overview

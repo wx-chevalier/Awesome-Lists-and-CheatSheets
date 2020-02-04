@@ -1,5 +1,3 @@
-
-
 # Kubernetes Architecture List | Kubernetes 架构
 
 # Resource Scheduling | 资源调度

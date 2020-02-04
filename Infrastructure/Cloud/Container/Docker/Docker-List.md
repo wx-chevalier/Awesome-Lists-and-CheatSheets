@@ -1,5 +1,3 @@
-
-
 # Docker List | Docker 资料索引
 
 [Docker Links](./https://parg.co/o90) aggregates curated popular links for studing Docker and the Ecosystem. More reference about ITCS can turn to [AwesomeList: Guide to Galaxy](https://github.com/wx-chevalier/Awesome-Lists), which collects valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc.

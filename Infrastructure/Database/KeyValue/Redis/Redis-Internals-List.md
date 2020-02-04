@@ -1,5 +1,3 @@
-
-
 # Redis Internals List
 
 # Internals | 内部原理

@@ -1,5 +1,3 @@
-
-
 # Git OpenSource List
 
 - [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#git-deploy)
@@ -32,7 +30,7 @@
 
 - [Git flow - Animated #Project#](https://github.com/vraa/gitflowanimated): An Experimental try in React to visualize and animate Gitflow.
 
-- [Onefetch #Project#](https://github.com/o2sh/onefetch): Onefetch is a command line tool that displays information about your Git project directly on your terminal. 
+- [Onefetch #Project#](https://github.com/o2sh/onefetch): Onefetch is a command line tool that displays information about your Git project directly on your terminal.
 
 # Github
 

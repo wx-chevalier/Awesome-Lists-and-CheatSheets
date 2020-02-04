@@ -1,5 +1,3 @@
-
-
 # 对话系统资料索引
 
 - [Machines and Magic: Teaching Computers to Write Harry Potter](https://medium.com/@joycex99/machines-and-magic-teaching-computers-to-write-harry-potter-37839954f252#.88id49c6w)

@@ -1,5 +1,3 @@
-
-
 # Flume List
 
 - [基于 Flume 的美团日志收集系统](http://www.aboutyun.com/thread-8317-1-1.html)
