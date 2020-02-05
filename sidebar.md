@@ -122,6 +122,42 @@
           - [TensorFlow OpenSource List](/AI/Toolkit/Framework/TensorFlow/TensorFlow-OpenSource-List.md)
       - Platform
         - [Platform List](/AI/Toolkit/Platform/Platform-List.md)
+  - Architecture
+    - AlgoDS
+      - [AlgoDS List](/Architecture/AlgoDS/AlgoDS-List.md)
+      - [DP List](/Architecture/AlgoDS/DP-List.md)
+      - [Graph List](/Architecture/AlgoDS/Graph-List.md)
+      - [Hash List](/Architecture/AlgoDS/Hash-List.md)
+      - [Index List](/Architecture/AlgoDS/Index-List.md)
+      - [LinearList List](/Architecture/AlgoDS/LinearList-List.md)
+      - [NumberTheory List](/Architecture/AlgoDS/NumberTheory-List.md)
+      - [Search List](/Architecture/AlgoDS/Search-List.md)
+      - [Serialization List](/Architecture/AlgoDS/Serialization-List.md)
+      - [Sort List](/Architecture/AlgoDS/Sort-List.md)
+      - [String List](/Architecture/AlgoDS/String-List.md)
+      - [Tree List](/Architecture/AlgoDS/Tree-List.md)
+    - ArchitecturalPattern
+      - [ArchitecturalPattern List](/Architecture/ArchitecturalPattern/ArchitecturalPattern-List.md)
+    - [ArchitecturalPrinciple List](/Architecture/ArchitecturalPrinciple-List.md)
+    - ArchitecturalStyle
+      - [API List](/Architecture/ArchitecturalStyle/API-List.md)
+      - [ArchitecturalStyle List](/Architecture/ArchitecturalStyle/ArchitecturalStyle-List.md)
+      - [DDD List](/Architecture/ArchitecturalStyle/DDD-List.md)
+      - [RESTful List](/Architecture/ArchitecturalStyle/RESTful-List.md)
+    - DesignPattern
+      - [DesignPattern List](/Architecture/DesignPattern/DesignPattern-List.md)
+      - [FunctionalProgramming List](/Architecture/DesignPattern/FunctionalProgramming-List.md)
+      - [JavaScript DesignPattern List](/Architecture/DesignPattern/JavaScript-DesignPattern-List.md)
+      - [MetaProgramming List](/Architecture/DesignPattern/MetaProgramming-List.md)
+      - [ObjectOrientedProgramming List](/Architecture/DesignPattern/ObjectOrientedProgramming-List.md)
+      - [Programming Paradigm List](/Architecture/DesignPattern/Programming-Paradigm-List.md)
+      - [ReactiveProgramming List](/Architecture/DesignPattern/ReactiveProgramming-List.md)
+    - Refactor
+      - [CleanCode List](/Architecture/Refactor/CleanCode-List.md)
+      - [CodeReview List](/Architecture/Refactor/CodeReview-List.md)
+      - [CodeStyle List](/Architecture/Refactor/CodeStyle-List.md)
+      - [Refactor List](/Architecture/Refactor/Refactor-List.md)
+    - [SoftwareArchitecture List](/Architecture/SoftwareArchitecture-List.md)
   - Backend
     - [Backend List](/Backend/Backend-List.md)
     - CloudNative
@@ -730,19 +766,6 @@
         - [PHP List](/ProgrammingLanguage/Limbo/PHP/PHP-List.md)
       - Swift
         - [Swift List](/ProgrammingLanguage/Limbo/Swift/Swift-List.md)
-    - ProgrammingLanguageTheory
-      - Compiler
-        - [Compiler List](/ProgrammingLanguage/ProgrammingLanguageTheory/Compiler/Compiler-List.md)
-      - MemoryManagement
-        - [MemoryManagement List](/ProgrammingLanguage/ProgrammingLanguageTheory/MemoryManagement/MemoryManagement-List.md)
-      - [PLT List](/ProgrammingLanguage/ProgrammingLanguageTheory/PLT-List.md)
-      - [PLT OpenSource List](/ProgrammingLanguage/ProgrammingLanguageTheory/PLT-OpenSource-List.md)
-      - StaticAnalysis
-        - [StaticAnalysis List](/ProgrammingLanguage/ProgrammingLanguageTheory/StaticAnalysis/StaticAnalysis-List.md)
-      - TypeTheory
-        - [Type Theory List](/ProgrammingLanguage/ProgrammingLanguageTheory/TypeTheory/Type-Theory-List.md)
-      - VM
-        - [VM List](/ProgrammingLanguage/ProgrammingLanguageTheory/VM/VM-List.md)
     - Python
       - [Python DataStructure List](/ProgrammingLanguage/Python/Python-DataStructure-List.md)
       - [Python Debug List](/ProgrammingLanguage/Python/Python-Debug-List.md)
@@ -758,43 +781,20 @@
       - [Rust Network List](/ProgrammingLanguage/Rust/Rust-Network-List.md)
       - [Rust OpenSource List](/ProgrammingLanguage/Rust/Rust-OpenSource-List.md)
       - [Rust Syntax List](/ProgrammingLanguage/Rust/Rust-Syntax-List.md)
+    - Theory
+      - Compiler
+        - [Compiler List](/ProgrammingLanguage/Theory/Compiler/Compiler-List.md)
+      - MemoryManagement
+        - [MemoryManagement List](/ProgrammingLanguage/Theory/MemoryManagement/MemoryManagement-List.md)
+      - [PLT List](/ProgrammingLanguage/Theory/PLT-List.md)
+      - [PLT OpenSource List](/ProgrammingLanguage/Theory/PLT-OpenSource-List.md)
+      - StaticAnalysis
+        - [StaticAnalysis List](/ProgrammingLanguage/Theory/StaticAnalysis/StaticAnalysis-List.md)
+      - TypeTheory
+        - [Type Theory List](/ProgrammingLanguage/Theory/TypeTheory/Type-Theory-List.md)
+      - VM
+        - [VM List](/ProgrammingLanguage/Theory/VM/VM-List.md)
   - [README en](/README-en.md)
-  - SoftwareArchitecture
-    - AlgoDS
-      - [AlgoDS List](/SoftwareArchitecture/AlgoDS/AlgoDS-List.md)
-      - [DP List](/SoftwareArchitecture/AlgoDS/DP-List.md)
-      - [Graph List](/SoftwareArchitecture/AlgoDS/Graph-List.md)
-      - [Hash List](/SoftwareArchitecture/AlgoDS/Hash-List.md)
-      - [Index List](/SoftwareArchitecture/AlgoDS/Index-List.md)
-      - [LinearList List](/SoftwareArchitecture/AlgoDS/LinearList-List.md)
-      - [NumberTheory List](/SoftwareArchitecture/AlgoDS/NumberTheory-List.md)
-      - [Search List](/SoftwareArchitecture/AlgoDS/Search-List.md)
-      - [Serialization List](/SoftwareArchitecture/AlgoDS/Serialization-List.md)
-      - [Sort List](/SoftwareArchitecture/AlgoDS/Sort-List.md)
-      - [String List](/SoftwareArchitecture/AlgoDS/String-List.md)
-      - [Tree List](/SoftwareArchitecture/AlgoDS/Tree-List.md)
-    - ArchitecturalPattern
-      - [ArchitecturalPattern List](/SoftwareArchitecture/ArchitecturalPattern/ArchitecturalPattern-List.md)
-    - [ArchitecturalPrinciple List](/SoftwareArchitecture/ArchitecturalPrinciple-List.md)
-    - ArchitecturalStyle
-      - [API List](/SoftwareArchitecture/ArchitecturalStyle/API-List.md)
-      - [ArchitecturalStyle List](/SoftwareArchitecture/ArchitecturalStyle/ArchitecturalStyle-List.md)
-      - [DDD List](/SoftwareArchitecture/ArchitecturalStyle/DDD-List.md)
-      - [RESTful List](/SoftwareArchitecture/ArchitecturalStyle/RESTful-List.md)
-    - DesignPattern
-      - [DesignPattern List](/SoftwareArchitecture/DesignPattern/DesignPattern-List.md)
-      - [FunctionalProgramming List](/SoftwareArchitecture/DesignPattern/FunctionalProgramming-List.md)
-      - [JavaScript DesignPattern List](/SoftwareArchitecture/DesignPattern/JavaScript-DesignPattern-List.md)
-      - [MetaProgramming List](/SoftwareArchitecture/DesignPattern/MetaProgramming-List.md)
-      - [ObjectOrientedProgramming List](/SoftwareArchitecture/DesignPattern/ObjectOrientedProgramming-List.md)
-      - [Programming Paradigm List](/SoftwareArchitecture/DesignPattern/Programming-Paradigm-List.md)
-      - [ReactiveProgramming List](/SoftwareArchitecture/DesignPattern/ReactiveProgramming-List.md)
-    - Refactor
-      - [CleanCode List](/SoftwareArchitecture/Refactor/CleanCode-List.md)
-      - [CodeReview List](/SoftwareArchitecture/Refactor/CodeReview-List.md)
-      - [CodeStyle List](/SoftwareArchitecture/Refactor/CodeStyle-List.md)
-      - [Refactor List](/SoftwareArchitecture/Refactor/Refactor-List.md)
-    - [SoftwareArchitecture List](/SoftwareArchitecture/SoftwareArchitecture-List.md)
   - Specials
     - Career
       - [Coding as Vetren](/Specials/Career/Coding-as-Vetren.md)

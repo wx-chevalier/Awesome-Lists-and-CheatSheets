@@ -64,7 +64,7 @@
 
 ### MySQL
 
-- [2017-MySQL 学习笔记 #Book#](http://notes.diguage.com/mysql/): 本文档可以看作是 D 瓜哥 学习《高性能 MySQL》时，做的读书笔记。为了让内容更丰富易懂，还参考了《MySQL 技术内幕》和《数据库索引设计与优化》。
+- [2017-MySQL 学习笔记 #Book#](http://notes.diguage.com/mysql/): 本文档可以看作是 D 瓜哥 学习《高性能 MySQL》时做的读书笔记。为了让内容更丰富易懂，还参考了《MySQL 技术内幕》和《数据库索引设计与优化》。
 
 - [2017-The Unofficial MySQL 8.0 Optimizer Guide #Book#](http://www.unofficialmysqlguide.com/introduction.html): Morgan Tocker is the Product Manager for the MySQL Server at Oracle. He has previously worked in a variety of roles including Support, Training and Community. Morgan is based out of Toronto, Canada.
 

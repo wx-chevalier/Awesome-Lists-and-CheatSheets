@@ -26,6 +26,8 @@
 
 ## Course
 
+- [2012-Learning SICP #Course#](https://github.com/DeathKing/Learning-SICP): MIT 视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
+
 - [2016-History of Programming Languages, Spring '17 Edition #Course#](https://github.com/nuprl/hopl-s2017):The primary goal is to understand (some of) the discipline as it exists today and how some of its major themes evolved. Initially, the seminar will focus on themes that NUPRL faculty members have developed over the many decades of their careers. The choice of other themes will depend on students’ interests and preferences. The secondary goal is to develop basic skills for understanding and describing research themes. Every student will learn to study a theme via a series of papers, prepare an annotated bibliography, and present the key steps in the evaluation of the theme.
 
 ## Book
@@ -36,7 +38,7 @@
 
 - [2018-How to Design Programs #Book#](https://htdp.org/2018-01-06/Book/index.html): Program design—but not programming—deserves the same role in a liberal-arts education as mathematics and language skills.
 
-- [2018-Interactive SICP n. Interactive Structure and Interpretation of Computer Programs. Online version of SICP with a built-in scheme interpreter to allow readers to edit and run the code embedded in SICP.](https://xuanji.appspot.com/isicp/)
+- [2018-Interactive SICP n.](https://xuanji.appspot.com/isicp/): Interactive Structure and Interpretation of Computer Programs. Online version of SICP with a built-in scheme interpreter to allow readers to edit and run the code embedded in SICP.
 
 - [2019-Elements of Programming #Book#](http://elementsofprogramming.com): This book applies the deductive method to programming by affiliating programs with the abstract mathematical theories that enable them to work.
 
