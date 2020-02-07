@@ -132,7 +132,6 @@
       - [LinearList List](/Architecture/AlgoDS/LinearList-List.md)
       - [NumberTheory List](/Architecture/AlgoDS/NumberTheory-List.md)
       - [Search List](/Architecture/AlgoDS/Search-List.md)
-      - [Serialization List](/Architecture/AlgoDS/Serialization-List.md)
       - [Sort List](/Architecture/AlgoDS/Sort-List.md)
       - [String List](/Architecture/AlgoDS/String-List.md)
       - [Tree List](/Architecture/AlgoDS/Tree-List.md)
@@ -214,6 +213,7 @@
       - RPC
         - [Dubbo List](/Backend/MicroService/RPC/Dubbo-List.md)
         - [RPC List](/Backend/MicroService/RPC/RPC-List.md)
+        - [Serialization List](/Backend/MicroService/RPC/Serialization-List.md)
         - [gRPC List](/Backend/MicroService/RPC/gRPC-List.md)
       - ResilienceService
         - [ResilienceService List](/Backend/MicroService/ResilienceService/ResilienceService-List.md)
