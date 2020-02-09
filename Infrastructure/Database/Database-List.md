@@ -46,6 +46,8 @@
 
 - [2015-Readings in Database Systems-5th #Book#](http://www.redbook.io/): Readings in Database Systems (commonly known as the "Red Book") has offered readers an opinionated take on both classic and cutting-edge research in the field of data management since 1988.
 
+- [2017-Designing Data Intensive Applications #Book#](https://dataintensive.net/): This book will help you navigate the diverse and fast-changing landscape of technologies for storing and processing data. We compare a broad variety of tools and approaches, so that you can see the strengths and weaknesses of each, and decide what’s best for your application.
+
 - [2019-Database Internal #Book#](https://www.databass.dev): The book consists of two parts: Storage Engines and Distributed Systems since that’s where most of the differences between the vast majority of databases is coming from.
 
 ### SQL
