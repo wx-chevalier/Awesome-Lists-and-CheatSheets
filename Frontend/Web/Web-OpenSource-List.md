@@ -252,7 +252,7 @@
 
 - [2018-Micro Frontends](https://micro-frontends.org/): Techniques, strategies and recipes for building a modern web app with multiple teams using different JavaScript frameworks.
 
-- [Mooa #Project#](https://github.com/phodal/mooa): Mooa 是一个为 Angular 服务的微前端框架 ，[前端微服务化：使用微前端框架 Mooa 开发微前端应用](https://parg.co/o3F)。
+- [Mooa #Project#](https://github.com/phodal/mooa): Mooa 是一个为 Angular 服务的微前端框架，[前端微服务化：使用微前端框架 Mooa 开发微前端应用](https://parg.co/o3F)。
 
 # WebAssembly
 

@@ -50,7 +50,7 @@ Google Chrome 与 Firefox 都是主流的浏览器平台，Firefox 自 Quantum �
 
 使用[有道]()存放私有笔记，或者文档；使用 [Github]() 来存放几乎所有的技术笔记，使用 VSCode 作为 MarkDown 编辑器
 
-使用 [Pocket]() ，使用 [Google Docs]()，使用 [ProcessOn]() 来绘制常见的图表，笔者的 [MindMap-知识图谱]()系列即是使用 ProcessOn 进行绘制。
+使用 [Pocket]()，使用 [Google Docs]()，使用 [ProcessOn]() 来绘制常见的图表，笔者的 [MindMap-知识图谱]()系列即是使用 ProcessOn 进行绘制。
 
 [Awesome CS Collections]() 中查看笔者的阅读清单，[]() 了解笔者的笔记系统。
 
