@@ -43,3 +43,7 @@
 ## HLS
 
 - [2015-hls.js #Project#](https://github.com/video-dev/hls.js/): JavaScript HLS client using Media Source Extension
+
+## RTSP
+
+- [rtsp-stream #Project#](https://github.com/Roverr/rtsp-stream): Out of box solution for RTSP - HLS live stream transcoding. Makes RTSP easy to play in browsers.
