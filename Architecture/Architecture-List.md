@@ -53,3 +53,17 @@
 - [2019-网易杭研中台实践：建中台有可行方法论吗？](https://mp.weixin.qq.com/s/qTvj6MmrRRaLOjtyqc25XA): 本文中，InfoQ 对网易副总裁，网易杭州研究院执行院长汪源进行了独家采访，试图了解网易杭研的中台搭建背景及中台实践方法论。
 
 - [2019-百分点 To B 转型之路：技术中台及 DevOps 的建设实践](https://mp.weixin.qq.com/s/ZHnJNYDoD3qCpsmszXIuHA): 我今天分享的内容主要包括：百分点在发展 ToB 业务过程中遇到的挑战；针对这些挑战，我们在技术建设和组织建设方面的思考；最后，我会针对整个转型过程做个总结。
+
+# Principles
+
+- [Hacker Laws](https://github.com/dwmkerr/hacker-laws): Laws, Theories, Principles and Patterns that developers will find useful.
+
+- [12-factors](http://12factor.net/zh_cn/)
+
+- [针对架构设计的几个痛点，我总结出的架构原则和模式](http://www.infoq.com/cn/articles/several-pain-points-architecture-design)
+
+## Over-Engineering | 过度设计
+
+- [坑系列---重构过程中的过度设计](http://mp.weixin.qq.com/s?__biz=MjM5ODczNTkwMA==&mid=2650107080&idx=1&sn=527e1f3f9b048127d1114f9272ddd927#rd)
+
+- [2016-Modern Software Over-Engineering Mistakes](https://parg.co/bih): Few things are guaranteed to increase all the time: Distance between stars, Entropy in the visible universe, and Fucking business requirements . Many articles say Dont over-engineer but don’t say why or how. Here are 10 clear examples.

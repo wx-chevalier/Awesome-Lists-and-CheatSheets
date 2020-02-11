@@ -137,12 +137,12 @@
       - [Tree List](/Architecture/AlgoDS/Tree-List.md)
     - ArchitecturalPattern
       - [ArchitecturalPattern List](/Architecture/ArchitecturalPattern/ArchitecturalPattern-List.md)
-    - [ArchitecturalPrinciple List](/Architecture/ArchitecturalPrinciple-List.md)
     - ArchitecturalStyle
       - [API List](/Architecture/ArchitecturalStyle/API-List.md)
       - [ArchitecturalStyle List](/Architecture/ArchitecturalStyle/ArchitecturalStyle-List.md)
       - [DDD List](/Architecture/ArchitecturalStyle/DDD-List.md)
       - [RESTful List](/Architecture/ArchitecturalStyle/RESTful-List.md)
+    - [Architecture List](/Architecture/Architecture-List.md)
     - DesignPattern
       - [DesignPattern List](/Architecture/DesignPattern/DesignPattern-List.md)
       - [FunctionalProgramming List](/Architecture/DesignPattern/FunctionalProgramming-List.md)
@@ -156,7 +156,6 @@
       - [CodeReview List](/Architecture/Refactor/CodeReview-List.md)
       - [CodeStyle List](/Architecture/Refactor/CodeStyle-List.md)
       - [Refactor List](/Architecture/Refactor/Refactor-List.md)
-    - [SoftwareArchitecture List](/Architecture/SoftwareArchitecture-List.md)
   - Backend
     - [Backend List](/Backend/Backend-List.md)
     - CloudNative
