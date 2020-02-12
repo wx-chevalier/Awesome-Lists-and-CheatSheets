@@ -64,7 +64,7 @@
 
 ## Production
 
-- [2017-React Native 拆包及热更新方案](http://solart.cc/2017/02/22/react-native-jsbundle_patch)：随着 React Native 的不断发展完善，越来越多的公司选择使用 React Native 替代 iOS/Android 进行部分业务线的开发，也有不少使用 Hybrid 技术的公司转向了 React Native 。要说 React Native 最能吸引开发者的地方那就是其拥有前端的开发速度以及原生的体验。
+- [2017-React Native 拆包及热更新方案](http://solart.cc/2017/02/22/react-native-jsbundle_patch)：随着 React Native 的不断发展完善，越来越多的公司选择使用 React Native 替代 iOS/Android 进行部分业务线的开发，也有不少使用 Hybrid 技术的公司转向了 React Native。要说 React Native 最能吸引开发者的地方那就是其拥有前端的开发速度以及原生的体验。
 
 - [2017-11 mistakes I’ve made during React Native / Redux app development](https://parg.co/bQS):  After working almost a year with React Native I decided to describe mistakes that I’ve made while being a beginner.
 

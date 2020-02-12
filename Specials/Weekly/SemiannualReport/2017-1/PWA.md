@@ -18,7 +18,7 @@
 
 - [大前端公共知识梳理：这些知识你都掌握了吗？](https://parg.co/byS)：近年来，随着移动化联网浪潮的汹涌而来与浏览器性能的提升，iOS、Android、Web 等前端开发技术各领风骚，大前端的概念也日渐成为某种共识。其中特别是 Web 开发的领域，以单页应用为代表的富客户端应用迅速流行，各种框架理念争妍斗艳，百花竞放。Web 技术的蓬勃发展也催生了一系列跨端混合开发技术，希望能够结合 Web 的开发便捷性与原生应用的高性能性；其中以 Cordova、PWA 为代表的方向致力于为 Web 应用尽可能添加原生体验，而以 NativeScript、ReactNative、Weex 为代表的利用 Web 技术或者理念开发原生应用。平心而论，无论哪一种开发领域或者技术，他们本质上都是进行图形用户界面(GUI)应用程序的开发，面对的问题、思考的方式、架构的设计很大程度上仍然可以回溯到当年以 MFC、Swing、WPF 为主导的桌面应用程序开发时代，其术不同而道相似。( https://parg.co/byS )
 
-* [Progressive Web Apps 入门教程](https://parg.co/b1n)：或许你已经对 PWA 有所耳闻，或者已经真实使用过某个 PWA 应用；本文并不着眼于详细介绍 PWA 的内部原理与工作机制，而是希望以简明扼要的语义引导读者构建 PWA 应用 。本文依次介绍了如何测试自身应用的 PWA 评分、构建图标与说明、添加 Service Worker、发布到 Github Pages 等；更多 PWA 相关资料参考 [ https://parg.co/bVh  ](https://parg.co/bVh)。
+* [Progressive Web Apps 入门教程](https://parg.co/b1n)：或许你已经对 PWA 有所耳闻，或者已经真实使用过某个 PWA 应用；本文并不着眼于详细介绍 PWA 的内部原理与工作机制，而是希望以简明扼要的语义引导读者构建 PWA 应用。本文依次介绍了如何测试自身应用的 PWA 评分、构建图标与说明、添加 Service Worker、发布到 Github Pages 等；更多 PWA 相关资料参考 [ https://parg.co/bVh  ](https://parg.co/bVh)。
 
 - [将现有的 Angular 应用转化为 PWA](https://parg.co/bz3)：本教程将会介绍如何将现有的 Angular 应用逐步地转化为 Progressive Web App，该教程适用于任何基于 @angular/cli 命令行工具创建的项目。本文首先介绍了 Service Worker 的作用、如何在项目中集成 Service Worker、如何创建自定义的 App Manifest；然后讨论了如何管理离线特征，最后说明了如何利用 Google LightHouse 进行应用的性能、可用性与最佳实践的测试，以及如何提升应用的性能。
 
