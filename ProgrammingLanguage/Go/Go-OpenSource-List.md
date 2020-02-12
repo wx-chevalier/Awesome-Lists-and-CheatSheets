@@ -80,13 +80,15 @@
 
 - [Bolt #Project#](https://github.com/boltdb/bolt): An embedded key/value database for Go.
 
-- [gendry #Project#](https://github.com/didi/gendry): a golang library for sql builder
-
 - [Fabric #Project#](https://github.com/spy16/fabric): Fabric is a triple-store written in Go. Fabric provides simple functions and store options to deal with "Subject->Predicate->Object" relations or so called triples.
+
+- [lungoDB #Project#](https://github.com/256dpi/lungo/blob/master/README.md): A MongoDB compatible embeddable database and toolkit for Go.
 
 ## ORM
 
 - [xo #Project#](https://github.com/xo/xo): Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
+
+- [gendry #Project#](https://github.com/didi/gendry): a golang library for sql builder.
 
 # Web Framework
 
