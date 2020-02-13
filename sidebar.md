@@ -611,12 +611,12 @@
         - [RocketMQ List](/Infrastructure/DistributedComputing/MOM/RocketMQ-List.md)
       - QuantumComputing
         - [QuantumComputing List](/Infrastructure/DistributedComputing/QuantumComputing/QuantumComputing-List.md)
-      - Streaming
-        - [Flink List](/Infrastructure/DistributedComputing/Streaming/Flink-List.md)
-        - [Pravega List](/Infrastructure/DistributedComputing/Streaming/Pravega-List.md)
-        - [SparkStreaming List](/Infrastructure/DistributedComputing/Streaming/SparkStreaming-List.md)
-        - [Storm List](/Infrastructure/DistributedComputing/Streaming/Storm-List.md)
-        - [StreamingComputing List](/Infrastructure/DistributedComputing/Streaming/StreamingComputing-List.md)
+      - Stream
+        - [Flink List](/Infrastructure/DistributedComputing/Stream/Flink-List.md)
+        - [Pravega List](/Infrastructure/DistributedComputing/Stream/Pravega-List.md)
+        - [SparkStreaming List](/Infrastructure/DistributedComputing/Stream/SparkStreaming-List.md)
+        - [Storm List](/Infrastructure/DistributedComputing/Stream/Storm-List.md)
+        - [StreamProcessing List](/Infrastructure/DistributedComputing/Stream/StreamProcessing-List.md)
     - DistributedStorage
       - DistributedConsistency
         - [ConsensusAlgorithm List](/Infrastructure/DistributedStorage/DistributedConsistency/ConsensusAlgorithm-List.md)

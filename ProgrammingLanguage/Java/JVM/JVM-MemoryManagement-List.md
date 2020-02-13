@@ -38,7 +38,7 @@
 
 ## ZGC
 
-- [2018-Java 程序员的荣光，听 R 大论 JDK11 的 ZGC](https://mp.weixin.qq.com/s/KUCs_BJUNfMMCO1T3_WAjw?from=groupmessage&isappinstalled=0): ZGC 的成绩是，无论你开了多大的堆内存(1288G？ 2T？)，硬是能保证低于 10 毫秒的 JVM 停顿。
+- [2018-Java 程序员的荣光，听 R 大论 JDK11 的 ZGC](https://mp.weixin.qq.com/s/KUCs_BJUNfMMCO1T3_WAjw?from=groupmessage&isappinstalled=0): ZGC 的成绩是，无论你开了多大的堆内存(1288G？2T？)，硬是能保证低于 10 毫秒的 JVM 停顿。
 
 # Memory Leak | 内存泄漏
 

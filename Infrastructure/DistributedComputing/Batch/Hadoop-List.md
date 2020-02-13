@@ -2,7 +2,7 @@
 
 - [Hadoop 十年解读与发展预测](http://www.infoq.com/cn/articles/hadoop-ten-years-interpretation-and-development-forecast)
 
-- [脱离 JVM？ Hadoop 生态圈的挣扎与演化](http://www.36dsj.com/archives/33650?spm=5176.100239.blogcont57815.20.qLfOI2)
+- [脱离 JVM？Hadoop 生态圈的挣扎与演化](http://www.36dsj.com/archives/33650?spm=5176.100239.blogcont57815.20.qLfOI2)
 
 - [Hadoop.The.Definitive.Guide.4th.Edition](http://7xkt0f.com1.z0.glb.clouddn.com/Hadoop.The.Definitive.Guide.4th.Edition.2015.3.pdf)
 
