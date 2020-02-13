@@ -30,7 +30,7 @@
 
 - [2017-Understanding & Measuring HTTP Timings with Node.js](https://blog.risingstack.com/measuring-http-timings-node-js/): This article explains timings in an HTTP request and shows how to measure them in Node.js.
 
-- [node-micro-optimizations-javascript](https://www.infoq.com/articles/node-micro-optimizations-javascript) ：中文译本为[多个提高 Node.js 应用吞吐量的小优化技巧介绍](https://zhuanlan.zhihu.com/p/25276558)。
+- [node-micro-optimizations-javascript](https://www.infoq.com/articles/node-micro-optimizations-javascript)：中文译本为[多个提高 Node.js 应用吞吐量的小优化技巧介绍](https://zhuanlan.zhihu.com/p/25276558)。
 
 - [2018-node-clinic #Project#](https://github.com/nearform/node-clinic): Clinic diagnoses your Node.js performance issues.
 

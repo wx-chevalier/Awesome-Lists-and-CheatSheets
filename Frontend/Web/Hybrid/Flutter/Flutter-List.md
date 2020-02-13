@@ -6,7 +6,7 @@
 
 - [2018-关于 Flutter 的一些想法](https://zhuanlan.zhihu.com/p/37894353): 本文试图按照自己的理解来回答这些问题。
 
-- [2018-为什么 Flutter 会选择 Dart ？](https://infoq.cn/article/why-flutter-uses-dart): 这与 Flutter 和 Dart 有什么关系？确实有关系。早期的 Flutter 团队评估了十多种语言，并选择了 Dart，因为它符合他们构建用户界面的方式。
+- [2018-为什么 Flutter 会选择 Dart](https://infoq.cn/article/why-flutter-uses-dart): 这与 Flutter 和 Dart 有什么关系？确实有关系。早期的 Flutter 团队评估了十多种语言，并选择了 Dart，因为它符合他们构建用户界面的方式。
 
 ## Book
 

@@ -83,7 +83,7 @@ $ wc -l **/*.md | grep -E -v "(Weekly|total|README)" | awk '{s+=$1} END {printf 
 
 本系列文章索引类别约定如下：
 
-- #Article# ：单篇文章，也是默认的引用类型
+- #Article#：单篇文章，也是默认的引用类型
 - #Slide#：幻灯片
 - #Series#：系列文章
 - #Book#：书籍
