@@ -210,6 +210,6 @@
 
 - [Debezium #Project#](https://debezium.io/docs/tutorial/): Debezium is a distributed platform that turns your existing databases into event streams, so applications can see and respond immediately to each row-level change in the databases.
 
-* [Canal #Project#](https://github.com/alibaba/canal): 阿里巴巴 mysql 数据库 binlog 的增量订阅&消费组件 。阿里云 DRDS( https://www.aliyun.com/product/drds )、阿里巴巴 TDDL 二级索引、小表复制 powerd by canal.
+* [Canal #Project#](https://github.com/alibaba/canal): 阿里巴巴 mysql 数据库 binlog 的增量订阅&消费组件。阿里云 DRDS( https://www.aliyun.com/product/drds )、阿里巴巴 TDDL 二级索引、小表复制 powerd by canal.
 
 * [Otter #Project#](https://github.com/alibaba/otter): 阿里巴巴分布式数据库同步系统(解决中美异地机房)

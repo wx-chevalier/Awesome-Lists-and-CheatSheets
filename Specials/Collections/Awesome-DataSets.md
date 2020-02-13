@@ -48,7 +48,7 @@
 
 - [2016-THUCTC](http://thuctc.thunlp.org/message): 清华大学新闻数据集
 
-- [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua): 中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
+- [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua): 中华新华字典数据库和 API。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
 
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全的中华古典文集数据库, 包含 5.5 万首唐诗、26 万首宋诗和 2.1 万首宋词. 唐宋两朝近 1.4 万古诗人, 和两宋时期 1.5K 词人. 数据来源于互联网。
 
