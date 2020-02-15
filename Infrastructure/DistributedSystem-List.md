@@ -82,7 +82,7 @@
 
 - [大话分布式系统理论基础](http://mp.weixin.qq.com/s/p4PEZPjxJyYXKpkCCdShbw)
 
-- [不懂点 CAP 理论，你好意思说你是做分布式的吗？ ](https://parg.co/ULa): CAP 理论，被戏称为[帽子理论]。CAP 理论由 Eric Brewer 在 ACM 研讨会上提出，而后 CAP 被奉为分布式领域的重要理论。
+- [不懂点 CAP 理论，你好意思说你是做分布式的吗？](https://parg.co/ULa): CAP 理论，被戏称为[帽子理论]。CAP 理论由 Eric Brewer 在 ACM 研讨会上提出，而后 CAP 被奉为分布式领域的重要理论。
 
 - [Base: 一种 Acid 的替代方案-中文翻译](http://article.yeeyan.org/view/167444/125572)
 

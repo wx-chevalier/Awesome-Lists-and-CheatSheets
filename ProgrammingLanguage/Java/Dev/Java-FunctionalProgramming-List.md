@@ -16,7 +16,7 @@
 
 # Lambda
 
-- [Java 中普通 lambda 表达式和方法引用本质上有什么区别？ ](https://www.zhihu.com/question/51491241/answer/126232275)
+- [Java 中普通 lambda 表达式和方法引用本质上有什么区别？](https://www.zhihu.com/question/51491241/answer/126232275)
 
 - [Java8 Lambda 表达式 10 个示例](http://www.importnew.com/16436.html)
 

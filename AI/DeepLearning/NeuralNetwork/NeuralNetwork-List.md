@@ -36,7 +36,7 @@
 
 # Back Propagation | 反向传播
 
-- [如何直观的解释 back propagation 算法？ 关注者 1267 被浏览 59615](https://www.zhihu.com/question/27239198)
+- [如何直观的解释 back propagation 算法？关注者 1267 被浏览 59615](https://www.zhihu.com/question/27239198)
 
 - [2018-Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/): You might be eager to jump right in and learn about Neural Networks, backpropagation, how they can be applied to datasets in practice, etc.
 

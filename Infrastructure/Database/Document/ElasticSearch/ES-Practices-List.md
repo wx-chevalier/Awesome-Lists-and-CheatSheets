@@ -12,7 +12,7 @@
 
 - [2016-剖析 Elasticsearch 集群系列 #Series#](https://www.infoq.cn/article/analysis-of-elasticsearch-cluster-part01)：剖析 Elasticsearch 集群系列涵盖了当今最流行的分布式搜索引擎 Elasticsearch 的底层架构和原型实例。
 
-- [Elasticsearch 的 ETL 利器——Ingest 节点](https://mp.weixin.qq.com/s/wQYHgj-QlYQIzwXbX4aD8Q): “Ingest node 什么场景会遇到它？ 一直没搜到它是在什么场景工作的？”
+- [Elasticsearch 的 ETL 利器——Ingest 节点](https://mp.weixin.qq.com/s/wQYHgj-QlYQIzwXbX4aD8Q): “Ingest node 什么场景会遇到它？一直没搜到它是在什么场景工作的？”
 
 - [2017-Designing the Perfect Elasticsearch Cluster: the (almost) Definitive Guide](https://parg.co/byu)
 

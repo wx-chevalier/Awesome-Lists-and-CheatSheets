@@ -14,7 +14,7 @@
 
 - [《Node.js 社区的发展之道：质量与速度并重》](https://nodejs.org/en/blog/community/quality-with-speed/): Node.js 社区的核心目标之一就是在快速迭代的同时保证代码质量，新发布的版本务必与之前的版本保持相同的稳定性，避免造成生产环境下应用的崩溃。Node.js 社区并没有一味的寻求妥协，而是不断突破自己，从而在保证变更速度的同时达成较高的质量要求。文本则是 Node.js 社区对于他们发布版本、变更流程以及自动化测试、性能测试等多方面的介绍。
 
-* [《为何使用 Node.js ？》](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e#.71g206imf)：本文来自于 Node.js 的技术专家 Tomislav Capan，此文最早发布于 2013 年，详细介绍了 Node.js 的内部原理，并且论述了 Node.js 适用的业务场景与典型的范模式。( http://suo.im/3sFwvm  )
+* [《为何使用 Node.js》](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e#.71g206imf)：本文来自于 Node.js 的技术专家 Tomislav Capan，此文最早发布于 2013 年，详细介绍了 Node.js 的内部原理，并且论述了 Node.js 适用的业务场景与典型的范模式。( http://suo.im/3sFwvm  )
 
 - [《你应该知道的关于 Node.js 中模块导入的知识》](https://parg.co/bQl)：在 Node.js 开发中我们时刻都在于其模块机制打交道，而本文作者则深入浅出地介绍了 Node.js 中负责处理模块依赖的两个核心模块：require 与 module；并且介绍了不同的导入对象在 Node.js 中实际的递归处理流程以及最终在 module 中形成的元数据描述。( https://parg.co/bQl )
 
