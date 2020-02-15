@@ -13,3 +13,7 @@
 # CUDA
 
 - [2016-一键搭建深度学习平台，基于 Docker/Mesos 和 NVIDIA GPU 详细教程](https://parg.co/Aq1)
+
+# StandML
+
+- [2019-A Tour of Standard ML #Series#](https://saityi.github.io/sml-tour/tour/00-00-welcome.html): The tour consists of a set of chapters, each intended to showcase different features of Standard ML. 
