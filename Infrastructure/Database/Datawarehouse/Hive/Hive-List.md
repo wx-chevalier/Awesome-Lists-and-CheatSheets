@@ -12,6 +12,6 @@
 
 - [Hive Driver 源码执行流程分析](https://segmentfault.com/a/1190000002774731)
 
-- [Hive 优化 —— 深入浅出学 Hive](http://sishuok.com/forum/blogPost/list/0/6229.html)
+- [Hive 优化：深入浅出学 Hive](http://sishuok.com/forum/blogPost/list/0/6229.html)
 
 - [Hive 分区与桶](http://www.uml.org.cn/sjjmck/201508314.asp)

@@ -72,7 +72,7 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2016-Stanford Deep Learning Tutorial #Book#](http://deeplearning.stanford.edu/tutorial/): This tutorial will teach you the main ideas of Unsupervised Feature Learning and Deep Learning. By working through it, you will also get to implement several feature learning/deep learning algorithms, get to see them work for yourself, and learn how to apply/adapt these ideas to new problems.
 
-- [2016-深度学习入门 #Book#](https://github.com/PaddlePaddle/book/blob/develop/README.md)：您现在在看的这本书是一本“交互式”电子书 —— 每一章都可以运行在一个 Jupyter Notebook 里。我们把 Jupyter, PaddlePaddle, 以及各种被依赖的软件都打包进一个 Docker image 了。所以您不需要自己来安装各种软件，只需要安装 Docker 即可。
+- [2016-深度学习入门 #Book#](https://github.com/PaddlePaddle/book/blob/develop/README.md)：您现在在看的这本书是一本“交互式”电子书：每一章都可以运行在一个 Jupyter Notebook 里。我们把 Jupyter, PaddlePaddle, 以及各种被依赖的软件都打包进一个 Docker image 了。所以您不需要自己来安装各种软件，只需要安装 Docker 即可。
 
 - [2017-Neural Networks and Deep Learning #Book#](http://neuralnetworksanddeeplearning.com/): Neural Networks and Deep Learning is a free online book. The book will teach you about: (1) Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data. (2) Deep learning, a powerful set of techniques for learning in neural networks
 

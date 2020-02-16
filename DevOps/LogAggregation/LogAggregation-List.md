@@ -2,7 +2,7 @@
 
 - [为什么要进行日志测试以及如何进行日志测试？](https://github.com/wx-chevalier/Web-Series/): 这篇文章解释了为什么测试日志是有价值的和如何用现代日志聚合工具做日志测试。这种方法使日志成为了一种渠道，使分布式系统更具可测试性。
 
-- [日志级别动态调整 —— 小工具解决大问题](http://tech.meituan.com/change_log_level.html)
+- [日志级别动态调整：小工具解决大问题](http://tech.meituan.com/change_log_level.html)
 
 - [软件打 log 的一些心得](https://zhuanlan.zhihu.com/p/24785018)
 

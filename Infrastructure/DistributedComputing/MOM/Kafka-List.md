@@ -20,7 +20,7 @@
 
 # Tutorial
 
-- [Kafka 实战 —— 简单实例](http://www.cnblogs.com/smartloli/p/4543211.html)
+- [Kafka 实战：简单实例](http://www.cnblogs.com/smartloli/p/4543211.html)
 
 - [Benchmarking Kafka Performance #Series#](https://hackernoon.com/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1)：a series that explores Kafka performance on multiple public cloud providers. [Part 1: Write Throughput](https://hackernoon.com/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1)
 

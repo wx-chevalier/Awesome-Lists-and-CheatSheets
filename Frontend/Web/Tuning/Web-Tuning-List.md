@@ -56,7 +56,7 @@
 
 - [2015- 使用 HMTL5 API 监控前端性能](http://www.infoq.com/cn/articles/html5-performance-api-monitoring): 用户计时 API 可以在网页应用中测量两个预定义标记之间的性能。开发者仅仅需要分别定义测量的开始和结束标记。
 
-- [前端性能 —— 监控起步](http://www.07net01.com/2016/09/1653517.html)
+- [前端性能：监控起步](http://www.07net01.com/2016/09/1653517.html)
 
 - [2018-使用 RAIL 模型评估性能](https://developers.google.com/web/fundamentals/performance/rail?hl=zh-cn): RAIL 是一种以用户为中心的性能模型。每个网络应用均具有与其生命周期有关的四个不同方面，且这些方面以不同的方式影响着性能。
 

@@ -82,7 +82,7 @@
 
 - [Slate](https://docs.slatejs.org/)：Slate 是类似于 Draft.js 的灵活可自定义的富文本编辑器构建框架，Slate 允许你构建功能丰富的类似于 Medium、Dropbox Paper、Canvas 这样的编辑器。Slate 提供了各式各样的插件，你可以基于 React 与 Immutable 来构建自定义的插件，并且指定哪些插件属于核心插件。( https://docs.slatejs.org/ )
 
-* [Facebook 发布 React VR 来简化 Web 中虚拟现实应用的开发](https://parg.co/bfR)：近年来，虚拟现实技术迅猛发展，有望成为下一个主流计算平台。而 Facebook 近日正式发布 React VR，其能够帮助开发者快速构建 VR 应用。React VR 同样基于 React 与 React Native 提供了声明式的代码风格，能够允许有 React 开发经验的开发者快速上手。( https://parg.co/bfR )
+* [Facebook 发布 React VR 来简化 Web 中虚拟现实应用的开发](https://parg.co/bfR)：近年来，虚拟现实技术迅猛发展，有望成为下一个主流处理平台。而 Facebook 近日正式发布 React VR，其能够帮助开发者快速构建 VR 应用。React VR 同样基于 React 与 React Native 提供了声明式的代码风格，能够允许有 React 开发经验的开发者快速上手。( https://parg.co/bfR )
 
 - [大型高性能 React PWA 如何消除各类性能瓶颈？](https://parg.co/bfM)：想要构建一款性能出色的 Web 应用程序，我们需要投入大量技术周期以检测时间浪费点、了解其发生原因并尝试各类解决方案。遗憾的是，这种做法往往无法快速解决问题。性能无疑是一项永恒的命题，技术人员永远徘徊在观察与测量当中，却几乎永远找不到最优解。不过利用 Twitter Lite，我们已经在众多层面内取得了细小但却极具价值的改进：从初始加载时间到 React 组件渲染(防止二次渲染)，再到图像加载以及更多层面。尽管大多数变更本身并不显著，但其相加所带来的最终结果是，我们得以构建起一款规模极大且速度极快的渐进式 Web 应用程序。( https://parg.co/bfM )
 

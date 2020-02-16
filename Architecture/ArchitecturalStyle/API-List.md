@@ -8,7 +8,7 @@
 
 - [Mobile API Security Techniques Part 2 — API Tokens, Oauth2, and Disappearing Secrets](https://hackernoon.com/mobile-api-security-techniques-fc1f577840ab#.z45vrlbqg)
 
-- [从达标到卓越 —— 淘宝 API 设计之道](http://taobaofed.org/blog/2017/02/16/a-guide-to-api-design/)
+- [从达标到卓越：淘宝 API 设计之道](http://taobaofed.org/blog/2017/02/16/a-guide-to-api-design/)
 
 - [2017-API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist): Checklist of the most important security countermeasures when designing, testing, and releasing your API.
 

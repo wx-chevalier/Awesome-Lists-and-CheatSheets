@@ -6,7 +6,7 @@
 
 - [Preload, Prefetch And Priorities in Chrome](https://parg.co/bhM): Today we’ll dive into insights from Chrome’s networking stack to provide clarity on how web loading primitives (like <link rel=“preload”> & <link rel=“prefetch”>) work behind the scenes so you can be more effective with them.
 
-- [2017- 多 “ 维 ” 优化 —— 前端高并发策略的更深层思考](https://parg.co/bIv)：一项指标的变好，总少不了相应优化策略的实施。优化并不是简单的一蹴而就，而是个不断迭代与推翻的过程。更深层的优化方案，往往是在某种思维策略之下，对问题场景和基本策略优缺的深刻理解后做出的当下最优的权衡结果。本文笔者从前端高并发优化这一具体点出发，逐步向大家阐述笔者在优化的 “ 术 ” 之上思维层面的一些思考。希望能给各位带来共鸣和感悟。
+- [2017- 多 “ 维 ” 优化：前端高并发策略的更深层思考](https://parg.co/bIv)：一项指标的变好，总少不了相应优化策略的实施。优化并不是简单的一蹴而就，而是个不断迭代与推翻的过程。更深层的优化方案，往往是在某种思维策略之下，对问题场景和基本策略优缺的深刻理解后做出的当下最优的权衡结果。本文笔者从前端高并发优化这一具体点出发，逐步向大家阐述笔者在优化的 “ 术 ” 之上思维层面的一些思考。希望能给各位带来共鸣和感悟。
 
 - [The Best Request Is No Request, Revisited](https://alistapart.com/article/the-best-request-is-no-request-revisited)
 

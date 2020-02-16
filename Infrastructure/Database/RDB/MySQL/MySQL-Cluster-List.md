@@ -16,7 +16,7 @@
 
 - [exploration-of-distributed-mysql-cluster-scheme](http://www.infoq.com/cn/articles/exploration-of-distributed-mysql-cluster-scheme)
 
-- [Yelp —— Streaming MySQL tables in real-time to Kafka](http://engineeringblog.yelp.com/2016/08/streaming-mysql-tables-in-real-time-to-kafka.html)
+- [Yelp：Streaming MySQL tables in real-time to Kafka](http://engineeringblog.yelp.com/2016/08/streaming-mysql-tables-in-real-time-to-kafka.html)
 
 # Sharding | 分库与分表
 

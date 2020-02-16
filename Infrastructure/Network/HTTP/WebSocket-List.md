@@ -6,7 +6,7 @@
 
 - [2017-A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 
-- [微信 ,QQ 这类 IM app 怎么做 —— 谈谈 Websocket](http://www.jianshu.com/p/bcefda55bce4)
+- [微信 ,QQ 这类 IM app 怎么做：谈谈 Websocket](http://www.jianshu.com/p/bcefda55bce4)
 
 - [ Websocket 详细讲解 ( 基础篇一 ) ](http://blog.csdn.net/woshinannan741/article/details/51470830)
 

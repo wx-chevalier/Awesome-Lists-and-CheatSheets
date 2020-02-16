@@ -8,4 +8,4 @@
 
 # 无埋点监测
 
-- [无埋点实现监测的真相 —— 革新还是噱头？](http://mp.weixin.qq.com/s/hDu7wTQG7DhdqdhojwX_qw)
+- [无埋点实现监测的真相：革新还是噱头？](http://mp.weixin.qq.com/s/hDu7wTQG7DhdqdhojwX_qw)
