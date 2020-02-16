@@ -100,6 +100,10 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [RouterSploit - Router Exploitation Framework #Project#](https://github.com/reverse-shell/routersploit)
 
+## Security Scenario
+
+- [SecGen #Project#](https://github.com/cliffe/SecGen): SecGen creates vulnerable virtual machines so students can learn security penetration testing techniques.
+
 # Web Security
 
 ## Discovery
