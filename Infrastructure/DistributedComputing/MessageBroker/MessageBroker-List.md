@@ -4,6 +4,10 @@
 
 # Overview
 
+## Book
+
+- [2017-Understanding Message Brokers #Book#](https://learning.oreilly.com/library/view/understanding-message-brokers/9781492049296/): Messaging is one of the more poorly understood areas of IT; most developers and architects have only a passing familiarity with how broker-based messaging technologies work. This practical report not only helps you get up to speed on the essentials of messaging, but also compares two of today’s most popular messaging technologies—Apache ActiveMQ and Apache Kafka.
+
 ## Comparison
 
 - [2016-消息队列的流派之争](https://parg.co/faL): 这篇文章的标题很难起，网上一翻全是各种 MQ 的性能比较，很容易让人以为我也是这么“粗俗”的人（o(╯□╰)o）。我这篇文章想要表达的是——它们根本不是一个东西，有毛的性能好比较？

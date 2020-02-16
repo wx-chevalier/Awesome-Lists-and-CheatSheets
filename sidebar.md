@@ -338,6 +338,25 @@
         - [Android List](/Frontend/Mobile/Android/Android-List.md)
         - [Android OpenSource List](/Frontend/Mobile/Android/Android-OpenSource-List.md)
         - [Android Syntax List](/Frontend/Mobile/Android/Android-Syntax-List.md)
+      - Hybrid
+        - Flutter
+          - [Flutter Internals List](/Frontend/Mobile/Hybrid/Flutter/Flutter-Internals-List.md)
+          - [Flutter List](/Frontend/Mobile/Hybrid/Flutter/Flutter-List.md)
+          - [Flutter OpenSource List](/Frontend/Mobile/Hybrid/Flutter/Flutter-OpenSource-List.md)
+          - [Flutter Practices List](/Frontend/Mobile/Hybrid/Flutter/Flutter-Practices-List.md)
+          - [Flutter Widgets List](/Frontend/Mobile/Hybrid/Flutter/Flutter-Widgets-List.md)
+        - [Hybrid List](/Frontend/Mobile/Hybrid/Hybrid-List.md)
+        - MiniApp
+          - [MiniApp List](/Frontend/Mobile/Hybrid/MiniApp/MiniApp-List.md)
+        - ReactNative
+          - [ReactNative Internals List](/Frontend/Mobile/Hybrid/ReactNative/ReactNative-Internals-List.md)
+          - [ReactNative List](/Frontend/Mobile/Hybrid/ReactNative/ReactNative-List.md)
+          - [ReactNative OpenSource List](/Frontend/Mobile/Hybrid/ReactNative/ReactNative-OpenSource-List.md)
+          - [ReactNative Pattern List](/Frontend/Mobile/Hybrid/ReactNative/ReactNative-Pattern-List.md)
+          - [ReactNative Syntax List](/Frontend/Mobile/Hybrid/ReactNative/ReactNative-Syntax-List.md)
+          - [ReactNative Tuning List](/Frontend/Mobile/Hybrid/ReactNative/ReactNative-Tuning-List.md)
+        - Weex
+          - [Weex List](/Frontend/Mobile/Hybrid/Weex/Weex-List.md)
       - [Mobile List](/Frontend/Mobile/Mobile-List.md)
       - [Mobile OpenSource List](/Frontend/Mobile/Mobile-OpenSource-List.md)
       - iOS
@@ -405,25 +424,6 @@
         - [Web Framework List](/Frontend/Web/Framework/Web-Framework-List.md)
         - jQuery
           - [jQuery List](/Frontend/Web/Framework/jQuery/jQuery-List.md)
-      - Hybrid
-        - Flutter
-          - [Flutter Internals List](/Frontend/Web/Hybrid/Flutter/Flutter-Internals-List.md)
-          - [Flutter List](/Frontend/Web/Hybrid/Flutter/Flutter-List.md)
-          - [Flutter OpenSource List](/Frontend/Web/Hybrid/Flutter/Flutter-OpenSource-List.md)
-          - [Flutter Practices List](/Frontend/Web/Hybrid/Flutter/Flutter-Practices-List.md)
-          - [Flutter Widgets List](/Frontend/Web/Hybrid/Flutter/Flutter-Widgets-List.md)
-        - [Hybrid List](/Frontend/Web/Hybrid/Hybrid-List.md)
-        - MiniApp
-          - [MiniApp List](/Frontend/Web/Hybrid/MiniApp/MiniApp-List.md)
-        - ReactNative
-          - [ReactNative Internals List](/Frontend/Web/Hybrid/ReactNative/ReactNative-Internals-List.md)
-          - [ReactNative List](/Frontend/Web/Hybrid/ReactNative/ReactNative-List.md)
-          - [ReactNative OpenSource List](/Frontend/Web/Hybrid/ReactNative/ReactNative-OpenSource-List.md)
-          - [ReactNative Pattern List](/Frontend/Web/Hybrid/ReactNative/ReactNative-Pattern-List.md)
-          - [ReactNative Syntax List](/Frontend/Web/Hybrid/ReactNative/ReactNative-Syntax-List.md)
-          - [ReactNative Tuning List](/Frontend/Web/Hybrid/ReactNative/ReactNative-Tuning-List.md)
-        - Weex
-          - [Weex List](/Frontend/Web/Hybrid/Weex/Weex-List.md)
       - Node
         - GraphQL
           - [GraphQL Client List](/Frontend/Web/Node/GraphQL/GraphQL-Client-List.md)
@@ -603,12 +603,12 @@
         - [EdgeComputing List](/Infrastructure/DistributedComputing/EdgeComputing/EdgeComputing-List.md)
       - JobScheduler
         - [JobScheduler List](/Infrastructure/DistributedComputing/JobScheduler/JobScheduler-List.md)
-      - MOM
-        - [Kafka List](/Infrastructure/DistributedComputing/MOM/Kafka-List.md)
-        - [MOM List](/Infrastructure/DistributedComputing/MOM/MOM-List.md)
-        - [Pulsar List](/Infrastructure/DistributedComputing/MOM/Pulsar-List.md)
-        - [RabbitMQ List](/Infrastructure/DistributedComputing/MOM/RabbitMQ-List.md)
-        - [RocketMQ List](/Infrastructure/DistributedComputing/MOM/RocketMQ-List.md)
+      - MessageBroker
+        - [Kafka List](/Infrastructure/DistributedComputing/MessageBroker/Kafka-List.md)
+        - [MessageBroker List](/Infrastructure/DistributedComputing/MessageBroker/MessageBroker-List.md)
+        - [Pulsar List](/Infrastructure/DistributedComputing/MessageBroker/Pulsar-List.md)
+        - [RabbitMQ List](/Infrastructure/DistributedComputing/MessageBroker/RabbitMQ-List.md)
+        - [RocketMQ List](/Infrastructure/DistributedComputing/MessageBroker/RocketMQ-List.md)
       - QuantumComputing
         - [QuantumComputing List](/Infrastructure/DistributedComputing/QuantumComputing/QuantumComputing-List.md)
       - Stream
@@ -618,23 +618,22 @@
         - [Storm List](/Infrastructure/DistributedComputing/Stream/Storm-List.md)
         - [StreamProcessing List](/Infrastructure/DistributedComputing/Stream/StreamProcessing-List.md)
     - DistributedStorage
-      - DistributedConsistency
-        - [ConsensusAlgorithm List](/Infrastructure/DistributedStorage/DistributedConsistency/ConsensusAlgorithm-List.md)
-        - [Consul List](/Infrastructure/DistributedStorage/DistributedConsistency/Consul-List.md)
-        - [DistributedConsistency List](/Infrastructure/DistributedStorage/DistributedConsistency/DistributedConsistency-List.md)
-        - [Etcd List](/Infrastructure/DistributedStorage/DistributedConsistency/Etcd-List.md)
-        - [Paxos List](/Infrastructure/DistributedStorage/DistributedConsistency/Paxos-List.md)
-        - [Raft List](/Infrastructure/DistributedStorage/DistributedConsistency/Raft-List.md)
-        - [Replication List](/Infrastructure/DistributedStorage/DistributedConsistency/Replication-List.md)
-        - [ZooKeeper List](/Infrastructure/DistributedStorage/DistributedConsistency/ZooKeeper-List.md)
+      - Consensus
+        - [Consensus List](/Infrastructure/DistributedStorage/Consensus/Consensus-List.md)
+        - [ConsensusAlgorithm List](/Infrastructure/DistributedStorage/Consensus/ConsensusAlgorithm-List.md)
+        - [Consul List](/Infrastructure/DistributedStorage/Consensus/Consul-List.md)
+        - [Etcd List](/Infrastructure/DistributedStorage/Consensus/Etcd-List.md)
+        - [Paxos List](/Infrastructure/DistributedStorage/Consensus/Paxos-List.md)
+        - [Raft List](/Infrastructure/DistributedStorage/Consensus/Raft-List.md)
+        - [Replication List](/Infrastructure/DistributedStorage/Consensus/Replication-List.md)
+        - [ZooKeeper List](/Infrastructure/DistributedStorage/Consensus/ZooKeeper-List.md)
       - DistributedFS
         - [DistributedFS List](/Infrastructure/DistributedStorage/DistributedFS/DistributedFS-List.md)
         - [HDFS List](/Infrastructure/DistributedStorage/DistributedFS/HDFS-List.md)
-      - DistributedLock
-        - [DistributedLock List](/Infrastructure/DistributedStorage/DistributedLock/DistributedLock-List.md)
       - [DistributedStorage List](/Infrastructure/DistributedStorage/DistributedStorage-List.md)
       - [DistributedStorage OpenSource List](/Infrastructure/DistributedStorage/DistributedStorage-OpenSource-List.md)
       - DistributedTransaction
+        - [DistributedLock List](/Infrastructure/DistributedStorage/DistributedTransaction/DistributedLock-List.md)
         - [DistributedTransaction List](/Infrastructure/DistributedStorage/DistributedTransaction/DistributedTransaction-List.md)
       - ObjectStorage
         - [BlockStorage List](/Infrastructure/DistributedStorage/ObjectStorage/BlockStorage-List.md)
@@ -806,9 +805,10 @@
       - [Awesome DataVis Collections](/Specials/Collections/Awesome-DataVis-Collections.md)
       - [Awesome Names](/Specials/Collections/Awesome-Names.md)
       - [Awesome PPTs](/Specials/Collections/Awesome-PPTs.md)
-      - [Awesome Showcases](/Specials/Collections/Awesome-Showcases.md)
       - [Awesome Sites](/Specials/Collections/Awesome-Sites.md)
       - [Learning CheatSheet](/Specials/Collections/Learning-CheatSheet.md)
+    - Showcases
+      - [Awesome Showcases](/Specials/Showcases/Awesome-Showcases.md)
     - [Tools](/Specials/Tools/README.md)
       - [Awesome Apps](/Specials/Tools/Awesome-Apps.md)
       - [Awesome Editors](/Specials/Tools/Awesome-Editors.md)
