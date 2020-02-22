@@ -246,6 +246,8 @@
 
 - [headless-devtools #Project#](https://github.com/cowchimp/headless-devtools): Lets you perform Chrome DevTools actions from code by leveraging Headless Chrome+Puppeteer.
 
+- [2020-Kasaya #Project#](https://github.com/syscolabs/kasaya): A "WYSIWYG" scripting language and runtime for browser automation.
+
 # Architecture
 
 - [single-spa #Project#](https://single-spa.js.org/docs/getting-started-overview.html): Build micro frontends that coexist and can each be written with their own framework.
