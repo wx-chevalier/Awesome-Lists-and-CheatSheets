@@ -48,6 +48,8 @@
 
 - [2019-React Page #Project#](https://github.com/react-page/react-page): Next-gen, highly customizable content editor for the browser - based on React and Redux and written in TypeScript. WYSIWYG on steroids.
 
+- [2020-Edtr.io #Project#](https://edtr.io): Edtr.io is a WYSIWYG in-line web editor written in React. Content created with Edtr.io looks just like the final page - select any editable element on the page, edit it in-place or drag ’n’ drop it around.
+
 ## Tutorials
 
 - [2019-一篇文章彻底搞定富文本原理 + 实战](https://mp.weixin.qq.com/s/tx8y00WXa0OWFEnmSj5caw): 但我自己对富文本又没什么了解，所以顺带稍微看了下富文本的实现方式，特此来沉淀一下。
