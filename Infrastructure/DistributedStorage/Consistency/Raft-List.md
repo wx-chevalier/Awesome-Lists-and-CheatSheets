@@ -15,3 +15,7 @@
 - [如何基于 Raft 绕过分布式算法一致性的那些痛？(有彩蛋)](http://mp.weixin.qq.com/s/twCsA0CupyyDK_KtKmdQvQ))
 
 - [Raft, The Secret Lives of Data](http://thesecretlivesofdata.com/raft/): Understandable Distributed Consensus.
+
+# Implementation 
+
+- [2020-Implementing Raft #Series#](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/): This is the first post in a multi-part series describing the Raft distributed consensus algorithm and its complete implementation in Go. 
