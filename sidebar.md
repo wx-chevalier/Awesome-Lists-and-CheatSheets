@@ -5,6 +5,7 @@
     - [AI List](/AI/AI-List.md)
     - [AI Model List](/AI/AI-Model-List.md)
     - [AI OpenSource List](/AI/AI-OpenSource-List.md)
+    - [AI Tutorial List](/AI/AI-Tutorial-List.md)
     - Application
       - [Application List](/AI/Application/Application-List.md)
       - Assistant
@@ -618,15 +619,15 @@
         - [Storm List](/Infrastructure/DistributedComputing/Stream/Storm-List.md)
         - [StreamProcessing List](/Infrastructure/DistributedComputing/Stream/StreamProcessing-List.md)
     - DistributedStorage
-      - Consensus
-        - [Consensus List](/Infrastructure/DistributedStorage/Consensus/Consensus-List.md)
-        - [ConsensusAlgorithm List](/Infrastructure/DistributedStorage/Consensus/ConsensusAlgorithm-List.md)
-        - [Consul List](/Infrastructure/DistributedStorage/Consensus/Consul-List.md)
-        - [Etcd List](/Infrastructure/DistributedStorage/Consensus/Etcd-List.md)
-        - [Paxos List](/Infrastructure/DistributedStorage/Consensus/Paxos-List.md)
-        - [Raft List](/Infrastructure/DistributedStorage/Consensus/Raft-List.md)
-        - [Replication List](/Infrastructure/DistributedStorage/Consensus/Replication-List.md)
-        - [ZooKeeper List](/Infrastructure/DistributedStorage/Consensus/ZooKeeper-List.md)
+      - Consistency
+        - [Consensus List](/Infrastructure/DistributedStorage/Consistency/Consensus-List.md)
+        - [ConsensusAlgorithm List](/Infrastructure/DistributedStorage/Consistency/ConsensusAlgorithm-List.md)
+        - [Consul List](/Infrastructure/DistributedStorage/Consistency/Consul-List.md)
+        - [Etcd List](/Infrastructure/DistributedStorage/Consistency/Etcd-List.md)
+        - [Paxos List](/Infrastructure/DistributedStorage/Consistency/Paxos-List.md)
+        - [Raft List](/Infrastructure/DistributedStorage/Consistency/Raft-List.md)
+        - [Replication List](/Infrastructure/DistributedStorage/Consistency/Replication-List.md)
+        - [ZooKeeper List](/Infrastructure/DistributedStorage/Consistency/ZooKeeper-List.md)
       - DistributedFS
         - [DistributedFS List](/Infrastructure/DistributedStorage/DistributedFS/DistributedFS-List.md)
         - [HDFS List](/Infrastructure/DistributedStorage/DistributedFS/HDFS-List.md)

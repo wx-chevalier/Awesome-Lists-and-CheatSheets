@@ -1,4 +1,4 @@
-# Examples | 示范
+# AI Examples | 示范
 
 - [2015-Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures): Lectures on scientific computing with python, as IPython notebooks.
 
@@ -15,6 +15,8 @@
 # Scikit
 
 - [2019-Machine Learning Notebooks #Project#](https://github.com/ageron/handson-ml2): A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
+
+- [2020-PRML #Project#](https://github.com/ctgk/PRML): Python codes implementing algorithms described in Bishop's book "Pattern Recognition and Machine Learning".
 
 # TensorFlow
 

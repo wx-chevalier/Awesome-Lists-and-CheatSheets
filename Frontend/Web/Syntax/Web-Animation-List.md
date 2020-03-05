@@ -4,9 +4,9 @@
 
 - [2017-CSS Glitch Effect](https://parg.co/Uh7): An experimental glitch effect powered by CSS animations and the clip-path property. Inspired by the technique seen on the speakers page of the 404 conference.
 
-* [2017-不会做动画的前端不是好开发](https://parg.co/bL0)：在动画方面能紧跟技术趋势的优秀前端实在是比较难找，本文则希望让那些想在动画方面有些提升的朋友有所帮助。
+- [2017-不会做动画的前端不是好开发](https://parg.co/bL0)：在动画方面能紧跟技术趋势的优秀前端实在是比较难找，本文则希望让那些想在动画方面有些提升的朋友有所帮助。
 
-* [Popmotion](http://popmotion.io/guides/get-started): Popmotion 提供了一个与以上两个动画框架的[特性对比](http://popmotion.io/guides/feature-comparison)。
+- [Popmotion](http://popmotion.io/guides/get-started): Popmotion 提供了一个与以上两个动画框架的[特性对比](http://popmotion.io/guides/feature-comparison)。
 
 # CSS3 Animation
 
