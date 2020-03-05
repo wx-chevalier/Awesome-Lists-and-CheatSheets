@@ -4,7 +4,7 @@
 
 A curated list of Artificial Intelligence (AI) courses and books, aggerated with [DataScienceAI-Book-List](./DataScienceAI-Book-List.md) and [DataScienceAI-Course-List](./DataScienceAI-Course-List.md) from [Awesome-Lists](https://github.com/wx-chevalier/Awesome-Lists).
 
-人工智能、深度学习与 TensorFlow 相关书籍、课程、示例列表是笔者 [Awesome Links](https://github.com/wx-chevalier/Awesome-Lists) 系列的一部分；对于其他的资料集锦、模型、开源工具与框架请参考 [DataScienceAIListSeries](https://github.com/wx-chevalier/Awesome-Lists/tree/master/DataScienceAI)。
+人工智能、深度学习与 TensorFlow 相关书籍、课程、示例列表是笔者 [Awesome Links](https://github.com/wx-chevalier/Awesome-Lists) 系列的一部分；对于其他的资料集锦、模型、开源工具与框架请参考 [DataScience AI List & Series](https://github.com/wx-chevalier/Awesome-Lists/tree/master/DataScienceAI)。
 
 # Mathematics | 数学基础
 

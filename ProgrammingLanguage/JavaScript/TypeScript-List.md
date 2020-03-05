@@ -1,4 +1,4 @@
-# TypeScript Learning & Practices List | TypeScript 资料索引
+# TypeScript List
 
 # Overview
 
