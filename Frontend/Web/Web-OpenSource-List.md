@@ -62,6 +62,8 @@
 
 - [2019-Snowpack #Project#](https://github.com/pikapkg/snowpack): Build web applications with less tooling and 10x faster iteration. No bundler required.
 
+- [2020-Rome #Project#](https://github.com/facebookexperimental/rome): Rome is an experimental JavaScript toolchain. It includes a compiler, linter, formatter, bundler, testing framework and more. It aims to be a comprehensive tool for anything related to the processing of JavaScript source code.
+
 ## IDE
 
 - [Rekit](https://github.com/supnate/rekit): IDE and toolkit for building scalable web applications with React, Redux and React-router
