@@ -6,13 +6,21 @@
 
 # Resource
 
-- [2017-The Hitchhiker’s Guide to d3.js](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a): This guide is meant to prepare you mentally as well as give you some fruitful directions to pursue.
+## Book
 
-- [Over 2000 D3.js Examples and Demos](http://techslides.com/over-2000-d3-js-examples-and-demos): Examples are really helpful when doing any kind of development so I am hoping that this big list of D3 examples will be a valuable resource.
+- [2020-D3 in Depth #Book#](https://www.d3indepth.com/introduction/): D3 is a JavaScript library used to create bespoke, interactive charts and maps on the web.
 
 # Tutorial
 
 - [A Introduction to D3.js](https://wattenberger.com/blog/d3)
+
+- [2017-The Hitchhiker’s Guide to d3.js](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a): This guide is meant to prepare you mentally as well as give you some fruitful directions to pursue.
+
+- [2020-Introduction to D3](https://observablehq.com/@mitvis/introduction-to-d3): In this notebook, we will gain familiarity with one of the most widely used visualization grammars: D3.js.
+
+## Examples
+
+- [Over 2000 D3.js Examples and Demos](http://techslides.com/over-2000-d3-js-examples-and-demos): Examples are really helpful when doing any kind of development so I am hoping that this big list of D3 examples will be a valuable resource.
 
 # Canvas
 

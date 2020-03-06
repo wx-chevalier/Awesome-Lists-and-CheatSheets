@@ -48,9 +48,9 @@
 
 - [logrus #Project#](https://github.com/sirupsen/logrus): Logrus is a structured logger for Go (golang), completely API compatible with the standard library logger.
 
-* [Anko #Project#](https://github.com/mattn/anko): Anko is a scriptable interpreter written in Go.
+- [Anko #Project#](https://github.com/mattn/anko): Anko is a scriptable interpreter written in Go.
 
-* [gperftools #Project#](https://github.com/gperftools/gperftools): Main gperftools repository.
+- [gperftools #Project#](https://github.com/gperftools/gperftools): Main gperftools repository.
 
 ## Data Structure
 

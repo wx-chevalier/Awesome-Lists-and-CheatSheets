@@ -2,6 +2,8 @@
 
 给项目命名一直是痛点，本列表旨在收集常见的神话名称，以备后用。
 
+- tile: 瓷片，瓷砖
+
 # 希腊神话（Greek Gods）
 
 > https://zh.wikipedia.org/wiki/%E5%B8%8C%E8%87%98%E7%A5%9E%E7%A5%87%E5%8F%8A%E7%A5%9E%E8%A9%B1%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8
