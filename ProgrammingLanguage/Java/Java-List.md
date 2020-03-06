@@ -88,6 +88,8 @@
 
 - [2018-Java 学习指南 #Collection#](https://github.com/Snailclimb/JavaGuide): 一份涵盖大部分 Java 程序员所需要掌握的核心知识，正在一步一步慢慢完善，期待您的参与。
 
+- [2020-JavaFamily #Project#](https://github.com/AobingJava/JavaFamily): 【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。
+
 ## Course
 
 - [2018-The "REST with Spring" Classes #Course#](https://github.com/eugenp/tutorials): This project is a collection of small and focused tutorials - each covering a single and well defined area of development in the Java ecosystem. A strong focus of these is, of course, the Spring Framework - Spring, Spring Boot and Spring Securiyt. In additional to Spring, the following technologies are in focus: core Java, Jackson, HttpClient, Guava.
