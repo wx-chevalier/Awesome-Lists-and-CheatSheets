@@ -46,6 +46,8 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [LeetCode Algorithm in C++](https://github.com/haoel/leetcode)
 
+- [fucking-algorithm #Project#](https://github.com/labuladong/fucking-algorithm): 手把手撕 LeetCode 题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
+
 ## Blog
 
 - [程序员进阶之算法练习 #Series#](https://cloud.tencent.com/developer/article/1365773)

@@ -300,6 +300,8 @@
       - [Test OpenSource List](/DevOps/Test/Test-OpenSource-List.md)
   - Frontend
     - DataVis
+      - 3D Format
+        - [3D Format List](/Frontend/DataVis/3D-Format/3D-Format-List.md)
       - Cube
         - [Cube List](/Frontend/DataVis/Cube/Cube-List.md)
       - [DataVis List](/Frontend/DataVis/DataVis-List.md)
@@ -447,7 +449,9 @@
         - [HTML List](/Frontend/Web/Syntax/HTML-List.md)
         - [Web Animation List](/Frontend/Web/Syntax/Web-Animation-List.md)
         - [Web Syntax List](/Frontend/Web/Syntax/Web-Syntax-List.md)
-        - [WebAssembly List](/Frontend/Web/Syntax/WebAssembly-List.md)
+        - WebAssembly
+          - [WebAssembly List](/Frontend/Web/Syntax/WebAssembly/WebAssembly-List.md)
+          - [WebAssembly OpenSource List](/Frontend/Web/Syntax/WebAssembly/WebAssembly-OpenSource-List.md)
       - Tuning
         - [Web APM List](/Frontend/Web/Tuning/Web-APM-List.md)
         - [Web ExperienceTuning List](/Frontend/Web/Tuning/Web-ExperienceTuning-List.md)
