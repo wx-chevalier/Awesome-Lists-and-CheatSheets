@@ -10,6 +10,10 @@
 
 - [2018-Go Assembly by Example #Series#](http://davidwong.fr/goasm/): Go Assembly by Example is a hands-on introduction to Go's Assembly language using annotated example programs.
 
+## Compiler
+
+- [2019-Go compiler internals: adding a new statement to Go](https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/): This is the first post in a two-part series that takes a tutorial-based approach to exploring the Go compiler. 
+
 # Runtime
 
 - [2019-万字长文深入浅出 Golang Runtime](https://zhuanlan.zhihu.com/p/95056679): Golang Runtime 是个什么? Golang Runtime 的发展历程, 每个版本的改进。
