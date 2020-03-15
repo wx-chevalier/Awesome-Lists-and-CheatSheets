@@ -238,6 +238,7 @@
         - [Intelligent Manufacturing OpenSource List](/Business/Application/Intelligent-Manufacturing/Intelligent-Manufacturing-OpenSource-List.md)
     - Finance
       - [Finance List](/Business/Finance/Finance-List.md)
+      - [Finance OpenSource List](/Business/Finance/Finance-OpenSource-List.md)
     - Industry
       - [Internet List](/Business/Industry/Internet-List.md)
     - Management
@@ -804,6 +805,7 @@
       - [Startup Stories](/Specials/Career/Startup-Stories.md)
       - [Writing List](/Specials/Career/Writing-List.md)
     - Collections
+      - [Awesome Blogs](/Specials/Collections/Awesome-Blogs.md)
       - [Awesome Codebases](/Specials/Collections/Awesome-Codebases.md)
       - [Awesome Collections](/Specials/Collections/Awesome-Collections.md)
       - [Awesome DataSets](/Specials/Collections/Awesome-DataSets.md)
