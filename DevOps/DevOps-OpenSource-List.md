@@ -1,4 +1,6 @@
-# DevOps OpenSource List | DevOps 开源项目索引
+# DevOps OpenSource List
+
+# DevOps Platform
 
 - [CoDo #Project#](https://github.com/opendevops-cn): CoDo 是一款为用户提供企业多混合云、自动化运维、完全开源的云管理平台。
 
