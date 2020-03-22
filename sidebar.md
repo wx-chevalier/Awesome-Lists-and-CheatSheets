@@ -782,6 +782,7 @@
       - [Python Syntax List](/ProgrammingLanguage/Python/Python-Syntax-List.md)
     - Rust
       - [Rust ConcurrentProgramming List](/ProgrammingLanguage/Rust/Rust-ConcurrentProgramming-List.md)
+      - [Rust Dev List](/ProgrammingLanguage/Rust/Rust-Dev-List.md)
       - [Rust List](/ProgrammingLanguage/Rust/Rust-List.md)
       - [Rust Network List](/ProgrammingLanguage/Rust/Rust-Network-List.md)
       - [Rust OpenSource List](/ProgrammingLanguage/Rust/Rust-OpenSource-List.md)
