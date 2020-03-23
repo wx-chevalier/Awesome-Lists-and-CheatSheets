@@ -240,6 +240,7 @@
       - [Finance List](/Business/Finance/Finance-List.md)
       - [Finance OpenSource List](/Business/Finance/Finance-OpenSource-List.md)
     - Industry
+      - [Industrial Internet List](/Business/Industry/Industrial-Internet-List.md)
       - [Internet List](/Business/Industry/Internet-List.md)
     - Management
       - [HR List](/Business/Management/HR-List.md)
@@ -820,8 +821,9 @@
       - [Awesome Showcases](/Specials/Showcases/Awesome-Showcases.md)
     - [Tools](/Specials/Tools/README.md)
       - [Awesome Apps](/Specials/Tools/Awesome-Apps.md)
-      - [Awesome Editors](/Specials/Tools/Awesome-Editors.md)
+      - [Awesome Documents](/Specials/Tools/Awesome-Documents.md)
       - [Awesome Extensions](/Specials/Tools/Awesome-Extensions.md)
+      - [Awesome Medias](/Specials/Tools/Awesome-Medias.md)
       - [Awesome Open APIs](/Specials/Tools/Awesome-Open-APIs.md)
       - [Awesome Services](/Specials/Tools/Awesome-Services.md)
       - [Workbench CheatSheet.en](/Specials/Tools/Workbench-CheatSheet.en.md)

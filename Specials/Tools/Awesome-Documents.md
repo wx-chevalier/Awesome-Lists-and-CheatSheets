@@ -26,13 +26,15 @@
 
 # Documents
 
+## Markdown Docs
+
+- [Gitbook](https://github.com/GitbookIO/gitbook): Modern documentation format and toolchain using Git and Markdown.
+
 - [beautiful-docs #Collection#](https://github.com/PharkMillups/beautiful-docs): Pointers to useful, well-written, and otherwise beautiful documentation.
 
 - [Outline #Project#](https://github.com/outline/outline): The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
 
 ## Project WebSite | 项目主页
-
-- [Gitbook](https://github.com/GitbookIO/gitbook): Modern documentation format and toolchain using Git and Markdown.
 
 - [2013-Sphinx #Project#](https://github.com/sphinx-doc/sphinx): Sphinx is a tool that makes it easy to create intelligent and beautiful documentation for Python projects (or other documents consisting of multiple reStructuredText sources), written by Georg Brandl.
 
@@ -58,23 +60,9 @@
 
 - [Joplin #Project#](https://github.com/laurent22/joplin): a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 
-# Deployment | 部署
-
-- [Github Pages](): [2017-GitHub Pages and Single-Page Apps](https://dev.to/_evansalter/github-pages-and-single-page-apps)
-
-- [now.sh]()
-
-- [CaptainDuckDuck #Project#](https://github.com/githubsaturn/captainduckduck): Easiest app/database deployment platform and webserver package for your NodeJS, Python, Java applications. No Docker, nginx knowledge required!
-
 # LaTeX
 
 - [2019-SwiftLaTeX #Project#](https://github.com/SwiftLaTeX/SwiftLaTeX): SwiftLaTeX is a Web-browser based editor to create PDF documents such as reports, term projects, slide decks, in the typesetting system LaTeX.
-
-# 图片处理
-
-## 图床管理
-
-- [2018-PicGo #Project#](https://github.com/Molunerfinn/PicGo): 🚀A simple & beautiful tool for pictures uploading built by electron-vue
 
 # Documentation
 
@@ -91,23 +79,3 @@
 - [2013-DevDocs #Project#](https://github.com/freeCodeCamp/devdocs): DevDocs combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more.
 
 - [gollum #Project#](https://github.com/gollum/gollum): A simple, Git-powered wiki with a sweet API and local frontend.
-
-# 图片与录屏
-
-## 录屏
-
-- [Kap #Project#](https://getkap.co/): Capture your screen, An open-source screen recorder built with web technology.
-
-## 图片处理
-
-- [Remove Image Background](https://www.remove.bg/): 100% automatically – in 5 seconds – without a single click.
-
-## OCR
-
-- [MathPix](https://mathpix.com): Take a screenshot of math and paste the LaTeX into your editor, all with a single keyboard shortcut.
-
-# Draw
-
-## Diagram
-
-- [2019-Excalidraw #Project#](https://github.com/excalidraw/excalidraw): Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
