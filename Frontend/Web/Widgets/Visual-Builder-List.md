@@ -12,15 +12,15 @@
 
 - [2019-Tina #Project#](https://github.com/tinacms/tinacms): Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js).
 
-<<<<<<< HEAD
+- [2020-Animockup #Project#](https://github.com/alyssaxuu/animockup): Create animated mockups on the browser 🔥
 
-# Tutorials
+- [BuildIO/builder](https://github.com/BuilderIO/builder): Drag and drop page building using your code components.
 
-=======
+- [craft.js](https://github.com/prevwong/craft.js): 🚀 A React Framework for building extensible drag and drop page editors .
+
+- [react-visual-editor](https://github.com/anye931123/react-visual-editor): 基于 React 的可视化编辑,组件自由拖拽，dom 实时追踪，组件无限制嵌套组合，不添加多余节点，可完美还原 UI 设计，多平台支持，代码生成，实时预览。
 
 # Case Study
-
-> > > > > > > b4cd2084ca4aeeb87067708e1f994ee29a167974
 
 - [2019-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742): 本文将以概览性的视角来介绍云凤蝶在 低代码+可视化搭建这条路上遇到的问题与解决方案。
 
