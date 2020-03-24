@@ -18,7 +18,7 @@
 
 - [JVM 内幕：Java 虚拟机详解](http://www.importnew.com/17770.html)
 
-- [JAVA 虚拟机的生命周期](http://www.tuicool.com/articles/BVz2qqq)
+- [Java 虚拟机的生命周期](http://www.tuicool.com/articles/BVz2qqq)
 
 - [JVM 各区域的用途以及潜在出现异常的示例](https://www.devh.net/yidongnan/blog/4v312p6ben9jnbg403tsnkvgan)
 

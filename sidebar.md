@@ -240,6 +240,7 @@
       - [Finance List](/Business/Finance/Finance-List.md)
       - [Finance OpenSource List](/Business/Finance/Finance-OpenSource-List.md)
     - Industry
+      - [Industrial Internet List](/Business/Industry/Industrial-Internet-List.md)
       - [Internet List](/Business/Industry/Internet-List.md)
     - Management
       - [HR List](/Business/Management/HR-List.md)
@@ -782,6 +783,7 @@
       - [Python Syntax List](/ProgrammingLanguage/Python/Python-Syntax-List.md)
     - Rust
       - [Rust ConcurrentProgramming List](/ProgrammingLanguage/Rust/Rust-ConcurrentProgramming-List.md)
+      - [Rust Dev List](/ProgrammingLanguage/Rust/Rust-Dev-List.md)
       - [Rust List](/ProgrammingLanguage/Rust/Rust-List.md)
       - [Rust Network List](/ProgrammingLanguage/Rust/Rust-Network-List.md)
       - [Rust OpenSource List](/ProgrammingLanguage/Rust/Rust-OpenSource-List.md)
@@ -819,8 +821,9 @@
       - [Awesome Showcases](/Specials/Showcases/Awesome-Showcases.md)
     - [Tools](/Specials/Tools/README.md)
       - [Awesome Apps](/Specials/Tools/Awesome-Apps.md)
-      - [Awesome Editors](/Specials/Tools/Awesome-Editors.md)
+      - [Awesome Documents](/Specials/Tools/Awesome-Documents.md)
       - [Awesome Extensions](/Specials/Tools/Awesome-Extensions.md)
+      - [Awesome Medias](/Specials/Tools/Awesome-Medias.md)
       - [Awesome Open APIs](/Specials/Tools/Awesome-Open-APIs.md)
       - [Awesome Services](/Specials/Tools/Awesome-Services.md)
       - [Workbench CheatSheet.en](/Specials/Tools/Workbench-CheatSheet.en.md)
