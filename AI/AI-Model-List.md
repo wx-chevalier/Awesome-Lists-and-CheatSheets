@@ -100,6 +100,10 @@
 
 - [keras-ocr #Project#](https://github.com/faustomorales/keras-ocr): A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
 
+## Generative Design
+
+- [2020-3D Generative Design #Project#](https://github.com/starstorms9/shape): Tyler Habowski Insight AI Project | Session AI.SV.2020A. [Generative Adversarial Networks and Autoencoders for 3D Shapes](https://github.com/marian42/shapegan)
+
 # Development | 开发辅助
 
 - [pix2code #Project#](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot.
