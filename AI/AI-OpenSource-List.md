@@ -18,6 +18,8 @@
 
 - [2019-Thinc #Project#](https://github.com/explosion/thinc): A refreshing functional take on deep learning, compatible with your favorite libraries.
 
+- [2020-MegEngine #Project#](https://github.com/MegEngine/MegEngine): MegEngine 是一个快速、可拓展、易于使用且支持自动求导的数值计算框架。
+
 ## Visualization
 
 - [TensorSpace.js #Project#](https://github.com/tensorspace-team/tensorspace): Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
