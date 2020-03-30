@@ -44,6 +44,8 @@
 
 - [Wallaroo #Project#](https://github.com/wallaroolabs/wallaroo): Wallaroo is a fast, elastic data processing engine that rapidly takes you from prototype to production by eliminating infrastructure complexity.
 
+- [Bigslice #Project#](https://bigslice.io): Bigslice is a system for fast, large-scale, serverless data processing using Go.
+
 # Edge Computing | 边缘计算
 
 - [OpenEdge #Project#](https://github.com/baidu/openedge): Extend cloud computing, data and service seamlessly to edge devices.

@@ -56,6 +56,8 @@
 
 - [2020-Monitoror #Project#](https://github.com/monitoror/monitoror): Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 
+- [2020-nightingale #Project#](https://github.com/didi/nightingale): A Distributed and High-Performance Monitoring System.
+
 ## Linux
 
 - [2005-htop #Project#](https://github.com/hishamhm/htop): htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
