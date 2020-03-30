@@ -24,6 +24,8 @@
 
 - [2017-Designing Data Intensive Applications #Book#](https://dataintensive.net/): This book will help you navigate the diverse and fast-changing landscape of technologies for storing and processing data. [DDIA 中文翻译](https://github.com/Vonng/ddia)。
 
+- [2018-Programming Models for Distributed Computation #Book#](https://github.com/heathermiller/dist-prog-book): This is a book about the programming constructs we use to build distributed systems. These range from the small, RPC, futures, actors, to the large; systems built up of these components like MapReduce and Spark. We explore issues and concerns central to distributed systems like consistency, availability, and fault tolerance, from the lens of the programming models and frameworks that the programmer uses to build these systems.
+
 ## Blog
 
 - [the morning paper #Blog#](https://blog.acolyer.org): A random walk through Computer Science research, by Adrian Colyer.
