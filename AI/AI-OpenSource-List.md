@@ -158,6 +158,8 @@
 
 # Platform
 
+- [tianshou #Project#](https://github.com/thu-ml/tianshou): An elegant, flexible, and superfast PyTorch deep Reinforcement Learning platform.
+
 ## Distributed Training
 
 - [BytePS #Project#](https://github.com/bytedance/byteps): BytePS is a high performance and general distributed training framework.

@@ -821,9 +821,8 @@
     - Showcases
       - [Awesome Showcases](/Specials/Showcases/Awesome-Showcases.md)
     - [Tools](/Specials/Tools/README.md)
-      - [Awesome Apps](/Specials/Tools/Awesome-Apps.md)
+      - [Awesome Devs](/Specials/Tools/Awesome-Devs.md)
       - [Awesome Documents](/Specials/Tools/Awesome-Documents.md)
-      - [Awesome Extensions](/Specials/Tools/Awesome-Extensions.md)
       - [Awesome Medias](/Specials/Tools/Awesome-Medias.md)
       - [Awesome Open APIs](/Specials/Tools/Awesome-Open-APIs.md)
       - [Awesome Productivity](/Specials/Tools/Awesome-Productivity.md)

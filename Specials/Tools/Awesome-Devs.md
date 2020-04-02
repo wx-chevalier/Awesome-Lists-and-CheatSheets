@@ -1,5 +1,9 @@
 # Awesome Extensions
 
+# IDE
+
+- [theia #Project#](https://github.com/eclipse-theia/theia): Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+
 # Chrome
 
 - IE Tab: 仅支持 Windows 系统，能够在标签中以 IE 内核显示网页。
