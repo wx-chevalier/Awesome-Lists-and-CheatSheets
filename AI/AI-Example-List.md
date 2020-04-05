@@ -42,6 +42,8 @@
 
 - [2019-TensorFlow in Practice #Course#](https://www.coursera.org/specializations/tensorflow-in-practice): In this four-course Specialization, you’ll explore exciting opportunities for AI applications. Begin by developing an understanding of how to build and train neural networks.
 
+- [2020-dlaicourse #Project#](https://github.com/lmoroney/dlaicourse): Notebooks for learning deep learning.
+
 # PyTorch
 
 - [Pytorch Examples](https://github.com/pytorch/examples): A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
