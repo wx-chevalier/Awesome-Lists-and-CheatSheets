@@ -42,6 +42,10 @@
 
 - [2019-Elements of Programming #Book#](http://elementsofprogramming.com): This book applies the deductive method to programming by affiliating programs with the abstract mathematical theories that enable them to work.
 
+## Blog
+
+- [Tweag Blog #Blog#](https://www.tweag.io/blog): 包含了很多对于类型的讨论。
+
 ## Memory Management
 
 - [2012-The Garbage Collection Handbook #Book#](http://gchandbook.org): The book addresses new challenges to garbage collection made by recent advances in hardware and software.

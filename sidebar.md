@@ -826,7 +826,6 @@
       - [Awesome Medias](/Specials/Tools/Awesome-Medias.md)
       - [Awesome Open APIs](/Specials/Tools/Awesome-Open-APIs.md)
       - [Awesome Productivity](/Specials/Tools/Awesome-Productivity.md)
-      - [Awesome Services](/Specials/Tools/Awesome-Services.md)
       - [Workbench CheatSheet.en](/Specials/Tools/Workbench-CheatSheet.en.md)
       - [Workbench CheatSheet](/Specials/Tools/Workbench-CheatSheet.md)
     - [Weekly](/Specials/Weekly/README.md)

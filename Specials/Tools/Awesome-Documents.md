@@ -48,12 +48,6 @@
 
 - [2018-docz #Project#](https://github.com/pedronauck/docz): It has never been so easy to document your things!
 
-## 文件共享
-
-- [Resilio #Project#](https://www.resilio.com/): Synchronize, Distribute & Consolidate Files Using a P2P Protocol
-
-- [Syncthing #Project#](https://syncthing.net/): Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
-
 ## Notes & Todos
 
 - [滴答清单]
@@ -79,3 +73,11 @@
 - [2013-DevDocs #Project#](https://github.com/freeCodeCamp/devdocs): DevDocs combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more.
 
 - [gollum #Project#](https://github.com/gollum/gollum): A simple, Git-powered wiki with a sweet API and local frontend.
+
+# Storage Sync & Share
+
+- [Resilio #Project#](https://www.resilio.com/): Synchronize, Distribute & Consolidate Files Using a P2P Protocol
+
+- [Syncthing #Project#](https://syncthing.net/): Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
+
+- [rclone #Project#](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files.
