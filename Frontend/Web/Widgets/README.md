@@ -165,3 +165,7 @@
   - Scrollytelling | 滚动介绍
 
   - Video Player | 视频播放
+
+目前也有很多优秀的前端项目致力于归纳这些互通的 UI 组件范式，譬如：
+
+- [Open UI](https://open-ui.org): We should set a path for existing solutions to converge and for browser to natively provide these things in the future.
