@@ -1,8 +1,10 @@
 # 图片与录屏
 
-## 录屏
+# 录屏与分享
 
 - [Kap #Project#](https://getkap.co/): Capture your screen, An open-source screen recorder built with web technology.
+
+- [Zappy #Project#](https://zapier.com/zappy): The fastest, all-in-one way to share screenshots, GIFs, and recordings with your teammates.
 
 ## 图片处理
 

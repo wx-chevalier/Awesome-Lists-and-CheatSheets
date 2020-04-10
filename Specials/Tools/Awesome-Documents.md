@@ -74,6 +74,10 @@
 
 - [gollum #Project#](https://github.com/gollum/gollum): A simple, Git-powered wiki with a sweet API and local frontend.
 
+# PDF
+
+- [FalsiScan #Project#](https://gitlab.com/edouardklein/falsisign): Make it look like a PDF has been hand signed and scanned.
+
 # Storage Sync & Share
 
 - [Resilio #Project#](https://www.resilio.com/): Synchronize, Distribute & Consolidate Files Using a P2P Protocol
