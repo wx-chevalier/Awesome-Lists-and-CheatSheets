@@ -2,6 +2,8 @@
 
 # Framework
 
+- [2020-Crawlab #Project#](https://github.com/crawlab-team/crawlab): Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
+
 ## Node
 
 - [x-ray #Project#](https://github.com/lapwinglabs/x-ray): The next web scraper. See through the <html> noise.

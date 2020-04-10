@@ -40,9 +40,15 @@
 
 # Kubernetes
 
-## CLI Tools
+## Cluster Management
 
 - [2019-KinD #Project#](https://github.com/kubernetes-sigs/kind/): kind is a tool for running local Kubernetes clusters using Docker container "nodes". kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI.
+
+- [2019-k3s #Project#](https://github.com/rancher/k3s): Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb.
+
+- [fleet #Project#](https://github.com/rancher/fleet): Manage large fleets of Kubernetes clusters.
+
+## CLI Tools
 
 - [krew #Project#](https://github.com/GoogleContainerTools/krew): krew is the package manager for kubectl plugins.
 
