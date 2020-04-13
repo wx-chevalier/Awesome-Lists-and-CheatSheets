@@ -26,6 +26,10 @@
 
 - [2019-Data-Science--Cheat-Sheet #CheatSheet#](https://github.com/abhat222/Data-Science--Cheat-Sheet): List of Data Science Cheatsheets.
 
+## Career 
+
+- [Data Science: Reality Doesn't Meet Expectations](https://dfrieds.com/articles/data-science-reality-vs-expectations.html): I use the term Data Scientist throughout this post; however, popular titles such as Machine Learning Engineer, Data Analyst, Data Engineers, BI analysts share similar responsibilities and could be used interchangeably here.
+
 ## Case Study | 案例分析
 
 - [深度学习带来的变革：深度学习的十个典型应用](https://segmentfault.com/a/1190000007391860)
