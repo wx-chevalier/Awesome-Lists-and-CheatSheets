@@ -101,3 +101,7 @@
 - [2019-几万年前，有一只猴子大闹地府后删库跑路...](https://mp.weixin.qq.com/s/5QZiNOt98Dr4M0L5tvJNZA): 生死薄技术上如何实现？广大生灵在生死薄中的唯一标记是什么？阴间数据库是什么样一个数据库？于是脑洞大开的程序员开始了他们的表演.....
 
 - [2018-数据库内核杂谈 #Series#](https://www.jianshu.com/nb/25205074): 我希望能够深入浅出地去讲解数据库是一个什么样的系统，以及为什么它最后会演化成这样一个系统，为什么我们都用 SQL 来操作数据，而不是 AQL 或 BQL. 希望读者阅读后，对数据库的理解不再单单只是知道简单的 table, row 等的基本概念或者单单会写些 join, select 的 SQL 语句。而是能从源头真正做到知其所以然。
+
+## Scratch 
+
+- [Database basics: writing a SQL database from scratch in Go #Series#](https://notes.eatonphil.com/database-basics.html): In this series we'll write a rudimentary database from scratch in Go. 
