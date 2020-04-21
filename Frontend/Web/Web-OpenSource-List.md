@@ -250,6 +250,8 @@
 
 - [2020-Kasaya #Project#](https://github.com/syscolabs/kasaya): A "WYSIWYG" scripting language and runtime for browser automation.
 
+- [2019-Playwright #Project#](https://github.com/microsoft/playwright): Playwright is a Node library to automate the Chromium, WebKit and Firefox browsers with a single API. It enables cross-browser web automation that is ever-green, capable, reliable and fast.
+
 # Architecture
 
 - [single-spa #Project#](https://single-spa.js.org/docs/getting-started-overview.html): Build micro frontends that coexist and can each be written with their own framework.
