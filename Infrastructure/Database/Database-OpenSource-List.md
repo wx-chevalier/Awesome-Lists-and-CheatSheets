@@ -196,6 +196,10 @@
 
 - [Grid studio #Project#](https://github.com/ricklamers/gridstudio): Grid studio is a web-based spreadsheet application with full integration of the Python programming language.
 
+## Data Lake
+
+- [Apache Hudi #Project#](https://github.com/apache/incubator-hudi): Upserts, Deletes And Incremental Processing on Big Data.
+
 # Data Aggregation
 
 ## ETL
@@ -213,3 +217,10 @@
 - [Canal #Project#](https://github.com/alibaba/canal): 阿里巴巴 mysql 数据库 binlog 的增量订阅&消费组件。阿里云 DRDS( https://www.aliyun.com/product/drds )、阿里巴巴 TDDL 二级索引、小表复制 powerd by canal.
 
 - [Otter #Project#](https://github.com/alibaba/otter): 阿里巴巴分布式数据库同步系统(解决中美异地机房)
+
+# P2P Database 
+
+- [OrbitDB #Project#](https://github.com/orbitdb/orbit-db): Peer-to-Peer Databases for the Decentralized Web.
+
+- [Scuttlebot #Project#](http://scuttlebot.io): Scuttlebot is an open source peer-to-peer log store used as a database, identity provider, and messaging system. It features global replication, file-syncronization, and end-to-end encryption.
+
