@@ -77,11 +77,3 @@
 # PDF
 
 - [FalsiScan #Project#](https://gitlab.com/edouardklein/falsisign): Make it look like a PDF has been hand signed and scanned.
-
-# Storage Sync & Share
-
-- [Resilio #Project#](https://www.resilio.com/): Synchronize, Distribute & Consolidate Files Using a P2P Protocol
-
-- [Syncthing #Project#](https://syncthing.net/): Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
-
-- [rclone #Project#](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files.

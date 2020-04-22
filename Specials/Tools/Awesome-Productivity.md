@@ -23,3 +23,17 @@
 - [2019-Vault #Project#](https://github.com/hashicorp/vault): A tool for secrets management, encryption as a service, and privileged access management.
 
 - [2019-Neko #Project#](https://github.com/nurdism/neko): A self hosted virtual browser (rabb.it clone) that runs in docker. This uses web rtc to stream a desktop inside of a docker container, I made this because rabb.it went under and my internet can't handle streaming and discord keeps crashing.
+
+# Storage Sync & Share
+
+## Sync
+
+- [Resilio #Project#](https://www.resilio.com/): Synchronize, Distribute & Consolidate Files Using a P2P Protocol
+
+- [Syncthing #Project#](https://syncthing.net/): Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
+
+- [rclone #Project#](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files.
+
+## Transfer
+
+- [qrcp #Project#](https://github.com/claudiodangelis/qrcp): ⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
