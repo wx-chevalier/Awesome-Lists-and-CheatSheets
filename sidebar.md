@@ -332,11 +332,13 @@
     - [Frontend List](/Frontend/Frontend-List.md)
     - [GUIArchitecture List](/Frontend/GUIArchitecture-List.md)
     - Game
+      - CloudGame
+        - [CloudGame List](/Frontend/Game/CloudGame/CloudGame-List.md)
       - [Game List](/Frontend/Game/Game-List.md)
       - [Game OpenSource List](/Frontend/Game/Game-OpenSource-List.md)
-      - Web
-        - [WebGame List](/Frontend/Game/Web/WebGame-List.md)
-        - [WebGame OpenSource List](/Frontend/Game/Web/WebGame-OpenSource-List.md)
+      - WebGame
+        - [WebGame List](/Frontend/Game/WebGame/WebGame-List.md)
+        - [WebGame OpenSource List](/Frontend/Game/WebGame/WebGame-OpenSource-List.md)
     - Mobile
       - Android
         - [Android Dev List](/Frontend/Mobile/Android/Android-Dev-List.md)
@@ -543,6 +545,10 @@
         - DataAggregation
           - [DataPipeline List](/Infrastructure/Database/Datawarehouse/DataAggregation/DataPipeline-List.md)
           - [ETL List](/Infrastructure/Database/Datawarehouse/DataAggregation/ETL-List.md)
+        - DataLake
+          - [DataLake List](/Infrastructure/Database/Datawarehouse/DataLake/DataLake-List.md)
+          - Iceberg
+            - [Iceberg List](/Infrastructure/Database/Datawarehouse/DataLake/Iceberg/Iceberg-List.md)
         - [Datawarehouse List](/Infrastructure/Database/Datawarehouse/Datawarehouse-List.md)
         - HBase
           - [HBase List](/Infrastructure/Database/Datawarehouse/HBase/HBase-List.md)
@@ -817,7 +823,6 @@
       - [Awesome Names](/Specials/Collections/Awesome-Names.md)
       - [Awesome PPTs](/Specials/Collections/Awesome-PPTs.md)
       - [Awesome Sites](/Specials/Collections/Awesome-Sites.md)
-      - [Learning CheatSheet](/Specials/Collections/Learning-CheatSheet.md)
     - Showcases
       - [Awesome Showcases](/Specials/Showcases/Awesome-Showcases.md)
     - [Tools](/Specials/Tools/README.md)
