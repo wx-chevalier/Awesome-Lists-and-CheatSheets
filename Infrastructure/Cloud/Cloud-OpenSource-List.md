@@ -48,6 +48,8 @@
 
 - [fleet #Project#](https://github.com/rancher/fleet): Manage large fleets of Kubernetes clusters.
 
+- [oneinfra #Project#](https://github.com/oneinfra/oneinfra): oneinfra is a Kubernetes as a Service platform. It empowers you to provide or consume Kubernetes clusters at scale, on any platform or service provider. You decide.
+
 ## CLI Tools
 
 - [krew #Project#](https://github.com/GoogleContainerTools/krew): krew is the package manager for kubectl plugins.
