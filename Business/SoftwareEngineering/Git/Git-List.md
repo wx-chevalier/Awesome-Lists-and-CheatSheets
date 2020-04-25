@@ -32,6 +32,8 @@
 
 - [看完就会用的 Git 操作图解分析](http://blog.yubangweb.com/kan-wan-jiu-hui-yong-de-gitcao-zuo-tu-jie-fen-xi/)
 
+- [2020-LearnGitBranching](https://learngitbranching.js.org/): An interactive git visualization to challenge and educate!
+
 ## Tips
 
 - [Git tips](https://github.com/git-tips/tips): 常用的 Git 小技巧
