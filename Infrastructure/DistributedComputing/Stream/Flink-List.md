@@ -6,6 +6,10 @@
 
 - [Flink 原理与实现：架构和拓扑概览](https://yq.aliyun.com/articles/57816?spm=5176.100240.searchblog.15.918ieV)
 
+## ChangeLog
+
+- [2019-修改代码 150 万行！Apache Flink 1.9.0 做了这些重大修改！](https://mp.weixin.qq.com/s/Gj76cO5VGQ76R7d7Kc--0Q): 8 月 22 日，Apache Flink 1.9.0 正式发布。早在今年 1 月，阿里便宣布将内部过去几年打磨的大数据处理引擎 Blink 进行开源并向 Apache Flink 贡献代码。此次版本在结构上有重大变更，修改代码达 150 万行，接下来，我们一起梳理 Flink 1.9.0 中非常值得关注的重要功能与特性。
+
 ## Case Study | 案例分析
 
 - [2019-滴滴实时计算发展之路及平台架构实践](https://mp.weixin.qq.com/s/NGeukit_TpwD4_opIZRb-Q): 滴滴的核心业务是一个实时在线服务，因此具有丰富的实时数据和实时计算场景。本文将介绍滴滴实时计算发展之路以及平台架构实践。
@@ -16,7 +20,7 @@
 
 ## Series
 
-- [Madhukara Phatak:某个大数据咨询师的博客](http://blog.madhukaraphatak.com/)
+- [Madhukara Phatak: 某个大数据咨询师的博客](http://blog.madhukaraphatak.com/)
 
 - [wuchong Jark's Bloh 一系列关于 Flink 的博客](http://wuchong.me/archives/)
 
@@ -35,10 +39,6 @@
 - [2018-Apache Flink Training](https://training.da-platform.com/): This training teaches how to implement scalable data analysis programs with Apache Flink 1.6.0.
 
 - [2019-基于 Flink 实现的商品实时推荐系统](https://mp.weixin.qq.com/s/pF8mr4AeUwWWpGEAKmJW2w): 近期我在 GitHub 观察到一个不错的 Flink 项目，然后也和作者交流了下，于是在这里做一个分享。
-
-## ChangeLog
-
-- [2019-修改代码 150 万行！Apache Flink 1.9.0 做了这些重大修改！](https://mp.weixin.qq.com/s/Gj76cO5VGQ76R7d7Kc--0Q): 8 月 22 日，Apache Flink 1.9.0 正式发布。早在今年 1 月，阿里便宣布将内部过去几年打磨的大数据处理引擎 Blink 进行开源并向 Apache Flink 贡献代码。此次版本在结构上有重大变更，修改代码达 150 万行，接下来，我们一起梳理 Flink 1.9.0 中非常值得关注的重要功能与特性。
 
 # Internals | 内部原理
 
