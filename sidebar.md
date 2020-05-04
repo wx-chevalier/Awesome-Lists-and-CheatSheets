@@ -582,9 +582,6 @@
         - PingCAP
           - [TiDB List](/Infrastructure/Database/NewSQL/PingCAP/TiDB-List.md)
       - RDB
-        - HA
-          - [DBA List](/Infrastructure/Database/RDB/HA/DBA-List.md)
-          - [Sharding List](/Infrastructure/Database/RDB/HA/Sharding-List.md)
         - MySQL
           - [MySQL Cluster List](/Infrastructure/Database/RDB/MySQL/MySQL-Cluster-List.md)
           - [MySQL List](/Infrastructure/Database/RDB/MySQL/MySQL-List.md)
@@ -601,6 +598,7 @@
           - [SQLServer List](/Infrastructure/Database/RDB/SQLServer/SQLServer-List.md)
         - SQLite
           - [SQLite List](/Infrastructure/Database/RDB/SQLite/SQLite-List.md)
+        - [Sharding List](/Infrastructure/Database/RDB/Sharding-List.md)
       - TimeSeries
         - [InfluxDB List](/Infrastructure/Database/TimeSeries/InfluxDB-List.md)
         - [Prometheus List](/Infrastructure/Database/TimeSeries/Prometheus-List.md)
