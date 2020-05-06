@@ -92,6 +92,8 @@
 
 - [Intro to SQL: Querying and managing data #Course#](https://parg.co/Uxe): Learn how to use SQL to store, query, and manipulate data. SQL is a special-purpose programming language designed for managing data in a relational database, and is used by a huge number of apps and organizations.
 
+- [2019-Select Star SQL #Course#](https://selectstarsql.com): This is an interactive book which aims to be the best place on the internet for learning SQL.
+
 ## Paper
 
 - [2013-F1: A Distributed SQL Database That Scales #Paper#](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41344.pdf): F1 is a distributed relational database system built at Google to support the AdWords business.
