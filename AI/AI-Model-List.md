@@ -84,6 +84,10 @@
 
 - [2018-DeOldify #Project#](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
 
+## Background Remove
+
+- [Background Matting #Project#](https://github.com/senguptaumd/Background-Matting): The World is Your Green Screen.
+
 ## Motion Capture
 
 - [Handtrack.js #Project#](https://victordibia.github.io/handtrack.js/#/): 它可以让开发人员使用经过训练的手部检测模型快速创建手势交互原型。

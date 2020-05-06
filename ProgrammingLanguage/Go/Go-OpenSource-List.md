@@ -10,6 +10,10 @@
 
 - [2019-OpenDiablo2 #Project#](https://github.com/OpenDiablo2/OpenDiablo2): OpenDiablo2 is an ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2. The engine is written in golang and is cross platform.
 
+## Admin
+
+- [gin-vue-admin #Project#](https://github.com/flipped-aurora/gin-vue-admin): 基于 gin+vue 搭建的后台管理系统框架，集成 jwt 鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能。
+
 # Dev
 
 ## Debug
