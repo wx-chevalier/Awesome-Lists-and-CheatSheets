@@ -1,4 +1,4 @@
-# Convolutional Neural Networks List
+# CNN List
 
 - [A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks](http://6me.us/a7X): Convolutional neural networks. Sounds like a weird combination of biology and math with a little CS sprinkled in, but these networks have been some of the most influential innovations in the field of computer vision.
 
@@ -9,3 +9,5 @@
 - [一文读懂卷积神经网络](http://www.36dsj.com/archives/24006)
 
 - [2018-A NumPy implementation of the famed Convolutional Neural Network](https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1?source=userActivityShare-fe48c4221a4c-1531311925): one of the most influential neural network architectures to date.
+
+- [2020-CNN Explainer #Project#](https://github.com/poloclub/cnn-explainer): Learning Convolutional Neural Networks with Interactive Visualization.

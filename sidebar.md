@@ -23,7 +23,7 @@
       - [Object Detection List](/AI/ComputerVision/Object-Detection-List.md)
     - DeepLearning
       - CNN
-        - [ConvolutionalNeuralNetworks List](/AI/DeepLearning/CNN/ConvolutionalNeuralNetworks-List.md)
+        - [CNN List](/AI/DeepLearning/CNN/CNN-List.md)
       - DNN
         - [GAN List](/AI/DeepLearning/DNN/GAN-List.md)
         - [LSTM List](/AI/DeepLearning/DNN/LSTM-List.md)
