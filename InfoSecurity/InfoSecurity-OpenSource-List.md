@@ -150,6 +150,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [TUF #Project#](https://theupdateframework.github.io/): TUF 是一项用于保护软件更新系统的开源安全技术，亦是从云原生计算基金会毕业的第一个以规范与安全性为重点的项目。
 
+- [Lynis #Project#](https://github.com/CISOfy/lynis): Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+
 # Network
 
 ## DNS

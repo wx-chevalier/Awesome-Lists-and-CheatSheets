@@ -162,6 +162,25 @@
     - CloudNative
       - [CloudNative List](/Backend/CloudNative/CloudNative-List.md)
       - [Serverless List](/Backend/CloudNative/Serverless-List.md)
+    - DevOps
+      - Automation
+        - [Automation List](/Backend/DevOps/Automation/Automation-List.md)
+      - CD
+        - [CI List](/Backend/DevOps/CD/CI-List.md)
+        - [Delivery List](/Backend/DevOps/CD/Delivery-List.md)
+      - [DevOps List](/Backend/DevOps/DevOps-List.md)
+      - [DevOps OpenSource List](/Backend/DevOps/DevOps-OpenSource-List.md)
+      - LogAggregation
+        - [Flume List](/Backend/DevOps/LogAggregation/Flume-List.md)
+        - [LogAggregation List](/Backend/DevOps/LogAggregation/LogAggregation-List.md)
+      - MonitorAlert
+        - [APM List](/Backend/DevOps/MonitorAlert/APM-List.md)
+        - [Aggregation List](/Backend/DevOps/MonitorAlert/Aggregation-List.md)
+        - [MonitorAlert List](/Backend/DevOps/MonitorAlert/MonitorAlert-List.md)
+      - Test
+        - [PerformanceTest List](/Backend/DevOps/Test/PerformanceTest-List.md)
+        - [Test List](/Backend/DevOps/Test/Test-List.md)
+        - [Test OpenSource List](/Backend/DevOps/Test/Test-OpenSource-List.md)
     - Domain
       - Auth
         - [Auth List](/Backend/Domain/Auth/Auth-List.md)
@@ -280,25 +299,6 @@
         - [Github List](/Business/SoftwareEngineering/Git/Github-List.md)
       - [Workflow List](/Business/SoftwareEngineering/Workflow-List.md)
       - [Workflow OpenSource List](/Business/SoftwareEngineering/Workflow-OpenSource-List.md)
-  - DevOps
-    - Automation
-      - [Automation List](/DevOps/Automation/Automation-List.md)
-    - CD
-      - [CI List](/DevOps/CD/CI-List.md)
-      - [Delivery List](/DevOps/CD/Delivery-List.md)
-    - [DevOps List](/DevOps/DevOps-List.md)
-    - [DevOps OpenSource List](/DevOps/DevOps-OpenSource-List.md)
-    - LogAggregation
-      - [Flume List](/DevOps/LogAggregation/Flume-List.md)
-      - [LogAggregation List](/DevOps/LogAggregation/LogAggregation-List.md)
-    - MonitorAlert
-      - [APM List](/DevOps/MonitorAlert/APM-List.md)
-      - [Aggregation List](/DevOps/MonitorAlert/Aggregation-List.md)
-      - [MonitorAlert List](/DevOps/MonitorAlert/MonitorAlert-List.md)
-    - Test
-      - [PerformanceTest List](/DevOps/Test/PerformanceTest-List.md)
-      - [Test List](/DevOps/Test/Test-List.md)
-      - [Test OpenSource List](/DevOps/Test/Test-OpenSource-List.md)
   - Frontend
     - DataVis
       - 3D Format
