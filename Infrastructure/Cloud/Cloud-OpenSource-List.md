@@ -38,6 +38,8 @@
 
 - [Harbor #Project#](https://goharbor.io/): Harbor is an open source container image registry that secures images with role-based access control, scans images for vulnerabilities, and signs images as trusted.
 
+- [registry-cli #Project#](https://github.com/andrey-pohilko/registry-cli): Scripts for easy manipulation of docker-registry from command line (and from scripts).
+
 # Kubernetes
 
 ## Cluster Management
