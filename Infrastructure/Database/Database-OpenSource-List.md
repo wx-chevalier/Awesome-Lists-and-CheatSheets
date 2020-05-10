@@ -22,6 +22,8 @@
 
 - [HeidiSQL #Project#](https://www.heidisql.com/): HeidiSQL is free software, and has the aim to be easy to learn. "Heidi" lets you see and edit data and structures from computers running one of the database systems MariaDB, MySQL, Microsoft SQL or PostgreSQL.
 
+- [2020-Beekeeper Studio #Project#](https://github.com/beekeeper-studio/beekeeper-studio): Cross platform SQL editor and database management app for Windows, Linux, and Mac.
+
 ### CMD
 
 - [2018-q #Project#](https://github.com/harelba/q): q is a command line tool that allows direct execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
@@ -218,9 +220,8 @@
 
 - [Otter #Project#](https://github.com/alibaba/otter): 阿里巴巴分布式数据库同步系统(解决中美异地机房)
 
-# P2P Database 
+# P2P Database
 
 - [OrbitDB #Project#](https://github.com/orbitdb/orbit-db): Peer-to-Peer Databases for the Decentralized Web.
 
 - [Scuttlebot #Project#](http://scuttlebot.io): Scuttlebot is an open source peer-to-peer log store used as a database, identity provider, and messaging system. It features global replication, file-syncronization, and end-to-end encryption.
-

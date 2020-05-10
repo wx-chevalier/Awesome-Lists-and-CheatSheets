@@ -91,6 +91,10 @@
 
 - [concurrency-limits #Project#](https://github.com/Netflix/concurrency-limits): Java Library that implements and integrates concepts from TCP congestion control to auto-detect concurrency limits to achieve optimal throughput with optimal latency.
 
+## Others
+
+- [easyexcel #Project#](https://github.com/alibaba/easyexcel): 快速、简单避免 OOM 的 java 处理 Excel 工具
+
 # Storage | 数据存储
 
 ## JDBC

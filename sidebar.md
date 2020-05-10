@@ -202,6 +202,7 @@
     - HA
       - [Cache List](/Backend/HA/Cache-List.md)
       - [HA List](/Backend/HA/HA-List.md)
+      - [SRE List](/Backend/HA/SRE-List.md)
       - [Spike List](/Backend/HA/Spike-List.md)
     - MicroService
       - Configuration
@@ -294,9 +295,6 @@
       - [APM List](/DevOps/MonitorAlert/APM-List.md)
       - [Aggregation List](/DevOps/MonitorAlert/Aggregation-List.md)
       - [MonitorAlert List](/DevOps/MonitorAlert/MonitorAlert-List.md)
-    - SRE
-      - [Harden List](/DevOps/SRE/Harden-List.md)
-      - [SRE List](/DevOps/SRE/SRE-List.md)
     - Test
       - [PerformanceTest List](/DevOps/Test/PerformanceTest-List.md)
       - [Test List](/DevOps/Test/Test-List.md)
@@ -492,6 +490,7 @@
         - [AndroidSecurity List](/InfoSecurity/MobileSecurity/Android/AndroidSecurity-List.md)
       - [MobileSecurity List](/InfoSecurity/MobileSecurity/MobileSecurity-List.md)
     - OSSecurity
+      - [Harden List](/InfoSecurity/OSSecurity/Harden-List.md)
       - [OSSecurity List](/InfoSecurity/OSSecurity/OSSecurity-List.md)
     - ReverseEngineering
       - [ReverseEngineering List](/InfoSecurity/ReverseEngineering/ReverseEngineering-List.md)
@@ -610,8 +609,6 @@
         - [Spark List](/Infrastructure/DistributedComputing/Batch/Spark-List.md)
       - [DistributedComputing List](/Infrastructure/DistributedComputing/DistributedComputing-List.md)
       - [DistributedComputing OpenSource List](/Infrastructure/DistributedComputing/DistributedComputing-OpenSource-List.md)
-      - DistributedCoordination
-        - [DistributedCoordination List](/Infrastructure/DistributedComputing/DistributedCoordination/DistributedCoordination-List.md)
       - EdgeComputing
         - [EdgeComputing List](/Infrastructure/DistributedComputing/EdgeComputing/EdgeComputing-List.md)
       - JobScheduler
@@ -643,6 +640,8 @@
       - DistributedFS
         - [DistributedFS List](/Infrastructure/DistributedStorage/DistributedFS/DistributedFS-List.md)
         - [HDFS List](/Infrastructure/DistributedStorage/DistributedFS/HDFS-List.md)
+      - DistributedID
+        - [DistributedID List](/Infrastructure/DistributedStorage/DistributedID/DistributedID-List.md)
       - [DistributedStorage List](/Infrastructure/DistributedStorage/DistributedStorage-List.md)
       - [DistributedStorage OpenSource List](/Infrastructure/DistributedStorage/DistributedStorage-OpenSource-List.md)
       - DistributedTransaction

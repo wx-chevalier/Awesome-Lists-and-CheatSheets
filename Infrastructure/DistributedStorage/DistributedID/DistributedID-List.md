@@ -1,5 +1,3 @@
-# Distributed Scheduling | 分布式调度
-
 # 分布式 ID
 
 - [分布式 ID 生成系统怎么做？](http://mp.weixin.qq.com/s/vurewakh7jINbmgKWR8rTw): 在分布式系统中，经常需要对大量的数据、消息、http 请求等进行唯一标识，例如：对于分布式系统，服务间相互调用需要唯一标识，调用链路分析的时候需要使用这个唯一标识。
