@@ -41,6 +41,8 @@
 
 - [REST Assured #Project#](https://github.com/rest-assured/rest-assured): Testing and validation of REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain. languages into the Java domain.
 
+- [Testcontainers #Project#](https://www.testcontainers.org/): Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+
 ## Deployment | 部署
 
 - [Capsule #Project#](http://www.capsule.io/user-guide/#getting-capsule): Dead-Simple Packaging and Deployment for JVM Apps.
@@ -50,6 +52,8 @@
 - [Warp #Project#](https://github.com/dgiagio/warp): Warp lets you create self-contained single binary applications making it simpler and more ergonomic to deliver your application to your customers.
 
 - [2018-Amazon Corretto #Project#](https://github.com/corretto/corretto-8): Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK
+
+- [2019-Jib #Project#](https://github.com/GoogleContainerTools/jib): Jib builds optimized Docker and OCI images for your Java applications without a Docker daemon - and without deep mastery of Docker best-practices. It is available as plugins for Maven and Gradle and as a Java library.
 
 # Frameworks & Utils
 

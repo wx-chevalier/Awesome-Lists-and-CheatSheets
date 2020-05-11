@@ -272,8 +272,6 @@
           - [UI List](/Business/Product/Design/UI/UI-List.md)
       - Docs
         - [Docs List](/Business/Product/Docs/Docs-List.md)
-        - [Office List](/Business/Product/Docs/Office-List.md)
-        - [PDF List](/Business/Product/Docs/PDF-List.md)
       - Management
         - Agile
           - [Agile List](/Business/Product/Management/Agile/Agile-List.md)
