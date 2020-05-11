@@ -6,8 +6,6 @@
 
 - [Linux_Workstation_Harden_Security](https://github.com/linuxsquad/Linux_Workstation_Harden_Security)
 
-- [Lynis](https://github.com/CISOfy/lynis)
-
 - [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 
 - [Google’s Infrastructure Security Design Overview](http://6me.us/1gPM)

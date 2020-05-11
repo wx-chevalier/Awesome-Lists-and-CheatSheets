@@ -1,4 +1,6 @@
-# HA List
+# SRE List
+
+- [So you want to be an SRE?](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c#.x8tn42pb7)
 
 # Overview
 
@@ -16,6 +18,10 @@
 
 - [荔枝 FM 架构师刘耀华：异地多活 IDC 机房架构](http://geek.csdn.net/news/detail/53231)
 
-# 容灾与隔离
+# Resource
 
-- [异地多活设计难？其实是你陷入了这四大误区出不来！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650993345&idx=1&sn=f460c51ad3dfd1da4d41e0a408969c54&scene=0#wechat_redirect)
+## Book
+
+- [2018-Google Site Reliability Engineering #Book#](https://landing.google.com/sre/sre-book/chapters/foreword/): This book shows a willingness to let SRE thinking come out of the shadows.
+
+- [2020-Building Secure & Reliable Systems #Book#](https://static.googleusercontent.com/media/landing.google.com/zh-CN//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf): Best Practices for Designing, Implementing and Maintaining Systems.

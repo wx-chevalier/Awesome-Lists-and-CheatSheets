@@ -184,6 +184,8 @@
 
 - [Falcon #Project#](https://github.com/theodo/falco): Falco helps you monitor, analyze, and optimize your websites.
 
+- [web-vitals-extension #Project#](https://github.com/GoogleChrome/web-vitals-extension): A Chrome extension to measure essential metrics for a healthy site.
+
 ## Loading
 
 - [Lozad #Project#](https://github.com/ApoorvSaxena/lozad.js): lozad.js is a light-weight library to lazy load elements using JavaScript.

@@ -42,11 +42,15 @@
 
 # Kubernetes
 
-## Cluster Management
+## Distribution
+
+- [2019-k3s #Project#](https://github.com/rancher/k3s): Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb.
 
 - [2019-KinD #Project#](https://github.com/kubernetes-sigs/kind/): kind is a tool for running local Kubernetes clusters using Docker container "nodes". kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI.
 
-- [2019-k3s #Project#](https://github.com/rancher/k3s): Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb.
+- [2020-Microk8s #Project#](https://microk8s.io/#get-started): Super-simple production-grade upstream K8s. One-command install on 42 flavours of Linux. Made for developers and devops. Great for edge and IoT.
+
+## Cluster Management
 
 - [fleet #Project#](https://github.com/rancher/fleet): Manage large fleets of Kubernetes clusters.
 
@@ -95,3 +99,11 @@
 ## HA
 
 - [kube-prometheus #Project#](https://github.com/coreos/kube-prometheus): Use Prometheus to monitor Kubernetes and applications running on Kubernetes.
+
+## Serverless
+
+- [Fission #Project#](https://github.com/fission/fission): Fission is a fast serverless framework for Kubernetes with a focus on developer productivity and high performance.
+
+# Service Mesh
+
+- [Kuma #Project#](https://kuma.io/docs/0.4.0/overview/what-is-kuma/): Kuma is a platform agnostic open-source control plane for Service Mesh and Microservices. It can run and be operated natively across both Kubernetes and VM environments, making it easy to adopt by every team in the organization.

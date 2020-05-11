@@ -128,9 +128,11 @@
 
 # Computer Vision
 
-- [2018-FastPhotoStyle #Project#](https://github.com/NVIDIA/FastPhotoStyle): This code repository contains an implementation of our fast photorealistic style transfer algorithm.
+## OCR
 
-- [2018-videoflow #Project#](https://github.com/videoflow/videoflow): Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
+- [Tess4j #Project#](https://github.com/nguyenq/tess4j): Java JNA wrapper for Tesseract OCR API.
+
+- [2018-alpr-unconstrained](https://github.com/sergiomsilva/alpr-unconstrained): License Plate Detection and Recognition in Unconstrained Scenarios.
 
 ## Object Detection
 
@@ -138,7 +140,11 @@
 
 - [2017-Multi Object Tracker #Project#](https://github.com/adipandas/multi-object-tracker): Object detection using deep learning and multi-object tracking.
 
+- [2018-OpenPose #Project#](https://github.com/CMU-Perceptual-Computing-Lab/openpose): Real-time multi-person keypoint detection library for body, face, hands, and foot estimation.
+
 ## Photo
+
+- [2018-FastPhotoStyle #Project#](https://github.com/NVIDIA/FastPhotoStyle): This code repository contains an implementation of our fast photorealistic style transfer algorithm.
 
 ## Face Recognition
 
@@ -152,11 +158,9 @@
 
 - [SeetaFace #Project#](https://github.com/seetafaceengine/SeetaFace2): Open source, full stack face recognization toolkit.
 
-## OCR
+## Video
 
-- [Tess4j #Project#](https://github.com/nguyenq/tess4j): Java JNA wrapper for Tesseract OCR API.
-
-- [2018-alpr-unconstrained](https://github.com/sergiomsilva/alpr-unconstrained): License Plate Detection and Recognition in Unconstrained Scenarios.
+- [2018-videoflow #Project#](https://github.com/videoflow/videoflow): Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
 
 # Platform
 
