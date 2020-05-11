@@ -70,7 +70,7 @@
 
 - [nlp_compromise #Project#](https://github.com/nlp-compromise/nlp_compromise): a cool way to use natural language in javascript
 
-- [flair #Project#](https://github.com/zalandoresearch/flair): A very simple framework for state-of-the-art Natural Language Processing (NLP)
+- [flair #Project#](https://github.com/flairNLP/flair): A very simple framework for state-of-the-art Natural Language Processing (NLP)
 
 - [Chinese NLP #Project#](https://github.com/didi/ChineseNLP): Shared tasks, datasets and state-of-the-art results for Chinese Natural Language Processing (NLP).
 

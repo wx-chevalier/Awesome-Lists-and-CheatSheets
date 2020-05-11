@@ -6,9 +6,11 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 ## Scaffold
 
+- [react-styleguidist #Project#](https://github.com/styleguidist/react-styleguidist): Isolated React component development environment with a living style guide.
+
 ## Tools
 
-- [Rekit #JavaScript#](https://github.com/supnate/rekit): Toolkit for building scalable web applications with React, Redux and React-router
+- [Rekit #Project#](https://github.com/supnate/rekit): Toolkit for building scalable web applications with React, Redux and React-router
 
 - [react-armor #Project#](https://github.com/elierotenberg/react-armor): Protect your DOM from third-party tampering.
 

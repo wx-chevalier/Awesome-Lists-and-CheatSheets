@@ -77,3 +77,7 @@
 # PDF
 
 - [FalsiScan #Project#](https://gitlab.com/edouardklein/falsisign): Make it look like a PDF has been hand signed and scanned.
+
+- [pdftabextract #Project#](https://github.com/WZBSocialScienceCenter/pdftabextract): A set of tools for extracting tables from PDF files helping to do data mining on (OCR-processed) scanned documents.
+
+- [Paged.js #Project#](https://www.pagedjs.org/): Paged.js is a free and open-source library that paginates any HTML content to produce beautiful print-ready PDF. The library fragments the content, reads your CSS print declarations and presents a paginated preview in your browser that you can save as PDF.
