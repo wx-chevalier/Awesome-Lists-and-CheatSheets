@@ -159,9 +159,6 @@
       - [Refactor List](/Architecture/Refactor/Refactor-List.md)
   - Backend
     - [Backend List](/Backend/Backend-List.md)
-    - CloudNative
-      - [CloudNative List](/Backend/CloudNative/CloudNative-List.md)
-      - [Serverless List](/Backend/CloudNative/Serverless-List.md)
     - DevOps
       - Automation
         - [Automation List](/Backend/DevOps/Automation/Automation-List.md)
@@ -502,7 +499,9 @@
     - Cloud
       - [Cloud List](/Infrastructure/Cloud/Cloud-List.md)
       - [Cloud OpenSource List](/Infrastructure/Cloud/Cloud-OpenSource-List.md)
-      - [Cloud Provider List](/Infrastructure/Cloud/Cloud-Provider-List.md)
+      - CloudNative
+        - [CloudNative List](/Infrastructure/Cloud/CloudNative/CloudNative-List.md)
+        - [Serverless List](/Infrastructure/Cloud/CloudNative/Serverless-List.md)
       - Container
         - [Container List](/Infrastructure/Cloud/Container/Container-List.md)
         - Docker
@@ -524,6 +523,8 @@
         - ServiceMesh
           - [Istio List](/Infrastructure/Cloud/Orchestration/ServiceMesh/Istio-List.md)
           - [ServiceMesh List](/Infrastructure/Cloud/Orchestration/ServiceMesh/ServiceMesh-List.md)
+      - Provider
+        - [Cloud Provider List](/Infrastructure/Cloud/Provider/Cloud-Provider-List.md)
       - VM
         - KVM
           - [KVM List](/Infrastructure/Cloud/VM/KVM/KVM-List.md)
