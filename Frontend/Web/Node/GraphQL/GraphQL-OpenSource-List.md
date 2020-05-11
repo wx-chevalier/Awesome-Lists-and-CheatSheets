@@ -27,6 +27,8 @@
 
 - [PostGraphile #Project#](https://github.com/graphile/postgraphile): A GraphQL API created by reflection over a PostgreSQL schema.
 
+- [GraphQL Mesh #Project#](https://github.com/Urigo/graphql-mesh/blob/master/README.md): GraphQL Mesh allows you to use GraphQL query language to access data in remote APIs that don't run GraphQL (and also ones that do run GraphQL). It can be used as a gateway to other services, or run as a local GraphQL schema that aggregates data from remote APIs.
+
 ## Utility
 
 - [dataloader #Project#](https://github.com/facebook/dataloader): DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.

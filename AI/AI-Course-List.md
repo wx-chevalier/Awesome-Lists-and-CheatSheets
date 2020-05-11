@@ -50,7 +50,9 @@
 
 - [2018-Deep Learning Specialization #Course#](https://www.deeplearning.ai/courses/): Deep Learning is transforming multiple industries. This five-course specialization will help you understand Deep Learning fundamentals, apply them, and build a career in AI.
 
-- [2018-CS230: Deep Learning](https://web.stanford.edu/class/cs230/): In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. [百度网盘，j2vp](https://pan.baidu.com/s/1Toko6dTqK-W6-e8EVm2kpA)
+- [2018-Stanford CS230: Deep Learning](https://web.stanford.edu/class/cs230/): In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. [百度网盘，j2vp](https://pan.baidu.com/s/1Toko6dTqK-W6-e8EVm2kpA)
+
+- [2019-MIT 6.S191 Introduction to DeepLearning #Course#](http://introtodeeplearning.com/): MIT's official introductory course on deep learning methods with applications in medicine, and more!
 
 # Reinforcement Learning
 
