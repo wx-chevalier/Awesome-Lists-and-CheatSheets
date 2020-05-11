@@ -24,6 +24,8 @@
 
 - [2017-DL4NLP #Collection#](https://github.com/andrewt3000/DL4NLP): Deep Learning for NLP resources.
 
+- [2017-Natural Language Processing Tasks and Selected References #Collection#](https://github.com/Kyubyong/nlp_tasks): I did my best to cover as many as possible tasks in NLP, but admittedly this is far from exhaustive purely due to my lack of knowledge.
+
 # Tutorial
 
 - [2018-How to solve 90% of NLP problems: a step-by-step guide](https://parg.co/UiG): Using Machine Learning to understand and leverage text.

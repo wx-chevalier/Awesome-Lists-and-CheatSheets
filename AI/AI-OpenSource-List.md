@@ -104,6 +104,8 @@
 
 - [2019-pkuseg #Project#](https://github.com/lancopku/pkuseg-python): pkuseg 简单易用，支持细分领域分词，有效提升了分词准确度。
 
+- [2019-Synonyms #Project#](https://github.com/huyingxi/Synonyms): 最好的中文近义词工具包。Synonyms可以用于自然语言理解的很多任务：文本对齐，推荐算法，相似度计算，语义偏移，关键字提取，概念提取，自动摘要，搜索引擎等。
+
 ## Knowledge Graph | 知识图谱
 
 - [2018-OpenKE #Project#](https://github.com/thunlp/OpenKE): An Open-Source Package for Knowledge Embedding (KE).
