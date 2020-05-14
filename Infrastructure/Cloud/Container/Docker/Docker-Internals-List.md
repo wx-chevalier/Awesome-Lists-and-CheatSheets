@@ -10,7 +10,7 @@
 
 # cgroup
 
-- [2017-docker 容器基础技术：linux cgroup 简介](http://cizixs.com/2017/08/25/linux-cgroup): Linux cgroups 的全称是 Linux Control Groups，它是 Linux 内核的特性，主要作用是限制、记录和隔离进程组（process groups）使用的物理资源（cpu、memory、IO 等）。
+- [2017-Docker 容器基础技术：linux cgroup 简介](http://cizixs.com/2017/08/25/linux-cgroup): Linux cgroups 的全称是 Linux Control Groups，它是 Linux 内核的特性，主要作用是限制、记录和隔离进程组（process groups）使用的物理资源（cpu、memory、IO 等）。
 
 # Network
 
