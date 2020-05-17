@@ -820,6 +820,7 @@
       - [Awesome PPTs](/Specials/Collections/Awesome-PPTs.md)
       - [Awesome Sites](/Specials/Collections/Awesome-Sites.md)
     - Showcases
+      - [Awesome Giants](/Specials/Showcases/Awesome-Giants.md)
       - [Awesome Showcases](/Specials/Showcases/Awesome-Showcases.md)
     - [Tools](/Specials/Tools/README.md)
       - [Awesome Devs](/Specials/Tools/Awesome-Devs.md)

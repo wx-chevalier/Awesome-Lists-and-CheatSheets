@@ -12,6 +12,10 @@
 
 - [2019-Neo #Project#](https://github.com/neomjs/neo): This is a new paradigm. If you want to enter a new era of making better Web Based User Interfaces, the following concepts will be addictive.
 
+## State Management
+
+- [Recoil #Project#](https://github.com/facebookexperimental/Recoil): Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
+
 ## Mini Program
 
 - [wepy #Project#](https://tencent.github.io/wepy/): 让小程序支持组件化开发的框架，一个最受欢迎的小程序框架。
