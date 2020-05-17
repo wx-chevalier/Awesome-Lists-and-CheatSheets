@@ -44,6 +44,8 @@
 
 - [2019-Argo CD #Project#](https://github.com/argoproj/argo-cd): Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
 
+- [2019-Flux #Project#](https://github.com/fluxcd/flux): The GitOps Kubernetes operator.
+
 # Monitor & Alert
 
 > Linux 系统相关的工具参考 [Linux-OpenSource-List](/)。
