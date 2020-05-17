@@ -26,6 +26,10 @@
 
 # Storage Sync & Share
 
+## Network Disk
+
+- [G-Desktop-Suite #Project#](https://github.com/alexkim205/G-Desktop-Suite): Google Suite as a desktop app. Made possible with Electron.
+
 ## Sync
 
 - [Resilio #Project#](https://www.resilio.com/): Synchronize, Distribute & Consolidate Files Using a P2P Protocol
