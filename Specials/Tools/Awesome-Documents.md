@@ -68,6 +68,8 @@
 
 - [2017-Docusaurus #Project#](https://github.com/facebook/docusaurus): Docusaurus is a project for easily building, deploying, and maintaining open source project websites.
 
+- [Docup #Project#](https://github.com/egoist/docup): Docup is a single JavaScript file that fetches Markdown file and renders it as a beautiful one-page documentation.
+
 ## API
 
 - [2013-DevDocs #Project#](https://github.com/freeCodeCamp/devdocs): DevDocs combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more.
