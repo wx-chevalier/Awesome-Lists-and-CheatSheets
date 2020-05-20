@@ -190,6 +190,8 @@
 
 - [web-vitals-extension #Project#](https://github.com/GoogleChrome/web-vitals-extension): A Chrome extension to measure essential metrics for a healthy site.
 
+- [perfume.js #Project#](https://github.com/Zizzamia/perfume.js): Web performance library for measuring all User-centric performance metrics.
+
 ## Loading
 
 - [Lozad #Project#](https://github.com/ApoorvSaxena/lozad.js): lozad.js is a light-weight library to lazy load elements using JavaScript.
