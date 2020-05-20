@@ -20,6 +20,8 @@
 
 - [2017-Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html#optimization): This post is a collection of best practices for using neural networks in Natural Language Processing.
 
+- [2020-nlp_overview #Project#](https://github.com/omarsar/nlp_overview): Overview of Modern Deep Learning Techniques Applied to Natural Language Processing.
+
 # Resource
 
 - [2017-DL4NLP #Collection#](https://github.com/andrewt3000/DL4NLP): Deep Learning for NLP resources.
