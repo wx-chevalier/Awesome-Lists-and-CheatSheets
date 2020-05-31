@@ -20,7 +20,7 @@
 
 - [2018-Use streaming JSON to speed up your website](https://instantdomainsearch.com/articles/streaming-json-jsons/): JSON streaming—or JSONS—is a simple technique we use to decrease search latency for users, particularly anyone on a slow connection.
 
-## CDN
+# CDN
 
 - [2016-从直播 CDN 的原理说起，谈如何解决延时和连麦的老难题？](https://parg.co/UtK)
 
@@ -29,6 +29,10 @@
 - [JARE](http://www.jare.io/)
 
 - [jare-instant-free-cdn](http://www.yegor256.com/2016/03/30/jare-instant-free-cdn.html)
+
+## Edge Compiting
+
+- [2020-边缘加载](https://mp.weixin.qq.com/s/8Nig2vYMUmtcEw0A7jt1yA): 淘宝是如何缩短首屏时间、降低服务器压力的？边缘计算告诉你答案！
 
 # Cache | 缓存优化
 
