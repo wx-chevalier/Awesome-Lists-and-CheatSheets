@@ -48,6 +48,12 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [Rust Books #Collection#](https://github.com/sger/RustBooks): 一系列对于 Rust 书籍的搜集。
 
+## Course
+
+- [TP 201: Practical Networked Applications in Rust #Course#](https://github.com/pingcap/talent-plan). A series of projects that incrementally develop a single Rust project from the ground up into a high-performance, networked, parallel and asynchronous key/value store. Along the way various real-world and practical Rust development subject matter are explored and discussed.
+
+- [TP 202: Distributed Systems in Rust #Course#](https://github.com/pingcap/talent-plan/). Adapted from the [MIT 6.824](http://nil.csail.mit.edu/6.824/2017/index.html) distributed systems coursework, this course focuses on implementing important distributed algorithms, including the [Raft](https://raft.github.io/) consensus algorithm, and the [Percolator](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf) distributed transaction protocol.
+
 ## Series
 
 - [2018-Writing an OS in Rust #Series#](https://os.phil-opp.com/): This blog series creates a small operating system in the Rust programming language. Each post is a small tutorial and includes all needed code, so you can follow along if you like.

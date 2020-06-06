@@ -104,7 +104,7 @@
 
 - [2019-pkuseg #Project#](https://github.com/lancopku/pkuseg-python): pkuseg 简单易用，支持细分领域分词，有效提升了分词准确度。
 
-- [2019-Synonyms #Project#](https://github.com/huyingxi/Synonyms): 最好的中文近义词工具包。Synonyms可以用于自然语言理解的很多任务：文本对齐，推荐算法，相似度计算，语义偏移，关键字提取，概念提取，自动摘要，搜索引擎等。
+- [2019-Synonyms #Project#](https://github.com/huyingxi/Synonyms): 最好的中文近义词工具包。Synonyms 可以用于自然语言理解的很多任务：文本对齐，推荐算法，相似度计算，语义偏移，关键字提取，概念提取，自动摘要，搜索引擎等。
 
 ## Knowledge Graph | 知识图谱
 
@@ -161,6 +161,10 @@
 ## Video
 
 - [2018-videoflow #Project#](https://github.com/videoflow/videoflow): Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
+
+## Deep Face
+
+- [DeepFaceLab #Project#](https://github.com/iperov/DeepFaceLab): DeepFaceLab is the leading software for creating deepfakes.
 
 # Platform
 

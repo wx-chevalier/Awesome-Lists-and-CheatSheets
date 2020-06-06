@@ -80,6 +80,10 @@
 
 ## Course
 
+- [TP 301: TinySQL, a distributed relational database in Go #Project#](https://github.com/pingcap-incubator/tinysql): TinySQL is a course designed to teach you how to implement a distributed relational database in Go. TinySQL is also the name of the simplifed version of TiDB.
+
+- [TP 302: TinyKV, a distributed key value database in Go #Project#](https://github.com/pingcap-incubator/tinykv): This is a series of projects on a key-value storage system built with the Raft consensus algorithm. These projects are inspired by the famous MIT 6.824 course, but aim to be closer to industry implementations.
+
 ### SQL
 
 - [2019-W3Resource SQL Tutorial #Course#](https://www.w3resource.com/sql/tutorials.php#HISTSQL): SQL Tutorial of w3resource aims to meet the need of a beginner to learn SQL without any prior experience.
@@ -104,6 +108,6 @@
 
 - [2018-数据库内核杂谈 #Series#](https://www.jianshu.com/nb/25205074): 我希望能够深入浅出地去讲解数据库是一个什么样的系统，以及为什么它最后会演化成这样一个系统，为什么我们都用 SQL 来操作数据，而不是 AQL 或 BQL. 希望读者阅读后，对数据库的理解不再单单只是知道简单的 table, row 等的基本概念或者单单会写些 join, select 的 SQL 语句。而是能从源头真正做到知其所以然。
 
-## Scratch 
+## Scratch
 
-- [Database basics: writing a SQL database from scratch in Go #Series#](https://notes.eatonphil.com/database-basics.html): In this series we'll write a rudimentary database from scratch in Go. 
+- [Database basics: writing a SQL database from scratch in Go #Series#](https://notes.eatonphil.com/database-basics.html): In this series we'll write a rudimentary database from scratch in Go.

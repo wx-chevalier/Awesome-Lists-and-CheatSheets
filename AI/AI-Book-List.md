@@ -97,6 +97,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2018-Dan Jurafsky-Speech and Language Processing-3rd #Book#](https://web.stanford.edu/~jurafsky/slp3/): New pedagogical sequences on neural networks and their training, starting with logistic regression and continuing with embeddings, feed-forward nets, and RNNs.
 
+- [2020-机器翻译：统计建模与深度学习方法 #Book#](https://github.com/NiuTrans/MTBook): 这是一个教程，目的是对机器翻译的统计建模和深度学习方法进行较为系统的介绍。其内容被编纂成书，可以供计算机相关专业高年级本科生及研究生学习之用，亦可作为自然语言处理，特别是机器翻译相关研究人员的参考资料。本书用 tex 编写，所有源代码均已开放。
+
 # Computer Vision | 计算机视觉
 
 - [2016-OpenCV: Computer Vision Projects with Python](https://parg.co/Y6Q): Use OpenCV's Python bindings to capture video, manipulate images, and track objects. Learn about the different functions of OpenCV and their actual implementations.
