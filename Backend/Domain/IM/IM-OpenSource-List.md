@@ -52,6 +52,8 @@
 
 - [Pushpin #Project#](https://github.com/fanout/pushpin): Pushpin is a reverse proxy server written in C++ that makes it easy to implement WebSocket, HTTP streaming, and HTTP long-polling services.
 
+- [simple-peer #Project#](https://github.com/feross/simple-peer): Simple WebRTC video, voice, and data channels.
+
 # Live
 
 - [2014-Simple RTMP Server #Project#](https://github.com/ossrs/srs): SRS's a simplest, conceptual integrated, industrial-strength live streaming origin cluster.
