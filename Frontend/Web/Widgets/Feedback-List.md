@@ -28,6 +28,10 @@
 
 # Notification | 通知提醒框
 
+# Annotation 
+
+- [Rough Notation #Project#](https://roughnotation.com): A small JavaScript library to create and animate annotations on a web page.
+
 # Comment
 
 - [Talk #Project#](https://github.com/coralproject/talk): Our open-source commenting platform, Talk, rethinks how moderation, comment display, and conversation function, creating the opportunity for safer, smarter discussions around your work.

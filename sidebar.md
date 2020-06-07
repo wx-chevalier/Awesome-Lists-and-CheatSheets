@@ -298,6 +298,9 @@
     - DataVis
       - 3D Format
         - [3D Format List](/Frontend/DataVis/3D-Format/3D-Format-List.md)
+        - Mesh
+          - [Mesh List](/Frontend/DataVis/3D-Format/Mesh/Mesh-List.md)
+          - [Mesh OpenSource List](/Frontend/DataVis/3D-Format/Mesh/Mesh-OpenSource-List.md)
       - Cube
         - [Cube List](/Frontend/DataVis/Cube/Cube-List.md)
       - [DataVis List](/Frontend/DataVis/DataVis-List.md)
@@ -314,9 +317,6 @@
         - [Media OpenSource List](/Frontend/DataVis/Media/Media-OpenSource-List.md)
         - [QR List](/Frontend/DataVis/Media/QR-List.md)
         - [Video List](/Frontend/DataVis/Media/Video-List.md)
-      - Mesh
-        - [Mesh List](/Frontend/DataVis/Mesh/Mesh-List.md)
-        - [Mesh OpenSource List](/Frontend/DataVis/Mesh/Mesh-OpenSource-List.md)
     - Desktop
       - [Desktop List](/Frontend/Desktop/Desktop-List.md)
       - Electron
