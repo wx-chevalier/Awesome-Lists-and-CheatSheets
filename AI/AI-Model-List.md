@@ -88,6 +88,10 @@
 
 - [Background Matting #Project#](https://github.com/senguptaumd/Background-Matting): The World is Your Green Screen.
 
+## Object Detector
+
+- [yolov5 #Project#](https://github.com/ultralytics/yolov5): This repository represents Ultralytics open-source research into future object detection methods, and incorporates our lessons learned and best practices evolved over training thousands of models on custom client datasets with our previous YOLO repository.
+
 ## Motion Capture
 
 - [Handtrack.js #Project#](https://victordibia.github.io/handtrack.js/#/): 它可以让开发人员使用经过训练的手部检测模型快速创建手势交互原型。

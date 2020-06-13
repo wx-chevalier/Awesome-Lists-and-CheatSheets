@@ -4,6 +4,10 @@
 
 - [CSS Blocks #Project#](https://github.com/linkedin/css-blocks): CSS Blocks is an ergonomic, component-oriented CSS authoring system that compiles to high-performance stylesheets.
 
+# Showcase
+
+- [2020-20+ Web Projects With Vanilla JavaScript #Project#](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries.
+
 # Framework
 
 - [Svelte #Project#](https://github.com/sveltejs/svelte): Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.

@@ -254,6 +254,7 @@
       - Intelligent Manufacturing
         - [Intelligent Manufacturing List](/Business/Application/Intelligent-Manufacturing/Intelligent-Manufacturing-List.md)
         - [Intelligent Manufacturing OpenSource List](/Business/Application/Intelligent-Manufacturing/Intelligent-Manufacturing-OpenSource-List.md)
+    - [Business List](/Business/Business-List.md)
     - Finance
       - [Finance List](/Business/Finance/Finance-List.md)
       - [Finance OpenSource List](/Business/Finance/Finance-OpenSource-List.md)

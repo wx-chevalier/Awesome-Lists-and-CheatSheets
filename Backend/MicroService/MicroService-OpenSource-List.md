@@ -28,13 +28,15 @@
 
 - [2017-iot_push #Project#](https://github.com/1ssqq1lxr/iot_push): 基于 netty + mqtt 3.1.1 协议开发的物联网消息推送框架。
 
-## API Automation
+## API Automation & Generation
 
 - [automatic-api #Project#](https://github.com/dbohdan/automatic-api): The following is a list of tools that automatically expose a REST, GraphQL, or another kind of API for your database.
 
 - [pREST #Project#](https://github.com/prest/prest): Serve a RESTful API from any PostgreSQL database
 
 - [apig #Project#](https://github.com/wantedly/apig): Golang RESTful API Server Generator
+
+- [xgenecloud #Project#](https://github.com/xgenecloud/xgenecloud): 🔥 🔥 Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB).
 
 ## API Management
 

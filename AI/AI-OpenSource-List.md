@@ -18,6 +18,8 @@
 
 - [2019-Thinc #Project#](https://github.com/explosion/thinc): A refreshing functional take on deep learning, compatible with your favorite libraries.
 
+- [2019-Streamlit #Project#](https://www.streamlit.io/): Streamlit’s open-source app framework is the easiest way for data scientists and machine learning engineers to create beautiful, performant apps in only a few hours! All in pure Python. All for free.
+
 - [2020-MegEngine #Project#](https://github.com/MegEngine/MegEngine): MegEngine 是一个快速、可拓展、易于使用且支持自动求导的数值计算框架。
 
 ## Visualization
@@ -127,6 +129,8 @@
 - [wav2letter #Project#](https://parg.co/UM8): wav2letter is a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research.
 
 # Computer Vision
+
+- [CVAT #Project#](https://github.com/opencv/cvat): Powerful and efficient Computer Vision Annotation Tool (CVAT).
 
 ## OCR
 
