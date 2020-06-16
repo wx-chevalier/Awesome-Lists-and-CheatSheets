@@ -14,6 +14,14 @@
 
 - [Terratest #Project#](https://github.com/gruntwork-io/terratest): Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 
+## Tools
+
+- [Ansible #Project#](https://www.ansible.com/): The enterprise solution for building and operating automation at scale
+
+- [Puppet #Project#](https://puppet.com/): Make infrastructure actionable, scalable and intelligent.
+
+- [pyinfra #Project#](https://github.com/Fizzadar/pyinfra): pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more
+
 ## Infrastructure as Code
 
 - [Pulumi #Project#](https://github.com/pulumi/pulumi): Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀.
