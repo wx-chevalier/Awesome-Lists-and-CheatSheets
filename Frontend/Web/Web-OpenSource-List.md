@@ -4,9 +4,41 @@
 
 - [CSS Blocks #Project#](https://github.com/linkedin/css-blocks): CSS Blocks is an ergonomic, component-oriented CSS authoring system that compiles to high-performance stylesheets.
 
+<<<<<<< HEAD
 # Showcase
 
 - [2020-20+ Web Projects With Vanilla JavaScript #Project#](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries.
+=======
+# Dev Tools
+
+## IDE
+
+- [Rekit](https://github.com/supnate/rekit): IDE and toolkit for building scalable web applications with React, Redux and React-router
+
+- [Keretes #Project#](https://github.com/kreteshq/kretes): A Programming Environment for TypeScript & Node.js built on top of VS Code.
+
+## Debug
+
+## Test
+
+## Bundler
+
+- [Webpack #Project#](https://webpack.js.org/): Webpack is a static module bundler for modern JavaScript applications.
+
+- [2017-Parcel #Project#](https://github.com/parcel-bundler/parcel): Blazing fast, zero configuration web application bundler.
+
+- [browserify #Project#](https://github.com/browserify/browserify): browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single <script> tag.
+
+- [2017-Backpack #Project#](https://github.com/jaredpalmer/backpack): Backpack is minimalistic build system for Node.js. Inspired by Facebook's create-react-app, Zeit's Next.js, and Remy's Nodemon, Backpack lets you create modern Node.js apps and services with zero configuration.
+
+- [2017-Microbundle #Project#](https://github.com/developit/microbundle): A zero-configuration bundler for tiny modules, powered by Rollup.
+
+- [FuseBox #Project](https://github.com/fuse-box/fuse-box): FuseBox is a bundler/module loader that combines the power of webpack, JSPM and SystemJS.
+
+- [2019-Snowpack #Project#](https://github.com/pikapkg/snowpack): Build web applications with less tooling and 10x faster iteration. No bundler required.
+
+- [2020-Rome #Project#](https://github.com/facebookexperimental/rome): Rome is an experimental JavaScript toolchain. It includes a compiler, linter, formatter, bundler, testing framework and more. It aims to be a comprehensive tool for anything related to the processing of JavaScript source code.
+>>>>>>> 3e0df50105bde1a672ecbeaa9f9b437b74efb493
 
 # Framework
 
@@ -47,34 +79,6 @@
 ## Admin/Dashboard
 
 - [2019-D2Admin #Project#](https://github.com/d2-projects/d2-admin): D2Admin is a fully open source and free enterprise back-end product front-end integration solution, using the latest front-end technology stack, has prepared most of the project preparations, and with a lot of sample code to help the management system agile development.
-
-# Dev
-
-## Debug
-
-## Test
-
-## Bundler
-
-- [Webpack #Project#](https://webpack.js.org/): Webpack is a static module bundler for modern JavaScript applications.
-
-- [2017-Parcel #Project#](https://github.com/parcel-bundler/parcel): Blazing fast, zero configuration web application bundler.
-
-- [browserify #Project#](https://github.com/browserify/browserify): browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single <script> tag.
-
-- [2017-Backpack #Project#](https://github.com/jaredpalmer/backpack): Backpack is minimalistic build system for Node.js. Inspired by Facebook's create-react-app, Zeit's Next.js, and Remy's Nodemon, Backpack lets you create modern Node.js apps and services with zero configuration.
-
-- [2017-Microbundle #Project#](https://github.com/developit/microbundle): A zero-configuration bundler for tiny modules, powered by Rollup.
-
-- [FuseBox #Project](https://github.com/fuse-box/fuse-box): FuseBox is a bundler/module loader that combines the power of webpack, JSPM and SystemJS.
-
-- [2019-Snowpack #Project#](https://github.com/pikapkg/snowpack): Build web applications with less tooling and 10x faster iteration. No bundler required.
-
-- [2020-Rome #Project#](https://github.com/facebookexperimental/rome): Rome is an experimental JavaScript toolchain. It includes a compiler, linter, formatter, bundler, testing framework and more. It aims to be a comprehensive tool for anything related to the processing of JavaScript source code.
-
-## IDE
-
-- [Rekit](https://github.com/supnate/rekit): IDE and toolkit for building scalable web applications with React, Redux and React-router
 
 # DOM
 
