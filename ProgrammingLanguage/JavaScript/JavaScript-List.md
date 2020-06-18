@@ -58,6 +58,8 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [Eloquent Javascript](http://eloquentjavascript.net/index.html)
 
+- [2020-Deep JavaScript: Theory and techniques #Book#](https://exploringjs.com/deep-js/): This book dives deeply into JavaScript, It teaches practical techniques for using the language better. It teaches how the language works and why. What it teaches is firmly grounded in the ECMAScript specification (which the book explains and refers to).
+
 ## Collection
 
 - [Github-JavaScript Path JavaScript 学习规划](https://github.com/javascript-society/javascript-path)

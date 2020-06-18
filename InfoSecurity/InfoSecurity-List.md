@@ -36,7 +36,7 @@
 
 ## Book
 
-- [CTF Wiki #Series#](https://ctf-wiki.github.io/ctf-wiki/): 作为一个自由的站点，围绕 CTF 近几年赛题，CTF Wiki 对 CTF 中的各个方向的知识和技术进行介绍，以便于初学者更好地学习 CTF 相关的知识。
+- [Reverse Engineering for Beginners #Book#](https://beginners.re/): 适合作为逆向入门书籍，而且里面覆盖的范围更广，包括了 x86/x64，arm 两三种 CPU 的指令集，而且囊括了 Linux 和 Windows 的 OS hack 等内容，各种逆向工具也都介绍了一番。
 
 ## Collection
 
@@ -51,3 +51,5 @@
 # Tutorial
 
 - [2018-Kali Linux: Social Engineering Toolkit](https://linuxhint.com/kali-linux-set/): In this post i am going to show you the simple scenario of how to implement Social Engineering Attack in daily life.
+
+- [CTF Wiki #Series#](https://ctf-wiki.github.io/ctf-wiki/): 作为一个自由的站点，围绕 CTF 近几年赛题，CTF Wiki 对 CTF 中的各个方向的知识和技术进行介绍，以便于初学者更好地学习 CTF 相关的知识。
