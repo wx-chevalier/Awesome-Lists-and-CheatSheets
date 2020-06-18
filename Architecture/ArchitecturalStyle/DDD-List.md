@@ -11,3 +11,9 @@
 ## Case Study
 
 - [2019-Vlingo #Project#](https://docs.vlingo.io/): The vlingo/PLATFORM was designed for building fluent domain models inside applications and services using a DDD mindset.
+
+# Resource
+
+## Collection
+
+- [ddd-by-examples](https://github.com/ddd-by-examples): A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.

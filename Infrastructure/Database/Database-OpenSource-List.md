@@ -54,7 +54,7 @@
 
 - [2017-SQLAdvisor #Project#](https://github.com/Meituan-Dianping/SQLAdvisor): SQLAdvisor 是由美团点评公司技术工程部 DBA 团队(北京)开发维护的一个分析 SQL 给出索引优化建议的工具。它基于 MySQL 原生态词法解析，结合分析 SQL 中的 where 条件、聚合条件、多表 Join 关系 给出索引优化建议。目前 SQLAdvisor 在美团点评内部广泛应用，公司内部对 SQLAdvisor 的开发全面转到 github 上，开源和内部使用保持一致。
 
-- [2019-Yearning #Project#](https://github.com/cookieY/Yearning): MYSQL 开源SQL语句审核平台。
+- [2019-Yearning #Project#](https://github.com/cookieY/Yearning): MYSQL 开源 SQL 语句审核平台。
 
 ## Migration & Backup & Transfer
 
@@ -123,6 +123,8 @@
 - [search-index #Project#](https://github.com/fergiemcdowall/search-index): A persistent, network resilient, full text search library for the browser and Node.js.
 
 - [wwsearch #Project#](https://github.com/Tencent/wwsearch): A full-text search engine supporting massive users, real-time updating, fast fuzzy matching and flexible table splitting.
+
+- [MeiliSearch #Project#](https://github.com/meilisearch/MeiliSearch): MeiliSearch is a powerful, fast, open-source, easy to use and deploy search engine. Both searching and indexing are highly customizable.
 
 ## MongoDB
 

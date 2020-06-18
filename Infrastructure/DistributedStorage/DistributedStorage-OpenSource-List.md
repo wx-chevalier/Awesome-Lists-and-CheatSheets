@@ -16,6 +16,8 @@
 
 - [liferaft #Project#](https://parg.co/Uro): Consensus protocol based on raft, but only for saving lifes and works in node as well as in browers.
 
+- [Dragonboat #Project#](https://github.com/lni/dragonboat): Dragonboat is a high performance multi-group Raft consensus library in Go.
+
 # Distributed Transaction
 
 - [Seata #Project#](https://github.com/seata/Seata): Seata is an easy-to-use, high-performance, java based, open source distributed transaction solution.

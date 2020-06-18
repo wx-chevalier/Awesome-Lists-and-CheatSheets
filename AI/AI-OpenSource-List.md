@@ -18,6 +18,8 @@
 
 - [2019-Thinc #Project#](https://github.com/explosion/thinc): A refreshing functional take on deep learning, compatible with your favorite libraries.
 
+- [2019-Streamlit #Project#](https://www.streamlit.io/): Streamlit’s open-source app framework is the easiest way for data scientists and machine learning engineers to create beautiful, performant apps in only a few hours! All in pure Python. All for free.
+
 - [2020-MegEngine #Project#](https://github.com/MegEngine/MegEngine): MegEngine 是一个快速、可拓展、易于使用且支持自动求导的数值计算框架。
 
 ## Visualization
@@ -104,7 +106,7 @@
 
 - [2019-pkuseg #Project#](https://github.com/lancopku/pkuseg-python): pkuseg 简单易用，支持细分领域分词，有效提升了分词准确度。
 
-- [2019-Synonyms #Project#](https://github.com/huyingxi/Synonyms): 最好的中文近义词工具包。Synonyms可以用于自然语言理解的很多任务：文本对齐，推荐算法，相似度计算，语义偏移，关键字提取，概念提取，自动摘要，搜索引擎等。
+- [2019-Synonyms #Project#](https://github.com/huyingxi/Synonyms): 最好的中文近义词工具包。Synonyms 可以用于自然语言理解的很多任务：文本对齐，推荐算法，相似度计算，语义偏移，关键字提取，概念提取，自动摘要，搜索引擎等。
 
 ## Knowledge Graph | 知识图谱
 
@@ -127,6 +129,8 @@
 - [wav2letter #Project#](https://parg.co/UM8): wav2letter is a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research.
 
 # Computer Vision
+
+- [CVAT #Project#](https://github.com/opencv/cvat): Powerful and efficient Computer Vision Annotation Tool (CVAT).
 
 ## OCR
 
@@ -161,6 +165,10 @@
 ## Video
 
 - [2018-videoflow #Project#](https://github.com/videoflow/videoflow): Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
+
+## Deep Face
+
+- [DeepFaceLab #Project#](https://github.com/iperov/DeepFaceLab): DeepFaceLab is the leading software for creating deepfakes.
 
 # Platform
 

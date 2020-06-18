@@ -65,6 +65,8 @@
 
 - [microjob #Project#](https://github.com/wilk/microjob): A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads.
 
+- [nodejsscan #Project#](https://github.com/ajinabraham/nodejsscan): nodejsscan is a static security code scanner for Node.js applications.
+
 # DevOps
 
 - [node-heapdump #Project#](https://github.com/bnoordhuis/node-heapdump): Make a dump of the V8 heap for later inspection.
