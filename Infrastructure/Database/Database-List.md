@@ -24,6 +24,8 @@
 
 - [2019-Top 11 Open Source Database for Your Next Project](https://geekflare.com/open-source-database/amp/): Data is everything. And by extension, so are databases. Here are some fantastic open source options for your next kick-ass project.
 
+- [2020-Recent database technology that should be on your radar ](https://lucperkins.dev/blog/new-db-tech-1/): In this post I’d like to talk about three recently minted database technologies that I find intriguing.
+
 # Resource
 
 ## Blog
