@@ -132,6 +132,8 @@
 
 - [Casbin #Project#](https://github.com/casbin/casbin): An authorization library that supports access control models like ACL, RBAC, ABAC in Golang.
 
+- [Goth #Project#](https://github.com/markbates/goth): Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
+
 # Other
 
 - [gorush #Project#](https://github.com/appleboy/gorush): A push notification server written in Go (Golang).

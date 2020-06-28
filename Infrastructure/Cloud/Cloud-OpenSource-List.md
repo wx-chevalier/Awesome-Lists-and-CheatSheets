@@ -42,6 +42,18 @@
 
 # Kubernetes
 
+## Tools & Platform
+
+- [krew #Project#](https://github.com/GoogleContainerTools/krew): krew is the package manager for kubectl plugins. krew plugins: [kubectl-tree](https://github.com/ahmetb/kubectl-tree)
+
+- [Wayne #Project#](https://github.com/Qihoo360/wayne): Web UI for Kubernetes multi-clusters
+
+- [kubectx #Project#](https://github.com/ahmetb/kubectx): Switch faster between clusters and namespaces in kubectl.
+
+- [Rancher #Project#](https://github.com/rancher/rancher): Rancher is an open source project that provides a container management platform built for organizations that deploy containers in production. Rancher makes it easy to run Kubernetes everywhere, meet IT requirements, and empower DevOps teams.
+
+- [Lens #Project#](https://github.com/lensapp/lens): Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It is a standalone application for MacOS, Windows and Linux operating systems. It is open source and free.
+
 ## Distribution
 
 - [2019-k3s #Project#](https://github.com/rancher/k3s): Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb.
@@ -56,21 +68,11 @@
 
 - [oneinfra #Project#](https://github.com/oneinfra/oneinfra): oneinfra is a Kubernetes as a Service platform. It empowers you to provide or consume Kubernetes clusters at scale, on any platform or service provider. You decide.
 
-## CLI Tools
-
-- [krew #Project#](https://github.com/GoogleContainerTools/krew): krew is the package manager for kubectl plugins.
-
-- krew plugins: [kubectl-tree](https://github.com/ahmetb/kubectl-tree)
-
-- [Wayne #Project#](https://github.com/Qihoo360/wayne): Web UI for Kubernetes multi-clusters
-
-- [kubectx #Project#](https://github.com/ahmetb/kubectx): Switch faster between clusters and namespaces in kubectl.
-
 ## Application Management
 
 - [2019-kruise #Project#](https://github.com/openkruise/kruise): Automate application workloads management on Kubernetes
 
-- [Kubernetes Helm #Project#](https://github.com/kubernetes/helm): Helm is a tool for managing Kubernetes charts. Charts are packages of pre-configured Kubernetes resources.
+- [Helm #Project#](https://github.com/kubernetes/helm): Helm is a tool for managing Kubernetes charts. Charts are packages of pre-configured Kubernetes resources.
 
 - [Draft #Project#](https://github.com/Azure/draft): A tool for developers to create cloud-native applications on Kubernetes.
 

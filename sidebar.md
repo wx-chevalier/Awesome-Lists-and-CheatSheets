@@ -808,7 +808,9 @@
   - [README en](/README-en.md)
   - Specials
     - Career
+      - [Build Your Own](/Specials/Career/Build-Your-Own.md)
       - [Coding as Vetren](/Specials/Career/Coding-as-Vetren.md)
+      - [Guides](/Specials/Career/Guides.md)
       - [Startup Stories](/Specials/Career/Startup-Stories.md)
       - [Writing List](/Specials/Career/Writing-List.md)
     - Collections

@@ -176,8 +176,6 @@
 
 - [2015-Metabase #Project#](https://github.com/metabase/metabase): The simplest, fastest way to get business intelligence and analytics to everyone in your company.
 
-- [2016-Redash #Project#](https://github.com/getredash/redash): Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-
 - [Saiku #Project#](https://github.com/OSBI/saiku): Saiku Analytics - The Worlds Greatest Open Source OLAP Browser
 
 - [CBoard #Project#](https://github.com/TuiQiao/CBoard): An easy to use, self-service open BI reporting and BI dashboard platform.
@@ -203,6 +201,8 @@
 - [Apache Superset](https://github.com/apache/incubator-superset): Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application. [Superset: Airbnb’s data exploration platform](https://parg.co/bIh)
 
 - [Grid studio #Project#](https://github.com/ricklamers/gridstudio): Grid studio is a web-based spreadsheet application with full integration of the Python programming language.
+
+- [Davinci #Project#](https://edp963.github.io/davinci/): Davinci 是一个 DVaaS（Data Visualization as a Service）平台解决方案，面向业务人员/数据工程师/数据分析师/数据科学家，致力于提供一站式数据可视化解决方案。既可作为公有云/私有云独立部署使用，也可作为可视化插件集成到三方系统。用户只需在可视化 UI 上简单配置即可服务多种数据可视化应用，并支持高级交互/行业分析/模式探索/社交智能等可视化功能。
 
 ## Data Lake
 

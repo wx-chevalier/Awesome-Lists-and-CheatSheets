@@ -4,11 +4,10 @@
 
 - [CSS Blocks #Project#](https://github.com/linkedin/css-blocks): CSS Blocks is an ergonomic, component-oriented CSS authoring system that compiles to high-performance stylesheets.
 
-<<<<<<< HEAD
 # Showcase
 
 - [2020-20+ Web Projects With Vanilla JavaScript #Project#](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries.
-=======
+
 # Dev Tools
 
 ## IDE
@@ -38,7 +37,6 @@
 - [2019-Snowpack #Project#](https://github.com/pikapkg/snowpack): Build web applications with less tooling and 10x faster iteration. No bundler required.
 
 - [2020-Rome #Project#](https://github.com/facebookexperimental/rome): Rome is an experimental JavaScript toolchain. It includes a compiler, linter, formatter, bundler, testing framework and more. It aims to be a comprehensive tool for anything related to the processing of JavaScript source code.
->>>>>>> 3e0df50105bde1a672ecbeaa9f9b437b74efb493
 
 # Framework
 

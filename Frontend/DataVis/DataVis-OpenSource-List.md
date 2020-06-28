@@ -1,4 +1,4 @@
-# DataVisualization OpenSource List | 数据可视化开源工具索引
+# DataVis OpenSource List | 数据可视化开源工具索引
 
 - [Redash #Project#]()
 

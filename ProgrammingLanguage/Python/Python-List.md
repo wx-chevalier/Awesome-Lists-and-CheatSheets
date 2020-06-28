@@ -58,7 +58,9 @@
 
 - [pytudes #Project#](https://github.com/norvig/pytudes): This project contains pytudes—Python programs for perfecting programming skills. Some are in Jupyter (IPython) notebooks, some in \*.py files.
 
-- [wtfpython](https://github.com/leisurelicht/wtfpython-cn): 这个有趣的项目意在收集 Python 中那些难以理解和反人类直觉的例子以及鲜为人知的功能特性, 并尝试讨论这些现象背后真正的原理!
+- [wtfpython #Series#](https://github.com/leisurelicht/wtfpython-cn): 这个有趣的项目意在收集 Python 中那些难以理解和反人类直觉的例子以及鲜为人知的功能特性, 并尝试讨论这些现象背后真正的原理!
+
+- [python-small-examples #Series#](https://github.com/jackzhenguo/python-small-examples): 告别枯燥，60 秒学会一个 Python 小例子 ，当前库已有 223 个实用的小例子 。
 
 ## Python 3
 

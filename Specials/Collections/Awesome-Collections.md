@@ -42,7 +42,7 @@ Awesome CS Collections 是对于资源集锦的集锦，希望能够帮您快速
 
 - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts): Collection of awesome podcasts. Awesome list of Important Podcasts for software engineers.
 
-- [Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x#build-your-own-database): What I cannot create, I do not understand.
+- [Build your own (insert technology here) #Collection#](https://github.com/danistefanovic/build-your-own-x#): What I cannot create, I do not understand.
 
 # Computer Science
 
