@@ -65,6 +65,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 ## Blog
 
 - [Draveness's Blog #Blog#](https://draveness.me): 非常不错的 Go 系列博客。
+- [Golang Web Development](https://golangblogs.com/golang-web-development/)
 
 ## Collection
 
