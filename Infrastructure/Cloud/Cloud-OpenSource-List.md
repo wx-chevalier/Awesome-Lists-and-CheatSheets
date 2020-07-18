@@ -62,6 +62,8 @@
 
 - [2020-Microk8s #Project#](https://microk8s.io/#get-started): Super-simple production-grade upstream K8s. One-command install on 42 flavours of Linux. Made for developers and devops. Great for edge and IoT.
 
+- [2020-k3d #Project#](https://github.com/rancher/k3d/): Little helper to run Rancher Lab's k3s in Docker.
+
 ## Cluster Management
 
 - [fleet #Project#](https://github.com/rancher/fleet): Manage large fleets of Kubernetes clusters.
