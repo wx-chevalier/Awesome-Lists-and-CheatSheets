@@ -26,7 +26,7 @@
 
 - [2019-Data-Science--Cheat-Sheet #CheatSheet#](https://github.com/abhat222/Data-Science--Cheat-Sheet): List of Data Science Cheatsheets.
 
-## Career 
+## Career
 
 - [Data Science: Reality Doesn't Meet Expectations](https://dfrieds.com/articles/data-science-reality-vs-expectations.html): I use the term Data Scientist throughout this post; however, popular titles such as Machine Learning Engineer, Data Analyst, Data Engineers, BI analysts share similar responsibilities and could be used interchangeably here.
 
@@ -63,6 +63,8 @@
 - [2019-Virgilio #Project#](https://github.com/clone95/virgilio): Your new Mentor for Data Science E-Learning.
 
 - [2019-Deep Learning Drizzle #Collection#](https://github.com/kmario23/deep-learning-drizzle): Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
+
+- [Awesome DataScience](https://github.com/academic/awesome-datascience): 📝 An awesome Data Science repository to learn and apply for real world problems.
 
 ## Paper | 论文
 

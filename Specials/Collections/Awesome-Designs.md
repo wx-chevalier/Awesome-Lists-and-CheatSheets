@@ -1,4 +1,4 @@
-# Awesome PPTs
+# Awesome Designs
 
 # 导航
 
@@ -47,3 +47,4 @@
 # 链接
 
 - https://zhuanlan.zhihu.com/p/63949977
+- https://github.com/bradtraversy/design-resources-for-developers#icons
