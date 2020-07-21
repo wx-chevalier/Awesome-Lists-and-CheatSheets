@@ -157,6 +157,7 @@
       - [CodeReview List](/Architecture/Refactor/CodeReview-List.md)
       - [CodeStyle List](/Architecture/Refactor/CodeStyle-List.md)
       - [Refactor List](/Architecture/Refactor/Refactor-List.md)
+      - [Refactor OpenSource List](/Architecture/Refactor/Refactor-OpenSource-List.md)
   - Backend
     - [Backend List](/Backend/Backend-List.md)
     - DevOps
@@ -247,6 +248,8 @@
           - [Pay List](/Business/Application/ECommerce/Pay/Pay-List.md)
         - RiskControl
           - [RiskControl List](/Business/Application/ECommerce/RiskControl/RiskControl-List.md)
+      - ERP
+        - [ERP List](/Business/Application/ERP/ERP-List.md)
       - Finance
         - [Finance List](/Business/Application/Finance/Finance-List.md)
       - HCM
