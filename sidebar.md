@@ -385,13 +385,6 @@
         - [Browser Extension List](/Frontend/Web/Browser/Browser-Extension-List.md)
         - [Browser List](/Frontend/Web/Browser/Browser-List.md)
         - [Web Decentralization](/Frontend/Web/Browser/Web-Decentralization.md)
-      - DOM
-        - [DOM Event List](/Frontend/Web/DOM/DOM-Event-List.md)
-        - [DOM List](/Frontend/Web/DOM/DOM-List.md)
-        - [DOM Network List](/Frontend/Web/DOM/DOM-Network-List.md)
-        - [DOM Storage List](/Frontend/Web/DOM/DOM-Storage-List.md)
-        - [DOM Worker List](/Frontend/Web/DOM/DOM-Worker-List.md)
-        - [VirtualDOM List](/Frontend/Web/DOM/VirtualDOM-List.md)
       - Dev
         - [Web Builder List](/Frontend/Web/Dev/Web-Builder-List.md)
         - [Web Debug List](/Frontend/Web/Dev/Web-Debug-List.md)
@@ -455,6 +448,7 @@
           - [WebAssembly List](/Frontend/Web/Syntax/WebAssembly/WebAssembly-List.md)
           - [WebAssembly OpenSource List](/Frontend/Web/Syntax/WebAssembly/WebAssembly-OpenSource-List.md)
       - Tuning
+        - [VirtualDOM List](/Frontend/Web/Tuning/VirtualDOM-List.md)
         - [Web APM List](/Frontend/Web/Tuning/Web-APM-List.md)
         - [Web ExperienceTuning List](/Frontend/Web/Tuning/Web-ExperienceTuning-List.md)
         - [Web LoadTuning List](/Frontend/Web/Tuning/Web-LoadTuning-List.md)
@@ -462,6 +456,12 @@
         - [Web RenderTuning List](/Frontend/Web/Tuning/Web-RenderTuning-List.md)
         - [Web SSR List](/Frontend/Web/Tuning/Web-SSR-List.md)
         - [Web Tuning List](/Frontend/Web/Tuning/Web-Tuning-List.md)
+      - Web APIs
+        - [DOM List](/Frontend/Web/Web%20APIs/DOM-List.md)
+        - [Web Event List](/Frontend/Web/Web%20APIs/Web-Event-List.md)
+        - [Web Network List](/Frontend/Web/Web%20APIs/Web-Network-List.md)
+        - [Web Storage List](/Frontend/Web/Web%20APIs/Web-Storage-List.md)
+        - [Web Worker List](/Frontend/Web/Web%20APIs/Web-Worker-List.md)
       - [Web List](/Frontend/Web/Web-List.md)
       - [Web OpenSource List](/Frontend/Web/Web-OpenSource-List.md)
       - [Widgets](/Frontend/Web/Widgets/README.md)
