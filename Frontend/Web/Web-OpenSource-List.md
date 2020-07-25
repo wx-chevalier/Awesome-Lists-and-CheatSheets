@@ -198,7 +198,7 @@
 
 # Tuning | 性能调优
 
-## Benchmark
+## APM
 
 - [LagRadar #Project#](https://github.com/mobz/lag-radar): Add this to any javascript application and you can see when the app drops below 60fps as the radar sweep changes colour and gets janky.
 
@@ -211,6 +211,8 @@
 - [web-vitals-extension #Project#](https://github.com/GoogleChrome/web-vitals-extension): A Chrome extension to measure essential metrics for a healthy site.
 
 - [perfume.js #Project#](https://github.com/Zizzamia/perfume.js): Web performance library for measuring all User-centric performance metrics.
+
+- [badjs-report, 前端异常捕获与上报](https://github.com/BetterJS/badjs-report)
 
 ## Loading
 

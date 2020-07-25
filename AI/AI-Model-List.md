@@ -110,6 +110,8 @@
 
 - [keras-ocr #Project#](https://github.com/faustomorales/keras-ocr): A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
 
+- [PaddleOCR #Project#](https://github.com/PaddlePaddle/PaddleOCR): Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）.
+
 ## Generative Design
 
 - [2020-3D Generative Design #Project#](https://github.com/starstorms9/shape): Tyler Habowski Insight AI Project | Session AI.SV.2020A. [Generative Adversarial Networks and Autoencoders for 3D Shapes](https://github.com/marian42/shapegan)

@@ -157,6 +157,7 @@
       - [CodeReview List](/Architecture/Refactor/CodeReview-List.md)
       - [CodeStyle List](/Architecture/Refactor/CodeStyle-List.md)
       - [Refactor List](/Architecture/Refactor/Refactor-List.md)
+      - [Refactor OpenSource List](/Architecture/Refactor/Refactor-OpenSource-List.md)
   - Backend
     - [Backend List](/Backend/Backend-List.md)
     - DevOps
@@ -247,6 +248,8 @@
           - [Pay List](/Business/Application/ECommerce/Pay/Pay-List.md)
         - RiskControl
           - [RiskControl List](/Business/Application/ECommerce/RiskControl/RiskControl-List.md)
+      - ERP
+        - [ERP List](/Business/Application/ERP/ERP-List.md)
       - Finance
         - [Finance List](/Business/Application/Finance/Finance-List.md)
       - HCM
@@ -819,8 +822,8 @@
       - [Awesome Collections](/Specials/Collections/Awesome-Collections.md)
       - [Awesome DataSets](/Specials/Collections/Awesome-DataSets.md)
       - [Awesome DataVis Collections](/Specials/Collections/Awesome-DataVis-Collections.md)
+      - [Awesome Designs](/Specials/Collections/Awesome-Designs.md)
       - [Awesome Names](/Specials/Collections/Awesome-Names.md)
-      - [Awesome PPTs](/Specials/Collections/Awesome-PPTs.md)
       - [Awesome Sites](/Specials/Collections/Awesome-Sites.md)
     - Showcases
       - [Awesome Giants](/Specials/Showcases/Awesome-Giants.md)
