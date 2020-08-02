@@ -10,13 +10,53 @@
 
 - [2019-Firefly III #Project#](https://firefly-iii.org/about-general.html): “Firefly III” is a financial manager. It can help you keep track of expenses, income, budgets and everything in between. It even supports credit cards, shared household accounts and savings accounts! It’s pretty fancy. You should use it to save and organise money.
 
-# Awesome Extensions
-
 # IDE
 
 - [theia #Project#](https://github.com/eclipse-theia/theia): Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 
-# Chrome
+## VSCode
+
+- [ASCIIDecorator](https://marketplace.visualstudio.com/items?itemName=helixquar.asciidecorator): A VS Code extension that turns text to ASCII.
+
+### Workflow
+
+- [WakaTime for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime): Metrics, insights, and time tracking automatically generated from your programming activity.
+
+### JavaScript & Web
+
+### Java
+
+- [Checkstyle for Java](https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-checkstyle): Checkstyle extension for Visual Studio Code
+
+- [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug): A lightweight Java Debugger based on Java Debug Server which extends the Language Support for Java by Red Hat. It allows users to debug Java code using Visual Studio Code (VS Code).
+
+- [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java): Provides Java ™ language support via Eclipse ™ JDT Language Server, which utilizes Eclipse ™ JDT, M2Eclipse and Buildship.
+
+- [Lombok Annotations Support for VS Code](https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok): A lightweight extension to support Lombok annotations processing in Visual Studio Code
+
+- [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven): Manage maven projects, execute goals, generate project from archetype, improve user experience for Java developers.
+
+- [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack): Java Extension Pack is a collection of popular extensions that can help write, test and debug Java applications in Visual Studio Code. Check out Java in VS Code to get started.
+
+- [Java Test Runner](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test): A lightweight extension to run and debug Java test cases in Visual Studio Code. It works with Language Support for Java by Red Hat and Debugger for Java to provide the following features.
+
+- [Spring Initializr](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr): Spring Initializr is a lightweight extension to quickly generate a Spring Boot project in Visual Studio Code (VS Code).
+
+### Python & DataScienceAI
+
+### Other
+
+- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): Run code snippet or code file for multiple languages
+
+## Intellij
+
+- [google-java-format](https://github.com/google/google-java-format): google-java-format is a program that reformats Java source code to comply with Google Java Style.
+
+# Chrome Extensions & Apps
+
+- [谷粒 #Collection#](https://github.com/zhaoolee/ChromeAppHeroes): Chrome 插件英雄榜, 为优秀的 Chrome 插件写一本中文说明书, 让 Chrome 插件英雄们造福人类。
+
+- [2019-SingleFileZ #Project#](https://github.com/gildas-lormeau/SingleFileZ): SingleFileZ is a Web Extension for saving web pages as self-extracting HTML/ZIP hybrid files.
 
 - IE Tab: 仅支持 Windows 系统，能够在标签中以 IE 内核显示网页。
 
@@ -38,59 +78,9 @@
 
 - [Responsive Viewer](https://github.com/skmail/responsive-viewer): Chrome extension to show multiple screens in one view.
 
-# VSCode Extensions
+# Terminals
 
-- [ASCIIDecorator](https://marketplace.visualstudio.com/items?itemName=helixquar.asciidecorator): A VS Code extension that turns text to ASCII.
-
-## Workflow
-
-- [WakaTime for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime): Metrics, insights, and time tracking automatically generated from your programming activity.
-
-## JavaScript & Web
-
-## Java
-
-- [Checkstyle for Java](https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-checkstyle): Checkstyle extension for Visual Studio Code
-
-- [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug): A lightweight Java Debugger based on Java Debug Server which extends the Language Support for Java by Red Hat. It allows users to debug Java code using Visual Studio Code (VS Code).
-
-- [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java): Provides Java ™ language support via Eclipse ™ JDT Language Server, which utilizes Eclipse ™ JDT, M2Eclipse and Buildship.
-
-- [Lombok Annotations Support for VS Code](https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok): A lightweight extension to support Lombok annotations processing in Visual Studio Code
-
-- [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven): Manage maven projects, execute goals, generate project from archetype, improve user experience for Java developers.
-
-- [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack): Java Extension Pack is a collection of popular extensions that can help write, test and debug Java applications in Visual Studio Code. Check out Java in VS Code to get started.
-
-- [Java Test Runner](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test): A lightweight extension to run and debug Java test cases in Visual Studio Code. It works with Language Support for Java by Red Hat and Debugger for Java to provide the following features.
-
-- [Spring Initializr](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr): Spring Initializr is a lightweight extension to quickly generate a Spring Boot project in Visual Studio Code (VS Code).
-
-## Python & DataScienceAI
-
-## Other
-
-- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): Run code snippet or code file for multiple languages
-
-# Web Extension
-
-## Utils
-
-- [2019-SingleFileZ #Project#](https://github.com/gildas-lormeau/SingleFileZ): SingleFileZ is a Web Extension for saving web pages as self-extracting HTML/ZIP hybrid files.
-
-## Dev
-
-## Chrome Extensions
-
-# Intellij
-
-- [google-java-format](https://github.com/google/google-java-format): google-java-format is a program that reformats Java source code to comply with Google Java Style.
-
-# ZSH
-
-# Sketch
-
-- [Segmented circles #Project#](https://github.com/design4use/gb-sketch-segmentcircle): Sketch plugin creates circular graphics for diagrams, instrumentation and analytics.
+## ZSH
 
 # Deployment | 部署
 
@@ -99,7 +89,3 @@
 - [now.sh]()
 
 - [CaptainDuckDuck #Project#](https://github.com/githubsaturn/captainduckduck): Easiest app/database deployment platform and webserver package for your NodeJS, Python, Java applications. No Docker, nginx knowledge required!
-
-# Network Proxy
-
-- [Light Proxy #Project#](https://github.com/alibaba/lightproxy): 💎 Web debugging proxy with one-click certificate install & system proxy.

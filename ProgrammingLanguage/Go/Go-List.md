@@ -82,6 +82,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2017-Golang tutorial series by GolangBot.com](https://golangbot.com/learn-golang-series/)
 
+- [GolangTraining #Series#](https://github.com/GoesToEleven/GolangTraining): Training for Golang (go language)
+
 ## Course
 
 - [2018-Beginner Solutions in Go - The Basics, Clients, and Servers #Project#](https://parg.co/oZc)
