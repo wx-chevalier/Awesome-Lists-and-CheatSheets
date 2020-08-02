@@ -84,6 +84,8 @@
 
 - [OpenEBS #Project#](https://www.openebs.io/): OpenEBS is an open source storage platform that provides persistent and containerized block storage for DevOps and container environments.
 
+- [Cilium #Project#](https://github.com/cilium/cilium): Cilium is open source software for providing and transparently securing network connectivity and loadbalancing between application workloads such as application containers or processes.
+
 ## Storage
 
 - [Rook #Project#](https://github.com/rook/rook): Rook is an open source cloud-native storage orchestrator for Kubernetes, providing the platform, framework, and support for a diverse set of storage solutions to natively integrate with cloud-native environments.
@@ -109,8 +111,6 @@
 - [Fission #Project#](https://github.com/fission/fission): Fission is a fast serverless framework for Kubernetes with a focus on developer productivity and high performance.
 
 # Orchestration
-
-- [Cilium #Project#](https://github.com/cilium/cilium): Cilium is open source software for providing and transparently securing network connectivity and loadbalancing between application workloads such as application containers or processes.
 
 # Service Mesh
 

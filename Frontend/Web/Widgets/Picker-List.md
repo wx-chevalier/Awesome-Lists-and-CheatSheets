@@ -50,6 +50,8 @@
 
 - [2020-Edtr.io #Project#](https://edtr.io): Edtr.io is a WYSIWYG in-line web editor written in React. Content created with Edtr.io looks just like the final page - select any editable element on the page, edit it in-place or drag ’n’ drop it around.
 
+- [2020-Megadraft #Project#](https://github.com/globocom/megadraft): Rich Text editor built on top of Facebook's draft.js
+
 ## Spreadsheet
 
 - [x-spreadsheet #Project#](https://github.com/myliang/x-spreadsheet): A web-based JavaScript（canvas） spreadsheet.
