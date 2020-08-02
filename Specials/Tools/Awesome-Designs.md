@@ -1,5 +1,9 @@
 # 图片与录屏
 
+# Sketch
+
+- [Segmented circles #Project#](https://github.com/design4use/gb-sketch-segmentcircle): Sketch plugin creates circular graphics for diagrams, instrumentation and analytics.
+
 # 录屏与分享
 
 - [Kap #Project#](https://getkap.co/): Capture your screen, An open-source screen recorder built with web technology.

@@ -1,8 +1,14 @@
 # AI Examples | 示范
 
-- [2015-Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures): Lectures on scientific computing with python, as IPython notebooks.
-
 - [2017-All-in-one Docker image for Deep Learning #Project#](https://github.com/saiprashanths/dl-docker): An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
+
+# Pure Python
+
+- [2020-PRML #Project#](https://github.com/ctgk/PRML): Python codes implementing algorithms described in Bishop's book "Pattern Recognition and Machine Learning".
+
+# Scikit
+
+- [2015-Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures): Lectures on scientific computing with python, as IPython notebooks.
 
 - [2017-Top Deep Learning Projects #Project#](https://github.com/aymericdamien/TopDeepLearning): A list of popular github projects related to deep learning (ranked by stars).
 
@@ -12,11 +18,7 @@
 
 - [AI Playbook #Project#](http://aiplaybook.a16z.com/): This site is designed as a resource for anyone asking those questions, complete with examples and sample code to help you get started.
 
-# Scikit
-
 - [2019-Machine Learning Notebooks #Project#](https://github.com/ageron/handson-ml2): A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
-
-- [2020-PRML #Project#](https://github.com/ctgk/PRML): Python codes implementing algorithms described in Bishop's book "Pattern Recognition and Machine Learning".
 
 # TensorFlow
 

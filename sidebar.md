@@ -818,6 +818,7 @@
       - [Writing List](/Specials/Career/Writing-List.md)
     - Collections
       - [Awesome Blogs](/Specials/Collections/Awesome-Blogs.md)
+      - [Awesome CS Books](/Specials/Collections/Awesome-CS-Books.md)
       - [Awesome Codebases](/Specials/Collections/Awesome-Codebases.md)
       - [Awesome Collections](/Specials/Collections/Awesome-Collections.md)
       - [Awesome DataSets](/Specials/Collections/Awesome-DataSets.md)
@@ -829,9 +830,9 @@
       - [Awesome Giants](/Specials/Showcases/Awesome-Giants.md)
       - [Awesome Showcases](/Specials/Showcases/Awesome-Showcases.md)
     - [Tools](/Specials/Tools/README.md)
+      - [Awesome Designs](/Specials/Tools/Awesome-Designs.md)
       - [Awesome Devs](/Specials/Tools/Awesome-Devs.md)
       - [Awesome Documents](/Specials/Tools/Awesome-Documents.md)
-      - [Awesome Medias](/Specials/Tools/Awesome-Medias.md)
       - [Awesome Open APIs](/Specials/Tools/Awesome-Open-APIs.md)
       - [Awesome Productivity](/Specials/Tools/Awesome-Productivity.md)
       - [Workbench CheatSheet.en](/Specials/Tools/Workbench-CheatSheet.en.md)
