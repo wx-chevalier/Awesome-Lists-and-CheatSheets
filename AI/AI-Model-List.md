@@ -88,6 +88,8 @@
 
 - [Background Matting #Project#](https://github.com/senguptaumd/Background-Matting): The World is Your Green Screen.
 
+- [image-background-remove-tool #Project#](https://github.com/OPHoperHPO/image-background-remove-tool): 🥧 A tool for removing background from photos with neural networks 🥧。
+
 ## Object Detector
 
 - [yolov5 #Project#](https://github.com/ultralytics/yolov5): This repository represents Ultralytics open-source research into future object detection methods, and incorporates our lessons learned and best practices evolved over training thousands of models on custom client datasets with our previous YOLO repository.

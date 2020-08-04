@@ -158,6 +158,14 @@
       - [CodeStyle List](/Architecture/Refactor/CodeStyle-List.md)
       - [Refactor List](/Architecture/Refactor/Refactor-List.md)
       - [Refactor OpenSource List](/Architecture/Refactor/Refactor-OpenSource-List.md)
+    - SoftwareEngineering
+      - Git
+        - [Git List](/Architecture/SoftwareEngineering/Git/Git-List.md)
+        - [Git OpenSource List](/Architecture/SoftwareEngineering/Git/Git-OpenSource-List.md)
+        - [Git Workflow List](/Architecture/SoftwareEngineering/Git/Git-Workflow-List.md)
+        - [Github List](/Architecture/SoftwareEngineering/Git/Github-List.md)
+      - [Workflow List](/Architecture/SoftwareEngineering/Workflow-List.md)
+      - [Workflow OpenSource List](/Architecture/SoftwareEngineering/Workflow-OpenSource-List.md)
   - Backend
     - [Backend List](/Backend/Backend-List.md)
     - DevOps
@@ -262,6 +270,7 @@
       - [Finance List](/Business/Finance/Finance-List.md)
       - [Finance OpenSource List](/Business/Finance/Finance-OpenSource-List.md)
     - Industry
+      - [3DP List](/Business/Industry/3DP-List.md)
       - [Industrial Internet List](/Business/Industry/Industrial-Internet-List.md)
       - [Internet List](/Business/Industry/Internet-List.md)
     - Management
@@ -290,14 +299,6 @@
       - [Product List](/Business/Product/Product-List.md)
       - [Product OpenSource List](/Business/Product/Product-OpenSource-List.md)
       - [Vision List](/Business/Product/Vision-List.md)
-    - SoftwareEngineering
-      - Git
-        - [Git List](/Business/SoftwareEngineering/Git/Git-List.md)
-        - [Git OpenSource List](/Business/SoftwareEngineering/Git/Git-OpenSource-List.md)
-        - [Git Workflow List](/Business/SoftwareEngineering/Git/Git-Workflow-List.md)
-        - [Github List](/Business/SoftwareEngineering/Git/Github-List.md)
-      - [Workflow List](/Business/SoftwareEngineering/Workflow-List.md)
-      - [Workflow OpenSource List](/Business/SoftwareEngineering/Workflow-OpenSource-List.md)
   - Frontend
     - DataVis
       - 3D Format
