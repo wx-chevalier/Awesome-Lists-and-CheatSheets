@@ -8,14 +8,16 @@
 
 - [Raft 为什么是更易理解的分布式一致性算法](http://www.cnblogs.com/mindwind/p/5231986.html)
 
-- [a-brief-overview-of-the-raft-algorithm](http://blog.carlosgaldino.com/a-brief-overview-of-the-raft-algorithm.html)
+- [A brief overview of the Raft algorithm](http://blog.carlosgaldino.com/a-brief-overview-of-the-raft-algorithm.html): In the following sections you will learn more about consensus algorithms and how the Raft algorithm works.
 
 - [raft 原理(一)：选主与日志复制](http://www.tuicool.com/articles/aeiu2mm)
 
 - [如何基于 Raft 绕过分布式算法一致性的那些痛？(有彩蛋)](http://mp.weixin.qq.com/s/twCsA0CupyyDK_KtKmdQvQ))
 
+# Tutorials
+
 - [Raft, The Secret Lives of Data](http://thesecretlivesofdata.com/raft/): Understandable Distributed Consensus.
 
-# Implementation 
+# Implementation
 
-- [2020-Implementing Raft #Series#](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/): This is the first post in a multi-part series describing the Raft distributed consensus algorithm and its complete implementation in Go. 
+- [2020-Implementing Raft #Series#](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/): This is the first post in a multi-part series describing the Raft distributed consensus algorithm and its complete implementation in Go.
