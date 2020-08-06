@@ -70,6 +70,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [age #Project#](https://github.com/FiloSottile/age): A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
 
+- [Ciphey #Project#](https://github.com/Ciphey/Ciphey): Fully automated decryption tool using natural language processing & artifical intelligence, along with some common sense.
+
 # Vulns
 
 ## Payloads
