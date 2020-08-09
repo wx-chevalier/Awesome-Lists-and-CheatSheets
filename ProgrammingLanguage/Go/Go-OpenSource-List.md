@@ -118,6 +118,8 @@
 
 - [Go-Chassis #Project#](https://github.com/ServiceComb/go-chassis): Go-Chassis is a Software Development Kit(SDK) for rapid development of microservices in GoLang, providing service-discovery, fault-tolerance, circuit breaker, load balancing, monitoring, hot-reconfiguration features.
 
+- [Jupiter #Project#](https://github.com/douyu/jupiter): Jupiter 是斗鱼开源的面向服务治理的 Golang 微服务框架。
+
 ## WebSocket
 
 - [ws #Project#](https://github.com/gobwas/ws): Tiny WebSocket library for Go.
