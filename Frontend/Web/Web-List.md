@@ -74,6 +74,9 @@
 
 - [The Modern JavaScript Tutorial #Series#](https://github.com/javascript-tutorial/en.javascript.info): This repository hosts the English content of the Modern JavaScript Tutorial, published at https://javascript.info.
 
+- [2020-React JS Tutorial: Building Firebase Chat App (React Hooks)](https://www.djamware.com/post/5f2a1d9d9c794f177fd7b527/react-js-tutorial-building-firebase-chat-app-react-hooks#.Xyoht_6g7c8.reddit): The comprehensive step by step React JS tutorial on building React Firebase chat web application (React Hooks).
+
+
 # Interview | 面试
 
 - [2017-Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook): Almost complete answers to "Front-end Job Interview Questions"
