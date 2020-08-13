@@ -826,7 +826,6 @@
       - [Awesome DataVis Collections](/Specials/Collections/Awesome-DataVis-Collections.md)
       - [Awesome Designs](/Specials/Collections/Awesome-Designs.md)
       - [Awesome Names](/Specials/Collections/Awesome-Names.md)
-      - [Awesome Sites](/Specials/Collections/Awesome-Sites.md)
     - Showcases
       - [Awesome Giants](/Specials/Showcases/Awesome-Giants.md)
       - [Awesome Showcases](/Specials/Showcases/Awesome-Showcases.md)
@@ -836,6 +835,7 @@
       - [Awesome Documents](/Specials/Tools/Awesome-Documents.md)
       - [Awesome Open APIs](/Specials/Tools/Awesome-Open-APIs.md)
       - [Awesome Productivity](/Specials/Tools/Awesome-Productivity.md)
+      - [Awesome Sites](/Specials/Tools/Awesome-Sites.md)
       - [Workbench CheatSheet.en](/Specials/Tools/Workbench-CheatSheet.en.md)
       - [Workbench CheatSheet](/Specials/Tools/Workbench-CheatSheet.md)
     - [Weekly](/Specials/Weekly/README.md)

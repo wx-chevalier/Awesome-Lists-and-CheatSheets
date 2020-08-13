@@ -2,7 +2,7 @@
 
 # Note Taking App
 
-- [Trilium #Project#](https://github.com/zadam/trilium): Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. 
+- [Trilium #Project#](https://github.com/zadam/trilium): Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
 
 # Editor
 
@@ -17,6 +17,10 @@
 - [Wiki.js #Project#](https://github.com/Requarks/wiki): A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown.
 
 - [Realms Wiki Beta #Project#](https://github.com/scragg0x/realms-wiki): Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger. Basic authentication and registration included.
+
+## CLI
+
+- `"/System/Library/Automator/Combine PDF Pages.action/Contents/Resources/join.py" -o PATH/TO/YOUR/MERGED/FILE.pdf /PATH/TO/ORIGINAL/1.pdf /PATH/TO/ANOTHER/2.pdf /PATH/TO/A/WHOLE/DIR/*.pdf`
 
 # Presentation
 
@@ -88,6 +92,6 @@
 
 - [Paged.js #Project#](https://www.pagedjs.org/): Paged.js is a free and open-source library that paginates any HTML content to produce beautiful print-ready PDF. The library fragments the content, reads your CSS print declarations and presents a paginated preview in your browser that you can save as PDF.
 
-# Resume 
+# Resume
 
-- [Reactive Resume](https://rx-resume.web.app/): 
+- [Reactive Resume](https://rx-resume.web.app/):

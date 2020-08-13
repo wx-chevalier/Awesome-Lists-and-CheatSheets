@@ -120,6 +120,8 @@
 
 - [Service Fabric #Project#](https://github.com/Microsoft/service-fabric): Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
 
+- [Open Service Mesh #Project#](https://github.com/openservicemesh/osm): Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
+
 ## Sidecar
 
 - [Envoy #Project#](https://www.envoyproxy.io/): Envoy is an OpenSource Egde and Service Proxy, Design for Cloud-Native Applications.

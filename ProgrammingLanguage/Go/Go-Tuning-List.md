@@ -1,5 +1,7 @@
 # Go Tuning List
 
+- [2020-技术分享之 golang 构建分布式任务系统](http://xiaorui.cc/archives/6955): 如何使用 golang 构建一个分布式的任务系统 ? 该任务系统搞了几个月，有一些经验心得分享给大家。
+
 # Performance Optimization | 性能优化
 
 - [go-perfbook](https://github.com/dgryski/go-perfbook): The first sections cover writing optimized code in any language. The later sections cover Go-specific techniques.

@@ -2,17 +2,13 @@
 
 # InfoSecurity & Penetration List
 
-- [List of resources about programming practices for writing safety-critical software. ](https://github.com/stanislaw/awesome-safety-critical)
-
-- [Security 101 for SaaS startups](https://github.com/forter/security-101-for-saas-startups): Things I wish my first boss had told me
-
 - [[ 译 ] Web Hacking 101 中文版](https://github.com/wizardforcel/web-hacking-101-zh)
 
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking#awesome-fuzzing): 一系列对于 Hack 安全资料的搜集
 
 - [国外最佳互联网安全博客 TOP 30](https://jaq.alibaba.com/community/art/show?articleid=601&f=tt)
 
-- [The Social-Engineer Toolkit ](https://github.com/trustedsec/social-engineer-toolkit): 一系列仅用于测试用途的社会工程工具
+- [The Social-Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit): 一系列仅用于测试用途的社会工程工具
 
 - [进攻即是最好的防御！19 个练习黑客技术的在线网站](https://zhuanlan.zhihu.com/p/24624347)
 
@@ -24,13 +20,13 @@
 
 - [2017-A penetration tester’s guide to sub-domain enumeration](https://parg.co/U6Y)
 
-- [awesome penetration testing](https://github.com/enaqx/awesome-pentest): 一系列关于渗透测试相关的资料的搜集
+# Overview
 
-- [Penetration Testing/Security Cheatsheets](https://github.com/jshaw87/Cheatsheets): 渗透测试与安全 Cheatsheet
+- [How to systematically secure anything](https://github.com/veeral-patel/how-to-secure-anything): How to systematically secure anything: a repository about security engineering.
 
 - [各种安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map)
 
-- [兜哥系列丛书](https://github.com/duoergun0729): Web 安全之机器学习入门/Web 安全之深度学习实战/Web 安全之强化学习与 GAN 系列
+- [Security 101 for SaaS startups](https://github.com/forter/security-101-for-saas-startups): Things I wish my first boss had told me
 
 # Resource
 
@@ -38,7 +34,13 @@
 
 - [Reverse Engineering for Beginners #Book#](https://beginners.re/): 适合作为逆向入门书籍，而且里面覆盖的范围更广，包括了 x86/x64，arm 两三种 CPU 的指令集，而且囊括了 Linux 和 Windows 的 OS hack 等内容，各种逆向工具也都介绍了一番。
 
+- [兜哥系列丛书 #Book#](https://github.com/duoergun0729): Web 安全之机器学习入门/Web 安全之深度学习实战/Web 安全之强化学习与 GAN 系列
+
 ## Collection
+
+- [awesome penetration testing #Collection#](https://github.com/enaqx/awesome-pentest): 一系列关于渗透测试相关的资料的搜集
+
+- [List of resources about programming practices for writing safety-critical software. #Collection#](https://github.com/stanislaw/awesome-safety-critical)
 
 ## Course
 
@@ -53,3 +55,7 @@
 - [2018-Kali Linux: Social Engineering Toolkit](https://linuxhint.com/kali-linux-set/): In this post i am going to show you the simple scenario of how to implement Social Engineering Attack in daily life.
 
 - [CTF Wiki #Series#](https://ctf-wiki.github.io/ctf-wiki/): 作为一个自由的站点，围绕 CTF 近几年赛题，CTF Wiki 对 CTF 中的各个方向的知识和技术进行介绍，以便于初学者更好地学习 CTF 相关的知识。
+
+## CheatSheet
+
+- [Penetration Testing/Security Cheatsheets](https://github.com/jshaw87/Cheatsheets): 渗透测试与安全 Cheatsheet
