@@ -2,6 +2,10 @@
 
 - [从「物种起源」到「设计进化论」- 阿里云设计语言哲思](https://mp.weixin.qq.com/s/5igGdK5B-UxiY64WDDFD2w): 从「物种起源」到「设计进化论」- 阿里云设计语言哲思。
 
+# UX
+
+- [Laws of UX](https://lawsofux.com/)
+
 # 2C
 
 # 2B
