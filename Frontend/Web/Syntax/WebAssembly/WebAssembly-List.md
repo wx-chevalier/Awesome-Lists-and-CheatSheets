@@ -50,6 +50,8 @@
 
 - [2018-Our Vision for Rust and WebAssembly](https://rustwasm.github.io/2018/06/25/vision-for-rust-and-wasm.html): In a series of follow up posts, we will talk about the next steps for each major component of the Rust and WebAssembly ecosystem.
 
+- [Rust 🦀 and WebAssembly 🕸 #Series#](https://rustwasm.github.io/book/introduction.html): This small book describes how to use Rust and WebAssembly together.
+
 ## Go
 
 ## C

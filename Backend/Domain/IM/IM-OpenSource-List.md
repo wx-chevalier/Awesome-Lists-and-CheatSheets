@@ -22,7 +22,7 @@
 
 - [RealtimeChat #Project#](https://github.com/relatedcode/RealtimeChat): Open source, native iOS Messenger, with audio/video calls and realtime chat conversations (full offline support).
 
-## Conference 
+## Conference
 
 - [Jitsi Meet #Project#](https://meet.jit.si): Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 
@@ -44,13 +44,13 @@
 
 # Live
 
-- [2014-Simple RTMP Server #Project#](https://github.com/ossrs/srs): SRS's a simplest, conceptual integrated, industrial-strength live streaming origin cluster.
-
 - [2017-video streaming service #Project#](https://github.com/tabvn/video-streaming-service): Build Live Video Streaming Server use Ffmpeg Nginx Rtmp Module & Nodejs
 
 - [LiveGo #Project#](https://github.com/gwuhaolin/livego): 纯 Go 写的直播服务器
 
 - [Live #Project#](https://github.com/ltebean/Live): Demonstrate how to build a live broadcast app.
+
+- [2014-Simple RTMP Server #Project#](https://github.com/ossrs/srs): SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
 
 ## HLS
 

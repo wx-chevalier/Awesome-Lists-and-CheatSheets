@@ -812,7 +812,6 @@
   - [README en](/README-en.md)
   - Specials
     - Career
-      - [Build Your Own](/Specials/Career/Build-Your-Own.md)
       - [Coding as Vetren](/Specials/Career/Coding-as-Vetren.md)
       - [Guides](/Specials/Career/Guides.md)
       - [Startup Stories](/Specials/Career/Startup-Stories.md)
@@ -826,6 +825,7 @@
       - [Awesome DataVis Collections](/Specials/Collections/Awesome-DataVis-Collections.md)
       - [Awesome Designs](/Specials/Collections/Awesome-Designs.md)
       - [Awesome Names](/Specials/Collections/Awesome-Names.md)
+      - [Build Your Own](/Specials/Collections/Build-Your-Own.md)
     - Showcases
       - [Awesome Giants](/Specials/Showcases/Awesome-Giants.md)
       - [Awesome Showcases](/Specials/Showcases/Awesome-Showcases.md)

@@ -1,5 +1,17 @@
 # Visual Builder List | 可视化构建
 
+# Overview
+
+## Case Study
+
+- [2019-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742): 本文将以概览性的视角来介绍云凤蝶在 低代码+可视化搭建这条路上遇到的问题与解决方案。
+
+## Component Specification
+
+- [2019-WeComponents #Project#](https://github.com/Tencent/WeComponents): WeComponents 是一个基于通用组件语言规范 (CLS) 实现的 Vue.js 声明式组件库，写完 JSON 就做好了页面，让开发变得简单。
+
+# Page Builder
+
 - [2015-react-ui-builder #Project#](https://github.com/Dmytro-Medzatiy/react-ui-builder): This tool is a visual builder of React JS components for your web application. In builder you can easily combine available components with each other, and see how they look and feel right on a web page.
 
 - [2016-Structor #Project#](https://github.com/ipselon/structor): Install Components > Prototype UI > Generate Source Code > Build Application.
@@ -14,19 +26,11 @@
 
 - [2020-Animockup #Project#](https://github.com/alyssaxuu/animockup): Create animated mockups on the browser 🔥
 
-- [BuildIO/builder](https://github.com/BuilderIO/builder): Drag and drop page building using your code components.
+- [BuildIO/builder #Project#](https://github.com/BuilderIO/builder): Drag and drop page building using your code components.
 
-- [craft.js](https://github.com/prevwong/craft.js): 🚀 A React Framework for building extensible drag and drop page editors .
+- [craft.js #Project#](https://github.com/prevwong/craft.js): 🚀 A React Framework for building extensible drag and drop page editors .
 
-- [react-visual-editor](https://github.com/anye931123/react-visual-editor): 基于 React 的可视化编辑,组件自由拖拽，dom 实时追踪，组件无限制嵌套组合，不添加多余节点，可完美还原 UI 设计，多平台支持，代码生成，实时预览。
-
-# Case Study
-
-- [2019-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742): 本文将以概览性的视角来介绍云凤蝶在 低代码+可视化搭建这条路上遇到的问题与解决方案。
-
-# Component Specification
-
-- [2019-WeComponents #Project#](https://github.com/Tencent/WeComponents): WeComponents 是一个基于通用组件语言规范 (CLS) 实现的 Vue.js 声明式组件库，写完 JSON 就做好了页面，让开发变得简单。
+- [react-visual-editor #Project#](https://github.com/anye931123/react-visual-editor): 基于 React 的可视化编辑,组件自由拖拽，dom 实时追踪，组件无限制嵌套组合，不添加多余节点，可完美还原 UI 设计，多平台支持，代码生成，实时预览。
 
 # Visually Selector
 

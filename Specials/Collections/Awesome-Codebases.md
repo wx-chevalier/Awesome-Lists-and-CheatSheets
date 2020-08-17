@@ -28,6 +28,12 @@ Awesome Codebases 收藏了哪些设计，代码风格，或者架构优美的�
 
 - [DevHub #Project#](https://github.com/devhubapp/devhub): GitHub Notifications Manager & Activity Watcher - Web, Mobile & Desktop
 
+# Build Your Own
+
+## Web
+
+- [kosmonaut #Project#](https://github.com/twilco/kosmonaut): A web browser engine for the space age 🚀
+
 # 链接
 
 - https://news.ycombinator.com/item?id=20556336

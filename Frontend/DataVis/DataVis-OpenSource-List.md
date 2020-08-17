@@ -109,8 +109,6 @@
 
 - [2018-rete #Project#](https://github.com/retejs/rete): JavaScript framework for visual programming and creating node editor.
 
-- [drawio #Project#](https://github.com/jgraph/drawio): draw.io is an online diagramming web site that delivers the source in this project.
-
 - [floweditor #Project#](https://github.com/nyaruka/floweditor): Standalone flow editing tool designed for use within the RapidPro suite of messaging tools.
 
 ## Map | 地图

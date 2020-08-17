@@ -40,7 +40,7 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2016-Algorithm Cookbook in Rust #Book#](https://github.com/EbTech/rust-algorithms): A collection of classic data structures and algorithms, emphasizing beauty and clarity over full generality.
 
-- [2016-Rust-101](https://www.ralfj.de/projects/rust-101/main.html): This is Rust-101, a small tutorial for the Rust language. It is intended to be an interactive, hands-on course: I believe the only way to really learn a language is to write code in it, so you should be coding during the course.
+- [2016-Rust 101 #Book#](https://www.ralfj.de/projects/rust-101/main.html): This is Rust-101, a small tutorial for the Rust language. It is intended to be an interactive, hands-on course: I believe the only way to really learn a language is to write code in it, so you should be coding during the course.
 
 - [2017-Programming Rust #Book#](https://parg.co/UPe): This practical book introduces systems programmers to Rust, the new and cutting-edge language. You’ll learn how Rust offers the rare and valuable combination of statically verified memory safety and low-level control—imagine C++, but without dangling pointers, null pointer dereferences, leaks, or buffer overruns.
 
@@ -56,10 +56,6 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [TP 202: Distributed Systems in Rust #Course#](https://github.com/pingcap/talent-plan/). Adapted from the [MIT 6.824](http://nil.csail.mit.edu/6.824/2017/index.html) distributed systems coursework, this course focuses on implementing important distributed algorithms, including the [Raft](https://raft.github.io/) consensus algorithm, and the [Percolator](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf) distributed transaction protocol.
 
-## Series
-
-- [2018-Writing an OS in Rust #Series#](https://os.phil-opp.com/): This blog series creates a small operating system in the Rust programming language. Each post is a small tutorial and includes all needed code, so you can follow along if you like.
-
 # Tutorial
 
 - [2018-Learning Rust](https://learning-rust.github.io/): Installation, Hello World, Cargo, Crates, Variable bindings, Functions, Primitive Data Types, Operators & Control Flows.
@@ -71,3 +67,7 @@ This file aggregates curated popular links for learning Rust. More reference abo
 - [2017-Rust CheatSheet](http://phaiax.github.io/rust-cheatsheet/)
 
 - [2019-Five minutes Rust](https://github.com/ankur-anand/five-min-rust): Rust concise 5 Minutes cheat-sheet for each concepts.
+
+## Series
+
+- [2018-Writing an OS in Rust #Series#](https://os.phil-opp.com/): This blog series creates a small operating system in the Rust programming language. Each post is a small tutorial and includes all needed code, so you can follow along if you like.

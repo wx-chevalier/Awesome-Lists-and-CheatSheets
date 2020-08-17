@@ -116,6 +116,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [weakfilescan #Project#](https://github.com/ring04h/weakfilescan): 基于爬虫，动态收集扫描目标相关信息后进行二次整理形成字典规则，利用动态规则的多线程敏感信息泄露检测工具，支持多种个性化定制选项。
 
+- [Sherlock #Project#](https://github.com/sherlock-project/sherlock): 🔎 Hunt down social media accounts by username across social networks.
+
 ### Sub Domain
 
 - [wydomain #Project#](https://github.com/ring04h/wydomain): To Discover Subdomains Of Your Target Domain
