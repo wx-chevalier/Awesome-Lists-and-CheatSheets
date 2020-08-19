@@ -466,6 +466,7 @@
       - [Web List](/Frontend/Web/Web-List.md)
       - [Web OpenSource List](/Frontend/Web/Web-OpenSource-List.md)
       - [Widgets](/Frontend/Web/Widgets/README.md)
+        - [Editor List](/Frontend/Web/Widgets/Editor-List.md)
         - [Feedback List](/Frontend/Web/Widgets/Feedback-List.md)
         - [Gallery List](/Frontend/Web/Widgets/Gallery-List.md)
         - [General List](/Frontend/Web/Widgets/General-List.md)
