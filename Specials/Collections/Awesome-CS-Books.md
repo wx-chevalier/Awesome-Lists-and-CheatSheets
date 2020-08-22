@@ -1,5 +1,13 @@
 # Awesome CS Books
 
+# 书籍搜索
+
+- 鸠摩搜索 http://t.cn/RG07GHI
+
+- 布克书屋 http://t.cn/AiEso12y
+
+- 三秋书屋 http://t.cn/AiQ0uTv9
+
 - [2004-SICP, Structure and Interpretation of Computer Programs #Book#](http://sarabander.github.io/sicp/html/index.xhtml): 中文名为《计算机程序的构造和解释》哪怕过了 30 年在知识爆炸各种新技术层出不穷的今天，书中的内容不但没有过期而依然保持高价值，因为它讲的不是术而是道，即不是某一项具体的技术，而是通过 Scheme 这门 Lisp 方言和相关的例子，解释了计算机程序的本质和特征。
 
 - [2008-Clean Code: A Handbook of Agile Software Craftsmanship](http://6me.us/cA697D): 中文译名[代码整洁之道](https://book.douban.com/subject/3892588/)。

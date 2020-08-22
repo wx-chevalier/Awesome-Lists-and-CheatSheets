@@ -11,6 +11,8 @@
 ## Book
 
 - [2012-Advanced Bash-Scripting Guide #Book#](https://www.aquaclusters.com/app/home/project/public/Advanced-Bash-Scripting-Guide-1/wikibook/Advanced-Bash-Scripting-Guide/page/0/Advanced-Bash-Scripting-Guide): An in-depth exploration of the art of shell scripting.
+    
+# Tutorials
 
 ## Playground
 

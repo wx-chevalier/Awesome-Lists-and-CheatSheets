@@ -62,6 +62,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2019-For learning Go Tutorial #Book](https://github.com/KeKe-Li/For-learning-Go-Tutorial): 准备写一本 Go 的书针对初学者快速入门开发和使用 go！
 
+- [2020-Go语言101 #Project#](https://github.com/golang101/golang101): 一本侧重于Go语言语法和语义的编程解释和指导书。
+
 ## Blog
 
 - [Draveness's Blog #Blog#](https://draveness.me): 非常不错的 Go 系列博客。

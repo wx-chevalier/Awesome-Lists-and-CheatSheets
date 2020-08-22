@@ -40,6 +40,10 @@
 
 - [2019-Jupytext #Project#](https://github.com/mwouts/jupytext): Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts.
 
+## Utils
+
+- [2020-Otto #Project#](https://github.com/KartikChugh/Otto): Otto is an intelligent chat application, designed to help aspiring machine learning engineers go from idea to implementation with minimal domain knowledge. 
+
 # Data Analysis
 
 - [2019-metaflow #Project#](https://github.com/Netflix/metaflow): Build and manage real-life data science projects with ease.
@@ -139,6 +143,8 @@
 - [Tess4j #Project#](https://github.com/nguyenq/tess4j): Java JNA wrapper for Tesseract OCR API.
 
 - [2018-alpr-unconstrained](https://github.com/sergiomsilva/alpr-unconstrained): License Plate Detection and Recognition in Unconstrained Scenarios.
+
+- [2020-PaddleOCR #Project#](https://github.com/PaddlePaddle/PaddleOCR): PaddleOCR aims to create rich, leading, and practical OCR tools that help users train better models and apply them into practice.
 
 ## Object Detection
 

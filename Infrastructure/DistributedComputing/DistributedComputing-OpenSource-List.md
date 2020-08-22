@@ -20,6 +20,10 @@
 
 - [2018-TubeMQ #Project#](https://github.com/Tencent/TubeMQ): TubeMQ focuses on high-performance storage and transmission of massive data in big data scenarios
 
+## Kafka
+
+- [Kowl #Project#](https://github.com/cloudhut/kowl): Kowl (previously known as Kafka Owl) is a web application that helps you to explore messages in your Apache Kafka cluster and get better insights on what is actually happening in your Kafka cluster in the most comfortable way.        
+
 # Processing Engine
 
 - [hazelcast-jet #Project#](https://github.com/hazelcast/hazelcast-jet): A general purpose distributed data processing engine, built on top of Hazelcast.

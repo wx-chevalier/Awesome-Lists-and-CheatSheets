@@ -40,6 +40,8 @@
 
 - [The Basics of Package.json in Node.js and npm](http://6me.us/zFEia8)
 
+- [2020-Node.js结合ProtoBuffer,从零实现一个redis](https://mp.weixin.qq.com/s/SG9-dr7Y4Hj52oJN8I1tVw)
+
 ## NPM
 
 - [NodeJS 包管理工具 ——npm 入门](http://aerotiger.info/archives/beginners-guide-node-package-manager.html)
