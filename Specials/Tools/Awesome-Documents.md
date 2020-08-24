@@ -4,6 +4,12 @@
 
 - [Trilium #Project#](https://github.com/zadam/trilium): Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
 
+## Knowledge Management
+
+- [Foam #Project#](https://github.com/foambubble/foam): A personal knowledge management and sharing system for VSCode.
+
+- [Archivy #Project#](https://github.com/Uzay-G/archivy): Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
+
 # Editor
 
 ## Todo Notes
