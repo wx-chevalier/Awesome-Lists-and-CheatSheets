@@ -126,6 +126,8 @@
 
 - [MeiliSearch #Project#](https://github.com/meilisearch/MeiliSearch): MeiliSearch is a powerful, fast, open-source, easy to use and deploy search engine. Both searching and indexing are highly customizable.
 
+- [Typesense #Project#](https://github.com/typesense/typesense): Typesense is a fast, typo-tolerant search engine for building delightful search experiences.
+
 ## MongoDB
 
 - [MemDB #Project#](https://github.com/rain1017/memdb): Distributed Transactional In-Memory Database.

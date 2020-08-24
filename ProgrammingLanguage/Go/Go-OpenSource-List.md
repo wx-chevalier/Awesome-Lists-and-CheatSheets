@@ -112,6 +112,8 @@
 
 - [Sniper #Project#](https://github.com/bilibili/sniper/): 轻量级业务框架。
 
+- [Fiber #Project#](https://github.com/gofiber/fiber): Fiber is an Express inspired web framework build on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
+
 ## MicroService
 
 - [go-kit #Project#](https://github.com/go-kit): A Go toolkit for microservices.
