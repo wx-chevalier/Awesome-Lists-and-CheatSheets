@@ -22,7 +22,7 @@
 
 - [2015-Udacity-Intro to Artificial Intelligence #Course#](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271): In this course, you’ll learn the basics of modern AI as well as some of the representative applications of AI. Along the way, we also hope to excite you about the numerous applications and huge possibilities in the field of AI, which continues to expand human capability beyond our imagination.
 
-- [2016-台大机器学习技法 #Course#](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2): Linear Support Vector Machine (SVM) :: Course Introduction @ Machine Learning Techniques, etc.
+- [2016-台大机器学习技法 #Course#](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2): Linear Support Vector Machine (SVM)::Course Introduction @ Machine Learning Techniques, etc.
 
 - [2017-EdX-Artificial Intelligence (AI) #Course#](https://parg.co/Y64): Learn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems.
 
