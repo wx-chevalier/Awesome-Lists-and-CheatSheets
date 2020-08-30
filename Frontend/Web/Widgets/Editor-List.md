@@ -26,7 +26,15 @@
 
 # Spreadsheet
 
+- [sheetjs #Project#](https://github.com/SheetJS/sheetjs): 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+
 - [x-spreadsheet #Project#](https://github.com/myliang/x-spreadsheet): A web-based JavaScript（canvas） spreadsheet.
+
+- [jExcel #Project#](https://github.com/paulhodel/jexcel): jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
+
+- [exceljs #Project#](https://github.com/exceljs/exceljs): Read, manipulate and write spreadsheet data and styles to XLSX and JSON.
+
+## Article
 
 - [2020-语雀在线表格自研之路](https://mp.weixin.qq.com/s/SiwlayY5qYrAAQZg7Ovaeg): 语雀一直很看中创作体验，所以我们在编辑器这个领域一直持续的投入研发，不断迭代，今天要介绍的就是我们自主研发的在线电子表格。
 

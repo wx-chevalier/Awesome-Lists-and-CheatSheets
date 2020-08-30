@@ -48,6 +48,10 @@
 
 - [c9-python-getting-started #Course#](https://github.com/microsoft/c9-python-getting-started): The series of videos on Channel 9 is designed to help get you up to speed on Python.
 
+## Series
+
+- [2020-Learn Python 3 #Series#](https://github.com/jerry-git/learn-python3): This repository contains a collection of materials for teaching/learning Python 3 (3.5+).
+
 # Tutoria | 教程
 
 - [2017-Python for JavaScript Developers](https://dev.to/underdogio/python-for-javascript-developers): To serve as a quick guide for JavaScript developers who want to get up to speed quickly with Python, but without having to learn what declaring a variable means or what a function is.
