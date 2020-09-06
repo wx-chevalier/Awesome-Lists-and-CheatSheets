@@ -1,8 +1,10 @@
 # Awesome Open APIs
 
-# API Management 
+# API Management
 
 - [Apifox #Project#](https://www.apifox.cn/): 接口文档、调试、Mock、自动化测试，提升 10 倍效率！
+
+- [hoppscotch #Project#](https://github.com/hoppscotch/hoppscotch): About 👽 A free, fast and beautiful API request builder used by 75k+ developers.
 
 # Collection
 

@@ -42,6 +42,8 @@
 
 - [qrcp #Project#](https://github.com/claudiodangelis/qrcp): ⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 
+- [croc #Project#](https://github.com/schollz/croc): Easily and securely send things from one computer to another 🐊 📦
+
 # Remote Control
 
 - [xrdp #Project#](https://github.com/neutrinolabs/xrdp): xrdp provides a graphical login to remote machines using Microsoft Remote Desktop Protocol (RDP).
