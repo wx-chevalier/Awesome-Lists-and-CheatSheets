@@ -99,10 +99,14 @@ UI 设计的主要工作都包括进去了，如果能够将这三本书很好�
 
 - [一条视频告诉你：排版的重要性](https://video.h5.weibo.cn/1034:4504897031176213/4504907011729857)
 
-# Enterprise Design
+# Enterprise Design（商业设计）
 
 - [2018-How white space killed an enterprise app (and why data density matters)](https://uxdesign.cc/how-white-space-killed-an-enterprise-app-and-why-data-density-matters-b3afad6a5f2a)
 
 - [2014-Steve-Don’t Make Me Think, Revisited #Book#](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf): A Common Sense Approach to Web Usability.
 
 - [2017-The Design of Everyday Things #Book#](http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf): This is a starter kit for good design. It is intended to be enjoyable and informative for everyone: everyday people, technical people, designers, and nondesigners.
+
+# 色彩搭配
+
+- [2020-How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/): Common color mistakes and how to avoid them.
