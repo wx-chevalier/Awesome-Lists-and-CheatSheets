@@ -33,3 +33,7 @@
 - [2018-Surviving the TypeScript Ecosystem #Series#](https://medium.com/@KevinBGreene/surviving-the-typescript-ecosystem-writing-type-safe-ish-javascript-code-1e8375819d2e): I won’t be explaining anything around the JavaScript ecosystem and I won’t be covering with any depth TypeScript features that are intuitive and/or consistent with other statically-typed languages.
 
 - [2019-TypeScript Evolution #Series#](https://mariusschulz.com/blog/series/typescript-evolution): The TypeScript Evolution series consists of 40 posts.
+
+## Advanced Types
+
+- [type-challenges](https://github.com/type-challenges/type-challenges): Collection of TypeScript type challenges with online judge.
