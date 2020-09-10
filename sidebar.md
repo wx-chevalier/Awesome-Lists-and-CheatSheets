@@ -120,7 +120,6 @@
           - [TFjs List](/AI/Toolkit/Framework/TensorFlow/TFjs-List.md)
           - [TensorFlow Internals List](/AI/Toolkit/Framework/TensorFlow/TensorFlow-Internals-List.md)
           - [TensorFlow List](/AI/Toolkit/Framework/TensorFlow/TensorFlow-List.md)
-          - [TensorFlow OpenSource List](/AI/Toolkit/Framework/TensorFlow/TensorFlow-OpenSource-List.md)
       - Platform
         - [Platform List](/AI/Toolkit/Platform/Platform-List.md)
   - Architecture

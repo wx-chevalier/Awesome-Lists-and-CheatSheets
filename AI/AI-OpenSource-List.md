@@ -24,6 +24,18 @@
 
 - [2020-MegEngine #Project#](https://github.com/MegEngine/MegEngine): MegEngine 是一个快速、可拓展、易于使用且支持自动求导的数值计算框架。
 
+### TensorFlow
+
+- [tensorflow-playground](https://github.com/tensorflow/playground): Play with neural networks!
+
+- [Sonnet #Project#](https://github.com/deepmind/sonnet): Sonnet is a library built on top of TensorFlow for building complex neural networks.
+
+- [TFLearn](https://github.com/tflearn/tflearn): Deep learning library featuring a higher-level API for TensorFlow.
+
+### PyTorch
+
+- [PyTorch Lightning #Project#](https://github.com/PyTorchLightning/pytorch-lightning): The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+
 ## Visualization
 
 - [TensorSpace.js #Project#](https://github.com/tensorspace-team/tensorspace): Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
@@ -42,7 +54,7 @@
 
 ## Utils
 
-- [2020-Otto #Project#](https://github.com/KartikChugh/Otto): Otto is an intelligent chat application, designed to help aspiring machine learning engineers go from idea to implementation with minimal domain knowledge. 
+- [2020-Otto #Project#](https://github.com/KartikChugh/Otto): Otto is an intelligent chat application, designed to help aspiring machine learning engineers go from idea to implementation with minimal domain knowledge.
 
 # Data Analysis
 
