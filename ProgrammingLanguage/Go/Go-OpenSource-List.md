@@ -114,6 +114,8 @@
 
 - [Fiber #Project#](https://github.com/gofiber/fiber): Fiber is an Express inspired web framework build on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
 
+- [go-zero #Project#](https://github.com/tal-tech/go-zero): go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+
 ## MicroService
 
 - [go-kit #Project#](https://github.com/go-kit): A Go toolkit for microservices.

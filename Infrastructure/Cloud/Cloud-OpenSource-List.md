@@ -80,6 +80,8 @@
 
 - [Gatekeeper #Project#](https://github.com/open-policy-agent/gatekeeper): Gatekeeper - Policy Controller for Kubernetes -
 
+- [Kubernetes API Gateway #Project#](https://www.getambassador.io/products/edge-stack/api-gateway/): The Ambassador API Gateway delivers the scalability, security, and simplicity for some of the world's largest Kubernetes installations.
+
 ## Network
 
 - [OpenEBS #Project#](https://www.openebs.io/): OpenEBS is an open source storage platform that provides persistent and containerized block storage for DevOps and container environments.
