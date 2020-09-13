@@ -4,6 +4,10 @@
 
 # Overview
 
+- [2020-云原生时代消息中间件的演进路线](https://mp.weixin.qq.com/s/b3YGm8uMuOZNRhZdA7egSQ): 本文整理自作者于 2020 年云原生微服务大会上的分享《云原生时代的消息中间件演进》，主要探讨了传统的消息中间件如何持续进化为云原生的消息服务。
+
+# Resource
+
 ## Book
 
 - [2017-Understanding Message Brokers #Book#](https://learning.oreilly.com/library/view/understanding-message-brokers/9781492049296/): Messaging is one of the more poorly understood areas of IT; most developers and architects have only a passing familiarity with how broker-based messaging technologies work. This practical report not only helps you get up to speed on the essentials of messaging, but also compares two of today’s most popular messaging technologies—Apache ActiveMQ and Apache Kafka.
