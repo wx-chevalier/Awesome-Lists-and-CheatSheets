@@ -52,6 +52,8 @@
 
 - [2020-Learn Python 3 #Series#](https://github.com/jerry-git/learn-python3): This repository contains a collection of materials for teaching/learning Python 3 (3.5+).
 
+- [2020-Ultimate Python study guide #Series#](https://github.com/huangsam/ultimate-python): Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍
+
 # Tutoria | 教程
 
 - [2017-Python for JavaScript Developers](https://dev.to/underdogio/python-for-javascript-developers): To serve as a quick guide for JavaScript developers who want to get up to speed quickly with Python, but without having to learn what declaring a variable means or what a function is.

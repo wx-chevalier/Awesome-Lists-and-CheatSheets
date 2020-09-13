@@ -52,11 +52,11 @@
 
 ## Collection | 集合
 
-- [人工智能从入门到进阶，机器之心高分技术文章全集](http://mp.weixin.qq.com/s/o6egF1_usHSXZCZJ1RTfhQ)
+- [人工智能从入门到进阶，机器之心高分技术文章全集 #Collection#](http://mp.weixin.qq.com/s/o6egF1_usHSXZCZJ1RTfhQ)
 
-- [Distill](http://distill.pub/): The web is a powerful medium to share new ways of thinking.
+- [Distill #Collection#](http://distill.pub/): The web is a powerful medium to share new ways of thinking.
 
-- [2017-Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience): An open source Data Science repository to learn and apply towards solving real world problems.
+- [2017-Awesome Data Science #Collection#](https://github.com/bulutyazilim/awesome-datascience): An open source Data Science repository to learn and apply towards solving real world problems.
 
 - [2018-Deep Learning World #Collection#](https://github.com/astorfi/Deep-Learning-World): Organized Resources for Deep Learning Researchers and Developers.
 
@@ -64,7 +64,9 @@
 
 - [2019-Deep Learning Drizzle #Collection#](https://github.com/kmario23/deep-learning-drizzle): Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 
-- [Awesome DataScience](https://github.com/academic/awesome-datascience): 📝 An awesome Data Science repository to learn and apply for real world problems.
+- [Awesome DataScience #Collection#](https://github.com/academic/awesome-datascience): 📝 An awesome Data Science repository to learn and apply for real world problems.
+
+- [2020-learning #Collection#](https://github.com/amitness/learning): Becoming 1% better at data science everyday
 
 ## Paper | 论文
 

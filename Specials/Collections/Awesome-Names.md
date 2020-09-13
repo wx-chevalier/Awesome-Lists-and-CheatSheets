@@ -6,7 +6,7 @@
 
 # 常用类名
 
-Collector, Supervisor, Service, ServiceManager, Worker, Actor, Executor
+Collector, Supervisor, Service, ServiceManager, Worker, Actor, Executor, Trait
 
 # 项目名
 
