@@ -20,4 +20,4 @@
 
 ## Collection
 
-- [ddd-by-examples](https://github.com/ddd-by-examples): A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
+- [ddd-by-examples #Project#](https://github.com/ddd-by-examples): A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
