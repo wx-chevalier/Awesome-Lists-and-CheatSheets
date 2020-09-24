@@ -158,6 +158,8 @@
 
 - [2020-PaddleOCR #Project#](https://github.com/PaddlePaddle/PaddleOCR): PaddleOCR aims to create rich, leading, and practical OCR tools that help users train better models and apply them into practice.
 
+- [2020-EasyOCR #Project#](https://github.com/JaidedAI/EasyOCR): Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
+
 ## Object Detection
 
 - [2017-Detectron #Project#](https://github.com/facebookresearch/Detectron): Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN.

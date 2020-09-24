@@ -125,7 +125,7 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2019-简单粗暴 TensorFlow 2.0 | A Concise Handbook of TensorFlow 2.0 #Book#](https://tf.wiki): 这是一本简明的 TensorFlow 2.0 入门指导手册，基于 Keras 和 Eager Execution（即时运行）模式，力图让具备一定机器学习及 Python 基础的开发者们快速上手 TensorFlow 2.0。
 
-- [2019-深度学习开源书，基于 TensorFlow 2.0 实战](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book): Open source Deep Learning book, based on TensorFlow 2.0 framework.
+- [2019-深度学习开源书，基于 TensorFlow 2.0 实战 #Book#](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book): Open source Deep Learning book, based on TensorFlow 2.0 framework.
 
 ## PyTorch
 

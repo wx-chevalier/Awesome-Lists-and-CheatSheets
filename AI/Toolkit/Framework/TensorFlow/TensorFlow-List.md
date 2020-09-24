@@ -20,22 +20,6 @@
 
 # Resource | 资源集锦
 
-## Series | 系列教程
-
-- [2015-tensorflow_tutorials #Series#](https://github.com/pkmital/tensorflow_tutorials): From the basics to slightly more interesting applications of TensorFlow
-
-- [2017-Effective TensorFlow #Series#](https://github.com/vahidk/EffectiveTensorFlow): My attempt is to gradually expand this series by adding new articles and keep the content up to date with the latest releases of TensorFlow API.
-
-- [2017-TensorFlow 101 #Series#](https://mubaris.com/2017-10-21/tensorflow-101): TensorFlow is an open source machine learning library developed at Google. TensorFlow uses data flow graphs for numerical computations.
-
-- [2017-TensorFlow-World #Series#](https://github.com/astorfi/TensorFlow-World): This repository is aimed to provide simple and ready-to-use tutorials for TensorFlow.
-
-- [2018-easy-tensorflow, Simple and comprehensive tutorials in TensorFlow #Series#](https://github.com/easy-tensorflow/easy-tensorflow): The goal of this repository is to provide comprehensive tutorials for TensorFlow while maintaining the simplicity of the code.
-
-- [2018-stanford-tensorflow-tutorials #Series#](https://github.com/chiphuyen/stanford-tensorflow-tutorials): This repository contains code examples for the course CS 20: TensorFlow for Deep Learning Research.
-
-- [2018-TensorFlow Course #Series#](https://github.com/open-source-for-science/TensorFlow-Course): This repository aims to provide simple and ready-to-use tutorials for TensorFlow. Each tutorial includes source code and most of them are associated with a documentation.
-
 ## Collection
 
 - [Awesome TensorFlow #Collection#](https://github.com/jtoy/awesome-tensorflow#github-projects): A curated list of awesome TensorFlow experiments, libraries, and projects. Inspired by awesome-machine-learning.
@@ -63,5 +47,23 @@
 - [2017-We Need to Go Deeper: A Practical Guide to TensorFlow and Inception](http://6me.us/s2n)
 
 - [2017-How to use Dataset in TensorFlow](https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428): This article will explain the basic mechanics of the Dataset, covering the most common use cases.
+
+## Series | 系列教程
+
+- [2015-tensorflow_tutorials #Series#](https://github.com/pkmital/tensorflow_tutorials): From the basics to slightly more interesting applications of TensorFlow
+
+- [2017-Effective TensorFlow #Series#](https://github.com/vahidk/EffectiveTensorFlow): My attempt is to gradually expand this series by adding new articles and keep the content up to date with the latest releases of TensorFlow API.
+
+- [2017-TensorFlow 101 #Series#](https://mubaris.com/2017-10-21/tensorflow-101): TensorFlow is an open source machine learning library developed at Google. TensorFlow uses data flow graphs for numerical computations.
+
+- [2017-TensorFlow-World #Series#](https://github.com/astorfi/TensorFlow-World): This repository is aimed to provide simple and ready-to-use tutorials for TensorFlow.
+
+- [2018-easy-tensorflow, Simple and comprehensive tutorials in TensorFlow #Series#](https://github.com/easy-tensorflow/easy-tensorflow): The goal of this repository is to provide comprehensive tutorials for TensorFlow while maintaining the simplicity of the code.
+
+- [2018-stanford-tensorflow-tutorials #Series#](https://github.com/chiphuyen/stanford-tensorflow-tutorials): This repository contains code examples for the course CS 20: TensorFlow for Deep Learning Research.
+
+- [2018-TensorFlow Course #Series#](https://github.com/open-source-for-science/TensorFlow-Course): This repository aims to provide simple and ready-to-use tutorials for TensorFlow. Each tutorial includes source code and most of them are associated with a documentation.
+
+- [eat_tensorflow2_in_30_days #Series#](https://github.com/lyhue1991/eat_tensorflow2_in_30_days): Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
 
 ---
