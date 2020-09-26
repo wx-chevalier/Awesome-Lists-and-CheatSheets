@@ -10,11 +10,13 @@
 
 - [2020-Domain Driven Design Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process): If you're new to DDD and not sure where to start, this process will guide you step-by-step.
 
-## Case Study
+## Case Study & Framework 
 
 - [2019-Vlingo #Project#](https://docs.vlingo.io/): The vlingo/PLATFORM was designed for building fluent domain models inside applications and services using a DDD mindset.
 
 - [2020-ContextMapper #Project#](https://contextmapper.org/): ContextMapper is an open source project providing a Domain-specific Language and Tools for Strategic Domain-driven Design (DDD), Context Mapping, Bounded Context Modeling, and Service Decomposition.
+
+- [cp-ddd-framework #Project#](https://github.com/funkygao/cp-ddd-framework): A lightweight development framework for complex business architecture！轻量级业务中台开发框架！  
 
 # Resource
 

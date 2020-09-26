@@ -6,6 +6,8 @@
 
 - [2017-From zero to hero, creating WebVR experiences with Babylon.js on all platforms](https://parg.co/b1i)
 
+- [2020-硬核看房利器 Web 全景的实现](https://mp.weixin.qq.com/s/MG2d0DAM_tYx78Tt-j0rvA): 作为 WebVR 的子集，Web 全景是多数 WebVR 需求的降级选择，例如街景地图，本文将带大家实现一个简单的 Web 全景。
+
 # React VR
 
 - [Introducing the React VR Pre-Release](https://developer.oculus.com/blog/introducing-the-react-vr-pre-release/)
