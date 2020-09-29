@@ -40,9 +40,19 @@
 
 # Diagram Library | 数据可视化库
 
+- [go-diagrams #Project#](https://github.com/blushft/go-diagrams): Create beautiful system diagrams with Go.
+
+## Flowchart
+
+- [js2flowchart #Project#](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart): a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
+
+- [React JS Diagrams #Project#](https://github.com/woodenconsulting/react-js-diagrams): A flow based diagramming library written in React
+
+- [mermaid #Project#](https://github.com/knsv/mermaid)
+
 - [2018-GoJS #Project#](https://github.com/NorthwoodsSoftware/GoJS): JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 
-- [2020-Butterfly #Project#](https://github.com/alibaba/butterfly): 一个基于JS的数据驱动的节点式编排组件库。
+- [2020-Butterfly #Project#](https://github.com/alibaba/butterfly): 一个基于 JS 的数据驱动的节点式编排组件库。
 
 # Chart
 
@@ -63,6 +73,8 @@
 
 - [roughViz.js #Project#](https://github.com/jwilber/roughViz): Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 
+- [2020-visx #Project#](https://github.com/airbnb/visx): visx is a collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of react for updating the DOM.
+
 ## Realtime（实时图表）
 
 - [apexcharts.js #Project#](https://github.com/apexcharts/apexcharts.js): A modern JavaScript charting library to build interactive charts and visualizations with simple API.
@@ -72,14 +84,6 @@
 ## 热力图（Heatmap）
 
 - [github-contributions-canvas #Project#](https://github.com/sallar/github-contributions-canvas): A tool for drawing a heat-map of Github contributions on HTML Canvas.
-
-## Flowchart
-
-- [js2flowchart #Project#](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart): a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
-
-- [React JS Diagrams #Project#](https://github.com/woodenconsulting/react-js-diagrams): A flow based diagramming library written in React
-
-- [mermaid #Project#](https://github.com/knsv/mermaid)
 
 ## Analytics
 

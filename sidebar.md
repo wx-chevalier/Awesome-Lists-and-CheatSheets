@@ -472,6 +472,7 @@
         - [Indicator List](/Frontend/Web/Widgets/Indicator-List.md)
         - [Interaction List](/Frontend/Web/Widgets/Interaction-List.md)
         - [Layout List](/Frontend/Web/Widgets/Layout-List.md)
+        - [Media List](/Frontend/Web/Widgets/Media-List.md)
         - [Navigation List](/Frontend/Web/Widgets/Navigation-List.md)
         - [Picker List](/Frontend/Web/Widgets/Picker-List.md)
         - [Select List](/Frontend/Web/Widgets/Select-List.md)
