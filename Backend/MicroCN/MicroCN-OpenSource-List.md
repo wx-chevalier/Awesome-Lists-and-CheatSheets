@@ -16,6 +16,8 @@
 
 - [2018-Træfik #Project#](https://github.com/containous/traefik): Træfik (pronounced like traffic) is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
 
+- [2018-Soul #Project#](https://github.com/dromara/soul): High-Performance Java API Gateway.
+
 ## Load Balancer
 
 - [glb-director #Project#](https://github.com/github/glb-director): GitHub Load Balancer Director and supporting tooling.
@@ -151,3 +153,23 @@
 - [Sentinel #Project#](https://github.com/alibaba/Sentinel): A lightweight flow-control library providing high-available protection and monitoring (高可用防护的流量管理框架)
 
 - [2018-Resilience4j #Project#](https://github.com/resilience4j/resilience4j): Resilience4j is a fault tolerance library designed for Java8 and functional programming
+
+# Service Mesh
+
+- [Kuma #Project#](https://kuma.io/docs/0.4.0/overview/what-is-kuma/): Kuma is a platform agnostic open-source control plane for Service Mesh and Microservices. It can run and be operated natively across both Kubernetes and VM environments, making it easy to adopt by every team in the organization.
+
+- [Istio #Project#](https://istio.io/about/intro.html): Istio is an open platform that provides a uniform way to connect, manage, and secure microservices. Istio supports managing traffic flows between microservices, enforcing access policies, and aggregating telemetry data, all without requiring changes to the microservice code.
+
+- [Service Fabric #Project#](https://github.com/Microsoft/service-fabric): Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
+
+- [Open Service Mesh #Project#](https://github.com/openservicemesh/osm): Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
+
+## Sidecar
+
+- [Envoy #Project#](https://www.envoyproxy.io/): Envoy is an OpenSource Egde and Service Proxy, Design for Cloud-Native Applications.
+
+- [2019-Kuma #Project#](https://kuma.io/docs/0.1.0/#what-is-kuma): Kuma is a universal open-source control plane for Service Mesh and Microservices.
+
+## Serverless
+
+- [Fission #Project#](https://github.com/fission/fission): Fission is a fast serverless framework for Kubernetes with a focus on developer productivity and high performance.
