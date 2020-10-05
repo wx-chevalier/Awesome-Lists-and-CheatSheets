@@ -26,7 +26,9 @@
 
 - [Data For Everyone](https://www.figure-eight.com/data-for-everyone/): Here are some of our favorite open datasets created on the Figure Eight platform. They’re free for any and everyone to download.
 
-# Text DataSets | 文本数据
+# NLP & Text DataSets | 文本数据
+
+- [DataSets #Project#](https://github.com/huggingface/datasets): Datasets and evaluation metrics for natural language processing and more. Compatible with NumPy, Pandas, PyTorch and TensorFlow.
 
 ## News
 

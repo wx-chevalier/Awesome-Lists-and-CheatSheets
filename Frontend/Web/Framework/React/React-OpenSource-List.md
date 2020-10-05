@@ -2,6 +2,18 @@
 
 More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-chevalier/Awesome-Lists/blob/master/Web/Widgets/Web-Widgets-List.md).
 
+## Showcase
+
+- [2017-A React TODOs example, explained](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)
+
+- [2017-Create a realtime football voting app using React, Redux, React-Router-v4 and Firebase](https://parg.co/bhD): In this series of tutorials, we’ll be creating a football voting app using React, Redux, Redux-Saga, React-Router v4, and Firebase. In this first part, we will setup the project. We’re going to use create-react-app to scaffold the initial project structure, tweak it a bit, and then add the necessary libraries that we’ll be using.
+
+- [2017-How to Build a ToDo App Using React, Redux, and Webpack](https://parg.co/bMT): In this tutorial I’m going to show you how to create a simple “ToDo” app using React, Redux, a little bit of Node, and Cosmic JS.
+
+- [2018-react-kanban #Project#](https://github.com/yogaboll/react-kanban): A Trello-like application built with React and Redux.
+
+- [2018-devhub #Project#](https://github.com/devhubapp/devhub): DevHub: TweetDeck for GitHub - Android, iOS, Web & Desktop
+
 # Development Tools | 开发工具
 
 ## Scaffold

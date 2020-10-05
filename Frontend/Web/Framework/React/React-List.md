@@ -32,18 +32,6 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 - [2018-Migrating Medium to React.js and GraphQL](https://www.infoq.com/news/2018/05/medium-reactjs-graphql-migration): making the new system incrementally available to users while not hindering development of new features.
 
-### Showcase
-
-- [2017-A React TODOs example, explained](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)
-
-- [2017-Create a realtime football voting app using React, Redux, React-Router-v4 and Firebase](https://parg.co/bhD): In this series of tutorials, we’ll be creating a football voting app using React, Redux, Redux-Saga, React-Router v4, and Firebase. In this first part, we will setup the project. We’re going to use create-react-app to scaffold the initial project structure, tweak it a bit, and then add the necessary libraries that we’ll be using.
-
-- [2017-How to Build a ToDo App Using React, Redux, and Webpack](https://parg.co/bMT): In this tutorial I’m going to show you how to create a simple “ToDo” app using React, Redux, a little bit of Node, and Cosmic JS.
-
-- [2018-react-kanban #Project#](https://github.com/yogaboll/react-kanban): A Trello-like application built with React and Redux.
-
-- [2018-devhub #Project#](https://github.com/devhubapp/devhub): DevHub: TweetDeck for GitHub - Android, iOS, Web & Desktop
-
 # Resource | 资源
 
 ## Book | 书籍
@@ -79,6 +67,8 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 - [2017-learncodeacademy/react-js-tutorials](https://github.com/learncodeacademy/react-js-tutorials): Code that goes along with my YouTube React JS Series.
 
 - [2018-React 从入门到精通 #Course#](https://github.com/supnate/react-geek-time): 极客时间：React 从入门到精通。
+
+- [2020-30 Days of React #Course#](https://github.com/Asabeneh/30-Days-Of-React): 30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of Java…
 
 ## Collection | 集合
 
