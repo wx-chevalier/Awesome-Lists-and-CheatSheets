@@ -8,9 +8,11 @@
 
 - [2019-The Incredible PyTorch #Collection#](https://github.com/ritchieng/the-incredible-pytorch): The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 
-## Book
+## Course
 
-- [2018-Pytorch 模型训练实用教程](https://github.com/tensor-yu/PyTorch_Tutorial)
+- [2018-Pytorch 模型训练实用教程 #Course#](https://github.com/tensor-yu/PyTorch_Tutorial)
+
+- [2020-eat_pytorch_in_20_days #Course#](https://github.com/lyhue1991/eat_pytorch_in_20_days): Pytorch🍊🍉 is delicious, just eat it! 😋😋
 
 # Tutorial
 

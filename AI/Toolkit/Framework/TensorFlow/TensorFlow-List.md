@@ -64,6 +64,6 @@
 
 - [2018-TensorFlow Course #Series#](https://github.com/open-source-for-science/TensorFlow-Course): This repository aims to provide simple and ready-to-use tutorials for TensorFlow. Each tutorial includes source code and most of them are associated with a documentation.
 
-- [eat_tensorflow2_in_30_days #Series#](https://github.com/lyhue1991/eat_tensorflow2_in_30_days): Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
+- [2020-eat_tensorflow2_in_30_days #Series#](https://github.com/lyhue1991/eat_tensorflow2_in_30_days): Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
 
 ---
