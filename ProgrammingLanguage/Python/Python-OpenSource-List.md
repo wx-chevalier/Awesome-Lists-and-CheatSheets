@@ -1,5 +1,11 @@
 # Python OpenSource List
 
+# Showcase
+
+- [pytudes #Project#](https://github.com/norvig/pytudes): This project contains pytudes—Python programs for perfecting programming skills. Some are in Jupyter (IPython) notebooks, some in `*.py` files.
+
+- [python-small-examples #Series#](https://github.com/jackzhenguo/python-small-examples): 告别枯燥，60 秒学会一个 Python 小例子 ，当前库已有 223 个实用的小例子 。
+
 # Development Library
 
 - [Bounter #Project#](https://github.com/RaRe-Technologies/bounter): Efficient Counter that uses a limited (bounded) amount of memory regardless of data size.
