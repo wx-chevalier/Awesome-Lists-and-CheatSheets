@@ -56,6 +56,8 @@
 
 - [2020-大中台的黄粱一梦和复用性设计的繁荣盛世](https://tbwork.org/2020/08/02/what-is-mid-platform/): 本文会严格考虑系统实现的可操作性，时刻带着这种落地感来诠释中台。也希望通过此文指引更多的企业走向正确的中台之路，而不要被那些花里胡哨的概念误导，最后落到舍本逐末、烂尾收场的尴尬境地。
 
+- [2020-京东服务技术中台：全流程建设方法及思考总结](https://mp.weixin.qq.com/s/AIkW7r5UyU8O3FwXEXFiPw): 聚焦在京东服务技术中台的全流程建设方法，分享了在中台建设领域的经验总结，本文是根据他去年 GTLC 演讲内容整理而来。
+
 # Principles
 
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws): Laws, Theories, Principles and Patterns that developers will find useful.
