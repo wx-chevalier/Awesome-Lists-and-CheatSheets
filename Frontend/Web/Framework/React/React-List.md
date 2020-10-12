@@ -62,7 +62,7 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 ## Course & Conf | 课程与会议
 
-- [2017 React 大会](http://conf.reactjs.org/livestream)：2017 年 React Conf 于 3 月 13 日、14 日成功举办，会上来自世界各地的开发者就 React Fiber、Flow 、Performance、React Native 等多个主题发表了演说与讨论，推荐选择自己喜欢的演讲视频观看。
+- [2017 React 大会](http://conf.reactjs.org/livestream)：2017 年 React Conf 于 3 月 13 日、14 日成功举办，会上来自世界各地的开发者就 React Fiber、Flow、Performance、React Native 等多个主题发表了演说与讨论，推荐选择自己喜欢的演讲视频观看。
 
 - [2017-learncodeacademy/react-js-tutorials](https://github.com/learncodeacademy/react-js-tutorials): Code that goes along with my YouTube React JS Series.
 

@@ -92,7 +92,7 @@
 
 - [来自 Vixlet 的 React 优化建议](https://parg.co/bNF)：近年来 Vixlet 的 Web 团队逐步将其 Web 框架迁移到了 React + Redux 技术架构，本文是来自于 Vixlet 的 React 优化实践总结与建议。( https://parg.co/bNF )
 
-- [从实用主义视角来看现代前端应用开发](http://dimafeng.com/2017/04/23/modern-frontend/)：现代 Web   开发技术变革迅速，而我也经历了从纯 JS 、jQuery、Vaadin、Angular JS、React 等等一系列的变迁。本文则首先思考何谓现代 Web 应用，然后考虑现代 Web 应用常用的项目架构与构建方式，譬如 TypeScript、Webpack、Linting 等内容，然后讨论现代常用的技术架构，譬如 React.j、MobX、依赖注入等相关知识。( http://dimafeng.com/2017/04/23/modern-frontend/ )
+- [从实用主义视角来看现代前端应用开发](http://dimafeng.com/2017/04/23/modern-frontend/)：现代 Web   开发技术变革迅速，而我也经历了从纯 JS、jQuery、Vaadin、Angular JS、React 等等一系列的变迁。本文则首先思考何谓现代 Web 应用，然后考虑现代 Web 应用常用的项目架构与构建方式，譬如 TypeScript、Webpack、Linting 等内容，然后讨论现代常用的技术架构，譬如 React.j、MobX、依赖注入等相关知识。( http://dimafeng.com/2017/04/23/modern-frontend/ )
 
 - [React 动画系列教程](https://parg.co/bMF)：本系列教程着眼于介绍 React 动画开发相关知识，而本文则是从 CSS transitions 基础入手，介绍了 CSS transitions 的基础语法与进度条、导航栏等经典案例。( https://parg.co/bMF )
 

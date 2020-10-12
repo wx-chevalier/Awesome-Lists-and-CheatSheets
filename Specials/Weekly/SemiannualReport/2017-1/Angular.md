@@ -20,7 +20,7 @@
 
 - [《你应该掌握的关于调试 Angular 应用的知识》](https://parg.co/bN1)：调试是 Web   开发中不可或缺的部分，特别是对于那些接管已存在代码库的开发者，他们往往需要经过大量的调试才能了解代码的架构与逻辑。不过貌似 Angular 官方文档中尚缺专门对于 Angular 中调试的讲解，本文则是深度浅出地讲解 Angular 应用开发过程中的调试技巧。本文首先介绍了作者调试源代码的技巧，然后介绍了如何使用框架内置的调试 API 来进行应用调试。( https://parg.co/bN1)
 
-- [《从实用主义视角来看现代前端应用开发》](http://dimafeng.com/2017/04/23/modern-frontend/)：现代 Web   开发技术变革迅速，而我也经历了从纯 JS 、jQuery、Vaadin、Angular JS、React 等等一系列的变迁。本文则首先思考何谓现代 Web 应用，然后考虑现代 Web 应用常用的项目架构与构建方式，譬如 TypeScript、Webpack、Linting 等内容，然后讨论现代常用的技术架构，譬如 React.j、MobX、依赖注入等相关知识。( http://dimafeng.com/2017/04/23/modern-frontend/ )
+- [《从实用主义视角来看现代前端应用开发》](http://dimafeng.com/2017/04/23/modern-frontend/)：现代 Web   开发技术变革迅速，而我也经历了从纯 JS、jQuery、Vaadin、Angular JS、React 等等一系列的变迁。本文则首先思考何谓现代 Web 应用，然后考虑现代 Web 应用常用的项目架构与构建方式，譬如 TypeScript、Webpack、Linting 等内容，然后讨论现代常用的技术架构，譬如 React.j、MobX、依赖注入等相关知识。( http://dimafeng.com/2017/04/23/modern-frontend/ )
 
 - [《Angular v5 中可期待的新特性》](https://parg.co/bVy)：在 Angular V4 发布之后，Angular 团队就开始致力于 Angular v5 的开发，本文则是介绍 Angular V5 中部分可期待的新特性。在 Angular V5 中团队致力于简化应用的编译流程，将 AOT 编译模式设置为默认模式；同时会添加编译时的自动监控辅助命令，并且为模板添加类型检测的功能；同时 V5 版本会进一步优化错误提示，并且使得未来的升级更加地平滑。( https://parg.co/bVy )
 

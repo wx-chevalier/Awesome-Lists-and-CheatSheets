@@ -34,7 +34,7 @@
 
 - [基于 Vue.js、Webpack、Material Design 打造 PWA 应用](https://parg.co/btH)：PWA 应用已经受到了越来越多的关注与实践，而本系列文章则介绍了如何使用 Vue.js、Webpack 以及 Material Design 打造 PWA 应用。本系列文章包含七个部分，分别介绍了基于 Vue.js、Webpack 与 Material Design Lite 创建单页应用、使用 Vue-Resource 与 VueFire 进行数据交互、使用 Service Workers 实现离线模式、拍照、上传图片、实现推送、访问设备地址等内容。( https://parg.co/btH )
 
-- [Vue.js 与外部交互](http://vuejsdevelopers.com/2017/05/01/vue-js-cant-help-head-body/)：Vue.js 是非常优秀的网页构建框架，不过我们往往会面临着比较割裂的开发情况，即网页中的一部分是交由 Vue.js 管理，而另一部分是交由其他脚本或者插件管理；这中情况在多团队协同开发或者对旧版本的改造时可能会碰到。而本文则介绍了应该如何使用 Vue.js 与外部其他脚本进行交互，譬如管理 head 、body 标签、监听键盘事件等等内容。( https://parg.co/bMw )
+- [Vue.js 与外部交互](http://vuejsdevelopers.com/2017/05/01/vue-js-cant-help-head-body/)：Vue.js 是非常优秀的网页构建框架，不过我们往往会面临着比较割裂的开发情况，即网页中的一部分是交由 Vue.js 管理，而另一部分是交由其他脚本或者插件管理；这中情况在多团队协同开发或者对旧版本的改造时可能会碰到。而本文则介绍了应该如何使用 Vue.js 与外部其他脚本进行交互，譬如管理 head、body 标签、监听键盘事件等等内容。( https://parg.co/bMw )
 
 - [使用现代方法端到端测试  Vue.js 应用](https://parg.co/bV9)：端到端测试是 Web 测试中的重要组成部分，也是应用开发流程中不可或缺的部分；本文则介绍了如何使用 TestCafe 对 Vue.js 应用进行端到端测试。( https://parg.co/bV9 )
 
