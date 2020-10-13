@@ -44,7 +44,7 @@
 
 - [luban-h5 #Project#](https://github.com/ly525/luban-h5): A mobile page builder/editor, similar with amolink.
 
-- [Dooring #Project#](https://github.com/MrXujiang/h5-Dooring): (H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.
+- [Dooring #Project#](https://github.com/MrXujiang/h5-Dooring): (H5 编辑器)H5-Dooring 是一款功能强大，开源免费的 H5 可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的 H5 落地页最佳实践。技术栈以 react 为主，后台采用 nodejs 开发.
 
 # MIS
 

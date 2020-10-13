@@ -64,6 +64,8 @@
 
 - [2018-TensorFlow Course #Series#](https://github.com/open-source-for-science/TensorFlow-Course): This repository aims to provide simple and ready-to-use tutorials for TensorFlow. Each tutorial includes source code and most of them are associated with a documentation.
 
-- [eat_tensorflow2_in_30_days #Series#](https://github.com/lyhue1991/eat_tensorflow2_in_30_days): Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
+- [2019-TensorFlow 2.x Tutorials #Series#](https://github.com/dragen1860/TensorFlow-2.x-Tutorials): TensorFlow 2.x version's Tutorials and Examples, including CNN, RNN, GAN, Auto-Encoders, FasterRCNN, GPT, BERT examples, etc. TF 2.0 版入门实例代码，实战教程。
+
+- [2020-eat_tensorflow2_in_30_days #Series#](https://github.com/lyhue1991/eat_tensorflow2_in_30_days): Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
 
 ---

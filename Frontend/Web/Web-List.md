@@ -16,7 +16,7 @@
 
 ## History
 
-- [2019-前端开发 20 年变迁史](https://mp.weixin.qq.com/s/cDsYO1AsYXOjZVpSwBq2HA): 我们经历了前端的洪荒时代、Prototype 时代、jQuery 时代 、后 jQuery 时期、三大框架割据时代，这其中均是由国外开发者主导，直到如今的小程序时代，才是中国开发者独创的。
+- [2019-前端开发 20 年变迁史](https://mp.weixin.qq.com/s/cDsYO1AsYXOjZVpSwBq2HA): 我们经历了前端的洪荒时代、Prototype 时代、jQuery 时代、后 jQuery 时期、三大框架割据时代，这其中均是由国外开发者主导，直到如今的小程序时代，才是中国开发者独创的。
 
 ## Front-end Leader | 领袖意见
 
@@ -75,7 +75,6 @@
 - [The Modern JavaScript Tutorial #Series#](https://github.com/javascript-tutorial/en.javascript.info): This repository hosts the English content of the Modern JavaScript Tutorial, published at https://javascript.info.
 
 - [2020-React JS Tutorial: Building Firebase Chat App (React Hooks)](https://www.djamware.com/post/5f2a1d9d9c794f177fd7b527/react-js-tutorial-building-firebase-chat-app-react-hooks#.Xyoht_6g7c8.reddit): The comprehensive step by step React JS tutorial on building React Firebase chat web application (React Hooks).
-
 
 # Interview | 面试
 

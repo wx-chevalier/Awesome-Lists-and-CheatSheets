@@ -201,6 +201,7 @@
         - [IM List](/Backend/Domain/IM/IM-List.md)
         - [IM OpenSource List](/Backend/Domain/IM/IM-OpenSource-List.md)
         - [Live List](/Backend/Domain/IM/Live-List.md)
+        - [Video List](/Backend/Domain/IM/Video-List.md)
         - [WebRTC List](/Backend/Domain/IM/WebRTC-List.md)
       - LBS
         - [LBS List](/Backend/Domain/LBS/LBS-List.md)
@@ -318,13 +319,12 @@
         - [D3 List](/Frontend/DataVis/Graphic/D3-List.md)
         - [Graphic List](/Frontend/DataVis/Graphic/Graphic-List.md)
         - [Three.js List](/Frontend/DataVis/Graphic/Three.js-List.md)
+      - Image
+        - [Image List](/Frontend/DataVis/Image/Image-List.md)
+        - [Media OpenSource List](/Frontend/DataVis/Image/Media-OpenSource-List.md)
+        - [QR List](/Frontend/DataVis/Image/QR-List.md)
       - Map
         - [Map List](/Frontend/DataVis/Map/Map-List.md)
-      - Media
-        - [Image List](/Frontend/DataVis/Media/Image-List.md)
-        - [Media OpenSource List](/Frontend/DataVis/Media/Media-OpenSource-List.md)
-        - [QR List](/Frontend/DataVis/Media/QR-List.md)
-        - [Video List](/Frontend/DataVis/Media/Video-List.md)
     - Desktop
       - [Desktop List](/Frontend/Desktop/Desktop-List.md)
       - Electron

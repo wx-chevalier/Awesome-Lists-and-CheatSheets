@@ -44,7 +44,7 @@
 
 - [croc #Project#](https://github.com/schollz/croc): Easily and securely send things from one computer to another 🐊 📦
 
-# Remote Control
+# Remote Control & Screen Sharing
 
 - [xrdp #Project#](https://github.com/neutrinolabs/xrdp): xrdp provides a graphical login to remote machines using Microsoft Remote Desktop Protocol (RDP).
 

@@ -22,7 +22,7 @@
 
 - [2012-PLAI-Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)：中文翻译参考[这里](https://zhuanlan.zhihu.com/p/24578121)。
 
-- [2013-松本行弘-代码的未来](https://book.douban.com/subject/24536403/)：Ruby 之父松本行弘的又一力作。作者对云计算、大数据时代下的各种编程语言以及相关技术进行了剖析，并对编程语言的未来发展趋势做出预测，内容涉及 Go、VoltDB 、 node.js、CoffeeScript 、 Dart、MongoDB 、摩尔定律、编程语言、多核、NoSQL 等当今备受关注的话题。内容比较浅显宽泛，偏向于技术普及性质。
+- [2013-松本行弘-代码的未来](https://book.douban.com/subject/24536403/)：Ruby 之父松本行弘的又一力作。作者对云计算、大数据时代下的各种编程语言以及相关技术进行了剖析，并对编程语言的未来发展趋势做出预测，内容涉及 Go、VoltDB、node.js、CoffeeScript、Dart、MongoDB、摩尔定律、编程语言、多核、NoSQL 等当今备受关注的话题。内容比较浅显宽泛，偏向于技术普及性质。
 
 - [500 Lines or Less: The Architecture of Open Source Applications #Book#](http://aosabook.org/en/index.html): 神书一套，介绍了很多开源软件的架构设计，In these two books, the authors of four dozen open source applications explain how their software is structured, and why. What are each program's major components? How do they interact? And what did their builders learn during their development? In answering these questions, the contributors to these books provide unique insights into how they think.
 
