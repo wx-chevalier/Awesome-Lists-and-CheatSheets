@@ -44,6 +44,8 @@
 
 - [2020-Silero Models #Project#](https://github.com/snakers4/silero-models): Silero Models: pre-trained STT models and benchmarks made embarrassingly simple
 
+- [Real-Time Voice Cloning #Project#](https://github.com/CorentinJ/Real-Time-Voice-Cloning): Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
 ## RNN
 
 - [char-rnn #Project#](https://github.com/karpathy/char-rnn): Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch

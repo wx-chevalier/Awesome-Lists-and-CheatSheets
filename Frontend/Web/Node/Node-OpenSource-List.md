@@ -18,6 +18,8 @@
 
 ## Command Line
 
+- [yargs #Project#](https://github.com/yargs/yargs): yargs the modern, pirate-themed successor to optimist.
+
 - [dotenv #Project#](https://github.com/motdotla/dotenv): Loads environment variables from .env for nodejs projects.
 
 - [Prompts #Project#](https://github.com/terkelg/prompts): Lightweight, beautiful and user-friendly interactive prompts
@@ -25,6 +27,8 @@
 - [Signale #Project#](https://github.com/klauscfhq/signale): Hackable and configurable to the core, signale can be used for logging purposes, status reporting, as well as for handling the output rendering process of other node modules and applications.
 
 - [ora #Project#](https://github.com/sindresorhus/ora): Elegant terminal spinner.
+
+- [pkg #Project# ](https://github.com/zeit/pkg): Package your Node.js project into an executable.
 
 # Framework
 

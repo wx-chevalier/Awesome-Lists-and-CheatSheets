@@ -32,7 +32,7 @@
 
 - [2019-Flink Learning #Series#](https://github.com/zhisheng17/flink-learning): 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例。
 
-- [2020-Flink Tutorial #Series#](https://github.com/confucianzuoyuan/flink-tutorial): 大家好！这是尚硅谷出品的 Flink 教程。包含理论部分和实践部分。深入讲解 了 Flink 的内部原理以及各种 API，包括了最新的 Table API 和 Flink SQL。 本教程有尚硅谷大数据组研发。
+- [2020-Flink Tutorial #Series#](https://github.com/confucianzuoyuan/flink-tutorial): 大家好！这是尚硅谷出品的 Flink 教程。包含理论部分和实践部分。深入讲解 了 Flink 的内部原理以及各种 API，包括了最新的 Table API 和 Flink SQL。本教程有尚硅谷大数据组研发。
 
 ## Confs
 

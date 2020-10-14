@@ -14,7 +14,7 @@
 
 ## Stream | 流
 
-- [2015-stream-handbook](https://github.com/substack/stream-handbook): This document covers the basics of how to write node.js programs with streams.
+- [2015-Stream Handbook #Series#](https://github.com/substack/stream-handbook): This document covers the basics of how to write node.js programs with streams.
 
 - [2017-Node.js Streams: Everything you need to know](https://parg.co/bJN): Node.js streams have a reputation for being hard to work with, and even harder to understand. Well I’ve got good news for you — that’s no longer the case. Over the years, developers created lots of packages out there with the sole purpose of making working with streams easier. But in this article, I’m going to focus on the native Node.js stream API.
 
@@ -27,16 +27,6 @@
 - [2017-Video stream with Node.js and HTML5](https://medium.com/@daspinola/video-stream-with-node-js-and-html5-320b3191a6b6): The “challenge” was to make a route sending a .mp4 file to a page and make the video available to be seen.
 
 - [2017-Something about Buffer](https://hackernoon.com/nodejs-javasript-react-buffer-understand-tutorial-example-easy-step-create-read-utf8-ce37866ddd8c): In node.js a buffer is a container for raw bytes.
-
-# Command Line
-
-- 命令行辅助参数解析：[yargs #Project# ](https://github.com/yargs/yargs)、[Inquirer.js #Project# ](https://github.com/SBoudrias/Inquirer.js)
-
-- [pkg #Project# ](https://github.com/zeit/pkg): Package your Node.js project into an executable.
-
-- [2017-Creating a project generator with Node](https://parg.co/byo): In this post, I’ll walk you through how to create a simple project generator built with NodeJS that can be installed globally on your computer and used to create a starter project wherever you want, whenever you want.
-
-- [ora #Project#](https://github.com/sindresorhus/ora): Elegant terminal spinner
 
 - [Backpressuring in Streams](https://nodejs.org/en/docs/guides/backpressuring-in-streams/): The purpose of this guide is to further detail what backpressure is, and how exactly streams address this in Node.js' source code.
 

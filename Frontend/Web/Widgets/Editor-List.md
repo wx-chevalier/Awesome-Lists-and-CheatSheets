@@ -34,6 +34,8 @@
 
 - [exceljs #Project#](https://github.com/exceljs/exceljs): Read, manipulate and write spreadsheet data and styles to XLSX and JSON.
 
+- [Luckysheet #Project#](https://github.com/mengshukeji/Luckysheet): Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+
 ## Article
 
 - [2020-语雀在线表格自研之路](https://mp.weixin.qq.com/s/SiwlayY5qYrAAQZg7Ovaeg): 语雀一直很看中创作体验，所以我们在编辑器这个领域一直持续的投入研发，不断迭代，今天要介绍的就是我们自主研发的在线电子表格。

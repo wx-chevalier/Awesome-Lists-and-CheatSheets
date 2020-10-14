@@ -22,7 +22,7 @@
 
 - [2017- 深入理解 Node.js：核心思想与源码分析 #Book#](http://6me.us/epg)
 
-- [2017-RESTful API design with Node.js](https://hackernoon.com/restful-api-design-with-node-js-26ccf66eab09)
+- [2017-RESTful API design with Node.js #Book#](https://hackernoon.com/restful-api-design-with-node-js-26ccf66eab09)
 
 - [2017-Practical Node.js #Book#](https://github.com/azat-co/practicalnode): Practical Node is a work of 30+ in-person courses, workshops and classes delivered by me in-person at various companies.
 
@@ -40,7 +40,7 @@
 
 - [The Basics of Package.json in Node.js and npm](http://6me.us/zFEia8)
 
-- [2020-Node.js结合ProtoBuffer,从零实现一个redis](https://mp.weixin.qq.com/s/SG9-dr7Y4Hj52oJN8I1tVw)
+- [2020-Node.js 结合 ProtoBuffer,从零实现一个 redis](https://mp.weixin.qq.com/s/SG9-dr7Y4Hj52oJN8I1tVw)
 
 ## NPM
 
