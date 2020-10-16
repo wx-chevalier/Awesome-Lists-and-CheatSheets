@@ -78,6 +78,6 @@
 
 - [A self driving toy car using end-to-end learning #Project#](https://github.com/experiencor/self-driving-toy-car): To make a lane follower based on a standard RC car using Raspberry Pi and a camera. The software is a simple Convolutional Network, which takes in the image fetched from the camera and outputs the steering angle.
 
-# 链接
+# TBD
 
 - https://github.com/yanshengjia/ml-road

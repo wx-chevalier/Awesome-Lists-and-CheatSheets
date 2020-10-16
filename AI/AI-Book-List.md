@@ -135,6 +135,6 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 ---
 
-# 链接
+# TBD
 
 - https://www.zhihu.com/question/343407265/answer/830912894

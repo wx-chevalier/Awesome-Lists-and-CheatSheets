@@ -24,7 +24,7 @@
 
 ## IDE
 
-- [D8gerAutoCode #Project#](https://github.com/caofanCPU/D8gerAutoCode): 🔥🔥🔥 🚀 重复编码老瞎忙,⚡️写来写去那几行, 🌱 不知工具在何方?🍻 八哥智能一键帮!
+- [D8gerAutoCode #Project#](https://github.com/caofanCPU/D8gerAutoCode): 🔥🔥🔥 🚀 重复编码老瞎忙,⚡️ 写来写去那几行, 🌱 不知工具在何方?🍻 八哥智能一键帮!
 
 ## Static Analysis | 静态分析
 
@@ -205,6 +205,6 @@
 
 - [2018-Java Grinder #Project#](https://github.com/mikeakohn/java_grinder): Compile Java bytecode to microcontroller assembly.
 
-# 链接
+# TBD
 
 - https://github.com/akullpp/awesome-java#data-structures

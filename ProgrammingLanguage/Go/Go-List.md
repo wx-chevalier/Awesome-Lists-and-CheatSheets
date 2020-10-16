@@ -116,6 +116,6 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [learngo #Project#](https://github.com/inancgumus/learngo): A Huge Number of Go Examples, Exercises and Quizzes.
 
-# 链接
+# TBD
 
 - https://www.zhihu.com/question/23486344/answer/830242071
