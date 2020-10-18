@@ -700,6 +700,8 @@
       - Theory
         - [OST List](/Infrastructure/OS/Theory/OST-List.md)
   - ProgrammingLanguage
+    - Assembly
+      - [Assembly List](/ProgrammingLanguage/Assembly/Assembly-List.md)
     - C
       - [CPP Compiler List](/ProgrammingLanguage/C/CPP-Compiler-List.md)
       - [CPP ConcurrentProgramming List](/ProgrammingLanguage/C/CPP-ConcurrentProgramming-List.md)
@@ -717,6 +719,8 @@
       - [Go Tuning List](/ProgrammingLanguage/Go/Go-Tuning-List.md)
       - [Go Web List](/ProgrammingLanguage/Go/Go-Web-List.md)
       - [Gopher List](/ProgrammingLanguage/Go/Gopher-List.md)
+    - Haskell
+      - [Haskell List](/ProgrammingLanguage/Haskell/Haskell-List.md)
     - Java
       - ConcurrentProgramming
         - [Akka List](/ProgrammingLanguage/Java/ConcurrentProgramming/Akka-List.md)
@@ -768,17 +772,10 @@
       - [JavaScript Pattern List](/ProgrammingLanguage/JavaScript/JavaScript-Pattern-List.md)
       - [JavaScript TypeSystem List](/ProgrammingLanguage/JavaScript/JavaScript-TypeSystem-List.md)
       - [TypeScript List](/ProgrammingLanguage/JavaScript/TypeScript-List.md)
-    - Limbo
-      - Assembly
-        - [Assembly List](/ProgrammingLanguage/Limbo/Assembly/Assembly-List.md)
-      - Haskell
-        - [Haskell List](/ProgrammingLanguage/Limbo/Haskell/Haskell-List.md)
-      - Lisp
-        - [Lisp List](/ProgrammingLanguage/Limbo/Lisp/Lisp-List.md)
-      - PHP
-        - [PHP List](/ProgrammingLanguage/Limbo/PHP/PHP-List.md)
-      - Swift
-        - [Swift List](/ProgrammingLanguage/Limbo/Swift/Swift-List.md)
+    - Lisp
+      - [Lisp List](/ProgrammingLanguage/Lisp/Lisp-List.md)
+    - PHP
+      - [PHP List](/ProgrammingLanguage/PHP/PHP-List.md)
     - Python
       - [Python DataStructure List](/ProgrammingLanguage/Python/Python-DataStructure-List.md)
       - [Python Debug List](/ProgrammingLanguage/Python/Python-Debug-List.md)
@@ -795,6 +792,8 @@
       - [Rust Network List](/ProgrammingLanguage/Rust/Rust-Network-List.md)
       - [Rust OpenSource List](/ProgrammingLanguage/Rust/Rust-OpenSource-List.md)
       - [Rust Syntax List](/ProgrammingLanguage/Rust/Rust-Syntax-List.md)
+    - Swift
+      - [Swift List](/ProgrammingLanguage/Swift/Swift-List.md)
     - Theory
       - Compiler
         - [Compiler List](/ProgrammingLanguage/Theory/Compiler/Compiler-List.md)

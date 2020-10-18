@@ -4,6 +4,12 @@
 
 - [2009-The Scheme Programming Language #Book#](http://www.scheme.com/tspl4/)
 
+# Resource
+
+## Book
+
+- [2020-Paradigms of Artificial Intelligence Programming #Book#](https://github.com/norvig/paip-lisp): Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
+
 # Racket
 
 - [Beautiful Racket #Book#](http://beautifulracket.com/): how to make your own pro­gram­ming lan­guages with racket by matthew but­t­er­ick · ver­sion 1.0
