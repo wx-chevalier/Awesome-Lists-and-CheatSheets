@@ -8,6 +8,8 @@
 
 - [2019-Software Architecture Guide](https://martinfowler.com/architecture/): A guide to material on martinfowler.com about software architecture.
 
+- [探索 Service 本源](http://q.infoqstatic.com/ppt/service-origin-exploration.pdf)
+
 ## Case Study
 
 - [2019-复杂度应对之道，COLA 应用架构](https://blog.csdn.net/significantfrank/article/details/85785565): 这种人为的复杂性导致系统越来越臃肿，越来越难维护，酱缸的老代码发出一阵阵恶臭，新来的同学，往往要捂着鼻子抠几天甚至几个月，才能理清系统和业务脉络，然后又一头扎进各种 bug fix，业务修补的恶性循环中，暗无天日！

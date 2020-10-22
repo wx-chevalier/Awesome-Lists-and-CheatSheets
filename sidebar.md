@@ -146,7 +146,6 @@
     - DesignPattern
       - [DesignPattern List](/Architecture/DesignPattern/DesignPattern-List.md)
       - [FunctionalProgramming List](/Architecture/DesignPattern/FunctionalProgramming-List.md)
-      - [JavaScript DesignPattern List](/Architecture/DesignPattern/JavaScript-DesignPattern-List.md)
       - [MetaProgramming List](/Architecture/DesignPattern/MetaProgramming-List.md)
       - [ObjectOrientedProgramming List](/Architecture/DesignPattern/ObjectOrientedProgramming-List.md)
       - [Programming Paradigm List](/Architecture/DesignPattern/Programming-Paradigm-List.md)

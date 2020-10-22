@@ -6,7 +6,7 @@
 
 - [2017-Writing a basic x86-64 JIT compiler from scratch in stock Python](https://csl.name/post/python-jit/): In this post I'll show how to write a rudimentary, native x86-64 just-in-time compiler (JIT) in CPython, using only the built-in modules.
 
-- [What the f\*ck Python](https://github.com/satwikkansal/wtfpython): An interesting collection of surprising snippets and lesser-known Python features.
+- [What the `f*ck` Python](https://github.com/satwikkansal/wtfpython): An interesting collection of surprising snippets and lesser-known Python features.
 
 ## CheatSheet | 速览清单
 
@@ -47,6 +47,8 @@
 ## Course
 
 - [c9-python-getting-started #Course#](https://github.com/microsoft/c9-python-getting-started): The series of videos on Channel 9 is designed to help get you up to speed on Python.
+
+- [2020-Practical Python Programming #Course#](https://github.com/dabeaz-course/practical-python): The material you see here is the heart of an instructor-led Python training course used for corporate training and professional development.
 
 ## Series
 

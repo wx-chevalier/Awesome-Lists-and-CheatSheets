@@ -88,21 +88,21 @@
 
 - [2018-Java 学习指南 #Collection#](https://github.com/Snailclimb/JavaGuide): 一份涵盖大部分 Java 程序员所需要掌握的核心知识，正在一步一步慢慢完善，期待您的参与。
 
-- [2020-Java Family #Project#](https://github.com/AobingJava/JavaFamily): 【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。
+- [2020-Java Family #Collection#](https://github.com/AobingJava/JavaFamily): 【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。
+
+- [2018-Java Interview #Collection#](https://github.com/crossoverJie/Java-Interview): 多数是一些 Java 基础知识、底层原理、算法详解。也有上层应用设计，其中不乏一些大厂面试真题。
 
 ## Course
 
 - [2018-The "REST with Spring" Classes #Course#](https://github.com/eugenp/tutorials): This project is a collection of small and focused tutorials - each covering a single and well defined area of development in the Java ecosystem. A strong focus of these is, of course, the Spring Framework - Spring, Spring Boot and Spring Securiyt. In additional to Spring, the following technologies are in focus: core Java, Jackson, HttpClient, Guava.
 
-- [2019-Spring Boot 实践学习案例](https://github.com/JeffLi1993/springboot-learning-example): Spring boot 初学者及核心技术巩固的最佳实践。另外写博客，用 OpenWrite。
+- [2019-Spring Boot 实践学习案例 #Course#](https://github.com/JeffLi1993/springboot-learning-example): Spring boot 初学者及核心技术巩固的最佳实践。另外写博客，用 OpenWrite。
 
 ## Series | 系列文章
 
 - [JCSprout #Series#](https://github.com/crossoverJie/JCSprout): Java Core Sprout: basic, concurrent, algorithm
 
-- [2018-Java 面试题，精品合集](http://www.iocoder.cn/Interview/good-collection/?title)
-
-- [2018-Java Interview #Collection#](https://github.com/crossoverJie/Java-Interview): 多数是一些 Java 基础知识、底层原理、算法详解。也有上层应用设计，其中不乏一些大厂面试真题。
+- [2020-重学 Java 设计模式「22 个互联网真实案例实战」 #Series#](https://github.com/fuzhengwei/itstack-demo-design): 《技术好就一定能写出好代码吗？不能！再漂亮的马桶放到厨房都略显尴尬！无论是家里装修还是上道开车，只有通过实战才能快速将理论转变为技能。毕竟设计模式也是源于 克里斯托佛·亚历山大 的著作 《建筑模式语言》。
 
 ### Spring
 
@@ -155,3 +155,5 @@
 - [Java 面试问题](https://dongchuan.gitbooks.io/java-interview-question/content/java/index.html)
 
 - [Top 10 Mistakes Java Developers Make](http://www.gauravkgupta.com/top-10-mistakes-java-developers-make/)
+
+- [2018-Java 面试题，精品合集](http://www.iocoder.cn/Interview/good-collection/?title)

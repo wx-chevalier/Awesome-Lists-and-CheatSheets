@@ -6,30 +6,6 @@
 
 - [2017-10 Common Software Architectural Patterns in a nutshell](https://parg.co/bD3)
 
-- [探索 Service 本源](http://q.infoqstatic.com/ppt/service-origin-exploration.pdf)
-
-# Resource | 资料索引
-
-## Book
-
-- [Refactoring Guru #Book#](https://refactoringguru.cn/design-patterns/what-is-pattern)：Design patterns are typical solutions to common problems in software design. Each pattern is like a blueprint that you can customize to solve a particular design problem in your code.
-
-# Java
-
-- [2017-Object Oriented Tricks](https://hackernoon.com/oo-tricks-the-art-of-command-query-separation-9343e50a3de0)
-
-- [SOLID Principles : The Definitive Guide](https://parg.co/Uk6)
-
-# Go
-
-- [go-patterns #Project#](https://github.com/tmrts/go-patterns): Curated list of Go design patterns, recipes and idioms.
-
-# Swift
-
-- [OOD-Principles-In-Swift #Book#](https://github.com/ochococo/OOD-Principles-In-Swift)
-
-# JavaScript
-
 ## Overview
 
 - [The Command Pattern Using Higher Order Functions](https://parg.co/U82): If your team is used to functional programming, then know that design patterns like the Command pattern can be used in a functional way as well.
@@ -37,6 +13,12 @@
 - [JavaScript — Observables Under The Hood](https://netbasal.com/javascript-observables-under-the-hood-2423f760584#.ihd02lckm)
 
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript)
+
+# Resource | 资料索引
+
+## Book
+
+- [Refactoring Guru #Book#](https://refactoringguru.cn/design-patterns/what-is-pattern)：Design patterns are typical solutions to common problems in software design. Each pattern is like a blueprint that you can customize to solve a particular design problem in your code.
 
 ## Resource
 
@@ -59,3 +41,19 @@
 ## Behavioral Pattern
 
 - [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87): Observable is just a function that takes an observer and returns a function.
+
+# Java
+
+- [2017-Object Oriented Tricks](https://hackernoon.com/oo-tricks-the-art-of-command-query-separation-9343e50a3de0)
+
+- [SOLID Principles : The Definitive Guide](https://parg.co/Uk6)
+
+# Go
+
+- [go-patterns #Project#](https://github.com/tmrts/go-patterns): Curated list of Go design patterns, recipes and idioms.
+
+# Swift
+
+- [OOD-Principles-In-Swift #Book#](https://github.com/ochococo/OOD-Principles-In-Swift)
+
+# JavaScript

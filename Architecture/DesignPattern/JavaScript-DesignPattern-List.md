@@ -1,1 +1,0 @@
-# JavaScript Design Patterns List
