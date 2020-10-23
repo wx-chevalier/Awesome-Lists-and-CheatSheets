@@ -132,6 +132,10 @@
 
 - [2019-Ambassador #Project#](https://github.com/datawire/ambassador): open source Kubernetes-native API gateway for microservices built on the Envoy Proxy.
 
+## OAuth
+
+- [2016-Hydra #Project#](https://github.com/ory/hydra): OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language.
+
 # Serverless
 
 - [2017-faas #Project#](https://github.com/alexellis/faas): Functions as a Service - a serverless framework for Docker & Kubernetes

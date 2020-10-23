@@ -182,8 +182,6 @@
         - [Aggregation List](/Backend/DevOps/MonitorAlert/Aggregation-List.md)
         - [MonitorAlert List](/Backend/DevOps/MonitorAlert/MonitorAlert-List.md)
     - Domain
-      - Auth
-        - [Auth List](/Backend/Domain/Auth/Auth-List.md)
       - BPM
         - [BPM List](/Backend/Domain/BPM/BPM-List.md)
         - [BPM OpenSource List](/Backend/Domain/BPM/BPM-OpenSource-List.md)
@@ -215,6 +213,8 @@
       - [SRE List](/Backend/HA/SRE-List.md)
       - [Spike List](/Backend/HA/Spike-List.md)
     - MicroCN
+      - Auth
+        - [Auth List](/Backend/MicroCN/Auth/Auth-List.md)
       - Configuration
         - [Configuration List](/Backend/MicroCN/Configuration/Configuration-List.md)
       - DistributedTracing
