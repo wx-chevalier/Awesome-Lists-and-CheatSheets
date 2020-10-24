@@ -120,6 +120,8 @@
 
 ## Search Engine
 
+- [Elasticsearch #Project#](https://www.elastic.co/cn/): Elasticsearch is a distributed RESTful search engine built for the cloud.
+
 - [search-index #Project#](https://github.com/fergiemcdowall/search-index): A persistent, network resilient, full text search library for the browser and Node.js.
 
 - [wwsearch #Project#](https://github.com/Tencent/wwsearch): A full-text search engine supporting massive users, real-time updating, fast fuzzy matching and flexible table splitting.
