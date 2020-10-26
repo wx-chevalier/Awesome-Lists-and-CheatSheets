@@ -14,6 +14,8 @@
 
 - [Remove Image Background](https://www.remove.bg/): 100% automatically – in 5 seconds – without a single click.
 
+- [vdx #Project#](https://github.com/yuanqing/vdx): 🎞️ An intuitive CLI for processing video, powered by FFmpeg
+
 ## OCR
 
 - [MathPix](https://mathpix.com): Take a screenshot of math and paste the LaTeX into your editor, all with a single keyboard shortcut.

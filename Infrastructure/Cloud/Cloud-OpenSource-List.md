@@ -84,6 +84,8 @@
 
 - [Kubernetes API Gateway #Project#](https://www.getambassador.io/products/edge-stack/api-gateway/): The Ambassador API Gateway delivers the scalability, security, and simplicity for some of the world's largest Kubernetes installations.
 
+- [KubeEdge #Project#](https://github.com/kubeedge/kubeedge): KubeEdge is built upon Kubernetes and extends native containerized application orchestration and device management to hosts at the Edge.
+
 ## Network
 
 - [OpenEBS #Project#](https://www.openebs.io/): OpenEBS is an open source storage platform that provides persistent and containerized block storage for DevOps and container environments.

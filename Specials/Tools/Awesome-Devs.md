@@ -82,6 +82,10 @@
 
 ## ZSH
 
+## Emulator
+
+- [edex-ui #Project#](https://github.com/GitSquared/edex-ui): A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+
 # Deployment | 部署
 
 - [Github Pages](): [2017-GitHub Pages and Single-Page Apps](https://dev.to/_evansalter/github-pages-and-single-page-apps)
