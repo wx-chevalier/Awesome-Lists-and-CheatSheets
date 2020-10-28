@@ -166,6 +166,8 @@
 
 # Datawarehouse
 
+- [LarkMidTable #Project#](https://github.com/wxgzgl/LarkMidTable): 基于 flinkx 的分布式数据中台产品。
+
 ## OLAP
 
 - [2016-ClickHouse #Project#](https://clickhouse.yandex/): ClickHouse is an open source column-oriented database management system capable of real time generation of analytical data reports using SQL queries.

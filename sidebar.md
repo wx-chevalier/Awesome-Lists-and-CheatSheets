@@ -273,7 +273,8 @@
       - [Finance List](/Business/Finance/Finance-List.md)
       - [Finance OpenSource List](/Business/Finance/Finance-OpenSource-List.md)
     - Industry
-      - [3DP List](/Business/Industry/3DP-List.md)
+      - 3DP
+        - [3DP List](/Business/Industry/3DP/3DP-List.md)
       - [Industrial Internet List](/Business/Industry/Industrial-Internet-List.md)
       - [Internet List](/Business/Industry/Internet-List.md)
     - Management
@@ -303,27 +304,25 @@
       - [Product OpenSource List](/Business/Product/Product-OpenSource-List.md)
       - [Vision List](/Business/Product/Vision-List.md)
   - Frontend
-    - DataVis
-      - 3D Format
-        - [3D Format List](/Frontend/DataVis/3D-Format/3D-Format-List.md)
-        - Mesh
-          - [Mesh List](/Frontend/DataVis/3D-Format/Mesh/Mesh-List.md)
-          - [Mesh OpenSource List](/Frontend/DataVis/3D-Format/Mesh/Mesh-OpenSource-List.md)
-      - Cube
-        - [Cube List](/Frontend/DataVis/Cube/Cube-List.md)
-      - [DataVis List](/Frontend/DataVis/DataVis-List.md)
-      - [DataVis OpenSource List](/Frontend/DataVis/DataVis-OpenSource-List.md)
+    - CGDataVis
+      - [CGDataVis List](/Frontend/CGDataVis/CGDataVis-List.md)
+      - [CGDataVis OpenSource List](/Frontend/CGDataVis/CGDataVis-OpenSource-List.md)
+      - ComputerGraphics
+        - [3D Format List](/Frontend/CGDataVis/ComputerGraphics/3D-Format-List.md)
+        - [ComputerGraphics List](/Frontend/CGDataVis/ComputerGraphics/ComputerGraphics-List.md)
+      - DataVis
+        - [Cube List](/Frontend/CGDataVis/DataVis/Cube-List.md)
+        - [DataVis List](/Frontend/CGDataVis/DataVis/DataVis-List.md)
       - Graphic
-        - [Animation List](/Frontend/DataVis/Graphic/Animation-List.md)
-        - [D3 List](/Frontend/DataVis/Graphic/D3-List.md)
-        - [Graphic List](/Frontend/DataVis/Graphic/Graphic-List.md)
-        - [Three.js List](/Frontend/DataVis/Graphic/Three.js-List.md)
-      - Image
-        - [Image List](/Frontend/DataVis/Image/Image-List.md)
-        - [Media OpenSource List](/Frontend/DataVis/Image/Media-OpenSource-List.md)
-        - [QR List](/Frontend/DataVis/Image/QR-List.md)
-      - Map
-        - [Map List](/Frontend/DataVis/Map/Map-List.md)
+        - [Animation List](/Frontend/CGDataVis/Graphic/Animation-List.md)
+        - [D3 List](/Frontend/CGDataVis/Graphic/D3-List.md)
+        - [Graphic List](/Frontend/CGDataVis/Graphic/Graphic-List.md)
+        - [Map List](/Frontend/CGDataVis/Graphic/Map-List.md)
+        - [Three.js List](/Frontend/CGDataVis/Graphic/Three.js-List.md)
+      - Media
+        - [Image List](/Frontend/CGDataVis/Media/Image-List.md)
+        - [Media OpenSource List](/Frontend/CGDataVis/Media/Media-OpenSource-List.md)
+        - [QR List](/Frontend/CGDataVis/Media/QR-List.md)
     - Desktop
       - [Desktop List](/Frontend/Desktop/Desktop-List.md)
       - Electron
@@ -822,6 +821,7 @@
       - [Awesome DataVis Collections](/Specials/Collections/Awesome-DataVis-Collections.md)
       - [Awesome Designs](/Specials/Collections/Awesome-Designs.md)
       - [Awesome Names](/Specials/Collections/Awesome-Names.md)
+      - [Awesome Vision](/Specials/Collections/Awesome-Vision.md)
       - [Build Your Own](/Specials/Collections/Build-Your-Own.md)
     - Showcases
       - [Awesome Giants](/Specials/Showcases/Awesome-Giants.md)

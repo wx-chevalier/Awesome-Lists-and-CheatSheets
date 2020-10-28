@@ -2,8 +2,6 @@
 
 # Overview
 
-- [D3 in Depth](http://d3indepth.com/introduction/): D3 in Depth aims to bridge the gap between introductory tutorials/books and the official documentation.
-
 # Resource
 
 ## Book

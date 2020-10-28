@@ -1,4 +1,4 @@
-# Software Architecture List
+# Software Architecture List | 软件架构与设计资料索引
 
 # Overview
 
@@ -33,6 +33,8 @@
 - [2017-Source Making-Refactoring Series #Book#](https://sourcemaking.com/refactoring): The book covers 89 code smells and the appropriate methods for refactoring. It consists of simple text slides, cute illustrations and interactive code examples.
 
 - [2018-Martin-Clean Architecture #Book#](http://putregai.com/sbooks/clean_arch.pdf): A Craftsman's Guide to Software Structure and Design.
+
+- [2019-A Philosophy of Software Design | 软件设计的哲学 #Book#](http://gdut_yy.gitee.io/doc-aposd/): 冠名为“艺术”，内容可能是记录一件优秀作品的设计过程和经验；而冠名为“哲学”，则是一些通用的原则和方法论，这些原则方法论串起来，能够形成一个体系。正如”知行合一”、“世界是由原子构成的”、“我思故我在”，这些耳熟能详的句子能够一定程度上代表背后的人物和思想。
 
 ### DDD
 
