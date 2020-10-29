@@ -1,4 +1,10 @@
-# Awesome Workflow
+# Awesome Documents
+
+- 鸠摩搜索 http://t.cn/RG07GHI
+
+- 布克书屋 http://t.cn/AiEso12y
+
+- 三秋书屋 http://t.cn/AiQ0uTv9
 
 # Note Taking App
 

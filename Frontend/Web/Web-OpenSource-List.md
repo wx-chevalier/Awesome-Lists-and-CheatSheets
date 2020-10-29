@@ -18,6 +18,18 @@
 
 ## Debug
 
+## Test
+
+- [Mocha #Project#](https://mochajs.org/): Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases. Hosted on GitHub.
+
+- [istanbul #Project#](https://istanbul.js.org/): Istanbul instruments your ES5 and ES2015+ JavaScript code with line counters, so that you can track how well your unit-tests exercise your codebase.
+
+- [Jest #Project#](https://jestjs.io/): Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
+
+### API Mocking
+
+- [Mock Service Worker #Project#](https://mswjs.io/): Mock by intercepting requests on the network level. Seamlessly reuse the same mock definition for testing, development, and debugging.
+
 ## Bundler
 
 - [Webpack #Project#](https://webpack.js.org/): Webpack is a static module bundler for modern JavaScript applications.
@@ -289,7 +301,3 @@
 - [2018-Micro Frontends](https://micro-frontends.org/): Techniques, strategies and recipes for building a modern web app with multiple teams using different JavaScript frameworks.
 
 - [Mooa #Project#](https://github.com/phodal/mooa): Mooa 是一个为 Angular 服务的微前端框架，[前端微服务化：使用微前端框架 Mooa 开发微前端应用](https://parg.co/o3F)。
-
-# Test Runner: 测试驱动器
-
-- [Majestic #Project#](https://github.com/Raathigesh/majestic): Majestic is an electron app that provides a UI for running tests with Jest.

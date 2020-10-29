@@ -313,6 +313,7 @@
       - DataVis
         - [Cube List](/Frontend/CGDataVis/DataVis/Cube-List.md)
         - [DataVis List](/Frontend/CGDataVis/DataVis/DataVis-List.md)
+        - [DataVis OpenSource List](/Frontend/CGDataVis/DataVis/DataVis-OpenSource-List.md)
       - Graphic
         - [Animation List](/Frontend/CGDataVis/Graphic/Animation-List.md)
         - [D3 List](/Frontend/CGDataVis/Graphic/D3-List.md)
@@ -377,6 +378,7 @@
       - [WebVR List](/Frontend/VR/WebVR-List.md)
     - Web
       - Architecture
+        - [Lowcode Builder List](/Frontend/Web/Architecture/Lowcode-Builder-List.md)
         - [Web Architecture List](/Frontend/Web/Architecture/Web-Architecture-List.md)
         - [Web Componentization List](/Frontend/Web/Architecture/Web-Componentization-List.md)
         - [Web SPA List](/Frontend/Web/Architecture/Web-SPA-List.md)
@@ -393,7 +395,6 @@
         - [Web Dev List](/Frontend/Web/Dev/Web-Dev-List.md)
         - [Web E2ETest List](/Frontend/Web/Dev/Web-E2ETest-List.md)
         - [Web Test List](/Frontend/Web/Dev/Web-Test-List.md)
-        - [Web TestRunner List](/Frontend/Web/Dev/Web-TestRunner-List.md)
         - [Webpack List](/Frontend/Web/Dev/Webpack-List.md)
       - Framework
         - Angular
@@ -478,7 +479,6 @@
         - [Navigation List](/Frontend/Web/Widgets/Navigation-List.md)
         - [Picker List](/Frontend/Web/Widgets/Picker-List.md)
         - [Select List](/Frontend/Web/Widgets/Select-List.md)
-        - [Visual Builder List](/Frontend/Web/Widgets/Visual-Builder-List.md)
   - InfoSecurity
     - Crawler
       - [Crawler List](/InfoSecurity/Crawler/Crawler-List.md)
@@ -807,6 +807,7 @@
         - [VM List](/ProgrammingLanguage/Theory/VM/VM-List.md)
   - [README en](/README-en.md)
   - Specials
+    - [Awesome Specials](/Specials/Awesome-Specials.md)
     - Career
       - [Coding as Vetren](/Specials/Career/Coding-as-Vetren.md)
       - [Guides](/Specials/Career/Guides.md)
@@ -814,16 +815,15 @@
       - [Writing List](/Specials/Career/Writing-List.md)
     - Collections
       - [Awesome Blogs](/Specials/Collections/Awesome-Blogs.md)
-      - [Awesome CS Books](/Specials/Collections/Awesome-CS-Books.md)
-      - [Awesome Codebases](/Specials/Collections/Awesome-Codebases.md)
       - [Awesome Collections](/Specials/Collections/Awesome-Collections.md)
       - [Awesome DataSets](/Specials/Collections/Awesome-DataSets.md)
-      - [Awesome DataVis Collections](/Specials/Collections/Awesome-DataVis-Collections.md)
       - [Awesome Designs](/Specials/Collections/Awesome-Designs.md)
       - [Awesome Names](/Specials/Collections/Awesome-Names.md)
       - [Awesome Vision](/Specials/Collections/Awesome-Vision.md)
       - [Build Your Own](/Specials/Collections/Build-Your-Own.md)
     - Showcases
+      - [Awesome Codebases](/Specials/Showcases/Awesome-Codebases.md)
+      - [Awesome DataVis Collections](/Specials/Showcases/Awesome-DataVis-Collections.md)
       - [Awesome Giants](/Specials/Showcases/Awesome-Giants.md)
       - [Awesome Showcases](/Specials/Showcases/Awesome-Showcases.md)
     - [Tools](/Specials/Tools/README.md)
