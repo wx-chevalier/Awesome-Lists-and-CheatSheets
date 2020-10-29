@@ -2,7 +2,7 @@
 
 - [AMiner](https://reports.aminer.cn/): 以 AMiner 全球科技情报大数据挖掘服务平台为基础，聘请领域顶级专家作为顾问，采用人工智能自动生成技术，以严谨，严肃，负责的态度，为您提供深刻的科技洞察报告。
 
-- [ThoughtWorks Tech Radar](https://www.thoughtworks.com/cn/radar): 雷达是这样一个文档，它列出了 ThoughtWorks 认为在当前软件开发中很有趣的那些变化——也就是 ThoughtWorks 认为你平时应该注意，并应该在项目中使用的那些正在发展中的技术。 它以我们的日常工作和经验为基础，反映了 ThoughtWorks 一批资深技术人的独特见解。 虽然我们认为这很有趣，但不应该被视为深度的市场分析。
+- [ThoughtWorks Tech Radar](https://www.thoughtworks.com/cn/radar): 雷达是这样一个文档，它列出了 ThoughtWorks 认为在当前软件开发中很有趣的那些变化——也就是 ThoughtWorks 认为你平时应该注意，并应该在项目中使用的那些正在发展中的技术。它以我们的日常工作和经验为基础，反映了 ThoughtWorks 一批资深技术人的独特见解。虽然我们认为这很有趣，但不应该被视为深度的市场分析。
 
 - [Product Hunt](https://www.producthunt.com/): Product Hunt surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.
 

@@ -1,14 +1,8 @@
 # Awesome Devs
 
-- [URL to PDF Microservice](https://github.com/alvarcarto/url-to-pdf-api): Web page PDF rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
+# Developer Portals
 
-- [wallabag #Project#](https://github.com/wallabag/wallabag): wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
-
-- [jsonstore #Project#](https://github.com/bluzi/jsonstore): jsonstore.io offers a free, secured and JSON based cloud datastore for small projects.
-
-- [Reverse engineering WhatsApp Web. #Project#](https://github.com/sigalor/whatsapp-web-reveng): This project intends to provide a complete description and re-implementation of the WhatsApp Web API, which will eventually lead to a custom client. WhatsApp Web internally works using WebSockets; this project does as well.
-
-- [2019-Firefly III #Project#](https://firefly-iii.org/about-general.html): “Firefly III” is a financial manager. It can help you keep track of expenses, income, budgets and everything in between. It even supports credit cards, shared household accounts and savings accounts! It’s pretty fancy. You should use it to save and organise money.
+- [Backstage #Project#](https://github.com/spotify/backstage#getting-started): Backstage is an open platform for building developer portals. Powered by a centralized service catalog, Backstage restores order to your microservices and infrastructure. So your product teams can ship high-quality code quickly — without compromising autonomy.
 
 # IDE
 
@@ -18,13 +12,7 @@
 
 - [ASCIIDecorator](https://marketplace.visualstudio.com/items?itemName=helixquar.asciidecorator): A VS Code extension that turns text to ASCII.
 
-### Workflow
-
 - [WakaTime for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime): Metrics, insights, and time tracking automatically generated from your programming activity.
-
-### JavaScript & Web
-
-### Java
 
 - [Checkstyle for Java](https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-checkstyle): Checkstyle extension for Visual Studio Code
 
@@ -42,10 +30,6 @@
 
 - [Spring Initializr](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr): Spring Initializr is a lightweight extension to quickly generate a Spring Boot project in Visual Studio Code (VS Code).
 
-### Python & DataScienceAI
-
-### Other
-
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): Run code snippet or code file for multiple languages
 
 ## Intellij
@@ -60,7 +44,7 @@
 
 - IE Tab: 仅支持 Windows 系统，能够在标签中以 IE 内核显示网页。
 
-- [Chrono 下载管理器](http://6me.us/PFn)
+- [Chrono](http://6me.us/PFn): 下载管理器。
 
 - [Save to Pocket](http://6me.us/Zp5): 允许将浏览的网页保存到 Pocket
 
@@ -73,8 +57,6 @@
 - 链接缩略: [Goog.gl URL Shortener](http://6me.us/vaJuM3)
 
 - 截图工具: [Awesome Screenshot](http://6me.us/lzEw), [Chrome Remote Desktop](http://6me.us/55h)
-
-## Web Development
 
 - [Responsive Viewer](https://github.com/skmail/responsive-viewer): Chrome extension to show multiple screens in one view.
 
@@ -93,3 +75,15 @@
 - [now.sh]()
 
 - [CaptainDuckDuck #Project#](https://github.com/githubsaturn/captainduckduck): Easiest app/database deployment platform and webserver package for your NodeJS, Python, Java applications. No Docker, nginx knowledge required!
+
+# Others
+
+- [URL to PDF Microservice](https://github.com/alvarcarto/url-to-pdf-api): Web page PDF rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
+
+- [wallabag #Project#](https://github.com/wallabag/wallabag): wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+
+- [jsonstore #Project#](https://github.com/bluzi/jsonstore): jsonstore.io offers a free, secured and JSON based cloud datastore for small projects.
+
+- [Reverse engineering WhatsApp Web. #Project#](https://github.com/sigalor/whatsapp-web-reveng): This project intends to provide a complete description and re-implementation of the WhatsApp Web API, which will eventually lead to a custom client. WhatsApp Web internally works using WebSockets; this project does as well.
+
+- [2019-Firefly III #Project#](https://firefly-iii.org/about-general.html): “Firefly III” is a financial manager. It can help you keep track of expenses, income, budgets and everything in between. It even supports credit cards, shared household accounts and savings accounts! It’s pretty fancy. You should use it to save and organise money.

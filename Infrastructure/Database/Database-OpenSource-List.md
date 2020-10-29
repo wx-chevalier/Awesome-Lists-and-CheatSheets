@@ -168,6 +168,12 @@
 
 - [LarkMidTable #Project#](https://github.com/wxgzgl/LarkMidTable): 基于 flinkx 的分布式数据中台产品。
 
+## Meta Management
+
+- [Apache Altas #Project#](https://atlas.apache.org/#/): Atlas is a scalable and extensible set of core foundational governance services – enabling enterprises to effectively and efficiently meet their compliance requirements within Hadoop and allows integration with the whole enterprise data ecosystem.
+
+- [2020-Amundsen #Project#](https://github.com/amundsen-io/amundsen): Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+
 ## OLAP
 
 - [2016-ClickHouse #Project#](https://clickhouse.yandex/): ClickHouse is an open source column-oriented database management system capable of real time generation of analytical data reports using SQL queries.
@@ -224,7 +230,7 @@
 
 - [dbt #Project#](https://github.com/fishtown-analytics/dbt): dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 
-## Data Pipeline
+## CDC & Data Pipeline
 
 - [Debezium #Project#](https://debezium.io/docs/tutorial/): Debezium is a distributed platform that turns your existing databases into event streams, so applications can see and respond immediately to each row-level change in the databases.
 

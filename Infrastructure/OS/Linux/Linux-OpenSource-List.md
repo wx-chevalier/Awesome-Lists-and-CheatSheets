@@ -72,4 +72,4 @@
 
 - [2017-Bash Snippets #Project#](https://github.com/alexanderepstein/Bash-Snippets): A collection of small bash scripts for heavy terminal users.
 
-- [Shell Check](https://www.shellcheck.net): finds bugs in your shell scripts.
+- [Shell Check #Project#](https://www.shellcheck.net): finds bugs in your shell scripts.
