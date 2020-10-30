@@ -6,6 +6,10 @@
 
 - [2018-im_service #Project#](https://github.com/GoBelieveIO/im_service): golang im server.
 
+## UI
+
+- [ChatUI #Project#](https://github.com/alibaba/ChatUI): The UI design language and React library for Conversational UI.
+
 ## Group Chat
 
 - [简聊 #Project#](https://github.com/jianliaoim/talk-os): 简聊所有业务代码的开源版本，可作任意修改。
@@ -27,6 +31,10 @@
 - [Jitsi Meet #Project#](https://meet.jit.si): Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 
 - [Media Soup #Project#](https://github.com/versatica/mediasoup): Cutting Edge WebRTC Video Conferencing.
+
+# Voice
+
+- [Jovo #Project#](https://www.jovo.tech/): Build and run voice experiences that work across devices and platforms. Including Amazon Alexa, Google Assistant, mobile phones, Raspberry Pi, and more.
 
 # Customer Service
 
@@ -59,3 +67,9 @@
 ## RTSP
 
 - [rtsp-stream #Project#](https://github.com/Roverr/rtsp-stream): Out of box solution for RTSP - HLS live stream transcoding. Makes RTSP easy to play in browsers.
+
+# Assistant & Bot
+
+- [Home Assistant #Project#](https://home-assistant.io/): Home Assistant is an open-source home automation platform running on Python 3. Track and control all devices at home and automate control. Perfect to run on a Raspberry Pi.
+
+- [ChatterBot #Project#](https://github.com/gunthercox/ChatterBot): ChatterBot is a machine learning, conversational dialog engine for creating chat bots

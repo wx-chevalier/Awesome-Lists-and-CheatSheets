@@ -8,8 +8,6 @@
     - [AI Tutorial List](/AI/AI-Tutorial-List.md)
     - Application
       - [Application List](/AI/Application/Application-List.md)
-      - Assistant
-        - [Assistant List](/AI/Application/Assistant/Assistant-List.md)
       - RecommendSystem
         - [CTR List](/AI/Application/RecommendSystem/CTR-List.md)
         - [RecommendSystem List](/AI/Application/RecommendSystem/RecommendSystem-List.md)
