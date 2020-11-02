@@ -16,4 +16,8 @@
 
 # StandML
 
-- [2019-A Tour of Standard ML #Series#](https://saityi.github.io/sml-tour/tour/00-00-welcome.html): The tour consists of a set of chapters, each intended to showcase different features of Standard ML. 
+- [2019-A Tour of Standard ML #Series#](https://saityi.github.io/sml-tour/tour/00-00-welcome.html): The tour consists of a set of chapters, each intended to showcase different features of Standard ML.
+
+# Production
+
+- [2020-12 Factors of reproducible Machine Learning in production](https://blog.maiot.io/12-factors-of-ml-in-production/): The last two decades have yielded us some great understandings about Software Development. A big part of that is due to the emergence of DevOps and it’s wide adoption throughout the industry.

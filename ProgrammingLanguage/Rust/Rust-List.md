@@ -62,6 +62,8 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2018-Writing a Microservice in Rust](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/): Let me begin this article on Writing a Microservice in Rust by talking about C++.
 
+- [2019-rustlings #Project#](https://github.com/rust-lang/rustlings): 🦀 Small exercises to get you used to reading and writing Rust code!
+
 ## CheatSheet
 
 - [2017-Rust CheatSheet](http://phaiax.github.io/rust-cheatsheet/)
