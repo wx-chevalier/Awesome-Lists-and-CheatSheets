@@ -11,3 +11,7 @@
 ## Compression | 压缩
 
 - [Lepton #Project#](https://github.com/dropbox/lepton): 用于存储时图片压缩.
+
+# FFmpeg
+
+- [ffmpeg.wasm #Project#](https://ffmpegwasm.github.io/): ffmpeg.wasm is a pure WebAssembly / JavaScript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.

@@ -304,7 +304,6 @@
   - Frontend
     - CGDataVis
       - [CGDataVis List](/Frontend/CGDataVis/CGDataVis-List.md)
-      - [CGDataVis OpenSource List](/Frontend/CGDataVis/CGDataVis-OpenSource-List.md)
       - ComputerGraphics
         - [3D Format List](/Frontend/CGDataVis/ComputerGraphics/3D-Format-List.md)
         - [ComputerGraphics List](/Frontend/CGDataVis/ComputerGraphics/ComputerGraphics-List.md)
@@ -316,6 +315,7 @@
         - [Animation List](/Frontend/CGDataVis/Graphic/Animation-List.md)
         - [D3 List](/Frontend/CGDataVis/Graphic/D3-List.md)
         - [Graphic List](/Frontend/CGDataVis/Graphic/Graphic-List.md)
+        - [Graphic OpenSource List](/Frontend/CGDataVis/Graphic/Graphic-OpenSource-List.md)
         - [Map List](/Frontend/CGDataVis/Graphic/Map-List.md)
         - [Three.js List](/Frontend/CGDataVis/Graphic/Three.js-List.md)
       - Media
