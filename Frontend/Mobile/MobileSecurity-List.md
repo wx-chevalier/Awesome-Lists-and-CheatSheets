@@ -1,7 +1,5 @@
 # 终端安全
 
-# Android
-
 # iOS
 
 - [MAC 软件破解初探—Hopper Disassembler 使用](http://www.52pojie.cn/thread-226930-1-1.html)

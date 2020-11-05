@@ -62,7 +62,7 @@
 
 - [xstate #Project#](https://github.com/davidkpiano/xstate): State machines and statecharts for the modern web.
 
-## Mini Program
+## Mini Program & Cross App
 
 - [wepy #Project#](https://tencent.github.io/wepy/): 让小程序支持组件化开发的框架，一个最受欢迎的小程序框架。
 
@@ -71,6 +71,14 @@
 - [Taro #Project#](https://github.com/NervJS/taro): 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序/百度智能小程序/支付宝小程序、H5、React Native 等的应用。
 
 - [Remax #Project#](https://github.com/remaxjs/remax): Remax 将 React 运行在小程序环境中，让你可以使用完整的 React 进行开发。
+
+- [2017-Taro #Project#](https://github.com/NervJS/taro): 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。
+
+- [2018-Chameleon #Project#](https://cmljs.org/doc/): Chameleon /kəˈmiːlɪən/，简写 CML，中文名卡梅龙；中文意思变色龙，意味着就像变色龙一样能适应不同环境的跨端整体解决方案。
+
+- [2019-alita #Project#](https://github.com/areslabs/alita): 一套把 React Native 代码转换成微信小程序代码的转换引擎工具。我们不造轮子，不发明新框架，只是提供工具把 RN 扩展到微信小程序端。
+
+- [uni-app #Project#](https://github.com/dcloudio/uni-app): uni-app 是一个使用 Vue.js 开发跨平台应用的前端框架。
 
 ## Scaffold
 

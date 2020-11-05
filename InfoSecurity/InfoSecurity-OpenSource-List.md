@@ -118,6 +118,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [Sherlock #Project#](https://github.com/sherlock-project/sherlock): 🔎 Hunt down social media accounts by username across social networks.
 
+- [Trape #Project#](https://github.com/jofpin/trape): People tracker on the Internet: OSINT analysis and research tool by Jose Pino
+
 ### Sub Domain
 
 - [wydomain #Project#](https://github.com/ring04h/wydomain): To Discover Subdomains Of Your Target Domain

@@ -352,8 +352,6 @@
           - [Flutter Practices List](/Frontend/Mobile/Hybrid/Flutter/Flutter-Practices-List.md)
           - [Flutter Widgets List](/Frontend/Mobile/Hybrid/Flutter/Flutter-Widgets-List.md)
         - [Hybrid List](/Frontend/Mobile/Hybrid/Hybrid-List.md)
-        - MiniApp
-          - [MiniApp List](/Frontend/Mobile/Hybrid/MiniApp/MiniApp-List.md)
         - ReactNative
           - [ReactNative Internals List](/Frontend/Mobile/Hybrid/ReactNative/ReactNative-Internals-List.md)
           - [ReactNative List](/Frontend/Mobile/Hybrid/ReactNative/ReactNative-List.md)
@@ -365,6 +363,7 @@
           - [Weex List](/Frontend/Mobile/Hybrid/Weex/Weex-List.md)
       - [Mobile List](/Frontend/Mobile/Mobile-List.md)
       - [Mobile OpenSource List](/Frontend/Mobile/Mobile-OpenSource-List.md)
+      - [MobileSecurity List](/Frontend/Mobile/MobileSecurity-List.md)
       - iOS
         - [iOS Dev List](/Frontend/Mobile/iOS/iOS-Dev-List.md)
         - [iOS List](/Frontend/Mobile/iOS/iOS-List.md)
@@ -387,6 +386,8 @@
         - [Browser Extension List](/Frontend/Web/Browser/Browser-Extension-List.md)
         - [Browser List](/Frontend/Web/Browser/Browser-List.md)
         - [Web Decentralization](/Frontend/Web/Browser/Web-Decentralization.md)
+      - CrossApp
+        - [MiniApp List](/Frontend/Web/CrossApp/MiniApp-List.md)
       - Dev
         - [Web Builder List](/Frontend/Web/Dev/Web-Builder-List.md)
         - [Web Debug List](/Frontend/Web/Dev/Web-Debug-List.md)
@@ -486,10 +487,6 @@
       - [Cryptology List](/InfoSecurity/Cryptology/Cryptology-List.md)
     - [InfoSecurity List](/InfoSecurity/InfoSecurity-List.md)
     - [InfoSecurity OpenSource List](/InfoSecurity/InfoSecurity-OpenSource-List.md)
-    - MobileSecurity
-      - Android
-        - [AndroidSecurity List](/InfoSecurity/MobileSecurity/Android/AndroidSecurity-List.md)
-      - [MobileSecurity List](/InfoSecurity/MobileSecurity/MobileSecurity-List.md)
     - OSSecurity
       - [Harden List](/InfoSecurity/OSSecurity/Harden-List.md)
       - [OSSecurity List](/InfoSecurity/OSSecurity/OSSecurity-List.md)
