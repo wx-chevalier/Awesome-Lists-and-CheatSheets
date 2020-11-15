@@ -64,6 +64,8 @@
 
 - [2020-k3d #Project#](https://github.com/rancher/k3d/): Little helper to run Rancher Lab's k3s in Docker.
 
+- [2020-k0s #Project#](https://github.com/k0sproject/k0s): k0s is yet another Kubernetes distro. Yes. But we do some of the things pretty different from other distros out there.
+
 ## Cluster Management
 
 - [fleet #Project#](https://github.com/rancher/fleet): Manage large fleets of Kubernetes clusters.

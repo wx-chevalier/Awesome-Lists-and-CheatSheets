@@ -66,7 +66,7 @@
 
 - [tunshell #Project#](https://github.com/TimeToogo/tunshell): Remote shell into ephemeral environments 🐚 🦀
 
-# Shell
+# Shell Programming
 
 - [Bash Infinity #Project#](https://github.com/niieani/bash-oo-framework): Bash Infinity is a modern boilerplate / framework / standard library for bash
 

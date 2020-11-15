@@ -10,7 +10,9 @@
 
 ## Book | 书籍
 
-- [SurviveJS - Webpack #Book#](https://survivejs.com/webpack/): SurviveJS - Webpack is meant for beginner to intermediate users of webpack.
+- [SurviveJS Webpack #Book#](https://survivejs.com/webpack/): SurviveJS - Webpack is meant for beginner to intermediate users of webpack.
+
+- [Practical Module Federation #Book#](https://ngte.cowtransfer.com/s/77b881e3669847)
 
 ## Tutorial | 教程
 
