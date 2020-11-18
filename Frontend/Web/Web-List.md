@@ -56,6 +56,8 @@
 
 ## Course | 课程
 
+- [2020-Web Dev For Beginners #Course#](https://github.com/microsoft/Web-Dev-For-Beginners): Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about JavaScript, CSS, and HTML basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
+
 ## Meeting
 
 - [2019-第十三届 D2 前端技术论坛精彩回顾 #Meeting#](https://www.yuque.com/d2forum/content/d213): 智能化和渲染技术，可视化技术和工程化技术，开发模式与语言框架。

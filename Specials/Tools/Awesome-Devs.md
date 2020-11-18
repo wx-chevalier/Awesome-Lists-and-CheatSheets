@@ -90,6 +90,8 @@
 
 # Command Line Tools
 
+- [2020-starship #Project#](https://github.com/starship/starship): The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
 - [gping #Project#](https://github.com/orf/gping): Ping, but with a graph.
 
 - [2005-htop #Project#](https://github.com/hishamhm/htop): htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
