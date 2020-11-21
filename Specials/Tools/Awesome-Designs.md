@@ -4,11 +4,13 @@
 
 - [Segmented circles #Project#](https://github.com/design4use/gb-sketch-segmentcircle): Sketch plugin creates circular graphics for diagrams, instrumentation and analytics.
 
-# 录屏与分享
+# Screen Recorder | 录屏与分享
 
 - [Kap #Project#](https://getkap.co/): Capture your screen, An open-source screen recorder built with web technology.
 
 - [Zappy #Project#](https://zapier.com/zappy): The fastest, all-in-one way to share screenshots, GIFs, and recordings with your teammates.
+
+- [Screenity #Project#](https://github.com/alyssaxuu/screenity): The most powerful screen recorder & annotation tool for Chrome 🎥
 
 ## 图片处理
 
