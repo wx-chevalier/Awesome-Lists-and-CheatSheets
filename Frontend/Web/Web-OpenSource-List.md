@@ -94,6 +94,8 @@
 
 - [2019-Chakra UI #Project#](https://github.com/chakra-ui/chakra-ui): ⚡️Simple, Modular & Accessible UI Components for your React Applications.
 
+- [tailwindcss #Project#](https://tailwindcss.com/): Rapidly build modern websites without ever leaving your HTML.
+
 ## Admin/Dashboard
 
 - [2019-D2Admin #Project#](https://github.com/d2-projects/d2-admin): D2Admin is a fully open source and free enterprise back-end product front-end integration solution, using the latest front-end technology stack, has prepared most of the project preparations, and with a lot of sample code to help the management system agile development.

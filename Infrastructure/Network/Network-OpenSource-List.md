@@ -6,6 +6,8 @@
 
 - [whistle #Project#](https://github.com/avwo/whistle): whistle is a cross-platform web debugging tool based on Node.js.
 
+- [packetdrill #Project#](https://github.com/google/packetdrill): The official Google release of packetdrill.
+
 # WebSocket
 
 - [2017-go-socket.io #Project#](https://github.com/googollee/go-socket.io): go-socket.io is an implementation of Socket.IO in Golang, which is a realtime application framework.

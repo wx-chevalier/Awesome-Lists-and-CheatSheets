@@ -932,16 +932,15 @@
           - [10.6.3.4.1 en](/Specials/Weekly/2018/4/4.1-en.md)
       - [10.6.4 ABOUT](/Specials/Weekly/ABOUT.md)
       - [10.6.5 CONTRIBUTION](/Specials/Weekly/CONTRIBUTION.md)
-      - [10.6.6 README en](/Specials/Weekly/README-en.md)
-      - 10.6.7 SemiannualReport
-        - 10.6.7.1 1
-          - [10.6.7.1.1 Angular](/Specials/Weekly/SemiannualReport/2017-1/Angular.md)
-          - [10.6.7.1.2 CSS](/Specials/Weekly/SemiannualReport/2017-1/CSS.md)
-          - [10.6.7.1.3 JavaScript](/Specials/Weekly/SemiannualReport/2017-1/JavaScript.md)
-          - [10.6.7.1.4 Node](/Specials/Weekly/SemiannualReport/2017-1/Node.md)
-          - [10.6.7.1.5 PWA](/Specials/Weekly/SemiannualReport/2017-1/PWA.md)
-          - [10.6.7.1.6 React](/Specials/Weekly/SemiannualReport/2017-1/React.md)
-          - [10.6.7.1.7 Vue.js](/Specials/Weekly/SemiannualReport/2017-1/Vue.js.md)
-          - [10.6.7.1.8 WebAssembly](/Specials/Weekly/SemiannualReport/2017-1/WebAssembly.md)
-      - [10.6.8 TEMPLATE](/Specials/Weekly/TEMPLATE.md)
-      - [10.6.9 Template en](/Specials/Weekly/Template-en.md)
+      - 10.6.6 SemiannualReport
+        - 10.6.6.1 1
+          - [10.6.6.1.1 Angular](/Specials/Weekly/SemiannualReport/2017-1/Angular.md)
+          - [10.6.6.1.2 CSS](/Specials/Weekly/SemiannualReport/2017-1/CSS.md)
+          - [10.6.6.1.3 JavaScript](/Specials/Weekly/SemiannualReport/2017-1/JavaScript.md)
+          - [10.6.6.1.4 Node](/Specials/Weekly/SemiannualReport/2017-1/Node.md)
+          - [10.6.6.1.5 PWA](/Specials/Weekly/SemiannualReport/2017-1/PWA.md)
+          - [10.6.6.1.6 React](/Specials/Weekly/SemiannualReport/2017-1/React.md)
+          - [10.6.6.1.7 Vue.js](/Specials/Weekly/SemiannualReport/2017-1/Vue.js.md)
+          - [10.6.6.1.8 WebAssembly](/Specials/Weekly/SemiannualReport/2017-1/WebAssembly.md)
+      - [10.6.7 TEMPLATE](/Specials/Weekly/TEMPLATE.md)
+      - [10.6.8 Template en](/Specials/Weekly/Template-en.md)
