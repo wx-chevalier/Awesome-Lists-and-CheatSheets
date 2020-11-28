@@ -12,6 +12,14 @@
 
 - [tunshell #Project#](https://github.com/TimeToogo/tunshell): Remote shell into ephemeral environments 🐚 🦀
 
+## JavaScript Engine
+
+- [boa](https://github.com/jasonwilliams/boa): Javascript engine written in Rust
+
+- [rapidus](https://github.com/maekawatoshiki/rapidus): A toy JavaScript engine implemented in Rust from scratch
+
+- [naive](https://github.com/hsiaosiyuan0/naive): This is a naive JavaScript engine implemented in pure Rust to improve my JavaScript knowledge.
+
 # Dev Toolkits
 
 - [2019-dtool #Project#](https://github.com/guoxbin/dtool): dtool is a command-line tool collection to assist development.

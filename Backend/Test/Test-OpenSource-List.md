@@ -16,11 +16,13 @@
 
 - [wrk #Project#](https://github.com/wg/wrk): wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU.
 
-- [Webbench #Project#](https://github.com/EZLippi/WebBench): Webbench 是 Radim Kolar 在 1997 年写的一个在 linux 下使用的非常简单的网站压测工具。它使用 fork()模拟多个客户端同时访问我们设定的 URL，测试网站在压力下工作的性能，最多可以模拟 3 万个并发连接去测试网站的负载能力。
+- [Webbench #Project#](https://github.com/EZLippi/WebBench): Webbench 是 Radim Kolar 在 1997 年写的一个在 linux 下使用的非常简单的网站压测工具。它使用 fork() 模拟多个客户端同时访问我们设定的 URL，测试网站在压力下工作的性能，最多可以模拟 3 万个并发连接去测试网站的负载能力。
 
 - [Vegeta #Project#](https://github.com/tsenart/vegeta): HTTP load testing tool and library. It's over 9000!
 
 - [Locust #Project#](https://github.com/locustio/locust): Scalable user load testing tool written in Python
+
+- [k6 #Project#](https://github.com/loadimpact/k6): k6 is a modern load testing tool, building on Load Impact's years of experience. It provides a clean, approachable scripting API, distributed and cloud execution, and orchestration via a REST API.
 
 ## Fuzz & Diff
 
@@ -39,8 +41,6 @@
 - [open-source-database-testing-tools](http://www.softwaretestingmagazine.com/tools/open-source-database-testing-tools/)
 
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings/)
-
-- [k6 #Project#](https://github.com/loadimpact/k6): k6 is a modern load testing tool, building on Load Impact's years of experience. It provides a clean, approachable scripting API, distributed and cloud execution, and orchestration via a REST API.
 
 # Database
 
