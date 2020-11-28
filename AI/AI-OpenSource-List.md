@@ -96,6 +96,8 @@
 
 - [2019-Transformers #Project#](https://github.com/huggingface/transformers): 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 
+- [2020-MiNLP #Project#](https://github.com/XiaoMi/MiNLP): 小米自然语言处理平台（MiNLP）具备词法、句法、语义分析等数十个功能模块，已经在公司业务中得到了广泛应用。
+
 ## Classification
 
 - [2016-FastText #Project#](https://fasttext.cc/): FastText is an open-source, free, lightweight library that allows users to learn text representations and text classifiers. It works on standard, generic hardware. Models can later be reduced in size to even fit on mobile devices.
