@@ -10,8 +10,10 @@
 
 ## Book
 
-- [2012-Advanced Bash-Scripting Guide #Book#](https://www.aquaclusters.com/app/home/project/public/Advanced-Bash-Scripting-Guide-1/wikibook/Advanced-Bash-Scripting-Guide/page/0/Advanced-Bash-Scripting-Guide): An in-depth exploration of the art of shell scripting.
-    
+- [2012-Advanced Bash Scripting Guide #Book#](https://www.aquaclusters.com/app/home/project/public/Advanced-Bash-Scripting-Guide-1/wikibook/Advanced-Bash-Scripting-Guide/page/0/Advanced-Bash-Scripting-Guide): An in-depth exploration of the art of shell scripting.
+
+- [2020-💡 Introduction to Bash Scripting #Book#](https://github.com/bobbyiliev/introduction-to-bash-scripting): This is an open-source introduction to Bash scripting guide/ebook that will help you learn the basics of Bash scripting and start writing awesome Bash scripts that will help you automate your daily SysOps, DevOps, and Dev tasks. No matter if you are a DevOps/SysOps engineer, developer, or just a Linux enthusiast, you can use Bash scripts to combine different Linux commands and automate boring and repetitive daily tasks, so that you can focus on more productive and fun things.
+
 # Tutorials
 
 ## Playground
