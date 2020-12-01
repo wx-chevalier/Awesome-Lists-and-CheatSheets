@@ -1,11 +1,19 @@
-# Build Your Own
+# Build Your Own X From Scratch
+
+- [Build yourself a Linux](https://github.com/MichielDerhaeg/build-linux): A short tutorial about building Linux based operating systems.
+
+- [2018-mkernel #Project#](https://github.com/arjun024/mkeykernel?subject=os): This is a minimalist kernel which prints "my first kernel" on the screen and then hangs.
+
+- [2018-Writing an OS in Rust](https://os.phil-opp.com/): This blog series creates a small operating system in the Rust programming language. Each post is a small tutorial and includes all needed code, so you can follow along if you like.
+
+- [2020-What is Linux From Scratch? #Book#](http://www.linuxfromscratch.org/lfs/): Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own customized Linux system entirely from source.
 
 # ![Build your own X](feynman.png)
 
 ## Table of contents
 
-- [Build Your Own](#build-your-own)
-- [!Build your own X](#img-srcfeynmanpng-altbuild-your-own-x)
+- [Build Your Own X From Scratch](#build-your-own-x-from-scratch)
+- [!Build your own X](#)
   - [Table of contents](#table-of-contents)
   - [Tutorials](#tutorials)
       - [Build your own `3D Renderer`](#build-your-own-3d-renderer)
