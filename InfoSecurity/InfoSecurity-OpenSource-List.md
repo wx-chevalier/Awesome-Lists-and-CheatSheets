@@ -132,6 +132,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - Hydra
 
+- [Depix #Project#](https://github.com/beurtschipper/Depix): Recovers passwords from pixelized screenshots
+
 ## SQL Injection
 
 - [sqlmap #Project#](https://github.com/sqlmapproject/sqlmap): Automatic SQL injection and database takeover tool
@@ -179,6 +181,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 - [Burpsuite]()
 
 - [Charles]()
+
+- [r0capture #Project#](https://github.com/r0ysue/r0capture): 安卓应用层抓包通杀脚本
 
 ## WiFi
 

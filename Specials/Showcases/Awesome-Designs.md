@@ -34,7 +34,15 @@
 
 ## 配色
 
-- [Adobe Color](https://color.adobe.com/zh/create):
+- [Adobe Color](https://color.adobe.com/zh/create): 透過 Adobe Color，您就能存取我們強大的色彩調和引擎，用於建立完美的色彩主題並在 Adobe 產品中使用。請從探索 Color 社群的主題開始您的色彩之旅。
+
+- [Web Gradients #Project#](https://webgradients.com/): WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
+
+- [Color Hunt](https://colorhunt.co/palettes): Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes
+
+## Icons
+
+- [SuperTinyIcons #Project#](https://github.com/edent/SuperTinyIcons): Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 
 # Diagram | 绘图
 

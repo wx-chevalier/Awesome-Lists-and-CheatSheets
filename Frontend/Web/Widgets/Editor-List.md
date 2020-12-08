@@ -34,7 +34,7 @@
 
 - [exceljs #Project#](https://github.com/exceljs/exceljs): Read, manipulate and write spreadsheet data and styles to XLSX and JSON.
 
-- [Luckysheet #Project#](https://github.com/mengshukeji/Luckysheet): Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+- [Luckysheet #Project#](https://github.com/mengshukeji/Luckysheet): Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source. [LuckysheetServer](https://github.com/mengshukeji/LuckysheetServer).
 
 ## Article
 
