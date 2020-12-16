@@ -1,5 +1,19 @@
 # React Native OpenSource List
 
+# Showcase
+
+- [GitBook 阅读器](https://github.com/le0zh/gitbook-reader-rn)：使用 ReactNative 开发的 GitBook 阅读器，可以查看在线的书籍信息，在线阅读和下载。
+
+- [BBCNews-React-Native](https://github.com/joeltrew/BBCNews-React-Native)
+
+- [f8app](https://github.com/fbsamples/f8app)
+
+- [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed)
+
+- [react-native-nba-app](https://github.com/wwayne/react-native-nba-app)
+
+- [2017-Joplin #Project#](https://github.com/laurent22/joplin): a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+
 # Development Tools
 
 - [Expo #Project#](https://github.com/expo/expo): Expo is a set of tools, libraries, and services that let you build native iOS and Android apps by writing JavaScript. This repository is where the Expo client software is developed, and includes the client apps, modules, apps, and more.
@@ -46,20 +60,4 @@
 
 - [2017-Reactive Search #Project#](https://github.com/appbaseio/reactivesearch): A React and React Native UI components library for building data-driven apps.
 
-- [Fonts available out of the box in a React Native project](https://github.com/dabit3/react-native-fonts)
-
 # Widgets
-
-# Showcase
-
-- [GitBook 阅读器](https://github.com/le0zh/gitbook-reader-rn)：使用 ReactNative 开发的 GitBook 阅读器，可以查看在线的书籍信息，在线阅读和下载。
-
-- [BBCNews-React-Native](https://github.com/joeltrew/BBCNews-React-Native)
-
-- [f8app](https://github.com/fbsamples/f8app)
-
-- [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed)
-
-- [react-native-nba-app](https://github.com/wwayne/react-native-nba-app)
-
-- [2017-Joplin #Project#](https://github.com/laurent22/joplin): a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.

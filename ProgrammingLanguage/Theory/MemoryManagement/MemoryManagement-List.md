@@ -6,8 +6,6 @@
 
 - [2018-Understanding the C/C++ memory model](https://parg.co/UiJ): I’m going to try to set out my understanding of the model, which is hopefully correct, in more straightforward terms and with a more “ground up” explanation.
 
-# Allocation
-
 # Garbage Collection
 
 - [Memory management in various languages](http://www.memorymanagement.org/mmref/lang.html)

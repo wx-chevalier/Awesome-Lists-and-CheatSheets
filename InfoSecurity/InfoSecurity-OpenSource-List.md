@@ -62,6 +62,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [Janusec #Project#](https://github.com/Janusec/janusec): Janusec Application Gateway, a Golang based application security solution which provides WAF (Web Application Firewall), CC attack defense, unified web administration portal, private key protection, web routing and scalable load balancing.
 
+- [Crowdsec #Project#](https://github.com/crowdsecurity/crowdsec): Crowdsec is an open-source, lightweight software, detecting peers with aggressive behaviors to prevent them from accessing your systems. Its user friendly design and assistance offers a low technical barrier of entry and nevertheless a high security gain.
+
 ## JumpServer
 
 - [Jump Server #Project#](https://github.com/jumpserver/jumpserver): Jumpserver 是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。
@@ -195,6 +197,10 @@ List of Security Archives Tools and software, generally for facilitate security 
 # Hardware | 硬件
 
 - [PoisonTap #Project#](https://github.com/samyk/poisontap)
+
+# Reverse Engineering
+
+- [rizin #Project#](https://rizin.re/): Free and Open Source Reverse Engineering Framework.
 
 # TBD
 

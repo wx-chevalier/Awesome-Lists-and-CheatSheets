@@ -115,6 +115,10 @@ Diagrams: timing
 
 - [2018-PicGo #Project#](https://github.com/Molunerfinn/PicGo): 🚀A simple & beautiful tool for pictures uploading built by electron-vue
 
+## 相似度识别
+
+- [imgdiff #Project#](https://github.com/n7olkachev/imgdiff): Faster than the fastest in the world pixel-by-pixel image difference tool.
+
 # 简历
 
 - [Reactive Resume](https://rx-resume.web.app): 在线简历设计器。

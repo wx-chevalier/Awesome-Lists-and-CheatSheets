@@ -26,6 +26,10 @@
 
 - [Pulumi #Project#](https://github.com/pulumi/pulumi): Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀.
 
+## Deployment
+
+- [meli #Project#](https://github.com/getmeli/meli): Open source platform for deploying static sites and frontend applications.
+
 # CI/CD
 
 ## Pipeline
@@ -58,19 +62,23 @@
 
 > Linux 系统相关的工具参考 [Linux-OpenSource-List](/)。
 
-## Monitor System 
+## Monitor System
 
 - [netdata #Project#](https://my-netdata.io/): nparalleled insights, in real-time, of everything happening on your systems and applications, with stunning, interactive web dashboards and powerful performance and health alarms.
 
 - [Open Falcon #Project#](http://open-falcon.org/): A Distributed and High-Performance Monitoring System.
 
-- [Prometheus #Project#](https://prometheus.io/): Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts if some condition is observed to be true.
-
 - [2020-Monitoror #Project#](https://github.com/monitoror/monitoror): Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 
 - [2020-nightingale #Project#](https://github.com/didi/nightingale): A Distributed and High-Performance Monitoring System.
 
-- [2020-Doraemon #Project#](https://github.com/Qihoo360/doraemon): Doraemon是一个基于 Prometheus 的监控系统。该系统主要由三个组件组成——计算引擎（Rule Engine），报警网关（Alert Gateway）以及Web-UI。与Prometheus使用静态的配置文件来配置报警规则不同，Doraemon可以通过Web-UI动态的配置加载报警规则。此外，Doraemon还集成了许多自定义的报警功能。
+- [2020-Doraemon #Project#](https://github.com/Qihoo360/doraemon): Doraemon 是一个基于 Prometheus 的监控系统。该系统主要由三个组件组成——计算引擎（Rule Engine），报警网关（Alert Gateway）以及 Web-UI。与 Prometheus 使用静态的配置文件来配置报警规则不同，Doraemon 可以通过 Web-UI 动态的配置加载报警规则。此外，Doraemon 还集成了许多自定义的报警功能。
+
+### Prometheus
+
+- [Prometheus #Project#](https://prometheus.io/): Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts if some condition is observed to be true.
+
+- [Thanos #Project#](https://thanos.io/): Open source, highly available Prometheus setup with long term storage capabilities.
 
 ## APM
 

@@ -790,7 +790,8 @@
       - 8.12.1 Compiler
         - [8.12.1.1 Compiler List](/ProgrammingLanguage/Theory/Compiler/Compiler-List.md)
       - 8.12.2 MemoryManagement
-        - [8.12.2.1 MemoryManagement List](/ProgrammingLanguage/Theory/MemoryManagement/MemoryManagement-List.md)
+        - [8.12.2.1 GarbageCollection List](/ProgrammingLanguage/Theory/MemoryManagement/GarbageCollection-List.md)
+        - [8.12.2.2 MemoryManagement List](/ProgrammingLanguage/Theory/MemoryManagement/MemoryManagement-List.md)
       - [8.12.3 PLT List](/ProgrammingLanguage/Theory/PLT-List.md)
       - [8.12.4 PLT OpenSource List](/ProgrammingLanguage/Theory/PLT-OpenSource-List.md)
       - 8.12.5 StaticAnalysis
