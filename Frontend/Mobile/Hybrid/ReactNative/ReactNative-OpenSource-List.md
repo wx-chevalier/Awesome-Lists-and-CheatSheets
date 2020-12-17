@@ -40,11 +40,13 @@
 
 # Libraries
 
-- [NativeBase](http://nativebase.io/docs/v0.2.0/getting-started)
+- [NativeBase](https://github.com/GeekyAnts/NativeBase): Essential cross-platform UI components for React Native.
 
 - [2018-React Native Paper #Project#](https://parg.co/U1m): Material Design for React Native (Android & iOS).
 
-- [9-libraries-to-consider-for-your-next-react-native-project](https://medium.com/@bilalbudhani/9-libraries-to-consider-for-your-next-react-native-project-723f179d4764#.rtqlr8rid)
+- [Galio #Project#](https://github.com/galio-org/galio): Galio is a beautifully designed, Free and Open Source React Native Framework
+
+## Widget
 
 - [react-native-wechat](https://github.com/weflex/react-native-wechat)
 
