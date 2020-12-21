@@ -54,6 +54,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [reNgine #Project#](https://github.com/yogeshojha/rengine): reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
 
+- [Nuclei #Project#](https://github.com/projectdiscovery/nuclei): Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
+
 ## IDS & WAF
 
 - [驭龙 HIDS #Project#](https://github.com/ysrc/yulong-hids): 驭龙 HIDS 是一款由 YSRC 开源的入侵检测系统，由 Agent，Daemon，Server 和 Web 四个部分组成，集异常检测、监控管理为一体，拥有异常行为发现、快速阻断、高级分析等功能，可从多个维度行为信息中发现入侵行为。
@@ -109,6 +111,10 @@ List of Security Archives Tools and software, generally for facilitate security 
 ## Security Scenario
 
 - [SecGen #Project#](https://github.com/cliffe/SecGen): SecGen creates vulnerable virtual machines so students can learn security penetration testing techniques.
+
+# Social Engineering
+
+- [kbd-audio #Project#](https://github.com/ggerganov/kbd-audio): Tools for capturing and analysing keyboard input paired with microphone capture 🎤⌨️
 
 # Web Security
 

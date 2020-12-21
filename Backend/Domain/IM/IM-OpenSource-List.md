@@ -60,6 +60,8 @@
 
 - [2014-Simple RTMP Server #Project#](https://github.com/ossrs/srs): SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
 
+- [owncast #Project#](https://github.com/owncast/owncast): Take control over your live stream video by running it yourself. Streaming + chat out of the box.
+
 ## HLS
 
 - [2015-hls.js #Project#](https://github.com/video-dev/hls.js/): JavaScript HLS client using Media Source Extension

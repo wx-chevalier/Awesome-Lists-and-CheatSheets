@@ -120,11 +120,13 @@
 
 - [PaddleOCR #Project#](https://github.com/PaddlePaddle/PaddleOCR): Awesome OCR toolkits based on PaddlePaddle（8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）.
 
-## Generative Design
+## Generative Design & Art
 
 - [2020-3D Generative Design #Project#](https://github.com/starstorms9/shape): Tyler Habowski Insight AI Project | Session AI.SV.2020A. [Generative Adversarial Networks and Autoencoders for 3D Shapes](https://github.com/marian42/shapegan)
 
 - [Pifuhd #Project#](https://github.com/facebookresearch/pifuhd): High-Resolution 3D Human Digitization from A Single Image.
+
+- [ArtLine #Project#](https://github.com/vijishmadhavan/ArtLine): A Deep Learning based project for creating line art portraits.
 
 # Development | 开发辅助
 

@@ -132,6 +132,8 @@
 
 - [2019-Ambassador #Project#](https://github.com/datawire/ambassador): open source Kubernetes-native API gateway for microservices built on the Envoy Proxy.
 
+- [2020-SuperTokens #Projects#](https://github.com/supertokens/supertokens-core): Open source alternative to Auth0 / Firebase Auth / AWS Cognito
+
 ## OAuth
 
 - [2016-Hydra #Project#](https://github.com/ory/hydra): OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language.
