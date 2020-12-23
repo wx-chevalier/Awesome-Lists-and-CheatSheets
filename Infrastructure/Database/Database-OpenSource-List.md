@@ -104,6 +104,8 @@
 
 - [2018-Tidis #Project#](https://github.com/yongman/tidis): Tidis is a Distributed NoSQL database, providing a redis-protocal api(string,list,hash,set,sorted-set), written in Go.
 
+- [2020-terarkdb #Project#](https://github.com/bytedance/terarkdb): A RocksDB compatible KV storage engine with better performance.
+
 ## Redis
 
 - [RedisGraph #Project#](http://redisgraph.io/design/): A High Performance In-Memory Graph Database as a Redis Module.
@@ -209,6 +211,8 @@
 ## MPP
 
 - [Presto #Project#](https://prestodb.io/): Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.
+
+- [Materialize #Project#](https://materialize.com/docs/): Materialize is a streaming database for real-time applications. Materialize accepts input data from a variety of streaming sources (e.g. Kafka) and files (e.g. CSVs), and lets you query them using SQL.
 
 ## Business Intelligence
 
