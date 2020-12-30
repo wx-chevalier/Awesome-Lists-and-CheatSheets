@@ -107,3 +107,5 @@
 - [Beats #Project#](https://www.elastic.co/products/beats): Beats is the platform for single-purpose data shippers. They send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch.
 
 - [2019-Loki #Project#](https://github.com/grafana/loki): Loki is a horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
+
+- [2020-wLogger #Project#](https://github.com/jyolo/wLogger): wLogger 是一款集合 日志采集,日志解析持久化存储，web 流量实时监控 。三位一体的 web 服务流量监控应用。 三大功能模块均可独立部署启用互不干扰。目前已内置 nginx 和 apache 的日志解析存储器，简单配置一下，开箱即用。

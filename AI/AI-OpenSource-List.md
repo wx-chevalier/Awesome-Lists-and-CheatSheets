@@ -66,6 +66,8 @@
 
 - [2019-adtk #Project#](https://github.com/arundo/adtk): A Python toolkit for unsupervised anomaly detection in time series
 
+- [2020-sktime #Project#](https://github.com/alan-turing-institute/sktime): A unified framework for machine learning with time series.
+
 # Machine Learning
 
 - [NumPy #Project#](http://www.numpy.org/): NumPy is the fundamental package for scientific computing with Python.

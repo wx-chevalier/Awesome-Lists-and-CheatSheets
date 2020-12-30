@@ -6,6 +6,8 @@
 
 - [2020-PRML #Project#](https://github.com/ctgk/PRML): Python codes implementing algorithms described in Bishop's book "Pattern Recognition and Machine Learning".
 
+- [2020-homemade-machine-learning #Project#](https://github.com/trekhleb/homemade-machine-learning): 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+
 # Scikit
 
 - [2015-Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures): Lectures on scientific computing with python, as IPython notebooks.
