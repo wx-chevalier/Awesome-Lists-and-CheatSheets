@@ -36,6 +36,8 @@
 
 ## Distributed FS
 
+- [2020-JuiceFS #Project#](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+
 ## Object Storage
 
 - [Image Server #Project#](https://github.com/pierrre/imageserver): An image server toolkit in Go (Golang)

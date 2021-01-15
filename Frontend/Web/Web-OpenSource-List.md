@@ -48,13 +48,19 @@
 
 - [2020-Rome #Project#](https://github.com/facebookexperimental/rome): Rome is an experimental JavaScript toolchain. It includes a compiler, linter, formatter, bundler, testing framework and more. It aims to be a comprehensive tool for anything related to the processing of JavaScript source code.
 
-# Framework
+# Library
+
+## Framework
 
 - [Svelte #Project#](https://github.com/sveltejs/svelte): Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
 
 - [Stimulus #Project#](https://github.com/stimulusjs/stimulus): A modest JavaScript framework for the HTML you already have.
 
 - [2019-Neo #Project#](https://github.com/neomjs/neo): This is a new paradigm. If you want to enter a new era of making better Web Based User Interfaces, the following concepts will be addictive.
+
+## HTML & CSS
+
+- [tailwindcss #Project#](https://github.com/tailwindlabs/tailwindcss): A utility-first CSS framework for rapid UI development.
 
 ## State Management
 
@@ -95,10 +101,6 @@
 - [2019-Chakra UI #Project#](https://github.com/chakra-ui/chakra-ui): ⚡️Simple, Modular & Accessible UI Components for your React Applications.
 
 - [tailwindcss #Project#](https://tailwindcss.com/): Rapidly build modern websites without ever leaving your HTML.
-
-## Admin/Dashboard
-
-- [2019-D2Admin #Project#](https://github.com/d2-projects/d2-admin): D2Admin is a fully open source and free enterprise back-end product front-end integration solution, using the latest front-end technology stack, has prepared most of the project preparations, and with a lot of sample code to help the management system agile development.
 
 # Web APIs
 

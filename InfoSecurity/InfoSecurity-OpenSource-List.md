@@ -2,6 +2,10 @@
 
 List of Security Archives Tools and software, generally for facilitate security & penetration research.
 
+## Showcase
+
+- [hacker-scripts #Project#](https://github.com/NARKOZ/hacker-scripts): Based on a true story
+
 ## Collection
 
 - [2017-Scanners Box #Project#](https://github.com/We5ter/Scanners-Box): Scanners Box is a collection of open source scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc.
@@ -10,7 +14,7 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 # Universal Penetration Tools/Scanners
 
-## Exploitation Framework | 渗透框架
+## Exploitation Framework | 渗透框架/工具
 
 - [2013-Kali #Project#](https://www.backtrack-linux.org/): Kali Linux is constantly evolving with new features being added to the distribution all the time.
 
@@ -21,6 +25,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 - [Retire.js #Project#](http://retirejs.github.io/retire.js/): The goal of Retire.js is to help you detect use of version with known vulnerabilities.
 
 - [Metasploit #Project#](https://www.metasploit.com/): Metasploit helps security teams do more than just verify vulnerabilities, manage security assessments, and improve security awareness;
+
+- [HackTools #Project#](https://github.com/LasCC/Hack-Tools): HackTools, is a web extension facilitating your web application penetration tests, it includes cheat sheets as well as all the tools used during a test such as XSS payloads, Reverse shells and much more.
 
 ## POC Framework | POC 框架
 
@@ -100,7 +106,7 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [XSS game area](https://xss-game.appspot.com/):Google created an XSS game to teach you how to exploit and prevent them.
 
-- [一款轻量级 Web 漏洞教学演示系统( DSVW )](http://www.freebuf.com/sectool/126707.html)：Damn Small Vulnerable Web (DSVW) 是使用 Python 语言开发的 Web 应用漏洞 的演练系统。其系统只有一个 python 的脚本文件组成 , 当中涵盖了 26 种 Web 应用漏洞环境, 并且脚本代码行数控制在了 100 行以内。
+- [一款轻量级 Web 漏洞教学演示系统( DSVW )](http://www.freebuf.com/sectool/126707.html)：Damn Small Vulnerable Web (DSVW) 是使用 Python 语言开发的 Web 应用漏洞 的演练系统。其系统只有一个 python 的脚本文件组成, 当中涵盖了 26 种 Web 应用漏洞环境, 并且脚本代码行数控制在了 100 行以内。
 
 - [Gryffin #Project#](https://github.com/yahoo/gryffin): Gryffin is a large scale web security scanning platform. It is not yet another scanner. It was written to solve two specific problems with existing scanners: coverage and scale.
 

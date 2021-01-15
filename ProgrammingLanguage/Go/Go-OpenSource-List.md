@@ -4,6 +4,8 @@
 
 - [GoPlus #Project#](https://www.oschina.net/p/goplus): GoPlus（Go+）是一门静态类型语言，与 Go 语言完全兼容。其代码样式类似脚本，并且比 Go 更具可读性，专门用于数据科学。
 
+- [minikeyvalue #Project#](https://github.com/geohot/minikeyvalue): A distributed key value store in under 1000 lines. Used in production at comma.ai
+
 # Showcase
 
 ## Game

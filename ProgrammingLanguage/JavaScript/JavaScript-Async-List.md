@@ -30,7 +30,7 @@
 
 - [What is the JavaScript Event Loop?](http://altitudelabs.com/blog/what-is-the-javascript-event-loop/)
 
-- [2017-Understanding Javascript Function Executions — Call Stack, Event Loop , Tasks & more ](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec?source=linkShare-fe48c4221a4c-1503534847)
+- [2017-Understanding Javascript Function Executions — Call Stack, Event Loop, Tasks & more ](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec?source=linkShare-fe48c4221a4c-1503534847)
 
 - [浏览器和 Node 中 Event Loop 其实是不相同的。](https://zhuanlan.zhihu.com/p/54882306): 本文我们将会介绍 JS 实现异步的原理，并且了解了在浏览器和 Node 中 Event Loop 其实是不相同的。
 

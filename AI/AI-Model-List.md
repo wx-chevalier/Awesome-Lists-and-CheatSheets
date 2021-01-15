@@ -128,6 +128,8 @@
 
 - [ArtLine #Project#](https://github.com/vijishmadhavan/ArtLine): A Deep Learning based project for creating line art portraits.
 
+- [StyleFlow #Project#](https://github.com/RameenAbdal/StyleFlow): Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows
+
 # Development | 开发辅助
 
 - [pix2code #Project#](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot.

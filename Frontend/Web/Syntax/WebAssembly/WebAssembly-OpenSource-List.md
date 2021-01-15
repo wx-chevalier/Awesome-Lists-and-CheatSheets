@@ -15,3 +15,5 @@
 # Interpreter
 
 - [wasm3 #Project#](https://github.com/wasm3/wasm3): 🚀 The fastest WebAssembly interpreter.
+
+- [wasmer #Project#](https://github.com/wasmerio/wasmer): 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten

@@ -6,8 +6,6 @@
 
 - [2018-视音频编解码技术零基础(理论总结)](https://www.jianshu.com/p/b452d823b285): 视音频技术主要包含以下几点：封装技术，视频压缩编码技术以及音频压缩编码技术。如果考虑到网络传输的话，还包括流媒体协议技术。
 
-# FFmpeg
+# OpenSource
 
-- [Learn FFmpeg libav the Hard Way](https://parg.co/UkX): I was looking for a tutorial/book that would teach me how to start to use FFmpeg as a library (a.k.a. libav) and then I found the "How to write a video player in less than 1k lines" tutorial. Unfortunately it was deprecated, so I decided to write this one.
-
-- [2015-How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html): There is a sample program that comes with ffmpeg called ffplay. It is a simple C program that implements a complete video player using ffmpeg.
+- [PeerTube #Project#](https://github.com/Chocobozzz/PeerTube): Be part of a network of multiple small federated, interoperable video hosting providers. Follow video creators and create videos. No vendor lock-in. All on a platform that is community-owned and ad-free.

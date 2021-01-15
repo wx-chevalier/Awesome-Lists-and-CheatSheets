@@ -1,5 +1,9 @@
 # Web Layout Widgets List | Web 布局组件索引
 
+# Admin/Dashboard
+
+- [2019-D2Admin #Project#](https://github.com/d2-projects/d2-admin): D2Admin is a fully open source and free enterprise back-end product front-end integration solution, using the latest front-end technology stack, has prepared most of the project preparations, and with a lot of sample code to help the management system agile development.
+
 # Grid Layout | 网格布局
 
 - [2015-Minigrid #Project#](https://github.com/henriquea/minigrid): Minimal 2kb zero dependency cascading grid layout.

@@ -58,6 +58,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2019-Python Machine Learning #Book#](https://github.com/rasbt/python-machine-learning-book-3rd-edition): The "Python Machine Learning (3nd edition)" book code repository.
 
+- [2020-Algorithms for decision making #Book#](http://algorithmsbook.com/#intro): This book provides a broad introduction to algorithms for decision making under uncertainty. We cover a wide variety of topics related to decision making, introducing the underlying mathematical problem formulations and the algorithms for solving them.
+
 ## Data Mining
 
 - [2019-Fundamentals of Analysis #Book#](https://dataschool.com/fundamentals-of-analysis/): You have data, now how do you analyze it correctly? This is not a simple task, this book will cover common techniques to get insights out of data accurately.
