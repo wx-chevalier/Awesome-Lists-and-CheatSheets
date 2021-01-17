@@ -11,3 +11,9 @@
 - [Google-enjarify #Project#](https://github.com/google/enjarify): translating Dalvik bytecode to equivalent Java bytecode.
 
 - [MobSF #Project#](https://github.com/MobSF/Mobile-Security-Framework-MobSF): Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
+
+# Hybrid
+
+- Cordova
+
+- [Capacitor #Project#](https://capacitorjs.com/): Capacitor is an open source native runtime for building Web Native apps. Create cross-platform iOS, Android, and Progressive Web Apps with JavaScript, HTML, and CSS.

@@ -10,9 +10,11 @@
 
 # Workflow management
 
-- [Prefect #Project#](https://github.com/PrefectHQ/prefect): Prefect is a new workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine. Users organize Tasks into Flows, and Prefect takes care of the rest.
-
 - [Apache Airflow #Project#](https://airflow.apache.org/index.html#): Airflow is a platform to programmatically author, schedule and monitor workflows.
+
+- [n8n #Project#](https://github.com/n8n-io/n8n): Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+
+- [Cadence #Project#](https://github.com/uber/cadence): Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 
 # Rules Engine
 

@@ -133,35 +133,35 @@
       - [2.1.9 Sort List](/Architecture/AlgoDS/Sort-List.md)
       - [2.1.10 String List](/Architecture/AlgoDS/String-List.md)
       - [2.1.11 Tree List](/Architecture/AlgoDS/Tree-List.md)
-    - 2.2 ArchitecturalPattern
-      - [2.2.1 ArchitecturalPattern List](/Architecture/ArchitecturalPattern/ArchitecturalPattern-List.md)
-    - 2.3 ArchitecturalStyle
-      - [2.3.1 API List](/Architecture/ArchitecturalStyle/API-List.md)
-      - [2.3.2 ArchitecturalStyle List](/Architecture/ArchitecturalStyle/ArchitecturalStyle-List.md)
-      - [2.3.3 DDD List](/Architecture/ArchitecturalStyle/DDD-List.md)
-      - [2.3.4 RESTful List](/Architecture/ArchitecturalStyle/RESTful-List.md)
-    - [2.4 Architecture List](/Architecture/Architecture-List.md)
-    - 2.5 DesignPattern
-      - [2.5.1 DesignPattern List](/Architecture/DesignPattern/DesignPattern-List.md)
-      - [2.5.2 FunctionalProgramming List](/Architecture/DesignPattern/FunctionalProgramming-List.md)
-      - [2.5.3 MetaProgramming List](/Architecture/DesignPattern/MetaProgramming-List.md)
-      - [2.5.4 ObjectOrientedProgramming List](/Architecture/DesignPattern/ObjectOrientedProgramming-List.md)
-      - [2.5.5 Programming Paradigm List](/Architecture/DesignPattern/Programming-Paradigm-List.md)
-      - [2.5.6 ReactiveProgramming List](/Architecture/DesignPattern/ReactiveProgramming-List.md)
-    - 2.6 Refactor
-      - [2.6.1 CleanCode List](/Architecture/Refactor/CleanCode-List.md)
-      - [2.6.2 CodeReview List](/Architecture/Refactor/CodeReview-List.md)
-      - [2.6.3 CodeStyle List](/Architecture/Refactor/CodeStyle-List.md)
-      - [2.6.4 Refactor List](/Architecture/Refactor/Refactor-List.md)
-      - [2.6.5 Refactor OpenSource List](/Architecture/Refactor/Refactor-OpenSource-List.md)
-    - 2.7 SoftwareEngineering
-      - 2.7.1 Git
-        - [2.7.1.1 Git List](/Architecture/SoftwareEngineering/Git/Git-List.md)
-        - [2.7.1.2 Git OpenSource List](/Architecture/SoftwareEngineering/Git/Git-OpenSource-List.md)
-        - [2.7.1.3 Git Workflow List](/Architecture/SoftwareEngineering/Git/Git-Workflow-List.md)
-        - [2.7.1.4 Github List](/Architecture/SoftwareEngineering/Git/Github-List.md)
-      - [2.7.2 Workflow List](/Architecture/SoftwareEngineering/Workflow-List.md)
-      - [2.7.3 Workflow OpenSource List](/Architecture/SoftwareEngineering/Workflow-OpenSource-List.md)
+    - [2.2 Architecture List](/Architecture/Architecture-List.md)
+    - 2.3 DesignPattern
+      - [2.3.1 DesignPattern List](/Architecture/DesignPattern/DesignPattern-List.md)
+      - [2.3.2 FunctionalProgramming List](/Architecture/DesignPattern/FunctionalProgramming-List.md)
+      - [2.3.3 MetaProgramming List](/Architecture/DesignPattern/MetaProgramming-List.md)
+      - [2.3.4 ObjectOrientedProgramming List](/Architecture/DesignPattern/ObjectOrientedProgramming-List.md)
+      - [2.3.5 Programming Paradigm List](/Architecture/DesignPattern/Programming-Paradigm-List.md)
+      - [2.3.6 ReactiveProgramming List](/Architecture/DesignPattern/ReactiveProgramming-List.md)
+    - 2.4 PatternStyle
+      - [2.4.1 API List](/Architecture/PatternStyle/API-List.md)
+      - [2.4.2 ArchitecturalPattern List](/Architecture/PatternStyle/ArchitecturalPattern-List.md)
+      - [2.4.3 ArchitecturalStyle List](/Architecture/PatternStyle/ArchitecturalStyle-List.md)
+      - [2.4.4 DDD List](/Architecture/PatternStyle/DDD-List.md)
+      - [2.4.5 RESTful List](/Architecture/PatternStyle/RESTful-List.md)
+    - 2.5 Refactor
+      - [2.5.1 CleanCode List](/Architecture/Refactor/CleanCode-List.md)
+      - [2.5.2 CodeReview List](/Architecture/Refactor/CodeReview-List.md)
+      - [2.5.3 CodeStyle List](/Architecture/Refactor/CodeStyle-List.md)
+      - [2.5.4 Refactor List](/Architecture/Refactor/Refactor-List.md)
+      - [2.5.5 Refactor OpenSource List](/Architecture/Refactor/Refactor-OpenSource-List.md)
+    - 2.6 SoftwareEngineering
+      - [2.6.1 ArchitectureDesign List](/Architecture/SoftwareEngineering/ArchitectureDesign-List.md)
+      - 2.6.2 Git
+        - [2.6.2.1 Git List](/Architecture/SoftwareEngineering/Git/Git-List.md)
+        - [2.6.2.2 Git OpenSource List](/Architecture/SoftwareEngineering/Git/Git-OpenSource-List.md)
+        - [2.6.2.3 Git Workflow List](/Architecture/SoftwareEngineering/Git/Git-Workflow-List.md)
+        - [2.6.2.4 Github List](/Architecture/SoftwareEngineering/Git/Github-List.md)
+      - [2.6.3 Workflow List](/Architecture/SoftwareEngineering/Workflow-List.md)
+      - [2.6.4 Workflow OpenSource List](/Architecture/SoftwareEngineering/Workflow-OpenSource-List.md)
   - 3 Backend
     - [3.1 Backend List](/Backend/Backend-List.md)
     - 3.2 DevOps
