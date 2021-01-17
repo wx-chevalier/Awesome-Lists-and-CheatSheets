@@ -1,12 +1,12 @@
 # Go OpenSource List | Go 开源工具与框架索引
 
-- [Slack-Term #Project#](https://github.com/erroneousboat/slack-term): A Slack client for your terminal.
+# Showcase
 
-- [GoPlus #Project#](https://www.oschina.net/p/goplus): GoPlus（Go+）是一门静态类型语言，与 Go 语言完全兼容。其代码样式类似脚本，并且比 Go 更具可读性，专门用于数据科学。
+- [Slack-Term #Project#](https://github.com/erroneousboat/slack-term): A Slack client for your terminal.
 
 - [minikeyvalue #Project#](https://github.com/geohot/minikeyvalue): A distributed key value store in under 1000 lines. Used in production at comma.ai
 
-# Showcase
+- [7 days golang programs from scratch #Project#](https://github.com/geektutu/7days-golang): 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7 天用 Go 动手写/从零实现系列
 
 ## Game
 
@@ -19,6 +19,8 @@
 - [gin-vue-admin #Project#](https://github.com/flipped-aurora/gin-vue-admin): 基于 gin+vue 搭建的后台管理系统框架，集成 jwt 鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能。
 
 # Dev
+
+- [GoPlus #Project#](https://www.oschina.net/p/goplus): GoPlus（Go+）是一门静态类型语言，与 Go 语言完全兼容。其代码样式类似脚本，并且比 Go 更具可读性，专门用于数据科学。
 
 ## Debug
 
@@ -37,6 +39,8 @@
 - [2018-wire #Project#](https://github.com/google/wire): Compile-time Dependency Injection for Go
 
 # Framework
+
+- [go-zero #Project#](https://gitee.com/kevwan/go-zero): go-zero 是一个集成了各种工程实践的 web 和 rpc 框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。
 
 ## Utils
 

@@ -88,6 +88,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2020-The Ultimate Go Study Guide](https://github.com/hoanhan101/ultimate-go): The project is a collection of my notes while learning Go programming language from Ardan Labs's Ultimate Go course.
 
+- [7 days golang programs from scratch #Project#](https://github.com/geektutu/7days-golang): 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7 天用 Go 动手写/从零实现系列
+
 ## Course
 
 - [2018-Beginner Solutions in Go - The Basics, Clients, and Servers #Project#](https://parg.co/oZc)
