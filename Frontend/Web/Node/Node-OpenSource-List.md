@@ -4,7 +4,27 @@
 
 - [piping-server #Project#](https://github.com/nwtgck/piping-server): Infinitely transfer between every device over pure HTTP: designed for everyone including people using Unix pipe and even for browser users.
 
-# Development Library
+- [Taskbook #Project#](https://github.com/klauscfhq/taskbook): Tasks, boards & notes for the command-line habitat.
+
+# Dev Tools
+
+## Logging
+
+- [node-bunyan #Project#](https://github.com/trentm/node-bunyan): a simple and fast JSON logging module for node.js services.
+
+## Debug
+
+- [ndb #Project#](https://github.com/GoogleChromeLabs/ndb): ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools.
+
+- [dumper.js #Project#](https://github.com/zeeshanu/dumper.js): A better and pretty variable inspector for your Node.js applications.
+
+# Library
+
+## Framework
+
+- [routing-controllers #Project#](https://github.com/typestack/routing-controllers): Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
+
+- [Odi #Project#](https://github.com/Odi-ts/Odi): Opinionated, Declarative, Idiomatic framework for building scalable, supportable, enterprise applications and servers.
 
 ## HTTP Server
 
@@ -13,12 +33,6 @@
 - [coroute #Project#](https://github.com/ethanent/coroute): The awesome Node.js HTTP reverse-proxy server.
 
 - [2019-Polka #Project#](https://github.com/lukeed/polka): Polka is an extremely minimal, highly performant Express.js alternative. Yes, you're right, Express is already super fast & not that big 🤔 — but Polka shows that there was (somehow) room for improvement!
-
-## Framework
-
-- [routing-controllers #Project#](https://github.com/typestack/routing-controllers): Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
-
-- [Odi #Project#](https://github.com/Odi-ts/Odi): Opinionated, Declarative, Idiomatic framework for building scalable, supportable, enterprise applications and servers.
 
 ## Command Line
 
@@ -34,11 +48,9 @@
 
 - [pkg #Project# ](https://github.com/zeit/pkg): Package your Node.js project into an executable.
 
-# Framework
+# Storage
 
-## Storage
-
-### Database
+## Database
 
 - [2017-RxDB #Project#](https://github.com/pubkey/rxdb): The reactive, serverless, client-side, offline-first database for your next javascript-application.
 
@@ -48,7 +60,7 @@
 
 - [2019-nedb #Project#](https://github.com/louischatriot/nedb): The JavaScript Database, for Node.js, nw.js, electron and the browser.
 
-### ORM
+## ORM
 
 - [Sqorn #Project#](https://github.com/lusakasa/sqorn): Sqorn is a Javascript library for building SQL queries.
 
@@ -60,7 +72,7 @@
 
 - [TypeORM #Project#](https://github.com/typeorm/typeorm): ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 
-## SysProc
+# SysProc
 
 - [execa #Project#](https://github.com/sindresorhus/execa): A better `child_process`.
 
@@ -71,11 +83,7 @@
 
 - [Napa.js #Project#](https://github.com/Microsoft/napajs): Napa.js is a multi-threaded JavaScript runtime built on V8, which was originally designed to develop highly iterative services with non-compromised performance in Bing.
 
-- [microjob #Project#](https://github.com/wilk/microjob): A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads.
-
 - [nodejsscan #Project#](https://github.com/ajinabraham/nodejsscan): nodejsscan is a static security code scanner for Node.js applications.
-
-# DevOps
 
 - [node-heapdump #Project#](https://github.com/bnoordhuis/node-heapdump): Make a dump of the V8 heap for later inspection.
 
@@ -85,18 +93,6 @@
 
 - [flamebearer #Project#](https://github.com/mapbox/flamebearer): A blazing fast flame graph tool for Node and V8. Used to visualize and explore performance profiling results. Designed to produce fast, lightweight flame graphs that remain responsive even on really big input.
 
-## Logging
+## Concurrent Programming
 
-- [node-bunyan #Project#](https://github.com/trentm/node-bunyan): a simple and fast JSON logging module for node.js services.
-
-# Tuning
-
-## Debug
-
-- [ndb #Project#](https://github.com/GoogleChromeLabs/ndb): ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools.
-
-- [dumper.js #Project#](https://github.com/zeeshanu/dumper.js): A better and pretty variable inspector for your Node.js applications.
-
-# Application
-
-- [Taskbook #Project#](https://github.com/klauscfhq/taskbook): Tasks, boards & notes for the command-line habitat.
+- [microjob #Project#](https://github.com/wilk/microjob): A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads.

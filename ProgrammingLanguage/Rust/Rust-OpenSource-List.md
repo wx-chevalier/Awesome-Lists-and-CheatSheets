@@ -38,7 +38,7 @@
 
 - [Rustface #Project#](https://github.com/atomashpolskiy/rustface): Face detection library for the Rust programming language
 
-# Framework
+# Library
 
 ## Concurrency
 
@@ -56,11 +56,13 @@
 
 - [SQLx #Project#](https://github.com/launchbadge/sqlx): SQLx is a modern SQL client built from the ground up for Rust, in Rust.
 
-# Web Framework
+## Web Framework
 
 - [Rustless #Project#](https://github.com/rustless/rustless): Rustless is a REST-like API micro-framework for Rust. It's designed to provide a simple DSL to easily develop RESTful APIs on top of the Iron web framework.
 
 - [imageflow #Project#](https://github.com/imazen/imageflow): High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow
+
+- [warp #Project#](https://github.com/seanmonstar/warp): A super-easy, composable, web server framework for warp speeds.
 
 # GUI Framework
 
