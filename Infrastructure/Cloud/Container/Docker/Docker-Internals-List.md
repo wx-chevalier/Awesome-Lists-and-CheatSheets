@@ -18,6 +18,8 @@
 
 - [2019-浅聊几种主流 Docker 网络的实现原理](https://mp.weixin.qq.com/s/Jdxct8qHrBUtkUq-hnxSRw): 本文接下来将详细介绍目前主流容器网络的实现原理。
 
+- [2020-Container networking is simple](https://iximiuz.com/en/posts/container-networking-is-simple/): Luckily, we've been looking under the hood of the containerization technology for quite some time already and even managed to uncover that containers are just isolated and restricted Linux processes, that images aren't really needed to run containers, and on the contrary - to build an image we need to run some containers.
+
 # Storage
 
 - [2015-Deep dive into Docker storage drivers](https://jpetazzo.github.io/assets/2015-03-03-not-so-deep-dive-into-docker-storage-drivers.html)

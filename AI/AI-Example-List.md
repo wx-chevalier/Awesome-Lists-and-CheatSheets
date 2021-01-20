@@ -2,6 +2,8 @@
 
 - [2017-All-in-one Docker image for Deep Learning #Project#](https://github.com/saiprashanths/dl-docker): An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
+- [applied-ml #Project#](https://github.com/eugeneyan/applied-ml): 📚 Papers and blogs by organizations sharing their work on data science & machine learning in production.
+
 # Pure Python
 
 - [2020-PRML #Project#](https://github.com/ctgk/PRML): Python codes implementing algorithms described in Bishop's book "Pattern Recognition and Machine Learning".

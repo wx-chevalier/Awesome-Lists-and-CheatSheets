@@ -597,31 +597,34 @@
         - [7.2.10.1 InfluxDB List](/Infrastructure/Database/TimeSeries/InfluxDB-List.md)
         - [7.2.10.2 Prometheus List](/Infrastructure/Database/TimeSeries/Prometheus-List.md)
         - [7.2.10.3 TimeSeries List](/Infrastructure/Database/TimeSeries/TimeSeries-List.md)
-    - 7.3 DistributedComputing
+    - 7.3 DistributedCompute
       - 7.3.1 Batch
-        - [7.3.1.1 BatchProcessing List](/Infrastructure/DistributedComputing/Batch/BatchProcessing-List.md)
-        - [7.3.1.2 Hadoop List](/Infrastructure/DistributedComputing/Batch/Hadoop-List.md)
-        - [7.3.1.3 Spark List](/Infrastructure/DistributedComputing/Batch/Spark-List.md)
-      - [7.3.2 DistributedComputing List](/Infrastructure/DistributedComputing/DistributedComputing-List.md)
-      - [7.3.3 DistributedComputing OpenSource List](/Infrastructure/DistributedComputing/DistributedComputing-OpenSource-List.md)
-      - 7.3.4 EdgeComputing
-        - [7.3.4.1 EdgeComputing List](/Infrastructure/DistributedComputing/EdgeComputing/EdgeComputing-List.md)
-      - 7.3.5 JobScheduler
-        - [7.3.5.1 JobScheduler List](/Infrastructure/DistributedComputing/JobScheduler/JobScheduler-List.md)
+        - [7.3.1.1 BatchProcessing List](/Infrastructure/DistributedCompute/Batch/BatchProcessing-List.md)
+        - [7.3.1.2 Hadoop List](/Infrastructure/DistributedCompute/Batch/Hadoop-List.md)
+        - [7.3.1.3 Spark List](/Infrastructure/DistributedCompute/Batch/Spark-List.md)
+      - 7.3.2 Concurrent
+        - [7.3.2.1 ConcurrentIO List](/Infrastructure/DistributedCompute/Concurrent/ConcurrentIO-List.md)
+        - [7.3.2.2 ConcurrentModel List](/Infrastructure/DistributedCompute/Concurrent/ConcurrentModel-List.md)
+        - [7.3.2.3 ConcurrentProgramming List](/Infrastructure/DistributedCompute/Concurrent/ConcurrentProgramming-List.md)
+        - [7.3.2.4 JobScheduler List](/Infrastructure/DistributedCompute/Concurrent/JobScheduler-List.md)
+      - [7.3.3 DistributedCompute List](/Infrastructure/DistributedCompute/DistributedCompute-List.md)
+      - [7.3.4 DistributedCompute OpenSource List](/Infrastructure/DistributedCompute/DistributedCompute-OpenSource-List.md)
+      - 7.3.5 EdgeCompute
+        - [7.3.5.1 EdgeCompute List](/Infrastructure/DistributedCompute/EdgeCompute/EdgeCompute-List.md)
       - 7.3.6 MessageBroker
-        - [7.3.6.1 Kafka List](/Infrastructure/DistributedComputing/MessageBroker/Kafka-List.md)
-        - [7.3.6.2 MessageBroker List](/Infrastructure/DistributedComputing/MessageBroker/MessageBroker-List.md)
-        - [7.3.6.3 Pulsar List](/Infrastructure/DistributedComputing/MessageBroker/Pulsar-List.md)
-        - [7.3.6.4 RabbitMQ List](/Infrastructure/DistributedComputing/MessageBroker/RabbitMQ-List.md)
-        - [7.3.6.5 RocketMQ List](/Infrastructure/DistributedComputing/MessageBroker/RocketMQ-List.md)
-      - 7.3.7 QuantumComputing
-        - [7.3.7.1 QuantumComputing List](/Infrastructure/DistributedComputing/QuantumComputing/QuantumComputing-List.md)
+        - [7.3.6.1 Kafka List](/Infrastructure/DistributedCompute/MessageBroker/Kafka-List.md)
+        - [7.3.6.2 MessageBroker List](/Infrastructure/DistributedCompute/MessageBroker/MessageBroker-List.md)
+        - [7.3.6.3 Pulsar List](/Infrastructure/DistributedCompute/MessageBroker/Pulsar-List.md)
+        - [7.3.6.4 RabbitMQ List](/Infrastructure/DistributedCompute/MessageBroker/RabbitMQ-List.md)
+        - [7.3.6.5 RocketMQ List](/Infrastructure/DistributedCompute/MessageBroker/RocketMQ-List.md)
+      - 7.3.7 QuantumCompute
+        - [7.3.7.1 QuantumCompute List](/Infrastructure/DistributedCompute/QuantumCompute/QuantumCompute-List.md)
       - 7.3.8 Stream
-        - [7.3.8.1 Flink List](/Infrastructure/DistributedComputing/Stream/Flink-List.md)
-        - [7.3.8.2 Pravega List](/Infrastructure/DistributedComputing/Stream/Pravega-List.md)
-        - [7.3.8.3 SparkStreaming List](/Infrastructure/DistributedComputing/Stream/SparkStreaming-List.md)
-        - [7.3.8.4 Storm List](/Infrastructure/DistributedComputing/Stream/Storm-List.md)
-        - [7.3.8.5 StreamProcessing List](/Infrastructure/DistributedComputing/Stream/StreamProcessing-List.md)
+        - [7.3.8.1 Flink List](/Infrastructure/DistributedCompute/Stream/Flink-List.md)
+        - [7.3.8.2 Pravega List](/Infrastructure/DistributedCompute/Stream/Pravega-List.md)
+        - [7.3.8.3 SparkStreaming List](/Infrastructure/DistributedCompute/Stream/SparkStreaming-List.md)
+        - [7.3.8.4 Storm List](/Infrastructure/DistributedCompute/Stream/Storm-List.md)
+        - [7.3.8.5 StreamProcessing List](/Infrastructure/DistributedCompute/Stream/StreamProcessing-List.md)
     - 7.4 DistributedStorage
       - 7.4.1 Consistency
         - [7.4.1.1 Consensus List](/Infrastructure/DistributedStorage/Consistency/Consensus-List.md)
@@ -665,28 +668,26 @@
         - [7.6.6.1 TCPIP List](/Infrastructure/Network/TCP-IP/TCPIP-List.md)
         - [7.6.6.2 UDP List](/Infrastructure/Network/TCP-IP/UDP-List.md)
     - 7.7 OS
-      - 7.7.1 ConcurrentProgramming
-        - [7.7.1.1 ConcurrentIO List](/Infrastructure/OS/ConcurrentProgramming/ConcurrentIO-List.md)
-        - [7.7.1.2 ConcurrentModel List](/Infrastructure/OS/ConcurrentProgramming/ConcurrentModel-List.md)
-        - [7.7.1.3 ConcurrentProgramming List](/Infrastructure/OS/ConcurrentProgramming/ConcurrentProgramming-List.md)
-      - 7.7.2 IoT
-        - 7.7.2.1 Chip
-          - [7.7.2.1.1 Chip List](/Infrastructure/OS/IoT/Chip/Chip-List.md)
-        - 7.7.2.2 HomeAutomation
-          - [7.7.2.2.1 HomeAutomation List](/Infrastructure/OS/IoT/HomeAutomation/HomeAutomation-List.md)
-        - [7.7.2.3 IoT List](/Infrastructure/OS/IoT/IoT-List.md)
-        - [7.7.2.4 IoT OpenSource List](/Infrastructure/OS/IoT/IoT-OpenSource-List.md)
-        - 7.7.2.5 Platform
-          - [7.7.2.5.1 Raspberry List](/Infrastructure/OS/IoT/Platform/Raspberry-List.md)
-      - 7.7.3 Linux
-        - [7.7.3.1 Linux Command List](/Infrastructure/OS/Linux/Linux-Command-List.md)
-        - [7.7.3.2 Linux Kernel List](/Infrastructure/OS/Linux/Linux-Kernel-List.md)
-        - [7.7.3.3 Linux List](/Infrastructure/OS/Linux/Linux-List.md)
-        - [7.7.3.4 Linux Network List](/Infrastructure/OS/Linux/Linux-Network-List.md)
-        - [7.7.3.5 Linux OpenSource List](/Infrastructure/OS/Linux/Linux-OpenSource-List.md)
-        - [7.7.3.6 Linux Shell List](/Infrastructure/OS/Linux/Linux-Shell-List.md)
-        - [7.7.3.7 Linux Storage List](/Infrastructure/OS/Linux/Linux-Storage-List.md)
-        - [7.7.3.8 Linux SysProc List](/Infrastructure/OS/Linux/Linux-SysProc-List.md)
+      - 7.7.1 IoT
+        - 7.7.1.1 Chip
+          - [7.7.1.1.1 Chip List](/Infrastructure/OS/IoT/Chip/Chip-List.md)
+        - 7.7.1.2 HomeAutomation
+          - [7.7.1.2.1 HomeAutomation List](/Infrastructure/OS/IoT/HomeAutomation/HomeAutomation-List.md)
+        - [7.7.1.3 IoT List](/Infrastructure/OS/IoT/IoT-List.md)
+        - [7.7.1.4 IoT OpenSource List](/Infrastructure/OS/IoT/IoT-OpenSource-List.md)
+        - 7.7.1.5 Platform
+          - [7.7.1.5.1 Raspberry List](/Infrastructure/OS/IoT/Platform/Raspberry-List.md)
+      - 7.7.2 Linux
+        - [7.7.2.1 Linux Command List](/Infrastructure/OS/Linux/Linux-Command-List.md)
+        - [7.7.2.2 Linux Kernel List](/Infrastructure/OS/Linux/Linux-Kernel-List.md)
+        - [7.7.2.3 Linux List](/Infrastructure/OS/Linux/Linux-List.md)
+        - [7.7.2.4 Linux Network List](/Infrastructure/OS/Linux/Linux-Network-List.md)
+        - [7.7.2.5 Linux OpenSource List](/Infrastructure/OS/Linux/Linux-OpenSource-List.md)
+        - [7.7.2.6 Linux Shell List](/Infrastructure/OS/Linux/Linux-Shell-List.md)
+        - [7.7.2.7 Linux Storage List](/Infrastructure/OS/Linux/Linux-Storage-List.md)
+        - [7.7.2.8 Linux SysProc List](/Infrastructure/OS/Linux/Linux-SysProc-List.md)
+      - 7.7.3 MCU
+        - [7.7.3.1 MCU List](/Infrastructure/OS/MCU/MCU-List.md)
       - [7.7.4 OS List](/Infrastructure/OS/OS-List.md)
       - [7.7.5 OS OpenSource List](/Infrastructure/OS/OS-OpenSource-List.md)
       - 7.7.6 Theory

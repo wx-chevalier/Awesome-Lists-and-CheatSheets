@@ -18,13 +18,17 @@
 
 - [Canva](https://www.canva.cn/templates/?utm_medium=paid&utm_source=baidu&utm_campaign=ACQ-brand-zone&utm_term=canva&utm_content=sem): 在线设计
 
-# 素材
-
 - [PPTmall](http://www.pptmall.net/): PPTmall 是一套高效的可视化 PPT 素材库系统，提供了强大的模板分类索引功能。
+
+# Materials | 素材
+
+- [wannathis](https://wannathis.one/): 一个非常精致的 3D 小人素材网站。最近很多大厂的官网页面都是 3D 风，其中 3D 小人最为突出。而这个网站里面的 3D 小人，每一个都很精致。
 
 ## 图标
 
 - [Icons8](https://icons8.com/preloaders/): 汇集了许多的动效图片。
+
+- [SuperTinyIcons #Project#](https://github.com/edent/SuperTinyIcons): Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 
 ## 视频
 
@@ -40,15 +44,13 @@
 
 - [Color Hunt](https://colorhunt.co/palettes): Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes
 
-## Icons
-
-- [SuperTinyIcons #Project#](https://github.com/edent/SuperTinyIcons): Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
-
 # Diagram | 绘图
 
 - [isoflow.io #Project#](https://isoflow.io/): Create beautiful cloud diagrams in minutes Easily create isometric diagrams, for presentations, documentation and illustrations.
 
 - [drawio #Project#](https://github.com/jgraph/drawio): draw.io is an online diagramming web site that delivers the source in this project.
+
+- [blush](https://blush.design/zh-CN): 一个可以在线操作的插画素材网站，这个网站的插画素材，可以在线更该肤色、身体、头部、配饰等。
 
 # TBD
 

@@ -73,3 +73,5 @@ This file aggregates curated popular links for learning Rust. More reference abo
 ## Series
 
 - [2018-Writing an OS in Rust #Series#](https://os.phil-opp.com/): This blog series creates a small operating system in the Rust programming language. Each post is a small tutorial and includes all needed code, so you can follow along if you like.
+
+- [2020-REST Servers in Go #Series#](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/): My plan with this series is to implement a simple REST server using several different approaches, which should make it easy to compare and contrast these approaches and their relative merits.
