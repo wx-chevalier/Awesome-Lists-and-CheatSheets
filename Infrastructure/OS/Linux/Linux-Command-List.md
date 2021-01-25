@@ -20,6 +20,10 @@
 
 - [Text Processing Commands](http://www.tldp.org/LDP/abs/html/textproc.html)
 
+## Vim
+
+- [vim.so](https://www.vim.so/): We help you master vim with interactive exercises.
+
 # System & Process
 
 ## Background
