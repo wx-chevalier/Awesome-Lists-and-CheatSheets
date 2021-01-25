@@ -22,7 +22,7 @@
 
 ## Kafka
 
-- [Kowl #Project#](https://github.com/cloudhut/kowl): Kowl (previously known as Kafka Owl) is a web application that helps you to explore messages in your Apache Kafka cluster and get better insights on what is actually happening in your Kafka cluster in the most comfortable way.        
+- [Kowl #Project#](https://github.com/cloudhut/kowl): Kowl (previously known as Kafka Owl) is a web application that helps you to explore messages in your Apache Kafka cluster and get better insights on what is actually happening in your Kafka cluster in the most comfortable way.
 
 # Processing Engine
 
@@ -37,6 +37,8 @@
 # Edge Computing | 边缘计算
 
 - [OpenEdge #Project#](https://github.com/baidu/openedge): Extend cloud computing, data and service seamlessly to edge devices.
+
+- [KubeEdge #Project#](https://github.com/kubeedge/kubeedge): KubeEdge is built upon Kubernetes and extends native containerized application orchestration and device management to hosts at the Edge.
 
 # Job Scheduler
 

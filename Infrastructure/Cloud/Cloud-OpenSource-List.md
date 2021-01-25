@@ -86,7 +86,7 @@
 
 - [Kubernetes API Gateway #Project#](https://www.getambassador.io/products/edge-stack/api-gateway/): The Ambassador API Gateway delivers the scalability, security, and simplicity for some of the world's largest Kubernetes installations.
 
-- [KubeEdge #Project#](https://github.com/kubeedge/kubeedge): KubeEdge is built upon Kubernetes and extends native containerized application orchestration and device management to hosts at the Edge.
+- [kubevela #Project#](https://github.com/oam-dev/kubevela): A Highly Extensible Platform Engine based on Kubernetes and Open Application Model.
 
 ## Network
 
