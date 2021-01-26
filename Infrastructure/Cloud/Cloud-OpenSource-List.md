@@ -122,6 +122,8 @@
 
 - [OpenWhisk #Project#](https://github.com/apache/incubator-openwhisk): OpenWhisk is a cloud-first distributed event-based programming service. It provides a programming model to upload event handlers to a cloud service, and register the handlers to respond to various events.
 
+- [Firecracker #Project#](https://github.com/firecracker-microvm/firecracker): Secure and fast microVMs for serverless computing.
+
 # Service Mesh
 
 - [Kuma #Project#](https://kuma.io/docs/0.4.0/overview/what-is-kuma/): Kuma is a platform agnostic open-source control plane for Service Mesh and Microservices. It can run and be operated natively across both Kubernetes and VM environments, making it easy to adopt by every team in the organization.
