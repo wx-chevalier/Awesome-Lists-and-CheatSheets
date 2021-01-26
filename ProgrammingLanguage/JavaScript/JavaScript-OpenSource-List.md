@@ -70,6 +70,8 @@
 
 - [Hermes #Project#](https://github.com/facebook/hermes): Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.
 
+- [JerryScript #Project#](https://github.com/jerryscript-project/jerryscript): Ultra-lightweight JavaScript engine for the Internet of Things. 
+
 ## Parser
 
 - [Acorn #Project#](https://github.com/ternjs/acorn): A small, fast, JavaScript-based JavaScript parser.
