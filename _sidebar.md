@@ -205,8 +205,10 @@
     - 3.4 HA
       - [3.4.1 Cache List](/Backend/HA/Cache-List.md)
       - [3.4.2 HA List](/Backend/HA/HA-List.md)
-      - [3.4.3 SRE List](/Backend/HA/SRE-List.md)
-      - [3.4.4 Spike List](/Backend/HA/Spike-List.md)
+      - [3.4.3 HA OpenSource List](/Backend/HA/HA-OpenSource-List.md)
+      - [3.4.4 ResilienceService List](/Backend/HA/ResilienceService-List.md)
+      - [3.4.5 SRE List](/Backend/HA/SRE-List.md)
+      - [3.4.6 Spike List](/Backend/HA/Spike-List.md)
     - 3.5 MicroService
       - 3.5.1 API
         - [3.5.1.1 API List](/Backend/MicroService/API/API-List.md)
@@ -240,8 +242,6 @@
         - [3.5.8.3 RPC List](/Backend/MicroService/RPC/RPC-List.md)
         - [3.5.8.4 Serialization List](/Backend/MicroService/RPC/Serialization-List.md)
         - [3.5.8.5 gRPC List](/Backend/MicroService/RPC/gRPC-List.md)
-      - 3.5.9 ResilienceService
-        - [3.5.9.1 ResilienceService List](/Backend/MicroService/ResilienceService/ResilienceService-List.md)
     - 3.6 Test
       - [3.6.1 PerformanceTest List](/Backend/Test/PerformanceTest-List.md)
       - [3.6.2 Test List](/Backend/Test/Test-List.md)

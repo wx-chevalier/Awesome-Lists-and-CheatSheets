@@ -30,6 +30,8 @@
 
 - [2017-iot_push #Project#](https://github.com/1ssqq1lxr/iot_push): 基于 netty + mqtt 3.1.1 协议开发的物联网消息推送框架。
 
+# API
+
 ## API Automation & Generation
 
 - [automatic-api #Project#](https://github.com/dbohdan/automatic-api): The following is a list of tools that automatically expose a REST, GraphQL, or another kind of API for your database.
@@ -40,15 +42,13 @@
 
 - [xgenecloud #Project#](https://github.com/xgenecloud/xgenecloud): 🔥 🔥 Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB).
 
+- [2018-ginbro #Project#](https://github.com/dejavuzhou/ginbro): Converting a MySQL database'schema to a RESTful golang APIs app in the fastest way.
+
 ## API Management
 
 - [WSO2 #Project#](https://wso2.com/api-management/): WSO2 API Manager is a 100% open source enterprise-class solution that supports API publishing, lifecycle management, application development, access control, rate limiting and analytics in one cleanly integrated system.
 
 - [DOClever #Project#](https://github.com/sx1989827/DOClever): DOClever 是一个商业化开源产品，完全免费。无论你是前端工程师，还是后端工程师，接口永远都是两者交互的桥梁，所以 DOClever 专为中小型团队量身打造，旨在解决接口的管理，测试与数据生成，实现真正的一体化解决方案。
-
-## API Generator
-
-- [2018-ginbro #Project#](https://github.com/dejavuzhou/ginbro): Converting a MySQL database'schema to a RESTful golang APIs app in the fastest way.
 
 ## API Request Builder
 
@@ -118,6 +118,8 @@
 
 # Auth
 
+- [sa-token #Project#](https://github.com/click33/sa-token): 这可能是史上功能最全的 Java 权限认证框架！目前已经集成——登录验证、权限验证、Session 会话、踢人下线、模拟他人账号、临时身份切换、集成 Redis、多账号认证体系、前后台分离模式、注解式鉴权、路由拦截式鉴权、花式 token 生成、自动续签、同端互斥登录、会话治理、组件自动注入...
+
 ## RBAC
 
 - [Casbin #Project#](https://github.com/casbin/casbin): An authorization library that supports access control models like ACL, RBAC, ABAC in Golang.
@@ -139,45 +141,3 @@
 ## OAuth
 
 - [2016-Hydra #Project#](https://github.com/ory/hydra): OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language.
-
-# Serverless
-
-- [2017-faas #Project#](https://github.com/alexellis/faas): Functions as a Service - a serverless framework for Docker & Kubernetes
-
-- [1Backend #Project#](https://github.com/1backend/1backend): Run your web apps with the ease of git repos. Build reusable microservices and functions.
-
-- [OpenWhisk #Project#](https://github.com/apache/incubator-openwhisk): OpenWhisk is a cloud-first distributed event-based programming service. It provides a programming model to upload event handlers to a cloud service, and register the handlers to respond to various events.
-
-# Cache
-
-- [Overlord #Project#](https://github.com/bilibili/overlord): Overlord 是哔哩哔哩基于 Go 语言编写的 memcache 和 redis&cluster 的代理及集群管理功能，致力于提供自动化高可用的缓存服务解决方案。
-
-- [CacheCloud #Project#](https://github.com/sohutv/cachecloud): CacheCloud 提供一个 Redis 云管理平台：实现多种类型(Redis Standalone、Redis Sentinel、Redis Cluster)自动部署、解决 Redis 实例碎片化现象、提供完善统计、监控、运维功能、减少运维成本和误操作，提高机器的利用率，提供灵活的伸缩性，提供方便的接入客户端。
-
-# Resilient Service
-
-- [2015-Hystrix #Project#](https://github.com/Netflix/Hystrix): Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
-
-- [Sentinel #Project#](https://github.com/alibaba/Sentinel): A lightweight flow-control library providing high-available protection and monitoring (高可用防护的流量管理框架)
-
-- [2018-Resilience4j #Project#](https://github.com/resilience4j/resilience4j): Resilience4j is a fault tolerance library designed for Java8 and functional programming
-
-# Service Mesh
-
-- [Kuma #Project#](https://kuma.io/docs/0.4.0/overview/what-is-kuma/): Kuma is a platform agnostic open-source control plane for Service Mesh and Microservices. It can run and be operated natively across both Kubernetes and VM environments, making it easy to adopt by every team in the organization.
-
-- [Istio #Project#](https://istio.io/about/intro.html): Istio is an open platform that provides a uniform way to connect, manage, and secure microservices. Istio supports managing traffic flows between microservices, enforcing access policies, and aggregating telemetry data, all without requiring changes to the microservice code.
-
-- [Service Fabric #Project#](https://github.com/Microsoft/service-fabric): Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
-
-- [Open Service Mesh #Project#](https://github.com/openservicemesh/osm): Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
-
-## Sidecar
-
-- [Envoy #Project#](https://www.envoyproxy.io/): Envoy is an OpenSource Egde and Service Proxy, Design for Cloud-Native Applications.
-
-- [2019-Kuma #Project#](https://kuma.io/docs/0.1.0/#what-is-kuma): Kuma is a universal open-source control plane for Service Mesh and Microservices.
-
-## Serverless
-
-- [Fission #Project#](https://github.com/fission/fission): Fission is a fast serverless framework for Kubernetes with a focus on developer productivity and high performance.
