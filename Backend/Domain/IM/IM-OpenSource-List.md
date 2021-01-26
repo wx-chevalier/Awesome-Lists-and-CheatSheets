@@ -69,19 +69,3 @@
 ## RTSP
 
 - [rtsp-stream #Project#](https://github.com/Roverr/rtsp-stream): Out of box solution for RTSP - HLS live stream transcoding. Makes RTSP easy to play in browsers.
-
-# Assistant & Bot
-
-- [Home Assistant #Project#](https://home-assistant.io/): Home Assistant is an open-source home automation platform running on Python 3. Track and control all devices at home and automate control. Perfect to run on a Raspberry Pi.
-
-- [ChatterBot #Project#](https://github.com/gunthercox/ChatterBot): ChatterBot is a machine learning, conversational dialog engine for creating chat bots
-
-- [2016-Hubot #Project#](https://github.com/hubotio/hubot): Hubot is a framework to build chat bots, modeled after GitHub's Campfire bot of the same name, hubot. He's pretty cool. He's extendable with scripts and can work on many different chat services.
-
-- [2019-Botpress #Project#](https://github.com/botpress/botpress): The ultimate open-source conversational platform with built-in natural language processing (NLU), easy-to-use graphical interface and dialog manager.
-
-- [Olivia #Project#](https://github.com/olivia-ai/olivia): Your new best friend built with an artificial neural networ.
-
-- [Leon #Project#](https://github.com/leon-ai/leon): Leon is your open-source personal assistant.
-
-- [Dexter #Project#](https://github.com/iamsrp/dexter): Dexter is a voice controlled assistant, akin to Google Home and Alexa. Dexter's your right hand person (in theory).
