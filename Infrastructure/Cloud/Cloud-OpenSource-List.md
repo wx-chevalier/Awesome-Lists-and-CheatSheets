@@ -1,5 +1,7 @@
 # Cloud OpenSource List
 
+- [Nomad #Project#](https://www.nomadproject.io/): A simple and flexible workload orchestrator to deploy and manage containers and non-containerized applications across on-prem and clouds at scale.
+
 # Virtualization
 
 - [LightVM #Project#](http://cnp.neclab.eu/projects/lightvm/): . With LightVM we examine whether there is indeed a strict tradeoff between isolation (VMs) and efficiency (containers). We find that VMs can be as nimble as containers, as long as they are small and the toolstack is fast enough.
