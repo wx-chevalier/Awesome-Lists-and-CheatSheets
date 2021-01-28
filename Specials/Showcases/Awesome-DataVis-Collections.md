@@ -2,6 +2,8 @@
 
 - [AlteredQualia](https://alteredqualia.com/): 许多绚丽的基于 WebGL 的 3D 可视化效果展示。
 
+- [大屏数据展示模板 #Project#](https://gitee.com/lvyeyou/DaShuJuZhiDaPingZhanShi): 各类大屏展示模板持续更新中...
+
 ## 文字
 
 - [Wordart](https://wordart.com/): WordArt.com is an online word cloud art creator that enables you to create amazing and unique word cloud art with ease. Professional quality results can be achieved in no time at all, even for users with no prior knowledge of graphic design.

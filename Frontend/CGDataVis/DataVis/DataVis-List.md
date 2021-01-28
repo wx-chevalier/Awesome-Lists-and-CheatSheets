@@ -12,6 +12,8 @@
 
 - [阿里云 11·11：DataV 的数据可视化之道](https://parg.co/U6K): 从 2012 年起，阿里每年的双 11 大促都会推出一个大屏，以多种生动的展示方式实时地显示交易情况。实时数据大屏，它的特点是各种大：屏幕大、数据量大、展示信息量大，可以说是数据可视化的圣杯。作为双 11 数据大屏的幕后功臣，DataV 在经历数个大型项目后几乎试遍技术沉淀的所有路径：开源代码、产品化、打包解决方案、平台化……应用场景也从双 11 电商作战，扩展到智慧城市、智慧交通等诸多领域。他们一路走来的历程和思索，值得后来者借鉴参考。
 
+- [Data Visualization and the modern Imagination #Series#](https://exhibits.stanford.edu/dataviz): There is a magic in information graphics. The sections in this exhibition examine information graphics that show space, time, nature, and society. Many are beautiful. Each is a unique way of seeing still worth our attention.
+
 # Tutorial
 
 - [2019-前端必看的数据可视化入门指南](https://www.pushvps.com/1926.html): 这是一篇给大家提供数据可视化开发的入门指南，介绍了可视化要解决的问题和可以直接使用的工具，我将从下面几个方面给大家介绍，同时以阿里/蚂蚁的可视化团队和资源举例说明。
