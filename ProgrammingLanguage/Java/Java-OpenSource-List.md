@@ -20,6 +20,8 @@
 
 - [2020-newbee-mall #Project#](https://github.com/newbee-ltd/newbee-mall): newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。
 
+- [2020-pig #Project#](https://gitee.com/log4j/pig): 基于 Spring Boot 2.4、 Spring Cloud 2020 & Alibaba、 OAuth2 的微服务 RBAC 权限管理系统。记得右上角点个 star 关注更新
+
 # Dev Toolkits
 
 ## IDE

@@ -6,6 +6,10 @@
 
 - [2018-im_service #Project#](https://github.com/GoBelieveIO/im_service): golang im server.
 
+- [starRTC #Project#](https://gitee.com/starRTC): 免费 IM（含单聊，群聊，聊天室），免费 VOIP 视频通话，免费视频会议，免费互动连麦直播，支持物联网硬件。兼容 webRTC。
+
+- [Berty #Project#](https://github.com/berty/berty): Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+
 ## UI
 
 - [ChatUI #Project#](https://github.com/alibaba/ChatUI): The UI design language and React library for Conversational UI.

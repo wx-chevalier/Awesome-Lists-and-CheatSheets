@@ -28,7 +28,7 @@
 
 - [sheetjs #Project#](https://github.com/SheetJS/sheetjs): 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
 
-- [x-spreadsheet #Project#](https://github.com/myliang/x-spreadsheet): A web-based JavaScript（canvas） spreadsheet.
+- [x-spreadsheet #Project#](https://github.com/myliang/x-spreadsheet): A web-based JavaScript（canvas）spreadsheet.
 
 - [jExcel #Project#](https://github.com/paulhodel/jexcel): jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
 
