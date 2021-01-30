@@ -1,12 +1,10 @@
 # Web OpenSource List
 
-- [finder #Project#](https://github.com/antonmedv/finder): CSS Selector Generator, Generates shortest selectors.
-
-- [CSS Blocks #Project#](https://github.com/linkedin/css-blocks): CSS Blocks is an ergonomic, component-oriented CSS authoring system that compiles to high-performance stylesheets.
-
 # Showcase
 
 - [2020-20+ Web Projects With Vanilla JavaScript #Project#](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries.
+
+- [YesPlayMusic #Project#](https://github.com/qier222/YesPlayMusic): 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
 # Dev Tools
 
@@ -62,6 +60,8 @@
 
 - [tailwindcss #Project#](https://github.com/tailwindlabs/tailwindcss): A utility-first CSS framework for rapid UI development.
 
+- [CSS Blocks #Project#](https://github.com/linkedin/css-blocks): CSS Blocks is an ergonomic, component-oriented CSS authoring system that compiles to high-performance stylesheets.
+
 ## State Management
 
 - [Recoil #Project#](https://github.com/facebookexperimental/Recoil): Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
@@ -105,6 +105,8 @@
 # Web APIs
 
 - [Pressure.js #Project#](https://pressurejs.com/): Pressure is a JavaScript library for handling Force Touch, 3D Touch, and Pointer Pressure on the web.
+
+- [finder #Project#](https://github.com/antonmedv/finder): CSS Selector Generator, Generates shortest selectors.
 
 ## Virtual DOM
 
