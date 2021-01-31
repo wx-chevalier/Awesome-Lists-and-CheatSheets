@@ -612,12 +612,12 @@
       - [7.3.4 DistributedCompute OpenSource List](/Infrastructure/DistributedCompute/DistributedCompute-OpenSource-List.md)
       - 7.3.5 EdgeCompute
         - [7.3.5.1 EdgeCompute List](/Infrastructure/DistributedCompute/EdgeCompute/EdgeCompute-List.md)
-      - 7.3.6 MessageBroker
-        - [7.3.6.1 Kafka List](/Infrastructure/DistributedCompute/MessageBroker/Kafka-List.md)
-        - [7.3.6.2 MessageBroker List](/Infrastructure/DistributedCompute/MessageBroker/MessageBroker-List.md)
-        - [7.3.6.3 Pulsar List](/Infrastructure/DistributedCompute/MessageBroker/Pulsar-List.md)
-        - [7.3.6.4 RabbitMQ List](/Infrastructure/DistributedCompute/MessageBroker/RabbitMQ-List.md)
-        - [7.3.6.5 RocketMQ List](/Infrastructure/DistributedCompute/MessageBroker/RocketMQ-List.md)
+      - 7.3.6 MOM
+        - [7.3.6.1 Kafka List](/Infrastructure/DistributedCompute/MOM/Kafka-List.md)
+        - [7.3.6.2 MOM List](/Infrastructure/DistributedCompute/MOM/MOM-List.md)
+        - [7.3.6.3 Pulsar List](/Infrastructure/DistributedCompute/MOM/Pulsar-List.md)
+        - [7.3.6.4 RabbitMQ List](/Infrastructure/DistributedCompute/MOM/RabbitMQ-List.md)
+        - [7.3.6.5 RocketMQ List](/Infrastructure/DistributedCompute/MOM/RocketMQ-List.md)
       - 7.3.7 QuantumCompute
         - [7.3.7.1 QuantumCompute List](/Infrastructure/DistributedCompute/QuantumCompute/QuantumCompute-List.md)
       - 7.3.8 Stream
