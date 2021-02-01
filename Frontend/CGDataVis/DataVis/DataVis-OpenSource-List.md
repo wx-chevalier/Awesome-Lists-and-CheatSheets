@@ -101,6 +101,10 @@
 
 - [bytesize-icons](https://github.com/danklammer/bytesize-icons)
 
+# Animation
+
+- [Manim #Project#](https://github.com/3b1b/manim): Manim is an animation engine for explanatory math videos. It's used to create precise animations programmatically, as seen in the videos at 3Blue1Brown.
+
 # Others
 
 - [Datashader #Project#](https://github.com/pyviz/datashader): Datashader is a data rasterization pipeline for automating the process of creating meaningful representations of large amounts of data.
