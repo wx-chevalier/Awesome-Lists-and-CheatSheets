@@ -179,6 +179,8 @@
 
 # JVM
 
+- [TeaVM #Project#](http://teavm.org/): TeaVM is an ahead-of-time compiler for Java bytecode that emits JavaScript and WebAssembly that runs in a browser. Its close relative is the well-known GWT. The main difference is that TeaVM does not require source code, only compiled class files. Moreover, the source code is not required to be Java, so TeaVM successfully compiles Kotlin and Scala.
+
 ## Debug & Monitor Tools
 
 - [GCViewer #Project#](https://github.com/chewiebug/GCViewer): Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector)

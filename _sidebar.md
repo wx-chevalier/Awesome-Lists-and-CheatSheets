@@ -158,8 +158,9 @@
         - [2.6.2.2 Git OpenSource List](/Architecture/SoftwareEngineering/Git/Git-OpenSource-List.md)
         - [2.6.2.3 Git Workflow List](/Architecture/SoftwareEngineering/Git/Git-Workflow-List.md)
         - [2.6.2.4 Github List](/Architecture/SoftwareEngineering/Git/Github-List.md)
-      - [2.6.3 Workflow List](/Architecture/SoftwareEngineering/Workflow-List.md)
-      - [2.6.4 Workflow OpenSource List](/Architecture/SoftwareEngineering/Workflow-OpenSource-List.md)
+      - [2.6.3 OpenSource List](/Architecture/SoftwareEngineering/OpenSource-List.md)
+      - [2.6.4 Workflow List](/Architecture/SoftwareEngineering/Workflow-List.md)
+      - [2.6.5 Workflow OpenSource List](/Architecture/SoftwareEngineering/Workflow-OpenSource-List.md)
   - 3 Backend
     - [3.1 Backend List](/Backend/Backend-List.md)
     - 3.2 DevOps

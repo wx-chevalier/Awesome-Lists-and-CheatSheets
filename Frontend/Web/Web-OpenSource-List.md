@@ -100,7 +100,9 @@
 
 - [2019-Chakra UI #Project#](https://github.com/chakra-ui/chakra-ui): ⚡️Simple, Modular & Accessible UI Components for your React Applications.
 
-- [tailwindcss #Project#](https://tailwindcss.com/): Rapidly build modern websites without ever leaving your HTML.
+### CSS Pattern Libraries
+
+- [2020-NES.css #Project#](https://nostalgic-css.github.io/NES.css/): NES.css is NES-style (8bit-like) CSS Framework.
 
 # Web APIs
 
