@@ -16,6 +16,8 @@
 
 - [Cadence #Project#](https://github.com/uber/cadence): Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 
+- [Argo #『睿频科创园#](https://github.com/argoproj/argo): Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes. Argo Workflows is implemented as a Kubernetes CRD (Custom Resource Definition).
+
 # Rules Engine
 
 - [Drools #Project#](https://www.drools.org/): Drools is a Business Rules Management System (BRMS) solution. It provides a core Business Rules Engine (BRE), a web authoring and rules management application (Drools Workbench) and an Eclipse IDE plugin for core development.
