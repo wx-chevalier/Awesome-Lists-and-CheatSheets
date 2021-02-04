@@ -104,6 +104,8 @@
 
 - [gendry #Project#](https://github.com/didi/gendry): a golang library for sql builder.
 
+- [ent #Project#](https://entgo.io/): An entity framework for Go. Simple, yet powerful ORM for modeling and querying data.
+
 # Web Framework
 
 - [Beego #Project#](https://beego.me/): An open source framework to build and develop your applications in the Go way.

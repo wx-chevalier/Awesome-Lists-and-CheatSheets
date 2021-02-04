@@ -82,6 +82,12 @@
 
 - [2019-MySQL #Project#](https://www.mysql.com/): The world's most popular open source database.
 
+## StoreEngine
+
+- [2021-Extensible-Storage-Engine #Project#](https://github.com/microsoft/Extensible-Storage-Engine): ESE is an embedded / ISAM-based database engine, that provides rudimentary table and indexed access. However the library provides many other strongly layered and and thus reusable sub-facilities as well: A Synchronization / Locking library, a Data-structures / STL-like library, an OS-abstraction layer, and a Cache Manager, as well the full blown…
+
+## MySQL
+
 ## Sharding
 
 - [Sharding-Sphere #Project#](https://gitee.com/Sharding-Sphere/sharding-sphere): Sharding-Sphere is an open-source ecosystem consisted of a set of distributed database middleware solutions, including 3 independent products, Sharding-JDBC, Sharding-Proxy & Sharding-Sidecar (todo).

@@ -34,6 +34,8 @@
 
 - [2019-TypeScript Evolution #Series#](https://mariusschulz.com/blog/series/typescript-evolution): The TypeScript Evolution series consists of 40 posts.
 
+- [2021-10 bad TypeScript habits to break this year](https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/): TypeScript and JavaScript have steadily evolved over the last years, and some of the habits we built over the last decades have become obsolete. Some might never have been meaningful. Here's a list of 10 habits that we all should break.
+
 ## Advanced Types
 
 - [type-challenges](https://github.com/type-challenges/type-challenges): Collection of TypeScript type challenges with online judge.

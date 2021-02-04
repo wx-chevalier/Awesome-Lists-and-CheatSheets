@@ -142,9 +142,8 @@
       - [2.3.5 Programming Paradigm List](/Architecture/DesignPattern/Programming-Paradigm-List.md)
       - [2.3.6 ReactiveProgramming List](/Architecture/DesignPattern/ReactiveProgramming-List.md)
     - 2.4 PatternStyle
-      - [2.4.1 ArchitecturalPattern List](/Architecture/PatternStyle/ArchitecturalPattern-List.md)
-      - [2.4.2 ArchitecturalStyle List](/Architecture/PatternStyle/ArchitecturalStyle-List.md)
-      - [2.4.3 DDD List](/Architecture/PatternStyle/DDD-List.md)
+      - [2.4.1 DDD List](/Architecture/PatternStyle/DDD-List.md)
+      - [2.4.2 PatternStyle List](/Architecture/PatternStyle/PatternStyle-List.md)
     - 2.5 Refactor
       - [2.5.1 CleanCode List](/Architecture/Refactor/CleanCode-List.md)
       - [2.5.2 CodeReview List](/Architecture/Refactor/CodeReview-List.md)
