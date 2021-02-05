@@ -2,6 +2,8 @@
 
 - [2018-Security with Spring #Series#](https://www.baeldung.com/security-spring): The Security with Spring tutorials focus, as you'd expect, on Spring Security. Get started with the Registration series if you're interested in building a registration flow, and understanding some of the frameworks basics. Then, explore the topics you're most interested in, related to security. Finally, have a look at some of the more advanced topics, such as the OAuth support.
 
+- [2020-Spring security tutorials and examples #Series#](https://github.com/RameshMF/spring-security-tutorial): This tutorial describes the usage and importance of Spring security with lots of examples.
+
 # Spring Security 5
 
 - [Spring Security Series #Series#](https://www.baeldung.com/tag/spring-security-5/): With the latest Spring Security release, a lot has changed. One of those changes is how we can handle password encoding in our applications.
