@@ -178,6 +178,10 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [Lynis #Project#](https://github.com/CISOfy/lynis): Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 
+## Windows
+
+- [ScareCrow #Project#](https://github.com/optiv/ScareCrow): ScareCrow is a payload creation framework for generating loaders for the use of side loading (not injection) into a legitimate Windows process (bypassing Application Whitelisting controls).
+
 # Network
 
 ## DNS

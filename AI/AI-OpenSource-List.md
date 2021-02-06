@@ -52,9 +52,11 @@
 
 - [2019-Jupytext #Project#](https://github.com/mwouts/jupytext): Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts.
 
-## Utils
+## Utils & IDE
 
 - [2020-Otto #Project#](https://github.com/KartikChugh/Otto): Otto is an intelligent chat application, designed to help aspiring machine learning engineers go from idea to implementation with minimal domain knowledge.
+
+- [2020-Spyder #Project#](https://github.com/spyder-ide/spyder): Spyder is a powerful scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. It offers a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package.
 
 # Data Analysis
 
@@ -153,6 +155,8 @@
 - [DeepSpeech #Project#](https://github.com/mozilla/DeepSpeech): Project DeepSpeech is an open source Speech-To-Text engine. It uses a model trained by machine learning techniques, based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow project to make the implementation easier.
 
 - [wav2letter #Project#](https://parg.co/UM8): wav2letter is a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research.
+
+- [WeNet #Project#](https://github.com/mobvoi/wenet): Production First and Production Ready End-to-End Speech Recognition Toolkit
 
 # Computer Vision
 

@@ -14,6 +14,8 @@
 
 - [mini-redis #Project#](https://github.com/tokio-rs/mini-redis): Incomplete Redis client and server implementation using Tokio
 
+- [ht #Project#](https://github.com/ducaale/ht): Yet another HTTPie clone in Rust.
+
 ## JavaScript Engine
 
 - [boa](https://github.com/jasonwilliams/boa): Javascript engine written in Rust
