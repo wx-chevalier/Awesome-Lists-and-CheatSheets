@@ -210,14 +210,6 @@
 
 - [2017-Ant Motion #Project#](https://motion.ant.design/): 使用 Ant Motion 能够快速在 React 框架中使用动画；我们提供了单项，组合动画，以及整套解决方案。
 
-## Graphic Animation
-
-- [mo.js #Project#](https://github.com/legomushroom/mojs): motion graphics toolbelt for the web.
-
-- [bezierjs #Project#](https://github.com/Pomax/bezierjs): A node.js and client-side library for (quadratic and cubic) Bezier curve work.
-
-- [lottie-web #Project#](https://github.com/airbnb/lottie-web): Render After Effects animations natively on Web, Android and iOS, and React Native. [React animated icons](https://github.com/useAnimations/react-useanimations),
-
 ## Plstopfic
 
 - [Turn.js #Project#](http://www.turnjs.com/#samples/magazine2/9): Turn.js is a JavaScript library that will make your content look like a real book or magazine using all the advantages of HTML5.

@@ -2,7 +2,7 @@
 
 # UX
 
-- [2019-UXBox #Project#](https://www.uxbox.io): The open-source solution for design and prototyping.
+- [2019-Penpot #Project#](https://github.com/penpot/penpot): The Open-Source prototyping tool
 
 # Survey
 
