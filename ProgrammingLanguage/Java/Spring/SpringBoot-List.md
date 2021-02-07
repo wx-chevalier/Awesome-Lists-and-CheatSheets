@@ -8,8 +8,6 @@
 
 - [running_multiple_spring_boot_apps_in_the_same_jvm](http://davidtanzer.net/running_multiple_spring_boot_apps_in_the_same_jvm)
 
-- [Spring Boot 系列文章](http://blog.didispace.com/tag/spring-boot/)
-
 ## Controller | 请求处理
 
 ### Swagger

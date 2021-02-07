@@ -1,6 +1,12 @@
 # Spring List
 
+# Resource
+
 - [spring-cloud #Series#](https://github.com/yinjihuan/spring-cloud): 《Spring Cloud 微服务-全栈技术与案例解析》和《Spring Cloud 微服务 入门 实战与进阶》配套源码。
+
+- [2020-SpringBoot Learning #Series#](https://github.com/dyc87112/SpringBoot-Learning): Spring Boot 基础教程，Spring Boot 2.x 版本连载中！！！
+
+- [2020-Spring Cloud 从入门到精通 #Series#](https://blog.didispace.com/spring-cloud-learning/): 如果您还是初学者，建议优先以 Dalston 版教程为基础进行学习，该版本内容目前比较完整。
 
 # Tutorial
 
