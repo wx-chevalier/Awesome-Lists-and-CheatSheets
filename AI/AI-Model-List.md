@@ -114,6 +114,8 @@
 
 - [Nsfw JS #Project#](https://github.com/infinitered/nsfwjs): A simple JavaScript library to help you quickly identify unseemly images; all in the client's browser. NSFWJS isn't perfect, but it's pretty accurate (~90% from our test set of 15,000 test images)... and it's getting more accurate all the time.
 
+- [DeepCreamPy #Project#](https://github.com/deeppomf/DeepCreamPy): A deep learning-based tool to automatically replace censored artwork in hentai with plausible reconstructions.
+
 ## OCR
 
 - [keras-ocr #Project#](https://github.com/faustomorales/keras-ocr): A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
