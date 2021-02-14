@@ -700,10 +700,11 @@
     - 9.1 Assembly
       - [9.1.1 Assembly List](/ProgrammingLanguage/Assembly/Assembly-List.md)
     - 9.2 C
-      - [9.2.1 CPP Compiler List](/ProgrammingLanguage/C/CPP-Compiler-List.md)
-      - [9.2.2 CPP ConcurrentProgramming List](/ProgrammingLanguage/C/CPP-ConcurrentProgramming-List.md)
-      - [9.2.3 CPP List](/ProgrammingLanguage/C/CPP-List.md)
-      - [9.2.4 CPP OpenSource List](/ProgrammingLanguage/C/CPP-OpenSource-List.md)
+      - [9.2.1 C List](/ProgrammingLanguage/C/C-List.md)
+      - [9.2.2 CPP Compiler List](/ProgrammingLanguage/C/CPP-Compiler-List.md)
+      - [9.2.3 CPP ConcurrentProgramming List](/ProgrammingLanguage/C/CPP-ConcurrentProgramming-List.md)
+      - [9.2.4 CPP List](/ProgrammingLanguage/C/CPP-List.md)
+      - [9.2.5 CPP OpenSource List](/ProgrammingLanguage/C/CPP-OpenSource-List.md)
     - 9.3 Go
       - [9.3.1 Go Architecture List](/ProgrammingLanguage/Go/Go-Architecture-List.md)
       - [9.3.2 Go Collection List](/ProgrammingLanguage/Go/Go-Collection-List.md)

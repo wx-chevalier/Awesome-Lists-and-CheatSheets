@@ -90,6 +90,10 @@
 
 - [2018-DeOldify #Project#](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
 
+## Image Search
+
+- [CLIP](https://openai.com/blog/clip/): Connecting Text and Images, [natural-language-image-search](https://github.com/haltakov/natural-language-image-search#on-your-machine).
+
 ## Background Remove
 
 - [Background Matting #Project#](https://github.com/senguptaumd/Background-Matting): The World is Your Green Screen.
