@@ -30,7 +30,9 @@
 
 - [Spring Initializr](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr): Spring Initializr is a lightweight extension to quickly generate a Spring Boot project in Visual Studio Code (VS Code).
 
-- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): Run code snippet or code file for multiple languages
+- [Code Runner #Project#](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): Run code snippet or code file for multiple languages
+
+- [github1s #Project#](https://github.com/conwnet/github1s): One second to read GitHub code with VS Code.
 
 ## Intellij
 

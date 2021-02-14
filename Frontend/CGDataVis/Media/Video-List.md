@@ -5,7 +5,3 @@
 - [优酷是如何防止视频被越权下载](https://zybuluo.com/RexGene/note/596711)
 
 - [2018-视音频编解码技术零基础(理论总结)](https://www.jianshu.com/p/b452d823b285): 视音频技术主要包含以下几点：封装技术，视频压缩编码技术以及音频压缩编码技术。如果考虑到网络传输的话，还包括流媒体协议技术。
-
-# OpenSource
-
-- [PeerTube #Project#](https://github.com/Chocobozzz/PeerTube): Be part of a network of multiple small federated, interoperable video hosting providers. Follow video creators and create videos. No vendor lock-in. All on a platform that is community-owned and ad-free.

@@ -12,9 +12,11 @@
 
 - [The Art of Node An introduction to Node.js](https://github.com/maxogden/art-of-node#modules)
 
-## Case Study
+## Case Study & Practices
 
 - [2019-Node.js 在携程的落地和最佳实践](https://mp.weixin.qq.com/s/ndPlZJWM9pxusGMY8C0eyA): 本文主要介绍在携程，Node.js 技术栈是如何从 0 到 1 进行技术落地的，以及在不断磨合的过程中，总结出来的最佳实践。
+
+- [2021-Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices): ✅ The Node.js best practices list (February 2021)
 
 # Resource
 
