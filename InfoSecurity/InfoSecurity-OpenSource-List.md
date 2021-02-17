@@ -126,6 +126,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 ## Leakage
 
+- [SecretScanner #Project#](https://github.com/deepfence/SecretScanner): Find secrets and passwords in container images and file systems
+
 # Web Security
 
 ## Discovery
