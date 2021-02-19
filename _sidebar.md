@@ -673,6 +673,7 @@
       - 8.7.1 IoT
         - 8.7.1.1 Chip
           - [8.7.1.1.1 Chip List](/Infrastructure/OS/IoT/Chip/Chip-List.md)
+          - [8.7.1.1.2 PCB List](/Infrastructure/OS/IoT/Chip/PCB-List.md)
         - 8.7.1.2 HomeAutomation
           - [8.7.1.2.1 HomeAutomation List](/Infrastructure/OS/IoT/HomeAutomation/HomeAutomation-List.md)
         - [8.7.1.3 IoT List](/Infrastructure/OS/IoT/IoT-List.md)

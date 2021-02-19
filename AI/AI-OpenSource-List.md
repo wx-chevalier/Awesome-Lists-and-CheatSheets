@@ -46,21 +46,23 @@
 
 - [Streamlit #Project#](https://github.com/streamlit/streamlit): Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts.
 
-## Notebook
-
-- [2014-Jupyter #Project#](https://jupyter.org/): Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
-
-- [2019-Jupytext #Project#](https://github.com/mwouts/jupytext): Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts.
-
 ## Utils & IDE
 
 - [2020-Otto #Project#](https://github.com/KartikChugh/Otto): Otto is an intelligent chat application, designed to help aspiring machine learning engineers go from idea to implementation with minimal domain knowledge.
 
 - [2020-Spyder #Project#](https://github.com/spyder-ide/spyder): Spyder is a powerful scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. It offers a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package.
 
+- [2014-Jupyter #Project#](https://jupyter.org/): Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
+
+- [2019-Jupytext #Project#](https://github.com/mwouts/jupytext): Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts.
+
 # Data Analysis
 
 - [2019-metaflow #Project#](https://github.com/Netflix/metaflow): Build and manage real-life data science projects with ease.
+
+## Dataset Management
+
+- [Hub #Project#](https://github.com/activeloopai/Hub): Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it.
 
 ## Feature Engineering
 
