@@ -4,29 +4,15 @@
 
 - [Segmented circles #Project#](https://github.com/design4use/gb-sketch-segmentcircle): Sketch plugin creates circular graphics for diagrams, instrumentation and analytics.
 
-# Screen Recorder | 录屏与分享
-
-- [Kap #Project#](https://getkap.co/): Capture your screen, An open-source screen recorder built with web technology.
-
-- [Zappy #Project#](https://zapier.com/zappy): The fastest, all-in-one way to share screenshots, GIFs, and recordings with your teammates.
-
-- [Screenity #Project#](https://github.com/alyssaxuu/screenity): The most powerful screen recorder & annotation tool for Chrome 🎥
-
-## 图片处理
-
-- [Remove Image Background](https://www.remove.bg/): 100% automatically – in 5 seconds – without a single click.
-
-- [vdx #Project#](https://github.com/yuanqing/vdx): 🎞️ An intuitive CLI for processing video, powered by FFmpeg
-
-## OCR
-
-- [MathPix](https://mathpix.com): Take a screenshot of math and paste the LaTeX into your editor, all with a single keyboard shortcut.
+# Color Palette
 
 # Draw
 
 ## Diagram
 
 - [2019-Excalidraw #Project#](https://github.com/excalidraw/excalidraw): Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+
+## UML
 
 Markdeep https://casual-effects.com/markdeep/
 Diagrams: markdown, ascii-to-all
@@ -111,6 +97,14 @@ Diagrams: timing
 
 # 图片处理
 
+- [Remove Image Background](https://www.remove.bg/): 100% automatically – in 5 seconds – without a single click.
+
+- [vdx #Project#](https://github.com/yuanqing/vdx): 🎞️ An intuitive CLI for processing video, powered by FFmpeg
+
+## OCR
+
+- [MathPix](https://mathpix.com): Take a screenshot of math and paste the LaTeX into your editor, all with a single keyboard shortcut.
+
 ## 图床管理
 
 - [2018-PicGo #Project#](https://github.com/Molunerfinn/PicGo): 🚀A simple & beautiful tool for pictures uploading built by electron-vue
@@ -119,12 +113,10 @@ Diagrams: timing
 
 - [imgdiff #Project#](https://github.com/n7olkachev/imgdiff): Faster than the fastest in the world pixel-by-pixel image difference tool.
 
-# 简历
+# Screen Recorder | 录屏与分享
 
-- [Reactive Resume](https://rx-resume.web.app): 在线简历设计器。
+- [Kap #Project#](https://getkap.co/): Capture your screen, An open-source screen recorder built with web technology.
 
-# Color Palette
+- [Zappy #Project#](https://zapier.com/zappy): The fastest, all-in-one way to share screenshots, GIFs, and recordings with your teammates.
 
-# Crawler & Downloader
-
-- [gallery-dl #Project#](https://github.com/mikf/gallery-dl): Command-line program to download image-galleries and -collections from several image hosting sites
+- [Screenity #Project#](https://github.com/alyssaxuu/screenity): The most powerful screen recorder & annotation tool for Chrome 🎥

@@ -813,8 +813,9 @@
     - 11.2 Career
       - [11.2.1 Coding as Vetren](/Specials/Career/Coding-as-Vetren.md)
       - [11.2.2 Guides](/Specials/Career/Guides.md)
-      - [11.2.3 Startup Stories](/Specials/Career/Startup-Stories.md)
-      - [11.2.4 Writing List](/Specials/Career/Writing-List.md)
+      - [11.2.3 Job](/Specials/Career/Job.md)
+      - [11.2.4 Startup Stories](/Specials/Career/Startup-Stories.md)
+      - [11.2.5 Writing List](/Specials/Career/Writing-List.md)
     - 11.3 Collections
       - [11.3.1 Awesome Blogs](/Specials/Collections/Awesome-Blogs.md)
       - [11.3.2 Awesome Collections](/Specials/Collections/Awesome-Collections.md)
