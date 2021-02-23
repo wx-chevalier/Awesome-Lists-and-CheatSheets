@@ -94,6 +94,10 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2018-Beginner Solutions in Go - The Basics, Clients, and Servers #Project#](https://parg.co/oZc)
 
+## Series
+
+- [2020-7days-golang #Series#](https://github.com/geektutu/7days-golang): 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7 天用 Go 动手写/从零实现系列。
+
 # Tutorial
 
 ## Quick Start
@@ -110,9 +114,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2018-How to start a Go project in 2018](https://boyter.org/posts/how-to-start-go-project-2018/): Getting started with a Go project in 2018 is frankly a little more painful then getting anything else started IMHO.
 
-- [2017-The ultimate guide to writing a Go tool · Fatih Arslan](https://arslan.io/2017/09/14/the-ultimate-guide-to-writing-a-go-tool/)
-
-- [2020-7days-golang #Series#](https://github.com/geektutu/7days-golang): 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7 天用 Go 动手写/从零实现系列。
+- [2017-The ultimate guide to writing a Go tool ·Fatih Arslan](https://arslan.io/2017/09/14/the-ultimate-guide-to-writing-a-go-tool/)
 
 ## Examples
 

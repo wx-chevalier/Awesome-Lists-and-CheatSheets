@@ -42,6 +42,8 @@
 
 - [go-zero #Project#](https://gitee.com/kevwan/go-zero): go-zero 是一个集成了各种工程实践的 web 和 rpc 框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。
 
+- [Kratos #Project#](https://github.com/go-kratos/kratos): Kratos 一套轻量级 Go 微服务框架，包含大量微服务相关框架及工具。
+
 ## Utils
 
 - [go-funk #{rpkecy](https://github.com/thoas/go-funk): go-funk is a modern Go library based on reflect.

@@ -12,11 +12,15 @@
 
 ## Case Study & Framework
 
+- [2017-explicit-architecture-php #Project#](https://github.com/hgraca/explicit-architecture-php): This repository is a demo of Explicit Architecture, using the Symfony Demo Application.
+
 - [2019-Vlingo #Project#](https://docs.vlingo.io/): The vlingo/PLATFORM was designed for building fluent domain models inside applications and services using a DDD mindset.
 
 - [2020-ContextMapper #Project#](https://contextmapper.org/): ContextMapper is an open source project providing a Domain-specific Language and Tools for Strategic Domain-driven Design (DDD), Context Mapping, Bounded Context Modeling, and Service Decomposition.
 
 - [cp-ddd-framework #Project#](https://github.com/funkygao/cp-ddd-framework): A lightweight development framework for complex business architecture！轻量级业务中台开发框架！
+
+- [2020-Domain-Driven Hexagon #Project#](https://github.com/Sairyss/domain-driven-hexagon): Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
 
 # Resource
 
