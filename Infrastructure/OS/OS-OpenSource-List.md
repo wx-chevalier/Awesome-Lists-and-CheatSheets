@@ -10,7 +10,9 @@
 
 ## Scratch
 
-- [bootOS #Project#](https://github.com/nanochess/bootOS): bootOS is a monolithic operating system in 512 bytes of x86 machine code.
+- [bootOS #Project# #Scratch#](https://github.com/nanochess/bootOS): bootOS is a monolithic operating system in 512 bytes of x86 machine code.
+
+- [os-series #Project# #Scratch#](https://github.com/davidcallanan/os-series): Write Your Own 64-bit Operating System Kernel From Scratch.
 
 # Remote Desktop
 
