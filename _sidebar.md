@@ -5,121 +5,122 @@
     - [1.4 AI List](/AI/AI-List.md)
     - [1.5 AI Model List](/AI/AI-Model-List.md)
     - [1.6 AI OpenSource List](/AI/AI-OpenSource-List.md)
-    - [1.7 AI Tutorial List](/AI/AI-Tutorial-List.md)
-    - 1.8 Application
-      - [1.8.1 Application List](/AI/Application/Application-List.md)
-      - 1.8.2 RecommendSystem
-        - [1.8.2.1 CTR List](/AI/Application/RecommendSystem/CTR-List.md)
-        - [1.8.2.2 RecommendSystem List](/AI/Application/RecommendSystem/RecommendSystem-List.md)
-      - 1.8.3 SNA
-        - [1.8.3.1 SNA List](/AI/Application/SNA/SNA-List.md)
-      - 1.8.4 SelfDriving
-        - [1.8.4.1 SelfDriving List](/AI/Application/SelfDriving/SelfDriving-List.md)
-    - 1.9 ComputerVision
-      - [1.9.1 ComputerVision List](/AI/ComputerVision/ComputerVision-List.md)
-      - [1.9.2 OCR List](/AI/ComputerVision/OCR-List.md)
-      - [1.9.3 Object Detection List](/AI/ComputerVision/Object-Detection-List.md)
-    - 1.10 DeepLearning
-      - 1.10.1 CNN
-        - [1.10.1.1 CNN List](/AI/DeepLearning/CNN/CNN-List.md)
-      - 1.10.2 DNN
-        - [1.10.2.1 GAN List](/AI/DeepLearning/DNN/GAN-List.md)
-        - [1.10.2.2 LSTM List](/AI/DeepLearning/DNN/LSTM-List.md)
-      - 1.10.3 DRL
-        - [1.10.3.1 DeepReinforcementLearning](/AI/DeepLearning/DRL/DeepReinforcementLearning.md)
-      - [1.10.4 DeepLearning List](/AI/DeepLearning/DeepLearning-List.md)
-      - 1.10.5 NeuralNetwork
-        - [1.10.5.1 NeuralNetwork List](/AI/DeepLearning/NeuralNetwork/NeuralNetwork-List.md)
-      - 1.10.6 RNN
-        - [1.10.6.1 RecurrentNeuralNetwork List](/AI/DeepLearning/RNN/RecurrentNeuralNetwork-List.md)
-      - 1.10.7 RepresentationLearning
-        - [1.10.7.1 RepresentationLearning List](/AI/DeepLearning/RepresentationLearning/RepresentationLearning-List.md)
-    - 1.11 MachineLearning
-      - 1.11.1 Algorithm
-        - 1.11.1.1 Bayes
-          - [1.11.1.1.1 Bayes List](/AI/MachineLearning/Algorithm/Bayes/Bayes-List.md)
-        - 1.11.1.2 Classification
-          - [1.11.1.2.1 Classification List](/AI/MachineLearning/Algorithm/Classification/Classification-List.md)
-          - [1.11.1.2.2 DecisionTree List](/AI/MachineLearning/Algorithm/Classification/DecisionTree-List.md)
-          - [1.11.1.2.3 Regression List](/AI/MachineLearning/Algorithm/Classification/Regression-List.md)
-        - 1.11.1.3 Cluster
-          - [1.11.1.3.1 Cluster List](/AI/MachineLearning/Algorithm/Cluster/Cluster-List.md)
-        - 1.11.1.4 Ensemble
-          - [1.11.1.4.1 Ensemble List](/AI/MachineLearning/Algorithm/Ensemble/Ensemble-List.md)
-        - 1.11.1.5 GraphicalModel
-          - [1.11.1.5.1 GraphicalModel List](/AI/MachineLearning/Algorithm/GraphicalModel/GraphicalModel-List.md)
-        - 1.11.1.6 Markov
-          - [1.11.1.6.1 Markov List](/AI/MachineLearning/Algorithm/Markov/Markov-List.md)
-        - 1.11.1.7 Reinforcement
-          - [1.11.1.7.1 ReinforcementLearning List](/AI/MachineLearning/Algorithm/Reinforcement/ReinforcementLearning-List.md)
-        - 1.11.1.8 Transfer
-          - [1.11.1.8.1 TransferLearning List](/AI/MachineLearning/Algorithm/Transfer/TransferLearning-List.md)
-      - 1.11.2 DataMining
-        - [1.11.2.1 DataAnalysis List](/AI/MachineLearning/DataMining/DataAnalysis-List.md)
-      - 1.11.3 FeatureEngineering
-        - [1.11.3.1 FeatureEngineering List](/AI/MachineLearning/FeatureEngineering/FeatureEngineering-List.md)
-        - [1.11.3.2 Personas List](/AI/MachineLearning/FeatureEngineering/Personas-List.md)
-      - 1.11.4 Inference
-        - 1.11.4.1 EM
-          - [1.11.4.1.1 EM List](/AI/MachineLearning/Inference/EM/EM-List.md)
-        - 1.11.4.2 Evaluation
-          - [1.11.4.2.1 ModelEvaluation List](/AI/MachineLearning/Inference/Evaluation/ModelEvaluation-List.md)
-        - 1.11.4.3 GradientDescent
-          - [1.11.4.3.1 GradientDescent List](/AI/MachineLearning/Inference/GradientDescent/GradientDescent-List.md)
-        - [1.11.4.4 Inference List](/AI/MachineLearning/Inference/Inference-List.md)
-        - 1.11.4.5 MonteCarlo
-          - [1.11.4.5.1 MonteCarlo List](/AI/MachineLearning/Inference/MonteCarlo/MonteCarlo-List.md)
-        - 1.11.4.6 OnlineLearning
-          - [1.11.4.6.1 OnlineLearning List](/AI/MachineLearning/Inference/OnlineLearning/OnlineLearning-List.md)
-        - 1.11.4.7 VariationalInference
-          - [1.11.4.7.1 VariationalInference List](/AI/MachineLearning/Inference/VariationalInference/VariationalInference-List.md)
-      - [1.11.5 MachineLearning List](/AI/MachineLearning/MachineLearning-List.md)
-    - 1.12 NLP
-      - 1.12.1 DialogueSystem
-        - [1.12.1.1 ASR List](/AI/NLP/DialogueSystem/ASR-List.md)
-        - [1.12.1.2 Chatbot List](/AI/NLP/DialogueSystem/Chatbot-List.md)
-        - [1.12.1.3 DialogueSystem List](/AI/NLP/DialogueSystem/DialogueSystem-List.md)
-      - 1.12.2 InformationRetrieval
-        - [1.12.2.1 InformationRetrieval List](/AI/NLP/InformationRetrieval/InformationRetrieval-List.md)
-      - 1.12.3 KnowledgeGraph
-        - [1.12.3.1 KnowledgeGraph List](/AI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
-      - 1.12.4 LinguisticStructure
-        - [1.12.4.1 Representation List](/AI/NLP/LinguisticStructure/Representation-List.md)
-        - [1.12.4.2 StatisticalLanguageModel List](/AI/NLP/LinguisticStructure/StatisticalLanguageModel-List.md)
-        - [1.12.4.3 TopicModel List](/AI/NLP/LinguisticStructure/TopicModel-List.md)
-      - 1.12.5 MachineTranslation
-        - [1.12.5.1 MachineTranslation List](/AI/NLP/MachineTranslation/MachineTranslation-List.md)
-      - [1.12.6 NLP List](/AI/NLP/NLP-List.md)
-      - 1.12.7 SyntaxSemanticAnalysis
-        - [1.12.7.1 SyntaxSemanticAnalysis List](/AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
-      - 1.12.8 Voice
-        - [1.12.8.1 Voice List](/AI/NLP/Voice/Voice-List.md)
-    - 1.13 Statistics
-      - [1.13.1 LinearAlgebra List](/AI/Statistics/LinearAlgebra-List.md)
-      - [1.13.2 Mathematics List](/AI/Statistics/Mathematics-List.md)
-      - [1.13.3 ProbabilityTheory List](/AI/Statistics/ProbabilityTheory-List.md)
-      - [1.13.4 Statistics List](/AI/Statistics/Statistics-List.md)
-    - 1.14 Toolkit
-      - [1.14.1 AI Toolkit List](/AI/Toolkit/AI-Toolkit-List.md)
-      - 1.14.2 FederalLearning
-        - [1.14.2.1 FederalLearning List](/AI/Toolkit/FederalLearning/FederalLearning-List.md)
-      - 1.14.3 Framework
-        - [1.14.3.1 Metaflow](/AI/Toolkit/Framework/Metaflow/README.md)
+    - [1.7 AI Showcase List](/AI/AI-Showcase-List.md)
+    - [1.8 AI Tutorial List](/AI/AI-Tutorial-List.md)
+    - 1.9 Application
+      - [1.9.1 Application List](/AI/Application/Application-List.md)
+      - 1.9.2 RecommendSystem
+        - [1.9.2.1 CTR List](/AI/Application/RecommendSystem/CTR-List.md)
+        - [1.9.2.2 RecommendSystem List](/AI/Application/RecommendSystem/RecommendSystem-List.md)
+      - 1.9.3 SNA
+        - [1.9.3.1 SNA List](/AI/Application/SNA/SNA-List.md)
+      - 1.9.4 SelfDriving
+        - [1.9.4.1 SelfDriving List](/AI/Application/SelfDriving/SelfDriving-List.md)
+    - 1.10 ComputerVision
+      - [1.10.1 ComputerVision List](/AI/ComputerVision/ComputerVision-List.md)
+      - [1.10.2 OCR List](/AI/ComputerVision/OCR-List.md)
+      - [1.10.3 Object Detection List](/AI/ComputerVision/Object-Detection-List.md)
+    - 1.11 DeepLearning
+      - 1.11.1 CNN
+        - [1.11.1.1 CNN List](/AI/DeepLearning/CNN/CNN-List.md)
+      - 1.11.2 DNN
+        - [1.11.2.1 GAN List](/AI/DeepLearning/DNN/GAN-List.md)
+        - [1.11.2.2 LSTM List](/AI/DeepLearning/DNN/LSTM-List.md)
+      - 1.11.3 DRL
+        - [1.11.3.1 DeepReinforcementLearning](/AI/DeepLearning/DRL/DeepReinforcementLearning.md)
+      - [1.11.4 DeepLearning List](/AI/DeepLearning/DeepLearning-List.md)
+      - 1.11.5 NeuralNetwork
+        - [1.11.5.1 NeuralNetwork List](/AI/DeepLearning/NeuralNetwork/NeuralNetwork-List.md)
+      - 1.11.6 RNN
+        - [1.11.6.1 RecurrentNeuralNetwork List](/AI/DeepLearning/RNN/RecurrentNeuralNetwork-List.md)
+      - 1.11.7 RepresentationLearning
+        - [1.11.7.1 RepresentationLearning List](/AI/DeepLearning/RepresentationLearning/RepresentationLearning-List.md)
+    - 1.12 MachineLearning
+      - 1.12.1 Algorithm
+        - 1.12.1.1 Bayes
+          - [1.12.1.1.1 Bayes List](/AI/MachineLearning/Algorithm/Bayes/Bayes-List.md)
+        - 1.12.1.2 Classification
+          - [1.12.1.2.1 Classification List](/AI/MachineLearning/Algorithm/Classification/Classification-List.md)
+          - [1.12.1.2.2 DecisionTree List](/AI/MachineLearning/Algorithm/Classification/DecisionTree-List.md)
+          - [1.12.1.2.3 Regression List](/AI/MachineLearning/Algorithm/Classification/Regression-List.md)
+        - 1.12.1.3 Cluster
+          - [1.12.1.3.1 Cluster List](/AI/MachineLearning/Algorithm/Cluster/Cluster-List.md)
+        - 1.12.1.4 Ensemble
+          - [1.12.1.4.1 Ensemble List](/AI/MachineLearning/Algorithm/Ensemble/Ensemble-List.md)
+        - 1.12.1.5 GraphicalModel
+          - [1.12.1.5.1 GraphicalModel List](/AI/MachineLearning/Algorithm/GraphicalModel/GraphicalModel-List.md)
+        - 1.12.1.6 Markov
+          - [1.12.1.6.1 Markov List](/AI/MachineLearning/Algorithm/Markov/Markov-List.md)
+        - 1.12.1.7 Reinforcement
+          - [1.12.1.7.1 ReinforcementLearning List](/AI/MachineLearning/Algorithm/Reinforcement/ReinforcementLearning-List.md)
+        - 1.12.1.8 Transfer
+          - [1.12.1.8.1 TransferLearning List](/AI/MachineLearning/Algorithm/Transfer/TransferLearning-List.md)
+      - 1.12.2 DataMining
+        - [1.12.2.1 DataAnalysis List](/AI/MachineLearning/DataMining/DataAnalysis-List.md)
+      - 1.12.3 FeatureEngineering
+        - [1.12.3.1 FeatureEngineering List](/AI/MachineLearning/FeatureEngineering/FeatureEngineering-List.md)
+        - [1.12.3.2 Personas List](/AI/MachineLearning/FeatureEngineering/Personas-List.md)
+      - 1.12.4 Inference
+        - 1.12.4.1 EM
+          - [1.12.4.1.1 EM List](/AI/MachineLearning/Inference/EM/EM-List.md)
+        - 1.12.4.2 Evaluation
+          - [1.12.4.2.1 ModelEvaluation List](/AI/MachineLearning/Inference/Evaluation/ModelEvaluation-List.md)
+        - 1.12.4.3 GradientDescent
+          - [1.12.4.3.1 GradientDescent List](/AI/MachineLearning/Inference/GradientDescent/GradientDescent-List.md)
+        - [1.12.4.4 Inference List](/AI/MachineLearning/Inference/Inference-List.md)
+        - 1.12.4.5 MonteCarlo
+          - [1.12.4.5.1 MonteCarlo List](/AI/MachineLearning/Inference/MonteCarlo/MonteCarlo-List.md)
+        - 1.12.4.6 OnlineLearning
+          - [1.12.4.6.1 OnlineLearning List](/AI/MachineLearning/Inference/OnlineLearning/OnlineLearning-List.md)
+        - 1.12.4.7 VariationalInference
+          - [1.12.4.7.1 VariationalInference List](/AI/MachineLearning/Inference/VariationalInference/VariationalInference-List.md)
+      - [1.12.5 MachineLearning List](/AI/MachineLearning/MachineLearning-List.md)
+    - 1.13 NLP
+      - 1.13.1 DialogueSystem
+        - [1.13.1.1 ASR List](/AI/NLP/DialogueSystem/ASR-List.md)
+        - [1.13.1.2 Chatbot List](/AI/NLP/DialogueSystem/Chatbot-List.md)
+        - [1.13.1.3 DialogueSystem List](/AI/NLP/DialogueSystem/DialogueSystem-List.md)
+      - 1.13.2 InformationRetrieval
+        - [1.13.2.1 InformationRetrieval List](/AI/NLP/InformationRetrieval/InformationRetrieval-List.md)
+      - 1.13.3 KnowledgeGraph
+        - [1.13.3.1 KnowledgeGraph List](/AI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
+      - 1.13.4 LinguisticStructure
+        - [1.13.4.1 Representation List](/AI/NLP/LinguisticStructure/Representation-List.md)
+        - [1.13.4.2 StatisticalLanguageModel List](/AI/NLP/LinguisticStructure/StatisticalLanguageModel-List.md)
+        - [1.13.4.3 TopicModel List](/AI/NLP/LinguisticStructure/TopicModel-List.md)
+      - 1.13.5 MachineTranslation
+        - [1.13.5.1 MachineTranslation List](/AI/NLP/MachineTranslation/MachineTranslation-List.md)
+      - [1.13.6 NLP List](/AI/NLP/NLP-List.md)
+      - 1.13.7 SyntaxSemanticAnalysis
+        - [1.13.7.1 SyntaxSemanticAnalysis List](/AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
+      - 1.13.8 Voice
+        - [1.13.8.1 Voice List](/AI/NLP/Voice/Voice-List.md)
+    - 1.14 Statistics
+      - [1.14.1 LinearAlgebra List](/AI/Statistics/LinearAlgebra-List.md)
+      - [1.14.2 Mathematics List](/AI/Statistics/Mathematics-List.md)
+      - [1.14.3 ProbabilityTheory List](/AI/Statistics/ProbabilityTheory-List.md)
+      - [1.14.4 Statistics List](/AI/Statistics/Statistics-List.md)
+    - 1.15 Toolkit
+      - [1.15.1 AI Toolkit List](/AI/Toolkit/AI-Toolkit-List.md)
+      - 1.15.2 FederalLearning
+        - [1.15.2.1 FederalLearning List](/AI/Toolkit/FederalLearning/FederalLearning-List.md)
+      - 1.15.3 Framework
+        - [1.15.3.1 Metaflow](/AI/Toolkit/Framework/Metaflow/README.md)
           
-        - 1.14.3.2 PyTorch
-          - [1.14.3.2.1 PyTorch List](/AI/Toolkit/Framework/PyTorch/PyTorch-List.md)
-        - 1.14.3.3 Scikit
-          - [1.14.3.3.1 Jupyter List](/AI/Toolkit/Framework/Scikit/Jupyter-List.md)
-          - [1.14.3.3.2 Scikit List](/AI/Toolkit/Framework/Scikit/Scikit-List.md)
-          - 1.14.3.3.3 Vis
-            - [1.14.3.3.3.1 Vis List](/AI/Toolkit/Framework/Scikit/Vis/Vis-List.md)
-        - 1.14.3.4 TensorFlow
-          - [1.14.3.4.1 Keras List](/AI/Toolkit/Framework/TensorFlow/Keras-List.md)
-          - [1.14.3.4.2 TFjs List](/AI/Toolkit/Framework/TensorFlow/TFjs-List.md)
-          - [1.14.3.4.3 TensorFlow Internals List](/AI/Toolkit/Framework/TensorFlow/TensorFlow-Internals-List.md)
-          - [1.14.3.4.4 TensorFlow List](/AI/Toolkit/Framework/TensorFlow/TensorFlow-List.md)
-      - 1.14.4 Platform
-        - [1.14.4.1 Platform List](/AI/Toolkit/Platform/Platform-List.md)
+        - 1.15.3.2 PyTorch
+          - [1.15.3.2.1 PyTorch List](/AI/Toolkit/Framework/PyTorch/PyTorch-List.md)
+        - 1.15.3.3 Scikit
+          - [1.15.3.3.1 Jupyter List](/AI/Toolkit/Framework/Scikit/Jupyter-List.md)
+          - [1.15.3.3.2 Scikit List](/AI/Toolkit/Framework/Scikit/Scikit-List.md)
+          - 1.15.3.3.3 Vis
+            - [1.15.3.3.3.1 Vis List](/AI/Toolkit/Framework/Scikit/Vis/Vis-List.md)
+        - 1.15.3.4 TensorFlow
+          - [1.15.3.4.1 Keras List](/AI/Toolkit/Framework/TensorFlow/Keras-List.md)
+          - [1.15.3.4.2 TFjs List](/AI/Toolkit/Framework/TensorFlow/TFjs-List.md)
+          - [1.15.3.4.3 TensorFlow Internals List](/AI/Toolkit/Framework/TensorFlow/TensorFlow-Internals-List.md)
+          - [1.15.3.4.4 TensorFlow List](/AI/Toolkit/Framework/TensorFlow/TensorFlow-List.md)
+      - 1.15.4 Platform
+        - [1.15.4.1 Platform List](/AI/Toolkit/Platform/Platform-List.md)
   - 2 Architecture
     - 2.1 AlgoDS
       - [2.1.1 AlgoDS List](/Architecture/AlgoDS/AlgoDS-List.md)
