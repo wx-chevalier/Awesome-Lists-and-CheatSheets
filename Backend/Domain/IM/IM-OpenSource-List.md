@@ -8,7 +8,9 @@
 
 - [starRTC #Project#](https://gitee.com/starRTC): 免费 IM（含单聊，群聊，聊天室），免费 VOIP 视频通话，免费视频会议，免费互动连麦直播，支持物联网硬件。兼容 webRTC。
 
-- [Berty #Project#](https://github.com/berty/berty): Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [Berty #Project#](https://github.com/berty/berty): Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
+
+- [DogeHouse #Project#](https://github.com/benawad/dogehouse): Taking voice conversations to the moon 🚀
 
 ## UI
 
