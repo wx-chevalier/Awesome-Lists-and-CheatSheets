@@ -44,14 +44,6 @@
 
 - [Color Hunt](https://colorhunt.co/palettes): Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes
 
-# Diagram | 绘图
-
-- [isoflow.io #Project#](https://isoflow.io/): Create beautiful cloud diagrams in minutes Easily create isometric diagrams, for presentations, documentation and illustrations.
-
-- [drawio #Project#](https://github.com/jgraph/drawio): draw.io is an online diagramming web site that delivers the source in this project.
-
-- [blush](https://blush.design/zh-CN): 一个可以在线操作的插画素材网站，这个网站的插画素材，可以在线更该肤色、身体、头部、配饰等。
-
 # TBD
 
 - https://zhuanlan.zhihu.com/p/63949977
