@@ -15,3 +15,7 @@
 - [2015-Practical Scalability Analysis With The Universal Scalability Law #Book#](https://parg.co/bNA): I wrote this book to help you understand the simple, but profoundly powerful, truths about scalability.
 
 - [2017- 去哪儿 - 超时，重试，熔断，限流](http://mp.weixin.qq.com/s/wIQIv4TAHRIqR_X9iSz3Hw)
+
+## Sentinel
+
+- [2019-Sentinel 教程 #Series#](https://github.com/all4you/sentinel-tutorial): 本项目内容为一个 Sentinel 的教程。主要包括 Sentinel 原理和 Sentinel 实践两部分内容。

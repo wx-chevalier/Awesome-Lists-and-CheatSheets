@@ -20,8 +20,6 @@
 
 - [2003-Martin Fowler-Patterns of Enterprise Application Architecture #Book#](https://martinfowler.com/books/eaa.html): This book started after Dave Rice and I gave some talks on J2EE architecture and mulled over how the concepts we had learned in C++, Forte, CORBA, and Smalltalk had been crucial to us developing good designs in Java.
 
-- [2012-Clean Code #Book#](https://parg.co/Mg5): Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.
-
 - [500 Lines or Less: The Architecture of Open Source Applications #Book#](http://aosabook.org/en/index.html): 神书一套，介绍了很多开源软件的架构设计，In these two books, the authors of four dozen open source applications explain how their software is structured, and why. What are each program's major components? How do they interact? And what did their builders learn during their development? In answering these questions, the contributors to these books provide unique insights into how they think.
 
 - [2013-Alexander-简约之美：软件设计之道 #Book#](https://github.com/wx-chevalier/Awesome-CS-Books)：本书将软件设计作为一门严谨的科学，阐述了开发出优雅简洁的代码所应该遵循的基本原则。作者从为什么以前软件设计没有像数学等学科一样成为一门科学开始入手，道出了软件以及优秀的软件设计的终极目标，并给出了具体的指导规则。这是一本软件思想著作，适合任何背景、使用任何语言的程序员。
@@ -35,6 +33,12 @@
 - [2018-Martin-Clean Architecture #Book#](http://putregai.com/sbooks/clean_arch.pdf): A Craftsman's Guide to Software Structure and Design.
 
 - [2019-A Philosophy of Software Design | 软件设计的哲学 #Book#](https://www.bookstack.cn/read/A-Philosophy-of-Software-Design-zh/README.md): 冠名为“艺术”，内容可能是记录一件优秀作品的设计过程和经验；而冠名为“哲学”，则是一些通用的原则和方法论，这些原则方法论串起来，能够形成一个体系。正如”知行合一”、“世界是由原子构成的”、“我思故我在”，这些耳熟能详的句子能够一定程度上代表背后的人物和思想。
+
+### Refactor & Clean Code
+
+- [2012-Clean Code #Book#](https://parg.co/Mg5): Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.
+
+- [2019-Guru Refactoring #Book#](https://refactoringguru.cn/refactoring): Refactoring is a systematic process of improving code without creating new functionality that can transform a mess into clean code and simple design.
 
 ### DDD
 

@@ -148,9 +148,8 @@
     - 2.5 Refactor
       - [2.5.1 CleanCode List](/Architecture/Refactor/CleanCode-List.md)
       - [2.5.2 CodeReview List](/Architecture/Refactor/CodeReview-List.md)
-      - [2.5.3 CodeStyle List](/Architecture/Refactor/CodeStyle-List.md)
-      - [2.5.4 Refactor List](/Architecture/Refactor/Refactor-List.md)
-      - [2.5.5 Refactor OpenSource List](/Architecture/Refactor/Refactor-OpenSource-List.md)
+      - [2.5.3 Refactor List](/Architecture/Refactor/Refactor-List.md)
+      - [2.5.4 Refactor OpenSource List](/Architecture/Refactor/Refactor-OpenSource-List.md)
     - 2.6 SoftwareEngineering
       - [2.6.1 ArchitectureDesign List](/Architecture/SoftwareEngineering/ArchitectureDesign-List.md)
       - 2.6.2 Git
