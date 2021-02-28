@@ -267,6 +267,8 @@
       - 4.1.6 Intelligent Manufacturing
         - [4.1.6.1 Intelligent Manufacturing List](/Business/Application/Intelligent-Manufacturing/Intelligent-Manufacturing-List.md)
         - [4.1.6.2 Intelligent Manufacturing OpenSource List](/Business/Application/Intelligent-Manufacturing/Intelligent-Manufacturing-OpenSource-List.md)
+      - 4.1.7 OA
+        - [4.1.7.1 OA List](/Business/Application/OA/OA-List.md)
     - [4.2 Business List](/Business/Business-List.md)
     - 4.3 Finance
       - [4.3.1 Finance List](/Business/Finance/Finance-List.md)
@@ -818,7 +820,7 @@
       - [11.2.5 Writing List](/Specials/Career/Writing-List.md)
     - 11.3 Collections
       - [11.3.1 Awesome Blogs](/Specials/Collections/Awesome-Blogs.md)
-      - [11.3.2 Awesome Collections](/Specials/Collections/Awesome-Collections.md)
+      - [11.3.2 Awesome CS](/Specials/Collections/Awesome-CS.md)
       - [11.3.3 Awesome DataSets](/Specials/Collections/Awesome-DataSets.md)
       - [11.3.4 Awesome Giants](/Specials/Collections/Awesome-Giants.md)
       - [11.3.5 Awesome Names](/Specials/Collections/Awesome-Names.md)

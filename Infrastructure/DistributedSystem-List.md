@@ -34,17 +34,15 @@
 
 - [The Twelve-Factor App](http://12factor.net/zh_cn/): To raise awareness of some systemic problems we’ve seen in modern application development, to provide a shared vocabulary for discussing those problems, and to offer a set of broad conceptual solutions to those problems with accompanying terminology.
 
-- [The System Design Primer #Collection#](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-
 - [awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 
 - [free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
 
-- [Cloud Native Landscape #Project#](https://github.com/cncf/landscape): Static Cloud Native Landscapes and Interactive Landscape that filters and sorts hundreds of cloud native projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
+- [Cloud Native Landscape #Collection#](https://github.com/cncf/landscape): Static Cloud Native Landscapes and Interactive Landscape that filters and sorts hundreds of cloud native projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 
-- [2019-分布式系统领域经典论文翻译集](https://zhuanlan.zhihu.com/p/91434149)
+- [2019-分布式系统领域经典论文翻译集 #Collection#](https://zhuanlan.zhihu.com/p/91434149)
 
-- [互联网公司经典技术架构 #Collection#](https://github.com/davideuler/architecture.of.internet-product#): 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay 的架构
+- [2019-A Distributed Systems Reading List #Collection#](https://dancres.github.io/Pages/): I often argue that the toughest thing about distributed systems is changing the way you think. The below is a collection of material I've found useful for motivating these changes.
 
 ## Course
 
@@ -73,6 +71,10 @@
 - Principles of Distributed Systems
 
 - Making reliable distributed systems in the presence of software errors
+
+## Series
+
+- [2020-Patterns of Distributed Systems #Series#](https://martinfowler.com/articles/patterns-of-distributed-systems/): This article recognizes and develops these solutions as patterns, with which we can build up an understanding of how to better understand, communicate and teach distributed system design.
 
 # Consistency & CAP
 
