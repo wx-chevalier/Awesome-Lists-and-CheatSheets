@@ -84,11 +84,11 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2017-Golang tutorial series by GolangBot.com](https://golangbot.com/learn-golang-series/)
 
-- [GolangTraining #Series#](https://github.com/GoesToEleven/GolangTraining): Training for Golang (go language)
+- [2019-GolangTraining #Series#](https://github.com/GoesToEleven/GolangTraining): Training for Golang (go language)
 
-- [2020-The Ultimate Go Study Guide](https://github.com/hoanhan101/ultimate-go): The project is a collection of my notes while learning Go programming language from Ardan Labs's Ultimate Go course.
+- [2020-The Ultimate Go Study Guide #Series#](https://github.com/ardanlabs/gotraining-studyguide): The project is a collection of my notes while learning Go programming language from Ardan Labs's Ultimate Go course.
 
-- [7 days golang programs from scratch #Project#](https://github.com/geektutu/7days-golang): 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7 天用 Go 动手写/从零实现系列
+- [2020-7 days golang programs from scratch #Project#](https://github.com/geektutu/7days-golang): 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7 天用 Go 动手写/从零实现系列
 
 ## Course
 
@@ -102,7 +102,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 ## Quick Start
 
-- [2014-Go Start](https://github.com/alco/gostart):A getting started guide for Go newcomers
+- [2014-Go Start](https://github.com/alco/gostart): A getting started guide for Go newcomers
 
 - [2017-Go Tooling in Action](https://github.com/campoy/go-tooling-workshop): A workshop covering all the tools gophers use in their day to day life.
 
