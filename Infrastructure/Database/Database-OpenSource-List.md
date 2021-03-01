@@ -106,9 +106,9 @@
 
 - [RocksDB #Project#](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
 
-- [Badger #Project#](https://github.com/dgraph-io/badger): Fast key-value DB in Go.
-
 - [2018-Tidis #Project#](https://github.com/yongman/tidis): Tidis is a Distributed NoSQL database, providing a redis-protocal api(string,list,hash,set,sorted-set), written in Go.
+
+- [2019-Badger #Project#](https://github.com/dgraph-io/badger): BadgerDB is an embeddable, persistent and fast key-value (KV) database written in pure Go. It is the underlying database for Dgraph, a fast, distributed graph database. It's meant to be a performant alternative to non-Go-based key-value stores like RocksDB.
 
 - [2020-terarkdb #Project#](https://github.com/bytedance/terarkdb): A RocksDB compatible KV storage engine with better performance.
 
