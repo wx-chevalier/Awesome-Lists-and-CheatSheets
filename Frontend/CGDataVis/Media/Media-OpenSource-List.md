@@ -12,14 +12,6 @@
 
 - [Lepton #Project#](https://github.com/dropbox/lepton): 用于存储时图片压缩.
 
-# FFmpeg
-
-- [ffmpeg.wasm #Project#](https://ffmpegwasm.github.io/): ffmpeg.wasm is a pure WebAssembly / JavaScript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
-
-- [Learn FFmpeg libav the Hard Way](https://parg.co/UkX): I was looking for a tutorial/book that would teach me how to start to use FFmpeg as a library (a.k.a. libav) and then I found the "How to write a video player in less than 1k lines" tutorial. Unfortunately it was deprecated, so I decided to write this one.
-
-- [2015-How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html): There is a sample program that comes with ffmpeg called ffplay. It is a simple C program that implements a complete video player using ffmpeg.
-
 # Video Editor
 
 - [PeerTube #Project#](https://github.com/Chocobozzz/PeerTube): Be part of a network of multiple small federated, interoperable video hosting providers. Follow video creators and create videos. No vendor lock-in. All on a platform that is community-owned and ad-free.
