@@ -44,6 +44,8 @@
 
 ## Book
 
+- [2019-Mastering Bitcoin #Book#](https://github.com/bitcoinbook/bitcoinbook): Mastering Bitcoin is a book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters to get a great understanding of bitcoin.
+
 ## Collection
 
 - [awesome-blockchain](https://github.com/chaozh/awesome-blockchain): 收集所有区块链(BlockChain)技术开发相关资料，包括 Fabric 和 Ethereum 开发资料
