@@ -4,6 +4,8 @@
 
 - [applied-ml #Project#](https://github.com/eugeneyan/applied-ml): 📚 Papers and blogs by organizations sharing their work on data science & machine learning in production.
 
+- [Infinity in Deep Learning 深度学习“无限”精彩 #Series#](https://github.com/roboticcam/machine-learning-notes): My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides) 我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接
+
 # Pure Python
 
 - [2020-PRML #Project#](https://github.com/ctgk/PRML): Python codes implementing algorithms described in Bishop's book "Pattern Recognition and Machine Learning".

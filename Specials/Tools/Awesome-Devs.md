@@ -1,5 +1,7 @@
 # Awesome Devs
 
+- [devdocs](http://devdocs.io/): 这里集合了大量的在线的文档，同时 DevDocs 还支持离线浏览，主要是依靠 IndexDB 将数据存放在浏览器的本地缓存中。
+
 # Developer Portals
 
 - [Backstage #Project#](https://github.com/spotify/backstage#getting-started): Backstage is an open platform for building developer portals. Powered by a centralized service catalog, Backstage restores order to your microservices and infrastructure. So your product teams can ship high-quality code quickly — without compromising autonomy.

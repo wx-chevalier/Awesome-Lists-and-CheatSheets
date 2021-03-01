@@ -2,9 +2,7 @@
 
 - [Awesome production machine learning #Collection#](https://github.com/EthicalML/awesome-production-machine-learning): A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning.
 
-# Universal Toolkits
-
-## Framework
+# Framework
 
 - [TensorFlow #Project#](https://github.com/tensorflow/tensorflow): TensorFlow is an open source software library for numerical computation using data flow graphs.
 
@@ -24,7 +22,7 @@
 
 - [2020-MegEngine #Project#](https://github.com/MegEngine/MegEngine): MegEngine 是一个快速、可拓展、易于使用且支持自动求导的数值计算框架。
 
-### TensorFlow
+## TensorFlow
 
 - [tensorflow-playground](https://github.com/tensorflow/playground): Play with neural networks!
 
@@ -32,9 +30,17 @@
 
 - [TFLearn](https://github.com/tflearn/tflearn): Deep learning library featuring a higher-level API for TensorFlow.
 
-### PyTorch
+- [Spleeter #Project#](https://github.com/deezer/spleeter): Spleeter is the Deezer source separation library with pretrained models written in Python and uses Tensorflow.
+
+## PyTorch
 
 - [PyTorch Lightning #Project#](https://github.com/PyTorchLightning/pytorch-lightning): The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+
+# Universal Toolkits
+
+## Dataset Management
+
+- [Hub #Project#](https://github.com/activeloopai/Hub): Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it.
 
 ## Visualization
 
@@ -56,21 +62,17 @@
 
 - [2019-Jupytext #Project#](https://github.com/mwouts/jupytext): Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts.
 
-# Data Analysis
+## Pretrained Models
 
-- [2019-metaflow #Project#](https://github.com/Netflix/metaflow): Build and manage real-life data science projects with ease.
+- [2019-Deep Learning Models #Collection# #Project#](https://github.com/rasbt/deeplearning-models): A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
 
-## Dataset Management
+- [PyTorch Hub #Collection# #Project#](https://pytorch.org/hub): PyTorch Hub 包含一个经过预训练的模型库，专门用于促进研究的可重复性和快速开展新的研究。PyTorch Hub 内置了对 Colab 的 支持，并且能够与 Papers With Code 集成。目前 PyTorch Hub 已包含一系列广泛的模型，包括分类器和分割器、生成器、变换器等。
 
-- [Hub #Project#](https://github.com/activeloopai/Hub): Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it.
+- [Papers with Code #Collection# #Project#](https://paperswithcode.com)
 
-## Feature Engineering
+- [UER-py #Project#](https://github.com/dbiir/UER-py): Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo.
 
-## Time Series
-
-- [2019-adtk #Project#](https://github.com/arundo/adtk): A Python toolkit for unsupervised anomaly detection in time series
-
-- [2020-sktime #Project#](https://github.com/alan-turing-institute/sktime): A unified framework for machine learning with time series.
+- [google-research #Collection# #Project#](https://github.com/google-research/google-research): This repository contains code released by Google AI Research.
 
 # Machine Learning
 
@@ -81,6 +83,16 @@
 - [Matplotlib #Project#](https://matplotlib.org/): Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
 
 - [feature-selector #Project#](https://github.com/WillKoehrsen/feature-selector): Feature selector is a tool for dimensionality reduction of machine learning datasets
+
+- [SPTAG #Project#](https://github.com/microsoft/SPTAG): A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
+
+## Feature Engineering
+
+## Time Series
+
+- [2019-adtk #Project#](https://github.com/arundo/adtk): A Python toolkit for unsupervised anomaly detection in time series
+
+- [2020-sktime #Project#](https://github.com/alan-turing-institute/sktime): A unified framework for machine learning with time series.
 
 # Deep Learning
 
@@ -104,6 +116,14 @@
 
 - [2020-MiNLP #Project#](https://github.com/XiaoMi/MiNLP): 小米自然语言处理平台（MiNLP）具备词法、句法、语义分析等数十个功能模块，已经在公司业务中得到了广泛应用。
 
+## Language Representation
+
+- [2018-BERT #Project#](https://github.com/google-research/bert): BERT is method of pre-training language representations, meaning that we train a general-purpose "language understanding" model on a large text corpus (like Wikipedia), and then use that model for downstream NLP tasks that we care about (like question answering). [海量中文预训练 ALBERT 模型](https://github.com/brightmart/albert_zh)。
+
+- [2019-GPT2 #Project#](https://github.com/openai/gpt-2): Code and models from the paper "Language Models are Unsupervised Multitask Learners".
+
+- [2019-GPT2 Chinese #Project#](https://github.com/Morizeyao/GPT2-Chinese): Chinese version of GPT2 training code, using BERT or BPE tokenizer.
+
 ## Classification
 
 - [2016-FastText #Project#](https://fasttext.cc/): FastText is an open-source, free, lightweight library that allows users to learn text representations and text classifiers. It works on standard, generic hardware. Models can later be reduced in size to even fit on mobile devices.
@@ -117,8 +137,6 @@
 - [ansj_seg #Project#](https://github.com/NLPchina/ansj_seg): ansj 分词.ict 的真正 java 实现.分词效果速度都超过开源版的 ict. 中文分词,人名识别,词性标注,用户自定义词典。
 
 - [gensim #Project#](https://radimrehurek.com/gensim/): topic modelling for humans
-
-- [2019-GPT2 Chinese #Project#](https://github.com/Morizeyao/GPT2-Chinese): Chinese version of GPT2 training code, using BERT or BPE tokenizer.
 
 - [2019-pkuseg #Project#](https://github.com/lancopku/pkuseg-python): pkuseg 简单易用，支持细分领域分词，有效提升了分词准确度。
 
@@ -182,10 +200,6 @@
 
 - [2018-OpenPose #Project#](https://github.com/CMU-Perceptual-Computing-Lab/openpose): Real-time multi-person keypoint detection library for body, face, hands, and foot estimation.
 
-## Photo
-
-- [2018-FastPhotoStyle #Project#](https://github.com/NVIDIA/FastPhotoStyle): This code repository contains an implementation of our fast photorealistic style transfer algorithm.
-
 ## Face Recognition
 
 - [2018-pico.js #Project#](https://github.com/tehnokv/picojs): a face-detection library in 200 lines of JavaScript
@@ -201,10 +215,6 @@
 ## Video
 
 - [2018-videoflow #Project#](https://github.com/videoflow/videoflow): Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
-
-## Deep Face
-
-- [DeepFaceLab #Project#](https://github.com/iperov/DeepFaceLab): DeepFaceLab is the leading software for creating deepfakes.
 
 # Platform
 
@@ -233,9 +243,3 @@
 ## Federated Learning
 
 - [FATE #Project#](https://github.com/webankfintech/fate): 微众银行 AI 团队自主研发的全球首个工业级联邦学习框架 FATE（Federated AI Technology Enabler），提供基于数据隐私保护的分布式安全计算框架，为机器学习、深度学习、迁移学习算法提供高性能的安全计算支持，此外，FATE 还提供友好的跨域交互信息管理方案，能够解决联邦学习信息安全审计难问题。
-
-# Application
-
-## Self Driving
-
-- [2019-selfdrive #Project#](https://github.com/littlemountainman/selfdrive): Autopilot written in Keras for Self Driving Cars.

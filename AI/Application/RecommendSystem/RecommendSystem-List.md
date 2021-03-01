@@ -50,10 +50,14 @@
 
 - [2019-RSPapers #Collection#](https://github.com/hongleizhang/RSPapers): Must-read papers on Recommender System.
 
-## Showcase
-
-- [RSAlgorithms #Project#](https://github.com/hongleizhang/RSAlgorithms): Some algorithms about traditional and social recommendation.
-
 # Tutorial
 
 - [深度学习遇上推荐系统 #Series#](https://ask.hellobi.com/m/article/11821): 在计算广告和推荐系统中，CTR 预估(click-through rate)是非常重要的一个环节，判断一个商品的是否进行推荐需要根据 CTR 预估的点击率来进行。
+
+# OpenSource
+
+- [2019-DeepCTR：易用可扩展的深度学习点击率预测算法包](https://zhuanlan.zhihu.com/p/53231955): 这个项目主要是对目前的一些基于深度学习的点击率预测算法进行了实现，如 PNN, WDL,DeepFM,MLR,DeepCross,AFM,NFM,DIN,DIEN,xDeepFM,AutoInt 等,并且对外提供了一致的调用接口。
+
+## Showcase
+
+- [RSAlgorithms #Project#](https://github.com/hongleizhang/RSAlgorithms): Some algorithms about traditional and social recommendation.
