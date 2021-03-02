@@ -76,6 +76,14 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 - [2018-React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap): Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn in order to become a React developer.
 
+## Example
+
+- [2017-A React TODOs example, explained](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)
+
+- [2017-Create a realtime football voting app using React, Redux, React-Router-v4 and Firebase](https://parg.co/bhD): In this series of tutorials, we’ll be creating a football voting app using React, Redux, Redux-Saga, React-Router v4, and Firebase. In this first part, we will setup the project. We’re going to use create-react-app to scaffold the initial project structure, tweak it a bit, and then add the necessary libraries that we’ll be using.
+
+- [2017-How to Build a ToDo App Using React, Redux, and Webpack](https://parg.co/bMT): In this tutorial I’m going to show you how to create a simple “ToDo” app using React, Redux, a little bit of Node, and Cosmic JS.
+
 ## Interview
 
 - [2017-React 常用面试题目与分析](https://zhuanlan.zhihu.com/p/24856035)

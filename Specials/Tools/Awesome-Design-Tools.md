@@ -124,3 +124,7 @@ Diagrams: timing
 - [Zappy #Project#](https://zapier.com/zappy): The fastest, all-in-one way to share screenshots, GIFs, and recordings with your teammates.
 
 - [Screenity #Project#](https://github.com/alyssaxuu/screenity): The most powerful screen recorder & annotation tool for Chrome 🎥
+
+# 其他
+
+- [Reactive Resume](https://rx-resume.web.app): 在线简历设计器。

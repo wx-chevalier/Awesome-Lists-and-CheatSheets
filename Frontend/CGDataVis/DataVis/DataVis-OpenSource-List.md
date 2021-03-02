@@ -16,8 +16,6 @@
 
 - [2018-GoJS #Project#](https://github.com/NorthwoodsSoftware/GoJS): JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 
-- [2020-Butterfly #Project#](https://github.com/alibaba/butterfly): 一个基于 JS 的数据驱动的节点式编排组件库。
-
 # Chart
 
 - [Echarts #Project#](https://echarts.apache.org/zh/index.html): A powerful, interactive charting and visualization library for browser.

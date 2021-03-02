@@ -146,6 +146,10 @@
 
 - [2018-OpenKE #Project#](https://github.com/thunlp/OpenKE): An Open-Source Package for Knowledge Embedding (KE).
 
+- [基于医药知识图谱的智能问答系统 #Project#](https://github.com/YeYzheng/KGQA-Based-On-medicine): 这是一个基于 Python 模块 REfO 实现的知识库问答初级系统. 该问答系统可以解析输入的自然语言问句生成 SPARQL 查询，进一步请求后台基于 TDB 知识库的 Apache Jena Fuseki 服务, 进而得到问题的结果。
+
+- [2019-KnowledgeGraphData #Project#](https://github.com/ownthink/KnowledgeGraphData): 知识就是力量，知识图谱是人工智能新时代的产物，简单地说知识图谱就是通过关联关系将知识组成网状的结构，然后我们的人工智能可以通过这个图谱来认识其代表的这一个现实事件，这个事件可以是现实，也可以是虚构的。
+
 ## Speech
 
 - [2019-Project DeepSpeech #Project#](https://github.com/mozilla/DeepSpeech): A TensorFlow implementation of Baidu's DeepSpeech architecture.
@@ -192,6 +196,10 @@
 
 - [2020-EasyOCR #Project#](https://github.com/JaidedAI/EasyOCR): Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
 
+- [keras-ocr #Project#](https://github.com/faustomorales/keras-ocr): A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
+
+- [PaddleOCR #Project#](https://github.com/PaddlePaddle/PaddleOCR): Awesome OCR toolkits based on PaddlePaddle（8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）.
+
 ## Object Detection
 
 - [2017-Detectron #Project#](https://github.com/facebookresearch/Detectron): Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN.
@@ -199,18 +207,6 @@
 - [2017-Multi Object Tracker #Project#](https://github.com/adipandas/multi-object-tracker): Object detection using deep learning and multi-object tracking.
 
 - [2018-OpenPose #Project#](https://github.com/CMU-Perceptual-Computing-Lab/openpose): Real-time multi-person keypoint detection library for body, face, hands, and foot estimation.
-
-## Face Recognition
-
-- [2018-pico.js #Project#](https://github.com/tehnokv/picojs): a face-detection library in 200 lines of JavaScript
-
-- [face-api.js #Project#](): JavaScript API for Face Recognition in the Browser with tensorflow.js.
-
-- [2018-Faceswap #Project#](https://github.com/deepfakes/faceswap): Faceswap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.
-
-- [2019-faceai #Project#](https://github.com/vipstone/faceai): 一款入门级的人脸、视频、文字检测以及识别的项目。
-
-- [SeetaFace #Project#](https://github.com/seetafaceengine/SeetaFace2): Open source, full stack face recognization toolkit.
 
 ## Video
 

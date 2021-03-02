@@ -6,22 +6,6 @@
 
 # 自然语言
 
-## 对话系统
-
-# 视觉与图像
-
-## 图片特征
-
-## 人像处理
-
-- [2018-FastPhotoStyle #Project#](https://github.com/NVIDIA/FastPhotoStyle): This code repository contains an implementation of our fast photorealistic style transfer algorithm.
-
-- [DeepFaceLab #Project#](https://github.com/iperov/DeepFaceLab): DeepFaceLab is the leading software for creating deepfakes.
-
-# 量化交易
-
-- [2019-TensorTrade #Project#](https://github.com/notadamking/tensortrade): An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
-
 ## ASR & TTS & STT
 
 - [ASRT_SpeechRecognition #Project#](https://github.com/nl8590687/ASRT_SpeechRecognition): A Deep-Learning-Based Chinese Speech Recognition System.
@@ -34,35 +18,9 @@
 
 - [Real-Time Voice Cloning #Project#](https://github.com/CorentinJ/Real-Time-Voice-Cloning): Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
-## RNN
+## 对话系统
 
-- [char-rnn #Project#](https://github.com/karpathy/char-rnn): Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
-
-## Linguistic Structure
-
-## Knowledge Graph | 知识图谱
-
-- [基于医药知识图谱的智能问答系统 #Project#](https://github.com/YeYzheng/KGQA-Based-On-medicine): 这是一个基于 Python 模块 REfO 实现的知识库问答初级系统. 该问答系统可以解析输入的自然语言问句生成 SPARQL 查询，进一步请求后台基于 TDB 知识库的 Apache Jena Fuseki 服务, 进而得到问题的结果。
-
-- [2019-KnowledgeGraphData #Project#](https://github.com/ownthink/KnowledgeGraphData): 知识就是力量，知识图谱是人工智能新时代的产物，简单地说知识图谱就是通过关联关系将知识组成网状的结构，然后我们的人工智能可以通过这个图谱来认识其代表的这一个现实事件，这个事件可以是现实，也可以是虚构的。
-
-## Others
-
-- [2017-用深度学习对对联 #Project#](https://github.com/wb14123/seq2seq-couplet): This is a project use seq2seq model to play couplets (对对联)。This project is written with Tensorflow. You can try the demo at https://ai.binwang.me/couplet.
-
-# Game | 游戏
-
-- [OpenAI Gym](https://github.com/openai/gym): OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms. This is the gym open-source library, which gives you access to a standardized set of environments.
-
-- [Using Keras and Deep Q-Network to Play FlappyBird](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
-
-## Chess | 象棋
-
-- [2018-Minigo #Project#](https://github.com/tensorflow/minigo): A minimalist Go engine modeled after AlphaGo Zero, built on MuGo.
-
-- [2018-How to build your own AlphaZero AI using Python and Keras](https://parg.co/UiX): Teach a machine to learn Connect4 strategy through self-play and deep learning.
-
-# Computer Vision | 计算机视觉
+# 视觉与图像
 
 - [2018-One Pixel Attack #Project#](https://github.com/Hyperparticle/one-pixel-attack-keras): Keras reimplementation of "One pixel attack for fooling deep neural networks" using differential evolution on cifar10.
 
@@ -84,41 +42,43 @@
 
 - [2019-DeepFaceLab #Project#](https://github.com/iperov/DeepFaceLab): DeepFaceLab is the leading software for creating deepfakes.
 
-## Image Search
+## 图片处理
 
 - [CLIP](https://openai.com/blog/clip/): Connecting Text and Images, [natural-language-image-search](https://github.com/haltakov/natural-language-image-search#on-your-machine).
-
-## Background Remove
 
 - [Background Matting #Project#](https://github.com/senguptaumd/Background-Matting): The World is Your Green Screen.
 
 - [image-background-remove-tool #Project#](https://github.com/OPHoperHPO/image-background-remove-tool): 🥧 A tool for removing background from photos with neural networks 🥧。
 
-## Object Detector
+## 特征识别
 
 - [yolov5 #Project#](https://github.com/ultralytics/yolov5): This repository represents Ultralytics open-source research into future object detection methods, and incorporates our lessons learned and best practices evolved over training thousands of models on custom client datasets with our previous YOLO repository.
 
-## Motion Capture
-
 - [Handtrack.js #Project#](https://victordibia.github.io/handtrack.js/#/): 它可以让开发人员使用经过训练的手部检测模型快速创建手势交互原型。
 
-## Face Recognition
+- [2018-pico.js #Project#](https://github.com/tehnokv/picojs): a face-detection library in 200 lines of JavaScript
+
+- [face-api.js #Project#](): JavaScript API for Face Recognition in the Browser with tensorflow.js.
+
+- [2018-Faceswap #Project#](https://github.com/deepfakes/faceswap): Faceswap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.
+
+- [2019-faceai #Project#](https://github.com/vipstone/faceai): 一款入门级的人脸、视频、文字检测以及识别的项目。
+
+- [SeetaFace #Project#](https://github.com/seetafaceengine/SeetaFace2): Open source, full stack face recognization toolkit.
 
 - [2019-超轻量级人脸检测模型 #Project#](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB): 该模型设计是针对边缘计算设备或低算力设备(如用 ARM 推理)设计的实时超轻量级通用人脸检测模型，可以在低算力设备中如用 ARM 进行实时的通用场景的人脸检测推理，同样适用于移动端、PC。
 
 - [2020-Face Depixelizer #Project#](https://github.com/tg-bomze/Face-Depixelizer): Face Depixelizer based on "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models" repository.
 
-## Pattern Recognition
-
 - [Nsfw JS #Project#](https://github.com/infinitered/nsfwjs): A simple JavaScript library to help you quickly identify unseemly images; all in the client's browser. NSFWJS isn't perfect, but it's pretty accurate (~90% from our test set of 15,000 test images)... and it's getting more accurate all the time.
 
 - [DeepCreamPy #Project#](https://github.com/deeppomf/DeepCreamPy): A deep learning-based tool to automatically replace censored artwork in hentai with plausible reconstructions.
 
-## OCR
+## 人像处理
 
-- [keras-ocr #Project#](https://github.com/faustomorales/keras-ocr): A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
+- [2018-FastPhotoStyle #Project#](https://github.com/NVIDIA/FastPhotoStyle): This code repository contains an implementation of our fast photorealistic style transfer algorithm.
 
-- [PaddleOCR #Project#](https://github.com/PaddlePaddle/PaddleOCR): Awesome OCR toolkits based on PaddlePaddle（8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）.
+- [DeepFaceLab #Project#](https://github.com/iperov/DeepFaceLab): DeepFaceLab is the leading software for creating deepfakes.
 
 ## Generative Design & Art
 
@@ -129,6 +89,30 @@
 - [ArtLine #Project#](https://github.com/vijishmadhavan/ArtLine): A Deep Learning based project for creating line art portraits.
 
 - [StyleFlow #Project#](https://github.com/RameenAbdal/StyleFlow): Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows
+
+# 量化交易
+
+- [2019-TensorTrade #Project#](https://github.com/notadamking/tensortrade): An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
+
+## RNN
+
+- [char-rnn #Project#](https://github.com/karpathy/char-rnn): Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
+
+# Others
+
+- [2017-用深度学习对对联 #Project#](https://github.com/wb14123/seq2seq-couplet): This is a project use seq2seq model to play couplets (对对联)。This project is written with Tensorflow. You can try the demo at https://ai.binwang.me/couplet.
+
+# Game | 游戏
+
+- [OpenAI Gym](https://github.com/openai/gym): OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms. This is the gym open-source library, which gives you access to a standardized set of environments.
+
+- [Using Keras and Deep Q-Network to Play FlappyBird](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
+
+## Chess | 象棋
+
+- [2018-Minigo #Project#](https://github.com/tensorflow/minigo): A minimalist Go engine modeled after AlphaGo Zero, built on MuGo.
+
+- [2018-How to build your own AlphaZero AI using Python and Keras](https://parg.co/UiX): Teach a machine to learn Connect4 strategy through self-play and deep learning.
 
 # Development | 开发辅助
 

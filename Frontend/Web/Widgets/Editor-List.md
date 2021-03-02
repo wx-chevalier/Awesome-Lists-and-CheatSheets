@@ -8,6 +8,8 @@
 
 - [draft-js-plugins #Project#](https://www.draft-js-plugins.com/)
 
+- [2016-react-rte #Project#](https://github.com/sstur/react-rte): Pure React rich text WYSIWYG editor based on draft-js.
+
 - [2018-Slate #Project#](https://github.com/ianstormtaylor/slate): A completely customizable framework for building rich text editors.
 
 - [2018-GhostText #Project#](https://github.com/GhostText/GhostText): Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).

@@ -4,6 +4,10 @@
 
 - [互联网公司经典技术架构 #Collection#](https://github.com/davideuler/architecture.of.internet-product#): 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay 的架构。
 
+- [2018-Awesome Scalability, Availability, and Stability Back-end Design Patterns](https://github.com/binhnguyennus/awesome-scalability): A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development.
+
+- [2020-Awesome CTO #Collection#](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers and VP R&D, with the emphasis on startups and hyper-growth companies.
+
 # Giants
 
 ## Netflix

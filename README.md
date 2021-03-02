@@ -88,6 +88,7 @@ $ wc -l **/*.md | grep -E -v "(Weekly|total|README)" | awk '{s+=$1} END {printf 
 - #Course#：视频教程
 - #Collection#：资源集锦
 - #Project#: 开源的项目或者框架、库。
+- #Scratch#: 从零构建某些系统
 
 ## 版权
 
