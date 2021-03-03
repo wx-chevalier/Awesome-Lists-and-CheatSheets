@@ -10,6 +10,8 @@
 
 - [headless-chrome-crawler #Project#](https://github.com/yujiosaka/headless-chrome-crawler): Distributed crawler powered by Headless Chrome.
 
+- [apify-js #Project#](https://github.com/apify/apify-js): Apify SDK — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
+
 ## Python
 
 - [Photon #Project#](https://github.com/s0md3v/Photon): Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.

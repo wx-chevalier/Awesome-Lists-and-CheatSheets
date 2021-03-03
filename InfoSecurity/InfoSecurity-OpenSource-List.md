@@ -220,9 +220,11 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [PoisonTap #Project#](https://github.com/samyk/poisontap)
 
-# Reverse Engineering
+# Reverse Engineering | 逆向与破解
 
 - [rizin #Project#](https://rizin.re/): Free and Open Source Reverse Engineering Framework.
+
+- [Ghidra #Project#](https://github.com/NationalSecurityAgency/ghidra): Ghidra is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
 
 # TBD
 
