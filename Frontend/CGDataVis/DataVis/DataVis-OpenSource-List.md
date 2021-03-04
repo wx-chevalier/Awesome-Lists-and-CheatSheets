@@ -16,6 +16,8 @@
 
 - [2018-GoJS #Project#](https://github.com/NorthwoodsSoftware/GoJS): JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 
+- [2018-Cytoscape.js #Project#](https://github.com/cytoscape/cytoscape.js): Graph theory (network) library for visualisation and analysis
+
 # Chart
 
 - [Echarts #Project#](https://echarts.apache.org/zh/index.html): A powerful, interactive charting and visualization library for browser.

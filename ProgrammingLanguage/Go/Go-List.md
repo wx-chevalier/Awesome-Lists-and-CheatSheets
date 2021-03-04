@@ -68,6 +68,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [Draveness's Blog #Blog#](https://draveness.me): 非常不错的 Go 系列博客。
 
+- [Eli Bendersky's website #Blog#](https://eli.thegreenplace.net/pages/about): 偏向于 Go 与 C++。
+
 ## Collection
 
 - [2018-A Gopher's Reading List #Collection#](https://github.com/enocom/gopher-reading-list): A curated selection of blog posts on Go.

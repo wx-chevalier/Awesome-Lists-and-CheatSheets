@@ -6,18 +6,6 @@
 
 # 自然语言
 
-## ASR & TTS & STT
-
-- [ASRT_SpeechRecognition #Project#](https://github.com/nl8590687/ASRT_SpeechRecognition): A Deep-Learning-Based Chinese Speech Recognition System.
-
-- [2019-Real-Time Voice Cloning #Project#](https://github.com/CorentinJ/Real-Time-Voice-Cloning): SV2TTS is a three-stage deep learning framework that allows to create a numerical representation of a voice from a few seconds of audio, and to use it to condition a text-to-speech model trained to generalize to new voices.
-
-- [2020-TensorFlowTTS #Project#](https://github.com/TensorSpeech/TensorFlowTTS): 😝 TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese)
-
-- [2020-Silero Models #Project#](https://github.com/snakers4/silero-models): Silero Models: pre-trained STT models and benchmarks made embarrassingly simple
-
-- [Real-Time Voice Cloning #Project#](https://github.com/CorentinJ/Real-Time-Voice-Cloning): Clone a voice in 5 seconds to generate arbitrary speech in real-time
-
 ## 对话系统
 
 # 视觉与图像

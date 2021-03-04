@@ -182,9 +182,19 @@
 
 - [WeNet #Project#](https://github.com/mobvoi/wenet): Production First and Production Ready End-to-End Speech Recognition Toolkit
 
+- [ASRT_SpeechRecognition #Project#](https://github.com/nl8590687/ASRT_SpeechRecognition): A Deep-Learning-Based Chinese Speech Recognition System.
+
+- [2019-Real-Time Voice Cloning #Project#](https://github.com/CorentinJ/Real-Time-Voice-Cloning): SV2TTS is a three-stage deep learning framework that allows to create a numerical representation of a voice from a few seconds of audio, and to use it to condition a text-to-speech model trained to generalize to new voices.
+
+- [2020-TensorFlowTTS #Project#](https://github.com/TensorSpeech/TensorFlowTTS): 😝 TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese)
+
+- [2020-Silero Models #Project#](https://github.com/snakers4/silero-models): Silero Models: pre-trained STT models and benchmarks made embarrassingly simple
+
 # Computer Vision
 
 - [CVAT #Project#](https://github.com/opencv/cvat): Powerful and efficient Computer Vision Annotation Tool (CVAT).
+
+- [PaddleGAN #Project#](https://github.com/PaddlePaddle/PaddleGAN): PaddlePaddle GAN library, including lots of interesting applications like DeepFake First-Order motion transfer, Mai-ha-hi（蚂蚁呀嘿), faceswap wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
 
 ## OCR
 

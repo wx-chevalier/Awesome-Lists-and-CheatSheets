@@ -6,9 +6,17 @@
 
 - [2019-Phoenix #Project#](https://github.com/kasper/phoenix): A lightweight macOS window and app manager scriptable with JavaScript.
 
-# MAC
+# OS
+
+## MAC
 
 - [Tip #Project#](https://github.com/tanin47/tip): Programmable tooltip that can be used with any Mac OS app.
+
+## Remote Control & Screen Sharing
+
+- [xrdp #Project#](https://github.com/neutrinolabs/xrdp): xrdp provides a graphical login to remote machines using Microsoft Remote Desktop Protocol (RDP).
+
+- [Deskreen #Project#](https://github.com/pavlobu/deskreen): Deskreen turns any device with a web browser to a second screen for your computer
 
 # Workflow
 
@@ -16,7 +24,7 @@
 
 - [2019-n8n #Project#](https://github.com/n8n-io/n8n): Free and open node based Workflow Automation Tool. Easily automate tasks across different services.
 
-# Agent & Assistant
+## Agent & Assistant
 
 - [2019-Huginn #Project#](https://github.com/huginn/huginn/): Huginn is a system for building agents that perform automated tasks for you online.
 
@@ -44,11 +52,11 @@
 
 - [croc #Project#](https://github.com/schollz/croc): Easily and securely send things from one computer to another 🐊 📦
 
-# Remote Control & Screen Sharing
+## Downloader
 
-- [xrdp #Project#](https://github.com/neutrinolabs/xrdp): xrdp provides a graphical login to remote machines using Microsoft Remote Desktop Protocol (RDP).
+- [gallery-dl #Project#](https://github.com/mikf/gallery-dl): Command-line program to download image-galleries and -collections from several image hosting sites
 
-- [Deskreen #Project#](https://github.com/pavlobu/deskreen): Deskreen turns any device with a web browser to a second screen for your computer
+- [annie #Project#](https://github.com/iawia002/annie): 👾 Fast, simple and clean video downloader.
 
 # Network
 

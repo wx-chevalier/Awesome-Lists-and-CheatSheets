@@ -250,24 +250,23 @@
   - 4 Business
     - 4.1 Application
       - [4.1.1 Application List](/Business/Application/Application-List.md)
-      - 4.1.2 ECommerce
-        - [4.1.2.1 ECommerce List](/Business/Application/ECommerce/ECommerce-List.md)
-        - [4.1.2.2 ECommerce OpenSource List](/Business/Application/ECommerce/ECommerce-OpenSource-List.md)
-        - 4.1.2.3 Logistics
-          - [4.1.2.3.1 Logistics List](/Business/Application/ECommerce/Logistics/Logistics-List.md)
-        - 4.1.2.4 Pay
-          - [4.1.2.4.1 Pay List](/Business/Application/ECommerce/Pay/Pay-List.md)
-        - 4.1.2.5 RiskControl
-          - [4.1.2.5.1 RiskControl List](/Business/Application/ECommerce/RiskControl/RiskControl-List.md)
-      - 4.1.3 ERP
-        - [4.1.3.1 ERP List](/Business/Application/ERP/ERP-List.md)
-      - 4.1.4 Finance
-        - [4.1.4.1 Finance List](/Business/Application/Finance/Finance-List.md)
-      - 4.1.5 HCM
-        - [4.1.5.1 HCM List](/Business/Application/HCM/HCM-List.md)
-      - 4.1.6 Intelligent Manufacturing
-        - [4.1.6.1 Intelligent Manufacturing List](/Business/Application/Intelligent-Manufacturing/Intelligent-Manufacturing-List.md)
-        - [4.1.6.2 Intelligent Manufacturing OpenSource List](/Business/Application/Intelligent-Manufacturing/Intelligent-Manufacturing-OpenSource-List.md)
+      - 4.1.2 ERP
+        - [4.1.2.1 ERP List](/Business/Application/ERP/ERP-List.md)
+      - 4.1.3 Finance
+        - [4.1.3.1 Finance List](/Business/Application/Finance/Finance-List.md)
+        - [4.1.3.2 RiskControl List](/Business/Application/Finance/RiskControl-List.md)
+      - 4.1.4 HCM
+        - [4.1.4.1 HCM List](/Business/Application/HCM/HCM-List.md)
+      - 4.1.5 Intelligent Manufacturing
+        - [4.1.5.1 Intelligent Manufacturing List](/Business/Application/Intelligent-Manufacturing/Intelligent-Manufacturing-List.md)
+        - [4.1.5.2 Intelligent Manufacturing OpenSource List](/Business/Application/Intelligent-Manufacturing/Intelligent-Manufacturing-OpenSource-List.md)
+      - 4.1.6 Mall
+        - 4.1.6.1 Logistics
+          - [4.1.6.1.1 Logistics List](/Business/Application/Mall/Logistics/Logistics-List.md)
+        - [4.1.6.2 Mall List](/Business/Application/Mall/Mall-List.md)
+        - [4.1.6.3 Mall OpenSource List](/Business/Application/Mall/Mall-OpenSource-List.md)
+        - 4.1.6.4 Pay
+          - [4.1.6.4.1 Pay List](/Business/Application/Mall/Pay/Pay-List.md)
       - 4.1.7 OA
         - [4.1.7.1 OA List](/Business/Application/OA/OA-List.md)
     - [4.2 Business List](/Business/Business-List.md)

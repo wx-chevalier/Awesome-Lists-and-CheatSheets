@@ -112,13 +112,17 @@
 
 - [perf-tools #Project#](https://github.com/brendangregg/perf-tools): A miscellaneous collection of in-development and unsupported performance analysis tools for Linux ftrace and perf_events (aka the "perf" command).
 
-- [Pinpoint #Project#](http://naver.github.io/pinpoint/): Pinpoint is an APM (Application Performance Management) tool for large-scale distributed systems written in Java / PHP.
+- [Pyroscope #Project#](https://github.com/pyroscope-io/pyroscope): 🔥 Continuous Profiling Platform 🔥 Debug performance issues down to a single line of code
 
-- [Sentry #Project#](https://github.com/getsentry/sentry): Sentry fundamentally is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application.
+- [Pinpoint #Project#](http://naver.github.io/pinpoint/): Pinpoint is an APM (Application Performance Management) tool for large-scale distributed systems written in Java / PHP.
 
 - [2014-CAT #Project#](https://github.com/dianping/cat): CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC 框架，RPC 框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 
 - [2017-SkyWalking #Project#](https://github.com/apache/skywalking): SkyWalking: an APM(application performance monitor) system, especially designed for microservices, cloud native and container-based (Docker, Kubernetes, Mesos) architectures.
+
+## Bug Report
+
+- [Sentry #Project#](https://github.com/getsentry/sentry): Sentry fundamentally is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application.
 
 ## Visualization
 

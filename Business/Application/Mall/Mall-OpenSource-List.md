@@ -14,6 +14,8 @@
 
 - [2020-newbee-mall #Project#](https://github.com/newbee-ltd/newbee-mall): newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。
 
+- [2020-OPEN MALL #Project#](https://gitee.com/brother-ting/om/tree/master): OM（OPEN-MALL） 项目致力于打造分布式开源电商平台（社区团购、跨境电商、垂直电商、商城小程序、H5 电商平台），开源板块包含社区团购（客户端、团长端、供应商端、仓库端、骑手端）、跨境电商、全球购一件代发（商家端）、MT 外卖（商家端、骑手配送端）, 本开源项目仅供学习，有不足的地方请留下宝贵的意见。
+
 # Pay
 
 - [2018-roncoo pay #Project#](https://github.com/roncoo/roncoo-pay): 龙果支付系统是国内首款开源的互联网支付系统，其核心目标是汇聚所有主流支付渠道，打造一款轻量、便捷、易用，且集支付、资金对账、资金清结算于一体的支付系统，满足互联网业务系统的收款和业务资金管理需求。
