@@ -218,6 +218,8 @@
 
 - [2018-OpenPose #Project#](https://github.com/CMU-Perceptual-Computing-Lab/openpose): Real-time multi-person keypoint detection library for body, face, hands, and foot estimation.
 
+- [2021-CLIP #Project#](https://github.com/openai/CLIP): CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a variety of (image, text) pairs.
+
 ## Video
 
 - [2018-videoflow #Project#](https://github.com/videoflow/videoflow): Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.

@@ -76,6 +76,8 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 ## Series
 
+- [JavaScriptONLY #Series#](https://github.com/sohamsshah/JavaScriptONLY): Its an attempt to provide high quality, well-written set of notes for anyone who wants to learn and refer JavaScript concepts in deep.
+
 # Tutorial
 
 - [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html): This book is about two versions of JavaScript: ECMAScript 2018 and ECMAScript 2019.

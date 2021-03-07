@@ -16,6 +16,8 @@
 
 - [electron-react-typescript-webpack-boilerplate #Project#](https://github.com/Devtography/electron-react-typescript-webpack-boilerplate): Pre-configured boilerplate for Electron + React + TypeScript + Webpack.
 
+- [2020-Svelte NodeGUI #Project#](https://svelte.nodegui.org/): Create native apps for Windows, macOS and Linux using Svelte and CSS.
+
 # Development Tools
 
 - [2018-Electron Fiddle #Project#](https://github.com/electron/fiddle): Electron Fiddle lets you create and play with small Electron experiments. It greets you with a quick-start template after opening – change a few things, choose the version of Electron you want to run it with, and play around.
