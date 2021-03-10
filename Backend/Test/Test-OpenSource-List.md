@@ -96,6 +96,4 @@
 
 - [PhantomCSS #Project#](https://github.com/Huddle/PhantomCSS): CSS regression testing.
 
-- [Resemble.js #Project#](https://github.com/rsmbl/Resemble.js): Image analysis and comparison
-
 - [BackstopJS #Project#](https://github.com/garris/BackstopJS): BackstopJS automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.

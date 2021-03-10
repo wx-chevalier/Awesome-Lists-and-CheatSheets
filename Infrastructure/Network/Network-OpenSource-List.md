@@ -4,8 +4,6 @@
 
 - [localtunnel #Project#](https://github.com/localtunnel/localtunnel): localtunnel exposes your localhost to the world for easy testing and sharing! No need to mess with DNS or deploy just to have others test out your changes.
 
-- [whistle #Project#](https://github.com/avwo/whistle): whistle is a cross-platform web debugging tool based on Node.js.
-
 - [packetdrill #Project#](https://github.com/google/packetdrill): The official Google release of packetdrill.
 
 # WebSocket
@@ -41,8 +39,6 @@
 - [whistle #Project#](https://github.com/avwo/whistle): whistle is a cross-platform web debugging tool based on Node.js.
 
 - [Talkback #Project#](https://github.com/ijpiantanida/talkback/): Talkback is a pure javascript standalone HTTP proxy.
-
-- [whistle #Project#](https://github.com/avwo/whistle): HTTP, HTTPS, WebSocket debugging proxy
 
 ## Web
 

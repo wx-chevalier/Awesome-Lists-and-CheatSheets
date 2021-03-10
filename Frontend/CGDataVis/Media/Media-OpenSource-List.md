@@ -8,6 +8,20 @@
 
 - [bild #Project#](https://github.com/anthonynsimon/bild): A collection of parallel image processing algorithms in pure Go.
 
+## Image Processing: 图片处理
+
+- [lilliput #Project#](https://github.com/discordapp/lilliput): Resize images and animated GIFs in Go; [How Discord Resizes 150 Million Images Every Day with Go and C++](https://parg.co/UEb)
+
+- [node-imagemagick](https://github.com/yourdeveloper/node-imagemagick)
+
+- [Sharp #Project#](): High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images.
+
+## Image Recognition
+
+- [Uber Image Diff](https://github.com/uber/image-diff)
+
+- [Resemble.js #Project#](https://github.com/rsmbl/Resemble.js): Image analysis and comparison
+
 ## Compression | 压缩
 
 - [Lepton #Project#](https://github.com/dropbox/lepton): 用于存储时图片压缩.
