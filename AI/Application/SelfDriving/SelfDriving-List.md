@@ -5,3 +5,5 @@
 # OpenSource
 
 - [2019-selfdrive #Project#](https://github.com/littlemountainman/selfdrive): Autopilot written in Keras for Self Driving Cars.
+
+- [2019-self-driving-car #Project#](https://github.com/ndrplz/self-driving-car): Udacity Self-Driving Car Engineer Nanodegree projects.

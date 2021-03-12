@@ -8,7 +8,7 @@
 
 - [bild #Project#](https://github.com/anthonynsimon/bild): A collection of parallel image processing algorithms in pure Go.
 
-## Image Processing: 图片处理
+## Image Processing（图片处理）
 
 - [lilliput #Project#](https://github.com/discordapp/lilliput): Resize images and animated GIFs in Go; [How Discord Resizes 150 Million Images Every Day with Go and C++](https://parg.co/UEb)
 
@@ -21,6 +21,10 @@
 - [Uber Image Diff](https://github.com/uber/image-diff)
 
 - [Resemble.js #Project#](https://github.com/rsmbl/Resemble.js): Image analysis and comparison
+
+- [pixelmatch #Project#](https://github.com/mapbox/pixelmatch): The smallest, simplest and fastest JavaScript pixel-level image comparison library, originally created to compare screenshots in tests.
+
+- [looks-same #Project#](https://github.com/gemini-testing/looks-same): Node.js library for comparing images
 
 ## Compression | 压缩
 
