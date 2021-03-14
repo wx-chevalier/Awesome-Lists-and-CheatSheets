@@ -155,6 +155,8 @@
 
 - [Nepxion Discovery #Project#](https://github.com/Nepxion/Discovery): 🐳 Nepxion Discovery is an enhancement for Spring Cloud Discovery on Eureka + Consul + Zookeeper + Nacos with Nacos + Apollo config for gray release, router, weight, isolation 网关和服务灰度发布、路由、权重、隔离、调用链。
 
+- [Spring Native #Project#](https://docs.spring.io/spring-native/docs/current/reference/htmlsingle/#overview): Spring Native provides support for compiling Spring applications to native executables using the GraalVM native-image compiler.
+
 ## Auth
 
 - [Spring Security #Project#](https://github.com/spring-projects/spring-security): Spring Security provides security services for the Spring IO Platform. Spring Security 5.0 requires Spring 5.0 as a minimum and also requires Java 8.

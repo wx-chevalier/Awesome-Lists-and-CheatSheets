@@ -757,12 +757,11 @@
       - 9.5.7 Spring
         - [9.5.7.1 Java Servlet List](/ProgrammingLanguage/Java/Spring/Java-Servlet-List.md)
         - [9.5.7.2 Mybatis List](/ProgrammingLanguage/Java/Spring/Mybatis-List.md)
-        - [9.5.7.3 Spring Internals List](/ProgrammingLanguage/Java/Spring/Spring-Internals-List.md)
-        - [9.5.7.4 Spring List](/ProgrammingLanguage/Java/Spring/Spring-List.md)
-        - [9.5.7.5 SpringBoot List](/ProgrammingLanguage/Java/Spring/SpringBoot-List.md)
-        - [9.5.7.6 SpringCloud List](/ProgrammingLanguage/Java/Spring/SpringCloud-List.md)
-        - [9.5.7.7 SpringSecurity List](/ProgrammingLanguage/Java/Spring/SpringSecurity-List.md)
-        - [9.5.7.8 Tomcat List](/ProgrammingLanguage/Java/Spring/Tomcat-List.md)
+        - [9.5.7.3 Spring List](/ProgrammingLanguage/Java/Spring/Spring-List.md)
+        - [9.5.7.4 SpringBoot List](/ProgrammingLanguage/Java/Spring/SpringBoot-List.md)
+        - [9.5.7.5 SpringCloud List](/ProgrammingLanguage/Java/Spring/SpringCloud-List.md)
+        - [9.5.7.6 SpringSecurity List](/ProgrammingLanguage/Java/Spring/SpringSecurity-List.md)
+        - [9.5.7.7 Tomcat List](/ProgrammingLanguage/Java/Spring/Tomcat-List.md)
     - 9.6 JavaScript
       - [9.6.1 JavaScript Async List](/ProgrammingLanguage/JavaScript/JavaScript-Async-List.md)
       - [9.6.2 JavaScript Collection List](/ProgrammingLanguage/JavaScript/JavaScript-Collection-List.md)
