@@ -124,6 +124,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [kbd-audio #Project#](https://github.com/ggerganov/kbd-audio): Tools for capturing and analysing keyboard input paired with microphone capture 🎤⌨️
 
+- [PhoneInfoga #Project#](https://github.com/sundowndev/PhoneInfoga): PhoneInfoga is one of the most advanced tools to scan international phone numbers using only free resources. It allows you to first gather standard information such as country, area, carrier and line type on any international phone number. Then search for footprints on search engines to try to find the VoIP provider or identify the owner.
+
 ## Leakage
 
 - [SecretScanner #Project#](https://github.com/deepfence/SecretScanner): Find secrets and passwords in container images and file systems
@@ -196,7 +198,7 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [Deflect #Project#](https://deflect.ca/#en): Deflect 是一款开源服务，帮助非政府组织(NGO)、行动主义者和独立媒体公司免于受到分布式拒绝服务攻击(DDoS)。与商业 CDN 类似，它基于分布式反向代理缓存，隐藏真实服务器 IP 地址，同时能够阻止对后台的公开访问，并致力于抵抗针对独立言论的僵尸网络。
 
-## Proxy | 抓包代理
+## Cap & Proxy（抓包代理）
 
 - [Zap]()
 
@@ -207,6 +209,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 - [Charles]()
 
 - [r0capture #Project#](https://github.com/r0ysue/r0capture): 安卓应用层抓包通杀脚本
+
+- [bettercap #Project#](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
 
 ## WiFi
 
