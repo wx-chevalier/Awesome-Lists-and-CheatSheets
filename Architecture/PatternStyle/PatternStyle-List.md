@@ -1,9 +1,5 @@
 # Architectural Pattern List
 
-# EDA
-
-- [Events As First-Class Citizens](https://parg.co/UMx): In this post, I’ll discuss the lifecycle of a “fix” at Stitch Fix and how we use events to model it.
-
 # CQRS
 
 - [2014-CQRS 架构简介](https://www.cnblogs.com/netfocus/p/4055346.html): 要想高性能，需要尽量：避开网络开销（IO），避开海量数据，避开资源争夺。对于这 3 点，我觉得很有道理。所以也想谈一下，CQRS 架构下是如何实现高性能的。

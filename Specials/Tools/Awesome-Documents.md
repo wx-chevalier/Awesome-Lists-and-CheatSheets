@@ -1,32 +1,24 @@
 # Awesome Documents
 
-# 写作技巧
-
 - [2021-The documentation system #Book#](https://documentation.divio.com/): There is a secret that needs to be understood in order to write good software documentation: there isn’t one thing called documentation, there are four.
 
-# 资源搜搜
+- 资源检索：[鸠摩搜索](http://t.cn/RG07GHI)、[布克书屋](http://t.cn/AiEso12y)、[三秋书屋](http://t.cn/AiQ0uTv9)
 
-- 鸠摩搜索 http://t.cn/RG07GHI
+# Editor
 
-- 布克书屋 http://t.cn/AiEso12y
-
-- 三秋书屋 http://t.cn/AiQ0uTv9
-
-# Note Taking App
+## Note Taking App
 
 - [Trilium #Project#](https://github.com/zadam/trilium): Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
+
+- [2019-Joplin #Project#](https://github.com/laurent22/joplin): a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+
+- [2021-Dendron #Project#](https://wiki.dendron.so/): Dendron is an open-source, local-first, markdown-based, note-taking tool built on top of VSCode.
 
 ## Knowledge Management
 
 - [Foam #Project#](https://github.com/foambubble/foam): A personal knowledge management and sharing system for VSCode.
 
 - [Archivy #Project#](https://github.com/Uzay-G/archivy): Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
-
-# Editor
-
-## Todo Notes
-
-- [2019-Joplin #Project#](https://github.com/laurent22/joplin): a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 
 ## Collaborative Editing（协同编辑）
 
@@ -36,11 +28,7 @@
 
 - [Realms Wiki Beta #Project#](https://github.com/scragg0x/realms-wiki): Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger. Basic authentication and registration included.
 
-## CLI
-
-- `"/System/Library/Automator/Combine PDF Pages.action/Contents/Resources/join.py" -o PATH/TO/YOUR/MERGED/FILE.pdf /PATH/TO/ORIGINAL/1.pdf /PATH/TO/ANOTHER/2.pdf /PATH/TO/A/WHOLE/DIR/*.pdf`
-
-# Presentation
+## Presentation
 
 - [2018-mdx deck #Project#](https://github.com/jxnblk/mdx-deck): MDX-based presentation decks (Beta).
 

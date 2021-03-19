@@ -86,6 +86,10 @@
 
 - [2019-第十三届 D2 前端技术论坛精彩回顾 #Meeting#](https://www.yuque.com/d2forum/content/d213): 智能化和渲染技术，可视化技术和工程化技术，开发模式与语言框架。
 
+## Series
+
+- [2021-浏览器工作原理与实践 #Series#](https://blog.poetries.top/browser-working-principle/): 极客浏览器工作原理与实践，追求重点和难点,剔除陈旧的知识。
+
 ## Showcase
 
 - [2015-todomvc #Project#](https://github.com/tastejs/todomvc): Helping you select an `MV*` framework - Todo apps for React.js, Ember.js, Angular, and many more.
