@@ -39,6 +39,10 @@
 
 - [Testcontainers #Project#](https://www.testcontainers.org/): Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 
+### Mock
+
+- [2019-testable-mock #Project](https://github.com/alibaba/testable-mock): 无需初始化，不挑服务框架，甭管要换的是私有方法、静态方法、构造方法还是其他任何类的任何方法，也甭管要换的对象是怎么创建的。写好 Mock 定义，加个@MockMethod 注解，一切统统搞定。
+
 ## Deployment | 部署
 
 - [Capsule #Project#](http://www.capsule.io/user-guide/#getting-capsule): Dead-Simple Packaging and Deployment for JVM Apps.

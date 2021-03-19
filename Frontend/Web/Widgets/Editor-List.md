@@ -1,12 +1,10 @@
 # Editor List
 
-- [Pell #Project#](https://github.com/jaredreich/pell): pell is the simplest and smallest WYSIWYG text editor for web, with no dependencies
+- [2016-Pell #Project#](https://github.com/jaredreich/pell): pell is the simplest and smallest WYSIWYG text editor for web, with no dependencies
 
-- [TOAST UI Editor #Project#](https://parg.co/UVY): Markdown WYSIWYG Editor | Productive and Extensible.
+- [2016-TOAST UI Editor #Project#](https://parg.co/UVY): Markdown WYSIWYG Editor | Productive and Extensible.
 
-- [Draft.js](http://facebook.github.io/draft-js/)
-
-- [draft-js-plugins #Project#](https://www.draft-js-plugins.com/)
+- [2016-Draft.js](https://facebook.github.io/draft-js/): Rich Text Editor Framework for React。[draft-js-plugins #Project#](https://www.draft-js-plugins.com/)。
 
 - [2016-react-rte #Project#](https://github.com/sstur/react-rte): Pure React rich text WYSIWYG editor based on draft-js.
 
@@ -25,6 +23,8 @@
 - [2020-Edtr.io #Project#](https://edtr.io): Edtr.io is a WYSIWYG in-line web editor written in React. Content created with Edtr.io looks just like the final page - select any editable element on the page, edit it in-place or drag ’n’ drop it around.
 
 - [2020-Megadraft #Project#](https://github.com/globocom/megadraft): Rich Text editor built on top of Facebook's draft.js
+
+- [2020-wangEditor #Project#](https://github.com/wangeditor-team/wangEditor): wangEditor 是一款使用 Typescript 开发的 Web 富文本编辑器， 轻量、简洁、易用、开源免费。
 
 # Spreadsheet
 
