@@ -68,6 +68,8 @@
 
 - [2019-Chatwoot #Project#](https://github.com/chatwoot/chatwoot): Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
+- [2019-Papercups #Project#](https://github.com/papercups-io/papercups): Open-source live customer chat
+
 ## Ticket && Help Desk
 
 - [2017-Zammad #Project#](https://github.com/zammad/zammad): Zammad is a web based open source helpdesk/customer support system.
@@ -75,5 +77,3 @@
 - [2017-Helpy #Project#](https://github.com/helpyio/helpy): Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email.
 
 - [2018-Trudesk #Project#](https://github.com/polonel/trudesk): Trudesk is an open source help desk/ticketing solution.
-
-## Live Support

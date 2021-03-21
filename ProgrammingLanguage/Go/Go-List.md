@@ -62,7 +62,9 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2019-For learning Go Tutorial #Book](https://github.com/KeKe-Li/For-learning-Go-Tutorial): 准备写一本 Go 的书针对初学者快速入门开发和使用 go！
 
-- [2020-Go 语言 101 #Project#](https://github.com/golang101/golang101): 一本侧重于 Go 语言语法和语义的编程解释和指导书。
+- [2020-Go 语言 101 #Book#](https://github.com/golang101/golang101): 一本侧重于 Go 语言语法和语义的编程解释和指导书。
+
+- [2020-Go 语言编程之旅：一起用 Go 做项目 #Book#](https://golang2.eddycjy.com/): 本书不直接介绍 Go 语言的语法基础，内容将面向项目实践，同时会针对核心细节进行分析。而在实际项目迭代中，常常会出现或多或少的事故，因此本书也针对 Go 语言的大杀器（分析工具）以及常见问题进行了全面讲解。
 
 ## Blog
 
