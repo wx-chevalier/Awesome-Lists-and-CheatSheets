@@ -20,9 +20,7 @@
 
 - [深入浅出 Redis client/server 交互流程](http://www.infoq.com/cn/articles/communication-redis-clientserver)
 
-- [深入浅出 Redis client/server 交互流程 ](http://mp.weixin.qq.com/s/M_8JYKounmZWHPOXVJFNuQ)
-
-- [Redis 客户端查询缓冲区和输出缓冲区 ](https://zhuoroger.github.io/2016/07/30/redis-client-two-buffers/)
+- [Redis 客户端查询缓冲区和输出缓冲区](https://zhuoroger.github.io/2016/07/30/redis-client-two-buffers/)
 
 ## DataTypes
 

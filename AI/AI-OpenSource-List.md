@@ -122,7 +122,8 @@
 
 - [2019-GPT2 #Project#](https://github.com/openai/gpt-2): Code and models from the paper "Language Models are Unsupervised Multitask Learners".
 
-- [2019-GPT2 Chinese #Project#](https://github.com/Morizeyao/GPT2-Chinese): Chinese version of GPT2 training code, using BERT or BPE tokenizer.
+  - [2019-GPT2 Chinese #Project#](https://github.com/Morizeyao/GPT2-Chinese): Chinese version of GPT2 training code, using BERT or BPE tokenizer.
+  - [2021-gpt neo #Project#](https://github.com/EleutherAI/gpt-neo): An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow. 
 
 ## Classification
 
