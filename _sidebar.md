@@ -136,32 +136,23 @@
       - [2.1.10 String List](/Architecture/AlgoDS/String-List.md)
       - [2.1.11 Tree List](/Architecture/AlgoDS/Tree-List.md)
     - [2.2 Architecture List](/Architecture/Architecture-List.md)
-    - 2.3 DesignPattern
-      - [2.3.1 DesignPattern List](/Architecture/DesignPattern/DesignPattern-List.md)
-      - [2.3.2 FunctionalProgramming List](/Architecture/DesignPattern/FunctionalProgramming-List.md)
-      - [2.3.3 MetaProgramming List](/Architecture/DesignPattern/MetaProgramming-List.md)
-      - [2.3.4 ObjectOrientedProgramming List](/Architecture/DesignPattern/ObjectOrientedProgramming-List.md)
-      - [2.3.5 Programming Paradigm List](/Architecture/DesignPattern/Programming-Paradigm-List.md)
-      - [2.3.6 ReactiveProgramming List](/Architecture/DesignPattern/ReactiveProgramming-List.md)
-    - 2.4 PatternStyle
-      - [2.4.1 DDD List](/Architecture/PatternStyle/DDD-List.md)
-      - [2.4.2 EDA List](/Architecture/PatternStyle/EDA-List.md)
-      - [2.4.3 PatternStyle List](/Architecture/PatternStyle/PatternStyle-List.md)
-    - 2.5 Refactor
-      - [2.5.1 CleanCode List](/Architecture/Refactor/CleanCode-List.md)
-      - [2.5.2 CodeReview List](/Architecture/Refactor/CodeReview-List.md)
-      - [2.5.3 Refactor List](/Architecture/Refactor/Refactor-List.md)
-      - [2.5.4 Refactor OpenSource List](/Architecture/Refactor/Refactor-OpenSource-List.md)
-    - 2.6 SoftwareEngineering
-      - [2.6.1 ArchitectureDesign List](/Architecture/SoftwareEngineering/ArchitectureDesign-List.md)
-      - 2.6.2 Git
-        - [2.6.2.1 Git List](/Architecture/SoftwareEngineering/Git/Git-List.md)
-        - [2.6.2.2 Git OpenSource List](/Architecture/SoftwareEngineering/Git/Git-OpenSource-List.md)
-        - [2.6.2.3 Git Workflow List](/Architecture/SoftwareEngineering/Git/Git-Workflow-List.md)
-        - [2.6.2.4 Github List](/Architecture/SoftwareEngineering/Git/Github-List.md)
-      - [2.6.3 OpenSource List](/Architecture/SoftwareEngineering/OpenSource-List.md)
-      - [2.6.4 Workflow List](/Architecture/SoftwareEngineering/Workflow-List.md)
-      - [2.6.5 Workflow OpenSource List](/Architecture/SoftwareEngineering/Workflow-OpenSource-List.md)
+    - [2.3 ArchitectureDesign List](/Architecture/ArchitectureDesign-List.md)
+    - 2.4 DesignPattern
+      - [2.4.1 DesignPattern List](/Architecture/DesignPattern/DesignPattern-List.md)
+      - [2.4.2 FunctionalProgramming List](/Architecture/DesignPattern/FunctionalProgramming-List.md)
+      - [2.4.3 MetaProgramming List](/Architecture/DesignPattern/MetaProgramming-List.md)
+      - [2.4.4 ObjectOrientedProgramming List](/Architecture/DesignPattern/ObjectOrientedProgramming-List.md)
+      - [2.4.5 Programming Paradigm List](/Architecture/DesignPattern/Programming-Paradigm-List.md)
+      - [2.4.6 ReactiveProgramming List](/Architecture/DesignPattern/ReactiveProgramming-List.md)
+    - 2.5 PatternStyle
+      - [2.5.1 DDD List](/Architecture/PatternStyle/DDD-List.md)
+      - [2.5.2 EDA List](/Architecture/PatternStyle/EDA-List.md)
+      - [2.5.3 PatternStyle List](/Architecture/PatternStyle/PatternStyle-List.md)
+    - 2.6 Refactor
+      - [2.6.1 CleanCode List](/Architecture/Refactor/CleanCode-List.md)
+      - [2.6.2 CodeReview List](/Architecture/Refactor/CodeReview-List.md)
+      - [2.6.3 Refactor List](/Architecture/Refactor/Refactor-List.md)
+      - [2.6.4 Refactor OpenSource List](/Architecture/Refactor/Refactor-OpenSource-List.md)
   - 3 Backend
     - [3.1 Backend List](/Backend/Backend-List.md)
     - 3.2 DevOps
@@ -179,132 +170,81 @@
         - [3.2.6.1 APM List](/Backend/DevOps/MonitorAlert/APM-List.md)
         - [3.2.6.2 Aggregation List](/Backend/DevOps/MonitorAlert/Aggregation-List.md)
         - [3.2.6.3 MonitorAlert List](/Backend/DevOps/MonitorAlert/MonitorAlert-List.md)
-    - 3.3 Domain
-      - 3.3.1 BPM
-        - [3.3.1.1 BPM List](/Backend/Domain/BPM/BPM-List.md)
-        - [3.3.1.2 BPM OpenSource List](/Backend/Domain/BPM/BPM-OpenSource-List.md)
-      - 3.3.2 CMS
-        - [3.3.2.1 CMS List](/Backend/Domain/CMS/CMS-List.md)
-        - [3.3.2.2 CMS OpenSource List](/Backend/Domain/CMS/CMS-OpenSource-List.md)
-      - 3.3.3 Cron
-        - [3.3.3.1 Cron List](/Backend/Domain/Cron/Cron-List.md)
-      - 3.3.4 LBS
-        - [3.3.4.1 LBS List](/Backend/Domain/LBS/LBS-List.md)
-        - [3.3.4.2 LBS OpenSource List](/Backend/Domain/LBS/LBS-OpenSource-List.md)
-      - 3.3.5 OpenPlatform
-        - 3.3.5.1 Alipay
-          - [3.3.5.1.1 Alipay List](/Backend/Domain/OpenPlatform/Alipay/Alipay-List.md)
-        - [3.3.5.2 OpenPlatform List](/Backend/Domain/OpenPlatform/OpenPlatform-List.md)
-        - 3.3.5.3 Wechat
-          - [3.3.5.3.1 Weapp List](/Backend/Domain/OpenPlatform/Wechat/Weapp-List.md)
-          - [3.3.5.3.2 Weapp OpenSource List](/Backend/Domain/OpenPlatform/Wechat/Weapp-OpenSource-List.md)
-          - [3.3.5.3.3 Wechat List](/Backend/Domain/OpenPlatform/Wechat/Wechat-List.md)
-      - 3.3.6 RTC
-        - [3.3.6.1 Live List](/Backend/Domain/RTC/Live-List.md)
-        - [3.3.6.2 RTC List](/Backend/Domain/RTC/RTC-List.md)
-        - [3.3.6.3 RTC OpenSource List](/Backend/Domain/RTC/RTC-OpenSource-List.md)
-        - [3.3.6.4 WebRTC List](/Backend/Domain/RTC/WebRTC-List.md)
-    - 3.4 HA
-      - [3.4.1 Cache List](/Backend/HA/Cache-List.md)
-      - [3.4.2 HA List](/Backend/HA/HA-List.md)
-      - [3.4.3 HA OpenSource List](/Backend/HA/HA-OpenSource-List.md)
-      - [3.4.4 ResilienceService List](/Backend/HA/ResilienceService-List.md)
-      - [3.4.5 SRE List](/Backend/HA/SRE-List.md)
-      - [3.4.6 Spike List](/Backend/HA/Spike-List.md)
-    - 3.5 MicroService
-      - 3.5.1 API
-        - [3.5.1.1 API List](/Backend/MicroService/API/API-List.md)
-        - 3.5.1.2 GraphQL
-          - [3.5.1.2.1 GraphQL Client List](/Backend/MicroService/API/GraphQL/GraphQL-Client-List.md)
-          - [3.5.1.2.2 GraphQL List](/Backend/MicroService/API/GraphQL/GraphQL-List.md)
-          - [3.5.1.2.3 GraphQL OpenSource List](/Backend/MicroService/API/GraphQL/GraphQL-OpenSource-List.md)
-          - [3.5.1.2.4 GraphQL Server List](/Backend/MicroService/API/GraphQL/GraphQL-Server-List.md)
-        - [3.5.1.3 RESTful List](/Backend/MicroService/API/RESTful-List.md)
-      - 3.5.2 Auth
-        - [3.5.2.1 Auth List](/Backend/MicroService/Auth/Auth-List.md)
-      - 3.5.3 Configuration
-        - [3.5.3.1 Configuration List](/Backend/MicroService/Configuration/Configuration-List.md)
-      - 3.5.4 DistributedTracing
-        - [3.5.4.1 DistributedTracing List](/Backend/MicroService/DistributedTracing/DistributedTracing-List.md)
-      - 3.5.5 Gateway
-        - [3.5.5.1 Gateway List](/Backend/MicroService/Gateway/Gateway-List.md)
-        - [3.5.5.2 LoadBalancing List](/Backend/MicroService/Gateway/LoadBalancing-List.md)
-        - [3.5.5.3 LongConnection List](/Backend/MicroService/Gateway/LongConnection-List.md)
-        - 3.5.5.4 WebServer
-          - [3.5.5.4.1 Apache List](/Backend/MicroService/Gateway/WebServer/Apache-List.md)
-          - [3.5.5.4.2 Caddy List](/Backend/MicroService/Gateway/WebServer/Caddy-List.md)
-          - [3.5.5.4.3 Nginx List](/Backend/MicroService/Gateway/WebServer/Nginx-List.md)
-          - [3.5.5.4.4 Traefik List](/Backend/MicroService/Gateway/WebServer/Traefik-List.md)
-          - [3.5.5.4.5 WebServer List](/Backend/MicroService/Gateway/WebServer/WebServer-List.md)
-      - [3.5.6 MicroService List](/Backend/MicroService/MicroService-List.md)
-      - [3.5.7 MicroService OpenSource List](/Backend/MicroService/MicroService-OpenSource-List.md)
-      - 3.5.8 RPC
-        - [3.5.8.1 BRPC List](/Backend/MicroService/RPC/BRPC-List.md)
-        - [3.5.8.2 Dubbo List](/Backend/MicroService/RPC/Dubbo-List.md)
-        - [3.5.8.3 RPC List](/Backend/MicroService/RPC/RPC-List.md)
-        - [3.5.8.4 Serialization List](/Backend/MicroService/RPC/Serialization-List.md)
-        - [3.5.8.5 gRPC List](/Backend/MicroService/RPC/gRPC-List.md)
-    - 3.6 Test
-      - [3.6.1 PerformanceTest List](/Backend/Test/PerformanceTest-List.md)
-      - [3.6.2 Test List](/Backend/Test/Test-List.md)
-      - [3.6.3 Test OpenSource List](/Backend/Test/Test-OpenSource-List.md)
+    - 3.3 HA
+      - [3.3.1 Cache List](/Backend/HA/Cache-List.md)
+      - [3.3.2 HA List](/Backend/HA/HA-List.md)
+      - [3.3.3 HA OpenSource List](/Backend/HA/HA-OpenSource-List.md)
+      - [3.3.4 ResilienceService List](/Backend/HA/ResilienceService-List.md)
+      - [3.3.5 SRE List](/Backend/HA/SRE-List.md)
+      - [3.3.6 Spike List](/Backend/HA/Spike-List.md)
+    - 3.4 MicroService
+      - 3.4.1 API
+        - [3.4.1.1 API List](/Backend/MicroService/API/API-List.md)
+        - 3.4.1.2 GraphQL
+          - [3.4.1.2.1 GraphQL Client List](/Backend/MicroService/API/GraphQL/GraphQL-Client-List.md)
+          - [3.4.1.2.2 GraphQL List](/Backend/MicroService/API/GraphQL/GraphQL-List.md)
+          - [3.4.1.2.3 GraphQL OpenSource List](/Backend/MicroService/API/GraphQL/GraphQL-OpenSource-List.md)
+          - [3.4.1.2.4 GraphQL Server List](/Backend/MicroService/API/GraphQL/GraphQL-Server-List.md)
+        - [3.4.1.3 RESTful List](/Backend/MicroService/API/RESTful-List.md)
+      - 3.4.2 Auth
+        - [3.4.2.1 Auth List](/Backend/MicroService/Auth/Auth-List.md)
+      - 3.4.3 Configuration
+        - [3.4.3.1 Configuration List](/Backend/MicroService/Configuration/Configuration-List.md)
+      - 3.4.4 DistributedTracing
+        - [3.4.4.1 DistributedTracing List](/Backend/MicroService/DistributedTracing/DistributedTracing-List.md)
+      - 3.4.5 Gateway
+        - [3.4.5.1 Gateway List](/Backend/MicroService/Gateway/Gateway-List.md)
+        - [3.4.5.2 LoadBalancing List](/Backend/MicroService/Gateway/LoadBalancing-List.md)
+        - [3.4.5.3 LongConnection List](/Backend/MicroService/Gateway/LongConnection-List.md)
+        - 3.4.5.4 WebServer
+          - [3.4.5.4.1 Apache List](/Backend/MicroService/Gateway/WebServer/Apache-List.md)
+          - [3.4.5.4.2 Caddy List](/Backend/MicroService/Gateway/WebServer/Caddy-List.md)
+          - [3.4.5.4.3 Nginx List](/Backend/MicroService/Gateway/WebServer/Nginx-List.md)
+          - [3.4.5.4.4 Traefik List](/Backend/MicroService/Gateway/WebServer/Traefik-List.md)
+          - [3.4.5.4.5 WebServer List](/Backend/MicroService/Gateway/WebServer/WebServer-List.md)
+      - [3.4.6 MicroService List](/Backend/MicroService/MicroService-List.md)
+      - [3.4.7 MicroService OpenSource List](/Backend/MicroService/MicroService-OpenSource-List.md)
+      - 3.4.8 RPC
+        - [3.4.8.1 BRPC List](/Backend/MicroService/RPC/BRPC-List.md)
+        - [3.4.8.2 Dubbo List](/Backend/MicroService/RPC/Dubbo-List.md)
+        - [3.4.8.3 RPC List](/Backend/MicroService/RPC/RPC-List.md)
+        - [3.4.8.4 Serialization List](/Backend/MicroService/RPC/Serialization-List.md)
+        - [3.4.8.5 gRPC List](/Backend/MicroService/RPC/gRPC-List.md)
+    - 3.5 Test
+      - [3.5.1 PerformanceTest List](/Backend/Test/PerformanceTest-List.md)
+      - [3.5.2 Test List](/Backend/Test/Test-List.md)
+      - [3.5.3 Test OpenSource List](/Backend/Test/Test-OpenSource-List.md)
   - 4 Business
-    - 4.1 Application
-      - [4.1.1 Application List](/Business/Application/Application-List.md)
-      - 4.1.2 ERP
-        - [4.1.2.1 ERP List](/Business/Application/ERP/ERP-List.md)
-      - 4.1.3 Finance
-        - [4.1.3.1 Finance List](/Business/Application/Finance/Finance-List.md)
-        - [4.1.3.2 RiskControl List](/Business/Application/Finance/RiskControl-List.md)
-      - 4.1.4 HCM
-        - [4.1.4.1 HCM List](/Business/Application/HCM/HCM-List.md)
-      - 4.1.5 Intelligent Manufacturing
-        - [4.1.5.1 Intelligent Manufacturing List](/Business/Application/Intelligent-Manufacturing/Intelligent-Manufacturing-List.md)
-        - [4.1.5.2 Intelligent Manufacturing OpenSource List](/Business/Application/Intelligent-Manufacturing/Intelligent-Manufacturing-OpenSource-List.md)
-      - 4.1.6 Mall
-        - 4.1.6.1 Logistics
-          - [4.1.6.1.1 Logistics List](/Business/Application/Mall/Logistics/Logistics-List.md)
-        - [4.1.6.2 Mall List](/Business/Application/Mall/Mall-List.md)
-        - [4.1.6.3 Mall OpenSource List](/Business/Application/Mall/Mall-OpenSource-List.md)
-        - 4.1.6.4 Pay
-          - [4.1.6.4.1 Pay List](/Business/Application/Mall/Pay/Pay-List.md)
-      - 4.1.7 OA
-        - [4.1.7.1 OA List](/Business/Application/OA/OA-List.md)
-    - [4.2 Business List](/Business/Business-List.md)
-    - 4.3 Finance
-      - [4.3.1 Finance List](/Business/Finance/Finance-List.md)
-      - [4.3.2 Finance OpenSource List](/Business/Finance/Finance-OpenSource-List.md)
-    - 4.4 Industry
-      - 4.4.1 3DP
-        - [4.4.1.1 3DP List](/Business/Industry/3DP/3DP-List.md)
-      - [4.4.2 Industrial Internet List](/Business/Industry/Industrial-Internet-List.md)
-      - [4.4.3 Internet List](/Business/Industry/Internet-List.md)
-    - 4.5 Management
-      - [4.5.1 HR List](/Business/Management/HR-List.md)
-      - [4.5.2 Management List](/Business/Management/Management-List.md)
-    - 4.6 Product
-      - 4.6.1 Design
-        - [4.6.1.1 Design List](/Business/Product/Design/Design-List.md)
-        - 4.6.1.2 Tools
-          - [4.6.1.2.1 Sketch List](/Business/Product/Design/Tools/Sketch-List.md)
-        - 4.6.1.3 UI
-          - [4.6.1.3.1 UI List](/Business/Product/Design/UI/UI-List.md)
-      - 4.6.2 Docs
-        - [4.6.2.1 Docs List](/Business/Product/Docs/Docs-List.md)
-      - 4.6.3 Management
-        - 4.6.3.1 Agile
-          - [4.6.3.1.1 Agile List](/Business/Product/Management/Agile/Agile-List.md)
-        - [4.6.3.2 Management List](/Business/Product/Management/Management-List.md)
-        - 4.6.3.3 OpenSource
-          - [4.6.3.3.1 OpenSource List](/Business/Product/Management/OpenSource/OpenSource-List.md)
-        - 4.6.3.4 TechnicalManagement
-          - [4.6.3.4.1 TechnicalManagement List](/Business/Product/Management/TechnicalManagement/TechnicalManagement-List.md)
-      - 4.6.4 Operation
-        - [4.6.4.1 Operation List](/Business/Product/Operation/Operation-List.md)
-        - [4.6.4.2 UGC List](/Business/Product/Operation/UGC-List.md)
-      - [4.6.5 Product List](/Business/Product/Product-List.md)
-      - [4.6.6 Product OpenSource List](/Business/Product/Product-OpenSource-List.md)
-      - [4.6.7 Vision List](/Business/Product/Vision-List.md)
+    - [4.1 Business List](/Business/Business-List.md)
+    - 4.2 Finance
+      - [4.2.1 Finance List](/Business/Finance/Finance-List.md)
+      - [4.2.2 RiskControl List](/Business/Finance/RiskControl-List.md)
+    - 4.3 Industry
+      - 4.3.1 3DP
+        - [4.3.1.1 3DP List](/Business/Industry/3DP/3DP-List.md)
+      - [4.3.2 Industrial Internet List](/Business/Industry/Industrial-Internet-List.md)
+      - 4.3.3 Intelligent Manufacturing
+        - [4.3.3.1 Intelligent Manufacturing List](/Business/Industry/Intelligent-Manufacturing/Intelligent-Manufacturing-List.md)
+        - [4.3.3.2 Intelligent Manufacturing OpenSource List](/Business/Industry/Intelligent-Manufacturing/Intelligent-Manufacturing-OpenSource-List.md)
+      - [4.3.4 Internet List](/Business/Industry/Internet-List.md)
+    - 4.4 Management
+      - [4.4.1 HR List](/Business/Management/HR-List.md)
+      - [4.4.2 Management List](/Business/Management/Management-List.md)
+    - 4.5 Product
+      - 4.5.1 Design
+        - [4.5.1.1 Design List](/Business/Product/Design/Design-List.md)
+        - 4.5.1.2 Tools
+          - [4.5.1.2.1 Sketch List](/Business/Product/Design/Tools/Sketch-List.md)
+        - 4.5.1.3 UI
+          - [4.5.1.3.1 UI List](/Business/Product/Design/UI/UI-List.md)
+      - 4.5.2 Docs
+        - [4.5.2.1 Docs List](/Business/Product/Docs/Docs-List.md)
+      - 4.5.3 Operation
+        - [4.5.3.1 Operation List](/Business/Product/Operation/Operation-List.md)
+        - [4.5.3.2 UGC List](/Business/Product/Operation/UGC-List.md)
+      - [4.5.4 Product List](/Business/Product/Product-List.md)
+      - [4.5.5 Product OpenSource List](/Business/Product/Product-OpenSource-List.md)
+      - [4.5.6 Vision List](/Business/Product/Vision-List.md)
   - 5 Frontend
     - 5.1 CGDataVis
       - [5.1.1 CGDataVis List](/Frontend/CGDataVis/CGDataVis-List.md)
@@ -811,139 +751,193 @@
       - 9.12.7 VM
         - [9.12.7.1 VM List](/ProgrammingLanguage/Theory/VM/VM-List.md)
   - [10 README en](/README-en.md)
-  - 11 Specials
-    - [11.1 Awesome Specials](/Specials/Awesome-Specials.md)
-    - 11.2 Collections
-      - [11.2.1 Awesome Learnings](/Specials/Collections/Awesome-Learnings.md)
-      - [11.2.2 Awesome Names](/Specials/Collections/Awesome-Names.md)
-      - [11.2.3 Awesome Systems](/Specials/Collections/Awesome-Systems.md)
-      - [11.2.4 Awesome Vision](/Specials/Collections/Awesome-Vision.md)
-    - 11.3 Showcases
-      - [11.3.1 Awesome Codebases](/Specials/Showcases/Awesome-Codebases.md)
-      - [11.3.2 Awesome DataVis](/Specials/Showcases/Awesome-DataVis.md)
-      - [11.3.3 Awesome Designs](/Specials/Showcases/Awesome-Designs.md)
-      - [11.3.4 Coding as Vetren](/Specials/Showcases/Coding-as-Vetren.md)
-    - [11.4 Tools](/Specials/Tools/README.md)
-      - [11.4.1 Awesome Design Tools](/Specials/Tools/Awesome-Design-Tools.md)
-      - [11.4.2 Awesome Devs](/Specials/Tools/Awesome-Devs.md)
-      - [11.4.3 Awesome Documents](/Specials/Tools/Awesome-Documents.md)
-      - [11.4.4 Awesome Open APIs](/Specials/Tools/Awesome-Open-APIs.md)
-      - [11.4.5 Awesome Productivity](/Specials/Tools/Awesome-Productivity.md)
-      - [11.4.6 Awesome Sites](/Specials/Tools/Awesome-Sites.md)
-      - [11.4.7 Workbench CheatSheet.en](/Specials/Tools/Workbench-CheatSheet.en.md)
-      - [11.4.8 Workbench CheatSheet](/Specials/Tools/Workbench-CheatSheet.md)
-    - [11.5 Weekly](/Specials/Weekly/README.md)
-      - 11.5.1 
-        - 11.5.1.1 
-          - [11.5.1.1.1 ](/Specials/Weekly/2016/12/12.1.md)
-          - [11.5.1.1.2 ](/Specials/Weekly/2016/12/12.2.md)
-      - 11.5.2 
-        - 11.5.2.1 
-          - [11.5.2.1.1 ](/Specials/Weekly/2017/1/1.1.md)
-          - [11.5.2.1.2 ](/Specials/Weekly/2017/1/1.2.md)
-          - [11.5.2.1.3 ](/Specials/Weekly/2017/1/1.3.md)
-          - [11.5.2.1.4 ](/Specials/Weekly/2017/1/1.4.md)
-        - 11.5.2.2 
-          - [11.5.2.2.1 ](/Specials/Weekly/2017/10/10.1.md)
-          - [11.5.2.2.2 ](/Specials/Weekly/2017/10/10.2.md)
-          - [11.5.2.2.3 ](/Specials/Weekly/2017/10/10.3.md)
-          - [11.5.2.2.4 ](/Specials/Weekly/2017/10/10.4.md)
-        - 11.5.2.3 
-          - [11.5.2.3.1 ](/Specials/Weekly/2017/11/11.1.md)
-          - [11.5.2.3.2 ](/Specials/Weekly/2017/11/11.2.md)
-          - [11.5.2.3.3 ](/Specials/Weekly/2017/11/11.3.md)
-          - [11.5.2.3.4 ](/Specials/Weekly/2017/11/11.4.md)
-        - 11.5.2.4 
-          - [11.5.2.4.1 ](/Specials/Weekly/2017/12/12.1.md)
-          - [11.5.2.4.2 ](/Specials/Weekly/2017/12/12.2.md)
-          - [11.5.2.4.3 ](/Specials/Weekly/2017/12/12.3.md)
-          - [11.5.2.4.4 ](/Specials/Weekly/2017/12/12.4.md)
-        - 11.5.2.5 
-          - [11.5.2.5.1 Frontend](/Specials/Weekly/2017/2/2.1-Frontend.md)
-          - [11.5.2.5.2 ](/Specials/Weekly/2017/2/2.1.md)
-          - [11.5.2.5.3 Frontend](/Specials/Weekly/2017/2/2.2-Frontend.md)
-          - [11.5.2.5.4 ](/Specials/Weekly/2017/2/2.2.md)
-          - [11.5.2.5.5 ](/Specials/Weekly/2017/2/2.3.md)
-          - [11.5.2.5.6 ](/Specials/Weekly/2017/2/2.4.md)
-          - [11.5.2.5.7 ](/Specials/Weekly/2017/2/2.5.md)
-          - [11.5.2.5.8 ](/Specials/Weekly/2017/2/2.6.md)
-        - 11.5.2.6 
-          - [11.5.2.6.1 Frontend](/Specials/Weekly/2017/3/3.1-Frontend.md)
-          - [11.5.2.6.2 ](/Specials/Weekly/2017/3/3.1.md)
-          - [11.5.2.6.3 Frontend](/Specials/Weekly/2017/3/3.2-Frontend.md)
-          - [11.5.2.6.4 Frontend](/Specials/Weekly/2017/3/3.3-Frontend.md)
-          - [11.5.2.6.5 Frontend](/Specials/Weekly/2017/3/3.4-Frontend.md)
-        - 11.5.2.7 
-          - [11.5.2.7.1 Frontend](/Specials/Weekly/2017/4/4.1-Frontend.md)
-          - [11.5.2.7.2 Frontend](/Specials/Weekly/2017/4/4.2-Frontend.md)
-          - [11.5.2.7.3 Frontend](/Specials/Weekly/2017/4/4.3-Frontend.md)
-          - [11.5.2.7.4 Frontend](/Specials/Weekly/2017/4/4.4-Frontend.md)
-        - 11.5.2.8 
-          - [11.5.2.8.1 Frontend](/Specials/Weekly/2017/5/5.1-Frontend.md)
-          - [11.5.2.8.2 Frontend](/Specials/Weekly/2017/5/5.2-Frontend.md)
-          - [11.5.2.8.3 Frontend](/Specials/Weekly/2017/5/5.3-Frontend.md)
-          - [11.5.2.8.4 Frontend](/Specials/Weekly/2017/5/5.4-Frontend.md)
-        - 11.5.2.9 
-          - [11.5.2.9.1 Frontend](/Specials/Weekly/2017/6/6.1-Frontend.md)
-          - [11.5.2.9.2 Frontend](/Specials/Weekly/2017/6/6.2-Frontend.md)
-          - [11.5.2.9.3 Frontend](/Specials/Weekly/2017/6/6.3-Frontend.md)
-          - [11.5.2.9.4 Frontend](/Specials/Weekly/2017/6/6.4-Frontend.md)
-          - [11.5.2.9.5 Frontend](/Specials/Weekly/2017/6/6.5-Frontend.md)
-        - 11.5.2.10 
-          - [11.5.2.10.1 Frontend](/Specials/Weekly/2017/7/7.1-Frontend.md)
-          - [11.5.2.10.2 Frontend](/Specials/Weekly/2017/7/7.2-Frontend.md)
-          - [11.5.2.10.3 Frontend](/Specials/Weekly/2017/7/7.3-Frontend.md)
-          - [11.5.2.10.4 Frontend](/Specials/Weekly/2017/7/7.4-Frontend.md)
-          - [11.5.2.10.5 Frontend](/Specials/Weekly/2017/7/7.5-Frontend.md)
-        - 11.5.2.11 
-          - [11.5.2.11.1 ](/Specials/Weekly/2017/8/8.1.md)
-          - [11.5.2.11.2 ](/Specials/Weekly/2017/8/8.2.md)
-          - [11.5.2.11.3 ](/Specials/Weekly/2017/8/8.3.md)
-          - [11.5.2.11.4 ](/Specials/Weekly/2017/8/8.4.md)
-        - 11.5.2.12 
-          - [11.5.2.12.1 ](/Specials/Weekly/2017/9/9.1.md)
-          - [11.5.2.12.2 ](/Specials/Weekly/2017/9/9.2.md)
-          - [11.5.2.12.3 ](/Specials/Weekly/2017/9/9.3.md)
-          - [11.5.2.12.4 ](/Specials/Weekly/2017/9/9.4.md)
-          - [11.5.2.12.5 ](/Specials/Weekly/2017/9/9.5.md)
-      - 11.5.3 
-        - 11.5.3.1 
-          - [11.5.3.1.1 ](/Specials/Weekly/2018/1/1.1.md)
-          - [11.5.3.1.2 en](/Specials/Weekly/2018/1/1.2-en.md)
-          - [11.5.3.1.3 ](/Specials/Weekly/2018/1/1.2.md)
-          - [11.5.3.1.4 en](/Specials/Weekly/2018/1/1.3-en.md)
-          - [11.5.3.1.5 ](/Specials/Weekly/2018/1/1.3.md)
-          - [11.5.3.1.6 en](/Specials/Weekly/2018/1/1.4-en.md)
-          - [11.5.3.1.7 ](/Specials/Weekly/2018/1/1.4.md)
-        - 11.5.3.2 
-          - [11.5.3.2.1 en](/Specials/Weekly/2018/2/2.1-en.md)
-          - [11.5.3.2.2 ](/Specials/Weekly/2018/2/2.1.md)
-          - [11.5.3.2.3 en](/Specials/Weekly/2018/2/2.2-en.md)
-          - [11.5.3.2.4 ](/Specials/Weekly/2018/2/2.2.md)
-          - [11.5.3.2.5 en](/Specials/Weekly/2018/2/2.3-en.md)
-          - [11.5.3.2.6 ](/Specials/Weekly/2018/2/2.3.md)
-        - 11.5.3.3 
-          - [11.5.3.3.1 en](/Specials/Weekly/2018/3/3.1-en.md)
-          - [11.5.3.3.2 ](/Specials/Weekly/2018/3/3.1.md)
-          - [11.5.3.3.3 en](/Specials/Weekly/2018/3/3.2-en.md)
-          - [11.5.3.3.4 ](/Specials/Weekly/2018/3/3.2.md)
-          - [11.5.3.3.5 en](/Specials/Weekly/2018/3/3.3-en.md)
-          - [11.5.3.3.6 ](/Specials/Weekly/2018/3/3.3.md)
-          - [11.5.3.3.7 en](/Specials/Weekly/2018/3/3.4-en.md)
-          - [11.5.3.3.8 ](/Specials/Weekly/2018/3/3.4.md)
-        - 11.5.3.4 
-          - [11.5.3.4.1 en](/Specials/Weekly/2018/4/4.1-en.md)
-      - [11.5.4 ABOUT](/Specials/Weekly/ABOUT.md)
-      - [11.5.5 CONTRIBUTION](/Specials/Weekly/CONTRIBUTION.md)
-      - 11.5.6 SemiannualReport
-        - 11.5.6.1 1
-          - [11.5.6.1.1 Angular](/Specials/Weekly/SemiannualReport/2017-1/Angular.md)
-          - [11.5.6.1.2 CSS](/Specials/Weekly/SemiannualReport/2017-1/CSS.md)
-          - [11.5.6.1.3 JavaScript](/Specials/Weekly/SemiannualReport/2017-1/JavaScript.md)
-          - [11.5.6.1.4 Node](/Specials/Weekly/SemiannualReport/2017-1/Node.md)
-          - [11.5.6.1.5 PWA](/Specials/Weekly/SemiannualReport/2017-1/PWA.md)
-          - [11.5.6.1.6 React](/Specials/Weekly/SemiannualReport/2017-1/React.md)
-          - [11.5.6.1.7 Vue.js](/Specials/Weekly/SemiannualReport/2017-1/Vue.js.md)
-          - [11.5.6.1.8 WebAssembly](/Specials/Weekly/SemiannualReport/2017-1/WebAssembly.md)
-      - [11.5.7 TEMPLATE](/Specials/Weekly/TEMPLATE.md)
-      - [11.5.8 Template en](/Specials/Weekly/Template-en.md)
+  - 11 SoftwareEngineering
+    - 11.1 Agile
+      - [11.1.1 Agile List](/SoftwareEngineering/Agile/Agile-List.md)
+    - 11.2 BPM
+      - [11.2.1 BPM List](/SoftwareEngineering/BPM/BPM-List.md)
+      - [11.2.2 BPM OpenSource List](/SoftwareEngineering/BPM/BPM-OpenSource-List.md)
+    - 11.3 CMS
+      - [11.3.1 CMS List](/SoftwareEngineering/CMS/CMS-List.md)
+      - [11.3.2 CMS OpenSource List](/SoftwareEngineering/CMS/CMS-OpenSource-List.md)
+    - 11.4 Cron
+      - [11.4.1 Cron List](/SoftwareEngineering/Cron/Cron-List.md)
+    - 11.5 OpenPlatform
+      - 11.5.1 Alipay
+        - [11.5.1.1 Alipay List](/SoftwareEngineering/OpenPlatform/Alipay/Alipay-List.md)
+      - [11.5.2 OpenPlatform List](/SoftwareEngineering/OpenPlatform/OpenPlatform-List.md)
+      - 11.5.3 Wechat
+        - [11.5.3.1 Weapp List](/SoftwareEngineering/OpenPlatform/Wechat/Weapp-List.md)
+        - [11.5.3.2 Weapp OpenSource List](/SoftwareEngineering/OpenPlatform/Wechat/Weapp-OpenSource-List.md)
+        - [11.5.3.3 Wechat List](/SoftwareEngineering/OpenPlatform/Wechat/Wechat-List.md)
+    - 11.6 PM
+      - 11.6.1 Git
+        - [11.6.1.1 Git List](/SoftwareEngineering/PM/Git/Git-List.md)
+        - [11.6.1.2 Git OpenSource List](/SoftwareEngineering/PM/Git/Git-OpenSource-List.md)
+        - [11.6.1.3 Git Workflow List](/SoftwareEngineering/PM/Git/Git-Workflow-List.md)
+        - [11.6.1.4 Github List](/SoftwareEngineering/PM/Git/Github-List.md)
+      - [11.6.2 Management List](/SoftwareEngineering/PM/Management-List.md)
+      - 11.6.3 TechnicalManagement
+        - [11.6.3.1 TechnicalManagement List](/SoftwareEngineering/PM/TechnicalManagement/TechnicalManagement-List.md)
+      - [11.6.4 Workflow List](/SoftwareEngineering/PM/Workflow-List.md)
+      - [11.6.5 Workflow OpenSource List](/SoftwareEngineering/PM/Workflow-OpenSource-List.md)
+    - 11.7 RTC
+      - [11.7.1 Live List](/SoftwareEngineering/RTC/Live-List.md)
+      - [11.7.2 RTC List](/SoftwareEngineering/RTC/RTC-List.md)
+      - [11.7.3 RTC OpenSource List](/SoftwareEngineering/RTC/RTC-OpenSource-List.md)
+      - [11.7.4 WebRTC List](/SoftwareEngineering/RTC/WebRTC-List.md)
+    - 11.8 System
+      - 11.8.1 ERP
+        - [11.8.1.1 ERP List](/SoftwareEngineering/System/ERP/ERP-List.md)
+      - 11.8.2 HCM
+        - [11.8.2.1 HCM List](/SoftwareEngineering/System/HCM/HCM-List.md)
+      - 11.8.3 LBS
+        - [11.8.3.1 LBS List](/SoftwareEngineering/System/LBS/LBS-List.md)
+        - [11.8.3.2 LBS OpenSource List](/SoftwareEngineering/System/LBS/LBS-OpenSource-List.md)
+      - 11.8.4 Mall
+        - 11.8.4.1 Logistics
+          - [11.8.4.1.1 Logistics List](/SoftwareEngineering/System/Mall/Logistics/Logistics-List.md)
+        - [11.8.4.2 Mall List](/SoftwareEngineering/System/Mall/Mall-List.md)
+        - [11.8.4.3 Mall OpenSource List](/SoftwareEngineering/System/Mall/Mall-OpenSource-List.md)
+        - 11.8.4.4 Pay
+          - [11.8.4.4.1 Pay List](/SoftwareEngineering/System/Mall/Pay/Pay-List.md)
+      - 11.8.5 OA
+        - [11.8.5.1 OA List](/SoftwareEngineering/System/OA/OA-List.md)
+  - 12 Specials
+    - [12.1 Awesome Specials](/Specials/Awesome-Specials.md)
+    - 12.2 Collections
+      - [12.2.1 Awesome Learnings](/Specials/Collections/Awesome-Learnings.md)
+      - [12.2.2 Awesome Names](/Specials/Collections/Awesome-Names.md)
+      - [12.2.3 Awesome Systems](/Specials/Collections/Awesome-Systems.md)
+      - [12.2.4 Awesome Vision](/Specials/Collections/Awesome-Vision.md)
+    - 12.3 OpenSource
+      - [12.3.1 OpenSource List](/Specials/OpenSource/OpenSource-List.md)
+    - 12.4 Showcases
+      - [12.4.1 Awesome Codebases](/Specials/Showcases/Awesome-Codebases.md)
+      - [12.4.2 Awesome DataVis](/Specials/Showcases/Awesome-DataVis.md)
+      - [12.4.3 Awesome Designs](/Specials/Showcases/Awesome-Designs.md)
+      - [12.4.4 Coding as Vetren](/Specials/Showcases/Coding-as-Vetren.md)
+    - [12.5 Tools](/Specials/Tools/README.md)
+      - [12.5.1 Awesome Design Tools](/Specials/Tools/Awesome-Design-Tools.md)
+      - [12.5.2 Awesome Devs](/Specials/Tools/Awesome-Devs.md)
+      - [12.5.3 Awesome Documents](/Specials/Tools/Awesome-Documents.md)
+      - [12.5.4 Awesome Open APIs](/Specials/Tools/Awesome-Open-APIs.md)
+      - [12.5.5 Awesome Productivity](/Specials/Tools/Awesome-Productivity.md)
+      - [12.5.6 Awesome Sites](/Specials/Tools/Awesome-Sites.md)
+      - [12.5.7 Workbench CheatSheet.en](/Specials/Tools/Workbench-CheatSheet.en.md)
+      - [12.5.8 Workbench CheatSheet](/Specials/Tools/Workbench-CheatSheet.md)
+    - [12.6 Weekly](/Specials/Weekly/README.md)
+      - 12.6.1 
+        - 12.6.1.1 
+          - [12.6.1.1.1 ](/Specials/Weekly/2016/12/12.1.md)
+          - [12.6.1.1.2 ](/Specials/Weekly/2016/12/12.2.md)
+      - 12.6.2 
+        - 12.6.2.1 
+          - [12.6.2.1.1 ](/Specials/Weekly/2017/1/1.1.md)
+          - [12.6.2.1.2 ](/Specials/Weekly/2017/1/1.2.md)
+          - [12.6.2.1.3 ](/Specials/Weekly/2017/1/1.3.md)
+          - [12.6.2.1.4 ](/Specials/Weekly/2017/1/1.4.md)
+        - 12.6.2.2 
+          - [12.6.2.2.1 ](/Specials/Weekly/2017/10/10.1.md)
+          - [12.6.2.2.2 ](/Specials/Weekly/2017/10/10.2.md)
+          - [12.6.2.2.3 ](/Specials/Weekly/2017/10/10.3.md)
+          - [12.6.2.2.4 ](/Specials/Weekly/2017/10/10.4.md)
+        - 12.6.2.3 
+          - [12.6.2.3.1 ](/Specials/Weekly/2017/11/11.1.md)
+          - [12.6.2.3.2 ](/Specials/Weekly/2017/11/11.2.md)
+          - [12.6.2.3.3 ](/Specials/Weekly/2017/11/11.3.md)
+          - [12.6.2.3.4 ](/Specials/Weekly/2017/11/11.4.md)
+        - 12.6.2.4 
+          - [12.6.2.4.1 ](/Specials/Weekly/2017/12/12.1.md)
+          - [12.6.2.4.2 ](/Specials/Weekly/2017/12/12.2.md)
+          - [12.6.2.4.3 ](/Specials/Weekly/2017/12/12.3.md)
+          - [12.6.2.4.4 ](/Specials/Weekly/2017/12/12.4.md)
+        - 12.6.2.5 
+          - [12.6.2.5.1 Frontend](/Specials/Weekly/2017/2/2.1-Frontend.md)
+          - [12.6.2.5.2 ](/Specials/Weekly/2017/2/2.1.md)
+          - [12.6.2.5.3 Frontend](/Specials/Weekly/2017/2/2.2-Frontend.md)
+          - [12.6.2.5.4 ](/Specials/Weekly/2017/2/2.2.md)
+          - [12.6.2.5.5 ](/Specials/Weekly/2017/2/2.3.md)
+          - [12.6.2.5.6 ](/Specials/Weekly/2017/2/2.4.md)
+          - [12.6.2.5.7 ](/Specials/Weekly/2017/2/2.5.md)
+          - [12.6.2.5.8 ](/Specials/Weekly/2017/2/2.6.md)
+        - 12.6.2.6 
+          - [12.6.2.6.1 Frontend](/Specials/Weekly/2017/3/3.1-Frontend.md)
+          - [12.6.2.6.2 ](/Specials/Weekly/2017/3/3.1.md)
+          - [12.6.2.6.3 Frontend](/Specials/Weekly/2017/3/3.2-Frontend.md)
+          - [12.6.2.6.4 Frontend](/Specials/Weekly/2017/3/3.3-Frontend.md)
+          - [12.6.2.6.5 Frontend](/Specials/Weekly/2017/3/3.4-Frontend.md)
+        - 12.6.2.7 
+          - [12.6.2.7.1 Frontend](/Specials/Weekly/2017/4/4.1-Frontend.md)
+          - [12.6.2.7.2 Frontend](/Specials/Weekly/2017/4/4.2-Frontend.md)
+          - [12.6.2.7.3 Frontend](/Specials/Weekly/2017/4/4.3-Frontend.md)
+          - [12.6.2.7.4 Frontend](/Specials/Weekly/2017/4/4.4-Frontend.md)
+        - 12.6.2.8 
+          - [12.6.2.8.1 Frontend](/Specials/Weekly/2017/5/5.1-Frontend.md)
+          - [12.6.2.8.2 Frontend](/Specials/Weekly/2017/5/5.2-Frontend.md)
+          - [12.6.2.8.3 Frontend](/Specials/Weekly/2017/5/5.3-Frontend.md)
+          - [12.6.2.8.4 Frontend](/Specials/Weekly/2017/5/5.4-Frontend.md)
+        - 12.6.2.9 
+          - [12.6.2.9.1 Frontend](/Specials/Weekly/2017/6/6.1-Frontend.md)
+          - [12.6.2.9.2 Frontend](/Specials/Weekly/2017/6/6.2-Frontend.md)
+          - [12.6.2.9.3 Frontend](/Specials/Weekly/2017/6/6.3-Frontend.md)
+          - [12.6.2.9.4 Frontend](/Specials/Weekly/2017/6/6.4-Frontend.md)
+          - [12.6.2.9.5 Frontend](/Specials/Weekly/2017/6/6.5-Frontend.md)
+        - 12.6.2.10 
+          - [12.6.2.10.1 Frontend](/Specials/Weekly/2017/7/7.1-Frontend.md)
+          - [12.6.2.10.2 Frontend](/Specials/Weekly/2017/7/7.2-Frontend.md)
+          - [12.6.2.10.3 Frontend](/Specials/Weekly/2017/7/7.3-Frontend.md)
+          - [12.6.2.10.4 Frontend](/Specials/Weekly/2017/7/7.4-Frontend.md)
+          - [12.6.2.10.5 Frontend](/Specials/Weekly/2017/7/7.5-Frontend.md)
+        - 12.6.2.11 
+          - [12.6.2.11.1 ](/Specials/Weekly/2017/8/8.1.md)
+          - [12.6.2.11.2 ](/Specials/Weekly/2017/8/8.2.md)
+          - [12.6.2.11.3 ](/Specials/Weekly/2017/8/8.3.md)
+          - [12.6.2.11.4 ](/Specials/Weekly/2017/8/8.4.md)
+        - 12.6.2.12 
+          - [12.6.2.12.1 ](/Specials/Weekly/2017/9/9.1.md)
+          - [12.6.2.12.2 ](/Specials/Weekly/2017/9/9.2.md)
+          - [12.6.2.12.3 ](/Specials/Weekly/2017/9/9.3.md)
+          - [12.6.2.12.4 ](/Specials/Weekly/2017/9/9.4.md)
+          - [12.6.2.12.5 ](/Specials/Weekly/2017/9/9.5.md)
+      - 12.6.3 
+        - 12.6.3.1 
+          - [12.6.3.1.1 ](/Specials/Weekly/2018/1/1.1.md)
+          - [12.6.3.1.2 en](/Specials/Weekly/2018/1/1.2-en.md)
+          - [12.6.3.1.3 ](/Specials/Weekly/2018/1/1.2.md)
+          - [12.6.3.1.4 en](/Specials/Weekly/2018/1/1.3-en.md)
+          - [12.6.3.1.5 ](/Specials/Weekly/2018/1/1.3.md)
+          - [12.6.3.1.6 en](/Specials/Weekly/2018/1/1.4-en.md)
+          - [12.6.3.1.7 ](/Specials/Weekly/2018/1/1.4.md)
+        - 12.6.3.2 
+          - [12.6.3.2.1 en](/Specials/Weekly/2018/2/2.1-en.md)
+          - [12.6.3.2.2 ](/Specials/Weekly/2018/2/2.1.md)
+          - [12.6.3.2.3 en](/Specials/Weekly/2018/2/2.2-en.md)
+          - [12.6.3.2.4 ](/Specials/Weekly/2018/2/2.2.md)
+          - [12.6.3.2.5 en](/Specials/Weekly/2018/2/2.3-en.md)
+          - [12.6.3.2.6 ](/Specials/Weekly/2018/2/2.3.md)
+        - 12.6.3.3 
+          - [12.6.3.3.1 en](/Specials/Weekly/2018/3/3.1-en.md)
+          - [12.6.3.3.2 ](/Specials/Weekly/2018/3/3.1.md)
+          - [12.6.3.3.3 en](/Specials/Weekly/2018/3/3.2-en.md)
+          - [12.6.3.3.4 ](/Specials/Weekly/2018/3/3.2.md)
+          - [12.6.3.3.5 en](/Specials/Weekly/2018/3/3.3-en.md)
+          - [12.6.3.3.6 ](/Specials/Weekly/2018/3/3.3.md)
+          - [12.6.3.3.7 en](/Specials/Weekly/2018/3/3.4-en.md)
+          - [12.6.3.3.8 ](/Specials/Weekly/2018/3/3.4.md)
+        - 12.6.3.4 
+          - [12.6.3.4.1 en](/Specials/Weekly/2018/4/4.1-en.md)
+      - [12.6.4 ABOUT](/Specials/Weekly/ABOUT.md)
+      - [12.6.5 CONTRIBUTION](/Specials/Weekly/CONTRIBUTION.md)
+      - 12.6.6 SemiannualReport
+        - 12.6.6.1 1
+          - [12.6.6.1.1 Angular](/Specials/Weekly/SemiannualReport/2017-1/Angular.md)
+          - [12.6.6.1.2 CSS](/Specials/Weekly/SemiannualReport/2017-1/CSS.md)
+          - [12.6.6.1.3 JavaScript](/Specials/Weekly/SemiannualReport/2017-1/JavaScript.md)
+          - [12.6.6.1.4 Node](/Specials/Weekly/SemiannualReport/2017-1/Node.md)
+          - [12.6.6.1.5 PWA](/Specials/Weekly/SemiannualReport/2017-1/PWA.md)
+          - [12.6.6.1.6 React](/Specials/Weekly/SemiannualReport/2017-1/React.md)
+          - [12.6.6.1.7 Vue.js](/Specials/Weekly/SemiannualReport/2017-1/Vue.js.md)
+          - [12.6.6.1.8 WebAssembly](/Specials/Weekly/SemiannualReport/2017-1/WebAssembly.md)
+      - [12.6.7 TEMPLATE](/Specials/Weekly/TEMPLATE.md)
+      - [12.6.8 Template en](/Specials/Weekly/Template-en.md)
