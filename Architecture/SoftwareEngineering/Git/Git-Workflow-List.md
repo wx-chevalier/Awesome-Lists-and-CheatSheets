@@ -10,7 +10,7 @@
 
 # Gitflow
 
-- [2017- 简介我的 Git Work Flow](http://zhoulingyu.com/2017/05/08/Git-Work-Flow/)：统一的工作流程是至关重要的，不管对于哪一个行业的作业来说都一样。对于我们开发人员，工作流包含了开发时 Git 的使用规范、Repo 管理的规范、测试过程的规范、设计交互的管理规范等等。由于测试、交互等设计到更多的人员，本篇文章暂且不表，重点说 Git 的使用规范和 repo 管理的规范。
+- [2017-简介我的 Git Work Flow](http://zhoulingyu.com/2017/05/08/Git-Work-Flow/)：统一的工作流程是至关重要的，不管对于哪一个行业的作业来说都一样。对于我们开发人员，工作流包含了开发时 Git 的使用规范、Repo 管理的规范、测试过程的规范、设计交互的管理规范等等。由于测试、交互等设计到更多的人员，本篇文章暂且不表，重点说 Git 的使用规范和 repo 管理的规范。
 
 - [Gitflow 有害论](http://insights.thoughtworkers.org/gitflow-consider-harmful/)
 
@@ -18,9 +18,11 @@
 
 - [2020-Please stop recommending Git Flow!](https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/): The end, right? Well, not quite. I can tell a few of you are unconvinced by this line of reasoning, so let’s dig deeper into why the gitflow branching model should die in a fire.
 
-# Style Guide
+## Pull Request 
 
-- [2018-优雅的提交你的 Git Commit Message](https://zhuanlan.zhihu.com/p/34223150): commit message 是开发的日常操作, 写好 log 不仅有助于他人 review, 还可以有效的输出 CHANGELOG, 对项目的管理实际至关重要, 但是实际工作中却常常被大家忽略。
+- [浅谈 Pull Request 与 Change Request 研发协作模式](https://mp.weixin.qq.com/s/rIt-XkgQGrKzdKkD5NSIRA): 近期有客户需求在 Gitee 上实现类似 ChangeRequest 的需求，所以针对两种模式做一个介绍，探讨两种模式的具体适用场景。
+
+# Feature Flag
 
 # Hook
 
