@@ -44,7 +44,7 @@
 
 - [Color Hunt](https://colorhunt.co/palettes): Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes
 
-# TBD
+# Links
 
 - https://zhuanlan.zhihu.com/p/63949977
 - https://github.com/bradtraversy/design-resources-for-developers#icons

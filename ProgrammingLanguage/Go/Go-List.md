@@ -102,6 +102,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2019-learngo #Project#](https://github.com/inancgumus/learngo): A Huge Number of Go Examples, Exercises and Quizzes.
 
+- [2019- C 语言中文网-Golang 入门教程 #Series#](http://c.biancheng.net/golang/): Go 语言也称 Golang，兼具效率、性能、安全、健壮等特性。这套 Go 语言教程（Golang 教程）通俗易懂，深入浅出，既适合没有基础的读者快速入门，也适合工作多年的程序员查阅知识点。这套教程在讲解一些知识点时，将 Go 语言和其他多种语言进行对比，让掌握其它编程语言的读者能迅速理解 Go 语言的特性。
+
 - [2020-7days-golang #Series#](https://github.com/geektutu/7days-golang): 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7 天用 Go 动手写/从零实现系列。
 
 # Tutorial
@@ -122,6 +124,6 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2017-The ultimate guide to writing a Go tool ·Fatih Arslan](https://arslan.io/2017/09/14/the-ultimate-guide-to-writing-a-go-tool/)
 
-# TBD
+# Links
 
 - https://www.zhihu.com/question/23486344/answer/830242071
