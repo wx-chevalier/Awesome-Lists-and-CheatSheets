@@ -1,4 +1,4 @@
-# 电子商务资料索引
+# Mall List（电子商务资料索引）
 
 - [解密 Airbnb 的定价算法](http://www.infoq.com/cn/articles/decryption-airbnb-pricing-algorithm)
 
@@ -8,4 +8,4 @@
 
 # 红包
 
-[10 亿红包从天而降，揭秘微信摇一摇背后的技术细节](http://www.infoq.com/cn/articles/1-billion-bonus-from-the-clouds)
+- [10 亿红包从天而降，揭秘微信摇一摇背后的技术细节](http://www.infoq.com/cn/articles/1-billion-bonus-from-the-clouds)
