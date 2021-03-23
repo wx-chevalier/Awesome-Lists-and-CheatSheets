@@ -1,6 +1,18 @@
-# BPM OpenSource List
+# Business Processing Engine List
 
-# BPMN
+# Activiti
+
+- [Step by Step your First journey with Activiti](https://parg.co/Uc9)
+
+- [工作流引擎学习材料代码整理](https://gitee.com/flyPiglet/ActivitiStudy/tree/master)
+
+## Tutorial
+
+- [Activiti 工作流从入门到入土）](https://mp.weixin.qq.com/s/Uw_CZ3U1g2p0q0pgj3nIig): 完整 hello world 大比拼（API 结合实例讲解。
+
+# OpenSource
+
+## BPMN
 
 - [bpmn-js #Project#](https://github.com/bpmn-io/bpmn-js): A BPMN 2.0 rendering toolkit and web modeler.
 
@@ -8,7 +20,7 @@
 
 - [Camunda #Project#](https://docs.camunda.org/manual/7.11/): Camunda BPM is a light-weight, open-source platform for Business Process Management.
 
-# Workflow management
+## Workflow management
 
 - [Apache Airflow #Project#](https://airflow.apache.org/index.html#): Airflow is a platform to programmatically author, schedule and monitor workflows.
 
@@ -18,7 +30,7 @@
 
 - [Argo #『睿频科创园#](https://github.com/argoproj/argo): Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes. Argo Workflows is implemented as a Kubernetes CRD (Custom Resource Definition).
 
-# Rules Engine
+## Rules Engine
 
 - [Drools #Project#](https://www.drools.org/): Drools is a Business Rules Management System (BRMS) solution. It provides a core Business Rules Engine (BRE), a web authoring and rules management application (Drools Workbench) and an Eclipse IDE plugin for core development.
 
