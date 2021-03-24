@@ -97,6 +97,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 - [2018-javascript-datastructures-algorithms #Project#](https://github.com/loiane/javascript-datastructures-algorithms): collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book.
 
 - [2019-dsa.js #Project#](https://github.com/amejiarosario/dsa.js): Data Structures and Algorithms explained and implemented in JavaScript
+- [2020 - learnersbucket.com](https://learnersbucket.com): All data structures and 300+ solved algorithms expalined and implemented in Javascript.
 
 # Python
 
