@@ -50,11 +50,17 @@
 
 - [2020-Practical Python Programming #Course#](https://github.com/dabeaz-course/practical-python): The material you see here is the heart of an instructor-led Python training course used for corporate training and professional development.
 
+## Examples
+
+- [2021-GeekComputers Python Examples #Project#](https://github.com/geekcomputers/Python): This document helps to understand python in detail.And tells you More Information
+
 ## Series
 
 - [2020-Learn Python 3 #Series#](https://github.com/jerry-git/learn-python3): This repository contains a collection of materials for teaching/learning Python 3 (3.5+).
 
 - [2020-Ultimate Python study guide #Series#](https://github.com/huangsam/ultimate-python): Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍
+
+## Showcases
 
 # Tutoria | 教程
 

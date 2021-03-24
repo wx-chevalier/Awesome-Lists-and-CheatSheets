@@ -52,6 +52,8 @@
 
 - [Streamlit #Project#](https://github.com/streamlit/streamlit): Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts.
 
+- [2021-lux #Project#](https://github.com/lux-org/lux): Python API for Intelligent Visual Data Discovery
+
 ## Utils & IDE
 
 - [2020-Otto #Project#](https://github.com/KartikChugh/Otto): Otto is an intelligent chat application, designed to help aspiring machine learning engineers go from idea to implementation with minimal domain knowledge.
@@ -123,7 +125,7 @@
 - [2019-GPT2 #Project#](https://github.com/openai/gpt-2): Code and models from the paper "Language Models are Unsupervised Multitask Learners".
 
   - [2019-GPT2 Chinese #Project#](https://github.com/Morizeyao/GPT2-Chinese): Chinese version of GPT2 training code, using BERT or BPE tokenizer.
-  - [2021-gpt neo #Project#](https://github.com/EleutherAI/gpt-neo): An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow. 
+  - [2021-gpt neo #Project#](https://github.com/EleutherAI/gpt-neo): An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow.
 
 ## Classification
 
