@@ -96,3 +96,5 @@
 ## Concurrent Programming
 
 - [microjob #Project#](https://github.com/wilk/microjob): A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads.
+
+- [piscina #Project#](https://github.com/piscinajs/piscina): A fast, efficient Node.js Worker Thread Pool implementation
