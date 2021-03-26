@@ -66,6 +66,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2020-Go 语言编程之旅：一起用 Go 做项目 #Book#](https://golang2.eddycjy.com/): 本书不直接介绍 Go 语言的语法基础，内容将面向项目实践，同时会针对核心细节进行分析。而在实际项目迭代中，常常会出现或多或少的事故，因此本书也针对 Go 语言的大杀器（分析工具）以及常见问题进行了全面讲解。
 
+- [2021-Practical Go Lessons](https://www.practical-go-lessons.com): This book is about Go. My main objective is to teach you the language in a progressive way. I also tried to clarify and explain some common computer science notions that can be difficult to grasp, especially for newcomers.
+
 ## Blog
 
 - [Draveness's Blog #Blog#](https://draveness.me): 非常不错的 Go 系列博客。
@@ -80,6 +82,10 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2017-Golang Guide: A List of Top Golang Frameworks, IDEs & Tools #Collection#](https://parg.co/oGO)
 
+## Course
+
+- [2018-Beginner Solutions in Go - The Basics, Clients, and Servers #Project#](https://parg.co/oZc)
+
 ## Series
 
 - [2016-Go by Example #Series#](https://gobyexample.com/): Go by Example is a hands-on introduction to Go using annotated example programs. Check out the first example or browse the full list below.
@@ -93,12 +99,6 @@ This file aggregates curated popular links for learning Golang. More reference a
 - [2020-The Ultimate Go Study Guide #Series#](https://github.com/ardanlabs/gotraining-studyguide): The project is a collection of my notes while learning Go programming language from Ardan Labs's Ultimate Go course.
 
 - [2020-7 days golang programs from scratch #Project#](https://github.com/geektutu/7days-golang): 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7 天用 Go 动手写/从零实现系列
-
-## Course
-
-- [2018-Beginner Solutions in Go - The Basics, Clients, and Servers #Project#](https://parg.co/oZc)
-
-## Series
 
 - [2019-learngo #Project#](https://github.com/inancgumus/learngo): A Huge Number of Go Examples, Exercises and Quizzes.
 

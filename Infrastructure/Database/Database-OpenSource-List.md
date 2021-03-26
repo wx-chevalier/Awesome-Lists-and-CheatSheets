@@ -256,6 +256,8 @@
 
 - [Otter #Project#](https://github.com/alibaba/otter): 阿里巴巴分布式数据库同步系统(解决中美异地机房)
 
+- [Arc #Project#](https://arc.tripl.ai/): Arc is an opinionated framework for defining predictable, repeatable and manageable data transformation pipelines;
+
 # P2P Database
 
 - [OrbitDB #Project#](https://github.com/orbitdb/orbit-db): Peer-to-Peer Databases for the Decentralized Web.
