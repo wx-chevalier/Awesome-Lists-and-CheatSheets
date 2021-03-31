@@ -76,9 +76,13 @@
 
 - [Github Pages](): [2017-GitHub Pages and Single-Page Apps](https://dev.to/_evansalter/github-pages-and-single-page-apps)
 
+## PaaS
+
 - [now.sh]()
 
 - [CaptainDuckDuck #Project#](https://github.com/githubsaturn/captainduckduck): Easiest app/database deployment platform and webserver package for your NodeJS, Python, Java applications. No Docker, nginx knowledge required!
+
+- [Coolify #Project#](https://coollabs.io/coolify): An open-source, hassle-free, self-hostable Heroku & Netlify alternative
 
 # Others
 
