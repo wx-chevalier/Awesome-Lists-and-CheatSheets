@@ -18,6 +18,8 @@
 
 - [2019-前端开发 20 年变迁史](https://mp.weixin.qq.com/s/cDsYO1AsYXOjZVpSwBq2HA): 我们经历了前端的洪荒时代、Prototype 时代、jQuery 时代、后 jQuery 时期、三大框架割据时代，这其中均是由国外开发者主导，直到如今的小程序时代，才是中国开发者独创的。
 
+- [2021-五分钟了解互联网Web技术发展史](https://mp.weixin.qq.com/s/HUknNfaxNULc4Yvf5ajRBA): 1991年8月，第一个静态页面诞生了，这是由Tim Berners-Lee发布的，想要告诉人们什么是万维网。从静态页面到Ajax技术，从Server Side Render到React Server Components，历史的车轮滚滚向前，一个又一个技术诞生和沉寂。
+
 ## Front-end Leader | 领袖意见
 
 - [How to Keep Up To Date On Frontend Technologies](https://uptodate.frontendrescue.org/)

@@ -1,22 +1,12 @@
-# Lowcode Builder List | 可视化构建
-
-# Overview
-
-- [awesome-lowcode #Collection#](https://github.com/taowen/awesome-lowcode): 国内低代码平台从业者交流
-
-## Case Study
-
-- [2019-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742): 本文将以概览性的视角来介绍云凤蝶在 低代码+可视化搭建这条路上遇到的问题与解决方案。
-
-## Component Specification
-
-- [2019-WeComponents #Project#](https://github.com/Tencent/WeComponents): WeComponents 是一个基于通用组件语言规范 (CLS) 实现的 Vue.js 声明式组件库，写完 JSON 就做好了页面，让开发变得简单。
-
 # OpenSource
 
 - [jeecg-boot #Project#](https://github.com/zhangdaiscott/jeecg-boot): 基于代码生成器的低代码平台，超越传统商业平台！前后端分离架构：SpringBoot 2.x，SpringCloud Alibaba，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-> 代码生成-> 手工 MERGE)，帮助 Java 项目解决 70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。
 
-## Page Builder
+# Database Tool
+
+- [2020-Baserow #Project#](https://cubox.pro/c/eKXL5I): Open source no-code database tool and Airtable alternative.
+
+# Page Builder
 
 - [2015-react-ui-builder #Project#](https://github.com/Dmytro-Medzatiy/react-ui-builder): This tool is a visual builder of React JS components for your web application. In builder you can easily combine available components with each other, and see how they look and feel right on a web page.
 
@@ -86,7 +76,7 @@
 
 - [ICE #Project#](https://github.com/alibaba/ice): 飞冰 - 海量可复用物料，通过 GUI 工具极速构建中后台应用。
 
-## Flow & Code Generator
+# Logic Flow
 
 - [imove #Project#](https://github.com/imgcook/imove): Move your mouse, generate code from flow chart
 
