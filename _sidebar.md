@@ -494,8 +494,7 @@
         - [7.4.1.4 Etcd List](/Infrastructure/DistributedCoordination/Consistency/Etcd-List.md)
         - [7.4.1.5 Paxos List](/Infrastructure/DistributedCoordination/Consistency/Paxos-List.md)
         - [7.4.1.6 Raft List](/Infrastructure/DistributedCoordination/Consistency/Raft-List.md)
-        - [7.4.1.7 Replication List](/Infrastructure/DistributedCoordination/Consistency/Replication-List.md)
-        - [7.4.1.8 ZooKeeper List](/Infrastructure/DistributedCoordination/Consistency/ZooKeeper-List.md)
+        - [7.4.1.7 ZooKeeper List](/Infrastructure/DistributedCoordination/Consistency/ZooKeeper-List.md)
       - 7.4.2 DistributedTransaction
         - [7.4.2.1 DistributedLock List](/Infrastructure/DistributedCoordination/DistributedTransaction/DistributedLock-List.md)
         - [7.4.2.2 DistributedTransaction List](/Infrastructure/DistributedCoordination/DistributedTransaction/DistributedTransaction-List.md)
