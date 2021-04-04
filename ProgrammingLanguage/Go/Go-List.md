@@ -52,7 +52,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2018-Essential Go #Book#](https://www.programming-books.io/essential/go/): a free Go programming book, a continuation of Stack Overflow Documentation.
 
-- [2018-go-internals #Book#](https://github.com/teh-cmc/go-internals): go-internals is a work-in-progress book about the internals of the Go (1.10+) programming language.
+- [2018-Go Internals #Book#](https://github.com/teh-cmc/go-internals): go-internals is a work-in-progress book about the internals of the Go (1.10+) programming language.
 
 - [2018-Go 语言高级编程 #Book#](https://github.com/chai2010/advanced-go-programming-book): 开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系\统等高阶主题。
 
