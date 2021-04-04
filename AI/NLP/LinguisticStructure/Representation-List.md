@@ -17,3 +17,17 @@
 - [论文翻译章节：基于 Negative Sampling 的模型 ](http://blog.csdn.net/itplus/article/details/37998797)
 
 - [word2vec: negative sampling (in layman term)?](http://stackoverflow.com/questions/27860652/word2vec-negative-sampling-in-layman-term)
+
+- [Deep-Learning-What-is-meant-by-a-distributed-representation](https://www.quora.com/Deep-Learning/Deep-Learning-What-is-meant-by-a-distributed-representation)
+
+- [Google - Word2Vec](https://code.google.com/p/word2vec/)
+
+- [Deep Learning 实战之 word2vec](http://techblog.youdao.com/?p=915#LinkTarget_699)
+
+- [word2vector 学习笔记(一)](http://blog.csdn.net/lingerlanlan/article/details/38048335)
+
+- [词向量和语言模型](http://licstar.net/archives/328#s20)
+
+- [关于多个词向量算法的实现对比](https://github.com/licstar/compare)
+
+- [斯坦福深度学习课程第二弹：词向量内部和外部任务评价](https://zhuanlan.zhihu.com/p/21391710)
