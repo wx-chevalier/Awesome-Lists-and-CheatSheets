@@ -106,7 +106,7 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 # Sites
 
-- 资讯聚合：[HackerNews](https://news.ycombinator.com/news)、[Reddit](https://www.reddit.com/)、[Google+](plus.google.com)、[推酷](tuicool.com)、[TechMeme](https://www.techmeme.com/)、[V2EX](https://www.v2ex.com/)、[DZone](dzone.com)、[掘金](https://gold.xitu.io/)、[开发者头条](https://toutiao.io/)、[InfoQ](https://www.infoq.cn/)
+- 资讯聚合：[HackerNews](https://news.ycombinator.com/news)、[Reddit](https://www.reddit.com/)、[Google+](plus.google.com)、[推酷](tuicool.com)、[TechMeme](https://www.techmeme.com/)、[V2EX](https://www.v2ex.com/)、[DZone](dzone.com)、[掘金](https://gold.xitu.io/)、[开发者头条](https://toutiao.io/)、[InfoQ](https://www.infoq.cn/)、[]()
 
 - 技术书籍：[Gitbook](https://www.gitbook.com/)、[SafariBooksOnline](https://www.safaribooksonline.com/)
 
