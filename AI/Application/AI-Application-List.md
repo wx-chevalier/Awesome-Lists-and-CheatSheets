@@ -7,3 +7,5 @@
 - [The End of Monolithic Deep Learning](https://medium.com/intuitionmachine/the-end-of-monolithic-deep-learning-86937c86bc1f#.e544h2bin)
 
 - [机器学习的平台化发展趋势](https://zhuanlan.zhihu.com/p/24512393)
+
+- [2021-太真实了！工业界AI项目落地血泪教训总结](https://cubox.pro/c/plxrJm): 本文从作者的经历和经验教训展开，阐述了在AI项目研发中的各个环节的重要细节点，展现了一个AI项目到最终落地繁琐的过程。

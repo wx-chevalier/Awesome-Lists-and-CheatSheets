@@ -1,4 +1,4 @@
-# Backend List
+# System List
 
 本文是对于服务端应用程序开发与系统架构领域中高可用系统搭建相关资料进行整理，更多的其他相关优秀资料可以参考笔者的 [AwesomeList](http://6me.us/qvPQ) 系列，其他的还包括[追求技术之上的进阶阅读学习索引](https://zhuanlan.zhihu.com/p/25642783)、[机器学习、深度学习与自然语言处理领域推荐的书籍列表](https://zhuanlan.zhihu.com/p/25612011)等等。随着公司业务的发展与终端用户的增加，保证系统的高可用性也日渐成为团队考虑的重要因素。
 
@@ -15,6 +15,8 @@
 - [C1000K-Servers #Project#](https://github.com/smallnest/C1000K-Servers): High performance websocket servers implemented by Spray-can, Netty, undertow, jetty, Vert.x, Grizzly, node.js and Go. It supports 1,200,000 active websocket connections.
 
 # Overview
+
+- [2014-Software Architecture #Series#](https://cubox.pro/c/yS7SUx): Software architecture and software design are two aspects of the same topic. Both are about how software is structured in order to perform its tasks. The term "software architecture" typically refers to the bigger structures of a software system, whereas "software design" typically refers to the smaller structures.
 
 ## Case Study
 
