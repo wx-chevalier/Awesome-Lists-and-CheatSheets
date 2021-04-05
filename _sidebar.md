@@ -499,8 +499,7 @@
         - [7.4.2.1 DistributedLock List](/Infrastructure/DistributedCoordination/DistributedTransaction/DistributedLock-List.md)
         - [7.4.2.2 DistributedTransaction List](/Infrastructure/DistributedCoordination/DistributedTransaction/DistributedTransaction-List.md)
     - 7.5 DistributedSchedule
-      - [7.5.1 BPM List](/Infrastructure/DistributedSchedule/BPM-List.md)
-      - [7.5.2 Cron List](/Infrastructure/DistributedSchedule/Cron-List.md)
+      - [7.5.1 Cron List](/Infrastructure/DistributedSchedule/Cron-List.md)
     - 7.6 DistributedStorage
       - 7.6.1 Blockchain
         - [7.6.1.1 Bitcoin List](/Infrastructure/DistributedStorage/Blockchain/Bitcoin-List.md)
