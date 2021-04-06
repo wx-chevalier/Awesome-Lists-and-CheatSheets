@@ -20,7 +20,7 @@
 
 - [2021-五分钟了解互联网Web技术发展史](https://mp.weixin.qq.com/s/HUknNfaxNULc4Yvf5ajRBA): 1991年8月，第一个静态页面诞生了，这是由Tim Berners-Lee发布的，想要告诉人们什么是万维网。从静态页面到Ajax技术，从Server Side Render到React Server Components，历史的车轮滚滚向前，一个又一个技术诞生和沉寂。
 
-## Front-end Leader | 领袖意见
+## Vision | 领袖意见
 
 - [How to Keep Up To Date On Frontend Technologies](https://uptodate.frontendrescue.org/)
 
@@ -30,7 +30,7 @@
 
 ## Book | 书籍
 
-- [2017-Front-End Developer Handbook 2017 #Book#](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+- [2017-Front End Developer Handbook 2017 #Book#](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
 
 - [2017-Spellbook of Modern Web Dev #Book#](https://parg.co/bv9): A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 
@@ -38,7 +38,9 @@
 
 - [2018-MaintainableCSS #Book#](https://maintainablecss.com/): Write CSS without worrying that overzealous, pre-existing styles will cause problems. MaintainableCSS is an approach to writing modular, scalable and maintainable CSS.
 
-- [CSS GuideLines #Book#](http://cssguidelin.es/): 免费的电子书，教你如何编写高质量可维护的 CSS 代码
+- [CSS GuideLines #Book#](http://cssguidelin.es/): 免费的电子书，教你如何编写高质量可维护的 CSS 代码。
+
+- [2021-Web Browser Engineering #Book#](https://browser.engineering/index.html): Web browsers are ubiquitous, but how do they work? This book explains, building a basic but complete web browser, from networking to JavaScript, in a thousand lines of Python.
 
 ### React
 
