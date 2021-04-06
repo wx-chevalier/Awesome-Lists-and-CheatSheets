@@ -6,8 +6,6 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2017-The beauty of Go](https://hackernoon.com/the-beauty-of-go-98057e3f0a7d): So if you’re an engineer or a startup trying to decide what language you want to explore or try out, do give Go a serious thought.
 
-- [2017-为什么说 2017 年你必须要学习 Go 了](http://mp.weixin.qq.com/s/hQLUjvttTPgfd9qO1l-i6A)
-
 - [2018-Golang 工程经验](https://juejin.im/post/5a6873fb518825733e60a1ae): 转战 Golang 一年有余，经历了两个线上项目的洗礼，总结出一些工程经验，一个是总结出一些实战经验，一个是用来发现自我不足之处。
 
 - [2018-Go: the Good, the Bad and the Ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/#go-is-easy-to-learn): Go does have some nice features, hence the "The Good" part in this post, but overall I find it cumbersome and painful to use when we go beyond API or network server.
@@ -52,7 +50,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2018-Essential Go #Book#](https://www.programming-books.io/essential/go/): a free Go programming book, a continuation of Stack Overflow Documentation.
 
-- [2018-go-internals #Book#](https://github.com/teh-cmc/go-internals): go-internals is a work-in-progress book about the internals of the Go (1.10+) programming language.
+- [2018-Go Internals #Book#](https://github.com/teh-cmc/go-internals): go-internals is a work-in-progress book about the internals of the Go (1.10+) programming language.
 
 - [2018-Go 语言高级编程 #Book#](https://github.com/chai2010/advanced-go-programming-book): 开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系\统等高阶主题。
 
@@ -66,7 +64,11 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2020-Go 语言编程之旅：一起用 Go 做项目 #Book#](https://golang2.eddycjy.com/): 本书不直接介绍 Go 语言的语法基础，内容将面向项目实践，同时会针对核心细节进行分析。而在实际项目迭代中，常常会出现或多或少的事故，因此本书也针对 Go 语言的大杀器（分析工具）以及常见问题进行了全面讲解。
 
-- [2021-Practical Go Lessons](https://www.practical-go-lessons.com): This book is about Go. My main objective is to teach you the language in a progressive way. I also tried to clarify and explain some common computer science notions that can be difficult to grasp, especially for newcomers.
+- [2020-Go 语言原本 #Book#](https://golang.design/under-the-hood/): 本书就是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍。
+
+- [2021-Practical Go Lessons #Book#](https://www.practical-go-lessons.com): This book is about Go. My main objective is to teach you the language in a progressive way. I also tried to clarify and explain some common computer science notions that can be difficult to grasp, especially for newcomers.
+
+- [2021-Go 语言高性能编程 #Book#](https://geektutu.com/post/high-performance-go.html): 通过学习一些著名的开源项目和 Go 的源码，也掌握了很多编程的技巧，知道怎么写才能获得更好的性能。这些技巧是零散的，我一直希望能够将这些技巧系统地整理出来，不断地完善，最终形成一本高性能编程的指南。因此，开启了 Go 语言高性能编程 这个电子书项目。这个项目刚起步，处于一个逐步完善的过程，与各位童鞋共勉。
 
 ## Blog
 
@@ -100,8 +102,6 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2020-7 days golang programs from scratch #Project#](https://github.com/geektutu/7days-golang): 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7 天用 Go 动手写/从零实现系列
 
-- [2019-learngo #Project#](https://github.com/inancgumus/learngo): A Huge Number of Go Examples, Exercises and Quizzes.
-
 - [2019- C 语言中文网-Golang 入门教程 #Series#](http://c.biancheng.net/golang/): Go 语言也称 Golang，兼具效率、性能、安全、健壮等特性。这套 Go 语言教程（Golang 教程）通俗易懂，深入浅出，既适合没有基础的读者快速入门，也适合工作多年的程序员查阅知识点。这套教程在讲解一些知识点时，将 Go 语言和其他多种语言进行对比，让掌握其它编程语言的读者能迅速理解 Go 语言的特性。
 
 - [2020-7days-golang #Series#](https://github.com/geektutu/7days-golang): 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7 天用 Go 动手写/从零实现系列。
@@ -123,6 +123,10 @@ This file aggregates curated popular links for learning Golang. More reference a
 - [2018-How to start a Go project in 2018](https://boyter.org/posts/how-to-start-go-project-2018/): Getting started with a Go project in 2018 is frankly a little more painful then getting anything else started IMHO.
 
 - [2017-The ultimate guide to writing a Go tool ·Fatih Arslan](https://arslan.io/2017/09/14/the-ultimate-guide-to-writing-a-go-tool/)
+
+## Example
+
+- [2019-learngo #Project#](https://github.com/inancgumus/learngo): A Huge Number of Go Examples, Exercises and Quizzes.
 
 # Links
 
