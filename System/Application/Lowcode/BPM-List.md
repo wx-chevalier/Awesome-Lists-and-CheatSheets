@@ -8,6 +8,4 @@
 
 ## Tutorial
 
-- [Activiti 工作流从入门到入土）](https://mp.weixin.qq.com/s/Uw_CZ3U1g2p0q0pgj3nIig): 完整 hello world 大比拼（API 结合实例讲解。
-
-# 规则引擎
+- [Activiti 工作流从入门到入土）](https://mp.weixin.qq.com/s/Uw_CZ3U1g2p0q0pgj3nIig): 完整 hello world 大比拼（API 结合实例讲解。  
