@@ -68,6 +68,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2021-Practical Go Lessons #Book#](https://www.practical-go-lessons.com): This book is about Go. My main objective is to teach you the language in a progressive way. I also tried to clarify and explain some common computer science notions that can be difficult to grasp, especially for newcomers.
 
+- [2021-Go 语言高性能编程 #Book#](https://geektutu.com/post/high-performance-go.html): 通过学习一些著名的开源项目和 Go 的源码，也掌握了很多编程的技巧，知道怎么写才能获得更好的性能。这些技巧是零散的，我一直希望能够将这些技巧系统地整理出来，不断地完善，最终形成一本高性能编程的指南。因此，开启了 Go 语言高性能编程 这个电子书项目。这个项目刚起步，处于一个逐步完善的过程，与各位童鞋共勉。
+
 ## Blog
 
 - [Draveness's Blog #Blog#](https://draveness.me): 非常不错的 Go 系列博客。
