@@ -376,11 +376,11 @@
         - 7.1.3.3 Rocket
           - [7.1.3.3.1 Rocket List](/Infrastructure/Cloud/Container/Rocket/Rocket-List.md)
       - 7.1.4 Orchestration
-        - 7.1.4.1 Kubernetes
-          - [7.1.4.1.1 Kubernetes Architecture List](/Infrastructure/Cloud/Orchestration/Kubernetes/Kubernetes-Architecture-List.md)
-          - [7.1.4.1.2 Kubernetes Deployment List](/Infrastructure/Cloud/Orchestration/Kubernetes/Kubernetes-Deployment-List.md)
-          - [7.1.4.1.3 Kubernetes List](/Infrastructure/Cloud/Orchestration/Kubernetes/Kubernetes-List.md)
-          - [7.1.4.1.4 Kubernetes Practices List](/Infrastructure/Cloud/Orchestration/Kubernetes/Kubernetes-Practices-List.md)
+        - 7.1.4.1 K8s
+          - [7.1.4.1.1 K8s Architecture List](/Infrastructure/Cloud/Orchestration/K8s/K8s-Architecture-List.md)
+          - [7.1.4.1.2 K8s Deployment List](/Infrastructure/Cloud/Orchestration/K8s/K8s-Deployment-List.md)
+          - [7.1.4.1.3 K8s List](/Infrastructure/Cloud/Orchestration/K8s/K8s-List.md)
+          - [7.1.4.1.4 K8s Practices List](/Infrastructure/Cloud/Orchestration/K8s/K8s-Practices-List.md)
         - 7.1.4.2 Mesos
           - [7.1.4.2.1 Mesos List](/Infrastructure/Cloud/Orchestration/Mesos/Mesos-List.md)
         - [7.1.4.3 Orchestration List](/Infrastructure/Cloud/Orchestration/Orchestration-List.md)
