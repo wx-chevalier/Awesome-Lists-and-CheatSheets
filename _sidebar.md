@@ -706,8 +706,7 @@
     - 11.2 Collections
       - [11.2.1 Awesome Learnings](/Specials/Collections/Awesome-Learnings.md)
       - [11.2.2 Awesome Names](/Specials/Collections/Awesome-Names.md)
-      - [11.2.3 Awesome Systems](/Specials/Collections/Awesome-Systems.md)
-      - [11.2.4 Awesome Vision](/Specials/Collections/Awesome-Vision.md)
+      - [11.2.3 Awesome Vision](/Specials/Collections/Awesome-Vision.md)
     - 11.3 Showcases
       - [11.3.1 Awesome Codebases](/Specials/Showcases/Awesome-Codebases.md)
       - [11.3.2 Awesome DataVis](/Specials/Showcases/Awesome-DataVis.md)
@@ -864,20 +863,21 @@
         - [12.1.7.3 RTC OpenSource List](/System/Application/RTC/RTC-OpenSource-List.md)
         - [12.1.7.4 WebRTC List](/System/Application/RTC/WebRTC-List.md)
     - 12.2 DevOps
-      - 12.2.1 Automation
-        - [12.2.1.1 Automation List](/System/DevOps/Automation/Automation-List.md)
-      - 12.2.2 CD
-        - [12.2.2.1 CI List](/System/DevOps/CD/CI-List.md)
-        - [12.2.2.2 Delivery List](/System/DevOps/CD/Delivery-List.md)
-      - [12.2.3 DevOps List](/System/DevOps/DevOps-List.md)
-      - [12.2.4 DevOps OpenSource List](/System/DevOps/DevOps-OpenSource-List.md)
-      - 12.2.5 LogAggregation
-        - [12.2.5.1 Flume List](/System/DevOps/LogAggregation/Flume-List.md)
-        - [12.2.5.2 LogAggregation List](/System/DevOps/LogAggregation/LogAggregation-List.md)
-      - 12.2.6 MonitorAlert
-        - [12.2.6.1 APM List](/System/DevOps/MonitorAlert/APM-List.md)
-        - [12.2.6.2 Aggregation List](/System/DevOps/MonitorAlert/Aggregation-List.md)
-        - [12.2.6.3 MonitorAlert List](/System/DevOps/MonitorAlert/MonitorAlert-List.md)
+      - [12.2.1 AIOps List](/System/DevOps/AIOps-List.md)
+      - 12.2.2 Automation
+        - [12.2.2.1 Automation List](/System/DevOps/Automation/Automation-List.md)
+      - 12.2.3 CD
+        - [12.2.3.1 CI List](/System/DevOps/CD/CI-List.md)
+        - [12.2.3.2 Delivery List](/System/DevOps/CD/Delivery-List.md)
+      - [12.2.4 DevOps List](/System/DevOps/DevOps-List.md)
+      - [12.2.5 DevOps OpenSource List](/System/DevOps/DevOps-OpenSource-List.md)
+      - 12.2.6 LogAggregation
+        - [12.2.6.1 Flume List](/System/DevOps/LogAggregation/Flume-List.md)
+        - [12.2.6.2 LogAggregation List](/System/DevOps/LogAggregation/LogAggregation-List.md)
+      - 12.2.7 MonitorAlert
+        - [12.2.7.1 APM List](/System/DevOps/MonitorAlert/APM-List.md)
+        - [12.2.7.2 Aggregation List](/System/DevOps/MonitorAlert/Aggregation-List.md)
+        - [12.2.7.3 MonitorAlert List](/System/DevOps/MonitorAlert/MonitorAlert-List.md)
     - 12.3 HA
       - [12.3.1 Cache List](/System/HA/Cache-List.md)
       - [12.3.2 HA List](/System/HA/HA-List.md)

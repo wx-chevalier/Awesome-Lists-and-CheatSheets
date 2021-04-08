@@ -26,22 +26,38 @@
 
 # Resource
 
-## Book & Series
+## Book
 
 - [2016-架构师特刊-微服务与 DevOps 技术内参 #Book#](http://q.infoqstatic.com/ppt/Microservice&DevOps.pdf)
 
 - [2016-Production Ready Microservices #Book#](https://parg.co/U6C): Susan Fowler presents a set of microservice standards in depth, drawing from her experience standardizing over a thousand microservices at Uber. You’ll learn how to design microservices that are stable, reliable, scalable, fault tolerant, performant, monitored, documented, and prepared for any catastrophe.
 
-- [2017-Re：从 0 开始的微服务架构 #Series#](http://www.infoq.com/cn/minibooks/microservice--from-zero): 系列文章就是将以上过程给大家做个分享，不深究概念，不深入细节，只希望能够对微服务架构能够有一个相对全面的认识，从而能够帮助大家成功落地微服务架构。
-
 - [2017-Microservice Patterns #Book#](https://microservices.io/patterns/index.html): A pattern language for microservices
 
 - [2017-The System Design Primer #Book#](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep for the system design interview.
 
-## Video
-
 ## Collection
 
-- [微服务经典文章大汇总](http://mp.weixin.qq.com/s?__biz=MzA3MDg4Nzc2NQ==&mid=504649826&idx=1&sn=6a9a2f98f3be076e234d9758ce87f656#rd)
-
 - [2018-从 Spring Cloud 开始，聊聊微服务架构实践之路](http://mp.weixin.qq.com/s/DZQU4s9YNx4fXsfwu5whIg): 平台的技术架构也完成了从传统的单体应用到微服务化的演进。
+
+- [2017-The System Design Primer #Collection#](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+
+- [互联网公司经典技术架构 #Collection#](https://github.com/davideuler/architecture.of.internet-product#): 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay 的架构。
+
+- [2018-Awesome Scalability, Availability, and Stability Back-end Design Patterns #Collection#](https://github.com/binhnguyennus/awesome-scalability): A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development.
+
+- [2020-Clone Wars #Collection#](https://github.com/GorvGoyl/Clone-Wars): 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+
+- [2020-Awesome CTO #Collection#](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers and VP R&D, with the emphasis on startups and hyper-growth companies.
+
+## Video
+
+## Series
+
+- [2017-Re：从 0 开始的微服务架构 #Series#](http://www.infoq.com/cn/minibooks/microservice--from-zero): 系列文章就是将以上过程给大家做个分享，不深究概念，不深入细节，只希望能够对微服务架构能够有一个相对全面的认识，从而能够帮助大家成功落地微服务架构。
+
+# Giants
+
+## Netflix
+
+- [2020-全面解析 Netflix 的微服务架构设计](https://mp.weixin.qq.com/s/6BDCuZU_GDIvdLtLR9HzKg): 本文描绘了 Netflix 流媒体服务的整体云架构图景，并从可用性、延迟、可扩展性和对网络系统或系统中断的适应性方面分析了系统的设计。
