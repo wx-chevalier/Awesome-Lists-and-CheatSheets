@@ -2,12 +2,6 @@
 
 - [2017-React Internals](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/): In this five part series, we will “recreate” React from the ground up, learning how it works along the way. Once we’ve finished, you should have a good grasp of how React works, and when and why it calls the various lifecycle methods of a component.
 
-- [2017-Understanding The React Source Code #Series#](https://parg.co/UVD): From time to time, I was curious about how React works internally, hence this article.
-
-- [2017-Didact](https://github.com/hexacta/didact): This repository goes together with a series of posts that explains how to build React from scratch step by step.
-
-- [2018-Gooact: React in 160 lines of JavaScript](https://parg.co/Y5s): How to build own React clone in a matter of minutes.
-
 - [2019-React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/): This is a deep dive — THIS IS NOT a beginner-friendly post. In this post, I’m describing most of the React programming model from first principles. I don’t explain how to use it — just how it works.
 
 - [React 源码剖析系列 － 解密 setState](https://zhuanlan.zhihu.com/p/20328570?refer=purerender)

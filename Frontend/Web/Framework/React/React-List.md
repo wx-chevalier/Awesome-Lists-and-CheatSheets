@@ -62,7 +62,7 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 ## Series
 
-- [2017-Under-the-hood-ReactJS #Series#](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS): Entire ReactJS code base explanation by visual block schemes (Stack+Fiber versions)
+- [2017-Under the hood ReactJS #Series#](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS): Entire ReactJS code base explanation by visual block schemes (Stack+Fiber versions)
 
 # Tutorial | 教程
 

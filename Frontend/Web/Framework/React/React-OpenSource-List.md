@@ -2,13 +2,19 @@
 
 More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-chevalier/Awesome-Lists/blob/master/Web/Widgets/Web-Widgets-List.md).
 
-## Showcase
+# Showcase
 
 - [2018-react kanban #Project#](https://github.com/yogaboll/react-kanban): A Trello-like application built with React and Redux.
 
 - [2018-devhub #Project#](https://github.com/devhubapp/devhub): DevHub: TweetDeck for GitHub - Android, iOS, Web & Desktop
 
 - [x #Project#](https://github.com/DustinBrett/x): Desktop environment in the browser.
+
+## Scratch
+
+- [2017-Didact #Project#](https://github.com/hexacta/didact): This repository goes together with a series of posts that explains how to build React from scratch step by step.
+
+- [2018-Gooact: React in 160 lines of JavaScript #Project#](https://parg.co/Y5s): How to build own React clone in a matter of minutes.
 
 # Development Tools | 开发工具
 
