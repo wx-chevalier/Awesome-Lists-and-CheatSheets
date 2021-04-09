@@ -199,6 +199,12 @@
 
 - [PaddleGAN #Project#](https://github.com/PaddlePaddle/PaddleGAN): PaddlePaddle GAN library, including lots of interesting applications like DeepFake First-Order motion transfer, Mai-ha-hi（蚂蚁呀嘿), faceswap wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
 
+## 图像分类
+
+- [Nsfw JS #Project#](https://github.com/infinitered/nsfwjs): A simple JavaScript library to help you quickly identify unseemly images; all in the client's browser. NSFWJS isn't perfect, but it's pretty accurate (~90% from our test set of 15,000 test images)... and it's getting more accurate all the time.
+
+- [DeepCreamPy #Project#](https://github.com/deeppomf/DeepCreamPy): A deep learning-based tool to automatically replace censored artwork in hentai with plausible reconstructions.
+
 ## OCR
 
 - [Tess4j #Project#](https://github.com/nguyenq/tess4j): Java JNA wrapper for Tesseract OCR API.
@@ -215,6 +221,8 @@
 
 ## Object Detection
 
+### 动作识别
+
 - [2017-Detectron #Project#](https://github.com/facebookresearch/Detectron): Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN.
 
 - [2017-Multi Object Tracker #Project#](https://github.com/adipandas/multi-object-tracker): Object detection using deep learning and multi-object tracking.
@@ -222,6 +230,28 @@
 - [2018-OpenPose #Project#](https://github.com/CMU-Perceptual-Computing-Lab/openpose): Real-time multi-person keypoint detection library for body, face, hands, and foot estimation.
 
 - [2021-CLIP #Project#](https://github.com/openai/CLIP): CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a variety of (image, text) pairs.
+
+- [yolov5 #Project#](https://github.com/ultralytics/yolov5): This repository represents Ultralytics open-source research into future object detection methods, and incorporates our lessons learned and best practices evolved over training thousands of models on custom client datasets with our previous YOLO repository.
+
+- [Handtrack.js #Project#](https://victordibia.github.io/handtrack.js/#/): 它可以让开发人员使用经过训练的手部检测模型快速创建手势交互原型。
+
+### 人脸检测
+
+- [2018-pico.js #Project#](https://github.com/tehnokv/picojs): a face-detection library in 200 lines of JavaScript
+
+- [face-api.js #Project#](): JavaScript API for Face Recognition in the Browser with tensorflow.js.
+
+- [2018-Faceswap #Project#](https://github.com/deepfakes/faceswap): Faceswap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.
+
+- [2019-faceai #Project#](https://github.com/vipstone/faceai): 一款入门级的人脸、视频、文字检测以及识别的项目。
+
+- [SeetaFace #Project#](https://github.com/seetafaceengine/SeetaFace2): Open source, full stack face recognization toolkit.
+
+- [2019-超轻量级人脸检测模型 #Project#](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB): 该模型设计是针对边缘计算设备或低算力设备(如用 ARM 推理)设计的实时超轻量级通用人脸检测模型，可以在低算力设备中如用 ARM 进行实时的通用场景的人脸检测推理，同样适用于移动端、PC。
+
+- [2020-Face Depixelizer #Project#](https://github.com/tg-bomze/Face-Depixelizer): Face Depixelizer based on "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models" repository.
+
+- [2020-FaceX Zoo #Project#](https://github.com/JDAI-CV/FaceX-Zoo): FaceX-Zoo is a PyTorch toolbox for face recognition. It provides a training module with various supervisory heads and backbones towards state-of-the-art face recognition, as well as a standardized evaluation module which enables to evaluate the models in most of the popular benchmarks just by editing a simple configuration.
 
 ## Video
 

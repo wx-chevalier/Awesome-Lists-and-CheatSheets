@@ -38,30 +38,6 @@
 
 - [image-background-remove-tool #Project#](https://github.com/OPHoperHPO/image-background-remove-tool): 🥧 A tool for removing background from photos with neural networks 🥧。
 
-## 特征识别
-
-- [yolov5 #Project#](https://github.com/ultralytics/yolov5): This repository represents Ultralytics open-source research into future object detection methods, and incorporates our lessons learned and best practices evolved over training thousands of models on custom client datasets with our previous YOLO repository.
-
-- [Handtrack.js #Project#](https://victordibia.github.io/handtrack.js/#/): 它可以让开发人员使用经过训练的手部检测模型快速创建手势交互原型。
-
-- [2018-pico.js #Project#](https://github.com/tehnokv/picojs): a face-detection library in 200 lines of JavaScript
-
-- [face-api.js #Project#](): JavaScript API for Face Recognition in the Browser with tensorflow.js.
-
-- [2018-Faceswap #Project#](https://github.com/deepfakes/faceswap): Faceswap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.
-
-- [2019-faceai #Project#](https://github.com/vipstone/faceai): 一款入门级的人脸、视频、文字检测以及识别的项目。
-
-- [SeetaFace #Project#](https://github.com/seetafaceengine/SeetaFace2): Open source, full stack face recognization toolkit.
-
-- [2019-超轻量级人脸检测模型 #Project#](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB): 该模型设计是针对边缘计算设备或低算力设备(如用 ARM 推理)设计的实时超轻量级通用人脸检测模型，可以在低算力设备中如用 ARM 进行实时的通用场景的人脸检测推理，同样适用于移动端、PC。
-
-- [2020-Face Depixelizer #Project#](https://github.com/tg-bomze/Face-Depixelizer): Face Depixelizer based on "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models" repository.
-
-- [Nsfw JS #Project#](https://github.com/infinitered/nsfwjs): A simple JavaScript library to help you quickly identify unseemly images; all in the client's browser. NSFWJS isn't perfect, but it's pretty accurate (~90% from our test set of 15,000 test images)... and it's getting more accurate all the time.
-
-- [DeepCreamPy #Project#](https://github.com/deeppomf/DeepCreamPy): A deep learning-based tool to automatically replace censored artwork in hentai with plausible reconstructions.
-
 ## 人像处理
 
 - [2018-FastPhotoStyle #Project#](https://github.com/NVIDIA/FastPhotoStyle): This code repository contains an implementation of our fast photorealistic style transfer algorithm.
