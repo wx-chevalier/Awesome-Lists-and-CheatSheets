@@ -84,6 +84,8 @@
 
 - [2019-Papercups #Project#](https://github.com/papercups-io/papercups): Open-source live customer chat
 
+- [2020-chaskiq #Project#](https://github.com/chaskiq/chaskiq): A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
+
 ## Ticket && Help Desk
 
 - [2017-Zammad #Project#](https://github.com/zammad/zammad): Zammad is a web based open source helpdesk/customer support system.
