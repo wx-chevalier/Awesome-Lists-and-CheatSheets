@@ -8,7 +8,7 @@
 
 - [2019-Financial-Models-Numerical-Methods #Series#](https://github.com/cantaro86/Financial-Models-Numerical-Methods): Collection of notebooks about quantitative finance, with interactive python code.
 
-# Project
+# OpenSource 
 
 - [riskquant #Project#](https://github.com/Netflix-Skunkworks/riskquant): A library to assist in quantifying risk.
 
