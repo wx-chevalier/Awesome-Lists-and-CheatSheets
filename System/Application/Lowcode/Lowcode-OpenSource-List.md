@@ -1,16 +1,18 @@
 # OpenSource
 
+# MIS & Report | 信息系统与报表
+
+- [2020-Baserow #Project#](https://cubox.pro/c/eKXL5I): Open source no-code database tool and Airtable alternative.
+
+- [2017-amis #Project#](https://github.com/baidu/amis): 一种基于特定 JSON 格式生成 MIS 页面的工具。
+
 - [jeecg-boot #Project#](https://github.com/zhangdaiscott/jeecg-boot): 基于代码生成器的低代码平台，超越传统商业平台！前后端分离架构：SpringBoot 2.x，SpringCloud Alibaba，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-> 代码生成-> 手工 MERGE)，帮助 Java 项目解决 70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。
 
 - [appsmith #Project#](https://github.com/appsmithorg/appsmith): Build beautiful admin panels, dashboards, and CRUD apps that connect to any API or database. Try it at: https://app.appsmith.com Open source and self-hosting friendly.
 
-# Database Tool
-
-- [2020-Baserow #Project#](https://cubox.pro/c/eKXL5I): Open source no-code database tool and Airtable alternative.
+- [2021-JimuReport #Project#](https://github.com/zhangdaiscott/JimuReport): 一款免费的数据可视化工具，报表与大屏设计！类似于 excel 操作风格，在线拖拽完成报表设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，永久免费！
 
 # Page Builder
-
-- [2015-react-ui-builder #Project#](https://github.com/Dmytro-Medzatiy/react-ui-builder): This tool is a visual builder of React JS components for your web application. In builder you can easily combine available components with each other, and see how they look and feel right on a web page.
 
 - [2016-Structor #Project#](https://github.com/ipselon/structor): Install Components > Prototype UI > Generate Source Code > Build Application.
 
@@ -26,9 +28,9 @@
 
 - [BuildIO/builder #Project#](https://github.com/BuilderIO/builder): Drag and drop page building using your code components.
 
-- [craft.js #Project#](https://github.com/prevwong/craft.js): 🚀 A React Framework for building extensible drag and drop page editors .
+- [2020-craft.js #Project#](https://github.com/prevwong/craft.js): 🚀 A React Framework for building extensible drag and drop page editors .
 
-- [react-visual-editor #Project#](https://github.com/anye931123/react-visual-editor): 基于 React 的可视化编辑,组件自由拖拽，dom 实时追踪，组件无限制嵌套组合，不添加多余节点，可完美还原 UI 设计，多平台支持，代码生成，实时预览。
+- [2020-brick design #Project#](https://github.com/brick-design/brick-design): 全场景流式布局，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示，实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
 
 ## Utils
 
@@ -40,17 +42,7 @@
 
 - [layoutit #Project#](https://www.layoutit.com/grid): An interactive CSS Grid builder.
 
-## H5
-
-- [luban-h5 #Project#](https://github.com/ly525/luban-h5): A mobile page builder/editor, similar with amolink.
-
-- [Dooring #Project#](https://github.com/MrXujiang/h5-Dooring): (H5 编辑器)H5-Dooring 是一款功能强大，开源免费的 H5 可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的 H5 落地页最佳实践。技术栈以 react 为主，后台采用 nodejs 开发.
-
-## MIS
-
-- [2017-amis #Project#](https://github.com/baidu/amis): 一种基于特定 JSON 格式生成 MIS 页面的工具。
-
-### Form Builder
+## Form Builder
 
 - [json-editor #Project#](https://github.com/json-editor/json-editor): JSON Schema Based Editor
 
@@ -75,6 +67,12 @@
 - [json-schema-to-typescript #Project#](https://github.com/bcherny/json-schema-to-typescript): Compile json schema to typescript typings.
 
 - [ts-json-schema-generator #Project#](https://github.com/vega/ts-json-schema-generator): Generate JSON schema from your Typescript sources.
+
+## H5
+
+- [luban-h5 #Project#](https://github.com/ly525/luban-h5): A mobile page builder/editor, similar with amolink.
+
+- [Dooring #Project#](https://github.com/MrXujiang/h5-Dooring): (H5 编辑器)H5-Dooring 是一款功能强大，开源免费的 H5 可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的 H5 落地页最佳实践。技术栈以 react 为主，后台采用 nodejs 开发.
 
 ## Materials | 物料
 
@@ -113,4 +111,3 @@
 - [Easy Rules #Project#](https://github.com/j-easy/easy-rules): it provides the Rule abstraction to create rules with conditions and actions, and the RulesEngine API that runs through a set of rules to evaluate conditions and execute actions.
 
 - [json-rules-engine #Project#](https://github.com/CacheControl/json-rules-engine): json-rules-engine is a powerful, lightweight rules engine. Rules are composed of simple json structures, making them human readable and easy to persist.
-

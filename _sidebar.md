@@ -158,6 +158,7 @@
     - 3.2 Finance
       - [3.2.1 Finance List](/Business/Finance/Finance-List.md)
       - [3.2.2 RiskControl List](/Business/Finance/RiskControl-List.md)
+      - [3.2.3 投研 List](/Business/Finance/投研-List.md)
     - 3.3 Industry
       - 3.3.1 3DP
         - [3.3.1.1 3DP List](/Business/Industry/3DP/3DP-List.md)
