@@ -2,7 +2,7 @@
 
 # Showcase
 
-- [2020-20+ Web Projects With Vanilla JavaScript #Project#](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries.
+- [2020-vanillawebprojects #Project#](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 
 - [YesPlayMusic #Project#](https://github.com/qier222/YesPlayMusic): 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
