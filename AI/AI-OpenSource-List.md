@@ -217,7 +217,9 @@
 
 - [keras-ocr #Project#](https://github.com/faustomorales/keras-ocr): A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
 
-- [PaddleOCR #Project#](https://github.com/PaddlePaddle/PaddleOCR): Awesome OCR toolkits based on PaddlePaddle（8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）.
+- [2019-PaddleOCR #Project#](https://github.com/PaddlePaddle/PaddleOCR): Awesome OCR toolkits based on PaddlePaddle（8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）.
+
+- [2020-mmocr #Project#](https://github.com/open-mmlab/mmocr): OpenMMLab Text Detection, Recognition and Understanding Toolbox
 
 ## Object Detection
 
