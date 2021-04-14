@@ -8,25 +8,27 @@
 
 - [2017-Apache Kafka Goes 1.0](https://www.confluent.io/blog/apache-kafka-goes-1-0/): The feature set and the broad deployments all speak of a stable and Enterprise-ready product, which leads to an important step we are taking with this release: as of today, Apache Kafka is going 1.0!
 
-## Engineering Practices
-
-- [2017-View Counting at Reddit](https://parg.co/bJE): Reddit’s data pipeline is primarily oriented around Apache Kafka. When a user views a post, an event gets fired and sent to an event collector server, which batches the events and persists them into Kafka.
-
 # Resouces
 
 ## Collection
 
 - [Awesome Kafka](https://github.com/infoslack/awesome-kafka#books)
 
+## Series
+
+- [Benchmarking Kafka Performance #Series#](https://hackernoon.com/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1)：a series that explores Kafka performance on multiple public cloud providers. [Part 1: Write Throughput](https://hackernoon.com/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1)
+
 # Tutorial
 
 - [Kafka 实战：简单实例](http://www.cnblogs.com/smartloli/p/4543211.html)
 
-- [Benchmarking Kafka Performance #Series#](https://hackernoon.com/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1)：a series that explores Kafka performance on multiple public cloud providers. [Part 1: Write Throughput](https://hackernoon.com/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1)
-
 ## Message Queue
 
 - [2017-Using Kafka as a message queue](https://softwaremill.com/using-kafka-as-a-message-queue/): In this post I’d like to outline a possible implementation of a Kafka-based Message Queue.
+
+## Engineering Practices
+
+- [2017-View Counting at Reddit](https://parg.co/bJE): Reddit’s data pipeline is primarily oriented around Apache Kafka. When a user views a post, an event gets fired and sent to an event collector server, which batches the events and persists them into Kafka.
 
 # Internals
 
