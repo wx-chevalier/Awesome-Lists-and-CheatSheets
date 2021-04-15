@@ -157,6 +157,8 @@
 
 - [2019-Project DeepSpeech #Project#](https://github.com/mozilla/DeepSpeech): A TensorFlow implementation of Baidu's DeepSpeech architecture.
 
+- [2020-TTS #Project#](https://github.com/mozilla/TTS): TTS is a library for advanced Text-to-Speech generation. It's built on the latest research, was designed to achieve the best trade-off among ease-of-training, speed and quality. TTS comes with pretrained models, tools for measuring dataset quality and already used in 20+ languages for products and research projects.
+
 ## Dialogue System & Bot
 
 - [2018-DeepPavlov #Project#](https://github.com/deepmipt/DeepPavlov): An open source library for building end-to-end dialog systems and training chatbots.
