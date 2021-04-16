@@ -108,6 +108,8 @@
 
 - [Thanos #Project#](https://thanos.io/): Open source, highly available Prometheus setup with long term storage capabilities.
 
+- [2020-Kvass #Project#](https://cubox.pro/c/v794lW): Kvass 是一个 Prometheus 横向扩缩容解决方案，他使用Sidecar动态得根据Coordinator分配下来的target列表来为每个Prometheus生成只含特定target的配置文件，从而将采集任务动态调度到各个Prometheus分片。 Coordinator 用于服务发现，target调度和分片扩缩容管理. Thanos (或者其他TSDB) 用来将分片数据汇总成全局数据.
+
 ## APM
 
 - [perf-tools #Project#](https://github.com/brendangregg/perf-tools): A miscellaneous collection of in-development and unsupported performance analysis tools for Linux ftrace and perf_events (aka the "perf" command).

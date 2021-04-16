@@ -118,6 +118,8 @@
 
 - [2020-MiNLP #Project#](https://github.com/XiaoMi/MiNLP): 小米自然语言处理平台（MiNLP）具备词法、句法、语义分析等数十个功能模块，已经在公司业务中得到了广泛应用。
 
+- [2020-fastNLP #Project#](https://cubox.pro/c/2M8iji): fastNLP 是一款轻量级的自然语言处理（NLP）工具包。你既可以用它来快速地完成一个NLP任务， 也可以用它在研究中快速构建更复杂的模型。
+
 ## Language Representation
 
 - [2018-BERT #Project#](https://github.com/google-research/bert): BERT is method of pre-training language representations, meaning that we train a general-purpose "language understanding" model on a large text corpus (like Wikipedia), and then use that model for downstream NLP tasks that we care about (like question answering). [海量中文预训练 ALBERT 模型](https://github.com/brightmart/albert_zh)。
