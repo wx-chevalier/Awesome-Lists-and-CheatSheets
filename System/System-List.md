@@ -55,9 +55,3 @@
 ## Series
 
 - [2017-Re：从 0 开始的微服务架构 #Series#](http://www.infoq.com/cn/minibooks/microservice--from-zero): 系列文章就是将以上过程给大家做个分享，不深究概念，不深入细节，只希望能够对微服务架构能够有一个相对全面的认识，从而能够帮助大家成功落地微服务架构。
-
-# Giants
-
-## Netflix
-
-- [2020-全面解析 Netflix 的微服务架构设计](https://mp.weixin.qq.com/s/6BDCuZU_GDIvdLtLR9HzKg): 本文描绘了 Netflix 流媒体服务的整体云架构图景，并从可用性、延迟、可扩展性和对网络系统或系统中断的适应性方面分析了系统的设计。
