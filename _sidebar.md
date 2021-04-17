@@ -577,21 +577,6 @@
       - [8.3.2 UGC List](/Product/Operation/UGC-List.md)
     - [8.4 Product List](/Product/Product-List.md)
     - [8.5 Product OpenSource List](/Product/Product-OpenSource-List.md)
-    - 8.6 SoftwareEngineering
-      - 8.6.1 Agile
-        - [8.6.1.1 Agile List](/Product/SoftwareEngineering/Agile/Agile-List.md)
-      - 8.6.2 Git
-        - [8.6.2.1 Git List](/Product/SoftwareEngineering/Git/Git-List.md)
-        - [8.6.2.2 Git OpenSource List](/Product/SoftwareEngineering/Git/Git-OpenSource-List.md)
-        - [8.6.2.3 Git Workflow List](/Product/SoftwareEngineering/Git/Git-Workflow-List.md)
-        - [8.6.2.4 Github List](/Product/SoftwareEngineering/Git/Github-List.md)
-      - 8.6.3 OpenSource
-        - [8.6.3.1 OpenSource List](/Product/SoftwareEngineering/OpenSource/OpenSource-List.md)
-      - 8.6.4 TechnicalManagement
-        - [8.6.4.1 TechnicalManagement List](/Product/SoftwareEngineering/TechnicalManagement/TechnicalManagement-List.md)
-      - 8.6.5 Workflow
-        - [8.6.5.1 Workflow List](/Product/SoftwareEngineering/Workflow/Workflow-List.md)
-        - [8.6.5.2 Workflow OpenSource List](/Product/SoftwareEngineering/Workflow/Workflow-OpenSource-List.md)
   - 9 ProgrammingLanguage
     - 9.1 Assembly
       - [9.1.1 Assembly List](/ProgrammingLanguage/Assembly/Assembly-List.md)
@@ -924,8 +909,23 @@
         - [12.4.10.1 Istio List](/System/MicroCN/ServiceMesh/Istio-List.md)
         - [12.4.10.2 Serverless List](/System/MicroCN/ServiceMesh/Serverless-List.md)
         - [12.4.10.3 ServiceMesh List](/System/MicroCN/ServiceMesh/ServiceMesh-List.md)
-    - [12.5 System List](/System/System-List.md)
-    - 12.6 Test
-      - [12.6.1 PerformanceTest List](/System/Test/PerformanceTest-List.md)
-      - [12.6.2 Test List](/System/Test/Test-List.md)
-      - [12.6.3 Test OpenSource List](/System/Test/Test-OpenSource-List.md)
+    - 12.5 SoftwareEngineering
+      - 12.5.1 Agile
+        - [12.5.1.1 Agile List](/System/SoftwareEngineering/Agile/Agile-List.md)
+      - 12.5.2 Git
+        - [12.5.2.1 Git List](/System/SoftwareEngineering/Git/Git-List.md)
+        - [12.5.2.2 Git OpenSource List](/System/SoftwareEngineering/Git/Git-OpenSource-List.md)
+        - [12.5.2.3 Git Workflow List](/System/SoftwareEngineering/Git/Git-Workflow-List.md)
+        - [12.5.2.4 Github List](/System/SoftwareEngineering/Git/Github-List.md)
+      - 12.5.3 OpenSource
+        - [12.5.3.1 OpenSource List](/System/SoftwareEngineering/OpenSource/OpenSource-List.md)
+      - 12.5.4 TechnicalManagement
+        - [12.5.4.1 TechnicalManagement List](/System/SoftwareEngineering/TechnicalManagement/TechnicalManagement-List.md)
+      - 12.5.5 Workflow
+        - [12.5.5.1 Workflow List](/System/SoftwareEngineering/Workflow/Workflow-List.md)
+        - [12.5.5.2 Workflow OpenSource List](/System/SoftwareEngineering/Workflow/Workflow-OpenSource-List.md)
+    - [12.6 System List](/System/System-List.md)
+    - 12.7 Test
+      - [12.7.1 PerformanceTest List](/System/Test/PerformanceTest-List.md)
+      - [12.7.2 Test List](/System/Test/Test-List.md)
+      - [12.7.3 Test OpenSource List](/System/Test/Test-OpenSource-List.md)
