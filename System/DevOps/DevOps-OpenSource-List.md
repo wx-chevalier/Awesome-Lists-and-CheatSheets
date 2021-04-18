@@ -8,6 +8,8 @@
 
 - [Ledge #Project#](https://gitee.com/phodal/ledge): DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、操作手册、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
 
+- [Backstage #Project#](https://github.com/spotify/backstage#getting-started): Backstage is an open platform for building developer portals. Powered by a centralized service catalog, Backstage restores order to your microservices and infrastructure. So your product teams can ship high-quality code quickly — without compromising autonomy.
+
 # Automation | 自动化
 
 - [Terraform #Project#](https://www.terraform.io/): Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently.
@@ -108,7 +110,7 @@
 
 - [Thanos #Project#](https://thanos.io/): Open source, highly available Prometheus setup with long term storage capabilities.
 
-- [2020-Kvass #Project#](https://cubox.pro/c/v794lW): Kvass 是一个 Prometheus 横向扩缩容解决方案，他使用Sidecar动态得根据Coordinator分配下来的target列表来为每个Prometheus生成只含特定target的配置文件，从而将采集任务动态调度到各个Prometheus分片。 Coordinator 用于服务发现，target调度和分片扩缩容管理. Thanos (或者其他TSDB) 用来将分片数据汇总成全局数据.
+- [2020-Kvass #Project#](https://cubox.pro/c/v794lW): Kvass 是一个 Prometheus 横向扩缩容解决方案，他使用 Sidecar 动态得根据 Coordinator 分配下来的 target 列表来为每个 Prometheus 生成只含特定 target 的配置文件，从而将采集任务动态调度到各个 Prometheus 分片。 Coordinator 用于服务发现，target 调度和分片扩缩容管理. Thanos (或者其他 TSDB) 用来将分片数据汇总成全局数据.
 
 ## APM
 

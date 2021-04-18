@@ -202,3 +202,8 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 # Awesome Guides
 
 - [2020-Teach Yourself Computer Science](https://github.com/keithnull/TeachYourselfCS-CN): If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program 💸.
+
+# Links
+
+- https://www.zhihu.com/question/316844185/answer/878083148 有什么在线的编程游戏？
+- https://github.com/sdmg15/Best-websites-a-programmer-should-visit

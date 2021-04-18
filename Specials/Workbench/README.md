@@ -89,12 +89,3 @@
 # Others
 
 - [2019-Motrix #Project#](https://github.com/agalwood/Motrix): Motrix is a full-featured download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, Baidu Net Disk, etc.
-
-# More
-
-- Linux OpenSource List
-- Network OpenSource List
-- MicroService OpenSource List
-- Media OpenSource List
-- Product OpenSource List
-- IM OpenSource List

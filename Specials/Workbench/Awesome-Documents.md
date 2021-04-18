@@ -4,6 +4,8 @@
 
 - 资源检索：[鸠摩搜索](http://t.cn/RG07GHI)、[布克书屋](http://t.cn/AiEso12y)、[三秋书屋](http://t.cn/AiQ0uTv9)
 
+- [2018-SciHubEVA #Project#](https://github.com/leovan/SciHubEVA): Sci-Hub EVA is a cross-platform Sci-Hub GUI application.
+
 # Editor
 
 ## Note Taking App
