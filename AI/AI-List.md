@@ -113,3 +113,7 @@
 - [想知道机器学习掌握的怎么样了吗？这有一份自测题(附答案和解析)](https://yq.aliyun.com/articles/64929)
 
 - [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews): Data science interview questions and answers.
+
+# Links
+
+- https://github.com/louisfb01/start-machine-learning-in-2020 Start Machine Learning in 2021 - Become an expert for free!

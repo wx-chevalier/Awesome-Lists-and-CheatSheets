@@ -925,7 +925,8 @@
         - [12.5.5.1 Workflow List](/System/SoftwareEngineering/Workflow/Workflow-List.md)
         - [12.5.5.2 Workflow OpenSource List](/System/SoftwareEngineering/Workflow/Workflow-OpenSource-List.md)
     - [12.6 System List](/System/System-List.md)
-    - 12.7 Test
-      - [12.7.1 PerformanceTest List](/System/Test/PerformanceTest-List.md)
-      - [12.7.2 Test List](/System/Test/Test-List.md)
-      - [12.7.3 Test OpenSource List](/System/Test/Test-OpenSource-List.md)
+    - [12.7 System OpenSource List](/System/System-OpenSource-List.md)
+    - 12.8 Test
+      - [12.8.1 PerformanceTest List](/System/Test/PerformanceTest-List.md)
+      - [12.8.2 Test List](/System/Test/Test-List.md)
+      - [12.8.3 Test OpenSource List](/System/Test/Test-OpenSource-List.md)

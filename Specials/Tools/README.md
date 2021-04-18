@@ -52,8 +52,6 @@
 
 - [RunKit #Project#](https://runkit.com/home): RunKit notebooks completely remove the friction of trying new ideas.
 
-# Self-hosted Service
-
 # 绘图（Draw）
 
 - [PlantUML #Project#](https://github.com/plantuml/plantuml): Generate UML diagram from textual description. [C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML)
