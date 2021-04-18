@@ -21,3 +21,7 @@
 # AWS
 
 - [2017-Anatomy of a Serverless Application](https://serverless.com/blog/anatomy-of-a-serverless-app/): In this post, I'll walk you through how to get up and running on your first application.
+
+# OpenSource 
+
+- [2021-EasyFaaS #Project#](https://github.com/baidu/EasyFaaS): EasyFaaS是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎。

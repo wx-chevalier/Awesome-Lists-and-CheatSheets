@@ -50,7 +50,7 @@
 
 - [React Form Builder #Project#](https://github.com/blackjk3/react-form-builder): A complete react form builder that interfaces with a json endpoint to load and save generated forms. The toolbox contains 16 items for gathering data. Everything from star ratings to signature boxes!
 
-- [2019-form-render #Project#](https://github.com/alibaba/form-render): 🏄 跨组件体系的表单渲染引擎 - 通过 JSON Schema 快速生成自定义表单配置界面。
+- [2019-x-render #Project#](https://github.com/alibaba/x-render): 🚴‍♀️ 飞猪中后台开箱即用解决方案
 
 ### Json Schema
 
