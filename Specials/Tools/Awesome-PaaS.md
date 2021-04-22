@@ -42,10 +42,6 @@
 
 - [2020-Calendso #Project#](https://github.com/calendso/calendso): The open-source Calendly alternative.
 
-# Dev Docs
-
-- [devdocs](http://devdocs.io/): 这里集合了大量的在线的文档，同时 DevDocs 还支持离线浏览，主要是依靠 IndexDB 将数据存放在浏览器的本地缓存中。
-
 # Workflow
 
 - [Prefect #Project#](https://www.prefect.io/products/core/): The prefect Python library includes everything you need to design, build, test, and run powerful data applications. Instantly upgrade your existing code with workflow best practices, and use the Prefect UI to orchestrate and monitor everything.

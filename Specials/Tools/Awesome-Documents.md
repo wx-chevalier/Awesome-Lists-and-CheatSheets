@@ -100,6 +100,6 @@
 
 - [Paged.js #Project#](https://www.pagedjs.org/): Paged.js is a free and open-source library that paginates any HTML content to produce beautiful print-ready PDF. The library fragments the content, reads your CSS print declarations and presents a paginated preview in your browser that you can save as PDF.
 
-# Resume
+# Dev Docs
 
-- [Reactive Resume](https://rx-resume.web.app/):
+- [devdocs](http://devdocs.io/): 这里集合了大量的在线的文档，同时 DevDocs 还支持离线浏览，主要是依靠 IndexDB 将数据存放在浏览器的本地缓存中。
