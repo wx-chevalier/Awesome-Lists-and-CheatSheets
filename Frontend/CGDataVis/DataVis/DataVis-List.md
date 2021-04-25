@@ -6,6 +6,8 @@
 
 - [2019-AMiner 人工智能之可视化研究报告](https://static.aminer.cn/misc/pdf/visualization.pdf): 本章节从阐述可视化基本概念出发，简要介绍可视化的发展历程、研究内容、设计原则与设计标准。
 
+- [2019-What Do We Talk About When We Talk About Dashboards?](https://alper.datav.is/publications/dashboards/): In this paper, we explore the genre of dashboards through a two-prong approach. 
+
 # Resource
 
 ## Case Study
