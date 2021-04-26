@@ -1,6 +1,8 @@
 # Vue.js OpenSouce List
 
-- [Vue 前端框架比较](http://6me.us/5E8wN)：本文是对常用的基于 Vue 的前端框架的比较。( http://6me.us/5E8wN )
+# Showcase
+
+- [2020-mini-vue #Project#](https://github.com/cuixiaorui/mini-vue): Implement the simplest vue3 model for in-depth study of vue3 source code
 
 - [基于 Vue2 与 Element-UI 的管理系统模板](https://github.com/lin-xin/manage-system)：基于 Vue 2.x 系列 + Element UI 的后台管理系统解决方案。
 

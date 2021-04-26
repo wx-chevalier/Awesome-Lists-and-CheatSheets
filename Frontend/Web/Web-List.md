@@ -18,7 +18,7 @@
 
 - [2019-前端开发 20 年变迁史](https://mp.weixin.qq.com/s/cDsYO1AsYXOjZVpSwBq2HA): 我们经历了前端的洪荒时代、Prototype 时代、jQuery 时代、后 jQuery 时期、三大框架割据时代，这其中均是由国外开发者主导，直到如今的小程序时代，才是中国开发者独创的。
 
-- [2021-五分钟了解互联网Web技术发展史](https://mp.weixin.qq.com/s/HUknNfaxNULc4Yvf5ajRBA): 1991年8月，第一个静态页面诞生了，这是由Tim Berners-Lee发布的，想要告诉人们什么是万维网。从静态页面到Ajax技术，从Server Side Render到React Server Components，历史的车轮滚滚向前，一个又一个技术诞生和沉寂。
+- [2021-五分钟了解互联网 Web 技术发展史](https://mp.weixin.qq.com/s/HUknNfaxNULc4Yvf5ajRBA): 1991 年 8 月，第一个静态页面诞生了，这是由 Tim Berners-Lee 发布的，想要告诉人们什么是万维网。从静态页面到 Ajax 技术，从 Server Side Render 到 React Server Components，历史的车轮滚滚向前，一个又一个技术诞生和沉寂。
 
 ## Vision | 领袖意见
 
@@ -70,6 +70,8 @@
 
 - [2018-How JavaScript works #Blog#](https://blog.sessionstack.com/tagged/tutorial): the series dedicated to exploring JavaScript and its building components. In the process of identifying and describing the core elements, we also share some rules of thumb we use when building SessionStack.
 
+- [2019-前端精读 #Blog#](https://github.com/ascoders/weekly): 前端精读周刊。帮你理解最前沿、实用的技术。
+
 ## Collection
 
 - [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook): Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore.
@@ -80,7 +82,9 @@
 
 - [2018-Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap): Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops.
 
-- [2020-fe-interview](https://github.com/haizlin/fe-interview): 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上 5 点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖。
+- [2020-fe interview](https://github.com/haizlin/fe-interview): 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上 5 点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖。
+
+- [2020-frontend-challenges #Project#](https://github.com/felipefialho/frontend-challenges): 💥 Listing some playful open-source's challenges of jobs to test your knowledge
 
 ## Course | 课程
 
