@@ -46,6 +46,8 @@
 
 - [2018-Awesome Scalability, Availability, and Stability Back-end Design Patterns #Collection#](https://github.com/binhnguyennus/awesome-scalability): A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development.
 
+- [2018-The Architecture of Open Source Applications #Collection#](https://cubox.pro/c/V0ffbT): Our goal is to change that. In these two books, the authors of four dozen open source applications explain how their software is structured, and why. What are each program's major components? How do they interact? And what did their builders learn during their development? In answering these questions, the contributors to these books provide unique insights into how they think.
+
 - [2020-Clone Wars #Collection#](https://github.com/GorvGoyl/Clone-Wars): 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 
 - [2020-Awesome CTO #Collection#](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers and VP R&D, with the emphasis on startups and hyper-growth companies.
