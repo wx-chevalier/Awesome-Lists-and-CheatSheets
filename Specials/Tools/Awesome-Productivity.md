@@ -24,7 +24,7 @@
 
 - [Deskreen #Project#](https://github.com/pavlobu/deskreen): Deskreen turns any device with a web browser to a second screen for your computer
 
-## Agent & Assistant
+# Agent & Assistant
 
 - [2019-Huginn #Project#](https://github.com/huginn/huginn/): Huginn is a system for building agents that perform automated tasks for you online.
 
@@ -32,6 +32,6 @@
 
 - [2019-Neko #Project#](https://github.com/nurdism/neko): A self hosted virtual browser (rabb.it clone) that runs in docker. This uses web rtc to stream a desktop inside of a docker container, I made this because rabb.it went under and my internet can't handle streaming and discord keeps crashing.
 
-# Links
+## Photo
 
-- [DevOps-OpenSource-List](./)
+- [PhotoPrism #Project#](https://github.com/photoprism/photoprism): Personal Photo Management powered by Go and Google TensorFlow.
