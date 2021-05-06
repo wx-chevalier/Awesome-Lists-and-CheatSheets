@@ -20,6 +20,10 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 # Resource
 
+## Blog
+
+- [程序员进阶之算法练习 #Series#](https://cloud.tencent.com/developer/article/1365773)
+
 ## Book
 
 - [2011-编程之法：面试和算法心得 #Book#](https://github.com/julycoding/The-Art-Of-Programming-By-July): 原编程艺术系列从 2011 年 4 月至今，写了 42 个编程问题，在创作的过程当中，得到了很多朋友的支持，特别是博客上随时都会有朋友不断留言，或提出改进建议，或 show 出自己的思路、代码，或指正 bug。为更好的改进、优化、增补编程艺术系列，特把博客上的这个程序员编程艺术系列和博客内其它部分经典文章同步到此，成立本项目。
@@ -36,24 +40,6 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [labuladong 的算法小抄 #Book#](https://labuladong.gitbook.io/algo/): 本网站目前可以手把手带你解决 150 道 LeetCode 算法问题，而且在不断更新，全部基于 LeetCode 的题目，涵盖了所有题型和技巧。我已经把在每篇文章的开头加上了该文章可以解决的 LeetCode 题目链接，可以看完文章立即去拿下对应题目。
 
-## Course | 课程
-
-## Leetcode
-
-- [2018-LeetCode All in One 讲解汇总](http://www.goodtecher.com/zh/leetcode%E8%AE%B2%E8%A7%A3%E6%B1%87%E6%80%BB/): 大家好，这里是 GoodTecher LeetCode 题目讲解汇总表。
-
-- [LeetCodeAnimation #Project#](https://github.com/MisterBooo/LeetCodeAnimation): Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解 LeetCode 题目的思路）
-
-- [Python & Java Solutions for Leetcode (inspired by haoel's leetcode)](https://github.com/qiyuangong/leetcode)
-
-- [LeetCode Algorithm in C++](https://github.com/haoel/leetcode)
-
-- [fucking-algorithm #Project#](https://github.com/labuladong/fucking-algorithm): 手把手撕 LeetCode 题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
-
-## Blog
-
-- [程序员进阶之算法练习 #Series#](https://cloud.tencent.com/developer/article/1365773)
-
 ## Collection
 
 - [2018-algorithms #Project#](https://github.com/marcosfede/algorithms): Solved algorithms and data structures problems in many languages.
@@ -65,6 +51,22 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 - [2019-algo #Project#](https://github.com/wangzheng0822/algo): 数据结构和算法必知必会的 50 个代码实现。
 
 - [Algorithm Visualizer #Project#](https://github.com/algorithm-visualizer/algorithm-visualizer): Interactive Online Platform that Visualizes Algorithms from Code.
+
+### Leetcode
+
+- [2018-LeetCode All in One 讲解汇总](http://www.goodtecher.com/zh/leetcode%E8%AE%B2%E8%A7%A3%E6%B1%87%E6%80%BB/): 大家好，这里是 GoodTecher LeetCode 题目讲解汇总表。
+
+- [LeetCodeAnimation #Project#](https://github.com/MisterBooo/LeetCodeAnimation): Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解 LeetCode 题目的思路）
+
+- [Python & Java Solutions for Leetcode (inspired by haoel's leetcode)](https://github.com/qiyuangong/leetcode)
+
+- [LeetCode Algorithm in C++](https://github.com/haoel/leetcode)
+
+- [fucking-algorithm #Project#](https://github.com/labuladong/fucking-algorithm): 手把手撕 LeetCode 题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
+
+- [2021-doocs/leetcode #Project#](https://github.com/doocs/leetcode): 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+
+## Course | 课程
 
 # C++
 

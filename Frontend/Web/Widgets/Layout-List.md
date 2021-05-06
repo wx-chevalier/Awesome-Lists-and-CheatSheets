@@ -25,3 +25,5 @@
 # Tiling Window Manager
 
 - [react-mosaic #Project#](https://github.com/nomcopter/react-mosaic): A React tiling window manager.
+
+- [WinBox #Project#](https://github.com/nextapps-de/winbox): WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
