@@ -1,6 +1,8 @@
 # Mobile List
 
-- [2018-Flutter : From Zero To Comfortable](https://parg.co/Ug6): The biggest benefit of using Flutter is that it directly generates the ARM binaries which will execute directly on the native platform running it faster.
+# Resource
+
+- [2020-Building Mobile Apps at Scale: 39 Engineering Challenges #Book#](https://www.mobileatscale.com/): The missing guide for building large, iOS, and Android native apps -with the challenges and common solutions across the industry.
 
 # 热修复
 

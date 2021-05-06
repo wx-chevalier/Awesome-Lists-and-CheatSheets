@@ -8,6 +8,10 @@
 
 - [2018-为什么 Flutter 会选择 Dart](https://infoq.cn/article/why-flutter-uses-dart): 这与 Flutter 和 Dart 有什么关系？确实有关系。早期的 Flutter 团队评估了十多种语言，并选择了 Dart，因为它符合他们构建用户界面的方式。
 
+- [2018-Flutter : From Zero To Comfortable](https://parg.co/Ug6): The biggest benefit of using Flutter is that it directly generates the ARM binaries which will execute directly on the native platform running it faster.
+
+# Resource
+
 ## Book
 
 - [GSYFlutterBook #Project#](https://github.com/CarGuo/GSYFlutterBook): Flutter 完整开发实战详解系列，GSY Flutter 系列专栏整合，不定期更新
@@ -17,8 +21,6 @@
 - [2018-We Rebuilt a React Native App with Flutter](https://blog.geekyants.com/we-rebuilt-a-react-native-app-with-flutter-4160f0499a82): In this post I will talk about Google’s Flutter by comparing it’s Language Stack, UI, Style and other things with that of React Native.
 
 - [2018-Flutter 混合工程改造实践](https://m.aliyun.com/yunqi/articles/607939?spm=5176.11156381.0.0.5e9f6bb7RSbpdX): 本文针对项目实践人员给出了一种通用的工程改造方案，希望为准备转型 Flutter 的团队提供参考。
-
-## Showcase
 
 # Tutorial
 
