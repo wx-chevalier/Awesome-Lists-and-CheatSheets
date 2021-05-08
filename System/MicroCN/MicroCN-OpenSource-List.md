@@ -16,7 +16,7 @@
 
 - [2018-Træfik #Project#](https://github.com/containous/traefik): Træfik (pronounced like traffic) is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
 
-- [2018-Soul #Project#](https://github.com/dromara/soul): High-Performance Java API Gateway.
+- [2018-ShenYu #Project#](https://github.com/dromara/shenyu): High-Performance Java API Gateway.
 
 ## Load Balancer
 
