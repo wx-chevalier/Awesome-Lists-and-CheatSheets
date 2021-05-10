@@ -12,6 +12,8 @@
 
 - [Lens #Project#](https://github.com/lensapp/lens): Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It is a standalone application for MacOS, Windows and Linux operating systems. It is open source and free.
 
+- [2021-pixie #Project#](https://github.com/pixie-labs/pixie): Instant Kubernetes-Native Application Observability
+
 ## Distribution
 
 - [2019-k3s #Project#](https://github.com/rancher/k3s): Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb.

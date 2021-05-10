@@ -74,10 +74,6 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [Crowdsec #Project#](https://github.com/crowdsecurity/crowdsec): Crowdsec is an open-source, lightweight software, detecting peers with aggressive behaviors to prevent them from accessing your systems. Its user friendly design and assistance offers a low technical barrier of entry and nevertheless a high security gain.
 
-## JumpServer
-
-- [Jump Server #Project#](https://github.com/jumpserver/jumpserver): Jumpserver 是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。
-
 # Cryptology（加密）
 
 - [age #Project#](https://github.com/FiloSottile/age): A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
@@ -183,6 +179,10 @@ List of Security Archives Tools and software, generally for facilitate security 
 - [TUF #Project#](https://theupdateframework.github.io/): TUF 是一项用于保护软件更新系统的开源安全技术，亦是从云原生计算基金会毕业的第一个以规范与安全性为重点的项目。
 
 - [Lynis #Project#](https://github.com/CISOfy/lynis): Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+
+## JumpServer
+
+- [Jump Server #Project#](https://github.com/jumpserver/jumpserver): Jumpserver 是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。
 
 ## Windows
 

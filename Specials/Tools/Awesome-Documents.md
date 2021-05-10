@@ -36,6 +36,8 @@
 
 - [2019-fusuma #Project#](https://github.com/hiroppy/fusuma): Fusuma makes slides with Markdown easily.
 
+- [2021-Slidev #Project#](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Public Beta 🎉)
+
 ## Blog
 
 - [Gitfolio #Project#](https://github.com/imfunniee/gitfolio): Gitfolio will help you get started with a portfolio website where you could showcase your work + a blog that will help you spread your ideas into real world.
