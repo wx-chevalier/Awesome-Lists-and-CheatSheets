@@ -140,6 +140,8 @@
 
 - [Typesense #Project#](https://github.com/typesense/typesense): Typesense is a fast, typo-tolerant search engine for building delightful search experiences.
 
+- [2019-milvus #Project#](https://github.com/milvus-io/milvus): An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy
+
 ## MongoDB
 
 - [MemDB #Project#](https://github.com/rain1017/memdb): Distributed Transactional In-Memory Database.

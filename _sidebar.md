@@ -376,15 +376,12 @@
           - [7.1.3.2.4 Dokcer Swarm List](/Infrastructure/Cloud/Container/Docker/Dokcer-Swarm-List.md)
         - 7.1.3.3 Rocket
           - [7.1.3.3.1 Rocket List](/Infrastructure/Cloud/Container/Rocket/Rocket-List.md)
-      - 7.1.4 Orchestration
-        - 7.1.4.1 K8s
-          - [7.1.4.1.1 K8s Architecture List](/Infrastructure/Cloud/Orchestration/K8s/K8s-Architecture-List.md)
-          - [7.1.4.1.2 K8s Deployment List](/Infrastructure/Cloud/Orchestration/K8s/K8s-Deployment-List.md)
-          - [7.1.4.1.3 K8s List](/Infrastructure/Cloud/Orchestration/K8s/K8s-List.md)
-          - [7.1.4.1.4 K8s Practices List](/Infrastructure/Cloud/Orchestration/K8s/K8s-Practices-List.md)
-        - 7.1.4.2 Mesos
-          - [7.1.4.2.1 Mesos List](/Infrastructure/Cloud/Orchestration/Mesos/Mesos-List.md)
-        - [7.1.4.3 Orchestration List](/Infrastructure/Cloud/Orchestration/Orchestration-List.md)
+      - 7.1.4 K8s
+        - [7.1.4.1 K8s Architecture List](/Infrastructure/Cloud/K8s/K8s-Architecture-List.md)
+        - [7.1.4.2 K8s Deployment List](/Infrastructure/Cloud/K8s/K8s-Deployment-List.md)
+        - [7.1.4.3 K8s List](/Infrastructure/Cloud/K8s/K8s-List.md)
+        - [7.1.4.4 K8s OpenSource List](/Infrastructure/Cloud/K8s/K8s-OpenSource-List.md)
+        - [7.1.4.5 K8s Practices List](/Infrastructure/Cloud/K8s/K8s-Practices-List.md)
       - 7.1.5 Provider
         - [7.1.5.1 Cloud Provider List](/Infrastructure/Cloud/Provider/Cloud-Provider-List.md)
       - 7.1.6 VM
@@ -565,127 +562,127 @@
       - [7.9.5 OS OpenSource List](/Infrastructure/OS/OS-OpenSource-List.md)
       - 7.9.6 Theory
         - [7.9.6.1 OST List](/Infrastructure/OS/Theory/OST-List.md)
-  - 8 Product
-    - 8.1 Design
-      - [8.1.1 Design List](/Product/Design/Design-List.md)
-      - [8.1.2 Sketch List](/Product/Design/Sketch-List.md)
-      - [8.1.3 UI List](/Product/Design/UI-List.md)
-    - 8.2 Docs
-      - [8.2.1 Docs List](/Product/Docs/Docs-List.md)
-    - 8.3 Operation
-      - [8.3.1 Operation List](/Product/Operation/Operation-List.md)
-      - [8.3.2 UGC List](/Product/Operation/UGC-List.md)
-    - [8.4 Product List](/Product/Product-List.md)
-    - [8.5 Product OpenSource List](/Product/Product-OpenSource-List.md)
-  - 9 ProgrammingLanguage
-    - 9.1 Assembly
-      - [9.1.1 Assembly List](/ProgrammingLanguage/Assembly/Assembly-List.md)
-    - 9.2 C
-      - [9.2.1 C List](/ProgrammingLanguage/C/C-List.md)
-      - [9.2.2 CPP Compiler List](/ProgrammingLanguage/C/CPP-Compiler-List.md)
-      - [9.2.3 CPP ConcurrentProgramming List](/ProgrammingLanguage/C/CPP-ConcurrentProgramming-List.md)
-      - [9.2.4 CPP List](/ProgrammingLanguage/C/CPP-List.md)
-      - [9.2.5 CPP OpenSource List](/ProgrammingLanguage/C/CPP-OpenSource-List.md)
-    - 9.3 Go
-      - [9.3.1 Go Architecture List](/ProgrammingLanguage/Go/Go-Architecture-List.md)
-      - [9.3.2 Go Collection List](/ProgrammingLanguage/Go/Go-Collection-List.md)
-      - [9.3.3 Go ConcurrentProgramming List](/ProgrammingLanguage/Go/Go-ConcurrentProgramming-List.md)
-      - [9.3.4 Go Dev List](/ProgrammingLanguage/Go/Go-Dev-List.md)
-      - [9.3.5 Go Internals List](/ProgrammingLanguage/Go/Go-Internals-List.md)
-      - [9.3.6 Go List](/ProgrammingLanguage/Go/Go-List.md)
-      - [9.3.7 Go OpenSource List](/ProgrammingLanguage/Go/Go-OpenSource-List.md)
-      - [9.3.8 Go Syntax List](/ProgrammingLanguage/Go/Go-Syntax-List.md)
-      - [9.3.9 Go Tuning List](/ProgrammingLanguage/Go/Go-Tuning-List.md)
-      - [9.3.10 Go Web List](/ProgrammingLanguage/Go/Go-Web-List.md)
-      - [9.3.11 Gopher List](/ProgrammingLanguage/Go/Gopher-List.md)
-    - 9.4 Haskell
-      - [9.4.1 Haskell List](/ProgrammingLanguage/Haskell/Haskell-List.md)
-    - 9.5 Java
-      - 9.5.1 ConcurrentProgramming
-        - [9.5.1.1 Akka List](/ProgrammingLanguage/Java/ConcurrentProgramming/Akka-List.md)
-        - [9.5.1.2 Java Async List](/ProgrammingLanguage/Java/ConcurrentProgramming/Java-Async-List.md)
-        - [9.5.1.3 Java ConcurrentProgramming List](/ProgrammingLanguage/Java/ConcurrentProgramming/Java-ConcurrentProgramming-List.md)
-        - [9.5.1.4 Netty List](/ProgrammingLanguage/Java/ConcurrentProgramming/Netty-List.md)
-      - 9.5.2 Dev
-        - [9.5.2.1 Gradle List](/ProgrammingLanguage/Java/Dev/Gradle-List.md)
-        - [9.5.2.2 Java Collection List](/ProgrammingLanguage/Java/Dev/Java-Collection-List.md)
-        - [9.5.2.3 Java DataStructure List](/ProgrammingLanguage/Java/Dev/Java-DataStructure-List.md)
-        - [9.5.2.4 Java Dev List](/ProgrammingLanguage/Java/Dev/Java-Dev-List.md)
-        - [9.5.2.5 Java FunctionalProgramming List](/ProgrammingLanguage/Java/Dev/Java-FunctionalProgramming-List.md)
-        - [9.5.2.6 Java Network List](/ProgrammingLanguage/Java/Dev/Java-Network-List.md)
-        - [9.5.2.7 Java Storage List](/ProgrammingLanguage/Java/Dev/Java-Storage-List.md)
-        - [9.5.2.8 Java Syntax List](/ProgrammingLanguage/Java/Dev/Java-Syntax-List.md)
-        - [9.5.2.9 Java System List](/ProgrammingLanguage/Java/Dev/Java-System-List.md)
-        - [9.5.2.10 Java Test List](/ProgrammingLanguage/Java/Dev/Java-Test-List.md)
-        - [9.5.2.11 Java UI List](/ProgrammingLanguage/Java/Dev/Java-UI-List.md)
-        - [9.5.2.12 Maven List](/ProgrammingLanguage/Java/Dev/Maven-List.md)
-      - 9.5.3 Dialect
-        - [9.5.3.1 Groovy List](/ProgrammingLanguage/Java/Dialect/Groovy-List.md)
-        - [9.5.3.2 Kotlin List](/ProgrammingLanguage/Java/Dialect/Kotlin-List.md)
-        - [9.5.3.3 Scala List](/ProgrammingLanguage/Java/Dialect/Scala-List.md)
-      - 9.5.4 JVM
-        - [9.5.4.1 JVM Class List](/ProgrammingLanguage/Java/JVM/JVM-Class-List.md)
-        - [9.5.4.2 JVM Compiler List](/ProgrammingLanguage/Java/JVM/JVM-Compiler-List.md)
-        - [9.5.4.3 JVM List](/ProgrammingLanguage/Java/JVM/JVM-List.md)
-        - [9.5.4.4 JVM MemoryManagement List](/ProgrammingLanguage/Java/JVM/JVM-MemoryManagement-List.md)
-        - [9.5.4.5 JVM Tuning List](/ProgrammingLanguage/Java/JVM/JVM-Tuning-List.md)
-      - [9.5.5 Java List](/ProgrammingLanguage/Java/Java-List.md)
-      - [9.5.6 Java OpenSource List](/ProgrammingLanguage/Java/Java-OpenSource-List.md)
-      - 9.5.7 Spring
-        - [9.5.7.1 Java Servlet List](/ProgrammingLanguage/Java/Spring/Java-Servlet-List.md)
-        - [9.5.7.2 Mybatis List](/ProgrammingLanguage/Java/Spring/Mybatis-List.md)
-        - [9.5.7.3 Spring List](/ProgrammingLanguage/Java/Spring/Spring-List.md)
-        - [9.5.7.4 SpringBoot List](/ProgrammingLanguage/Java/Spring/SpringBoot-List.md)
-        - [9.5.7.5 SpringCloud List](/ProgrammingLanguage/Java/Spring/SpringCloud-List.md)
-        - [9.5.7.6 SpringSecurity List](/ProgrammingLanguage/Java/Spring/SpringSecurity-List.md)
-        - [9.5.7.7 Tomcat List](/ProgrammingLanguage/Java/Spring/Tomcat-List.md)
-    - 9.6 JavaScript
-      - [9.6.1 JavaScript Async List](/ProgrammingLanguage/JavaScript/JavaScript-Async-List.md)
-      - [9.6.2 JavaScript Collection List](/ProgrammingLanguage/JavaScript/JavaScript-Collection-List.md)
-      - [9.6.3 JavaScript DataStructure List](/ProgrammingLanguage/JavaScript/JavaScript-DataStructure-List.md)
-      - [9.6.4 JavaScript Engine List](/ProgrammingLanguage/JavaScript/JavaScript-Engine-List.md)
-      - [9.6.5 JavaScript FunctionalProgramming List](/ProgrammingLanguage/JavaScript/JavaScript-FunctionalProgramming-List.md)
-      - [9.6.6 JavaScript List](/ProgrammingLanguage/JavaScript/JavaScript-List.md)
-      - [9.6.7 JavaScript OpenSource List](/ProgrammingLanguage/JavaScript/JavaScript-OpenSource-List.md)
-      - [9.6.8 JavaScript Pattern List](/ProgrammingLanguage/JavaScript/JavaScript-Pattern-List.md)
-      - [9.6.9 JavaScript TypeSystem List](/ProgrammingLanguage/JavaScript/JavaScript-TypeSystem-List.md)
-      - [9.6.10 TypeScript List](/ProgrammingLanguage/JavaScript/TypeScript-List.md)
-    - 9.7 Lisp
-      - [9.7.1 Lisp List](/ProgrammingLanguage/Lisp/Lisp-List.md)
-    - 9.8 PHP
-      - [9.8.1 PHP List](/ProgrammingLanguage/PHP/PHP-List.md)
-    - 9.9 Python
-      - [9.9.1 Python DataStructure List](/ProgrammingLanguage/Python/Python-DataStructure-List.md)
-      - [9.9.2 Python Debug List](/ProgrammingLanguage/Python/Python-Debug-List.md)
-      - [9.9.3 Python Framework List](/ProgrammingLanguage/Python/Python-Framework-List.md)
-      - [9.9.4 Python FunctionalProgramming List](/ProgrammingLanguage/Python/Python-FunctionalProgramming-List.md)
-      - [9.9.5 Python List](/ProgrammingLanguage/Python/Python-List.md)
-      - [9.9.6 Python OpenSource List](/ProgrammingLanguage/Python/Python-OpenSource-List.md)
-      - [9.9.7 Python StyleGuide List](/ProgrammingLanguage/Python/Python-StyleGuide-List.md)
-      - [9.9.8 Python Syntax List](/ProgrammingLanguage/Python/Python-Syntax-List.md)
-    - 9.10 Rust
-      - [9.10.1 Rust ConcurrentProgramming List](/ProgrammingLanguage/Rust/Rust-ConcurrentProgramming-List.md)
-      - [9.10.2 Rust Dev List](/ProgrammingLanguage/Rust/Rust-Dev-List.md)
-      - [9.10.3 Rust List](/ProgrammingLanguage/Rust/Rust-List.md)
-      - [9.10.4 Rust Network List](/ProgrammingLanguage/Rust/Rust-Network-List.md)
-      - [9.10.5 Rust OpenSource List](/ProgrammingLanguage/Rust/Rust-OpenSource-List.md)
-      - [9.10.6 Rust Syntax List](/ProgrammingLanguage/Rust/Rust-Syntax-List.md)
-    - 9.11 Swift
-      - [9.11.1 Swift List](/ProgrammingLanguage/Swift/Swift-List.md)
-    - 9.12 Theory
-      - 9.12.1 Compiler
-        - [9.12.1.1 Compiler List](/ProgrammingLanguage/Theory/Compiler/Compiler-List.md)
-      - 9.12.2 MemoryManagement
-        - [9.12.2.1 GarbageCollection List](/ProgrammingLanguage/Theory/MemoryManagement/GarbageCollection-List.md)
-        - [9.12.2.2 MemoryManagement List](/ProgrammingLanguage/Theory/MemoryManagement/MemoryManagement-List.md)
-      - [9.12.3 PLT List](/ProgrammingLanguage/Theory/PLT-List.md)
-      - [9.12.4 PLT OpenSource List](/ProgrammingLanguage/Theory/PLT-OpenSource-List.md)
-      - 9.12.5 StaticAnalysis
-        - [9.12.5.1 StaticAnalysis List](/ProgrammingLanguage/Theory/StaticAnalysis/StaticAnalysis-List.md)
-      - 9.12.6 TypeTheory
-        - [9.12.6.1 Type Theory List](/ProgrammingLanguage/Theory/TypeTheory/Type-Theory-List.md)
-      - 9.12.7 VM
-        - [9.12.7.1 VM List](/ProgrammingLanguage/Theory/VM/VM-List.md)
+  - 8 Language
+    - 8.1 Assembly
+      - [8.1.1 Assembly List](/Language/Assembly/Assembly-List.md)
+    - 8.2 C
+      - [8.2.1 C List](/Language/C/C-List.md)
+      - [8.2.2 CPP Compiler List](/Language/C/CPP-Compiler-List.md)
+      - [8.2.3 CPP ConcurrentProgramming List](/Language/C/CPP-ConcurrentProgramming-List.md)
+      - [8.2.4 CPP List](/Language/C/CPP-List.md)
+      - [8.2.5 CPP OpenSource List](/Language/C/CPP-OpenSource-List.md)
+    - 8.3 Go
+      - [8.3.1 Go Architecture List](/Language/Go/Go-Architecture-List.md)
+      - [8.3.2 Go Collection List](/Language/Go/Go-Collection-List.md)
+      - [8.3.3 Go ConcurrentProgramming List](/Language/Go/Go-ConcurrentProgramming-List.md)
+      - [8.3.4 Go Dev List](/Language/Go/Go-Dev-List.md)
+      - [8.3.5 Go Internals List](/Language/Go/Go-Internals-List.md)
+      - [8.3.6 Go List](/Language/Go/Go-List.md)
+      - [8.3.7 Go OpenSource List](/Language/Go/Go-OpenSource-List.md)
+      - [8.3.8 Go Syntax List](/Language/Go/Go-Syntax-List.md)
+      - [8.3.9 Go Tuning List](/Language/Go/Go-Tuning-List.md)
+      - [8.3.10 Go Web List](/Language/Go/Go-Web-List.md)
+      - [8.3.11 Gopher List](/Language/Go/Gopher-List.md)
+    - 8.4 Haskell
+      - [8.4.1 Haskell List](/Language/Haskell/Haskell-List.md)
+    - 8.5 Java
+      - 8.5.1 ConcurrentProgramming
+        - [8.5.1.1 Akka List](/Language/Java/ConcurrentProgramming/Akka-List.md)
+        - [8.5.1.2 Java Async List](/Language/Java/ConcurrentProgramming/Java-Async-List.md)
+        - [8.5.1.3 Java ConcurrentProgramming List](/Language/Java/ConcurrentProgramming/Java-ConcurrentProgramming-List.md)
+        - [8.5.1.4 Netty List](/Language/Java/ConcurrentProgramming/Netty-List.md)
+      - 8.5.2 Dev
+        - [8.5.2.1 Gradle List](/Language/Java/Dev/Gradle-List.md)
+        - [8.5.2.2 Java Collection List](/Language/Java/Dev/Java-Collection-List.md)
+        - [8.5.2.3 Java DataStructure List](/Language/Java/Dev/Java-DataStructure-List.md)
+        - [8.5.2.4 Java Dev List](/Language/Java/Dev/Java-Dev-List.md)
+        - [8.5.2.5 Java FunctionalProgramming List](/Language/Java/Dev/Java-FunctionalProgramming-List.md)
+        - [8.5.2.6 Java Network List](/Language/Java/Dev/Java-Network-List.md)
+        - [8.5.2.7 Java Storage List](/Language/Java/Dev/Java-Storage-List.md)
+        - [8.5.2.8 Java Syntax List](/Language/Java/Dev/Java-Syntax-List.md)
+        - [8.5.2.9 Java System List](/Language/Java/Dev/Java-System-List.md)
+        - [8.5.2.10 Java Test List](/Language/Java/Dev/Java-Test-List.md)
+        - [8.5.2.11 Java UI List](/Language/Java/Dev/Java-UI-List.md)
+        - [8.5.2.12 Maven List](/Language/Java/Dev/Maven-List.md)
+      - 8.5.3 Dialect
+        - [8.5.3.1 Groovy List](/Language/Java/Dialect/Groovy-List.md)
+        - [8.5.3.2 Kotlin List](/Language/Java/Dialect/Kotlin-List.md)
+        - [8.5.3.3 Scala List](/Language/Java/Dialect/Scala-List.md)
+      - 8.5.4 JVM
+        - [8.5.4.1 JVM Class List](/Language/Java/JVM/JVM-Class-List.md)
+        - [8.5.4.2 JVM Compiler List](/Language/Java/JVM/JVM-Compiler-List.md)
+        - [8.5.4.3 JVM List](/Language/Java/JVM/JVM-List.md)
+        - [8.5.4.4 JVM MemoryManagement List](/Language/Java/JVM/JVM-MemoryManagement-List.md)
+        - [8.5.4.5 JVM Tuning List](/Language/Java/JVM/JVM-Tuning-List.md)
+      - [8.5.5 Java List](/Language/Java/Java-List.md)
+      - [8.5.6 Java OpenSource List](/Language/Java/Java-OpenSource-List.md)
+      - 8.5.7 Spring
+        - [8.5.7.1 Java Servlet List](/Language/Java/Spring/Java-Servlet-List.md)
+        - [8.5.7.2 Mybatis List](/Language/Java/Spring/Mybatis-List.md)
+        - [8.5.7.3 Spring List](/Language/Java/Spring/Spring-List.md)
+        - [8.5.7.4 SpringBoot List](/Language/Java/Spring/SpringBoot-List.md)
+        - [8.5.7.5 SpringCloud List](/Language/Java/Spring/SpringCloud-List.md)
+        - [8.5.7.6 SpringSecurity List](/Language/Java/Spring/SpringSecurity-List.md)
+        - [8.5.7.7 Tomcat List](/Language/Java/Spring/Tomcat-List.md)
+    - 8.6 JavaScript
+      - [8.6.1 JavaScript Async List](/Language/JavaScript/JavaScript-Async-List.md)
+      - [8.6.2 JavaScript Collection List](/Language/JavaScript/JavaScript-Collection-List.md)
+      - [8.6.3 JavaScript DataStructure List](/Language/JavaScript/JavaScript-DataStructure-List.md)
+      - [8.6.4 JavaScript Engine List](/Language/JavaScript/JavaScript-Engine-List.md)
+      - [8.6.5 JavaScript FunctionalProgramming List](/Language/JavaScript/JavaScript-FunctionalProgramming-List.md)
+      - [8.6.6 JavaScript List](/Language/JavaScript/JavaScript-List.md)
+      - [8.6.7 JavaScript OpenSource List](/Language/JavaScript/JavaScript-OpenSource-List.md)
+      - [8.6.8 JavaScript Pattern List](/Language/JavaScript/JavaScript-Pattern-List.md)
+      - [8.6.9 JavaScript TypeSystem List](/Language/JavaScript/JavaScript-TypeSystem-List.md)
+      - [8.6.10 TypeScript List](/Language/JavaScript/TypeScript-List.md)
+    - 8.7 Lisp
+      - [8.7.1 Lisp List](/Language/Lisp/Lisp-List.md)
+    - 8.8 PHP
+      - [8.8.1 PHP List](/Language/PHP/PHP-List.md)
+    - 8.9 Python
+      - [8.9.1 Python DataStructure List](/Language/Python/Python-DataStructure-List.md)
+      - [8.9.2 Python Debug List](/Language/Python/Python-Debug-List.md)
+      - [8.9.3 Python Framework List](/Language/Python/Python-Framework-List.md)
+      - [8.9.4 Python FunctionalProgramming List](/Language/Python/Python-FunctionalProgramming-List.md)
+      - [8.9.5 Python List](/Language/Python/Python-List.md)
+      - [8.9.6 Python OpenSource List](/Language/Python/Python-OpenSource-List.md)
+      - [8.9.7 Python StyleGuide List](/Language/Python/Python-StyleGuide-List.md)
+      - [8.9.8 Python Syntax List](/Language/Python/Python-Syntax-List.md)
+    - 8.10 Rust
+      - [8.10.1 Rust ConcurrentProgramming List](/Language/Rust/Rust-ConcurrentProgramming-List.md)
+      - [8.10.2 Rust Dev List](/Language/Rust/Rust-Dev-List.md)
+      - [8.10.3 Rust List](/Language/Rust/Rust-List.md)
+      - [8.10.4 Rust Network List](/Language/Rust/Rust-Network-List.md)
+      - [8.10.5 Rust OpenSource List](/Language/Rust/Rust-OpenSource-List.md)
+      - [8.10.6 Rust Syntax List](/Language/Rust/Rust-Syntax-List.md)
+    - 8.11 Swift
+      - [8.11.1 Swift List](/Language/Swift/Swift-List.md)
+    - 8.12 Theory
+      - 8.12.1 Compiler
+        - [8.12.1.1 Compiler List](/Language/Theory/Compiler/Compiler-List.md)
+      - 8.12.2 MemoryManagement
+        - [8.12.2.1 GarbageCollection List](/Language/Theory/MemoryManagement/GarbageCollection-List.md)
+        - [8.12.2.2 MemoryManagement List](/Language/Theory/MemoryManagement/MemoryManagement-List.md)
+      - [8.12.3 PLT List](/Language/Theory/PLT-List.md)
+      - [8.12.4 PLT OpenSource List](/Language/Theory/PLT-OpenSource-List.md)
+      - 8.12.5 StaticAnalysis
+        - [8.12.5.1 StaticAnalysis List](/Language/Theory/StaticAnalysis/StaticAnalysis-List.md)
+      - 8.12.6 TypeTheory
+        - [8.12.6.1 Type Theory List](/Language/Theory/TypeTheory/Type-Theory-List.md)
+      - 8.12.7 VM
+        - [8.12.7.1 VM List](/Language/Theory/VM/VM-List.md)
+  - 9 Product
+    - 9.1 Design
+      - [9.1.1 Design List](/Product/Design/Design-List.md)
+      - [9.1.2 Sketch List](/Product/Design/Sketch-List.md)
+      - [9.1.3 UI List](/Product/Design/UI-List.md)
+    - 9.2 Docs
+      - [9.2.1 Docs List](/Product/Docs/Docs-List.md)
+    - 9.3 Operation
+      - [9.3.1 Operation List](/Product/Operation/Operation-List.md)
+      - [9.3.2 UGC List](/Product/Operation/UGC-List.md)
+    - [9.4 Product List](/Product/Product-List.md)
+    - [9.5 Product OpenSource List](/Product/Product-OpenSource-List.md)
   - [10 README en](/README-en.md)
   - 11 Specials
     - [11.1 Awesome Specials](/Specials/Awesome-Specials.md)

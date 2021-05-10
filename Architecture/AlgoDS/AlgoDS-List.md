@@ -66,6 +66,8 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2021-doocs/leetcode #Project#](https://github.com/doocs/leetcode): 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 
+- [2021-LeetCode 刷题攻略 #Project#](https://github.com/youngyangyang04/leetcode-master): LeetCode 刷题攻略：200 道题目详细刷题顺序，共 60w 字的详细图解，视频难点剖析，50 余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+
 ## Course | 课程
 
 # C++
