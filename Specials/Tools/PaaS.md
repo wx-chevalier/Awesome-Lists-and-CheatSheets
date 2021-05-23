@@ -41,9 +41,3 @@
 - [2019-Firefly III #Project#](https://firefly-iii.org/about-general.html): “Firefly III” is a financial manager. It can help you keep track of expenses, income, budgets and everything in between. It even supports credit cards, shared household accounts and savings accounts! It’s pretty fancy. You should use it to save and organise money.
 
 - [2020-Calendso #Project#](https://github.com/calendso/calendso): The open-source Calendly alternative.
-
-# Workflow
-
-- [Prefect #Project#](https://www.prefect.io/products/core/): The prefect Python library includes everything you need to design, build, test, and run powerful data applications. Instantly upgrade your existing code with workflow best practices, and use the Prefect UI to orchestrate and monitor everything.
-
-- [2019-n8n #Project#](https://github.com/n8n-io/n8n): Free and open node based Workflow Automation Tool. Easily automate tasks across different services.

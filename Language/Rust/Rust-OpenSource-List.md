@@ -16,6 +16,8 @@
 
 - [ht #Project#](https://github.com/ducaale/ht): Yet another HTTPie clone in Rust.
 
+- [czkawka #Project#](https://github.com/qarmin/czkawka): Multi functional app to find duplicates, empty folders, similar images etc.
+
 ## JavaScript Engine
 
 - [boa](https://github.com/jasonwilliams/boa): Javascript engine written in Rust

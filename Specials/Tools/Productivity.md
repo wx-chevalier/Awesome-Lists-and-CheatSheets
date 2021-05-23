@@ -1,14 +1,6 @@
 # Awesome Productivity
 
-# System Utils
-
-## MAC
-
-- [Tip #Project#](https://github.com/tanin47/tip): Programmable tooltip that can be used with any Mac OS app.
-
-- [2019-Phoenix #Project#](https://github.com/kasper/phoenix): A lightweight macOS window and app manager scriptable with JavaScript.
-
-## Windows
+- [czkawka #Project#](https://github.com/qarmin/czkawka): Multi functional app to find duplicates, empty folders, similar images etc.
 
 # Time Tracking
 
@@ -35,3 +27,9 @@
 ## Photo
 
 - [PhotoPrism #Project#](https://github.com/photoprism/photoprism): Personal Photo Management powered by Go and Google TensorFlow.
+
+# Workflow
+
+- [Prefect #Project#](https://www.prefect.io/products/core/): The prefect Python library includes everything you need to design, build, test, and run powerful data applications. Instantly upgrade your existing code with workflow best practices, and use the Prefect UI to orchestrate and monitor everything.
+
+- [2019-n8n #Project#](https://github.com/n8n-io/n8n): Free and open node based Workflow Automation Tool. Easily automate tasks across different services.
