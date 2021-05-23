@@ -6,6 +6,8 @@
 
 - [2004-Consensus on Transaction Commit](https://lamport.azurewebsites.net/video/consensus-on-transaction-commit.pdf): The distributed transaction commit problem requires reaching agreement on whether a transaction is committed or aborted.
 
+- [2021-The Problem of Distributed Consensus](https://writings.stephenwolfram.com/2021/05/the-problem-of-distributed-consensus/): In the past, it’s been difficult to analyze the more general setup where there is no rigid notion of either space or time. But this is exactly the setup in our new Physics Project, and so there’s now the potential to use its formalism and results (as well as intuition imported from physics) to make further progress.
+
 # Consistency & CAP
 
 - [2011-Consistency, Availability, and Convergence #Paper#](https://apps.cs.utexas.edu/tech_reports/reports/tr/TR-2036.pdf): We examine the limits of consistency in fault-tolerant distributed storage systems.
