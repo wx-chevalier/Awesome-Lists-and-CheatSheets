@@ -485,14 +485,14 @@
         - [7.3.9.4 Storm List](/Infrastructure/DistributedCompute/Stream/Storm-List.md)
         - [7.3.9.5 StreamProcessing List](/Infrastructure/DistributedCompute/Stream/StreamProcessing-List.md)
     - 7.4 DistributedCoordination
-      - 7.4.1 Consistency
-        - [7.4.1.1 Consensus List](/Infrastructure/DistributedCoordination/Consistency/Consensus-List.md)
-        - [7.4.1.2 ConsensusAlgorithm List](/Infrastructure/DistributedCoordination/Consistency/ConsensusAlgorithm-List.md)
-        - [7.4.1.3 Consul List](/Infrastructure/DistributedCoordination/Consistency/Consul-List.md)
-        - [7.4.1.4 Etcd List](/Infrastructure/DistributedCoordination/Consistency/Etcd-List.md)
-        - [7.4.1.5 Paxos List](/Infrastructure/DistributedCoordination/Consistency/Paxos-List.md)
-        - [7.4.1.6 Raft List](/Infrastructure/DistributedCoordination/Consistency/Raft-List.md)
-        - [7.4.1.7 ZooKeeper List](/Infrastructure/DistributedCoordination/Consistency/ZooKeeper-List.md)
+      - 7.4.1 Consensus
+        - [7.4.1.1 Consensus List](/Infrastructure/DistributedCoordination/Consensus/Consensus-List.md)
+        - [7.4.1.2 ConsensusAlgorithm List](/Infrastructure/DistributedCoordination/Consensus/ConsensusAlgorithm-List.md)
+        - [7.4.1.3 Consul List](/Infrastructure/DistributedCoordination/Consensus/Consul-List.md)
+        - [7.4.1.4 Etcd List](/Infrastructure/DistributedCoordination/Consensus/Etcd-List.md)
+        - [7.4.1.5 Paxos List](/Infrastructure/DistributedCoordination/Consensus/Paxos-List.md)
+        - [7.4.1.6 Raft List](/Infrastructure/DistributedCoordination/Consensus/Raft-List.md)
+        - [7.4.1.7 ZooKeeper List](/Infrastructure/DistributedCoordination/Consensus/ZooKeeper-List.md)
       - 7.4.2 DistributedTransaction
         - [7.4.2.1 DistributedLock List](/Infrastructure/DistributedCoordination/DistributedTransaction/DistributedLock-List.md)
         - [7.4.2.2 DistributedTransaction List](/Infrastructure/DistributedCoordination/DistributedTransaction/DistributedTransaction-List.md)
@@ -690,7 +690,8 @@
       - [11.2.1 Awesome DataSets](/Specials/Collections/Awesome-DataSets.md)
       - [11.2.2 Awesome Learnings](/Specials/Collections/Awesome-Learnings.md)
       - [11.2.3 Awesome Names](/Specials/Collections/Awesome-Names.md)
-      - [11.2.4 Awesome Vision](/Specials/Collections/Awesome-Vision.md)
+      - [11.2.4 Awesome Tools](/Specials/Collections/Awesome-Tools.md)
+      - [11.2.5 Awesome Vision](/Specials/Collections/Awesome-Vision.md)
     - 11.3 Showcases
       - [11.3.1 Awesome Codebases](/Specials/Showcases/Awesome-Codebases.md)
       - [11.3.2 Awesome DataVis](/Specials/Showcases/Awesome-DataVis.md)
@@ -700,8 +701,8 @@
       - [11.4.2 DevOps](/Specials/Tools/DevOps.md)
       - [11.4.3 Documents](/Specials/Tools/Documents.md)
       - [11.4.4 IDE](/Specials/Tools/IDE.md)
-      - [11.4.5 Mac](/Specials/Tools/Mac.md)
-      - [11.4.6 Network](/Specials/Tools/Network.md)
+      - [11.4.5 Network](/Specials/Tools/Network.md)
+      - [11.4.6 OS](/Specials/Tools/OS.md)
       - [11.4.7 PaaS](/Specials/Tools/PaaS.md)
       - [11.4.8 Productivity](/Specials/Tools/Productivity.md)
     - [11.5 Weekly](/Specials/Weekly/README.md)

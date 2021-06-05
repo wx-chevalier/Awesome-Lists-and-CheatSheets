@@ -18,10 +18,6 @@
 
 - [Public-APIs](https://github.com/n0shake/Public-APIs): This is an attempt to categorise different APIs scoured from the web which make their resources available for consumption.
 
-# Deployment
-
-- [Github Pages](): [2017-GitHub Pages and Single-Page Apps](https://dev.to/_evansalter/github-pages-and-single-page-apps)
-
 # Awesome Devs
 
 - [now.sh]()

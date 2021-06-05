@@ -18,6 +18,10 @@
 
 - [CaptuocrToy #Project#](https://github.com/gragrance/CaptuocrToy): A tool to capture screenshot and recognize text by online ocr apis .
 
+# Deployment
+
+- [Github Pages](): [2017-GitHub Pages and Single-Page Apps](https://dev.to/_evansalter/github-pages-and-single-page-apps)
+
 # Others
 
 - [2005-htop #Project#](https://github.com/hishamhm/htop): htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.

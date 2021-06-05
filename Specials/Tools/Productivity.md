@@ -10,12 +10,6 @@
 
 - [2021-Focalboard #Project#](https://github.com/mattermost/focalboard): Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 
-# Remote Control & Screen Sharing
-
-- [xrdp #Project#](https://github.com/neutrinolabs/xrdp): xrdp provides a graphical login to remote machines using Microsoft Remote Desktop Protocol (RDP).
-
-- [Deskreen #Project#](https://github.com/pavlobu/deskreen): Deskreen turns any device with a web browser to a second screen for your computer
-
 # Agent & Assistant
 
 - [2019-Huginn #Project#](https://github.com/huginn/huginn/): Huginn is a system for building agents that perform automated tasks for you online.

@@ -14,6 +14,4 @@
 
 - [os-series #Project# #Scratch#](https://github.com/davidcallanan/os-series): Write Your Own 64-bit Operating System Kernel From Scratch.
 
-# Remote Desktop
-
-- [2019-Apache Guacamole #Project#](https://guacamole.apache.org/): Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH. [Apache Guacamole: How To Install and Configure](https://fortynorthsecurity.com/blog/apache-guacamole-how-to-install-and-configure/).
+- [SerenityOS #Project#](https://github.com/SerenityOS/serenity): SerenityOS is a love letter to '90s user interfaces with a custom Unix-like core. It flatters with sincerity by stealing beautiful ideas from various other systems.
