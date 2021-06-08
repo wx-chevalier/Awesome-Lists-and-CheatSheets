@@ -15,3 +15,9 @@
 - [os-series #Project# #Scratch#](https://github.com/davidcallanan/os-series): Write Your Own 64-bit Operating System Kernel From Scratch.
 
 - [SerenityOS #Project#](https://github.com/SerenityOS/serenity): SerenityOS is a love letter to '90s user interfaces with a custom Unix-like core. It flatters with sincerity by stealing beautiful ideas from various other systems.
+
+# File System
+
+## Sync
+
+- [Syncthing #Project#](https://github.com/syncthing/syncthing): Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers. We strive to fulfill the goals below. The goals are listed in order of importance, the most important one being the first.

@@ -25,3 +25,11 @@
 - [Base: 一种 Acid 的替代方案-中文翻译](http://article.yeeyan.org/view/167444/125572)
 
 - [2020-Limitations of Highly-Available Eventually-Consistent Data Stores #Paper#](https://www.cs.tau.ac.il/~mad/publications/podc2015-replds.pdf): Modern replicated data stores aim to provide high availability, by immediately responding to client requests, often by implementing objects that expose concurrency.
+
+# Consensus Algorithms
+
+- [In search of a simple consensus algorithm](http://rystsov.info/2017/02/15/simple-consensus.html)
+
+# OpenSource
+
+- [2021-Stateright #Project#](https://github.com/stateright/stateright): Correctly implementing distributed algorithms such as the Paxos and Raft consensus protocols is notoriously difficult due to inherent nondetermism such as message reordering by network devices. Stateright is a Rust actor library that aims to solve this problem by providing an embedded model checker, a UI for exploring system behavior (demo), and a lightweight actor runtime. It also features a linearizability tester that can be run within the model checker for more exhaustive test coverage than similar solutions such as Jepsen.

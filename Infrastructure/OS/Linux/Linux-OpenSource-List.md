@@ -1,5 +1,7 @@
 # Linux OpenSource List
 
+- [lima #Project#](https://github.com/AkihiroSuda/lima): Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
+
 # Terminal
 
 ## Enhance

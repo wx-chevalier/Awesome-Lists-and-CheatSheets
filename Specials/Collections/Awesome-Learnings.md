@@ -22,6 +22,10 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [Best Paper Awards in Computer Science (since 1996) #Paper#](https://jeffhuang.com/best_paper_awards.html): I (Jeff Huang) tried to collect best paper awards from the top-tier conferences in each area, but some conferences do not have such an award (e.g. SIGGRAPH, CAV).
 
+## Cheatsheets
+
+- [cheat.sh #Project#](https://github.com/chubin/cheat.sh): Covers 56 programming languages, several DBMSes, and more than 1000 most important UNIX/Linux commands.
+
 # Programming Language | 编程语言
 
 - [Exercism](http://exercism.io/): Exercism gives you hundreds of practice problems in over 30 programming languages, and a place where you can get feedback on your solutions.

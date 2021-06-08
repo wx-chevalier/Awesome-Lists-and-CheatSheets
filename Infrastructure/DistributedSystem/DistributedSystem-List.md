@@ -8,7 +8,7 @@
 
 - [浅析分布式系统](http://wetest.qq.com/lab/view/203.html?from=content_toutiao): 来自腾讯 Wadehan 关于服务器端系统技术的基础概念探索
 
-- [分布式系统互斥性与幂等性问题的分析与解决 ](http://blog.csdn.net/zdy0_2004/article/details/52760404)
+- [分布式系统互斥性与幂等性问题的分析与解决](http://blog.csdn.net/zdy0_2004/article/details/52760404)
 
 - [An introduction to distributed systems](https://github.com/aphyr/distsys-class): 一个基本的分布式系统简介
 
