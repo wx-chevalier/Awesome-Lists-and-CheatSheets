@@ -18,6 +18,8 @@
 
 - [Gdu #Project#](https://github.com/dundee/gdu): Disk usage analyzer with console interface written in Go
 
+- [slides #Project#](https://github.com/maaslalani/slides): Terminal based presentation tool, This project is heavily inspired by lookatme. slides is a more minimal version of lookatme and written in Go.
+
 ## Game
 
 - [2019-Snake #Project#](https://github.com/tristangoossens/snake-go): This is a Terminal based snake game made by tristangoossens.

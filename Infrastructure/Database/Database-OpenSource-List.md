@@ -142,6 +142,8 @@
 
 - [2019-milvus #Project#](https://github.com/milvus-io/milvus): An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy
 
+- [2021-jina #Project#](https://github.com/jina-ai/jina): An easier way to build neural search on the cloud.
+
 ## MongoDB
 
 - [MemDB #Project#](https://github.com/rain1017/memdb): Distributed Transactional In-Memory Database.

@@ -54,6 +54,8 @@
 
 - [2019-MIT 6.S191 Introduction to DeepLearning #Course#](http://introtodeeplearning.com/): MIT's official introductory course on deep learning methods with applications in medicine, and more!
 
+- [2021-Applied Deep Learning #Course#](https://github.com/maziarraissi/Applied-Deep-Learning): This is a two-semester-long course primarily designed for graduate students.
+
 # Reinforcement Learning
 
 - [2018-Deep Reinforcement Learning Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/): Deep Reinforcement Learning Course is a free series of blog posts and videos 🆕 about Deep Reinforcement Learning, where we'll learn the main algorithms, and how to implement them with Tensorflow.
