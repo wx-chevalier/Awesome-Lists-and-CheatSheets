@@ -2,13 +2,23 @@
 
 # Showcase
 
-- [MiniDataBase #Project#](https://github.com/msdeep14/MiniDataBase): A simple Relational Database using B+ Tree Index.
+## RDB
 
-- [chidb #Project#](https://people.cs.uchicago.edu/~adamshaw/papers/sigcse2016-chidb.pdf): Building a Simple Relational Database System from Scratch.
+- [MiniDataBase #Project# #Scratch#](https://github.com/msdeep14/MiniDataBase): A simple Relational Database using B+ Tree Index.
 
-- [LBADD #Project#](https://github.com/tomarrell/lbadd): An experimental, distributed SQL database.
+- [2016-chidb #Project#](https://people.cs.uchicago.edu/~adamshaw/papers/sigcse2016-chidb.pdf): Building a Simple Relational Database System from Scratch.
 
-- [2017-SimpleDB #Project#](https://github.com/iamxpy/SimpleDB): UC Berkeley's Database class CS186: Implement A Simple Database Management System
+- [2017-SimpleDB #Project# #Scratch#](https://github.com/iamxpy/SimpleDB): UC Berkeley's Database class CS186: Implement A Simple Database Management System.
+
+- [Database basics: writing a SQL database from scratch in Go #Series# #Scratch#](https://notes.eatonphil.com/database-basics.html): In this series we'll write a rudimentary database from scratch in Go.
+
+- [2018-手写 SQL 编译器 #Scratch#](https://parg.co/oXJ): 因为工作关系，需要开发支持众多方言的 SQL 编辑器，所以复习了一下编译原理相关知识。相比编译原理专家，我们只需要了解部分编译原理即可实现 SQL 编辑器，所以这是一篇写给前端的编译原理文章。
+
+- [2020-Let's Build a Simple Database #Series#](https://cubox.pro/c/mEMvvb): Writing a sqlite clone from scratch in C.
+
+## Distributed DB
+
+- [LBADD #Project# #Scratch#](https://github.com/tomarrell/lbadd): An experimental, distributed SQL database.
 
 # Universal SQL Tools
 
@@ -86,8 +96,6 @@
 
 - [2021-Extensible-Storage-Engine #Project#](https://github.com/microsoft/Extensible-Storage-Engine): ESE is an embedded / ISAM-based database engine, that provides rudimentary table and indexed access. However the library provides many other strongly layered and and thus reusable sub-facilities as well: A Synchronization / Locking library, a Data-structures / STL-like library, an OS-abstraction layer, and a Cache Manager, as well the full blown…
 
-## MySQL
-
 ## Sharding
 
 - [Sharding-Sphere #Project#](https://gitee.com/Sharding-Sphere/sharding-sphere): Sharding-Sphere is an open-source ecosystem consisted of a set of distributed database middleware solutions, including 3 independent products, Sharding-JDBC, Sharding-Proxy & Sharding-Sidecar (todo).
@@ -112,20 +120,6 @@
 
 - [2020-terarkdb #Project#](https://github.com/bytedance/terarkdb): A RocksDB compatible KV storage engine with better performance.
 
-## Redis
-
-- [RedisGraph #Project#](http://redisgraph.io/design/): A High Performance In-Memory Graph Database as a Redis Module.
-
-- [2018-RDR #Project#](https://github.com/xueqiu/rdr): RDR(redis data reveal) is a tool to parse redis rdbfile. Comparing to redis-rdb-tools, RDR is implemented by golang, much faster (5GB rdbfile takes about 2mins on my PC).
-
-- [2018-KeyDB #Project#](https://github.com/JohnSully/KeyDB): A Multithreaded Fork of Redis
-
-- [Redis-shake #Project#](https://github.com/alibaba/RedisShake): Redis-shake 是一个用于在两个 redis 之间同步数据的工具，满足用户非常灵活的同步、迁移需求。
-
-- [2019-Redis Manager #Project#](https://github.com/ngbdf/redis-manager): Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作。
-
-- [2019-Medis #Project#](https://github.com/luin/medis): 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
-
 # Document Database
 
 ## Search Engine
@@ -143,10 +137,6 @@
 - [2019-milvus #Project#](https://github.com/milvus-io/milvus): An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy
 
 - [2021-jina #Project#](https://github.com/jina-ai/jina): An easier way to build neural search on the cloud.
-
-## MongoDB
-
-- [MemDB #Project#](https://github.com/rain1017/memdb): Distributed Transactional In-Memory Database.
 
 # Graph Database
 

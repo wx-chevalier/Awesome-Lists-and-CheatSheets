@@ -52,6 +52,8 @@
 
 - [Rust 🦀 and WebAssembly 🕸 #Series#](https://rustwasm.github.io/book/introduction.html): This small book describes how to use Rust and WebAssembly together.
 
+- [2021-Rust meets the web - a clash of programming paradigms](https://www.jakobmeier.ch/blogging/Rust_on_the_Web.html): Most code running on the web is event-based, garbage-collected, and dynamically typed. In stark contrast, Rust is a compiled language with static type- and memory-safety without a garbage-collector. What are the implications for a project that compiles Rust to WebAssembly? I try to answer this question with a fictive story and hands-on code examples.
+
 ## Go
 
 ## C

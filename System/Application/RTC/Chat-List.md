@@ -1,19 +1,3 @@
-# RTC OpenSource List
-
-# WebRTC
-
-- [Screencat #Project#](https://github.com/maxogden/screencat): webrtc screensharing electron app for mac os (Alpha).
-
-- [Hublin #Project#](https://github.com/linagora/hublin)
-
-- [WebRTC Data Channels Example](https://parg.co/UsK): A simple example of WebRTC Data Channels. Uses postMessage() as a substitute for a real signalling channel.
-
-- [Pushpin #Project#](https://github.com/fanout/pushpin): Pushpin is a reverse proxy server written in C++ that makes it easy to implement WebSocket, HTTP streaming, and HTTP long-polling services.
-
-- [simple-peer #Project#](https://github.com/feross/simple-peer): Simple WebRTC video, voice, and data channels.
-
-- [RecordRTC.js #Project#](https://recordrtc.org): WebRTC JavaScript Library for Audio+Video+Screen+Canvas (2D+3D animation) Recording.
-
 # Chat
 
 - [cim #Project#](https://github.com/crossoverJie/cim): 📲cim(cross IM) 适用于开发者的即时通讯系统。
@@ -55,26 +39,6 @@
 # Voice
 
 - [Jovo #Project#](https://www.jovo.tech/): Build and run voice experiences that work across devices and platforms. Including Amazon Alexa, Google Assistant, mobile phones, Raspberry Pi, and more.
-
-# Live
-
-- [2017-video streaming service #Project#](https://github.com/tabvn/video-streaming-service): Build Live Video Streaming Server use Ffmpeg Nginx Rtmp Module & Nodejs
-
-- [LiveGo #Project#](https://github.com/gwuhaolin/livego): 纯 Go 写的直播服务器
-
-- [Live #Project#](https://github.com/ltebean/Live): Demonstrate how to build a live broadcast app.
-
-- [2014-Simple RTMP Server #Project#](https://github.com/ossrs/srs): SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
-
-- [owncast #Project#](https://github.com/owncast/owncast): Take control over your live stream video by running it yourself. Streaming + chat out of the box.
-
-## HLS
-
-- [2015-hls.js #Project#](https://github.com/video-dev/hls.js/): JavaScript HLS client using Media Source Extension
-
-## RTSP
-
-- [rtsp-stream #Project#](https://github.com/Roverr/rtsp-stream): Out of box solution for RTSP - HLS live stream transcoding. Makes RTSP easy to play in browsers.
 
 # Live Support
 

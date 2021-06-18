@@ -46,7 +46,9 @@
 
 - [ora #Project#](https://github.com/sindresorhus/ora): Elegant terminal spinner.
 
-- [pkg #Project# ](https://github.com/zeit/pkg): Package your Node.js project into an executable.
+- [pkg #Project#](https://github.com/zeit/pkg): Package your Node.js project into an executable.
+
+- [oclif #Project#](https://oclif.io/docs/introduction): oclif is a framework for building CLIs in Node. It can be used like a simple flag parser but is capable of much more. It's designed to be extensible so that you can easily add plugins such as the update warning plugin or build your own for users to install at runtime.
 
 # Storage
 

@@ -23,13 +23,3 @@
 ## Index（索引）
 
 - [2015-Database Indexes Explained](https://www.essentialsql.com/what-is-a-database-index/)
-
-## Scratch
-
-- [Database basics: writing a SQL database from scratch in Go #Series#](https://notes.eatonphil.com/database-basics.html): In this series we'll write a rudimentary database from scratch in Go.
-
-- [2018-手写 SQL 编译器](https://parg.co/oXJ): 因为工作关系，需要开发支持众多方言的 SQL 编辑器，所以复习了一下编译原理相关知识。相比编译原理专家，我们只需要了解部分编译原理即可实现 SQL 编辑器，所以这是一篇写给前端的编译原理文章。
-
-- [2020-Let's Build a Simple Database #Series#](https://cubox.pro/c/mEMvvb): Writing a sqlite clone from scratch in C.
-
-

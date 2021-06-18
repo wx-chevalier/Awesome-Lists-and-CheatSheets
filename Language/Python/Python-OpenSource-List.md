@@ -6,12 +6,6 @@
 
 - [python-small-examples #Series#](https://github.com/jackzhenguo/python-small-examples): 告别枯燥，60 秒学会一个 Python 小例子，当前库已有 223 个实用的小例子 。
 
-# Development Library
-
-- [Bounter #Project#](https://github.com/RaRe-Technologies/bounter): Efficient Counter that uses a limited (bounded) amount of memory regardless of data size.
-
-- [json-sempai #Project#](https://github.com/kragniz/json-sempai): Use JSON files as Modules.
-
 # Development Tool
 
 - [Yelp-undebt #Project#](https://github.com/Yelp/undebt): Undebt is a fast, straightforward, reliable tool for performing massive, automated code refactoring used @Yelp.
@@ -29,6 +23,18 @@
 ## Tuning
 
 - [Py-Spy #Project#](https://github.com/benfred/py-spy): Py-Spy is a sampling profiler for Python programs. It lets you visualize what your Python program is spending time on without restarting the program or modifying the code in any way.
+
+# Library
+
+## Framework
+
+- [Bounter #Project#](https://github.com/RaRe-Technologies/bounter): Efficient Counter that uses a limited (bounded) amount of memory regardless of data size.
+
+- [json-sempai #Project#](https://github.com/kragniz/json-sempai): Use JSON files as Modules.
+
+## CLI
+
+- [Gooey #Project#](https://github.com/chriskiehl/Gooey): Turn (almost) any Python command line program into a full GUI application with one line.
 
 # Storage
 

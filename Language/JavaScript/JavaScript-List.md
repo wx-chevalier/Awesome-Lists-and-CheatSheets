@@ -54,8 +54,6 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [You don’t know Js](https://github.com/getify/You-Dont-Know-JS): 关于 JavaScript 中很多的细节部分讲解
 
-- [ecma262](http://tc39.github.io/ecma262/):ECMAScript 2017 标准介绍
-
 - [Eloquent Javascript](http://eloquentjavascript.net/index.html)
 
 - [2020-Deep JavaScript: Theory and techniques #Book#](https://exploringjs.com/deep-js/): This book dives deeply into JavaScript, It teaches practical techniques for using the language better. It teaches how the language works and why. What it teaches is firmly grounded in the ECMAScript specification (which the book explains and refers to).
@@ -140,6 +138,8 @@ This file aggregates curated popular links for learning JavaScript. More referen
 - [interviewcake-javascript-interview-questions](https://www.interviewcake.com/javascript-interview-questions)
 
 - [2019-typeofnan-javascript-quizzes #Project#](https://quiz.typeofnan.dev/): Learn JavaScript fundamentals through fun and challenging quizzes! Star this repo on Github to follow along as new questions are added! Created by Nick Scialli and many other contributors listed below!
+
+- [2019-javascript-questions](https://github.com/lydiahallie/javascript-questions): A long list of (advanced) JavaScript questions, and their explanations ✨
 
 # ECMAScript
 

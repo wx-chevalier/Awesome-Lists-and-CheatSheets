@@ -20,4 +20,4 @@
 
 # OpenSource
 
-- [Memdb #Project#](http://rain1017.github.io/memdb/): Mongodb 中事务支持
+- [MemDB #Project#](https://github.com/rain1017/memdb): Distributed Transactional In-Memory Database.

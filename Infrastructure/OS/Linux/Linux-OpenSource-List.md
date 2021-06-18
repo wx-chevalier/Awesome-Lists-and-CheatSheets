@@ -10,6 +10,8 @@
 
 - [hyper #Project#](https://github.com/zeit/hyper): A terminal built on web technologies.
 
+- [2021-Nu #Project#](https://github.com/nushell/nushell): Nu comes with a set of built-in commands (listed below). If a command is unknown, the command will shell-out and execute it (using cmd on Windows or bash on Linux and macOS), correctly passing through stdin, stdout, and stderr, so things like your daily git workflows and even vim will work just fine.
+
 ## Share
 
 - [terminalizer #Project#](https://github.com/faressoft/terminalizer): Record your terminal and generate animated gif images.
