@@ -102,6 +102,8 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2019-dsa.js #Project#](https://github.com/amejiarosario/dsa.js): Data Structures and Algorithms explained and implemented in JavaScript
 
+- [2021- Data Structures and Algorithms in Javascript](https://learnersbucket.com): Data Structures and 300+ solved algorithms explained and implemented in Javascript.
+
 # Python
 
 - [2014-algorithm #Project#](https://github.com/qiwsir/algorithm): 如果要成为一个有一定水平的程序员，算法是必须要会的。算法，让你的程序变得更有灵气。
