@@ -10,12 +10,6 @@
 
 - [2014-Goto Fail, Heartbleed, and Unit Testing Culture](https://martinfowler.com/articles/testing-culture.html): This article considers the role unit testing could play, showing how unit tests, and more importantly a unit testing culture, could have identified these particular bugs.
 
-# A/B Test | A/B 测试
-
-- [perfecting-a-b-testing](http://blog.nordeus.com/dev-ops/perfecting-a-b-testing.htm)
-
-- [Server-Side Vs. Client-Side A/B Testing Tools: What’s The Difference?](https://conversionxl.com/server-side-vs-client-side-ab-testing-tools-whats-the-difference/)
-
 # Test Strategy
 
 ## Unit Test | 单元测试
@@ -25,6 +19,8 @@
 ## E2E Test | 端到端测试
 
 # API/RPC
+
+- [高性能分布式 Mock 平台的框架与设计](http://139.196.14.76/t/mock/285)
 
 # 性能压测
 

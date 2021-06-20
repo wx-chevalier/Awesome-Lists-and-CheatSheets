@@ -10,6 +10,8 @@
 
 - [The Architecture of Open Source Applications-Nginx 章节](http://aosabook.org/en/nginx.html)
 
+- [Nginx 负载均衡系列](http://blog.csdn.net/zhangskd/article/details/50208527)
+
 # Resource
 
 ## Book

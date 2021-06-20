@@ -27,3 +27,9 @@
 # 营销自动化
 
 - [营销自动化系统设计与实现](https://cubox.pro/c/dH0mPl): 本文从需求分析到方案设计去讲解我们的营销自动化系统整体设计。后面会出系列文章去针对营销自动化系统的技术细节进行介绍，欢迎大家关注。
+
+# A/B Test | A/B 测试
+
+- [perfecting-a-b-testing](http://blog.nordeus.com/dev-ops/perfecting-a-b-testing.htm)
+
+- [Server-Side Vs. Client-Side A/B Testing Tools: What’s The Difference?](https://conversionxl.com/server-side-vs-client-side-ab-testing-tools-whats-the-difference/)
