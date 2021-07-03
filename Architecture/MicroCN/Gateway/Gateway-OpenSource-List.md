@@ -14,9 +14,11 @@
 
 - [2018-ShenYu #Project#](https://github.com/dromara/shenyu): High-Performance Java API Gateway.
 
-## Load Balancer
+## Load Balancer & Traffic Orchestration
 
 - [glb-director #Project#](https://github.com/github/glb-director): GitHub Load Balancer Director and supporting tooling.
+
+- [easegress #Project#](https://github.com/megaease/easegress): A Cloud Native traffic orchestration system
 
 ## Long Connection Gateway
 

@@ -38,6 +38,8 @@
 
 # Universal Toolkits
 
+- [2021-AugLy #Project#](https://github.com/facebookresearch/AugLy): AugLy is a data augmentations library that currently supports four modalities (audio, image, text & video) and over 100 augmentations.
+
 ## Dataset Management
 
 - [Hub #Project#](https://github.com/activeloopai/Hub): Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it.
@@ -76,6 +78,8 @@
 
 - [google-research #Collection# #Project#](https://github.com/google-research/google-research): This repository contains code released by Google AI Research.
 
+- [2021-AliceMind #Project#](https://github.com/alibaba/AliceMind): This repository provides pre-trained encoder-decoder models and its related optimization techniques developed by Alibaba's MinD (Machine IntelligeNce of Damo) Lab.
+
 # Machine Learning
 
 - [NumPy #Project#](http://www.numpy.org/): NumPy is the fundamental package for scientific computing with Python.
@@ -95,6 +99,8 @@
 - [2019-adtk #Project#](https://github.com/arundo/adtk): A Python toolkit for unsupervised anomaly detection in time series
 
 - [2020-sktime #Project#](https://github.com/alan-turing-institute/sktime): A unified framework for machine learning with time series.
+
+- [2021-Kats #Project#](https://github.com/facebookresearch/Kats): Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.
 
 # Deep Learning
 
@@ -118,7 +124,7 @@
 
 - [2020-MiNLP #Project#](https://github.com/XiaoMi/MiNLP): 小米自然语言处理平台（MiNLP）具备词法、句法、语义分析等数十个功能模块，已经在公司业务中得到了广泛应用。
 
-- [2020-fastNLP #Project#](https://cubox.pro/c/2M8iji): fastNLP 是一款轻量级的自然语言处理（NLP）工具包。你既可以用它来快速地完成一个NLP任务， 也可以用它在研究中快速构建更复杂的模型。
+- [2020-fastNLP #Project#](https://cubox.pro/c/2M8iji): fastNLP 是一款轻量级的自然语言处理（NLP）工具包。你既可以用它来快速地完成一个 NLP 任务， 也可以用它在研究中快速构建更复杂的模型。
 
 ## Language Representation
 

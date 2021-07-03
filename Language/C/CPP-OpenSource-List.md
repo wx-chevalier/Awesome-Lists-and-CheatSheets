@@ -14,6 +14,10 @@
 
 - [2020-Catch2 #Project#](https://github.com/catchorg/Catch2): A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
 
+## Debug
+
+- [palanteer #Project#](https://github.com/dfeneyrou/palanteer): High performance visual profiler, debugger, tests enabler for C++ and Python.
+
 # Library
 
 - [Cello #Project#](http://libcello.org/): Cello is a library that brings higher level programming to C. By acting as a modern, powerful runtime system Cello makes many things easy that were previously impractical or awkward in C.

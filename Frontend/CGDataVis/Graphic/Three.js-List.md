@@ -7,3 +7,9 @@
 # OpenSource
 
 - [three-spritetext #Project#](https://github.com/vasturiano/three-spritetext): A sprite based text component for ThreeJS.
+
+## Showcase
+
+### Example
+
+- [threejs-cookbook #Project#](https://github.com/josdirksen/threejs-cookbook): Examples for the Three.js Cookbook book published by packt

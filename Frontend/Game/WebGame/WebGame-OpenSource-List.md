@@ -1,5 +1,9 @@
 # Web Game OpenSource List
 
+# Showcase
+
+- [2021-DuckEngine #Project#](https://github.com/ksplatdev/DuckEngine): 2D Game Library for the web.
+
 # Game Framework
 
 - [2017-Phaser #Project#](https://github.com/photonstorm/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
