@@ -129,79 +129,19 @@
       - [2.2.3 ConcurrentProgramming List](/Architecture/Concurrent/ConcurrentProgramming-List.md)
       - [2.2.4 JobScheduler List](/Architecture/Concurrent/JobScheduler-List.md)
     - 2.3 DistributedSystem
-      - 2.3.1 DistributedCompute
-        - 2.3.1.1 Batch
-          - [2.3.1.1.1 BatchProcessing List](/Architecture/DistributedSystem/DistributedCompute/Batch/BatchProcessing-List.md)
-          - [2.3.1.1.2 Hadoop List](/Architecture/DistributedSystem/DistributedCompute/Batch/Hadoop-List.md)
-          - [2.3.1.1.3 Spark List](/Architecture/DistributedSystem/DistributedCompute/Batch/Spark-List.md)
-        - 2.3.1.2 Datawarehouse
-          - 2.3.1.2.1 DataAggregation
-            - [2.3.1.2.1.1 DataPipeline List](/Architecture/DistributedSystem/DistributedCompute/Datawarehouse/DataAggregation/DataPipeline-List.md)
-            - [2.3.1.2.1.2 ETL List](/Architecture/DistributedSystem/DistributedCompute/Datawarehouse/DataAggregation/ETL-List.md)
-          - 2.3.1.2.2 DataLake
-            - [2.3.1.2.2.1 DataLake List](/Architecture/DistributedSystem/DistributedCompute/Datawarehouse/DataLake/DataLake-List.md)
-            - 2.3.1.2.2.2 Iceberg
-              - [2.3.1.2.2.2.1 Iceberg List](/Architecture/DistributedSystem/DistributedCompute/Datawarehouse/DataLake/Iceberg/Iceberg-List.md)
-          - [2.3.1.2.3 Datawarehouse List](/Architecture/DistributedSystem/DistributedCompute/Datawarehouse/Datawarehouse-List.md)
-          - 2.3.1.2.4 HBase
-            - [2.3.1.2.4.1 HBase List](/Architecture/DistributedSystem/DistributedCompute/Datawarehouse/HBase/HBase-List.md)
-          - 2.3.1.2.5 Hive
-            - [2.3.1.2.5.1 Hive List](/Architecture/DistributedSystem/DistributedCompute/Datawarehouse/Hive/Hive-List.md)
-          - 2.3.1.2.6 OLAP
-            - [2.3.1.2.6.1 Greenplum List](/Architecture/DistributedSystem/DistributedCompute/Datawarehouse/OLAP/Greenplum-List.md)
-            - [2.3.1.2.6.2 OLAP List](/Architecture/DistributedSystem/DistributedCompute/Datawarehouse/OLAP/OLAP-List.md)
-          - 2.3.1.2.7 Presto
-            - [2.3.1.2.7.1 Presto List](/Architecture/DistributedSystem/DistributedCompute/Datawarehouse/Presto/Presto-List.md)
-        - [2.3.1.3 DistributedCompute List](/Architecture/DistributedSystem/DistributedCompute/DistributedCompute-List.md)
-        - [2.3.1.4 DistributedCompute OpenSource List](/Architecture/DistributedSystem/DistributedCompute/DistributedCompute-OpenSource-List.md)
-        - 2.3.1.5 EdgeCompute
-          - [2.3.1.5.1 EdgeCompute List](/Architecture/DistributedSystem/DistributedCompute/EdgeCompute/EdgeCompute-List.md)
-        - 2.3.1.6 QuantumCompute
-          - [2.3.1.6.1 QuantumCompute List](/Architecture/DistributedSystem/DistributedCompute/QuantumCompute/QuantumCompute-List.md)
-        - 2.3.1.7 Stream
-          - [2.3.1.7.1 Flink List](/Architecture/DistributedSystem/DistributedCompute/Stream/Flink-List.md)
-          - [2.3.1.7.2 Pravega List](/Architecture/DistributedSystem/DistributedCompute/Stream/Pravega-List.md)
-          - [2.3.1.7.3 SparkStreaming List](/Architecture/DistributedSystem/DistributedCompute/Stream/SparkStreaming-List.md)
-          - [2.3.1.7.4 Storm List](/Architecture/DistributedSystem/DistributedCompute/Stream/Storm-List.md)
-          - [2.3.1.7.5 StreamProcessing List](/Architecture/DistributedSystem/DistributedCompute/Stream/StreamProcessing-List.md)
-      - 2.3.2 DistributedCoordination
-        - 2.3.2.1 Consensus
-          - [2.3.2.1.1 Consensus List](/Architecture/DistributedSystem/DistributedCoordination/Consensus/Consensus-List.md)
-          - [2.3.2.1.2 Consul List](/Architecture/DistributedSystem/DistributedCoordination/Consensus/Consul-List.md)
-          - [2.3.2.1.3 Etcd List](/Architecture/DistributedSystem/DistributedCoordination/Consensus/Etcd-List.md)
-          - [2.3.2.1.4 Paxos List](/Architecture/DistributedSystem/DistributedCoordination/Consensus/Paxos-List.md)
-          - [2.3.2.1.5 Raft List](/Architecture/DistributedSystem/DistributedCoordination/Consensus/Raft-List.md)
-          - [2.3.2.1.6 ZooKeeper List](/Architecture/DistributedSystem/DistributedCoordination/Consensus/ZooKeeper-List.md)
-        - 2.3.2.2 DistributedTransaction
-          - [2.3.2.2.1 DistributedLock List](/Architecture/DistributedSystem/DistributedCoordination/DistributedTransaction/DistributedLock-List.md)
-          - [2.3.2.2.2 DistributedTransaction List](/Architecture/DistributedSystem/DistributedCoordination/DistributedTransaction/DistributedTransaction-List.md)
-      - 2.3.3 DistributedSchedule
-        - [2.3.3.1 Cron List](/Architecture/DistributedSystem/DistributedSchedule/Cron-List.md)
-      - 2.3.4 DistributedStorage
-        - 2.3.4.1 Blockchain
-          - [2.3.4.1.1 Bitcoin List](/Architecture/DistributedSystem/DistributedStorage/Blockchain/Bitcoin-List.md)
-          - [2.3.4.1.2 Blockchain Internals List](/Architecture/DistributedSystem/DistributedStorage/Blockchain/Blockchain-Internals-List.md)
-          - [2.3.4.1.3 Blockchain List](/Architecture/DistributedSystem/DistributedStorage/Blockchain/Blockchain-List.md)
-          - [2.3.4.1.4 Blockchain OpenSource List](/Architecture/DistributedSystem/DistributedStorage/Blockchain/Blockchain-OpenSource-List.md)
-          - [2.3.4.1.5 Ethereum List](/Architecture/DistributedSystem/DistributedStorage/Blockchain/Ethereum-List.md)
-        - 2.3.4.2 DistributedFS
-          - [2.3.4.2.1 DistributedFS List](/Architecture/DistributedSystem/DistributedStorage/DistributedFS/DistributedFS-List.md)
-          - [2.3.4.2.2 HDFS List](/Architecture/DistributedSystem/DistributedStorage/DistributedFS/HDFS-List.md)
-        - 2.3.4.3 DistributedID
-          - [2.3.4.3.1 DistributedID List](/Architecture/DistributedSystem/DistributedStorage/DistributedID/DistributedID-List.md)
-        - [2.3.4.4 DistributedStorage List](/Architecture/DistributedSystem/DistributedStorage/DistributedStorage-List.md)
-        - [2.3.4.5 DistributedStorage OpenSource List](/Architecture/DistributedSystem/DistributedStorage/DistributedStorage-OpenSource-List.md)
-        - 2.3.4.6 ObjectStorage
-          - [2.3.4.6.1 BlockStorage List](/Architecture/DistributedSystem/DistributedStorage/ObjectStorage/BlockStorage-List.md)
-          - [2.3.4.6.2 DistributedStorage List](/Architecture/DistributedSystem/DistributedStorage/ObjectStorage/DistributedStorage-List.md)
-          - [2.3.4.6.3 ObjectStorage List](/Architecture/DistributedSystem/DistributedStorage/ObjectStorage/ObjectStorage-List.md)
-      - [2.3.5 DistributedSystem List](/Architecture/DistributedSystem/DistributedSystem-List.md)
-      - 2.3.6 MOM
-        - [2.3.6.1 Kafka List](/Architecture/DistributedSystem/MOM/Kafka-List.md)
-        - [2.3.6.2 MOM List](/Architecture/DistributedSystem/MOM/MOM-List.md)
-        - [2.3.6.3 Pulsar List](/Architecture/DistributedSystem/MOM/Pulsar-List.md)
-        - [2.3.6.4 RabbitMQ List](/Architecture/DistributedSystem/MOM/RabbitMQ-List.md)
-        - [2.3.6.5 RocketMQ List](/Architecture/DistributedSystem/MOM/RocketMQ-List.md)
+      - 2.3.1 Consensus
+        - [2.3.1.1 Consensus List](/Architecture/DistributedSystem/Consensus/Consensus-List.md)
+        - [2.3.1.2 Consul List](/Architecture/DistributedSystem/Consensus/Consul-List.md)
+        - [2.3.1.3 Etcd List](/Architecture/DistributedSystem/Consensus/Etcd-List.md)
+        - [2.3.1.4 Paxos List](/Architecture/DistributedSystem/Consensus/Paxos-List.md)
+        - [2.3.1.5 Raft List](/Architecture/DistributedSystem/Consensus/Raft-List.md)
+        - [2.3.1.6 ZooKeeper List](/Architecture/DistributedSystem/Consensus/ZooKeeper-List.md)
+      - 2.3.2 DistributedSchedule
+        - [2.3.2.1 Cron List](/Architecture/DistributedSystem/DistributedSchedule/Cron-List.md)
+      - [2.3.3 DistributedSystem List](/Architecture/DistributedSystem/DistributedSystem-List.md)
+      - 2.3.4 DistributedTransaction
+        - [2.3.4.1 DistributedLock List](/Architecture/DistributedSystem/DistributedTransaction/DistributedLock-List.md)
+        - [2.3.4.2 DistributedTransaction List](/Architecture/DistributedSystem/DistributedTransaction/DistributedTransaction-List.md)
     - 2.4 HA
       - [2.4.1 Cache List](/Architecture/HA/Cache-List.md)
       - [2.4.2 HA List](/Architecture/HA/HA-List.md)
@@ -218,35 +158,24 @@
           - [2.5.1.2.3 GraphQL OpenSource List](/Architecture/MicroCN/API/GraphQL/GraphQL-OpenSource-List.md)
           - [2.5.1.2.4 GraphQL Server List](/Architecture/MicroCN/API/GraphQL/GraphQL-Server-List.md)
         - [2.5.1.3 RESTful List](/Architecture/MicroCN/API/RESTful-List.md)
-      - 2.5.2 CloudNative
-        - [2.5.2.1 CloudNative List](/Architecture/MicroCN/CloudNative/CloudNative-List.md)
-        - [2.5.2.2 Istio List](/Architecture/MicroCN/CloudNative/Istio-List.md)
-        - [2.5.2.3 Serverless List](/Architecture/MicroCN/CloudNative/Serverless-List.md)
-        - [2.5.2.4 ServiceMesh List](/Architecture/MicroCN/CloudNative/ServiceMesh-List.md)
-      - 2.5.3 Configuration
-        - [2.5.3.1 Configuration List](/Architecture/MicroCN/Configuration/Configuration-List.md)
+      - 2.5.2 Auth
+        - [2.5.2.1 Auth List](/Architecture/MicroCN/Auth/Auth-List.md)
+        - [2.5.2.2 Auth OpenSource List](/Architecture/MicroCN/Auth/Auth-OpenSource-List.md)
+      - 2.5.3 CloudNative
+        - [2.5.3.1 CloudNative List](/Architecture/MicroCN/CloudNative/CloudNative-List.md)
+        - [2.5.3.2 Istio List](/Architecture/MicroCN/CloudNative/Istio-List.md)
+        - [2.5.3.3 Serverless List](/Architecture/MicroCN/CloudNative/Serverless-List.md)
+        - [2.5.3.4 ServiceMesh List](/Architecture/MicroCN/CloudNative/ServiceMesh-List.md)
       - 2.5.4 DistributedTracing
         - [2.5.4.1 DistributedTracing List](/Architecture/MicroCN/DistributedTracing/DistributedTracing-List.md)
-      - 2.5.5 Gateway
-        - [2.5.5.1 Gateway List](/Architecture/MicroCN/Gateway/Gateway-List.md)
-        - [2.5.5.2 Gateway OpenSource List](/Architecture/MicroCN/Gateway/Gateway-OpenSource-List.md)
-        - 2.5.5.3 WebServer
-          - [2.5.5.3.1 Apache List](/Architecture/MicroCN/Gateway/WebServer/Apache-List.md)
-          - [2.5.5.3.2 Caddy List](/Architecture/MicroCN/Gateway/WebServer/Caddy-List.md)
-          - [2.5.5.3.3 HAProxy List](/Architecture/MicroCN/Gateway/WebServer/HAProxy-List.md)
-          - [2.5.5.3.4 Kong List](/Architecture/MicroCN/Gateway/WebServer/Kong-List.md)
-          - [2.5.5.3.5 LVS List](/Architecture/MicroCN/Gateway/WebServer/LVS-List.md)
-          - [2.5.5.3.6 Nginx List](/Architecture/MicroCN/Gateway/WebServer/Nginx-List.md)
-          - [2.5.5.3.7 Tengine List](/Architecture/MicroCN/Gateway/WebServer/Tengine-List.md)
-          - [2.5.5.3.8 Traefik List](/Architecture/MicroCN/Gateway/WebServer/Traefik-List.md)
-      - [2.5.6 MicroService List](/Architecture/MicroCN/MicroService-List.md)
-      - 2.5.7 RPC
-        - [2.5.7.1 BRPC List](/Architecture/MicroCN/RPC/BRPC-List.md)
-        - [2.5.7.2 Dubbo List](/Architecture/MicroCN/RPC/Dubbo-List.md)
-        - [2.5.7.3 RPC List](/Architecture/MicroCN/RPC/RPC-List.md)
-        - [2.5.7.4 RPC OpenSource List](/Architecture/MicroCN/RPC/RPC-OpenSource-List.md)
-        - [2.5.7.5 Serialization List](/Architecture/MicroCN/RPC/Serialization-List.md)
-        - [2.5.7.6 gRPC List](/Architecture/MicroCN/RPC/gRPC-List.md)
+      - [2.5.5 MicroService List](/Architecture/MicroCN/MicroService-List.md)
+      - 2.5.6 RPC
+        - [2.5.6.1 BRPC List](/Architecture/MicroCN/RPC/BRPC-List.md)
+        - [2.5.6.2 Dubbo List](/Architecture/MicroCN/RPC/Dubbo-List.md)
+        - [2.5.6.3 RPC List](/Architecture/MicroCN/RPC/RPC-List.md)
+        - [2.5.6.4 RPC OpenSource List](/Architecture/MicroCN/RPC/RPC-OpenSource-List.md)
+        - [2.5.6.5 Serialization List](/Architecture/MicroCN/RPC/Serialization-List.md)
+        - [2.5.6.6 gRPC List](/Architecture/MicroCN/RPC/gRPC-List.md)
     - 2.6 PatternStyle
       - [2.6.1 DDD List](/Architecture/PatternStyle/DDD-List.md)
       - [2.6.2 EDA List](/Architecture/PatternStyle/EDA-List.md)
@@ -490,57 +419,21 @@
           - [6.1.6.2.1 OpenStack List](/Infrastructure/Cloud/VM/OpenStack/OpenStack-List.md)
         - 6.1.6.3 Xen
           - [6.1.6.3.1 Xen List](/Infrastructure/Cloud/VM/Xen/Xen-List.md)
-    - 6.2 Database
-      - [6.2.1 Database List](/Infrastructure/Database/Database-List.md)
-      - [6.2.2 Database OpenSource List](/Infrastructure/Database/Database-OpenSource-List.md)
-      - 6.2.3 Document
-        - [6.2.3.1 Document List](/Infrastructure/Database/Document/Document-List.md)
-        - 6.2.3.2 ElasticSearch
-          - [6.2.3.2.1 ES Internals List](/Infrastructure/Database/Document/ElasticSearch/ES-Internals-List.md)
-          - [6.2.3.2.2 ES List](/Infrastructure/Database/Document/ElasticSearch/ES-List.md)
-          - [6.2.3.2.3 ES Practices List](/Infrastructure/Database/Document/ElasticSearch/ES-Practices-List.md)
-        - 6.2.3.3 MongoDB
-          - [6.2.3.3.1 MongoDB List](/Infrastructure/Database/Document/MongoDB/MongoDB-List.md)
-        - 6.2.3.4 SearchEngine
-          - [6.2.3.4.1 SearchEngine List](/Infrastructure/Database/Document/SearchEngine/SearchEngine-List.md)
-      - 6.2.4 Graph
-        - [6.2.4.1 GraphDB List](/Infrastructure/Database/Graph/GraphDB-List.md)
-      - 6.2.5 KeyValue
-        - 6.2.5.1 LevelDB
-          - [6.2.5.1.1 LevelDB List](/Infrastructure/Database/KeyValue/LevelDB/LevelDB-List.md)
-        - 6.2.5.2 Redis
-          - [6.2.5.2.1 Redis Cluster List](/Infrastructure/Database/KeyValue/Redis/Redis-Cluster-List.md)
-          - [6.2.5.2.2 Redis Internals List](/Infrastructure/Database/KeyValue/Redis/Redis-Internals-List.md)
-          - [6.2.5.2.3 Redis List](/Infrastructure/Database/KeyValue/Redis/Redis-List.md)
-      - 6.2.6 NewSQL
-        - [6.2.6.1 NewSQL List](/Infrastructure/Database/NewSQL/NewSQL-List.md)
-        - 6.2.6.2 PingCAP
-          - [6.2.6.2.1 TiDB List](/Infrastructure/Database/NewSQL/PingCAP/TiDB-List.md)
-      - 6.2.7 RDB
-        - 6.2.7.1 MySQL
-          - [6.2.7.1.1 MySQL Cluster List](/Infrastructure/Database/RDB/MySQL/MySQL-Cluster-List.md)
-          - [6.2.7.1.2 MySQL List](/Infrastructure/Database/RDB/MySQL/MySQL-List.md)
-          - [6.2.7.1.3 MySQL StoreEngine List](/Infrastructure/Database/RDB/MySQL/MySQL-StoreEngine-List.md)
-          - [6.2.7.1.4 MySQL Tuning List](/Infrastructure/Database/RDB/MySQL/MySQL-Tuning-List.md)
-        - 6.2.7.2 Oracle
-          - [6.2.7.2.1 Oracle List](/Infrastructure/Database/RDB/Oracle/Oracle-List.md)
-        - 6.2.7.3 PostgreSQL
-          - [6.2.7.3.1 PostgreSQL List](/Infrastructure/Database/RDB/PostgreSQL/PostgreSQL-List.md)
-          - [6.2.7.3.2 PostgreSQL OpenSource List](/Infrastructure/Database/RDB/PostgreSQL/PostgreSQL-OpenSource-List.md)
-        - [6.2.7.4 RDB List](/Infrastructure/Database/RDB/RDB-List.md)
-        - 6.2.7.5 SQL
-          - [6.2.7.5.1 SQL List](/Infrastructure/Database/RDB/SQL/SQL-List.md)
-        - 6.2.7.6 SQLServer
-          - [6.2.7.6.1 SQLServer List](/Infrastructure/Database/RDB/SQLServer/SQLServer-List.md)
-        - 6.2.7.7 SQLite
-          - [6.2.7.7.1 SQLite List](/Infrastructure/Database/RDB/SQLite/SQLite-List.md)
-        - 6.2.7.8 Sharding
-          - [6.2.7.8.1 Sharding List](/Infrastructure/Database/RDB/Sharding/Sharding-List.md)
-      - 6.2.8 TimeSeries
-        - [6.2.8.1 InfluxDB List](/Infrastructure/Database/TimeSeries/InfluxDB-List.md)
-        - [6.2.8.2 Prometheus List](/Infrastructure/Database/TimeSeries/Prometheus-List.md)
-        - [6.2.8.3 TimeSeries List](/Infrastructure/Database/TimeSeries/TimeSeries-List.md)
-    - [6.3 Infrastructure List](/Infrastructure/Infrastructure-List.md)
+    - [6.2 Infrastructure List](/Infrastructure/Infrastructure-List.md)
+    - 6.3 IoT
+      - 6.3.1 Chip
+        - [6.3.1.1 Chip List](/Infrastructure/IoT/Chip/Chip-List.md)
+        - [6.3.1.2 PCB List](/Infrastructure/IoT/Chip/PCB-List.md)
+      - 6.3.2 HomeAutomation
+        - [6.3.2.1 HomeAutomation List](/Infrastructure/IoT/HomeAutomation/HomeAutomation-List.md)
+      - [6.3.3 IoT List](/Infrastructure/IoT/IoT-List.md)
+      - [6.3.4 IoT OpenSource List](/Infrastructure/IoT/IoT-OpenSource-List.md)
+      - 6.3.5 MCU
+        - [6.3.5.1 MCU List](/Infrastructure/IoT/MCU/MCU-List.md)
+      - 6.3.6 Platform
+        - [6.3.6.1 Raspberry List](/Infrastructure/IoT/Platform/Raspberry-List.md)
+      - 6.3.7 Protocol
+        - [6.3.7.1 MQTT List](/Infrastructure/IoT/Protocol/MQTT-List.md)
     - 6.4 Network
       - 6.4.1 HTTP
         - [6.4.1.1 DNS List](/Infrastructure/Network/HTTP/DNS-List.md)
@@ -559,35 +452,21 @@
         - [6.4.6.1 TCPIP List](/Infrastructure/Network/TCP-IP/TCPIP-List.md)
         - [6.4.6.2 UDP List](/Infrastructure/Network/TCP-IP/UDP-List.md)
     - 6.5 OS
-      - 6.5.1 IoT
-        - 6.5.1.1 Chip
-          - [6.5.1.1.1 Chip List](/Infrastructure/OS/IoT/Chip/Chip-List.md)
-          - [6.5.1.1.2 PCB List](/Infrastructure/OS/IoT/Chip/PCB-List.md)
-        - 6.5.1.2 HomeAutomation
-          - [6.5.1.2.1 HomeAutomation List](/Infrastructure/OS/IoT/HomeAutomation/HomeAutomation-List.md)
-        - [6.5.1.3 IoT List](/Infrastructure/OS/IoT/IoT-List.md)
-        - [6.5.1.4 IoT OpenSource List](/Infrastructure/OS/IoT/IoT-OpenSource-List.md)
-        - 6.5.1.5 Platform
-          - [6.5.1.5.1 Raspberry List](/Infrastructure/OS/IoT/Platform/Raspberry-List.md)
-        - 6.5.1.6 Protocol
-          - [6.5.1.6.1 MQTT List](/Infrastructure/OS/IoT/Protocol/MQTT-List.md)
-      - 6.5.2 Linux
-        - [6.5.2.1 Linux Command List](/Infrastructure/OS/Linux/Linux-Command-List.md)
-        - [6.5.2.2 Linux Kernel List](/Infrastructure/OS/Linux/Linux-Kernel-List.md)
-        - [6.5.2.3 Linux List](/Infrastructure/OS/Linux/Linux-List.md)
-        - [6.5.2.4 Linux Network List](/Infrastructure/OS/Linux/Linux-Network-List.md)
-        - [6.5.2.5 Linux OpenSource List](/Infrastructure/OS/Linux/Linux-OpenSource-List.md)
-        - [6.5.2.6 Linux Shell List](/Infrastructure/OS/Linux/Linux-Shell-List.md)
-        - [6.5.2.7 Linux Storage List](/Infrastructure/OS/Linux/Linux-Storage-List.md)
-        - [6.5.2.8 Linux SysProc List](/Infrastructure/OS/Linux/Linux-SysProc-List.md)
-      - 6.5.3 MCU
-        - [6.5.3.1 MCU List](/Infrastructure/OS/MCU/MCU-List.md)
-      - [6.5.4 OS List](/Infrastructure/OS/OS-List.md)
-      - [6.5.5 OS OpenSource List](/Infrastructure/OS/OS-OpenSource-List.md)
-      - 6.5.6 Theory
-        - [6.5.6.1 OST List](/Infrastructure/OS/Theory/OST-List.md)
-      - 6.5.7 Windows
-        - [6.5.7.1 Windows List](/Infrastructure/OS/Windows/Windows-List.md)
+      - 6.5.1 Linux
+        - [6.5.1.1 Linux Command List](/Infrastructure/OS/Linux/Linux-Command-List.md)
+        - [6.5.1.2 Linux Kernel List](/Infrastructure/OS/Linux/Linux-Kernel-List.md)
+        - [6.5.1.3 Linux List](/Infrastructure/OS/Linux/Linux-List.md)
+        - [6.5.1.4 Linux Network List](/Infrastructure/OS/Linux/Linux-Network-List.md)
+        - [6.5.1.5 Linux OpenSource List](/Infrastructure/OS/Linux/Linux-OpenSource-List.md)
+        - [6.5.1.6 Linux Shell List](/Infrastructure/OS/Linux/Linux-Shell-List.md)
+        - [6.5.1.7 Linux Storage List](/Infrastructure/OS/Linux/Linux-Storage-List.md)
+        - [6.5.1.8 Linux SysProc List](/Infrastructure/OS/Linux/Linux-SysProc-List.md)
+      - [6.5.2 OS List](/Infrastructure/OS/OS-List.md)
+      - [6.5.3 OS OpenSource List](/Infrastructure/OS/OS-OpenSource-List.md)
+      - 6.5.4 Theory
+        - [6.5.4.1 OST List](/Infrastructure/OS/Theory/OST-List.md)
+      - 6.5.5 Windows
+        - [6.5.5.1 Windows List](/Infrastructure/OS/Windows/Windows-List.md)
   - 7 Language
     - 7.1 AlgoDS
       - [7.1.1 AlgoDS List](/Language/AlgoDS/AlgoDS-List.md)
@@ -721,221 +600,342 @@
         - [7.14.6.1 Type Theory List](/Language/Theory/TypeTheory/Type-Theory-List.md)
       - 7.14.7 VM
         - [7.14.7.1 VM List](/Language/Theory/VM/VM-List.md)
-  - [8 README en](/README-en.md)
-  - 9 Specials
-    - [9.1 Awesome Specials](/Specials/Awesome-Specials.md)
-    - 9.2 Collections
-      - [9.2.1 Awesome DataSets](/Specials/Collections/Awesome-DataSets.md)
-      - [9.2.2 Awesome Learnings](/Specials/Collections/Awesome-Learnings.md)
-      - [9.2.3 Awesome Names](/Specials/Collections/Awesome-Names.md)
-      - [9.2.4 Awesome Tools](/Specials/Collections/Awesome-Tools.md)
-      - [9.2.5 Awesome Vision](/Specials/Collections/Awesome-Vision.md)
-    - 9.3 Showcases
-      - [9.3.1 Awesome Codebases](/Specials/Showcases/Awesome-Codebases.md)
-      - [9.3.2 Awesome DataVis](/Specials/Showcases/Awesome-DataVis.md)
-      - [9.3.3 Coding as Vetren](/Specials/Showcases/Coding-as-Vetren.md)
-    - [9.4 Tools](/Specials/Tools/README.md)
-      - [9.4.1 Design](/Specials/Tools/Design.md)
-      - [9.4.2 DevOps](/Specials/Tools/DevOps.md)
-      - [9.4.3 Documents](/Specials/Tools/Documents.md)
-      - [9.4.4 IDE](/Specials/Tools/IDE.md)
-      - [9.4.5 Network](/Specials/Tools/Network.md)
-      - [9.4.6 OS](/Specials/Tools/OS.md)
-      - [9.4.7 PaaS](/Specials/Tools/PaaS.md)
-      - [9.4.8 Productivity](/Specials/Tools/Productivity.md)
-    - [9.5 Weekly](/Specials/Weekly/README.md)
-      - 9.5.1 
-        - 9.5.1.1 
-          - [9.5.1.1.1 ](/Specials/Weekly/2016/12/12.1.md)
-          - [9.5.1.1.2 ](/Specials/Weekly/2016/12/12.2.md)
-      - 9.5.2 
-        - 9.5.2.1 
-          - [9.5.2.1.1 ](/Specials/Weekly/2017/1/1.1.md)
-          - [9.5.2.1.2 ](/Specials/Weekly/2017/1/1.2.md)
-          - [9.5.2.1.3 ](/Specials/Weekly/2017/1/1.3.md)
-          - [9.5.2.1.4 ](/Specials/Weekly/2017/1/1.4.md)
-        - 9.5.2.2 
-          - [9.5.2.2.1 ](/Specials/Weekly/2017/10/10.1.md)
-          - [9.5.2.2.2 ](/Specials/Weekly/2017/10/10.2.md)
-          - [9.5.2.2.3 ](/Specials/Weekly/2017/10/10.3.md)
-          - [9.5.2.2.4 ](/Specials/Weekly/2017/10/10.4.md)
-        - 9.5.2.3 
-          - [9.5.2.3.1 ](/Specials/Weekly/2017/11/11.1.md)
-          - [9.5.2.3.2 ](/Specials/Weekly/2017/11/11.2.md)
-          - [9.5.2.3.3 ](/Specials/Weekly/2017/11/11.3.md)
-          - [9.5.2.3.4 ](/Specials/Weekly/2017/11/11.4.md)
-        - 9.5.2.4 
-          - [9.5.2.4.1 ](/Specials/Weekly/2017/12/12.1.md)
-          - [9.5.2.4.2 ](/Specials/Weekly/2017/12/12.2.md)
-          - [9.5.2.4.3 ](/Specials/Weekly/2017/12/12.3.md)
-          - [9.5.2.4.4 ](/Specials/Weekly/2017/12/12.4.md)
-        - 9.5.2.5 
-          - [9.5.2.5.1 Frontend](/Specials/Weekly/2017/2/2.1-Frontend.md)
-          - [9.5.2.5.2 ](/Specials/Weekly/2017/2/2.1.md)
-          - [9.5.2.5.3 Frontend](/Specials/Weekly/2017/2/2.2-Frontend.md)
-          - [9.5.2.5.4 ](/Specials/Weekly/2017/2/2.2.md)
-          - [9.5.2.5.5 ](/Specials/Weekly/2017/2/2.3.md)
-          - [9.5.2.5.6 ](/Specials/Weekly/2017/2/2.4.md)
-          - [9.5.2.5.7 ](/Specials/Weekly/2017/2/2.5.md)
-          - [9.5.2.5.8 ](/Specials/Weekly/2017/2/2.6.md)
-        - 9.5.2.6 
-          - [9.5.2.6.1 Frontend](/Specials/Weekly/2017/3/3.1-Frontend.md)
-          - [9.5.2.6.2 ](/Specials/Weekly/2017/3/3.1.md)
-          - [9.5.2.6.3 Frontend](/Specials/Weekly/2017/3/3.2-Frontend.md)
-          - [9.5.2.6.4 Frontend](/Specials/Weekly/2017/3/3.3-Frontend.md)
-          - [9.5.2.6.5 Frontend](/Specials/Weekly/2017/3/3.4-Frontend.md)
-        - 9.5.2.7 
-          - [9.5.2.7.1 Frontend](/Specials/Weekly/2017/4/4.1-Frontend.md)
-          - [9.5.2.7.2 Frontend](/Specials/Weekly/2017/4/4.2-Frontend.md)
-          - [9.5.2.7.3 Frontend](/Specials/Weekly/2017/4/4.3-Frontend.md)
-          - [9.5.2.7.4 Frontend](/Specials/Weekly/2017/4/4.4-Frontend.md)
-        - 9.5.2.8 
-          - [9.5.2.8.1 Frontend](/Specials/Weekly/2017/5/5.1-Frontend.md)
-          - [9.5.2.8.2 Frontend](/Specials/Weekly/2017/5/5.2-Frontend.md)
-          - [9.5.2.8.3 Frontend](/Specials/Weekly/2017/5/5.3-Frontend.md)
-          - [9.5.2.8.4 Frontend](/Specials/Weekly/2017/5/5.4-Frontend.md)
-        - 9.5.2.9 
-          - [9.5.2.9.1 Frontend](/Specials/Weekly/2017/6/6.1-Frontend.md)
-          - [9.5.2.9.2 Frontend](/Specials/Weekly/2017/6/6.2-Frontend.md)
-          - [9.5.2.9.3 Frontend](/Specials/Weekly/2017/6/6.3-Frontend.md)
-          - [9.5.2.9.4 Frontend](/Specials/Weekly/2017/6/6.4-Frontend.md)
-          - [9.5.2.9.5 Frontend](/Specials/Weekly/2017/6/6.5-Frontend.md)
-        - 9.5.2.10 
-          - [9.5.2.10.1 Frontend](/Specials/Weekly/2017/7/7.1-Frontend.md)
-          - [9.5.2.10.2 Frontend](/Specials/Weekly/2017/7/7.2-Frontend.md)
-          - [9.5.2.10.3 Frontend](/Specials/Weekly/2017/7/7.3-Frontend.md)
-          - [9.5.2.10.4 Frontend](/Specials/Weekly/2017/7/7.4-Frontend.md)
-          - [9.5.2.10.5 Frontend](/Specials/Weekly/2017/7/7.5-Frontend.md)
-        - 9.5.2.11 
-          - [9.5.2.11.1 ](/Specials/Weekly/2017/8/8.1.md)
-          - [9.5.2.11.2 ](/Specials/Weekly/2017/8/8.2.md)
-          - [9.5.2.11.3 ](/Specials/Weekly/2017/8/8.3.md)
-          - [9.5.2.11.4 ](/Specials/Weekly/2017/8/8.4.md)
-        - 9.5.2.12 
-          - [9.5.2.12.1 ](/Specials/Weekly/2017/9/9.1.md)
-          - [9.5.2.12.2 ](/Specials/Weekly/2017/9/9.2.md)
-          - [9.5.2.12.3 ](/Specials/Weekly/2017/9/9.3.md)
-          - [9.5.2.12.4 ](/Specials/Weekly/2017/9/9.4.md)
-          - [9.5.2.12.5 ](/Specials/Weekly/2017/9/9.5.md)
-      - 9.5.3 
-        - 9.5.3.1 
-          - [9.5.3.1.1 ](/Specials/Weekly/2018/1/1.1.md)
-          - [9.5.3.1.2 en](/Specials/Weekly/2018/1/1.2-en.md)
-          - [9.5.3.1.3 ](/Specials/Weekly/2018/1/1.2.md)
-          - [9.5.3.1.4 en](/Specials/Weekly/2018/1/1.3-en.md)
-          - [9.5.3.1.5 ](/Specials/Weekly/2018/1/1.3.md)
-          - [9.5.3.1.6 en](/Specials/Weekly/2018/1/1.4-en.md)
-          - [9.5.3.1.7 ](/Specials/Weekly/2018/1/1.4.md)
-        - 9.5.3.2 
-          - [9.5.3.2.1 en](/Specials/Weekly/2018/2/2.1-en.md)
-          - [9.5.3.2.2 ](/Specials/Weekly/2018/2/2.1.md)
-          - [9.5.3.2.3 en](/Specials/Weekly/2018/2/2.2-en.md)
-          - [9.5.3.2.4 ](/Specials/Weekly/2018/2/2.2.md)
-          - [9.5.3.2.5 en](/Specials/Weekly/2018/2/2.3-en.md)
-          - [9.5.3.2.6 ](/Specials/Weekly/2018/2/2.3.md)
-        - 9.5.3.3 
-          - [9.5.3.3.1 en](/Specials/Weekly/2018/3/3.1-en.md)
-          - [9.5.3.3.2 ](/Specials/Weekly/2018/3/3.1.md)
-          - [9.5.3.3.3 en](/Specials/Weekly/2018/3/3.2-en.md)
-          - [9.5.3.3.4 ](/Specials/Weekly/2018/3/3.2.md)
-          - [9.5.3.3.5 en](/Specials/Weekly/2018/3/3.3-en.md)
-          - [9.5.3.3.6 ](/Specials/Weekly/2018/3/3.3.md)
-          - [9.5.3.3.7 en](/Specials/Weekly/2018/3/3.4-en.md)
-          - [9.5.3.3.8 ](/Specials/Weekly/2018/3/3.4.md)
-        - 9.5.3.4 
-          - [9.5.3.4.1 en](/Specials/Weekly/2018/4/4.1-en.md)
-      - [9.5.4 ABOUT](/Specials/Weekly/ABOUT.md)
-      - [9.5.5 CONTRIBUTION](/Specials/Weekly/CONTRIBUTION.md)
-      - 9.5.6 SemiannualReport
-        - 9.5.6.1 1
-          - [9.5.6.1.1 Angular](/Specials/Weekly/SemiannualReport/2017-1/Angular.md)
-          - [9.5.6.1.2 CSS](/Specials/Weekly/SemiannualReport/2017-1/CSS.md)
-          - [9.5.6.1.3 JavaScript](/Specials/Weekly/SemiannualReport/2017-1/JavaScript.md)
-          - [9.5.6.1.4 Node](/Specials/Weekly/SemiannualReport/2017-1/Node.md)
-          - [9.5.6.1.5 PWA](/Specials/Weekly/SemiannualReport/2017-1/PWA.md)
-          - [9.5.6.1.6 React](/Specials/Weekly/SemiannualReport/2017-1/React.md)
-          - [9.5.6.1.7 Vue.js](/Specials/Weekly/SemiannualReport/2017-1/Vue.js.md)
-          - [9.5.6.1.8 WebAssembly](/Specials/Weekly/SemiannualReport/2017-1/WebAssembly.md)
-      - [9.5.7 TEMPLATE](/Specials/Weekly/TEMPLATE.md)
-      - [9.5.8 Template en](/Specials/Weekly/Template-en.md)
-  - 10 System
-    - 10.1 Application
-      - 10.1.1 ERP
-        - [10.1.1.1 CRM List](/System/Application/ERP/CRM-List.md)
-        - [10.1.1.2 ERP List](/System/Application/ERP/ERP-List.md)
-        - 10.1.1.3 HCM
-          - [10.1.1.3.1 HCM List](/System/Application/ERP/HCM/HCM-List.md)
-      - 10.1.2 II MES
-        - [10.1.2.1 MES List](/System/Application/II-MES/MES-List.md)
-      - 10.1.3 Mall
-        - [10.1.3.1 LBS List](/System/Application/Mall/LBS-List.md)
-        - [10.1.3.2 Logistics List](/System/Application/Mall/Logistics-List.md)
-        - [10.1.3.3 Mall List](/System/Application/Mall/Mall-List.md)
-        - [10.1.3.4 Mall OpenSource List](/System/Application/Mall/Mall-OpenSource-List.md)
-        - [10.1.3.5 Pay List](/System/Application/Mall/Pay-List.md)
-      - 10.1.4 OA
-        - [10.1.4.1 CMS List](/System/Application/OA/CMS-List.md)
-        - [10.1.4.2 OA List](/System/Application/OA/OA-List.md)
-      - 10.1.5 OpenPlatform
-        - [10.1.5.1 Alipay List](/System/Application/OpenPlatform/Alipay-List.md)
-        - [10.1.5.2 OpenPlatform List](/System/Application/OpenPlatform/OpenPlatform-List.md)
-        - [10.1.5.3 Wechat List](/System/Application/OpenPlatform/Wechat-List.md)
-    - 10.2 Auth
-      - [10.2.1 Auth List](/System/Auth/Auth-List.md)
-      - [10.2.2 Auth OpenSource List](/System/Auth/Auth-OpenSource-List.md)
-    - 10.3 DevOps
-      - [10.3.1 AIOps List](/System/DevOps/AIOps-List.md)
-      - 10.3.2 Automation
-        - [10.3.2.1 Automation List](/System/DevOps/Automation/Automation-List.md)
-      - 10.3.3 CD
-        - [10.3.3.1 CI List](/System/DevOps/CD/CI-List.md)
-        - [10.3.3.2 Delivery List](/System/DevOps/CD/Delivery-List.md)
-      - [10.3.4 DevOps List](/System/DevOps/DevOps-List.md)
-      - [10.3.5 DevOps OpenSource List](/System/DevOps/DevOps-OpenSource-List.md)
-      - 10.3.6 LogAggregation
-        - [10.3.6.1 Flume List](/System/DevOps/LogAggregation/Flume-List.md)
-        - [10.3.6.2 LogAggregation List](/System/DevOps/LogAggregation/LogAggregation-List.md)
-      - 10.3.7 MonitorAlert
-        - [10.3.7.1 APM List](/System/DevOps/MonitorAlert/APM-List.md)
-        - [10.3.7.2 Aggregation List](/System/DevOps/MonitorAlert/Aggregation-List.md)
-        - [10.3.7.3 MonitorAlert List](/System/DevOps/MonitorAlert/MonitorAlert-List.md)
-        - [10.3.7.4 MonitorAlert OpenSource List](/System/DevOps/MonitorAlert/MonitorAlert-OpenSource-List.md)
-    - 10.4 InfoSecurity
-      - 10.4.1 Crawler
-        - [10.4.1.1 Crawler List](/System/InfoSecurity/Crawler/Crawler-List.md)
-        - [10.4.1.2 Crawler OpenSource List](/System/InfoSecurity/Crawler/Crawler-OpenSource-List.md)
-      - 10.4.2 Cryptology
-        - [10.4.2.1 Codec List](/System/InfoSecurity/Cryptology/Codec-List.md)
-        - [10.4.2.2 Cryptology List](/System/InfoSecurity/Cryptology/Cryptology-List.md)
-      - [10.4.3 InfoSecurity List](/System/InfoSecurity/InfoSecurity-List.md)
-      - [10.4.4 InfoSecurity OpenSource List](/System/InfoSecurity/InfoSecurity-OpenSource-List.md)
-      - 10.4.5 OSSecurity
-        - [10.4.5.1 Harden List](/System/InfoSecurity/OSSecurity/Harden-List.md)
-        - [10.4.5.2 OSSecurity List](/System/InfoSecurity/OSSecurity/OSSecurity-List.md)
-      - 10.4.6 ReverseEngineering
-        - [10.4.6.1 ReverseEngineering List](/System/InfoSecurity/ReverseEngineering/ReverseEngineering-List.md)
-      - 10.4.7 Vulns
-        - [10.4.7.1 Vulns List](/System/InfoSecurity/Vulns/Vulns-List.md)
-      - 10.4.8 WebSecurity
-        - [10.4.8.1 WebSecurity List](/System/InfoSecurity/WebSecurity/WebSecurity-List.md)
-    - 10.5 SoftwareEngineering
-      - 10.5.1 Agile
-        - [10.5.1.1 Agile List](/System/SoftwareEngineering/Agile/Agile-List.md)
-      - 10.5.2 Git
-        - [10.5.2.1 Git List](/System/SoftwareEngineering/Git/Git-List.md)
-        - [10.5.2.2 Git OpenSource List](/System/SoftwareEngineering/Git/Git-OpenSource-List.md)
-        - [10.5.2.3 Git Workflow List](/System/SoftwareEngineering/Git/Git-Workflow-List.md)
-        - [10.5.2.4 Github List](/System/SoftwareEngineering/Git/Github-List.md)
-      - 10.5.3 OpenSource
-        - [10.5.3.1 OpenSource List](/System/SoftwareEngineering/OpenSource/OpenSource-List.md)
-      - 10.5.4 TechnicalManagement
-        - [10.5.4.1 TechnicalManagement List](/System/SoftwareEngineering/TechnicalManagement/TechnicalManagement-List.md)
-      - 10.5.5 Workflow
-        - [10.5.5.1 Workflow List](/System/SoftwareEngineering/Workflow/Workflow-List.md)
-        - [10.5.5.2 Workflow OpenSource List](/System/SoftwareEngineering/Workflow/Workflow-OpenSource-List.md)
-    - [10.6 System List](/System/System-List.md)
-    - [10.7 System OpenSource List](/System/System-OpenSource-List.md)
-    - 10.8 Test
-      - [10.8.1 PerformanceTest List](/System/Test/PerformanceTest-List.md)
-      - [10.8.2 Test List](/System/Test/Test-List.md)
-      - [10.8.3 Test OpenSource List](/System/Test/Test-OpenSource-List.md)
+  - 8 Middleware
+    - 8.1 Database
+      - [8.1.1 Database List](/Middleware/Database/Database-List.md)
+      - [8.1.2 Database OpenSource List](/Middleware/Database/Database-OpenSource-List.md)
+      - 8.1.3 Document
+        - [8.1.3.1 Document List](/Middleware/Database/Document/Document-List.md)
+        - 8.1.3.2 ElasticSearch
+          - [8.1.3.2.1 ES Internals List](/Middleware/Database/Document/ElasticSearch/ES-Internals-List.md)
+          - [8.1.3.2.2 ES List](/Middleware/Database/Document/ElasticSearch/ES-List.md)
+          - [8.1.3.2.3 ES Practices List](/Middleware/Database/Document/ElasticSearch/ES-Practices-List.md)
+        - 8.1.3.3 MongoDB
+          - [8.1.3.3.1 MongoDB List](/Middleware/Database/Document/MongoDB/MongoDB-List.md)
+        - 8.1.3.4 SearchEngine
+          - [8.1.3.4.1 SearchEngine List](/Middleware/Database/Document/SearchEngine/SearchEngine-List.md)
+      - 8.1.4 Graph
+        - [8.1.4.1 GraphDB List](/Middleware/Database/Graph/GraphDB-List.md)
+      - 8.1.5 KeyValue
+        - 8.1.5.1 Configuration
+          - [8.1.5.1.1 Configuration List](/Middleware/Database/KeyValue/Configuration/Configuration-List.md)
+        - 8.1.5.2 LevelDB
+          - [8.1.5.2.1 LevelDB List](/Middleware/Database/KeyValue/LevelDB/LevelDB-List.md)
+        - 8.1.5.3 Redis
+          - [8.1.5.3.1 Redis Cluster List](/Middleware/Database/KeyValue/Redis/Redis-Cluster-List.md)
+          - [8.1.5.3.2 Redis Internals List](/Middleware/Database/KeyValue/Redis/Redis-Internals-List.md)
+          - [8.1.5.3.3 Redis List](/Middleware/Database/KeyValue/Redis/Redis-List.md)
+      - 8.1.6 NewSQL
+        - [8.1.6.1 NewSQL List](/Middleware/Database/NewSQL/NewSQL-List.md)
+        - 8.1.6.2 PingCAP
+          - [8.1.6.2.1 TiDB List](/Middleware/Database/NewSQL/PingCAP/TiDB-List.md)
+      - 8.1.7 RDB
+        - 8.1.7.1 MySQL
+          - [8.1.7.1.1 MySQL Cluster List](/Middleware/Database/RDB/MySQL/MySQL-Cluster-List.md)
+          - [8.1.7.1.2 MySQL List](/Middleware/Database/RDB/MySQL/MySQL-List.md)
+          - [8.1.7.1.3 MySQL StoreEngine List](/Middleware/Database/RDB/MySQL/MySQL-StoreEngine-List.md)
+          - [8.1.7.1.4 MySQL Tuning List](/Middleware/Database/RDB/MySQL/MySQL-Tuning-List.md)
+        - 8.1.7.2 Oracle
+          - [8.1.7.2.1 Oracle List](/Middleware/Database/RDB/Oracle/Oracle-List.md)
+        - 8.1.7.3 PostgreSQL
+          - [8.1.7.3.1 PostgreSQL List](/Middleware/Database/RDB/PostgreSQL/PostgreSQL-List.md)
+          - [8.1.7.3.2 PostgreSQL OpenSource List](/Middleware/Database/RDB/PostgreSQL/PostgreSQL-OpenSource-List.md)
+        - [8.1.7.4 RDB List](/Middleware/Database/RDB/RDB-List.md)
+        - 8.1.7.5 SQL
+          - [8.1.7.5.1 SQL List](/Middleware/Database/RDB/SQL/SQL-List.md)
+        - 8.1.7.6 SQLServer
+          - [8.1.7.6.1 SQLServer List](/Middleware/Database/RDB/SQLServer/SQLServer-List.md)
+        - 8.1.7.7 SQLite
+          - [8.1.7.7.1 SQLite List](/Middleware/Database/RDB/SQLite/SQLite-List.md)
+        - 8.1.7.8 Sharding
+          - [8.1.7.8.1 Sharding List](/Middleware/Database/RDB/Sharding/Sharding-List.md)
+      - 8.1.8 TimeSeries
+        - [8.1.8.1 InfluxDB List](/Middleware/Database/TimeSeries/InfluxDB-List.md)
+        - [8.1.8.2 Prometheus List](/Middleware/Database/TimeSeries/Prometheus-List.md)
+        - [8.1.8.3 TimeSeries List](/Middleware/Database/TimeSeries/TimeSeries-List.md)
+    - 8.2 DistributedCompute
+      - 8.2.1 Batch
+        - [8.2.1.1 BatchProcessing List](/Middleware/DistributedCompute/Batch/BatchProcessing-List.md)
+        - [8.2.1.2 Hadoop List](/Middleware/DistributedCompute/Batch/Hadoop-List.md)
+        - [8.2.1.3 Spark List](/Middleware/DistributedCompute/Batch/Spark-List.md)
+      - 8.2.2 Datawarehouse
+        - 8.2.2.1 DataAggregation
+          - [8.2.2.1.1 DataPipeline List](/Middleware/DistributedCompute/Datawarehouse/DataAggregation/DataPipeline-List.md)
+          - [8.2.2.1.2 ETL List](/Middleware/DistributedCompute/Datawarehouse/DataAggregation/ETL-List.md)
+        - 8.2.2.2 DataLake
+          - [8.2.2.2.1 DataLake List](/Middleware/DistributedCompute/Datawarehouse/DataLake/DataLake-List.md)
+          - 8.2.2.2.2 Iceberg
+            - [8.2.2.2.2.1 Iceberg List](/Middleware/DistributedCompute/Datawarehouse/DataLake/Iceberg/Iceberg-List.md)
+        - [8.2.2.3 Datawarehouse List](/Middleware/DistributedCompute/Datawarehouse/Datawarehouse-List.md)
+        - 8.2.2.4 HBase
+          - [8.2.2.4.1 HBase List](/Middleware/DistributedCompute/Datawarehouse/HBase/HBase-List.md)
+        - 8.2.2.5 Hive
+          - [8.2.2.5.1 Hive List](/Middleware/DistributedCompute/Datawarehouse/Hive/Hive-List.md)
+        - 8.2.2.6 OLAP
+          - [8.2.2.6.1 Greenplum List](/Middleware/DistributedCompute/Datawarehouse/OLAP/Greenplum-List.md)
+          - [8.2.2.6.2 OLAP List](/Middleware/DistributedCompute/Datawarehouse/OLAP/OLAP-List.md)
+        - 8.2.2.7 Presto
+          - [8.2.2.7.1 Presto List](/Middleware/DistributedCompute/Datawarehouse/Presto/Presto-List.md)
+      - [8.2.3 DistributedCompute List](/Middleware/DistributedCompute/DistributedCompute-List.md)
+      - [8.2.4 DistributedCompute OpenSource List](/Middleware/DistributedCompute/DistributedCompute-OpenSource-List.md)
+      - 8.2.5 EdgeCompute
+        - [8.2.5.1 EdgeCompute List](/Middleware/DistributedCompute/EdgeCompute/EdgeCompute-List.md)
+      - 8.2.6 QuantumCompute
+        - [8.2.6.1 QuantumCompute List](/Middleware/DistributedCompute/QuantumCompute/QuantumCompute-List.md)
+      - 8.2.7 Stream
+        - [8.2.7.1 Flink List](/Middleware/DistributedCompute/Stream/Flink-List.md)
+        - [8.2.7.2 Pravega List](/Middleware/DistributedCompute/Stream/Pravega-List.md)
+        - [8.2.7.3 SparkStreaming List](/Middleware/DistributedCompute/Stream/SparkStreaming-List.md)
+        - [8.2.7.4 Storm List](/Middleware/DistributedCompute/Stream/Storm-List.md)
+        - [8.2.7.5 StreamProcessing List](/Middleware/DistributedCompute/Stream/StreamProcessing-List.md)
+    - 8.3 DistributedStorage
+      - 8.3.1 Blockchain
+        - [8.3.1.1 Bitcoin List](/Middleware/DistributedStorage/Blockchain/Bitcoin-List.md)
+        - [8.3.1.2 Blockchain Internals List](/Middleware/DistributedStorage/Blockchain/Blockchain-Internals-List.md)
+        - [8.3.1.3 Blockchain List](/Middleware/DistributedStorage/Blockchain/Blockchain-List.md)
+        - [8.3.1.4 Blockchain OpenSource List](/Middleware/DistributedStorage/Blockchain/Blockchain-OpenSource-List.md)
+        - [8.3.1.5 Ethereum List](/Middleware/DistributedStorage/Blockchain/Ethereum-List.md)
+      - 8.3.2 DistributedFS
+        - [8.3.2.1 DistributedFS List](/Middleware/DistributedStorage/DistributedFS/DistributedFS-List.md)
+        - [8.3.2.2 HDFS List](/Middleware/DistributedStorage/DistributedFS/HDFS-List.md)
+      - 8.3.3 DistributedID
+        - [8.3.3.1 DistributedID List](/Middleware/DistributedStorage/DistributedID/DistributedID-List.md)
+      - [8.3.4 DistributedStorage List](/Middleware/DistributedStorage/DistributedStorage-List.md)
+      - [8.3.5 DistributedStorage OpenSource List](/Middleware/DistributedStorage/DistributedStorage-OpenSource-List.md)
+      - 8.3.6 ObjectStorage
+        - [8.3.6.1 BlockStorage List](/Middleware/DistributedStorage/ObjectStorage/BlockStorage-List.md)
+        - [8.3.6.2 DistributedStorage List](/Middleware/DistributedStorage/ObjectStorage/DistributedStorage-List.md)
+        - [8.3.6.3 ObjectStorage List](/Middleware/DistributedStorage/ObjectStorage/ObjectStorage-List.md)
+    - 8.4 Gateway
+      - [8.4.1 Gateway List](/Middleware/Gateway/Gateway-List.md)
+      - [8.4.2 Gateway OpenSource List](/Middleware/Gateway/Gateway-OpenSource-List.md)
+      - 8.4.3 WebServer
+        - [8.4.3.1 Apache List](/Middleware/Gateway/WebServer/Apache-List.md)
+        - [8.4.3.2 Caddy List](/Middleware/Gateway/WebServer/Caddy-List.md)
+        - [8.4.3.3 HAProxy List](/Middleware/Gateway/WebServer/HAProxy-List.md)
+        - [8.4.3.4 Kong List](/Middleware/Gateway/WebServer/Kong-List.md)
+        - [8.4.3.5 LVS List](/Middleware/Gateway/WebServer/LVS-List.md)
+        - [8.4.3.6 Nginx List](/Middleware/Gateway/WebServer/Nginx-List.md)
+        - [8.4.3.7 Tengine List](/Middleware/Gateway/WebServer/Tengine-List.md)
+        - [8.4.3.8 Traefik List](/Middleware/Gateway/WebServer/Traefik-List.md)
+    - 8.5 MOM
+      - [8.5.1 Kafka List](/Middleware/MOM/Kafka-List.md)
+      - [8.5.2 MOM List](/Middleware/MOM/MOM-List.md)
+      - [8.5.3 Pulsar List](/Middleware/MOM/Pulsar-List.md)
+      - [8.5.4 RabbitMQ List](/Middleware/MOM/RabbitMQ-List.md)
+      - [8.5.5 RocketMQ List](/Middleware/MOM/RocketMQ-List.md)
+  - [9 README en](/README-en.md)
+  - 10 Specials
+    - [10.1 Awesome Specials](/Specials/Awesome-Specials.md)
+    - 10.2 Collections
+      - [10.2.1 Awesome DataSets](/Specials/Collections/Awesome-DataSets.md)
+      - [10.2.2 Awesome Learnings](/Specials/Collections/Awesome-Learnings.md)
+      - [10.2.3 Awesome Names](/Specials/Collections/Awesome-Names.md)
+      - [10.2.4 Awesome Tools](/Specials/Collections/Awesome-Tools.md)
+      - [10.2.5 Awesome Vision](/Specials/Collections/Awesome-Vision.md)
+    - 10.3 Showcases
+      - [10.3.1 Awesome Codebases](/Specials/Showcases/Awesome-Codebases.md)
+      - [10.3.2 Awesome DataVis](/Specials/Showcases/Awesome-DataVis.md)
+      - [10.3.3 Coding as Vetren](/Specials/Showcases/Coding-as-Vetren.md)
+    - [10.4 Tools](/Specials/Tools/README.md)
+      - [10.4.1 Design](/Specials/Tools/Design.md)
+      - [10.4.2 DevOps](/Specials/Tools/DevOps.md)
+      - [10.4.3 Documents](/Specials/Tools/Documents.md)
+      - [10.4.4 IDE](/Specials/Tools/IDE.md)
+      - [10.4.5 Network](/Specials/Tools/Network.md)
+      - [10.4.6 OS](/Specials/Tools/OS.md)
+      - [10.4.7 PaaS](/Specials/Tools/PaaS.md)
+      - [10.4.8 Productivity](/Specials/Tools/Productivity.md)
+    - [10.5 Weekly](/Specials/Weekly/README.md)
+      - 10.5.1 
+        - 10.5.1.1 
+          - [10.5.1.1.1 ](/Specials/Weekly/2016/12/12.1.md)
+          - [10.5.1.1.2 ](/Specials/Weekly/2016/12/12.2.md)
+      - 10.5.2 
+        - 10.5.2.1 
+          - [10.5.2.1.1 ](/Specials/Weekly/2017/1/1.1.md)
+          - [10.5.2.1.2 ](/Specials/Weekly/2017/1/1.2.md)
+          - [10.5.2.1.3 ](/Specials/Weekly/2017/1/1.3.md)
+          - [10.5.2.1.4 ](/Specials/Weekly/2017/1/1.4.md)
+        - 10.5.2.2 
+          - [10.5.2.2.1 ](/Specials/Weekly/2017/10/10.1.md)
+          - [10.5.2.2.2 ](/Specials/Weekly/2017/10/10.2.md)
+          - [10.5.2.2.3 ](/Specials/Weekly/2017/10/10.3.md)
+          - [10.5.2.2.4 ](/Specials/Weekly/2017/10/10.4.md)
+        - 10.5.2.3 
+          - [10.5.2.3.1 ](/Specials/Weekly/2017/11/11.1.md)
+          - [10.5.2.3.2 ](/Specials/Weekly/2017/11/11.2.md)
+          - [10.5.2.3.3 ](/Specials/Weekly/2017/11/11.3.md)
+          - [10.5.2.3.4 ](/Specials/Weekly/2017/11/11.4.md)
+        - 10.5.2.4 
+          - [10.5.2.4.1 ](/Specials/Weekly/2017/12/12.1.md)
+          - [10.5.2.4.2 ](/Specials/Weekly/2017/12/12.2.md)
+          - [10.5.2.4.3 ](/Specials/Weekly/2017/12/12.3.md)
+          - [10.5.2.4.4 ](/Specials/Weekly/2017/12/12.4.md)
+        - 10.5.2.5 
+          - [10.5.2.5.1 Frontend](/Specials/Weekly/2017/2/2.1-Frontend.md)
+          - [10.5.2.5.2 ](/Specials/Weekly/2017/2/2.1.md)
+          - [10.5.2.5.3 Frontend](/Specials/Weekly/2017/2/2.2-Frontend.md)
+          - [10.5.2.5.4 ](/Specials/Weekly/2017/2/2.2.md)
+          - [10.5.2.5.5 ](/Specials/Weekly/2017/2/2.3.md)
+          - [10.5.2.5.6 ](/Specials/Weekly/2017/2/2.4.md)
+          - [10.5.2.5.7 ](/Specials/Weekly/2017/2/2.5.md)
+          - [10.5.2.5.8 ](/Specials/Weekly/2017/2/2.6.md)
+        - 10.5.2.6 
+          - [10.5.2.6.1 Frontend](/Specials/Weekly/2017/3/3.1-Frontend.md)
+          - [10.5.2.6.2 ](/Specials/Weekly/2017/3/3.1.md)
+          - [10.5.2.6.3 Frontend](/Specials/Weekly/2017/3/3.2-Frontend.md)
+          - [10.5.2.6.4 Frontend](/Specials/Weekly/2017/3/3.3-Frontend.md)
+          - [10.5.2.6.5 Frontend](/Specials/Weekly/2017/3/3.4-Frontend.md)
+        - 10.5.2.7 
+          - [10.5.2.7.1 Frontend](/Specials/Weekly/2017/4/4.1-Frontend.md)
+          - [10.5.2.7.2 Frontend](/Specials/Weekly/2017/4/4.2-Frontend.md)
+          - [10.5.2.7.3 Frontend](/Specials/Weekly/2017/4/4.3-Frontend.md)
+          - [10.5.2.7.4 Frontend](/Specials/Weekly/2017/4/4.4-Frontend.md)
+        - 10.5.2.8 
+          - [10.5.2.8.1 Frontend](/Specials/Weekly/2017/5/5.1-Frontend.md)
+          - [10.5.2.8.2 Frontend](/Specials/Weekly/2017/5/5.2-Frontend.md)
+          - [10.5.2.8.3 Frontend](/Specials/Weekly/2017/5/5.3-Frontend.md)
+          - [10.5.2.8.4 Frontend](/Specials/Weekly/2017/5/5.4-Frontend.md)
+        - 10.5.2.9 
+          - [10.5.2.9.1 Frontend](/Specials/Weekly/2017/6/6.1-Frontend.md)
+          - [10.5.2.9.2 Frontend](/Specials/Weekly/2017/6/6.2-Frontend.md)
+          - [10.5.2.9.3 Frontend](/Specials/Weekly/2017/6/6.3-Frontend.md)
+          - [10.5.2.9.4 Frontend](/Specials/Weekly/2017/6/6.4-Frontend.md)
+          - [10.5.2.9.5 Frontend](/Specials/Weekly/2017/6/6.5-Frontend.md)
+        - 10.5.2.10 
+          - [10.5.2.10.1 Frontend](/Specials/Weekly/2017/7/7.1-Frontend.md)
+          - [10.5.2.10.2 Frontend](/Specials/Weekly/2017/7/7.2-Frontend.md)
+          - [10.5.2.10.3 Frontend](/Specials/Weekly/2017/7/7.3-Frontend.md)
+          - [10.5.2.10.4 Frontend](/Specials/Weekly/2017/7/7.4-Frontend.md)
+          - [10.5.2.10.5 Frontend](/Specials/Weekly/2017/7/7.5-Frontend.md)
+        - 10.5.2.11 
+          - [10.5.2.11.1 ](/Specials/Weekly/2017/8/8.1.md)
+          - [10.5.2.11.2 ](/Specials/Weekly/2017/8/8.2.md)
+          - [10.5.2.11.3 ](/Specials/Weekly/2017/8/8.3.md)
+          - [10.5.2.11.4 ](/Specials/Weekly/2017/8/8.4.md)
+        - 10.5.2.12 
+          - [10.5.2.12.1 ](/Specials/Weekly/2017/9/9.1.md)
+          - [10.5.2.12.2 ](/Specials/Weekly/2017/9/9.2.md)
+          - [10.5.2.12.3 ](/Specials/Weekly/2017/9/9.3.md)
+          - [10.5.2.12.4 ](/Specials/Weekly/2017/9/9.4.md)
+          - [10.5.2.12.5 ](/Specials/Weekly/2017/9/9.5.md)
+      - 10.5.3 
+        - 10.5.3.1 
+          - [10.5.3.1.1 ](/Specials/Weekly/2018/1/1.1.md)
+          - [10.5.3.1.2 en](/Specials/Weekly/2018/1/1.2-en.md)
+          - [10.5.3.1.3 ](/Specials/Weekly/2018/1/1.2.md)
+          - [10.5.3.1.4 en](/Specials/Weekly/2018/1/1.3-en.md)
+          - [10.5.3.1.5 ](/Specials/Weekly/2018/1/1.3.md)
+          - [10.5.3.1.6 en](/Specials/Weekly/2018/1/1.4-en.md)
+          - [10.5.3.1.7 ](/Specials/Weekly/2018/1/1.4.md)
+        - 10.5.3.2 
+          - [10.5.3.2.1 en](/Specials/Weekly/2018/2/2.1-en.md)
+          - [10.5.3.2.2 ](/Specials/Weekly/2018/2/2.1.md)
+          - [10.5.3.2.3 en](/Specials/Weekly/2018/2/2.2-en.md)
+          - [10.5.3.2.4 ](/Specials/Weekly/2018/2/2.2.md)
+          - [10.5.3.2.5 en](/Specials/Weekly/2018/2/2.3-en.md)
+          - [10.5.3.2.6 ](/Specials/Weekly/2018/2/2.3.md)
+        - 10.5.3.3 
+          - [10.5.3.3.1 en](/Specials/Weekly/2018/3/3.1-en.md)
+          - [10.5.3.3.2 ](/Specials/Weekly/2018/3/3.1.md)
+          - [10.5.3.3.3 en](/Specials/Weekly/2018/3/3.2-en.md)
+          - [10.5.3.3.4 ](/Specials/Weekly/2018/3/3.2.md)
+          - [10.5.3.3.5 en](/Specials/Weekly/2018/3/3.3-en.md)
+          - [10.5.3.3.6 ](/Specials/Weekly/2018/3/3.3.md)
+          - [10.5.3.3.7 en](/Specials/Weekly/2018/3/3.4-en.md)
+          - [10.5.3.3.8 ](/Specials/Weekly/2018/3/3.4.md)
+        - 10.5.3.4 
+          - [10.5.3.4.1 en](/Specials/Weekly/2018/4/4.1-en.md)
+      - [10.5.4 ABOUT](/Specials/Weekly/ABOUT.md)
+      - [10.5.5 CONTRIBUTION](/Specials/Weekly/CONTRIBUTION.md)
+      - 10.5.6 SemiannualReport
+        - 10.5.6.1 1
+          - [10.5.6.1.1 Angular](/Specials/Weekly/SemiannualReport/2017-1/Angular.md)
+          - [10.5.6.1.2 CSS](/Specials/Weekly/SemiannualReport/2017-1/CSS.md)
+          - [10.5.6.1.3 JavaScript](/Specials/Weekly/SemiannualReport/2017-1/JavaScript.md)
+          - [10.5.6.1.4 Node](/Specials/Weekly/SemiannualReport/2017-1/Node.md)
+          - [10.5.6.1.5 PWA](/Specials/Weekly/SemiannualReport/2017-1/PWA.md)
+          - [10.5.6.1.6 React](/Specials/Weekly/SemiannualReport/2017-1/React.md)
+          - [10.5.6.1.7 Vue.js](/Specials/Weekly/SemiannualReport/2017-1/Vue.js.md)
+          - [10.5.6.1.8 WebAssembly](/Specials/Weekly/SemiannualReport/2017-1/WebAssembly.md)
+      - [10.5.7 TEMPLATE](/Specials/Weekly/TEMPLATE.md)
+      - [10.5.8 Template en](/Specials/Weekly/Template-en.md)
+  - 11 System
+    - 11.1 Application
+      - 11.1.1 ERP
+        - [11.1.1.1 CRM List](/System/Application/ERP/CRM-List.md)
+        - [11.1.1.2 ERP List](/System/Application/ERP/ERP-List.md)
+        - 11.1.1.3 HCM
+          - [11.1.1.3.1 HCM List](/System/Application/ERP/HCM/HCM-List.md)
+      - 11.1.2 II MES
+        - [11.1.2.1 MES List](/System/Application/II-MES/MES-List.md)
+      - 11.1.3 Mall
+        - [11.1.3.1 LBS List](/System/Application/Mall/LBS-List.md)
+        - [11.1.3.2 Logistics List](/System/Application/Mall/Logistics-List.md)
+        - [11.1.3.3 Mall List](/System/Application/Mall/Mall-List.md)
+        - [11.1.3.4 Mall OpenSource List](/System/Application/Mall/Mall-OpenSource-List.md)
+        - [11.1.3.5 Pay List](/System/Application/Mall/Pay-List.md)
+      - 11.1.4 OA
+        - [11.1.4.1 CMS List](/System/Application/OA/CMS-List.md)
+        - [11.1.4.2 OA List](/System/Application/OA/OA-List.md)
+      - 11.1.5 OpenPlatform
+        - [11.1.5.1 Alipay List](/System/Application/OpenPlatform/Alipay-List.md)
+        - [11.1.5.2 OpenPlatform List](/System/Application/OpenPlatform/OpenPlatform-List.md)
+        - [11.1.5.3 Wechat List](/System/Application/OpenPlatform/Wechat-List.md)
+    - 11.2 DevOps
+      - [11.2.1 AIOps List](/System/DevOps/AIOps-List.md)
+      - 11.2.2 Automation
+        - [11.2.2.1 Automation List](/System/DevOps/Automation/Automation-List.md)
+      - 11.2.3 CD
+        - [11.2.3.1 CI List](/System/DevOps/CD/CI-List.md)
+        - [11.2.3.2 Delivery List](/System/DevOps/CD/Delivery-List.md)
+      - [11.2.4 DevOps List](/System/DevOps/DevOps-List.md)
+      - [11.2.5 DevOps OpenSource List](/System/DevOps/DevOps-OpenSource-List.md)
+      - 11.2.6 LogAggregation
+        - [11.2.6.1 Flume List](/System/DevOps/LogAggregation/Flume-List.md)
+        - [11.2.6.2 LogAggregation List](/System/DevOps/LogAggregation/LogAggregation-List.md)
+      - 11.2.7 MonitorAlert
+        - [11.2.7.1 APM List](/System/DevOps/MonitorAlert/APM-List.md)
+        - [11.2.7.2 Aggregation List](/System/DevOps/MonitorAlert/Aggregation-List.md)
+        - [11.2.7.3 MonitorAlert List](/System/DevOps/MonitorAlert/MonitorAlert-List.md)
+        - [11.2.7.4 MonitorAlert OpenSource List](/System/DevOps/MonitorAlert/MonitorAlert-OpenSource-List.md)
+    - 11.3 InfoSecurity
+      - 11.3.1 Crawler
+        - [11.3.1.1 Crawler List](/System/InfoSecurity/Crawler/Crawler-List.md)
+        - [11.3.1.2 Crawler OpenSource List](/System/InfoSecurity/Crawler/Crawler-OpenSource-List.md)
+      - 11.3.2 Cryptology
+        - [11.3.2.1 Codec List](/System/InfoSecurity/Cryptology/Codec-List.md)
+        - [11.3.2.2 Cryptology List](/System/InfoSecurity/Cryptology/Cryptology-List.md)
+      - [11.3.3 InfoSecurity List](/System/InfoSecurity/InfoSecurity-List.md)
+      - [11.3.4 InfoSecurity OpenSource List](/System/InfoSecurity/InfoSecurity-OpenSource-List.md)
+      - 11.3.5 OSSecurity
+        - [11.3.5.1 Harden List](/System/InfoSecurity/OSSecurity/Harden-List.md)
+        - [11.3.5.2 OSSecurity List](/System/InfoSecurity/OSSecurity/OSSecurity-List.md)
+      - 11.3.6 ReverseEngineering
+        - [11.3.6.1 ReverseEngineering List](/System/InfoSecurity/ReverseEngineering/ReverseEngineering-List.md)
+      - 11.3.7 Vulns
+        - [11.3.7.1 Vulns List](/System/InfoSecurity/Vulns/Vulns-List.md)
+      - 11.3.8 WebSecurity
+        - [11.3.8.1 WebSecurity List](/System/InfoSecurity/WebSecurity/WebSecurity-List.md)
+    - 11.4 SoftwareEngineering
+      - 11.4.1 Agile
+        - [11.4.1.1 Agile List](/System/SoftwareEngineering/Agile/Agile-List.md)
+      - 11.4.2 Git
+        - [11.4.2.1 Git List](/System/SoftwareEngineering/Git/Git-List.md)
+        - [11.4.2.2 Git OpenSource List](/System/SoftwareEngineering/Git/Git-OpenSource-List.md)
+        - [11.4.2.3 Git Workflow List](/System/SoftwareEngineering/Git/Git-Workflow-List.md)
+        - [11.4.2.4 Github List](/System/SoftwareEngineering/Git/Github-List.md)
+      - 11.4.3 OpenSource
+        - [11.4.3.1 OpenSource List](/System/SoftwareEngineering/OpenSource/OpenSource-List.md)
+      - 11.4.4 TechnicalManagement
+        - [11.4.4.1 TechnicalManagement List](/System/SoftwareEngineering/TechnicalManagement/TechnicalManagement-List.md)
+      - 11.4.5 Workflow
+        - [11.4.5.1 Workflow List](/System/SoftwareEngineering/Workflow/Workflow-List.md)
+        - [11.4.5.2 Workflow OpenSource List](/System/SoftwareEngineering/Workflow/Workflow-OpenSource-List.md)
+    - [11.5 System List](/System/System-List.md)
+    - [11.6 System OpenSource List](/System/System-OpenSource-List.md)
+    - 11.7 Test
+      - [11.7.1 PerformanceTest List](/System/Test/PerformanceTest-List.md)
+      - [11.7.2 Test List](/System/Test/Test-List.md)
+      - [11.7.3 Test OpenSource List](/System/Test/Test-OpenSource-List.md)
