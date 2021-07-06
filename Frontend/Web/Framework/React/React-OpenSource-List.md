@@ -12,6 +12,8 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 - [2021-Podcastr #Project#](https://github.com/josepholiveira/podcastr): A platform built for podcast broadcasting. Developed during @Rocketseat NLW#05 free training.
 
+- [2021-Fakeflix #Project#](https://github.com/Th3Wall/Fakeflix): Not the usual clone that you can find on the web.
+
 ## Scratch
 
 - [2017-Didact #Project#](https://github.com/hexacta/didact): This repository goes together with a series of posts that explains how to build React from scratch step by step.

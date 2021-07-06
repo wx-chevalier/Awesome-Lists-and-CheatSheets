@@ -863,19 +863,18 @@
       - [10.5.8 Template en](/Specials/Weekly/Template-en.md)
   - 11 System
     - 11.1 Application
-      - 11.1.1 ERP
-        - [11.1.1.1 CRM List](/System/Application/ERP/CRM-List.md)
-        - [11.1.1.2 ERP List](/System/Application/ERP/ERP-List.md)
-        - 11.1.1.3 HCM
-          - [11.1.1.3.1 HCM List](/System/Application/ERP/HCM/HCM-List.md)
-      - 11.1.2 II MES
-        - [11.1.2.1 MES List](/System/Application/II-MES/MES-List.md)
-      - 11.1.3 Mall
-        - [11.1.3.1 LBS List](/System/Application/Mall/LBS-List.md)
-        - [11.1.3.2 Logistics List](/System/Application/Mall/Logistics-List.md)
-        - [11.1.3.3 Mall List](/System/Application/Mall/Mall-List.md)
-        - [11.1.3.4 Mall OpenSource List](/System/Application/Mall/Mall-OpenSource-List.md)
-        - [11.1.3.5 Pay List](/System/Application/Mall/Pay-List.md)
+      - 11.1.1 ECommerce
+        - [11.1.1.1 LBS List](/System/Application/ECommerce/LBS-List.md)
+        - [11.1.1.2 Logistics List](/System/Application/ECommerce/Logistics-List.md)
+        - [11.1.1.3 Mall List](/System/Application/ECommerce/Mall-List.md)
+        - [11.1.1.4 Mall OpenSource List](/System/Application/ECommerce/Mall-OpenSource-List.md)
+      - 11.1.2 ERP
+        - [11.1.2.1 CRM List](/System/Application/ERP/CRM-List.md)
+        - [11.1.2.2 ERP List](/System/Application/ERP/ERP-List.md)
+        - 11.1.2.3 HCM
+          - [11.1.2.3.1 HCM List](/System/Application/ERP/HCM/HCM-List.md)
+      - 11.1.3 II MES
+        - [11.1.3.1 MES List](/System/Application/II-MES/MES-List.md)
       - 11.1.4 OA
         - [11.1.4.1 CMS List](/System/Application/OA/CMS-List.md)
         - [11.1.4.2 OA List](/System/Application/OA/OA-List.md)
@@ -883,6 +882,9 @@
         - [11.1.5.1 Alipay List](/System/Application/OpenPlatform/Alipay-List.md)
         - [11.1.5.2 OpenPlatform List](/System/Application/OpenPlatform/OpenPlatform-List.md)
         - [11.1.5.3 Wechat List](/System/Application/OpenPlatform/Wechat-List.md)
+      - 11.1.6 Pay
+        - [11.1.6.1 Pay List](/System/Application/Pay/Pay-List.md)
+        - [11.1.6.2 Pay OpenSource List](/System/Application/Pay/Pay-OpenSource-List.md)
     - 11.2 DevOps
       - [11.2.1 AIOps List](/System/DevOps/AIOps-List.md)
       - 11.2.2 Automation

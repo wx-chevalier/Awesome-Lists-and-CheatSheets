@@ -8,9 +8,9 @@
 
 - [2015-Modern Web Development](http://6me.us/nS16): This is the script for a talk I gave at Google Dev Fest MN in 2015. It was meant to be a lighthearted history of web development and a commentary on its future.
 
-- [2015-我的前端之路:数据流驱动的界面](https://segmentfault.com/a/1190000004292245): 笔者从 jQuery 时代一路走来，经历了以 BootStrap 为代表的基于 jQuery 的插件式框架与 CSS 框架的兴起，到后面以 Angular 1 为代表的 MVVM 框架，以及到现在以 React 为代表的组件式框架的兴起。
+- [2015-我的前端之路：数据流驱动的界面](https://segmentfault.com/a/1190000004292245): 笔者从 jQuery 时代一路走来，经历了以 BootStrap 为代表的基于 jQuery 的插件式框架与 CSS 框架的兴起，到后面以 Angular 1 为代表的 MVVM 框架，以及到现在以 React 为代表的组件式框架的兴起。
 
-- [2016-我的前端之路:工具化与工程化](https://zhuanlan.zhihu.com/p/24575395): 近年来，随着浏览器性能的提升与移动互联网浪潮的汹涌而来，Web 前端开发进入了高歌猛进，日新月异的时代。这是最好的时代，我们永远在前行，这也是最坏的时代，无数的前端开发框架、技术体系争妍斗艳，让开发者们陷入困惑，乃至于无所适从。
+- [2016-我的前端之路：工具化与工程化](https://zhuanlan.zhihu.com/p/24575395): 近年来，随着浏览器性能的提升与移动互联网浪潮的汹涌而来，Web 前端开发进入了高歌猛进，日新月异的时代。这是最好的时代，我们永远在前行，这也是最坏的时代，无数的前端开发框架、技术体系争妍斗艳，让开发者们陷入困惑，乃至于无所适从。
 
 - [2017-What is the Future of Front End Web Development?](https://parg.co/bJr): What websites are being asked to do is rising. Developers are being asked to build very complicated things very quickly and have them work very well and very fast.
 
@@ -25,6 +25,10 @@
 - [How to Keep Up To Date On Frontend Technologies](https://uptodate.frontendrescue.org/)
 
 - [2017-Software Engineering 101 for Front-end Developers](https://parg.co/byf): For any such developers who want to level-up their game, I’ve summarized what I consider to be some of the MOST important software engineering principles to be aware of and to abide by. I’ve followed it up with a short list of must-read books that will help you on this upgrade path.
+
+## Practices | 大厂实践
+
+- [2021-字节跳动的现代 Web 开发实践](https://mp.weixin.qq.com/s/0VDBAgEvqB1xiUs540Fu9A): 今天这场分享的主题，就是字节跳动如何把「现代 Web 开发」转化成具体的技术栈和研发工具体系，在内部广泛落地和从中获益。
 
 # Resource | 资源
 
