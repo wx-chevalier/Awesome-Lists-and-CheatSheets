@@ -37,3 +37,5 @@
 - [PeerTube #Project#](https://github.com/Chocobozzz/PeerTube): Be part of a network of multiple small federated, interoperable video hosting providers. Follow video creators and create videos. No vendor lock-in. All on a platform that is community-owned and ad-free.
 
 - [Remotion #Project#](https://github.com/JonnyBurger/remotion): Remotion is a suite of libraries building a fundament for creating videos programmatically using React.
+
+- [Audacity #Project#](https://www.audacityteam.org/): Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems.
