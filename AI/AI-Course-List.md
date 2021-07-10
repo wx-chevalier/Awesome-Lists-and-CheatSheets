@@ -38,7 +38,9 @@
 
 - [2018-mlcourse.ai #Course#](https://github.com/Yorko/mlcourse.ai): Open Machine Learning Course
 
-- [2019-台大教授李宏毅的机器学习课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html): 台大教授李宏毅的机器学习课程经常被认为是中文开放课程中的首选。李教授的授课风格风趣幽默，通俗易懂，其课程内容中不仅有机器学习、深度学习的基础知识，也会介绍 ML 领域里的各种最新技术。
+- [2019-台大教授李宏毅的机器学习课程 #Course#](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html): 台大教授李宏毅的机器学习课程经常被认为是中文开放课程中的首选。李教授的授课风格风趣幽默，通俗易懂，其课程内容中不仅有机器学习、深度学习的基础知识，也会介绍 ML 领域里的各种最新技术。
+
+- [2021-Machine Learning for Beginners - A Curriculum #Course#](https://github.com/microsoft/ML-For-Beginners): Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about Machine Learning.
 
 # Deep Learning
 
