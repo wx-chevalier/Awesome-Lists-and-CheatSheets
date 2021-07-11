@@ -6,7 +6,7 @@
 
 - [JVM 并发编程模型览](http://www.qingjingjie.com/blogs/23)
 
-- [2015-Java Concurrency / Multithreading Tutorial](http://tutorials.jenkov.com/java-concurrency/index.html): The trail will primarily be concerned with multithreading in Java, but some of the problems occurring in multithreading are similar to problems occurring in multitasking and in distributed systems.
+- [2015-Java Concurrency/Multithreading Tutorial](http://tutorials.jenkov.com/java-concurrency/index.html): The trail will primarily be concerned with multithreading in Java, but some of the problems occurring in multithreading are similar to problems occurring in multitasking and in distributed systems.
 
 - [Java 并发的四种风味：Thread、Executor、ForkJoin 和 Actor](http://www.open-open.com/lib/view/open1421202894171.html)
 

@@ -6,6 +6,10 @@
 
 - [YesPlayMusic #Project#](https://github.com/qier222/YesPlayMusic): 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
+## Examples
+
+- [2021-50 Projects in 50 Days - HTML/CSS and JavaScript #Project#](https://github.com/bradtraversy/50projects50days): 50+ mini web projects using HTML, CSS & JS
+
 # Dev Tools
 
 ## IDE
