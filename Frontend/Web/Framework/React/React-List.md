@@ -90,8 +90,4 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 - [2017-How to Build a ToDo App Using React, Redux, and Webpack](https://parg.co/bMT): In this tutorial I’m going to show you how to create a simple “ToDo” app using React, Redux, a little bit of Node, and Cosmic JS.
 
-## Interview
-
-- [2017-React 常用面试题目与分析](https://zhuanlan.zhihu.com/p/24856035)
-
 ---

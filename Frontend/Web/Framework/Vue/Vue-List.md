@@ -51,7 +51,3 @@
 - [创建基于 Vue 的可复用组件](https://parg.co/b49)：本系列文章关注于如何利用 Vue 创建可复用的组件，每一篇都会讲解某个具体的界面组件，然后一步一步地介绍如何利用 Vue 来实现这些组件，顺便也介绍 Vue 的各种原理与设计准则。
 
 - [Vue 2 中的权限验证指南](https://auth0.com/blog/vuejs2-authentication-tutorial/)：本文介绍了如何快速构建 Vue 2 应用程序并且添加合适的权限验证模块。本文首先介绍了 Vue、Angular 以及 React 之间设计思想的对比，然后介绍了 Vue 2.0 中的核心概念与基本用法，最后以某个真实的登录控制案例介绍了如何为 Vue 应用中添加权限验证功能。
-
-# Interview
-
-- [2019-vue 248+个知识点（面试题）为你保驾护航](https://zhuanlan.zhihu.com/p/71229672)

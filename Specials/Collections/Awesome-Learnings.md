@@ -1,4 +1,4 @@
-# Awesome CS Collections: Curated links of awesome sites & collections & resources
+# Awesome Learnings
 
 [Awesome CS Collections](https://parg.co/ddq) is collections of collection, including Programming Language, Software Engineering, Web, Server Side Application, Frontend, etc. Every link in this collection may containing massive domains. Awesome CS Collections is subject to [Awesome Lists](https://github.com/wx-chevalier/Awesome-Lists/), which is also part of [Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery).
 
@@ -186,22 +186,6 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 - [2016-Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/):Note that the knowledge for each level is cumulative; being at level n implies that you also know everything from the levels lower than n.
 
 - [2017-Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know): A collection of (mostly) technical things every software developer should know.
-
-# Interview | 面试
-
-- [InterviewMap #Project#](https://github.com/InterviewMap/InterviewMap): uild the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
-
-- [CS-Notes #Collection#](https://github.com/CyC2018/CS-Notes): 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计
-
-- [2018-Interviews #Collection#](https://github.com/kdn251/interviews): Everything you need to know to get the job.
-
-- [2018-Interview_Notes-Chinese #Collection#](https://github.com/imhuay/Interview_Notes-Chinese): 2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记
-
-- [google-interview-university #Collection#](https://github.com/jwasham/google-interview-university#recursion)
-
-- [2019-Tech Interview Handbook #Collection#](https://github.com/yangshun/tech-interview-handbook): This repository has practical content that covers all phases of a technical interview, from applying for a job to passing the interviews to offer negotiation. Technically competent candidates might still find the non-technical content helpful as well.
-
-- [2019-Awesome Interviews #Collection#](https://github.com/MaximAbramchuck/awesome-interview-questions): :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
 
 # Awesome Guides
 

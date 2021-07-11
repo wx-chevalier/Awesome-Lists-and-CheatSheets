@@ -65,7 +65,3 @@
 - [【译】使用 Node.js 创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/)
 
 - [auto-sni](https://github.com/DylanPiercey/auto-sni):Free, automated HTTPS for NodeJS made easy.
-
-# Interview
-
-- [node-interview](https://github.com/ElemeFE/node-interview): How to pass the Node.js interview of ElemeFE.

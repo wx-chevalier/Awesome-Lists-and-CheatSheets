@@ -122,25 +122,6 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [ECMAScript 2017 and beyond](https://speakerdeck.com/rauschma/ecmascript-2017-and-beyond): In this talk, we’ll go into the latest JavaScript features and how they are designed.
 
-## Interview | 面试
-
-- [3 JavaScript questions to watch out for during coding interviews](http://6me.us/JAZ4): This article isn’t about the newest JavaScript libraries, common development practices, or any of the new ES6 functions. Rather, it’s about 3 things that usually come up in interviews when discussing JavaScript.
-
-- [Interview Algorithm Questions in Javascript() {...}](https://github.com/kennymkchan/interview-questions-in-javascript)
-
-- [2017-The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://parg.co/bIL)
-
-- [toptal-interview-questions](https://www.toptal.com/javascript/interview-questions)
-- [21-essential-javascript-tech-interview-practice-questions-answers](https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers)
-
-- [top-85-javascript-interview-questions](http://career.guru99.com/top-85-javascript-interview-questions/)
-
-- [interviewcake-javascript-interview-questions](https://www.interviewcake.com/javascript-interview-questions)
-
-- [2019-typeofnan-javascript-quizzes #Project#](https://quiz.typeofnan.dev/): Learn JavaScript fundamentals through fun and challenging quizzes! Star this repo on Github to follow along as new questions are added! Created by Nick Scialli and many other contributors listed below!
-
-- [2019-javascript-questions](https://github.com/lydiahallie/javascript-questions): A long list of (advanced) JavaScript questions, and their explanations ✨
-
 # ECMAScript
 
 - [TC39, ECMAScript, and the Future of JavaScript](https://parg.co/bXD)

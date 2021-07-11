@@ -100,20 +100,6 @@
 
 - [Distill](https://distill.pub/)
 
-## Interview | 面试
-
-- [Quora 关于机器学习的招聘启事](https://www.quora.com/careers/technical_lead_machine_learning)
-
-- [Google 关于机器学习与人工智能岗位的招聘启事](https://www.google.com/about/careers/search?_ga=1.89288795.153537653.1473158707#!t=jo&jid=28625001&)
-
-- [代码解析深度学习系统编程模型：TensorFlow vs. CNTK](http://geek.csdn.net/news/detail/62429)
-
-- [深度学习岗位面试问题整理笔记](https://zhuanlan.zhihu.com/p/25005808)
-
-- [想知道机器学习掌握的怎么样了吗？这有一份自测题(附答案和解析)](https://yq.aliyun.com/articles/64929)
-
-- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews): Data science interview questions and answers.
-
 # Links
 
 - https://github.com/louisfb01/start-machine-learning-in-2020 Start Machine Learning in 2021 - Become an expert for free!

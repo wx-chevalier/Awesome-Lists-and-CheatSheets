@@ -28,6 +28,10 @@
 
 - [2020-Building Secure & Reliable Systems #Book#](https://static.googleusercontent.com/media/landing.google.com/zh-CN//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf): Best Practices for Designing, Implementing and Maintaining Systems.
 
+## Collection
+
+- [howtheysre #Project#](https://github.com/upgundecha/howtheysre): A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE).
+
 # OpenSource
 
 ## Incidents Management

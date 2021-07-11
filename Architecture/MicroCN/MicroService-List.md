@@ -46,6 +46,12 @@
 
 - [2019-余额宝背后的服务治理架构](https://mp.weixin.qq.com/s/R5pNKHBPJno-eI5BificjQ): 这次的分享首先介绍余额宝业务及架构的变迁历史；接下来介绍天弘基金是如何对自有的基金销售系统进行服务化的改造，及由此引申出的业务中台建设实践；最后介绍服务化带来的冲击及影响，以及我们是如何进行服务治理、数据治理及团队协同的治理。
 
+# Resource
+
+## Book
+
+- [2017-微服务：从设计到部署 #Book#](https://github.com/DocsHome/microservices): 本书是 Chris Richardson 和 Floyd Smith 联合编写的微服务电子书 Designing and Deploying Microservices 的中文译本，其从不同角度全面介绍了微服务：微服务的优点与缺点、API 网关、进程间通信（IPC）、服务发现、事件驱动数据管理、微服务部署策略、重构单体。
+
 # Architecture Patterns | 架构模式
 
 - [微服务架构的 4 大设计原则和 1 个平台实践](https://mp.weixin.qq.com/s/dmPhaERxkDlC2lbzgJIMgg):

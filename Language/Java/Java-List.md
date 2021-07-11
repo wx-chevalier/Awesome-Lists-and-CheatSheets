@@ -145,15 +145,3 @@
 - [Twitter Java Style Guide](https://parg.co/b7M): The intention of this guide is to provide a set of conventions that encourage good code.
 
 - [Top 10 Java Blog for Programmers of All Levels](https://stackify.com/java-blogs-for-programmers-of-all-levels/): All over the world, Java professionals are posting daily about new findings or new feature functions. Unfortunately, blogs can also provide some not so great insight and perspective.
-
-# Interview | 面试
-
-- [2017-Java Collection Interview Questions and Answer](https://parg.co/bak): Here is a list of Java Collections interview Questions. These are some of the famous questions asked in interviews.
-
-- [Java 高级开发工程师面试考点](http://www.sanesee.com/article/java-engineer-interview-of-content-tree)
-
-- [Java 面试问题](https://dongchuan.gitbooks.io/java-interview-question/content/java/index.html)
-
-- [Top 10 Mistakes Java Developers Make](http://www.gauravkgupta.com/top-10-mistakes-java-developers-make/)
-
-- [2018-Java 面试题，精品合集](http://www.iocoder.cn/Interview/good-collection/?title)

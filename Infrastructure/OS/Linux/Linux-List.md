@@ -14,7 +14,7 @@
 
 - [2020-💡 Introduction to Bash Scripting #Book#](https://github.com/bobbyiliev/introduction-to-bash-scripting): This is an open-source introduction to Bash scripting guide/ebook that will help you learn the basics of Bash scripting and start writing awesome Bash scripts that will help you automate your daily SysOps, DevOps, and Dev tasks. No matter if you are a DevOps/SysOps engineer, developer, or just a Linux enthusiast, you can use Bash scripts to combine different Linux commands and automate boring and repetitive daily tasks, so that you can focus on more productive and fun things.
 
-# Tutorials
+# Tutorial
 
 ## Playground
 

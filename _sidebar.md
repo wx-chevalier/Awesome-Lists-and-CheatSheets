@@ -669,11 +669,12 @@
           - [8.2.2.4.1 HBase List](/Middleware/DistributedCompute/Datawarehouse/HBase/HBase-List.md)
         - 8.2.2.5 Hive
           - [8.2.2.5.1 Hive List](/Middleware/DistributedCompute/Datawarehouse/Hive/Hive-List.md)
-        - 8.2.2.6 OLAP
-          - [8.2.2.6.1 Greenplum List](/Middleware/DistributedCompute/Datawarehouse/OLAP/Greenplum-List.md)
-          - [8.2.2.6.2 OLAP List](/Middleware/DistributedCompute/Datawarehouse/OLAP/OLAP-List.md)
-        - 8.2.2.7 Presto
-          - [8.2.2.7.1 Presto List](/Middleware/DistributedCompute/Datawarehouse/Presto/Presto-List.md)
+        - 8.2.2.6 MPP
+          - 8.2.2.6.1 Presto
+            - [8.2.2.6.1.1 Presto List](/Middleware/DistributedCompute/Datawarehouse/MPP/Presto/Presto-List.md)
+        - 8.2.2.7 OLAP
+          - [8.2.2.7.1 Greenplum List](/Middleware/DistributedCompute/Datawarehouse/OLAP/Greenplum-List.md)
+          - [8.2.2.7.2 OLAP List](/Middleware/DistributedCompute/Datawarehouse/OLAP/OLAP-List.md)
       - [8.2.3 DistributedCompute List](/Middleware/DistributedCompute/DistributedCompute-List.md)
       - [8.2.4 DistributedCompute OpenSource List](/Middleware/DistributedCompute/DistributedCompute-OpenSource-List.md)
       - 8.2.5 EdgeCompute
