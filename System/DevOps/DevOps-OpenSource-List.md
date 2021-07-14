@@ -36,6 +36,10 @@
 
 # CI/CD
 
+## Build
+
+- [2021-Earthly #Project#](https://github.com/earthly/earthly): 🌍 Earthly is a build automation tool for the container era. It allows you to execute all your builds in containers. This makes them self-contained, repeatable, portable and parallel. You can use Earthly to create Docker images and artifacts (e.g., binaries, packages, arbitrary files).
+
 ## Pipeline
 
 - [Drone #Project#](https://github.com/drone/drone): Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.
