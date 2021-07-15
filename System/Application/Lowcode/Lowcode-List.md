@@ -2,6 +2,8 @@
 
 # Overview
 
+- [2021-无代码将死，低代码长存](https://cubox.pro/c/TtUgdj): 本文希望对这个当前动荡不安的领域做一点“不草就”的综合说明，想说清楚七大问题：低代码和无代码（也称零代码）是什么关系、怎么判断一个低代码平台是否专业、国内是否有专业的低代码平台、低代码是不是新瓶装旧酒、低代码真的搞不定专业的企业应用吗、低代码不适合开发哪些应用、低代码是不是银弹。 
+ 
 # Resource 
 
 - [awesome-lowcode #Collection#](https://github.com/taowen/awesome-lowcode): 国内低代码平台从业者交流
