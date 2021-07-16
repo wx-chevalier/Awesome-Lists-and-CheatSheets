@@ -20,6 +20,8 @@
 
 - [LBADD #Project# #Scratch#](https://github.com/tomarrell/lbadd): An experimental, distributed SQL database.
 
+- [CockroachDB #Project#](https://github.com/cockroachdb/cockroach): CockroachDB is a cloud-native distributed SQL database designed to build, scale, and manage modern, data-intensive applications.
+
 # Universal SQL Tools
 
 ## Client

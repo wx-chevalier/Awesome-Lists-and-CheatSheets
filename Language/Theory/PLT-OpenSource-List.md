@@ -23,3 +23,5 @@
 - [Ohm #Project#](https://github.com/harc/ohm): A library and language for building parsers, interpreters, compilers, etc.
 
 - [2018-Tau Prolog #Project#](https://github.com/jariazavalverde/tau-prolog/): Tau Prolog is a Prolog interpreter fully implemented in JavaScript.
+
+- [2021-Semgrep #Project#](https://github.com/returntocorp/semgrep): Semgrep is a fast, open-source, static analysis tool for finding bugs and enforcing code standards at editor, commit, and CI time.
