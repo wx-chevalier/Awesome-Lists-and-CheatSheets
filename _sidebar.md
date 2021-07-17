@@ -7,15 +7,15 @@
     - [1.6 AI Showcase List](/AI/AI-Showcase-List.md)
     - 1.7 Application
       - [1.7.1 AI Application List](/AI/Application/AI-Application-List.md)
-      - 1.7.2 RPA
-        - [1.7.2.1 RPA List](/AI/Application/RPA/RPA-List.md)
-      - 1.7.3 RecommendSystem
-        - [1.7.3.1 CTR List](/AI/Application/RecommendSystem/CTR-List.md)
-        - [1.7.3.2 RecommendSystem List](/AI/Application/RecommendSystem/RecommendSystem-List.md)
-      - 1.7.4 SNA
-        - [1.7.4.1 SNA List](/AI/Application/SNA/SNA-List.md)
-      - 1.7.5 SelfDriving
-        - [1.7.5.1 SelfDriving List](/AI/Application/SelfDriving/SelfDriving-List.md)
+      - 1.7.2 AutoDriving
+        - [1.7.2.1 AutoDriving List](/AI/Application/AutoDriving/AutoDriving-List.md)
+      - 1.7.3 RPA
+        - [1.7.3.1 RPA List](/AI/Application/RPA/RPA-List.md)
+      - 1.7.4 RecommendSystem
+        - [1.7.4.1 CTR List](/AI/Application/RecommendSystem/CTR-List.md)
+        - [1.7.4.2 RecommendSystem List](/AI/Application/RecommendSystem/RecommendSystem-List.md)
+      - 1.7.5 SNA
+        - [1.7.5.1 SNA List](/AI/Application/SNA/SNA-List.md)
     - 1.8 ComputerVision
       - [1.8.1 ComputerVision List](/AI/ComputerVision/ComputerVision-List.md)
       - [1.8.2 OCR List](/AI/ComputerVision/OCR-List.md)
