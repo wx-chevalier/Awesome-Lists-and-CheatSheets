@@ -6,6 +6,10 @@
 
 - [YesPlayMusic #Project#](https://github.com/qier222/YesPlayMusic): 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
+## WebSite Clone
+
+- [Hulu Website Clone #Project#](https://github.com/bradtraversy/hulu-webpage-clone): This is an HTML & CSS project with a bit of JavaScript. It is a clone of the Hulu homepage and part of a YouTube tutorial
+
 ## Examples
 
 - [2021-50 Projects in 50 Days - HTML/CSS and JavaScript #Project#](https://github.com/bradtraversy/50projects50days): 50+ mini web projects using HTML, CSS & JS
@@ -49,6 +53,8 @@
 - [2019-Snowpack #Project#](https://github.com/pikapkg/snowpack): Build web applications with less tooling and 10x faster iteration. No bundler required.
 
 - [2020-Rome #Project#](https://github.com/facebookexperimental/rome): Rome is an experimental JavaScript toolchain. It includes a compiler, linter, formatter, bundler, testing framework and more. It aims to be a comprehensive tool for anything related to the processing of JavaScript source code.
+
+- [2021-Astro #Project#](https://github.com/snowpackjs/astro): Astro is a fresh but familiar approach to building websites. Astro combines decades of proven performance best practices with the DX improvements of the component-oriented era. Use your favorite JavaScript framework and automatically ship the bare-minimum amount of JavaScript—by default.
 
 ## SSR
 
