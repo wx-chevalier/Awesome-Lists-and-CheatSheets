@@ -58,6 +58,8 @@
 
 - [2019-DeepCTR：易用可扩展的深度学习点击率预测算法包](https://zhuanlan.zhihu.com/p/53231955): 这个项目主要是对目前的一些基于深度学习的点击率预测算法进行了实现，如 PNN, WDL,DeepFM,MLR,DeepCross,AFM,NFM,DIN,DIEN,xDeepFM,AutoInt 等,并且对外提供了一致的调用接口。
 
+- [2021-gorse #Project#](https://github.com/zhenghaoz/gorse): An open source recommender system service written in Go.
+
 ## Showcase
 
 - [RSAlgorithms #Project#](https://github.com/hongleizhang/RSAlgorithms): Some algorithms about traditional and social recommendation.

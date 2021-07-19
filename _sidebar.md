@@ -91,10 +91,11 @@
       - 1.11.5 MachineTranslation
         - [1.11.5.1 MachineTranslation List](/AI/NLP/MachineTranslation/MachineTranslation-List.md)
       - [1.11.6 NLP List](/AI/NLP/NLP-List.md)
-      - 1.11.7 SyntaxSemanticAnalysis
-        - [1.11.7.1 SyntaxSemanticAnalysis List](/AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
-      - 1.11.8 Voice
-        - [1.11.8.1 Voice List](/AI/NLP/Voice/Voice-List.md)
+      - [1.11.7 NLP OpenSource List](/AI/NLP/NLP-OpenSource-List.md)
+      - 1.11.8 SyntaxSemanticAnalysis
+        - [1.11.8.1 SyntaxSemanticAnalysis List](/AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
+      - 1.11.9 Voice
+        - [1.11.9.1 Voice List](/AI/NLP/Voice/Voice-List.md)
     - 1.12 Statistics
       - [1.12.1 LinearAlgebra List](/AI/Statistics/LinearAlgebra-List.md)
       - [1.12.2 Mathematics List](/AI/Statistics/Mathematics-List.md)
@@ -392,31 +393,31 @@
   - 6 Infrastructure
     - 6.1 Cloud
       - [6.1.1 Cloud List](/Infrastructure/Cloud/Cloud-List.md)
-      - [6.1.2 Cloud OpenSource List](/Infrastructure/Cloud/Cloud-OpenSource-List.md)
-      - 6.1.3 Container
-        - [6.1.3.1 Container List](/Infrastructure/Cloud/Container/Container-List.md)
-        - 6.1.3.2 Docker
-          - [6.1.3.2.1 Docker Configuration List](/Infrastructure/Cloud/Container/Docker/Docker-Configuration-List.md)
-          - [6.1.3.2.2 Docker Internals List](/Infrastructure/Cloud/Container/Docker/Docker-Internals-List.md)
-          - [6.1.3.2.3 Docker List](/Infrastructure/Cloud/Container/Docker/Docker-List.md)
-          - [6.1.3.2.4 Dokcer Swarm List](/Infrastructure/Cloud/Container/Docker/Dokcer-Swarm-List.md)
-        - 6.1.3.3 Rocket
-          - [6.1.3.3.1 Rocket List](/Infrastructure/Cloud/Container/Rocket/Rocket-List.md)
-      - 6.1.4 K8s
-        - [6.1.4.1 K8s Architecture List](/Infrastructure/Cloud/K8s/K8s-Architecture-List.md)
-        - [6.1.4.2 K8s Deployment List](/Infrastructure/Cloud/K8s/K8s-Deployment-List.md)
-        - [6.1.4.3 K8s List](/Infrastructure/Cloud/K8s/K8s-List.md)
-        - [6.1.4.4 K8s OpenSource List](/Infrastructure/Cloud/K8s/K8s-OpenSource-List.md)
-        - [6.1.4.5 K8s Practices List](/Infrastructure/Cloud/K8s/K8s-Practices-List.md)
-      - 6.1.5 Provider
-        - [6.1.5.1 Cloud Provider List](/Infrastructure/Cloud/Provider/Cloud-Provider-List.md)
-      - 6.1.6 VM
-        - 6.1.6.1 KVM
-          - [6.1.6.1.1 KVM List](/Infrastructure/Cloud/VM/KVM/KVM-List.md)
-        - 6.1.6.2 OpenStack
-          - [6.1.6.2.1 OpenStack List](/Infrastructure/Cloud/VM/OpenStack/OpenStack-List.md)
-        - 6.1.6.3 Xen
-          - [6.1.6.3.1 Xen List](/Infrastructure/Cloud/VM/Xen/Xen-List.md)
+      - 6.1.2 Container
+        - [6.1.2.1 Container List](/Infrastructure/Cloud/Container/Container-List.md)
+        - 6.1.2.2 Docker
+          - [6.1.2.2.1 Docker Configuration List](/Infrastructure/Cloud/Container/Docker/Docker-Configuration-List.md)
+          - [6.1.2.2.2 Docker Internals List](/Infrastructure/Cloud/Container/Docker/Docker-Internals-List.md)
+          - [6.1.2.2.3 Docker List](/Infrastructure/Cloud/Container/Docker/Docker-List.md)
+          - [6.1.2.2.4 Docker OpenSource List](/Infrastructure/Cloud/Container/Docker/Docker-OpenSource-List.md)
+          - [6.1.2.2.5 Dokcer Swarm List](/Infrastructure/Cloud/Container/Docker/Dokcer-Swarm-List.md)
+        - 6.1.2.3 Rocket
+          - [6.1.2.3.1 Rocket List](/Infrastructure/Cloud/Container/Rocket/Rocket-List.md)
+      - 6.1.3 K8s
+        - [6.1.3.1 K8s Architecture List](/Infrastructure/Cloud/K8s/K8s-Architecture-List.md)
+        - [6.1.3.2 K8s Deployment List](/Infrastructure/Cloud/K8s/K8s-Deployment-List.md)
+        - [6.1.3.3 K8s List](/Infrastructure/Cloud/K8s/K8s-List.md)
+        - [6.1.3.4 K8s OpenSource List](/Infrastructure/Cloud/K8s/K8s-OpenSource-List.md)
+        - [6.1.3.5 K8s Practices List](/Infrastructure/Cloud/K8s/K8s-Practices-List.md)
+      - 6.1.4 Provider
+        - [6.1.4.1 Cloud Provider List](/Infrastructure/Cloud/Provider/Cloud-Provider-List.md)
+      - 6.1.5 VM
+        - 6.1.5.1 KVM
+          - [6.1.5.1.1 KVM List](/Infrastructure/Cloud/VM/KVM/KVM-List.md)
+        - 6.1.5.2 OpenStack
+          - [6.1.5.2.1 OpenStack List](/Infrastructure/Cloud/VM/OpenStack/OpenStack-List.md)
+        - 6.1.5.3 Xen
+          - [6.1.5.3.1 Xen List](/Infrastructure/Cloud/VM/Xen/Xen-List.md)
     - [6.2 Infrastructure List](/Infrastructure/Infrastructure-List.md)
     - 6.3 IoT
       - 6.3.1 Chip
@@ -612,6 +613,7 @@
           - [8.1.3.3.1 MongoDB List](/Middleware/Database/Document/MongoDB/MongoDB-List.md)
         - 8.1.3.4 SearchEngine
           - [8.1.3.4.1 SearchEngine List](/Middleware/Database/Document/SearchEngine/SearchEngine-List.md)
+          - [8.1.3.4.2 SearchEngine OpenSource List](/Middleware/Database/Document/SearchEngine/SearchEngine-OpenSource-List.md)
       - 8.1.4 Graph
         - [8.1.4.1 GraphDB List](/Middleware/Database/Graph/GraphDB-List.md)
       - 8.1.5 KeyValue
@@ -665,16 +667,17 @@
           - 8.2.2.2.2 Iceberg
             - [8.2.2.2.2.1 Iceberg List](/Middleware/DistributedCompute/Datawarehouse/DataLake/Iceberg/Iceberg-List.md)
         - [8.2.2.3 Datawarehouse List](/Middleware/DistributedCompute/Datawarehouse/Datawarehouse-List.md)
-        - 8.2.2.4 HBase
-          - [8.2.2.4.1 HBase List](/Middleware/DistributedCompute/Datawarehouse/HBase/HBase-List.md)
-        - 8.2.2.5 Hive
-          - [8.2.2.5.1 Hive List](/Middleware/DistributedCompute/Datawarehouse/Hive/Hive-List.md)
-        - 8.2.2.6 MPP
-          - 8.2.2.6.1 Presto
-            - [8.2.2.6.1.1 Presto List](/Middleware/DistributedCompute/Datawarehouse/MPP/Presto/Presto-List.md)
-        - 8.2.2.7 OLAP
-          - [8.2.2.7.1 Greenplum List](/Middleware/DistributedCompute/Datawarehouse/OLAP/Greenplum-List.md)
-          - [8.2.2.7.2 OLAP List](/Middleware/DistributedCompute/Datawarehouse/OLAP/OLAP-List.md)
+        - [8.2.2.4 Datawarehouse OpenSource List](/Middleware/DistributedCompute/Datawarehouse/Datawarehouse-OpenSource-List.md)
+        - 8.2.2.5 HBase
+          - [8.2.2.5.1 HBase List](/Middleware/DistributedCompute/Datawarehouse/HBase/HBase-List.md)
+        - 8.2.2.6 Hive
+          - [8.2.2.6.1 Hive List](/Middleware/DistributedCompute/Datawarehouse/Hive/Hive-List.md)
+        - 8.2.2.7 MPP
+          - 8.2.2.7.1 Presto
+            - [8.2.2.7.1.1 Presto List](/Middleware/DistributedCompute/Datawarehouse/MPP/Presto/Presto-List.md)
+        - 8.2.2.8 OLAP
+          - [8.2.2.8.1 Greenplum List](/Middleware/DistributedCompute/Datawarehouse/OLAP/Greenplum-List.md)
+          - [8.2.2.8.2 OLAP List](/Middleware/DistributedCompute/Datawarehouse/OLAP/OLAP-List.md)
       - [8.2.3 DistributedCompute List](/Middleware/DistributedCompute/DistributedCompute-List.md)
       - [8.2.4 DistributedCompute OpenSource List](/Middleware/DistributedCompute/DistributedCompute-OpenSource-List.md)
       - 8.2.5 EdgeCompute

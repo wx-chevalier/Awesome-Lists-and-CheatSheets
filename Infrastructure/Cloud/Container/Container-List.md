@@ -11,3 +11,17 @@
 # Scratch
 
 - [2017-Linux containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+
+# OpenSource
+
+- [Nomad #Project#](https://www.nomadproject.io/): A simple and flexible workload orchestrator to deploy and manage containers and non-containerized applications across on-prem and clouds at scale.
+
+- [LightVM #Project#](http://cnp.neclab.eu/projects/lightvm/): . With LightVM we examine whether there is indeed a strict tradeoff between isolation (VMs) and efficiency (containers). We find that VMs can be as nimble as containers, as long as they are small and the toolstack is fast enough.
+
+- [TinyVM #Project#](https://github.com/jakogut/tinyvm): TinyVM is a virtual machine with the goal of having a small footprint. Low memory usage, a small amount of code, and a small binary.
+
+- [gVisor #Project#](https://github.com/google/gvisor): gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface.
+
+- [Kata Containers #Project#](https://katacontainers.io/): Kata Containers is a new open source project building extremely lightweight virtual machines that seamlessly plug into the containers ecosystem.
+
+- [Hyper Container #Project#](https://hypercontainer.io/): Hypervisor-agnostic Docker Runtime.

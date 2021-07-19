@@ -6,6 +6,8 @@
 
 # Animation
 
+## Math
+
 - [Manim #Project#](https://github.com/3b1b/manim): Manim is an animation engine for explanatory math videos. It's used to create precise animations programmatically, as seen in the videos at 3Blue1Brown.
 
 # Others
