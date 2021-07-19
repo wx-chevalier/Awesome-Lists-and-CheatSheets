@@ -4,7 +4,7 @@
 
 - [Kompose](http://kompose.io/index): Kompose kompose is a tool to help users familiar with docker-compose move to Kubernetes. It takes a Docker Compose file and translates it into Kubernetes resources.
 
-- [原生加速中国区 Kubernetes 安装](https://www.cnrancher.com/kubernetes-installation/): 教你如何在中国区加速部署 k8s，且实现自定义设置拥有 k8s 镜像的仓库与其命名空间。
+- [原生加速中国区 Kubernetes 安装](https://www.cnrancher.com/kubernetes-installation/): 教你如何在中国区加速部署 k8s，且实现自定义设置拥有 K8s 镜像的仓库与其命名空间。
 
 - [Quick deployment of Kubernetes - VPC environment on Alibaba Cloud](https://www.alibabacloud.com/forum/read-830)
 
@@ -16,7 +16,7 @@
 
 ## HA
 
-- [2019-高可用 kubernetes 集群部署实践](https://yq.aliyun.com/articles/704946): 可用性对基础设施而言至关重要。各大云计算厂商纷纷推出了高可用、可扩展的 k8s 托管服务，其中比较有代表性的有 Amazon EKS、Azure Kubernetes Service (AKS)、Google Kubernetes Engine、阿里云容器服务 Kubernetes 版等。
+- [2019-高可用 kubernetes 集群部署实践](https://yq.aliyun.com/articles/704946): 可用性对基础设施而言至关重要。各大云计算厂商纷纷推出了高可用、可扩展的 K8s 托管服务，其中比较有代表性的有 Amazon EKS、Azure Kubernetes Service (AKS)、Google Kubernetes Engine、阿里云容器服务 Kubernetes 版等。
 
 # Knative
 
