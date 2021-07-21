@@ -27,7 +27,3 @@
 - [两阶段提交协议与三阶段提交协议](http://www.tuicool.com/articles/mARV3u)
 
 # 事务消息
-
-# OpenSource
-
-- [myth #Project#](https://github.com/dromara/myth): Reliable messages resolve distributed transactions
