@@ -22,6 +22,8 @@
 
 - [2019-TDengine #Project#](https://github.com/taosdata/TDengine): TDengine is an open-sourced big data platform under GNU AGPL v3.0, designed and optimized for the Internet of Things (IoT), Connected Cars, Industrial IoT, and IT Infrastructure and Application Monitoring.
 
+- [2021-DGIOT #Project#](https://github.com/dgiot/dgiot): DGIOT is the first lightweight open source industrial IoT continuous integration platform in China.
+
 # Gateway
 
 - [2015-Microsoft Azure IoT Protocol Gateway](https://github.com/Azure/azure-iot-protocol-gateway): Azure IoT protocol gateway enables protocol translation for Azure IoT Hub.
@@ -34,18 +36,14 @@
 
 - [JetLinks #Project#](https://github.com/jetlinks/jetlinks-community): JetLinks 基于 Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor 等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP 等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。
 
-# Firmware
-
-- [nodemcu-firmware #Project#](https://github.com/nodemcu/nodemcu-firmware): lua based interactive firmware for mcu like esp8266.
-
-- [arduino-esp32 #Project#](https://github.com/espressif/arduino-esp32): Arduino core for the ESP32
-
-## Raspberry
-
-- [2017-dingdang-robot #Project#](https://github.com/dingdang-robot/dingdang-robot): 叮当是一款可以工作在 Raspberry Pi 上的中文语音对话机器人/智能音箱项目。
-
-- [2017-BT-Speaker #Project#](https://github.com/lukasjapan/bt-speaker): A simple Bluetooth Speaker Daemon for the Raspberry Pi 3.
-
 # Visual Tools
 
 - [node-red #Project#](https://github.com/node-red/node-red): A visual tool for wiring the Internet of Things.
+
+# Home Automation | 智能家居
+
+- [瀚思彼岸](https://bbs.hassbian.com/forum.php)
+
+- [Home Assistant #Project#](https://www.home-assistant.io/): Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.
+
+- [Home Assistant + 树莓派：强大的智能家居系统 · 小米篇](https://sspai.com/post/40113): 小米的智能家居设备物美价廉，博得了国内外不少用户的喜爱。不要不信，在 Home Assistant 官方论坛上，米家设备相关话题的热度一直居高不下。
