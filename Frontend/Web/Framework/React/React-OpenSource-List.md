@@ -20,6 +20,12 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 - [2018-Gooact: React in 160 lines of JavaScript #Project#](https://parg.co/Y5s): How to build own React clone in a matter of minutes.
 
+## Boilerplate
+
+- [2020-bulletproof-react #Project#](https://github.com/alan2207/bulletproof-react): 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
+
+- [2021-Windows 11 in React #Project#](https://github.com/blueedgetechno/windows11): This open source project is made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS (SCSS), and Js.
+
 # Development Tools | 开发工具
 
 ## Scaffold
@@ -52,7 +58,7 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 - [2019-SWR #Project#](https://github.com/zeit/swr): SWR is a React Hooks library for remote data fetching. The name “SWR” is derived from stale-while-revalidate, a HTTP cache invalidation strategy popularized by RFC 5861. SWR first returns the data from cache (stale), then sends the fetch request (revalidate), and finally comes with the up-to-date data again.
 
-- [2019-react-query](https://github.com/tannerlinsley/react-query): ⚛️ Hooks for fetching, caching and updating asynchronous data in React.
+- [2019-React Query #Project#](https://github.com/tannerlinsley/react-query): ⚛️ Hooks for fetching, caching and updating asynchronous data in React.
 
 ## Component Utilities
 
