@@ -16,6 +16,8 @@
 
 - [Bowler #Project#](https://pybowler.io/): Safe code refactoring for modern Python.
 
+- [Brython #Project#](https://github.com/brython-dev/brython): Brython (Browser Python) is an implementation of Python 3 running in the browser
+
 ## Debug
 
 - [nbtutor #Project#](https://github.com/lgpage/nbtutor): Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
