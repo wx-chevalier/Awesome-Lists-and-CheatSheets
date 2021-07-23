@@ -245,6 +245,8 @@
 
 - [yolov5 #Project#](https://github.com/ultralytics/yolov5): This repository represents Ultralytics open-source research into future object detection methods, and incorporates our lessons learned and best practices evolved over training thousands of models on custom client datasets with our previous YOLO repository.
 
+- [YOLOX #Project#](https://github.com/Megvii-BaseDetection/YOLOX): YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with ONNX, TensorRT, ncnn, and OpenVINO supported.
+
 - [Handtrack.js #Project#](https://victordibia.github.io/handtrack.js/#/): 它可以让开发人员使用经过训练的手部检测模型快速创建手势交互原型。
 
 ### 人脸检测
