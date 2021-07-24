@@ -20,7 +20,7 @@
 
 - [2019-KinD #Project#](https://github.com/kubernetes-sigs/kind/): kind is a tool for running local Kubernetes clusters using Docker container "nodes". kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI.
 
-- [2020-Microk8s #Project#](https://microk8s.io/#get-started): Super-simple production-grade upstream K8s. One-command install on 42 flavours of Linux. Made for developers and devops. Great for edge and IoT.
+- [2020-Microk8s #Project#](https://microk8s.io/): Super-simple production-grade upstream K8s. One-command install on 42 flavours of Linux. Made for developers and devops. Great for edge and IoT.
 
 - [2020-k3d #Project#](https://github.com/rancher/k3d/): Little helper to run Rancher Lab's k3s in Docker.
 
