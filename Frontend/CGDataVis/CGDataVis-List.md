@@ -20,6 +20,10 @@
 
 - [2019-How to Design a Dashboard #Book#](https://dataschool.com/how-to-design-a-dashboard/): Dashboards enable people to make decisions based on data. This book walks you through the process of defining, prototyping, building, and deploying a dashboard. The focus of the book is to help people make dashboards that get used to make decisions.
 
+### Graphic
+
+- [2020-WebGL Insights #Book#](http://webglinsights.com/): WebGL Insights presents real-world techniques for intermediate and advanced WebGL developers by assembling contributions from experienced WebGL engine and application developers, GPU vendors, browser developers, researchers, and educators. By focusing on current and emerging techniques , WebGL Insights demonstrates the breadth and depth of WebGL. Readers will gain practical skills to solve problems related to performance, engine design, shader pipelines, rendering, mobile devices, testing, and more.
+
 ## Collection
 
 - [2019-fun-with-graphics #Collection#](https://github.com/FancyVin/fun-with-graphics): 这里主要整理了图形学相关的高校课程、书籍、教程、文章、博客、资源、研究者主页、实验室主页、视频频道、开源项目、网站等。
