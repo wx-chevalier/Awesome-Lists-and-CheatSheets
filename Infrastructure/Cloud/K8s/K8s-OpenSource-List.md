@@ -1,8 +1,8 @@
 # Kubernetes
 
-## Tools & Platform
-
 - [krew #Project#](https://github.com/GoogleContainerTools/krew): krew is the package manager for kubectl plugins. krew plugins: [kubectl-tree](https://github.com/ahmetb/kubectl-tree)
+
+## CLI & UI Tools
 
 - [Wayne #Project#](https://github.com/Qihoo360/wayne): Web UI for Kubernetes multi-clusters
 
@@ -13,6 +13,8 @@
 - [Lens #Project#](https://github.com/lensapp/lens): Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It is a standalone application for MacOS, Windows and Linux operating systems. It is open source and free.
 
 - [2021-pixie #Project#](https://github.com/pixie-labs/pixie): Instant Kubernetes-Native Application Observability
+
+- [k9s #Project#](https://k9scli.io/): K9s is a terminal based UI to interact with your Kubernetes clusters. The aim of this project is to make it easier to navigate, observe and manage your deployed applications in the wild. K9s continually watches Kubernetes for changes and offers subsequent commands to interact with your observed resources.
 
 ## Distribution
 
@@ -32,7 +34,7 @@
 
 - [oneinfra #Project#](https://github.com/oneinfra/oneinfra): oneinfra is a Kubernetes as a Service platform. It empowers you to provide or consume Kubernetes clusters at scale, on any platform or service provider. You decide.
 
-- [k9s #Project#](https://k9scli.io/): K9s is a terminal based UI to interact with your Kubernetes clusters. The aim of this project is to make it easier to navigate, observe and manage your deployed applications in the wild. K9s continually watches Kubernetes for changes and offers subsequent commands to interact with your observed resources.
+- [Crossplane #Project#](https://crossplane.io/): Crossplane is an open source Kubernetes add-on that enables platform teams to assemble infrastructure from multiple vendors, and expose higher level self-service APIs for application teams to consume, without having to write any code.
 
 ## Application Management
 
@@ -69,6 +71,10 @@
 - [Skaffold #Project#](https://github.com/GoogleCloudPlatform/skaffold): Skaffold is a command line tool that facilitates continuous development for Kubernetes applications.
 
 - [Brigade #Project#](https://github.com/Azure/brigade): Script simple and complex workflows using JavaScript. Chain together containers, running them in parallel or serially. Fire scripts based on times, GitHub events, Docker pushes, or any other trigger. Brigade is the tool for creating pipelines for Kubernetes.
+
+- [kaniko #Project#](https://github.com/GoogleContainerTools/kaniko): kaniko is a tool to build container images from a Dockerfile, inside a container or Kubernetes cluster.
+
+- [2021-BotKube #Project#](https://github.com/infracloudio/botkube): An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices.
 
 ## HA
 

@@ -10,6 +10,8 @@
 
 - [2019-Kubernetes 101 Concepts and Why It Matters](https://www.magalix.com/blog/kubernetes-101-concepts-and-why-it-matters): A 10k feet overview of Kubernetes Concepts and Architecture. If you are into the DevOps or the IT field in general, you surely heard the term Kubernetes. In this article, we explore Kubernetes from a 10,000 ft. We’ll also shed light on some of its most important use cases and best practices.
 
+- [Kubernetes 必备工具：2021](https://mp.weixin.qq.com/s/NBaG_Otl9hjj2fUJm6sAPQ): 有别于前些天的文章 - 常用的几款工具让 Kubernetes 集群上的工作更容易 偏重于工具类来提升工作效率，今天这篇文章更加适合用来做选型时的参考。
+
 ## Case Study
 
 - [2017-Kubernetes at GitHub](https://githubengineering.com/kubernetes-at-github/): Moving a critical application to Kubernetes was a fun challenge, and we’re excited to share some of what we’ve learned with you today.
