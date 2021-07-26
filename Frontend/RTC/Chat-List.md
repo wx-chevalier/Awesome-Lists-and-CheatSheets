@@ -10,6 +10,8 @@
 
 - [DogeHouse #Project#](https://github.com/benawad/dogehouse): Taking voice conversations to the moon 🚀
 
+- [2020-Tinode #Project#](https://github.com/tinode/chat): Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+
 ## UI
 
 - [ChatUI #Project#](https://github.com/alibaba/ChatUI): The UI design language and React library for Conversational UI.

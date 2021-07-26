@@ -20,7 +20,7 @@
 
 ## Automation
 
-- [Prisma #Project#](https://github.com/graphcool/prisma): Prisma turns your database into a realtime GraphQL API.
+- [Prisma #Project#](https://github.com/prisma/prisma): Prisma turns your database into a realtime GraphQL API.
 
 - [Apollo GraphQL code generator #Project#](https://github.com/apollographql/apollo-codegen):
   This is a tool to generate API code or type annotations based on a GraphQL schema and query documents.
@@ -28,6 +28,8 @@
 - [PostGraphile #Project#](https://github.com/graphile/postgraphile): A GraphQL API created by reflection over a PostgreSQL schema.
 
 - [GraphQL Mesh #Project#](https://github.com/Urigo/graphql-mesh/blob/master/README.md): GraphQL Mesh allows you to use GraphQL query language to access data in remote APIs that don't run GraphQL (and also ones that do run GraphQL). It can be used as a gateway to other services, or run as a local GraphQL schema that aggregates data from remote APIs.
+
+- [2021-Hasura GraphQL Engine #Project#](https://github.com/hasura/graphql-engine): Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 
 ## Utility
 

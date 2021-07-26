@@ -4,6 +4,12 @@
 
 - [pytudes #Project#](https://github.com/norvig/pytudes): This project contains pytudes—Python programs for perfecting programming skills. Some are in Jupyter (IPython) notebooks, some in `*.py` files.
 
+## Examples
+
+- [2018-learn python #Project#](https://github.com/trekhleb/learn-python): 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
+
+- [2021-GeekComputers Python Examples #Project#](https://github.com/geekcomputers/Python): This document helps to understand python in detail.And tells you More Information
+
 - [python-small-examples #Series#](https://github.com/jackzhenguo/python-small-examples): 告别枯燥，60 秒学会一个 Python 小例子，当前库已有 223 个实用的小例子 。
 
 # Development Tool
@@ -15,6 +21,8 @@
 - [Pyre #Project#](https://github.com/facebook/pyre-check): Pyre is a fast, scalable type checker for large python codebases, designed to help improve code quality and development speed by flagging type errors interactively in your terminal or favorite editor.
 
 - [Bowler #Project#](https://pybowler.io/): Safe code refactoring for modern Python.
+
+- [Brython #Project#](https://github.com/brython-dev/brython): Brython (Browser Python) is an implementation of Python 3 running in the browser
 
 ## Debug
 

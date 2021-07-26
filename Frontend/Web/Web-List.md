@@ -32,6 +32,10 @@
 
 # Resource | 资源
 
+## Blog
+
+- [web.dev #Blog#](https://web.dev/blog/): As the web advances, users' expectations get higher. With web.dev's guidance, you can give your users the best possible experience, wherever they are.
+
 ## Book | 书籍
 
 - [2017-Front End Developer Handbook 2017 #Book#](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)

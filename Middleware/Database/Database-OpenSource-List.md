@@ -22,6 +22,8 @@
 
 - [CockroachDB #Project#](https://github.com/cockroachdb/cockroach): CockroachDB is a cloud-native distributed SQL database designed to build, scale, and manage modern, data-intensive applications.
 
+- [Toydb #Project#](https://github.com/erikgrinaker/toydb): Distributed SQL database in Rust, written as a learning project. Most components are built from scratch.
+
 # Universal SQL Tools
 
 ## Client

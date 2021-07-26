@@ -1,5 +1,9 @@
 # 即时通信资料索引
 
+# Overview
+
+- [2021-2021 技术展望 | 走向未来的实时生成技术](https://mp.weixin.qq.com/s/IS-ZOWwsblqIwAHqhQz8UQ): 疫情爆发至今一年多的时间里，很多行业在疫情期间都备受打击，然而也有一些行业“因祸得福”，快速增长，包括在线教育、在线诊疗、在家办公、在线买菜、在线直播等。这些在线业务行业，均要大量应用音视频直播技术，在音视频直播技术的背后有两项关键技术在支撑：实时通信技术（Real-time Communication）与实时渲染技术（Real-time Rendering）。目前二者正在与实时生成技术相结合，为我们带来更好的实时沟通体验。
+
 # Resource
 
 ## Case Study
@@ -29,3 +33,7 @@
 # IM 系统
 
 - [现代 IM 系统中的消息系统架构 #Series#](https://yq.aliyun.com/articles/701593): 我们介绍了现代 IM 消息系统的架构，介绍了 Timeline 的抽象模型以及基于 Timeline 模型构建的一个支持消息漫游、多端同步和消息检索多种高级功能的消息系统的典型架构。
+
+# WebRTC
+
+- [2017-A real world guide to WebRTC](https://deepstreamhub.com/tutorials/protocols/webrtc-intro/): The goal is that once you've read through it you've gained a solid, hands-on understanding of what it takes to build WebRTC apps and enough additional knowledge to know where to go next.
