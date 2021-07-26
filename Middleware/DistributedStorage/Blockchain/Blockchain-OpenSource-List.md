@@ -4,6 +4,10 @@
 
 - [2017-Naivecoin #Series#](https://lhartikk.github.io/): a tutorial for building a cryptocurrency.
 
+# Showcase 
+
+- [2021-A from-scratch tour of Bitcoin in Python](http://karpathy.github.io/2021/06/21/blockchain/): We are going to create, digitally sign, and broadcast a Bitcoin transaction in pure Python, from scratch, and with zero dependencies.
+
 # Cryptocurrency
 
 - [Ninjabot #Project#](https://github.com/rodrigo-brito/ninjabot): A fast cryptocurrency bot framework implemented in Go. Ninjabot permits users to create and test custom strategies for spot markets..
