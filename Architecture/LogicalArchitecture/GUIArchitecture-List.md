@@ -2,7 +2,7 @@
 
 - [three-ds-of-web-development](http://developer.telerik.com/featured/three-ds-of-web-development-1-declarative-vs-imperative/)
 
-- [前端攻略 - 从路人甲到英雄无敌二：JavaScript 与不断演化的框架](https://segmentfault.com/a/1190000005353213#articleHeader9)
+- [前端攻略，从路人甲到英雄无敌二：JavaScript 与不断演化的框架](https://segmentfault.com/a/1190000005353213#articleHeader9)
 
 - [The Post-MVC Age](https://realm.io/news/the-post-mvc-age/): For a long time the Model View Controller (MVC) paradigm was the gold standard to build applications. Now it seems MVC’s star is dying in the JavaScript universe.
 

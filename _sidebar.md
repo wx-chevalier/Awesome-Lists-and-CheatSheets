@@ -666,34 +666,40 @@
       - [7.5.4 RabbitMQ List](/Middleware/MOM/RabbitMQ-List.md)
       - [7.5.5 RocketMQ List](/Middleware/MOM/RocketMQ-List.md)
   - 8 Architecture
-    - [8.1 Architecture List](/Architecture/Architecture-List.md)
-    - 8.2 Concurrent
-      - [8.2.1 ConcurrentIO List](/Architecture/Concurrent/ConcurrentIO-List.md)
-      - [8.2.2 ConcurrentModel List](/Architecture/Concurrent/ConcurrentModel-List.md)
-      - [8.2.3 ConcurrentProgramming List](/Architecture/Concurrent/ConcurrentProgramming-List.md)
-      - [8.2.4 JobScheduler List](/Architecture/Concurrent/JobScheduler-List.md)
-    - 8.3 DistributedSystem
-      - 8.3.1 Consensus
-        - [8.3.1.1 Consensus List](/Architecture/DistributedSystem/Consensus/Consensus-List.md)
-        - [8.3.1.2 Consul List](/Architecture/DistributedSystem/Consensus/Consul-List.md)
-        - [8.3.1.3 Etcd List](/Architecture/DistributedSystem/Consensus/Etcd-List.md)
-        - [8.3.1.4 Paxos List](/Architecture/DistributedSystem/Consensus/Paxos-List.md)
-        - [8.3.1.5 Raft List](/Architecture/DistributedSystem/Consensus/Raft-List.md)
-        - [8.3.1.6 ZooKeeper List](/Architecture/DistributedSystem/Consensus/ZooKeeper-List.md)
-      - 8.3.2 DistributedSchedule
-        - [8.3.2.1 Cron List](/Architecture/DistributedSystem/DistributedSchedule/Cron-List.md)
-      - [8.3.3 DistributedSystem List](/Architecture/DistributedSystem/DistributedSystem-List.md)
-      - 8.3.4 DistributedTransaction
-        - [8.3.4.1 DistributedLock List](/Architecture/DistributedSystem/DistributedTransaction/DistributedLock-List.md)
-        - [8.3.4.2 DistributedTransaction List](/Architecture/DistributedSystem/DistributedTransaction/DistributedTransaction-List.md)
-        - [8.3.4.3 DistributedTransaction OpenSource List](/Architecture/DistributedSystem/DistributedTransaction/DistributedTransaction-OpenSource-List.md)
-    - 8.4 HA
-      - [8.4.1 Cache List](/Architecture/HA/Cache-List.md)
-      - [8.4.2 HA List](/Architecture/HA/HA-List.md)
-      - [8.4.3 HA OpenSource List](/Architecture/HA/HA-OpenSource-List.md)
-      - [8.4.4 ResilienceService List](/Architecture/HA/ResilienceService-List.md)
-      - [8.4.5 SRE List](/Architecture/HA/SRE-List.md)
-      - [8.4.6 Spike List](/Architecture/HA/Spike-List.md)
+    - 8.1 Concurrent
+      - [8.1.1 ConcurrentIO List](/Architecture/Concurrent/ConcurrentIO-List.md)
+      - [8.1.2 ConcurrentModel List](/Architecture/Concurrent/ConcurrentModel-List.md)
+      - [8.1.3 ConcurrentProgramming List](/Architecture/Concurrent/ConcurrentProgramming-List.md)
+      - [8.1.4 JobScheduler List](/Architecture/Concurrent/JobScheduler-List.md)
+    - 8.2 DistributedSystem
+      - 8.2.1 Consensus
+        - [8.2.1.1 Consensus List](/Architecture/DistributedSystem/Consensus/Consensus-List.md)
+        - [8.2.1.2 Consul List](/Architecture/DistributedSystem/Consensus/Consul-List.md)
+        - [8.2.1.3 Etcd List](/Architecture/DistributedSystem/Consensus/Etcd-List.md)
+        - [8.2.1.4 Paxos List](/Architecture/DistributedSystem/Consensus/Paxos-List.md)
+        - [8.2.1.5 Raft List](/Architecture/DistributedSystem/Consensus/Raft-List.md)
+        - [8.2.1.6 ZooKeeper List](/Architecture/DistributedSystem/Consensus/ZooKeeper-List.md)
+      - 8.2.2 DistributedSchedule
+        - [8.2.2.1 Cron List](/Architecture/DistributedSystem/DistributedSchedule/Cron-List.md)
+      - [8.2.3 DistributedSystem List](/Architecture/DistributedSystem/DistributedSystem-List.md)
+      - 8.2.4 DistributedTransaction
+        - [8.2.4.1 DistributedLock List](/Architecture/DistributedSystem/DistributedTransaction/DistributedLock-List.md)
+        - [8.2.4.2 DistributedTransaction List](/Architecture/DistributedSystem/DistributedTransaction/DistributedTransaction-List.md)
+        - [8.2.4.3 DistributedTransaction OpenSource List](/Architecture/DistributedSystem/DistributedTransaction/DistributedTransaction-OpenSource-List.md)
+    - 8.3 HA
+      - [8.3.1 Cache List](/Architecture/HA/Cache-List.md)
+      - [8.3.2 HA List](/Architecture/HA/HA-List.md)
+      - [8.3.3 HA OpenSource List](/Architecture/HA/HA-OpenSource-List.md)
+      - [8.3.4 ResilienceService List](/Architecture/HA/ResilienceService-List.md)
+      - [8.3.5 SRE List](/Architecture/HA/SRE-List.md)
+      - [8.3.6 Spike List](/Architecture/HA/Spike-List.md)
+    - 8.4 LogicalArchitecture
+      - [8.4.1 CQRS List](/Architecture/LogicalArchitecture/CQRS-List.md)
+      - [8.4.2 CleanArchitecture List](/Architecture/LogicalArchitecture/CleanArchitecture-List.md)
+      - [8.4.3 DDD List](/Architecture/LogicalArchitecture/DDD-List.md)
+      - [8.4.4 EDA List](/Architecture/LogicalArchitecture/EDA-List.md)
+      - [8.4.5 GUIArchitecture List](/Architecture/LogicalArchitecture/GUIArchitecture-List.md)
+      - [8.4.6 LogicalArchitecture List](/Architecture/LogicalArchitecture/LogicalArchitecture-List.md)
     - 8.5 MicroCN
       - 8.5.1 API
         - [8.5.1.1 API List](/Architecture/MicroCN/API/API-List.md)
@@ -718,11 +724,6 @@
         - [8.5.5.4 RPC OpenSource List](/Architecture/MicroCN/RPC/RPC-OpenSource-List.md)
         - [8.5.5.5 Serialization List](/Architecture/MicroCN/RPC/Serialization-List.md)
         - [8.5.5.6 gRPC List](/Architecture/MicroCN/RPC/gRPC-List.md)
-    - 8.6 PatternStyle
-      - [8.6.1 DDD List](/Architecture/PatternStyle/DDD-List.md)
-      - [8.6.2 EDA List](/Architecture/PatternStyle/EDA-List.md)
-      - [8.6.3 GUIArchitecture List](/Architecture/PatternStyle/GUIArchitecture-List.md)
-      - [8.6.4 PatternStyle List](/Architecture/PatternStyle/PatternStyle-List.md)
   - 9 Infrastructure
     - 9.1 Cloud
       - [9.1.1 Cloud List](/Infrastructure/Cloud/Cloud-List.md)
