@@ -308,8 +308,14 @@
 
 # Architecture
 
-- [single-spa #Project#](https://single-spa.js.org/docs/getting-started-overview.html): Build micro frontends that coexist and can each be written with their own framework.
-
 - [2018-Micro Frontends](https://micro-frontends.org/): Techniques, strategies and recipes for building a modern web app with multiple teams using different JavaScript frameworks.
 
+## Micro-FE Framework
+
 - [Mooa #Project#](https://github.com/phodal/mooa): Mooa 是一个为 Angular 服务的微前端框架，[前端微服务化：使用微前端框架 Mooa 开发微前端应用](https://parg.co/o3F)。
+
+- [single-spa #Project#](https://single-spa.js.org/docs/getting-started-overview.html): Build micro frontends that coexist and can each be written with their own framework.
+
+- [qiankun #Project#](https://github.com/umijs/qiankun): 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
+
+- [Garfish #Project#](https://github.com/bytedance/garfish): Garfish is a micro front-end framework, mainly used to solve the problems of cross-team collaboration, diversification of technology system, and increasing complexity of applications brought by modern web applications in the context of front-end ecological boom and increasing complexity of web applications, and Garfish has been polished and tested by a large number of online applications, with strong functional stability and reliability.

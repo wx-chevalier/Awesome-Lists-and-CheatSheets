@@ -2,13 +2,15 @@
 
 # Showcase
 
-- [2016-zheng #Project#](https://gitee.com/shuzheng/zheng): 基于 Spring+SpringMVC+Mybatis 分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位 J2EE 企业级开发解决方案。
-
-- [microservices-platform #Project#](https://gitee.com/zlt2000/microservices-platform): 基于 SpringBoot2.x、SpringCloud 和 SpringCloudAlibaba 并采用前后端分离的企业级微服务多租户系统架构。
+## Scaffold & Boilerplate
 
 - [hope-boot #Project#](https://github.com/hope-for/hope-boot): 一款现代化的脚手架项目。企业开发？接外包？赚外快？还是学习？这都能满足你，居家必备，值得拥有 🍻
 
-- [2020-pig #Project#](https://gitee.com/log4j/pig): 基于 Spring Boot 2.4Spring Cloud 2020 & AlibabaOAuth2 的微服务 RBAC 权限管理系统。记得右上角点个 star 关注更新
+- [microservices-platform #Project#](https://gitee.com/zlt2000/microservices-platform): 基于 SpringBoot2.x、SpringCloud 和 SpringCloudAlibaba 并采用前后端分离的企业级微服务多租户系统架构。
+
+- [2016-zheng #Project#](https://gitee.com/shuzheng/zheng): 基于 Spring SpringMVC Mybatis 分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位 J2EE 企业级开发解决方案。
+
+- [2020-pig #Project#](https://gitee.com/log4j/pig): 基于 Spring Boot 2.4、Spring Cloud 2020 & AlibabaOAuth2 的微服务 RBAC 权限管理系统。记得右上角点个 star 关注更新
 
 # Dev Toolkits
 
