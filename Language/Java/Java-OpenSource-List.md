@@ -12,6 +12,10 @@
 
 - [2020-pig #Project#](https://gitee.com/log4j/pig): 基于 Spring Boot 2.4、Spring Cloud 2020 & AlibabaOAuth2 的微服务 RBAC 权限管理系统。记得右上角点个 star 关注更新
 
+## Spring
+
+- [RuoYi-Cloud #Project#](https://gitee.com/y_project/RuoYi-Cloud): 基于 Spring Boot、Spring Cloud & Alibaba 的分布式微服务架构权限管理系统。
+
 # Dev Toolkits
 
 ## IDE
