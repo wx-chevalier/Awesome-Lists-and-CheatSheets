@@ -502,8 +502,7 @@
       - [6.3.3 InfoSecurity List](/System/InfoSecurity/InfoSecurity-List.md)
       - [6.3.4 InfoSecurity OpenSource List](/System/InfoSecurity/InfoSecurity-OpenSource-List.md)
       - 6.3.5 OSSecurity
-        - [6.3.5.1 Harden List](/System/InfoSecurity/OSSecurity/Harden-List.md)
-        - [6.3.5.2 OSSecurity List](/System/InfoSecurity/OSSecurity/OSSecurity-List.md)
+        - [6.3.5.1 OSSecurity List](/System/InfoSecurity/OSSecurity/OSSecurity-List.md)
       - 6.3.6 ReverseEngineering
         - [6.3.6.1 ReverseEngineering List](/System/InfoSecurity/ReverseEngineering/ReverseEngineering-List.md)
       - 6.3.7 Vulns
@@ -690,9 +689,10 @@
       - [8.3.1 Cache List](/Architecture/HA/Cache-List.md)
       - [8.3.2 HA List](/Architecture/HA/HA-List.md)
       - [8.3.3 HA OpenSource List](/Architecture/HA/HA-OpenSource-List.md)
-      - [8.3.4 ResilienceService List](/Architecture/HA/ResilienceService-List.md)
-      - [8.3.5 SRE List](/Architecture/HA/SRE-List.md)
-      - [8.3.6 Spike List](/Architecture/HA/Spike-List.md)
+      - [8.3.4 Harden List](/Architecture/HA/Harden-List.md)
+      - [8.3.5 ResilienceService List](/Architecture/HA/ResilienceService-List.md)
+      - [8.3.6 SRE List](/Architecture/HA/SRE-List.md)
+      - [8.3.7 Spike List](/Architecture/HA/Spike-List.md)
     - 8.4 LogicalArchitecture
       - [8.4.1 CQRS List](/Architecture/LogicalArchitecture/CQRS-List.md)
       - [8.4.2 CleanArchitecture List](/Architecture/LogicalArchitecture/CleanArchitecture-List.md)

@@ -6,7 +6,7 @@
 
 - [Removing-User-Interface-Complexity,-or-Why-React-is-Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
 
-- [组件化——前端编程的选择  ](http://mp.weixin.qq.com/s?__biz=MzI5MDEzMzg5Nw==&mid=2660394384&idx=1&sn=08485e817a96f3b3d309abae2ec9f1f5&chksm=f7424776c035ce602bde2487d9e483ff82be159b16ba241be1147c3533594c2fd24cc568daba&scene=0#wechat_redirect)
+- [组件化——前端编程的选择](http://mp.weixin.qq.com/s?__biz=MzI5MDEzMzg5Nw==&mid=2660394384&idx=1&sn=08485e817a96f3b3d309abae2ec9f1f5&chksm=f7424776c035ce602bde2487d9e483ff82be159b16ba241be1147c3533594c2fd24cc568daba&scene=0#wechat_redirect)
 
 - [前端组件化开发方案及其在 React Native 中的运用](http://www.infoq.com/cn/articles/front-end-component-develop-and-application-in-react-native)
 

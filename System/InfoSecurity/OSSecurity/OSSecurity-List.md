@@ -14,7 +14,7 @@
 
 ## Overflow
 
-# Intranet: 内网渗透
+# Intranet（内网渗透）
 
 ## Privilege Escalation: 权限提升
 

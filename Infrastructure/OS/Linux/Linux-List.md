@@ -14,6 +14,8 @@
 
 - [2020-💡 Introduction to Bash Scripting #Book#](https://github.com/bobbyiliev/introduction-to-bash-scripting): This is an open-source introduction to Bash scripting guide/ebook that will help you learn the basics of Bash scripting and start writing awesome Bash scripts that will help you automate your daily SysOps, DevOps, and Dev tasks. No matter if you are a DevOps/SysOps engineer, developer, or just a Linux enthusiast, you can use Bash scripts to combine different Linux commands and automate boring and repetitive daily tasks, so that you can focus on more productive and fun things.
 
+- [2021-The Linux Kernel Module Programming Guide #Book#](https://github.com/sysprog21/lkmpg): This project keeps the Linux Kernel Module Programming Guide reasonably up to date, with working examples for recent 5.x kernel versions. The guide has been around since 2001 and most copies of it on the web only describe old 2.6.x kernels.
+
 # Tutorial
 
 ## Playground

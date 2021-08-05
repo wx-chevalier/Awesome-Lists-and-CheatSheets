@@ -1,16 +1,14 @@
 # 技术管理资料索引
 
-- [程序员、技术主管和架构师  ](http://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=2650610669&idx=1&sn=5f4a61edddf909ea8750e258719328ec&chksm=834c7c19b43bf50fcf5ce9ab1ba54c3fba239b238b15c25151f78c655000dfa5a22e0c188151)
+- [程序员、技术主管和架构师](http://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=2650610669&idx=1&sn=5f4a61edddf909ea8750e258719328ec&chksm=834c7c19b43bf50fcf5ce9ab1ba54c3fba239b238b15c25151f78c655000dfa5a22e0c188151)
 
 - [十年工龄的程序员为你揭示最危害程序员职业生涯的三大观念](http://www.jianshu.com/p/57113b2e2e73)
 
 # 康威定律
 
->
+- [微服务架构的理论基础-康威定律](https://yq.aliyun.com/articles/8611)
 
-- [微服务架构的理论基础 - 康威定律  ](https://yq.aliyun.com/articles/8611)
-  >
-- [任何技术架构和流程的调整，都不要违背康威定律  ](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598373&idx=1&sn=df96ca1903110dd9c42f183817ac7105&chksm=8be99537bc9e1c213f8280eb5dc9704a706bfdb40981d42863d3862fb940a044ac372a2ea9bf&mpshare=1&scene=1&srcid=1027JlDOBstR0ptTe5AhvVJw#rd)
+- [任何技术架构和流程的调整，都不要违背康威定律](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598373&idx=1&sn=df96ca1903110dd9c42f183817ac7105&chksm=8be99537bc9e1c213f8280eb5dc9704a706bfdb40981d42863d3862fb940a044ac372a2ea9bf&mpshare=1&scene=1&srcid=1027JlDOBstR0ptTe5AhvVJw#rd)
 
 #  技术招聘
 

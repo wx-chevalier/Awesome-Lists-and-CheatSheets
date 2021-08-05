@@ -12,9 +12,9 @@
 
 - [MySQL 大表优化方案](https://segmentfault.com/a/1190000006158186)
 
-- [Mysql 索引实现原理及相关优化策略  ](http://mp.weixin.qq.com/s?__biz=MzA4ODIxMzg5MQ==&mid=2653995839&idx=1&sn=21dacffad0969b52589d2dcbd4bfb5a0&scene=23&srcid=0602w3n2mTGIqDpvQaJz0kqt#rd)
+- [Mysql 索引实现原理及相关优化策略](http://mp.weixin.qq.com/s?__biz=MzA4ODIxMzg5MQ==&mid=2653995839&idx=1&sn=21dacffad0969b52589d2dcbd4bfb5a0&scene=23&srcid=0602w3n2mTGIqDpvQaJz0kqt#rd)
 
-- [都是主键惹的祸-记一次死锁分析过程  ](http://mp.weixin.qq.com/s?__biz=MjM5NzAzMTY4NQ==&mid=2653929270&idx=1&sn=e0e2bf70746ce4d21085a21a5b61e997&chksm=bd3b255c8a4cac4ae07923b76e21b34e5c92297bd775e32dc6c79c9c61d8f9a280b59c671d53&scene=0#wechat_redirect)
+- [都是主键惹的祸-记一次死锁分析过程](http://mp.weixin.qq.com/s?__biz=MjM5NzAzMTY4NQ==&mid=2653929270&idx=1&sn=e0e2bf70746ce4d21085a21a5b61e997&chksm=bd3b255c8a4cac4ae07923b76e21b34e5c92297bd775e32dc6c79c9c61d8f9a280b59c671d53&scene=0#wechat_redirect)
 
 - [mysql 使用 utf8mb4 经验吐血总结](http://mp.weixin.qq.com/s?__biz=MzAwMDU2ODU3MA==&mid=2247484084&idx=1&sn=e3740e1087dc73ffcdc4b56bfeaaaa6d&chksm=9ae7bf21ad9036370e8174995ff73775a0ff8c8a51b9995fc8675a994a768a136d187e2aa76d#rd)
 

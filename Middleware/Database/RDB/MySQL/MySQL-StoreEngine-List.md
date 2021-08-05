@@ -10,7 +10,7 @@
 
 - [InnoDB 存储引擎体系架构](https://segmentfault.com/a/1190000004673132)
 
-- [MySQL · InnoDB 文件系统之 IO 系统和内存管理  ](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=2650342507&idx=1&sn=b7beed97485a9eb1b2b5d80c16c02ef7&scene=23&srcid=0417dJlCwbKo1B0hQQrlG2jP#rd)
+- [MySQL · InnoDB 文件系统之 IO 系统和内存管理](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=2650342507&idx=1&sn=b7beed97485a9eb1b2b5d80c16c02ef7&scene=23&srcid=0417dJlCwbKo1B0hQQrlG2jP#rd)
 
 - [MySQL 如何存储大数据](https://github.com/zhangyachen/zhangyachen.github.io/issues/96)
 
