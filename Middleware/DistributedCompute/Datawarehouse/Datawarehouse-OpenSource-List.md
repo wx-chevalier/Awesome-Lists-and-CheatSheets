@@ -1,7 +1,5 @@
 # Datawarehouse OpenSource List
 
-# Datawarehouse
-
 - [LarkMidTable #Project#](https://github.com/wxgzgl/LarkMidTable): 基于 flinkx 的分布式数据中台产品。
 
 ## Meta Management
@@ -18,7 +16,9 @@
 
 - [2017-Mondrian #Project#](https://github.com/pentaho/mondrian): Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time.
 
-- [Pinot #Project#](https://github.com/linkedin/pinot): Pinot is a realtime distributed OLAP datastore, which is used at LinkedIn to deliver scalable real time analytics with low latency.
+- [2021-Pinot #Project#](https://github.com/linkedin/pinot): Pinot is a realtime distributed OLAP datastore, which is used at LinkedIn to deliver scalable real time analytics with low latency.
+
+- [2021-Datafuse #Project#](https://github.com/datafuselabs/datafuse): A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy
 
 ## OLAP Browser
 

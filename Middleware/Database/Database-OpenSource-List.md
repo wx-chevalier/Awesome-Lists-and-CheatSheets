@@ -24,6 +24,12 @@
 
 - [Toydb #Project#](https://github.com/erikgrinaker/toydb): Distributed SQL database in Rust, written as a learning project. Most components are built from scratch.
 
+## Timeseries
+
+- [2017-Writing a Time Series Database from Scratch](https://fabxc.org/tsdb/): While the current storage has served us well, I propose a newly designed storage subsystem that corrects for shortcomings of the existing solution and is equipped to handle the next order of scale.
+
+- [2021-mandodb #Project#](https://github.com/chenjiandongx/mandodb): 🤔 A minimize Time Series Database, written from scratch as a learning project. 从零开始实现一个 TSDB
+
 # Universal SQL Tools
 
 ## Client
