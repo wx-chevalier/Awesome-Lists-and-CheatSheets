@@ -16,6 +16,10 @@
 
 - [Vuido #Project#](https://github.com/mimecorg/vuido): Create native desktop applications for Windows, OS X and Linux using Vue.js.
 
+# Frameworks
+
+- [2021-vue-admin-beautiful-pro #Project#](https://github.com/chuzhixin/vue-admin-beautiful-pro): vue3,vue3.0,vue,vue3.x,vue.js,vue 后台管理,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus 主线版本基于 element-plus、element-ui、ant-design-vue 三者并行开发维护
+
 # Form（表单）
 
 - [2017-An imperative guide to forms in Vue.js](https://parg.co/UGT): In this tutorial, I will walk you through the process of creating, validating, and utilising inputs from a form in a Vue.js 2.x application.
