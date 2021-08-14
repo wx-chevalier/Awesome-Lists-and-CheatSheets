@@ -12,6 +12,8 @@
 
 - [2019-DevOps didn’t exist when I started as a developer: How this one principle changed my career](https://circleci.com/blog/cicd-engineer/): I’ll traverse my professional timeline discussing how DevOps came into my life and expressing how it impacted me and my chosen career.
 
+- [2021-DevOps, SRE, and Platform Engineering](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/): During my career, I used to work in teams and companies where as a developer, I would push code to a repository and just hope that it would work well when some mythical system administrator would eventually take it to production.
+
 ## Case Study
 
 - [解读 2016，眺望 2017：运维的风口在哪？](http://mp.weixin.qq.com/s/X4929d1NtrmWGfT6ZEHxUg)
