@@ -38,7 +38,9 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2018-Algorithms #Book#](http://jeffe.cs.illinois.edu/teaching/algorithms/?#book): This textbook grew out of a collection of lecture notes that I wrote for various algorithms classes at the University of Illinois at Urbana-Champaign, which I have been teaching about once a year since January 1999.
 
-- [labuladong 的算法小抄 #Book#](https://labuladong.gitbook.io/algo/): 本网站目前可以手把手带你解决 150 道 LeetCode 算法问题，而且在不断更新，全部基于 LeetCode 的题目，涵盖了所有题型和技巧。我已经把在每篇文章的开头加上了该文章可以解决的 LeetCode 题目链接，可以看完文章立即去拿下对应题目。
+- [2021-labuladong 的算法小抄 #Book#](https://labuladong.gitbook.io/algo/): 本网站目前可以手把手带你解决 150 道 LeetCode 算法问题，而且在不断更新，全部基于 LeetCode 的题目，涵盖了所有题型和技巧。我已经把在每篇文章的开头加上了该文章可以解决的 LeetCode 题目链接，可以看完文章立即去拿下对应题目。
+
+- [2021-algorithm-base #Book#](https://github.com/chefyuan/algorithm-base): 专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！
 
 ## Collection
 
