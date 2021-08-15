@@ -1,6 +1,6 @@
 # Mathematics List | 机器学习的数学理论资料索引
 
-- [知乎：「数据会说谎」的真实例子有哪些？](https://www.zhihu.com/question/19578400)
+- [知乎：数据会说谎的真实例子有哪些？](https://www.zhihu.com/question/19578400)
 
 - [关于统计学的一些笑话，侧面反映数据会说谎的例子](https://www.zhihu.com/question/51496960/answer/127728799)
 

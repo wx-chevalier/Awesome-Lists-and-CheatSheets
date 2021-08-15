@@ -176,6 +176,8 @@
 
 - [2020-sql.js #Project#](https://sql.js.org/#/): sql.js is a javascript SQL database. It allows you to create a relational database and query it entirely in the browser.
 
+- [2021-absurd-sql #Project#](https://github.com/jlongster/absurd-sql): sqlite3 in ur indexeddb (hopefully a better backend soon)
+
 ## Media | 媒介资源
 
 - [2015-annyang #Project#](https://github.com/TalAter/annyang): A tiny javascript SpeechRecognition library that lets your users control your site with voice commands.
