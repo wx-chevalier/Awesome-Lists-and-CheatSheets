@@ -8,7 +8,7 @@
 
 - [前端路由一探](http://mp.weixin.qq.com/s/nh4HlXmN2auwkFZSflwZtw)
 
-- [「前端」History API 与浏览器历史堆栈管理](https://github.com/ShowJoy-com/showjoy-blog/issues/2)
+- [前端 History API 与浏览器历史堆栈管理](https://github.com/ShowJoy-com/showjoy-blog/issues/2)
 
 - [前端路由的两种实现原理](http://orangexc.xyz/2016/10/21/The-realization-principle-of-front-end-routin/)
 

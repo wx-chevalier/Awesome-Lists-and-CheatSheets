@@ -2,7 +2,11 @@
 
 - [2020-UTM #Project#](https://github.com/utmapp/UTM): UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.
 
-# Introduction
+- [2020-PlayCover #Project#](https://github.com/Letscoder/PlayCover): PlayCover is a project that allows you to sideload iOS apps on macOS( currently arm, Intel support will be tested.
+
+# Widgets
+
+## Introduction
 
 - [AppIntro](https://github.com/PaoloRotolo/AppIntro)
 
@@ -10,7 +14,7 @@
 
 - [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation)
 
-# Dialog
+## Dialog
 
 - [AndroidSweetSheet](https://github.com/zzz40500/AndroidSweetSheet)
 
@@ -26,39 +30,39 @@
 
 - [StickyHeaderListView](https://github.com/sfsheng0322/StickyHeaderListView)
 
-## Gallery
+### Gallery
 
 - [PeekPop](https://github.com/marmelroy/PeekPop)
 
-# Indicator
+## Indicator
 
 - [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)
 
-# Picker
+## Picker
 
 - [FloatingToolbar](https://github.com/rubensousa/FloatingToolbar)
 
 - [NumberMorph](https://github.com/me-abhinav/NumberMorphView)
 
-## Search
+### Search
 
 - [Reel-Search](https://github.com/Ramotion/reel-search):Only Swift
 
 - [DGRunkeeperSwitch](https://github.com/gontovnik/DGRunkeeperSwitch)
 
-## Text Editor
+### Text Editor
 
 - [TextAttributes](https://github.com/delba/TextAttributes)
 
 - [SwiftyMarkdown](https://github.com/SimonFairbairn/SwiftyMarkdown)
 
-# System
+## System
 
 - [Swift-Permission](https://github.com/delba/Permission):A unified API to ask for permissions on iOS
 
 - [Appz](https://github.com/SwiftKitz/Appz)
 
-# Graphic
+## Graphic
 
 - [Chameleon](https://github.com/ViccAlexander/Chameleon): Flat Color Framework for iOS (Obj-C & Swift)
 
@@ -70,6 +74,6 @@
 
 - [Rotatable](https://github.com/FlexMonkey/Rotatable)
 
-# Media
+## Media
 
 - [ZFPlayer](https://github.com/renzifeng/ZFPlayer)

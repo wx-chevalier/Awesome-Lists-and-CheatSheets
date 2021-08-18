@@ -28,7 +28,7 @@
 
 ## Practices | 大厂实践
 
-- [2021-字节跳动的现代 Web 开发实践](https://mp.weixin.qq.com/s/0VDBAgEvqB1xiUs540Fu9A): 今天这场分享的主题，就是字节跳动如何把「现代 Web 开发」转化成具体的技术栈和研发工具体系，在内部广泛落地和从中获益。
+- [2021-字节跳动的现代 Web 开发实践](https://mp.weixin.qq.com/s/0VDBAgEvqB1xiUs540Fu9A): 今天这场分享的主题，就是字节跳动如何把现代 Web 开发转化成具体的技术栈和研发工具体系，在内部广泛落地和从中获益。
 
 # Resource | 资源
 
