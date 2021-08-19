@@ -16,6 +16,8 @@ There are massive curated links to help you study anything about Compiler head f
 
 - [how-to-be-a-compiler-make-a-compiler-with-javascript](https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4#.dday0a975)
 
+- [2020-pl0c](https://github.com/ibara/pl0c): PL/0 to C compiler to teach basic compiler construction from a practical, hands-on perspective.
+
 # Resource
 
 ## Course

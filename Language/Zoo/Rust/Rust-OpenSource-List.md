@@ -18,6 +18,8 @@
 
 - [czkawka #Project#](https://github.com/qarmin/czkawka): Multi functional app to find duplicates, empty folders, similar images etc.
 
+- [Hackernews sauron #Project#](https://github.com/ivanceras/hackernews-sauron): A fast, resilient, isomorphic hacker news clone in ~1k lines of rust.
+
 ## JavaScript Engine
 
 - [boa](https://github.com/jasonwilliams/boa): Javascript engine written in Rust

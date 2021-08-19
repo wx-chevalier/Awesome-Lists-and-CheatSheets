@@ -271,9 +271,10 @@
         - 5.4.5.4 JVM
           - [5.4.5.4.1 JVM Class List](/Language/Zoo/Java/JVM/JVM-Class-List.md)
           - [5.4.5.4.2 JVM Compiler List](/Language/Zoo/Java/JVM/JVM-Compiler-List.md)
-          - [5.4.5.4.3 JVM List](/Language/Zoo/Java/JVM/JVM-List.md)
-          - [5.4.5.4.4 JVM MemoryManagement List](/Language/Zoo/Java/JVM/JVM-MemoryManagement-List.md)
-          - [5.4.5.4.5 JVM Tuning List](/Language/Zoo/Java/JVM/JVM-Tuning-List.md)
+          - [5.4.5.4.3 JVM Debug List](/Language/Zoo/Java/JVM/JVM-Debug-List.md)
+          - [5.4.5.4.4 JVM List](/Language/Zoo/Java/JVM/JVM-List.md)
+          - [5.4.5.4.5 JVM MemoryManagement List](/Language/Zoo/Java/JVM/JVM-MemoryManagement-List.md)
+          - [5.4.5.4.6 JVM Tuning List](/Language/Zoo/Java/JVM/JVM-Tuning-List.md)
         - [5.4.5.5 Java List](/Language/Zoo/Java/Java-List.md)
         - [5.4.5.6 Java OpenSource List](/Language/Zoo/Java/Java-OpenSource-List.md)
         - 5.4.5.7 Spring

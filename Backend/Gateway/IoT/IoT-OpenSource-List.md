@@ -8,6 +8,8 @@
 
 - [2019-MQTTBox #Project#](http://workswithweb.com/mqttbox.html): Supercharge your IoT workflow with MQTTBox.
 
+- [2021-Zigbee2MQTT #Project#](https://github.com/Koenkk/zigbee2mqtt): Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+
 # Hardware Architectures
 
 - [2019-Zephyr #Project#](https://github.com/zephyrproject-rtos/zephyr): Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.

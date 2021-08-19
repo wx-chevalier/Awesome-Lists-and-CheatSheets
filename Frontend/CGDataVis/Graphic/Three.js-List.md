@@ -8,6 +8,8 @@
 
 - [three-spritetext #Project#](https://github.com/vasturiano/three-spritetext): A sprite based text component for ThreeJS.
 
+- [react-three-fiber #Project#](https://github.com/pmndrs/react-three-fiber): 🇨🇭 A React renderer for Three.js
+
 ## Showcase
 
 ### Example
