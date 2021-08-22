@@ -86,6 +86,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2017-Golang Guide: A List of Top Golang Frameworks, IDEs & Tools #Collection#](https://parg.co/oGO)
 
+- [2021-最全空降 Golang 资料补给包 #Collection#](https://github.com/0voice/Introduction-to-Golang): 【未来服务器端编程语言】最全空降 golang 资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享 ppt
+
 ## Course
 
 - [2018-Beginner Solutions in Go - The Basics, Clients, and Servers #Project#](https://parg.co/oZc)

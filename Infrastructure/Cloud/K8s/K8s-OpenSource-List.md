@@ -20,6 +20,8 @@
 
 - [k9s #Project#](https://k9scli.io/): K9s is a terminal based UI to interact with your Kubernetes clusters. The aim of this project is to make it easier to navigate, observe and manage your deployed applications in the wild. K9s continually watches Kubernetes for changes and offers subsequent commands to interact with your observed resources.
 
+- [2021-scope #Project#](https://github.com/weaveworks/scope): Monitoring, visualisation & management for Docker & Kubernetes
+
 ## Distribution
 
 - [2019-k3s #Project#](https://github.com/rancher/k3s): Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb.
