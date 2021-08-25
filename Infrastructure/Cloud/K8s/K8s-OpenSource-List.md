@@ -83,3 +83,7 @@
 ## HA
 
 - [kube-prometheus #Project#](https://github.com/coreos/kube-prometheus): Use Prometheus to monitor Kubernetes and applications running on Kubernetes.
+
+## Security
+
+- [kubescape #Project#](https://github.com/armosec/kubescape): kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA
