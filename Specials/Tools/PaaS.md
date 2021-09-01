@@ -2,6 +2,8 @@
 
 - [JPlag #Project#](https://github.com/jplag/jplag): Detecting Software Plagiarism
 
+- [Nextcloud #Project#](https://github.com/nextcloud/server): ☁️ Nextcloud server, a safe home for all your data
+
 # Database
 
 - [2021-Supabase #Project#](https://github.com/supabase/supabase): Supabase is an open source Firebase alternative. We're building the features of Firebase using enterprise-grade open source tools.

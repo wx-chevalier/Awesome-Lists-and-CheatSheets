@@ -14,6 +14,8 @@
 
 - [slides #Project#](https://github.com/maaslalani/slides): Terminal based presentation tool, This project is heavily inspired by lookatme. slides is a more minimal version of lookatme and written in Go.
 
+- [filebrowser #Project#](https://github.com/filebrowser/filebrowser): filebrowser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files. It allows the creation of multiple users and each user can have its own directory. It can be used as a standalone app or as a middleware.
+
 ## CMD
 
 - [plow #Project#](https://github.com/six-ddc/plow): A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying.

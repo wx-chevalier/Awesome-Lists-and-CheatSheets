@@ -640,7 +640,6 @@
       - [8.1.1 ConcurrentIO List](/DistributedSystem/Concurrent/ConcurrentIO-List.md)
       - [8.1.2 ConcurrentModel List](/DistributedSystem/Concurrent/ConcurrentModel-List.md)
       - [8.1.3 ConcurrentProgramming List](/DistributedSystem/Concurrent/ConcurrentProgramming-List.md)
-      - [8.1.4 JobScheduler List](/DistributedSystem/Concurrent/JobScheduler-List.md)
     - 8.2 DistributedCompute
       - 8.2.1 Batch
         - [8.2.1.1 BatchProcessing List](/DistributedSystem/DistributedCompute/Batch/BatchProcessing-List.md)
@@ -680,6 +679,7 @@
         - [8.2.7.5 StreamProcessing List](/DistributedSystem/DistributedCompute/Stream/StreamProcessing-List.md)
     - 8.3 DistributedSchedule
       - [8.3.1 Cron List](/DistributedSystem/DistributedSchedule/Cron-List.md)
+      - [8.3.2 JobScheduler List](/DistributedSystem/DistributedSchedule/JobScheduler-List.md)
     - 8.4 DistributedStorage
       - 8.4.1 Blockchain
         - [8.4.1.1 Bitcoin List](/DistributedSystem/DistributedStorage/Blockchain/Bitcoin-List.md)

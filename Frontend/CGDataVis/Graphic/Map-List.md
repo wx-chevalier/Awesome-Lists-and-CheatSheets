@@ -15,3 +15,5 @@
 - [Mapus #Project#](https://github.com/alyssaxuu/mapus): Mapus is a tool to explore and annotate collaboratively on a map. You can draw, add markers, lines, areas, find places to go, observe other users, and much more.
 
 - [TileMill #Project#](https://github.com/tilemill-project/tilemill): Make maps with OpenStreetMap and Mapnik.
+
+- [prettymaps #Project#](https://github.com/marceloprates/prettymaps): A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
