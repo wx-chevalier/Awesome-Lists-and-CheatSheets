@@ -10,6 +10,10 @@
 
 - [Golang basics - writing unit tests](https://blog.alexellis.io/golang-writing-unit-tests/): This post is a continuation of that theme, which covers unit testing.
 
+# Profile
+
+- [go-profiler-notes #Project#](https://github.com/DataDog/go-profiler-notes): I found that Go has a lot of profilers and there are many tools for looking at the data, but that there is very little information on what any of it means. So in order to make sure that I know what I'm talking about, I've started to research the existing profilers and how they work. This repository is my attempt to summarize my findings in the hope that it might be useful to others.
+
 # Style Guide
 
 - [Golang 代码规范](https://sheepbao.github.io/post/golang_code_specification/)

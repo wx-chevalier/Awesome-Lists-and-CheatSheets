@@ -46,6 +46,8 @@
 
 - [Materialize #Project#](https://materialize.com/docs/): Materialize is a streaming database for real-time applications. Materialize accepts input data from a variety of streaming sources (e.g. Kafka) and files (e.g. CSVs), and lets you query them using SQL.
 
+- [Doris #Project#](https://github.com/apache/incubator-doris): Doris is an MPP-based interactive SQL data warehousing for reporting and analysis. Its original name was Palo, developed in Baidu. After donated to Apache Software Foundation, it was renamed Doris.
+
 ## Business Intelligence
 
 - [Apache Superset](https://github.com/apache/incubator-superset): Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application. [Superset: Airbnb’s data exploration platform](https://parg.co/bIh)
