@@ -90,6 +90,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [2021-security-research #Project#](https://github.com/google/security-research): This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 
+- [2021-Nuclei Templates #Project#](https://github.com/projectdiscovery/nuclei-templates): Community curated list of templates for the nuclei engine to find security vulnerabilities.
+
 ## Payloads
 
 - [SecLists #Project#](https://github.com/danielmiessler/SecLists): SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.

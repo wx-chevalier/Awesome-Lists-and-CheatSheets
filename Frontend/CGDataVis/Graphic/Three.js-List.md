@@ -10,6 +10,8 @@
 
 - [react-three-fiber #Project#](https://github.com/pmndrs/react-three-fiber): 🇨🇭 A React renderer for Three.js
 
+- [VTK #Project#](https://github.com/kitware/vtk-js): VTK is an open-source software system for image processing, 3D graphics, volume rendering and visualization.
+
 ## Showcase
 
 ### Example

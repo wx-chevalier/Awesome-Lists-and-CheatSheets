@@ -54,6 +54,8 @@
 
 - [CTF Wiki #Series#](https://ctf-wiki.github.io/ctf-wiki/): 作为一个自由的站点，围绕 CTF 近几年赛题，CTF Wiki 对 CTF 中的各个方向的知识和技术进行介绍，以便于初学者更好地学习 CTF 相关的知识。
 
+- [2021-100 Red Team Projects for Pentesters and Network Managers #Series#](https://github.com/kurogai/100-redteam-projects): Red Teaming is one of the most attractive fields in offensive security or ethical hacking. Every day professionals and students are learning, creating and exploiting all types of systems. The internet is not only the most common means through which people interact and chat, but also a place where they are constantly exposed to a world where anyone can be monitored, exploited, tracked or scammed.
+
 ## CheatSheet
 
 - [Penetration Testing/Security Cheatsheets](https://github.com/jshaw87/Cheatsheets): 渗透测试与安全 Cheatsheet

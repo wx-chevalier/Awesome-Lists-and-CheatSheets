@@ -12,6 +12,8 @@
 
 - [MobSF #Project#](https://github.com/MobSF/Mobile-Security-Framework-MobSF): Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 
+- [hooker #Project#](https://github.com/CreditTone/hooker): 🔥🔥hooker 是一个基于 frida 实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成 hook 脚本、内存漫游探测 activity 和 service、firda 版 JustTrustMe、disable ssl pinning
+
 # Hybrid
 
 - [Cordova]()
