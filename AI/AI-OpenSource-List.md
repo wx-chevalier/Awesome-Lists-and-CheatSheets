@@ -167,6 +167,8 @@
 
 - [2020-TTS #Project#](https://github.com/mozilla/TTS): TTS is a library for advanced Text-to-Speech generation. It's built on the latest research, was designed to achieve the best trade-off among ease-of-training, speed and quality. TTS comes with pretrained models, tools for measuring dataset quality and already used in 20+ languages for products and research projects.
 
+- [2021-MockingBird #Project#](https://github.com/babysor/MockingBird): 🚀AI 拟声: 5 秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
 ## Dialogue System & Bot
 
 - [2018-DeepPavlov #Project#](https://github.com/deepmipt/DeepPavlov): An open source library for building end-to-end dialog systems and training chatbots.
@@ -270,6 +272,8 @@
 ## Video
 
 - [2018-videoflow #Project#](https://github.com/videoflow/videoflow): Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
+
+- [2021-RobustVideoMatting #Project#](https://github.com/PeterL1n/RobustVideoMatting): Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 
 # Platform
 
