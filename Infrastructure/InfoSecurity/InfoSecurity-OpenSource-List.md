@@ -120,7 +120,9 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [收集整理的一些黑客游戏的网址](http://toutiao.io/posts/nkt6rh)
 
-- [RouterSploit - Router Exploitation Framework #Project#](https://github.com/reverse-shell/routersploit)
+- [RouterSploit: Router Exploitation Framework #Project#](https://github.com/reverse-shell/routersploit)
+
+- [OWASP Juice Shop](https://github.com/juice-shop/juice-shop): OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 
 ## Security Scenario
 
