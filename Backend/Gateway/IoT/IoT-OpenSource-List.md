@@ -1,15 +1,5 @@
 # IoT OpenSource List
 
-# Protocol
-
-## MQTT
-
-- [2017-Eclipse Mosquitto #Project#](https://mosquitto.org/): Eclipse Mosquitto is an open source (EPL/EDL licensed) message broker that implements the MQTT protocol versions 5.0, 3.1.1 and 3.1. Mosquitto is lightweight and is suitable for use on all devices from low power single board computers to full servers.
-
-- [2019-MQTTBox #Project#](http://workswithweb.com/mqttbox.html): Supercharge your IoT workflow with MQTTBox.
-
-- [2021-Zigbee2MQTT #Project#](https://github.com/Koenkk/zigbee2mqtt): Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-
 # Hardware Architectures
 
 - [2019-Zephyr #Project#](https://github.com/zephyrproject-rtos/zephyr): Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
