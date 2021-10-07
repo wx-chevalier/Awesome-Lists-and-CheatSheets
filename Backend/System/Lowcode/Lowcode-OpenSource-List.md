@@ -83,23 +83,3 @@
 ### Layout
 
 - [layoutit #Project#](https://www.layoutit.com/grid): An interactive CSS Grid builder.
-
-# Graph Editor/Flow Editor
-
-- [2014-mxGraph #Project#](https://github.com/jgraph/mxgraph): mxGraph is a fully client side JavaScript diagramming library that uses SVG and HTML for rendering.
-
-- [2014-bpmnjs #Project#](https://github.com/bpmn-io/bpmn-js): A BPMN 2.0 rendering toolkit and web modeler.
-
-- [2014-jsPlumb #Project#](https://github.com/sporritt/jsPlumb): jsPlumb provides a means for a developer to visually connect elements on their web pages. It uses SVG and runs on all browsers from IE9 and later.
-
-- [2014-jsWorkFlow #Project#](https://github.com/hemantsshetty/jsWorkflow): jsWorkflow, a jsPlumb based workfow API, helps to create JavaScript based workflow diagrams for various applications. It abstracts all the complexities involved in designing and managing workflows.
-
-- [2017-diagramjs #Project#](https://github.com/bpmn-io/diagram-js): A toolbox for displaying and modifying diagrams on the web.
-
-- [2018-GGEditor #Project#](http://ggeditor.com/): A visual graph editor based on G6 and React.
-
-- [2018-rete #Project#](https://github.com/retejs/rete): JavaScript framework for visual programming and creating node editor.
-
-- [floweditor #Project#](https://github.com/nyaruka/floweditor): Standalone flow editing tool designed for use within the RapidPro suite of messaging tools.
-
-- [2020-react-flow #Project#](https://github.com/wbkd/react-flow): Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams.
