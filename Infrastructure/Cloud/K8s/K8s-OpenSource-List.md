@@ -6,13 +6,21 @@
 
 - [Erda #Project#](https://github.com/erda-project/erda): Erda is an open-source platform created by Terminus to ensure the development of microservice applications. It provides DevOps, microservice governance, and multi-cloud management capabilities. The multi-cloud architecture based on Kubernetes and application-centric DevOps and microservice governance can make the development, operation, monitoring, and problem diagnosis of complex business applications simpler and more efficient.
 
+## Cluster Management
+
+- [fleet #Project#](https://github.com/rancher/fleet): Manage large fleets of Kubernetes clusters.
+
+- [Crossplane #Project#](https://crossplane.io/): Crossplane is an open source Kubernetes add-on that enables platform teams to assemble infrastructure from multiple vendors, and expose higher level self-service APIs for application teams to consume, without having to write any code.
+
+- [Rancher #Project#](https://github.com/rancher/rancher): Rancher is an open source project that provides a container management platform built for organizations that deploy containers in production. Rancher makes it easy to run Kubernetes everywhere, meet IT requirements, and empower DevOps teams.
+
+- [2021-VMware Tanzu Community Edition #Project#](https://github.com/vmware-tanzu/community-edition): VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.
+
 ## CLI & UI Tools
 
 - [Wayne #Project#](https://github.com/Qihoo360/wayne): Web UI for Kubernetes multi-clusters
 
 - [kubectx #Project#](https://github.com/ahmetb/kubectx): Switch faster between clusters and namespaces in kubectl.
-
-- [Rancher #Project#](https://github.com/rancher/rancher): Rancher is an open source project that provides a container management platform built for organizations that deploy containers in production. Rancher makes it easy to run Kubernetes everywhere, meet IT requirements, and empower DevOps teams.
 
 - [Lens #Project#](https://github.com/lensapp/lens): Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It is a standalone application for MacOS, Windows and Linux operating systems. It is open source and free.
 
@@ -33,12 +41,6 @@
 - [2020-k3d #Project#](https://github.com/rancher/k3d/): Little helper to run Rancher Lab's k3s in Docker.
 
 - [2020-k0s #Project#](https://github.com/k0sproject/k0s): k0s is yet another Kubernetes distro. Yes. But we do some of the things pretty different from other distros out there.
-
-## Cluster Management
-
-- [fleet #Project#](https://github.com/rancher/fleet): Manage large fleets of Kubernetes clusters.
-
-- [Crossplane #Project#](https://crossplane.io/): Crossplane is an open source Kubernetes add-on that enables platform teams to assemble infrastructure from multiple vendors, and expose higher level self-service APIs for application teams to consume, without having to write any code.
 
 ## Application Management
 
