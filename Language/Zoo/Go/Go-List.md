@@ -106,9 +106,11 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2020-7 days golang programs from scratch #Project#](https://github.com/geektutu/7days-golang): 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7 天用 Go 动手写/从零实现系列
 
-- [2019- C 语言中文网-Golang 入门教程 #Series#](http://c.biancheng.net/golang/): Go 语言也称 Golang，兼具效率、性能、安全、健壮等特性。这套 Go 语言教程（Golang 教程）通俗易懂，深入浅出，既适合没有基础的读者快速入门，也适合工作多年的程序员查阅知识点。这套教程在讲解一些知识点时，将 Go 语言和其他多种语言进行对比，让掌握其它编程语言的读者能迅速理解 Go 语言的特性。
+- [2019-C 语言中文网-Golang 入门教程 #Series#](http://c.biancheng.net/golang/): Go 语言也称 Golang，兼具效率、性能、安全、健壮等特性。这套 Go 语言教程（Golang 教程）通俗易懂，深入浅出，既适合没有基础的读者快速入门，也适合工作多年的程序员查阅知识点。这套教程在讲解一些知识点时，将 Go 语言和其他多种语言进行对比，让掌握其它编程语言的读者能迅速理解 Go 语言的特性。
 
 - [2020-7days-golang #Series#](https://github.com/geektutu/7days-golang): 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7 天用 Go 动手写/从零实现系列。
+
+- [Go 进阶 #Series#](https://mojotv.cn/404#Go%E8%BF%9B%E9%98%B6)
 
 # Tutorial
 

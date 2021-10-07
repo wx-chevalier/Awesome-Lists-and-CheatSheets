@@ -6,6 +6,8 @@
 
 - [Taskbook #Project#](https://github.com/klauscfhq/taskbook): Tasks, boards & notes for the command-line habitat.
 
+- [smalllinks #Project#](https://github.com/smallcase/smalllinks): Simple URL shortener built with Fastify. Uses PostgreSQL, Redis, and Kafka.
+
 # Dev Tools
 
 ## Logging
