@@ -40,6 +40,8 @@
 
 - [image-background-remove-tool #Project#](https://github.com/OPHoperHPO/image-background-remove-tool): 🥧 A tool for removing background from photos with neural networks 🥧。
 
+- [Real-ESRGAN #Project#](https://github.com/xinntao/Real-ESRGAN): Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.
+
 ## 人像处理
 
 - [2018-FastPhotoStyle #Project#](https://github.com/NVIDIA/FastPhotoStyle): This code repository contains an implementation of our fast photorealistic style transfer algorithm.
