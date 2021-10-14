@@ -4,6 +4,8 @@
 
 # Resource
 
+- [2021-《Real-Time Rendering 4th》 #Collection#](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection): Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of `<Real-Time Rendering 4th (RTR4)> `Bibliography
+
 # Tutorial
 
 ## Showcase
