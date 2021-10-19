@@ -2,7 +2,7 @@
 
 - [PixiJS #Project#](http://www.pixijs.com/): Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 
-- [Babylon.js #Project# ](https://parg.co/b1C): Babylon.js is an open source framework that allows you to create stunning 3D experiences in your browser. Built with simplicity and performance in mind, it is the engine that fuels the Remix3D site or the Xbox Design Lab.
+- [Babylon.js #Project#](https://parg.co/b1C): Babylon.js is an open source framework that allows you to create stunning 3D experiences in your browser. Built with simplicity and performance in mind, it is the engine that fuels the Remix3D site or the Xbox Design Lab.
 
 - [sketch.js #Project#](https://github.com/soulwire/sketch.js): Cross-Platform JavaScript Creative Coding Framework
 
