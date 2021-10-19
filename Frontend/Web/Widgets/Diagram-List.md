@@ -36,6 +36,8 @@
 
 - [2021-charts.css #Project#](https://github.com/ChartsCSS/charts.css): Open source CSS framework for data visualization.
 
+- [2021-vizzu-lib #Project#](https://github.com/vizzuhq/vizzu-lib): Library for animated data visualizations and data stories.
+
 ## Realtime（实时图表）
 
 - [apexcharts.js #Project#](https://github.com/apexcharts/apexcharts.js): A modern JavaScript charting library to build interactive charts and visualizations with simple API.
