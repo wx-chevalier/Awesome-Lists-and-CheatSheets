@@ -14,6 +14,8 @@
 
 - [2018-Cytoscape.js #Project#](https://github.com/cytoscape/cytoscape.js): Graph theory (network) library for visualisation and analysis
 
+- [2019-flowy #Project#](https://github.com/alyssaxuu/flowy): The minimal javascript library to create flowcharts ✨
+
 # Chart
 
 - [Echarts #Project#](https://echarts.apache.org/zh/index.html): A powerful, interactive charting and visualization library for browser.
