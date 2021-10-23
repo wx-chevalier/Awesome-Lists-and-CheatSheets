@@ -18,6 +18,10 @@
 
 - [2019-高可用 kubernetes 集群部署实践](https://yq.aliyun.com/articles/704946): 可用性对基础设施而言至关重要。各大云计算厂商纷纷推出了高可用、可扩展的 K8s 托管服务，其中比较有代表性的有 Amazon EKS、Azure Kubernetes Service (AKS)、Google Kubernetes Engine、阿里云容器服务 Kubernetes 版等。
 
+## 多集群
+
+- [2021-Kubernetes 多集群架构探索](https://mp.weixin.qq.com/s/PbgNy2BO70EDJqNFQlkcgA): 介绍了有赞多集群的落地实践，以及如何使用Karmada进行多集群管理。
+
 # Knative
 
 - [2019-Knative 实践：从源代码到服务的自动化部署](https://mp.weixin.qq.com/s/RFFddicupQUOjAs6dP92sQ): 那么现在就让我们来看一下，在 Knative 中如何实现从代码到服务？

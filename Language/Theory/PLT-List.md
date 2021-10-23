@@ -42,6 +42,8 @@
 
 - [2019-Elements of Programming #Book#](http://elementsofprogramming.com): This book applies the deductive method to programming by affiliating programs with the abstract mathematical theories that enable them to work.
 
+- [2021-Isomorphism：Mathematics of Programming #Project#](https://github.com/liuxinyu95/unplugged): This book introduces the mathematics behind computer programming.
+
 ## Blog
 
 - [Tweag Blog #Blog#](https://www.tweag.io/blog): 包含了很多对于类型的讨论。
