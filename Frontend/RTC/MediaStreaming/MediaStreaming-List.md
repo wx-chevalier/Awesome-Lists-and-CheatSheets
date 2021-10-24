@@ -1,4 +1,4 @@
-# Live List | 直播资料索引
+# Media Streaming List | 流媒体
 
 # Overview
 
@@ -7,6 +7,10 @@
 - [2016-如何实现 1080P 延迟低于 500ms 的实时超清直播传输技术 ](https://parg.co/Son): 视频直播是很多技术团队及架构师关注的问题，在实时性方面，大部分直播是准实时的，存在 1-3 秒延迟。本文由袁荣喜向高可用架构投稿，介绍其将直播延迟控制在 500ms 的背后的实现。
 
 - [2017-不再碎片化学习，快速掌握 H5 直播技术](https://segmentfault.com/a/1190000010440054?utm_source=tuicool&utm_medium=referral): 所以，本文主要给大家介绍一下当下 HTML5 直播所涵盖的技术范围，如果要深度学习每一个技术，我们后续可以继续讨论。
+
+## Collection
+
+- [音视频流媒体权威资料整理 #Collection#](https://github.com/0voice/audio_video_streaming): 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。
 
 # Client | 客户端模块
 
