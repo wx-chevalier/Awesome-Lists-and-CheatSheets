@@ -89,3 +89,5 @@
 ## Security
 
 - [kubescape #Project#](https://github.com/armosec/kubescape): kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA
+
+- [Datree #Project#](https://github.com/datreeio/datree): Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io

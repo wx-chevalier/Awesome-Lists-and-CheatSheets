@@ -28,7 +28,7 @@
 
 ## Debug
 
-- [mdebug #Project#](https://github.com/tnfe/mdebug): 基于React开发的新一代web调试工具，支持React组件调试，类似于Chrome Devtools。A Lightweight, Easy To Extend Web Debugging Tool Build With React。
+- [mdebug #Project#](https://github.com/tnfe/mdebug): 基于 React 开发的新一代 web 调试工具，支持 React 组件调试，类似于 Chrome Devtools。A Lightweight, Easy To Extend Web Debugging Tool Build With React。
 
 ## Test
 
@@ -61,6 +61,10 @@
 - [2020-Rome #Project#](https://github.com/facebookexperimental/rome): Rome is an experimental JavaScript toolchain. It includes a compiler, linter, formatter, bundler, testing framework and more. It aims to be a comprehensive tool for anything related to the processing of JavaScript source code.
 
 - [2021-Astro #Project#](https://github.com/snowpackjs/astro): Astro is a fresh but familiar approach to building websites. Astro combines decades of proven performance best practices with the DX improvements of the component-oriented era. Use your favorite JavaScript framework and automatically ship the bare-minimum amount of JavaScript—by default.
+
+### Obfuscator
+
+- [JavaScript obfuscator #Project#](https://github.com/javascript-obfuscator/javascript-obfuscator): JavaScript Obfuscator is a powerful free obfuscator for JavaScript, containing a variety of features which provide protection for your source code.
 
 ## SSR
 
