@@ -9,3 +9,5 @@
 - [Sciter.JS #Project#](https://github.com/c-smile/sciter-js-sdk): Sciter but with QuickJS on board instead of my TIScript
 
 - [Tauri #Project#](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
+
+- [yue #Project#](https://github.com/yue/yue): A library for creating native cross-platform GUI apps
