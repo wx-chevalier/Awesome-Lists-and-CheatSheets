@@ -269,6 +269,10 @@
 
 - [2020-FaceX Zoo #Project#](https://github.com/JDAI-CV/FaceX-Zoo): FaceX-Zoo is a PyTorch toolbox for face recognition. It provides a training module with various supervisory heads and backbones towards state-of-the-art face recognition, as well as a standardized evaluation module which enables to evaluate the models in most of the popular benchmarks just by editing a simple configuration.
 
+### Tracker
+
+- [2021-ByteTrack #Project#](https://github.com/ifzhang/ByteTrack): ByteTrack: Multi-Object Tracking by Associating Every Detection Box.
+
 ## Video
 
 - [2018-videoflow #Project#](https://github.com/videoflow/videoflow): Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.

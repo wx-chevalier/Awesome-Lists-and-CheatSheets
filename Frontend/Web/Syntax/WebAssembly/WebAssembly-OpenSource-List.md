@@ -12,6 +12,8 @@
 
 - [WebAssembly Micro Runtime #Project#](https://github.com/intel/wasm-micro-runtime): WebAssembly Micro Runtime (WAMR) is standalone WebAssembly (WASM) runtime with a small footprint. It includes a few components.
 
+- [v86 #Project#](https://github.com/copy/v86): v86 emulates an x86-compatible CPU and hardware. Machine code is translated to WebAssembly modules at runtime in order to achieve decent performance.
+
 # Interpreter
 
 - [wasm3 #Project#](https://github.com/wasm3/wasm3): 🚀 The fastest WebAssembly interpreter.

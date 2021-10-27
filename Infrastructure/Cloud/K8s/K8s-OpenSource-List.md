@@ -30,6 +30,8 @@
 
 - [2021-scope #Project#](https://github.com/weaveworks/scope): Monitoring, visualisation & management for Docker & Kubernetes
 
+- [2021-KubePi #Project#](https://github.com/KubeOperator/KubePi): KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板
+
 ## Distribution
 
 - [2019-k3s #Project#](https://github.com/rancher/k3s): Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb.

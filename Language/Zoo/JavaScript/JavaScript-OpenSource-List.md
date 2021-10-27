@@ -44,6 +44,8 @@
 
 - [lit-html #Project#](https://github.com/Polymer/lit-html): An efficient, expressive, extensible HTML templating library for JavaScript.
 
+- [figlet.js #Project#](https://github.com/patorjk/figlet.js): This project aims to fully implement the FIGfont spec in JavaScript. It works in the browser and with Node.js. You can see it in action here: http://patorjk.com/software/taag/ (the figlet.js file was written to power that application)
+
 ## Object Schema
 
 - [Yup #Project#](https://github.com/jquense/yup): Dead simple Object schema validation.
@@ -70,7 +72,7 @@
 
 - [Hermes #Project#](https://github.com/facebook/hermes): Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.
 
-- [JerryScript #Project#](https://github.com/jerryscript-project/jerryscript): Ultra-lightweight JavaScript engine for the Internet of Things. 
+- [JerryScript #Project#](https://github.com/jerryscript-project/jerryscript): Ultra-lightweight JavaScript engine for the Internet of Things.
 
 ## Parser
 
