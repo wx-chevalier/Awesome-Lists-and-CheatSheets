@@ -14,6 +14,8 @@
 
 - [SerenityOS #Project#](https://github.com/SerenityOS/serenity): SerenityOS is a love letter to '90s user interfaces with a custom Unix-like core. It flatters with sincerity by stealing beautiful ideas from various other systems.
 
+- [Kerla #Project#](https://github.com/nuta/kerla): A new operating system kernel with Linux binary compatibility written in Rust.
+
 # File System
 
 ## Sync
