@@ -109,57 +109,9 @@
 
 - [Lettuce #Project#](https://github.com/lettuce-io/lettuce-core): Lettuce is a scalable thread-safe Redis client for synchronous, asynchronous and reactive usage. Multiple threads may share one connection if they avoid blocking and transactional operations such as BLPOP and MULTI/EXEC.
 
-## MyBatis
-
-- [MyBatis #Project#](http://www.mybatis.org/mybatis-3/zh/java-api.html): MyBatis is a first class persistence framework with support for custom SQL, stored procedures and advanced mappings.
-
-- [MyBatis 分页插件 PageHelper、通用 Mapper #Project#](http://mybatis.tk/)
-
-- [mybatis-types #Project#](https://github.com/javaplugs/mybatis-types/): Type Handlers for MyBatis 3.x including Java 8 time (JSR 310) support.
-
-- [mybatis-multi-tenancy #Project#](https://github.com/Mearalu/mybatis-multi-tenancy): 这是一个 mybatis 的基于共享数据表模式的多租户插件
-
-- [mybatis-plus #Project#](https://github.com/baomidou/mybatis-plus): An powerful enhanced toolkit of MyBatis for simplify development.
-
 ## Cache
 
 - [caffeine #Project#](https://github.com/ben-manes/caffeine): A high performance caching library for Java 8
-
-# Web Development
-
-## Frameworks
-
-- [cicada #Project#](https://github.com/TogetherOS/cicada): Fast, lightweight Web framework based on Netty; without too much dependency, and the core jar package is only 30KB.
-
-- [Ninja #Project#](https://github.com/ninjaframework/ninja): Ninja is a full stack web framework for Java. Rock solid, fast and super productive.
-
-- [2018-JFinal #Project#](https://github.com/jfinal/jfinal): JFinal 是基于 Java 语言的极速 WEB + ORM 框架，其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展、Restful。在拥有 Java 语言所有优势的同时再拥有 ruby、python 等动态语言的开发效率！
-
-- [Spark #Project#](https://github.com/perwendel/spark): A simple expressive web framework for java. News: Spark now has a kotlin DSL.
-
-- [2017-Micronaut #Project#](https://micronaut.io): A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.
-
-- [2017-Quarkus #Project#](https://quarkus.io/#!): A Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards.
-
-## Spring
-
-- [SOFABoot #Project#](https://github.com/alipay/sofa-boot): SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc.
-
-- [Springfox #Project#](https://github.com/springfox/springfox): Automated JSON API documentation for API's built with Spring.
-
-- [Nepxion Discovery #Project#](https://github.com/Nepxion/Discovery): 🐳 Nepxion Discovery is an enhancement for Spring Cloud Discovery on Eureka + Consul + Zookeeper + Nacos with Nacos + Apollo config for gray release, router, weight, isolation 网关和服务灰度发布、路由、权重、隔离、调用链。
-
-- [Spring Native #Project#](https://docs.spring.io/spring-native/docs/current/reference/htmlsingle/#overview): Spring Native provides support for compiling Spring applications to native executables using the GraalVM native-image compiler.
-
-## Auth
-
-- [Spring Security #Project#](https://github.com/spring-projects/spring-security): Spring Security provides security services for the Spring IO Platform. Spring Security 5.0 requires Spring 5.0 as a minimum and also requires Java 8.
-
-- [pac4j #Project#](https://github.com/pac4j/pac4j): Security engine for Java (authentication, authorization, multi frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT...
-
-- [buji-pac4j #Project#](https://github.com/bujiio/buji-pac4j): The buji-pac4j project is an easy and powerful security library for Shiro web applications and web services which supports authentication and authorization, but also advanced features like CSRF protection. It's based on Java 8, Shiro 1.4 and on the pac4j security engine v3.
-
-- [Apache Shiro #Project#](https://github.com/apache/shiro): Apache Shiro is a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
 
 # JVM
 

@@ -156,6 +156,8 @@
 
 - [2019-VictoriaMetrics #Project#](https://github.com/VictoriaMetrics/VictoriaMetrics): Fast, cost-effective and scalable time series database, long-term remote storage for Prometheus.
 
+- [2021-QuestDB #Project#](https://github.com/questdb/questdb): QuestDB is a distributed, high-performance, fully-distributed, high-availability, fully-scalable, and highly-available time series database.
+
 # NewSQL
 
 - [FoundationDB #Project#](https://github.com/apple/foundationdb): FoundationDB is a distributed database designed to handle large volumes of structured data across clusters of commodity servers.

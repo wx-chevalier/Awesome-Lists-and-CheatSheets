@@ -39,3 +39,5 @@
 - [2019-Firefly III #Project#](https://firefly-iii.org/about-general.html): “Firefly III” is a financial manager. It can help you keep track of expenses, income, budgets and everything in between. It even supports credit cards, shared household accounts and savings accounts! It’s pretty fancy. You should use it to save and organise money.
 
 - [2020-Calendso #Project#](https://github.com/calendso/calendso): The open-source Calendly alternative.
+
+- [2021-notifire #Project#](https://github.com/notifirehq/notifire): 🚀 Open-source notification infrastructure for products
