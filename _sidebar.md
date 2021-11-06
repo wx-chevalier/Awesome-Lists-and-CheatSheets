@@ -565,6 +565,9 @@
         - [7.1.8.1 InfluxDB List](/Backend/Database/TimeSeries/InfluxDB-List.md)
         - [7.1.8.2 Prometheus List](/Backend/Database/TimeSeries/Prometheus-List.md)
         - [7.1.8.3 TimeSeries List](/Backend/Database/TimeSeries/TimeSeries-List.md)
+      - 7.1.9 WideColumn
+        - 7.1.9.1 HBase
+          - [7.1.9.1.1 HBase List](/Backend/Database/WideColumn/HBase/HBase-List.md)
     - 7.2 HA
       - [7.2.1 Cache List](/Backend/HA/Cache-List.md)
       - [7.2.2 HA List](/Backend/HA/HA-List.md)
@@ -670,16 +673,14 @@
             - [8.2.2.2.2.1 Iceberg List](/DistributedSystem/DistributedCompute/Datawarehouse/DataLake/Iceberg/Iceberg-List.md)
         - [8.2.2.3 Datawarehouse List](/DistributedSystem/DistributedCompute/Datawarehouse/Datawarehouse-List.md)
         - [8.2.2.4 Datawarehouse OpenSource List](/DistributedSystem/DistributedCompute/Datawarehouse/Datawarehouse-OpenSource-List.md)
-        - 8.2.2.5 HBase
-          - [8.2.2.5.1 HBase List](/DistributedSystem/DistributedCompute/Datawarehouse/HBase/HBase-List.md)
-        - 8.2.2.6 Hive
-          - [8.2.2.6.1 Hive List](/DistributedSystem/DistributedCompute/Datawarehouse/Hive/Hive-List.md)
-        - 8.2.2.7 MPP
-          - 8.2.2.7.1 Presto
-            - [8.2.2.7.1.1 Presto List](/DistributedSystem/DistributedCompute/Datawarehouse/MPP/Presto/Presto-List.md)
-        - 8.2.2.8 OLAP
-          - [8.2.2.8.1 Greenplum List](/DistributedSystem/DistributedCompute/Datawarehouse/OLAP/Greenplum-List.md)
-          - [8.2.2.8.2 OLAP List](/DistributedSystem/DistributedCompute/Datawarehouse/OLAP/OLAP-List.md)
+        - 8.2.2.5 OLAP
+          - 8.2.2.5.1 Greenplum
+            - [8.2.2.5.1.1 Greenplum List](/DistributedSystem/DistributedCompute/Datawarehouse/OLAP/Greenplum/Greenplum-List.md)
+          - 8.2.2.5.2 Hive
+            - [8.2.2.5.2.1 Hive List](/DistributedSystem/DistributedCompute/Datawarehouse/OLAP/Hive/Hive-List.md)
+          - [8.2.2.5.3 OLAP List](/DistributedSystem/DistributedCompute/Datawarehouse/OLAP/OLAP-List.md)
+          - 8.2.2.5.4 Presto
+            - [8.2.2.5.4.1 Presto List](/DistributedSystem/DistributedCompute/Datawarehouse/OLAP/Presto/Presto-List.md)
       - [8.2.3 DistributedCompute List](/DistributedSystem/DistributedCompute/DistributedCompute-List.md)
       - [8.2.4 DistributedCompute OpenSource List](/DistributedSystem/DistributedCompute/DistributedCompute-OpenSource-List.md)
       - 8.2.5 EdgeCompute
