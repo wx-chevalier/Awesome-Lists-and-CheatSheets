@@ -40,6 +40,8 @@
 
 - [collect.js #Project#](https://github.com/ecrmnn/collect.js): Convenient and dependency free wrapper for working with arrays and objects.
 
+- [Microdiff #Project#  ](https://github.com/AsyncBanana/microdiff): Microdiff is a tiny (currently <1kb), fast, zero dependency object and array comparison library. It is significantly faster than most other deep comparison libraries, and has full TypeScript support.
+
 ## String
 
 - [lit-html #Project#](https://github.com/Polymer/lit-html): An efficient, expressive, extensible HTML templating library for JavaScript.
