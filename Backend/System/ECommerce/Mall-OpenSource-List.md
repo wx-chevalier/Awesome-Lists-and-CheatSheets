@@ -19,3 +19,7 @@
 ## Headless
 
 - [Saleor Commerce #Project#](https://github.com/mirumee/saleor): A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
+
+# Shopify
+
+- [Hydrogen #Project#](https://github.com/Shopify/hydrogen): React-based framework for building dynamic, Shopify-powered custom storefronts.
