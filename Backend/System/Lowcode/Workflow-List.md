@@ -42,13 +42,25 @@
 
 - [floweditor #Project#](https://github.com/nyaruka/floweditor): Standalone flow editing tool designed for use within the RapidPro suite of messaging tools.
 
-- [2020-react-flow #Project#](https://github.com/wbkd/react-flow): Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams.
-
 - [imove #Project#](https://github.com/imgcook/imove): Move your mouse, generate code from flow chart.
 
 - [2020-Butterfly #Project#](https://github.com/alibaba/butterfly): 一个基于 JS 的数据驱动的节点式编排组件库。
 
 - [2020-LogicFlow #Project#](https://github.com/didi/LogicFlow): LogicFlow 是一款流程可视化的前端框架，提供了一系列流程图交互、编辑所必需的功能和简单灵活的节点自定义、插件等拓展机制，方便我们快速在业务系统内满足类流程图的需求。
+
+- [js2flowchart #Project#](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart): a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
+
+- [React JS Diagrams #Project#](https://github.com/woodenconsulting/react-js-diagrams): A flow based diagramming library written in React
+
+- [mermaid #Project#](https://github.com/knsv/mermaid)
+
+- [2018-GoJS #Project#](https://github.com/NorthwoodsSoftware/GoJS): JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
+
+- [2018-Cytoscape.js #Project#](https://github.com/cytoscape/cytoscape.js): Graph theory (network) library for visualisation and analysis
+
+- [2019-flowy #Project#](https://github.com/alyssaxuu/flowy): The minimal javascript library to create flowcharts ✨
+
+- [2020-react-flow #Project#](https://github.com/wbkd/react-flow): Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams.
 
 ## BPMN
 

@@ -4,17 +4,7 @@
 
 ## Flow Diagram
 
-- [js2flowchart #Project#](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart): a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
-
-- [React JS Diagrams #Project#](https://github.com/woodenconsulting/react-js-diagrams): A flow based diagramming library written in React
-
-- [mermaid #Project#](https://github.com/knsv/mermaid)
-
-- [2018-GoJS #Project#](https://github.com/NorthwoodsSoftware/GoJS): JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
-
-- [2018-Cytoscape.js #Project#](https://github.com/cytoscape/cytoscape.js): Graph theory (network) library for visualisation and analysis
-
-- [2019-flowy #Project#](https://github.com/alyssaxuu/flowy): The minimal javascript library to create flowcharts ✨
+> 迁移到了 《[Workflow-List](https://github.com/wx-chevalier/Awesome-Lists?q=Workflow)》
 
 # Chart
 
