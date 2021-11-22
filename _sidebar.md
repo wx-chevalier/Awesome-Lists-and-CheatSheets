@@ -840,25 +840,25 @@
         - [10.7.4.2 RecommendSystem List](/AI/Application/RecommendSystem/RecommendSystem-List.md)
       - 10.7.5 SNA
         - [10.7.5.1 SNA List](/AI/Application/SNA/SNA-List.md)
-    - 10.8 ComputerVision
-      - [10.8.1 ComputerVision List](/AI/ComputerVision/ComputerVision-List.md)
-      - [10.8.2 OCR List](/AI/ComputerVision/OCR-List.md)
-      - [10.8.3 Object Detection List](/AI/ComputerVision/Object-Detection-List.md)
-    - 10.9 DeepLearning
-      - 10.9.1 CNN
-        - [10.9.1.1 CNN List](/AI/DeepLearning/CNN/CNN-List.md)
-      - 10.9.2 DNN
-        - [10.9.2.1 GAN List](/AI/DeepLearning/DNN/GAN-List.md)
-        - [10.9.2.2 LSTM List](/AI/DeepLearning/DNN/LSTM-List.md)
-      - 10.9.3 DRL
-        - [10.9.3.1 DeepReinforcementLearning](/AI/DeepLearning/DRL/DeepReinforcementLearning.md)
-      - [10.9.4 DeepLearning List](/AI/DeepLearning/DeepLearning-List.md)
-      - 10.9.5 NeuralNetwork
-        - [10.9.5.1 NeuralNetwork List](/AI/DeepLearning/NeuralNetwork/NeuralNetwork-List.md)
-      - 10.9.6 RNN
-        - [10.9.6.1 RecurrentNeuralNetwork List](/AI/DeepLearning/RNN/RecurrentNeuralNetwork-List.md)
-      - 10.9.7 RepresentationLearning
-        - [10.9.7.1 RepresentationLearning List](/AI/DeepLearning/RepresentationLearning/RepresentationLearning-List.md)
+    - 10.8 DeepLearning
+      - 10.8.1 CNN
+        - [10.8.1.1 CNN List](/AI/DeepLearning/CNN/CNN-List.md)
+      - 10.8.2 DNN
+        - [10.8.2.1 GAN List](/AI/DeepLearning/DNN/GAN-List.md)
+        - [10.8.2.2 LSTM List](/AI/DeepLearning/DNN/LSTM-List.md)
+      - 10.8.3 DRL
+        - [10.8.3.1 DeepReinforcementLearning](/AI/DeepLearning/DRL/DeepReinforcementLearning.md)
+      - [10.8.4 DeepLearning List](/AI/DeepLearning/DeepLearning-List.md)
+      - 10.8.5 NeuralNetwork
+        - [10.8.5.1 NeuralNetwork List](/AI/DeepLearning/NeuralNetwork/NeuralNetwork-List.md)
+      - 10.8.6 RNN
+        - [10.8.6.1 RecurrentNeuralNetwork List](/AI/DeepLearning/RNN/RecurrentNeuralNetwork-List.md)
+      - 10.8.7 RepresentationLearning
+        - [10.8.7.1 RepresentationLearning List](/AI/DeepLearning/RepresentationLearning/RepresentationLearning-List.md)
+    - 10.9 MV
+      - [10.9.1 MV List](/AI/MV/MV-List.md)
+      - [10.9.2 OCR List](/AI/MV/OCR-List.md)
+      - [10.9.3 Object Detection List](/AI/MV/Object-Detection-List.md)
     - 10.10 MachineLearning
       - 10.10.1 Algorithm
         - 10.10.1.1 Bayes

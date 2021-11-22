@@ -1,5 +1,7 @@
 # Crawler OpenSource List | 爬虫开源框架索引
 
+- [SpiderFlow #Project#](https://github.com/ssssssss-team/spider-flow): 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
+
 # Framework
 
 - [2020-Crawlab #Project#](https://github.com/crawlab-team/crawlab): Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
