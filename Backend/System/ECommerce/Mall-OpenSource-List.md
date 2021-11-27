@@ -20,6 +20,8 @@
 
 - [Saleor Commerce #Project#](https://github.com/mirumee/saleor): A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 
+- [Medusa #Project#](https://github.com/medusajs/medusa): Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
+
 # Shopify
 
 - [Hydrogen #Project#](https://github.com/Shopify/hydrogen): React-based framework for building dynamic, Shopify-powered custom storefronts.
