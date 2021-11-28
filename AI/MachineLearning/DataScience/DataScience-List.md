@@ -1,4 +1,6 @@
-# Data Analysis List
+# Data Science List
+
+- [learning #Collection#](https://github.com/amitness/learning): Becoming better at data science every day
 
 # Generic Algorithm
 

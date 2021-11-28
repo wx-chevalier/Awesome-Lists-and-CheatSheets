@@ -2,6 +2,8 @@
 
 List of Security Archives Tools and software, generally for facilitate security & penetration research.
 
+- [Wazuh #Project#](https://github.com/wazuh/wazuh): Wazuh is a free and open source platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
+
 ## Showcase
 
 - [hacker-scripts #Project#](https://github.com/NARKOZ/hacker-scripts): Based on a true story
@@ -30,8 +32,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [CDK #Project#](https://github.com/cdk-team/CDK): CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily.
 
-- [Dronesploit #Project#](https://github.com/dhondta/dronesploit): 
-This CLI framework is based on sploitkit and is an attempt to gather hacking techniques and exploits especially focused on drone hacking. For the ease of use, the interface has a layout that looks like Metasploit.
+- [Dronesploit #Project#](https://github.com/dhondta/dronesploit):
+  This CLI framework is based on sploitkit and is an attempt to gather hacking techniques and exploits especially focused on drone hacking. For the ease of use, the interface has a layout that looks like Metasploit.
 
 ## POC Framework | POC 框架
 

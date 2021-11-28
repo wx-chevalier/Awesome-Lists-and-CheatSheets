@@ -879,8 +879,8 @@
           - [10.10.1.7.1 ReinforcementLearning List](/AI/MachineLearning/Algorithm/Reinforcement/ReinforcementLearning-List.md)
         - 10.10.1.8 Transfer
           - [10.10.1.8.1 TransferLearning List](/AI/MachineLearning/Algorithm/Transfer/TransferLearning-List.md)
-      - 10.10.2 DataMining
-        - [10.10.2.1 DataAnalysis List](/AI/MachineLearning/DataMining/DataAnalysis-List.md)
+      - 10.10.2 DataScience
+        - [10.10.2.1 DataScience List](/AI/MachineLearning/DataScience/DataScience-List.md)
       - 10.10.3 FeatureEngineering
         - [10.10.3.1 FeatureEngineering List](/AI/MachineLearning/FeatureEngineering/FeatureEngineering-List.md)
         - [10.10.3.2 Personas List](/AI/MachineLearning/FeatureEngineering/Personas-List.md)
