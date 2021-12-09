@@ -13,3 +13,5 @@
 - [2019-milvus #Project#](https://github.com/milvus-io/milvus): An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy
 
 - [2021-jina #Project#](https://github.com/jina-ai/jina): An easier way to build neural search on the cloud.
+
+- [2022-Zinc #Project#](https://github.com/prabhatsharma/zinc): Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.

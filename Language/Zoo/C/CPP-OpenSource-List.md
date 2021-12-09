@@ -18,6 +18,8 @@
 
 - [palanteer #Project#](https://github.com/dfeneyrou/palanteer): High performance visual profiler, debugger, tests enabler for C++ and Python.
 
+- [libtree #Project#](https://github.com/haampie/libtree): ldd as a tree with an option to bundle dependencies into a single folder
+
 # Library
 
 - [Cello #Project#](http://libcello.org/): Cello is a library that brings higher level programming to C. By acting as a modern, powerful runtime system Cello makes many things easy that were previously impractical or awkward in C.
