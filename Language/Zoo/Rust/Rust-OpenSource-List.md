@@ -52,6 +52,8 @@
 
 - [2019-tokio #Project#](https://github.com/tokio-rs/tokio): A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 
+- [2021-Monoio #Project#](https://github.com/bytedance/monoio): As a runtime based on io_uring, Monoio is designed to be the most efficient and performant Rust runtime.
+
 ## Bindings
 
 - [neon #Project#](https://github.com/neon-bindings/neon): Rust bindings for writing safe and fast native Node.js modules.

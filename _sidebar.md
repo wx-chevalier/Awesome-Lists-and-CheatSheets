@@ -611,6 +611,7 @@
           - [7.4.4.4.1 IoT List](/Backend/MicroCN/Gateway/IoT/IoT-List.md)
           - [7.4.4.4.2 IoT OpenSource List](/Backend/MicroCN/Gateway/IoT/IoT-OpenSource-List.md)
           - [7.4.4.4.3 MQTT List](/Backend/MicroCN/Gateway/IoT/MQTT-List.md)
+          - [7.4.4.4.4 OPCUA List](/Backend/MicroCN/Gateway/IoT/OPCUA-List.md)
         - 7.4.4.5 WebServer
           - [7.4.4.5.1 Apache List](/Backend/MicroCN/Gateway/WebServer/Apache-List.md)
           - [7.4.4.5.2 Caddy List](/Backend/MicroCN/Gateway/WebServer/Caddy-List.md)

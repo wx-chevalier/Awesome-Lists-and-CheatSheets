@@ -18,6 +18,8 @@
 
 - [Sharp #Project#](): High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images.
 
+- [Imagor #Project#](https://github.com/cshum/imagor): Fast, Docker-ready image processing server written in Go and libvips, with Thumbor URL syntax
+
 ## Image Recognition
 
 - [Uber Image Diff](https://github.com/uber/image-diff)

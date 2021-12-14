@@ -180,6 +180,10 @@
 
 - [Goth #Project#](https://github.com/markbates/goth): Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
 
+# UI Framework
+
+- [fyne #Project#](https://github.com/fyne-io/fyne): Cross platform GUI in Go inspired by Material Design
+
 # Other
 
 - [gorush #Project#](https://github.com/appleboy/gorush): A push notification server written in Go (Golang).

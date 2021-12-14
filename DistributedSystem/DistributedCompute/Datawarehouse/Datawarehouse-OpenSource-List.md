@@ -2,6 +2,8 @@
 
 - [LarkMidTable #Project#](https://github.com/wxgzgl/LarkMidTable): 基于 flinkx 的分布式数据中台产品。
 
+- [DataSphereStudio #Project#](https://github.com/WeBankFinTech/DataSphereStudio): DataSphereStudio is a one stop data application development& management portal, covering scenarios including data exchange, desensitization/cleansing, analysis/mining, quality measurement, visualization, and task scheduling.
+
 ## Meta Management
 
 - [Apache Altas #Project#](https://atlas.apache.org/#/): Atlas is a scalable and extensible set of core foundational governance services – enabling enterprises to effectively and efficiently meet their compliance requirements within Hadoop and allows integration with the whole enterprise data ecosystem.
@@ -57,6 +59,8 @@
 - [Davinci #Project#](https://edp963.github.io/davinci/): Davinci 是一个 DVaaS（Data Visualization as a Service）平台解决方案，面向业务人员/数据工程师/数据分析师/数据科学家，致力于提供一站式数据可视化解决方案。既可作为公有云/私有云独立部署使用，也可作为可视化插件集成到三方系统。用户只需在可视化 UI 上简单配置即可服务多种数据可视化应用，并支持高级交互/行业分析/模式探索/社交智能等可视化功能。
 
 - [2020-Querybook #Project#](https://github.com/pinterest/querybook): Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.
+
+- [DataEase #Project#](https://github.com/dataease/dataease): DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化。DataEase 支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。
 
 ## Data Lake
 
