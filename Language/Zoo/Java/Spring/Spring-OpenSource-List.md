@@ -22,6 +22,8 @@
 
 - [2021-FEBS Cloud 微服务权限系统 #Project#](https://github.com/febsteam/FEBS-Cloud): 基于 Spring Cloud Hoxton.RELEASE、Spring Cloud OAuth2 & Spring Cloud Alibaba & Element 微服务权限系统，开箱即用。预览地址：https://cloud.mrbird.cn
 
+- [2021-Rude Java #Project#](https://github.com/RudeCrab/rude-java): Java Practice Projects(SSM、Spring Boot、Spring Security、MinIO、Vue). 以 Java 语言为主的各种项目实践，涵盖各个业务、各个功能，并附上高质量文章讲解，其中一些甚至可以单开一个仓库。让你再也不用寻找各种框架 demo、项目脚手架。
+
 ## Examples
 
 - [spring-boot-quick #Project#](https://github.com/vector4wang/spring-boot-quick): 🌿 基于 springboot 的快速学习示例,整合自己遇到的开源框架,如：rabbitmq(延迟队列)、Kafka、jpa、redies、oauth2、swagger、jsp、docker、spring-batch、异常处理、日志输出、多模块开发、多环境打包、缓存 cache、爬虫、jwt、GraphQL、dubbo、zookeeper 和 Async 等等 📌

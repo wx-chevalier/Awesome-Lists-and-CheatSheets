@@ -130,6 +130,8 @@
 
 - [2020-terarkdb #Project#](https://github.com/bytedance/terarkdb): A RocksDB compatible KV storage engine with better performance.
 
+- [immudb #Project#](https://github.com/codenotary/immudb): world’s fastest immutable database, built on a zero trust model.
+
 # Graph Database
 
 - [Cayley #Project#](https://github.com/cayleygraph/cayley): Cayley is an open-source graph inspired by the graph database behind Freebase and Google's Knowledge Graph.

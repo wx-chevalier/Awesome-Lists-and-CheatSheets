@@ -72,6 +72,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2021-Go 语言高性能编程 #Book#](https://geektutu.com/post/high-performance-go.html): 通过学习一些著名的开源项目和 Go 的源码，也掌握了很多编程的技巧，知道怎么写才能获得更好的性能。这些技巧是零散的，我一直希望能够将这些技巧系统地整理出来，不断地完善，最终形成一本高性能编程的指南。因此，开启了 Go 语言高性能编程 这个电子书项目。这个项目刚起步，处于一个逐步完善的过程，与各位童鞋共勉。
 
+- [2021-golang-notes #Book#](https://github.com/cch123/golang-notes): 主要是源码分析，可能也会有一些使用上的知识点。
+
 ## Blog
 
 - [Draveness's Blog #Blog#](https://draveness.me): 非常不错的 Go 系列博客。
@@ -87,6 +89,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 - [2017-Golang Guide: A List of Top Golang Frameworks, IDEs & Tools #Collection#](https://parg.co/oGO)
 
 - [2021-最全空降 Golang 资料补给包 #Collection#](https://github.com/0voice/Introduction-to-Golang): 【未来服务器端编程语言】最全空降 golang 资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享 ppt
+
+- [2021-Awesome Go Books #Collection#](https://github.com/dariubs/GoBooks): List of Golang books.
 
 ## Course
 

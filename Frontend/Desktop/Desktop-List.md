@@ -11,3 +11,9 @@
 - [Tauri #Project#](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 
 - [yue #Project#](https://github.com/yue/yue): A library for creating native cross-platform GUI apps
+
+- [neutralinojs #Project#](https://github.com/neutralinojs/neutralinojs): Portable and lightweight cross-platform desktop application development framework
+
+- [lorca #Project#](https://github.com/zserge/lorca): Build cross-platform modern desktop apps in Go + HTML5
+
+- [wails #Project#](https://github.com/wailsapp/wails): Create desktop apps using Go and Web Technologies.

@@ -36,6 +36,8 @@
 
 - [mdebug #Project#](https://github.com/tnfe/mdebug): 基于 React 开发的新一代 web 调试工具，支持 React 组件调试，类似于 Chrome Devtools。A Lightweight, Easy To Extend Web Debugging Tool Build With React。
 
+- [fuite #Project#](https://github.com/nolanlawson/fuite): A tool for finding memory leaks in web apps
+
 ## Test
 
 - [Mocha #Project#](https://mochajs.org/): Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases. Hosted on GitHub.
