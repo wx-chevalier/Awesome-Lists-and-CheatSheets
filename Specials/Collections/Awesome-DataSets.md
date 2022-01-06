@@ -132,7 +132,7 @@
 
 - [National Survey on Drug Use and Health](http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/34933):Predict drug use based on health survey questions. 共 2GB
 
-- [Prostate Cancer](http://mldata.org/repository/data/viewslug/prostate-cancer/):Tumor and nontumor samples, used to recognize prostate cancer.  共 4.8MB
+- [Prostate Cancer](http://mldata.org/repository/data/viewslug/prostate-cancer/):Tumor and nontumor samples, used to recognize prostate cancer. 共 4.8MB
 
 - [Record of Heart Sound](http://mldata.org/repository/data/viewslug/record-of-heart-sound/):Recordings of normal and abnormal heartbeats, used to recognize heart murmur, etc. 共 47.7MB
 

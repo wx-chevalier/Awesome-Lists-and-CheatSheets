@@ -180,7 +180,7 @@
 
 - [2013-Pouchdb #Project#](https://github.com/pouchdb/pouchdb): PouchDB was created to help web developers build applications that work as well offline as they do online.
 
-- [2014-Lovefield #Project#](https://google.github.io/lovefield/): Relational Database With Schema
+- [2014-Lovefield #Project#](https://google.github.io/lovefield/): Relational Database With Schema
 
 - [LokiJS #Project#](https://github.com/techfort/LokiJS): LokiJS is a document oriented database written in javascript, Its purpose is to store javascript objects as documents in a nosql fashion and retrieve them with a similar mechanism.
 

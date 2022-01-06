@@ -16,9 +16,9 @@
 
 ## Book
 
-- [2012-Concurrent Programming for Scalable Web Architectures #Book#](http://berb.github.io/diploma-thesis/): We examine the relations between concurrency, scalability and distributed systems and dare an outlook on the near future.
+- [2012-Concurrent Programming for Scalable Web Architectures #Book#](http://berb.github.io/diploma-thesis/): We examine the relations between concurrency, scalability and distributed systems and dare an outlook on the near future.
 
-- [2012-The Art of Multiprocessor Programming, Revised Reprint](https://www.safaribooksonline.com/library/view/the-art-of/9780123973375/): The Art of Multiprocessor Programming is an authoritative guide to multicore programming. It introduces a higher level set of software development skills than that needed for efficient single-core programming. This book provides comprehensive coverage of the new principles, algorithms, and tools necessary for effective multiprocessor programming.
+- [2012-The Art of Multiprocessor Programming, Revised Reprint](https://www.safaribooksonline.com/library/view/the-art-of/9780123973375/): The Art of Multiprocessor Programming is an authoritative guide to multicore programming. It introduces a higher level set of software development skills than that needed for efficient single-core programming. This book provides comprehensive coverage of the new principles, algorithms, and tools necessary for effective multiprocessor programming.
 
 - [2011-Özsu-Principles of Distributed Database Systems-3rd Edition #Book#](http://www.springer.com/us/book/9781441988331): The first part discusses the fundamental principles of distributed data management and includes distribution design, data integration, distributed query processing and optimization, distributed transaction management, and replication. The second part focuses on more advanced topics and includes discussion of parallel database systems, distributed object management, peer-to-peer data management, web data management, data stream systems, and cloud computing.
 

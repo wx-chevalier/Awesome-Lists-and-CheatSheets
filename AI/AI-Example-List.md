@@ -36,9 +36,9 @@
 
 - [2017-TensorFlow Models by Sarasra #Project#](https://github.com/Sarasra/models): This repository contains a number of different models implemented in TensorFlow: the official models, the research models, the samples folder and the tutorials folder.
 
-- [Android TensorFlow Machine Learning Example #Project#](http://6me.us/GbWFKx): This article is for those who are already familiar with machine learning and know how to the build model for machine learning(for this example I will be using a pre-trained model).
+- [Android TensorFlow Machine Learning Example #Project#](http://6me.us/GbWFKx): This article is for those who are already familiar with machine learning and know how to the build model for machine learning(for this example I will be using a pre-trained model).
 
-- [2017-NakedTensor #Project#](https://github.com/jostmey/NakedTensor): Bare bone examples of machine learning in TensorFlow.
+- [2017-NakedTensor #Project#](https://github.com/jostmey/NakedTensor): Bare bone examples of machine learning in TensorFlow.
 
 - [2018-Deep Learning Using TensorFlow #Project#](https://github.com/anujdutt9/TensorFlow-DeepLearning): This repository contains the code for TensorFlow Tutorial for Deep Learning from Starting to End. All the code is written using Python3.
 

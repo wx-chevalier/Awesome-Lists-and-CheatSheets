@@ -4,7 +4,7 @@
 
 ## 断点调试
 
-- [debug #Project#](https://github.com/visionmedia/debug): tiny node.js & browser debugging utility for your libraries and applications.
+- [debug #Project#](https://github.com/visionmedia/debug): tiny node.js & browser debugging utility for your libraries and applications.
 
 ## Chrome Dev Tools
 
@@ -36,7 +36,7 @@
 
 - [Logging Errors in Client-Side Applications](https://www.sitepoint.com/logging-errors-client-side-apps/)
 
-- [How to get the most out of the JavaScript console](https://parg.co/b9o): One of the most basic debugging tools in JavaScript is console.log(). The console comes with several other useful methods that can add to a developer’s debugging toolkit.
+- [How to get the most out of the JavaScript console](https://parg.co/b9o): One of the most basic debugging tools in JavaScript is console.log(). The console comes with several other useful methods that can add to a developer’s debugging toolkit.
 
 - [2017-Learn How To Debug JavaScript with Chrome DevTools](https://parg.co/bDf)
 

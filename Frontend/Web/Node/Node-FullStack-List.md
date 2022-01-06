@@ -4,7 +4,7 @@
 
 - [2017-前后端分离，是为了彼此更好](https://parg.co/bwq)
 
-## Isomorphic | 同构开发
+## Isomorphic | 同构开发
 
 - [isomorphic-tutorial](https://github.com/spikebrehm/isomorphic-tutorial)
 

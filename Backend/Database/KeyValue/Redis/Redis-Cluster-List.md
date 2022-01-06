@@ -4,7 +4,7 @@
 
 - [2016-这可能是最全的 Redis 集群方案介绍了](https://parg.co/Kne): 各大企业在 3.0 版本还没发布前为了解决 Redis 的存储瓶颈，纷纷推出了各自的 Redis 集群方案。这些方案的核心思想是把数据分片（sharding）存储在多个 Redis 实例中，每一片就是一个 Redis 实例。
 
-- [2017-Redis 集群实现原理探讨](https://parg.co/by5)：Redis  集群是一个 distribute、fault-tolerant 的 Redis 实现，主要设计目标是达到线性可扩展性、可用性、数据一致性。
+- [2017-Redis 集群实现原理探讨](https://parg.co/by5)：Redis 集群是一个 distribute、fault-tolerant 的 Redis 实现，主要设计目标是达到线性可扩展性、可用性、数据一致性。
 
 ## Redis Cluster
 

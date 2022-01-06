@@ -6,15 +6,15 @@
 
 # Modularity | 模块化
 
-- [2017-Building Java 9 Modules With Gradle](https://guides.gradle.org/building-java-9-modules/): In this guide, you’ll learn exactly what you need to change in your Java application to modules with gradle
+- [2017-Building Java 9 Modules With Gradle](https://guides.gradle.org/building-java-9-modules/): In this guide, you’ll learn exactly what you need to change in your Java application to modules with gradle
 
-- [2017-Is Jigsaw good or is it wack?](https://blog.plan99.net/is-jigsaw-good-or-is-it-wack-ec634d36dd6f):  Jigsaw is the name of a the project to build a Java Platform Module System (JPMS) into the Java 9 platform. Yesterday some of the members of the JPMS expert group published an open letter that, to not put too fine a point on it, damns the design of the new system and states that nobody should use it.
+- [2017-Is Jigsaw good or is it wack?](https://blog.plan99.net/is-jigsaw-good-or-is-it-wack-ec634d36dd6f): Jigsaw is the name of a the project to build a Java Platform Module System (JPMS) into the Java 9 platform. Yesterday some of the members of the JPMS expert group published an open letter that, to not put too fine a point on it, damns the design of the new system and states that nobody should use it.
 
 - [2017-Migrating to Java 9 Modules](https://parg.co/b4e)
 
 - [2016-Demonstrates Java 9's new features](https://github.com/CodeFX-org/demo-java-9)
 
-- [2016-Java 9 的模块化--壮士断"腕"的涅槃](http://6me.us/OPe)：这可能是   Java 有史以来最大的 Feature，它将自己长期依赖 All-in-one/Environment 的结构，转身为 Module 为基础的组件。
+- [2016-Java 9 的模块化--壮士断"腕"的涅槃](http://6me.us/OPe)：这可能是 Java 有史以来最大的 Feature，它将自己长期依赖 All-in-one/Environment 的结构，转身为 Module 为基础的组件。
 
 - [java-9-project-jigsaw-modularity](https://medium.com/@annimon119/java-9-project-jigsaw-modularity-679fa88f7f2#.3z50mk2pv)
 

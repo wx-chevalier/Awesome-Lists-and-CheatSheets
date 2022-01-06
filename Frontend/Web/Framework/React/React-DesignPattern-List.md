@@ -134,7 +134,7 @@
 
 - [2017-From Zero to Redux in 3 Minutes A simplified guide to using Redux in a React application.](https://medium.com/@christiannaths/from-zero-to-redux-8db779b6ed01#.1j80ztr5q)
 
-- [2017-React Redux Cheat Sheet on Workflow & Concept](https://github.com/uanders/react-redux-cheatsheet): This article contains a graphical cheat sheet for the workflow and concept of Redux.
+- [2017-React Redux Cheat Sheet on Workflow & Concept](https://github.com/uanders/react-redux-cheatsheet): This article contains a graphical cheat sheet for the workflow and concept of Redux.
 
 - [React and Redux Sagas Authentication App Tutorial](http://start.jcolemorrison.com/react-and-redux-sagas-authentication-app-tutorial/)
 

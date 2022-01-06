@@ -2,7 +2,7 @@
 
 # Overview | 概述
 
-- [2017-TensorFlow demystified](https://chatbotslife.com/tensorflow-demystified-80987184faf7): To understand a new framework, Google’s TensorFlow is a framework for machine-learning calculations, it is often useful to see a ‘toy’ example and learn from it.
+- [2017-TensorFlow demystified](https://chatbotslife.com/tensorflow-demystified-80987184faf7): To understand a new framework, Google’s TensorFlow is a framework for machine-learning calculations, it is often useful to see a ‘toy’ example and learn from it.
 
 - [2017-TensorFlow 代码解析](https://zhuanlan.zhihu.com/p/25646408)：本文由浅入深的阐述 Tensor 和 Flow 的概念。先介绍了 TensorFlow 的核心概念和基本概述，然后剖析了 OpKernels 模块、Graph 模块、Session 模块。
 
@@ -42,7 +42,7 @@
 
 - [2016-Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)
 
-- [2017-Deep Learning in 7 lines of code](https://chatbotslife.com/deep-learning-in-7-lines-of-code-7879a8ef8cfb): The essence of machine learning is recognizing patterns within data. This boils down to 3 things: data, software and math. What can be done in seven lines of code you ask? A lot.
+- [2017-Deep Learning in 7 lines of code](https://chatbotslife.com/deep-learning-in-7-lines-of-code-7879a8ef8cfb): The essence of machine learning is recognizing patterns within data. This boils down to 3 things: data, software and math. What can be done in seven lines of code you ask? A lot.
 
 - [2017-We Need to Go Deeper: A Practical Guide to TensorFlow and Inception](http://6me.us/s2n)
 
@@ -52,7 +52,7 @@
 
 - [2015-tensorflow_tutorials #Series#](https://github.com/pkmital/tensorflow_tutorials): From the basics to slightly more interesting applications of TensorFlow
 
-- [2017-Effective TensorFlow #Series#](https://github.com/vahidk/EffectiveTensorFlow): My attempt is to gradually expand this series by adding new articles and keep the content up to date with the latest releases of TensorFlow API.
+- [2017-Effective TensorFlow #Series#](https://github.com/vahidk/EffectiveTensorFlow): My attempt is to gradually expand this series by adding new articles and keep the content up to date with the latest releases of TensorFlow API.
 
 - [2017-TensorFlow 101 #Series#](https://mubaris.com/2017-10-21/tensorflow-101): TensorFlow is an open source machine learning library developed at Google. TensorFlow uses data flow graphs for numerical computations.
 

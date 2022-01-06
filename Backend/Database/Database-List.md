@@ -70,7 +70,7 @@
 
 - [2017-MySQL 学习笔记 #Book#](http://notes.diguage.com/mysql/): 本文档可以看作是 D 瓜哥 学习《高性能 MySQL》时做的读书笔记。为了让内容更丰富易懂，还参考了《MySQL 技术内幕》和《数据库索引设计与优化》。
 
-- [2017-The Unofficial MySQL 8.0 Optimizer Guide #Book#](http://www.unofficialmysqlguide.com/introduction.html): Morgan Tocker is the Product Manager for the MySQL Server at Oracle. He has previously worked in a variety of roles including Support, Training and Community. Morgan is based out of Toronto, Canada.
+- [2017-The Unofficial MySQL 8.0 Optimizer Guide #Book#](http://www.unofficialmysqlguide.com/introduction.html): Morgan Tocker is the Product Manager for the MySQL Server at Oracle. He has previously worked in a variety of roles including Support, Training and Community. Morgan is based out of Toronto, Canada.
 
 ### Datawarehouse
 
@@ -116,4 +116,4 @@
 
 - [List of NoSQL Database](http://nosql-database.org/)
 
-- [2017-Architect's Guide to NoSQL](http://www.datastax.com/wp-content/uploads/resources/whitepaper/DataStax_WP_Architects_Guide_to_NoSQL.pdf): This guide was created to help answer all these questions and more. In the following pages, you'll learn exactly what NoSQL is, why it's needed, how it works, what it should be used for, and (just as importantly) when it shouldn't be used
+- [2017-Architect's Guide to NoSQL](http://www.datastax.com/wp-content/uploads/resources/whitepaper/DataStax_WP_Architects_Guide_to_NoSQL.pdf): This guide was created to help answer all these questions and more. In the following pages, you'll learn exactly what NoSQL is, why it's needed, how it works, what it should be used for, and (just as importantly) when it shouldn't be used

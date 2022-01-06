@@ -28,7 +28,7 @@
 
 - [2016-水平分库分表的关键步骤以及可能遇到的问题](https://parg.co/b1F)
 
-- [2017-Principles of Sharding for Relational Databases](https://parg.co/bjq): In this blog post, we’ll first look at key properties that impact a sharding project’s success.
+- [2017-Principles of Sharding for Relational Databases](https://parg.co/bjq): In this blog post, we’ll first look at key properties that impact a sharding project’s success.
 
 - [使用 Rust 构建分布式 Key-Value Store](https://zhuanlan.zhihu.com/p/31142786)
 

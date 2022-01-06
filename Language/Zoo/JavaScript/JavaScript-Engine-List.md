@@ -34,7 +34,7 @@
 
 # AST
 
-- JavaScript Generator: [ECMAScript code generator on steroids](https://github.com/inikulin/esotope), [ECMAScript code generator](https://github.com/estools/escodegen)
+- JavaScript Generator: [ECMAScript code generator on steroids](https://github.com/inikulin/esotope), [ECMAScript code generator](https://github.com/estools/escodegen)
 
 - [2017-Understanding ASTs by Building Your Own Babel Plugin](https://www.sitepoint.com/understanding-asts-building-babel-plugin/)
 
@@ -48,7 +48,7 @@
 
 ## Babel
 
-- [2017-Babel Handbook #Book#](https://github.com/thejameskyle/babel-handbook): A guided handbook on how to use Babel and how to create plugins for Babel.
+- [2017-Babel Handbook #Book#](https://github.com/thejameskyle/babel-handbook): A guided handbook on how to use Babel and how to create plugins for Babel.
 
 # Memory Management
 

@@ -18,7 +18,7 @@
 
 - [2018-Web Application Penetration Testing Cheat Sheet](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/#data-validation-testing): This cheatsheet is intended to run down the typical steps performed when conducting a web application penetration test.
 
-- [Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56): Michael O’Brien shares a security checklist for web developers so that you don’t forget anything crucial in your next projects.
+- [Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56): Michael O’Brien shares a security checklist for web developers so that you don’t forget anything crucial in your next projects.
 
 # Browser Security | 浏览器安全
 

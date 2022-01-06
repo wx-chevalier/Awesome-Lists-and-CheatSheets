@@ -22,7 +22,7 @@
 
 - [Sizzy #Project# ](https://github.com/kitze/sizzy)：A tool for developing responsive websites crazy-fast. Sizzy 是辅助开发者预览网页在不同屏幕分辨率下显示效果的工具，它能够在同一页上列举出目标网页在多个设备上的显示效果，从而加速响应式开发的速度。
 
-- [React SizeME](https://github.com/ctrlplusb/react-sizeme): Make your React Components aware of their width, height and position.
+- [React SizeME](https://github.com/ctrlplusb/react-sizeme): Make your React Components aware of their width, height and position.
 
 - [Reframe #Project# ](https://dollarshaveclub.github.io/reframe.js/)
 
@@ -46,7 +46,7 @@
 
 - [10-tips-for-mobile-web-design-optimization](https://www.elegantthemes.com/blog/tips-tricks/10-tips-for-mobile-web-design-optimization)
 
-- [The pro's guide to responsive web design](http://www.creativebloq.com/rwd/pros-guide-responsive-web-design-71515692):  Advanced techniques from top web designers to build better sites for any device.
+- [The pro's guide to responsive web design](http://www.creativebloq.com/rwd/pros-guide-responsive-web-design-71515692): Advanced techniques from top web designers to build better sites for any device.
 
 # Media Query: 媒介查询
 

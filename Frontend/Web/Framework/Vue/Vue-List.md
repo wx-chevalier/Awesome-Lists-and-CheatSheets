@@ -12,9 +12,9 @@
 
 - [2016-尤雨溪：Vue 2.0，渐进式前端解决方案](https://parg.co/GS1): 前端框架的存在是为了解决什么问题？在众多的框架之中，Vue 独具魅力之处何在？为什么说其背后的核心思想是渐进式？
 
-- [Vue 2.2 完整 API 清单](https://parg.co/bhC)：本文是  Vue 2.2 中完整的 API 介绍，可以作为手册随时查阅。
+- [Vue 2.2 完整 API 清单](https://parg.co/bhC)：本文是 Vue 2.2 中完整的 API 介绍，可以作为手册随时查阅。
 
-- [2017-An overview of Vue.js and the future of the framework](https://parg.co/UmG):  This post is far from being a guide. It’s another timeline attempt on Vue.js in a well-organized way, from the beginning, to what awaits us in version 3.0 of the framework.
+- [2017-An overview of Vue.js and the future of the framework](https://parg.co/UmG): This post is far from being a guide. It’s another timeline attempt on Vue.js in a well-organized way, from the beginning, to what awaits us in version 3.0 of the framework.
 
 - [Vue 和 React 的优点分别是什么？](https://www.zhihu.com/question/301860721)
 
@@ -24,7 +24,7 @@
 
 ## Case Study | 案例分析
 
-- [2017-Creating Beautiful Charts Using Vue Wrappers for Chart.js](https://www.sitepoint.com/creating-beautiful-charts-vue-chart-js/): In this article I will show you how to represent data in the form of various types of chart with the help of Chart.js and Vue.
+- [2017-Creating Beautiful Charts Using Vue Wrappers for Chart.js](https://www.sitepoint.com/creating-beautiful-charts-vue-chart-js/): In this article I will show you how to represent data in the form of various types of chart with the help of Chart.js and Vue.
 
 ## Comparison（比较）
 
@@ -42,7 +42,7 @@
 
 - [2017-Vue 2 Quickstart Tutorial 2017](https://medium.com/@s_eschweiler/vue-js-2-quickstart-tutorial-2017-246195cfbdd2#.x0l9g6j9r)
 
-- [Vue Pokemon Battle Tutorial](https://medium.com/coding-artist/vue-js-pokemon-battle-tutorial-380cd72eb681#.x8wnb4s0f): A very detailed read that goes through the creation of a Pokemon Battle using Vue.
+- [Vue Pokemon Battle Tutorial](https://medium.com/coding-artist/vue-js-pokemon-battle-tutorial-380cd72eb681#.x8wnb4s0f): A very detailed read that goes through the creation of a Pokemon Battle using Vue.
 
 - [基于 Vue 与 DeepStream 构建实时 CRUD 应用](https://scotch.io/tutorials/build-a-realtime-crud-app-with-vue-deepstream)：Vue 是专注于 JavaScript UI 的渐进式库，它提供了开发现代 Web 应用的各种先进的特性。而随着移动互联网的发展，实时技术也愈发重要；各种各样的提供抽象接口的实时服务器扮演着越发重要的作用，其中[DeepStream](https://deepstream.io/) 就是开源的、免费的并且性能表现相当优秀的实时服务器。而本文就利用 Vue 与 DeepStream 这两个开源工具构建实时交互的应用。
 

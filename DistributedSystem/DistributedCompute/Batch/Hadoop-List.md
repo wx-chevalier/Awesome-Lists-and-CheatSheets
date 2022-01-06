@@ -8,6 +8,6 @@
 
 - [Kite: A Data API for Hadoop](http://kitesdk.org/docs/current/)
 
-- [ Hadoop MapReduce 中如何处理跨行 Block 和 UnputSplit ](http://blog.csdn.net/wanghai__/article/details/6583364)
+- [ Hadoop MapReduce 中如何处理跨行 Block 和 UnputSplit ](http://blog.csdn.net/wanghai__/article/details/6583364)
 
 - [hadoop-input-split-size-vs-block-size](http://stackoverflow.com/questions/17727468/hadoop-input-split-size-vs-block-size)

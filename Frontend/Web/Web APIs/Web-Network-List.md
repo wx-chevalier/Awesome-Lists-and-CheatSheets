@@ -10,7 +10,7 @@
 
 ## fetch
 
-- [Fetch 进阶指南](http://louiszhai.github.io/2016/11/02/fetch/): Fetch 是 web 异步通信的未来. 从 chrome42, Firefox39, Opera29, EdgeHTML14(并非 Edge 版本)起, fetch 就已经被支持了. 其中 chrome42~45 版本, fetch 对中文支持有问题, 建议从 chrome46 起使用 fetch.
+- [Fetch 进阶指南](http://louiszhai.github.io/2016/11/02/fetch/): Fetch 是 web 异步通信的未来. 从 chrome42, Firefox39, Opera29, EdgeHTML14(并非 Edge 版本)起, fetch 就已经被支持了. 其中 chrome42~45 版本, fetch 对中文支持有问题, 建议从 chrome46 起使用 fetch.
 
 # Cross Origin
 
@@ -26,7 +26,7 @@
 
 ## CORS
 
-- [2017-CORS — a guided tour](https://parg.co/bOF): Cross-origin resource sharing
+- [2017-CORS — a guided tour](https://parg.co/bOF): Cross-origin resource sharing
 
 - [MDN-HTTP 访问控制(CORS)](https://parg.co/UGw)
 

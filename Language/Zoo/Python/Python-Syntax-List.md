@@ -6,7 +6,7 @@
 
 # Modularity
 
-- [Imports in Python](https://github.com/00111000/Imports-in-Python): The guide talks about Regular, Local, Optional, Circular, and Shadowed imports.
+- [Imports in Python](https://github.com/00111000/Imports-in-Python): The guide talks about Regular, Local, Optional, Circular, and Shadowed imports.
 
 # 函数
 

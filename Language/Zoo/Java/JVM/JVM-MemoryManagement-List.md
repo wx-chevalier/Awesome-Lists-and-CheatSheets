@@ -46,8 +46,8 @@
 
 - [2017-How Memory Leaks Happen in a Java Application](https://stackify.com/memory-leaks-java?utm_source=mybridge&utm_medium=ios&utm_campaign=read_more): In this article, we’re going to describe the most common memory leaks, understand their causes, and look at a few techniques to detect/avoid them.
 
-- [The Introduction of Java Memory Leaks](http://www.programcreek.com/2013/10/the-introduction-of-memory-leak-what-why-and-how/): One of the most significant advantages of Java is its memory management. You simply create objects and Java Garbage Collector takes care of allocating and freeing memory. However, the situation is not as simple as that, because memory leaks frequently occur in Java applications.
+- [The Introduction of Java Memory Leaks](http://www.programcreek.com/2013/10/the-introduction-of-memory-leak-what-why-and-how/): One of the most significant advantages of Java is its memory management. You simply create objects and Java Garbage Collector takes care of allocating and freeing memory. However, the situation is not as simple as that, because memory leaks frequently occur in Java applications.
 
 - [Creating a memory leak with Java](https://stackoverflow.com/questions/6470651/creating-a-memory-leak-with-java)
 
-- [2017-Troubleshooting Memory Issues in Java Applications](https://parg.co/bsr): Troubleshooting memory problems can be tricky but the right approach and proper set of tools can simplify the process substantially.
+- [2017-Troubleshooting Memory Issues in Java Applications](https://parg.co/bsr): Troubleshooting memory problems can be tricky but the right approach and proper set of tools can simplify the process substantially.

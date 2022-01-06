@@ -1,6 +1,6 @@
 # Go Web Development List
 
-- [Go Web Examples #Series#](https://gowebexamples.github.io/): Go Web Examples provides easy to understand code snippets on how to do web development in the Go programming language.
+- [Go Web Examples #Series#](https://gowebexamples.github.io/): Go Web Examples provides easy to understand code snippets on how to do web development in the Go programming language.
 
 - [2018-Building a JSON API in Go](https://parg.co/U1h): I've recently been building more and more complex things with the Go programming language. It's been a lot of fun!
 

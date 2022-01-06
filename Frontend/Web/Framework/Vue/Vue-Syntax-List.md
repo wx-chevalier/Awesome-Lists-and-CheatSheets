@@ -8,7 +8,7 @@
 
 # Style | 组件样式
 
-- [2017-Using SASS/SCSS in Vue 2](https://medium.com/@mahesh.ks/using-sass-scss-in-vue-js-2-d472af0facf9): This blog gives you a brief description on how to include SASS/SCSS styling files in your vue.js files.
+- [2017-Using SASS/SCSS in Vue 2](https://medium.com/@mahesh.ks/using-sass-scss-in-vue-js-2-d472af0facf9): This blog gives you a brief description on how to include SASS/SCSS styling files in your vue.js files.
 
 - [2017-Creating Vue.js Transitions & Animation: Live Examples](https://snipcart.com/blog/vuejs-transitions-animations)
 
@@ -23,4 +23,4 @@
 
 # Component Dataflow | 组件数据流
 
-- [2017-Vue Component Communication Patterns](https://parg.co/bgm): There are several methods that can be used for inter-component communication in Vue. Normal props and events should be sufficient for most cases, but there are other methods available at your disposal as well.
+- [2017-Vue Component Communication Patterns](https://parg.co/bgm): There are several methods that can be used for inter-component communication in Vue. Normal props and events should be sufficient for most cases, but there are other methods available at your disposal as well.

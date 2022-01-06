@@ -26,7 +26,7 @@
 
 - [tensorflow-playground](https://github.com/tensorflow/playground): Play with neural networks!
 
-- [Sonnet #Project#](https://github.com/deepmind/sonnet): Sonnet is a library built on top of TensorFlow for building complex neural networks.
+- [Sonnet #Project#](https://github.com/deepmind/sonnet): Sonnet is a library built on top of TensorFlow for building complex neural networks.
 
 - [TFLearn](https://github.com/tflearn/tflearn): Deep learning library featuring a higher-level API for TensorFlow.
 
@@ -112,7 +112,7 @@
 
 # Natural Language Processing
 
-- [SnowNLP #Project#](https://github.com/isnowfy/snownlp): SnowNLP 是一个 Python 写的类库，可以方便的处理中文文本内容，是受到了 TextBlob 的启发而写的，由于现在大部分的自然语言处理库基本都是针对英文的，于是写了一个方便处理中文的类库，并且和 TextBlob 不同的是，这里没有用 NLTK，所有的算法都是自己实现的，并且自带了一些训练好的字典。
+- [SnowNLP #Project#](https://github.com/isnowfy/snownlp): SnowNLP 是一个 Python 写的类库，可以方便的处理中文文本内容，是受到了 TextBlob 的启发而写的，由于现在大部分的自然语言处理库基本都是针对英文的，于是写了一个方便处理中文的类库，并且和 TextBlob 不同的是，这里没有用 NLTK，所有的算法都是自己实现的，并且自带了一些训练好的字典。
 
 - [nlp_compromise #Project#](https://github.com/nlp-compromise/nlp_compromise): a cool way to use natural language in javascript
 
