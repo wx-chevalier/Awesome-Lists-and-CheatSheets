@@ -12,6 +12,8 @@
 
 - [图解 Paxos 一致性协议](http://blog.xiaohansong.com/2016/09/30/Paxos/)
 
+- [Paxos by Martinfowler](https://martinfowler.com/articles/patterns-of-distributed-systems/paxos.html): Use two consensus building phases to reach safe consensus even when nodes disconnect
+
 # Implementations
 
 - [Plain Paxos Implementations in Python & Java](https://github.com/cocagne/paxos)
