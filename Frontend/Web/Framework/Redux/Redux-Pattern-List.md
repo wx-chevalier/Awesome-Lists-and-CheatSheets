@@ -1,6 +1,6 @@
 # Redux Pattern List | Redux 工程实践资料索引
 
-- [2017-Five Tips for Working with Redux in Large Applications](https://parg.co/bIi): The following points of discussion should help anyone working with Redux on large, data intensive applications.
+- [2017-Five Tips for Working with Redux in Large Applications](https://parg.co/bIi): The following points of discussion should help anyone working with Redux on large, data intensive applications.
 
 - [2017-探索 Redux 的最佳实践](http://mp.weixin.qq.com/s/DyUSg_J6t1C43PDJZi8GuQ)
 

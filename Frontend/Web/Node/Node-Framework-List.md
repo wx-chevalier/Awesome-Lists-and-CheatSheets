@@ -56,7 +56,7 @@
 
 # Other
 
-- [fastify #Project#](https://github.com/fastify/fastify): Fast and low overhead web framework, for Node.js.
+- [fastify #Project#](https://github.com/fastify/fastify): Fast and low overhead web framework, for Node.js.
 
 - [Server.js #Project#](https://github.com/franciscop/server): Simple and powerful server for Node.js.
 

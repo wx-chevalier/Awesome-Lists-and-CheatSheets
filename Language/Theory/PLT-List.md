@@ -18,11 +18,11 @@
 
 ## Collection
 
-- [2017-awesome-compilers #Collection#](https://github.com/aalhour/awesome-compilers): A curated list of awesome resources on the theory and construction of Compilers, Interpreters and Runtimes.
+- [2017-awesome-compilers #Collection#](https://github.com/aalhour/awesome-compilers): A curated list of awesome resources on the theory and construction of Compilers, Interpreters and Runtimes.
 
 - [PLT #Collection#](https://github.com/steshaw/plt): A path to Programming Language Theory enlightenment.
 
-- [Collection of cheat sheets for programmers #Collection#](https://hownot2code.com/2016/09/29/collection-of-cheat-sheets-for-programmers/): Even the most experienced programmers aren’t able to remember all CSS properties or a correct way to write all commands. That’s why it’s always useful to have a cheat sheet at hand in the bookmarks of a browser.
+- [Collection of cheat sheets for programmers #Collection#](https://hownot2code.com/2016/09/29/collection-of-cheat-sheets-for-programmers/): Even the most experienced programmers aren’t able to remember all CSS properties or a correct way to write all commands. That’s why it’s always useful to have a cheat sheet at hand in the bookmarks of a browser.
 
 ## Course
 

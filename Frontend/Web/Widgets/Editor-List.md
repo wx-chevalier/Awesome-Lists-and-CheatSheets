@@ -2,7 +2,7 @@
 
 - [2015-CodeMirror #Project#](https://github.com/codemirror/CodeMirror): CodeMirror is a versatile text editor implemented in JavaScript for the browser. It is specialized for editing code, and comes with over 100 language modes and various addons that implement more advanced editing functionality. Every language comes with fully-featured code and syntax highlighting to help with reading and editing complex code.
 
-- [2016-Pell #Project#](https://github.com/jaredreich/pell): pell is the simplest and smallest WYSIWYG text editor for web, with no dependencies
+- [2016-Pell #Project#](https://github.com/jaredreich/pell): pell is the simplest and smallest WYSIWYG text editor for web, with no dependencies
 
 - [2016-TOAST UI Editor #Project#](https://parg.co/UVY): Markdown WYSIWYG Editor | Productive and Extensible.
 

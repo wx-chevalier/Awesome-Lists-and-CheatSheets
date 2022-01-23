@@ -8,7 +8,7 @@
 
 - [awesome-github-vue](https://github.com/opendigg/awesome-github-vue)：awesome-github-vue 是由 OpenDigg 整理并维护的 Vue 相关开源项目库集合。
 
-- [Vuera](https://parg.co/UmA): React in Vue, Vue in React. Seamless integration of the two.
+- [Vuera](https://parg.co/UmA): React in Vue, Vue in React. Seamless integration of the two.
 
 - [cube-ui #Project#](https://didi.github.io/cube-ui/#/zh-CN): 滴滴开源的基于 Vue.js 实现的精致移动端组件库。
 
@@ -22,4 +22,4 @@
 
 # Form（表单）
 
-- [2017-An imperative guide to forms in Vue.js](https://parg.co/UGT): In this tutorial, I will walk you through the process of creating, validating, and utilising inputs from a form in a Vue.js 2.x application.
+- [2017-An imperative guide to forms in Vue.js](https://parg.co/UGT): In this tutorial, I will walk you through the process of creating, validating, and utilising inputs from a form in a Vue.js 2.x application.

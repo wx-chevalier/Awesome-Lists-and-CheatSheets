@@ -8,7 +8,7 @@ There are massive curated links to help you study anything about Compiler head f
 
 - [2018-前端要以正确的姿势学习编译原理](https://zhuanlan.zhihu.com/p/36301857): 却发现并没有人给大家介绍前端要如何以系统并且正确地学习编译原理，所以我就结合自己的经验以及走过的弯路来给大家分享点心得和经验，希望能让大家少走点弯路。
 
-- [From math to machine: translating a function to machine code](http://6me.us/7BlocZ): In this post I'm going to explore how a mathematical concept can be redefined in progressively more computer-oriented terms, all the way from high level languages down to machine code, ready for direct execution by a computer.
+- [From math to machine: translating a function to machine code](http://6me.us/7BlocZ): In this post I'm going to explore how a mathematical concept can be redefined in progressively more computer-oriented terms, all the way from high level languages down to machine code, ready for direct execution by a computer.
 
 ## Practices | 实践
 
@@ -36,6 +36,6 @@ There are massive curated links to help you study anything about Compiler head f
 
 # JIT
 
-- [2017-Monads to Machine Code](http://www.stephendiehl.com/posts/monads_machine_code.html): Let’s build a small LLVM-like intermediate language and JIT execution engine in Haskell.
+- [2017-Monads to Machine Code](http://www.stephendiehl.com/posts/monads_machine_code.html): Let’s build a small LLVM-like intermediate language and JIT execution engine in Haskell.
 
-- [Adventures in JIT compilation #Series#](https://parg.co/bs2): he plan is to take a simple input language and develop some interpreters and JITs for it, in roughtly increasing degree of complexity.
+- [Adventures in JIT compilation #Series#](https://parg.co/bs2): he plan is to take a simple input language and develop some interpreters and JITs for it, in roughtly increasing degree of complexity.

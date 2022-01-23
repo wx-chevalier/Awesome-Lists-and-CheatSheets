@@ -144,7 +144,7 @@
 
 - [iris #Project#](https://github.com/kataras/iris): The fastest community-driven web framework for Go. Webassembly, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages.
 
-- [HttpRouter #Project#](https://github.com/julienschmidt/httprouter): A high performance HTTP request router that scales well.
+- [HttpRouter #Project#](https://github.com/julienschmidt/httprouter): A high performance HTTP request router that scales well.
 
 - [Nirvana #Project#](https://github.com/caicloud/nirvana): Golang Restful API Framework for Productivity. [才云正式开源其 Golang API 框架 Nirvana](https://mp.weixin.qq.com/s/NWGsPhVXuOW2t8cukP3TJQ)
 
@@ -156,7 +156,7 @@
 
 ## MicroService
 
-- [go-kit #Project#](https://github.com/go-kit): A Go toolkit for microservices.
+- [go-kit #Project#](https://github.com/go-kit): A Go toolkit for microservices.
 
 - [Go-Chassis #Project#](https://github.com/ServiceComb/go-chassis): Go-Chassis is a Software Development Kit(SDK) for rapid development of microservices in GoLang, providing service-discovery, fault-tolerance, circuit breaker, load balancing, monitoring, hot-reconfiguration features.
 

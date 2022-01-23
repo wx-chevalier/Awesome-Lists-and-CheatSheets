@@ -30,7 +30,7 @@
 
 - [缓存级别与缓存更新问题](https://parg.co/bs3)：缓存失效问题被认为是计算机科学中最难的两件事之一，这篇文章来自翻译，内容主要包括缓存级别与缓存更新常见的几种模式。
 
-- [2016-Design of a Modern Cache](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html): In this article we will explore the modern methods used by Caffeine, an open-source Java caching library, that yield high hit rates and excellent concurrency.
+- [2016-Design of a Modern Cache](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html): In this article we will explore the modern methods used by Caffeine, an open-source Java caching library, that yield high hit rates and excellent concurrency.
 
 # Architecture | 缓存架构
 

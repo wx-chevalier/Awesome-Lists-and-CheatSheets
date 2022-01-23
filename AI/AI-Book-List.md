@@ -14,7 +14,7 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2009-The Elements of Statistical Learning: Data Mining, Inference, and Prediction-Second Edition](https://web.stanford.edu/~hastie/ElemStatLearn/): Hastie and Tibshirani cover a broad range of topics, from supervised learning (prediction) to unsupervised learning including neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book.
 
-- [2010-All of Statistics: A Concise Course in Statistical Inference #Book#](http://read.pudn.com/downloads158/ebook/702714/Larry%20Wasserman_ALL%20OF%20Statistics.pdf): The goal of this book is to provide a broad background in probability and statistics for students in statistics, Computer science (especially data mining and machine learning), mathematics, and related disciplines.
+- [2010-All of Statistics: A Concise Course in Statistical Inference #Book#](http://read.pudn.com/downloads158/ebook/702714/Larry%20Wasserman_ALL%20OF%20Statistics.pdf): The goal of this book is to provide a broad background in probability and statistics for students in statistics, Computer science (especially data mining and machine learning), mathematics, and related disciplines.
 
 - [2012-李航-统计方法学 #Book#](https://www.amazon.cn/dp/B007TSFMTA): 本书全面系统地介绍了统计学习的主要方法，特别是监督学习方法，包括感知机、k 近邻法、朴素贝叶斯法、决策树、逻辑斯谛回归与熵模型、支持向量机、提升方法、EM 算法、隐马尔可夫模型和条件随机场等。书中的算法实现参考[这里](https://github.com/Dod-o/Statistical-Learning-Method_Code)。
 
@@ -34,9 +34,9 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 # Machine Learning | 机器学习
 
-- [2007-Pattern Recognition And Machine Learning #Book#](https://book.douban.com/subject/2061116/): The book is suitable for courses on machine learning, statistics, computer science, signal processing, computer vision, data mining, and bioinformatics.
+- [2007-Pattern Recognition And Machine Learning #Book#](https://book.douban.com/subject/2061116/): The book is suitable for courses on machine learning, statistics, computer science, signal processing, computer vision, data mining, and bioinformatics.
 
-- [2012-Machine Learning A Probabilistic Perspective #Book#](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020): This textbook offers a comprehensive and self-contained introduction to the field of machine learning, a unified, probabilistic approach. The coverage combines breadth and depth, offering necessary background material on such topics as probability, optimization, and linear algebra as well as discussion of recent developments in the field, including conditional random fields, L1 regularization, and deep learning.
+- [2012-Machine Learning A Probabilistic Perspective #Book#](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020): This textbook offers a comprehensive and self-contained introduction to the field of machine learning, a unified, probabilistic approach. The coverage combines breadth and depth, offering necessary background material on such topics as probability, optimization, and linear algebra as well as discussion of recent developments in the field, including conditional random fields, L1 regularization, and deep learning.
 
 - [2014-The Cambridge Handbook of Artificial Intelligence #Book#](https://parg.co/Y6V): With a focus on theory rather than technical and applied issues, the volume will be valuable not only to people working in AI, but also to those in other disciplines wanting an authoritative and up-to-date introduction to the field.
 
@@ -74,11 +74,11 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2015-Goodfellow, Bengio and Courville-The Deep Learning Textbook #Book#](http://www.deeplearningbook.org/):中文译本[这里](https://exacity.github.io/deeplearningbook-chinese/Chapter1_introduction/)，The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free.
 
-- [2016-Stanford Deep Learning Tutorial #Book#](http://deeplearning.stanford.edu/tutorial/): This tutorial will teach you the main ideas of Unsupervised Feature Learning and Deep Learning. By working through it, you will also get to implement several feature learning/deep learning algorithms, get to see them work for yourself, and learn how to apply/adapt these ideas to new problems.
+- [2016-Stanford Deep Learning Tutorial #Book#](http://deeplearning.stanford.edu/tutorial/): This tutorial will teach you the main ideas of Unsupervised Feature Learning and Deep Learning. By working through it, you will also get to implement several feature learning/deep learning algorithms, get to see them work for yourself, and learn how to apply/adapt these ideas to new problems.
 
 - [2016-深度学习入门 #Book#](https://github.com/PaddlePaddle/book/blob/develop/README.md)：您现在在看的这本书是一本“交互式”电子书：每一章都可以运行在一个 Jupyter Notebook 里。我们把 Jupyter, PaddlePaddle, 以及各种被依赖的软件都打包进一个 Docker image 了。所以您不需要自己来安装各种软件，只需要安装 Docker 即可。
 
-- [2017-Neural Networks and Deep Learning #Book#](http://neuralnetworksanddeeplearning.com/): Neural Networks and Deep Learning is a free online book. The book will teach you about: (1) Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data. (2) Deep learning, a powerful set of techniques for learning in neural networks
+- [2017-Neural Networks and Deep Learning #Book#](http://neuralnetworksanddeeplearning.com/): Neural Networks and Deep Learning is a free online book. The book will teach you about: (1) Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data. (2) Deep learning, a powerful set of techniques for learning in neural networks
 
 - [2017-Deep Learning with Python #Book#](https://github.com/fchollet/deep-learning-with-python-notebooks): Here we have only included the code samples themselves and immediately related surrounding comments.
 
@@ -94,9 +94,9 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 # NLP | 自然语言处理
 
-- [2016-Text Data Management and Analysis #Book#](https://dl.acm.org/citation.cfm?id=2915031): A Practical Introduction to Information Retrieval and Text Mining
+- [2016-Text Data Management and Analysis #Book#](https://dl.acm.org/citation.cfm?id=2915031): A Practical Introduction to Information Retrieval and Text Mining
 
-- [2017-DL4NLP-Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP):
+- [2017-DL4NLP-Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP):
   State of the art resources for NLP sequence modeling tasks such as machine translation, image captioning, and dialog.
 
 - [2017-Li Deng-Deep Learning in Natural Language Processing #Book#](https://parg.co/66P): this book provides comprehensive introduction to and up-to-date review of the state of art in applying deep learning to solve fundamental problems in NLP.
@@ -115,7 +115,7 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2012-深入浅出数据分析-中文版 #Book#](https://book.douban.com/subject/5257905/): 深入浅出数据分析》以类似“章回小说”的活泼形式，生动地向读者展现优秀的数据分析人员应知应会的技术：数据分析基本步骤、实验方法、最优化方法、假设检验方法、贝叶斯统计方法、主观概率法、启发法、直方图法、回归法、误差处理、相关数据库、数据整理技巧；正文之后，意犹未尽地以三篇附录介绍数据分析十大要务、R 工具及 ToolPak 工具，在充分展现目标知识以外，为读者搭建了走向深入研究的桥梁。
 
-- [2014-DataScience From Scratch #Book#](http://shop.oreilly.com/product/0636920033400.do): In this book, you’ll learn how many of the most fundamental data science tools and algorithms work by implementing them from scratch.
+- [2014-DataScience From Scratch #Book#](http://shop.oreilly.com/product/0636920033400.do): In this book, you’ll learn how many of the most fundamental data science tools and algorithms work by implementing them from scratch.
 
 - [2016-Python Data Science Handbook #Book#](https://github.com/jakevdp/PythonDataScienceHandbook):Jupyter Notebooks for the Python Data Science Handbook
 

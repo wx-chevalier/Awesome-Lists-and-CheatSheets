@@ -28,17 +28,17 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 ## CheatSheet
 
-- [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet): An overview of Go syntax and features.
+- [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet): An overview of Go syntax and features.
 
 # Resource
 
 ## Book
 
-- [2015-An Introduction to Programming in Go #Book#](http://www.golang-book.com/): A short, concise introduction to computer programming using the language Go. Designed by Google, Go is a general purpose programming language with modern features, clean syntax and a robust well-documented common library, making it an ideal language to learn as your first programming language.
+- [2015-An Introduction to Programming in Go #Book#](http://www.golang-book.com/): A short, concise introduction to computer programming using the language Go. Designed by Google, Go is a general purpose programming language with modern features, clean syntax and a robust well-documented common library, making it an ideal language to learn as your first programming language.
 
 - [2015-The Go Programming Language #Project#](http://www.gopl.io/): This book is meant to help you start using Go effec tive ly rig ht away and to use it well, taking full advantage of Go’s langu age features and stand ard librar ies to write clear, idiomatic, and efficient programs. [中文译本地址](https://docs.hacknode.org/gopl-zh/)。
 
-- [2016-Learning Go Programming #Book#](https://parg.co/b21): An insightful guide to learning the Go programming language
+- [2016-Learning Go Programming #Book#](https://parg.co/b21): An insightful guide to learning the Go programming language
 
 - [2016-Go Web 编程 #Book#](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/): Go web 编程是因为我喜欢 Web 编程,所以写了这本书,希望大家喜欢。English Version is [Build web application with Golang](https://legacy.gitbook.com/book/astaxie/build-web-application-with-golang/details).
 
@@ -72,6 +72,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2021-Go 语言高性能编程 #Book#](https://geektutu.com/post/high-performance-go.html): 通过学习一些著名的开源项目和 Go 的源码，也掌握了很多编程的技巧，知道怎么写才能获得更好的性能。这些技巧是零散的，我一直希望能够将这些技巧系统地整理出来，不断地完善，最终形成一本高性能编程的指南。因此，开启了 Go 语言高性能编程 这个电子书项目。这个项目刚起步，处于一个逐步完善的过程，与各位童鞋共勉。
 
+- [2021-golang-notes #Book#](https://github.com/cch123/golang-notes): 主要是源码分析，可能也会有一些使用上的知识点。
+
 ## Blog
 
 - [Draveness's Blog #Blog#](https://draveness.me): 非常不错的 Go 系列博客。
@@ -82,11 +84,13 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2018-A Gopher's Reading List #Collection#](https://github.com/enocom/gopher-reading-list): A curated selection of blog posts on Go.
 
-- [Awesome Go #Collection#](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software.
+- [Awesome Go #Collection#](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software.
 
 - [2017-Golang Guide: A List of Top Golang Frameworks, IDEs & Tools #Collection#](https://parg.co/oGO)
 
 - [2021-最全空降 Golang 资料补给包 #Collection#](https://github.com/0voice/Introduction-to-Golang): 【未来服务器端编程语言】最全空降 golang 资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享 ppt
+
+- [2021-Awesome Go Books #Collection#](https://github.com/dariubs/GoBooks): List of Golang books.
 
 ## Course
 
@@ -94,7 +98,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 ## Series
 
-- [2016-Go by Example #Series#](https://gobyexample.com/): Go by Example is a hands-on introduction to Go using annotated example programs. Check out the first example or browse the full list below.
+- [2016-Go by Example #Series#](https://gobyexample.com/): Go by Example is a hands-on introduction to Go using annotated example programs. Check out the first example or browse the full list below.
 
 - [2017-A tour of Go #Project#](https://tour.golang.org/welcome/1): The tour is divided into a list of modules and interactive, These example programs demonstrate different aspects of Go. The programs in the tour are meant to be starting points for your own experimentation.
 
@@ -118,7 +122,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2014-Go Start](https://github.com/alco/gostart): A getting started guide for Go newcomers
 
-- [2017-Go Tooling in Action](https://github.com/campoy/go-tooling-workshop): A workshop covering all the tools gophers use in their day to day life.
+- [2017-Go Tooling in Action](https://github.com/campoy/go-tooling-workshop): A workshop covering all the tools gophers use in their day to day life.
 
 - [2017-Golang command tutorial in Chinese.](https://github.com/hyper0x/go_command_tutorial)
 

@@ -25,3 +25,5 @@
 # Others
 
 - [2005-htop #Project#](https://github.com/hishamhm/htop): htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
+
+- [2021-btop #Project#](https://github.com/aristocratos/btop): Resource monitor that shows usage and stats for processor, memory, disks, network and processes.

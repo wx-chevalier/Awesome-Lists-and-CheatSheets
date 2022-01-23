@@ -1,4 +1,4 @@
-# JVM List
+# JVM List
 
 # Overview
 
@@ -16,7 +16,7 @@
 
 ## Series
 
-- [2017-JVM Anatomy Park #Series#](http://6me.us/oa8): "JVM Anatomy Park" is the mini-post series, where every post is slated to take 5-10 minutes to read (and no more than 2 hours for me to write).
+- [2017-JVM Anatomy Park #Series#](http://6me.us/oa8): "JVM Anatomy Park" is the mini-post series, where every post is slated to take 5-10 minutes to read (and no more than 2 hours for me to write).
 
 - [2020-Java 虚拟机底层原理知识总结 #Series#](https://github.com/doocs/jvm): 这里仅仅记录了一些笔者认为需要重点掌握的 JVM 知识点，如果你想更加全面地了解 JVM 底层原理，可以阅读周志明老师《深入理解 Java 虚拟机——JVM 高级特性与最佳实践(第 2/3 版)》全书。
 

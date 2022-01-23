@@ -28,7 +28,7 @@
 
 - [gh-ost #Project#](https://github.com/github/gh-ost): gh-ost is a triggerless online schema migration solution for MySQL.
 
-- [2017-OnlineSchemaChange #Project#](https://github.com/facebookincubator/OnlineSchemaChange): A tool for performing online schema changes on MySQL.
+- [2017-OnlineSchemaChange #Project#](https://github.com/facebookincubator/OnlineSchemaChange): A tool for performing online schema changes on MySQL.
 
 - [2019-Yearning #Project#](https://github.com/cookieY/Yearning): MYSQL web 端 SQL 审核平台。
 

@@ -4,10 +4,6 @@
 
 - [2018-深入理解 iostat](https://mp.weixin.qq.com/s/nvDudsOmYxLUKblcAtCqng): 现在我们由浅到深地介绍这个工具，它输出的含义什么，介绍它的能力边界，介绍关于这个工具的常见误解。
 
-# Linux（Linux 服务器监控）
-
-- [2019-htop explained](https://peteris.rocks/blog/htop/#before): Explanation of everything you can see in htop/top on Linux.
-
 # Monitor & Alert System | 监控系统
 
 - [2019-一个监控系统的诞生](https://mp.weixin.qq.com/s/YoEzyF8yQRAkWf8ZCpjhGA): 本文主要阐述监控系统的发展历程、监控系统的原理，以及监控系统的项目实践，目的是让大家全面了解监控系统。

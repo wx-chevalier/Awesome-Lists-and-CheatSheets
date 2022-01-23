@@ -24,7 +24,7 @@
 
 - [BRIDGING IN REACT NATIVE](http://tadeuzagallo.com/blog/react-native-bridge/)
 
-- [2017-React Native: developing using best practices](https://parg.co/beC): I am one of those who felt in love at first sight with it, so I will try to find out the best practices that should be applied to a React Native project in order to have an understandable, easily maintainable and scalable, and highly performant mobile app.
+- [2017-React Native: developing using best practices](https://parg.co/beC): I am one of those who felt in love at first sight with it, so I will try to find out the best practices that should be applied to a React Native project in order to have an understandable, easily maintainable and scalable, and highly performant mobile app.
 
 # Build: 构建
 
@@ -40,15 +40,15 @@
 
 - [performance-limitations-of-react-native-and-how-to-overcome-them](https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440#.oftytc7lc)
 
-- [2017-I made React Native fast, you can too](http://6me.us/3Yx9): The purpose of this article is to walk you through how you can use Native tools to track down and fix performance issues in your React Native app.
+- [2017-I made React Native fast, you can too](http://6me.us/3Yx9): The purpose of this article is to walk you through how you can use Native tools to track down and fix performance issues in your React Native app.
 
 - [携程是如何做 React Native 优化的](https://zhuanlan.zhihu.com/p/23715716)
 
 - [2016-React Native 痛点解析之性能调优](http://www.infoq.com/cn/articles/react-native-performance-tuning)：自从 React Native 出世，虽然官方一直尽可能的优化其性能，为了能让其媲美原生 App 的速度，但是现实感觉有点不尽人意。接下来介绍下实践中遇到的一些性能问题以及优化方案。以下对性能参数的依据是来自于 React Native 自带的 FPS Monitor.。
 
-- [Moving Beyond Animations to User Interactions at 60 FPS in React Native](https://hackernoon.com/moving-beyond-animations-to-user-interactions-at-60-fps-in-react-native-b6b1fa0ba525#.s9qc4wo93): The async nature of the React Native bridge incurs an inherent performance penalty, preventing JavaScript code from running at high framerates. Modern animation libraries, like Animated, address this by minimizing passes over the bridge. User interactions, where UI continuously reacts to the user’s gestures, are a step further. How can we run those at 60 FPS?
+- [Moving Beyond Animations to User Interactions at 60 FPS in React Native](https://hackernoon.com/moving-beyond-animations-to-user-interactions-at-60-fps-in-react-native-b6b1fa0ba525#.s9qc4wo93): The async nature of the React Native bridge incurs an inherent performance penalty, preventing JavaScript code from running at high framerates. Modern animation libraries, like Animated, address this by minimizing passes over the bridge. User interactions, where UI continuously reacts to the user’s gestures, are a step further. How can we run those at 60 FPS?
 
-- [5 ways we improved our React Native app](https://parg.co/b93): A real world scenario of enhancing performances.
+- [5 ways we improved our React Native app](https://parg.co/b93): A real world scenario of enhancing performances.
 
 - [2017-React Native Performance in Marketplace](https://parg.co/b2F)
 
@@ -58,14 +58,14 @@
 
 - [Ways to pass objects between native and JavaScript in React Native](https://parg.co/bQj)
 
-- [2017-React Native Performance — An Updated Example](https://hackernoon.com/react-native-performance-an-updated-example-6516bfde9c5c): I’m working on my performance talk for React Amsterdam 2017, which is based on the post “Performance Limitations of React Native and How to Overcome Them”. I’ve decided to freshen up the example we’ll be discussing in order to walk through some exciting new API available today.
+- [2017-React Native Performance — An Updated Example](https://hackernoon.com/react-native-performance-an-updated-example-6516bfde9c5c): I’m working on my performance talk for React Amsterdam 2017, which is based on the post “Performance Limitations of React Native and How to Overcome Them”. I’ve decided to freshen up the example we’ll be discussing in order to walk through some exciting new API available today.
 
-- [2017-React Native for Web #Project# ](https://github.com/necolas/react-native-web): React Native components and APIs for the Web.
+- [2017-React Native for Web #Project# ](https://github.com/necolas/react-native-web): React Native components and APIs for the Web.
 
 ## Production
 
 - [2017-React Native 拆包及热更新方案](http://solart.cc/2017/02/22/react-native-jsbundle_patch)：随着 React Native 的不断发展完善，越来越多的公司选择使用 React Native 替代 iOS/Android 进行部分业务线的开发，也有不少使用 Hybrid 技术的公司转向了 React Native。要说 React Native 最能吸引开发者的地方那就是其拥有前端的开发速度以及原生的体验。
 
-- [2017-11 mistakes I’ve made during React Native / Redux app development](https://parg.co/bQS):  After working almost a year with React Native I decided to describe mistakes that I’ve made while being a beginner.
+- [2017-11 mistakes I’ve made during React Native / Redux app development](https://parg.co/bQS): After working almost a year with React Native I decided to describe mistakes that I’ve made while being a beginner.
 
 - [2017-Powering UberEATS With React Native and Uber Engineering](https://eng.uber.com/ubereats-react-native/)

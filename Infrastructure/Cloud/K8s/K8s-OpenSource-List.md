@@ -16,6 +16,8 @@
 
 - [2021-VMware Tanzu Community Edition #Project#](https://github.com/vmware-tanzu/community-edition): VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.
 
+- [Sealos #Project#](https://github.com/fanux/sealos): 一条命令离线安装高可用 kubernetes，3min 装完，500M，100 年证书，版本不要太全，生产环境稳如老狗
+
 ## CLI & UI Tools
 
 - [Wayne #Project#](https://github.com/Qihoo360/wayne): Web UI for Kubernetes multi-clusters

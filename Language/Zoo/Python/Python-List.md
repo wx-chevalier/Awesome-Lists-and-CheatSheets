@@ -2,7 +2,7 @@
 
 # Overview | 概述
 
-- [2017-Yes, Python is Slow, and I Don’t Care](https://hackernoon.com/yes-python-is-slow-and-i-dont-care-13763980b5a1): A rant on sacrificing performance for productivity.
+- [2017-Yes, Python is Slow, and I Don’t Care](https://hackernoon.com/yes-python-is-slow-and-i-dont-care-13763980b5a1): A rant on sacrificing performance for productivity.
 
 - [2017-Writing a basic x86-64 JIT compiler from scratch in stock Python](https://csl.name/post/python-jit/): In this post I'll show how to write a rudimentary, native x86-64 just-in-time compiler (JIT) in CPython, using only the built-in modules.
 
@@ -60,11 +60,11 @@
 
 # Tutoria | 教程
 
-- [2017-Python for JavaScript Developers](https://dev.to/underdogio/python-for-javascript-developers): To serve as a quick guide for JavaScript developers who want to get up to speed quickly with Python, but without having to learn what declaring a variable means or what a function is.
+- [2017-Python for JavaScript Developers](https://dev.to/underdogio/python-for-javascript-developers): To serve as a quick guide for JavaScript developers who want to get up to speed quickly with Python, but without having to learn what declaring a variable means or what a function is.
 
 - [三天搞定 Python](https://zhuanlan.zhihu.com/p/21332075)
 
-- [Interactive Coding Challenges](https://parg.co/bhs): Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki Flashcards.
+- [Interactive Coding Challenges](https://parg.co/bhs): Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki Flashcards.
 
 - [wtfpython #Series#](https://github.com/leisurelicht/wtfpython-cn): 这个有趣的项目意在收集 Python 中那些难以理解和反人类直觉的例子以及鲜为人知的功能特性, 并尝试讨论这些现象背后真正的原理!
 

@@ -6,7 +6,7 @@
 
 - [分布式系统服务 ZooKeeper 的学习历程](https://github.com/llohellohe/zookeeper)
 
-- [Registrator](http://gliderlabs.com/registrator/latest/user/quickstart/): Service registry bridge for Docker.
+- [Registrator](http://gliderlabs.com/registrator/latest/user/quickstart/): Service registry bridge for Docker.
 
 - [Exploring Performance of etcd, Zookeeper and Consul Consistent Key-value Datastores](https://coreos.com/blog/performance-of-etcd.html)
 

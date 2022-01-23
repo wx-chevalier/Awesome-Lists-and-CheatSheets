@@ -2,21 +2,21 @@
 
 - [2016-TypeScript vs Flow](https://github.com/niieani/typescript-vs-flowtype): Differences between Flowtype and TypeScript -- syntax and usability
 
-- [2017-Type systems will make you a better JavaScript programmer](http://jaredforsyth.com/type-systems-js-dev/#/5): Managing large JavaScript codebases is challenging — whenever we casually pass objects from Chrome’s JavaScript to Objective-C just to receive a callback on a different thread in Node.js, we need a guarantee that the individual pieces fit together.
+- [2017-Type systems will make you a better JavaScript programmer](http://jaredforsyth.com/type-systems-js-dev/#/5): Managing large JavaScript codebases is challenging — whenever we casually pass objects from Chrome’s JavaScript to Objective-C just to receive a callback on a different thread in Node.js, we need a guarantee that the individual pieces fit together.
 
-- [2017-Adopting Flow & TypeScript](http://thejameskyle.com/adopting-flow-and-typescript.html): A comparison between the two on-boarding processes.
+- [2017-Adopting Flow & TypeScript](http://thejameskyle.com/adopting-flow-and-typescript.html): A comparison between the two on-boarding processes.
 
 - [Flow vs TypeScript Type Systems for JavaScript](http://djcordhose.github.io/flow-vs-typescript/flow-typescript-2.html#/)
 
-- [Why use static types in JavaScript? #Series#](https://medium.com/@preethikasireddy/why-use-static-types-in-javascript-part-1-8382da1e0adb): Note that I chose Flow over TypeScript in the examples in this post because of my familiarity with it.
+- [Why use static types in JavaScript? #Series#](https://medium.com/@preethikasireddy/why-use-static-types-in-javascript-part-1-8382da1e0adb): Note that I chose Flow over TypeScript in the examples in this post because of my familiarity with it.
 
 # Runtime Type Information
 
-- [2017-Runtime type information for JavaScript](https://parg.co/bB5): Chrome’s V8 can now collect type information at runtime.
+- [2017-Runtime type information for JavaScript](https://parg.co/bB5): Chrome’s V8 can now collect type information at runtime.
 
 # Flow
 
-- [2017-What I Love and Hate About Flow](https://parg.co/bBP): I’m not talking about incontinence, that’s flomax!
+- [2017-What I Love and Hate About Flow](https://parg.co/bBP): I’m not talking about incontinence, that’s flomax!
 
 - [Flow 中的联结类型使用详解](https://zhuanlan.zhihu.com/p/26401539)
 
@@ -32,7 +32,7 @@
 
 ## Resource | 资源
 
-- [2016-awesome-flow](https://github.com/dustinspecker/awesome-flow): A list of awesome Flow integrations, tools, tutorials, etc.
+- [2016-awesome-flow](https://github.com/dustinspecker/awesome-flow): A list of awesome Flow integrations, tools, tutorials, etc.
 
 ## Syntax | 语法介绍
 

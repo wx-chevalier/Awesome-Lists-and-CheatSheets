@@ -12,11 +12,11 @@
 
 - [人工智能有哪些误区？](https://www.zhihu.com/question/45635116/answer/132528151)
 
-- [Artificial Intelligence, Machine Learning, and Deep Learning](http://6me.us/daVig): How they’re different and why are they all essential to the Internet of Things.
+- [Artificial Intelligence, Machine Learning, and Deep Learning](http://6me.us/daVig): How they’re different and why are they all essential to the Internet of Things.
 
-- [Difference between Machine Learning, Data Science, AI, Deep Learning, and Statistics](http://6me.us/4cjZL): In this article, I clarify the various roles of the data scientist, and how data science compares and overlaps with related fields such as machine learning, deep learning, AI, statistics, IoT, operations research, and applied mathematics.
+- [Difference between Machine Learning, Data Science, AI, Deep Learning, and Statistics](http://6me.us/4cjZL): In this article, I clarify the various roles of the data scientist, and how data science compares and overlaps with related fields such as machine learning, deep learning, AI, statistics, IoT, operations research, and applied mathematics.
 
-- [2017-Teachable Machine](https://github.com/googlecreativelab/teachable-machine): Explore how machine learning works, live in the browser. No coding required.
+- [2017-Teachable Machine](https://github.com/googlecreativelab/teachable-machine): Explore how machine learning works, live in the browser. No coding required.
 
 ## CheatSheet | 清单
 
@@ -52,7 +52,7 @@
 
 - [人工智能从入门到进阶，机器之心高分技术文章全集 #Collection#](http://mp.weixin.qq.com/s/o6egF1_usHSXZCZJ1RTfhQ)
 
-- [Distill #Collection#](http://distill.pub/): The web is a powerful medium to share new ways of thinking.
+- [Distill #Collection#](http://distill.pub/): The web is a powerful medium to share new ways of thinking.
 
 - [2017-Awesome Data Science #Collection#](https://github.com/bulutyazilim/awesome-datascience): An open source Data Science repository to learn and apply towards solving real world problems.
 

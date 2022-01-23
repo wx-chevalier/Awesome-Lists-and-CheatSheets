@@ -22,6 +22,6 @@
 
 # Stream | 流
 
-- [2017-Java Streams cheat sheet](https://zeroturnaround.com/rebellabs/java-8-streams-cheat-sheet/): This blog post discusses the streams API, but if you’re impatient, here’s the 1 page Java 8 streams cheat sheet, click on it, save it, print it out!
+- [2017-Java Streams cheat sheet](https://zeroturnaround.com/rebellabs/java-8-streams-cheat-sheet/): This blog post discusses the streams API, but if you’re impatient, here’s the 1 page Java 8 streams cheat sheet, click on it, save it, print it out!
 
 - [2018-The Java 8 Stream API Tutorial](https://www.baeldung.com/java-8-streams): In this in-depth tutorial, we will go through the practical usage of Java 8 Streams from creation to parallel execution.

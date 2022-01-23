@@ -16,13 +16,13 @@
 
 - [Threading in Java](https://medium.com/@behzodbekqodirov/threading-java-541bd986647d#.lmwvdmeje)
 
-- [2017-面试小结之并发篇](http://ginobefunny.com/post/java_concurrent_interview_questions/)：最近面试一些公司，被问到的关于 Java  并发编程的问题，以及自己总结的回答。
+- [2017-面试小结之并发篇](http://ginobefunny.com/post/java_concurrent_interview_questions/)：最近面试一些公司，被问到的关于 Java 并发编程的问题，以及自己总结的回答。
 
 - [2017-所有对象都自动含有单一的锁与一个对象可以被多次加锁的矛盾？](https://parg.co/bO2)
 
 - [2017-Java 线程池的理论与实践](http://www.jianshu.com/p/0478e283cfef)：本文将会包含以下内容：Java 中的 Thread 与操作系统中的线程的关系、线程切换的各种开销、ThreadGroup 存在的意义、使用线程池减少线程开销、Executor 的概念、ThreadPoolExecutor 中的一些具体实现、如何监控线程的健康、参考 ThreadPoolExecutor 来设计适合自己的线程模型。
 
-- [2017-Using the Timer Class to Schedule Tasks](https://dzone.com/articles/using-timer-class-to-schedule-tasks): Setting up simple scheduled tasks within an app is easy with the Timer class. There's a lot of versatility in the class, giving you plenty of customization.
+- [2017-Using the Timer Class to Schedule Tasks](https://dzone.com/articles/using-timer-class-to-schedule-tasks): Setting up simple scheduled tasks within an app is easy with the Timer class. There's a lot of versatility in the class, giving you plenty of customization.
 
 - [Using the Timer Class to Schedule Tasks](https://dzone.com/articles/using-timer-class-to-schedule-tasks)
 

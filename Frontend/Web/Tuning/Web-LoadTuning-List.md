@@ -124,4 +124,4 @@
 
 - [Picturefill #Project#](https://github.com/scottjehl/picturefill)
 
-- [2017-Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images): In this article, I’ll be explaining some of the key concepts for responsive images, as well as providing an overview of a few different responsive image tactics.
+- [2017-Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images): In this article, I’ll be explaining some of the key concepts for responsive images, as well as providing an overview of a few different responsive image tactics.

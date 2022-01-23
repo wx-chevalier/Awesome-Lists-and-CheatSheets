@@ -52,7 +52,7 @@
 
 ## Business Intelligence
 
-- [Apache Superset](https://github.com/apache/incubator-superset): Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application. [Superset: Airbnb’s data exploration platform](https://parg.co/bIh)
+- [Apache Superset](https://github.com/apache/incubator-superset): Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application. [Superset: Airbnb’s data exploration platform](https://parg.co/bIh)
 
 - [Grid studio #Project#](https://github.com/ricklamers/gridstudio): Grid studio is a web-based spreadsheet application with full integration of the Python programming language.
 
@@ -81,6 +81,8 @@
 - [DataX #Project#](https://github.com/alibaba/DataX): 阿里巴巴集团内被广泛使用的离线数据同步工具/平台
 
 - [dbt #Project#](https://github.com/fishtown-analytics/dbt): dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+
+- [2021-SeaTunnel #Project#](https://github.com/apache/incubator-seatunnel): SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
 
 ## CDC & Data Pipeline
 

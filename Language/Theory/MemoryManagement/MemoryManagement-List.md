@@ -2,7 +2,7 @@
 
 - [2015-Memory Management Reference #Series#](http://www.memorymanagement.org/mmref/index.html): This is a resource for programmers and computer scientists interested in memory management and garbage collection.
 
-- [2017-Memory Management List #Series#](http://www.memorymanagement.org/index.html): This is a resource for programmers and computer scientists interested in memory management and garbage collection.
+- [2017-Memory Management List #Series#](http://www.memorymanagement.org/index.html): This is a resource for programmers and computer scientists interested in memory management and garbage collection.
 
 - [2018-Understanding the C/C++ memory model](https://parg.co/UiJ): I’m going to try to set out my understanding of the model, which is hopefully correct, in more straightforward terms and with a more “ground up” explanation.
 

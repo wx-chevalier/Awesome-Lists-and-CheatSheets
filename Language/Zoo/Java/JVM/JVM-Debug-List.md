@@ -4,7 +4,7 @@
 
 - [JVM 监控与调优](http://my.oschina.net/91jason/blog/493870?p={{page}})
 
-- [2017-The State of Debugging in Java](https://dzone.com/articles/the-state-of-debugging-in-java): Debugging has come a long way from the jdb days. Here, we cover the variety of Java debuggers out there and some common practices devs use.
+- [2017-The State of Debugging in Java](https://dzone.com/articles/the-state-of-debugging-in-java): Debugging has come a long way from the jdb days. Here, we cover the variety of Java debuggers out there and some common practices devs use.
 
 - [2017-JVM Statistics with jstat](https://www.javacodegeeks.com/2017/05/jvm-statistics-jstat.html)
 

@@ -10,7 +10,7 @@
 
 ## CheatSheet
 
-- [Java Programming Cheatsheet From Princeton](http://introcs.cs.princeton.edu/java/11cheatsheet/): This appendix summarizes the most commonly-used Java language features in the textbook.
+- [Java Programming Cheatsheet From Princeton](http://introcs.cs.princeton.edu/java/11cheatsheet/): This appendix summarizes the most commonly-used Java language features in the textbook.
 
 - [2017-Java 语法清单](https://zhuanlan.zhihu.com/p/25578170)
 
@@ -22,11 +22,11 @@
 
 ## Book | 书籍
 
-- [2015-Pro Java 8 Programming-3rd #Book#](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
+- [2015-Pro Java 8 Programming-3rd #Book#](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
 
 - [2015-The CERT ® Oracle ® Secure Coding Standard for Java #Book#](https://ptgmedia.pearsoncmg.com/images/9780321803955/samplepages/0321803957.pdf)
 
-- [2017-Think Java #Book#](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
+- [2017-Think Java #Book#](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
 
 - [2017-Introduction To Programming In Java #Book#](http://introcs.cs.princeton.edu/java/home/): Princeton 出品的 Java 入门书籍
 
@@ -56,7 +56,7 @@
 
 ## Blog | 博客
 
-- [Novixys Software Dev Blog #Blog#](http://www.novixys.com/blog/): [Using Timer Class to Schedule Tasks](http://www.novixys.com/blog/using-timer-schedule-tasks/)
+- [Novixys Software Dev Blog #Blog#](http://www.novixys.com/blog/): [Using Timer Class to Schedule Tasks](http://www.novixys.com/blog/using-timer-schedule-tasks/)
 
 - [Java Weekly #Blog#](http://www.thoughts-on-java.org/java-weekly/)
 
@@ -80,7 +80,7 @@
 
 - [Java 程序员们值得一看的好书推荐 #Collection#](https://zhuanlan.zhihu.com/p/23444919)
 
-- [2017-Best Java Sites #Collection#](http://www.baeldung.com/java-blogs): There are several “Top Java Blogs” pages out there – but also a lot of noise. Some of these blogs are abandoned with the last postin 2008, some have simply switched focused from Java to something else. Others are gone altogether.
+- [2017-Best Java Sites #Collection#](http://www.baeldung.com/java-blogs): There are several “Top Java Blogs” pages out there – but also a lot of noise. Some of these blogs are abandoned with the last postin 2008, some have simply switched focused from Java to something else. Others are gone altogether.
 
 - [Java 学习中的 99 个实践问题 #Collection#](https://github.com/shekhargulati/99-problems/blob/master/java8/README.md)
 
@@ -122,7 +122,7 @@
 
 ## Java 8
 
-- [2017-Java 8 Tutorial](https://www.mkyong.com/tutorials/java-8-tutorials/): Some Java 8 examples, hope you like it.
+- [2017-Java 8 Tutorial](https://www.mkyong.com/tutorials/java-8-tutorials/): Some Java 8 examples, hope you like it.
 
 - [2017-Java 8 Top Tips by Jetbrains](https://blog.jetbrains.com/idea/2016/07/java-8-top-tips/)
 
@@ -130,17 +130,17 @@
 
 ## Java 9
 
-- [2016-Java 9 Features](http://www.journaldev.com/13121/java-9-features-with-examples): Oracle Corporation is going to release Java SE 9 around end of March 2017. In this post, I’m going to discuss about “Java 9 Features” briefly with some examples. 中文译文参考[这里](http://6me.us/UFu)。
+- [2016-Java 9 Features](http://www.journaldev.com/13121/java-9-features-with-examples): Oracle Corporation is going to release Java SE 9 around end of March 2017. In this post, I’m going to discuss about “Java 9 Features” briefly with some examples. 中文译文参考[这里](http://6me.us/UFu)。
 
 - [2017-Top Resources to Get Started with Java 9](https://www.sitepoint.com/java-9-resources/)
 
 - [Java 9 series: Variable Handles](https://www.voxxed.com/blog/2016/11/java-9-series-variable-handles/?utm_source=mybridge&utm_medium=ios&utm_campaign=read_more)
 
-- [2017-Java 8 Vs. Java 9: Get Ready for a New Era](https://www.romexsoft.com/blog/java-8-vs-java-9/): Learn what’s new in Java 9 - a comprehensive overview for business owners and developers.
+- [2017-Java 8 Vs. Java 9: Get Ready for a New Era](https://www.romexsoft.com/blog/java-8-vs-java-9/): Learn what’s new in Java 9 - a comprehensive overview for business owners and developers.
 
-- [2017-Java 9 Articles #Series#](https://blog.idrsolutions.com/2017/06/java-9-articles-series-index/): In this series we have put together some tutorials to explain what they are, why they are useful andquickly show you how to use them.
+- [2017-Java 9 Articles #Series#](https://blog.idrsolutions.com/2017/06/java-9-articles-series-index/): In this series we have put together some tutorials to explain what they are, why they are useful andquickly show you how to use them.
 
-- [2017-Wrapping up Java 9 new Features](https://aboullaite.me/wrapping-up-java-9-new-features/): In this write up we’re going to have quick, high level look at some of the new features;
+- [2017-Wrapping up Java 9 new Features](https://aboullaite.me/wrapping-up-java-9-new-features/): In this write up we’re going to have quick, high level look at some of the new features;
 
 ## Online Playground | 在线实践
 

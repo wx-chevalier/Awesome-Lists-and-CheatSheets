@@ -2,7 +2,7 @@
 
 - [2017-我必须得告诉大家的 MySQL 优化原理](http://www.jianshu.com/p/d7665192aaaf)：理解这些优化建议背后的原理就尤为重要，希望本文能让你重新审视这些优化建议，并在实际业务场景下合理的运用。
 
-- [2017-巧用复合索引，有效降低系统 IO](https://mp.weixin.qq.com/s/G-UXWThBC9lH0f-Nx6UCBg):  今天我们将围绕 B\*Tree 索引的使用，解读如何合理地使用索引，以及如何通过正确的索引来提高性能。
+- [2017-巧用复合索引，有效降低系统 IO](https://mp.weixin.qq.com/s/G-UXWThBC9lH0f-Nx6UCBg): 今天我们将围绕 B\*Tree 索引的使用，解读如何合理地使用索引，以及如何通过正确的索引来提高性能。
 
 - [解开发者之痛：中国移动 MySQL 数据库优化最佳实践](http://www.tuicool.com/articles/MFjeIrm)
 

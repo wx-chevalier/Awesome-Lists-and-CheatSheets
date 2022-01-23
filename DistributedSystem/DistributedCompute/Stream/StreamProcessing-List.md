@@ -38,4 +38,4 @@
 
 - [Differential dataflow roadmap](https://github.com/frankmcsherry/blog/blob/master/posts/2016-07-26.md)
 
-- [Microsoft differential-dataflow](https://www.microsoft.com/en-us/research/publication/differential-dataflow/)
+- [Microsoft differential-dataflow](https://www.microsoft.com/en-us/research/publication/differential-dataflow/)
