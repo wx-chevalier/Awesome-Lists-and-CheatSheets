@@ -18,6 +18,10 @@
 
 - [2019-Micro Frontends](https://martinfowler.com/articles/micro-frontends.html): In this article we'll describe a recent trend of breaking up frontend monoliths into many smaller, more manageable pieces, and how this architecture can increase the effectiveness and efficiency of teams working on frontend code.
 
+## 基于 iFrame 的微前端方案
+
+- [基于 iframe 的全新微前端方案](https://mp.weixin.qq.com/s/6ioo7xXngaOaWBaqcNFalg): iframe是一个天然的微前端方案，但受限于跨域的严格限制而无法很好的应用，本文介绍一种基于 iframe 的全新微前端方案，继承iframe的优点，补足 iframe 的缺点，让 iframe 焕发新生。
+
 # Large-scale Applications
 
 - [2019-How to build a plugin system on the web and also sleep well at night](https://www.figma.com/blog/how-we-built-the-figma-plugin-system/): Since we published this blog post, we decided to change our sandbox implementation to an alternative approach: compiling a JavaScript VM written in C to WebAssembly. As you'll see in the blog post below, it was one of several ideas we originally weighed.
