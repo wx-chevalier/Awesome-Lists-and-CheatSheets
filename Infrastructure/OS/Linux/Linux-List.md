@@ -16,6 +16,8 @@
 
 - [2021-The Linux Kernel Module Programming Guide #Book#](https://github.com/sysprog21/lkmpg): This project keeps the Linux Kernel Module Programming Guide reasonably up to date, with working examples for recent 5.x kernel versions. The guide has been around since 2001 and most copies of it on the web only describe old 2.6.x kernels.
 
+- [2022-品读 Linux 0.11 核心代码 #Book#](https://github.com/sunym1993/flash-linux0.11-talk): 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码。
+
 # Tutorial
 
 ## Playground
