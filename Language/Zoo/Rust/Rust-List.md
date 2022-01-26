@@ -46,6 +46,8 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2017-Rust Essentials-2nd #Book#](https://parg.co/UPI): Leverage the functional programming and concurrency features of Rust and speed up your application development.
 
+- [Rust 语言圣经 #Book#](https://course.rs/into-rust.html): Rust 语言圣经涵盖从入门到精通所需的全部 Rust 知识，目录及内容都经过深思熟虑的设计，同时语言生动幽默，行文流畅自如，摆脱技术书籍常有的机器味和晦涩感。
+
 ## Collection
 
 - [Rust Books #Collection#](https://github.com/sger/RustBooks): 一系列对于 Rust 书籍的搜集。

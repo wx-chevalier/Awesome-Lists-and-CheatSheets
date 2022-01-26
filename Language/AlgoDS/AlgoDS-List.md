@@ -44,6 +44,8 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2021-algorithm-base #Book#](https://github.com/chefyuan/algorithm-base): 专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！
 
+- [2022-算法通关手册（LeetCode）](https://algo.itcharge.cn/): 本书不仅仅只是一本算法题解书，更是一本算法与数据结构基础知识的讲解书。本书易于理解，没有大跨度的思维跳跃，书中使用部分图示、例子来帮助理解。本书先从基础的数据结构和算法开始讲解，再针对不同分类的数据结构和算法，进行具体题目的讲解分析。让读者可以通过「算法基础理论学习」和「编程实战学习」相结合的方式，彻底的掌握算法知识。
+
 ## Collection
 
 - [2018-algorithms #Project#](https://github.com/marcosfede/algorithms): Solved algorithms and data structures problems in many languages.
