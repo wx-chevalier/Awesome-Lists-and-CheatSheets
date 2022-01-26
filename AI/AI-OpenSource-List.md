@@ -22,6 +22,8 @@
 
 - [2020-MegEngine #Project#](https://github.com/MegEngine/MegEngine): MegEngine 是一个快速、可拓展、易于使用且支持自动求导的数值计算框架。
 
+- [2021-Kedro #Project#](https://github.com/kedro-org/kedro): Kedro is an open-source Python framework for creating reproducible, maintainable and modular data science code. It borrows concepts from software engineering and applies them to machine-learning code; applied concepts include modularity, separation of concerns and versioning.
+
 ## TensorFlow
 
 - [tensorflow-playground](https://github.com/tensorflow/playground): Play with neural networks!

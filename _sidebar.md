@@ -79,10 +79,11 @@
       - [4.4.10 Network](/Specials/Tools%20&%20Projects/Network.md)
       - [4.4.11 OS](/Specials/Tools%20&%20Projects/OS.md)
       - [4.4.12 Productivity](/Specials/Tools%20&%20Projects/Productivity.md)
-      - [4.4.13 Startup](/Specials/Tools%20&%20Projects/Startup.md)
-      - [4.4.14 Teamwork](/Specials/Tools%20&%20Projects/Teamwork.md)
-      - [4.4.15 Terminal](/Specials/Tools%20&%20Projects/Terminal.md)
-      - [4.4.16 UGC](/Specials/Tools%20&%20Projects/UGC.md)
+      - [4.4.13 Self hosting](/Specials/Tools%20&%20Projects/Self-hosting.md)
+      - [4.4.14 Startup](/Specials/Tools%20&%20Projects/Startup.md)
+      - [4.4.15 Teamwork](/Specials/Tools%20&%20Projects/Teamwork.md)
+      - [4.4.16 Terminal](/Specials/Tools%20&%20Projects/Terminal.md)
+      - [4.4.17 UGC](/Specials/Tools%20&%20Projects/UGC.md)
     - [4.5 Weekly](/Specials/Weekly/README.md)
       - 4.5.1 
         - 4.5.1.1 

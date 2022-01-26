@@ -49,3 +49,5 @@
 - [gallery-dl #Project#](https://github.com/mikf/gallery-dl): Command-line program to download image-galleries and -collections from several image hosting sites
 
 - [annie #Project#](https://github.com/iawia002/annie): 👾 Fast, simple and clean video downloader.
+
+- [Hitomi-Downloader #Project#](https://github.com/KurtBestor/Hitomi-Downloader): 🍰 Desktop utility to download images/videos/music/text from various websites, and more.

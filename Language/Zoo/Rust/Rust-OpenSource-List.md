@@ -20,6 +20,8 @@
 
 - [Hackernews sauron #Project#](https://github.com/ivanceras/hackernews-sauron): A fast, resilient, isomorphic hacker news clone in ~1k lines of rust.
 
+- [rnote #Project#](https://github.com/flxzt/rnote): A simple drawing application to create handwritten notes.
+
 ## JavaScript Engine
 
 - [boa](https://github.com/jasonwilliams/boa): Javascript engine written in Rust
