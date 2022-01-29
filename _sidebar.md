@@ -825,6 +825,8 @@
         - [9.5.4.1 OST List](/Infrastructure/OS/Theory/OST-List.md)
       - 9.5.5 Windows
         - [9.5.5.1 Windows List](/Infrastructure/OS/Windows/Windows-List.md)
+    - 9.6 Web3
+      - [9.6.1 Web3 List](/Infrastructure/Web3/Web3-List.md)
   - 10 AI
     - [10.1 AI Book List](/AI/AI-Book-List.md)
     - [10.2 AI Course List](/AI/AI-Course-List.md)
