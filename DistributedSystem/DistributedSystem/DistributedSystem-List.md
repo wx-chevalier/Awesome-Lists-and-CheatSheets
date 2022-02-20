@@ -72,4 +72,4 @@
 
 ## Series
 
-- [2020-Patterns of Distributed Systems #Series#](https://martinfowler.com/articles/patterns-of-distributed-systems/): This article recognizes and develops these solutions as patterns, with which we can build up an understanding of how to better understand, communicate and teach distributed system design.
+- [2020-Patterns of Distributed Systems #Series#](https://martinfowler.com/articles/patterns-of-distributed-systems/): This article recognizes and develops these solutions as patterns, with which we can build up an understanding of how to better understand, communicate and teach distributed system design. [《分布式系统模式》中文版](https://github.com/dreamhead/patterns-of-distributed-systems)。

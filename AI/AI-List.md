@@ -18,6 +18,8 @@
 
 - [2017-Teachable Machine](https://github.com/googlecreativelab/teachable-machine): Explore how machine learning works, live in the browser. No coding required.
 
+- [2022-AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap): Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a data scientist, machine learning or an AI expert. We made these charts for our new employees to make them AI Experts but we wanted to share them here to help the community.
+
 ## CheatSheet | 清单
 
 - [2017-Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://parg.co/bad)

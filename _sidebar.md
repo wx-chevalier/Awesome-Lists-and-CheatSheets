@@ -58,10 +58,11 @@
     - [4.1 Awesome Specials](/Specials/Awesome-Specials.md)
     - 4.2 Collections
       - [4.2.1 Awesome DataSets](/Specials/Collections/Awesome-DataSets.md)
-      - [4.2.2 Awesome Learnings](/Specials/Collections/Awesome-Learnings.md)
-      - [4.2.3 Awesome Names](/Specials/Collections/Awesome-Names.md)
-      - [4.2.4 Awesome Tools](/Specials/Collections/Awesome-Tools.md)
-      - [4.2.5 Awesome Vision](/Specials/Collections/Awesome-Vision.md)
+      - [4.2.2 Awesome Entertainments](/Specials/Collections/Awesome-Entertainments.md)
+      - [4.2.3 Awesome Learnings](/Specials/Collections/Awesome-Learnings.md)
+      - [4.2.4 Awesome Names](/Specials/Collections/Awesome-Names.md)
+      - [4.2.5 Awesome Tools](/Specials/Collections/Awesome-Tools.md)
+      - [4.2.6 Awesome Vision](/Specials/Collections/Awesome-Vision.md)
     - 4.3 Showcases
       - [4.3.1 Awesome Codebases](/Specials/Showcases/Awesome-Codebases.md)
       - [4.3.2 Awesome DataVis](/Specials/Showcases/Awesome-DataVis.md)
