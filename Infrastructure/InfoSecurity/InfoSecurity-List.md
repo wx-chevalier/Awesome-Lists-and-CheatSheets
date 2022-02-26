@@ -24,7 +24,9 @@
 
 - [各种安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map)
 
-- [Security 101 for SaaS startups](https://github.com/forter/security-101-for-saas-startups): Things I wish my first boss had told me   
+- [Security 101 for SaaS startups](https://github.com/forter/security-101-for-saas-startups): Things I wish my first boss had told me
+
+- [2022-How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything): How to systematically secure anything: a repository about security engineering
 
 # Resource
 
