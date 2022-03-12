@@ -66,7 +66,9 @@
 
 ## Utils
 
-- [go-funk #{rpkecy](https://github.com/thoas/go-funk): go-funk is a modern Go library based on reflect.
+- [go-funk #{rpkecy #Project#](https://github.com/thoas/go-funk): go-funk is a modern Go library based on reflect.
+
+- [lo #Project#](https://github.com/samber/lo): 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 
 ### Dependence Injection
 

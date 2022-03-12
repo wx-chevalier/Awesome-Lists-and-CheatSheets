@@ -32,8 +32,9 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [CDK #Project#](https://github.com/cdk-team/CDK): CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily.
 
-- [Dronesploit #Project#](https://github.com/dhondta/dronesploit):
-  This CLI framework is based on sploitkit and is an attempt to gather hacking techniques and exploits especially focused on drone hacking. For the ease of use, the interface has a layout that looks like Metasploit.
+- [Dronesploit #Project#](https://github.com/dhondta/dronesploit): This CLI framework is based on sploitkit and is an attempt to gather hacking techniques and exploits especially focused on drone hacking. For the ease of use, the interface has a layout that looks like Metasploit.
+
+- [Traitor #Project#](https://github.com/liamg/traitor): Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
 ## POC Framework | POC 框架
 
