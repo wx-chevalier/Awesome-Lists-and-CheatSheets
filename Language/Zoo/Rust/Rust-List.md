@@ -50,6 +50,8 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [Rust By Practice #Book#](https://github.com/sunface/rust-by-practice): Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev.
 
+- [2022-Zero To Production In Rust #Book#](https://github.com/LukeMathWalker/zero-to-production): Zero To Production In Rust is an opinionated introduction to backend development using Rust.
+
 ## Collection
 
 - [Rust Books #Collection#](https://github.com/sger/RustBooks): 一系列对于 Rust 书籍的搜集。
