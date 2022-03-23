@@ -72,6 +72,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2018-Reinforcement Learning: An Introduction-Second Edition #Book#](https://parg.co/Y6M): This textbook provides a clear and simple account of the key ideas and algorithms of reinforcement learning that is accessible to readers in all the related disciplines. Familiarity with elementary concepts of probability is required.
 
+- [2021-蘑菇书 EasyRL #Book#](https://github.com/datawhalechina/easy-rl): 李宏毅老师的《深度强化学习》是强化学习领域经典的中文视频之一。李老师幽默风趣的上课风格让晦涩难懂的强化学习理论变得轻松易懂，他会通过很多有趣的例子来讲解强化学习理论。比如老师经常会用玩 Atari 游戏的例子来讲解强化学习算法。此外，为了教程的完整性，我们整理了周博磊老师的《强化学习纲要》、李科浇老师的《世界冠军带你从零实践强化学习》以及多个强化学习的经典资料作为补充。对于想入门强化学习又想看中文讲解的人来说绝对是非常推荐的。
+
 # DeepLearning | 深度学习
 
 - [2015-Goodfellow, Bengio and Courville-The Deep Learning Textbook #Book#](http://www.deeplearningbook.org/):中文译本[这里](https://exacity.github.io/deeplearningbook-chinese/Chapter1_introduction/)，The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free.
