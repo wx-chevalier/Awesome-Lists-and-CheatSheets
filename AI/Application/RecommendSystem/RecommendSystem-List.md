@@ -60,6 +60,8 @@
 
 - [2021-gorse #Project#](https://github.com/zhenghaoz/gorse): An open source recommender system service written in Go.
 
+- [2022-MetaRank #Project#](https://github.com/metarank/metarank): A low code Machine Learning tool that personalizes product listings, articles, recommendations, and search results in order to boost sales. A friendly Learn-to-Rank engine
+
 ## Showcase
 
 - [RSAlgorithms #Project#](https://github.com/hongleizhang/RSAlgorithms): Some algorithms about traditional and social recommendation.
