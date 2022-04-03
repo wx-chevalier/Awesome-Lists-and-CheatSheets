@@ -1,5 +1,7 @@
 # Terminal & CLI
 
+- [difftastic #Project#](https://github.com/Wilfred/difftastic): a diff that understands syntax 🟥🟩
+
 # Shell
 
 - [Zsh #Project#](https://www.zsh.org/): Zsh is a shell designed for interactive use, although it is also a powerful scripting language. More information can be found on the "Zsh Web Pages" sites.

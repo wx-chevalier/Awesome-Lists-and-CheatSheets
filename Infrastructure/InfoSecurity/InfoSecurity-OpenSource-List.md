@@ -14,6 +14,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [awesome-pentest #Project#](https://github.com/enaqx/awesome-pentest): A collection of awesome penetration testing resources, tools and other shiny things
 
+- [hackingtool #Project#](https://github.com/Z4nzu/hackingtool): All in One Hacking tool For Hackers🥇
+
 # Universal Penetration Tools/Scanners
 
 ## Exploitation Toolkit | 渗透框架/工具

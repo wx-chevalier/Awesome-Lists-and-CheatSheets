@@ -58,6 +58,8 @@
 
 - [StyleFlow #Project#](https://github.com/RameenAbdal/StyleFlow): Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows
 
+- [EG3D #Project#](https://github.com/NVlabs/eg3d): Efficient Geometry-aware 3D Generative Adversarial Networks.
+
 # 量化交易
 
 - [2019-TensorTrade #Project#](https://github.com/notadamking/tensortrade): An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
