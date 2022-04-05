@@ -312,6 +312,7 @@
         - [5.4.6.8 JavaScript Pattern List](/Language/Zoo/JavaScript/JavaScript-Pattern-List.md)
         - [5.4.6.9 JavaScript TypeSystem List](/Language/Zoo/JavaScript/JavaScript-TypeSystem-List.md)
         - [5.4.6.10 TypeScript List](/Language/Zoo/JavaScript/TypeScript-List.md)
+        - [5.4.6.11 TypeScript OpenSource List](/Language/Zoo/JavaScript/TypeScript-OpenSource-List.md)
       - 5.4.7 Lisp
         - [5.4.7.1 Lisp List](/Language/Zoo/Lisp/Lisp-List.md)
       - 5.4.8 PHP

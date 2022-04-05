@@ -91,11 +91,3 @@
 - [jsjs #Project#](https://github.com/bramblex/jsjs): 简易的 JavaScript 元循环解释器。
 
 - [vm.js #Project#](https://github.com/axetroy/vm.js): Javascript Interpreter, run Javascript code in ECMAScript
-
-# TypeScript
-
-- [reflect-metadata #Project#](https://www.npmjs.com/package/reflect-metadata): A number of use cases (Composition/Dependency Injection, Runtime Type Assertions, Reflection/Mirroring, Testing) want the ability to add additional metadata to a class in a consistent manner.
-
-- [DefinitelyTyped #Project#](https://github.com/DefinitelyTyped/DefinitelyTyped): The repository for high quality TypeScript type definitions.
-
-- [tslint.json #Project#](https://palantir.github.io/tslint/usage/tslint-json/): When using the CLI or many third-party tools, a file named tslint.json is used to configure which rules get run.
