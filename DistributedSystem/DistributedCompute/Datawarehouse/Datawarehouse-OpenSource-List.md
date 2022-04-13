@@ -66,6 +66,10 @@
 
 - [Apache Hudi #Project#](https://github.com/apache/incubator-hudi): Upserts, Deletes And Incremental Processing on Big Data.
 
+## Streaming Database
+
+- [RisingWave #Project#](https://github.com/singularity-data/risingwave): RisingWave is a cloud-native streaming database that uses SQL as the interface language. It is designed to reduce the complexity and cost of building real-time applications. RisingWave consumes streaming data, performs continuous queries, and updates results dynamically. As a database system, RisingWave maintains results inside its own storage and allows users to access data efficiently.
+
 # Data Aggregation
 
 ## Data Orchestrator

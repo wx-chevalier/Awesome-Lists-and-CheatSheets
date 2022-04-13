@@ -24,6 +24,8 @@
 
 - [Ligolo #Project#](https://github.com/sysdream/ligolo): Reverse Tunneling made easy for pentesters, by pentesters
 
+- [bore #Project#](https://github.com/ekzhang/bore): 🕳 bore is a simple CLI tool for making tunnels to localhost
+
 ## Accelerator && VPN
 
 - [FastGithub #Project#](https://github.com/dotnetcore/FastGithub): github 加速神器，解决 github 打不开、用户头像无法加载、releases 无法上传下载、git-clone、git-pull、git-push 失败等问题

@@ -14,6 +14,8 @@
 
 - [v86 #Project#](https://github.com/copy/v86): v86 emulates an x86-compatible CPU and hardware. Machine code is translated to WebAssembly modules at runtime in order to achieve decent performance.
 
+- [Zaplib #Project#](https://github.com/Zaplib): ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
+
 # Interpreter
 
 - [wasm3 #Project#](https://github.com/wasm3/wasm3): 🚀 The fastest WebAssembly interpreter.

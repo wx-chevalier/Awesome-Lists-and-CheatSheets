@@ -4,12 +4,6 @@
 
 - [packetdrill #Project#](https://github.com/google/packetdrill): The official Google release of packetdrill.
 
-# Reverse Proxy
-
-- [frp #Project#](https://github.com/fatedier/frp): A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-
-- [localtunnel #Project#](https://github.com/localtunnel/localtunnel): localtunnel exposes your localhost to the world for easy testing and sharing! No need to mess with DNS or deploy just to have others test out your changes.
-
 # WebSocket
 
 - [2017-go-socket.io #Project#](https://github.com/googollee/go-socket.io): go-socket.io is an implementation of Socket.IO in Golang, which is a realtime application framework.
