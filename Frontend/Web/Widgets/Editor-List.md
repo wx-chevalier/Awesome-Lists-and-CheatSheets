@@ -28,6 +28,8 @@
 
 - [2020-wangEditor #Project#](https://github.com/wangeditor-team/wangEditor): wangEditor 是一款使用 Typescript 开发的 Web 富文本编辑器， 轻量、简洁、易用、开源免费。
 
+- [2022-Lexical #Project#](https://github.com/facebook/lexical): Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+
 # Spreadsheet
 
 - [sheetjs #Project#](https://github.com/SheetJS/sheetjs): 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit

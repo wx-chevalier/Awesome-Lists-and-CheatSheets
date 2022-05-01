@@ -6,6 +6,8 @@
 
 - [YesPlayMusic #Project#](https://github.com/qier222/YesPlayMusic): 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
+- [Gui Challenges #Project#](https://github.com/argyleink/gui-challenges): Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
+
 ## WebSite Clone
 
 - [Hulu Website Clone #Project#](https://github.com/bradtraversy/hulu-webpage-clone): This is an HTML & CSS project with a bit of JavaScript. It is a clone of the Hulu homepage and part of a YouTube tutorial
@@ -25,6 +27,8 @@
 - [Volta #Project#](https://github.com/volta-cli/volta): The Hassle-Free JavaScript Tool Manager.
 
 - [Turborepo #Project#](https://github.com/vercel/turborepo): The High-performance Build System for JavaScript & TypeScript Codebases
+
+- [Wireit #Project#](https://github.com/google/wireit): Wireit upgrades your npm scripts to make them smarter and more efficient.
 
 ### IDE
 
