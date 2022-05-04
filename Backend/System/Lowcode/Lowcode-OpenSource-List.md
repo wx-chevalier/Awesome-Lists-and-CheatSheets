@@ -16,7 +16,7 @@
 
 - [jeecg-boot #Project#](https://github.com/zhangdaiscott/jeecg-boot): 基于代码生成器的低代码平台，超越传统商业平台！前后端分离架构：SpringBoot 2.x，SpringCloud Alibaba，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-> 代码生成-> 手工 MERGE)，帮助 Java 项目解决 70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。
 
-- [appsmith #Project#](https://github.com/appsmithorg/appsmith): Build beautiful admin panels, dashboards, and CRUD apps that connect to any API or database. Try it at: https://app.appsmith.com Open source and self-hosting friendly.
+- [Appsmith #Project#](https://github.com/appsmithorg/appsmith): Build beautiful admin panels, dashboards, and CRUD apps that connect to any API or database. Try it at: https://app.appsmith.com Open source and self-hosting friendly.
 
 - [2021-JimuReport #Project#](https://github.com/zhangdaiscott/JimuReport): 一款免费的数据可视化工具，报表与大屏设计！类似于 excel 操作风格，在线拖拽完成报表设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，永久免费！
 
@@ -41,10 +41,6 @@
 - [2020-brick design #Project#](https://github.com/brick-design/brick-design): 全场景流式布局，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示，实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
 
 - [2021-Budibase #Project#](https://github.com/Budibase/budibase): Budibase is an open-source low-code platform and the easiest way to build beautiful internal tools 🚀
-
-## Admin Page
-
-- [Appsmith #Project#](https://github.com/appsmithorg/appsmith): Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS.
 
 ## H5
 

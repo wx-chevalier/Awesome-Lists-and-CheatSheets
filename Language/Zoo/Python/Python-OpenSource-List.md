@@ -24,6 +24,8 @@
 
 - [Brython #Project#](https://github.com/brython-dev/brython): Brython (Browser Python) is an implementation of Python 3 running in the browser
 
+- [Pyodide #Project#](https://github.com/pyodide/pyodide): Pyodide is a Python distribution for the browser and Node.js based on WebAssembly.
+
 ## Debug
 
 - [nbtutor #Project#](https://github.com/lgpage/nbtutor): Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
