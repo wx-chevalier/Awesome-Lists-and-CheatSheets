@@ -6,6 +6,8 @@
 
 - [ToolJet #Project#](https://github.com/ToolJet/ToolJet): ToolJet is an open-source low-code framework to build and deploy internal tools quickly without much effort from the engineering teams. You can connect to your data sources, such as databases (like PostgreSQL, MongoDB, Elasticsearch, etc), API endpoints (ToolJet supports importing OpenAPI spec & OAuth2 authorization), and external services (like Stripe, Slack, Google Sheets, Airtable) and use our pre-built UI widgets to build internal tools.
 
+- [Directus #Project#](https://github.com/directus/directus): Directus is a real-time API and App dashboard for managing SQL database content.
+
 # MIS & Report | 信息系统与报表
 
 - [2017-amis #Project#](https://github.com/baidu/amis): 一种基于特定 JSON 格式生成 MIS 页面的工具。

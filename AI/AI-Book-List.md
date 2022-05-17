@@ -96,6 +96,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2020-Dive into Deep Learning (D2L.ai) #Book#](https://github.com/d2l-ai/d2l-en): Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.
 
+- [2021-动手学习深度学习 #Project#](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes): 《动手学习深度学习》是李沐老师（AWS 资深首席科学家，美国卡内基梅隆大学计算机系博士）主讲的一系列深度学习视频。本项目收集了我们在寒假期间学习《动手学习深度学习》过程中详细的 markdown 笔记和相关的 jupyter 代码。赠人玫瑰，手留余香，我们将所有的 markdown 笔记开源，希望在自己学习的同时，也对大家学习掌握李沐老师的《动手学习深度学习》有所帮助。
+
 # NLP | 自然语言处理
 
 - [2016-Text Data Management and Analysis #Book#](https://dl.acm.org/citation.cfm?id=2915031): A Practical Introduction to Information Retrieval and Text Mining

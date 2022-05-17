@@ -8,6 +8,8 @@
 
 # Editor
 
+- [yn #Project#](https://github.com/purocean/yn): A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
+
 ## Note Taking App
 
 - [Trilium #Project#](https://github.com/zadam/trilium): Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.

@@ -66,8 +66,9 @@
     - 4.3 Showcases
       - [4.3.1 Awesome Clones](/Specials/Showcases/Awesome-Clones.md)
       - [4.3.2 Awesome Codebases](/Specials/Showcases/Awesome-Codebases.md)
-      - [4.3.3 Awesome DataVis](/Specials/Showcases/Awesome-DataVis.md)
-      - [4.3.4 Coding as Vetren](/Specials/Showcases/Coding-as-Vetren.md)
+      - [4.3.3 Awesome Creativity](/Specials/Showcases/Awesome-Creativity.md)
+      - [4.3.4 Awesome DataVis](/Specials/Showcases/Awesome-DataVis.md)
+      - [4.3.5 Coding as Vetren](/Specials/Showcases/Coding-as-Vetren.md)
     - [4.4 Tools & Projects](/Specials/Tools%20&%20Projects/README.md)
       - [4.4.1 Automation](/Specials/Tools%20&%20Projects/Automation.md)
       - [4.4.2 Chat](/Specials/Tools%20&%20Projects/Chat.md)
