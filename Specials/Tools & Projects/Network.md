@@ -32,6 +32,8 @@
 
 - [free #Project#](https://github.com/freefq/free): 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费 ss/v2ray/trojan 节点、蓝灯、谷歌商店、翻墙梯子
 
+- [GitHub520 #Project#](https://github.com/521xueweihan/GitHub520): 😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+
 # Request Builder
 
 - [Apifox #Project#](https://www.apifox.cn/): 接口文档、调试、Mock、自动化测试，提升 10 倍效率！
@@ -59,3 +61,5 @@
 - [annie #Project#](https://github.com/iawia002/annie): 👾 Fast, simple and clean video downloader.
 
 - [Hitomi-Downloader #Project#](https://github.com/KurtBestor/Hitomi-Downloader): 🍰 Desktop utility to download images/videos/music/text from various websites, and more.
+
+- [downkyi #Project#](https://github.com/leiurayer/downkyi): 哔哩下载姬 downkyi，B 站视频下载工具，支持批量下载，支持 8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。

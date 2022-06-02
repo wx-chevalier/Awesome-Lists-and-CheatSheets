@@ -37,3 +37,5 @@
 # WebRTC
 
 - [2017-A real world guide to WebRTC](https://deepstreamhub.com/tutorials/protocols/webrtc-intro/): The goal is that once you've read through it you've gained a solid, hands-on understanding of what it takes to build WebRTC apps and enough additional knowledge to know where to go next.
+
+- [2022-WebRTC Nuts and Bolts #Project#](https://github.com/adalkiran/webrtc-nuts-and-bolts): A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation.

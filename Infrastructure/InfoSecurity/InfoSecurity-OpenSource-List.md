@@ -102,6 +102,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [PoC-in-GitHub #Project#](https://github.com/nomi-sec/PoC-in-GitHub): 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 
+- [cve #Project#](https://github.com/trickest/cve): Gather and update all available and newest CVEs with their PoC.
+
 ## Payloads
 
 - [SecLists #Project#](https://github.com/danielmiessler/SecLists): SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
@@ -147,6 +149,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 ## Leakage
 
 - [SecretScanner #Project#](https://github.com/deepfence/SecretScanner): Find secrets and passwords in container images and file systems
+
+- [Trivy #Project#](https://github.com/aquasecurity/trivy): Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 
 # Web Security
 
