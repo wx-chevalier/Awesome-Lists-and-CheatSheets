@@ -63,3 +63,5 @@
 - [Hitomi-Downloader #Project#](https://github.com/KurtBestor/Hitomi-Downloader): 🍰 Desktop utility to download images/videos/music/text from various websites, and more.
 
 - [downkyi #Project#](https://github.com/leiurayer/downkyi): 哔哩下载姬 downkyi，B 站视频下载工具，支持批量下载，支持 8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
+
+- [icloud_photos_downloader #Project#](https://github.com/icloud-photos-downloader/icloud_photos_downloader): A command-line tool to download photos from iCloud

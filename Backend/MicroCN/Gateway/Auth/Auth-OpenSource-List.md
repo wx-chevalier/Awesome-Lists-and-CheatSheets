@@ -1,8 +1,10 @@
 # Auth OpenSource List
 
-- [sa-token #Project#](https://github.com/click33/sa-token): 这可能是史上功能最全的 Java 权限认证框架！目前已经集成——登录验证、权限验证、Session 会话、踢人下线、模拟他人账号、临时身份切换、集成 Redis、多账号认证体系、前后台分离模式、注解式鉴权、路由拦截式鉴权、花式 token 生成、自动续签、同端互斥登录、会话治理、组件自动注入...
+- [sa-token #Project#](https://github.com/dromara/Sa-Token): 这可能是史上功能最全的 Java 权限认证框架！目前已经集成——登录验证、权限验证、Session 会话、踢人下线、模拟他人账号、临时身份切换、集成 Redis、多账号认证体系、前后台分离模式、注解式鉴权、路由拦截式鉴权、花式 token 生成、自动续签、同端互斥登录、会话治理、组件自动注入...
 
 - [vault #Project#](https://github.com/hashicorp/vault): A tool for secrets management, encryption as a service, and privileged access management
+
+- [kratos #Project#](https://github.com/ory/kratos): Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
 
 ## RBAC
 
