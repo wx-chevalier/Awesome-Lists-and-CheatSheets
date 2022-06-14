@@ -6,6 +6,8 @@
 
 - [2020-Three.js 零基础入门教程 #Series#](http://www.webgl3d.cn/Three.js/): 《Three.js 零基础入门教程》是一套很好的 Three.js 入门教程，每节课除了知识讲解，还提供了基本行行注释的案例源码，如果对视频讲解有需要，也可以选择赞助作者 Three.js 视频教程。
 
+- [2021-Three.js and TypeScript Tutorials #Series#](https://sbcode.net/threejs/): Learn Three.js while using TypeScript to create interactive 3D content on the web.
+
 # OpenSource
 
 - [three-spritetext #Project#](https://github.com/vasturiano/three-spritetext): A sprite based text component for ThreeJS.

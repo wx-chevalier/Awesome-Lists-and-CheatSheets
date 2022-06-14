@@ -38,8 +38,6 @@
 
 # D3.js
 
-# Three.js
-
 # Animation
 
 - [mo.js #Project#](https://github.com/legomushroom/mojs): motion graphics toolbelt for the web.
@@ -47,3 +45,7 @@
 - [bezierjs #Project#](https://github.com/Pomax/bezierjs): A node.js and client-side library for (quadratic and cubic) Bezier curve work.
 
 - [lottie-web #Project#](https://github.com/airbnb/lottie-web): Render After Effects animations natively on Web, Android and iOS, and React Native. [React animated icons](https://github.com/useAnimations/react-useanimations),
+
+# Textures
+
+- [Matcaps #Project#](https://github.com/nidorx/matcaps): Huge library of matcap PNG textures organized by color.
