@@ -42,6 +42,8 @@
 
 - [GoPlus #Project#](https://www.oschina.net/p/goplus): GoPlus（Go+）是一门静态类型语言，与 Go 语言完全兼容。其代码样式类似脚本，并且比 Go 更具可读性，专门用于数据科学。
 
+- [IOC-golang #Project#](https://github.com/alibaba/IOC-golang): 一款服务于 Go 开发者的依赖注入框架，方便搭建任何 Go 应用。 A Golang depenedency injection framework, helps developers to build any go application.
+
 ## Debug
 
 - [Delve #Project#](https://github.com/derekparker/delve): Delve is a debugger for the Go programming language.

@@ -46,6 +46,8 @@
 
 - [2020-Hue Editor #Project#](https://github.com/cloudera/hue): Open source SQL Query Assistant for Databases/Warehouses.
 
+- [DataStation #Project#](https://github.com/multiprocessio/datastation): App to easily query, script, and visualize data from every database, file, and API.
+
 ### CMD
 
 - [2018-q #Project#](https://github.com/harelba/q): q is a command line tool that allows direct execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).

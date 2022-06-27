@@ -251,6 +251,8 @@
 
 - [YOLOX #Project#](https://github.com/Megvii-BaseDetection/YOLOX): YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with ONNX, TensorRT, ncnn, and OpenVINO supported.
 
+- [YOLOv6 #Project#](https://github.com/meituan/YOLOv6): a single-stage object detection framework dedicated to industrial applications.
+
 - [Handtrack.js #Project#](https://victordibia.github.io/handtrack.js/#/): 它可以让开发人员使用经过训练的手部检测模型快速创建手势交互原型。
 
 ### 人脸检测
