@@ -76,6 +76,8 @@
 
 - [JerryScript #Project#](https://github.com/jerryscript-project/jerryscript): Ultra-lightweight JavaScript engine for the Internet of Things.
 
+- [bun #Project#](https://github.com/Jarred-Sumner/bun): Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+
 ## Parser
 
 - [Acorn #Project#](https://github.com/ternjs/acorn): A small, fast, JavaScript-based JavaScript parser.

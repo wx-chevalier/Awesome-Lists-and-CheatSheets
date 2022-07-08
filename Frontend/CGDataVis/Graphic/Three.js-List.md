@@ -8,6 +8,8 @@
 
 - [2021-Three.js and TypeScript Tutorials #Series#](https://sbcode.net/threejs/): Learn Three.js while using TypeScript to create interactive 3D content on the web.
 
+- [2021-Discover Three.js #Project#](https://discoverthreejs.com/book/introduction/): In this book, we’ll show you how to harness the power of the third dimension to create websites that really stand out from the crowd, using the three.js JavaScript graphics library.
+
 # OpenSource
 
 - [three-spritetext #Project#](https://github.com/vasturiano/three-spritetext): A sprite based text component for ThreeJS.
