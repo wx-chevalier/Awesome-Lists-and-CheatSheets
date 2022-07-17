@@ -12,6 +12,8 @@
 
 - [2021-Spring 手撸专栏 #Series#](https://github.com/fuzhengwei/small-spring): 🌱《Spring 手撸专栏》，本专栏以 Spring 源码学习为目的，通过手写简化版 Spring 框架，了解 Spring 核心原理。在手写的过程中会简化 Spring 源码，摘取整体框架中的核心逻辑，简化代码实现过程，保留核心功能，例如：IOC、AOP、Bean 生命周期、上下文、作用域、资源处理等内容实现。
 
+- [2022-springcloud-learning #Series#](https://github.com/macrozheng/springcloud-learning): 一套涵盖大部分核心组件使用的 Spring Cloud 教程，包括 Spring Cloud Alibaba 及分布式事务 Seata，基于 Spring Cloud Greenwich 及 SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。
+
 ## Showcase
 
 - [2017-基于 Netty 的 Spring Boot 内置 Servlet 容器的实现 #Series#](https://parg.co/SCE): Spring Boot 有 Tomcat、Jetty 和 undertow 三种内置 Servlet 容器，默认使用 Tomcat。一般来说已经够用了，但当 Spring Boot 用于高并发微服务的时候，可能并不够用，而且 tomcat 的资源占用在这种情况下说不上轻量化了。于是萌生了自己实现一个 Spring Boot 的 Netty Servlet 容器的想法。

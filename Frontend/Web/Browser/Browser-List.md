@@ -1,5 +1,7 @@
 # Browser List | 浏览器相关学习与资料索引
 
+- [How Web Works #Project#](https://github.com/vasanthk/how-web-works): What happens behind the scenes when we type www.google.com in a browser?
+
 # Browser Feature Detection | 浏览器特征检测
 
 - [天猫双 11 前端分享系列(七)：如何精确识别终端](https://github.com/tmallfe/tmallfe.github.io/issues/32)

@@ -28,6 +28,10 @@
 
 - [Odi #Project#](https://github.com/Odi-ts/Odi): Opinionated, Declarative, Idiomatic framework for building scalable, supportable, enterprise applications and servers.
 
+- [trpc #Project#](https://github.com/trpc/trpc): 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+
+- [Nest #Project#](https://nestjs.com/): A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
+
 ## HTTP Server
 
 - [node-formidable #Project#](https://github.com/felixge/node-formidable): A node.js module for parsing form data, especially file uploads.
@@ -75,6 +79,8 @@
 - [bookshelf #Project#](https://github.com/bookshelf/bookshelf): A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
 
 - [TypeORM #Project#](https://github.com/typeorm/typeorm): ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+
+- [Prisma #Project#](https://www.prisma.io/): Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 
 # SysProc
 
