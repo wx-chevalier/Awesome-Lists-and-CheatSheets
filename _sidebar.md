@@ -513,7 +513,7 @@
       - [6.9.10 Web List](/Frontend/Web/Web-List.md)
       - [6.9.11 Web OpenSource List](/Frontend/Web/Web-OpenSource-List.md)
       - [6.9.12 Widgets](/Frontend/Web/Widgets/README.md)
-        - [6.9.12.1 Diagram List](/Frontend/Web/Widgets/Diagram-List.md)
+        - [6.9.12.1 Diagram OpenSource List](/Frontend/Web/Widgets/Diagram-OpenSource-List.md)
         - [6.9.12.2 Editor List](/Frontend/Web/Widgets/Editor-List.md)
         - [6.9.12.3 Feedback List](/Frontend/Web/Widgets/Feedback-List.md)
         - [6.9.12.4 Gallery List](/Frontend/Web/Widgets/Gallery-List.md)

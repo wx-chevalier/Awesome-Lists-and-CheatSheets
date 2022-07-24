@@ -44,6 +44,8 @@
 
 - [IOC-golang #Project#](https://github.com/alibaba/IOC-golang): 一款服务于 Go 开发者的依赖注入框架，方便搭建任何 Go 应用。 A Golang depenedency injection framework, helps developers to build any go application.
 
+- [lensm #Project#](https://github.com/loov/lensm): A tool for viewing assembly and source.
+
 ## Debug
 
 - [Delve #Project#](https://github.com/derekparker/delve): Delve is a debugger for the Go programming language.
