@@ -158,6 +158,8 @@
 
 - [asm-dom #Project#](https://github.com/mbasso/asm-dom): A minimal WebAssembly virtual DOM to build C++ SPA (Single page applications)
 
+- [Million #Project#](https://github.com/aidenybai/million): Million is a lightweight (<1kb) Virtual DOM. It's really fast and makes it easy to create user interfaces.
+
 ## Web Worker
 
 - [Workly #Project#](https://github.com/pshihn/workly): A really simple way to move a stand-alone function/class to a worker thread.

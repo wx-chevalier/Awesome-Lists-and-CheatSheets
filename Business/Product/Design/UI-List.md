@@ -112,3 +112,9 @@ UI 设计的主要工作都包括进去了，如果能够将这三本书很好�
 # 色彩搭配
 
 - [2020-How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/): Common color mistakes and how to avoid them.
+
+# Design Patterns
+
+- [Cloudscape Design](https://cloudscape.design/patterns/patterns/overview/): Patterns are reusable combinations of components that solve common user problems. Our best practice solutions help users achieve their goals and ensure consistency across experiences.
+
+- [Ant Design](https://ant.design/docs/spec/introduce-cn): 随着商业化的趋势，越来越多的企业级产品对更好的用户体验有了进一步的要求。带着这样的一个终极目标，我们（蚂蚁集团体验技术部）经过大量项目实践和总结，逐步打磨出一个服务于企业级产品的设计体系 —— Ant Design。基于「自然」、「确定性」、「意义感」、「生长性」四大设计价值观，通过模块化解决方案，降低冗余的生产成本，让设计者专注于更好的用户体验。

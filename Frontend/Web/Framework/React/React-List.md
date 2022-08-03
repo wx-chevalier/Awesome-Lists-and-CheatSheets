@@ -64,6 +64,8 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 - [2017-Under the hood ReactJS #Series#](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS): Entire ReactJS code base explanation by visual block schemes (Stack+Fiber versions)
 
+- [Big-React #Series#](https://github.com/BetaSu/big-react): 跟着我，从 0 实现 React18。
+
 # Tutorial | 教程
 
 - [2016-Learning React with Create-React-App #Series#](https://parg.co/bhf)
