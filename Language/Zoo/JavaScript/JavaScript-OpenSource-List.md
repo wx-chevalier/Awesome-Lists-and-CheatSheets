@@ -70,6 +70,8 @@
 
 - [Sweet #Project#](https://www.sweetjs.org/): Sweet brings the hygienic macros of languages like Scheme and Rust to JavaScript.
 
+- [lyra #Project#](https://github.com/nearform/lyra): 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
+
 # Engine
 
 - [Hermes #Project#](https://github.com/facebook/hermes): Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.

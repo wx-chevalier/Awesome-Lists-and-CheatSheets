@@ -1,0 +1,3 @@
+# Notification
+
+- [novu #Project#](https://github.com/novuhq/novu): 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...
