@@ -44,6 +44,8 @@
 
 - [Real-ESRGAN #Project#](https://github.com/xinntao/Real-ESRGAN): Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.
 
+- [Upscayl #Project#](https://github.com/upscayl/upscayl): Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
+
 ## 人像处理
 
 - [2018-FastPhotoStyle #Project#](https://github.com/NVIDIA/FastPhotoStyle): This code repository contains an implementation of our fast photorealistic style transfer algorithm.

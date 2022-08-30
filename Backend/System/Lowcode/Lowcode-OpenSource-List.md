@@ -50,6 +50,8 @@
 
 - [Dooring #Project#](https://github.com/MrXujiang/h5-Dooring): (H5 编辑器)H5-Dooring 是一款功能强大，开源免费的 H5 可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的 H5 落地页最佳实践。技术栈以 react 为主，后台采用 nodejs 开发.
 
+- [DivKit #Project#](https://github.com/divkit/divkit): DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
+
 ## Form Builder
 
 - [json-editor #Project#](https://github.com/json-editor/json-editor): JSON Schema Based Editor

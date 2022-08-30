@@ -36,6 +36,8 @@
 
 - [2021-10 bad TypeScript habits to break this year](https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/): TypeScript and JavaScript have steadily evolved over the last years, and some of the habits we built over the last decades have become obsolete. Some might never have been meaningful. Here's a list of 10 habits that we all should break.
 
+- [2022-beginners-typescript #Project#](https://github.com/total-typescript/beginners-typescript-tutorial): An interactive TypeScript tutorial for beginners.
+
 ## Advanced Types
 
 - [type-challenges](https://github.com/type-challenges/type-challenges): Collection of TypeScript type challenges with online judge.

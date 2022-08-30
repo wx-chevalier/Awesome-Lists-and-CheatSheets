@@ -1,5 +1,9 @@
 # Awesome IDE
 
+- [Devbox #Project#](https://github.com/jetpack-io/devbox): Devbox is a command-line tool that lets you easily create isolated shells and containers. You start by defining the list of packages required by your development environment, and devbox uses that definition to create an isolated environment just for your application.
+
+- [Sidekick #Project#](https://github.com/runsidekick/sidekick): Free and open-source live application debugger. Like chrome dev tools but for your backend
+
 # Eclipse
 
 - [theia #Project#](https://github.com/eclipse-theia/theia): Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.

@@ -118,6 +118,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [Go 进阶 #Series#](https://mojotv.cn/404#Go%E8%BF%9B%E9%98%B6)
 
+- [100 Go Mistakes #Series#](https://github.com/teivah/100-go-mistakes): Source code and community space of 📖 100 Go Mistakes
+
 # Tutorial
 
 ## Quick Start

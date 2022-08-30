@@ -22,6 +22,10 @@
 
 - [sketch of three.js](https://ykob.github.io/sketch-threejs/): Interactive sketches made with three.js.
 
+- [react-planner #Project#](https://github.com/cvdlab/react-planner): ✏️ A React Component for plans design. Draw a 2D floorplan and navigate it in 3D mode.
+
 ### Example
 
 - [threejs-cookbook #Project#](https://github.com/josdirksen/threejs-cookbook): Examples for the Three.js Cookbook book published by packt
+
+- [3d #Project#](https://github.com/dragonir/3d): Three.js 3D 项目，包含冰墩墩 🐼、数字城市 🏙、3D 人像 👤、车模展示 🚗、塞尔达传说 🗡 等一些 3D 趣味演示页面，持续优化中...访问链接如下 👇
