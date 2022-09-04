@@ -39,3 +39,5 @@
 # Content Analysis | 内容分析
 
 - [Fathom #Project#](https://github.com/mozilla/fathom): A framework for extracting meaning from web pages.
+
+- [unicaps #Project#](https://github.com/sergey-scat/unicaps): A unified Python API for CAPTCHA solving services.

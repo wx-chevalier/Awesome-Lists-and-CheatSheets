@@ -173,6 +173,10 @@ Diagrams: timing
 
 - [Color Hunt](https://colorhunt.co/palettes): Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes
 
+## 动画
+
+- [Motionity #Project#](https://github.com/alyssaxuu/motionity): Motionity is a free and open source animation editor in the web. It's a mix of After Effects and Canva, with powerful features like keyframing, masking, filters, and more, and integrations to browse for assets to easily drag and drop into your video.
+
 # Links
 
 - https://zhuanlan.zhihu.com/p/63949977
