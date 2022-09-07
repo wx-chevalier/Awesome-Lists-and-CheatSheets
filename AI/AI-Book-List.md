@@ -64,6 +64,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2022-机器学习系统：设计和实现 #Book#](https://github.com/openmlsys/openmlsys-zh): 本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
 
+- [2022-Machine Learning Bookcamp #Book#](https://mlbookcamp.com/): Learn machine learning by doing projects and get the skills needed to work as a data scientist or machine learning engineer.
+
 ## Data Mining
 
 - [2019-Fundamentals of Analysis #Book#](https://dataschool.com/fundamentals-of-analysis/): You have data, now how do you analyze it correctly? This is not a simple task, this book will cover common techniques to get insights out of data accurately.

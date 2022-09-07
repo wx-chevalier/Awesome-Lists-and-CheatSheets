@@ -14,6 +14,8 @@
 
 - [2020-computervision-recipes #Series#](https://github.com/microsoft/computervision-recipes): Best Practices, code samples, and documentation for Computer Vision.
 
+- [深度学习在图像处理中的应用教程 #Series#](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing): 本教程是对本人研究生期间的研究内容进行整理总结，总结的同时也希望能够帮助更多的小伙伴。后期如果有学习到新的知识也会与大家一起分享。
+
 # OCR
 
 - [2017-Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning]()

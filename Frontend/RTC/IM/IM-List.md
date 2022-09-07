@@ -40,6 +40,10 @@
 
 - [Media Soup #Project#](https://github.com/versatica/mediasoup): Cutting Edge WebRTC Video Conferencing.
 
+## P2P Chat
+
+- [Chitchatter #Project#](https://github.com/jeremyckahn/chitchatter): A peer-to-peer chat app that is serverless, decentralized, and ephemeral
+
 # Voice
 
 - [Jovo #Project#](https://www.jovo.tech/): Build and run voice experiences that work across devices and platforms. Including Amazon Alexa, Google Assistant, mobile phones, Raspberry Pi, and more.

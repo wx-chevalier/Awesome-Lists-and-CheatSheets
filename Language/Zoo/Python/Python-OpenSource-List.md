@@ -46,6 +46,10 @@
 
 - [Gooey #Project#](https://github.com/chriskiehl/Gooey): Turn (almost) any Python command line program into a full GUI application with one line.
 
+## Task Queue
+
+- [Wakaq #Project#](https://github.com/wakatime/wakaq): Distributed background task queue for Python backed by Redis, a super minimal Celery
+
 # Storage
 
 - [dataset #Project#](https://github.com/pudo/dataset/blob/master/README.md): In short, dataset makes reading and writing data in databases as simple as reading and writing JSON files.
