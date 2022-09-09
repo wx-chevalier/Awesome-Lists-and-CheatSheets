@@ -6,6 +6,8 @@
 
 - [Erda #Project#](https://github.com/erda-project/erda): Erda is an open-source platform created by Terminus to ensure the development of microservice applications. It provides DevOps, microservice governance, and multi-cloud management capabilities. The multi-cloud architecture based on Kubernetes and application-centric DevOps and microservice governance can make the development, operation, monitoring, and problem diagnosis of complex business applications simpler and more efficient.
 
+- [Rainbond #Project#](https://github.com/goodrain/rainbond): Rainbond 是一个云原生多云应用管理平台，使用简单，不需要懂容器、Kubernetes 和底层复杂技术，支持管理多个 Kubernetes 集群，和管理企业应用全生命周期。主要功能包括应用开发环境、应用市场、微服务架构、应用交付、应用运维、应用级多云管理等。
+
 ## Cluster Management
 
 - [fleet #Project#](https://github.com/rancher/fleet): Manage large fleets of Kubernetes clusters.
