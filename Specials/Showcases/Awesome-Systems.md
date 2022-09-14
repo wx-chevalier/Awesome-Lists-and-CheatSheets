@@ -1,4 +1,4 @@
-# System List
+# Awesome Systems
 
 本文是对于服务端应用程序开发与系统架构领域中高可用系统搭建相关资料进行整理，更多的其他相关优秀资料可以参考笔者的 [AwesomeList](http://6me.us/qvPQ) 系列，其他的还包括[追求技术之上的进阶阅读学习索引](https://zhuanlan.zhihu.com/p/25642783)、[机器学习、深度学习与自然语言处理领域推荐的书籍列表](https://zhuanlan.zhihu.com/p/25612011)等等。随着公司业务的发展与终端用户的增加，保证系统的高可用性也日渐成为团队考虑的重要因素。
 
@@ -53,6 +53,8 @@
 - [2020-Awesome CTO #Collection#](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers and VP R&D, with the emphasis on startups and hyper-growth companies.
 
 - [2021-互联网公司常用框架源码赏析 #Collection#](https://github.com/doocs/source-code-hunter): 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
+
+- [System Design Resources #Collection#](https://github.com/InterviewReady/system-design-resources): These are the best resources for System Design on the Internet
 
 ## Video
 

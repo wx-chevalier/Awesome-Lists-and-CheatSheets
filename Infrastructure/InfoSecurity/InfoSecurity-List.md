@@ -42,6 +42,8 @@
 
 - [List of resources about programming practices for writing safety-critical software. #Collection#](https://github.com/stanislaw/awesome-safety-critical)
 
+- [Awesome WebSecurity #Collection#](https://github.com/qazbnm456/awesome-web-security): 🐶 A curated list of Web Security materials and resources.
+
 ## Course
 
 - [Beginner Network Pentesting #Series#](https://github.com/hmaverickadams/Beginner-Network-Pentesting): Welcome to the Beginner Network Pentesting course. Previously, the course was delivered weekly on Twitch and built from lessons learned in the previous week.

@@ -70,7 +70,8 @@
       - [4.3.4 Awesome Creativity](/Specials/Showcases/Awesome-Creativity.md)
       - [4.3.5 Awesome DataVis](/Specials/Showcases/Awesome-DataVis.md)
       - [4.3.6 Awesome Spinners](/Specials/Showcases/Awesome-Spinners.md)
-      - [4.3.7 Coding as Vetren](/Specials/Showcases/Coding-as-Vetren.md)
+      - [4.3.7 Awesome Systems](/Specials/Showcases/Awesome-Systems.md)
+      - [4.3.8 Coding as Vetren](/Specials/Showcases/Coding-as-Vetren.md)
     - [4.4 Tools & Projects](/Specials/Tools%20&%20Projects/README.md)
       - [4.4.1 Automation](/Specials/Tools%20&%20Projects/Automation.md)
       - [4.4.2 Awesome Tools](/Specials/Tools%20&%20Projects/Awesome-Tools.md)
@@ -671,8 +672,6 @@
       - 7.5.7 Pay
         - [7.5.7.1 Pay List](/Backend/System/Pay/Pay-List.md)
         - [7.5.7.2 Pay OpenSource List](/Backend/System/Pay/Pay-OpenSource-List.md)
-      - [7.5.8 System List](/Backend/System/System-List.md)
-      - [7.5.9 System OpenSource List](/Backend/System/System-OpenSource-List.md)
   - 8 DistributedSystem
     - 8.1 Concurrent
       - [8.1.1 ConcurrentIO List](/DistributedSystem/Concurrent/ConcurrentIO-List.md)
