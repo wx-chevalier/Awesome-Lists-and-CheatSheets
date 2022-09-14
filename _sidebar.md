@@ -769,7 +769,8 @@
         - [9.1.3.4 K8s OpenSource List](/Infrastructure/Cloud/K8s/K8s-OpenSource-List.md)
         - [9.1.3.5 K8s Practices List](/Infrastructure/Cloud/K8s/K8s-Practices-List.md)
       - 9.1.4 Provider
-        - [9.1.4.1 Cloud Provider List](/Infrastructure/Cloud/Provider/Cloud-Provider-List.md)
+        - [9.1.4.1 AWS List](/Infrastructure/Cloud/Provider/AWS-List.md)
+        - [9.1.4.2 Cloud Provider List](/Infrastructure/Cloud/Provider/Cloud-Provider-List.md)
       - 9.1.5 VM
         - 9.1.5.1 KVM
           - [9.1.5.1.1 KVM List](/Infrastructure/Cloud/VM/KVM/KVM-List.md)
@@ -863,6 +864,7 @@
       - [10.8.1 ComputerVision List](/AI/ComputerVision/ComputerVision-List.md)
       - [10.8.2 OCR List](/AI/ComputerVision/OCR-List.md)
       - [10.8.3 Object Detection List](/AI/ComputerVision/Object-Detection-List.md)
+      - [10.8.4 StableDiffusion List](/AI/ComputerVision/StableDiffusion-List.md)
     - 10.9 DeepLearning
       - 10.9.1 CNN
         - [10.9.1.1 CNN List](/AI/DeepLearning/CNN/CNN-List.md)

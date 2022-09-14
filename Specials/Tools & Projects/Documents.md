@@ -107,3 +107,7 @@
 # Dev Docs
 
 - [devdocs](http://devdocs.io/): 这里集合了大量的在线的文档，同时 DevDocs 还支持离线浏览，主要是依靠 IndexDB 将数据存放在浏览器的本地缓存中。
+
+# OCR
+
+- [Umi-OCR #Project#](https://github.com/hiroi-sora/Umi-OCR): OCR 批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。基于 PaddleOCR 。

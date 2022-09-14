@@ -18,9 +18,11 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts): Collection of awesome podcasts. Awesome list of Important Podcasts for software engineers.
 
-- [Build your own (insert technology here) #Collection#](https://github.com/danistefanovic/build-your-own-x#): What I cannot create, I do not understand.
+- [Build your own (insert technology here) #Collection#](https://github.com/danistefanovic/build-your-own-x#): Master programming by recreating your favorite technologies from scratch.
 
 - [Best Paper Awards in Computer Science (since 1996) #Paper#](https://jeffhuang.com/best_paper_awards.html): I (Jeff Huang) tried to collect best paper awards from the top-tier conferences in each area, but some conferences do not have such an award (e.g. SIGGRAPH, CAV).
+
+- [Project Based Learning #Collection#](https://github.com/practical-tutorials/project-based-learning#rust): A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
 
 ## Cheatsheets
 
