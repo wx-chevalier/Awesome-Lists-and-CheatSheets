@@ -38,6 +38,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [Traitor #Project#](https://github.com/liamg/traitor): Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
+- [byob #Project#](https://github.com/malwaredllc/byob): An open-source post-exploitation framework for students, researchers and developers.
+
 ## POC Framework | POC 框架
 
 - [Pocsuite #Project#](https://github.com/knownsec/Pocsuite): Pocsuite is an open-sourced remote vulnerability testing framework developed by the Knownsec Security Team.
