@@ -1,6 +1,7 @@
 # AI OpenSource List
 
 - [Awesome production machine learning #Collection#](https://github.com/EthicalML/awesome-production-machine-learning): A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning.
+- [Explore AI](https://kandi.openweaver.com/explore/artificial-intelligence): Discover Artificial Intelligence open source software libraries, packages, source code, cloud functions and APIs.
 
 # Framework
 
