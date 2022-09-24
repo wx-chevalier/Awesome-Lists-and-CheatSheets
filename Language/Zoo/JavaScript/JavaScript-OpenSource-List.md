@@ -10,8 +10,6 @@
 
 # DevTools
 
-- [node-prune #Project#](https://github.com/tj/node-prune): 能够帮助移除 node_modules 中的不必要内容。
-
 - [Consola #Project#](https://github.com/nuxt/consola): Elegant Console Logger
 
 - [Bundlephobia #Project#](https://github.com/pastelsky/bundlephobia): Find out the cost of adding a new frontend dependency to your project.
@@ -95,3 +93,5 @@
 - [jsjs #Project#](https://github.com/bramblex/jsjs): 简易的 JavaScript 元循环解释器。
 
 - [vm.js #Project#](https://github.com/axetroy/vm.js): Javascript Interpreter, run Javascript code in ECMAScript
+
+- [Blueboat #Project#](https://github.com/losfair/blueboat): Blueboat is an all-in-one, multi-tenant serverless JavaScript runtime. See the site for a brief introduction on features.

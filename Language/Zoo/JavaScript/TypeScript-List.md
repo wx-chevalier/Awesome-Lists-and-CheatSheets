@@ -40,4 +40,6 @@
 
 ## Advanced Types
 
-- [type-challenges](https://github.com/type-challenges/type-challenges): Collection of TypeScript type challenges with online judge.
+- [type-challenges #Project#](https://github.com/type-challenges/type-challenges): Collection of TypeScript type challenges with online judge.
+
+- [TDungeon #Project#](https://github.com/cassiozen/TDungeon): TDungeon is a small adventure game that runs in the Typescript type system

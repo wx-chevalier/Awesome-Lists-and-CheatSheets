@@ -2,6 +2,10 @@
 
 # Resource
 
+## Book
+
+- [Learn PyTorch for Deep Learning #Book#](https://github.com/mrdbourke/pytorch-deep-learning/): Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
+
 ## Collection
 
 - [2018-Awesome Pytorch List #Collection#](https://github.com/bharathgs/Awesome-pytorch-list): A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.

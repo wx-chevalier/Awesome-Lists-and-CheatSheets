@@ -171,6 +171,8 @@
 
 - [2021-MockingBird #Project#](https://github.com/babysor/MockingBird): 🚀AI 拟声: 5 秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
+- [2022-Whisper #Project#](https://github.com/openai/whisper): Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multi-task model that can perform multilingual speech recognition as well as speech translation and language identification.
+
 ## Dialogue System & Bot
 
 - [2018-DeepPavlov #Project#](https://github.com/deepmipt/DeepPavlov): An open source library for building end-to-end dialog systems and training chatbots.
@@ -254,6 +256,8 @@
 - [YOLOv6 #Project#](https://github.com/meituan/YOLOv6): a single-stage object detection framework dedicated to industrial applications.
 
 - [Handtrack.js #Project#](https://victordibia.github.io/handtrack.js/#/): 它可以让开发人员使用经过训练的手部检测模型快速创建手势交互原型。
+
+- [MMDetection #Project#](https://github.com/open-mmlab/mmdetection): MMDetection is an open source object detection toolbox based on PyTorch. It is a part of the OpenMMLab project.
 
 ### 人脸检测
 

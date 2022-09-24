@@ -25,3 +25,5 @@
 - [Kata Containers #Project#](https://katacontainers.io/): Kata Containers is a new open source project building extremely lightweight virtual machines that seamlessly plug into the containers ecosystem.
 
 - [Hyper Container #Project#](https://hypercontainer.io/): Hypervisor-agnostic Docker Runtime.
+
+- [Colima #Project#](https://github.com/abiosoft/colima): Container runtimes on macOS (and Linux) with minimal setup.

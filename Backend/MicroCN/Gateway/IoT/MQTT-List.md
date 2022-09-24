@@ -11,3 +11,5 @@
 - [2021-Zigbee2MQTT #Project#](https://github.com/Koenkk/zigbee2mqtt): Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 
 - [2021-emqx #Project#](https://www.emqx.io/): The world's most scalable distributed MQTT broker with a high-performance real-time message processing engine, powering event streaming for IoT devices at massive scale.
+
+- [vernemq #Project#](https://github.com/vernemq/vernemq): A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases.

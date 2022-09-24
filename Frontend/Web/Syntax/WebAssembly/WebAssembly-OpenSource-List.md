@@ -23,3 +23,5 @@
 - [wasmer #Project#](https://github.com/wasmerio/wasmer): 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 
 - [wazero #Project#](https://github.com/tetratelabs/wazero): the zero dependency WebAssembly runtime for Go developers
+
+- [wasmtime #Project#](https://github.com/bytecodealliance/wasmtime): A fast and secure runtime for WebAssembly

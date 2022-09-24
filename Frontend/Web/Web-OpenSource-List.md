@@ -46,6 +46,8 @@
 
 - [fuite #Project#](https://github.com/nolanlawson/fuite): A tool for finding memory leaks in web apps
 
+- [memlab #Project#](https://facebookincubator.github.io/memlab/): Analyzes JavaScript heap and finds memory leaks in browser and node.js
+
 ## Test
 
 - [Mocha #Project#](https://mochajs.org/): Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases. Hosted on GitHub.
