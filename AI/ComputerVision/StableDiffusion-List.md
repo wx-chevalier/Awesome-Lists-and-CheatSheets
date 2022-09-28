@@ -5,3 +5,5 @@
 - [Stable Diffusion WebUI Docker #Project#](https://github.com/AbdBarho/stable-diffusion-webui-docker): Run Stable Diffusion on your machine with a nice UI without any hassle! This repository provides multiple UIs for you to play around with stable diffusion.
 
 - [CHARL-E #Project#](https://www.charl-e.com/): CHARL-E packages Stable Diffusion into a simple app. No complex setup, dependencies, or internet required — just download and say what you want to see.
+
+- [UnstableFusion #Project#](https://github.com/ahrm/UnstableFusion): A Stable Diffusion desktop frontend with inpainting, img2img and more!
