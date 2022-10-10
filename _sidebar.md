@@ -722,6 +722,7 @@
         - [8.4.1.3 Blockchain List](/DistributedSystem/DistributedStorage/Blockchain/Blockchain-List.md)
         - [8.4.1.4 Blockchain OpenSource List](/DistributedSystem/DistributedStorage/Blockchain/Blockchain-OpenSource-List.md)
         - [8.4.1.5 Ethereum List](/DistributedSystem/DistributedStorage/Blockchain/Ethereum-List.md)
+        - [8.4.1.6 Solidity List](/DistributedSystem/DistributedStorage/Blockchain/Solidity-List.md)
       - 8.4.2 DistributedFS
         - [8.4.2.1 DistributedFS List](/DistributedSystem/DistributedStorage/DistributedFS/DistributedFS-List.md)
         - [8.4.2.2 HDFS List](/DistributedSystem/DistributedStorage/DistributedFS/HDFS-List.md)
@@ -873,12 +874,14 @@
       - 10.9.3 DRL
         - [10.9.3.1 DeepReinforcementLearning](/AI/DeepLearning/DRL/DeepReinforcementLearning.md)
       - [10.9.4 DeepLearning List](/AI/DeepLearning/DeepLearning-List.md)
-      - 10.9.5 NeuralNetwork
-        - [10.9.5.1 NeuralNetwork List](/AI/DeepLearning/NeuralNetwork/NeuralNetwork-List.md)
-      - 10.9.6 RNN
-        - [10.9.6.1 RecurrentNeuralNetwork List](/AI/DeepLearning/RNN/RecurrentNeuralNetwork-List.md)
-      - 10.9.7 RepresentationLearning
-        - [10.9.7.1 RepresentationLearning List](/AI/DeepLearning/RepresentationLearning/RepresentationLearning-List.md)
+      - 10.9.5 Diffusion
+        - [10.9.5.1 Diffusion List](/AI/DeepLearning/Diffusion/Diffusion-List.md)
+      - 10.9.6 NeuralNetwork
+        - [10.9.6.1 NeuralNetwork List](/AI/DeepLearning/NeuralNetwork/NeuralNetwork-List.md)
+      - 10.9.7 RNN
+        - [10.9.7.1 RecurrentNeuralNetwork List](/AI/DeepLearning/RNN/RecurrentNeuralNetwork-List.md)
+      - 10.9.8 RepresentationLearning
+        - [10.9.8.1 RepresentationLearning List](/AI/DeepLearning/RepresentationLearning/RepresentationLearning-List.md)
     - 10.10 MachineLearning
       - 10.10.1 Algorithm
         - 10.10.1.1 Bayes

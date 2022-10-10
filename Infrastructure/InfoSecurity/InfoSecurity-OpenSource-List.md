@@ -152,6 +152,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [uncover #Project#](https://github.com/projectdiscovery/uncover): Quickly discover exposed hosts on the internet using multiple search engines.
 
+- [maigret #Project#](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+
 ## Leakage
 
 - [SecretScanner #Project#](https://github.com/deepfence/SecretScanner): Find secrets and passwords in container images and file systems

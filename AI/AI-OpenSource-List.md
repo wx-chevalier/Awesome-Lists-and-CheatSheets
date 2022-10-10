@@ -24,6 +24,8 @@
 
 - [2021-Kedro #Project#](https://github.com/kedro-org/kedro): Kedro is an open-source Python framework for creating reproducible, maintainable and modular data science code. It borrows concepts from software engineering and applies them to machine-learning code; applied concepts include modularity, separation of concerns and versioning.
 
+- [2022-Towhee #Project#](https://github.com/towhee-io/towhee): Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.
+
 ## TensorFlow
 
 - [tensorflow-playground](https://github.com/tensorflow/playground): Play with neural networks!
@@ -37,6 +39,8 @@
 ## PyTorch
 
 - [PyTorch Lightning #Project#](https://github.com/PyTorchLightning/pytorch-lightning): The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+
+- [AITemplate #Project#](https://github.com/facebookincubator/AITemplate): AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
 
 # Universal Toolkits
 
@@ -127,6 +131,8 @@
 - [2020-MiNLP #Project#](https://github.com/XiaoMi/MiNLP): 小米自然语言处理平台（MiNLP）具备词法、句法、语义分析等数十个功能模块，已经在公司业务中得到了广泛应用。
 
 - [2020-fastNLP #Project#](https://cubox.pro/c/2M8iji): fastNLP 是一款轻量级的自然语言处理（NLP）工具包。你既可以用它来快速地完成一个 NLP 任务， 也可以用它在研究中快速构建更复杂的模型。
+
+- [2022-Haystack #Project#](https://github.com/deepset-ai/haystack): Haystack is an end-to-end framework that enables you to build powerful and production-ready pipelines for different search use cases. Whether you want to perform Question Answering or semantic document search, you can use the State-of-the-Art NLP models in Haystack to provide unique search experiences and allow your users to query in natural language. Haystack is built in a modular fashion so that you can combine the best technology from other open-source projects like Huggingface's Transformers, Elasticsearch, or Milvus.
 
 ## Language Representation
 
