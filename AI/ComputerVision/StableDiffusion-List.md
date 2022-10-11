@@ -11,3 +11,7 @@
 - [stablediffusion-infinity #Project#](https://github.com/lkwq007/stablediffusion-infinity): Outpainting with Stable Diffusion on an infinite canvas.
 
 - [Diffusion Bee #Project#](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui): Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
+
+- [InvokeAI #Project#](https://github.com/invoke-ai/InvokeAI): This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.
+
+- [MDM: Human Motion Diffusion Model #Project#](https://github.com/GuyTevet/motion-diffusion-model): The official PyTorch implementation of the paper "Human Motion Diffusion Model".
