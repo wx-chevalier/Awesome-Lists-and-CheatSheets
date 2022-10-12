@@ -22,6 +22,8 @@
 
 - [rnote #Project#](https://github.com/flxzt/rnote): A simple drawing application to create handwritten notes.
 
+- [komorebi #Project#](https://github.com/LGUG2Z/komorebi): komorebi is a tiling window manager that works as an extension to Microsoft's Desktop Window Manager in Windows 10 and above.
+
 ## JavaScript Engine
 
 - [boa](https://github.com/jasonwilliams/boa): Javascript engine written in Rust
