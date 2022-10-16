@@ -28,6 +28,10 @@
 
 ## Framework
 
+- [fmt #Project#](https://github.com/fmtlib/fmt): {fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams.
+
+- [Abseil #Project#](https://github.com/abseil/abseil-cpp#quickstart): The repository contains the Abseil C++ library code. Abseil is an open-source collection of C++ code (compliant to C++14) designed to augment the C++ standard library.
+
 ## Concurrent
 
 - [ck #Project#](https://github.com/concurrencykit/ck): Concurrency primitives, safe memory reclamation mechanisms and non-blocking (including lock-free) data structures designed to aid in the research, design and implementation of high performance concurrent systems developed in C99+.
