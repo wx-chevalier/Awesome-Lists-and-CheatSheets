@@ -265,6 +265,8 @@
 
 - [MMDetection #Project#](https://github.com/open-mmlab/mmdetection): MMDetection is an open source object detection toolbox based on PyTorch. It is a part of the OpenMMLab project.
 
+- [detrex #Project#](https://github.com/IDEA-Research/detrex): IDEA Open Source Toolbox for Transformer Based Object Detection Algorithms
+
 ### 人脸检测
 
 - [2018-pico.js #Project#](https://github.com/tehnokv/picojs): a face-detection library in 200 lines of JavaScript

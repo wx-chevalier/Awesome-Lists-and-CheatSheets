@@ -33,3 +33,5 @@
 - [OpenWhisk #Project#](https://github.com/apache/incubator-openwhisk): OpenWhisk is a cloud-first distributed event-based programming service. It provides a programming model to upload event handlers to a cloud service, and register the handlers to respond to various events.
 
 - [Firecracker #Project#](https://github.com/firecracker-microvm/firecracker): Secure and fast microVMs for serverless computing.
+
+- [Plane #Project#](https://github.com/drifting-in-space/plane): Plane is a container orchestrator for ambitious browser-based applications. Plane implements an architecture we call session backends.

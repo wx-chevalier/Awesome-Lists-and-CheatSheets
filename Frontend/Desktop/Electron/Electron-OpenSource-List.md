@@ -12,6 +12,8 @@
 
 - [Motrix #Project#](https://github.com/agalwood/Motrix): A full-featured download manager.
 
+- [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord): Better Discord enhances Discord desktop app with new features.
+
 ## Boilerplate
 
 - [electron-react-typescript-webpack-boilerplate #Project#](https://github.com/Devtography/electron-react-typescript-webpack-boilerplate): Pre-configured boilerplate for Electron + React + TypeScript + Webpack.

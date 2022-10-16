@@ -24,6 +24,8 @@
 
 - [Archivy #Project#](https://github.com/Uzay-G/archivy): Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 
+- [logseq #Project#](https://github.com/logseq/logseq): A local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base. Use it to organize your todo list, to write your journals, or to record your unique life.
+
 ## Collaborative Editing（协同编辑）
 
 - [gollum #Project#](https://github.com/gollum/gollum): Gollum is a simple wiki system built on top of Git. A Gollum Wiki is simply a git repository (either bare or regular) of a specific nature.

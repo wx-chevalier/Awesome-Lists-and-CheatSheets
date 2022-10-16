@@ -325,6 +325,7 @@
         - [5.4.7.1 Lisp List](/Language/Zoo/Lisp/Lisp-List.md)
       - 5.4.8 PHP
         - [5.4.8.1 PHP List](/Language/Zoo/PHP/PHP-List.md)
+        - [5.4.8.2 PHP OpenSource List](/Language/Zoo/PHP/PHP-OpenSource-List.md)
       - 5.4.9 Python
         - [5.4.9.1 Python DataStructure List](/Language/Zoo/Python/Python-DataStructure-List.md)
         - [5.4.9.2 Python Debug List](/Language/Zoo/Python/Python-Debug-List.md)
