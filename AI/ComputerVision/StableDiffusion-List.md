@@ -15,3 +15,7 @@
 - [InvokeAI #Project#](https://github.com/invoke-ai/InvokeAI): This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.
 
 - [MDM: Human Motion Diffusion Model #Project#](https://github.com/GuyTevet/motion-diffusion-model): The official PyTorch implementation of the paper "Human Motion Diffusion Model".
+
+- [stable-diffusion-studio #Project#](https://github.com/amotile/stable-diffusion-studio): An animation focused workflow frontend for Stable Diffusion.
+
+- [novelai-colab-ver #Project#](https://github.com/JingShing/novelai-colab-ver): You can use this version to experience how novelai works without a good gpu.

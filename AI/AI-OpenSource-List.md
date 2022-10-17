@@ -221,7 +221,11 @@
 
 - [PaddleGAN #Project#](https://github.com/PaddlePaddle/PaddleGAN): PaddlePaddle GAN library, including lots of interesting applications like DeepFake First-Order motion transfer, Mai-ha-hi（蚂蚁呀嘿), faceswap wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
 
-## 图像分类
+## 图像处理
+
+- [Rembg #Project#](https://github.com/danielgatis/rembg): Rembg is a tool to remove images background. That is it.
+
+### 图像分类
 
 - [Nsfw JS #Project#](https://github.com/infinitered/nsfwjs): A simple JavaScript library to help you quickly identify unseemly images; all in the client's browser. NSFWJS isn't perfect, but it's pretty accurate (~90% from our test set of 15,000 test images)... and it's getting more accurate all the time.
 

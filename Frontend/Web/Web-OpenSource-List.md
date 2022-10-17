@@ -84,13 +84,9 @@
 
 - [JavaScript obfuscator #Project#](https://github.com/javascript-obfuscator/javascript-obfuscator): JavaScript Obfuscator is a powerful free obfuscator for JavaScript, containing a variety of features which provide protection for your source code.
 
-## SSR
-
-- [2019-ssr #Project#](https://github.com/ykfe/ssr): A most advanced ssr framework on Earth that implemented serverless-side render specification for faas and traditional web server.
-
 # Library
 
-## Framework
+## UI Framework
 
 - [Svelte #Project#](https://github.com/sveltejs/svelte): Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
 
@@ -115,8 +111,6 @@
 - [wepy #Project#](https://tencent.github.io/wepy/): 让小程序支持组件化开发的框架，一个最受欢迎的小程序框架。
 
 - [2018-mpx #Project#](https://github.com/didi/mpx): A enhanced miniprogram framework with data reactivity and deep optimizition.
-
-- [Taro #Project#](https://github.com/NervJS/taro): 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序/百度智能小程序/支付宝小程序、H5、React Native 等的应用。
 
 - [Remax #Project#](https://github.com/remaxjs/remax): Remax 将 React 运行在小程序环境中，让你可以使用完整的 React 进行开发。
 
@@ -147,6 +141,14 @@
 ### CSS Pattern Libraries
 
 - [2020-NES.css #Project#](https://nostalgic-css.github.io/NES.css/): NES.css is NES-style (8bit-like) CSS Framework.
+
+## SSR Fullstack
+
+- [2019-ssr #Project#](https://github.com/ykfe/ssr): A most advanced ssr framework on Earth that implemented serverless-side render specification for faas and traditional web server.
+
+- [Astro #Project#](https://github.com/withastro/astro): Build faster websites with Astro's next-gen island architecture 🏝✨
+
+- [Remix #Project#](https://github.com/remix-run/remix): Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
 # Web APIs
 
