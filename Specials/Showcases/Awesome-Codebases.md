@@ -1,5 +1,7 @@
 # Awesome Products & Codebases
 
+- [Projectbook #Project#](https://github.com/brettchalupa/projectbook): A collection of over 100 project ideas for learning new programming languages, frameworks, and libraries.
+
 - [Build yourself a Linux](https://github.com/MichielDerhaeg/build-linux): A short tutorial about building Linux based operating systems.
 
 - [2018-mkernel #Project#](https://github.com/arjun024/mkeykernel?subject=os): This is a minimalist kernel which prints "my first kernel" on the screen and then hangs.

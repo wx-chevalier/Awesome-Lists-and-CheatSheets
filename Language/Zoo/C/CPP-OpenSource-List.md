@@ -35,3 +35,7 @@
 ## Concurrent
 
 - [ck #Project#](https://github.com/concurrencykit/ck): Concurrency primitives, safe memory reclamation mechanisms and non-blocking (including lock-free) data structures designed to aid in the research, design and implementation of high performance concurrent systems developed in C99+.
+
+# System
+
+- [watcher #Project#](https://github.com/e-dant/watcher): Filesystem watcher. Works anywhere. Simple, efficient and friendly.
