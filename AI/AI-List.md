@@ -68,6 +68,8 @@
 
 - [2020-learning #Collection#](https://github.com/amitness/learning): Becoming 1% better at data science everyday
 
+- [2022-ml-surveys #Collection#](https://github.com/eugeneyan/ml-surveys): 📋 Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.
+
 ### DataScience
 
 - [2021-Learn-Datascience-For-Free #Collection#](https://github.com/therealsreehari/Learn-Datascience-For-Free): This Repository Consists of Free Resources needed for a person to learn Datascience from the beginning to end. This repository is divided into Four main Parts.

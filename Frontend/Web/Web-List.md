@@ -50,6 +50,8 @@
 
 - [2021-Web Browser Engineering #Book#](https://browser.engineering/index.html): Web browsers are ubiquitous, but how do they work? This book explains, building a basic but complete web browser, from networking to JavaScript, in a thousand lines of Python.
 
+- [2022-Web Patterns #Book#](https://www.patterns.dev/): Patterns.dev is a free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.
+
 ### React
 
 - [2016-React In-depth: An exploration of UI development #Book#](https://www.gitbook.com/book/developmentarc/react-indepth/details):Our goal with this GitBook is to document our process, share our research and try to organize our experiences into a single living document. Too be honest, this is a pretty lofty goal. We may not achieve this goal, but hopefully we can get some helpful thoughts down.

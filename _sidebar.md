@@ -532,6 +532,7 @@
         - [6.9.12.10 Navigation List](/Frontend/Web/Widgets/Navigation-List.md)
         - [6.9.12.11 Picker List](/Frontend/Web/Widgets/Picker-List.md)
         - [6.9.12.12 Select List](/Frontend/Web/Widgets/Select-List.md)
+        - [6.9.12.13 Web Animation OpenSource List](/Frontend/Web/Widgets/Web-Animation-OpenSource-List.md)
   - 7 Backend
     - 7.1 Database
       - [7.1.1 Database List](/Backend/Database/Database-List.md)
