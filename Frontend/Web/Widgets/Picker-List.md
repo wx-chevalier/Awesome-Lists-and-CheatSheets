@@ -25,13 +25,3 @@
 - [places](https://github.com/algolia/places):Turn any `input` into an address autocomplete
 
 # Auto Format | 自动格式化
-
-# Date Picker | 日期选择器
-
-- [React-date-range #Project#](https://github.com/Adphorus/react-date-range)
-
-- [FlatPicker #Project#](https://github.com/chmln/flatpickr): 无依赖非常小的日期选择器
-
-# Time Picker / 时间选择器
-
-# DateTime Picker / 时间与日期选择

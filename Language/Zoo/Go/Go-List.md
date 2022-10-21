@@ -122,6 +122,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 # Tutorial
 
+- [2022-Learn Go #Series#](https://www.karanpratapsingh.com/courses/go): Master the fundamentals and advanced features of the Go programming language
+
 ## Quick Start
 
 - [2014-Go Start](https://github.com/alco/gostart): A getting started guide for Go newcomers

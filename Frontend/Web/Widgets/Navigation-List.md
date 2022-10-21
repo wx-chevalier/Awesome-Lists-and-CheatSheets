@@ -16,12 +16,6 @@
 
 # Steps | 步骤条
 
-# Timeline | 时间轴
-
-- [labella.js](https://github.com/twitter/labella.js)
-
-- [d3-timeline](https://github.com/commodityvectors/d3-timeline)
-
 # Search | 搜索
 
 - [Holmes #Project#](https://haroen.me/holmes/): Fast and easy searching inside a page.
