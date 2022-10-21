@@ -317,3 +317,5 @@
 - [Garfish #Project#](https://github.com/bytedance/garfish): Garfish is a micro front-end framework, mainly used to solve the problems of cross-team collaboration, diversification of technology system, and increasing complexity of applications brought by modern web applications in the context of front-end ecological boom and increasing complexity of web applications, and Garfish has been polished and tested by a large number of online applications, with strong functional stability and reliability.
 
 - [micro-app #Project#](https://github.com/micro-zoe/micro-app): micro-app 是一款基于类 WebComponent 进行渲染的微前端框架，不同于目前流行的开源框架，它从组件化的思维实现微前端，旨在降低上手难度、提升工作效率。它是目前市面上接入微前端成本最低的框架，并且提供了 JS 沙箱、样式隔离、元素隔离、预加载、资源地址补全、插件系统、数据通信等一系列完善的功能。
+
+- [wujie #Project#](https://github.com/Tencent/wujie): Web Components 是一个浏览器原生支持的组件封装技术，可以有效隔离元素之间的样式，iframe 可以给子应用提供一个原生隔离的运行环境，相比自行构造的沙箱 iframe 提供了独立的 window、document、history、location，可以更好的和外部解耦。无界微前端采用 webcomponent + iframe 的沙箱模式，在实现原生隔离的前提下比较完善的解决了上述问题。

@@ -506,11 +506,12 @@
       - [7.8.3 WebVR List](/Frontend/VR/WebVR-List.md)
     - 7.9 Web
       - 7.9.1 Architecture
-        - [7.9.1.1 Web Architecture List](/Frontend/Web/Architecture/Web-Architecture-List.md)
-        - [7.9.1.2 Web Componentization List](/Frontend/Web/Architecture/Web-Componentization-List.md)
-        - [7.9.1.3 Web SPA List](/Frontend/Web/Architecture/Web-SPA-List.md)
-        - [7.9.1.4 Web StateManagement List](/Frontend/Web/Architecture/Web-StateManagement-List.md)
-        - [7.9.1.5 Web StyleGuide List](/Frontend/Web/Architecture/Web-StyleGuide-List.md)
+        - [7.9.1.1 MicroFrontend List](/Frontend/Web/Architecture/MicroFrontend-List.md)
+        - [7.9.1.2 Web Architecture List](/Frontend/Web/Architecture/Web-Architecture-List.md)
+        - [7.9.1.3 Web Componentization List](/Frontend/Web/Architecture/Web-Componentization-List.md)
+        - [7.9.1.4 Web SPA List](/Frontend/Web/Architecture/Web-SPA-List.md)
+        - [7.9.1.5 Web StateManagement List](/Frontend/Web/Architecture/Web-StateManagement-List.md)
+        - [7.9.1.6 Web StyleGuide List](/Frontend/Web/Architecture/Web-StyleGuide-List.md)
       - 7.9.2 Browser
         - [7.9.2.1 Browser Automation List](/Frontend/Web/Browser/Browser-Automation-List.md)
         - [7.9.2.2 Browser Extension List](/Frontend/Web/Browser/Browser-Extension-List.md)
