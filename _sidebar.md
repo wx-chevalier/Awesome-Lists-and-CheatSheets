@@ -77,20 +77,21 @@
   - [3 README en](/README-en.md)
   - 4 System
     - 4.1 Architecture
-      - 4.1.1 CodeStyle
-        - [4.1.1.1 CleanCode List](/System/Architecture/CodeStyle/CleanCode-List.md)
-        - [4.1.1.2 CodeReview List](/System/Architecture/CodeStyle/CodeReview-List.md)
-        - [4.1.1.3 CodeStyle OpenSource List](/System/Architecture/CodeStyle/CodeStyle-OpenSource-List.md)
-        - [4.1.1.4 Refactor List](/System/Architecture/CodeStyle/Refactor-List.md)
-        - [4.1.1.5 SecurityGuide List](/System/Architecture/CodeStyle/SecurityGuide-List.md)
-      - 4.1.2 GUIArchitecture
-        - [4.1.2.1 GUIArchitecture List](/System/Architecture/GUIArchitecture/GUIArchitecture-List.md)
-      - 4.1.3 LogicalArchitecture
-        - [4.1.3.1 CQRS List](/System/Architecture/LogicalArchitecture/CQRS-List.md)
-        - [4.1.3.2 CleanArchitecture List](/System/Architecture/LogicalArchitecture/CleanArchitecture-List.md)
-        - [4.1.3.3 DDD List](/System/Architecture/LogicalArchitecture/DDD-List.md)
-        - [4.1.3.4 EDA List](/System/Architecture/LogicalArchitecture/EDA-List.md)
-        - [4.1.3.5 LogicalArchitecture List](/System/Architecture/LogicalArchitecture/LogicalArchitecture-List.md)
+      - [4.1.1 Architecture List](/System/Architecture/Architecture-List.md)
+      - 4.1.2 CodeStyle
+        - [4.1.2.1 CleanCode List](/System/Architecture/CodeStyle/CleanCode-List.md)
+        - [4.1.2.2 CodeReview List](/System/Architecture/CodeStyle/CodeReview-List.md)
+        - [4.1.2.3 CodeStyle OpenSource List](/System/Architecture/CodeStyle/CodeStyle-OpenSource-List.md)
+        - [4.1.2.4 Refactor List](/System/Architecture/CodeStyle/Refactor-List.md)
+        - [4.1.2.5 SecurityGuide List](/System/Architecture/CodeStyle/SecurityGuide-List.md)
+      - 4.1.3 GUIArchitecture
+        - [4.1.3.1 GUIArchitecture List](/System/Architecture/GUIArchitecture/GUIArchitecture-List.md)
+      - 4.1.4 LogicalArchitecture
+        - [4.1.4.1 CQRS List](/System/Architecture/LogicalArchitecture/CQRS-List.md)
+        - [4.1.4.2 CleanArchitecture List](/System/Architecture/LogicalArchitecture/CleanArchitecture-List.md)
+        - [4.1.4.3 DDD List](/System/Architecture/LogicalArchitecture/DDD-List.md)
+        - [4.1.4.4 EDA List](/System/Architecture/LogicalArchitecture/EDA-List.md)
+        - [4.1.4.5 LogicalArchitecture List](/System/Architecture/LogicalArchitecture/LogicalArchitecture-List.md)
     - 4.2 DevOps
       - [4.2.1 AIOps List](/System/DevOps/AIOps-List.md)
       - 4.2.2 Automation
@@ -108,9 +109,9 @@
         - [4.2.7.2 Aggregation List](/System/DevOps/MonitorAlert/Aggregation-List.md)
         - [4.2.7.3 MonitorAlert List](/System/DevOps/MonitorAlert/MonitorAlert-List.md)
         - [4.2.7.4 MonitorAlert OpenSource List](/System/DevOps/MonitorAlert/MonitorAlert-OpenSource-List.md)
-    - [4.3 Engineering List](/System/Engineering-List.md)
-    - 4.4 QA
-      - [4.4.1 QA List](/System/QA/QA-List.md)
+    - 4.3 QA
+      - [4.3.1 QA List](/System/QA/QA-List.md)
+    - [4.4 System List](/System/System-List.md)
     - 4.5 Teamwork
       - 4.5.1 Git
         - [4.5.1.1 Git List](/System/Teamwork/Git/Git-List.md)
@@ -145,8 +146,7 @@
       - [5.3.4 Awesome Creativity](/Specials/Showcases/Awesome-Creativity.md)
       - [5.3.5 Awesome DataVis](/Specials/Showcases/Awesome-DataVis.md)
       - [5.3.6 Awesome Spinners](/Specials/Showcases/Awesome-Spinners.md)
-      - [5.3.7 Awesome Systems](/Specials/Showcases/Awesome-Systems.md)
-      - [5.3.8 Coding as Vetren](/Specials/Showcases/Coding-as-Vetren.md)
+      - [5.3.7 Coding as Vetren](/Specials/Showcases/Coding-as-Vetren.md)
     - [5.4 Tools & Projects](/Specials/Tools%20&%20Projects/README.md)
       - [5.4.1 Automation](/Specials/Tools%20&%20Projects/Automation.md)
       - [5.4.2 Awesome Tools](/Specials/Tools%20&%20Projects/Awesome-Tools.md)

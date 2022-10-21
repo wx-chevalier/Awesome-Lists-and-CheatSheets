@@ -36,6 +36,8 @@
 
 - [2017-The System Design Primer #Book#](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep for the system design interview.
 
+- [Software-Engineering-at-Google #Book#](https://github.com/qiangmzsx/Software-Engineering-at-Google): 《Software Engineering at Google》的中文翻译版本。
+
 ## Collection
 
 - [2018-从 Spring Cloud 开始，聊聊微服务架构实践之路](http://mp.weixin.qq.com/s/DZQU4s9YNx4fXsfwu5whIg): 平台的技术架构也完成了从传统的单体应用到微服务化的演进。
