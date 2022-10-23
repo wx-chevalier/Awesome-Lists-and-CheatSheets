@@ -32,6 +32,8 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2019-The Little Handbook of Statistical Practice #Book#](http://www.jerrydallal.com/LHSP/LHSP.htm): This is about statistical practice--what happens when a statistician (me) deals with data on a daily basis.
 
+- [2022-Visualize ML #Book#](https://github.com/Visualize-ML): Book3_Fundamentals-of-Mathematics, Book4_Power-of-Matrix, Book5_Probability-and-Statistics, Book6_Data-Science, Book7_Machine-Learning。
+
 # Machine Learning | 机器学习
 
 - [2007-Pattern Recognition And Machine Learning #Book#](https://book.douban.com/subject/2061116/): The book is suitable for courses on machine learning, statistics, computer science, signal processing, computer vision, data mining, and bioinformatics.
