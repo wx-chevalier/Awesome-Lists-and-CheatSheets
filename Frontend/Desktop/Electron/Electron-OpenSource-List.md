@@ -14,6 +14,8 @@
 
 - [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord): Better Discord enhances Discord desktop app with new features.
 
+- [windows95 #Project#](https://github.com/felixrieseberg/windows95): This is Windows 95, running in an Electron app. Yes, it's the full thing. I'm sorry.
+
 ## Boilerplate
 
 - [electron-react-typescript-webpack-boilerplate #Project#](https://github.com/Devtography/electron-react-typescript-webpack-boilerplate): Pre-configured boilerplate for Electron + React + TypeScript + Webpack.
