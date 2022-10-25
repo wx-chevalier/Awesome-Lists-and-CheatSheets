@@ -15,3 +15,5 @@
 - [2021-jina #Project#](https://github.com/jina-ai/jina): An easier way to build neural search on the cloud.
 
 - [2022-Zinc #Project#](https://github.com/prabhatsharma/zinc): Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+
+- [2022-Sonic #Project#](https://github.com/valeriansaliou/sonic): Sonic is a fast, lightweight and schema-less search backend. It ingests search texts and identifier tuples that can then be queried against in a microsecond's time.
