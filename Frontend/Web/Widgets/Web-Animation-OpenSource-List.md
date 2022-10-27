@@ -37,3 +37,27 @@
 ## Misc
 
 - [ola #Project#](https://github.com/franciscop/ola): Smooth animation library for interpolating numbers.
+
+# Scroll Animation
+
+## Element Scroll
+
+- [MoveTo #Project#](https://github.com/hsnaydd/moveTo): A lightweight (only 1kb gzipped) scroll animation javascript library without any dependency.
+
+## Page Animation
+
+- [Locomotive Scroll #Project#](https://github.com/locomotivemtl/locomotive-scroll): 🛤 Detection of elements in viewport & smooth scrolling with parallax.
+
+## Carousel | 走马灯
+
+- [2017-A Content Slider #Project#](https://inclusive-components.design/a-content-slider/): Here, we shall be creating something that fulfills the basic purpose of a carousel — to allow the traversal of content along a horizontal axis — without being too reverential about the characteristics of past implementations.
+
+## Parallax
+
+- [rellax #Project#](https://github.com/dixonandmoe/rellax): Lightweight, vanilla javascript parallax library.
+
+- [ScrollTrigger #Project#](https://github.com/terwanerik/ScrollTrigger)
+
+- [basicScroll #Project#](https://github.com/electerious/basicScroll): Standalone parallax scrolling for mobile and desktop with CSS variables.
+
+- [2018-react-parallax #Project#](https://github.com/RRutsche/react-parallax#readme): A React Component for parallax effect.

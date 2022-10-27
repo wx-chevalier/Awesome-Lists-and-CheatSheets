@@ -1,9 +1,5 @@
 # Web Gallery Widgets List
 
-# Carousel | 走马灯
-
-- [2017-A Content Slider #Project#](https://inclusive-components.design/a-content-slider/): Here, we shall be creating something that fulfills the basic purpose of a carousel — to allow the traversal of content along a horizontal axis — without being too reverential about the characteristics of past implementations.
-
 # ImageView
 
 - [supersized #Project#](https://github.com/buildinternet/supersized)
@@ -35,13 +31,3 @@
 - [2018-Squoosh #Project#](https://github.com/GoogleChromeLabs/squoosh): Squoosh is an image compression web app that allows you to dive into the advanced options provided by various image compressors.
 
 - [2017-react-imgpro #Project# ](https://github.com/nitin42/react-imgpro): Image Processing Component for React.
-
-# Parallax
-
-- [rellax #Project#](https://github.com/dixonandmoe/rellax): Lightweight, vanilla javascript parallax library.
-
-- [ScrollTrigger #Project#](https://github.com/terwanerik/ScrollTrigger)
-
-- [basicScroll #Project#](https://github.com/electerious/basicScroll): Standalone parallax scrolling for mobile and desktop with CSS variables.
-
-- [2018-react-parallax #Project#](https://github.com/RRutsche/react-parallax#readme): A React Component for parallax effect.
