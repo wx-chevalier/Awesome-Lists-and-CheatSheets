@@ -19,3 +19,5 @@
 - [stable-diffusion-studio #Project#](https://github.com/amotile/stable-diffusion-studio): An animation focused workflow frontend for Stable Diffusion.
 
 - [novelai-colab-ver #Project#](https://github.com/JingShing/novelai-colab-ver): You can use this version to experience how novelai works without a good gpu.
+
+- [fast-stable-diffusion #Project#](https://github.com/TheLastBen/fast-stable-diffusion): fast-stable-diffusion colabs, +25-50% speed increase + memory efficient + DreamBooth

@@ -24,7 +24,7 @@
 
 - [AI Playbook #Project#](http://aiplaybook.a16z.com/): This site is designed as a resource for anyone asking those questions, complete with examples and sample code to help you get started.
 
-- [2019-Machine Learning Notebooks #Project#](https://github.com/ageron/handson-ml2): A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
+- [2019-Machine Learning Notebooks #Project#](https://github.com/ageron/handson-ml3): A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 
 # TensorFlow
 
