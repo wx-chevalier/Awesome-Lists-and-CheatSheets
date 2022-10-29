@@ -24,6 +24,10 @@
 
 - [react-planner #Project#](https://github.com/cvdlab/react-planner): ✏️ A React Component for plans design. Draw a 2D floorplan and navigate it in 3D mode.
 
+## Utils
+
+- [three-geometry-welder #Project#](https://github.com/0xAxiome/three-geometry-welder): A customizable way of merging your buffer geometry
+
 ### Example
 
 - [threejs-cookbook #Project#](https://github.com/josdirksen/threejs-cookbook): Examples for the Three.js Cookbook book published by packt

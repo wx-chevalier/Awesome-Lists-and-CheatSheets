@@ -16,6 +16,8 @@
 
 - [2021-DGIOT #Project#](https://github.com/dgiot/dgiot): DGIOT is the first lightweight open source industrial IoT continuous integration platform in China.
 
+- [2022-jetlinks-community #Project#](https://github.com/jetlinks/jetlinks-community): JetLinks 基于 Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor 等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP 等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。
+
 # Gateway
 
 - [2015-Microsoft Azure IoT Protocol Gateway](https://github.com/Azure/azure-iot-protocol-gateway): Azure IoT protocol gateway enables protocol translation for Azure IoT Hub.

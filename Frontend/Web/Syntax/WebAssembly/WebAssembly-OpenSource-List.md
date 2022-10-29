@@ -10,11 +10,15 @@
 
 - [WebAssemblyStudio #Project#](https://github.com/wasdk/WebAssemblyStudio): Learn, Teach, Work and Play in the Web Assembly Studio.
 
-- [WebAssembly Micro Runtime #Project#](https://github.com/intel/wasm-micro-runtime): WebAssembly Micro Runtime (WAMR) is standalone WebAssembly (WASM) runtime with a small footprint. It includes a few components.
-
 - [v86 #Project#](https://github.com/copy/v86): v86 emulates an x86-compatible CPU and hardware. Machine code is translated to WebAssembly modules at runtime in order to achieve decent performance.
 
 - [Zaplib #Project#](https://github.com/Zaplib): ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
+
+## Server
+
+- [WebAssembly Micro Runtime #Project#](https://github.com/intel/wasm-micro-runtime): WebAssembly Micro Runtime (WAMR) is standalone WebAssembly (WASM) runtime with a small footprint. It includes a few components.
+
+- [2022-microservice-rust-mysql #Project#](https://github.com/second-state/microservice-rust-mysql): A template project for building a database-driven microservice in Rust and run it in the WasmEdge sandbox.
 
 # Interpreter
 

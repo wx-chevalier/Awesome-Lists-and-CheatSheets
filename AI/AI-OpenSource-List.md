@@ -134,6 +134,8 @@
 
 - [2022-Haystack #Project#](https://github.com/deepset-ai/haystack): Haystack is an end-to-end framework that enables you to build powerful and production-ready pipelines for different search use cases. Whether you want to perform Question Answering or semantic document search, you can use the State-of-the-Art NLP models in Haystack to provide unique search experiences and allow your users to query in natural language. Haystack is built in a modular fashion so that you can combine the best technology from other open-source projects like Huggingface's Transformers, Elasticsearch, or Milvus.
 
+- [2022-PaddleNLP #Project#](https://github.com/PaddlePaddle/PaddleNLP): Easy-to-use and powerful NLP library with Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including Neural Search, Question Answering, Information Extraction and Sentiment Analysis end-to-end system.
+
 ## Language Representation
 
 - [2018-BERT #Project#](https://github.com/google-research/bert): BERT is method of pre-training language representations, meaning that we train a general-purpose "language understanding" model on a large text corpus (like Wikipedia), and then use that model for downstream NLP tasks that we care about (like question answering). [海量中文预训练 ALBERT 模型](https://github.com/brightmart/albert_zh)。

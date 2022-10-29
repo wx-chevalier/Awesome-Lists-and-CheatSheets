@@ -34,6 +34,10 @@
 
 - [Py-Spy #Project#](https://github.com/benfred/py-spy): Py-Spy is a sampling profiler for Python programs. It lets you visualize what your Python program is spending time on without restarting the program or modifying the code in any way.
 
+## Jupyter Notebooks
+
+- [ipywidgets #Project#](https://github.com/jupyter-widgets/ipywidgets): ipywidgets, also known as jupyter-widgets or simply widgets, are interactive HTML widgets for Jupyter notebooks and the IPython kernel.
+
 # Library
 
 ## Framework

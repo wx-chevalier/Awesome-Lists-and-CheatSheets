@@ -88,6 +88,8 @@
 
 - [2021-SeaTunnel #Project#](https://github.com/apache/incubator-seatunnel): SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
 
+- [2022-BitSail #Project#](https://github.com/bytedance/bitsail): BitSail is a distributed high-performance data integration engine which supports batch, streaming and incremental scenarios. BitSail is widely used to synchronize hundreds of trillions of data every day.
+
 ## CDC & Data Pipeline
 
 - [Debezium #Project#](https://debezium.io/docs/tutorial/): Debezium is a distributed platform that turns your existing databases into event streams, so applications can see and respond immediately to each row-level change in the databases.
