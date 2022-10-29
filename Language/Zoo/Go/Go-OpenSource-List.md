@@ -38,6 +38,10 @@
 
 - [gin-vue-admin #Project#](https://github.com/flipped-aurora/gin-vue-admin): 基于 gin+vue 搭建的后台管理系统框架，集成 jwt 鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能。
 
+## Template 
+
+- [go-eagle #Project#](https://github.com/go-eagle/eagle): 🦅一款小巧的基于Go构建的开发框架，可以快速构建API服务或者Web网站进行业务开发，遵循SOLID设计原则。
+
 # Dev
 
 - [GoPlus #Project#](https://www.oschina.net/p/goplus): GoPlus（Go+）是一门静态类型语言，与 Go 语言完全兼容。其代码样式类似脚本，并且比 Go 更具可读性，专门用于数据科学。
