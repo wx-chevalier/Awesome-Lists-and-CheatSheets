@@ -20,6 +20,10 @@
 
 - [2022-microservice-rust-mysql #Project#](https://github.com/second-state/microservice-rust-mysql): A template project for building a database-driven microservice in Rust and run it in the WasmEdge sandbox.
 
+# Compiler
+
+- [CoWasm #Project#](https://github.com/sagemathinc/cowasm): CoWasm: Collaborative WebAssembly for Servers and Browsers. Built using Zig. Supports Python with extension modules, including numpy.
+
 # Interpreter
 
 - [wasm3 #Project#](https://github.com/wasm3/wasm3): 🚀 The fastest WebAssembly interpreter.
