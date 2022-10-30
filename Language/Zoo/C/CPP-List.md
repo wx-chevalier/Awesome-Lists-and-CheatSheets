@@ -24,6 +24,8 @@
 
 - [Modern C++ Tutorial: C++11/14/17/20 On the Fly #Book#](https://github.com/changkun/modern-cpp-tutorial): The book claims "On the Fly". Its intent is to provide a comprehensive introduction to the relevant features regarding modern C++ (before 2020s).
 
-- [2020-CPlusPlusThings #Book#](https://github.com/Light-City/CPlusPlusThings): 这是一个适合初学者从入门到进阶的仓库，解决了面试者与学习者想要深入 C++及如何入坑 C++的问题。除此之外，本仓库拓展了更加深入的源码分析，多线程并发等的知识，是一个比较全面的 C++ 学习从入门到进阶提升的仓库。
+- [2020-CPlusPlusThings #Book#](https://github.com/Light-City/CPlusPlusThings): 这是一个适合初学者从入门到进阶的仓库，解决了面试者与学习者想要深入 C++ 及如何入坑 C++ 的问题。除此之外，本仓库拓展了更加深入的源码分析，多线程并发等的知识，是一个比较全面的 C++ 学习从入门到进阶提升的仓库。
 
 - [2021-perf book #Project#](https://github.com/dendibakh/perf-book): This is a repository with source files of the book "Performance Analysis and Tuning on Modern CPU" by Denis Bakhvalov, et al.
+
+- [2022-A Tour of C++ (Third edition) #Book#](https://www.stroustrup.com/tour3.html): The ``tour'' is a quick (254 pages + index, historical information, etc.) tutorial overview of all of standard C++ (language and standard library) at a moderately high level for people who already know C++ or at least are experienced programmers. It covers C++20 plus a few likely features of C++23.
