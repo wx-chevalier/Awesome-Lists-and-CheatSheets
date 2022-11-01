@@ -22,7 +22,9 @@
 
 ## Book
 
-- [Modern C++ Tutorial: C++11/14/17/20 On the Fly #Book#](https://github.com/changkun/modern-cpp-tutorial): The book claims "On the Fly". Its intent is to provide a comprehensive introduction to the relevant features regarding modern C++ (before 2020s).
+- [2013-C++ 并发编程指南 #Book#](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice): 本书《C++ 并发编程指南》是个人在空余时间写的，由于时间仓促，加上自身水平有限，不可能写的很完善，也难免出现错误，如果你发现本书中的错误，或者有更好的想法，欢迎给我反馈，我会第一时间给予答复。后续我会坚持完善这一系列的文章。也希望感兴趣的同学和我一起完成。
+
+- [2019-Modern C++ Tutorial: C++11/14/17/20 On the Fly #Book#](https://github.com/changkun/modern-cpp-tutorial): The book claims "On the Fly". Its intent is to provide a comprehensive introduction to the relevant features regarding modern C++ (before 2020s).
 
 - [2020-CPlusPlusThings #Book#](https://github.com/Light-City/CPlusPlusThings): 这是一个适合初学者从入门到进阶的仓库，解决了面试者与学习者想要深入 C++ 及如何入坑 C++ 的问题。除此之外，本仓库拓展了更加深入的源码分析，多线程并发等的知识，是一个比较全面的 C++ 学习从入门到进阶提升的仓库。
 

@@ -28,6 +28,10 @@ Awesome Codebases 收藏了哪些设计，代码风格，或者架构优美的�
 
 - [Ferry #Project#](https://github.com/lanyulei/ferry): 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。
 
+# Code Snippets
+
+- [Rosetta Code #Project#](https://rosettacode.org/wiki/Rosetta_Code): Rosetta Code is a programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another. Rosetta Code currently has 1,200 tasks, 388 draft tasks, and is aware of 878 languages, though we do not (and cannot) have solutions to every task in every language.
+
 # Web Template
 
 - [Cruip](https://cruip.com): Beautifully designed HTML templates to help you easily create a landing page that looks professional, converts visitors, and grows your business.

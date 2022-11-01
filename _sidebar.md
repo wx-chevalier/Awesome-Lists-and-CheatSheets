@@ -145,7 +145,7 @@
       - [5.3.3 Awesome Codebases](/Specials/Showcases/Awesome-Codebases.md)
       - [5.3.4 Awesome Creativity](/Specials/Showcases/Awesome-Creativity.md)
       - [5.3.5 Awesome DataVis](/Specials/Showcases/Awesome-DataVis.md)
-      - [5.3.6 Awesome Spinners](/Specials/Showcases/Awesome-Spinners.md)
+      - [5.3.6 Awesome Designs](/Specials/Showcases/Awesome-Designs.md)
       - [5.3.7 Coding as Vetren](/Specials/Showcases/Coding-as-Vetren.md)
     - [5.4 Tools & Projects](/Specials/Tools%20&%20Projects/README.md)
       - [5.4.1 Automation](/Specials/Tools%20&%20Projects/Automation.md)
