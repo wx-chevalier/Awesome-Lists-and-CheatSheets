@@ -28,6 +28,8 @@
 
 - [Imagor #Project#](https://github.com/cshum/imagor): Fast, Docker-ready image processing server written in Go and libvips, with Thumbor URL syntax
 
+- [Lama Cleaner #Project#](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+
 ## Image Recognition
 
 - [Uber Image Diff](https://github.com/uber/image-diff)

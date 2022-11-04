@@ -72,6 +72,10 @@
 
 - [2019-Jupytext #Project#](https://github.com/mwouts/jupytext): Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts.
 
+# Model
+
+- [ModelScope #Project#](https://modelscope.cn/home): ModelScope 旨在打造下一代开源的模型即服务共享平台，为泛 AI 开发者提供灵活、易用、低成本的一站式模型服务产品，让模型应用更简单！
+
 ## Pretrained Models
 
 - [2019-Deep Learning Models #Collection# #Project#](https://github.com/rasbt/deeplearning-models): A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.

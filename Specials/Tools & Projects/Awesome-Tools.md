@@ -6,6 +6,8 @@ Awesome Tools 是对于开发人员日常使用的成熟工具的集锦。
 
 # Windows
 
+- [SHELL #Project#](https://nilesoft.org/): Powerful context menu manager for Windows File Explorer
+
 # Teamwork
 
 ## File Sharing

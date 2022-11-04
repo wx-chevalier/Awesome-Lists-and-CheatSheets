@@ -4,6 +4,6 @@
 
 - [2018-学会这些技巧，你就成了 GIF 达人](https://zhuanlan.zhihu.com/p/36379462)
 
-# SVG
+# OpenSource
 
-- [high-performance-svgs](https://css-tricks.com/high-performance-svgs/)
+- [Photon #Project#](https://github.com/silvia-odwyer/photon): High-performance, cross-platform Rust/WebAssembly image processing library.

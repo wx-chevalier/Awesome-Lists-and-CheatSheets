@@ -16,7 +16,9 @@
 
 # HTTPS
 
-- [acme.sh](https://github.com/Neilpang/acme.sh): A pure Unix shell script implementing ACME client protocol.
+- [acme.sh #Project#](https://github.com/Neilpang/acme.sh): A pure Unix shell script implementing ACME client protocol.
+
+- [mkcert #Project#](https://github.com/FiloSottile/mkcert): A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
 # HTTP
 
@@ -39,6 +41,8 @@
 - [whistle #Project#](https://github.com/avwo/whistle): whistle is a cross-platform web debugging tool based on Node.js.
 
 - [Talkback #Project#](https://github.com/ijpiantanida/talkback/): Talkback is a pure javascript standalone HTTP proxy.
+
+- [sing-box #Project#](https://github.com/SagerNet/sing-box): The universal proxy platform.
 
 ## Web
 
