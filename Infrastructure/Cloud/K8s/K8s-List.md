@@ -74,6 +74,8 @@
 
 - [2020-Making Kubernetes uncomplicated #Series#](https://github.com/badtuxx/DescomplicandoKubernetes): In this material you will have contact with contents that cover from beginner to advanced level on Kubernetes, and now that it has become open, with the help of everyone we will build the largest and most complete material on Kubernetes in the world.
 
+- [Kubernetes Tutorial for Beginners – Basic Concepts and Examples](https://spacelift.io/blog/kubernetes-tutorial)
+
 # Pod
 
 - [2019-人人都能看懂的 Pod 与容器设计模式](https://mp.weixin.qq.com/s/ANPYwvei0bS6DychViTWhQ): Pod 与容器设计模式是 Kubernetes 体系里面最重要的一个基础知识点，每一个 Kubernetes 学习者都需要仔细揣摩并掌握。本文将由阿里云容器平台高级技术专家、CNCF 官方大使张磊为大家讲述：我们为什么需要 Pod 以及容器设计模式的详细解读等。
