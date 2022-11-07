@@ -30,6 +30,8 @@
 
 - [keto #Project#](https://github.com/ory/keto): Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 
+- [Casdoor #Projects#](https://github.com/casdoor/casdoor): An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS.
+
 ## OAuth
 
 - [2016-Hydra #Project#](https://github.com/ory/hydra): OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language.
