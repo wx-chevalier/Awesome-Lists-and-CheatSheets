@@ -1,8 +1,6 @@
-# 运营资料索引
+# Operation List（运营资料索引）
 
-- [小红书从用户画像到社区运营怎么做的？模板在这儿！](http://www.tuicool.com/articles/jInQnmv)
-
-- [为什么张小龙说好产品要用完即走？](http://www.tuicool.com/articles/aMJjeiq)
+- [2022-Principes of Pricing](https://www.principlesofpricing.com/): Welcome to The Principles of Pricing, from Notion Capital. Our mission is to share the knowledge, tools, and operating principles which enable B2B SaaS and Cloud businesses to develop best-in-class pricing and monetisation strategies and build in house expertise.
 
 # 用户激励
 

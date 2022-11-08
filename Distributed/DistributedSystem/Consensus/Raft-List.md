@@ -10,8 +10,6 @@
 
 - [A brief overview of the Raft algorithm](http://blog.carlosgaldino.com/a-brief-overview-of-the-raft-algorithm.html): In the following sections you will learn more about consensus algorithms and how the Raft algorithm works.
 
-- [raft 原理(一)：选主与日志复制](http://www.tuicool.com/articles/aeiu2mm)
-
 - [如何基于 Raft 绕过分布式算法一致性的那些痛？(有彩蛋)](http://mp.weixin.qq.com/s/twCsA0CupyyDK_KtKmdQvQ))
 
 # Tutorials

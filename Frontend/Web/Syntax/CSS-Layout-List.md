@@ -40,8 +40,6 @@
 
 - [使用 CSS 完成元素居中的七种方法 ](http://www.zcfy.cc/article/439)
 
-- [把简单做好也不简单 -css 水平垂直居中](http://www.tuicool.com/articles/VrQzya)
-
 - [CSS Vertical Centering – Everything You Need To Know](http://webdesignerwall.com/tutorials/css-vertical-centering-everything-need-know)
 
 # Flexbox
@@ -73,8 +71,6 @@
 - [2017-Getting started with CSS Grid Layout](https://parg.co/bNW): Helpful resources and tutorials to bring you up to speed.
 
 - [2017-CSS Grid Gotchas And Stumbling Blocks](https://parg.co/Umq)
-
-- [Understanding the CSS Grid “Auto-Placement Algorithm”](http://www.tuicool.com/articles/uqAJFvn)
 
 - [How to build a responsive grid system](https://zellwk.com/blog/responsive-grid-system/)
 

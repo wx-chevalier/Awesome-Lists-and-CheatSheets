@@ -1,7 +1,5 @@
 # 跨端混合开发
 
-- [Hybrid 开发：JsBridge - Web 和客户端的桥](http://www.tuicool.com/articles/7bQRRj7)
-
 - [支付宝 Hybrid 应用质量保证实践][http://www.infoq.com/cn/presentations/alipay-hybrid-application-quality-assurance-practice]
 
 - [Hybrid APP 架构设计思路](https://github.com/chemdemo/chemdemo.github.io/issues/12)

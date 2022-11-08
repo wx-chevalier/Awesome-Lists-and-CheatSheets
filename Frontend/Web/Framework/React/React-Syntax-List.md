@@ -28,8 +28,6 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 # Component Dataflow | 组件数据流
 
-- [2017-React 组件间通讯](http://www.tuicool.com/articles/6fayIbq)
-
 ## Props
 
 - [function-as-child-components](https://medium.com/@iammerrick/function-as-child-components-5f3920a9ace9#.4dpp6haq9)

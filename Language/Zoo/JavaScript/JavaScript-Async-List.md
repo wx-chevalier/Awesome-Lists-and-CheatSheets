@@ -12,8 +12,6 @@
 
 - [Node.js Flow (part 1) - Callback Hell vs. Async vs. Highland](http://blog.vullum.io/javascript-flow-callback-hell-vs-async-vs-highland/)
 
-- [Introduction into Channels and Transducers in JavaScript](http://www.tuicool.com/articles/zmmAjiU)
-
 # Event Loop
 
 - [2014-阮一峰-JavaScript 运行机制详解：再谈 Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)

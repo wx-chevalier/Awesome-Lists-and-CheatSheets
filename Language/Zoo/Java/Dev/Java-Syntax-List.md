@@ -44,8 +44,6 @@
 
 - [Java Generics cheat sheet](http://zeroturnaround.com/rebellabs/java-generics-cheat-sheet/)
 
-- [Java 泛型总结](http://www.tuicool.com/articles/YNZF3ev)
-
 - [Java 泛型里的协变和逆变 ](http://ybin.cc/programming/java-variance-in-generics/)
 
 - [generics-extends-super](http://onewebsql.com/blog/generics-extends-super)

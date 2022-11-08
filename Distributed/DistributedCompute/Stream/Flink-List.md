@@ -26,8 +26,6 @@
 
 - [wuchong Jark's Bloh 一系列关于 Flink 的博客](http://wuchong.me/archives/)
 
-- [推酷上汇集的一系列关于 Flink 的文章](http://www.tuicool.com/search?t=1&kw=flink&lang=0)
-
 - [Flink 系列博客 #Series#](https://mp.weixin.qq.com/s/ok-YwuVbwAVtJz7hUCiZxg): Flink 灵魂两百问，这谁顶得住？
 
 - [2019-Flink Learning #Series#](https://github.com/zhisheng17/flink-learning): 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例。

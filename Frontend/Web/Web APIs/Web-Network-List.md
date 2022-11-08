@@ -14,8 +14,6 @@
 
 # Cross Origin
 
-- [前端解决跨域问题的 8 种方案(最新最全)](http://www.tuicool.com/articles/ENZbEvi)
-
 - [JavaScript 四种跨域方法](http://segmentfault.com/a/1190000003642057)
 
 - [同源策略和跨域访问](http://blog.csdn.net/shimiso/article/details/21830313)
@@ -31,5 +29,3 @@
 - [MDN-HTTP 访问控制(CORS)](https://parg.co/UGw)
 
 # File Transfer | 文件传输
-
-- [前端实现文件的断点续传](http://www.tuicool.com/articles/neUzAbB)

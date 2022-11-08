@@ -4,8 +4,6 @@
 
 - [2017-巧用复合索引，有效降低系统 IO](https://mp.weixin.qq.com/s/G-UXWThBC9lH0f-Nx6UCBg): 今天我们将围绕 B\*Tree 索引的使用，解读如何合理地使用索引，以及如何通过正确的索引来提高性能。
 
-- [解开发者之痛：中国移动 MySQL 数据库优化最佳实践](http://www.tuicool.com/articles/MFjeIrm)
-
 - [实例解析 MySQL 性能瓶颈排查定位](http://ourmysql.com/archives/1416)
 
 - [高效 MySQL 的 N 个习惯](http://mp.weixin.qq.com/s?__biz=MjM5NzAzMTY4NQ==&mid=2653929230&idx=1&sn=60dd4c8527af847dd0ef58cc4c2c976e&chksm=bd3b25648a4cac72f0c5d4055b5a743b3847775c97b73c613a4b0b88271f16026d480d1ff2f0&scene=0#rd)

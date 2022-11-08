@@ -23,5 +23,3 @@
 - [阮一峰：Systemd 入门教程：实战篇](http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-part-two.html)
 
 - [Linux 的进程间通信-文件和文件锁](http://liwei.life/2016/07/31/file_and_filelock/)
-
-- [创建分区和文件系统](http://www.tuicool.com/articles/RZ7FvqV)

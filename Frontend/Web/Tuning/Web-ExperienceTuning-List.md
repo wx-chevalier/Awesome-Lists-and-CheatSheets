@@ -26,8 +26,6 @@
 
 - [Reframe #Project# ](https://dollarshaveclub.github.io/reframe.js/)
 
-- [移动端样式小技巧](http://www.tuicool.com/articles/niuaaar)
-
 - [专注于移动端样式库 Mobi.css](https://github.com/xcatliu/mobi.css/blob/master/dist/mobi.css)
 
 - [Device.js #Project#](https://github.com/matthewhudson/device.js): 面向不同的设备选用不同的布局代码

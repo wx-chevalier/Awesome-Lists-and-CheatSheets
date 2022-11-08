@@ -34,8 +34,6 @@
 
 - [正则表达式详解](http://my.oschina.net/u/2448717/blog/688037?fromerr=xJU48HPy)
 
-- [知道这 20 个正则表达式，能让你少写 1,000 行代码](http://www.tuicool.com/articles/qqURreY)
-
 - [Useful Regex Patterns](https://projects.lukehaas.me/regexhub/?)
 
 - [正则表达式实践篇](https://aotu.io/notes/2016/12/07/regexp-practice/)

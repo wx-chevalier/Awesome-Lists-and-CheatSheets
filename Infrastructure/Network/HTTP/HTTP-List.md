@@ -28,8 +28,6 @@
 
 - [浅谈浏览器 http 的缓存机制](http://www.cnblogs.com/vajoy/p/5341664.html)
 
-- [HTTP 缓存控制小结](http://www.tuicool.com/articles/URJjAb)
-
 - [彻底弄懂 Http 缓存机制 - 基于缓存策略三要素分解法](http://mp.weixin.qq.com/s/qOMO0LIdA47j3RjhbCWUEQ)
 
 - [web 性能优化之：no-cache 与 must-revalidate 深入探究](https://zhuanlan.zhihu.com/p/23281814)

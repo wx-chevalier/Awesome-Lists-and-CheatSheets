@@ -1,7 +1,5 @@
 # DOM List
 
-- [JavaScript 一些 DOM 的知识点](http://www.tuicool.com/articles/MnMRZ3v)
-
 - [What is the DOM?](https://css-tricks.com/dom/)
 
 - [MDN 上关于 DOM 的概述](https://developer.mozilla.org/zh-CN/docs/Web/API/Document_Object_Model/Introduction)

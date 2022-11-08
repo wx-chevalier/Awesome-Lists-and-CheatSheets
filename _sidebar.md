@@ -101,14 +101,17 @@
         - [4.2.3.2 Delivery List](/System/DevOps/CD/Delivery-List.md)
       - [4.2.4 DevOps List](/System/DevOps/DevOps-List.md)
       - [4.2.5 DevOps OpenSource List](/System/DevOps/DevOps-OpenSource-List.md)
-      - 4.2.6 LogAggregation
-        - [4.2.6.1 Flume List](/System/DevOps/LogAggregation/Flume-List.md)
-        - [4.2.6.2 LogAggregation List](/System/DevOps/LogAggregation/LogAggregation-List.md)
-      - 4.2.7 MonitorAlert
-        - [4.2.7.1 APM List](/System/DevOps/MonitorAlert/APM-List.md)
-        - [4.2.7.2 Aggregation List](/System/DevOps/MonitorAlert/Aggregation-List.md)
-        - [4.2.7.3 MonitorAlert List](/System/DevOps/MonitorAlert/MonitorAlert-List.md)
-        - [4.2.7.4 MonitorAlert OpenSource List](/System/DevOps/MonitorAlert/MonitorAlert-OpenSource-List.md)
+      - 4.2.6 DevSecOps
+        - [4.2.6.1 DevSecOps List](/System/DevOps/DevSecOps/DevSecOps-List.md)
+        - [4.2.6.2 Harden List](/System/DevOps/DevSecOps/Harden-List.md)
+      - 4.2.7 LogAggregation
+        - [4.2.7.1 Flume List](/System/DevOps/LogAggregation/Flume-List.md)
+        - [4.2.7.2 LogAggregation List](/System/DevOps/LogAggregation/LogAggregation-List.md)
+      - 4.2.8 MonitorAlert
+        - [4.2.8.1 APM List](/System/DevOps/MonitorAlert/APM-List.md)
+        - [4.2.8.2 Aggregation List](/System/DevOps/MonitorAlert/Aggregation-List.md)
+        - [4.2.8.3 MonitorAlert List](/System/DevOps/MonitorAlert/MonitorAlert-List.md)
+        - [4.2.8.4 MonitorAlert OpenSource List](/System/DevOps/MonitorAlert/MonitorAlert-OpenSource-List.md)
     - 4.3 QA
       - [4.3.1 QA List](/System/QA/QA-List.md)
     - [4.4 System List](/System/System-List.md)
@@ -672,11 +675,10 @@
       - [8.2.1 Cache List](/Backend/HA/Cache-List.md)
       - [8.2.2 HA List](/Backend/HA/HA-List.md)
       - [8.2.3 HA OpenSource List](/Backend/HA/HA-OpenSource-List.md)
-      - [8.2.4 Harden List](/Backend/HA/Harden-List.md)
-      - [8.2.5 ResilienceService List](/Backend/HA/ResilienceService-List.md)
-      - [8.2.6 RiskManagement List](/Backend/HA/RiskManagement-List.md)
-      - [8.2.7 SRE List](/Backend/HA/SRE-List.md)
-      - [8.2.8 Spike List](/Backend/HA/Spike-List.md)
+      - [8.2.4 ResilienceService List](/Backend/HA/ResilienceService-List.md)
+      - [8.2.5 RiskManagement List](/Backend/HA/RiskManagement-List.md)
+      - [8.2.6 SRE List](/Backend/HA/SRE-List.md)
+      - [8.2.7 Spike List](/Backend/HA/Spike-List.md)
     - 8.3 MOM
       - [8.3.1 Kafka List](/Backend/MOM/Kafka-List.md)
       - [8.3.2 MOM List](/Backend/MOM/MOM-List.md)

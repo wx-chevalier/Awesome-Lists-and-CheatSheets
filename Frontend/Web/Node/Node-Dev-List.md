@@ -21,5 +21,3 @@
 - [2017-A crash course on testing with Node.js](https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02): These masters of their craft, always cover code with tests, to ensure their work is valid.
 
 # Logging
-
-- [Better Logging in Nodejs](http://www.tuicool.com/articles/3iAFjev)

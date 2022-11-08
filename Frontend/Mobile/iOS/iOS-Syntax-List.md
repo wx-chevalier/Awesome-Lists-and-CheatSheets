@@ -16,8 +16,6 @@
 
 - [Swift 语言 Storyboard 教程:一个基于 Tabbar 与 Navigation 的小应用](http://www.cocoachina.com/ios/20150112/10892.html)
 
-- [自定义 UITabBar 总结](http://www.tuicool.com/articles/uymy2y)
-
 - [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController)
 
 - [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar)

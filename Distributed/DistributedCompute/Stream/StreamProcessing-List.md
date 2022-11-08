@@ -34,8 +34,6 @@
 
 - [How the end-to-end back-pressure mechanism inside Wallaroo works](https://parg.co/lHm)
 
-- [State in scalable architectures](http://www.tuicool.com/articles/Q7F3aq2)
-
 - [Differential dataflow roadmap](https://github.com/frankmcsherry/blog/blob/master/posts/2016-07-26.md)
 
 - [Microsoft differential-dataflow](https://www.microsoft.com/en-us/research/publication/differential-dataflow/)
