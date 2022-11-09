@@ -152,6 +152,8 @@
 
 - [Nebula #Project#](https://github.com/vesoft-inc/nebula): A distributed, fast open-source graph database featuring horizontal scalability and high availability.
 
+- [cozo #Project#](https://github.com/cozodb/cozo): A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms
+
 # TimeSeries
 
 - [2013-InfluxDB #Project#](https://github.com/influxdata/influxdb): InfluxDB is an open source time series database with no external dependencies. It's useful for recording metrics, events, and performing analytics.
