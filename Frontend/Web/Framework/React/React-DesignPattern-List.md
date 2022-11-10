@@ -88,8 +88,6 @@
 
 - [Testing in React: Getting Off The Ground](https://medium.com/javascript-inside/testing-in-react-getting-off-the-ground-5f569f3088a#.6ip96uul5)
 
-- [UI Testing in React](http://www.tuicool.com/articles/FBRN322)
-
 - [a-step-by-step-tdd-approach-on-testing-react-components-using-enzyme](http://thereignn.ghost.io/a-step-by-step-tdd-approach-on-testing-react-components-using-enzyme/)
 
 - [enzyme-javascript-testing-utilities-for-react](https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f#.huj3rtv24)

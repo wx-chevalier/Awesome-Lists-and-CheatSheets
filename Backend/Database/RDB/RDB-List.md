@@ -1,6 +1,6 @@
 # RDB Internals List
 
-- [2018-数据库内核杂谈 #Series#](https://www.jianshu.com/nb/25205074): 我希望能够深入浅出地去讲解数据库是一个什么样的系统，以及为什么它最后会演化成这样一个系统，为什么我们都用 SQL 来操作数据，而不是 AQL 或 BQL. 希望读者阅读后，对数据库的理解不再单单只是知道简单的 table, row 等的基本概念或者单单会写些 join, select 的 SQL 语句。而是能从源头真正做到知其所以然。
+- [2019-数据库内核杂谈 #Series#](https://www.jianshu.com/nb/25205074): 我希望能够深入浅出地去讲解数据库是一个什么样的系统，以及为什么它最后会演化成这样一个系统，为什么我们都用 SQL 来操作数据，而不是 AQL 或 BQL. 希望读者阅读后，对数据库的理解不再单单只是知道简单的 table, row 等的基本概念或者单单会写些 join, select 的 SQL 语句。而是能从源头真正做到知其所以然。
 
 - [2018-SQL Query Optimization Meets Deep Reinforcement Learning](https://parg.co/d64): We show that deep reinforcement learning is successful at optimizing SQL joins, a problem studied for decades in the database community.
 
@@ -14,7 +14,7 @@
 
 # Query Processing
 
-- [2021-比开源快30倍的自研 SQL Parser 设计与实践](https://zhuanlan.zhihu.com/p/380801055?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=57299368411136): 本文通过介绍词法语法分析器技术和业界的做法，以及过去使用自动生成的词法语法分析器遇到的问题，分享自研SQL Parser的设计与实践，以及其带来的性能和功能的提升。
+- [2021-比开源快 30 倍的自研 SQL Parser 设计与实践](https://zhuanlan.zhihu.com/p/380801055?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=57299368411136): 本文通过介绍词法语法分析器技术和业界的做法，以及过去使用自动生成的词法语法分析器遇到的问题，分享自研 SQL Parser 的设计与实践，以及其带来的性能和功能的提升。
 
 # Index（索引）
 

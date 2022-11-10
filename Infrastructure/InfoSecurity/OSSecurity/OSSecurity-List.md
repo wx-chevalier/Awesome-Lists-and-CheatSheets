@@ -8,9 +8,9 @@
 
 - [设备指纹简析](http://drops.wooyun.org/tips/14727)
 
-# Exploits: 破解
+# Exploits（破解）
 
-## BruteForce: 暴力破解
+## BruteForce（暴力破解）
 
 ## Overflow
 

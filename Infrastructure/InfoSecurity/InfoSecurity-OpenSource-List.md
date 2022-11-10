@@ -224,6 +224,12 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 # Network
 
+## Network Scan
+
+- [Nmap #Project#](https://nmap.org/): Nmap ("Network Mapper") is a free and open source utility for network discovery and security auditing.
+
+- [RustScan #Project#](https://github.com/RustScan/RustScan): The Modern Port Scanner. Find ports quickly (3 seconds at its fastest). Run scripts through our scripting engine (Python, Lua, Shell supported).
+
 ## Reconnaissance
 
 - [AutoRecon #Project#](https://github.com/Tib3rius/AutoRecon): AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services. It is intended as a time-saving tool for use in CTFs and other penetration testing environments (e.g. OSCP). It may also be useful in real-world engagements.

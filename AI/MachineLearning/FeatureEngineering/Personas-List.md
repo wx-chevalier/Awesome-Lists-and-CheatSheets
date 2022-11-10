@@ -6,8 +6,6 @@
 
 - [什么是用户画像呢？一般用户画像的作用是什么？](http://www.zhihu.com/question/19853605)
 
-- [浅谈产品的用户画像：它并不是万能的](http://www.tuicool.com/articles/73Ujq22)
-
 # Fingerprinting
 
 - [2020-Building an Advanced Fingerprinting Detector AI](https://cujo.com/building-an-advanced-fingerprinting-detector-ai/): In two earlier posts, we introduced the problem of browser fingerprinting and showed a static fingerprinting detector AI that is based on the raw text content of JavaScript files. Now we will refine the solution and take the dynamic behavior of JavaScript files into account.

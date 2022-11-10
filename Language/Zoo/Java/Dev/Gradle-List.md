@@ -18,8 +18,6 @@
 
 - [Gradle 奇技淫巧](http://blog.chengyunfeng.com/)
 
-- [受用不尽的 Gradle 使用方法与技巧](http://www.tuicool.com/articles/i2Ijiin)
-
 ## Book
 
 - [Gradle 实战](https://lippiouyang.gitbooks.io/gradle-in-action-cn/content/index.html)

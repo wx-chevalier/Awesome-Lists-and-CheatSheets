@@ -12,8 +12,6 @@
 
 - [关于分布式事务、两阶段提交、一阶段提交、Best Efforts 1PC 模式和事务补偿机制的研究](http://blog.csdn.net/bluishglc/article/details/7612811)
 
-- [两阶段提交协议与三阶段提交协议](http://www.tuicool.com/articles/mARV3u)
-
 - [分布式事务 2PC && 3PC](http://int64.me/2016/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A12PC%20&&%203PC.html)
 
 - [深入理解分布式系统的 2PC 和 3PC](http://www.hollischuang.com/archives/1580)

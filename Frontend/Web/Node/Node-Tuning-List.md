@@ -20,8 +20,6 @@
 
 - [10-things-you-shouldnt-do-while-running-nodejs-in-production](https://parg.co/Aw7)
 
-- [Nodejs 线上服务稳定性保障体系](http://www.tuicool.com/articles/RRvQ7zi)
-
 - [2018-Switching from cluster module to PM2 & RabbitMQ in Node.js](https://parg.co/Awx): This blog will cover the reasons why I made this change and provide background on how and why I moved to PM2 & RabbitMQ.
 
 - [2017-Running Node.js on Linux with systemd](https://blog.codeship.com/running-node-js-linux-systemd/): In this blog post, I’ll show you how to recreate process management, logging and clustering functionality using the Linux init system, systemd, and I’ll make the case for this being a superior approach.

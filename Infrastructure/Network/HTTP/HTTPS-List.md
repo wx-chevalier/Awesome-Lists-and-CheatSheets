@@ -16,8 +16,6 @@
 
 - [HTTPS 中的加密算法相关概念](http://foofish.net/https-symmetric.html)
 
-- [HTTPS 协议降级攻击原理](http://www.tuicool.com/articles/vEVfIjb)
-
 - [https-performance-overhead](https://www.keycdn.com/blog/https-performance-overhead/)
 
 # Engineering Practices

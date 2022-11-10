@@ -56,6 +56,8 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [Rust Books #Collection#](https://github.com/sger/RustBooks): 一系列对于 Rust 书籍的搜集。
 
+- [blessed-rs #Collection#](https://github.com/nicoburns/blessed-rs): An community guide to the Rust ecosystem
+
 ## Course
 
 - [TP 201: Practical Networked Applications in Rust #Course#](https://github.com/pingcap/talent-plan). A series of projects that incrementally develop a single Rust project from the ground up into a high-performance, networked, parallel and asynchronous key/value store. Along the way various real-world and practical Rust development subject matter are explored and discussed.

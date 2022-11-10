@@ -94,8 +94,6 @@
 
 ## WebP
 
-- [使用 webP 减少图片的大小](http://www.tuicool.com/articles/euAJv2Z)
-
 - [探究 WebP 一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/)
 
 - [Front End Optimization – 9 Tips to Improve Web Performance](https://www.keycdn.com/blog/front-end-optimization/)

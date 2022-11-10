@@ -14,8 +14,6 @@
 
 - [JUnit 5 官方用户指南 #Series#](http://junit.org/junit5/docs/current/user-guide/)：中文译本参考[这里](https://sjyuan.cc/junit5/5.0.2/user-guide-cn/)。
 
-- [JUnit 5 - An Early Test Drive](http://www.tuicool.com/articles/VRrUVvU)
-
 - [JUnit 5 – Dynamic Tests](http://blog.codefx.org/libraries/junit-5-dynamic-tests/)
 
 # Mock

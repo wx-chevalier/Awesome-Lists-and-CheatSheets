@@ -26,11 +26,7 @@
 
 - [2017-Discover the Power of CSS Transforms](https://www.heartinternet.uk/blog/discover-the-power-of-css-transforms/)
 
-- [Ultimate Guide to CSS3 & HTML5 Animation](http://www.tuicool.com/articles/Nfq6fij)
-
 - [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.gyk8ppgys)
-
-- [CSS Animation 性能优化](http://www.tuicool.com/articles/Ij6bMj7)
 
 - [Keyframes: Delivering scalable, high-quality animations to mobile clients](https://code.facebook.com/posts/354469174916519/)
 

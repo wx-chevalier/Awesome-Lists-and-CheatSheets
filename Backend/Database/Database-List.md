@@ -18,8 +18,6 @@
 
 ## Comparison
 
-- [2016-一篇文章，掌握所有开源数据库的现状](http://www.tuicool.com/articles/mYBZFbN)
-
 - [2017-Millions of Queries per Second](https://parg.co/Pwp): PostgreSQL and MySQL’s Peaceful Battle at Today’s Demanding Workloads
 
 - [2019-Top 11 Open Source Database for Your Next Project](https://geekflare.com/open-source-database/amp/): Data is everything. And by extension, so are databases. Here are some fantastic open source options for your next kick-ass project.

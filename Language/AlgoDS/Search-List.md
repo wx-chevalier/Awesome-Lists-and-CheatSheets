@@ -6,8 +6,6 @@
 
 - [教你如何迅速秒杀掉：99% 的海量数据处理面试题](http://blog.csdn.net/v_july_v/article/details/7382693)
 
-- [5 亿整数的大文件，怎么排？](http://www.tuicool.com/articles/ui2Qjyz)
-
 - [2018-Algorithms Behind Modern Storage Systems](https://queue.acm.org/detail.cfm?id=3220266): Different uses for read-optimized B-trees and write-optimized LSM-trees.
 
 # B-Tree

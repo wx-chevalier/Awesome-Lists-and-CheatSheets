@@ -30,6 +30,8 @@
 
 - [Lama Cleaner #Project#](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 
+- [QualityScaler #Project#](https://github.com/Djdefrag/QualityScaler): image/video deeplearning upscaling for any GPU
+
 ## Image Recognition
 
 - [Uber Image Diff](https://github.com/uber/image-diff)

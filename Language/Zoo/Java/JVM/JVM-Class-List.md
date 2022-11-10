@@ -4,10 +4,6 @@
 
 - [实例探索 Class 文件](http://www.importnew.com/17086.html)
 
-- [Jvm 之用 java 解析 class 文件](http://www.tuicool.com/articles/ZfMnMju)
-
-- [2018-JVM 揭秘：一个 class 文件的前世今生](http://www.tuicool.com/articles/jEnYrye)
-
 # Classloader | 累类加载器
 
 - [2017-Java 技术之类加载机制](http://wingjay.com/2017/05/08/java_classloader/)：类加载机制是 Java 语言的一大亮点，使得 Java 类可以被动态加载到 Java 虚拟机中。这次我们抛开术语和概念，从例子入手，由浅入深地讲解 Java 的类加载机制。本文涉及知识点：双亲委托机制、BootstrapClassLoader、ExtClassLoader、AppClassLoader、自定义网络类加载器等。

@@ -22,7 +22,7 @@
 
 # LSTM
 
-- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/): 中文版为 [理解 LSTM 网络](http://www.tuicool.com/articles/FjUjaeu)
+- [2015-Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/): 中文版为理解 LSTM 网络。
 
 - [LSTM NEURAL NETWORK FOR TIME SERIES PREDICTION](http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction)
 

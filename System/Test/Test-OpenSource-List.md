@@ -12,6 +12,14 @@
 
 - [Mock.js #Project#](http://mockjs.com/): 生成随机数据，拦截 Ajax 请求
 
+- [Step CI #Project#](https://github.com/stepci/stepci): Step CI is an open-source tool, which helps you automate API testing and monitoring.
+
+- [Prism #Project#](https://github.com/stoplightio/prism): Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
+
+- [newman #Project#](https://github.com/postmanlabs/newman): Manage all of your organization's APIs in Postman, with the industry's most complete API development environment.
+
+- [HttpRunner #Project#](https://github.com/httprunner/httprunner): HttpRunner 是一个开源的 API 测试工具，支持 HTTP(S) / HTTP2 / WebSocket / RPC 等网络协议，涵盖接口测试、性能测试、数字体验监测等测试类型。简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
+
 ## Load Testing
 
 - [wrk #Project#](https://github.com/wg/wrk): wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU.

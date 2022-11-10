@@ -21,7 +21,6 @@ https://github.com/tappleby/redux-batched-subscribe
 
 - [React 数据流管理架构之 Redux 介绍](http://www.open-open.com/lib/view/open1444013746182.html)
 
-- [全栈 Redux 实战](http://www.tuicool.com/articles/mqiyiq7)
 - [Awesome Redux](https://github.com/xgrommx/awesome-redux)
 - [Mastering React Redux](https://www.stanleycyang.com/tutorials/mastering-react-redux)
 - [解读 redux 工作原理](http://zhenhua-lee.github.io/react/redux.html)

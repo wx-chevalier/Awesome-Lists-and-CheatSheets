@@ -1,4 +1,4 @@
-# C++ Learning & Practices List
+# CPP List
 
 - [2017-C++17/14/11](https://parg.co/b1f): A cheatsheet of modern C++ language and library features.
 

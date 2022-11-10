@@ -14,8 +14,6 @@
 
 # Usage
 
-- [MySQL 表字段字符集不同导致的索引失效问题](http://www.tuicool.com/articles/A7nM3yI)
-
 # OpenSource
 
 - [Freno #Project#](https://github.com/github/freno): Cooperative, highly available throttler service: clients use freno to throttle writes to a resource.

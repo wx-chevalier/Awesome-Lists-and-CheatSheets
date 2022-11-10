@@ -14,8 +14,6 @@
 
 - [Caching Explained](https://cachingexplained.com/#caching-explained)
 
-- [你有自己的 Web 缓存知识体系吗？](http://www.tuicool.com/articles/z2uqamn)
-
 # Strategy | 缓存策略
 
 - [2016-缓存架构设计细节二三事](https://parg.co/UFN): 本文主要讨论这么几个问题：“缓存与数据库”需求缘起，“淘汰缓存”还是“更新缓存”，缓存和数据库的操作时序，缓存和数据库架构简析。

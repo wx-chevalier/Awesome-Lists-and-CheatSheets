@@ -12,6 +12,8 @@
 
 - [Database basics: writing a SQL database from scratch in Go #Series# #Scratch#](https://notes.eatonphil.com/database-basics.html): In this series we'll write a rudimentary database from scratch in Go.
 
+- [2018-db_tutorial #Series# #Scratch#](https://github.com/cstack/db_tutorial): Writing a sqlite clone from scratch in C.
+
 - [2018-手写 SQL 编译器 #Scratch#](https://parg.co/oXJ): 因为工作关系，需要开发支持众多方言的 SQL 编辑器，所以复习了一下编译原理相关知识。相比编译原理专家，我们只需要了解部分编译原理即可实现 SQL 编辑器，所以这是一篇写给前端的编译原理文章。
 
 - [2020-Let's Build a Simple Database #Series#](https://cstack.github.io/db_tutorial/): Writing a sqlite clone from scratch in C.
@@ -149,6 +151,8 @@
 - [Dgraph #Project#](https://dgraph.io/): Dgraph is a horizontally scalable and distributed graph database, providing ACID transactions, consistent replication and linearizable reads.
 
 - [Nebula #Project#](https://github.com/vesoft-inc/nebula): A distributed, fast open-source graph database featuring horizontal scalability and high availability.
+
+- [cozo #Project#](https://github.com/cozodb/cozo): A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms
 
 # TimeSeries
 
