@@ -57,3 +57,5 @@
 - [Shell Check #Project#](https://www.shellcheck.net): finds bugs in your shell scripts.
 
 - [2021-zx #Project#](https://github.com/google/zx): A tool for writing better scripts.
+
+- [Gum #Project#](https://github.com/charmbracelet/gum): A tool for glamorous shell scripts. Leverage the power of Bubbles and Lip Gloss in your scripts and aliases without writing any Go code!
