@@ -38,6 +38,8 @@
 
 - [StreamPark #Project#](https://github.com/apache/incubator-streampark): StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
 
+- [Memphis #Project#](https://github.com/memphisdev): Memphis{dev} is an open-source real-time data processing platform that provides end-to-end support for in-app streaming use cases using Memphis distributed message broker. Memphis' platform requires zero ops, enables rapid development, extreme cost reduction, eliminates coding barriers, and saves a great amount of dev time for data-oriented developers and data engineers.
+
 # Edge Computing | 边缘计算
 
 - [OpenEdge #Project#](https://github.com/baidu/openedge): Extend cloud computing, data and service seamlessly to edge devices.

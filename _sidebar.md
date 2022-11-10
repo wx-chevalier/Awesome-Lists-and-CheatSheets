@@ -365,9 +365,10 @@
           - [6.4.5.2.11 Java UI List](/Language/Zoo/Java/Dev/Java-UI-List.md)
           - [6.4.5.2.12 Maven List](/Language/Zoo/Java/Dev/Maven-List.md)
         - 6.4.5.3 Dialect
-          - [6.4.5.3.1 Groovy List](/Language/Zoo/Java/Dialect/Groovy-List.md)
-          - [6.4.5.3.2 Kotlin List](/Language/Zoo/Java/Dialect/Kotlin-List.md)
-          - [6.4.5.3.3 Scala List](/Language/Zoo/Java/Dialect/Scala-List.md)
+          - [6.4.5.3.1 Clojure List](/Language/Zoo/Java/Dialect/Clojure-List.md)
+          - [6.4.5.3.2 Groovy List](/Language/Zoo/Java/Dialect/Groovy-List.md)
+          - [6.4.5.3.3 Kotlin List](/Language/Zoo/Java/Dialect/Kotlin-List.md)
+          - [6.4.5.3.4 Scala List](/Language/Zoo/Java/Dialect/Scala-List.md)
         - 6.4.5.4 JVM
           - [6.4.5.4.1 JVM Class List](/Language/Zoo/Java/JVM/JVM-Class-List.md)
           - [6.4.5.4.2 JVM Compiler List](/Language/Zoo/Java/JVM/JVM-Compiler-List.md)

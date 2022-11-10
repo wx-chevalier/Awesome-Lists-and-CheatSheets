@@ -32,6 +32,8 @@
 
 - [2019-Hakrawler #Project#](https://github.com/hakluke/hakrawler): Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application.
 
+- [2022-katana #Project#](https://github.com/projectdiscovery/katana): A next-generation crawling and spidering framework.
+
 ## Java
 
 - [Crawler4j #Project#](https://github.com/yasserg/crawler4j): crawler4j is an open source web crawler for Java which provides a simple interface for crawling the Web. Using it, you can setup a multi-threaded web crawler in few minutes.

@@ -4,10 +4,6 @@
 
 - [2019-Phoenix #Project#](https://github.com/kasper/phoenix): A lightweight macOS window and app manager scriptable with JavaScript.
 
-# Firewall
-
-- [Portmaster #Project#](https://github.com/safing/portmaster): 🏔 Love Freedom - ❌ Block Mass Surveillance.
-
 # Monitor
 
 - [2021-processhacker #Project#](https://github.com/processhacker/processhacker): A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.

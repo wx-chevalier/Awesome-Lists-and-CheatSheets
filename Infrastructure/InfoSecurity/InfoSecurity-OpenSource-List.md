@@ -176,6 +176,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [wydomain #Project#](https://github.com/ring04h/wydomain): To Discover Subdomains Of Your Target Domain
 
+- [2021-Subfinder #Project#](https://github.com/projectdiscovery/subfinder): Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+
 ### Weak Passwd & Brute Force | 弱口令与暴力破解
 
 - [hydra #Project#](https://github.com/vanhauser-thc/thc-hydra): Number one of the biggest security holes are passwords, as every password security study shows. This tool is a proof of concept code, to give researchers and security consultants the possibility to show how easy it would be to gain unauthorized access from remote to a system.

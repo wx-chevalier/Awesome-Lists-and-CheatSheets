@@ -16,6 +16,10 @@
 
 - [filebrowser #Project#](https://github.com/filebrowser/filebrowser): filebrowser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files. It allows the creation of multiple users and each user can have its own directory. It can be used as a standalone app or as a middleware.
 
+- [2022-gopeed #Project#](https://github.com/monkeyWie/gopeed): High speed downloader that supports all platforms.
+
+- [2022-katana #Project#](https://github.com/projectdiscovery/katana): A next-generation crawling and spidering framework.
+
 ## CMD
 
 - [plow #Project#](https://github.com/six-ddc/plow): A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying.
@@ -38,9 +42,9 @@
 
 - [gin-vue-admin #Project#](https://github.com/flipped-aurora/gin-vue-admin): 基于 gin+vue 搭建的后台管理系统框架，集成 jwt 鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能。
 
-## Template 
+## Template
 
-- [go-eagle #Project#](https://github.com/go-eagle/eagle): 🦅一款小巧的基于Go构建的开发框架，可以快速构建API服务或者Web网站进行业务开发，遵循SOLID设计原则。
+- [go-eagle #Project#](https://github.com/go-eagle/eagle): 🦅 一款小巧的基于 Go 构建的开发框架，可以快速构建 API 服务或者 Web 网站进行业务开发，遵循 SOLID 设计原则。
 
 # Dev
 

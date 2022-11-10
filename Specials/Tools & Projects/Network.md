@@ -34,6 +34,12 @@
 
 - [GitHub520 #Project#](https://github.com/521xueweihan/GitHub520): 😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 
+# Firewall
+
+- [Portmaster #Project#](https://github.com/safing/portmaster): 🏔 Love Freedom - ❌ Block Mass Surveillance.
+
+- [2022-AdGuardHome #Project#](https://github.com/AdguardTeam/AdGuardHome): Network-wide ads & trackers blocking DNS server
+
 # Request Builder
 
 - [Apifox #Project#](https://www.apifox.cn/): 接口文档、调试、Mock、自动化测试，提升 10 倍效率！
