@@ -141,7 +141,8 @@
       - [5.2.2 Awesome Entertainments](/Specials/Collections/Awesome-Entertainments.md)
       - [5.2.3 Awesome Learnings](/Specials/Collections/Awesome-Learnings.md)
       - [5.2.4 Awesome Names](/Specials/Collections/Awesome-Names.md)
-      - [5.2.5 Awesome Vision](/Specials/Collections/Awesome-Vision.md)
+      - [5.2.5 Awesome Scholar](/Specials/Collections/Awesome-Scholar.md)
+      - [5.2.6 Awesome Vision](/Specials/Collections/Awesome-Vision.md)
     - 5.3 Showcases
       - [5.3.1 Awesome Apps](/Specials/Showcases/Awesome-Apps.md)
       - [5.3.2 Awesome Clones](/Specials/Showcases/Awesome-Clones.md)
@@ -311,6 +312,7 @@
     - 6.3 Theory
       - 6.3.1 Compiler
         - [6.3.1.1 Compiler List](/Language/Theory/Compiler/Compiler-List.md)
+        - [6.3.1.2 Compiler OpenSource List](/Language/Theory/Compiler/Compiler-OpenSource-List.md)
       - 6.3.2 MemoryManagement
         - [6.3.2.1 GarbageCollection List](/Language/Theory/MemoryManagement/GarbageCollection-List.md)
         - [6.3.2.2 MemoryManagement List](/Language/Theory/MemoryManagement/MemoryManagement-List.md)
@@ -405,14 +407,15 @@
         - [6.4.8.1 PHP List](/Language/Zoo/PHP/PHP-List.md)
         - [6.4.8.2 PHP OpenSource List](/Language/Zoo/PHP/PHP-OpenSource-List.md)
       - 6.4.9 Python
-        - [6.4.9.1 Python DataStructure List](/Language/Zoo/Python/Python-DataStructure-List.md)
-        - [6.4.9.2 Python Debug List](/Language/Zoo/Python/Python-Debug-List.md)
-        - [6.4.9.3 Python Framework List](/Language/Zoo/Python/Python-Framework-List.md)
-        - [6.4.9.4 Python FunctionalProgramming List](/Language/Zoo/Python/Python-FunctionalProgramming-List.md)
-        - [6.4.9.5 Python List](/Language/Zoo/Python/Python-List.md)
-        - [6.4.9.6 Python OpenSource List](/Language/Zoo/Python/Python-OpenSource-List.md)
-        - [6.4.9.7 Python StyleGuide List](/Language/Zoo/Python/Python-StyleGuide-List.md)
-        - [6.4.9.8 Python Syntax List](/Language/Zoo/Python/Python-Syntax-List.md)
+        - [6.4.9.1 Python Concurrent List](/Language/Zoo/Python/Python-Concurrent-List.md)
+        - [6.4.9.2 Python DataStructure List](/Language/Zoo/Python/Python-DataStructure-List.md)
+        - [6.4.9.3 Python Debug List](/Language/Zoo/Python/Python-Debug-List.md)
+        - [6.4.9.4 Python Framework List](/Language/Zoo/Python/Python-Framework-List.md)
+        - [6.4.9.5 Python FunctionalProgramming List](/Language/Zoo/Python/Python-FunctionalProgramming-List.md)
+        - [6.4.9.6 Python List](/Language/Zoo/Python/Python-List.md)
+        - [6.4.9.7 Python OpenSource List](/Language/Zoo/Python/Python-OpenSource-List.md)
+        - [6.4.9.8 Python StyleGuide List](/Language/Zoo/Python/Python-StyleGuide-List.md)
+        - [6.4.9.9 Python Syntax List](/Language/Zoo/Python/Python-Syntax-List.md)
       - 6.4.10 Rust
         - [6.4.10.1 Rust ConcurrentProgramming List](/Language/Zoo/Rust/Rust-ConcurrentProgramming-List.md)
         - [6.4.10.2 Rust Dev List](/Language/Zoo/Rust/Rust-Dev-List.md)

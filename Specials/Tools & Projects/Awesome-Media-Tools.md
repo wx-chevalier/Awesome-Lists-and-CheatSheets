@@ -44,7 +44,11 @@
 
 ## Compression | 压缩
 
-- [Lepton #Project#](https://github.com/dropbox/lepton): 用于存储时图片压缩.
+- [Lepton #Project#](https://github.com/dropbox/lepton): 用于存储时图片压缩。
+
+# Video Player
+
+- [mpv #Project#](https://github.com/mpv-player/mpv): mpv is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types.
 
 # Video Editor
 

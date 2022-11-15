@@ -20,6 +20,8 @@
 
 - [2021-SigNoz #Project#](https://github.com/SigNoz/signoz): SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥
 
+- [2022-scrutiny #Project#](https://github.com/AnalogJ/scrutiny): Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds.
+
 ## End-to-End Monitor
 
 - [2021-Monika #Project#](https://github.com/hyperjumptech/monika): Monika is a command line application to monitor every part of your web app using a simple JSON configuration file. Get alert not only when your site is down but also when it's slow.
