@@ -8,6 +8,8 @@
 
 - [Directus #Project#](https://github.com/directus/directus): Directus is a real-time API and App dashboard for managing SQL database content.
 
+- [Openblocks #Project#](https://github.com/openblocks-dev/openblocks): Retool-like solutions are great for their simplicity and flexibility, but they can also be limited in different ways compared to frameworks like React/Vue.
+
 # Quick Development
 
 - [refine #Project#](https://github.com/refinedev/refine): An open source, headless web application framework developed with flexibility in mind.

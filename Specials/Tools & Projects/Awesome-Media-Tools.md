@@ -58,6 +58,8 @@
 
 - [Audacity #Project#](https://www.audacityteam.org/): Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems.
 
+- [AutoCut #Project#](https://github.com/mli/autocut): AutoCut 对你的视频自动生成字幕。然后你选择需要保留的句子，AutoCut 将对你视频中对应的片段裁切并保存。你无需使用视频编辑软件，只需要编辑文本文件即可完成剪切。
+
 # Terminal Recorder
 
 - [vhs #Project#](https://github.com/charmbracelet/vhs): Write terminal GIFs as code for integration testing and demoing your CLI tools.

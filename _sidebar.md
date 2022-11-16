@@ -449,10 +449,9 @@
       - 7.1.5 Media
         - [7.1.5.1 FFMpeg List](/Frontend/CGDataVis/Media/FFMpeg-List.md)
         - [7.1.5.2 Image List](/Frontend/CGDataVis/Media/Image-List.md)
-        - [7.1.5.3 Media OpenSource List](/Frontend/CGDataVis/Media/Media-OpenSource-List.md)
-        - [7.1.5.4 QR List](/Frontend/CGDataVis/Media/QR-List.md)
-        - [7.1.5.5 SVG OpenSource List](/Frontend/CGDataVis/Media/SVG-OpenSource-List.md)
-        - [7.1.5.6 Video List](/Frontend/CGDataVis/Media/Video-List.md)
+        - [7.1.5.3 QR List](/Frontend/CGDataVis/Media/QR-List.md)
+        - [7.1.5.4 SVG OpenSource List](/Frontend/CGDataVis/Media/SVG-OpenSource-List.md)
+        - [7.1.5.5 Video List](/Frontend/CGDataVis/Media/Video-List.md)
     - 7.2 Desktop
       - [7.2.1 Desktop List](/Frontend/Desktop/Desktop-List.md)
       - 7.2.2 Electron
