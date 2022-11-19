@@ -172,6 +172,8 @@
 
 - [2021-QuestDB #Project#](https://github.com/questdb/questdb): QuestDB is a distributed, high-performance, fully-distributed, high-availability, fully-scalable, and highly-available time series database.
 
+- [2022-GreptimeDB #Project#](https://github.com/GreptimeTeam/greptimedb): GreptimeDB, an open-source, cloud-native, distributed time-series database.
+
 # NewSQL
 
 - [FoundationDB #Project#](https://github.com/apple/foundationdb): FoundationDB is a distributed database designed to handle large volumes of structured data across clusters of commodity servers.

@@ -58,6 +58,10 @@
 
 - [2019-Awesome-Kubernetes](https://github.com/ramitsurana/awesome-kubernetes/blob/master/README.md#related-software): A curated list for awesome kubernetes sources 🚢🎉 -
 
+## Series
+
+- [2022-kubernetes-learning-path #Series#](https://github.com/techiescamp/kubernetes-learning-path): A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
+
 # Tutorial
 
 - [Kubernetes 101 & 201 #Series#](https://kubernetes.io/docs/tutorials/k8s101/): For Kubernetes 101, we will cover kubectl, Pods, Volumes, and multiple containers. For Kubernetes 201, we will pick up where 101 left off and cover some slightly more advanced topics in Kubernetes, related to application productionization, Deployment and scaling.

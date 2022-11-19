@@ -233,6 +233,10 @@
 
 - [PaddleGAN #Project#](https://github.com/PaddlePaddle/PaddleGAN): PaddlePaddle GAN library, including lots of interesting applications like DeepFake First-Order motion transfer, Mai-ha-hi（蚂蚁呀嘿), faceswap wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
 
+## Image & Text
+
+- [Versatile-Diffusion #Project#](https://github.com/SHI-Labs/Versatile-Diffusion): We built Versatile Diffusion (VD), the first unified multi-flow multimodal diffusion framework, as a step towards Universal Generative AI.
+
 ## 图像处理
 
 - [Rembg #Project#](https://github.com/danielgatis/rembg): Rembg is a tool to remove images background. That is it.
