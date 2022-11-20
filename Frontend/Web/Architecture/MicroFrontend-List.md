@@ -10,6 +10,6 @@
 
 - [2019-Thinking in Microfrontend (微前端的那些事儿) #Book#](https://github.com/phodal/microfrontends): 微前端是一种类似于微服务的架构，它将微服务的理念应用于浏览器端，即将 Web 应用由单一的单体应用转变为多个小型前端应用聚合为一的应用。各个前端应用还可以独立运行、独立开发、独立部署。
 
-## 基于 iFrame 的微前端方案
+## 基于 iframe 的微前端方案
 
 - [基于 iframe 的全新微前端方案](https://mp.weixin.qq.com/s/6ioo7xXngaOaWBaqcNFalg): iframe 是一个天然的微前端方案，但受限于跨域的严格限制而无法很好的应用，本文介绍一种基于 iframe 的全新微前端方案，继承 iframe 的优点，补足 iframe 的缺点，让 iframe 焕发新生。

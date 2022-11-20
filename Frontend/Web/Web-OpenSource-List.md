@@ -302,11 +302,9 @@
 
 - [2019-Playwright #Project#](https://github.com/microsoft/playwright): Playwright is a Node library to automate the Chromium, WebKit and Firefox browsers with a single API. It enables cross-browser web automation that is ever-green, capable, reliable and fast.
 
-# Architecture
+# Micro-FE Framework
 
 - [2018-Micro Frontends](https://micro-frontends.org/): Techniques, strategies and recipes for building a modern web app with multiple teams using different JavaScript frameworks.
-
-## Micro-FE Framework
 
 - [Mooa #Project#](https://github.com/phodal/mooa): Mooa 是一个为 Angular 服务的微前端框架，[前端微服务化：使用微前端框架 Mooa 开发微前端应用](https://parg.co/o3F)。
 
@@ -319,3 +317,7 @@
 - [micro-app #Project#](https://github.com/micro-zoe/micro-app): micro-app 是一款基于类 WebComponent 进行渲染的微前端框架，不同于目前流行的开源框架，它从组件化的思维实现微前端，旨在降低上手难度、提升工作效率。它是目前市面上接入微前端成本最低的框架，并且提供了 JS 沙箱、样式隔离、元素隔离、预加载、资源地址补全、插件系统、数据通信等一系列完善的功能。
 
 - [wujie #Project#](https://github.com/Tencent/wujie): Web Components 是一个浏览器原生支持的组件封装技术，可以有效隔离元素之间的样式，iframe 可以给子应用提供一个原生隔离的运行环境，相比自行构造的沙箱 iframe 提供了独立的 window、document、history、location，可以更好的和外部解耦。无界微前端采用 webcomponent + iframe 的沙箱模式，在实现原生隔离的前提下比较完善的解决了上述问题。
+
+## Sandbox
+
+- [2022-workerbox #Project#](https://github.com/markwylde/workerbox): A secure sandbox to execute untrusted user JavaScript, in a web browser, without any risk to your own domain/site/page.

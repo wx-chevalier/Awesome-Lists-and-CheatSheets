@@ -16,6 +16,8 @@
 
 - [Kerla #Project#](https://github.com/nuta/kerla): A new operating system kernel with Linux binary compatibility written in Rust.
 
+- [2022-HelenOS #Project#](https://github.com/HelenOS/helenos): HelenOS is a portable microkernel-based multiserver operating system designed and implemented from scratch. It decomposes key operating system functionality such as file systems, networking, device drivers and graphical user interface into a collection of fine-grained user space components that interact with each other via message passing. A failure or crash of one component does not directly harm others. HelenOS is therefore flexible, modular, extensible, fault tolerant and easy to understand.
+
 # File System
 
 ## Sync
