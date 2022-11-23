@@ -13,3 +13,7 @@
 # Theme
 
 - [starship #Project#](https://github.com/starship/starship): ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+# Package Manager
+
+- [tea #Project#](https://github.com/teaxyz/cli): From the creator of brew, tea is a standalone, binary download for all platforms that puts the entire open source ecosystem at your fingertips. Casually and effortlessly use the latest and greatest or the oldest and most mature from any layer of any stack. Break down the silos between programming communities, throw together scripts that use entirely separate tools and languages and share them with the world with a simple one-liner.

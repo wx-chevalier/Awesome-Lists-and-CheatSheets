@@ -190,6 +190,7 @@
 - [2021-MockingBird #Project#](https://github.com/babysor/MockingBird): 🚀AI 拟声: 5 秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 - [2022-Whisper #Project#](https://github.com/openai/whisper): Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multi-task model that can perform multilingual speech recognition as well as speech translation and language identification.
+  - [whisper.cpp #Project#](https://github.com/ggerganov/whisper.cpp): High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model.
 
 ## Dialogue System & Bot
 
