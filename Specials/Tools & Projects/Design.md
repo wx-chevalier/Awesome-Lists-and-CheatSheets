@@ -16,6 +16,8 @@
 
 - [2019-Excalidraw #Project#](https://github.com/excalidraw/excalidraw): Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 
+- [2021-D2 #Project#](https://github.com/terrastruct/d2): D2 is a modern diagram scripting language that turns text to diagrams.
+
 ## Flow
 
 ## UML
