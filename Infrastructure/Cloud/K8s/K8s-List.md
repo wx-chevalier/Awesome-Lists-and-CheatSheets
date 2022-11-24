@@ -52,6 +52,8 @@
 
 - [2019-Kubernetes 免费教程 #Course#](https://kuboard.cn/learning/): 本教程的主要依据是：Kubernetes 官网文档，以及使用 Kubernetes 落地 Spring Cloud 微服务并投产的实战经验。适用人群：Kubernetes 初学者，学习过 Kubernetes，但在投产过程中仍有诸多疑虑和困惑的技术爱好者。
 
+- [2020-Learn Kubernetes with Google #Course#](https://learnkubernetes.withgoogle.com/): Google brings together Kubernetes experts from across the industry to discuss the latest trends in the project, and how to think about and solve complex problems using Kubernetes.
+
 ## Collection
 
 - [2018-Resources for Getting Started with Kubernetes](https://vsupalov.com/getting-started-with-kubernetes/): Hand-picked reading material and courses to help you make progress towards getting started with Kubernetes.
