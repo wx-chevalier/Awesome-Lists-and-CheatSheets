@@ -16,6 +16,8 @@
 
 - [Vuido #Project#](https://github.com/mimecorg/vuido): Create native desktop applications for Windows, OS X and Linux using Vue.js.
 
+- [2022-vue3-music #Project#](https://github.com/SmallRuralDog/vue3-music): VUE3+TS 开发的音乐播放器，界面模仿 QQ 音乐 mac 客户端，支持黑夜模式
+
 # Frameworks
 
 - [2021-vue-admin-beautiful-pro #Project#](https://github.com/chuzhixin/vue-admin-beautiful-pro): vue3,vue3.0,vue,vue3.x,vue.js,vue 后台管理,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus 主线版本基于 element-plus、element-ui、ant-design-vue 三者并行开发维护

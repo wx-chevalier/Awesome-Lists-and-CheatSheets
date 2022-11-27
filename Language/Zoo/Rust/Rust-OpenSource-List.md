@@ -20,9 +20,11 @@
 
 - [Hackernews sauron #Project#](https://github.com/ivanceras/hackernews-sauron): A fast, resilient, isomorphic hacker news clone in ~1k lines of rust.
 
-- [rnote #Project#](https://github.com/flxzt/rnote): A simple drawing application to create handwritten notes.
+- [2021-rnote #Project#](https://github.com/flxzt/rnote): A simple drawing application to create handwritten notes.
 
 - [komorebi #Project#](https://github.com/LGUG2Z/komorebi): komorebi is a tiling window manager that works as an extension to Microsoft's Desktop Window Manager in Windows 10 and above.
+
+- [2022-sniffnet #Project#](https://github.com/GyulyVGC/sniffnet): Cross-platform application to monitor your network traffic with ease
 
 ## JavaScript Engine
 

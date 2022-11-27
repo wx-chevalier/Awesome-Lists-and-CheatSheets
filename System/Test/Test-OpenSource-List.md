@@ -20,6 +20,8 @@
 
 - [HttpRunner #Project#](https://github.com/httprunner/httprunner): HttpRunner 是一个开源的 API 测试工具，支持 HTTP(S) / HTTP2 / WebSocket / RPC 等网络协议，涵盖接口测试、性能测试、数字体验监测等测试类型。简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
 
+- [Hurl #Project#](https://github.com/Orange-OpenSource/hurl): Hurl is a command line tool that runs HTTP requests defined in a simple plain text format.
+
 ## Load Testing
 
 - [wrk #Project#](https://github.com/wg/wrk): wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU.

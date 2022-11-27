@@ -10,6 +10,8 @@
 
 - [2020-Domain Driven Design Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process): If you're new to DDD and not sure where to start, this process will guide you step-by-step.
 
+- [2022-Why Domain-Driven Design?](https://betterprogramming.pub/why-domain-driven-design-203099adf32a): The goal of this blog is to highlight the type of problems that DDD addresses and give a high-level introduction to the solution.
+
 # Resource
 
 ## Collection

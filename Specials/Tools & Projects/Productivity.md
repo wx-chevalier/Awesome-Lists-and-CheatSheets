@@ -27,3 +27,5 @@
 - [Prefect #Project#](https://www.prefect.io/products/core/): The prefect Python library includes everything you need to design, build, test, and run powerful data applications. Instantly upgrade your existing code with workflow best practices, and use the Prefect UI to orchestrate and monitor everything.
 
 - [2019-n8n #Project#](https://github.com/n8n-io/n8n): Free and open node based Workflow Automation Tool. Easily automate tasks across different services.
+
+- [2021-StackStorm #Project#](https://github.com/StackStorm/st2): StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
