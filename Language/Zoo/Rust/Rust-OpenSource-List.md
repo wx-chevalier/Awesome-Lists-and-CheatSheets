@@ -34,6 +34,10 @@
 
 - [naive](https://github.com/hsiaosiyuan0/naive): This is a naive JavaScript engine implemented in pure Rust to improve my JavaScript knowledge.
 
+## Tauri
+
+- [2022-MirrorX #Project#](https://github.com/MirrorX-Desktop/MirrorX): MirrorX is a remote desktop control tool powered by Rust. With fully open-source client and server, native E2EE support, users can build SECURITY and FAST remote control network, which is fully under control of users.
+
 # Dev Toolkits
 
 - [2019-dtool #Project#](https://github.com/guoxbin/dtool): dtool is a command-line tool collection to assist development.

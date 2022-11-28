@@ -8,6 +8,8 @@ There are massive curated links to help you study anything about Compiler head f
 
 - [From math to machine: translating a function to machine code](http://6me.us/7BlocZ): In this post I'm going to explore how a mathematical concept can be redefined in progressively more computer-oriented terms, all the way from high level languages down to machine code, ready for direct execution by a computer.
 
+- [2022-Create Your Own Compiler #Series#](https://citw.dev/tutorial/create-your-own-compiler?p=1): In this tutorial, we'll be doing an instructed walkthrough of Jamie Kyle's "The Super Tiny Compiler". The Super Tiny Compiler is a simple compiler written in Javascript and we'll write it step by step from scratch.
+
 ## Practices | 实践
 
 - [2015-the-super-tiny-compiler #Project#](https://github.com/jamiebuilds/the-super-tiny-compiler): This is an ultra-simplified example of all the major pieces of a modern compiler written in easy to read JavaScript.

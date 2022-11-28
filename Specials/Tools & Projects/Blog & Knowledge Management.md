@@ -86,6 +86,8 @@
 
 - [mdBook #Project#](https://github.com/rust-lang/mdBook): Create book from markdown files. Like Gitbook but implemented in Rust.
 
+- [Docusaurus #Project#](https://github.com/facebook/docusaurus): Docusaurus is a project for building, deploying, and maintaining open source project websites easily.
+
 ## Project Website
 
 - [docsify #Project#](https://github.com/docsifyjs/docsify): A magical documentation site generator.
