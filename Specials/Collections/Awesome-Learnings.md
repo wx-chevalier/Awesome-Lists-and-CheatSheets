@@ -24,6 +24,8 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [Project Based Learning #Collection#](https://github.com/practical-tutorials/project-based-learning#rust): A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
 
+- [2022-Professional Programming #Collection#](https://github.com/charlax/professional-programming): The goal of this page is to make you a more proficient developer. You'll find only resources that I've found truly inspiring, or that have become timeless classics.
+
 ## Cheatsheets
 
 - [cheat.sh #Project#](https://github.com/chubin/cheat.sh): Covers 56 programming languages, several DBMSes, and more than 1000 most important UNIX/Linux commands.

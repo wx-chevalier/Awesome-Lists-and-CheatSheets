@@ -18,11 +18,17 @@
 
 - [2016-zheng #Project#](https://gitee.com/shuzheng/zheng): 基于 Spring SpringMVC Mybatis 分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位 J2EE 企业级开发解决方案。
 
+- [2017-基于 Netty 的 Spring Boot 内置 Servlet 容器的实现 #Series#](https://parg.co/SCE): Spring Boot 有 Tomcat、Jetty 和 undertow 三种内置 Servlet 容器，默认使用 Tomcat。一般来说已经够用了，但当 Spring Boot 用于高并发微服务的时候，可能并不够用，而且 tomcat 的资源占用在这种情况下说不上轻量化了。于是萌生了自己实现一个 Spring Boot 的 Netty Servlet 容器的想法。
+
+- [2018-徒手撸框架，实现 IoC #Project#](https://github.com/diaozxin007/xilidou-framework): Spring 作为 J2ee 开发事实上的标准，是每个 Java 开发人员都需要了解的框架。但是 Spring 的 IoC 和 Aop 的特性，对于初级的 Java 开发人员来说还是比较难于理解的。所以我就想写一系列的文章给大家讲解这些特性。从而能够进一步深入了解 Spring 框架。
+
 - [2020-pig #Project#](https://gitee.com/log4j/pig): 基于 Spring Boot 2.4、Spring Cloud 2020 & AlibabaOAuth2 的微服务 RBAC 权限管理系统。记得右上角点个 star 关注更新
 
 - [2021-FEBS Cloud 微服务权限系统 #Project#](https://github.com/febsteam/FEBS-Cloud): 基于 Spring Cloud Hoxton.RELEASE、Spring Cloud OAuth2 & Spring Cloud Alibaba & Element 微服务权限系统，开箱即用。预览地址：https://cloud.mrbird.cn
 
 - [2021-Rude Java #Project#](https://github.com/RudeCrab/rude-java): Java Practice Projects(SSM、Spring Boot、Spring Security、MinIO、Vue). 以 Java 语言为主的各种项目实践，涵盖各个业务、各个功能，并附上高质量文章讲解，其中一些甚至可以单开一个仓库。让你再也不用寻找各种框架 demo、项目脚手架。
+
+- [2022-lamp-cloud #Project#](https://github.com/dromara/lamp-cloud): lamp-cloud 基于 Jdk11 + SpringCloud + SpringBoot 开发的微服务中后台快速开发平台，专注于多租户(SaaS 架构)解决方案，亦可作为普通项目（非 SaaS 架构）的基础开发框架使用，目前已实现插拔式数据库隔离、SCHEMA 隔离、字段隔离 等租户隔离方案。
 
 ## Examples
 

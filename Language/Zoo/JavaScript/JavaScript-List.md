@@ -78,6 +78,8 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [2022-30-Days-Of-JavaScript #Series#](https://github.com/Asabeneh/30-Days-Of-JavaScript): 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.
 
+- [2022-JavaScript30 #Series#](https://github.com/wesbos/JavaScript30): Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
+
 # Tutorial
 
 - [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html): This book is about two versions of JavaScript: ECMAScript 2018 and ECMAScript 2019.
