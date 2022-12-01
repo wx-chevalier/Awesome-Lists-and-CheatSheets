@@ -12,8 +12,6 @@
 
 - [DogeHouse #Project#](https://github.com/benawad/dogehouse): Taking voice conversations to the moon 🚀
 
-- [2020-Tinode #Project#](https://github.com/tinode/chat): Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
-
 ## UI
 
 - [ChatUI #Project#](https://github.com/alibaba/ChatUI): The UI design language and React library for Conversational UI.
@@ -22,7 +20,7 @@
 
 - [简聊 #Project#](https://github.com/jianliaoim/talk-os): 简聊所有业务代码的开源版本，可作任意修改。
 
-- [Rocket.Chat #Project#](https://github.com/RocketChat/Rocket.Chat): Have your own Slack like online chat, built with Meteor.
+- [2019-Rocket.Chat #Project#](https://github.com/RocketChat/Rocket.Chat): Have your own Slack like online chat, built with Meteor.
 
 - [2019-Zulip #Project#](https://github.com/zulip/zulip): Zulip is a powerful, open source group chat application that combines the immediacy of real-time chat with the productivity benefits of threaded conversations.
 
