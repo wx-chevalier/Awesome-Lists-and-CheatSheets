@@ -20,6 +20,8 @@
 
 - [2022-katana #Project#](https://github.com/projectdiscovery/katana): A next-generation crawling and spidering framework.
 
+- [2022-zpscan #Project#](https://github.com/niudaii/zpscan): 一个有点好用的信息收集工具。A somewhat useful information gathering tool.
+
 ## CMD
 
 - [plow #Project#](https://github.com/six-ddc/plow): A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying.

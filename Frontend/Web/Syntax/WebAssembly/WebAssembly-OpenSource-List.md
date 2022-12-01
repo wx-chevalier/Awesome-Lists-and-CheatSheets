@@ -24,7 +24,7 @@
 
 - [CoWasm #Project#](https://github.com/sagemathinc/cowasm): CoWasm: Collaborative WebAssembly for Servers and Browsers. Built using Zig. Supports Python with extension modules, including numpy.
 
-# Interpreter
+# Interpreter & Runtime
 
 - [wasm3 #Project#](https://github.com/wasm3/wasm3): 🚀 The fastest WebAssembly interpreter.
 
@@ -33,3 +33,5 @@
 - [wazero #Project#](https://github.com/tetratelabs/wazero): the zero dependency WebAssembly runtime for Go developers
 
 - [wasmtime #Project#](https://github.com/bytecodealliance/wasmtime): A fast and secure runtime for WebAssembly
+
+- [WasmEdge #Project#](https://github.com/WasmEdge/WasmEdge): WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.

@@ -16,6 +16,8 @@
 
 - [windows95 #Project#](https://github.com/felixrieseberg/windows95): This is Windows 95, running in an Electron app. Yes, it's the full thing. I'm sorry.
 
+- [electron-with-express #Project#](https://github.com/frankhale/electron-with-express): A simple project demonstrating how to spawn an Express app from Electron as well as providing server logs directly in the Electron app.
+
 ## Boilerplate
 
 - [electron-react-typescript-webpack-boilerplate #Project#](https://github.com/Devtography/electron-react-typescript-webpack-boilerplate): Pre-configured boilerplate for Electron + React + TypeScript + Webpack.

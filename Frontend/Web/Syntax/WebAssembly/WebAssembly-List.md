@@ -36,6 +36,8 @@
 
 - [2018-WebAssembly 在 eBay 的实践：速度提升 50 倍](https://www.infoq.cn/article/vc*q7psQqWMaVU8igJeD): WebAssembly 自诞生以来就震动了整个前端业界。Web 社区很高兴看到 JavaScript 有了竞争者。何况原生 WebAssembly 的速度比 JavaScript 要快得多。我们 eBay 也身处这一浪潮之中，对 WebAssembly 非常欢迎。
 
+- [2019-Build FFmpeg WebAssembly version (= ffmpeg.wasm) #Series#](https://jeromewu.github.io/build-ffmpeg-webassembly-version-part-1-preparation/): How to build native FFmpeg with Docker (and without docker in MacOS)
+
 # Tutorial
 
 - [2017-Build Your First Thing With WebAssembly](http://cultureofdevelopment.com/blog/build-your-first-thing-with-web-assembly/)

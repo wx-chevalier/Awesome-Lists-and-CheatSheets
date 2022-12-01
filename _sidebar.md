@@ -855,6 +855,7 @@
         - [9.6.5.1 Windows List](/Infrastructure/OS/Windows/Windows-List.md)
     - 9.7 Web3
       - [9.7.1 Web3 List](/Infrastructure/Web3/Web3-List.md)
+      - [9.7.2 Web3 OpenSource List](/Infrastructure/Web3/Web3-OpenSource-List.md)
   - 10 AI
     - [10.1 AI Book List](/AI/AI-Book-List.md)
     - [10.2 AI Course List](/AI/AI-Course-List.md)
