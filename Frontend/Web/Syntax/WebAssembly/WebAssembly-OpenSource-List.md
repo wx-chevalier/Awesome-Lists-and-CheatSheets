@@ -35,3 +35,5 @@
 - [wasmtime #Project#](https://github.com/bytecodealliance/wasmtime): A fast and secure runtime for WebAssembly
 
 - [WasmEdge #Project#](https://github.com/WasmEdge/WasmEdge): WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+
+- [Extism #Project#](https://github.com/extism/extism): The universal plug-in system. Run WebAssembly extensions inside your app. Use idiomatic Host SDKs for Go, Ruby, Python, Node, Rust, C, C++, OCaml, Haskell, PHP, Elixir/Erlang & more (others coming soon).

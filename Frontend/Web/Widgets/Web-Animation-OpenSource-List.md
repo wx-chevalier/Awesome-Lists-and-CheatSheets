@@ -2,7 +2,13 @@
 
 - [react-tilt #Project#](https://github.com/jonathandion/react-tilt): 👓 Parallax tilt hover effect for React JS - tilt.js
 
-## Animation Effect
+# Motion Library
+
+- [Framer Motion #Project#](https://github.com/framer/motion): Open source, production-ready animation and gesture library for React.
+
+- [mojs #Project#](https://github.com/mojs/mojs): The motion graphics toolbelt for the web
+
+# Animation Effect
 
 - [Woah.css #Project#](http://www.joerezendes.com/projects/Woah.css/): Animations for eccentric developers.
 

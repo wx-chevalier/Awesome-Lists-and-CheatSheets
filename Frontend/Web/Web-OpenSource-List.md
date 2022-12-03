@@ -32,9 +32,11 @@
 
 ### IDE
 
-- [Rekit](https://github.com/supnate/rekit): IDE and toolkit for building scalable web applications with React, Redux and React-router
+- [Rekit #Project#](https://github.com/supnate/rekit): IDE and toolkit for building scalable web applications with React, Redux and React-router
 
 - [Keretes #Project#](https://github.com/kreteshq/kretes): A Programming Environment for TypeScript & Node.js built on top of VS Code.
+
+- [Playroom #Project#](https://github.com/seek-oss/playroom): Design with JSX, powered by your own component library.
 
 ### Code helper
 

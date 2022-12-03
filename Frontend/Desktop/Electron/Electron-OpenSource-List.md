@@ -24,6 +24,8 @@
 
 - [2020-Svelte NodeGUI #Project#](https://svelte.nodegui.org/): Create native apps for Windows, macOS and Linux using Svelte and CSS.
 
+- [secure-electron-template #Project#](https://github.com/reZach/secure-electron-template): A current electron app template with the most popular frameworks, designed and built with security in mind. (If you are curious about what makes an electron app secure, please check out this page).
+
 # Development Tools
 
 - [2018-Electron Fiddle #Project#](https://github.com/electron/fiddle): Electron Fiddle lets you create and play with small Electron experiments. It greets you with a quick-start template after opening – change a few things, choose the version of Electron you want to run it with, and play around.

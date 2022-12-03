@@ -78,6 +78,8 @@
 
 - [2016-Readings in Databases #Collection#](https://github.com/rxin/db-readings): A list of papers essential to understanding databases and building new data systems.
 
+- [2021-Awesome Database Learning #Collection#](https://github.com/pingcap/awesome-database-learning): A list of learning materials to understand databases internals.
+
 ## Course
 
 - [TP 301: TinySQL, a distributed relational database in Go #Project#](https://github.com/pingcap-incubator/tinysql): TinySQL is a course designed to teach you how to implement a distributed relational database in Go. TinySQL is also the name of the simplifed version of TiDB.

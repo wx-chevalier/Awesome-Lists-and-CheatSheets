@@ -286,6 +286,8 @@
 
 - [MMDetection #Project#](https://github.com/open-mmlab/mmdetection): MMDetection is an open source object detection toolbox based on PyTorch. It is a part of the OpenMMLab project.
 
+- [2022-MMYOLO #Project#](https://github.com/open-mmlab/mmyolo): MMYOLO is an open source toolbox for YOLO series algorithms based on PyTorch and MMDetection. It is a part of the OpenMMLab project.
+
 - [detrex #Project#](https://github.com/IDEA-Research/detrex): IDEA Open Source Toolbox for Transformer Based Object Detection Algorithms
 
 ### 人脸检测

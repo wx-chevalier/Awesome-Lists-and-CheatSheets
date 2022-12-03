@@ -114,26 +114,51 @@
         - [4.2.8.4 MonitorAlert OpenSource List](/System/DevOps/MonitorAlert/MonitorAlert-OpenSource-List.md)
     - 4.3 QA
       - [4.3.1 QA List](/System/QA/QA-List.md)
-    - [4.4 System List](/System/System-List.md)
-    - 4.5 Teamwork
-      - 4.5.1 Git
-        - [4.5.1.1 Git List](/System/Teamwork/Git/Git-List.md)
-        - [4.5.1.2 Git OpenSource List](/System/Teamwork/Git/Git-OpenSource-List.md)
-        - [4.5.1.3 Git Workflow List](/System/Teamwork/Git/Git-Workflow-List.md)
-        - [4.5.1.4 Github List](/System/Teamwork/Git/Github-List.md)
-      - 4.5.2 OpenSource
-        - [4.5.2.1 OpenSource List](/System/Teamwork/OpenSource/OpenSource-List.md)
-      - 4.5.3 TechnicalManagement
-        - 4.5.3.1 Agile
-          - [4.5.3.1.1 Agile List](/System/Teamwork/TechnicalManagement/Agile/Agile-List.md)
-        - 4.5.3.2 Devflow
-          - [4.5.3.2.1 Devflow List](/System/Teamwork/TechnicalManagement/Devflow/Devflow-List.md)
-          - [4.5.3.2.2 Devflow OpenSource List](/System/Teamwork/TechnicalManagement/Devflow/Devflow-OpenSource-List.md)
-        - [4.5.3.3 TechnicalManagement List](/System/Teamwork/TechnicalManagement/TechnicalManagement-List.md)
-    - 4.6 Test
-      - [4.6.1 PerformanceTest List](/System/Test/PerformanceTest-List.md)
-      - [4.6.2 Test List](/System/Test/Test-List.md)
-      - [4.6.3 Test OpenSource List](/System/Test/Test-OpenSource-List.md)
+    - 4.4 Solutions
+      - 4.4.1 CMS
+        - [4.4.1.1 CMS List](/System/Solutions/CMS/CMS-List.md)
+      - 4.4.2 ECommerce
+        - [4.4.2.1 LBS List](/System/Solutions/ECommerce/LBS-List.md)
+        - [4.4.2.2 LiveSupport List](/System/Solutions/ECommerce/LiveSupport-List.md)
+        - [4.4.2.3 Logistics List](/System/Solutions/ECommerce/Logistics-List.md)
+        - [4.4.2.4 Mall List](/System/Solutions/ECommerce/Mall-List.md)
+        - [4.4.2.5 Mall OpenSource List](/System/Solutions/ECommerce/Mall-OpenSource-List.md)
+      - 4.4.3 ERP
+        - [4.4.3.1 CRM List](/System/Solutions/ERP/CRM-List.md)
+        - [4.4.3.2 ERP List](/System/Solutions/ERP/ERP-List.md)
+        - 4.4.3.3 HCM
+          - [4.4.3.3.1 HCM List](/System/Solutions/ERP/HCM/HCM-List.md)
+      - 4.4.4 II MES
+        - [4.4.4.1 MES List](/System/Solutions/II-MES/MES-List.md)
+      - 4.4.5 OA
+        - [4.4.5.1 OA List](/System/Solutions/OA/OA-List.md)
+      - 4.4.6 OpenPlatform
+        - [4.4.6.1 Alipay List](/System/Solutions/OpenPlatform/Alipay-List.md)
+        - [4.4.6.2 OpenPlatform List](/System/Solutions/OpenPlatform/OpenPlatform-List.md)
+        - [4.4.6.3 Wechat List](/System/Solutions/OpenPlatform/Wechat-List.md)
+      - 4.4.7 Pay
+        - [4.4.7.1 Pay List](/System/Solutions/Pay/Pay-List.md)
+        - [4.4.7.2 Pay OpenSource List](/System/Solutions/Pay/Pay-OpenSource-List.md)
+    - [4.5 System List](/System/System-List.md)
+    - 4.6 Teamwork
+      - 4.6.1 Git
+        - [4.6.1.1 Git List](/System/Teamwork/Git/Git-List.md)
+        - [4.6.1.2 Git OpenSource List](/System/Teamwork/Git/Git-OpenSource-List.md)
+        - [4.6.1.3 Git Workflow List](/System/Teamwork/Git/Git-Workflow-List.md)
+        - [4.6.1.4 Github List](/System/Teamwork/Git/Github-List.md)
+      - 4.6.2 OpenSource
+        - [4.6.2.1 OpenSource List](/System/Teamwork/OpenSource/OpenSource-List.md)
+      - 4.6.3 TechnicalManagement
+        - 4.6.3.1 Agile
+          - [4.6.3.1.1 Agile List](/System/Teamwork/TechnicalManagement/Agile/Agile-List.md)
+        - 4.6.3.2 Devflow
+          - [4.6.3.2.1 Devflow List](/System/Teamwork/TechnicalManagement/Devflow/Devflow-List.md)
+          - [4.6.3.2.2 Devflow OpenSource List](/System/Teamwork/TechnicalManagement/Devflow/Devflow-OpenSource-List.md)
+        - [4.6.3.3 TechnicalManagement List](/System/Teamwork/TechnicalManagement/TechnicalManagement-List.md)
+    - 4.7 Test
+      - [4.7.1 PerformanceTest List](/System/Test/PerformanceTest-List.md)
+      - [4.7.2 Test List](/System/Test/Test-List.md)
+      - [4.7.3 Test OpenSource List](/System/Test/Test-OpenSource-List.md)
   - 5 Specials
     - [5.1 Awesome Specials](/Specials/Awesome-Specials.md)
     - 5.2 Collections
@@ -729,31 +754,6 @@
         - [8.4.7.4 RPC OpenSource List](/Backend/MicroCN/RPC/RPC-OpenSource-List.md)
         - [8.4.7.5 Serialization List](/Backend/MicroCN/RPC/Serialization-List.md)
         - [8.4.7.6 gRPC List](/Backend/MicroCN/RPC/gRPC-List.md)
-    - 8.5 System
-      - 8.5.1 CMS
-        - [8.5.1.1 CMS List](/Backend/System/CMS/CMS-List.md)
-      - 8.5.2 ECommerce
-        - [8.5.2.1 LBS List](/Backend/System/ECommerce/LBS-List.md)
-        - [8.5.2.2 LiveSupport List](/Backend/System/ECommerce/LiveSupport-List.md)
-        - [8.5.2.3 Logistics List](/Backend/System/ECommerce/Logistics-List.md)
-        - [8.5.2.4 Mall List](/Backend/System/ECommerce/Mall-List.md)
-        - [8.5.2.5 Mall OpenSource List](/Backend/System/ECommerce/Mall-OpenSource-List.md)
-      - 8.5.3 ERP
-        - [8.5.3.1 CRM List](/Backend/System/ERP/CRM-List.md)
-        - [8.5.3.2 ERP List](/Backend/System/ERP/ERP-List.md)
-        - 8.5.3.3 HCM
-          - [8.5.3.3.1 HCM List](/Backend/System/ERP/HCM/HCM-List.md)
-      - 8.5.4 II MES
-        - [8.5.4.1 MES List](/Backend/System/II-MES/MES-List.md)
-      - 8.5.5 OA
-        - [8.5.5.1 OA List](/Backend/System/OA/OA-List.md)
-      - 8.5.6 OpenPlatform
-        - [8.5.6.1 Alipay List](/Backend/System/OpenPlatform/Alipay-List.md)
-        - [8.5.6.2 OpenPlatform List](/Backend/System/OpenPlatform/OpenPlatform-List.md)
-        - [8.5.6.3 Wechat List](/Backend/System/OpenPlatform/Wechat-List.md)
-      - 8.5.7 Pay
-        - [8.5.7.1 Pay List](/Backend/System/Pay/Pay-List.md)
-        - [8.5.7.2 Pay OpenSource List](/Backend/System/Pay/Pay-OpenSource-List.md)
   - 9 Infrastructure
     - 9.1 Cloud
       - [9.1.1 Cloud List](/Infrastructure/Cloud/Cloud-List.md)
