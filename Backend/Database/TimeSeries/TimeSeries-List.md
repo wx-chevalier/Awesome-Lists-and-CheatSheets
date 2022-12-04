@@ -13,3 +13,5 @@
 - [2019-Building a distributed time-series database on PostgreSQL](https://blog.timescale.com/blog/building-a-distributed-time-series-database-on-postgresql/): TimescaleDB, a time-series database on PostgreSQL, has been production-ready for over two years, with millions of downloads and production deployments worldwide. Today, for the first time, we are publicly sharing our design, plans, and benchmarks for the distributed version of TimescaleDB.
 
 # OpenSource
+
+- [StatsForecast #Project#](https://github.com/Nixtla/statsforecast): StatsForecast offers a collection of widely used univariate time series forecasting models, including automatic ARIMA, ETS, CES, and Theta modeling optimized for high performance using numba. It also includes a large battery of benchmarking models.
