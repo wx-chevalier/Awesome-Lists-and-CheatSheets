@@ -96,7 +96,7 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [2019-free-for.dev #Collection#](https://github.com/ripienaar/free-for-dev): Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all in order to make informed decisions.
 
-# Collection: 资源合集
+# Collection | 资源合集
 
 - [Computer Science Video Course #Collection#](https://github.com/Developer-Y/cs-video-courses): 计算机科学与技术的系列视频搜集
 
@@ -111,6 +111,8 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 - [2016-dev-books #Collection#](http://www.dev-books.com/): analysed more than 40 000 000 questions and answers on stackoverflow.com to bring you the top of most mentioned books (5720 in total)
 
 - [2017-Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
+- [2022-小林 x 图解计算机基础 #Project#](https://github.com/xiaolincoder/CS-Base): 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 
 # Sites
 

@@ -62,6 +62,8 @@
 
 - [2020-ballista #Project#](https://github.com/ballista-compute/ballista): Distributed compute platform implemented in Rust, and powered by Apache Arrow.
 
+- [2022-PowerJob #Project#](https://github.com/PowerJob/PowerJob): Enterprise job scheduling middleware with distributed computing ability.
+
 ## DAG Workflow
 
 - [2018-Conductor #Project#](https://netflix.github.io/conductor/): Conductor is a Workflow Orchestration engine that runs in the cloud.

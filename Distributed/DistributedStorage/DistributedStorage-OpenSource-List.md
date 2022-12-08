@@ -44,4 +44,6 @@
 
 - [2019-Dragonfly #Project#](https://d7y.io/en-us/index.html): An Open-source P2P-based Image and File Distribution System.
 
+- [2020-Garage #Project#](https://garagehq.deuxfleurs.fr/): An open-source distributed object storage service tailored for self-hosting.
+
 ## Block Storage
