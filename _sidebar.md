@@ -708,12 +708,12 @@
       - [8.2.6 RiskManagement List](/Backend/HA/RiskManagement-List.md)
       - [8.2.7 SRE List](/Backend/HA/SRE-List.md)
       - [8.2.8 Spike List](/Backend/HA/Spike-List.md)
-    - 8.3 MOM
-      - [8.3.1 Kafka List](/Backend/MOM/Kafka-List.md)
-      - [8.3.2 MOM List](/Backend/MOM/MOM-List.md)
-      - [8.3.3 Pulsar List](/Backend/MOM/Pulsar-List.md)
-      - [8.3.4 RabbitMQ List](/Backend/MOM/RabbitMQ-List.md)
-      - [8.3.5 RocketMQ List](/Backend/MOM/RocketMQ-List.md)
+    - 8.3 MessageQueue
+      - [8.3.1 Kafka List](/Backend/MessageQueue/Kafka-List.md)
+      - [8.3.2 MOM List](/Backend/MessageQueue/MOM-List.md)
+      - [8.3.3 Pulsar List](/Backend/MessageQueue/Pulsar-List.md)
+      - [8.3.4 RabbitMQ List](/Backend/MessageQueue/RabbitMQ-List.md)
+      - [8.3.5 RocketMQ List](/Backend/MessageQueue/RocketMQ-List.md)
     - 8.4 MicroCN
       - 8.4.1 API
         - [8.4.1.1 API List](/Backend/MicroCN/API/API-List.md)

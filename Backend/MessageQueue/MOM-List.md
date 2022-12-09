@@ -41,3 +41,5 @@
 - [2016-设计消息中间件时我关心什么?(解密电商数据一致性与完整性实现)](https://parg.co/fav): 今天主要给大家分享一下消息队列基础组件的设计。
 
 - [2017-Message Queue 的设计和实现](http://mp.weixin.qq.com/s/AgdayVL0pvcwL0amLouu-Q): 终于过完年了，老王也回归了，这周给大家带来的是 Message Queue（业界喜欢简称为 MQ）的设计和实现。
+
+# OpenSource
