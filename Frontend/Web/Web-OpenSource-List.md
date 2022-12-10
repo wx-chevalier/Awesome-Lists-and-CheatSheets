@@ -108,6 +108,10 @@
 
 - [xstate #Project#](https://github.com/davidkpiano/xstate): State machines and statecharts for the modern web.
 
+- [zustand #Project#](https://github.com/pmndrs/zustand): A small, fast and scalable bearbones state-management solution using simplified flux principles. Has a comfy api based on hooks, isn't boilerplatey or opinionated.
+  - [zundo #Project#](https://github.com/charkour/zundo): 🍜 undo/redo middleware for zustand. <1kB
+  - [zustood #Project#](https://github.com/udecode/zustood): 🐻‍❄️ A modular store factory using zustand
+
 ## Mini Program & Cross App
 
 - [wepy #Project#](https://tencent.github.io/wepy/): 让小程序支持组件化开发的框架，一个最受欢迎的小程序框架。

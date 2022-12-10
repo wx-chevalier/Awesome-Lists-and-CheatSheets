@@ -24,12 +24,18 @@
 
 - [react-planner #Project#](https://github.com/cvdlab/react-planner): ✏️ A React Component for plans design. Draw a 2D floorplan and navigate it in 3D mode.
 
+- [threejs-cookbook #Project#](https://github.com/josdirksen/threejs-cookbook): Examples for the Three.js Cookbook book published by packt
+
+- [3d #Project#](https://github.com/dragonir/3d): Three.js 3D 项目，包含冰墩墩 🐼、数字城市 🏙、3D 人像 👤、车模展示 🚗、塞尔达传说 🗡 等一些 3D 趣味演示页面，持续优化中...访问链接如下 👇
+
 ## Utils
 
 - [three-geometry-welder #Project#](https://github.com/0xAxiome/three-geometry-welder): A customizable way of merging your buffer geometry
 
-### Example
+## React Three Fiber
 
-- [threejs-cookbook #Project#](https://github.com/josdirksen/threejs-cookbook): Examples for the Three.js Cookbook book published by packt
+- [react-three-fiber #Project#](https://github.com/pmndrs/react-three-fiber): react-three-fiber is a React renderer for threejs.
 
-- [3d #Project#](https://github.com/dragonir/3d): Three.js 3D 项目，包含冰墩墩 🐼、数字城市 🏙、3D 人像 👤、车模展示 🚗、塞尔达传说 🗡 等一些 3D 趣味演示页面，持续优化中...访问链接如下 👇
+- [drei #Project#](https://github.com/pmndrs/drei): A growing collection of useful helpers and fully functional, ready-made abstractions for @react-three/fiber. If you make a component that is generic enough to be useful to others, think about making it available here through a PR!
+
+- [r3f-perf #Project#](https://github.com/utsuboco/r3f-perf): Easily monitor your ThreeJS performances.

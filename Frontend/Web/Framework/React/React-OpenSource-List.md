@@ -46,6 +46,8 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 - [why-did-you-update #Project#](https://github.com/garbles/why-did-you-update): Puts your console on blast when React is making unnecessary updates.
 
+- [2021-React Tracked #Project#](https://github.com/dai-shi/react-tracked): State usage tracking with Proxies. Optimize re-renders for useState/useReducer, React Redux, Zustand and others.
+
 # Development Libraries
 
 - [React Canvas #Project#](https://github.com/Flipboard/react-canvas): High performance `<canvas>` rendering for React components.
@@ -53,10 +55,6 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 - [react-spectrum #Project#](https://github.com/adobe/react-spectrum): A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 
 - [Blitz #Project#](https://blitzjs.com/): Blitz is a batteries-included framework that's inspired by Ruby on Rails, is built on Next.js, and features a "Zero-API" data layer abstraction that eliminates the need for REST/GraphQL.
-
-## State Management
-
-- [zustand #Project#](https://github.com/pmndrs/zustand): A small, fast and scalable bearbones state-management solution using simplified flux principles. Has a comfy api based on hooks, isn't boilerplatey or opinionated.
 
 ## Data Fetch
 

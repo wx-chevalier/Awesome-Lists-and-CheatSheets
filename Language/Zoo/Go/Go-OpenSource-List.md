@@ -136,6 +136,8 @@
 
 - [2015-fsnotify #Project#](https://github.com/fsnotify/fsnotify): Cross-platform file system notifications for Go.
 
+- [2019-statik #Project#](https://github.com/rakyll/statik): statik allows you to embed a directory of static files into your Go binary to be later served from an http.FileSystem.
+
 ## Database
 
 - [Bolt #Project#](https://github.com/boltdb/bolt): An embedded key/value database for Go.
