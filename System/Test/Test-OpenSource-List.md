@@ -110,4 +110,4 @@
 
 - [PhantomCSS #Project#](https://github.com/Huddle/PhantomCSS): CSS regression testing.
 
-- [BackstopJS #Project#](https://github.com/garris/BackstopJS): BackstopJS automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
+- [garris/BackstopJS #Project# ![star](https://img.shields.io/github/stars/garris/BackstopJS) ](https://github.com/garris/BackstopJS): BackstopJS automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.

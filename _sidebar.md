@@ -458,24 +458,25 @@
         - [7.1.2.3 ComputerGraphics List](/Frontend/CGDataVis/ComputerGraphics/ComputerGraphics-List.md)
       - 7.1.3 DataVis
         - [7.1.3.1 Cube List](/Frontend/CGDataVis/DataVis/Cube-List.md)
-        - [7.1.3.2 DataVis List](/Frontend/CGDataVis/DataVis/DataVis-List.md)
-        - [7.1.3.3 DataVis OpenSource List](/Frontend/CGDataVis/DataVis/DataVis-OpenSource-List.md)
+        - [7.1.3.2 D3 List](/Frontend/CGDataVis/DataVis/D3-List.md)
+        - [7.1.3.3 DataVis List](/Frontend/CGDataVis/DataVis/DataVis-List.md)
+        - [7.1.3.4 DataVis OpenSource List](/Frontend/CGDataVis/DataVis/DataVis-OpenSource-List.md)
+        - [7.1.3.5 Map List](/Frontend/CGDataVis/DataVis/Map-List.md)
       - 7.1.4 Graphic
-        - [7.1.4.1 Animation List](/Frontend/CGDataVis/Graphic/Animation-List.md)
-        - [7.1.4.2 D3 List](/Frontend/CGDataVis/Graphic/D3-List.md)
-        - [7.1.4.3 Graphic List](/Frontend/CGDataVis/Graphic/Graphic-List.md)
-        - [7.1.4.4 Graphic OpenSource List](/Frontend/CGDataVis/Graphic/Graphic-OpenSource-List.md)
-        - [7.1.4.5 Map List](/Frontend/CGDataVis/Graphic/Map-List.md)
-        - [7.1.4.6 OpenGL List](/Frontend/CGDataVis/Graphic/OpenGL-List.md)
-        - [7.1.4.7 Svg List](/Frontend/CGDataVis/Graphic/Svg-List.md)
-        - [7.1.4.8 Three.js List](/Frontend/CGDataVis/Graphic/Three.js-List.md)
-        - [7.1.4.9 WebGL List](/Frontend/CGDataVis/Graphic/WebGL-List.md)
+        - [7.1.4.1 Graphic List](/Frontend/CGDataVis/Graphic/Graphic-List.md)
+        - [7.1.4.2 Graphic OpenSource List](/Frontend/CGDataVis/Graphic/Graphic-OpenSource-List.md)
+        - 7.1.4.3 OpenGL
+          - [7.1.4.3.1 OpenGL List](/Frontend/CGDataVis/Graphic/OpenGL/OpenGL-List.md)
+          - [7.1.4.3.2 WebGL List](/Frontend/CGDataVis/Graphic/OpenGL/WebGL-List.md)
+        - 7.1.4.4 Three.js
+          - [7.1.4.4.1 Three.js List](/Frontend/CGDataVis/Graphic/Three.js/Three.js-List.md)
       - 7.1.5 Media
         - [7.1.5.1 FFMpeg List](/Frontend/CGDataVis/Media/FFMpeg-List.md)
         - [7.1.5.2 Image List](/Frontend/CGDataVis/Media/Image-List.md)
         - [7.1.5.3 QR List](/Frontend/CGDataVis/Media/QR-List.md)
         - [7.1.5.4 SVG OpenSource List](/Frontend/CGDataVis/Media/SVG-OpenSource-List.md)
-        - [7.1.5.5 Video List](/Frontend/CGDataVis/Media/Video-List.md)
+        - [7.1.5.5 Svg List](/Frontend/CGDataVis/Media/Svg-List.md)
+        - [7.1.5.6 Video List](/Frontend/CGDataVis/Media/Video-List.md)
     - 7.2 Desktop
       - [7.2.1 Desktop List](/Frontend/Desktop/Desktop-List.md)
       - 7.2.2 Electron
