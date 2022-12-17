@@ -14,9 +14,11 @@
 
 - [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord): Better Discord enhances Discord desktop app with new features.
 
-- [windows95 #Project#](https://github.com/felixrieseberg/windows95): This is Windows 95, running in an Electron app. Yes, it's the full thing. I'm sorry.
+- [windows95 #Project# ![star](https://img.shields.io/github/stars/felixrieseberg/windows95)](https://github.com/felixrieseberg/windows95): This is Windows 95, running in an Electron app. Yes, it's the full thing. I'm sorry.
 
-- [electron-with-express #Project#](https://github.com/frankhale/electron-with-express): A simple project demonstrating how to spawn an Express app from Electron as well as providing server logs directly in the Electron app.
+- [electron-with-express #Project# ![star](https://img.shields.io/github/stars/frankhale/electron-with-express)](https://github.com/frankhale/electron-with-express): A simple project demonstrating how to spawn an Express app from Electron as well as providing server logs directly in the Electron app.
+
+- [2022-Min #Project# ![star](https://img.shields.io/github/stars/minbrowser/min)](https://github.com/minbrowser/min): Min is a fast, minimal browser that protects your privacy. It includes an interface designed to minimize distractions, and features such as.
 
 ## Boilerplate
 

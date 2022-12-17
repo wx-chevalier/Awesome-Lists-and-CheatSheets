@@ -22,6 +22,8 @@
 
 - [2022-zpscan #Project#](https://github.com/niudaii/zpscan): 一个有点好用的信息收集工具。A somewhat useful information gathering tool.
 
+- [2022-tailscale/golink #Project# ![star](https://img.shields.io/github/stars/tailscale/golink)](https://github.com/tailscale/golink): golink is a private shortlink service for your tailnet. It lets you create short, memorable links for the websites you and your team use most. If you're new to golink, learn more in our announcement blog post.
+
 ## CMD
 
 - [plow #Project#](https://github.com/six-ddc/plow): A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying.

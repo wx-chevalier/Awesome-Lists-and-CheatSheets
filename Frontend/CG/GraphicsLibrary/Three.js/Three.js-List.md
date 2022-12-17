@@ -38,6 +38,10 @@
 
 - [three-geometry-welder #Project#](https://github.com/0xAxiome/three-geometry-welder): A customizable way of merging your buffer geometry
 
+- [3DTilesRendererJS #Project#](https://github.com/NASA-AMMOS/3DTilesRendererJS): Three.js renderer implementation for the 3D Tiles format. The renderer supports most of the 3D Tiles spec features with a few exceptions. See Issue #15 for information on which features are not yet implemented.
+
+- [FarazzShaikh/THREE-CustomShaderMaterial #Project# ![star](https://img.shields.io/github/stars/FarazzShaikh/THREE-CustomShaderMaterial)](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial): Custom Shader Material (CSM) lets you extend Three.js' material library with your own Vertex and Fragment shaders. It Supports both Vanilla and React!
+
 ## React Three Fiber
 
 - [react-three-fiber #Project#](https://github.com/pmndrs/react-three-fiber): react-three-fiber is a React renderer for threejs.

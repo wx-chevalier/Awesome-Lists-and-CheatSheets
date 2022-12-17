@@ -7,3 +7,5 @@
 - [datasette #Project#](https://github.com/simonw/datasette): An instant JSON API for your SQLite databases.
 
 - [soul #Project#](https://github.com/thevahidal/soul): A SQLite RESTful server.
+
+- [nalgeon/sqlean #Project# ![star](https://img.shields.io/github/stars/nalgeon/sqlean)](https://github.com/nalgeon/sqlean): To achieve it, we split extensions that are too broad, merge the ones that are too narrow, refactor, add missing features, test, document, and do a ton of other small things.

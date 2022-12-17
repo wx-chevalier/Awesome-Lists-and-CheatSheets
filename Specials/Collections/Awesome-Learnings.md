@@ -26,6 +26,8 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [2022-Professional Programming #Collection#](https://github.com/charlax/professional-programming): The goal of this page is to make you a more proficient developer. You'll find only resources that I've found truly inspiring, or that have become timeless classics.
 
+- [2022-forthespada/CS-Books #Project# ![star](https://img.shields.io/github/stars/https://github.com/forthespada/CS-Books)](https://github.com/https://github.com/forthespada/CS-Books): 🔥🔥 超过 1000 本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括 C/C++、Java、Python、Go 语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
+
 ## Cheatsheets
 
 - [cheat.sh #Project#](https://github.com/chubin/cheat.sh): Covers 56 programming languages, several DBMSes, and more than 1000 most important UNIX/Linux commands.

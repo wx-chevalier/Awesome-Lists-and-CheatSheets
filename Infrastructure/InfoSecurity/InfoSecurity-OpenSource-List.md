@@ -142,7 +142,7 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [SecGen #Project#](https://github.com/cliffe/SecGen): SecGen creates vulnerable virtual machines so students can learn security penetration testing techniques.
 
-# Social Engineering（信息采集）
+# OSINT Social Engineering | 信息采集
 
 - [kbd-audio #Project#](https://github.com/ggerganov/kbd-audio): Tools for capturing and analysing keyboard input paired with microphone capture 🎤⌨️
 
@@ -153,6 +153,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 - [uncover #Project#](https://github.com/projectdiscovery/uncover): Quickly discover exposed hosts on the internet using multiple search engines.
 
 - [maigret #Project#](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+
+- [mxrch/GHunt #Project# ![star](https://img.shields.io/github/stars/mxrch/GHunt)](https://github.com/mxrch/GHunt):
 
 ## Leakage
 

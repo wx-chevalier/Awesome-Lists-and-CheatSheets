@@ -46,6 +46,8 @@
 
 - [2021-AugLy #Project#](https://github.com/facebookresearch/AugLy): AugLy is a data augmentations library that currently supports four modalities (audio, image, text & video) and over 100 augmentations.
 
+- [2022-Skypilot #Project# ![star](https://img.shields.io/github/stars/skypilot-org/skypilot)](https://github.com/skypilot-org/skypilot): SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
+
 ## Dataset Management
 
 - [Hub #Project#](https://github.com/activeloopai/Hub): Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it.
