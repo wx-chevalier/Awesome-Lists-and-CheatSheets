@@ -280,6 +280,10 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [Ghidra #Project#](https://github.com/NationalSecurityAgency/ghidra): Ghidra is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
 
+# Code Security
+
+- [2022-osv-scanner #Project# ![star](https://img.shields.io/github/stars/google/osv-scanner)](https://github.com/google/osv-scanner): Use OSV-Scanner to find existing vulnerabilities affecting your project's dependencies.
+
 # Links
 
 - https://github.com/unexpectedBy/awesome-pentest-tools

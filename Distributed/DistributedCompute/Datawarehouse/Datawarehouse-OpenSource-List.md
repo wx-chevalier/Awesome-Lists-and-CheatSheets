@@ -101,3 +101,5 @@
 - [Arc #Project#](https://arc.tripl.ai/): Arc is an opinionated framework for defining predictable, repeatable and manageable data transformation pipelines;
 
 - [2021-Vector #Project#](https://github.com/vectordotdev/vector): Vector is a high-performance, end-to-end (agent & aggregator) observability data pipeline that puts you in control of your observability data. Collect, transform, and route all your logs, metrics, and traces to any vendors you want today and any other vendors you may want tomorrow. Vector enables dramatic cost reduction, novel data enrichment, and data security where you need it, not where it is most convenient for your vendors. Additionally, it is open source and up to 10x faster than every alternative in the space.
+
+- [2022-Airbyte #Project# ![star](https://img.shields.io/github/stars/airbytehq/airbyte)](https://github.com/airbytehq/airbyte): Data integration platform for ELT pipelines from APIs, databases & files to databases, warehouses & lakes

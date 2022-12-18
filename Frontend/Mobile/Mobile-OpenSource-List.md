@@ -14,6 +14,8 @@
 
 - [hooker #Project#](https://github.com/CreditTone/hooker): 🔥🔥hooker 是一个基于 frida 实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成 hook 脚本、内存漫游探测 activity 和 service、firda 版 JustTrustMe、disable ssl pinning
 
+- [2022-apk.sh #Project# ![star](https://img.shields.io/github/stars/ax/apk.sh)](https://github.com/ax/apk.sh): apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+
 # Hybrid
 
 - [Cordova]()

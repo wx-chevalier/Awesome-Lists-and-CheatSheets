@@ -10,7 +10,11 @@
 
 - [yn #Project#](https://github.com/purocean/yn): A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
 
+## Markdown
+
 - [glow #Project#](https://github.com/charmbracelet/glow): Render markdown on the CLI, with pizzazz! 💅🏻
+
+- [2022-textual-markdown #Project# ![star](https://img.shields.io/github/stars/willmcgugan/textual-markdown)](https://github.com/willmcgugan/textual-markdown): This project is an experimental "Markdown browser" for the terminal, built with Textual.
 
 ## Note Taking App
 
