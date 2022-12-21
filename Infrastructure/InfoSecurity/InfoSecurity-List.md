@@ -44,6 +44,8 @@
 
 - [Awesome WebSecurity #Collection#](https://github.com/qazbnm456/awesome-web-security): 🐶 A curated list of Web Security materials and resources.
 
+- [jassics/security-study-plan #Project# ![star](https://img.shields.io/github/stars/jassics/security-study-plan)](https://github.com/jassics/security-study-plan): Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
+
 ## Course
 
 - [Beginner Network Pentesting #Series#](https://github.com/hmaverickadams/Beginner-Network-Pentesting): Welcome to the Beginner Network Pentesting course. Previously, the course was delivered weekly on Twitch and built from lessons learned in the previous week.

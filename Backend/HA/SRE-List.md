@@ -32,6 +32,10 @@
 
 - [howtheysre #Project#](https://github.com/upgundecha/howtheysre): A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE).
 
+# Tutorial
+
+- [2022-What every SRE should know about GNU/Linux shell related internals: file descriptors, pipes, terminals, user sessions, process groups and daemons #Series#](https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons/): Despite the era of containers, virtualization, and the rising number of UI of all kinds, SREs often spend a significant part of their time in GNU/Linux shells. It could be debugging, testing, developing, or preparing the new infrastructure. It may be the good old bash, the more recent and fancy zsh, or even fish or tcsh with their interesting and unique features.
+
 # OpenSource
 
 ## Incidents Management

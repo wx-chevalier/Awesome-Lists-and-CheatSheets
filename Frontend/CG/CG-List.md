@@ -20,6 +20,8 @@
 
 - [2019-fun-with-graphics #Collection#](https://github.com/FancyVin/fun-with-graphics): 这里主要整理了图形学相关的高校课程、书籍、教程、文章、博客、资源、研究者主页、实验室主页、视频频道、开源项目、网站等。
 
+- [timzhang642/3D-Machine-Learning #Project# ![star](https://img.shields.io/github/stars/timzhang642/3D-Machine-Learning)](https://github.com/timzhang642/3D-Machine-Learning):
+
 ## Course
 
 - [John C. Hart Coursera](https://zh.coursera.org/learn/datavisualization)
