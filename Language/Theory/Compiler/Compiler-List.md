@@ -39,3 +39,5 @@ There are massive curated links to help you study anything about Compiler head f
 - [2017-Monads to Machine Code](http://www.stephendiehl.com/posts/monads_machine_code.html): Let’s build a small LLVM-like intermediate language and JIT execution engine in Haskell.
 
 - [Adventures in JIT compilation #Series#](https://parg.co/bs2): he plan is to take a simple input language and develop some interpreters and JITs for it, in roughtly increasing degree of complexity.
+
+- [2020-Implementing a Toy Optimizer](https://www.pypy.org/posts/2022/07/toy-optimizer.html): In this blog post I want to show the complete code (in Python3) of how a very simple optimizer for sequences of operations can work.

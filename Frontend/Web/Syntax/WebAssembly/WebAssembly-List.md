@@ -62,6 +62,10 @@
 
 - [2020-Hands on WebAssembly: Try the basics](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics): Get started with WebAssembly through our simple hands-on tutorial that assumes only general knowledge in web development.
 
+## Docker
+
+- [2022-WebAssembly: Docker without containers!](https://wasmlabs.dev/articles/docker-without-containers/): Note that this article focuses on getting some hands-on experience rather than discussing technical details. You can either reproduce the examples below or just read through them till the end as we will also provide the output.
+
 # Under the hood
 
 - [2017-Understanding WebAssembly text format](https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format): To enable WebAssembly to be read and edited by humans, there is a textual representation of the wasm binary format. This is an intermediate form designed to exposed in text editors, browser developer tools, etc. This article explains how that text format works, in terms of the raw syntax, and how it is related to the underlying bytecode it represents — and the wrapper objects representing wasm in JavaScript.
