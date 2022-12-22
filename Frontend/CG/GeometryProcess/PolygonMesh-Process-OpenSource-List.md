@@ -106,6 +106,8 @@
 
 - [2017-fogleman/sdf #Project# ![star](https://img.shields.io/github/stars/fogleman/sdf)](https://github.com/fogleman/sdf): Generate 3D meshes based on SDFs (signed distance functions) with a dirt simple Python API.
 
+- [2017-ODM #Project# ![star](https://img.shields.io/github/stars/OpenDroneMap/ODM)](https://github.com/OpenDroneMap/ODM): A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
+
 ### Image To Mesh
 
 - [2018-mlivesu/slice2mesh #Project# ![star](https://img.shields.io/github/stars/mlivesu/slice2mesh)](https://github.com/mlivesu/slice2mesh): a Meshing Tool for the Simulation of Additive Manufacturing Processes
@@ -113,6 +115,10 @@
 - [2018-ThibaultGROUEIX/AtlasNet #Project# ![star](https://img.shields.io/github/stars/ThibaultGROUEIX/AtlasNet)](https://github.com/ThibaultGROUEIX/AtlasNet): This repository contains the source codes for the paper "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation ". The network is able to synthesize a mesh (point cloud + connectivity) from a low-resolution point cloud, or from an image.
 
 - [2021-AOT-AG/DicomToMesh #Project# ![star](https://img.shields.io/github/stars/AOT-AG/DicomToMesh)](https://github.com/AOT-AG/DicomToMesh): A command line tool to transform a DICOM volume into a 3d surface mesh (obj, stl or ply). Several mesh processing routines can be enabled, such as mesh reduction, smoothing or cleaning. Works on Linux, OSX and Windows.
+
+### Text To Mesh
+
+- [2022-Point·E #Project# ![star](https://img.shields.io/github/stars/openai/point-e)](https://github.com/openai/point-e): Point cloud diffusion for 3D model synthesis
 
 ## Transform | 模型操作
 

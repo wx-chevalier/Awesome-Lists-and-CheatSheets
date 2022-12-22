@@ -10,6 +10,8 @@
 
 - [2019-计算机视觉在制造业应用的十大最新案例](https://mp.weixin.qq.com/s/hPzB0gpbJax3b65nx1Ovdw): 昨天发现一篇文章，分享了计算机视觉在制造业应用中的 10 个案例，特此转载过来分享给大家，希望对大家有帮助，有疑问的可以在文末留言互相交流～
 
+## Collection
+
 ## Series
 
 - [2020-computervision-recipes #Series#](https://github.com/microsoft/computervision-recipes): Best Practices, code samples, and documentation for Computer Vision.

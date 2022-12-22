@@ -42,6 +42,8 @@
 
 - [FarazzShaikh/THREE-CustomShaderMaterial #Project# ![star](https://img.shields.io/github/stars/FarazzShaikh/THREE-CustomShaderMaterial)](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial): Custom Shader Material (CSM) lets you extend Three.js' material library with your own Vertex and Fragment shaders. It Supports both Vanilla and React!
 
+- [2022-three-projected-material #Project# ![star](https://img.shields.io/github/stars/marcofugaro/three-projected-material)](https://github.com/marcofugaro/three-projected-material): 📽 Three.js Material which lets you do Texture Projection on a 3d Model.
+
 ## React Three Fiber
 
 - [react-three-fiber #Project#](https://github.com/pmndrs/react-three-fiber): react-three-fiber is a React renderer for threejs.

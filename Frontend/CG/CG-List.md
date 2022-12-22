@@ -20,7 +20,7 @@
 
 - [2019-fun-with-graphics #Collection#](https://github.com/FancyVin/fun-with-graphics): 这里主要整理了图形学相关的高校课程、书籍、教程、文章、博客、资源、研究者主页、实验室主页、视频频道、开源项目、网站等。
 
-- [timzhang642/3D-Machine-Learning #Project# ![star](https://img.shields.io/github/stars/timzhang642/3D-Machine-Learning)](https://github.com/timzhang642/3D-Machine-Learning):
+- [2021-3D-Machine-Learning #Project# ![star](https://img.shields.io/github/stars/timzhang642/3D-Machine-Learning)](https://github.com/timzhang642/3D-Machine-Learning): In recent years, tremendous amount of progress is being made in the field of 3D Machine Learning, which is an interdisciplinary field that fuses computer vision, computer graphics and machine learning. This repo is derived from my study notes and will be used as a place for triaging new research papers.
 
 ## Course
 

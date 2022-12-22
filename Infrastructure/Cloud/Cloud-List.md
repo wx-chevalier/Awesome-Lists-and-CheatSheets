@@ -19,3 +19,5 @@
 # Application Model
 
 - [OAM #Project#](https://github.com/oam-dev/spec/): OAM 的愿景是以标准化的方式沟通和连接应用开发者、运维人员、应用基础设施，让云原生应用管理与交付变得更加简洁，高效，并且可控。
+
+- [2022-Score #Project#](https://score.dev/): Score is a developer-centric and platform-agnostic workload specification. It ensures consistent configuration between local and remote environments. And it's open source.
