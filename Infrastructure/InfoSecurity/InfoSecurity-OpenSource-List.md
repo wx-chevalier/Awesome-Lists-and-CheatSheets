@@ -154,7 +154,9 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [maigret #Project#](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 
-- [mxrch/GHunt #Project# ![star](https://img.shields.io/github/stars/mxrch/GHunt)](https://github.com/mxrch/GHunt):
+- [mxrch/GHunt #Project# ![star](https://img.shields.io/github/stars/mxrch/GHunt)](https://github.com/mxrch/GHunt): GHunt (v2) is an offensive Google framework, designed to evolve efficiently.
+
+- [2022-mosint #Project# ![star](https://img.shields.io/github/stars/2022-alpkeskin/mosint)](https://github.com/2022-alpkeskin/mosint): MOSINT is a fastest OSINT Tool for emails. It helps you gather information about the target email.
 
 ## Leakage
 

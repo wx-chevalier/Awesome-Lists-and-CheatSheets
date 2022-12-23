@@ -8,9 +8,7 @@
 
 - [Directus #Project#](https://github.com/directus/directus): Directus is a real-time API and App dashboard for managing SQL database content.
 
-- [Openblocks #Project#](https://github.com/openblocks-dev/openblocks): Retool-like solutions are great for their simplicity and flexibility, but they can also be limited in different ways compared to frameworks like React/Vue.
-
-# Quick Development
+# Quick Development & Internal Tools
 
 - [refine #Project#](https://github.com/refinedev/refine): An open source, headless web application framework developed with flexibility in mind.
 
@@ -23,10 +21,6 @@
 - [2021-NocoDB #Project#](https://github.com/nocodb/nocodb): The Open Source Airtable Alternative. Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadsheet.
 
 - [jeecg-boot #Project#](https://github.com/zhangdaiscott/jeecg-boot): 基于代码生成器的低代码平台，超越传统商业平台！前后端分离架构：SpringBoot 2.x，SpringCloud Alibaba，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-> 代码生成-> 手工 MERGE)，帮助 Java 项目解决 70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。
-
-- [Appsmith #Project#](https://github.com/appsmithorg/appsmith): Build beautiful admin panels, dashboards, and CRUD apps that connect to any API or database. Try it at: https://app.appsmith.com Open source and self-hosting friendly.
-
-- [2021-JimuReport #Project#](https://github.com/zhangdaiscott/JimuReport): 一款免费的数据可视化工具，报表与大屏设计！类似于 excel 操作风格，在线拖拽完成报表设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，永久免费！
 
 # Page Builder
 
