@@ -2,6 +2,8 @@
 
 # Showcase
 
+- [2017-electron-process-reporter #Project# ![star](https://img.shields.io/github/stars/getstation/electron-process-reporter)](https://github.com/getstation/electron-process-reporter): Utility to extract interesting process reports of an Electron application.
+
 - [2018-PicGo #Project# ![star](https://img.shields.io/github/stars/2018-Molunerfinn/PicGo)](https://github.com/2018-Molunerfinn/PicGo): 🚀A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder.
 
 - [Manta #Project#](https://github.com/hql287/Manta): A desktop application for creating invoices with beautiful and customizable templates.
@@ -22,6 +24,8 @@
 
 - [2022-Min #Project# ![star](https://img.shields.io/github/stars/minbrowser/min)](https://github.com/minbrowser/min): Min is a fast, minimal browser that protects your privacy. It includes an interface designed to minimize distractions, and features such as.
 
+- [tools-ocr](https://github.com/AnyListen/tools-ocr): 树洞 OCR 文字识别（一款跨平台的 OCR 小工具）
+
 ## Boilerplate
 
 - [electron-react-typescript-webpack-boilerplate #Project#](https://github.com/Devtography/electron-react-typescript-webpack-boilerplate): Pre-configured boilerplate for Electron + React + TypeScript + Webpack.
@@ -40,6 +44,12 @@
 
 - [Electron Builder #Project#](https://github.com/electron-userland/electron-builder): A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
 
+- [nucleus](https://github.com/atlassian/nucleus): A configurable and versatile update server for all your Electron apps.
+
 # Development Libraries
 
 - [electron-json-storage #Project#](https://github.com/electron-userland/electron-json-storage): electron-json-storage implements an API somehow similar to localStorage to write and read JSON objects to/from the operating system application data directory.
+
+- [electron-util #Project#](https://github.com/sindresorhus/electron-util): Useful utilities for Electron apps and modules.
+
+- [electron-pdf](https://github.com/fraserxu/electron-pdf/tree/master): 📄 A command line tool to generate PDF from URL, HTML or Markdown files.

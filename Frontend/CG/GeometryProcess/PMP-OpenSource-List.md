@@ -1,11 +1,5 @@
 # Awesome Geometry（Polygon & Mesh） Process List
 
-- [QiujieDong/Mesh_Segmentation](https://github.com/QiujieDong/Mesh_Segmentation): some materials about mesh processing, including papers, videos, codes, and so on. Updating every day!
-
-- [awesome-geometry-processing](https://github.com/zishun/awesome-geometry-processing): Libraries for Geometry Processing (GP).
-
-- [Mesh Repairing Software on the Web](http://meshrepair.org/)：This page is dedicated to users who need to repair polygon meshes with various sorts of defects and flaws. Below you can find a list of software tools that perform such tasks and are freely available on the Internet.
-
 - https://github.com/timknip/mesh-decimate
 
 - https://github.com/MyMiniFactory/CharacterCreator
@@ -96,7 +90,7 @@
 
 - [2019-Draco #Project# ![star](https://img.shields.io/github/stars/google/draco)](https://github.com/google/draco): Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
 
-- [2019-nschloe/meshio #Project# ![star](https://img.shields.io/github/stars/nschloe/meshio)](https://github.com/nschloe/meshio): There are various mesh formats available for representing unstructured meshes. meshio can read and write all of the following and smoothly converts between them.
+- [2019-meshio #Project# ![star](https://img.shields.io/github/stars/nschloe/meshio)](https://github.com/nschloe/meshio): There are various mesh formats available for representing unstructured meshes. meshio can read and write all of the following and smoothly converts between them.
 
 - [2020-zeux/meshoptimizer #Project# ![star](https://img.shields.io/github/stars/zeux/meshoptimizer)](https://github.com/zeux/meshoptimizer): Mesh optimization library that makes meshes smaller and faster to render.
 
@@ -140,7 +134,7 @@
 
 ### Simplification | 简化
 
-- [2015-fogleman/simplify #Project# ![star](https://img.shields.io/github/stars/fogleman/simplify)](https://github.com/fogleman/simplify): Implementation of Surface Simplification Using Quadric Error Metrics, SIGGRAPH 97, written in Go.
+- [2015-simplify #Project# ![star](https://img.shields.io/github/stars/fogleman/simplify)](https://github.com/fogleman/simplify): Implementation of Surface Simplification Using Quadric Error Metrics, SIGGRAPH 97, written in Go.
 
 # 3DP CAM | 3D 打印前处理
 
@@ -150,25 +144,9 @@
 
 ## Orientation | 角度
 
-- [Tweaker-3](https://github.com/ChristophSchranz/Tweaker-3): 自动摆角度
+- [Tweaker-3](https://github.com/ChristophSchranz/Tweaker-3): A performant auto-rotate software for objects in 3D Printing, whose parameter are trained by an evolutionary algorithm.
 
 ## Nest | 摆放
-
-- [2017-fogleman/pack3d #Project# ![star](https://img.shields.io/github/stars/fogleman/pack3d)](https://github.com/fogleman/pack3d): Tightly pack 3D models.
-
-- JavaScript:
-
-  - [soimy/maxrects-packer #Project# ![star](https://img.shields.io/github/stars/soimy/maxrects-packer)](https://github.com/soimy/maxrects-packer): A max rectangle 2d bin packer npm-module for packing glyphs or images into multiple sprite-sheet/atlas
-
-- Python:
-
-  - [WasteOptimiser ![star](https://img.shields.io/github/stars/Papooch/WasteOptimiser)](https://github.com/Papooch/WasteOptimiser),
-  - [NicoSchlueter/FuseNest ![star](https://img.shields.io/github/stars/NicoSchlueter/FuseNest)](https://github.com/NicoSchlueter/FuseNest),
-  - [seanys/2D-Irregular-Packing-Algorithm ![star](https://img.shields.io/github/stars/seanys/2D-Irregular-Packing-Algorithm)](https://github.com/seanys/2D-Irregular-Packing-Algorithm): Realize 2D irregular packing algorithm with python
-
-- [2022-DanielLiamAnderson/Packaide #Project# ![star](https://img.shields.io/github/stars/DanielLiamAnderson/Packaide)](https://github.com/DanielLiamAnderson/Packaide): A library for fast and robust 2D nesting of SVG shapes.
-
-- [2021-libnest2d ![star](https://img.shields.io/github/stars/tamasmeszaros/libnest2d)](https://github.com/tamasmeszaros/libnest2d): 2D irregular bin packaging and nesting library written in modern C++.
 
 ## Slice | 切片
 
