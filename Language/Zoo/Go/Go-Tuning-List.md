@@ -4,6 +4,10 @@
 
 - [2019-字节跳动 Go RPC 框架 KiteX 性能优化实践](https://cubox.pro/c/H15uYJ): KiteX 自 2020.04 正式发布以来，公司内部服务数量 8k+，QPS 过亿。经过持续迭代，KiteX 在吞吐和延迟表现上都取得了显著收益。本文将简单分享一些较有成效的优化方向，希望为大家提供参考。
 
+# Profile
+
+- [2022-go-profiler-notes #Project# ![star](https://img.shields.io/github/stars/DataDog/go-profiler-notes)](https://github.com/DataDog/go-profiler-notes): I found that Go has a lot of profilers and there are many tools for looking at the data, but that there is very little information on what any of it means. So in order to make sure that I know what I'm talking about, I've started to research the existing profilers and how they work. This repository is my attempt to summarize my findings in the hope that it might be useful to others.
+
 # Performance Optimization | 性能优化
 
 - [[转][译]百万级 WebSockets 和 Go 语言](http://colobu.com/2017/12/13/A-Million-WebSockets-and-Go/): 即使你对 WebSockets 熟悉但对 Go 语言知之甚少，我还是希望这篇文章里讲到的性能优化的思路和技术对你有所启发。

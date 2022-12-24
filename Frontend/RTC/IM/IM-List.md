@@ -38,6 +38,8 @@
 
 - [Media Soup #Project#](https://github.com/versatica/mediasoup): Cutting Edge WebRTC Video Conferencing.
 
+- [2022-Talk #Project# ![star](https://img.shields.io/github/stars/vasanthv/talk)](https://github.com/vasanthv/talk): It is built using WebRTC, so all your video, audio & text chat is peer-to-peer. Group video call is achieved using WebRTC mesh. So the quality of the call is inversely proportional to the number of people on the call. The sweet number is somewhere around 6 to 8 people in an average high-speed connection.
+
 ## P2P Chat
 
 - [Chitchatter #Project#](https://github.com/jeremyckahn/chitchatter): A peer-to-peer chat app that is serverless, decentralized, and ephemeral
@@ -45,3 +47,9 @@
 # Voice
 
 - [Jovo #Project#](https://www.jovo.tech/): Build and run voice experiences that work across devices and platforms. Including Amazon Alexa, Google Assistant, mobile phones, Raspberry Pi, and more.
+
+# Decentralized Communication
+
+- [matrix](https://matrix.org/): An open network for secure, decentralized communication
+
+  - [2022-matrix-docker-ansible-deploy #Project#](https://github.com/spantaleev/matrix-docker-ansible-deploy): Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker

@@ -108,6 +108,10 @@
 
 - [2017-ODM #Project# ![star](https://img.shields.io/github/stars/OpenDroneMap/ODM)](https://github.com/OpenDroneMap/ODM): A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 
+### Lattice Generation
+
+- [2022-Artisan #Project# ![star](https://img.shields.io/github/stars/Bleemsys/Artisan-Core)](https://github.com/Bleemsys/Artisan-Core): Artisan is a tool for lattice generation. It is based on implicit modelling technique. The code is based on Python and C++ in order to combining the development speed and computational efficiency. Artisan computes the most of heavy math through C++ code, and conducts the routine calculations via Python.
+
 ### Image To Mesh
 
 - [2018-mlivesu/slice2mesh #Project# ![star](https://img.shields.io/github/stars/mlivesu/slice2mesh)](https://github.com/mlivesu/slice2mesh): a Meshing Tool for the Simulation of Additive Manufacturing Processes
@@ -117,6 +121,8 @@
 - [2021-AOT-AG/DicomToMesh #Project# ![star](https://img.shields.io/github/stars/AOT-AG/DicomToMesh)](https://github.com/AOT-AG/DicomToMesh): A command line tool to transform a DICOM volume into a 3d surface mesh (obj, stl or ply). Several mesh processing routines can be enabled, such as mesh reduction, smoothing or cleaning. Works on Linux, OSX and Windows.
 
 ### Text To Mesh
+
+- [2021-text2mesh #Project# ![star](https://img.shields.io/github/stars/threedle/text2mesh)](https://github.com/threedle/text2mesh): 3D mesh stylization driven by a text input in PyTorch.
 
 - [2022-Point·E #Project# ![star](https://img.shields.io/github/stars/openai/point-e)](https://github.com/openai/point-e): Point cloud diffusion for 3D model synthesis
 
