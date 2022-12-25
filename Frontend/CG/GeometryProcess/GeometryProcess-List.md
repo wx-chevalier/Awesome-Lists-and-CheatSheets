@@ -8,6 +8,8 @@
 
 - https://www.cs.princeton.edu/courses/archive/fall03/cs597D/lectures/segmentation.pdf
 
+- [2020-meshgen-comparison](https://github.com/meshpro/meshgen-comparison): This repository creates meshes of the same domains with multiple mesh generators and compares the results. The used mesh generators are.
+
 # 3DP CAM
 
 ## Repair

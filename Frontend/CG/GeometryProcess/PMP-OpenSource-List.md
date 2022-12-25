@@ -66,6 +66,10 @@
 
 - [2022-Mesh-processing-library #Project# ![star](https://img.shields.io/github/stars/hhoppe/Mesh-processing-library)](https://github.com/hhoppe/Mesh-processing-library): C++ libraries and programs demonstrating mesh processing research published in ACM SIGGRAPH (1992-1998)
 
+### Python Library
+
+- [2010-MeshPy #Project# ![star](https://img.shields.io/github/stars/inducer/meshpy)](https://github.com/inducer/meshpy): MeshPy offers quality triangular and tetrahedral mesh generation for Python. Meshes of this type are chiefly used in finite-element simulation codes, but also have many other applications ranging from computer graphics to robotics.
+
 ### Boolean Library
 
 - [2022-AngusJohnson/Clipper2 #Project# ![star](https://img.shields.io/github/stars/AngusJohnson/Clipper2)](https://github.com/AngusJohnson/Clipper2): The Clipper2 library performs intersection, union, difference and XOR boolean operations on both simple and complex polygons. It also performs polygon offsetting. This is a major update of my original Clipper library that written over 10 years ago. That library I'm now calling Clipper1 and while it still works very well, Clipper2 is better in just about every way.

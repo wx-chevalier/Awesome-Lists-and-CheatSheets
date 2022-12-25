@@ -2,8 +2,6 @@
 
 # Form | 表单
 
-- [Conversational Form](https://github.com/space10-community/conversational-form): Conversational Form is an open-source concept by SPACE10 to easily turn your content into conversations. It features conversational replacement of all input elements, reusable variables from previous questions and complete customization and control over the styling.
-
 - [Formik #Project#](https://github.com/jaredpalmer/formik): Forms in React, without tears
 
 - [uniforms #Project#](https://github.com/vazco/uniforms): Bunch of React components and helpers to easily generate and validate forms.
@@ -18,11 +16,13 @@
 
 - [React Form Builder #Project#](https://github.com/blackjk3/react-form-builder): A complete react form builder that interfaces with a json endpoint to load and save generated forms. The toolbox contains 16 items for gathering data. Everything from star ratings to signature boxes!
 
+- [2019-form-create #Project# ![star](https://img.shields.io/github/stars/xaboy/form-create)](https://github.com/xaboy/form-create): form-create is a form generation component that can generate dynamic rendering, data collection, verification and submission functions through JSON. Supports 3 UI frameworks, and supports the generation of any Vue components. Built-in 20 kinds of commonly used form components and custom components, no matter how complex forms can be easily handled.
+
 - [2019-x-render #Project#](https://github.com/alibaba/x-render): 🚴‍♀️ 飞猪中后台开箱即用解决方案
 
 - [2022-Formily #Project# ![star](https://img.shields.io/github/stars/alibaba/formily)](https://github.com/alibaba/formily): 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
 
-### Json Schema
+## Json Schema
 
 - [2015-react-jsonschema-form #Project#](https://github.com/mozilla-services/react-jsonschema-form): A React component for building Web forms from JSON Schema.
 
@@ -38,26 +38,14 @@
 
 - [ts-json-schema-generator #Project#](https://github.com/vega/ts-json-schema-generator): Generate JSON schema from your Typescript sources.
 
-## Survey
+# Survey
 
 - [2021-Survey Creator Library #Project# ![star](https://img.shields.io/github/stars/surveyjs/survey-creator)](https://github.com/surveyjs/survey-creator): An extensible JavaScript form builder library that allows easy drag-and-drop form creation. Evaluate its capabilities for free.
 
-# Input | 输入框
+# Conversational Form
 
-- [Textillate.js #Project#](http://www.yyyweb.com/demo/textillate/)
+- [Conversational Form](https://github.com/space10-community/conversational-form): Conversational Form is an open-source concept by SPACE10 to easily turn your content into conversations. It features conversational replacement of all input elements, reusable variables from previous questions and complete customization and control over the styling.
 
-## Input Number | 数字输入框
+- [2020-Botui #Project# ![star](https://img.shields.io/github/stars/botui/botui)](https://github.com/botui/botui): 🤖 A JavaScript framework for building conversational UIs
 
-- [Cleave.js #Project#](http://nosir.github.io/cleave.js/)
-
-## Auto Complete | 自动完成
-
-- [Typehead.js](https://github.com/twitter/typeahead.js)
-
-- [places](https://github.com/algolia/places):Turn any `input` into an address autocomplete
-
-## Control
-
-- [leva #Project#](https://github.com/pmndrs/leva): A GUI you are going to lava. Customizable, extensible and beautiful by default.
-
-# Auto Format | 自动格式化
+- [2021-Typebot #Project# ![star](https://img.shields.io/github/stars/baptisteArno/typebot.io)](https://github.com/baptisteArno/typebot.io): Typebot is an open-source alternative to Landbot. It allows you to create conversational apps/forms (Lead qualification, Product launch, User onboarding, Customer support), embed them anywhere on your web/mobile apps, and collect results in real-time.
