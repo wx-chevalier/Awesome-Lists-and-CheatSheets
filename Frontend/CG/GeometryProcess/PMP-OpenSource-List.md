@@ -116,6 +116,8 @@
 
 - [2018-ThibaultGROUEIX/AtlasNet #Project# ![star](https://img.shields.io/github/stars/ThibaultGROUEIX/AtlasNet)](https://github.com/ThibaultGROUEIX/AtlasNet): This repository contains the source codes for the paper "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation ". The network is able to synthesize a mesh (point cloud + connectivity) from a low-resolution point cloud, or from an image.
 
+- [2019-Pixel2Mesh #Project# ![star](https://img.shields.io/github/stars/nywang16/Pixel2Mesh)](https://github.com/nywang16/Pixel2Mesh): Generating 3D Mesh Models from Single RGB Images. In ECCV2018.
+
 - [2021-AOT-AG/DicomToMesh #Project# ![star](https://img.shields.io/github/stars/AOT-AG/DicomToMesh)](https://github.com/AOT-AG/DicomToMesh): A command line tool to transform a DICOM volume into a 3d surface mesh (obj, stl or ply). Several mesh processing routines can be enabled, such as mesh reduction, smoothing or cleaning. Works on Linux, OSX and Windows.
 
 ### Text To Mesh
@@ -146,9 +148,13 @@
 
 - [PrusaSlicer #Project#](https://github.com/prusa3d/PrusaSlicer): PrusaSlicer takes 3D models (STL, OBJ, AMF) and converts them into G-code instructions for FFF printers or PNG layers for mSLA 3D printers. It's compatible with any modern printer based on the RepRap toolchain, including all those based on the Marlin, Prusa, Sprinter and Repetier firmware. It also works with Mach3, LinuxCNC and Machinekit controllers.
 
+## Repair
+
+### Remesh
+
 ## Orientation | 角度
 
-- [Tweaker-3](https://github.com/ChristophSchranz/Tweaker-3): A performant auto-rotate software for objects in 3D Printing, whose parameter are trained by an evolutionary algorithm.
+- [2017-Tweaker-3 #Project#](https://github.com/ChristophSchranz/Tweaker-3): A performant auto-rotate software for objects in 3D Printing, whose parameter are trained by an evolutionary algorithm.
 
 ## Nest | 摆放
 

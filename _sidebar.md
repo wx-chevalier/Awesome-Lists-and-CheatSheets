@@ -637,21 +637,32 @@
       - [7.9.10 Web List](/Frontend/Web/Web-List.md)
       - [7.9.11 Web OpenSource List](/Frontend/Web/Web-OpenSource-List.md)
       - [7.9.12 Widgets](/Frontend/Web/Widgets/README.md)
-        - [7.9.12.1 DateTime OpenSource List](/Frontend/Web/Widgets/DateTime-OpenSource-List.md)
-        - [7.9.12.2 Diagram OpenSource List](/Frontend/Web/Widgets/Diagram-OpenSource-List.md)
-        - [7.9.12.3 Editor List](/Frontend/Web/Widgets/Editor-List.md)
-        - [7.9.12.4 Feedback List](/Frontend/Web/Widgets/Feedback-List.md)
-        - [7.9.12.5 Form List](/Frontend/Web/Widgets/Form-List.md)
-        - [7.9.12.6 General List](/Frontend/Web/Widgets/General-List.md)
-        - [7.9.12.7 Indicator List](/Frontend/Web/Widgets/Indicator-List.md)
-        - [7.9.12.8 Input List](/Frontend/Web/Widgets/Input-List.md)
-        - [7.9.12.9 Interaction List](/Frontend/Web/Widgets/Interaction-List.md)
-        - [7.9.12.10 Layout List](/Frontend/Web/Widgets/Layout-List.md)
-        - [7.9.12.11 Media List](/Frontend/Web/Widgets/Media-List.md)
-        - [7.9.12.12 Navigation List](/Frontend/Web/Widgets/Navigation-List.md)
-        - [7.9.12.13 Select List](/Frontend/Web/Widgets/Select-List.md)
-        - [7.9.12.14 Web Animation OpenSource List](/Frontend/Web/Widgets/Web-Animation-OpenSource-List.md)
-        - [7.9.12.15 Web Image OpenSource List](/Frontend/Web/Widgets/Web-Image-OpenSource-List.md)
+        - 7.9.12.1 Animation
+          - [7.9.12.1.1 Animation](/Frontend/Web/Widgets/Animation/Animation.md)
+        - 7.9.12.2 Data Display
+          - [7.9.12.2.1 Audio & Video](/Frontend/Web/Widgets/Data%20Display/Audio%20&%20Video.md)
+          - [7.9.12.2.2 Button & Icon](/Frontend/Web/Widgets/Data%20Display/Button%20&%20Icon.md)
+          - [7.9.12.2.3 Image](/Frontend/Web/Widgets/Data%20Display/Image.md)
+          - [7.9.12.2.4 Indicator List](/Frontend/Web/Widgets/Data%20Display/Indicator-List.md)
+        - 7.9.12.3 Data Entry
+          - [7.9.12.3.1 DateTime](/Frontend/Web/Widgets/Data%20Entry/DateTime.md)
+          - [7.9.12.3.2 Editor List](/Frontend/Web/Widgets/Data%20Entry/Editor-List.md)
+          - [7.9.12.3.3 Form List](/Frontend/Web/Widgets/Data%20Entry/Form-List.md)
+          - [7.9.12.3.4 Input List](/Frontend/Web/Widgets/Data%20Entry/Input-List.md)
+          - [7.9.12.3.5 Select](/Frontend/Web/Widgets/Data%20Entry/Select.md)
+        - 7.9.12.4 Diagram
+          - [7.9.12.4.1 Diagram](/Frontend/Web/Widgets/Diagram/Diagram.md)
+        - 7.9.12.5 Feedback
+          - [7.9.12.5.1 Feedback List](/Frontend/Web/Widgets/Feedback/Feedback-List.md)
+        - 7.9.12.6 Interaction
+          - [7.9.12.6.1 Drag & Resize](/Frontend/Web/Widgets/Interaction/Drag%20&%20Resize.md)
+          - [7.9.12.6.2 Scroll](/Frontend/Web/Widgets/Interaction/Scroll.md)
+        - 7.9.12.7 Layout
+          - [7.9.12.7.1 Layout List](/Frontend/Web/Widgets/Layout/Layout-List.md)
+          - [7.9.12.7.2 Modal & Popup](/Frontend/Web/Widgets/Layout/Modal%20&%20Popup.md)
+          - [7.9.12.7.3 Navigation](/Frontend/Web/Widgets/Layout/Navigation.md)
+          - [7.9.12.7.4 Panel](/Frontend/Web/Widgets/Layout/Panel.md)
+        - [7.9.12.8 Other](/Frontend/Web/Widgets/Other.md)
   - 8 Backend
     - 8.1 Database
       - [8.1.1 Database List](/Backend/Database/Database-List.md)
