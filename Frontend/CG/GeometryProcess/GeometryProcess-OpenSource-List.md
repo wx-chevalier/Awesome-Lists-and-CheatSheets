@@ -28,6 +28,18 @@
 
 # Projects
 
+## 多边形处理软件 | GUI Software
+
+- [MeshLab](https://www.meshlab.net/): MeshLab is the open source system for processing and editing 3D triangular meshes. It provides a set of tools for editing, cleaning, healing, inspecting, rendering, texturing and converting meshes. It offers features for processing raw data produced by 3D digitization tools/devices and for preparing models for 3D printing.
+
+  - [2022-MeshLabJS #Project# ![star](https://img.shields.io/github/stars/cnr-isti-vclab/meshlabjs)](https://github.com/cnr-isti-vclab/meshlabjs): A javascript client based mesh processing tool. Built using vcg library, emscripten and webgl
+
+- [OpenFlipper #Project#](https://www.graphics.rwth-aachen.de/software/openflipper/intro/): OpenFlipper is an OpenSource multi-platform application and programming framework designed for processing, modeling and rendering of geometric data.
+
+## 3D Viewer
+
+- [2017-polyscope #Project# ![star](https://img.shields.io/github/stars/nmwsharp/polyscope)](https://github.com/nmwsharp/polyscope): A C++ & Python viewer for 3D data like meshes and point clouds.
+
 ## 3D Editor
 
 - [Blockbench #Project#](https://github.com/JannisX11/blockbench): Blockbench is a free, modern model editor for low-poly and boxy models with pixel art textures. Models can be exported into standardized formats, to be shared, rendered, 3D-printed, or used in game engines. There are also multiple dedicated formats for Minecraft Java and Bedrock Edition with format-specific features.
@@ -37,14 +49,6 @@
 - [2021-Theatre #Project# ![star](https://img.shields.io/github/stars/https://github.com/theatre-js/theatre)](https://github.com/https://github.com/theatre-js/theatre): Theatre.js is an animation library for high-fidelity motion graphics. It is designed to help you express detailed animation, enabling you to create intricate movement, and convey nuance.
 
 # Algorithm | 算法库
-
-## 多边形处理软件 | GUI Software
-
-- [MeshLab](https://www.meshlab.net/): MeshLab is the open source system for processing and editing 3D triangular meshes. It provides a set of tools for editing, cleaning, healing, inspecting, rendering, texturing and converting meshes. It offers features for processing raw data produced by 3D digitization tools/devices and for preparing models for 3D printing.
-
-  - [2022-MeshLabJS #Project# ![star](https://img.shields.io/github/stars/cnr-isti-vclab/meshlabjs)](https://github.com/cnr-isti-vclab/meshlabjs): A javascript client based mesh processing tool. Built using vcg library, emscripten and webgl
-
-- [OpenFlipper #Project#](https://www.graphics.rwth-aachen.de/software/openflipper/intro/): OpenFlipper is an OpenSource multi-platform application and programming framework designed for processing, modeling and rendering of geometric data.
 
 ## 多边形处理库
 
@@ -100,6 +104,8 @@
 
 ## Mesh Generation
 
+- [1997-Gmsh #Project#](https://gitlab.onelab.info/gmsh/gmsh): This is Gmsh, an automatic three-dimensional finite element mesh generator with built-in pre- and post-processing facilities.
+
 - [2015-dengwirda/jigsaw #Project# ![star](https://img.shields.io/github/stars/dengwirda/jigsaw)](https://github.com/dengwirda/jigsaw): JIGSAW is a Delaunay-based unstructured mesh generator for two- and three-dimensional geometries.
 
 - [2017-fogleman/sdf #Project# ![star](https://img.shields.io/github/stars/fogleman/sdf)](https://github.com/fogleman/sdf): Generate 3D meshes based on SDFs (signed distance functions) with a dirt simple Python API.
@@ -150,7 +156,17 @@
 
 ## Repair
 
+- [2020-Houdini-Plugin-For-Mesh-Reparation #Project# ![star](https://img.shields.io/github/stars/Ozeuth/Houdini-Plugin-For-Mesh-Reparation)](https://github.com/Ozeuth/Houdini-Plugin-For-Mesh-Reparation): Implementation of mesh reparation and hole-filling. Created as part of Unity Technologies research, continued in Imperial College FYP.
+
 ### Remesh
+
+- [2011-ReMESH #Project#](https://remesh.sourceforge.net/index.html): ReMESH is a powerful editor for manifold triangle meshes with advanced repairing features.
+
+- [2020-Autoremesher #Project# ![star](https://img.shields.io/github/stars/huxingyi/autoremesher)](https://github.com/huxingyi/autoremesher): Automatic quad remeshing software based on state of the art libraries: Geogram, libigl, OpenVDB, CGAL and others.
+
+- [2022-continuous-remeshing #Project# ![star](https://img.shields.io/github/stars/https://github.com/Profactor/continuous-remeshing)](https://github.com/https://github.com/Profactor/continuous-remeshing): We present a novel method for joint optimization and remeshing and apply it to inverse rendering.
+
+- [2022-Shapeformer #Project# ![star](https://img.shields.io/github/stars/qheldiv/shapeformer)](https://github.com/qheldiv/shapeformer): Transformer-based Shape Completion via Sparse Representation.
 
 ## Orientation | 角度
 

@@ -1,7 +1,3 @@
-# Data Science List
-
-- [learning #Collection#](https://github.com/amitness/learning): Becoming better at data science every day
-
 # Generic Algorithm
 
 - [2018-Evolution of a salesman](https://parg.co/RZr): A complete genetic algorithm tutorial for Python.

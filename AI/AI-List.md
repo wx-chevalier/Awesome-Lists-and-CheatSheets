@@ -38,6 +38,10 @@
 
 - [Using Deep Learning to Discover Drugs, Classify Pokémon, Save Zebras, Play Flappy Bird & More](https://parg.co/Ajl)
 
+## Collection
+
+- [learning #Collection#](https://github.com/amitness/learning): Becoming better at data science every day
+
 ## History | 历史
 
 - [2019-人工智能 60 年技术简史](https://mp.weixin.qq.com/s/SxdV0xVBBFyWIEwUfJnr4Q): 关于人工智能有很多的定义，它本身就是很多学科的交叉融合，不同的人关注它的不同方面，因此很难给出一个大家都认可的一个定义。我们下面通过时间的脉络来了解 AI 的反正过程。

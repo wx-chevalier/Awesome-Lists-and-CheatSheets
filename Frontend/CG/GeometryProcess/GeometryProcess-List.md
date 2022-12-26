@@ -2,7 +2,13 @@
 
 - [awesome-geometry-processing #Collection#](https://github.com/zishun/awesome-geometry-processing): Libraries for Geometry Processing (GP).
 
-- [QiujieDong/Mesh_Segmentation #Collection#](https://github.com/QiujieDong/Mesh_Segmentation): some materials about mesh processing, including papers, videos, codes, and so on. Updating every day!
+- [2022-QiujieDong/Mesh_Segmentation #Collection#](https://github.com/QiujieDong/Mesh_Segmentation): some materials about mesh processing, including papers, videos, codes, and so on. Updating every day!
+
+# Resource
+
+## Blog
+
+- [GeometryHub](http://geometryhub.net/overview): BGL 是一个关于三维数据(点云，网格)处理的基础几何库
 
 # Polygon Mesh Process
 

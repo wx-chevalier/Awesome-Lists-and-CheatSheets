@@ -24,6 +24,8 @@
 
 - [FarazzShaikh/THREE-CustomShaderMaterial #Project# ![star](https://img.shields.io/github/stars/FarazzShaikh/THREE-CustomShaderMaterial)](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial): Custom Shader Material (CSM) lets you extend Three.js' material library with your own Vertex and Fragment shaders. It Supports both Vanilla and React!
 
+- [2017-three.interaction.js #Project# ![star](https://img.shields.io/github/stars/jasonChen1982/three.interaction.js)](https://github.com/jasonChen1982/three.interaction.js): three.js interaction toolkit, help you built an interaction event-system for three.js, binding interaction event like browser-dom.
+
 - [2018-threejs-mesh-modifiers #Project# ![star](https://img.shields.io/github/stars/drawcall/threejs-mesh-modifiers)](https://github.com/drawcall/threejs-mesh-modifiers): A Three.js mesh morph modifier, including nearly ten modifiers, such as Bend, Bloat, Noise, Skew and Taper, etc. It is very lightweight and simple to use, using it can give you unexpected results.
 
 - [2022-three-projected-material #Project# ![star](https://img.shields.io/github/stars/marcofugaro/three-projected-material)](https://github.com/marcofugaro/three-projected-material): 📽 Three.js Material which lets you do Texture Projection on a 3d Model.

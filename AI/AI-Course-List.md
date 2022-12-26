@@ -1,5 +1,7 @@
 # DataScienceAI Course List | 机器学习、深度学习与自然语言处理领域推荐的课程列表
 
+- [阿里云天池学习 #Collection#](https://tianchi.aliyun.com/course): 面向全技术栈、全年龄段开发者，开放高质量的学习课程与练习指导。
+
 # AI | 人工智能
 
 - [2018-英特尔-人工智能学生套件 #Course#](https://software.intel.com/zh-cn/ai-academy/students/kits): 通过我们为软件开发人员、数据科学家和学生制作的免费课程学习人工智能理论并跟随动手练习。这些课程涵盖人工智能论题，并探讨在个人计算机和服务器工作站中利用英特尔 ® 处理器的工具和优化的库。
