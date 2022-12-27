@@ -20,8 +20,6 @@
 
 - [pytorch3d](https://github.com/facebookresearch/pytorch3d): PyTorch3D provides efficient, reusable components for 3D Computer Vision research with PyTorch.
 
-- [foxtrot](https://github.com/Formlabs/foxtrot): A fast, experimental STEP file viewer
-
 - [hackathon-slicer](https://github.com/Formlabs/hackathon-slicer): This project is a simple slicer for DLP-based 3D printers.
 
 - [UVtools](https://github.com/Unionfab/UVtools): MSLA/DLP, file analysis, calibration, repair, conversion and manipulation.
@@ -39,6 +37,8 @@
 ## 3D Viewer
 
 - [2017-polyscope #Project# ![star](https://img.shields.io/github/stars/nmwsharp/polyscope)](https://github.com/nmwsharp/polyscope): A C++ & Python viewer for 3D data like meshes and point clouds.
+
+- [2021-foxtrot](https://github.com/Formlabs/foxtrot): A fast, experimental STEP file viewer
 
 ## 3D Editor
 
@@ -147,6 +147,12 @@
 ### Simplification | 简化
 
 - [2015-simplify #Project# ![star](https://img.shields.io/github/stars/fogleman/simplify)](https://github.com/fogleman/simplify): Implementation of Surface Simplification Using Quadric Error Metrics, SIGGRAPH 97, written in Go.
+
+- [2019-Mesh_simplification_python #Project# ![star](https://img.shields.io/github/stars/AntonotnaWang/Mesh_simplification_python)](https://github.com/AntonotnaWang/Mesh_simplification_python): An implementation of mesh simplification algorithm ([1]) using python.
+
+- [2020-MeshSimplification #Project# ![star](https://img.shields.io/github/stars/Meirshomron/MeshSimplification)](https://github.com/Meirshomron/MeshSimplification): Implementation of Surface Simplification Using QEM in C++.
+
+- [2020-ParallelQSlim #Project# ![star](https://img.shields.io/github/stars/https://github.com/Zielon/ParallelQSlim)](https://github.com/https://github.com/Zielon/ParallelQSlim): Shape aware parallel mesh simplification algorithm.
 
 # 3DP CAM | 3D 打印前处理
 
