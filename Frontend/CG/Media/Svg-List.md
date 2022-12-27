@@ -18,4 +18,4 @@
 
 - [A simple pie chart in SVG](https://hackernoon.com/a-simple-pie-chart-in-svg-dbdd653b6936#.lcgrjbwnc)
 
-- [satori ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/vercel/satori): Enlightened library to convert HTML and CSS to SVG
+- [satori ![code](https://shorturl.at/dlxyK)](https://github.com/vercel/satori): Enlightened library to convert HTML and CSS to SVG

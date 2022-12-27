@@ -18,7 +18,7 @@
 
 - [AWS Public Datasets](https://aws.amazon.com/public-datasets/): AWS hosts a variety of public datasets that anyone can access for free.
 
-- [awesome-public-datasets ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/caesar0301/awesome-public-datasets): An awesome list of high-quality open datasets in public domains (on-going).
+- [awesome-public-datasets ![code](https://shorturl.at/dlxyK)](https://github.com/caesar0301/awesome-public-datasets): An awesome list of high-quality open datasets in public domains (on-going).
 
 - [Yelp Academic Dataset](http://www.yelp.com/academic_dataset), all the data and reviews of the 250 closest businesses for 30 universities for students and academics to explore and research.
 
@@ -28,7 +28,7 @@
 
 # NLP & Text DataSets | 文本数据
 
-- [DataSets ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/huggingface/datasets): Datasets and evaluation metrics for natural language processing and more. Compatible with NumPy, Pandas, PyTorch and TensorFlow.
+- [DataSets ![code](https://shorturl.at/dlxyK)](https://github.com/huggingface/datasets): Datasets and evaluation metrics for natural language processing and more. Compatible with NumPy, Pandas, PyTorch and TensorFlow.
 
 ## News
 
@@ -54,13 +54,13 @@
 
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全的中华古典文集数据库, 包含 5.5 万首唐诗、26 万首宋诗和 2.1 万首宋词. 唐宋两朝近 1.4 万古诗人, 和两宋时期 1.5K 词人. 数据来源于互联网。
 
-- [2019-ChineseGLUE ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/chineseGLUE/chineseGLUE): Language Understanding Evaluation benchmark for Chinese: datasets, baselines, pre-trained models,corpus and leaderboard.
+- [2019-ChineseGLUE ![code](https://shorturl.at/dlxyK)](https://github.com/chineseGLUE/chineseGLUE): Language Understanding Evaluation benchmark for Chinese: datasets, baselines, pre-trained models,corpus and leaderboard.
 
 # Image DataSets | 图片数据
 
-- [fashion-mnist ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/zalandoresearch/fashion-mnist): Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples.
+- [fashion-mnist ![code](https://shorturl.at/dlxyK)](https://github.com/zalandoresearch/fashion-mnist): Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples.
 
-- [facets ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/PAIR-code/facets): The facets project contains two visualizations for understanding and analyzing machine learning datasets: Facets Overview and Facets Dive.
+- [facets ![code](https://shorturl.at/dlxyK)](https://github.com/PAIR-code/facets): The facets project contains two visualizations for understanding and analyzing machine learning datasets: Facets Overview and Facets Dive.
 
 - [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/):13,000 named faces for facial recognition. Multiple training and test sets. 共 173MB
 
@@ -76,11 +76,11 @@
 
 ## Adults
 
-- [NSFW Data Scrapper ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/alexkimxyz/nsfw_data_scrapper): Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier.
+- [NSFW Data Scrapper ![code](https://shorturl.at/dlxyK)](https://github.com/alexkimxyz/nsfw_data_scrapper): Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier.
 
 ## OCR
 
-- [im2latex-100k ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://zenodo.org/record/56198#.XR1z2SW-uaO): A prebuilt dataset for OpenAI's task for image-2-latex system. Includes total of ~100k formulas and images splitted into train, validation and test sets.
+- [im2latex-100k ![code](https://shorturl.at/dlxyK)](https://zenodo.org/record/56198#.XR1z2SW-uaO): A prebuilt dataset for OpenAI's task for image-2-latex system. Includes total of ~100k formulas and images splitted into train, validation and test sets.
 
 # Voice & Media & Video
 
@@ -104,11 +104,11 @@
 
 ## LBS | 地理位置
 
-- [中国 5 级行政区域 mysql 库 ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/kakuilan/china_area_mysql): 爬取国家统计局官网的行政区域数据,包括省市县镇村 5 个层级;
+- [中国 5 级行政区域 mysql 库 ![code](https://shorturl.at/dlxyK)](https://github.com/kakuilan/china_area_mysql): 爬取国家统计局官网的行政区域数据,包括省市县镇村 5 个层级;
 
-- [china_regions ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/wecatch/china_regions): 最全最新中国省，市，地区 json 及 sql 数据
+- [china_regions ![code](https://shorturl.at/dlxyK)](https://github.com/wecatch/china_regions): 最全最新中国省，市，地区 json 及 sql 数据
 
-- [qqzeng-ip ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/zengzhan/qqzeng-ip): 最新 IP 地址数据库-多语言解析以及导入数据库脚本。
+- [qqzeng-ip ![code](https://shorturl.at/dlxyK)](https://github.com/zengzhan/qqzeng-ip): 最新 IP 地址数据库-多语言解析以及导入数据库脚本。
 
 ## Time Series
 
@@ -160,7 +160,7 @@
 
 # Others
 
-- [Fake Mail Generator ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](http://www.fakemailgenerator.com/#/armyspy.com/Nity1962/)
+- [Fake Mail Generator ![code](https://shorturl.at/dlxyK)](http://www.fakemailgenerator.com/#/armyspy.com/Nity1962/)
 
 # Links
 

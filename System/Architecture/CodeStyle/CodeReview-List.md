@@ -6,7 +6,7 @@
 
 - [2018-Modern Code Review: A Case Study at Google](https://sback.it/publications/icse2018seip.pdf): In this paper, we make an exploratory investigation of modern code review at Google.
 
-- [Codebrag ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/softwaremill/codebrag): Your daily code review tool. Codebrag is a simple code review tool that makes the process work for your team. NOW OPEN-SOURCE AND FREE!
+- [Codebrag ![code](https://shorturl.at/dlxyK)](https://github.com/softwaremill/codebrag): Your daily code review tool. Codebrag is a simple code review tool that makes the process work for your team. NOW OPEN-SOURCE AND FREE!
 
 - [2016-整天说 Code Review 重要，你知道应该关注哪些关键点吗？](https://parg.co/Mgr)
 

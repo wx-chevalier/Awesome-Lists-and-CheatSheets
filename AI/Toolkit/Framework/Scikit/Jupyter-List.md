@@ -4,4 +4,4 @@
 
 # OpenSource
 
-- [Voilà ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/voila-dashboards/voila): Voilà turns Jupyter notebooks into standalone web applications
+- [Voilà ![code](https://shorturl.at/dlxyK)](https://github.com/voila-dashboards/voila): Voilà turns Jupyter notebooks into standalone web applications

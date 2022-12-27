@@ -8,4 +8,4 @@
 
 - [Build yourself a Linux](https://github.com/MichielDerhaeg/build-linux): A short tutorial about building Linux based operating systems.
 
-- [2018-mkernel ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/arjun024/mkeykernel?subject=os): This is a minimalist kernel which prints "my first kernel" on the screen and then hangs.
+- [2018-mkernel ![code](https://shorturl.at/dlxyK)](https://github.com/arjun024/mkeykernel?subject=os): This is a minimalist kernel which prints "my first kernel" on the screen and then hangs.

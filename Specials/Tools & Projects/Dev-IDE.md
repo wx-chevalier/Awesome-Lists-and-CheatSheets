@@ -1,12 +1,12 @@
 # Awesome IDE
 
-- [Devbox ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/jetpack-io/devbox): Devbox is a command-line tool that lets you easily create isolated shells and containers. You start by defining the list of packages required by your development environment, and devbox uses that definition to create an isolated environment just for your application.
+- [Devbox ![code](https://shorturl.at/dlxyK)](https://github.com/jetpack-io/devbox): Devbox is a command-line tool that lets you easily create isolated shells and containers. You start by defining the list of packages required by your development environment, and devbox uses that definition to create an isolated environment just for your application.
 
-- [Sidekick ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/runsidekick/sidekick): Free and open-source live application debugger. Like chrome dev tools but for your backend
+- [Sidekick ![code](https://shorturl.at/dlxyK)](https://github.com/runsidekick/sidekick): Free and open-source live application debugger. Like chrome dev tools but for your backend
 
 # Eclipse
 
-- [theia ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/eclipse-theia/theia): Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [theia ![code](https://shorturl.at/dlxyK)](https://github.com/eclipse-theia/theia): Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 
 # VSCode
 
@@ -30,9 +30,9 @@
 
 - [Spring Initializr](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr): Spring Initializr is a lightweight extension to quickly generate a Spring Boot project in Visual Studio Code (VS Code).
 
-- [Code Runner ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): Run code snippet or code file for multiple languages
+- [Code Runner ![code](https://shorturl.at/dlxyK)](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): Run code snippet or code file for multiple languages
 
-- [github1s ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/conwnet/github1s): One second to read GitHub code with VS Code.
+- [github1s ![code](https://shorturl.at/dlxyK)](https://github.com/conwnet/github1s): One second to read GitHub code with VS Code.
 
 VSCode 是笔者主要的开发工具之一，其快速的响应、便捷的操作与丰富的插件系统极大地提升了日常的开发体验，本节即分享些值得一试的插件。
 
@@ -74,7 +74,7 @@ CSS classes intellisense
 
 - [谷粒 🗃️](https://github.com/zhaoolee/ChromeAppHeroes): Chrome 插件英雄榜, 为优秀的 Chrome 插件写一本中文说明书, 让 Chrome 插件英雄们造福人类。
 
-- [2019-SingleFileZ ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/gildas-lormeau/SingleFileZ): SingleFileZ is a Web Extension for saving web pages as self-extracting HTML/ZIP hybrid files.
+- [2019-SingleFileZ ![code](https://shorturl.at/dlxyK)](https://github.com/gildas-lormeau/SingleFileZ): SingleFileZ is a Web Extension for saving web pages as self-extracting HTML/ZIP hybrid files.
 
 - IE Tab: 仅支持 Windows 系统，能够在标签中以 IE 内核显示网页。
 

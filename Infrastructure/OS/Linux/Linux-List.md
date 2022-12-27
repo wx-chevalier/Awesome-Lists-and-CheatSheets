@@ -28,4 +28,4 @@
 
 - [vim-galore](https://github.com/mhinz/vim-galore)
 
-- [SadServers ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/fduran/sadservers): SadServers is a SaaS where users can test their Linux troubleshooting skills on real Linux servers in a "Capture the Flag" fashion.
+- [SadServers ![code](https://shorturl.at/dlxyK)](https://github.com/fduran/sadservers): SadServers is a SaaS where users can test their Linux troubleshooting skills on real Linux servers in a "Capture the Flag" fashion.

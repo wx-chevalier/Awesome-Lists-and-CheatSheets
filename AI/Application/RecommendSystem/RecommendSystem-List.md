@@ -56,10 +56,10 @@
 
 - [2019-DeepCTR：易用可扩展的深度学习点击率预测算法包](https://zhuanlan.zhihu.com/p/53231955): 这个项目主要是对目前的一些基于深度学习的点击率预测算法进行了实现，如 PNN, WDL,DeepFM,MLR,DeepCross,AFM,NFM,DIN,DIEN,xDeepFM,AutoInt 等,并且对外提供了一致的调用接口。
 
-- [2021-gorse ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/zhenghaoz/gorse): An open source recommender system service written in Go.
+- [2021-gorse ![code](https://shorturl.at/dlxyK)](https://github.com/zhenghaoz/gorse): An open source recommender system service written in Go.
 
-- [2022-MetaRank ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/metarank/metarank): A low code Machine Learning tool that personalizes product listings, articles, recommendations, and search results in order to boost sales. A friendly Learn-to-Rank engine
+- [2022-MetaRank ![code](https://shorturl.at/dlxyK)](https://github.com/metarank/metarank): A low code Machine Learning tool that personalizes product listings, articles, recommendations, and search results in order to boost sales. A friendly Learn-to-Rank engine
 
 ## Showcase
 
-- [RSAlgorithms ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/hongleizhang/RSAlgorithms): Some algorithms about traditional and social recommendation.
+- [RSAlgorithms ![code](https://shorturl.at/dlxyK)](https://github.com/hongleizhang/RSAlgorithms): Some algorithms about traditional and social recommendation.

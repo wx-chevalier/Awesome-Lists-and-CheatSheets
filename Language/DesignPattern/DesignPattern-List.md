@@ -22,11 +22,11 @@
 
 ## Resource
 
-- [2016-Design Patterns in Typescript ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/gztchan/design-patterns-in-typescript)
+- [2016-Design Patterns in Typescript ![code](https://shorturl.at/dlxyK)](https://github.com/gztchan/design-patterns-in-typescript)
 
-- [2017-Design Patterns JS ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/fbeline/Design-Patterns-JS/): All the 23 (GoF) design patterns implemented in Javascript
+- [2017-Design Patterns JS ![code](https://shorturl.at/dlxyK)](https://github.com/fbeline/Design-Patterns-JS/): All the 23 (GoF) design patterns implemented in Javascript
 
-- [2017-Design Patterns in TypeScript ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://parg.co/Ui8): Here are the implementations of the following design patterns in TypeScript.
+- [2017-Design Patterns in TypeScript ![code](https://shorturl.at/dlxyK)](https://parg.co/Ui8): Here are the implementations of the following design patterns in TypeScript.
 
 ## SOLID
 
@@ -50,11 +50,11 @@
 
 - [SOLID Principles: The Definitive Guide](https://parg.co/Uk6)
 
-- [Design patterns implemented in Java ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://cubox.pro/c/HMaeaL): This site showcases Java Design Patterns. The solutions have been developed by experienced programmers and architects from the open source community.
+- [Design patterns implemented in Java ![code](https://shorturl.at/dlxyK)](https://cubox.pro/c/HMaeaL): This site showcases Java Design Patterns. The solutions have been developed by experienced programmers and architects from the open source community.
 
 ## Go
 
-- [go-patterns ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/tmrts/go-patterns): Curated list of Go design patterns, recipes and idioms.
+- [go-patterns ![code](https://shorturl.at/dlxyK)](https://github.com/tmrts/go-patterns): Curated list of Go design patterns, recipes and idioms.
 
 ## Swift
 

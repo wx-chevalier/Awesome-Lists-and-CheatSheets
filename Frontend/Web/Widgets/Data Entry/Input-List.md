@@ -1,10 +1,10 @@
 # Input | 输入框
 
-- [Textillate.js ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](http://www.yyyweb.com/demo/textillate/)
+- [Textillate.js ![code](https://shorturl.at/dlxyK)](http://www.yyyweb.com/demo/textillate/)
 
 ## Input Number | 数字输入框
 
-- [Cleave.js ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](http://nosir.github.io/cleave.js/)
+- [Cleave.js ![code](https://shorturl.at/dlxyK)](http://nosir.github.io/cleave.js/)
 
 ## Auto Complete | 自动完成
 
@@ -14,6 +14,6 @@
 
 ## Control
 
-- [leva ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/pmndrs/leva): A GUI you are going to lava. Customizable, extensible and beautiful by default.
+- [leva ![code](https://shorturl.at/dlxyK)](https://github.com/pmndrs/leva): A GUI you are going to lava. Customizable, extensible and beautiful by default.
 
 # Auto Format | 自动格式化

@@ -82,9 +82,9 @@
 
 ## Course
 
-- [TP 301: TinySQL, a distributed relational database in Go ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/pingcap-incubator/tinysql): TinySQL is a course designed to teach you how to implement a distributed relational database in Go. TinySQL is also the name of the simplifed version of TiDB.
+- [TP 301: TinySQL, a distributed relational database in Go ![code](https://shorturl.at/dlxyK)](https://github.com/pingcap-incubator/tinysql): TinySQL is a course designed to teach you how to implement a distributed relational database in Go. TinySQL is also the name of the simplifed version of TiDB.
 
-- [TP 302: TinyKV, a distributed key value database in Go ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/pingcap-incubator/tinykv): This is a series of projects on a key-value storage system built with the Raft consensus algorithm. These projects are inspired by the famous MIT 6.824 course, but aim to be closer to industry implementations.
+- [TP 302: TinyKV, a distributed key value database in Go ![code](https://shorturl.at/dlxyK)](https://github.com/pingcap-incubator/tinykv): This is a series of projects on a key-value storage system built with the Raft consensus algorithm. These projects are inspired by the famous MIT 6.824 course, but aim to be closer to industry implementations.
 
 ### SQL
 

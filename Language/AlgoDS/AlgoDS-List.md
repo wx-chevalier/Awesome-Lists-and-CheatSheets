@@ -48,31 +48,31 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 ## Collection
 
-- [2018-algorithms ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/marcosfede/algorithms): Solved algorithms and data structures problems in many languages.
+- [2018-algorithms ![code](https://shorturl.at/dlxyK)](https://github.com/marcosfede/algorithms): Solved algorithms and data structures problems in many languages.
 
-- [algorithmist ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](http://www.algorithmist.com/index.php/Main_Page): The Algorithmist is a resource dedicated to anything algorithms - from the practical realm, to the theoretical realm. There are also links and explanation to problemsets.
+- [algorithmist ![code](https://shorturl.at/dlxyK)](http://www.algorithmist.com/index.php/Main_Page): The Algorithmist is a resource dedicated to anything algorithms - from the practical realm, to the theoretical realm. There are also links and explanation to problemsets.
 
-- [Solve Data In Code ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/espadrine/Solve-Data-In-Code): All decidable problems can be solved with algorithms.
+- [Solve Data In Code ![code](https://shorturl.at/dlxyK)](https://github.com/espadrine/Solve-Data-In-Code): All decidable problems can be solved with algorithms.
 
-- [2019-algo ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/wangzheng0822/algo): 数据结构和算法必知必会的 50 个代码实现。
+- [2019-algo ![code](https://shorturl.at/dlxyK)](https://github.com/wangzheng0822/algo): 数据结构和算法必知必会的 50 个代码实现。
 
-- [Algorithm Visualizer ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/algorithm-visualizer/algorithm-visualizer): Interactive Online Platform that Visualizes Algorithms from Code.
+- [Algorithm Visualizer ![code](https://shorturl.at/dlxyK)](https://github.com/algorithm-visualizer/algorithm-visualizer): Interactive Online Platform that Visualizes Algorithms from Code.
 
 ### Leetcode
 
 - [2018-LeetCode All in One 讲解汇总](http://www.goodtecher.com/zh/leetcode%E8%AE%B2%E8%A7%A3%E6%B1%87%E6%80%BB/): 大家好，这里是 GoodTecher LeetCode 题目讲解汇总表。
 
-- [LeetCodeAnimation ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/MisterBooo/LeetCodeAnimation): Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解 LeetCode 题目的思路）
+- [LeetCodeAnimation ![code](https://shorturl.at/dlxyK)](https://github.com/MisterBooo/LeetCodeAnimation): Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解 LeetCode 题目的思路）
 
 - [Python & Java Solutions for Leetcode (inspired by haoel's leetcode)](https://github.com/qiyuangong/leetcode)
 
 - [LeetCode Algorithm in C++](https://github.com/haoel/leetcode)
 
-- [fucking-algorithm ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/labuladong/fucking-algorithm): 手把手撕 LeetCode 题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
+- [fucking-algorithm ![code](https://shorturl.at/dlxyK)](https://github.com/labuladong/fucking-algorithm): 手把手撕 LeetCode 题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
 
-- [2021-doocs/leetcode ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/doocs/leetcode): 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+- [2021-doocs/leetcode ![code](https://shorturl.at/dlxyK)](https://github.com/doocs/leetcode): 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 
-- [2021-LeetCode 刷题攻略 ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/youngyangyang04/leetcode-master): LeetCode 刷题攻略：200 道题目详细刷题顺序，共 60w 字的详细图解，视频难点剖析，50 余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+- [2021-LeetCode 刷题攻略 ![code](https://shorturl.at/dlxyK)](https://github.com/youngyangyang04/leetcode-master): LeetCode 刷题攻略：200 道题目详细刷题顺序，共 60w 字的详细图解，视频难点剖析，50 余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 
 ## Course | 课程
 
@@ -84,7 +84,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 # Java
 
-- [2017-AlgoDS ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/sherxon/AlgoDS): Implementation of Algorithms and Data Structures, Interview Questions and Answers.
+- [2017-AlgoDS ![code](https://shorturl.at/dlxyK)](https://github.com/sherxon/AlgoDS): Implementation of Algorithms and Data Structures, Interview Questions and Answers.
 
 - [2017-Java 101: Datastructures and algorithms in Java](http://www.javaworld.com/article/2073390/core-java/datastructures-and-algorithms-part-1.html?nsdr=true): Datastructures and algorithms are essential to computer science, which is the study of data, its representation in memory, and its transformation from one form to another
 
@@ -94,40 +94,40 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 # JavaScript
 
-- [2015-itsy-bitsy-data-structures ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/jamiebuilds/itsy-bitsy-data-structures): All the things you didn't know you wanted to know about data structures.
+- [2015-itsy-bitsy-data-structures ![code](https://shorturl.at/dlxyK)](https://github.com/jamiebuilds/itsy-bitsy-data-structures): All the things you didn't know you wanted to know about data structures.
 
 - [2017-10 Common Data Structures Explained with Videos + Exercises](https://parg.co/bIC): Data structures are a critical part of software development, and one of the most common topics for developer job interview questions. The good news is that they’re basically just specialized formats for organizing and storing data. I’m going to teach you 10 of the most common data structures — right here in this short article.
 
 - [2017-Basic javascript algorithms toolbox: starter kit](https://parg.co/b75): Here’s a list of javascript quick-to-write algos that are often useful.
 
-- [2017-CS Playground React: Algos & Data Structures ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://parg.co/UZd): In-Browser Algorithm and Data Structure Interview Prep.
+- [2017-CS Playground React: Algos & Data Structures ![code](https://shorturl.at/dlxyK)](https://parg.co/UZd): In-Browser Algorithm and Data Structure Interview Prep.
 
-- [2017-javascript-algorithms ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/trekhleb/javascript-algorithms): This repository contains JavaScript based examples of many popular algorithms and data structures.
+- [2017-javascript-algorithms ![code](https://shorturl.at/dlxyK)](https://github.com/trekhleb/javascript-algorithms): This repository contains JavaScript based examples of many popular algorithms and data structures.
 
-- [2018-javascript-datastructures-algorithms ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/loiane/javascript-datastructures-algorithms): collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book.
+- [2018-javascript-datastructures-algorithms ![code](https://shorturl.at/dlxyK)](https://github.com/loiane/javascript-datastructures-algorithms): collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book.
 
-- [2019-dsa.js ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/amejiarosario/dsa.js): Data Structures and Algorithms explained and implemented in JavaScript
+- [2019-dsa.js ![code](https://shorturl.at/dlxyK)](https://github.com/amejiarosario/dsa.js): Data Structures and Algorithms explained and implemented in JavaScript
 
 # Python
 
-- [2014-algorithm ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/qiwsir/algorithm): 如果要成为一个有一定水平的程序员，算法是必须要会的。算法，让你的程序变得更有灵气。
+- [2014-algorithm ![code](https://shorturl.at/dlxyK)](https://github.com/qiwsir/algorithm): 如果要成为一个有一定水平的程序员，算法是必须要会的。算法，让你的程序变得更有灵气。
 
 - [2017-Problem Solving with Algorithms and Data Structures using Python 📚](http://6me.us/jgWZ)：中文版参考[这里](https://github.com/facert/python-data-structure-cn)。
 
-- [2017-pygorithm ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/OmkarPathak/pygorithm): A Python module for learning all major algorithms
+- [2017-pygorithm ![code](https://shorturl.at/dlxyK)](https://github.com/OmkarPathak/pygorithm): A Python module for learning all major algorithms
 
 # Go
 
-- [2017-go-algorithms ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/0xAX/go-algorithms): Algorithms and data structures for golang.
+- [2017-go-algorithms ![code](https://shorturl.at/dlxyK)](https://github.com/0xAX/go-algorithms): Algorithms and data structures for golang.
 
-- [2018-DataViz ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Arafatk/DataViz?files=1): Build and visualize data structures in Golang.
+- [2018-DataViz ![code](https://shorturl.at/dlxyK)](https://github.com/Arafatk/DataViz?files=1): Build and visualize data structures in Golang.
 
-- [Slim ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/openacid/slim): Slim is collection of surprisingly space efficient data types, with corresponding serialization APIs to persisting them on-disk or for transport.
+- [Slim ![code](https://shorturl.at/dlxyK)](https://github.com/openacid/slim): Slim is collection of surprisingly space efficient data types, with corresponding serialization APIs to persisting them on-disk or for transport.
 
-- [gods ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/emirpasic/gods): GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, …
+- [gods ![code](https://shorturl.at/dlxyK)](https://github.com/emirpasic/gods): GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, …
 
-- [go-datastructures ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Workiva/go-datastructures): Go-datastructures is a collection of useful, performant, and threadsafe Go datastructures.
+- [go-datastructures ![code](https://shorturl.at/dlxyK)](https://github.com/Workiva/go-datastructures): Go-datastructures is a collection of useful, performant, and threadsafe Go datastructures.
 
 # Rust
 
-- [2017-Common data structures and algorithms in Rust ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/EbTech/rust-algorithms): A collection of classic data structures and algorithms, emphasizing beauty and clarity over full generality.
+- [2017-Common data structures and algorithms in Rust ![code](https://shorturl.at/dlxyK)](https://github.com/EbTech/rust-algorithms): A collection of classic data structures and algorithms, emphasizing beauty and clarity over full generality.

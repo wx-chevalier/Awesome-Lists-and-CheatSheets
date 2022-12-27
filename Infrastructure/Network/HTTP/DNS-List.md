@@ -18,4 +18,4 @@
 
 # OpenSource
 
-- [EdgeDNS ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/jedisct1/edgedns)
+- [EdgeDNS ![code](https://shorturl.at/dlxyK)](https://github.com/jedisct1/edgedns)

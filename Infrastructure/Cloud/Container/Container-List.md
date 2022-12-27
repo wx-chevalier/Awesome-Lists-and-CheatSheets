@@ -14,18 +14,18 @@
 
 # OpenSource
 
-- [Nomad ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://www.nomadproject.io/): A simple and flexible workload orchestrator to deploy and manage containers and non-containerized applications across on-prem and clouds at scale.
+- [Nomad ![code](https://shorturl.at/dlxyK)](https://www.nomadproject.io/): A simple and flexible workload orchestrator to deploy and manage containers and non-containerized applications across on-prem and clouds at scale.
 
-- [LightVM ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](http://cnp.neclab.eu/projects/lightvm/): With LightVM we examine whether there is indeed a strict tradeoff between isolation (VMs) and efficiency (containers). We find that VMs can be as nimble as containers, as long as they are small and the toolstack is fast enough.
+- [LightVM ![code](https://shorturl.at/dlxyK)](http://cnp.neclab.eu/projects/lightvm/): With LightVM we examine whether there is indeed a strict tradeoff between isolation (VMs) and efficiency (containers). We find that VMs can be as nimble as containers, as long as they are small and the toolstack is fast enough.
 
-- [TinyVM ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/jakogut/tinyvm): TinyVM is a virtual machine with the goal of having a small footprint. Low memory usage, a small amount of code, and a small binary.
+- [TinyVM ![code](https://shorturl.at/dlxyK)](https://github.com/jakogut/tinyvm): TinyVM is a virtual machine with the goal of having a small footprint. Low memory usage, a small amount of code, and a small binary.
 
-- [gVisor ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/google/gvisor): gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface.
+- [gVisor ![code](https://shorturl.at/dlxyK)](https://github.com/google/gvisor): gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface.
 
-- [Kata Containers ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://katacontainers.io/): Kata Containers is a new open source project building extremely lightweight virtual machines that seamlessly plug into the containers ecosystem.
+- [Kata Containers ![code](https://shorturl.at/dlxyK)](https://katacontainers.io/): Kata Containers is a new open source project building extremely lightweight virtual machines that seamlessly plug into the containers ecosystem.
 
-- [Hyper Container ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://hypercontainer.io/): Hypervisor-agnostic Docker Runtime.
+- [Hyper Container ![code](https://shorturl.at/dlxyK)](https://hypercontainer.io/): Hypervisor-agnostic Docker Runtime.
 
-- [Colima ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/abiosoft/colima): Container runtimes on macOS (and Linux) with minimal setup.
+- [Colima ![code](https://shorturl.at/dlxyK)](https://github.com/abiosoft/colima): Container runtimes on macOS (and Linux) with minimal setup.
 
-- [Podman Desktop ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/containers/podman-desktop): A graphical tool for developing on containers and Kubernetes.
+- [Podman Desktop ![code](https://shorturl.at/dlxyK)](https://github.com/containers/podman-desktop): A graphical tool for developing on containers and Kubernetes.

@@ -4,11 +4,11 @@
 
 # OpenSource
 
-- [2017-fogleman/pack3d ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/fogleman/pack3d)](https://github.com/fogleman/pack3d): Tightly pack 3D models.
+- [2017-fogleman/pack3d ![code](https://shorturl.at/dlxyK) ![star](https://img.shields.io/github/stars/fogleman/pack3d)](https://github.com/fogleman/pack3d): Tightly pack 3D models.
 
 - JavaScript:
 
-  - [soimy/maxrects-packer ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/soimy/maxrects-packer)](https://github.com/soimy/maxrects-packer): A max rectangle 2d bin packer npm-module for packing glyphs or images into multiple sprite-sheet/atlas
+  - [soimy/maxrects-packer ![code](https://shorturl.at/dlxyK) ![star](https://img.shields.io/github/stars/soimy/maxrects-packer)](https://github.com/soimy/maxrects-packer): A max rectangle 2d bin packer npm-module for packing glyphs or images into multiple sprite-sheet/atlas
 
 - Python:
 
@@ -16,6 +16,6 @@
   - [NicoSchlueter/FuseNest ![star](https://img.shields.io/github/stars/NicoSchlueter/FuseNest)](https://github.com/NicoSchlueter/FuseNest),
   - [seanys/2D-Irregular-Packing-Algorithm ![star](https://img.shields.io/github/stars/seanys/2D-Irregular-Packing-Algorithm)](https://github.com/seanys/2D-Irregular-Packing-Algorithm): Realize 2D irregular packing algorithm with python
 
-- [2022-DanielLiamAnderson/Packaide ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/DanielLiamAnderson/Packaide)](https://github.com/DanielLiamAnderson/Packaide): A library for fast and robust 2D nesting of SVG shapes.
+- [2022-DanielLiamAnderson/Packaide ![code](https://shorturl.at/dlxyK) ![star](https://img.shields.io/github/stars/DanielLiamAnderson/Packaide)](https://github.com/DanielLiamAnderson/Packaide): A library for fast and robust 2D nesting of SVG shapes.
 
 - [2021-libnest2d ![star](https://img.shields.io/github/stars/tamasmeszaros/libnest2d)](https://github.com/tamasmeszaros/libnest2d): 2D irregular bin packaging and nesting library written in modern C++.

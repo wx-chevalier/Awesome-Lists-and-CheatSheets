@@ -2,127 +2,127 @@
 
 List of Security Archives Tools and software, generally for facilitate security & penetration research.
 
-- [Wazuh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/wazuh/wazuh): Wazuh is a free and open source platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
+- [Wazuh ![code](https://shorturl.at/dlxyK)](https://github.com/wazuh/wazuh): Wazuh is a free and open source platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
 
 ## Showcase
 
-- [hacker-scripts ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/NARKOZ/hacker-scripts): Based on a true story
+- [hacker-scripts ![code](https://shorturl.at/dlxyK)](https://github.com/NARKOZ/hacker-scripts): Based on a true story
 
 ## Collection
 
-- [2017-Scanners Box ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/We5ter/Scanners-Box): Scanners Box is a collection of open source scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc.
+- [2017-Scanners Box ![code](https://shorturl.at/dlxyK)](https://github.com/We5ter/Scanners-Box): Scanners Box is a collection of open source scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc.
 
-- [awesome-pentest ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/enaqx/awesome-pentest): A collection of awesome penetration testing resources, tools and other shiny things
+- [awesome-pentest ![code](https://shorturl.at/dlxyK)](https://github.com/enaqx/awesome-pentest): A collection of awesome penetration testing resources, tools and other shiny things
 
-- [hackingtool ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Z4nzu/hackingtool): All in One Hacking tool For Hackers🥇
+- [hackingtool ![code](https://shorturl.at/dlxyK)](https://github.com/Z4nzu/hackingtool): All in One Hacking tool For Hackers🥇
 
 # Universal Penetration Tools/Scanners
 
 ## Exploitation Toolkit | 渗透框架/工具
 
-- [2013-Kali ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://www.backtrack-linux.org/): Kali Linux is constantly evolving with new features being added to the distribution all the time.
+- [2013-Kali ![code](https://shorturl.at/dlxyK)](https://www.backtrack-linux.org/): Kali Linux is constantly evolving with new features being added to the distribution all the time.
 
-- [fsociety ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Manisso/fsociety): A Penetration Testing Framework, you will have every script that a hacker needs.
+- [fsociety ![code](https://shorturl.at/dlxyK)](https://github.com/Manisso/fsociety): A Penetration Testing Framework, you will have every script that a hacker needs.
 
-- [AutoSploit ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/NullArray/AutoSploit): As the name might suggest AutoSploit attempts to automate the exploitation of remote hosts. Targets are collected automatically as well by employing the Shodan.io API.
+- [AutoSploit ![code](https://shorturl.at/dlxyK)](https://github.com/NullArray/AutoSploit): As the name might suggest AutoSploit attempts to automate the exploitation of remote hosts. Targets are collected automatically as well by employing the Shodan.io API.
 
-- [Retire.js ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](http://retirejs.github.io/retire.js/): The goal of Retire.js is to help you detect use of version with known vulnerabilities.
+- [Retire.js ![code](https://shorturl.at/dlxyK)](http://retirejs.github.io/retire.js/): The goal of Retire.js is to help you detect use of version with known vulnerabilities.
 
-- [Metasploit ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://www.metasploit.com/): Metasploit helps security teams do more than just verify vulnerabilities, manage security assessments, and improve security awareness;
+- [Metasploit ![code](https://shorturl.at/dlxyK)](https://www.metasploit.com/): Metasploit helps security teams do more than just verify vulnerabilities, manage security assessments, and improve security awareness;
 
-- [HackTools ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/LasCC/Hack-Tools): HackTools, is a web extension facilitating your web application penetration tests, it includes cheat sheets as well as all the tools used during a test such as XSS payloads, Reverse shells and much more.
+- [HackTools ![code](https://shorturl.at/dlxyK)](https://github.com/LasCC/Hack-Tools): HackTools, is a web extension facilitating your web application penetration tests, it includes cheat sheets as well as all the tools used during a test such as XSS payloads, Reverse shells and much more.
 
-- [CDK ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/cdk-team/CDK): CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily.
+- [CDK ![code](https://shorturl.at/dlxyK)](https://github.com/cdk-team/CDK): CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily.
 
-- [Dronesploit ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/dhondta/dronesploit): This CLI framework is based on sploitkit and is an attempt to gather hacking techniques and exploits especially focused on drone hacking. For the ease of use, the interface has a layout that looks like Metasploit.
+- [Dronesploit ![code](https://shorturl.at/dlxyK)](https://github.com/dhondta/dronesploit): This CLI framework is based on sploitkit and is an attempt to gather hacking techniques and exploits especially focused on drone hacking. For the ease of use, the interface has a layout that looks like Metasploit.
 
-- [Traitor ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/liamg/traitor): Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
+- [Traitor ![code](https://shorturl.at/dlxyK)](https://github.com/liamg/traitor): Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
-- [byob ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/malwaredllc/byob): An open-source post-exploitation framework for students, researchers and developers.
+- [byob ![code](https://shorturl.at/dlxyK)](https://github.com/malwaredllc/byob): An open-source post-exploitation framework for students, researchers and developers.
 
 ## POC Framework | POC 框架
 
-- [Pocsuite ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/knownsec/Pocsuite): Pocsuite is an open-sourced remote vulnerability testing framework developed by the Knownsec Security Team.
+- [Pocsuite ![code](https://shorturl.at/dlxyK)](https://github.com/knownsec/Pocsuite): Pocsuite is an open-sourced remote vulnerability testing framework developed by the Knownsec Security Team.
 
-- [TrackRay ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/iSafeBlue/TrackRay): 溯光 (TrackRay) 3 Beta 版插件式渗透测试框架（资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|漏洞扫描|AWVS|NMAP|Metasploit）
+- [TrackRay ![code](https://shorturl.at/dlxyK)](https://github.com/iSafeBlue/TrackRay): 溯光 (TrackRay) 3 Beta 版插件式渗透测试框架（资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|漏洞扫描|AWVS|NMAP|Metasploit）
 
-- [Kunpeng ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/opensec-cn/kunpeng): Kunpeng 是一个 Golang 编写的开源 POC 检测框架，集成了包括数据库、中间件、web 组件、cms 等等的漏洞 POC，可检测弱口令、SQL 注入、XSS、RCE 等漏洞类型，以动态链接库的形式提供调用，通过此项目可快速开发漏洞检测类的系统，比攻击者快一步发现风险漏洞。
+- [Kunpeng ![code](https://shorturl.at/dlxyK)](https://github.com/opensec-cn/kunpeng): Kunpeng 是一个 Golang 编写的开源 POC 检测框架，集成了包括数据库、中间件、web 组件、cms 等等的漏洞 POC，可检测弱口令、SQL 注入、XSS、RCE 等漏洞类型，以动态链接库的形式提供调用，通过此项目可快速开发漏洞检测类的系统，比攻击者快一步发现风险漏洞。
 
 ## Asset Management | 安全管理
 
-- [TangScan ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/WooYun/TangScan): Tangscan(唐朝扫描器)是一个由社区众多安全研究人员维护的企业在线安全平台，我们希望能够以更简单更快捷更有效的方式帮助企业监控和发现安全问题。
+- [TangScan ![code](https://shorturl.at/dlxyK)](https://github.com/WooYun/TangScan): Tangscan(唐朝扫描器)是一个由社区众多安全研究人员维护的企业在线安全平台，我们希望能够以更简单更快捷更有效的方式帮助企业监控和发现安全问题。
 
-- [巡风 ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/ysrc/xunfeng): 巡风是一款适用于企业内网的漏洞快速应急、巡航扫描系统，通过搜索功能可清晰的了解内部网络资产分布情况，并且可指定漏洞插件对搜索结果进行快速漏洞检测并输出结果报表。
+- [巡风 ![code](https://shorturl.at/dlxyK)](https://github.com/ysrc/xunfeng): 巡风是一款适用于企业内网的漏洞快速应急、巡航扫描系统，通过搜索功能可清晰的了解内部网络资产分布情况，并且可指定漏洞插件对搜索结果进行快速漏洞检测并输出结果报表。
 
-- [洞察 ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/creditease-sec/insight): 洞察-宜信集应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的平台。
+- [洞察 ![code](https://shorturl.at/dlxyK)](https://github.com/creditease-sec/insight): 洞察-宜信集应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的平台。
 
-- [2018-Fuxi Scanner ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/jeffzh3ng/Fuxi-Scanner): Fuxi Scanner is an open source network security vulnerability scanner, it comes with multiple functions.
+- [2018-Fuxi Scanner ![code](https://shorturl.at/dlxyK)](https://github.com/jeffzh3ng/Fuxi-Scanner): Fuxi Scanner is an open source network security vulnerability scanner, it comes with multiple functions.
 
-- [2017-Wfuzz ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/xmendez/wfuzz): Wfuzz has been created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.
+- [2017-Wfuzz ![code](https://shorturl.at/dlxyK)](https://github.com/xmendez/wfuzz): Wfuzz has been created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.
 
-- [2018-Tide ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/TideSec/tide): 目前实现了网络空间资产探测、指纹检索、漏洞检测、漏洞全生命周期管理、poc 定向检测、暗链检测、挂马监测、敏感字检测、DNS 监测、网站可用性监测、漏洞库管理、安全预警等等~
+- [2018-Tide ![code](https://shorturl.at/dlxyK)](https://github.com/TideSec/tide): 目前实现了网络空间资产探测、指纹检索、漏洞检测、漏洞全生命周期管理、poc 定向检测、暗链检测、挂马监测、敏感字检测、DNS 监测、网站可用性监测、漏洞库管理、安全预警等等~
 
-- [2018-Archery ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/archerysec/archerysec): Centralize Vulnerability Assessment and Management for DevSecOps Team.
+- [2018-Archery ![code](https://shorturl.at/dlxyK)](https://github.com/archerysec/archerysec): Centralize Vulnerability Assessment and Management for DevSecOps Team.
 
 ## Scanner
 
-- [w3af ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/andresriancho/w3af): w3af: web application attack and audit framework, the open source web vulnerability scanner.
+- [w3af ![code](https://shorturl.at/dlxyK)](https://github.com/andresriancho/w3af): w3af: web application attack and audit framework, the open source web vulnerability scanner.
 
-- [2016-Nikto ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/sullo/nikto): Nikto web server scanner
+- [2016-Nikto ![code](https://shorturl.at/dlxyK)](https://github.com/sullo/nikto): Nikto web server scanner
 
-- [reNgine ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/yogeshojha/rengine): reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
+- [reNgine ![code](https://shorturl.at/dlxyK)](https://github.com/yogeshojha/rengine): reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
 
-- [Nuclei ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/projectdiscovery/nuclei): Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
+- [Nuclei ![code](https://shorturl.at/dlxyK)](https://github.com/projectdiscovery/nuclei): Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
 
 ## Security Compliance
 
-- [2021-scorecard ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/ossf/scorecard): Security Scorecards - Security health metrics for Open Source
+- [2021-scorecard ![code](https://shorturl.at/dlxyK)](https://github.com/ossf/scorecard): Security Scorecards - Security health metrics for Open Source
 
-- [2021-RiskScanner ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/riskscanner/riskscanner): RiskScanner 是开源的多云安全合规扫描平台，通过 Cloud Custodian 的 YAML DSL 定义扫描规则，实现对主流公(私)有云资源的安全合规扫描及使用优化建议。
+- [2021-RiskScanner ![code](https://shorturl.at/dlxyK)](https://github.com/riskscanner/riskscanner): RiskScanner 是开源的多云安全合规扫描平台，通过 Cloud Custodian 的 YAML DSL 定义扫描规则，实现对主流公(私)有云资源的安全合规扫描及使用优化建议。
 
 ## IDS & WAF
 
-- [驭龙 HIDS ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/ysrc/yulong-hids): 驭龙 HIDS 是一款由 YSRC 开源的入侵检测系统，由 Agent，Daemon，Server 和 Web 四个部分组成，集异常检测、监控管理为一体，拥有异常行为发现、快速阻断、高级分析等功能，可从多个维度行为信息中发现入侵行为。
+- [驭龙 HIDS ![code](https://shorturl.at/dlxyK)](https://github.com/ysrc/yulong-hids): 驭龙 HIDS 是一款由 YSRC 开源的入侵检测系统，由 Agent，Daemon，Server 和 Web 四个部分组成，集异常检测、监控管理为一体，拥有异常行为发现、快速阻断、高级分析等功能，可从多个维度行为信息中发现入侵行为。
 
-- [ModSecurity ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/SpiderLabs/ModSecurity): ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs.
+- [ModSecurity ![code](https://shorturl.at/dlxyK)](https://github.com/SpiderLabs/ModSecurity): ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs.
 
-- [Janusec ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Janusec/janusec): Janusec Application Gateway, a Golang based application security solution which provides WAF (Web Application Firewall), CC attack defense, unified web administration portal, private key protection, web routing and scalable load balancing.
+- [Janusec ![code](https://shorturl.at/dlxyK)](https://github.com/Janusec/janusec): Janusec Application Gateway, a Golang based application security solution which provides WAF (Web Application Firewall), CC attack defense, unified web administration portal, private key protection, web routing and scalable load balancing.
 
-- [Crowdsec ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/crowdsecurity/crowdsec): Crowdsec is an open-source, lightweight software, detecting peers with aggressive behaviors to prevent them from accessing your systems. Its user friendly design and assistance offers a low technical barrier of entry and nevertheless a high security gain.
+- [Crowdsec ![code](https://shorturl.at/dlxyK)](https://github.com/crowdsecurity/crowdsec): Crowdsec is an open-source, lightweight software, detecting peers with aggressive behaviors to prevent them from accessing your systems. Its user friendly design and assistance offers a low technical barrier of entry and nevertheless a high security gain.
 
 # Cryptology（加密）
 
-- [age ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/FiloSottile/age): A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
+- [age ![code](https://shorturl.at/dlxyK)](https://github.com/FiloSottile/age): A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
 
-- [Ciphey ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Ciphey/Ciphey): Fully automated decryption tool using natural language processing & artifical intelligence, along with some common sense.
+- [Ciphey ![code](https://shorturl.at/dlxyK)](https://github.com/Ciphey/Ciphey): Fully automated decryption tool using natural language processing & artifical intelligence, along with some common sense.
 
 # Vulns & Pocs
 
-- [2021-security-research ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/google/security-research): This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
+- [2021-security-research ![code](https://shorturl.at/dlxyK)](https://github.com/google/security-research): This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 
-- [2021-Nuclei Templates ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/projectdiscovery/nuclei-templates): Community curated list of templates for the nuclei engine to find security vulnerabilities.
+- [2021-Nuclei Templates ![code](https://shorturl.at/dlxyK)](https://github.com/projectdiscovery/nuclei-templates): Community curated list of templates for the nuclei engine to find security vulnerabilities.
 
-- [PoC-in-GitHub ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/nomi-sec/PoC-in-GitHub): 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
+- [PoC-in-GitHub ![code](https://shorturl.at/dlxyK)](https://github.com/nomi-sec/PoC-in-GitHub): 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 
-- [cve ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/trickest/cve): Gather and update all available and newest CVEs with their PoC.
+- [cve ![code](https://shorturl.at/dlxyK)](https://github.com/trickest/cve): Gather and update all available and newest CVEs with their PoC.
 
 ## Payloads
 
-- [SecLists ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/danielmiessler/SecLists): SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+- [SecLists ![code](https://shorturl.at/dlxyK)](https://github.com/danielmiessler/SecLists): SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
-- [2019-PayloadsAllTheThings ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/swisskyrepo/PayloadsAllTheThings): A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [2019-PayloadsAllTheThings ![code](https://shorturl.at/dlxyK)](https://github.com/swisskyrepo/PayloadsAllTheThings): A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ## Vulnerability Environment | 漏洞环境
 
-- [fbctf ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/facebook/fbctf): The Facebook CTF is a platform to host Jeopardy and “King of the Hill” style Capture the Flag competitions.
+- [fbctf ![code](https://shorturl.at/dlxyK)](https://github.com/facebook/fbctf): The Facebook CTF is a platform to host Jeopardy and “King of the Hill” style Capture the Flag competitions.
 
-- [Wargames ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](http://overthewire.org/wargames/): The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
+- [Wargames ![code](https://shorturl.at/dlxyK)](http://overthewire.org/wargames/): The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
 
-- [vulhub ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/vulhub/vulhub/): Docker-Compose file for vulnerability environment
+- [vulhub ![code](https://shorturl.at/dlxyK)](https://github.com/vulhub/vulhub/): Docker-Compose file for vulnerability environment
 
-- [VulApps ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Medicean/VulApps): 收集各种漏洞环境，为方便使用，统一采用 Dockerfile 形式。同时也收集了安全工具环境。
+- [VulApps ![code](https://shorturl.at/dlxyK)](https://github.com/Medicean/VulApps): 收集各种漏洞环境，为方便使用，统一采用 Dockerfile 形式。同时也收集了安全工具环境。
 
-- [NodeGoat ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/OWASP/NodeGoat/blob/master/README.md): Being lightweight, fast, and scalable, Node.js is becoming a widely adopted platform for developing web applications.
+- [NodeGoat ![code](https://shorturl.at/dlxyK)](https://github.com/OWASP/NodeGoat/blob/master/README.md): Being lightweight, fast, and scalable, Node.js is becoming a widely adopted platform for developing web applications.
 
 ## Playground | 练习场
 
@@ -130,125 +130,125 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [一款轻量级 Web 漏洞教学演示系统( DSVW )](http://www.freebuf.com/sectool/126707.html)：Damn Small Vulnerable Web (DSVW) 是使用 Python 语言开发的 Web 应用漏洞 的演练系统。其系统只有一个 python 的脚本文件组成, 当中涵盖了 26 种 Web 应用漏洞环境, 并且脚本代码行数控制在了 100 行以内。
 
-- [Gryffin ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/yahoo/gryffin): Gryffin is a large scale web security scanning platform. It is not yet another scanner. It was written to solve two specific problems with existing scanners: coverage and scale.
+- [Gryffin ![code](https://shorturl.at/dlxyK)](https://github.com/yahoo/gryffin): Gryffin is a large scale web security scanning platform. It is not yet another scanner. It was written to solve two specific problems with existing scanners: coverage and scale.
 
 - [收集整理的一些黑客游戏的网址](http://toutiao.io/posts/nkt6rh)
 
-- [RouterSploit: Router Exploitation Framework ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/reverse-shell/routersploit)
+- [RouterSploit: Router Exploitation Framework ![code](https://shorturl.at/dlxyK)](https://github.com/reverse-shell/routersploit)
 
 - [OWASP Juice Shop](https://github.com/juice-shop/juice-shop): OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 
 ## Security Scenario
 
-- [SecGen ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/cliffe/SecGen): SecGen creates vulnerable virtual machines so students can learn security penetration testing techniques.
+- [SecGen ![code](https://shorturl.at/dlxyK)](https://github.com/cliffe/SecGen): SecGen creates vulnerable virtual machines so students can learn security penetration testing techniques.
 
 # OSINT Social Engineering | 信息采集
 
-- [kbd-audio ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/ggerganov/kbd-audio): Tools for capturing and analysing keyboard input paired with microphone capture 🎤⌨️
+- [kbd-audio ![code](https://shorturl.at/dlxyK)](https://github.com/ggerganov/kbd-audio): Tools for capturing and analysing keyboard input paired with microphone capture 🎤⌨️
 
-- [PhoneInfoga ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/sundowndev/PhoneInfoga): PhoneInfoga is one of the most advanced tools to scan international phone numbers using only free resources. It allows you to first gather standard information such as country, area, carrier and line type on any international phone number. Then search for footprints on search engines to try to find the VoIP provider or identify the owner.
+- [PhoneInfoga ![code](https://shorturl.at/dlxyK)](https://github.com/sundowndev/PhoneInfoga): PhoneInfoga is one of the most advanced tools to scan international phone numbers using only free resources. It allows you to first gather standard information such as country, area, carrier and line type on any international phone number. Then search for footprints on search engines to try to find the VoIP provider or identify the owner.
 
-- [SMSBoom ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/WhaleFell/SMSBoom): 短信轰炸/短信测压/ | 一个健壮免费的 python 短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
+- [SMSBoom ![code](https://shorturl.at/dlxyK)](https://github.com/WhaleFell/SMSBoom): 短信轰炸/短信测压/ | 一个健壮免费的 python 短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
 
-- [uncover ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/projectdiscovery/uncover): Quickly discover exposed hosts on the internet using multiple search engines.
+- [uncover ![code](https://shorturl.at/dlxyK)](https://github.com/projectdiscovery/uncover): Quickly discover exposed hosts on the internet using multiple search engines.
 
-- [maigret ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+- [maigret ![code](https://shorturl.at/dlxyK)](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 
-- [mxrch/GHunt ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/mxrch/GHunt)](https://github.com/mxrch/GHunt): GHunt (v2) is an offensive Google framework, designed to evolve efficiently.
+- [mxrch/GHunt ![code](https://shorturl.at/dlxyK) ![star](https://img.shields.io/github/stars/mxrch/GHunt)](https://github.com/mxrch/GHunt): GHunt (v2) is an offensive Google framework, designed to evolve efficiently.
 
-- [2022-mosint ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/2022-alpkeskin/mosint)](https://github.com/2022-alpkeskin/mosint): MOSINT is a fastest OSINT Tool for emails. It helps you gather information about the target email.
+- [2022-mosint ![code](https://shorturl.at/dlxyK) ![star](https://img.shields.io/github/stars/2022-alpkeskin/mosint)](https://github.com/2022-alpkeskin/mosint): MOSINT is a fastest OSINT Tool for emails. It helps you gather information about the target email.
 
 ## Leakage
 
-- [SecretScanner ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/deepfence/SecretScanner): Find secrets and passwords in container images and file systems
+- [SecretScanner ![code](https://shorturl.at/dlxyK)](https://github.com/deepfence/SecretScanner): Find secrets and passwords in container images and file systems
 
-- [Trivy ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/aquasecurity/trivy): Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
+- [Trivy ![code](https://shorturl.at/dlxyK)](https://github.com/aquasecurity/trivy): Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 
 # Web Security
 
 ## Discovery
 
-- [Muffet ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/raviqqe/muffet): Muffet is a website link checker which scrapes and inspects all pages in a website recursively.
+- [Muffet ![code](https://shorturl.at/dlxyK)](https://github.com/raviqqe/muffet): Muffet is a website link checker which scrapes and inspects all pages in a website recursively.
 
-- [weakfilescan ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/ring04h/weakfilescan): 基于爬虫，动态收集扫描目标相关信息后进行二次整理形成字典规则，利用动态规则的多线程敏感信息泄露检测工具，支持多种个性化定制选项。
+- [weakfilescan ![code](https://shorturl.at/dlxyK)](https://github.com/ring04h/weakfilescan): 基于爬虫，动态收集扫描目标相关信息后进行二次整理形成字典规则，利用动态规则的多线程敏感信息泄露检测工具，支持多种个性化定制选项。
 
-- [Sherlock ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/sherlock-project/sherlock): 🔎 Hunt down social media accounts by username across social networks.
+- [Sherlock ![code](https://shorturl.at/dlxyK)](https://github.com/sherlock-project/sherlock): 🔎 Hunt down social media accounts by username across social networks.
 
-- [Trape ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/jofpin/trape): People tracker on the Internet: OSINT analysis and research tool by Jose Pino
+- [Trape ![code](https://shorturl.at/dlxyK)](https://github.com/jofpin/trape): People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 
 ### Sub Domain
 
-- [wydomain ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/ring04h/wydomain): To Discover Subdomains Of Your Target Domain
+- [wydomain ![code](https://shorturl.at/dlxyK)](https://github.com/ring04h/wydomain): To Discover Subdomains Of Your Target Domain
 
-- [2021-Subfinder ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/projectdiscovery/subfinder): Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+- [2021-Subfinder ![code](https://shorturl.at/dlxyK)](https://github.com/projectdiscovery/subfinder): Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 
 ### Weak Passwd & Brute Force | 弱口令与暴力破解
 
-- [hydra ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/vanhauser-thc/thc-hydra): Number one of the biggest security holes are passwords, as every password security study shows. This tool is a proof of concept code, to give researchers and security consultants the possibility to show how easy it would be to gain unauthorized access from remote to a system.
+- [hydra ![code](https://shorturl.at/dlxyK)](https://github.com/vanhauser-thc/thc-hydra): Number one of the biggest security holes are passwords, as every password security study shows. This tool is a proof of concept code, to give researchers and security consultants the possibility to show how easy it would be to gain unauthorized access from remote to a system.
 
 - Medusa
 
 - Hydra
 
-- [Depix ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/beurtschipper/Depix): Recovers passwords from pixelized screenshots
+- [Depix ![code](https://shorturl.at/dlxyK)](https://github.com/beurtschipper/Depix): Recovers passwords from pixelized screenshots
 
 ## SQL Injection
 
-- [sqlmap ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/sqlmapproject/sqlmap): Automatic SQL injection and database takeover tool
+- [sqlmap ![code](https://shorturl.at/dlxyK)](https://github.com/sqlmapproject/sqlmap): Automatic SQL injection and database takeover tool
 
 ## XSS
 
-- [XSStrike ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/s0md3v/XSStrike): XSS Scanner equipped with powerful fuzzing engine & intelligent payload generator.
+- [XSStrike ![code](https://shorturl.at/dlxyK)](https://github.com/s0md3v/XSStrike): XSS Scanner equipped with powerful fuzzing engine & intelligent payload generator.
 
 ## Web Shell
 
-- [Cknife ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Chora10/Cknife): 方便已被授权的渗透测试人员进行渗透测试；
+- [Cknife ![code](https://shorturl.at/dlxyK)](https://github.com/Chora10/Cknife): 方便已被授权的渗透测试人员进行渗透测试；
 
 ## CSRF
 
-- [Bolt ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/s0md3v/Bolt): CSRF Scanner.
+- [Bolt ![code](https://shorturl.at/dlxyK)](https://github.com/s0md3v/Bolt): CSRF Scanner.
 
 ## JS Libraries
 
-- [Retire.js ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/RetireJS/retire.js): Scanner detecting the use of JavaScript libraries with known vulnerabilities.
+- [Retire.js ![code](https://shorturl.at/dlxyK)](https://github.com/RetireJS/retire.js): Scanner detecting the use of JavaScript libraries with known vulnerabilities.
 
 # OS
 
-- [Climber ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/raffaele-forte/climber): Check UNIX/Linux systems for privilege escalation
+- [Climber ![code](https://shorturl.at/dlxyK)](https://github.com/raffaele-forte/climber): Check UNIX/Linux systems for privilege escalation
 
-- [TUF ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://theupdateframework.github.io/): TUF 是一项用于保护软件更新系统的开源安全技术，亦是从云原生计算基金会毕业的第一个以规范与安全性为重点的项目。
+- [TUF ![code](https://shorturl.at/dlxyK)](https://theupdateframework.github.io/): TUF 是一项用于保护软件更新系统的开源安全技术，亦是从云原生计算基金会毕业的第一个以规范与安全性为重点的项目。
 
-- [Lynis ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/CISOfy/lynis): Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+- [Lynis ![code](https://shorturl.at/dlxyK)](https://github.com/CISOfy/lynis): Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 
-- [2022-Villain ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/t3l3machus/Villain): Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.
+- [2022-Villain ![code](https://shorturl.at/dlxyK)](https://github.com/t3l3machus/Villain): Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.
 
 ## JumpServer
 
-- [Jump Server ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/jumpserver/jumpserver): Jumpserver 是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。
+- [Jump Server ![code](https://shorturl.at/dlxyK)](https://github.com/jumpserver/jumpserver): Jumpserver 是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。
 
 ## Windows
 
-- [ScareCrow ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/optiv/ScareCrow): ScareCrow is a payload creation framework for generating loaders for the use of side loading (not injection) into a legitimate Windows process (bypassing Application Whitelisting controls).
+- [ScareCrow ![code](https://shorturl.at/dlxyK)](https://github.com/optiv/ScareCrow): ScareCrow is a payload creation framework for generating loaders for the use of side loading (not injection) into a legitimate Windows process (bypassing Application Whitelisting controls).
 
 # Network
 
 ## Network Scan
 
-- [Nmap ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://nmap.org/): Nmap ("Network Mapper") is a free and open source utility for network discovery and security auditing.
+- [Nmap ![code](https://shorturl.at/dlxyK)](https://nmap.org/): Nmap ("Network Mapper") is a free and open source utility for network discovery and security auditing.
 
-- [RustScan ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/RustScan/RustScan): The Modern Port Scanner. Find ports quickly (3 seconds at its fastest). Run scripts through our scripting engine (Python, Lua, Shell supported).
+- [RustScan ![code](https://shorturl.at/dlxyK)](https://github.com/RustScan/RustScan): The Modern Port Scanner. Find ports quickly (3 seconds at its fastest). Run scripts through our scripting engine (Python, Lua, Shell supported).
 
 ## Reconnaissance
 
-- [AutoRecon ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Tib3rius/AutoRecon): AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services. It is intended as a time-saving tool for use in CTFs and other penetration testing environments (e.g. OSCP). It may also be useful in real-world engagements.
+- [AutoRecon ![code](https://shorturl.at/dlxyK)](https://github.com/Tib3rius/AutoRecon): AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services. It is intended as a time-saving tool for use in CTFs and other penetration testing environments (e.g. OSCP). It may also be useful in real-world engagements.
 
 ## DNS
 
-- [DNSLog ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/BugScanTeam/DNSLog): DNSLog 是一款监控 DNS 解析记录和 HTTP 访问记录的工具。
+- [DNSLog ![code](https://shorturl.at/dlxyK)](https://github.com/BugScanTeam/DNSLog): DNSLog 是一款监控 DNS 解析记录和 HTTP 访问记录的工具。
 
 ## DDOS
 
-- [Deflect ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://deflect.ca/#en): Deflect 是一款开源服务，帮助非政府组织(NGO)、行动主义者和独立媒体公司免于受到分布式拒绝服务攻击(DDoS)。与商业 CDN 类似，它基于分布式反向代理缓存，隐藏真实服务器 IP 地址，同时能够阻止对后台的公开访问，并致力于抵抗针对独立言论的僵尸网络。
+- [Deflect ![code](https://shorturl.at/dlxyK)](https://deflect.ca/#en): Deflect 是一款开源服务，帮助非政府组织(NGO)、行动主义者和独立媒体公司免于受到分布式拒绝服务攻击(DDoS)。与商业 CDN 类似，它基于分布式反向代理缓存，隐藏真实服务器 IP 地址，同时能够阻止对后台的公开访问，并致力于抵抗针对独立言论的僵尸网络。
 
 ## Cap & Proxy（抓包代理）
 
@@ -260,13 +260,13 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [Charles]()
 
-- [r0capture ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/r0ysue/r0capture): 安卓应用层抓包通杀脚本
+- [r0capture ![code](https://shorturl.at/dlxyK)](https://github.com/r0ysue/r0capture): 安卓应用层抓包通杀脚本
 
-- [bettercap ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
+- [bettercap ![code](https://shorturl.at/dlxyK)](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
 
 ## WiFi
 
-- [2018-trackerjacker ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/calebmadrigal/trackerjacker): Like nmap for mapping wifi networks you're not connected to, plus device tracking.
+- [2018-trackerjacker ![code](https://shorturl.at/dlxyK)](https://github.com/calebmadrigal/trackerjacker): Like nmap for mapping wifi networks you're not connected to, plus device tracking.
 
 # Mobile | 移动端工具
 
@@ -274,17 +274,17 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 # Hardware | 硬件
 
-- [PoisonTap ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/samyk/poisontap)
+- [PoisonTap ![code](https://shorturl.at/dlxyK)](https://github.com/samyk/poisontap)
 
 # Reverse Engineering | 逆向与破解
 
-- [rizin ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://rizin.re/): Free and Open Source Reverse Engineering Framework.
+- [rizin ![code](https://shorturl.at/dlxyK)](https://rizin.re/): Free and Open Source Reverse Engineering Framework.
 
-- [Ghidra ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/NationalSecurityAgency/ghidra): Ghidra is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
+- [Ghidra ![code](https://shorturl.at/dlxyK)](https://github.com/NationalSecurityAgency/ghidra): Ghidra is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
 
 # Code Security
 
-- [2022-osv-scanner ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/google/osv-scanner)](https://github.com/google/osv-scanner): Use OSV-Scanner to find existing vulnerabilities affecting your project's dependencies.
+- [2022-osv-scanner ![code](https://shorturl.at/dlxyK) ![star](https://img.shields.io/github/stars/google/osv-scanner)](https://github.com/google/osv-scanner): Use OSV-Scanner to find existing vulnerabilities affecting your project's dependencies.
 
 # Links
 

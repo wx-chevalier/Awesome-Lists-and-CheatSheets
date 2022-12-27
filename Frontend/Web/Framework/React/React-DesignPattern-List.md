@@ -40,7 +40,7 @@
 
 - [Renderless Components or How Logic Doesn't Always Need a UI](http://kyleshevlin.com/renderless-components/)
 
-- [2018-hocs ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/deepsweet/hocs): A collection of Higher-Order Components for React and React Native.
+- [2018-hocs ![code](https://shorturl.at/dlxyK)](https://github.com/deepsweet/hocs): A collection of Higher-Order Components for React and React Native.
 
 ### Recompose
 

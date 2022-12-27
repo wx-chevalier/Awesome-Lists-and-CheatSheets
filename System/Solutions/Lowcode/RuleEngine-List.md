@@ -4,4 +4,4 @@
 
 # OpenSource
 
-- [2017-URule ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/youseries/urule)](https://github.com/youseries/urule): URule 是一款纯 Java 规则引擎，它以 RETE 算法为基础，提供了向导式规则集、脚本式规则集、决策表、交叉决策表(PRO 版提供)、决策树、评分卡及决策流共六种类型的规则定义方式，配合基于 WEB 的设计器，可快速实现规则的定义、维护与发布。
+- [2017-URule ![code](https://shorturl.at/dlxyK) ![star](https://img.shields.io/github/stars/youseries/urule)](https://github.com/youseries/urule): URule 是一款纯 Java 规则引擎，它以 RETE 算法为基础，提供了向导式规则集、脚本式规则集、决策表、交叉决策表(PRO 版提供)、决策树、评分卡及决策流共六种类型的规则定义方式，配合基于 WEB 的设计器，可快速实现规则的定义、维护与发布。

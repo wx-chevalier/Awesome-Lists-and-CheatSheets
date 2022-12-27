@@ -12,8 +12,8 @@
 
 # OpenSource
 
-- [Agenda ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/agenda/agenda): Lightweight job scheduling for Node.js, Mongo backed persistence layer.
+- [Agenda ![code](https://shorturl.at/dlxyK)](https://github.com/agenda/agenda): Lightweight job scheduling for Node.js, Mongo backed persistence layer.
 
-- [minicron ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/jamesrwhite/minicron): Monitor your cron jobs
+- [minicron ![code](https://shorturl.at/dlxyK)](https://github.com/jamesrwhite/minicron): Monitor your cron jobs
 
-- [Dkron ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/victorcoder/dkron): Distributed, fault tolerant job scheduling system
+- [Dkron ![code](https://shorturl.at/dlxyK)](https://github.com/victorcoder/dkron): Distributed, fault tolerant job scheduling system

@@ -10,7 +10,7 @@
 
 ## Book
 
-- [2019-Operating Systems: Three Easy Pieces ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](http://pages.cs.wisc.edu/~remzi/OSTEP/): The book is centered around three conceptual pieces that are fundamental to operating systems: virtualization, concurrency, and persistence. In understanding the conceptual, you will also learn the practical, including how an operating system does things like schedule the CPU, manage memory, and store files persistently.
+- [2019-Operating Systems: Three Easy Pieces ![code](https://shorturl.at/dlxyK)](http://pages.cs.wisc.edu/~remzi/OSTEP/): The book is centered around three conceptual pieces that are fundamental to operating systems: virtualization, concurrency, and persistence. In understanding the conceptual, you will also learn the practical, including how an operating system does things like schedule the CPU, manage memory, and store files persistently.
 
 - [2019-Inside the Machine 📚](http://joe90.yolasite.com/resources/InsidetheMachine.pdf): An Illustrated Introduction to Microprocessors and Computer Architecture.
 

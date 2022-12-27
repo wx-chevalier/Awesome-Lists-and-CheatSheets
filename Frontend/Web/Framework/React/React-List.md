@@ -76,7 +76,7 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 - [2020-Advanced-React 🏫](https://github.com/wesbos/Advanced-React): Starter Files and Solutions for Full Stack Advanced React and GraphQL
 
-- [2021-react-fundamentals ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/kentcdodds/react-fundamentals)](https://github.com/kentcdodds/react-fundamentals): Learn everything you need to be effective with the fundamental building block of React applications. When you're finished, you'll be prepared to create React components to build excellent experiences for your app's users.
+- [2021-react-fundamentals ![code](https://shorturl.at/dlxyK) ![star](https://img.shields.io/github/stars/kentcdodds/react-fundamentals)](https://github.com/kentcdodds/react-fundamentals): Learn everything you need to be effective with the fundamental building block of React applications. When you're finished, you'll be prepared to create React components to build excellent experiences for your app's users.
 
 ## Collection | 集合
 

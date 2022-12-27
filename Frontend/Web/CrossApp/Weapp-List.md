@@ -16,7 +16,7 @@
 
 ## Example
 
-- [weapp-demo-session ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/CFETeam/weapp-demo-session): The weapp-session demo of wechat micro program
+- [weapp-demo-session ![code](https://shorturl.at/dlxyK)](https://github.com/CFETeam/weapp-demo-session): The weapp-session demo of wechat micro program
 
 # Tutorial
 

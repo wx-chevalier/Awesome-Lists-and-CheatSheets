@@ -1,6 +1,6 @@
 # Browser List | 浏览器相关学习与资料索引
 
-- [How Web Works ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/vasanthk/how-web-works): What happens behind the scenes when we type www.google.com in a browser?
+- [How Web Works ![code](https://shorturl.at/dlxyK)](https://github.com/vasanthk/how-web-works): What happens behind the scenes when we type www.google.com in a browser?
 
 # Browser Feature Detection | 浏览器特征检测
 

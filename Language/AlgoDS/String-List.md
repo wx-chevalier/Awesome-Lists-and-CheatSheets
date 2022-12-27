@@ -8,7 +8,7 @@
 
 - [字符串模式匹配算法——BM、Horspool、Sunday、KMP、KR、AC 算法一网打尽](http://dsqiu.iteye.com/blog/1700312)
 
-- [VerbalExpressions ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/VerbalExpressions): VerbalExpressions 是非常不错的正则表达式辅助生成工具。
+- [VerbalExpressions ![code](https://shorturl.at/dlxyK)](https://github.com/VerbalExpressions): VerbalExpressions 是非常不错的正则表达式辅助生成工具。
 
 # Multiple Pattern Match
 
@@ -40,8 +40,8 @@
 
 ## OpenSource
 
-- [Verbal Expressions ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/VerbalExpressions): Verbal Expressions 是非常不错的正则表达式辅助生成工具。
+- [Verbal Expressions ![code](https://shorturl.at/dlxyK)](https://github.com/VerbalExpressions): Verbal Expressions 是非常不错的正则表达式辅助生成工具。
 
-- [Regexper ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://regexper.com/): These diagram are a straight-forward way to illustrate what can sometimes become very complicated processing in a regular expression, with nested looping and optional elements.
+- [Regexper ![code](https://shorturl.at/dlxyK)](https://regexper.com/): These diagram are a straight-forward way to illustrate what can sometimes become very complicated processing in a regular expression, with nested looping and optional elements.
 
-- [safe-regex ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/substack/safe-regex): detect possibly catastrophic, exponential-time regular expressions
+- [safe-regex ![code](https://shorturl.at/dlxyK)](https://github.com/substack/safe-regex): detect possibly catastrophic, exponential-time regular expressions

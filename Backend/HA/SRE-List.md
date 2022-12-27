@@ -30,7 +30,7 @@
 
 ## Collection
 
-- [howtheysre ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/upgundecha/howtheysre): A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE).
+- [howtheysre ![code](https://shorturl.at/dlxyK)](https://github.com/upgundecha/howtheysre): A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE).
 
 # Tutorial
 
@@ -40,4 +40,4 @@
 
 ## Incidents Management
 
-- [Dispatch ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Netflix/dispatch): All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
+- [Dispatch ![code](https://shorturl.at/dlxyK)](https://github.com/Netflix/dispatch): All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!

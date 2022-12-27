@@ -1,55 +1,55 @@
 # Chat
 
-- [cim ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/crossoverJie/cim): 📲cim(cross IM) 适用于开发者的即时通讯系统。
+- [cim ![code](https://shorturl.at/dlxyK)](https://github.com/crossoverJie/cim): 📲cim(cross IM) 适用于开发者的即时通讯系统。
 
-- [OpenIM ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/OpenIMSDK/Open-IM-Server): OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端 SDK 开源即时通讯（IM）整体解决方案，可以轻松替代第三方 IM 云服务，打造具备聊天、社交功能的 app。
+- [OpenIM ![code](https://shorturl.at/dlxyK)](https://github.com/OpenIMSDK/Open-IM-Server): OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端 SDK 开源即时通讯（IM）整体解决方案，可以轻松替代第三方 IM 云服务，打造具备聊天、社交功能的 app。
 
-- [2018-im_service ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/GoBelieveIO/im_service): golang im server.
+- [2018-im_service ![code](https://shorturl.at/dlxyK)](https://github.com/GoBelieveIO/im_service): golang im server.
 
-- [starRTC ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://gitee.com/starRTC): 免费 IM（含单聊，群聊，聊天室），免费 VOIP 视频通话，免费视频会议，免费互动连麦直播，支持物联网硬件。兼容 webRTC。
+- [starRTC ![code](https://shorturl.at/dlxyK)](https://gitee.com/starRTC): 免费 IM（含单聊，群聊，聊天室），免费 VOIP 视频通话，免费视频会议，免费互动连麦直播，支持物联网硬件。兼容 webRTC。
 
-- [Berty ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/berty/berty): Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
+- [Berty ![code](https://shorturl.at/dlxyK)](https://github.com/berty/berty): Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
 
-- [DogeHouse ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/benawad/dogehouse): Taking voice conversations to the moon 🚀
+- [DogeHouse ![code](https://shorturl.at/dlxyK)](https://github.com/benawad/dogehouse): Taking voice conversations to the moon 🚀
 
 ## UI
 
-- [ChatUI ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/alibaba/ChatUI): The UI design language and React library for Conversational UI.
+- [ChatUI ![code](https://shorturl.at/dlxyK)](https://github.com/alibaba/ChatUI): The UI design language and React library for Conversational UI.
 
 ## Group Chat
 
-- [简聊 ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/jianliaoim/talk-os): 简聊所有业务代码的开源版本，可作任意修改。
+- [简聊 ![code](https://shorturl.at/dlxyK)](https://github.com/jianliaoim/talk-os): 简聊所有业务代码的开源版本，可作任意修改。
 
-- [2019-Rocket.Chat ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/RocketChat/Rocket.Chat): Have your own Slack like online chat, built with Meteor.
+- [2019-Rocket.Chat ![code](https://shorturl.at/dlxyK)](https://github.com/RocketChat/Rocket.Chat): Have your own Slack like online chat, built with Meteor.
 
-- [2019-Zulip ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/zulip/zulip): Zulip is a powerful, open source group chat application that combines the immediacy of real-time chat with the productivity benefits of threaded conversations.
+- [2019-Zulip ![code](https://shorturl.at/dlxyK)](https://github.com/zulip/zulip): Zulip is a powerful, open source group chat application that combines the immediacy of real-time chat with the productivity benefits of threaded conversations.
 
-- [2019-Chatwoot ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/chatwoot/chatwoot): Opensource alternative to Intercom, Drift, Zendesk, FreshChat 🔥💬
+- [2019-Chatwoot ![code](https://shorturl.at/dlxyK)](https://github.com/chatwoot/chatwoot): Opensource alternative to Intercom, Drift, Zendesk, FreshChat 🔥💬
 
-- [Tinode ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/tinode/chat): Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
+- [Tinode ![code](https://shorturl.at/dlxyK)](https://github.com/tinode/chat): Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
 
 ## Messenger
 
-- [RealtimeChat ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/relatedcode/RealtimeChat): Open source, native iOS Messenger, with audio/video calls and realtime chat conversations (full offline support).
+- [RealtimeChat ![code](https://shorturl.at/dlxyK)](https://github.com/relatedcode/RealtimeChat): Open source, native iOS Messenger, with audio/video calls and realtime chat conversations (full offline support).
 
 ## Conference
 
-- [Jitsi Meet ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://meet.jit.si): Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [Jitsi Meet ![code](https://shorturl.at/dlxyK)](https://meet.jit.si): Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 
-- [Media Soup ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/versatica/mediasoup): Cutting Edge WebRTC Video Conferencing.
+- [Media Soup ![code](https://shorturl.at/dlxyK)](https://github.com/versatica/mediasoup): Cutting Edge WebRTC Video Conferencing.
 
-- [2022-Talk ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/vasanthv/talk)](https://github.com/vasanthv/talk): It is built using WebRTC, so all your video, audio & text chat is peer-to-peer. Group video call is achieved using WebRTC mesh. So the quality of the call is inversely proportional to the number of people on the call. The sweet number is somewhere around 6 to 8 people in an average high-speed connection.
+- [2022-Talk ![code](https://shorturl.at/dlxyK) ![star](https://img.shields.io/github/stars/vasanthv/talk)](https://github.com/vasanthv/talk): It is built using WebRTC, so all your video, audio & text chat is peer-to-peer. Group video call is achieved using WebRTC mesh. So the quality of the call is inversely proportional to the number of people on the call. The sweet number is somewhere around 6 to 8 people in an average high-speed connection.
 
 ## P2P Chat
 
-- [Chitchatter ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/jeremyckahn/chitchatter): A peer-to-peer chat app that is serverless, decentralized, and ephemeral
+- [Chitchatter ![code](https://shorturl.at/dlxyK)](https://github.com/jeremyckahn/chitchatter): A peer-to-peer chat app that is serverless, decentralized, and ephemeral
 
 # Voice
 
-- [Jovo ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://www.jovo.tech/): Build and run voice experiences that work across devices and platforms. Including Amazon Alexa, Google Assistant, mobile phones, Raspberry Pi, and more.
+- [Jovo ![code](https://shorturl.at/dlxyK)](https://www.jovo.tech/): Build and run voice experiences that work across devices and platforms. Including Amazon Alexa, Google Assistant, mobile phones, Raspberry Pi, and more.
 
 # Decentralized Communication
 
 - [matrix](https://matrix.org/): An open network for secure, decentralized communication
 
-  - [2022-matrix-docker-ansible-deploy ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/spantaleev/matrix-docker-ansible-deploy): Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
+  - [2022-matrix-docker-ansible-deploy ![code](https://shorturl.at/dlxyK)](https://github.com/spantaleev/matrix-docker-ansible-deploy): Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker

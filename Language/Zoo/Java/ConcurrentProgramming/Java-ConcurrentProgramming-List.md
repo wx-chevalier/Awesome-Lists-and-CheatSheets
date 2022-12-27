@@ -26,7 +26,7 @@
 
 - [Using the Timer Class to Schedule Tasks](https://dzone.com/articles/using-timer-class-to-schedule-tasks)
 
-- [Java Concurrency Patterns and Features ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://parg.co/UVC): Concurrency Patterns and features found in Java, through multithreaded programming. Threads, Locks, Atomics and more.
+- [Java Concurrency Patterns and Features ![code](https://shorturl.at/dlxyK)](https://parg.co/UVC): Concurrency Patterns and features found in Java, through multithreaded programming. Threads, Locks, Atomics and more.
 
 - [2017-Java Concurrency / Multithreading Basics](https://www.callicoder.com/java-concurrency-multithreading-basics/): Concurrency is the ability to do more than one thing at the same time.
 

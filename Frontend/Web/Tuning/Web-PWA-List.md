@@ -30,7 +30,7 @@ This file aggregates popular links for learning how to implement Progressive Web
 
 - [2017-A Pinterest Progressive Web App Performance Case Study](https://parg.co/UuI): In this post we’ll cover some of their work to load fast on mobile hardware by keeping JavaScript bundles lean and adopting Service Workers for network resilience.
 
-- [2017-HNPWA ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://parg.co/biQ): Hacker News readers as Progressive Web Apps
+- [2017-HNPWA ![code](https://shorturl.at/dlxyK)](https://parg.co/biQ): Hacker News readers as Progressive Web Apps
 
 - [2017-A React And Preact Progressive Web App Performance Case Study: Treebo](https://parg.co/bBH): They recently shipped a new Progressive Web App as their default mobile experience, initially using React and eventually switching to Preact in production.
 

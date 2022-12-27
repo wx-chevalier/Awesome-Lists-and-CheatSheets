@@ -18,7 +18,7 @@
 
 ## Collection
 
-- [my-git ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/xirong/my-git): Individual collecting material of learning git（有关 git 的学习资料）
+- [my-git ![code](https://shorturl.at/dlxyK)](https://github.com/xirong/my-git): Individual collecting material of learning git（有关 git 的学习资料）
 
 # Tutorial
 

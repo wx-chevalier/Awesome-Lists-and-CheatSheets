@@ -36,7 +36,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2015-An Introduction to Programming in Go 📚](http://www.golang-book.com/): A short, concise introduction to computer programming using the language Go. Designed by Google, Go is a general purpose programming language with modern features, clean syntax and a robust well-documented common library, making it an ideal language to learn as your first programming language.
 
-- [2015-The Go Programming Language ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](http://www.gopl.io/): This book is meant to help you start using Go effec tive ly rig ht away and to use it well, taking full advantage of Go’s langu age features and stand ard librar ies to write clear, idiomatic, and efficient programs. [中文译本地址](https://docs.hacknode.org/gopl-zh/)。
+- [2015-The Go Programming Language ![code](https://shorturl.at/dlxyK)](http://www.gopl.io/): This book is meant to help you start using Go effec tive ly rig ht away and to use it well, taking full advantage of Go’s langu age features and stand ard librar ies to write clear, idiomatic, and efficient programs. [中文译本地址](https://docs.hacknode.org/gopl-zh/)。
 
 - [2016-Learning Go Programming 📚](https://parg.co/b21): An insightful guide to learning the Go programming language
 
@@ -60,7 +60,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2019-For learning Go Tutorial #Book](https://github.com/KeKe-Li/For-learning-Go-Tutorial): 准备写一本 Go 的书针对初学者快速入门开发和使用 go！
 
-- [2019-go perfbook ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/dgryski/go-perfbook): The first sections cover writing optimized code in any language. The later sections cover Go-specific techniques.
+- [2019-go perfbook ![code](https://shorturl.at/dlxyK)](https://github.com/dgryski/go-perfbook): The first sections cover writing optimized code in any language. The later sections cover Go-specific techniques.
 
 - [2020-Go 语言 101 📚](https://github.com/golang101/golang101): 一本侧重于 Go 语言语法和语义的编程解释和指导书。
 
@@ -74,7 +74,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2021-golang-notes 📚](https://github.com/cch123/golang-notes): 主要是源码分析，可能也会有一些使用上的知识点。
 
-- [2022-Learn Go with Tests ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/quii/learn-go-with-tests): Get a grounding with TDD. Go is a good language for learning TDD because it is a simple language to learn and testing is built-in
+- [2022-Learn Go with Tests ![code](https://shorturl.at/dlxyK)](https://github.com/quii/learn-go-with-tests): Get a grounding with TDD. Go is a good language for learning TDD because it is a simple language to learn and testing is built-in
 
 ## Blog
 
@@ -96,13 +96,13 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 ## Course
 
-- [2018-Beginner Solutions in Go - The Basics, Clients, and Servers ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://parg.co/oZc)
+- [2018-Beginner Solutions in Go - The Basics, Clients, and Servers ![code](https://shorturl.at/dlxyK)](https://parg.co/oZc)
 
 ## Series
 
 - [2016-Go by Example #Series#](https://gobyexample.com/): Go by Example is a hands-on introduction to Go using annotated example programs. Check out the first example or browse the full list below.
 
-- [2017-A tour of Go ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://tour.golang.org/welcome/1): The tour is divided into a list of modules and interactive, These example programs demonstrate different aspects of Go. The programs in the tour are meant to be starting points for your own experimentation.
+- [2017-A tour of Go ![code](https://shorturl.at/dlxyK)](https://tour.golang.org/welcome/1): The tour is divided into a list of modules and interactive, These example programs demonstrate different aspects of Go. The programs in the tour are meant to be starting points for your own experimentation.
 
 - [2017-Golang tutorial series by GolangBot.com](https://golangbot.com/learn-golang-series/)
 
@@ -110,7 +110,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2020-The Ultimate Go Study Guide #Series#](https://github.com/ardanlabs/gotraining-studyguide): The project is a collection of my notes while learning Go programming language from Ardan Labs's Ultimate Go course.
 
-- [2020-7 days golang programs from scratch ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/geektutu/7days-golang): 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7 天用 Go 动手写/从零实现系列
+- [2020-7 days golang programs from scratch ![code](https://shorturl.at/dlxyK)](https://github.com/geektutu/7days-golang): 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7 天用 Go 动手写/从零实现系列
 
 - [2019-C 语言中文网-Golang 入门教程 #Series#](http://c.biancheng.net/golang/): Go 语言也称 Golang，兼具效率、性能、安全、健壮等特性。这套 Go 语言教程（Golang 教程）通俗易懂，深入浅出，既适合没有基础的读者快速入门，也适合工作多年的程序员查阅知识点。这套教程在讲解一些知识点时，将 Go 语言和其他多种语言进行对比，让掌握其它编程语言的读者能迅速理解 Go 语言的特性。
 
@@ -142,7 +142,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 ## Example
 
-- [2019-learngo ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/inancgumus/learngo): A Huge Number of Go Examples, Exercises and Quizzes.
+- [2019-learngo ![code](https://shorturl.at/dlxyK)](https://github.com/inancgumus/learngo): A Huge Number of Go Examples, Exercises and Quizzes.
 
 # Links
 

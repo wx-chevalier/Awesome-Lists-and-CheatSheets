@@ -6,7 +6,7 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 # Collection
 
-- [Learn Anything ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/learn-anything/learn-anything): Learn Anything is an Open Source Website built by community to Learn Anything with Interactive Maps.
+- [Learn Anything ![code](https://shorturl.at/dlxyK)](https://github.com/learn-anything/learn-anything): Learn Anything is an Open Source Website built by community to Learn Anything with Interactive Maps.
 
 - [Computer Science: Open Source Society University](https://github.com/ossu/computer-science): The OSSU curriculum is a complete education in computer science using online materials.
 
@@ -26,11 +26,11 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [2022-Professional Programming 🗃️](https://github.com/charlax/professional-programming): The goal of this page is to make you a more proficient developer. You'll find only resources that I've found truly inspiring, or that have become timeless classics.
 
-- [2022-forthespada/CS-Books ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/https://github.com/forthespada/CS-Books)](https://github.com/https://github.com/forthespada/CS-Books): 🔥🔥 超过 1000 本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括 C/C++、Java、Python、Go 语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
+- [2022-forthespada/CS-Books ![code](https://shorturl.at/dlxyK) ![star](https://img.shields.io/github/stars/https://github.com/forthespada/CS-Books)](https://github.com/https://github.com/forthespada/CS-Books): 🔥🔥 超过 1000 本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括 C/C++、Java、Python、Go 语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
 
 ## Cheatsheets
 
-- [cheat.sh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/chubin/cheat.sh): Covers 56 programming languages, several DBMSes, and more than 1000 most important UNIX/Linux commands.
+- [cheat.sh ![code](https://shorturl.at/dlxyK)](https://github.com/chubin/cheat.sh): Covers 56 programming languages, several DBMSes, and more than 1000 most important UNIX/Linux commands.
 
 # Programming Language | 编程语言
 
@@ -114,7 +114,7 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [2017-Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
-- [2022-小林 x 图解计算机基础 ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/xiaolincoder/CS-Base): 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
+- [2022-小林 x 图解计算机基础 ![code](https://shorturl.at/dlxyK)](https://github.com/xiaolincoder/CS-Base): 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 
 # Sites
 

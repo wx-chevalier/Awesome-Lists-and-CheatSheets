@@ -16,13 +16,13 @@
 
 * Benchmark: [Virtual DOM Benchmark](http://vdom-benchmark.github.io/vdom-benchmark/), [how-to-win-in-web-framework-benchmarks](https://medium.com/@localvoid/how-to-win-in-web-framework-benchmarks-8bc31af76ce7#.h3nedvhr5)
 
-- [2017-asm-dom ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/mbasso/asm-dom/blob/master/README.md): A minimal WebAssembly virtual DOM to build C++ SPA (Single page applications)
+- [2017-asm-dom ![code](https://shorturl.at/dlxyK)](https://github.com/mbasso/asm-dom/blob/master/README.md): A minimal WebAssembly virtual DOM to build C++ SPA (Single page applications)
 
 - [2018-You Might Not Need The Virtual DOM](http://blog.functorial.com/posts/2018-03-12-You-Might-Not-Need-The-Virtual-DOM.html): I'll give an overview of the motivation behind the library, and the way in which it was implemented.
 
 # JSX
 
-- [2017-dom-chef ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/vadimdemedes/dom-chef): Build DOM elements using JSX automatically.
+- [2017-dom-chef ![code](https://shorturl.at/dlxyK)](https://github.com/vadimdemedes/dom-chef): Build DOM elements using JSX automatically.
 
 # Data Binding
 
