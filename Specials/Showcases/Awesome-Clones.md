@@ -1,9 +1,9 @@
 # Awesome Clones
 
-- [Clone-Wars #Project#](https://github.com/GorvGoyl/Clone-Wars): 100+ open-source clones and alternatives of popular sites like Airbnb, Amazon, Instagram, Netflix, TikTok, Spotify, WhatsApp, YouTube, etc. List contains source code, tutorials, demo links, tech stack, and GitHub stars count. Great for learning purpose!
+- [Clone-Wars ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/GorvGoyl/Clone-Wars): 100+ open-source clones and alternatives of popular sites like Airbnb, Amazon, Instagram, Netflix, TikTok, Spotify, WhatsApp, YouTube, etc. List contains source code, tutorials, demo links, tech stack, and GitHub stars count. Great for learning purpose!
 
 # Firebase
 
-- [Space Cloud #Project#](https://github.com/spaceuptech/space-cloud): Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes.
+- [Space Cloud ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/spaceuptech/space-cloud): Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes.
 
-- [Appwrite #Project#](https://github.com/appwrite/appwrite): Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
+- [Appwrite ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/appwrite/appwrite): Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀

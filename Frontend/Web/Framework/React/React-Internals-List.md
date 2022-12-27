@@ -46,13 +46,13 @@
 
 - [Dive into React codebase: Handling state changes](http://reactkungfu.com/2016/03/dive-into-react-codebase-handling-state-changes/)
 
-- [2017-react-reconciler-demo #Project# ](https://github.com/lukebelliveau/react-reconciler-demo): A simple implementation of React's stack reconciler. This is much different from the real implementation, but demonstrates the concepts.
+- [2017-react-reconciler-demo ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ](https://github.com/lukebelliveau/react-reconciler-demo): A simple implementation of React's stack reconciler. This is much different from the real implementation, but demonstrates the concepts.
 
 - [ON THE ASYNC NATURE OF `SETSTATE` IN REACT](http://thereignn.ghost.io/on-the-async-nature-of-setstate-in-react/)
 
 # Fiber
 
-- [2017-React Fiber resources #Collection#](https://github.com/koba04/react-fiber-resources): This is for resources for React Fiber.
+- [2017-React Fiber resources 🗃️](https://github.com/koba04/react-fiber-resources): This is for resources for React Fiber.
 
 - [2017-A look inside React Fiber - how work will get done.](http://makersden.io/blog/look-inside-fiber/): This post will go outside-in - starting from calling the render function in client JS and changing state of a component, down to describing the steps taken by Fiber to do all the work.
 

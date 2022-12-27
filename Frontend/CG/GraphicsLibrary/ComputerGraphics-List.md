@@ -4,7 +4,7 @@
 
 # Resource
 
-- [2021-《Real-Time Rendering 4th》 #Collection#](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection): Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of `<Real-Time Rendering 4th (RTR4)> `Bibliography
+- [2021-《Real-Time Rendering 4th》 🗃️](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection): Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of `<Real-Time Rendering 4th (RTR4)> `Bibliography
 
 - [计算机图形学笔记 #Series#](https://blog.csdn.net/qq_38065509/category_9873936.html)
 
@@ -14,4 +14,4 @@
 
 ## Showcase
 
-- [2021-Graphics Workshop #Project#](https://github.com/ekzhang/graphics-workshop#quilt-patterns): This repo contains a selection of projects designed to help you learn the basics of computer graphics. We'll be writing shaders to render interactive two-dimensional and three-dimensional scenes.
+- [2021-Graphics Workshop ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/ekzhang/graphics-workshop#quilt-patterns): This repo contains a selection of projects designed to help you learn the basics of computer graphics. We'll be writing shaders to render interactive two-dimensional and three-dimensional scenes.

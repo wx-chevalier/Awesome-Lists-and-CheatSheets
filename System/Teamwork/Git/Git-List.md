@@ -10,15 +10,15 @@
 
 ## Book
 
-- [Git recipes #Book#](https://github.com/geeeeeeeeek/git-recipes): 高质量的 Git 中文教程，来自国外社区的优秀文章和个人实践
+- [Git recipes 📚](https://github.com/geeeeeeeeek/git-recipes): 高质量的 Git 中文教程，来自国外社区的优秀文章和个人实践
 
-- [Pro Git v2 中文版 #Book#](https://git-scm.com/book/zh/v2)
+- [Pro Git v2 中文版 📚](https://git-scm.com/book/zh/v2)
 
-- [2007-Git Magic #Book#](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html): Rather than go into details, we provide rough instructions for particular effects. After repeated use, gradually you will understand how each trick works, and how to tailor the recipes for your needs.
+- [2007-Git Magic 📚](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html): Rather than go into details, we provide rough instructions for particular effects. After repeated use, gradually you will understand how each trick works, and how to tailor the recipes for your needs.
 
 ## Collection
 
-- [my-git #Project#](https://github.com/xirong/my-git): Individual collecting material of learning git（有关 git 的学习资料）
+- [my-git ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/xirong/my-git): Individual collecting material of learning git（有关 git 的学习资料）
 
 # Tutorial
 

@@ -4,4 +4,4 @@
 
 - [2019-ALL IN ONE MATHEMATICS CHEAT SHEET](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf)
 
-- [math-as-code #Project#](https://github.com/Jam3/math-as-code): This is a reference to ease developers into mathematical notation by showing comparisons with JavaScript code.
+- [math-as-code ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Jam3/math-as-code): This is a reference to ease developers into mathematical notation by showing comparisons with JavaScript code.

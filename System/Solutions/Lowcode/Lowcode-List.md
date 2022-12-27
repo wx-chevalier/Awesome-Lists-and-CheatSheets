@@ -6,7 +6,7 @@
 
 # Resource
 
-- [awesome-lowcode #Collection#](https://github.com/taowen/awesome-lowcode): 国内低代码平台从业者交流
+- [awesome-lowcode 🗃️](https://github.com/taowen/awesome-lowcode): 国内低代码平台从业者交流
 
 ## Case Study
 
@@ -14,7 +14,7 @@
 
 ## Component Specification
 
-- [2019-WeComponents #Project#](https://github.com/Tencent/WeComponents): WeComponents 是一个基于通用组件语言规范 (CLS) 实现的 Vue.js 声明式组件库，写完 JSON 就做好了页面，让开发变得简单。
+- [2019-WeComponents ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Tencent/WeComponents): WeComponents 是一个基于通用组件语言规范 (CLS) 实现的 Vue.js 声明式组件库，写完 JSON 就做好了页面，让开发变得简单。
 
 # 可视化搭建
 

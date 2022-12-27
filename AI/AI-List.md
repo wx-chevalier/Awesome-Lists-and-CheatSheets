@@ -40,7 +40,7 @@
 
 ## Collection
 
-- [learning #Collection#](https://github.com/amitness/learning): Becoming better at data science every day
+- [learning 🗃️](https://github.com/amitness/learning): Becoming better at data science every day
 
 ## History | 历史
 
@@ -56,35 +56,35 @@
 
 ## Collection | 集合
 
-- [人工智能从入门到进阶，机器之心高分技术文章全集 #Collection#](http://mp.weixin.qq.com/s/o6egF1_usHSXZCZJ1RTfhQ)
+- [人工智能从入门到进阶，机器之心高分技术文章全集 🗃️](http://mp.weixin.qq.com/s/o6egF1_usHSXZCZJ1RTfhQ)
 
-- [Distill #Collection#](http://distill.pub/): The web is a powerful medium to share new ways of thinking.
+- [Distill 🗃️](http://distill.pub/): The web is a powerful medium to share new ways of thinking.
 
-- [2017-Awesome Data Science #Collection#](https://github.com/bulutyazilim/awesome-datascience): An open source Data Science repository to learn and apply towards solving real world problems.
+- [2017-Awesome Data Science 🗃️](https://github.com/bulutyazilim/awesome-datascience): An open source Data Science repository to learn and apply towards solving real world problems.
 
-- [2018-Deep Learning World #Collection#](https://github.com/astorfi/Deep-Learning-World): Organized Resources for Deep Learning Researchers and Developers.
+- [2018-Deep Learning World 🗃️](https://github.com/astorfi/Deep-Learning-World): Organized Resources for Deep Learning Researchers and Developers.
 
-- [2019-Virgilio #Project#](https://github.com/clone95/virgilio): Your new Mentor for Data Science E-Learning.
+- [2019-Virgilio ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/clone95/virgilio): Your new Mentor for Data Science E-Learning.
 
-- [2019-Deep Learning Drizzle #Collection#](https://github.com/kmario23/deep-learning-drizzle): Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
+- [2019-Deep Learning Drizzle 🗃️](https://github.com/kmario23/deep-learning-drizzle): Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 
-- [Awesome DataScience #Collection#](https://github.com/academic/awesome-datascience): 📝 An awesome Data Science repository to learn and apply for real world problems.
+- [Awesome DataScience 🗃️](https://github.com/academic/awesome-datascience): 📝 An awesome Data Science repository to learn and apply for real world problems.
 
-- [2020-learning #Collection#](https://github.com/amitness/learning): Becoming 1% better at data science everyday
+- [2020-learning 🗃️](https://github.com/amitness/learning): Becoming 1% better at data science everyday
 
-- [2022-ml-surveys #Collection#](https://github.com/eugeneyan/ml-surveys): 📋 Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.
+- [2022-ml-surveys 🗃️](https://github.com/eugeneyan/ml-surveys): 📋 Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.
 
 ### DataScience
 
-- [2021-Learn-Datascience-For-Free #Collection#](https://github.com/therealsreehari/Learn-Datascience-For-Free): This Repository Consists of Free Resources needed for a person to learn Datascience from the beginning to end. This repository is divided into Four main Parts.
+- [2021-Learn-Datascience-For-Free 🗃️](https://github.com/therealsreehari/Learn-Datascience-For-Free): This Repository Consists of Free Resources needed for a person to learn Datascience from the beginning to end. This repository is divided into Four main Parts.
 
 ## Paper | 论文
 
 - [pwc](https://github.com/zziz/pwc): Papers with code. Sorted by stars. Updated weekly.
 
-- [Awesome - Most Cited Deep Learning Papers #Collection#](https://github.com/terryum/awesome-deep-learning-papers)
+- [Awesome - Most Cited Deep Learning Papers 🗃️](https://github.com/terryum/awesome-deep-learning-papers)
 
-- [Deep-Learning-Papers-Reading-Roadmap #Collection#](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap): Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+- [Deep-Learning-Papers-Reading-Roadmap 🗃️](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap): Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 
 ## Blog | 博客
 

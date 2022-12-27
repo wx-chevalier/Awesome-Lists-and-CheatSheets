@@ -14,7 +14,7 @@
 
 ## Book
 
-- [GSYFlutterBook #Project#](https://github.com/CarGuo/GSYFlutterBook): Flutter 完整开发实战详解系列，GSY Flutter 系列专栏整合，不定期更新
+- [GSYFlutterBook ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/CarGuo/GSYFlutterBook): Flutter 完整开发实战详解系列，GSY Flutter 系列专栏整合，不定期更新
 
 ## Case Study
 

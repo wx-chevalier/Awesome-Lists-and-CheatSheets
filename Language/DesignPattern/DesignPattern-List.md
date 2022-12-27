@@ -18,15 +18,15 @@
 
 ## Book
 
-- [Refactoring Guru #Book#](https://refactoringguru.cn/design-patterns/what-is-pattern)：Design patterns are typical solutions to common problems in software design. Each pattern is like a blueprint that you can customize to solve a particular design problem in your code.
+- [Refactoring Guru 📚](https://refactoringguru.cn/design-patterns/what-is-pattern)：Design patterns are typical solutions to common problems in software design. Each pattern is like a blueprint that you can customize to solve a particular design problem in your code.
 
 ## Resource
 
-- [2016-Design Patterns in Typescript #Project#](https://github.com/gztchan/design-patterns-in-typescript)
+- [2016-Design Patterns in Typescript ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/gztchan/design-patterns-in-typescript)
 
-- [2017-Design Patterns JS #Project#](https://github.com/fbeline/Design-Patterns-JS/): All the 23 (GoF) design patterns implemented in Javascript
+- [2017-Design Patterns JS ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/fbeline/Design-Patterns-JS/): All the 23 (GoF) design patterns implemented in Javascript
 
-- [2017-Design Patterns in TypeScript #Project#](https://parg.co/Ui8): Here are the implementations of the following design patterns in TypeScript.
+- [2017-Design Patterns in TypeScript ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://parg.co/Ui8): Here are the implementations of the following design patterns in TypeScript.
 
 ## SOLID
 
@@ -42,7 +42,7 @@
 
 - [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87): Observable is just a function that takes an observer and returns a function.
 
-# Language Implementation 
+# Language Implementation
 
 ## Java
 
@@ -50,14 +50,14 @@
 
 - [SOLID Principles: The Definitive Guide](https://parg.co/Uk6)
 
-- [Design patterns implemented in Java #Project#](https://cubox.pro/c/HMaeaL): This site showcases Java Design Patterns. The solutions have been developed by experienced programmers and architects from the open source community.
+- [Design patterns implemented in Java ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://cubox.pro/c/HMaeaL): This site showcases Java Design Patterns. The solutions have been developed by experienced programmers and architects from the open source community.
 
 ## Go
 
-- [go-patterns #Project#](https://github.com/tmrts/go-patterns): Curated list of Go design patterns, recipes and idioms.
+- [go-patterns ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/tmrts/go-patterns): Curated list of Go design patterns, recipes and idioms.
 
 ## Swift
 
-- [OOD-Principles-In-Swift #Book#](https://github.com/ochococo/OOD-Principles-In-Swift)
+- [OOD-Principles-In-Swift 📚](https://github.com/ochococo/OOD-Principles-In-Swift)
 
 ## JavaScript

@@ -99,15 +99,15 @@ UI 设计的主要工作都包括进去了，如果能够将这三本书很好�
 
 - [一条视频告诉你：排版的重要性](https://video.h5.weibo.cn/1034:4504897031176213/4504907011729857)
 
-- [赫蹏 #Project#](https://github.com/sivan/heti): 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+- [赫蹏 ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/sivan/heti): 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
 # Enterprise Design（商业设计）
 
 - [2018-How white space killed an enterprise app (and why data density matters)](https://uxdesign.cc/how-white-space-killed-an-enterprise-app-and-why-data-density-matters-b3afad6a5f2a)
 
-- [2014-Steve-Don’t Make Me Think, Revisited #Book#](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf): A Common Sense Approach to Web Usability.
+- [2014-Steve-Don’t Make Me Think, Revisited 📚](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf): A Common Sense Approach to Web Usability.
 
-- [2017-The Design of Everyday Things #Book#](http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf): This is a starter kit for good design. It is intended to be enjoyable and informative for everyone: everyday people, technical people, designers, and nondesigners.
+- [2017-The Design of Everyday Things 📚](http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf): This is a starter kit for good design. It is intended to be enjoyable and informative for everyone: everyday people, technical people, designers, and nondesigners.
 
 # 色彩搭配
 

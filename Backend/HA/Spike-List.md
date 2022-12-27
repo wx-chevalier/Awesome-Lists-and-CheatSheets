@@ -1,8 +1,8 @@
 # 峰值系统
 
-- [2019-spikeSystem #Project#](https://github.com/GuoZhaoran/spikeSystem): 笔者专门研究了一下“12306”的服务端架构,学习到了其系统设计上很多亮点，在这里和大家分享一下并模拟一个例子：如何在 100 万人同时抢 1 万张火车票时，系统提供正常、稳定的服务。
+- [2019-spikeSystem ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/GuoZhaoran/spikeSystem): 笔者专门研究了一下“12306”的服务端架构,学习到了其系统设计上很多亮点，在这里和大家分享一下并模拟一个例子：如何在 100 万人同时抢 1 万张火车票时，系统提供正常、稳定的服务。
 
-- [2020-miaosha #Project#](https://github.com/qiurunze123/miaosha): ⭐⭐⭐⭐ 秒杀系统设计与实现.互联网工程师进阶与分析 🙋🐓
+- [2020-miaosha ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/qiurunze123/miaosha): ⭐⭐⭐⭐ 秒杀系统设计与实现.互联网工程师进阶与分析 🙋🐓
 
 # 秒杀峰值
 

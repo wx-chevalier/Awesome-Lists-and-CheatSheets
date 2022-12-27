@@ -12,7 +12,7 @@ There are massive curated links to help you study anything about Compiler head f
 
 ## Practices | 实践
 
-- [2015-the-super-tiny-compiler #Project#](https://github.com/jamiebuilds/the-super-tiny-compiler): This is an ultra-simplified example of all the major pieces of a modern compiler written in easy to read JavaScript.
+- [2015-the-super-tiny-compiler ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/jamiebuilds/the-super-tiny-compiler): This is an ultra-simplified example of all the major pieces of a modern compiler written in easy to read JavaScript.
 
 - [how-to-be-a-compiler-make-a-compiler-with-javascript](https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4#.dday0a975)
 
@@ -22,7 +22,7 @@ There are massive curated links to help you study anything about Compiler head f
 
 ## Course
 
-- [2020-Advanced Compilers: The Self-Guided Online Course #Course#](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/): CS 6120 is a PhD-level Cornell CS course by Adrian Sampson on programming language implementation.
+- [2020-Advanced Compilers: The Self-Guided Online Course 🏫](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/): CS 6120 is a PhD-level Cornell CS course by Adrian Sampson on programming language implementation.
 
 # Parser
 

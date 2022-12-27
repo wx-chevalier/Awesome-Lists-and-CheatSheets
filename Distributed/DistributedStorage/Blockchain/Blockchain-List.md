@@ -22,7 +22,7 @@
 
 - [区块链 ——2016 最耀眼的新兴技术之一 ](http://mp.weixin.qq.com/s?__biz=MzI3MzEzMDI1OQ==&mid=2651815383&idx=1&sn=dd55f73df9f054b4d1354675f76b2f61)
 
-- [CryptoList #Collection#](https://github.com/coinpride/CryptoList): Curated collection of blockchain & cryptocurrency links.
+- [CryptoList 🗃️](https://github.com/coinpride/CryptoList): Curated collection of blockchain & cryptocurrency links.
 
 # Overview
 
@@ -44,7 +44,7 @@
 
 ## Book
 
-- [2019-Mastering Bitcoin #Book#](https://github.com/bitcoinbook/bitcoinbook): Mastering Bitcoin is a book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters to get a great understanding of bitcoin.
+- [2019-Mastering Bitcoin 📚](https://github.com/bitcoinbook/bitcoinbook): Mastering Bitcoin is a book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters to get a great understanding of bitcoin.
 
 ## Collection
 
@@ -56,7 +56,7 @@
 
 # Tutorial
 
-- [2018-BlockShell #Project#](https://github.com/daxeel/blockshell): A command line utility for learning Blockchain technical concepts likechaining, mining, proof of work etc.
+- [2018-BlockShell ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/daxeel/blockshell): A command line utility for learning Blockchain technical concepts likechaining, mining, proof of work etc.
 
 - [2018-The Complete Guide to Kickstart Blockchain Development](https://parg.co/Uvu): Cryptocurrencies, ICOs, magic internet money — it’s all so exciting, and you are the eager developer, want to get in on the madness.
 
@@ -74,7 +74,7 @@
 
 - [2017-Let’s Build the Tiniest Blockchain](https://parg.co/baX): In Less Than 50 Lines of Python.
 
-- [2017-Dumbcoin #Project#](https://parg.co/UsN): An educational python implementation of a bitcoin-like blockchain
+- [2017-Dumbcoin ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://parg.co/UsN): An educational python implementation of a bitcoin-like blockchain
 
 ## Go
 

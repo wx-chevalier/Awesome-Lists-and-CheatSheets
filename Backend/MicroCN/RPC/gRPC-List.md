@@ -6,4 +6,4 @@
 
 # OpenSource
 
-- [ezy #Project#](https://github.com/getezy/ezy): Fully-featured desktop gRPC/gRPC-Web client.
+- [ezy ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/getezy/ezy): Fully-featured desktop gRPC/gRPC-Web client.

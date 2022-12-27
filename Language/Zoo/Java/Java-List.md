@@ -22,37 +22,37 @@
 
 ## Book | 书籍
 
-- [2015-Pro Java 8 Programming-3rd #Book#](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
+- [2015-Pro Java 8 Programming-3rd 📚](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
 
-- [2015-The CERT ® Oracle ® Secure Coding Standard for Java #Book#](https://ptgmedia.pearsoncmg.com/images/9780321803955/samplepages/0321803957.pdf)
+- [2015-The CERT ® Oracle ® Secure Coding Standard for Java 📚](https://ptgmedia.pearsoncmg.com/images/9780321803955/samplepages/0321803957.pdf)
 
-- [2017-Think Java #Book#](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
+- [2017-Think Java 📚](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
 
-- [2017-Introduction To Programming In Java #Book#](http://introcs.cs.princeton.edu/java/home/): Princeton 出品的 Java 入门书籍
+- [2017-Introduction To Programming In Java 📚](http://introcs.cs.princeton.edu/java/home/): Princeton 出品的 Java 入门书籍
 
-- [2016-Think in Java #Book#](https://parg.co/b7t): Thinking In Java should be read cover to cover by every Java programmer, then kept close at hand for frequent reference. The exercises are challenging, and the chapter on Collections is superb!
+- [2016-Think in Java 📚](https://parg.co/b7t): Thinking In Java should be read cover to cover by every Java programmer, then kept close at hand for frequent reference. The exercises are challenging, and the chapter on Collections is superb!
 
 ### Concurrent
 
-- [2011-Java Concurrency In Practice #Book#](https://parg.co/UVQ):Our goal is to give readers a set of design rules and mental models that make it easier and more fun to build correct, performant concurrent classes and applications in Java.
+- [2011-Java Concurrency In Practice 📚](https://parg.co/UVQ):Our goal is to give readers a set of design rules and mental models that make it easier and more fun to build correct, performant concurrent classes and applications in Java.
 
-- [2012-Java 并发编程实战 #Book#](http://book.51cto.com/art/201203/323171.htm): 本书深入浅出地介绍了 Java 线程和并发，是一本完美的 Java 并发参考手册。
+- [2012-Java 并发编程实战 📚](http://book.51cto.com/art/201203/323171.htm): 本书深入浅出地介绍了 Java 线程和并发，是一本完美的 Java 并发参考手册。
 
 ### JVM & Tuning
 
-- [2011-深入理解 Java 虚拟机：JVM 高级特性与最佳实践 #Book#](https://parg.co/b1E)：全书共分为五大部分。第一部分从宏观的角度介绍了整个 Java 技术体系的过去、现在和未来；第二部分讲解了 JVM 的自动内存管理；第三部分分析了虚拟机的执行子系统；第四部分讲解了程序的编译与代码的优化；第五部分探讨了 Java 实现高效并发的原理。
+- [2011-深入理解 Java 虚拟机：JVM 高级特性与最佳实践 📚](https://parg.co/b1E)：全书共分为五大部分。第一部分从宏观的角度介绍了整个 Java 技术体系的过去、现在和未来；第二部分讲解了 JVM 的自动内存管理；第三部分分析了虚拟机的执行子系统；第四部分讲解了程序的编译与代码的优化；第五部分探讨了 Java 实现高效并发的原理。
 
-- [JVM 内幕：Java 虚拟机详解 #Book#](https://www.importnew.com/17770.html)
+- [JVM 内幕：Java 虚拟机详解 📚](https://www.importnew.com/17770.html)
 
-- [2014-Java 问题定位技术 #Book#](http://download.csdn.net/download/dhf880913/9337919)
+- [2014-Java 问题定位技术 📚](http://download.csdn.net/download/dhf880913/9337919)
 
 ### Spring
 
-- Spring 中文文档系列：[Spring MVC 4.2.4.RELEASE 中文文档](https://spring-mvc.linesh.tw/)，[Spring Framework 5 中文文档](https://lfvepclr.gitbooks.io/spring-framework-5-doc-cn/content/)，[Spring Framework 中文文档](https://www.docs4dev.com/docs/zh/spring-framework/5.1.3.RELEASE/reference)，[2018-Spring Boot Reference Guide #Book#](https://docs.spring.io/spring-boot/docs/2.1.x-SNAPSHOT/reference/html/)，中文版本参考 [SpringBoot 参考指南](https://www.gitbook.com/book/qbgbook/spring-boot-reference-guide-zh/details)。
+- Spring 中文文档系列：[Spring MVC 4.2.4.RELEASE 中文文档](https://spring-mvc.linesh.tw/)，[Spring Framework 5 中文文档](https://lfvepclr.gitbooks.io/spring-framework-5-doc-cn/content/)，[Spring Framework 中文文档](https://www.docs4dev.com/docs/zh/spring-framework/5.1.3.RELEASE/reference)，[2018-Spring Boot Reference Guide 📚](https://docs.spring.io/spring-boot/docs/2.1.x-SNAPSHOT/reference/html/)，中文版本参考 [SpringBoot 参考指南](https://www.gitbook.com/book/qbgbook/spring-boot-reference-guide-zh/details)。
 
-- [Spring Boot 编程思想 #Book#](https://mercyblitz.github.io/books/thinking-in-spring-boot/): 本书全名为《Spring Boot 编程思想》，是以 Spring Boot 2.0 为讨论的主线，讨论的范围将涵盖 Spring Boot 1.x 的所有版本，以及所关联的 Spring Framework 版本。
+- [Spring Boot 编程思想 📚](https://mercyblitz.github.io/books/thinking-in-spring-boot/): 本书全名为《Spring Boot 编程思想》，是以 Spring Boot 2.0 为讨论的主线，讨论的范围将涵盖 Spring Boot 1.x 的所有版本，以及所关联的 Spring Framework 版本。
 
-- [Spring Cloud 微服务 #Book#](https://github.com/yinjihuan/spring-cloud): 《Spring Cloud 微服务-全栈技术与案例解析》和《Spring Cloud 微服务 入门 实战与进阶》配套源码
+- [Spring Cloud 微服务 📚](https://github.com/yinjihuan/spring-cloud): 《Spring Cloud 微服务-全栈技术与案例解析》和《Spring Cloud 微服务 入门 实战与进阶》配套源码
 
 ## Blog | 博客
 
@@ -76,27 +76,27 @@
 
 ## Collection | 其他资源集锦
 
-- [2017-在 Java 路上，我看过的一些书、源码和框架 #Collection#](http://www.jianshu.com/p/4a41ee88bd82)
+- [2017-在 Java 路上，我看过的一些书、源码和框架 🗃️](http://www.jianshu.com/p/4a41ee88bd82)
 
-- [Java 程序员们值得一看的好书推荐 #Collection#](https://zhuanlan.zhihu.com/p/23444919)
+- [Java 程序员们值得一看的好书推荐 🗃️](https://zhuanlan.zhihu.com/p/23444919)
 
-- [2017-Best Java Sites #Collection#](http://www.baeldung.com/java-blogs): There are several “Top Java Blogs” pages out there – but also a lot of noise. Some of these blogs are abandoned with the last postin 2008, some have simply switched focused from Java to something else. Others are gone altogether.
+- [2017-Best Java Sites 🗃️](http://www.baeldung.com/java-blogs): There are several “Top Java Blogs” pages out there – but also a lot of noise. Some of these blogs are abandoned with the last postin 2008, some have simply switched focused from Java to something else. Others are gone altogether.
 
-- [Java 学习中的 99 个实践问题 #Collection#](https://github.com/shekhargulati/99-problems/blob/master/java8/README.md)
+- [Java 学习中的 99 个实践问题 🗃️](https://github.com/shekhargulati/99-problems/blob/master/java8/README.md)
 
-- [Java 资源大全中文版 #Collection#](https://github.com/jobbole/awesome-java-cn): Java 资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
+- [Java 资源大全中文版 🗃️](https://github.com/jobbole/awesome-java-cn): Java 资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 
-- [2018-Java 学习指南 #Collection#](https://github.com/Snailclimb/JavaGuide): 一份涵盖大部分 Java 程序员所需要掌握的核心知识，正在一步一步慢慢完善，期待您的参与。
+- [2018-Java 学习指南 🗃️](https://github.com/Snailclimb/JavaGuide): 一份涵盖大部分 Java 程序员所需要掌握的核心知识，正在一步一步慢慢完善，期待您的参与。
 
-- [2020-Java Family #Collection#](https://github.com/AobingJava/JavaFamily): 【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。
+- [2020-Java Family 🗃️](https://github.com/AobingJava/JavaFamily): 【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。
 
-- [2018-Java Interview #Collection#](https://github.com/crossoverJie/Java-Interview): 多数是一些 Java 基础知识、底层原理、算法详解。也有上层应用设计，其中不乏一些大厂面试真题。
+- [2018-Java Interview 🗃️](https://github.com/crossoverJie/Java-Interview): 多数是一些 Java 基础知识、底层原理、算法详解。也有上层应用设计，其中不乏一些大厂面试真题。
 
 ## Course
 
-- [2018-The "REST with Spring" Classes #Course#](https://github.com/eugenp/tutorials): This project is a collection of small and focused tutorials - each covering a single and well defined area of development in the Java ecosystem. A strong focus of these is, of course, the Spring Framework - Spring, Spring Boot and Spring Securiyt. In additional to Spring, the following technologies are in focus: core Java, Jackson, HttpClient, Guava.
+- [2018-The "REST with Spring" Classes 🏫](https://github.com/eugenp/tutorials): This project is a collection of small and focused tutorials - each covering a single and well defined area of development in the Java ecosystem. A strong focus of these is, of course, the Spring Framework - Spring, Spring Boot and Spring Securiyt. In additional to Spring, the following technologies are in focus: core Java, Jackson, HttpClient, Guava.
 
-- [2019-Spring Boot 实践学习案例 #Course#](https://github.com/JeffLi1993/springboot-learning-example): Spring boot 初学者及核心技术巩固的最佳实践。另外写博客，用 OpenWrite。
+- [2019-Spring Boot 实践学习案例 🏫](https://github.com/JeffLi1993/springboot-learning-example): Spring boot 初学者及核心技术巩固的最佳实践。另外写博客，用 OpenWrite。
 
 ## Series | 系列文章
 

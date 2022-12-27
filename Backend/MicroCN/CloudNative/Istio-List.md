@@ -8,4 +8,4 @@
 
 # Resource
 
-- [2018-Istio Handbook——Istio 服务网格进阶实战 #Book#](https://www.servicemesher.com/istio-handbook/): ServiceMesher 社区作为中国最早的一批在研究和推广 Service Mesh 技术的开源社区决定整合社区资源，合作撰写一本开源电子书作为服务网格智库。
+- [2018-Istio Handbook——Istio 服务网格进阶实战 📚](https://www.servicemesher.com/istio-handbook/): ServiceMesher 社区作为中国最早的一批在研究和推广 Service Mesh 技术的开源社区决定整合社区资源，合作撰写一本开源电子书作为服务网格智库。

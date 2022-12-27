@@ -30,7 +30,7 @@ This file aggregates popular links for learning how to implement Progressive Web
 
 - [2017-A Pinterest Progressive Web App Performance Case Study](https://parg.co/UuI): In this post we’ll cover some of their work to load fast on mobile hardware by keeping JavaScript bundles lean and adopting Service Workers for network resilience.
 
-- [2017-HNPWA #Project#](https://parg.co/biQ): Hacker News readers as Progressive Web Apps
+- [2017-HNPWA ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://parg.co/biQ): Hacker News readers as Progressive Web Apps
 
 - [2017-A React And Preact Progressive Web App Performance Case Study: Treebo](https://parg.co/bBH): They recently shipped a new Progressive Web App as their default mobile experience, initially using React and eventually switching to Preact in production.
 
@@ -46,7 +46,7 @@ This file aggregates popular links for learning how to implement Progressive Web
 
 - [2017-A progressive Web application with Vue JS, Webpack & Material Design #Series#](https://parg.co/btH): The tutorial will be split in several parts, that will be published successively
 
-- [2017-Progressive Web Apps (PWA) 中文版 #Book#](https://github.com/SangKa/PWA-Book-CN): This book is written with stand-alone chapters, letting you learn about particular features of interest without having read previous chapters. By the end, you'll be ready to build better web applications and improve the user experience.
+- [2017-Progressive Web Apps (PWA) 中文版 📚](https://github.com/SangKa/PWA-Book-CN): This book is written with stand-alone chapters, letting you learn about particular features of interest without having read previous chapters. By the end, you'll be ready to build better web applications and improve the user experience.
 
 - [2016-Building Progressive Web Apps - O'Reilly Media](https://pwabook.com/oreillyapwa) : A deep dive into progressive web apps, service workers, push notifications, background sync, IndexedDB, offline first and much more (disclaimer: written by the maintainer of this page).
 

@@ -6,7 +6,7 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 # Collection
 
-- [Learn Anything #Project#](https://github.com/learn-anything/learn-anything): Learn Anything is an Open Source Website built by community to Learn Anything with Interactive Maps.
+- [Learn Anything ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/learn-anything/learn-anything): Learn Anything is an Open Source Website built by community to Learn Anything with Interactive Maps.
 
 - [Computer Science: Open Source Society University](https://github.com/ossu/computer-science): The OSSU curriculum is a complete education in computer science using online materials.
 
@@ -18,19 +18,19 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts): Collection of awesome podcasts. Awesome list of Important Podcasts for software engineers.
 
-- [Build your own (insert technology here) #Collection#](https://github.com/danistefanovic/build-your-own-x#): Master programming by recreating your favorite technologies from scratch.
+- [Build your own (insert technology here) 🗃️](https://github.com/danistefanovic/build-your-own-x#): Master programming by recreating your favorite technologies from scratch.
 
 - [Best Paper Awards in Computer Science (since 1996) #Paper#](https://jeffhuang.com/best_paper_awards.html): I (Jeff Huang) tried to collect best paper awards from the top-tier conferences in each area, but some conferences do not have such an award (e.g. SIGGRAPH, CAV).
 
-- [Project Based Learning #Collection#](https://github.com/practical-tutorials/project-based-learning#rust): A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
+- [Project Based Learning 🗃️](https://github.com/practical-tutorials/project-based-learning#rust): A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
 
-- [2022-Professional Programming #Collection#](https://github.com/charlax/professional-programming): The goal of this page is to make you a more proficient developer. You'll find only resources that I've found truly inspiring, or that have become timeless classics.
+- [2022-Professional Programming 🗃️](https://github.com/charlax/professional-programming): The goal of this page is to make you a more proficient developer. You'll find only resources that I've found truly inspiring, or that have become timeless classics.
 
-- [2022-forthespada/CS-Books #Project# ![star](https://img.shields.io/github/stars/https://github.com/forthespada/CS-Books)](https://github.com/https://github.com/forthespada/CS-Books): 🔥🔥 超过 1000 本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括 C/C++、Java、Python、Go 语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
+- [2022-forthespada/CS-Books ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/https://github.com/forthespada/CS-Books)](https://github.com/https://github.com/forthespada/CS-Books): 🔥🔥 超过 1000 本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括 C/C++、Java、Python、Go 语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
 
 ## Cheatsheets
 
-- [cheat.sh #Project#](https://github.com/chubin/cheat.sh): Covers 56 programming languages, several DBMSes, and more than 1000 most important UNIX/Linux commands.
+- [cheat.sh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/chubin/cheat.sh): Covers 56 programming languages, several DBMSes, and more than 1000 most important UNIX/Linux commands.
 
 # Programming Language | 编程语言
 
@@ -52,17 +52,17 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [2018-后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 
-- [Awesome design patterns #Collection#](https://github.com/DovAmir/awesome-design-patterns): A general, reusable solution to a commonly occurring problem within a given context in software design. It is a description or template for how to solve a problem that can be used in many different situations.
+- [Awesome design patterns 🗃️](https://github.com/DovAmir/awesome-design-patterns): A general, reusable solution to a commonly occurring problem within a given context in software design. It is a description or template for how to solve a problem that can be used in many different situations.
 
 - [Comic For What is BackEnd Developer](https://consolia-comic.com/comics/back-end)
 
 - [2017-The non-techie’s guide to servers](https://parg.co/bDN)
 
-- [awesome-architecture #Collection#](https://github.com/toutiaoio/awesome-architecture): 架构师技术图谱包括：分布式、前端、大数据、存储、微服务、推荐系统、框架、消息队列、编程语言、设计模式、重构、集群等内容。
+- [awesome-architecture 🗃️](https://github.com/toutiaoio/awesome-architecture): 架构师技术图谱包括：分布式、前端、大数据、存储、微服务、推荐系统、框架、消息队列、编程语言、设计模式、重构、集群等内容。
 
 # DataScienceAI
 
-- [Project Euler #Collection#](https://projecteuler.net/about): Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
+- [Project Euler 🗃️](https://projecteuler.net/about): Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
 
 # Others
 
@@ -92,29 +92,29 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 # Case Study
 
-- [Project Based Learning #Collection#](https://github.com/tuvtran/project-based-learning): A list of programming tutorials in which learners build an application from scratch. These tutorials are divided into different primary programming languages. Some have intermixed technologies and languages.
+- [Project Based Learning 🗃️](https://github.com/tuvtran/project-based-learning): A list of programming tutorials in which learners build an application from scratch. These tutorials are divided into different primary programming languages. Some have intermixed technologies and languages.
 
 # Bonus
 
-- [2019-free-for.dev #Collection#](https://github.com/ripienaar/free-for-dev): Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all in order to make informed decisions.
+- [2019-free-for.dev 🗃️](https://github.com/ripienaar/free-for-dev): Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all in order to make informed decisions.
 
 # Collection | 资源合集
 
-- [Computer Science Video Course #Collection#](https://github.com/Developer-Y/cs-video-courses): 计算机科学与技术的系列视频搜集
+- [Computer Science Video Course 🗃️](https://github.com/Developer-Y/cs-video-courses): 计算机科学与技术的系列视频搜集
 
-- [Papers We Love #Collection#](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
+- [Papers We Love 🗃️](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
 
-- [2017-Awesome Creative Coding #Collection#](https://github.com/terkelg/awesome-creative-coding): Creative coding is a different discipline than programming systems in which the goal is to create something expressive instead of something functional. This is carefully curated list of awesome creative coding resources primarily for beginners/intermediates.
+- [2017-Awesome Creative Coding 🗃️](https://github.com/terkelg/awesome-creative-coding): Creative coding is a different discipline than programming systems in which the goal is to create something expressive instead of something functional. This is carefully curated list of awesome creative coding resources primarily for beginners/intermediates.
 
 - 博客集锦：[Over 2500 dev blogs dataset](https://github.com/abdelhai/devblogs)、[Awesome Dev Blog](https://github.com/abdelhai/awesome-dev-blogs)、[Software Engineering Blog](https://github.com/kilimchoi/engineering-blogs)
 
-- [One-Click-to-Be-Pro #Collection#](https://github.com/vic317yeh/One-Click-to-Be-Pro): 质量很高的优秀学习资源收集
+- [One-Click-to-Be-Pro 🗃️](https://github.com/vic317yeh/One-Click-to-Be-Pro): 质量很高的优秀学习资源收集
 
-- [2016-dev-books #Collection#](http://www.dev-books.com/): analysed more than 40 000 000 questions and answers on stackoverflow.com to bring you the top of most mentioned books (5720 in total)
+- [2016-dev-books 🗃️](http://www.dev-books.com/): analysed more than 40 000 000 questions and answers on stackoverflow.com to bring you the top of most mentioned books (5720 in total)
 
 - [2017-Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
-- [2022-小林 x 图解计算机基础 #Project#](https://github.com/xiaolincoder/CS-Base): 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
+- [2022-小林 x 图解计算机基础 ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/xiaolincoder/CS-Base): 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 
 # Sites
 
@@ -143,35 +143,35 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 # Books
 
-- [2004-SICP, Structure and Interpretation of Computer Programs #Book#](http://sarabander.github.io/sicp/html/index.xhtml): 中文名为《计算机程序的构造和解释》哪怕过了 30 年在知识爆炸各种新技术层出不穷的今天，书中的内容不但没有过期而依然保持高价值，因为它讲的不是术而是道，即不是某一项具体的技术，而是通过 Scheme 这门 Lisp 方言和相关的例子，解释了计算机程序的本质和特征。
+- [2004-SICP, Structure and Interpretation of Computer Programs 📚](http://sarabander.github.io/sicp/html/index.xhtml): 中文名为《计算机程序的构造和解释》哪怕过了 30 年在知识爆炸各种新技术层出不穷的今天，书中的内容不但没有过期而依然保持高价值，因为它讲的不是术而是道，即不是某一项具体的技术，而是通过 Scheme 这门 Lisp 方言和相关的例子，解释了计算机程序的本质和特征。
 
 - [2008-Clean Code: A Handbook of Agile Software Craftsmanship](http://6me.us/cA697D): 中文译名[代码整洁之道](https://book.douban.com/subject/3892588/)。
 
-- [2008-编程珠玑 #Book#](https://book.douban.com/subject/3227098/)：本书是计算机科学方面的经典名著。书的内容围绕程序设计人员面对的一系列实际问题展开。作者 Jon Bentley 以其独有的洞察力和创造力，引导读者理解这些问题并学会解决方法，而这些正是程序员实际编程生涯中至关重要的。
+- [2008-编程珠玑 📚](https://book.douban.com/subject/3227098/)：本书是计算机科学方面的经典名著。书的内容围绕程序设计人员面对的一系列实际问题展开。作者 Jon Bentley 以其独有的洞察力和创造力，引导读者理解这些问题并学会解决方法，而这些正是程序员实际编程生涯中至关重要的。
 
-- [2010-计算机程序设计艺术 #Book#](http://6me.us/zzN)：《计算机程序设计艺术》系列被公认为计算机科学领域的权威之作，《美国科学家》杂志曾将这套书与爱因斯坦的《相对论》等书并列称为 20 世纪最重要的 12 本物理学著作。《计算机程序设计艺术》深入阐述了程序设计理论，对计算机领域的发展有着极为深远的影响。
+- [2010-计算机程序设计艺术 📚](http://6me.us/zzN)：《计算机程序设计艺术》系列被公认为计算机科学领域的权威之作，《美国科学家》杂志曾将这套书与爱因斯坦的《相对论》等书并列称为 20 世纪最重要的 12 本物理学著作。《计算机程序设计艺术》深入阐述了程序设计理论，对计算机领域的发展有着极为深远的影响。
 
-- [2011-CSAPP: 深入理解计算机系统 #Book#](): 绝对的好书，从程序员的视角深入浅出地介绍了计算机系统底层原理，这里提供笔者搜集的[2011-深入理解计算机系统-2nd](https://drive.wps.cn/view/l/ded1ba6254884c569ff61d119109ed8c)。
+- [2011-CSAPP: 深入理解计算机系统 📚](): 绝对的好书，从程序员的视角深入浅出地介绍了计算机系统底层原理，这里提供笔者搜集的[2011-深入理解计算机系统-2nd](https://drive.wps.cn/view/l/ded1ba6254884c569ff61d119109ed8c)。
 
 - [2012-数学之美](https://book.douban.com/subject/10750155/)：名为数学之美，实为信息技术(自然语言处理)中的数学原理(统计语言模型)之美。帮助读者更深刻地理解了大学所学的线性代数、概率论与数理统计和应该学而没学的随机过程、图论、机器学习的应用意义。笔者印象深刻看到了其中讲解 Tf-Idf 与信息论之间的关联，很有启发。
 
-- [2012-PLAI-Programming Languages: Application and Interpretation #Book#](http://cs.brown.edu/courses/cs173/2012/book/index.html)：中文翻译参考[这里](https://zhuanlan.zhihu.com/p/24578121)。
+- [2012-PLAI-Programming Languages: Application and Interpretation 📚](http://cs.brown.edu/courses/cs173/2012/book/index.html)：中文翻译参考[这里](https://zhuanlan.zhihu.com/p/24578121)。
 
-- [2013-松本行弘-代码的未来 #Book#](https://book.douban.com/subject/24536403/)：Ruby 之父松本行弘的又一力作。作者对云计算、大数据时代下的各种编程语言以及相关技术进行了剖析，并对编程语言的未来发展趋势做出预测，内容涉及 Go、VoltDB、node.js、CoffeeScript、Dart、MongoDB、摩尔定律、编程语言、多核、NoSQL 等当今备受关注的话题。内容比较浅显宽泛，偏向于技术普及性质。
+- [2013-松本行弘-代码的未来 📚](https://book.douban.com/subject/24536403/)：Ruby 之父松本行弘的又一力作。作者对云计算、大数据时代下的各种编程语言以及相关技术进行了剖析，并对编程语言的未来发展趋势做出预测，内容涉及 Go、VoltDB、node.js、CoffeeScript、Dart、MongoDB、摩尔定律、编程语言、多核、NoSQL 等当今备受关注的话题。内容比较浅显宽泛，偏向于技术普及性质。
 
-- [500 Lines or Less: The Architecture of Open Source Applications #Book#](http://aosabook.org/en/index.html): 神书一套，介绍了很多开源软件的架构设计，In these two books, the authors of four dozen open source applications explain how their software is structured, and why. What are each program's major components? How do they interact? And what did their builders learn during their development? In answering these questions, the contributors to these books provide unique insights into how they think.
+- [500 Lines or Less: The Architecture of Open Source Applications 📚](http://aosabook.org/en/index.html): 神书一套，介绍了很多开源软件的架构设计，In these two books, the authors of four dozen open source applications explain how their software is structured, and why. What are each program's major components? How do they interact? And what did their builders learn during their development? In answering these questions, the contributors to these books provide unique insights into how they think.
 
-- [2013-The Little Schemer V4 #Book#](https://drive.wps.cn/view/l/882c5c0df99841f5858417d5e6ae32c1): This delightful book leads you through the basic elements of programming in Scheme (a Lisp dialect) via a series of dialogues with well-chosen questions and exercises. 其他兄弟篇：[1989-The Little LISPer](https://www.amazon.com/exec/obidos/ASIN/0023397632/)、[1995-The Seasoned Schemer](https://book.douban.com/subject/1726083/)、[2005-The Reasoned Schemer](https://book.douban.com/subject/1726088/)、[2015-The Little Prover](http://the-little-prover.github.io/)
+- [2013-The Little Schemer V4 📚](https://drive.wps.cn/view/l/882c5c0df99841f5858417d5e6ae32c1): This delightful book leads you through the basic elements of programming in Scheme (a Lisp dialect) via a series of dialogues with well-chosen questions and exercises. 其他兄弟篇：[1989-The Little LISPer](https://www.amazon.com/exec/obidos/ASIN/0023397632/)、[1995-The Seasoned Schemer](https://book.douban.com/subject/1726083/)、[2005-The Reasoned Schemer](https://book.douban.com/subject/1726088/)、[2015-The Little Prover](http://the-little-prover.github.io/)
 
-- [2015-The Art Of Programming By July #Book#](http://6me.us/oEiD): 编程之法：面试和算法心得
+- [2015-The Art Of Programming By July 📚](http://6me.us/oEiD): 编程之法：面试和算法心得
 
-- [2017-Mathematics for Computer Science #Book#](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf):This text explains how to use mathematical models and methods to analyze problems that arise in computer science
+- [2017-Mathematics for Computer Science 📚](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf):This text explains how to use mathematical models and methods to analyze problems that arise in computer science
 
-- [2017-Software Foundations #Book#](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html): This electronic book is a course on Software Foundations, the mathematical underpinnings of reliable software. Topics include basic concepts of logic, computer-assisted theorem proving, the Coq proof assistant, functional programming, operational semantics, Hoare logic, and static type systems.
+- [2017-Software Foundations 📚](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html): This electronic book is a course on Software Foundations, the mathematical underpinnings of reliable software. Topics include basic concepts of logic, computer-assisted theorem proving, the Coq proof assistant, functional programming, operational semantics, Hoare logic, and static type systems.
 
-- [Open Source Society University #Book#](http://6me.us/eWa): This is a solid path for those of you who want to complete a Computer Science course on your own time, for free, with courses from the best universities in the World.
+- [Open Source Society University 📚](http://6me.us/eWa): This is a solid path for those of you who want to complete a Computer Science course on your own time, for free, with courses from the best universities in the World.
 
-- [2020-CtCI-3rd #Book#](https://github.com/careercup/CtCI-6th-Edition): Crowdsourcing solutions for every widely used programming language. Contributions welcome.
+- [2020-CtCI-3rd 📚](https://github.com/careercup/CtCI-6th-Edition): Crowdsourcing solutions for every widely used programming language. Contributions welcome.
 
 # Vision | 行业与技术洞察
 

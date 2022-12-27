@@ -14,8 +14,8 @@
 
 ## Book
 
-- [2020-TiDB In Action #Book#](https://github.com/pingcap-incubator/tidb-in-action): TiDB In Action
+- [2020-TiDB In Action 📚](https://github.com/pingcap-incubator/tidb-in-action): TiDB In Action
 
 ## Course
 
-- [PingCAP Talent Plan #Course#](https://mp.weixin.qq.com/s/_aXDbsQIBsdXmRqAEzvUHg): PingCAP Talent Plan 是 PingCAP 为 TiDB 开源社区小伙伴提供的进阶式学习计划，以循序渐进的方式，让大家深入了解并掌握 TiDB/TiKV 相关知识及实操技能。
+- [PingCAP Talent Plan 🏫](https://mp.weixin.qq.com/s/_aXDbsQIBsdXmRqAEzvUHg): PingCAP Talent Plan 是 PingCAP 为 TiDB 开源社区小伙伴提供的进阶式学习计划，以循序渐进的方式，让大家深入了解并掌握 TiDB/TiKV 相关知识及实操技能。

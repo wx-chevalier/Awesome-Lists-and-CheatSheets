@@ -26,37 +26,37 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 # Resource | 资料集锦
 
-- [Master JavaScript Programming With 18 OpenSource Books #Collection#](http://6me.us/snwXG): This compilation focuses on the JavaScript language with 18 solid recommendations. There are books here for beginner, intermediate, and advanced programmers alike. All of the texts are released under an open source license.
+- [Master JavaScript Programming With 18 OpenSource Books 🗃️](http://6me.us/snwXG): This compilation focuses on the JavaScript language with 18 solid recommendations. There are books here for beginner, intermediate, and advanced programmers alike. All of the texts are released under an open source license.
 
-- [Awesome JavaScript #Collection#](https://github.com/sorrycc/awesome-javascript): A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+- [Awesome JavaScript 🗃️](https://github.com/sorrycc/awesome-javascript): A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 
 - [JavaScript-Garden](http://bonsaiden.github.io/JavaScript-Garden/): JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes and subtle bugs, as well as performance issues and bad practices, that non-expert JavaScript programmers may encounter on their endeavours into the depths of the language.
 
-- [2017-Must-Watch JavaScript #Project#](https://parg.co/U37): This is a collection of well-received talks about JavaScript, covering topics such as ES6, JavaScript frameworks, client-side apps, mobile integration, JavaScript performance, tooling, leveling up, and more.
+- [2017-Must-Watch JavaScript ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://parg.co/U37): This is a collection of well-received talks about JavaScript, covering topics such as ES6, JavaScript frameworks, client-side apps, mobile integration, JavaScript performance, tooling, leveling up, and more.
 
 ## Book
 
-- [2015-ECMAScript 6 入门 #Book#](http://es6.ruanyifeng.com/#README)：ECMAScript 6 入门是由阮一峰老师编写的一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
+- [2015-ECMAScript 6 入门 📚](http://es6.ruanyifeng.com/#README)：ECMAScript 6 入门是由阮一峰老师编写的一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
 
-- [2015-ES6 in Depth #Book#](https://ponyfoo.com/articles/tagged/es6-in-depth): A twenty-four article-long series of pragmatic articles describing JavaScript language features in ES6. 中文译本[深入浅出 ES6]()
+- [2015-ES6 in Depth 📚](https://ponyfoo.com/articles/tagged/es6-in-depth): A twenty-four article-long series of pragmatic articles describing JavaScript language features in ES6. 中文译本[深入浅出 ES6]()
 
-- [2015-Exploring ES6 #Book#](http://exploringjs.com/es6/index.html): Upgrade to the next version of JavaScript
+- [2015-Exploring ES6 📚](http://exploringjs.com/es6/index.html): Upgrade to the next version of JavaScript
 
-- [2017-The Modern JavaScript Tutorial #Book#](https://javascript.info/): How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+- [2017-The Modern JavaScript Tutorial 📚](https://javascript.info/): How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 
-- [2017-The JavaScript Wa #Book#](https://github.com/bpesquet/thejsway): A modern introduction to an essential language.
+- [2017-The JavaScript Wa 📚](https://github.com/bpesquet/thejsway): A modern introduction to an essential language.
 
-- [Modern JavaScript Tutorial #Book#](https://github.com/iliakan/javascript-tutorial-en): How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+- [Modern JavaScript Tutorial 📚](https://github.com/iliakan/javascript-tutorial-en): How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 
-- [JavaScript. The Core: 2nd Edition #Book#](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/#class): This is the second edition of the JavaScript. The Core overview lecture, devoted to ECMAScript programming language and core components of its runtime system.
+- [JavaScript. The Core: 2nd Edition 📚](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/#class): This is the second edition of the JavaScript. The Core overview lecture, devoted to ECMAScript programming language and core components of its runtime system.
 
-- [Exploring ES2018 and ES2019 #Book#](http://exploringjs.com/es2018-es2019/toc.html): This book is about two versions of JavaScript: ECMAScript 2018 and ECMAScript 2019.
+- [Exploring ES2018 and ES2019 📚](http://exploringjs.com/es2018-es2019/toc.html): This book is about two versions of JavaScript: ECMAScript 2018 and ECMAScript 2019.
 
 - [You don’t know Js](https://github.com/getify/You-Dont-Know-JS): 关于 JavaScript 中很多的细节部分讲解
 
 - [Eloquent Javascript](http://eloquentjavascript.net/index.html)
 
-- [2020-Deep JavaScript: Theory and techniques #Book#](https://exploringjs.com/deep-js/): This book dives deeply into JavaScript, It teaches practical techniques for using the language better. It teaches how the language works and why. What it teaches is firmly grounded in the ECMAScript specification (which the book explains and refers to).
+- [2020-Deep JavaScript: Theory and techniques 📚](https://exploringjs.com/deep-js/): This book dives deeply into JavaScript, It teaches practical techniques for using the language better. It teaches how the language works and why. What it teaches is firmly grounded in the ECMAScript specification (which the book explains and refers to).
 
 ## Collection
 
@@ -68,9 +68,9 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 ## Course
 
-- [2020-20+ Web Projects With Vanilla JavaScript #Course#](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries.
+- [2020-20+ Web Projects With Vanilla JavaScript 🏫](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries.
 
-- [2020-Beginner's Series: Introduction to JavaScript (Node.js) #Course#](https://github.com/microsoft/beginners-intro-javascript-node): We created a video series to aid the burgeoning developer curious about writing JavaScript for Node.js. Our goal is to help show you enough JavaScript to give you the background needed to begin working through quick starts and tutorials focused on frameworks and SDKs using JavaScript.
+- [2020-Beginner's Series: Introduction to JavaScript (Node.js) 🏫](https://github.com/microsoft/beginners-intro-javascript-node): We created a video series to aid the burgeoning developer curious about writing JavaScript for Node.js. Our goal is to help show you enough JavaScript to give you the background needed to begin working through quick starts and tutorials focused on frameworks and SDKs using JavaScript.
 
 ## Series
 

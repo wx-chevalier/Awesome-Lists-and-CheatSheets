@@ -36,7 +36,7 @@ This file aggregates curated popular links for learning GraphQL. More reference 
 
 - [GraphQL Specification](http://facebook.github.io/graphql/October2016/): This is a Draft RFC Specification for GraphQL, a query language created by Facebook in 2012 for describing the capabilities and requirements of data models for client‐server applications.
 
-- [Awesome GraphQL #Collection#](https://github.com/chentsulin/awesome-graphql): Awesome list of GraphQL & Relay.
+- [Awesome GraphQL 🗃️](https://github.com/chentsulin/awesome-graphql): Awesome list of GraphQL & Relay.
 
 - [2017-How to GraphQL #Series#](https://github.com/howtographql/howtographql): How to GraphQL is a fullstack tutorial website to learn all around GraphQL! It was built by Graphcool and many amazing contributors.
 
@@ -66,7 +66,7 @@ This file aggregates curated popular links for learning GraphQL. More reference 
 
 - [2018-GraphQL: Everything You Need to Know](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8): The purpose of this article is to highlight the major features associated with GraphQL along with discussing the significant pros and cons associated with this particular API specification.
 
-- [Launchpad #Project#](https://github.com/apollographql/launchpad): Launchpad is an in-browser GraphQL server playground. You can write a GraphQL schema example in JavaScript, and instantly create a serverless, publicly-accessible GraphQL endpoint. We call these code snippets that live on Launchpad “pads”.
+- [Launchpad ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/apollographql/launchpad): Launchpad is an in-browser GraphQL server playground. You can write a GraphQL schema example in JavaScript, and instantly create a serverless, publicly-accessible GraphQL endpoint. We call these code snippets that live on Launchpad “pads”.
 
 # Schema
 

@@ -14,6 +14,6 @@
 
 # Tuning
 
-- [The Unexpected Find That Freed 20GB of Unused Index Space #Project#](https://hakibenita.com/postgresql-unused-index-size): How to free space without dropping indexes or deleting data
+- [The Unexpected Find That Freed 20GB of Unused Index Space ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://hakibenita.com/postgresql-unused-index-size): How to free space without dropping indexes or deleting data
 
 # Internals

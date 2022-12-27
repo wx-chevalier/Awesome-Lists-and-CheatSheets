@@ -22,9 +22,9 @@
 
 ## Collection
 
-- [Awesome TensorFlow #Collection#](https://github.com/jtoy/awesome-tensorflow#github-projects): A curated list of awesome TensorFlow experiments, libraries, and projects. Inspired by awesome-machine-learning.
+- [Awesome TensorFlow 🗃️](https://github.com/jtoy/awesome-tensorflow#github-projects): A curated list of awesome TensorFlow experiments, libraries, and projects. Inspired by awesome-machine-learning.
 
-- [TensorFlow-World-Resources #Collection#](https://github.com/astorfi/TensorFlow-World-Resources): Organized & Useful Resources about Deep Learning with TensorFlow
+- [TensorFlow-World-Resources 🗃️](https://github.com/astorfi/TensorFlow-World-Resources): Organized & Useful Resources about Deep Learning with TensorFlow
 
 # Tutorial | 教程
 

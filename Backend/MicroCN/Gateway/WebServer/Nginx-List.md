@@ -2,7 +2,7 @@
 
 - [2017-An nginx config for 2017](https://certsimple.com/blog/nginx-http2-load-balancing-config): With HTTP/2 in every browser, load balancing with automatic failover, IPv6, a sorry page, separate blog server, HTML5 SSE and A+ HTTPS.
 
-- [2017-gixy #Project# ](https://github.com/yandex/gixy): Gixy is a tool to analyze Nginx configuration. The main goal of Gixy is to prevent security misconfiguration and automate flaw detection.
+- [2017-gixy ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ](https://github.com/yandex/gixy): Gixy is a tool to analyze Nginx configuration. The main goal of Gixy is to prevent security misconfiguration and automate flaw detection.
 
 - [Nginx 中文官方文档](https://www.gitbook.com/book/wizardforcel/nginx-doc/details)
 
@@ -16,9 +16,9 @@
 
 ## Book
 
-- [2012-Nginx 开发从入门到精通 #Book#](http://tengine.taobao.org/book/index.html): Nginx 由于出色的性能，在世界范围内受到了越来越多人的关注，在淘宝内部它更是被广泛的使用，众多的开发以及运维同学都迫切的想要了解 nginx 模块的开发以及它的内部原理，但是国内却没有一本关于这方面的书，源于此我们决定自己来写一本。
+- [2012-Nginx 开发从入门到精通 📚](http://tengine.taobao.org/book/index.html): Nginx 由于出色的性能，在世界范围内受到了越来越多人的关注，在淘宝内部它更是被广泛的使用，众多的开发以及运维同学都迫切的想要了解 nginx 模块的开发以及它的内部原理，但是国内却没有一本关于这方面的书，源于此我们决定自己来写一本。
 
-- [2019-Nginx Admin's Handbook #Book#](https://github.com/trimstray/nginx-admins-handbook): My notes on NGINX administration basics, tips & tricks, caveats, and gotchas.
+- [2019-Nginx Admin's Handbook 📚](https://github.com/trimstray/nginx-admins-handbook): My notes on NGINX administration basics, tips & tricks, caveats, and gotchas.
 
 # Configuration
 
@@ -32,4 +32,4 @@
 
 # OpenSource
 
-- [NGiИX configuration generator #Project#](https://github.com/valentinxxx/nginxconfig.io): NGiИX config generator generator on steroids.
+- [NGiИX configuration generator ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/valentinxxx/nginxconfig.io): NGiИX config generator generator on steroids.

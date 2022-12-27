@@ -16,7 +16,7 @@
 
 - [demystifying-js-engines](https://github.com/a0viedo/demystifying-js-engines): 一系列讲解 JavaScript 虚拟机构造的资源整合
 
-- [v8project.blogspot.com #Collection#](http://v8project.blogspot.com/): Official V8 blog
+- [v8project.blogspot.com 🗃️](http://v8project.blogspot.com/): Official V8 blog
 
 - [Rednaxelafx: 各 JavaScript 引擎的简介，及相关资料 / 博客收集帖](http://hllvm.group.iteye.com/group/topic/37596): 各 JavaScript 引擎的简介，及相关资料 / 博客收集帖
 
@@ -48,7 +48,7 @@
 
 ## Babel
 
-- [2017-Babel Handbook #Book#](https://github.com/thejameskyle/babel-handbook): A guided handbook on how to use Babel and how to create plugins for Babel.
+- [2017-Babel Handbook 📚](https://github.com/thejameskyle/babel-handbook): A guided handbook on how to use Babel and how to create plugins for Babel.
 
 # Memory Management
 

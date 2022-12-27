@@ -16,15 +16,15 @@
 
 ## Book
 
-- [2012-Concurrent Programming for Scalable Web Architectures #Book#](http://berb.github.io/diploma-thesis/): We examine the relations between concurrency, scalability and distributed systems and dare an outlook on the near future.
+- [2012-Concurrent Programming for Scalable Web Architectures 📚](http://berb.github.io/diploma-thesis/): We examine the relations between concurrency, scalability and distributed systems and dare an outlook on the near future.
 
 - [2012-The Art of Multiprocessor Programming, Revised Reprint](https://www.safaribooksonline.com/library/view/the-art-of/9780123973375/): The Art of Multiprocessor Programming is an authoritative guide to multicore programming. It introduces a higher level set of software development skills than that needed for efficient single-core programming. This book provides comprehensive coverage of the new principles, algorithms, and tools necessary for effective multiprocessor programming.
 
-- [2011-Özsu-Principles of Distributed Database Systems-3rd Edition #Book#](http://www.springer.com/us/book/9781441988331): The first part discusses the fundamental principles of distributed data management and includes distribution design, data integration, distributed query processing and optimization, distributed transaction management, and replication. The second part focuses on more advanced topics and includes discussion of parallel database systems, distributed object management, peer-to-peer data management, web data management, data stream systems, and cloud computing.
+- [2011-Özsu-Principles of Distributed Database Systems-3rd Edition 📚](http://www.springer.com/us/book/9781441988331): The first part discusses the fundamental principles of distributed data management and includes distribution design, data integration, distributed query processing and optimization, distributed transaction management, and replication. The second part focuses on more advanced topics and includes discussion of parallel database systems, distributed object management, peer-to-peer data management, web data management, data stream systems, and cloud computing.
 
-- [2017-Designing Data Intensive Applications #Book#](https://dataintensive.net/): This book will help you navigate the diverse and fast-changing landscape of technologies for storing and processing data. [DDIA 中文翻译](https://github.com/Vonng/ddia)。
+- [2017-Designing Data Intensive Applications 📚](https://dataintensive.net/): This book will help you navigate the diverse and fast-changing landscape of technologies for storing and processing data. [DDIA 中文翻译](https://github.com/Vonng/ddia)。
 
-- [2018-Programming Models for Distributed Computation #Book#](https://github.com/heathermiller/dist-prog-book): This is a book about the programming constructs we use to build distributed systems. These range from the small, RPC, futures, actors, to the large; systems built up of these components like MapReduce and Spark. We explore issues and concerns central to distributed systems like consistency, availability, and fault tolerance, from the lens of the programming models and frameworks that the programmer uses to build these systems.
+- [2018-Programming Models for Distributed Computation 📚](https://github.com/heathermiller/dist-prog-book): This is a book about the programming constructs we use to build distributed systems. These range from the small, RPC, futures, actors, to the large; systems built up of these components like MapReduce and Spark. We explore issues and concerns central to distributed systems like consistency, availability, and fault tolerance, from the lens of the programming models and frameworks that the programmer uses to build these systems.
 
 ## Blog
 
@@ -32,23 +32,23 @@
 
 ## Collection
 
-- [The Twelve-Factor App #Collection#](http://12factor.net/zh_cn/): To raise awareness of some systemic problems we’ve seen in modern application development, to provide a shared vocabulary for discussing those problems, and to offer a set of broad conceptual solutions to those problems with accompanying terminology.
+- [The Twelve-Factor App 🗃️](http://12factor.net/zh_cn/): To raise awareness of some systemic problems we’ve seen in modern application development, to provide a shared vocabulary for discussing those problems, and to offer a set of broad conceptual solutions to those problems with accompanying terminology.
 
-- [awesome-shell #Collection#](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [awesome-shell 🗃️](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 
-- [Cloud Native Landscape #Collection#](https://github.com/cncf/landscape): Static Cloud Native Landscapes and Interactive Landscape that filters and sorts hundreds of cloud native projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
+- [Cloud Native Landscape 🗃️](https://github.com/cncf/landscape): Static Cloud Native Landscapes and Interactive Landscape that filters and sorts hundreds of cloud native projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 
-- [2019-分布式系统领域经典论文翻译集 #Collection#](https://zhuanlan.zhihu.com/p/91434149)
+- [2019-分布式系统领域经典论文翻译集 🗃️](https://zhuanlan.zhihu.com/p/91434149)
 
-- [2019-A Distributed Systems Reading List #Collection#](https://dancres.github.io/Pages/): I often argue that the toughest thing about distributed systems is changing the way you think. The below is a collection of material I've found useful for motivating these changes.
+- [2019-A Distributed Systems Reading List 🗃️](https://dancres.github.io/Pages/): I often argue that the toughest thing about distributed systems is changing the way you think. The below is a collection of material I've found useful for motivating these changes.
 
 ## Course
 
 - [2018-6.824: Distributed Systems](http://nil.csail.mit.edu/6.824/2018/index.html): It will present abstractions and implementation techniques for engineering distributed systems.
 
-- [2018-MIT-6.824 #Course#](http://nil.csail.mit.edu/6.824/2018/schedule.html): Distributed Systems Engineering, What is a distributed system?, etc.
+- [2018-MIT-6.824 🏫](http://nil.csail.mit.edu/6.824/2018/schedule.html): Distributed Systems Engineering, What is a distributed system?, etc.
 
-- [PingCAP Talent Plan #Course#](https://github.com/pingcap/talent-plan): This is a series of training courses about writing distributed systems in Go and Rust. It is maintained by PingCAP for training and/or evaluating students, new employees, and new contributors to TiDB and TiKV.
+- [PingCAP Talent Plan 🏫](https://github.com/pingcap/talent-plan): This is a series of training courses about writing distributed systems in Go and Rust. It is maintained by PingCAP for training and/or evaluating students, new employees, and new contributors to TiDB and TiKV.
 
 ## Paper
 

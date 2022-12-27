@@ -20,7 +20,7 @@
 
 # Release | 应用发布
 
-- [2017-Bundle Buddy #Project#](https://github.com/samccone/bundle-buddy)：Bundle Buddy 能够通过分析编译生成的 SourceMap 来寻找 JavaScript 代码块之间的源代码冗余情况。该工具能够帮助开发者寻找合适的代码分割点以降低最终发布应用的不稳定性，同时还能提升页面加载性能。
+- [2017-Bundle Buddy ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/samccone/bundle-buddy)：Bundle Buddy 能够通过分析编译生成的 SourceMap 来寻找 JavaScript 代码块之间的源代码冗余情况。该工具能够帮助开发者寻找合适的代码分割点以降低最终发布应用的不稳定性，同时还能提升页面加载性能。
 
 - [技术分享：几种常见的 JavaScript 混淆和反混淆工具分析实战 ](http://www.freebuf.com/articles/web/97945.html)
 

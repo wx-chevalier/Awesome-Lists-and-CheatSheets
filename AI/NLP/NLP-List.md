@@ -12,7 +12,7 @@
 
 - [2017-Learning AI if You Suck at Math — P7 — The Magic of Natural Language Processing](https://parg.co/bR4)
 
-- [2020-nlp_overview #Project#](https://github.com/omarsar/nlp_overview): Overview of Modern Deep Learning Techniques Applied to Natural Language Processing.
+- [2020-nlp_overview ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/omarsar/nlp_overview): Overview of Modern Deep Learning Techniques Applied to Natural Language Processing.
 
 ## Summary | 综述
 
@@ -22,9 +22,9 @@
 
 # Resource
 
-- [2017-DL4NLP #Collection#](https://github.com/andrewt3000/DL4NLP): Deep Learning for NLP resources.
+- [2017-DL4NLP 🗃️](https://github.com/andrewt3000/DL4NLP): Deep Learning for NLP resources.
 
-- [2017-Natural Language Processing Tasks and Selected References #Collection#](https://github.com/Kyubyong/nlp_tasks): I did my best to cover as many as possible tasks in NLP, but admittedly this is far from exhaustive purely due to my lack of knowledge.
+- [2017-Natural Language Processing Tasks and Selected References 🗃️](https://github.com/Kyubyong/nlp_tasks): I did my best to cover as many as possible tasks in NLP, but admittedly this is far from exhaustive purely due to my lack of knowledge.
 
 - [2017-Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html#optimization): This post is a collection of best practices for using neural networks in Natural Language Processing.
 

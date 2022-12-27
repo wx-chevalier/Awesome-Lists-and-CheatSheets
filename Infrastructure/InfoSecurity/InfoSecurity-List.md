@@ -32,19 +32,19 @@
 
 ## Book
 
-- [Reverse Engineering for Beginners #Book#](https://beginners.re/): 适合作为逆向入门书籍，而且里面覆盖的范围更广，包括了 x86/x64，arm 两三种 CPU 的指令集，而且囊括了 Linux 和 Windows 的 OS hack 等内容，各种逆向工具也都介绍了一番。
+- [Reverse Engineering for Beginners 📚](https://beginners.re/): 适合作为逆向入门书籍，而且里面覆盖的范围更广，包括了 x86/x64，arm 两三种 CPU 的指令集，而且囊括了 Linux 和 Windows 的 OS hack 等内容，各种逆向工具也都介绍了一番。
 
-- [兜哥系列丛书 #Book#](https://github.com/duoergun0729): Web 安全之机器学习入门/Web 安全之深度学习实战/Web 安全之强化学习与 GAN 系列
+- [兜哥系列丛书 📚](https://github.com/duoergun0729): Web 安全之机器学习入门/Web 安全之深度学习实战/Web 安全之强化学习与 GAN 系列
 
 ## Collection
 
-- [awesome penetration testing #Collection#](https://github.com/enaqx/awesome-pentest): 一系列关于渗透测试相关的资料的搜集
+- [awesome penetration testing 🗃️](https://github.com/enaqx/awesome-pentest): 一系列关于渗透测试相关的资料的搜集
 
-- [List of resources about programming practices for writing safety-critical software. #Collection#](https://github.com/stanislaw/awesome-safety-critical)
+- [List of resources about programming practices for writing safety-critical software. 🗃️](https://github.com/stanislaw/awesome-safety-critical)
 
-- [Awesome WebSecurity #Collection#](https://github.com/qazbnm456/awesome-web-security): 🐶 A curated list of Web Security materials and resources.
+- [Awesome WebSecurity 🗃️](https://github.com/qazbnm456/awesome-web-security): 🐶 A curated list of Web Security materials and resources.
 
-- [jassics/security-study-plan #Project# ![star](https://img.shields.io/github/stars/jassics/security-study-plan)](https://github.com/jassics/security-study-plan): Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
+- [jassics/security-study-plan ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/jassics/security-study-plan)](https://github.com/jassics/security-study-plan): Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
 
 ## Course
 

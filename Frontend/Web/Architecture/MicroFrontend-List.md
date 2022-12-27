@@ -8,7 +8,7 @@
 
 - [2019-Micro Frontends](https://martinfowler.com/articles/micro-frontends.html): In this article we'll describe a recent trend of breaking up frontend monoliths into many smaller, more manageable pieces, and how this architecture can increase the effectiveness and efficiency of teams working on frontend code.
 
-- [2019-Thinking in Microfrontend (微前端的那些事儿) #Book#](https://github.com/phodal/microfrontends): 微前端是一种类似于微服务的架构，它将微服务的理念应用于浏览器端，即将 Web 应用由单一的单体应用转变为多个小型前端应用聚合为一的应用。各个前端应用还可以独立运行、独立开发、独立部署。
+- [2019-Thinking in Microfrontend (微前端的那些事儿) 📚](https://github.com/phodal/microfrontends): 微前端是一种类似于微服务的架构，它将微服务的理念应用于浏览器端，即将 Web 应用由单一的单体应用转变为多个小型前端应用聚合为一的应用。各个前端应用还可以独立运行、独立开发、独立部署。
 
 ## 基于 iframe 的微前端方案
 

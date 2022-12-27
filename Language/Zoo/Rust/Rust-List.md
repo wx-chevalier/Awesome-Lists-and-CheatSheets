@@ -32,39 +32,39 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 ## Book
 
-- [The Rust Programming Language #Book#](https://doc.rust-lang.org/book/first-edition/README.html): This book will teach you about the Rust Programming Language. Rust is a systems programming language focused on three goals: safety, speed, and concurrency.
+- [The Rust Programming Language 📚](https://doc.rust-lang.org/book/first-edition/README.html): This book will teach you about the Rust Programming Language. Rust is a systems programming language focused on three goals: safety, speed, and concurrency.
 
-- [Rust Primer #Book#](https://github.com/rustcc/RustPrimer): 中国人写的 Rust 编程书籍
+- [Rust Primer 📚](https://github.com/rustcc/RustPrimer): 中国人写的 Rust 编程书籍
 
-- [Rust by Example #Book#](https://rustbyexample.com/): Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
+- [Rust by Example 📚](https://rustbyexample.com/): Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
 
-- [2016-Algorithm Cookbook in Rust #Book#](https://github.com/EbTech/rust-algorithms): A collection of classic data structures and algorithms, emphasizing beauty and clarity over full generality.
+- [2016-Algorithm Cookbook in Rust 📚](https://github.com/EbTech/rust-algorithms): A collection of classic data structures and algorithms, emphasizing beauty and clarity over full generality.
 
-- [2016-Rust 101 #Book#](https://www.ralfj.de/projects/rust-101/main.html): This is Rust-101, a small tutorial for the Rust language. It is intended to be an interactive, hands-on course: I believe the only way to really learn a language is to write code in it, so you should be coding during the course.
+- [2016-Rust 101 📚](https://www.ralfj.de/projects/rust-101/main.html): This is Rust-101, a small tutorial for the Rust language. It is intended to be an interactive, hands-on course: I believe the only way to really learn a language is to write code in it, so you should be coding during the course.
 
-- [2017-Programming Rust #Book#](https://parg.co/UPe): This practical book introduces systems programmers to Rust, the new and cutting-edge language. You’ll learn how Rust offers the rare and valuable combination of statically verified memory safety and low-level control—imagine C++, but without dangling pointers, null pointer dereferences, leaks, or buffer overruns.
+- [2017-Programming Rust 📚](https://parg.co/UPe): This practical book introduces systems programmers to Rust, the new and cutting-edge language. You’ll learn how Rust offers the rare and valuable combination of statically verified memory safety and low-level control—imagine C++, but without dangling pointers, null pointer dereferences, leaks, or buffer overruns.
 
-- [2017-Rust Essentials-2nd #Book#](https://parg.co/UPI): Leverage the functional programming and concurrency features of Rust and speed up your application development.
+- [2017-Rust Essentials-2nd 📚](https://parg.co/UPI): Leverage the functional programming and concurrency features of Rust and speed up your application development.
 
-- [Rust 语言圣经 #Book#](https://course.rs/into-rust.html): Rust 语言圣经涵盖从入门到精通所需的全部 Rust 知识，目录及内容都经过深思熟虑的设计，同时语言生动幽默，行文流畅自如，摆脱技术书籍常有的机器味和晦涩感。
+- [Rust 语言圣经 📚](https://course.rs/into-rust.html): Rust 语言圣经涵盖从入门到精通所需的全部 Rust 知识，目录及内容都经过深思熟虑的设计，同时语言生动幽默，行文流畅自如，摆脱技术书籍常有的机器味和晦涩感。
 
-- [Rust By Practice #Book#](https://github.com/sunface/rust-by-practice): Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev.
+- [Rust By Practice 📚](https://github.com/sunface/rust-by-practice): Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev.
 
-- [2022-Zero To Production In Rust #Book#](https://github.com/LukeMathWalker/zero-to-production): Zero To Production In Rust is an opinionated introduction to backend development using Rust.
+- [2022-Zero To Production In Rust 📚](https://github.com/LukeMathWalker/zero-to-production): Zero To Production In Rust is an opinionated introduction to backend development using Rust.
 
 ## Collection
 
-- [Rust Books #Collection#](https://github.com/sger/RustBooks): 一系列对于 Rust 书籍的搜集。
+- [Rust Books 🗃️](https://github.com/sger/RustBooks): 一系列对于 Rust 书籍的搜集。
 
-- [blessed-rs #Collection#](https://github.com/nicoburns/blessed-rs): An community guide to the Rust ecosystem
+- [blessed-rs 🗃️](https://github.com/nicoburns/blessed-rs): An community guide to the Rust ecosystem
 
 ## Course
 
-- [TP 201: Practical Networked Applications in Rust #Course#](https://github.com/pingcap/talent-plan). A series of projects that incrementally develop a single Rust project from the ground up into a high-performance, networked, parallel and asynchronous key/value store. Along the way various real-world and practical Rust development subject matter are explored and discussed.
+- [TP 201: Practical Networked Applications in Rust 🏫](https://github.com/pingcap/talent-plan). A series of projects that incrementally develop a single Rust project from the ground up into a high-performance, networked, parallel and asynchronous key/value store. Along the way various real-world and practical Rust development subject matter are explored and discussed.
 
-- [TP 202: Distributed Systems in Rust #Course#](https://github.com/pingcap/talent-plan/). Adapted from the [MIT 6.824](http://nil.csail.mit.edu/6.824/2017/index.html) distributed systems coursework, this course focuses on implementing important distributed algorithms, including the [Raft](https://raft.github.io/) consensus algorithm, and the [Percolator](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf) distributed transaction protocol.
+- [TP 202: Distributed Systems in Rust 🏫](https://github.com/pingcap/talent-plan/). Adapted from the [MIT 6.824](http://nil.csail.mit.edu/6.824/2017/index.html) distributed systems coursework, this course focuses on implementing important distributed algorithms, including the [Raft](https://raft.github.io/) consensus algorithm, and the [Percolator](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf) distributed transaction protocol.
 
-- [2022-Comprehensive Rust #Course#](https://google.github.io/comprehensive-rust/welcome.html): This is a four day Rust course developed by the Android team. The course covers the full spectrum of Rust, from basic syntax to advanced topics like generics and error handling. It also includes Android-specific content on the last day.
+- [2022-Comprehensive Rust 🏫](https://google.github.io/comprehensive-rust/welcome.html): This is a four day Rust course developed by the Android team. The course covers the full spectrum of Rust, from basic syntax to advanced topics like generics and error handling. It also includes Android-specific content on the last day.
 
 # Tutorial
 
@@ -72,7 +72,7 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2018-Writing a Microservice in Rust](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/): Let me begin this article on Writing a Microservice in Rust by talking about C++.
 
-- [2019-rustlings #Project#](https://github.com/rust-lang/rustlings): 🦀 Small exercises to get you used to reading and writing Rust code!
+- [2019-rustlings ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/rust-lang/rustlings): 🦀 Small exercises to get you used to reading and writing Rust code!
 
 ## CheatSheet
 

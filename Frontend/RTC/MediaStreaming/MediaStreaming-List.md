@@ -10,7 +10,7 @@
 
 ## Collection
 
-- [音视频流媒体权威资料整理 #Collection#](https://github.com/0voice/audio_video_streaming): 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。
+- [音视频流媒体权威资料整理 🗃️](https://github.com/0voice/audio_video_streaming): 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。
 
 # Client | 客户端模块
 

@@ -38,19 +38,19 @@
 
 ## Book | 书籍
 
-- [2017-Front End Developer Handbook 2017 #Book#](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+- [2017-Front End Developer Handbook 2017 📚](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
 
-- [2017-Spellbook of Modern Web Dev #Book#](https://parg.co/bv9): A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
+- [2017-Spellbook of Modern Web Dev 📚](https://parg.co/bv9): A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 
-- [2017-Grab Front End Guide #Book#](https://github.com/grab/front-end-guide): Study guide and introduction to the modern front end stack.
+- [2017-Grab Front End Guide 📚](https://github.com/grab/front-end-guide): Study guide and introduction to the modern front end stack.
 
-- [2018-MaintainableCSS #Book#](https://maintainablecss.com/): Write CSS without worrying that overzealous, pre-existing styles will cause problems. MaintainableCSS is an approach to writing modular, scalable and maintainable CSS.
+- [2018-MaintainableCSS 📚](https://maintainablecss.com/): Write CSS without worrying that overzealous, pre-existing styles will cause problems. MaintainableCSS is an approach to writing modular, scalable and maintainable CSS.
 
-- [CSS GuideLines #Book#](http://cssguidelin.es/): 免费的电子书，教你如何编写高质量可维护的 CSS 代码。
+- [CSS GuideLines 📚](http://cssguidelin.es/): 免费的电子书，教你如何编写高质量可维护的 CSS 代码。
 
-- [2021-Web Browser Engineering #Book#](https://browser.engineering/index.html): Web browsers are ubiquitous, but how do they work? This book explains, building a basic but complete web browser, from networking to JavaScript, in a thousand lines of Python.
+- [2021-Web Browser Engineering 📚](https://browser.engineering/index.html): Web browsers are ubiquitous, but how do they work? This book explains, building a basic but complete web browser, from networking to JavaScript, in a thousand lines of Python.
 
-- [2022-Web Patterns #Book#](https://www.patterns.dev/): Patterns.dev is a free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.
+- [2022-Web Patterns 📚](https://www.patterns.dev/): Patterns.dev is a free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.
 
 ## Blog | 博客
 
@@ -70,11 +70,11 @@
 
 - [2020-fe interview](https://github.com/haizlin/fe-interview): 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上 5 点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖。
 
-- [2020-frontend-challenges #Project#](https://github.com/felipefialho/frontend-challenges): 💥 Listing some playful open-source's challenges of jobs to test your knowledge
+- [2020-frontend-challenges ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/felipefialho/frontend-challenges): 💥 Listing some playful open-source's challenges of jobs to test your knowledge
 
 ## Course | 课程
 
-- [2020-Web Dev For Beginners #Course#](https://github.com/microsoft/Web-Dev-For-Beginners): Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about JavaScript, CSS, and HTML basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
+- [2020-Web Dev For Beginners 🏫](https://github.com/microsoft/Web-Dev-For-Beginners): Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about JavaScript, CSS, and HTML basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 
 ## Meeting
 
@@ -86,13 +86,13 @@
 
 ## Showcase
 
-- [2015-todomvc #Project#](https://github.com/tastejs/todomvc): Helping you select an `MV*` framework - Todo apps for React.js, Ember.js, Angular, and many more.
+- [2015-todomvc ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/tastejs/todomvc): Helping you select an `MV*` framework - Todo apps for React.js, Ember.js, Angular, and many more.
 
-- [2015-Real World #Project#](https://github.com/gothinkster/realworld): RealWorld solves this by allowing you to choose any frontend (React, Angular 2, & more) and any backend (Node, Django, & more) and see how they power a real world, beautifully designed fullstack app called "Conduit".
+- [2015-Real World ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/gothinkster/realworld): RealWorld solves this by allowing you to choose any frontend (React, Angular 2, & more) and any backend (Node, Django, & more) and see how they power a real world, beautifully designed fullstack app called "Conduit".
 
-- [ui-element-samples #Project#](https://github.com/GoogleChrome/ui-element-samples): A collection of UI element samples written with vanilla web platform features.
+- [ui-element-samples ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/GoogleChrome/ui-element-samples): A collection of UI element samples written with vanilla web platform features.
 
-- [fbjs #Project#](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
+- [fbjs ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
 
 # Tutorial
 

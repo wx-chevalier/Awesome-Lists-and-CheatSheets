@@ -2,7 +2,7 @@
 
 # JDBC
 
-- [Dalesbred #Project#](http://dalesbred.org/)
+- [Dalesbred ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](http://dalesbred.org/)
 
 - [Sharding-JDBC]():当当网出品的分库分表中间件
 

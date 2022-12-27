@@ -28,7 +28,7 @@
 
 ## Collection
 
-- [2019-最全 OCR 相关资料整理 #Collection#](https://mp.weixin.qq.com/s/OXmWLuZR2mzEz7drn4xGDQ)
+- [2019-最全 OCR 相关资料整理 🗃️](https://mp.weixin.qq.com/s/OXmWLuZR2mzEz7drn4xGDQ)
 
 # Tutorial
 

@@ -26,7 +26,7 @@
 
 ## Book
 
-- [2018-Mostly adequate guide to FP #Book#](https://github.com/MostlyAdequate/mostly-adequate-guide): This is a book on the functional paradigm in general. We'll use the world's most popular functional programming language: JavaScript. Some may feel this is a poor choice as it's against the grain of the current culture which, at the moment, feels predominately imperative.
+- [2018-Mostly adequate guide to FP 📚](https://github.com/MostlyAdequate/mostly-adequate-guide): This is a book on the functional paradigm in general. We'll use the world's most popular functional programming language: JavaScript. Some may feel this is a poor choice as it's against the grain of the current culture which, at the moment, feels predominately imperative.
 
 # Monad
 

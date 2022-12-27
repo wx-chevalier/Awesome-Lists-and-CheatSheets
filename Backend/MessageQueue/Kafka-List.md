@@ -38,6 +38,6 @@
 
 # OpenSource
 
-- [2016-kafkacat #Project#](https://github.com/edenhill/kafkacat): Generic command line non-JVM Apache Kafka producer and consumer.
+- [2016-kafkacat ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/edenhill/kafkacat): Generic command line non-JVM Apache Kafka producer and consumer.
 
-- [2021-Kafka UI #Project#](https://github.com/provectus/kafka-ui): UI for Apache Kafka is a free, open-source web UI to monitor and manage Apache Kafka clusters.
+- [2021-Kafka UI ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/provectus/kafka-ui): UI for Apache Kafka is a free, open-source web UI to monitor and manage Apache Kafka clusters.

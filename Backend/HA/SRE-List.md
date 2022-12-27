@@ -14,7 +14,7 @@
 
 - [2019-大规模微服务单元化与高可用设计](https://mp.weixin.qq.com/s/5ovOHoI4gZqokez672wriQ): 为了满足以上的要求，这个系统绝不是运维组努力一把，或者开发组努力一把，就能解决的，是一个端到端的，各个部门共同完成的一个目标，所以我们常称为战略设计。
 
-- [2020-School of SRE #Course#](https://github.com/linkedin/school-of-sre): At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
+- [2020-School of SRE 🏫](https://github.com/linkedin/school-of-sre): At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
 
 ## Case Study
 
@@ -24,13 +24,13 @@
 
 ## Book
 
-- [2018-Google Site Reliability Engineering #Book#](https://landing.google.com/sre/sre-book/chapters/foreword/): This book shows a willingness to let SRE thinking come out of the shadows.
+- [2018-Google Site Reliability Engineering 📚](https://landing.google.com/sre/sre-book/chapters/foreword/): This book shows a willingness to let SRE thinking come out of the shadows.
 
-- [2020-Building Secure & Reliable Systems #Book#](https://static.googleusercontent.com/media/landing.google.com/zh-CN//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf): Best Practices for Designing, Implementing and Maintaining Systems.
+- [2020-Building Secure & Reliable Systems 📚](https://static.googleusercontent.com/media/landing.google.com/zh-CN//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf): Best Practices for Designing, Implementing and Maintaining Systems.
 
 ## Collection
 
-- [howtheysre #Project#](https://github.com/upgundecha/howtheysre): A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE).
+- [howtheysre ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/upgundecha/howtheysre): A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE).
 
 # Tutorial
 
@@ -40,4 +40,4 @@
 
 ## Incidents Management
 
-- [Dispatch #Project#](https://github.com/Netflix/dispatch): All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
+- [Dispatch ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Netflix/dispatch): All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!

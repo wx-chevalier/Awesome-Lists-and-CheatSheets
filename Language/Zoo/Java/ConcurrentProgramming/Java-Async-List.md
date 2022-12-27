@@ -14,7 +14,7 @@
 
 - [howdy-rxjava](https://medium.com/fuzz/howdy-rxjava-8f40fef88181#.hzvemavv6)
 
-- [2017-Awesome RxJava #Collection#](https://github.com/lzyzsd/Awesome-RxJava): RxJava resources.
+- [2017-Awesome RxJava 🗃️](https://github.com/lzyzsd/Awesome-RxJava): RxJava resources.
 
 - [Effective RxJava](https://github.com/mgp/effective-rxjava):一系列基于 RxJava 最佳实践的文章
 

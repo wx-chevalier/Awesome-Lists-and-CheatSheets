@@ -10,7 +10,7 @@
 
 - [2017-How JavaScript works: A comparison with WebAssembly + why in certain cases it’s better to use it over JavaScript](https://parg.co/Uua)
 
-- [2016-awesome-wasm #Project#](https://github.com/mbasso/awesome-wasm/blob/master/README.md): Collection of awesome things regarding WebAssembly (wasm) ecosystem.
+- [2016-awesome-wasm ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/mbasso/awesome-wasm/blob/master/README.md): Collection of awesome things regarding WebAssembly (wasm) ecosystem.
 
 - [2017-A cartoon intro to WebAssembly](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/): WebAssembly is fast. You’ve probably heard this. But what is it that makes WebAssembly fast? In this series, I want to explain to you why WebAssembly is fast.
 
@@ -70,4 +70,4 @@
 
 - [2017-Understanding WebAssembly text format](https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format): To enable WebAssembly to be read and edited by humans, there is a textual representation of the wasm binary format. This is an intermediate form designed to exposed in text editors, browser developer tools, etc. This article explains how that text format works, in terms of the raw syntax, and how it is related to the underlying bytecode it represents — and the wrapper objects representing wasm in JavaScript.
 
-- [2018-Asmble #Project#](https://github.com/cretz/asmble): Asmble is a compiler that compiles WebAssembly code to JVM bytecode. It also contains utilities for working with WASM code from the command line and from JVM languages.
+- [2018-Asmble ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/cretz/asmble): Asmble is a compiler that compiles WebAssembly code to JVM bytecode. It also contains utilities for working with WASM code from the command line and from JVM languages.

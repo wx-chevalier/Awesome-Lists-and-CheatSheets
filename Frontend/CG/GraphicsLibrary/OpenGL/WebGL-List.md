@@ -16,4 +16,4 @@
 
 # OpenSource
 
-- [Hilo3d #Project#](https://github.com/hiloteam/Hilo3d): 🎮 A 3D WebGL Rendering Engine developed by Alibaba Group
+- [Hilo3d ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/hiloteam/Hilo3d): 🎮 A 3D WebGL Rendering Engine developed by Alibaba Group

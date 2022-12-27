@@ -24,7 +24,7 @@
 
 ## Book
 
-- [2017-Chaos Engineering #Book#](https://learning.oreilly.com/library/view/chaos-engineering/9781491988459/): By introducing controlled experiments, you’ll learn how emergent behavior from component interactions can cause your system to drift into an unsafe, chaotic state.
+- [2017-Chaos Engineering 📚](https://learning.oreilly.com/library/view/chaos-engineering/9781491988459/): By introducing controlled experiments, you’ll learn how emergent behavior from component interactions can cause your system to drift into an unsafe, chaotic state.
 
 - [2019-DevOps Interview Questions](https://github.com/bregman-arie/devops-interview-questions): Linux, Jenkins, AWS, Network, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP.
 
@@ -32,4 +32,4 @@
 
 - [2020-DevOps Questions & Exercises](https://github.com/bregman-arie/devops-exercises): Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
 
-- [2021-90DaysOfDevOps #Collection# ![star](https://img.shields.io/github/stars/MichaelCade/90DaysOfDevOps)](https://github.com/MichaelCade/90DaysOfDevOps): This repository is used to document my journey on getting a better foundational knowledge of "DevOps". I will be starting this journey on the 1st January 2022 but the idea is that we take 90 days which just so happens to be January 1st to March 31st.
+- [2021-90DaysOfDevOps 🗃️ ![star](https://img.shields.io/github/stars/MichaelCade/90DaysOfDevOps)](https://github.com/MichaelCade/90DaysOfDevOps): This repository is used to document my journey on getting a better foundational knowledge of "DevOps". I will be starting this journey on the 1st January 2022 but the idea is that we take 90 days which just so happens to be January 1st to March 31st.

@@ -10,27 +10,27 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 ## Book
 
-- [2016-React In-depth: An exploration of UI development #Book#](https://www.gitbook.com/book/developmentarc/react-indepth/details):Our goal with this GitBook is to document our process, share our research and try to organize our experiences into a single living document. Too be honest, this is a pretty lofty goal. We may not achieve this goal, but hopefully we can get some helpful thoughts down.
+- [2016-React In-depth: An exploration of UI development 📚](https://www.gitbook.com/book/developmentarc/react-indepth/details):Our goal with this GitBook is to document our process, share our research and try to organize our experiences into a single living document. Too be honest, this is a pretty lofty goal. We may not achieve this goal, but hopefully we can get some helpful thoughts down.
 
-- [2016-SurviveJS - React #Book#](https://github.com/survivejs/react-book): This book shows you how to build a little Kanban application using React. During the process you will learn the basics and will be able to take the skills to your own projects.
+- [2016-SurviveJS - React 📚](https://github.com/survivejs/react-book): This book shows you how to build a little Kanban application using React. During the process you will learn the basics and will be able to take the skills to your own projects.
 
-- [2017-React Bits #Book#](https://github.com/vasanthk/react-bits): A compilation of React Patterns, techniques, tips and tricks.
+- [2017-React Bits 📚](https://github.com/vasanthk/react-bits): A compilation of React Patterns, techniques, tips and tricks.
 
-- [2017-Learning React, 1st Edition #Book#](https://www.safaribooksonline.com/library/view/learning-react-1st/9781491954614/): If you want to learn how to build efficient user interfaces with React, this is your book. Authors Alex Banks and Eve Porcello show you how to create UIs with this small JavaScript library that can deftly display data changes on large-scale, data-driven websites without page reloads. Along the way, you’ll learn how to work with functional programming and the latest ECMAScript features.
+- [2017-Learning React, 1st Edition 📚](https://www.safaribooksonline.com/library/view/learning-react-1st/9781491954614/): If you want to learn how to build efficient user interfaces with React, this is your book. Authors Alex Banks and Eve Porcello show you how to create UIs with this small JavaScript library that can deftly display data changes on large-scale, data-driven websites without page reloads. Along the way, you’ll learn how to work with functional programming and the latest ECMAScript features.
 
-- [2017-Mastering Full-Stack React Web Development #Book#](https://www.safaribooksonline.com/library/view/mastering-full-stack-react/9781786461766/): Learn how to create dynamic full-stack applications with ReactJS and other leading JavaScript tools – smarter web development starts here.
+- [2017-Mastering Full-Stack React Web Development 📚](https://www.safaribooksonline.com/library/view/mastering-full-stack-react/9781786461766/): Learn how to create dynamic full-stack applications with ReactJS and other leading JavaScript tools – smarter web development starts here.
 
-- [2017-React Design Patterns and Best Practices #Book#](https://www.safaribooksonline.com/library/view/react-design-patterns/9781786464538/): Build modular applications that are easy to scale using the most powerful components and design patterns that React can offer you right now About This Book.
+- [2017-React Design Patterns and Best Practices 📚](https://www.safaribooksonline.com/library/view/react-design-patterns/9781786464538/): Build modular applications that are easy to scale using the most powerful components and design patterns that React can offer you right now About This Book.
 
 - [2017-React Express #Series#](https://github.com/dabbott/react-express): The all-in-one beginner's guide to modern React application development!
 
-- [2017-React and React Native #Book#](https://parg.co/beh): Use React and React Native to build applications for desktop browsers, mobile browsers, and even as native mobile apps.
+- [2017-React and React Native 📚](https://parg.co/beh): Use React and React Native to build applications for desktop browsers, mobile browsers, and even as native mobile apps.
 
-- [2018-React in patterns #Book#](https://legacy.gitbook.com/book/krasimir/react-in-patterns/details): A book about common design patterns used while developing with React. It includes techniques for composition, data flow, dependency management and more.
+- [2018-React in patterns 📚](https://legacy.gitbook.com/book/krasimir/react-in-patterns/details): A book about common design patterns used while developing with React. It includes techniques for composition, data flow, dependency management and more.
 
-- [2018-React From Zero #Book#](https://github.com/kay-is/react-from-zero): Everything runs in the browser without a manual pre-compilation.
+- [2018-React From Zero 📚](https://github.com/kay-is/react-from-zero): Everything runs in the browser without a manual pre-compilation.
 
-- [2020-react-book #Book#](https://github.com/softchris/react-book): Book covering fundamentals on React.
+- [2020-react-book 📚](https://github.com/softchris/react-book): Book covering fundamentals on React.
 
 ## Concept | 概念阐述
 
@@ -70,21 +70,21 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 - [2017-learncodeacademy/react-js-tutorials](https://github.com/learncodeacademy/react-js-tutorials): Code that goes along with my YouTube React JS Series.
 
-- [2018-React 从入门到精通 #Course#](https://github.com/supnate/react-geek-time): 极客时间：React 从入门到精通。
+- [2018-React 从入门到精通 🏫](https://github.com/supnate/react-geek-time): 极客时间：React 从入门到精通。
 
-- [2020-30 Days of React #Course#](https://github.com/Asabeneh/30-Days-Of-React): 30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of Java…
+- [2020-30 Days of React 🏫](https://github.com/Asabeneh/30-Days-Of-React): 30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of Java…
 
-- [2020-Advanced-React #Course#](https://github.com/wesbos/Advanced-React): Starter Files and Solutions for Full Stack Advanced React and GraphQL
+- [2020-Advanced-React 🏫](https://github.com/wesbos/Advanced-React): Starter Files and Solutions for Full Stack Advanced React and GraphQL
 
-- [2021-react-fundamentals #Project# ![star](https://img.shields.io/github/stars/kentcdodds/react-fundamentals)](https://github.com/kentcdodds/react-fundamentals): Learn everything you need to be effective with the fundamental building block of React applications. When you're finished, you'll be prepared to create React components to build excellent experiences for your app's users.
+- [2021-react-fundamentals ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/kentcdodds/react-fundamentals)](https://github.com/kentcdodds/react-fundamentals): Learn everything you need to be effective with the fundamental building block of React applications. When you're finished, you'll be prepared to create React components to build excellent experiences for your app's users.
 
 ## Collection | 集合
 
-- [Awesome-React #Collection#](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem.
+- [Awesome-React 🗃️](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem.
 
-- [React/ReduxList #Collection#](https://github.com/markerikson/react-redux-links): Curated tutorial and resource links I've collected on React, Redux, ES6, and more
+- [React/ReduxList 🗃️](https://github.com/markerikson/react-redux-links): Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 
-- [Using forms in React-Redux: Tips And Tricks #Collection#](https://medium.com/@royisch/using-forms-in-react-redux-tips-and-tricks-48ad9c7522f6#.krt2lrdhw)
+- [Using forms in React-Redux: Tips And Tricks 🗃️](https://medium.com/@royisch/using-forms-in-react-redux-tips-and-tricks-48ad9c7522f6#.krt2lrdhw)
 
 ## Series
 
