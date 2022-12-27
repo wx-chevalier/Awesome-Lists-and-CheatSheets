@@ -1,27 +1,5 @@
 # Awesome Geometry（Polygon & Mesh） Process List
 
-- https://github.com/timknip/mesh-decimate
-
-- https://github.com/MyMiniFactory/CharacterCreator
-
-- https://github.com/MyMiniFactory/Fast-Quadric-Mesh-Simplification
-
-- https://github.com/MyMiniFactory/3DPrintingMeshRepair
-
-- https://github.com/MyMiniFactory/pluggable-threesixty-renderer
-
-- https://github.com/MyMiniFactory/pluggable-simplifier
-
-- Bounding Box: https://stackoverflow.com/questions/50919228/three-js-bigger-bounding-box-after-rotation
-
-- [WeChat-MiniProgram-AR-3D](https://github.com/sanyuered/WeChat-MiniProgram-AR-3D)
-
-- [egjs-view3d ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/naver/egjs-view3d): Fast & customizable 3D model viewer for everyone
-
-- [pytorch3d](https://github.com/facebookresearch/pytorch3d): PyTorch3D provides efficient, reusable components for 3D Computer Vision research with PyTorch.
-
-- [UVtools](https://github.com/Unionfab/UVtools): MSLA/DLP, file analysis, calibration, repair, conversion and manipulation.
-
 # Projects
 
 ## 多边形处理软件 | GUI Software
@@ -32,6 +10,8 @@
 
 - [OpenFlipper ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://www.graphics.rwth-aachen.de/software/openflipper/intro/): OpenFlipper is an OpenSource multi-platform application and programming framework designed for processing, modeling and rendering of geometric data.
 
+- [UVtools ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Unionfab/UVtools): MSLA/DLP, file analysis, calibration, repair, conversion and manipulation.
+
 ## 3D Viewer
 
 - [2016-mayo ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/fougue/mayo)](https://github.com/fougue/mayo): 3D CAD viewer and converter based on Qt + OpenCascade.
@@ -41,6 +21,8 @@
 - [2021-foxtrot](https://github.com/Formlabs/foxtrot): A fast, experimental STEP file viewer
 
 - [2021-f3d ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/f3d-app/f3d)](https://github.com/f3d-app/f3d): F3D (pronounced `/fɛd/`) is a fast and minimalist 3D viewer. It supports many file formats, from digital content to scientific datasets (including glTF, STL, STEP, PLY, OBJ, FBX, Alembic), can show animations and support lot of rendering and texturing options including real time physically based rendering and raytracing.
+
+- [2022-egjs-view3d ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/naver/egjs-view3d): Fast & customizable 3D model viewer for everyone
 
 ## 3D Editor
 
@@ -106,6 +88,8 @@
 
 ## I/O | 格式转换
 
+- [2010-OpenCTM #Project#](https://openctm.sourceforge.net/?page=about): OpenCTM is primarily a file format for storing 3D triangle meshes in a compact yet versatile format. In order to make it easy for software developers and 3D designers to support the format, an easy to use software library is provided that can read and write OpenCTM format files.
+
 - [2019-Draco ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/google/draco)](https://github.com/google/draco): Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
 
 - [2019-meshio ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/nschloe/meshio)](https://github.com/nschloe/meshio): There are various mesh formats available for representing unstructured meshes. meshio can read and write all of the following and smoothly converts between them.
@@ -164,13 +148,21 @@
 
 - [2020-ParallelQSlim ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/Zielon/ParallelQSlim)](https://github.com/Zielon/ParallelQSlim): Shape aware parallel mesh simplification algorithm.
 
+- https://github.com/timknip/mesh-decimate
+
+- https://github.com/MyMiniFactory/Fast-Quadric-Mesh-Simplification
+
 # 3DP CAM | 3D 打印前处理
 
-- [Cura ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Ultimaker/Cura): 3D printer / slicing GUI built on top of the Uranium framework
+- [2010-Cura ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Ultimaker/Cura): 3D printer / slicing GUI built on top of the Uranium framework
 
-- [PrusaSlicer ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/prusa3d/PrusaSlicer): PrusaSlicer takes 3D models (STL, OBJ, AMF) and converts them into G-code instructions for FFF printers or PNG layers for mSLA 3D printers. It's compatible with any modern printer based on the RepRap toolchain, including all those based on the Marlin, Prusa, Sprinter and Repetier firmware. It also works with Mach3, LinuxCNC and Machinekit controllers.
+- [2020-PrusaSlicer ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/prusa3d/PrusaSlicer): PrusaSlicer takes 3D models (STL, OBJ, AMF) and converts them into G-code instructions for FFF printers or PNG layers for mSLA 3D printers. It's compatible with any modern printer based on the RepRap toolchain, including all those based on the Marlin, Prusa, Sprinter and Repetier firmware. It also works with Mach3, LinuxCNC and Machinekit controllers.
+
+- [2022-PySLM ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/drlukeparry/pyslm)](https://github.com/drlukeparry/pyslm): PySLM is a Python library for supporting development of input files used in Additive Manufacturing or 3D Printing, in particular Selective Laser Melting (SLM), Direct Metal Laser Sintering (DMLS) platforms typically used in both academia and industry. The core capabilities aim to include slicing, hatching and support generation and providing an interface to the binary build file formats available for platforms. The library is built of core classes which may provide the basic functionality to generate the scan vectors used on systems and also be used as building blocks to prototype and develop new algorithms.
 
 ## Repair
+
+- https://github.com/MyMiniFactory/3DPrintingMeshRepair
 
 - [2020-Houdini-Plugin-For-Mesh-Reparation ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/Ozeuth/Houdini-Plugin-For-Mesh-Reparation)](https://github.com/Ozeuth/Houdini-Plugin-For-Mesh-Reparation): Implementation of mesh reparation and hole-filling. Created as part of Unity Technologies research, continued in Imperial College FYP.
 
@@ -195,6 +187,8 @@
 - [2020-STLTally ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/DrMcCoy/STLTally)](https://github.com/DrMcCoy/STLTally): A simple STL volume and print time adder
 
 ## Slice | 切片
+
+- [2015-SLAcer.js ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/skarab42/SLAcer.js)](https://github.com/skarab42/SLAcer.js): SLA slicer in your browser.
 
 - [2015-fogleman/slicer ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/fogleman/slicer)](https://github.com/fogleman/slicer): Fast 3D mesh slicer written in Go. Writes slices to grayscale PNG files.
 
