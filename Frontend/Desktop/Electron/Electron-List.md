@@ -6,7 +6,7 @@
 
 - [2017-Improving Startup Time](http://blog.atom.io/2017/04/18/improving-startup-time.html): Over the last months, the Atom team has been working hard on improving one of the aspects of the editor our users care about the most: startup time.
 
-- [Nativefier ![code](https://shorturl.at/dlxyK)](https://github.com/jiahaog/nativefier): Make any web page a desktop application
+- [Nativefier ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/jiahaog/nativefier): Make any web page a desktop application
 
 - [Quick and painless automatic updates in Electron](https://i.postimg.cc/KvQbty96/image.png): Here, I will guide you through a quick process to setup an auto-updater, using GitHub as a host.
 
@@ -14,7 +14,7 @@
 
 - [Bringing Native Performance to Electron](https://blog.realm.io/native-performance-electron-realm/)
 
-- [Electron Toolkit ![code](https://shorturl.at/dlxyK)](https://github.com/PhilippLgh/electron-toolkit): "Command Line Gui Tools" to make launching Electron apps easier, faster and fun
+- [Electron Toolkit ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/PhilippLgh/electron-toolkit): "Command Line Gui Tools" to make launching Electron apps easier, faster and fun
 
 - [The Basics of Building a Cross-Platform Desktop Application with Electron](https://parg.co/UVf).
 

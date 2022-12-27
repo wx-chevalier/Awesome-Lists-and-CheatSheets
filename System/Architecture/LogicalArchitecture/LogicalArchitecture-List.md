@@ -84,4 +84,4 @@
 
 # OpenSource
 
-- [C4-PlantUML ![code](https://shorturl.at/dlxyK)](https://github.com/plantuml-stdlib/C4-PlantUML): C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures.
+- [C4-PlantUML ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/plantuml-stdlib/C4-PlantUML): C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures.

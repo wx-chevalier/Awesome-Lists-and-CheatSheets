@@ -99,7 +99,7 @@ UI 设计的主要工作都包括进去了，如果能够将这三本书很好�
 
 - [一条视频告诉你：排版的重要性](https://video.h5.weibo.cn/1034:4504897031176213/4504907011729857)
 
-- [赫蹏 ![code](https://shorturl.at/dlxyK)](https://github.com/sivan/heti): 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+- [赫蹏 ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/sivan/heti): 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
 # Enterprise Design（商业设计）
 

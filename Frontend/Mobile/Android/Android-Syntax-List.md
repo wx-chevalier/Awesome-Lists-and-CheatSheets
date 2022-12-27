@@ -1,6 +1,6 @@
 # Android 功能语法资料索引
 
-- [easydeviceinfo ![code](https://shorturl.at/dlxyK)](https://github.com/nisrulz/easydeviceinfo)
+- [easydeviceinfo ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/nisrulz/easydeviceinfo)
 
 - [Android 推送技术研究](http://www.jianshu.com/p/584707554ed7)
 
@@ -8,7 +8,7 @@
 
 - [Sensey](https://github.com/nisrulz/sensey):Android library to make detecting gestures easy
 
-- [Paper-Onboarding ![code](https://shorturl.at/dlxyK)](https://github.com/Ramotion/paper-onboarding)
+- [Paper-Onboarding ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Ramotion/paper-onboarding)
 
 ## 事件处理
 

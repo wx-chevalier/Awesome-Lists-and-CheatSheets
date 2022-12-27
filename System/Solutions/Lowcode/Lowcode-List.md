@@ -14,7 +14,7 @@
 
 ## Component Specification
 
-- [2019-WeComponents ![code](https://shorturl.at/dlxyK)](https://github.com/Tencent/WeComponents): WeComponents 是一个基于通用组件语言规范 (CLS) 实现的 Vue.js 声明式组件库，写完 JSON 就做好了页面，让开发变得简单。
+- [2019-WeComponents ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Tencent/WeComponents): WeComponents 是一个基于通用组件语言规范 (CLS) 实现的 Vue.js 声明式组件库，写完 JSON 就做好了页面，让开发变得简单。
 
 # 可视化搭建
 

@@ -16,4 +16,4 @@
 
 # Compression
 
-- [Zstandard ![code](https://shorturl.at/dlxyK)](http://facebook.github.io/zstd/): Zstandard is a real-time compression algorithm, providing high compression ratios.
+- [Zstandard ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](http://facebook.github.io/zstd/): Zstandard is a real-time compression algorithm, providing high compression ratios.

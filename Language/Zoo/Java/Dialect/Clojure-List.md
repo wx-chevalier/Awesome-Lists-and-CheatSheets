@@ -2,4 +2,4 @@
 
 # OpenSource
 
-- [Maria ![code](https://shorturl.at/dlxyK)](https://www.maria.cloud/): A ClojureScript coding environment for beginners
+- [Maria ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://www.maria.cloud/): A ClojureScript coding environment for beginners

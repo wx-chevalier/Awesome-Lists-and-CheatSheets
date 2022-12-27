@@ -40,13 +40,13 @@
 
 - [Keep webpack Fast: A Field Guide for Better Build Performance](https://parg.co/UkI): This post is a field guide offering up what we learned on our path towards a faster build.
 
-- [HappyPack ![code](https://shorturl.at/dlxyK)](https://github.com/amireh/happypack): HappyPack makes webpack builds faster by allowing you to transform multiple files in parallel.
+- [HappyPack ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/amireh/happypack): HappyPack makes webpack builds faster by allowing you to transform multiple files in parallel.
 
-- [AutoDllPlugin ![code](https://shorturl.at/dlxyK)](https://parg.co/Uka): Webpack's DllPlugin without the boilerplate.
+- [AutoDllPlugin ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://parg.co/Uka): Webpack's DllPlugin without the boilerplate.
 
-- [HardSourceWebpackPlugin ![code](https://shorturl.at/dlxyK)](https://parg.co/Uk1): HardSourceWebpackPlugin is a plugin for webpack to provide an intermediate caching step for modules.
+- [HardSourceWebpackPlugin ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://parg.co/Uk1): HardSourceWebpackPlugin is a plugin for webpack to provide an intermediate caching step for modules.
 
-- [parallel-webpack ![code](https://shorturl.at/dlxyK)](https://parg.co/UkW): Builds multi-config webpack projects in parallel.
+- [parallel-webpack ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://parg.co/UkW): Builds multi-config webpack projects in parallel.
 
 # Production | 发布到生产环境
 
@@ -72,17 +72,17 @@
 
 # OpenSource
 
-- [2018-size-plugin ![code](https://shorturl.at/dlxyK)](https://github.com/GoogleChromeLabs/size-plugin): Prints the gzipped sizes of your webpack assets and the changes since the last build.
+- [2018-size-plugin ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/GoogleChromeLabs/size-plugin): Prints the gzipped sizes of your webpack assets and the changes since the last build.
 
 ## 监控
 
-- [Webpack Dashboard ![code](https://shorturl.at/dlxyK)](https://github.com/FormidableLabs/webpack-dashboard): A CLI dashboard for webpack dev server. 如果是 Windows 下的开发者可以优先使用 [electron-webpack-dashboard](https://github.com/FormidableLabs/electron-webpack-dashboard)
+- [Webpack Dashboard ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/FormidableLabs/webpack-dashboard): A CLI dashboard for webpack dev server. 如果是 Windows 下的开发者可以优先使用 [electron-webpack-dashboard](https://github.com/FormidableLabs/electron-webpack-dashboard)
 
-- [Webpack Monitor ![code](https://shorturl.at/dlxyK)](https://github.com/webpackmonitor/webpackmonitor): A tool for monitoring webpack optimization metrics through the development process
+- [Webpack Monitor ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/webpackmonitor/webpackmonitor): A tool for monitoring webpack optimization metrics through the development process
 
-- [JARVIS ![code](https://shorturl.at/dlxyK)](https://github.com/zouhir/jarvis): J.A.R.V.I.S. (Just A Rather Very Intelligent System) will put in your browser all the relevant information you need from your webpack build whether in dev or in prod.
+- [JARVIS ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/zouhir/jarvis): J.A.R.V.I.S. (Just A Rather Very Intelligent System) will put in your browser all the relevant information you need from your webpack build whether in dev or in prod.
 
-- [Webpack Bundle Analyzer ![code](https://shorturl.at/dlxyK) ](https://github.com/th0r/webpack-bundle-analyzer): Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
+- [Webpack Bundle Analyzer ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ](https://github.com/th0r/webpack-bundle-analyzer): Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 
 ## 应用优化
 

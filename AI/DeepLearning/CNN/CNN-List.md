@@ -10,4 +10,4 @@
 
 - [2018-A NumPy implementation of the famed Convolutional Neural Network](https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1?source=userActivityShare-fe48c4221a4c-1531311925): one of the most influential neural network architectures to date.
 
-- [2020-CNN Explainer ![code](https://shorturl.at/dlxyK)](https://github.com/poloclub/cnn-explainer): Learning Convolutional Neural Networks with Interactive Visualization.
+- [2020-CNN Explainer ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/poloclub/cnn-explainer): Learning Convolutional Neural Networks with Interactive Visualization.

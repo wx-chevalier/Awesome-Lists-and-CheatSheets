@@ -12,7 +12,7 @@
 
 # Profile
 
-- [go-profiler-notes ![code](https://shorturl.at/dlxyK)](https://github.com/DataDog/go-profiler-notes): I found that Go has a lot of profilers and there are many tools for looking at the data, but that there is very little information on what any of it means. So in order to make sure that I know what I'm talking about, I've started to research the existing profilers and how they work. This repository is my attempt to summarize my findings in the hope that it might be useful to others.
+- [go-profiler-notes ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/DataDog/go-profiler-notes): I found that Go has a lot of profilers and there are many tools for looking at the data, but that there is very little information on what any of it means. So in order to make sure that I know what I'm talking about, I've started to research the existing profilers and how they work. This repository is my attempt to summarize my findings in the hope that it might be useful to others.
 
 # Style Guide
 

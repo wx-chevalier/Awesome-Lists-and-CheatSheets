@@ -16,7 +16,7 @@
 
 - [Awesome TypeScript 🗃️](https://github.com/dzharii/awesome-typescript): A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the awesome lists.
 
-- [Design Patterns in TypeScript ![code](https://shorturl.at/dlxyK)](https://parg.co/Ui8): Here are the implementations of the following design patterns in TypeScript.
+- [Design Patterns in TypeScript ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://parg.co/Ui8): Here are the implementations of the following design patterns in TypeScript.
 
 # Tutorial
 
@@ -34,12 +34,12 @@
 
 - [2021-10 bad TypeScript habits to break this year](https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/): TypeScript and JavaScript have steadily evolved over the last years, and some of the habits we built over the last decades have become obsolete. Some might never have been meaningful. Here's a list of 10 habits that we all should break.
 
-- [2022-beginners-typescript ![code](https://shorturl.at/dlxyK)](https://github.com/total-typescript/beginners-typescript-tutorial): An interactive TypeScript tutorial for beginners.
+- [2022-beginners-typescript ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/total-typescript/beginners-typescript-tutorial): An interactive TypeScript tutorial for beginners.
 
 ## Advanced Types
 
-- [type-challenges ![code](https://shorturl.at/dlxyK)](https://github.com/type-challenges/type-challenges): Collection of TypeScript type challenges with online judge.
+- [type-challenges ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/type-challenges/type-challenges): Collection of TypeScript type challenges with online judge.
 
-- [TDungeon ![code](https://shorturl.at/dlxyK)](https://github.com/cassiozen/TDungeon): TDungeon is a small adventure game that runs in the Typescript type system
+- [TDungeon ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/cassiozen/TDungeon): TDungeon is a small adventure game that runs in the Typescript type system
 
 - [TS Patterns](https://github.com/total-typescript/advanced-patterns-workshop): An interactive TypeScript repo on advanced patterns (WIP)

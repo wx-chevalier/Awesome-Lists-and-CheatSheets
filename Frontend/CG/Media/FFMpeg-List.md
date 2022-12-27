@@ -6,7 +6,7 @@
 
 # OpenSource
 
-- [2019-ffmpeg.wasm ![code](https://shorturl.at/dlxyK)](https://ffmpegwasm.github.io/): ffmpeg.wasm is a pure WebAssembly/JavaScript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
+- [2019-ffmpeg.wasm ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://ffmpegwasm.github.io/): ffmpeg.wasm is a pure WebAssembly/JavaScript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
 
 - [Learn FFmpeg libav the Hard Way](https://parg.co/UkX): I was looking for a tutorial/book that would teach me how to start to use FFmpeg as a library (a.k.a. libav) and then I found the "How to write a video player in less than 1k lines" tutorial. Unfortunately it was deprecated, so I decided to write this one.
 

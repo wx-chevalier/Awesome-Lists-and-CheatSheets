@@ -66,7 +66,7 @@ This file aggregates curated popular links for learning GraphQL. More reference 
 
 - [2018-GraphQL: Everything You Need to Know](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8): The purpose of this article is to highlight the major features associated with GraphQL along with discussing the significant pros and cons associated with this particular API specification.
 
-- [Launchpad ![code](https://shorturl.at/dlxyK)](https://github.com/apollographql/launchpad): Launchpad is an in-browser GraphQL server playground. You can write a GraphQL schema example in JavaScript, and instantly create a serverless, publicly-accessible GraphQL endpoint. We call these code snippets that live on Launchpad “pads”.
+- [Launchpad ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/apollographql/launchpad): Launchpad is an in-browser GraphQL server playground. You can write a GraphQL schema example in JavaScript, and instantly create a serverless, publicly-accessible GraphQL endpoint. We call these code snippets that live on Launchpad “pads”.
 
 # Schema
 

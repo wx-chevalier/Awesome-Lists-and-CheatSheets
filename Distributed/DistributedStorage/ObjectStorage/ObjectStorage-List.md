@@ -2,7 +2,7 @@
 
 # Case Study
 
-- [haystack ![code](https://shorturl.at/dlxyK)](https://github.com/hackeryoung/haystack): Facebook Haystack Implementation.
+- [haystack ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/hackeryoung/haystack): Facebook Haystack Implementation.
 
 - [bfs: 支撑 Bilibili 的小文件存储系统](https://parg.co/RWU): bfs 是为了在 B 站遇到的一个急需解决的小问题开发的项目。
 

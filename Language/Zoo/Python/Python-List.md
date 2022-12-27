@@ -14,7 +14,7 @@
 
 - [Python Cheat Sheet](https://github.com/juliangaal/python-cheat-sheet): This rep is a growing list of Python cheat sheets, tailored for Data Science.
 
-- [Python cheatsheet ![code](https://shorturl.at/dlxyK)](https://www.pythonsheets.com/): This project tries to provide a lot of piece of Python code that makes life easier.
+- [Python cheatsheet ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://www.pythonsheets.com/): This project tries to provide a lot of piece of Python code that makes life easier.
 
 - [2017-Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567): “high-level programming language, and its core design philosophy is all about code readability and a syntax which allows programmers to express concepts in a few lines of code.”
 

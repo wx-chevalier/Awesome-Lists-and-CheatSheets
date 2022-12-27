@@ -74,9 +74,9 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 - [2017-Embracing the power of styled-components](https://parg.co/bID): What we learned in the first week moving away from CSS Modules.
 
-- [2017-styled-media-query ![code](https://shorturl.at/dlxyK) ](https://github.com/morajabi/styled-media-query): Beautiful media queries better than CSS @media for styled-components with ability to specify custom breakpoints.
+- [2017-styled-media-query ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ](https://github.com/morajabi/styled-media-query): Beautiful media queries better than CSS @media for styled-components with ability to specify custom breakpoints.
 
-- [2017-Jest Styled Components ![code](https://shorturl.at/dlxyK) ](https://parg.co/b1D): A set of utilities for testing Styled Components with Jest. This package improves the snapshot testing experience and provides a brand new matcher to make expectations on the style rules.
+- [2017-Jest Styled Components ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ](https://parg.co/b1D): A set of utilities for testing Styled Components with Jest. This package improves the snapshot testing experience and provides a brand new matcher to make expectations on the style rules.
 
 - [2017-Quick Tip: How to Style React Components with styled-components](https://www.sitepoint.com/style-react-components-styled-components/)
 

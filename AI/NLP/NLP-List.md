@@ -12,7 +12,7 @@
 
 - [2017-Learning AI if You Suck at Math — P7 — The Magic of Natural Language Processing](https://parg.co/bR4)
 
-- [2020-nlp_overview ![code](https://shorturl.at/dlxyK)](https://github.com/omarsar/nlp_overview): Overview of Modern Deep Learning Techniques Applied to Natural Language Processing.
+- [2020-nlp_overview ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/omarsar/nlp_overview): Overview of Modern Deep Learning Techniques Applied to Natural Language Processing.
 
 ## Summary | 综述
 

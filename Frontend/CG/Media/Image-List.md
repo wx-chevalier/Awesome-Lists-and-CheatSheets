@@ -6,4 +6,4 @@
 
 # OpenSource
 
-- [Photon ![code](https://shorturl.at/dlxyK)](https://github.com/silvia-odwyer/photon): High-performance, cross-platform Rust/WebAssembly image processing library.
+- [Photon ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/silvia-odwyer/photon): High-performance, cross-platform Rust/WebAssembly image processing library.

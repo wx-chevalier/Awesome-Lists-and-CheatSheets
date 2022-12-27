@@ -2,7 +2,7 @@
 
 # Application Server
 
-- [2017-OpenLiberty ![code](https://shorturl.at/dlxyK)](https://github.com/OpenLiberty/open-liberty): Open Liberty is a highly composable, fast to start, dynamic application server runtime environment.
+- [2017-OpenLiberty ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/OpenLiberty/open-liberty): Open Liberty is a highly composable, fast to start, dynamic application server runtime environment.
 
 # Spark
 

@@ -6,4 +6,4 @@
 
 - [NanoNets](https://medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab#.wv6o4ysyf): NanoNets : How to use Deep Learning when you have Limited Data
 
-- [gym ![code](https://shorturl.at/dlxyK)](https://github.com/openai/gym)
+- [gym ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/openai/gym)

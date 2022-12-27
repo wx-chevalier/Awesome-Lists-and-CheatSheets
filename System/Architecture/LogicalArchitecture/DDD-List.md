@@ -16,7 +16,7 @@
 
 ## Collection
 
-- [ddd-by-examples ![code](https://shorturl.at/dlxyK)](https://github.com/ddd-by-examples): A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
+- [ddd-by-examples ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/ddd-by-examples): A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
 
 ## Series
 
@@ -26,12 +26,12 @@
 
 ## Showcase
 
-- [2017-explicit-architecture-php ![code](https://shorturl.at/dlxyK)](https://github.com/hgraca/explicit-architecture-php): This repository is a demo of Explicit Architecture, using the Symfony Demo Application.
+- [2017-explicit-architecture-php ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/hgraca/explicit-architecture-php): This repository is a demo of Explicit Architecture, using the Symfony Demo Application.
 
-- [2019-Vlingo ![code](https://shorturl.at/dlxyK)](https://docs.vlingo.io/): The vlingo/PLATFORM was designed for building fluent domain models inside applications and services using a DDD mindset.
+- [2019-Vlingo ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://docs.vlingo.io/): The vlingo/PLATFORM was designed for building fluent domain models inside applications and services using a DDD mindset.
 
-- [2020-ContextMapper ![code](https://shorturl.at/dlxyK)](https://contextmapper.org/): ContextMapper is an open source project providing a Domain-specific Language and Tools for Strategic Domain-driven Design (DDD), Context Mapping, Bounded Context Modeling, and Service Decomposition.
+- [2020-ContextMapper ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://contextmapper.org/): ContextMapper is an open source project providing a Domain-specific Language and Tools for Strategic Domain-driven Design (DDD), Context Mapping, Bounded Context Modeling, and Service Decomposition.
 
-- [cp-ddd-framework ![code](https://shorturl.at/dlxyK)](https://github.com/funkygao/cp-ddd-framework): A lightweight development framework for complex business architecture！轻量级业务中台开发框架！
+- [cp-ddd-framework ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/funkygao/cp-ddd-framework): A lightweight development framework for complex business architecture！轻量级业务中台开发框架！
 
-- [2020-Domain-Driven Hexagon ![code](https://shorturl.at/dlxyK)](https://github.com/Sairyss/domain-driven-hexagon): Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
+- [2020-Domain-Driven Hexagon ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Sairyss/domain-driven-hexagon): Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.

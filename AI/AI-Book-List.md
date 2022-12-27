@@ -96,11 +96,11 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2019-动手学深度学习 📚](http://zh.gluon.ai/index.html#): 这是一本深度学习在线书，其使用 Apache MXNet 的最新 gluon 接口来演示如何从 0 开始实现深度学习的各个算法。作者利用 Jupyter notebook 能将文档、代码、公式和图形统一在一起的优势，提供了一个交互式的学习体验。
 
-- [2019-神经网络与深度学习 ![code](https://shorturl.at/dlxyK)](https://nndl.github.io): 本课程主要介绍神经网络与深度学习中的基础知识、主要模型（前馈网络、卷积网络、循环网络等）以及在计算机视觉、自然语言处理等领域的应用。
+- [2019-神经网络与深度学习 ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://nndl.github.io): 本课程主要介绍神经网络与深度学习中的基础知识、主要模型（前馈网络、卷积网络、循环网络等）以及在计算机视觉、自然语言处理等领域的应用。
 
 - [2020-Dive into Deep Learning (D2L.ai) 📚](https://github.com/d2l-ai/d2l-en): Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.
 
-- [2021-动手学习深度学习 ![code](https://shorturl.at/dlxyK)](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes): 《动手学习深度学习》是李沐老师（AWS 资深首席科学家，美国卡内基梅隆大学计算机系博士）主讲的一系列深度学习视频。本项目收集了我们在寒假期间学习《动手学习深度学习》过程中详细的 markdown 笔记和相关的 jupyter 代码。赠人玫瑰，手留余香，我们将所有的 markdown 笔记开源，希望在自己学习的同时，也对大家学习掌握李沐老师的《动手学习深度学习》有所帮助。
+- [2021-动手学习深度学习 ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes): 《动手学习深度学习》是李沐老师（AWS 资深首席科学家，美国卡内基梅隆大学计算机系博士）主讲的一系列深度学习视频。本项目收集了我们在寒假期间学习《动手学习深度学习》过程中详细的 markdown 笔记和相关的 jupyter 代码。赠人玫瑰，手留余香，我们将所有的 markdown 笔记开源，希望在自己学习的同时，也对大家学习掌握李沐老师的《动手学习深度学习》有所帮助。
 
 # NLP | 自然语言处理
 

@@ -8,7 +8,7 @@
 
 - [2018-Using Go as a scripting language in Linux](https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/)
 
-- [2018-Go web framework benchmark ![code](https://shorturl.at/dlxyK)](https://github.com/smallnest/go-web-framework-benchmark): This benchmark suite aims to compare the performance of Go web frameworks. It is inspired by Go HTTP Router Benchmark but this benchmark suite is different with that.
+- [2018-Go web framework benchmark ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/smallnest/go-web-framework-benchmark): This benchmark suite aims to compare the performance of Go web frameworks. It is inspired by Go HTTP Router Benchmark but this benchmark suite is different with that.
 
 - [2017-HTTP(S) Proxy in Golang in less than 100 lines of code](https://medium.com/@mlowicki/http-s-proxy-in-golang-in-less-than-100-lines-of-code-6a51c2f2c38c)
 

@@ -14,6 +14,6 @@
 
 # OpenSource
 
-- [2021-Prowler ![code](https://shorturl.at/dlxyK)](https://github.com/toniblyx/prowler): Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness.
+- [2021-Prowler ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/toniblyx/prowler): Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness.
 
-- [2021-LunaSec ![code](https://shorturl.at/dlxyK)](https://github.com/lunasec-io/lunasec): Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and RCE. Try it out live here: https://app.lunasec.dev
+- [2021-LunaSec ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/lunasec-io/lunasec): Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and RCE. Try it out live here: https://app.lunasec.dev

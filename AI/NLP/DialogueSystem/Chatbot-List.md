@@ -10,8 +10,8 @@
 
 # OpenSource
 
-- [go-cqhttp ![code](https://shorturl.at/dlxyK)](https://github.com/Mrs4s/go-cqhttp): go-cqhttp 兼容 OneBot-v11 绝大多数内容，并在其基础上做了一些扩展，详情请看 go-cqhttp 的文档。
+- [go-cqhttp ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Mrs4s/go-cqhttp): go-cqhttp 兼容 OneBot-v11 绝大多数内容，并在其基础上做了一些扩展，详情请看 go-cqhttp 的文档。
 
-- [OneBot ![code](https://shorturl.at/dlxyK)](https://github.com/botuniverse/onebot): OneBot 标准：一个聊天机器人应用接口标准。
+- [OneBot ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/botuniverse/onebot): OneBot 标准：一个聊天机器人应用接口标准。
 
-- [2019-ChatterBot ![code](https://shorturl.at/dlxyK)](https://github.com/gunthercox/ChatterBot): ChatterBot is a machine learning, conversational dialog engine for creating chat bots。
+- [2019-ChatterBot ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/gunthercox/ChatterBot): ChatterBot is a machine learning, conversational dialog engine for creating chat bots。

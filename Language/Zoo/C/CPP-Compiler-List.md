@@ -4,4 +4,4 @@
 
 # CMake
 
-- [CMake Series ![code](https://shorturl.at/dlxyK)](https://blog.feabhas.com/2021/07/cmake-part-1-the-dark-arts/): In our previous post Why We Need Build Systems we examined the need for Build Systems in modern software development. In this post we will examine how to use CMake to mange the build process for a cross compilation project.
+- [CMake Series ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://blog.feabhas.com/2021/07/cmake-part-1-the-dark-arts/): In our previous post Why We Need Build Systems we examined the need for Build Systems in modern software development. In this post we will examine how to use CMake to mange the build process for a cross compilation project.
