@@ -7,17 +7,3 @@
 # Monitor
 
 - [2021-processhacker #Project#](https://github.com/processhacker/processhacker): A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
-
-# Remote Control & Screen Sharing
-
-- [jsmpeg-vnc](https://github.com/phoboslab/jsmpeg-vnc): A low latency, high framerate screen sharing server for Windows and client for browsers.
-
-- [xrdp #Project#](https://github.com/neutrinolabs/xrdp): xrdp provides a graphical login to remote machines using Microsoft Remote Desktop Protocol (RDP).
-
-- [Deskreen #Project#](https://github.com/pavlobu/deskreen): Deskreen turns any device with a web browser to a second screen for your computer
-
-- [2019-Apache Guacamole #Project#](https://guacamole.apache.org/): Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH. [Apache Guacamole: How To Install and Configure](https://fortynorthsecurity.com/blog/apache-guacamole-how-to-install-and-configure/).
-
-- [2020-RustDesk #Project#](https://github.com/rustdesk/rustdesk): The best open source remote desktop client software
-
-- [2022-MirrorX #Project#](https://github.com/MirrorX-Desktop/MirrorX): MirrorX is a remote desktop control tool powered by Rust. With fully open-source client and server, native E2EE support, users can build SECURITY and FAST remote control network, which is fully under control of users.

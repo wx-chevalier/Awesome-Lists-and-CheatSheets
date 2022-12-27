@@ -86,4 +86,10 @@
 
 - [2019-Orbital Widget Toolkit #Project#](https://github.com/redox-os/orbtk): The Orbital Widget Toolkit is a multi platform (G)UI toolkit for building scalable user interfaces with the programming language Rust. It's based on the Entity Component System Pattern and provides a functional-reactive like API.
 
+- [Tauri #Project#](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
+
+  - [Pake](https://github.com/tw93/Pake): 🤱🏻 Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+
+- [2022-Dioxus #Project# ![star](https://img.shields.io/github/stars/2022-DioxusLabs/dioxus)](https://github.com/2022-DioxusLabs/dioxus): Dioxus is a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust.
+
 # Other
