@@ -1,4 +1,4 @@
-# Data Visualization List | 图形与数据可视化资料索引
+# CG List | 图形与数据可视化资料索引
 
 # Overview
 
@@ -9,6 +9,8 @@
 - [2001-Michael Abrash-Graphics Programming 📚](https://github.com/jagregory/abrash-black-book): Markdown source for Michael Abrash's Graphics Programming Black Book
 
 - [2005-The Grammar of Graphics (Statistics and Computing) 📚](https://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448): This fascinating book deconstructs the process of producing graphics and in doing so raises many fascinating questions on the nature and representation of information
+
+- [2010-Botsch-Polygon Mesh Processing 📚](http://www.pmp-book.org/): Geometry processing, or mesh processing, is a fast-growing area of research that uses concepts from applied mathematics, computer science, and engineering to design efficient algorithms for the acquisition, reconstruction, analysis, manipulation, simulation, and transmission of complex 3D models. Applications of geometry processing algorithms already cover a wide range of areas from multimedia, entertainment, and classical computer-aided design, to biomedical computing, reverse engineering, and scientific computing.
 
 - [2020-Computer Graphics from Scratch 📚](https://gabrielgambetta.com/computer-graphics-from-scratch/): Computer Graphics from Scratch demystifies the algorithms used in modern graphics software with basic programming and high school math.
 

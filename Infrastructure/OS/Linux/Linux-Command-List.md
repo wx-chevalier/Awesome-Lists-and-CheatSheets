@@ -6,12 +6,6 @@
 
 - [Linux Command ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/jaywcjlove/linux-command): 550 多个 Linux 命令，内容包含 Linux 命令手册、详解、学习，值得收藏的 Linux 命令速查手册。
 
-# Terminal
-
-## Tmux
-
-- [2019-Tmux Tutorial](https://leimao.github.io/blog/Tmux-Tutorial/): In this short tutorial, I am going through some of the basic concepts and commands for Tmux, and how to use a Tmux plugin, which is called Tmux Resurrect, to restore Tmux environment after reboot or Tmux server restart.
-
 # Text Editor
 
 - [文本处理利器 sed 与 awk 使用总结](https://taozj.org/201612/cmd-tools-sed-awk.html)

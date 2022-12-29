@@ -6,10 +6,6 @@
 
 # Resource
 
-## Book
-
-- [2010-Botsch-Polygon Mesh Processing 📚](http://www.pmp-book.org/): Geometry processing, or mesh processing, is a fast-growing area of research that uses concepts from applied mathematics, computer science, and engineering to design efficient algorithms for the acquisition, reconstruction, analysis, manipulation, simulation, and transmission of complex 3D models. Applications of geometry processing algorithms already cover a wide range of areas from multimedia, entertainment, and classical computer-aided design, to biomedical computing, reverse engineering, and scientific computing.
-
 ## Blog
 
 - [GeometryHub #Blog#](http://geometryhub.net/overview): BGL 是一个关于三维数据(点云，网格)处理的基础几何库

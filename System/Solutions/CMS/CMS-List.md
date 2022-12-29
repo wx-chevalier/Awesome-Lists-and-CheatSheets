@@ -19,3 +19,7 @@
 - [2019-strapi ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/strapi/strapi): 🚀 Open source Node.js Headless CMS to easily build customisable APIs.
 
 - [2022-Alinea ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/alineacms/alinea): Alinea is a modern content management system.
+
+## Deployment
+
+- [2022-microfeed ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/microfeed/microfeed)](https://github.com/microfeed/microfeed): a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.

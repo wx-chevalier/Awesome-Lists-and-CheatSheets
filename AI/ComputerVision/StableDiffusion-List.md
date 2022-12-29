@@ -25,3 +25,7 @@
 - [novelai-colab-ver ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/JingShing/novelai-colab-ver): You can use this version to experience how novelai works without a good gpu.
 
 - [fast-stable-diffusion ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/TheLastBen/fast-stable-diffusion): fast-stable-diffusion colabs, +25-50% speed increase + memory efficient + DreamBooth
+
+## APP
+
+- [2022-Gauss ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/justjake/Gauss)](https://github.com/justjake/Gauss): A Stable Diffusion app for macOS built with SwiftUI and Apple's ml-stable-diffusion CoreML models.

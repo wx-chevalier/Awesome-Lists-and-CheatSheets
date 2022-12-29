@@ -38,21 +38,27 @@
 
 - [2008-VCGlib ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/cnr-isti-vclab/vcglib)](https://github.com/cnr-isti-vclab/vcglib): The Visualization and Computer Graphics Library (VCGlib for short) is an open source, portable, and templated library written in C++, with no external dependencies, for manipulation, processing, cleaning, and simplifying triangle meshes.
 
-- [2012-gilbo/cork ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/gilbo/cork)](https://github.com/gilbo/cork): Cork is designed to support Boolean operations between triangle meshes.
+- [2012-Cork ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/gilbo/cork)](https://github.com/gilbo/cork): Cork is designed to support Boolean operations between triangle meshes.
 
-- [2016-CGAL/cgal ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/CGAL/cgal)](https://github.com/CGAL/cgal): The Computational Geometry Algorithms Library (CGAL) is a C++ library that aims to provide easy access to efficient and reliable algorithms in computational geometry.
+- [2013-Libigl ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/libigl/libigl)](https://github.com/libigl/libigl): A simple C++ geometry processing library
+
+- [2016-CGAL ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/CGAL/cgal)](https://github.com/CGAL/cgal): The Computational Geometry Algorithms Library (CGAL) is a C++ library that aims to provide easy access to efficient and reliable algorithms in computational geometry.
 
 - [2017-mlivesu/cinolib ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/mlivesu/cinolib)](https://github.com/mlivesu/cinolib): A generic programming header only C++ library for processing polygonal and polyhedral meshes
 
-- [2018-Pyvista ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/pyvista/pyvista)](https://github.com/pyvista/pyvista): 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
+- [2020-Geogram ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](http://alice.loria.fr/software/geogram/doc/html/index.html): Geogram is a programming library of geometric algorithms. It includes a simple yet efficient Mesh data structure (for surfacic and volumetric meshes), exact computer arithmetics (a-la Shewchuck, implemented in GEO::expansion), a predicate code generator (PCK: Predicate Construction Kit), standard geometric predicates (orient/insphere), Delaunay triangulation, Voronoi diagram, spatial search data structures, spatial sorting) and less standard ones (more general geometric predicates, intersection between a Voronoi diagram and a triangular or tetrahedral mesh embedded in n dimensions). The latter is used by FWD/WarpDrive, the first algorithm that computes semi-discrete Optimal Transport in 3d that scales up to 1 million Dirac masses (see compute_OTM in example programs ).
 
 - [2019-mikedh/trimesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/mikedh/trimesh)](https://github.com/mikedh/trimesh): Trimesh is a pure Python (2.7-3.5+) library for loading and using triangular meshes with an emphasis on watertight surfaces. The goal of the library is to provide a full featured and well tested Trimesh object which allows for easy manipulation and analysis, in the style of the Polygon object in the Shapely library.
 
 - [2020-Open3D ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/isl-org/Open3D)](https://github.com/isl-org/Open3D): Open3D is an open-source library that supports rapid development of software that deals with 3D data. The Open3D frontend exposes a set of carefully selected data structures and algorithms in both C++ and Python. The backend is highly optimized and is set up for parallelization. We welcome contributions from the open-source community.
 
+- [2020-Mesh-processing-library ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/hhoppe/Mesh-processing-library)](https://github.com/hhoppe/Mesh-processing-library): C++ libraries and programs demonstrating mesh processing research published in ACM SIGGRAPH (1992-1998)
+
+- [2020-pmp-library ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/pmp-library/pmp-library)](https://github.com/pmp-library/pmp-library): The Polygon Mesh Processing Library is a modern C++ open-source library for processing and visualizing polygon surface meshes. Its main features are:
+
 - [2021-DirectXMesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/microsoft/DirectXMesh)](https://github.com/microsoft/DirectXMesh): This package contains DirectXMesh, a shared source library for performing various geometry content processing operations including generating normals and tangent frames, triangle adjacency computations, vertex cache optimization, and meshlet generation.
 
-- [2022-Mesh-processing-library ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/hhoppe/Mesh-processing-library)](https://github.com/hhoppe/Mesh-processing-library): C++ libraries and programs demonstrating mesh processing research published in ACM SIGGRAPH (1992-1998)
+- [2021-Geometry-central ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/nmwsharp/geometry-central)](https://github.com/nmwsharp/geometry-central): Geometry-central is a modern C++ library of data structures and algorithms for geometry processing, with a particular focus on surface meshes.
 
 - [2022-MeshLib ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/MeshInspector/MeshLib)](https://github.com/MeshInspector/MeshLib): The goal which we set when designing MeshLib was to value simplicity and performance while providing a wide gamut of useful computational algorithms. The library also supports the most important data structures today’s sensors can produce - pointcloud, mesh, volume and more. For example, mesh is represented by half-edge data structure and cannot be made non-manifold. Some applications may require non-manifoldness, but most practical scans can be represented as manifoldness meshes without an issue.
 
@@ -60,11 +66,21 @@
 
 - [2010-MeshPy ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/inducer/meshpy)](https://github.com/inducer/meshpy): MeshPy offers quality triangular and tetrahedral mesh generation for Python. Meshes of this type are chiefly used in finite-element simulation codes, but also have many other applications ranging from computer graphics to robotics.
 
+- [2018-Pyvista ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/pyvista/pyvista)](https://github.com/pyvista/pyvista): 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
+
+- [2019-PyMesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/PyMesh/PyMesh)](https://github.com/PyMesh/PyMesh): PyMesh is a code base developed by Qingnan Zhou for his PhD research at New York University. It is a rapid prototyping platform focused on geometry processing. PyMesh is written with both C++ and Python, where computational intensive functionalities are realized in C++, and Python is used for creating minimalistic and easy to use interfaces.
+
 ### Boolean Library
+
+- [2021-cutdigital/mcut ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/cutdigital/mcut)](https://github.com/cutdigital/mcut): This is a software project designed for a broad range of real-world problems relating to 3D modelling and design tasks. Application areas include computer animation, aerospace and automotive engineering, mining, civil and mechanical engineering amongst others.
 
 - [2022-AngusJohnson/Clipper2 ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/AngusJohnson/Clipper2)](https://github.com/AngusJohnson/Clipper2): The Clipper2 library performs intersection, union, difference and XOR boolean operations on both simple and complex polygons. It also performs polygon offsetting. This is a major update of my original Clipper library that written over 10 years ago. That library I'm now calling Clipper1 and while it still works very well, Clipper2 is better in just about every way.
 
-- [2021-cutdigital/mcut ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/cutdigital/mcut)](https://github.com/cutdigital/mcut): This is a software project designed for a broad range of real-world problems relating to 3D modelling and design tasks. Application areas include computer animation, aerospace and automotive engineering, mining, civil and mechanical engineering amongst others.
+- [2020-InteractiveAndRobustMeshBooleans ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/gcherchi/InteractiveAndRobustMeshBooleans)](https://github.com/gcherchi/InteractiveAndRobustMeshBooleans): This is the reference implementation of the mesh booleans pipeline presented in the paper.
+
+### Convex hull
+
+- [2011-qhull ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/qhull/qhull)](https://github.com/qhull/qhull): Qhull is a general dimension convex hull program that reads a set of points from stdin, and outputs the smallest convex set that contains the points to stdout. It also generates Delaunay triangulations, Voronoi diagrams, furthest-site Voronoi diagrams, and halfspace intersections about a point.
 
 ## WebAssembly 集成
 
@@ -110,22 +126,6 @@
 
 - [2022-Artisan ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/Bleemsys/Artisan-Core)](https://github.com/Bleemsys/Artisan-Core): Artisan is a tool for lattice generation. It is based on implicit modelling technique. The code is based on Python and C++ in order to combining the development speed and computational efficiency. Artisan computes the most of heavy math through C++ code, and conducts the routine calculations via Python.
 
-### Image To Mesh
-
-- [2018-mlivesu/slice2mesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/mlivesu/slice2mesh)](https://github.com/mlivesu/slice2mesh): a Meshing Tool for the Simulation of Additive Manufacturing Processes
-
-- [2018-ThibaultGROUEIX/AtlasNet ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/ThibaultGROUEIX/AtlasNet)](https://github.com/ThibaultGROUEIX/AtlasNet): This repository contains the source codes for the paper "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation ". The network is able to synthesize a mesh (point cloud + connectivity) from a low-resolution point cloud, or from an image.
-
-- [2019-Pixel2Mesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/nywang16/Pixel2Mesh)](https://github.com/nywang16/Pixel2Mesh): Generating 3D Mesh Models from Single RGB Images. In ECCV2018.
-
-- [2021-AOT-AG/DicomToMesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/AOT-AG/DicomToMesh)](https://github.com/AOT-AG/DicomToMesh): A command line tool to transform a DICOM volume into a 3d surface mesh (obj, stl or ply). Several mesh processing routines can be enabled, such as mesh reduction, smoothing or cleaning. Works on Linux, OSX and Windows.
-
-### Text To Mesh
-
-- [2021-text2mesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/threedle/text2mesh)](https://github.com/threedle/text2mesh): 3D mesh stylization driven by a text input in PyTorch.
-
-- [2022-Point·E ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/openai/point-e)](https://github.com/openai/point-e): Point cloud diffusion for 3D model synthesis
-
 ## Transform | 模型操作
 
 ### Cut & Split & Chop | 切分
@@ -169,6 +169,8 @@
 ### Remesh
 
 - [2011-ReMESH ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://remesh.sourceforge.net/index.html): ReMESH is a powerful editor for manifold triangle meshes with advanced repairing features.
+
+- [2014-MMG ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/2014-MmgTools/mmg)](https://github.com/2014-MmgTools/mmg): open source software for bidimensional and tridimensional surface and volume remeshing.
 
 - [2020-Autoremesher ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/huxingyi/autoremesher)](https://github.com/huxingyi/autoremesher): Automatic quad remeshing software based on state of the art libraries: Geogram, libigl, OpenVDB, CGAL and others.
 
