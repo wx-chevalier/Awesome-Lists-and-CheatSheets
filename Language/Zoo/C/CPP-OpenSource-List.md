@@ -22,6 +22,8 @@
 
 # Library
 
+- [2017-Folly ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/facebook/folly)](https://github.com/facebook/folly): Folly (acronymed loosely after Facebook Open Source Library) is a library of C++14 components designed with practicality and efficiency in mind. Folly contains a variety of core library components used extensively at Facebook. In particular, it's often a dependency of Facebook's other open source C++ efforts and place where those projects can share code.
+
 - [Cello ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](http://libcello.org/): Cello is a library that brings higher level programming to C. By acting as a modern, powerful runtime system Cello makes many things easy that were previously impractical or awkward in C.
 
 - [gc ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/mkirchner/gc): Simple, zero-dependency garbage collection for C.

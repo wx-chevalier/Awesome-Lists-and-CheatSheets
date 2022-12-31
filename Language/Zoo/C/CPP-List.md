@@ -16,7 +16,7 @@
 
 ## Collection
 
-- [Master C++ Programming With Open-Source Books](https://www.ossblog.org/master-c-programming-with-open-source-books/)
+- [Master C++ Programming With Open-Source Books #Collection#](https://www.ossblog.org/master-c-programming-with-open-source-books/)
 
 - [2021-cpp_new_features 🗃️](https://github.com/0voice/cpp_new_features): 2021 年最新整理， C++ 学习资料，含 C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
 

@@ -36,7 +36,11 @@
 
 ## 多边形处理库
 
+### C++
+
 - [2008-VCGlib ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/cnr-isti-vclab/vcglib)](https://github.com/cnr-isti-vclab/vcglib): The Visualization and Computer Graphics Library (VCGlib for short) is an open source, portable, and templated library written in C++, with no external dependencies, for manipulation, processing, cleaning, and simplifying triangle meshes.
+
+- [2011-VTK ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/Kitware/VTK)](https://github.com/Kitware/VTK): VTK is an open-source software system for image processing, 3D graphics, volume rendering and visualization. VTK includes many advanced algorithms (e.g., surface reconstruction, implicit modeling, decimation) and rendering techniques (e.g., hardware-accelerated volume rendering, LOD control).
 
 - [2012-Cork ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/gilbo/cork)](https://github.com/gilbo/cork): Cork is designed to support Boolean operations between triangle meshes.
 
@@ -46,9 +50,7 @@
 
 - [2017-mlivesu/cinolib ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/mlivesu/cinolib)](https://github.com/mlivesu/cinolib): A generic programming header only C++ library for processing polygonal and polyhedral meshes
 
-- [2020-Geogram ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](http://alice.loria.fr/software/geogram/doc/html/index.html): Geogram is a programming library of geometric algorithms. It includes a simple yet efficient Mesh data structure (for surfacic and volumetric meshes), exact computer arithmetics (a-la Shewchuck, implemented in GEO::expansion), a predicate code generator (PCK: Predicate Construction Kit), standard geometric predicates (orient/insphere), Delaunay triangulation, Voronoi diagram, spatial search data structures, spatial sorting) and less standard ones (more general geometric predicates, intersection between a Voronoi diagram and a triangular or tetrahedral mesh embedded in n dimensions). The latter is used by FWD/WarpDrive, the first algorithm that computes semi-discrete Optimal Transport in 3d that scales up to 1 million Dirac masses (see compute_OTM in example programs ).
-
-- [2019-mikedh/trimesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/mikedh/trimesh)](https://github.com/mikedh/trimesh): Trimesh is a pure Python (2.7-3.5+) library for loading and using triangular meshes with an emphasis on watertight surfaces. The goal of the library is to provide a full featured and well tested Trimesh object which allows for easy manipulation and analysis, in the style of the Polygon object in the Shapely library.
+- [2020-Geogram ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/BrunoLevy/geogram)](https://github.com/BrunoLevy/geogram): Geogram is a programming library of geometric algorithms. It includes a simple yet efficient Mesh data structure (for surfacic and volumetric meshes), exact computer arithmetics (a-la Shewchuck, implemented in GEO::expansion), a predicate code generator (PCK: Predicate Construction Kit), standard geometric predicates (orient/insphere), Delaunay triangulation, Voronoi diagram, spatial search data structures, spatial sorting) and less standard ones (more general geometric predicates, intersection between a Voronoi diagram and a triangular or tetrahedral mesh embedded in n dimensions). The latter is used by FWD/WarpDrive, the first algorithm that computes semi-discrete Optimal Transport in 3d that scales up to 1 million Dirac masses (see compute_OTM in example programs ).
 
 - [2020-Open3D ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/isl-org/Open3D)](https://github.com/isl-org/Open3D): Open3D is an open-source library that supports rapid development of software that deals with 3D data. The Open3D frontend exposes a set of carefully selected data structures and algorithms in both C++ and Python. The backend is highly optimized and is set up for parallelization. We welcome contributions from the open-source community.
 
@@ -70,6 +72,12 @@
 
 - [2019-PyMesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/PyMesh/PyMesh)](https://github.com/PyMesh/PyMesh): PyMesh is a code base developed by Qingnan Zhou for his PhD research at New York University. It is a rapid prototyping platform focused on geometry processing. PyMesh is written with both C++ and Python, where computational intensive functionalities are realized in C++, and Python is used for creating minimalistic and easy to use interfaces.
 
+- [2019-mikedh/trimesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/mikedh/trimesh)](https://github.com/mikedh/trimesh): Trimesh is a pure Python (2.7-3.5+) library for loading and using triangular meshes with an emphasis on watertight surfaces. The goal of the library is to provide a full featured and well tested Trimesh object which allows for easy manipulation and analysis, in the style of the Polygon object in the Shapely library.
+
+### JavaScript
+
+- [2017-geometry-processing-js ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/GeometryCollective/geometry-processing-js)](https://github.com/GeometryCollective/geometry-processing-js): geometry-processing-js is a fast and flexible framework for 3D geometry processing on the web! Easy integration with HTML/WebGL makes it particularly suitable for things like mobile apps, online demos, and course content.
+
 ### Boolean Library
 
 - [2021-cutdigital/mcut ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/cutdigital/mcut)](https://github.com/cutdigital/mcut): This is a software project designed for a broad range of real-world problems relating to 3D modelling and design tasks. Application areas include computer animation, aerospace and automotive engineering, mining, civil and mechanical engineering amongst others.
@@ -87,18 +95,6 @@
 ### Showcase
 
 - [three.js_and_WebAssembly_samples ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Nitta-K-git/three.js_and_WebAssembly_samples): sample codes of three.js and WebAssembly
-
-# Point Cloud
-
-- [2016-Pointnet ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/charlesq34/pointnet)](https://github.com/charlesq34/pointnet): Deep Learning on Point Sets for 3D Classification and Segmentation.
-
-- [2018-pcl ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/PointCloudLibrary/pcl)](https://github.com/PointCloudLibrary/pcl): The Point Cloud Library (PCL) is a standalone, large scale, open project for 2D/3D image and point cloud processing.
-
-- [2018-point-cloud-utils ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/fwilliams/point-cloud-utils)](https://github.com/fwilliams/point-cloud-utils): Point Cloud Utils (pcu) is a utility library providing the following functionality for 3D processing point clouds and triangle meshes.
-
-- [2020-CloudCompare ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/CloudCompare/CloudCompare)](https://github.com/CloudCompare/CloudCompare): CloudCompare is a 3D point cloud (and triangular mesh) processing software. It was originally designed to perform comparison between two 3D points clouds (such as the ones obtained with a laser scanner) or between a point cloud and a triangular mesh. It relies on an octree structure that is highly optimized for this particular use-case. It was also meant to deal with huge point clouds (typically more than 10 million points, and up to 120 million with 2 GB of memory).
-
-- [2020-Point2Mesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/ranahanocka/Point2Mesh)](https://github.com/ranahanocka/Point2Mesh): Point2Mesh is a technique for reconstructing a surface mesh from an input point cloud. This approach "learns" from a single object, by optimizing the weights of a CNN to deform some initial mesh to shrink-wrap the input point cloud. The argument for going this route is: since the (local) convolutional kernels are optimized globally across the entire shape, this encourages local-scale geometric self-similarity across the reconstructed shape surface.
 
 # Mesh Utils
 
@@ -151,52 +147,6 @@
 - https://github.com/timknip/mesh-decimate
 
 - https://github.com/MyMiniFactory/Fast-Quadric-Mesh-Simplification
-
-# 3DP CAM | 3D 打印前处理
-
-- [2010-Cura ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Ultimaker/Cura): 3D printer / slicing GUI built on top of the Uranium framework
-
-- [2020-PrusaSlicer ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/prusa3d/PrusaSlicer): PrusaSlicer takes 3D models (STL, OBJ, AMF) and converts them into G-code instructions for FFF printers or PNG layers for mSLA 3D printers. It's compatible with any modern printer based on the RepRap toolchain, including all those based on the Marlin, Prusa, Sprinter and Repetier firmware. It also works with Mach3, LinuxCNC and Machinekit controllers.
-
-- [2022-PySLM ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/drlukeparry/pyslm)](https://github.com/drlukeparry/pyslm): PySLM is a Python library for supporting development of input files used in Additive Manufacturing or 3D Printing, in particular Selective Laser Melting (SLM), Direct Metal Laser Sintering (DMLS) platforms typically used in both academia and industry. The core capabilities aim to include slicing, hatching and support generation and providing an interface to the binary build file formats available for platforms. The library is built of core classes which may provide the basic functionality to generate the scan vectors used on systems and also be used as building blocks to prototype and develop new algorithms.
-
-## Repair
-
-- https://github.com/MyMiniFactory/3DPrintingMeshRepair
-
-- [2020-Houdini-Plugin-For-Mesh-Reparation ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/Ozeuth/Houdini-Plugin-For-Mesh-Reparation)](https://github.com/Ozeuth/Houdini-Plugin-For-Mesh-Reparation): Implementation of mesh reparation and hole-filling. Created as part of Unity Technologies research, continued in Imperial College FYP.
-
-### Remesh
-
-- [2011-ReMESH ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://remesh.sourceforge.net/index.html): ReMESH is a powerful editor for manifold triangle meshes with advanced repairing features.
-
-- [2014-MMG ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/2014-MmgTools/mmg)](https://github.com/2014-MmgTools/mmg): open source software for bidimensional and tridimensional surface and volume remeshing.
-
-- [2020-Autoremesher ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/huxingyi/autoremesher)](https://github.com/huxingyi/autoremesher): Automatic quad remeshing software based on state of the art libraries: Geogram, libigl, OpenVDB, CGAL and others.
-
-- [2022-continuous-remeshing ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/Profactor/continuous-remeshing)](https://github.com/Profactor/continuous-remeshing): We present a novel method for joint optimization and remeshing and apply it to inverse rendering.
-
-- [2022-Shapeformer ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/qheldiv/shapeformer)](https://github.com/qheldiv/shapeformer): Transformer-based Shape Completion via Sparse Representation.
-
-## Orientation | 角度
-
-- [2017-Tweaker-3 ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/ChristophSchranz/Tweaker-3): A performant auto-rotate software for objects in 3D Printing, whose parameter are trained by an evolutionary algorithm.
-
-## Nest | 摆放
-
-## Simulation
-
-- [2020-STLTally ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/DrMcCoy/STLTally)](https://github.com/DrMcCoy/STLTally): A simple STL volume and print time adder
-
-## Slice | 切片
-
-- [2015-SLAcer.js ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/skarab42/SLAcer.js)](https://github.com/skarab42/SLAcer.js): SLA slicer in your browser.
-
-- [2015-fogleman/slicer ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/fogleman/slicer)](https://github.com/fogleman/slicer): Fast 3D mesh slicer written in Go. Writes slices to grayscale PNG files.
-
-- [2015-hackathon-slicer ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Formlabs/hackathon-slicer): This project is a simple slicer for DLP-based 3D printers.
-
-- [WebGL Slicer](https://byronxu99.github.io/webgl-slicer/)
 
 # Test Data
 

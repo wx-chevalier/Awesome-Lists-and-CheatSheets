@@ -114,6 +114,10 @@
 
 - [2019-MySQL ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://www.mysql.com/): The world's most popular open source database.
 
+## Query Engine
+
+- [2022-Quokka ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/marsupialtail/quokka)](https://github.com/marsupialtail/quokka): Quokka is an open-source push-based vectorized query engine. Inspired by recent high performance database designs at Snowflake, DuckDB and SingleStore etc., it is meant to be much more performant than blocking-shuffle based alternatives like SparkSQL. On test TPC-H queries, Quokka currently is often several times faster than open-source SparkSQL and an order of magnitude faster than Dask.
+
 ## StoreEngine
 
 - [2021-Extensible-Storage-Engine ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/microsoft/Extensible-Storage-Engine): ESE is an embedded / ISAM-based database engine, that provides rudimentary table and indexed access. However the library provides many other strongly layered and and thus reusable sub-facilities as well: A Synchronization / Locking library, a Data-structures / STL-like library, an OS-abstraction layer, and a Cache Manager, as well the full blown…
