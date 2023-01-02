@@ -16,6 +16,8 @@
 
 - [2020-Houdini-Plugin-For-Mesh-Reparation ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/Ozeuth/Houdini-Plugin-For-Mesh-Reparation)](https://github.com/Ozeuth/Houdini-Plugin-For-Mesh-Reparation): Implementation of mesh reparation and hole-filling. Created as part of Unity Technologies research, continued in Imperial College FYP.
 
+- [Manifold ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/hjwdzh/Manifold): Huang, Jingwei, Hao Su, and Leonidas Guibas. Robust Watertight Manifold Surface Generation Method for ShapeNet Models., arXiv preprint arXiv:1802.01698 (2018).
+
 ### Remesh
 
 - [2011-ReMESH ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://remesh.sourceforge.net/index.html): ReMESH is a powerful editor for manifold triangle meshes with advanced repairing features.

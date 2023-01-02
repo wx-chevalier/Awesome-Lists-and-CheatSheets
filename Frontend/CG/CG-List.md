@@ -6,6 +6,8 @@
 
 ## Blog
 
+- [Ke-Sen Huang's Home Page #Blog#](https://kesen.realtimerendering.com/): My research interests include: animation synthesis, animation summarization, and motion retrieval.
+
 ## Book
 
 - [2001-Michael Abrash-Graphics Programming 📚](https://github.com/jagregory/abrash-black-book): Markdown source for Michael Abrash's Graphics Programming Black Book
