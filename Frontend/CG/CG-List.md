@@ -4,6 +4,8 @@
 
 # Resource
 
+## Blog
+
 ## Book
 
 - [2001-Michael Abrash-Graphics Programming 📚](https://github.com/jagregory/abrash-black-book): Markdown source for Michael Abrash's Graphics Programming Black Book

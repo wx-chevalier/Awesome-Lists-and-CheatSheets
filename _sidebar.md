@@ -870,22 +870,24 @@
         - [9.5.6.1 TCPIP List](/Infrastructure/Network/TCP-IP/TCPIP-List.md)
         - [9.5.6.2 UDP List](/Infrastructure/Network/TCP-IP/UDP-List.md)
     - 9.6 OS
-      - 9.6.1 Linux
-        - [9.6.1.1 Linux Command List](/Infrastructure/OS/Linux/Linux-Command-List.md)
-        - [9.6.1.2 Linux Kernel List](/Infrastructure/OS/Linux/Linux-Kernel-List.md)
-        - [9.6.1.3 Linux List](/Infrastructure/OS/Linux/Linux-List.md)
-        - [9.6.1.4 Linux Network List](/Infrastructure/OS/Linux/Linux-Network-List.md)
-        - [9.6.1.5 Linux OpenSource List](/Infrastructure/OS/Linux/Linux-OpenSource-List.md)
-        - [9.6.1.6 Linux Shell List](/Infrastructure/OS/Linux/Linux-Shell-List.md)
-        - [9.6.1.7 Linux Storage List](/Infrastructure/OS/Linux/Linux-Storage-List.md)
-        - [9.6.1.8 Linux SysProc List](/Infrastructure/OS/Linux/Linux-SysProc-List.md)
-        - [9.6.1.9 Terminal List](/Infrastructure/OS/Linux/Terminal-List.md)
-      - [9.6.2 OS List](/Infrastructure/OS/OS-List.md)
-      - [9.6.3 OS OpenSource List](/Infrastructure/OS/OS-OpenSource-List.md)
-      - 9.6.4 Theory
-        - [9.6.4.1 OST List](/Infrastructure/OS/Theory/OST-List.md)
-      - 9.6.5 Windows
-        - [9.6.5.1 Windows List](/Infrastructure/OS/Windows/Windows-List.md)
+      - 9.6.1 FPGA
+        - [9.6.1.1 FPGA List](/Infrastructure/OS/FPGA/FPGA-List.md)
+      - 9.6.2 Linux
+        - [9.6.2.1 Linux Command List](/Infrastructure/OS/Linux/Linux-Command-List.md)
+        - [9.6.2.2 Linux Kernel List](/Infrastructure/OS/Linux/Linux-Kernel-List.md)
+        - [9.6.2.3 Linux List](/Infrastructure/OS/Linux/Linux-List.md)
+        - [9.6.2.4 Linux Network List](/Infrastructure/OS/Linux/Linux-Network-List.md)
+        - [9.6.2.5 Linux OpenSource List](/Infrastructure/OS/Linux/Linux-OpenSource-List.md)
+        - [9.6.2.6 Linux Shell List](/Infrastructure/OS/Linux/Linux-Shell-List.md)
+        - [9.6.2.7 Linux Storage List](/Infrastructure/OS/Linux/Linux-Storage-List.md)
+        - [9.6.2.8 Linux SysProc List](/Infrastructure/OS/Linux/Linux-SysProc-List.md)
+        - [9.6.2.9 Terminal List](/Infrastructure/OS/Linux/Terminal-List.md)
+      - [9.6.3 OS List](/Infrastructure/OS/OS-List.md)
+      - [9.6.4 OS OpenSource List](/Infrastructure/OS/OS-OpenSource-List.md)
+      - 9.6.5 Theory
+        - [9.6.5.1 OST List](/Infrastructure/OS/Theory/OST-List.md)
+      - 9.6.6 Windows
+        - [9.6.6.1 Windows List](/Infrastructure/OS/Windows/Windows-List.md)
     - 9.7 Web3
       - [9.7.1 Web3 List](/Infrastructure/Web3/Web3-List.md)
       - [9.7.2 Web3 OpenSource List](/Infrastructure/Web3/Web3-OpenSource-List.md)
@@ -914,7 +916,8 @@
       - [10.8.2 ComputerVision List](/AI/ComputerVision/ComputerVision-List.md)
       - [10.8.3 OCR List](/AI/ComputerVision/OCR-List.md)
       - [10.8.4 Object Detection List](/AI/ComputerVision/Object-Detection-List.md)
-      - [10.8.5 StableDiffusion List](/AI/ComputerVision/StableDiffusion-List.md)
+      - [10.8.5 OpenCV List](/AI/ComputerVision/OpenCV-List.md)
+      - [10.8.6 StableDiffusion List](/AI/ComputerVision/StableDiffusion-List.md)
     - 10.9 DeepLearning
       - 10.9.1 CNN
         - [10.9.1.1 CNN List](/AI/DeepLearning/CNN/CNN-List.md)
