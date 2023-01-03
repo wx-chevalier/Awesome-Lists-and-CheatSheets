@@ -809,7 +809,9 @@
         - [9.1.3.5 K8s Practices List](/Infrastructure/Cloud/K8s/K8s-Practices-List.md)
       - 9.1.4 Provider
         - [9.1.4.1 AWS List](/Infrastructure/Cloud/Provider/AWS-List.md)
-        - [9.1.4.2 Cloud Provider List](/Infrastructure/Cloud/Provider/Cloud-Provider-List.md)
+        - [9.1.4.2 Azure List](/Infrastructure/Cloud/Provider/Azure-List.md)
+        - [9.1.4.3 Cloud Provider List](/Infrastructure/Cloud/Provider/Cloud-Provider-List.md)
+        - [9.1.4.4 GCP List](/Infrastructure/Cloud/Provider/GCP-List.md)
       - 9.1.5 VM
         - 9.1.5.1 KVM
           - [9.1.5.1.1 KVM List](/Infrastructure/Cloud/VM/KVM/KVM-List.md)
