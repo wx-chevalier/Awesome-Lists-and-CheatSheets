@@ -661,7 +661,7 @@
           - [7.9.12.3.4 Input List](/Frontend/Web/Widgets/Data%20Entry/Input-List.md)
           - [7.9.12.3.5 Select](/Frontend/Web/Widgets/Data%20Entry/Select.md)
         - 7.9.12.4 Diagram
-          - [7.9.12.4.1 Diagram](/Frontend/Web/Widgets/Diagram/Diagram.md)
+          - [7.9.12.4.1 Diagram OpenSource List](/Frontend/Web/Widgets/Diagram/Diagram-OpenSource-List.md)
         - 7.9.12.5 Feedback
           - [7.9.12.5.1 Feedback List](/Frontend/Web/Widgets/Feedback/Feedback-List.md)
         - 7.9.12.6 Interaction

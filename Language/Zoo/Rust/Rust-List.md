@@ -58,6 +58,8 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [blessed-rs 🗃️](https://github.com/nicoburns/blessed-rs): An community guide to the Rust ecosystem
 
+- [2019-rustlings ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/rust-lang/rustlings): 🦀 Small exercises to get you used to reading and writing Rust code!
+
 ## Course
 
 - [TP 201: Practical Networked Applications in Rust 🏫](https://github.com/pingcap/talent-plan). A series of projects that incrementally develop a single Rust project from the ground up into a high-performance, networked, parallel and asynchronous key/value store. Along the way various real-world and practical Rust development subject matter are explored and discussed.
@@ -72,13 +74,13 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2018-Writing a Microservice in Rust](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/): Let me begin this article on Writing a Microservice in Rust by talking about C++.
 
-- [2019-rustlings ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/rust-lang/rustlings): 🦀 Small exercises to get you used to reading and writing Rust code!
-
 ## CheatSheet
 
 - [2017-Rust CheatSheet](http://phaiax.github.io/rust-cheatsheet/)
 
 - [2019-Five minutes Rust](https://github.com/ankur-anand/five-min-rust): Rust concise 5 Minutes cheat-sheet for each concepts.
+
+- [2023-Rust for professionals](https://overexact.com/rust-for-professionals/): This is a short introduction to Rust, intended for developers that already know another language. In the examples, Rust is compared with TypeScript, JavaScript or Java, sometimes with C++ or Kotlin.
 
 ## Series
 

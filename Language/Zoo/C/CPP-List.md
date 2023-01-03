@@ -16,7 +16,7 @@
 
 ## Collection
 
-- [Master C++ Programming With Open-Source Books #Collection#](https://www.ossblog.org/master-c-programming-with-open-source-books/)
+- [Master C++ Programming With Open-Source Books 🗃️](https://www.ossblog.org/master-c-programming-with-open-source-books/)
 
 - [2019-single_file_libs](https://github.com/nothings/single_file_libs): Single-file public-domain/open source libraries with minimal dependencies
 

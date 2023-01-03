@@ -60,7 +60,7 @@
 
 ## Collection
 
-- [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook): Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore.
+- [Front End Interview Handbook #Collection#](https://github.com/yangshun/front-end-interview-handbook): Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore.
 
 - [Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies): A curated list of technical talks and articles about real-world enterprise frontend development
 

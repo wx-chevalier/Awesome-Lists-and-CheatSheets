@@ -69,3 +69,7 @@
 ## Icons
 
 - [bytesize-icons](https://github.com/danklammer/bytesize-icons)
+
+# Math
+
+- [2022-Mafs ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/stevenpetryk/mafs)](https://github.com/stevenpetryk/mafs): Mafs is a set of opinionated React components for creating math visualizations.
