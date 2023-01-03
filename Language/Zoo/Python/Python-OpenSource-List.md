@@ -54,6 +54,10 @@
 
 - [Wakaq ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/wakatime/wakaq): Distributed background task queue for Python backed by Redis, a super minimal Celery
 
+## Data Validation
+
+- [2022-Pydantic ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/pydantic/pydantic)](https://github.com/pydantic/pydantic): Data validation using Python type hints.
+
 # Storage
 
 - [dataset ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/pudo/dataset/blob/master/README.md): In short, dataset makes reading and writing data in databases as simple as reading and writing JSON files.
