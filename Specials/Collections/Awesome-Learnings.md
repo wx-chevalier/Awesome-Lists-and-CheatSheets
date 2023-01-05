@@ -102,7 +102,7 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [Computer Science Video Course 🗃️](https://github.com/Developer-Y/cs-video-courses): 计算机科学与技术的系列视频搜集
 
-- [Papers We Love 🗃️](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
+- [2015-Papers We Love 🗃️](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
 
 - [2017-Awesome Creative Coding 🗃️](https://github.com/terkelg/awesome-creative-coding): Creative coding is a different discipline than programming systems in which the goal is to create something expressive instead of something functional. This is carefully curated list of awesome creative coding resources primarily for beginners/intermediates.
 

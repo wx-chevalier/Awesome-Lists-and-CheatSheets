@@ -2,6 +2,10 @@
 
 - [2022-DiffusionNet ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/nmwsharp/diffusion-net)](https://github.com/nmwsharp/diffusion-net): DiffusionNet is a general-purpose method for deep learning on surfaces such as 3D triangle meshes and point clouds. It is well-suited for tasks like segmentation, classification, feature extraction, etc.
 
+# Classification
+
+- [2016-Pointnet ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/charlesq34/pointnet)](https://github.com/charlesq34/pointnet): Deep Learning on Point Sets for 3D Classification and Segmentation.
+
 # Mesh Generation
 
 ### Image To Mesh

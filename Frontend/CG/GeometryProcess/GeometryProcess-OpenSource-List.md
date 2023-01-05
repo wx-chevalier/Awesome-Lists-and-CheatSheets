@@ -104,7 +104,7 @@
 
 ## I/O | 格式转换
 
-- [2010-OpenCTM #Project#](https://openctm.sourceforge.net/?page=about): OpenCTM is primarily a file format for storing 3D triangle meshes in a compact yet versatile format. In order to make it easy for software developers and 3D designers to support the format, an easy to use software library is provided that can read and write OpenCTM format files.
+- [2010-OpenCTM ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg](https://openctm.sourceforge.net/?page=about): OpenCTM is primarily a file format for storing 3D triangle meshes in a compact yet versatile format. In order to make it easy for software developers and 3D designers to support the format, an easy to use software library is provided that can read and write OpenCTM format files.
 
 - [2019-Draco ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/google/draco)](https://github.com/google/draco): Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
 

@@ -93,12 +93,13 @@ Awesome-Lists 是横跨了编程语言与理论、Web 与大前端、服务端�
 - #Article#：单篇文章，也是默认的引用类型
 - #Slide#：幻灯片
 - #Series#：系列文章
-- 📚：书籍
-- 🏫：视频教程
-- 🗃️：资源集锦
-- ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg): 开源的项目或者框架、库。
+- #Book# 📚：书籍
+- #Course# 🏫：视频教程
+- #Collection# 🗃️：资源集锦
+- #Code# ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg): 开源的项目或者框架、库。
 - #Scratch#: 从零构建某些系统
 - #Tool#: 工具
+- #Paper#
 
 目前，在知识体系中会存在多层构建的问题，对于非 #Article#、#Series# 类遵循的归纳原则就是：仅放置在最顶层与最底层，不放在中间层。
 

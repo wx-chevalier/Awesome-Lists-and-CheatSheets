@@ -158,6 +158,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [2022-mosint ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/2022-alpkeskin/mosint)](https://github.com/2022-alpkeskin/mosint): MOSINT is a fastest OSINT Tool for emails. It helps you gather information about the target email.
 
+- [Digital-Privacy #Project](https://github.com/ffffffff0x/Digital-Privacy): 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗
+
 ## Leakage
 
 - [SecretScanner ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/deepfence/SecretScanner): Find secrets and passwords in container images and file systems
