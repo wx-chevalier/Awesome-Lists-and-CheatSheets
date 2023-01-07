@@ -100,6 +100,10 @@
 
 - [cli ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/urfave/cli): A simple, fast, and fun package for building command line apps in Go.
 
+## Concurrency
+
+- [2023-conc ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/sourcegraph/conc)](https://github.com/sourcegraph/conc): conc is your toolbelt for structured concurrency in go, making common tasks easier and safer.
+
 ## Log
 
 - [logrus ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/sirupsen/logrus): Logrus is a structured logger for Go (golang), completely API compatible with the standard library logger.

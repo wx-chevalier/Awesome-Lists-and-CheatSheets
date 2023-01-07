@@ -24,7 +24,11 @@
 
 - [roughViz.js ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/jwilber/roughViz): Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 
+- [2017-recharts ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/recharts/recharts)](https://github.com/recharts/recharts): Redefined chart library built with React and D3.
+
 - [2020-visx ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/airbnb/visx): visx is a collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of react for updating the DOM.
+
+- [2020-BizCharts ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/alibaba/BizCharts)](https://github.com/alibaba/BizCharts): Powerful data visualization library based on G2 and React.
 
 - [2021-charts.css ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/ChartsCSS/charts.css): Open source CSS framework for data visualization.
 

@@ -60,6 +60,8 @@
 
 - [Gitbook](https://github.com/GitbookIO/gitbook): Modern documentation format and toolchain using Git and Markdown.
 
+- [2013-mdBook ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/rust-lang/mdBook)](https://github.com/rust-lang/mdBook): mdBook is a utility to create modern online books from Markdown files.
+
 - [beautiful-docs 🗃️](https://github.com/PharkMillups/beautiful-docs): Pointers to useful, well-written, and otherwise beautiful documentation.
 
 - [Outline ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/outline/outline): The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.

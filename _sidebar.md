@@ -16,13 +16,15 @@
         - [1.2.4.1 Datawarehouse List](/Distributed/DataEngineering/DataWarehouse/Datawarehouse-List.md)
         - [1.2.4.2 Datawarehouse OpenSource List](/Distributed/DataEngineering/DataWarehouse/Datawarehouse-OpenSource-List.md)
       - 1.2.5 OLAP
-        - 1.2.5.1 Greenplum
-          - [1.2.5.1.1 Greenplum List](/Distributed/DataEngineering/OLAP/Greenplum/Greenplum-List.md)
-        - 1.2.5.2 Hive
-          - [1.2.5.2.1 Hive List](/Distributed/DataEngineering/OLAP/Hive/Hive-List.md)
-        - [1.2.5.3 OLAP List](/Distributed/DataEngineering/OLAP/OLAP-List.md)
-        - 1.2.5.4 Presto
-          - [1.2.5.4.1 Presto List](/Distributed/DataEngineering/OLAP/Presto/Presto-List.md)
+        - 1.2.5.1 ClickHouse
+          - [1.2.5.1.1 ClickHouse List](/Distributed/DataEngineering/OLAP/ClickHouse/ClickHouse-List.md)
+        - 1.2.5.2 Greenplum
+          - [1.2.5.2.1 Greenplum List](/Distributed/DataEngineering/OLAP/Greenplum/Greenplum-List.md)
+        - 1.2.5.3 Hive
+          - [1.2.5.3.1 Hive List](/Distributed/DataEngineering/OLAP/Hive/Hive-List.md)
+        - [1.2.5.4 OLAP List](/Distributed/DataEngineering/OLAP/OLAP-List.md)
+        - 1.2.5.5 Presto
+          - [1.2.5.5.1 Presto List](/Distributed/DataEngineering/OLAP/Presto/Presto-List.md)
     - 1.3 DistributedCompute
       - 1.3.1 Batch
         - [1.3.1.1 BatchProcessing List](/Distributed/DistributedCompute/Batch/BatchProcessing-List.md)
@@ -679,17 +681,17 @@
     - 8.1 Database
       - [8.1.1 Database List](/Backend/Database/Database-List.md)
       - [8.1.2 Database OpenSource List](/Backend/Database/Database-OpenSource-List.md)
-      - 8.1.3 Document
-        - [8.1.3.1 Document List](/Backend/Database/Document/Document-List.md)
+      - 8.1.3 DocumentDB
+        - [8.1.3.1 DocumentDB List](/Backend/Database/DocumentDB/DocumentDB-List.md)
         - 8.1.3.2 ElasticSearch
-          - [8.1.3.2.1 ES Internals List](/Backend/Database/Document/ElasticSearch/ES-Internals-List.md)
-          - [8.1.3.2.2 ES List](/Backend/Database/Document/ElasticSearch/ES-List.md)
-          - [8.1.3.2.3 ES Practices List](/Backend/Database/Document/ElasticSearch/ES-Practices-List.md)
+          - [8.1.3.2.1 ES Internals List](/Backend/Database/DocumentDB/ElasticSearch/ES-Internals-List.md)
+          - [8.1.3.2.2 ES List](/Backend/Database/DocumentDB/ElasticSearch/ES-List.md)
+          - [8.1.3.2.3 ES Practices List](/Backend/Database/DocumentDB/ElasticSearch/ES-Practices-List.md)
         - 8.1.3.3 MongoDB
-          - [8.1.3.3.1 MongoDB List](/Backend/Database/Document/MongoDB/MongoDB-List.md)
+          - [8.1.3.3.1 MongoDB List](/Backend/Database/DocumentDB/MongoDB/MongoDB-List.md)
         - 8.1.3.4 SearchEngine
-          - [8.1.3.4.1 SearchEngine List](/Backend/Database/Document/SearchEngine/SearchEngine-List.md)
-          - [8.1.3.4.2 SearchEngine OpenSource List](/Backend/Database/Document/SearchEngine/SearchEngine-OpenSource-List.md)
+          - [8.1.3.4.1 SearchEngine List](/Backend/Database/DocumentDB/SearchEngine/SearchEngine-List.md)
+          - [8.1.3.4.2 SearchEngine OpenSource List](/Backend/Database/DocumentDB/SearchEngine/SearchEngine-OpenSource-List.md)
       - 8.1.4 Graph
         - [8.1.4.1 GraphDB List](/Backend/Database/Graph/GraphDB-List.md)
       - 8.1.5 KeyValue
