@@ -16,7 +16,7 @@
 
 - [2020-Houdini-Plugin-For-Mesh-Reparation ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/Ozeuth/Houdini-Plugin-For-Mesh-Reparation)](https://github.com/Ozeuth/Houdini-Plugin-For-Mesh-Reparation): Implementation of mesh reparation and hole-filling. Created as part of Unity Technologies research, continued in Imperial College FYP.
 
-- [Manifold ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/hjwdzh/Manifold): Huang, Jingwei, Hao Su, and Leonidas Guibas. Robust Watertight Manifold Surface Generation Method for ShapeNet Models., arXiv preprint arXiv:1802.01698 (2018).
+- [Manifold ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/hjwdzh/ManifoldPlus)](https://github.com/hjwdzh/ManifoldPlus): Huang, Jingwei, Hao Su, and Leonidas Guibas. Robust Watertight Manifold Surface Generation Method for ShapeNet Models., arXiv preprint arXiv:1802.01698 (2018).
 
 ### Remesh
 
@@ -49,3 +49,9 @@
 - [2015-hackathon-slicer ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Formlabs/hackathon-slicer): This project is a simple slicer for DLP-based 3D printers.
 
 - [WebGL Slicer](https://byronxu99.github.io/webgl-slicer/)
+
+# UV Tools
+
+## UV Unwrapping
+
+- [2018-xatlas ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/jpcy/xatlas)](https://github.com/jpcy/xatlas): xatlas is a small C++11 library with no external dependencies that generates unique texture coordinates suitable for baking lightmaps or texture painting.

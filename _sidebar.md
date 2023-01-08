@@ -368,6 +368,7 @@
         - [6.4.2.3 CPP ConcurrentProgramming List](/Language/Zoo/C/CPP-ConcurrentProgramming-List.md)
         - [6.4.2.4 CPP List](/Language/Zoo/C/CPP-List.md)
         - [6.4.2.5 CPP OpenSource List](/Language/Zoo/C/CPP-OpenSource-List.md)
+        - [6.4.2.6 CPP Syntax List](/Language/Zoo/C/CPP-Syntax-List.md)
       - 6.4.3 Go
         - [6.4.3.1 Go Architecture List](/Language/Zoo/Go/Go-Architecture-List.md)
         - [6.4.3.2 Go Collection List](/Language/Zoo/Go/Go-Collection-List.md)

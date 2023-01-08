@@ -19,3 +19,5 @@
 - [2013-Plasio ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/verma/plasio)](https://github.com/verma/plasio): plasio is a project by Uday Verma and Howard Butler that implements point cloud rendering capability in a browser. Specifically, it provides a functional implementation of the ASPRS LAS format, and it can consume LASzip-compressed data using LASzip NaCl module. Plasio is Chrome-only at this time, but it is hoped that other contributors can step forward to bring it to other browsers.
 
 - [2020-3d-bat ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/walzimmer/3d-bat)](https://github.com/walzimmer/3d-bat): 3D Bounding Box Annotation Tool (3D-BAT) Point cloud and Image Labeling.
+
+- [2022-compute_rasterizer ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/m-schuetz/compute_rasterizer)](https://github.com/m-schuetz/compute_rasterizer): Rendering Point Clouds with Compute Shaders.
