@@ -26,7 +26,7 @@
 
 # Long Connection Gateway
 
-- [2015-CometD #Project](https://github.com/cometd/cometd): The CometD project, a scalable comet (server push) implementation for web messaging.
+- [2015-CometD ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/cometd/cometd): The CometD project, a scalable comet (server push) implementation for web messaging.
 
 - [2016-deepstream ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/deepstreamIO/deepstream.io): deepstream is an open source server inspired by concepts behind financial trading technology. It allows clients and backend services to sync data, send messages and make rpcs at very high speed and scale.
 

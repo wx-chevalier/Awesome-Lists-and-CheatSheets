@@ -24,7 +24,7 @@
 
 - [2019-Ambassador ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/datawire/ambassador): open source Kubernetes-native API gateway for microservices built on the Envoy Proxy.
 
-- [2020-SuperTokens #Projects#](https://github.com/supertokens/supertokens-core): Open source alternative to Auth0 / Firebase Auth / AWS Cognito
+- [2020-SuperTokens ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)s#](https://github.com/supertokens/supertokens-core): Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 
 - [sa-token ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/click33/sa-token): 这可能是史上功能最全的 Java 权限认证框架！目前已经集成——登录验证、权限验证、Session 会话、踢人下线、模拟他人账号、临时身份切换、集成 Redis、多账号认证体系、前后台分离模式、注解式鉴权、路由拦截式鉴权、花式 token 生成、自动续签、同端互斥登录、会话治理、组件自动注入...
 

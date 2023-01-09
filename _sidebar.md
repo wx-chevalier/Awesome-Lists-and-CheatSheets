@@ -574,8 +574,9 @@
         - [7.9.2.4 Web3 List](/Frontend/Web/Browser/Web3-List.md)
       - 7.9.3 CrossApp
         - [7.9.3.1 MiniApp List](/Frontend/Web/CrossApp/MiniApp-List.md)
-        - [7.9.3.2 Weapp List](/Frontend/Web/CrossApp/Weapp-List.md)
-        - [7.9.3.3 Weapp OpenSource List](/Frontend/Web/CrossApp/Weapp-OpenSource-List.md)
+        - [7.9.3.2 Taro List](/Frontend/Web/CrossApp/Taro-List.md)
+        - [7.9.3.3 Weapp List](/Frontend/Web/CrossApp/Weapp-List.md)
+        - [7.9.3.4 Weapp OpenSource List](/Frontend/Web/CrossApp/Weapp-OpenSource-List.md)
       - 7.9.4 Dev
         - [7.9.4.1 Web Builder List](/Frontend/Web/Dev/Web-Builder-List.md)
         - [7.9.4.2 Web Debug List](/Frontend/Web/Dev/Web-Debug-List.md)
@@ -986,7 +987,8 @@
         - [10.11.1.2 Chatbot List](/AI/NLP/DialogueSystem/Chatbot-List.md)
         - [10.11.1.3 DialogueSystem List](/AI/NLP/DialogueSystem/DialogueSystem-List.md)
       - 10.11.2 InformationRetrieval
-        - [10.11.2.1 InformationRetrieval List](/AI/NLP/InformationRetrieval/InformationRetrieval-List.md)
+        - [10.11.2.1 InformationExtraction List](/AI/NLP/InformationRetrieval/InformationExtraction-List.md)
+        - [10.11.2.2 InformationRetrieval List](/AI/NLP/InformationRetrieval/InformationRetrieval-List.md)
       - 10.11.3 KnowledgeGraph
         - [10.11.3.1 KnowledgeGraph List](/AI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
       - 10.11.4 LinguisticStructure

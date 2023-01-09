@@ -77,7 +77,7 @@
 
 - [Sqorn ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/lusakasa/sqorn): Sqorn is a Javascript library for building SQL queries.
 
-- [Sequelize #Project](http://docs.sequelizejs.com/): Sequelize is a promise-based ORM for Node.js v4 and up. It supports the dialects PostgreSQL, MySQL, SQLite and MSSQL and features solid transaction support, relations, read replication and more.
+- [Sequelize ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](http://docs.sequelizejs.com/): Sequelize is a promise-based ORM for Node.js v4 and up. It supports the dialects PostgreSQL, MySQL, SQLite and MSSQL and features solid transaction support, relations, read replication and more.
 
 - [Knex ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/tgriesser/knex): A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 

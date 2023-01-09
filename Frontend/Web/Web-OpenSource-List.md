@@ -74,7 +74,7 @@
 
 - [2017-Microbundle ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/developit/microbundle): A zero-configuration bundler for tiny modules, powered by Rollup.
 
-- [FuseBox #Project](https://github.com/fuse-box/fuse-box): FuseBox is a bundler/module loader that combines the power of webpack, JSPM and SystemJS.
+- [FuseBox ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/fuse-box/fuse-box): FuseBox is a bundler/module loader that combines the power of webpack, JSPM and SystemJS.
 
 - [2019-Snowpack ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/pikapkg/snowpack): Build web applications with less tooling and 10x faster iteration. No bundler required.
 
@@ -186,7 +186,7 @@
 
 - [2014-axios ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/axios/axios): Promise based HTTP client for the browser and node.js.
 
-- [2014-request #Project](https://github.com/request/request): Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
+- [2014-request ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/request/request): Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
 
 ## Storage
 

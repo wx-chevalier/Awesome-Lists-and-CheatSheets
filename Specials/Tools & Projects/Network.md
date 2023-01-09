@@ -54,6 +54,8 @@
 
 - [rclone ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files.
 
+- [2022-cdc-file-transfer ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/google/cdc-file-transfer)](https://github.com/google/cdc-file-transfer): Born from the ashes of Stadia, this repository contains tools for synching and streaming files from Windows to Linux. They are based on Content Defined Chunking (CDC), in particular FastCDC, to split up files into chunks.
+
 # Transfer
 
 - [qrcp ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/claudiodangelis/qrcp): ⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
