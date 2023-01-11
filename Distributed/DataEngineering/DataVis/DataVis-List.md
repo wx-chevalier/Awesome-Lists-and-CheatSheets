@@ -24,6 +24,10 @@
 
 - [Data Visualization and the modern Imagination #Series#](https://exhibits.stanford.edu/dataviz): There is a magic in information graphics. The sections in this exhibition examine information graphics that show space, time, nature, and society. Many are beautiful. Each is a unique way of seeing still worth our attention.
 
+## Collection
+
+- [SQL-Data-Analysis-and-Visualization-Projects 🗃️](https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects): SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
+
 # Tutorial
 
 - [2019-前端必看的数据可视化入门指南](https://www.pushvps.com/1926.html): 这是一篇给大家提供数据可视化开发的入门指南，介绍了可视化要解决的问题和可以直接使用的工具，我将从下面几个方面给大家介绍，同时以阿里/蚂蚁的可视化团队和资源举例说明。

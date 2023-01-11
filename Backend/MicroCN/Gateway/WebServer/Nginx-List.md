@@ -32,4 +32,6 @@
 
 # OpenSource
 
+- [2018-NginxProxyManager ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/NginxProxyManager/nginx-proxy-manager)](https://github.com/NginxProxyManager/nginx-proxy-manager): This project comes as a pre-built docker image that enables you to easily forward to your websites running at home or otherwise, including free SSL, without having to know too much about Nginx or Letsencrypt.
+
 - [NGiИX configuration generator ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/valentinxxx/nginxconfig.io): NGiИX config generator generator on steroids.

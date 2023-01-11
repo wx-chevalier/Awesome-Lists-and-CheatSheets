@@ -4,6 +4,8 @@
 
 - [Sidekick ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/runsidekick/sidekick): Free and open-source live application debugger. Like chrome dev tools but for your backend
 
+- [just ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/just)](https://github.com/just): just is a handy way to save and run project-specific commands.
+
 # Eclipse
 
 - [theia ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/eclipse-theia/theia): Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
