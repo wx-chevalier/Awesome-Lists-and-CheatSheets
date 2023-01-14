@@ -4,31 +4,33 @@
       - [1.1.2 ConcurrentModel List](/Distributed/Concurrent/ConcurrentModel-List.md)
       - [1.1.3 ConcurrentProgramming List](/Distributed/Concurrent/ConcurrentProgramming-List.md)
     - 1.2 DataEngineering
-      - 1.2.1 DataAggregation
-        - [1.2.1.1 DataPipeline List](/Distributed/DataEngineering/DataAggregation/DataPipeline-List.md)
-        - [1.2.1.2 ETL List](/Distributed/DataEngineering/DataAggregation/ETL-List.md)
-      - [1.2.2 DataEngineering List](/Distributed/DataEngineering/DataEngineering-List.md)
-      - 1.2.3 DataLake
-        - [1.2.3.1 DataLake List](/Distributed/DataEngineering/DataLake/DataLake-List.md)
-        - 1.2.3.2 Iceberg
-          - [1.2.3.2.1 Iceberg List](/Distributed/DataEngineering/DataLake/Iceberg/Iceberg-List.md)
-      - 1.2.4 DataVis
-        - [1.2.4.1 Cube List](/Distributed/DataEngineering/DataVis/Cube-List.md)
-        - [1.2.4.2 DataVis List](/Distributed/DataEngineering/DataVis/DataVis-List.md)
-        - [1.2.4.3 DataVis OpenSource List](/Distributed/DataEngineering/DataVis/DataVis-OpenSource-List.md)
-      - 1.2.5 DataWarehouse
-        - [1.2.5.1 Datawarehouse List](/Distributed/DataEngineering/DataWarehouse/Datawarehouse-List.md)
-        - [1.2.5.2 Datawarehouse OpenSource List](/Distributed/DataEngineering/DataWarehouse/Datawarehouse-OpenSource-List.md)
-      - 1.2.6 OLAP
-        - 1.2.6.1 ClickHouse
-          - [1.2.6.1.1 ClickHouse List](/Distributed/DataEngineering/OLAP/ClickHouse/ClickHouse-List.md)
-        - 1.2.6.2 Greenplum
-          - [1.2.6.2.1 Greenplum List](/Distributed/DataEngineering/OLAP/Greenplum/Greenplum-List.md)
-        - 1.2.6.3 Hive
-          - [1.2.6.3.1 Hive List](/Distributed/DataEngineering/OLAP/Hive/Hive-List.md)
-        - [1.2.6.4 OLAP List](/Distributed/DataEngineering/OLAP/OLAP-List.md)
-        - 1.2.6.5 Presto
-          - [1.2.6.5.1 Presto List](/Distributed/DataEngineering/OLAP/Presto/Presto-List.md)
+      - 1.2.1 Analytics
+        - [1.2.1.1 Analytics OpenSource List](/Distributed/DataEngineering/Analytics/Analytics-OpenSource-List.md)
+      - 1.2.2 DataAggregation
+        - [1.2.2.1 DataPipeline List](/Distributed/DataEngineering/DataAggregation/DataPipeline-List.md)
+        - [1.2.2.2 ETL List](/Distributed/DataEngineering/DataAggregation/ETL-List.md)
+      - [1.2.3 DataEngineering List](/Distributed/DataEngineering/DataEngineering-List.md)
+      - 1.2.4 DataLake
+        - [1.2.4.1 DataLake List](/Distributed/DataEngineering/DataLake/DataLake-List.md)
+        - 1.2.4.2 Iceberg
+          - [1.2.4.2.1 Iceberg List](/Distributed/DataEngineering/DataLake/Iceberg/Iceberg-List.md)
+      - 1.2.5 DataVis
+        - [1.2.5.1 Cube List](/Distributed/DataEngineering/DataVis/Cube-List.md)
+        - [1.2.5.2 DataVis List](/Distributed/DataEngineering/DataVis/DataVis-List.md)
+        - [1.2.5.3 DataVis OpenSource List](/Distributed/DataEngineering/DataVis/DataVis-OpenSource-List.md)
+      - 1.2.6 DataWarehouse
+        - [1.2.6.1 Datawarehouse List](/Distributed/DataEngineering/DataWarehouse/Datawarehouse-List.md)
+        - [1.2.6.2 Datawarehouse OpenSource List](/Distributed/DataEngineering/DataWarehouse/Datawarehouse-OpenSource-List.md)
+      - 1.2.7 OLAP
+        - 1.2.7.1 ClickHouse
+          - [1.2.7.1.1 ClickHouse List](/Distributed/DataEngineering/OLAP/ClickHouse/ClickHouse-List.md)
+        - 1.2.7.2 Greenplum
+          - [1.2.7.2.1 Greenplum List](/Distributed/DataEngineering/OLAP/Greenplum/Greenplum-List.md)
+        - 1.2.7.3 Hive
+          - [1.2.7.3.1 Hive List](/Distributed/DataEngineering/OLAP/Hive/Hive-List.md)
+        - [1.2.7.4 OLAP List](/Distributed/DataEngineering/OLAP/OLAP-List.md)
+        - 1.2.7.5 Presto
+          - [1.2.7.5.1 Presto List](/Distributed/DataEngineering/OLAP/Presto/Presto-List.md)
     - 1.3 DistributedCompute
       - 1.3.1 Batch
         - [1.3.1.1 BatchProcessing List](/Distributed/DistributedCompute/Batch/BatchProcessing-List.md)
@@ -574,113 +576,113 @@
         - [8.9.2.2 Browser Extension List](/Frontend/Web/Browser/Browser-Extension-List.md)
         - [8.9.2.3 Browser List](/Frontend/Web/Browser/Browser-List.md)
         - [8.9.2.4 Web3 List](/Frontend/Web/Browser/Web3-List.md)
-      - 8.9.3 CrossApp
-        - [8.9.3.1 MiniApp List](/Frontend/Web/CrossApp/MiniApp-List.md)
-        - [8.9.3.2 Taro List](/Frontend/Web/CrossApp/Taro-List.md)
-        - [8.9.3.3 Weapp List](/Frontend/Web/CrossApp/Weapp-List.md)
-        - [8.9.3.4 Weapp OpenSource List](/Frontend/Web/CrossApp/Weapp-OpenSource-List.md)
-      - 8.9.4 Dev
-        - [8.9.4.1 Web Builder List](/Frontend/Web/Dev/Web-Builder-List.md)
-        - [8.9.4.2 Web Debug List](/Frontend/Web/Dev/Web-Debug-List.md)
-        - [8.9.4.3 Web Dev List](/Frontend/Web/Dev/Web-Dev-List.md)
-        - [8.9.4.4 Web E2ETest List](/Frontend/Web/Dev/Web-E2ETest-List.md)
-        - [8.9.4.5 Web Test List](/Frontend/Web/Dev/Web-Test-List.md)
-        - [8.9.4.6 Webpack List](/Frontend/Web/Dev/Webpack-List.md)
-      - 8.9.5 Framework
-        - 8.9.5.1 Angular
-          - [8.9.5.1.1 Angular List](/Frontend/Web/Framework/Angular/Angular-List.md)
-        - 8.9.5.2 MobX
-          - [8.9.5.2.1 MobX List](/Frontend/Web/Framework/MobX/MobX-List.md)
-          - [8.9.5.2.2 MobX OpenSource List](/Frontend/Web/Framework/MobX/MobX-OpenSource-List.md)
-        - 8.9.5.3 React
-          - [8.9.5.3.1 Next List](/Frontend/Web/Framework/React/Next-List.md)
-          - [8.9.5.3.2 React DesignPattern List](/Frontend/Web/Framework/React/React-DesignPattern-List.md)
-          - [8.9.5.3.3 React Internals List](/Frontend/Web/Framework/React/React-Internals-List.md)
-          - [8.9.5.3.4 React List](/Frontend/Web/Framework/React/React-List.md)
-          - [8.9.5.3.5 React OpenSource List](/Frontend/Web/Framework/React/React-OpenSource-List.md)
-          - [8.9.5.3.6 React Syntax List](/Frontend/Web/Framework/React/React-Syntax-List.md)
-          - [8.9.5.3.7 React Tuning List](/Frontend/Web/Framework/React/React-Tuning-List.md)
-        - 8.9.5.4 Redux
-          - [8.9.5.4.1 Redux List](/Frontend/Web/Framework/Redux/Redux-List.md)
-          - [8.9.5.4.2 Redux OpenSource List](/Frontend/Web/Framework/Redux/Redux-OpenSource-List.md)
-          - [8.9.5.4.3 Redux Pattern List](/Frontend/Web/Framework/Redux/Redux-Pattern-List.md)
-        - 8.9.5.5 Svelte
-          - [8.9.5.5.1 Svelte List](/Frontend/Web/Framework/Svelte/Svelte-List.md)
-        - 8.9.5.6 Vue
-          - [8.9.5.6.1 Vue Internals List](/Frontend/Web/Framework/Vue/Vue-Internals-List.md)
-          - [8.9.5.6.2 Vue List](/Frontend/Web/Framework/Vue/Vue-List.md)
-          - [8.9.5.6.3 Vue OpenSource List](/Frontend/Web/Framework/Vue/Vue-OpenSource-List.md)
-          - [8.9.5.6.4 Vue Pattern List](/Frontend/Web/Framework/Vue/Vue-Pattern-List.md)
-          - [8.9.5.6.5 Vue Syntax List](/Frontend/Web/Framework/Vue/Vue-Syntax-List.md)
-          - [8.9.5.6.6 Vue Tuning List](/Frontend/Web/Framework/Vue/Vue-Tuning-List.md)
-        - [8.9.5.7 Web Framework List](/Frontend/Web/Framework/Web-Framework-List.md)
-        - 8.9.5.8 jQuery
-          - [8.9.5.8.1 jQuery List](/Frontend/Web/Framework/jQuery/jQuery-List.md)
-      - 8.9.6 Node
-        - [8.9.6.1 Nest List](/Frontend/Web/Node/Nest-List.md)
-        - [8.9.6.2 Node Dev List](/Frontend/Web/Node/Node-Dev-List.md)
-        - [8.9.6.3 Node Framework List](/Frontend/Web/Node/Node-Framework-List.md)
-        - [8.9.6.4 Node FullStack List](/Frontend/Web/Node/Node-FullStack-List.md)
-        - [8.9.6.5 Node Internals List](/Frontend/Web/Node/Node-Internals-List.md)
-        - [8.9.6.6 Node List](/Frontend/Web/Node/Node-List.md)
-        - [8.9.6.7 Node OpenSource List](/Frontend/Web/Node/Node-OpenSource-List.md)
-        - [8.9.6.8 Node Syntax List](/Frontend/Web/Node/Node-Syntax-List.md)
-        - [8.9.6.9 Node Tuning List](/Frontend/Web/Node/Node-Tuning-List.md)
-      - 8.9.7 Syntax
-        - [8.9.7.1 CSS Architecture List](/Frontend/Web/Syntax/CSS-Architecture-List.md)
-        - [8.9.7.2 CSS Layout List](/Frontend/Web/Syntax/CSS-Layout-List.md)
-        - [8.9.7.3 CSS List](/Frontend/Web/Syntax/CSS-List.md)
-        - [8.9.7.4 CSS Syntax List](/Frontend/Web/Syntax/CSS-Syntax-List.md)
-        - [8.9.7.5 HTML List](/Frontend/Web/Syntax/HTML-List.md)
-        - [8.9.7.6 Web Animation List](/Frontend/Web/Syntax/Web-Animation-List.md)
-        - [8.9.7.7 Web Syntax List](/Frontend/Web/Syntax/Web-Syntax-List.md)
-        - 8.9.7.8 WebAssembly
-          - [8.9.7.8.1 WebAssembly List](/Frontend/Web/Syntax/WebAssembly/WebAssembly-List.md)
-          - [8.9.7.8.2 WebAssembly OpenSource List](/Frontend/Web/Syntax/WebAssembly/WebAssembly-OpenSource-List.md)
-      - 8.9.8 Tuning
-        - [8.9.8.1 VirtualDOM List](/Frontend/Web/Tuning/VirtualDOM-List.md)
-        - [8.9.8.2 Web APM List](/Frontend/Web/Tuning/Web-APM-List.md)
-        - [8.9.8.3 Web ExperienceTuning List](/Frontend/Web/Tuning/Web-ExperienceTuning-List.md)
-        - [8.9.8.4 Web LoadTuning List](/Frontend/Web/Tuning/Web-LoadTuning-List.md)
-        - [8.9.8.5 Web PWA List](/Frontend/Web/Tuning/Web-PWA-List.md)
-        - [8.9.8.6 Web RenderTuning List](/Frontend/Web/Tuning/Web-RenderTuning-List.md)
-        - [8.9.8.7 Web SSR List](/Frontend/Web/Tuning/Web-SSR-List.md)
-        - [8.9.8.8 Web Tuning List](/Frontend/Web/Tuning/Web-Tuning-List.md)
-      - 8.9.9 Web APIs
-        - [8.9.9.1 DOM List](/Frontend/Web/Web%20APIs/DOM-List.md)
-        - [8.9.9.2 Web Event List](/Frontend/Web/Web%20APIs/Web-Event-List.md)
-        - [8.9.9.3 Web Network List](/Frontend/Web/Web%20APIs/Web-Network-List.md)
-        - [8.9.9.4 Web Storage List](/Frontend/Web/Web%20APIs/Web-Storage-List.md)
-        - [8.9.9.5 Web Worker List](/Frontend/Web/Web%20APIs/Web-Worker-List.md)
-      - [8.9.10 Web List](/Frontend/Web/Web-List.md)
-      - [8.9.11 Web OpenSource List](/Frontend/Web/Web-OpenSource-List.md)
-      - [8.9.12 Widgets](/Frontend/Web/Widgets/README.md)
-        - 8.9.12.1 Animation
-          - [8.9.12.1.1 Animation](/Frontend/Web/Widgets/Animation/Animation.md)
-        - 8.9.12.2 Data Display
-          - [8.9.12.2.1 Audio & Video](/Frontend/Web/Widgets/Data%20Display/Audio%20&%20Video.md)
-          - [8.9.12.2.2 Button & Icon](/Frontend/Web/Widgets/Data%20Display/Button%20&%20Icon.md)
-          - [8.9.12.2.3 Image](/Frontend/Web/Widgets/Data%20Display/Image.md)
-          - [8.9.12.2.4 Indicator List](/Frontend/Web/Widgets/Data%20Display/Indicator-List.md)
-        - 8.9.12.3 Data Entry
-          - [8.9.12.3.1 DateTime](/Frontend/Web/Widgets/Data%20Entry/DateTime.md)
-          - [8.9.12.3.2 Editor List](/Frontend/Web/Widgets/Data%20Entry/Editor-List.md)
-          - [8.9.12.3.3 Form List](/Frontend/Web/Widgets/Data%20Entry/Form-List.md)
-          - [8.9.12.3.4 Input List](/Frontend/Web/Widgets/Data%20Entry/Input-List.md)
-          - [8.9.12.3.5 Select](/Frontend/Web/Widgets/Data%20Entry/Select.md)
-        - 8.9.12.4 Diagram
-          - [8.9.12.4.1 Diagram OpenSource List](/Frontend/Web/Widgets/Diagram/Diagram-OpenSource-List.md)
-        - 8.9.12.5 Feedback
-          - [8.9.12.5.1 Feedback List](/Frontend/Web/Widgets/Feedback/Feedback-List.md)
-        - 8.9.12.6 Interaction
-          - [8.9.12.6.1 Drag & Resize](/Frontend/Web/Widgets/Interaction/Drag%20&%20Resize.md)
-          - [8.9.12.6.2 Scroll](/Frontend/Web/Widgets/Interaction/Scroll.md)
-        - 8.9.12.7 Layout
-          - [8.9.12.7.1 Layout List](/Frontend/Web/Widgets/Layout/Layout-List.md)
-          - [8.9.12.7.2 Modal & Popup](/Frontend/Web/Widgets/Layout/Modal%20&%20Popup.md)
-          - [8.9.12.7.3 Navigation](/Frontend/Web/Widgets/Layout/Navigation.md)
-          - [8.9.12.7.4 Panel](/Frontend/Web/Widgets/Layout/Panel.md)
-        - [8.9.12.8 Other](/Frontend/Web/Widgets/Other.md)
+      - 8.9.3 Dev
+        - [8.9.3.1 Web Builder List](/Frontend/Web/Dev/Web-Builder-List.md)
+        - [8.9.3.2 Web Debug List](/Frontend/Web/Dev/Web-Debug-List.md)
+        - [8.9.3.3 Web Dev List](/Frontend/Web/Dev/Web-Dev-List.md)
+        - [8.9.3.4 Web E2ETest List](/Frontend/Web/Dev/Web-E2ETest-List.md)
+        - [8.9.3.5 Web Test List](/Frontend/Web/Dev/Web-Test-List.md)
+        - [8.9.3.6 Webpack List](/Frontend/Web/Dev/Webpack-List.md)
+      - 8.9.4 Framework
+        - 8.9.4.1 Angular
+          - [8.9.4.1.1 Angular List](/Frontend/Web/Framework/Angular/Angular-List.md)
+        - 8.9.4.2 CrossApp
+          - [8.9.4.2.1 MiniApp List](/Frontend/Web/Framework/CrossApp/MiniApp-List.md)
+          - [8.9.4.2.2 Taro List](/Frontend/Web/Framework/CrossApp/Taro-List.md)
+          - [8.9.4.2.3 Weapp List](/Frontend/Web/Framework/CrossApp/Weapp-List.md)
+          - [8.9.4.2.4 Weapp OpenSource List](/Frontend/Web/Framework/CrossApp/Weapp-OpenSource-List.md)
+        - 8.9.4.3 MobX
+          - [8.9.4.3.1 MobX List](/Frontend/Web/Framework/MobX/MobX-List.md)
+          - [8.9.4.3.2 MobX OpenSource List](/Frontend/Web/Framework/MobX/MobX-OpenSource-List.md)
+        - 8.9.4.4 React
+          - [8.9.4.4.1 Next List](/Frontend/Web/Framework/React/Next-List.md)
+          - [8.9.4.4.2 React DesignPattern List](/Frontend/Web/Framework/React/React-DesignPattern-List.md)
+          - [8.9.4.4.3 React Internals List](/Frontend/Web/Framework/React/React-Internals-List.md)
+          - [8.9.4.4.4 React List](/Frontend/Web/Framework/React/React-List.md)
+          - [8.9.4.4.5 React OpenSource List](/Frontend/Web/Framework/React/React-OpenSource-List.md)
+          - [8.9.4.4.6 React Syntax List](/Frontend/Web/Framework/React/React-Syntax-List.md)
+          - [8.9.4.4.7 React Tuning List](/Frontend/Web/Framework/React/React-Tuning-List.md)
+        - 8.9.4.5 Redux
+          - [8.9.4.5.1 Redux List](/Frontend/Web/Framework/Redux/Redux-List.md)
+          - [8.9.4.5.2 Redux OpenSource List](/Frontend/Web/Framework/Redux/Redux-OpenSource-List.md)
+          - [8.9.4.5.3 Redux Pattern List](/Frontend/Web/Framework/Redux/Redux-Pattern-List.md)
+        - 8.9.4.6 Svelte
+          - [8.9.4.6.1 Svelte List](/Frontend/Web/Framework/Svelte/Svelte-List.md)
+        - 8.9.4.7 Vue
+          - [8.9.4.7.1 Vue Internals List](/Frontend/Web/Framework/Vue/Vue-Internals-List.md)
+          - [8.9.4.7.2 Vue List](/Frontend/Web/Framework/Vue/Vue-List.md)
+          - [8.9.4.7.3 Vue OpenSource List](/Frontend/Web/Framework/Vue/Vue-OpenSource-List.md)
+          - [8.9.4.7.4 Vue Pattern List](/Frontend/Web/Framework/Vue/Vue-Pattern-List.md)
+          - [8.9.4.7.5 Vue Syntax List](/Frontend/Web/Framework/Vue/Vue-Syntax-List.md)
+          - [8.9.4.7.6 Vue Tuning List](/Frontend/Web/Framework/Vue/Vue-Tuning-List.md)
+        - [8.9.4.8 Web Framework List](/Frontend/Web/Framework/Web-Framework-List.md)
+        - 8.9.4.9 jQuery
+          - [8.9.4.9.1 jQuery List](/Frontend/Web/Framework/jQuery/jQuery-List.md)
+      - 8.9.5 Node
+        - [8.9.5.1 Nest List](/Frontend/Web/Node/Nest-List.md)
+        - [8.9.5.2 Node Dev List](/Frontend/Web/Node/Node-Dev-List.md)
+        - [8.9.5.3 Node Framework List](/Frontend/Web/Node/Node-Framework-List.md)
+        - [8.9.5.4 Node FullStack List](/Frontend/Web/Node/Node-FullStack-List.md)
+        - [8.9.5.5 Node Internals List](/Frontend/Web/Node/Node-Internals-List.md)
+        - [8.9.5.6 Node List](/Frontend/Web/Node/Node-List.md)
+        - [8.9.5.7 Node OpenSource List](/Frontend/Web/Node/Node-OpenSource-List.md)
+        - [8.9.5.8 Node Syntax List](/Frontend/Web/Node/Node-Syntax-List.md)
+        - [8.9.5.9 Node Tuning List](/Frontend/Web/Node/Node-Tuning-List.md)
+      - 8.9.6 Syntax
+        - [8.9.6.1 CSS Architecture List](/Frontend/Web/Syntax/CSS-Architecture-List.md)
+        - [8.9.6.2 CSS Layout List](/Frontend/Web/Syntax/CSS-Layout-List.md)
+        - [8.9.6.3 CSS List](/Frontend/Web/Syntax/CSS-List.md)
+        - [8.9.6.4 CSS Syntax List](/Frontend/Web/Syntax/CSS-Syntax-List.md)
+        - [8.9.6.5 HTML List](/Frontend/Web/Syntax/HTML-List.md)
+        - [8.9.6.6 Web Animation List](/Frontend/Web/Syntax/Web-Animation-List.md)
+        - [8.9.6.7 Web Syntax List](/Frontend/Web/Syntax/Web-Syntax-List.md)
+        - 8.9.6.8 WebAssembly
+          - [8.9.6.8.1 WebAssembly List](/Frontend/Web/Syntax/WebAssembly/WebAssembly-List.md)
+          - [8.9.6.8.2 WebAssembly OpenSource List](/Frontend/Web/Syntax/WebAssembly/WebAssembly-OpenSource-List.md)
+      - 8.9.7 Tuning
+        - [8.9.7.1 VirtualDOM List](/Frontend/Web/Tuning/VirtualDOM-List.md)
+        - [8.9.7.2 Web APM List](/Frontend/Web/Tuning/Web-APM-List.md)
+        - [8.9.7.3 Web ExperienceTuning List](/Frontend/Web/Tuning/Web-ExperienceTuning-List.md)
+        - [8.9.7.4 Web LoadTuning List](/Frontend/Web/Tuning/Web-LoadTuning-List.md)
+        - [8.9.7.5 Web PWA List](/Frontend/Web/Tuning/Web-PWA-List.md)
+        - [8.9.7.6 Web RenderTuning List](/Frontend/Web/Tuning/Web-RenderTuning-List.md)
+        - [8.9.7.7 Web SSR List](/Frontend/Web/Tuning/Web-SSR-List.md)
+        - [8.9.7.8 Web Tuning List](/Frontend/Web/Tuning/Web-Tuning-List.md)
+      - 8.9.8 Web APIs
+        - [8.9.8.1 DOM List](/Frontend/Web/Web%20APIs/DOM-List.md)
+        - [8.9.8.2 Web Event List](/Frontend/Web/Web%20APIs/Web-Event-List.md)
+        - [8.9.8.3 Web Network List](/Frontend/Web/Web%20APIs/Web-Network-List.md)
+        - [8.9.8.4 Web Storage List](/Frontend/Web/Web%20APIs/Web-Storage-List.md)
+        - [8.9.8.5 Web Worker List](/Frontend/Web/Web%20APIs/Web-Worker-List.md)
+      - [8.9.9 Web List](/Frontend/Web/Web-List.md)
+      - [8.9.10 Web OpenSource List](/Frontend/Web/Web-OpenSource-List.md)
+      - [8.9.11 Widgets](/Frontend/Web/Widgets/README.md)
+        - 8.9.11.1 Animation
+          - [8.9.11.1.1 Animation](/Frontend/Web/Widgets/Animation/Animation.md)
+        - 8.9.11.2 Data Display
+          - [8.9.11.2.1 Audio & Video](/Frontend/Web/Widgets/Data%20Display/Audio%20&%20Video.md)
+          - [8.9.11.2.2 Button & Icon](/Frontend/Web/Widgets/Data%20Display/Button%20&%20Icon.md)
+          - [8.9.11.2.3 Image](/Frontend/Web/Widgets/Data%20Display/Image.md)
+          - [8.9.11.2.4 Indicator List](/Frontend/Web/Widgets/Data%20Display/Indicator-List.md)
+        - 8.9.11.3 Data Entry
+          - [8.9.11.3.1 DateTime](/Frontend/Web/Widgets/Data%20Entry/DateTime.md)
+          - [8.9.11.3.2 Editor List](/Frontend/Web/Widgets/Data%20Entry/Editor-List.md)
+          - [8.9.11.3.3 Form List](/Frontend/Web/Widgets/Data%20Entry/Form-List.md)
+          - [8.9.11.3.4 Input List](/Frontend/Web/Widgets/Data%20Entry/Input-List.md)
+          - [8.9.11.3.5 Select](/Frontend/Web/Widgets/Data%20Entry/Select.md)
+        - 8.9.11.4 Diagram
+          - [8.9.11.4.1 Diagram OpenSource List](/Frontend/Web/Widgets/Diagram/Diagram-OpenSource-List.md)
+        - 8.9.11.5 Feedback
+          - [8.9.11.5.1 Feedback List](/Frontend/Web/Widgets/Feedback/Feedback-List.md)
+        - 8.9.11.6 Interaction
+          - [8.9.11.6.1 Drag & Resize](/Frontend/Web/Widgets/Interaction/Drag%20&%20Resize.md)
+          - [8.9.11.6.2 Scroll](/Frontend/Web/Widgets/Interaction/Scroll.md)
+        - 8.9.11.7 Layout
+          - [8.9.11.7.1 Layout List](/Frontend/Web/Widgets/Layout/Layout-List.md)
+          - [8.9.11.7.2 Modal & Popup](/Frontend/Web/Widgets/Layout/Modal%20&%20Popup.md)
+          - [8.9.11.7.3 Navigation](/Frontend/Web/Widgets/Layout/Navigation.md)
+          - [8.9.11.7.4 Panel](/Frontend/Web/Widgets/Layout/Panel.md)
+        - [8.9.11.8 Other](/Frontend/Web/Widgets/Other.md)
   - 9 Backend
     - 9.1 Database
       - [9.1.1 Database List](/Backend/Database/Database-List.md)
@@ -1050,16 +1052,14 @@
       - [12.3.1 HR List](/Business/Management/HR-List.md)
       - [12.3.2 Management List](/Business/Management/Management-List.md)
     - 12.4 Product
-      - 12.4.1 Analytics
-        - [12.4.1.1 Analytics OpenSource List](/Business/Product/Analytics/Analytics-OpenSource-List.md)
-      - 12.4.2 Design
-        - [12.4.2.1 Design List](/Business/Product/Design/Design-List.md)
-        - [12.4.2.2 Sketch List](/Business/Product/Design/Sketch-List.md)
-        - [12.4.2.3 UI List](/Business/Product/Design/UI-List.md)
-      - 12.4.3 Docs
-        - [12.4.3.1 Docs List](/Business/Product/Docs/Docs-List.md)
-      - 12.4.4 Operation
-        - [12.4.4.1 Operation List](/Business/Product/Operation/Operation-List.md)
-        - [12.4.4.2 UGC List](/Business/Product/Operation/UGC-List.md)
-      - [12.4.5 Product List](/Business/Product/Product-List.md)
-      - [12.4.6 Product OpenSource List](/Business/Product/Product-OpenSource-List.md)
+      - 12.4.1 Design
+        - [12.4.1.1 Design List](/Business/Product/Design/Design-List.md)
+        - [12.4.1.2 Sketch List](/Business/Product/Design/Sketch-List.md)
+        - [12.4.1.3 UI List](/Business/Product/Design/UI-List.md)
+      - 12.4.2 Docs
+        - [12.4.2.1 Docs List](/Business/Product/Docs/Docs-List.md)
+      - 12.4.3 Operation
+        - [12.4.3.1 Operation List](/Business/Product/Operation/Operation-List.md)
+        - [12.4.3.2 UGC List](/Business/Product/Operation/UGC-List.md)
+      - [12.4.4 Product List](/Business/Product/Product-List.md)
+      - [12.4.5 Product OpenSource List](/Business/Product/Product-OpenSource-List.md)

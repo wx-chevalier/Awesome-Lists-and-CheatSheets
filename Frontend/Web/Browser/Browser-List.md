@@ -2,6 +2,8 @@
 
 - [How Web Works ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/vasanthk/how-web-works): What happens behind the scenes when we type www.google.com in a browser?
 
+- [2022-History of Web Browser Engines from 1990 until today](https://eylenburg.github.io/browser_engines.htm):The loss of browser diversity since the rise of Chromium has been greatly lamented. Below you can find a graph that shows the historical and present browser engines (not browsers, but the HTML rendering engines), as well as from when to when they were developed. For the bigger engines, the market share is indicated by a coloured shape (see legend).
+
 # Browser Feature Detection | 浏览器特征检测
 
 - [天猫双 11 前端分享系列(七)：如何精确识别终端](https://github.com/tmallfe/tmallfe.github.io/issues/32)

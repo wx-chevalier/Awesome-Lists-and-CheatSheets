@@ -57,3 +57,5 @@
 - [electron-util ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/sindresorhus/electron-util): Useful utilities for Electron apps and modules.
 
 - [electron-pdf](https://github.com/fraserxu/electron-pdf/tree/master): 📄 A command line tool to generate PDF from URL, HTML or Markdown files.
+
+- [2019-electron-unhandled ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/sindresorhus/electron-unhandled)](https://github.com/sindresorhus/electron-unhandled): Catch unhandled errors and promise rejections in your Electron app.
