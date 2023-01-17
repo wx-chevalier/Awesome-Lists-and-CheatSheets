@@ -4,6 +4,8 @@
 
 - [2018-Spring Boot Pay ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://gitee.com/52itstyle/spring-boot-pay): 支付服务：支付宝，微信，银联详细 代码案例 (除银联支付可以测试以外，支付宝和微信支付测试均需要企业认证，个人无法完成测试)，项目启动前请仔细阅读 注意事项。
 
+- [2021-HyperSwitch ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/juspay/hyperswitch)](https://github.com/juspay/hyperswitch): hyperswitch is a Payment Switch that lets you connect with multiple payment processors with a single API integration. Once integrated, you can add new payment processors and route traffic effortlessly.
+
 # 风控系统
 
 - [陌陌风控系统静态规则引擎 ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/momosecurity/aswan): 陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
