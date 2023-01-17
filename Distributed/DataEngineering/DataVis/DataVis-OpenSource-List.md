@@ -6,6 +6,10 @@
 
 - [SandDance ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://sanddance.js.org/app/): By using easy-to-understand views, SandDance helps you find insights about your data, which in turn help you tell stories supported by data, build cases based on evidence, test hypotheses, dig deeper into surface explanations, support decisions for purchases, or relate data into a wider, real world context.
 
+# Tabular Analysis
+
+- [2022-S2 ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/antvis/S2)](https://github.com/antvis/S2): S2 是 AntV 在多维交叉分析表格领域的解决方案，完全基于数据驱动的方式。通过提供底层能力库，基础组件，业务场景组件以及自由扩展的能力，让开发者基于自身场景自由选择，既能开箱即用，又能自由发挥。
+
 # Animation
 
 ## Math

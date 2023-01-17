@@ -44,6 +44,8 @@
 
 ### GUI
 
+- [2010-Hue ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/cloudera/hue)](https://github.com/cloudera/hue): Hue is a mature SQL Assistant for querying Databases & Data Warehouses.
+
 - [SQL Fiddle ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](http://sqlfiddle.com/): A tool for easy online testing and sharing of database problems and their solutions.
 
 - [Dbeaver ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://dbeaver.io): Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.

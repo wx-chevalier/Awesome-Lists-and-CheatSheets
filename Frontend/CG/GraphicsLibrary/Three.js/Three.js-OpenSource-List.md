@@ -32,6 +32,8 @@
 
 - [2022-three-projected-material ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/marcofugaro/three-projected-material)](https://github.com/marcofugaro/three-projected-material): 📽 Three.js Material which lets you do Texture Projection on a 3d Model.
 
+- [2023-vis-three ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/Shiotsukikaedesari/vis-three)](https://github.com/Shiotsukikaedesari/vis-three): three.js 库二次功能封装 + 配置化的 three.js 开发。
+
 # React Three Fiber
 
 - [react-three-fiber ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/pmndrs/react-three-fiber): react-three-fiber is a React renderer for threejs.
