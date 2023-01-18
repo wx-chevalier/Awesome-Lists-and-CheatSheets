@@ -8,6 +8,8 @@
 
 - [cookie 规范(RFC 6265)翻译](https://github.com/renaesop/blog/issues/4)
 
+- [2021-CookieConsent ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/orestbida/cookieconsent)](https://github.com/orestbida/cookieconsent): 🍪 Simple cross-browser cookie-consent plugin written in vanilla js
+
 # FileSystem
 
 - [2013-Exploring the FileSystem APIs](https://www.html5rocks.com/en/tutorials/file/filesystem/): With the FileSystem API, a web app can create, read, navigate, and write to a sandboxed section of the user's local file system.
