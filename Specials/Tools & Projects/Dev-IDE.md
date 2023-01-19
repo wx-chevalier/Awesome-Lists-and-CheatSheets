@@ -97,3 +97,7 @@ CSS classes intellisense
 - [Responsive Viewer](https://github.com/skmail/responsive-viewer): Chrome extension to show multiple screens in one view.
 
 # Online/Cloud IDE
+
+# Cross-machine Sync
+
+- [2022-chezmoi ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/twpayne/chezmoi)](https://github.com/twpayne/chezmoi): Manage your dotfiles across multiple diverse machines, securely.

@@ -28,6 +28,8 @@
 
 - [2017-three.interaction.js ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/jasonChen1982/three.interaction.js)](https://github.com/jasonChen1982/three.interaction.js): three.js interaction toolkit, help you built an interaction event-system for three.js, binding interaction event like browser-dom.
 
+- [2017-three.bas ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/zadvorsky/three.bas)](https://github.com/zadvorsky/three.bas): THREE Buffer Animation System is an extension for THREE.js. It simplifies the workflow of extending the built-in THREE.js materials to include animation logic in the vertex shader. For an overview of this approach, check out this tutorial series.
+
 - [2018-threejs-mesh-modifiers ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/drawcall/threejs-mesh-modifiers)](https://github.com/drawcall/threejs-mesh-modifiers): A Three.js mesh morph modifier, including nearly ten modifiers, such as Bend, Bloat, Noise, Skew and Taper, etc. It is very lightweight and simple to use, using it can give you unexpected results.
 
 - [2022-three-projected-material ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/marcofugaro/three-projected-material)](https://github.com/marcofugaro/three-projected-material): 📽 Three.js Material which lets you do Texture Projection on a 3d Model.
