@@ -6,6 +6,10 @@
 
 - [2020-CloudCompare ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/CloudCompare/CloudCompare)](https://github.com/CloudCompare/CloudCompare): CloudCompare is a 3D point cloud (and triangular mesh) processing software. It was originally designed to perform comparison between two 3D points clouds (such as the ones obtained with a laser scanner) or between a point cloud and a triangular mesh. It relies on an octree structure that is highly optimized for this particular use-case. It was also meant to deal with huge point clouds (typically more than 10 million points, and up to 120 million with 2 GB of memory).
 
+# Datasets
+
+- [2019-PointCloudDatasets ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/antao97/PointCloudDatasets)](https://github.com/antao97/PointCloudDatasets):This repository provides ShapeNetCore.v2, ShapeNetPart, ModelNet40 and ModelNet10 datasets in HDF5 format. For each shape in these datasets, we use farthest point sampling algorithm to uniformly sample 2,048 points from shape surface. All points are then centered and scaled. We follow the train/val/test split in official documents.
+
 # Convert to Mesh
 
 - [2018-pointcloudToMesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/danielTobon43/pointcloudToMesh)](https://github.com/danielTobon43/pointcloudToMesh): C++ application to convert pcd file, ply file, txt file or xyz point cloud to MESH representation (Gp3).

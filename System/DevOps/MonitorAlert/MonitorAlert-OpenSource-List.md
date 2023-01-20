@@ -8,6 +8,8 @@
 
 - [2019-哪吒监控 ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/naiba/nezha): 一站式轻监控轻运维系统。支持系统状态、HTTP、TCP、Ping 监控报警，命令批量执行和计划任务。
 
+- [2019-VictoriaMetrics ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/VictoriaMetrics/VictoriaMetrics)](https://github.com/VictoriaMetrics/VictoriaMetrics): VictoriaMetrics: fast, cost-effective monitoring solution and time series database.
+
 - [2020-Monitoror ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/monitoror/monitoror): Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 
 - [2020-nightingale ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/didi/nightingale): A Distributed and High-Performance Monitoring System.

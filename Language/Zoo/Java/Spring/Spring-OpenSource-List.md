@@ -10,6 +10,8 @@
 
 # Showcase
 
+- [2019-hsweb-framework ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/hs-web/hsweb-framework)](https://github.com/hs-web/hsweb-framework): hsweb (haʊs wɛb) 是一个基于 spring-boot 2.x 开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。
+
 - [RuoYi-Cloud ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://gitee.com/y_project/RuoYi-Cloud): 基于 Spring Boot、Spring Cloud & Alibaba 的分布式微服务架构权限管理系统。
 
 - [hope-boot ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/hope-for/hope-boot): 一款现代化的脚手架项目。企业开发？接外包？赚外快？还是学习？这都能满足你，居家必备，值得拥有 🍻
