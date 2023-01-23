@@ -60,7 +60,7 @@
 
 - [2018-CSS Flexible Box Layout in MDN](https://parg.co/UVS): CSS Flexible Box Layout is a module of CSS that defines a CSS box model optimized for user interface design, and the layout of items in one dimension.
 
-# Grid
+# CSS Grid
 
 - [2017-Learn CSS Grid in 5 Minutes](https://parg.co/UZ0):A quick introductions to the future of website layouts.
 
@@ -75,7 +75,5 @@
 - [How to build a responsive grid system](https://zellwk.com/blog/responsive-grid-system/)
 
 - [2017-How to make your HTML responsive by adding a single line of CSS](https://parg.co/Upx): In this article I’ll teach you how to use CSS Grid to create a super cool image grid which varies the amount of columns with the width of the screen.
-
-- [2017-Debugging CSS Grid Layouts With Firefox Grid Inspector](https://parg.co/U3i)
 
 - [2018-CSS Grid + Flexbox Solving Real-world Problems](https://parg.co/Ukv): The challenge for this would be supporting Internet Explorer 11 and Safari 9+.

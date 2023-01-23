@@ -30,6 +30,8 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2011-编程之法：面试和算法心得 📚](https://github.com/julycoding/The-Art-Of-Programming-By-July): 原编程艺术系列从 2011 年 4 月至今，写了 42 个编程问题，在创作的过程当中，得到了很多朋友的支持，特别是博客上随时都会有朋友不断留言，或提出改进建议，或 show 出自己的思路、代码，或指正 bug。为更好的改进、优化、增补编程艺术系列，特把博客上的这个程序员编程艺术系列和博客内其它部分经典文章同步到此，成立本项目。
 
+- [2015-algs4 ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/kevin-wayne/algs4)](https://github.com/kevin-wayne/algs4): Algorithms, 4th edition textbook code and libraries.
+
 - [2017-Algorithm Design: Parallel and Sequential 📚](http://www.parallel-algorithms-book.com/): 15-210 aims to teach methods for designing, analyzing, and programming sequential and parallel algorithms and data structures.
 
 - [2017-Competitive Programmer's Handbook 📚](https://cses.fi/book.html): The purpose of this book is to give the reader a thorough introduction to competitive programming. The book is especially intended for students who want to learn algorithms and possibly participate in the International Olympiad in Informatics (IOI) or in the International Collegiate Programming Contest (ICPC).

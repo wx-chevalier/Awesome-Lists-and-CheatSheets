@@ -50,3 +50,7 @@
 - [2016-Flink 原理与实现：理解 Flink 中的计算资源](http://wuchong.me/blog/2016/05/09/flink-internals-understanding-execution-resources/)
 
 - [2018-Flink 原理与实现：内存管理](https://yq.aliyun.com/articles/57815): 本文将会讨论 Flink 是如何解决上面的问题的，主要内容包括内存管理、定制的序列化工具、缓存友好的数据结构和算法、堆外内存、JIT 编译优化等。
+
+# OpenSource
+
+- [2019-flink-userportrait-main ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/gingerredjade/flink-userportrait-main)](https://github.com/gingerredjade/flink-userportrait-main): 基于 Flink 流处理的动态实时亿级全端用户画像系统。
