@@ -34,4 +34,4 @@
 
 - [cp-ddd-framework ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/funkygao/cp-ddd-framework): A lightweight development framework for complex business architecture！轻量级业务中台开发框架！
 
-- [2020-Domain-Driven Hexagon ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Sairyss/domain-driven-hexagon): Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
+- [2020-Domain Driven Hexagon ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Sairyss/domain-driven-hexagon): Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
