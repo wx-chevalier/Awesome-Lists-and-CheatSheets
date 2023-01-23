@@ -38,6 +38,8 @@
 
 - [secure-electron-template ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/reZach/secure-electron-template): A current electron app template with the most popular frameworks, designed and built with security in mind. (If you are curious about what makes an electron app secure, please check out this page).
 
+- [2022-electron-egg ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/dromara/electron-egg)](https://github.com/dromara/electron-egg): A simple, cross-platform, enterprise-level desktop software development framework
+
 # Development Tools
 
 - [2018-Electron Fiddle ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/electron/fiddle): Electron Fiddle lets you create and play with small Electron experiments. It greets you with a quick-start template after opening – change a few things, choose the version of Electron you want to run it with, and play around.

@@ -85,6 +85,8 @@
 
 - [concurrency-limits ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Netflix/concurrency-limits): Java Library that implements and integrates concepts from TCP congestion control to auto-detect concurrency limits to achieve optimal throughput with optimal latency.
 
+- [2022-DynamicTp ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/dromara/dynamic-tp)](https://github.com/dromara/dynamic-tp): 🔥🔥🔥 轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持 Nacos、Apollo，Zookeeper、Consul、Etcd，可通过 SPI 自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI).
+
 ## Others
 
 - [easyexcel ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/alibaba/easyexcel): 快速、简单避免 OOM 的 java 处理 Excel 工具
