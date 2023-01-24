@@ -14,6 +14,8 @@
 
 - [2022-Zeno ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/zenustech/zeno)](https://github.com/zenustech/zeno): Open-source node system framework, to change your algorithmic code into useful tools to create much more complicated simulations!
 
+- [2022-Manifold ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/elalish/manifold)](https://github.com/elalish/manifold): If you like OpenSCAD / OpenJSCAD, you might also like ManifoldCAD - our own solid modelling web app. The operations are not GPU-accelerated, but it's still pretty fast and a good way to test out our Manifold library.
+
 # STEP
 
 - [2013-STEPCode ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/stepcode/stepcode)](https://github.com/stepcode/stepcode): STEPcode (formerly NIST's STEP Class Library) is used with IFC, STEP, and other standards that utilize the technologies of ISO10303 (STEP). It generates C++ and Python from EXPRESS (10303-11) schemas. The code is capable of reading and writing STEP Part 21 exchange files. It also utilizes Parts 22 and 23 (SDAI and its C++ binding).
