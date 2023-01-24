@@ -666,19 +666,20 @@
       - [8.9.10 Web OpenSource List](/Frontend/Web/Web-OpenSource-List.md)
       - [8.9.11 Widgets](/Frontend/Web/Widgets/README.md)
         - 8.9.11.1 Animation
-          - [8.9.11.1.1 Animation](/Frontend/Web/Widgets/Animation/Animation.md)
+          - [8.9.11.1.1 Animation OpenSource List](/Frontend/Web/Widgets/Animation/Animation-OpenSource-List.md)
         - 8.9.11.2 Data Display
           - [8.9.11.2.1 Audio & Video](/Frontend/Web/Widgets/Data%20Display/Audio%20&%20Video.md)
           - [8.9.11.2.2 Button & Icon](/Frontend/Web/Widgets/Data%20Display/Button%20&%20Icon.md)
-          - [8.9.11.2.3 Image](/Frontend/Web/Widgets/Data%20Display/Image.md)
+          - [8.9.11.2.3 Image OpenSource List](/Frontend/Web/Widgets/Data%20Display/Image-OpenSource-List.md)
           - [8.9.11.2.4 Indicator List](/Frontend/Web/Widgets/Data%20Display/Indicator-List.md)
         - 8.9.11.3 Data Entry
           - [8.9.11.3.1 DateTime](/Frontend/Web/Widgets/Data%20Entry/DateTime.md)
           - [8.9.11.3.2 Editor List](/Frontend/Web/Widgets/Data%20Entry/Editor-List.md)
-          - [8.9.11.3.3 Form List](/Frontend/Web/Widgets/Data%20Entry/Form-List.md)
-          - [8.9.11.3.4 Input List](/Frontend/Web/Widgets/Data%20Entry/Input-List.md)
-          - [8.9.11.3.5 Select](/Frontend/Web/Widgets/Data%20Entry/Select.md)
-          - [8.9.11.3.6 Table & Grid](/Frontend/Web/Widgets/Data%20Entry/Table%20&%20Grid.md)
+          - [8.9.11.3.3 Editor OpenSource List](/Frontend/Web/Widgets/Data%20Entry/Editor-OpenSource-List.md)
+          - [8.9.11.3.4 Form List](/Frontend/Web/Widgets/Data%20Entry/Form-List.md)
+          - [8.9.11.3.5 Input List](/Frontend/Web/Widgets/Data%20Entry/Input-List.md)
+          - [8.9.11.3.6 Select](/Frontend/Web/Widgets/Data%20Entry/Select.md)
+          - [8.9.11.3.7 Table & Grid](/Frontend/Web/Widgets/Data%20Entry/Table%20&%20Grid.md)
         - 8.9.11.4 Diagram
           - [8.9.11.4.1 Diagram OpenSource List](/Frontend/Web/Widgets/Diagram/Diagram-OpenSource-List.md)
         - 8.9.11.5 Feedback
