@@ -75,3 +75,7 @@
 - [icloud_photos_downloader ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/icloud-photos-downloader/icloud_photos_downloader): A command-line tool to download photos from iCloud
 
 - [you-get ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/soimort/you-get): ⏬ Dumb downloader that scrapes the web
+
+# Upload Tools
+
+- [2021-Upgit ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/pluveto/upgit)](https://github.com/pluveto/upgit): Upgit is a native & lightweight tool to helps you upload any file to your Github repository and then get a raw URL for it.
