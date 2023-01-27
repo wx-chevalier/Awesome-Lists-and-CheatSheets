@@ -32,6 +32,8 @@
 
 - [2018-threejs-mesh-modifiers ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/drawcall/threejs-mesh-modifiers)](https://github.com/drawcall/threejs-mesh-modifiers): A Three.js mesh morph modifier, including nearly ten modifiers, such as Bend, Bloat, Noise, Skew and Taper, etc. It is very lightweight and simple to use, using it can give you unexpected results.
 
+- [2019-threejs-miniprogram ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/wechat-miniprogram/threejs-miniprogram)](https://github.com/wechat-miniprogram/threejs-miniprogram): WeChat MiniProgram adapted version of Three.js
+
 - [2022-three-projected-material ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/marcofugaro/three-projected-material)](https://github.com/marcofugaro/three-projected-material): 📽 Three.js Material which lets you do Texture Projection on a 3d Model.
 
 - [2023-vis-three ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/Shiotsukikaedesari/vis-three)](https://github.com/Shiotsukikaedesari/vis-three): three.js 库二次功能封装 + 配置化的 three.js 开发。
