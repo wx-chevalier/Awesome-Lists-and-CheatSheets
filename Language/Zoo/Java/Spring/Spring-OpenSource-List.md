@@ -40,7 +40,11 @@
 
 # Libraries
 
+## Log
+
 - [2021-mzt-biz-log ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/mouzt/mzt-biz-log)](https://github.com/mouzt/mzt-biz-log): 支持 Springboot，基于注解的可使用变量、可以自定义函数的通用操作日志组件。
+
+- [2022-log-record ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/qqxx6661/log-record)](https://github.com/qqxx6661/log-record): 使用注解优雅的记录系统日志，操作日志等，支持 SpEL 表达式，自定义上下文，自定义函数，实体类 DIFF。并支持将日志消息传递至消息队列。
 
 # Web Development
 

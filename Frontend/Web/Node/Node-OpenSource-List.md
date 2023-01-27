@@ -73,6 +73,8 @@
 
 - [2019-nedb ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/louischatriot/nedb): The JavaScript Database, for Node.js, nw.js, electron and the browser.
 
+- [2021-Kysely ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/koskimas/kysely)](https://github.com/koskimas/kysely): Kysely (pronounce “Key-Seh-Lee”) is a type-safe and autocompletion-friendly typescript SQL query builder. Inspired by knex. Mainly developed for node.js but also runs on deno and in the browser.
+
 ## ORM
 
 - [Sqorn ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/lusakasa/sqorn): Sqorn is a Javascript library for building SQL queries.

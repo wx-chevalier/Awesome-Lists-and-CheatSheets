@@ -24,6 +24,8 @@
 
 - [Prefect ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/PrefectHQ/prefect): Prefect is a new workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine. Users organize Tasks into Flows, and Prefect takes care of the rest.
 
+- [2021-Automatisch ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/automatisch/automatisch)](https://github.com/automatisch/automatisch): The open source Zapier alternative. Build workflow automation without spending time and money.
+
 ## Graph Editor/Flow Editor
 
 - [2014-mxGraph ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/jgraph/mxgraph): mxGraph is a fully client side JavaScript diagramming library that uses SVG and HTML for rendering.

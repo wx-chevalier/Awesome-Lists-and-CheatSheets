@@ -20,7 +20,7 @@
 
 - [2018-GRV ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/rgburke/grv): GRV is a terminal based interface for viewing git repositories. It allows refs, commits and diffs to be viewed, searched and filtered.
 
-## DVisual | 数据可视化
+## Client | 数据可视化
 
 - [gitgraphjs](http://gitgraphjs.com/#): gitgraphjs 提供了一套基于 JS 的绘图的 API，方便进行 Git 中常见的流程绘制。
 
@@ -33,6 +33,8 @@
 - [Git flow - Animated ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/vraa/gitflowanimated): An Experimental try in React to visualize and animate Gitflow.
 
 - [Onefetch ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/o2sh/onefetch): Onefetch is a command line tool that displays information about your Git project directly on your terminal.
+
+- [2022-git-sim ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/initialcommit-com/git-sim)](https://github.com/initialcommit-com/git-sim): Visually simulate Git operations in your own repos with a single terminal command.
 
 # Github
 

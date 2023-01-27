@@ -27,21 +27,29 @@
   - [4 README en](/README-en.md)
   - 5 System
     - 5.1 Architecture
-      - [5.1.1 Architecture List](/System/Architecture/Architecture-List.md)
-      - 5.1.2 CodeStyle
-        - [5.1.2.1 CleanCode List](/System/Architecture/CodeStyle/CleanCode-List.md)
-        - [5.1.2.2 CodeReview List](/System/Architecture/CodeStyle/CodeReview-List.md)
-        - [5.1.2.3 CodeStyle OpenSource List](/System/Architecture/CodeStyle/CodeStyle-OpenSource-List.md)
-        - [5.1.2.4 Refactor List](/System/Architecture/CodeStyle/Refactor-List.md)
-        - [5.1.2.5 SecurityGuide List](/System/Architecture/CodeStyle/SecurityGuide-List.md)
-      - 5.1.3 GUIArchitecture
-        - [5.1.3.1 GUIArchitecture List](/System/Architecture/GUIArchitecture/GUIArchitecture-List.md)
-      - 5.1.4 LogicalArchitecture
-        - [5.1.4.1 CQRS List](/System/Architecture/LogicalArchitecture/CQRS-List.md)
-        - [5.1.4.2 CleanArchitecture List](/System/Architecture/LogicalArchitecture/CleanArchitecture-List.md)
-        - [5.1.4.3 DDD List](/System/Architecture/LogicalArchitecture/DDD-List.md)
-        - [5.1.4.4 EDA List](/System/Architecture/LogicalArchitecture/EDA-List.md)
-        - [5.1.4.5 LogicalArchitecture List](/System/Architecture/LogicalArchitecture/LogicalArchitecture-List.md)
+      - 5.1.1 API
+        - [5.1.1.1 API List](/System/Architecture/API/API-List.md)
+        - 5.1.1.2 GraphQL
+          - [5.1.1.2.1 GraphQL Client List](/System/Architecture/API/GraphQL/GraphQL-Client-List.md)
+          - [5.1.1.2.2 GraphQL List](/System/Architecture/API/GraphQL/GraphQL-List.md)
+          - [5.1.1.2.3 GraphQL OpenSource List](/System/Architecture/API/GraphQL/GraphQL-OpenSource-List.md)
+          - [5.1.1.2.4 GraphQL Server List](/System/Architecture/API/GraphQL/GraphQL-Server-List.md)
+        - [5.1.1.3 RESTful List](/System/Architecture/API/RESTful-List.md)
+      - [5.1.2 Architecture List](/System/Architecture/Architecture-List.md)
+      - 5.1.3 CodeStyle
+        - [5.1.3.1 CleanCode List](/System/Architecture/CodeStyle/CleanCode-List.md)
+        - [5.1.3.2 CodeReview List](/System/Architecture/CodeStyle/CodeReview-List.md)
+        - [5.1.3.3 CodeStyle OpenSource List](/System/Architecture/CodeStyle/CodeStyle-OpenSource-List.md)
+        - [5.1.3.4 Refactor List](/System/Architecture/CodeStyle/Refactor-List.md)
+        - [5.1.3.5 SecurityGuide List](/System/Architecture/CodeStyle/SecurityGuide-List.md)
+      - 5.1.4 GUIArchitecture
+        - [5.1.4.1 GUIArchitecture List](/System/Architecture/GUIArchitecture/GUIArchitecture-List.md)
+      - 5.1.5 LogicalArchitecture
+        - [5.1.5.1 CQRS List](/System/Architecture/LogicalArchitecture/CQRS-List.md)
+        - [5.1.5.2 CleanArchitecture List](/System/Architecture/LogicalArchitecture/CleanArchitecture-List.md)
+        - [5.1.5.3 DDD List](/System/Architecture/LogicalArchitecture/DDD-List.md)
+        - [5.1.5.4 EDA List](/System/Architecture/LogicalArchitecture/EDA-List.md)
+        - [5.1.5.5 LogicalArchitecture List](/System/Architecture/LogicalArchitecture/LogicalArchitecture-List.md)
     - 5.2 DataEngineering
       - 5.2.1 Analytics
         - [5.2.1.1 Analytics OpenSource List](/System/DataEngineering/Analytics/Analytics-OpenSource-List.md)
@@ -111,55 +119,48 @@
       - 5.4.9 WebSecurity
         - [5.4.9.1 WebSecurity List](/System/InfoSecurity/WebSecurity/WebSecurity-List.md)
     - 5.5 MicroCN
-      - 5.5.1 API
-        - [5.5.1.1 API List](/System/MicroCN/API/API-List.md)
-        - 5.5.1.2 GraphQL
-          - [5.5.1.2.1 GraphQL Client List](/System/MicroCN/API/GraphQL/GraphQL-Client-List.md)
-          - [5.5.1.2.2 GraphQL List](/System/MicroCN/API/GraphQL/GraphQL-List.md)
-          - [5.5.1.2.3 GraphQL OpenSource List](/System/MicroCN/API/GraphQL/GraphQL-OpenSource-List.md)
-          - [5.5.1.2.4 GraphQL Server List](/System/MicroCN/API/GraphQL/GraphQL-Server-List.md)
-        - [5.5.1.3 RESTful List](/System/MicroCN/API/RESTful-List.md)
-      - 5.5.2 CloudNative
-        - [5.5.2.1 CloudNative List](/System/MicroCN/CloudNative/CloudNative-List.md)
-        - [5.5.2.2 Istio List](/System/MicroCN/CloudNative/Istio-List.md)
-        - [5.5.2.3 Serverless List](/System/MicroCN/CloudNative/Serverless-List.md)
-        - [5.5.2.4 ServiceMesh List](/System/MicroCN/CloudNative/ServiceMesh-List.md)
-      - 5.5.3 DistributedTracing
-        - [5.5.3.1 DistributedTracing List](/System/MicroCN/DistributedTracing/DistributedTracing-List.md)
-      - 5.5.4 Gateway
-        - 5.5.4.1 Auth
-          - [5.5.4.1.1 Auth List](/System/MicroCN/Gateway/Auth/Auth-List.md)
-          - [5.5.4.1.2 Auth OpenSource List](/System/MicroCN/Gateway/Auth/Auth-OpenSource-List.md)
-        - [5.5.4.2 Gateway List](/System/MicroCN/Gateway/Gateway-List.md)
-        - [5.5.4.3 Gateway OpenSource List](/System/MicroCN/Gateway/Gateway-OpenSource-List.md)
-        - 5.5.4.4 WebServer
-          - [5.5.4.4.1 Apache List](/System/MicroCN/Gateway/WebServer/Apache-List.md)
-          - [5.5.4.4.2 Caddy List](/System/MicroCN/Gateway/WebServer/Caddy-List.md)
-          - [5.5.4.4.3 HAProxy List](/System/MicroCN/Gateway/WebServer/HAProxy-List.md)
-          - [5.5.4.4.4 Kong List](/System/MicroCN/Gateway/WebServer/Kong-List.md)
-          - [5.5.4.4.5 LVS List](/System/MicroCN/Gateway/WebServer/LVS-List.md)
-          - [5.5.4.4.6 Nginx List](/System/MicroCN/Gateway/WebServer/Nginx-List.md)
-          - [5.5.4.4.7 Tengine List](/System/MicroCN/Gateway/WebServer/Tengine-List.md)
-          - [5.5.4.4.8 Traefik List](/System/MicroCN/Gateway/WebServer/Traefik-List.md)
-      - 5.5.5 HA
-        - [5.5.5.1 CDN List](/System/MicroCN/HA/CDN-List.md)
-        - [5.5.5.2 Cache List](/System/MicroCN/HA/Cache-List.md)
-        - [5.5.5.3 HA List](/System/MicroCN/HA/HA-List.md)
-        - [5.5.5.4 HA OpenSource List](/System/MicroCN/HA/HA-OpenSource-List.md)
-        - [5.5.5.5 Harden List](/System/MicroCN/HA/Harden-List.md)
-        - [5.5.5.6 ResilienceService List](/System/MicroCN/HA/ResilienceService-List.md)
-        - [5.5.5.7 RiskManagement List](/System/MicroCN/HA/RiskManagement-List.md)
-        - [5.5.5.8 SRE List](/System/MicroCN/HA/SRE-List.md)
-        - [5.5.5.9 Spike List](/System/MicroCN/HA/Spike-List.md)
-      - [5.5.6 MicroCN List](/System/MicroCN/MicroCN-List.md)
-      - [5.5.7 MicroCN OpenSource List](/System/MicroCN/MicroCN-OpenSource-List.md)
-      - 5.5.8 RPC
-        - [5.5.8.1 BRPC List](/System/MicroCN/RPC/BRPC-List.md)
-        - [5.5.8.2 Dubbo List](/System/MicroCN/RPC/Dubbo-List.md)
-        - [5.5.8.3 RPC List](/System/MicroCN/RPC/RPC-List.md)
-        - [5.5.8.4 RPC OpenSource List](/System/MicroCN/RPC/RPC-OpenSource-List.md)
-        - [5.5.8.5 Serialization List](/System/MicroCN/RPC/Serialization-List.md)
-        - [5.5.8.6 gRPC List](/System/MicroCN/RPC/gRPC-List.md)
+      - 5.5.1 CloudNative
+        - [5.5.1.1 CloudNative List](/System/MicroCN/CloudNative/CloudNative-List.md)
+        - [5.5.1.2 Istio List](/System/MicroCN/CloudNative/Istio-List.md)
+        - [5.5.1.3 Serverless List](/System/MicroCN/CloudNative/Serverless-List.md)
+        - [5.5.1.4 ServiceMesh List](/System/MicroCN/CloudNative/ServiceMesh-List.md)
+      - 5.5.2 Gateway
+        - 5.5.2.1 Auth
+          - [5.5.2.1.1 Auth List](/System/MicroCN/Gateway/Auth/Auth-List.md)
+          - [5.5.2.1.2 Auth OpenSource List](/System/MicroCN/Gateway/Auth/Auth-OpenSource-List.md)
+        - [5.5.2.2 Gateway List](/System/MicroCN/Gateway/Gateway-List.md)
+        - [5.5.2.3 Gateway OpenSource List](/System/MicroCN/Gateway/Gateway-OpenSource-List.md)
+        - 5.5.2.4 WebServer
+          - [5.5.2.4.1 Apache List](/System/MicroCN/Gateway/WebServer/Apache-List.md)
+          - [5.5.2.4.2 Caddy List](/System/MicroCN/Gateway/WebServer/Caddy-List.md)
+          - [5.5.2.4.3 HAProxy List](/System/MicroCN/Gateway/WebServer/HAProxy-List.md)
+          - [5.5.2.4.4 Kong List](/System/MicroCN/Gateway/WebServer/Kong-List.md)
+          - [5.5.2.4.5 LVS List](/System/MicroCN/Gateway/WebServer/LVS-List.md)
+          - [5.5.2.4.6 Nginx List](/System/MicroCN/Gateway/WebServer/Nginx-List.md)
+          - [5.5.2.4.7 Tengine List](/System/MicroCN/Gateway/WebServer/Tengine-List.md)
+          - [5.5.2.4.8 Traefik List](/System/MicroCN/Gateway/WebServer/Traefik-List.md)
+      - 5.5.3 HA
+        - [5.5.3.1 CDN List](/System/MicroCN/HA/CDN-List.md)
+        - [5.5.3.2 Cache List](/System/MicroCN/HA/Cache-List.md)
+        - [5.5.3.3 HA List](/System/MicroCN/HA/HA-List.md)
+        - [5.5.3.4 HA OpenSource List](/System/MicroCN/HA/HA-OpenSource-List.md)
+        - [5.5.3.5 Harden List](/System/MicroCN/HA/Harden-List.md)
+        - [5.5.3.6 ResilienceService List](/System/MicroCN/HA/ResilienceService-List.md)
+        - [5.5.3.7 RiskManagement List](/System/MicroCN/HA/RiskManagement-List.md)
+        - [5.5.3.8 SRE List](/System/MicroCN/HA/SRE-List.md)
+        - [5.5.3.9 Spike List](/System/MicroCN/HA/Spike-List.md)
+      - [5.5.4 MicroCN List](/System/MicroCN/MicroCN-List.md)
+      - [5.5.5 MicroCN OpenSource List](/System/MicroCN/MicroCN-OpenSource-List.md)
+      - 5.5.6 RPC
+        - 5.5.6.1 DistributedTracing
+          - [5.5.6.1.1 DistributedTracing List](/System/MicroCN/RPC/DistributedTracing/DistributedTracing-List.md)
+        - 5.5.6.2 Framework
+          - [5.5.6.2.1 BRPC List](/System/MicroCN/RPC/Framework/BRPC-List.md)
+          - [5.5.6.2.2 Dubbo List](/System/MicroCN/RPC/Framework/Dubbo-List.md)
+        - [5.5.6.3 RPC List](/System/MicroCN/RPC/RPC-List.md)
+        - [5.5.6.4 RPC OpenSource List](/System/MicroCN/RPC/RPC-OpenSource-List.md)
+        - [5.5.6.5 Serialization List](/System/MicroCN/RPC/Serialization-List.md)
+        - [5.5.6.6 gRPC List](/System/MicroCN/RPC/gRPC-List.md)
     - 5.6 Solutions
       - 5.6.1 CMS
         - [5.6.1.1 CMS List](/System/Solutions/CMS/CMS-List.md)
@@ -798,8 +799,9 @@
         - 9.2.7.1 MySQL
           - [9.2.7.1.1 MySQL Cluster List](/Infrastructure/Database/RDB/MySQL/MySQL-Cluster-List.md)
           - [9.2.7.1.2 MySQL List](/Infrastructure/Database/RDB/MySQL/MySQL-List.md)
-          - [9.2.7.1.3 MySQL StoreEngine List](/Infrastructure/Database/RDB/MySQL/MySQL-StoreEngine-List.md)
-          - [9.2.7.1.4 MySQL Tuning List](/Infrastructure/Database/RDB/MySQL/MySQL-Tuning-List.md)
+          - [9.2.7.1.3 MySQL OpenSource List](/Infrastructure/Database/RDB/MySQL/MySQL-OpenSource-List.md)
+          - [9.2.7.1.4 MySQL StoreEngine List](/Infrastructure/Database/RDB/MySQL/MySQL-StoreEngine-List.md)
+          - [9.2.7.1.5 MySQL Tuning List](/Infrastructure/Database/RDB/MySQL/MySQL-Tuning-List.md)
         - 9.2.7.2 Oracle
           - [9.2.7.2.1 Oracle List](/Infrastructure/Database/RDB/Oracle/Oracle-List.md)
         - 9.2.7.3 PostgreSQL

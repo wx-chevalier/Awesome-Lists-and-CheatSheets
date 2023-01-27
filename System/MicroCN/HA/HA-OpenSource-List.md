@@ -1,5 +1,9 @@
 # HA OpenSource List
 
+# Showcase
+
+- [2019-goodsKill ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/2019-techa03/goodsKill)](https://github.com/2019-techa03/goodsKill): 🐯 基于 SpringCloud 2021.x +Dubbo 3.x 构建的模拟秒杀微服务项目，集成了 Elasticsearch🔍、Gateway、Mybatis-Plus、Sharding-JDBC 等常用开源组件
+
 # Cache
 
 - [Overlord ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/bilibili/overlord): Overlord 是哔哩哔哩基于 Go 语言编写的 memcache 和 redis&cluster 的代理及集群管理功能，致力于提供自动化高可用的缓存服务解决方案。
