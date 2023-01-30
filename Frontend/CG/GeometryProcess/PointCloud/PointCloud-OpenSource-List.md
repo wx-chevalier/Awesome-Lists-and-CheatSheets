@@ -10,14 +10,6 @@
 
 - [2019-PointCloudDatasets ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/antao97/PointCloudDatasets)](https://github.com/antao97/PointCloudDatasets):This repository provides ShapeNetCore.v2, ShapeNetPart, ModelNet40 and ModelNet10 datasets in HDF5 format. For each shape in these datasets, we use farthest point sampling algorithm to uniformly sample 2,048 points from shape surface. All points are then centered and scaled. We follow the train/val/test split in official documents.
 
-# Convert to Mesh
-
-- [2018-pointcloudToMesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/danielTobon43/pointcloudToMesh)](https://github.com/danielTobon43/pointcloudToMesh): C++ application to convert pcd file, ply file, txt file or xyz point cloud to MESH representation (Gp3).
-
-- [2020-Point2Mesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/ranahanocka/Point2Mesh)](https://github.com/ranahanocka/Point2Mesh): Point2Mesh is a technique for reconstructing a surface mesh from an input point cloud. This approach "learns" from a single object, by optimizing the weights of a CNN to deform some initial mesh to shrink-wrap the input point cloud. The argument for going this route is: since the (local) convolutional kernels are optimized globally across the entire shape, this encourages local-scale geometric self-similarity across the reconstructed shape surface.
-
-- [2021-pcdmeshing ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/cvg/pcdmeshing)](https://github.com/cvg/pcdmeshing): pcdmeshing is a Python package to reconstruct meshes from point clouds using CGAL.
-
 # Editor & Label
 
 - [2013-Plasio ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/verma/plasio)](https://github.com/verma/plasio): plasio is a project by Uday Verma and Howard Butler that implements point cloud rendering capability in a browser. Specifically, it provides a functional implementation of the ASPRS LAS format, and it can consume LASzip-compressed data using LASzip NaCl module. Plasio is Chrome-only at this time, but it is hoped that other contributors can step forward to bring it to other browsers.

@@ -16,6 +16,8 @@
 
 - [2022-apk.sh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/ax/apk.sh)](https://github.com/ax/apk.sh): apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 
+- [2022-PhoneSploit-Pro ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/AzeemIdrisi/PhoneSploit-Pro)](https://github.com/AzeemIdrisi/PhoneSploit-Pro): An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
+
 # Hybrid
 
 - [Cordova]()
