@@ -1,7 +1,5 @@
 # JavaScript OpenSource List
 
-- [Automerge ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/automerge/automerge): A JSON-like data structure that can be modified concurrently by different users, and merged again automatically.
-
 # Showcase
 
 - [WarriorJS ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/olistic/warriorjs): An exciting game of programming and Artificial Intelligence.

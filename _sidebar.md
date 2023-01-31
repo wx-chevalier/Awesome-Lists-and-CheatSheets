@@ -852,17 +852,18 @@
           - [9.3.3.1.4 Blockchain OpenSource List](/Infrastructure/Distributed/DistributedStorage/Blockchain/Blockchain-OpenSource-List.md)
           - [9.3.3.1.5 Ethereum List](/Infrastructure/Distributed/DistributedStorage/Blockchain/Ethereum-List.md)
           - [9.3.3.1.6 Solidity List](/Infrastructure/Distributed/DistributedStorage/Blockchain/Solidity-List.md)
-        - 9.3.3.2 DistributedFS
-          - [9.3.3.2.1 DistributedFS List](/Infrastructure/Distributed/DistributedStorage/DistributedFS/DistributedFS-List.md)
-          - [9.3.3.2.2 HDFS List](/Infrastructure/Distributed/DistributedStorage/DistributedFS/HDFS-List.md)
-        - 9.3.3.3 DistributedID
-          - [9.3.3.3.1 DistributedID List](/Infrastructure/Distributed/DistributedStorage/DistributedID/DistributedID-List.md)
-        - [9.3.3.4 DistributedStorage List](/Infrastructure/Distributed/DistributedStorage/DistributedStorage-List.md)
-        - [9.3.3.5 DistributedStorage OpenSource List](/Infrastructure/Distributed/DistributedStorage/DistributedStorage-OpenSource-List.md)
-        - 9.3.3.6 ObjectStorage
-          - [9.3.3.6.1 BlockStorage List](/Infrastructure/Distributed/DistributedStorage/ObjectStorage/BlockStorage-List.md)
-          - [9.3.3.6.2 DistributedStorage List](/Infrastructure/Distributed/DistributedStorage/ObjectStorage/DistributedStorage-List.md)
-          - [9.3.3.6.3 ObjectStorage List](/Infrastructure/Distributed/DistributedStorage/ObjectStorage/ObjectStorage-List.md)
+        - [9.3.3.2 CRDT List](/Infrastructure/Distributed/DistributedStorage/CRDT-List.md)
+        - 9.3.3.3 DistributedFS
+          - [9.3.3.3.1 DistributedFS List](/Infrastructure/Distributed/DistributedStorage/DistributedFS/DistributedFS-List.md)
+          - [9.3.3.3.2 HDFS List](/Infrastructure/Distributed/DistributedStorage/DistributedFS/HDFS-List.md)
+        - 9.3.3.4 DistributedID
+          - [9.3.3.4.1 DistributedID List](/Infrastructure/Distributed/DistributedStorage/DistributedID/DistributedID-List.md)
+        - [9.3.3.5 DistributedStorage List](/Infrastructure/Distributed/DistributedStorage/DistributedStorage-List.md)
+        - [9.3.3.6 DistributedStorage OpenSource List](/Infrastructure/Distributed/DistributedStorage/DistributedStorage-OpenSource-List.md)
+        - 9.3.3.7 ObjectStorage
+          - [9.3.3.7.1 BlockStorage List](/Infrastructure/Distributed/DistributedStorage/ObjectStorage/BlockStorage-List.md)
+          - [9.3.3.7.2 DistributedStorage List](/Infrastructure/Distributed/DistributedStorage/ObjectStorage/DistributedStorage-List.md)
+          - [9.3.3.7.3 ObjectStorage List](/Infrastructure/Distributed/DistributedStorage/ObjectStorage/ObjectStorage-List.md)
       - 9.3.4 DistributedSystem
         - 9.3.4.1 Consensus
           - [9.3.4.1.1 Consensus List](/Infrastructure/Distributed/DistributedSystem/Consensus/Consensus-List.md)
