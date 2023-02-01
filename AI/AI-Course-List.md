@@ -44,6 +44,8 @@
 
 - [2019-台大教授李宏毅的机器学习课程 🏫](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html): 台大教授李宏毅的机器学习课程经常被认为是中文开放课程中的首选。李教授的授课风格风趣幽默，通俗易懂，其课程内容中不仅有机器学习、深度学习的基础知识，也会介绍 ML 领域里的各种最新技术。
 
+  - [李宏毅深度学习教程 LeeDL-Tutorial](https://github.com/datawhalechina/leedl-tutorial): 本教程主要内容源于《机器学习》（2021 年春），并在其基础上进行了一定的原创。比如，为了尽可能地降低阅读门槛，笔者对这门公开课的精华内容进行选取并优化，对所涉及的公式都给出详细的推导过程，对较难理解的知识点进行了重点讲解和强化，以方便读者较为轻松地入门。此外，为了丰富内容，笔者在教程中选取了《机器学习》（2017 年春） 的部分内容，并补充了不少除这门公开课之外的深度学习相关知识。
+
 - [2021-Machine Learning for Beginners - A Curriculum 🏫](https://github.com/microsoft/ML-For-Beginners): Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about Machine Learning.
 
 # Deep Learning

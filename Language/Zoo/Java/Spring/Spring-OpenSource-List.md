@@ -34,6 +34,12 @@
 
 - [2021-rude-java ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/RudeCrab/rude-java)](https://github.com/RudeCrab/rude-java): Java Practice Projects(SSM、Spring Boot、Spring Security、MinIO、Vue). 以 Java 语言为主的各种项目实践，涵盖各个业务、各个功能，并附上高质量文章讲解，其中一些甚至可以单开一个仓库。让你再也不用寻找各种框架 demo、项目脚手架。
 
+## 响应式
+
+- [2020-hsweb-framework ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/hs-web/hsweb-framework)](https://github.com/hs-web/hsweb-framework): hsweb (haʊs wɛb) 是一个基于 spring-boot 2.x 开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。
+
+- [2021-novel ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/201206030/novel)](https://github.com/201206030/novel): novel 是一套基于时下最新 Java 技术栈 Spring Boot 3 + Vue 3 开发的前后端分离学习型小说项目，配备保姆级教程手把手教你从零开始开发上线一套生产级别的 Java 系统，由小说门户系统、作家后台管理系统、平台后台管理系统等多个子系统构成。包括小说推荐、作品检索、小说排行榜、小说阅读、小说评论、会员中心、作家专区、充值订阅、新闻发布等功能。
+
 ## Examples
 
 - [spring-boot-quick ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/vector4wang/spring-boot-quick): 🌿 基于 springboot 的快速学习示例,整合自己遇到的开源框架,如：rabbitmq(延迟队列)、Kafka、jpa、redies、oauth2、swagger、jsp、docker、spring-batch、异常处理、日志输出、多模块开发、多环境打包、缓存 cache、爬虫、jwt、GraphQL、dubbo、zookeeper 和 Async 等等 📌
@@ -41,6 +47,8 @@
 # Libraries
 
 ## Log
+
+- [2021-plumelog ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/fayechenlong/plumelog)](https://github.com/fayechenlong/plumelog): 一个 Java 分布式日志组件，支持百亿级别，日志从搜集到查询，不用去文件中翻阅日志方便快捷，支持查询一个调用链的日志，支持链路追踪，查看调用链耗时情况，在分布式系统中也可以查询关联日志，能够帮助快速定位问题，简单易用，没有代码入侵，查询界面友好，高效，方便，只要你是 java 系统，不要做任何项目改造，接入直接使用，日志不落本地磁盘。
 
 - [2021-mzt-biz-log ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/mouzt/mzt-biz-log)](https://github.com/mouzt/mzt-biz-log): 支持 Springboot，基于注解的可使用变量、可以自定义函数的通用操作日志组件。
 

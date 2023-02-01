@@ -16,6 +16,8 @@
 
 - [2018-ThibaultGROUEIX/AtlasNet ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/ThibaultGROUEIX/AtlasNet)](https://github.com/ThibaultGROUEIX/AtlasNet): This repository contains the source codes for the paper "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation ". The network is able to synthesize a mesh (point cloud + connectivity) from a low-resolution point cloud, or from an image.
 
+- [2018-Pix3d ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/xingyuansun/pix3d)](https://github.com/xingyuansun/pix3d): Dataset and Methods for Single-Image 3D Shape Modeling.
+
 - [2019-Pixel2Mesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/nywang16/Pixel2Mesh)](https://github.com/nywang16/Pixel2Mesh): Generating 3D Mesh Models from Single RGB Images. In ECCV2018.
 
 - [2021-AOT-AG/DicomToMesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/AOT-AG/DicomToMesh)](https://github.com/AOT-AG/DicomToMesh): A command line tool to transform a DICOM volume into a 3d surface mesh (obj, stl or ply). Several mesh processing routines can be enabled, such as mesh reduction, smoothing or cleaning. Works on Linux, OSX and Windows.

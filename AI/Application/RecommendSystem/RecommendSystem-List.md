@@ -52,6 +52,8 @@
 
 - [深度学习遇上推荐系统 #Series#](https://ask.hellobi.com/m/article/11821): 在计算广告和推荐系统中，CTR 预估(click-through rate)是非常重要的一个环节，判断一个商品的是否进行推荐需要根据 CTR 预估的点击率来进行。
 
+- [2021-FunRec ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/datawhalechina/fun-rec)](https://github.com/datawhalechina/fun-rec): 本教程主要是针对具有机器学习基础并想找推荐算法岗位的同学。教程内容由推荐系统概述、推荐算法基础、推荐系统实战和推荐系统面经四个部分组成。本教程对于入门推荐算法的同学来说，可以从推荐算法的基础到实战再到面试，形成一个闭环。
+
 # OpenSource
 
 - [2019-DeepCTR：易用可扩展的深度学习点击率预测算法包](https://zhuanlan.zhihu.com/p/53231955): 这个项目主要是对目前的一些基于深度学习的点击率预测算法进行了实现，如 PNN, WDL,DeepFM,MLR,DeepCross,AFM,NFM,DIN,DIEN,xDeepFM,AutoInt 等,并且对外提供了一致的调用接口。

@@ -12,6 +12,8 @@
 
 - [Console based JVM monitoring](https://github.com/ajermakovics/jvm-mon)
 
+- [2023-Java 自动化探针技术的核心原理和实践](https://www.infoq.cn/article/JYWWVhcGCWL7vGK1RIap): 用 C、C++ 实现 JVMTI 功能对大部分 Java 工程师的确强人所难。于是，Sun 公司出了 Java Agent，一个用 Java 实现 JVMTI 的方案，方案相当优雅和容易上手。
+
 ## Arthas
 
 - [2019-6 到飞起的 Java 诊断工具 Arthas](https://mp.weixin.qq.com/s/5imH2dogvduzHDaVTikqVA): 这时 Arthas 走进了我的眼帘，并成功帮我定位到了问题，就是这样引起了我对 Arthas 的兴趣，于是花了点时间对 Arthas 作了一个了解。
