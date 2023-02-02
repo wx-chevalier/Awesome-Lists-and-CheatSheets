@@ -12,9 +12,9 @@
 
 ## Course
 
-- [Learn Structured Query Language 🏫](https://www.w3resource.com/sql/tutorials.php): SQL Tutorial of w3resource aims to meet the need of a beginner to learn SQL without any prior experience.
+- [Learn Structured Query Language 🎥](https://www.w3resource.com/sql/tutorials.php): SQL Tutorial of w3resource aims to meet the need of a beginner to learn SQL without any prior experience.
 
-- [2018-SQLBolt 🏫](https://sqlbolt.com/): Welcome to SQLBolt, a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
+- [2018-SQLBolt 🎥](https://sqlbolt.com/): Welcome to SQLBolt, a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
 
 # Schema Design
 

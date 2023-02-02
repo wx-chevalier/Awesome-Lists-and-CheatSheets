@@ -98,9 +98,9 @@
 
 ## Course
 
-- [2018-The "REST with Spring" Classes 🏫](https://github.com/eugenp/tutorials): This project is a collection of small and focused tutorials - each covering a single and well defined area of development in the Java ecosystem. A strong focus of these is, of course, the Spring Framework - Spring, Spring Boot and Spring Securiyt. In additional to Spring, the following technologies are in focus: core Java, Jackson, HttpClient, Guava.
+- [2018-The "REST with Spring" Classes 🎥](https://github.com/eugenp/tutorials): This project is a collection of small and focused tutorials - each covering a single and well defined area of development in the Java ecosystem. A strong focus of these is, of course, the Spring Framework - Spring, Spring Boot and Spring Securiyt. In additional to Spring, the following technologies are in focus: core Java, Jackson, HttpClient, Guava.
 
-- [2019-Spring Boot 实践学习案例 🏫](https://github.com/JeffLi1993/springboot-learning-example): Spring boot 初学者及核心技术巩固的最佳实践。另外写博客，用 OpenWrite。
+- [2019-Spring Boot 实践学习案例 🎥](https://github.com/JeffLi1993/springboot-learning-example): Spring boot 初学者及核心技术巩固的最佳实践。另外写博客，用 OpenWrite。
 
 ## Series | 系列文章
 

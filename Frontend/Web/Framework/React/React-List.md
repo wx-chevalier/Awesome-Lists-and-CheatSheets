@@ -70,11 +70,11 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 - [2017-learncodeacademy/react-js-tutorials](https://github.com/learncodeacademy/react-js-tutorials): Code that goes along with my YouTube React JS Series.
 
-- [2018-React 从入门到精通 🏫](https://github.com/supnate/react-geek-time): 极客时间：React 从入门到精通。
+- [2018-React 从入门到精通 🎥](https://github.com/supnate/react-geek-time): 极客时间：React 从入门到精通。
 
-- [2020-30 Days of React 🏫](https://github.com/Asabeneh/30-Days-Of-React): 30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of Java…
+- [2020-30 Days of React 🎥](https://github.com/Asabeneh/30-Days-Of-React): 30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of Java…
 
-- [2020-Advanced-React 🏫](https://github.com/wesbos/Advanced-React): Starter Files and Solutions for Full Stack Advanced React and GraphQL
+- [2020-Advanced-React 🎥](https://github.com/wesbos/Advanced-React): Starter Files and Solutions for Full Stack Advanced React and GraphQL
 
 - [2021-react-fundamentals ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/kentcdodds/react-fundamentals)](https://github.com/kentcdodds/react-fundamentals): Learn everything you need to be effective with the fundamental building block of React applications. When you're finished, you'll be prepared to create React components to build excellent experiences for your app's users.
 

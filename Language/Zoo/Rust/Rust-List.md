@@ -62,13 +62,13 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 ## Course
 
-- [TP 201: Practical Networked Applications in Rust 🏫](https://github.com/pingcap/talent-plan). A series of projects that incrementally develop a single Rust project from the ground up into a high-performance, networked, parallel and asynchronous key/value store. Along the way various real-world and practical Rust development subject matter are explored and discussed.
+- [TP 201: Practical Networked Applications in Rust 🎥](https://github.com/pingcap/talent-plan). A series of projects that incrementally develop a single Rust project from the ground up into a high-performance, networked, parallel and asynchronous key/value store. Along the way various real-world and practical Rust development subject matter are explored and discussed.
 
-- [TP 202: Distributed Systems in Rust 🏫](https://github.com/pingcap/talent-plan/). Adapted from the [MIT 6.824](http://nil.csail.mit.edu/6.824/2017/index.html) distributed systems coursework, this course focuses on implementing important distributed algorithms, including the [Raft](https://raft.github.io/) consensus algorithm, and the [Percolator](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf) distributed transaction protocol.
+- [TP 202: Distributed Systems in Rust 🎥](https://github.com/pingcap/talent-plan/). Adapted from the [MIT 6.824](http://nil.csail.mit.edu/6.824/2017/index.html) distributed systems coursework, this course focuses on implementing important distributed algorithms, including the [Raft](https://raft.github.io/) consensus algorithm, and the [Percolator](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf) distributed transaction protocol.
 
-- [2022-Comprehensive Rust 🏫](https://google.github.io/comprehensive-rust/welcome.html): This is a four day Rust course developed by the Android team. The course covers the full spectrum of Rust, from basic syntax to advanced topics like generics and error handling. It also includes Android-specific content on the last day.
+- [2022-Comprehensive Rust 🎥](https://google.github.io/comprehensive-rust/welcome.html): This is a four day Rust course developed by the Android team. The course covers the full spectrum of Rust, from basic syntax to advanced topics like generics and error handling. It also includes Android-specific content on the last day.
 
-- [2022-Rust 101 🏫](https://github.com/tweedegolf/101-rs): Rust 101 is a university course for computer science students, introducing the Rust Programming Language, and is available for anyone who wants to teach Rust.
+- [2022-Rust 101 🎥](https://github.com/tweedegolf/101-rs): Rust 101 is a university course for computer science students, introducing the Rust Programming Language, and is available for anyone who wants to teach Rust.
 
 # Tutorial
 

@@ -68,9 +68,9 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 ## Course
 
-- [2020-20+ Web Projects With Vanilla JavaScript 🏫](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries.
+- [2020-20+ Web Projects With Vanilla JavaScript 🎥](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries.
 
-- [2020-Beginner's Series: Introduction to JavaScript (Node.js) 🏫](https://github.com/microsoft/beginners-intro-javascript-node): We created a video series to aid the burgeoning developer curious about writing JavaScript for Node.js. Our goal is to help show you enough JavaScript to give you the background needed to begin working through quick starts and tutorials focused on frameworks and SDKs using JavaScript.
+- [2020-Beginner's Series: Introduction to JavaScript (Node.js) 🎥](https://github.com/microsoft/beginners-intro-javascript-node): We created a video series to aid the burgeoning developer curious about writing JavaScript for Node.js. Our goal is to help show you enough JavaScript to give you the background needed to begin working through quick starts and tutorials focused on frameworks and SDKs using JavaScript.
 
 ## Series
 

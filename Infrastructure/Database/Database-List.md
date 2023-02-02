@@ -88,17 +88,17 @@
 
 ### SQL
 
-- [2019-W3Resource SQL Tutorial 🏫](https://www.w3resource.com/sql/tutorials.php#HISTSQL): SQL Tutorial of w3resource aims to meet the need of a beginner to learn SQL without any prior experience.
+- [2019-W3Resource SQL Tutorial 🎥](https://www.w3resource.com/sql/tutorials.php#HISTSQL): SQL Tutorial of w3resource aims to meet the need of a beginner to learn SQL without any prior experience.
 
-- [SQL in a Nutshell 🏫](https://parg.co/U31): This series focuses on the most frequent data science and analytical problems in the real-world, and aims at solving them with SQL.
+- [SQL in a Nutshell 🎥](https://parg.co/U31): This series focuses on the most frequent data science and analytical problems in the real-world, and aims at solving them with SQL.
 
-- [W3School SQL 教程 🏫](https://wizardforcel.gitbooks.io/w3school-sql/content/part1.html)
+- [W3School SQL 教程 🎥](https://wizardforcel.gitbooks.io/w3school-sql/content/part1.html)
 
-- [SQL Teaching 🏫](https://www.sqlteaching.com/)
+- [SQL Teaching 🎥](https://www.sqlteaching.com/)
 
-- [Intro to SQL: Querying and managing data 🏫](https://parg.co/Uxe): Learn how to use SQL to store, query, and manipulate data. SQL is a special-purpose programming language designed for managing data in a relational database, and is used by a huge number of apps and organizations.
+- [Intro to SQL: Querying and managing data 🎥](https://parg.co/Uxe): Learn how to use SQL to store, query, and manipulate data. SQL is a special-purpose programming language designed for managing data in a relational database, and is used by a huge number of apps and organizations.
 
-- [2019-Select Star SQL 🏫](https://selectstarsql.com): This is an interactive book which aims to be the best place on the internet for learning SQL.
+- [2019-Select Star SQL 🎥](https://selectstarsql.com): This is an interactive book which aims to be the best place on the internet for learning SQL.
 
 ## Paper
 

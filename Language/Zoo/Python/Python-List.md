@@ -46,9 +46,9 @@
 
 ## Course
 
-- [c9-python-getting-started 🏫](https://github.com/microsoft/c9-python-getting-started): The series of videos on Channel 9 is designed to help get you up to speed on Python.
+- [c9-python-getting-started 🎥](https://github.com/microsoft/c9-python-getting-started): The series of videos on Channel 9 is designed to help get you up to speed on Python.
 
-- [2020-Practical Python Programming 🏫](https://github.com/dabeaz-course/practical-python): The material you see here is the heart of an instructor-led Python training course used for corporate training and professional development.
+- [2020-Practical Python Programming 🎥](https://github.com/dabeaz-course/practical-python): The material you see here is the heart of an instructor-led Python training course used for corporate training and professional development.
 
 - [2022-Futurecoder ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/alexmojaki/futurecoder)](https://github.com/alexmojaki/futurecoder): This is a 100% free and interactive course for people to teach themselves programming in Python, especially complete beginners at programming. It is carefully designed to reduce frustration and guide the user while still ensuring that they learn how to solve problems. The goal is for as many people as possible to learn programming.
 

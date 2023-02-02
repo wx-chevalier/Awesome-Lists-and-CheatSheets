@@ -38,21 +38,21 @@
 
 ## Course
 
-- [2017-Introduction to Kubernetes 🏫](https://www.edx.org/course/introduction-to-kubernetes): Want to learn Kubernetes? Get an in-depth primer on this powerful system for managing containerized applications.
+- [2017-Introduction to Kubernetes 🎥](https://www.edx.org/course/introduction-to-kubernetes): Want to learn Kubernetes? Get an in-depth primer on this powerful system for managing containerized applications.
 
-- [2017-Scalable Microservices with Kubernetes (Udacity) 🏫](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615): This course is designed to teach you about managing application containers, using Kubernetes
+- [2017-Scalable Microservices with Kubernetes (Udacity) 🎥](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615): This course is designed to teach you about managing application containers, using Kubernetes
 
-- [2017-Kubernetes 完全教程 🏫](https://github.com/jolestar/kubernetes-complete-course): 这个教程是一个公开课系列课程，预计包含 8 课（包含一节预备课）。
+- [2017-Kubernetes 完全教程 🎥](https://github.com/jolestar/kubernetes-complete-course): 这个教程是一个公开课系列课程，预计包含 8 课（包含一节预备课）。
 
-- [2017-从 Docker 到 Kubernetes 进阶 🏫](https://www.qikqiak.com/k8s-book/): 从 Docker 入门一步步迁移到 Kubernetes 的进阶课程。
+- [2017-从 Docker 到 Kubernetes 进阶 🎥](https://www.qikqiak.com/k8s-book/): 从 Docker 入门一步步迁移到 Kubernetes 的进阶课程。
 
-- [2018-阿里云云原生技术公开课 🏫](https://edu.aliyun.com/roadmap/cloudnative#course): 云原生最初来描述云上应用的典型架构与特性，随着容器、kubernetes、Serverless、FaaS 技术的演进，CNCF（云原生计算基金会）把云原生的概念更广泛地定义为“让应用更有弹性、容错性、观测性的基础技术，让应用更容易部署、管理的基础软件、让应用更容易编写、编排的运行框架等”，希望能够让开发者最好的利用云的资源、产品和交付能力。
+- [2018-阿里云云原生技术公开课 🎥](https://edu.aliyun.com/roadmap/cloudnative#course): 云原生最初来描述云上应用的典型架构与特性，随着容器、kubernetes、Serverless、FaaS 技术的演进，CNCF（云原生计算基金会）把云原生的概念更广泛地定义为“让应用更有弹性、容错性、观测性的基础技术，让应用更容易部署、管理的基础软件、让应用更容易编写、编排的运行框架等”，希望能够让开发者最好的利用云的资源、产品和交付能力。
 
-- [2019-CKAD Exercises 🏫](https://github.com/dgkanatsios/CKAD-exercises): A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation.
+- [2019-CKAD Exercises 🎥](https://github.com/dgkanatsios/CKAD-exercises): A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation.
 
-- [2019-Kubernetes 免费教程 🏫](https://kuboard.cn/learning/): 本教程的主要依据是：Kubernetes 官网文档，以及使用 Kubernetes 落地 Spring Cloud 微服务并投产的实战经验。适用人群：Kubernetes 初学者，学习过 Kubernetes，但在投产过程中仍有诸多疑虑和困惑的技术爱好者。
+- [2019-Kubernetes 免费教程 🎥](https://kuboard.cn/learning/): 本教程的主要依据是：Kubernetes 官网文档，以及使用 Kubernetes 落地 Spring Cloud 微服务并投产的实战经验。适用人群：Kubernetes 初学者，学习过 Kubernetes，但在投产过程中仍有诸多疑虑和困惑的技术爱好者。
 
-- [2020-Learn Kubernetes with Google 🏫](https://learnkubernetes.withgoogle.com/): Google brings together Kubernetes experts from across the industry to discuss the latest trends in the project, and how to think about and solve complex problems using Kubernetes.
+- [2020-Learn Kubernetes with Google 🎥](https://learnkubernetes.withgoogle.com/): Google brings together Kubernetes experts from across the industry to discuss the latest trends in the project, and how to think about and solve complex problems using Kubernetes.
 
 ## Collection
 

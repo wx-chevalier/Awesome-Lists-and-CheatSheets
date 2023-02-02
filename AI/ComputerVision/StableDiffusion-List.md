@@ -1,6 +1,6 @@
 # StableDiffusion List
 
-- [Hugging Face Diffusion Models Course 🏫](https://github.com/huggingface/diffusion-models-class): Materials for the Hugging Face Diffusion Models Course.
+- [Hugging Face Diffusion Models Course 🎥](https://github.com/huggingface/diffusion-models-class): Materials for the Hugging Face Diffusion Models Course.
 
 # OpenSource
 

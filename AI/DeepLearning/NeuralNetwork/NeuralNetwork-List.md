@@ -34,7 +34,7 @@
 
 - [2018-Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/): A simple explanation of how they work and how to implement one from scratch in Python.
 
-- [2022-Neural Networks: Zero to Hero 🏫](https://github.com/karpathy/nn-zero-to-hero): A course on neural networks that starts all the way at the basics. The course is a series of YouTube videos where we code and train neural networks together. The Jupyter notebooks we build in the videos are then captured here inside the lectures directory. Every lecture also has a set of exercises included in the video description. (This may grow into something more respectable).
+- [2022-Neural Networks: Zero to Hero 🎥](https://github.com/karpathy/nn-zero-to-hero): A course on neural networks that starts all the way at the basics. The course is a series of YouTube videos where we code and train neural networks together. The Jupyter notebooks we build in the videos are then captured here inside the lectures directory. Every lecture also has a set of exercises included in the video description. (This may grow into something more respectable).
 
 # Back Propagation | 反向传播
 

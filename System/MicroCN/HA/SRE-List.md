@@ -14,7 +14,7 @@
 
 - [2019-大规模微服务单元化与高可用设计](https://mp.weixin.qq.com/s/5ovOHoI4gZqokez672wriQ): 为了满足以上的要求，这个系统绝不是运维组努力一把，或者开发组努力一把，就能解决的，是一个端到端的，各个部门共同完成的一个目标，所以我们常称为战略设计。
 
-- [2020-School of SRE 🏫](https://github.com/linkedin/school-of-sre): At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
+- [2020-School of SRE 🎥](https://github.com/linkedin/school-of-sre): At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
 
 ## Case Study
 

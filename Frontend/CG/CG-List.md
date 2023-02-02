@@ -32,8 +32,8 @@
 
 - [John C. Hart Coursera](https://zh.coursera.org/learn/datavisualization)
 
-- [2020-Geometry Processing Course 🏫 ![star](https://img.shields.io/github/stars/alecjacobson/geometry-processing)](https://github.com/alecjacobson/geometry-processing): Course material for a grad-level course in Geometry Processing.
+- [2020-Geometry Processing Course 🎥 ![star](https://img.shields.io/github/stars/alecjacobson/geometry-processing)](https://github.com/alecjacobson/geometry-processing): Course material for a grad-level course in Geometry Processing.
 
-- [2020-Digital Geometry Processing 🏫](https://ustc-gcl-f.github.io/course/2020_Spring_DGP/index.html): This course provides an introduction to digital geometry processing, a subfield of computer graphics. This course will cover basic mathematical foundations for studying 3D surfaces from a discrete differential geometric standpoint and present the full geometry processing pipeline, including mesh representation, mesh smoothing, parameterization, remeshing, decimation and surface deformation.
+- [2020-Digital Geometry Processing 🎥](https://ustc-gcl-f.github.io/course/2020_Spring_DGP/index.html): This course provides an introduction to digital geometry processing, a subfield of computer graphics. This course will cover basic mathematical foundations for studying 3D surfaces from a discrete differential geometric standpoint and present the full geometry processing pipeline, including mesh representation, mesh smoothing, parameterization, remeshing, decimation and surface deformation.
 
   - [2020-AMMesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/USTC-GCL-F/AMMesh): The code of lesson “Digital Geometry Processing” with ACAM frame

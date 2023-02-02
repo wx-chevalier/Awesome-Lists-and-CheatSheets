@@ -94,7 +94,7 @@ Awesome-Lists 是横跨了编程语言与理论、Web 与大前端、服务端�
 - #Slide#：幻灯片
 - #Series#：系列文章
 - #Book# 📚：书籍
-- #Course# 🏫：视频教程
+- #Course# 🎥：视频教程
 - #Collection# 🗃️：资源集锦
 - #Code# ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg): 开源的项目或者框架、库。
 - #Scratch#: 从零构建某些系统

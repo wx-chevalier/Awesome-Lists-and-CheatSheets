@@ -50,7 +50,7 @@
 
 - [2018-finch ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/zhedongzheng/finch): Make NLP Flow in TensorFlow
 
-- [2019-TensorFlow in Practice 🏫](https://www.coursera.org/specializations/tensorflow-in-practice): In this four-course Specialization, you’ll explore exciting opportunities for AI applications. Begin by developing an understanding of how to build and train neural networks.
+- [2019-TensorFlow in Practice 🎥](https://www.coursera.org/specializations/tensorflow-in-practice): In this four-course Specialization, you’ll explore exciting opportunities for AI applications. Begin by developing an understanding of how to build and train neural networks.
 
 - [2020-dlaicourse ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/lmoroney/dlaicourse): Notebooks for learning deep learning.
 
