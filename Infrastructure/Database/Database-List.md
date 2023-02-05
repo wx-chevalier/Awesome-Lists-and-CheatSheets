@@ -78,6 +78,8 @@
 
 - [2016-Readings in Databases 🗃️](https://github.com/rxin/db-readings): A list of papers essential to understanding databases and building new data systems.
 
+- [2019-DB-TUTORIAL 🗃️](https://github.com/dunwu/db-tutorial): 💾 db-tutorial 是一个数据库教程。
+
 - [2021-Awesome Database Learning 🗃️](https://github.com/pingcap/awesome-database-learning): A list of learning materials to understand databases internals.
 
 ## Course

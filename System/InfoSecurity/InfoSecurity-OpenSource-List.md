@@ -160,6 +160,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [Digital-Privacy ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/ffffffff0x/Digital-Privacy): 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗
 
+- [2020-Osintgram ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/Datalux/Osintgram)](https://github.com/Datalux/Osintgram): Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
+
 - [2022-octosuite ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/bellingcat/octosuite)](https://github.com/bellingcat/octosuite): A framework for gathering open-source intelligence on GitHub users, repositories and organizations.
 
 ## Leakage

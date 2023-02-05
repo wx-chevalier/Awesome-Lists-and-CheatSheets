@@ -4,10 +4,6 @@
 
 - [packetdrill ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/google/packetdrill): The official Google release of packetdrill.
 
-# WebSocket
-
-- [2017-go-socket.io ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/googollee/go-socket.io): go-socket.io is an implementation of Socket.IO in Golang, which is a realtime application framework.
-
 # VPN
 
 - [DSVPN ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/jedisct1/dsvpn): DSVPN is a Dead Simple VPN, designed to address the most common use case for using a VPN.
