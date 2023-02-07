@@ -1,17 +1,6 @@
-# UI List
+# UED List
 
-1. 平面设计: [《超赞！设计师完全自学指南》](http://www.uisdc.com/designer-self-study-2)
-2. 交互设计: [《交互设计师修炼指南！教你从零开始成为优秀交互设计师》](http://www.uisdc.com/interaction-designers-guide)
-3. UI 设计: [《超实用新手指南！零基础如何自学 UI 设计？》](http://www.uisdc.com/beginner-ui-design-study)
-4. 前端开发: [《天猫高手来教你！零基础如何系统地学习前端开发？》](http://www.uisdc.com/none-based-front-end)
-5. 抠图技巧: [《从菜鸟到高手！PHOTOSHOP 抠图全方位攻略》](http://www.uisdc.com/photoshop-matting-techniques)
-6. 配色方案: [《色彩搭配速成！3 个实用方法帮你全面搞定配色》](http://www.uisdc.com/3-color-matching-skills)
-7. DPI 指南: [《基础知识学起来！为设计师量身打造的 DPI 指南》](http://www.uisdc.com/designers-guide-to-dpi)
-8. 交互设计自学路径图: [《零基础入门！给非科班生的自学路径图之交互设计篇》](http://www.uisdc.com/non-designer-interactive-design)
-
-- [2018-7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886): Improving your designs with tactics instead of talent.
-
-- [2017-Froala Design Blocks](https://github.com/froala/design-blocks): All blocks are based on the Bootstrap Library, and they are the building blocks for beautiful websites.
+- [2021-Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/): You do not have to follow these rules every time. If you have a good reason to break any of them, do. But they are safe to follow every time.
 
 # Atomic Design
 
@@ -118,3 +107,16 @@ UI 设计的主要工作都包括进去了，如果能够将这三本书很好�
 - [Cloudscape Design](https://cloudscape.design/patterns/patterns/overview/): Patterns are reusable combinations of components that solve common user problems. Our best practice solutions help users achieve their goals and ensure consistency across experiences.
 
 - [Ant Design](https://ant.design/docs/spec/introduce-cn): 随着商业化的趋势，越来越多的企业级产品对更好的用户体验有了进一步的要求。带着这样的一个终极目标，我们（蚂蚁集团体验技术部）经过大量项目实践和总结，逐步打磨出一个服务于企业级产品的设计体系 —— Ant Design。基于「自然」、「确定性」、「意义感」、「生长性」四大设计价值观，通过模块化解决方案，降低冗余的生产成本，让设计者专注于更好的用户体验。
+
+1. 平面设计: [《超赞！设计师完全自学指南》](http://www.uisdc.com/designer-self-study-2)
+2. 交互设计: [《交互设计师修炼指南！教你从零开始成为优秀交互设计师》](http://www.uisdc.com/interaction-designers-guide)
+3. UI 设计: [《超实用新手指南！零基础如何自学 UI 设计？》](http://www.uisdc.com/beginner-ui-design-study)
+4. 前端开发: [《天猫高手来教你！零基础如何系统地学习前端开发？》](http://www.uisdc.com/none-based-front-end)
+5. 抠图技巧: [《从菜鸟到高手！PHOTOSHOP 抠图全方位攻略》](http://www.uisdc.com/photoshop-matting-techniques)
+6. 配色方案: [《色彩搭配速成！3 个实用方法帮你全面搞定配色》](http://www.uisdc.com/3-color-matching-skills)
+7. DPI 指南: [《基础知识学起来！为设计师量身打造的 DPI 指南》](http://www.uisdc.com/designers-guide-to-dpi)
+8. 交互设计自学路径图: [《零基础入门！给非科班生的自学路径图之交互设计篇》](http://www.uisdc.com/non-designer-interactive-design)
+
+- [2018-7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886): Improving your designs with tactics instead of talent.
+
+- [2017-Froala Design Blocks](https://github.com/froala/design-blocks): All blocks are based on the Bootstrap Library, and they are the building blocks for beautiful websites.

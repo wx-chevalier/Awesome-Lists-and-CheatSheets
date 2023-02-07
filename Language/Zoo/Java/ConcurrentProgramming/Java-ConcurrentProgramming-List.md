@@ -32,6 +32,10 @@
 
 # Resource
 
+## Collection
+
+- [2019-threadandjuc ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/qiurunze123/threadandjuc)](https://github.com/qiurunze123/threadandjuc): ⭐⭐⭐⭐ 高并发-高可靠-高性能 three-high-import 导入系统-高并发多线程进阶
+
 ## Series
 
 - [死磕 Java 并发系列 #Series#](http://cmsblogs.com/?author=1)：[J.U.C 之 AQS：CLH 同步队列](http://cmsblogs.com/?p=2188)、[J.U.C 之 AQS：AQS 简介](http://cmsblogs.com/?p=2174)、[Java 内存模型之总结](http://cmsblogs.com/?p=2167)、[Java 内存模型之从 JMM 角度分析 DCL](http://cmsblogs.com/?p=2161)、[Java 内存模型之分析 volatile](http://cmsblogs.com/?p=2148)、[死磕 Java 系列博客](http://cmsblogs.com/?p=2122)、[Java 内存模型之重排序](http://cmsblogs.com/?p=2116)、[ Java 内存模型之 happens-before](http://cmsblogs.com/?p=2102)

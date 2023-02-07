@@ -16,7 +16,10 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2010-All of Statistics: A Concise Course in Statistical Inference 📚](http://read.pudn.com/downloads158/ebook/702714/Larry%20Wasserman_ALL%20OF%20Statistics.pdf): The goal of this book is to provide a broad background in probability and statistics for students in statistics, Computer science (especially data mining and machine learning), mathematics, and related disciplines.
 
-- [2012-李航-统计方法学 📚](https://www.amazon.cn/dp/B007TSFMTA): 本书全面系统地介绍了统计学习的主要方法，特别是监督学习方法，包括感知机、k 近邻法、朴素贝叶斯法、决策树、逻辑斯谛回归与熵模型、支持向量机、提升方法、EM 算法、隐马尔可夫模型和条件随机场等。书中的算法实现参考[这里](https://github.com/Dod-o/Statistical-Learning-Method_Code)。
+- [2012-李航-统计学习方法 📚](https://www.amazon.cn/dp/B007TSFMTA): 本书全面系统地介绍了统计学习的主要方法，特别是监督学习方法，包括感知机、k 近邻法、朴素贝叶斯法、决策树、逻辑斯谛回归与熵模型、支持向量机、提升方法、EM 算法、隐马尔可夫模型和条件随机场等。
+
+  - 书中的算法实现参考[这里](https://github.com/Dod-o/Statistical-Learning-Method_Code)。
+  - [fengdu78/lihang-code ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/fengdu78/lihang-code)](https://github.com/fengdu78/lihang-code): 《统计学习方法》第二版的代码实现
 
 - [2016-Immersive Linear Algebra 📚](http://immersivemath.com/ila/index.html): The World's First Linear Algeria Book with fully Interactive Figures.
 

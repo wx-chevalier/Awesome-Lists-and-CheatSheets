@@ -6,8 +6,6 @@
 
 - [如何在云平台构建大规模分布式系统](http://www.infoq.com/cn/articles/build-a-large-scale-distributed-system)
 
-- [LinkedIn 架构这十年](http://colobu.com/2015/07/24/brief-history-scaling-linkedin/)
-
 - [构建能够每秒处理 3 百万请求的高性能 Web 集群系列文章](http://blog.jobbole.com/87509/)
 
 - [C1000K-Servers ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/smallnest/C1000K-Servers): High performance websocket servers implemented by Spray-can, Netty, undertow, jetty, Vert.x, Grizzly, node.js and Go. It supports 1,200,000 active websocket connections.
@@ -35,6 +33,8 @@
 - [2017-The System Design Primer 📚](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep for the system design interview.
 
 - [Software-Engineering-at-Google 📚](https://github.com/qiangmzsx/Software-Engineering-at-Google): 《Software Engineering at Google》的中文翻译版本。
+
+- [2020-awesome-fenix 📚 ![star](https://img.shields.io/github/stars/fenixsoft/awesome-fenix)](https://github.com/fenixsoft/awesome-fenix): 这是一部以“如何构建一套可靠的分布式大型软件系统”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《什么是“凤凰架构”》详细阐述了这部文档的主旨、目标与名字的来由，文章《如何开始》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
 
 ## Collection
 
