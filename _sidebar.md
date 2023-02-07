@@ -54,27 +54,12 @@
     - 5.2 BigTech
       - [5.2.1 Awesome Giants](/System/BigTech/Awesome-Giants.md)
       - [5.2.2 LinkedIn List](/System/BigTech/LinkedIn-List.md)
-      - [5.2.3 Netflix](/System/BigTech/Netflix/README.md)
+      - [5.2.3 Netflix List](/System/BigTech/Netflix-List.md)
+      - [5.2.4 Tencent List](/System/BigTech/Tencent-List.md)
+      - [5.2.5 XiaoMi List](/System/BigTech/XiaoMi-List.md)
+      - [5.2.6 阿里](/System/BigTech/阿里.md)
+      - [5.2.7 阿里巴巴](/System/BigTech/阿里巴巴/README.md)
         
-      - [5.2.4 Netflix List](/System/BigTech/Netflix-List.md)
-      - [5.2.5 其他案例](/System/BigTech/其他案例/README.md)
-        - [5.2.5.1 System Design Primer](/System/BigTech/其他案例/System%20Design%20Primer/README.md)
-          - [5.2.5.1.1 AWS 上设计一个百万用户级别的系统](/System/BigTech/其他案例/System%20Design%20Primer/AWS%20上设计一个百万用户级别的系统.md)
-          - [5.2.5.1.2 Mint](/System/BigTech/其他案例/System%20Design%20Primer/Mint.md)
-          - [5.2.5.1.3 Twitter 时间线和搜索](/System/BigTech/其他案例/System%20Design%20Primer/Twitter%20时间线和搜索.md)
-          - [5.2.5.1.4 按类别分类的 Amazon 销售排名](/System/BigTech/其他案例/System%20Design%20Primer/按类别分类的%20Amazon%20销售排名.md)
-          - [5.2.5.1.5 搜索引擎的 KV 存储](/System/BigTech/其他案例/System%20Design%20Primer/搜索引擎的%20KV%20存储.md)
-          - [5.2.5.1.6 社交网络设计数据结构](/System/BigTech/其他案例/System%20Design%20Primer/社交网络设计数据结构.md)
-          - [5.2.5.1.7 网页爬虫](/System/BigTech/其他案例/System%20Design%20Primer/网页爬虫.md)
-          - [5.2.5.1.8 设计 Pastebin.com (或者 Bit.ly)](/System/BigTech/其他案例/System%20Design%20Primer/设计%20Pastebin.com%20(或者%20Bit.ly).md)
-      - [5.2.6 小米](/System/BigTech/小米/README.md)
-        
-      - [5.2.7 百度](/System/BigTech/百度/README.md)
-        
-      - [5.2.8 腾讯](/System/BigTech/腾讯/README.md)
-        
-      - [5.2.9 阿里巴巴](/System/BigTech/阿里巴巴/README.md)
-        - [5.2.9.1 阿里](/System/BigTech/阿里巴巴/阿里.md)
     - 5.3 DataEngineering
       - 5.3.1 Analytics
         - [5.3.1.1 Analytics OpenSource List](/System/DataEngineering/Analytics/Analytics-OpenSource-List.md)
