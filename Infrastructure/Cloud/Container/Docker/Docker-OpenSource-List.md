@@ -39,3 +39,7 @@
 - [Harbor ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://goharbor.io/): Harbor is an open source container image registry that secures images with role-based access control, scans images for vulnerabilities, and signs images as trusted.
 
 - [registry-cli ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/andrey-pohilko/registry-cli): Scripts for easy manipulation of docker-registry from command line (and from scripts).
+
+# Docker Compose
+
+- [2023-Wowu/docker-rollout ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/Wowu/docker-rollout)](https://github.com/Wowu/docker-rollout): Docker CLI plugin that updates Docker Compose services without downtime.

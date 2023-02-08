@@ -35,3 +35,5 @@
 ## OAuth
 
 - [2016-Hydra ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/ory/hydra): OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language.
+
+- [2022-Nango ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/nangoHQ/nango)](https://github.com/nangoHQ/nango): Pre-built OAuth flows & secure token management for 40+ APIs. 100% open source.
