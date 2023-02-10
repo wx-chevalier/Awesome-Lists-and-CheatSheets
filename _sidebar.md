@@ -259,9 +259,10 @@
           - [2.6.5.2.12 Maven List](/1.Language/Zoo/Java/Dev/Maven-List.md)
         - 2.6.5.3 Dialect
           - [2.6.5.3.1 Clojure List](/1.Language/Zoo/Java/Dialect/Clojure-List.md)
-          - [2.6.5.3.2 Groovy List](/1.Language/Zoo/Java/Dialect/Groovy-List.md)
-          - [2.6.5.3.3 Kotlin List](/1.Language/Zoo/Java/Dialect/Kotlin-List.md)
-          - [2.6.5.3.4 Scala List](/1.Language/Zoo/Java/Dialect/Scala-List.md)
+          - [2.6.5.3.2 Clojure OpenSource List](/1.Language/Zoo/Java/Dialect/Clojure-OpenSource-List.md)
+          - [2.6.5.3.3 Groovy List](/1.Language/Zoo/Java/Dialect/Groovy-List.md)
+          - [2.6.5.3.4 Kotlin List](/1.Language/Zoo/Java/Dialect/Kotlin-List.md)
+          - [2.6.5.3.5 Scala List](/1.Language/Zoo/Java/Dialect/Scala-List.md)
         - 2.6.5.4 JVM
           - [2.6.5.4.1 JVM Class List](/1.Language/Zoo/Java/JVM/JVM-Class-List.md)
           - [2.6.5.4.2 JVM Compiler List](/1.Language/Zoo/Java/JVM/JVM-Compiler-List.md)
