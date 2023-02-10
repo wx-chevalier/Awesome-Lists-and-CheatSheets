@@ -18,6 +18,8 @@
 
 - [2020-eat_pytorch_in_20_days #Series#](https://github.com/lyhue1991/eat_pytorch_in_20_days): Pytorch🍊🍉 is delicious, just eat it! 😋😋
 
+- [2022-thorough-pytorch #Series# ![star](https://img.shields.io/github/stars/datawhalechina/thorough-pytorch)](https://github.com/datawhalechina/thorough-pytorch): 《深入浅出 PyTorch》是一个系列，一共有三个部分。已经上线的是本系列的第一、二部分，后续会不断更新《深入浅出 PyTorch》（下），给出更贴合实际应用的实战案例。
+
 # Tutorial
 
 - [用 PyTorch 创建一个图像分类器？](https://zhuanlan.zhihu.com/p/52838751): 学习完了如何加载预训练神经网络，下面就让我们来看看如何训练分类器吧！
