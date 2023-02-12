@@ -89,6 +89,8 @@
 
 - [Prisma ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://www.prisma.io/): Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 
+- [2022-Orchid ORM ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/romeerez/orchid-orm)](https://github.com/romeerez/orchid-orm): Postgres ORM, query builder, migration tool. First-class TypeScript support.
+
 # SysProc
 
 - [execa ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/sindresorhus/execa): A better `child_process`.

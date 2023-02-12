@@ -6,6 +6,8 @@
 
 - [2021-HyperSwitch ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/juspay/hyperswitch)](https://github.com/juspay/hyperswitch): hyperswitch is a Payment Switch that lets you connect with multiple payment processors with a single API integration. Once integrated, you can add new payment processors and route traffic effortlessly.
 
+- [2022-Jeepay ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/jeequan/jeepay)](https://github.com/jeequan/jeepay): Jeepay 是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
+
 # 风控系统
 
 - [陌陌风控系统静态规则引擎 ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/momosecurity/aswan): 陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。

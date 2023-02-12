@@ -142,6 +142,8 @@
 
 ### Simplification | 简化
 
+- [2013-ACVD ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/valette/ACVD)](https://github.com/valette/ACVD): Fast simplification of 3D surface meshes
+
 - [2015-simplify ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/fogleman/simplify)](https://github.com/fogleman/simplify): Implementation of Surface Simplification Using Quadric Error Metrics, SIGGRAPH 97, written in Go.
 
 - [2019-Mesh_simplification_python ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/AntonotnaWang/Mesh_simplification_python)](https://github.com/AntonotnaWang/Mesh_simplification_python): An implementation of mesh simplification algorithm ([1]) using python.

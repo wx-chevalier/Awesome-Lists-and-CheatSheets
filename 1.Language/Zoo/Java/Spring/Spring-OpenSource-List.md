@@ -30,6 +30,10 @@
 
 - [2021-rude-java ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/RudeCrab/rude-java)](https://github.com/RudeCrab/rude-java): Java Practice Projects(SSM、Spring Boot、Spring Security、MinIO、Vue). 以 Java 语言为主的各种项目实践，涵盖各个业务、各个功能，并附上高质量文章讲解，其中一些甚至可以单开一个仓库。让你再也不用寻找各种框架 demo、项目脚手架。
 
+## 工具库
+
+- [2020-lets-mica/mica ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/lets-mica/mica)](https://github.com/lets-mica/mica): Spring Cloud 微服务开发核心工具集。工具类、验证码、http、redis、ip2region、xss 等，开箱即用。 🔝 🔝 记得右上角点个 star 关注更新！
+
 ## Spring Boot
 
 - [spring-boot-quick ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/vector4wang/spring-boot-quick): 🌿 基于 springboot 的快速学习示例,整合自己遇到的开源框架,如：rabbitmq(延迟队列)、Kafka、jpa、redies、oauth2、swagger、jsp、docker、spring-batch、异常处理、日志输出、多模块开发、多环境打包、缓存 cache、爬虫、jwt、GraphQL、dubbo、zookeeper 和 Async 等等 📌

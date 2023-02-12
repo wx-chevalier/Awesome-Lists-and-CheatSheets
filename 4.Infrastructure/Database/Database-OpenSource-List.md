@@ -64,6 +64,8 @@
 
 - [usql ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/knq/usql): usql is a universal command-line interface for working with SQL databases.
 
+- [d2020-DuckDB ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/duckdb/duckdb)](https://github.com/duckdb/duckdb): DuckDB is a high-performance analytical database system. It is designed to be fast, reliable and easy to use. DuckDB provides a rich SQL dialect, with support far beyond basic SQL. DuckDB supports arbitrary and nested correlated subqueries, window functions, collations, complex types (arrays, structs), and more. For more information on the goals of DuckDB, please refer to the Why DuckDB page on our website.
+
 ### Editor
 
 - [2014-sqlpad ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/rickbergfalk/sqlpad): Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, Presto, SAP HANA, and Cassandra.

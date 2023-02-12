@@ -9,3 +9,5 @@
 # Tutorial
 
 - [Clojure By Example](http://kimh.github.io/clojure-by-example/#about-this-page): Recently, I needed to learn this completely new language Clojure but couldn't find what I wanted. So, I decided to create one while learning Clojure.
+
+- [2014-Clojure Koans ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/functional-koans/clojure-koans)](https://github.com/functional-koans/clojure-koans): The Clojure Koans are a fun way to get started with Clojure - no experience assumed or required. Follow the instructions below to start making tests pass!

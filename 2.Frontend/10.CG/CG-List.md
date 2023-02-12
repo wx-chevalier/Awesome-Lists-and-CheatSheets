@@ -16,6 +16,8 @@
 
 - [2010-Botsch-Polygon Mesh Processing 📚](http://www.pmp-book.org/): Geometry processing, or mesh processing, is a fast-growing area of research that uses concepts from applied mathematics, computer science, and engineering to design efficient algorithms for the acquisition, reconstruction, analysis, manipulation, simulation, and transmission of complex 3D models. Applications of geometry processing algorithms already cover a wide range of areas from multimedia, entertainment, and classical computer-aided design, to biomedical computing, reverse engineering, and scientific computing.
 
+- [2010-Real-Time Rendering-3rd 📚](https://github.com/QianMo/Real-Time-Rendering-3rd-CN-Summary-Ebook): 在实时渲染和计算机图形学领域，《Real-Time Rendering》系列书籍一直备受推崇。有人说，它是实时渲染的圣经，也有人说，它是绝世武功的目录。其实《Real-Time Rendering》很像一整本图形学主流知识体系的论文综述，它涵盖了计算机图形和实时渲染的方方面面，可做论文综述合集了解全貌，也可作案头工具书日后查用。
+
 - [2020-Computer Graphics from Scratch 📚](https://gabrielgambetta.com/computer-graphics-from-scratch/): Computer Graphics from Scratch demystifies the algorithms used in modern graphics software with basic programming and high school math.
 
 ### Graphic
