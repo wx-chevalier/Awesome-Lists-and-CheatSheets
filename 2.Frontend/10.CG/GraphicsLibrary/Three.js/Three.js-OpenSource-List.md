@@ -46,6 +46,8 @@
 
 - [2021-three-bvh-csg ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/gkjohnson/three-bvh-csg)](https://github.com/gkjohnson/three-bvh-csg): A flexible, memory compact, fast and dynamic CSG implementation on top of three-mesh-bvh
 
+- [2021-THREE-CSGMesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/manthrax/THREE-CSGMesh)](https://github.com/manthrax/THREE-CSGMesh): Conversion of a CSG - (Constructive Solid Geometry) library for use with modern THREE.js
+
 # React Three Fiber
 
 - [react-three-fiber ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/pmndrs/react-three-fiber): react-three-fiber is a React renderer for threejs.

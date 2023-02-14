@@ -32,15 +32,15 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 ## Book
 
-- [The Rust Programming Language 📚](https://doc.rust-lang.org/book/first-edition/README.html): This book will teach you about the Rust Programming Language. Rust is a systems programming language focused on three goals: safety, speed, and concurrency.
+- [《The Rust Programming Language》 📚](https://doc.rust-lang.org/book/first-edition/README.html): This book will teach you about the Rust Programming Language. Rust is a systems programming language focused on three goals: safety, speed, and concurrency.
 
-- [Rust Primer 📚](https://github.com/rustcc/RustPrimer): 中国人写的 Rust 编程书籍
+- [《Rust Primer》 📚](https://github.com/rustcc/RustPrimer): 中国人写的 Rust 编程书籍
 
 - [Rust by Example 📚](https://rustbyexample.com/): Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
 
-- [2016-Algorithm Cookbook in Rust 📚](https://github.com/EbTech/rust-algorithms): A collection of classic data structures and algorithms, emphasizing beauty and clarity over full generality.
+- [2016-《Algorithm Cookbook in Rust》 📚](https://github.com/EbTech/rust-algorithms): A collection of classic data structures and algorithms, emphasizing beauty and clarity over full generality.
 
-- [2016-Rust 101 📚](https://www.ralfj.de/projects/rust-101/main.html): This is Rust-101, a small tutorial for the Rust language. It is intended to be an interactive, hands-on course: I believe the only way to really learn a language is to write code in it, so you should be coding during the course.
+- [2016-《Rust 101》 📚](https://www.ralfj.de/projects/rust-101/main.html): This is Rust-101, a small tutorial for the Rust language. It is intended to be an interactive, hands-on course: I believe the only way to really learn a language is to write code in it, so you should be coding during the course.
 
 - [2017-Programming Rust 📚](https://parg.co/UPe): This practical book introduces systems programmers to Rust, the new and cutting-edge language. You’ll learn how Rust offers the rare and valuable combination of statically verified memory safety and low-level control—imagine C++, but without dangling pointers, null pointer dereferences, leaks, or buffer overruns.
 
