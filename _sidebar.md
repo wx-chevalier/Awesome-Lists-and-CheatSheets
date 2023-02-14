@@ -680,8 +680,9 @@
     - 5.1 Design
       - [5.1.1 Design List](/20.Product/Design/Design-List.md)
     - 5.2 Growth
-      - [5.2.1 Operation List](/20.Product/Growth/Operation-List.md)
-      - [5.2.2 UGC List](/20.Product/Growth/UGC-List.md)
+      - [5.2.1 GA List](/20.Product/Growth/GA-List.md)
+      - [5.2.2 Operation List](/20.Product/Growth/Operation-List.md)
+      - [5.2.3 UGC List](/20.Product/Growth/UGC-List.md)
     - 5.3 PM
       - [5.3.1 PM List](/20.Product/PM/PM-List.md)
     - [5.4 Product List](/20.Product/Product-List.md)
