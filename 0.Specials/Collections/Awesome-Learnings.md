@@ -122,7 +122,7 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - 技术书籍：[Gitbook](https://www.gitbook.com/)、[SafariBooksOnline](https://www.safaribooksonline.com/)
 
-- 技术博客：[Medium](https://medium.com)、[开发者头条](https://toutiao.io)、[CSDN](http://www.csdn.net/)、[freeCodeCamp Guide](https://guide.freecodecamp.org/agile)、[并发编程网](https://ifeve.com/)、[NG-Tech Series](https://wx-chevalier.github.io/)
+- 技术博客：[Medium](https://medium.com)、[开发者头条](https://toutiao.io)、[CSDN](http://www.csdn.net/)、[freeCodeCamp Guide](https://guide.freecodecamp.org/agile)、[并发编程网](https://ifeve.com/)、[NG-Tech Series](https://ng-tech.icu/books/)
 
 - 技术问答：[StackOverflow](https://stackoverflow.com/)、[SegmentFault](https://segmentfault.com/)
 
