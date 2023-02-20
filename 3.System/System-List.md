@@ -26,15 +26,17 @@
 
 - [2016-架构师特刊-微服务与 DevOps 技术内参 📚](http://q.infoqstatic.com/ppt/Microservice&DevOps.pdf)
 
-- [2016-Production Ready Microservices 📚](https://parg.co/U6C): Susan Fowler presents a set of microservice standards in depth, drawing from her experience standardizing over a thousand microservices at Uber. You’ll learn how to design microservices that are stable, reliable, scalable, fault tolerant, performant, monitored, documented, and prepared for any catastrophe.
+- [2016-《Production Ready Microservices》 📚](https://parg.co/U6C): Susan Fowler presents a set of microservice standards in depth, drawing from her experience standardizing over a thousand microservices at Uber. You’ll learn how to design microservices that are stable, reliable, scalable, fault tolerant, performant, monitored, documented, and prepared for any catastrophe.
 
-- [2017-Microservice Patterns 📚](https://microservices.io/patterns/index.html): A pattern language for microservices
+- [2017-《Microservice Patterns》 📚](https://microservices.io/patterns/index.html): A pattern language for microservices
 
-- [2017-The System Design Primer 📚](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep for the system design interview.
+- [2017-《The System Design Primer》 📚](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep for the system design interview.
 
-- [Software-Engineering-at-Google 📚](https://github.com/qiangmzsx/Software-Engineering-at-Google): 《Software Engineering at Google》的中文翻译版本。
+- [《Software-Engineering-at-Google》 📚](https://github.com/qiangmzsx/Software-Engineering-at-Google): 《Software Engineering at Google》的中文翻译版本。
 
-- [2020-awesome-fenix 📚 ![star](https://img.shields.io/github/stars/fenixsoft/awesome-fenix)](https://github.com/fenixsoft/awesome-fenix): 这是一部以“如何构建一套可靠的分布式大型软件系统”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《什么是“凤凰架构”》详细阐述了这部文档的主旨、目标与名字的来由，文章《如何开始》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
+- [2020-《Awesome Fenix》 📚 ![star](https://img.shields.io/github/stars/fenixsoft/awesome-fenix)](https://github.com/fenixsoft/awesome-fenix): 这是一部以“如何构建一套可靠的分布式大型软件系统”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《什么是“凤凰架构”》详细阐述了这部文档的主旨、目标与名字的来由，文章《如何开始》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
+
+- [2022-《高并发的哲学原理 Philosophical Principles of High Concurrency》📚](https://github.com/johnlui/PPHC): 我们将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。
 
 ## Collection
 
@@ -55,8 +57,6 @@
 - [2021-互联网公司常用框架源码赏析 🗃️](https://github.com/doocs/source-code-hunter): 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
 
 - [System Design Resources 🗃️](https://github.com/InterviewReady/system-design-resources): These are the best resources for System Design on the Internet
-
-## Video
 
 ## Series
 

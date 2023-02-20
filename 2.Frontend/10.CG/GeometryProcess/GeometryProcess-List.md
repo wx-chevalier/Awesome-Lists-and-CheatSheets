@@ -1,14 +1,20 @@
 # Geometry Process List
 
-- [awesome-geometry-processing 🗃️](https://github.com/zishun/awesome-geometry-processing): Libraries for Geometry Processing (GP).
-
-- [2022-QiujieDong/Mesh_Segmentation 🗃️](https://github.com/QiujieDong/Mesh_Segmentation): some materials about mesh processing, including papers, videos, codes, and so on. Updating every day!
-
 # Resource
 
 ## Blog
 
 - [GeometryHub #Blog#](http://geometryhub.net/overview): BGL 是一个关于三维数据(点云，网格)处理的基础几何库
+
+## Collection
+
+- [awesome-geometry-processing 🗃️](https://github.com/zishun/awesome-geometry-processing): Libraries for Geometry Processing (GP).
+
+- [2022-QiujieDong/Mesh_Segmentation 🗃️](https://github.com/QiujieDong/Mesh_Segmentation): some materials about mesh processing, including papers, videos, codes, and so on. Updating every day!
+
+## Course
+
+- [2020-Geometry Processing Course 🎥](https://github.com/alecjacobson/geometry-processing): Course designed by Prof. Alec Jacobson, University of Toronto, with assistance from Klint Qinami and Prof. Eitan Grinspun, Columbia University.
 
 # Polygon Mesh Process
 

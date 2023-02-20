@@ -153,6 +153,8 @@
 
 - [ja-netfilter ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/pengzhile/ja-netfilter): A javaagent lib for network filter.
 
+- [2021-easeagent ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/megaease/easeagent)](https://github.com/megaease/easeagent): A lightweight & opening Java Agent for Cloud-Native and APM system
+
 ## JIT
 
 - [2018-Java Grinder ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/mikeakohn/java_grinder): Compile Java bytecode to microcontroller assembly.
