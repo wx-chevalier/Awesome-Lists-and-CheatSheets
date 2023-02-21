@@ -192,13 +192,13 @@
         - [2.4.1.4 Github List](/1.Language/Teamwork/Git/Github-List.md)
       - 2.4.2 OpenSource [1]
         - [2.4.2.1 OpenSource List](/1.Language/Teamwork/OpenSource/OpenSource-List.md)
-      - 2.4.3 TechnicalManagement [3]
+      - 2.4.3 TechMgt [3]
         - 2.4.3.1 Agile [1]
-          - [2.4.3.1.1 Agile List](/1.Language/Teamwork/TechnicalManagement/Agile/Agile-List.md)
+          - [2.4.3.1.1 Agile List](/1.Language/Teamwork/TechMgt/Agile/Agile-List.md)
         - 2.4.3.2 Devflow [2]
-          - [2.4.3.2.1 Devflow List](/1.Language/Teamwork/TechnicalManagement/Devflow/Devflow-List.md)
-          - [2.4.3.2.2 Devflow OpenSource List](/1.Language/Teamwork/TechnicalManagement/Devflow/Devflow-OpenSource-List.md)
-        - [2.4.3.3 TechnicalManagement List](/1.Language/Teamwork/TechnicalManagement/TechnicalManagement-List.md)
+          - [2.4.3.2.1 Devflow List](/1.Language/Teamwork/TechMgt/Devflow/Devflow-List.md)
+          - [2.4.3.2.2 Devflow OpenSource List](/1.Language/Teamwork/TechMgt/Devflow/Devflow-OpenSource-List.md)
+        - [2.4.3.3 TechMgt List](/1.Language/Teamwork/TechMgt/TechMgt-List.md)
     - 2.5 Theory [7]
       - 2.5.1 Compiler [2]
         - [2.5.1.1 Compiler List](/1.Language/Theory/Compiler/Compiler-List.md)

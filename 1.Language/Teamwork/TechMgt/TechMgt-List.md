@@ -4,6 +4,8 @@
 
 - [十年工龄的程序员为你揭示最危害程序员职业生涯的三大观念](http://www.jianshu.com/p/57113b2e2e73)
 
+- [2023-Writing an engineering strategy.](https://lethain.com/eng-strategies/): While the engineering organization may contain many strategies, there is only one overarching engineering strategy. This document–often an implicit document that no one’s ever quite written down–is your constitutional document for running engineering, and writing it is one of the most valuable things you’ll do as an engineering executive.
+
 # 康威定律
 
 - [微服务架构的理论基础-康威定律](https://yq.aliyun.com/articles/8611)

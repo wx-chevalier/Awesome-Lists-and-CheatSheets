@@ -1,5 +1,7 @@
 # Desktop List
 
+- [2021-Local-First Web Development 🗃️](https://localfirstweb.dev/): So, you want to build an app that has its data co-located with its UI? That works offline? That synchronizes between clients? And that lets its users own their data?
+
 # OpenSource
 
 - [Electron ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/electron/electron): The Electron framework lets you write cross-platform desktop applications using JavaScript, HTML and CSS. It is based on Node.js and Chromium and is used by the Atom editor and many other apps.

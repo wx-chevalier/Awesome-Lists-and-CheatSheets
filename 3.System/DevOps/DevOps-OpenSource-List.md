@@ -38,6 +38,8 @@
 
 - [meli ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/getmeli/meli): Open source platform for deploying static sites and frontend applications.
 
+- [2020-Jpom ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/dromara/Jpom)](https://github.com/dromara/Jpom): 简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件。
+
 # CI/CD
 
 ## Build
