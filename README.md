@@ -8,7 +8,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/wx-chevalier/Awesome-Lists">
-    <img src="https://ngte-website.oss-cn-hangzhou.aliyuncs.com/svgs/Awesome-Lists.svg" alt="Logo" style="width: 100vw;height: 400px" />
+    <img src="https://ngte-website.oss-cn-hangzhou.aliyuncs.com/header-svgs/Awesome-Lists.svg" alt="Logo" style="width: 100vw;height: 400px" />
+    <img src="https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20230221235618.png" alt="Logo" style="height: 400px" />
   </a>
 
   <p align="center">
