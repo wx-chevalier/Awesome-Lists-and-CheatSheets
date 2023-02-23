@@ -30,6 +30,8 @@
 
 - [2017-three.bas ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/zadvorsky/three.bas)](https://github.com/zadvorsky/three.bas): THREE Buffer Animation System is an extension for THREE.js. It simplifies the workflow of extending the built-in THREE.js materials to include animation logic in the vertex shader. For an overview of this approach, check out this tutorial series.
 
+- [2017-three-spritetext ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/vasturiano/three-spritetext)](https://github.com/vasturiano/three-spritetext): A sprite based text component for ThreeJS. The text is drawn to canvas, converted into a Texture and then used as a material on a Sprite. Because a sprite is being used, the text will always face the camera, and has its orientation fixed relative to the camera.
+
 - [2018-threejs-mesh-modifiers ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/drawcall/threejs-mesh-modifiers)](https://github.com/drawcall/threejs-mesh-modifiers): A Three.js mesh morph modifier, including nearly ten modifiers, such as Bend, Bloat, Noise, Skew and Taper, etc. It is very lightweight and simple to use, using it can give you unexpected results.
 
 - [2022-three-projected-material ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/marcofugaro/three-projected-material)](https://github.com/marcofugaro/three-projected-material): 📽 Three.js Material which lets you do Texture Projection on a 3d Model.
@@ -47,6 +49,10 @@
 - [2021-three-bvh-csg ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/gkjohnson/three-bvh-csg)](https://github.com/gkjohnson/three-bvh-csg): A flexible, memory compact, fast and dynamic CSG implementation on top of three-mesh-bvh
 
 - [2021-THREE-CSGMesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/manthrax/THREE-CSGMesh)](https://github.com/manthrax/THREE-CSGMesh): Conversion of a CSG - (Constructive Solid Geometry) library for use with modern THREE.js
+
+# Material
+
+- [2021-THREE.extendMaterial ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/Fyrestar/THREE.extendMaterial)](https://github.com/Fyrestar/THREE.extendMaterial): Extending built-in materials, instances of ShaderMaterial and shader objects of onBeforeCompile.
 
 # React Three Fiber
 

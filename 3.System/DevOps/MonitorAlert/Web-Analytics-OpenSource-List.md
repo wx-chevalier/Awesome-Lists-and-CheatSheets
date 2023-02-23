@@ -11,3 +11,9 @@
 - [2020-PostHog ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/PostHog/posthog)](https://github.com/PostHog/posthog): PostHog is an open-source suite of product and data tools, built for engineers.
 
 - [2022-Serpbear ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/2022-towfiqi/serpbear)](https://github.com/2022-towfiqi/serpbear): SerpBear is an Open Source Search Engine Position Tracking App. It allows you to track your website's keyword positions in Google and get notified of their positions.
+
+# Session Replay
+
+- [2021-rrweb ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/rrweb-io/rrweb)](https://github.com/rrweb-io/rrweb): rrweb refers to 'record and replay the web', which is a tool for recording and replaying users' interactions on the web.
+
+- [2023-highlight ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/highlight/highlight)](https://github.com/highlight/highlight): highlight.io is a monitoring tool for the next generation of developers (like you!). Unlike the age-old, outdated tools out there, we aim to build a cohesive, modern and fully-featured monitoring solution, something we wished WE had. And it's all open source :)

@@ -1,9 +1,9 @@
   - 1 0.Specials [5]
     - [1.1 Awesome Specials](/0.Specials/Awesome-Specials.md)
     - 1.2 Collections [6]
-      - [1.2.1 Awesome DataSets](/0.Specials/Collections/Awesome-DataSets.md)
-      - [1.2.2 Awesome Entertainments](/0.Specials/Collections/Awesome-Entertainments.md)
-      - [1.2.3 Awesome Learnings](/0.Specials/Collections/Awesome-Learnings.md)
+      - [1.2.1 Awesome CS Learnings](/0.Specials/Collections/Awesome-CS-Learnings.md)
+      - [1.2.2 Awesome DataSets](/0.Specials/Collections/Awesome-DataSets.md)
+      - [1.2.3 Awesome Entertainments](/0.Specials/Collections/Awesome-Entertainments.md)
       - [1.2.4 Awesome Names](/0.Specials/Collections/Awesome-Names.md)
       - [1.2.5 Awesome Scholar](/0.Specials/Collections/Awesome-Scholar.md)
       - [1.2.6 Awesome Vision](/0.Specials/Collections/Awesome-Vision.md)
@@ -156,168 +156,169 @@
           - [1.5.6.1.8 WebAssembly](/0.Specials/Weekly/SemiannualReport/2017-1/WebAssembly.md)
       - [1.5.7 TEMPLATE](/0.Specials/Weekly/TEMPLATE.md)
       - [1.5.8 Template en](/0.Specials/Weekly/Template-en.md)
-  - 2 1.Language [6]
+  - 2 1.CS [7]
     - 2.1 AlgoDS [12]
-      - [2.1.1 AlgoDS List](/1.Language/AlgoDS/AlgoDS-List.md)
-      - [2.1.2 Compression List](/1.Language/AlgoDS/Compression-List.md)
-      - [2.1.3 GameTheory List](/1.Language/AlgoDS/GameTheory-List.md)
-      - [2.1.4 Graph List](/1.Language/AlgoDS/Graph-List.md)
-      - [2.1.5 Hash List](/1.Language/AlgoDS/Hash-List.md)
-      - [2.1.6 Index List](/1.Language/AlgoDS/Index-List.md)
-      - [2.1.7 LinearList List](/1.Language/AlgoDS/LinearList-List.md)
-      - [2.1.8 NumberTheory List](/1.Language/AlgoDS/NumberTheory-List.md)
+      - [2.1.1 AlgoDS List](/1.CS/AlgoDS/AlgoDS-List.md)
+      - [2.1.2 Compression List](/1.CS/AlgoDS/Compression-List.md)
+      - [2.1.3 GameTheory List](/1.CS/AlgoDS/GameTheory-List.md)
+      - [2.1.4 Graph List](/1.CS/AlgoDS/Graph-List.md)
+      - [2.1.5 Hash List](/1.CS/AlgoDS/Hash-List.md)
+      - [2.1.6 Index List](/1.CS/AlgoDS/Index-List.md)
+      - [2.1.7 LinearList List](/1.CS/AlgoDS/LinearList-List.md)
+      - [2.1.8 NumberTheory List](/1.CS/AlgoDS/NumberTheory-List.md)
       - 2.1.9 Optimization [3]
-        - [2.1.9.1 DP List](/1.Language/AlgoDS/Optimization/DP-List.md)
-        - [2.1.9.2 GA List](/1.Language/AlgoDS/Optimization/GA-List.md)
-        - [2.1.9.3 Search List](/1.Language/AlgoDS/Optimization/Search-List.md)
-      - [2.1.10 Sort List](/1.Language/AlgoDS/Sort-List.md)
-      - [2.1.11 String List](/1.Language/AlgoDS/String-List.md)
-      - [2.1.12 Tree List](/1.Language/AlgoDS/Tree-List.md)
-    - 2.2 Concurrent [3]
-      - [2.2.1 ConcurrentIO List](/1.Language/Concurrent/ConcurrentIO-List.md)
-      - [2.2.2 ConcurrentModel List](/1.Language/Concurrent/ConcurrentModel-List.md)
-      - [2.2.3 ConcurrentProgramming List](/1.Language/Concurrent/ConcurrentProgramming-List.md)
-    - 2.3 DesignPattern [6]
-      - [2.3.1 DesignPattern List](/1.Language/DesignPattern/DesignPattern-List.md)
-      - [2.3.2 FunctionalProgramming List](/1.Language/DesignPattern/FunctionalProgramming-List.md)
-      - [2.3.3 MetaProgramming List](/1.Language/DesignPattern/MetaProgramming-List.md)
-      - [2.3.4 ObjectOrientedProgramming List](/1.Language/DesignPattern/ObjectOrientedProgramming-List.md)
-      - [2.3.5 Programming Paradigm List](/1.Language/DesignPattern/Programming-Paradigm-List.md)
-      - [2.3.6 ReactiveProgramming List](/1.Language/DesignPattern/ReactiveProgramming-List.md)
-    - 2.4 Teamwork [3]
-      - 2.4.1 Git [4]
-        - [2.4.1.1 Git List](/1.Language/Teamwork/Git/Git-List.md)
-        - [2.4.1.2 Git OpenSource List](/1.Language/Teamwork/Git/Git-OpenSource-List.md)
-        - [2.4.1.3 Git Workflow List](/1.Language/Teamwork/Git/Git-Workflow-List.md)
-        - [2.4.1.4 Github List](/1.Language/Teamwork/Git/Github-List.md)
-      - 2.4.2 OpenSource [1]
-        - [2.4.2.1 OpenSource List](/1.Language/Teamwork/OpenSource/OpenSource-List.md)
-      - 2.4.3 TechMgt [3]
-        - 2.4.3.1 Agile [1]
-          - [2.4.3.1.1 Agile List](/1.Language/Teamwork/TechMgt/Agile/Agile-List.md)
-        - 2.4.3.2 Devflow [2]
-          - [2.4.3.2.1 Devflow List](/1.Language/Teamwork/TechMgt/Devflow/Devflow-List.md)
-          - [2.4.3.2.2 Devflow OpenSource List](/1.Language/Teamwork/TechMgt/Devflow/Devflow-OpenSource-List.md)
-        - [2.4.3.3 TechMgt List](/1.Language/Teamwork/TechMgt/TechMgt-List.md)
-    - 2.5 Theory [7]
-      - 2.5.1 Compiler [2]
-        - [2.5.1.1 Compiler List](/1.Language/Theory/Compiler/Compiler-List.md)
-        - [2.5.1.2 Compiler OpenSource List](/1.Language/Theory/Compiler/Compiler-OpenSource-List.md)
-      - 2.5.2 MemoryManagement [2]
-        - [2.5.2.1 GarbageCollection List](/1.Language/Theory/MemoryManagement/GarbageCollection-List.md)
-        - [2.5.2.2 MemoryManagement List](/1.Language/Theory/MemoryManagement/MemoryManagement-List.md)
-      - [2.5.3 PLT List](/1.Language/Theory/PLT-List.md)
-      - [2.5.4 PLT OpenSource List](/1.Language/Theory/PLT-OpenSource-List.md)
-      - 2.5.5 StaticAnalysis [1]
-        - [2.5.5.1 StaticAnalysis List](/1.Language/Theory/StaticAnalysis/StaticAnalysis-List.md)
-      - 2.5.6 TypeTheory [1]
-        - [2.5.6.1 Type Theory List](/1.Language/Theory/TypeTheory/Type-Theory-List.md)
-      - 2.5.7 VM [1]
-        - [2.5.7.1 VM List](/1.Language/Theory/VM/VM-List.md)
-    - 2.6 Zoo [11]
-      - 2.6.1 Assembly [1]
-        - [2.6.1.1 Assembly List](/1.Language/Zoo/Assembly/Assembly-List.md)
-      - 2.6.2 C [6]
-        - [2.6.2.1 C List](/1.Language/Zoo/C/C-List.md)
-        - [2.6.2.2 CPP Compiler List](/1.Language/Zoo/C/CPP-Compiler-List.md)
-        - [2.6.2.3 CPP ConcurrentProgramming List](/1.Language/Zoo/C/CPP-ConcurrentProgramming-List.md)
-        - [2.6.2.4 CPP List](/1.Language/Zoo/C/CPP-List.md)
-        - [2.6.2.5 CPP OpenSource List](/1.Language/Zoo/C/CPP-OpenSource-List.md)
-        - [2.6.2.6 CPP Syntax List](/1.Language/Zoo/C/CPP-Syntax-List.md)
-      - 2.6.3 Go [11]
-        - [2.6.3.1 Go Architecture List](/1.Language/Zoo/Go/Go-Architecture-List.md)
-        - [2.6.3.2 Go Collection List](/1.Language/Zoo/Go/Go-Collection-List.md)
-        - [2.6.3.3 Go ConcurrentProgramming List](/1.Language/Zoo/Go/Go-ConcurrentProgramming-List.md)
-        - [2.6.3.4 Go Dev List](/1.Language/Zoo/Go/Go-Dev-List.md)
-        - [2.6.3.5 Go Internals List](/1.Language/Zoo/Go/Go-Internals-List.md)
-        - [2.6.3.6 Go List](/1.Language/Zoo/Go/Go-List.md)
-        - [2.6.3.7 Go OpenSource List](/1.Language/Zoo/Go/Go-OpenSource-List.md)
-        - [2.6.3.8 Go Syntax List](/1.Language/Zoo/Go/Go-Syntax-List.md)
-        - [2.6.3.9 Go Tuning List](/1.Language/Zoo/Go/Go-Tuning-List.md)
-        - [2.6.3.10 Go Web List](/1.Language/Zoo/Go/Go-Web-List.md)
-        - [2.6.3.11 Gopher List](/1.Language/Zoo/Go/Gopher-List.md)
-      - 2.6.4 Haskell [1]
-        - [2.6.4.1 Haskell List](/1.Language/Zoo/Haskell/Haskell-List.md)
-      - 2.6.5 Java [7]
-        - 2.6.5.1 ConcurrentProgramming [4]
-          - [2.6.5.1.1 Akka List](/1.Language/Zoo/Java/ConcurrentProgramming/Akka-List.md)
-          - [2.6.5.1.2 Java Async List](/1.Language/Zoo/Java/ConcurrentProgramming/Java-Async-List.md)
-          - [2.6.5.1.3 Java ConcurrentProgramming List](/1.Language/Zoo/Java/ConcurrentProgramming/Java-ConcurrentProgramming-List.md)
-          - [2.6.5.1.4 Netty List](/1.Language/Zoo/Java/ConcurrentProgramming/Netty-List.md)
-        - 2.6.5.2 Dev [12]
-          - [2.6.5.2.1 Gradle List](/1.Language/Zoo/Java/Dev/Gradle-List.md)
-          - [2.6.5.2.2 Java Collection List](/1.Language/Zoo/Java/Dev/Java-Collection-List.md)
-          - [2.6.5.2.3 Java DataStructure List](/1.Language/Zoo/Java/Dev/Java-DataStructure-List.md)
-          - [2.6.5.2.4 Java Dev List](/1.Language/Zoo/Java/Dev/Java-Dev-List.md)
-          - [2.6.5.2.5 Java FunctionalProgramming List](/1.Language/Zoo/Java/Dev/Java-FunctionalProgramming-List.md)
-          - [2.6.5.2.6 Java Network List](/1.Language/Zoo/Java/Dev/Java-Network-List.md)
-          - [2.6.5.2.7 Java Storage List](/1.Language/Zoo/Java/Dev/Java-Storage-List.md)
-          - [2.6.5.2.8 Java Syntax List](/1.Language/Zoo/Java/Dev/Java-Syntax-List.md)
-          - [2.6.5.2.9 Java System List](/1.Language/Zoo/Java/Dev/Java-System-List.md)
-          - [2.6.5.2.10 Java Test List](/1.Language/Zoo/Java/Dev/Java-Test-List.md)
-          - [2.6.5.2.11 Java UI List](/1.Language/Zoo/Java/Dev/Java-UI-List.md)
-          - [2.6.5.2.12 Maven List](/1.Language/Zoo/Java/Dev/Maven-List.md)
-        - 2.6.5.3 Dialect [5]
-          - [2.6.5.3.1 Clojure List](/1.Language/Zoo/Java/Dialect/Clojure-List.md)
-          - [2.6.5.3.2 Clojure OpenSource List](/1.Language/Zoo/Java/Dialect/Clojure-OpenSource-List.md)
-          - [2.6.5.3.3 Groovy List](/1.Language/Zoo/Java/Dialect/Groovy-List.md)
-          - [2.6.5.3.4 Kotlin List](/1.Language/Zoo/Java/Dialect/Kotlin-List.md)
-          - [2.6.5.3.5 Scala List](/1.Language/Zoo/Java/Dialect/Scala-List.md)
-        - 2.6.5.4 JVM [6]
-          - [2.6.5.4.1 JVM Class List](/1.Language/Zoo/Java/JVM/JVM-Class-List.md)
-          - [2.6.5.4.2 JVM Compiler List](/1.Language/Zoo/Java/JVM/JVM-Compiler-List.md)
-          - [2.6.5.4.3 JVM Debug List](/1.Language/Zoo/Java/JVM/JVM-Debug-List.md)
-          - [2.6.5.4.4 JVM List](/1.Language/Zoo/Java/JVM/JVM-List.md)
-          - [2.6.5.4.5 JVM MemoryManagement List](/1.Language/Zoo/Java/JVM/JVM-MemoryManagement-List.md)
-          - [2.6.5.4.6 JVM Tuning List](/1.Language/Zoo/Java/JVM/JVM-Tuning-List.md)
-        - [2.6.5.5 Java List](/1.Language/Zoo/Java/Java-List.md)
-        - [2.6.5.6 Java OpenSource List](/1.Language/Zoo/Java/Java-OpenSource-List.md)
-        - 2.6.5.7 Spring [9]
-          - [2.6.5.7.1 Java Servlet List](/1.Language/Zoo/Java/Spring/Java-Servlet-List.md)
-          - [2.6.5.7.2 Mybatis List](/1.Language/Zoo/Java/Spring/Mybatis-List.md)
-          - [2.6.5.7.3 Spring Internals List](/1.Language/Zoo/Java/Spring/Spring-Internals-List.md)
-          - [2.6.5.7.4 Spring List](/1.Language/Zoo/Java/Spring/Spring-List.md)
-          - [2.6.5.7.5 Spring OpenSource List](/1.Language/Zoo/Java/Spring/Spring-OpenSource-List.md)
-          - [2.6.5.7.6 SpringBoot List](/1.Language/Zoo/Java/Spring/SpringBoot-List.md)
-          - [2.6.5.7.7 SpringCloud List](/1.Language/Zoo/Java/Spring/SpringCloud-List.md)
-          - [2.6.5.7.8 SpringSecurity List](/1.Language/Zoo/Java/Spring/SpringSecurity-List.md)
-          - [2.6.5.7.9 Tomcat List](/1.Language/Zoo/Java/Spring/Tomcat-List.md)
-      - 2.6.6 JavaScript [11]
-        - [2.6.6.1 JavaScript Async List](/1.Language/Zoo/JavaScript/JavaScript-Async-List.md)
-        - [2.6.6.2 JavaScript Collection List](/1.Language/Zoo/JavaScript/JavaScript-Collection-List.md)
-        - [2.6.6.3 JavaScript DataStructure List](/1.Language/Zoo/JavaScript/JavaScript-DataStructure-List.md)
-        - [2.6.6.4 JavaScript Engine List](/1.Language/Zoo/JavaScript/JavaScript-Engine-List.md)
-        - [2.6.6.5 JavaScript FunctionalProgramming List](/1.Language/Zoo/JavaScript/JavaScript-FunctionalProgramming-List.md)
-        - [2.6.6.6 JavaScript List](/1.Language/Zoo/JavaScript/JavaScript-List.md)
-        - [2.6.6.7 JavaScript OpenSource List](/1.Language/Zoo/JavaScript/JavaScript-OpenSource-List.md)
-        - [2.6.6.8 JavaScript Pattern List](/1.Language/Zoo/JavaScript/JavaScript-Pattern-List.md)
-        - [2.6.6.9 JavaScript TypeSystem List](/1.Language/Zoo/JavaScript/JavaScript-TypeSystem-List.md)
-        - [2.6.6.10 TypeScript List](/1.Language/Zoo/JavaScript/TypeScript-List.md)
-        - [2.6.6.11 TypeScript OpenSource List](/1.Language/Zoo/JavaScript/TypeScript-OpenSource-List.md)
-      - 2.6.7 Lisp [1]
-        - [2.6.7.1 Lisp List](/1.Language/Zoo/Lisp/Lisp-List.md)
-      - 2.6.8 PHP [2]
-        - [2.6.8.1 PHP List](/1.Language/Zoo/PHP/PHP-List.md)
-        - [2.6.8.2 PHP OpenSource List](/1.Language/Zoo/PHP/PHP-OpenSource-List.md)
-      - 2.6.9 Python [9]
-        - [2.6.9.1 Python Concurrent List](/1.Language/Zoo/Python/Python-Concurrent-List.md)
-        - [2.6.9.2 Python DataStructure List](/1.Language/Zoo/Python/Python-DataStructure-List.md)
-        - [2.6.9.3 Python Debug List](/1.Language/Zoo/Python/Python-Debug-List.md)
-        - [2.6.9.4 Python Framework List](/1.Language/Zoo/Python/Python-Framework-List.md)
-        - [2.6.9.5 Python FunctionalProgramming List](/1.Language/Zoo/Python/Python-FunctionalProgramming-List.md)
-        - [2.6.9.6 Python List](/1.Language/Zoo/Python/Python-List.md)
-        - [2.6.9.7 Python OpenSource List](/1.Language/Zoo/Python/Python-OpenSource-List.md)
-        - [2.6.9.8 Python StyleGuide List](/1.Language/Zoo/Python/Python-StyleGuide-List.md)
-        - [2.6.9.9 Python Syntax List](/1.Language/Zoo/Python/Python-Syntax-List.md)
-      - 2.6.10 Rust [6]
-        - [2.6.10.1 Rust ConcurrentProgramming List](/1.Language/Zoo/Rust/Rust-ConcurrentProgramming-List.md)
-        - [2.6.10.2 Rust Dev List](/1.Language/Zoo/Rust/Rust-Dev-List.md)
-        - [2.6.10.3 Rust List](/1.Language/Zoo/Rust/Rust-List.md)
-        - [2.6.10.4 Rust Network List](/1.Language/Zoo/Rust/Rust-Network-List.md)
-        - [2.6.10.5 Rust OpenSource List](/1.Language/Zoo/Rust/Rust-OpenSource-List.md)
-        - [2.6.10.6 Rust Syntax List](/1.Language/Zoo/Rust/Rust-Syntax-List.md)
-      - 2.6.11 Swift [1]
-        - [2.6.11.1 Swift List](/1.Language/Zoo/Swift/Swift-List.md)
+        - [2.1.9.1 DP List](/1.CS/AlgoDS/Optimization/DP-List.md)
+        - [2.1.9.2 GA List](/1.CS/AlgoDS/Optimization/GA-List.md)
+        - [2.1.9.3 Search List](/1.CS/AlgoDS/Optimization/Search-List.md)
+      - [2.1.10 Sort List](/1.CS/AlgoDS/Sort-List.md)
+      - [2.1.11 String List](/1.CS/AlgoDS/String-List.md)
+      - [2.1.12 Tree List](/1.CS/AlgoDS/Tree-List.md)
+    - [2.2 CS List](/1.CS/CS-List.md)
+    - 2.3 Concurrent [3]
+      - [2.3.1 ConcurrentIO List](/1.CS/Concurrent/ConcurrentIO-List.md)
+      - [2.3.2 ConcurrentModel List](/1.CS/Concurrent/ConcurrentModel-List.md)
+      - [2.3.3 ConcurrentProgramming List](/1.CS/Concurrent/ConcurrentProgramming-List.md)
+    - 2.4 DesignPattern [6]
+      - [2.4.1 DesignPattern List](/1.CS/DesignPattern/DesignPattern-List.md)
+      - [2.4.2 FunctionalProgramming List](/1.CS/DesignPattern/FunctionalProgramming-List.md)
+      - [2.4.3 MetaProgramming List](/1.CS/DesignPattern/MetaProgramming-List.md)
+      - [2.4.4 ObjectOrientedProgramming List](/1.CS/DesignPattern/ObjectOrientedProgramming-List.md)
+      - [2.4.5 Programming Paradigm List](/1.CS/DesignPattern/Programming-Paradigm-List.md)
+      - [2.4.6 ReactiveProgramming List](/1.CS/DesignPattern/ReactiveProgramming-List.md)
+    - 2.5 Teamwork [3]
+      - 2.5.1 Git [4]
+        - [2.5.1.1 Git List](/1.CS/Teamwork/Git/Git-List.md)
+        - [2.5.1.2 Git OpenSource List](/1.CS/Teamwork/Git/Git-OpenSource-List.md)
+        - [2.5.1.3 Git Workflow List](/1.CS/Teamwork/Git/Git-Workflow-List.md)
+        - [2.5.1.4 Github List](/1.CS/Teamwork/Git/Github-List.md)
+      - 2.5.2 OpenSource [1]
+        - [2.5.2.1 OpenSource List](/1.CS/Teamwork/OpenSource/OpenSource-List.md)
+      - 2.5.3 TechMgt [3]
+        - 2.5.3.1 Agile [1]
+          - [2.5.3.1.1 Agile List](/1.CS/Teamwork/TechMgt/Agile/Agile-List.md)
+        - 2.5.3.2 Devflow [2]
+          - [2.5.3.2.1 Devflow List](/1.CS/Teamwork/TechMgt/Devflow/Devflow-List.md)
+          - [2.5.3.2.2 Devflow OpenSource List](/1.CS/Teamwork/TechMgt/Devflow/Devflow-OpenSource-List.md)
+        - [2.5.3.3 TechMgt List](/1.CS/Teamwork/TechMgt/TechMgt-List.md)
+    - 2.6 Theory [7]
+      - 2.6.1 Compiler [2]
+        - [2.6.1.1 Compiler List](/1.CS/Theory/Compiler/Compiler-List.md)
+        - [2.6.1.2 Compiler OpenSource List](/1.CS/Theory/Compiler/Compiler-OpenSource-List.md)
+      - 2.6.2 MemoryManagement [2]
+        - [2.6.2.1 GarbageCollection List](/1.CS/Theory/MemoryManagement/GarbageCollection-List.md)
+        - [2.6.2.2 MemoryManagement List](/1.CS/Theory/MemoryManagement/MemoryManagement-List.md)
+      - [2.6.3 PLT List](/1.CS/Theory/PLT-List.md)
+      - [2.6.4 PLT OpenSource List](/1.CS/Theory/PLT-OpenSource-List.md)
+      - 2.6.5 StaticAnalysis [1]
+        - [2.6.5.1 StaticAnalysis List](/1.CS/Theory/StaticAnalysis/StaticAnalysis-List.md)
+      - 2.6.6 TypeTheory [1]
+        - [2.6.6.1 Type Theory List](/1.CS/Theory/TypeTheory/Type-Theory-List.md)
+      - 2.6.7 VM [1]
+        - [2.6.7.1 VM List](/1.CS/Theory/VM/VM-List.md)
+    - 2.7 Zoo [11]
+      - 2.7.1 Assembly [1]
+        - [2.7.1.1 Assembly List](/1.CS/Zoo/Assembly/Assembly-List.md)
+      - 2.7.2 C [6]
+        - [2.7.2.1 C List](/1.CS/Zoo/C/C-List.md)
+        - [2.7.2.2 CPP Compiler List](/1.CS/Zoo/C/CPP-Compiler-List.md)
+        - [2.7.2.3 CPP ConcurrentProgramming List](/1.CS/Zoo/C/CPP-ConcurrentProgramming-List.md)
+        - [2.7.2.4 CPP List](/1.CS/Zoo/C/CPP-List.md)
+        - [2.7.2.5 CPP OpenSource List](/1.CS/Zoo/C/CPP-OpenSource-List.md)
+        - [2.7.2.6 CPP Syntax List](/1.CS/Zoo/C/CPP-Syntax-List.md)
+      - 2.7.3 Go [11]
+        - [2.7.3.1 Go Architecture List](/1.CS/Zoo/Go/Go-Architecture-List.md)
+        - [2.7.3.2 Go Collection List](/1.CS/Zoo/Go/Go-Collection-List.md)
+        - [2.7.3.3 Go ConcurrentProgramming List](/1.CS/Zoo/Go/Go-ConcurrentProgramming-List.md)
+        - [2.7.3.4 Go Dev List](/1.CS/Zoo/Go/Go-Dev-List.md)
+        - [2.7.3.5 Go Internals List](/1.CS/Zoo/Go/Go-Internals-List.md)
+        - [2.7.3.6 Go List](/1.CS/Zoo/Go/Go-List.md)
+        - [2.7.3.7 Go OpenSource List](/1.CS/Zoo/Go/Go-OpenSource-List.md)
+        - [2.7.3.8 Go Syntax List](/1.CS/Zoo/Go/Go-Syntax-List.md)
+        - [2.7.3.9 Go Tuning List](/1.CS/Zoo/Go/Go-Tuning-List.md)
+        - [2.7.3.10 Go Web List](/1.CS/Zoo/Go/Go-Web-List.md)
+        - [2.7.3.11 Gopher List](/1.CS/Zoo/Go/Gopher-List.md)
+      - 2.7.4 Haskell [1]
+        - [2.7.4.1 Haskell List](/1.CS/Zoo/Haskell/Haskell-List.md)
+      - 2.7.5 Java [7]
+        - 2.7.5.1 ConcurrentProgramming [4]
+          - [2.7.5.1.1 Akka List](/1.CS/Zoo/Java/ConcurrentProgramming/Akka-List.md)
+          - [2.7.5.1.2 Java Async List](/1.CS/Zoo/Java/ConcurrentProgramming/Java-Async-List.md)
+          - [2.7.5.1.3 Java ConcurrentProgramming List](/1.CS/Zoo/Java/ConcurrentProgramming/Java-ConcurrentProgramming-List.md)
+          - [2.7.5.1.4 Netty List](/1.CS/Zoo/Java/ConcurrentProgramming/Netty-List.md)
+        - 2.7.5.2 Dev [12]
+          - [2.7.5.2.1 Gradle List](/1.CS/Zoo/Java/Dev/Gradle-List.md)
+          - [2.7.5.2.2 Java Collection List](/1.CS/Zoo/Java/Dev/Java-Collection-List.md)
+          - [2.7.5.2.3 Java DataStructure List](/1.CS/Zoo/Java/Dev/Java-DataStructure-List.md)
+          - [2.7.5.2.4 Java Dev List](/1.CS/Zoo/Java/Dev/Java-Dev-List.md)
+          - [2.7.5.2.5 Java FunctionalProgramming List](/1.CS/Zoo/Java/Dev/Java-FunctionalProgramming-List.md)
+          - [2.7.5.2.6 Java Network List](/1.CS/Zoo/Java/Dev/Java-Network-List.md)
+          - [2.7.5.2.7 Java Storage List](/1.CS/Zoo/Java/Dev/Java-Storage-List.md)
+          - [2.7.5.2.8 Java Syntax List](/1.CS/Zoo/Java/Dev/Java-Syntax-List.md)
+          - [2.7.5.2.9 Java System List](/1.CS/Zoo/Java/Dev/Java-System-List.md)
+          - [2.7.5.2.10 Java Test List](/1.CS/Zoo/Java/Dev/Java-Test-List.md)
+          - [2.7.5.2.11 Java UI List](/1.CS/Zoo/Java/Dev/Java-UI-List.md)
+          - [2.7.5.2.12 Maven List](/1.CS/Zoo/Java/Dev/Maven-List.md)
+        - 2.7.5.3 Dialect [5]
+          - [2.7.5.3.1 Clojure List](/1.CS/Zoo/Java/Dialect/Clojure-List.md)
+          - [2.7.5.3.2 Clojure OpenSource List](/1.CS/Zoo/Java/Dialect/Clojure-OpenSource-List.md)
+          - [2.7.5.3.3 Groovy List](/1.CS/Zoo/Java/Dialect/Groovy-List.md)
+          - [2.7.5.3.4 Kotlin List](/1.CS/Zoo/Java/Dialect/Kotlin-List.md)
+          - [2.7.5.3.5 Scala List](/1.CS/Zoo/Java/Dialect/Scala-List.md)
+        - 2.7.5.4 JVM [6]
+          - [2.7.5.4.1 JVM Class List](/1.CS/Zoo/Java/JVM/JVM-Class-List.md)
+          - [2.7.5.4.2 JVM Compiler List](/1.CS/Zoo/Java/JVM/JVM-Compiler-List.md)
+          - [2.7.5.4.3 JVM Debug List](/1.CS/Zoo/Java/JVM/JVM-Debug-List.md)
+          - [2.7.5.4.4 JVM List](/1.CS/Zoo/Java/JVM/JVM-List.md)
+          - [2.7.5.4.5 JVM MemoryManagement List](/1.CS/Zoo/Java/JVM/JVM-MemoryManagement-List.md)
+          - [2.7.5.4.6 JVM Tuning List](/1.CS/Zoo/Java/JVM/JVM-Tuning-List.md)
+        - [2.7.5.5 Java List](/1.CS/Zoo/Java/Java-List.md)
+        - [2.7.5.6 Java OpenSource List](/1.CS/Zoo/Java/Java-OpenSource-List.md)
+        - 2.7.5.7 Spring [9]
+          - [2.7.5.7.1 Java Servlet List](/1.CS/Zoo/Java/Spring/Java-Servlet-List.md)
+          - [2.7.5.7.2 Mybatis List](/1.CS/Zoo/Java/Spring/Mybatis-List.md)
+          - [2.7.5.7.3 Spring Internals List](/1.CS/Zoo/Java/Spring/Spring-Internals-List.md)
+          - [2.7.5.7.4 Spring List](/1.CS/Zoo/Java/Spring/Spring-List.md)
+          - [2.7.5.7.5 Spring OpenSource List](/1.CS/Zoo/Java/Spring/Spring-OpenSource-List.md)
+          - [2.7.5.7.6 SpringBoot List](/1.CS/Zoo/Java/Spring/SpringBoot-List.md)
+          - [2.7.5.7.7 SpringCloud List](/1.CS/Zoo/Java/Spring/SpringCloud-List.md)
+          - [2.7.5.7.8 SpringSecurity List](/1.CS/Zoo/Java/Spring/SpringSecurity-List.md)
+          - [2.7.5.7.9 Tomcat List](/1.CS/Zoo/Java/Spring/Tomcat-List.md)
+      - 2.7.6 JavaScript [11]
+        - [2.7.6.1 JavaScript Async List](/1.CS/Zoo/JavaScript/JavaScript-Async-List.md)
+        - [2.7.6.2 JavaScript Collection List](/1.CS/Zoo/JavaScript/JavaScript-Collection-List.md)
+        - [2.7.6.3 JavaScript DataStructure List](/1.CS/Zoo/JavaScript/JavaScript-DataStructure-List.md)
+        - [2.7.6.4 JavaScript Engine List](/1.CS/Zoo/JavaScript/JavaScript-Engine-List.md)
+        - [2.7.6.5 JavaScript FunctionalProgramming List](/1.CS/Zoo/JavaScript/JavaScript-FunctionalProgramming-List.md)
+        - [2.7.6.6 JavaScript List](/1.CS/Zoo/JavaScript/JavaScript-List.md)
+        - [2.7.6.7 JavaScript OpenSource List](/1.CS/Zoo/JavaScript/JavaScript-OpenSource-List.md)
+        - [2.7.6.8 JavaScript Pattern List](/1.CS/Zoo/JavaScript/JavaScript-Pattern-List.md)
+        - [2.7.6.9 JavaScript TypeSystem List](/1.CS/Zoo/JavaScript/JavaScript-TypeSystem-List.md)
+        - [2.7.6.10 TypeScript List](/1.CS/Zoo/JavaScript/TypeScript-List.md)
+        - [2.7.6.11 TypeScript OpenSource List](/1.CS/Zoo/JavaScript/TypeScript-OpenSource-List.md)
+      - 2.7.7 Lisp [1]
+        - [2.7.7.1 Lisp List](/1.CS/Zoo/Lisp/Lisp-List.md)
+      - 2.7.8 PHP [2]
+        - [2.7.8.1 PHP List](/1.CS/Zoo/PHP/PHP-List.md)
+        - [2.7.8.2 PHP OpenSource List](/1.CS/Zoo/PHP/PHP-OpenSource-List.md)
+      - 2.7.9 Python [9]
+        - [2.7.9.1 Python Concurrent List](/1.CS/Zoo/Python/Python-Concurrent-List.md)
+        - [2.7.9.2 Python DataStructure List](/1.CS/Zoo/Python/Python-DataStructure-List.md)
+        - [2.7.9.3 Python Debug List](/1.CS/Zoo/Python/Python-Debug-List.md)
+        - [2.7.9.4 Python Framework List](/1.CS/Zoo/Python/Python-Framework-List.md)
+        - [2.7.9.5 Python FunctionalProgramming List](/1.CS/Zoo/Python/Python-FunctionalProgramming-List.md)
+        - [2.7.9.6 Python List](/1.CS/Zoo/Python/Python-List.md)
+        - [2.7.9.7 Python OpenSource List](/1.CS/Zoo/Python/Python-OpenSource-List.md)
+        - [2.7.9.8 Python StyleGuide List](/1.CS/Zoo/Python/Python-StyleGuide-List.md)
+        - [2.7.9.9 Python Syntax List](/1.CS/Zoo/Python/Python-Syntax-List.md)
+      - 2.7.10 Rust [6]
+        - [2.7.10.1 Rust ConcurrentProgramming List](/1.CS/Zoo/Rust/Rust-ConcurrentProgramming-List.md)
+        - [2.7.10.2 Rust Dev List](/1.CS/Zoo/Rust/Rust-Dev-List.md)
+        - [2.7.10.3 Rust List](/1.CS/Zoo/Rust/Rust-List.md)
+        - [2.7.10.4 Rust Network List](/1.CS/Zoo/Rust/Rust-Network-List.md)
+        - [2.7.10.5 Rust OpenSource List](/1.CS/Zoo/Rust/Rust-OpenSource-List.md)
+        - [2.7.10.6 Rust Syntax List](/1.CS/Zoo/Rust/Rust-Syntax-List.md)
+      - 2.7.11 Swift [1]
+        - [2.7.11.1 Swift List](/1.CS/Zoo/Swift/Swift-List.md)
   - 3 10.AI [14]
     - [3.1 AI Book List](/10.AI/AI-Book-List.md)
     - [3.2 AI Course List](/10.AI/AI-Course-List.md)
@@ -469,8 +470,8 @@
         - [4.1.1.6 Web StyleGuide List](/2.Frontend/1.Web/Architecture/Web-StyleGuide-List.md)
       - 4.1.2 Browser [4]
         - [4.1.2.1 Browser Automation List](/2.Frontend/1.Web/Browser/Browser-Automation-List.md)
-        - [4.1.2.2 Browser Extension List](/2.Frontend/1.Web/Browser/Browser-Extension-List.md)
-        - [4.1.2.3 Browser List](/2.Frontend/1.Web/Browser/Browser-List.md)
+        - [4.1.2.2 Browser List](/2.Frontend/1.Web/Browser/Browser-List.md)
+        - [4.1.2.3 Chrome Extension List](/2.Frontend/1.Web/Browser/Chrome-Extension-List.md)
         - [4.1.2.4 Web3 List](/2.Frontend/1.Web/Browser/Web3-List.md)
       - 4.1.3 Dev [6]
         - [4.1.3.1 Web Builder List](/2.Frontend/1.Web/Dev/Web-Builder-List.md)
@@ -732,35 +733,33 @@
       - [6.2.6 阿里](/3.System/BigTech/阿里.md)
       - [6.2.7 阿里巴巴](/3.System/BigTech/阿里巴巴/README.md)
         
-    - 6.3 DataEngineering [8]
-      - 6.3.1 Analytics [1]
-        - [6.3.1.1 Analytics OpenSource List](/3.System/DataEngineering/Analytics/Analytics-OpenSource-List.md)
-      - 6.3.2 DataAggregation [3]
-        - [6.3.2.1 DataAggregation OpenSource List](/3.System/DataEngineering/DataAggregation/DataAggregation-OpenSource-List.md)
-        - [6.3.2.2 DataPipeline List](/3.System/DataEngineering/DataAggregation/DataPipeline-List.md)
-        - [6.3.2.3 ETL List](/3.System/DataEngineering/DataAggregation/ETL-List.md)
-      - [6.3.3 DataEngineering List](/3.System/DataEngineering/DataEngineering-List.md)
-      - [6.3.4 DataEngineering OpenSource List](/3.System/DataEngineering/DataEngineering-OpenSource-List.md)
-      - 6.3.5 DataLake [2]
-        - [6.3.5.1 DataLake List](/3.System/DataEngineering/DataLake/DataLake-List.md)
-        - 6.3.5.2 Iceberg [1]
-          - [6.3.5.2.1 Iceberg List](/3.System/DataEngineering/DataLake/Iceberg/Iceberg-List.md)
-      - 6.3.6 DataVis [3]
-        - [6.3.6.1 Cube List](/3.System/DataEngineering/DataVis/Cube-List.md)
-        - [6.3.6.2 DataVis List](/3.System/DataEngineering/DataVis/DataVis-List.md)
-        - [6.3.6.3 DataVis OpenSource List](/3.System/DataEngineering/DataVis/DataVis-OpenSource-List.md)
-      - 6.3.7 DataWarehouse [1]
-        - [6.3.7.1 Datawarehouse List](/3.System/DataEngineering/DataWarehouse/Datawarehouse-List.md)
-      - 6.3.8 OLAP [5]
-        - 6.3.8.1 ClickHouse [1]
-          - [6.3.8.1.1 ClickHouse List](/3.System/DataEngineering/OLAP/ClickHouse/ClickHouse-List.md)
-        - 6.3.8.2 Greenplum [1]
-          - [6.3.8.2.1 Greenplum List](/3.System/DataEngineering/OLAP/Greenplum/Greenplum-List.md)
-        - 6.3.8.3 Hive [1]
-          - [6.3.8.3.1 Hive List](/3.System/DataEngineering/OLAP/Hive/Hive-List.md)
-        - [6.3.8.4 OLAP List](/3.System/DataEngineering/OLAP/OLAP-List.md)
-        - 6.3.8.5 Presto [1]
-          - [6.3.8.5.1 Presto List](/3.System/DataEngineering/OLAP/Presto/Presto-List.md)
+    - 6.3 DataEngineering [7]
+      - 6.3.1 DataAggregation [3]
+        - [6.3.1.1 DataAggregation OpenSource List](/3.System/DataEngineering/DataAggregation/DataAggregation-OpenSource-List.md)
+        - [6.3.1.2 DataPipeline List](/3.System/DataEngineering/DataAggregation/DataPipeline-List.md)
+        - [6.3.1.3 ETL List](/3.System/DataEngineering/DataAggregation/ETL-List.md)
+      - [6.3.2 DataEngineering List](/3.System/DataEngineering/DataEngineering-List.md)
+      - [6.3.3 DataEngineering OpenSource List](/3.System/DataEngineering/DataEngineering-OpenSource-List.md)
+      - 6.3.4 DataLake [2]
+        - [6.3.4.1 DataLake List](/3.System/DataEngineering/DataLake/DataLake-List.md)
+        - 6.3.4.2 Iceberg [1]
+          - [6.3.4.2.1 Iceberg List](/3.System/DataEngineering/DataLake/Iceberg/Iceberg-List.md)
+      - 6.3.5 DataVis [3]
+        - [6.3.5.1 Cube List](/3.System/DataEngineering/DataVis/Cube-List.md)
+        - [6.3.5.2 DataVis List](/3.System/DataEngineering/DataVis/DataVis-List.md)
+        - [6.3.5.3 DataVis OpenSource List](/3.System/DataEngineering/DataVis/DataVis-OpenSource-List.md)
+      - 6.3.6 DataWarehouse [1]
+        - [6.3.6.1 Datawarehouse List](/3.System/DataEngineering/DataWarehouse/Datawarehouse-List.md)
+      - 6.3.7 OLAP [5]
+        - 6.3.7.1 ClickHouse [1]
+          - [6.3.7.1.1 ClickHouse List](/3.System/DataEngineering/OLAP/ClickHouse/ClickHouse-List.md)
+        - 6.3.7.2 Greenplum [1]
+          - [6.3.7.2.1 Greenplum List](/3.System/DataEngineering/OLAP/Greenplum/Greenplum-List.md)
+        - 6.3.7.3 Hive [1]
+          - [6.3.7.3.1 Hive List](/3.System/DataEngineering/OLAP/Hive/Hive-List.md)
+        - [6.3.7.4 OLAP List](/3.System/DataEngineering/OLAP/OLAP-List.md)
+        - 6.3.7.5 Presto [1]
+          - [6.3.7.5.1 Presto List](/3.System/DataEngineering/OLAP/Presto/Presto-List.md)
     - 6.4 DevOps [8]
       - [6.4.1 AIOps List](/3.System/DevOps/AIOps-List.md)
       - 6.4.2 Automation [1]
@@ -776,11 +775,12 @@
       - 6.4.7 LogAggregation [2]
         - [6.4.7.1 Flume List](/3.System/DevOps/LogAggregation/Flume-List.md)
         - [6.4.7.2 LogAggregation List](/3.System/DevOps/LogAggregation/LogAggregation-List.md)
-      - 6.4.8 MonitorAlert [4]
+      - 6.4.8 MonitorAlert [5]
         - [6.4.8.1 APM List](/3.System/DevOps/MonitorAlert/APM-List.md)
         - [6.4.8.2 Aggregation List](/3.System/DevOps/MonitorAlert/Aggregation-List.md)
         - [6.4.8.3 MonitorAlert List](/3.System/DevOps/MonitorAlert/MonitorAlert-List.md)
         - [6.4.8.4 MonitorAlert OpenSource List](/3.System/DevOps/MonitorAlert/MonitorAlert-OpenSource-List.md)
+        - [6.4.8.5 Web Analytics OpenSource List](/3.System/DevOps/MonitorAlert/Web-Analytics-OpenSource-List.md)
     - 6.5 InfoSecurity [9]
       - 6.5.1 Crawler [2]
         - [6.5.1.1 Crawler List](/3.System/InfoSecurity/Crawler/Crawler-List.md)

@@ -10,7 +10,7 @@
 
 # Mesh Generation
 
-### Image To Mesh
+## Image To Mesh
 
 - [2018-mlivesu/slice2mesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/mlivesu/slice2mesh)](https://github.com/mlivesu/slice2mesh): a Meshing Tool for the Simulation of Additive Manufacturing Processes
 
@@ -22,7 +22,9 @@
 
 - [2021-AOT-AG/DicomToMesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/AOT-AG/DicomToMesh)](https://github.com/AOT-AG/DicomToMesh): A command line tool to transform a DICOM volume into a 3d surface mesh (obj, stl or ply). Several mesh processing routines can be enabled, such as mesh reduction, smoothing or cleaning. Works on Linux, OSX and Windows.
 
-### Text To Mesh
+- [2023-pix2pix3D ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/dunbar12138/pix2pix3D)](https://github.com/dunbar12138/pix2pix3D): This is the official PyTorch implementation of "3D-aware Conditional Image Synthesis". Pix2pix3D synthesizes 3D objects (neural fields) given a 2D label map, such as a segmentation or edge map. We also provide an interactive 3D editing demo.
+
+## Text To Mesh
 
 - [2021-text2mesh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/threedle/text2mesh)](https://github.com/threedle/text2mesh): 3D mesh stylization driven by a text input in PyTorch.
 

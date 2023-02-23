@@ -50,9 +50,11 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [《Rust 语言圣经》 📚](https://course.rs/into-rust.html): Rust 语言圣经涵盖从入门到精通所需的全部 Rust 知识，目录及内容都经过深思熟虑的设计，同时语言生动幽默，行文流畅自如，摆脱技术书籍常有的机器味和晦涩感。
 
-- [Rust By Practice 📚](https://github.com/sunface/rust-by-practice): Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev.
+- [《Rust By Practice》 📚](https://github.com/sunface/rust-by-practice): Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev.
 
-- [2022-Zero To Production In Rust 📚](https://github.com/LukeMathWalker/zero-to-production): Zero To Production In Rust is an opinionated introduction to backend development using Rust.
+- [2022-《Zero To Production In Rust》 📚](https://github.com/LukeMathWalker/zero-to-production): Zero To Production In Rust is an opinionated introduction to backend development using Rust.
+
+- [2023-《The Rust Performance Book》 📚](https://nnethercote.github.io/perf-book/introduction.html): This book contains many techniques that can improve the performance—speed and memory usage—of Rust programs. The Compile Times section also contains some techniques that will improve the compile times of Rust programs. Some techniques only require changing build configurations, but many require changing code.
 
 ## Collection
 
