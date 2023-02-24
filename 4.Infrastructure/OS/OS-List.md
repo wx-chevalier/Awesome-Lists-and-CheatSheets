@@ -31,7 +31,10 @@
 - [2017-Operating System: From 0 to 1 📚](https://github.com/tuhdo/os01): Bootstrap yourself to write an OS from scratch. A book for self-learner.
 
 - [2017-How to write a simple operating system 📚](http://mikeos.sourceforge.net/write-your-own-os.html)：This document shows you how to write and build your first operating system in x86 assembly language.
+
 - [2020-What is Linux From Scratch? 📚](http://www.linuxfromscratch.org/lfs/): Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own customized Linux system entirely from source.
+
+- [2023-minixfromscratch ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/o-oconnell/minixfromscratch)](https://github.com/o-oconnell/minixfromscratch): I believe that learning MINIX is probably the best way to learn about operating systems. Until now, I have not been able to find a MINIX 3 project that allows you to compile the code that is referenced in the book Operating Systems: Design and Implementation (3e) (v3.1.0). It was tricky to get a reasonable development setup to make it possible for newbies like myself to learn from the book. This is an attempt to fix that and make it easy to browse, edit, recompile, and execute the code.
 
 ## Course
 

@@ -11,3 +11,5 @@
 - [typescript-json ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/samchon/typescript-json): Super-fast Runtime validator (type checker) with only one line
 
 - [zod ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/colinhacks/zod): TypeScript-first schema validation with static type inference
+
+- [2023-ts-reset ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/total-typescript/ts-reset)](https://github.com/total-typescript/ts-reset): A 'CSS reset' for TypeScript, improving types for common JavaScript API's

@@ -401,14 +401,19 @@
         - 3.11.3.7 VariationalInference [1]
           - [3.11.3.7.1 VariationalInference List](/10.AI/MachineLearning/Inference/VariationalInference/VariationalInference-List.md)
       - [3.11.4 MachineLearning List](/10.AI/MachineLearning/MachineLearning-List.md)
-    - 3.12 NLP [10]
-      - 3.12.1 DialogueSystem [3]
-        - [3.12.1.1 ASR List](/10.AI/NLP/DialogueSystem/ASR-List.md)
-        - [3.12.1.2 Chatbot List](/10.AI/NLP/DialogueSystem/Chatbot-List.md)
-        - [3.12.1.3 DialogueSystem List](/10.AI/NLP/DialogueSystem/DialogueSystem-List.md)
-      - 3.12.2 InformationRetrieval [2]
-        - [3.12.2.1 InformationExtraction List](/10.AI/NLP/InformationRetrieval/InformationExtraction-List.md)
-        - [3.12.2.2 InformationRetrieval List](/10.AI/NLP/InformationRetrieval/InformationRetrieval-List.md)
+    - 3.12 NLP [7]
+      - 3.12.1 High level Tasks [3]
+        - 3.12.1.1 DialogueSystem [3]
+          - [3.12.1.1.1 ASR List](/10.AI/NLP/High-level%20Tasks/DialogueSystem/ASR-List.md)
+          - [3.12.1.1.2 Chatbot List](/10.AI/NLP/High-level%20Tasks/DialogueSystem/Chatbot-List.md)
+          - [3.12.1.1.3 DialogueSystem List](/10.AI/NLP/High-level%20Tasks/DialogueSystem/DialogueSystem-List.md)
+        - 3.12.1.2 MachineTranslation [1]
+          - [3.12.1.2.1 MachineTranslation List](/10.AI/NLP/High-level%20Tasks/MachineTranslation/MachineTranslation-List.md)
+        - 3.12.1.3 Voice [1]
+          - [3.12.1.3.1 Voice List](/10.AI/NLP/High-level%20Tasks/Voice/Voice-List.md)
+      - 3.12.2 InformationExtraction [2]
+        - [3.12.2.1 InformationExtraction List](/10.AI/NLP/InformationExtraction/InformationExtraction-List.md)
+        - [3.12.2.2 InformationRetrieval List](/10.AI/NLP/InformationExtraction/InformationRetrieval-List.md)
       - 3.12.3 KnowledgeGraph [1]
         - [3.12.3.1 KnowledgeGraph List](/10.AI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
       - 3.12.4 LLM [3]
@@ -419,18 +424,14 @@
           - [3.12.4.2.2 GPT List](/10.AI/NLP/LLM/GPT/GPT-List.md)
           - [3.12.4.2.3 Prompt List](/10.AI/NLP/LLM/GPT/Prompt-List.md)
         - [3.12.4.3 LLM List](/10.AI/NLP/LLM/LLM-List.md)
-      - 3.12.5 LinguisticStructure [3]
-        - [3.12.5.1 Representation List](/10.AI/NLP/LinguisticStructure/Representation-List.md)
-        - [3.12.5.2 StatisticalLanguageModel List](/10.AI/NLP/LinguisticStructure/StatisticalLanguageModel-List.md)
-        - [3.12.5.3 TopicModel List](/10.AI/NLP/LinguisticStructure/TopicModel-List.md)
-      - 3.12.6 MachineTranslation [1]
-        - [3.12.6.1 MachineTranslation List](/10.AI/NLP/MachineTranslation/MachineTranslation-List.md)
-      - [3.12.7 NLP List](/10.AI/NLP/NLP-List.md)
-      - [3.12.8 NLP OpenSource List](/10.AI/NLP/NLP-OpenSource-List.md)
-      - 3.12.9 SyntaxSemanticAnalysis [1]
-        - [3.12.9.1 SyntaxSemanticAnalysis List](/10.AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
-      - 3.12.10 Voice [1]
-        - [3.12.10.1 Voice List](/10.AI/NLP/Voice/Voice-List.md)
+      - [3.12.5 NLP List](/10.AI/NLP/NLP-List.md)
+      - [3.12.6 NLP OpenSource List](/10.AI/NLP/NLP-OpenSource-List.md)
+      - 3.12.7 SyntaxSemanticAnalysis [2]
+        - 3.12.7.1 SentenceAnalysis [3]
+          - [3.12.7.1.1 Representation List](/10.AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/Representation-List.md)
+          - [3.12.7.1.2 StatisticalLanguageModel List](/10.AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/StatisticalLanguageModel-List.md)
+          - [3.12.7.1.3 TopicModel List](/10.AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/TopicModel-List.md)
+        - [3.12.7.2 SyntaxSemanticAnalysis List](/10.AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
     - 3.13 Statistics [4]
       - [3.13.1 LinearAlgebra List](/10.AI/Statistics/LinearAlgebra-List.md)
       - [3.13.2 Mathematics List](/10.AI/Statistics/Mathematics-List.md)
@@ -988,63 +989,63 @@
       - 8.2.9 WideColumn [1]
         - 8.2.9.1 HBase [1]
           - [8.2.9.1.1 HBase List](/4.Infrastructure/Database/WideColumn/HBase/HBase-List.md)
-    - 8.3 Distributed [6]
-      - 8.3.1 DistributedCompute [6]
-        - 8.3.1.1 Batch [3]
-          - [8.3.1.1.1 BatchProcessing List](/4.Infrastructure/Distributed/DistributedCompute/Batch/BatchProcessing-List.md)
-          - [8.3.1.1.2 Hadoop List](/4.Infrastructure/Distributed/DistributedCompute/Batch/Hadoop-List.md)
-          - [8.3.1.1.3 Spark List](/4.Infrastructure/Distributed/DistributedCompute/Batch/Spark-List.md)
-        - [8.3.1.2 DistributedCompute List](/4.Infrastructure/Distributed/DistributedCompute/DistributedCompute-List.md)
-        - [8.3.1.3 DistributedCompute OpenSource List](/4.Infrastructure/Distributed/DistributedCompute/DistributedCompute-OpenSource-List.md)
-        - 8.3.1.4 EdgeCompute [1]
-          - [8.3.1.4.1 EdgeCompute List](/4.Infrastructure/Distributed/DistributedCompute/EdgeCompute/EdgeCompute-List.md)
-        - 8.3.1.5 QuantumCompute [1]
-          - [8.3.1.5.1 QuantumCompute List](/4.Infrastructure/Distributed/DistributedCompute/QuantumCompute/QuantumCompute-List.md)
-        - 8.3.1.6 Stream [5]
-          - [8.3.1.6.1 Flink List](/4.Infrastructure/Distributed/DistributedCompute/Stream/Flink-List.md)
-          - [8.3.1.6.2 Pravega List](/4.Infrastructure/Distributed/DistributedCompute/Stream/Pravega-List.md)
-          - [8.3.1.6.3 SparkStreaming List](/4.Infrastructure/Distributed/DistributedCompute/Stream/SparkStreaming-List.md)
-          - [8.3.1.6.4 Storm List](/4.Infrastructure/Distributed/DistributedCompute/Stream/Storm-List.md)
-          - [8.3.1.6.5 StreamProcessing List](/4.Infrastructure/Distributed/DistributedCompute/Stream/StreamProcessing-List.md)
-      - 8.3.2 DistributedSchedule [2]
-        - [8.3.2.1 Cron List](/4.Infrastructure/Distributed/DistributedSchedule/Cron-List.md)
-        - [8.3.2.2 JobScheduler List](/4.Infrastructure/Distributed/DistributedSchedule/JobScheduler-List.md)
-      - 8.3.3 DistributedStorage [7]
+    - 8.3 Distributed [5]
+      - 8.3.1 1.DistributedSystem [2]
+        - 8.3.1.1 Consensus [6]
+          - [8.3.1.1.1 Consensus List](/4.Infrastructure/Distributed/1.DistributedSystem/Consensus/Consensus-List.md)
+          - [8.3.1.1.2 Consul List](/4.Infrastructure/Distributed/1.DistributedSystem/Consensus/Consul-List.md)
+          - [8.3.1.1.3 Etcd List](/4.Infrastructure/Distributed/1.DistributedSystem/Consensus/Etcd-List.md)
+          - [8.3.1.1.4 Paxos List](/4.Infrastructure/Distributed/1.DistributedSystem/Consensus/Paxos-List.md)
+          - [8.3.1.1.5 Raft List](/4.Infrastructure/Distributed/1.DistributedSystem/Consensus/Raft-List.md)
+          - [8.3.1.1.6 ZooKeeper List](/4.Infrastructure/Distributed/1.DistributedSystem/Consensus/ZooKeeper-List.md)
+        - [8.3.1.2 DistributedSystem List](/4.Infrastructure/Distributed/1.DistributedSystem/DistributedSystem-List.md)
+      - 8.3.2 10.Web3 [2]
+        - [8.3.2.1 Web3 List](/4.Infrastructure/Distributed/10.Web3/Web3-List.md)
+        - [8.3.2.2 Web3 OpenSource List](/4.Infrastructure/Distributed/10.Web3/Web3-OpenSource-List.md)
+      - 8.3.3 2.DistributedStorage [7]
         - 8.3.3.1 Blockchain [6]
-          - [8.3.3.1.1 Bitcoin List](/4.Infrastructure/Distributed/DistributedStorage/Blockchain/Bitcoin-List.md)
-          - [8.3.3.1.2 Blockchain Internals List](/4.Infrastructure/Distributed/DistributedStorage/Blockchain/Blockchain-Internals-List.md)
-          - [8.3.3.1.3 Blockchain List](/4.Infrastructure/Distributed/DistributedStorage/Blockchain/Blockchain-List.md)
-          - [8.3.3.1.4 Blockchain OpenSource List](/4.Infrastructure/Distributed/DistributedStorage/Blockchain/Blockchain-OpenSource-List.md)
-          - [8.3.3.1.5 Ethereum List](/4.Infrastructure/Distributed/DistributedStorage/Blockchain/Ethereum-List.md)
-          - [8.3.3.1.6 Solidity List](/4.Infrastructure/Distributed/DistributedStorage/Blockchain/Solidity-List.md)
-        - [8.3.3.2 CRDT List](/4.Infrastructure/Distributed/DistributedStorage/CRDT-List.md)
+          - [8.3.3.1.1 Bitcoin List](/4.Infrastructure/Distributed/2.DistributedStorage/Blockchain/Bitcoin-List.md)
+          - [8.3.3.1.2 Blockchain Internals List](/4.Infrastructure/Distributed/2.DistributedStorage/Blockchain/Blockchain-Internals-List.md)
+          - [8.3.3.1.3 Blockchain List](/4.Infrastructure/Distributed/2.DistributedStorage/Blockchain/Blockchain-List.md)
+          - [8.3.3.1.4 Blockchain OpenSource List](/4.Infrastructure/Distributed/2.DistributedStorage/Blockchain/Blockchain-OpenSource-List.md)
+          - [8.3.3.1.5 Ethereum List](/4.Infrastructure/Distributed/2.DistributedStorage/Blockchain/Ethereum-List.md)
+          - [8.3.3.1.6 Solidity List](/4.Infrastructure/Distributed/2.DistributedStorage/Blockchain/Solidity-List.md)
+        - [8.3.3.2 CRDT List](/4.Infrastructure/Distributed/2.DistributedStorage/CRDT-List.md)
         - 8.3.3.3 DistributedFS [2]
-          - [8.3.3.3.1 DistributedFS List](/4.Infrastructure/Distributed/DistributedStorage/DistributedFS/DistributedFS-List.md)
-          - [8.3.3.3.2 HDFS List](/4.Infrastructure/Distributed/DistributedStorage/DistributedFS/HDFS-List.md)
+          - [8.3.3.3.1 DistributedFS List](/4.Infrastructure/Distributed/2.DistributedStorage/DistributedFS/DistributedFS-List.md)
+          - [8.3.3.3.2 HDFS List](/4.Infrastructure/Distributed/2.DistributedStorage/DistributedFS/HDFS-List.md)
         - 8.3.3.4 DistributedID [1]
-          - [8.3.3.4.1 DistributedID List](/4.Infrastructure/Distributed/DistributedStorage/DistributedID/DistributedID-List.md)
-        - [8.3.3.5 DistributedStorage List](/4.Infrastructure/Distributed/DistributedStorage/DistributedStorage-List.md)
-        - [8.3.3.6 DistributedStorage OpenSource List](/4.Infrastructure/Distributed/DistributedStorage/DistributedStorage-OpenSource-List.md)
+          - [8.3.3.4.1 DistributedID List](/4.Infrastructure/Distributed/2.DistributedStorage/DistributedID/DistributedID-List.md)
+        - [8.3.3.5 DistributedStorage List](/4.Infrastructure/Distributed/2.DistributedStorage/DistributedStorage-List.md)
+        - [8.3.3.6 DistributedStorage OpenSource List](/4.Infrastructure/Distributed/2.DistributedStorage/DistributedStorage-OpenSource-List.md)
         - 8.3.3.7 ObjectStorage [3]
-          - [8.3.3.7.1 BlockStorage List](/4.Infrastructure/Distributed/DistributedStorage/ObjectStorage/BlockStorage-List.md)
-          - [8.3.3.7.2 DistributedStorage List](/4.Infrastructure/Distributed/DistributedStorage/ObjectStorage/DistributedStorage-List.md)
-          - [8.3.3.7.3 ObjectStorage List](/4.Infrastructure/Distributed/DistributedStorage/ObjectStorage/ObjectStorage-List.md)
-      - 8.3.4 DistributedSystem [2]
-        - 8.3.4.1 Consensus [6]
-          - [8.3.4.1.1 Consensus List](/4.Infrastructure/Distributed/DistributedSystem/Consensus/Consensus-List.md)
-          - [8.3.4.1.2 Consul List](/4.Infrastructure/Distributed/DistributedSystem/Consensus/Consul-List.md)
-          - [8.3.4.1.3 Etcd List](/4.Infrastructure/Distributed/DistributedSystem/Consensus/Etcd-List.md)
-          - [8.3.4.1.4 Paxos List](/4.Infrastructure/Distributed/DistributedSystem/Consensus/Paxos-List.md)
-          - [8.3.4.1.5 Raft List](/4.Infrastructure/Distributed/DistributedSystem/Consensus/Raft-List.md)
-          - [8.3.4.1.6 ZooKeeper List](/4.Infrastructure/Distributed/DistributedSystem/Consensus/ZooKeeper-List.md)
-        - [8.3.4.2 DistributedSystem List](/4.Infrastructure/Distributed/DistributedSystem/DistributedSystem-List.md)
-      - 8.3.5 DistributedTransaction [3]
-        - [8.3.5.1 DistributedLock List](/4.Infrastructure/Distributed/DistributedTransaction/DistributedLock-List.md)
-        - [8.3.5.2 DistributedTransaction List](/4.Infrastructure/Distributed/DistributedTransaction/DistributedTransaction-List.md)
-        - [8.3.5.3 DistributedTransaction OpenSource List](/4.Infrastructure/Distributed/DistributedTransaction/DistributedTransaction-OpenSource-List.md)
-      - 8.3.6 Web3 [2]
-        - [8.3.6.1 Web3 List](/4.Infrastructure/Distributed/Web3/Web3-List.md)
-        - [8.3.6.2 Web3 OpenSource List](/4.Infrastructure/Distributed/Web3/Web3-OpenSource-List.md)
+          - [8.3.3.7.1 BlockStorage List](/4.Infrastructure/Distributed/2.DistributedStorage/ObjectStorage/BlockStorage-List.md)
+          - [8.3.3.7.2 DistributedStorage List](/4.Infrastructure/Distributed/2.DistributedStorage/ObjectStorage/DistributedStorage-List.md)
+          - [8.3.3.7.3 ObjectStorage List](/4.Infrastructure/Distributed/2.DistributedStorage/ObjectStorage/ObjectStorage-List.md)
+      - 8.3.4 3.DistributedCompute [7]
+        - 8.3.4.1 Batch [3]
+          - [8.3.4.1.1 BatchProcessing List](/4.Infrastructure/Distributed/3.DistributedCompute/Batch/BatchProcessing-List.md)
+          - [8.3.4.1.2 Hadoop List](/4.Infrastructure/Distributed/3.DistributedCompute/Batch/Hadoop-List.md)
+          - [8.3.4.1.3 Spark List](/4.Infrastructure/Distributed/3.DistributedCompute/Batch/Spark-List.md)
+        - [8.3.4.2 DistributedCompute List](/4.Infrastructure/Distributed/3.DistributedCompute/DistributedCompute-List.md)
+        - [8.3.4.3 DistributedCompute OpenSource List](/4.Infrastructure/Distributed/3.DistributedCompute/DistributedCompute-OpenSource-List.md)
+        - 8.3.4.4 EdgeCompute [1]
+          - [8.3.4.4.1 EdgeCompute List](/4.Infrastructure/Distributed/3.DistributedCompute/EdgeCompute/EdgeCompute-List.md)
+        - 8.3.4.5 JobSchedule [2]
+          - [8.3.4.5.1 Cron List](/4.Infrastructure/Distributed/3.DistributedCompute/JobSchedule/Cron-List.md)
+          - [8.3.4.5.2 JobScheduler List](/4.Infrastructure/Distributed/3.DistributedCompute/JobSchedule/JobScheduler-List.md)
+        - 8.3.4.6 QuantumCompute [1]
+          - [8.3.4.6.1 QuantumCompute List](/4.Infrastructure/Distributed/3.DistributedCompute/QuantumCompute/QuantumCompute-List.md)
+        - 8.3.4.7 Stream [5]
+          - [8.3.4.7.1 Flink List](/4.Infrastructure/Distributed/3.DistributedCompute/Stream/Flink-List.md)
+          - [8.3.4.7.2 Pravega List](/4.Infrastructure/Distributed/3.DistributedCompute/Stream/Pravega-List.md)
+          - [8.3.4.7.3 SparkStreaming List](/4.Infrastructure/Distributed/3.DistributedCompute/Stream/SparkStreaming-List.md)
+          - [8.3.4.7.4 Storm List](/4.Infrastructure/Distributed/3.DistributedCompute/Stream/Storm-List.md)
+          - [8.3.4.7.5 StreamProcessing List](/4.Infrastructure/Distributed/3.DistributedCompute/Stream/StreamProcessing-List.md)
+      - 8.3.5 4.DistributedTransaction [3]
+        - [8.3.5.1 DistributedLock List](/4.Infrastructure/Distributed/4.DistributedTransaction/DistributedLock-List.md)
+        - [8.3.5.2 DistributedTransaction List](/4.Infrastructure/Distributed/4.DistributedTransaction/DistributedTransaction-List.md)
+        - [8.3.5.3 DistributedTransaction OpenSource List](/4.Infrastructure/Distributed/4.DistributedTransaction/DistributedTransaction-OpenSource-List.md)
     - 8.4 MessageQueue [5]
       - [8.4.1 Kafka List](/4.Infrastructure/MessageQueue/Kafka-List.md)
       - [8.4.2 MOM List](/4.Infrastructure/MessageQueue/MOM-List.md)
