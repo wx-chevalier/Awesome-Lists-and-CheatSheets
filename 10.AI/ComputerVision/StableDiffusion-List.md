@@ -28,6 +28,10 @@
 
 - [2023-civitai ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/civitai/civitai)](https://github.com/civitai/civitai): Our goal with this project is to create a platform where people can share their stable diffusion models (textual inversions, hypernetworks, aesthetic gradients, VAEs, and any other crazy stuff people do to customize their AI generations), collaborate with others to improve them, and learn from each other's work. The platform allows users to create an account, upload their models, and browse models that have been shared by others. Users can also leave comments and feedback on each other's models to facilitate collaboration and knowledge sharing.
 
+## Showcase
+
+- [2023-Stable-diffusion-person ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/KKGo1999/Stable-diffusion-person)](https://github.com/KKGo1999/Stable-diffusion-person): 本文介绍由基于 Stable-diffusion 的 Chilloutmix 模型（以及最新的 ControlNet）生成高清真实人像的方法及 Demo。
+
 ## APP
 
 - [2022-Gauss ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/justjake/Gauss)](https://github.com/justjake/Gauss): A Stable Diffusion app for macOS built with SwiftUI and Apple's ml-stable-diffusion CoreML models.

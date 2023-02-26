@@ -64,4 +64,6 @@
 
 ## Showcase
 
+- [2018-MovieRecommender ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/bystc/MovieRecommender)](https://github.com/bystc/MovieRecommender): 基于 Mahout 实现协同过滤推荐算法的电影推荐系统。
+
 - [RSAlgorithms ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/hongleizhang/RSAlgorithms): Some algorithms about traditional and social recommendation.
