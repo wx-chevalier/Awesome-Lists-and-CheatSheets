@@ -16,6 +16,8 @@
 
 - [2022-Manifold ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/elalish/manifold)](https://github.com/elalish/manifold): If you like OpenSCAD / OpenJSCAD, you might also like ManifoldCAD - our own solid modelling web app. The operations are not GPU-accelerated, but it's still pretty fast and a good way to test out our Manifold library.
 
+- [2023-QCAD ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/qcad/qcad)](https://github.com/qcad/qcad): QCAD - The Open Source 2D CAD. QCAD is a cross-platform CAD solution for Windows, macOS and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin).
+
 # STEP
 
 - [2013-STEPCode ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/stepcode/stepcode)](https://github.com/stepcode/stepcode): STEPcode (formerly NIST's STEP Class Library) is used with IFC, STEP, and other standards that utilize the technologies of ISO10303 (STEP). It generates C++ and Python from EXPRESS (10303-11) schemas. The code is capable of reading and writing STEP Part 21 exchange files. It also utilizes Parts 22 and 23 (SDAI and its C++ binding).
