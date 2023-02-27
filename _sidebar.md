@@ -727,8 +727,9 @@
         - [6.1.3.4 EDA List](/3.System/1.Architecture/ArchitecturePattern/EDA-List.md)
       - 6.1.4 GUIArchitecture [1]
         - [6.1.4.1 GUIArchitecture List](/3.System/1.Architecture/GUIArchitecture/GUIArchitecture-List.md)
-      - 6.1.5 Refactor [1]
+      - 6.1.5 Refactor [2]
         - [6.1.5.1 Refactor List](/3.System/1.Architecture/Refactor/Refactor-List.md)
+        - [6.1.5.2 TechDebt List](/3.System/1.Architecture/Refactor/TechDebt-List.md)
     - 6.2 10.Solutions [7]
       - 6.2.1 CMS [1]
         - [6.2.1.1 CMS List](/3.System/10.Solutions/CMS/CMS-List.md)

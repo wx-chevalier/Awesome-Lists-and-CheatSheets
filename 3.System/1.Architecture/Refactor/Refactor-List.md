@@ -2,10 +2,8 @@
 
 - [2017-Awesome Guidelines](https://github.com/Kristories/awesome-guidelines): A curated list of high quality coding style conventions and standards.
 
-# Tech Debt | 技术负债
+# Resource
 
-- [2015-务实的技术债务管理](http://6me.us/vrhF9): 技术债务是由 Ward Cunningham 在 1992 年的报告中创造的一个比喻，被定义为当我们有意或无意地做了错误的或不理想的技术决策所累积的债务。
+## Book
 
-- [浅议技术债](http://www.zcfy.cc/article/we-need-to-talk-about-technical-debt-9670-24-ways-2097.html)
-
-- [code-dependencies-are-the-devil](https://medium.freecodecamp.com/code-dependencies-are-the-devil-35ed28b556d?source=reading_list---------1-2)
+- [2020-《系统重构与迁移指南》 📚](https://github.com/phodal/migration): 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
