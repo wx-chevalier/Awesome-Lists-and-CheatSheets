@@ -32,6 +32,8 @@
 
 - [Zebra ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://gitee.com/gszebra/zebra): Zebra 是国信证券的微服务框架，是国信证券在微服务架构和 CNCF 上的实践，让有相同目标方向的尽量少走弯路。
 
+- [2022-trpc ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/trpc/trpc)](https://github.com/trpc/trpc): tRPC allows you to easily build & consume fully typesafe APIs without schemas or code generation.
+
 ### Dubbo
 
 - [dubbogo ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/AlexStocks/dubbogo): a golang micro-service framework compatible with alibaba dubbo.

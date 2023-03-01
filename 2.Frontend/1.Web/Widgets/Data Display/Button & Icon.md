@@ -2,8 +2,6 @@
 
 # Icon
 
-- [2020-css.gg ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/astrit/css.gg): 500+ CSS Icons. Customizable, Retina Ready with API & NPM.
-
 # Button | 按钮
 
 - [纯 CSS 实现的一组关闭按钮](http://www.html5tricks.com/demo/css3-close-button/index.html)

@@ -12,7 +12,7 @@
       - [1.3.2 Awesome Clones](/0.Specials/Showcases/Awesome-Clones.md)
       - [1.3.3 Awesome Codebases](/0.Specials/Showcases/Awesome-Codebases.md)
       - [1.3.4 Awesome DataVis](/0.Specials/Showcases/Awesome-DataVis.md)
-      - [1.3.5 Awesome Designs](/0.Specials/Showcases/Awesome-Designs.md)
+      - [1.3.5 Awesome Design Inspiration](/0.Specials/Showcases/Awesome-Design-Inspiration.md)
       - [1.3.6 Coding as Vetren](/0.Specials/Showcases/Coding-as-Vetren.md)
     - [1.4 Tools & Projects [25]](/0.Specials/Tools%20&%20Projects/README.md)
       - [1.4.1 Automation](/0.Specials/Tools%20&%20Projects/Automation.md)
@@ -838,10 +838,12 @@
         - [6.5.8.4 MonitorAlert OpenSource List](/3.System/3.DevOps/MonitorAlert/MonitorAlert-OpenSource-List.md)
         - [6.5.8.5 Web Analytics OpenSource List](/3.System/3.DevOps/MonitorAlert/Web-Analytics-OpenSource-List.md)
     - 6.6 4.DataEngineering [7]
-      - 6.6.1 DataAggregation [3]
+      - 6.6.1 DataAggregation [4]
         - [6.6.1.1 DataAggregation OpenSource List](/3.System/4.DataEngineering/DataAggregation/DataAggregation-OpenSource-List.md)
         - [6.6.1.2 DataPipeline List](/3.System/4.DataEngineering/DataAggregation/DataPipeline-List.md)
         - [6.6.1.3 ETL List](/3.System/4.DataEngineering/DataAggregation/ETL-List.md)
+        - 6.6.1.4 Kettle [1]
+          - [6.6.1.4.1 Kettle List](/3.System/4.DataEngineering/DataAggregation/Kettle/Kettle-List.md)
       - [6.6.2 DataEngineering List](/3.System/4.DataEngineering/DataEngineering-List.md)
       - [6.6.3 DataEngineering OpenSource List](/3.System/4.DataEngineering/DataEngineering-OpenSource-List.md)
       - 6.6.4 DataLake [2]

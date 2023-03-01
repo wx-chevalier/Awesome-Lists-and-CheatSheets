@@ -26,6 +26,8 @@
 
 - [FarazzShaikh/THREE-CustomShaderMaterial ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/FarazzShaikh/THREE-CustomShaderMaterial)](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial): Custom Shader Material (CSM) lets you extend Three.js' material library with your own Vertex and Fragment shaders. It Supports both Vanilla and React!
 
+- [2017-geometry-extrude ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/pissang/geometry-extrude)](https://github.com/pissang/geometry-extrude): A small and fast JavaScript library for extruding 2D polygons and polylines to 3D meshes. It depends on earcut to do triangulation.
+
 - [2017-three.interaction.js ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/jasonChen1982/three.interaction.js)](https://github.com/jasonChen1982/three.interaction.js): three.js interaction toolkit, help you built an interaction event-system for three.js, binding interaction event like browser-dom.
 
 - [2017-three.bas ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/zadvorsky/three.bas)](https://github.com/zadvorsky/three.bas): THREE Buffer Animation System is an extension for THREE.js. It simplifies the workflow of extending the built-in THREE.js materials to include animation logic in the vertex shader. For an overview of this approach, check out this tutorial series.
