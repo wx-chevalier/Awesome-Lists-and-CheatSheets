@@ -8,6 +8,8 @@
 
 ## Scratch
 
+- [2018-osmium/ ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/moratorium08/osmium)](https://github.com/moratorium08/osmium): A toy operating system written in Rust on RISC V(rv32im).
+
 - [bootOS ![code](https://ng-tech.icu/assets/code.svg) #Scratch#](https://github.com/nanochess/bootOS): bootOS is a monolithic operating system in 512 bytes of x86 machine code.
 
 - [os-series ![code](https://ng-tech.icu/assets/code.svg) #Scratch#](https://github.com/davidcallanan/os-series): Write Your Own 64-bit Operating System Kernel From Scratch.
