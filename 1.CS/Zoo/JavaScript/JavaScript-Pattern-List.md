@@ -6,9 +6,9 @@
 
 # StyleGuide
 
-- [2013-Airbnb JavaScript Style Guide ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ](https://github.com/airbnb/javascript): A mostly reasonable approach to JavaScript.
+- [2013-Airbnb JavaScript Style Guide ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/airbnb/javascript): A mostly reasonable approach to JavaScript.
 
-- [2017-jsinspect ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ](https://github.com/danielstjules/jsinspect):Detect copy-pasted and structurally similar code.
+- [2017-jsinspect ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/danielstjules/jsinspect):Detect copy-pasted and structurally similar code.
 
 - [2017-Elements of JavaScript Style](https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f): These guidelines have stood the test of time for good reason: They’re usually right. Deviate from them only for good reason — not simply on a whim or a personal style preference.
 

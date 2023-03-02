@@ -14,7 +14,7 @@
 
 - [Python Cheat Sheet](https://github.com/juliangaal/python-cheat-sheet): This rep is a growing list of Python cheat sheets, tailored for Data Science.
 
-- [Python cheatsheet ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://www.pythonsheets.com/): This project tries to provide a lot of piece of Python code that makes life easier.
+- [Python cheatsheet ![code](https://ng-tech.icu/assets/code.svg)](https://www.pythonsheets.com/): This project tries to provide a lot of piece of Python code that makes life easier.
 
 - [2017-Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567): “high-level programming language, and its core design philosophy is all about code readability and a syntax which allows programmers to express concepts in a few lines of code.”
 
@@ -50,13 +50,15 @@
 
 - [2020-Practical Python Programming 🎥](https://github.com/dabeaz-course/practical-python): The material you see here is the heart of an instructor-led Python training course used for corporate training and professional development.
 
-- [2022-Futurecoder ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/alexmojaki/futurecoder)](https://github.com/alexmojaki/futurecoder): This is a 100% free and interactive course for people to teach themselves programming in Python, especially complete beginners at programming. It is carefully designed to reduce frustration and guide the user while still ensuring that they learn how to solve problems. The goal is for as many people as possible to learn programming.
+- [2022-Futurecoder 🎥 ![star](https://img.shields.io/github/stars/alexmojaki/futurecoder)](https://github.com/alexmojaki/futurecoder): This is a 100% free and interactive course for people to teach themselves programming in Python, especially complete beginners at programming. It is carefully designed to reduce frustration and guide the user while still ensuring that they learn how to solve problems. The goal is for as many people as possible to learn programming.
 
 ## Series
 
 - [2020-Learn Python 3 #Series#](https://github.com/jerry-git/learn-python3): This repository contains a collection of materials for teaching/learning Python 3 (3.5+).
 
 - [2020-Ultimate Python study guide #Series#](https://github.com/huangsam/ultimate-python): Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍
+
+- [2020-30-Days-Of-Python #Series# ![star](https://img.shields.io/github/stars/Asabeneh/30-Days-Of-Python)](https://github.com/Asabeneh/30-Days-Of-Python): 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
 
 ## Showcases
 

@@ -56,7 +56,7 @@
 
 # Tutorial
 
-- [2018-BlockShell ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/daxeel/blockshell): A command line utility for learning Blockchain technical concepts likechaining, mining, proof of work etc.
+- [2018-BlockShell ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/daxeel/blockshell): A command line utility for learning Blockchain technical concepts likechaining, mining, proof of work etc.
 
 - [2018-The Complete Guide to Kickstart Blockchain Development](https://parg.co/Uvu): Cryptocurrencies, ICOs, magic internet money — it’s all so exciting, and you are the eager developer, want to get in on the madness.
 
@@ -74,7 +74,7 @@
 
 - [2017-Let’s Build the Tiniest Blockchain](https://parg.co/baX): In Less Than 50 Lines of Python.
 
-- [2017-Dumbcoin ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://parg.co/UsN): An educational python implementation of a bitcoin-like blockchain
+- [2017-Dumbcoin ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/UsN): An educational python implementation of a bitcoin-like blockchain
 
 ## Go
 

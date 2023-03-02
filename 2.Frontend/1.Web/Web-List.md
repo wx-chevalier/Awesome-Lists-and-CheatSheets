@@ -70,7 +70,7 @@
 
 - [2020-fe interview](https://github.com/haizlin/fe-interview): 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上 5 点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖。
 
-- [2020-frontend-challenges ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/felipefialho/frontend-challenges): 💥 Listing some playful open-source's challenges of jobs to test your knowledge
+- [2020-frontend-challenges ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/felipefialho/frontend-challenges): 💥 Listing some playful open-source's challenges of jobs to test your knowledge
 
 ## Course | 课程
 
@@ -86,13 +86,13 @@
 
 ## Showcase
 
-- [2015-todomvc ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/tastejs/todomvc): Helping you select an `MV*` framework - Todo apps for React.js, Ember.js, Angular, and many more.
+- [2015-todomvc ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tastejs/todomvc): Helping you select an `MV*` framework - Todo apps for React.js, Ember.js, Angular, and many more.
 
-- [2015-Real World ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/gothinkster/realworld): RealWorld solves this by allowing you to choose any frontend (React, Angular 2, & more) and any backend (Node, Django, & more) and see how they power a real world, beautifully designed fullstack app called "Conduit".
+- [2015-Real World ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/gothinkster/realworld): RealWorld solves this by allowing you to choose any frontend (React, Angular 2, & more) and any backend (Node, Django, & more) and see how they power a real world, beautifully designed fullstack app called "Conduit".
 
-- [ui-element-samples ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/GoogleChrome/ui-element-samples): A collection of UI element samples written with vanilla web platform features.
+- [ui-element-samples ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChrome/ui-element-samples): A collection of UI element samples written with vanilla web platform features.
 
-- [fbjs ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
+- [fbjs ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
 
 # Tutorial
 

@@ -14,7 +14,7 @@
 
 - [Java 开源项目 cws_evaluation：中文分词器分词效果评估对比](https://github.com/ysc/cws_evaluation)
 
-- [word ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/ysc/word): 据说效果最好的分词法，word 分词是一个 Java 实现的分布式的中文分词组件，提供了多种基于词典的分词算法，并利用 ngram 模型来消除歧义。
+- [word ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ysc/word): 据说效果最好的分词法，word 分词是一个 Java 实现的分布式的中文分词组件，提供了多种基于词典的分词算法，并利用 ngram 模型来消除歧义。
 
 # Named Entity Recognition | 命名实体识别
 

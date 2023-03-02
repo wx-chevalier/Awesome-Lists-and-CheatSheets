@@ -1,8 +1,8 @@
 # Concurrent Model List
 
-- [AlgorithmCollection ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/s-hironobu/AlgorithmCollection): An Educational parallel Algorithm collection
+- [AlgorithmCollection ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/s-hironobu/AlgorithmCollection): An Educational parallel Algorithm collection
 
-- [Skynet ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/atemerev/skynet): Skynet 1M concurrency microbenchmark
+- [Skynet ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/atemerev/skynet): Skynet 1M concurrency microbenchmark
 
 # Message Queue
 
@@ -10,4 +10,4 @@
 
 # Actor
 
-- [2019-vlingo-actors ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/vlingo/vlingo-actors): The vlingo/PLATFORM type safe Actor Model toolkit for reactive concurrency and resiliency using Java and other JVM languages.
+- [2019-vlingo-actors ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vlingo/vlingo-actors): The vlingo/PLATFORM type safe Actor Model toolkit for reactive concurrency and resiliency using Java and other JVM languages.

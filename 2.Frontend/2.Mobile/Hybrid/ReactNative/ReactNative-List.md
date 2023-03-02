@@ -14,7 +14,7 @@
 
 - [2017-Housing.com How We Built Our React Native App](https://parg.co/bDM):We received a very positive response from the community as well as our customers and wanted to replicate the same success for our mobile application too.
 
-- [2018-React Native at Airbnb ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://parg.co/msQ): In 2016, we took a big bet on React Native. Two years later, we’re ready to share our experience with the world and show what’s next.
+- [2018-React Native at Airbnb ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/msQ): In 2016, we took a big bet on React Native. Two years later, we’re ready to share our experience with the world and show what’s next.
 
 # Resource
 
@@ -40,7 +40,7 @@
 
 ## Quick Start
 
-- [Create React Native App ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ](http://6me.us/PIszU): Create a React Native app on any OS with no build config.
+- [Create React Native App ![code](https://ng-tech.icu/assets/code.svg) ](http://6me.us/PIszU): Create a React Native app on any OS with no build config.
 
 - [Expo](https://expo.io/): Expo lets web developers build truly native apps that work across both iOS and Android by writing them once in just JavaScript.
 

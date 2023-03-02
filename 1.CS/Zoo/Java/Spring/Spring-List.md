@@ -6,15 +6,15 @@
 
 - [spring-cloud #Series#](https://github.com/yinjihuan/spring-cloud): 《Spring Cloud 微服务-全栈技术与案例解析》和《Spring Cloud 微服务 入门 实战与进阶》配套源码。
 
-- [2018-Spring-Boot-In-Action ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/hansonwang99/Spring-Boot-In-Action)](https://github.com/hansonwang99/Spring-Boot-In-Action): 本项目为 《Spring Boot 实战合集》的系列文章，代码已开源，并持续保持更新。如果您觉得该项目对您有用，欢迎点击右上方的 Star 按钮支持一波！！
+- [2018-Spring-Boot-In-Action ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hansonwang99/Spring-Boot-In-Action)](https://github.com/hansonwang99/Spring-Boot-In-Action): 本项目为 《Spring Boot 实战合集》的系列文章，代码已开源，并持续保持更新。如果您觉得该项目对您有用，欢迎点击右上方的 Star 按钮支持一波！！
 
 - [2020-Spring Boot Learning #Series#](https://github.com/dyc87112/SpringBoot-Learning): Spring Boot 基础教程，Spring Boot 2.x 版本连载中！！！
 
 - [2020-Spring Cloud 从入门到精通 #Series#](https://blog.didispace.com/spring-cloud-learning/): 如果您还是初学者，建议优先以 Dalston 版教程为基础进行学习，该版本内容目前比较完整。
 
-- [2020-SpringBoot-Labs ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/YunaiV/SpringBoot-Labs)](https://github.com/YunaiV/SpringBoot-Labs): 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024.
+- [2020-SpringBoot-Labs ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/YunaiV/SpringBoot-Labs)](https://github.com/YunaiV/SpringBoot-Labs): 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024.
 
-- [2020-spring-boot-quick ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/vector4wang/spring-boot-quick)](https://github.com/vector4wang/spring-boot-quick): 🌿 基于 springboot 的快速学习示例,整合自己遇到的开源框架,如：rabbitmq(延迟队列)、Kafka、jpa、redies、oauth2、swagger、jsp、docker、k3s、k3d、k8s、mybatis 加解密插件、异常处理、日志输出、多模块开发、多环境打包、缓存 cache、爬虫、jwt、GraphQL、dubbo、zookeeper 和 Async 等等 📌
+- [2020-spring-boot-quick ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/vector4wang/spring-boot-quick)](https://github.com/vector4wang/spring-boot-quick): 🌿 基于 springboot 的快速学习示例,整合自己遇到的开源框架,如：rabbitmq(延迟队列)、Kafka、jpa、redies、oauth2、swagger、jsp、docker、k3s、k3d、k8s、mybatis 加解密插件、异常处理、日志输出、多模块开发、多环境打包、缓存 cache、爬虫、jwt、GraphQL、dubbo、zookeeper 和 Async 等等 📌
 
 - [2021-Spring 手撸专栏 #Series#](https://github.com/fuzhengwei/small-spring): 🌱《Spring 手撸专栏》，本专栏以 Spring 源码学习为目的，通过手写简化版 Spring 框架，了解 Spring 核心原理。在手写的过程中会简化 Spring 源码，摘取整体框架中的核心逻辑，简化代码实现过程，保留核心功能，例如：IOC、AOP、Bean 生命周期、上下文、作用域、资源处理等内容实现。
 

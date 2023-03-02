@@ -1,6 +1,6 @@
 # CAD List
 
-- [2022-CAD_Sketcher ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/hlorus/CAD_Sketcher)](https://github.com/hlorus/CAD_Sketcher): Constraint-based geometry sketcher for blender.
+- [2022-CAD_Sketcher ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hlorus/CAD_Sketcher)](https://github.com/hlorus/CAD_Sketcher): Constraint-based geometry sketcher for blender.
 
 # OCCT
 

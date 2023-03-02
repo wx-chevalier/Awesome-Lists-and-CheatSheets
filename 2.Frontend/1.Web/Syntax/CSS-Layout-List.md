@@ -56,7 +56,7 @@
 
 - [CSS3: Flexbox](http://book.mixu.net/css/4-flexbox.html)
 
-- [2017-Flexbox Patterns ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](http://www.flexboxpatterns.com/feature-list)
+- [2017-Flexbox Patterns ![code](https://ng-tech.icu/assets/code.svg)](http://www.flexboxpatterns.com/feature-list)
 
 - [2018-CSS Flexible Box Layout in MDN](https://parg.co/UVS): CSS Flexible Box Layout is a module of CSS that defines a CSS box model optimized for user interface design, and the layout of items in one dimension.
 

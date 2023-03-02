@@ -46,7 +46,7 @@
 
 - [Dive into React codebase: Handling state changes](http://reactkungfu.com/2016/03/dive-into-react-codebase-handling-state-changes/)
 
-- [2017-react-reconciler-demo ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ](https://github.com/lukebelliveau/react-reconciler-demo): A simple implementation of React's stack reconciler. This is much different from the real implementation, but demonstrates the concepts.
+- [2017-react-reconciler-demo ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/lukebelliveau/react-reconciler-demo): A simple implementation of React's stack reconciler. This is much different from the real implementation, but demonstrates the concepts.
 
 - [ON THE ASYNC NATURE OF `SETSTATE` IN REACT](http://thereignn.ghost.io/on-the-async-nature-of-setstate-in-react/)
 

@@ -64,7 +64,7 @@
 
 - [2018-Deep Learning World 🗃️](https://github.com/astorfi/Deep-Learning-World): Organized Resources for Deep Learning Researchers and Developers.
 
-- [2019-Virgilio ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/clone95/virgilio): Your new Mentor for Data Science E-Learning.
+- [2019-Virgilio ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/clone95/virgilio): Your new Mentor for Data Science E-Learning.
 
 - [2019-Deep Learning Drizzle 🗃️](https://github.com/kmario23/deep-learning-drizzle): Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 

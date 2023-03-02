@@ -44,7 +44,7 @@
 
 - [Awesome WebSecurity 🗃️](https://github.com/qazbnm456/awesome-web-security): 🐶 A curated list of Web Security materials and resources.
 
-- [jassics/security-study-plan ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/jassics/security-study-plan)](https://github.com/jassics/security-study-plan): Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
+- [jassics/security-study-plan ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jassics/security-study-plan)](https://github.com/jassics/security-study-plan): Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
 
 ## Course
 

@@ -8,7 +8,7 @@
 
 # SuRF
 
-- [SuRF ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/efficient/SuRF): First Practical and General-purpose Range Filter
+- [SuRF ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/efficient/SuRF): First Practical and General-purpose Range Filter
 
 # Algorithms
 
@@ -20,4 +20,4 @@
 
 - [2017-Hashing Out Hash Functions](https://dev.to/vaidehijoshi/hashing-out-hash-functions): let’s find out more about hash functions, how they work, and their strengths and weakness. Hopefully, this will help us understand when exactly they can help us out!
 
-- [hashtable-benchmarks ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/senderista/hashtable-benchmarks): An Evaluation of Linear Probing Hashtable Algorithms.
+- [hashtable-benchmarks ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/senderista/hashtable-benchmarks): An Evaluation of Linear Probing Hashtable Algorithms.

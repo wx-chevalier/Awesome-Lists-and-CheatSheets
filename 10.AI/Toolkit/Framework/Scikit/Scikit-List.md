@@ -36,7 +36,7 @@
 
 - [Gensim Tutorial](https://radimrehurek.com/gensim/tutorial.html): The tutorials are organized as a series of examples that highlight various features of gensim. It is assumed that the reader is familiar with the Python language, has installed gensim and read the introduction.
 
-- [fastText ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/facebookresearch/fastText): Library for fast text representation and classification.
+- [fastText ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebookresearch/fastText): Library for fast text representation and classification.
 
 # spaCy
 

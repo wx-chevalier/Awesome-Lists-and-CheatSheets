@@ -20,6 +20,6 @@
 
 # OpenSource
 
-- [MemDB ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/rain1017/memdb): Distributed Transactional In-Memory Database.
+- [MemDB ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rain1017/memdb): Distributed Transactional In-Memory Database.
 
-- [FerretDB ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/FerretDB/FerretDB): FerretDB (previously MangoDB) was founded to become the de-facto open-source substitute to MongoDB. FerretDB is an open-source proxy, converting the MongoDB wire protocol queries to SQL - using PostgreSQL as a database engine.
+- [FerretDB ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/FerretDB/FerretDB): FerretDB (previously MangoDB) was founded to become the de-facto open-source substitute to MongoDB. FerretDB is an open-source proxy, converting the MongoDB wire protocol queries to SQL - using PostgreSQL as a database engine.

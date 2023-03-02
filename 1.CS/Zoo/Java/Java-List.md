@@ -94,7 +94,7 @@
 
 - [2022-toBeBetterJavaer 🗃️](https://github.com/itwanger/toBeBetterJavaer): 一份通俗易懂、风趣幽默的 Java 学习指南，内容涵盖 Java 基础、Java 并发编程、Java 虚拟机、Java 企业级开发、Java 面试等核心知识点。学 Java，就认准 Java 程序员进阶之路 😄
 
-- [2022-athena ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/ZhongFuCheng3y/athena)](https://github.com/ZhongFuCheng3y/athena): 《对线面试官》是我连载了近一年一个讲人话面试系列，我曾经通过这些资料去斩获了不少的公司的 offer，基本涵盖了 Java 常问的知识点...
+- [2022-athena ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ZhongFuCheng3y/athena)](https://github.com/ZhongFuCheng3y/athena): 《对线面试官》是我连载了近一年一个讲人话面试系列，我曾经通过这些资料去斩获了不少的公司的 offer，基本涵盖了 Java 常问的知识点...
 
 ## Course
 

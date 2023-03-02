@@ -16,11 +16,11 @@
 
 ## Redis
 
-- [node_redis ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/NodeRedis/node_redis): This is a complete and feature rich Redis client for node.js. It supports all Redis commands and focuses on high performance.
+- [node_redis ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/NodeRedis/node_redis): This is a complete and feature rich Redis client for node.js. It supports all Redis commands and focuses on high performance.
 
-- [ioredis ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/luin/ioredis): A robust, performance-focused and full-featured Redis client for Node and io.js.
+- [ioredis ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/luin/ioredis): A robust, performance-focused and full-featured Redis client for Node and io.js.
 
-- [Radredis ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/bustle/radredis): Radredis is a node data adapter for redis. It is not a full ORM but a simple opinionated interface for storing application data in redis.
+- [Radredis ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bustle/radredis): Radredis is a node data adapter for redis. It is not a full ORM but a simple opinionated interface for storing application data in redis.
 
 # TypeScript
 
@@ -56,8 +56,8 @@
 
 # Other
 
-- [fastify ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/fastify/fastify): Fast and low overhead web framework, for Node.js.
+- [fastify ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/fastify/fastify): Fast and low overhead web framework, for Node.js.
 
-- [Server.js ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/franciscop/server): Simple and powerful server for Node.js.
+- [Server.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/franciscop/server): Simple and powerful server for Node.js.
 
-- [Polka ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/lukeed/polka): Polka is an extremely minimal, highly performant Express.js alternative.
+- [Polka ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/lukeed/polka): Polka is an extremely minimal, highly performant Express.js alternative.

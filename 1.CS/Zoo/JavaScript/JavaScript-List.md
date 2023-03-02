@@ -32,7 +32,7 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [JavaScript-Garden](http://bonsaiden.github.io/JavaScript-Garden/): JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes and subtle bugs, as well as performance issues and bad practices, that non-expert JavaScript programmers may encounter on their endeavours into the depths of the language.
 
-- [2017-Must-Watch JavaScript ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://parg.co/U37): This is a collection of well-received talks about JavaScript, covering topics such as ES6, JavaScript frameworks, client-side apps, mobile integration, JavaScript performance, tooling, leveling up, and more.
+- [2017-Must-Watch JavaScript ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/U37): This is a collection of well-received talks about JavaScript, covering topics such as ES6, JavaScript frameworks, client-side apps, mobile integration, JavaScript performance, tooling, leveling up, and more.
 
 ## Book
 

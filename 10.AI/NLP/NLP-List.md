@@ -12,7 +12,7 @@
 
 - [2017-Learning AI if You Suck at Math — P7 — The Magic of Natural Language Processing](https://parg.co/bR4)
 
-- [2020-nlp_overview ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/omarsar/nlp_overview): Overview of Modern Deep Learning Techniques Applied to Natural Language Processing.
+- [2020-nlp_overview ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/omarsar/nlp_overview): Overview of Modern Deep Learning Techniques Applied to Natural Language Processing.
 
 ## Summary | 综述
 
@@ -28,7 +28,7 @@
 
 - [2017-Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html#optimization): This post is a collection of best practices for using neural networks in Natural Language Processing.
 
-- [2020-NLPer-Arsenal ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/TingFree/NLPer-Arsenal)](https://github.com/TingFree/NLPer-Arsenal): NLP 人军火库，主要收录 NLP 竞赛策略实现、各任务教程、经验贴、学习资料以及会议时间等，如果对你有帮助，请给我们一个 star。
+- [2020-NLPer-Arsenal ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/TingFree/NLPer-Arsenal)](https://github.com/TingFree/NLPer-Arsenal): NLP 人军火库，主要收录 NLP 竞赛策略实现、各任务教程、经验贴、学习资料以及会议时间等，如果对你有帮助，请给我们一个 star。
 
 # Tutorial
 

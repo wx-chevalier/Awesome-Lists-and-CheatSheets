@@ -8,4 +8,4 @@
 
 - [qart.js](https://github.com/kciter/qart.js):Generate artistic QR code.
 
-- [IChing-JS ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/NodleCode/Nodle-I-Ching/blob/master/README.md): An IChing encoding and decoding library written in typescript for use in javascript-based web apps.
+- [IChing-JS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/NodleCode/Nodle-I-Ching/blob/master/README.md): An IChing encoding and decoding library written in typescript for use in javascript-based web apps.

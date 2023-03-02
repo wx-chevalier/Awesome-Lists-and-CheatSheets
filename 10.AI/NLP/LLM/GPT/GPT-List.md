@@ -12,4 +12,4 @@
 
 # OpenSource
 
-- [2023-picoGPT ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/jaymody/picoGPT)](https://github.com/jaymody/picoGPT): An unnecessarily tiny and minimal implementation of GPT-2 in NumPy.
+- [2023-picoGPT ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jaymody/picoGPT)](https://github.com/jaymody/picoGPT): An unnecessarily tiny and minimal implementation of GPT-2 in NumPy.

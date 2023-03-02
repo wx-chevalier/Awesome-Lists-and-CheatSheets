@@ -4,7 +4,7 @@
 
 ## 断点调试
 
-- [debug ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/visionmedia/debug): tiny node.js & browser debugging utility for your libraries and applications.
+- [debug ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/visionmedia/debug): tiny node.js & browser debugging utility for your libraries and applications.
 
 ## Chrome Dev Tools
 
@@ -24,7 +24,7 @@
 
 ## Sync Tools: 同步工具
 
-- [BrowserSync ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://browsersync.io/)
+- [BrowserSync ![code](https://ng-tech.icu/assets/code.svg)](https://browsersync.io/)
 
 ## 远程调试
 

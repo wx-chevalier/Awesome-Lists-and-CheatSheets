@@ -4,6 +4,6 @@
 
 # OpenSource
 
-- [Odoo ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/odoo/odoo): Open Source Apps To Grow Your Business.
+- [Odoo ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/odoo/odoo): Open Source Apps To Grow Your Business.
 
-- [metasfresh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/metasfresh/metasfresh): We do Open Source ERP - Fast, Flexible & Free Software to scale your Business.
+- [metasfresh ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/metasfresh/metasfresh): We do Open Source ERP - Fast, Flexible & Free Software to scale your Business.

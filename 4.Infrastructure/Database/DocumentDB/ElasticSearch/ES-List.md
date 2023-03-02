@@ -14,7 +14,7 @@
 
 # Resource
 
-- [Awesome ElasticSearch ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/dzharii/awesome-elasticsearch): A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!
+- [Awesome ElasticSearch ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dzharii/awesome-elasticsearch): A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!
 
 ## Book
 
@@ -36,7 +36,7 @@
 
 - [elasticsearch_queryAPI](http://leequangang.github.io/tech/2013/12/02/elasticsearch_queryAPI.html#match-query)
 
-- [Search Guard SSL ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/floragunncom/search-guard-ssl): Search Guard SSL is a free and Open Source plugin for Elasticsearch which provides SSL/TLS for Elasticsearch.
+- [Search Guard SSL ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/floragunncom/search-guard-ssl): Search Guard SSL is a free and Open Source plugin for Elasticsearch which provides SSL/TLS for Elasticsearch.
 
 - [Found Play](https://www.found.no/play#): JSFiddle-like playground for Elasticsearch;
 
@@ -50,4 +50,4 @@
 
 - [dejavu](https://github.com/appbaseio/dejavu): dejavu is the missing web UI for Elasticsearch.
 
-- [Searchkit ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/searchkit/searchkit): React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
+- [Searchkit ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/searchkit/searchkit): React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.

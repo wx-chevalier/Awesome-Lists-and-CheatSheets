@@ -8,7 +8,7 @@
 
 - [cookie 规范(RFC 6265)翻译](https://github.com/renaesop/blog/issues/4)
 
-- [2021-CookieConsent ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/orestbida/cookieconsent)](https://github.com/orestbida/cookieconsent): 🍪 Simple cross-browser cookie-consent plugin written in vanilla js
+- [2021-CookieConsent ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/orestbida/cookieconsent)](https://github.com/orestbida/cookieconsent): 🍪 Simple cross-browser cookie-consent plugin written in vanilla js
 
 # FileSystem
 

@@ -30,7 +30,7 @@
 
 - [模式识别 学习笔记：第七章 特征选择](http://blog.csdn.net/shanglianlm/article/details/49464445)
 
-- [TSFresh ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](http://tsfresh.readthedocs.io/en/latest/index.html):automatically calculate a huge number of time series characteristics, the so called features.
+- [TSFresh ![code](https://ng-tech.icu/assets/code.svg)](http://tsfresh.readthedocs.io/en/latest/index.html):automatically calculate a huge number of time series characteristics, the so called features.
 
 - [2019-The Hitchhiker’s Guide to Feature Extraction](https://towardsdatascience.com/the-hitchhikers-guide-to-feature-extraction-b4c157e96631): Some Tricks and Code for Kaggle and Everyday work
 

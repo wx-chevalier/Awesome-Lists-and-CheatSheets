@@ -1,10 +1,10 @@
 # Android OpenSource List
 
-- [BlackDex ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/CodingGay/BlackDex): BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phones or emulators, you can unpack APK File in several seconds.
+- [BlackDex ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/CodingGay/BlackDex): BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phones or emulators, you can unpack APK File in several seconds.
 
 # Tool
 
-- [scrcpy ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Genymobile/scrcpy): This application provides display and control of Android devices connected on USB. It does not require any root access. It works on GNU/Linux, Windows and Mac OS.
+- [scrcpy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Genymobile/scrcpy): This application provides display and control of Android devices connected on USB. It does not require any root access. It works on GNU/Linux, Windows and Mac OS.
 
 # Widgets
 

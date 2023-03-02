@@ -10,10 +10,10 @@
 
 # OpenSource
 
-- [riskquant ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Netflix-Skunkworks/riskquant): A library to assist in quantifying risk.
+- [riskquant ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Netflix-Skunkworks/riskquant): A library to assist in quantifying risk.
 
-- [RL-Stock ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/wangshub/RL-Stock): 📈 如何用深度强化学习自动炒股。
+- [RL-Stock ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/wangshub/RL-Stock): 📈 如何用深度强化学习自动炒股。
 
-- [yfinance ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/ranaroussi/yfinance): Yahoo! Finance market data downloader (+faster Pandas Datareader)
+- [yfinance ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ranaroussi/yfinance): Yahoo! Finance market data downloader (+faster Pandas Datareader)
 
-- [2021-GamestonkTerminal ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/DidierRLopes/GamestonkTerminal): The next best thing after Bloomberg Terminal
+- [2021-GamestonkTerminal ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/DidierRLopes/GamestonkTerminal): The next best thing after Bloomberg Terminal

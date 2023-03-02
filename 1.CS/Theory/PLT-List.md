@@ -42,7 +42,7 @@
 
 - [2019-Elements of Programming 📚](http://elementsofprogramming.com): This book applies the deductive method to programming by affiliating programs with the abstract mathematical theories that enable them to work.
 
-- [2021-Isomorphism：Mathematics of Programming ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/liuxinyu95/unplugged): This book introduces the mathematics behind computer programming.
+- [2021-Isomorphism：Mathematics of Programming ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/liuxinyu95/unplugged): This book introduces the mathematics behind computer programming.
 
 - [2022-Writing Interpreters in Rust: a Guide 📚](https://rust-hosted-langs.github.io/book/introduction.html): In this book we will walk through the basics of interpreted language implementation in Rust with a focus on the challenges that are specifc to using Rust.
 

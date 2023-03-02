@@ -4,6 +4,6 @@
 
 # OpenSource
 
-- [2017-URule ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/youseries/urule)](https://github.com/youseries/urule): URule 是一款纯 Java 规则引擎，它以 RETE 算法为基础，提供了向导式规则集、脚本式规则集、决策表、交叉决策表(PRO 版提供)、决策树、评分卡及决策流共六种类型的规则定义方式，配合基于 WEB 的设计器，可快速实现规则的定义、维护与发布。
+- [2017-URule ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/youseries/urule)](https://github.com/youseries/urule): URule 是一款纯 Java 规则引擎，它以 RETE 算法为基础，提供了向导式规则集、脚本式规则集、决策表、交叉决策表(PRO 版提供)、决策树、评分卡及决策流共六种类型的规则定义方式，配合基于 WEB 的设计器，可快速实现规则的定义、维护与发布。
 
-- [2022-Expr ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/antonmedv/expr)](https://github.com/antonmedv/expr): Expr package provides an engine that can compile and evaluate expressions. An expression is a one-liner that returns a value (mostly, but not limited to, booleans). It is designed for simplicity, speed and safety.
+- [2022-Expr ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/antonmedv/expr)](https://github.com/antonmedv/expr): Expr package provides an engine that can compile and evaluate expressions. An expression is a one-liner that returns a value (mostly, but not limited to, booleans). It is designed for simplicity, speed and safety.

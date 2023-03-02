@@ -6,7 +6,7 @@
 
 - [2017-Monitor your applications with Prometheus](https://blog.alexellis.io/prometheus-monitoring/): In this hands-on guide we will look at how to integrate Prometheus monitoring into an existing application. Monitoring an application can give you insights into how it is being used and when.
 
-- [Grafana dashboards for MySQL and MongoDB monitoring using Prometheus ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/percona/grafana-dashboards)
+- [Grafana dashboards for MySQL and MongoDB monitoring using Prometheus ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/percona/grafana-dashboards)
 
 - [2018-Prometheus 原理和源码分析](http://www.infoq.com/cn/articles/Prometheus-theory-source-code#): 本文分析了客户端和服务端的部分源码实现，介绍了客户端数据模型和 PromQL 计算逻辑，希望能为基于 Prom 的监控平台提供一些启发。
 

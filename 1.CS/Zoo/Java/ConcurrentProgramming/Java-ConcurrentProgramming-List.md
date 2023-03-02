@@ -26,7 +26,7 @@
 
 - [Using the Timer Class to Schedule Tasks](https://dzone.com/articles/using-timer-class-to-schedule-tasks)
 
-- [Java Concurrency Patterns and Features ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://parg.co/UVC): Concurrency Patterns and features found in Java, through multithreaded programming. Threads, Locks, Atomics and more.
+- [Java Concurrency Patterns and Features ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/UVC): Concurrency Patterns and features found in Java, through multithreaded programming. Threads, Locks, Atomics and more.
 
 - [2017-Java Concurrency / Multithreading Basics](https://www.callicoder.com/java-concurrency-multithreading-basics/): Concurrency is the ability to do more than one thing at the same time.
 
@@ -34,7 +34,7 @@
 
 ## Collection
 
-- [2019-threadandjuc ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/qiurunze123/threadandjuc)](https://github.com/qiurunze123/threadandjuc): ⭐⭐⭐⭐ 高并发-高可靠-高性能 three-high-import 导入系统-高并发多线程进阶
+- [2019-threadandjuc ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/qiurunze123/threadandjuc)](https://github.com/qiurunze123/threadandjuc): ⭐⭐⭐⭐ 高并发-高可靠-高性能 three-high-import 导入系统-高并发多线程进阶
 
 ## Series
 

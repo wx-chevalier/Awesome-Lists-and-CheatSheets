@@ -52,7 +52,7 @@
 
 # Web Test List
 
-- [Majestic ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Raathigesh/majestic): Majestic is an electron app that provides a UI for running tests with Jest.
+- [Majestic ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Raathigesh/majestic): Majestic is an electron app that provides a UI for running tests with Jest.
 
 - [2017-JavaScript unit testing frameworks: Comparing Jasmine, Mocha, AVA, Tape and Jest](https://parg.co/bJ5): When starting development on a new front end project, I always ask myself two questions: “Which Javascript unit testing frameworks should I use?” and “Should I even spend time adding tests?”
 

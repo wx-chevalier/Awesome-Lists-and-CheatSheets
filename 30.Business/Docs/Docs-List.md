@@ -1,10 +1,10 @@
 # 文档辅助工具
 
-- [Docusaurus ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/facebook/docusaurus): Docusaurus is a project for easily building, deploying, and maintaining open source project websites.
+- [Docusaurus ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebook/docusaurus): Docusaurus is a project for easily building, deploying, and maintaining open source project websites.
 
 # Office
 
-- [2017-Serverless LibreOffice ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/vladgolubev/serverless-libreoffice): Convert any document to PDF with headless Libreoffice compiled to run on AWS Lambda
+- [2017-Serverless LibreOffice ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vladgolubev/serverless-libreoffice): Convert any document to PDF with headless Libreoffice compiled to run on AWS Lambda
 
 # LaTex
 

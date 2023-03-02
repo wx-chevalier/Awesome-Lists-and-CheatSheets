@@ -1,8 +1,8 @@
 # iOS OpenSource List
 
-- [2020-UTM ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/utmapp/UTM): UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.
+- [2020-UTM ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/utmapp/UTM): UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.
 
-- [2020-PlayCover ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/Letscoder/PlayCover): PlayCover is a project that allows you to sideload iOS apps on macOS( currently arm, Intel support will be tested.
+- [2020-PlayCover ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Letscoder/PlayCover): PlayCover is a project that allows you to sideload iOS apps on macOS( currently arm, Intel support will be tested.
 
 # Widgets
 

@@ -1,6 +1,6 @@
 # 地理位置可视化资料索引
 
-- [MapSCII - The Whole World In Your Console. ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/rastapasta/mapscii)
+- [MapSCII - The Whole World In Your Console. ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rastapasta/mapscii)
 
 - [使用 D3.js 创建令人惊奇的地图](http://colobu.com/2016/08/02/using-D3-js-to-make-amazing-web-maps/)
 
@@ -12,16 +12,16 @@
 
 # OpenSource
 
-- [Mapus ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/alyssaxuu/mapus): Mapus is a tool to explore and annotate collaboratively on a map. You can draw, add markers, lines, areas, find places to go, observe other users, and much more.
+- [Mapus ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alyssaxuu/mapus): Mapus is a tool to explore and annotate collaboratively on a map. You can draw, add markers, lines, areas, find places to go, observe other users, and much more.
 
-- [TileMill ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/tilemill-project/tilemill): Make maps with OpenStreetMap and Mapnik.
+- [TileMill ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tilemill-project/tilemill): Make maps with OpenStreetMap and Mapnik.
 
-- [prettymaps ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/marceloprates/prettymaps): A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
+- [prettymaps ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/marceloprates/prettymaps): A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 
-- [Headway ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/headwaymaps/headway): Headway is a maps stack in a box that makes it easy to take your location data into your own hands. With just a few commands you can bring up your own fully functional maps server. This includes a frontend, basemap, geocoder and routing engine. Over 200 different cities are currently supported.
+- [Headway ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/headwaymaps/headway): Headway is a maps stack in a box that makes it easy to take your location data into your own hands. With just a few commands you can bring up your own fully functional maps server. This includes a frontend, basemap, geocoder and routing engine. Over 200 different cities are currently supported.
 
 ## GIS
 
-- [Mars3D ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/marsgis/mars3d): 🌎 一款基于 WebGL 技术实现的三维地球客户端开发平台
+- [Mars3D ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/marsgis/mars3d): 🌎 一款基于 WebGL 技术实现的三维地球客户端开发平台
 
-- [TerriaJS ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/TerriaJS/terriajs): A library for building rich, web-based geospatial data platforms.
+- [TerriaJS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/TerriaJS/terriajs): A library for building rich, web-based geospatial data platforms.

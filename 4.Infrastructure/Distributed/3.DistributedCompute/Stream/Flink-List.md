@@ -53,4 +53,4 @@
 
 # OpenSource
 
-- [2019-flink-userportrait-main ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ![star](https://img.shields.io/github/stars/gingerredjade/flink-userportrait-main)](https://github.com/gingerredjade/flink-userportrait-main): 基于 Flink 流处理的动态实时亿级全端用户画像系统。
+- [2019-flink-userportrait-main ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gingerredjade/flink-userportrait-main)](https://github.com/gingerredjade/flink-userportrait-main): 基于 Flink 流处理的动态实时亿级全端用户画像系统。

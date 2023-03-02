@@ -50,23 +50,23 @@
 
 - [2017-Remove Unused CSS Rules](https://parg.co/bDk): Removing unused styles can help make the situation more manageable.
 
-- [UnCSS ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ](https://github.com/giakki/uncss): UnCSS is a tool that removes unused CSS from your stylesheets. It works across multiple files and supports Javascript-injected CSS.
+- [UnCSS ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/giakki/uncss): UnCSS is a tool that removes unused CSS from your stylesheets. It works across multiple files and supports Javascript-injected CSS.
 
 - [2017-Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://parg.co/bwo)
 
 - [2017-Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://vuejsdevelopers.com/2017/07/24/critical-css-webpack/): Isolating critical CSS is something that can be done programmatically, and in this article I’ll show you how to delegate it to your Webpack pipeline.
 
-- [2018-purgecss ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/FullHuman/purgecss): Purgecss analyzes your content and your css files. Then it matches the selectors used in your files with the one in your content files. It removes unused selectors from your css, resulting in smaller css files.
+- [2018-purgecss ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/FullHuman/purgecss): Purgecss analyzes your content and your css files. Then it matches the selectors used in your files with the one in your content files. It removes unused selectors from your css, resulting in smaller css files.
 
 ## Lazy Loading | 懒加载
 
-- [2017-Lozad.js ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg) ](https://github.com/ApoorvSaxena/lozad.js): Highly performant, light ~0.5kb and configurable lazy loader in pure JS with no dependencies for images, iframes and more, using IntersectionObserver API
+- [2017-Lozad.js ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/ApoorvSaxena/lozad.js): Highly performant, light ~0.5kb and configurable lazy loader in pure JS with no dependencies for images, iframes and more, using IntersectionObserver API
 
 - [2017-How to use SVG as a Placeholder, and Other Image Loading Techniques](https://parg.co/UEY)
 
 ## Code Spliting | 代码分割
 
-- [Bundle Buddy ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/samccone/bundle-buddy): Bundle Buddy is a tool to help you find source code duplication across your javascript chunks/splits. This enables you to fine tune code splitting parameters to reduce bundle invalidation rates as well as improve repeat page load performance \o/.
+- [Bundle Buddy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/samccone/bundle-buddy): Bundle Buddy is a tool to help you find source code duplication across your javascript chunks/splits. This enables you to fine tune code splitting parameters to reduce bundle invalidation rates as well as improve repeat page load performance \o/.
 
 - [2018-Web Performance Optimization with Webpack by Addy Osmani](https://parg.co/UXN): Taking advantage of its features for optimizing modern code, code-splitting scripts into critical and non-critical pieces and stripping out unused code.
 
@@ -84,7 +84,7 @@
 
 - [2017-Network based image loading using the Network Information API in Service Worker](https://parg.co/U5N): Recently, Chromium improved their implementation of navigator.connection by adding three new attributes: effectiveType, downlink and rtt.
 
-- [SuperTinyIcons ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/edent/SuperTinyIcons):Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+- [SuperTinyIcons ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/edent/SuperTinyIcons):Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 
 ## JPEG
 
@@ -120,6 +120,6 @@
 
 - [responsive-images-done-right-guide-picture-srcset](https://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-picture-srcset/)
 
-- [Picturefill ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/scottjehl/picturefill)
+- [Picturefill ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/scottjehl/picturefill)
 
 - [2017-Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images): In this article, I’ll be explaining some of the key concepts for responsive images, as well as providing an overview of a few different responsive image tactics.

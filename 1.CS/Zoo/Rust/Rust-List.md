@@ -62,7 +62,7 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [blessed-rs 🗃️](https://github.com/nicoburns/blessed-rs): An community guide to the Rust ecosystem
 
-- [2019-rustlings ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/rust-lang/rustlings): 🦀 Small exercises to get you used to reading and writing Rust code!
+- [2019-rustlings ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rust-lang/rustlings): 🦀 Small exercises to get you used to reading and writing Rust code!
 
 ## Course
 
