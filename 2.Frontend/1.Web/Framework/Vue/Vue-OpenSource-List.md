@@ -18,6 +18,10 @@
 
 - [2022-vue3-music ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/SmallRuralDog/vue3-music): VUE3+TS 开发的音乐播放器，界面模仿 QQ 音乐 mac 客户端，支持黑夜模式
 
+## Admin Template
+
+- [2021-Soybean Admin ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/honghuangdc/soybean-admin)](https://github.com/honghuangdc/soybean-admin): Soybean Admin 是一个基于 Vue3、Vite3、TypeScript、NaiveUI、Pinia 和 UnoCSS 的清新优雅的中后台模版，它使用了最新的前端技术栈，内置丰富的主题配置，有着极高的代码规范，基于 mock 实现的动态权限路由，开箱即用的中后台前端解决方案，也可用于学习参考。
+
 # Frameworks
 
 - [2021-vue-admin-beautiful-pro ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/chuzhixin/vue-admin-beautiful-pro): vue3,vue3.0,vue,vue3.x,vue.js,vue 后台管理,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus 主线版本基于 element-plus、element-ui、ant-design-vue 三者并行开发维护

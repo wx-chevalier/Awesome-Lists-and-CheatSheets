@@ -30,8 +30,9 @@
       - [1.4.10 ECommerce & Marketing](/0.Specials/Tools%20&%20Projects/ECommerce%20&%20Marketing.md)
       - [1.4.11 Encrypt](/0.Specials/Tools%20&%20Projects/Encrypt.md)
       - [1.4.12 File](/0.Specials/Tools%20&%20Projects/File.md)
-      - 1.4.13 Media [1]
-        - [1.4.13.1 Picture Upload](/0.Specials/Tools%20&%20Projects/Media/Picture%20Upload.md)
+      - 1.4.13 Media [2]
+        - [1.4.13.1 Image Tools with AI](/0.Specials/Tools%20&%20Projects/Media/Image%20Tools%20with%20AI.md)
+        - [1.4.13.2 Picture Upload](/0.Specials/Tools%20&%20Projects/Media/Picture%20Upload.md)
       - [1.4.14 Network](/0.Specials/Tools%20&%20Projects/Network.md)
       - [1.4.15 Notification](/0.Specials/Tools%20&%20Projects/Notification.md)
       - [1.4.16 OS](/0.Specials/Tools%20&%20Projects/OS.md)
@@ -248,12 +249,13 @@
         - [2.8.3.11 Gopher List](/1.CS/Zoo/Go/Gopher-List.md)
       - 2.8.4 Haskell [1]
         - [2.8.4.1 Haskell List](/1.CS/Zoo/Haskell/Haskell-List.md)
-      - 2.8.5 Java [8]
-        - 2.8.5.1 ConcurrentProgramming [4]
+      - 2.8.5 Java [7]
+        - 2.8.5.1 ConcurrentProgramming [5]
           - [2.8.5.1.1 Akka List](/1.CS/Zoo/Java/ConcurrentProgramming/Akka-List.md)
           - [2.8.5.1.2 Java Async List](/1.CS/Zoo/Java/ConcurrentProgramming/Java-Async-List.md)
           - [2.8.5.1.3 Java ConcurrentProgramming List](/1.CS/Zoo/Java/ConcurrentProgramming/Java-ConcurrentProgramming-List.md)
-          - [2.8.5.1.4 Netty List](/1.CS/Zoo/Java/ConcurrentProgramming/Netty-List.md)
+          - [2.8.5.1.4 Java ConcurrentProgramming OpenSource List](/1.CS/Zoo/Java/ConcurrentProgramming/Java-ConcurrentProgramming-OpenSource-List.md)
+          - [2.8.5.1.5 Netty List](/1.CS/Zoo/Java/ConcurrentProgramming/Netty-List.md)
         - 2.8.5.2 Dev [12]
           - [2.8.5.2.1 Gradle List](/1.CS/Zoo/Java/Dev/Gradle-List.md)
           - [2.8.5.2.2 Java Collection List](/1.CS/Zoo/Java/Dev/Java-Collection-List.md)
@@ -281,20 +283,20 @@
           - [2.8.5.4.5 JVM MemoryManagement List](/1.CS/Zoo/Java/JVM/JVM-MemoryManagement-List.md)
           - [2.8.5.4.6 JVM Tuning List](/1.CS/Zoo/Java/JVM/JVM-Tuning-List.md)
         - [2.8.5.5 Java List](/1.CS/Zoo/Java/Java-List.md)
-        - [2.8.5.6 Java MS OpenSource List](/1.CS/Zoo/Java/Java-MS-OpenSource-List.md)
-        - [2.8.5.7 Java OpenSource List](/1.CS/Zoo/Java/Java-OpenSource-List.md)
-        - 2.8.5.8 Spring [9]
-          - [2.8.5.8.1 Java Servlet List](/1.CS/Zoo/Java/Spring/Java-Servlet-List.md)
-          - 2.8.5.8.2 Mybatis [2]
-            - [2.8.5.8.2.1 Mybatis List](/1.CS/Zoo/Java/Spring/Mybatis/Mybatis-List.md)
-            - [2.8.5.8.2.2 Mybatis OpenSource List](/1.CS/Zoo/Java/Spring/Mybatis/Mybatis-OpenSource-List.md)
-          - [2.8.5.8.3 Spring Internals List](/1.CS/Zoo/Java/Spring/Spring-Internals-List.md)
-          - [2.8.5.8.4 Spring List](/1.CS/Zoo/Java/Spring/Spring-List.md)
-          - [2.8.5.8.5 Spring OpenSource List](/1.CS/Zoo/Java/Spring/Spring-OpenSource-List.md)
-          - [2.8.5.8.6 SpringBoot List](/1.CS/Zoo/Java/Spring/SpringBoot-List.md)
-          - [2.8.5.8.7 SpringCloud List](/1.CS/Zoo/Java/Spring/SpringCloud-List.md)
-          - [2.8.5.8.8 SpringSecurity List](/1.CS/Zoo/Java/Spring/SpringSecurity-List.md)
-          - [2.8.5.8.9 Tomcat List](/1.CS/Zoo/Java/Spring/Tomcat-List.md)
+        - [2.8.5.6 Java OpenSource List](/1.CS/Zoo/Java/Java-OpenSource-List.md)
+        - 2.8.5.7 MicroService [10]
+          - [2.8.5.7.1 Java MicroService OpenSource List](/1.CS/Zoo/Java/MicroService/Java-MicroService-OpenSource-List.md)
+          - [2.8.5.7.2 Java Servlet List](/1.CS/Zoo/Java/MicroService/Java-Servlet-List.md)
+          - 2.8.5.7.3 Mybatis [2]
+            - [2.8.5.7.3.1 Mybatis List](/1.CS/Zoo/Java/MicroService/Mybatis/Mybatis-List.md)
+            - [2.8.5.7.3.2 Mybatis OpenSource List](/1.CS/Zoo/Java/MicroService/Mybatis/Mybatis-OpenSource-List.md)
+          - [2.8.5.7.4 Spring Internals List](/1.CS/Zoo/Java/MicroService/Spring-Internals-List.md)
+          - [2.8.5.7.5 Spring List](/1.CS/Zoo/Java/MicroService/Spring-List.md)
+          - [2.8.5.7.6 Spring OpenSource List](/1.CS/Zoo/Java/MicroService/Spring-OpenSource-List.md)
+          - [2.8.5.7.7 SpringBoot List](/1.CS/Zoo/Java/MicroService/SpringBoot-List.md)
+          - [2.8.5.7.8 SpringCloud List](/1.CS/Zoo/Java/MicroService/SpringCloud-List.md)
+          - [2.8.5.7.9 SpringSecurity List](/1.CS/Zoo/Java/MicroService/SpringSecurity-List.md)
+          - [2.8.5.7.10 Tomcat List](/1.CS/Zoo/Java/MicroService/Tomcat-List.md)
       - 2.8.6 JavaScript [11]
         - [2.8.6.1 JavaScript Async List](/1.CS/Zoo/JavaScript/JavaScript-Async-List.md)
         - [2.8.6.2 JavaScript Collection List](/1.CS/Zoo/JavaScript/JavaScript-Collection-List.md)
