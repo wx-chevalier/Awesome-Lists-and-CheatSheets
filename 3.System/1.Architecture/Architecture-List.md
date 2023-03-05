@@ -34,7 +34,7 @@
 
 - [2018-Martin-Clean Architecture 📚](http://putregai.com/sbooks/clean_arch.pdf): A Craftsman's Guide to Software Structure and Design.
 
-- [2019-A Philosophy of Software Design | 软件设计的哲学 📚](https://www.bookstack.cn/read/A-Philosophy-of-Software-Design-zh/README.md): 冠名为“艺术”，内容可能是记录一件优秀作品的设计过程和经验；而冠名为“哲学”，则是一些通用的原则和方法论，这些原则方法论串起来，能够形成一个体系。正如”知行合一”、“世界是由原子构成的”、“我思故我在”，这些耳熟能详的句子能够一定程度上代表背后的人物和思想。
+- [2018-A Philosophy of Software Design | 软件设计的哲学 📚](https://www.bookstack.cn/read/A-Philosophy-of-Software-Design-zh/README.md): 冠名为“艺术”，内容可能是记录一件优秀作品的设计过程和经验；而冠名为“哲学”，则是一些通用的原则和方法论，这些原则方法论串起来，能够形成一个体系。正如”知行合一”、“世界是由原子构成的”、“我思故我在”，这些耳熟能详的句子能够一定程度上代表背后的人物和思想。
 
 ### Refactor & Clean Code
 
