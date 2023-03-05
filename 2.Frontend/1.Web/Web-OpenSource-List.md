@@ -68,7 +68,7 @@
 
 - [2017-Parcel ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/parcel-bundler/parcel): Blazing fast, zero configuration web application bundler.
 
-- [browserify ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/browserify/browserify): browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single <script> tag.
+- [browserify ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/browserify/browserify): browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single `<script>` tag.
 
 - [2017-Backpack ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jaredpalmer/backpack): Backpack is minimalistic build system for Node.js. Inspired by Facebook's create-react-app, Zeit's Next.js, and Remy's Nodemon, Backpack lets you create modern Node.js apps and services with zero configuration.
 
