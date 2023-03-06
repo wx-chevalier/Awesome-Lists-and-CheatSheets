@@ -28,8 +28,6 @@
 
 - [2022-Min ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/minbrowser/min)](https://github.com/minbrowser/min): Min is a fast, minimal browser that protects your privacy. It includes an interface designed to minimize distractions, and features such as.
 
-- [tools-ocr](https://github.com/AnyListen/tools-ocr): 树洞 OCR 文字识别（一款跨平台的 OCR 小工具）
-
 ## Boilerplate
 
 - [electron-react-typescript-webpack-boilerplate ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Devtography/electron-react-typescript-webpack-boilerplate): Pre-configured boilerplate for Electron + React + TypeScript + Webpack.

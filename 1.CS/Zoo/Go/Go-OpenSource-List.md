@@ -122,8 +122,6 @@
 
 # Network
 
-- [2017-Colly ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/gocolly/colly): Lightning Fast and Elegant Scraping Framework for Gophers.
-
 - [2017-req ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/imroc/req): A golang http request library for humans.
 
 - [Broxy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rhaidiz/broxy): Broxy is an open source intercept proxy written in Go.

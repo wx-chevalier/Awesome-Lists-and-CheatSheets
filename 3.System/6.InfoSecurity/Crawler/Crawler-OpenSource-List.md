@@ -1,10 +1,12 @@
 # Crawler OpenSource List | 爬虫开源框架索引
 
-- [SpiderFlow ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ssssssss-team/spider-flow): 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
+# Platform
+
+- [2020-Crawlab ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/crawlab-team/crawlab)](https://github.com/crawlab-team/crawlab): Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
+
+- [2019-SpiderFlow ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ssssssss-team/spider-flow)](https://github.com/ssssssss-team/spider-flow): 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 
 # Framework
-
-- [2020-Crawlab ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/crawlab-team/crawlab): Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
 
 ## Node
 
@@ -14,7 +16,7 @@
 
 - [apify-js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/apify/apify-js): Apify SDK — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
 
-- [Crawlee ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/apify/crawlee): A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+- [2021-Crawlee ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/apify/crawlee): A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 
 ## Python
 
@@ -37,6 +39,8 @@
 ## Java
 
 - [Crawler4j ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/yasserg/crawler4j): crawler4j is an open source web crawler for Java which provides a simple interface for crawling the Web. Using it, you can setup a multi-threaded web crawler in few minutes.
+
+- [2015-WebMagic ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/code4craft/webmagic)](https://github.com/code4craft/webmagic): A scalable crawler framework. It covers the whole lifecycle of crawler: downloading, url management, content extraction and persistent. It can simplify the development of a specific crawler.
 
 # Content Analysis | 内容分析
 

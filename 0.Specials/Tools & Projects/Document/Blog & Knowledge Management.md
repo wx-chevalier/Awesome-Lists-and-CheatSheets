@@ -94,10 +94,6 @@
 
 - [Paged.js ![code](https://ng-tech.icu/assets/code.svg)](https://www.pagedjs.org/): Paged.js is a free and open-source library that paginates any HTML content to produce beautiful print-ready PDF. The library fragments the content, reads your CSS print declarations and presents a paginated preview in your browser that you can save as PDF.
 
-# Dev Docs
+# Publish | 发布工具
 
-- [devdocs](http://devdocs.io/): 这里集合了大量的在线的文档，同时 DevDocs 还支持离线浏览，主要是依靠 IndexDB 将数据存放在浏览器的本地缓存中。
-
-# OCR
-
-- [Umi-OCR ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hiroi-sora/Umi-OCR): OCR 批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。基于 PaddleOCR 。
+- [2020-Artipub ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/crawlab-team/artipub)](https://github.com/crawlab-team/artipub): ArtiPub (Article Publisher 的简称，意为 "文章发布者") 是一款开源的一文多发平台，可以帮助文章作者将编写好的文章自动发布到掘金、SegmentFault、CSDN、知乎、开源中国等技术媒体平台，传播优质知识，获取最大的曝光度。ArtiPub 安装简单，提供了多种安装方式，可以一键安装使用，安装一般只要 5 分钟。
