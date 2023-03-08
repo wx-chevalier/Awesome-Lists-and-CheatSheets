@@ -1,4 +1,4 @@
-# Electron Learning & Practices List
+# Electron List
 
 - [2017-How to build a Desktop Application with Electron and React](https://parg.co/bI4):
 
@@ -18,11 +18,11 @@
 
 - [The Basics of Building a Cross-Platform Desktop Application with Electron](https://parg.co/UVf).
 
-# DevOps: 开发实践
+# DevOps | 开发实践
 
-# Production: 生产环境
+# Production | 生产环境
 
-# Core: 内部原理
+# Core | 内部原理
 
 # Tutorial
 
