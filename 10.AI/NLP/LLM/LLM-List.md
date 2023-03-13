@@ -7,3 +7,15 @@
 - [2023-Promptable ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/cfortuner/promptable)](https://github.com/cfortuner/promptable): Promptable is library that enables you to build powerful AI applications with LLMs and Embeddings providers such as OpenAI, Hugging Face, Cohere and Anthropic. It provides a flexible and extensible API that makes it easy to compose LLMs with data and tools to build complex applications quickly and easily.
 
 - [2023-mm-cot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/amazon-science/mm-cot)](https://github.com/amazon-science/mm-cot): Multimodal-CoT incorporates vision features in a decoupled training framework. The framework consists of two training stages: (i) rationale generation and (ii) answer inference. Both stages share the same model architecture but differ in the input and output.
+
+## ChatGPT
+
+- [2023-document.ai ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/GanymedeNil/document.ai)](https://github.com/GanymedeNil/document.ai): 基于向量数据库与 GPT3.5 的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)。
+
+## Llama
+
+- [2023-llama-dl ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/shawwn/llama-dl)](https://github.com/shawwn/llama-dl): High-speed download of LLaMA, Facebook's 65B parameter GPT model
+
+- [2023-LlamaIndex ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jerryjliu/llama_index)](https://github.com/jerryjliu/llama_index): LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
+
+- [2023-dalai ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/cocktailpeanut/dalai)](https://github.com/cocktailpeanut/dalai): The simplest way to run LLaMA on your local machine

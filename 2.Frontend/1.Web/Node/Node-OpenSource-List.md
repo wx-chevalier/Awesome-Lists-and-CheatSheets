@@ -91,6 +91,8 @@
 
 - [2022-Orchid ORM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/romeerez/orchid-orm)](https://github.com/romeerez/orchid-orm): Postgres ORM, query builder, migration tool. First-class TypeScript support.
 
+- [2023-Drizzle ORM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/drizzle-team/drizzle-orm)](https://github.com/drizzle-team/drizzle-orm): Drizzle ORM is a TypeScript ORM for SQL databases designed with maximum type safety in mind. It comes with a drizzle-kit CLI companion for automatic SQL migrations generation. Drizzle ORM is meant to be a library, not a framework. It stays as an opt-in solution all the time at any levels.
+
 # SysProc
 
 - [execa ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/sindresorhus/execa): A better `child_process`.
