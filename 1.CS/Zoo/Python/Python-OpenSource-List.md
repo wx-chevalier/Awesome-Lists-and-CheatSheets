@@ -68,8 +68,12 @@
 
 - [requests-html ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/kennethreitz/requests-html): This library intends to make parsing HTML (e.g. scraping the web) as simple and intuitive as possible.
 
-# Application
+# Web
 
 - [rebound ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/shobrook/rebound): Command-line tool that instantly fetches Stack Overflow results when you get a compiler error.
 
 - [2020-PyWebIO ![code](https://ng-tech.icu/assets/code.svg)](https://cubox.pro/c/OMTHaA): Write interactive web app in script way.
+
+# UI
+
+- [2021-Gradio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gradio-app/gradio)](https://github.com/gradio-app/gradio): Gradio is an open-source Python library that is used to build machine learning and data science demos and web applications.

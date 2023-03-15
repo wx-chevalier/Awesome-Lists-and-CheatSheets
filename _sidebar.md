@@ -740,7 +740,7 @@
       - 6.1.5 Refactor [2]
         - [6.1.5.1 Refactor List](/3.System/1.Architecture/Refactor/Refactor-List.md)
         - [6.1.5.2 TechDebt List](/3.System/1.Architecture/Refactor/TechDebt-List.md)
-    - 6.2 10.Solutions [7]
+    - 6.2 10.Solutions [8]
       - 6.2.1 CMS [1]
         - [6.2.1.1 CMS List](/3.System/10.Solutions/CMS/CMS-List.md)
       - 6.2.2 ECommerce [5]
@@ -758,16 +758,18 @@
         - [6.2.4.1 APS List](/3.System/10.Solutions/II-MES/APS-List.md)
         - [6.2.4.2 MES List](/3.System/10.Solutions/II-MES/MES-List.md)
         - [6.2.4.3 Package List](/3.System/10.Solutions/II-MES/Package-List.md)
-      - 6.2.5 OA [1]
-        - [6.2.5.1 OA List](/3.System/10.Solutions/OA/OA-List.md)
-      - 6.2.6 OpenPlatform [4]
-        - [6.2.6.1 Alipay List](/3.System/10.Solutions/OpenPlatform/Alipay-List.md)
-        - [6.2.6.2 OpenPlatform List](/3.System/10.Solutions/OpenPlatform/OpenPlatform-List.md)
-        - [6.2.6.3 Wechat List](/3.System/10.Solutions/OpenPlatform/Wechat-List.md)
-        - [6.2.6.4 WhatsApp List](/3.System/10.Solutions/OpenPlatform/WhatsApp-List.md)
-      - 6.2.7 Pay [2]
-        - [6.2.7.1 Pay List](/3.System/10.Solutions/Pay/Pay-List.md)
-        - [6.2.7.2 Pay OpenSource List](/3.System/10.Solutions/Pay/Pay-OpenSource-List.md)
+      - 6.2.5 IoT [1]
+        - [6.2.5.1 IoT OpenSource List](/3.System/10.Solutions/IoT/IoT-OpenSource-List.md)
+      - 6.2.6 OA [1]
+        - [6.2.6.1 OA List](/3.System/10.Solutions/OA/OA-List.md)
+      - 6.2.7 OpenPlatform [4]
+        - [6.2.7.1 Alipay List](/3.System/10.Solutions/OpenPlatform/Alipay-List.md)
+        - [6.2.7.2 OpenPlatform List](/3.System/10.Solutions/OpenPlatform/OpenPlatform-List.md)
+        - [6.2.7.3 Wechat List](/3.System/10.Solutions/OpenPlatform/Wechat-List.md)
+        - [6.2.7.4 WhatsApp List](/3.System/10.Solutions/OpenPlatform/WhatsApp-List.md)
+      - 6.2.8 Pay [2]
+        - [6.2.8.1 Pay List](/3.System/10.Solutions/Pay/Pay-List.md)
+        - [6.2.8.2 Pay OpenSource List](/3.System/10.Solutions/Pay/Pay-OpenSource-List.md)
     - 6.3 2.MicroCN [6]
       - 6.3.1 CloudNative [4]
         - [6.3.1.1 CloudNative List](/3.System/2.MicroCN/CloudNative/CloudNative-List.md)

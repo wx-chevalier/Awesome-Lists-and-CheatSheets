@@ -24,6 +24,8 @@
 
 - [CoWasm ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/sagemathinc/cowasm): CoWasm: Collaborative WebAssembly for Servers and Browsers. Built using Zig. Supports Python with extension modules, including numpy.
 
+- [2022-Cheerp ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/leaningtech/cheerp-meta)](https://github.com/leaningtech/cheerp-meta): a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript.
+
 # Interpreter & Runtime
 
 - [wasm3 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/wasm3/wasm3): 🚀 The fastest WebAssembly interpreter.

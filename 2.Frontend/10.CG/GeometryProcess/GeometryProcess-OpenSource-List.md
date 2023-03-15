@@ -144,6 +144,8 @@
 
 - [2013-ACVD ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/valette/ACVD)](https://github.com/valette/ACVD): Fast simplification of 3D surface meshes
 
+- [2013-OpenSubdiv ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/PixarAnimationStudios/OpenSubdiv)](https://github.com/PixarAnimationStudios/OpenSubdiv): OpenSubdiv is a set of open source libraries that implement high performance subdivision surface (subdiv) evaluation on massively parallel CPU and GPU architectures. This codepath is optimized for drawing deforming subdivs with static topology at interactive framerates. The resulting limit surface matches Pixar's Renderman to numerical precision.
+
 - [2015-simplify ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fogleman/simplify)](https://github.com/fogleman/simplify): Implementation of Surface Simplification Using Quadric Error Metrics, SIGGRAPH 97, written in Go.
 
 - [2019-Mesh_simplification_python ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/AntonotnaWang/Mesh_simplification_python)](https://github.com/AntonotnaWang/Mesh_simplification_python): An implementation of mesh simplification algorithm ([1]) using python.
