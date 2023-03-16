@@ -578,16 +578,17 @@
           - [4.1.11.2.3 Image OpenSource List](/2.Frontend/1.Web/Widgets/Data%20Display/Image-OpenSource-List.md)
           - [4.1.11.2.4 Indicator List](/2.Frontend/1.Web/Widgets/Data%20Display/Indicator-List.md)
           - [4.1.11.2.5 Web List OpenSource List](/2.Frontend/1.Web/Widgets/Data%20Display/Web-List-OpenSource-List.md)
-        - 4.1.11.3 Data Entry [7]
+        - 4.1.11.3 Data Entry [6]
           - [4.1.11.3.1 DateTime](/2.Frontend/1.Web/Widgets/Data%20Entry/DateTime.md)
-          - [4.1.11.3.2 Editor List](/2.Frontend/1.Web/Widgets/Data%20Entry/Editor-List.md)
-          - [4.1.11.3.3 Editor OpenSource List](/2.Frontend/1.Web/Widgets/Data%20Entry/Editor-OpenSource-List.md)
-          - [4.1.11.3.4 Form List](/2.Frontend/1.Web/Widgets/Data%20Entry/Form-List.md)
-          - [4.1.11.3.5 Input List](/2.Frontend/1.Web/Widgets/Data%20Entry/Input-List.md)
-          - [4.1.11.3.6 Select](/2.Frontend/1.Web/Widgets/Data%20Entry/Select.md)
-          - 4.1.11.3.7 Table & Grid [2]
-            - [4.1.11.3.7.1 Table & Grid List](/2.Frontend/1.Web/Widgets/Data%20Entry/Table%20&%20Grid/Table%20&%20Grid-List.md)
-            - [4.1.11.3.7.2 Table & Grid OpenSource List](/2.Frontend/1.Web/Widgets/Data%20Entry/Table%20&%20Grid/Table%20&%20Grid-OpenSource-List.md)
+          - 4.1.11.3.2 Editor [2]
+            - [4.1.11.3.2.1 Web Editor List](/2.Frontend/1.Web/Widgets/Data%20Entry/Editor/Web-Editor-List.md)
+            - [4.1.11.3.2.2 Web Editor OpenSource List](/2.Frontend/1.Web/Widgets/Data%20Entry/Editor/Web-Editor-OpenSource-List.md)
+          - [4.1.11.3.3 Form List](/2.Frontend/1.Web/Widgets/Data%20Entry/Form-List.md)
+          - [4.1.11.3.4 Input List](/2.Frontend/1.Web/Widgets/Data%20Entry/Input-List.md)
+          - [4.1.11.3.5 Select](/2.Frontend/1.Web/Widgets/Data%20Entry/Select.md)
+          - 4.1.11.3.6 Table & Grid [2]
+            - [4.1.11.3.6.1 Table & Grid List](/2.Frontend/1.Web/Widgets/Data%20Entry/Table%20&%20Grid/Table%20&%20Grid-List.md)
+            - [4.1.11.3.6.2 Table & Grid OpenSource List](/2.Frontend/1.Web/Widgets/Data%20Entry/Table%20&%20Grid/Table%20&%20Grid-OpenSource-List.md)
         - 4.1.11.4 Diagram [3]
           - [4.1.11.4.1 D3 List](/2.Frontend/1.Web/Widgets/Diagram/D3-List.md)
           - [4.1.11.4.2 Diagram OpenSource List](/2.Frontend/1.Web/Widgets/Diagram/Diagram-OpenSource-List.md)
