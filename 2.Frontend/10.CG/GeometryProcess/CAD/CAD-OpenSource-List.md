@@ -18,6 +18,8 @@
 
 - [2022-SolveSpace ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/solvespace/solvespace)](https://github.com/solvespace/solvespace): SOLVESPACE is a free (GPLv3) parametric 3d CAD tool.
 
+- [2022-BRL-CAD ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/BRL-CAD/brlcad)](https://github.com/BRL-CAD/brlcad): BRL-CAD is a powerful cross-platform open source combinatorial solid modeling system that includes an interactive 3D solid geometry editor, a network-distributed symmetric multiprocessing (SMP) high-performance ray-tracer with support for rendering and geometric analysis, image and signal-processing tools, a system performance analysis benchmark suite, a flexible geometry scripting interface, and a high-performance geometric representation and analysis library.
+
 - [2023-QCAD ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/qcad/qcad)](https://github.com/qcad/qcad): QCAD - The Open Source 2D CAD. QCAD is a cross-platform CAD solution for Windows, macOS and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin).
 
 # STEP

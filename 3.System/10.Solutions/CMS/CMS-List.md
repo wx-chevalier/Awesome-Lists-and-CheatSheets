@@ -20,6 +20,8 @@
 
 - [2022-Alinea ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alineacms/alinea): Alinea is a modern content management system.
 
+- [2023-Ghost ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tryghost/ghost)](https://github.com/tryghost/ghost): Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+
 ## Deployment
 
 - [2022-microfeed ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/microfeed/microfeed)](https://github.com/microfeed/microfeed): a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.

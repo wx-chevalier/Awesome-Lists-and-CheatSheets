@@ -1,5 +1,9 @@
 # CAM OpenSource List
 
+# CNC CAM
+
+- [2013-CAMotics ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CauldronDevelopmentLLC/CAMotics)](https://github.com/CauldronDevelopmentLLC/CAMotics): CAMotics is an Open-Source software which can simulate 3-axis NC machining. It is a fast, flexible and user friendly simulation software for the DIY and Open-Source community. CAMotics works on Linux, OS-X and Windows.
+
 # 3DP CAM | 3D 打印前处理
 
 - [2010-Cura ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Ultimaker/Cura): 3D printer / slicing GUI built on top of the Uranium framework.

@@ -23,3 +23,5 @@
 - [2022-openwechat ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/eatmoreapple/openwechat)](https://github.com/eatmoreapple/openwechat): golang 版个人微信号 API, 突破登录限制，类似开发公众号一样，开发个人微信号。
 
 - [2022-ComWeChatRobot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ljc545w/ComWeChatRobot)](https://github.com/ljc545w/ComWeChatRobot): PC 微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装 COM 接口供 Python、C# 调用。
+
+  - [2023-wxhelper ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ttttupup/wxhelper)](https://github.com/ttttupup/wxhelper): Hook WeChat / 微信逆向
