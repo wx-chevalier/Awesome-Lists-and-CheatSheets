@@ -16,6 +16,8 @@
 
 - [3d ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dragonir/3d): Three.js 3D 项目，包含冰墩墩 🐼、数字城市 🏙、3D 人像 👤、车模展示 🚗、塞尔达传说 🗡 等一些 3D 趣味演示页面，持续优化中...访问链接如下 👇
 
+- [2021-MeshWalk.js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/yomotsu/meshwalk)](https://github.com/yomotsu/meshwalk): MeshWalk.js is a JS library which helps your TPS game development with three.js.
+
 - [threejs-sandbox ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/gkjohnson/threejs-sandbox): Set of experiments and extensions to THREE.js. These pages are a sandbox of examples and not necessarily ready to include in projects and may require some work to properly and performantly integrate.
 
 # Utils

@@ -12,12 +12,6 @@
 
   - [LangFlow ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/logspace-ai/langflow)](https://github.com/logspace-ai/langflow): ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 
-## ChatGPT
-
-- [2023-document.ai ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/GanymedeNil/document.ai)](https://github.com/GanymedeNil/document.ai): 基于向量数据库与 GPT3.5 的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)。
-
-- [2023-EdgeGPT ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/acheong08/EdgeGPT)](https://github.com/acheong08/EdgeGPT): The reverse engineering the chat feature of the new version of Bing.
-
 ## ChatGLM
 
 - [2023-ChatGLM-6B ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/THUDM/ChatGLM-6B)](https://github.com/THUDM/ChatGLM-6B): ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 General Language Model (GLM) 架构，具有 62 亿参数。结合模型量化技术，用户可以在消费级的显卡上进行本地部署（INT4 量化级别下最低只需 6GB 显存）。 ChatGLM-6B 使用了和 ChatGPT 相似的技术，针对中文问答和对话进行了优化。经过约 1T 标识符的中英双语训练，辅以监督微调、反馈自助、人类反馈强化学习等技术的加持，62 亿参数的 ChatGLM-6B 已经能生成相当符合人类偏好的回答。
