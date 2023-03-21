@@ -24,6 +24,8 @@
 
 - [2023-pix2pix3D ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dunbar12138/pix2pix3D)](https://github.com/dunbar12138/pix2pix3D): This is the official PyTorch implementation of "3D-aware Conditional Image Synthesis". Pix2pix3D synthesizes 3D objects (neural fields) given a 2D label map, such as a segmentation or edge map. We also provide an interactive 3D editing demo.
 
+- [2023-zero123 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/cvlab-columbia/zero123)](https://github.com/cvlab-columbia/zero123): We learn to control the camera perspective in large-scale diffusion models, enabling zero-shot novel view synthesis and 3D reconstruction from a single image.
+
 ## Text To Mesh
 
 - [2021-text2mesh ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/threedle/text2mesh)](https://github.com/threedle/text2mesh): 3D mesh stylization driven by a text input in PyTorch.
