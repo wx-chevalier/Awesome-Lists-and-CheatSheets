@@ -84,6 +84,8 @@
 
 - [2021-浏览器工作原理与实践 #Series#](https://blog.poetries.top/browser-working-principle/): 极客浏览器工作原理与实践，追求重点和难点,剔除陈旧的知识。
 
+- [2022-《前端小课》 #Series#](https://github.com/lefex/FE):《前端小课》是通过图片、文字、代码、视频等多种方式写成的一本多媒体电子书。全书分为不同的小书，每本小书旨在讲透一个知识点。比如 CSS 布局、JavaScript 基础、动画。以最基础的编程知识为起点，即使不懂编程的小白也能够通过本书学会编程，顺利进入互联网行业。
+
 ## Showcase
 
 - [2015-todomvc ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tastejs/todomvc): Helping you select an `MV*` framework - Todo apps for React.js, Ember.js, Angular, and many more.

@@ -52,6 +52,10 @@
 
 - [2021-RuoYi-Cloud ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/yangzongzhuan/RuoYi-Cloud)](https://github.com/yangzongzhuan/RuoYi-Cloud): 🎉 (RuoYi)官方仓库 基于 Spring Boot、Spring Cloud & Alibaba 的分布式微服务架构权限管理系统
 
+## GraalVM/Spring Native
+
+- [2023-entropy-cloud/nop-entropy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/entropy-cloud/nop-entropy)](https://github.com/entropy-cloud/nop-entropy): 基于可逆计算原理从零开始构建的低代码平台，支持 GraalVM 原生编译。 a new generation of low-code platform based on the theory of reversible computation
+
 # Libraries
 
 ## Log

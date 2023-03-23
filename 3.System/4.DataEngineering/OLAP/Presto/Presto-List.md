@@ -8,10 +8,14 @@
 
 - [Presto 实现原理和美团的使用实践](http://tech.meituan.com/presto.html)
 
-- [presto 源码分析 ( 查询 )](http://blog.csdn.net/sinat_27545249/article/details/52502765)
+- [Presto 源码分析](http://blog.csdn.net/sinat_27545249/article/details/52502765)
 
 # Resource
 
 ## Blog | 博客
 
 - [Presto 专栏](https://zhuanlan.zhihu.com/presto-cn): Presto 是一种开源的、高性能的、交互式 SQL 分析引擎。
+
+## Book
+
+- [2023-深入浅出 Presto：PB 级 OLAP 引擎 📚](https://www.zhihu.com/column/c_1294277883771940864): 内容深入、清晰易懂，在这里掌握 Presto。
