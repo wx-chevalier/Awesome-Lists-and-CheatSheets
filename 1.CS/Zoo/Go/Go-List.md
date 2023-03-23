@@ -58,7 +58,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2019-Go2 编程指南 📚](https://github.com/chai2010/go2-book): 本书重点讲解 Go2 新特性，以及 Go1 教程中较少涉及的特性。本书适合对 Go 语言有一定基础的用户学习。
 
-- [2019-For learning Go Tutorial #Book](https://github.com/KeKe-Li/For-learning-Go-Tutorial): 准备写一本 Go 的书针对初学者快速入门开发和使用 go！
+- [2019-For learning Go Tutorial 📚](https://github.com/KeKe-Li/For-learning-Go-Tutorial): 准备写一本 Go 的书针对初学者快速入门开发和使用 go！
 
 - [2019-go perfbook ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dgryski/go-perfbook): The first sections cover writing optimized code in any language. The later sections cover Go-specific techniques.
 

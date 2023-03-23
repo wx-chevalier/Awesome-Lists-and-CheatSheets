@@ -42,8 +42,8 @@
 
 - [2018-Apache Flink Training](https://training.da-platform.com/): This training teaches how to implement scalable data analysis programs with Apache Flink 1.6.0.
 
-- [2019-基于 Flink 实现的商品实时推荐系统](https://mp.weixin.qq.com/s/pF8mr4AeUwWWpGEAKmJW2w): 近期我在 GitHub 观察到一个不错的 Flink 项目，然后也和作者交流了下，于是在这里做一个分享。[flink-recommandSystem-demo
-  ](https://github.com/will-che/flink-recommandSystem-demo)
+- [2019-基于 Flink 实现的商品实时推荐系统](https://mp.weixin.qq.com/s/pF8mr4AeUwWWpGEAKmJW2w): 近期我在 GitHub 观察到一个不错的 Flink 项目，然后也和作者交流了下，于是在这里做一个分享。
+  - [flink-recommandSystem-demo](https://github.com/will-che/flink-recommandSystem-demo)
 
 # Internals | 内部原理
 
@@ -54,3 +54,5 @@
 # OpenSource
 
 - [2019-flink-userportrait-main ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gingerredjade/flink-userportrait-main)](https://github.com/gingerredjade/flink-userportrait-main): 基于 Flink 流处理的动态实时亿级全端用户画像系统。
+
+- [2021-DataLinkDC/dinky ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/DataLinkDC/dinky)](https://github.com/DataLinkDC/dinky): Dinky is an out of the box one-stop real-time computing platform dedicated to the construction and practice of Unified Streaming & Batch and Unified Data Lake & Data Warehouse. Based on Apache Flink, Dinky provides the ability to connect many big data frameworks including OLAP and Data Lake.
