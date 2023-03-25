@@ -25,3 +25,5 @@
 - [2022-ComWeChatRobot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ljc545w/ComWeChatRobot)](https://github.com/ljc545w/ComWeChatRobot): PC 微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装 COM 接口供 Python、C# 调用。
 
   - [2023-wxhelper ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ttttupup/wxhelper)](https://github.com/ttttupup/wxhelper): Hook WeChat / 微信逆向
+
+- [2023-WeChat-Hook ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/aixed/WeChat-Hook)](https://github.com/aixed/WeChat-Hook): PC wechat robot interface [wechat Hook] / PC 微信 3.8.0.41 接口 微信 Hook 微信机器人 微信 Hook 源码 PC 微信协议算法.
