@@ -20,6 +20,8 @@
 
 ## Book
 
+- [2021-Apache Flink SQL Cookbook ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ververica/flink-sql-cookbook)](https://github.com/ververica/flink-sql-cookbook): The Apache Flink SQL Cookbook is a curated collection of examples, patterns, and use cases of Apache Flink SQL. Many of the recipes are completely self-contained and can be run in Ververica Platform as is.
+
 ## Series
 
 - [Madhukara Phatak: 某个大数据咨询师的博客](http://blog.madhukaraphatak.com/)
@@ -36,6 +38,10 @@
 
 - [Flink Forward China 2018 Slides](https://github.com/flink-china/flink-forward-china-2018)
 
+## Course
+
+- [2020-Apache Flink 入门 🎥](https://developer.aliyun.com/learning/course/58?spm=a2ctu.24462426.0.0.21a45879PJFgMu): 本课程由阿里云开发者学堂与 Apache Flink 社区共同出品，Apache Flink PMC 及 Committer 精心打磨的 Flink 零基础入门教程。课程内容先从基础理论入手，全盘解析 Apache Flink 底层架构、核心功能模块、社区生态，帮您建立对 Flink 应用场景与功能实现的系统认知。同时，还有 Apache Flink 技术专家手把手进行实操演示，8 天课程，助您完成从理论到实操的跨越，轻松收获 Flink 生产环境开发技能。
+
 # Tutorial
 
 - [从 0 到 1 学习 Flink #Series#](https://mp.weixin.qq.com/s/WrDwd1Ca1jMch6ERCpb_FA): Flink 是一种流式计算框架，我自己整理了些 Flink 的学习资料，目前已经全部放到微信公众号了。
@@ -50,9 +56,3 @@
 - [2016-Flink 原理与实现：理解 Flink 中的计算资源](http://wuchong.me/blog/2016/05/09/flink-internals-understanding-execution-resources/)
 
 - [2018-Flink 原理与实现：内存管理](https://yq.aliyun.com/articles/57815): 本文将会讨论 Flink 是如何解决上面的问题的，主要内容包括内存管理、定制的序列化工具、缓存友好的数据结构和算法、堆外内存、JIT 编译优化等。
-
-# OpenSource
-
-- [2019-flink-userportrait-main ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gingerredjade/flink-userportrait-main)](https://github.com/gingerredjade/flink-userportrait-main): 基于 Flink 流处理的动态实时亿级全端用户画像系统。
-
-- [2021-DataLinkDC/dinky ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/DataLinkDC/dinky)](https://github.com/DataLinkDC/dinky): Dinky is an out of the box one-stop real-time computing platform dedicated to the construction and practice of Unified Streaming & Batch and Unified Data Lake & Data Warehouse. Based on Apache Flink, Dinky provides the ability to connect many big data frameworks including OLAP and Data Lake.

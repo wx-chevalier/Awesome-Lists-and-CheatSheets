@@ -195,23 +195,18 @@
       - [2.5.4 ObjectOrientedProgramming List](/1.CS/DesignPattern/ObjectOrientedProgramming-List.md)
       - [2.5.5 Programming Paradigm List](/1.CS/DesignPattern/Programming-Paradigm-List.md)
       - [2.5.6 ReactiveProgramming List](/1.CS/DesignPattern/ReactiveProgramming-List.md)
-    - 2.6 Teamwork [4]
+    - 2.6 DevFlow [5]
       - 2.6.1 CodeReview [1]
-        - [2.6.1.1 CodeReview List](/1.CS/Teamwork/CodeReview/CodeReview-List.md)
-      - 2.6.2 Git [4]
-        - [2.6.2.1 Git List](/1.CS/Teamwork/Git/Git-List.md)
-        - [2.6.2.2 Git OpenSource List](/1.CS/Teamwork/Git/Git-OpenSource-List.md)
-        - [2.6.2.3 Git Workflow List](/1.CS/Teamwork/Git/Git-Workflow-List.md)
-        - [2.6.2.4 Github List](/1.CS/Teamwork/Git/Github-List.md)
-      - 2.6.3 OpenSource [1]
-        - [2.6.3.1 OpenSource List](/1.CS/Teamwork/OpenSource/OpenSource-List.md)
-      - 2.6.4 TechMgt [3]
-        - 2.6.4.1 Agile [1]
-          - [2.6.4.1.1 Agile List](/1.CS/Teamwork/TechMgt/Agile/Agile-List.md)
-        - 2.6.4.2 Devflow [2]
-          - [2.6.4.2.1 Devflow List](/1.CS/Teamwork/TechMgt/Devflow/Devflow-List.md)
-          - [2.6.4.2.2 Devflow OpenSource List](/1.CS/Teamwork/TechMgt/Devflow/Devflow-OpenSource-List.md)
-        - [2.6.4.3 TechMgt List](/1.CS/Teamwork/TechMgt/TechMgt-List.md)
+        - [2.6.1.1 CodeReview List](/1.CS/DevFlow/CodeReview/CodeReview-List.md)
+      - [2.6.2 DevFlow List](/1.CS/DevFlow/DevFlow-List.md)
+      - [2.6.3 DevFlow OpenSource List](/1.CS/DevFlow/DevFlow-OpenSource-List.md)
+      - 2.6.4 Git [4]
+        - [2.6.4.1 Git List](/1.CS/DevFlow/Git/Git-List.md)
+        - [2.6.4.2 Git OpenSource List](/1.CS/DevFlow/Git/Git-OpenSource-List.md)
+        - [2.6.4.3 Git Workflow List](/1.CS/DevFlow/Git/Git-Workflow-List.md)
+        - [2.6.4.4 Github List](/1.CS/DevFlow/Git/Github-List.md)
+      - 2.6.5 OpenSource [1]
+        - [2.6.5.1 OpenSource List](/1.CS/DevFlow/OpenSource/OpenSource-List.md)
     - 2.7 Theory [7]
       - 2.7.1 Compiler [2]
         - [2.7.1.1 Compiler List](/1.CS/Theory/Compiler/Compiler-List.md)
@@ -725,7 +720,7 @@
       - [5.6.1 ColorPalette List](/20.Product/UED/ColorPalette-List.md)
       - [5.6.2 Sketch List](/20.Product/UED/Sketch-List.md)
       - [5.6.3 UED List](/20.Product/UED/UED-List.md)
-  - 6 3.System [8]
+  - 6 3.System [9]
     - 6.1 1.Architecture [5]
       - 6.1.1 API [3]
         - [6.1.1.1 API List](/3.System/1.Architecture/API/API-List.md)
@@ -746,36 +741,13 @@
       - 6.1.5 Refactor [2]
         - [6.1.5.1 Refactor List](/3.System/1.Architecture/Refactor/Refactor-List.md)
         - [6.1.5.2 TechDebt List](/3.System/1.Architecture/Refactor/TechDebt-List.md)
-    - 6.2 10.Solutions [8]
-      - 6.2.1 CMS [1]
-        - [6.2.1.1 CMS List](/3.System/10.Solutions/CMS/CMS-List.md)
-      - 6.2.2 ECommerce [5]
-        - [6.2.2.1 LBS List](/3.System/10.Solutions/ECommerce/LBS-List.md)
-        - [6.2.2.2 LiveSupport List](/3.System/10.Solutions/ECommerce/LiveSupport-List.md)
-        - [6.2.2.3 Logistics List](/3.System/10.Solutions/ECommerce/Logistics-List.md)
-        - [6.2.2.4 Mall List](/3.System/10.Solutions/ECommerce/Mall-List.md)
-        - [6.2.2.5 Mall OpenSource List](/3.System/10.Solutions/ECommerce/Mall-OpenSource-List.md)
-      - 6.2.3 ERP [3]
-        - [6.2.3.1 CRM List](/3.System/10.Solutions/ERP/CRM-List.md)
-        - [6.2.3.2 ERP List](/3.System/10.Solutions/ERP/ERP-List.md)
-        - 6.2.3.3 HCM [1]
-          - [6.2.3.3.1 HCM List](/3.System/10.Solutions/ERP/HCM/HCM-List.md)
-      - 6.2.4 II MES [3]
-        - [6.2.4.1 APS List](/3.System/10.Solutions/II-MES/APS-List.md)
-        - [6.2.4.2 MES List](/3.System/10.Solutions/II-MES/MES-List.md)
-        - [6.2.4.3 Package List](/3.System/10.Solutions/II-MES/Package-List.md)
-      - 6.2.5 IoT [1]
-        - [6.2.5.1 IoT OpenSource List](/3.System/10.Solutions/IoT/IoT-OpenSource-List.md)
-      - 6.2.6 OA [1]
-        - [6.2.6.1 OA List](/3.System/10.Solutions/OA/OA-List.md)
-      - 6.2.7 OpenPlatform [4]
-        - [6.2.7.1 Alipay List](/3.System/10.Solutions/OpenPlatform/Alipay-List.md)
-        - [6.2.7.2 OpenPlatform List](/3.System/10.Solutions/OpenPlatform/OpenPlatform-List.md)
-        - [6.2.7.3 Wechat List](/3.System/10.Solutions/OpenPlatform/Wechat-List.md)
-        - [6.2.7.4 WhatsApp List](/3.System/10.Solutions/OpenPlatform/WhatsApp-List.md)
-      - 6.2.8 Pay [2]
-        - [6.2.8.1 Pay List](/3.System/10.Solutions/Pay/Pay-List.md)
-        - [6.2.8.2 Pay OpenSource List](/3.System/10.Solutions/Pay/Pay-OpenSource-List.md)
+    - 6.2 10.SoftwareEngineering [2]
+      - 6.2.1 DevOps [1]
+        - [6.2.1.1 DevOps List](/3.System/10.SoftwareEngineering/DevOps/DevOps-List.md)
+      - 6.2.2 TechMgt [2]
+        - 6.2.2.1 Agile [1]
+          - [6.2.2.1.1 Agile List](/3.System/10.SoftwareEngineering/TechMgt/Agile/Agile-List.md)
+        - [6.2.2.2 TechMgt List](/3.System/10.SoftwareEngineering/TechMgt/TechMgt-List.md)
     - 6.3 2.MicroCN [6]
       - 6.3.1 CloudNative [4]
         - [6.3.1.1 CloudNative List](/3.System/2.MicroCN/CloudNative/CloudNative-List.md)
@@ -819,62 +791,92 @@
         - [6.3.6.4 RPC OpenSource List](/3.System/2.MicroCN/RPC/RPC-OpenSource-List.md)
         - [6.3.6.5 Serialization List](/3.System/2.MicroCN/RPC/Serialization-List.md)
         - [6.3.6.6 gRPC List](/3.System/2.MicroCN/RPC/gRPC-List.md)
-    - 6.4 20.BigTech [7]
-      - [6.4.1 Awesome Giants](/3.System/20.BigTech/Awesome-Giants.md)
-      - [6.4.2 LinkedIn List](/3.System/20.BigTech/LinkedIn-List.md)
-      - [6.4.3 Netflix List](/3.System/20.BigTech/Netflix-List.md)
-      - [6.4.4 Tencent List](/3.System/20.BigTech/Tencent-List.md)
-      - [6.4.5 XiaoMi List](/3.System/20.BigTech/XiaoMi-List.md)
-      - [6.4.6 阿里](/3.System/20.BigTech/阿里.md)
-      - [6.4.7 阿里巴巴](/3.System/20.BigTech/阿里巴巴/README.md)
+    - 6.4 20.Solutions [8]
+      - 6.4.1 CMS [1]
+        - [6.4.1.1 CMS List](/3.System/20.Solutions/CMS/CMS-List.md)
+      - 6.4.2 ECommerce [5]
+        - [6.4.2.1 LBS List](/3.System/20.Solutions/ECommerce/LBS-List.md)
+        - [6.4.2.2 LiveSupport List](/3.System/20.Solutions/ECommerce/LiveSupport-List.md)
+        - [6.4.2.3 Logistics List](/3.System/20.Solutions/ECommerce/Logistics-List.md)
+        - [6.4.2.4 Mall List](/3.System/20.Solutions/ECommerce/Mall-List.md)
+        - [6.4.2.5 Mall OpenSource List](/3.System/20.Solutions/ECommerce/Mall-OpenSource-List.md)
+      - 6.4.3 ERP [3]
+        - [6.4.3.1 CRM List](/3.System/20.Solutions/ERP/CRM-List.md)
+        - [6.4.3.2 ERP List](/3.System/20.Solutions/ERP/ERP-List.md)
+        - 6.4.3.3 HCM [1]
+          - [6.4.3.3.1 HCM List](/3.System/20.Solutions/ERP/HCM/HCM-List.md)
+      - 6.4.4 II MES [3]
+        - [6.4.4.1 APS List](/3.System/20.Solutions/II-MES/APS-List.md)
+        - [6.4.4.2 MES List](/3.System/20.Solutions/II-MES/MES-List.md)
+        - [6.4.4.3 Package List](/3.System/20.Solutions/II-MES/Package-List.md)
+      - 6.4.5 IoT [1]
+        - [6.4.5.1 IoT OpenSource List](/3.System/20.Solutions/IoT/IoT-OpenSource-List.md)
+      - 6.4.6 OA [1]
+        - [6.4.6.1 OA List](/3.System/20.Solutions/OA/OA-List.md)
+      - 6.4.7 OpenPlatform [4]
+        - [6.4.7.1 Alipay List](/3.System/20.Solutions/OpenPlatform/Alipay-List.md)
+        - [6.4.7.2 OpenPlatform List](/3.System/20.Solutions/OpenPlatform/OpenPlatform-List.md)
+        - [6.4.7.3 Wechat List](/3.System/20.Solutions/OpenPlatform/Wechat-List.md)
+        - [6.4.7.4 WhatsApp List](/3.System/20.Solutions/OpenPlatform/WhatsApp-List.md)
+      - 6.4.8 Pay [2]
+        - [6.4.8.1 Pay List](/3.System/20.Solutions/Pay/Pay-List.md)
+        - [6.4.8.2 Pay OpenSource List](/3.System/20.Solutions/Pay/Pay-OpenSource-List.md)
+    - 6.5 3.Test [4]
+      - [6.5.1 PerformanceTest List](/3.System/3.Test/PerformanceTest-List.md)
+      - 6.5.2 QA [1]
+        - [6.5.2.1 QA List](/3.System/3.Test/QA/QA-List.md)
+      - [6.5.3 Test List](/3.System/3.Test/Test-List.md)
+      - [6.5.4 Test OpenSource List](/3.System/3.Test/Test-OpenSource-List.md)
+    - 6.6 30.BigTech [7]
+      - [6.6.1 Awesome Giants](/3.System/30.BigTech/Awesome-Giants.md)
+      - [6.6.2 LinkedIn List](/3.System/30.BigTech/LinkedIn-List.md)
+      - [6.6.3 Netflix List](/3.System/30.BigTech/Netflix-List.md)
+      - [6.6.4 Tencent List](/3.System/30.BigTech/Tencent-List.md)
+      - [6.6.5 XiaoMi List](/3.System/30.BigTech/XiaoMi-List.md)
+      - [6.6.6 阿里](/3.System/30.BigTech/阿里.md)
+      - [6.6.7 阿里巴巴](/3.System/30.BigTech/阿里巴巴/README.md)
         
-    - 6.5 3.DevOps [8]
-      - [6.5.1 AIOps List](/3.System/3.DevOps/AIOps-List.md)
-      - 6.5.2 Automation [1]
-        - [6.5.2.1 Automation List](/3.System/3.DevOps/Automation/Automation-List.md)
-      - 6.5.3 CD [2]
-        - [6.5.3.1 CI List](/3.System/3.DevOps/CD/CI-List.md)
-        - [6.5.3.2 Delivery List](/3.System/3.DevOps/CD/Delivery-List.md)
-      - [6.5.4 DevOps List](/3.System/3.DevOps/DevOps-List.md)
-      - [6.5.5 DevOps OpenSource List](/3.System/3.DevOps/DevOps-OpenSource-List.md)
-      - 6.5.6 DevSecOps [2]
-        - [6.5.6.1 DevSecOps List](/3.System/3.DevOps/DevSecOps/DevSecOps-List.md)
-        - [6.5.6.2 Harden List](/3.System/3.DevOps/DevSecOps/Harden-List.md)
-      - 6.5.7 LogAggregation [2]
-        - [6.5.7.1 Flume List](/3.System/3.DevOps/LogAggregation/Flume-List.md)
-        - [6.5.7.2 LogAggregation List](/3.System/3.DevOps/LogAggregation/LogAggregation-List.md)
-      - 6.5.8 MonitorAlert [5]
-        - [6.5.8.1 APM List](/3.System/3.DevOps/MonitorAlert/APM-List.md)
-        - [6.5.8.2 Aggregation List](/3.System/3.DevOps/MonitorAlert/Aggregation-List.md)
-        - [6.5.8.3 MonitorAlert List](/3.System/3.DevOps/MonitorAlert/MonitorAlert-List.md)
-        - [6.5.8.4 MonitorAlert OpenSource List](/3.System/3.DevOps/MonitorAlert/MonitorAlert-OpenSource-List.md)
-        - [6.5.8.5 Web Analytics OpenSource List](/3.System/3.DevOps/MonitorAlert/Web-Analytics-OpenSource-List.md)
-    - 6.6 4.Test [4]
-      - [6.6.1 PerformanceTest List](/3.System/4.Test/PerformanceTest-List.md)
-      - 6.6.2 QA [1]
-        - [6.6.2.1 QA List](/3.System/4.Test/QA/QA-List.md)
-      - [6.6.3 Test List](/3.System/4.Test/Test-List.md)
-      - [6.6.4 Test OpenSource List](/3.System/4.Test/Test-OpenSource-List.md)
-    - 6.7 5.InfoSecurity [9]
-      - 6.7.1 Crawler [2]
-        - [6.7.1.1 Crawler List](/3.System/5.InfoSecurity/Crawler/Crawler-List.md)
-        - [6.7.1.2 Crawler OpenSource List](/3.System/5.InfoSecurity/Crawler/Crawler-OpenSource-List.md)
-      - 6.7.2 Cryptology [2]
-        - [6.7.2.1 Codec List](/3.System/5.InfoSecurity/Cryptology/Codec-List.md)
-        - [6.7.2.2 Cryptology List](/3.System/5.InfoSecurity/Cryptology/Cryptology-List.md)
-      - [6.7.3 InfoSecurity List](/3.System/5.InfoSecurity/InfoSecurity-List.md)
-      - [6.7.4 InfoSecurity OpenSource List](/3.System/5.InfoSecurity/InfoSecurity-OpenSource-List.md)
-      - 6.7.5 OSINT [1]
-        - [6.7.5.1 OSINT List](/3.System/5.InfoSecurity/OSINT/OSINT-List.md)
-      - 6.7.6 OSSecurity [1]
-        - [6.7.6.1 OSSecurity List](/3.System/5.InfoSecurity/OSSecurity/OSSecurity-List.md)
-      - 6.7.7 ReverseEngineering [1]
-        - [6.7.7.1 ReverseEngineering List](/3.System/5.InfoSecurity/ReverseEngineering/ReverseEngineering-List.md)
-      - 6.7.8 Vulns [1]
-        - [6.7.8.1 Vulns List](/3.System/5.InfoSecurity/Vulns/Vulns-List.md)
-      - 6.7.9 WebSecurity [1]
-        - [6.7.9.1 WebSecurity List](/3.System/5.InfoSecurity/WebSecurity/WebSecurity-List.md)
-    - [6.8 System List](/3.System/System-List.md)
+    - 6.7 4.SRE [8]
+      - [6.7.1 AIOps List](/3.System/4.SRE/AIOps-List.md)
+      - 6.7.2 Automation [1]
+        - [6.7.2.1 Automation List](/3.System/4.SRE/Automation/Automation-List.md)
+      - 6.7.3 CD [2]
+        - [6.7.3.1 CI List](/3.System/4.SRE/CD/CI-List.md)
+        - [6.7.3.2 Delivery List](/3.System/4.SRE/CD/Delivery-List.md)
+      - 6.7.4 DevSecOps [2]
+        - [6.7.4.1 DevSecOps List](/3.System/4.SRE/DevSecOps/DevSecOps-List.md)
+        - [6.7.4.2 Harden List](/3.System/4.SRE/DevSecOps/Harden-List.md)
+      - 6.7.5 LogAggregation [2]
+        - [6.7.5.1 Flume List](/3.System/4.SRE/LogAggregation/Flume-List.md)
+        - [6.7.5.2 LogAggregation List](/3.System/4.SRE/LogAggregation/LogAggregation-List.md)
+      - 6.7.6 MonitorAlert [5]
+        - [6.7.6.1 APM List](/3.System/4.SRE/MonitorAlert/APM-List.md)
+        - [6.7.6.2 Aggregation List](/3.System/4.SRE/MonitorAlert/Aggregation-List.md)
+        - [6.7.6.3 MonitorAlert List](/3.System/4.SRE/MonitorAlert/MonitorAlert-List.md)
+        - [6.7.6.4 MonitorAlert OpenSource List](/3.System/4.SRE/MonitorAlert/MonitorAlert-OpenSource-List.md)
+        - [6.7.6.5 Web Analytics OpenSource List](/3.System/4.SRE/MonitorAlert/Web-Analytics-OpenSource-List.md)
+      - [6.7.7 SRE List](/3.System/4.SRE/SRE-List.md)
+      - [6.7.8 SRE OpenSource List](/3.System/4.SRE/SRE-OpenSource-List.md)
+    - 6.8 5.InfoSecurity [9]
+      - 6.8.1 Crawler [2]
+        - [6.8.1.1 Crawler List](/3.System/5.InfoSecurity/Crawler/Crawler-List.md)
+        - [6.8.1.2 Crawler OpenSource List](/3.System/5.InfoSecurity/Crawler/Crawler-OpenSource-List.md)
+      - 6.8.2 Cryptology [2]
+        - [6.8.2.1 Codec List](/3.System/5.InfoSecurity/Cryptology/Codec-List.md)
+        - [6.8.2.2 Cryptology List](/3.System/5.InfoSecurity/Cryptology/Cryptology-List.md)
+      - [6.8.3 InfoSecurity List](/3.System/5.InfoSecurity/InfoSecurity-List.md)
+      - [6.8.4 InfoSecurity OpenSource List](/3.System/5.InfoSecurity/InfoSecurity-OpenSource-List.md)
+      - 6.8.5 OSINT [1]
+        - [6.8.5.1 OSINT List](/3.System/5.InfoSecurity/OSINT/OSINT-List.md)
+      - 6.8.6 OSSecurity [1]
+        - [6.8.6.1 OSSecurity List](/3.System/5.InfoSecurity/OSSecurity/OSSecurity-List.md)
+      - 6.8.7 ReverseEngineering [1]
+        - [6.8.7.1 ReverseEngineering List](/3.System/5.InfoSecurity/ReverseEngineering/ReverseEngineering-List.md)
+      - 6.8.8 Vulns [1]
+        - [6.8.8.1 Vulns List](/3.System/5.InfoSecurity/Vulns/Vulns-List.md)
+      - 6.8.9 WebSecurity [1]
+        - [6.8.9.1 WebSecurity List](/3.System/5.InfoSecurity/WebSecurity/WebSecurity-List.md)
+    - [6.9 System List](/3.System/System-List.md)
   - 7 30.Business [4]
     - 7.1 Docs [2]
       - [7.1.1 Docs List](/30.Business/Docs/Docs-List.md)
@@ -1063,7 +1065,9 @@
         - 8.4.4.6 QuantumCompute [1]
           - [8.4.4.6.1 QuantumCompute List](/4.Infrastructure/Distributed/3.DistributedCompute/QuantumCompute/QuantumCompute-List.md)
         - 8.4.4.7 Stream [5]
-          - [8.4.4.7.1 Flink List](/4.Infrastructure/Distributed/3.DistributedCompute/Stream/Flink-List.md)
+          - 8.4.4.7.1 Flink [2]
+            - [8.4.4.7.1.1 Flink List](/4.Infrastructure/Distributed/3.DistributedCompute/Stream/Flink/Flink-List.md)
+            - [8.4.4.7.1.2 Flink OpenSource List](/4.Infrastructure/Distributed/3.DistributedCompute/Stream/Flink/Flink-OpenSource-List.md)
           - [8.4.4.7.2 Pravega List](/4.Infrastructure/Distributed/3.DistributedCompute/Stream/Pravega-List.md)
           - [8.4.4.7.3 SparkStreaming List](/4.Infrastructure/Distributed/3.DistributedCompute/Stream/SparkStreaming-List.md)
           - [8.4.4.7.4 Storm List](/4.Infrastructure/Distributed/3.DistributedCompute/Stream/Storm-List.md)
