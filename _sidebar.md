@@ -207,130 +207,130 @@
         - [2.6.4.4 Github List](/1.CS/DevFlow/Git/Github-List.md)
       - 2.6.5 OpenSource [1]
         - [2.6.5.1 OpenSource List](/1.CS/DevFlow/OpenSource/OpenSource-List.md)
-    - 2.7 Theory [7]
-      - 2.7.1 Compiler [2]
-        - [2.7.1.1 Compiler List](/1.CS/Theory/Compiler/Compiler-List.md)
-        - [2.7.1.2 Compiler OpenSource List](/1.CS/Theory/Compiler/Compiler-OpenSource-List.md)
-      - 2.7.2 MemoryManagement [2]
-        - [2.7.2.1 GarbageCollection List](/1.CS/Theory/MemoryManagement/GarbageCollection-List.md)
-        - [2.7.2.2 MemoryManagement List](/1.CS/Theory/MemoryManagement/MemoryManagement-List.md)
-      - [2.7.3 PLT List](/1.CS/Theory/PLT-List.md)
-      - [2.7.4 PLT OpenSource List](/1.CS/Theory/PLT-OpenSource-List.md)
-      - 2.7.5 StaticAnalysis [1]
-        - [2.7.5.1 StaticAnalysis List](/1.CS/Theory/StaticAnalysis/StaticAnalysis-List.md)
-      - 2.7.6 TypeTheory [1]
-        - [2.7.6.1 Type Theory List](/1.CS/Theory/TypeTheory/Type-Theory-List.md)
-      - 2.7.7 VM [1]
-        - [2.7.7.1 VM List](/1.CS/Theory/VM/VM-List.md)
-    - 2.8 Zoo [11]
-      - 2.8.1 Assembly [1]
-        - [2.8.1.1 Assembly List](/1.CS/Zoo/Assembly/Assembly-List.md)
-      - 2.8.2 C [6]
-        - [2.8.2.1 C List](/1.CS/Zoo/C/C-List.md)
-        - [2.8.2.2 CPP Compiler List](/1.CS/Zoo/C/CPP-Compiler-List.md)
-        - [2.8.2.3 CPP ConcurrentProgramming List](/1.CS/Zoo/C/CPP-ConcurrentProgramming-List.md)
-        - [2.8.2.4 CPP List](/1.CS/Zoo/C/CPP-List.md)
-        - [2.8.2.5 CPP OpenSource List](/1.CS/Zoo/C/CPP-OpenSource-List.md)
-        - [2.8.2.6 CPP Syntax List](/1.CS/Zoo/C/CPP-Syntax-List.md)
-      - 2.8.3 Go [11]
-        - [2.8.3.1 Go Architecture List](/1.CS/Zoo/Go/Go-Architecture-List.md)
-        - [2.8.3.2 Go Collection List](/1.CS/Zoo/Go/Go-Collection-List.md)
-        - [2.8.3.3 Go ConcurrentProgramming List](/1.CS/Zoo/Go/Go-ConcurrentProgramming-List.md)
-        - [2.8.3.4 Go Dev List](/1.CS/Zoo/Go/Go-Dev-List.md)
-        - [2.8.3.5 Go Internals List](/1.CS/Zoo/Go/Go-Internals-List.md)
-        - [2.8.3.6 Go List](/1.CS/Zoo/Go/Go-List.md)
-        - [2.8.3.7 Go OpenSource List](/1.CS/Zoo/Go/Go-OpenSource-List.md)
-        - [2.8.3.8 Go Syntax List](/1.CS/Zoo/Go/Go-Syntax-List.md)
-        - [2.8.3.9 Go Tuning List](/1.CS/Zoo/Go/Go-Tuning-List.md)
-        - [2.8.3.10 Go Web List](/1.CS/Zoo/Go/Go-Web-List.md)
-        - [2.8.3.11 Gopher List](/1.CS/Zoo/Go/Gopher-List.md)
-      - 2.8.4 Haskell [1]
-        - [2.8.4.1 Haskell List](/1.CS/Zoo/Haskell/Haskell-List.md)
-      - 2.8.5 Java [7]
-        - 2.8.5.1 ConcurrentProgramming [5]
-          - [2.8.5.1.1 Akka List](/1.CS/Zoo/Java/ConcurrentProgramming/Akka-List.md)
-          - [2.8.5.1.2 Java Async List](/1.CS/Zoo/Java/ConcurrentProgramming/Java-Async-List.md)
-          - [2.8.5.1.3 Java ConcurrentProgramming List](/1.CS/Zoo/Java/ConcurrentProgramming/Java-ConcurrentProgramming-List.md)
-          - [2.8.5.1.4 Java ConcurrentProgramming OpenSource List](/1.CS/Zoo/Java/ConcurrentProgramming/Java-ConcurrentProgramming-OpenSource-List.md)
-          - [2.8.5.1.5 Netty List](/1.CS/Zoo/Java/ConcurrentProgramming/Netty-List.md)
-        - 2.8.5.2 Dev [12]
-          - [2.8.5.2.1 Gradle List](/1.CS/Zoo/Java/Dev/Gradle-List.md)
-          - [2.8.5.2.2 Java Collection List](/1.CS/Zoo/Java/Dev/Java-Collection-List.md)
-          - [2.8.5.2.3 Java DataStructure List](/1.CS/Zoo/Java/Dev/Java-DataStructure-List.md)
-          - [2.8.5.2.4 Java Dev List](/1.CS/Zoo/Java/Dev/Java-Dev-List.md)
-          - [2.8.5.2.5 Java FunctionalProgramming List](/1.CS/Zoo/Java/Dev/Java-FunctionalProgramming-List.md)
-          - [2.8.5.2.6 Java Network List](/1.CS/Zoo/Java/Dev/Java-Network-List.md)
-          - [2.8.5.2.7 Java Storage List](/1.CS/Zoo/Java/Dev/Java-Storage-List.md)
-          - [2.8.5.2.8 Java Syntax List](/1.CS/Zoo/Java/Dev/Java-Syntax-List.md)
-          - [2.8.5.2.9 Java System List](/1.CS/Zoo/Java/Dev/Java-System-List.md)
-          - [2.8.5.2.10 Java Test List](/1.CS/Zoo/Java/Dev/Java-Test-List.md)
-          - [2.8.5.2.11 Java UI List](/1.CS/Zoo/Java/Dev/Java-UI-List.md)
-          - [2.8.5.2.12 Maven List](/1.CS/Zoo/Java/Dev/Maven-List.md)
-        - 2.8.5.3 Dialect [5]
-          - [2.8.5.3.1 Clojure List](/1.CS/Zoo/Java/Dialect/Clojure-List.md)
-          - [2.8.5.3.2 Clojure OpenSource List](/1.CS/Zoo/Java/Dialect/Clojure-OpenSource-List.md)
-          - [2.8.5.3.3 Groovy List](/1.CS/Zoo/Java/Dialect/Groovy-List.md)
-          - [2.8.5.3.4 Kotlin List](/1.CS/Zoo/Java/Dialect/Kotlin-List.md)
-          - [2.8.5.3.5 Scala List](/1.CS/Zoo/Java/Dialect/Scala-List.md)
-        - 2.8.5.4 JVM [6]
-          - [2.8.5.4.1 JVM Class List](/1.CS/Zoo/Java/JVM/JVM-Class-List.md)
-          - [2.8.5.4.2 JVM Compiler List](/1.CS/Zoo/Java/JVM/JVM-Compiler-List.md)
-          - [2.8.5.4.3 JVM Debug List](/1.CS/Zoo/Java/JVM/JVM-Debug-List.md)
-          - [2.8.5.4.4 JVM List](/1.CS/Zoo/Java/JVM/JVM-List.md)
-          - [2.8.5.4.5 JVM MemoryManagement List](/1.CS/Zoo/Java/JVM/JVM-MemoryManagement-List.md)
-          - [2.8.5.4.6 JVM Tuning List](/1.CS/Zoo/Java/JVM/JVM-Tuning-List.md)
-        - [2.8.5.5 Java List](/1.CS/Zoo/Java/Java-List.md)
-        - [2.8.5.6 Java OpenSource List](/1.CS/Zoo/Java/Java-OpenSource-List.md)
-        - 2.8.5.7 MicroService [11]
-          - [2.8.5.7.1 Java MicroService OpenSource List](/1.CS/Zoo/Java/MicroService/Java-MicroService-OpenSource-List.md)
-          - [2.8.5.7.2 Java Servlet List](/1.CS/Zoo/Java/MicroService/Java-Servlet-List.md)
-          - 2.8.5.7.3 Mybatis [2]
-            - [2.8.5.7.3.1 Mybatis List](/1.CS/Zoo/Java/MicroService/Mybatis/Mybatis-List.md)
-            - [2.8.5.7.3.2 Mybatis OpenSource List](/1.CS/Zoo/Java/MicroService/Mybatis/Mybatis-OpenSource-List.md)
-          - [2.8.5.7.4 Spring Internals List](/1.CS/Zoo/Java/MicroService/Spring-Internals-List.md)
-          - [2.8.5.7.5 Spring List](/1.CS/Zoo/Java/MicroService/Spring-List.md)
-          - [2.8.5.7.6 Spring OpenSource List](/1.CS/Zoo/Java/MicroService/Spring-OpenSource-List.md)
-          - [2.8.5.7.7 SpringBoot List](/1.CS/Zoo/Java/MicroService/SpringBoot-List.md)
-          - [2.8.5.7.8 SpringBoot Starter OpenSource List](/1.CS/Zoo/Java/MicroService/SpringBoot-Starter-OpenSource-List.md)
-          - [2.8.5.7.9 SpringCloud List](/1.CS/Zoo/Java/MicroService/SpringCloud-List.md)
-          - [2.8.5.7.10 SpringSecurity List](/1.CS/Zoo/Java/MicroService/SpringSecurity-List.md)
-          - [2.8.5.7.11 Tomcat List](/1.CS/Zoo/Java/MicroService/Tomcat-List.md)
-      - 2.8.6 JavaScript [11]
-        - [2.8.6.1 JavaScript Async List](/1.CS/Zoo/JavaScript/JavaScript-Async-List.md)
-        - [2.8.6.2 JavaScript Collection List](/1.CS/Zoo/JavaScript/JavaScript-Collection-List.md)
-        - [2.8.6.3 JavaScript DataStructure List](/1.CS/Zoo/JavaScript/JavaScript-DataStructure-List.md)
-        - [2.8.6.4 JavaScript Engine List](/1.CS/Zoo/JavaScript/JavaScript-Engine-List.md)
-        - [2.8.6.5 JavaScript FunctionalProgramming List](/1.CS/Zoo/JavaScript/JavaScript-FunctionalProgramming-List.md)
-        - [2.8.6.6 JavaScript List](/1.CS/Zoo/JavaScript/JavaScript-List.md)
-        - [2.8.6.7 JavaScript OpenSource List](/1.CS/Zoo/JavaScript/JavaScript-OpenSource-List.md)
-        - [2.8.6.8 JavaScript Pattern List](/1.CS/Zoo/JavaScript/JavaScript-Pattern-List.md)
-        - [2.8.6.9 JavaScript TypeSystem List](/1.CS/Zoo/JavaScript/JavaScript-TypeSystem-List.md)
-        - [2.8.6.10 TypeScript List](/1.CS/Zoo/JavaScript/TypeScript-List.md)
-        - [2.8.6.11 TypeScript OpenSource List](/1.CS/Zoo/JavaScript/TypeScript-OpenSource-List.md)
-      - 2.8.7 Lisp [1]
-        - [2.8.7.1 Lisp List](/1.CS/Zoo/Lisp/Lisp-List.md)
-      - 2.8.8 PHP [2]
-        - [2.8.8.1 PHP List](/1.CS/Zoo/PHP/PHP-List.md)
-        - [2.8.8.2 PHP OpenSource List](/1.CS/Zoo/PHP/PHP-OpenSource-List.md)
-      - 2.8.9 Python [9]
-        - [2.8.9.1 Python Concurrent List](/1.CS/Zoo/Python/Python-Concurrent-List.md)
-        - [2.8.9.2 Python DataStructure List](/1.CS/Zoo/Python/Python-DataStructure-List.md)
-        - [2.8.9.3 Python Debug List](/1.CS/Zoo/Python/Python-Debug-List.md)
-        - [2.8.9.4 Python Framework List](/1.CS/Zoo/Python/Python-Framework-List.md)
-        - [2.8.9.5 Python FunctionalProgramming List](/1.CS/Zoo/Python/Python-FunctionalProgramming-List.md)
-        - [2.8.9.6 Python List](/1.CS/Zoo/Python/Python-List.md)
-        - [2.8.9.7 Python OpenSource List](/1.CS/Zoo/Python/Python-OpenSource-List.md)
-        - [2.8.9.8 Python StyleGuide List](/1.CS/Zoo/Python/Python-StyleGuide-List.md)
-        - [2.8.9.9 Python Syntax List](/1.CS/Zoo/Python/Python-Syntax-List.md)
-      - 2.8.10 Rust [6]
-        - [2.8.10.1 Rust ConcurrentProgramming List](/1.CS/Zoo/Rust/Rust-ConcurrentProgramming-List.md)
-        - [2.8.10.2 Rust Dev List](/1.CS/Zoo/Rust/Rust-Dev-List.md)
-        - [2.8.10.3 Rust List](/1.CS/Zoo/Rust/Rust-List.md)
-        - [2.8.10.4 Rust Network List](/1.CS/Zoo/Rust/Rust-Network-List.md)
-        - [2.8.10.5 Rust OpenSource List](/1.CS/Zoo/Rust/Rust-OpenSource-List.md)
-        - [2.8.10.6 Rust Syntax List](/1.CS/Zoo/Rust/Rust-Syntax-List.md)
-      - 2.8.11 Swift [1]
-        - [2.8.11.1 Swift List](/1.CS/Zoo/Swift/Swift-List.md)
+    - 2.7 Language [11]
+      - 2.7.1 Assembly [1]
+        - [2.7.1.1 Assembly List](/1.CS/Language/Assembly/Assembly-List.md)
+      - 2.7.2 C [6]
+        - [2.7.2.1 C List](/1.CS/Language/C/C-List.md)
+        - [2.7.2.2 CPP Compiler List](/1.CS/Language/C/CPP-Compiler-List.md)
+        - [2.7.2.3 CPP ConcurrentProgramming List](/1.CS/Language/C/CPP-ConcurrentProgramming-List.md)
+        - [2.7.2.4 CPP List](/1.CS/Language/C/CPP-List.md)
+        - [2.7.2.5 CPP OpenSource List](/1.CS/Language/C/CPP-OpenSource-List.md)
+        - [2.7.2.6 CPP Syntax List](/1.CS/Language/C/CPP-Syntax-List.md)
+      - 2.7.3 Go [11]
+        - [2.7.3.1 Go Architecture List](/1.CS/Language/Go/Go-Architecture-List.md)
+        - [2.7.3.2 Go Collection List](/1.CS/Language/Go/Go-Collection-List.md)
+        - [2.7.3.3 Go ConcurrentProgramming List](/1.CS/Language/Go/Go-ConcurrentProgramming-List.md)
+        - [2.7.3.4 Go Dev List](/1.CS/Language/Go/Go-Dev-List.md)
+        - [2.7.3.5 Go Internals List](/1.CS/Language/Go/Go-Internals-List.md)
+        - [2.7.3.6 Go List](/1.CS/Language/Go/Go-List.md)
+        - [2.7.3.7 Go OpenSource List](/1.CS/Language/Go/Go-OpenSource-List.md)
+        - [2.7.3.8 Go Syntax List](/1.CS/Language/Go/Go-Syntax-List.md)
+        - [2.7.3.9 Go Tuning List](/1.CS/Language/Go/Go-Tuning-List.md)
+        - [2.7.3.10 Go Web List](/1.CS/Language/Go/Go-Web-List.md)
+        - [2.7.3.11 Gopher List](/1.CS/Language/Go/Gopher-List.md)
+      - 2.7.4 Haskell [1]
+        - [2.7.4.1 Haskell List](/1.CS/Language/Haskell/Haskell-List.md)
+      - 2.7.5 Java [7]
+        - 2.7.5.1 ConcurrentProgramming [5]
+          - [2.7.5.1.1 Akka List](/1.CS/Language/Java/ConcurrentProgramming/Akka-List.md)
+          - [2.7.5.1.2 Java Async List](/1.CS/Language/Java/ConcurrentProgramming/Java-Async-List.md)
+          - [2.7.5.1.3 Java ConcurrentProgramming List](/1.CS/Language/Java/ConcurrentProgramming/Java-ConcurrentProgramming-List.md)
+          - [2.7.5.1.4 Java ConcurrentProgramming OpenSource List](/1.CS/Language/Java/ConcurrentProgramming/Java-ConcurrentProgramming-OpenSource-List.md)
+          - [2.7.5.1.5 Netty List](/1.CS/Language/Java/ConcurrentProgramming/Netty-List.md)
+        - 2.7.5.2 Dev [12]
+          - [2.7.5.2.1 Gradle List](/1.CS/Language/Java/Dev/Gradle-List.md)
+          - [2.7.5.2.2 Java Collection List](/1.CS/Language/Java/Dev/Java-Collection-List.md)
+          - [2.7.5.2.3 Java DataStructure List](/1.CS/Language/Java/Dev/Java-DataStructure-List.md)
+          - [2.7.5.2.4 Java Dev List](/1.CS/Language/Java/Dev/Java-Dev-List.md)
+          - [2.7.5.2.5 Java FunctionalProgramming List](/1.CS/Language/Java/Dev/Java-FunctionalProgramming-List.md)
+          - [2.7.5.2.6 Java Network List](/1.CS/Language/Java/Dev/Java-Network-List.md)
+          - [2.7.5.2.7 Java Storage List](/1.CS/Language/Java/Dev/Java-Storage-List.md)
+          - [2.7.5.2.8 Java Syntax List](/1.CS/Language/Java/Dev/Java-Syntax-List.md)
+          - [2.7.5.2.9 Java System List](/1.CS/Language/Java/Dev/Java-System-List.md)
+          - [2.7.5.2.10 Java Test List](/1.CS/Language/Java/Dev/Java-Test-List.md)
+          - [2.7.5.2.11 Java UI List](/1.CS/Language/Java/Dev/Java-UI-List.md)
+          - [2.7.5.2.12 Maven List](/1.CS/Language/Java/Dev/Maven-List.md)
+        - 2.7.5.3 Dialect [5]
+          - [2.7.5.3.1 Clojure List](/1.CS/Language/Java/Dialect/Clojure-List.md)
+          - [2.7.5.3.2 Clojure OpenSource List](/1.CS/Language/Java/Dialect/Clojure-OpenSource-List.md)
+          - [2.7.5.3.3 Groovy List](/1.CS/Language/Java/Dialect/Groovy-List.md)
+          - [2.7.5.3.4 Kotlin List](/1.CS/Language/Java/Dialect/Kotlin-List.md)
+          - [2.7.5.3.5 Scala List](/1.CS/Language/Java/Dialect/Scala-List.md)
+        - 2.7.5.4 JVM [6]
+          - [2.7.5.4.1 JVM Class List](/1.CS/Language/Java/JVM/JVM-Class-List.md)
+          - [2.7.5.4.2 JVM Compiler List](/1.CS/Language/Java/JVM/JVM-Compiler-List.md)
+          - [2.7.5.4.3 JVM Debug List](/1.CS/Language/Java/JVM/JVM-Debug-List.md)
+          - [2.7.5.4.4 JVM List](/1.CS/Language/Java/JVM/JVM-List.md)
+          - [2.7.5.4.5 JVM MemoryManagement List](/1.CS/Language/Java/JVM/JVM-MemoryManagement-List.md)
+          - [2.7.5.4.6 JVM Tuning List](/1.CS/Language/Java/JVM/JVM-Tuning-List.md)
+        - [2.7.5.5 Java List](/1.CS/Language/Java/Java-List.md)
+        - [2.7.5.6 Java OpenSource List](/1.CS/Language/Java/Java-OpenSource-List.md)
+        - 2.7.5.7 MicroService [11]
+          - [2.7.5.7.1 Java MicroService OpenSource List](/1.CS/Language/Java/MicroService/Java-MicroService-OpenSource-List.md)
+          - [2.7.5.7.2 Java Servlet List](/1.CS/Language/Java/MicroService/Java-Servlet-List.md)
+          - 2.7.5.7.3 Mybatis [2]
+            - [2.7.5.7.3.1 Mybatis List](/1.CS/Language/Java/MicroService/Mybatis/Mybatis-List.md)
+            - [2.7.5.7.3.2 Mybatis OpenSource List](/1.CS/Language/Java/MicroService/Mybatis/Mybatis-OpenSource-List.md)
+          - [2.7.5.7.4 Spring Internals List](/1.CS/Language/Java/MicroService/Spring-Internals-List.md)
+          - [2.7.5.7.5 Spring List](/1.CS/Language/Java/MicroService/Spring-List.md)
+          - [2.7.5.7.6 Spring OpenSource List](/1.CS/Language/Java/MicroService/Spring-OpenSource-List.md)
+          - [2.7.5.7.7 SpringBoot List](/1.CS/Language/Java/MicroService/SpringBoot-List.md)
+          - [2.7.5.7.8 SpringBoot Starter OpenSource List](/1.CS/Language/Java/MicroService/SpringBoot-Starter-OpenSource-List.md)
+          - [2.7.5.7.9 SpringCloud List](/1.CS/Language/Java/MicroService/SpringCloud-List.md)
+          - [2.7.5.7.10 SpringSecurity List](/1.CS/Language/Java/MicroService/SpringSecurity-List.md)
+          - [2.7.5.7.11 Tomcat List](/1.CS/Language/Java/MicroService/Tomcat-List.md)
+      - 2.7.6 JavaScript [11]
+        - [2.7.6.1 JavaScript Async List](/1.CS/Language/JavaScript/JavaScript-Async-List.md)
+        - [2.7.6.2 JavaScript Collection List](/1.CS/Language/JavaScript/JavaScript-Collection-List.md)
+        - [2.7.6.3 JavaScript DataStructure List](/1.CS/Language/JavaScript/JavaScript-DataStructure-List.md)
+        - [2.7.6.4 JavaScript Engine List](/1.CS/Language/JavaScript/JavaScript-Engine-List.md)
+        - [2.7.6.5 JavaScript FunctionalProgramming List](/1.CS/Language/JavaScript/JavaScript-FunctionalProgramming-List.md)
+        - [2.7.6.6 JavaScript List](/1.CS/Language/JavaScript/JavaScript-List.md)
+        - [2.7.6.7 JavaScript OpenSource List](/1.CS/Language/JavaScript/JavaScript-OpenSource-List.md)
+        - [2.7.6.8 JavaScript Pattern List](/1.CS/Language/JavaScript/JavaScript-Pattern-List.md)
+        - [2.7.6.9 JavaScript TypeSystem List](/1.CS/Language/JavaScript/JavaScript-TypeSystem-List.md)
+        - [2.7.6.10 TypeScript List](/1.CS/Language/JavaScript/TypeScript-List.md)
+        - [2.7.6.11 TypeScript OpenSource List](/1.CS/Language/JavaScript/TypeScript-OpenSource-List.md)
+      - 2.7.7 Lisp [1]
+        - [2.7.7.1 Lisp List](/1.CS/Language/Lisp/Lisp-List.md)
+      - 2.7.8 PHP [2]
+        - [2.7.8.1 PHP List](/1.CS/Language/PHP/PHP-List.md)
+        - [2.7.8.2 PHP OpenSource List](/1.CS/Language/PHP/PHP-OpenSource-List.md)
+      - 2.7.9 Python [9]
+        - [2.7.9.1 Python Concurrent List](/1.CS/Language/Python/Python-Concurrent-List.md)
+        - [2.7.9.2 Python DataStructure List](/1.CS/Language/Python/Python-DataStructure-List.md)
+        - [2.7.9.3 Python Debug List](/1.CS/Language/Python/Python-Debug-List.md)
+        - [2.7.9.4 Python Framework List](/1.CS/Language/Python/Python-Framework-List.md)
+        - [2.7.9.5 Python FunctionalProgramming List](/1.CS/Language/Python/Python-FunctionalProgramming-List.md)
+        - [2.7.9.6 Python List](/1.CS/Language/Python/Python-List.md)
+        - [2.7.9.7 Python OpenSource List](/1.CS/Language/Python/Python-OpenSource-List.md)
+        - [2.7.9.8 Python StyleGuide List](/1.CS/Language/Python/Python-StyleGuide-List.md)
+        - [2.7.9.9 Python Syntax List](/1.CS/Language/Python/Python-Syntax-List.md)
+      - 2.7.10 Rust [6]
+        - [2.7.10.1 Rust ConcurrentProgramming List](/1.CS/Language/Rust/Rust-ConcurrentProgramming-List.md)
+        - [2.7.10.2 Rust Dev List](/1.CS/Language/Rust/Rust-Dev-List.md)
+        - [2.7.10.3 Rust List](/1.CS/Language/Rust/Rust-List.md)
+        - [2.7.10.4 Rust Network List](/1.CS/Language/Rust/Rust-Network-List.md)
+        - [2.7.10.5 Rust OpenSource List](/1.CS/Language/Rust/Rust-OpenSource-List.md)
+        - [2.7.10.6 Rust Syntax List](/1.CS/Language/Rust/Rust-Syntax-List.md)
+      - 2.7.11 Swift [1]
+        - [2.7.11.1 Swift List](/1.CS/Language/Swift/Swift-List.md)
+    - 2.8 Theory [7]
+      - 2.8.1 Compiler [2]
+        - [2.8.1.1 Compiler List](/1.CS/Theory/Compiler/Compiler-List.md)
+        - [2.8.1.2 Compiler OpenSource List](/1.CS/Theory/Compiler/Compiler-OpenSource-List.md)
+      - 2.8.2 MemoryManagement [2]
+        - [2.8.2.1 GarbageCollection List](/1.CS/Theory/MemoryManagement/GarbageCollection-List.md)
+        - [2.8.2.2 MemoryManagement List](/1.CS/Theory/MemoryManagement/MemoryManagement-List.md)
+      - [2.8.3 PLT List](/1.CS/Theory/PLT-List.md)
+      - [2.8.4 PLT OpenSource List](/1.CS/Theory/PLT-OpenSource-List.md)
+      - 2.8.5 StaticAnalysis [1]
+        - [2.8.5.1 StaticAnalysis List](/1.CS/Theory/StaticAnalysis/StaticAnalysis-List.md)
+      - 2.8.6 TypeTheory [1]
+        - [2.8.6.1 Type Theory List](/1.CS/Theory/TypeTheory/Type-Theory-List.md)
+      - 2.8.7 VM [1]
+        - [2.8.7.1 VM List](/1.CS/Theory/VM/VM-List.md)
   - 3 10.AI [14]
     - [3.1 AI Book List](/10.AI/AI-Book-List.md)
     - [3.2 AI Course List](/10.AI/AI-Course-List.md)

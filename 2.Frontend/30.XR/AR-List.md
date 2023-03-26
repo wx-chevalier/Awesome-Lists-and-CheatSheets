@@ -4,7 +4,7 @@
 
 - [Web 前端中的增强现实(AR)开发技术](https://parg.co/UvW): 本文力求把目前前端方向的 AR 技术都罗列一遍，细节不赘述。
 
-- [AlgoWiki #Collection#](https://github.com/vicky002/AlgoWiki): Repository which contains links and resources on different topics of Computer Science. Join us
+- [AlgoWiki 🗃️](https://github.com/vicky002/AlgoWiki): Repository which contains links and resources on different topics of Computer Science. Join us
 
 - [2017-Quora-500 Data Structures and Algorithms practice problems and their solutions](https://parg.co/UGW)
 
