@@ -13,3 +13,5 @@
 - [2023-EdgeGPT ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/acheong08/EdgeGPT)](https://github.com/acheong08/EdgeGPT): The reverse engineering the chat feature of the new version of Bing.
 
 - [2023-Chatblade ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/npiv/chatblade)](https://github.com/npiv/chatblade): Chatblade is a versatile command-line interface (CLI) tool designed to interact with OpenAI's ChatGPT. It accepts piped input, arguments, or both, and allows you to save common prompt preambles for quick usage. Additionally, Chatblade provides utility methods to extract JSON or Markdown from ChatGPT responses.
+
+- [2023-BlenderGPT ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gd3kr/BlenderGPT)](https://github.com/gd3kr/BlenderGPT): This extension allows you to use Blender with natural language commands using OpenAI's GPT-4
