@@ -39,3 +39,5 @@
 - [2023-LianjiaTech/BELLE ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/LianjiaTech/BELLE)](https://github.com/LianjiaTech/BELLE): 本项目基于 Stanford Alpaca ，Stanford Alpaca 的目标是构建和开源一个基于 LLaMA 的模型。 Stanford Alpaca 的种子任务都是英语，收集的数据也都是英文，因此训练出来的模型未对中文优化。
 
 - [2023-Chinese-alpaca-lora ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/LC1332/Chinese-alpaca-lora)](https://github.com/LC1332/Chinese-alpaca-lora): CamelBell(驼铃), tuning Chinese Data on Chinese based model GLM is now an individual repo. We may move original Luotuo into a new repo also.
+
+- [2023-databrickslabs/dolly ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/databrickslabs/dolly)](https://github.com/databrickslabs/dolly): This fine-tunes the GPT-J 6B model on the Alpaca dataset using a Databricks notebook. Please note that while GPT-J 6B is Apache 2.0 licensed, the Alpaca dataset is licensed under Creative Commons NonCommercial (CC BY-NC 4.0).

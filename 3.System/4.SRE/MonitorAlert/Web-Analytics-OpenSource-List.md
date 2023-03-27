@@ -16,4 +16,6 @@
 
 - [2021-rrweb ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/rrweb-io/rrweb)](https://github.com/rrweb-io/rrweb): rrweb refers to 'record and replay the web', which is a tool for recording and replaying users' interactions on the web.
 
+- [2021-OpenReplay ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/openreplay/openreplay)](https://github.com/openreplay/openreplay): OpenReplay is a session replay suite you can host yourself, that lets you see what users do on your web app, helping you troubleshoot issues faster. It's the only open-source alternative to products such as FullStory and LogRocket.
+
 - [2023-highlight ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/highlight/highlight)](https://github.com/highlight/highlight): highlight.io is a monitoring tool for the next generation of developers (like you!). Unlike the age-old, outdated tools out there, we aim to build a cohesive, modern and fully-featured monitoring solution, something we wished WE had. And it's all open source :)

@@ -32,6 +32,9 @@
 
 - [2016-Think in Java 📚](https://parg.co/b7t): Thinking In Java should be read cover to cover by every Java programmer, then kept close at hand for frequent reference. The exercises are challenging, and the chapter on Collections is superb!
 
+- [2017-Effective Java 📚](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997): Since this Jolt-award winning classic was last updated in 2008, the Java programming environment has changed dramatically. Java 7 and Java 8 introduced new features and functions including, forEach() method in Iterable interface, default and static methods in Interfaces, Functional Interfaces and Lambda Expressions, Java Stream API for Bulk Data Operations on Collections, Java Time API, Collection API improvements, Concurrency API improvements, and Java IO improvements.
+  - [Effective-Java-3rd-edition-Chinese-English-bilingual 📚](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual): Effective Java（第 3 版）各章节的中英文学习参考，希望对 Java 技术的提高有所帮助，欢迎通过 issue 或 pr 提出建议和修改意见。
+
 ### Concurrent
 
 - [2011-Java Concurrency In Practice 📚](https://parg.co/UVQ):Our goal is to give readers a set of design rules and mental models that make it easier and more fun to build correct, performant concurrent classes and applications in Java.
