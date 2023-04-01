@@ -6,14 +6,6 @@
 
 - [2018-如何设计一个大规模远程命令执行系统](https://mp.weixin.qq.com/s?__biz=MzUyMzA3MTY1NA==&mid=2247484177&idx=1&sn=570d6025960f668c315b45f11af8ef5b): 简单介绍了百度集群控制系统（Cluster Control System，以下简称 CCS 系统）通过构建两级数据模型、四级调度模型、三级代理执行的方式解决了这些问题，在本篇文章中，我们将续接前文，继续对 CCS 系统的设计实现进行详细剖析。
 
-# Ansibe
+# Deploy Tools
 
-- [Ansible Official Documents](http://docs.ansible.com/ansible/latest/intro_installation.html)
-
-# Chef
-
-# Puppet
-
-# [Terraform](https://www.terraform.io/)
-
-- [2018-Terraforming 1Password](https://blog.agilebits.com/2018/01/25/terraforming-1password/): This post will go into technical details and I apologize in advance if I explain things too quickly.
+- [2023-MRSK ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mrsked/mrsk)](https://github.com/mrsked/mrsk): MRSK deploys web apps anywhere from bare metal to cloud VMs using Docker with zero downtime. It uses the dynamic reverse-proxy Traefik to hold requests while the new application container is started and the old one is stopped. It works seamlessly across multiple hosts, using SSHKit to execute commands. It was built for Rails applications, but works with any type of web app that can be containerized with Docker.

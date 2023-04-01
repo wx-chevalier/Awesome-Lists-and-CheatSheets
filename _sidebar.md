@@ -175,7 +175,9 @@
       - 2.1.9 Optimization [3]
         - [2.1.9.1 DP List](/1.CS/AlgoDS/Optimization/DP-List.md)
         - [2.1.9.2 GA List](/1.CS/AlgoDS/Optimization/GA-List.md)
-        - [2.1.9.3 Search List](/1.CS/AlgoDS/Optimization/Search-List.md)
+        - 2.1.9.3 Search [2]
+          - [2.1.9.3.1 Search List](/1.CS/AlgoDS/Optimization/Search/Search-List.md)
+          - [2.1.9.3.2 Vector Search List](/1.CS/AlgoDS/Optimization/Search/Vector-Search-List.md)
       - [2.1.10 Sort List](/1.CS/AlgoDS/Sort-List.md)
       - [2.1.11 String List](/1.CS/AlgoDS/String-List.md)
       - [2.1.12 Tree List](/1.CS/AlgoDS/Tree-List.md)
@@ -431,7 +433,7 @@
         - [3.12.2.2 InformationRetrieval List](/10.AI/NLP/InformationExtraction/InformationRetrieval-List.md)
       - 3.12.3 KnowledgeGraph [1]
         - [3.12.3.1 KnowledgeGraph List](/10.AI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
-      - 3.12.4 LLM [3]
+      - 3.12.4 LLM [4]
         - 3.12.4.1 CodeGeneration [1]
           - [3.12.4.1.1 CodeGeneration OpenSource List](/10.AI/NLP/LLM/CodeGeneration/CodeGeneration-OpenSource-List.md)
         - 3.12.4.2 GPT [4]
@@ -440,6 +442,8 @@
           - [3.12.4.2.3 OpenAI List](/10.AI/NLP/LLM/GPT/OpenAI-List.md)
           - [3.12.4.2.4 Prompt List](/10.AI/NLP/LLM/GPT/Prompt-List.md)
         - [3.12.4.3 LLM List](/10.AI/NLP/LLM/LLM-List.md)
+        - 3.12.4.4 LLaMA [1]
+          - [3.12.4.4.1 LLaMA List](/10.AI/NLP/LLM/LLaMA/LLaMA-List.md)
       - [3.12.5 NLP List](/10.AI/NLP/NLP-List.md)
       - [3.12.6 NLP OpenSource List](/10.AI/NLP/NLP-OpenSource-List.md)
       - 3.12.7 SyntaxSemanticAnalysis [2]
@@ -840,8 +844,12 @@
         
     - 6.7 4.SRE [8]
       - [6.7.1 AIOps List](/3.System/4.SRE/AIOps-List.md)
-      - 6.7.2 Automation [1]
-        - [6.7.2.1 Automation List](/3.System/4.SRE/Automation/Automation-List.md)
+      - 6.7.2 Automation [5]
+        - [6.7.2.1 Ansibe List](/3.System/4.SRE/Automation/Ansibe-List.md)
+        - [6.7.2.2 Automation List](/3.System/4.SRE/Automation/Automation-List.md)
+        - [6.7.2.3 Chef List](/3.System/4.SRE/Automation/Chef-List.md)
+        - [6.7.2.4 Puppet List](/3.System/4.SRE/Automation/Puppet-List.md)
+        - [6.7.2.5 Terraform](/3.System/4.SRE/Automation/Terraform.md)
       - 6.7.3 CD [2]
         - [6.7.3.1 CI List](/3.System/4.SRE/CD/CI-List.md)
         - [6.7.3.2 Delivery List](/3.System/4.SRE/CD/Delivery-List.md)

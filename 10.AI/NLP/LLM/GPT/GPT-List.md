@@ -14,6 +14,8 @@
 
 - [2023-picoGPT ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jaymody/picoGPT)](https://github.com/jaymody/picoGPT): An unnecessarily tiny and minimal implementation of GPT-2 in NumPy.
 
+- [2023-Vicuna ![code](https://ng-tech.icu/assets/code.svg)](https://vicuna.lmsys.org/): An Open-Source Chatbot Impressing GPT-4 with 90%\* ChatGPT Quality
+
 # Links
 
 - [Bootstrap knowledge of LLMs ASAP. With a bias/focus to GPT.](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d)

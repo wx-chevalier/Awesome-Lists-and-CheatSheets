@@ -10,6 +10,8 @@
 
 - [2021-Zencad ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/https://github.com/mirmik/zencad)](https://github.com/https://github.com/mirmik/zencad): ZenCad - it's a system for use oce geometry core in openscad's script style. So, it's openscad idea, python language and opencascade power in one.
 
+- [2021-cadseer ![code](https://ng-tech.icu/assets/code.svg)](https://gitlab.com/blobfish/cadseer): A parametric solid modeler.
+
 - [2021-Truck ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ricosjp/truck)](https://github.com/ricosjp/truck): Truck is an open-source shape processing kernel by Rust.
 
 - [2022-Zeno ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/zenustech/zeno)](https://github.com/zenustech/zeno): Open-source node system framework, to change your algorithmic code into useful tools to create much more complicated simulations!
