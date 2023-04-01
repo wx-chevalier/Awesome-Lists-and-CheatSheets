@@ -434,10 +434,11 @@
       - 3.12.4 LLM [3]
         - 3.12.4.1 CodeGeneration [1]
           - [3.12.4.1.1 CodeGeneration OpenSource List](/10.AI/NLP/LLM/CodeGeneration/CodeGeneration-OpenSource-List.md)
-        - 3.12.4.2 GPT [3]
+        - 3.12.4.2 GPT [4]
           - [3.12.4.2.1 ChatGPT List](/10.AI/NLP/LLM/GPT/ChatGPT-List.md)
           - [3.12.4.2.2 GPT List](/10.AI/NLP/LLM/GPT/GPT-List.md)
-          - [3.12.4.2.3 Prompt List](/10.AI/NLP/LLM/GPT/Prompt-List.md)
+          - [3.12.4.2.3 OpenAI List](/10.AI/NLP/LLM/GPT/OpenAI-List.md)
+          - [3.12.4.2.4 Prompt List](/10.AI/NLP/LLM/GPT/Prompt-List.md)
         - [3.12.4.3 LLM List](/10.AI/NLP/LLM/LLM-List.md)
       - [3.12.5 NLP List](/10.AI/NLP/NLP-List.md)
       - [3.12.6 NLP OpenSource List](/10.AI/NLP/NLP-OpenSource-List.md)
