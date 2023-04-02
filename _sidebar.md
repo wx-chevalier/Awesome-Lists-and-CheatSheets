@@ -418,7 +418,7 @@
         - 3.11.3.7 VariationalInference [1]
           - [3.11.3.7.1 VariationalInference List](/10.AI/MachineLearning/Inference/VariationalInference/VariationalInference-List.md)
       - [3.11.4 MachineLearning List](/10.AI/MachineLearning/MachineLearning-List.md)
-    - 3.12 NLP [7]
+    - 3.12 NLP [8]
       - 3.12.1 High level Tasks [3]
         - 3.12.1.1 DialogueSystem [3]
           - [3.12.1.1.1 ASR List](/10.AI/NLP/High-level%20Tasks/DialogueSystem/ASR-List.md)
@@ -452,6 +452,8 @@
           - [3.12.7.1.2 StatisticalLanguageModel List](/10.AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/StatisticalLanguageModel-List.md)
           - [3.12.7.1.3 TopicModel List](/10.AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/TopicModel-List.md)
         - [3.12.7.2 SyntaxSemanticAnalysis List](/10.AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
+      - 3.12.8 Transformer [1]
+        - [3.12.8.1 Transformer List](/10.AI/NLP/Transformer/Transformer-List.md)
     - 3.13 Statistics [4]
       - [3.13.1 LinearAlgebra List](/10.AI/Statistics/LinearAlgebra-List.md)
       - [3.13.2 Mathematics List](/10.AI/Statistics/Mathematics-List.md)

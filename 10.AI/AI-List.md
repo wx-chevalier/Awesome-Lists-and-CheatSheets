@@ -42,6 +42,8 @@
 
 - [learning 🗃️](https://github.com/amitness/learning): Becoming better at data science every day
 
+- [2021-Jack-Cherish/PythonPark 🗃️ ![star](https://img.shields.io/github/stars/Jack-Cherish/PythonPark)](https://github.com/Jack-Cherish/PythonPark): 这里是学习 Python 的乐园，保姆级教程：AI 实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、Python 基础、网络爬虫、大厂面经、程序人生、资源分享。我会逐渐完善它，持续输出中！
+
 ## History | 历史
 
 - [2019-人工智能 60 年技术简史](https://mp.weixin.qq.com/s/SxdV0xVBBFyWIEwUfJnr4Q): 关于人工智能有很多的定义，它本身就是很多学科的交叉融合，不同的人关注它的不同方面，因此很难给出一个大家都认可的一个定义。我们下面通过时间的脉络来了解 AI 的反正过程。
