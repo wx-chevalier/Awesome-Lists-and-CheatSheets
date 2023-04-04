@@ -74,16 +74,6 @@
 
 - [2019-Jupytext ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mwouts/jupytext): Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts.
 
-# Model
-
-- [ModelScope ![code](https://ng-tech.icu/assets/code.svg)](https://modelscope.cn/home): ModelScope 旨在打造下一代开源的模型即服务共享平台，为泛 AI 开发者提供灵活、易用、低成本的一站式模型服务产品，让模型应用更简单！
-
-- [FastDeploy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/PaddlePaddle/FastDeploy): ⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for Cloud and Edge. Including Vision, Text, Audio and Video 20+ main stream scenarios and 150+ SOTA models with end-to-end optimization and multi-platform multi-framework support.
-
-## Model Implementations
-
-- [labml.ai Deep Learning Paper Implementations ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/labmlai/annotated_deep_learning_paper_implementations): 🧑‍🎥 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
-
 ## Pretrained Models
 
 - [2019-Deep Learning Models 🗃️ ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rasbt/deeplearning-models): A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.

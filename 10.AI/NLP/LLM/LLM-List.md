@@ -12,7 +12,11 @@
 
   - [LangFlow ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/logspace-ai/langflow)](https://github.com/logspace-ai/langflow): ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 
+## Finetuning & Inference
+
 - [2023-xturing ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/stochasticai/xturing)](https://github.com/stochasticai/xturing): xturing provides fast, efficient and simple fine-tuning of LLMs, such as LLaMA, GPT-J, GPT-2, OPT, Cerebras-GPT, Galactica, and more. By providing an easy-to-use interface for personalizing LLMs to your own data and application, xTuring makes it simple to build and control LLMs. The entire process can be done inside your computer or in your private cloud, ensuring data privacy and security.
+
+- [2023-LMFlow ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/OptimalScale/LMFlow)](https://github.com/OptimalScale/LMFlow): An extensible, convenient, and efficient toolbox for finetuning large machine learning models, designed to be user-friendly, speedy and reliable, and accessible to the entire community.
 
 ## ChatGLM
 
