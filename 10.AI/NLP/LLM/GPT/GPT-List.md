@@ -14,7 +14,8 @@
 
 - [2023-picoGPT ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jaymody/picoGPT)](https://github.com/jaymody/picoGPT): An unnecessarily tiny and minimal implementation of GPT-2 in NumPy.
 
-- [2023-Vicuna ![code](https://ng-tech.icu/assets/code.svg)](https://vicuna.lmsys.org/): An Open-Source Chatbot Impressing GPT-4 with 90%\* ChatGPT Quality
+- [2023-Vicuna ![code](https://ng-tech.icu/assets/code.svg)](https://vicuna.lmsys.org/): An Open-Source Chatbot Impressing GPT-4 with 90%\* ChatGPT Quality.
+  - [2023-FastChat ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lm-sys/FastChat)](https://github.com/lm-sys/FastChat): An open platform for training, serving, and evaluating large language model based chatbots.
 
 # Links
 

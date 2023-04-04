@@ -282,6 +282,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [PoisonTap ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/samyk/poisontap)
 
+- [2018-kbd-audio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ggerganov/kbd-audio)](https://github.com/ggerganov/kbd-audio): This is a collection of command-line and GUI tools for capturing and analyzing audio data.
+
 # Reverse Engineering | 逆向与破解
 
 - [rizin ![code](https://ng-tech.icu/assets/code.svg)](https://rizin.re/): Free and Open Source Reverse Engineering Framework.

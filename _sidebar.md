@@ -163,24 +163,25 @@
       - [1.5.7 TEMPLATE](/0.Specials/Weekly/TEMPLATE.md)
       - [1.5.8 Template en](/0.Specials/Weekly/Template-en.md)
   - 2 1.CS [8]
-    - 2.1 AlgoDS [12]
+    - 2.1 AlgoDS [13]
       - [2.1.1 AlgoDS List](/1.CS/AlgoDS/AlgoDS-List.md)
       - [2.1.2 Compression List](/1.CS/AlgoDS/Compression-List.md)
       - [2.1.3 GameTheory List](/1.CS/AlgoDS/GameTheory-List.md)
       - [2.1.4 Graph List](/1.CS/AlgoDS/Graph-List.md)
       - [2.1.5 Hash List](/1.CS/AlgoDS/Hash-List.md)
       - [2.1.6 Index List](/1.CS/AlgoDS/Index-List.md)
-      - [2.1.7 LinearList List](/1.CS/AlgoDS/LinearList-List.md)
-      - [2.1.8 NumberTheory List](/1.CS/AlgoDS/NumberTheory-List.md)
-      - 2.1.9 Optimization [3]
-        - [2.1.9.1 DP List](/1.CS/AlgoDS/Optimization/DP-List.md)
-        - [2.1.9.2 GA List](/1.CS/AlgoDS/Optimization/GA-List.md)
-        - 2.1.9.3 Search [2]
-          - [2.1.9.3.1 Search List](/1.CS/AlgoDS/Optimization/Search/Search-List.md)
-          - [2.1.9.3.2 Vector Search List](/1.CS/AlgoDS/Optimization/Search/Vector-Search-List.md)
-      - [2.1.10 Sort List](/1.CS/AlgoDS/Sort-List.md)
-      - [2.1.11 String List](/1.CS/AlgoDS/String-List.md)
-      - [2.1.12 Tree List](/1.CS/AlgoDS/Tree-List.md)
+      - [2.1.7 LeetCode List](/1.CS/AlgoDS/LeetCode-List.md)
+      - [2.1.8 LinearList List](/1.CS/AlgoDS/LinearList-List.md)
+      - [2.1.9 NumberTheory List](/1.CS/AlgoDS/NumberTheory-List.md)
+      - 2.1.10 Optimization [3]
+        - [2.1.10.1 DP List](/1.CS/AlgoDS/Optimization/DP-List.md)
+        - [2.1.10.2 GA List](/1.CS/AlgoDS/Optimization/GA-List.md)
+        - 2.1.10.3 Search [2]
+          - [2.1.10.3.1 Search List](/1.CS/AlgoDS/Optimization/Search/Search-List.md)
+          - [2.1.10.3.2 Vector Search List](/1.CS/AlgoDS/Optimization/Search/Vector-Search-List.md)
+      - [2.1.11 Sort List](/1.CS/AlgoDS/Sort-List.md)
+      - [2.1.12 String List](/1.CS/AlgoDS/String-List.md)
+      - [2.1.13 Tree List](/1.CS/AlgoDS/Tree-List.md)
     - [2.2 CS List](/1.CS/CS-List.md)
     - 2.3 CodeStyle [3]
       - [2.3.1 CleanCode List](/1.CS/CodeStyle/CleanCode-List.md)

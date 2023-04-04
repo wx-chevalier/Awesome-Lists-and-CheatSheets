@@ -19,3 +19,5 @@
 - [Balloon.css](http://kazzkiq.github.io/balloon.css/)
 
 - [Popper.js](https://github.com/FezVrasta/popper.js)
+
+- [2022-Floating UI ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/floating-ui/floating-ui)](https://github.com/floating-ui/floating-ui): Floating UI is a small library that helps you create "floating" elements such as tooltips, popovers, dropdowns, and more.

@@ -36,6 +36,9 @@
 
 - [2019-threadandjuc ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/qiurunze123/threadandjuc)](https://github.com/qiurunze123/threadandjuc): ⭐⭐⭐⭐ 高并发-高可靠-高性能 three-high-import 导入系统-高并发多线程进阶
 
+- [2019-CL0610/Java-concurrency ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CL0610/Java-concurrency)](https://github.com/CL0610/Java-concurrency):
+  整个系列文章为 Java 并发专题，一是自己的兴趣，二是，这部分在实际理解上很有难度，另外在面试过程中也是经常被问到。所以在学习过程中，记录了 Java 并发相关的基础知识，一是自己对知识能够建立体系，同时也希望有幸能够对其他人有用。
+
 ## Series
 
 - [死磕 Java 并发系列 #Series#](http://cmsblogs.com/?author=1)：[J.U.C 之 AQS：CLH 同步队列](http://cmsblogs.com/?p=2188)、[J.U.C 之 AQS：AQS 简介](http://cmsblogs.com/?p=2174)、[Java 内存模型之总结](http://cmsblogs.com/?p=2167)、[Java 内存模型之从 JMM 角度分析 DCL](http://cmsblogs.com/?p=2161)、[Java 内存模型之分析 volatile](http://cmsblogs.com/?p=2148)、[死磕 Java 系列博客](http://cmsblogs.com/?p=2122)、[Java 内存模型之重排序](http://cmsblogs.com/?p=2116)、[ Java 内存模型之 happens-before](http://cmsblogs.com/?p=2102)

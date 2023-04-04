@@ -60,22 +60,6 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [Algorithm Visualizer ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/algorithm-visualizer/algorithm-visualizer): Interactive Online Platform that Visualizes Algorithms from Code.
 
-### Leetcode
-
-- [2018-LeetCode All in One 讲解汇总](http://www.goodtecher.com/zh/leetcode%E8%AE%B2%E8%A7%A3%E6%B1%87%E6%80%BB/): 大家好，这里是 GoodTecher LeetCode 题目讲解汇总表。
-
-- [LeetCodeAnimation ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/MisterBooo/LeetCodeAnimation): Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解 LeetCode 题目的思路）
-
-- [Python & Java Solutions for Leetcode (inspired by haoel's leetcode)](https://github.com/qiyuangong/leetcode)
-
-- [LeetCode Algorithm in C++](https://github.com/haoel/leetcode)
-
-- [fucking-algorithm ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/labuladong/fucking-algorithm): 手把手撕 LeetCode 题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
-
-- [2021-doocs/leetcode ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/doocs/leetcode): 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-
-- [2021-LeetCode 刷题攻略 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/youngyangyang04/leetcode-master): LeetCode 刷题攻略：200 道题目详细刷题顺序，共 60w 字的详细图解，视频难点剖析，50 余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-
 ## Course | 课程
 
 # C++
