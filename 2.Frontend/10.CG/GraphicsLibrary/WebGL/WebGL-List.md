@@ -18,7 +18,7 @@
 
 ## Book
 
-- [2018-WebGL Fundamentals 📚](https://webglfundamentals.org/webgl/lessons/zh_cn/): 这有一系列教程，从 WebGL 的基本理论讲起。 它们不像大多数其他教程那样改编自旧的 OpenGL 文章。 它们去旧迎新，丢弃一些过时的思想，让你彻底了解 WebGL 的工作原理。
+- [2018-WebGL Fundamentals 📚](https://webglfundamentals.org/webgl/lessons/zh_cn/): 这有一系列教程，从 WebGL 的基本理论讲起。它们不像大多数其他教程那样改编自旧的 OpenGL 文章。它们去旧迎新，丢弃一些过时的思想，让你彻底了解 WebGL 的工作原理。
 
 - [2022-WebGL2 Fundamentals 📚](https://webgl2fundamentals.org/webgl/lessons/webgl-fundamentals.html): WebGL is often thought of as a 3D API. People think "I'll use WebGL and magic I'll get cool 3d". In reality WebGL is just a rasterization engine. It draws points, lines, and triangles based on code you supply. Getting WebGL to do anything else is up to you to provide code to use points, lines, and triangles to accomplish your task.
 

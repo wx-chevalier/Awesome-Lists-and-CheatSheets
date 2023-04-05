@@ -90,7 +90,7 @@
 
 - [《使用 create-graphql-server 快速搭建 GraphQL 服务器》](https://parg.co/bfQ)：本文介绍了如何用几个简单的命令快速搭建 GraphQL 服务器，其使用 Node.js 作为应用后端、Mongodb 作为数据存储。( https://parg.co/bfQ )
 
-- [《Caporal.js》](https://github.com/mattallty/Caporal.js)：特性全面的可用于创建 Node.js 命令行工具的框架，包括了帮助信息生成、自动补全等。 ( https://github.com/mattallty/Caporal.js )
+- [《Caporal.js》](https://github.com/mattallty/Caporal.js)：特性全面的可用于创建 Node.js 命令行工具的框架，包括了帮助信息生成、自动补全等。( https://github.com/mattallty/Caporal.js )
 
 # 延伸阅读
 

@@ -54,7 +54,7 @@
 
 - [GoPlus ![code](https://ng-tech.icu/assets/code.svg)](https://www.oschina.net/p/goplus): GoPlus（Go+）是一门静态类型语言，与 Go 语言完全兼容。其代码样式类似脚本，并且比 Go 更具可读性，专门用于数据科学。
 
-- [IOC-golang ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alibaba/IOC-golang): 一款服务于 Go 开发者的依赖注入框架，方便搭建任何 Go 应用。 A Golang depenedency injection framework, helps developers to build any go application.
+- [IOC-golang ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alibaba/IOC-golang): 一款服务于 Go 开发者的依赖注入框架，方便搭建任何 Go 应用。A Golang depenedency injection framework, helps developers to build any go application.
 
 - [lensm ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/loov/lensm): A tool for viewing assembly and source.
 

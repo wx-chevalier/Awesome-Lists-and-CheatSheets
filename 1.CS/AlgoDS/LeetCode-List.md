@@ -16,7 +16,7 @@
 
 - [2021-MisterBooo/LeetCodeAnimation ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/MisterBooo/LeetCodeAnimation)](https://github.com/MisterBooo/LeetCodeAnimation): Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解 LeetCode 题目的思路）
 
-- [2021-azl397985856/leetcode ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/azl397985856/leetcode)](https://github.com/azl397985856/leetcode): leetcode 题解，记录自己的 leetcode 解题之路。 本仓库目前分为五个部分：第一个部分是 leetcode 经典题目的解析，包括思路，关键点和具体的代码实现、第二部分是对于数据结构与算法的总结第三部分是 anki 卡片， 将 leetcode 题目按照一定的方式记录在 anki 中，方便大家记忆、第四部分是每日一题，每日一题是在交流群（包括微信和 qq）里进行的一种活动，大家一起 解一道题，这样讨论问题更加集中，会得到更多的反馈。而且 这些题目可以被记录下来，日后会进行筛选添加到仓库的题解模块、第五部分是计划， 这里会记录将来要加入到以上三个部分内容。
+- [2021-azl397985856/leetcode ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/azl397985856/leetcode)](https://github.com/azl397985856/leetcode): leetcode 题解，记录自己的 leetcode 解题之路。本仓库目前分为五个部分：第一个部分是 leetcode 经典题目的解析，包括思路，关键点和具体的代码实现、第二部分是对于数据结构与算法的总结第三部分是 anki 卡片， 将 leetcode 题目按照一定的方式记录在 anki 中，方便大家记忆、第四部分是每日一题，每日一题是在交流群（包括微信和 qq）里进行的一种活动，大家一起 解一道题，这样讨论问题更加集中，会得到更多的反馈。而且 这些题目可以被记录下来，日后会进行筛选添加到仓库的题解模块、第五部分是计划， 这里会记录将来要加入到以上三个部分内容。
 
 - [2021-doocs/leetcode ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/doocs/leetcode): 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 

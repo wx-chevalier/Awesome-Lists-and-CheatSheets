@@ -46,7 +46,7 @@
 
 - [tunshell ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/TimeToogo/tunshell): Remote shell into ephemeral environments 🐚 🦀
 
-- [mdserver-web ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/midoks/mdserver-web): 简单的 Linux 面板,感谢 BT.CN 写出如此好的 web 管理软件。我一看到，就知道这是我一直想要的页面化管理方式。 复制了后台管理界面，按照自己想要的方式写了一版。
+- [mdserver-web ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/midoks/mdserver-web): 简单的 Linux 面板,感谢 BT.CN 写出如此好的 web 管理软件。我一看到，就知道这是我一直想要的页面化管理方式。复制了后台管理界面，按照自己想要的方式写了一版。
 
 # Shell Programming
 

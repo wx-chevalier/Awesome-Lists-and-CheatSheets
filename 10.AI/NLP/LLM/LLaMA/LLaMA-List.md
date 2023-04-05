@@ -28,7 +28,7 @@
 
 - [2023-deep-diver/Alpaca-LoRA-Serve ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/deep-diver/Alpaca-LoRA-Serve)](https://github.com/deep-diver/Alpaca-LoRA-Serve): This repository demonstrates Alpaca-LoRA as a Chatbot service with Alpaca-LoRA and Gradio. It comes with the following features:
 
-- [2023-LianjiaTech/BELLE ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/LianjiaTech/BELLE)](https://github.com/LianjiaTech/BELLE): 本项目基于 Stanford Alpaca ，Stanford Alpaca 的目标是构建和开源一个基于 LLaMA 的模型。 Stanford Alpaca 的种子任务都是英语，收集的数据也都是英文，因此训练出来的模型未对中文优化。
+- [2023-LianjiaTech/BELLE ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/LianjiaTech/BELLE)](https://github.com/LianjiaTech/BELLE): 本项目基于 Stanford Alpaca ，Stanford Alpaca 的目标是构建和开源一个基于 LLaMA 的模型。Stanford Alpaca 的种子任务都是英语，收集的数据也都是英文，因此训练出来的模型未对中文优化。
 
 - [2023-Chinese-alpaca-lora ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/LC1332/Chinese-alpaca-lora)](https://github.com/LC1332/Chinese-alpaca-lora): CamelBell(驼铃), tuning Chinese Data on Chinese based model GLM is now an individual repo. We may move original Luotuo into a new repo also.
 

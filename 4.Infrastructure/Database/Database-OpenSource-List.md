@@ -20,7 +20,7 @@
 
 - [2020-Let's Build a Simple Database #Series#](https://cstack.github.io/db_tutorial/): Writing a sqlite clone from scratch in C.
 
-- [miniob ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/oceanbase/miniob): miniob 是 OceanBase 与华中科技大学联合开发的、面向"零"基础同学的数据库入门实践工具。 miniob 设计的目标是让同学们快速了解数据库并深入学习数据库内核，期望通过相关训练之后，能够对数据库内核各个模块的功能及其关联有所了解，并能够在 使用数据库时，设计出高效的 SQL 。miniob 面向的对象主要是在校学生，并且诸多模块都做了简化，比如不考虑并发操作。
+- [miniob ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/oceanbase/miniob): miniob 是 OceanBase 与华中科技大学联合开发的、面向"零"基础同学的数据库入门实践工具。miniob 设计的目标是让同学们快速了解数据库并深入学习数据库内核，期望通过相关训练之后，能够对数据库内核各个模块的功能及其关联有所了解，并能够在 使用数据库时，设计出高效的 SQL 。miniob 面向的对象主要是在校学生，并且诸多模块都做了简化，比如不考虑并发操作。
 
 - [2022-mini-lsm ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/skyzh/mini-lsm)](https://github.com/skyzh/mini-lsm): A tutorial of building an LSM-Tree storage engine in a week! (WIP)
 

@@ -32,7 +32,7 @@
 
 ## 工具库
 
-- [2020-lets-mica/mica ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lets-mica/mica)](https://github.com/lets-mica/mica): Spring Cloud 微服务开发核心工具集。工具类、验证码、http、redis、ip2region、xss 等，开箱即用。 🔝 🔝 记得右上角点个 star 关注更新！
+- [2020-lets-mica/mica ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lets-mica/mica)](https://github.com/lets-mica/mica): Spring Cloud 微服务开发核心工具集。工具类、验证码、http、redis、ip2region、xss 等，开箱即用。🔝 🔝 记得右上角点个 star 关注更新！
 
 ## Spring Boot
 
@@ -54,7 +54,7 @@
 
 ## GraalVM/Spring Native
 
-- [2023-entropy-cloud/nop-entropy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/entropy-cloud/nop-entropy)](https://github.com/entropy-cloud/nop-entropy): 基于可逆计算原理从零开始构建的低代码平台，支持 GraalVM 原生编译。 a new generation of low-code platform based on the theory of reversible computation
+- [2023-entropy-cloud/nop-entropy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/entropy-cloud/nop-entropy)](https://github.com/entropy-cloud/nop-entropy): 基于可逆计算原理从零开始构建的低代码平台，支持 GraalVM 原生编译。a new generation of low-code platform based on the theory of reversible computation
 
 # Libraries
 
