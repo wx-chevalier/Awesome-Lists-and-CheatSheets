@@ -22,6 +22,8 @@
 
 - [2021-AOT-AG/DicomToMesh ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/AOT-AG/DicomToMesh)](https://github.com/AOT-AG/DicomToMesh): A command line tool to transform a DICOM volume into a 3d surface mesh (obj, stl or ply). Several mesh processing routines can be enabled, such as mesh reduction, smoothing or cleaning. Works on Linux, OSX and Windows.
 
+- [2022-stable-dreamfusion ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ashawkey/stable-dreamfusion)](https://github.com/ashawkey/stable-dreamfusion): A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
+
 - [2023-pix2pix3D ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dunbar12138/pix2pix3D)](https://github.com/dunbar12138/pix2pix3D): This is the official PyTorch implementation of "3D-aware Conditional Image Synthesis". Pix2pix3D synthesizes 3D objects (neural fields) given a 2D label map, such as a segmentation or edge map. We also provide an interactive 3D editing demo.
 
 - [2023-zero123 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/cvlab-columbia/zero123)](https://github.com/cvlab-columbia/zero123): We learn to control the camera perspective in large-scale diffusion models, enabling zero-shot novel view synthesis and 3D reconstruction from a single image.

@@ -34,6 +34,8 @@
 
 - [Lens ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/lensapp/lens): Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It is a standalone application for MacOS, Windows and Linux operating systems. It is open source and free.
 
+- [2020-Kuboard ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/eip-work/kuboard-press)](https://github.com/eip-work/kuboard-press): Kuboard 是一款专为 Kubernetes 设计的免费管理界面，兼容 Kubernetes 版本 1.13 及以上。Kuboard 每周发布一个 beta 版本，最长每月发布一个正式版本，经过两年的不断迭代和优化，已经具备多集群管理、权限管理、监控套件、日志套件等丰富的功能，并且有 1000+ 的企业将 Kuboard 应用于其生产环境。Kuboard 自 2019 年 8 月发布第一个版本以来，得到了众多用户的认可，目前已经获得了 10000+ GitHub Star
+
 - [2021-pixie ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pixie-labs/pixie): Instant Kubernetes-Native Application Observability
 
 - [k9s ![code](https://ng-tech.icu/assets/code.svg)](https://k9scli.io/): K9s is a terminal based UI to interact with your Kubernetes clusters. The aim of this project is to make it easier to navigate, observe and manage your deployed applications in the wild. K9s continually watches Kubernetes for changes and offers subsequent commands to interact with your observed resources.

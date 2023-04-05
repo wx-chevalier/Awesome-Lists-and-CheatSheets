@@ -30,6 +30,8 @@
 
 - [2020-NLPer-Arsenal ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/TingFree/NLPer-Arsenal)](https://github.com/TingFree/NLPer-Arsenal): NLP 人军火库，主要收录 NLP 竞赛策略实现、各任务教程、经验贴、学习资料以及会议时间等，如果对你有帮助，请给我们一个 star。
 
+## Course
+
 # Tutorial
 
 - [2018-How to solve 90% of NLP problems: a step-by-step guide](https://parg.co/UiG): Using Machine Learning to understand and leverage text.

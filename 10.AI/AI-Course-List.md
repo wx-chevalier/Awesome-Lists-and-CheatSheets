@@ -58,11 +58,17 @@
 
 - [2018-Deep Learning Specialization 🎥](https://www.deeplearning.ai/courses/): Deep Learning is transforming multiple industries. This five-course specialization will help you understand Deep Learning fundamentals, apply them, and build a career in AI.
 
-- [2018-Stanford CS230: Deep Learning](https://web.stanford.edu/class/cs230/): In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. [百度网盘，j2vp](https://pan.baidu.com/s/1Toko6dTqK-W6-e8EVm2kpA)
+- [2018-Stanford CS230: Deep Learning 🎥](https://web.stanford.edu/class/cs230/): In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. [百度网盘，j2vp](https://pan.baidu.com/s/1Toko6dTqK-W6-e8EVm2kpA)
 
 - [2019-MIT 6.S191 Introduction to DeepLearning 🎥](http://introtodeeplearning.com/): MIT's official introductory course on deep learning methods with applications in medicine, and more!
 
+- [2019-DeepLearning.ai 吴恩达深度学习课程 🎥](https://mooc.study.163.com/university/deeplearning_ai#/c): deeplearning.ai 是一家探索人工智能领域的公司。该公司由百度前首席科学家、Coursera 的现任董事长兼联合创始人、斯坦福大学的兼职教授吴恩达（英文名：Andrew Ng）创办。
+
+  - [fengdu78/deeplearning_ai_books ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fengdu78/deeplearning_ai_books)](https://github.com/fengdu78/deeplearning_ai_books): deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
+
 - [2021-Applied Deep Learning 🎥](https://github.com/maziarraissi/Applied-Deep-Learning): This is a two-semester-long course primarily designed for graduate students.
+
+- [2022-Practical Deep Learning 🎥](https://course.fast.ai/): A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.
 
 # Reinforcement Learning
 
