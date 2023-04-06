@@ -355,13 +355,14 @@
         - [3.9.4.3 RecommendSystem OpenSource List](/10.AI/Application/RecommendSystem/RecommendSystem-OpenSource-List.md)
       - 3.9.5 SNA [1]
         - [3.9.5.1 SNA List](/10.AI/Application/SNA/SNA-List.md)
-    - 3.10 ComputerVision [6]
+    - 3.10 ComputerVision [7]
       - [3.10.1 ComputerVision List](/10.AI/ComputerVision/ComputerVision-List.md)
-      - [3.10.2 MidJourney List](/10.AI/ComputerVision/MidJourney-List.md)
-      - [3.10.3 OCR List](/10.AI/ComputerVision/OCR-List.md)
-      - [3.10.4 Object Detection List](/10.AI/ComputerVision/Object-Detection-List.md)
-      - [3.10.5 OpenCV List](/10.AI/ComputerVision/OpenCV-List.md)
-      - [3.10.6 StableDiffusion List](/10.AI/ComputerVision/StableDiffusion-List.md)
+      - [3.10.2 ComputerVision OpenSource List](/10.AI/ComputerVision/ComputerVision-OpenSource-List.md)
+      - [3.10.3 MidJourney List](/10.AI/ComputerVision/MidJourney-List.md)
+      - [3.10.4 OCR List](/10.AI/ComputerVision/OCR-List.md)
+      - [3.10.5 Object Detection List](/10.AI/ComputerVision/Object-Detection-List.md)
+      - [3.10.6 OpenCV List](/10.AI/ComputerVision/OpenCV-List.md)
+      - [3.10.7 StableDiffusion List](/10.AI/ComputerVision/StableDiffusion-List.md)
     - 3.11 DeepLearning [9]
       - 3.11.1 CNN [1]
         - [3.11.1.1 CNN List](/10.AI/DeepLearning/CNN/CNN-List.md)
