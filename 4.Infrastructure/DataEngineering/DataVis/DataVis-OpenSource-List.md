@@ -1,5 +1,7 @@
 # DataVis OpenSource List | 数据可视化开源工具索引
 
+- [2018-Perspective ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/finos/perspective)](https://github.com/finos/perspective): Perspective is an interactive analytics and data visualization component, which is especially well-suited for large and/or streaming datasets. Use it to create user-configurable reports, dashboards, notebooks and applications, then deploy stand-alone in the browser, or in concert with Python and/or Jupyterlab.
+
 - [2020-AutoViz ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/AutoViML/AutoViz)](https://github.com/AutoViML/AutoViz): Automatically Visualize any dataset, any size with a single line of code. Now you can save these interactive charts as HTML files automatically with the "html" setting.
 
 - [Streamlit ![code](https://ng-tech.icu/assets/code.svg)](https://www.streamlit.io/): Turn data scripts into sharable web apps in minutes. All in Python. All for free. No front-end experience required.
@@ -9,6 +11,8 @@
 # Tabular Analysis
 
 - [2022-S2 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/antvis/S2)](https://github.com/antvis/S2): S2 是 AntV 在多维交叉分析表格领域的解决方案，完全基于数据驱动的方式。通过提供底层能力库，基础组件，业务场景组件以及自由扩展的能力，让开发者基于自身场景自由选择，既能开箱即用，又能自由发挥。
+
+- [2022-Quadratic ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/quadratichq/quadratic)](https://github.com/quadratichq/quadratic): Infinite data grid with Python, JavaScript, and SQL built-in. Data Connectors to pull in your data.
 
 - [2023-Graphic Walker ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Kanaries/graphic-walker)](https://github.com/Kanaries/graphic-walker): Graphic Walker is a different type of open-source alternative to Tableau. It allows data scientists to analyze data and visualize patterns with simple drag-and-drop operations.
 

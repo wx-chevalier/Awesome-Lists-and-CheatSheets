@@ -610,9 +610,9 @@
           - [4.1.11.6.2 Scroll](/2.Frontend/1.Web/Widgets/Interaction/Scroll.md)
         - 4.1.11.7 Layout [4]
           - [4.1.11.7.1 Layout List](/2.Frontend/1.Web/Widgets/Layout/Layout-List.md)
-          - [4.1.11.7.2 Modal & Popup](/2.Frontend/1.Web/Widgets/Layout/Modal%20&%20Popup.md)
+          - [4.1.11.7.2 Modal & Popup List](/2.Frontend/1.Web/Widgets/Layout/Modal%20&%20Popup-List.md)
           - [4.1.11.7.3 Navigation](/2.Frontend/1.Web/Widgets/Layout/Navigation.md)
-          - [4.1.11.7.4 Panel](/2.Frontend/1.Web/Widgets/Layout/Panel.md)
+          - [4.1.11.7.4 Panel List](/2.Frontend/1.Web/Widgets/Layout/Panel-List.md)
         - [4.1.11.8 Other](/2.Frontend/1.Web/Widgets/Other.md)
     - 4.2 10.CG [8]
       - 4.2.1 3D CV [3]
