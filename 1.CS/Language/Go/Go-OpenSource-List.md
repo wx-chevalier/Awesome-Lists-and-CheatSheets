@@ -4,11 +4,11 @@
 
 - [Slack-Term ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/erroneousboat/slack-term): A Slack client for your terminal.
 
-- [2020-7 days golang programs from scratch ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/geektutu/7days-golang): 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7 天用 Go 动手写/从零实现系列
-
 - [2019-TopList ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tophubs/TopList): 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用 Go 语言编写，多协程异步快速抓取信息。
 
 - [go-gin-api ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/xinliangnote/go-gin-api): 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用 等等。
+
+- [2020-7 days golang programs from scratch ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/geektutu/7days-golang): 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7 天用 Go 动手写/从零实现系列
 
 - [Gdu ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dundee/gdu): Disk usage analyzer with console interface written in Go
 
