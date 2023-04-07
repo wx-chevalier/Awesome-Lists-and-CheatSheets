@@ -637,18 +637,19 @@
         - 4.2.6.7 PointCloud [2]
           - [4.2.6.7.1 PointCloud List](/2.Frontend/10.CG/GeometryProcess/PointCloud/PointCloud-List.md)
           - [4.2.6.7.2 PointCloud OpenSource List](/2.Frontend/10.CG/GeometryProcess/PointCloud/PointCloud-OpenSource-List.md)
-      - 4.2.7 GraphicsLibrary [6]
+      - 4.2.7 GraphicsLibrary [5]
         - [4.2.7.1 Graphic List](/2.Frontend/10.CG/GraphicsLibrary/Graphic-List.md)
         - [4.2.7.2 Graphic OpenSource List](/2.Frontend/10.CG/GraphicsLibrary/Graphic-OpenSource-List.md)
         - [4.2.7.3 Map List](/2.Frontend/10.CG/GraphicsLibrary/Map-List.md)
         - 4.2.7.4 OpenGL [1]
           - [4.2.7.4.1 OpenGL List](/2.Frontend/10.CG/GraphicsLibrary/OpenGL/OpenGL-List.md)
-        - 4.2.7.5 Three.js [2]
-          - [4.2.7.5.1 Three.js List](/2.Frontend/10.CG/GraphicsLibrary/Three.js/Three.js-List.md)
-          - [4.2.7.5.2 Three.js OpenSource List](/2.Frontend/10.CG/GraphicsLibrary/Three.js/Three.js-OpenSource-List.md)
-        - 4.2.7.6 WebGL [2]
-          - [4.2.7.6.1 Cesium List](/2.Frontend/10.CG/GraphicsLibrary/WebGL/Cesium-List.md)
-          - [4.2.7.6.2 WebGL List](/2.Frontend/10.CG/GraphicsLibrary/WebGL/WebGL-List.md)
+        - 4.2.7.5 Web [4]
+          - [4.2.7.5.1 Cesium List](/2.Frontend/10.CG/GraphicsLibrary/Web/Cesium-List.md)
+          - 4.2.7.5.2 Three.js [2]
+            - [4.2.7.5.2.1 Three.js List](/2.Frontend/10.CG/GraphicsLibrary/Web/Three.js/Three.js-List.md)
+            - [4.2.7.5.2.2 Three.js OpenSource List](/2.Frontend/10.CG/GraphicsLibrary/Web/Three.js/Three.js-OpenSource-List.md)
+          - [4.2.7.5.3 WebGL List](/2.Frontend/10.CG/GraphicsLibrary/Web/WebGL-List.md)
+          - [4.2.7.5.4 WebGPU List](/2.Frontend/10.CG/GraphicsLibrary/Web/WebGPU-List.md)
       - 4.2.8 Media [6]
         - [4.2.8.1 FFMpeg List](/2.Frontend/10.CG/Media/FFMpeg-List.md)
         - [4.2.8.2 Image List](/2.Frontend/10.CG/Media/Image-List.md)
