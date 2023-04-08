@@ -567,78 +567,78 @@
       - [3.8.1 Robot List](/02.Frontend/40.Robot/Robot-List.md)
     - [3.9 Frontend List](/02.Frontend/Frontend-List.md)
   - 4 03.System [9]
-    - 4.1 1.Architecture [5]
+    - 4.1 01.Architecture [5]
       - 4.1.1 API [3]
-        - [4.1.1.1 API List](/03.System/1.Architecture/API/API-List.md)
+        - [4.1.1.1 API List](/03.System/01.Architecture/API/API-List.md)
         - 4.1.1.2 GraphQL [4]
-          - [4.1.1.2.1 GraphQL Client List](/03.System/1.Architecture/API/GraphQL/GraphQL-Client-List.md)
-          - [4.1.1.2.2 GraphQL List](/03.System/1.Architecture/API/GraphQL/GraphQL-List.md)
-          - [4.1.1.2.3 GraphQL OpenSource List](/03.System/1.Architecture/API/GraphQL/GraphQL-OpenSource-List.md)
-          - [4.1.1.2.4 GraphQL Server List](/03.System/1.Architecture/API/GraphQL/GraphQL-Server-List.md)
-        - [4.1.1.3 RESTful List](/03.System/1.Architecture/API/RESTful-List.md)
-      - [4.1.2 Architecture List](/03.System/1.Architecture/Architecture-List.md)
+          - [4.1.1.2.1 GraphQL Client List](/03.System/01.Architecture/API/GraphQL/GraphQL-Client-List.md)
+          - [4.1.1.2.2 GraphQL List](/03.System/01.Architecture/API/GraphQL/GraphQL-List.md)
+          - [4.1.1.2.3 GraphQL OpenSource List](/03.System/01.Architecture/API/GraphQL/GraphQL-OpenSource-List.md)
+          - [4.1.1.2.4 GraphQL Server List](/03.System/01.Architecture/API/GraphQL/GraphQL-Server-List.md)
+        - [4.1.1.3 RESTful List](/03.System/01.Architecture/API/RESTful-List.md)
+      - [4.1.2 Architecture List](/03.System/01.Architecture/Architecture-List.md)
       - 4.1.3 ArchitecturePattern [4]
-        - [4.1.3.1 CQRS List](/03.System/1.Architecture/ArchitecturePattern/CQRS-List.md)
-        - [4.1.3.2 CleanArchitecture List](/03.System/1.Architecture/ArchitecturePattern/CleanArchitecture-List.md)
-        - [4.1.3.3 DDD List](/03.System/1.Architecture/ArchitecturePattern/DDD-List.md)
-        - [4.1.3.4 EDA List](/03.System/1.Architecture/ArchitecturePattern/EDA-List.md)
+        - [4.1.3.1 CQRS List](/03.System/01.Architecture/ArchitecturePattern/CQRS-List.md)
+        - [4.1.3.2 CleanArchitecture List](/03.System/01.Architecture/ArchitecturePattern/CleanArchitecture-List.md)
+        - [4.1.3.3 DDD List](/03.System/01.Architecture/ArchitecturePattern/DDD-List.md)
+        - [4.1.3.4 EDA List](/03.System/01.Architecture/ArchitecturePattern/EDA-List.md)
       - 4.1.4 GUIArchitecture [1]
-        - [4.1.4.1 GUIArchitecture List](/03.System/1.Architecture/GUIArchitecture/GUIArchitecture-List.md)
+        - [4.1.4.1 GUIArchitecture List](/03.System/01.Architecture/GUIArchitecture/GUIArchitecture-List.md)
       - 4.1.5 Refactor [2]
-        - [4.1.5.1 Refactor List](/03.System/1.Architecture/Refactor/Refactor-List.md)
-        - [4.1.5.2 TechDebt List](/03.System/1.Architecture/Refactor/TechDebt-List.md)
-    - 4.2 10.SoftwareEngineering [2]
-      - 4.2.1 DevOps [1]
-        - [4.2.1.1 DevOps List](/03.System/10.SoftwareEngineering/DevOps/DevOps-List.md)
-      - 4.2.2 TechMgt [2]
-        - 4.2.2.1 Agile [1]
-          - [4.2.2.1.1 Agile List](/03.System/10.SoftwareEngineering/TechMgt/Agile/Agile-List.md)
-        - [4.2.2.2 TechMgt List](/03.System/10.SoftwareEngineering/TechMgt/TechMgt-List.md)
-    - 4.3 2.MicroCN [7]
-      - 4.3.1 CloudNative [4]
-        - [4.3.1.1 CloudNative List](/03.System/2.MicroCN/CloudNative/CloudNative-List.md)
-        - [4.3.1.2 Istio List](/03.System/2.MicroCN/CloudNative/Istio-List.md)
-        - [4.3.1.3 Serverless List](/03.System/2.MicroCN/CloudNative/Serverless-List.md)
-        - [4.3.1.4 ServiceMesh List](/03.System/2.MicroCN/CloudNative/ServiceMesh-List.md)
-      - 4.3.2 Gateway [4]
-        - 4.3.2.1 Auth [2]
-          - [4.3.2.1.1 Auth List](/03.System/2.MicroCN/Gateway/Auth/Auth-List.md)
-          - [4.3.2.1.2 Auth OpenSource List](/03.System/2.MicroCN/Gateway/Auth/Auth-OpenSource-List.md)
-        - [4.3.2.2 Gateway List](/03.System/2.MicroCN/Gateway/Gateway-List.md)
-        - [4.3.2.3 Gateway OpenSource List](/03.System/2.MicroCN/Gateway/Gateway-OpenSource-List.md)
-        - 4.3.2.4 WebServer [8]
-          - [4.3.2.4.1 Apache List](/03.System/2.MicroCN/Gateway/WebServer/Apache-List.md)
-          - [4.3.2.4.2 Caddy List](/03.System/2.MicroCN/Gateway/WebServer/Caddy-List.md)
-          - [4.3.2.4.3 HAProxy List](/03.System/2.MicroCN/Gateway/WebServer/HAProxy-List.md)
-          - [4.3.2.4.4 Kong List](/03.System/2.MicroCN/Gateway/WebServer/Kong-List.md)
-          - [4.3.2.4.5 LVS List](/03.System/2.MicroCN/Gateway/WebServer/LVS-List.md)
-          - [4.3.2.4.6 Nginx List](/03.System/2.MicroCN/Gateway/WebServer/Nginx-List.md)
-          - [4.3.2.4.7 Tengine List](/03.System/2.MicroCN/Gateway/WebServer/Tengine-List.md)
-          - [4.3.2.4.8 Traefik List](/03.System/2.MicroCN/Gateway/WebServer/Traefik-List.md)
-      - 4.3.3 HA [9]
-        - [4.3.3.1 CDN List](/03.System/2.MicroCN/HA/CDN-List.md)
-        - [4.3.3.2 Cache List](/03.System/2.MicroCN/HA/Cache-List.md)
-        - [4.3.3.3 HA List](/03.System/2.MicroCN/HA/HA-List.md)
-        - [4.3.3.4 HA OpenSource List](/03.System/2.MicroCN/HA/HA-OpenSource-List.md)
-        - [4.3.3.5 Harden List](/03.System/2.MicroCN/HA/Harden-List.md)
-        - [4.3.3.6 ResilienceService List](/03.System/2.MicroCN/HA/ResilienceService-List.md)
-        - [4.3.3.7 RiskManagement List](/03.System/2.MicroCN/HA/RiskManagement-List.md)
-        - [4.3.3.8 SRE List](/03.System/2.MicroCN/HA/SRE-List.md)
-        - [4.3.3.9 Spike List](/03.System/2.MicroCN/HA/Spike-List.md)
-      - [4.3.4 MicroCN List](/03.System/2.MicroCN/MicroCN-List.md)
-      - [4.3.5 MicroCN OpenSource List](/03.System/2.MicroCN/MicroCN-OpenSource-List.md)
-      - 4.3.6 Obervability [1]
-        - [4.3.6.1 OpenTelemetry List](/03.System/2.MicroCN/Obervability/OpenTelemetry-List.md)
-      - 4.3.7 RPC [6]
-        - 4.3.7.1 DistributedTracing [1]
-          - [4.3.7.1.1 DistributedTracing List](/03.System/2.MicroCN/RPC/DistributedTracing/DistributedTracing-List.md)
-        - 4.3.7.2 Framework [2]
-          - [4.3.7.2.1 BRPC List](/03.System/2.MicroCN/RPC/Framework/BRPC-List.md)
-          - [4.3.7.2.2 Dubbo List](/03.System/2.MicroCN/RPC/Framework/Dubbo-List.md)
-        - [4.3.7.3 RPC List](/03.System/2.MicroCN/RPC/RPC-List.md)
-        - [4.3.7.4 RPC OpenSource List](/03.System/2.MicroCN/RPC/RPC-OpenSource-List.md)
-        - [4.3.7.5 Serialization List](/03.System/2.MicroCN/RPC/Serialization-List.md)
-        - [4.3.7.6 gRPC List](/03.System/2.MicroCN/RPC/gRPC-List.md)
+        - [4.1.5.1 Refactor List](/03.System/01.Architecture/Refactor/Refactor-List.md)
+        - [4.1.5.2 TechDebt List](/03.System/01.Architecture/Refactor/TechDebt-List.md)
+    - 4.2 02.MicroCN [7]
+      - 4.2.1 CloudNative [4]
+        - [4.2.1.1 CloudNative List](/03.System/02.MicroCN/CloudNative/CloudNative-List.md)
+        - [4.2.1.2 Istio List](/03.System/02.MicroCN/CloudNative/Istio-List.md)
+        - [4.2.1.3 Serverless List](/03.System/02.MicroCN/CloudNative/Serverless-List.md)
+        - [4.2.1.4 ServiceMesh List](/03.System/02.MicroCN/CloudNative/ServiceMesh-List.md)
+      - 4.2.2 Gateway [4]
+        - 4.2.2.1 Auth [2]
+          - [4.2.2.1.1 Auth List](/03.System/02.MicroCN/Gateway/Auth/Auth-List.md)
+          - [4.2.2.1.2 Auth OpenSource List](/03.System/02.MicroCN/Gateway/Auth/Auth-OpenSource-List.md)
+        - [4.2.2.2 Gateway List](/03.System/02.MicroCN/Gateway/Gateway-List.md)
+        - [4.2.2.3 Gateway OpenSource List](/03.System/02.MicroCN/Gateway/Gateway-OpenSource-List.md)
+        - 4.2.2.4 WebServer [8]
+          - [4.2.2.4.1 Apache List](/03.System/02.MicroCN/Gateway/WebServer/Apache-List.md)
+          - [4.2.2.4.2 Caddy List](/03.System/02.MicroCN/Gateway/WebServer/Caddy-List.md)
+          - [4.2.2.4.3 HAProxy List](/03.System/02.MicroCN/Gateway/WebServer/HAProxy-List.md)
+          - [4.2.2.4.4 Kong List](/03.System/02.MicroCN/Gateway/WebServer/Kong-List.md)
+          - [4.2.2.4.5 LVS List](/03.System/02.MicroCN/Gateway/WebServer/LVS-List.md)
+          - [4.2.2.4.6 Nginx List](/03.System/02.MicroCN/Gateway/WebServer/Nginx-List.md)
+          - [4.2.2.4.7 Tengine List](/03.System/02.MicroCN/Gateway/WebServer/Tengine-List.md)
+          - [4.2.2.4.8 Traefik List](/03.System/02.MicroCN/Gateway/WebServer/Traefik-List.md)
+      - 4.2.3 HA [9]
+        - [4.2.3.1 CDN List](/03.System/02.MicroCN/HA/CDN-List.md)
+        - [4.2.3.2 Cache List](/03.System/02.MicroCN/HA/Cache-List.md)
+        - [4.2.3.3 HA List](/03.System/02.MicroCN/HA/HA-List.md)
+        - [4.2.3.4 HA OpenSource List](/03.System/02.MicroCN/HA/HA-OpenSource-List.md)
+        - [4.2.3.5 Harden List](/03.System/02.MicroCN/HA/Harden-List.md)
+        - [4.2.3.6 ResilienceService List](/03.System/02.MicroCN/HA/ResilienceService-List.md)
+        - [4.2.3.7 RiskManagement List](/03.System/02.MicroCN/HA/RiskManagement-List.md)
+        - [4.2.3.8 SRE List](/03.System/02.MicroCN/HA/SRE-List.md)
+        - [4.2.3.9 Spike List](/03.System/02.MicroCN/HA/Spike-List.md)
+      - [4.2.4 MicroCN List](/03.System/02.MicroCN/MicroCN-List.md)
+      - [4.2.5 MicroCN OpenSource List](/03.System/02.MicroCN/MicroCN-OpenSource-List.md)
+      - 4.2.6 Obervability [1]
+        - [4.2.6.1 OpenTelemetry List](/03.System/02.MicroCN/Obervability/OpenTelemetry-List.md)
+      - 4.2.7 RPC [6]
+        - 4.2.7.1 DistributedTracing [1]
+          - [4.2.7.1.1 DistributedTracing List](/03.System/02.MicroCN/RPC/DistributedTracing/DistributedTracing-List.md)
+        - 4.2.7.2 Framework [2]
+          - [4.2.7.2.1 BRPC List](/03.System/02.MicroCN/RPC/Framework/BRPC-List.md)
+          - [4.2.7.2.2 Dubbo List](/03.System/02.MicroCN/RPC/Framework/Dubbo-List.md)
+        - [4.2.7.3 RPC List](/03.System/02.MicroCN/RPC/RPC-List.md)
+        - [4.2.7.4 RPC OpenSource List](/03.System/02.MicroCN/RPC/RPC-OpenSource-List.md)
+        - [4.2.7.5 Serialization List](/03.System/02.MicroCN/RPC/Serialization-List.md)
+        - [4.2.7.6 gRPC List](/03.System/02.MicroCN/RPC/gRPC-List.md)
+    - 4.3 10.SoftwareEngineering [2]
+      - 4.3.1 DevOps [1]
+        - [4.3.1.1 DevOps List](/03.System/10.SoftwareEngineering/DevOps/DevOps-List.md)
+      - 4.3.2 TechMgt [2]
+        - 4.3.2.1 Agile [1]
+          - [4.3.2.1.1 Agile List](/03.System/10.SoftwareEngineering/TechMgt/Agile/Agile-List.md)
+        - [4.3.2.2 TechMgt List](/03.System/10.SoftwareEngineering/TechMgt/TechMgt-List.md)
     - 4.4 20.Solutions [8]
       - 4.4.1 CMS [1]
         - [4.4.1.1 CMS List](/03.System/20.Solutions/CMS/CMS-List.md)
@@ -882,28 +882,26 @@
           - [5.4.3.7.1 BlockStorage List](/04.Infrastructure/Distributed/2.DistributedStorage/ObjectStorage/BlockStorage-List.md)
           - [5.4.3.7.2 DistributedStorage List](/04.Infrastructure/Distributed/2.DistributedStorage/ObjectStorage/DistributedStorage-List.md)
           - [5.4.3.7.3 ObjectStorage List](/04.Infrastructure/Distributed/2.DistributedStorage/ObjectStorage/ObjectStorage-List.md)
-      - 5.4.4 3.DistributedCompute [7]
+      - 5.4.4 3.DistributedComputing [6]
         - 5.4.4.1 Batch [3]
-          - [5.4.4.1.1 BatchProcessing List](/04.Infrastructure/Distributed/3.DistributedCompute/Batch/BatchProcessing-List.md)
-          - [5.4.4.1.2 Hadoop List](/04.Infrastructure/Distributed/3.DistributedCompute/Batch/Hadoop-List.md)
-          - [5.4.4.1.3 Spark List](/04.Infrastructure/Distributed/3.DistributedCompute/Batch/Spark-List.md)
-        - [5.4.4.2 DistributedCompute List](/04.Infrastructure/Distributed/3.DistributedCompute/DistributedCompute-List.md)
-        - [5.4.4.3 DistributedCompute OpenSource List](/04.Infrastructure/Distributed/3.DistributedCompute/DistributedCompute-OpenSource-List.md)
+          - [5.4.4.1.1 BatchProcessing List](/04.Infrastructure/Distributed/3.DistributedComputing/Batch/BatchProcessing-List.md)
+          - [5.4.4.1.2 Hadoop List](/04.Infrastructure/Distributed/3.DistributedComputing/Batch/Hadoop-List.md)
+          - [5.4.4.1.3 Spark List](/04.Infrastructure/Distributed/3.DistributedComputing/Batch/Spark-List.md)
+        - [5.4.4.2 DistributedCompute List](/04.Infrastructure/Distributed/3.DistributedComputing/DistributedCompute-List.md)
+        - [5.4.4.3 DistributedCompute OpenSource List](/04.Infrastructure/Distributed/3.DistributedComputing/DistributedCompute-OpenSource-List.md)
         - 5.4.4.4 EdgeCompute [1]
-          - [5.4.4.4.1 EdgeCompute List](/04.Infrastructure/Distributed/3.DistributedCompute/EdgeCompute/EdgeCompute-List.md)
+          - [5.4.4.4.1 EdgeCompute List](/04.Infrastructure/Distributed/3.DistributedComputing/EdgeCompute/EdgeCompute-List.md)
         - 5.4.4.5 JobSchedule [2]
-          - [5.4.4.5.1 Cron List](/04.Infrastructure/Distributed/3.DistributedCompute/JobSchedule/Cron-List.md)
-          - [5.4.4.5.2 JobScheduler List](/04.Infrastructure/Distributed/3.DistributedCompute/JobSchedule/JobScheduler-List.md)
-        - 5.4.4.6 QuantumCompute [1]
-          - [5.4.4.6.1 QuantumCompute List](/04.Infrastructure/Distributed/3.DistributedCompute/QuantumCompute/QuantumCompute-List.md)
-        - 5.4.4.7 Stream [5]
-          - 5.4.4.7.1 Flink [2]
-            - [5.4.4.7.1.1 Flink List](/04.Infrastructure/Distributed/3.DistributedCompute/Stream/Flink/Flink-List.md)
-            - [5.4.4.7.1.2 Flink OpenSource List](/04.Infrastructure/Distributed/3.DistributedCompute/Stream/Flink/Flink-OpenSource-List.md)
-          - [5.4.4.7.2 Pravega List](/04.Infrastructure/Distributed/3.DistributedCompute/Stream/Pravega-List.md)
-          - [5.4.4.7.3 SparkStreaming List](/04.Infrastructure/Distributed/3.DistributedCompute/Stream/SparkStreaming-List.md)
-          - [5.4.4.7.4 Storm List](/04.Infrastructure/Distributed/3.DistributedCompute/Stream/Storm-List.md)
-          - [5.4.4.7.5 StreamProcessing List](/04.Infrastructure/Distributed/3.DistributedCompute/Stream/StreamProcessing-List.md)
+          - [5.4.4.5.1 Cron List](/04.Infrastructure/Distributed/3.DistributedComputing/JobSchedule/Cron-List.md)
+          - [5.4.4.5.2 JobScheduler List](/04.Infrastructure/Distributed/3.DistributedComputing/JobSchedule/JobScheduler-List.md)
+        - 5.4.4.6 Stream [5]
+          - 5.4.4.6.1 Flink [2]
+            - [5.4.4.6.1.1 Flink List](/04.Infrastructure/Distributed/3.DistributedComputing/Stream/Flink/Flink-List.md)
+            - [5.4.4.6.1.2 Flink OpenSource List](/04.Infrastructure/Distributed/3.DistributedComputing/Stream/Flink/Flink-OpenSource-List.md)
+          - [5.4.4.6.2 Pravega List](/04.Infrastructure/Distributed/3.DistributedComputing/Stream/Pravega-List.md)
+          - [5.4.4.6.3 SparkStreaming List](/04.Infrastructure/Distributed/3.DistributedComputing/Stream/SparkStreaming-List.md)
+          - [5.4.4.6.4 Storm List](/04.Infrastructure/Distributed/3.DistributedComputing/Stream/Storm-List.md)
+          - [5.4.4.6.5 StreamProcessing List](/04.Infrastructure/Distributed/3.DistributedComputing/Stream/StreamProcessing-List.md)
       - 5.4.5 4.DistributedTransaction [3]
         - [5.4.5.1 DistributedLock List](/04.Infrastructure/Distributed/4.DistributedTransaction/DistributedLock-List.md)
         - [5.4.5.2 DistributedTransaction List](/04.Infrastructure/Distributed/4.DistributedTransaction/DistributedTransaction-List.md)
@@ -1062,7 +1060,7 @@
         - [6.13.2.2 InformationRetrieval List](/10.AI/NLP/InformationExtraction/InformationRetrieval-List.md)
       - 6.13.3 KnowledgeGraph [1]
         - [6.13.3.1 KnowledgeGraph List](/10.AI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
-      - 6.13.4 LLM [4]
+      - 6.13.4 LLM [5]
         - 6.13.4.1 CodeGeneration [1]
           - [6.13.4.1.1 CodeGeneration OpenSource List](/10.AI/NLP/LLM/CodeGeneration/CodeGeneration-OpenSource-List.md)
         - 6.13.4.2 GPT [4]
@@ -1073,6 +1071,7 @@
         - [6.13.4.3 LLM List](/10.AI/NLP/LLM/LLM-List.md)
         - 6.13.4.4 LLaMA [1]
           - [6.13.4.4.1 LLaMA List](/10.AI/NLP/LLM/LLaMA/LLaMA-List.md)
+        - [6.13.4.5 LangChain List](/10.AI/NLP/LLM/LangChain-List.md)
       - [6.13.5 NLP List](/10.AI/NLP/NLP-List.md)
       - [6.13.6 NLP OpenSource List](/10.AI/NLP/NLP-OpenSource-List.md)
       - 6.13.7 SyntaxSemanticAnalysis [2]
@@ -1146,7 +1145,7 @@
     - 8.4 Management [2]
       - [8.4.1 HR List](/30.Business/Management/HR-List.md)
       - [8.4.2 Management List](/30.Business/Management/Management-List.md)
-  - 9 40.Hardware [2]
+  - 9 40.Hardware [3]
     - [9.1 CNC List](/40.Hardware/CNC-List.md)
     - 9.2 Electronic [4]
       - 9.2.1 Chip [2]
@@ -1158,5 +1157,7 @@
         - [9.2.3.1 MCU List](/40.Hardware/Electronic/MCU/MCU-List.md)
       - 9.2.4 SBC [1]
         - [9.2.4.1 SBC List](/40.Hardware/Electronic/SBC/SBC-List.md)
+    - 9.3 QuantumComputing [1]
+      - [9.3.1 QuantumComputing List](/40.Hardware/QuantumComputing/QuantumComputing-List.md)
   - [10 INTRODUCTION](/INTRODUCTION.md)
   - [11 README en](/README-en.md)

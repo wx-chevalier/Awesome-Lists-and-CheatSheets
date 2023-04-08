@@ -14,6 +14,10 @@
 
 # Resource
 
+## Blog
+
+- [VirtualDDD](https://virtualddd.com/): A community driven site for people who want to get more in-depth knowledge of Domain-Driven Design. Go to the learning DDD part of the site, contribute your knowledge to the world on our website or attend one of our meetups anywhere at anytime. Everybody is welcome to join us, we love learning and growing together.
+
 ## Collection
 
 - [ddd-by-examples ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ddd-by-examples): A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
