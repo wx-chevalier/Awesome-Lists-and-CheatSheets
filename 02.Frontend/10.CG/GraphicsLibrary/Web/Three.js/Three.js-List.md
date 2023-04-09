@@ -16,8 +16,10 @@
 
 - [2022-Threejs Jounery 🎥](https://threejs-journey.com/): In 70 hours of video, this course will teach you the secrets to create the coolest WebGL websites with Three.js whether you are a beginner or an advanced developer.
 
-# Tutorial
-
 ## Series
 
 - [2017-Into Vertex Shaders #Series#](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804): This is a series of tutorials about WebGL, Three.js, and Three.bas, my extension for complex and highly performant 3D animation systems.
+
+- [2021-3D 可视化教程 #Series#](https://github.com/alwxkxk/threejs-example): 这是 3D 可视化教程源码，其教程文字内容在作者博客中，教程还在制作当中。
+
+# Tutorial

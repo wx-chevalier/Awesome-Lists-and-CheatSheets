@@ -346,8 +346,8 @@
       - 3.1.2 Browser [4]
         - [3.1.2.1 Browser Automation List](/02.Frontend/1.Web/Browser/Browser-Automation-List.md)
         - [3.1.2.2 Browser List](/02.Frontend/1.Web/Browser/Browser-List.md)
-        - [3.1.2.3 Chrome Extension List](/02.Frontend/1.Web/Browser/Chrome-Extension-List.md)
-        - [3.1.2.4 Web3 List](/02.Frontend/1.Web/Browser/Web3-List.md)
+        - [3.1.2.3 Browser OpenSource List](/02.Frontend/1.Web/Browser/Browser-OpenSource-List.md)
+        - [3.1.2.4 Chrome Extension List](/02.Frontend/1.Web/Browser/Chrome-Extension-List.md)
       - 3.1.3 Dev [6]
         - [3.1.3.1 Web Builder List](/02.Frontend/1.Web/Dev/Web-Builder-List.md)
         - [3.1.3.2 Web Debug List](/02.Frontend/1.Web/Dev/Web-Debug-List.md)
@@ -859,29 +859,29 @@
           - [5.4.1.1.5 Raft List](/04.Infrastructure/Distributed/1.DistributedSystem/Consensus/Raft-List.md)
           - [5.4.1.1.6 ZooKeeper List](/04.Infrastructure/Distributed/1.DistributedSystem/Consensus/ZooKeeper-List.md)
         - [5.4.1.2 DistributedSystem List](/04.Infrastructure/Distributed/1.DistributedSystem/DistributedSystem-List.md)
-      - 5.4.2 10.Web3 [2]
-        - [5.4.2.1 Web3 List](/04.Infrastructure/Distributed/10.Web3/Web3-List.md)
-        - [5.4.2.2 Web3 OpenSource List](/04.Infrastructure/Distributed/10.Web3/Web3-OpenSource-List.md)
-      - 5.4.3 2.DistributedStorage [7]
-        - 5.4.3.1 Blockchain [6]
-          - [5.4.3.1.1 Bitcoin List](/04.Infrastructure/Distributed/2.DistributedStorage/Blockchain/Bitcoin-List.md)
-          - [5.4.3.1.2 Blockchain Internals List](/04.Infrastructure/Distributed/2.DistributedStorage/Blockchain/Blockchain-Internals-List.md)
-          - [5.4.3.1.3 Blockchain List](/04.Infrastructure/Distributed/2.DistributedStorage/Blockchain/Blockchain-List.md)
-          - [5.4.3.1.4 Blockchain OpenSource List](/04.Infrastructure/Distributed/2.DistributedStorage/Blockchain/Blockchain-OpenSource-List.md)
-          - [5.4.3.1.5 Ethereum List](/04.Infrastructure/Distributed/2.DistributedStorage/Blockchain/Ethereum-List.md)
-          - [5.4.3.1.6 Solidity List](/04.Infrastructure/Distributed/2.DistributedStorage/Blockchain/Solidity-List.md)
-        - [5.4.3.2 CRDT List](/04.Infrastructure/Distributed/2.DistributedStorage/CRDT-List.md)
-        - 5.4.3.3 DistributedFS [2]
-          - [5.4.3.3.1 DistributedFS List](/04.Infrastructure/Distributed/2.DistributedStorage/DistributedFS/DistributedFS-List.md)
-          - [5.4.3.3.2 HDFS List](/04.Infrastructure/Distributed/2.DistributedStorage/DistributedFS/HDFS-List.md)
-        - 5.4.3.4 DistributedID [1]
-          - [5.4.3.4.1 DistributedID List](/04.Infrastructure/Distributed/2.DistributedStorage/DistributedID/DistributedID-List.md)
-        - [5.4.3.5 DistributedStorage List](/04.Infrastructure/Distributed/2.DistributedStorage/DistributedStorage-List.md)
-        - [5.4.3.6 DistributedStorage OpenSource List](/04.Infrastructure/Distributed/2.DistributedStorage/DistributedStorage-OpenSource-List.md)
-        - 5.4.3.7 ObjectStorage [3]
-          - [5.4.3.7.1 BlockStorage List](/04.Infrastructure/Distributed/2.DistributedStorage/ObjectStorage/BlockStorage-List.md)
-          - [5.4.3.7.2 DistributedStorage List](/04.Infrastructure/Distributed/2.DistributedStorage/ObjectStorage/DistributedStorage-List.md)
-          - [5.4.3.7.3 ObjectStorage List](/04.Infrastructure/Distributed/2.DistributedStorage/ObjectStorage/ObjectStorage-List.md)
+      - 5.4.2 10.Web3 [3]
+        - 5.4.2.1 Blockchain [6]
+          - [5.4.2.1.1 Bitcoin List](/04.Infrastructure/Distributed/10.Web3/Blockchain/Bitcoin-List.md)
+          - [5.4.2.1.2 Blockchain Internals List](/04.Infrastructure/Distributed/10.Web3/Blockchain/Blockchain-Internals-List.md)
+          - [5.4.2.1.3 Blockchain List](/04.Infrastructure/Distributed/10.Web3/Blockchain/Blockchain-List.md)
+          - [5.4.2.1.4 Blockchain OpenSource List](/04.Infrastructure/Distributed/10.Web3/Blockchain/Blockchain-OpenSource-List.md)
+          - [5.4.2.1.5 Ethereum List](/04.Infrastructure/Distributed/10.Web3/Blockchain/Ethereum-List.md)
+          - [5.4.2.1.6 Solidity List](/04.Infrastructure/Distributed/10.Web3/Blockchain/Solidity-List.md)
+        - [5.4.2.2 Web3 List](/04.Infrastructure/Distributed/10.Web3/Web3-List.md)
+        - [5.4.2.3 Web3 OpenSource List](/04.Infrastructure/Distributed/10.Web3/Web3-OpenSource-List.md)
+      - 5.4.3 2.DistributedStorage [6]
+        - [5.4.3.1 CRDT List](/04.Infrastructure/Distributed/2.DistributedStorage/CRDT-List.md)
+        - 5.4.3.2 DistributedFS [2]
+          - [5.4.3.2.1 DistributedFS List](/04.Infrastructure/Distributed/2.DistributedStorage/DistributedFS/DistributedFS-List.md)
+          - [5.4.3.2.2 HDFS List](/04.Infrastructure/Distributed/2.DistributedStorage/DistributedFS/HDFS-List.md)
+        - 5.4.3.3 DistributedID [1]
+          - [5.4.3.3.1 DistributedID List](/04.Infrastructure/Distributed/2.DistributedStorage/DistributedID/DistributedID-List.md)
+        - [5.4.3.4 DistributedStorage List](/04.Infrastructure/Distributed/2.DistributedStorage/DistributedStorage-List.md)
+        - [5.4.3.5 DistributedStorage OpenSource List](/04.Infrastructure/Distributed/2.DistributedStorage/DistributedStorage-OpenSource-List.md)
+        - 5.4.3.6 ObjectStorage [3]
+          - [5.4.3.6.1 BlockStorage List](/04.Infrastructure/Distributed/2.DistributedStorage/ObjectStorage/BlockStorage-List.md)
+          - [5.4.3.6.2 DistributedStorage List](/04.Infrastructure/Distributed/2.DistributedStorage/ObjectStorage/DistributedStorage-List.md)
+          - [5.4.3.6.3 ObjectStorage List](/04.Infrastructure/Distributed/2.DistributedStorage/ObjectStorage/ObjectStorage-List.md)
       - 5.4.4 3.DistributedComputing [6]
         - 5.4.4.1 Batch [3]
           - [5.4.4.1.1 BatchProcessing List](/04.Infrastructure/Distributed/3.DistributedComputing/Batch/BatchProcessing-List.md)

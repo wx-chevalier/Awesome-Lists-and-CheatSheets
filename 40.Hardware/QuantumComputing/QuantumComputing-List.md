@@ -6,6 +6,12 @@
 
 # Resource
 
+## Book
+
+- [2023-《Quantum Computing 101》 #Book#](https://academy.meetiqm.com/curriculum/index.html): Our modules are exploratory in nature. Thus, you will actively experience the different ideas of quantum computing, its algorithms and its applications.
+
+# Tutorial
+
 # OpenSource
 
 - [2018-QuSimPy](https://github.com/adamisntdead/QuSimPy): Qusim.py is a toy multi-qubit quantum computer simulator, written in 150 lines of python.

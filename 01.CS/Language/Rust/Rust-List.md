@@ -74,12 +74,6 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2022-Rust 101 🎥](https://github.com/tweedegolf/101-rs): Rust 101 is a university course for computer science students, introducing the Rust Programming Language, and is available for anyone who wants to teach Rust.
 
-# Tutorial
-
-- [2018-Learning Rust](https://learning-rust.github.io/): Installation, Hello World, Cargo, Crates, Variable bindings, Functions, Primitive Data Types, Operators & Control Flows.
-
-- [2018-Writing a Microservice in Rust](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/): Let me begin this article on Writing a Microservice in Rust by talking about C++.
-
 ## CheatSheet
 
 - [2017-Rust CheatSheet](http://phaiax.github.io/rust-cheatsheet/)
@@ -93,3 +87,11 @@ This file aggregates curated popular links for learning Rust. More reference abo
 - [2018-Writing an OS in Rust #Series#](https://os.phil-opp.com/): This blog series creates a small operating system in the Rust programming language. Each post is a small tutorial and includes all needed code, so you can follow along if you like.
 
 - [2020-REST Servers in Go #Series#](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/): My plan with this series is to implement a simple REST server using several different approaches, which should make it easy to compare and contrast these approaches and their relative merits.
+
+# Tutorial
+
+- [2018-Learning Rust](https://learning-rust.github.io/): Installation, Hello World, Cargo, Crates, Variable bindings, Functions, Primitive Data Types, Operators & Control Flows.
+
+- [2018-Writing a Microservice in Rust](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/): Let me begin this article on Writing a Microservice in Rust by talking about C++.
+
+- [2023-Learn Rust 101](https://github.com/plabayo/learn-rust-101): A guide to aid you in your journey of becoming a Rustacean (Rust developer).
