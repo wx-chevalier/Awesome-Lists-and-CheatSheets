@@ -38,6 +38,8 @@
 
 - [2023-Segment Anything ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/facebookresearch/segment-anything)](https://github.com/facebookresearch/segment-anything): The Segment Anything Model (SAM) produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image. It has been trained on a dataset of 11 million images and 1.1 billion masks, and has strong zero-shot performance on a variety of segmentation tasks.
 
+  - [2023-Grounded-Segment-Anything ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything)](https://github.com/IDEA-Research/Grounded-Segment-Anything): Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs
+
 ## Object Detection
 
 ### 动作识别
