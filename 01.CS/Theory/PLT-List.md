@@ -34,6 +34,8 @@
 
 - [2013-Tim Stuart-Understanding Computation 📚](http://computationbook.com/): You can learn computation theory and programming language design in an engaging, practical way. Understanding Computation explains theoretical computer science in a context you'll recognize, helping you appreciate why these ideas matter and how they can inform your day-to-day programming.
 
+- [2014-《How to Design Programs, Second Edition》📚](https://htdp.org/2023-3-6/Book/part_preface.html#%28part._sec~3asystematic-design%29): Many professions require some form of programming. Accountants program spreadsheets; musicians program synthesizers; authors program word processors; and web designers program style sheets. When we wrote these words for the first edition of the book (1995–2000), readers may have considered them futuristic; by now, programming has become a required skill and numerous outlets—books, on-line courses, K-12 curricula—cater to this need, always with the goal of enhancing people’s job prospects.
+
 - [2017-Programming Languages: Application and Interpretation 📚](http://cs.brown.edu/courses/cs173/2012/book/index.html): 中文译本，[lotuc-PLAI_cn](https://github.com/lotuc/PLAI-cn)
 
 - [2018-How to Design Programs 📚](https://htdp.org/2018-01-06/Book/index.html): Program design—but not programming—deserves the same role in a liberal-arts education as mathematics and language skills.

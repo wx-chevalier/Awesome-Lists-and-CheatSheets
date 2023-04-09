@@ -82,6 +82,8 @@
 
 - [warp ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/seanmonstar/warp): A super-easy, composable, web server framework for warp speeds.
 
+- [2021-Perseus ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/framesurge/perseus)](https://github.com/framesurge/perseus): A state-driven web development framework for Rust with full support for server-side rendering and static generation.
+
 # GUI Framework
 
 - [2019-Orbital Widget Toolkit ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/redox-os/orbtk): The Orbital Widget Toolkit is a multi platform (G)UI toolkit for building scalable user interfaces with the programming language Rust. It's based on the Entity Component System Pattern and provides a functional-reactive like API.
