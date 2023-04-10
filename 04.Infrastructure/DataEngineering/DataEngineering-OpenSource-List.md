@@ -48,6 +48,8 @@
 
 - [Presto ![code](https://ng-tech.icu/assets/code.svg)](https://prestodb.io/): Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.
 
+  - [2022-Trino ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/trinodb/trino)](https://github.com/trinodb/trino):
+
 - [Materialize ![code](https://ng-tech.icu/assets/code.svg)](https://materialize.com/docs/): Materialize is a streaming database for real-time applications. Materialize accepts input data from a variety of streaming sources (e.g. Kafka) and files (e.g. CSVs), and lets you query them using SQL.
 
 - [Doris ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/apache/incubator-doris): Doris is an MPP-based interactive SQL data warehousing for reporting and analysis. Its original name was Palo, developed in Baidu. After donated to Apache Software Foundation, it was renamed Doris.
