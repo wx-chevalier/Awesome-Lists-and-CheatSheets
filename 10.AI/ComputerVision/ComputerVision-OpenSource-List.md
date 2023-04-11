@@ -40,6 +40,8 @@
 
   - [2023-Grounded-Segment-Anything ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything)](https://github.com/IDEA-Research/Grounded-Segment-Anything): Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs
 
+- [2023-Painter ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/baaivision/Painter)](https://github.com/baaivision/Painter): Painter & SegGPT Series: Vision Foundation Models from BAAI
+
 ## Object Detection
 
 ### 动作识别
