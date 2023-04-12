@@ -18,6 +18,8 @@
 
 - [2018-Freedom ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/alchemystar/Freedom)](https://github.com/alchemystar/Freedom): 在阅读了大量关于数据库的资料后，笔者情不自禁产生了一个造数据库轮子的想法。来验证一下自己对于数据库底层原理的掌握是否牢靠。在笔者的 github 中给这个 database 起名为 Freedom。
 
+- [2015-Lealone ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lealone/Lealone)](https://github.com/lealone/Lealone): Lealone 是一个兼具 RDBMS、NoSQL 优点的面向微服务和 OLTP/OLAP 场景的单机与分布式关系数据库
+
 - [2020-Let's Build a Simple Database #Series#](https://cstack.github.io/db_tutorial/): Writing a sqlite clone from scratch in C.
 
 - [miniob ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/oceanbase/miniob): miniob 是 OceanBase 与华中科技大学联合开发的、面向"零"基础同学的数据库入门实践工具。miniob 设计的目标是让同学们快速了解数据库并深入学习数据库内核，期望通过相关训练之后，能够对数据库内核各个模块的功能及其关联有所了解，并能够在 使用数据库时，设计出高效的 SQL 。miniob 面向的对象主要是在校学生，并且诸多模块都做了简化，比如不考虑并发操作。

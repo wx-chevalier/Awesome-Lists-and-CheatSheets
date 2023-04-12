@@ -58,6 +58,8 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [2020-Deep JavaScript: Theory and techniques 📚](https://exploringjs.com/deep-js/): This book dives deeply into JavaScript, It teaches practical techniques for using the language better. It teaches how the language works and why. What it teaches is firmly grounded in the ECMAScript specification (which the book explains and refers to).
 
+- [2023-Learn JavaScript 📚](https://github.com/sumn2u/learn-javascript): This book is divided into three main parts. The first 14 chapters cover the JavaScript language. The following three chapters discuss how JavaScript is used to program web browsers. The final two chapters are miscellaneous, and exercises. Various important topics and cases related to JavaScript programming are described in the Miscellaneous chapter, which is followed exercises.
+
 ## Collection
 
 - [Github-JavaScript Path JavaScript 学习规划](https://github.com/javascript-society/javascript-path)

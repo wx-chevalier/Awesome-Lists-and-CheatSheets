@@ -74,6 +74,10 @@
 
 ## Test
 
+## Build
+
+- [2023-GoReleaser ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/goreleaser/goreleaser)](https://github.com/goreleaser/goreleaser): GoReleaser builds Go binaries for several platforms, creates a GitHub release and then pushes a Homebrew formula to a tap repository. All that wrapped in your favorite CI.
+
 # Framework
 
 - [go-zero ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/kevwan/go-zero): go-zero 是一个集成了各种工程实践的 web 和 rpc 框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。

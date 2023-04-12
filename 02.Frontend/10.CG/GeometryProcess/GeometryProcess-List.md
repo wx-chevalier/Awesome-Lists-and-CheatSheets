@@ -6,6 +6,8 @@
 
 - [GeometryHub #Blog#](http://geometryhub.net/overview): BGL 是一个关于三维数据(点云，网格)处理的基础几何库
 
+- [Geometric Tools #Blog#](https://www.geometrictools.com/index.html): Welcome to the official site for Geometric Tools, a collection of source code for computing in the fields of mathematics, geometry, graphics, image analysis and physics. The engine is written in C++ 14 and, as such, has portable access to standard constructs for multithreading programming on cores. The engine also supports high-performance computing using general purpose GPU programming (GPGPU). Portions of the code are described in various books as well as in documents available at this site. The source code is freely downloadable, covered by the Boost License. The schedule for releases and related information is listed below.
+
 ## Collection
 
 - [awesome-geometry-processing 🗃️](https://github.com/zishun/awesome-geometry-processing): Libraries for Geometry Processing (GP).

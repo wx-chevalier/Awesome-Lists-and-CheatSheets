@@ -42,6 +42,8 @@
 
 - [2023-Painter ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/baaivision/Painter)](https://github.com/baaivision/Painter): Painter & SegGPT Series: Vision Foundation Models from BAAI
 
+- [2023-EditAnything ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sail-sg/EditAnything)](https://github.com/sail-sg/EditAnything): Edit anything in images powered by segment-anything, ControlNet, StableDiffusion, etc.
+
 ## Object Detection
 
 ### 动作识别
