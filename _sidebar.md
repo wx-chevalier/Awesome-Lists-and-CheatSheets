@@ -852,7 +852,7 @@
       - 5.3.9 WideColumn [1]
         - 5.3.9.1 HBase [1]
           - [5.3.9.1.1 HBase List](/04.Infrastructure/Database/WideColumn/HBase/HBase-List.md)
-    - 5.4 Distributed [5]
+    - 5.4 Distributed [6]
       - 5.4.1 01.DistributedSystem [2]
         - 5.4.1.1 Consensus [6]
           - [5.4.1.1.1 Consensus List](/04.Infrastructure/Distributed/01.DistributedSystem/Consensus/Consensus-List.md)
@@ -909,6 +909,8 @@
           - [5.4.5.1.6 Solidity List](/04.Infrastructure/Distributed/10.Web3/Blockchain/Solidity-List.md)
         - [5.4.5.2 Web3 List](/04.Infrastructure/Distributed/10.Web3/Web3-List.md)
         - [5.4.5.3 Web3 OpenSource List](/04.Infrastructure/Distributed/10.Web3/Web3-OpenSource-List.md)
+      - 5.4.6 99.References [1]
+        - [5.4.6.1 Foundational distributed systems papers](/04.Infrastructure/Distributed/99.References/2021-Foundational%20distributed%20systems%20papers.md)
     - 5.5 MessageQueue [5]
       - 5.5.1 Kafka [2]
         - [5.5.1.1 Kafka List](/04.Infrastructure/MessageQueue/Kafka/Kafka-List.md)
