@@ -32,9 +32,10 @@
       - [1.4.10 ECommerce & Marketing](/00.Specials/Tools%20&%20Projects/ECommerce%20&%20Marketing.md)
       - [1.4.11 Encrypt](/00.Specials/Tools%20&%20Projects/Encrypt.md)
       - [1.4.12 File](/00.Specials/Tools%20&%20Projects/File.md)
-      - 1.4.13 Media [2]
-        - [1.4.13.1 Image Tools with AI](/00.Specials/Tools%20&%20Projects/Media/Image%20Tools%20with%20AI.md)
-        - [1.4.13.2 Picture Upload](/00.Specials/Tools%20&%20Projects/Media/Picture%20Upload.md)
+      - 1.4.13 Media [3]
+        - [1.4.13.1 AI Image Tools](/00.Specials/Tools%20&%20Projects/Media/AI%20Image%20Tools.md)
+        - [1.4.13.2 Image Cloud Store](/00.Specials/Tools%20&%20Projects/Media/Image%20Cloud%20Store.md)
+        - [1.4.13.3 Picture Upload](/00.Specials/Tools%20&%20Projects/Media/Picture%20Upload.md)
       - [1.4.14 Network](/00.Specials/Tools%20&%20Projects/Network.md)
       - [1.4.15 Notification](/00.Specials/Tools%20&%20Projects/Notification.md)
       - [1.4.16 OS](/00.Specials/Tools%20&%20Projects/OS.md)
@@ -984,14 +985,15 @@
         - [6.9.4.3 RecommendSystem OpenSource List](/10.AI/Application/RecommendSystem/RecommendSystem-OpenSource-List.md)
       - 6.9.5 SNA [1]
         - [6.9.5.1 SNA List](/10.AI/Application/SNA/SNA-List.md)
-    - 6.10 ComputerVision [7]
+    - 6.10 ComputerVision [8]
       - [6.10.1 ComputerVision List](/10.AI/ComputerVision/ComputerVision-List.md)
       - [6.10.2 ComputerVision OpenSource List](/10.AI/ComputerVision/ComputerVision-OpenSource-List.md)
-      - [6.10.3 MidJourney List](/10.AI/ComputerVision/MidJourney-List.md)
-      - [6.10.4 OCR List](/10.AI/ComputerVision/OCR-List.md)
-      - [6.10.5 Object Detection List](/10.AI/ComputerVision/Object-Detection-List.md)
-      - [6.10.6 OpenCV List](/10.AI/ComputerVision/OpenCV-List.md)
-      - [6.10.7 StableDiffusion List](/10.AI/ComputerVision/StableDiffusion-List.md)
+      - [6.10.3 FaceRecognition List](/10.AI/ComputerVision/FaceRecognition-List.md)
+      - [6.10.4 MidJourney List](/10.AI/ComputerVision/MidJourney-List.md)
+      - [6.10.5 OCR List](/10.AI/ComputerVision/OCR-List.md)
+      - [6.10.6 Object Detection List](/10.AI/ComputerVision/Object-Detection-List.md)
+      - [6.10.7 OpenCV List](/10.AI/ComputerVision/OpenCV-List.md)
+      - [6.10.8 StableDiffusion List](/10.AI/ComputerVision/StableDiffusion-List.md)
     - 6.11 DeepLearning [9]
       - 6.11.1 CNN [1]
         - [6.11.1.1 CNN List](/10.AI/DeepLearning/CNN/CNN-List.md)
@@ -1069,7 +1071,9 @@
         - 6.13.4.1 CodeGeneration [1]
           - [6.13.4.1.1 CodeGeneration OpenSource List](/10.AI/NLP/LLM/CodeGeneration/CodeGeneration-OpenSource-List.md)
         - 6.13.4.2 GPT [4]
-          - [6.13.4.2.1 ChatGPT List](/10.AI/NLP/LLM/GPT/ChatGPT-List.md)
+          - 6.13.4.2.1 ChatGPT [2]
+            - [6.13.4.2.1.1 ChatGPT List](/10.AI/NLP/LLM/GPT/ChatGPT/ChatGPT-List.md)
+            - [6.13.4.2.1.2 ChatGPT Site List](/10.AI/NLP/LLM/GPT/ChatGPT/ChatGPT-Site-List.md)
           - [6.13.4.2.2 GPT List](/10.AI/NLP/LLM/GPT/GPT-List.md)
           - [6.13.4.2.3 OpenAI List](/10.AI/NLP/LLM/GPT/OpenAI-List.md)
           - [6.13.4.2.4 Prompt List](/10.AI/NLP/LLM/GPT/Prompt-List.md)
@@ -1139,14 +1143,16 @@
       - [8.2.2 Quant List](/30.Business/Finance/Quant-List.md)
       - [8.2.3 RiskControl List](/30.Business/Finance/RiskControl-List.md)
       - [8.2.4 投研 List](/30.Business/Finance/投研-List.md)
-    - 8.3 Industry [4]
+    - 8.3 Industry [5]
       - 8.3.1 3DP [1]
         - [8.3.1.1 3DP List](/30.Business/Industry/3DP/3DP-List.md)
-      - [8.3.2 Industrial Internet List](/30.Business/Industry/Industrial-Internet-List.md)
-      - 8.3.3 Intelligent Manufacturing [2]
-        - [8.3.3.1 Intelligent Manufacturing List](/30.Business/Industry/Intelligent-Manufacturing/Intelligent-Manufacturing-List.md)
-        - [8.3.3.2 Intelligent Manufacturing OpenSource List](/30.Business/Industry/Intelligent-Manufacturing/Intelligent-Manufacturing-OpenSource-List.md)
-      - [8.3.4 Internet List](/30.Business/Industry/Internet-List.md)
+      - 8.3.2 Car [1]
+        - [8.3.2.1 Car List](/30.Business/Industry/Car/Car-List.md)
+      - [8.3.3 Industrial Internet List](/30.Business/Industry/Industrial-Internet-List.md)
+      - 8.3.4 Intelligent Manufacturing [2]
+        - [8.3.4.1 Intelligent Manufacturing List](/30.Business/Industry/Intelligent-Manufacturing/Intelligent-Manufacturing-List.md)
+        - [8.3.4.2 Intelligent Manufacturing OpenSource List](/30.Business/Industry/Intelligent-Manufacturing/Intelligent-Manufacturing-OpenSource-List.md)
+      - [8.3.5 Internet List](/30.Business/Industry/Internet-List.md)
     - 8.4 Management [2]
       - [8.4.1 HR List](/30.Business/Management/HR-List.md)
       - [8.4.2 Management List](/30.Business/Management/Management-List.md)

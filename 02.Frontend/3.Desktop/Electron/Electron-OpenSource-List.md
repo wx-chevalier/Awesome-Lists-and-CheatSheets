@@ -28,6 +28,8 @@
 
 - [2022-Min ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/minbrowser/min)](https://github.com/minbrowser/min): Min is a fast, minimal browser that protects your privacy. It includes an interface designed to minimize distractions, and features such as.
 
+- [2023-Alpaca Electron ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ItsPi3141/alpaca-electron)](https://github.com/ItsPi3141/alpaca-electron): Alpaca Electron is built from the ground-up to be the easiest way to chat with the alpaca AI models. No command line or compiling needed!
+
 ## Boilerplate
 
 - [electron-react-typescript-webpack-boilerplate ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Devtography/electron-react-typescript-webpack-boilerplate): Pre-configured boilerplate for Electron + React + TypeScript + Webpack.

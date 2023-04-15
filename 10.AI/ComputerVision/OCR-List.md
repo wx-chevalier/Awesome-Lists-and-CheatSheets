@@ -1,5 +1,13 @@
 # OCR List
 
+- [2017-Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning]()
+
+- [2017-Deep image prior ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/DmitryUlyanov/deep-image-prior): Image restoration with neural networks but without learning.
+
+- [2017-How to break a CAPTCHA system in 15 minutes with Machine Learning](https://parg.co/UsP): Let’s hack the world’s most popular Wordpress CAPTCHA Plug-in.
+
+- [digit-classifier](https://github.com/karandesai-96/digit-classifier)
+
 - [LEADTOOLs](http://leadtools.gcpowertools.com.cn/orders/)
 
 - [SwiftOCR](https://github.com/garnele007/SwiftOCR): Fast and simple OCR library written in Swift

@@ -40,9 +40,15 @@
 
   - [2023-Grounded-Segment-Anything ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything)](https://github.com/IDEA-Research/Grounded-Segment-Anything): Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs
 
+  - [Magic Copy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/kevmo314/magic-copy)](https://github.com/kevmo314/magic-copy): Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.
+
+  - [2023-Semantic-Segment-Anything ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fudan-zvg/Semantic-Segment-Anything)](https://github.com/fudan-zvg/Semantic-Segment-Anything): Automated dense category annotation engine that serves as the initial semantic labeling for the Segment Anything dataset (SA-1B).
+
 - [2023-Painter ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/baaivision/Painter)](https://github.com/baaivision/Painter): Painter & SegGPT Series: Vision Foundation Models from BAAI
 
 - [2023-EditAnything ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sail-sg/EditAnything)](https://github.com/sail-sg/EditAnything): Edit anything in images powered by segment-anything, ControlNet, StableDiffusion, etc.
+
+- [2023-GroundingDINO ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/IDEA-Research/GroundingDINO)](https://github.com/IDEA-Research/GroundingDINO): The official implementation of "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
 
 ## Object Detection
 

@@ -34,4 +34,4 @@
 
 - [2023-Chinese-alpaca-lora ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/LC1332/Chinese-alpaca-lora)](https://github.com/LC1332/Chinese-alpaca-lora): CamelBell(驼铃), tuning Chinese Data on Chinese based model GLM is now an individual repo. We may move original Luotuo into a new repo also.
 
-- [2023-databrickslabs/dolly ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/databrickslabs/dolly)](https://github.com/databrickslabs/dolly): This fine-tunes the GPT-J 6B model on the Alpaca dataset using a Databricks notebook. Please note that while GPT-J 6B is Apache 2.0 licensed, the Alpaca dataset is licensed under Creative Commons NonCommercial (CC BY-NC 4.0).
+- [2023-Dolly ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/databrickslabs/dolly)](https://github.com/databrickslabs/dolly): This fine-tunes the GPT-J 6B model on the Alpaca dataset using a Databricks notebook. Please note that while GPT-J 6B is Apache 2.0 licensed, the Alpaca dataset is licensed under Creative Commons NonCommercial (CC BY-NC 4.0).
