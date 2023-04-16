@@ -1,0 +1,3 @@
+# CollisionDetect List
+
+- [2000-Collision Queries using Oriented Bounding Boxes](http://gamma.cs.unc.edu/users/gottschalk/main.pdf): Bounding volume hierarchies(BVHs) have been used widely in collision detection algorithms. In this paper, the authors present a new method for collision detection using oriented bounding boxes(OBBs). The method is based on the observation that the OBBs of two objects can be used to construct a convex polyhedron that encloses the two objects. The convex polyhedron can be used to test for collision between the two objects. The method is simple and fast, and can be used to test for collision between two objects with arbitrary shapes. The method is also applicable to collision detection between a moving object and a static object.
