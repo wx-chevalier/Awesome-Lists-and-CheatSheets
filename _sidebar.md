@@ -497,13 +497,16 @@
         - [3.2.6.2 iOS List](/02.Frontend/02.Mobile/iOS/iOS-List.md)
         - [3.2.6.3 iOS OpenSource List](/02.Frontend/02.Mobile/iOS/iOS-OpenSource-List.md)
         - [3.2.6.4 iOS Syntax List](/02.Frontend/02.Mobile/iOS/iOS-Syntax-List.md)
-    - 3.3 03.Desktop [3]
+    - 3.3 03.Desktop [4]
       - [3.3.1 Desktop List](/02.Frontend/03.Desktop/Desktop-List.md)
       - 3.3.2 Electron [2]
         - [3.3.2.1 Electron List](/02.Frontend/03.Desktop/Electron/Electron-List.md)
         - [3.3.2.2 Electron OpenSource List](/02.Frontend/03.Desktop/Electron/Electron-OpenSource-List.md)
-      - 3.3.3 Robot [1]
-        - [3.3.3.1 Robot List](/02.Frontend/03.Desktop/Robot/Robot-List.md)
+      - 3.3.3 RPA [2]
+        - [3.3.3.1 RPA List](/02.Frontend/03.Desktop/RPA/RPA-List.md)
+        - [3.3.3.2 RPA OpenSource List](/02.Frontend/03.Desktop/RPA/RPA-OpenSource-List.md)
+      - 3.3.4 Robot [1]
+        - [3.3.4.1 Robot List](/02.Frontend/03.Desktop/Robot/Robot-List.md)
     - 3.4 10.CG [8]
       - 3.4.1 01.RenderPipelines [1]
         - [3.4.1.1 CollisionDetect List](/02.Frontend/10.CG/01.RenderPipelines/CollisionDetect-List.md)
@@ -686,13 +689,11 @@
         - [4.5.8.1 Vulns List](/03.System/05.InfoSecurity/Vulns/Vulns-List.md)
       - 4.5.9 WebSecurity [1]
         - [4.5.9.1 WebSecurity List](/03.System/05.InfoSecurity/WebSecurity/WebSecurity-List.md)
-    - 4.6 10.SoftwareEngineering [2]
-      - 4.6.1 DevOps [1]
-        - [4.6.1.1 DevOps List](/03.System/10.SoftwareEngineering/DevOps/DevOps-List.md)
-      - 4.6.2 TechMgt [2]
-        - 4.6.2.1 Agile [1]
-          - [4.6.2.1.1 Agile List](/03.System/10.SoftwareEngineering/TechMgt/Agile/Agile-List.md)
-        - [4.6.2.2 TechMgt List](/03.System/10.SoftwareEngineering/TechMgt/TechMgt-List.md)
+    - 4.6 10.SoftwareEngineering [1]
+      - 4.6.1 TechMgt [2]
+        - 4.6.1.1 Agile [1]
+          - [4.6.1.1.1 Agile List](/03.System/10.SoftwareEngineering/TechMgt/Agile/Agile-List.md)
+        - [4.6.1.2 TechMgt List](/03.System/10.SoftwareEngineering/TechMgt/TechMgt-List.md)
     - 4.7 20.Solutions [8]
       - 4.7.1 CMS [1]
         - [4.7.1.1 CMS List](/03.System/20.Solutions/CMS/CMS-List.md)
@@ -975,18 +976,16 @@
     - [6.6 AI Model OpenSource List](/10.AI/AI-Model-OpenSource-List.md)
     - [6.7 AI OpenSource List](/10.AI/AI-OpenSource-List.md)
     - [6.8 AI Showcase List](/10.AI/AI-Showcase-List.md)
-    - 6.9 Application [5]
+    - 6.9 Application [4]
       - [6.9.1 AI Application List](/10.AI/Application/AI-Application-List.md)
       - 6.9.2 AutoDriving [1]
         - [6.9.2.1 AutoDriving List](/10.AI/Application/AutoDriving/AutoDriving-List.md)
-      - 6.9.3 RPA [1]
-        - [6.9.3.1 RPA List](/10.AI/Application/RPA/RPA-List.md)
-      - 6.9.4 RecommendSystem [3]
-        - [6.9.4.1 CTR List](/10.AI/Application/RecommendSystem/CTR-List.md)
-        - [6.9.4.2 RecommendSystem List](/10.AI/Application/RecommendSystem/RecommendSystem-List.md)
-        - [6.9.4.3 RecommendSystem OpenSource List](/10.AI/Application/RecommendSystem/RecommendSystem-OpenSource-List.md)
-      - 6.9.5 SNA [1]
-        - [6.9.5.1 SNA List](/10.AI/Application/SNA/SNA-List.md)
+      - 6.9.3 RecommendSystem [3]
+        - [6.9.3.1 CTR List](/10.AI/Application/RecommendSystem/CTR-List.md)
+        - [6.9.3.2 RecommendSystem List](/10.AI/Application/RecommendSystem/RecommendSystem-List.md)
+        - [6.9.3.3 RecommendSystem OpenSource List](/10.AI/Application/RecommendSystem/RecommendSystem-OpenSource-List.md)
+      - 6.9.4 SNA [1]
+        - [6.9.4.1 SNA List](/10.AI/Application/SNA/SNA-List.md)
     - 6.10 ComputerVision [8]
       - [6.10.1 ComputerVision List](/10.AI/ComputerVision/ComputerVision-List.md)
       - [6.10.2 ComputerVision OpenSource List](/10.AI/ComputerVision/ComputerVision-OpenSource-List.md)
@@ -1069,21 +1068,23 @@
         - [6.13.2.2 InformationRetrieval List](/10.AI/NLP/InformationExtraction/InformationRetrieval-List.md)
       - 6.13.3 KnowledgeGraph [1]
         - [6.13.3.1 KnowledgeGraph List](/10.AI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
-      - 6.13.4 LLM [6]
-        - 6.13.4.1 CodeGeneration [1]
-          - [6.13.4.1.1 CodeGeneration OpenSource List](/10.AI/NLP/LLM/CodeGeneration/CodeGeneration-OpenSource-List.md)
-        - 6.13.4.2 GPT [4]
-          - 6.13.4.2.1 ChatGPT [2]
-            - [6.13.4.2.1.1 ChatGPT List](/10.AI/NLP/LLM/GPT/ChatGPT/ChatGPT-List.md)
-            - [6.13.4.2.1.2 ChatGPT Site List](/10.AI/NLP/LLM/GPT/ChatGPT/ChatGPT-Site-List.md)
-          - [6.13.4.2.2 GPT List](/10.AI/NLP/LLM/GPT/GPT-List.md)
-          - [6.13.4.2.3 OpenAI List](/10.AI/NLP/LLM/GPT/OpenAI-List.md)
-          - [6.13.4.2.4 Prompt List](/10.AI/NLP/LLM/GPT/Prompt-List.md)
-        - [6.13.4.3 LLM List](/10.AI/NLP/LLM/LLM-List.md)
-        - [6.13.4.4 LLM OpenSource List](/10.AI/NLP/LLM/LLM-OpenSource-List.md)
-        - 6.13.4.5 LLaMA [1]
-          - [6.13.4.5.1 LLaMA List](/10.AI/NLP/LLM/LLaMA/LLaMA-List.md)
-        - [6.13.4.6 LangChain List](/10.AI/NLP/LLM/LangChain-List.md)
+      - 6.13.4 LLM [7]
+        - 6.13.4.1 Agent [1]
+          - [6.13.4.1.1 LLM Agent OpenSource List](/10.AI/NLP/LLM/Agent/LLM-Agent-OpenSource-List.md)
+        - 6.13.4.2 CodeGeneration [1]
+          - [6.13.4.2.1 CodeGeneration OpenSource List](/10.AI/NLP/LLM/CodeGeneration/CodeGeneration-OpenSource-List.md)
+        - 6.13.4.3 GPT [4]
+          - 6.13.4.3.1 ChatGPT [2]
+            - [6.13.4.3.1.1 ChatGPT List](/10.AI/NLP/LLM/GPT/ChatGPT/ChatGPT-List.md)
+            - [6.13.4.3.1.2 ChatGPT Site List](/10.AI/NLP/LLM/GPT/ChatGPT/ChatGPT-Site-List.md)
+          - [6.13.4.3.2 GPT List](/10.AI/NLP/LLM/GPT/GPT-List.md)
+          - [6.13.4.3.3 OpenAI List](/10.AI/NLP/LLM/GPT/OpenAI-List.md)
+          - [6.13.4.3.4 Prompt List](/10.AI/NLP/LLM/GPT/Prompt-List.md)
+        - [6.13.4.4 LLM List](/10.AI/NLP/LLM/LLM-List.md)
+        - [6.13.4.5 LLM OpenSource List](/10.AI/NLP/LLM/LLM-OpenSource-List.md)
+        - 6.13.4.6 LLaMA [1]
+          - [6.13.4.6.1 LLaMA List](/10.AI/NLP/LLM/LLaMA/LLaMA-List.md)
+        - [6.13.4.7 LangChain List](/10.AI/NLP/LLM/LangChain-List.md)
       - [6.13.5 NLP List](/10.AI/NLP/NLP-List.md)
       - [6.13.6 NLP OpenSource List](/10.AI/NLP/NLP-OpenSource-List.md)
       - 6.13.7 SyntaxSemanticAnalysis [2]

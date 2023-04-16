@@ -1,6 +1,4 @@
-# RPA List
-
-# OpenSource
+# RPA OpenSource List
 
 - [automagica ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/automagica/automagica): AI-powered Smart Robotic Process Automation 🤖
 

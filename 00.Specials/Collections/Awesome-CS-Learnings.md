@@ -34,7 +34,7 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 # Programming Language | 编程语言
 
-- [Exercism](http://exercism.io/): Exercism gives you hundreds of practice problems in over 30 programming languages, and a place where you can get feedback on your solutions.
+- [Exercism](https://exercism.org/): Exercism gives you hundreds of practice problems in over 30 programming languages, and a place where you can get feedback on your solutions.
 
 - [Freely available programming books](https://github.com/EbookFoundation/free-programming-books): List of Free Learning Resources
 

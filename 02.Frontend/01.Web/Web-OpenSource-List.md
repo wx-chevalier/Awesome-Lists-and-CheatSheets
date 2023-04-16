@@ -274,6 +274,8 @@
 
 ## Experience Tuning
 
+- [2022-hotwired/turbo ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hotwired/turbo)](https://github.com/hotwired/turbo): Turbo uses complementary techniques to dramatically reduce the amount of custom JavaScript that most web applications will need to write: Turbo Drive accelerates links and form submissions by negating the need for full page reloads.
+
 ### Polyfill
 
 - [dialog-polyfill.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChrome/dialog-polyfill): Polyfill for the HTML dialog element.
