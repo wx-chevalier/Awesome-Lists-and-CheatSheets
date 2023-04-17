@@ -14,6 +14,8 @@
 
 - [2023-Open-Assistant ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/LAION-AI/Open-Assistant)](https://github.com/LAION-AI/Open-Assistant): OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 
+- [2023-MiniGPT-4 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4)](https://github.com/Vision-CAIR/MiniGPT-4): Enhancing Vision-language Understanding with Advanced Large Language Models.
+
 ## Finetuning & Inference
 
 - [2023-xturing ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/stochasticai/xturing)](https://github.com/stochasticai/xturing): xturing provides fast, efficient and simple fine-tuning of LLMs, such as LLaMA, GPT-J, GPT-2, OPT, Cerebras-GPT, Galactica, and more. By providing an easy-to-use interface for personalizing LLMs to your own data and application, xTuring makes it simple to build and control LLMs. The entire process can be done inside your computer or in your private cloud, ensuring data privacy and security.
