@@ -103,3 +103,5 @@
 - [2018-videoflow ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/videoflow/videoflow): Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
 
 - [2021-RobustVideoMatting ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/PeterL1n/RobustVideoMatting): Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
+
+- [2023-DINOv2 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/facebookresearch/dinov2)](https://github.com/facebookresearch/dinov2): DINOv2 models produce high-performance visual features that can be directly employed with classifiers as simple as linear layers on a variety of computer vision tasks; these visual features are robust and perform well across domains without any requirement for fine-tuning. The models were pretrained on a dataset of 142 M images without using any labels or annotations.

@@ -192,6 +192,8 @@
 
 - [2013-localForage ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/localForage/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 
+- [2023-kv.js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/HeyPuter/kv.js)](https://github.com/HeyPuter/kv.js): KV.JS is a fast, in-memory data store written in pure JavaScript, heavily inspired by Redis. It is capable of handling multiple data types, including strings, lists, sets, sorted sets, hashes, and geospatial indexes. Additionally, with more than 140 functions, KV.JS supports a vast variety of operations, ranging from SET, GET, EXPIRE, DEL to INCR, DECR, LPUSH, RPUSH, SADD, SREM, HSET, HGET, and many many more.
+
 ### Cookie
 
 - [cookies.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/franciscop/cookies.js): Tastier cookies, local, session, and db storage in a tiny package. Includes subscribe() events for changes.

@@ -1082,8 +1082,9 @@
           - [6.13.4.3.4 Prompt List](/10.AI/NLP/LLM/GPT/Prompt-List.md)
         - [6.13.4.4 LLM List](/10.AI/NLP/LLM/LLM-List.md)
         - [6.13.4.5 LLM OpenSource List](/10.AI/NLP/LLM/LLM-OpenSource-List.md)
-        - 6.13.4.6 LLaMA [1]
-          - [6.13.4.6.1 LLaMA List](/10.AI/NLP/LLM/LLaMA/LLaMA-List.md)
+        - 6.13.4.6 LLaMA [2]
+          - [6.13.4.6.1 Dolly List](/10.AI/NLP/LLM/LLaMA/Dolly-List.md)
+          - [6.13.4.6.2 LLaMA List](/10.AI/NLP/LLM/LLaMA/LLaMA-List.md)
         - [6.13.4.7 LangChain List](/10.AI/NLP/LLM/LangChain-List.md)
       - [6.13.5 NLP List](/10.AI/NLP/NLP-List.md)
       - [6.13.6 NLP OpenSource List](/10.AI/NLP/NLP-OpenSource-List.md)
