@@ -8,7 +8,7 @@
 
 - [2020-Fornjot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hannobraun/Fornjot)](https://github.com/hannobraun/Fornjot): Fornjot is an early-stage project to create a next-generation, code-first CAD application. Because the world needs another CAD program.
 
-- [2021-Zencad ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/https://github.com/mirmik/zencad)](https://github.com/https://github.com/mirmik/zencad): ZenCad - it's a system for use oce geometry core in openscad's script style. So, it's openscad idea, python language and opencascade power in one.
+- [2021-Zencad ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mirmik/zencad)](https://github.com/https://github.com/mirmik/zencad): ZenCad - it's a system for use oce geometry core in openscad's script style. So, it's openscad idea, python language and opencascade power in one.
 
 - [2021-cadseer ![code](https://ng-tech.icu/assets/code.svg)](https://gitlab.com/blobfish/cadseer): A parametric solid modeler.
 
@@ -23,6 +23,12 @@
 - [2022-BRL-CAD ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/BRL-CAD/brlcad)](https://github.com/BRL-CAD/brlcad): BRL-CAD is a powerful cross-platform open source combinatorial solid modeling system that includes an interactive 3D solid geometry editor, a network-distributed symmetric multiprocessing (SMP) high-performance ray-tracer with support for rendering and geometric analysis, image and signal-processing tools, a system performance analysis benchmark suite, a flexible geometry scripting interface, and a high-performance geometric representation and analysis library.
 
 - [2023-QCAD ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/qcad/qcad)](https://github.com/qcad/qcad): QCAD - The Open Source 2D CAD. QCAD is a cross-platform CAD solution for Windows, macOS and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin).
+
+## Web CAD
+
+- [2023-replicad ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sgenoud/replicad)](https://github.com/sgenoud/replicad): The library to build browser based 3D models with code. As an abstraction over opencascade, it gives developers the power to integrate it in their web application.
+
+  - [sgenoud/blingmything ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sgenoud/blingmything)](https://github.com/sgenoud/blingmything): Simple modifications to 3D models
 
 # STEP
 

@@ -52,6 +52,8 @@
 
 - [2017-three.interaction.js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jasonChen1982/three.interaction.js)](https://github.com/jasonChen1982/three.interaction.js): three.js interaction toolkit, help you built an interaction event-system for three.js, binding interaction event like browser-dom.
 
+- [2021-camera-controls ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/yomotsu/camera-controls)](https://github.com/yomotsu/camera-controls): A camera control for three.js, similar to THREE.OrbitControls yet supports smooth transitions and more features.
+
 - [2022-THREE.InfiniteGridHelper ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Fyrestar/THREE.InfiniteGridHelper)](https://github.com/Fyrestar/THREE.InfiniteGridHelper): Infinite anti-aliased grid.
 
 - [2023-AtomiControl ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/atomicra/AtomiControl)](https://github.com/atomicra/AtomiControl): Position / Transformation Controls for Three JS. More performance and small code size.

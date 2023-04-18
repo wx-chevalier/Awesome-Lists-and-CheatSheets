@@ -2,9 +2,9 @@
 
 # Platform
 
-- [2020-Crawlab ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/crawlab-team/crawlab)](https://github.com/crawlab-team/crawlab): Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
-
 - [2019-SpiderFlow ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ssssssss-team/spider-flow)](https://github.com/ssssssss-team/spider-flow): 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
+
+- [2020-Crawlab ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/crawlab-team/crawlab)](https://github.com/crawlab-team/crawlab): Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
 
 # Framework
 
@@ -28,7 +28,7 @@
 
 - [2015-go_spider ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hu17889/go_spider): An awesome Go concurrent Crawler(spider) framework. The crawler is flexible and modular. It can be expanded to an Individualized crawler easily or you can use the default crawl components only.
 
-- [2017-Colly ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/asciimoo/colly): Lightning Fast and Elegant Scraping Framework for Gophers.
+- [2017-Colly ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/gocolly/colly): Lightning Fast and Elegant Scraping Framework for Gophers.
 
 - [2018-ferret ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/MontFerret/ferret): ferret is a web scraping system aiming to simplify data extraction from the web for such things like UI testing, machine learning and analytics.
 
