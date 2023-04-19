@@ -38,19 +38,19 @@
 
 ## Book | 书籍
 
-- [2017-Front End Developer Handbook 2017 📚](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+- [2017-Front End Developer Handbook 2017》📚](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
 
-- [2017-Spellbook of Modern Web Dev 📚](https://parg.co/bv9): A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
+- [2017-Spellbook of Modern Web Dev》📚](https://parg.co/bv9): A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 
-- [2017-Grab Front End Guide 📚](https://github.com/grab/front-end-guide): Study guide and introduction to the modern front end stack.
+- [2017-Grab Front End Guide》📚](https://github.com/grab/front-end-guide): Study guide and introduction to the modern front end stack.
 
-- [2018-MaintainableCSS 📚](https://maintainablecss.com/): Write CSS without worrying that overzealous, pre-existing styles will cause problems. MaintainableCSS is an approach to writing modular, scalable and maintainable CSS.
+- [2018-MaintainableCSS》📚](https://maintainablecss.com/): Write CSS without worrying that overzealous, pre-existing styles will cause problems. MaintainableCSS is an approach to writing modular, scalable and maintainable CSS.
 
-- [CSS GuideLines 📚](http://cssguidelin.es/): 免费的电子书，教你如何编写高质量可维护的 CSS 代码。
+- [CSS GuideLines》📚](http://cssguidelin.es/): 免费的电子书，教你如何编写高质量可维护的 CSS 代码。
 
-- [2021-Web Browser Engineering 📚](https://browser.engineering/index.html): Web browsers are ubiquitous, but how do they work? This book explains, building a basic but complete web browser, from networking to JavaScript, in a thousand lines of Python.
+- [2021-Web Browser Engineering》📚](https://browser.engineering/index.html): Web browsers are ubiquitous, but how do they work? This book explains, building a basic but complete web browser, from networking to JavaScript, in a thousand lines of Python.
 
-- [2022-Web Patterns 📚](https://www.patterns.dev/): Patterns.dev is a free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.
+- [2022-Web Patterns》📚](https://www.patterns.dev/): Patterns.dev is a free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.
 
 ## Blog | 博客
 

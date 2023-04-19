@@ -34,27 +34,27 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 ## Book
 
-- [《The Rust Programming Language》 📚](https://doc.rust-lang.org/book/first-edition/README.html): This book will teach you about the Rust Programming Language. Rust is a systems programming language focused on three goals: safety, speed, and concurrency.
+- [《The Rust Programming Language》》📚](https://doc.rust-lang.org/book/first-edition/README.html): This book will teach you about the Rust Programming Language. Rust is a systems programming language focused on three goals: safety, speed, and concurrency.
 
-- [《Rust Primer》 📚](https://github.com/rustcc/RustPrimer): 中国人写的 Rust 编程书籍
+- [《Rust Primer》》📚](https://github.com/rustcc/RustPrimer): 中国人写的 Rust 编程书籍
 
-- [《Rust by Example》 📚](https://rustbyexample.com/): Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
+- [《Rust by Example》》📚](https://rustbyexample.com/): Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
 
-- [2016-《Algorithm Cookbook in Rust》 📚](https://github.com/EbTech/rust-algorithms): A collection of classic data structures and algorithms, emphasizing beauty and clarity over full generality.
+- [2016-《Algorithm Cookbook in Rust》》📚](https://github.com/EbTech/rust-algorithms): A collection of classic data structures and algorithms, emphasizing beauty and clarity over full generality.
 
-- [2016-《Rust 101》 📚](https://www.ralfj.de/projects/rust-101/main.html): This is Rust-101, a small tutorial for the Rust language. It is intended to be an interactive, hands-on course: I believe the only way to really learn a language is to write code in it, so you should be coding during the course.
+- [2016-《Rust 101》》📚](https://www.ralfj.de/projects/rust-101/main.html): This is Rust-101, a small tutorial for the Rust language. It is intended to be an interactive, hands-on course: I believe the only way to really learn a language is to write code in it, so you should be coding during the course.
 
-- [2017-Programming Rust 📚](https://parg.co/UPe): This practical book introduces systems programmers to Rust, the new and cutting-edge language. You’ll learn how Rust offers the rare and valuable combination of statically verified memory safety and low-level control—imagine C++, but without dangling pointers, null pointer dereferences, leaks, or buffer overruns.
+- [2017-Programming Rust》📚](https://parg.co/UPe): This practical book introduces systems programmers to Rust, the new and cutting-edge language. You’ll learn how Rust offers the rare and valuable combination of statically verified memory safety and low-level control—imagine C++, but without dangling pointers, null pointer dereferences, leaks, or buffer overruns.
 
-- [2017-《Rust Essentials》-2nd 📚](https://parg.co/UPI): Leverage the functional programming and concurrency features of Rust and speed up your application development.
+- [2017-《Rust Essentials》-2nd》📚](https://parg.co/UPI): Leverage the functional programming and concurrency features of Rust and speed up your application development.
 
-- [《Rust 语言圣经》 📚](https://course.rs/into-rust.html): Rust 语言圣经涵盖从入门到精通所需的全部 Rust 知识，目录及内容都经过深思熟虑的设计，同时语言生动幽默，行文流畅自如，摆脱技术书籍常有的机器味和晦涩感。
+- [《Rust 语言圣经》》📚](https://course.rs/into-rust.html): Rust 语言圣经涵盖从入门到精通所需的全部 Rust 知识，目录及内容都经过深思熟虑的设计，同时语言生动幽默，行文流畅自如，摆脱技术书籍常有的机器味和晦涩感。
 
-- [《Rust By Practice》 📚](https://github.com/sunface/rust-by-practice): Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev.
+- [《Rust By Practice》》📚](https://github.com/sunface/rust-by-practice): Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev.
 
-- [2022-《Zero To Production In Rust》 📚](https://github.com/LukeMathWalker/zero-to-production): Zero To Production In Rust is an opinionated introduction to backend development using Rust.
+- [2022-《Zero To Production In Rust》》📚](https://github.com/LukeMathWalker/zero-to-production): Zero To Production In Rust is an opinionated introduction to backend development using Rust.
 
-- [2023-《The Rust Performance Book》 📚](https://nnethercote.github.io/perf-book/introduction.html): This book contains many techniques that can improve the performance—speed and memory usage—of Rust programs. The Compile Times section also contains some techniques that will improve the compile times of Rust programs. Some techniques only require changing build configurations, but many require changing code.
+- [2023-《The Rust Performance Book》》📚](https://nnethercote.github.io/perf-book/introduction.html): This book contains many techniques that can improve the performance—speed and memory usage—of Rust programs. The Compile Times section also contains some techniques that will improve the compile times of Rust programs. Some techniques only require changing build configurations, but many require changing code.
 
 ## Collection
 

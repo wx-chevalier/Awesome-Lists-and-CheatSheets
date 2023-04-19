@@ -26,7 +26,7 @@
 
 ## Book
 
-- [2017-Chaos Engineering 📚](https://learning.oreilly.com/library/view/chaos-engineering/9781491988459/): By introducing controlled experiments, you’ll learn how emergent behavior from component interactions can cause your system to drift into an unsafe, chaotic state.
+- [2017-Chaos Engineering》📚](https://learning.oreilly.com/library/view/chaos-engineering/9781491988459/): By introducing controlled experiments, you’ll learn how emergent behavior from component interactions can cause your system to drift into an unsafe, chaotic state.
 
 - [2019-DevOps Interview Questions](https://github.com/bregman-arie/devops-interview-questions): Linux, Jenkins, AWS, Network, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP.
 

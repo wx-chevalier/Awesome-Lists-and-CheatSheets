@@ -32,9 +32,9 @@
 
 ## Book
 
-- [Reverse Engineering for Beginners 📚](https://beginners.re/): 适合作为逆向入门书籍，而且里面覆盖的范围更广，包括了 x86/x64，arm 两三种 CPU 的指令集，而且囊括了 Linux 和 Windows 的 OS hack 等内容，各种逆向工具也都介绍了一番。
+- [Reverse Engineering for Beginners》📚](https://beginners.re/): 适合作为逆向入门书籍，而且里面覆盖的范围更广，包括了 x86/x64，arm 两三种 CPU 的指令集，而且囊括了 Linux 和 Windows 的 OS hack 等内容，各种逆向工具也都介绍了一番。
 
-- [兜哥系列丛书 📚](https://github.com/duoergun0729): Web 安全之机器学习入门/Web 安全之深度学习实战/Web 安全之强化学习与 GAN 系列
+- [兜哥系列丛书》📚](https://github.com/duoergun0729): Web 安全之机器学习入门/Web 安全之深度学习实战/Web 安全之强化学习与 GAN 系列
 
 ## Collection
 

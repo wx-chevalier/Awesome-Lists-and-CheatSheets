@@ -14,4 +14,4 @@
 
 ## Book
 
-- [2017-Streaming Systems 📚](https://learning.oreilly.com/library/view/streaming-systems/9781491983867/ch01.html): Expanded from Tyler Akidau’s popular blog posts "Streaming 101" and "Streaming 102", this book takes you from an introductory level to a nuanced understanding of the what, where, when, and how of processing real-time data streams. You’ll also dive deep into watermarks and exactly-once processing with co-authors Slava Chernyak and Reuven Lax.
+- [2017-Streaming Systems》📚](https://learning.oreilly.com/library/view/streaming-systems/9781491983867/ch01.html): Expanded from Tyler Akidau’s popular blog posts "Streaming 101" and "Streaming 102", this book takes you from an introductory level to a nuanced understanding of the what, where, when, and how of processing real-time data streams. You’ll also dive deep into watermarks and exactly-once processing with co-authors Slava Chernyak and Reuven Lax.

@@ -44,7 +44,7 @@
 
 ## Book
 
-- [2019-Mastering Bitcoin 📚](https://github.com/bitcoinbook/bitcoinbook): Mastering Bitcoin is a book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters to get a great understanding of bitcoin.
+- [2019-Mastering Bitcoin》📚](https://github.com/bitcoinbook/bitcoinbook): Mastering Bitcoin is a book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters to get a great understanding of bitcoin.
 
 ## Collection
 

@@ -18,13 +18,13 @@
 
 ## Book
 
-- [ElasticSearch 权威指南中文版 📚](http://es.xiaoleilu.com/010_Intro/00_README.html)
+- [ElasticSearch 权威指南中文版》📚](http://es.xiaoleilu.com/010_Intro/00_README.html)
 
-- [Elasticsearch Definitive Guide 📚](https://github.com/elastic/elasticsearch-definitive-guide): ElasticSearch 官方提供的 The Definitive Guide to Elasticsearch。
+- [Elasticsearch Definitive Guide》📚](https://github.com/elastic/elasticsearch-definitive-guide): ElasticSearch 官方提供的 The Definitive Guide to Elasticsearch。
 
-- [Elasticsearch Essentials 📚](https://learning.oreilly.com/library/view/elasticsearch-essentials/9781784391010/): Harness the power of ElasticSearch to build and manage scalable search and analytics solutions with this fast-paced guide
+- [Elasticsearch Essentials》📚](https://learning.oreilly.com/library/view/elasticsearch-essentials/9781784391010/): Harness the power of ElasticSearch to build and manage scalable search and analytics solutions with this fast-paced guide
 
-- [2017-Mastering Elastic Stack 📚](https://parg.co/bgs): Get the most out of the Elastic Stack for various complex analytics using this comprehensive and practical guide.
+- [2017-Mastering Elastic Stack》📚](https://parg.co/bgs): Get the most out of the Elastic Stack for various complex analytics using this comprehensive and practical guide.
 
 # Tutoria | 教程
 

@@ -36,29 +36,29 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 ## Book
 
-- [2015-ECMAScript 6 入门 📚](http://es6.ruanyifeng.com/#README)：ECMAScript 6 入门是由阮一峰老师编写的一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
+- [2015-ECMAScript 6 入门》📚](http://es6.ruanyifeng.com/#README)：ECMAScript 6 入门是由阮一峰老师编写的一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
 
-- [2015-ES6 in Depth 📚](https://ponyfoo.com/articles/tagged/es6-in-depth): A twenty-four article-long series of pragmatic articles describing JavaScript language features in ES6. 中文译本[深入浅出 ES6]()
+- [2015-ES6 in Depth》📚](https://ponyfoo.com/articles/tagged/es6-in-depth): A twenty-four article-long series of pragmatic articles describing JavaScript language features in ES6. 中文译本[深入浅出 ES6]()
 
-- [2015-Exploring ES6 📚](http://exploringjs.com/es6/index.html): Upgrade to the next version of JavaScript
+- [2015-Exploring ES6》📚](http://exploringjs.com/es6/index.html): Upgrade to the next version of JavaScript
 
-- [2017-The Modern JavaScript Tutorial 📚](https://javascript.info/): How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+- [2017-The Modern JavaScript Tutorial》📚](https://javascript.info/): How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 
-- [2017-The JavaScript Wa 📚](https://github.com/bpesquet/thejsway): A modern introduction to an essential language.
+- [2017-The JavaScript Wa》📚](https://github.com/bpesquet/thejsway): A modern introduction to an essential language.
 
-- [Modern JavaScript Tutorial 📚](https://github.com/iliakan/javascript-tutorial-en): How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+- [Modern JavaScript Tutorial》📚](https://github.com/iliakan/javascript-tutorial-en): How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 
-- [JavaScript. The Core: 2nd Edition 📚](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/#class): This is the second edition of the JavaScript. The Core overview lecture, devoted to ECMAScript programming language and core components of its runtime system.
+- [JavaScript. The Core: 2nd Edition》📚](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/#class): This is the second edition of the JavaScript. The Core overview lecture, devoted to ECMAScript programming language and core components of its runtime system.
 
-- [Exploring ES2018 and ES2019 📚](http://exploringjs.com/es2018-es2019/toc.html): This book is about two versions of JavaScript: ECMAScript 2018 and ECMAScript 2019.
+- [Exploring ES2018 and ES2019》📚](http://exploringjs.com/es2018-es2019/toc.html): This book is about two versions of JavaScript: ECMAScript 2018 and ECMAScript 2019.
 
 - [You don’t know Js](https://github.com/getify/You-Dont-Know-JS): 关于 JavaScript 中很多的细节部分讲解
 
 - [Eloquent Javascript](http://eloquentjavascript.net/index.html)
 
-- [2020-Deep JavaScript: Theory and techniques 📚](https://exploringjs.com/deep-js/): This book dives deeply into JavaScript, It teaches practical techniques for using the language better. It teaches how the language works and why. What it teaches is firmly grounded in the ECMAScript specification (which the book explains and refers to).
+- [2020-Deep JavaScript: Theory and techniques》📚](https://exploringjs.com/deep-js/): This book dives deeply into JavaScript, It teaches practical techniques for using the language better. It teaches how the language works and why. What it teaches is firmly grounded in the ECMAScript specification (which the book explains and refers to).
 
-- [2023-Learn JavaScript 📚](https://github.com/sumn2u/learn-javascript): This book is divided into three main parts. The first 14 chapters cover the JavaScript language. The following three chapters discuss how JavaScript is used to program web browsers. The final two chapters are miscellaneous, and exercises. Various important topics and cases related to JavaScript programming are described in the Miscellaneous chapter, which is followed exercises.
+- [2023-Learn JavaScript》📚](https://github.com/sumn2u/learn-javascript): This book is divided into three main parts. The first 14 chapters cover the JavaScript language. The following three chapters discuss how JavaScript is used to program web browsers. The final two chapters are miscellaneous, and exercises. Various important topics and cases related to JavaScript programming are described in the Miscellaneous chapter, which is followed exercises.
 
 ## Collection
 

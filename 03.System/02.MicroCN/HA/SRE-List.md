@@ -24,9 +24,9 @@
 
 ## Book
 
-- [2018-Google Site Reliability Engineering 📚](https://landing.google.com/sre/sre-book/chapters/foreword/): This book shows a willingness to let SRE thinking come out of the shadows.
+- [2018-Google Site Reliability Engineering》📚](https://landing.google.com/sre/sre-book/chapters/foreword/): This book shows a willingness to let SRE thinking come out of the shadows.
 
-- [2020-Building Secure & Reliable Systems 📚](https://static.googleusercontent.com/media/landing.google.com/zh-CN//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf): Best Practices for Designing, Implementing and Maintaining Systems.
+- [2020-Building Secure & Reliable Systems》📚](https://static.googleusercontent.com/media/landing.google.com/zh-CN//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf): Best Practices for Designing, Implementing and Maintaining Systems.
 
 ## Collection
 

@@ -48,7 +48,7 @@
 
 ## Babel
 
-- [2017-Babel Handbook 📚](https://github.com/thejameskyle/babel-handbook): A guided handbook on how to use Babel and how to create plugins for Babel.
+- [2017-Babel Handbook》📚](https://github.com/thejameskyle/babel-handbook): A guided handbook on how to use Babel and how to create plugins for Babel.
 
 # Memory Management
 

@@ -1,6 +1,6 @@
 # Awesome Documents
 
-- [2021-The documentation system 📚](https://documentation.divio.com/): There is a secret that needs to be understood in order to write good software documentation: there isn’t one thing called documentation, there are four.
+- [2021-The documentation system》📚](https://documentation.divio.com/): There is a secret that needs to be understood in order to write good software documentation: there isn’t one thing called documentation, there are four.
 
 - 资源检索：[鸠摩搜索](http://t.cn/RG07GHI)、[布克书屋](http://t.cn/AiEso12y)、[三秋书屋](http://t.cn/AiQ0uTv9)
 

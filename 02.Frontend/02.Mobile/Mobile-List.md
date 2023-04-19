@@ -2,7 +2,7 @@
 
 # Resource
 
-- [2020-Building Mobile Apps at Scale: 39 Engineering Challenges 📚](https://www.mobileatscale.com/): The missing guide for building large, iOS, and Android native apps -with the challenges and common solutions across the industry.
+- [2020-Building Mobile Apps at Scale: 39 Engineering Challenges》📚](https://www.mobileatscale.com/): The missing guide for building large, iOS, and Android native apps -with the challenges and common solutions across the industry.
 
 # 热修复
 

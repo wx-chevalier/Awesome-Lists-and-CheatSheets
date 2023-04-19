@@ -22,13 +22,13 @@
 
 ## Book & Course
 
-- [2017- 深入理解 Node.js：核心思想与源码分析 📚](http://6me.us/epg)
+- [2017- 深入理解 Node.js：核心思想与源码分析》📚](http://6me.us/epg)
 
-- [2017-RESTful API design with Node.js 📚](https://hackernoon.com/restful-api-design-with-node-js-26ccf66eab09)
+- [2017-RESTful API design with Node.js》📚](https://hackernoon.com/restful-api-design-with-node-js-26ccf66eab09)
 
-- [2017-Practical Node.js 📚](https://github.com/azat-co/practicalnode): Practical Node is a work of 30+ in-person courses, workshops and classes delivered by me in-person at various companies.
+- [2017-Practical Node.js》📚](https://github.com/azat-co/practicalnode): Practical Node is a work of 30+ in-person courses, workshops and classes delivered by me in-person at various companies.
 
-- [2017-Node.js 实践教程 📚](https://github.com/ElemeFE/node-practice)：本教程的初衷是做一个 Node.js 进阶的视频教程, 在撰写 node-interview 之后, 觉得按照概念依次讲下来不好组织, 于是决定按照以一些有名的模块 / 功能为基础, 在实现的过程中讲解各项知识点。
+- [2017-Node.js 实践教程》📚](https://github.com/ElemeFE/node-practice)：本教程的初衷是做一个 Node.js 进阶的视频教程, 在撰写 node-interview 之后, 觉得按照概念依次讲下来不好组织, 于是决定按照以一些有名的模块 / 功能为基础, 在实现的过程中讲解各项知识点。
 
 - [2018-The definitive Node.js handbook #Series#](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e): This article is a getting started guide to Node.js, the server-side JavaScript runtime environment.
 

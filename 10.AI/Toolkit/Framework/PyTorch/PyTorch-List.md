@@ -4,7 +4,7 @@
 
 ## Book
 
-- [Learn PyTorch for Deep Learning 📚](https://github.com/mrdbourke/pytorch-deep-learning/): Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
+- [Learn PyTorch for Deep Learning》📚](https://github.com/mrdbourke/pytorch-deep-learning/): Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
 
 ## Collection
 

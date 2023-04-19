@@ -10,9 +10,9 @@
 
 ## Book | 书籍
 
-- [SurviveJS Webpack 📚](https://survivejs.com/webpack/): SurviveJS - Webpack is meant for beginner to intermediate users of webpack.
+- [SurviveJS Webpack》📚](https://survivejs.com/webpack/): SurviveJS - Webpack is meant for beginner to intermediate users of webpack.
 
-- [Practical Module Federation 📚](https://ngte.cowtransfer.com/s/77b881e3669847): Module Federation is an advanced use topic for the Webpack bundler starting with version 5.
+- [Practical Module Federation》📚](https://ngte.cowtransfer.com/s/77b881e3669847): Module Federation is an advanced use topic for the Webpack bundler starting with version 5.
 
 ## Tutorial | 教程
 

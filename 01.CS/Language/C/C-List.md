@@ -8,7 +8,7 @@
 
 # Resource
 
-- [2023-《Beej's Guide to C Programming》 📚](https://beej.us/guide/bgc/html/split/index.html): In the old days, C was a simpler language. A good number of the features contained in this book and a lot of the features in the Library Reference volume didn’t exist when K&R wrote the famous second edition of their book in 1988. Nevertheless, the language remains small at its core, and I hope I’ve presented it here in a way that starts with that simple core and builds outward.
+- [2023-《Beej's Guide to C Programming》》📚](https://beej.us/guide/bgc/html/split/index.html): In the old days, C was a simpler language. A good number of the features contained in this book and a lot of the features in the Library Reference volume didn’t exist when K&R wrote the famous second edition of their book in 1988. Nevertheless, the language remains small at its core, and I hope I’ve presented it here in a way that starts with that simple core and builds outward.
 
 # Tutorial
 

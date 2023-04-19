@@ -18,7 +18,7 @@
 
 ## Book
 
-- [Refactoring Guru 📚](https://refactoringguru.cn/design-patterns/what-is-pattern)：Design patterns are typical solutions to common problems in software design. Each pattern is like a blueprint that you can customize to solve a particular design problem in your code.
+- [Refactoring Guru》📚](https://refactoringguru.cn/design-patterns/what-is-pattern)：Design patterns are typical solutions to common problems in software design. Each pattern is like a blueprint that you can customize to solve a particular design problem in your code.
 
 ## Resource
 
@@ -58,6 +58,6 @@
 
 ## Swift
 
-- [OOD-Principles-In-Swift 📚](https://github.com/ochococo/OOD-Principles-In-Swift)
+- [OOD-Principles-In-Swift》📚](https://github.com/ochococo/OOD-Principles-In-Swift)
 
 ## JavaScript

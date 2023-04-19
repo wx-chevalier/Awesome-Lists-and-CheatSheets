@@ -18,4 +18,4 @@
 
 ## Book
 
-- [2023-深入浅出 Presto：PB 级 OLAP 引擎 📚](https://www.zhihu.com/column/c_1294277883771940864): 内容深入、清晰易懂，在这里掌握 Presto。
+- [2023-深入浅出 Presto：PB 级 OLAP 引擎》📚](https://www.zhihu.com/column/c_1294277883771940864): 内容深入、清晰易懂，在这里掌握 Presto。

@@ -26,15 +26,15 @@
 
 ## Book
 
-- [2017-Kubernetes 中文指南/云原生应用架构实践手册 📚](https://jimmysong.io/kubernetes-handbook/): 本书记录了本人从零开始学习和使用 Kubernetes 的心路历程，着重于经验分享和总结，同时也会有相关的概念解析，希望能够帮助大家少踩坑，少走弯路，还会指引大家关于关注 kubernetes 生态周边，如微服务构建、DevOps、大数据应用、Service Mesh、Cloud Native 等领域。
+- [2017-Kubernetes 中文指南/云原生应用架构实践手册》📚](https://jimmysong.io/kubernetes-handbook/): 本书记录了本人从零开始学习和使用 Kubernetes 的心路历程，着重于经验分享和总结，同时也会有相关的概念解析，希望能够帮助大家少踩坑，少走弯路，还会指引大家关于关注 kubernetes 生态周边，如微服务构建、DevOps、大数据应用、Service Mesh、Cloud Native 等领域。
 
-- [2017-Kubernetes for Java Developers 📚](https://www.oreilly.com/programming/free/files/kubernetes-for-java-developers.pdf): Orchestrate Multi-Container Applications with Ease.
+- [2017-Kubernetes for Java Developers》📚](https://www.oreilly.com/programming/free/files/kubernetes-for-java-developers.pdf): Orchestrate Multi-Container Applications with Ease.
 
 - [2017-Kubernetes The Hard Way #Series#](https://github.com/kelseyhightower/kubernetes-the-hard-way): This tutorial walks you through setting up Kubernetes the hard way. This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster. If that's you then check out Google Kubernetes Engine, or the Getting Started Guides.
 
-- [2019-Kubernetes Patterns 📚](https://www.oreilly.com/library/view/kubernetes-patterns/9781492050278/): With this focused guide, Bilgin Ibryam and Roland Huß from Red Hat provide common reusable elements, patterns, principles, and practices for designing and implementing cloud-native applications on Kubernetes. [Examples](https://github.com/k8spatterns/examples).
+- [2019-Kubernetes Patterns》📚](https://www.oreilly.com/library/view/kubernetes-patterns/9781492050278/): With this focused guide, Bilgin Ibryam and Roland Huß from Red Hat provide common reusable elements, patterns, principles, and practices for designing and implementing cloud-native applications on Kubernetes. [Examples](https://github.com/k8spatterns/examples).
 
-- [2021-DescomplicandoKubernetes 📚](https://github.com/badtuxx/DescomplicandoKubernetes): In this material you will have contact with contents that cover from beginner to advanced level about Kubernetes, and now that it has become open, with everyone's help we will build the largest and most complete material about Kubernetes in the world.
+- [2021-DescomplicandoKubernetes》📚](https://github.com/badtuxx/DescomplicandoKubernetes): In this material you will have contact with contents that cover from beginner to advanced level about Kubernetes, and now that it has become open, with everyone's help we will build the largest and most complete material about Kubernetes in the world.
 
 ## Course
 

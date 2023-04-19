@@ -16,9 +16,9 @@
 
 ## Book
 
-- [2012-Nginx 开发从入门到精通 📚](http://tengine.taobao.org/book/index.html): Nginx 由于出色的性能，在世界范围内受到了越来越多人的关注，在淘宝内部它更是被广泛的使用，众多的开发以及运维同学都迫切的想要了解 nginx 模块的开发以及它的内部原理，但是国内却没有一本关于这方面的书，源于此我们决定自己来写一本。
+- [2012-Nginx 开发从入门到精通》📚](http://tengine.taobao.org/book/index.html): Nginx 由于出色的性能，在世界范围内受到了越来越多人的关注，在淘宝内部它更是被广泛的使用，众多的开发以及运维同学都迫切的想要了解 nginx 模块的开发以及它的内部原理，但是国内却没有一本关于这方面的书，源于此我们决定自己来写一本。
 
-- [2019-Nginx Admin's Handbook 📚](https://github.com/trimstray/nginx-admins-handbook): My notes on NGINX administration basics, tips & tricks, caveats, and gotchas.
+- [2019-Nginx Admin's Handbook》📚](https://github.com/trimstray/nginx-admins-handbook): My notes on NGINX administration basics, tips & tricks, caveats, and gotchas.
 
 # Configuration
 

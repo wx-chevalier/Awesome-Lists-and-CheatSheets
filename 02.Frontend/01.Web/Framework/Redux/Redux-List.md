@@ -34,7 +34,7 @@ This file aggregates curated popular links for learning Redux. More reference ab
 
 ## Book
 
-- [2016-Developing a Redux Edge 📚](https://parg.co/b4L): This book is for anyone wanting to learn about Redux, a predictable state container for JavaScript apps. It is aimed at intermediate developers who have a good understanding of creating single page applications with JavaScript. Having an understanding of ES6, functional programming, and React will certainly help too, but isn’t necessary. If you want to follow along with the examples you should also know your way around a terminal, and know what Node and npm are, as well as having them installed and ready to use.
+- [2016-Developing a Redux Edge》📚](https://parg.co/b4L): This book is for anyone wanting to learn about Redux, a predictable state container for JavaScript apps. It is aimed at intermediate developers who have a good understanding of creating single page applications with JavaScript. Having an understanding of ES6, functional programming, and React will certainly help too, but isn’t necessary. If you want to follow along with the examples you should also know your way around a terminal, and know what Node and npm are, as well as having them installed and ready to use.
 
 # Tutorial
 

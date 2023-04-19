@@ -46,7 +46,7 @@ This file aggregates popular links for learning how to implement Progressive Web
 
 - [2017-A progressive Web application with Vue JS, Webpack & Material Design #Series#](https://parg.co/btH): The tutorial will be split in several parts, that will be published successively
 
-- [2017-Progressive Web Apps (PWA) 中文版 📚](https://github.com/SangKa/PWA-Book-CN): This book is written with stand-alone chapters, letting you learn about particular features of interest without having read previous chapters. By the end, you'll be ready to build better web applications and improve the user experience.
+- [2017-Progressive Web Apps (PWA) 中文版》📚](https://github.com/SangKa/PWA-Book-CN): This book is written with stand-alone chapters, letting you learn about particular features of interest without having read previous chapters. By the end, you'll be ready to build better web applications and improve the user experience.
 
 - [2016-Building Progressive Web Apps - O'Reilly Media](https://pwabook.com/oreillyapwa) : A deep dive into progressive web apps, service workers, push notifications, background sync, IndexedDB, offline first and much more (disclaimer: written by the maintainer of this page).
 

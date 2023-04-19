@@ -14,7 +14,7 @@
 
 ## Book
 
-- [2020-TiDB In Action 📚](https://github.com/pingcap-incubator/tidb-in-action): TiDB In Action
+- [2020-TiDB In Action》📚](https://github.com/pingcap-incubator/tidb-in-action): TiDB In Action
 
 ## Course
 

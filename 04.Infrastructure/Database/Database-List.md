@@ -36,43 +36,43 @@
 
 - [2007-Architecture of a Database System #Paper#](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf): This paper presents an architectural discussion of DBMS design principles, including process models, parallel architecture, storage system design, transaction system implementation, query processor and optimizer architectures, and typical shared components and utilities.
 
-- [2010-Database System Concepts-6th 📚](http://codex.cs.yale.edu/avi/db-book/db6/slide-dir/index.html):
+- [2010-Database System Concepts-6th》📚](http://codex.cs.yale.edu/avi/db-book/db6/slide-dir/index.html):
 
-- [2012-The Internals of PostgreSQL 📚](http://www.interdb.jp/pg/index.html): The main purposes of this document are to explain how each subsystem works, and to provide the whole picture of PostgreSQL.
+- [2012-The Internals of PostgreSQL》📚](http://www.interdb.jp/pg/index.html): The main purposes of this document are to explain how each subsystem works, and to provide the whole picture of PostgreSQL.
 
-- [2012-High Performance MySQL 📚](https://www.oreilly.com/library/view/high-performance-mysql/9781449332471/): With High Performance MySQL, you’ll learn advanced techniques for everything from designing schemas, indexes, and queries to tuning your MySQL server, operating system, and hardware to their fullest potential. This guide also teaches you safe and practical ways to scale applications through replication, load balancing, high availability, and failover.
+- [2012-High Performance MySQL》📚](https://www.oreilly.com/library/view/high-performance-mysql/9781449332471/): With High Performance MySQL, you’ll learn advanced techniques for everything from designing schemas, indexes, and queries to tuning your MySQL server, operating system, and hardware to their fullest potential. This guide also teaches you safe and practical ways to scale applications through replication, load balancing, high availability, and failover.
 
-- [2014-SQL for MySQL: A Beginner's Tutorial 📚](https://parg.co/oU1): This introduction to SQL for MySQL begins by discussing exactly how data is stored and maintained in a relational database, familiarizing readers with SQL INSERT, UPDATE, and DELETE statements.
+- [2014-SQL for MySQL: A Beginner's Tutorial》📚](https://parg.co/oU1): This introduction to SQL for MySQL begins by discussing exactly how data is stored and maintained in a relational database, familiarizing readers with SQL INSERT, UPDATE, and DELETE statements.
 
-- [2015-Readings in Database Systems-5th 📚](http://www.redbook.io/): Readings in Database Systems (commonly known as the "Red Book") has offered readers an opinionated take on both classic and cutting-edge research in the field of data management since 1988.
+- [2015-Readings in Database Systems-5th》📚](http://www.redbook.io/): Readings in Database Systems (commonly known as the "Red Book") has offered readers an opinionated take on both classic and cutting-edge research in the field of data management since 1988.
 
-- [2017-Designing Data Intensive Applications 📚](https://dataintensive.net/): This book will help you navigate the diverse and fast-changing landscape of technologies for storing and processing data. We compare a broad variety of tools and approaches, so that you can see the strengths and weaknesses of each, and decide what’s best for your application.
+- [2017-Designing Data Intensive Applications》📚](https://dataintensive.net/): This book will help you navigate the diverse and fast-changing landscape of technologies for storing and processing data. We compare a broad variety of tools and approaches, so that you can see the strengths and weaknesses of each, and decide what’s best for your application.
 
-- [2019-Database Internal 📚](https://www.databass.dev): The book consists of two parts: Storage Engines and Distributed Systems since that’s where most of the differences between the vast majority of databases is coming from.
+- [2019-Database Internal》📚](https://www.databass.dev): The book consists of two parts: Storage Engines and Distributed Systems since that’s where most of the differences between the vast majority of databases is coming from.
 
 ### SQL
 
-- [2018-SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL-4th Edition 📚](https://parg.co/oUa): SQL Queries for Mere Mortals has earned worldwide praise as the clearest, simplest tutorial on writing effective queries with the latest SQL standards and database applications. Now, author John L. Viescas has updated this hands-on classic with even more advanced and valuable techniques.
+- [2018-SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL-4th Edition》📚](https://parg.co/oUa): SQL Queries for Mere Mortals has earned worldwide praise as the clearest, simplest tutorial on writing effective queries with the latest SQL standards and database applications. Now, author John L. Viescas has updated this hands-on classic with even more advanced and valuable techniques.
 
-- [2019-How to Teach People SQL 📚](https://dataschool.com/how-to-teach-people-sql/): This book will help you empathize with people learning SQL for the first time.
+- [2019-How to Teach People SQL》📚](https://dataschool.com/how-to-teach-people-sql/): This book will help you empathize with people learning SQL for the first time.
 
-- [2019-Learn SQL 📚](https://dataschool.com/learn-sql/): Welcome to our PostgreSQL interactive SQL Tutorial! We’ve designed this specifically for tech-savvy folks to learn enough SQL to be able to do their own analysis and data fetching.
+- [2019-Learn SQL》📚](https://dataschool.com/learn-sql/): Welcome to our PostgreSQL interactive SQL Tutorial! We’ve designed this specifically for tech-savvy folks to learn enough SQL to be able to do their own analysis and data fetching.
 
-- [2019-SQL Optimization 📚](https://dataschool.com/sql-optimization/): Get exposed to the most common techniques for improving query speed and database performance. Learn how to optimize queries by modifying SQL. Understand how indexes work and when to apply them.
+- [2019-SQL Optimization》📚](https://dataschool.com/sql-optimization/): Get exposed to the most common techniques for improving query speed and database performance. Learn how to optimize queries by modifying SQL. Understand how indexes work and when to apply them.
 
 ### RDB
 
-- [2016-Relational Database Design and Implementation-4th 📚](https://parg.co/bjE): The book begins by reviewing basic concepts of databases and database design, then turns to creating, populating, and retrieving data using SQL.
+- [2016-Relational Database Design and Implementation-4th》📚](https://parg.co/bjE): The book begins by reviewing basic concepts of databases and database design, then turns to creating, populating, and retrieving data using SQL.
 
 ### MySQL
 
-- [2017-MySQL 学习笔记 📚](http://notes.diguage.com/mysql/): 本文档可以看作是 D 瓜哥 学习《高性能 MySQL》时做的读书笔记。为了让内容更丰富易懂，还参考了《MySQL 技术内幕》和《数据库索引设计与优化》。
+- [2017-MySQL 学习笔记》📚](http://notes.diguage.com/mysql/): 本文档可以看作是 D 瓜哥 学习《高性能 MySQL》时做的读书笔记。为了让内容更丰富易懂，还参考了《MySQL 技术内幕》和《数据库索引设计与优化》。
 
-- [2017-The Unofficial MySQL 8.0 Optimizer Guide 📚](http://www.unofficialmysqlguide.com/introduction.html): Morgan Tocker is the Product Manager for the MySQL Server at Oracle. He has previously worked in a variety of roles including Support, Training and Community. Morgan is based out of Toronto, Canada.
+- [2017-The Unofficial MySQL 8.0 Optimizer Guide》📚](http://www.unofficialmysqlguide.com/introduction.html): Morgan Tocker is the Product Manager for the MySQL Server at Oracle. He has previously worked in a variety of roles including Support, Training and Community. Morgan is based out of Toronto, Canada.
 
 ### Datawarehouse
 
-- [2019-Cloud Data Management 📚](https://dataschool.com/data-governance/): Learn how to manage your data stack and set up processes to get the most out of your data in your organization.
+- [2019-Cloud Data Management》📚](https://dataschool.com/data-governance/): Learn how to manage your data stack and set up processes to get the most out of your data in your organization.
 
 ## Collection
 

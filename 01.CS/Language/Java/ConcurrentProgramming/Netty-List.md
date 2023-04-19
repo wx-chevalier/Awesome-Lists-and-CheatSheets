@@ -2,15 +2,21 @@
 
 # Resource
 
-- [2015-Norman-Netty in Action 📚](http://93.174.95.29/_ads/A861BBD08F8EADD7068C39B33DA23C16): Netty in Action introduces the Netty framework and shows you how to incorporate it into your Java network applications. You'll learn to write highly scalable applications without the need to dive into the low-level non-blocking APIs at the core of Java.
+- [2015-《Netty 实战(精髓)》📚](https://github.com/waylau/essential-netty-in-action): 《Netty 实战(精髓)》是对 Norman Maurer 的 《Netty in Action》(基于 MEAP v10)的一个中文精简。取其精华，去其糟粕，带你快速掌握 Netty ，插入配图，图文并茂方便用户理解。本书利用业余时间编写,由于时间紧凑,精力和能力有限,书中未免有纰漏和错误,望读者能够热忱斧正。
 
-- [2016-Netty Learning 📚](https://github.com/code4craft/netty-learning): Netty 是 Java 世界知名的网络应用框架。本系列文章是 Netty 的源码导读。
+- [2015-Norman-Netty in Action》📚](http://93.174.95.29/_ads/A861BBD08F8EADD7068C39B33DA23C16): Netty in Action introduces the Netty framework and shows you how to incorporate it into your Java network applications. You'll learn to write highly scalable applications without the need to dive into the low-level non-blocking APIs at the core of Java.
+
+- [2016-《Netty Learning》📚](https://github.com/code4craft/netty-learning): Netty 是 Java 世界知名的网络应用框架。本系列文章是 Netty 的源码导读。
 
 - [2018-深入浅出 Netty #Series#](https://www.infoq.cn/article/netty-in-depth): 为了便于大家集中学习 Netty，我们把已经发表的相关文章进行汇总和提取，形成一本迷你书，奉献给各位读者。
 
 - [2018-Netty 实现原理与源码解析系统 #Series#](http://www.iocoder.cn/Netty/Netty-collection/?title)
 
 - [2018-flash-netty #Series#](https://github.com/lightningMan/flash-netty): Netty 入门与实战：仿写微信 IM 即时通讯系统
+
+## Book
+
+- [2020-《Netty 4.x 用户指南》📚](https://github.com/waylau/netty-4-user-guide): 《Netty 4.x 用户指南》中文翻译（包含了官方文档以及其他文章），并在原文的基础上，插入配图，图文并茂方便用户理解。至今为止，Netty 的最新版本为 Netty 4.1.79.Final(2022-7-11)。
 
 # Engineering Practices | 工程实践
 

@@ -4,7 +4,7 @@
 
 # UX
 
-- [Laws of UX 📚](https://lawsofux.com/): Laws of UX is a collection of best practices that designers can consider when building user interfaces.
+- [Laws of UX》📚](https://lawsofux.com/): Laws of UX is a collection of best practices that designers can consider when building user interfaces.
 
 # 2C
 

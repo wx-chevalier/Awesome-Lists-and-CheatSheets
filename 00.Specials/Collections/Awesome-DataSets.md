@@ -74,6 +74,8 @@
 
 - [Hidden Beauty of Flickr Pictures](http://www.di.unito.it/~schifane/dataset/beauty-icwsm15/): 15,000 Flickr photo IDs that have received ratings based on aesthetics, for image analysis.138KB, use Flickr API to get images
 
+- [2023-MultimodalC4 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/allenai/mmc4)](https://github.com/allenai/mmc4): MultimodalC4 is a multimodal extension of c4 that interleaves millions of images with text.
+
 ## Adults
 
 - [NSFW Data Scrapper ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alexkimxyz/nsfw_data_scrapper): Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier.

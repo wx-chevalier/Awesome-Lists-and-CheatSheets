@@ -18,7 +18,7 @@
 
 - [Understanding Git #Series#](https://hackernoon.com/understanding-git-fcffd87c15a3): Git is a powerful tool, but it has a reputation of baffling newcomers. It doesn’t help that most people are simply thrown in at the deep end and expected to swim.
 
-- [Git Magic 📚](https://crypto.stanford.edu/~blynn/gitmagic/): Rather than go into details, we provide rough instructions for particular effects. After repeated use, gradually you will understand how each trick works, and how to tailor the recipes for your needs.
+- [Git Magic》📚](https://crypto.stanford.edu/~blynn/gitmagic/): Rather than go into details, we provide rough instructions for particular effects. After repeated use, gradually you will understand how each trick works, and how to tailor the recipes for your needs.
 
 - [2017-How open source licenses work and how to add them to your projects](https://parg.co/UAs)
 
