@@ -46,6 +46,8 @@
 
 - [2023-Painter ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/baaivision/Painter)](https://github.com/baaivision/Painter): Painter & SegGPT Series: Vision Foundation Models from BAAI
 
+- [2023-Inpaint-Anything ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/geekyutao/Inpaint-Anything)](https://github.com/geekyutao/Inpaint-Anything): Users can select any object in an image by clicking on it. With powerful vision models, e.g., SAM, LaMa and Stable Diffusion (SD), Inpaint Anything is able to remove the object smoothly (i.e., Remove Anything). Further, prompted by user input text, Inpaint Anything can fill the object with any desired content (i.e., Fill Anything) or replace the background of it arbitrarily (i.e., Replace Anything).
+
 - [2023-EditAnything ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sail-sg/EditAnything)](https://github.com/sail-sg/EditAnything): Edit anything in images powered by segment-anything, ControlNet, StableDiffusion, etc.
 
 - [2023-GroundingDINO ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/IDEA-Research/GroundingDINO)](https://github.com/IDEA-Research/GroundingDINO): The official implementation of "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"

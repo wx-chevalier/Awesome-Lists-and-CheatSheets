@@ -2,7 +2,7 @@
 
 - [vault ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hashicorp/vault): A tool for secrets management, encryption as a service, and privileged access management
 
-- [Kratos ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ory/kratos): Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
+- [2020-Kratos ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ory/kratos): Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
 
 - [2021-Logto ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/logto-io/logto): 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support.
 

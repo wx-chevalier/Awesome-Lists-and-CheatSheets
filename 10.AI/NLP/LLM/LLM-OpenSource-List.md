@@ -35,3 +35,7 @@
 # Web LLM
 
 - [2023-web-llm ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mlc-ai/web-llm)](https://github.com/mlc-ai/web-llm): This project brings language model chats directly onto web browsers. Everything runs inside the browser with no server support and accelerated with WebGPU. We can bring a lot of fun opportunities to build AI assistants for everyone and enable privacy while enjoying GPU acceleration.
+
+# Cache & Proxy
+
+- [2023-GPTCache ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/zilliztech/GPTCache)](https://github.com/zilliztech/GPTCache): GPTCache is a library for creating semantic cache to store responses from LLM queries.
