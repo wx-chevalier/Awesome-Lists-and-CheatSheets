@@ -44,6 +44,8 @@
 
 - [2015-hls.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/video-dev/hls.js/): JavaScript HLS client using Media Source Extension
 
+- [2023-wasp-hls ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/peaBerberian/wasp-hls)](https://github.com/peaBerberian/wasp-hls): WebAssembly-based (Rust) & in-worker HLS Media Player for the web.
+
 ## RTSP
 
 - [2019-rtsp-stream ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Roverr/rtsp-stream): Out of box solution for RTSP - HLS live stream transcoding. Makes RTSP easy to play in browsers.

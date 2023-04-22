@@ -544,7 +544,9 @@
             - [3.4.7.5.2.1 Three.js List](/02.Frontend/10.CG/GraphicsLibrary/Web/Three.js/Three.js-List.md)
             - [3.4.7.5.2.2 Three.js OpenSource List](/02.Frontend/10.CG/GraphicsLibrary/Web/Three.js/Three.js-OpenSource-List.md)
           - [3.4.7.5.3 WebGL List](/02.Frontend/10.CG/GraphicsLibrary/Web/WebGL-List.md)
-          - [3.4.7.5.4 WebGPU List](/02.Frontend/10.CG/GraphicsLibrary/Web/WebGPU-List.md)
+          - 3.4.7.5.4 WebGPU [2]
+            - [3.4.7.5.4.1 WebGPU List](/02.Frontend/10.CG/GraphicsLibrary/Web/WebGPU/WebGPU-List.md)
+            - [3.4.7.5.4.2 WebGPU OpenSource List](/02.Frontend/10.CG/GraphicsLibrary/Web/WebGPU/WebGPU-OpenSource-List.md)
       - 3.4.8 Media [6]
         - [3.4.8.1 FFMpeg List](/02.Frontend/10.CG/Media/FFMpeg-List.md)
         - [3.4.8.2 Image List](/02.Frontend/10.CG/Media/Image-List.md)
