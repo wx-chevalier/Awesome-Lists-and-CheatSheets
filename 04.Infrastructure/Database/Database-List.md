@@ -60,16 +60,6 @@
 
 - [2019-SQL Optimization》📚](https://dataschool.com/sql-optimization/): Get exposed to the most common techniques for improving query speed and database performance. Learn how to optimize queries by modifying SQL. Understand how indexes work and when to apply them.
 
-### RDB
-
-- [2016-Relational Database Design and Implementation-4th》📚](https://parg.co/bjE): The book begins by reviewing basic concepts of databases and database design, then turns to creating, populating, and retrieving data using SQL.
-
-### MySQL
-
-- [2017-MySQL 学习笔记》📚](http://notes.diguage.com/mysql/): 本文档可以看作是 D 瓜哥 学习《高性能 MySQL》时做的读书笔记。为了让内容更丰富易懂，还参考了《MySQL 技术内幕》和《数据库索引设计与优化》。
-
-- [2017-The Unofficial MySQL 8.0 Optimizer Guide》📚](http://www.unofficialmysqlguide.com/introduction.html): Morgan Tocker is the Product Manager for the MySQL Server at Oracle. He has previously worked in a variety of roles including Support, Training and Community. Morgan is based out of Toronto, Canada.
-
 ### Datawarehouse
 
 - [2019-Cloud Data Management》📚](https://dataschool.com/data-governance/): Learn how to manage your data stack and set up processes to get the most out of your data in your organization.

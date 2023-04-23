@@ -28,10 +28,6 @@
 
 - [2022-Sketch ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/approximatelabs/sketch)](https://github.com/approximatelabs/sketch): Sketch is an AI code-writing assistant for pandas users that understands the context of your data, greatly improving the relevance of suggestions. Sketch is usable in seconds and doesn't require adding a plugin to your IDE.
 
-# TTS
-
-- [2022-TorToiSe ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/neonbjb/tortoise-tts)](https://github.com/neonbjb/tortoise-tts): A multi-voice TTS system trained with an emphasis on quality
-
 ## Language Representation
 
 - [2018-BERT ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/google-research/bert): BERT is method of pre-training language representations, meaning that we train a general-purpose "language understanding" model on a large text corpus (like Wikipedia), and then use that model for downstream NLP tasks that we care about (like question answering). [海量中文预训练 ALBERT 模型](https://github.com/brightmart/albert_zh)。
@@ -76,7 +72,10 @@
 - [2021-MockingBird ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/babysor/MockingBird): 🚀AI 拟声: 5 秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 - [2022-Whisper ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/openai/whisper): Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multi-task model that can perform multilingual speech recognition as well as speech translation and language identification.
+
   - [whisper.cpp ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ggerganov/whisper.cpp): High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model.
+
+- [2023-faster-whisper ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/guillaumekln/faster-whisper)](https://github.com/guillaumekln/faster-whisper): faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models.
 
 ## Dialogue System & Bot
 
@@ -113,3 +112,7 @@
 - [2020-TensorFlowTTS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/TensorSpeech/TensorFlowTTS): 😝 TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese)
 
 - [2020-Silero Models ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/snakers4/silero-models): Silero Models: pre-trained STT models and benchmarks made embarrassingly simple
+
+# TTS
+
+- [2022-TorToiSe ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/neonbjb/tortoise-tts)](https://github.com/neonbjb/tortoise-tts): A multi-voice TTS system trained with an emphasis on quality

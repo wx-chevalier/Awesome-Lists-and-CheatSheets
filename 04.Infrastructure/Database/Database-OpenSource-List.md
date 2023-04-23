@@ -156,6 +156,10 @@
 
 - [immudb ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/codenotary/immudb): world’s fastest immutable database, built on a zero trust model.
 
+# Document Database
+
+- [2018-edgedb ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/edgedb/edgedb)](https://github.com/edgedb/edgedb): A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+
 # Graph Database
 
 - [Cayley ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/cayleygraph/cayley): Cayley is an open-source graph inspired by the graph database behind Freebase and Google's Knowledge Graph.

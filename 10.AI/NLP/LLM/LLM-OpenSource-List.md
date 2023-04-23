@@ -18,6 +18,8 @@
 
 - [2023-StableLM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Stability-AI/StableLM)](https://github.com/Stability-AI/StableLM): This repository contains Stability AI's ongoing development of the StableLM series of language models and will be continuously updated with new checkpoints. The following provides an overview of all currently available models. More coming soon.
 
+- [2023-MOSS ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/OpenLMLab/MOSS)](https://github.com/OpenLMLab/MOSS): An open-source tool-augmented conversational language model from Fudan University.
+
 ## Finetuning & Inference
 
 - [2023-xturing ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/stochasticai/xturing)](https://github.com/stochasticai/xturing): xturing provides fast, efficient and simple fine-tuning of LLMs, such as LLaMA, GPT-J, GPT-2, OPT, Cerebras-GPT, Galactica, and more. By providing an easy-to-use interface for personalizing LLMs to your own data and application, xTuring makes it simple to build and control LLMs. The entire process can be done inside your computer or in your private cloud, ensuring data privacy and security.
