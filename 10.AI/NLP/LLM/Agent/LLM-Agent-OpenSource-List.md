@@ -5,3 +5,5 @@
   - [2023-AutoGPT.js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/zabirauf/AutoGPT.js)](https://github.com/zabirauf/AutoGPT.js): The Auto-GPT inspired browser version to make it more accessible for people to run.
 
 - [2023-BabyAGI JS ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ericciarla/babyagijs)](https://github.com/ericciarla/babyagijs): BabyAGI JS is a JavaScript-based AI agent that creates, prioritizes, and executes tasks using the GPT-4 architecture. It integrates with OpenAI's language model to create a powerful AI that can handle a wide range of tasks.
+
+- [2023-Agent-LLM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Josh-XT/Agent-LLM)](https://github.com/Josh-XT/Agent-LLM): An Artificial Intelligence Automation Platform. AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing. Supports many AI providers and models and growing support every day.

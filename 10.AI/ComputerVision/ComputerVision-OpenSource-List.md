@@ -4,6 +4,8 @@
 
 - [PaddleGAN ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/PaddlePaddle/PaddleGAN): PaddlePaddle GAN library, including lots of interesting applications like DeepFake First-Order motion transfer, Mai-ha-hi（蚂蚁呀嘿), faceswap wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
 
+- [2020-MediaPipe ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/google/mediapipe)](https://github.com/google/mediapipe): Cross-platform, customizable ML solutions for live and streaming media.
+
 ## Image & Text
 
 - [Versatile-Diffusion ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/SHI-Labs/Versatile-Diffusion): We built Versatile Diffusion (VD), the first unified multi-flow multimodal diffusion framework, as a step towards Universal Generative AI.
