@@ -22,6 +22,10 @@
 
 - [PyPy.js ![code](https://ng-tech.icu/assets/code.svg)](https://pypyjs.org/): PyPy.js is an experiment in building a fast and compliant python environment for the web.
 
+## Env
+
+- [2023-Rye ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mitsuhiko/rye)](https://github.com/mitsuhiko/rye): Rye is Armin's personal one-stop-shop for all his Python needs. It installs and manages Python installations, manages pyproject.toml files, installs and uninstalls dependencies, manages virtualenvs behind the scenes. It supports monorepos and global tool installations.
+
 ## Debug
 
 - [nbtutor ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/lgpage/nbtutor): Visualize Python code execution (line-by-line) in Jupyter Notebook cells.

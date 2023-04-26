@@ -40,6 +40,10 @@
 
 - [2023-web-llm ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mlc-ai/web-llm)](https://github.com/mlc-ai/web-llm): This project brings language model chats directly onto web browsers. Everything runs inside the browser with no server support and accelerated with WebGPU. We can bring a lot of fun opportunities to build AI assistants for everyone and enable privacy while enjoying GPU acceleration.
 
-# Cache & Proxy
+# Deployment
+
+- [2023-LocalAI ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/go-skynet/LocalAI)](https://github.com/go-skynet/LocalAI): 🤖 Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml compatible models, for instance: LLaMA, alpaca, gpt4all, vicuna, koala, gpt4all-j, cerebras
+
+## Cache & Proxy
 
 - [2023-GPTCache ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/zilliztech/GPTCache)](https://github.com/zilliztech/GPTCache): GPTCache is a library for creating semantic cache to store responses from LLM queries.
