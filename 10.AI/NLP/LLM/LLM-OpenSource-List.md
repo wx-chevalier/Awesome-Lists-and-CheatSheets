@@ -44,6 +44,8 @@
 
 - [2023-LocalAI ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/go-skynet/LocalAI)](https://github.com/go-skynet/LocalAI): 🤖 Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml compatible models, for instance: LLaMA, alpaca, gpt4all, vicuna, koala, gpt4all-j, cerebras
 
+- [2023-Quillman ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/modal-labs/quillman)](https://github.com/modal-labs/quillman): A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.
+
 ## Cache & Proxy
 
 - [2023-GPTCache ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/zilliztech/GPTCache)](https://github.com/zilliztech/GPTCache): GPTCache is a library for creating semantic cache to store responses from LLM queries.

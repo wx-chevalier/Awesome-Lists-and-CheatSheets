@@ -15,7 +15,7 @@
       - [1.3.4 Awesome DataVis](/00.Specials/Showcases/Awesome-DataVis.md)
       - [1.3.5 Awesome Design Inspiration](/00.Specials/Showcases/Awesome-Design-Inspiration.md)
       - [1.3.6 Coding as Vetren](/00.Specials/Showcases/Coding-as-Vetren.md)
-    - [1.4 Tools & Projects [25]](/00.Specials/Tools%20&%20Projects/README.md)
+    - [1.4 Tools & Projects [26]](/00.Specials/Tools%20&%20Projects/README.md)
       - [1.4.1 Automation](/00.Specials/Tools%20&%20Projects/Automation.md)
       - [1.4.2 Awesome Media Tools](/00.Specials/Tools%20&%20Projects/Awesome-Media-Tools.md)
       - [1.4.3 Awesome Tools](/00.Specials/Tools%20&%20Projects/Awesome-Tools.md)
@@ -45,9 +45,10 @@
       - [1.4.20 Startup](/00.Specials/Tools%20&%20Projects/Startup.md)
       - [1.4.21 Teamwork](/00.Specials/Tools%20&%20Projects/Teamwork.md)
       - [1.4.22 Terminal](/00.Specials/Tools%20&%20Projects/Terminal.md)
-      - [1.4.23 UGC](/00.Specials/Tools%20&%20Projects/UGC.md)
-      - [1.4.24 Website Builder](/00.Specials/Tools%20&%20Projects/Website%20Builder.md)
-      - [1.4.25 消息推送](/00.Specials/Tools%20&%20Projects/消息推送.md)
+      - [1.4.23 Translate Tools](/00.Specials/Tools%20&%20Projects/Translate%20Tools.md)
+      - [1.4.24 UGC](/00.Specials/Tools%20&%20Projects/UGC.md)
+      - [1.4.25 Website Builder](/00.Specials/Tools%20&%20Projects/Website%20Builder.md)
+      - [1.4.26 消息推送](/00.Specials/Tools%20&%20Projects/消息推送.md)
     - [1.5 Weekly [8]](/00.Specials/Weekly/README.md)
       - 1.5.1  [1]
         - 1.5.1.1  [2]
