@@ -30,6 +30,8 @@
 
 - [2021-rude-java ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/RudeCrab/rude-java)](https://github.com/RudeCrab/rude-java): Java Practice Projects(SSM、Spring Boot、Spring Security、MinIO、Vue). 以 Java 语言为主的各种项目实践，涵盖各个业务、各个功能，并附上高质量文章讲解，其中一些甚至可以单开一个仓库。让你再也不用寻找各种框架 demo、项目脚手架。
 
+- [2022-yudao-cloud ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/YunaiV/yudao-cloud)](https://github.com/YunaiV/yudao-cloud): ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+
 ## 工具库
 
 - [2020-lets-mica/mica ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lets-mica/mica)](https://github.com/lets-mica/mica): Spring Cloud 微服务开发核心工具集。工具类、验证码、http、redis、ip2region、xss 等，开箱即用。🔝 🔝 记得右上角点个 star 关注更新！
