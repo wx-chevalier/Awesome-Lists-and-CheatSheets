@@ -164,7 +164,7 @@
           - [1.5.6.1.8 WebAssembly](/00.Specials/Weekly/SemiannualReport/2017-1/WebAssembly.md)
       - [1.5.7 TEMPLATE](/00.Specials/Weekly/TEMPLATE.md)
       - [1.5.8 Template en](/00.Specials/Weekly/Template-en.md)
-  - 2 01.CS [8]
+  - 2 01.CS [9]
     - 2.1 AlgoDS [13]
       - [2.1.1 AlgoDS List](/01.CS/AlgoDS/AlgoDS-List.md)
       - [2.1.2 Compression List](/01.CS/AlgoDS/Compression-List.md)
@@ -322,21 +322,23 @@
         - [2.7.10.6 Rust Syntax List](/01.CS/Language/Rust/Rust-Syntax-List.md)
       - 2.7.11 Swift [1]
         - [2.7.11.1 Swift List](/01.CS/Language/Swift/Swift-List.md)
-    - 2.8 Theory [7]
-      - 2.8.1 Compiler [2]
-        - [2.8.1.1 Compiler List](/01.CS/Theory/Compiler/Compiler-List.md)
-        - [2.8.1.2 Compiler OpenSource List](/01.CS/Theory/Compiler/Compiler-OpenSource-List.md)
-      - 2.8.2 MemoryManagement [2]
-        - [2.8.2.1 GarbageCollection List](/01.CS/Theory/MemoryManagement/GarbageCollection-List.md)
-        - [2.8.2.2 MemoryManagement List](/01.CS/Theory/MemoryManagement/MemoryManagement-List.md)
-      - [2.8.3 PLT List](/01.CS/Theory/PLT-List.md)
-      - [2.8.4 PLT OpenSource List](/01.CS/Theory/PLT-OpenSource-List.md)
-      - 2.8.5 StaticAnalysis [1]
-        - [2.8.5.1 StaticAnalysis List](/01.CS/Theory/StaticAnalysis/StaticAnalysis-List.md)
-      - 2.8.6 TypeTheory [1]
-        - [2.8.6.1 Type Theory List](/01.CS/Theory/TypeTheory/Type-Theory-List.md)
-      - 2.8.7 VM [1]
-        - [2.8.7.1 VM List](/01.CS/Theory/VM/VM-List.md)
+    - 2.8 Mathematics [1]
+      - [2.8.1 Mathematics List](/01.CS/Mathematics/Mathematics-List.md)
+    - 2.9 Theory [7]
+      - 2.9.1 Compiler [2]
+        - [2.9.1.1 Compiler List](/01.CS/Theory/Compiler/Compiler-List.md)
+        - [2.9.1.2 Compiler OpenSource List](/01.CS/Theory/Compiler/Compiler-OpenSource-List.md)
+      - 2.9.2 MemoryManagement [2]
+        - [2.9.2.1 GarbageCollection List](/01.CS/Theory/MemoryManagement/GarbageCollection-List.md)
+        - [2.9.2.2 MemoryManagement List](/01.CS/Theory/MemoryManagement/MemoryManagement-List.md)
+      - [2.9.3 PLT List](/01.CS/Theory/PLT-List.md)
+      - [2.9.4 PLT OpenSource List](/01.CS/Theory/PLT-OpenSource-List.md)
+      - 2.9.5 StaticAnalysis [1]
+        - [2.9.5.1 StaticAnalysis List](/01.CS/Theory/StaticAnalysis/StaticAnalysis-List.md)
+      - 2.9.6 TypeTheory [1]
+        - [2.9.6.1 Type Theory List](/01.CS/Theory/TypeTheory/Type-Theory-List.md)
+      - 2.9.7 VM [1]
+        - [2.9.7.1 VM List](/01.CS/Theory/VM/VM-List.md)
   - 3 02.Frontend [8]
     - 3.1 01.Web [11]
       - 3.1.1 Architecture [6]
@@ -453,7 +455,7 @@
             - [3.1.11.3.6.2 Table & Grid OpenSource List](/02.Frontend/01.Web/Widgets/Data%20Entry/Table%20&%20Grid/Table%20&%20Grid-OpenSource-List.md)
         - 3.1.11.4 Diagram [3]
           - [3.1.11.4.1 D3 List](/02.Frontend/01.Web/Widgets/Diagram/D3-List.md)
-          - [3.1.11.4.2 Diagram OpenSource List](/02.Frontend/01.Web/Widgets/Diagram/Diagram-OpenSource-List.md)
+          - [3.1.11.4.2 Web Diagram OpenSource List](/02.Frontend/01.Web/Widgets/Diagram/Web-Diagram-OpenSource-List.md)
           - [3.1.11.4.3 Web Flow OpenSource List](/02.Frontend/01.Web/Widgets/Diagram/Web-Flow-OpenSource-List.md)
         - 3.1.11.5 Feedback [1]
           - [3.1.11.5.1 Feedback List](/02.Frontend/01.Web/Widgets/Feedback/Feedback-List.md)
@@ -993,15 +995,17 @@
         - [6.9.3.3 RecommendSystem OpenSource List](/10.AI/Application/RecommendSystem/RecommendSystem-OpenSource-List.md)
       - 6.9.4 SNA [1]
         - [6.9.4.1 SNA List](/10.AI/Application/SNA/SNA-List.md)
-    - 6.10 ComputerVision [8]
-      - [6.10.1 ComputerVision List](/10.AI/ComputerVision/ComputerVision-List.md)
-      - [6.10.2 ComputerVision OpenSource List](/10.AI/ComputerVision/ComputerVision-OpenSource-List.md)
-      - [6.10.3 FaceRecognition List](/10.AI/ComputerVision/FaceRecognition-List.md)
-      - [6.10.4 MidJourney List](/10.AI/ComputerVision/MidJourney-List.md)
-      - [6.10.5 OCR List](/10.AI/ComputerVision/OCR-List.md)
-      - [6.10.6 Object Detection List](/10.AI/ComputerVision/Object-Detection-List.md)
-      - [6.10.7 OpenCV List](/10.AI/ComputerVision/OpenCV-List.md)
-      - [6.10.8 StableDiffusion List](/10.AI/ComputerVision/StableDiffusion-List.md)
+    - 6.10 ComputerVision [9]
+      - 6.10.1 AIGC [1]
+        - [6.10.1.1 AIGC OpenSource List](/10.AI/ComputerVision/AIGC/AIGC-OpenSource-List.md)
+      - [6.10.2 ComputerVision List](/10.AI/ComputerVision/ComputerVision-List.md)
+      - [6.10.3 ComputerVision OpenSource List](/10.AI/ComputerVision/ComputerVision-OpenSource-List.md)
+      - [6.10.4 FaceRecognition List](/10.AI/ComputerVision/FaceRecognition-List.md)
+      - [6.10.5 MidJourney List](/10.AI/ComputerVision/MidJourney-List.md)
+      - [6.10.6 OCR List](/10.AI/ComputerVision/OCR-List.md)
+      - [6.10.7 Object Detection List](/10.AI/ComputerVision/Object-Detection-List.md)
+      - [6.10.8 OpenCV List](/10.AI/ComputerVision/OpenCV-List.md)
+      - [6.10.9 StableDiffusion List](/10.AI/ComputerVision/StableDiffusion-List.md)
     - 6.11 DeepLearning [9]
       - 6.11.1 CNN [1]
         - [6.11.1.1 CNN List](/10.AI/DeepLearning/CNN/CNN-List.md)

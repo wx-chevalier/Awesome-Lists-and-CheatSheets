@@ -26,6 +26,8 @@
 
 - [2022-Graphic Walker ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Kanaries/graphic-walker)](https://github.com/Kanaries/graphic-walker): Graphic Walker is a different type of open-source alternative to Tableau. It allows data scientists to analyze data and visualize patterns with simple drag-and-drop operations.
 
+- [2022-Observable Plot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/observablehq/plot)](https://github.com/observablehq/plot): Observable Plot is a free, open-source, JavaScript library for visualizing tabular data, focused on accelerating exploratory data analysis. It has a concise, memorable, yet expressive API, featuring scales and layered marks in the grammar of graphics style.
+
 # Others
 
 - [Datashader ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pyviz/datashader): Datashader is a data rasterization pipeline for automating the process of creating meaningful representations of large amounts of data.

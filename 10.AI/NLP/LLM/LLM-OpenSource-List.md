@@ -20,6 +20,8 @@
 
 - [2023-MOSS ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/OpenLMLab/MOSS)](https://github.com/OpenLMLab/MOSS): An open-source tool-augmented conversational language model from Fudan University.
 
+- [2023-WizardLM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nlpxucan/WizardLM)](https://github.com/nlpxucan/WizardLM): Empowering Large Pre-Trained Language Models to Follow Complex Instructions Resources.
+
 ## Finetuning & Inference
 
 - [2023-xturing ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/stochasticai/xturing)](https://github.com/stochasticai/xturing): xturing provides fast, efficient and simple fine-tuning of LLMs, such as LLaMA, GPT-J, GPT-2, OPT, Cerebras-GPT, Galactica, and more. By providing an easy-to-use interface for personalizing LLMs to your own data and application, xTuring makes it simple to build and control LLMs. The entire process can be done inside your computer or in your private cloud, ensuring data privacy and security.
@@ -32,13 +34,17 @@
 
 - [2023-langchain-ChatGLM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM)](https://github.com/imClumsyPanda/langchain-ChatGLM): 💡 受 GanymedeNil 的项目 document.ai 和 AlexZhangji 创建的 ChatGLM-6B Pull Request 启发，建立了全部基于开源模型实现的本地知识问答应用。
 
-## Agent
-
-- [2023-AI Legion ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/eumemic/ai-legion)](https://github.com/eumemic/ai-legion): A framework for autonomous agents who can work together to accomplish tasks.
-
-# Web LLM
+## Web LLM
 
 - [2023-web-llm ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mlc-ai/web-llm)](https://github.com/mlc-ai/web-llm): This project brings language model chats directly onto web browsers. Everything runs inside the browser with no server support and accelerated with WebGPU. We can bring a lot of fun opportunities to build AI assistants for everyone and enable privacy while enjoying GPU acceleration.
+
+## Chinese LLM
+
+- [2023-Linly ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CVI-SZU/Linly)](https://github.com/CVI-SZU/Linly): Linly-ChatFlow 支持简繁体中文、英文、日文等多语言。 LLaMA 在预训练阶段主要使用英文，为了将其语言能力迁移到中文上，首先进行中文增量预训练， 使用的语料包括中英平行语料、中文维基、社区互动、新闻数据、科学文献等。再通过 Alpaca 指令微调得到 Linly-ChatFlow。
+
+# Agent
+
+- [2023-AI Legion ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/eumemic/ai-legion)](https://github.com/eumemic/ai-legion): A framework for autonomous agents who can work together to accomplish tasks.
 
 # Deployment
 

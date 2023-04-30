@@ -6,37 +6,6 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 人工智能、深度学习与 TensorFlow 相关书籍、课程、示例列表是笔者 [Awesome Links](https://github.com/wx-chevalier/Awesome-Lists) 系列的一部分；对于其他的资料集锦、模型、开源工具与框架请参考 [DataScience AI List & Series](https://github.com/wx-chevalier/Awesome-Lists/tree/master/DataScienceAI)。
 
-# Mathematics | 数学基础
-
-- [2008-统计学完全教程》📚](https://book.douban.com/subject/3180810/)：由美国当代著名统计学家 L·沃塞曼所著的《统计学元全教程》是一本几乎包含了统计学领域全部知识的优秀教材。本书除了介绍传统数理统计学的全部内容以外，还包含了 Bootstrap 方法(自助法)、独立性推断、因果推断、图模型、非参数回归、正交函数光滑法、分类、统计学理论及数据挖掘等统计学领域的新方法和技术。本书不但注重概率论与数理统计基本理论的阐述，同时还强调数据分析能力的培养。本书中含有大量的实例以帮助广大读者快速掌握使用 R 软件进行统计数据分析。
-
-- [2009-Convex Optimization》📚](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf):This book is about convex optimization, a special class of mathematical optimization problems, which includes least-squares and linear programming problems. It is well known that least-squares and linear programming problems have a fairly complete theory, arise in a variety of applications, and can be solved numerically very efficiently. The basic point of this book is that the same can be said for the larger class of convex optimization problems.
-
-- [2009-The Elements of Statistical Learning: Data Mining, Inference, and Prediction-Second Edition](https://web.stanford.edu/~hastie/ElemStatLearn/): Hastie and Tibshirani cover a broad range of topics, from supervised learning (prediction) to unsupervised learning including neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book.
-
-- [2010-All of Statistics: A Concise Course in Statistical Inference》📚](http://read.pudn.com/downloads158/ebook/702714/Larry%20Wasserman_ALL%20OF%20Statistics.pdf): The goal of this book is to provide a broad background in probability and statistics for students in statistics, Computer science (especially data mining and machine learning), mathematics, and related disciplines.
-
-- [2012-李航-统计学习方法》📚](https://www.amazon.cn/dp/B007TSFMTA): 本书全面系统地介绍了统计学习的主要方法，特别是监督学习方法，包括感知机、k 近邻法、朴素贝叶斯法、决策树、逻辑斯谛回归与熵模型、支持向量机、提升方法、EM 算法、隐马尔可夫模型和条件随机场等。
-
-  - 书中的算法实现参考[这里](https://github.com/Dod-o/Statistical-Learning-Method_Code)。
-  - [fengdu78/lihang-code ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fengdu78/lihang-code)](https://github.com/fengdu78/lihang-code): 《统计学习方法》第二版的代码实现
-
-- [2016-Immersive Linear Algebra》📚](http://immersivemath.com/ila/index.html): The World's First Linear Algeria Book with fully Interactive Figures.
-
-- [2017-The Mathematics of Machine Learning》📚](http://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-machine-learning): Machine Learning theory is a field that intersects statistical, probabilistic, computer science and algorithmic aspects arising from learning iteratively from data and finding hidden insights which can be used to build intelligent applications. Despite the immense possibilities of Machine and Deep Learning, a thorough mathematical understanding of many of these techniques is necessary for a good grasp of the inner workings of the algorithms and getting good results.
-
-- [2017-G. Casella-An Introduction to Statistical Learning》📚](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf): This book is appropriate for advanced undergraduates or master’s students in statistics or related quantitative fields or for individuals in otherdisciplines who wish to use statistical learning tools to analyze their data.
-
-- [2018-AI 算法工程师手册》📚](http://www.huaxiaozhuan.com/): 这是作者多年以来学习总结的笔记，经整理之后开源于世。目前还有约一半的内容在陆续整理中，已经整理好的内容放置在此。
-
-- [2019-Math Basics》📚](http://117.128.6.20/cache/www.cis.upenn.edu/~jean/math-basics.pdf)
-
-- [2019-Mathematics for Machine Learning》📚](https://mml-book.github.io): We wrote a book on Mathematics for Machine Learning that motivates people to learn mathematical concepts. The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books.
-
-- [2019-The Little Handbook of Statistical Practice》📚](http://www.jerrydallal.com/LHSP/LHSP.htm): This is about statistical practice--what happens when a statistician (me) deals with data on a daily basis.
-
-- [2022-Visualize ML》📚](https://github.com/Visualize-ML): Book3_Fundamentals-of-Mathematics, Book4_Power-of-Matrix, Book5_Probability-and-Statistics, Book6_Data-Science, Book7_Machine-Learning。
-
 # Machine Learning | 机器学习
 
 - [2007-Pattern Recognition And Machine Learning》📚](https://book.douban.com/subject/2061116/): The book is suitable for courses on machine learning, statistics, computer science, signal processing, computer vision, data mining, and bioinformatics.

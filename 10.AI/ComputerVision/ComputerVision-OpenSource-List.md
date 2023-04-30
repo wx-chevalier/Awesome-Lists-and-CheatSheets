@@ -58,6 +58,8 @@
 
 - [2023-GroundingDINO ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/IDEA-Research/GroundingDINO)](https://github.com/IDEA-Research/GroundingDINO): The official implementation of "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
 
+- [2023-Segment-Everything-Everywhere-All-At-Once ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once): We introduce SEEM that can Segment Everything Everywhere with Multi-modal prompts all at once. SEEM allows users to easily segment an image using prompts of different types including visual prompts (points, marks, boxes, scribbles and image segments) and language prompts (text and audio), etc. It can also work with any combinations of prompts or generalize to custom prompts!
+
 ## Object Detection
 
 ### 动作识别
@@ -105,6 +107,8 @@
 ### Tracker
 
 - [2021-ByteTrack ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ifzhang/ByteTrack): ByteTrack: Multi-Object Tracking by Associating Every Detection Box.
+
+- [2023-Track-Anything ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gaomingqi/Track-Anything)](https://github.com/gaomingqi/Track-Anything): Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
 
 ## Video
 
