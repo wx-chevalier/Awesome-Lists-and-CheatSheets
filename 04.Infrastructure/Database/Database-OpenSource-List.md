@@ -201,3 +201,7 @@
 - [OrbitDB ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/orbitdb/orbit-db): Peer-to-Peer Databases for the Decentralized Web.
 
 - [Scuttlebot ![code](https://ng-tech.icu/assets/code.svg)](http://scuttlebot.io): Scuttlebot is an open source peer-to-peer log store used as a database, identity provider, and messaging system. It features global replication, file-syncronization, and end-to-end encryption.
+
+# AI Database
+
+- [2023-EVA ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/georgia-tech-db/eva)](https://github.com/georgia-tech-db/eva): EVA is a database system for building simpler and faster AI-powered applications.

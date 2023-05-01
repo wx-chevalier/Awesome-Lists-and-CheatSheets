@@ -7,3 +7,7 @@
 - [2023-BabyAGI JS ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ericciarla/babyagijs)](https://github.com/ericciarla/babyagijs): BabyAGI JS is a JavaScript-based AI agent that creates, prioritizes, and executes tasks using the GPT-4 architecture. It integrates with OpenAI's language model to create a powerful AI that can handle a wide range of tasks.
 
 - [2023-Agent-LLM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Josh-XT/Agent-LLM)](https://github.com/Josh-XT/Agent-LLM): An Artificial Intelligence Automation Platform. AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing. Supports many AI providers and models and growing support every day.
+
+- [2023-AI Legion ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/eumemic/ai-legion)](https://github.com/eumemic/ai-legion): A framework for autonomous agents who can work together to accomplish tasks.
+
+- [2023-Flowise ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/FlowiseAI/Flowise)](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS.
