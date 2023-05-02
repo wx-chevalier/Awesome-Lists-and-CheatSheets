@@ -36,7 +36,7 @@
 
 - [Poli ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/shzlw/poli): An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
 
-- [Cube.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/cube-js/cube.js): Open Source Analytics Framework.
+- [2020-Cube.js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/cube-js/cube)](https://github.com/cube-js/cube): Cube is the semantic layer for building data applications. It helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application.
 
 - [2015-Caravel ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/airbnb/caravel): Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 
