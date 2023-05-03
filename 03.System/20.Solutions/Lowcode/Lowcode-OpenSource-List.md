@@ -12,6 +12,8 @@
 
 - [refine ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/refinedev/refine): An open source, headless web application framework developed with flexibility in mind.
 
+- [2022-JHipster ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/JHipster)](https://github.com/JHipster): JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+
 # Airtable & Database
 
 - [2020-Baserow ![code](https://martrix-2020-Baccelerate.aliyuncs.com/logo2020-Bg) ![star](https://img.shields.io/github/stars/bram2w/baserow)](https://github.com/bram2w/baserow): Create your own online database without technical experience. Our user-friendly no-code tool gives you the powers of a developer without leaving your browser.
