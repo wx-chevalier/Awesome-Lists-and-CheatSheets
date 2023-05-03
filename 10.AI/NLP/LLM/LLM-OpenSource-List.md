@@ -1,7 +1,5 @@
 # OpenSource
 
-- [2023-Promptable ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/cfortuner/promptable)](https://github.com/cfortuner/promptable): Promptable is library that enables you to build powerful AI applications with LLMs and Embeddings providers such as OpenAI, Hugging Face, Cohere and Anthropic. It provides a flexible and extensible API that makes it easy to compose LLMs with data and tools to build complex applications quickly and easily.
-
 - [2023-mm-cot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/amazon-science/mm-cot)](https://github.com/amazon-science/mm-cot): Multimodal-CoT incorporates vision features in a decoupled training framework. The framework consists of two training stages: (i) rationale generation and (ii) answer inference. Both stages share the same model architecture but differ in the input and output.
 
 - [2023-LangChains ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hwchase17/langchain)](https://github.com/hwchase17/langchain): Large language models (LLMs) are emerging as a transformative technology, enabling developers to build applications that they previously could not. But using these LLMs in isolation is often not enough to create a truly powerful app - the real power comes when you can combine them with other sources of computation or knowledge.
@@ -43,6 +41,12 @@
 ## Chinese LLM
 
 - [2023-Linly ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CVI-SZU/Linly)](https://github.com/CVI-SZU/Linly): Linly-ChatFlow 支持简繁体中文、英文、日文等多语言。 LLaMA 在预训练阶段主要使用英文，为了将其语言能力迁移到中文上，首先进行中文增量预训练， 使用的语料包括中英平行语料、中文维基、社区互动、新闻数据、科学文献等。再通过 Alpaca 指令微调得到 Linly-ChatFlow。
+
+# Prompt
+
+- [2023-Promptable ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/cfortuner/promptable)](https://github.com/cfortuner/promptable): Promptable is library that enables you to build powerful AI applications with LLMs and Embeddings providers such as OpenAI, Hugging Face, Cohere and Anthropic. It provides a flexible and extensible API that makes it easy to compose LLMs with data and tools to build complex applications quickly and easily.
+
+- [2023-Jsonformer ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/1rgs/jsonformer)](https://github.com/1rgs/jsonformer): A Bulletproof Way to Generate Structured JSON from Language Models.
 
 # Deployment
 
