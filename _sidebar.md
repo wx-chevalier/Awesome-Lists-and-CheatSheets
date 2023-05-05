@@ -216,8 +216,8 @@
       - 2.7.1 Assembly [1]
         - [2.7.1.1 Assembly List](/01.CS/Language/Assembly/Assembly-List.md)
       - 2.7.2 C [6]
-        - [2.7.2.1 C List](/01.CS/Language/C/C-List.md)
-        - [2.7.2.2 CPP Compiler List](/01.CS/Language/C/CPP-Compiler-List.md)
+        - [2.7.2.1 C++ Compiler List](/01.CS/Language/C/C++-Compiler-List.md)
+        - [2.7.2.2 C List](/01.CS/Language/C/C-List.md)
         - [2.7.2.3 CPP ConcurrentProgramming List](/01.CS/Language/C/CPP-ConcurrentProgramming-List.md)
         - [2.7.2.4 CPP List](/01.CS/Language/C/CPP-List.md)
         - [2.7.2.5 CPP OpenSource List](/01.CS/Language/C/CPP-OpenSource-List.md)

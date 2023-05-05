@@ -20,6 +20,8 @@
 
 - [2023-gpt4all ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nomic-ai/gpt4all)](https://github.com/nomic-ai/gpt4all): Demo, data and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa
 
+- [2023-open_llama ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/openlm-research/open_llama)](https://github.com/openlm-research/open_llama): In this repo, we release a permissively licensed open source reproduction of Meta AI's LLaMA large language model. In this release, we're releasing a public preview of the 7B OpenLLaMA model that has been trained with 200 billion tokens. We provide PyTorch and Jax weights of pre-trained OpenLLaMA models, as well as evaluation results and comparison against the original LLaMA models. Stay tuned for our updates.
+
 ## Chinese
 
 - [2023-Chinese-LLaMA-Alpaca ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca)](https://github.com/ymcui/Chinese-LLaMA-Alpaca): 为了促进大模型在中文 NLP 社区的开放研究，本项目开源了中文 LLaMA 模型和经过指令精调的 Alpaca 大模型。这些模型在原版 LLaMA 的基础上扩充了中文词表并使用了中文数据进行二次预训练，进一步提升了中文基础语义理解能力。同时，在中文 LLaMA 的基础上，本项目使用了中文指令数据进行指令精调，显著提升了模型对指令的理解和执行能力。
