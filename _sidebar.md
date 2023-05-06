@@ -180,7 +180,9 @@
         - [2.1.10.2 GA List](/01.CS/AlgoDS/Optimization/GA-List.md)
         - 2.1.10.3 Search [2]
           - [2.1.10.3.1 Search List](/01.CS/AlgoDS/Optimization/Search/Search-List.md)
-          - [2.1.10.3.2 Vector Search List](/01.CS/AlgoDS/Optimization/Search/Vector-Search-List.md)
+          - 2.1.10.3.2 Vector Search [2]
+            - [2.1.10.3.2.1 Faiss List](/01.CS/AlgoDS/Optimization/Search/Vector%20Search/Faiss-List.md)
+            - [2.1.10.3.2.2 Vector Search List](/01.CS/AlgoDS/Optimization/Search/Vector%20Search/Vector-Search-List.md)
       - [2.1.11 Sort List](/01.CS/AlgoDS/Sort-List.md)
       - [2.1.12 String List](/01.CS/AlgoDS/String-List.md)
       - [2.1.13 Tree List](/01.CS/AlgoDS/Tree-List.md)
