@@ -324,8 +324,11 @@
         - [2.7.10.6 Rust Syntax List](/01.CS/Language/Rust/Rust-Syntax-List.md)
       - 2.7.11 Swift [1]
         - [2.7.11.1 Swift List](/01.CS/Language/Swift/Swift-List.md)
-    - 2.8 Mathematics [1]
-      - [2.8.1 Mathematics List](/01.CS/Mathematics/Mathematics-List.md)
+    - 2.8 Mathematics [4]
+      - [2.8.1 LinearAlgebra List](/01.CS/Mathematics/LinearAlgebra-List.md)
+      - [2.8.2 Mathematics List](/01.CS/Mathematics/Mathematics-List.md)
+      - [2.8.3 ProbabilityTheory List](/01.CS/Mathematics/ProbabilityTheory-List.md)
+      - [2.8.4 Statistics List](/01.CS/Mathematics/Statistics-List.md)
     - 2.9 Theory [7]
       - 2.9.1 Compiler [2]
         - [2.9.1.1 Compiler List](/01.CS/Theory/Compiler/Compiler-List.md)
@@ -978,7 +981,7 @@
         - [5.7.6.1 OST List](/04.Infrastructure/OS/Theory/OST-List.md)
       - 5.7.7 Windows [1]
         - [5.7.7.1 Windows List](/04.Infrastructure/OS/Windows/Windows-List.md)
-  - 6 10.AI [15]
+  - 6 10.AI [14]
     - [6.1 AI Book List](/10.AI/AI-Book-List.md)
     - [6.2 AI Course List](/10.AI/AI-Course-List.md)
     - [6.3 AI Engineering List](/10.AI/AI-Engineering-List.md)
@@ -1109,34 +1112,29 @@
         - [6.13.7.2 SyntaxSemanticAnalysis List](/10.AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
       - 6.13.8 Transformer [1]
         - [6.13.8.1 Transformer List](/10.AI/NLP/Transformer/Transformer-List.md)
-    - 6.14 Statistics [4]
-      - [6.14.1 LinearAlgebra List](/10.AI/Statistics/LinearAlgebra-List.md)
-      - [6.14.2 Mathematics List](/10.AI/Statistics/Mathematics-List.md)
-      - [6.14.3 ProbabilityTheory List](/10.AI/Statistics/ProbabilityTheory-List.md)
-      - [6.14.4 Statistics List](/10.AI/Statistics/Statistics-List.md)
-    - 6.15 Toolkit [5]
-      - [6.15.1 AI Toolkit List](/10.AI/Toolkit/AI-Toolkit-List.md)
-      - 6.15.2 CUDA [1]
-        - [6.15.2.1 CUDA List](/10.AI/Toolkit/CUDA/CUDA-List.md)
-      - 6.15.3 FederalLearning [1]
-        - [6.15.3.1 FederalLearning List](/10.AI/Toolkit/FederalLearning/FederalLearning-List.md)
-      - 6.15.4 Framework [4]
-        - [6.15.4.1 Metaflow](/10.AI/Toolkit/Framework/Metaflow/README.md)
+    - 6.14 Toolkit [5]
+      - [6.14.1 AI Toolkit List](/10.AI/Toolkit/AI-Toolkit-List.md)
+      - 6.14.2 CUDA [1]
+        - [6.14.2.1 CUDA List](/10.AI/Toolkit/CUDA/CUDA-List.md)
+      - 6.14.3 FederalLearning [1]
+        - [6.14.3.1 FederalLearning List](/10.AI/Toolkit/FederalLearning/FederalLearning-List.md)
+      - 6.14.4 Framework [4]
+        - [6.14.4.1 Metaflow](/10.AI/Toolkit/Framework/Metaflow/README.md)
           
-        - 6.15.4.2 PyTorch [1]
-          - [6.15.4.2.1 PyTorch List](/10.AI/Toolkit/Framework/PyTorch/PyTorch-List.md)
-        - 6.15.4.3 Scikit [3]
-          - [6.15.4.3.1 Jupyter List](/10.AI/Toolkit/Framework/Scikit/Jupyter-List.md)
-          - [6.15.4.3.2 Scikit List](/10.AI/Toolkit/Framework/Scikit/Scikit-List.md)
-          - 6.15.4.3.3 Vis [1]
-            - [6.15.4.3.3.1 Vis List](/10.AI/Toolkit/Framework/Scikit/Vis/Vis-List.md)
-        - 6.15.4.4 TensorFlow [4]
-          - [6.15.4.4.1 Keras List](/10.AI/Toolkit/Framework/TensorFlow/Keras-List.md)
-          - [6.15.4.4.2 TFjs List](/10.AI/Toolkit/Framework/TensorFlow/TFjs-List.md)
-          - [6.15.4.4.3 TensorFlow Internals List](/10.AI/Toolkit/Framework/TensorFlow/TensorFlow-Internals-List.md)
-          - [6.15.4.4.4 TensorFlow List](/10.AI/Toolkit/Framework/TensorFlow/TensorFlow-List.md)
-      - 6.15.5 Platform [1]
-        - [6.15.5.1 Platform List](/10.AI/Toolkit/Platform/Platform-List.md)
+        - 6.14.4.2 PyTorch [1]
+          - [6.14.4.2.1 PyTorch List](/10.AI/Toolkit/Framework/PyTorch/PyTorch-List.md)
+        - 6.14.4.3 Scikit [3]
+          - [6.14.4.3.1 Jupyter List](/10.AI/Toolkit/Framework/Scikit/Jupyter-List.md)
+          - [6.14.4.3.2 Scikit List](/10.AI/Toolkit/Framework/Scikit/Scikit-List.md)
+          - 6.14.4.3.3 Vis [1]
+            - [6.14.4.3.3.1 Vis List](/10.AI/Toolkit/Framework/Scikit/Vis/Vis-List.md)
+        - 6.14.4.4 TensorFlow [4]
+          - [6.14.4.4.1 Keras List](/10.AI/Toolkit/Framework/TensorFlow/Keras-List.md)
+          - [6.14.4.4.2 TFjs List](/10.AI/Toolkit/Framework/TensorFlow/TFjs-List.md)
+          - [6.14.4.4.3 TensorFlow Internals List](/10.AI/Toolkit/Framework/TensorFlow/TensorFlow-Internals-List.md)
+          - [6.14.4.4.4 TensorFlow List](/10.AI/Toolkit/Framework/TensorFlow/TensorFlow-List.md)
+      - 6.14.5 Platform [1]
+        - [6.14.5.1 Platform List](/10.AI/Toolkit/Platform/Platform-List.md)
   - 7 20.Product [6]
     - 7.1 Design [1]
       - [7.1.1 Design List](/20.Product/Design/Design-List.md)

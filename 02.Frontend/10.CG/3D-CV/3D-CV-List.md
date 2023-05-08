@@ -33,3 +33,5 @@
 - [2021-text2mesh ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/threedle/text2mesh)](https://github.com/threedle/text2mesh): 3D mesh stylization driven by a text input in PyTorch.
 
 - [2022-Point·E ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/openai/point-e)](https://github.com/openai/point-e): Point cloud diffusion for 3D model synthesis
+
+- [2023-Shap-E ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/openai/shap-e)](https://github.com/openai/shap-e): Generate 3D objects conditioned on text or images.

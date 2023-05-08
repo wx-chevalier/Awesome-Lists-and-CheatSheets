@@ -22,6 +22,10 @@
 
 - [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/): A curated collection of useful CSS snippets you can understand in 30 seconds or less.
 
+## Series
+
+- [2020-Modern CSS Solutions #Series#](https://moderncss.dev/): Learn and Practice Modern CSS
+
 # Tutorial
 
 - [2017-8 CSS gotchas to start your morning off right](https://parg.co/bhl).
