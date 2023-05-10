@@ -230,7 +230,9 @@
 
 - [LagRadar ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mobz/lag-radar): Add this to any javascript application and you can see when the app drops below 60fps as the radar sweep changes colour and gets janky.
 
-- [Lighthouse ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChrome/lighthouse): Lighthouse analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
+- [Lighthouse ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChrome/lighthouse): Lighthouse an alyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
+
+  - [2023-Unlighthouse ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/harlan-zw/unlighthouse)](https://github.com/harlan-zw/unlighthouse): Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
 
 - [stats.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mrdoob/stats.js): JavaScript Performance Monitor.
 

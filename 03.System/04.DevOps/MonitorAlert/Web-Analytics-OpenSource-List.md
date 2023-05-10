@@ -1,4 +1,4 @@
-# Analytics OpenSource List
+# Web Analytics OpenSource List
 
 - [Fathom ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/usefathom/fathom): Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.
 

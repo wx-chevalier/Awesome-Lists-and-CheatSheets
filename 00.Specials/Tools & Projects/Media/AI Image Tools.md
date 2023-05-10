@@ -9,3 +9,7 @@
 - [Umi-OCR ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hiroi-sora/Umi-OCR): OCR 批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。基于 PaddleOCR 。
 
 - [tools-ocr](https://github.com/AnyListen/tools-ocr): 树洞 OCR 文字识别（一款跨平台的 OCR 小工具）
+
+# Video
+
+- [2023-Open Chat Video Editor ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/SCUTlihaoyu/open-chat-video-editor)](https://github.com/SCUTlihaoyu/open-chat-video-editor): Open Chat Video Editor 是开源的短视频生成和编辑工具，整体技术框架如下。

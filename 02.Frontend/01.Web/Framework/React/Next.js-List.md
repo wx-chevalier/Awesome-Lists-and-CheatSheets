@@ -9,3 +9,5 @@
 - [taxonomy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/shadcn/taxonomy): An open source application built using the new router, server components and everything new in Next.js 13.
 
 - [2022-Precedent ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/steven-tey/precedent)](https://github.com/steven-tey/precedent): Precedent is an opinionated collection of components, hooks, and utilities for your Next.js project.
+
+- [2023-next13-messenger ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/AntonioErdeljac/next13-messenger)](https://github.com/AntonioErdeljac/next13-messenger): This is a repository for a Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher.
