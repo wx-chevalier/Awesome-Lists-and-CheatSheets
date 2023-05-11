@@ -24,7 +24,7 @@
 
 - [2019-zitadel/zitadel ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/zitadel/zitadel)](https://github.com/zitadel/zitadel): We provide you with a wide range of out of the box features to accelerate your project. Multi-tenancy with branding customization, secure login, self-service, OpenID Connect, OAuth2.x, SAML2, Passwordless with FIDO2 (including Passkeys), OTP, U2F, and an unlimited audit trail is there for you, ready to use. With ZITADEL you can rely on a hardened and extensible turnkey solution to solve all of your authentication and authorization needs.
 
-- [2020-SuperTokens ![code](https://ng-tech.icu/assets/code.svg)s#](https://github.com/supertokens/supertokens-core): Open source alternative to Auth0 / Firebase Auth / AWS Cognito
+- [2020-SuperTokens ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/supertokens/supertokens-core)](https://github.com/supertokens/supertokens-core): Add secure login and session management to your apps. SDKs available for popular languages and front-end frameworks e.g. Node.js, Go, Python, React.js, React Native, Vanilla JS, etc.
 
 - [sa-token ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/click33/sa-token): 这可能是史上功能最全的 Java 权限认证框架！目前已经集成——登录验证、权限验证、Session 会话、踢人下线、模拟他人账号、临时身份切换、集成 Redis、多账号认证体系、前后台分离模式、注解式鉴权、路由拦截式鉴权、花式 token 生成、自动续签、同端互斥登录、会话治理、组件自动注入...
 
