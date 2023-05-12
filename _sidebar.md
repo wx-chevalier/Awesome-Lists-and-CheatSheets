@@ -245,7 +245,9 @@
           - [2.7.6.1.2 Java Async List](/01.CS/Language/Java/ConcurrentProgramming/Java-Async-List.md)
           - [2.7.6.1.3 Java ConcurrentProgramming List](/01.CS/Language/Java/ConcurrentProgramming/Java-ConcurrentProgramming-List.md)
           - [2.7.6.1.4 Java ConcurrentProgramming OpenSource List](/01.CS/Language/Java/ConcurrentProgramming/Java-ConcurrentProgramming-OpenSource-List.md)
-          - [2.7.6.1.5 Netty List](/01.CS/Language/Java/ConcurrentProgramming/Netty-List.md)
+          - 2.7.6.1.5 Netty [2]
+            - [2.7.6.1.5.1 Netty List](/01.CS/Language/Java/ConcurrentProgramming/Netty/Netty-List.md)
+            - [2.7.6.1.5.2 Netty OpenSource List](/01.CS/Language/Java/ConcurrentProgramming/Netty/Netty-OpenSource-List.md)
         - 2.7.6.2 Dev [12]
           - [2.7.6.2.1 Gradle List](/01.CS/Language/Java/Dev/Gradle-List.md)
           - [2.7.6.2.2 Java Collection List](/01.CS/Language/Java/Dev/Java-Collection-List.md)
