@@ -2,6 +2,8 @@
 
 - [2022-Trigger.dev ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/triggerdotdev/trigger.dev)](https://github.com/triggerdotdev/trigger.dev): ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
 
+- [2023-windmill ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/windmill-labs/windmill)](https://github.com/windmill-labs/windmill): Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
+
 ## Workflow management
 
 - [Apache Airflow ![code](https://ng-tech.icu/assets/code.svg)](https://airflow.apache.org/index.html#): Airflow is a platform to programmatically author, schedule and monitor workflows.

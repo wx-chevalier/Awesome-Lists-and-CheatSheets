@@ -19,3 +19,7 @@
 # OpenSource
 
 - [EdgeDNS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jedisct1/edgedns)
+
+## Showcase
+
+- [2023-Implement DNS in a weekend #Project#](https://implement-dns.wizardzines.com/index.html): There are also some bonus exercises if you want to implement a few more of the features a real DNS resolver would have.

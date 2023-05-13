@@ -26,6 +26,8 @@
 
 - [2020-smart-cloud ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/smart-cloud/smart-cloud)](https://github.com/smart-cloud/smart-cloud): 基于 springboot && springcloud 的脚手架，支持服务合并部署与拆分部署、接口加解密签名、日志数据 脱敏、接口数据 mock、接口文档自动生成、请求幂等校验、接口日志&&sql 日志切面打印、分表分库分布式事务、国际化语言等
 
+- [2020-MoguBlog ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/moxi624/mogu_blog_v2)](https://github.com/moxi624/mogu_blog_v2): 蘑菇博客(MoguBlog)，一个基于微服务架构的前后端分离博客系统。Web 端使用 Vue + Element , 移动端使用 uniapp 和 ColorUI。后端使用 Spring cloud + Spring boot + mybatis-plus 进行开发，使用 Jwt + Spring Security 做登录验证和权限校验，使用 ElasticSearch 和 Solr 作为全文检索服务，使用 Github Actions 完成博客的持续集成，使用 ELK 收集博客日志，文件支持上传七牛云和 Minio，支持 Docker Compose 脚本一键部署。
+
 - [2021-rude-java ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/RudeCrab/rude-java)](https://github.com/RudeCrab/rude-java): Java Practice Projects(SSM、Spring Boot、Spring Security、MinIO、Vue). 以 Java 语言为主的各种项目实践，涵盖各个业务、各个功能，并附上高质量文章讲解，其中一些甚至可以单开一个仓库。让你再也不用寻找各种框架 demo、项目脚手架。
 
 - [2022-yudao-cloud ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/YunaiV/yudao-cloud)](https://github.com/YunaiV/yudao-cloud): ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
