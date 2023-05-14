@@ -14,10 +14,6 @@
 
 - [2021-Gort ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/getgort/gort): Gort is a chatbot framework designed from the ground up for chatops.
 
-# DevOps Panel
-
-- [2023-1Panel ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/1Panel-dev/1Panel)](https://github.com/1Panel-dev/1Panel): 1Panel 是一个现代化、开源的 Linux 服务器运维管理面板。
-
 # Automation | 自动化
 
 - [Terraform ![code](https://ng-tech.icu/assets/code.svg)](https://www.terraform.io/): Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently.

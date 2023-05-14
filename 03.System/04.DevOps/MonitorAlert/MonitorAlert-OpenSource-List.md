@@ -38,7 +38,7 @@
 
 - [2020-Kvass ![code](https://ng-tech.icu/assets/code.svg)](https://cubox.pro/c/v794lW): Kvass 是一个 Prometheus 横向扩缩容解决方案，他使用 Sidecar 动态得根据 Coordinator 分配下来的 target 列表来为每个 Prometheus 生成只含特定 target 的配置文件，从而将采集任务动态调度到各个 Prometheus 分片。Coordinator 用于服务发现，target 调度和分片扩缩容管理. Thanos (或者其他 TSDB) 用来将分片数据汇总成全局数据.
 
-# Server Dashboard
+# Server Dashboard & Panel
 
 - [2005-htop ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hishamhm/htop): htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 
@@ -55,6 +55,8 @@
 - [bashtop ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/aristocratos/bashtop): Linux resource monitor
 
 - [Cockpit ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/cockpit-project/cockpit): Cockpit is an interactive server admin interface. It is easy to use and very light weight. Cockpit interacts directly with the operating system from a real Linux session in a browser.
+
+- [2023-1Panel ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/1Panel-dev/1Panel)](https://github.com/1Panel-dev/1Panel): 1Panel 是一个现代化、开源的 Linux 服务器运维管理面板。
 
 ## Container
 
