@@ -22,4 +22,6 @@
 
 - [2021-3D 可视化教程 #Series#](https://github.com/alwxkxk/threejs-example): 这是 3D 可视化教程源码，其教程文字内容在作者博客中，教程还在制作当中。
 
+- [2021-threejs-tutorial #Series#](https://github.com/puxiao/threejs-tutorial): Three.js 系列教程，学习和探索 Three.js 世界。
+
 # Tutorial
