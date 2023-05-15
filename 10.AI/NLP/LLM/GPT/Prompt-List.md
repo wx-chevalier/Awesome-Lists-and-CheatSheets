@@ -6,6 +6,8 @@
 
 - [2023-Learning-Prompt ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/thinkingjimmy/Learning-Prompt)](https://github.com/thinkingjimmy/Learning-Prompt): 这是一份教你如何更好使好地使用 ChatGPT 和其他 AI 产品的免费教程。
 
+- [2023-prompt-engineering ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/brexhq/prompt-engineering)](https://github.com/brexhq/prompt-engineering): This guide was created by Brex for internal purposes. It's based on lessons learned from researching and creating Large Language Model (LLM) prompts for production use cases. It covers the history around LLMs as well as strategies, guidelines, and safety recommendations for working with and building programmatic systems on top of large language models, like OpenAI's GPT-4.
+
 # Resource
 
 ## Book
