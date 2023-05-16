@@ -32,7 +32,7 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 - [2020-《react-book》📚](https://github.com/softchris/react-book): Free book on React. Beginner to intermediate.
 
-- [2020-《react-illustration-series》📚 ![star](https://img.shields.io/github/stars/7kms/react-illustration-series)](https://github.com/7kms/react-illustration-series): react 源码, 基于react@17.0.2(尽可能跟随 react 版本的升级, 持续更新). 用大量配图的方式, 致力于将 react 原理表述清楚.
+- [2020-《图解 React 源码》📚 ![star](https://img.shields.io/github/stars/7kms/react-illustration-series)](https://github.com/7kms/react-illustration-series): react 源码, 基于react@17.0.2(尽可能跟随 react 版本的升级, 持续更新). 用大量配图的方式, 致力于将 react 原理表述清楚.
 
 ## Concept | 概念阐述
 

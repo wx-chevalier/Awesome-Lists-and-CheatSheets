@@ -28,4 +28,6 @@
 
 - [MDN-HTTP 访问控制(CORS)](https://parg.co/UGw)
 
+- [2018-Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors): In this article, we will dive deeper into this topic, trying to understand what problem CORS really solves. However, we will start with the Same-Origin Policy (SOP) concept.
+
 # File Transfer | 文件传输

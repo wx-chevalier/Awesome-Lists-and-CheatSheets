@@ -1,9 +1,7 @@
 # Network List
 
-- [2016-Beej's Guide to Network Programming Using Internet Sockets》📚](http://beej.us/guide/bgnet/): This is my little how-to guide on network programming using Internet sockets, or "sockets programming", for those of you who prefer it. The sockets API, though started by the Berkeley folk, has been ported to many many platforms, including Unix, Linux, and even Windows.
+- [2013-《High Performance Browser Networking》📚](https://hpbn.co/): Performance is a feature. This book provides a hands-on overview of what every web developer needs to know about the various types of networks (WiFi, 3G/4G), transport protocols (UDP, TCP, and TLS), application protocols (HTTP/1.1, HTTP/2), and APIs available in the browser (XHR, WebSocket, WebRTC, and more) to deliver the best—fast, reliable, and resilient—user experience.
 
-- [The Decentralized Web Primer》📚](https://parg.co/U3D): This primer contains a series of Tutorial explaining IPFS, Merkle Trees and the Decentralized Web. It's written and maintained as a gitbook so people can read it in many formats.
+- [2016-《Beej's Guide to Network Programming Using Internet Sockets》📚](http://beej.us/guide/bgnet/): This is my little how-to guide on network programming using Internet sockets, or "sockets programming", for those of you who prefer it. The sockets API, though started by the Berkeley folk, has been ported to many many platforms, including Unix, Linux, and even Windows.
 
-# Web 3.0
-
-- [2021-对 Web3.0 概念的梳理](https://mp.weixin.qq.com/s/vJM6TIZT2f-tnQ49cpMnrw): 限于篇幅，本文不可能对这些概念一一讲解。本文的主要目标是尝试在这成堆的概念中，寻找出有关 Web3.0 的主要脉络。
+- [《The Decentralized Web Primer》📚](https://parg.co/U3D): This primer contains a series of Tutorial explaining IPFS, Merkle Trees and the Decentralized Web. It's written and maintained as a gitbook so people can read it in many formats.
