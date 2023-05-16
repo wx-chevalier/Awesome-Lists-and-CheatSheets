@@ -414,17 +414,19 @@
         - [3.1.5.7 Node OpenSource List](/02.Frontend/01.Web/Node/Node-OpenSource-List.md)
         - [3.1.5.8 Node Syntax List](/02.Frontend/01.Web/Node/Node-Syntax-List.md)
         - [3.1.5.9 Node Tuning List](/02.Frontend/01.Web/Node/Node-Tuning-List.md)
-      - 3.1.6 Syntax [8]
-        - [3.1.6.1 CSS Architecture List](/02.Frontend/01.Web/Syntax/CSS-Architecture-List.md)
-        - [3.1.6.2 CSS Layout List](/02.Frontend/01.Web/Syntax/CSS-Layout-List.md)
-        - [3.1.6.3 CSS List](/02.Frontend/01.Web/Syntax/CSS-List.md)
-        - [3.1.6.4 CSS Syntax List](/02.Frontend/01.Web/Syntax/CSS-Syntax-List.md)
-        - [3.1.6.5 HTML List](/02.Frontend/01.Web/Syntax/HTML-List.md)
-        - [3.1.6.6 Web Animation List](/02.Frontend/01.Web/Syntax/Web-Animation-List.md)
-        - [3.1.6.7 Web Syntax List](/02.Frontend/01.Web/Syntax/Web-Syntax-List.md)
-        - 3.1.6.8 WebAssembly [2]
-          - [3.1.6.8.1 WebAssembly List](/02.Frontend/01.Web/Syntax/WebAssembly/WebAssembly-List.md)
-          - [3.1.6.8.2 WebAssembly OpenSource List](/02.Frontend/01.Web/Syntax/WebAssembly/WebAssembly-OpenSource-List.md)
+      - 3.1.6 Syntax [5]
+        - 3.1.6.1 CSS [5]
+          - [3.1.6.1.1 CSS Architecture List](/02.Frontend/01.Web/Syntax/CSS/CSS-Architecture-List.md)
+          - [3.1.6.1.2 CSS Layout List](/02.Frontend/01.Web/Syntax/CSS/CSS-Layout-List.md)
+          - [3.1.6.1.3 CSS List](/02.Frontend/01.Web/Syntax/CSS/CSS-List.md)
+          - [3.1.6.1.4 CSS OpenSource List](/02.Frontend/01.Web/Syntax/CSS/CSS-OpenSource-List.md)
+          - [3.1.6.1.5 CSS Syntax List](/02.Frontend/01.Web/Syntax/CSS/CSS-Syntax-List.md)
+        - [3.1.6.2 HTML List](/02.Frontend/01.Web/Syntax/HTML-List.md)
+        - [3.1.6.3 Web Animation List](/02.Frontend/01.Web/Syntax/Web-Animation-List.md)
+        - [3.1.6.4 Web Syntax List](/02.Frontend/01.Web/Syntax/Web-Syntax-List.md)
+        - 3.1.6.5 WebAssembly [2]
+          - [3.1.6.5.1 WebAssembly List](/02.Frontend/01.Web/Syntax/WebAssembly/WebAssembly-List.md)
+          - [3.1.6.5.2 WebAssembly OpenSource List](/02.Frontend/01.Web/Syntax/WebAssembly/WebAssembly-OpenSource-List.md)
       - 3.1.7 Tuning [8]
         - [3.1.7.1 VirtualDOM List](/02.Frontend/01.Web/Tuning/VirtualDOM-List.md)
         - [3.1.7.2 Web APM List](/02.Frontend/01.Web/Tuning/Web-APM-List.md)
@@ -996,16 +998,18 @@
     - [6.6 AI Model OpenSource List](/10.AI/AI-Model-OpenSource-List.md)
     - [6.7 AI OpenSource List](/10.AI/AI-OpenSource-List.md)
     - [6.8 AI Showcase List](/10.AI/AI-Showcase-List.md)
-    - 6.9 Application [4]
+    - 6.9 Application [5]
       - [6.9.1 AI Application List](/10.AI/Application/AI-Application-List.md)
-      - 6.9.2 AutoDriving [1]
-        - [6.9.2.1 AutoDriving List](/10.AI/Application/AutoDriving/AutoDriving-List.md)
-      - 6.9.3 RecommendSystem [3]
-        - [6.9.3.1 CTR List](/10.AI/Application/RecommendSystem/CTR-List.md)
-        - [6.9.3.2 RecommendSystem List](/10.AI/Application/RecommendSystem/RecommendSystem-List.md)
-        - [6.9.3.3 RecommendSystem OpenSource List](/10.AI/Application/RecommendSystem/RecommendSystem-OpenSource-List.md)
-      - 6.9.4 SNA [1]
-        - [6.9.4.1 SNA List](/10.AI/Application/SNA/SNA-List.md)
+      - 6.9.2 Assistant [1]
+        - [6.9.2.1 AI Assistant List](/10.AI/Application/Assistant/AI-Assistant-List.md)
+      - 6.9.3 AutoDriving [1]
+        - [6.9.3.1 AutoDriving List](/10.AI/Application/AutoDriving/AutoDriving-List.md)
+      - 6.9.4 RecommendSystem [3]
+        - [6.9.4.1 CTR List](/10.AI/Application/RecommendSystem/CTR-List.md)
+        - [6.9.4.2 RecommendSystem List](/10.AI/Application/RecommendSystem/RecommendSystem-List.md)
+        - [6.9.4.3 RecommendSystem OpenSource List](/10.AI/Application/RecommendSystem/RecommendSystem-OpenSource-List.md)
+      - 6.9.5 SNA [1]
+        - [6.9.5.1 SNA List](/10.AI/Application/SNA/SNA-List.md)
     - 6.10 ComputerVision [9]
       - 6.10.1 AIGC [1]
         - [6.10.1.1 AIGC OpenSource List](/10.AI/ComputerVision/AIGC/AIGC-OpenSource-List.md)
@@ -1075,49 +1079,51 @@
         - 6.12.3.7 VariationalInference [1]
           - [6.12.3.7.1 VariationalInference List](/10.AI/MachineLearning/Inference/VariationalInference/VariationalInference-List.md)
       - [6.12.4 MachineLearning List](/10.AI/MachineLearning/MachineLearning-List.md)
-    - 6.13 NLP [8]
-      - 6.13.1 High level Tasks [3]
-        - 6.13.1.1 DialogueSystem [3]
-          - [6.13.1.1.1 ASR List](/10.AI/NLP/High-level%20Tasks/DialogueSystem/ASR-List.md)
-          - [6.13.1.1.2 Chatbot List](/10.AI/NLP/High-level%20Tasks/DialogueSystem/Chatbot-List.md)
-          - [6.13.1.1.3 DialogueSystem List](/10.AI/NLP/High-level%20Tasks/DialogueSystem/DialogueSystem-List.md)
-        - 6.13.1.2 MachineTranslation [1]
-          - [6.13.1.2.1 MachineTranslation List](/10.AI/NLP/High-level%20Tasks/MachineTranslation/MachineTranslation-List.md)
-        - 6.13.1.3 Voice [1]
-          - [6.13.1.3.1 Voice List](/10.AI/NLP/High-level%20Tasks/Voice/Voice-List.md)
-      - 6.13.2 InformationExtraction [2]
-        - [6.13.2.1 InformationExtraction List](/10.AI/NLP/InformationExtraction/InformationExtraction-List.md)
-        - [6.13.2.2 InformationRetrieval List](/10.AI/NLP/InformationExtraction/InformationRetrieval-List.md)
-      - 6.13.3 KnowledgeGraph [1]
-        - [6.13.3.1 KnowledgeGraph List](/10.AI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
-      - 6.13.4 LLM [7]
-        - 6.13.4.1 Agent [1]
-          - [6.13.4.1.1 LLM Agent OpenSource List](/10.AI/NLP/LLM/Agent/LLM-Agent-OpenSource-List.md)
-        - 6.13.4.2 CodeGeneration [1]
-          - [6.13.4.2.1 CodeGeneration OpenSource List](/10.AI/NLP/LLM/CodeGeneration/CodeGeneration-OpenSource-List.md)
-        - 6.13.4.3 GPT [4]
-          - 6.13.4.3.1 ChatGPT [2]
-            - [6.13.4.3.1.1 ChatGPT List](/10.AI/NLP/LLM/GPT/ChatGPT/ChatGPT-List.md)
-            - [6.13.4.3.1.2 ChatGPT Site List](/10.AI/NLP/LLM/GPT/ChatGPT/ChatGPT-Site-List.md)
-          - [6.13.4.3.2 GPT List](/10.AI/NLP/LLM/GPT/GPT-List.md)
-          - [6.13.4.3.3 OpenAI List](/10.AI/NLP/LLM/GPT/OpenAI-List.md)
-          - [6.13.4.3.4 Prompt List](/10.AI/NLP/LLM/GPT/Prompt-List.md)
-        - [6.13.4.4 LLM List](/10.AI/NLP/LLM/LLM-List.md)
-        - [6.13.4.5 LLM OpenSource List](/10.AI/NLP/LLM/LLM-OpenSource-List.md)
-        - 6.13.4.6 LLaMA [2]
-          - [6.13.4.6.1 Dolly List](/10.AI/NLP/LLM/LLaMA/Dolly-List.md)
-          - [6.13.4.6.2 LLaMA List](/10.AI/NLP/LLM/LLaMA/LLaMA-List.md)
-        - [6.13.4.7 LangChain List](/10.AI/NLP/LLM/LangChain-List.md)
-      - [6.13.5 NLP List](/10.AI/NLP/NLP-List.md)
-      - [6.13.6 NLP OpenSource List](/10.AI/NLP/NLP-OpenSource-List.md)
-      - 6.13.7 SyntaxSemanticAnalysis [2]
-        - 6.13.7.1 SentenceAnalysis [3]
-          - [6.13.7.1.1 Representation List](/10.AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/Representation-List.md)
-          - [6.13.7.1.2 StatisticalLanguageModel List](/10.AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/StatisticalLanguageModel-List.md)
-          - [6.13.7.1.3 TopicModel List](/10.AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/TopicModel-List.md)
-        - [6.13.7.2 SyntaxSemanticAnalysis List](/10.AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
-      - 6.13.8 Transformer [1]
-        - [6.13.8.1 Transformer List](/10.AI/NLP/Transformer/Transformer-List.md)
+    - 6.13 NLP [9]
+      - 6.13.1 Audio [1]
+        - [6.13.1.1 NLP Audio OpenSource List](/10.AI/NLP/Audio/NLP-Audio-OpenSource-List.md)
+      - 6.13.2 High level Tasks [3]
+        - 6.13.2.1 DialogueSystem [3]
+          - [6.13.2.1.1 ASR List](/10.AI/NLP/High-level%20Tasks/DialogueSystem/ASR-List.md)
+          - [6.13.2.1.2 Chatbot List](/10.AI/NLP/High-level%20Tasks/DialogueSystem/Chatbot-List.md)
+          - [6.13.2.1.3 DialogueSystem List](/10.AI/NLP/High-level%20Tasks/DialogueSystem/DialogueSystem-List.md)
+        - 6.13.2.2 MachineTranslation [1]
+          - [6.13.2.2.1 MachineTranslation List](/10.AI/NLP/High-level%20Tasks/MachineTranslation/MachineTranslation-List.md)
+        - 6.13.2.3 Voice [1]
+          - [6.13.2.3.1 Voice List](/10.AI/NLP/High-level%20Tasks/Voice/Voice-List.md)
+      - 6.13.3 InformationExtraction [2]
+        - [6.13.3.1 InformationExtraction List](/10.AI/NLP/InformationExtraction/InformationExtraction-List.md)
+        - [6.13.3.2 InformationRetrieval List](/10.AI/NLP/InformationExtraction/InformationRetrieval-List.md)
+      - 6.13.4 KnowledgeGraph [1]
+        - [6.13.4.1 KnowledgeGraph List](/10.AI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
+      - 6.13.5 LLM [7]
+        - 6.13.5.1 Agent [1]
+          - [6.13.5.1.1 LLM Agent OpenSource List](/10.AI/NLP/LLM/Agent/LLM-Agent-OpenSource-List.md)
+        - 6.13.5.2 CodeGeneration [1]
+          - [6.13.5.2.1 CodeGeneration OpenSource List](/10.AI/NLP/LLM/CodeGeneration/CodeGeneration-OpenSource-List.md)
+        - 6.13.5.3 GPT [4]
+          - 6.13.5.3.1 ChatGPT [2]
+            - [6.13.5.3.1.1 ChatGPT List](/10.AI/NLP/LLM/GPT/ChatGPT/ChatGPT-List.md)
+            - [6.13.5.3.1.2 ChatGPT Site List](/10.AI/NLP/LLM/GPT/ChatGPT/ChatGPT-Site-List.md)
+          - [6.13.5.3.2 GPT List](/10.AI/NLP/LLM/GPT/GPT-List.md)
+          - [6.13.5.3.3 OpenAI List](/10.AI/NLP/LLM/GPT/OpenAI-List.md)
+          - [6.13.5.3.4 Prompt List](/10.AI/NLP/LLM/GPT/Prompt-List.md)
+        - [6.13.5.4 LLM List](/10.AI/NLP/LLM/LLM-List.md)
+        - [6.13.5.5 LLM OpenSource List](/10.AI/NLP/LLM/LLM-OpenSource-List.md)
+        - 6.13.5.6 LLaMA [2]
+          - [6.13.5.6.1 Dolly List](/10.AI/NLP/LLM/LLaMA/Dolly-List.md)
+          - [6.13.5.6.2 LLaMA List](/10.AI/NLP/LLM/LLaMA/LLaMA-List.md)
+        - [6.13.5.7 LangChain List](/10.AI/NLP/LLM/LangChain-List.md)
+      - [6.13.6 NLP List](/10.AI/NLP/NLP-List.md)
+      - [6.13.7 NLP OpenSource List](/10.AI/NLP/NLP-OpenSource-List.md)
+      - 6.13.8 SyntaxSemanticAnalysis [2]
+        - 6.13.8.1 SentenceAnalysis [3]
+          - [6.13.8.1.1 Representation List](/10.AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/Representation-List.md)
+          - [6.13.8.1.2 StatisticalLanguageModel List](/10.AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/StatisticalLanguageModel-List.md)
+          - [6.13.8.1.3 TopicModel List](/10.AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/TopicModel-List.md)
+        - [6.13.8.2 SyntaxSemanticAnalysis List](/10.AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
+      - 6.13.9 Transformer [1]
+        - [6.13.9.1 Transformer List](/10.AI/NLP/Transformer/Transformer-List.md)
     - 6.14 Toolkit [5]
       - [6.14.1 AI Toolkit List](/10.AI/Toolkit/AI-Toolkit-List.md)
       - 6.14.2 CUDA [1]

@@ -61,3 +61,7 @@
 ## Fine-tunning
 
 - [2023-Databerry ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gmpetrov/databerry)](https://github.com/gmpetrov/databerry): The no-code platform for connecting custom data to large language models.
+
+# LLM UI
+
+- [2023-chathub ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/chathub-dev/chathub)](https://github.com/chathub-dev/chathub): ChatHub is an all-in-one chatbot client.

@@ -130,8 +130,6 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 ## Form | 表单
 
-- [2017-Some Thoughts On Forms in React](https://parg.co/bIR): There are a number of viable approaches to solve aforementioned situations when it comes forms in React land. Without getting too specific, let’s just think about those approaches from a high level perspective.
-
 - [2017-Automagically manage React forms state and automatic validation with MobX](https://medium.com/@foxhound87/automagically-manage-react-forms-state-with-mobx-and-automatic-validation-2b00a32b9769)
 
 - [2018-An imperative guide to forms in React](https://blog.logrocket.com/an-imperative-guide-to-forms-in-react-927d9670170a?source=linkShare-fe48c4221a4c-1519391172): in this tutorial, I will explain how React deals with forms and events.
