@@ -17,3 +17,5 @@
 - [yfinance ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ranaroussi/yfinance): Yahoo! Finance market data downloader (+faster Pandas Datareader)
 
 - [2021-GamestonkTerminal ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/DidierRLopes/GamestonkTerminal): The next best thing after Bloomberg Terminal
+
+- [2023-Qbot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/UFund-Me/Qbot)](https://github.com/UFund-Me/Qbot): [updating ...] 自动量化交易机器人 Qbot is an AI-oriented quantitative investment platform, which aims to realize the potential, empower AI technologies in quantitative investment. https://ufund-me.github.io/Qbot :news: qbot-mini: https://github.com/Charmve/iQuant

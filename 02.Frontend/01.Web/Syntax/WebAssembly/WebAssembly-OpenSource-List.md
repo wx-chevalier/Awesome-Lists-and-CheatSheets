@@ -14,6 +14,10 @@
 
 - [Zaplib ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Zaplib): ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
 
+## Rust
+
+- [2023-Tidy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/zxch3n/tidy)](https://github.com/zxch3n/tidy): Tidy is designed specifically for tree layout. Graph and DAG data are not supported.
+
 ## Server
 
 - [WebAssembly Micro Runtime ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/intel/wasm-micro-runtime): WebAssembly Micro Runtime (WAMR) is standalone WebAssembly (WASM) runtime with a small footprint. It includes a few components.

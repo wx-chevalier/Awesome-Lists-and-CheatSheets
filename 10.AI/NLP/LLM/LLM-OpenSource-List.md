@@ -20,11 +20,10 @@
 
 - [2023-WizardLM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nlpxucan/WizardLM)](https://github.com/nlpxucan/WizardLM): Empowering Large Pre-Trained Language Models to Follow Complex Instructions Resources.
 
-## Finetuning & Inference
+- [2023-picoGPT ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jaymody/picoGPT)](https://github.com/jaymody/picoGPT): An unnecessarily tiny and minimal implementation of GPT-2 in NumPy.
 
-- [2023-xturing ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/stochasticai/xturing)](https://github.com/stochasticai/xturing): xturing provides fast, efficient and simple fine-tuning of LLMs, such as LLaMA, GPT-J, GPT-2, OPT, Cerebras-GPT, Galactica, and more. By providing an easy-to-use interface for personalizing LLMs to your own data and application, xTuring makes it simple to build and control LLMs. The entire process can be done inside your computer or in your private cloud, ensuring data privacy and security.
-
-- [2023-LMFlow ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/OptimalScale/LMFlow)](https://github.com/OptimalScale/LMFlow): An extensible, convenient, and efficient toolbox for finetuning large machine learning models, designed to be user-friendly, speedy and reliable, and accessible to the entire community.
+- [2023-Vicuna ![code](https://ng-tech.icu/assets/code.svg)](https://vicuna.lmsys.org/): An Open-Source Chatbot Impressing GPT-4 with `90%` ChatGPT Quality.
+  - [2023-FastChat ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lm-sys/FastChat)](https://github.com/lm-sys/FastChat): An open platform for training, serving, and evaluating large language model based chatbots.
 
 ## ChatGLM
 
@@ -58,10 +57,30 @@
 
 - [2023-GPTCache ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/zilliztech/GPTCache)](https://github.com/zilliztech/GPTCache): GPTCache is a library for creating semantic cache to store responses from LLM queries.
 
-## Fine-tunning
+# Fine-tunning
 
 - [2023-Databerry ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gmpetrov/databerry)](https://github.com/gmpetrov/databerry): The no-code platform for connecting custom data to large language models.
 
+- [2023-xturing ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/stochasticai/xturing)](https://github.com/stochasticai/xturing): xturing provides fast, efficient and simple fine-tuning of LLMs, such as LLaMA, GPT-J, GPT-2, OPT, Cerebras-GPT, Galactica, and more. By providing an easy-to-use interface for personalizing LLMs to your own data and application, xTuring makes it simple to build and control LLMs. The entire process can be done inside your computer or in your private cloud, ensuring data privacy and security.
+
+- [2023-LMFlow ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/OptimalScale/LMFlow)](https://github.com/OptimalScale/LMFlow): An extensible, convenient, and efficient toolbox for finetuning large machine learning models, designed to be user-friendly, speedy and reliable, and accessible to the entire community.
+
+## Document
+
+- [2023-ReadPilot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/index-labs/readpilot)](https://github.com/index-labs/readpilot): Read Pilot analyzes online articles and generate Q&A cards for you. Powered by OpenAI & Next.js.
+
+- [2023-DocsGPT ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/arc53/DocsGPT)](https://github.com/arc53/DocsGPT): GPT-powered chat for documentation search & assistance.
+
+- [2023-nextjs-openai-doc-search ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/supabase-community/nextjs-openai-doc-search)](https://github.com/supabase-community/nextjs-openai-doc-search): Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
+
+- [2023-WebWhiz ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/webwhiz-ai/webwhiz)](https://github.com/webwhiz-ai/webwhiz): WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.
+
+- [2023-Quivr ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/StanGirard/quivr)](https://github.com/StanGirard/quivr): Quivr is your second brain in the cloud, designed to easily store and retrieve unstructured information. It's like Obsidian but powered by generative AI.
+
+- [2023-BriefGPT ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/e-johnstonn/BriefGPT)](https://github.com/e-johnstonn/BriefGPT): Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.
+
 # LLM UI
+
+- [2023-ChatGPT-Next-Web ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Yidadaa/ChatGPT-Next-Web)](https://github.com/Yidadaa/ChatGPT-Next-Web): One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
 
 - [2023-chathub ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/chathub-dev/chathub)](https://github.com/chathub-dev/chathub): ChatHub is an all-in-one chatbot client.

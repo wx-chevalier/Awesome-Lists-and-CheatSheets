@@ -248,6 +248,10 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [AutoRecon ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Tib3rius/AutoRecon): AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services. It is intended as a time-saving tool for use in CTFs and other penetration testing environments (e.g. OSCP). It may also be useful in real-world engagements.
 
+## Sniff
+
+- [2023-Sniffnet ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/GyulyVGC/sniffnet)](https://github.com/GyulyVGC/sniffnet): Sniffnet is a fully free, open-source software which needs your support to be maintained on a regular basis.
+
 ## DNS
 
 - [DNSLog ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/BugScanTeam/DNSLog): DNSLog 是一款监控 DNS 解析记录和 HTTP 访问记录的工具。
