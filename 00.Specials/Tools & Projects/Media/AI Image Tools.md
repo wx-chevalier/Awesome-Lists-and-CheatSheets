@@ -4,6 +4,8 @@
 
 - [2023-Background Remover ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nadermx/backgroundremover)](https://github.com/nadermx/backgroundremover): Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 
+- [2023-StableStudio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Stability-AI/StableStudio)](https://github.com/Stability-AI/StableStudio): StableStudio is Stability AI's official open-source variant of DreamStudio, our user interface for generative AI.
+
 # OCR
 
 - [Umi-OCR ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hiroi-sora/Umi-OCR): OCR 批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。基于 PaddleOCR 。
@@ -13,3 +15,7 @@
 # Video
 
 - [2023-Open Chat Video Editor ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/SCUTlihaoyu/open-chat-video-editor)](https://github.com/SCUTlihaoyu/open-chat-video-editor): Open Chat Video Editor 是开源的短视频生成和编辑工具，整体技术框架如下。
+
+# Restore
+
+- [2023-Real-ESRGAN ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/xinntao/Real-ESRGAN)](https://github.com/xinntao/Real-ESRGAN): Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.

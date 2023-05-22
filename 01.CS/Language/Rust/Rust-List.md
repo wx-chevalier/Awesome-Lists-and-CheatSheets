@@ -44,7 +44,7 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2016-《Rust 101》》📚](https://www.ralfj.de/projects/rust-101/main.html): This is Rust-101, a small tutorial for the Rust language. It is intended to be an interactive, hands-on course: I believe the only way to really learn a language is to write code in it, so you should be coding during the course.
 
-- [2017-Programming Rust》📚](https://parg.co/UPe): This practical book introduces systems programmers to Rust, the new and cutting-edge language. You’ll learn how Rust offers the rare and valuable combination of statically verified memory safety and low-level control—imagine C++, but without dangling pointers, null pointer dereferences, leaks, or buffer overruns.
+- [2017-《Programming Rust》📚](https://parg.co/UPe): This practical book introduces systems programmers to Rust, the new and cutting-edge language. You’ll learn how Rust offers the rare and valuable combination of statically verified memory safety and low-level control—imagine C++, but without dangling pointers, null pointer dereferences, leaks, or buffer overruns.
 
 - [2017-《Rust Essentials》-2nd》📚](https://parg.co/UPI): Leverage the functional programming and concurrency features of Rust and speed up your application development.
 

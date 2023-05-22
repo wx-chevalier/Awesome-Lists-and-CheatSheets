@@ -47,3 +47,7 @@
 - [Fathom ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mozilla/fathom): A framework for extracting meaning from web pages.
 
 - [unicaps ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/sergey-scat/unicaps): A unified Python API for CAPTCHA solving services.
+
+# Visual Config
+
+- [2023-EasySpider ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/NaiboWang/EasySpider)](https://github.com/NaiboWang/EasySpider): A visual no-code/code-free web crawler/spider 一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务

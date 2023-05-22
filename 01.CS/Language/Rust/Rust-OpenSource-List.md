@@ -34,9 +34,9 @@
 
 - [naive](https://github.com/hsiaosiyuan0/naive): This is a naive JavaScript engine implemented in pure Rust to improve my JavaScript knowledge.
 
-## Tauri
+## OpenGL
 
-- [2022-MirrorX ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/MirrorX-Desktop/MirrorX): MirrorX is a remote desktop control tool powered by Rust. With fully open-source client and server, native E2EE support, users can build SECURITY and FAST remote control network, which is fully under control of users.
+- [2022-Stl-thumb ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/unlimitedbacon/stl-thumb)](https://github.com/unlimitedbacon/stl-thumb): Stl-thumb is a fast lightweight thumbnail generator for STL files. It can show previews for STL files in your file manager on Linux and Windows. It is written in Rust and uses OpenGL.
 
 # Dev Toolkits
 

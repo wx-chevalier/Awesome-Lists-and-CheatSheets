@@ -319,13 +319,14 @@
         - [2.7.10.7 Python OpenSource List](/01.CS/Language/Python/Python-OpenSource-List.md)
         - [2.7.10.8 Python StyleGuide List](/01.CS/Language/Python/Python-StyleGuide-List.md)
         - [2.7.10.9 Python Syntax List](/01.CS/Language/Python/Python-Syntax-List.md)
-      - 2.7.11 Rust [6]
+      - 2.7.11 Rust [7]
         - [2.7.11.1 Rust ConcurrentProgramming List](/01.CS/Language/Rust/Rust-ConcurrentProgramming-List.md)
         - [2.7.11.2 Rust Dev List](/01.CS/Language/Rust/Rust-Dev-List.md)
         - [2.7.11.3 Rust List](/01.CS/Language/Rust/Rust-List.md)
         - [2.7.11.4 Rust Network List](/01.CS/Language/Rust/Rust-Network-List.md)
         - [2.7.11.5 Rust OpenSource List](/01.CS/Language/Rust/Rust-OpenSource-List.md)
         - [2.7.11.6 Rust Syntax List](/01.CS/Language/Rust/Rust-Syntax-List.md)
+        - [2.7.11.7 Tauri List](/01.CS/Language/Rust/Tauri-List.md)
       - 2.7.12 Swift [1]
         - [2.7.12.1 Swift List](/01.CS/Language/Swift/Swift-List.md)
     - 2.8 Mathematics [4]

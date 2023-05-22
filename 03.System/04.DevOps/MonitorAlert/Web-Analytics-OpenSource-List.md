@@ -23,3 +23,7 @@
 - [Sentry ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/getsentry/sentry): Sentry fundamentally is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application.
 
 - [2023-GlitchTip ![code](https://ng-tech.icu/assets/code.svg)](https://glitchtip.com/): Collect every error from your project in real time, organize them to make them useful, and receive alerts when and where you want...without breaking the budget.
+
+# URL Shortener
+
+- [2023-dub ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/steven-tey/dub)](https://github.com/steven-tey/dub): An open-source link shortener with built-in analytics + free custom domains.
