@@ -82,10 +82,6 @@
 
 - [2022-Uptrace ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/uptrace/uptrace)](https://github.com/uptrace/uptrace): Uptrace is an open-source APM tool that supports distributed tracing, metrics, and logs. You can use it to monitor applications and set up automatic alerts to receive notifications via email, Slack, Telegram, and more.
 
-# Bug Report
-
-- [Sentry ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/getsentry/sentry): Sentry fundamentally is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application.
-
 # Visualization
 
 - [Grafana ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/grafana/grafana): The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.

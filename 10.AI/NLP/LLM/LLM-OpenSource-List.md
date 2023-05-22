@@ -84,3 +84,7 @@
 - [2023-ChatGPT-Next-Web ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Yidadaa/ChatGPT-Next-Web)](https://github.com/Yidadaa/ChatGPT-Next-Web): One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
 
 - [2023-chathub ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/chathub-dev/chathub)](https://github.com/chathub-dev/chathub): ChatHub is an all-in-one chatbot client.
+
+## LLMOps
+
+- [2023-Dify ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/langgenius/dify)](https://github.com/langgenius/dify): Dify is an easy-to-use LLMOps platform designed to empower more people to create sustainable, AI-native applications. With visual orchestration for various application types, Dify offers out-of-the-box, ready-to-use applications that can also serve as Backend-as-a-Service APIs. Unify your development process with one API for plugins and datasets integration, and streamline your operations using a single interface for prompt engineering, visual analytics, and continuous improvement.

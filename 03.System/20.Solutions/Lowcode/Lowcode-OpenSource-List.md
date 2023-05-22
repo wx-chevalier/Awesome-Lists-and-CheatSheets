@@ -48,7 +48,7 @@
 
 - [2020-Animockup ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alyssaxuu/animockup): Create animated mockups on the browser 🔥
 
-- [BuildIO/builder ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/BuilderIO/builder): Drag and drop page building using your code components.
+- [2020-BuilderIO/builder ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/BuilderIO/builder)](https://github.com/BuilderIO/builder): Drag and drop page building using your code components.
 
 - [2020-craft.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/prevwong/craft.js): 🚀 A React Framework for building extensible drag and drop page editors .
 

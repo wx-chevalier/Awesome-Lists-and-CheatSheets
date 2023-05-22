@@ -834,15 +834,16 @@
           - [5.3.3.4.2 SearchEngine OpenSource List](/04.Infrastructure/Database/DocumentDB/SearchEngine/SearchEngine-OpenSource-List.md)
       - 5.3.4 Graph [1]
         - [5.3.4.1 GraphDB List](/04.Infrastructure/Database/Graph/GraphDB-List.md)
-      - 5.3.5 KeyValue [3]
-        - 5.3.5.1 LevelDB [1]
-          - [5.3.5.1.1 LevelDB List](/04.Infrastructure/Database/KeyValue/LevelDB/LevelDB-List.md)
-        - 5.3.5.2 Redis [3]
-          - [5.3.5.2.1 Redis Cluster List](/04.Infrastructure/Database/KeyValue/Redis/Redis-Cluster-List.md)
-          - [5.3.5.2.2 Redis Internals List](/04.Infrastructure/Database/KeyValue/Redis/Redis-Internals-List.md)
-          - [5.3.5.2.3 Redis List](/04.Infrastructure/Database/KeyValue/Redis/Redis-List.md)
-        - 5.3.5.3 RocksDB [1]
-          - [5.3.5.3.1 RocksDB List](/04.Infrastructure/Database/KeyValue/RocksDB/RocksDB-List.md)
+      - 5.3.5 KV [4]
+        - [5.3.5.1 KV OpenSource List](/04.Infrastructure/Database/KV/KV-OpenSource-List.md)
+        - 5.3.5.2 LevelDB [1]
+          - [5.3.5.2.1 LevelDB List](/04.Infrastructure/Database/KV/LevelDB/LevelDB-List.md)
+        - 5.3.5.3 Redis [3]
+          - [5.3.5.3.1 Redis Cluster List](/04.Infrastructure/Database/KV/Redis/Redis-Cluster-List.md)
+          - [5.3.5.3.2 Redis Internals List](/04.Infrastructure/Database/KV/Redis/Redis-Internals-List.md)
+          - [5.3.5.3.3 Redis List](/04.Infrastructure/Database/KV/Redis/Redis-List.md)
+        - 5.3.5.4 RocksDB [1]
+          - [5.3.5.4.1 RocksDB List](/04.Infrastructure/Database/KV/RocksDB/RocksDB-List.md)
       - 5.3.6 NewSQL [2]
         - [5.3.6.1 NewSQL List](/04.Infrastructure/Database/NewSQL/NewSQL-List.md)
         - 5.3.6.2 PingCAP [1]
@@ -1124,7 +1125,7 @@
         - [6.13.8.2 SyntaxSemanticAnalysis List](/10.AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
       - 6.13.9 Transformer [1]
         - [6.13.9.1 Transformer List](/10.AI/NLP/Transformer/Transformer-List.md)
-    - 6.14 Toolkit [5]
+    - 6.14 Toolkit [6]
       - [6.14.1 AI Toolkit List](/10.AI/Toolkit/AI-Toolkit-List.md)
       - 6.14.2 CUDA [1]
         - [6.14.2.1 CUDA List](/10.AI/Toolkit/CUDA/CUDA-List.md)
@@ -1133,8 +1134,9 @@
       - 6.14.4 Framework [4]
         - [6.14.4.1 Metaflow](/10.AI/Toolkit/Framework/Metaflow/README.md)
           
-        - 6.14.4.2 PyTorch [1]
+        - 6.14.4.2 PyTorch [2]
           - [6.14.4.2.1 PyTorch List](/10.AI/Toolkit/Framework/PyTorch/PyTorch-List.md)
+          - [6.14.4.2.2 PyTorch OpenSource List](/10.AI/Toolkit/Framework/PyTorch/PyTorch-OpenSource-List.md)
         - 6.14.4.3 Scikit [3]
           - [6.14.4.3.1 Jupyter List](/10.AI/Toolkit/Framework/Scikit/Jupyter-List.md)
           - [6.14.4.3.2 Scikit List](/10.AI/Toolkit/Framework/Scikit/Scikit-List.md)
@@ -1145,8 +1147,10 @@
           - [6.14.4.4.2 TFjs List](/10.AI/Toolkit/Framework/TensorFlow/TFjs-List.md)
           - [6.14.4.4.3 TensorFlow Internals List](/10.AI/Toolkit/Framework/TensorFlow/TensorFlow-Internals-List.md)
           - [6.14.4.4.4 TensorFlow List](/10.AI/Toolkit/Framework/TensorFlow/TensorFlow-List.md)
-      - 6.14.5 Platform [1]
-        - [6.14.5.1 Platform List](/10.AI/Toolkit/Platform/Platform-List.md)
+      - 6.14.5 MLOps [1]
+        - [6.14.5.1 MLOps List](/10.AI/Toolkit/MLOps/MLOps-List.md)
+      - 6.14.6 Platform [1]
+        - [6.14.6.1 Platform List](/10.AI/Toolkit/Platform/Platform-List.md)
   - 7 20.Product [6]
     - 7.1 Design [1]
       - [7.1.1 Design List](/20.Product/Design/Design-List.md)
