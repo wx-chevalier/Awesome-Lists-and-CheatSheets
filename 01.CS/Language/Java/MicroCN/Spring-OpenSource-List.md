@@ -32,6 +32,8 @@
 
 - [2022-yudao-cloud ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/YunaiV/yudao-cloud)](https://github.com/YunaiV/yudao-cloud): ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 
+- [2023-AgileBoot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/valarchie/AgileBoot-Back-End)](https://github.com/valarchie/AgileBoot-Back-End): AgileBoot 是一套开源的全栈精简快速开发平台，毫无保留给个人及企业免费使用。本项目的目标是做一款精简可靠，代码风格优良，项目规范的小型开发脚手架。 适合个人开发者的小型项目或者公司内部项目使用。也可作为供初学者学习使用的案例。
+
 ## 工具库
 
 - [2020-lets-mica/mica ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lets-mica/mica)](https://github.com/lets-mica/mica): Spring Cloud 微服务开发核心工具集。工具类、验证码、http、redis、ip2region、xss 等，开箱即用。🔝 🔝 记得右上角点个 star 关注更新！

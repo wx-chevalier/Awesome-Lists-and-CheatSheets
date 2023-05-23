@@ -79,6 +79,8 @@
 
 - [2023-BriefGPT ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/e-johnstonn/BriefGPT)](https://github.com/e-johnstonn/BriefGPT): Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.
 
+- [2023-Psychic ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/psychic-api/psychic)](https://github.com/psychic-api/psychic): Psychic is an open source integration platform to extract and transform unstructured data from SaaS applications like Notion, Slack, Zendesk, Confluence, and Google Drive. Instead of building one integration for each data sources, you can build one integration that works for all data sources, and manage each connection from a GUI. Psychic is designed for startups that use LLMs and vector databases.
+
 # LLM UI
 
 - [2023-ChatGPT-Next-Web ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Yidadaa/ChatGPT-Next-Web)](https://github.com/Yidadaa/ChatGPT-Next-Web): One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。

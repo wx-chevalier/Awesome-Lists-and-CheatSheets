@@ -13,3 +13,5 @@
 - [2023-next13-messenger ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/AntonioErdeljac/next13-messenger)](https://github.com/AntonioErdeljac/next13-messenger): This is a repository for a Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher.
 
 - [2023-dub ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/steven-tey/dub)](https://github.com/steven-tey/dub): An open-source link shortener with built-in analytics + free custom domains.
+
+- [2023-Next.js Enterprise Boilerplate ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Blazity/next-enterprise)](https://github.com/Blazity/next-enterprise): Welcome to the Next.js Enterprise Boilerplate, an open-source template for enterprise projects! It's loaded with features that'll help you build a high-performance, maintainable, and enjoyable app. We've done all the heavy lifting for you, so sit back, relax, and get ready to conquer the world with your incredible app! 🌍

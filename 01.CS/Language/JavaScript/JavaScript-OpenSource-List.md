@@ -38,6 +38,8 @@
 
 - [Microdiff ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/AsyncBanana/microdiff): Microdiff is a tiny (currently <1kb), fast, zero dependency object and array comparison library. It is significantly faster than most other deep comparison libraries, and has full TypeScript support.
 
+- [2023-Aimless.js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ChrisCavs/aimless.js)](https://github.com/ChrisCavs/aimless.js): Aimless is the missing JS randomness library. It's tiny (< 6kB), unopinionated, dependency-free, and provides a variety of helpful random number utilities. Best of all, it's compatible with all your favorite PRNGs.
+
 ## String
 
 - [lit-html ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Polymer/lit-html): An efficient, expressive, extensible HTML templating library for JavaScript.
