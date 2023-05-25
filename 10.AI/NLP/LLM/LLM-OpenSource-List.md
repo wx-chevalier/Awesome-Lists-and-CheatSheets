@@ -65,22 +65,6 @@
 
 - [2023-LMFlow ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/OptimalScale/LMFlow)](https://github.com/OptimalScale/LMFlow): An extensible, convenient, and efficient toolbox for finetuning large machine learning models, designed to be user-friendly, speedy and reliable, and accessible to the entire community.
 
-## Document
-
-- [2023-ReadPilot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/index-labs/readpilot)](https://github.com/index-labs/readpilot): Read Pilot analyzes online articles and generate Q&A cards for you. Powered by OpenAI & Next.js.
-
-- [2023-DocsGPT ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/arc53/DocsGPT)](https://github.com/arc53/DocsGPT): GPT-powered chat for documentation search & assistance.
-
-- [2023-nextjs-openai-doc-search ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/supabase-community/nextjs-openai-doc-search)](https://github.com/supabase-community/nextjs-openai-doc-search): Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
-
-- [2023-WebWhiz ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/webwhiz-ai/webwhiz)](https://github.com/webwhiz-ai/webwhiz): WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.
-
-- [2023-Quivr ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/StanGirard/quivr)](https://github.com/StanGirard/quivr): Quivr is your second brain in the cloud, designed to easily store and retrieve unstructured information. It's like Obsidian but powered by generative AI.
-
-- [2023-BriefGPT ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/e-johnstonn/BriefGPT)](https://github.com/e-johnstonn/BriefGPT): Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.
-
-- [2023-Psychic ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/psychic-api/psychic)](https://github.com/psychic-api/psychic): Psychic is an open source integration platform to extract and transform unstructured data from SaaS applications like Notion, Slack, Zendesk, Confluence, and Google Drive. Instead of building one integration for each data sources, you can build one integration that works for all data sources, and manage each connection from a GUI. Psychic is designed for startups that use LLMs and vector databases.
-
 # LLM UI
 
 - [2023-ChatGPT-Next-Web ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Yidadaa/ChatGPT-Next-Web)](https://github.com/Yidadaa/ChatGPT-Next-Web): One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。

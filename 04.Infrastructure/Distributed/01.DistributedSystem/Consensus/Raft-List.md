@@ -19,3 +19,9 @@
 # Implementation
 
 - [2020-Implementing Raft #Series#](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/): This is the first post in a multi-part series describing the Raft distributed consensus algorithm and its complete implementation in Go.
+
+# OpenSource
+
+## Showcase
+
+- [2023-eatonphil/goraft ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/eatonphil/goraft)](https://github.com/eatonphil/goraft): A basic Raft implementation in Go.

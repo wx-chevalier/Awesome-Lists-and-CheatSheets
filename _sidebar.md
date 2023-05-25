@@ -16,7 +16,7 @@
       - [1.3.4 Awesome DataVis](/00.Specials/Showcases/Awesome-DataVis.md)
       - [1.3.5 Awesome Design Inspiration](/00.Specials/Showcases/Awesome-Design-Inspiration.md)
       - [1.3.6 Coding as Vetren](/00.Specials/Showcases/Coding-as-Vetren.md)
-    - [1.4 Tools & Projects [26]](/00.Specials/Tools%20&%20Projects/README.md)
+    - [1.4 Tools & Projects [27]](/00.Specials/Tools%20&%20Projects/README.md)
       - [1.4.1 Automation](/00.Specials/Tools%20&%20Projects/Automation.md)
       - [1.4.2 Awesome Media Tools](/00.Specials/Tools%20&%20Projects/Awesome-Media-Tools.md)
       - [1.4.3 Awesome Tools](/00.Specials/Tools%20&%20Projects/Awesome-Tools.md)
@@ -40,16 +40,18 @@
       - [1.4.14 Network](/00.Specials/Tools%20&%20Projects/Network.md)
       - [1.4.15 Notification](/00.Specials/Tools%20&%20Projects/Notification.md)
       - [1.4.16 OS](/00.Specials/Tools%20&%20Projects/OS.md)
-      - [1.4.17 Person](/00.Specials/Tools%20&%20Projects/Person.md)
-      - [1.4.18 Productivity](/00.Specials/Tools%20&%20Projects/Productivity.md)
-      - [1.4.19 ScreenShare & VNC](/00.Specials/Tools%20&%20Projects/ScreenShare%20&%20VNC.md)
-      - [1.4.20 Startup](/00.Specials/Tools%20&%20Projects/Startup.md)
-      - [1.4.21 Teamwork](/00.Specials/Tools%20&%20Projects/Teamwork.md)
-      - [1.4.22 Terminal](/00.Specials/Tools%20&%20Projects/Terminal.md)
-      - [1.4.23 Translate Tools](/00.Specials/Tools%20&%20Projects/Translate%20Tools.md)
-      - [1.4.24 UGC](/00.Specials/Tools%20&%20Projects/UGC.md)
-      - [1.4.25 Website Builder](/00.Specials/Tools%20&%20Projects/Website%20Builder.md)
-      - [1.4.26 消息推送](/00.Specials/Tools%20&%20Projects/消息推送.md)
+      - 1.4.17 OpenSource Alternatives [1]
+        - [1.4.17.1 Open source alternatives to everyday SaaS products](/00.Specials/Tools%20&%20Projects/OpenSource%20Alternatives/Open-source%20alternatives%20to%20everyday%20SaaS%20products.md)
+      - [1.4.18 Person](/00.Specials/Tools%20&%20Projects/Person.md)
+      - [1.4.19 Productivity](/00.Specials/Tools%20&%20Projects/Productivity.md)
+      - [1.4.20 ScreenShare & VNC](/00.Specials/Tools%20&%20Projects/ScreenShare%20&%20VNC.md)
+      - [1.4.21 Startup](/00.Specials/Tools%20&%20Projects/Startup.md)
+      - [1.4.22 Teamwork](/00.Specials/Tools%20&%20Projects/Teamwork.md)
+      - [1.4.23 Terminal](/00.Specials/Tools%20&%20Projects/Terminal.md)
+      - [1.4.24 Translate Tools](/00.Specials/Tools%20&%20Projects/Translate%20Tools.md)
+      - [1.4.25 UGC](/00.Specials/Tools%20&%20Projects/UGC.md)
+      - [1.4.26 Website Builder](/00.Specials/Tools%20&%20Projects/Website%20Builder.md)
+      - [1.4.27 消息推送](/00.Specials/Tools%20&%20Projects/消息推送.md)
     - [1.5 Weekly [8]](/00.Specials/Weekly/README.md)
       - 1.5.1  [1]
         - 1.5.1.1  [2]
@@ -1114,10 +1116,10 @@
         - 6.13.5.2 CodeGeneration [1]
           - [6.13.5.2.1 CodeGeneration OpenSource List](/10.AI/NLP/LLM/CodeGeneration/CodeGeneration-OpenSource-List.md)
         - 6.13.5.3 GPT [4]
-          - 6.13.5.3.1 ChatGPT [2]
-            - [6.13.5.3.1.1 ChatGPT List](/10.AI/NLP/LLM/GPT/ChatGPT/ChatGPT-List.md)
-            - [6.13.5.3.1.2 ChatGPT Site List](/10.AI/NLP/LLM/GPT/ChatGPT/ChatGPT-Site-List.md)
-          - [6.13.5.3.2 GPT List](/10.AI/NLP/LLM/GPT/GPT-List.md)
+          - [6.13.5.3.1 GPT List](/10.AI/NLP/LLM/GPT/GPT-List.md)
+          - 6.13.5.3.2 OpenAI [2]
+            - [6.13.5.3.2.1 OpenAI List](/10.AI/NLP/LLM/GPT/OpenAI/OpenAI-List.md)
+            - [6.13.5.3.2.2 OpenAI Site List](/10.AI/NLP/LLM/GPT/OpenAI/OpenAI-Site-List.md)
           - [6.13.5.3.3 OpenAI List](/10.AI/NLP/LLM/GPT/OpenAI-List.md)
           - [6.13.5.3.4 Prompt List](/10.AI/NLP/LLM/GPT/Prompt-List.md)
         - [6.13.5.4 LLM List](/10.AI/NLP/LLM/LLM-List.md)

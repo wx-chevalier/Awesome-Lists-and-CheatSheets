@@ -6,6 +6,8 @@
 
 - [2023-StableStudio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Stability-AI/StableStudio)](https://github.com/Stability-AI/StableStudio): StableStudio is Stability AI's official open-source variant of DreamStudio, our user interface for generative AI.
 
+- [Pixian.AI](https://pixian.ai/remove-image-backgrounds): Great quality at a fraction of the price And free while in Beta.
+
 # OCR
 
 - [Umi-OCR ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hiroi-sora/Umi-OCR): OCR 批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。基于 PaddleOCR 。

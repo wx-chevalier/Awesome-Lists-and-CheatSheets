@@ -26,6 +26,10 @@
 
 - [2022-sniffnet ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GyulyVGC/sniffnet): Cross-platform application to monitor your network traffic with ease
 
+## CLI Application
+
+- [2023-kamiyaa/joshuto ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/kamiyaa/joshuto)](https://github.com/kamiyaa/joshuto): ranger-like terminal file manager written in Rust.
+
 ## JavaScript Engine
 
 - [boa](https://github.com/jasonwilliams/boa): Javascript engine written in Rust

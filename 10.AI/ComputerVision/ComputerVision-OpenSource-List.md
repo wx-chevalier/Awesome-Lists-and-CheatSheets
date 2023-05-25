@@ -52,6 +52,8 @@
 
   - [2023-ZrrSkywalker/Personalize-SAM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ZrrSkywalker/Personalize-SAM)](https://github.com/ZrrSkywalker/Personalize-SAM): How to customize SAM to automatically segment your pet dog in a photo album?
 
+  - [2023-opengeos/segment-geospatial ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/opengeos/segment-geospatial)](https://github.com/opengeos/segment-geospatial): A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
+
 - [2023-Painter ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/baaivision/Painter)](https://github.com/baaivision/Painter): Painter & SegGPT Series: Vision Foundation Models from BAAI
 
 - [2023-Inpaint-Anything ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/geekyutao/Inpaint-Anything)](https://github.com/geekyutao/Inpaint-Anything): Users can select any object in an image by clicking on it. With powerful vision models, e.g., SAM, LaMa and Stable Diffusion (SD), Inpaint Anything is able to remove the object smoothly (i.e., Remove Anything). Further, prompted by user input text, Inpaint Anything can fill the object with any desired content (i.e., Fill Anything) or replace the background of it arbitrarily (i.e., Replace Anything).
