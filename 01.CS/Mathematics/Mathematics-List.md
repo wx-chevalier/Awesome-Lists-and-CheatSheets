@@ -25,6 +25,8 @@
   - 书中的算法实现参考[这里](https://github.com/Dod-o/Statistical-Learning-Method_Code)。
   - [fengdu78/lihang-code ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fengdu78/lihang-code)](https://github.com/fengdu78/lihang-code): 《统计学习方法》第二版的代码实现
 
+- [2013-《2013-Everything You Always Wanted To Know About Mathematics》📚](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf): A Guided Journey Into the World of Abstract Mathematics and the Writing of Proofs
+
 - [2016-《Immersive Linear Algebra》📚](http://immersivemath.com/ila/index.html): The World's First Linear Algeria Book with fully Interactive Figures.
 
 - [2017-《The Mathematics of Machine Learning》📚](http://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-machine-learning): Machine Learning theory is a field that intersects statistical, probabilistic, computer science and algorithmic aspects arising from learning iteratively from data and finding hidden insights which can be used to build intelligent applications. Despite the immense possibilities of Machine and Deep Learning, a thorough mathematical understanding of many of these techniques is necessary for a good grasp of the inner workings of the algorithms and getting good results.
