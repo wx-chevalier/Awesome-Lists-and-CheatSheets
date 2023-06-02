@@ -21,3 +21,5 @@
 - [2021-doocs/leetcode ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/doocs/leetcode): 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 
 - [2021-LeetCode 刷题攻略 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/youngyangyang04/leetcode-master): LeetCode 刷题攻略：200 道题目详细刷题顺序，共 60w 字的详细图解，视频难点剖析，50 余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+
+- [2023-leetcode ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/neetcode-gh/leetcode)](https://github.com/neetcode-gh/leetcode): This repo hosts the solutions found on NeetCode.io including the solutions shown on the NeetCode YouTube channel. The site will periodically be updated with new solutions from this repo!

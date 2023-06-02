@@ -54,6 +54,8 @@
 
 - [nucleus](https://github.com/atlassian/nucleus): A configurable and versatile update server for all your Electron apps.
 
+- [WankkoRee/eaio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/WankkoRee/eaio)](https://github.com/WankkoRee/eaio): 一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。
+
 # Development Libraries
 
 - [electron-json-storage ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/electron-userland/electron-json-storage): electron-json-storage implements an API somehow similar to localStorage to write and read JSON objects to/from the operating system application data directory.

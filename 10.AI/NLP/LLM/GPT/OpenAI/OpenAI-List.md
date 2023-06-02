@@ -26,6 +26,8 @@
 
 - [2023-DocsGPT ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/arc53/DocsGPT)](https://github.com/arc53/DocsGPT): GPT-powered chat for documentation search & assistance.
 
+- [2023-pdfGPT ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/bhaskatripathi/pdfGPT)](https://github.com/bhaskatripathi/pdfGPT): PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
+
 - [2023-nextjs-openai-doc-search ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/supabase-community/nextjs-openai-doc-search)](https://github.com/supabase-community/nextjs-openai-doc-search): Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
 
 - [2023-WebWhiz ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/webwhiz-ai/webwhiz)](https://github.com/webwhiz-ai/webwhiz): WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.
@@ -35,3 +37,5 @@
 - [2023-BriefGPT ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/e-johnstonn/BriefGPT)](https://github.com/e-johnstonn/BriefGPT): Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.
 
 - [2023-Psychic ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/psychic-api/psychic)](https://github.com/psychic-api/psychic): Psychic is an open source integration platform to extract and transform unstructured data from SaaS applications like Notion, Slack, Zendesk, Confluence, and Google Drive. Instead of building one integration for each data sources, you can build one integration that works for all data sources, and manage each connection from a GUI. Psychic is designed for startups that use LLMs and vector databases.
+
+- [GanymedeNil/document.ai ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/GanymedeNil/document.ai)](https://github.com/GanymedeNil/document.ai): 基于向量数据库与 GPT3.5 的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)

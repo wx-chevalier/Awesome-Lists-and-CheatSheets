@@ -20,6 +20,10 @@
 
 ## Python
 
+- [2018-Scrapy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/scrapy/scrapy)](https://github.com/scrapy/scrapy): Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
+
+- [2019-pyspider ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/binux/pyspider)](https://github.com/binux/pyspider): A Powerful Spider(Web Crawler) System in Python.
+
 - [Photon ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/s0md3v/Photon): Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.
 
 - [Gerapy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Gerapy/Gerapy): Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Scrapyd-Client, Scrapyd-API, Django and Vue.js.

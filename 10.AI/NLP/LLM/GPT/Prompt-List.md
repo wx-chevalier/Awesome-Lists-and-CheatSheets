@@ -8,6 +8,8 @@
 
 - [2023-prompt-engineering ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/brexhq/prompt-engineering)](https://github.com/brexhq/prompt-engineering): This guide was created by Brex for internal purposes. It's based on lessons learned from researching and creating Large Language Model (LLM) prompts for production use cases. It covers the history around LLMs as well as strategies, guidelines, and safety recommendations for working with and building programmatic systems on top of large language models, like OpenAI's GPT-4.
 
+- [2023-awesome-chatgpt-prompts ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts)](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better.
+
 # Resource
 
 ## Book

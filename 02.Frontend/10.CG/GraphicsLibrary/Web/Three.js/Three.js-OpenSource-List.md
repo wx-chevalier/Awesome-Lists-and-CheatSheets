@@ -87,3 +87,7 @@
 # Geo
 
 - [2019-iTowns ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars//iTowns/itowns)](https://github.com//iTowns/itowns): A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data
+
+# Path Trace
+
+- [2020-THREE.js-PathTracing-Renderer ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/erichlof/THREE.js-PathTracing-Renderer)](https://github.com/erichlof/THREE.js-PathTracing-Renderer): Real-time PathTracing with global illumination and progressive rendering, all on top of the Three.js WebGL framework.

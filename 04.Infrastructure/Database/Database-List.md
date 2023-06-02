@@ -74,9 +74,11 @@
 
 ## Course
 
-- [TP 301: TinySQL, a distributed relational database in Go ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pingcap-incubator/tinysql): TinySQL is a course designed to teach you how to implement a distributed relational database in Go. TinySQL is also the name of the simplifed version of TiDB.
+- [TP 301: TinySQL, a distributed relational database in Go 🎥](https://github.com/pingcap-incubator/tinysql): TinySQL is a course designed to teach you how to implement a distributed relational database in Go. TinySQL is also the name of the simplifed version of TiDB.
 
-- [TP 302: TinyKV, a distributed key value database in Go ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pingcap-incubator/tinykv): This is a series of projects on a key-value storage system built with the Raft consensus algorithm. These projects are inspired by the famous MIT 6.824 course, but aim to be closer to industry implementations.
+- [TP 302: TinyKV, a distributed key value database in Go 🎥](https://github.com/pingcap-incubator/tinykv): This is a series of projects on a key-value storage system built with the Raft consensus algorithm. These projects are inspired by the famous MIT 6.824 course, but aim to be closer to industry implementations.
+
+- [2023-Database Systems 🎥](https://15445.courses.cs.cmu.edu/spring2023/): This course is on the design and implementation of database management systems. Topics include data models (relational, document, key/value), storage models (n-ary, decomposition), query languages (SQL, stored procedures), storage architectures (heaps, log-structured), indexing (order preserving trees, hash tables), transaction processing (ACID, concurrency control), recovery (logging, checkpoints), query processing (joins, sorting, aggregation, optimization), and parallel architectures (multi-core, distributed). Case studies on open-source and commercial database systems are used to illustrate these techniques and trade-offs. The course is appropriate for students that are prepared to flex their strong systems programming skills.
 
 ### SQL
 

@@ -20,6 +20,8 @@
 
 - [2022-Alinea ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alineacms/alinea): Alinea is a modern content management system.
 
+- [2022-Payload ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/payloadcms/payload)](https://github.com/payloadcms/payload): Code-first Headless CMS that bridges the gap between CMS and application framework
+
 - [2023-Ghost ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tryghost/ghost)](https://github.com/tryghost/ghost): Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 
 ## Deployment

@@ -54,6 +54,10 @@
 
 - [2020-brick design ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/brick-design/brick-design): 全场景流式布局，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示，实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
 
+- [2020-destack ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/LiveDuo/destack)](https://github.com/LiveDuo/destack): Page builder based for Next.js 🅧. Zero-config deployment 🚀. React now supported!
+
+- [2020-Plasmic ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/plasmicapp/plasmic)](https://github.com/plasmicapp/plasmic): Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡
+
 - [2021-Budibase ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Budibase/budibase): Budibase is an open-source low-code platform and the easiest way to build beautiful internal tools 🚀
 
 - [2023-codebdy/rxdrag ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/codebdy/rxdrag)](https://github.com/codebdy/rxdrag): Design anything based on HTML, 可视化编辑， 设计一切基于 HMTL 的东西，模块化设计

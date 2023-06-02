@@ -10,6 +10,8 @@
 
 - [Backstage ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/spotify/backstage#getting-started): Backstage is an open platform for building developer portals. Powered by a centralized service catalog, Backstage restores order to your microservices and infrastructure. So your product teams can ship high-quality code quickly — without compromising autonomy.
 
+- [2023-Plane ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/makeplane/plane)](https://github.com/makeplane/plane): 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+
 ## ChatOps
 
 - [2021-Gort ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/getgort/gort): Gort is a chatbot framework designed from the ground up for chatops.

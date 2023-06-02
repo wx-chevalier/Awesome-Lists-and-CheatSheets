@@ -18,6 +18,8 @@
 
 - [2023-Open Chat Video Editor ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/SCUTlihaoyu/open-chat-video-editor)](https://github.com/SCUTlihaoyu/open-chat-video-editor): Open Chat Video Editor 是开源的短视频生成和编辑工具，整体技术框架如下。
 
+- [2023-roop ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/s0md3v/roop)](https://github.com/s0md3v/roop): One-click deepfake (face swap). Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training.
+
 # Restore
 
 - [2023-Real-ESRGAN ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/xinntao/Real-ESRGAN)](https://github.com/xinntao/Real-ESRGAN): Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
