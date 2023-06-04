@@ -2,6 +2,8 @@
 
 - [Hugging Face Diffusion Models Course 🎥](https://github.com/huggingface/diffusion-models-class): Materials for the Hugging Face Diffusion Models Course.
 
+- [FurkanGozukara/Stable-Diffusion #Series# ![star](https://img.shields.io/github/stars/FurkanGozukara/Stable-Diffusion)](https://github.com/FurkanGozukara/Stable-Diffusion): Best Stable Diffusion and AI Tutorials, Guides, News, Tips and Tricks
+
 # OpenSource
 
 - [Diffusion Bee ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui): Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.

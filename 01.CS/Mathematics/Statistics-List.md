@@ -18,7 +18,7 @@
 
 ## Book
 
-- [2019-Richard McElreath-Statistical Rethinking #Book#](https://xcelab.net/rm/statistical-rethinking/): Statistical Rethinking: A Bayesian Course with Examples in R and Stan builds your knowledge of and confidence in making inferences from data. Reflecting the need for scripting in today's model-based statistics, the book pushes you to perform step-by-step calculations that are usually automated. This unique computational approach ensures that you understand enough of the details to make reasonable choices and interpretations in your own modeling work.
+- [2019-Richard McElreath-Statistical Rethinking 📚](https://xcelab.net/rm/statistical-rethinking/): Statistical Rethinking: A Bayesian Course with Examples in R and Stan builds your knowledge of and confidence in making inferences from data. Reflecting the need for scripting in today's model-based statistics, the book pushes you to perform step-by-step calculations that are usually automated. This unique computational approach ensures that you understand enough of the details to make reasonable choices and interpretations in your own modeling work.
 
   - [Statistical Rethinking course winter 2022](https://github.com/rmcelreath/stat_rethinking_2022): Statistical Rethinking course winter 2022
   - [PyMC3 port of the book "Statistical Rethinking" by Richard McElreath (second edition)](https://github.com/pymc-devs/pymc-resources)
