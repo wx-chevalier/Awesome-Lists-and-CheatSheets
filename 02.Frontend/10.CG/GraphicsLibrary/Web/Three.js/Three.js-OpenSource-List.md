@@ -40,6 +40,8 @@
 
 - [2020-OmarShehata/webgl-outlines ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/OmarShehata/webgl-outlines)](https://github.com/OmarShehata/webgl-outlines): Implementation of a post process outline shader in ThreeJS & PlayCanvas.
 
+- [2023-kokomi.js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/alphardex/kokomi.js)](https://github.com/alphardex/kokomi.js): A growing three.js helper library.
+
 ## BVH
 
 - [2018-three-mesh-bvh ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gkjohnson/three-mesh-bvh)](https://github.com/gkjohnson/three-mesh-bvh): A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.

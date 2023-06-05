@@ -41,3 +41,5 @@
 - [2023-GanymedeNil/document.ai ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/GanymedeNil/document.ai)](https://github.com/GanymedeNil/document.ai): 基于向量数据库与 GPT3.5 的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)
 
 - [2023-Haystack ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/deepset-ai/haystack)](https://github.com/deepset-ai/haystack): 🔍 Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex question answering, semantic search, text generation applications, and more.
+
+- [2023-OpenChat ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/openchatai/OpenChat)](https://github.com/openchatai/OpenChat): Run and create custom ChatGPT-like bots with OpenChat, embed and share these bots anywhere, the open-source chatbot console.

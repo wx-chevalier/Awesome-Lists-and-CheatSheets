@@ -2,7 +2,9 @@
 
 Browser Automation 即所谓的自动化浏览器或者能够以脚本等方式操作网页完成交互，即利用 Web Driver 或者所谓的 Headless Browser 等技术，可以进行后台的 JS 或者 CSS 脚本渲染，并完成一系列的包括数据分析、模拟操作等步骤。
 
-- [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers): 一个关于目前 Headless 浏览器的列表
+- [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers): 一个关于目前 Headless 浏览器的列表。
+
+- [browserless/chrome ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/browserless/chrome)](https://github.com/browserless/chrome): The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 
 # Headless Chrome
 

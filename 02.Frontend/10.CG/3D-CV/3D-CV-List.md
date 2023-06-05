@@ -4,6 +4,8 @@
 
 - [2022-DiffusionNet ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nmwsharp/diffusion-net)](https://github.com/nmwsharp/diffusion-net): DiffusionNet is a general-purpose method for deep learning on surfaces such as 3D triangle meshes and point clouds. It is well-suited for tasks like segmentation, classification, feature extraction, etc.
 
+- [2023-threestudio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/threestudio-project/threestudio)](https://github.com/threestudio-project/threestudio): threestudio is a unified framework for 3D content creation from text prompts, single images, and few-shot images, by lifting 2D text-to-image generation models.
+
 # Classification
 
 - [2016-Pointnet ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/charlesq34/pointnet)](https://github.com/charlesq34/pointnet): Deep Learning on Point Sets for 3D Classification and Segmentation.

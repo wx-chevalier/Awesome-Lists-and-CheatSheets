@@ -836,10 +836,11 @@
       - [5.3.2 Database OpenSource List](/04.Infrastructure/Database/Database-OpenSource-List.md)
       - 5.3.3 DocumentDB [4]
         - [5.3.3.1 DocumentDB List](/04.Infrastructure/Database/DocumentDB/DocumentDB-List.md)
-        - 5.3.3.2 ElasticSearch [3]
+        - 5.3.3.2 ElasticSearch [4]
           - [5.3.3.2.1 ES Internals List](/04.Infrastructure/Database/DocumentDB/ElasticSearch/ES-Internals-List.md)
           - [5.3.3.2.2 ES List](/04.Infrastructure/Database/DocumentDB/ElasticSearch/ES-List.md)
-          - [5.3.3.2.3 ES Practices List](/04.Infrastructure/Database/DocumentDB/ElasticSearch/ES-Practices-List.md)
+          - [5.3.3.2.3 ES OpenSource List](/04.Infrastructure/Database/DocumentDB/ElasticSearch/ES-OpenSource-List.md)
+          - [5.3.3.2.4 ES Practices List](/04.Infrastructure/Database/DocumentDB/ElasticSearch/ES-Practices-List.md)
         - 5.3.3.3 MongoDB [1]
           - [5.3.3.3.1 MongoDB List](/04.Infrastructure/Database/DocumentDB/MongoDB/MongoDB-List.md)
         - 5.3.3.4 SearchEngine [2]
