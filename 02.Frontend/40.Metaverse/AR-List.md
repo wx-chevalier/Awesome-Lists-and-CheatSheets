@@ -30,4 +30,4 @@
 
 # OpenSource
 
-- [2022-MONOCLE #Project#](https://www.brilliantmonocle.com/): a pocket sized AR device for the imaginative hacker
+- [2022-MONOCLE ![code](https://ng-tech.icu/assets/code.svg)](https://www.brilliantmonocle.com/): a pocket sized AR device for the imaginative hacker

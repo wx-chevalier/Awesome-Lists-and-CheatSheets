@@ -1113,26 +1113,28 @@
         - [6.13.3.2 InformationRetrieval List](/10.AI/NLP/InformationExtraction/InformationRetrieval-List.md)
       - 6.13.4 KnowledgeGraph [1]
         - [6.13.4.1 KnowledgeGraph List](/10.AI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
-      - 6.13.5 LLM [8]
+      - 6.13.5 LLM [9]
         - 6.13.5.1 99.参考资料 [1]
           - [6.13.5.1.1 AI Canon](/10.AI/NLP/LLM/99.参考资料/2023-AI%20Canon.md)
         - 6.13.5.2 Agent [1]
           - [6.13.5.2.1 LLM Agent OpenSource List](/10.AI/NLP/LLM/Agent/LLM-Agent-OpenSource-List.md)
         - 6.13.5.3 CodeGeneration [1]
           - [6.13.5.3.1 CodeGeneration OpenSource List](/10.AI/NLP/LLM/CodeGeneration/CodeGeneration-OpenSource-List.md)
-        - 6.13.5.4 GPT [4]
-          - [6.13.5.4.1 GPT List](/10.AI/NLP/LLM/GPT/GPT-List.md)
-          - 6.13.5.4.2 OpenAI [2]
-            - [6.13.5.4.2.1 OpenAI List](/10.AI/NLP/LLM/GPT/OpenAI/OpenAI-List.md)
-            - [6.13.5.4.2.2 OpenAI Site List](/10.AI/NLP/LLM/GPT/OpenAI/OpenAI-Site-List.md)
-          - [6.13.5.4.3 OpenAI List](/10.AI/NLP/LLM/GPT/OpenAI-List.md)
-          - [6.13.5.4.4 Prompt List](/10.AI/NLP/LLM/GPT/Prompt-List.md)
-        - [6.13.5.5 LLM List](/10.AI/NLP/LLM/LLM-List.md)
-        - [6.13.5.6 LLM OpenSource List](/10.AI/NLP/LLM/LLM-OpenSource-List.md)
-        - 6.13.5.7 LLaMA [2]
-          - [6.13.5.7.1 Dolly List](/10.AI/NLP/LLM/LLaMA/Dolly-List.md)
-          - [6.13.5.7.2 LLaMA List](/10.AI/NLP/LLM/LLaMA/LLaMA-List.md)
-        - [6.13.5.8 LangChain List](/10.AI/NLP/LLM/LangChain-List.md)
+        - 6.13.5.4 FineTuning [1]
+          - [6.13.5.4.1 LLM FineTuning OpenSource List](/10.AI/NLP/LLM/FineTuning/LLM-FineTuning-OpenSource-List.md)
+        - 6.13.5.5 GPT [4]
+          - [6.13.5.5.1 GPT List](/10.AI/NLP/LLM/GPT/GPT-List.md)
+          - 6.13.5.5.2 OpenAI [2]
+            - [6.13.5.5.2.1 OpenAI List](/10.AI/NLP/LLM/GPT/OpenAI/OpenAI-List.md)
+            - [6.13.5.5.2.2 OpenAI Site List](/10.AI/NLP/LLM/GPT/OpenAI/OpenAI-Site-List.md)
+          - [6.13.5.5.3 OpenAI List](/10.AI/NLP/LLM/GPT/OpenAI-List.md)
+          - [6.13.5.5.4 Prompt List](/10.AI/NLP/LLM/GPT/Prompt-List.md)
+        - [6.13.5.6 LLM List](/10.AI/NLP/LLM/LLM-List.md)
+        - [6.13.5.7 LLM OpenSource List](/10.AI/NLP/LLM/LLM-OpenSource-List.md)
+        - 6.13.5.8 LLaMA [2]
+          - [6.13.5.8.1 Dolly List](/10.AI/NLP/LLM/LLaMA/Dolly-List.md)
+          - [6.13.5.8.2 LLaMA List](/10.AI/NLP/LLM/LLaMA/LLaMA-List.md)
+        - [6.13.5.9 LangChain List](/10.AI/NLP/LLM/LangChain-List.md)
       - [6.13.6 NLP List](/10.AI/NLP/NLP-List.md)
       - [6.13.7 NLP OpenSource List](/10.AI/NLP/NLP-OpenSource-List.md)
       - 6.13.8 SyntaxSemanticAnalysis [2]

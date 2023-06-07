@@ -37,4 +37,7 @@
 - [2022-Point·E ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/openai/point-e)](https://github.com/openai/point-e): Point cloud diffusion for 3D model synthesis
 
 - [2023-Shap-E ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/openai/shap-e)](https://github.com/openai/shap-e): Generate 3D objects conditioned on text or images.
+
   - [kedzkiest/shap-e-local ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/kedzkiest/shap-e-local)](https://github.com/kedzkiest/shap-e-local): The code to run shap-e text-to-3d sample code locally.
+
+- [HeadSculpt ![code](https://ng-tech.icu/assets/code.svg)](https://brandonhan.uk/HeadSculpt/): HeadSculpt can create an assortment of head avatars, including humans (both celebrities and ordinary individuals) as well as non-human characters like superheroes, comic/game characters, paintings, and more.

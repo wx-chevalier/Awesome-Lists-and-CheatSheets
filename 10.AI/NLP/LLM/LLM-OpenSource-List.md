@@ -57,14 +57,6 @@
 
 - [2023-GPTCache ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/zilliztech/GPTCache)](https://github.com/zilliztech/GPTCache): GPTCache is a library for creating semantic cache to store responses from LLM queries.
 
-# Fine-tunning
-
-- [2023-Databerry ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gmpetrov/databerry)](https://github.com/gmpetrov/databerry): The no-code platform for connecting custom data to large language models.
-
-- [2023-xturing ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/stochasticai/xturing)](https://github.com/stochasticai/xturing): xturing provides fast, efficient and simple fine-tuning of LLMs, such as LLaMA, GPT-J, GPT-2, OPT, Cerebras-GPT, Galactica, and more. By providing an easy-to-use interface for personalizing LLMs to your own data and application, xTuring makes it simple to build and control LLMs. The entire process can be done inside your computer or in your private cloud, ensuring data privacy and security.
-
-- [2023-LMFlow ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/OptimalScale/LMFlow)](https://github.com/OptimalScale/LMFlow): An extensible, convenient, and efficient toolbox for finetuning large machine learning models, designed to be user-friendly, speedy and reliable, and accessible to the entire community.
-
 # LLM UI
 
 - [2023-ChatGPT-Next-Web ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Yidadaa/ChatGPT-Next-Web)](https://github.com/Yidadaa/ChatGPT-Next-Web): One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
