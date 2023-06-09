@@ -80,6 +80,8 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 - [2021-react-fundamentals ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/kentcdodds/react-fundamentals)](https://github.com/kentcdodds/react-fundamentals): Learn everything you need to be effective with the fundamental building block of React applications. When you're finished, you'll be prepared to create React components to build excellent experiences for your app's users.
 
+- [2023-ultimate-react-course 🎥](https://github.com/jonasschmedtmann/ultimate-react-course): Starter files, final projects, and FAQ for my Ultimate React course
+
 ## Collection | 集合
 
 - [Awesome-React 🗃️](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem.

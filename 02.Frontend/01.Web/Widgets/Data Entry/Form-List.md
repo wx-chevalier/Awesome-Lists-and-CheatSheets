@@ -49,3 +49,7 @@
 - [2020-Botui ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/botui/botui)](https://github.com/botui/botui): 🤖 A JavaScript framework for building conversational UIs
 
 - [2021-Typebot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/baptisteArno/typebot.io)](https://github.com/baptisteArno/typebot.io): Typebot is an open-source alternative to Landbot. It allows you to create conversational apps/forms (Lead qualification, Product launch, User onboarding, Customer support), embed them anywhere on your web/mobile apps, and collect results in real-time.
+
+# dat.gui
+
+- [2023-lil-gui ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/georgealways/lil-gui)](https://github.com/georgealways/lil-gui): Makes a floating panel for controllers on the web. Works as a drop-in replacement for dat.gui in most projects. See Migrating for a list of breaking changes.

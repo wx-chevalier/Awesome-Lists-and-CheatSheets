@@ -38,6 +38,10 @@
 
 - [2023-stable-diffusion-webui-colab ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/camenduru/stable-diffusion-webui-colab)](https://github.com/camenduru/stable-diffusion-webui-colab): stable diffusion webui colab.
 
+## StableDiffusion Implementation
+
+- [axodox/axodox-machinelearning ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/axodox/axodox-machinelearning)](https://github.com/axodox/axodox-machinelearning): This repository contains a fully C++ implementation of Stable Diffusion-based image synthesis, including the original txt2img, img2img and inpainting capabilities and the safety checker.
+
 ## GUI & APP
 
 - [2022-Gauss ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/justjake/Gauss)](https://github.com/justjake/Gauss): A Stable Diffusion app for macOS built with SwiftUI and Apple's ml-stable-diffusion CoreML models.
