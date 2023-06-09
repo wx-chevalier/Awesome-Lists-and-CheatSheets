@@ -70,6 +70,10 @@
 
 - [DivKit ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/divkit/divkit): DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
 
+## DataVis
+
+- [food-billboard/create-chart ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/food-billboard/create-chart)](https://github.com/food-billboard/create-chart): 基于 Echarts 的可视化数据大屏设计器（包含设计、预览、分享等全部流程）
+
 ## Materials | 物料
 
 - [ICE ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alibaba/ice): 飞冰 - 海量可复用物料，通过 GUI 工具极速构建中后台应用。
