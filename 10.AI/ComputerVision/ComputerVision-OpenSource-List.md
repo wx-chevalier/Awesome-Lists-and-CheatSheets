@@ -66,6 +66,8 @@
 
 - [2023-Segment-Everything-Everywhere-All-At-Once ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once): We introduce SEEM that can Segment Everything Everywhere with Multi-modal prompts all at once. SEEM allows users to easily segment an image using prompts of different types including visual prompts (points, marks, boxes, scribbles and image segments) and language prompts (text and audio), etc. It can also work with any combinations of prompts or generalize to custom prompts!
 
+- [2023-Recognize_Anything-Tag2Text ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/xinyu1205/Recognize_Anything-Tag2Text)](https://github.com/xinyu1205/Recognize_Anything-Tag2Text): A Strong Image Tagging Model & Tag2Text: Guiding Vision-Language Model via Image Tagging
+
 ## Object Detection
 
 ### 动作识别

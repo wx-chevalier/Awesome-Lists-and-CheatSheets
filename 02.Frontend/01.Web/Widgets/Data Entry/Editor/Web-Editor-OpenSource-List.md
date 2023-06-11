@@ -30,7 +30,9 @@
 
 - [2020-remirror ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/remirror/remirror)](https://github.com/remirror/remirror): A React toolkit for building cross-platform text editors, based on ProseMirror.
 
-- [2022-Lexical ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebook/lexical): Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+- [2021-canvas-editor ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Hufe921/canvas-editor)](https://github.com/Hufe921/canvas-editor): rich text editor by canvas/svg
+
+- [2022-facebook/lexical ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/facebook/lexical)](https://github.com/facebook/lexical): Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 
 # Email
 

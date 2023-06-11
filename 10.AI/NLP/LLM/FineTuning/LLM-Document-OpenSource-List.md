@@ -1,4 +1,4 @@
-# LLM FineTuning OpenSource List
+# LLM Document OpenSource List
 
 - [2023-Databerry ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gmpetrov/databerry)](https://github.com/gmpetrov/databerry): The no-code platform for connecting custom data to large language models.
 
@@ -31,3 +31,5 @@
 - [2023-Haystack ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/deepset-ai/haystack)](https://github.com/deepset-ai/haystack): 🔍 Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex question answering, semantic search, text generation applications, and more.
 
 - [2023-OpenChat ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/openchatai/OpenChat)](https://github.com/openchatai/OpenChat): Run and create custom ChatGPT-like bots with OpenChat, embed and share these bots anywhere, the open-source chatbot console.
+
+- [2023-anything-llm ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm)](https://github.com/Mintplex-Labs/anything-llm): A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces.

@@ -26,6 +26,8 @@
 
 - [2019-threejs-miniprogram ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/wechat-miniprogram/threejs-miniprogram)](https://github.com/wechat-miniprogram/threejs-miniprogram): WeChat MiniProgram adapted version of Three.js
 
+- [2020-three-mesh-ui ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/felixmariotto/three-mesh-ui)](https://github.com/felixmariotto/three-mesh-ui): three-mesh-ui is a small library for building VR user interfaces. The objects it creates are three.object3Ds, usable directly in a three.js scene like any other Object3D.
+
 - [2023-vis-three ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Shiotsukikaedesari/vis-three)](https://github.com/Shiotsukikaedesari/vis-three): three.js 库二次功能封装 + 配置化的 three.js 开发。
 
 # Utils
