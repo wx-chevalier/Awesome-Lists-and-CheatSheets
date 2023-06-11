@@ -22,6 +22,8 @@
 
 - [2021-Datafuse ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/datafuselabs/datafuse): A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy
 
+- [2023-ByConity ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ByConity/ByConity)](https://github.com/ByConity/ByConity): ByConity is a data warehouse designed for changes in modern cloud architecture. It adopts a cloud-native architecture design to meet the requirements of data warehouse users for flexible scaling, separation of reads and writes, resource isolation, and strong data consistency. At the same time, it provides excellent query and write performance.
+
 ## OLAP Browser
 
 - [2015-Metabase ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/metabase/metabase): The simplest, fastest way to get business intelligence and analytics to everyone in your company.

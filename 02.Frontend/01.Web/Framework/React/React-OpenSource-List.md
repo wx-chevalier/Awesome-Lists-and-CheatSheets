@@ -26,6 +26,12 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 - [2021-Windows 11 in React ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/blueedgetechno/windows11): This open source project is made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS (SCSS), and Js.
 
+# Internals
+
+- [re-implement react fiber ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tranbathanhtung/react-fiber-implement): react-fiber is my self-study project help me understand how react work.
+
+- [Didact ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pomber/didact): A DIY guide to build your own React.
+
 # Development Tools | 开发工具
 
 ## Scaffold
@@ -47,6 +53,8 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 - [why-did-you-update ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/garbles/why-did-you-update): Puts your console on blast when React is making unnecessary updates.
 
 - [2021-React Tracked ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dai-shi/react-tracked): State usage tracking with Proxies. Optimize re-renders for useState/useReducer, React Redux, Zustand and others.
+
+- [2021-million ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/aidenybai/million)](https://github.com/aidenybai/million): Million is an extremely fast and lightweight (<4kb) virtual DOM that makes React components up to 70% faster.
 
 # Development Libraries
 
@@ -97,9 +105,3 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 ## Test
 
 - [2017-react-cosmos ![code](https://ng-tech.icu/assets/code.svg)](https://cubox.pro/c/SwAGqu): Sandbox for developing and testing UI components in isolation
-
-# Internals
-
-- [re-implement react fiber ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tranbathanhtung/react-fiber-implement): react-fiber is my self-study project help me understand how react work.
-
-- [Didact ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pomber/didact): A DIY guide to build your own React.
