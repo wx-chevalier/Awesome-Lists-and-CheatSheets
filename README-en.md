@@ -30,7 +30,7 @@ Finally, Let these lists speak for themselves:
 
 - If you wan't to learn AI, DeepLearning, TensorFlow... you may like [DataScienceAI Book List](./DataScienceAI/DataScienceAI-Book-List.md), [DataScienceAI Course List](./DataScienceAI/DataScienceAI-Course-List.md), [Machine Learning List](./DataScienceAI/MachineLearning/MachineLearning-List.md), [Deep Learning List](./DataScienceAI/DeepLearning/DeepLearning-List.md), [NLP List](./DataScienceAI/NLP/NLP-List.md), [TensorFlow List](./DataScienceAI/Toolkit/TensorFlow/TensorFlow-List.md), [PyTorch List](./DataScienceAI/Toolkit/PyTorch/PyTorch-List.md), etc.
 
-You can use [xCompass](https://https:wx-chevalier.github.io/home/#/search?query=React) for searching in Web or [alfred-sg](https://github.com/wx-chevalier/xCompass/blob/master/soogle/alfred-sg/) for searching in MAC.
+You can use [NGTE Website](https://https:wx-chevalier.github.io/home/#/search?query=React) for searching in Web or [alfred-sg](https://github.com/wx-chevalier/xCompass/blob/master/soogle/alfred-sg/) for searching in MAC.
 
 ## Knowledge Graph
 
