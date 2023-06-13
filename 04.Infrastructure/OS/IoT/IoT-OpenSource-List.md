@@ -18,6 +18,8 @@
 
 - [2022-jetlinks-community ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jetlinks/jetlinks-community): JetLinks 基于 Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor 等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP 等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。
 
+- [2023-FastBee ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/kerwincui/FastBee)](https://github.com/kerwincui/FastBee): FastBee 开源物联网平台，简单易用，可用于搭建物联网平台以及二次开发和学习。适用于智能家居、智慧办公、智慧社区、农业监测、水利监测、工业控制等。
+
 # Gateway
 
 - [2015-Microsoft Azure IoT Protocol Gateway](https://github.com/Azure/azure-iot-protocol-gateway): Azure IoT protocol gateway enables protocol translation for Azure IoT Hub.
@@ -27,6 +29,8 @@
 - [2016-thingsboard gateway ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/thingsboard/thingsboard-gateway): Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with ThingsBoard IoT Platform using OPC-UA and MQTT protocols
 
 - [Haven ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/guardianproject/haven): Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors.
+
+- [2023-DriverBox ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/iBUILDING-X/driver-box): 一款基于物联网开源框架 Edgex 打造的泛化协议接入服务。 以插件化的形式融合了 Modbus、Bacnet、HTTP、MQTT 等主流协议，同时也支持基于 TCP 的各类私有化协议对接。
 
 # Visual Tools
 

@@ -30,14 +30,6 @@
 
 - [2021-Monika ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hyperjumptech/monika): Monika is a command line application to monitor every part of your web app using a simple JSON configuration file. Get alert not only when your site is down but also when it's slow.
 
-## Prometheus
-
-- [Prometheus ![code](https://ng-tech.icu/assets/code.svg)](https://prometheus.io/): Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts if some condition is observed to be true.
-
-- [Thanos ![code](https://ng-tech.icu/assets/code.svg)](https://thanos.io/): Open source, highly available Prometheus setup with long term storage capabilities.
-
-- [2020-Kvass ![code](https://ng-tech.icu/assets/code.svg)](https://cubox.pro/c/v794lW): Kvass 是一个 Prometheus 横向扩缩容解决方案，他使用 Sidecar 动态得根据 Coordinator 分配下来的 target 列表来为每个 Prometheus 生成只含特定 target 的配置文件，从而将采集任务动态调度到各个 Prometheus 分片。Coordinator 用于服务发现，target 调度和分片扩缩容管理. Thanos (或者其他 TSDB) 用来将分片数据汇总成全局数据.
-
 # Server Dashboard & Panel
 
 - [2005-htop ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hishamhm/htop): htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
@@ -81,6 +73,8 @@
 - [2020-Cubic ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dromara/cubic)](https://github.com/dromara/cubic): 一站式问题定位平台，还在为线上问题而烦恼吗？分布式实例监控、线程栈监控、线程池监控、动态 arthas 命令集、依赖分析等等等，助你快速定位问题
 
 - [2022-Uptrace ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/uptrace/uptrace)](https://github.com/uptrace/uptrace): Uptrace is an open-source APM tool that supports distributed tracing, metrics, and logs. You can use it to monitor applications and set up automatic alerts to receive notifications via email, Slack, Telegram, and more.
+
+- [2023-HertzBeat ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dromara/hertzbeat)](https://github.com/dromara/hertzbeat): An open source, real-time monitoring system with custom-monitor and agentless. Web, database, os, middleware, cloudnative, network and more.
 
 # Visualization
 

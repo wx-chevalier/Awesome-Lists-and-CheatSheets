@@ -16,6 +16,8 @@
 
 - [filebrowser ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/filebrowser/filebrowser): filebrowser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files. It allows the creation of multiple users and each user can have its own directory. It can be used as a standalone app or as a middleware.
 
+- [2018-wtf ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/wtfutil/wtf)](https://github.com/wtfutil/wtf): WTF (aka 'wtfutil') is the personal information dashboard for your terminal, providing at-a-glance access to your very important but infrequently-needed stats and data.
+
 - [2022-gopeed ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/monkeyWie/gopeed): High speed downloader that supports all platforms.
 
 - [2022-katana ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/projectdiscovery/katana): A next-generation crawling and spidering framework.

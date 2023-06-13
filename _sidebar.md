@@ -16,7 +16,7 @@
       - [1.3.4 Awesome DataVis](/00.Specials/Showcases/Awesome-DataVis.md)
       - [1.3.5 Awesome Design Inspiration](/00.Specials/Showcases/Awesome-Design-Inspiration.md)
       - [1.3.6 Coding as Vetren](/00.Specials/Showcases/Coding-as-Vetren.md)
-    - [1.4 Tools & Projects [27]](/00.Specials/Tools%20&%20Projects/README.md)
+    - [1.4 Tools & Projects [28]](/00.Specials/Tools%20&%20Projects/README.md)
       - [1.4.1 Automation](/00.Specials/Tools%20&%20Projects/Automation.md)
       - [1.4.2 Awesome Media Tools](/00.Specials/Tools%20&%20Projects/Awesome-Media-Tools.md)
       - [1.4.3 Awesome Tools](/00.Specials/Tools%20&%20Projects/Awesome-Tools.md)
@@ -38,20 +38,21 @@
         - [1.4.13.2 Image Cloud Store](/00.Specials/Tools%20&%20Projects/Media/Image%20Cloud%20Store.md)
         - [1.4.13.3 Picture Upload](/00.Specials/Tools%20&%20Projects/Media/Picture%20Upload.md)
       - [1.4.14 Network](/00.Specials/Tools%20&%20Projects/Network.md)
-      - [1.4.15 Notification](/00.Specials/Tools%20&%20Projects/Notification.md)
-      - [1.4.16 OS](/00.Specials/Tools%20&%20Projects/OS.md)
-      - 1.4.17 OpenSource Alternatives [1]
-        - [1.4.17.1 Open source alternatives to everyday SaaS products](/00.Specials/Tools%20&%20Projects/OpenSource%20Alternatives/Open-source%20alternatives%20to%20everyday%20SaaS%20products.md)
-      - [1.4.18 Person](/00.Specials/Tools%20&%20Projects/Person.md)
-      - [1.4.19 Productivity](/00.Specials/Tools%20&%20Projects/Productivity.md)
-      - [1.4.20 ScreenShare & VNC](/00.Specials/Tools%20&%20Projects/ScreenShare%20&%20VNC.md)
-      - [1.4.21 Startup](/00.Specials/Tools%20&%20Projects/Startup.md)
-      - [1.4.22 Teamwork](/00.Specials/Tools%20&%20Projects/Teamwork.md)
-      - [1.4.23 Terminal](/00.Specials/Tools%20&%20Projects/Terminal.md)
-      - [1.4.24 Translate Tools](/00.Specials/Tools%20&%20Projects/Translate%20Tools.md)
-      - [1.4.25 UGC](/00.Specials/Tools%20&%20Projects/UGC.md)
-      - [1.4.26 Website Builder](/00.Specials/Tools%20&%20Projects/Website%20Builder.md)
-      - [1.4.27 消息推送](/00.Specials/Tools%20&%20Projects/消息推送.md)
+      - [1.4.15 Newsletter](/00.Specials/Tools%20&%20Projects/Newsletter.md)
+      - [1.4.16 Notification](/00.Specials/Tools%20&%20Projects/Notification.md)
+      - [1.4.17 OS](/00.Specials/Tools%20&%20Projects/OS.md)
+      - 1.4.18 OpenSource Alternatives [1]
+        - [1.4.18.1 Open source alternatives to everyday SaaS products](/00.Specials/Tools%20&%20Projects/OpenSource%20Alternatives/Open-source%20alternatives%20to%20everyday%20SaaS%20products.md)
+      - [1.4.19 Person](/00.Specials/Tools%20&%20Projects/Person.md)
+      - [1.4.20 Productivity](/00.Specials/Tools%20&%20Projects/Productivity.md)
+      - [1.4.21 ScreenShare & VNC](/00.Specials/Tools%20&%20Projects/ScreenShare%20&%20VNC.md)
+      - [1.4.22 Startup](/00.Specials/Tools%20&%20Projects/Startup.md)
+      - [1.4.23 Teamwork](/00.Specials/Tools%20&%20Projects/Teamwork.md)
+      - [1.4.24 Terminal](/00.Specials/Tools%20&%20Projects/Terminal.md)
+      - [1.4.25 Translate Tools](/00.Specials/Tools%20&%20Projects/Translate%20Tools.md)
+      - [1.4.26 UGC](/00.Specials/Tools%20&%20Projects/UGC.md)
+      - [1.4.27 Website Builder](/00.Specials/Tools%20&%20Projects/Website%20Builder.md)
+      - [1.4.28 消息推送](/00.Specials/Tools%20&%20Projects/消息推送.md)
     - [1.5 Weekly [8]](/00.Specials/Weekly/README.md)
       - 1.5.1  [1]
         - 1.5.1.1  [2]
@@ -280,20 +281,21 @@
           - [2.7.6.4.7 JVM Tuning List](/01.CS/Language/Java/JVM/JVM-Tuning-List.md)
         - [2.7.6.5 Java List](/01.CS/Language/Java/Java-List.md)
         - [2.7.6.6 Java OpenSource List](/01.CS/Language/Java/Java-OpenSource-List.md)
-        - 2.7.6.7 MicroCN [11]
+        - 2.7.6.7 MicroCN [5]
           - [2.7.6.7.1 Java MicroCN OpenSource List](/01.CS/Language/Java/MicroCN/Java-MicroCN-OpenSource-List.md)
           - [2.7.6.7.2 Java Servlet List](/01.CS/Language/Java/MicroCN/Java-Servlet-List.md)
           - 2.7.6.7.3 Mybatis [2]
             - [2.7.6.7.3.1 Mybatis List](/01.CS/Language/Java/MicroCN/Mybatis/Mybatis-List.md)
             - [2.7.6.7.3.2 Mybatis OpenSource List](/01.CS/Language/Java/MicroCN/Mybatis/Mybatis-OpenSource-List.md)
-          - [2.7.6.7.4 Spring Internals List](/01.CS/Language/Java/MicroCN/Spring-Internals-List.md)
-          - [2.7.6.7.5 Spring List](/01.CS/Language/Java/MicroCN/Spring-List.md)
-          - [2.7.6.7.6 Spring OpenSource List](/01.CS/Language/Java/MicroCN/Spring-OpenSource-List.md)
-          - [2.7.6.7.7 SpringBoot List](/01.CS/Language/Java/MicroCN/SpringBoot-List.md)
-          - [2.7.6.7.8 SpringBoot Starter OpenSource List](/01.CS/Language/Java/MicroCN/SpringBoot-Starter-OpenSource-List.md)
-          - [2.7.6.7.9 SpringCloud List](/01.CS/Language/Java/MicroCN/SpringCloud-List.md)
-          - [2.7.6.7.10 SpringSecurity List](/01.CS/Language/Java/MicroCN/SpringSecurity-List.md)
-          - [2.7.6.7.11 Tomcat List](/01.CS/Language/Java/MicroCN/Tomcat-List.md)
+          - 2.7.6.7.4 Spring [7]
+            - [2.7.6.7.4.1 Spring Internals List](/01.CS/Language/Java/MicroCN/Spring/Spring-Internals-List.md)
+            - [2.7.6.7.4.2 Spring List](/01.CS/Language/Java/MicroCN/Spring/Spring-List.md)
+            - [2.7.6.7.4.3 Spring OpenSource List](/01.CS/Language/Java/MicroCN/Spring/Spring-OpenSource-List.md)
+            - [2.7.6.7.4.4 SpringBoot List](/01.CS/Language/Java/MicroCN/Spring/SpringBoot-List.md)
+            - [2.7.6.7.4.5 SpringBoot OpenSource List](/01.CS/Language/Java/MicroCN/Spring/SpringBoot-OpenSource-List.md)
+            - [2.7.6.7.4.6 SpringCloud List](/01.CS/Language/Java/MicroCN/Spring/SpringCloud-List.md)
+            - [2.7.6.7.4.7 SpringSecurity List](/01.CS/Language/Java/MicroCN/Spring/SpringSecurity-List.md)
+          - [2.7.6.7.5 Tomcat List](/01.CS/Language/Java/MicroCN/Tomcat-List.md)
       - 2.7.7 JavaScript [11]
         - [2.7.7.1 JavaScript Async List](/01.CS/Language/JavaScript/JavaScript-Async-List.md)
         - [2.7.7.2 JavaScript Collection List](/01.CS/Language/JavaScript/JavaScript-Collection-List.md)
@@ -689,23 +691,26 @@
         - [4.4.2.3 Chef List](/03.System/04.DevOps/Automation/Chef-List.md)
         - [4.4.2.4 Puppet List](/03.System/04.DevOps/Automation/Puppet-List.md)
         - [4.4.2.5 Terraform](/03.System/04.DevOps/Automation/Terraform.md)
-      - 4.4.3 CD [2]
-        - [4.4.3.1 CI List](/03.System/04.DevOps/CD/CI-List.md)
-        - [4.4.3.2 Delivery List](/03.System/04.DevOps/CD/Delivery-List.md)
-      - 4.4.4 DevSecOps [2]
-        - [4.4.4.1 DevSecOps List](/03.System/04.DevOps/DevSecOps/DevSecOps-List.md)
-        - [4.4.4.2 Harden List](/03.System/04.DevOps/DevSecOps/Harden-List.md)
-      - 4.4.5 LogAggregation [2]
-        - [4.4.5.1 Flume List](/03.System/04.DevOps/LogAggregation/Flume-List.md)
-        - [4.4.5.2 LogAggregation List](/03.System/04.DevOps/LogAggregation/LogAggregation-List.md)
-      - 4.4.6 MonitorAlert [5]
-        - [4.4.6.1 APM List](/03.System/04.DevOps/MonitorAlert/APM-List.md)
-        - [4.4.6.2 Aggregation List](/03.System/04.DevOps/MonitorAlert/Aggregation-List.md)
-        - [4.4.6.3 MonitorAlert List](/03.System/04.DevOps/MonitorAlert/MonitorAlert-List.md)
-        - [4.4.6.4 MonitorAlert OpenSource List](/03.System/04.DevOps/MonitorAlert/MonitorAlert-OpenSource-List.md)
-        - [4.4.6.5 Web Analytics OpenSource List](/03.System/04.DevOps/MonitorAlert/Web-Analytics-OpenSource-List.md)
-      - [4.4.7 SRE List](/03.System/04.DevOps/SRE-List.md)
-      - [4.4.8 SRE OpenSource List](/03.System/04.DevOps/SRE-OpenSource-List.md)
+      - 4.4.3 CD [3]
+        - [4.4.3.1 CD OpenSource List](/03.System/04.DevOps/CD/CD-OpenSource-List.md)
+        - [4.4.3.2 CI List](/03.System/04.DevOps/CD/CI-List.md)
+        - [4.4.3.3 Delivery List](/03.System/04.DevOps/CD/Delivery-List.md)
+      - [4.4.4 DevOps List](/03.System/04.DevOps/DevOps-List.md)
+      - [4.4.5 DevOps OpenSource List](/03.System/04.DevOps/DevOps-OpenSource-List.md)
+      - 4.4.6 DevSecOps [2]
+        - [4.4.6.1 DevSecOps List](/03.System/04.DevOps/DevSecOps/DevSecOps-List.md)
+        - [4.4.6.2 Harden List](/03.System/04.DevOps/DevSecOps/Harden-List.md)
+      - 4.4.7 LogAggregation [2]
+        - [4.4.7.1 Flume List](/03.System/04.DevOps/LogAggregation/Flume-List.md)
+        - [4.4.7.2 LogAggregation List](/03.System/04.DevOps/LogAggregation/LogAggregation-List.md)
+      - 4.4.8 MonitorAlert [6]
+        - [4.4.8.1 APM List](/03.System/04.DevOps/MonitorAlert/APM-List.md)
+        - [4.4.8.2 Aggregation List](/03.System/04.DevOps/MonitorAlert/Aggregation-List.md)
+        - [4.4.8.3 MonitorAlert List](/03.System/04.DevOps/MonitorAlert/MonitorAlert-List.md)
+        - [4.4.8.4 MonitorAlert OpenSource List](/03.System/04.DevOps/MonitorAlert/MonitorAlert-OpenSource-List.md)
+        - 4.4.8.5 Prometheus [1]
+          - [4.4.8.5.1 Prometheus List](/03.System/04.DevOps/MonitorAlert/Prometheus/Prometheus-List.md)
+        - [4.4.8.6 Web Analytics OpenSource List](/03.System/04.DevOps/MonitorAlert/Web-Analytics-OpenSource-List.md)
     - 4.5 05.InfoSecurity [9]
       - 4.5.1 Crawler [2]
         - [4.5.1.1 Crawler List](/03.System/05.InfoSecurity/Crawler/Crawler-List.md)
@@ -739,7 +744,7 @@
       - [4.7.6 阿里](/03.System/11.BigTech/阿里.md)
       - [4.7.7 阿里巴巴](/03.System/11.BigTech/阿里巴巴/README.md)
         
-    - 4.8 20.Solutions [8]
+    - 4.8 20.Solutions [7]
       - 4.8.1 CMS [1]
         - [4.8.1.1 CMS List](/03.System/20.Solutions/CMS/CMS-List.md)
       - 4.8.2 ECommerce [5]
@@ -757,18 +762,16 @@
         - [4.8.4.1 APS List](/03.System/20.Solutions/II-MES/APS-List.md)
         - [4.8.4.2 MES List](/03.System/20.Solutions/II-MES/MES-List.md)
         - [4.8.4.3 Package List](/03.System/20.Solutions/II-MES/Package-List.md)
-      - 4.8.5 IoT [1]
-        - [4.8.5.1 IoT OpenSource List](/03.System/20.Solutions/IoT/IoT-OpenSource-List.md)
-      - 4.8.6 OA [1]
-        - [4.8.6.1 OA List](/03.System/20.Solutions/OA/OA-List.md)
-      - 4.8.7 OpenPlatform [4]
-        - [4.8.7.1 Alipay List](/03.System/20.Solutions/OpenPlatform/Alipay-List.md)
-        - [4.8.7.2 OpenPlatform List](/03.System/20.Solutions/OpenPlatform/OpenPlatform-List.md)
-        - [4.8.7.3 Wechat List](/03.System/20.Solutions/OpenPlatform/Wechat-List.md)
-        - [4.8.7.4 WhatsApp List](/03.System/20.Solutions/OpenPlatform/WhatsApp-List.md)
-      - 4.8.8 Pay [2]
-        - [4.8.8.1 Pay List](/03.System/20.Solutions/Pay/Pay-List.md)
-        - [4.8.8.2 Pay OpenSource List](/03.System/20.Solutions/Pay/Pay-OpenSource-List.md)
+      - 4.8.5 OA [1]
+        - [4.8.5.1 OA List](/03.System/20.Solutions/OA/OA-List.md)
+      - 4.8.6 OpenPlatform [4]
+        - [4.8.6.1 Alipay List](/03.System/20.Solutions/OpenPlatform/Alipay-List.md)
+        - [4.8.6.2 OpenPlatform List](/03.System/20.Solutions/OpenPlatform/OpenPlatform-List.md)
+        - [4.8.6.3 Wechat List](/03.System/20.Solutions/OpenPlatform/Wechat-List.md)
+        - [4.8.6.4 WhatsApp List](/03.System/20.Solutions/OpenPlatform/WhatsApp-List.md)
+      - 4.8.7 Pay [2]
+        - [4.8.7.1 Pay List](/03.System/20.Solutions/Pay/Pay-List.md)
+        - [4.8.7.2 Pay OpenSource List](/03.System/20.Solutions/Pay/Pay-OpenSource-List.md)
     - [4.9 System List](/03.System/System-List.md)
   - 5 04.Infrastructure [7]
     - 5.1 Cloud [5]

@@ -41,3 +41,5 @@
 - [cp-ddd-framework ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/funkygao/cp-ddd-framework): A lightweight development framework for complex business architecture！轻量级业务中台开发框架！
 
 - [2020-Domain Driven Hexagon ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Sairyss/domain-driven-hexagon): Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
+
+- [2023-Ahoo-Wang/Wow ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Ahoo-Wang/Wow)](https://github.com/Ahoo-Wang/Wow): A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
