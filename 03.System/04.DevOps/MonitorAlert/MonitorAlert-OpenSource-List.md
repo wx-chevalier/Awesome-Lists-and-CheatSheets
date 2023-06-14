@@ -30,32 +30,6 @@
 
 - [2021-Monika ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hyperjumptech/monika): Monika is a command line application to monitor every part of your web app using a simple JSON configuration file. Get alert not only when your site is down but also when it's slow.
 
-# Server Dashboard & Panel
-
-- [2005-htop ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hishamhm/htop): htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
-
-- [Linux Dash ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/afaqurk/linux-dash): A simple & low-overhead web dashboard for linux systems.
-
-- [gtop ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/aksakalli/gtop): System monitoring dashboard for terminal.
-
-- [Glances ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/nicolargo/glances): Glances is a cross-platform monitoring tool which aims to present a large amount of monitoring information through a curses or Web based interface. The information dynamically adapts depending on the size of the user interface.
-
-- [2018-gotop ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/cjbassi/gotop): Another terminal based graphical activity monitor, inspired by gtop and vtop, this time written in Go!
-
-- [osquery ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebook/osquery): osquery is an operating system instrumentation framework for OS X/macOS, Windows, and Linux. The tools make low-level operating system analytics and monitoring both performant and intuitive.
-
-- [bashtop ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/aristocratos/bashtop): Linux resource monitor
-
-- [Cockpit ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/cockpit-project/cockpit): Cockpit is an interactive server admin interface. It is easy to use and very light weight. Cockpit interacts directly with the operating system from a real Linux session in a browser.
-
-- [2023-1Panel ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/1Panel-dev/1Panel)](https://github.com/1Panel-dev/1Panel): 1Panel 是一个现代化、开源的 Linux 服务器运维管理面板。
-
-## Container
-
-- [2016-ctop ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bcicen/ctop): ctop provides a concise and condensed overview of real-time metrics for multiple containers.
-
-- [2017-cAdvisor ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/google/cadvisor): Analyzes resource usage and performance characteristics of running containers.
-
 # APM
 
 - [perf-tools ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/brendangregg/perf-tools): A miscellaneous collection of in-development and unsupported performance analysis tools for Linux ftrace and perf_events (aka the "perf" command).
@@ -70,11 +44,13 @@
 
 - [2018-Cloudprober ![code](https://ng-tech.icu/assets/code.svg)](https://cloudprober.org/getting-started/): Cloudprober is a monitoring software that makes it super-easy to monitor availability and performance of various components of your system.
 
-- [2020-Cubic ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dromara/cubic)](https://github.com/dromara/cubic): 一站式问题定位平台，还在为线上问题而烦恼吗？分布式实例监控、线程栈监控、线程池监控、动态 arthas 命令集、依赖分析等等等，助你快速定位问题
-
 - [2022-Uptrace ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/uptrace/uptrace)](https://github.com/uptrace/uptrace): Uptrace is an open-source APM tool that supports distributed tracing, metrics, and logs. You can use it to monitor applications and set up automatic alerts to receive notifications via email, Slack, Telegram, and more.
 
 - [2023-HertzBeat ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dromara/hertzbeat)](https://github.com/dromara/hertzbeat): An open source, real-time monitoring system with custom-monitor and agentless. Web, database, os, middleware, cloudnative, network and more.
+
+## Storage
+
+- [2023-OpenObserve ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/openobserve/openobserve)](https://github.com/openobserve/openobserve): 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 
 # Visualization
 

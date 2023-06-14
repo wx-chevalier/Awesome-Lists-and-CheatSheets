@@ -10,9 +10,9 @@
 
 # Showcase
 
-- [2016-zheng ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/shuzheng/zheng): 基于 Spring SpringMVC Mybatis 分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位 J2EE 企业级开发解决方案。
+## Boilerplate
 
-- [2017-基于 Netty 的 Spring Boot 内置 Servlet 容器的实现 #Series#](https://parg.co/SCE): Spring Boot 有 Tomcat、Jetty 和 undertow 三种内置 Servlet 容器，默认使用 Tomcat。一般来说已经够用了，但当 Spring Boot 用于高并发微服务的时候，可能并不够用，而且 tomcat 的资源占用在这种情况下说不上轻量化了。于是萌生了自己实现一个 Spring Boot 的 Netty Servlet 容器的想法。
+- [2016-zheng ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/shuzheng/zheng): 基于 Spring SpringMVC Mybatis 分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位 J2EE 企业级开发解决方案。
 
 - [2018-XBoot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Exrick/xboot)](https://github.com/Exrick/xboot): 基于 Spring Boot 2.x 的一站式前后端分离快速开发平台 XBoot 微信小程序+Uniapp 前端：Vue+iView Admin 后端：Spring Boot 2.x/Spring Security/JWT/JPA+Mybatis-Plus/Redis/Elasticsearch/Activiti 分布式限流/同步锁/验证码/SnowFlake 雪花算法 ID 动态权限 数据权限 工作流 代码生成 定时任务 社交账号 短信登录 单点登录 OAuth2 开放平台 客服机器人 数据大屏 暗黑模式
 
@@ -28,29 +28,19 @@
 
 - [2020-MoguBlog ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/moxi624/mogu_blog_v2)](https://github.com/moxi624/mogu_blog_v2): 蘑菇博客(MoguBlog)，一个基于微服务架构的前后端分离博客系统。Web 端使用 Vue + Element , 移动端使用 uniapp 和 ColorUI。后端使用 Spring cloud + Spring boot + mybatis-plus 进行开发，使用 Jwt + Spring Security 做登录验证和权限校验，使用 ElasticSearch 和 Solr 作为全文检索服务，使用 Github Actions 完成博客的持续集成，使用 ELK 收集博客日志，文件支持上传七牛云和 Minio，支持 Docker Compose 脚本一键部署。
 
-- [2021-rude-java ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/RudeCrab/rude-java)](https://github.com/RudeCrab/rude-java): Java Practice Projects(SSM、Spring Boot、Spring Security、MinIO、Vue). 以 Java 语言为主的各种项目实践，涵盖各个业务、各个功能，并附上高质量文章讲解，其中一些甚至可以单开一个仓库。让你再也不用寻找各种框架 demo、项目脚手架。
-
 - [2022-yudao-cloud ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/YunaiV/yudao-cloud)](https://github.com/YunaiV/yudao-cloud): ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+
+- [2022-ocp ![code](https://ng-tech.icu/assets/code.svg) ](https://gitee.com/dromara/open-capacity-platform): 简称 ocp 是基于 Spring Cloud 的企业级微服务框架(用户权限管理，配置中心管理，应用管理，....),其核心的设计目标是分离前后端，快速开发部署，学习简单，功能强大，提供快速接入核心接口能力，其目标是帮助企业搭建一套类似百度能力开放平台的微服务框架；
+
+- [2022-CongoMall ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/opengoofy/congomall)](https://github.com/opengoofy/congomall): 🔥🔥🔥 CongoMall（刚果商城）不一样的 TOC 商城系统，SpringCloud-Alibaba 微服务架构设计，基于 DDD 领域驱动模型开发，代码设计优雅，涵盖商城核心业务。系统集成分布式锁、分布式事务、分库分表、消息队列、数据搜索、服务监控等功能，区别于八股文问答，真正企业级实战系统。
+
+- [2022-lenosp ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/zzdevelop/lenosp): lenos 一款 Spring Boot 2.0 快速开发模块化脚手架，采用 spring boot 2.0.1、spring、SpringMvc、mybatis、shiro、activiti 工作流、swagger、ehcache、redis、quartz、freemarker、layui 技术开发；博客采用 vue 前后分离。
 
 - [2023-AgileBoot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/valarchie/AgileBoot-Back-End)](https://github.com/valarchie/AgileBoot-Back-End): AgileBoot 是一套开源的全栈精简快速开发平台，毫无保留给个人及企业免费使用。本项目的目标是做一款精简可靠，代码风格优良，项目规范的小型开发脚手架。 适合个人开发者的小型项目或者公司内部项目使用。也可作为供初学者学习使用的案例。
 
 - [2023-Dante Cloud ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dromara/dante-cloud)](https://github.com/dromara/dante-cloud): Dante Cloud (但丁，原 Eurynome Cloud) 是一款企业级微服务架构和服务能力开发平台，是采用领域驱动模型(DDD)设计思想的、全面拥抱 Spring Authorization Server 的、基于 OAuth2.1 协议的、支持智能电视、IoT 等物联网设备认证的微服务架构。基于 Spring Authorization Server 1.1.0、Spring Boot 3.1.0、Spring Cloud 2022.0.3、Spring Cloud Tencent 1.11.7-2022.0.1、Spring Cloud Alibaba 2022.0.0.0、Nacos 2.2.3 等主流技术栈开发的多租户系统，遵循 SpringBoot 编程思想，高度模块化和可配置化。具备服务发现、配置、熔断、限流、降级、监控、多级缓存、分布式事务、工作流等功能。
 
-## 工具库
-
-- [2020-lets-mica/mica ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lets-mica/mica)](https://github.com/lets-mica/mica): Spring Cloud 微服务开发核心工具集。工具类、验证码、http、redis、ip2region、xss 等，开箱即用。🔝 🔝 记得右上角点个 star 关注更新！
-
-## Spring Boot
-
-- [spring-boot-quick ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vector4wang/spring-boot-quick): 🌿 基于 springboot 的快速学习示例,整合自己遇到的开源框架,如：rabbitmq(延迟队列)、Kafka、jpa、redies、oauth2、swagger、jsp、docker、spring-batch、异常处理、日志输出、多模块开发、多环境打包、缓存 cache、爬虫、jwt、GraphQL、dubbo、zookeeper 和 Async 等等 📌
-
-### 响应式
-
-- [2020-hsweb-framework ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hs-web/hsweb-framework)](https://github.com/hs-web/hsweb-framework): hsweb (haʊs wɛb) 是一个基于 spring-boot 2.x 开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。
-
-- [2021-novel ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/201206030/novel)](https://github.com/201206030/novel): novel 是一套基于时下最新 Java 技术栈 Spring Boot 3 + Vue 3 开发的前后端分离学习型小说项目，配备保姆级教程手把手教你从零开始开发上线一套生产级别的 Java 系统，由小说门户系统、作家后台管理系统、平台后台管理系统等多个子系统构成。包括小说推荐、作品检索、小说排行榜、小说阅读、小说评论、会员中心、作家专区、充值订阅、新闻发布等功能。
-
-## Spring Cloud
+### Spring Cloud
 
 - [2018-lamp-cloud ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dromara/lamp-cloud)](https://github.com/dromara/lamp-cloud): lamp-cloud 基于 Jdk11 + SpringCloud + SpringBoot 开发的微服务中后台快速开发平台，专注于多租户(SaaS 架构)解决方案，亦可作为普通项目（非 SaaS 架构）的基础开发框架使用，目前已实现插拔式数据库隔离、SCHEMA 隔离、字段隔离 等租户隔离方案。
 
@@ -58,11 +48,27 @@
 
 - [2021-RuoYi-Cloud ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/yangzongzhuan/RuoYi-Cloud)](https://github.com/yangzongzhuan/RuoYi-Cloud): 🎉 (RuoYi)官方仓库 基于 Spring Boot、Spring Cloud & Alibaba 的分布式微服务架构权限管理系统
 
-## GraalVM/Spring Native
+## Examples
+
+### Spring Boot
+
+- [spring-boot-quick ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vector4wang/spring-boot-quick): 🌿 基于 springboot 的快速学习示例,整合自己遇到的开源框架,如：rabbitmq(延迟队列)、Kafka、jpa、redies、oauth2、swagger、jsp、docker、spring-batch、异常处理、日志输出、多模块开发、多环境打包、缓存 cache、爬虫、jwt、GraphQL、dubbo、zookeeper 和 Async 等等 📌
+
+- [2021-rude-java ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/RudeCrab/rude-java)](https://github.com/RudeCrab/rude-java): Java Practice Projects(SSM、Spring Boot、Spring Security、MinIO、Vue). 以 Java 语言为主的各种项目实践，涵盖各个业务、各个功能，并附上高质量文章讲解，其中一些甚至可以单开一个仓库。让你再也不用寻找各种框架 demo、项目脚手架。
+
+### 响应式
+
+- [2020-hsweb-framework ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hs-web/hsweb-framework)](https://github.com/hs-web/hsweb-framework): hsweb (haʊs wɛb) 是一个基于 spring-boot 2.x 开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。
+
+- [2021-novel ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/201206030/novel)](https://github.com/201206030/novel): novel 是一套基于时下最新 Java 技术栈 Spring Boot 3 + Vue 3 开发的前后端分离学习型小说项目，配备保姆级教程手把手教你从零开始开发上线一套生产级别的 Java 系统，由小说门户系统、作家后台管理系统、平台后台管理系统等多个子系统构成。包括小说推荐、作品检索、小说排行榜、小说阅读、小说评论、会员中心、作家专区、充值订阅、新闻发布等功能。
+
+### GraalVM/Spring Native
 
 - [2023-entropy-cloud/nop-entropy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/entropy-cloud/nop-entropy)](https://github.com/entropy-cloud/nop-entropy): 基于可逆计算原理从零开始构建的低代码平台，支持 GraalVM 原生编译。a new generation of low-code platform based on the theory of reversible computation
 
 # Libraries
+
+- [2020-lets-mica/mica ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lets-mica/mica)](https://github.com/lets-mica/mica): Spring Cloud 微服务开发核心工具集。工具类、验证码、http、redis、ip2region、xss 等，开箱即用。🔝 🔝 记得右上角点个 star 关注更新！
 
 ## Log
 

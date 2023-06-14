@@ -35,3 +35,5 @@
 - [2018-NginxProxyManager ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/NginxProxyManager/nginx-proxy-manager)](https://github.com/NginxProxyManager/nginx-proxy-manager): This project comes as a pre-built docker image that enables you to easily forward to your websites running at home or otherwise, including free SSL, without having to know too much about Nginx or Letsencrypt.
 
 - [NGiИX configuration generator ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/valentinxxx/nginxconfig.io): NGiИX config generator generator on steroids.
+
+- [2020-nginxWebUI ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/cym1102/nginxWebUI)](https://github.com/cym1102/nginxWebUI): Nginx Web page configuration tool. Use web pages to quickly configure Nginx. Nginx 网页管理工具，使用网页来快速配置与管理 nginx 单机与集群

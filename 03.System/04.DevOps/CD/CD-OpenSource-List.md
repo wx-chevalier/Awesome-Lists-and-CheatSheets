@@ -29,13 +29,3 @@
 - [2019-Argo CD ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/argoproj/argo-cd): Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
 
 - [2019-Flux ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/fluxcd/flux): The GitOps Kubernetes operator.
-
-## Deployment
-
-- [2018-dokku ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dokku/dokku)](https://github.com/dokku/dokku): Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
-
-- [meli ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/getmeli/meli): Open source platform for deploying static sites and frontend applications.
-
-- [2020-Jpom ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dromara/Jpom)](https://github.com/dromara/Jpom): 简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件。
-
-- [2022-Goploy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/zhenorzz/goploy)](https://github.com/zhenorzz/goploy): Devops 项目代码部署发布平台，Deploy, CI/CD, Terminal, Sftp, Server monitor, Crontab Manager, Nginx Manager.

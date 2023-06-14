@@ -80,6 +80,10 @@
 
 - [2022-SQL Father ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/liyupi/sql-father-backend-public): 快速生成 SQL 和模拟数据的网站（Java 后端），大幅提高开发测试效率！by 程序员鱼皮
 
+## Monitor
+
+- [2022-Lepus ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/lepus-group/lepus): Lepus 数据库监控系统是简洁、直观、强大的开源数据库监控产品，支持 MySQL/Oracle/MongoDB/Redis 等数据库一站式性能监控，让数据库监控更加简单和专业。远程云中监控、实时邮件告警、丰富的指标和图表、MySQL 慢查询分析和 AWR 性能报告。
+
 ## Analysis & Execution & Driver
 
 - [queryparser ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/uber/queryparser): Parsing and analysis of Vertica, Hive, and Presto SQL. [Queryparser, an Open Source Tool for Parsing and Analyzing SQL](https://eng.uber.com/queryparser/)

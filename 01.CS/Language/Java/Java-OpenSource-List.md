@@ -147,6 +147,8 @@
 
 - [2020-Bistoury ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/qunarcorp/bistoury)](https://github.com/qunarcorp/bistoury): Bistoury 是去哪儿网的 java 应用生产问题诊断工具，提供了一站式的问题诊断方案。
 
+- [2020-Cubic ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dromara/cubic)](https://github.com/dromara/cubic): 一站式问题定位平台，还在为线上问题而烦恼吗？分布式实例监控、线程栈监控、线程池监控、动态 arthas 命令集、依赖分析等等等，助你快速定位问题
+
 ## AOP Dynamic Tracing
 
 - [BTrace ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/btraceio/btrace): A safe, dynamic tracing tool for the Java platform

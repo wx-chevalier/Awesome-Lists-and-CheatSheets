@@ -1,7 +1,5 @@
 # Mall OpenSource List
 
-# 电商
-
 - [mall ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/macrozheng/mall): mall 项目是一套电商系统，包括前台商城系统及后台管理系统，基于 SpringBoot+MyBatis 实现。
 
 - [mall4j ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/gz-yami/mall4j): 一个基于 spring boot、spring oauth2.0、mybatis、redis 的轻量级、前后端分离、防范 xss 攻击、拥有分布式锁，为生产环境多实例完全准备，数据库为 b2b2c 设计，拥有完整 sku 和下单流程的完全开源商城
@@ -17,6 +15,8 @@
 - [2020-OPEN MALL ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/brother-ting/om/tree/master): OM（OPEN-MALL） 项目致力于打造分布式开源电商平台（社区团购、跨境电商、垂直电商、商城小程序、H5 电商平台），开源板块包含社区团购（客户端、团长端、供应商端、仓库端、骑手端）、跨境电商、全球购一件代发（商家端）、MT 外卖（商家端、骑手配送端）, 本开源项目仅供学习，有不足的地方请留下宝贵的意见。
 
 - [2021-youlai-mall ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/youlaitech/youlai-mall)](https://github.com/youlaitech/youlai-mall): youlai-mall 是基于 Spring Boot 2.7、Spring Cloud & Alibaba 、vue3、element-plus、uni-app 构建的开源全栈微服务商城项目。
+
+- [2023-CRMEB ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/crmeb/CRMEB)](https://github.com/crmeb/CRMEB): 🔥CRMEB 开源商城免费开源多语言商城系统，Tp6 框架商城，系统可商用；包含小程序商城、H5 商城、公众号商城、PC 商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面 DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议
 
 ## Headless
 

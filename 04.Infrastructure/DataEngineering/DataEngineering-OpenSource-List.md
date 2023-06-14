@@ -98,6 +98,8 @@
 
 - [2022-BitSail ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bytedance/bitsail): BitSail is a distributed high-performance data integration engine which supports batch, streaming and incremental scenarios. BitSail is widely used to synchronize hundreds of trillions of data every day.
 
+- [2023-DataCap ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/EdurtIO/datacap): DataCap 是数据转换、集成和可视化的集成软件。支持多种数据源，文件类型，大数据相关数据库，关系型数据库，NoSQL 数据库等。通过软件可以实现管理多种数据源，对该源下的数据进行各种操作转换，制作数据图表，监控数据源等各种功能。
+
 ## CDC & Data Pipeline
 
 - [Debezium ![code](https://ng-tech.icu/assets/code.svg)](https://debezium.io/docs/tutorial/): Debezium is a distributed platform that turns your existing databases into event streams, so applications can see and respond immediately to each row-level change in the databases.

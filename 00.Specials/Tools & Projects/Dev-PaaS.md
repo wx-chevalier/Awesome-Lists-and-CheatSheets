@@ -12,10 +12,6 @@
 
 - [2022-ILLA ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/illacloud/illa-builder)](https://github.com/illacloud/illa-builder): ILLA is a robust open source low-code platform for developers to build internal tools. By using ILLA's library of Components and Actions, developers can save massive amounts of time on building tools.
 
-## Airtable
-
-- [2022-Apitable ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/apitable/apitable)](https://github.com/apitable/apitable): 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [WIP]
-
 # Self Hosting
 
 - [homelab ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/khuedoan/homelab): My self-hosting infrastructure, fully automated from empty disk to operating services.
