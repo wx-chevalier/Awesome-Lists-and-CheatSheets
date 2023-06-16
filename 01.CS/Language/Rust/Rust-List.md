@@ -56,6 +56,8 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2023-《The Rust Performance Book》》📚](https://nnethercote.github.io/perf-book/introduction.html): This book contains many techniques that can improve the performance—speed and memory usage—of Rust programs. The Compile Times section also contains some techniques that will improve the compile times of Rust programs. Some techniques only require changing build configurations, but many require changing code.
 
+- [2023-《Effective Rust》》📚](https://www.lurklurk.org/effective-rust/): As a result, this book is aimed at a slightly different level than other Effective <Language> books; there are more Items that cover the concepts that are new with Rust, even though the official documentation already includes good introductions of these topics. These Items have titles like "Understand…" and "Familiarize yourself with…".
+
 ## Collection
 
 - [Rust Books 🗃️](https://github.com/sger/RustBooks): 一系列对于 Rust 书籍的搜集。

@@ -12,6 +12,8 @@
 
 - [2020-《Quant Learning》📚](https://github.com/apachecn/quant-learning): Python 量化交易教程整理
 
+- [2020-《ML for Trading》-2nd](https://github.com/stefan-jansen/machine-learning-for-trading): This book aims to show how ML can add value to algorithmic trading strategies in a practical yet comprehensive way. It covers a broad range of ML techniques from linear regression to deep reinforcement learning and demonstrates how to build, backtest, and evaluate a trading strategy driven by model predictions.
+
 # OpenSource
 
 - [riskquant ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Netflix-Skunkworks/riskquant): A library to assist in quantifying risk.

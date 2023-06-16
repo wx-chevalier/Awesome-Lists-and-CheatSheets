@@ -68,6 +68,16 @@
 
 - [2017-three-spritetext ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/vasturiano/three-spritetext)](https://github.com/vasturiano/three-spritetext): A sprite based text component for ThreeJS. The text is drawn to canvas, converted into a Texture and then used as a material on a Sprite. Because a sprite is being used, the text will always face the camera, and has its orientation fixed relative to the camera.
 
+### Line
+
+- [2018-THREE.MeshLine ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/spite/THREE.MeshLine)](https://github.com/spite/THREE.MeshLine): Mesh replacement for THREE.Line.
+
+## Particle
+
+- [2020-Three Nebula ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/creativelifeform/three-nebula)](https://github.com/creativelifeform/three-nebula): Three Nebula is a WebGL based 3D particle engine that has been designed to work alongside three.js. Check out the website, examples, the quickstart sandbox and API reference documentation for more.
+
+- [2023-three.quarks ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Alchemist0823/three.quarks)](https://github.com/Alchemist0823/three.quarks): three.quarks is a high-performance javascript particle system based visual effect library for threejs written in modern TypeScript.
+
 # Material
 
 - [2021-THREE.extendMaterial ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Fyrestar/THREE.extendMaterial)](https://github.com/Fyrestar/THREE.extendMaterial): Extending built-in materials, instances of ShaderMaterial and shader objects of onBeforeCompile.
