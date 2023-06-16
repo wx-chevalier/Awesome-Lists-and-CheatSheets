@@ -26,6 +26,8 @@
 
 ## Web CAD
 
+- [2020-partdesigner ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/marian42/partdesigner)](https://github.com/marian42/partdesigner): Create custom LEGO® Technic compatible construction parts for 3D printing
+
 - [2023-replicad ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sgenoud/replicad)](https://github.com/sgenoud/replicad): The library to build browser based 3D models with code. As an abstraction over opencascade, it gives developers the power to integrate it in their web application.
 
   - [sgenoud/blingmything ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sgenoud/blingmything)](https://github.com/sgenoud/blingmything): Simple modifications to 3D models

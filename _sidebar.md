@@ -374,7 +374,7 @@
         - [3.1.3.4 Web E2ETest List](/02.Frontend/01.Web/Dev/Web-E2ETest-List.md)
         - [3.1.3.5 Web Test List](/02.Frontend/01.Web/Dev/Web-Test-List.md)
         - [3.1.3.6 Webpack List](/02.Frontend/01.Web/Dev/Webpack-List.md)
-      - 3.1.4 Framework [9]
+      - 3.1.4 Framework [8]
         - 3.1.4.1 Angular [1]
           - [3.1.4.1.1 Angular List](/02.Frontend/01.Web/Framework/Angular/Angular-List.md)
         - 3.1.4.2 CrossApp [4]
@@ -407,8 +407,6 @@
           - [3.1.4.7.5 Vue Syntax List](/02.Frontend/01.Web/Framework/Vue/Vue-Syntax-List.md)
           - [3.1.4.7.6 Vue Tuning List](/02.Frontend/01.Web/Framework/Vue/Vue-Tuning-List.md)
         - [3.1.4.8 Web Framework List](/02.Frontend/01.Web/Framework/Web-Framework-List.md)
-        - 3.1.4.9 jQuery [1]
-          - [3.1.4.9.1 jQuery List](/02.Frontend/01.Web/Framework/jQuery/jQuery-List.md)
       - 3.1.5 Node [9]
         - [3.1.5.1 Nest List](/02.Frontend/01.Web/Node/Nest-List.md)
         - [3.1.5.2 Node Dev List](/02.Frontend/01.Web/Node/Node-Dev-List.md)
@@ -552,7 +550,7 @@
           - [3.5.6.4.1 CAD List](/02.Frontend/10.CG/GeometryProcess/CAD/CAD-List.md)
           - [3.5.6.4.2 CAD OpenSource List](/02.Frontend/10.CG/GeometryProcess/CAD/CAD-OpenSource-List.md)
         - 3.5.6.5 CAM [2]
-          - [3.5.6.5.1 3DP Slicer OpenSource List](/02.Frontend/10.CG/GeometryProcess/CAM/3DP-Slicer-OpenSource-List.md)
+          - [3.5.6.5.1 3DP OpenSource List](/02.Frontend/10.CG/GeometryProcess/CAM/3DP-OpenSource-List.md)
           - [3.5.6.5.2 CAM OpenSource List](/02.Frontend/10.CG/GeometryProcess/CAM/CAM-OpenSource-List.md)
         - [3.5.6.6 GeometryProcess List](/02.Frontend/10.CG/GeometryProcess/GeometryProcess-List.md)
         - [3.5.6.7 GeometryProcess OpenSource List](/02.Frontend/10.CG/GeometryProcess/GeometryProcess-OpenSource-List.md)

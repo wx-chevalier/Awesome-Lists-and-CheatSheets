@@ -1,4 +1,4 @@
-# 3DP CAM | 3D 打印前处理
+# 3DP Slicer
 
 - [2010-Cura ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Ultimaker/Cura): 3D printer / slicing GUI built on top of the Uranium framework.
 
