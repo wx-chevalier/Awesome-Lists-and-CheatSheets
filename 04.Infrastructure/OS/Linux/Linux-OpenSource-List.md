@@ -59,3 +59,5 @@
 - [2021-zx ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/google/zx): A tool for writing better scripts.
 
 - [Gum ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/charmbracelet/gum): A tool for glamorous shell scripts. Leverage the power of Bubbles and Lip Gloss in your scripts and aliases without writing any Go code!
+
+# Performance

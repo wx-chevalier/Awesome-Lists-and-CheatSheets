@@ -34,6 +34,8 @@
 
 - [2022-facebook/lexical ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/facebook/lexical)](https://github.com/facebook/lexical): Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 
+- [2023-novel ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/steven-tey/novel)](https://github.com/steven-tey/novel): An open-source Notion-style WYSIWYG editor with AI-powered autocompletions.
+
 # Email
 
 - [2022-react-email ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/resendlabs/react-email)](https://github.com/resendlabs/react-email): A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript. It reduces the pain of coding responsive emails with dark mode support. It also takes care of inconsistencies between Gmail, Outlook, and other email clients for you.

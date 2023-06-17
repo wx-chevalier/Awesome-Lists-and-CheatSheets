@@ -25,3 +25,7 @@
 - [2018-Tau Prolog ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jariazavalverde/tau-prolog/): Tau Prolog is a Prolog interpreter fully implemented in JavaScript.
 
 - [2021-Semgrep ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/returntocorp/semgrep): Semgrep is a fast, open-source, static analysis tool for finding bugs and enforcing code standards at editor, commit, and CI time.
+
+# Performance Tools
+
+- [2023-poop ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/andrewrk/poop)](https://github.com/andrewrk/poop): This command line tool uses Linux's perf_event_open functionality to compare the performance of multiple commands with a colorful terminal user interface.
