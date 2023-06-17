@@ -8,9 +8,7 @@
 
 - [math-as-code ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Jam3/math-as-code): This is a reference to ease developers into mathematical notation by showing comparisons with JavaScript code.
 
-# Resource
-
-## Book
+# Book
 
 - [2008-《统计学完全教程》📚](https://book.douban.com/subject/3180810/)：由美国当代著名统计学家 L·沃塞曼所著的《统计学元全教程》是一本几乎包含了统计学领域全部知识的优秀教材。本书除了介绍传统数理统计学的全部内容以外，还包含了 Bootstrap 方法(自助法)、独立性推断、因果推断、图模型、非参数回归、正交函数光滑法、分类、统计学理论及数据挖掘等统计学领域的新方法和技术。本书不但注重概率论与数理统计基本理论的阐述，同时还强调数据分析能力的培养。本书中含有大量的实例以帮助广大读者快速掌握使用 R 软件进行统计数据分析。
 
