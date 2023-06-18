@@ -28,25 +28,25 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 ## Book
 
-- [2011-编程之法：面试和算法心得》📚](https://github.com/julycoding/The-Art-Of-Programming-By-July): 原编程艺术系列从 2011 年 4 月至今，写了 42 个编程问题，在创作的过程当中，得到了很多朋友的支持，特别是博客上随时都会有朋友不断留言，或提出改进建议，或 show 出自己的思路、代码，或指正 bug。为更好的改进、优化、增补编程艺术系列，特把博客上的这个程序员编程艺术系列和博客内其它部分经典文章同步到此，成立本项目。
+- [2011-《编程之法：面试和算法心得》📚](https://github.com/julycoding/The-Art-Of-Programming-By-July): 原编程艺术系列从 2011 年 4 月至今，写了 42 个编程问题，在创作的过程当中，得到了很多朋友的支持，特别是博客上随时都会有朋友不断留言，或提出改进建议，或 show 出自己的思路、代码，或指正 bug。为更好的改进、优化、增补编程艺术系列，特把博客上的这个程序员编程艺术系列和博客内其它部分经典文章同步到此，成立本项目。
 
-- [2015-algs4 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/kevin-wayne/algs4)](https://github.com/kevin-wayne/algs4): Algorithms, 4th edition textbook code and libraries.
+- [2015-《algs4》 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/kevin-wayne/algs4)](https://github.com/kevin-wayne/algs4): Algorithms, 4th edition textbook code and libraries.
 
-- [2017-Algorithm Design: Parallel and Sequential》📚](http://www.parallel-algorithms-book.com/): 15-210 aims to teach methods for designing, analyzing, and programming sequential and parallel algorithms and data structures.
+- [2017-《Algorithm Design: Parallel and Sequential》📚](http://www.parallel-algorithms-book.com/): 15-210 aims to teach methods for designing, analyzing, and programming sequential and parallel algorithms and data structures.
 
-- [2017-Competitive Programmer's Handbook》📚](https://cses.fi/book.html): The purpose of this book is to give the reader a thorough introduction to competitive programming. The book is especially intended for students who want to learn algorithms and possibly participate in the International Olympiad in Informatics (IOI) or in the International Collegiate Programming Contest (ICPC).
+- [2017-《Competitive Programmer's Handbook》📚](https://cses.fi/book.html): The purpose of this book is to give the reader a thorough introduction to competitive programming. The book is especially intended for students who want to learn algorithms and possibly participate in the International Olympiad in Informatics (IOI) or in the International Collegiate Programming Contest (ICPC).
 
-- [2018-The Algorithms》📚](https://github.com/TheAlgorithms): Open Source Book for Newbies to Learn Algorithms and Implement them in any Programming Language.
+- [2018-《The Algorithms》📚](https://github.com/TheAlgorithms): Open Source Book for Newbies to Learn Algorithms and Implement them in any Programming Language.
 
-- [2018-算法珠玑》📚](https://soulmachine.gitbooks.io/algorithm-essentials/): 本书的目标读者是准备去硅谷找工作的码农，也适用于在国内找工作的码农，以及刚接触 ACM 算法竞赛的新手。
+- [2018-《算法珠玑》📚](https://soulmachine.gitbooks.io/algorithm-essentials/): 本书的目标读者是准备去硅谷找工作的码农，也适用于在国内找工作的码农，以及刚接触 ACM 算法竞赛的新手。
 
-- [2018-Algorithms》📚](http://jeffe.cs.illinois.edu/teaching/algorithms/?#book): This textbook grew out of a collection of lecture notes that I wrote for various algorithms classes at the University of Illinois at Urbana-Champaign, which I have been teaching about once a year since January 1999.
+- [2018-《Algorithms》📚](http://jeffe.cs.illinois.edu/teaching/algorithms/?#book): This textbook grew out of a collection of lecture notes that I wrote for various algorithms classes at the University of Illinois at Urbana-Champaign, which I have been teaching about once a year since January 1999.
 
-- [2021-labuladong 的算法小抄》📚](https://labuladong.gitbook.io/algo/): 本网站目前可以手把手带你解决 150 道 LeetCode 算法问题，而且在不断更新，全部基于 LeetCode 的题目，涵盖了所有题型和技巧。我已经把在每篇文章的开头加上了该文章可以解决的 LeetCode 题目链接，可以看完文章立即去拿下对应题目。
+- [2021-《labuladong 的算法小抄》📚](https://labuladong.gitbook.io/algo/): 本网站目前可以手把手带你解决 150 道 LeetCode 算法问题，而且在不断更新，全部基于 LeetCode 的题目，涵盖了所有题型和技巧。我已经把在每篇文章的开头加上了该文章可以解决的 LeetCode 题目链接，可以看完文章立即去拿下对应题目。
 
-- [2021-algorithm-base》📚](https://github.com/chefyuan/algorithm-base): 专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！
+- [2021-《algorithm-base》📚](https://github.com/chefyuan/algorithm-base): 专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！
 
-- [2022-算法通关手册（LeetCode）](https://algo.itcharge.cn/): 本书不仅仅只是一本算法题解书，更是一本算法与数据结构基础知识的讲解书。本书易于理解，没有大跨度的思维跳跃，书中使用部分图示、例子来帮助理解。本书先从基础的数据结构和算法开始讲解，再针对不同分类的数据结构和算法，进行具体题目的讲解分析。让读者可以通过「算法基础理论学习」和「编程实战学习」相结合的方式，彻底的掌握算法知识。
+- [2022-《算法通关手册（LeetCode）》](https://algo.itcharge.cn/): 本书不仅仅只是一本算法题解书，更是一本算法与数据结构基础知识的讲解书。本书易于理解，没有大跨度的思维跳跃，书中使用部分图示、例子来帮助理解。本书先从基础的数据结构和算法开始讲解，再针对不同分类的数据结构和算法，进行具体题目的讲解分析。让读者可以通过「算法基础理论学习」和「编程实战学习」相结合的方式，彻底的掌握算法知识。
 
 ## Collection
 

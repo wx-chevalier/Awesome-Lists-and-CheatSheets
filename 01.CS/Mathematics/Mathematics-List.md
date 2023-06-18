@@ -39,4 +39,6 @@
 
 - [2020-《A Programmer's Introduction to Mathematics》📚](https://pimbook.org/): A Programmer's Introduction to Mathematics uses your familiarity with ideas from programming and software to teach mathematics. You'll learn about the central objects and theorems of mathematics, including graphs, calculus, linear algebra, eigenvalues, optimization, and more.
 
+- [2020-《Isomorphism -- Mathematics of Programming | 同构：编程中的数学基础》📚](https://github.com/liuxinyu95/unplugged): This book introduces the mathematics behind computer programming.
+
 - [2022-《Visualize ML》📚](https://github.com/Visualize-ML): Book3_Fundamentals-of-Mathematics, Book4_Power-of-Matrix, Book5_Probability-and-Statistics, Book6_Data-Science, Book7_Machine-Learning。

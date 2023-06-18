@@ -43,11 +43,22 @@ Awesome-Lists 是横跨了编程语言与理论、Web 与大前端、服务端�
 
 - {Something}-List.md - 该文件包含或者分割为以下内容：
 
-  - Overview & Case Study & CheatSheet
-  - Resource & Book & Collection
-  - Tutorial & Learning Path
+  - Overview & CheatSheet
+  - Tutorial & Guideline & Learning Path
+  - Collection
+  - Book
+  - Course
+  - Series
+  - Resource & Site
 
-- {Something}-Syntax-List.md - 该文件包含或者分割为以下内容：
+- {Something}-OpenSource-List.md
+
+  - Showcase
+  - Dev Tools
+  - Framework
+  - ...
+
+- @Deprecated {Something}-Syntax-List.md - 该文件包含或者分割为以下内容：
 
   - Variable & Expression
   - Control flow & Error Handler
@@ -55,19 +66,19 @@ Awesome-Lists 是横跨了编程语言与理论、Web 与大前端、服务端�
   - Class & Object
   - MetaProgramming
 
-- {Something}-DataStructure-List.md - 该文件包含或者分割为以下内容：
+- @Deprecated {Something}-DataStructure-List.md - 该文件包含或者分割为以下内容：
 
   - Basic Type
   - Indexed Collection
   - Keyed Collection
 
-- {Something}-Functionality-List.md - 该文件包含或者分割为以下内容：
+- @Deprecated {Something}-Functionality-List.md - 该文件包含或者分割为以下内容：
 
   - Storage
   - Network
   - System / Process
 
-- {Something}-DevOps-List.md - 该文件包含或者分割为以下内容：
+- @Deprecated {Something}-DevOps-List.md - 该文件包含或者分割为以下内容：
 
   - Builder, Task runner, Bundler, dependence management
   - Debug
@@ -75,7 +86,7 @@ Awesome-Lists 是横跨了编程语言与理论、Web 与大前端、服务端�
   - Architecture, module system, State management,
   - StyleGuide, coding standards for source code in the JavaScript programming language.
 
-- {Something}-Production-List.md - 该文件包含或者分割为以下内容：
+- @Deprecated {Something}-Production-List.md - 该文件包含或者分割为以下内容：
 
   - Performance Optimization / Tunning
   - Release / Deploy
@@ -83,9 +94,7 @@ Awesome-Lists 是横跨了编程语言与理论、Web 与大前端、服务端�
   - RealTime
   - I18n
 
-- {Something}-OpenSource-List.md - Awesome tools, frameworks, projects
-
-- {Something}-Internals-List.md Inner mechanism under the hood, Core/Compiler/Engine
+- @Deprecated {Something}-Internals-List.md Inner mechanism under the hood, Core/Compiler/Engine
 
 本系列文章索引类别约定如下：
 

@@ -534,11 +534,16 @@
     - 3.5 10.CG [8]
       - 3.5.1 01.RenderPipelines [1]
         - [3.5.1.1 CollisionDetect List](/02.Frontend/10.CG/01.RenderPipelines/CollisionDetect-List.md)
-      - 3.5.2 3D CV [3]
+      - 3.5.2 3D CV [4]
         - [3.5.2.1 3D CV List](/02.Frontend/10.CG/3D-CV/3D-CV-List.md)
-        - 3.5.2.2 3D Reconstruction [1]
-          - [3.5.2.2.1 3D Reconstruction List](/02.Frontend/10.CG/3D-CV/3D-Reconstruction/3D-Reconstruction-List.md)
-        - [3.5.2.3 NeRF List](/02.Frontend/10.CG/3D-CV/NeRF-List.md)
+        - 3.5.2.2 3D Generation [1]
+          - [3.5.2.2.1 3D Generation List](/02.Frontend/10.CG/3D-CV/3D-Generation/3D-Generation-List.md)
+        - 3.5.2.3 3D Reconstruction [2]
+          - [3.5.2.3.1 3D Reconstruction List](/02.Frontend/10.CG/3D-CV/3D-Reconstruction/3D-Reconstruction-List.md)
+          - 3.5.2.3.2 NeRF [1]
+            - [3.5.2.3.2.1 NeRF List](/02.Frontend/10.CG/3D-CV/3D-Reconstruction/NeRF/NeRF-List.md)
+        - 3.5.2.4 3D Retrieval [1]
+          - [3.5.2.4.1 3D Retrieval List](/02.Frontend/10.CG/3D-CV/3D-Retrieval/3D-Retrieval-List.md)
       - [3.5.3 CG List](/02.Frontend/10.CG/CG-List.md)
       - [3.5.4 CG Math List](/02.Frontend/10.CG/CG-Math-List.md)
       - [3.5.5 CG OpenSource List](/02.Frontend/10.CG/CG-OpenSource-List.md)
