@@ -36,13 +36,15 @@
 
 - [2022-ruff ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/charliermarsh/ruff)](https://github.com/charliermarsh/ruff): An extremely fast Python linter, written in Rust.
 
-## Tuning
+## Tuning && Profiler
 
 - [Py-Spy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/benfred/py-spy): Py-Spy is a sampling profiler for Python programs. It lets you visualize what your Python program is spending time on without restarting the program or modifying the code in any way.
 
 - [Yelp-undebt ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Yelp/undebt): Undebt is a fast, straightforward, reliable tool for performing massive, automated code refactoring used @Yelp.
 
 - [Bowler ![code](https://ng-tech.icu/assets/code.svg)](https://pybowler.io/): Safe code refactoring for modern Python.
+
+- [2023-Scalene ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/plasma-umass/scalene)](https://github.com/plasma-umass/scalene): a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals.
 
 ## Jupyter Notebooks
 
