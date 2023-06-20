@@ -53,6 +53,8 @@
 
 - [2023-Quillman ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/modal-labs/quillman)](https://github.com/modal-labs/quillman): A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.
 
+- [2023-OpenLLM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/bentoml/OpenLLM)](https://github.com/bentoml/OpenLLM): An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.
+
 ## Cache & Proxy
 
 - [2023-GPTCache ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/zilliztech/GPTCache)](https://github.com/zilliztech/GPTCache): GPTCache is a library for creating semantic cache to store responses from LLM queries.

@@ -23,3 +23,5 @@
   - [Pake](https://github.com/tw93/Pake)
 
 - [2022-Gluon ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gluon-framework/gluon)](https://github.com/gluon-framework/gluon): A framework for creating "desktop apps" from websites, using system installed browsers (not webviews) and NodeJS
+
+- [2023-Slint ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/slint-ui/slint)](https://github.com/slint-ui/slint): Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
