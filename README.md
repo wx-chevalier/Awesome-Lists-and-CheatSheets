@@ -43,13 +43,18 @@ Awesome-Lists 是横跨了编程语言与理论、Web 与大前端、服务端�
 
 - {Something}-List.md - 该文件包含或者分割为以下内容：
 
-  - Overview & CheatSheet
-  - Tutorial & Guideline & Learning Path
-  - Collection
-  - Book
-  - Course
-  - Series
-  - Resource & Site
+  - Overview
+
+    - Learning Path
+    - Guideline
+    - CheatSheet
+
+  - Resource
+    - Book
+    - Collection
+    - Course
+    - Series
+    - Site
 
 - {Something}-OpenSource-List.md
 

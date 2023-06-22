@@ -8,6 +8,20 @@
 
 - [What the `f*ck` Python](https://github.com/satwikkansal/wtfpython): An interesting collection of surprising snippets and lesser-known Python features.
 
+## Guideline
+
+- [2017-Python for JavaScript Developers](https://dev.to/underdogio/python-for-javascript-developers): To serve as a quick guide for JavaScript developers who want to get up to speed quickly with Python, but without having to learn what declaring a variable means or what a function is.
+
+- [三天搞定 Python](https://zhuanlan.zhihu.com/p/21332075)
+
+- [Interactive Coding Challenges](https://parg.co/bhs): Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki Flashcards.
+
+- [wtfpython #Series#](https://github.com/leisurelicht/wtfpython-cn): 这个有趣的项目意在收集 Python 中那些难以理解和反人类直觉的例子以及鲜为人知的功能特性, 并尝试讨论这些现象背后真正的原理!
+
+## Python 3
+
+- [2018-Migrating to Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure): A short guide on features of Python 3 for data scientists.
+
 ## CheatSheet | 速览清单
 
 - [Python Crash Course - Cheat Sheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html): A cheat sheet can be really helpful when you’re trying a set of exercises related to a specific topic, or working on a project.
@@ -24,21 +38,21 @@
 
 ## Book
 
-- [简明 Python 教程》📚](https://www.gitbook.com/book/lenkimo/byte-of-python-chinese-edition/details):《A Byte of Python》是一本由 Swaroop C H 编写，旨在于介绍如何使用 Python 语言进行编程的自由图书。它以教材与指南的形式为入门者介绍 Python 语言。如果你对电脑知识的了解仅限于如何保存文本文件的话，那这本书就是为你准备的。
+- [《简明 Python 教程》📚](https://www.gitbook.com/book/lenkimo/byte-of-python-chinese-edition/details):《A Byte of Python》是一本由 Swaroop C H 编写，旨在于介绍如何使用 Python 语言进行编程的自由图书。它以教材与指南的形式为入门者介绍 Python 语言。如果你对电脑知识的了解仅限于如何保存文本文件的话，那这本书就是为你准备的。
 
 - [2017-Problem Solving with Algorithms and Data Structures using Python》📚](http://6me.us/jgWZ)
 
-- [2017-Intermediate Python》📚](http://book.pythontips.com/en/latest/index.html#): Through this book I aim to solve this problem. I would give you bits of information about some interesting topics which you can further explore.
+- [2017-《Intermediate Python》📚](http://book.pythontips.com/en/latest/index.html#): Through this book I aim to solve this problem. I would give you bits of information about some interesting topics which you can further explore.
 
-- [Python 之旅》📚](https://github.com/ethan-funny/explore-python): 本书是我学习和使用 Python 的总结。在学习和使用 Python 的过程中，我作了不少笔记，并对一些笔记进行了加工和完善，发表在博客上。随着笔记的增加，我就萌生了写一本书的想法，希望能比较系统地总结相关知识，巩固自己的知识体系，而不是停留在感觉好像懂了的状态中。
+- [《Python 之旅》📚](https://github.com/ethan-funny/explore-python): 本书是我学习和使用 Python 的总结。在学习和使用 Python 的过程中，我作了不少笔记，并对一些笔记进行了加工和完善，发表在博客上。随着笔记的增加，我就萌生了写一本书的想法，希望能比较系统地总结相关知识，巩固自己的知识体系，而不是停留在感觉好像懂了的状态中。
 
-- [2017-Cracking Codes with Python》📚](https://inventwithpython.com/cracking/): Cracking Codes with Python teaches complete beginners how to program in the Python programming language.
+- [2017-《Cracking Codes with Python》📚](https://inventwithpython.com/cracking/): Cracking Codes with Python teaches complete beginners how to program in the Python programming language.
 
 - [2019-Python 100 天从新手到大师 #Series#](https://github.com/jackfrued/Python-100-Days): 我们的目标是打造一个优质的 Python 交流社区，一方面为想学习 Python 的初学者扫平入门过程中的重重障碍；另一方为新入行的开发者提供问道的途径，帮助他们迅速成长为优秀的职业人。
 
-- [2019-Halterman-Fundamentals of Python Programming](https://python.cs.southern.edu/pythonbook/pythonbook.pdf): Fundamentals of Python Programming.
+- [2019-Halterman-《Fundamentals of Python Programming》📚](https://python.cs.southern.edu/pythonbook/pythonbook.pdf): Fundamentals of Python Programming.
 
-- [2019-Python 最佳实践指南！📚](https://pythonguidecn.readthedocs.io/zh/latest/): 这份人工编写的指南旨在为 Python 初学者和专家提供一个 关于 Python 安装、配置、和日常使用的最佳实践手册。
+- [2019-《Python 最佳实践指南》📚](https://pythonguidecn.readthedocs.io/zh/latest/): 这份人工编写的指南旨在为 Python 初学者和专家提供一个 关于 Python 安装、配置、和日常使用的最佳实践手册。
 
 ## Collection
 
@@ -59,19 +73,3 @@
 - [2020-Ultimate Python study guide #Series#](https://github.com/huangsam/ultimate-python): Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍
 
 - [2020-30-Days-Of-Python #Series# ![star](https://img.shields.io/github/stars/Asabeneh/30-Days-Of-Python)](https://github.com/Asabeneh/30-Days-Of-Python): 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
-
-## Showcase
-
-# Tutoria | 教程
-
-- [2017-Python for JavaScript Developers](https://dev.to/underdogio/python-for-javascript-developers): To serve as a quick guide for JavaScript developers who want to get up to speed quickly with Python, but without having to learn what declaring a variable means or what a function is.
-
-- [三天搞定 Python](https://zhuanlan.zhihu.com/p/21332075)
-
-- [Interactive Coding Challenges](https://parg.co/bhs): Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki Flashcards.
-
-- [wtfpython #Series#](https://github.com/leisurelicht/wtfpython-cn): 这个有趣的项目意在收集 Python 中那些难以理解和反人类直觉的例子以及鲜为人知的功能特性, 并尝试讨论这些现象背后真正的原理!
-
-## Python 3
-
-- [2018-Migrating to Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure): A short guide on features of Python 3 for data scientists.
