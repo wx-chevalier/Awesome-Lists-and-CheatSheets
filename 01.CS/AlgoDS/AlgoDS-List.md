@@ -20,7 +20,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 # Resource
 
-## Blog
+## Site
 
 - [程序员进阶之算法练习 #Series#](https://cloud.tencent.com/developer/article/1365773)
 
@@ -46,7 +46,9 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2021-《algorithm-base》📚](https://github.com/chefyuan/algorithm-base): 专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！
 
-- [2022-《算法通关手册（LeetCode）》](https://algo.itcharge.cn/): 本书不仅仅只是一本算法题解书，更是一本算法与数据结构基础知识的讲解书。本书易于理解，没有大跨度的思维跳跃，书中使用部分图示、例子来帮助理解。本书先从基础的数据结构和算法开始讲解，再针对不同分类的数据结构和算法，进行具体题目的讲解分析。让读者可以通过「算法基础理论学习」和「编程实战学习」相结合的方式，彻底的掌握算法知识。
+- [2022-《算法通关手册（LeetCode）》📚](https://algo.itcharge.cn/): 本书不仅仅只是一本算法题解书，更是一本算法与数据结构基础知识的讲解书。本书易于理解，没有大跨度的思维跳跃，书中使用部分图示、例子来帮助理解。本书先从基础的数据结构和算法开始讲解，再针对不同分类的数据结构和算法，进行具体题目的讲解分析。让读者可以通过「算法基础理论学习」和「编程实战学习」相结合的方式，彻底的掌握算法知识。
+
+- [2022-《The-Art-Of-Programming-By-July》-2nd 📚](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd): 原编程艺术系列从 2011 年 4 月至今，写了 42 个编程问题，在创作的过程当中，得到了很多朋友的支持，特别是博客上随时都会有朋友不断留言，或提出改进建议，或 show 出自己的思路、代码，或指正 bug。为更好的改进、优化、增补编程艺术系列，特把博客上的这个程序员编程艺术系列和博客内其它部分经典文章同步到此，成立本项目，最后成书为：《编程之法：面试和算法心得》。
 
 ## Collection
 
