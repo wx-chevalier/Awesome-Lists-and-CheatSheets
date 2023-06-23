@@ -224,11 +224,11 @@
       - 2.7.2 C [1]
         - [2.7.2.1 C List](/01.CS/Language/C/C-List.md)
       - 2.7.3 CPP [5]
-        - [2.7.3.1 CPP Compiler List](/01.CS/Language/CPP/CPP-Compiler-List.md)
-        - [2.7.3.2 CPP ConcurrentProgramming List](/01.CS/Language/CPP/CPP-ConcurrentProgramming-List.md)
-        - [2.7.3.3 CPP List](/01.CS/Language/CPP/CPP-List.md)
-        - [2.7.3.4 CPP OpenSource List](/01.CS/Language/CPP/CPP-OpenSource-List.md)
-        - [2.7.3.5 CPP Syntax List](/01.CS/Language/CPP/CPP-Syntax-List.md)
+        - [2.7.3.1 CMake List](/01.CS/Language/CPP/CMake-List.md)
+        - [2.7.3.2 CPP Compiler List](/01.CS/Language/CPP/CPP-Compiler-List.md)
+        - [2.7.3.3 CPP ConcurrentProgramming List](/01.CS/Language/CPP/CPP-ConcurrentProgramming-List.md)
+        - [2.7.3.4 CPP List](/01.CS/Language/CPP/CPP-List.md)
+        - [2.7.3.5 CPP OpenSource List](/01.CS/Language/CPP/CPP-OpenSource-List.md)
       - 2.7.4 Go [11]
         - [2.7.4.1 Go Architecture List](/01.CS/Language/Go/Go-Architecture-List.md)
         - [2.7.4.2 Go Collection List](/01.CS/Language/Go/Go-Collection-List.md)
