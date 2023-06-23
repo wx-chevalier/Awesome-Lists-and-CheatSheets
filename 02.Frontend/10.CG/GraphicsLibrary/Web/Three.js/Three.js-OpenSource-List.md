@@ -22,6 +22,10 @@
 
 - [discourse examples](https://hofk.de/main/discourse.threejs/): Links to https://discourse.threejs.org/ and originals in source code
 
+## Editor
+
+- [2020-ThreeStudio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/adamsol/ThreeStudio)](https://github.com/adamsol/ThreeStudio): 3D game editor based on Three.js and Electron.
+
 # Framework
 
 - [2019-threejs-miniprogram ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/wechat-miniprogram/threejs-miniprogram)](https://github.com/wechat-miniprogram/threejs-miniprogram): WeChat MiniProgram adapted version of Three.js
