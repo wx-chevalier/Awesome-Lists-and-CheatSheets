@@ -102,6 +102,8 @@
 
 - [2011-qhull ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/qhull/qhull)](https://github.com/qhull/qhull): Qhull is a general dimension convex hull program that reads a set of points from stdin, and outputs the smallest convex set that contains the points to stdout. It also generates Delaunay triangulations, Voronoi diagrams, furthest-site Voronoi diagrams, and halfspace intersections about a point.
 
+- [2016-Boundingmesh ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gaschler/bounding-mesh)](https://github.com/gaschler/bounding-mesh): Boundingmesh is a library and tool set for generating bounding meshes and bounding convex decompositions. A bounding mesh encloses a given mesh and has fewer vertices; it is single-sided approximate mesh. A bounding convex decomposition is a set of convex hulls of few vertices that enclose a given mesh.
+
 ## WebAssembly 集成
 
 ### Showcase

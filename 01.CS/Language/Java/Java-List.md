@@ -34,22 +34,22 @@
 
   - [Thinking in Java (Java 编程思想) 中文版](https://github.com/quanke/think-in-java)
 
-- [2017-《Effective Java》》📚](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997): Since this Jolt-award winning classic was last updated in 2008, the Java programming environment has changed dramatically. Java 7 and Java 8 introduced new features and functions including, forEach() method in Iterable interface, default and static methods in Interfaces, Functional Interfaces and Lambda Expressions, Java Stream API for Bulk Data Operations on Collections, Java Time API, Collection API improvements, Concurrency API improvements, and Java IO improvements.
+- [2017-《Effective Java》📚](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997): Since this Jolt-award winning classic was last updated in 2008, the Java programming environment has changed dramatically. Java 7 and Java 8 introduced new features and functions including, forEach() method in Iterable interface, default and static methods in Interfaces, Functional Interfaces and Lambda Expressions, Java Stream API for Bulk Data Operations on Collections, Java Time API, Collection API improvements, Concurrency API improvements, and Java IO improvements.
   - [Effective-Java-3rd-edition-Chinese-English-bilingual》📚](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual): Effective Java（第 3 版）各章节的中英文学习参考，希望对 Java 技术的提高有所帮助，欢迎通过 issue 或 pr 提出建议和修改意见。
 
 ### Concurrent
 
-- [2011-《Java Concurrency In Practice》》📚](https://parg.co/UVQ):Our goal is to give readers a set of design rules and mental models that make it easier and more fun to build correct, performant concurrent classes and applications in Java.
+- [2011-《Java Concurrency In Practice》📚](https://parg.co/UVQ):Our goal is to give readers a set of design rules and mental models that make it easier and more fun to build correct, performant concurrent classes and applications in Java.
 
-- [2012-《Java 并发编程实战》》📚](http://book.51cto.com/art/201203/323171.htm): 本书深入浅出地介绍了 Java 线程和并发，是一本完美的 Java 并发参考手册。
+- [2012-《Java 并发编程实战》📚](http://book.51cto.com/art/201203/323171.htm): 本书深入浅出地介绍了 Java 线程和并发，是一本完美的 Java 并发参考手册。
 
 ### JVM & Tuning
 
-- [2011-《深入理解 Java 虚拟机：JVM 高级特性与最佳实践》》📚](https://parg.co/b1E)：全书共分为五大部分。第一部分从宏观的角度介绍了整个 Java 技术体系的过去、现在和未来；第二部分讲解了 JVM 的自动内存管理；第三部分分析了虚拟机的执行子系统；第四部分讲解了程序的编译与代码的优化；第五部分探讨了 Java 实现高效并发的原理。
+- [2011-《深入理解 Java 虚拟机：JVM 高级特性与最佳实践》📚](https://parg.co/b1E)：全书共分为五大部分。第一部分从宏观的角度介绍了整个 Java 技术体系的过去、现在和未来；第二部分讲解了 JVM 的自动内存管理；第三部分分析了虚拟机的执行子系统；第四部分讲解了程序的编译与代码的优化；第五部分探讨了 Java 实现高效并发的原理。
 
-- [《JVM 内幕：Java 虚拟机详解》》📚](https://www.importnew.com/17770.html)
+- [《JVM 内幕：Java 虚拟机详解》📚](https://www.importnew.com/17770.html)
 
-- [2014-《Java 问题定位技术》》📚](http://download.csdn.net/download/dhf880913/9337919)
+- [2014-《Java 问题定位技术》📚](http://download.csdn.net/download/dhf880913/9337919)
 
 ### Spring
 

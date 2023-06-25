@@ -74,9 +74,11 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2021-《golang-notes》📚](https://github.com/cch123/golang-notes): 主要是源码分析，可能也会有一些使用上的知识点。
 
+- [2022-《Go 程序设计》📚](https://www.yuque.com/qyuhen/go)
+
 - [2022-《Learn Go with Tests ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/quii/learn-go-with-tests): Get a grounding with TDD. Go is a good language for learning TDD because it is a simple language to learn and testing is built-in
 
-## Blog
+## Site
 
 - [Draveness's Blog #Blog#](https://draveness.me): 非常不错的 Go 系列博客。
 

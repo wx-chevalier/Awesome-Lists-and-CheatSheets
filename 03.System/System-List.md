@@ -26,13 +26,13 @@
 
 - [2016-架构师特刊-微服务与 DevOps 技术内参》📚](http://q.infoqstatic.com/ppt/Microservice&DevOps.pdf)
 
-- [2016-《Production Ready Microservices》》📚](https://parg.co/U6C): Susan Fowler presents a set of microservice standards in depth, drawing from her experience standardizing over a thousand microservices at Uber. You’ll learn how to design microservices that are stable, reliable, scalable, fault tolerant, performant, monitored, documented, and prepared for any catastrophe.
+- [2016-《Production Ready Microservices》📚](https://parg.co/U6C): Susan Fowler presents a set of microservice standards in depth, drawing from her experience standardizing over a thousand microservices at Uber. You’ll learn how to design microservices that are stable, reliable, scalable, fault tolerant, performant, monitored, documented, and prepared for any catastrophe.
 
-- [2017-《Microservice Patterns》》📚](https://microservices.io/patterns/index.html): A pattern language for microservices
+- [2017-《Microservice Patterns》📚](https://microservices.io/patterns/index.html): A pattern language for microservices
 
-- [2017-《The System Design Primer》》📚](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep for the system design interview.
+- [2017-《The System Design Primer》📚](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep for the system design interview.
 
-- [《Software-Engineering-at-Google》》📚](https://github.com/qiangmzsx/Software-Engineering-at-Google): 《Software Engineering at Google》的中文翻译版本。
+- [《Software-Engineering-at-Google》📚](https://github.com/qiangmzsx/Software-Engineering-at-Google): 《Software Engineering at Google》的中文翻译版本。
 
 - [2020-《Awesome Fenix》 📚 ![star](https://img.shields.io/github/stars/fenixsoft/awesome-fenix)](https://github.com/fenixsoft/awesome-fenix): 这是一部以“如何构建一套可靠的分布式大型软件系统”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《什么是“凤凰架构”》详细阐述了这部文档的主旨、目标与名字的来由，文章《如何开始》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
 
