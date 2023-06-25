@@ -26,7 +26,7 @@
 
 - [2020-Megadraft ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/globocom/megadraft): Rich Text editor built on top of Facebook's draft.js
 
-- [2020-wangEditor ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/wangeditor-team/wangEditor)](https://github.com/wangeditor-team/wangEditor): wangEditor 是一款使用 Typescript 开发的 Web 富文本编辑器， 轻量、简洁、易用、开源免费。
+- [2020-wangEditor ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/wangeditor-team/wangEditor)](https://github.com/wangeditor-team/wangEditor): wangEditor 是一款使用 Typescript 开发的 Web 富文本编辑器，轻量、简洁、易用、开源免费。
 
 - [2020-remirror ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/remirror/remirror)](https://github.com/remirror/remirror): A React toolkit for building cross-platform text editors, based on ProseMirror.
 

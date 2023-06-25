@@ -39,7 +39,7 @@
 
 ## Chinese LLM
 
-- [2023-Linly ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CVI-SZU/Linly)](https://github.com/CVI-SZU/Linly): Linly-ChatFlow 支持简繁体中文、英文、日文等多语言。 LLaMA 在预训练阶段主要使用英文，为了将其语言能力迁移到中文上，首先进行中文增量预训练， 使用的语料包括中英平行语料、中文维基、社区互动、新闻数据、科学文献等。再通过 Alpaca 指令微调得到 Linly-ChatFlow。
+- [2023-Linly ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CVI-SZU/Linly)](https://github.com/CVI-SZU/Linly): Linly-ChatFlow 支持简繁体中文、英文、日文等多语言。LLaMA 在预训练阶段主要使用英文，为了将其语言能力迁移到中文上，首先进行中文增量预训练，使用的语料包括中英平行语料、中文维基、社区互动、新闻数据、科学文献等。再通过 Alpaca 指令微调得到 Linly-ChatFlow。
 
 # Prompt
 

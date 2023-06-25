@@ -10,7 +10,7 @@
 
 - [基于 Vue.js 开发一个 Pokemon Battle 指南](https://medium.com/coding-artist/vue-js-pokemon-battle-tutorial-380cd72eb681#.x8wnb4s0f): 本文是非常详细的如何利用 Vue.js 开发一个宠物小精灵的战斗场景的教程，还是挺有意思的。( http://suo.im/1jwicW )
 
-- [Vue.js 实用技巧](http://6me.us/alZ)：本文来自于饿了么大前端的 cinwell， Vue.js 2.0 已经发布了有一段时间，生态链也日渐完善。作者在使用 Vue.js 开发项目时收集的一些工具和使用技巧，分享给各位。( http://6me.us/alZ )
+- [Vue.js 实用技巧](http://6me.us/alZ)：本文来自于饿了么大前端的 cinwell，Vue.js 2.0 已经发布了有一段时间，生态链也日渐完善。作者在使用 Vue.js 开发项目时收集的一些工具和使用技巧，分享给各位。( http://6me.us/alZ )
 
 - [Vue.js 前端框架比较](http://6me.us/5E8wN)：本文是对常用的基于 Vue.js 的前端框架的比较。( http://6me.us/5E8wN )
 

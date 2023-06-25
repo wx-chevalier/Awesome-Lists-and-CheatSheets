@@ -14,20 +14,6 @@
 
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript)
 
-# Resource | 资料索引
-
-## Book
-
-- [Refactoring Guru》📚](https://refactoringguru.cn/design-patterns/what-is-pattern)：Design patterns are typical solutions to common problems in software design. Each pattern is like a blueprint that you can customize to solve a particular design problem in your code.
-
-## Resource
-
-- [2016-Design Patterns in Typescript ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/gztchan/design-patterns-in-typescript)
-
-- [2017-Design Patterns JS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/fbeline/Design-Patterns-JS/): All the 23 (GoF) design patterns implemented in Javascript
-
-- [2017-Design Patterns in TypeScript ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/Ui8): Here are the implementations of the following design patterns in TypeScript.
-
 ## SOLID
 
 - [Understanding SOLID Principles #Series#](https://parg.co/U6m): [Understanding SOLID Principles: Open Closed Principle](https://parg.co/U6m)
@@ -41,6 +27,22 @@
 ## Behavioral Pattern
 
 - [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87): Observable is just a function that takes an observer and returns a function.
+
+# Resource | 资料索引
+
+## Collection
+
+- [2016-Design Patterns in Typescript ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/gztchan/design-patterns-in-typescript)
+
+- [2017-Design Patterns JS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/fbeline/Design-Patterns-JS/): All the 23 (GoF) design patterns implemented in Javascript
+
+- [2017-Design Patterns in TypeScript ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/Ui8): Here are the implementations of the following design patterns in TypeScript.
+
+## Book
+
+- [2014-《图说设计模式》📚](https://design-patterns.readthedocs.io/zh_CN/latest/index.html): 软件模式是将模式的一般概念应用于软件开发领域，即软件开发的 总体指导思路或参照样板。软件模式并非仅限于设计模式，还包括 架构模式、分析模式和过程模式等，实际上，在软件生存期的每一 个阶段都存在着一些被认同的模式。
+
+- [《Refactoring Guru》📚](https://refactoringguru.cn/design-patterns/what-is-pattern)：Design patterns are typical solutions to common problems in software design. Each pattern is like a blueprint that you can customize to solve a particular design problem in your code.
 
 # Language Implementation
 

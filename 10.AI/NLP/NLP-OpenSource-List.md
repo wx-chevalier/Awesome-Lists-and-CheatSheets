@@ -12,7 +12,7 @@
 
 - [2020-MiNLP ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/XiaoMi/MiNLP): 小米自然语言处理平台（MiNLP）具备词法、句法、语义分析等数十个功能模块，已经在公司业务中得到了广泛应用。
 
-- [2020-fastNLP ![code](https://ng-tech.icu/assets/code.svg)](https://cubox.pro/c/2M8iji): fastNLP 是一款轻量级的自然语言处理（NLP）工具包。你既可以用它来快速地完成一个 NLP 任务， 也可以用它在研究中快速构建更复杂的模型。
+- [2020-fastNLP ![code](https://ng-tech.icu/assets/code.svg)](https://cubox.pro/c/2M8iji): fastNLP 是一款轻量级的自然语言处理（NLP）工具包。你既可以用它来快速地完成一个 NLP 任务，也可以用它在研究中快速构建更复杂的模型。
 
 - [2022-Haystack ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/deepset-ai/haystack): Haystack is an end-to-end framework that enables you to build powerful and production-ready pipelines for different search use cases. Whether you want to perform Question Answering or semantic document search, you can use the State-of-the-Art NLP models in Haystack to provide unique search experiences and allow your users to query in natural language. Haystack is built in a modular fashion so that you can combine the best technology from other open-source projects like Huggingface's Transformers, Elasticsearch, or Milvus.
 

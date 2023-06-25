@@ -32,7 +32,7 @@
 
 - [Haven ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/guardianproject/haven): Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors.
 
-- [2023-DriverBox ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/iBUILDING-X/driver-box): 一款基于物联网开源框架 Edgex 打造的泛化协议接入服务。 以插件化的形式融合了 Modbus、Bacnet、HTTP、MQTT 等主流协议，同时也支持基于 TCP 的各类私有化协议对接。
+- [2023-DriverBox ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/iBUILDING-X/driver-box): 一款基于物联网开源框架 Edgex 打造的泛化协议接入服务。以插件化的形式融合了 Modbus、Bacnet、HTTP、MQTT 等主流协议，同时也支持基于 TCP 的各类私有化协议对接。
 
 # Visual Tools
 

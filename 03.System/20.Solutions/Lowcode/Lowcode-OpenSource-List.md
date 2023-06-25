@@ -64,7 +64,7 @@
 
 - [2021-Budibase ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Budibase/budibase): Budibase is an open-source low-code platform and the easiest way to build beautiful internal tools 🚀
 
-- [2023-codebdy/rxdrag ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/codebdy/rxdrag)](https://github.com/codebdy/rxdrag): Design anything based on HTML, 可视化编辑， 设计一切基于 HMTL 的东西，模块化设计
+- [2023-codebdy/rxdrag ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/codebdy/rxdrag)](https://github.com/codebdy/rxdrag): Design anything based on HTML, 可视化编辑，设计一切基于 HMTL 的东西，模块化设计
 
 ## H5
 
@@ -80,7 +80,7 @@
 
 - [2021-datagear ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/datageartech/datagear)](https://github.com/datageartech/datagear): DataGear 是一款开源免费的数据可视化分析平台，自由制作任何您想要的数据看板，支持接入 SQL、CSV、Excel、HTTP 接口、JSON 等多种数据源。
 
-- [2023-GoView ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dromara/go-view)](https://github.com/dromara/go-view): 🏆GoView 是一个 Vue3 搭建的低代码数据可视化开发平台，将图表或页面元素封装为基础组件，无需编写代码即可完成业务需求。 它的技术栈为：Vue3 + TypeScript4 + Vite2 + NaiveUI + ECharts5 + Axios + Pinia2 + PlopJS
+- [2023-GoView ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dromara/go-view)](https://github.com/dromara/go-view): 🏆GoView 是一个 Vue3 搭建的低代码数据可视化开发平台，将图表或页面元素封装为基础组件，无需编写代码即可完成业务需求。它的技术栈为：Vue3 + TypeScript4 + Vite2 + NaiveUI + ECharts5 + Axios + Pinia2 + PlopJS
 
 ## Materials | 物料
 

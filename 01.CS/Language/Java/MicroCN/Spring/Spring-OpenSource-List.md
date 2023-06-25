@@ -36,7 +36,7 @@
 
 - [2022-lenosp ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/zzdevelop/lenosp): lenos 一款 Spring Boot 2.0 快速开发模块化脚手架，采用 spring boot 2.0.1、spring、SpringMvc、mybatis、shiro、activiti 工作流、swagger、ehcache、redis、quartz、freemarker、layui 技术开发；博客采用 vue 前后分离。
 
-- [2023-AgileBoot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/valarchie/AgileBoot-Back-End)](https://github.com/valarchie/AgileBoot-Back-End): AgileBoot 是一套开源的全栈精简快速开发平台，毫无保留给个人及企业免费使用。本项目的目标是做一款精简可靠，代码风格优良，项目规范的小型开发脚手架。 适合个人开发者的小型项目或者公司内部项目使用。也可作为供初学者学习使用的案例。
+- [2023-AgileBoot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/valarchie/AgileBoot-Back-End)](https://github.com/valarchie/AgileBoot-Back-End): AgileBoot 是一套开源的全栈精简快速开发平台，毫无保留给个人及企业免费使用。本项目的目标是做一款精简可靠，代码风格优良，项目规范的小型开发脚手架。适合个人开发者的小型项目或者公司内部项目使用。也可作为供初学者学习使用的案例。
 
 - [2023-Dante Cloud ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dromara/dante-cloud)](https://github.com/dromara/dante-cloud): Dante Cloud (但丁，原 Eurynome Cloud) 是一款企业级微服务架构和服务能力开发平台，是采用领域驱动模型(DDD)设计思想的、全面拥抱 Spring Authorization Server 的、基于 OAuth2.1 协议的、支持智能电视、IoT 等物联网设备认证的微服务架构。基于 Spring Authorization Server 1.1.0、Spring Boot 3.1.0、Spring Cloud 2022.0.3、Spring Cloud Tencent 1.11.7-2022.0.1、Spring Cloud Alibaba 2022.0.0.0、Nacos 2.2.3 等主流技术栈开发的多租户系统，遵循 SpringBoot 编程思想，高度模块化和可配置化。具备服务发现、配置、熔断、限流、降级、监控、多级缓存、分布式事务、工作流等功能。
 

@@ -22,7 +22,7 @@
 
 - [yfinance ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ranaroussi/yfinance): Yahoo! Finance market data downloader (+faster Pandas Datareader)
 
-- [northstar ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/dromara/northstar): 国内最优秀的 JAVA 量化平台。基于 B/S 架构、可替代付费商业软件的一站式量化交易平台。具备历史回放、策略研发、模拟交易、实盘交易等功能。兼顾全自动与半自动的使用场景。 已对接国内期货股票、外盘美股港股。
+- [northstar ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/dromara/northstar): 国内最优秀的 JAVA 量化平台。基于 B/S 架构、可替代付费商业软件的一站式量化交易平台。具备历史回放、策略研发、模拟交易、实盘交易等功能。兼顾全自动与半自动的使用场景。已对接国内期货股票、外盘美股港股。
 
 - [2021-GamestonkTerminal ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/DidierRLopes/GamestonkTerminal): The next best thing after Bloomberg Terminal
 
