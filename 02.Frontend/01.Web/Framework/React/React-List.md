@@ -46,7 +46,7 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 - [2018-React 是怎样炼成的](https://segmentfault.com/a/1190000013365426): 本文主要讲述 React 的诞生过程和优化思路。内容整理自 2014 年的 OSCON - React Architecture by vjeux，虽然从今天(2018)来看可能会有点历史感，但仍然值得学习了解。以史为鉴，从中也可以管窥 Facebook 优秀的工程管理文化。
 
-- [2019-展望 React 17，回顾 React 往事](https://cubox.pro/c/Sdae7d): 回到 React 16 的话题。要讨论未来（React 17），必须要了解过去。以 React 16 为分水岭，我们可以分为两方面来看这个问题。一是为什么、 二是怎么办。
+- [2019-展望 React 17，回顾 React 往事](https://cubox.pro/c/Sdae7d): 回到 React 16 的话题。要讨论未来（React 17），必须要了解过去。以 React 16 为分水岭，我们可以分为两方面来看这个问题。一是为什么、二是怎么办。
 
 ## Ecosystem | 生态圈
 
