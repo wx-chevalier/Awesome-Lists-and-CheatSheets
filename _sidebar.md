@@ -40,7 +40,9 @@
       - [1.4.14 Network](/00.Specials/Tools%20&%20Projects/Network.md)
       - [1.4.15 Newsletter](/00.Specials/Tools%20&%20Projects/Newsletter.md)
       - [1.4.16 Notification](/00.Specials/Tools%20&%20Projects/Notification.md)
-      - [1.4.17 OS](/00.Specials/Tools%20&%20Projects/OS.md)
+      - 1.4.17 OS [2]
+        - [1.4.17.1 OS Monitor](/00.Specials/Tools%20&%20Projects/OS/OS-Monitor.md)
+        - [1.4.17.2 OS](/00.Specials/Tools%20&%20Projects/OS/OS.md)
       - 1.4.18 OpenSource Alternatives [1]
         - [1.4.18.1 Open source alternatives to everyday SaaS products](/00.Specials/Tools%20&%20Projects/OpenSource%20Alternatives/Open-source%20alternatives%20to%20everyday%20SaaS%20products.md)
       - [1.4.19 Person](/00.Specials/Tools%20&%20Projects/Person.md)
