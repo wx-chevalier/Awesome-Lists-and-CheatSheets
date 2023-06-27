@@ -1,4 +1,4 @@
-# LLM Document OpenSource List
+# LLM Library OpenSource List
 
 - [2023-Databerry ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gmpetrov/databerry)](https://github.com/gmpetrov/databerry): The no-code platform for connecting custom data to large language models.
 

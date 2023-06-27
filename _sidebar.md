@@ -454,12 +454,13 @@
       - [3.1.11 Widgets [8]](/02.Frontend/01.Web/Widgets/README.md)
         - 3.1.11.1 Animation [1]
           - [3.1.11.1.1 Animation OpenSource List](/02.Frontend/01.Web/Widgets/Animation/Animation-OpenSource-List.md)
-        - 3.1.11.2 Data Display [5]
+        - 3.1.11.2 Data Display [6]
           - [3.1.11.2.1 Audio & Video](/02.Frontend/01.Web/Widgets/Data%20Display/Audio%20&%20Video.md)
           - [3.1.11.2.2 Button & Icon](/02.Frontend/01.Web/Widgets/Data%20Display/Button%20&%20Icon.md)
           - [3.1.11.2.3 Image OpenSource List](/02.Frontend/01.Web/Widgets/Data%20Display/Image-OpenSource-List.md)
           - [3.1.11.2.4 Indicator List](/02.Frontend/01.Web/Widgets/Data%20Display/Indicator-List.md)
           - [3.1.11.2.5 Web List OpenSource List](/02.Frontend/01.Web/Widgets/Data%20Display/Web-List-OpenSource-List.md)
+          - [3.1.11.2.6 Web Response & Fit List](/02.Frontend/01.Web/Widgets/Data%20Display/Web-Response%20&%20Fit-List.md)
         - 3.1.11.3 Data Entry [6]
           - [3.1.11.3.1 DateTime](/02.Frontend/01.Web/Widgets/Data%20Entry/DateTime.md)
           - 3.1.11.3.2 Editor [2]
@@ -1126,28 +1127,33 @@
         - [6.13.3.2 InformationRetrieval List](/10.AI/NLP/InformationExtraction/InformationRetrieval-List.md)
       - 6.13.4 KnowledgeGraph [1]
         - [6.13.4.1 KnowledgeGraph List](/10.AI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
-      - 6.13.5 LLM [9]
+      - 6.13.5 LLM [6]
         - 6.13.5.1 99.参考资料 [1]
           - [6.13.5.1.1 AI Canon](/10.AI/NLP/LLM/99.参考资料/2023-AI%20Canon.md)
-        - 6.13.5.2 Agent [1]
-          - [6.13.5.2.1 LLM Agent OpenSource List](/10.AI/NLP/LLM/Agent/LLM-Agent-OpenSource-List.md)
-        - 6.13.5.3 CodeGeneration [1]
-          - [6.13.5.3.1 CodeGeneration OpenSource List](/10.AI/NLP/LLM/CodeGeneration/CodeGeneration-OpenSource-List.md)
-        - 6.13.5.4 FineTuning [1]
-          - [6.13.5.4.1 LLM Document OpenSource List](/10.AI/NLP/LLM/FineTuning/LLM-Document-OpenSource-List.md)
-        - 6.13.5.5 GPT [4]
-          - [6.13.5.5.1 GPT List](/10.AI/NLP/LLM/GPT/GPT-List.md)
-          - 6.13.5.5.2 OpenAI [2]
-            - [6.13.5.5.2.1 OpenAI List](/10.AI/NLP/LLM/GPT/OpenAI/OpenAI-List.md)
-            - [6.13.5.5.2.2 OpenAI Site List](/10.AI/NLP/LLM/GPT/OpenAI/OpenAI-Site-List.md)
-          - [6.13.5.5.3 OpenAI List](/10.AI/NLP/LLM/GPT/OpenAI-List.md)
-          - [6.13.5.5.4 Prompt List](/10.AI/NLP/LLM/GPT/Prompt-List.md)
-        - [6.13.5.6 LLM List](/10.AI/NLP/LLM/LLM-List.md)
-        - [6.13.5.7 LLM OpenSource List](/10.AI/NLP/LLM/LLM-OpenSource-List.md)
-        - 6.13.5.8 LLaMA [2]
-          - [6.13.5.8.1 Dolly List](/10.AI/NLP/LLM/LLaMA/Dolly-List.md)
-          - [6.13.5.8.2 LLaMA List](/10.AI/NLP/LLM/LLaMA/LLaMA-List.md)
-        - [6.13.5.9 LangChain List](/10.AI/NLP/LLM/LangChain-List.md)
+        - 6.13.5.2 LLM Application [3]
+          - 6.13.5.2.1 Agent [1]
+            - [6.13.5.2.1.1 LLM Agent OpenSource List](/10.AI/NLP/LLM/LLM-Application/Agent/LLM-Agent-OpenSource-List.md)
+          - 6.13.5.2.2 CustomData [1]
+            - [6.13.5.2.2.1 LLM CustomData OpenSource List](/10.AI/NLP/LLM/LLM-Application/CustomData/LLM-CustomData-OpenSource-List.md)
+          - 6.13.5.2.3 SDK [2]
+            - [6.13.5.2.3.1 LLM SDK OpenSource List](/10.AI/NLP/LLM/LLM-Application/SDK/LLM-SDK-OpenSource-List.md)
+            - [6.13.5.2.3.2 LangChain List](/10.AI/NLP/LLM/LLM-Application/SDK/LangChain-List.md)
+        - [6.13.5.3 LLM List](/10.AI/NLP/LLM/LLM-List.md)
+        - 6.13.5.4 LLM Model [3]
+          - 6.13.5.4.1 CodeGeneration [1]
+            - [6.13.5.4.1.1 CodeGeneration OpenSource List](/10.AI/NLP/LLM/LLM-Model/CodeGeneration/CodeGeneration-OpenSource-List.md)
+          - 6.13.5.4.2 LLaMA [2]
+            - [6.13.5.4.2.1 Dolly List](/10.AI/NLP/LLM/LLM-Model/LLaMA/Dolly-List.md)
+            - [6.13.5.4.2.2 LLaMA List](/10.AI/NLP/LLM/LLM-Model/LLaMA/LLaMA-List.md)
+          - 6.13.5.4.3 OpenAI [3]
+            - 6.13.5.4.3.1 GPT [2]
+              - [6.13.5.4.3.1.1 GPT List](/10.AI/NLP/LLM/LLM-Model/OpenAI/GPT/GPT-List.md)
+              - [6.13.5.4.3.1.2 OpenAI List](/10.AI/NLP/LLM/LLM-Model/OpenAI/GPT/OpenAI-List.md)
+            - [6.13.5.4.3.2 OpenAI List](/10.AI/NLP/LLM/LLM-Model/OpenAI/OpenAI-List.md)
+            - [6.13.5.4.3.3 OpenAI Site List](/10.AI/NLP/LLM/LLM-Model/OpenAI/OpenAI-Site-List.md)
+        - [6.13.5.5 LLM OpenSource List](/10.AI/NLP/LLM/LLM-OpenSource-List.md)
+        - 6.13.5.6 LLM Prompt [1]
+          - [6.13.5.6.1 Prompt List](/10.AI/NLP/LLM/LLM-Prompt/Prompt-List.md)
       - [6.13.6 NLP List](/10.AI/NLP/NLP-List.md)
       - [6.13.7 NLP OpenSource List](/10.AI/NLP/NLP-OpenSource-List.md)
       - 6.13.8 SyntaxSemanticAnalysis [2]
