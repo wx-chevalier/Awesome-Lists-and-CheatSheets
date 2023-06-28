@@ -129,8 +129,6 @@ Diagrams: timing
 
 # 其他
 
-- [Reactive Resume](https://rx-resume.web.app): 在线简历设计器。
-
 # 导航
 
 - [HiPPTer](http://www.hippter.com/): PPT 资源导航。

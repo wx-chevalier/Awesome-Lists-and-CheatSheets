@@ -18,6 +18,10 @@
 
 - [2023-zero123 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/cvlab-columbia/zero123)](https://github.com/cvlab-columbia/zero123): We learn to control the camera perspective in large-scale diffusion models, enabling zero-shot novel view synthesis and 3D reconstruction from a single image.
 
+## Human Head Reconstruction
+
+- [SizheAn/PanoHead ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/SizheAn/PanoHead)](https://github.com/SizheAn/PanoHead): Code Repository for CVPR 2023 Paper "PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 degree"
+
 ## Text To Mesh
 
 - [2021-text2mesh ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/threedle/text2mesh)](https://github.com/threedle/text2mesh): 3D mesh stylization driven by a text input in PyTorch.

@@ -24,6 +24,8 @@
 
 - [2023-Ghost ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tryghost/ghost)](https://github.com/tryghost/ghost): Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 
+- [2023-Vrite ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/vriteio/vrite)](https://github.com/vriteio/vrite): Vrite is an open-source headless CMS intended for technical content like programming blogs or documentation. It aims to provide the best user and developer experience for creating, managing and delivering technical content.
+
 ## Deployment
 
 - [2022-microfeed ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/microfeed/microfeed)](https://github.com/microfeed/microfeed): a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
