@@ -2,8 +2,6 @@
 
 - [2021-restorePhotos ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Nutlope/restorePhotos)](https://github.com/Nutlope/restorePhotos): It uses an ML model from the Applied Research Center called GFPGAN on Replicate to restore face photos. This application gives you the ability to upload any photo, which will send it through this ML Model using a Next.js API route, and return your restored photo.
 
-- [2023-Background Remover ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nadermx/backgroundremover)](https://github.com/nadermx/backgroundremover): Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
-
 - [2023-StableStudio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Stability-AI/StableStudio)](https://github.com/Stability-AI/StableStudio): StableStudio is Stability AI's official open-source variant of DreamStudio, our user interface for generative AI.
 
 - [Pixian.AI](https://pixian.ai/remove-image-backgrounds): Great quality at a fraction of the price And free while in Beta.
@@ -23,3 +21,9 @@
 # Restore
 
 - [2023-Real-ESRGAN ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/xinntao/Real-ESRGAN)](https://github.com/xinntao/Real-ESRGAN): Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+
+# Background Remove
+
+- [2023-Background Remover ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nadermx/backgroundremover)](https://github.com/nadermx/backgroundremover): Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
+
+- [2023-imgly/background-removal-js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/imgly/background-removal-js)](https://github.com/imgly/background-removal-js): Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns.
