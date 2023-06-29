@@ -39,7 +39,7 @@ add_subdirectory(${PROJECT_SOURCE_DIR}/src)
 //添加依赖，去寻找该库的头文件位置、库文件位置以及库文件名称，并将其设为变量，返回提供给CMakeLists.txt其他部分使用。
 //cmake_modules.cmake文件是把CMakeLists.txt里用来寻找特定库的内容分离出来,如果提示没有找到第三方依赖库可以尝试安装或者暴力指定路径
 // 寻找OpenCV库
-find_package(OpenCV REQUIRED )
+find_package(OpenCV REQUIRED)
 
 //在CMakeLists.txt中使用第三方库的三部曲:find_package、include_directories、target_link_libraries
 include_directories(${OpenCV_INCLUDE_DIRS})// 去哪里找头文件
