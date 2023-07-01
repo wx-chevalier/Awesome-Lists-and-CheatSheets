@@ -24,6 +24,8 @@
 
 - [DeepCreamPy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/deeppomf/DeepCreamPy): A deep learning-based tool to automatically replace censored artwork in hentai with plausible reconstructions.
 
+- [2023-LightGlue ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/cvg/LightGlue)](https://github.com/cvg/LightGlue): This repository hosts the inference code for LightGlue, a lightweight feature matcher with high accuracy and adaptive pruning techniques, both in the width and depth of the network, for blazing fast inference. It takes as input a set of keypoints and descriptors for each image, and returns the indices of corresponding points between them.
+
 ## OCR
 
 - [Tess4j ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/nguyenq/tess4j): Java JNA wrapper for Tesseract OCR API.
@@ -57,6 +59,8 @@
   - [2023-SysCV/sam-hq ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/SysCV/sam-hq)](https://github.com/SysCV/sam-hq): We propose HQ-SAM to upgrade SAM for high-quality zero-shot segmentation. Refer to our paper for more details. Our code and models will be released in two weeks. Stay tuned!
 
   - [2023-CASIA-IVA-Lab/FastSAM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CASIA-IVA-Lab/FastSAM)](https://github.com/CASIA-IVA-Lab/FastSAM): The Fast Segment Anything Model(FastSAM) is a CNN Segment Anything Model trained by only 2% of the SA-1B dataset published by SAM authors. The FastSAM achieve a comparable performance with the SAM method at 50× higher run-time speed.
+
+  - [2023-ChaoningZhang/MobileSAM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ChaoningZhang/MobileSAM)](https://github.com/ChaoningZhang/MobileSAM): 📌 MobileSAM paper is available at ResearchGate and arXiv. The latest version will first appear on ResearchGate, since it takes time for arXiv to update the content.
 
 - [2023-Painter ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/baaivision/Painter)](https://github.com/baaivision/Painter): Painter & SegGPT Series: Vision Foundation Models from BAAI
 

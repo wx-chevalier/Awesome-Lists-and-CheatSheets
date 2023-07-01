@@ -28,6 +28,8 @@
 
 - [2015-cad.js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ghemingway/cad.js)](https://github.com/ghemingway/cad.js): Web-based CAD file viewer
 
+- [pissang/clay-viewer ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/pissang/clay-viewer)](https://github.com/pissang/clay-viewer): 3D model viewer with high quality rendering based on ClayGL and glTF2.0/GLB export.
+
 - [2021-Online3DViewer ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/kovacsv/Online3DViewer)](https://github.com/kovacsv/Online3DViewer): Online 3D Viewer (https://3dviewer.net) is a free and open source web solution to visualize and explore 3D models in your browser. This repository contains the source code of the website and the library behind it.
 
 - [2022-egjs-view3d ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/naver/egjs-view3d): Fast & customizable 3D model viewer for everyone
