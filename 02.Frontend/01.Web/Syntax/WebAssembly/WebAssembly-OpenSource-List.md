@@ -43,3 +43,7 @@
 - [WasmEdge ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/WasmEdge/WasmEdge): WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 
 - [Extism ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/extism/extism): The universal plug-in system. Run WebAssembly extensions inside your app. Use idiomatic Host SDKs for Go, Ruby, Python, Node, Rust, C, C++, OCaml, Haskell, PHP, Elixir/Erlang & more (others coming soon).
+
+## Go
+
+- [2022-wazero ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tetratelabs/wazero)](https://github.com/tetratelabs/wazero): wazero is a WebAssembly Core Specification 1.0 and 2.0 compliant runtime written in Go. It has zero dependencies, and doesn't rely on CGO. This means you can run applications in other languages and still keep cross compilation.

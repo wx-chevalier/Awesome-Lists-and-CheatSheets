@@ -322,16 +322,17 @@
       - 2.7.9 PHP [2]
         - [2.7.9.1 PHP List](/01.CS/Language/PHP/PHP-List.md)
         - [2.7.9.2 PHP OpenSource List](/01.CS/Language/PHP/PHP-OpenSource-List.md)
-      - 2.7.10 Python [9]
+      - 2.7.10 Python [10]
         - [2.7.10.1 Python Concurrent List](/01.CS/Language/Python/Python-Concurrent-List.md)
-        - [2.7.10.2 Python DataStructure List](/01.CS/Language/Python/Python-DataStructure-List.md)
-        - [2.7.10.3 Python Debug List](/01.CS/Language/Python/Python-Debug-List.md)
-        - [2.7.10.4 Python Framework List](/01.CS/Language/Python/Python-Framework-List.md)
-        - [2.7.10.5 Python FunctionalProgramming List](/01.CS/Language/Python/Python-FunctionalProgramming-List.md)
-        - [2.7.10.6 Python List](/01.CS/Language/Python/Python-List.md)
-        - [2.7.10.7 Python OpenSource List](/01.CS/Language/Python/Python-OpenSource-List.md)
-        - [2.7.10.8 Python StyleGuide List](/01.CS/Language/Python/Python-StyleGuide-List.md)
-        - [2.7.10.9 Python Syntax List](/01.CS/Language/Python/Python-Syntax-List.md)
+        - [2.7.10.2 Python DataAnalysis List](/01.CS/Language/Python/Python-DataAnalysis-List.md)
+        - [2.7.10.3 Python DataStructure List](/01.CS/Language/Python/Python-DataStructure-List.md)
+        - [2.7.10.4 Python Debug List](/01.CS/Language/Python/Python-Debug-List.md)
+        - [2.7.10.5 Python Framework List](/01.CS/Language/Python/Python-Framework-List.md)
+        - [2.7.10.6 Python FunctionalProgramming List](/01.CS/Language/Python/Python-FunctionalProgramming-List.md)
+        - [2.7.10.7 Python List](/01.CS/Language/Python/Python-List.md)
+        - [2.7.10.8 Python OpenSource List](/01.CS/Language/Python/Python-OpenSource-List.md)
+        - [2.7.10.9 Python StyleGuide List](/01.CS/Language/Python/Python-StyleGuide-List.md)
+        - [2.7.10.10 Python Syntax List](/01.CS/Language/Python/Python-Syntax-List.md)
       - 2.7.11 Rust [7]
         - [2.7.11.1 Rust ConcurrentProgramming List](/01.CS/Language/Rust/Rust-ConcurrentProgramming-List.md)
         - [2.7.11.2 Rust Dev List](/01.CS/Language/Rust/Rust-Dev-List.md)
