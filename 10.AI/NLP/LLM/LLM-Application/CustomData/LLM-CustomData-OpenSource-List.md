@@ -35,3 +35,5 @@
 - [2023-anything-llm ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm)](https://github.com/Mintplex-Labs/anything-llm): A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces.
 
 - [2023-Dialoqbase ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/n4ze3m/dialoqbase)](https://github.com/n4ze3m/dialoqbase): Dialoqbase is a web application that allows you to create custom chatbots with your own knowledge base. It uses powerful language models to generate responses and PostgreSQL for vector search and storing the knowledge base
+
+# Personal Assistant
