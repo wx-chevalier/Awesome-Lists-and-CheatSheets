@@ -22,6 +22,8 @@
 
 - [2023-Real-ESRGAN ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/xinntao/Real-ESRGAN)](https://github.com/xinntao/Real-ESRGAN): Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 
+- [2023-Final2x ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Tohrusky/Final2x)](https://github.com/Tohrusky/Final2x): This is a powerful tool that allows for image super-resolution to arbitrary sizes using multiple models, designed to enhance the resolution and quality of images, making them clearer and more detailed. Presently, it supports several models, such as RealCUGAN, RealESRGAN, Waifu2x, and SRMD.
+
 # Background Remove
 
 - [2023-Background Remover ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nadermx/backgroundremover)](https://github.com/nadermx/backgroundremover): Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.

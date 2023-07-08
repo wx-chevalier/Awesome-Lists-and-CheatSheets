@@ -175,27 +175,29 @@
       - [1.5.7 TEMPLATE](/00.Specials/Weekly/TEMPLATE.md)
       - [1.5.8 Template en](/00.Specials/Weekly/Template-en.md)
   - 2 01.CS [9]
-    - 2.1 AlgoDS [13]
-      - [2.1.1 AlgoDS List](/01.CS/AlgoDS/AlgoDS-List.md)
-      - [2.1.2 Compression List](/01.CS/AlgoDS/Compression-List.md)
-      - [2.1.3 GameTheory List](/01.CS/AlgoDS/GameTheory-List.md)
-      - [2.1.4 Graph List](/01.CS/AlgoDS/Graph-List.md)
-      - [2.1.5 Hash List](/01.CS/AlgoDS/Hash-List.md)
-      - [2.1.6 Index List](/01.CS/AlgoDS/Index-List.md)
-      - [2.1.7 LeetCode List](/01.CS/AlgoDS/LeetCode-List.md)
-      - [2.1.8 LinearList List](/01.CS/AlgoDS/LinearList-List.md)
-      - [2.1.9 NumberTheory List](/01.CS/AlgoDS/NumberTheory-List.md)
-      - 2.1.10 Optimization [3]
-        - [2.1.10.1 DP List](/01.CS/AlgoDS/Optimization/DP-List.md)
-        - [2.1.10.2 GA List](/01.CS/AlgoDS/Optimization/GA-List.md)
-        - 2.1.10.3 Search [2]
-          - [2.1.10.3.1 Search List](/01.CS/AlgoDS/Optimization/Search/Search-List.md)
-          - 2.1.10.3.2 Vector Search [2]
-            - [2.1.10.3.2.1 Faiss List](/01.CS/AlgoDS/Optimization/Search/Vector%20Search/Faiss-List.md)
-            - [2.1.10.3.2.2 Vector Search List](/01.CS/AlgoDS/Optimization/Search/Vector%20Search/Vector-Search-List.md)
-      - [2.1.11 Sort List](/01.CS/AlgoDS/Sort-List.md)
-      - [2.1.12 String List](/01.CS/AlgoDS/String-List.md)
-      - [2.1.13 Tree List](/01.CS/AlgoDS/Tree-List.md)
+    - 2.1 AlgoDS [3]
+      - [2.1.1 AlgoDS CPP List](/01.CS/AlgoDS/AlgoDS-CPP-List.md)
+      - [2.1.2 AlgoDS List](/01.CS/AlgoDS/AlgoDS-List.md)
+      - 2.1.3 Category [12]
+        - [2.1.3.1 Compression List](/01.CS/AlgoDS/Category/Compression-List.md)
+        - [2.1.3.2 GameTheory List](/01.CS/AlgoDS/Category/GameTheory-List.md)
+        - [2.1.3.3 Graph List](/01.CS/AlgoDS/Category/Graph-List.md)
+        - [2.1.3.4 Hash List](/01.CS/AlgoDS/Category/Hash-List.md)
+        - [2.1.3.5 Index List](/01.CS/AlgoDS/Category/Index-List.md)
+        - [2.1.3.6 LeetCode List](/01.CS/AlgoDS/Category/LeetCode-List.md)
+        - [2.1.3.7 LinearList List](/01.CS/AlgoDS/Category/LinearList-List.md)
+        - [2.1.3.8 NumberTheory List](/01.CS/AlgoDS/Category/NumberTheory-List.md)
+        - 2.1.3.9 Optimization [3]
+          - [2.1.3.9.1 DP List](/01.CS/AlgoDS/Category/Optimization/DP-List.md)
+          - [2.1.3.9.2 GA List](/01.CS/AlgoDS/Category/Optimization/GA-List.md)
+          - 2.1.3.9.3 Search [2]
+            - [2.1.3.9.3.1 Search List](/01.CS/AlgoDS/Category/Optimization/Search/Search-List.md)
+            - 2.1.3.9.3.2 Vector Search [2]
+              - [2.1.3.9.3.2.1 Faiss List](/01.CS/AlgoDS/Category/Optimization/Search/Vector%20Search/Faiss-List.md)
+              - [2.1.3.9.3.2.2 Vector Search List](/01.CS/AlgoDS/Category/Optimization/Search/Vector%20Search/Vector-Search-List.md)
+        - [2.1.3.10 Sort List](/01.CS/AlgoDS/Category/Sort-List.md)
+        - [2.1.3.11 String List](/01.CS/AlgoDS/Category/String-List.md)
+        - [2.1.3.12 Tree List](/01.CS/AlgoDS/Category/Tree-List.md)
     - [2.2 CS List](/01.CS/CS-List.md)
     - 2.3 CodeStyle [3]
       - [2.3.1 CleanCode List](/01.CS/CodeStyle/CleanCode-List.md)

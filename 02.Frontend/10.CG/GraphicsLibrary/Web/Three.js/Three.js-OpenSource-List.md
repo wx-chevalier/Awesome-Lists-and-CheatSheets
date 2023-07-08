@@ -66,6 +66,10 @@
 
 - [2023-AtomiControl ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/atomicra/AtomiControl)](https://github.com/atomicra/AtomiControl): Position / Transformation Controls for Three JS. More performance and small code size.
 
+## Loader
+
+- [2023-WWOBJLoader ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/kaisalmen/WWOBJLoader)](https://github.com/kaisalmen/WWOBJLoader): OBJLoader2 is a loader for the OBJ file format. It is an alternative to OBJLoader included in three.js. The loader and its parser can be used on Main via OBJLoader2 or in parallel inside a web worker via OBJLoader2Parallel.
+
 ## Elements
 
 ### Text
