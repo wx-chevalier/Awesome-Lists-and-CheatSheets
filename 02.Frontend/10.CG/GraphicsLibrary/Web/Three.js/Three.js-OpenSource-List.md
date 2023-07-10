@@ -80,6 +80,8 @@
 
 - [2018-THREE.MeshLine ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/spite/THREE.MeshLine)](https://github.com/spite/THREE.MeshLine): Mesh replacement for THREE.Line.
 
+- [2023-three-fatline ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/vasturiano/three-fatline)](https://github.com/vasturiano/three-fatline): A ThreeJS Line object with variable width.
+
 ## Particle
 
 - [2020-Three Nebula ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/creativelifeform/three-nebula)](https://github.com/creativelifeform/three-nebula): Three Nebula is a WebGL based 3D particle engine that has been designed to work alongside three.js. Check out the website, examples, the quickstart sandbox and API reference documentation for more.

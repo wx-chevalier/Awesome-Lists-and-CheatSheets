@@ -8,6 +8,8 @@
 
 - [smalllinks ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/smallcase/smalllinks): Simple URL shortener built with Fastify. Uses PostgreSQL, Redis, and Kafka.
 
+- [2023-blogs.hn ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/surprisetalk/blogs.hn)](https://github.com/surprisetalk/blogs.hn): blogs.hn is for personal blogs! Non-technical blogs are okay too, but remember that the community is mostly folks from HackerNews.
+
 # Dev Tools
 
 - [node-prune ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tj/node-prune): 能够帮助移除 node_modules 中的不必要内容。

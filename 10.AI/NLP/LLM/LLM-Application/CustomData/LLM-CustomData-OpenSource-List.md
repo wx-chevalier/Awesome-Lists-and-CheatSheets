@@ -37,3 +37,5 @@
 - [2023-Dialoqbase ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/n4ze3m/dialoqbase)](https://github.com/n4ze3m/dialoqbase): Dialoqbase is a web application that allows you to create custom chatbots with your own knowledge base. It uses powerful language models to generate responses and PostgreSQL for vector search and storing the knowledge base
 
 # Personal Assistant
+
+- [2023-khoj ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/khoj-ai/khoj)](https://github.com/khoj-ai/khoj): An AI personal assistant for your digital brain.

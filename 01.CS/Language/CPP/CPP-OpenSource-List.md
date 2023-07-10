@@ -58,6 +58,8 @@
 
 - [2020-oneTBB ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/oneapi-src/oneTBB)](https://github.com/oneapi-src/oneTBB): oneTBB is a flexible C++ library that simplifies the work of adding parallelism to complex applications, even if you are not a threading expert.
 
+- [2023-libcopp ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/owent/libcopp)](https://github.com/owent/libcopp): cross-platform coroutine library in c++
+
 ## GUI Framework
 
 - [2017-webview ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/webview/webview)](https://github.com/webview/webview): Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows).
