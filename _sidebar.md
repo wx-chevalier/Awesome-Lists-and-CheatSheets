@@ -229,8 +229,9 @@
     - 2.7 Language [13]
       - 2.7.1 Assembly [1]
         - [2.7.1.1 Assembly List](/01.CS/Language/Assembly/Assembly-List.md)
-      - 2.7.2 C [1]
+      - 2.7.2 C [2]
         - [2.7.2.1 C List](/01.CS/Language/C/C-List.md)
+        - [2.7.2.2 C OpenSource List](/01.CS/Language/C/C-OpenSource-List.md)
       - 2.7.3 CPP [6]
         - 2.7.3.1 CMake [2]
           - [2.7.3.1.1 CMake List](/01.CS/Language/CPP/CMake/CMake-List.md)

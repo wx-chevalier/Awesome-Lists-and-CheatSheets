@@ -39,3 +39,7 @@
 # Personal Assistant
 
 - [2023-khoj ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/khoj-ai/khoj)](https://github.com/khoj-ai/khoj): An AI personal assistant for your digital brain.
+
+# QA
+
+- [2023-Danswer ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/danswer-ai/danswer)](https://github.com/danswer-ai/danswer): Danswer allows you to ask natural language questions against internal documents and get back reliable answers backed by quotes and references from the source material so that you can always trust what you get back. You can connect to a number of common tools such as Slack, GitHub, Confluence, amongst others.

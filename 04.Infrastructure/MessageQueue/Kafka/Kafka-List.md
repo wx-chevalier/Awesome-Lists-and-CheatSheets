@@ -12,7 +12,9 @@
 
 ## Collection
 
-- [Awesome Kafka](https://github.com/infoslack/awesome-kafka#books)
+- [Awesome Kafka #Collection#](https://github.com/infoslack/awesome-kafka#books)
+
+- [2023-kafka-in-production #Collection#](https://github.com/dttung2905/kafka-in-production): Curious to know how big companies are operating their kafka fleet in production? This might be the repo for you.
 
 ## Series
 
