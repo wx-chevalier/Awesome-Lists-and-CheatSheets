@@ -40,6 +40,10 @@
 
 - [2023-khoj ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/khoj-ai/khoj)](https://github.com/khoj-ai/khoj): An AI personal assistant for your digital brain.
 
+- [2023-AI companions ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/a16z-infra/companion-app)](https://github.com/a16z-infra/companion-app): AI companions with memory: a lightweight stack to create and host your own AI companions
+
 # QA
 
 - [2023-Danswer ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/danswer-ai/danswer)](https://github.com/danswer-ai/danswer): Danswer allows you to ask natural language questions against internal documents and get back reliable answers backed by quotes and references from the source material so that you can always trust what you get back. You can connect to a number of common tools such as Slack, GitHub, Confluence, amongst others.
+
+- [2023-KnowledgeCanvas/knowledge ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/KnowledgeCanvas/knowledge)](https://github.com/KnowledgeCanvas/knowledge): Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.

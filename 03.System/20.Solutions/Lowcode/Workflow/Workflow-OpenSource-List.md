@@ -18,6 +18,9 @@
 
 - [2021-Automatisch ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/automatisch/automatisch)](https://github.com/automatisch/automatisch): The open source Zapier alternative. Build workflow automation without spending time and money.
 
+- [2023-Snakemake ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/snakemake/snakemake)](https://github.com/snakemake/snakemake):
+  The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.
+
 ## Rules Engine
 
 - [Drools ![code](https://ng-tech.icu/assets/code.svg)](https://www.drools.org/): Drools is a Business Rules Management System (BRMS) solution. It provides a core Business Rules Engine (BRE), a web authoring and rules management application (Drools Workbench) and an Eclipse IDE plugin for core development.
