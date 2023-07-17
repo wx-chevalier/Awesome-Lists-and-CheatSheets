@@ -759,11 +759,12 @@
       - 4.6.9 WebSecurity [2]
         - [4.6.9.1 WAF List](/03.System/05.InfoSecurity/WebSecurity/WAF-List.md)
         - [4.6.9.2 WebSecurity List](/03.System/05.InfoSecurity/WebSecurity/WebSecurity-List.md)
-    - 4.7 10.SoftwareEngineering [1]
-      - 4.7.1 TechMgt [2]
-        - 4.7.1.1 Agile [1]
-          - [4.7.1.1.1 Agile List](/03.System/10.SoftwareEngineering/TechMgt/Agile/Agile-List.md)
-        - [4.7.1.2 TechMgt List](/03.System/10.SoftwareEngineering/TechMgt/TechMgt-List.md)
+    - 4.7 10.SoftwareEngineering [2]
+      - [4.7.1 SoftwareEngineering List](/03.System/10.SoftwareEngineering/SoftwareEngineering-List.md)
+      - 4.7.2 TechMgt [2]
+        - 4.7.2.1 Agile [1]
+          - [4.7.2.1.1 Agile List](/03.System/10.SoftwareEngineering/TechMgt/Agile/Agile-List.md)
+        - [4.7.2.2 TechMgt List](/03.System/10.SoftwareEngineering/TechMgt/TechMgt-List.md)
     - 4.8 11.BigTech [7]
       - [4.8.1 Awesome Giants](/03.System/11.BigTech/Awesome-Giants.md)
       - [4.8.2 LinkedIn List](/03.System/11.BigTech/LinkedIn-List.md)
