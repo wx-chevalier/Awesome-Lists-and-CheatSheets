@@ -4,7 +4,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [2020-D3 in Depth》📚](https://www.d3indepth.com/introduction/): D3 is a JavaScript library used to create bespoke, interactive charts and maps on the web.
 

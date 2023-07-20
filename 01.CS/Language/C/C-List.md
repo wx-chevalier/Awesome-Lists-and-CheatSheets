@@ -16,7 +16,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [2022-《C 程序设计》📚](https://www.yuque.com/qyuhen/c11)
 

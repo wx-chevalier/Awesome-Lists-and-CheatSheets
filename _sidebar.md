@@ -13,9 +13,11 @@
       - [1.3.1 Awesome Apps](/00.Specials/Showcases/Awesome-Apps.md)
       - [1.3.2 Awesome Clones](/00.Specials/Showcases/Awesome-Clones.md)
       - [1.3.3 Awesome Codebases](/00.Specials/Showcases/Awesome-Codebases.md)
-      - [1.3.4 Awesome DataVis](/00.Specials/Showcases/Awesome-DataVis.md)
-      - [1.3.5 Awesome Design Inspiration](/00.Specials/Showcases/Awesome-Design-Inspiration.md)
-      - [1.3.6 Coding as Vetren](/00.Specials/Showcases/Coding-as-Vetren.md)
+      - [1.3.4 Awesome Design Inspiration](/00.Specials/Showcases/Awesome-Design-Inspiration.md)
+      - [1.3.5 Coding as Vetren](/00.Specials/Showcases/Coding-as-Vetren.md)
+      - 1.3.6 DataVision [2]
+        - [1.3.6.1 Awesome DataVis](/00.Specials/Showcases/DataVision/Awesome-DataVis.md)
+        - [1.3.6.2 Hack Effect](/00.Specials/Showcases/DataVision/Hack%20Effect.md)
     - [1.4 Tools & Projects [31]](/00.Specials/Tools%20&%20Projects/README.md)
       - [1.4.1 Automation](/00.Specials/Tools%20&%20Projects/Automation.md)
       - [1.4.2 Awesome Media Tools](/00.Specials/Tools%20&%20Projects/Awesome-Media-Tools.md)
@@ -26,11 +28,12 @@
       - [1.4.6 Dev IDE](/00.Specials/Tools%20&%20Projects/Dev-IDE.md)
       - [1.4.7 Dev Ops](/00.Specials/Tools%20&%20Projects/Dev-Ops.md)
       - [1.4.8 Dev PaaS](/00.Specials/Tools%20&%20Projects/Dev-PaaS.md)
-      - 1.4.9 Document [4]
+      - 1.4.9 Document [5]
         - [1.4.9.1 Blog & Knowledge Management](/00.Specials/Tools%20&%20Projects/Document/Blog%20&%20Knowledge%20Management.md)
         - [1.4.9.2 CMD Processor](/00.Specials/Tools%20&%20Projects/Document/CMD%20Processor.md)
-        - [1.4.9.3 Markdown Tools](/00.Specials/Tools%20&%20Projects/Document/Markdown%20Tools.md)
-        - [1.4.9.4 OCR & Translate](/00.Specials/Tools%20&%20Projects/Document/OCR%20&%20Translate.md)
+        - [1.4.9.3 Document Sign](/00.Specials/Tools%20&%20Projects/Document/Document%20Sign.md)
+        - [1.4.9.4 Markdown Tools](/00.Specials/Tools%20&%20Projects/Document/Markdown%20Tools.md)
+        - [1.4.9.5 OCR & Translate](/00.Specials/Tools%20&%20Projects/Document/OCR%20&%20Translate.md)
       - [1.4.10 ECommerce & Marketing](/00.Specials/Tools%20&%20Projects/ECommerce%20&%20Marketing.md)
       - [1.4.11 Encrypt](/00.Specials/Tools%20&%20Projects/Encrypt.md)
       - [1.4.12 File](/00.Specials/Tools%20&%20Projects/File.md)
@@ -233,9 +236,8 @@
         - [2.7.2.1 C List](/01.CS/Language/C/C-List.md)
         - [2.7.2.2 C OpenSource List](/01.CS/Language/C/C-OpenSource-List.md)
       - 2.7.3 CPP [6]
-        - 2.7.3.1 CMake [2]
+        - 2.7.3.1 CMake [1]
           - [2.7.3.1.1 CMake List](/01.CS/Language/CPP/CMake/CMake-List.md)
-          - [2.7.3.1.2 CMakeLists CheatSheet](/01.CS/Language/CPP/CMake/CMakeLists-CheatSheet.md)
         - [2.7.3.2 CPP Compiler List](/01.CS/Language/CPP/CPP-Compiler-List.md)
         - [2.7.3.3 CPP ConcurrentProgramming List](/01.CS/Language/CPP/CPP-ConcurrentProgramming-List.md)
         - [2.7.3.4 CPP List](/01.CS/Language/CPP/CPP-List.md)

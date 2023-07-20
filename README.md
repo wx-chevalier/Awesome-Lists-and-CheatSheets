@@ -45,8 +45,8 @@ Awesome-Lists 是横跨了编程语言与理论、Web 与大前端、服务端�
 
   - Overview
 
-    - Learning Path
-    - Guideline
+    - Ecosystem
+    - Learning Path & Roadmap & Guideline
     - CheatSheet
 
   - Resource
@@ -55,6 +55,7 @@ Awesome-Lists 是横跨了编程语言与理论、Web 与大前端、服务端�
     - Course
     - Series
     - Site
+    - Tutorial
 
 - {Something}-OpenSource-List.md
 
@@ -113,6 +114,7 @@ Awesome-Lists 是横跨了编程语言与理论、Web 与大前端、服务端�
 - #Scratch#: 从零构建某些系统
 - #Tool#: 工具
 - #Paper#
+- #Tutorial#
 
 目前，在知识体系中会存在多层构建的问题，对于非 #Article#、#Series# 类遵循的归纳原则就是：仅放置在最顶层与最底层，不放在中间层。
 

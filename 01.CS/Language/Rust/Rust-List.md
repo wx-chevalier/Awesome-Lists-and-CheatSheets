@@ -32,7 +32,7 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2018-Rust in Cloudflare](https://parg.co/YA1)
 
-## Book
+## Books
 
 - [《The Rust Programming Language》📚](https://doc.rust-lang.org/book/first-edition/README.html): This book will teach you about the Rust Programming Language. Rust is a systems programming language focused on three goals: safety, speed, and concurrency.
 
@@ -68,7 +68,7 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2019-rustlings ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rust-lang/rustlings): 🦀 Small exercises to get you used to reading and writing Rust code!
 
-## Course
+## Courses
 
 - [TP 201: Practical Networked Applications in Rust 🎥](https://github.com/pingcap/talent-plan). A series of projects that incrementally develop a single Rust project from the ground up into a high-performance, networked, parallel and asynchronous key/value store. Along the way various real-world and practical Rust development subject matter are explored and discussed.
 

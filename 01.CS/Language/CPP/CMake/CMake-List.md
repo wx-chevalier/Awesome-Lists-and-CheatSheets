@@ -11,3 +11,7 @@
 # Make
 
 - [2022-make](https://www.gnu.org/software/make/manual/make.html): This file documents the GNU make utility, which determines automatically which pieces of a large program need to be recompiled, and issues the commands to recompile them.
+
+# OpenSource
+
+- [2018-StableCoder/cmake-scripts ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/StableCoder/cmake-scripts)](https://github.com/StableCoder/cmake-scripts): A selection of useful scripts for use in CMake projects, include code coverage, sanitizers, and dependency graph generation.

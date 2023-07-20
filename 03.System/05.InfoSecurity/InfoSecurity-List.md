@@ -30,7 +30,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [《Reverse Engineering for Beginners》📚](https://beginners.re/): 适合作为逆向入门书籍，而且里面覆盖的范围更广，包括了 x86/x64，arm 两三种 CPU 的指令集，而且囊括了 Linux 和 Windows 的 OS hack 等内容，各种逆向工具也都介绍了一番。
 
@@ -48,7 +48,7 @@
 
 - [jassics/security-study-plan ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jassics/security-study-plan)](https://github.com/jassics/security-study-plan): Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
 
-## Course
+## Courses
 
 - [Beginner Network Pentesting #Series#](https://github.com/hmaverickadams/Beginner-Network-Pentesting): Welcome to the Beginner Network Pentesting course. Previously, the course was delivered weekly on Twitch and built from lessons learned in the previous week.
 

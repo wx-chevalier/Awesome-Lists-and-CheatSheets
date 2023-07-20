@@ -24,7 +24,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [2017-Kubernetes 中文指南/云原生应用架构实践手册》📚](https://jimmysong.io/kubernetes-handbook/): 本书记录了本人从零开始学习和使用 Kubernetes 的心路历程，着重于经验分享和总结，同时也会有相关的概念解析，希望能够帮助大家少踩坑，少走弯路，还会指引大家关于关注 kubernetes 生态周边，如微服务构建、DevOps、大数据应用、Service Mesh、Cloud Native 等领域。
 
@@ -36,7 +36,7 @@
 
 - [2021-DescomplicandoKubernetes》📚](https://github.com/badtuxx/DescomplicandoKubernetes): In this material you will have contact with contents that cover from beginner to advanced level about Kubernetes, and now that it has become open, with everyone's help we will build the largest and most complete material about Kubernetes in the world.
 
-## Course
+## Courses
 
 - [2017-Introduction to Kubernetes 🎥](https://www.edx.org/course/introduction-to-kubernetes): Want to learn Kubernetes? Get an in-depth primer on this powerful system for managing containerized applications.
 

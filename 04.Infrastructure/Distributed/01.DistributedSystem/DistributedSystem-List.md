@@ -14,7 +14,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [2012-《Concurrent Programming for Scalable Web Architectures》📚](http://berb.github.io/diploma-thesis/): We examine the relations between concurrency, scalability and distributed systems and dare an outlook on the near future.
 
@@ -46,7 +46,7 @@
 
 - [2019-A Distributed Systems Reading List 🗃️](https://dancres.github.io/Pages/): I often argue that the toughest thing about distributed systems is changing the way you think. The below is a collection of material I've found useful for motivating these changes.
 
-## Course
+## Courses
 
 - [2018-6.824: Distributed Systems](http://nil.csail.mit.edu/6.824/2018/index.html): It will present abstractions and implementation techniques for engineering distributed systems.
 

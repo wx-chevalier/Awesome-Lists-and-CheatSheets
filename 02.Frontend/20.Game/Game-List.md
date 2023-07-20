@@ -6,6 +6,6 @@
 
 # Resource
 
-## Book
+## Books
 
 - [2021-Basic Computer Games》📚](https://github.com/coding-horror/basic-computer-games): An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages

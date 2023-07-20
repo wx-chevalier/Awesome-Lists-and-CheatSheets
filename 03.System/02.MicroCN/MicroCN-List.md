@@ -48,7 +48,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [2017-微服务：从设计到部署》📚](https://github.com/DocsHome/microservices): 本书是 Chris Richardson 和 Floyd Smith 联合编写的微服务电子书 Designing and Deploying Microservices 的中文译本，其从不同角度全面介绍了微服务：微服务的优点与缺点、API 网关、进程间通信（IPC）、服务发现、事件驱动数据管理、微服务部署策略、重构单体。
 

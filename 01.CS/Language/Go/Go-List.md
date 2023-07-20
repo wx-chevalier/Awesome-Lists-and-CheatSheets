@@ -32,7 +32,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 # Resource
 
-## Book
+## Books
 
 - [2015-《An Introduction to Programming in Go》📚](http://www.golang-book.com/): A short, concise introduction to computer programming using the language Go. Designed by Google, Go is a general purpose programming language with modern features, clean syntax and a robust well-documented common library, making it an ideal language to learn as your first programming language.
 
@@ -98,7 +98,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2021-Go.dev 🗃️](https://go.dev/learn/): Install the latest version of Go. For instructions to download and install the Go compilers, tools, and libraries, view the install documentation.
 
-## Course
+## Courses
 
 - [2018-Beginner Solutions in Go - The Basics, Clients, and Servers ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/oZc)
 

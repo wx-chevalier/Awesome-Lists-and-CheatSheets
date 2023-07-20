@@ -10,11 +10,11 @@
 
 - [awesome-streaming](https://github.com/manuzhang/awesome-streaming)
 
-## Book
+## Books
 
 - [2018-Kalavri-Stream Processing with Apache Flink》📚](https://www.safaribooksonline.com/library/view/stream-processing-with/9781491974285/): With this practical guide, you’ll learn how to use Apache Flink’s stream processing APIs to implement, continuously run, and maintain real-world applications.
 
-## Course
+## Courses
 
 ## Blog
 

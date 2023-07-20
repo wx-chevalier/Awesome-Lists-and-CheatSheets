@@ -60,6 +60,8 @@
 
 - [2023-libcopp ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/owent/libcopp)](https://github.com/owent/libcopp): cross-platform coroutine library in c++
 
+- [2023-CodingHanYa/workspace ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CodingHanYa/workspace)](https://github.com/CodingHanYa/workspace): workspace 是基于 C++11 的轻量级异步执行框架，支持：通用任务异步并发执行、优先级任务调度、自适应动态线程池、高效静态线程池、异常处理机制等。
+
 ## GUI Framework
 
 - [2017-webview ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/webview/webview)](https://github.com/webview/webview): Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows).

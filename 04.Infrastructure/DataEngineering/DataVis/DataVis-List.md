@@ -10,7 +10,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [2018-数据可视化入门教程》📚](https://www.yuque.com/mo-college/beginner-tutorial): 市场对数据可视化工具有着巨大的需求，广大工程师和学习者渴望得到清晰易懂、简单实用的培训教程。为了满足这些需求，AntV 团队投入很大的精力，编写了这本《数据可视化入门教程》。
 

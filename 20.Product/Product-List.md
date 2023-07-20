@@ -4,7 +4,7 @@
 
 - [Awesome Product Design](https://github.com/teoga/awesome-product-design): A collection of bookmarks, resources, articles for product designers.
 
-## Book | 书籍
+## Books | 书籍
 
 - [2019-杨堃-《决胜 B 端——产品经理升级之路》](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIzMTc3NTA2NQ==&action=getalbum&album_id=1969165640133328897#wechat_redirect): 试图提炼了互联网 B 端产品设计和管理的通用思路和方法，共分为 4 篇。
 

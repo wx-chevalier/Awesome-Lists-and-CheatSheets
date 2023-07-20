@@ -8,7 +8,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [2014-How-to-Make-a-Computer-Operating-System ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/SamyPesse/How-to-Make-a-Computer-Operating-System)](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System): How to Make a Computer Operating System in C++
 
@@ -36,7 +36,7 @@
 
 - [2023-minixfromscratch ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/o-oconnell/minixfromscratch)](https://github.com/o-oconnell/minixfromscratch): I believe that learning MINIX is probably the best way to learn about operating systems. Until now, I have not been able to find a MINIX 3 project that allows you to compile the code that is referenced in the book Operating Systems: Design and Implementation (3e) (v3.1.0). It was tricky to get a reasonable development setup to make it possible for newbies like myself to learn from the book. This is an attempt to fix that and make it easy to browse, edit, recompile, and execute the code.
 
-## Course
+## Courses
 
 - [2019-MIT6.828 🎥](https://zhuanlan.zhihu.com/p/74028717): 起 OS 的大厦框架。从 Lab1 的手把手教学到 Lab6 的放任你自由，很好地对学生的学习进行了引导。学完这个课程后，你也就拥有了一个属于你自己的完整的内核雏形！
 

@@ -20,7 +20,7 @@
 
 # Resource
 
-## Book & Course
+## Books & Course
 
 - [2017- 深入理解 Node.js：核心思想与源码分析》📚](http://6me.us/epg)
 

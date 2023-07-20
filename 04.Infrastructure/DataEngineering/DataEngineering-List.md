@@ -4,7 +4,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [2019-BigDataGuide 📚 ![star](https://img.shields.io/github/stars/MoRan1607/BigDataGuide)](https://github.com/MoRan1607/BigDataGuide): 大数据学习指南，从零开始学习大数据开发，包含大数据学习各个阶段资汇总。
 
@@ -16,7 +16,7 @@
 
 - [2022-God-Of-BigData ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/wangzhiwubigdata/God-Of-BigData)](https://github.com/wangzhiwubigdata/God-Of-BigData): 专注大数据学习面试，大数据成神之路开启。Flink/Spark/Hadoop/Hbase/Hive...
 
-## Course
+## Courses
 
 - [2021-动手学数据分析 🎥 ![star](https://img.shields.io/github/stars/datawhalechina/hands-on-data-analysis)](https://github.com/datawhalechina/hands-on-data-analysis): 动手学数据分析是 Datawhale 关于数据分析方向的开源项目，这个项目始于 Datawhale 以前的数据分析课程，那时我作为一名学员的以《python for data analysis》这本书为教材教材，通过刷这本教材的代码来学习数据分析，书里对于 pandas 和 numpy 操作讲的很细，但是对于数据分析的逻辑的内容，就少了很多。所以很多学习者和我学完之后发现，敲了一堆代码并不知道它们有什么用。“不知道怎么用”这个想法其实很好理解，在学完了比较理论的东西之后，在生活中实际运用方式和从理论中学到的会有不小的鸿沟。如何抹平这个鸿沟，可能就需要自己的尝试以及学习实战的资料。
 

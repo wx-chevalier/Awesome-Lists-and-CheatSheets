@@ -20,7 +20,7 @@
 
 # Resource
 
-## Book | 书籍
+## Books | 书籍
 
 - [2015-Pro Java 8 Programming-3rd》📚](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
 
@@ -103,7 +103,7 @@
 
 - [2023-Java-Edge/Java-Interview-Tutorial 🗃️ ![star](https://img.shields.io/github/stars/Java-Edge/Java-Interview-Tutorial)](https://github.com/Java-Edge/Java-Interview-Tutorial): 建议 star，不支持 fork！涵盖互联网大厂数据库、缓存、DDD、设计模式、微服务架构、主流中间件框架原理及真实业务最佳实践。欢迎关注公众号：JavaEdge，一起交流学习！
 
-## Course
+## Courses
 
 - [2018-The "REST with Spring" Classes 🎥](https://github.com/eugenp/tutorials): This project is a collection of small and focused tutorials - each covering a single and well defined area of development in the Java ecosystem. A strong focus of these is, of course, the Spring Framework - Spring, Spring Boot and Spring Securiyt. In additional to Spring, the following technologies are in focus: core Java, Jackson, HttpClient, Guava.
 

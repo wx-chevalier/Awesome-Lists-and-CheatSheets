@@ -24,7 +24,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [2017-Chaos Engineering》📚](https://learning.oreilly.com/library/view/chaos-engineering/9781491988459/): By introducing controlled experiments, you’ll learn how emergent behavior from component interactions can cause your system to drift into an unsafe, chaotic state.
 

@@ -16,6 +16,6 @@
 
 - [Presto 专栏](https://zhuanlan.zhihu.com/presto-cn): Presto 是一种开源的、高性能的、交互式 SQL 分析引擎。
 
-## Book
+## Books
 
 - [2023-深入浅出 Presto：PB 级 OLAP 引擎》📚](https://www.zhihu.com/column/c_1294277883771940864): 内容深入、清晰易懂，在这里掌握 Presto。

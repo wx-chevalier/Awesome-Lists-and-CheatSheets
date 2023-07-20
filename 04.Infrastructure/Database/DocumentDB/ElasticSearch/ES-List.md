@@ -16,7 +16,7 @@
 
 - [Awesome ElasticSearch ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dzharii/awesome-elasticsearch): A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!
 
-## Book
+## Books
 
 - [ElasticSearch 权威指南中文版》📚](http://es.xiaoleilu.com/010_Intro/00_README.html)
 

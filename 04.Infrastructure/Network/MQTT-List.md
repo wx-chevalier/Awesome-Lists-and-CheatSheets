@@ -13,3 +13,5 @@
 - [2021-emqx ![code](https://ng-tech.icu/assets/code.svg)](https://www.emqx.io/): The world's most scalable distributed MQTT broker with a high-performance real-time message processing engine, powering event streaming for IoT devices at massive scale.
 
 - [vernemq ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vernemq/vernemq): A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases.
+
+- [2023-BifroMQ ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/baidu/bifromq)](https://github.com/baidu/bifromq): BifroMQ is a high-performance, distributed MQTT broker implementation that seamlessly integrates native multi-tenancy support. It is designed to support building large-scale IoT device connections and messaging systems, Currently, it serves as the foundational technology for Baidu AI Cloud IoTCore , a public serverless cloud service.

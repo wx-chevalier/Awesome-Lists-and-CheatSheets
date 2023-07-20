@@ -4,7 +4,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [2022-《NASM 程序设计》📚](https://www.yuque.com/qyuhen/asm)
 

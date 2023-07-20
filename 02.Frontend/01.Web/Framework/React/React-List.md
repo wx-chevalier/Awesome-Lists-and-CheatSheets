@@ -8,7 +8,7 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 # Overview | 概述
 
-## Book
+## Books
 
 - [2016-《React In-depth: An exploration of UI development》📚](https://www.gitbook.com/book/developmentarc/react-indepth/details):Our goal with this GitBook is to document our process, share our research and try to organize our experiences into a single living document. Too be honest, this is a pretty lofty goal. We may not achieve this goal, but hopefully we can get some helpful thoughts down.
 
@@ -66,7 +66,7 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 - [Overreacted #Blog#](https://overreacted.io/): Blog by Dan Abramov.
 
-## Course & Conf | 课程与会议
+## Courses & Conf | 课程与会议
 
 - [2017 React 大会](http://conf.reactjs.org/livestream)：2017 年 React Conf 于 3 月 13 日、14 日成功举办，会上来自世界各地的开发者就 React Fiber、Flow、Performance、React Native 等多个主题发表了演说与讨论，推荐选择自己喜欢的演讲视频观看。
 
@@ -96,7 +96,7 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 - [Big-React #Series#](https://github.com/BetaSu/big-react): 跟着我，从 0 实现 React18。
 
-# Tutorial | 教程
+## Tutorial | 教程
 
 - [2016-Learning React with Create-React-App #Series#](https://parg.co/bhf)
 
@@ -114,12 +114,4 @@ Source files are hosted in [Github](https://github.com/wx-chevalier/Awesome-List
 
 - [2018-React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap): Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn in order to become a React developer.
 
-## Example
-
-- [2017-A React TODOs example, explained](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)
-
-- [2017-Create a realtime football voting app using React, Redux, React-Router-v4 and Firebase](https://parg.co/bhD): In this series of tutorials, we’ll be creating a football voting app using React, Redux, Redux-Saga, React-Router v4, and Firebase. In this first part, we will setup the project. We’re going to use create-react-app to scaffold the initial project structure, tweak it a bit, and then add the necessary libraries that we’ll be using.
-
-- [2017-How to Build a ToDo App Using React, Redux, and Webpack](https://parg.co/bMT): In this tutorial I’m going to show you how to create a simple “ToDo” app using React, Redux, a little bit of Node, and Cosmic JS.
-
----
+- [2023-Yazdun/react-ts-fcc-tutorial #Tutorial# ![star](https://img.shields.io/github/stars/Yazdun/react-ts-fcc-tutorial)](https://github.com/Yazdun/react-ts-fcc-tutorial): In today's JavaScript landscape, TypeScript is gaining more and more popularity, and React developers are increasingly embracing it. If you're a React developer looking to explore TypeScript or enhance your skills with it, this tutorial is just for you. I'll guide you through using TypeScript in a React application by building a classic todo app.

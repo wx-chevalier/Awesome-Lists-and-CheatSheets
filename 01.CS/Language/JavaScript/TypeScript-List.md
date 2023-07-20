@@ -12,7 +12,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [2015-《TypeScript Handbook》📚](https://github.com/Microsoft/TypeScript-Handbook): The TypeScript Handbook is a comprehensive guide to the TypeScript language.
 

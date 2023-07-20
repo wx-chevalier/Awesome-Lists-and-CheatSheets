@@ -2,7 +2,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [《Spring 实战》-5th](https://github.com/PotoYang/spring-in-action-v5-translate): Spring 生态系统中的每个 Spring 版本、Spring Boot 和所有其他项目都释放了一些新的惊人功能，重新点燃了开发应用程序的乐趣。随着 Spring 5.0 发行版和 Spring Boot 2.0 发行版的出现，Spring 到达了一个具有里程碑意义的节点，可以享受的 Spring 越来越多，因此编写另一版 《Spring 实战》是不需要动脑筋的事情。
 

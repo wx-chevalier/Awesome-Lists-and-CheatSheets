@@ -34,7 +34,7 @@
 
 # Resource
 
-## Book | 书籍
+## Books | 书籍
 
 - [2018-The Vue Handbook ![code](https://ng-tech.icu/assets/code.svg)](https://vuehandbook.com/): It targets beginners, covering the 20% that makes you accomplish the 80% of the job. It’s not a definitive guide to Vue, but it can be helpful when you are starting out.
 

@@ -6,7 +6,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [2023-《Quantum Computing 101》 📚](https://academy.meetiqm.com/curriculum/index.html): Our modules are exploratory in nature. Thus, you will actively experience the different ideas of quantum computing, its algorithms and its applications.
 

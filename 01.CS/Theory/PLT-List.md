@@ -24,13 +24,13 @@
 
 - [Collection of cheat sheets for programmers 🗃️](https://hownot2code.com/2016/09/29/collection-of-cheat-sheets-for-programmers/): Even the most experienced programmers aren’t able to remember all CSS properties or a correct way to write all commands. That’s why it’s always useful to have a cheat sheet at hand in the bookmarks of a browser.
 
-## Course
+## Courses
 
 - [2012-Learning SICP 🎥](https://github.com/DeathKing/Learning-SICP): MIT 视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
 
 - [2016-History of Programming Languages, Spring '17 Edition 🎥](https://felleisen.org/matthias/7480-s21/index.html):The primary goal is to understand (some of) the discipline as it exists today and how some of its major themes evolved. Initially, the seminar will focus on themes that NUPRL faculty members have developed over the many decades of their careers. The choice of other themes will depend on students’ interests and preferences. The secondary goal is to develop basic skills for understanding and describing research themes. Every student will learn to study a theme via a series of papers, prepare an annotated bibliography, and present the key steps in the evaluation of the theme. 参考资料：[nuprl/hopl-s2017](https://github.com/nuprl/hopl-s2017)。
 
-## Book
+## Books
 
 - [2013-Tim Stuart-Understanding Computation》📚](http://computationbook.com/): You can learn computation theory and programming language design in an engaging, practical way. Understanding Computation explains theoretical computer science in a context you'll recognize, helping you appreciate why these ideas matter and how they can inform your day-to-day programming.
 

@@ -18,6 +18,6 @@
 
 - [Gradle 奇技淫巧](http://blog.chengyunfeng.com/)
 
-## Book
+## Books
 
 - [Gradle 实战](https://lippiouyang.gitbooks.io/gradle-in-action-cn/content/index.html)

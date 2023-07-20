@@ -16,7 +16,7 @@
 
 - [2020-netty-learning-example #Series# ![star](https://img.shields.io/github/stars/sanshengshui/netty-learning-example)](https://github.com/sanshengshui/netty-learning-example): 🥚 Netty 实践学习案例，见微知著！带着你的心，跟着教程。我相信你行欧。
 
-## Book
+## Books
 
 - [2020-《Netty 4.x 用户指南》📚](https://github.com/waylau/netty-4-user-guide): 《Netty 4.x 用户指南》中文翻译（包含了官方文档以及其他文章），并在原文的基础上，插入配图，图文并茂方便用户理解。至今为止，Netty 的最新版本为 Netty 4.1.79.Final(2022-7-11)。
 

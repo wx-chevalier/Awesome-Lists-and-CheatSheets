@@ -14,7 +14,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [2017-MySQL 学习笔记》📚](http://notes.diguage.com/mysql/): 本文档可以看作是 D 瓜哥 学习《高性能 MySQL》时做的读书笔记。为了让内容更丰富易懂，还参考了《MySQL 技术内幕》和《数据库索引设计与优化》。
 

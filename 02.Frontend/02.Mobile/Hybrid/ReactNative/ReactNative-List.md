@@ -18,7 +18,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [2016-Learning React Native》📚](https://www.safaribooksonline.com/library/view/learning-react-native/9781491929049/preface01.html#idp116000)：[本书的附带的很多教学代码，还是很不错的](https://github.com/bonniee/learning-react-native)。
 

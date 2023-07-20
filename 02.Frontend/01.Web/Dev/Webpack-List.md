@@ -8,7 +8,7 @@
 
 # Resource | 资源
 
-## Book | 书籍
+## Books | 书籍
 
 - [SurviveJS Webpack》📚](https://survivejs.com/webpack/): SurviveJS - Webpack is meant for beginner to intermediate users of webpack.
 

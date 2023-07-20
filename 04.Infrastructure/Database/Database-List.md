@@ -32,7 +32,7 @@
 
 - [数据库内核 #Series#](https://zhuanlan.zhihu.com/c_206071340): 解码数据库实现
 
-## Book
+## Books
 
 - [2007-Architecture of a Database System #Paper#](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf): This paper presents an architectural discussion of DBMS design principles, including process models, parallel architecture, storage system design, transaction system implementation, query processor and optimizer architectures, and typical shared components and utilities.
 
@@ -72,7 +72,7 @@
 
 - [2021-Awesome Database Learning 🗃️](https://github.com/pingcap/awesome-database-learning): A list of learning materials to understand databases internals.
 
-## Course
+## Courses
 
 - [TP 301: TinySQL, a distributed relational database in Go 🎥](https://github.com/pingcap-incubator/tinysql): TinySQL is a course designed to teach you how to implement a distributed relational database in Go. TinySQL is also the name of the simplifed version of TiDB.
 

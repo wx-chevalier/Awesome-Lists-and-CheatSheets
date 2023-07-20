@@ -12,7 +12,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [GSYFlutterBook ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/CarGuo/GSYFlutterBook): Flutter 完整开发实战详解系列，GSY Flutter 系列专栏整合，不定期更新
 

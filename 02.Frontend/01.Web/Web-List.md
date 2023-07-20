@@ -36,7 +36,7 @@
 
 - [web.dev #Blog#](https://web.dev/blog/): As the web advances, users' expectations get higher. With web.dev's guidance, you can give your users the best possible experience, wherever they are.
 
-## Book | 书籍
+## Books | 书籍
 
 - [2017-Front End Developer Handbook 2017》📚](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
 
@@ -72,7 +72,7 @@
 
 - [2020-frontend-challenges ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/felipefialho/frontend-challenges): 💥 Listing some playful open-source's challenges of jobs to test your knowledge
 
-## Course | 课程
+## Courses | 课程
 
 - [2020-Web Dev For Beginners 🎥](https://github.com/microsoft/Web-Dev-For-Beginners): Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about JavaScript, CSS, and HTML basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 

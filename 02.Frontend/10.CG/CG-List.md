@@ -16,7 +16,7 @@
 
 - [李康 #Blog#](https://kangli.me/zhs/): 我的主要专业兴趣是几何建模与处理，计算机图形学及实时渲染，计算机辅助设计和制造，数值方法与人工智能。在校期间大部分研究课题是由美国国家科学基金会和空军研究实验室赞助，一些论文也在知名会议获得过最佳论文奖。
 
-## Book
+## Books
 
 - [2001-Michael Abrash-Graphics Programming》📚](https://github.com/jagregory/abrash-black-book): Markdown source for Michael Abrash's Graphics Programming Black Book
 
@@ -38,7 +38,7 @@
 
 - [2021-3D-Machine-Learning ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/timzhang642/3D-Machine-Learning)](https://github.com/timzhang642/3D-Machine-Learning): In recent years, tremendous amount of progress is being made in the field of 3D Machine Learning, which is an interdisciplinary field that fuses computer vision, computer graphics and machine learning. This repo is derived from my study notes and will be used as a place for triaging new research papers.
 
-## Course
+## Courses
 
 - [John C. Hart Coursera](https://zh.coursera.org/learn/datavisualization)
 

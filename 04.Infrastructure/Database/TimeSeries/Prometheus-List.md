@@ -6,7 +6,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [2017-Prometheus Book》📚](https://yunlzheng.gitbook.io/prometheus-book/): 这里假定你已经对 Linux 系统以及 Docker 技术有一定的基本认识，也可能使用过像 Java，Golang 这样的编程语言，在本书中我们不会事无巨细的讲述所有事。
 

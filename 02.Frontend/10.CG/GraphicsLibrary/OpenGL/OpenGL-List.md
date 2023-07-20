@@ -2,7 +2,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [2008-Songho OpenGL Tutorials》📚](http://www.songho.ca/opengl/index.html): This page contains fundamental OpenGL tutorials and notes. All example programs are written by C++ with Code::Blocks IDE, as well as makefiles for Linux and Mac. I mostly use GLUT/FreeGLUT, and each example project includes FreeGLUT header and library files in it for MinGW environment.
 

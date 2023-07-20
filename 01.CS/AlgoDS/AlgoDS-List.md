@@ -26,7 +26,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2021-《algorithm-note》中文版](https://github.com/Dairongpeng/algorithm-note): 该系列包括数组，链表，树，图，递归，DP，有序表等相关数据结构与算法的讲解及代码实现。
 
-## Book
+## Books
 
 - [2011-《编程之法：面试和算法心得》📚](https://github.com/julycoding/The-Art-Of-Programming-By-July): 原编程艺术系列从 2011 年 4 月至今，写了 42 个编程问题，在创作的过程当中，得到了很多朋友的支持，特别是博客上随时都会有朋友不断留言，或提出改进建议，或 show 出自己的思路、代码，或指正 bug。为更好的改进、优化、增补编程艺术系列，特把博客上的这个程序员编程艺术系列和博客内其它部分经典文章同步到此，成立本项目。
 
@@ -62,7 +62,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [Algorithm Visualizer ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/algorithm-visualizer/algorithm-visualizer): Interactive Online Platform that Visualizes Algorithms from Code.
 
-## Course | 课程
+## Courses | 课程
 
 # Java
 

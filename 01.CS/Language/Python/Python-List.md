@@ -36,7 +36,7 @@
 
 # Resource | 资源
 
-## Book
+## Books
 
 - [《简明 Python 教程》📚](https://www.gitbook.com/book/lenkimo/byte-of-python-chinese-edition/details):《A Byte of Python》是一本由 Swaroop C H 编写，旨在于介绍如何使用 Python 语言进行编程的自由图书。它以教材与指南的形式为入门者介绍 Python 语言。如果你对电脑知识的了解仅限于如何保存文本文件的话，那这本书就是为你准备的。
 
@@ -58,13 +58,15 @@
 
 - [2019-Awesome Python Applications 🗃️](https://github.com/mahmoud/awesome-python-applications): 💿 Free software that works great, and also happens to be open-source Python
 
-## Course
+## Courses
 
 - [c9-python-getting-started 🎥](https://github.com/microsoft/c9-python-getting-started): The series of videos on Channel 9 is designed to help get you up to speed on Python.
 
 - [2020-Practical Python Programming 🎥](https://github.com/dabeaz-course/practical-python): The material you see here is the heart of an instructor-led Python training course used for corporate training and professional development.
 
 - [2022-Futurecoder 🎥 ![star](https://img.shields.io/github/stars/alexmojaki/futurecoder)](https://github.com/alexmojaki/futurecoder): This is a 100% free and interactive course for people to teach themselves programming in Python, especially complete beginners at programming. It is carefully designed to reduce frustration and guide the user while still ensuring that they learn how to solve problems. The goal is for as many people as possible to learn programming.
+
+- [2023-Advanced Python Mastery #Course#](https://github.com/dabeaz-course/python-mastery): An exercise-driven course on Advanced Python Programming that was battle-tested several hundred times on the corporate-training circuit for more than a decade. Written by David Beazley, author of the Python Cookbook, 3rd Edition (O'Reilly) and Python Distilled (Addison-Wesley). Released under a Creative Commons license. Free of ads, tracking, pop-ups, newsletters, and AI.
 
 ## Series
 

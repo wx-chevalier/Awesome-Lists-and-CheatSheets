@@ -34,7 +34,7 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [2017-Must-Watch JavaScript ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/U37): This is a collection of well-received talks about JavaScript, covering topics such as ES6, JavaScript frameworks, client-side apps, mobile integration, JavaScript performance, tooling, leveling up, and more.
 
-## Book
+## Books
 
 - [2015-ECMAScript 6 入门》📚](http://es6.ruanyifeng.com/#README)：ECMAScript 6 入门是由阮一峰老师编写的一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
 
@@ -68,7 +68,7 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [awesome-javascript-guide](https://github.com/wwsun/awesome-javascript)
 
-## Course
+## Courses
 
 - [2020-20+ Web Projects With Vanilla JavaScript 🎥](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries.
 

@@ -16,7 +16,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [2018-《WebGL Fundamentals》📚](https://webglfundamentals.org/webgl/lessons/zh_cn/): 这有一系列教程，从 WebGL 的基本理论讲起。它们不像大多数其他教程那样改编自旧的 OpenGL 文章。它们去旧迎新，丢弃一些过时的思想，让你彻底了解 WebGL 的工作原理。
 

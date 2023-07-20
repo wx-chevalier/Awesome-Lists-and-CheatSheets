@@ -10,7 +10,7 @@
 
 # Resource
 
-## Course
+## Courses
 
 - [Learn Structured Query Language 🎥](https://www.w3resource.com/sql/tutorials.php): SQL Tutorial of w3resource aims to meet the need of a beginner to learn SQL without any prior experience.
 

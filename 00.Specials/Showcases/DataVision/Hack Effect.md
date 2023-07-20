@@ -1,0 +1,3 @@
+# Hack Effect
+
+- [bartobri/no-more-secrets ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/bartobri/no-more-secrets)](https://github.com/bartobri/no-more-secrets): This project provides a command line tool called nms that recreates the famous data decryption effect seen on screen in the 1992 hacker movie Sneakers. For reference, you can see this effect at 0:35 in this movie clip. This command works on piped data. Pipe any ASCII or UTF-8 text to nms, and it will apply the Hollywood effect, initially showing encrypted data, then starting a decryption sequence to reveal the original plain-text characters.

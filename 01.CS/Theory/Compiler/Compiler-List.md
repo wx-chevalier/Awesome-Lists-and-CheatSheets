@@ -20,7 +20,7 @@ There are massive curated links to help you study anything about Compiler head f
 
 # Resource
 
-## Course
+## Courses
 
 - [2020-Advanced Compilers: The Self-Guided Online Course 🎥](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/): CS 6120 is a PhD-level Cornell CS course by Adrian Sampson on programming language implementation.
 

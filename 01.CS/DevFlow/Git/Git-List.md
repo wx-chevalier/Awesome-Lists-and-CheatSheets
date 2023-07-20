@@ -8,7 +8,7 @@
 
 # Resource
 
-## Book
+## Books
 
 - [《Git recipes》📚](https://github.com/geeeeeeeeek/git-recipes): 高质量的 Git 中文教程，来自国外社区的优秀文章和个人实践
 
