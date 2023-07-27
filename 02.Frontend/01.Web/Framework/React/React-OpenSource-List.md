@@ -20,6 +20,8 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 - [2021-Fakeflix ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Th3Wall/Fakeflix): Not the usual clone that you can find on the web.
 
+- [2023-Invoice Dragon ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/LaniJ/invoice-dragon)](https://github.com/LaniJ/invoice-dragon): Invoice Dragon is a lightning-fast application that simplifies the process of generating professional Invoices and Receipts for your business needs.
+
 ## Scratch
 
 - [2017-Didact ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hexacta/didact): This repository goes together with a series of posts that explains how to build React from scratch step by step.
