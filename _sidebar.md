@@ -770,14 +770,16 @@
           - [4.8.2.1.1 Agile List](/03.System/10.SoftwareEngineering/TechMgt/Agile/Agile-List.md)
         - [4.8.2.2 TechMgt List](/03.System/10.SoftwareEngineering/TechMgt/TechMgt-List.md)
     - 4.9 11.BigTech [7]
-      - [4.9.1 Awesome Giants](/03.System/11.BigTech/Awesome-Giants.md)
-      - [4.9.2 LinkedIn List](/03.System/11.BigTech/LinkedIn-List.md)
-      - [4.9.3 Netflix List](/03.System/11.BigTech/Netflix-List.md)
-      - [4.9.4 Tencent List](/03.System/11.BigTech/Tencent-List.md)
-      - [4.9.5 XiaoMi List](/03.System/11.BigTech/XiaoMi-List.md)
-      - [4.9.6 阿里](/03.System/11.BigTech/阿里.md)
-      - [4.9.7 阿里巴巴](/03.System/11.BigTech/阿里巴巴/README.md)
-        
+      - 4.9.1 Amazon [1]
+        - 4.9.1.1 AWS [1]
+          - [4.9.1.1.1 S3 List](/03.System/11.BigTech/Amazon/AWS/S3-List.md)
+      - [4.9.2 Awesome Giants](/03.System/11.BigTech/Awesome-Giants.md)
+      - [4.9.3 LinkedIn List](/03.System/11.BigTech/LinkedIn-List.md)
+      - [4.9.4 Netflix List](/03.System/11.BigTech/Netflix-List.md)
+      - [4.9.5 Tencent List](/03.System/11.BigTech/Tencent-List.md)
+      - [4.9.6 XiaoMi List](/03.System/11.BigTech/XiaoMi-List.md)
+      - [4.9.7 阿里巴巴 [1]](/03.System/11.BigTech/阿里巴巴/README.md)
+        - [4.9.7.1 阿里](/03.System/11.BigTech/阿里巴巴/阿里.md)
     - 4.10 20.Solutions [7]
       - 4.10.1 CMS [1]
         - [4.10.1.1 CMS List](/03.System/20.Solutions/CMS/CMS-List.md)
