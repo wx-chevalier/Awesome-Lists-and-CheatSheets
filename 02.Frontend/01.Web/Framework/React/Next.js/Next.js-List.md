@@ -21,3 +21,5 @@
 ## Library
 
 - [2023-Platforms Starter Kit ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/vercel/platforms)](https://github.com/vercel/platforms): A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
+
+- [2023-OpenStatus ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/openstatusHQ/openstatus)](https://github.com/openstatusHQ/openstatus): OpenStatus is open-source status page and alerting system. We are building it publicly for everyone to see our progress. We believe great softwares are built this way.

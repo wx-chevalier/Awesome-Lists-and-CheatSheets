@@ -58,6 +58,8 @@
 
 - [2020-oneTBB ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/oneapi-src/oneTBB)](https://github.com/oneapi-src/oneTBB): oneTBB is a flexible C++ library that simplifies the work of adding parallelism to complex applications, even if you are not a threading expert.
 
+- [2022-alibaba/async_simple ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/alibaba/async_simple)](https://github.com/alibaba/async_simple): The async_simple is a library offering simple, light-weight and easy-to-use components to write asynchronous codes. The components offered include the Lazy (based on C++20 stackless coroutine), the Uthread (based on stackful coroutine) and the traditional Future/Promise.
+
 - [2023-libcopp ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/owent/libcopp)](https://github.com/owent/libcopp): cross-platform coroutine library in c++
 
 - [2023-CodingHanYa/workspace ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CodingHanYa/workspace)](https://github.com/CodingHanYa/workspace): workspace 是基于 C++11 的轻量级异步执行框架，支持：通用任务异步并发执行、优先级任务调度、自适应动态线程池、高效静态线程池、异常处理机制等。

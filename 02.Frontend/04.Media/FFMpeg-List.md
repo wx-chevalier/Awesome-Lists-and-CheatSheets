@@ -4,6 +4,10 @@
 
 - [2022-FFmpeg: The Ultimate Guide](https://img.ly/blog/ultimate-guide-to-ffmpeg/): This guide covers the ins and outs of FFmpeg starting with fundamental concepts and moving to media transcoding and video and audio processing providing practical examples along the way.
 
+- [2023-ffmprovisr #Series#](https://amiaopensource.github.io/ffmprovisr/): This page does not have search functionality, but you can open all recipes (second option in the sidebar) and use your browser's search tool (often ctrl+f or cmd+f) to perform a keyword search through all recipes.
+
+
+
 # OpenSource
 
 - [2019-ffmpeg.wasm ![code](https://ng-tech.icu/assets/code.svg)](https://ffmpegwasm.github.io/): ffmpeg.wasm is a pure WebAssembly/JavaScript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
