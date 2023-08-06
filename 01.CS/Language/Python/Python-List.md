@@ -48,8 +48,6 @@
 
 - [2017-《Cracking Codes with Python》📚](https://inventwithpython.com/cracking/): Cracking Codes with Python teaches complete beginners how to program in the Python programming language.
 
-- [2019-Python 100 天从新手到大师 #Series#](https://github.com/jackfrued/Python-100-Days): 我们的目标是打造一个优质的 Python 交流社区，一方面为想学习 Python 的初学者扫平入门过程中的重重障碍；另一方为新入行的开发者提供问道的途径，帮助他们迅速成长为优秀的职业人。
-
 - [2019-Halterman-《Fundamentals of Python Programming》📚](https://python.cs.southern.edu/pythonbook/pythonbook.pdf): Fundamentals of Python Programming.
 
 - [2019-《Python 最佳实践指南》📚](https://pythonguidecn.readthedocs.io/zh/latest/): 这份人工编写的指南旨在为 Python 初学者和专家提供一个 关于 Python 安装、配置、和日常使用的最佳实践手册。
@@ -75,3 +73,5 @@
 - [2020-Ultimate Python study guide #Series#](https://github.com/huangsam/ultimate-python): Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍
 
 - [2020-30-Days-Of-Python #Series# ![star](https://img.shields.io/github/stars/Asabeneh/30-Days-Of-Python)](https://github.com/Asabeneh/30-Days-Of-Python): 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
+
+- [2019-《Python 100 天从新手到大师》 #Series#](https://github.com/jackfrued/Python-100-Days): 我们的目标是打造一个优质的 Python 交流社区，一方面为想学习 Python 的初学者扫平入门过程中的重重障碍；另一方为新入行的开发者提供问道的途径，帮助他们迅速成长为优秀的职业人。
