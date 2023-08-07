@@ -18,6 +18,8 @@
 
 - [2023-skateshop ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sadmann7/skateshop)](https://github.com/sadmann7/skateshop): This is an open source e-commerce skateshop build with everything new in Next.js 13. It is built with the T3 Stack and bootstrapped with create-t3-app.
 
+- [2023-adrianhajdin/threads ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/adrianhajdin/threads)](https://github.com/adrianhajdin/threads): Develop Threads, Next.js 13 app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever!
+
 ## Library
 
 - [2023-Platforms Starter Kit ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/vercel/platforms)](https://github.com/vercel/platforms): A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.

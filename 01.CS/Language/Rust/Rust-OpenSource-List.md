@@ -24,7 +24,9 @@
 
 - [komorebi ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/LGUG2Z/komorebi): komorebi is a tiling window manager that works as an extension to Microsoft's Desktop Window Manager in Windows 10 and above.
 
-- [2022-sniffnet ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GyulyVGC/sniffnet): Cross-platform application to monitor your network traffic with ease
+- [2022-sniffnet ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GyulyVGC/sniffnet): Cross-platform application to monitor your network traffic with ease.
+
+- [2023-SuanCaiYv/prim ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/SuanCaiYv/prim)](https://github.com/SuanCaiYv/prim): 使用纯 Rust 实现的即时通讯系统。
 
 ## CLI Application
 

@@ -15,3 +15,7 @@
 ## Books
 
 - [2023-Learn_Prompting ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/trigaten/Learn_Prompting)](https://github.com/trigaten/Learn_Prompting): This website is a free, open-source guide on prompt engineering. Contributions are welcome! Harsh criticism is welcome too!
+
+# OpenSource
+
+- [2023-prompttools ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hegelai/prompttools)](https://github.com/hegelai/prompttools): Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate).

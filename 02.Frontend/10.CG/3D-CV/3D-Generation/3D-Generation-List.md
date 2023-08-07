@@ -18,6 +18,8 @@
 
 - [2023-zero123 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/cvlab-columbia/zero123)](https://github.com/cvlab-columbia/zero123): We learn to control the camera perspective in large-scale diffusion models, enabling zero-shot novel view synthesis and 3D reconstruction from a single image.
 
+- [2023-guochengqian/Magic123 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/guochengqian/Magic123)](https://github.com/guochengqian/Magic123): One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors.
+
 ## Human Head Reconstruction
 
 - [SizheAn/PanoHead ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/SizheAn/PanoHead)](https://github.com/SizheAn/PanoHead): Code Repository for CVPR 2023 Paper "PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 degree"

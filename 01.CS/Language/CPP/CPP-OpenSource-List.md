@@ -38,7 +38,7 @@
 
 - [2017-MTuner ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/milostosic/MTuner)](https://github.com/milostosic/MTuner): MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms.
 
-- [2023-martinus/nanobench ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/martinus/nanobench)](https://github.com/martinus/nanobench):
+- [2022-martinus/nanobench ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/martinus/nanobench)](https://github.com/martinus/nanobench): Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20
 
 # Library
 

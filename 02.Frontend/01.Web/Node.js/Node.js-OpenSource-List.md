@@ -39,6 +39,8 @@
 
 - [Nest ![code](https://ng-tech.icu/assets/code.svg)](https://nestjs.com/): A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
 
+- [2023-expressots/expressots ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/expressots/expressots)](https://github.com/expressots/expressots): A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🚀.
+
 ## HTTP Server
 
 - [node-formidable ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/felixge/node-formidable): A node.js module for parsing form data, especially file uploads.
