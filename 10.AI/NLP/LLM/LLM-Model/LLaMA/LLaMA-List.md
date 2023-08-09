@@ -1,5 +1,7 @@
 # LLaMA
 
+- [2023-Llama from scratch (or how to implement a paper without crying)](https://blog.briankitano.com/llama-from-scratch/): I want to provide some tips from my experience implementing a paper. I'm going to cover implementing a dramatically scaled-down version of Llama for training TinyShakespeare. This post is heavily inspired by Karpathy's Makemore series, which I highly recommend.
+
 # OpenSource
 
 - [2023-llama-dl ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/shawwn/llama-dl)](https://github.com/shawwn/llama-dl): High-speed download of LLaMA, Facebook's 65B parameter GPT model

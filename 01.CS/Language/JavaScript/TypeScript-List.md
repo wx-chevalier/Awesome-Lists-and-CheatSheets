@@ -32,6 +32,8 @@
 
 - [2019-TypeScript Evolution #Series#](https://mariusschulz.com/blog/series/typescript-evolution): The TypeScript Evolution series consists of 40 posts.
 
+- [2023-TypeScript 教程 #Series#](https://github.com/wangdoc/typescript-tutorial): TypeScript 开源教程，介绍基本概念和用法，面向初学者。
+
 # Tutorial
 
 - [2016-Let's Learn TypeScript](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/17-typescript)

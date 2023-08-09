@@ -1,7 +1,5 @@
 # Diagram
 
-- [2019-excalidraw](https://excalidraw.com/): Virtual whiteboard for sketching hand-drawn like diagrams.
-
 ## Flow Diagram
 
 > 迁移到了 《[Workflow-List](https://github.com/wx-chevalier/Awesome-Lists?q=Workflow)》
