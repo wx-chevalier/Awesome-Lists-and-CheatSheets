@@ -1,0 +1,3 @@
+# Digital Twin OpenSource List
+
+- [FaceChain ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/modelscope/facechain)](https://github.com/modelscope/facechain): FaceChain is a deep-learning toolchain for generating your Digital-Twin. With a minimum of 1 portrait-photo, you can create a Digital-Twin of your own and start generating personal photos in different settings (work photos as starter!). You may train your Digital-Twin model and generate photos via FaceChain's Python scripts, or via the familiar Gradio interface. You can also experience FaceChain directly with our ModelScope Studio.

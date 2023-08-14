@@ -1,0 +1,3 @@
+# Transformer OpenSource List
+
+- [2023~transformers.js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/xenova/transformers.js)](https://github.com/xenova/transformers.js): Run 🤗 Transformers in your browser! We currently support BERT, ALBERT, DistilBERT, T5, T5v1.1, FLAN-T5, GPT2, BART, CodeGen, Whisper, CLIP, Vision Transformer, and VisionEncoderDecoder models, for a variety of tasks including: masked language modelling, text classification, text-to-text generation, translation, summarization, question answering, text generation, automatic speech recognition, image classification, zero-shot image classification, and image-to-text.

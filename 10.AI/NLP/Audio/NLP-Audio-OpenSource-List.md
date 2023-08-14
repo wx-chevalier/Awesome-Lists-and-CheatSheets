@@ -1,3 +1,0 @@
-# NLP Audio OpenSource List
-
-- [2023-Bark ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/suno-ai/bark)](https://github.com/suno-ai/bark): Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communications like laughing, sighing and crying. To support the research community, we are providing access to pretrained model checkpoints, which are ready for inference and available for commercial use.
