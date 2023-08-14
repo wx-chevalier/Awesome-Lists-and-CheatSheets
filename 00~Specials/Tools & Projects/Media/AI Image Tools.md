@@ -6,6 +6,10 @@
 
 - [Pixian.AI](https://pixian.ai/remove-image-backgrounds): Great quality at a fraction of the price And free while in Beta.
 
+# AIGC
+
+- [2023~Fooocus ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lllyasviel/Fooocus)](https://github.com/lllyasviel/Fooocus): Fooocus is an image generating software. Fooocus is a rethinking of Stable Diffusion and Midjourney’s designs: Learned from Stable Diffusion, the software is offline, open source, and free. Learned from Midjourney, the manual tweaking is not needed, and users only need to focus on the prompts and images.
+
 # OCR
 
 - [Umi-OCR ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hiroi-sora/Umi-OCR): OCR 批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。基于 PaddleOCR 。
