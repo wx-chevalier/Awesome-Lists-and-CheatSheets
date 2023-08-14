@@ -48,6 +48,8 @@
 
 - [jassics/security-study-plan ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jassics/security-study-plan)](https://github.com/jassics/security-study-plan): Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
 
+- [2023-PeiQi-WIKI-Book 🗃️ ![star](https://img.shields.io/github/stars/PeiQi0/PeiQi-WIKI-Book)](https://github.com/PeiQi0/PeiQi-WIKI-Book): PeiQi 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，CTF 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
+
 ## Courses
 
 - [Beginner Network Pentesting #Series#](https://github.com/hmaverickadams/Beginner-Network-Pentesting): Welcome to the Beginner Network Pentesting course. Previously, the course was delivered weekly on Twitch and built from lessons learned in the previous week.
