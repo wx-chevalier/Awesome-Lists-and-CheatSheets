@@ -178,200 +178,200 @@
           - [1.5.6.1.8 WebAssembly](/00~Specials/Weekly/SemiannualReport/2017-1/WebAssembly.md)
       - [1.5.7 TEMPLATE](/00~Specials/Weekly/TEMPLATE.md)
       - [1.5.8 Template en](/00~Specials/Weekly/Template-en.md)
-  - 2 01~CS.CS [9]
+  - 2 01~CS [9]
     - 2.1 AlgoDS [3]
-      - [2.1.1 AlgoDS CPP List](/01~CS.CS/AlgoDS/AlgoDS-CPP-List.md)
-      - [2.1.2 AlgoDS List](/01~CS.CS/AlgoDS/AlgoDS-List.md)
+      - [2.1.1 AlgoDS CPP List](/01~CS/AlgoDS/AlgoDS-CPP-List.md)
+      - [2.1.2 AlgoDS List](/01~CS/AlgoDS/AlgoDS-List.md)
       - 2.1.3 Category [12]
-        - [2.1.3.1 Compression List](/01~CS.CS/AlgoDS/Category/Compression-List.md)
-        - [2.1.3.2 GameTheory List](/01~CS.CS/AlgoDS/Category/GameTheory-List.md)
-        - [2.1.3.3 Graph List](/01~CS.CS/AlgoDS/Category/Graph-List.md)
-        - [2.1.3.4 Hash List](/01~CS.CS/AlgoDS/Category/Hash-List.md)
-        - [2.1.3.5 Index List](/01~CS.CS/AlgoDS/Category/Index-List.md)
-        - [2.1.3.6 LeetCode List](/01~CS.CS/AlgoDS/Category/LeetCode-List.md)
-        - [2.1.3.7 LinearList List](/01~CS.CS/AlgoDS/Category/LinearList-List.md)
-        - [2.1.3.8 NumberTheory List](/01~CS.CS/AlgoDS/Category/NumberTheory-List.md)
+        - [2.1.3.1 Compression List](/01~CS/AlgoDS/Category/Compression-List.md)
+        - [2.1.3.2 GameTheory List](/01~CS/AlgoDS/Category/GameTheory-List.md)
+        - [2.1.3.3 Graph List](/01~CS/AlgoDS/Category/Graph-List.md)
+        - [2.1.3.4 Hash List](/01~CS/AlgoDS/Category/Hash-List.md)
+        - [2.1.3.5 Index List](/01~CS/AlgoDS/Category/Index-List.md)
+        - [2.1.3.6 LeetCode List](/01~CS/AlgoDS/Category/LeetCode-List.md)
+        - [2.1.3.7 LinearList List](/01~CS/AlgoDS/Category/LinearList-List.md)
+        - [2.1.3.8 NumberTheory List](/01~CS/AlgoDS/Category/NumberTheory-List.md)
         - 2.1.3.9 Optimization [3]
-          - [2.1.3.9.1 DP List](/01~CS.CS/AlgoDS/Category/Optimization/DP-List.md)
-          - [2.1.3.9.2 GA List](/01~CS.CS/AlgoDS/Category/Optimization/GA-List.md)
+          - [2.1.3.9.1 DP List](/01~CS/AlgoDS/Category/Optimization/DP-List.md)
+          - [2.1.3.9.2 GA List](/01~CS/AlgoDS/Category/Optimization/GA-List.md)
           - 2.1.3.9.3 Search [2]
-            - [2.1.3.9.3.1 Search List](/01~CS.CS/AlgoDS/Category/Optimization/Search/Search-List.md)
+            - [2.1.3.9.3.1 Search List](/01~CS/AlgoDS/Category/Optimization/Search/Search-List.md)
             - 2.1.3.9.3.2 Vector Search [2]
-              - [2.1.3.9.3.2.1 Faiss List](/01~CS.CS/AlgoDS/Category/Optimization/Search/Vector%20Search/Faiss-List.md)
-              - [2.1.3.9.3.2.2 Vector Search List](/01~CS.CS/AlgoDS/Category/Optimization/Search/Vector%20Search/Vector-Search-List.md)
-        - [2.1.3.10 Sort List](/01~CS.CS/AlgoDS/Category/Sort-List.md)
-        - [2.1.3.11 String List](/01~CS.CS/AlgoDS/Category/String-List.md)
-        - [2.1.3.12 Tree List](/01~CS.CS/AlgoDS/Category/Tree-List.md)
-    - [2.2 CS List](/01~CS.CS/CS-List.md)
+              - [2.1.3.9.3.2.1 Faiss List](/01~CS/AlgoDS/Category/Optimization/Search/Vector%20Search/Faiss-List.md)
+              - [2.1.3.9.3.2.2 Vector Search List](/01~CS/AlgoDS/Category/Optimization/Search/Vector%20Search/Vector-Search-List.md)
+        - [2.1.3.10 Sort List](/01~CS/AlgoDS/Category/Sort-List.md)
+        - [2.1.3.11 String List](/01~CS/AlgoDS/Category/String-List.md)
+        - [2.1.3.12 Tree List](/01~CS/AlgoDS/Category/Tree-List.md)
+    - [2.2 CS List](/01~CS/CS-List.md)
     - 2.3 CodeStyle [3]
-      - [2.3.1 CleanCode List](/01~CS.CS/CodeStyle/CleanCode-List.md)
-      - [2.3.2 CodeStyle OpenSource List](/01~CS.CS/CodeStyle/CodeStyle-OpenSource-List.md)
-      - [2.3.3 SecurityGuide List](/01~CS.CS/CodeStyle/SecurityGuide-List.md)
+      - [2.3.1 CleanCode List](/01~CS/CodeStyle/CleanCode-List.md)
+      - [2.3.2 CodeStyle OpenSource List](/01~CS/CodeStyle/CodeStyle-OpenSource-List.md)
+      - [2.3.3 SecurityGuide List](/01~CS/CodeStyle/SecurityGuide-List.md)
     - 2.4 Concurrent [3]
-      - [2.4.1 ConcurrentIO List](/01~CS.CS/Concurrent/ConcurrentIO-List.md)
-      - [2.4.2 ConcurrentModel List](/01~CS.CS/Concurrent/ConcurrentModel-List.md)
-      - [2.4.3 ConcurrentProgramming List](/01~CS.CS/Concurrent/ConcurrentProgramming-List.md)
+      - [2.4.1 ConcurrentIO List](/01~CS/Concurrent/ConcurrentIO-List.md)
+      - [2.4.2 ConcurrentModel List](/01~CS/Concurrent/ConcurrentModel-List.md)
+      - [2.4.3 ConcurrentProgramming List](/01~CS/Concurrent/ConcurrentProgramming-List.md)
     - 2.5 DesignPattern [6]
-      - [2.5.1 DesignPattern List](/01~CS.CS/DesignPattern/DesignPattern-List.md)
-      - [2.5.2 FunctionalProgramming List](/01~CS.CS/DesignPattern/FunctionalProgramming-List.md)
-      - [2.5.3 MetaProgramming List](/01~CS.CS/DesignPattern/MetaProgramming-List.md)
-      - [2.5.4 ObjectOrientedProgramming List](/01~CS.CS/DesignPattern/ObjectOrientedProgramming-List.md)
-      - [2.5.5 Programming Paradigm List](/01~CS.CS/DesignPattern/Programming-Paradigm-List.md)
-      - [2.5.6 ReactiveProgramming List](/01~CS.CS/DesignPattern/ReactiveProgramming-List.md)
+      - [2.5.1 DesignPattern List](/01~CS/DesignPattern/DesignPattern-List.md)
+      - [2.5.2 FunctionalProgramming List](/01~CS/DesignPattern/FunctionalProgramming-List.md)
+      - [2.5.3 MetaProgramming List](/01~CS/DesignPattern/MetaProgramming-List.md)
+      - [2.5.4 ObjectOrientedProgramming List](/01~CS/DesignPattern/ObjectOrientedProgramming-List.md)
+      - [2.5.5 Programming Paradigm List](/01~CS/DesignPattern/Programming-Paradigm-List.md)
+      - [2.5.6 ReactiveProgramming List](/01~CS/DesignPattern/ReactiveProgramming-List.md)
     - 2.6 DevFlow [5]
       - 2.6.1 CodeReview [1]
-        - [2.6.1.1 CodeReview List](/01~CS.CS/DevFlow/CodeReview/CodeReview-List.md)
-      - [2.6.2 DevFlow List](/01~CS.CS/DevFlow/DevFlow-List.md)
-      - [2.6.3 DevFlow OpenSource List](/01~CS.CS/DevFlow/DevFlow-OpenSource-List.md)
+        - [2.6.1.1 CodeReview List](/01~CS/DevFlow/CodeReview/CodeReview-List.md)
+      - [2.6.2 DevFlow List](/01~CS/DevFlow/DevFlow-List.md)
+      - [2.6.3 DevFlow OpenSource List](/01~CS/DevFlow/DevFlow-OpenSource-List.md)
       - 2.6.4 Git [4]
-        - [2.6.4.1 Git List](/01~CS.CS/DevFlow/Git/Git-List.md)
-        - [2.6.4.2 Git OpenSource List](/01~CS.CS/DevFlow/Git/Git-OpenSource-List.md)
-        - [2.6.4.3 Git Workflow List](/01~CS.CS/DevFlow/Git/Git-Workflow-List.md)
-        - [2.6.4.4 Github List](/01~CS.CS/DevFlow/Git/Github-List.md)
+        - [2.6.4.1 Git List](/01~CS/DevFlow/Git/Git-List.md)
+        - [2.6.4.2 Git OpenSource List](/01~CS/DevFlow/Git/Git-OpenSource-List.md)
+        - [2.6.4.3 Git Workflow List](/01~CS/DevFlow/Git/Git-Workflow-List.md)
+        - [2.6.4.4 Github List](/01~CS/DevFlow/Git/Github-List.md)
       - 2.6.5 OpenSource [1]
-        - [2.6.5.1 OpenSource List](/01~CS.CS/DevFlow/OpenSource/OpenSource-List.md)
+        - [2.6.5.1 OpenSource List](/01~CS/DevFlow/OpenSource/OpenSource-List.md)
     - 2.7 Language [13]
       - 2.7.1 Assembly [1]
-        - [2.7.1.1 Assembly List](/01~CS.CS/Language/Assembly/Assembly-List.md)
+        - [2.7.1.1 Assembly List](/01~CS/Language/Assembly/Assembly-List.md)
       - 2.7.2 C [2]
-        - [2.7.2.1 C List](/01~CS.CS/Language/C/C-List.md)
-        - [2.7.2.2 C OpenSource List](/01~CS.CS/Language/C/C-OpenSource-List.md)
+        - [2.7.2.1 C List](/01~CS/Language/C/C-List.md)
+        - [2.7.2.2 C OpenSource List](/01~CS/Language/C/C-OpenSource-List.md)
       - 2.7.3 CPP [6]
         - 2.7.3.1 CMake [1]
-          - [2.7.3.1.1 CMake List](/01~CS.CS/Language/CPP/CMake/CMake-List.md)
-        - [2.7.3.2 CPP Compiler List](/01~CS.CS/Language/CPP/CPP-Compiler-List.md)
-        - [2.7.3.3 CPP ConcurrentProgramming List](/01~CS.CS/Language/CPP/CPP-ConcurrentProgramming-List.md)
-        - [2.7.3.4 CPP List](/01~CS.CS/Language/CPP/CPP-List.md)
-        - [2.7.3.5 CPP OpenSource List](/01~CS.CS/Language/CPP/CPP-OpenSource-List.md)
-        - [2.7.3.6 QT List](/01~CS.CS/Language/CPP/QT-List.md)
+          - [2.7.3.1.1 CMake List](/01~CS/Language/CPP/CMake/CMake-List.md)
+        - [2.7.3.2 CPP Compiler List](/01~CS/Language/CPP/CPP-Compiler-List.md)
+        - [2.7.3.3 CPP ConcurrentProgramming List](/01~CS/Language/CPP/CPP-ConcurrentProgramming-List.md)
+        - [2.7.3.4 CPP List](/01~CS/Language/CPP/CPP-List.md)
+        - [2.7.3.5 CPP OpenSource List](/01~CS/Language/CPP/CPP-OpenSource-List.md)
+        - [2.7.3.6 QT List](/01~CS/Language/CPP/QT-List.md)
       - 2.7.4 Erlang [1]
-        - [2.7.4.1 Erlang List](/01~CS.CS/Language/Erlang/Erlang-List.md)
+        - [2.7.4.1 Erlang List](/01~CS/Language/Erlang/Erlang-List.md)
       - 2.7.5 Go [11]
-        - [2.7.5.1 Go Architecture List](/01~CS.CS/Language/Go/Go-Architecture-List.md)
-        - [2.7.5.2 Go Collection List](/01~CS.CS/Language/Go/Go-Collection-List.md)
-        - [2.7.5.3 Go ConcurrentProgramming List](/01~CS.CS/Language/Go/Go-ConcurrentProgramming-List.md)
-        - [2.7.5.4 Go Dev List](/01~CS.CS/Language/Go/Go-Dev-List.md)
-        - [2.7.5.5 Go Internals List](/01~CS.CS/Language/Go/Go-Internals-List.md)
-        - [2.7.5.6 Go List](/01~CS.CS/Language/Go/Go-List.md)
-        - [2.7.5.7 Go OpenSource List](/01~CS.CS/Language/Go/Go-OpenSource-List.md)
-        - [2.7.5.8 Go Syntax List](/01~CS.CS/Language/Go/Go-Syntax-List.md)
-        - [2.7.5.9 Go Tuning List](/01~CS.CS/Language/Go/Go-Tuning-List.md)
-        - [2.7.5.10 Go Web List](/01~CS.CS/Language/Go/Go-Web-List.md)
-        - [2.7.5.11 Gopher List](/01~CS.CS/Language/Go/Gopher-List.md)
+        - [2.7.5.1 Go Architecture List](/01~CS/Language/Go/Go-Architecture-List.md)
+        - [2.7.5.2 Go Collection List](/01~CS/Language/Go/Go-Collection-List.md)
+        - [2.7.5.3 Go ConcurrentProgramming List](/01~CS/Language/Go/Go-ConcurrentProgramming-List.md)
+        - [2.7.5.4 Go Dev List](/01~CS/Language/Go/Go-Dev-List.md)
+        - [2.7.5.5 Go Internals List](/01~CS/Language/Go/Go-Internals-List.md)
+        - [2.7.5.6 Go List](/01~CS/Language/Go/Go-List.md)
+        - [2.7.5.7 Go OpenSource List](/01~CS/Language/Go/Go-OpenSource-List.md)
+        - [2.7.5.8 Go Syntax List](/01~CS/Language/Go/Go-Syntax-List.md)
+        - [2.7.5.9 Go Tuning List](/01~CS/Language/Go/Go-Tuning-List.md)
+        - [2.7.5.10 Go Web List](/01~CS/Language/Go/Go-Web-List.md)
+        - [2.7.5.11 Gopher List](/01~CS/Language/Go/Gopher-List.md)
       - 2.7.6 Haskell [1]
-        - [2.7.6.1 Haskell List](/01~CS.CS/Language/Haskell/Haskell-List.md)
+        - [2.7.6.1 Haskell List](/01~CS/Language/Haskell/Haskell-List.md)
       - 2.7.7 Java [7]
         - 2.7.7.1 ConcurrentProgramming [5]
-          - [2.7.7.1.1 Akka List](/01~CS.CS/Language/Java/ConcurrentProgramming/Akka-List.md)
-          - [2.7.7.1.2 Java Async List](/01~CS.CS/Language/Java/ConcurrentProgramming/Java-Async-List.md)
-          - [2.7.7.1.3 Java ConcurrentProgramming List](/01~CS.CS/Language/Java/ConcurrentProgramming/Java-ConcurrentProgramming-List.md)
-          - [2.7.7.1.4 Java ConcurrentProgramming OpenSource List](/01~CS.CS/Language/Java/ConcurrentProgramming/Java-ConcurrentProgramming-OpenSource-List.md)
+          - [2.7.7.1.1 Akka List](/01~CS/Language/Java/ConcurrentProgramming/Akka-List.md)
+          - [2.7.7.1.2 Java Async List](/01~CS/Language/Java/ConcurrentProgramming/Java-Async-List.md)
+          - [2.7.7.1.3 Java ConcurrentProgramming List](/01~CS/Language/Java/ConcurrentProgramming/Java-ConcurrentProgramming-List.md)
+          - [2.7.7.1.4 Java ConcurrentProgramming OpenSource List](/01~CS/Language/Java/ConcurrentProgramming/Java-ConcurrentProgramming-OpenSource-List.md)
           - 2.7.7.1.5 Netty [2]
-            - [2.7.7.1.5.1 Netty List](/01~CS.CS/Language/Java/ConcurrentProgramming/Netty/Netty-List.md)
-            - [2.7.7.1.5.2 Netty OpenSource List](/01~CS.CS/Language/Java/ConcurrentProgramming/Netty/Netty-OpenSource-List.md)
+            - [2.7.7.1.5.1 Netty List](/01~CS/Language/Java/ConcurrentProgramming/Netty/Netty-List.md)
+            - [2.7.7.1.5.2 Netty OpenSource List](/01~CS/Language/Java/ConcurrentProgramming/Netty/Netty-OpenSource-List.md)
         - 2.7.7.2 Dev [12]
-          - [2.7.7.2.1 Gradle List](/01~CS.CS/Language/Java/Dev/Gradle-List.md)
-          - [2.7.7.2.2 Java Collection List](/01~CS.CS/Language/Java/Dev/Java-Collection-List.md)
-          - [2.7.7.2.3 Java DataStructure List](/01~CS.CS/Language/Java/Dev/Java-DataStructure-List.md)
-          - [2.7.7.2.4 Java Dev List](/01~CS.CS/Language/Java/Dev/Java-Dev-List.md)
-          - [2.7.7.2.5 Java FunctionalProgramming List](/01~CS.CS/Language/Java/Dev/Java-FunctionalProgramming-List.md)
-          - [2.7.7.2.6 Java Network List](/01~CS.CS/Language/Java/Dev/Java-Network-List.md)
-          - [2.7.7.2.7 Java Storage List](/01~CS.CS/Language/Java/Dev/Java-Storage-List.md)
-          - [2.7.7.2.8 Java Syntax List](/01~CS.CS/Language/Java/Dev/Java-Syntax-List.md)
-          - [2.7.7.2.9 Java System List](/01~CS.CS/Language/Java/Dev/Java-System-List.md)
-          - [2.7.7.2.10 Java Test List](/01~CS.CS/Language/Java/Dev/Java-Test-List.md)
-          - [2.7.7.2.11 Java UI List](/01~CS.CS/Language/Java/Dev/Java-UI-List.md)
-          - [2.7.7.2.12 Maven List](/01~CS.CS/Language/Java/Dev/Maven-List.md)
+          - [2.7.7.2.1 Gradle List](/01~CS/Language/Java/Dev/Gradle-List.md)
+          - [2.7.7.2.2 Java Collection List](/01~CS/Language/Java/Dev/Java-Collection-List.md)
+          - [2.7.7.2.3 Java DataStructure List](/01~CS/Language/Java/Dev/Java-DataStructure-List.md)
+          - [2.7.7.2.4 Java Dev List](/01~CS/Language/Java/Dev/Java-Dev-List.md)
+          - [2.7.7.2.5 Java FunctionalProgramming List](/01~CS/Language/Java/Dev/Java-FunctionalProgramming-List.md)
+          - [2.7.7.2.6 Java Network List](/01~CS/Language/Java/Dev/Java-Network-List.md)
+          - [2.7.7.2.7 Java Storage List](/01~CS/Language/Java/Dev/Java-Storage-List.md)
+          - [2.7.7.2.8 Java Syntax List](/01~CS/Language/Java/Dev/Java-Syntax-List.md)
+          - [2.7.7.2.9 Java System List](/01~CS/Language/Java/Dev/Java-System-List.md)
+          - [2.7.7.2.10 Java Test List](/01~CS/Language/Java/Dev/Java-Test-List.md)
+          - [2.7.7.2.11 Java UI List](/01~CS/Language/Java/Dev/Java-UI-List.md)
+          - [2.7.7.2.12 Maven List](/01~CS/Language/Java/Dev/Maven-List.md)
         - 2.7.7.3 Dialect [5]
-          - [2.7.7.3.1 Clojure List](/01~CS.CS/Language/Java/Dialect/Clojure-List.md)
-          - [2.7.7.3.2 Clojure OpenSource List](/01~CS.CS/Language/Java/Dialect/Clojure-OpenSource-List.md)
-          - [2.7.7.3.3 Groovy List](/01~CS.CS/Language/Java/Dialect/Groovy-List.md)
-          - [2.7.7.3.4 Kotlin List](/01~CS.CS/Language/Java/Dialect/Kotlin-List.md)
-          - [2.7.7.3.5 Scala List](/01~CS.CS/Language/Java/Dialect/Scala-List.md)
+          - [2.7.7.3.1 Clojure List](/01~CS/Language/Java/Dialect/Clojure-List.md)
+          - [2.7.7.3.2 Clojure OpenSource List](/01~CS/Language/Java/Dialect/Clojure-OpenSource-List.md)
+          - [2.7.7.3.3 Groovy List](/01~CS/Language/Java/Dialect/Groovy-List.md)
+          - [2.7.7.3.4 Kotlin List](/01~CS/Language/Java/Dialect/Kotlin-List.md)
+          - [2.7.7.3.5 Scala List](/01~CS/Language/Java/Dialect/Scala-List.md)
         - 2.7.7.4 JVM [8]
-          - [2.7.7.4.1 JDK List](/01~CS.CS/Language/Java/JVM/JDK-List.md)
-          - [2.7.7.4.2 JVM Class List](/01~CS.CS/Language/Java/JVM/JVM-Class-List.md)
-          - [2.7.7.4.3 JVM Compiler List](/01~CS.CS/Language/Java/JVM/JVM-Compiler-List.md)
-          - [2.7.7.4.4 JVM Debug List](/01~CS.CS/Language/Java/JVM/JVM-Debug-List.md)
-          - [2.7.7.4.5 JVM List](/01~CS.CS/Language/Java/JVM/JVM-List.md)
-          - [2.7.7.4.6 JVM MemoryManagement List](/01~CS.CS/Language/Java/JVM/JVM-MemoryManagement-List.md)
-          - [2.7.7.4.7 JVM OpenSource List](/01~CS.CS/Language/Java/JVM/JVM-OpenSource-List.md)
-          - [2.7.7.4.8 JVM Tuning List](/01~CS.CS/Language/Java/JVM/JVM-Tuning-List.md)
-        - [2.7.7.5 Java List](/01~CS.CS/Language/Java/Java-List.md)
-        - [2.7.7.6 Java OpenSource List](/01~CS.CS/Language/Java/Java-OpenSource-List.md)
+          - [2.7.7.4.1 JDK List](/01~CS/Language/Java/JVM/JDK-List.md)
+          - [2.7.7.4.2 JVM Class List](/01~CS/Language/Java/JVM/JVM-Class-List.md)
+          - [2.7.7.4.3 JVM Compiler List](/01~CS/Language/Java/JVM/JVM-Compiler-List.md)
+          - [2.7.7.4.4 JVM Debug List](/01~CS/Language/Java/JVM/JVM-Debug-List.md)
+          - [2.7.7.4.5 JVM List](/01~CS/Language/Java/JVM/JVM-List.md)
+          - [2.7.7.4.6 JVM MemoryManagement List](/01~CS/Language/Java/JVM/JVM-MemoryManagement-List.md)
+          - [2.7.7.4.7 JVM OpenSource List](/01~CS/Language/Java/JVM/JVM-OpenSource-List.md)
+          - [2.7.7.4.8 JVM Tuning List](/01~CS/Language/Java/JVM/JVM-Tuning-List.md)
+        - [2.7.7.5 Java List](/01~CS/Language/Java/Java-List.md)
+        - [2.7.7.6 Java OpenSource List](/01~CS/Language/Java/Java-OpenSource-List.md)
         - 2.7.7.7 MicroCN [5]
-          - [2.7.7.7.1 Java MicroCN OpenSource List](/01~CS.CS/Language/Java/MicroCN/Java-MicroCN-OpenSource-List.md)
-          - [2.7.7.7.2 Java Servlet List](/01~CS.CS/Language/Java/MicroCN/Java-Servlet-List.md)
+          - [2.7.7.7.1 Java MicroCN OpenSource List](/01~CS/Language/Java/MicroCN/Java-MicroCN-OpenSource-List.md)
+          - [2.7.7.7.2 Java Servlet List](/01~CS/Language/Java/MicroCN/Java-Servlet-List.md)
           - 2.7.7.7.3 Mybatis [2]
-            - [2.7.7.7.3.1 Mybatis List](/01~CS.CS/Language/Java/MicroCN/Mybatis/Mybatis-List.md)
-            - [2.7.7.7.3.2 Mybatis OpenSource List](/01~CS.CS/Language/Java/MicroCN/Mybatis/Mybatis-OpenSource-List.md)
+            - [2.7.7.7.3.1 Mybatis List](/01~CS/Language/Java/MicroCN/Mybatis/Mybatis-List.md)
+            - [2.7.7.7.3.2 Mybatis OpenSource List](/01~CS/Language/Java/MicroCN/Mybatis/Mybatis-OpenSource-List.md)
           - 2.7.7.7.4 Spring [7]
-            - [2.7.7.7.4.1 Spring Internals List](/01~CS.CS/Language/Java/MicroCN/Spring/Spring-Internals-List.md)
-            - [2.7.7.7.4.2 Spring List](/01~CS.CS/Language/Java/MicroCN/Spring/Spring-List.md)
-            - [2.7.7.7.4.3 Spring OpenSource List](/01~CS.CS/Language/Java/MicroCN/Spring/Spring-OpenSource-List.md)
-            - [2.7.7.7.4.4 SpringBoot List](/01~CS.CS/Language/Java/MicroCN/Spring/SpringBoot-List.md)
-            - [2.7.7.7.4.5 SpringBoot OpenSource List](/01~CS.CS/Language/Java/MicroCN/Spring/SpringBoot-OpenSource-List.md)
-            - [2.7.7.7.4.6 SpringCloud List](/01~CS.CS/Language/Java/MicroCN/Spring/SpringCloud-List.md)
-            - [2.7.7.7.4.7 SpringSecurity List](/01~CS.CS/Language/Java/MicroCN/Spring/SpringSecurity-List.md)
-          - [2.7.7.7.5 Tomcat List](/01~CS.CS/Language/Java/MicroCN/Tomcat-List.md)
+            - [2.7.7.7.4.1 Spring Internals List](/01~CS/Language/Java/MicroCN/Spring/Spring-Internals-List.md)
+            - [2.7.7.7.4.2 Spring List](/01~CS/Language/Java/MicroCN/Spring/Spring-List.md)
+            - [2.7.7.7.4.3 Spring OpenSource List](/01~CS/Language/Java/MicroCN/Spring/Spring-OpenSource-List.md)
+            - [2.7.7.7.4.4 SpringBoot List](/01~CS/Language/Java/MicroCN/Spring/SpringBoot-List.md)
+            - [2.7.7.7.4.5 SpringBoot OpenSource List](/01~CS/Language/Java/MicroCN/Spring/SpringBoot-OpenSource-List.md)
+            - [2.7.7.7.4.6 SpringCloud List](/01~CS/Language/Java/MicroCN/Spring/SpringCloud-List.md)
+            - [2.7.7.7.4.7 SpringSecurity List](/01~CS/Language/Java/MicroCN/Spring/SpringSecurity-List.md)
+          - [2.7.7.7.5 Tomcat List](/01~CS/Language/Java/MicroCN/Tomcat-List.md)
       - 2.7.8 JavaScript [11]
-        - [2.7.8.1 JavaScript Async List](/01~CS.CS/Language/JavaScript/JavaScript-Async-List.md)
-        - [2.7.8.2 JavaScript Collection List](/01~CS.CS/Language/JavaScript/JavaScript-Collection-List.md)
-        - [2.7.8.3 JavaScript DataStructure List](/01~CS.CS/Language/JavaScript/JavaScript-DataStructure-List.md)
-        - [2.7.8.4 JavaScript Engine List](/01~CS.CS/Language/JavaScript/JavaScript-Engine-List.md)
-        - [2.7.8.5 JavaScript FunctionalProgramming List](/01~CS.CS/Language/JavaScript/JavaScript-FunctionalProgramming-List.md)
-        - [2.7.8.6 JavaScript List](/01~CS.CS/Language/JavaScript/JavaScript-List.md)
-        - [2.7.8.7 JavaScript OpenSource List](/01~CS.CS/Language/JavaScript/JavaScript-OpenSource-List.md)
-        - [2.7.8.8 JavaScript Pattern List](/01~CS.CS/Language/JavaScript/JavaScript-Pattern-List.md)
-        - [2.7.8.9 JavaScript TypeSystem List](/01~CS.CS/Language/JavaScript/JavaScript-TypeSystem-List.md)
-        - [2.7.8.10 TypeScript List](/01~CS.CS/Language/JavaScript/TypeScript-List.md)
-        - [2.7.8.11 TypeScript OpenSource List](/01~CS.CS/Language/JavaScript/TypeScript-OpenSource-List.md)
+        - [2.7.8.1 JavaScript Async List](/01~CS/Language/JavaScript/JavaScript-Async-List.md)
+        - [2.7.8.2 JavaScript Collection List](/01~CS/Language/JavaScript/JavaScript-Collection-List.md)
+        - [2.7.8.3 JavaScript DataStructure List](/01~CS/Language/JavaScript/JavaScript-DataStructure-List.md)
+        - [2.7.8.4 JavaScript Engine List](/01~CS/Language/JavaScript/JavaScript-Engine-List.md)
+        - [2.7.8.5 JavaScript FunctionalProgramming List](/01~CS/Language/JavaScript/JavaScript-FunctionalProgramming-List.md)
+        - [2.7.8.6 JavaScript List](/01~CS/Language/JavaScript/JavaScript-List.md)
+        - [2.7.8.7 JavaScript OpenSource List](/01~CS/Language/JavaScript/JavaScript-OpenSource-List.md)
+        - [2.7.8.8 JavaScript Pattern List](/01~CS/Language/JavaScript/JavaScript-Pattern-List.md)
+        - [2.7.8.9 JavaScript TypeSystem List](/01~CS/Language/JavaScript/JavaScript-TypeSystem-List.md)
+        - [2.7.8.10 TypeScript List](/01~CS/Language/JavaScript/TypeScript-List.md)
+        - [2.7.8.11 TypeScript OpenSource List](/01~CS/Language/JavaScript/TypeScript-OpenSource-List.md)
       - 2.7.9 Lisp [1]
-        - [2.7.9.1 Lisp List](/01~CS.CS/Language/Lisp/Lisp-List.md)
+        - [2.7.9.1 Lisp List](/01~CS/Language/Lisp/Lisp-List.md)
       - 2.7.10 PHP [2]
-        - [2.7.10.1 PHP List](/01~CS.CS/Language/PHP/PHP-List.md)
-        - [2.7.10.2 PHP OpenSource List](/01~CS.CS/Language/PHP/PHP-OpenSource-List.md)
+        - [2.7.10.1 PHP List](/01~CS/Language/PHP/PHP-List.md)
+        - [2.7.10.2 PHP OpenSource List](/01~CS/Language/PHP/PHP-OpenSource-List.md)
       - 2.7.11 Python [10]
-        - [2.7.11.1 Python Concurrent List](/01~CS.CS/Language/Python/Python-Concurrent-List.md)
-        - [2.7.11.2 Python DataAnalysis List](/01~CS.CS/Language/Python/Python-DataAnalysis-List.md)
-        - [2.7.11.3 Python DataStructure List](/01~CS.CS/Language/Python/Python-DataStructure-List.md)
-        - [2.7.11.4 Python Debug List](/01~CS.CS/Language/Python/Python-Debug-List.md)
-        - [2.7.11.5 Python Framework List](/01~CS.CS/Language/Python/Python-Framework-List.md)
-        - [2.7.11.6 Python FunctionalProgramming List](/01~CS.CS/Language/Python/Python-FunctionalProgramming-List.md)
-        - [2.7.11.7 Python List](/01~CS.CS/Language/Python/Python-List.md)
-        - [2.7.11.8 Python OpenSource List](/01~CS.CS/Language/Python/Python-OpenSource-List.md)
-        - [2.7.11.9 Python StyleGuide List](/01~CS.CS/Language/Python/Python-StyleGuide-List.md)
-        - [2.7.11.10 Python Syntax List](/01~CS.CS/Language/Python/Python-Syntax-List.md)
+        - [2.7.11.1 Python Concurrent List](/01~CS/Language/Python/Python-Concurrent-List.md)
+        - [2.7.11.2 Python DataAnalysis List](/01~CS/Language/Python/Python-DataAnalysis-List.md)
+        - [2.7.11.3 Python DataStructure List](/01~CS/Language/Python/Python-DataStructure-List.md)
+        - [2.7.11.4 Python Debug List](/01~CS/Language/Python/Python-Debug-List.md)
+        - [2.7.11.5 Python Framework List](/01~CS/Language/Python/Python-Framework-List.md)
+        - [2.7.11.6 Python FunctionalProgramming List](/01~CS/Language/Python/Python-FunctionalProgramming-List.md)
+        - [2.7.11.7 Python List](/01~CS/Language/Python/Python-List.md)
+        - [2.7.11.8 Python OpenSource List](/01~CS/Language/Python/Python-OpenSource-List.md)
+        - [2.7.11.9 Python StyleGuide List](/01~CS/Language/Python/Python-StyleGuide-List.md)
+        - [2.7.11.10 Python Syntax List](/01~CS/Language/Python/Python-Syntax-List.md)
       - 2.7.12 Rust [7]
-        - [2.7.12.1 Rust ConcurrentProgramming List](/01~CS.CS/Language/Rust/Rust-ConcurrentProgramming-List.md)
-        - [2.7.12.2 Rust Dev List](/01~CS.CS/Language/Rust/Rust-Dev-List.md)
-        - [2.7.12.3 Rust List](/01~CS.CS/Language/Rust/Rust-List.md)
-        - [2.7.12.4 Rust Network List](/01~CS.CS/Language/Rust/Rust-Network-List.md)
-        - [2.7.12.5 Rust OpenSource List](/01~CS.CS/Language/Rust/Rust-OpenSource-List.md)
-        - [2.7.12.6 Rust Syntax List](/01~CS.CS/Language/Rust/Rust-Syntax-List.md)
-        - [2.7.12.7 Tauri List](/01~CS.CS/Language/Rust/Tauri-List.md)
+        - [2.7.12.1 Rust ConcurrentProgramming List](/01~CS/Language/Rust/Rust-ConcurrentProgramming-List.md)
+        - [2.7.12.2 Rust Dev List](/01~CS/Language/Rust/Rust-Dev-List.md)
+        - [2.7.12.3 Rust List](/01~CS/Language/Rust/Rust-List.md)
+        - [2.7.12.4 Rust Network List](/01~CS/Language/Rust/Rust-Network-List.md)
+        - [2.7.12.5 Rust OpenSource List](/01~CS/Language/Rust/Rust-OpenSource-List.md)
+        - [2.7.12.6 Rust Syntax List](/01~CS/Language/Rust/Rust-Syntax-List.md)
+        - [2.7.12.7 Tauri List](/01~CS/Language/Rust/Tauri-List.md)
       - 2.7.13 Swift [1]
-        - [2.7.13.1 Swift List](/01~CS.CS/Language/Swift/Swift-List.md)
+        - [2.7.13.1 Swift List](/01~CS/Language/Swift/Swift-List.md)
     - 2.8 Mathematics [4]
-      - [2.8.1 LinearAlgebra List](/01~CS.CS/Mathematics/LinearAlgebra-List.md)
-      - [2.8.2 Mathematics List](/01~CS.CS/Mathematics/Mathematics-List.md)
-      - [2.8.3 ProbabilityTheory List](/01~CS.CS/Mathematics/ProbabilityTheory-List.md)
-      - [2.8.4 Statistics List](/01~CS.CS/Mathematics/Statistics-List.md)
+      - [2.8.1 LinearAlgebra List](/01~CS/Mathematics/LinearAlgebra-List.md)
+      - [2.8.2 Mathematics List](/01~CS/Mathematics/Mathematics-List.md)
+      - [2.8.3 ProbabilityTheory List](/01~CS/Mathematics/ProbabilityTheory-List.md)
+      - [2.8.4 Statistics List](/01~CS/Mathematics/Statistics-List.md)
     - 2.9 Theory [7]
       - 2.9.1 Compiler [2]
-        - [2.9.1.1 Compiler List](/01~CS.CS/Theory/Compiler/Compiler-List.md)
-        - [2.9.1.2 Compiler OpenSource List](/01~CS.CS/Theory/Compiler/Compiler-OpenSource-List.md)
+        - [2.9.1.1 Compiler List](/01~CS/Theory/Compiler/Compiler-List.md)
+        - [2.9.1.2 Compiler OpenSource List](/01~CS/Theory/Compiler/Compiler-OpenSource-List.md)
       - 2.9.2 MemoryManagement [2]
-        - [2.9.2.1 GarbageCollection List](/01~CS.CS/Theory/MemoryManagement/GarbageCollection-List.md)
-        - [2.9.2.2 MemoryManagement List](/01~CS.CS/Theory/MemoryManagement/MemoryManagement-List.md)
-      - [2.9.3 PLT List](/01~CS.CS/Theory/PLT-List.md)
-      - [2.9.4 PLT OpenSource List](/01~CS.CS/Theory/PLT-OpenSource-List.md)
+        - [2.9.2.1 GarbageCollection List](/01~CS/Theory/MemoryManagement/GarbageCollection-List.md)
+        - [2.9.2.2 MemoryManagement List](/01~CS/Theory/MemoryManagement/MemoryManagement-List.md)
+      - [2.9.3 PLT List](/01~CS/Theory/PLT-List.md)
+      - [2.9.4 PLT OpenSource List](/01~CS/Theory/PLT-OpenSource-List.md)
       - 2.9.5 StaticAnalysis [1]
-        - [2.9.5.1 StaticAnalysis List](/01~CS.CS/Theory/StaticAnalysis/StaticAnalysis-List.md)
+        - [2.9.5.1 StaticAnalysis List](/01~CS/Theory/StaticAnalysis/StaticAnalysis-List.md)
       - 2.9.6 TypeTheory [1]
-        - [2.9.6.1 Type Theory List](/01~CS.CS/Theory/TypeTheory/Type-Theory-List.md)
+        - [2.9.6.1 Type Theory List](/01~CS/Theory/TypeTheory/Type-Theory-List.md)
       - 2.9.7 VM [1]
-        - [2.9.7.1 VM List](/01~CS.CS/Theory/VM/VM-List.md)
+        - [2.9.7.1 VM List](/01~CS/Theory/VM/VM-List.md)
   - 3 02~Frontend [9]
     - 3.1 01.Web [11]
       - 3.1.1 Architecture [6]
@@ -1052,178 +1052,182 @@
         - [5.7.6.1 OST List](/04~Infrastructure/OS/Theory/OST-List.md)
       - 5.7.7 Windows [1]
         - [5.7.7.1 Windows List](/04~Infrastructure/OS/Windows/Windows-List.md)
-  - 6 10~AI.AI [14]
-    - [6.1 AI Book List](/10~AI.AI/AI-Book-List.md)
-    - [6.2 AI Course List](/10~AI.AI/AI-Course-List.md)
-    - [6.3 AI Engineering List](/10~AI.AI/AI-Engineering-List.md)
-    - [6.4 AI Example List](/10~AI.AI/AI-Example-List.md)
-    - [6.5 AI List](/10~AI.AI/AI-List.md)
-    - [6.6 AI Model OpenSource List](/10~AI.AI/AI-Model-OpenSource-List.md)
-    - [6.7 AI OpenSource List](/10~AI.AI/AI-OpenSource-List.md)
-    - [6.8 AI Showcase List](/10~AI.AI/AI-Showcase-List.md)
+  - 6 10~AI [14]
+    - [6.1 AI Book List](/10~AI/AI-Book-List.md)
+    - [6.2 AI Course List](/10~AI/AI-Course-List.md)
+    - [6.3 AI Engineering List](/10~AI/AI-Engineering-List.md)
+    - [6.4 AI Example List](/10~AI/AI-Example-List.md)
+    - [6.5 AI List](/10~AI/AI-List.md)
+    - [6.6 AI Model OpenSource List](/10~AI/AI-Model-OpenSource-List.md)
+    - [6.7 AI OpenSource List](/10~AI/AI-OpenSource-List.md)
+    - [6.8 AI Showcase List](/10~AI/AI-Showcase-List.md)
     - 6.9 Application [5]
-      - [6.9.1 AI Application List](/10~AI.AI/Application/AI-Application-List.md)
+      - [6.9.1 AI Application List](/10~AI/Application/AI-Application-List.md)
       - 6.9.2 Assistant [1]
-        - [6.9.2.1 AI Assistant List](/10~AI.AI/Application/Assistant/AI-Assistant-List.md)
+        - [6.9.2.1 AI Assistant List](/10~AI/Application/Assistant/AI-Assistant-List.md)
       - 6.9.3 AutoDriving [1]
-        - [6.9.3.1 AutoDriving List](/10~AI.AI/Application/AutoDriving/AutoDriving-List.md)
+        - [6.9.3.1 AutoDriving List](/10~AI/Application/AutoDriving/AutoDriving-List.md)
       - 6.9.4 RecommendSystem [3]
-        - [6.9.4.1 CTR List](/10~AI.AI/Application/RecommendSystem/CTR-List.md)
-        - [6.9.4.2 RecommendSystem List](/10~AI.AI/Application/RecommendSystem/RecommendSystem-List.md)
-        - [6.9.4.3 RecommendSystem OpenSource List](/10~AI.AI/Application/RecommendSystem/RecommendSystem-OpenSource-List.md)
+        - [6.9.4.1 CTR List](/10~AI/Application/RecommendSystem/CTR-List.md)
+        - [6.9.4.2 RecommendSystem List](/10~AI/Application/RecommendSystem/RecommendSystem-List.md)
+        - [6.9.4.3 RecommendSystem OpenSource List](/10~AI/Application/RecommendSystem/RecommendSystem-OpenSource-List.md)
       - 6.9.5 SNA [1]
-        - [6.9.5.1 SNA List](/10~AI.AI/Application/SNA/SNA-List.md)
-    - 6.10 ComputerVision [12]
-      - 6.10.1 AIGC [1]
-        - [6.10.1.1 AIGC OpenSource List](/10~AI.AI/ComputerVision/AIGC/AIGC-OpenSource-List.md)
-      - 6.10.2 CNN [1]
-        - [6.10.2.1 CNN List](/10~AI.AI/ComputerVision/CNN/CNN-List.md)
-      - [6.10.3 ComputerVision List](/10~AI.AI/ComputerVision/ComputerVision-List.md)
-      - [6.10.4 ComputerVision OpenSource List](/10~AI.AI/ComputerVision/ComputerVision-OpenSource-List.md)
-      - 6.10.5 Diffusion [1]
-        - [6.10.5.1 Diffusion List](/10~AI.AI/ComputerVision/Diffusion/Diffusion-List.md)
-      - 6.10.6 DigitalTwin [1]
-        - [6.10.6.1 DigitalTwin OpenSource List](/10~AI.AI/ComputerVision/DigitalTwin/DigitalTwin-OpenSource-List.md)
-      - [6.10.7 FaceRecognition List](/10~AI.AI/ComputerVision/FaceRecognition-List.md)
-      - [6.10.8 MidJourney List](/10~AI.AI/ComputerVision/MidJourney-List.md)
-      - [6.10.9 OCR List](/10~AI.AI/ComputerVision/OCR-List.md)
-      - [6.10.10 Object Detection List](/10~AI.AI/ComputerVision/Object-Detection-List.md)
-      - [6.10.11 OpenCV List](/10~AI.AI/ComputerVision/OpenCV-List.md)
-      - [6.10.12 StableDiffusion List](/10~AI.AI/ComputerVision/StableDiffusion-List.md)
+        - [6.9.5.1 SNA List](/10~AI/Application/SNA/SNA-List.md)
+    - 6.10 CV [6]
+      - 6.10.1 AIGC [5]
+        - [6.10.1.1 AIGC OpenSource List](/10~AI/CV/AIGC/AIGC-OpenSource-List.md)
+        - 6.10.1.2 Diffusion [1]
+          - [6.10.1.2.1 Diffusion List](/10~AI/CV/AIGC/Diffusion/Diffusion-List.md)
+        - 6.10.1.3 DigitalTwin [1]
+          - [6.10.1.3.1 DigitalTwin OpenSource List](/10~AI/CV/AIGC/DigitalTwin/DigitalTwin-OpenSource-List.md)
+        - [6.10.1.4 MidJourney List](/10~AI/CV/AIGC/MidJourney-List.md)
+        - [6.10.1.5 StableDiffusion List](/10~AI/CV/AIGC/StableDiffusion-List.md)
+      - [6.10.2 CV List](/10~AI/CV/CV-List.md)
+      - [6.10.3 CV OpenSource List](/10~AI/CV/CV-OpenSource-List.md)
+      - 6.10.4 NeuralNetwork [1]
+        - 6.10.4.1 CNN [1]
+          - [6.10.4.1.1 CNN List](/10~AI/CV/NeuralNetwork/CNN/CNN-List.md)
+      - 6.10.5 Recognition [3]
+        - [6.10.5.1 FaceRecognition List](/10~AI/CV/Recognition/FaceRecognition-List.md)
+        - 6.10.5.2 OCR [1]
+          - [6.10.5.2.1 OCR List](/10~AI/CV/Recognition/OCR/OCR-List.md)
+        - [6.10.5.3 Object Detection List](/10~AI/CV/Recognition/Object-Detection-List.md)
+      - 6.10.6 Toolkits [1]
+        - [6.10.6.1 OpenCV List](/10~AI/CV/Toolkits/OpenCV-List.md)
     - 6.11 MachineLearning [6]
       - 6.11.1 DeepLearning [2]
-        - [6.11.1.1 DeepLearning List](/10~AI.AI/MachineLearning/DeepLearning/DeepLearning-List.md)
-        - [6.11.1.2 NeuralNetwork List](/10~AI.AI/MachineLearning/DeepLearning/NeuralNetwork-List.md)
+        - [6.11.1.1 DeepLearning List](/10~AI/MachineLearning/DeepLearning/DeepLearning-List.md)
+        - [6.11.1.2 NeuralNetwork List](/10~AI/MachineLearning/DeepLearning/NeuralNetwork-List.md)
       - 6.11.2 FeatureEngineering [4]
-        - [6.11.2.1 AI TimeSeries List](/10~AI.AI/MachineLearning/FeatureEngineering/AI-TimeSeries-List.md)
-        - [6.11.2.2 FeatureEngineering List](/10~AI.AI/MachineLearning/FeatureEngineering/FeatureEngineering-List.md)
-        - [6.11.2.3 Personas List](/10~AI.AI/MachineLearning/FeatureEngineering/Personas-List.md)
+        - [6.11.2.1 AI TimeSeries List](/10~AI/MachineLearning/FeatureEngineering/AI-TimeSeries-List.md)
+        - [6.11.2.2 FeatureEngineering List](/10~AI/MachineLearning/FeatureEngineering/FeatureEngineering-List.md)
+        - [6.11.2.3 Personas List](/10~AI/MachineLearning/FeatureEngineering/Personas-List.md)
         - 6.11.2.4 RepresentationLearning [1]
-          - [6.11.2.4.1 RepresentationLearning List](/10~AI.AI/MachineLearning/FeatureEngineering/RepresentationLearning/RepresentationLearning-List.md)
+          - [6.11.2.4.1 RepresentationLearning List](/10~AI/MachineLearning/FeatureEngineering/RepresentationLearning/RepresentationLearning-List.md)
       - 6.11.3 Inference [7]
         - 6.11.3.1 EM [1]
-          - [6.11.3.1.1 EM List](/10~AI.AI/MachineLearning/Inference/EM/EM-List.md)
+          - [6.11.3.1.1 EM List](/10~AI/MachineLearning/Inference/EM/EM-List.md)
         - 6.11.3.2 Evaluation [1]
-          - [6.11.3.2.1 ModelEvaluation List](/10~AI.AI/MachineLearning/Inference/Evaluation/ModelEvaluation-List.md)
+          - [6.11.3.2.1 ModelEvaluation List](/10~AI/MachineLearning/Inference/Evaluation/ModelEvaluation-List.md)
         - 6.11.3.3 GradientDescent [1]
-          - [6.11.3.3.1 GradientDescent List](/10~AI.AI/MachineLearning/Inference/GradientDescent/GradientDescent-List.md)
-        - [6.11.3.4 Inference List](/10~AI.AI/MachineLearning/Inference/Inference-List.md)
+          - [6.11.3.3.1 GradientDescent List](/10~AI/MachineLearning/Inference/GradientDescent/GradientDescent-List.md)
+        - [6.11.3.4 Inference List](/10~AI/MachineLearning/Inference/Inference-List.md)
         - 6.11.3.5 MonteCarlo [1]
-          - [6.11.3.5.1 MonteCarlo List](/10~AI.AI/MachineLearning/Inference/MonteCarlo/MonteCarlo-List.md)
+          - [6.11.3.5.1 MonteCarlo List](/10~AI/MachineLearning/Inference/MonteCarlo/MonteCarlo-List.md)
         - 6.11.3.6 OnlineLearning [1]
-          - [6.11.3.6.1 OnlineLearning List](/10~AI.AI/MachineLearning/Inference/OnlineLearning/OnlineLearning-List.md)
+          - [6.11.3.6.1 OnlineLearning List](/10~AI/MachineLearning/Inference/OnlineLearning/OnlineLearning-List.md)
         - 6.11.3.7 VariationalInference [1]
-          - [6.11.3.7.1 VariationalInference List](/10~AI.AI/MachineLearning/Inference/VariationalInference/VariationalInference-List.md)
+          - [6.11.3.7.1 VariationalInference List](/10~AI/MachineLearning/Inference/VariationalInference/VariationalInference-List.md)
       - 6.11.4 LearningAlgorithm [7]
         - 6.11.4.1 Bayes [1]
-          - [6.11.4.1.1 Bayes List](/10~AI.AI/MachineLearning/LearningAlgorithm/Bayes/Bayes-List.md)
+          - [6.11.4.1.1 Bayes List](/10~AI/MachineLearning/LearningAlgorithm/Bayes/Bayes-List.md)
         - 6.11.4.2 Classification [3]
-          - [6.11.4.2.1 Classification List](/10~AI.AI/MachineLearning/LearningAlgorithm/Classification/Classification-List.md)
-          - [6.11.4.2.2 DecisionTree List](/10~AI.AI/MachineLearning/LearningAlgorithm/Classification/DecisionTree-List.md)
-          - [6.11.4.2.3 Regression List](/10~AI.AI/MachineLearning/LearningAlgorithm/Classification/Regression-List.md)
+          - [6.11.4.2.1 Classification List](/10~AI/MachineLearning/LearningAlgorithm/Classification/Classification-List.md)
+          - [6.11.4.2.2 DecisionTree List](/10~AI/MachineLearning/LearningAlgorithm/Classification/DecisionTree-List.md)
+          - [6.11.4.2.3 Regression List](/10~AI/MachineLearning/LearningAlgorithm/Classification/Regression-List.md)
         - 6.11.4.3 Cluster [1]
-          - [6.11.4.3.1 Cluster List](/10~AI.AI/MachineLearning/LearningAlgorithm/Cluster/Cluster-List.md)
+          - [6.11.4.3.1 Cluster List](/10~AI/MachineLearning/LearningAlgorithm/Cluster/Cluster-List.md)
         - 6.11.4.4 Ensemble [1]
-          - [6.11.4.4.1 Ensemble List](/10~AI.AI/MachineLearning/LearningAlgorithm/Ensemble/Ensemble-List.md)
+          - [6.11.4.4.1 Ensemble List](/10~AI/MachineLearning/LearningAlgorithm/Ensemble/Ensemble-List.md)
         - 6.11.4.5 GraphicalModel [1]
-          - [6.11.4.5.1 GraphicalModel List](/10~AI.AI/MachineLearning/LearningAlgorithm/GraphicalModel/GraphicalModel-List.md)
+          - [6.11.4.5.1 GraphicalModel List](/10~AI/MachineLearning/LearningAlgorithm/GraphicalModel/GraphicalModel-List.md)
         - 6.11.4.6 Markov [1]
-          - [6.11.4.6.1 Markov List](/10~AI.AI/MachineLearning/LearningAlgorithm/Markov/Markov-List.md)
+          - [6.11.4.6.1 Markov List](/10~AI/MachineLearning/LearningAlgorithm/Markov/Markov-List.md)
         - 6.11.4.7 Transfer [1]
-          - [6.11.4.7.1 TransferLearning List](/10~AI.AI/MachineLearning/LearningAlgorithm/Transfer/TransferLearning-List.md)
-      - [6.11.5 MachineLearning Course List](/10~AI.AI/MachineLearning/MachineLearning-Course-List.md)
-      - [6.11.6 MachineLearning List](/10~AI.AI/MachineLearning/MachineLearning-List.md)
+          - [6.11.4.7.1 TransferLearning List](/10~AI/MachineLearning/LearningAlgorithm/Transfer/TransferLearning-List.md)
+      - [6.11.5 MachineLearning Course List](/10~AI/MachineLearning/MachineLearning-Course-List.md)
+      - [6.11.6 MachineLearning List](/10~AI/MachineLearning/MachineLearning-List.md)
     - 6.12 NLP [11]
       - 6.12.1 Audio [1]
-        - [6.12.1.1 NLP Audio OpenSource List](/10~AI.AI/NLP/Audio/NLP-Audio-OpenSource-List.md)
+        - [6.12.1.1 NLP Audio OpenSource List](/10~AI/NLP/Audio/NLP-Audio-OpenSource-List.md)
       - 6.12.2 DNN [2]
-        - [6.12.2.1 GAN List](/10~AI.AI/NLP/DNN/GAN-List.md)
-        - [6.12.2.2 LSTM List](/10~AI.AI/NLP/DNN/LSTM-List.md)
+        - [6.12.2.1 GAN List](/10~AI/NLP/DNN/GAN-List.md)
+        - [6.12.2.2 LSTM List](/10~AI/NLP/DNN/LSTM-List.md)
       - 6.12.3 High level Tasks [3]
         - 6.12.3.1 DialogueSystem [3]
-          - [6.12.3.1.1 ASR List](/10~AI.AI/NLP/High-level%20Tasks/DialogueSystem/ASR-List.md)
-          - [6.12.3.1.2 Chatbot List](/10~AI.AI/NLP/High-level%20Tasks/DialogueSystem/Chatbot-List.md)
-          - [6.12.3.1.3 DialogueSystem List](/10~AI.AI/NLP/High-level%20Tasks/DialogueSystem/DialogueSystem-List.md)
+          - [6.12.3.1.1 ASR List](/10~AI/NLP/High-level%20Tasks/DialogueSystem/ASR-List.md)
+          - [6.12.3.1.2 Chatbot List](/10~AI/NLP/High-level%20Tasks/DialogueSystem/Chatbot-List.md)
+          - [6.12.3.1.3 DialogueSystem List](/10~AI/NLP/High-level%20Tasks/DialogueSystem/DialogueSystem-List.md)
         - 6.12.3.2 MachineTranslation [1]
-          - [6.12.3.2.1 MachineTranslation List](/10~AI.AI/NLP/High-level%20Tasks/MachineTranslation/MachineTranslation-List.md)
+          - [6.12.3.2.1 MachineTranslation List](/10~AI/NLP/High-level%20Tasks/MachineTranslation/MachineTranslation-List.md)
         - 6.12.3.3 Voice [1]
-          - [6.12.3.3.1 Voice List](/10~AI.AI/NLP/High-level%20Tasks/Voice/Voice-List.md)
+          - [6.12.3.3.1 Voice List](/10~AI/NLP/High-level%20Tasks/Voice/Voice-List.md)
       - 6.12.4 InformationExtraction [2]
-        - [6.12.4.1 InformationExtraction List](/10~AI.AI/NLP/InformationExtraction/InformationExtraction-List.md)
-        - [6.12.4.2 InformationRetrieval List](/10~AI.AI/NLP/InformationExtraction/InformationRetrieval-List.md)
+        - [6.12.4.1 InformationExtraction List](/10~AI/NLP/InformationExtraction/InformationExtraction-List.md)
+        - [6.12.4.2 InformationRetrieval List](/10~AI/NLP/InformationExtraction/InformationRetrieval-List.md)
       - 6.12.5 KnowledgeGraph [1]
-        - [6.12.5.1 KnowledgeGraph List](/10~AI.AI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
+        - [6.12.5.1 KnowledgeGraph List](/10~AI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
       - 6.12.6 LLM [6]
         - 6.12.6.1 99.参考资料 [1]
-          - [6.12.6.1.1 AI Canon](/10~AI.AI/NLP/LLM/99.参考资料/2023-AI%20Canon.md)
+          - [6.12.6.1.1 AI Canon](/10~AI/NLP/LLM/99.参考资料/2023-AI%20Canon.md)
         - 6.12.6.2 LLM Application [4]
           - 6.12.6.2.1 Agent [1]
-            - [6.12.6.2.1.1 LLM Agent OpenSource List](/10~AI.AI/NLP/LLM/LLM-Application/Agent/LLM-Agent-OpenSource-List.md)
+            - [6.12.6.2.1.1 LLM Agent OpenSource List](/10~AI/NLP/LLM/LLM-Application/Agent/LLM-Agent-OpenSource-List.md)
           - 6.12.6.2.2 CustomData [1]
-            - [6.12.6.2.2.1 LLM CustomData OpenSource List](/10~AI.AI/NLP/LLM/LLM-Application/CustomData/LLM-CustomData-OpenSource-List.md)
-          - [6.12.6.2.3 LLM Application OpenSource List](/10~AI.AI/NLP/LLM/LLM-Application/LLM-Application-OpenSource-List.md)
+            - [6.12.6.2.2.1 LLM CustomData OpenSource List](/10~AI/NLP/LLM/LLM-Application/CustomData/LLM-CustomData-OpenSource-List.md)
+          - [6.12.6.2.3 LLM Application OpenSource List](/10~AI/NLP/LLM/LLM-Application/LLM-Application-OpenSource-List.md)
           - 6.12.6.2.4 SDK [2]
-            - [6.12.6.2.4.1 LLM SDK OpenSource List](/10~AI.AI/NLP/LLM/LLM-Application/SDK/LLM-SDK-OpenSource-List.md)
-            - [6.12.6.2.4.2 LangChain List](/10~AI.AI/NLP/LLM/LLM-Application/SDK/LangChain-List.md)
-        - [6.12.6.3 LLM List](/10~AI.AI/NLP/LLM/LLM-List.md)
+            - [6.12.6.2.4.1 LLM SDK OpenSource List](/10~AI/NLP/LLM/LLM-Application/SDK/LLM-SDK-OpenSource-List.md)
+            - [6.12.6.2.4.2 LangChain List](/10~AI/NLP/LLM/LLM-Application/SDK/LangChain-List.md)
+        - [6.12.6.3 LLM List](/10~AI/NLP/LLM/LLM-List.md)
         - 6.12.6.4 LLM Model [3]
           - 6.12.6.4.1 CodeGeneration [1]
-            - [6.12.6.4.1.1 CodeGeneration OpenSource List](/10~AI.AI/NLP/LLM/LLM-Model/CodeGeneration/CodeGeneration-OpenSource-List.md)
+            - [6.12.6.4.1.1 CodeGeneration OpenSource List](/10~AI/NLP/LLM/LLM-Model/CodeGeneration/CodeGeneration-OpenSource-List.md)
           - 6.12.6.4.2 LLaMA [2]
-            - [6.12.6.4.2.1 Dolly List](/10~AI.AI/NLP/LLM/LLM-Model/LLaMA/Dolly-List.md)
-            - [6.12.6.4.2.2 LLaMA List](/10~AI.AI/NLP/LLM/LLM-Model/LLaMA/LLaMA-List.md)
+            - [6.12.6.4.2.1 Dolly List](/10~AI/NLP/LLM/LLM-Model/LLaMA/Dolly-List.md)
+            - [6.12.6.4.2.2 LLaMA List](/10~AI/NLP/LLM/LLM-Model/LLaMA/LLaMA-List.md)
           - 6.12.6.4.3 OpenAI [3]
             - 6.12.6.4.3.1 GPT [2]
-              - [6.12.6.4.3.1.1 GPT List](/10~AI.AI/NLP/LLM/LLM-Model/OpenAI/GPT/GPT-List.md)
-              - [6.12.6.4.3.1.2 OpenAI List](/10~AI.AI/NLP/LLM/LLM-Model/OpenAI/GPT/OpenAI-List.md)
-            - [6.12.6.4.3.2 OpenAI List](/10~AI.AI/NLP/LLM/LLM-Model/OpenAI/OpenAI-List.md)
-            - [6.12.6.4.3.3 OpenAI Site List](/10~AI.AI/NLP/LLM/LLM-Model/OpenAI/OpenAI-Site-List.md)
-        - [6.12.6.5 LLM OpenSource List](/10~AI.AI/NLP/LLM/LLM-OpenSource-List.md)
+              - [6.12.6.4.3.1.1 GPT List](/10~AI/NLP/LLM/LLM-Model/OpenAI/GPT/GPT-List.md)
+              - [6.12.6.4.3.1.2 OpenAI List](/10~AI/NLP/LLM/LLM-Model/OpenAI/GPT/OpenAI-List.md)
+            - [6.12.6.4.3.2 OpenAI List](/10~AI/NLP/LLM/LLM-Model/OpenAI/OpenAI-List.md)
+            - [6.12.6.4.3.3 OpenAI Site List](/10~AI/NLP/LLM/LLM-Model/OpenAI/OpenAI-Site-List.md)
+        - [6.12.6.5 LLM OpenSource List](/10~AI/NLP/LLM/LLM-OpenSource-List.md)
         - 6.12.6.6 LLM Prompt [1]
-          - [6.12.6.6.1 Prompt List](/10~AI.AI/NLP/LLM/LLM-Prompt/Prompt-List.md)
-      - [6.12.7 NLP List](/10~AI.AI/NLP/NLP-List.md)
-      - [6.12.8 NLP OpenSource List](/10~AI.AI/NLP/NLP-OpenSource-List.md)
+          - [6.12.6.6.1 Prompt List](/10~AI/NLP/LLM/LLM-Prompt/Prompt-List.md)
+      - [6.12.7 NLP List](/10~AI/NLP/NLP-List.md)
+      - [6.12.8 NLP OpenSource List](/10~AI/NLP/NLP-OpenSource-List.md)
       - 6.12.9 RNN [1]
-        - [6.12.9.1 RecurrentNeuralNetwork List](/10~AI.AI/NLP/RNN/RecurrentNeuralNetwork-List.md)
+        - [6.12.9.1 RecurrentNeuralNetwork List](/10~AI/NLP/RNN/RecurrentNeuralNetwork-List.md)
       - 6.12.10 SyntaxSemanticAnalysis [2]
         - 6.12.10.1 SentenceAnalysis [3]
-          - [6.12.10.1.1 Representation List](/10~AI.AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/Representation-List.md)
-          - [6.12.10.1.2 StatisticalLanguageModel List](/10~AI.AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/StatisticalLanguageModel-List.md)
-          - [6.12.10.1.3 TopicModel List](/10~AI.AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/TopicModel-List.md)
-        - [6.12.10.2 SyntaxSemanticAnalysis List](/10~AI.AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
+          - [6.12.10.1.1 Representation List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/Representation-List.md)
+          - [6.12.10.1.2 StatisticalLanguageModel List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/StatisticalLanguageModel-List.md)
+          - [6.12.10.1.3 TopicModel List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/TopicModel-List.md)
+        - [6.12.10.2 SyntaxSemanticAnalysis List](/10~AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
       - 6.12.11 Transformer [2]
-        - [6.12.11.1 Transformer List](/10~AI.AI/NLP/Transformer/Transformer-List.md)
-        - [6.12.11.2 Transformer OpenSource List](/10~AI.AI/NLP/Transformer/Transformer-OpenSource-List.md)
+        - [6.12.11.1 Transformer List](/10~AI/NLP/Transformer/Transformer-List.md)
+        - [6.12.11.2 Transformer OpenSource List](/10~AI/NLP/Transformer/Transformer-OpenSource-List.md)
     - 6.13 ReinforcementLearning [2]
       - 6.13.1 DRL [1]
-        - [6.13.1.1 DeepReinforcementLearning](/10~AI.AI/ReinforcementLearning/DRL/DeepReinforcementLearning.md)
-      - [6.13.2 ReinforcementLearning List](/10~AI.AI/ReinforcementLearning/ReinforcementLearning-List.md)
-    - 6.14 Toolkit [6]
-      - [6.14.1 AI Toolkit List](/10~AI.AI/Toolkit/AI-Toolkit-List.md)
+        - [6.13.1.1 DeepReinforcementLearning](/10~AI/ReinforcementLearning/DRL/DeepReinforcementLearning.md)
+      - [6.13.2 ReinforcementLearning List](/10~AI/ReinforcementLearning/ReinforcementLearning-List.md)
+    - 6.14 Toolkits [6]
+      - [6.14.1 AI Toolkit List](/10~AI/Toolkits/AI-Toolkit-List.md)
       - 6.14.2 CUDA [1]
-        - [6.14.2.1 CUDA List](/10~AI.AI/Toolkit/CUDA/CUDA-List.md)
+        - [6.14.2.1 CUDA List](/10~AI/Toolkits/CUDA/CUDA-List.md)
       - 6.14.3 FederalLearning [1]
-        - [6.14.3.1 FederalLearning List](/10~AI.AI/Toolkit/FederalLearning/FederalLearning-List.md)
+        - [6.14.3.1 FederalLearning List](/10~AI/Toolkits/FederalLearning/FederalLearning-List.md)
       - 6.14.4 Framework [4]
-        - [6.14.4.1 Metaflow](/10~AI.AI/Toolkit/Framework/Metaflow/README.md)
+        - [6.14.4.1 Metaflow](/10~AI/Toolkits/Framework/Metaflow/README.md)
           
         - 6.14.4.2 PyTorch [2]
-          - [6.14.4.2.1 PyTorch List](/10~AI.AI/Toolkit/Framework/PyTorch/PyTorch-List.md)
-          - [6.14.4.2.2 PyTorch OpenSource List](/10~AI.AI/Toolkit/Framework/PyTorch/PyTorch-OpenSource-List.md)
+          - [6.14.4.2.1 PyTorch List](/10~AI/Toolkits/Framework/PyTorch/PyTorch-List.md)
+          - [6.14.4.2.2 PyTorch OpenSource List](/10~AI/Toolkits/Framework/PyTorch/PyTorch-OpenSource-List.md)
         - 6.14.4.3 Scikit [3]
-          - [6.14.4.3.1 Jupyter List](/10~AI.AI/Toolkit/Framework/Scikit/Jupyter-List.md)
-          - [6.14.4.3.2 Scikit List](/10~AI.AI/Toolkit/Framework/Scikit/Scikit-List.md)
+          - [6.14.4.3.1 Jupyter List](/10~AI/Toolkits/Framework/Scikit/Jupyter-List.md)
+          - [6.14.4.3.2 Scikit List](/10~AI/Toolkits/Framework/Scikit/Scikit-List.md)
           - 6.14.4.3.3 Vis [1]
-            - [6.14.4.3.3.1 Vis List](/10~AI.AI/Toolkit/Framework/Scikit/Vis/Vis-List.md)
+            - [6.14.4.3.3.1 Vis List](/10~AI/Toolkits/Framework/Scikit/Vis/Vis-List.md)
         - 6.14.4.4 TensorFlow [4]
-          - [6.14.4.4.1 Keras List](/10~AI.AI/Toolkit/Framework/TensorFlow/Keras-List.md)
-          - [6.14.4.4.2 TFjs List](/10~AI.AI/Toolkit/Framework/TensorFlow/TFjs-List.md)
-          - [6.14.4.4.3 TensorFlow Internals List](/10~AI.AI/Toolkit/Framework/TensorFlow/TensorFlow-Internals-List.md)
-          - [6.14.4.4.4 TensorFlow List](/10~AI.AI/Toolkit/Framework/TensorFlow/TensorFlow-List.md)
+          - [6.14.4.4.1 Keras List](/10~AI/Toolkits/Framework/TensorFlow/Keras-List.md)
+          - [6.14.4.4.2 TFjs List](/10~AI/Toolkits/Framework/TensorFlow/TFjs-List.md)
+          - [6.14.4.4.3 TensorFlow Internals List](/10~AI/Toolkits/Framework/TensorFlow/TensorFlow-Internals-List.md)
+          - [6.14.4.4.4 TensorFlow List](/10~AI/Toolkits/Framework/TensorFlow/TensorFlow-List.md)
       - 6.14.5 MLOps [1]
-        - [6.14.5.1 MLOps List](/10~AI.AI/Toolkit/MLOps/MLOps-List.md)
+        - [6.14.5.1 MLOps List](/10~AI/Toolkits/MLOps/MLOps-List.md)
       - 6.14.6 Platform [1]
-        - [6.14.6.1 Platform List](/10~AI.AI/Toolkit/Platform/Platform-List.md)
+        - [6.14.6.1 Platform List](/10~AI/Toolkits/Platform/Platform-List.md)
   - 7 20~Product [6]
     - 7.1 Design [1]
       - [7.1.1 Design List](/20~Product/Design/Design-List.md)
