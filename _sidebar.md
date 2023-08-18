@@ -1074,14 +1074,14 @@
       - 6.9.5 SNA [1]
         - [6.9.5.1 SNA List](/10~AI/Application/SNA/SNA-List.md)
     - 6.10 CV [6]
-      - 6.10.1 AIGC [5]
+      - 6.10.1 AIGC [3]
         - [6.10.1.1 AIGC OpenSource List](/10~AI/CV/AIGC/AIGC-OpenSource-List.md)
-        - 6.10.1.2 Diffusion [1]
+        - 6.10.1.2 Diffusion [3]
           - [6.10.1.2.1 Diffusion List](/10~AI/CV/AIGC/Diffusion/Diffusion-List.md)
+          - [6.10.1.2.2 MidJourney List](/10~AI/CV/AIGC/Diffusion/MidJourney-List.md)
+          - [6.10.1.2.3 StableDiffusion List](/10~AI/CV/AIGC/Diffusion/StableDiffusion-List.md)
         - 6.10.1.3 DigitalTwin [1]
           - [6.10.1.3.1 DigitalTwin OpenSource List](/10~AI/CV/AIGC/DigitalTwin/DigitalTwin-OpenSource-List.md)
-        - [6.10.1.4 MidJourney List](/10~AI/CV/AIGC/MidJourney-List.md)
-        - [6.10.1.5 StableDiffusion List](/10~AI/CV/AIGC/StableDiffusion-List.md)
       - [6.10.2 CV List](/10~AI/CV/CV-List.md)
       - [6.10.3 CV OpenSource List](/10~AI/CV/CV-OpenSource-List.md)
       - 6.10.4 NeuralNetwork [1]
@@ -1089,8 +1089,9 @@
           - [6.10.4.1.1 CNN List](/10~AI/CV/NeuralNetwork/CNN/CNN-List.md)
       - 6.10.5 Recognition [3]
         - [6.10.5.1 FaceRecognition List](/10~AI/CV/Recognition/FaceRecognition-List.md)
-        - 6.10.5.2 OCR [1]
+        - 6.10.5.2 OCR [2]
           - [6.10.5.2.1 OCR List](/10~AI/CV/Recognition/OCR/OCR-List.md)
+          - [6.10.5.2.2 OCR OpenSource List](/10~AI/CV/Recognition/OCR/OCR-OpenSource-List.md)
         - [6.10.5.3 Object Detection List](/10~AI/CV/Recognition/Object-Detection-List.md)
       - 6.10.6 Toolkits [1]
         - [6.10.6.1 OpenCV List](/10~AI/CV/Toolkits/OpenCV-List.md)

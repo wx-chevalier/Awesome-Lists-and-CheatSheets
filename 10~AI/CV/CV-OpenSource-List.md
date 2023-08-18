@@ -26,22 +26,6 @@
 
 - [2023~LightGlue ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/cvg/LightGlue)](https://github.com/cvg/LightGlue): This repository hosts the inference code for LightGlue, a lightweight feature matcher with high accuracy and adaptive pruning techniques, both in the width and depth of the network, for blazing fast inference. It takes as input a set of keypoints and descriptors for each image, and returns the indices of corresponding points between them.
 
-## OCR
-
-- [Tess4j ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/nguyenq/tess4j): Java JNA wrapper for Tesseract OCR API.
-
-- [2018-alpr-unconstrained](https://github.com/sergiomsilva/alpr-unconstrained): License Plate Detection and Recognition in Unconstrained Scenarios.
-
-- [2020~PaddleOCR ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/PaddlePaddle/PaddleOCR): PaddleOCR aims to create rich, leading, and practical OCR tools that help users train better models and apply them into practice.
-
-- [2020~EasyOCR ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/JaidedAI/EasyOCR): Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
-
-- [keras-ocr ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/faustomorales/keras-ocr): A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
-
-- [2019~PaddleOCR ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/PaddlePaddle/PaddleOCR): Awesome OCR toolkits based on PaddlePaddle（8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）.
-
-- [2020~mmocr ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/open-mmlab/mmocr): OpenMMLab Text Detection, Recognition and Understanding Toolbox
-
 ## Segment
 
 - [2023~Segment Anything ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/facebookresearch/segment-anything)](https://github.com/facebookresearch/segment-anything): The Segment Anything Model (SAM) produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image. It has been trained on a dataset of 11 million images and 1.1 billion masks, and has strong zero-shot performance on a variety of segmentation tasks.
