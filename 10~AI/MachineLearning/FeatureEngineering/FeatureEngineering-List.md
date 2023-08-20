@@ -4,7 +4,7 @@
 
 - [Faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
 
-- [2018-深度学习中常用的图像数据增强方法-纯干货](https://mp.weixin.qq.com/s/_7xFBLPGT0VRTJ22toHJ3g): 本文将会带你学会如何对已有的图像数据进行数据增强，获取样本的多样性与数据的多样性从而为训练模型打下良好基础。
+- [2018~深度学习中常用的图像数据增强方法-纯干货](https://mp.weixin.qq.com/s/_7xFBLPGT0VRTJ22toHJ3g): 本文将会带你学会如何对已有的图像数据进行数据增强，获取样本的多样性与数据的多样性从而为训练模型打下良好基础。
 
 # 归一化与正则化
 
@@ -22,7 +22,7 @@
 
 - [降维算法总结比较](https://zhuanlan.zhihu.com/p/25095926)
 
-- [2018-漫谈概率 PCA 和变分自编码器](https://mp.weixin.qq.com/s/iOdh1iIP0GIYe4gRDE0z-g): 本文的主要目的就是整理一下 PCA、概率 PCA、AutoEncoders、变分 AutoEncoders 这四者的关系。
+- [2018~漫谈概率 PCA 和变分自编码器](https://mp.weixin.qq.com/s/iOdh1iIP0GIYe4gRDE0z-g): 本文的主要目的就是整理一下 PCA、概率 PCA、AutoEncoders、变分 AutoEncoders 这四者的关系。
 
 # Feature Extraction
 

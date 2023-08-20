@@ -16,7 +16,7 @@
 
 # Patterns
 
-- [2018-Serverless Code Patterns](https://serverless.com/blog/serverless-architecture-code-patterns/): In this post, we'll share the best ways to structure your Serverless applications by applying the patterns directly on a simple example app we’re building — A Serverless Social Network.
+- [2018~Serverless Code Patterns](https://serverless.com/blog/serverless-architecture-code-patterns/): In this post, we'll share the best ways to structure your Serverless applications by applying the patterns directly on a simple example app we’re building — A Serverless Social Network.
 
 # AWS
 

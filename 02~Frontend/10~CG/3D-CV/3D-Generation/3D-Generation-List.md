@@ -2,11 +2,11 @@
 
 ## Image To Mesh
 
-- [2018-mlivesu/slice2mesh ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mlivesu/slice2mesh)](https://github.com/mlivesu/slice2mesh): a Meshing Tool for the Simulation of Additive Manufacturing Processes
+- [2018~mlivesu/slice2mesh ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mlivesu/slice2mesh)](https://github.com/mlivesu/slice2mesh): a Meshing Tool for the Simulation of Additive Manufacturing Processes
 
-- [2018-ThibaultGROUEIX/AtlasNet ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ThibaultGROUEIX/AtlasNet)](https://github.com/ThibaultGROUEIX/AtlasNet): This repository contains the source codes for the paper "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation ". The network is able to synthesize a mesh (point cloud + connectivity) from a low-resolution point cloud, or from an image.
+- [2018~ThibaultGROUEIX/AtlasNet ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ThibaultGROUEIX/AtlasNet)](https://github.com/ThibaultGROUEIX/AtlasNet): This repository contains the source codes for the paper "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation ". The network is able to synthesize a mesh (point cloud + connectivity) from a low-resolution point cloud, or from an image.
 
-- [2018-Pix3d ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/xingyuansun/pix3d)](https://github.com/xingyuansun/pix3d): Dataset and Methods for Single-Image 3D Shape Modeling.
+- [2018~Pix3d ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/xingyuansun/pix3d)](https://github.com/xingyuansun/pix3d): Dataset and Methods for Single-Image 3D Shape Modeling.
 
 - [2019~Pixel2Mesh ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nywang16/Pixel2Mesh)](https://github.com/nywang16/Pixel2Mesh): Generating 3D Mesh Models from Single RGB Images. In ECCV2018.
 

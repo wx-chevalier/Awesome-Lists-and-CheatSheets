@@ -1,8 +1,8 @@
 # CSS Layout List
 
-- [2018-CSS Layout cookbook #Series#](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook): The CSS layout cookbook aims to bring together recipes for common layout patterns, things you might need to implement in your own sites.
+- [2018~CSS Layout cookbook #Series#](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook): The CSS layout cookbook aims to bring together recipes for common layout patterns, things you might need to implement in your own sites.
 
-- [2018-Relearn CSS layout #Series#](https://every-layout.dev): Every Layout will teach you how to better harness the built-in algorithms that power browsers and CSS.
+- [2018~Relearn CSS layout #Series#](https://every-layout.dev): Every Layout will teach you how to better harness the built-in algorithms that power browsers and CSS.
 
 # Size: 尺寸
 
@@ -14,7 +14,7 @@
 
 - [等宽字体在 web 布局中应用以及 CSS3 ch 单位嘿嘿](http://www.zhangxinxu.com/wordpress/2016/07/monospaced-font-css3-ch-unit/)
 
-- [2018-How Big Is That Box? Understanding Sizing In CSS Layout](https://parg.co/Ukr): In this article, I’m going to share with you some interesting things about sizing boxes in CSS.
+- [2018~How Big Is That Box? Understanding Sizing In CSS Layout](https://parg.co/Ukr): In this article, I’m going to share with you some interesting things about sizing boxes in CSS.
 
 # Box Model
 
@@ -58,7 +58,7 @@
 
 - [2017-Flexbox Patterns ![code](https://ng-tech.icu/assets/code.svg)](http://www.flexboxpatterns.com/feature-list)
 
-- [2018-CSS Flexible Box Layout in MDN](https://parg.co/UVS): CSS Flexible Box Layout is a module of CSS that defines a CSS box model optimized for user interface design, and the layout of items in one dimension.
+- [2018~CSS Flexible Box Layout in MDN](https://parg.co/UVS): CSS Flexible Box Layout is a module of CSS that defines a CSS box model optimized for user interface design, and the layout of items in one dimension.
 
 # CSS Grid
 
@@ -76,4 +76,4 @@
 
 - [2017-How to make your HTML responsive by adding a single line of CSS](https://parg.co/Upx): In this article I’ll teach you how to use CSS Grid to create a super cool image grid which varies the amount of columns with the width of the screen.
 
-- [2018-CSS Grid + Flexbox Solving Real-world Problems](https://parg.co/Ukv): The challenge for this would be supporting Internet Explorer 11 and Safari 9+.
+- [2018~CSS Grid + Flexbox Solving Real-world Problems](https://parg.co/Ukv): The challenge for this would be supporting Internet Explorer 11 and Safari 9+.

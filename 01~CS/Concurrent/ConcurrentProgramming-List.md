@@ -14,11 +14,11 @@
 
 - [抛开语言和技术栈不谈，我们应该如何选择线程模型？ ](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598379&idx=1&sn=39d432e1d2f2c07254157e621bc50f01&chksm=8be99539bc9e1c2f892fcc89089c939d70361d1ba1fb584ce69ab68240eb35e6846f3c14bd6b&mpshare=1&scene=1&srcid=1028Z0atSJuHV9dRSZdjogqo#rd)
 
-- [2018-Why goroutines are not lightweight threads?](https://codeburst.io/why-goroutines-are-not-lightweight-threads-7c460c1f155f): Concurrency has existed since long ago in the form of Threads which are used in almost all the applications these days.
+- [2018~Why goroutines are not lightweight threads?](https://codeburst.io/why-goroutines-are-not-lightweight-threads-7c460c1f155f): Concurrency has existed since long ago in the form of Threads which are used in almost all the applications these days.
 
 # Concurrent Primitive
 
-- [2018-Why you can have millions of goroutines but only thousands of Java threads](https://rcoh.me/posts/why-you-can-have-a-million-go-routines-but-only-1000-java-threads/)
+- [2018~Why you can have millions of goroutines but only thousands of Java threads](https://rcoh.me/posts/why-you-can-have-a-million-go-routines-but-only-1000-java-threads/)
 
 # Asynchronous Pattern
 

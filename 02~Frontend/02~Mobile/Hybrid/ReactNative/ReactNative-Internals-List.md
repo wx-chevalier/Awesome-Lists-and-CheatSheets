@@ -8,4 +8,4 @@
 
 - [2017-20 分钟理解 React Native For Android 原理](http://6me.us/nNgd): 公司内几个 APP 已经接入并上线了多个 RN 模块，后续规划的定制化需求及性能优化需要我们对 RN 底层原理有更深入的理解。下面通过研读源代码来分析和总结下 Android 中的 RN 实现原理。
 
-- [2018-An In-depth Look Inside React Native](https://parg.co/UD6): Discover how React Native functions internally, and what it does for you without you knowing it.
+- [2018~An In-depth Look Inside React Native](https://parg.co/UD6): Discover how React Native functions internally, and what it does for you without you knowing it.

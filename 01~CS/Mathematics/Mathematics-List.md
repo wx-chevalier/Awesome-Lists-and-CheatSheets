@@ -2,7 +2,7 @@
 
 - [2015-MTCAS #Series#](https://github.com/Cactus-proj/MTCAS): 计算机代数系统的数学理论（Mathematica Theory of Computer Algebra System，MTCAS）
 
-- [2018-SOME FUNDAMENTAL THEOREMS IN MATHEMATICS #Paper#](https://arxiv.org/pdf/1807.08416.pdf)
+- [2018~SOME FUNDAMENTAL THEOREMS IN MATHEMATICS #Paper#](https://arxiv.org/pdf/1807.08416.pdf)
 
 - [2019~ALL IN ONE MATHEMATICS CHEAT SHEET](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf)
 
@@ -31,7 +31,7 @@
 
 - [2017-G. Casella-《An Introduction to Statistical Learning》📚](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf): This book is appropriate for advanced undergraduates or master’s students in statistics or related quantitative fields or for individuals in otherdisciplines who wish to use statistical learning tools to analyze their data.
 
-- [2018-《AI 算法工程师手册》📚](http://www.huaxiaozhuan.com/): 这是作者多年以来学习总结的笔记，经整理之后开源于世。目前还有约一半的内容在陆续整理中，已经整理好的内容放置在此。
+- [2018~《AI 算法工程师手册》📚](http://www.huaxiaozhuan.com/): 这是作者多年以来学习总结的笔记，经整理之后开源于世。目前还有约一半的内容在陆续整理中，已经整理好的内容放置在此。
 
 - [2019~《Mathematics for Machine Learning》📚](https://mml-book.github.io): We wrote a book on Mathematics for Machine Learning that motivates people to learn mathematical concepts. The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books.
 

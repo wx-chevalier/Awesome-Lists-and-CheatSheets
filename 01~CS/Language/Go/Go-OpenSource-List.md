@@ -16,7 +16,7 @@
 
 - [filebrowser ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/filebrowser/filebrowser): filebrowser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files. It allows the creation of multiple users and each user can have its own directory. It can be used as a standalone app or as a middleware.
 
-- [2018-wtf ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/wtfutil/wtf)](https://github.com/wtfutil/wtf): WTF (aka 'wtfutil') is the personal information dashboard for your terminal, providing at-a-glance access to your very important but infrequently-needed stats and data.
+- [2018~wtf ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/wtfutil/wtf)](https://github.com/wtfutil/wtf): WTF (aka 'wtfutil') is the personal information dashboard for your terminal, providing at-a-glance access to your very important but infrequently-needed stats and data.
 
 - [2022~gopeed ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/monkeyWie/gopeed): High speed downloader that supports all platforms.
 
@@ -94,7 +94,7 @@
 
 ### Dependence Injection
 
-- [2018-wire ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/google/wire): Compile-time Dependency Injection for Go
+- [2018~wire ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/google/wire): Compile-time Dependency Injection for Go
 
 ## Configuration
 
@@ -122,7 +122,7 @@
 
 - [gojay ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/francoispqt/gojay): Highly performant JSON encoder/decoder with powerful stream API for Golang.
 
-- [2018-jstream ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bcicen/jstream): jstream is a streaming JSON parser and value extraction library for Go.
+- [2018~jstream ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bcicen/jstream): jstream is a streaming JSON parser and value extraction library for Go.
 
 - [2019~Package validator ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/go-playground/validator): 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
 
@@ -196,7 +196,7 @@
 
 ## HTTPS
 
-- [2018-CertMagic ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mholt/certmagic): Caddy's automagic TLS features, now for your own Go programs, in one powerful and easy-to-use library!
+- [2018~CertMagic ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mholt/certmagic): Caddy's automagic TLS features, now for your own Go programs, in one powerful and easy-to-use library!
 
 ## GraphQL
 

@@ -26,9 +26,9 @@
 
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop): An image cropping tool for React with no dependencies.
 
-- [2018-Pica ![code](https://ng-tech.icu/assets/code.svg)](http://nodeca.github.io/pica/demo/): Resize image in browser with high quality and high speed
+- [2018~Pica ![code](https://ng-tech.icu/assets/code.svg)](http://nodeca.github.io/pica/demo/): Resize image in browser with high quality and high speed
 
-- [2018-Squoosh ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChromeLabs/squoosh): Squoosh is an image compression web app that allows you to dive into the advanced options provided by various image compressors.
+- [2018~Squoosh ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChromeLabs/squoosh): Squoosh is an image compression web app that allows you to dive into the advanced options provided by various image compressors.
 
 - [2017-react-imgpro ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/nitin42/react-imgpro): Image Processing Component for React.
 

@@ -6,4 +6,4 @@
 
 # Meta Programming（元编程）
 
-- [2018-Dependency Injection in Go](https://blog.drewolson.org/dependency-injection-in-go/): In this post I'll give an introduction to DI and then show an example application before and after using DI (via the dig library).
+- [2018~Dependency Injection in Go](https://blog.drewolson.org/dependency-injection-in-go/): In this post I'll give an introduction to DI and then show an example application before and after using DI (via the dig library).

@@ -2,7 +2,7 @@
 
 - [2016-osquery For Security](https://medium.com/@clong/osquery-for-security-b66fffdf2daf): This post contains an overview of how to create an osquery config, centralize the log output, and start creating effective searches and alerts.
 
-- [2018-深入理解 iostat](https://mp.weixin.qq.com/s/nvDudsOmYxLUKblcAtCqng): 现在我们由浅到深地介绍这个工具，它输出的含义什么，介绍它的能力边界，介绍关于这个工具的常见误解。
+- [2018~深入理解 iostat](https://mp.weixin.qq.com/s/nvDudsOmYxLUKblcAtCqng): 现在我们由浅到深地介绍这个工具，它输出的含义什么，介绍它的能力边界，介绍关于这个工具的常见误解。
 
 # Monitor & Alert System | 监控系统
 

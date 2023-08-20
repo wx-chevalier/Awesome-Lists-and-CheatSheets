@@ -64,7 +64,7 @@
 
 - [2017-Awesome Data Science 🗃️](https://github.com/bulutyazilim/awesome-datascience): An open source Data Science repository to learn and apply towards solving real world problems.
 
-- [2018-Deep Learning World 🗃️](https://github.com/astorfi/Deep-Learning-World): Organized Resources for Deep Learning Researchers and Developers.
+- [2018~Deep Learning World 🗃️](https://github.com/astorfi/Deep-Learning-World): Organized Resources for Deep Learning Researchers and Developers.
 
 - [2019~Virgilio ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/clone95/virgilio): Your new Mentor for Data Science E-Learning.
 

@@ -14,6 +14,8 @@
 
 - [2022~QiujieDong/Mesh_Segmentation 🗃️](https://github.com/QiujieDong/Mesh_Segmentation): some materials about mesh processing, including papers, videos, codes, and so on. Updating every day!
 
+- [2021-subeeshvasu/Awsome_Deep_Geometry_Learning 🗃️ ![star](https://img.shields.io/github/stars/subeeshvasu/Awsome_Deep_Geometry_Learning)](https://github.com/subeeshvasu/Awsome_Deep_Geometry_Learning): A list of resources about deep learning solutions on 3D shape processing.
+
 ## Courses
 
 - [2020~Geometry Processing Course 🎥](https://github.com/alecjacobson/geometry-processing): Course designed by Prof. Alec Jacobson, University of Toronto, with assistance from Klint Qinami and Prof. Eitan Grinspun, Columbia University.

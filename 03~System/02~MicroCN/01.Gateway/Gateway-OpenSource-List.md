@@ -8,13 +8,13 @@
 
 - [2016-VeryNginx ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alexazhou/VeryNginx): A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 
-- [2018-HTTPS Portal ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/SteveLTN/https-portal): A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
+- [2018~HTTPS Portal ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/SteveLTN/https-portal): A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 
-- [2018-Træfik ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/containous/traefik): Træfik (pronounced like traffic) is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
+- [2018~Træfik ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/containous/traefik): Træfik (pronounced like traffic) is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
 
-- [2018-ShenYu ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/apache/shenyu)](https://github.com/apache/shenyu): Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
+- [2018~ShenYu ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/apache/shenyu)](https://github.com/apache/shenyu): Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
 
-- [2018-Tyk ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/TykTechnologies/tyk): Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
+- [2018~Tyk ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/TykTechnologies/tyk): Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 
 - [2020~APISIX ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/apache/apisix): APISIX provides rich traffic management features such as load balancing, dynamic upstream, canary release, circuit breaking, authentication, observability, and more.
 

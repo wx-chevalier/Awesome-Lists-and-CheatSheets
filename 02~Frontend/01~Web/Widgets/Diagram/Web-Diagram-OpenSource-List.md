@@ -44,7 +44,7 @@
 
 # Graph & Network
 
-- [2018-Cytoscape.js ![code](https://ng-tech.icu/assets/code.svg)](http://js.cytoscape.org/): Graph theory / network library for analysis and visualisation.
+- [2018~Cytoscape.js ![code](https://ng-tech.icu/assets/code.svg)](http://js.cytoscape.org/): Graph theory / network library for analysis and visualisation.
 
 - [react-network-diagrams ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/esnet/react-network-diagrams): Contains ESnet network mapping and circuit rendering code, as used in the ESnet portal.
 
@@ -56,7 +56,7 @@
 
 - [2017-maptalks.js](https://github.com/maptalks/maptalks.js): An open-source javascript library for map applications.
 
-- [2018-deck.gl ![code](https://ng-tech.icu/assets/code.svg)](http://deck.gl/#/): deck.gl is a WebGL-powered framework for visual exploratory data analysis of large datasets.
+- [2018~deck.gl ![code](https://ng-tech.icu/assets/code.svg)](http://deck.gl/#/): deck.gl is a WebGL-powered framework for visual exploratory data analysis of large datasets.
 
 # Application
 

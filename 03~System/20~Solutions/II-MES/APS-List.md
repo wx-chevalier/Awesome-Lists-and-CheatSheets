@@ -1,6 +1,6 @@
 # APS List
 
-- [2018-Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II): Learning how to implement GA and NSGA-II for job shop scheduling problem in python
+- [2018~Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II): Learning how to implement GA and NSGA-II for job shop scheduling problem in python
 
 - [2020~HA_FJSP ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/zll-hust/HA_FJSP)](https://github.com/zll-hust/HA_FJSP): An effective hybrid genetic algorithm and tabu search for flexible job shop scheduling problem.
 

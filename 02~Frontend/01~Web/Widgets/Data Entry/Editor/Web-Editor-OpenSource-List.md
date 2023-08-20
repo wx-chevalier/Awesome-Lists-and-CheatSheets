@@ -10,13 +10,13 @@
 
 - [2016-react-rte ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/sstur/react-rte): Pure React rich text WYSIWYG editor based on draft-js.
 
-- [2018-Slate ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ianstormtaylor/slate): A completely customizable framework for building rich text editors.
+- [2018~Slate ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ianstormtaylor/slate): A completely customizable framework for building rich text editors.
 
-- [2018-GhostText ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GhostText/GhostText): Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
+- [2018~GhostText ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GhostText/GhostText): Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 
-- [2018-ReLaXed ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/RelaxedJS/ReLaXed): ReLaXed is a tool which creates PDF documents interactively using HTML or Pug (a shorthand for HTML).
+- [2018~ReLaXed ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/RelaxedJS/ReLaXed): ReLaXed is a tool which creates PDF documents interactively using HTML or Pug (a shorthand for HTML).
 
-- [2018-Countable ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/RadLikeWhoa/Countable/blob/master/README.md): Countable is a JavaScript function to add live paragraph-, word- and character-counting to an HTML element.
+- [2018~Countable ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/RadLikeWhoa/Countable/blob/master/README.md): Countable is a JavaScript function to add live paragraph-, word- and character-counting to an HTML element.
 
 - [2019~Editor.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/codex-team/editor.js): A block-styled editor with clean JSON output.
 

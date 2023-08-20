@@ -6,7 +6,7 @@
 
 # CPU
 
-- [2018-What's a CPU to do when it has nothing to do?](https://lwn.net/Articles/767630/): At Kernel Recipes 2018, Rafael Wysocki discussed what CPUs do when they don't have anything to do
+- [2018~What's a CPU to do when it has nothing to do?](https://lwn.net/Articles/767630/): At Kernel Recipes 2018, Rafael Wysocki discussed what CPUs do when they don't have anything to do
 
 # Systemd
 

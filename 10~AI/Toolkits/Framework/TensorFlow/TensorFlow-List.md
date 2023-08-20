@@ -14,7 +14,7 @@
 
 - [2017-Top Five Use Cases of TensorFlow](https://www.exastax.com/deep-learning/top-five-use-cases-of-tensorflow/): TensorFlow is mainly used for: Classification, Perception, Understanding, Discovering, Prediction and Creation.
 
-- [2018-Google Brain 研究员详解聊天机器人](https://parg.co/Yqf): 面临的深度学习技术问题以及基于 TensorFlow 的开发实践。
+- [2018~Google Brain 研究员详解聊天机器人](https://parg.co/Yqf): 面临的深度学习技术问题以及基于 TensorFlow 的开发实践。
 
 - [How Zendesk Serves TensorFlow Models in Production](https://medium.com/zendesk-engineering/how-zendesk-serves-tensorflow-models-in-production-751ee22f0f4b#.x0o7mpnd3)
 
@@ -32,7 +32,7 @@
 
 - [2017-We Need to Go Deeper: A Practical Guide to TensorFlow and Inception](https://parg.co/YqN)
 
-- [2018-Tensorflow: The Confusing Parts #Series#](http://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/): This tutorial is intended for people who already have some experience with both programming and machine learning, and want to pick up Tensorflow.
+- [2018~Tensorflow: The Confusing Parts #Series#](http://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/): This tutorial is intended for people who already have some experience with both programming and machine learning, and want to pick up Tensorflow.
 
 ## Concepts | 概念
 
@@ -58,11 +58,11 @@
 
 - [2017-TensorFlow-World #Series#](https://github.com/astorfi/TensorFlow-World): This repository is aimed to provide simple and ready-to-use tutorials for TensorFlow.
 
-- [2018-easy-tensorflow, Simple and comprehensive tutorials in TensorFlow #Series#](https://github.com/easy-tensorflow/easy-tensorflow): The goal of this repository is to provide comprehensive tutorials for TensorFlow while maintaining the simplicity of the code.
+- [2018~easy-tensorflow, Simple and comprehensive tutorials in TensorFlow #Series#](https://github.com/easy-tensorflow/easy-tensorflow): The goal of this repository is to provide comprehensive tutorials for TensorFlow while maintaining the simplicity of the code.
 
-- [2018-stanford-tensorflow-tutorials #Series#](https://github.com/chiphuyen/stanford-tensorflow-tutorials): This repository contains code examples for the course CS 20: TensorFlow for Deep Learning Research.
+- [2018~stanford-tensorflow-tutorials #Series#](https://github.com/chiphuyen/stanford-tensorflow-tutorials): This repository contains code examples for the course CS 20: TensorFlow for Deep Learning Research.
 
-- [2018-TensorFlow Course #Series#](https://github.com/open-source-for-science/TensorFlow-Course): This repository aims to provide simple and ready-to-use tutorials for TensorFlow. Each tutorial includes source code and most of them are associated with a documentation.
+- [2018~TensorFlow Course #Series#](https://github.com/open-source-for-science/TensorFlow-Course): This repository aims to provide simple and ready-to-use tutorials for TensorFlow. Each tutorial includes source code and most of them are associated with a documentation.
 
 - [2019~TensorFlow 2.x Tutorials #Series#](https://github.com/dragen1860/TensorFlow-2.x-Tutorials): TensorFlow 2.x version's Tutorials and Examples, including CNN, RNN, GAN, Auto-Encoders, FasterRCNN, GPT, BERT examples, etc. TF 2.0 版入门实例代码，实战教程。
 

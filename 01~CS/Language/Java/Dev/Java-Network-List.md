@@ -14,7 +14,7 @@
 
 - [Java NIO 浅析](https://zhuanlan.zhihu.com/p/23488863)
 
-- [2018-Introduction to the Java NIO Selector](http://www.baeldung.com/java-nio-selector): In this article, we’ll explore the introductory parts of Java NIO’s Selector component.
+- [2018~Introduction to the Java NIO Selector](http://www.baeldung.com/java-nio-selector): In this article, we’ll explore the introductory parts of Java NIO’s Selector component.
 
 ## NIO2
 

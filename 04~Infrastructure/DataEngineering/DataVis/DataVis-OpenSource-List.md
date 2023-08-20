@@ -1,6 +1,6 @@
 # DataVis OpenSource List | 数据可视化开源工具索引
 
-- [2018-Perspective ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/finos/perspective)](https://github.com/finos/perspective): Perspective is an interactive analytics and data visualization component, which is especially well-suited for large and/or streaming datasets. Use it to create user-configurable reports, dashboards, notebooks and applications, then deploy stand-alone in the browser, or in concert with Python and/or Jupyterlab.
+- [2018~Perspective ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/finos/perspective)](https://github.com/finos/perspective): Perspective is an interactive analytics and data visualization component, which is especially well-suited for large and/or streaming datasets. Use it to create user-configurable reports, dashboards, notebooks and applications, then deploy stand-alone in the browser, or in concert with Python and/or Jupyterlab.
 
 - [2020~AutoViz ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/AutoViML/AutoViz)](https://github.com/AutoViML/AutoViz): Automatically Visualize any dataset, any size with a single line of code. Now you can save these interactive charts as HTML files automatically with the "html" setting.
 

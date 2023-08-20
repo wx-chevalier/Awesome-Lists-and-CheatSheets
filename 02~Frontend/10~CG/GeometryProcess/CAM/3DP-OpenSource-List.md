@@ -2,7 +2,7 @@
 
 - [2010-Cura ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Ultimaker/Cura): 3D printer / slicing GUI built on top of the Uranium framework.
 
-- [2018-Slicer ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Slicer/Slicer)](https://github.com/Slicer/Slicer): Slicer, or 3D Slicer, is a free, open source software package for visualization and image analysis.
+- [2018~Slicer ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Slicer/Slicer)](https://github.com/Slicer/Slicer): Slicer, or 3D Slicer, is a free, open source software package for visualization and image analysis.
 
 - [2020~PrusaSlicer ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/prusa3d/PrusaSlicer): PrusaSlicer takes 3D models (STL, OBJ, AMF) and converts them into G-code instructions for FFF printers or PNG layers for mSLA 3D printers. It's compatible with any modern printer based on the RepRap toolchain, including all those based on the Marlin, Prusa, Sprinter and Repetier firmware. It also works with Mach3, LinuxCNC and Machinekit controllers.
 

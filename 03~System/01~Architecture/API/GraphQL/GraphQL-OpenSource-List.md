@@ -39,4 +39,4 @@
 
 - [Apollo Client ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/apollographql/apollo-client): A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 
-- [2018-graphql.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/f/graphql.js): A Simple and Isomorphic GraphQL Client for JavaScript.
+- [2018~graphql.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/f/graphql.js): A Simple and Isomorphic GraphQL Client for JavaScript.

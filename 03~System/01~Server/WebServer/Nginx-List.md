@@ -22,7 +22,7 @@
 
 # Configuration
 
-- [2018-An Introduction to NGINX for Developers](https://medium.freecodecamp.org/an-introduction-to-nginx-for-developers-62179b6a458f): In this article, I’ll cover a few basic steps about how to install and configure the most common parts of NGINX.
+- [2018~An Introduction to NGINX for Developers](https://medium.freecodecamp.org/an-introduction-to-nginx-for-developers-62179b6a458f): In this article, I’ll cover a few basic steps about how to install and configure the most common parts of NGINX.
 
 # OpenResty
 
@@ -32,7 +32,7 @@
 
 # OpenSource
 
-- [2018-NginxProxyManager ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/NginxProxyManager/nginx-proxy-manager)](https://github.com/NginxProxyManager/nginx-proxy-manager): This project comes as a pre-built docker image that enables you to easily forward to your websites running at home or otherwise, including free SSL, without having to know too much about Nginx or Letsencrypt.
+- [2018~NginxProxyManager ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/NginxProxyManager/nginx-proxy-manager)](https://github.com/NginxProxyManager/nginx-proxy-manager): This project comes as a pre-built docker image that enables you to easily forward to your websites running at home or otherwise, including free SSL, without having to know too much about Nginx or Letsencrypt.
 
 - [NGiИX configuration generator ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/valentinxxx/nginxconfig.io): NGiИX config generator generator on steroids.
 

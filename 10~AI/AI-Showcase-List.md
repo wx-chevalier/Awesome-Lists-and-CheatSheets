@@ -16,7 +16,7 @@
 
 # 视觉与图像
 
-- [2018-One Pixel Attack ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Hyperparticle/one-pixel-attack-keras): Keras reimplementation of "One pixel attack for fooling deep neural networks" using differential evolution on cifar10.
+- [2018~One Pixel Attack ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Hyperparticle/one-pixel-attack-keras): Keras reimplementation of "One pixel attack for fooling deep neural networks" using differential evolution on cifar10.
 
 - [person-blocker ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/minimaxir/person-blocker): Automatically "block" people in images (like Black Mirror) using a pretrained neural network.
 
@@ -26,9 +26,9 @@
 
 - [im2markup ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/harvardnlp/im2markup): A general-purpose, deep learning-based system to decompile an image into presentational markup.
 
-- [2018-vid2vid ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/NVIDIA/vid2vid): Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
+- [2018~vid2vid ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/NVIDIA/vid2vid): Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 
-- [2018-DeOldify ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
+- [2018~DeOldify ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
 
 - [avatarify ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alievk/avatarify): Avatars for Zoom, Skype and other video-conferencing apps.
 
@@ -50,7 +50,7 @@
 
 ## 人像处理
 
-- [2018-FastPhotoStyle ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/NVIDIA/FastPhotoStyle): This code repository contains an implementation of our fast photorealistic style transfer algorithm.
+- [2018~FastPhotoStyle ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/NVIDIA/FastPhotoStyle): This code repository contains an implementation of our fast photorealistic style transfer algorithm.
 
 - [DeepFaceLab ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/iperov/DeepFaceLab): DeepFaceLab is the leading software for creating deepfakes.
 
@@ -86,9 +86,9 @@
 
 ## Chess | 象棋
 
-- [2018-Minigo ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tensorflow/minigo): A minimalist Go engine modeled after AlphaGo Zero, built on MuGo.
+- [2018~Minigo ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tensorflow/minigo): A minimalist Go engine modeled after AlphaGo Zero, built on MuGo.
 
-- [2018-How to build your own AlphaZero AI using Python and Keras](https://parg.co/UiX): Teach a machine to learn Connect4 strategy through self-play and deep learning.
+- [2018~How to build your own AlphaZero AI using Python and Keras](https://parg.co/UiX): Teach a machine to learn Connect4 strategy through self-play and deep learning.
 
 # Development | 开发辅助
 
@@ -102,6 +102,6 @@
 
 - [How you can train an AI to convert your design mockups into HTML and CSS](https://parg.co/UXR)
 
-- [2018-Doodle Master ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/karanchahal/DoodleMaster): The Doodle Master seeks to turn your UI mockups into real code. Currently this repository just serves to demonstrate a Proof Of Concept of Artificially Intelligent Design Tools.
+- [2018~Doodle Master ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/karanchahal/DoodleMaster): The Doodle Master seeks to turn your UI mockups into real code. Currently this repository just serves to demonstrate a Proof Of Concept of Artificially Intelligent Design Tools.
 
 - [A simple neural network for python autocompletion](https://github.com/vpj/python_autocomplete): This a toy project we started to see how well a simple LSTM model can autocomplete python code.

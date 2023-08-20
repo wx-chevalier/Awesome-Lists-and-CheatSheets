@@ -16,7 +16,7 @@
 
 - [Redux 异步方案选型](https://zhuanlan.zhihu.com/p/24337401)
 
-- [2018-Redux 4 Ways](https://medium.com/react-native-training/redux-4-ways-95a130da0cdc#.xpa7z9ufe): Implementations of Thunk vs Saga vs Observable vs Redux Promise Middleware in 10 minutes.
+- [2018~Redux 4 Ways](https://medium.com/react-native-training/redux-4-ways-95a130da0cdc#.xpa7z9ufe): Implementations of Thunk vs Saga vs Observable vs Redux Promise Middleware in 10 minutes.
 
 - [why-do-we-need-middleware-for-async-flow-in-redux](http://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux/34623840#34623840)
 

@@ -71,9 +71,9 @@
 
 - [2017-RxDB ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pubkey/rxdb): The reactive, serverless, client-side, offline-first database for your next javascript-application.
 
-- [2018-AlaSQL ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/agershun/alasql): AlaSQL - ( à la SQL ) [ælæ ɛskju:ɛl] - is an open source SQL database for JavaScript with a strong focus on query speed and data source flexibility for both relational data and schemaless data. It works in the web browser, Node.js, and mobile apps.
+- [2018~AlaSQL ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/agershun/alasql): AlaSQL - ( à la SQL ) [ælæ ɛskju:ɛl] - is an open source SQL database for JavaScript with a strong focus on query speed and data source flexibility for both relational data and schemaless data. It works in the web browser, Node.js, and mobile apps.
 
-- [2018-lowdb ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/typicode/lowdb): ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser).
+- [2018~lowdb ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/typicode/lowdb): ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser).
 
 - [2019~nedb ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/louischatriot/nedb): The JavaScript Database, for Node.js, nw.js, electron and the browser.
 

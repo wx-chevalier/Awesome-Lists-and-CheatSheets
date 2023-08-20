@@ -38,9 +38,9 @@
 
 - [2017-Programming Languages: Application and Interpretation》📚](http://cs.brown.edu/courses/cs173/2012/book/index.html): 中文译本，[lotuc-PLAI_cn](https://github.com/lotuc/PLAI-cn)
 
-- [2018-How to Design Programs》📚](https://htdp.org/2018-01-06/Book/index.html): Program design—but not programming—deserves the same role in a liberal-arts education as mathematics and language skills.
+- [2018~How to Design Programs》📚](https://htdp.org/2018-01-06/Book/index.html): Program design—but not programming—deserves the same role in a liberal-arts education as mathematics and language skills.
 
-- [2018-Interactive SICP n.》📚](https://xuanji.appspot.com/isicp/): Interactive Structure and Interpretation of Computer Programs. Online version of SICP with a built-in scheme interpreter to allow readers to edit and run the code embedded in SICP.
+- [2018~Interactive SICP n.》📚](https://xuanji.appspot.com/isicp/): Interactive Structure and Interpretation of Computer Programs. Online version of SICP with a built-in scheme interpreter to allow readers to edit and run the code embedded in SICP.
 
 - [2019~Elements of Programming》📚](http://elementsofprogramming.com): This book applies the deductive method to programming by affiliating programs with the abstract mathematical theories that enable them to work.
 

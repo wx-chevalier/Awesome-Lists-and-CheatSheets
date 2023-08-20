@@ -8,7 +8,7 @@
 
 - [2023~A Data-Centric Introduction to Computing 📚](https://dcic-world.org/2023-02-21/index.html): This book is an introduction to computer science. It will teach you to program, and do so in ways that are of practical value and importance. However, it will also go beyond programming to computer science, a rich, deep, fascinating, and beautiful intellectual discipline. You will learn many useful things that you can apply right away, but we will also show you some of what lies beneath and beyond.
 
-- [2023~hackclub~《putting-the-you-in-cpu》 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hackclub/putting-the-you-in-cpu)](https://github.com/hackclub/putting-the-you-in-cpu):
+- [2023~hackclub~《Putting the You in CPU》 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hackclub/putting-the-you-in-cpu)](https://github.com/hackclub/putting-the-you-in-cpu):
 
 ## Courses
 

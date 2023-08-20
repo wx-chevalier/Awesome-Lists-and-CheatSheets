@@ -30,4 +30,4 @@
 
 - [2017-whiteboard ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mpociot/whiteboard): Simply write beautiful API documentation.
 
-- [2018-docz ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pedronauck/docz): It has never been so easy to document your things!
+- [2018~docz ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pedronauck/docz): It has never been so easy to document your things!

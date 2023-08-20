@@ -8,6 +8,6 @@
 
 - [BullMQ ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/taskforcesh/bullmq): The fastest, most reliable, Redis-based distributed queue for Node. Carefully written for rock solid stability and atomicity.
 
-- [2018-Celery ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/celery/celery)](https://github.com/celery/celery): Celery communicates via messages, usually using a broker to mediate between clients and workers. To initiate a task a client puts a message on the queue, the broker then delivers the message to a worker.
+- [2018~Celery ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/celery/celery)](https://github.com/celery/celery): Celery communicates via messages, usually using a broker to mediate between clients and workers. To initiate a task a client puts a message on the queue, the broker then delivers the message to a worker.
 
 - [2020~Jobrunr ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jobrunr/jobrunr)](https://github.com/jobrunr/jobrunr): An extremely easy way to perform background processing in Java. Backed by persistent storage. Open and free for commercial use.

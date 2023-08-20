@@ -52,7 +52,7 @@
 
 ### SQL
 
-- [2018-SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL-4th Edition》📚](https://parg.co/oUa): SQL Queries for Mere Mortals has earned worldwide praise as the clearest, simplest tutorial on writing effective queries with the latest SQL standards and database applications. Now, author John L. Viescas has updated this hands-on classic with even more advanced and valuable techniques.
+- [2018~SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL-4th Edition》📚](https://parg.co/oUa): SQL Queries for Mere Mortals has earned worldwide praise as the clearest, simplest tutorial on writing effective queries with the latest SQL standards and database applications. Now, author John L. Viescas has updated this hands-on classic with even more advanced and valuable techniques.
 
 - [2019~How to Teach People SQL》📚](https://dataschool.com/how-to-teach-people-sql/): This book will help you empathize with people learning SQL for the first time.
 

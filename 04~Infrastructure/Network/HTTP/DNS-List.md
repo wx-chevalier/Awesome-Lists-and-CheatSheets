@@ -6,7 +6,7 @@
 
 - [Episodes: How DNS Works](https://howdns.works/episodes/)
 
-- [2018-A cartoon intro to DNS over HTTPS](https://parg.co/mb7): So let’s look at how DNS over HTTPS and Trusted Recursive Resolver protect our users.
+- [2018~A cartoon intro to DNS over HTTPS](https://parg.co/mb7): So let’s look at how DNS over HTTPS and Trusted Recursive Resolver protect our users.
 
 # Internals
 

@@ -2,7 +2,7 @@
 
 - [Tess4j ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/nguyenq/tess4j): Java JNA wrapper for Tesseract OCR API.
 
-- [2018-alpr-unconstrained](https://github.com/sergiomsilva/alpr-unconstrained): License Plate Detection and Recognition in Unconstrained Scenarios.
+- [2018~alpr-unconstrained](https://github.com/sergiomsilva/alpr-unconstrained): License Plate Detection and Recognition in Unconstrained Scenarios.
 
 - [2020~PaddleOCR ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/PaddlePaddle/PaddleOCR): PaddleOCR aims to create rich, leading, and practical OCR tools that help users train better models and apply them into practice.
 

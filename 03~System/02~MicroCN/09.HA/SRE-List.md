@@ -4,7 +4,7 @@
 
 # Overview
 
-- [2018-性能之殇 #Series#](https://lvwenhan.com/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/492.html): 本文的目标是在我有限的认知范围内，讨论一下人们为了提高性能做出的种种努力，这里面包含硬件层面的 CPU、RAM、磁盘，操作系统层面的并发、并行、事件驱动，软件层面的多进程、多线程，网络层面的分布式，等等等等。
+- [2018~性能之殇 #Series#](https://lvwenhan.com/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/492.html): 本文的目标是在我有限的认知范围内，讨论一下人们为了提高性能做出的种种努力，这里面包含硬件层面的 CPU、RAM、磁盘，操作系统层面的并发、并行、事件驱动，软件层面的多进程、多线程，网络层面的分布式，等等等等。
 
 - [2016-究竟啥才是互联网架构“高可用”](http://6me.us/Fz25N7)
 
@@ -24,7 +24,7 @@
 
 ## Books
 
-- [2018-Google Site Reliability Engineering》📚](https://landing.google.com/sre/sre-book/chapters/foreword/): This book shows a willingness to let SRE thinking come out of the shadows.
+- [2018~Google Site Reliability Engineering》📚](https://landing.google.com/sre/sre-book/chapters/foreword/): This book shows a willingness to let SRE thinking come out of the shadows.
 
 - [2020~Building Secure & Reliable Systems》📚](https://static.googleusercontent.com/media/landing.google.com/zh-CN//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf): Best Practices for Designing, Implementing and Maintaining Systems.
 

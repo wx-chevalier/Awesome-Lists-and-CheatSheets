@@ -54,7 +54,7 @@
 
 - [2017-Bash Snippets ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alexanderepstein/Bash-Snippets): A collection of small bash scripts for heavy terminal users.
 
-- [2018-Shell Check ![code](https://ng-tech.icu/assets/code.svg)](https://www.shellcheck.net): ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts.
+- [2018~Shell Check ![code](https://ng-tech.icu/assets/code.svg)](https://www.shellcheck.net): ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts.
 
 - [2021~zx ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/google/zx): A tool for writing better scripts.
 

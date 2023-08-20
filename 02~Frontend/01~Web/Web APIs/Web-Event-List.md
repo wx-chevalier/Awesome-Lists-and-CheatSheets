@@ -80,7 +80,7 @@
 
 - [2017-IntersectionObserver’s Coming into View](https://developers.google.com/web/updates/2016/04/intersectionobserver): Making this visibility test more efficient is what IntersectionObserver was designed for.
 
-- [2018-Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://parg.co/Uiu): In this article, we are going to go out of the scroll darkness and talk about the modern way of lazy-loading resources.
+- [2018~Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://parg.co/Uiu): In this article, we are going to go out of the scroll darkness and talk about the modern way of lazy-loading resources.
 
 ## MutationObserver
 

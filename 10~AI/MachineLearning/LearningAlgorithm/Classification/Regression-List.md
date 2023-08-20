@@ -16,4 +16,4 @@
 
 # Gaussian Regression
 
-- [2018-A Visual Exploration of Gaussian Processes](https://www.jgoertler.com/visual-exploration-gaussian-processes/): How to turn a collection of small building blocks into a versatile tool for solving regression problems.
+- [2018~A Visual Exploration of Gaussian Processes](https://www.jgoertler.com/visual-exploration-gaussian-processes/): How to turn a collection of small building blocks into a versatile tool for solving regression problems.

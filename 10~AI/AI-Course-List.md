@@ -4,7 +4,7 @@
 
 # AI | 人工智能
 
-- [2018-英特尔-人工智能学生套件 🎥](https://software.intel.com/zh-cn/ai-academy/students/kits): 通过我们为软件开发人员、数据科学家和学生制作的免费课程学习人工智能理论并跟随动手练习。这些课程涵盖人工智能论题，并探讨在个人计算机和服务器工作站中利用英特尔 ® 处理器的工具和优化的库。
+- [2018~英特尔-人工智能学生套件 🎥](https://software.intel.com/zh-cn/ai-academy/students/kits): 通过我们为软件开发人员、数据科学家和学生制作的免费课程学习人工智能理论并跟随动手练习。这些课程涵盖人工智能论题，并探讨在个人计算机和服务器工作站中利用英特尔 ® 处理器的工具和优化的库。
 
 - [stanford-cs-221-artificial-intelligence 🎥](https://github.com/afshinea/stanford-cs-221-artificial-intelligence): VIP cheatsheets for Stanford's CS 221 Artificial Intelligence
 
@@ -32,15 +32,15 @@
 
 - [2017-Advanced Machine Learning 🎥](https://www.coursera.org/specializations/aml?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-TzFMe90rgoVoC7rrHct37A&siteID=OyHlmBp2G0c-TzFMe90rgoVoC7rrHct37A&utm_content=2&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c): Deep Dive Into The Modern AI Techniques. You will teach computer to see, draw, read, talk, play games and solve industry problems.
 
-- [2018-Machine Learning Crash Course with TensorFlow APIs by Google 🎥](https://developers.google.com/machine-learning/crash-course/): Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.
+- [2018~Machine Learning Crash Course with TensorFlow APIs by Google 🎥](https://developers.google.com/machine-learning/crash-course/): Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.
 
-- [2018-Foundations of Machine Learning 🎥](https://bloomberg.github.io/foml/): Understand the Concepts, Techniques and Mathematical Frameworks Used by Experts in Machine Learning.
+- [2018~Foundations of Machine Learning 🎥](https://bloomberg.github.io/foml/): Understand the Concepts, Techniques and Mathematical Frameworks Used by Experts in Machine Learning.
 
-- [2018-100 Days Of ML Code #Series#](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100 Days of ML Coding
+- [2018~100 Days Of ML Code #Series#](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100 Days of ML Coding
 
-- [2018-Machine Learning and Medicine 🎥](https://sgfin.github.io/learning-resources/): This is a not-particularly-systematic attempt to curate a handful of my favorite resources for learning statistics and machine learning.
+- [2018~Machine Learning and Medicine 🎥](https://sgfin.github.io/learning-resources/): This is a not-particularly-systematic attempt to curate a handful of my favorite resources for learning statistics and machine learning.
 
-- [2018-mlcourse.ai 🎥](https://github.com/Yorko/mlcourse.ai): Open Machine Learning Course
+- [2018~mlcourse.ai 🎥](https://github.com/Yorko/mlcourse.ai): Open Machine Learning Course
 
 - [2019~台大教授李宏毅的机器学习课程 🎥](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html): 台大教授李宏毅的机器学习课程经常被认为是中文开放课程中的首选。李教授的授课风格风趣幽默，通俗易懂，其课程内容中不仅有机器学习、深度学习的基础知识，也会介绍 ML 领域里的各种最新技术。
 
@@ -56,9 +56,9 @@
 
 - [2017-Fast.ai DeepLearning AI 🎥](https://github.com/fastai/fastai): Most of the library is quite well tested since many students have used it to complete the Practical Deep Learning for Coders course. However it hasn't been widely used yet outside of the course, so you may find some missing features or rough edges. [Personal notes](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197) can be found here; 关联的课件、代码等资源可以查看[这里](https://github.com/sjtu-medialab/DeepLearning-IntroductionCourse)。
 
-- [2018-Deep Learning Specialization 🎥](https://www.deeplearning.ai/courses/): Deep Learning is transforming multiple industries. This five-course specialization will help you understand Deep Learning fundamentals, apply them, and build a career in AI.
+- [2018~Deep Learning Specialization 🎥](https://www.deeplearning.ai/courses/): Deep Learning is transforming multiple industries. This five-course specialization will help you understand Deep Learning fundamentals, apply them, and build a career in AI.
 
-- [2018-Stanford CS230: Deep Learning 🎥](https://web.stanford.edu/class/cs230/): In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. [百度网盘，j2vp](https://pan.baidu.com/s/1Toko6dTqK-W6-e8EVm2kpA)
+- [2018~Stanford CS230: Deep Learning 🎥](https://web.stanford.edu/class/cs230/): In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. [百度网盘，j2vp](https://pan.baidu.com/s/1Toko6dTqK-W6-e8EVm2kpA)
 
 - [2019~MIT 6.S191 Introduction to DeepLearning 🎥](http://introtodeeplearning.com/): MIT's official introductory course on deep learning methods with applications in medicine, and more!
 
@@ -72,7 +72,7 @@
 
 # Reinforcement Learning
 
-- [2018-Deep Reinforcement Learning Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/): Deep Reinforcement Learning Course is a free series of blog posts and videos 🆕 about Deep Reinforcement Learning, where we'll learn the main algorithms, and how to implement them with Tensorflow.
+- [2018~Deep Reinforcement Learning Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/): Deep Reinforcement Learning Course is a free series of blog posts and videos 🆕 about Deep Reinforcement Learning, where we'll learn the main algorithms, and how to implement them with Tensorflow.
 
 # NLP | 自然语言处理
 
@@ -84,7 +84,7 @@
 
 - [2017-CS224d: Deep Learning for Natural Language Processing 🎥](http://cs224d.stanford.edu/syllabus.html): Intro to NLP and Deep Learning, Simple Word Vector representations: word2vec, GloVe, etc.
 
-- [2018-CS 4650 and 7650 🎥](https://github.com/jacobeisenstein/gt-nlp-class): Course materials for Georgia Tech CS 4650 and 7650, "Natural Language".
+- [2018~CS 4650 and 7650 🎥](https://github.com/jacobeisenstein/gt-nlp-class): Course materials for Georgia Tech CS 4650 and 7650, "Natural Language".
 
 # Industrial Applications | 行业应用
 

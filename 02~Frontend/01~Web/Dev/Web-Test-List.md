@@ -36,9 +36,9 @@
 
 - [2017-TDD the RITE Way](https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3): Test Driven Development (TDD) is a process for writing software that provably satisfies the software requirements.
 
-- [2018-An Overview of JavaScript Testing in 2018](https://parg.co/U14): Use Jest for unit and integration tests and TestCafe for UI tests.
+- [2018~An Overview of JavaScript Testing in 2018](https://parg.co/U14): Use Jest for unit and integration tests and TestCafe for UI tests.
 
-- [2018-How to Dockerize your End-to-End acceptance tests](https://medium.freecodecamp.org/how-to-dockerize-your-end-to-end-acceptance-tests-dbb593acb8e0): This article serves as a “how-to” guide for using Selenium Docker images alongside CodeceptJS and an Express server.
+- [2018~How to Dockerize your End-to-End acceptance tests](https://medium.freecodecamp.org/how-to-dockerize-your-end-to-end-acceptance-tests-dbb593acb8e0): This article serves as a “how-to” guide for using Selenium Docker images alongside CodeceptJS and an Express server.
 
 # Test Utils
 

@@ -20,7 +20,7 @@
 
 ## Python 3
 
-- [2018-Migrating to Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure): A short guide on features of Python 3 for data scientists.
+- [2018~Migrating to Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure): A short guide on features of Python 3 for data scientists.
 
 ## CheatSheet | 速览清单
 

@@ -4,7 +4,7 @@
 
 # Word Vectors
 
-- [2018-Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469): Understanding word vectors: A tutorial for "Reading and Writing Electronic Text," a class I teach at ITP.
+- [2018~Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469): Understanding word vectors: A tutorial for "Reading and Writing Electronic Text," a class I teach at ITP.
 
 # Word2Vec
 

@@ -6,7 +6,7 @@ This file aggregates popular links for learning how to implement Progressive Web
 
 - [2016-Why Google Thinks You Should Start Building Progressive Web Apps](https://arc.applause.com/2016/05/24/progressive-web-apps/)
 
-- [2018-Progressive Web Apps: Bridging the gap between web and mobile apps](https://parg.co/lRc): So this article is a summary of the concepts and approaches that Progressive Web Apps follow.
+- [2018~Progressive Web Apps: Bridging the gap between web and mobile apps](https://parg.co/lRc): So this article is a summary of the concepts and approaches that Progressive Web Apps follow.
 
 ## Case Study
 
@@ -56,7 +56,7 @@ This file aggregates popular links for learning how to implement Progressive Web
 
 - [2017-Progressive Web Apps — The Next Step in Responsive Web Design — Julian Gaviria ](https://julian.is/article/progressive-web-apps/)
 
-- [2018-Installable Web Apps](https://parg.co/m21): A Practical Introduction To PWAs with JavaScript and Node.js
+- [2018~Installable Web Apps](https://parg.co/m21): A Practical Introduction To PWAs with JavaScript and Node.js
 
 ## Installable Web App
 
@@ -68,7 +68,7 @@ This file aggregates popular links for learning how to implement Progressive Web
 
 - [2017-Progressive Web App Libraries in Production](https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34#.z5egf9m7v): This article is written by Addy Osmani. Two years ago, our team at Google started work on JavaScript libraries to reduce the friction for building Progressive Web Apps.
 
-- [2018-Workbox 3：Service Worker 可以如此简单](http://taobaofed.org/blog/2018/08/08/workbox3/): 不过到了现在有了 Workbox 3，一切关于 Service Worker 的担心都不再是问题。
+- [2018~Workbox 3：Service Worker 可以如此简单](http://taobaofed.org/blog/2018/08/08/workbox3/): 不过到了现在有了 Workbox 3，一切关于 Service Worker 的担心都不再是问题。
 
 # Web Push
 
@@ -80,4 +80,4 @@ This file aggregates popular links for learning how to implement Progressive Web
 
 - [web-push-libs](https://github.com/web-push-libs) : A collection of useful libraries for web push in different technologies (Node.js, PHP, Python, etc.)
 
-- [2018-Web 推送通知](https://github.com/yued-fe/y-translation/blob/master/en/web-push-notifications/introduction.md): 本系列文章是翻译自谷歌开发者网站，我们的主要目的，是让对 Web 推送服务有兴趣的开发者，能够通过阅读本系列的文章而初步掌握 Web 推送的一些基本原理和实现方式，从而在实际工作中可以应用起来。
+- [2018~Web 推送通知](https://github.com/yued-fe/y-translation/blob/master/en/web-push-notifications/introduction.md): 本系列文章是翻译自谷歌开发者网站，我们的主要目的，是让对 Web 推送服务有兴趣的开发者，能够通过阅读本系列的文章而初步掌握 Web 推送的一些基本原理和实现方式，从而在实际工作中可以应用起来。

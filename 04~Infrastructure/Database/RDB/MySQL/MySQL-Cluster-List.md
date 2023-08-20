@@ -34,7 +34,7 @@
 
 # High Availability | 高可用性
 
-- [2018-MySQL High Availability at GitHub](https://githubengineering.com/mysql-high-availability-at-github/): This post illustrates GitHub’s MySQL high availability and master service discovery solution, which allows us to reliably run a cross-data-center operation, be tolerant of data center isolation, and achieve short outage times on a failure.
+- [2018~MySQL High Availability at GitHub](https://githubengineering.com/mysql-high-availability-at-github/): This post illustrates GitHub’s MySQL high availability and master service discovery solution, which allows us to reliably run a cross-data-center operation, be tolerant of data center isolation, and achieve short outage times on a failure.
 
 - [单表 60 亿记录等大数据场景的 MySQL 优化和运维之道 | 高可用架构](http://www.francissoung.com/2016/04/15/%E5%8D%95%E8%A1%A860%E4%BA%BF%E8%AE%B0%E5%BD%95%E7%AD%89%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9C%BA%E6%99%AF%E7%9A%84MySQL%E4%BC%98%E5%8C%96%E5%92%8C%E8%BF%90%E7%BB%B4%E4%B9%8B%E9%81%93/)
 

@@ -24,7 +24,7 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 ## Error Boundary
 
-- [2018-Handling Errors in React Components with Error Boundaries](https://dev.to/sarah_chima/error-boundaries-in-react-3eib): Error Boundaries are React Components and they catch error anywhere in their child component tree.
+- [2018~Handling Errors in React Components with Error Boundaries](https://dev.to/sarah_chima/error-boundaries-in-react-3eib): Error Boundaries are React Components and they catch error anywhere in their child component tree.
 
 # Component Dataflow | 组件数据流
 
@@ -42,7 +42,7 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 - [2017-Atomic SetState Updates in React](https://alligator.io/react/getting-atomic-updates-with-setstate)
 
-- [2018-ReactStateMuseum](https://github.com/GantMan/ReactStateMuseum): A whirlwind tour of React state management systems by example.
+- [2018~ReactStateMuseum](https://github.com/GantMan/ReactStateMuseum): A whirlwind tour of React state management systems by example.
 
 ## Context
 
@@ -54,7 +54,7 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 - [2019~Deep dive: How do React hooks really work?](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/): In this article, we reintroduce closures by building a tiny clone of React Hooks. This will serve two purposes – to demonstrate the effective use of closures, and to show how you can build a Hooks clone in just 29 lines of readable JS. Finally, we arrive at how Custom Hooks naturally arise.
 
-- [2018-详细 preact hook 源码逐行解析](https://mp.weixin.qq.com/s/LRvVZUDywdsVjKbLP_4zbw): 本文通过对 preact 的 hook 源码分析，理解和掌握 react/preact 的 hook 用法以及一些常见的问题。
+- [2018~详细 preact hook 源码逐行解析](https://mp.weixin.qq.com/s/LRvVZUDywdsVjKbLP_4zbw): 本文通过对 preact 的 hook 源码分析，理解和掌握 react/preact 的 hook 用法以及一些常见的问题。
 
 # Style | 样式处理
 
@@ -132,7 +132,7 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 - [2017-Automagically manage React forms state and automatic validation with MobX](https://medium.com/@foxhound87/automagically-manage-react-forms-state-with-mobx-and-automatic-validation-2b00a32b9769)
 
-- [2018-An imperative guide to forms in React](https://blog.logrocket.com/an-imperative-guide-to-forms-in-react-927d9670170a?source=linkShare-fe48c4221a4c-1519391172): in this tutorial, I will explain how React deals with forms and events.
+- [2018~An imperative guide to forms in React](https://blog.logrocket.com/an-imperative-guide-to-forms-in-react-927d9670170a?source=linkShare-fe48c4221a4c-1519391172): in this tutorial, I will explain how React deals with forms and events.
 
 ## List | 列表
 

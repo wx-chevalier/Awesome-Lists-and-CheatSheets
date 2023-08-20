@@ -1,6 +1,6 @@
 # GraphQL Server List
 
-- [2018-Tutorial: Designing a GraphQL API](https://gist.github.com/swalkinshaw/3a33e2d292b60e68fcebe12b62bbb3e2): This tutorial was created by Shopify for internal purposes. We've created a public version of it since we think it's useful to anyone creating a GraphQL API.
+- [2018~Tutorial: Designing a GraphQL API](https://gist.github.com/swalkinshaw/3a33e2d292b60e68fcebe12b62bbb3e2): This tutorial was created by Shopify for internal purposes. We've created a public version of it since we think it's useful to anyone creating a GraphQL API.
 
 # Concepts & Specification
 
@@ -8,11 +8,11 @@
 
 - [GraphQL Concepts Visualized](https://parg.co/UIv): Our mental model of GraphQL, explained in diagrams.
 
-- [2018-Five Common Problems in GraphQL Apps (And How to Fix Them)](https://parg.co/UXd): In this article, we will learn to unlock the power of GraphQL without suffering its drawbacks.
+- [2018~Five Common Problems in GraphQL Apps (And How to Fix Them)](https://parg.co/UXd): In this article, we will learn to unlock the power of GraphQL without suffering its drawbacks.
 
 - [2017-Improve GraphQL Performance with Automatic Persisted Queries](https://parg.co/U3X): Lighten up your queries and get faster response times with new Apollo tools
 
-- [2018-Securing Your GraphQL API from Malicious Queries](https://parg.co/U1t): In this guest post he describes how they secured their GraphQL API from attackers.
+- [2018~Securing Your GraphQL API from Malicious Queries](https://parg.co/U1t): In this guest post he describes how they secured their GraphQL API from attackers.
 
 # Schema
 
@@ -32,11 +32,11 @@
 
 - [2017-Apollo Server 1.0 — A GraphQL Server for all Node.js frameworks](https://parg.co/bWY): Use GraphQL with Express, Hapi, Koa, Lambda, Micro, Restify, etc.
 
-- [2018-Building a Realtime GraphQL Server with Subscriptions](https://blog.graph.cool/tutorial-building-a-realtime-graphql-server-with-subscriptions-2758cfc6d427): GraphQL subscriptions allow clients to receive realtime updates from a GraphQL API upon specific events。
+- [2018~Building a Realtime GraphQL Server with Subscriptions](https://blog.graph.cool/tutorial-building-a-realtime-graphql-server-with-subscriptions-2758cfc6d427): GraphQL subscriptions allow clients to receive realtime updates from a GraphQL API upon specific events。
 
-- [2018-How To Build GraphQL Servers](https://medium.com/apollo-stack/how-to-build-graphql-servers-87587591ded5#.za2zqmq0i): 一些使用 GraphQL 进行服务端构建的最佳实践。
+- [2018~How To Build GraphQL Servers](https://medium.com/apollo-stack/how-to-build-graphql-servers-87587591ded5#.za2zqmq0i): 一些使用 GraphQL 进行服务端构建的最佳实践。
 
-- [2018-How to structure GraphQL server code](https://blog.apollographql.com/how-to-build-graphql-servers-87587591ded5): Using resolvers, models, connectors, and measuring performance.
+- [2018~How to structure GraphQL server code](https://blog.apollographql.com/how-to-build-graphql-servers-87587591ded5): Using resolvers, models, connectors, and measuring performance.
 
 # Apollo Server
 

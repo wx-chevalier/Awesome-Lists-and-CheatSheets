@@ -16,4 +16,4 @@
 
 - [复杂单页应用的数据层设计](https://zhuanlan.zhihu.com/p/24677176)
 
-- [2018-How to visually design state in JavaScript](https://link.medium.com/MU9cV0nNzZ): A roadmap for developing applications with state machines & statecharts
+- [2018~How to visually design state in JavaScript](https://link.medium.com/MU9cV0nNzZ): A roadmap for developing applications with state machines & statecharts

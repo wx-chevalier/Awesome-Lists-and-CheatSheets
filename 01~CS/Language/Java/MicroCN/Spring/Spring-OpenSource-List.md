@@ -14,7 +14,7 @@
 
 - [2016-zheng ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/shuzheng/zheng): 基于 Spring SpringMVC Mybatis 分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位 J2EE 企业级开发解决方案。
 
-- [2018-XBoot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Exrick/xboot)](https://github.com/Exrick/xboot): 基于 Spring Boot 2.x 的一站式前后端分离快速开发平台 XBoot 微信小程序+Uniapp 前端：Vue+iView Admin 后端：Spring Boot 2.x/Spring Security/JWT/JPA+Mybatis-Plus/Redis/Elasticsearch/Activiti 分布式限流/同步锁/验证码/SnowFlake 雪花算法 ID 动态权限 数据权限 工作流 代码生成 定时任务 社交账号 短信登录 单点登录 OAuth2 开放平台 客服机器人 数据大屏 暗黑模式
+- [2018~XBoot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Exrick/xboot)](https://github.com/Exrick/xboot): 基于 Spring Boot 2.x 的一站式前后端分离快速开发平台 XBoot 微信小程序+Uniapp 前端：Vue+iView Admin 后端：Spring Boot 2.x/Spring Security/JWT/JPA+Mybatis-Plus/Redis/Elasticsearch/Activiti 分布式限流/同步锁/验证码/SnowFlake 雪花算法 ID 动态权限 数据权限 工作流 代码生成 定时任务 社交账号 短信登录 单点登录 OAuth2 开放平台 客服机器人 数据大屏 暗黑模式
 
 - [2019~hsweb-framework ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hs-web/hsweb-framework)](https://github.com/hs-web/hsweb-framework): hsweb (haʊs wɛb) 是一个基于 spring-boot 2.x 开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。
 
@@ -42,7 +42,7 @@
 
 ### Spring Cloud
 
-- [2018-lamp-cloud ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dromara/lamp-cloud)](https://github.com/dromara/lamp-cloud): lamp-cloud 基于 Jdk11 + SpringCloud + SpringBoot 开发的微服务中后台快速开发平台，专注于多租户(SaaS 架构)解决方案，亦可作为普通项目（非 SaaS 架构）的基础开发框架使用，目前已实现插拔式数据库隔离、SCHEMA 隔离、字段隔离 等租户隔离方案。
+- [2018~lamp-cloud ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dromara/lamp-cloud)](https://github.com/dromara/lamp-cloud): lamp-cloud 基于 Jdk11 + SpringCloud + SpringBoot 开发的微服务中后台快速开发平台，专注于多租户(SaaS 架构)解决方案，亦可作为普通项目（非 SaaS 架构）的基础开发框架使用，目前已实现插拔式数据库隔离、SCHEMA 隔离、字段隔离 等租户隔离方案。
 
 - [2020~SpringCloud ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/zhoutaoo/SpringCloud)](https://github.com/zhoutaoo/SpringCloud): 基于 SpringCloud2.1 的微服务开发脚手架，整合了 spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway 等。服务治理方面引入 elasticsearch、skywalking、springboot-admin、zipkin 等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中
 
@@ -86,7 +86,7 @@
 
 - [Ninja ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ninjaframework/ninja): Ninja is a full stack web framework for Java. Rock solid, fast and super productive.
 
-- [2018-JFinal ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jfinal/jfinal): JFinal 是基于 Java 语言的极速 WEB + ORM 框架，其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展、Restful。在拥有 Java 语言所有优势的同时再拥有 ruby、python 等动态语言的开发效率！
+- [2018~JFinal ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jfinal/jfinal): JFinal 是基于 Java 语言的极速 WEB + ORM 框架，其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展、Restful。在拥有 Java 语言所有优势的同时再拥有 ruby、python 等动态语言的开发效率！
 
 - [Spark ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/perwendel/spark): A simple expressive web framework for java. News: Spark now has a kotlin DSL.
 

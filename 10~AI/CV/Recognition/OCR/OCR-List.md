@@ -28,7 +28,7 @@
 
 ## Engineering Practices
 
-- [2018-Dropbox-Using machine learning to index text from billions of images](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/): So now, when a user searches for English text that appears in one of these files, it will show up in the search results. This blog post describes how we built this feature.
+- [2018~Dropbox-Using machine learning to index text from billions of images](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/): So now, when a user searches for English text that appears in one of these files, it will show up in the search results. This blog post describes how we built this feature.
 
 ## Case Study
 

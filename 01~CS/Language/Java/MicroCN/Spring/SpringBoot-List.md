@@ -4,7 +4,7 @@
 
 - [2017-Spring Boot metrics monitoring using Prometheus & Grafana](https://parg.co/UV0): In this post we'll discuss how to achieve the same goal, using another open source stack: Prometheus and Grafana.
 
-- [2018-SpringBoot 2 performance — servlet stack vs WebFlux reactive stack](https://parg.co/U7O): The intent of this experiment to compare the traditional servlet stack vs the reactive stack by capturing their performance under load.
+- [2018~SpringBoot 2 performance — servlet stack vs WebFlux reactive stack](https://parg.co/U7O): The intent of this experiment to compare the traditional servlet stack vs the reactive stack by capturing their performance under load.
 
 - [running_multiple_spring_boot_apps_in_the_same_jvm](http://davidtanzer.net/running_multiple_spring_boot_apps_in_the_same_jvm)
 
@@ -36,13 +36,13 @@
 
 ## Storage | 存储
 
-- [2018-Spring JDBC](https://www.baeldung.com/spring-jdbc-jdbctemplate): In this article, we’ll go through practical use cases of the Spring JDBC module.
+- [2018~Spring JDBC](https://www.baeldung.com/spring-jdbc-jdbctemplate): In this article, we’ll go through practical use cases of the Spring JDBC module.
 
 ## Test | 测试
 
-- [2018-Testing in Spring Boot](https://www.baeldung.com/spring-boot-testing): In this article, we’ll have a look at writing tests using the framework support in Spring Boot.
+- [2018~Testing in Spring Boot](https://www.baeldung.com/spring-boot-testing): In this article, we’ll have a look at writing tests using the framework support in Spring Boot.
 
-- [2018-Unit and Integration Tests in Spring Boot](https://dzone.com/articles/unit-and-integration-tests-in-spring-boot-2): Learn how to write unit and integration tests in a Spring Boot environment and the tools to facilitate this in this tutorial.
+- [2018~Unit and Integration Tests in Spring Boot](https://dzone.com/articles/unit-and-integration-tests-in-spring-boot-2): Learn how to write unit and integration tests in a Spring Boot environment and the tools to facilitate this in this tutorial.
 
 - [2019~Unit Testing with Spring Boot](https://reflectoring.io/unit-testing-spring-boot/): This tutorial provides you with these mechanics and goes into the technical details that are necessary to write good unit tests with a focus on Spring Boot applications.
 

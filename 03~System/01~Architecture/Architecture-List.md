@@ -32,9 +32,9 @@
 
 - [2017-Source Making-《Refactoring Series》📚](https://sourcemaking.com/refactoring): The book covers 89 code smells and the appropriate methods for refactoring. It consists of simple text slides, cute illustrations and interactive code examples.
 
-- [2018-Martin-《Clean Architecture》📚](http://putregai.com/sbooks/clean_arch.pdf): A Craftsman's Guide to Software Structure and Design.
+- [2018~Martin-《Clean Architecture》📚](http://putregai.com/sbooks/clean_arch.pdf): A Craftsman's Guide to Software Structure and Design.
 
-- [2018-《A Philosophy of Software Design | 软件设计的哲学》📚](https://www.bookstack.cn/read/A-Philosophy-of-Software-Design-zh/README.md): 冠名为“艺术”，内容可能是记录一件优秀作品的设计过程和经验；而冠名为“哲学”，则是一些通用的原则和方法论，这些原则方法论串起来，能够形成一个体系。正如”知行合一”、“世界是由原子构成的”、“我思故我在”，这些耳熟能详的句子能够一定程度上代表背后的人物和思想。
+- [2018~《A Philosophy of Software Design | 软件设计的哲学》📚](https://www.bookstack.cn/read/A-Philosophy-of-Software-Design-zh/README.md): 冠名为“艺术”，内容可能是记录一件优秀作品的设计过程和经验；而冠名为“哲学”，则是一些通用的原则和方法论，这些原则方法论串起来，能够形成一个体系。正如”知行合一”、“世界是由原子构成的”、“我思故我在”，这些耳熟能详的句子能够一定程度上代表背后的人物和思想。
 
 ### Refactor & Clean Code
 
@@ -54,7 +54,7 @@
 
 - [The 5 Problem-Solving Skills of Great Software Developers](https://www.coderhood.com/5-problem-solving-skills-great-software-developers/)
 
-- [2018-The Path to Becoming a Software Architect](https://parg.co/Uv2): There are several career paths a developer might take, and this series talks over how to become a software architect.
+- [2018~The Path to Becoming a Software Architect](https://parg.co/Uv2): There are several career paths a developer might take, and this series talks over how to become a software architect.
 
 # Middle Platform | 中台
 

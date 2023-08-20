@@ -22,7 +22,7 @@
 
 - [the-rendering-process-of-a-web-page](https://medium.com/@gneutzling/the-rendering-process-of-a-web-page-78e05a6749dc#.zdp2moezo)
 
-- [2018-How browser rendering works — behind the scenes](https://parg.co/d3A): The purpose of this article is to explain, in very simple terms, the steps your browser takes to convert HTML, CSS and JavaScript into a working website you can interact with.
+- [2018~How browser rendering works — behind the scenes](https://parg.co/d3A): The purpose of this article is to explain, in very simple terms, the steps your browser takes to convert HTML, CSS and JavaScript into a working website you can interact with.
 
 # Scripting | 脚本解析与执行
 

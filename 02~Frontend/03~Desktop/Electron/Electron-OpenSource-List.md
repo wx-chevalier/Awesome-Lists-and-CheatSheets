@@ -8,9 +8,9 @@
 
 - [2017-electron-util ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sindresorhus/electron-util)](https://github.com/sindresorhus/electron-util): Useful utilities for Electron apps and modules.
 
-- [2018-PicGo ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/2018-Molunerfinn/PicGo)](https://github.com/2018-Molunerfinn/PicGo): 🚀A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder.
+- [2018~PicGo ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/2018-Molunerfinn/PicGo)](https://github.com/2018-Molunerfinn/PicGo): 🚀A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder.
 
-- [2018-OpenWebmonitor ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/aceimnorstuvwxz/openwebmonitor)](https://github.com/aceimnorstuvwxz/openwebmonitor): 网页内容监视器，网页内容变更监控，网页监控，网站内容变化检测，监控网页内容变化。
+- [2018~OpenWebmonitor ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/aceimnorstuvwxz/openwebmonitor)](https://github.com/aceimnorstuvwxz/openwebmonitor): 网页内容监视器，网页内容变更监控，网页监控，网站内容变化检测，监控网页内容变化。
 
 - [Manta ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hql287/Manta): A desktop application for creating invoices with beautiful and customizable templates.
 
@@ -44,9 +44,9 @@
 
 # Development Tools
 
-- [2018-Electron Fiddle ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/electron/fiddle): Electron Fiddle lets you create and play with small Electron experiments. It greets you with a quick-start template after opening – change a few things, choose the version of Electron you want to run it with, and play around.
+- [2018~Electron Fiddle ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/electron/fiddle): Electron Fiddle lets you create and play with small Electron experiments. It greets you with a quick-start template after opening – change a few things, choose the version of Electron you want to run it with, and play around.
 
-- [2018-Electron Forge ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/electron-userland/electron-forge): Electron Forge unifies the existing (and well maintained) build tools for Electron development into a simple, easy to use package so that anyone can jump right in to Electron development. | 非常便捷的开箱即用的 Electron 开发全流程辅助工具。
+- [2018~Electron Forge ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/electron-userland/electron-forge): Electron Forge unifies the existing (and well maintained) build tools for Electron development into a simple, easy to use package so that anyone can jump right in to Electron development. | 非常便捷的开箱即用的 Electron 开发全流程辅助工具。
 
 - [Electron Packager ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/electron-userland/electron-packager): Package your Electron app into OS-specific bundles (.app, .exe, etc.) via JavaScript or the command line.
 

@@ -6,7 +6,7 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2017-Deep drive into rust programming language](https://parg.co/UP1)
 
-- [2018-Why is Rust difficult?](https://vorner.github.io/difficult.html): Rust is considered difficult to learn by many people but I don’t consider it necessarily a bad thing for a language to be hard to learn.
+- [2018~Why is Rust difficult?](https://vorner.github.io/difficult.html): Rust is considered difficult to learn by many people but I don’t consider it necessarily a bad thing for a language to be hard to learn.
 
 - [如何看待 Rust 的应用前景](http://www.zhihu.com/question/30407715)
 
@@ -28,9 +28,9 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [Why Rust is the future of robotics](https://parg.co/UVu): We believe Rust is the future of robotics because it enables developers to be fearless, to create and enforce standards, and to build and rely on a strong community.
 
-- [2018-Rust in production at Figma](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929): How Mozilla’s new language dramatically improved our server-side performance.
+- [2018~Rust in production at Figma](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929): How Mozilla’s new language dramatically improved our server-side performance.
 
-- [2018-Rust in Cloudflare](https://parg.co/YA1)
+- [2018~Rust in Cloudflare](https://parg.co/YA1)
 
 ## Books
 
@@ -88,14 +88,14 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 ## Series
 
-- [2018-Writing an OS in Rust #Series#](https://os.phil-opp.com/): This blog series creates a small operating system in the Rust programming language. Each post is a small tutorial and includes all needed code, so you can follow along if you like.
+- [2018~Writing an OS in Rust #Series#](https://os.phil-opp.com/): This blog series creates a small operating system in the Rust programming language. Each post is a small tutorial and includes all needed code, so you can follow along if you like.
 
 - [2020~REST Servers in Go #Series#](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/): My plan with this series is to implement a simple REST server using several different approaches, which should make it easy to compare and contrast these approaches and their relative merits.
 
 # Tutorial
 
-- [2018-Learning Rust](https://learning-rust.github.io/): Installation, Hello World, Cargo, Crates, Variable bindings, Functions, Primitive Data Types, Operators & Control Flows.
+- [2018~Learning Rust](https://learning-rust.github.io/): Installation, Hello World, Cargo, Crates, Variable bindings, Functions, Primitive Data Types, Operators & Control Flows.
 
-- [2018-Writing a Microservice in Rust](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/): Let me begin this article on Writing a Microservice in Rust by talking about C++.
+- [2018~Writing a Microservice in Rust](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/): Let me begin this article on Writing a Microservice in Rust by talking about C++.
 
 - [2023~Learn Rust 101](https://github.com/plabayo/learn-rust-101): A guide to aid you in your journey of becoming a Rustacean (Rust developer).

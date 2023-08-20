@@ -12,4 +12,4 @@
 
 # Database
 
-- [2018-P6Spy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/p6spy/p6spy)](https://github.com/p6spy/p6spy): P6Spy is a framework that enables database data to be seamlessly intercepted and logged with no code changes to existing application. The P6Spy distribution includes P6Log, an application which logs all JDBC transactions for any Java application.
+- [2018~P6Spy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/p6spy/p6spy)](https://github.com/p6spy/p6spy): P6Spy is a framework that enables database data to be seamlessly intercepted and logged with no code changes to existing application. The P6Spy distribution includes P6Log, an application which logs all JDBC transactions for any Java application.

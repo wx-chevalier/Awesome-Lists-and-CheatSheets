@@ -14,7 +14,7 @@
 
 - [2017-Housing.com How We Built Our React Native App](https://parg.co/bDM):We received a very positive response from the community as well as our customers and wanted to replicate the same success for our mobile application too.
 
-- [2018-React Native at Airbnb ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/msQ): In 2016, we took a big bet on React Native. Two years later, we’re ready to share our experience with the world and show what’s next.
+- [2018~React Native at Airbnb ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/msQ): In 2016, we took a big bet on React Native. Two years later, we’re ready to share our experience with the world and show what’s next.
 
 # Resource
 

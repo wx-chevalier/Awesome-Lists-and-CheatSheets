@@ -86,7 +86,7 @@
 
 ## CI & CD
 
-- [2018-Kubernetes Client ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/kubernetes-client): This organization hosts Kubernetes API client libraries.
+- [2018~Kubernetes Client ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/kubernetes-client): This organization hosts Kubernetes API client libraries.
 
 - [Skaffold ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleCloudPlatform/skaffold): Skaffold is a command line tool that facilitates continuous development for Kubernetes applications.
 

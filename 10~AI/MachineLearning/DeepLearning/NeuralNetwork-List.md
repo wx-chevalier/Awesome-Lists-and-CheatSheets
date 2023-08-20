@@ -32,7 +32,7 @@
 
 - [2015-A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/): A bare bones neural network implementation to describe the inner workings of backpropagation.
 
-- [2018-Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/): A simple explanation of how they work and how to implement one from scratch in Python.
+- [2018~Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/): A simple explanation of how they work and how to implement one from scratch in Python.
 
 - [2022~Neural Networks: Zero to Hero 🎥](https://github.com/karpathy/nn-zero-to-hero): A course on neural networks that starts all the way at the basics. The course is a series of YouTube videos where we code and train neural networks together. The Jupyter notebooks we build in the videos are then captured here inside the lectures directory. Every lecture also has a set of exercises included in the video description. (This may grow into something more respectable).
 
@@ -40,6 +40,6 @@
 
 - [如何直观的解释 back propagation 算法？关注者 1267 被浏览 59615](https://www.zhihu.com/question/27239198)
 
-- [2018-Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/): You might be eager to jump right in and learn about Neural Networks, backpropagation, how they can be applied to datasets in practice, etc.
+- [2018~Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/): You might be eager to jump right in and learn about Neural Networks, backpropagation, how they can be applied to datasets in practice, etc.
 
-- [2018-Coding Neural Network — Forward Propagation and Backpropagtion](https://towardsdatascience.com/coding-neural-network-forward-propagation-and-backpropagtion-ccf8cf369f76): This post will be the first in a series of posts that cover implementing neural network in numpy including gradient checking, parameter initialization, L2 regularization, dropout.
+- [2018~Coding Neural Network — Forward Propagation and Backpropagtion](https://towardsdatascience.com/coding-neural-network-forward-propagation-and-backpropagtion-ccf8cf369f76): This post will be the first in a series of posts that cover implementing neural network in numpy including gradient checking, parameter initialization, L2 regularization, dropout.

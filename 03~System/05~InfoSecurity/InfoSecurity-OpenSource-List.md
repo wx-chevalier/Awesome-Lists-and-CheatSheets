@@ -56,13 +56,13 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [洞察 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/creditease-sec/insight): 洞察-宜信集应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的平台。
 
-- [2018-Fuxi Scanner ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jeffzh3ng/Fuxi-Scanner): Fuxi Scanner is an open source network security vulnerability scanner, it comes with multiple functions.
+- [2018~Fuxi Scanner ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jeffzh3ng/Fuxi-Scanner): Fuxi Scanner is an open source network security vulnerability scanner, it comes with multiple functions.
 
 - [2017-Wfuzz ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/xmendez/wfuzz): Wfuzz has been created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.
 
-- [2018-Tide ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/TideSec/tide): 目前实现了网络空间资产探测、指纹检索、漏洞检测、漏洞全生命周期管理、poc 定向检测、暗链检测、挂马监测、敏感字检测、DNS 监测、网站可用性监测、漏洞库管理、安全预警等等~
+- [2018~Tide ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/TideSec/tide): 目前实现了网络空间资产探测、指纹检索、漏洞检测、漏洞全生命周期管理、poc 定向检测、暗链检测、挂马监测、敏感字检测、DNS 监测、网站可用性监测、漏洞库管理、安全预警等等~
 
-- [2018-Archery ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/archerysec/archerysec): Centralize Vulnerability Assessment and Management for DevSecOps Team.
+- [2018~Archery ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/archerysec/archerysec): Centralize Vulnerability Assessment and Management for DevSecOps Team.
 
 ## Scanner
 
@@ -276,7 +276,7 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 ## WiFi
 
-- [2018-trackerjacker ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/calebmadrigal/trackerjacker): Like nmap for mapping wifi networks you're not connected to, plus device tracking.
+- [2018~trackerjacker ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/calebmadrigal/trackerjacker): Like nmap for mapping wifi networks you're not connected to, plus device tracking.
 
 # Mobile | 移动端工具
 
@@ -286,7 +286,7 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [PoisonTap ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/samyk/poisontap)
 
-- [2018-kbd-audio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ggerganov/kbd-audio)](https://github.com/ggerganov/kbd-audio): This is a collection of command-line and GUI tools for capturing and analyzing audio data.
+- [2018~kbd-audio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ggerganov/kbd-audio)](https://github.com/ggerganov/kbd-audio): This is a collection of command-line and GUI tools for capturing and analyzing audio data.
 
 # Reverse Engineering | 逆向与破解
 

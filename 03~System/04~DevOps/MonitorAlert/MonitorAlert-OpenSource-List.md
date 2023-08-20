@@ -42,7 +42,7 @@
 
 - [2017-SkyWalking ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/apache/skywalking): SkyWalking: an APM(application performance monitor) system, especially designed for microservices, cloud native and container-based (Docker, Kubernetes, Mesos) architectures.
 
-- [2018-Cloudprober ![code](https://ng-tech.icu/assets/code.svg)](https://cloudprober.org/getting-started/): Cloudprober is a monitoring software that makes it super-easy to monitor availability and performance of various components of your system.
+- [2018~Cloudprober ![code](https://ng-tech.icu/assets/code.svg)](https://cloudprober.org/getting-started/): Cloudprober is a monitoring software that makes it super-easy to monitor availability and performance of various components of your system.
 
 - [2022~Uptrace ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/uptrace/uptrace)](https://github.com/uptrace/uptrace): Uptrace is an open-source APM tool that supports distributed tracing, metrics, and logs. You can use it to monitor applications and set up automatic alerts to receive notifications via email, Slack, Telegram, and more.
 

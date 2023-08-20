@@ -18,7 +18,7 @@
 
 ## HTTP/2 Push | HTTP/2 推送
 
-- [2018-Use streaming JSON to speed up your website](https://instantdomainsearch.com/articles/streaming-json-jsons/): JSON streaming—or JSONS—is a simple technique we use to decrease search latency for users, particularly anyone on a slow connection.
+- [2018~Use streaming JSON to speed up your website](https://instantdomainsearch.com/articles/streaming-json-jsons/): JSON streaming—or JSONS—is a simple technique we use to decrease search latency for users, particularly anyone on a slow connection.
 
 # CDN
 
@@ -38,7 +38,7 @@
 
 # Prefetch | 预抓取
 
-- [2018-Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/): Prefetch a CSS file, prerender a full page, or resolve a domain ahead of time – and you won’t have to wait for it when it’s actually needed! Sounds cool.
+- [2018~Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/): Prefetch a CSS file, prerender a full page, or resolve a domain ahead of time – and you won’t have to wait for it when it’s actually needed! Sounds cool.
 
 # Critical Path | 关键渲染路径
 
@@ -56,7 +56,7 @@
 
 - [2017-Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://vuejsdevelopers.com/2017/07/24/critical-css-webpack/): Isolating critical CSS is something that can be done programmatically, and in this article I’ll show you how to delegate it to your Webpack pipeline.
 
-- [2018-purgecss ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/FullHuman/purgecss): Purgecss analyzes your content and your css files. Then it matches the selectors used in your files with the one in your content files. It removes unused selectors from your css, resulting in smaller css files.
+- [2018~purgecss ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/FullHuman/purgecss): Purgecss analyzes your content and your css files. Then it matches the selectors used in your files with the one in your content files. It removes unused selectors from your css, resulting in smaller css files.
 
 ## Lazy Loading | 懒加载
 
@@ -68,7 +68,7 @@
 
 - [Bundle Buddy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/samccone/bundle-buddy): Bundle Buddy is a tool to help you find source code duplication across your javascript chunks/splits. This enables you to fine tune code splitting parameters to reduce bundle invalidation rates as well as improve repeat page load performance \o/.
 
-- [2018-Web Performance Optimization with Webpack by Addy Osmani](https://parg.co/UXN): Taking advantage of its features for optimizing modern code, code-splitting scripts into critical and non-critical pieces and stripping out unused code.
+- [2018~Web Performance Optimization with Webpack by Addy Osmani](https://parg.co/UXN): Taking advantage of its features for optimizing modern code, code-splitting scripts into critical and non-critical pieces and stripping out unused code.
 
 - [腾讯社交网络图片带宽优化技术演进之路](https://parg.co/Ua4): 为进一步降低运营带宽成本，减小用户访问流量及提升页面加载速度，社交网络 CDN 运维紧跟行业图片优化趋势，创新引入 WebP、SharpP、自适应分辨率、Guetzli 等图像压缩技术到现网，经过三年多的多部门联合攻关，已逐渐形成一套覆盖全图片类型(JPEG、JPG、PNG、WebP、GIF)多场景的图片压缩运营体系，适用于各类型终端，每年节约外网带宽几百 G。
 

@@ -4,4 +4,4 @@
 
 - [Yandex](https://translate.yandex.com/)
 
-- [2018-Found in translation: Building a language translator from scratch with deep learning](https://blog.floydhub.com/language-translator/): Why, you ask? It's really quite simple – they’ve allowed me, a fledgling student of artificial intelligence, to develop a language translator from scratch.
+- [2018~Found in translation: Building a language translator from scratch with deep learning](https://blog.floydhub.com/language-translator/): Why, you ask? It's really quite simple – they’ve allowed me, a fledgling student of artificial intelligence, to develop a language translator from scratch.

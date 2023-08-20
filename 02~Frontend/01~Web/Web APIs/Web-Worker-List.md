@@ -32,7 +32,7 @@
 
 - [Experimenting With The Background Fetch API](https://parg.co/UEk): The service worker API is expanding as more ways to use the background dwelling worker emerge.
 
-- [2018-Service workers: the little heroes behind Progressive Web Apps](https://parg.co/UXo): Service workers are at the core of Progressive Web Apps. They allow caching of resources and push notifications, which are two of the main distinguishing features that have set native apps apart up to this point.
+- [2018~Service workers: the little heroes behind Progressive Web Apps](https://parg.co/UXo): Service workers are at the core of Progressive Web Apps. They allow caching of resources and push notifications, which are two of the main distinguishing features that have set native apps apart up to this point.
 
 ## Offline Storage
 
@@ -50,4 +50,4 @@
 
 - [2017-How Web Workers can help with consistent, asynchronous tasks in JavaScript](https://medium.freecodecamp.org/how-web-workers-can-help-with-consistent-asynchronous-tasks-in-javascript-cd6d728fa4ee)
 
-- [2018-How JavaScript works: The building blocks of Web Workers + 5 cases when you should use them](https://parg.co/Uig): We’ll offer an overview, discuss the different types of workers, how their building components come to play together, and what advantages and limitations they offer in different scenarios.
+- [2018~How JavaScript works: The building blocks of Web Workers + 5 cases when you should use them](https://parg.co/Uig): We’ll offer an overview, discuss the different types of workers, how their building components come to play together, and what advantages and limitations they offer in different scenarios.

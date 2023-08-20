@@ -14,7 +14,7 @@
 
 # OpenSource
 
-- [2018-RenderDoc ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/baldurk/renderdoc)](https://github.com/baldurk/renderdoc): RenderDoc is a frame-capture based graphics debugger, currently available for Vulkan, D3D11, D3D12, OpenGL, and OpenGL ES development on Windows, Linux, Android, and Nintendo Switch™. It is completely open-source under the MIT license.
+- [2018~RenderDoc ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/baldurk/renderdoc)](https://github.com/baldurk/renderdoc): RenderDoc is a frame-capture based graphics debugger, currently available for Vulkan, D3D11, D3D12, OpenGL, and OpenGL ES development on Windows, Linux, Android, and Nintendo Switch™. It is completely open-source under the MIT license.
 
 ## Showcase
 

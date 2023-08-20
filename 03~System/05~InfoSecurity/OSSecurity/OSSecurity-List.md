@@ -1,6 +1,6 @@
 # 操作系统安全与渗透资料索引
 
-- [2018-Kali Linux: Social Engineering Toolkit](https://linuxhint.com/kali-linux-set/)
+- [2018~Kali Linux: Social Engineering Toolkit](https://linuxhint.com/kali-linux-set/)
 
 - [ncat, a modern implementation of netcat](https://www.redpill-linpro.com/sysadvent/2016/12/10/ncat.html)
 

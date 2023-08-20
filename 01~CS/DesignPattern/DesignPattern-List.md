@@ -22,7 +22,7 @@
 
 ## Creational Pattern
 
-- [2018-Elegant patterns in modern JavaScript: Ice Factory](https://medium.freecodecamp.org/elegant-patterns-in-modern-javascript-ice-factory-4161859a0eee): An Ice Factory is just a function that creates and returns a frozen object.
+- [2018~Elegant patterns in modern JavaScript: Ice Factory](https://medium.freecodecamp.org/elegant-patterns-in-modern-javascript-ice-factory-4161859a0eee): An Ice Factory is just a function that creates and returns a frozen object.
 
 ## Behavioral Pattern
 

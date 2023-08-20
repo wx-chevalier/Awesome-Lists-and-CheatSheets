@@ -8,7 +8,7 @@
 
 # Concept | 缓存概念
 
-- [2018-The hidden components of Web Caching](https://parg.co/UFt): Let’s take a bottom-up approach to understanding the various layers of caching.
+- [2018~The hidden components of Web Caching](https://parg.co/UFt): Let’s take a bottom-up approach to understanding the various layers of caching.
 
 - [深入浅出 Cache](http://tech.youzan.com/cache-background/)
 

@@ -10,4 +10,4 @@
 
 ## UV Unwrapping
 
-- [2018-xatlas ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jpcy/xatlas)](https://github.com/jpcy/xatlas): xatlas is a small C++11 library with no external dependencies that generates unique texture coordinates suitable for baking lightmaps or texture painting.
+- [2018~xatlas ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jpcy/xatlas)](https://github.com/jpcy/xatlas): xatlas is a small C++11 library with no external dependencies that generates unique texture coordinates suitable for baking lightmaps or texture painting.

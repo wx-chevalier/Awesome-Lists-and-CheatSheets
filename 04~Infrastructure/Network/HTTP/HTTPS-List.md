@@ -4,7 +4,7 @@
 
 - [2017-Brief(ish) explanation of how https works](https://dev.to/ruidfigueiredo/briefish-explanation-of-how-https-works)
 
-- [2018-The Illustrated TLS Connection](https://tls.ulfheim.net): Every byte of a TLS connection explained and reproduced.
+- [2018~The Illustrated TLS Connection](https://tls.ulfheim.net): Every byte of a TLS connection explained and reproduced.
 
 # Internals
 

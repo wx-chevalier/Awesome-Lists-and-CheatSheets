@@ -70,4 +70,4 @@
 
 - [Understanding and Solving Internet Explorer Leak Patterns](<https://msdn.microsoft.com/en-us/library/bb250448(v=vs.85).aspx>)
 
-- [2018-Tracing from JS to the DOM and back again](https://v8project.blogspot.sg/2018/03/tracing-js-dom.html): Debugging memory leaks in Chrome 66 just became much easier. Chrome’s DevTools can now trace and snapshot C++ DOM objects and display all reachable DOM objects from JavaScript with their references. This feature is one of the benefits of the new C++ tracing mechanism of the V8 garbage collector.
+- [2018~Tracing from JS to the DOM and back again](https://v8project.blogspot.sg/2018/03/tracing-js-dom.html): Debugging memory leaks in Chrome 66 just became much easier. Chrome’s DevTools can now trace and snapshot C++ DOM objects and display all reachable DOM objects from JavaScript with their references. This feature is one of the benefits of the new C++ tracing mechanism of the V8 garbage collector.

@@ -26,7 +26,7 @@
 
 # Overview
 
-- [2018-Why Decentralization Matters](https://parg.co/UIk): Cryptonetworks are a powerful way to develop community-owned networks and provide a level playing field for 3rd-party developers, creators, and businesses.
+- [2018~Why Decentralization Matters](https://parg.co/UIk): Cryptonetworks are a powerful way to develop community-owned networks and provide a level playing field for 3rd-party developers, creators, and businesses.
 
 - [2017-Blockchains from a Distributed Computing Perspective](http://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf)
 
@@ -34,7 +34,7 @@
 
 - [2016-从概念到底层技术，一篇文看懂重塑世界的区块链](https://parg.co/UXC): 区块链是目前一个比较热门的新概念，蕴含了技术与金融两层概念。从技术角度来看，这是一个牺牲一致性效率且保证最终一致性的的分布式的数据库，当然这是比较片面的。从经济学的角度来看，这种容错能力很强的点对点网络，恰恰满足了共享经济的一个必须要求——低成本的可信环境。
 
-- [2018-比特币的学术谱系](https://mp.weixin.qq.com/s/5kLkFD26yv7h416cahSwSg): 本文回顾了比特币和区块链的学术谱系，展示了其组合创新的典范。
+- [2018~比特币的学术谱系](https://mp.weixin.qq.com/s/5kLkFD26yv7h416cahSwSg): 本文回顾了比特币和区块链的学术谱系，展示了其组合创新的典范。
 
 ## Business（行业观点）
 
@@ -56,9 +56,9 @@
 
 # Tutorial
 
-- [2018-BlockShell ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/daxeel/blockshell): A command line utility for learning Blockchain technical concepts likechaining, mining, proof of work etc.
+- [2018~BlockShell ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/daxeel/blockshell): A command line utility for learning Blockchain technical concepts likechaining, mining, proof of work etc.
 
-- [2018-The Complete Guide to Kickstart Blockchain Development](https://parg.co/Uvu): Cryptocurrencies, ICOs, magic internet money — it’s all so exciting, and you are the eager developer, want to get in on the madness.
+- [2018~The Complete Guide to Kickstart Blockchain Development](https://parg.co/Uvu): Cryptocurrencies, ICOs, magic internet money — it’s all so exciting, and you are the eager developer, want to get in on the madness.
 
 ## JavaScript
 
@@ -66,7 +66,7 @@
 
 - [2017-NodeJS blockchain implementation: BrewChain: Chain+WebSockets+HTTP Server](http://www.darrenbeck.co.uk/blockchain/nodejs/nodejscrypto/): In this tutorial you’ll lean to create BrewChain - a verifiable chain of which member of the team made a brew and when.
 
-- [2018-Chicco Coin](https://github.com/thecreazy/chiccocoin): Learn what is a blockchain by creating one.
+- [2018~Chicco Coin](https://github.com/thecreazy/chiccocoin): Learn what is a blockchain by creating one.
 
 ## Python
 

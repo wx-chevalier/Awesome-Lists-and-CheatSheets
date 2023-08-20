@@ -12,11 +12,11 @@
 
 - [Database basics: writing a SQL database from scratch in Go #Series# #Scratch#](https://notes.eatonphil.com/database-basics.html): In this series we'll write a rudimentary database from scratch in Go.
 
-- [2018-db_tutorial #Series# #Scratch#](https://github.com/cstack/db_tutorial): Writing a sqlite clone from scratch in C.
+- [2018~db_tutorial #Series# #Scratch#](https://github.com/cstack/db_tutorial): Writing a sqlite clone from scratch in C.
 
-- [2018-手写 SQL 编译器 #Scratch#](https://parg.co/oXJ): 因为工作关系，需要开发支持众多方言的 SQL 编辑器，所以复习了一下编译原理相关知识。相比编译原理专家，我们只需要了解部分编译原理即可实现 SQL 编辑器，所以这是一篇写给前端的编译原理文章。
+- [2018~手写 SQL 编译器 #Scratch#](https://parg.co/oXJ): 因为工作关系，需要开发支持众多方言的 SQL 编辑器，所以复习了一下编译原理相关知识。相比编译原理专家，我们只需要了解部分编译原理即可实现 SQL 编辑器，所以这是一篇写给前端的编译原理文章。
 
-- [2018-Freedom ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/alchemystar/Freedom)](https://github.com/alchemystar/Freedom): 在阅读了大量关于数据库的资料后，笔者情不自禁产生了一个造数据库轮子的想法。来验证一下自己对于数据库底层原理的掌握是否牢靠。在笔者的 github 中给这个 database 起名为 Freedom。
+- [2018~Freedom ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/alchemystar/Freedom)](https://github.com/alchemystar/Freedom): 在阅读了大量关于数据库的资料后，笔者情不自禁产生了一个造数据库轮子的想法。来验证一下自己对于数据库底层原理的掌握是否牢靠。在笔者的 github 中给这个 database 起名为 Freedom。
 
 - [2015-Lealone ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lealone/Lealone)](https://github.com/lealone/Lealone): Lealone 是一个兼具 RDBMS、NoSQL 优点的面向微服务和 OLTP/OLAP 场景的单机与分布式关系数据库
 
@@ -66,7 +66,7 @@
 
 ### CMD
 
-- [2018-q ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/harelba/q): q is a command line tool that allows direct execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
+- [2018~q ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/harelba/q): q is a command line tool that allows direct execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
 
 - [usql ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/knq/usql): usql is a universal command-line interface for working with SQL databases.
 
@@ -94,7 +94,7 @@
 
 - [Apache Calcite ![code](https://ng-tech.icu/assets/code.svg)](https://calcite.apache.org/): Industry-standard SQL parser,validator and JDBC driver.
 
-- [2018-sqler ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alash3al/sqler): write APIs using direct SQL queries with no hassle, let's rethink about SQL.
+- [2018~sqler ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alash3al/sqler): write APIs using direct SQL queries with no hassle, let's rethink about SQL.
 
 - [Zetasql ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/google/zetasql): ZetaSQL defines a language (grammar, types, data model, and semantics) as well as a parser and analyzer.
 
@@ -154,7 +154,7 @@
 
 - [RocksDB ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
 
-- [2018-Tidis ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/yongman/tidis): Tidis is a Distributed NoSQL database, providing a redis-protocal api(string,list,hash,set,sorted-set), written in Go.
+- [2018~Tidis ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/yongman/tidis): Tidis is a Distributed NoSQL database, providing a redis-protocal api(string,list,hash,set,sorted-set), written in Go.
 
 - [2019~Badger ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dgraph-io/badger): BadgerDB is an embeddable, persistent and fast key-value (KV) database written in pure Go. It is the underlying database for Dgraph, a fast, distributed graph database. It's meant to be a performant alternative to non-Go-based key-value stores like RocksDB.
 
@@ -164,7 +164,7 @@
 
 # Document Database
 
-- [2018-edgedb ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/edgedb/edgedb)](https://github.com/edgedb/edgedb): A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+- [2018~edgedb ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/edgedb/edgedb)](https://github.com/edgedb/edgedb): A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 
 # Graph Database
 
@@ -184,7 +184,7 @@
 
 - [2017-timescaledb ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/timescale/timescaledb/): An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.
 
-- [2018-M3 monorepo ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/m3db/m3): Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Metrics Platform
+- [2018~M3 monorepo ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/m3db/m3): Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Metrics Platform
 
 - [VictoriaMetrics ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/VictoriaMetrics/VictoriaMetrics): VictoriaMetrics is fast, cost-effective and scalable time series database.
 

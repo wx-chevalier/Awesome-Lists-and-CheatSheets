@@ -20,11 +20,11 @@
 
 - [2017-The future of WebAssembly - A look at upcoming features and proposals](https://blog.scottlogic.com/2018/07/20/wasm-future.html): I’ll skip over some of the more technical proposals, instead focusing on what they might mean for languages that target WebAssembly.
 
-- [2018-WebAssembly’s post-MVP future](https://hn.premii.com/#/article/18275489): There are many features that are coming to WebAssembly which will fundamentally alter what you can do with WebAssembly.
+- [2018~WebAssembly’s post-MVP future](https://hn.premii.com/#/article/18275489): There are many features that are coming to WebAssembly which will fundamentally alter what you can do with WebAssembly.
 
 ## Comparsion
 
-- [2018-WebAssembly: A New Hope](https://pspdfkit.com/blog/2017/webassembly-a-new-hope/): But what is WebAssembly and what does it mean for the web?
+- [2018~WebAssembly: A New Hope](https://pspdfkit.com/blog/2017/webassembly-a-new-hope/): But what is WebAssembly and what does it mean for the web?
 
 ## Case Study
 
@@ -34,7 +34,7 @@
 
 - [2017-How to get a performance boost using WebAssembly](https://hackernoon.com/how-to-get-a-performance-boost-using-webassembly-8844ec6dd665#.gle72anx6)
 
-- [2018-WebAssembly 在 eBay 的实践：速度提升 50 倍](https://www.infoq.cn/article/vc*q7psQqWMaVU8igJeD): WebAssembly 自诞生以来就震动了整个前端业界。Web 社区很高兴看到 JavaScript 有了竞争者。何况原生 WebAssembly 的速度比 JavaScript 要快得多。我们 eBay 也身处这一浪潮之中，对 WebAssembly 非常欢迎。
+- [2018~WebAssembly 在 eBay 的实践：速度提升 50 倍](https://www.infoq.cn/article/vc*q7psQqWMaVU8igJeD): WebAssembly 自诞生以来就震动了整个前端业界。Web 社区很高兴看到 JavaScript 有了竞争者。何况原生 WebAssembly 的速度比 JavaScript 要快得多。我们 eBay 也身处这一浪潮之中，对 WebAssembly 非常欢迎。
 
 - [2019~Build FFmpeg WebAssembly version (= ffmpeg.wasm) #Series#](https://jeromewu.github.io/build-ffmpeg-webassembly-version-part-1-preparation/): How to build native FFmpeg with Docker (and without docker in MacOS)
 
@@ -46,11 +46,11 @@
 
 - [2017-Egghead.io WASM Introduction Examples](https://github.com/guybedford/wasm-intro): Course examples from the Introduction to WebAssembly egghead.io course.
 
-- [2018-Writing WebAssembly By Hand](http://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html): However, it is actually possible to write WebAssembly directly by hand.
+- [2018~Writing WebAssembly By Hand](http://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html): However, it is actually possible to write WebAssembly directly by hand.
 
 ## Rust
 
-- [2018-Our Vision for Rust and WebAssembly](https://rustwasm.github.io/2018/06/25/vision-for-rust-and-wasm.html): In a series of follow up posts, we will talk about the next steps for each major component of the Rust and WebAssembly ecosystem.
+- [2018~Our Vision for Rust and WebAssembly](https://rustwasm.github.io/2018/06/25/vision-for-rust-and-wasm.html): In a series of follow up posts, we will talk about the next steps for each major component of the Rust and WebAssembly ecosystem.
 
 - [Rust 🦀 and WebAssembly 🕸 #Series#](https://rustwasm.github.io/book/introduction.html): This small book describes how to use Rust and WebAssembly together.
 
@@ -70,4 +70,4 @@
 
 - [2017-Understanding WebAssembly text format](https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format): To enable WebAssembly to be read and edited by humans, there is a textual representation of the wasm binary format. This is an intermediate form designed to exposed in text editors, browser developer tools, etc. This article explains how that text format works, in terms of the raw syntax, and how it is related to the underlying bytecode it represents — and the wrapper objects representing wasm in JavaScript.
 
-- [2018-Asmble ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/cretz/asmble): Asmble is a compiler that compiles WebAssembly code to JVM bytecode. It also contains utilities for working with WASM code from the command line and from JVM languages.
+- [2018~Asmble ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/cretz/asmble): Asmble is a compiler that compiles WebAssembly code to JVM bytecode. It also contains utilities for working with WASM code from the command line and from JVM languages.

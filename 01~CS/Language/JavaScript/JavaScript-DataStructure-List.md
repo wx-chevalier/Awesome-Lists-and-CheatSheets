@@ -16,7 +16,7 @@
 
 # Type Coercion | 类型转换
 
-- [2018-JavaScript type coercion explained](https://parg.co/U8B): Type coercion is the process of converting value from one type to another.
+- [2018~JavaScript type coercion explained](https://parg.co/U8B): Type coercion is the process of converting value from one type to another.
 
 # String
 

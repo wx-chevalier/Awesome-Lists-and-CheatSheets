@@ -10,7 +10,7 @@
 
 - [Typesense ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/typesense/typesense): Typesense is a fast, typo-tolerant search engine for building delightful search experiences.
 
-- [2018-manticoresearch ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/manticoresoftware/manticoresearch)](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
+- [2018~manticoresearch ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/manticoresoftware/manticoresearch)](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 
 - [2019~milvus ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/milvus-io/milvus): An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy
 

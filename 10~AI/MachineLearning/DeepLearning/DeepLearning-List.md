@@ -24,7 +24,7 @@
 
 - [【直观梳理深度学习关键概念】优化算法、调参基本思路、正则化方式等](https://mp.weixin.qq.com/s/GYno7htF_-Hw4UN_Nc2etg)
 
-- [2018-什么是深度学习？](http://staff.ustc.edu.cn/~lgliu/Resources/DL/What_is_DeepLearning.html?from=timeline&isappinstalled=0): 45 分钟理解深度神经网络和深度学习。
+- [2018~什么是深度学习？](http://staff.ustc.edu.cn/~lgliu/Resources/DL/What_is_DeepLearning.html?from=timeline&isappinstalled=0): 45 分钟理解深度神经网络和深度学习。
 
 - [2019~The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/): This post is an overview of some the most influential Deep Learning papers of the last decade. My hope is to provide a jumping-off point into many disparate areas of Deep Learning by providing succinct and dense summaries that go slightly deeper than a surface level exposition, with many references to the relevant resources.
 

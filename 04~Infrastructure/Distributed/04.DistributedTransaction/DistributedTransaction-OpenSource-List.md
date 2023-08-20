@@ -16,6 +16,6 @@
 
 - [2017-Raincat ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dromara/raincat): 强一致分布式事务框架。
 
-- [2018-Seata ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/seata/Seata): Seata is an easy-to-use, high-performance, java based, open source distributed transaction solution.
+- [2018~Seata ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/seata/Seata): Seata is an easy-to-use, high-performance, java based, open source distributed transaction solution.
 
-- [2018-mily ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dromara/hmily)](https://github.com/dromara/hmily): 金融级柔性分布式事务解决方案。
+- [2018~mily ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dromara/hmily)](https://github.com/dromara/hmily): 金融级柔性分布式事务解决方案。

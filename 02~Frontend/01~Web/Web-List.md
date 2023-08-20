@@ -44,7 +44,7 @@
 
 - [2017-Grab Front End Guide》📚](https://github.com/grab/front-end-guide): Study guide and introduction to the modern front end stack.
 
-- [2018-MaintainableCSS》📚](https://maintainablecss.com/): Write CSS without worrying that overzealous, pre-existing styles will cause problems. MaintainableCSS is an approach to writing modular, scalable and maintainable CSS.
+- [2018~MaintainableCSS》📚](https://maintainablecss.com/): Write CSS without worrying that overzealous, pre-existing styles will cause problems. MaintainableCSS is an approach to writing modular, scalable and maintainable CSS.
 
 - [CSS GuideLines》📚](http://cssguidelin.es/): 免费的电子书，教你如何编写高质量可维护的 CSS 代码。
 
@@ -54,7 +54,7 @@
 
 ## Blog | 博客
 
-- [2018-How JavaScript works #Blog#](https://blog.sessionstack.com/tagged/tutorial): the series dedicated to exploring JavaScript and its building components. In the process of identifying and describing the core elements, we also share some rules of thumb we use when building SessionStack.
+- [2018~How JavaScript works #Blog#](https://blog.sessionstack.com/tagged/tutorial): the series dedicated to exploring JavaScript and its building components. In the process of identifying and describing the core elements, we also share some rules of thumb we use when building SessionStack.
 
 - [2019~前端精读 #Blog#](https://github.com/ascoders/weekly): 前端精读周刊。帮你理解最前沿、实用的技术。
 
@@ -66,7 +66,7 @@
 
 - [How JavaScript works #Series#](https://blog.sessionstack.com/tagged/tutorial): the series dedicated to exploring JavaScript and its building components.
 
-- [2018-Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap): Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops.
+- [2018~Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap): Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops.
 
 - [2020~fe interview](https://github.com/haizlin/fe-interview): 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上 5 点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖。
 

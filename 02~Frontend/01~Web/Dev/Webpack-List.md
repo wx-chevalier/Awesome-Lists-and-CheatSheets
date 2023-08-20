@@ -26,7 +26,7 @@
 
 - [WEBPACK - THE GOOD PARTS](https://presentations.survivejs.com/webpack-the-good-parts/#/00): What is Webpack, Developing, Building, Assets, Bundle/code Splitting, Analysis, Optimizing.
 
-- [2018-Webpack Basics](https://dev.to/kayis/webpack-basics): Many people seem to like Webpack and use it for their everyday web bundling process.
+- [2018~Webpack Basics](https://dev.to/kayis/webpack-basics): Many people seem to like Webpack and use it for their everyday web bundling process.
 
 # Configuration: 基础配置
 
@@ -68,11 +68,11 @@
 
 - [2017-How to use Webpack’s new “magic comment” feature with React Universal Component + SSR](https://parg.co/b9A): Webpack 2.4.0, which came out a few weeks ago, launched with a very interesting new feature: “magic comments.” In combination with dynamic imports, “magic comments” greatly simplify code-splitting + server-side rendering.
 
-- [2018-RIP CommonsChunkPlugin](https://parg.co/Ukz): webpack 4 removes the CommonsChunkPlugin in favor of two new options (optimization.splitChunks and optimization.runtimeChunk). Here is how it works.
+- [2018~RIP CommonsChunkPlugin](https://parg.co/Ukz): webpack 4 removes the CommonsChunkPlugin in favor of two new options (optimization.splitChunks and optimization.runtimeChunk). Here is how it works.
 
 # OpenSource
 
-- [2018-size-plugin ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChromeLabs/size-plugin): Prints the gzipped sizes of your webpack assets and the changes since the last build.
+- [2018~size-plugin ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChromeLabs/size-plugin): Prints the gzipped sizes of your webpack assets and the changes since the last build.
 
 ## 监控
 

@@ -12,4 +12,4 @@
 
 - [Sentinel ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alibaba/Sentinel): A lightweight flow-control library providing high-available protection and monitoring (高可用防护的流量管理框架)
 
-- [2018-Resilience4j ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/resilience4j/resilience4j): Resilience4j is a fault tolerance library designed for Java8 and functional programming
+- [2018~Resilience4j ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/resilience4j/resilience4j): Resilience4j is a fault tolerance library designed for Java8 and functional programming

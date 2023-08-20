@@ -42,7 +42,7 @@
 
 - [2017-three.bas ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/zadvorsky/three.bas)](https://github.com/zadvorsky/three.bas): THREE Buffer Animation System is an extension for THREE.js. It simplifies the workflow of extending the built-in THREE.js materials to include animation logic in the vertex shader. For an overview of this approach, check out this tutorial series.
 
-- [2018-threejs-mesh-modifiers ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/drawcall/threejs-mesh-modifiers)](https://github.com/drawcall/threejs-mesh-modifiers): A Three.js mesh morph modifier, including nearly ten modifiers, such as Bend, Bloat, Noise, Skew and Taper, etc. It is very lightweight and simple to use, using it can give you unexpected results.
+- [2018~threejs-mesh-modifiers ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/drawcall/threejs-mesh-modifiers)](https://github.com/drawcall/threejs-mesh-modifiers): A Three.js mesh morph modifier, including nearly ten modifiers, such as Bend, Bloat, Noise, Skew and Taper, etc. It is very lightweight and simple to use, using it can give you unexpected results.
 
 - [2020~OmarShehata/webgl-outlines ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/OmarShehata/webgl-outlines)](https://github.com/OmarShehata/webgl-outlines): Implementation of a post process outline shader in ThreeJS & PlayCanvas.
 
@@ -50,7 +50,7 @@
 
 ## BVH
 
-- [2018-three-mesh-bvh ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gkjohnson/three-mesh-bvh)](https://github.com/gkjohnson/three-mesh-bvh): A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.
+- [2018~three-mesh-bvh ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gkjohnson/three-mesh-bvh)](https://github.com/gkjohnson/three-mesh-bvh): A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.
 
 - [2021~three-bvh-csg ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gkjohnson/three-bvh-csg)](https://github.com/gkjohnson/three-bvh-csg): A flexible, memory compact, fast and dynamic CSG implementation on top of three-mesh-bvh
 
@@ -78,7 +78,7 @@
 
 ### Line
 
-- [2018-THREE.MeshLine ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/spite/THREE.MeshLine)](https://github.com/spite/THREE.MeshLine): Mesh replacement for THREE.Line.
+- [2018~THREE.MeshLine ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/spite/THREE.MeshLine)](https://github.com/spite/THREE.MeshLine): Mesh replacement for THREE.Line.
 
 - [2023~three-fatline ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/vasturiano/three-fatline)](https://github.com/vasturiano/three-fatline): A ThreeJS Line object with variable width.
 

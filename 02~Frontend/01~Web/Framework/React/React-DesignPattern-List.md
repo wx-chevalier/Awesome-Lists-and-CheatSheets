@@ -8,7 +8,7 @@
 
 - [2017-10 React mini-patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5#.5v2hpgurn): Over the last few years, I’ve worked on a handful of decent-sized React projects, and many, many pint-sized ones. Throughout this magical journey, a number of patterns have come up that I find myself repeating again and again.
 
-- [2018-Evolving Patterns in React](https://parg.co/UXm): Let’s take a closer look at some of the patterns that are emerging in the React ecosystem. These patterns improve readability, code clarity, and push your code towards composition and reusability.
+- [2018~Evolving Patterns in React](https://parg.co/UXm): Let’s take a closer look at some of the patterns that are emerging in the React ecosystem. These patterns improve readability, code clarity, and push your code towards composition and reusability.
 
 ## Functional React | 函数式 React
 
@@ -40,7 +40,7 @@
 
 - [Renderless Components or How Logic Doesn't Always Need a UI](http://kyleshevlin.com/renderless-components/)
 
-- [2018-hocs ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/deepsweet/hocs): A collection of Higher-Order Components for React and React Native.
+- [2018~hocs ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/deepsweet/hocs): A collection of Higher-Order Components for React and React Native.
 
 ### Recompose
 

@@ -41,7 +41,7 @@
 
 - [Warp ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dgiagio/warp): Warp lets you create self-contained single binary applications making it simpler and more ergonomic to deliver your application to your customers.
 
-- [2018-Amazon Corretto ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/corretto/corretto-8): Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK
+- [2018~Amazon Corretto ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/corretto/corretto-8): Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK
 
 - [2019~Jib ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleContainerTools/jib): Jib builds optimized Docker and OCI images for your Java applications without a Docker daemon - and without deep mastery of Docker best-practices. It is available as plugins for Maven and Gradle and as a Java library.
 
@@ -137,11 +137,11 @@
 
 - [useful-scripts ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/oldratlee/useful-scripts): 把平时有用的手动操作做成脚本，这样可以便捷的使用。
 
-- [2018-vjtools ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vipshop/vjtools): The vip.com's java coding standard, libraries and tools
+- [2018~vjtools ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vipshop/vjtools): The vip.com's java coding standard, libraries and tools
 
-- [2018-jvm-profiler ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/uber-common/jvm-profiler): JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter.
+- [2018~jvm-profiler ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/uber-common/jvm-profiler): JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter.
 
-- [2018-Arthas ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alibaba/arthas): Arthas 是 Alibaba 开源的 Java 诊断工具，深受开发者喜爱。
+- [2018~Arthas ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alibaba/arthas): Arthas 是 Alibaba 开源的 Java 诊断工具，深受开发者喜爱。
 
 - [Jolokia](https://jolokia.org/): Remote JMX with JSON over HTTP.
 
@@ -155,7 +155,7 @@
 
 - [JVM Sandbox ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alibaba/jvm-sandbox): Real - time non-invasive AOP framework container based on JVM.
 
-  - [2018-jvm-sandbox-repeater ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/alibaba/jvm-sandbox-repeater)](https://github.com/alibaba/jvm-sandbox-repeater): jvm-sandbox-repeater 是 JVM-Sandbox 生态体系下的重要模块，它具备了 JVM-Sandbox 的所有特点，插件式设计便于快速适配各种中间件，封装请求录制/回放基础协议，也提供了通用可扩展的各种丰富 API。
+  - [2018~jvm-sandbox-repeater ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/alibaba/jvm-sandbox-repeater)](https://github.com/alibaba/jvm-sandbox-repeater): jvm-sandbox-repeater 是 JVM-Sandbox 生态体系下的重要模块，它具备了 JVM-Sandbox 的所有特点，插件式设计便于快速适配各种中间件，封装请求录制/回放基础协议，也提供了通用可扩展的各种丰富 API。
 
 - JIP，housemd，btrace，greys
 
@@ -171,7 +171,7 @@
 
 ## JIT
 
-- [2018-Java Grinder ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mikeakohn/java_grinder): Compile Java bytecode to microcontroller assembly.
+- [2018~Java Grinder ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mikeakohn/java_grinder): Compile Java bytecode to microcontroller assembly.
 
 # Links
 

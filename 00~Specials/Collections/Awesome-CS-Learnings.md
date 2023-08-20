@@ -10,7 +10,7 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [Computer Science: Open Source Society University](https://github.com/ossu/computer-science): The OSSU curriculum is a complete education in computer science using online materials.
 
-- [2018-Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets): Useful cheatsheets with everything you should know in one single-file. 🚀
+- [2018~Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets): Useful cheatsheets with everything you should know in one single-file. 🚀
 
 - [2016-成为专业程序员路上用到的各种优秀资料、神器及框架](https://github.com/stanzhai/be-a-professional-programmer): 成为一名专业程序员的道路上，需要坚持练习、学习与积累，技术方面既要有一定的广度，更要有自己的深度。
 
@@ -50,7 +50,7 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [2016-Back-End Developer Interview Questions](https://parg.co/UXF): A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 
-- [2018-后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+- [2018~后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 
 - [Awesome design patterns 🗃️](https://github.com/DovAmir/awesome-design-patterns): A general, reusable solution to a commonly occurring problem within a given context in software design. It is a description or template for how to solve a problem that can be used in many different situations.
 
@@ -153,7 +153,7 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [2011-CSAPP: 深入理解计算机系统》📚](): 绝对的好书，从程序员的视角深入浅出地介绍了计算机系统底层原理，这里提供笔者搜集的[2011-深入理解计算机系统-2nd](https://drive.wps.cn/view/l/ded1ba6254884c569ff61d119109ed8c)。
 
-  - [2018-translationCSAPP 🎥](https://github.com/EugeneLiu/translationCSAPP): 中英双语字幕精校版 CSAPP CMU 15-213 课程 2015 Fall 视频翻译计划
+  - [2018~translationCSAPP 🎥](https://github.com/EugeneLiu/translationCSAPP): 中英双语字幕精校版 CSAPP CMU 15-213 课程 2015 Fall 视频翻译计划
 
 - [2012-数学之美](https://book.douban.com/subject/10750155/)：名为数学之美，实为信息技术(自然语言处理)中的数学原理(统计语言模型)之美。帮助读者更深刻地理解了大学所学的线性代数、概率论与数理统计和应该学而没学的随机过程、图论、机器学习的应用意义。笔者印象深刻看到了其中讲解 Tf-Idf 与信息论之间的关联，很有启发。
 

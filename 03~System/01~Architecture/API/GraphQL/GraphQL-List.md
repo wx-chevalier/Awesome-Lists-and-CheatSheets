@@ -10,7 +10,7 @@ This file aggregates curated popular links for learning GraphQL. More reference 
 
 - [2017-REST APIs are REST-in-Peace APIs. Long Live GraphQL.](https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4): This article is not actually 100% in favor of GraphQL. There is a very important section about the cost of GraphQL’s flexibility.
 
-- [2018-GraphQL at the REST-aurant](https://parg.co/UvI): A tasty introduction to GraphQL.
+- [2018~GraphQL at the REST-aurant](https://parg.co/UvI): A tasty introduction to GraphQL.
 
 ## Backend for Frontend
 
@@ -42,7 +42,7 @@ This file aggregates curated popular links for learning GraphQL. More reference 
 
 ## Case Study
 
-- [2018-How GraphQL Replaces Redux](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d): GraphQL is a server side query language. Redux is a client-side state management library. How could one replace the other?
+- [2018~How GraphQL Replaces Redux](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d): GraphQL is a server side query language. Redux is a client-side state management library. How could one replace the other?
 
 - [2017-GraphQL First in practice at Quri](https://dev-blog.apollodata.com/graphql-first-in-practice-at-quri-7bf84b260135): Bringing GraphQL efficiencies to non JavaScript environment
 
@@ -56,21 +56,21 @@ This file aggregates curated popular links for learning GraphQL. More reference 
 
 - [2017-Hacker News Clone React/GraphQL](https://github.com/clintonwoo/hackernews-react-graphql): This project is a clone of hacker news rewritten with universal JavaScript, using React and GraphQL.
 
-- [2018-基于 SPA 架构的 GraphQL 工程实践](https://parg.co/oIZ)
+- [2018~基于 SPA 架构的 GraphQL 工程实践](https://parg.co/oIZ)
 
 # Tutorial
 
 - [2017-A Front End Developer’s Guide to GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/): In this post, we’ll walk through a couple of hands-on examples to show you how integrating GraphQL into your application will solve many pain points working with remote data.
 
-- [2018-An Introduction to GraphQL](https://hackernoon.com/an-introduction-to-graphql-2c3f7d8fb4e0?source=userActivityShare-fe48c4221a4c-1518927834): It is a methodology that directly competes with REST (Representational state transfer) APIs, much like REST competed with SOAP at first.
+- [2018~An Introduction to GraphQL](https://hackernoon.com/an-introduction-to-graphql-2c3f7d8fb4e0?source=userActivityShare-fe48c4221a4c-1518927834): It is a methodology that directly competes with REST (Representational state transfer) APIs, much like REST competed with SOAP at first.
 
-- [2018-GraphQL: Everything You Need to Know](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8): The purpose of this article is to highlight the major features associated with GraphQL along with discussing the significant pros and cons associated with this particular API specification.
+- [2018~GraphQL: Everything You Need to Know](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8): The purpose of this article is to highlight the major features associated with GraphQL along with discussing the significant pros and cons associated with this particular API specification.
 
 - [Launchpad ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/apollographql/launchpad): Launchpad is an in-browser GraphQL server playground. You can write a GraphQL schema example in JavaScript, and instantly create a serverless, publicly-accessible GraphQL endpoint. We call these code snippets that live on Launchpad “pads”.
 
 # Schema
 
-- [2018-Modularizing your GraphQL schema code](https://dev-blog.apollodata.com/modularizing-your-graphql-schema-code-d7f71d5ed5f2): How to split up your schema definition, resolvers, and Query type into multiple files
+- [2018~Modularizing your GraphQL schema code](https://dev-blog.apollodata.com/modularizing-your-graphql-schema-code-d7f71d5ed5f2): How to split up your schema definition, resolvers, and Query type into multiple files
 
 ## Mutation
 

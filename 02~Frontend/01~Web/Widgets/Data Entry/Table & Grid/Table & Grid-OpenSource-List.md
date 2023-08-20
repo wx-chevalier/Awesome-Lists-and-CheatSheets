@@ -8,7 +8,7 @@
 
 # Excel-like Spreadsheet
 
-- [2018-React Spreadsheet ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/iddan/react-spreadsheet)](https://github.com/iddan/react-spreadsheet): Simple, customizable yet performant spreadsheet for React.
+- [2018~React Spreadsheet ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/iddan/react-spreadsheet)](https://github.com/iddan/react-spreadsheet): Simple, customizable yet performant spreadsheet for React.
 
 - [2019~x-spreadsheet ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/myliang/x-spreadsheet)](https://github.com/myliang/x-spreadsheet): A web-based JavaScript（canvas） spreadsheet.
 

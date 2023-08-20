@@ -40,7 +40,7 @@
 
 - [xgenecloud ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/xgenecloud/xgenecloud): 🔥 🔥 Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB).
 
-- [2018-ginbro ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dejavuzhou/ginbro): Converting a MySQL database'schema to a RESTful golang APIs app in the fastest way.
+- [2018~ginbro ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dejavuzhou/ginbro): Converting a MySQL database'schema to a RESTful golang APIs app in the fastest way.
 
 ## API Management
 

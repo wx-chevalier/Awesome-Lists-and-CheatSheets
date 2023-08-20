@@ -1,6 +1,6 @@
 # RDB List
 
-- [2018-SQL Query Optimization Meets Deep Reinforcement Learning](https://parg.co/d64): We show that deep reinforcement learning is successful at optimizing SQL joins, a problem studied for decades in the database community.
+- [2018~SQL Query Optimization Meets Deep Reinforcement Learning](https://parg.co/d64): We show that deep reinforcement learning is successful at optimizing SQL joins, a problem studied for decades in the database community.
 
 - [2013-How did the modern relational database come to be?](https://www.linkedin.com/pulse/how-did-modern-relational-database-come-david-mccaldin): The purpose of this Annotated Bibliography is to illustrate, in chronological order, the major development of database models from 1st generation (network model etc) to second generation (relational) to 3rd generation (e.g. semantic). The Bibliography is presented in order of the year when the paper was published.
 

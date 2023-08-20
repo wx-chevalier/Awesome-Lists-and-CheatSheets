@@ -2,7 +2,7 @@
 
 # OpenSource
 
-- [2018-Vapid ![code](https://ng-tech.icu/assets/code.svg)](https://www.vapid.com/): Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
+- [2018~Vapid ![code](https://ng-tech.icu/assets/code.svg)](https://www.vapid.com/): Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
 
 - [springboot-plus ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/xiandafu/springboot-plus): 国内首个基于 SpringBoot 2 的开源管理后台系统，聚焦核心功能，提供健壮内核，支持多个数据库，容易搭建，容易修改。
 

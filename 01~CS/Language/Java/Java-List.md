@@ -53,7 +53,7 @@
 
 ### Spring
 
-- Spring 中文文档系列：[Spring MVC 4.2.4.RELEASE 中文文档](https://spring-mvc.linesh.tw/)，[Spring Framework 5 中文文档](https://lfvepclr.gitbooks.io/spring-framework-5-doc-cn/content/)，[Spring Framework 中文文档](https://www.docs4dev.com/docs/zh/spring-framework/5.1.3.RELEASE/reference)，[2018-Spring Boot Reference Guide》📚](https://docs.spring.io/spring-boot/docs/2.1.x-SNAPSHOT/reference/html/)，中文版本参考 [SpringBoot 参考指南](https://www.gitbook.com/book/qbgbook/spring-boot-reference-guide-zh/details)。
+- Spring 中文文档系列：[Spring MVC 4.2.4.RELEASE 中文文档](https://spring-mvc.linesh.tw/)，[Spring Framework 5 中文文档](https://lfvepclr.gitbooks.io/spring-framework-5-doc-cn/content/)，[Spring Framework 中文文档](https://www.docs4dev.com/docs/zh/spring-framework/5.1.3.RELEASE/reference)，[2018~Spring Boot Reference Guide》📚](https://docs.spring.io/spring-boot/docs/2.1.x-SNAPSHOT/reference/html/)，中文版本参考 [SpringBoot 参考指南](https://www.gitbook.com/book/qbgbook/spring-boot-reference-guide-zh/details)。
 
 - [Spring Boot 编程思想》📚](https://mercyblitz.github.io/books/thinking-in-spring-boot/): 本书全名为《Spring Boot 编程思想》，是以 Spring Boot 2.0 为讨论的主线，讨论的范围将涵盖 Spring Boot 1.x 的所有版本，以及所关联的 Spring Framework 版本。
 
@@ -91,11 +91,11 @@
 
 - [Java 资源大全中文版 🗃️](https://github.com/jobbole/awesome-java-cn): Java 资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 
-- [2018-Java 学习指南 🗃️](https://github.com/Snailclimb/JavaGuide): 一份涵盖大部分 Java 程序员所需要掌握的核心知识，正在一步一步慢慢完善，期待您的参与。
+- [2018~Java 学习指南 🗃️](https://github.com/Snailclimb/JavaGuide): 一份涵盖大部分 Java 程序员所需要掌握的核心知识，正在一步一步慢慢完善，期待您的参与。
 
 - [2020~Java Family 🗃️](https://github.com/AobingJava/JavaFamily): 【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。
 
-- [2018-Java Interview 🗃️](https://github.com/crossoverJie/Java-Interview): 多数是一些 Java 基础知识、底层原理、算法详解。也有上层应用设计，其中不乏一些大厂面试真题。
+- [2018~Java Interview 🗃️](https://github.com/crossoverJie/Java-Interview): 多数是一些 Java 基础知识、底层原理、算法详解。也有上层应用设计，其中不乏一些大厂面试真题。
 
 - [2022~toBeBetterJavaer 🗃️](https://github.com/itwanger/toBeBetterJavaer): 一份通俗易懂、风趣幽默的 Java 学习指南，内容涵盖 Java 基础、Java 并发编程、Java 虚拟机、Java 企业级开发、Java 面试等核心知识点。学 Java，就认准 Java 程序员进阶之路 😄
 
@@ -105,7 +105,7 @@
 
 ## Courses
 
-- [2018-The "REST with Spring" Classes 🎥](https://github.com/eugenp/tutorials): This project is a collection of small and focused tutorials - each covering a single and well defined area of development in the Java ecosystem. A strong focus of these is, of course, the Spring Framework - Spring, Spring Boot and Spring Securiyt. In additional to Spring, the following technologies are in focus: core Java, Jackson, HttpClient, Guava.
+- [2018~The "REST with Spring" Classes 🎥](https://github.com/eugenp/tutorials): This project is a collection of small and focused tutorials - each covering a single and well defined area of development in the Java ecosystem. A strong focus of these is, of course, the Spring Framework - Spring, Spring Boot and Spring Securiyt. In additional to Spring, the following technologies are in focus: core Java, Jackson, HttpClient, Guava.
 
 - [2019~Spring Boot 实践学习案例 🎥](https://github.com/JeffLi1993/springboot-learning-example): Spring boot 初学者及核心技术巩固的最佳实践。另外写博客，用 OpenWrite。
 

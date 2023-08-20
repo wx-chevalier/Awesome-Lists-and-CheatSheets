@@ -14,7 +14,7 @@
 
 ## Books
 
-- [2018-HTTP/3 explained》📚](https://http3-explained.haxx.se/en/): This book effort was started in March 2018. The plan is to document HTTP/3 and its underlying protocol: QUIC. Why, how they work, protocol details, the implementations and more.
+- [2018~HTTP/3 explained》📚](https://http3-explained.haxx.se/en/): This book effort was started in March 2018. The plan is to document HTTP/3 and its underlying protocol: QUIC. Why, how they work, protocol details, the implementations and more.
 
 ## Request
 
@@ -34,4 +34,4 @@
 
 - [2017-Clearing cache in the browser](https://calendar.perfplanet.com/2017/clearing-cache-in-the-browser/): Caching assets in the browser is the most common and most obvious way to improve front end performance.
 
-- [2018-深入理解浏览器的缓存机制](https://mp.weixin.qq.com/s/8jg4X-cymkIpn0zVaMDf6Q): 接下来的内容中我们将通过缓存位置、缓存策略以及实际场景应用缓存策略来探讨浏览器缓存机制。
+- [2018~深入理解浏览器的缓存机制](https://mp.weixin.qq.com/s/8jg4X-cymkIpn0zVaMDf6Q): 接下来的内容中我们将通过缓存位置、缓存策略以及实际场景应用缓存策略来探讨浏览器缓存机制。

@@ -4,7 +4,7 @@
 
 - 资源检索：[鸠摩搜索](http://t.cn/RG07GHI)、[布克书屋](http://t.cn/AiEso12y)、[三秋书屋](http://t.cn/AiQ0uTv9)
 
-- [2018-SciHubEVA ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/leovan/SciHubEVA): Sci-Hub EVA is a cross-platform Sci-Hub GUI application.
+- [2018~SciHubEVA ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/leovan/SciHubEVA): Sci-Hub EVA is a cross-platform Sci-Hub GUI application.
 
 # Editor
 
@@ -44,7 +44,7 @@
 
 ## Presentation
 
-- [2018-mdx deck ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jxnblk/mdx-deck): MDX-based presentation decks (Beta).
+- [2018~mdx deck ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jxnblk/mdx-deck): MDX-based presentation decks (Beta).
 
 - [2019~fusuma ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hiroppy/fusuma): Fusuma makes slides with Markdown easily.
 

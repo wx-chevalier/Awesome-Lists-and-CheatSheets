@@ -1,6 +1,6 @@
 # ES
 
-- [2018-Elasticsearch Performance Tuning Practice at eBay](https://parg.co/Utg): This document summarizes the challenges as well as the process and tools that the Pronto team builds to address the challenges in a strategic way.
+- [2018~Elasticsearch Performance Tuning Practice at eBay](https://parg.co/Utg): This document summarizes the challenges as well as the process and tools that the Pronto team builds to address the challenges in a strategic way.
 
 # Performance Tuning
 
@@ -16,4 +16,4 @@
 
 - [2017-Designing the Perfect Elasticsearch Cluster: the (almost) Definitive Guide](https://parg.co/byu)
 
-- [2018-Elasticsearch 集群黄色原因的终极探秘](https://mp.weixin.qq.com/s/iT0osDnW4XxZ-jMxTrWdCA)
+- [2018~Elasticsearch 集群黄色原因的终极探秘](https://mp.weixin.qq.com/s/iT0osDnW4XxZ-jMxTrWdCA)

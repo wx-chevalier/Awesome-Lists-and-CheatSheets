@@ -6,7 +6,7 @@
 
 - [2017-C++17/14/11](https://parg.co/b1f): A cheatsheet of modern C++ language and library features.
 
-- [2018-CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): a set of tried-and-true guidelines, rules, and best practices about coding in C++.
+- [2018~CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): a set of tried-and-true guidelines, rules, and best practices about coding in C++.
 
 - [2021~30dayMakeCppServer #Series# ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/yuesong-feng/30dayMakeCppServer)](https://github.com/yuesong-feng/30dayMakeCppServer): 30 天自制 C++ 服务器，包含教程和源代码.
 

@@ -10,7 +10,7 @@
 
 # Web Design
 
-- [2018-Stop building websites with infinite scroll!](https://logrocket.com/blog/infinite-scroll/): In this article, we will explain why you need to stop building websites with infinite scroll.
+- [2018~Stop building websites with infinite scroll!](https://logrocket.com/blog/infinite-scroll/): In this article, we will explain why you need to stop building websites with infinite scroll.
 
 ### 1.《设计心理学》
 
@@ -92,7 +92,7 @@ UI 设计的主要工作都包括进去了，如果能够将这三本书很好�
 
 # Enterprise Design（商业设计）
 
-- [2018-How white space killed an enterprise app (and why data density matters)](https://uxdesign.cc/how-white-space-killed-an-enterprise-app-and-why-data-density-matters-b3afad6a5f2a)
+- [2018~How white space killed an enterprise app (and why data density matters)](https://uxdesign.cc/how-white-space-killed-an-enterprise-app-and-why-data-density-matters-b3afad6a5f2a)
 
 - [2014-Steve-Don’t Make Me Think, Revisited》📚](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf): A Common Sense Approach to Web Usability.
 
@@ -117,6 +117,6 @@ UI 设计的主要工作都包括进去了，如果能够将这三本书很好�
 7. DPI 指南: [《基础知识学起来！为设计师量身打造的 DPI 指南》](http://www.uisdc.com/designers-guide-to-dpi)
 8. 交互设计自学路径图: [《零基础入门！给非科班生的自学路径图之交互设计篇》](http://www.uisdc.com/non-designer-interactive-design)
 
-- [2018-7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886): Improving your designs with tactics instead of talent.
+- [2018~7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886): Improving your designs with tactics instead of talent.
 
 - [2017-Froala Design Blocks](https://github.com/froala/design-blocks): All blocks are based on the Bootstrap Library, and they are the building blocks for beautiful websites.

@@ -10,9 +10,9 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 - [2017-How to Build a ToDo App Using React, Redux, and Webpack](https://parg.co/bMT): In this tutorial I’m going to show you how to create a simple “ToDo” app using React, Redux, a little bit of Node, and Cosmic JS.
 
-- [2018-react kanban ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/yogaboll/react-kanban): A Trello-like application built with React and Redux.
+- [2018~react kanban ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/yogaboll/react-kanban): A Trello-like application built with React and Redux.
 
-- [2018-devhub ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/devhubapp/devhub): DevHub: TweetDeck for GitHub - Android, iOS, Web & Desktop
+- [2018~devhub ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/devhubapp/devhub): DevHub: TweetDeck for GitHub - Android, iOS, Web & Desktop
 
 - [x ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/DustinBrett/x): Desktop environment in the browser.
 
@@ -26,7 +26,7 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 - [2017-Didact ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hexacta/didact): This repository goes together with a series of posts that explains how to build React from scratch step by step.
 
-- [2018-Gooact: React in 160 lines of JavaScript ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/Y5s): How to build own React clone in a matter of minutes.
+- [2018~Gooact: React in 160 lines of JavaScript ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/Y5s): How to build own React clone in a matter of minutes.
 
 ## Boilerplate
 

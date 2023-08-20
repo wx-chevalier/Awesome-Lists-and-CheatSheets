@@ -18,7 +18,7 @@
 
 - [Apereo CAS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/apereo/cas): Enterprise Single Sign On for all earthlings and beyond.
 
-- [2018-SSO ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/buzzfeed/sso): Ovingly known as the S.S. Octopus or octoboi — is the authentication and authorization system BuzzFeed developed to provide a secure, single sign-on experience for access to the many internal web apps used by our employees.
+- [2018~SSO ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/buzzfeed/sso): Ovingly known as the S.S. Octopus or octoboi — is the authentication and authorization system BuzzFeed developed to provide a secure, single sign-on experience for access to the many internal web apps used by our employees.
 
 - [2019~Ambassador ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/datawire/ambassador): open source Kubernetes-native API gateway for microservices built on the Envoy Proxy.
 

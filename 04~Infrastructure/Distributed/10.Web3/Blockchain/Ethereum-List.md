@@ -8,15 +8,15 @@
 
 - [Truffle ![code](https://ng-tech.icu/assets/code.svg)](http://truffleframework.com/docs/): Truffle is a world class development environment, testing framework and asset pipeline for Ethereum, aiming to make life as an Ethereum developer easier.
 
-- [2018-Deep dive into Ethereum logs](https://parg.co/UMB): Hey kids, today we are going low level trying to understand how Ethereum events and logs work.
+- [2018~Deep dive into Ethereum logs](https://parg.co/UMB): Hey kids, today we are going low level trying to understand how Ethereum events and logs work.
 
-- [2018-Bringing the blockchain to React Native](https://parg.co/UXf): Despite the fact of the non existence of an Ethereum Wallet or Browser for React Native to interact with cross platform decentralized mobile apps, it’s possible bring the blockchain to React Native.
+- [2018~Bringing the blockchain to React Native](https://parg.co/UXf): Despite the fact of the non existence of an Ethereum Wallet or Browser for React Native to interact with cross platform decentralized mobile apps, it’s possible bring the blockchain to React Native.
 
 # Tutorial
 
 - [A guide to developing an Ethereum decentralized voting application](https://medium.freecodecamp.org/developing-an-ethereum-decentralized-voting-application-a99de24992d9): I will briefly go over Ethereum, but you probably should have an understanding of it to use this guide to the fullest.
 
-- [2018-How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369): I’ve added my own explanations and diagrams to make understanding Ethereum easier.
+- [2018~How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369): I’ve added my own explanations and diagrams to make understanding Ethereum easier.
 
 # Smart Contract | 智能合约
 

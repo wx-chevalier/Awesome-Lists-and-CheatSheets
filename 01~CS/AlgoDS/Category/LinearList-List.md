@@ -4,7 +4,7 @@
 
 # List
 
-- [2018-Data Structures, Linked List Implementation in JS](https://medium.com/front-end-hacking/data-structures-linked-list-implementation-in-js-3beb48ff49cd)
+- [2018~Data Structures, Linked List Implementation in JS](https://medium.com/front-end-hacking/data-structures-linked-list-implementation-in-js-3beb48ff49cd)
 
 # Queue
 

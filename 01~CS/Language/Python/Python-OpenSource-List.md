@@ -6,7 +6,7 @@
 
 ## Examples
 
-- [2018-learn python ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/trekhleb/learn-python): 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
+- [2018~learn python ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/trekhleb/learn-python): 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 
 - [2021~GeekComputers Python Examples ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/geekcomputers/Python): This document helps to understand python in detail.And tells you More Information
 

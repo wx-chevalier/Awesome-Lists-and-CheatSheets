@@ -8,7 +8,7 @@
 
 ## Showcase
 
-- [2018-MovieRecommender ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/bystc/MovieRecommender)](https://github.com/bystc/MovieRecommender): 基于 Mahout 实现协同过滤推荐算法的电影推荐系统。
+- [2018~MovieRecommender ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/bystc/MovieRecommender)](https://github.com/bystc/MovieRecommender): 基于 Mahout 实现协同过滤推荐算法的电影推荐系统。
 
 - [2020~JaniceWuo/MovieRecommend ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/JaniceWuo/MovieRecommend)](https://github.com/JaniceWuo/MovieRecommend): 一个电影推荐系统——实现用户登录、评分、推荐，采用协同过滤算法。🌸
 

@@ -4,7 +4,7 @@
 
 - [2017-10w 定时任务，如何高效触发超时](http://6me.us/gZ8)
 
-- [2018-延迟任务调度系统技术选型与设计](http://blog.csdn.net/yigezei/article/details/79286225): 顾名思义，延迟任务的特点是延迟执行。
+- [2018~延迟任务调度系统技术选型与设计](http://blog.csdn.net/yigezei/article/details/79286225): 顾名思义，延迟任务的特点是延迟执行。
 
 # Toolkits
 

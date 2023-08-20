@@ -26,7 +26,7 @@ Browser Automation 即所谓的自动化浏览器或者能够以脚本等方式�
 
 - [2017-A Guide to Automating & Scraping the Web with JavaScript (Chrome + Puppeteer + Node JS)](https://parg.co/US1): Learn to Automate and Scrape the web with Headless Chrome.
 
-- [2018-puppeteer-examples ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChromeLabs/puppeteer-examples): Use case-driven examples for using Puppeteer and headless chrome
+- [2018~puppeteer-examples ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChromeLabs/puppeteer-examples): Use case-driven examples for using Puppeteer and headless chrome
 
 # Selenium
 

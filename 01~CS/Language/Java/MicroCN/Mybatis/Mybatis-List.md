@@ -6,7 +6,7 @@
 
 - [MyBatis 完全使用指南 #Series#](http://www.kknotes.com/blog/mybatis%E5%AE%8C%E5%85%A8%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/)
 
-- [2018-《MyBatis 从入门到精通》 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mybatis-book/book)](https://github.com/mybatis-book/book): 我在 CSDN 博客写了不少和 MyBatis 相关的博客，2015 年时觉得自己写的太零散，不够系统全面，所以在 GitBook 创建了一本名为 MyBatis 最佳实践的开源电子书，当时写好了目录大纲，由于维护好几个开源项目，业余时间几乎都被占用，最终也只写了 MyBatis Generator 部分，也就是博客中的 MyBatis Generator 详解。2016 年 3 月份时，博文视点的孙奇俏编辑和我联系，然后就开始了 MyBatis 相关书籍的编写。
+- [2018~《MyBatis 从入门到精通》 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mybatis-book/book)](https://github.com/mybatis-book/book): 我在 CSDN 博客写了不少和 MyBatis 相关的博客，2015 年时觉得自己写的太零散，不够系统全面，所以在 GitBook 创建了一本名为 MyBatis 最佳实践的开源电子书，当时写好了目录大纲，由于维护好几个开源项目，业余时间几乎都被占用，最终也只写了 MyBatis Generator 部分，也就是博客中的 MyBatis Generator 详解。2016 年 3 月份时，博文视点的孙奇俏编辑和我联系，然后就开始了 MyBatis 相关书籍的编写。
 
 # Tutorial | 开发使用
 

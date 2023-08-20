@@ -24,7 +24,7 @@ This file aggregates curated popular links for learning Redux. More reference ab
 
 ## Designing
 
-- [2018-Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38): Shouldn’t state management be a solved problem by now? Intuitively, developers seem to know a hidden truth: state management seems harder than it needs to be.
+- [2018~Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38): Shouldn’t state management be a solved problem by now? Intuitively, developers seem to know a hidden truth: state management seems harder than it needs to be.
 
 ## Case Study | 案例分析
 
@@ -44,6 +44,6 @@ This file aggregates curated popular links for learning Redux. More reference ab
 
 - [2017-Learn Redux by coding a Mini-Redux](http://blog.jakoblind.no/2017/03/13/learn-redux-by-coding-a-mini-redux/): A different learning strategy is to code a simple Redux yourself to develop a deeper understanding of the fundamental principles of the library.
 
-- [2018-Learn Redux by Building Redux from Scratch](https://parg.co/Uah): A tutorial to understand the core Redux library by building it step-by-step.
+- [2018~Learn Redux by Building Redux from Scratch](https://parg.co/Uah): A tutorial to understand the core Redux library by building it step-by-step.
 
 - [Immutability in JavaScript using Redux](https://www.toptal.com/javascript/immutability-in-javascript-using-redux)

@@ -16,7 +16,7 @@
 
 ## Case Study
 
-- [2018-小团队的微服务之路](https://mp.weixin.qq.com/s/_EpgKGKukSZ50Labb9vfag): 公司的背景是提供 SaaS 服务，对于大客户也会有定制开发以及私有化部署。经过 2 年不到的时间，技术架构经历了从单体到微服务再到容器化的过程。
+- [2018~小团队的微服务之路](https://mp.weixin.qq.com/s/_EpgKGKukSZ50Labb9vfag): 公司的背景是提供 SaaS 服务，对于大客户也会有定制开发以及私有化部署。经过 2 年不到的时间，技术架构经历了从单体到微服务再到容器化的过程。
 
 - [2019~Operating a Large, Distributed System in a Reliable Way: Practices I Learned](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/#slos-slas-reporting-on-them): This post is the collection of the practices I've found useful to reliably operate a large system at Uber, while working here.
 
@@ -40,15 +40,15 @@
 
 ## Collection
 
-- [2018-从 Spring Cloud 开始，聊聊微服务架构实践之路](http://mp.weixin.qq.com/s/DZQU4s9YNx4fXsfwu5whIg): 平台的技术架构也完成了从传统的单体应用到微服务化的演进。
+- [2018~从 Spring Cloud 开始，聊聊微服务架构实践之路](http://mp.weixin.qq.com/s/DZQU4s9YNx4fXsfwu5whIg): 平台的技术架构也完成了从传统的单体应用到微服务化的演进。
 
 - [2017-The System Design Primer 🗃️](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
 - [互联网公司经典技术架构 🗃️](https://github.com/davideuler/architecture.of.internet-product#): 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay 的架构。
 
-- [2018-Awesome Scalability, Availability, and Stability Back-end Design Patterns 🗃️](https://github.com/binhnguyennus/awesome-scalability): A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development.
+- [2018~Awesome Scalability, Availability, and Stability Back-end Design Patterns 🗃️](https://github.com/binhnguyennus/awesome-scalability): A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development.
 
-- [2018-The Architecture of Open Source Applications 🗃️](https://cubox.pro/c/V0ffbT): Our goal is to change that. In these two books, the authors of four dozen open source applications explain how their software is structured, and why. What are each program's major components? How do they interact? And what did their builders learn during their development? In answering these questions, the contributors to these books provide unique insights into how they think.
+- [2018~The Architecture of Open Source Applications 🗃️](https://cubox.pro/c/V0ffbT): Our goal is to change that. In these two books, the authors of four dozen open source applications explain how their software is structured, and why. What are each program's major components? How do they interact? And what did their builders learn during their development? In answering these questions, the contributors to these books provide unique insights into how they think.
 
 - [2020~Clone Wars 🗃️](https://github.com/GorvGoyl/Clone-Wars): 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 

@@ -4,11 +4,11 @@
 
 # Alibaba | 阿里巴巴
 
-- [2018-十年牧码记 #Series#]():
+- [2018~十年牧码记 #Series#]():
 
 ## 蚂蚁金服
 
-- [2018-从“被动挖光缆”到“主动剪网线”，蚂蚁金服异地多活的微服务体系](https://mp.weixin.qq.com/s/opfjmihtEWMT2zVC5lffCg): 蚂蚁金服（当时还是支付宝）从 2013 年起就运行在单元化架构上，除了具备异地容灾能力外，还能做到异地多活，可随时在多城市、多数据中心调配流量。基于单元流量调配机制，可实现大规模集群的蓝绿发布、灰度仿真环境，为充分验证业务正确性、降低故障提供了基础条件。相应地，微服务体系也必须具备单元内收敛、单元间可控路由等能力，来支撑单元化技术架构的落地。
+- [2018~从“被动挖光缆”到“主动剪网线”，蚂蚁金服异地多活的微服务体系](https://mp.weixin.qq.com/s/opfjmihtEWMT2zVC5lffCg): 蚂蚁金服（当时还是支付宝）从 2013 年起就运行在单元化架构上，除了具备异地容灾能力外，还能做到异地多活，可随时在多城市、多数据中心调配流量。基于单元流量调配机制，可实现大规模集群的蓝绿发布、灰度仿真环境，为充分验证业务正确性、降低故障提供了基础条件。相应地，微服务体系也必须具备单元内收敛、单元间可控路由等能力，来支撑单元化技术架构的落地。
 
 # Baidu | 百度
 
@@ -100,7 +100,7 @@
 
 - [2016-Data Infrastructure At Airbnb](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c#.8y91c8qmk): At Airbnb we promote a data informed culture and use data as a key input for making decisions.
 
-- [2018-Stream & Go: News Feeds for Over 300 Million End Users](https://parg.co/Uku): Stream is an API that enables developers to build news feeds and activity streams (try the API). We are used by over 500 companies and power the feeds of more than 300 million end users.
+- [2018~Stream & Go: News Feeds for Over 300 Million End Users](https://parg.co/Uku): Stream is an API that enables developers to build news feeds and activity streams (try the API). We are used by over 500 companies and power the feeds of more than 300 million end users.
 
 - [2017-Distributed Systems-3rd edition》📚](https://parg.co/UeG): 1. Introduction 2. Architectures 3. Processes 4. Communication 5. Naming 6. Coordination 7. Replication 8. Fault tolerance 9. Security
 

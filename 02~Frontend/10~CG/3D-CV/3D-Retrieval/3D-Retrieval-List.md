@@ -20,7 +20,7 @@
 
 - [2016-Pointnet ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/charlesq34/pointnet)](https://github.com/charlesq34/pointnet): Deep Learning on Point Sets for 3D Classification and Segmentation.
 
-- [2018-3D-shape-retrieval ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sijia3/3D-shape-retrieval)](https://github.com/sijia3/3D-shape-retrieval): 针对三维模型检索，并采用卷积神经网络，提出两个算法：1.采用体素化深层特征进行训练。2. 采用虚拟摄像机抓取多角度视图特征进行训练。
+- [2018~3D-shape-retrieval ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sijia3/3D-shape-retrieval)](https://github.com/sijia3/3D-shape-retrieval): 针对三维模型检索，并采用卷积神经网络，提出两个算法：1.采用体素化深层特征进行训练。2. 采用虚拟摄像机抓取多角度视图特征进行训练。
 
 - [2020~CADNet ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/AndrewColligan/CADNet)](https://github.com/AndrewColligan/CADNet): Code for Graph Representation of 3D CAD models for Machining Feature Recognition with Deep Learning paper. This is an approach using graph neural networks to learning from planar B-Rep CAD models. In the paper, focus was given towards the machining feature recognition task. Here, faces in B-Rep models were classified as different machining feature classes.
 

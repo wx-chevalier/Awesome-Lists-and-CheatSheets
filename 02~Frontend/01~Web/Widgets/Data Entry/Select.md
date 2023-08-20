@@ -41,6 +41,6 @@
 - [filepond ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pqina/filepond):
   A Flexible and Fun JavaScript File Upload Plugin.
 
-- [2018-react-dropzone](https://github.com/react-dropzone/react-dropzone): Simple HTML5 drag-drop zone with React.js.
+- [2018~react-dropzone](https://github.com/react-dropzone/react-dropzone): Simple HTML5 drag-drop zone with React.js.
 
 # City Select | 城市选择

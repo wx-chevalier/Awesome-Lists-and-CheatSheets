@@ -16,7 +16,7 @@
 
 # HA Cluster: 高可用集群
 
-- [2018-深入浅出 MongoDB 复制](http://www.infoq.com/cn/articles/mongodb-replication): 本文则是结合前两者最终给读者以简单的方式展现 MongoDB 复制的整个架构。
+- [2018~深入浅出 MongoDB 复制](http://www.infoq.com/cn/articles/mongodb-replication): 本文则是结合前两者最终给读者以简单的方式展现 MongoDB 复制的整个架构。
 
 # OpenSource
 

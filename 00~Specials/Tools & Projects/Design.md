@@ -113,7 +113,7 @@ Diagrams: timing
 
 ## 图床管理
 
-- [2018-PicGo ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Molunerfinn/PicGo): 🚀A simple & beautiful tool for pictures uploading built by electron-vue
+- [2018~PicGo ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Molunerfinn/PicGo): 🚀A simple & beautiful tool for pictures uploading built by electron-vue
 
 ## 相似度识别
 

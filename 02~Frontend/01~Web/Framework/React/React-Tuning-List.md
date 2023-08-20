@@ -2,7 +2,7 @@
 
 # Performance Optimization | 性能优化
 
-- [2018-React Profiler](https://mp.weixin.qq.com/s/k-icCIEOHkGmV-cBJ0HUGQ): React 16.5 新增了对开发工具（DevTools）性能分析插件（profiler plugin）的支持。
+- [2018~React Profiler](https://mp.weixin.qq.com/s/k-icCIEOHkGmV-cBJ0HUGQ): React 16.5 新增了对开发工具（DevTools）性能分析插件（profiler plugin）的支持。
 
 - [2017-React Performance Fixes on Airbnb Listing Pages](https://parg.co/UpT): We have been hard at work migrating the airbnb.com core booking flow into a single-page server-rendered app using React Router and Hypernova.
 
@@ -71,7 +71,7 @@
 
 - [2017-Writing Clean and Concise React Components by Making Full Use of ES6/7 Features and the Container-Component Pattern](https://parg.co/b1B)
 
-- [2018-Server Rendering, Code Splitting, and Lazy Loading with React Router v4](https://parg.co/UVJ): In this article, software engineers from Airbnb share practices in combing server rendering and code splitting.
+- [2018~Server Rendering, Code Splitting, and Lazy Loading with React Router v4](https://parg.co/UVJ): In this article, software engineers from Airbnb share practices in combing server rendering and code splitting.
 
 - [Upgrading a create-react-app project to a SSR + code splitting setup](https://parg.co/Ukg): This is what we’ll cover: Server-side rendering, Code splitting with react-loadable, Code splitting on the server, Taking benefit of webpack’s chunkNames.
 

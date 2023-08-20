@@ -4,7 +4,7 @@
 
 # Tool
 
-- [2018-Scrcpy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Genymobile/scrcpy): This application provides display and control of Android devices connected on USB. It does not require any root access. It works on GNU/Linux, Windows and Mac OS.
+- [2018~Scrcpy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Genymobile/scrcpy): This application provides display and control of Android devices connected on USB. It does not require any root access. It works on GNU/Linux, Windows and Mac OS.
 
 # Widgets
 

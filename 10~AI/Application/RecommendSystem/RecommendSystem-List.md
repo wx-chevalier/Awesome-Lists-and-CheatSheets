@@ -26,7 +26,7 @@
 
 - [2017-Spotify’s Discover Weekly: How machine learning finds your new music](https://parg.co/URN): The science behind personalized music recommendations.
 
-- [2018-今日头条算法原理](https://www.toutiao.com/i6511211182064402951/): 今日头条委托资深算法架构师曹欢欢博士，公开今日头条的算法原理，以期推动整个行业问诊算法、建言算法；通过让算法透明，来消除各界对算法的误解，并逐步推动整个行业让算法更好的造福社会。
+- [2018~今日头条算法原理](https://www.toutiao.com/i6511211182064402951/): 今日头条委托资深算法架构师曹欢欢博士，公开今日头条的算法原理，以期推动整个行业问诊算法、建言算法；通过让算法透明，来消除各界对算法的误解，并逐步推动整个行业让算法更好的造福社会。
 
 # Overview
 
@@ -42,9 +42,9 @@
 
 ## Collection
 
-- [2018-推荐系统的参考阅读 🗃️](https://time.geekbang.org/column/article/8113): 整体来说，在选择参考文献时，我偏爱那些由公司发表的。
+- [2018~推荐系统的参考阅读 🗃️](https://time.geekbang.org/column/article/8113): 整体来说，在选择参考文献时，我偏爱那些由公司发表的。
 
-- [2018-深度学习在推荐系统中的应用及代码集锦 🗃️](https://mp.weixin.qq.com/s/tqkb-44K6dfryngMttEtQQ): 搜集了数十篇推荐系统在深度学习领域的文章与代码。
+- [2018~深度学习在推荐系统中的应用及代码集锦 🗃️](https://mp.weixin.qq.com/s/tqkb-44K6dfryngMttEtQQ): 搜集了数十篇推荐系统在深度学习领域的文章与代码。
 
 - [2019~RSPapers 🗃️](https://github.com/hongleizhang/RSPapers): Must-read papers on Recommender System.
 

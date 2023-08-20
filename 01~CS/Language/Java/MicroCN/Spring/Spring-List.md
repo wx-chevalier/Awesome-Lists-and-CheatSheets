@@ -8,9 +8,9 @@
 
 ## Series
 
-- [2018-yinjihuan/Spring Cloud #Series#](https://github.com/yinjihuan/spring-cloud): 《Spring Cloud 微服务-全栈技术与案例解析》和《Spring Cloud 微服务 入门 实战与进阶》配套源码。
+- [2018~yinjihuan/Spring Cloud #Series#](https://github.com/yinjihuan/spring-cloud): 《Spring Cloud 微服务-全栈技术与案例解析》和《Spring Cloud 微服务 入门 实战与进阶》配套源码。
 
-- [2018-Spring-Boot-In-Action ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hansonwang99/Spring-Boot-In-Action)](https://github.com/hansonwang99/Spring-Boot-In-Action): 本项目为 《Spring Boot 实战合集》的系列文章，代码已开源，并持续保持更新。如果您觉得该项目对您有用，欢迎点击右上方的 Star 按钮支持一波！！
+- [2018~Spring-Boot-In-Action ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hansonwang99/Spring-Boot-In-Action)](https://github.com/hansonwang99/Spring-Boot-In-Action): 本项目为 《Spring Boot 实战合集》的系列文章，代码已开源，并持续保持更新。如果您觉得该项目对您有用，欢迎点击右上方的 Star 按钮支持一波！！
 
 - [2020~Spring Boot Learning #Series#](https://github.com/dyc87112/SpringBoot-Learning): Spring Boot 基础教程，Spring Boot 2.x 版本连载中！！！
 

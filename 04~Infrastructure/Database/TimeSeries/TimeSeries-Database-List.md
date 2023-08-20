@@ -8,7 +8,7 @@
 
 # TimescaleDB
 
-- [2018-TimescaleDB vs. InfluxDB: purpose built differently for time-series data](https://parg.co/o2K): An in-depth look into how two leading time-series databases stack up in terms of data model, query language, reliability, performance, ecosystem, operational management, and company/community support.
+- [2018~TimescaleDB vs. InfluxDB: purpose built differently for time-series data](https://parg.co/o2K): An in-depth look into how two leading time-series databases stack up in terms of data model, query language, reliability, performance, ecosystem, operational management, and company/community support.
 
 - [2019~Building a distributed time-series database on PostgreSQL](https://blog.timescale.com/blog/building-a-distributed-time-series-database-on-postgresql/): TimescaleDB, a time-series database on PostgreSQL, has been production-ready for over two years, with millions of downloads and production deployments worldwide. Today, for the first time, we are publicly sharing our design, plans, and benchmarks for the distributed version of TimescaleDB.
 

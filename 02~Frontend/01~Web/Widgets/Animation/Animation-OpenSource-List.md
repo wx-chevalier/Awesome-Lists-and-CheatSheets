@@ -4,7 +4,7 @@
 
 # Motion Library
 
-- [2018-Framer Motion ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/framer/motion): Open source, production-ready animation and gesture library for React.
+- [2018~Framer Motion ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/framer/motion): Open source, production-ready animation and gesture library for React.
 
 - [mojs ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mojs/mojs): The motion graphics toolbelt for the web
 
@@ -66,4 +66,4 @@
 
 - [basicScroll ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/electerious/basicScroll): Standalone parallax scrolling for mobile and desktop with CSS variables.
 
-- [2018-react-parallax ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/RRutsche/react-parallax#readme): A React Component for parallax effect.
+- [2018~react-parallax ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/RRutsche/react-parallax#readme): A React Component for parallax effect.

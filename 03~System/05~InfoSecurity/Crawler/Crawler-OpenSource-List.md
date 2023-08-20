@@ -20,7 +20,7 @@
 
 ## Python
 
-- [2018-Scrapy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/scrapy/scrapy)](https://github.com/scrapy/scrapy): Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
+- [2018~Scrapy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/scrapy/scrapy)](https://github.com/scrapy/scrapy): Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
 
 - [2019~pyspider ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/binux/pyspider)](https://github.com/binux/pyspider): A Powerful Spider(Web Crawler) System in Python.
 
@@ -34,7 +34,7 @@
 
 - [2017-Colly ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/gocolly/colly): Lightning Fast and Elegant Scraping Framework for Gophers.
 
-- [2018-ferret ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/MontFerret/ferret): ferret is a web scraping system aiming to simplify data extraction from the web for such things like UI testing, machine learning and analytics.
+- [2018~ferret ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/MontFerret/ferret): ferret is a web scraping system aiming to simplify data extraction from the web for such things like UI testing, machine learning and analytics.
 
 - [2019~Hakrawler ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hakluke/hakrawler): Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application.
 

@@ -36,11 +36,11 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2017-《Competitive Programmer's Handbook》📚](https://cses.fi/book.html): The purpose of this book is to give the reader a thorough introduction to competitive programming. The book is especially intended for students who want to learn algorithms and possibly participate in the International Olympiad in Informatics (IOI) or in the International Collegiate Programming Contest (ICPC).
 
-- [2018-《The Algorithms》📚](https://github.com/TheAlgorithms): Open Source Book for Newbies to Learn Algorithms and Implement them in any Programming Language.
+- [2018~《The Algorithms》📚](https://github.com/TheAlgorithms): Open Source Book for Newbies to Learn Algorithms and Implement them in any Programming Language.
 
-- [2018-《算法珠玑》📚](https://soulmachine.gitbooks.io/algorithm-essentials/): 本书的目标读者是准备去硅谷找工作的码农，也适用于在国内找工作的码农，以及刚接触 ACM 算法竞赛的新手。
+- [2018~《算法珠玑》📚](https://soulmachine.gitbooks.io/algorithm-essentials/): 本书的目标读者是准备去硅谷找工作的码农，也适用于在国内找工作的码农，以及刚接触 ACM 算法竞赛的新手。
 
-- [2018-《Algorithms》📚](http://jeffe.cs.illinois.edu/teaching/algorithms/?#book): This textbook grew out of a collection of lecture notes that I wrote for various algorithms classes at the University of Illinois at Urbana-Champaign, which I have been teaching about once a year since January 1999.
+- [2018~《Algorithms》📚](http://jeffe.cs.illinois.edu/teaching/algorithms/?#book): This textbook grew out of a collection of lecture notes that I wrote for various algorithms classes at the University of Illinois at Urbana-Champaign, which I have been teaching about once a year since January 1999.
 
 - [2021~《labuladong 的算法小抄》📚](https://labuladong.gitbook.io/algo/): 本网站目前可以手把手带你解决 150 道 LeetCode 算法问题，而且在不断更新，全部基于 LeetCode 的题目，涵盖了所有题型和技巧。我已经把在每篇文章的开头加上了该文章可以解决的 LeetCode 题目链接，可以看完文章立即去拿下对应题目。
 
@@ -52,7 +52,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 ## Collection
 
-- [2018-algorithms ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/marcosfede/algorithms): Solved algorithms and data structures problems in many languages.
+- [2018~algorithms ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/marcosfede/algorithms): Solved algorithms and data structures problems in many languages.
 
 - [algorithmist ![code](https://ng-tech.icu/assets/code.svg)](http://www.algorithmist.com/index.php/Main_Page): The Algorithmist is a resource dedicated to anything algorithms - from the practical realm, to the theoretical realm. There are also links and explanation to problemsets.
 
@@ -86,7 +86,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2017-javascript-algorithms ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/trekhleb/javascript-algorithms): This repository contains JavaScript based examples of many popular algorithms and data structures.
 
-- [2018-javascript-datastructures-algorithms ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/loiane/javascript-datastructures-algorithms): collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book.
+- [2018~javascript-datastructures-algorithms ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/loiane/javascript-datastructures-algorithms): collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book.
 
 - [2019~dsa.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/amejiarosario/dsa.js): Data Structures and Algorithms explained and implemented in JavaScript
 
@@ -102,7 +102,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2017-go-algorithms ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/0xAX/go-algorithms): Algorithms and data structures for golang.
 
-- [2018-DataViz ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Arafatk/DataViz?files=1): Build and visualize data structures in Golang.
+- [2018~DataViz ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Arafatk/DataViz?files=1): Build and visualize data structures in Golang.
 
 - [Slim ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/openacid/slim): Slim is collection of surprisingly space efficient data types, with corresponding serialization APIs to persisting them on-disk or for transport.
 

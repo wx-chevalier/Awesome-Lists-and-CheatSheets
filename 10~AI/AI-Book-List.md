@@ -27,9 +27,9 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2016-Designing Machine Learning Systems with Python](https://parg.co/Y6O): Gain an understanding of the machine learning design process, Optimize machine learning systems for improved accuracy, Understand common programming tools and techniques for machine learning, Develop techniques and strategies for dealing with large amounts of data from a variety of sources, Build models to solve unique tasks.
 
-- [2018-Andrew NG-Machine Learning Yearning》📚](http://www.mlyearning.org/): This book is focused not on teaching you ML algorithms, but on how to make ML algorithms work. Some technical AI classes will give you a hammer; this book teaches you how to use the hammer. 中文版本参考[这里](https://github.com/AcceptedDoge/machine-learning-yearning-cn/)。
+- [2018~Andrew NG-Machine Learning Yearning》📚](http://www.mlyearning.org/): This book is focused not on teaching you ML algorithms, but on how to make ML algorithms work. Some technical AI classes will give you a hammer; this book teaches you how to use the hammer. 中文版本参考[这里](https://github.com/AcceptedDoge/machine-learning-yearning-cn/)。
 
-- [2018-Artificial Intelligence: A Modern Approach-3rd Edition》📚](https://parg.co/Y6t):Artificial Intelligence: A Modern Approach, 3e offers the most comprehensive, up-to-date introduction to the theory and practice of artificial intelligence. Number one in its field, this textbook is ideal for one or two-semester, undergraduate or graduate-level courses in Artificial Intelligence.
+- [2018~Artificial Intelligence: A Modern Approach-3rd Edition》📚](https://parg.co/Y6t):Artificial Intelligence: A Modern Approach, 3e offers the most comprehensive, up-to-date introduction to the theory and practice of artificial intelligence. Number one in its field, this textbook is ideal for one or two-semester, undergraduate or graduate-level courses in Artificial Intelligence.
 
 - [2019~Interpretable Machine Learning》📚](https://christophm.github.io/interpretable-ml-book/): This book is about making machine learning models and their decisions interpretable.
 
@@ -49,7 +49,7 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 ## Reinforcement Learning | 强化学习
 
-- [2018-Reinforcement Learning: An Introduction-Second Edition》📚](https://parg.co/Y6M): This textbook provides a clear and simple account of the key ideas and algorithms of reinforcement learning that is accessible to readers in all the related disciplines. Familiarity with elementary concepts of probability is required.
+- [2018~Reinforcement Learning: An Introduction-Second Edition》📚](https://parg.co/Y6M): This textbook provides a clear and simple account of the key ideas and algorithms of reinforcement learning that is accessible to readers in all the related disciplines. Familiarity with elementary concepts of probability is required.
 
 - [2021~蘑菇书 EasyRL》📚](https://github.com/datawhalechina/easy-rl): 李宏毅老师的《深度强化学习》是强化学习领域经典的中文视频之一。李老师幽默风趣的上课风格让晦涩难懂的强化学习理论变得轻松易懂，他会通过很多有趣的例子来讲解强化学习理论。比如老师经常会用玩 Atari 游戏的例子来讲解强化学习算法。此外，为了教程的完整性，我们整理了周博磊老师的《强化学习纲要》、李科浇老师的《世界冠军带你从零实践强化学习》以及多个强化学习的经典资料作为补充。对于想入门强化学习又想看中文讲解的人来说绝对是非常推荐的。
 
@@ -65,7 +65,7 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2017-Deep Learning with Python》📚](https://github.com/fchollet/deep-learning-with-python-notebooks): Here we have only included the code samples themselves and immediately related surrounding comments.
 
-- [2018-深度学习 500 问》📚](https://github.com/scutan90/DeepLearning-500-questions): 以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。
+- [2018~深度学习 500 问》📚](https://github.com/scutan90/DeepLearning-500-questions): 以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。
 
 - [2019~深度学习理论与实战：提高篇》📚](http://fancyerii.github.io/2019/03/14/dl-book/): 本书的目标是使用通俗易懂的语言来介绍基础理论和最新的进展，同时也介绍代码的实现。通过理论与实践的结合使读者更加深入的理解理论知识，同时也把理论知识用于指导实践。
 
@@ -86,7 +86,7 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2017-Li Deng-Deep Learning in Natural Language Processing》📚](https://parg.co/66P): this book provides comprehensive introduction to and up-to-date review of the state of art in applying deep learning to solve fundamental problems in NLP.
 
-- [2018-Dan Jurafsky-Speech and Language Processing-3rd》📚](https://web.stanford.edu/~jurafsky/slp3/): New pedagogical sequences on neural networks and their training, starting with logistic regression and continuing with embeddings, feed-forward nets, and RNNs.
+- [2018~Dan Jurafsky-Speech and Language Processing-3rd》📚](https://web.stanford.edu/~jurafsky/slp3/): New pedagogical sequences on neural networks and their training, starting with logistic regression and continuing with embeddings, feed-forward nets, and RNNs.
 
 - [2020~机器翻译：统计建模与深度学习方法》📚](https://github.com/NiuTrans/MTBook): 这是一个教程，目的是对机器翻译的统计建模和深度学习方法进行较为系统的介绍。其内容被编纂成书，可以供计算机相关专业高年级本科生及研究生学习之用，亦可作为自然语言处理，特别是机器翻译相关研究人员的参考资料。本书用 tex 编写，所有源代码均已开放。
 

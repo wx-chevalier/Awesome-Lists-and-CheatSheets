@@ -12,7 +12,7 @@
 
 - [2017-rubber-docker ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Fewbytes/rubber-docker): A workshop on Linux containers: Rebuild Docker from Scratch
 
-- [2018-手把手教你写 Docker](https://parg.co/UvM): 模拟 Docker 实现一个简单的容器不到 200 行代码(包括空行、注释、异常处理)。
+- [2018~手把手教你写 Docker](https://parg.co/UvM): 模拟 Docker 实现一个简单的容器不到 200 行代码(包括空行、注释、异常处理)。
 
 # Tool
 

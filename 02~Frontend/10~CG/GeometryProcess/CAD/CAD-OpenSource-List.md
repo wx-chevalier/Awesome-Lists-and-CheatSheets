@@ -2,7 +2,7 @@
 
 - [2013-OCCT ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Open-Cascade-SAS/OCCT)](https://github.com/Open-Cascade-SAS/OCCT): Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE. This is a clone of the official repository located on https://dev.opencascade.org/. Please use official development portal for registering issues and providing patches.
 
-- [2018-Dust3D ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/huxingyi/dust3d)](https://github.com/huxingyi/dust3d): Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.
+- [2018~Dust3D ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/huxingyi/dust3d)](https://github.com/huxingyi/dust3d): Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.
 
 - [2019~Arcs ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Michael-F-Bryan/arcs)](https://github.com/Michael-F-Bryan/arcs): An extensible framework for creating 2D CAD applications, written in Rust and based on an Entity-Component-System architecture.
 

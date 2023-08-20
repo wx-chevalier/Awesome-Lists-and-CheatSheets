@@ -66,7 +66,7 @@
 
 - [Master the JavaScript Interview: What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261#.yeuxdynfz)
 
-- [2018-Promises are not neutral enough](https://staltz.com/promises-are-not-neutral-enough.html): Promises in JavaScript create problems which affect the entire ecosystem. In this blog post I’ll explain some of those problems.
+- [2018~Promises are not neutral enough](https://staltz.com/promises-are-not-neutral-enough.html): Promises in JavaScript create problems which affect the entire ecosystem. In this blog post I’ll explain some of those problems.
 
 # Generator
 
@@ -104,7 +104,7 @@
 
 - [Mastering Async Await in Node.js](https://blog.risingstack.com/mastering-async-await-in-nodejs/): In this article, you will learn how you can simplify your callback or Promise based Node.js application with async functions (async/await).
 
-- [2018-Faster async functions and promises](https://v8.dev/blog/fast-async): This article explores how we optimized async functions and promises in V8 (and to some extent in other JavaScript engines as well), and describes how we improved the debugging experience for async code.
+- [2018~Faster async functions and promises](https://v8.dev/blog/fast-async): This article explores how we optimized async functions and promises in V8 (and to some extent in other JavaScript engines as well), and describes how we improved the debugging experience for async code.
 
 # Reactive Programming
 

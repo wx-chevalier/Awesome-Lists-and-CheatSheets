@@ -26,7 +26,7 @@
 
 - [2017-《Docker 从入门到实践》📚](https://github.com/yeasy/docker_practice): Learn and understand Docker technologies, with real DevOps practice!
 
-- [2018-《Docker — 从入门到实践》📚](https://github.com/yeasy/docker_practice): 本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
+- [2018~《Docker — 从入门到实践》📚](https://github.com/yeasy/docker_practice): 本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
 - [2021~《DescomplicandoDocker》 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/badtuxx/DescomplicandoDocker): This book will teach you all you need to know to get started with Docker, and use it to build, ship, and run your applications. It will be your guide in the world of containers, and on the path to ship code better than you ever did before.
 
@@ -34,8 +34,8 @@
 
 - [Docker + Kubernetes](https://parg.co/UVt)
 
-- [2018-A crash course on Docker — Learn to swim with the big fish](https://parg.co/UvP)
+- [2018~A crash course on Docker — Learn to swim with the big fish](https://parg.co/UvP)
 
-- [2018-Docker for Beginners](https://docker-curriculum.com/): Learn to build and deploy your distributed applications easily to the cloud with Docker.
+- [2018~Docker for Beginners](https://docker-curriculum.com/): Learn to build and deploy your distributed applications easily to the cloud with Docker.
 
-- [2018-docker-curriculum](https://github.com/prakhar1989/docker-curriculum): A comprehensive tutorial on getting started with Docker!
+- [2018~docker-curriculum](https://github.com/prakhar1989/docker-curriculum): A comprehensive tutorial on getting started with Docker!

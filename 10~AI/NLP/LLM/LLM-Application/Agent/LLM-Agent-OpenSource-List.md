@@ -11,3 +11,5 @@
 - [2023~AI Legion ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/eumemic/ai-legion)](https://github.com/eumemic/ai-legion): A framework for autonomous agents who can work together to accomplish tasks.
 
 - [2023~Flowise ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/FlowiseAI/Flowise)](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS.
+
+- [2023~joonspk-research/generative_agents ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/joonspk-research/generative_agents)](https://github.com/joonspk-research/generative_agents): This repository accompanies our research paper titled "Generative Agents: Interactive Simulacra of Human Behavior." It contains our core simulation module for generative agents—computational agents that simulate believable human behaviors—and their game environment. Below, we document the steps for setting up the simulation environment on your local machine and for replaying the simulation as a demo animation.

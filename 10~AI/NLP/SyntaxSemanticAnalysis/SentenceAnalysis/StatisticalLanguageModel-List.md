@@ -12,4 +12,4 @@
 
 # Embedding
 
-- [2018-Neural Network Embeddings Explained](https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526): How deep learning can represent War and Peace as a vector
+- [2018~Neural Network Embeddings Explained](https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526): How deep learning can represent War and Peace as a vector

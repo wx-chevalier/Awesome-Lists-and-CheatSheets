@@ -18,7 +18,7 @@
 
 ## Case Study
 
-- [2018-携程 Redis 容器化实践](https://mp.weixin.qq.com/s/uqMrYp7FTI11zBIm8kiTLg): 携程的 Redis 使用规模有 200T+，并且每天有百万亿次的访问频率，如此大规模的 Redis 容器化对于我们来说是个不小的挑战，本文分享携程 Redis 容器化落地的一些实践经验。
+- [2018~携程 Redis 容器化实践](https://mp.weixin.qq.com/s/uqMrYp7FTI11zBIm8kiTLg): 携程的 Redis 使用规模有 200T+，并且每天有百万亿次的访问频率，如此大规模的 Redis 容器化对于我们来说是个不小的挑战，本文分享携程 Redis 容器化落地的一些实践经验。
 
 # Resource
 
@@ -28,11 +28,11 @@
 
 - [RedisGraph ![code](https://ng-tech.icu/assets/code.svg)](http://redisgraph.io/design/): A High Performance In-Memory Graph Database as a Redis Module.
 
-- [2018-RDR ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/xueqiu/rdr): RDR(redis data reveal) is a tool to parse redis rdbfile. Comparing to redis-rdb-tools, RDR is implemented by golang, much faster (5GB rdbfile takes about 2mins on my PC).
+- [2018~RDR ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/xueqiu/rdr): RDR(redis data reveal) is a tool to parse redis rdbfile. Comparing to redis-rdb-tools, RDR is implemented by golang, much faster (5GB rdbfile takes about 2mins on my PC).
 
 ## Extended Edition
 
-- [2018-KeyDB ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/JohnSully/KeyDB): A Multithreaded Fork of Redis
+- [2018~KeyDB ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/JohnSully/KeyDB): A Multithreaded Fork of Redis
 
 - [2020~Kvrocks ![code](https://ng-tech.icu/assets/code.svg)](https://mp.weixin.qq.com/s/fJi5JEATVcuQVtysqqJp_w): Kvrocks 是基于 RocksDB 之上兼容 Redis 协议的 NoSQL 存储服务，设计目标是提供一个低成本以及大容量的 Redis 服务，作为 Redis 在大数据量场景的互补服务，选择兼容 Redis 协议是因为简单易用且业务迁移成本低。目前线上使用的公司包含: 美图、携程、百度以及白山云等，在线上经过两年多大规模实例的验证。
 

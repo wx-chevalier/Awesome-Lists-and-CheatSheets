@@ -22,11 +22,11 @@
 
 ## Boilerplates
 
-- [2018-snowflake ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bartonhammond/snowflake): A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku
+- [2018~snowflake ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bartonhammond/snowflake): A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku
 
-- [2018-Ignite ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/infinitered/ignite): The hottest CLI for React Native, boilerplates, plugins, generators, and more!
+- [2018~Ignite ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/infinitered/ignite): The hottest CLI for React Native, boilerplates, plugins, generators, and more!
 
-- [2018-React Native Starter ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ueno-llc/react-native-starter): Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
+- [2018~React Native Starter ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ueno-llc/react-native-starter): Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
 
 ## Publish
 
@@ -38,13 +38,13 @@
 
 - [2017-React Native Node ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/staltz/react-native-node): Run a separate Node.js process behind a React Native app.
 
-- [2018-React Native DOM ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vincentriemer/react-native-dom): An experimental, comprehensive port of React Native to the web.
+- [2018~React Native DOM ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vincentriemer/react-native-dom): An experimental, comprehensive port of React Native to the web.
 
 # Libraries
 
 - [NativeBase](https://github.com/GeekyAnts/NativeBase): Essential cross-platform UI components for React Native.
 
-- [2018-React Native Paper ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/U1m): Material Design for React Native (Android & iOS).
+- [2018~React Native Paper ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/U1m): Material Design for React Native (Android & iOS).
 
 - [Galio ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/galio-org/galio): Galio is a beautifully designed, Free and Open Source React Native Framework
 

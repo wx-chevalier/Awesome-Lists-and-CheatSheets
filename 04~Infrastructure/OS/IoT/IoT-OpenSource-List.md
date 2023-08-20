@@ -10,7 +10,7 @@
 
 - [2017-ThingsBoard ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/thingsboard/thingsboard): Open-source IoT Platform - Device management, data collection, processing and visualization.
 
-- [2018-YodaOS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/yodaos-project/yodaos): This is a modern operating system for next generation interactive device, and it embraces Web community, uses JavaScript as the application language.
+- [2018~YodaOS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/yodaos-project/yodaos): This is a modern operating system for next generation interactive device, and it embraces Web community, uses JavaScript as the application language.
 
 - [2019~TDengine ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/taosdata/TDengine): TDengine is an open-sourced big data platform under GNU AGPL v3.0, designed and optimized for the Internet of Things (IoT), Connected Cars, Industrial IoT, and IT Infrastructure and Application Monitoring.
 

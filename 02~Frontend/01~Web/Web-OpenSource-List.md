@@ -116,13 +116,13 @@
 
 - [wepy ![code](https://ng-tech.icu/assets/code.svg)](https://tencent.github.io/wepy/): 让小程序支持组件化开发的框架，一个最受欢迎的小程序框架。
 
-- [2018-mpx ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/didi/mpx): A enhanced miniprogram framework with data reactivity and deep optimizition.
+- [2018~mpx ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/didi/mpx): A enhanced miniprogram framework with data reactivity and deep optimizition.
 
 - [Remax ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/remaxjs/remax): Remax 将 React 运行在小程序环境中，让你可以使用完整的 React 进行开发。
 
 - [2017-Taro ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/NervJS/taro): 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。
 
-- [2018-Chameleon ![code](https://ng-tech.icu/assets/code.svg)](https://cmljs.org/doc/): Chameleon /kəˈmiːlɪən/，简写 CML，中文名卡梅龙；中文意思变色龙，意味着就像变色龙一样能适应不同环境的跨端整体解决方案。
+- [2018~Chameleon ![code](https://ng-tech.icu/assets/code.svg)](https://cmljs.org/doc/): Chameleon /kəˈmiːlɪən/，简写 CML，中文名卡梅龙；中文意思变色龙，意味着就像变色龙一样能适应不同环境的跨端整体解决方案。
 
 - [2019~alita ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/areslabs/alita): 一套把 React Native 代码转换成微信小程序代码的转换引擎工具。我们不造轮子，不发明新框架，只是提供工具把 RN 扩展到微信小程序端。
 
@@ -130,9 +130,9 @@
 
 ## Scaffold
 
-- [2018-@pika/web ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pikapkg/web): Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required.
+- [2018~@pika/web ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pikapkg/web): Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required.
 
-- [2018-code-server ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/codercom/code-server): code-server is VS Code running on a remote server, accessible through the browser.
+- [2018~code-server ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/codercom/code-server): code-server is VS Code running on a remote server, accessible through the browser.
 
 ## Pattern Libraries
 
@@ -212,7 +212,7 @@
 
 - [2017-Dexie.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dfahlander/Dexie.js): Dexie.js is a wrapper library for indexedDB - the standard database in the browser.
 
-- [2018-turtleDB ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/turtle-DB/turtleDB): turtleDB is a JavaScript framework and in-browser database for developers to build offline-first, collaborative web applications. It provides a developer-friendly API to access an in-browser database built on top of IndexedDB.
+- [2018~turtleDB ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/turtle-DB/turtleDB): turtleDB is a JavaScript framework and in-browser database for developers to build offline-first, collaborative web applications. It provides a developer-friendly API to access an in-browser database built on top of IndexedDB.
 
 - [2020~sql.js ![code](https://ng-tech.icu/assets/code.svg)](https://sql.js.org/#/): sql.js is a javascript SQL database. It allows you to create a relational database and query it entirely in the browser.
 
@@ -248,11 +248,11 @@
 
 - [Lozad ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ApoorvSaxena/lozad.js): lozad.js is a light-weight library to lazy load elements using JavaScript.
 
-- [2018-whatcss ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jonroig/whatcss): WhatCSS.info: CSS StyleSheet Pageload Analyser/Optimizer 🤷
+- [2018~whatcss ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jonroig/whatcss): WhatCSS.info: CSS StyleSheet Pageload Analyser/Optimizer 🤷
 
-- [2018-instant.page ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/instantpage/instant.page): Make your site’s pages instant in 1 minute and improve your conversion rate by 1%.
+- [2018~instant.page ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/instantpage/instant.page): Make your site’s pages instant in 1 minute and improve your conversion rate by 1%.
 
-- [2018-lazysizes ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/aFarkas/lazysizes): lazysizes is a fast (jank-free), SEO-friendly and self-initializing lazyloader for images (including responsive images picture/srcset), iframes, scripts/widgets and much more.
+- [2018~lazysizes ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/aFarkas/lazysizes): lazysizes is a fast (jank-free), SEO-friendly and self-initializing lazyloader for images (including responsive images picture/srcset), iframes, scripts/widgets and much more.
 
 ### Image
 
@@ -288,7 +288,7 @@
 
 # Micro-FE Framework
 
-- [2018-Micro Frontends](https://micro-frontends.org/): Techniques, strategies and recipes for building a modern web app with multiple teams using different JavaScript frameworks.
+- [2018~Micro Frontends](https://micro-frontends.org/): Techniques, strategies and recipes for building a modern web app with multiple teams using different JavaScript frameworks.
 
 - [Mooa ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/phodal/mooa): Mooa 是一个为 Angular 服务的微前端框架，[前端微服务化：使用微前端框架 Mooa 开发微前端应用](https://parg.co/o3F)。
 

@@ -1,6 +1,6 @@
 # CMake List
 
-- [2018-《CMake Cookbook》📚](https://github.com/dev-cafe/cmake-cookbook): This repository collects sources for the recipes contained in the CMake Cookbook published by Packt and authored by Radovan Bast and Roberto Di Remigio
+- [2018~《CMake Cookbook》📚](https://github.com/dev-cafe/cmake-cookbook): This repository collects sources for the recipes contained in the CMake Cookbook published by Packt and authored by Radovan Bast and Roberto Di Remigio
 
 - [2020~通过例子学习 CMake #Series#](https://github.com/SFUMECJF/cmake-examples-Chinese): 本教程全部采用中文，通过一个个例子帮助读者由浅入深逐渐理解 CMake 的语法。教程主要来源于 github 优秀 CMake 项目，项目贡献者在翻译中，又查阅 CMake 官方手册，或者与已经工作的 C++开发者交流，对于模糊的地方予以详细说明。
 
@@ -14,4 +14,4 @@
 
 # OpenSource
 
-- [2018-StableCoder/cmake-scripts ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/StableCoder/cmake-scripts)](https://github.com/StableCoder/cmake-scripts): A selection of useful scripts for use in CMake projects, include code coverage, sanitizers, and dependency graph generation.
+- [2018~StableCoder/cmake-scripts ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/StableCoder/cmake-scripts)](https://github.com/StableCoder/cmake-scripts): A selection of useful scripts for use in CMake projects, include code coverage, sanitizers, and dependency graph generation.

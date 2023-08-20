@@ -18,7 +18,7 @@
 
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
-- [2018-Understanding The Recurrent Neural Network](https://medium.com/mindorks/understanding-the-recurrent-neural-network-44d593f112a2?source=userActivityShare-fe48c4221a4c-1524115570): What is Recurrent Neural Network (RNN)?
+- [2018~Understanding The Recurrent Neural Network](https://medium.com/mindorks/understanding-the-recurrent-neural-network-44d593f112a2?source=userActivityShare-fe48c4221a4c-1524115570): What is Recurrent Neural Network (RNN)?
 
 # LSTM
 

@@ -10,7 +10,7 @@
 
 # Cluster
 
-- [2018-Scaling Kubernetes to 2,500 Nodes](https://parg.co/Uke): On the path to this scale, many system components caused breakages, including etcd, the Kube masters, Docker image pulls, network, KubeDNS, and even our machines’ ARP caches.
+- [2018~Scaling Kubernetes to 2,500 Nodes](https://parg.co/Uke): On the path to this scale, many system components caused breakages, including etcd, the Kube masters, Docker image pulls, network, KubeDNS, and even our machines’ ARP caches.
 
 - [2019~kubeadm-playbook](https://github.com/ReSearchITEng/kubeadm-playbook): Fully fledged (HA) Kubernetes Cluster using official kubeadm, ansible and helm. Tested on RHEL/CentOS/Ubuntu with support of http_proxy, dashboard installed, ingress controller, heapster.
 
@@ -28,7 +28,7 @@
 
 # Helm
 
-- [2018-使用 Helm 优化 Kubernetes 下的研发体验：基础设施即代码](http://dockone.io/article/8243): 在本文中笔者，将以一个 Spring Boot 程序为例，介绍如何在软件研发端到端过程中是使用 Helm。
+- [2018~使用 Helm 优化 Kubernetes 下的研发体验：基础设施即代码](http://dockone.io/article/8243): 在本文中笔者，将以一个 Spring Boot 程序为例，介绍如何在软件研发端到端过程中是使用 Helm。
 
 - [使用 Helm 优化 Kubernetes 下的研发体验：基础设施即代码](https://mp.weixin.qq.com/s/NdQYzMfRnQv7YatX7075Eg): 本文中，笔者将以一个 Spring Boot 程序为例，介绍如何在软件研发端到端过程中是使用 Helm。
 

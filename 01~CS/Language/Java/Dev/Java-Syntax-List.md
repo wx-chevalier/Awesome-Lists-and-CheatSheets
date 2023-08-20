@@ -28,9 +28,9 @@
 
 - [2016-Java 编程手册—异常处理与断言](http://blog.csdn.net/hp910315/article/details/51067333)
 
-- [2018-Java’s Mysterious Interrupt](https://carlmastrangelo.com/blog/javas-mysterious-interrupt): One of the lesser known parts of Java is InterruptedException.
+- [2018~Java’s Mysterious Interrupt](https://carlmastrangelo.com/blog/javas-mysterious-interrupt): One of the lesser known parts of Java is InterruptedException.
 
-- [2018-11 Mistakes Java Developers make when Using Exceptions](https://nobugsproject.com/2017/05/28/11-mistakes-java-developers-make-when-using-exceptions/): See the 11 mistakes Java Developers make when using Exceptions.
+- [2018~11 Mistakes Java Developers make when Using Exceptions](https://nobugsproject.com/2017/05/28/11-mistakes-java-developers-make-when-using-exceptions/): See the 11 mistakes Java Developers make when using Exceptions.
 
 - [Java 异常处理的误区和经验总结](https://www.ibm.com/developerworks/cn/java/j-lo-exception-misdirection)
 

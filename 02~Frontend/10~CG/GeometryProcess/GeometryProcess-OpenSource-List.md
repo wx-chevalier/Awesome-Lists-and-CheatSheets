@@ -82,7 +82,7 @@
 
 - [2010-MeshPy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/inducer/meshpy)](https://github.com/inducer/meshpy): MeshPy offers quality triangular and tetrahedral mesh generation for Python. Meshes of this type are chiefly used in finite-element simulation codes, but also have many other applications ranging from computer graphics to robotics.
 
-- [2018-Pyvista ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/pyvista/pyvista)](https://github.com/pyvista/pyvista): 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
+- [2018~Pyvista ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/pyvista/pyvista)](https://github.com/pyvista/pyvista): 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 
 - [2019~PyMesh ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/PyMesh/PyMesh)](https://github.com/PyMesh/PyMesh): PyMesh is a code base developed by Qingnan Zhou for his PhD research at New York University. It is a rapid prototyping platform focused on geometry processing. PyMesh is written with both C++ and Python, where computational intensive functionalities are realized in C++, and Python is used for creating minimalistic and easy to use interfaces.
 

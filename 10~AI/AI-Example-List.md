@@ -20,7 +20,7 @@
 
 - [2017-Top Deep Learning Projects ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/aymericdamien/TopDeepLearning): A list of popular github projects related to deep learning (ranked by stars).
 
-- [2018-Seedbank ![code](https://ng-tech.icu/assets/code.svg)](https://research.google.com/seedbank/guide/tutorial): Browse seeds from a list of different kinds of machine learning examples and use the top level categories to narrow your search according to your interests.
+- [2018~Seedbank ![code](https://ng-tech.icu/assets/code.svg)](https://research.google.com/seedbank/guide/tutorial): Browse seeds from a list of different kinds of machine learning examples and use the top level categories to narrow your search according to your interests.
 
 - [numpy-ml ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ddbourgin/numpy-ml): Ever wish you had an inefficient but somewhat legible collection of machine learning algorithms implemented exclusively in numpy? No?
 
@@ -42,13 +42,13 @@
 
 - [2017-NakedTensor ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jostmey/NakedTensor): Bare bone examples of machine learning in TensorFlow.
 
-- [2018-Deep Learning Using TensorFlow ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/anujdutt9/TensorFlow-DeepLearning): This repository contains the code for TensorFlow Tutorial for Deep Learning from Starting to End. All the code is written using Python3.
+- [2018~Deep Learning Using TensorFlow ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/anujdutt9/TensorFlow-DeepLearning): This repository contains the code for TensorFlow Tutorial for Deep Learning from Starting to End. All the code is written using Python3.
 
-- [2018-TensorFlow Project Template ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Mrgemy95/TensorFlow-Project-Template): A simple and well designed structure is essential for any Deep Learning project, so after a lot of practice and contributing in tensorflow projects here's a tensorflow project template that combines simplcity, best practice for folder structure and good OOP design.
+- [2018~TensorFlow Project Template ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Mrgemy95/TensorFlow-Project-Template): A simple and well designed structure is essential for any Deep Learning project, so after a lot of practice and contributing in tensorflow projects here's a tensorflow project template that combines simplcity, best practice for folder structure and good OOP design.
 
-- [2018-Beginner TensorFlowjs Examples in Javascript ![code](https://ng-tech.icu/assets/code.svg)](https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/): This is the easiest set of Machine Learning examples that I can find or make. I hope you enjoy it.
+- [2018~Beginner TensorFlowjs Examples in Javascript ![code](https://ng-tech.icu/assets/code.svg)](https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/): This is the easiest set of Machine Learning examples that I can find or make. I hope you enjoy it.
 
-- [2018-finch ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/zhedongzheng/finch): Make NLP Flow in TensorFlow
+- [2018~finch ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/zhedongzheng/finch): Make NLP Flow in TensorFlow
 
 - [2019~TensorFlow in Practice 🎥](https://www.coursera.org/specializations/tensorflow-in-practice): In this four-course Specialization, you’ll explore exciting opportunities for AI applications. Begin by developing an understanding of how to build and train neural networks.
 

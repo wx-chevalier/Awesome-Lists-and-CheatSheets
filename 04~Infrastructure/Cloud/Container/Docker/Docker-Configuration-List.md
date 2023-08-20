@@ -2,7 +2,7 @@
 
 # System
 
-- [2018-使用 docker 对容器资源进行限制](http://cizixs.com/2017/08/04/docker-resources-limit): 这篇文章就介绍如何使用 docker 来限制 CPU、内存和 IO，以及对应的 cgroups 文件。
+- [2018~使用 docker 对容器资源进行限制](http://cizixs.com/2017/08/04/docker-resources-limit): 这篇文章就介绍如何使用 docker 来限制 CPU、内存和 IO，以及对应的 cgroups 文件。
 
 # Docker Storage
 
@@ -22,11 +22,11 @@
 
 - [Docker Networking: Reborn](http://www.container42.com/2015/10/30/docker-networking-reborn/)
 
-- [2018-Demystifying Docker overlay networking](http://blog.nigelpoulton.com/demystifying-docker-overlay-networking/): We’ll explain the theory behind how it works.
+- [2018~Demystifying Docker overlay networking](http://blog.nigelpoulton.com/demystifying-docker-overlay-networking/): We’ll explain the theory behind how it works.
 
 # Dockerfile
 
-- [2018-An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps](https://parg.co/UyX): This post is filled with examples ranging from a simple Dockerfile to multistage production builds for Node.js web apps.
+- [2018~An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps](https://parg.co/UyX): This post is filled with examples ranging from a simple Dockerfile to multistage production builds for Node.js web apps.
 
 - [高效编写 Dockerfile 的几条准则](https://www.jianshu.com/p/a9d08ba3d979?from=groupmessage&isappinstalled=0): 写 Dockerfile 也像写代码一样，一份精心设计、Clean Code 的 Dockerfile 能在提高可读性的同时也大大提升 Docker 的使用效率。
 

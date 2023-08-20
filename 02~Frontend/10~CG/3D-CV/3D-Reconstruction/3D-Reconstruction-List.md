@@ -6,7 +6,7 @@
 
 - [2017-PolyFit ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/LiangliangNan/PolyFit)](https://github.com/LiangliangNan/PolyFit): PolyFit implements the hypothesis and selection based surface reconstruction method described in the following paper.
 
-- [2018-pointcloudToMesh ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/danielTobon43/pointcloudToMesh)](https://github.com/danielTobon43/pointcloudToMesh): C++ application to convert pcd file, ply file, txt file or xyz point cloud to MESH representation (Gp3).
+- [2018~pointcloudToMesh ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/danielTobon43/pointcloudToMesh)](https://github.com/danielTobon43/pointcloudToMesh): C++ application to convert pcd file, ply file, txt file or xyz point cloud to MESH representation (Gp3).
 
 - [2019~completion3d ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lynetcha/completion3d)](https://github.com/lynetcha/completion3d): Source code for baselines of the Stanford 3D Point Cloud Completion Benchmark (completion3d.stanford.edu) and TopNet: Structural Point Cloud Decoder, CVPR 2019
 

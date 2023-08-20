@@ -44,6 +44,6 @@
 
 - [Manage Application State with Mobx-state-tree 🎥](https://parg.co/UCB): In this course, Michel Westrate - Creator of Mobx - will teach us how to model application state after your problem domain with Mobx-state-tree (MST).
 
-- [2018-State Management with MobX State Tree](https://parg.co/Uvj): Introduction to MobX State Tree.
+- [2018~State Management with MobX State Tree](https://parg.co/Uvj): Introduction to MobX State Tree.
 
-- [2018-The Curious Case of Mobx State Tree](https://codeburst.io/the-curious-case-of-mobx-state-tree-7b4e22d461f): What if MobX did make assumptions on how your data is structured? What if it is opinionated? That is the curious case of Mobx state tree.
+- [2018~The Curious Case of Mobx State Tree](https://codeburst.io/the-curious-case-of-mobx-state-tree-7b4e22d461f): What if MobX did make assumptions on how your data is structured? What if it is opinionated? That is the curious case of Mobx state tree.

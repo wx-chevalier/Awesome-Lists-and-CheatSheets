@@ -8,9 +8,9 @@
 
 - [Grafana dashboards for MySQL and MongoDB monitoring using Prometheus ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/percona/grafana-dashboards)
 
-- [2018-Prometheus 原理和源码分析](http://www.infoq.com/cn/articles/Prometheus-theory-source-code#): 本文分析了客户端和服务端的部分源码实现，介绍了客户端数据模型和 PromQL 计算逻辑，希望能为基于 Prom 的监控平台提供一些启发。
+- [2018~Prometheus 原理和源码分析](http://www.infoq.com/cn/articles/Prometheus-theory-source-code#): 本文分析了客户端和服务端的部分源码实现，介绍了客户端数据模型和 PromQL 计算逻辑，希望能为基于 Prom 的监控平台提供一些启发。
 
-- [2018-Prometheus Metrics without Prometheus Server](https://blog.latency.at/2018-01-06-prometheus-metrics-without-prometheus-server/): the simple and open exposition format can be consumed by many other systems and is on it’s way to become the defacto standard of metrics exposition.
+- [2018~Prometheus Metrics without Prometheus Server](https://blog.latency.at/2018-01-06-prometheus-metrics-without-prometheus-server/): the simple and open exposition format can be consumed by many other systems and is on it’s way to become the defacto standard of metrics exposition.
 
 # Open Falcon
 

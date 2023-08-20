@@ -12,13 +12,13 @@
 
 - [2017-Understanding Node.js Event-Driven Architecture](https://medium.freecodecamp.com/understanding-node-js-event-driven-architecture-223292fcbc2d): In this analogy, the event will be fired once (when Node is ready to call the callback) and the callback acts as the event handler.
 
-- [2018-Node.js 中遇到含空格 URL 的神奇“Bug”——小范围深入 HTTP 协议](https://zhuanlan.zhihu.com/p/31966196)
+- [2018~Node.js 中遇到含空格 URL 的神奇“Bug”——小范围深入 HTTP 协议](https://zhuanlan.zhihu.com/p/31966196)
 
 # Native Modules | 原生模块
 
 - [Writing Native Node.js Modules - Node.js at Scale](https://blog.risingstack.com/writing-native-node-js-modules/)
 
-- [2018-Deep Dive Node #Series#](https://blog.safia.rocks/): How does the Node main process start, How does Node load built-in modules, Node module deep-dive: os
+- [2018~Deep Dive Node #Series#](https://blog.safia.rocks/): How does the Node main process start, How does Node load built-in modules, Node module deep-dive: os
 
 # 内存泄露
 

@@ -30,7 +30,7 @@
 
 ## Language Representation
 
-- [2018-BERT ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/google-research/bert): BERT is method of pre-training language representations, meaning that we train a general-purpose "language understanding" model on a large text corpus (like Wikipedia), and then use that model for downstream NLP tasks that we care about (like question answering). [海量中文预训练 ALBERT 模型](https://github.com/brightmart/albert_zh)。
+- [2018~BERT ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/google-research/bert): BERT is method of pre-training language representations, meaning that we train a general-purpose "language understanding" model on a large text corpus (like Wikipedia), and then use that model for downstream NLP tasks that we care about (like question answering). [海量中文预训练 ALBERT 模型](https://github.com/brightmart/albert_zh)。
 
 - [2019~GPT2 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/openai/gpt-2): Code and models from the paper "Language Models are Unsupervised Multitask Learners".
 
@@ -57,7 +57,7 @@
 
 ## Knowledge Graph | 知识图谱
 
-- [2018-OpenKE ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/thunlp/OpenKE): An Open-Source Package for Knowledge Embedding (KE).
+- [2018~OpenKE ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/thunlp/OpenKE): An Open-Source Package for Knowledge Embedding (KE).
 
 - [基于医药知识图谱的智能问答系统 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/YeYzheng/KGQA-Based-On-medicine): 这是一个基于 Python 模块 REfO 实现的知识库问答初级系统. 该问答系统可以解析输入的自然语言问句生成 SPARQL 查询，进一步请求后台基于 TDB 知识库的 Apache Jena Fuseki 服务, 进而得到问题的结果。
 
@@ -79,7 +79,7 @@
 
 ## Dialogue System & Bot
 
-- [2018-DeepPavlov ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/deepmipt/DeepPavlov): An open source library for building end-to-end dialog systems and training chatbots.
+- [2018~DeepPavlov ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/deepmipt/DeepPavlov): An open source library for building end-to-end dialog systems and training chatbots.
 
 - [Home Assistant ![code](https://ng-tech.icu/assets/code.svg)](https://home-assistant.io/): Home Assistant is an open-source home automation platform running on Python 3. Track and control all devices at home and automate control. Perfect to run on a Raspberry Pi.
 

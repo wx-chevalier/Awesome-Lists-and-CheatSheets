@@ -16,9 +16,9 @@
 
 ## Summary | 综述
 
-- [2018-2018 自然语言处理研究报告](https://mp.weixin.qq.com/s/Hz2_xAyToCEXf2scl7me8Q): 该报告从 NLP 的概念介绍、研究与应用情况、专家学者概要以及发展趋势这 5 个方向纵览了这一领域的当下与未来。
+- [2018~2018 自然语言处理研究报告](https://mp.weixin.qq.com/s/Hz2_xAyToCEXf2scl7me8Q): 该报告从 NLP 的概念介绍、研究与应用情况、专家学者概要以及发展趋势这 5 个方向纵览了这一领域的当下与未来。
 
-- [2018-AMiner 自然语言处理研究报告](https://static.aminer.cn/misc/article/nlp.pdf): 自然语言处理是人工智能的一个重要应用领域，也是新一代计算机必须研究的课题。它的主要目的是克服人机对话中的各种限制，使用户能用自己的语言与计算机对话。本研究报告对自然语言进行了简单梳理。
+- [2018~AMiner 自然语言处理研究报告](https://static.aminer.cn/misc/article/nlp.pdf): 自然语言处理是人工智能的一个重要应用领域，也是新一代计算机必须研究的课题。它的主要目的是克服人机对话中的各种限制，使用户能用自己的语言与计算机对话。本研究报告对自然语言进行了简单梳理。
 
 # Resource
 
@@ -34,4 +34,4 @@
 
 # Tutorial
 
-- [2018-How to solve 90% of NLP problems: a step-by-step guide](https://parg.co/UiG): Using Machine Learning to understand and leverage text.
+- [2018~How to solve 90% of NLP problems: a step-by-step guide](https://parg.co/UiG): Using Machine Learning to understand and leverage text.
