@@ -587,8 +587,9 @@
           - [3.5.6.8.1 PointCloud List](/02~Frontend/10~CG/GeometryProcess/PointCloud/PointCloud-List.md)
           - [3.5.6.8.2 PointCloud OpenSource List](/02~Frontend/10~CG/GeometryProcess/PointCloud/PointCloud-OpenSource-List.md)
       - 3.5.7 GraphicsLibrary [7]
-        - 3.5.7.1 Blender [1]
+        - 3.5.7.1 Blender [2]
           - [3.5.7.1.1 Blender List](/02~Frontend/10~CG/GraphicsLibrary/Blender/Blender-List.md)
+          - [3.5.7.1.2 Blender OpenSource List](/02~Frontend/10~CG/GraphicsLibrary/Blender/Blender-OpenSource-List.md)
         - [3.5.7.2 Graphic List](/02~Frontend/10~CG/GraphicsLibrary/Graphic-List.md)
         - [3.5.7.3 Graphic OpenSource List](/02~Frontend/10~CG/GraphicsLibrary/Graphic-OpenSource-List.md)
         - [3.5.7.4 Map List](/02~Frontend/10~CG/GraphicsLibrary/Map-List.md)
