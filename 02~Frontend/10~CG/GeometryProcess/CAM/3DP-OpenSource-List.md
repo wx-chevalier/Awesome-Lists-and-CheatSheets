@@ -1,6 +1,6 @@
 # 3DP Slicer
 
-- [2010-Cura ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Ultimaker/Cura): 3D printer / slicing GUI built on top of the Uranium framework.
+- [2010~Cura ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Ultimaker/Cura): 3D printer / slicing GUI built on top of the Uranium framework.
 
 - [2018~Slicer ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Slicer/Slicer)](https://github.com/Slicer/Slicer): Slicer, or 3D Slicer, is a free, open source software package for visualization and image analysis.
 

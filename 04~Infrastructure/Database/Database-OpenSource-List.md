@@ -50,7 +50,7 @@
 
 ### GUI
 
-- [2010-Hue ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/cloudera/hue)](https://github.com/cloudera/hue): Hue is a mature SQL Assistant for querying Databases & Data Warehouses.
+- [2010~Hue ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/cloudera/hue)](https://github.com/cloudera/hue): Hue is a mature SQL Assistant for querying Databases & Data Warehouses.
 
 - [SQL Fiddle ![code](https://ng-tech.icu/assets/code.svg)](http://sqlfiddle.com/): A tool for easy online testing and sharing of database problems and their solutions.
 

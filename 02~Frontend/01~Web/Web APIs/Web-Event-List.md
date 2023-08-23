@@ -40,7 +40,7 @@
 
 - [Rethinking drag and drop Taking something basic and making it beautiful](https://medium.com/@alexandereardon/rethinking-drag-and-drop-d9f5770b4e6b)
 
-- [2010-Native HTML5 Drag and Drop](https://www.html5rocks.com/en/tutorials/dnd/basics/): Drag and drop (DnD) is a first class citizen in HTML5! The spec defines an event-based mechanism, JavaScript API, and additional markup for declaring that just about any type of element be draggable on a page.
+- [2010~Native HTML5 Drag and Drop](https://www.html5rocks.com/en/tutorials/dnd/basics/): Drag and drop (DnD) is a first class citizen in HTML5! The spec defines an event-based mechanism, JavaScript API, and additional markup for declaring that just about any type of element be draggable on a page.
 
 - [超小 Web 手势库 AlloyFinger 原理](http://www.cnblogs.com/iamzhanglei/p/6053235.html)
 

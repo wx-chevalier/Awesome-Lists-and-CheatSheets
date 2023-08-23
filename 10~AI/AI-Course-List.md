@@ -18,7 +18,7 @@
 
 # Machine Learning | 机器学习
 
-- [2010-MIT Artifical Intelligence Videos 🎥](https://parg.co/Y6h): This course includes interactive demonstrations which are intended to stimulate interest and to help students gain intuition about how artificial intelligence methods work under a variety of circumstances.
+- [2010~MIT Artifical Intelligence Videos 🎥](https://parg.co/Y6h): This course includes interactive demonstrations which are intended to stimulate interest and to help students gain intuition about how artificial intelligence methods work under a variety of circumstances.
 
 - [2014-斯坦福-机器学习课程 🎥](https://zh.coursera.org/learn/machine-learning): 在本课程中，您将学习最高效的机器学习技术，了解如何使用这些技术，并自己动手实践这些技术。更重要的是，您将不仅将学习理论知识，还将学习如何实践，如何快速使用强大的技术来解决新问题。最后，您将了解在硅谷企业如何在机器学习和 AI 领域进行创新。[Here](https://github.com/dibgerge/ml-coursera-python-assignments) is Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions. [吴恩达的 CS229，有人把它浓缩成 6 张中文速查表！](https://zhuanlan.zhihu.com/p/56534902)。
 

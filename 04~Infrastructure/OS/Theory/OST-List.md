@@ -18,7 +18,7 @@
 
 - [os_process_scheduling_algorithms](http://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm)
 
-- [2010-OS 中常用的调度算法总结](http://blog.chinaunix.net/uid-25132162-id-361291.html)
+- [2010~OS 中常用的调度算法总结](http://blog.chinaunix.net/uid-25132162-id-361291.html)
 
 # Storage | 存储
 

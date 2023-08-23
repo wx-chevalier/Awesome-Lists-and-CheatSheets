@@ -1,6 +1,6 @@
 # API Gateway
 
-- [2001-HAProxy ![code](https://ng-tech.icu/assets/code.svg)](http://www.haproxy.org/): HAProxy is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications.
+- [2001~HAProxy ![code](https://ng-tech.icu/assets/code.svg)](http://www.haproxy.org/): HAProxy is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications.
 
 - [2013-Tengine ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alibaba/tengine): A distribution of Nginx with some advanced features.
 

@@ -1,4 +1,4 @@
-  - 1 00~Specials [5]
+  - 1 00~Specials [6]
     - [1.1 Awesome Specials](/00~Specials/Awesome-Specials.md)
     - 1.2 Collections [8]
       - [1.2.1 Awesome 3D Models](/00~Specials/Collections/Awesome-3D-Models.md)
@@ -9,175 +9,176 @@
       - [1.2.6 Awesome Names](/00~Specials/Collections/Awesome-Names.md)
       - [1.2.7 Awesome Scholar](/00~Specials/Collections/Awesome-Scholar.md)
       - [1.2.8 Awesome Vision](/00~Specials/Collections/Awesome-Vision.md)
-    - 1.3 Showcases [6]
-      - [1.3.1 Awesome Apps](/00~Specials/Showcases/Awesome-Apps.md)
-      - [1.3.2 Awesome Clones](/00~Specials/Showcases/Awesome-Clones.md)
-      - [1.3.3 Awesome Codebases](/00~Specials/Showcases/Awesome-Codebases.md)
-      - [1.3.4 Awesome Design Inspiration](/00~Specials/Showcases/Awesome-Design-Inspiration.md)
-      - [1.3.5 Coding as Vetren](/00~Specials/Showcases/Coding-as-Vetren.md)
-      - 1.3.6 DataVision [2]
-        - [1.3.6.1 Awesome DataVis](/00~Specials/Showcases/DataVision/Awesome-DataVis.md)
-        - [1.3.6.2 Hack Effect](/00~Specials/Showcases/DataVision/Hack%20Effect.md)
-    - [1.4 Tools & Projects [31]](/00~Specials/Tools%20&%20Projects/README.md)
-      - [1.4.1 Automation](/00~Specials/Tools%20&%20Projects/Automation.md)
-      - [1.4.2 Awesome Media Tools](/00~Specials/Tools%20&%20Projects/Awesome-Media-Tools.md)
-      - [1.4.3 Awesome Tools](/00~Specials/Tools%20&%20Projects/Awesome-Tools.md)
-      - [1.4.4 Chat](/00~Specials/Tools%20&%20Projects/Chat.md)
-      - [1.4.5 Design [1]](/00~Specials/Tools%20&%20Projects/Design)
-        - [1.4.5.1 Resume List](/00~Specials/Tools%20&%20Projects/Design/Resume-List.md)
-      - [1.4.6 Dev IDE](/00~Specials/Tools%20&%20Projects/Dev-IDE.md)
-      - [1.4.7 Dev Ops](/00~Specials/Tools%20&%20Projects/Dev-Ops.md)
-      - [1.4.8 Dev PaaS](/00~Specials/Tools%20&%20Projects/Dev-PaaS.md)
-      - 1.4.9 Document [6]
-        - [1.4.9.1 Blog & Knowledge Management](/00~Specials/Tools%20&%20Projects/Document/Blog%20&%20Knowledge%20Management.md)
-        - [1.4.9.2 Bookmark & Link Archive](/00~Specials/Tools%20&%20Projects/Document/Bookmark%20&%20Link%20Archive.md)
-        - [1.4.9.3 CMD Processor](/00~Specials/Tools%20&%20Projects/Document/CMD%20Processor.md)
-        - [1.4.9.4 Document Sign](/00~Specials/Tools%20&%20Projects/Document/Document%20Sign.md)
-        - [1.4.9.5 Markdown Tools](/00~Specials/Tools%20&%20Projects/Document/Markdown%20Tools.md)
-        - [1.4.9.6 OCR & Translate](/00~Specials/Tools%20&%20Projects/Document/OCR%20&%20Translate.md)
-      - [1.4.10 ECommerce & Marketing](/00~Specials/Tools%20&%20Projects/ECommerce%20&%20Marketing.md)
-      - [1.4.11 Encrypt](/00~Specials/Tools%20&%20Projects/Encrypt.md)
-      - [1.4.12 File](/00~Specials/Tools%20&%20Projects/File.md)
-      - 1.4.13 Financial [1]
-        - [1.4.13.1 Financial Tools](/00~Specials/Tools%20&%20Projects/Financial/Financial-Tools.md)
-      - 1.4.14 Media [3]
-        - [1.4.14.1 AI Image Tools](/00~Specials/Tools%20&%20Projects/Media/AI%20Image%20Tools.md)
-        - [1.4.14.2 Image Cloud Store](/00~Specials/Tools%20&%20Projects/Media/Image%20Cloud%20Store.md)
-        - [1.4.14.3 Picture Upload](/00~Specials/Tools%20&%20Projects/Media/Picture%20Upload.md)
-      - [1.4.15 Network](/00~Specials/Tools%20&%20Projects/Network.md)
-      - [1.4.16 Newsletter](/00~Specials/Tools%20&%20Projects/Newsletter.md)
-      - [1.4.17 Notification](/00~Specials/Tools%20&%20Projects/Notification.md)
-      - 1.4.18 OS [2]
-        - [1.4.18.1 OS Monitor](/00~Specials/Tools%20&%20Projects/OS/OS-Monitor.md)
-        - [1.4.18.2 OS](/00~Specials/Tools%20&%20Projects/OS/OS.md)
-      - 1.4.19 OpenSource Alternatives [1]
-        - [1.4.19.1 Open source alternatives to everyday SaaS products](/00~Specials/Tools%20&%20Projects/OpenSource%20Alternatives/Open-source%20alternatives%20to%20everyday%20SaaS%20products.md)
-      - [1.4.20 Person](/00~Specials/Tools%20&%20Projects/Person.md)
-      - [1.4.21 Productivity](/00~Specials/Tools%20&%20Projects/Productivity.md)
-      - [1.4.22 Sandbox](/00~Specials/Tools%20&%20Projects/Sandbox.md)
-      - [1.4.23 ScreenShare & VNC](/00~Specials/Tools%20&%20Projects/ScreenShare%20&%20VNC.md)
-      - [1.4.24 Startup](/00~Specials/Tools%20&%20Projects/Startup.md)
-      - [1.4.25 Teamwork](/00~Specials/Tools%20&%20Projects/Teamwork.md)
-      - [1.4.26 Terminal](/00~Specials/Tools%20&%20Projects/Terminal.md)
-      - [1.4.27 Translate Tools](/00~Specials/Tools%20&%20Projects/Translate%20Tools.md)
-      - [1.4.28 UGC](/00~Specials/Tools%20&%20Projects/UGC.md)
-      - [1.4.29 Website Builder](/00~Specials/Tools%20&%20Projects/Website%20Builder.md)
-      - [1.4.30 消息推送](/00~Specials/Tools%20&%20Projects/消息推送.md)
-    - [1.5 Weekly [8]](/00~Specials/Weekly/README.md)
-      - 1.5.1  [1]
-        - 1.5.1.1  [2]
-          - [1.5.1.1.1 ](/00~Specials/Weekly/2016/12/12.1.md)
-          - [1.5.1.1.2 ](/00~Specials/Weekly/2016/12/12.2.md)
-      - 1.5.2  [12]
-        - 1.5.2.1  [4]
-          - [1.5.2.1.1 ](/00~Specials/Weekly/2017/1/1.1.md)
-          - [1.5.2.1.2 ](/00~Specials/Weekly/2017/1/1.2.md)
-          - [1.5.2.1.3 ](/00~Specials/Weekly/2017/1/1.3.md)
-          - [1.5.2.1.4 ](/00~Specials/Weekly/2017/1/1.4.md)
-        - 1.5.2.2  [4]
-          - [1.5.2.2.1 ](/00~Specials/Weekly/2017/10/10.1.md)
-          - [1.5.2.2.2 ](/00~Specials/Weekly/2017/10/10.2.md)
-          - [1.5.2.2.3 ](/00~Specials/Weekly/2017/10/10.3.md)
-          - [1.5.2.2.4 ](/00~Specials/Weekly/2017/10/10.4.md)
-        - 1.5.2.3  [4]
-          - [1.5.2.3.1 ](/00~Specials/Weekly/2017/11/11.1.md)
-          - [1.5.2.3.2 ](/00~Specials/Weekly/2017/11/11.2.md)
-          - [1.5.2.3.3 ](/00~Specials/Weekly/2017/11/11.3.md)
-          - [1.5.2.3.4 ](/00~Specials/Weekly/2017/11/11.4.md)
-        - 1.5.2.4  [4]
-          - [1.5.2.4.1 ](/00~Specials/Weekly/2017/12/12.1.md)
-          - [1.5.2.4.2 ](/00~Specials/Weekly/2017/12/12.2.md)
-          - [1.5.2.4.3 ](/00~Specials/Weekly/2017/12/12.3.md)
-          - [1.5.2.4.4 ](/00~Specials/Weekly/2017/12/12.4.md)
-        - 1.5.2.5  [8]
-          - [1.5.2.5.1 Frontend](/00~Specials/Weekly/2017/2/2.1-Frontend.md)
-          - [1.5.2.5.2 ](/00~Specials/Weekly/2017/2/2.1.md)
-          - [1.5.2.5.3 Frontend](/00~Specials/Weekly/2017/2/2.2-Frontend.md)
-          - [1.5.2.5.4 ](/00~Specials/Weekly/2017/2/2.2.md)
-          - [1.5.2.5.5 ](/00~Specials/Weekly/2017/2/2.3.md)
-          - [1.5.2.5.6 ](/00~Specials/Weekly/2017/2/2.4.md)
-          - [1.5.2.5.7 ](/00~Specials/Weekly/2017/2/2.5.md)
-          - [1.5.2.5.8 ](/00~Specials/Weekly/2017/2/2.6.md)
-        - 1.5.2.6  [5]
-          - [1.5.2.6.1 Frontend](/00~Specials/Weekly/2017/3/3.1-Frontend.md)
-          - [1.5.2.6.2 ](/00~Specials/Weekly/2017/3/3.1.md)
-          - [1.5.2.6.3 Frontend](/00~Specials/Weekly/2017/3/3.2-Frontend.md)
-          - [1.5.2.6.4 Frontend](/00~Specials/Weekly/2017/3/3.3-Frontend.md)
-          - [1.5.2.6.5 Frontend](/00~Specials/Weekly/2017/3/3.4-Frontend.md)
-        - 1.5.2.7  [4]
-          - [1.5.2.7.1 Frontend](/00~Specials/Weekly/2017/4/4.1-Frontend.md)
-          - [1.5.2.7.2 Frontend](/00~Specials/Weekly/2017/4/4.2-Frontend.md)
-          - [1.5.2.7.3 Frontend](/00~Specials/Weekly/2017/4/4.3-Frontend.md)
-          - [1.5.2.7.4 Frontend](/00~Specials/Weekly/2017/4/4.4-Frontend.md)
-        - 1.5.2.8  [4]
-          - [1.5.2.8.1 Frontend](/00~Specials/Weekly/2017/5/5.1-Frontend.md)
-          - [1.5.2.8.2 Frontend](/00~Specials/Weekly/2017/5/5.2-Frontend.md)
-          - [1.5.2.8.3 Frontend](/00~Specials/Weekly/2017/5/5.3-Frontend.md)
-          - [1.5.2.8.4 Frontend](/00~Specials/Weekly/2017/5/5.4-Frontend.md)
-        - 1.5.2.9  [5]
-          - [1.5.2.9.1 Frontend](/00~Specials/Weekly/2017/6/6.1-Frontend.md)
-          - [1.5.2.9.2 Frontend](/00~Specials/Weekly/2017/6/6.2-Frontend.md)
-          - [1.5.2.9.3 Frontend](/00~Specials/Weekly/2017/6/6.3-Frontend.md)
-          - [1.5.2.9.4 Frontend](/00~Specials/Weekly/2017/6/6.4-Frontend.md)
-          - [1.5.2.9.5 Frontend](/00~Specials/Weekly/2017/6/6.5-Frontend.md)
-        - 1.5.2.10  [5]
-          - [1.5.2.10.1 Frontend](/00~Specials/Weekly/2017/7/7.1-Frontend.md)
-          - [1.5.2.10.2 Frontend](/00~Specials/Weekly/2017/7/7.2-Frontend.md)
-          - [1.5.2.10.3 Frontend](/00~Specials/Weekly/2017/7/7.3-Frontend.md)
-          - [1.5.2.10.4 Frontend](/00~Specials/Weekly/2017/7/7.4-Frontend.md)
-          - [1.5.2.10.5 Frontend](/00~Specials/Weekly/2017/7/7.5-Frontend.md)
-        - 1.5.2.11  [4]
-          - [1.5.2.11.1 ](/00~Specials/Weekly/2017/8/8.1.md)
-          - [1.5.2.11.2 ](/00~Specials/Weekly/2017/8/8.2.md)
-          - [1.5.2.11.3 ](/00~Specials/Weekly/2017/8/8.3.md)
-          - [1.5.2.11.4 ](/00~Specials/Weekly/2017/8/8.4.md)
-        - 1.5.2.12  [5]
-          - [1.5.2.12.1 ](/00~Specials/Weekly/2017/9/9.1.md)
-          - [1.5.2.12.2 ](/00~Specials/Weekly/2017/9/9.2.md)
-          - [1.5.2.12.3 ](/00~Specials/Weekly/2017/9/9.3.md)
-          - [1.5.2.12.4 ](/00~Specials/Weekly/2017/9/9.4.md)
-          - [1.5.2.12.5 ](/00~Specials/Weekly/2017/9/9.5.md)
-      - 1.5.3  [4]
-        - 1.5.3.1  [7]
-          - [1.5.3.1.1 ](/00~Specials/Weekly/2018/1/1.1.md)
-          - [1.5.3.1.2 en](/00~Specials/Weekly/2018/1/1.2-en.md)
-          - [1.5.3.1.3 ](/00~Specials/Weekly/2018/1/1.2.md)
-          - [1.5.3.1.4 en](/00~Specials/Weekly/2018/1/1.3-en.md)
-          - [1.5.3.1.5 ](/00~Specials/Weekly/2018/1/1.3.md)
-          - [1.5.3.1.6 en](/00~Specials/Weekly/2018/1/1.4-en.md)
-          - [1.5.3.1.7 ](/00~Specials/Weekly/2018/1/1.4.md)
-        - 1.5.3.2  [6]
-          - [1.5.3.2.1 en](/00~Specials/Weekly/2018/2/2.1-en.md)
-          - [1.5.3.2.2 ](/00~Specials/Weekly/2018/2/2.1.md)
-          - [1.5.3.2.3 en](/00~Specials/Weekly/2018/2/2.2-en.md)
-          - [1.5.3.2.4 ](/00~Specials/Weekly/2018/2/2.2.md)
-          - [1.5.3.2.5 en](/00~Specials/Weekly/2018/2/2.3-en.md)
-          - [1.5.3.2.6 ](/00~Specials/Weekly/2018/2/2.3.md)
-        - 1.5.3.3  [8]
-          - [1.5.3.3.1 en](/00~Specials/Weekly/2018/3/3.1-en.md)
-          - [1.5.3.3.2 ](/00~Specials/Weekly/2018/3/3.1.md)
-          - [1.5.3.3.3 en](/00~Specials/Weekly/2018/3/3.2-en.md)
-          - [1.5.3.3.4 ](/00~Specials/Weekly/2018/3/3.2.md)
-          - [1.5.3.3.5 en](/00~Specials/Weekly/2018/3/3.3-en.md)
-          - [1.5.3.3.6 ](/00~Specials/Weekly/2018/3/3.3.md)
-          - [1.5.3.3.7 en](/00~Specials/Weekly/2018/3/3.4-en.md)
-          - [1.5.3.3.8 ](/00~Specials/Weekly/2018/3/3.4.md)
-        - 1.5.3.4  [1]
-          - [1.5.3.4.1 en](/00~Specials/Weekly/2018/4/4.1-en.md)
-      - [1.5.4 ABOUT](/00~Specials/Weekly/ABOUT.md)
-      - [1.5.5 CONTRIBUTION](/00~Specials/Weekly/CONTRIBUTION.md)
-      - 1.5.6 SemiannualReport [1]
-        - 1.5.6.1 1 [8]
-          - [1.5.6.1.1 Angular](/00~Specials/Weekly/SemiannualReport/2017-1/Angular.md)
-          - [1.5.6.1.2 CSS](/00~Specials/Weekly/SemiannualReport/2017-1/CSS.md)
-          - [1.5.6.1.3 JavaScript](/00~Specials/Weekly/SemiannualReport/2017-1/JavaScript.md)
-          - [1.5.6.1.4 Node](/00~Specials/Weekly/SemiannualReport/2017-1/Node.md)
-          - [1.5.6.1.5 PWA](/00~Specials/Weekly/SemiannualReport/2017-1/PWA.md)
-          - [1.5.6.1.6 React](/00~Specials/Weekly/SemiannualReport/2017-1/React.md)
-          - [1.5.6.1.7 Vue.js](/00~Specials/Weekly/SemiannualReport/2017-1/Vue.js.md)
-          - [1.5.6.1.8 WebAssembly](/00~Specials/Weekly/SemiannualReport/2017-1/WebAssembly.md)
-      - [1.5.7 TEMPLATE](/00~Specials/Weekly/TEMPLATE.md)
-      - [1.5.8 Template en](/00~Specials/Weekly/Template-en.md)
+    - [1.3 English List](/00~Specials/English-List.md)
+    - 1.4 Showcases [6]
+      - [1.4.1 Awesome Apps](/00~Specials/Showcases/Awesome-Apps.md)
+      - [1.4.2 Awesome Clones](/00~Specials/Showcases/Awesome-Clones.md)
+      - [1.4.3 Awesome Codebases](/00~Specials/Showcases/Awesome-Codebases.md)
+      - [1.4.4 Awesome Design Inspiration](/00~Specials/Showcases/Awesome-Design-Inspiration.md)
+      - [1.4.5 Coding as Vetren](/00~Specials/Showcases/Coding-as-Vetren.md)
+      - 1.4.6 DataVision [2]
+        - [1.4.6.1 Awesome DataVis](/00~Specials/Showcases/DataVision/Awesome-DataVis.md)
+        - [1.4.6.2 Hack Effect](/00~Specials/Showcases/DataVision/Hack%20Effect.md)
+    - [1.5 Tools & Projects [31]](/00~Specials/Tools%20&%20Projects/README.md)
+      - [1.5.1 Automation](/00~Specials/Tools%20&%20Projects/Automation.md)
+      - [1.5.2 Awesome Media Tools](/00~Specials/Tools%20&%20Projects/Awesome-Media-Tools.md)
+      - [1.5.3 Awesome Tools](/00~Specials/Tools%20&%20Projects/Awesome-Tools.md)
+      - [1.5.4 Chat](/00~Specials/Tools%20&%20Projects/Chat.md)
+      - [1.5.5 Design [1]](/00~Specials/Tools%20&%20Projects/Design)
+        - [1.5.5.1 Resume List](/00~Specials/Tools%20&%20Projects/Design/Resume-List.md)
+      - [1.5.6 Dev IDE](/00~Specials/Tools%20&%20Projects/Dev-IDE.md)
+      - [1.5.7 Dev Ops](/00~Specials/Tools%20&%20Projects/Dev-Ops.md)
+      - [1.5.8 Dev PaaS](/00~Specials/Tools%20&%20Projects/Dev-PaaS.md)
+      - 1.5.9 Document [6]
+        - [1.5.9.1 Blog & Knowledge Management](/00~Specials/Tools%20&%20Projects/Document/Blog%20&%20Knowledge%20Management.md)
+        - [1.5.9.2 Bookmark & Link Archive](/00~Specials/Tools%20&%20Projects/Document/Bookmark%20&%20Link%20Archive.md)
+        - [1.5.9.3 CMD Processor](/00~Specials/Tools%20&%20Projects/Document/CMD%20Processor.md)
+        - [1.5.9.4 Document Sign](/00~Specials/Tools%20&%20Projects/Document/Document%20Sign.md)
+        - [1.5.9.5 Markdown Tools](/00~Specials/Tools%20&%20Projects/Document/Markdown%20Tools.md)
+        - [1.5.9.6 OCR & Translate](/00~Specials/Tools%20&%20Projects/Document/OCR%20&%20Translate.md)
+      - [1.5.10 ECommerce & Marketing](/00~Specials/Tools%20&%20Projects/ECommerce%20&%20Marketing.md)
+      - [1.5.11 Encrypt](/00~Specials/Tools%20&%20Projects/Encrypt.md)
+      - [1.5.12 File](/00~Specials/Tools%20&%20Projects/File.md)
+      - 1.5.13 Financial [1]
+        - [1.5.13.1 Financial Tools](/00~Specials/Tools%20&%20Projects/Financial/Financial-Tools.md)
+      - 1.5.14 Media [3]
+        - [1.5.14.1 AI Image Tools](/00~Specials/Tools%20&%20Projects/Media/AI%20Image%20Tools.md)
+        - [1.5.14.2 Image Cloud Store](/00~Specials/Tools%20&%20Projects/Media/Image%20Cloud%20Store.md)
+        - [1.5.14.3 Picture Upload](/00~Specials/Tools%20&%20Projects/Media/Picture%20Upload.md)
+      - [1.5.15 Network](/00~Specials/Tools%20&%20Projects/Network.md)
+      - [1.5.16 Newsletter](/00~Specials/Tools%20&%20Projects/Newsletter.md)
+      - [1.5.17 Notification](/00~Specials/Tools%20&%20Projects/Notification.md)
+      - 1.5.18 OS [2]
+        - [1.5.18.1 OS Monitor](/00~Specials/Tools%20&%20Projects/OS/OS-Monitor.md)
+        - [1.5.18.2 OS](/00~Specials/Tools%20&%20Projects/OS/OS.md)
+      - 1.5.19 OpenSource Alternatives [1]
+        - [1.5.19.1 Open source alternatives to everyday SaaS products](/00~Specials/Tools%20&%20Projects/OpenSource%20Alternatives/Open-source%20alternatives%20to%20everyday%20SaaS%20products.md)
+      - [1.5.20 Person](/00~Specials/Tools%20&%20Projects/Person.md)
+      - [1.5.21 Productivity](/00~Specials/Tools%20&%20Projects/Productivity.md)
+      - [1.5.22 Sandbox](/00~Specials/Tools%20&%20Projects/Sandbox.md)
+      - [1.5.23 ScreenShare & VNC](/00~Specials/Tools%20&%20Projects/ScreenShare%20&%20VNC.md)
+      - [1.5.24 Startup](/00~Specials/Tools%20&%20Projects/Startup.md)
+      - [1.5.25 Teamwork](/00~Specials/Tools%20&%20Projects/Teamwork.md)
+      - [1.5.26 Terminal](/00~Specials/Tools%20&%20Projects/Terminal.md)
+      - [1.5.27 Translate Tools](/00~Specials/Tools%20&%20Projects/Translate%20Tools.md)
+      - [1.5.28 UGC](/00~Specials/Tools%20&%20Projects/UGC.md)
+      - [1.5.29 Website Builder](/00~Specials/Tools%20&%20Projects/Website%20Builder.md)
+      - [1.5.30 消息推送](/00~Specials/Tools%20&%20Projects/消息推送.md)
+    - [1.6 Weekly [8]](/00~Specials/Weekly/README.md)
+      - 1.6.1  [1]
+        - 1.6.1.1  [2]
+          - [1.6.1.1.1 ](/00~Specials/Weekly/2016/12/12.1.md)
+          - [1.6.1.1.2 ](/00~Specials/Weekly/2016/12/12.2.md)
+      - 1.6.2  [12]
+        - 1.6.2.1  [4]
+          - [1.6.2.1.1 ](/00~Specials/Weekly/2017/1/1.1.md)
+          - [1.6.2.1.2 ](/00~Specials/Weekly/2017/1/1.2.md)
+          - [1.6.2.1.3 ](/00~Specials/Weekly/2017/1/1.3.md)
+          - [1.6.2.1.4 ](/00~Specials/Weekly/2017/1/1.4.md)
+        - 1.6.2.2  [4]
+          - [1.6.2.2.1 ](/00~Specials/Weekly/2017/10/10.1.md)
+          - [1.6.2.2.2 ](/00~Specials/Weekly/2017/10/10.2.md)
+          - [1.6.2.2.3 ](/00~Specials/Weekly/2017/10/10.3.md)
+          - [1.6.2.2.4 ](/00~Specials/Weekly/2017/10/10.4.md)
+        - 1.6.2.3  [4]
+          - [1.6.2.3.1 ](/00~Specials/Weekly/2017/11/11.1.md)
+          - [1.6.2.3.2 ](/00~Specials/Weekly/2017/11/11.2.md)
+          - [1.6.2.3.3 ](/00~Specials/Weekly/2017/11/11.3.md)
+          - [1.6.2.3.4 ](/00~Specials/Weekly/2017/11/11.4.md)
+        - 1.6.2.4  [4]
+          - [1.6.2.4.1 ](/00~Specials/Weekly/2017/12/12.1.md)
+          - [1.6.2.4.2 ](/00~Specials/Weekly/2017/12/12.2.md)
+          - [1.6.2.4.3 ](/00~Specials/Weekly/2017/12/12.3.md)
+          - [1.6.2.4.4 ](/00~Specials/Weekly/2017/12/12.4.md)
+        - 1.6.2.5  [8]
+          - [1.6.2.5.1 Frontend](/00~Specials/Weekly/2017/2/2.1-Frontend.md)
+          - [1.6.2.5.2 ](/00~Specials/Weekly/2017/2/2.1.md)
+          - [1.6.2.5.3 Frontend](/00~Specials/Weekly/2017/2/2.2-Frontend.md)
+          - [1.6.2.5.4 ](/00~Specials/Weekly/2017/2/2.2.md)
+          - [1.6.2.5.5 ](/00~Specials/Weekly/2017/2/2.3.md)
+          - [1.6.2.5.6 ](/00~Specials/Weekly/2017/2/2.4.md)
+          - [1.6.2.5.7 ](/00~Specials/Weekly/2017/2/2.5.md)
+          - [1.6.2.5.8 ](/00~Specials/Weekly/2017/2/2.6.md)
+        - 1.6.2.6  [5]
+          - [1.6.2.6.1 Frontend](/00~Specials/Weekly/2017/3/3.1-Frontend.md)
+          - [1.6.2.6.2 ](/00~Specials/Weekly/2017/3/3.1.md)
+          - [1.6.2.6.3 Frontend](/00~Specials/Weekly/2017/3/3.2-Frontend.md)
+          - [1.6.2.6.4 Frontend](/00~Specials/Weekly/2017/3/3.3-Frontend.md)
+          - [1.6.2.6.5 Frontend](/00~Specials/Weekly/2017/3/3.4-Frontend.md)
+        - 1.6.2.7  [4]
+          - [1.6.2.7.1 Frontend](/00~Specials/Weekly/2017/4/4.1-Frontend.md)
+          - [1.6.2.7.2 Frontend](/00~Specials/Weekly/2017/4/4.2-Frontend.md)
+          - [1.6.2.7.3 Frontend](/00~Specials/Weekly/2017/4/4.3-Frontend.md)
+          - [1.6.2.7.4 Frontend](/00~Specials/Weekly/2017/4/4.4-Frontend.md)
+        - 1.6.2.8  [4]
+          - [1.6.2.8.1 Frontend](/00~Specials/Weekly/2017/5/5.1-Frontend.md)
+          - [1.6.2.8.2 Frontend](/00~Specials/Weekly/2017/5/5.2-Frontend.md)
+          - [1.6.2.8.3 Frontend](/00~Specials/Weekly/2017/5/5.3-Frontend.md)
+          - [1.6.2.8.4 Frontend](/00~Specials/Weekly/2017/5/5.4-Frontend.md)
+        - 1.6.2.9  [5]
+          - [1.6.2.9.1 Frontend](/00~Specials/Weekly/2017/6/6.1-Frontend.md)
+          - [1.6.2.9.2 Frontend](/00~Specials/Weekly/2017/6/6.2-Frontend.md)
+          - [1.6.2.9.3 Frontend](/00~Specials/Weekly/2017/6/6.3-Frontend.md)
+          - [1.6.2.9.4 Frontend](/00~Specials/Weekly/2017/6/6.4-Frontend.md)
+          - [1.6.2.9.5 Frontend](/00~Specials/Weekly/2017/6/6.5-Frontend.md)
+        - 1.6.2.10  [5]
+          - [1.6.2.10.1 Frontend](/00~Specials/Weekly/2017/7/7.1-Frontend.md)
+          - [1.6.2.10.2 Frontend](/00~Specials/Weekly/2017/7/7.2-Frontend.md)
+          - [1.6.2.10.3 Frontend](/00~Specials/Weekly/2017/7/7.3-Frontend.md)
+          - [1.6.2.10.4 Frontend](/00~Specials/Weekly/2017/7/7.4-Frontend.md)
+          - [1.6.2.10.5 Frontend](/00~Specials/Weekly/2017/7/7.5-Frontend.md)
+        - 1.6.2.11  [4]
+          - [1.6.2.11.1 ](/00~Specials/Weekly/2017/8/8.1.md)
+          - [1.6.2.11.2 ](/00~Specials/Weekly/2017/8/8.2.md)
+          - [1.6.2.11.3 ](/00~Specials/Weekly/2017/8/8.3.md)
+          - [1.6.2.11.4 ](/00~Specials/Weekly/2017/8/8.4.md)
+        - 1.6.2.12  [5]
+          - [1.6.2.12.1 ](/00~Specials/Weekly/2017/9/9.1.md)
+          - [1.6.2.12.2 ](/00~Specials/Weekly/2017/9/9.2.md)
+          - [1.6.2.12.3 ](/00~Specials/Weekly/2017/9/9.3.md)
+          - [1.6.2.12.4 ](/00~Specials/Weekly/2017/9/9.4.md)
+          - [1.6.2.12.5 ](/00~Specials/Weekly/2017/9/9.5.md)
+      - 1.6.3  [4]
+        - 1.6.3.1  [7]
+          - [1.6.3.1.1 ](/00~Specials/Weekly/2018/1/1.1.md)
+          - [1.6.3.1.2 en](/00~Specials/Weekly/2018/1/1.2-en.md)
+          - [1.6.3.1.3 ](/00~Specials/Weekly/2018/1/1.2.md)
+          - [1.6.3.1.4 en](/00~Specials/Weekly/2018/1/1.3-en.md)
+          - [1.6.3.1.5 ](/00~Specials/Weekly/2018/1/1.3.md)
+          - [1.6.3.1.6 en](/00~Specials/Weekly/2018/1/1.4-en.md)
+          - [1.6.3.1.7 ](/00~Specials/Weekly/2018/1/1.4.md)
+        - 1.6.3.2  [6]
+          - [1.6.3.2.1 en](/00~Specials/Weekly/2018/2/2.1-en.md)
+          - [1.6.3.2.2 ](/00~Specials/Weekly/2018/2/2.1.md)
+          - [1.6.3.2.3 en](/00~Specials/Weekly/2018/2/2.2-en.md)
+          - [1.6.3.2.4 ](/00~Specials/Weekly/2018/2/2.2.md)
+          - [1.6.3.2.5 en](/00~Specials/Weekly/2018/2/2.3-en.md)
+          - [1.6.3.2.6 ](/00~Specials/Weekly/2018/2/2.3.md)
+        - 1.6.3.3  [8]
+          - [1.6.3.3.1 en](/00~Specials/Weekly/2018/3/3.1-en.md)
+          - [1.6.3.3.2 ](/00~Specials/Weekly/2018/3/3.1.md)
+          - [1.6.3.3.3 en](/00~Specials/Weekly/2018/3/3.2-en.md)
+          - [1.6.3.3.4 ](/00~Specials/Weekly/2018/3/3.2.md)
+          - [1.6.3.3.5 en](/00~Specials/Weekly/2018/3/3.3-en.md)
+          - [1.6.3.3.6 ](/00~Specials/Weekly/2018/3/3.3.md)
+          - [1.6.3.3.7 en](/00~Specials/Weekly/2018/3/3.4-en.md)
+          - [1.6.3.3.8 ](/00~Specials/Weekly/2018/3/3.4.md)
+        - 1.6.3.4  [1]
+          - [1.6.3.4.1 en](/00~Specials/Weekly/2018/4/4.1-en.md)
+      - [1.6.4 ABOUT](/00~Specials/Weekly/ABOUT.md)
+      - [1.6.5 CONTRIBUTION](/00~Specials/Weekly/CONTRIBUTION.md)
+      - 1.6.6 SemiannualReport [1]
+        - 1.6.6.1 1 [8]
+          - [1.6.6.1.1 Angular](/00~Specials/Weekly/SemiannualReport/2017-1/Angular.md)
+          - [1.6.6.1.2 CSS](/00~Specials/Weekly/SemiannualReport/2017-1/CSS.md)
+          - [1.6.6.1.3 JavaScript](/00~Specials/Weekly/SemiannualReport/2017-1/JavaScript.md)
+          - [1.6.6.1.4 Node](/00~Specials/Weekly/SemiannualReport/2017-1/Node.md)
+          - [1.6.6.1.5 PWA](/00~Specials/Weekly/SemiannualReport/2017-1/PWA.md)
+          - [1.6.6.1.6 React](/00~Specials/Weekly/SemiannualReport/2017-1/React.md)
+          - [1.6.6.1.7 Vue.js](/00~Specials/Weekly/SemiannualReport/2017-1/Vue.js.md)
+          - [1.6.6.1.8 WebAssembly](/00~Specials/Weekly/SemiannualReport/2017-1/WebAssembly.md)
+      - [1.6.7 TEMPLATE](/00~Specials/Weekly/TEMPLATE.md)
+      - [1.6.8 Template en](/00~Specials/Weekly/Template-en.md)
   - 2 01~CS [9]
     - 2.1 AlgoDS [3]
       - [2.1.1 AlgoDS CPP List](/01~CS/AlgoDS/AlgoDS-CPP-List.md)
@@ -594,15 +595,15 @@
         - [3.5.7.3 Graphic OpenSource List](/02~Frontend/10~CG/GraphicsLibrary/Graphic-OpenSource-List.md)
         - [3.5.7.4 Map List](/02~Frontend/10~CG/GraphicsLibrary/Map-List.md)
         - 3.5.7.5 OCCT [4]
-          - 3.5.7.5.1 99.参考资料 [1]
-            - [3.5.7.5.1.1 Open CASCADE Technology 概述](/02~Frontend/10~CG/GraphicsLibrary/OCCT/99.参考资料/2023-Open%20CASCADE%20Technology%20概述.md)
+          - 3.5.7.5.1 99~参考资料 [1]
+            - [3.5.7.5.1.1 Open CASCADE Technology 概述](/02~Frontend/10~CG/GraphicsLibrary/OCCT/99~参考资料/2023-Open%20CASCADE%20Technology%20概述.md)
           - 3.5.7.5.2 OCCT WASM [1]
-            - 3.5.7.5.2.1 99.参考资料 [1]
-              - [3.5.7.5.2.1.1 Draw Harness WASM 使用与构建](/02~Frontend/10~CG/GraphicsLibrary/OCCT/OCCT%20WASM/99.参考资料/2023-Draw%20Harness%20WASM%20使用与构建.md)
+            - 3.5.7.5.2.1 99~参考资料 [1]
+              - [3.5.7.5.2.1.1 Draw Harness WASM 使用与构建](/02~Frontend/10~CG/GraphicsLibrary/OCCT/OCCT%20WASM/99~参考资料/2023-Draw%20Harness%20WASM%20使用与构建.md)
           - [3.5.7.5.3 OCCT List](/02~Frontend/10~CG/GraphicsLibrary/OCCT/OCCT-List.md)
           - 3.5.7.5.4 项目构建 [1]
-            - 3.5.7.5.4.1 99.参考资料 [1]
-              - [3.5.7.5.4.1.1 Windows OCCT 构建](/02~Frontend/10~CG/GraphicsLibrary/OCCT/项目构建/99.参考资料/2021-Windows%20OCCT%20构建.md)
+            - 3.5.7.5.4.1 99~参考资料 [1]
+              - [3.5.7.5.4.1.1 Windows OCCT 构建](/02~Frontend/10~CG/GraphicsLibrary/OCCT/项目构建/99~参考资料/2021-Windows%20OCCT%20构建.md)
         - 3.5.7.6 OpenGL [1]
           - [3.5.7.6.1 OpenGL List](/02~Frontend/10~CG/GraphicsLibrary/OpenGL/OpenGL-List.md)
         - 3.5.7.7 Web [4]
@@ -1002,8 +1003,8 @@
           - [5.4.5.1.6 Solidity List](/04~Infrastructure/Distributed/10.Web3/Blockchain/Solidity-List.md)
         - [5.4.5.2 Web3 List](/04~Infrastructure/Distributed/10.Web3/Web3-List.md)
         - [5.4.5.3 Web3 OpenSource List](/04~Infrastructure/Distributed/10.Web3/Web3-OpenSource-List.md)
-      - 5.4.6 99.References [1]
-        - [5.4.6.1 Foundational distributed systems papers](/04~Infrastructure/Distributed/99.References/2021-Foundational%20distributed%20systems%20papers.md)
+      - 5.4.6 99~参考资料 [1]
+        - [5.4.6.1 Foundational distributed systems papers](/04~Infrastructure/Distributed/99~参考资料/2021-Foundational%20distributed%20systems%20papers.md)
     - 5.5 MessageQueue [6]
       - 5.5.1 Kafka [2]
         - [5.5.1.1 Kafka List](/04~Infrastructure/MessageQueue/Kafka/Kafka-List.md)
@@ -1093,12 +1094,13 @@
       - 6.10.4 NeuralNetwork [1]
         - 6.10.4.1 CNN [1]
           - [6.10.4.1.1 CNN List](/10~AI/CV/NeuralNetwork/CNN/CNN-List.md)
-      - 6.10.5 Recognition [3]
+      - 6.10.5 Recognition [4]
         - [6.10.5.1 FaceRecognition List](/10~AI/CV/Recognition/FaceRecognition-List.md)
-        - 6.10.5.2 OCR [2]
-          - [6.10.5.2.1 OCR List](/10~AI/CV/Recognition/OCR/OCR-List.md)
-          - [6.10.5.2.2 OCR OpenSource List](/10~AI/CV/Recognition/OCR/OCR-OpenSource-List.md)
-        - [6.10.5.3 Object Detection List](/10~AI/CV/Recognition/Object-Detection-List.md)
+        - [6.10.5.2 FaceSwapper List](/10~AI/CV/Recognition/FaceSwapper-List.md)
+        - 6.10.5.3 OCR [2]
+          - [6.10.5.3.1 OCR List](/10~AI/CV/Recognition/OCR/OCR-List.md)
+          - [6.10.5.3.2 OCR OpenSource List](/10~AI/CV/Recognition/OCR/OCR-OpenSource-List.md)
+        - [6.10.5.4 Object Detection List](/10~AI/CV/Recognition/Object-Detection-List.md)
       - 6.10.6 Toolkits [1]
         - [6.10.6.1 OpenCV List](/10~AI/CV/Toolkits/OpenCV-List.md)
     - 6.11 MachineLearning [6]
@@ -1165,8 +1167,8 @@
       - 6.12.5 KnowledgeGraph [1]
         - [6.12.5.1 KnowledgeGraph List](/10~AI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
       - 6.12.6 LLM [6]
-        - 6.12.6.1 99.参考资料 [1]
-          - [6.12.6.1.1 AI Canon](/10~AI/NLP/LLM/99.参考资料/2023-AI%20Canon.md)
+        - 6.12.6.1 99~参考资料 [1]
+          - [6.12.6.1.1 AI Canon](/10~AI/NLP/LLM/99~参考资料/2023-AI%20Canon.md)
         - 6.12.6.2 LLM Application [4]
           - 6.12.6.2.1 Agent [1]
             - [6.12.6.2.1.1 LLM Agent OpenSource List](/10~AI/NLP/LLM/LLM-Application/Agent/LLM-Agent-OpenSource-List.md)

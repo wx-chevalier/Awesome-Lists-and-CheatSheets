@@ -14,6 +14,8 @@
 
 - [Outline ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/outline/outline): The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
 
+- [2023-Quartz ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jackyzha0/quartz)](https://github.com/jackyzha0/quartz): Quartz is a set of tools that helps you publish your digital garden and notes as a website for free. Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+
 # Document
 
 - [2016-mkdocs ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mkdocs/mkdocs/): MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file.

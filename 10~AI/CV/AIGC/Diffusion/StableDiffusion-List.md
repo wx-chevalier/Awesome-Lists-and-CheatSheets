@@ -49,3 +49,5 @@
 - [2023~ComfyUI ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)](https://github.com/comfyanonymous/ComfyUI): A powerful and modular stable diffusion GUI with a graph/nodes interface.
 
 - [2023~Web Stable Diffusion ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mlc-ai/web-stable-diffusion)](https://github.com/mlc-ai/web-stable-diffusion): Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
+
+- [2023~Opendream ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/varunshenoy/opendream)](https://github.com/varunshenoy/opendream): Opendream brings much needed and familiar features, such as layering, non-destructive editing, portability, and easy-to-write extensions, to your Stable Diffusion workflows. Check out our demo video.

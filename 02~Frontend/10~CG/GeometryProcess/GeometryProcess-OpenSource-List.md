@@ -80,7 +80,7 @@
 
 ### Python Library
 
-- [2010-MeshPy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/inducer/meshpy)](https://github.com/inducer/meshpy): MeshPy offers quality triangular and tetrahedral mesh generation for Python. Meshes of this type are chiefly used in finite-element simulation codes, but also have many other applications ranging from computer graphics to robotics.
+- [2010~MeshPy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/inducer/meshpy)](https://github.com/inducer/meshpy): MeshPy offers quality triangular and tetrahedral mesh generation for Python. Meshes of this type are chiefly used in finite-element simulation codes, but also have many other applications ranging from computer graphics to robotics.
 
 - [2018~Pyvista ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/pyvista/pyvista)](https://github.com/pyvista/pyvista): 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 
@@ -116,7 +116,7 @@
 
 ## I/O | 格式转换
 
-- [2010-OpenCTM ![code](https://ng-tech.icu/assets/code.svg](https://openctm.sourceforge.net/?page=about): OpenCTM is primarily a file format for storing 3D triangle meshes in a compact yet versatile format. In order to make it easy for software developers and 3D designers to support the format, an easy to use software library is provided that can read and write OpenCTM format files.
+- [2010~OpenCTM ![code](https://ng-tech.icu/assets/code.svg](https://openctm.sourceforge.net/?page=about): OpenCTM is primarily a file format for storing 3D triangle meshes in a compact yet versatile format. In order to make it easy for software developers and 3D designers to support the format, an easy to use software library is provided that can read and write OpenCTM format files.
 
 - [2019~meshio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nschloe/meshio)](https://github.com/nschloe/meshio): There are various mesh formats available for representing unstructured meshes. meshio can read and write all of the following and smoothly converts between them.
 

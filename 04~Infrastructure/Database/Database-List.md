@@ -36,7 +36,7 @@
 
 - [2007-Architecture of a Database System #Paper#](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf): This paper presents an architectural discussion of DBMS design principles, including process models, parallel architecture, storage system design, transaction system implementation, query processor and optimizer architectures, and typical shared components and utilities.
 
-- [2010-Database System Concepts-6th》📚](http://codex.cs.yale.edu/avi/db-book/db6/slide-dir/index.html):
+- [2010~Database System Concepts-6th》📚](http://codex.cs.yale.edu/avi/db-book/db6/slide-dir/index.html):
 
 - [2012-The Internals of PostgreSQL》📚](http://www.interdb.jp/pg/index.html): The main purposes of this document are to explain how each subsystem works, and to provide the whole picture of PostgreSQL.
 

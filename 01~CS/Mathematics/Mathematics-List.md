@@ -16,7 +16,7 @@
 
 - [2009-《The Elements of Statistical Learning: Data Mining, Inference, and Prediction-Second Edition](https://web.stanford.edu/~hastie/ElemStatLearn/): Hastie and Tibshirani cover a broad range of topics, from supervised learning (prediction) to unsupervised learning including neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book.
 
-- [2010-《All of Statistics: A Concise Course in Statistical Inference》📚](http://read.pudn.com/downloads158/ebook/702714/Larry%20Wasserman_ALL%20OF%20Statistics.pdf): The goal of this book is to provide a broad background in probability and statistics for students in statistics, Computer science (especially data mining and machine learning), mathematics, and related disciplines.
+- [2010~《All of Statistics: A Concise Course in Statistical Inference》📚](http://read.pudn.com/downloads158/ebook/702714/Larry%20Wasserman_ALL%20OF%20Statistics.pdf): The goal of this book is to provide a broad background in probability and statistics for students in statistics, Computer science (especially data mining and machine learning), mathematics, and related disciplines.
 
 - [2012-《李航-统计学习方法》📚](https://www.amazon.cn/dp/B007TSFMTA): 本书全面系统地介绍了统计学习的主要方法，特别是监督学习方法，包括感知机、k 近邻法、朴素贝叶斯法、决策树、逻辑斯谛回归与熵模型、支持向量机、提升方法、EM 算法、隐马尔可夫模型和条件随机场等。
 

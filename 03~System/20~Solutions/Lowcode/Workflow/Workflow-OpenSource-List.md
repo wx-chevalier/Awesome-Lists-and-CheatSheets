@@ -18,8 +18,9 @@
 
 - [2021~Automatisch ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/automatisch/automatisch)](https://github.com/automatisch/automatisch): The open source Zapier alternative. Build workflow automation without spending time and money.
 
-- [2023~Snakemake ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/snakemake/snakemake)](https://github.com/snakemake/snakemake):
-  The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.
+- [2021~Zeebe ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/camunda/zeebe)](https://github.com/camunda/zeebe): Zeebe provides visibility into and control over business processes that span multiple microservices. It is the engine that powers Camunda Platform 8.
+
+- [2023~Snakemake ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/snakemake/snakemake)](https://github.com/snakemake/snakemake): The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.
 
 ## Rules Engine
 

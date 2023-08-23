@@ -13,3 +13,7 @@
 - [2023~Flowise ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/FlowiseAI/Flowise)](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS.
 
 - [2023~joonspk-research/generative_agents ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/joonspk-research/generative_agents)](https://github.com/joonspk-research/generative_agents): This repository accompanies our research paper titled "Generative Agents: Interactive Simulacra of Human Behavior." It contains our core simulation module for generative agents—computational agents that simulate believable human behaviors—and their game environment. Below, we document the steps for setting up the simulation environment on your local machine and for replaying the simulation as a demo animation.
+
+# AI Town
+
+- [2023~a16z-infra/ai-town ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/a16z-infra/ai-town)](https://github.com/a16z-infra/ai-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
