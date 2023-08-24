@@ -2,13 +2,13 @@
 
 - [2015-CodeMirror ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/codemirror/CodeMirror): CodeMirror is a versatile text editor implemented in JavaScript for the browser. It is specialized for editing code, and comes with over 100 language modes and various addons that implement more advanced editing functionality. Every language comes with fully-featured code and syntax highlighting to help with reading and editing complex code.
 
-- [2016-Pell ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jaredreich/pell): pell is the simplest and smallest WYSIWYG text editor for web, with no dependencies
+- [2016~Pell ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jaredreich/pell): pell is the simplest and smallest WYSIWYG text editor for web, with no dependencies
 
-- [2016-TOAST UI Editor ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/UVY): Markdown WYSIWYG Editor | Productive and Extensible.
+- [2016~TOAST UI Editor ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/UVY): Markdown WYSIWYG Editor | Productive and Extensible.
 
-- [2016-Draft.js](https://facebook.github.io/draft-js/): Rich Text Editor Framework for React。[draft-js-plugins ![code](https://ng-tech.icu/assets/code.svg)](https://www.draft-js-plugins.com/)。
+- [2016~Draft.js](https://facebook.github.io/draft-js/): Rich Text Editor Framework for React。[draft-js-plugins ![code](https://ng-tech.icu/assets/code.svg)](https://www.draft-js-plugins.com/)。
 
-- [2016-react-rte ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/sstur/react-rte): Pure React rich text WYSIWYG editor based on draft-js.
+- [2016~react-rte ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/sstur/react-rte): Pure React rich text WYSIWYG editor based on draft-js.
 
 - [2018~Slate ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ianstormtaylor/slate): A completely customizable framework for building rich text editors.
 

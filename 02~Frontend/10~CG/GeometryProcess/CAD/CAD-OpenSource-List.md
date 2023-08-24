@@ -36,6 +36,12 @@
 
 # Rust CAD
 
+- [2022~Fornjot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hannobraun/fornjot)](https://github.com/hannobraun/fornjot): Fornjot is an early-stage b-rep CAD kernel written in the Rust programming language.
+
+- [2022~Truck ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ricosjp/truck)](https://github.com/ricosjp/truck): Truck is an open-source shape processing kernel by Rust.
+
+- [2023~bschwind/opencascade-rs ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/bschwind/opencascade-rs)](https://github.com/bschwind/opencascade-rs): Rust bindings to OpenCascade. The code is currently a major work in progress.
+
 # STEP
 
 - [2013-STEPCode ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/stepcode/stepcode)](https://github.com/stepcode/stepcode): STEPcode (formerly NIST's STEP Class Library) is used with IFC, STEP, and other standards that utilize the technologies of ISO10303 (STEP). It generates C++ and Python from EXPRESS (10303-11) schemas. The code is capable of reading and writing STEP Part 21 exchange files. It also utilizes Parts 22 and 23 (SDAI and its C++ binding).

@@ -62,9 +62,9 @@
 
 ### 动作识别
 
-- [2017-Detectron ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebookresearch/Detectron): Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN.
+- [2017~Detectron ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebookresearch/Detectron): Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN.
 
-- [2017-Multi Object Tracker ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/adipandas/multi-object-tracker): Object detection using deep learning and multi-object tracking.
+- [2017~Multi Object Tracker ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/adipandas/multi-object-tracker): Object detection using deep learning and multi-object tracking.
 
 - [2018~OpenPose ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/CMU-Perceptual-Computing-Lab/openpose): Real-time multi-person keypoint detection library for body, face, hands, and foot estimation.
 

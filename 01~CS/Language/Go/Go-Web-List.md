@@ -4,13 +4,13 @@
 
 - [2018~Building a JSON API in Go](https://parg.co/U1h): I've recently been building more and more complex things with the Go programming language. It's been a lot of fun!
 
-- [2017-Golang command tutorial in Chinese.](https://github.com/hyper0x/go_command_tutorial)
+- [2017~Golang command tutorial in Chinese.](https://github.com/hyper0x/go_command_tutorial)
 
 - [2018~Using Go as a scripting language in Linux](https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/)
 
 - [2018~Go web framework benchmark ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/smallnest/go-web-framework-benchmark): This benchmark suite aims to compare the performance of Go web frameworks. It is inspired by Go HTTP Router Benchmark but this benchmark suite is different with that.
 
-- [2017-HTTP(S) Proxy in Golang in less than 100 lines of code](https://medium.com/@mlowicki/http-s-proxy-in-golang-in-less-than-100-lines-of-code-6a51c2f2c38c)
+- [2017~HTTP(S) Proxy in Golang in less than 100 lines of code](https://medium.com/@mlowicki/http-s-proxy-in-golang-in-less-than-100-lines-of-code-6a51c2f2c38c)
 
 # grpc
 

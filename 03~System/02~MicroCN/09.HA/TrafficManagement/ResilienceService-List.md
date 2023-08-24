@@ -10,11 +10,11 @@
 
 - [服务降级背后的技术架构设计](http://mp.weixin.qq.com/s/cfWwjhKgDXMSQ3BzJ_S2Ag)
 
-- [2017-Scaling your API with rate limiters](https://stripe.com/blog/rate-limiters)
+- [2017~Scaling your API with rate limiters](https://stripe.com/blog/rate-limiters)
 
 - [2015-Practical Scalability Analysis With The Universal Scalability Law》📚](https://parg.co/bNA): I wrote this book to help you understand the simple, but profoundly powerful, truths about scalability.
 
-- [2017- 去哪儿 - 超时，重试，熔断，限流](http://mp.weixin.qq.com/s/wIQIv4TAHRIqR_X9iSz3Hw)
+- [2017~ 去哪儿 - 超时，重试，熔断，限流](http://mp.weixin.qq.com/s/wIQIv4TAHRIqR_X9iSz3Hw)
 
 ## Sentinel
 

@@ -42,7 +42,7 @@
 
 # Orientation | 角度
 
-- [2017-Tweaker-3 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ChristophSchranz/Tweaker-3): A performant auto-rotate software for objects in 3D Printing, whose parameter are trained by an evolutionary algorithm.
+- [2017~Tweaker-3 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ChristophSchranz/Tweaker-3): A performant auto-rotate software for objects in 3D Printing, whose parameter are trained by an evolutionary algorithm.
 
 # Nest | 摆放
 

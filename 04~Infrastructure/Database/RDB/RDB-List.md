@@ -4,13 +4,13 @@
 
 - [2013-How did the modern relational database come to be?](https://www.linkedin.com/pulse/how-did-modern-relational-database-come-david-mccaldin): The purpose of this Annotated Bibliography is to illustrate, in chronological order, the major development of database models from 1st generation (network model etc) to second generation (relational) to 3rd generation (e.g. semantic). The Bibliography is presented in order of the year when the paper was published.
 
-- [2017-How does a relational database work](http://coding-geek.com/how-databases-work/): When it comes to relational databases, I can’t help thinking that something is missing. They’re used everywhere. There are many different databases: from the small and useful SQLite to the powerful Teradata. But, there are only a few articles that explain how a database works.
+- [2017~How does a relational database work](http://coding-geek.com/how-databases-work/): When it comes to relational databases, I can’t help thinking that something is missing. They’re used everywhere. There are many different databases: from the small and useful SQLite to the powerful Teradata. But, there are only a few articles that explain how a database works.
 
 # Resource
 
 ## Books
 
-- [2016-《Relational Database Design and Implementation-4th》📚](https://parg.co/bjE): The book begins by reviewing basic concepts of databases and database design, then turns to creating, populating, and retrieving data using SQL.
+- [2016~《Relational Database Design and Implementation-4th》📚](https://parg.co/bjE): The book begins by reviewing basic concepts of databases and database design, then turns to creating, populating, and retrieving data using SQL.
 
 - [2023~《Build Your Own Database From Scratch》📚](https://build-your-own.org/database/): This book contains a walk-through of a minimal persistent database implementation. The implementation is incremental. We start with a B-Tree, then add a new concept with each chapter, and eventually go from a simple KV to a mini relational DB.
 
@@ -20,7 +20,7 @@
 
 # Transaction & Concurrency Control
 
-- [2017-A beginner’s guide to ACID and database transactions](http://6me.us/OzSh): Transactions are omnipresent in today’s enterprise systems, providing data integrity even in highly concurrent environments. So let’s get started by first defining the term and the context where you might usually employ it.
+- [2017~A beginner’s guide to ACID and database transactions](http://6me.us/OzSh): Transactions are omnipresent in today’s enterprise systems, providing data integrity even in highly concurrent environments. So let’s get started by first defining the term and the context where you might usually employ it.
 
 # Query Processing
 

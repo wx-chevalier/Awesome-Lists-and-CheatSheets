@@ -4,7 +4,7 @@
 
 - [2018~The Kubernetes Effect](https://www.infoq.com/articles/kubernetes-effect): The way we should look at Kubernetes is more like a fundamental paradigm that has implications in multiple dimensions, rather than an API to interact with.
 
-- [2017-Kubernetes vs Docker Swarm](https://platform9.com/blog/kubernetes-docker-swarm-compared/): We’ll walk you through high-level discussions of Kubernetes and Docker Swarm, and then compare them head-to-head.
+- [2017~Kubernetes vs Docker Swarm](https://platform9.com/blog/kubernetes-docker-swarm-compared/): We’ll walk you through high-level discussions of Kubernetes and Docker Swarm, and then compare them head-to-head.
 
 - [2018~Why Kubernetes is The New Application Server](https://hn.premii.com/#/article/17516706): In this article, I’m going to ask some provocative questions to make my case for Why Kubernetes is the new application server.
 
@@ -14,9 +14,9 @@
 
 ## Case Study
 
-- [2017-Kubernetes at GitHub](https://githubengineering.com/kubernetes-at-github/): Moving a critical application to Kubernetes was a fun challenge, and we’re excited to share some of what we’ve learned with you today.
+- [2017~Kubernetes at GitHub](https://githubengineering.com/kubernetes-at-github/): Moving a critical application to Kubernetes was a fun challenge, and we’re excited to share some of what we’ve learned with you today.
 
-- [2017-Kubernetes clusters for the hobbyist](https://github.com/hobby-kube/guide#cluster-size): This guide answers the question of how to setup and operate a fully functional, secure Kubernetes cluster on a cloud provider such as DigitalOcean or Scaleway.
+- [2017~Kubernetes clusters for the hobbyist](https://github.com/hobby-kube/guide#cluster-size): This guide answers the question of how to setup and operate a fully functional, secure Kubernetes cluster on a cloud provider such as DigitalOcean or Scaleway.
 
 - [2019~浅谈 Kubernetes 在生产环境中架构](https://mp.weixin.qq.com/s/dbH3E51TKEqCgcFu-isbXQ): 本文，只是笔者针对 Kubernetes 生产环境运行的一些关于架构设计和实现方案的总结，内容很粗糙，同时也会不断完善。
 
@@ -26,11 +26,11 @@
 
 ## Books
 
-- [2017-Kubernetes 中文指南/云原生应用架构实践手册》📚](https://jimmysong.io/kubernetes-handbook/): 本书记录了本人从零开始学习和使用 Kubernetes 的心路历程，着重于经验分享和总结，同时也会有相关的概念解析，希望能够帮助大家少踩坑，少走弯路，还会指引大家关于关注 kubernetes 生态周边，如微服务构建、DevOps、大数据应用、Service Mesh、Cloud Native 等领域。
+- [2017~Kubernetes 中文指南/云原生应用架构实践手册》📚](https://jimmysong.io/kubernetes-handbook/): 本书记录了本人从零开始学习和使用 Kubernetes 的心路历程，着重于经验分享和总结，同时也会有相关的概念解析，希望能够帮助大家少踩坑，少走弯路，还会指引大家关于关注 kubernetes 生态周边，如微服务构建、DevOps、大数据应用、Service Mesh、Cloud Native 等领域。
 
-- [2017-Kubernetes for Java Developers》📚](https://www.oreilly.com/programming/free/files/kubernetes-for-java-developers.pdf): Orchestrate Multi-Container Applications with Ease.
+- [2017~Kubernetes for Java Developers》📚](https://www.oreilly.com/programming/free/files/kubernetes-for-java-developers.pdf): Orchestrate Multi-Container Applications with Ease.
 
-- [2017-Kubernetes The Hard Way #Series#](https://github.com/kelseyhightower/kubernetes-the-hard-way): This tutorial walks you through setting up Kubernetes the hard way. This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster. If that's you then check out Google Kubernetes Engine, or the Getting Started Guides.
+- [2017~Kubernetes The Hard Way #Series#](https://github.com/kelseyhightower/kubernetes-the-hard-way): This tutorial walks you through setting up Kubernetes the hard way. This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster. If that's you then check out Google Kubernetes Engine, or the Getting Started Guides.
 
 - [2019~Kubernetes Patterns》📚](https://www.oreilly.com/library/view/kubernetes-patterns/9781492050278/): With this focused guide, Bilgin Ibryam and Roland Huß from Red Hat provide common reusable elements, patterns, principles, and practices for designing and implementing cloud-native applications on Kubernetes. [Examples](https://github.com/k8spatterns/examples).
 
@@ -38,13 +38,13 @@
 
 ## Courses
 
-- [2017-Introduction to Kubernetes 🎥](https://www.edx.org/course/introduction-to-kubernetes): Want to learn Kubernetes? Get an in-depth primer on this powerful system for managing containerized applications.
+- [2017~Introduction to Kubernetes 🎥](https://www.edx.org/course/introduction-to-kubernetes): Want to learn Kubernetes? Get an in-depth primer on this powerful system for managing containerized applications.
 
-- [2017-Scalable Microservices with Kubernetes (Udacity) 🎥](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615): This course is designed to teach you about managing application containers, using Kubernetes
+- [2017~Scalable Microservices with Kubernetes (Udacity) 🎥](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615): This course is designed to teach you about managing application containers, using Kubernetes
 
-- [2017-Kubernetes 完全教程 🎥](https://github.com/jolestar/kubernetes-complete-course): 这个教程是一个公开课系列课程，预计包含 8 课（包含一节预备课）。
+- [2017~Kubernetes 完全教程 🎥](https://github.com/jolestar/kubernetes-complete-course): 这个教程是一个公开课系列课程，预计包含 8 课（包含一节预备课）。
 
-- [2017-从 Docker 到 Kubernetes 进阶 🎥](https://www.qikqiak.com/k8s-book/): 从 Docker 入门一步步迁移到 Kubernetes 的进阶课程。
+- [2017~从 Docker 到 Kubernetes 进阶 🎥](https://www.qikqiak.com/k8s-book/): 从 Docker 入门一步步迁移到 Kubernetes 的进阶课程。
 
 - [2018~阿里云云原生技术公开课 🎥](https://edu.aliyun.com/roadmap/cloudnative#course): 云原生最初来描述云上应用的典型架构与特性，随着容器、kubernetes、Serverless、FaaS 技术的演进，CNCF（云原生计算基金会）把云原生的概念更广泛地定义为“让应用更有弹性、容错性、观测性的基础技术，让应用更容易部署、管理的基础软件、让应用更容易编写、编排的运行框架等”，希望能够让开发者最好的利用云的资源、产品和交付能力。
 

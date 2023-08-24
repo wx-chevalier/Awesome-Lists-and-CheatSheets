@@ -16,13 +16,13 @@
 
 - [Difference between Machine Learning, Data Science, AI, Deep Learning, and Statistics](http://6me.us/4cjZL): In this article, I clarify the various roles of the data scientist, and how data science compares and overlaps with related fields such as machine learning, deep learning, AI, statistics, IoT, operations research, and applied mathematics.
 
-- [2017-Teachable Machine](https://github.com/googlecreativelab/teachable-machine): Explore how machine learning works, live in the browser. No coding required.
+- [2017~Teachable Machine](https://github.com/googlecreativelab/teachable-machine): Explore how machine learning works, live in the browser. No coding required.
 
 - [2022~AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap): Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a data scientist, machine learning or an AI expert. We made these charts for our new employees to make them AI Experts but we wanted to share them here to help the community.
 
 ## CheatSheet | 清单
 
-- [2017-Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://parg.co/bad)
+- [2017~Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://parg.co/bad)
 
 - [2019~Data-Science--Cheat-Sheet #CheatSheet#](https://github.com/abhat222/Data-Science--Cheat-Sheet): List of Data Science Cheatsheets.
 
@@ -62,7 +62,7 @@
 
 - [Distill 🗃️](http://distill.pub/): The web is a powerful medium to share new ways of thinking.
 
-- [2017-Awesome Data Science 🗃️](https://github.com/bulutyazilim/awesome-datascience): An open source Data Science repository to learn and apply towards solving real world problems.
+- [2017~Awesome Data Science 🗃️](https://github.com/bulutyazilim/awesome-datascience): An open source Data Science repository to learn and apply towards solving real world problems.
 
 - [2018~Deep Learning World 🗃️](https://github.com/astorfi/Deep-Learning-World): Organized Resources for Deep Learning Researchers and Developers.
 

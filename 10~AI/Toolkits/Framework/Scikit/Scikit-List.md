@@ -24,7 +24,7 @@
 
 - [Python Data Science Handbook: The Basics of NumPy Arrays](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.02-The-Basics-Of-NumPy-Arrays.ipynb)
 
-- [2017-Working With Numpy Matrices: A Handy First Links](http://6me.us/HoKt0X): This introductory tutorial does a great job of outlining the most common Numpy array creation and manipulation functionality. A good post to keep handy while taking your first steps in Numpy, or to use as a handy reminder.
+- [2017~Working With Numpy Matrices: A Handy First Links](http://6me.us/HoKt0X): This introductory tutorial does a great job of outlining the most common Numpy array creation and manipulation functionality. A good post to keep handy while taking your first steps in Numpy, or to use as a handy reminder.
 
 # NLP
 
@@ -43,10 +43,10 @@
 - [NLP concepts with spaCy](https://gist.github.com/aparrish/f21f6abbf2367e8eb23438558207e1c3):
   The aim of this notebook is to introduce a few simple concepts and techniques from NLP.
 
-- [2017-SciPy Cheat Sheet: Linear Algebra in Python](http://6me.us/gsj9Zp)
+- [2017~SciPy Cheat Sheet: Linear Algebra in Python](http://6me.us/gsj9Zp)
 
 # Pandas
 
 - [How to rewrite your SQL queries in Pandas, and more](https://parg.co/UWC): You may end up with CSV files, plain text, Parquet, HDF5, and who knows what else. This is where Pandas library shines.
 
-- [2017-Pandas Cheat Sheet: Data Wrangling in Python](http://6me.us/tN0VH8)
+- [2017~Pandas Cheat Sheet: Data Wrangling in Python](http://6me.us/tN0VH8)

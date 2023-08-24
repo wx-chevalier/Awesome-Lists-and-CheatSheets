@@ -24,11 +24,11 @@
 
 - [DB 主从一致性架构优化 4 种方法](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959442&idx=1&sn=feb8ff75385d8031386e120ef3535329&scene=0#wechat_redirect)
 
-- [2017-分库分表需要考虑的问题及方案](https://parg.co/b1W)
+- [2017~分库分表需要考虑的问题及方案](https://parg.co/b1W)
 
-- [2016-水平分库分表的关键步骤以及可能遇到的问题](https://parg.co/b1F)
+- [2016~水平分库分表的关键步骤以及可能遇到的问题](https://parg.co/b1F)
 
-- [2017-Principles of Sharding for Relational Databases](https://parg.co/bjq): In this blog post, we’ll first look at key properties that impact a sharding project’s success.
+- [2017~Principles of Sharding for Relational Databases](https://parg.co/bjq): In this blog post, we’ll first look at key properties that impact a sharding project’s success.
 
 - [使用 Rust 构建分布式 Key-Value Store](https://zhuanlan.zhihu.com/p/31142786)
 
@@ -44,6 +44,6 @@
 
 - [MySQL Group Replication 官方文档中文版](http://storage.360buyimg.com/brickhaha/Mysql.pdf)：MySQL Group Replication(简称 MGR)是 MySQL 官方于 2016 年 12 月推出的一个全新的高可用与高扩展的解决方案。MySQL 组复制提供了高可用、高扩展、高可靠的 MySQL 集群服务。
 
-- [2017-五大常见的 MySQL 高可用方案](https://zhuanlan.zhihu.com/p/25960208)：这里只讨论常用高可用方案的优缺点以及高可用方案的选型。
+- [2017~五大常见的 MySQL 高可用方案](https://zhuanlan.zhihu.com/p/25960208)：这里只讨论常用高可用方案的优缺点以及高可用方案的选型。
 
 # Replication

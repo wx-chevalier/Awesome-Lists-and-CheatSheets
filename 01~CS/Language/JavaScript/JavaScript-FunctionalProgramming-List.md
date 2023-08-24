@@ -1,8 +1,8 @@
 # JavaScript Functional Programming List
 
-- [2016-Eric Elliott: Composing Software](http://6me.us/SJr7): series on learning functional programming and compositional software techniques in JavaScript ES6+ from the ground up.
+- [2016~Eric Elliott: Composing Software](http://6me.us/SJr7): series on learning functional programming and compositional software techniques in JavaScript ES6+ from the ground up.
 
-- [2017-Functional Programming In JavaScriptn #Series#](http://6me.us/1P1r): Functional Programming(FP) can change the way you program for the better. But it’s hard to learn and many posts and tutorials don’t go into details like Monads, Applicative and so on and don’t seem to use practical examples to help us use powerful FP techniques on a daily basis. That’s why I thought of writing a post to make it easier to use FP techniques.
+- [2017~Functional Programming In JavaScriptn #Series#](http://6me.us/1P1r): Functional Programming(FP) can change the way you program for the better. But it’s hard to learn and many posts and tutorials don’t go into details like Monads, Applicative and so on and don’t seem to use practical examples to help us use powerful FP techniques on a daily basis. That’s why I thought of writing a post to make it easier to use FP techniques.
 
 - [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.huw4ylx0v)
 
@@ -10,7 +10,7 @@
 
 - [So You Want to be a Functional Programmer](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a)
 
-- [2017-avascript and Functional Programming #Series#](https://parg.co/UQn): This is part of the “Javascript and Functional Programming” series on learning functional programming techniques in JavaScript ES6+.
+- [2017~avascript and Functional Programming #Series#](https://parg.co/UQn): This is part of the “Javascript and Functional Programming” series on learning functional programming techniques in JavaScript ES6+.
 
 ## Immutable
 
@@ -30,9 +30,9 @@
 
 # Functor & Monad
 
-- [2017-JavaScript Monads Made Simple](https://parg.co/bB3)
+- [2017~JavaScript Monads Made Simple](https://parg.co/bB3)
 
-- [2017-Challenge: Program without variables #javascript](https://parg.co/USF): The challenge is to create a piece of software (something real, tangible and more than a hello world) without any variables.
+- [2017~Challenge: Program without variables #javascript](https://parg.co/USF): The challenge is to create a piece of software (something real, tangible and more than a hello world) without any variables.
 
 - [A proof that Promises/A is a Monad](https://gist.github.com/briancavalier/3296186)
 

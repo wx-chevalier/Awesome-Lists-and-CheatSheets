@@ -128,7 +128,7 @@
 
 # Network
 
-- [2017-req ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/imroc/req): A golang http request library for humans.
+- [2017~req ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/imroc/req): A golang http request library for humans.
 
 - [Broxy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rhaidiz/broxy): Broxy is an open source intercept proxy written in Go.
 

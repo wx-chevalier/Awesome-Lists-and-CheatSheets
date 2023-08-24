@@ -4,6 +4,6 @@
 
 - [JVM 调优总结](http://pengjiaheng.iteye.com/blog/518623)
 
-- [2016-Java 问题定位](http://blog.csdn.net/wodeyuer125/article/details/50557168)
+- [2016~Java 问题定位](http://blog.csdn.net/wodeyuer125/article/details/50557168)
 
 ## Case Study

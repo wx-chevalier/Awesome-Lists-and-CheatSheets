@@ -16,9 +16,9 @@
 
 # Terminals | 终端
 
-- [2017-Terminal in React ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/nitin42/terminal-in-react): A component that renders a terminal.
+- [2017~Terminal in React ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/nitin42/terminal-in-react): A component that renders a terminal.
 
-- [2017-react-bash](https://github.com/zackargyle/react-bash): A configurable/extendable bash terminal React component.
+- [2017~react-bash](https://github.com/zackargyle/react-bash): A configurable/extendable bash terminal React component.
 
 # I18n
 

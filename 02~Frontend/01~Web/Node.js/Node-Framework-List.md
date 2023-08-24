@@ -32,7 +32,7 @@
 
 - [Easy Node Authentication Getting Started and Local, based on Express and Passport](https://scotch.io/tutorials/easy-node-authentication-setup-and-local)
 
-- [2016-对 express 中 next 函数的一些理解](https://cnodejs.org/topic/5757e80a8316c7cb1ad35bab)
+- [2016~对 express 中 next 函数的一些理解](https://cnodejs.org/topic/5757e80a8316c7cb1ad35bab)
 
 # Koa
 
@@ -50,7 +50,7 @@
 
 # Auth
 
-- [2017-Securing Node.js RESTful APIs with JSON Web Tokens](https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52): It’s a way of encrypting a value, in turn creating a unique token that users use as an identifier.
+- [2017~Securing Node.js RESTful APIs with JSON Web Tokens](https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52): It’s a way of encrypting a value, in turn creating a unique token that users use as an identifier.
 
 - [Node Hero - Node.js Authentication using Passport.js](https://parg.co/UqY)
 

@@ -14,9 +14,9 @@
 
 ## 3D Viewer
 
-- [2016-mayo ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fougue/mayo)](https://github.com/fougue/mayo): 3D CAD viewer and converter based on Qt + OpenCascade.
+- [2016~mayo ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fougue/mayo)](https://github.com/fougue/mayo): 3D CAD viewer and converter based on Qt + OpenCascade.
 
-- [2017-polyscope ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nmwsharp/polyscope)](https://github.com/nmwsharp/polyscope): A C++ & Python viewer for 3D data like meshes and point clouds.
+- [2017~polyscope ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nmwsharp/polyscope)](https://github.com/nmwsharp/polyscope): A C++ & Python viewer for 3D data like meshes and point clouds.
 
 - [2021~foxtrot](https://github.com/Formlabs/foxtrot): A fast, experimental STEP file viewer
 
@@ -58,11 +58,11 @@
 
 - [2013-Libigl ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/libigl/libigl)](https://github.com/libigl/libigl): A simple C++ geometry processing library
 
-- [2016-CGAL ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CGAL/cgal)](https://github.com/CGAL/cgal): The Computational Geometry Algorithms Library (CGAL) is a C++ library that aims to provide easy access to efficient and reliable algorithms in computational geometry.
+- [2016~CGAL ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CGAL/cgal)](https://github.com/CGAL/cgal): The Computational Geometry Algorithms Library (CGAL) is a C++ library that aims to provide easy access to efficient and reliable algorithms in computational geometry.
 
-- [2017-mlivesu/cinolib ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mlivesu/cinolib)](https://github.com/mlivesu/cinolib): A generic programming header only C++ library for processing polygonal and polyhedral meshes
+- [2017~mlivesu/cinolib ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mlivesu/cinolib)](https://github.com/mlivesu/cinolib): A generic programming header only C++ library for processing polygonal and polyhedral meshes
 
-- [2017-Geometry-central ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nmwsharp/geometry-central)](https://github.com/nmwsharp/geometry-central): Geometry-central is a modern C++ library of data structures and algorithms for geometry processing, with a particular focus on surface meshes.
+- [2017~Geometry-central ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nmwsharp/geometry-central)](https://github.com/nmwsharp/geometry-central): Geometry-central is a modern C++ library of data structures and algorithms for geometry processing, with a particular focus on surface meshes.
 
 - [2020~Geogram ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/BrunoLevy/geogram)](https://github.com/BrunoLevy/geogram): Geogram is a programming library of geometric algorithms. It includes a simple yet efficient Mesh data structure (for surfacic and volumetric meshes), exact computer arithmetics (a-la Shewchuck, implemented in GEO::expansion), a predicate code generator (PCK: Predicate Construction Kit), standard geometric predicates (orient/insphere), Delaunay triangulation, Voronoi diagram, spatial search data structures, spatial sorting) and less standard ones (more general geometric predicates, intersection between a Voronoi diagram and a triangular or tetrahedral mesh embedded in n dimensions). The latter is used by FWD/WarpDrive, the first algorithm that computes semi-discrete Optimal Transport in 3d that scales up to 1 million Dirac masses (see compute_OTM in example programs ).
 
@@ -90,7 +90,7 @@
 
 ### JavaScript
 
-- [2017-geometry-processing-js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/GeometryCollective/geometry-processing-js)](https://github.com/GeometryCollective/geometry-processing-js): geometry-processing-js is a fast and flexible framework for 3D geometry processing on the web! Easy integration with HTML/WebGL makes it particularly suitable for things like mobile apps, online demos, and course content.
+- [2017~geometry-processing-js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/GeometryCollective/geometry-processing-js)](https://github.com/GeometryCollective/geometry-processing-js): geometry-processing-js is a fast and flexible framework for 3D geometry processing on the web! Easy integration with HTML/WebGL makes it particularly suitable for things like mobile apps, online demos, and course content.
 
 ## Boolean Library
 
@@ -104,7 +104,7 @@
 
 - [2011-qhull ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/qhull/qhull)](https://github.com/qhull/qhull): Qhull is a general dimension convex hull program that reads a set of points from stdin, and outputs the smallest convex set that contains the points to stdout. It also generates Delaunay triangulations, Voronoi diagrams, furthest-site Voronoi diagrams, and halfspace intersections about a point.
 
-- [2016-Boundingmesh ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gaschler/bounding-mesh)](https://github.com/gaschler/bounding-mesh): Boundingmesh is a library and tool set for generating bounding meshes and bounding convex decompositions. A bounding mesh encloses a given mesh and has fewer vertices; it is single-sided approximate mesh. A bounding convex decomposition is a set of convex hulls of few vertices that enclose a given mesh.
+- [2016~Boundingmesh ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gaschler/bounding-mesh)](https://github.com/gaschler/bounding-mesh): Boundingmesh is a library and tool set for generating bounding meshes and bounding convex decompositions. A bounding mesh encloses a given mesh and has fewer vertices; it is single-sided approximate mesh. A bounding convex decomposition is a set of convex hulls of few vertices that enclose a given mesh.
 
 ## WebAssembly 集成
 
@@ -134,9 +134,9 @@
 
 - [2015-dengwirda/jigsaw ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dengwirda/jigsaw)](https://github.com/dengwirda/jigsaw): JIGSAW is a Delaunay-based unstructured mesh generator for two- and three-dimensional geometries.
 
-- [2017-fogleman/sdf ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fogleman/sdf)](https://github.com/fogleman/sdf): Generate 3D meshes based on SDFs (signed distance functions) with a dirt simple Python API.
+- [2017~fogleman/sdf ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fogleman/sdf)](https://github.com/fogleman/sdf): Generate 3D meshes based on SDFs (signed distance functions) with a dirt simple Python API.
 
-- [2017-ODM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/OpenDroneMap/ODM)](https://github.com/OpenDroneMap/ODM): A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
+- [2017~ODM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/OpenDroneMap/ODM)](https://github.com/OpenDroneMap/ODM): A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 
 ### Lattice Generation
 

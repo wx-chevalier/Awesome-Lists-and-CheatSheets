@@ -4,11 +4,11 @@
 
 # Overview
 
-- [2017-Why We Chose Typescript](https://redditblog.com/2017/06/30/why-we-chose-typescript/): Frontend engineering is in a very different state than it was when Reddit was first conceived.
+- [2017~Why We Chose Typescript](https://redditblog.com/2017/06/30/why-we-chose-typescript/): Frontend engineering is in a very different state than it was when Reddit was first conceived.
 
 ## Case Study
 
-- [2017-TypeScript at Slack](https://slack.engineering/typescript-at-slack-a81307fa288d)
+- [2017~TypeScript at Slack](https://slack.engineering/typescript-at-slack-a81307fa288d)
 
 # Resource
 
@@ -16,7 +16,7 @@
 
 - [2015-《TypeScript Handbook》📚](https://github.com/Microsoft/TypeScript-Handbook): The TypeScript Handbook is a comprehensive guide to the TypeScript language.
 
-- [2016-《TypeScript Deep Dive》📚](https://basarat.gitbooks.io/typescript/content/index.html): This is based on the lessons from Stack Overflow / DefinitelyTyped and general engagement with the TypeScript community. 中文版参考 [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)。
+- [2016~《TypeScript Deep Dive》📚](https://basarat.gitbooks.io/typescript/content/index.html): This is based on the lessons from Stack Overflow / DefinitelyTyped and general engagement with the TypeScript community. 中文版参考 [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)。
 
 - [2023~《The Concise TypeScript Book》📚](https://github.com/gibbok/typescript-book): The Concise TypeScript Book provides a comprehensive and succinct overview of TypeScript's capabilities. It offers clear explanations covering all aspects found in the latest version of the language, from its powerful type system to advanced features. Whether you're a beginner or an experienced developer, this book is an invaluable resource to enhance your understanding and proficiency in TypeScript.
 
@@ -36,9 +36,9 @@
 
 # Tutorial
 
-- [2016-Let's Learn TypeScript](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/17-typescript)
+- [2016~Let's Learn TypeScript](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/17-typescript)
 
-- [2017-Common TypeScript Error Messages](https://www.sitepen.com/blog/2017/11/01/common-typescript-error-messages/)
+- [2017~Common TypeScript Error Messages](https://www.sitepen.com/blog/2017/11/01/common-typescript-error-messages/)
 
 - [2018~Advanced functional programming in TypeScript](https://codewithstyle.info/advanced-functional-programming-typescript-monads-generators/): In this post, you’ll see how to take advantage of generators to make the monadic code more readable.
 

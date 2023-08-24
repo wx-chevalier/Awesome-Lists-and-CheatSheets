@@ -20,7 +20,7 @@
 
 - [使用 ELK(Elasticsearch + Logstash + Kibana) 搭建日志集中分析平台实践](https://wsgzao.github.io/post/elk/)
 
-- [2017-Docker Logging with the ELK Stack](https://logz.io/blog/docker-logging/): In this part, I covered the basic steps of how to set up a pipeline of logs from Docker containers into the ELK Stack (Elasticsearch, Logstash and Kibana).
+- [2017~Docker Logging with the ELK Stack](https://logz.io/blog/docker-logging/): In this part, I covered the basic steps of how to set up a pipeline of logs from Docker containers into the ELK Stack (Elasticsearch, Logstash and Kibana).
 
 # Flume
 

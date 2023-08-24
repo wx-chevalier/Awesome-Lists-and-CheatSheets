@@ -1,10 +1,10 @@
 # 3D Reconstruction List
 
-- [2017-Awesome 3D reconstruction list 🗃️](https://github.com/openMVG/awesome_3DReconstruction_list): A curated list of papers & resources linked to 3D reconstruction from images.
+- [2017~Awesome 3D reconstruction list 🗃️](https://github.com/openMVG/awesome_3DReconstruction_list): A curated list of papers & resources linked to 3D reconstruction from images.
 
 # OpenSource
 
-- [2017-PolyFit ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/LiangliangNan/PolyFit)](https://github.com/LiangliangNan/PolyFit): PolyFit implements the hypothesis and selection based surface reconstruction method described in the following paper.
+- [2017~PolyFit ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/LiangliangNan/PolyFit)](https://github.com/LiangliangNan/PolyFit): PolyFit implements the hypothesis and selection based surface reconstruction method described in the following paper.
 
 - [2018~pointcloudToMesh ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/danielTobon43/pointcloudToMesh)](https://github.com/danielTobon43/pointcloudToMesh): C++ application to convert pcd file, ply file, txt file or xyz point cloud to MESH representation (Gp3).
 

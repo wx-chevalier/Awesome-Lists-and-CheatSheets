@@ -6,9 +6,9 @@
 
 # Docker Storage
 
-- [2016-Docker : Storage Patterns for Persistence](https://parg.co/Ur8): We’ll go over several variants when it comes down to data persistence.
+- [2016~Docker : Storage Patterns for Persistence](https://parg.co/Ur8): We’ll go over several variants when it comes down to data persistence.
 
-- [2017-Managing Persistence for Docker Containers](https://thenewstack.io/methods-dealing-container-storage/)
+- [2017~Managing Persistence for Docker Containers](https://thenewstack.io/methods-dealing-container-storage/)
 
 - [copying-data-between-docker-containers](https://medium.com/@gchudnov/copying-data-between-docker-containers-26890935da3f)
 
@@ -36,7 +36,7 @@
 
 # Application
 
-- [2017-Create lean Node.js image with Docker multi-stage build](https://codefresh.io/blog/node_docker_multistage/)
+- [2017~Create lean Node.js image with Docker multi-stage build](https://codefresh.io/blog/node_docker_multistage/)
 
 - [3 tricks for mastering Docker with Python](https://hackernoon.com/3-tricks-for-mastering-docker-with-python-99876412348d?source=reading_list---------6-1---------)
 
@@ -52,7 +52,7 @@
 
 ## Optimization
 
-- [2017-Tips to Reduce Docker Image Sizes](https://parg.co/beS): Docker images can easily get to 2–3GB. Here’s some tips that can help reduce their sizes.
+- [2017~Tips to Reduce Docker Image Sizes](https://parg.co/beS): Docker images can easily get to 2–3GB. Here’s some tips that can help reduce their sizes.
 
 - [Dockerfile 最佳实践](http://dockone.io/article/132)
 

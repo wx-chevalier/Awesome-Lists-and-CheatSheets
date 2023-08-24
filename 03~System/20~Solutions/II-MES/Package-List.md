@@ -4,7 +4,7 @@
 
 # OpenSource
 
-- [2017-fogleman/pack3d ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fogleman/pack3d)](https://github.com/fogleman/pack3d): Tightly pack 3D models.
+- [2017~fogleman/pack3d ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fogleman/pack3d)](https://github.com/fogleman/pack3d): Tightly pack 3D models.
 
 - JavaScript:
 

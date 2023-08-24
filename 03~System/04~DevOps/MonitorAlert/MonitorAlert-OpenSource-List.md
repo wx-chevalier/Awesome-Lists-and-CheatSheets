@@ -40,7 +40,7 @@
 
 - [2014-CAT ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dianping/cat): CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC 框架，RPC 框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 
-- [2017-SkyWalking ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/apache/skywalking): SkyWalking: an APM(application performance monitor) system, especially designed for microservices, cloud native and container-based (Docker, Kubernetes, Mesos) architectures.
+- [2017~SkyWalking ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/apache/skywalking): SkyWalking: an APM(application performance monitor) system, especially designed for microservices, cloud native and container-based (Docker, Kubernetes, Mesos) architectures.
 
 - [2018~Cloudprober ![code](https://ng-tech.icu/assets/code.svg)](https://cloudprober.org/getting-started/): Cloudprober is a monitoring software that makes it super-easy to monitor availability and performance of various components of your system.
 
@@ -58,4 +58,4 @@
 
 - [Graphite ![code](https://ng-tech.icu/assets/code.svg)](https://graphiteapp.org/): Graphite is an enterprise-ready monitoring tool that runs equally well on cheap hardware or Cloud infrastructure.
 
-- [2016-statsd ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/etsy/statsd): Daemon for easy but powerful stats aggregation.
+- [2016~statsd ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/etsy/statsd): Daemon for easy but powerful stats aggregation.

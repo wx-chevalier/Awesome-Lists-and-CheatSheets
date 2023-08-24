@@ -30,4 +30,4 @@
 
 ## OpenSource
 
-- [2017-ultra-router ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/gt3/ultra-router): Router for component-based web apps. Pair with React or <BYOF />.
+- [2017~ultra-router ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/gt3/ultra-router): Router for component-based web apps. Pair with React or <BYOF />.

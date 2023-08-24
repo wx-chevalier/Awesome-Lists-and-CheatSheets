@@ -4,7 +4,7 @@
 
 # Rendering Mechanism | 渲染机制
 
-- [2017-Pulling Back The Curtains on Your Stylesheets](https://medium.freecodecamp.org/its-not-dark-magic-pulling-back-the-curtains-from-your-stylesheets-c8d677fa21b2): My talk (and this post) will focus on the why by taking a deep dive into browser internals to see how our styles are parsed and rendered.
+- [2017~Pulling Back The Curtains on Your Stylesheets](https://medium.freecodecamp.org/its-not-dark-magic-pulling-back-the-curtains-from-your-stylesheets-c8d677fa21b2): My talk (and this post) will focus on the why by taking a deep dive into browser internals to see how our styles are parsed and rendered.
 
 - [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 
@@ -54,9 +54,9 @@
 
 - [Optimization killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers): This document will contain advice to avoid writing code that will perform significantly worse than expected. Specifically those patterns that cause V8 (relevant to Node.JS, Opera, Chromium...) to refuse to optimize the affected function.
 
-- [2017-Optimizing dynamic JavaScript with inline caches](https://parg.co/b4a): This is an overview of an optimization technique I've been using in JSIL for a while, where you create and update polymorphic inline caches in your JavaScript code at runtime so that it can stay fast while adapting to unexpected changes.。( https://parg.co/b4a )
+- [2017~Optimizing dynamic JavaScript with inline caches](https://parg.co/b4a): This is an overview of an optimization technique I've been using in JSIL for a while, where you create and update polymorphic inline caches in your JavaScript code at runtime so that it can stay fast while adapting to unexpected changes.。( https://parg.co/b4a )
 
-- [2017-Improved JavaScript performance, WebAssembly, and Shared Memory in Microsoft Edge](https://parg.co/bfk)
+- [2017~Improved JavaScript performance, WebAssembly, and Shared Memory in Microsoft Edge](https://parg.co/bfk)
 
 - [2012:writing-fast-memory-efficient-javascript](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/)
 
@@ -64,9 +64,9 @@
 
 - [2014-Refactoring your JavaScript code with Grasp](http://www.graspjs.com/blog/2014/01/07/refactoring-javascript-with-grasp): Grasp 这个小小的 JavaScript 的命令行重构工具让我们所有人印象深刻。它为抽象语法树提供了丰富的选择器和操作，比摆弄 sed 和 grep 要先进多了。这给我们正在进行的将 JavaScript 做为一等编程语言的运动添加了一个有用的新工具。
 
-- [2016-Butternut ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/Rich-Harris/butternut): The fast, future-friendly minifier.
+- [2016~Butternut ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/Rich-Harris/butternut): The fast, future-friendly minifier.
 
-- [2017-Prepack ![code](https://ng-tech.icu/assets/code.svg) ](https://prepack.io/): Prepack is a tool that optimizes JavaScript source code: Computations that can be done at compile-time instead of run-time get eliminated. Prepack replaces the global code of a JavaScript bundle with equivalent code that is a simple sequence of assignments. This gets rid of most intermediate computations and object allocations.
+- [2017~Prepack ![code](https://ng-tech.icu/assets/code.svg) ](https://prepack.io/): Prepack is a tool that optimizes JavaScript source code: Computations that can be done at compile-time instead of run-time get eliminated. Prepack replaces the global code of a JavaScript bundle with equivalent code that is a simple sequence of assignments. This gets rid of most intermediate computations and object allocations.
 
 # Layout & Rendering: 界面布局与渲染策略
 
@@ -84,7 +84,7 @@
 
 # CSS
 
-- [2017-高性能动态 CSS 样式](https://parg.co/btW)：本文是对 [JSS](http://cssinjs.org/) 新近提供的[函数式值的介绍](http://cssinjs.org/json-api?v=v7.1.1#function-values)，其与 React 内联样式以及其他 CSS 解决方案相比有数倍的性能提升。在 Web 开发中动态设置样式往往会触发页面的重渲染，而本文则是介绍了如何使用 CSSOM 的 API 来在元素渲染之前即完成样式的设置。
+- [2017~高性能动态 CSS 样式](https://parg.co/btW)：本文是对 [JSS](http://cssinjs.org/) 新近提供的[函数式值的介绍](http://cssinjs.org/json-api?v=v7.1.1#function-values)，其与 React 内联样式以及其他 CSS 解决方案相比有数倍的性能提升。在 Web 开发中动态设置样式往往会触发页面的重渲染，而本文则是介绍了如何使用 CSSOM 的 API 来在元素渲染之前即完成样式的设置。
 
 - [fake-it-til-you-make-it-css](https://kyusuf.com/post/fake-it-til-you-make-it-css)
 

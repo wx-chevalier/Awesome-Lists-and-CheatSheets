@@ -10,8 +10,8 @@
 
 ## Ticket && Help Desk
 
-- [2017-Zammad ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/zammad/zammad): Zammad is a web based open source helpdesk/customer support system.
+- [2017~Zammad ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/zammad/zammad): Zammad is a web based open source helpdesk/customer support system.
 
-- [2017-Helpy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/helpyio/helpy): Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email.
+- [2017~Helpy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/helpyio/helpy): Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email.
 
 - [2018~Trudesk ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/polonel/trudesk): Trudesk is an open source help desk/ticketing solution.

@@ -22,7 +22,7 @@
 
 # Sentiment Analysis | 情感分析
 
-- [2017-Sentiment analysis on Twitter using word2vec and keras](https://parg.co/baA)
+- [2017~Sentiment analysis on Twitter using word2vec and keras](https://parg.co/baA)
 
 - [Twitter 情感分析技术](http://www.infoq.com/cn/news/2015/12/Twitter-api-notion)
 

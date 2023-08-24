@@ -6,7 +6,7 @@
 
 - [Preload, Prefetch And Priorities in Chrome](https://parg.co/bhM): Today we’ll dive into insights from Chrome’s networking stack to provide clarity on how web loading primitives (like <link rel=“preload”> & <link rel=“prefetch”>) work behind the scenes so you can be more effective with them.
 
-- [2017- 多 “ 维 ” 优化：前端高并发策略的更深层思考](https://parg.co/bIv)：一项指标的变好，总少不了相应优化策略的实施。优化并不是简单的一蹴而就，而是个不断迭代与推翻的过程。更深层的优化方案，往往是在某种思维策略之下，对问题场景和基本策略优缺的深刻理解后做出的当下最优的权衡结果。本文笔者从前端高并发优化这一具体点出发，逐步向大家阐述笔者在优化的 “ 术 ” 之上思维层面的一些思考。希望能给各位带来共鸣和感悟。
+- [2017~ 多 “ 维 ” 优化：前端高并发策略的更深层思考](https://parg.co/bIv)：一项指标的变好，总少不了相应优化策略的实施。优化并不是简单的一蹴而就，而是个不断迭代与推翻的过程。更深层的优化方案，往往是在某种思维策略之下，对问题场景和基本策略优缺的深刻理解后做出的当下最优的权衡结果。本文笔者从前端高并发优化这一具体点出发，逐步向大家阐述笔者在优化的 “ 术 ” 之上思维层面的一些思考。希望能给各位带来共鸣和感悟。
 
 - [The Best Request Is No Request, Revisited](https://alistapart.com/article/the-best-request-is-no-request-revisited)
 
@@ -22,7 +22,7 @@
 
 # CDN
 
-- [2016-从直播 CDN 的原理说起，谈如何解决延时和连麦的老难题？](https://parg.co/UtK)
+- [2016~从直播 CDN 的原理说起，谈如何解决延时和连麦的老难题？](https://parg.co/UtK)
 
 - [完结篇：史上最全的 CDN 内容分发网络实战技巧](http://mp.weixin.qq.com/s/a9rxbe8Zj8TZGhTVQPBzyQ)
 
@@ -48,21 +48,21 @@
 
 - [critical-path-css-tools](https://github.com/addyosmani/critical-path-css-tools):Tools to help prioritize above-the-fold CSS
 
-- [2017-Remove Unused CSS Rules](https://parg.co/bDk): Removing unused styles can help make the situation more manageable.
+- [2017~Remove Unused CSS Rules](https://parg.co/bDk): Removing unused styles can help make the situation more manageable.
 
 - [UnCSS ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/giakki/uncss): UnCSS is a tool that removes unused CSS from your stylesheets. It works across multiple files and supports Javascript-injected CSS.
 
-- [2017-Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://parg.co/bwo)
+- [2017~Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://parg.co/bwo)
 
-- [2017-Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://vuejsdevelopers.com/2017/07/24/critical-css-webpack/): Isolating critical CSS is something that can be done programmatically, and in this article I’ll show you how to delegate it to your Webpack pipeline.
+- [2017~Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://vuejsdevelopers.com/2017/07/24/critical-css-webpack/): Isolating critical CSS is something that can be done programmatically, and in this article I’ll show you how to delegate it to your Webpack pipeline.
 
 - [2018~purgecss ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/FullHuman/purgecss): Purgecss analyzes your content and your css files. Then it matches the selectors used in your files with the one in your content files. It removes unused selectors from your css, resulting in smaller css files.
 
 ## Lazy Loading | 懒加载
 
-- [2017-Lozad.js ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/ApoorvSaxena/lozad.js): Highly performant, light ~0.5kb and configurable lazy loader in pure JS with no dependencies for images, iframes and more, using IntersectionObserver API
+- [2017~Lozad.js ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/ApoorvSaxena/lozad.js): Highly performant, light ~0.5kb and configurable lazy loader in pure JS with no dependencies for images, iframes and more, using IntersectionObserver API
 
-- [2017-How to use SVG as a Placeholder, and Other Image Loading Techniques](https://parg.co/UEY)
+- [2017~How to use SVG as a Placeholder, and Other Image Loading Techniques](https://parg.co/UEY)
 
 ## Code Spliting | 代码分割
 
@@ -74,15 +74,15 @@
 
 # Image Optimization: 图片优化
 
-- [2017-Essential Image Optimization](https://images.guide/): In 2017, image optimization should be automated. It's easy to forget, best practices change, and content that doesn't go through a build pipeline can easily slip.
+- [2017~Essential Image Optimization](https://images.guide/): In 2017, image optimization should be automated. It's easy to forget, best practices change, and content that doesn't go through a build pipeline can easily slip.
 
-- [2017-An Introduction to Progressive Image Rendering](https://parg.co/bLp): In this article, we’ll look at how you can save your users bandwidth and time by loading and rendering well-optimized images lazily and progressively.
+- [2017~An Introduction to Progressive Image Rendering](https://parg.co/bLp): In this article, we’ll look at how you can save your users bandwidth and time by loading and rendering well-optimized images lazily and progressively.
 
-- [2017-Reducing Image File Size at Etsy](https://parg.co/bvn): Serving images is a critical part of Etsy’s infrastructure.
+- [2017~Reducing Image File Size at Etsy](https://parg.co/bvn): Serving images is a critical part of Etsy’s infrastructure.
 
 - [Save time by transforming images in the command line](http://6me.us/WYOP1)
 
-- [2017-Network based image loading using the Network Information API in Service Worker](https://parg.co/U5N): Recently, Chromium improved their implementation of navigator.connection by adding three new attributes: effectiveType, downlink and rtt.
+- [2017~Network based image loading using the Network Information API in Service Worker](https://parg.co/U5N): Recently, Chromium improved their implementation of navigator.connection by adding three new attributes: effectiveType, downlink and rtt.
 
 - [SuperTinyIcons ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/edent/SuperTinyIcons):Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 
@@ -106,7 +106,7 @@
 
 - [web-performance-secrets-from-the-bbc](https://medium.com/net-magazine/web-performance-secrets-from-the-bbc-d4b01f869752#.hwhq6jcbn)
 
-- [2017-Developer's Guide to E-Commerce Sites Speed Optimization](https://parg.co/U6q): You need to optimize your e-commerce website for speed at a time when search engines themselves rank faster websites above slower ones. At that same time, audience's attention span is getting shorter by the day.
+- [2017~Developer's Guide to E-Commerce Sites Speed Optimization](https://parg.co/U6q): You need to optimize your e-commerce website for speed at a time when search engines themselves rank faster websites above slower ones. At that same time, audience's attention span is getting shorter by the day.
 
 # Font
 
@@ -122,4 +122,4 @@
 
 - [Picturefill ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/scottjehl/picturefill)
 
-- [2017-Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images): In this article, I’ll be explaining some of the key concepts for responsive images, as well as providing an overview of a few different responsive image tactics.
+- [2017~Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images): In this article, I’ll be explaining some of the key concepts for responsive images, as well as providing an overview of a few different responsive image tactics.

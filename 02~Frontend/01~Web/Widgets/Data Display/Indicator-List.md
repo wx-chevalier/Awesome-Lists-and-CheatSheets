@@ -30,7 +30,7 @@
 
 ## DataGrid | 数据表格
 
-- [2017-Handsontable ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/handsontable/handsontable): Handsontable Community Edition - JavaScript/HTML5 Spreadsheet Component for Web Apps.
+- [2017~Handsontable ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/handsontable/handsontable): Handsontable Community Edition - JavaScript/HTML5 Spreadsheet Component for Web Apps.
 
 - [Facebook-FixedDataTable ![code](https://ng-tech.icu/assets/code.svg)](http://facebook.github.io/fixed-data-table/getting-started.html): A React table component designed to allow presenting thousands of rows of data.
 

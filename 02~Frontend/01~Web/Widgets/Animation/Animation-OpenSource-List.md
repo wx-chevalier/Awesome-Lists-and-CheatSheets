@@ -26,15 +26,15 @@
 
 - [react-motion ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/chenglou/react-motion): A spring that solves your animation problems.
 
-- [2017-Popmotion ![code](https://ng-tech.icu/assets/code.svg)](https://popmotion.io/): A functional JavaScript motion library.
+- [2017~Popmotion ![code](https://ng-tech.icu/assets/code.svg)](https://popmotion.io/): A functional JavaScript motion library.
 
 - [react-move ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/react-tools/react-move): React Move 🌀 Beautiful, data-driven animations for React.
 
 - [popmotion ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Popmotion/popmotion): Simple animation libraries for delightful user interfaces.
 
-- [2017-animateplus ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bendc/animateplus): Animate Plus is a JavaScript animation library focusing on performance and authoring flexibility. It aims to deliver a steady 60 FPS and weighs less than 3 KB (minified and compressed), making it particularly well-suited for mobile
+- [2017~animateplus ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bendc/animateplus): Animate Plus is a JavaScript animation library focusing on performance and authoring flexibility. It aims to deliver a steady 60 FPS and weighs less than 3 KB (minified and compressed), making it particularly well-suited for mobile
 
-- [2017-Ant Motion ![code](https://ng-tech.icu/assets/code.svg)](https://motion.ant.design/): 使用 Ant Motion 能够快速在 React 框架中使用动画；我们提供了单项，组合动画，以及整套解决方案。
+- [2017~Ant Motion ![code](https://ng-tech.icu/assets/code.svg)](https://motion.ant.design/): 使用 Ant Motion 能够快速在 React 框架中使用动画；我们提供了单项，组合动画，以及整套解决方案。
 
 ## Plstopfic
 
@@ -56,7 +56,7 @@
 
 ## Carousel | 走马灯
 
-- [2017-A Content Slider ![code](https://ng-tech.icu/assets/code.svg)](https://inclusive-components.design/a-content-slider/): Here, we shall be creating something that fulfills the basic purpose of a carousel — to allow the traversal of content along a horizontal axis — without being too reverential about the characteristics of past implementations.
+- [2017~A Content Slider ![code](https://ng-tech.icu/assets/code.svg)](https://inclusive-components.design/a-content-slider/): Here, we shall be creating something that fulfills the basic purpose of a carousel — to allow the traversal of content along a horizontal axis — without being too reverential about the characteristics of past implementations.
 
 ## Parallax
 

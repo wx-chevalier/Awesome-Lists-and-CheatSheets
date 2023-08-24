@@ -1,10 +1,10 @@
 # Design Pattern List
 
-- [2017-Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans): A topic that can easily make anyone's mind wobble. Here I try to make them stick in to your mind (and maybe mine) by explaining them in the simplest way possible.
+- [2017~Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans): A topic that can easily make anyone's mind wobble. Here I try to make them stick in to your mind (and maybe mine) by explaining them in the simplest way possible.
 
 - [云栖社区-架构师的路到底怎么走](https://www.zhihu.com/question/40520339/answer/250338569)
 
-- [2017-10 Common Software Architectural Patterns in a nutshell](https://parg.co/bD3)
+- [2017~10 Common Software Architectural Patterns in a nutshell](https://parg.co/bD3)
 
 ## Overview
 
@@ -32,11 +32,11 @@
 
 ## Collection
 
-- [2016-Design Patterns in Typescript ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/gztchan/design-patterns-in-typescript)
+- [2016~Design Patterns in Typescript ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/gztchan/design-patterns-in-typescript)
 
-- [2017-Design Patterns JS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/fbeline/Design-Patterns-JS/): All the 23 (GoF) design patterns implemented in Javascript
+- [2017~Design Patterns JS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/fbeline/Design-Patterns-JS/): All the 23 (GoF) design patterns implemented in Javascript
 
-- [2017-Design Patterns in TypeScript ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/Ui8): Here are the implementations of the following design patterns in TypeScript.
+- [2017~Design Patterns in TypeScript ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/Ui8): Here are the implementations of the following design patterns in TypeScript.
 
 ## Books
 
@@ -48,7 +48,7 @@
 
 ## Java
 
-- [2017-Object Oriented Tricks](https://hackernoon.com/oo-tricks-the-art-of-command-query-separation-9343e50a3de0)
+- [2017~Object Oriented Tricks](https://hackernoon.com/oo-tricks-the-art-of-command-query-separation-9343e50a3de0)
 
 - [SOLID Principles: The Definitive Guide](https://parg.co/Uk6)
 

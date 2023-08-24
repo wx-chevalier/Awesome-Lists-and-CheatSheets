@@ -2,9 +2,9 @@
 
 # Overview
 
-- [2017-10 Common Software Architectural Patterns in a nutshell](https://parg.co/bD3): In this article, I will be briefly explaining the following 10 common architectural patterns with their usage, pros and cons.
+- [2017~10 Common Software Architectural Patterns in a nutshell](https://parg.co/bD3): In this article, I will be briefly explaining the following 10 common architectural patterns with their usage, pros and cons.
 
-- [2017-The Software Architecture Chronicles #Series#](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/): In them, I write about what I’ve learned about Software Architecture, how I think of it, and how I use that knowledge.
+- [2017~The Software Architecture Chronicles #Series#](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/): In them, I write about what I’ve learned about Software Architecture, how I think of it, and how I use that knowledge.
 
 - [2019~Software Architecture Guide](https://martinfowler.com/architecture/): A guide to material on martinfowler.com about software architecture.
 
@@ -28,9 +28,9 @@
 
 - [2013-Vaughn-Implementing Domain Driven Design》📚](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577): Implementing Domain-Driven Design will impart a treasure trove of knowledge hard won within the DDD and enterprise application architecture communities over the last couple decades.
 
-- [2016-《架构漫谈》📚](https://www.amazon.cn/dp/B01B60Z9WG): 专栏以 Kevin 的架构经验为基础，逐步讨论什么是架构、怎样做好架构、软件架构如何落地、如何写好代码等问题。
+- [2016~《架构漫谈》📚](https://www.amazon.cn/dp/B01B60Z9WG): 专栏以 Kevin 的架构经验为基础，逐步讨论什么是架构、怎样做好架构、软件架构如何落地、如何写好代码等问题。
 
-- [2017-Source Making-《Refactoring Series》📚](https://sourcemaking.com/refactoring): The book covers 89 code smells and the appropriate methods for refactoring. It consists of simple text slides, cute illustrations and interactive code examples.
+- [2017~Source Making-《Refactoring Series》📚](https://sourcemaking.com/refactoring): The book covers 89 code smells and the appropriate methods for refactoring. It consists of simple text slides, cute illustrations and interactive code examples.
 
 - [2018~Martin-《Clean Architecture》📚](http://putregai.com/sbooks/clean_arch.pdf): A Craftsman's Guide to Software Structure and Design.
 
@@ -44,11 +44,11 @@
 
 ### DDD
 
-- [2016-Vaughn-Domain Driven Design Distilled》📚](https://www.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/): Vernon guides you through each core DDD technique for building better software. You’ll learn how to segregate domain models using the powerful Bounded Contexts pattern, to develop a Ubiquitous Language within an explicitly bounded context, and to help domain experts and developers work together to create that language.
+- [2016~Vaughn-Domain Driven Design Distilled》📚](https://www.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/): Vernon guides you through each core DDD technique for building better software. You’ll learn how to segregate domain models using the powerful Bounded Contexts pattern, to develop a Ubiquitous Language within an explicitly bounded context, and to help domain experts and developers work together to create that language.
 
 # Architect | 架构师
 
-- [2016-架构师画像](https://parg.co/M8y): 这篇文章就来讲讲我觉得的架构师的画像，到底具备什么素质的同学是贴合架构师形象的。
+- [2016~架构师画像](https://parg.co/M8y): 这篇文章就来讲讲我觉得的架构师的画像，到底具备什么素质的同学是贴合架构师形象的。
 
 - [支付宝架构师：从工程师到架构师的成长之路](http://www.scalerstalk.com/838-architect)
 
@@ -80,7 +80,7 @@
 
 - [坑系列---重构过程中的过度设计](http://mp.weixin.qq.com/s?__biz=MjM5ODczNTkwMA==&mid=2650107080&idx=1&sn=527e1f3f9b048127d1114f9272ddd927#rd)
 
-- [2016-Modern Software Over-Engineering Mistakes](https://parg.co/bih): Few things are guaranteed to increase all the time: Distance between stars, Entropy in the visible universe, and Fucking business requirements . Many articles say Dont over-engineer but don’t say why or how. Here are 10 clear examples.
+- [2016~Modern Software Over-Engineering Mistakes](https://parg.co/bih): Few things are guaranteed to increase all the time: Distance between stars, Entropy in the visible universe, and Fucking business requirements . Many articles say Dont over-engineer but don’t say why or how. Here are 10 clear examples.
 
 # OpenSource
 

@@ -4,11 +4,11 @@
 
 # Overview | 概述
 
-- [2017-Production Web Apps Performance Study Q4/16 - Q1/17](https://github.com/GoogleChrome/discovery/issues/1)
+- [2017~Production Web Apps Performance Study Q4/16 - Q1/17](https://github.com/GoogleChrome/discovery/issues/1)
 
-- [2017-Frontend Performance Check-list For Production](https://parg.co/bLP): In this article I will share with you my chick-list that I use to optimize my web pages after development. So feel free to leave a comment if you think I miss something.
+- [2017~Frontend Performance Check-list For Production](https://parg.co/bLP): In this article I will share with you my chick-list that I use to optimize my web pages after development. So feel free to leave a comment if you think I miss something.
 
-- [2017-The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3): A guide to impactful performance improvements.
+- [2017~The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3): A guide to impactful performance improvements.
 
 - [400% 飞跃：Web 页面加载速度优化实战](https://parg.co/Utq)
 
@@ -22,7 +22,7 @@
 
 - [Speed Matters: Designing for Mobile Performance](https://parg.co/bDR)
 
-- [2017-Tracking CPU with Long Tasks API](https://calendar.perfplanet.com/2017/tracking-cpu-with-long-tasks-api/): the old bottleneck for web performance used to be the network. But the new bottleneck for web performance is the CPU, and particularly the main thread.
+- [2017~Tracking CPU with Long Tasks API](https://calendar.perfplanet.com/2017/tracking-cpu-with-long-tasks-api/): the old bottleneck for web performance used to be the network. But the new bottleneck for web performance is the CPU, and particularly the main thread.
 
 - [2018~Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist): The only Front-End Performance Checklist that runs faster than the others
 
@@ -34,7 +34,7 @@
 
 - [2018~蚂蚁金服如何把前端性能监控做到极致?](https://mp.weixin.qq.com/s/pqFhhb5u6w7gmUutilH5xQ): 将分享如何通过 Performance 相关的 API 准确的采集用户性能数据，并如何通过大数据计算加工最终产出用户性能分析产品，以及如何通过性能数据纵向衡量产品性能、发现性能瓶颈。
 
-- [2017- 美团点评收银台前端可用性保障实践](https://parg.co/ba2)：本文主要讨论的是前端可用性相关话题，以在美团点评移动端网页收银台的实践为例，讲解收银台前端是如何保障可用性的。
+- [2017~ 美团点评收银台前端可用性保障实践](https://parg.co/ba2)：本文主要讨论的是前端可用性相关话题，以在美团点评移动端网页收银台的实践为例，讲解收银台前端是如何保障可用性的。
 
 ## Resource
 

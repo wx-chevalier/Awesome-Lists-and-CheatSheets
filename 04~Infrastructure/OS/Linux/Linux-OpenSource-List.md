@@ -52,7 +52,7 @@
 
 - [Bash Infinity ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/niieani/bash-oo-framework): Bash Infinity is a modern boilerplate / framework / standard library for bash
 
-- [2017-Bash Snippets ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alexanderepstein/Bash-Snippets): A collection of small bash scripts for heavy terminal users.
+- [2017~Bash Snippets ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alexanderepstein/Bash-Snippets): A collection of small bash scripts for heavy terminal users.
 
 - [2018~Shell Check ![code](https://ng-tech.icu/assets/code.svg)](https://www.shellcheck.net): ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts.
 

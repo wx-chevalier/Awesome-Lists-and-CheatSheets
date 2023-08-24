@@ -12,7 +12,7 @@
 
 - [2014-math-as-code](https://github.com/Jam3/math-as-code): This is a reference to ease developers into mathematical notation by showing comparisons with JavaScript code.
 
-- [2017-The Mathematics of Machine Learning](http://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-machine-learning): Despite the immense possibilities of Machine and Deep Learning, a thorough mathematical understanding of many of these techniques is necessary for a good grasp of the inner workings of the algorithms and getting good results.
+- [2017~The Mathematics of Machine Learning](http://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-machine-learning): Despite the immense possibilities of Machine and Deep Learning, a thorough mathematical understanding of many of these techniques is necessary for a good grasp of the inner workings of the algorithms and getting good results.
 
 # Resource
 

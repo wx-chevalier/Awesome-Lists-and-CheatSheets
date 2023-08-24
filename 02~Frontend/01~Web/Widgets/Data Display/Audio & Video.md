@@ -20,7 +20,7 @@
 
 - [APlayer](https://github.com/DIYgod/APlayer)
 
-- [2016-howler.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/goldfire/howler.js): howler.js is an audio library for the modern web. It defaults to Web Audio API and falls back to HTML5 Audio. This makes working with audio in JavaScript easy and reliable across all platforms.
+- [2016~howler.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/goldfire/howler.js): howler.js is an audio library for the modern web. It defaults to Web Audio API and falls back to HTML5 Audio. This makes working with audio in JavaScript easy and reliable across all platforms.
 
 # MicroPhone
 

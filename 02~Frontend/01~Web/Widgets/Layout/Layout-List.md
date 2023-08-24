@@ -12,7 +12,7 @@
 
 - [Simple-Grid ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ThisIsDallas/Simple-Grid): Basic Responsive Grid
 
-- [2017-Muuri ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/haltu/muuri): Muuri is a magical JavaScript layout engine that allows you to build all kinds of layouts and make them responsive, sortable, filterable, draggable and/or animated.
+- [2017~Muuri ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/haltu/muuri): Muuri is a magical JavaScript layout engine that allows you to build all kinds of layouts and make them responsive, sortable, filterable, draggable and/or animated.
 
 # Cascading Layout | 瀑布流布局
 

@@ -4,7 +4,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 # Overview
 
-- [2017-The beauty of Go](https://hackernoon.com/the-beauty-of-go-98057e3f0a7d): So if you’re an engineer or a startup trying to decide what language you want to explore or try out, do give Go a serious thought.
+- [2017~The beauty of Go](https://hackernoon.com/the-beauty-of-go-98057e3f0a7d): So if you’re an engineer or a startup trying to decide what language you want to explore or try out, do give Go a serious thought.
 
 - [2018~Golang 工程经验](https://juejin.im/post/5a6873fb518825733e60a1ae): 转战 Golang 一年有余，经历了两个线上项目的洗礼，总结出一些工程经验，一个是总结出一些实战经验，一个是用来发现自我不足之处。
 
@@ -38,15 +38,15 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2015-《The Go Programming Language》 📚](http://www.gopl.io/): This book is meant to help you start using Go effec tive ly rig ht away and to use it well, taking full advantage of Go’s langu age features and stand ard librar ies to write clear, idiomatic, and efficient programs. [中文译本地址](https://docs.hacknode.org/gopl-zh/)。
 
-- [2016-《Learning Go Programming》📚](https://parg.co/b21): An insightful guide to learning the Go programming language
+- [2016~《Learning Go Programming》📚](https://parg.co/b21): An insightful guide to learning the Go programming language
 
-- [2016-《Go Web 编程》📚](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/): Go web 编程是因为我喜欢 Web 编程,所以写了这本书,希望大家喜欢。English Version is [Build web application with Golang](https://legacy.gitbook.com/book/astaxie/build-web-application-with-golang/details).
+- [2016~《Go Web 编程》📚](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/): Go web 编程是因为我喜欢 Web 编程,所以写了这本书,希望大家喜欢。English Version is [Build web application with Golang](https://legacy.gitbook.com/book/astaxie/build-web-application-with-golang/details).
 
-- [2016-《深入解析 Go》📚](https://tiancaiamao.gitbooks.io/go-internals/content/zh/): 因为自己对 Go 底层的东西比较感兴趣，所以抽空在写一本开源的书籍《深入解析 Go》。写这本书不表示我能力很强，而是我愿意分享，和大家一起分享对 Go 语言的内部实现的一些研究。
+- [2016~《深入解析 Go》📚](https://tiancaiamao.gitbooks.io/go-internals/content/zh/): 因为自己对 Go 底层的东西比较感兴趣，所以抽空在写一本开源的书籍《深入解析 Go》。写这本书不表示我能力很强，而是我愿意分享，和大家一起分享对 Go 语言的内部实现的一些研究。
 
-- [2016-Webapp with Golang Anti Textbook》📚](https://drive.wps.cn/view/l/576006e7ef6c4c4e8fe19663ded5e944)
+- [2016~Webapp with Golang Anti Textbook》📚](https://drive.wps.cn/view/l/576006e7ef6c4c4e8fe19663ded5e944)
 
-- [2017-《Concurrency in Go 中文笔记》📚](https://www.kancloud.cn/mutouzhang/go/596804): 以希望大家能够了解并掌握有关 Go 中并发性的高质量、全面的信息：如何使用它，如何将最佳实践和模式整合到系统中，以及它们如何在所有系统中运行。我尽力在这些考量之间取得平衡。
+- [2017~《Concurrency in Go 中文笔记》📚](https://www.kancloud.cn/mutouzhang/go/596804): 以希望大家能够了解并掌握有关 Go 中并发性的高质量、全面的信息：如何使用它，如何将最佳实践和模式整合到系统中，以及它们如何在所有系统中运行。我尽力在这些考量之间取得平衡。
 
 - [2018~《Essential Go》📚](https://www.programming-books.io/essential/go/): a free Go programming book, a continuation of Stack Overflow Documentation.
 
@@ -90,7 +90,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [Awesome Go 🗃️](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software.
 
-- [2017-Golang Guide: A List of Top Golang Frameworks, IDEs & Tools 🗃️](https://parg.co/oGO)
+- [2017~Golang Guide: A List of Top Golang Frameworks, IDEs & Tools 🗃️](https://parg.co/oGO)
 
 - [2021~最全空降 Golang 资料补给包 🗃️](https://github.com/0voice/Introduction-to-Golang): 【未来服务器端编程语言】最全空降 golang 资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享 ppt
 
@@ -104,11 +104,11 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 ## Series
 
-- [2016-Go by Example #Series#](https://gobyexample.com/): Go by Example is a hands-on introduction to Go using annotated example programs. Check out the first example or browse the full list below.
+- [2016~Go by Example #Series#](https://gobyexample.com/): Go by Example is a hands-on introduction to Go using annotated example programs. Check out the first example or browse the full list below.
 
-- [2017-A tour of Go ![code](https://ng-tech.icu/assets/code.svg)](https://tour.golang.org/welcome/1): The tour is divided into a list of modules and interactive, These example programs demonstrate different aspects of Go. The programs in the tour are meant to be starting points for your own experimentation.
+- [2017~A tour of Go ![code](https://ng-tech.icu/assets/code.svg)](https://tour.golang.org/welcome/1): The tour is divided into a list of modules and interactive, These example programs demonstrate different aspects of Go. The programs in the tour are meant to be starting points for your own experimentation.
 
-- [2017-Golang tutorial series by GolangBot.com](https://golangbot.com/learn-golang-series/)
+- [2017~Golang tutorial series by GolangBot.com](https://golangbot.com/learn-golang-series/)
 
 - [2019~GolangTraining #Series#](https://github.com/GoesToEleven/GolangTraining): Training for Golang (go language)
 
@@ -132,9 +132,9 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2014-Go Start](https://github.com/alco/gostart): A getting started guide for Go newcomers
 
-- [2017-Go Tooling in Action](https://github.com/campoy/go-tooling-workshop): A workshop covering all the tools gophers use in their day to day life.
+- [2017~Go Tooling in Action](https://github.com/campoy/go-tooling-workshop): A workshop covering all the tools gophers use in their day to day life.
 
-- [2017-Golang command tutorial in Chinese.](https://github.com/hyper0x/go_command_tutorial)
+- [2017~Golang command tutorial in Chinese.](https://github.com/hyper0x/go_command_tutorial)
 
 - [2018~Learn go with tests](https://github.com/quii/learn-go-with-tests): Explore the Go language by writing tests.
 
@@ -142,7 +142,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2018~How to start a Go project in 2018](https://boyter.org/posts/how-to-start-go-project-2018/): Getting started with a Go project in 2018 is frankly a little more painful then getting anything else started IMHO.
 
-- [2017-The ultimate guide to writing a Go tool ·Fatih Arslan](https://arslan.io/2017/09/14/the-ultimate-guide-to-writing-a-go-tool/)
+- [2017~The ultimate guide to writing a Go tool ·Fatih Arslan](https://arslan.io/2017/09/14/the-ultimate-guide-to-writing-a-go-tool/)
 
 ## Example
 

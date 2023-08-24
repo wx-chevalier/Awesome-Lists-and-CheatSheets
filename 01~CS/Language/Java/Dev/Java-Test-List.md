@@ -10,7 +10,7 @@
 
 ## Junit 5
 
-- [2017-JUnit 5 简介 #Series#](https://parg.co/URs): 了解全新 JUnit Jupiter API 中的注解、断言和前置条件。
+- [2017~JUnit 5 简介 #Series#](https://parg.co/URs): 了解全新 JUnit Jupiter API 中的注解、断言和前置条件。
 
 - [JUnit 5 官方用户指南 #Series#](http://junit.org/junit5/docs/current/user-guide/)：中文译本参考[这里](https://sjyuan.cc/junit5/5.0.2/user-guide-cn/)。
 

@@ -8,7 +8,7 @@
 
 - [Koa11y ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/open-indy/Koa11y): Easily check for website accessibility issues.
 
-- [2017-Web Content Accessibility Guidelines—for People Who Haven't Read Them](https://24ways.org/2017/wcag-for-people-who-havent-read-them/): In a single article—what gifts the Web Content Accessibility Guidelines 2.0 editors have bestowed upon us.
+- [2017~Web Content Accessibility Guidelines—for People Who Haven't Read Them](https://24ways.org/2017/wcag-for-people-who-havent-read-them/): In a single article—what gifts the Web Content Accessibility Guidelines 2.0 editors have bestowed upon us.
 
 # Polyfill
 
@@ -32,7 +32,7 @@
 
 - [2013-Media Queries Are Not The Answer: Element Query Polyfill](https://www.smashingmagazine.com/2013/06/media-queries-are-not-the-answer-element-query-polyfill/)
 
-- [2016-Element Queries: the Future of Responsive Web Design](http://webdesign.tutsplus.com/tutorials/element-queries-the-future-of-responsive-web-design--cms-26945)
+- [2016~Element Queries: the Future of Responsive Web Design](http://webdesign.tutsplus.com/tutorials/element-queries-the-future-of-responsive-web-design--cms-26945)
 
 - [网易和淘宝移动 WEB 适配方案再分析](https://zhuanlan.zhihu.com/p/25216275)
 
@@ -60,7 +60,7 @@
 
 - [approaches-media-queries-sass](https://css-tricks.com/approaches-media-queries-sass/)
 
-- [2017-Media Queries Based on Element Width with MutationObserver](https://parg.co/UuJ)
+- [2017~Media Queries Based on Element Width with MutationObserver](https://parg.co/UuJ)
 
 # 响应式布局与缩放
 
@@ -68,7 +68,7 @@
 
 - [The future of layout with CSS: Grid Layouts](https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a#.abrk05o7z)
 
-- [2017-Common Responsive Layouts with CSS Grid (and some without!)](https://parg.co/U5S): Example code for you to try out, change and make your own.
+- [2017~Common Responsive Layouts with CSS Grid (and some without!)](https://parg.co/U5S): Example code for you to try out, change and make your own.
 
 ## 响应式尺寸
 

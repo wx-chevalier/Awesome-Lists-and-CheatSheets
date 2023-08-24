@@ -8,7 +8,7 @@
 
 - [Reactive Maps](https://github.com/appbaseio/reactivemaps):A React components library for building maps that update in realtime.
 
-- [2017-How I built a wind map with WebGL](https://frontendfoc.us/link/20435/cef8043de7): 2D wind simulation looked like a perfect opportunity — it’s useful, visually stunning, and challenging, yet it still felt attainable in scope.
+- [2017~How I built a wind map with WebGL](https://frontendfoc.us/link/20435/cef8043de7): 2D wind simulation looked like a perfect opportunity — it’s useful, visually stunning, and challenging, yet it still felt attainable in scope.
 
 # OpenSource
 

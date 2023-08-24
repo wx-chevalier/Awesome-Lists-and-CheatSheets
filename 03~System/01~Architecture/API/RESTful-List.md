@@ -28,7 +28,7 @@
 
 - [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9#.k60nd5hje) : The API is like an artist performing on stage, and its users are the audience
 
-- [2017-REST API — Back to Basics](https://restful.io/rest-api-back-to-basics-c64f282d972): In this post, I will try to address these issues by going back to the thesis of Roy Fielding’s dissertation Architectural Styles and the Designs of Network Based Architectures
+- [2017~REST API — Back to Basics](https://restful.io/rest-api-back-to-basics-c64f282d972): In this post, I will try to address these issues by going back to the thesis of Roy Fielding’s dissertation Architectural Styles and the Designs of Network Based Architectures
 
 - [Restful API 中的错误处理](http://scarletsky.github.io/2016/11/30/error-handling-in-restful-api/)
 

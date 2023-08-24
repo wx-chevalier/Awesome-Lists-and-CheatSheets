@@ -12,7 +12,7 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [2018~Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets): Useful cheatsheets with everything you should know in one single-file. 🚀
 
-- [2016-成为专业程序员路上用到的各种优秀资料、神器及框架](https://github.com/stanzhai/be-a-professional-programmer): 成为一名专业程序员的道路上，需要坚持练习、学习与积累，技术方面既要有一定的广度，更要有自己的深度。
+- [2016~成为专业程序员路上用到的各种优秀资料、神器及框架](https://github.com/stanzhai/be-a-professional-programmer): 成为一名专业程序员的道路上，需要坚持练习、学习与积累，技术方面既要有一定的广度，更要有自己的深度。
 
 - [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books): This list was originally a clone of stackoverflow - List of Freely Available Programming Books with contributions from Karan Bhangui and George Stocker.
 
@@ -48,7 +48,7 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 # Backend | 服务端应用程序
 
-- [2016-Back-End Developer Interview Questions](https://parg.co/UXF): A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
+- [2016~Back-End Developer Interview Questions](https://parg.co/UXF): A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 
 - [2018~后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 
@@ -56,7 +56,7 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [Comic For What is BackEnd Developer](https://consolia-comic.com/comics/back-end)
 
-- [2017-The non-techie’s guide to servers](https://parg.co/bDN)
+- [2017~The non-techie’s guide to servers](https://parg.co/bDN)
 
 - [awesome-architecture 🗃️](https://github.com/toutiaoio/awesome-architecture): 架构师技术图谱包括：分布式、前端、大数据、存储、微服务、推荐系统、框架、消息队列、编程语言、设计模式、重构、集群等内容。
 
@@ -66,7 +66,7 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 # Others
 
-- [2017-awesome-indie](https://github.com/mezod/awesome-indie): Resources to help independent developers make money.
+- [2017~awesome-indie](https://github.com/mezod/awesome-indie): Resources to help independent developers make money.
 
 - [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese): 在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，真心希望本指南能给你带来一点小小的帮助。
 
@@ -104,15 +104,15 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [2015-Papers We Love 🗃️](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
 
-- [2017-Awesome Creative Coding 🗃️](https://github.com/terkelg/awesome-creative-coding): Creative coding is a different discipline than programming systems in which the goal is to create something expressive instead of something functional. This is carefully curated list of awesome creative coding resources primarily for beginners/intermediates.
+- [2017~Awesome Creative Coding 🗃️](https://github.com/terkelg/awesome-creative-coding): Creative coding is a different discipline than programming systems in which the goal is to create something expressive instead of something functional. This is carefully curated list of awesome creative coding resources primarily for beginners/intermediates.
 
 - 博客集锦：[Over 2500 dev blogs dataset](https://github.com/abdelhai/devblogs)、[Awesome Dev Blog](https://github.com/abdelhai/awesome-dev-blogs)、[Software Engineering Blog](https://github.com/kilimchoi/engineering-blogs)
 
 - [One-Click-to-Be-Pro 🗃️](https://github.com/vic317yeh/One-Click-to-Be-Pro): 质量很高的优秀学习资源收集
 
-- [2016-dev-books 🗃️](http://www.dev-books.com/): analysed more than 40 000 000 questions and answers on stackoverflow.com to bring you the top of most mentioned books (5720 in total)
+- [2016~dev-books 🗃️](http://www.dev-books.com/): analysed more than 40 000 000 questions and answers on stackoverflow.com to bring you the top of most mentioned books (5720 in total)
 
-- [2017-Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [2017~Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 - [2022~小林 x 图解计算机基础 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/xiaolincoder/CS-Base): 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 
@@ -167,9 +167,9 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [2015-The Art Of Programming By July》📚](http://6me.us/oEiD): 编程之法：面试和算法心得
 
-- [2017-Mathematics for Computer Science》📚](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf):This text explains how to use mathematical models and methods to analyze problems that arise in computer science
+- [2017~Mathematics for Computer Science》📚](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf):This text explains how to use mathematical models and methods to analyze problems that arise in computer science
 
-- [2017-Software Foundations》📚](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html): This electronic book is a course on Software Foundations, the mathematical underpinnings of reliable software. Topics include basic concepts of logic, computer-assisted theorem proving, the Coq proof assistant, functional programming, operational semantics, Hoare logic, and static type systems.
+- [2017~Software Foundations》📚](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html): This electronic book is a course on Software Foundations, the mathematical underpinnings of reliable software. Topics include basic concepts of logic, computer-assisted theorem proving, the Coq proof assistant, functional programming, operational semantics, Hoare logic, and static type systems.
 
 - [Open Source Society University》📚](http://6me.us/eWa): This is a solid path for those of you who want to complete a Computer Science course on your own time, for free, with courses from the best universities in the World.
 
@@ -189,13 +189,13 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 
-- [2017-The Developer’s Edge: How To Become A Senior Developer](http://6me.us/h8Zcz): This article is for all the developers, coders, programmers out there who are looking to make a jump in their career after having had a few years in the industry (or you may be just starting out but would like to see the sort of path you have to go on).
+- [2017~The Developer’s Edge: How To Become A Senior Developer](http://6me.us/h8Zcz): This article is for all the developers, coders, programmers out there who are looking to make a jump in their career after having had a few years in the industry (or you may be just starting out but would like to see the sort of path you have to go on).
 
-- [2017-Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
+- [2017~Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
 
-- [2016-Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/):Note that the knowledge for each level is cumulative; being at level n implies that you also know everything from the levels lower than n.
+- [2016~Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/):Note that the knowledge for each level is cumulative; being at level n implies that you also know everything from the levels lower than n.
 
-- [2017-Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know): A collection of (mostly) technical things every software developer should know.
+- [2017~Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know): A collection of (mostly) technical things every software developer should know.
 
 # Awesome Guides
 

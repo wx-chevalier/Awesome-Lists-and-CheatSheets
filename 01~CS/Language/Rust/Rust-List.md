@@ -4,7 +4,7 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 # Overview
 
-- [2017-Deep drive into rust programming language](https://parg.co/UP1)
+- [2017~Deep drive into rust programming language](https://parg.co/UP1)
 
 - [2018~Why is Rust difficult?](https://vorner.github.io/difficult.html): Rust is considered difficult to learn by many people but I don’t consider it necessarily a bad thing for a language to be hard to learn.
 
@@ -40,13 +40,13 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [《Rust by Example》📚](https://rustbyexample.com/): Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
 
-- [2016-《Algorithm Cookbook in Rust》📚](https://github.com/EbTech/rust-algorithms): A collection of classic data structures and algorithms, emphasizing beauty and clarity over full generality.
+- [2016~《Algorithm Cookbook in Rust》📚](https://github.com/EbTech/rust-algorithms): A collection of classic data structures and algorithms, emphasizing beauty and clarity over full generality.
 
-- [2016-《Rust 101》📚](https://www.ralfj.de/projects/rust-101/main.html): This is Rust-101, a small tutorial for the Rust language. It is intended to be an interactive, hands-on course: I believe the only way to really learn a language is to write code in it, so you should be coding during the course.
+- [2016~《Rust 101》📚](https://www.ralfj.de/projects/rust-101/main.html): This is Rust-101, a small tutorial for the Rust language. It is intended to be an interactive, hands-on course: I believe the only way to really learn a language is to write code in it, so you should be coding during the course.
 
-- [2017-《Programming Rust》📚](https://parg.co/UPe): This practical book introduces systems programmers to Rust, the new and cutting-edge language. You’ll learn how Rust offers the rare and valuable combination of statically verified memory safety and low-level control—imagine C++, but without dangling pointers, null pointer dereferences, leaks, or buffer overruns.
+- [2017~《Programming Rust》📚](https://parg.co/UPe): This practical book introduces systems programmers to Rust, the new and cutting-edge language. You’ll learn how Rust offers the rare and valuable combination of statically verified memory safety and low-level control—imagine C++, but without dangling pointers, null pointer dereferences, leaks, or buffer overruns.
 
-- [2017-《Rust Essentials》-2nd》📚](https://parg.co/UPI): Leverage the functional programming and concurrency features of Rust and speed up your application development.
+- [2017~《Rust Essentials》-2nd》📚](https://parg.co/UPI): Leverage the functional programming and concurrency features of Rust and speed up your application development.
 
 - [2018-《Rust 语言圣经》📚](https://course.rs/into-rust.html): Rust 语言圣经涵盖从入门到精通所需的全部 Rust 知识，目录及内容都经过深思熟虑的设计，同时语言生动幽默，行文流畅自如，摆脱技术书籍常有的机器味和晦涩感。
 
@@ -55,6 +55,8 @@ This file aggregates curated popular links for learning Rust. More reference abo
 - [2022~《Zero To Production In Rust》📚](https://github.com/LukeMathWalker/zero-to-production): Zero To Production In Rust is an opinionated introduction to backend development using Rust.
 
 - [2022~《Rust 程序设计》📚](https://www.yuque.com/qyuhen/rust):
+
+- [2023-《Rust 语言圣经》📚 ![star](https://img.shields.io/github/stars/sunface/rust-course)](https://github.com/sunface/rust-course): “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust 语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有 JS 程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book
 
 - [2023~《The Rust Performance Book》📚](https://nnethercote.github.io/perf-book/introduction.html): This book contains many techniques that can improve the performance—speed and memory usage—of Rust programs. The Compile Times section also contains some techniques that will improve the compile times of Rust programs. Some techniques only require changing build configurations, but many require changing code.
 
@@ -70,17 +72,17 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 ## Courses
 
-- [TP 201: Practical Networked Applications in Rust 🎥](https://github.com/pingcap/talent-plan). A series of projects that incrementally develop a single Rust project from the ground up into a high-performance, networked, parallel and asynchronous key/value store. Along the way various real-world and practical Rust development subject matter are explored and discussed.
+- [《TP 201: Practical Networked Applications in Rust》🎥](https://github.com/pingcap/talent-plan). A series of projects that incrementally develop a single Rust project from the ground up into a high-performance, networked, parallel and asynchronous key/value store. Along the way various real-world and practical Rust development subject matter are explored and discussed.
 
-- [TP 202: Distributed Systems in Rust 🎥](https://github.com/pingcap/talent-plan/). Adapted from the [MIT 6.824](http://nil.csail.mit.edu/6.824/2017/index.html) distributed systems coursework, this course focuses on implementing important distributed algorithms, including the [Raft](https://raft.github.io/) consensus algorithm, and the [Percolator](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf) distributed transaction protocol.
+- [《TP 202: Distributed Systems in Rust》🎥](https://github.com/pingcap/talent-plan/). Adapted from the [MIT 6.824](http://nil.csail.mit.edu/6.824/2017/index.html) distributed systems coursework, this course focuses on implementing important distributed algorithms, including the [Raft](https://raft.github.io/) consensus algorithm, and the [Percolator](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf) distributed transaction protocol.
 
-- [2022~Comprehensive Rust 🎥](https://google.github.io/comprehensive-rust/welcome.html): This is a four day Rust course developed by the Android team. The course covers the full spectrum of Rust, from basic syntax to advanced topics like generics and error handling. It also includes Android-specific content on the last day.
+- [2022~《Comprehensive Rust》🎥](https://google.github.io/comprehensive-rust/welcome.html): This is a four day Rust course developed by the Android team. The course covers the full spectrum of Rust, from basic syntax to advanced topics like generics and error handling. It also includes Android-specific content on the last day.
 
-- [2022~Rust 101 🎥](https://github.com/tweedegolf/101-rs): Rust 101 is a university course for computer science students, introducing the Rust Programming Language, and is available for anyone who wants to teach Rust.
+- [2022~《Rust 101》🎥](https://github.com/tweedegolf/101-rs): Rust 101 is a university course for computer science students, introducing the Rust Programming Language, and is available for anyone who wants to teach Rust.
 
 ## CheatSheet
 
-- [2017-Rust CheatSheet](http://phaiax.github.io/rust-cheatsheet/)
+- [2017~Rust CheatSheet](http://phaiax.github.io/rust-cheatsheet/)
 
 - [2019~Five minutes Rust](https://github.com/ankur-anand/five-min-rust): Rust concise 5 Minutes cheat-sheet for each concepts.
 

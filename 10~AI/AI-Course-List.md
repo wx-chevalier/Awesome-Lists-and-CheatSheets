@@ -26,11 +26,11 @@
 
 - [2015-Udacity-Intro to Artificial Intelligence 🎥](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271): In this course, you’ll learn the basics of modern AI as well as some of the representative applications of AI. Along the way, we also hope to excite you about the numerous applications and huge possibilities in the field of AI, which continues to expand human capability beyond our imagination.
 
-- [2016-台大机器学习技法 🎥](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2): Linear Support Vector Machine (SVM)::Course Introduction @ Machine Learning Techniques, etc.
+- [2016~台大机器学习技法 🎥](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2): Linear Support Vector Machine (SVM)::Course Introduction @ Machine Learning Techniques, etc.
 
-- [2017-EdX-Artificial Intelligence (AI) 🎥](https://parg.co/Y64): Learn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems.
+- [2017~EdX-Artificial Intelligence (AI) 🎥](https://parg.co/Y64): Learn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems.
 
-- [2017-Advanced Machine Learning 🎥](https://www.coursera.org/specializations/aml?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-TzFMe90rgoVoC7rrHct37A&siteID=OyHlmBp2G0c-TzFMe90rgoVoC7rrHct37A&utm_content=2&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c): Deep Dive Into The Modern AI Techniques. You will teach computer to see, draw, read, talk, play games and solve industry problems.
+- [2017~Advanced Machine Learning 🎥](https://www.coursera.org/specializations/aml?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-TzFMe90rgoVoC7rrHct37A&siteID=OyHlmBp2G0c-TzFMe90rgoVoC7rrHct37A&utm_content=2&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c): Deep Dive Into The Modern AI Techniques. You will teach computer to see, draw, read, talk, play games and solve industry problems.
 
 - [2018~Machine Learning Crash Course with TensorFlow APIs by Google 🎥](https://developers.google.com/machine-learning/crash-course/): Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.
 
@@ -50,11 +50,11 @@
 
 # Deep Learning
 
-- [2016-Deep Learning by Google 🎥](https://parg.co/Y6N): In this course, you’ll develop a clear understanding of the motivation for deep learning, and design intelligent systems that learn from complex and/or large-scale datasets.
+- [2016~Deep Learning by Google 🎥](https://parg.co/Y6N): In this course, you’ll develop a clear understanding of the motivation for deep learning, and design intelligent systems that learn from complex and/or large-scale datasets.
 
-- [2017-CS 20SI: TensorFlow for Deep Learning Research 🎥](https://web.stanford.edu/class/cs20si/): This course will cover the fundamentals and contemporary usage of the TensorFlow library for deep learning research. We aim to help students understand the graphical computational model of TensorFlow, explore the functions it has to offer, and learn how to build and structure models best suited for a deep learning project.
+- [2017~CS 20SI: TensorFlow for Deep Learning Research 🎥](https://web.stanford.edu/class/cs20si/): This course will cover the fundamentals and contemporary usage of the TensorFlow library for deep learning research. We aim to help students understand the graphical computational model of TensorFlow, explore the functions it has to offer, and learn how to build and structure models best suited for a deep learning project.
 
-- [2017-Fast.ai DeepLearning AI 🎥](https://github.com/fastai/fastai): Most of the library is quite well tested since many students have used it to complete the Practical Deep Learning for Coders course. However it hasn't been widely used yet outside of the course, so you may find some missing features or rough edges. [Personal notes](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197) can be found here; 关联的课件、代码等资源可以查看[这里](https://github.com/sjtu-medialab/DeepLearning-IntroductionCourse)。
+- [2017~Fast.ai DeepLearning AI 🎥](https://github.com/fastai/fastai): Most of the library is quite well tested since many students have used it to complete the Practical Deep Learning for Coders course. However it hasn't been widely used yet outside of the course, so you may find some missing features or rough edges. [Personal notes](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197) can be found here; 关联的课件、代码等资源可以查看[这里](https://github.com/sjtu-medialab/DeepLearning-IntroductionCourse)。
 
 - [2018~Deep Learning Specialization 🎥](https://www.deeplearning.ai/courses/): Deep Learning is transforming multiple industries. This five-course specialization will help you understand Deep Learning fundamentals, apply them, and build a career in AI.
 
@@ -76,13 +76,13 @@
 
 # NLP | 自然语言处理
 
-- [2016-University of Illinois at Urbana-Champaign:Text Mining and Analytics 🎥](https://zh.coursera.org/learn/text-mining): This course will cover the major techniques for mining and analyzing text data to discover interesting patterns, extract useful knowledge, and support decision making, with an emphasis on statistical approaches that can be generally applied to arbitrary text data in any natural language with no or minimum human effort.
+- [2016~University of Illinois at Urbana-Champaign:Text Mining and Analytics 🎥](https://zh.coursera.org/learn/text-mining): This course will cover the major techniques for mining and analyzing text data to discover interesting patterns, extract useful knowledge, and support decision making, with an emphasis on statistical approaches that can be generally applied to arbitrary text data in any natural language with no or minimum human effort.
 
-- [2017-Neural Networks for Machine Learning 🎥](https://www.coursera.org/learn/neural-networks): Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc.
+- [2017~Neural Networks for Machine Learning 🎥](https://www.coursera.org/learn/neural-networks): Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc.
 
-- [2017-Oxford Deep NLP course 🎥](https://github.com/oxford-cs-deepnlp-2017/lectures): This is an advanced course on natural language processing. Automatically processing natural language inputs and producing language outputs is a key component of Artificial General Intelligence.
+- [2017~Oxford Deep NLP course 🎥](https://github.com/oxford-cs-deepnlp-2017/lectures): This is an advanced course on natural language processing. Automatically processing natural language inputs and producing language outputs is a key component of Artificial General Intelligence.
 
-- [2017-CS224d: Deep Learning for Natural Language Processing 🎥](http://cs224d.stanford.edu/syllabus.html): Intro to NLP and Deep Learning, Simple Word Vector representations: word2vec, GloVe, etc.
+- [2017~CS224d: Deep Learning for Natural Language Processing 🎥](http://cs224d.stanford.edu/syllabus.html): Intro to NLP and Deep Learning, Simple Word Vector representations: word2vec, GloVe, etc.
 
 - [2018~CS 4650 and 7650 🎥](https://github.com/jacobeisenstein/gt-nlp-class): Course materials for Georgia Tech CS 4650 and 7650, "Natural Language".
 
@@ -90,7 +90,7 @@
 
 ## Autonomous Driving | 自动驾驶
 
-- [2017-Artificial Intelligence for Robotics 🎥](https://www.class-central.com/course/udacity-artificial-intelligence-for-robotics-319): Learn how to program all the major systems of a robotic car from the leader of Google and Stanford's autonomous driving teams.
+- [2017~Artificial Intelligence for Robotics 🎥](https://www.class-central.com/course/udacity-artificial-intelligence-for-robotics-319): Learn how to program all the major systems of a robotic car from the leader of Google and Stanford's autonomous driving teams.
 
 - [A self driving toy car using end-to-end learning ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/experiencor/self-driving-toy-car): To make a lane follower based on a standard RC car using Raspberry Pi and a camera. The software is a simple Convolutional Network, which takes in the image fetched from the camera and outputs the steering angle.
 

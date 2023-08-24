@@ -22,7 +22,7 @@
 
 # Live
 
-- [2017-video streaming service ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tabvn/video-streaming-service): Build Live Video Streaming Server use Ffmpeg Nginx Rtmp Module & Nodejs
+- [2017~video streaming service ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tabvn/video-streaming-service): Build Live Video Streaming Server use Ffmpeg Nginx Rtmp Module & Nodejs
 
 - [LiveGo ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/gwuhaolin/livego): 纯 Go 写的直播服务器
 

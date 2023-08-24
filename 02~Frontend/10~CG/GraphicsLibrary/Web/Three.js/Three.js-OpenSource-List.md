@@ -38,9 +38,9 @@
 
 - [three-geometry-welder ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/0xAxiome/three-geometry-welder): A customizable way of merging your buffer geometry
 
-- [2017-geometry-extrude ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/pissang/geometry-extrude)](https://github.com/pissang/geometry-extrude): A small and fast JavaScript library for extruding 2D polygons and polylines to 3D meshes. It depends on earcut to do triangulation.
+- [2017~geometry-extrude ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/pissang/geometry-extrude)](https://github.com/pissang/geometry-extrude): A small and fast JavaScript library for extruding 2D polygons and polylines to 3D meshes. It depends on earcut to do triangulation.
 
-- [2017-three.bas ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/zadvorsky/three.bas)](https://github.com/zadvorsky/three.bas): THREE Buffer Animation System is an extension for THREE.js. It simplifies the workflow of extending the built-in THREE.js materials to include animation logic in the vertex shader. For an overview of this approach, check out this tutorial series.
+- [2017~three.bas ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/zadvorsky/three.bas)](https://github.com/zadvorsky/three.bas): THREE Buffer Animation System is an extension for THREE.js. It simplifies the workflow of extending the built-in THREE.js materials to include animation logic in the vertex shader. For an overview of this approach, check out this tutorial series.
 
 - [2018~threejs-mesh-modifiers ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/drawcall/threejs-mesh-modifiers)](https://github.com/drawcall/threejs-mesh-modifiers): A Three.js mesh morph modifier, including nearly ten modifiers, such as Bend, Bloat, Noise, Skew and Taper, etc. It is very lightweight and simple to use, using it can give you unexpected results.
 
@@ -58,7 +58,7 @@
 
 ## Controllers
 
-- [2017-three.interaction.js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jasonChen1982/three.interaction.js)](https://github.com/jasonChen1982/three.interaction.js): three.js interaction toolkit, help you built an interaction event-system for three.js, binding interaction event like browser-dom.
+- [2017~three.interaction.js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jasonChen1982/three.interaction.js)](https://github.com/jasonChen1982/three.interaction.js): three.js interaction toolkit, help you built an interaction event-system for three.js, binding interaction event like browser-dom.
 
 - [2021~camera-controls ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/yomotsu/camera-controls)](https://github.com/yomotsu/camera-controls): A camera control for three.js, similar to THREE.OrbitControls yet supports smooth transitions and more features.
 
@@ -74,7 +74,7 @@
 
 ### Text
 
-- [2017-three-spritetext ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/vasturiano/three-spritetext)](https://github.com/vasturiano/three-spritetext): A sprite based text component for ThreeJS. The text is drawn to canvas, converted into a Texture and then used as a material on a Sprite. Because a sprite is being used, the text will always face the camera, and has its orientation fixed relative to the camera.
+- [2017~three-spritetext ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/vasturiano/three-spritetext)](https://github.com/vasturiano/three-spritetext): A sprite based text component for ThreeJS. The text is drawn to canvas, converted into a Texture and then used as a material on a Sprite. Because a sprite is being used, the text will always face the camera, and has its orientation fixed relative to the camera.
 
 ### Line
 

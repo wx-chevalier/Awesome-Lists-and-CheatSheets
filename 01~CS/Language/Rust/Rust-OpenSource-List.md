@@ -64,7 +64,7 @@
 
 ## Concurrency
 
-- [2017-actix ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/actix/actix): Actor framework for Rust.
+- [2017~actix ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/actix/actix): Actor framework for Rust.
 
 - [2019~tokio ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tokio-rs/tokio): A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 

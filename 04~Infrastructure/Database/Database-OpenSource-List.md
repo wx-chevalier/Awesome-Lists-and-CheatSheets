@@ -6,9 +6,9 @@
 
 - [MiniDataBase ![code](https://ng-tech.icu/assets/code.svg) #Scratch#](https://github.com/msdeep14/MiniDataBase): A simple Relational Database using B+ Tree Index.
 
-- [2016-chidb ![code](https://ng-tech.icu/assets/code.svg)](https://people.cs.uchicago.edu/~adamshaw/papers/sigcse2016-chidb.pdf): Building a Simple Relational Database System from Scratch.
+- [2016~chidb ![code](https://ng-tech.icu/assets/code.svg)](https://people.cs.uchicago.edu/~adamshaw/papers/sigcse2016-chidb.pdf): Building a Simple Relational Database System from Scratch.
 
-- [2017-SimpleDB ![code](https://ng-tech.icu/assets/code.svg) #Scratch#](https://github.com/iamxpy/SimpleDB): UC Berkeley's Database class CS186: Implement A Simple Database Management System.
+- [2017~SimpleDB ![code](https://ng-tech.icu/assets/code.svg) #Scratch#](https://github.com/iamxpy/SimpleDB): UC Berkeley's Database class CS186: Implement A Simple Database Management System.
 
 - [Database basics: writing a SQL database from scratch in Go #Series# #Scratch#](https://notes.eatonphil.com/database-basics.html): In this series we'll write a rudimentary database from scratch in Go.
 
@@ -40,7 +40,7 @@
 
 ## Timeseries
 
-- [2017-Writing a Time Series Database from Scratch](https://fabxc.org/tsdb/): While the current storage has served us well, I propose a newly designed storage subsystem that corrects for shortcomings of the existing solution and is equipped to handle the next order of scale.
+- [2017~Writing a Time Series Database from Scratch](https://fabxc.org/tsdb/): While the current storage has served us well, I propose a newly designed storage subsystem that corrects for shortcomings of the existing solution and is equipped to handle the next order of scale.
 
 - [2021~mandodb ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/chenjiandongx/mandodb): 🤔 A minimize Time Series Database, written from scratch as a learning project. 从零开始实现一个 TSDB
 
@@ -76,7 +76,7 @@
 
 - [2014-sqlpad ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rickbergfalk/sqlpad): Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, Presto, SAP HANA, and Cassandra.
 
-- [2016-Falcon ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/plotly/falcon): Free, open-source SQL client for Windows and Mac 🦅
+- [2016~Falcon ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/plotly/falcon): Free, open-source SQL client for Windows and Mac 🦅
 
 - [2022~SQL Father ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/liyupi/sql-father-backend-public): 快速生成 SQL 和模拟数据的网站（Java 后端），大幅提高开发测试效率！by 程序员鱼皮
 
@@ -100,7 +100,7 @@
 
 ### Audit（审核平台）
 
-- [2017-SQLAdvisor ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Meituan-Dianping/SQLAdvisor): SQLAdvisor 是由美团点评公司技术工程部 DBA 团队(北京)开发维护的一个分析 SQL 给出索引优化建议的工具。它基于 MySQL 原生态词法解析，结合分析 SQL 中的 where 条件、聚合条件、多表 Join 关系 给出索引优化建议。目前 SQLAdvisor 在美团点评内部广泛应用，公司内部对 SQLAdvisor 的开发全面转到 github 上，开源和内部使用保持一致。
+- [2017~SQLAdvisor ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Meituan-Dianping/SQLAdvisor): SQLAdvisor 是由美团点评公司技术工程部 DBA 团队(北京)开发维护的一个分析 SQL 给出索引优化建议的工具。它基于 MySQL 原生态词法解析，结合分析 SQL 中的 where 条件、聚合条件、多表 Join 关系 给出索引优化建议。目前 SQLAdvisor 在美团点评内部广泛应用，公司内部对 SQLAdvisor 的开发全面转到 github 上，开源和内部使用保持一致。
 
 - [2019~Yearning ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/cookieY/Yearning): MYSQL 开源 SQL 语句审核平台。
 
@@ -144,7 +144,7 @@
 
 - [Atlas ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Qihoo360/Atlas): A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team.
 
-- [2017-Vitess ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vitessio/vitess): Vitess is a database clustering system for horizontal scaling of MySQL.
+- [2017~Vitess ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vitessio/vitess): Vitess is a database clustering system for horizontal scaling of MySQL.
 
 - [2019~Gaea ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/XiaoMi/Gaea): Gaea is a mysql proxy, it's developed by xiaomi b2c-systech team.
 
@@ -182,7 +182,7 @@
 
 - [2013-InfluxDB ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/influxdata/influxdb): InfluxDB is an open source time series database with no external dependencies. It's useful for recording metrics, events, and performing analytics.
 
-- [2017-timescaledb ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/timescale/timescaledb/): An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.
+- [2017~timescaledb ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/timescale/timescaledb/): An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.
 
 - [2018~M3 monorepo ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/m3db/m3): Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Metrics Platform
 

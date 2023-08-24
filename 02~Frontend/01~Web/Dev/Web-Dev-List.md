@@ -12,4 +12,4 @@
 
 - [2019~CodeSandbox 是如何让 npm 上的包直接在浏览器端运行的](https://mp.weixin.qq.com/s/mQ0yvwrVMf5d4oRKudbi3A): 这里已经有一篇文章来介绍 CodeSandbox 的整体实现：CodeSandbox 浏览器端的 webpack 是如何工作的？上篇 但是这篇写的是 CodeSandbox 整个实现历程中中间的一个实现态，并非最终的架构方案。我们基于作者的原文来看下 CodeSandbox 的实现心路历程。
 
-- [2017-基于 webpack 打造前端在线编译器](https://www.jianshu.com/p/8eb175be0774): 两者综合起来就是一个针对前端开发者的在线开发平台，类似于 codepen，只是我们需要更好的将其集成到当前的网站中来。
+- [2017~基于 webpack 打造前端在线编译器](https://www.jianshu.com/p/8eb175be0774): 两者综合起来就是一个针对前端开发者的在线开发平台，类似于 codepen，只是我们需要更好的将其集成到当前的网站中来。

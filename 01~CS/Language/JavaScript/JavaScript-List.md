@@ -6,23 +6,23 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 ## JavaScript History
 
-- [2017-A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/): We take a look at the evolution of JavaScript, arguably one of the most important languages of today, and tomorrow
+- [2017~A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/): We take a look at the evolution of JavaScript, arguably one of the most important languages of today, and tomorrow
 
-- [2017-JavaScript — A First-Class Language At Last](https://hackernoon.com/javascript-a-first-class-language-at-last-209376f69731): As a JavaScript engineer, I wanted to dig deeper into the public perception of the language and how rooted in reality it is. What I found is that some criticisms hold water, but many do not.
+- [2017~JavaScript — A First-Class Language At Last](https://hackernoon.com/javascript-a-first-class-language-at-last-209376f69731): As a JavaScript engineer, I wanted to dig deeper into the public perception of the language and how rooted in reality it is. What I found is that some criticisms hold water, but many do not.
 
 ## CheatSheet | 语法速览
 
-- [2017-JavaScript 核心概念归纳整理](https://mp.weixin.qq.com/s/I7A1iC8Et6uOGZ234DsTlA)：本文针对 JavaScript 语言的核心概念进行简单的梳理，对应的每个知识点仅仅点到为止，不作详细介绍。目的是为了方便大家快速审查自己对 JavaScript 的知识结构是否完善，如有遗漏或不正确的地方，还望批评指正。
+- [2017~JavaScript 核心概念归纳整理](https://mp.weixin.qq.com/s/I7A1iC8Et6uOGZ234DsTlA)：本文针对 JavaScript 语言的核心概念进行简单的梳理，对应的每个知识点仅仅点到为止，不作详细介绍。目的是为了方便大家快速审查自己对 JavaScript 的知识结构是否完善，如有遗漏或不正确的地方，还望批评指正。
 
-- [2017-Writing modern JavaScript code](https://dev.to/scastiel/writing-modern-javascript-code): I'll try here to list some good practices to make your JavaScript code easier to write, read and maintain.
+- [2017~Writing modern JavaScript code](https://dev.to/scastiel/writing-modern-javascript-code): I'll try here to list some good practices to make your JavaScript code easier to write, read and maintain.
 
-- [2017-What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs#-is-equal-): A list of funny and tricky JavaScript examples
+- [2017~What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs#-is-equal-): A list of funny and tricky JavaScript examples
 
-- [2017-Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet): This document is a cheatsheet for JavaScript you will frequently encounter in modern projects and most contemporary sample code.
+- [2017~Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet): This document is a cheatsheet for JavaScript you will frequently encounter in modern projects and most contemporary sample code.
 
-- [2017-The Definitive JavaScript Handbook for a developer interview ](https://parg.co/UZS)
+- [2017~The Definitive JavaScript Handbook for a developer interview ](https://parg.co/UZS)
 
-- [2017-30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code): Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
+- [2017~30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code): Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
 
 # Resource | 资料集锦
 
@@ -32,7 +32,7 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [JavaScript-Garden](http://bonsaiden.github.io/JavaScript-Garden/): JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes and subtle bugs, as well as performance issues and bad practices, that non-expert JavaScript programmers may encounter on their endeavours into the depths of the language.
 
-- [2017-Must-Watch JavaScript ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/U37): This is a collection of well-received talks about JavaScript, covering topics such as ES6, JavaScript frameworks, client-side apps, mobile integration, JavaScript performance, tooling, leveling up, and more.
+- [2017~Must-Watch JavaScript ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/U37): This is a collection of well-received talks about JavaScript, covering topics such as ES6, JavaScript frameworks, client-side apps, mobile integration, JavaScript performance, tooling, leveling up, and more.
 
 ## Books
 
@@ -42,9 +42,9 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [2015-Exploring ES6》📚](http://exploringjs.com/es6/index.html): Upgrade to the next version of JavaScript
 
-- [2017-The Modern JavaScript Tutorial》📚](https://javascript.info/): How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+- [2017~The Modern JavaScript Tutorial》📚](https://javascript.info/): How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 
-- [2017-The JavaScript Wa》📚](https://github.com/bpesquet/thejsway): A modern introduction to an essential language.
+- [2017~The JavaScript Wa》📚](https://github.com/bpesquet/thejsway): A modern introduction to an essential language.
 
 - [Modern JavaScript Tutorial》📚](https://github.com/iliakan/javascript-tutorial-en): How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 
@@ -86,19 +86,19 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html): This book is about two versions of JavaScript: ECMAScript 2018 and ECMAScript 2019.
 
-- [2017-To type or not to type: quantifying detectable bugs in JavaScript](https://parg.co/bwX)
+- [2017~To type or not to type: quantifying detectable bugs in JavaScript](https://parg.co/bwX)
 
-- [2017-Javascript closures explained in depth](https://weeklywebwisdom.com/2017/09/24/javascript-closures-explained-in-depth/)
+- [2017~Javascript closures explained in depth](https://weeklywebwisdom.com/2017/09/24/javascript-closures-explained-in-depth/)
 
 - [6 Simple Tips on How to Start Writing Clean Code](https://parg.co/UlR)
 
 - [2015-ES6 Promises](http://www.datchley.name/es6-promises/): there is a better pattern using Promises, which give us much more than just an escape from callback hell.
 
-- [2017-How to write clean code for cascaded promises](https://hackernoon.com/how-to-write-clean-code-for-cascaded-promises-809de5b950fd): An in-depth guide about working with Interdependent Promises
+- [2017~How to write clean code for cascaded promises](https://hackernoon.com/how-to-write-clean-code-for-cascaded-promises-809de5b950fd): An in-depth guide about working with Interdependent Promises
 
-- [2017-Promise error handling in-depth](https://codeburst.io/promise-error-handling-in-depth-90b0965149c0): This blog is written in Q and A form and targeting those who are looking for the answers.
+- [2017~Promise error handling in-depth](https://codeburst.io/promise-error-handling-in-depth-90b0965149c0): This blog is written in Q and A form and targeting those who are looking for the answers.
 
-- [2017-js-bits #Series#](https://github.com/vasanthk/js-bits): JavaScript concepts explained with code.
+- [2017~js-bits #Series#](https://github.com/vasanthk/js-bits): JavaScript concepts explained with code.
 
 - [2019~30DaysOfJavaScript #Series#](https://github.com/Asabeneh/30DaysOfJavaScript): A 30 days of JavaScript programming challenge.
 
@@ -110,13 +110,13 @@ This file aggregates curated popular links for learning JavaScript. More referen
 
 - [Modern JavaScript cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet): This document is a cheatsheet for JavaScript you will frequently encounter in modern projects and in most contemporary sample code.
 
-- [2017-A Brief, Incomplete History of JavaScript](https://closebrace.com/articles/2017-09-11/a-brief-incomplete-history-of-javascript): Where did we start, where are we now, how did we get here, and why?
+- [2017~A Brief, Incomplete History of JavaScript](https://closebrace.com/articles/2017-09-11/a-brief-incomplete-history-of-javascript): Where did we start, where are we now, how did we get here, and why?
 
-- [2017-Modern JavaScript Explained For Dinosaurs](https://parg.co/UAf): The ecosystem is growing and changing so rapidly that it’s hard to understand the problems that different tools are trying to solve.
+- [2017~Modern JavaScript Explained For Dinosaurs](https://parg.co/UAf): The ecosystem is growing and changing so rapidly that it’s hard to understand the problems that different tools are trying to solve.
 
-- [2017-What’s the difference between JavaScript and ECMAScript?](https://parg.co/USa): This article represents my current understanding of the differences between JavaScript and ECMAScript.
+- [2017~What’s the difference between JavaScript and ECMAScript?](https://parg.co/USa): This article represents my current understanding of the differences between JavaScript and ECMAScript.
 
-- [2017-Everything I learned from #Javascript30](https://medium.com/craft-academy/everything-i-learned-from-javascript30-d8d2db246b7?source=userActivityShare-fe48c4221a4c-1488448383).
+- [2017~Everything I learned from #Javascript30](https://medium.com/craft-academy/everything-i-learned-from-javascript30-d8d2db246b7?source=userActivityShare-fe48c4221a4c-1488448383).
 
 - [Glossary of Modern JavaScript](https://auth0.com/blog/glossary-of-modern-javascript-concepts/): In this article, we'll address concepts that are crucial to understanding functional programming, reactive programming, and functional reactive programming and their use with JavaScript.
 

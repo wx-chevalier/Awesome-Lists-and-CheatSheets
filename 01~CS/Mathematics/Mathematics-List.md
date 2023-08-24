@@ -25,11 +25,11 @@
 
 - [2013-《2013-Everything You Always Wanted To Know About Mathematics》📚](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf): A Guided Journey Into the World of Abstract Mathematics and the Writing of Proofs
 
-- [2016-《Immersive Linear Algebra》📚](http://immersivemath.com/ila/index.html): The World's First Linear Algeria Book with fully Interactive Figures.
+- [2016~《Immersive Linear Algebra》📚](http://immersivemath.com/ila/index.html): The World's First Linear Algeria Book with fully Interactive Figures.
 
-- [2017-《The Mathematics of Machine Learning》📚](http://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-machine-learning): Machine Learning theory is a field that intersects statistical, probabilistic, computer science and algorithmic aspects arising from learning iteratively from data and finding hidden insights which can be used to build intelligent applications. Despite the immense possibilities of Machine and Deep Learning, a thorough mathematical understanding of many of these techniques is necessary for a good grasp of the inner workings of the algorithms and getting good results.
+- [2017~《The Mathematics of Machine Learning》📚](http://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-machine-learning): Machine Learning theory is a field that intersects statistical, probabilistic, computer science and algorithmic aspects arising from learning iteratively from data and finding hidden insights which can be used to build intelligent applications. Despite the immense possibilities of Machine and Deep Learning, a thorough mathematical understanding of many of these techniques is necessary for a good grasp of the inner workings of the algorithms and getting good results.
 
-- [2017-G. Casella-《An Introduction to Statistical Learning》📚](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf): This book is appropriate for advanced undergraduates or master’s students in statistics or related quantitative fields or for individuals in otherdisciplines who wish to use statistical learning tools to analyze their data.
+- [2017~G. Casella-《An Introduction to Statistical Learning》📚](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf): This book is appropriate for advanced undergraduates or master’s students in statistics or related quantitative fields or for individuals in otherdisciplines who wish to use statistical learning tools to analyze their data.
 
 - [2018~《AI 算法工程师手册》📚](http://www.huaxiaozhuan.com/): 这是作者多年以来学习总结的笔记，经整理之后开源于世。目前还有约一半的内容在陆续整理中，已经整理好的内容放置在此。
 

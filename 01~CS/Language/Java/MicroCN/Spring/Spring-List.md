@@ -28,7 +28,7 @@
 
 # Tutorial
 
-- [2017-Docker Spring Boot Microservice (with Gradle)](https://parg.co/bhg): Step-by-step tutorial on how to create a Spring Boot Microservice and wrap it up using Docker for simple, better and safer deployments of redundant APIs.
+- [2017~Docker Spring Boot Microservice (with Gradle)](https://parg.co/bhg): Step-by-step tutorial on how to create a Spring Boot Microservice and wrap it up using Docker for simple, better and safer deployments of redundant APIs.
 
 - [Spring Boot and Security Events with Actuator](http://blog.codeleak.pl/2017/03/spring-boot-and-security-events-with-actuator.html)
 

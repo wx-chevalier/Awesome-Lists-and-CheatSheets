@@ -4,9 +4,9 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 # Component | 组件
 
-- [2017-How Pure CSS Images Helped Me Understand React Components](https://parg.co/bL6): How did I overcome impostor syndrome and finally learn React? There are a few reasons but one of the most significant ones was learning how to make pure CSS images.
+- [2017~How Pure CSS Images Helped Me Understand React Components](https://parg.co/bL6): How did I overcome impostor syndrome and finally learn React? There are a few reasons but one of the most significant ones was learning how to make pure CSS images.
 
-- [2017-Convert React.createClass to ES6 Class](https://daveceddia.com/convert-createclass-to-es6-class/): As of React 15.5, createClass is deprecated. You’ll get warnings in the console if you’re using it in your code – and, when React 16 comes out, createClass will be removed entirely.
+- [2017~Convert React.createClass to ES6 Class](https://daveceddia.com/convert-createclass-to-es6-class/): As of React 15.5, createClass is deprecated. You’ll get warnings in the console if you’re using it in your code – and, when React 16 comes out, createClass will be removed entirely.
 
 ## Syntax | 组件语法
 
@@ -14,13 +14,13 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 * JSX: [JSX Specification](https://facebook.github.io/jsx/), [JSX In Depth](https://facebook.github.io/react/docs/jsx-in-depth.html), [Conditional Rendering](http://reactpatterns.com/#conditional-rendering), [2015-WTF is JSX](https://jasonformat.com/wtf-is-jsx/)
 
-- [2016-React Elements and React Components](https://medium.freecodecamp.com/react-elements-vs-react-components-fdc776705880#.nlfh4ingc)
+- [2016~React Elements and React Components](https://medium.freecodecamp.com/react-elements-vs-react-components-fdc776705880#.nlfh4ingc)
 
 ## LifeCycle
 
-- [2017-React’s Component Lifecycles](https://medium.com/mofed/reacts-component-lifecycles-adf0ebc89d23#.79hd0xcxd)
+- [2017~React’s Component Lifecycles](https://medium.com/mofed/reacts-component-lifecycles-adf0ebc89d23#.79hd0xcxd)
 
-- [2017-React Lifecycle Methods- how and when to use them](https://parg.co/bCT): The above is the life of a React component, from birth (pre-mounting) and death (unmounting).
+- [2017~React Lifecycle Methods- how and when to use them](https://parg.co/bCT): The above is the life of a React component, from birth (pre-mounting) and death (unmounting).
 
 ## Error Boundary
 
@@ -40,7 +40,7 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 ## State
 
-- [2017-Atomic SetState Updates in React](https://alligator.io/react/getting-atomic-updates-with-setstate)
+- [2017~Atomic SetState Updates in React](https://alligator.io/react/getting-atomic-updates-with-setstate)
 
 - [2018~ReactStateMuseum](https://github.com/GantMan/ReactStateMuseum): A whirlwind tour of React state management systems by example.
 
@@ -72,21 +72,21 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 - [A 5 Minute Intro To Styled Components](https://medium.freecodecamp.com/a-5-minute-intro-to-styled-components-41f40eb7cd55)
 
-- [2017-Embracing the power of styled-components](https://parg.co/bID): What we learned in the first week moving away from CSS Modules.
+- [2017~Embracing the power of styled-components](https://parg.co/bID): What we learned in the first week moving away from CSS Modules.
 
-- [2017-styled-media-query ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/morajabi/styled-media-query): Beautiful media queries better than CSS @media for styled-components with ability to specify custom breakpoints.
+- [2017~styled-media-query ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/morajabi/styled-media-query): Beautiful media queries better than CSS @media for styled-components with ability to specify custom breakpoints.
 
-- [2017-Jest Styled Components ![code](https://ng-tech.icu/assets/code.svg) ](https://parg.co/b1D): A set of utilities for testing Styled Components with Jest. This package improves the snapshot testing experience and provides a brand new matcher to make expectations on the style rules.
+- [2017~Jest Styled Components ![code](https://ng-tech.icu/assets/code.svg) ](https://parg.co/b1D): A set of utilities for testing Styled Components with Jest. This package improves the snapshot testing experience and provides a brand new matcher to make expectations on the style rules.
 
-- [2017-Quick Tip: How to Style React Components with styled-components](https://www.sitepoint.com/style-react-components-styled-components/)
+- [2017~Quick Tip: How to Style React Components with styled-components](https://www.sitepoint.com/style-react-components-styled-components/)
 
-- [2017-Styled-components — Mastering the fundamentals through practice](https://parg.co/Ucr)
+- [2017~Styled-components — Mastering the fundamentals through practice](https://parg.co/Ucr)
 
-- [2017-Migrating to styled-components cheatsheet](http://jsramblings.com/2017/10/29/migrating-to-styled-components-cheatsheet.html)
+- [2017~Migrating to styled-components cheatsheet](http://jsramblings.com/2017/10/29/migrating-to-styled-components-cheatsheet.html)
 
 # Animation | 动画
 
-- [2017-React Animations 101 #Series#](https://parg.co/bMF): In this post on react animations 101, we will explore a few examples and why CSS transition are a good fit for the navigation bar.
+- [2017~React Animations 101 #Series#](https://parg.co/bMF): In this post on react animations 101, we will explore a few examples and why CSS transition are a good fit for the navigation bar.
 
 - [Animations with ReactTransitionGroup](https://medium.com/@cheapsteak/animations-with-reacttransitiongroup-4972ad7da286#.no6xhxooq)
 
@@ -98,17 +98,17 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 # React Router | 路由
 
-- [2017-A Simple React Router v4 Tutorial](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
+- [2017~A Simple React Router v4 Tutorial](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
 
-- [2017-Redux and React-Router v4: a Tale of Two Datastores](https://hackernoon.com/redux-and-react-router-v4-a-tale-of-two-datastores-8dd91f47d14e)
+- [2017~Redux and React-Router v4: a Tale of Two Datastores](https://hackernoon.com/redux-and-react-router-v4-a-tale-of-two-datastores-8dd91f47d14e)
 
-- [2017-Build your own React Router v4](http://6me.us/jfUwEw): this has helped you create a better mental model of what’s happening in React Router while also helping you to gain an appreciation for React Router’s elegance and “Just Components” API.
+- [2017~Build your own React Router v4](http://6me.us/jfUwEw): this has helped you create a better mental model of what’s happening in React Router while also helping you to gain an appreciation for React Router’s elegance and “Just Components” API.
 
-- [2017-Universal JavaScript Apps with React Router 4](https://ebaytech.berlin/universal-web-apps-with-react-router-4-15002bb30ccb): How to use the latest version of React Router both on the server side and the client side.
+- [2017~Universal JavaScript Apps with React Router 4](https://ebaytech.berlin/universal-web-apps-with-react-router-4-15002bb30ccb): How to use the latest version of React Router both on the server side and the client side.
 
-- [2017-Changing Old Habits in React Router 4](https://parg.co/bVv): At React Conf 2017, Michael Jackson & Ryan Florence talked about React Router in their talk called “Learn Once, Route Anywhere”. They unveiled the new React Router website, and with it, the new focus that React router has taken — declarative components.
+- [2017~Changing Old Habits in React Router 4](https://parg.co/bVv): At React Conf 2017, Michael Jackson & Ryan Florence talked about React Router in their talk called “Learn Once, Route Anywhere”. They unveiled the new React Router website, and with it, the new focus that React router has taken — declarative components.
 
-- [2017-The One Thing you need to know about React Router 4](https://parg.co/bIf):
+- [2017~The One Thing you need to know about React Router 4](https://parg.co/bIf):
 
 - [Demo app showing how to use react-router v4 for server- and client-side rendering](https://github.com/technology-ebay-de/universal-react-router4)
 
@@ -118,19 +118,19 @@ This post aggregates curated popular links for learning React Syntax. More refer
 
 ## React Router Animation | 路由动画
 
-- [2017-A shallow dive into React Router v4 Animated Transitions](https://parg.co/b1I): It can be a bit confusing getting animated transitions setup with React Router v4. This article won’t cover every scenario, but we’ll go over the basics so that you can add animated transitions to your application.
+- [2017~A shallow dive into React Router v4 Animated Transitions](https://parg.co/b1I): It can be a bit confusing getting animated transitions setup with React Router v4. This article won’t cover every scenario, but we’ll go over the basics so that you can add animated transitions to your application.
 
 - [Super easy magic-move transitions for React apps](https://github.com/berzniz/react-overdrive)
 
 - [React Router V4 页面动画](https://github.com/tkh44/data-driven-motion/blob/master/demo/src/App.js#L187-L191)
 
-- [2017-Animated page transitions with React Router 4, ReactTransitionGroup and Animated](https://parg.co/bel): In this article I’ll show you how to animate your page transitions using lifecycle methods from ReactTransitionGroup and the Animated library.
+- [2017~Animated page transitions with React Router 4, ReactTransitionGroup and Animated](https://parg.co/bel): In this article I’ll show you how to animate your page transitions using lifecycle methods from ReactTransitionGroup and the Animated library.
 
 # Widgets | 控件
 
 ## Form | 表单
 
-- [2017-Automagically manage React forms state and automatic validation with MobX](https://medium.com/@foxhound87/automagically-manage-react-forms-state-with-mobx-and-automatic-validation-2b00a32b9769)
+- [2017~Automagically manage React forms state and automatic validation with MobX](https://medium.com/@foxhound87/automagically-manage-react-forms-state-with-mobx-and-automatic-validation-2b00a32b9769)
 
 - [2018~An imperative guide to forms in React](https://blog.logrocket.com/an-imperative-guide-to-forms-in-react-927d9670170a?source=linkShare-fe48c4221a4c-1519391172): in this tutorial, I will explain how React deals with forms and events.
 

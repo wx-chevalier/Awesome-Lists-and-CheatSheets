@@ -8,4 +8,4 @@
 
 - [Introduction to Gradient Descent](https://hbfs.wordpress.com/2012/04/24/introduction-to-gradient-descent/)
 
-- [2017-各类的梯度优化](https://mp.weixin.qq.com/s/eC8KLrvNK60VYAdtM7N2JQ): 本次分享旨在为您提供对不同梯度算法的直观感受，以期会帮助您更好地使用不同的梯度下降算法。
+- [2017~各类的梯度优化](https://mp.weixin.qq.com/s/eC8KLrvNK60VYAdtM7N2JQ): 本次分享旨在为您提供对不同梯度算法的直观感受，以期会帮助您更好地使用不同的梯度下降算法。

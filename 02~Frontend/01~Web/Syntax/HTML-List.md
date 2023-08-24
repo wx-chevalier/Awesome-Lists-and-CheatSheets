@@ -20,7 +20,7 @@
 
 - [移动前端不得不了解的 HTML5 head 头标签](http://www.css88.com/archives/6410)
 
-- [2017-Learn HTML: The language for building websites #Series#](https://codetheweb.blog/learn/html/):
+- [2017~Learn HTML: The language for building websites #Series#](https://codetheweb.blog/learn/html/):
   I’ve written many tutorials on HTML. As I want to make them easy to learn from, I’ve complied a list of which posts to check out in what order if you want to learn HTML.
 
 # Overview

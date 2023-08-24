@@ -36,7 +36,7 @@ There are massive curated links to help you study anything about Compiler head f
 
 # JIT
 
-- [2017-Monads to Machine Code](http://www.stephendiehl.com/posts/monads_machine_code.html): Let’s build a small LLVM-like intermediate language and JIT execution engine in Haskell.
+- [2017~Monads to Machine Code](http://www.stephendiehl.com/posts/monads_machine_code.html): Let’s build a small LLVM-like intermediate language and JIT execution engine in Haskell.
 
 - [Adventures in JIT compilation #Series#](https://parg.co/bs2): he plan is to take a simple input language and develop some interpreters and JITs for it, in roughtly increasing degree of complexity.
 

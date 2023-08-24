@@ -1,6 +1,6 @@
 # Kafka OpenSource List
 
-- [2016-kafkacat ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/edenhill/kafkacat): Generic command line non-JVM Apache Kafka producer and consumer.
+- [2016~kafkacat ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/edenhill/kafkacat): Generic command line non-JVM Apache Kafka producer and consumer.
 
 - [2021~Kafka UI ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/provectus/kafka-ui): UI for Apache Kafka is a free, open-source web UI to monitor and manage Apache Kafka clusters.
 

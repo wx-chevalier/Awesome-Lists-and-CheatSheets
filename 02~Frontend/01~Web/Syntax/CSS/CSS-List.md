@@ -2,15 +2,15 @@
 
 - [扒一扒 CSS 语言的诞生史](http://qianduan.guru/2016/07/26/The-Languages-Which-Almost-Became-CSS/)
 
-- [2017-A Love Letter to CSS](https://parg.co/biC): Today I’m going to try to convince you that not only is CSS one of the best technologies you use on a day-to-day basis, not only is CSS incredibly well designed, but that you should be thankful—thankful!—each and every time you open a .css file.
+- [2017~A Love Letter to CSS](https://parg.co/biC): Today I’m going to try to convince you that not only is CSS one of the best technologies you use on a day-to-day basis, not only is CSS incredibly well designed, but that you should be thankful—thankful!—each and every time you open a .css file.
 
-- [2017-The State of CSS](https://parg.co/bLZ): In this post I’ll reveal 5 old-fashioned CSS things that you don’t need to do anymore, and what you should do instead.
+- [2017~The State of CSS](https://parg.co/bLZ): In this post I’ll reveal 5 old-fashioned CSS things that you don’t need to do anymore, and what you should do instead.
 
 - [Houdini：CSS 领域最令人振奋的革新](http://qianduan.guru/2016/05/20/houdini/)
 
 # Overview
 
-- [2017-The invisible parts of CSS](https://madebymike.com.au/writing/the-invisible-parts-of-CSS/#cascade): If you use CSS in your daily work, your primary goal is probably focused around making things ‘look right’. How this is achieved is often far less important than the end result. This means we care less about how CSS works than the correct syntax and visual results.
+- [2017~The invisible parts of CSS](https://madebymike.com.au/writing/the-invisible-parts-of-CSS/#cascade): If you use CSS in your daily work, your primary goal is probably focused around making things ‘look right’. How this is achieved is often far less important than the end result. This means we care less about how CSS works than the correct syntax and visual results.
 
 - [2020~Old CSS，New CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/): I’m here to tell all of you to get off my lawn. Here’s a history of CSS and web design, as I remember it.
 
@@ -24,7 +24,7 @@
 
 # Tutorial
 
-- [2017-8 CSS gotchas to start your morning off right](https://parg.co/bhl).
+- [2017~8 CSS gotchas to start your morning off right](https://parg.co/bhl).
 
 # Series
 

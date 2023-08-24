@@ -66,13 +66,13 @@
 
 - [Webpack ![code](https://ng-tech.icu/assets/code.svg)](https://webpack.js.org/): Webpack is a static module bundler for modern JavaScript applications.
 
-- [2017-Parcel ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/parcel-bundler/parcel): Blazing fast, zero configuration web application bundler.
+- [2017~Parcel ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/parcel-bundler/parcel): Blazing fast, zero configuration web application bundler.
 
 - [browserify ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/browserify/browserify): browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single `<script>` tag.
 
-- [2017-Backpack ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jaredpalmer/backpack): Backpack is minimalistic build system for Node.js. Inspired by Facebook's create-react-app, Zeit's Next.js, and Remy's Nodemon, Backpack lets you create modern Node.js apps and services with zero configuration.
+- [2017~Backpack ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jaredpalmer/backpack): Backpack is minimalistic build system for Node.js. Inspired by Facebook's create-react-app, Zeit's Next.js, and Remy's Nodemon, Backpack lets you create modern Node.js apps and services with zero configuration.
 
-- [2017-Microbundle ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/developit/microbundle): A zero-configuration bundler for tiny modules, powered by Rollup.
+- [2017~Microbundle ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/developit/microbundle): A zero-configuration bundler for tiny modules, powered by Rollup.
 
 - [FuseBox ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/fuse-box/fuse-box): FuseBox is a bundler/module loader that combines the power of webpack, JSPM and SystemJS.
 
@@ -120,7 +120,7 @@
 
 - [Remax ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/remaxjs/remax): Remax 将 React 运行在小程序环境中，让你可以使用完整的 React 进行开发。
 
-- [2017-Taro ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/NervJS/taro): 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。
+- [2017~Taro ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/NervJS/taro): 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。
 
 - [2018~Chameleon ![code](https://ng-tech.icu/assets/code.svg)](https://cmljs.org/doc/): Chameleon /kəˈmiːlɪən/，简写 CML，中文名卡梅龙；中文意思变色龙，意味着就像变色龙一样能适应不同环境的跨端整体解决方案。
 
@@ -180,7 +180,7 @@
 
 - [greenlet ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/developit/greenlet): Move an async function into its own thread, a simplified single-function version of workerize.
 
-- [2017-Comlink ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChromeLabs/comlink): Comlink’s goal is to make WebWorkers enjoyable. Comlink removes the mental barrier of thinking about postMessage and hides the fact that you are working with workers.
+- [2017~Comlink ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChromeLabs/comlink): Comlink’s goal is to make WebWorkers enjoyable. Comlink removes the mental barrier of thinking about postMessage and hides the fact that you are working with workers.
 
 ## Network
 
@@ -206,11 +206,11 @@
 
 - [LokiJS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/techfort/LokiJS): LokiJS is a document oriented database written in javascript, Its purpose is to store javascript objects as documents in a nosql fashion and retrieve them with a similar mechanism.
 
-- [2017-Lowdb ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/typicode/lowdb): Small JSON database for Node, Electron and the browser. Powered by Lodash.
+- [2017~Lowdb ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/typicode/lowdb): Small JSON database for Node, Electron and the browser. Powered by Lodash.
 
-- [2017-RxDB ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pubkey/rxdb): The reactive, serverless, client-side, offline-first database for your next javascript-application.
+- [2017~RxDB ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pubkey/rxdb): The reactive, serverless, client-side, offline-first database for your next javascript-application.
 
-- [2017-Dexie.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dfahlander/Dexie.js): Dexie.js is a wrapper library for indexedDB - the standard database in the browser.
+- [2017~Dexie.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dfahlander/Dexie.js): Dexie.js is a wrapper library for indexedDB - the standard database in the browser.
 
 - [2018~turtleDB ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/turtle-DB/turtleDB): turtleDB is a JavaScript framework and in-browser database for developers to build offline-first, collaborative web applications. It provides a developer-friendly API to access an in-browser database built on top of IndexedDB.
 

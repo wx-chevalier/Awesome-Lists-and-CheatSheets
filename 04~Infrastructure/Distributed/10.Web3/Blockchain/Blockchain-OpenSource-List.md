@@ -2,7 +2,7 @@
 
 - [blockchain-cli ![code](https://ng-tech.icu/assets/code.svg) #JavaScript#](https://github.com/seanseany/blockchain-cli): A minimal blockchain command-line interface.
 
-- [2017-Naivecoin #Series#](https://lhartikk.github.io/): a tutorial for building a cryptocurrency.
+- [2017~Naivecoin #Series#](https://lhartikk.github.io/): a tutorial for building a cryptocurrency.
 
 # Showcase
 

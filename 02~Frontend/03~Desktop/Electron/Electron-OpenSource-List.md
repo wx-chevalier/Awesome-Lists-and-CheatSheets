@@ -2,11 +2,11 @@
 
 # Showcase
 
-- [2016-electron-python-example ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fyears/electron-python-example)](https://github.com/fyears/electron-python-example): Electron as GUI of Python Applications.
+- [2016~electron-python-example ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fyears/electron-python-example)](https://github.com/fyears/electron-python-example): Electron as GUI of Python Applications.
 
-- [2017-electron-process-reporter ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/getstation/electron-process-reporter)](https://github.com/getstation/electron-process-reporter): Utility to extract interesting process reports of an Electron application.
+- [2017~electron-process-reporter ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/getstation/electron-process-reporter)](https://github.com/getstation/electron-process-reporter): Utility to extract interesting process reports of an Electron application.
 
-- [2017-electron-util ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sindresorhus/electron-util)](https://github.com/sindresorhus/electron-util): Useful utilities for Electron apps and modules.
+- [2017~electron-util ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sindresorhus/electron-util)](https://github.com/sindresorhus/electron-util): Useful utilities for Electron apps and modules.
 
 - [2018~PicGo ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/2018-Molunerfinn/PicGo)](https://github.com/2018-Molunerfinn/PicGo): 🚀A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder.
 

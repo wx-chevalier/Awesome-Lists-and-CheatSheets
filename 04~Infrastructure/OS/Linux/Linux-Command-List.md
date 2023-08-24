@@ -2,7 +2,7 @@
 
 # Overview
 
-- [2017-The Art of Command Line](https://parg.co/bXZ): Master the command line, in one page.
+- [2017~The Art of Command Line](https://parg.co/bXZ): Master the command line, in one page.
 
 - [Linux Command ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jaywcjlove/linux-command): 550 多个 Linux 命令，内容包含 Linux 命令手册、详解、学习，值得收藏的 Linux 命令速查手册。
 

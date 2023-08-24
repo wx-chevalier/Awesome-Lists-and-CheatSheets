@@ -2,9 +2,9 @@
 
 # Overview
 
-- [2017-The Deep Learning Roadmap](https://medium.com/intuitionmachine/the-deep-learning-roadmap-f0b4cac7009a).
+- [2017~The Deep Learning Roadmap](https://medium.com/intuitionmachine/the-deep-learning-roadmap-f0b4cac7009a).
 
-- [2017-深度学习简史](http://6me.us/d3t)：一部深度学习的简史，虽然不那么波澜壮阔，但其发展也是一波三折，艰难而行。随着 AlphaGo 掀起的人工智能新浪潮，人工智能的春天才刚刚开始。希望本文为大家了解深度学习的历史，理解深度学习的本质带来帮助。
+- [2017~深度学习简史](http://6me.us/d3t)：一部深度学习的简史，虽然不那么波澜壮阔，但其发展也是一波三折，艰难而行。随着 AlphaGo 掀起的人工智能新浪潮，人工智能的春天才刚刚开始。希望本文为大家了解深度学习的历史，理解深度学习的本质带来帮助。
 
 - [我如何理解深度学习？](http://www.afenxi.com/post/38176)
 
@@ -14,7 +14,7 @@
 
 - [程序员的深度学习入门指南](http://mp.weixin.qq.com/s?__biz=MzA4ODMwMDcxMQ==&mid=2650891687&idx=1&sn=5cacb7cc40907c4b3080f95a2f007396&chksm=8bd9886fbcae0179ffb26e77cf448827870827fb24c3b4c6df7889f46ae59955f278eccba19a&mpshare=1&scene=2&srcid=1107xRQnB44aPEpI8Tvtatls&from=timeline&isappinstalled=0#wechat_redirect): 来自费良宏在 2016QCon 全球软件开发大会(上海)上的演讲。
 
-- [2017- 深度神经网络全面概述：从基本概念到实际模型和硬件基础](https://parg.co/bC6)：深度神经网络(DNN )所代表的人工智能技术被认为是这一次技术变革的基石(之一)。近日，由 IEEE Fellow Joel Emer 领导的一个团队发布了一篇题为《深度神经网络的有效处理：教程和调研(Efficient Processing of Deep Neural Networks: A Tutorial and Survey )》的综述论文，从算法、模型、硬件和架构等多个角度对深度神经网络进行了较为全面的梳理和总结。。
+- [2017~ 深度神经网络全面概述：从基本概念到实际模型和硬件基础](https://parg.co/bC6)：深度神经网络(DNN )所代表的人工智能技术被认为是这一次技术变革的基石(之一)。近日，由 IEEE Fellow Joel Emer 领导的一个团队发布了一篇题为《深度神经网络的有效处理：教程和调研(Efficient Processing of Deep Neural Networks: A Tutorial and Survey )》的综述论文，从算法、模型、硬件和架构等多个角度对深度神经网络进行了较为全面的梳理和总结。。
 
 - [Deep Learning 101 #Series#](http://beamandrew.github.io/deeplearning/2017/02/23/deep_learning_101_part1.html): The Deep Learning 101 series is a companion piece to a talk given as part of the Department of Biomedical Informatics @ Harvard Medical School ‘Open Insights’ series. Slides for the talk are available here
 
@@ -30,17 +30,17 @@
 
 ## Review
 
-- [2016-Deep Learning 2016: The Year in Review](http://www.deeplearningweekly.com/blog/deep-learning-2016-the-year-in-review)
+- [2016~Deep Learning 2016: The Year in Review](http://www.deeplearningweekly.com/blog/deep-learning-2016-the-year-in-review)
 
 - [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html): This post is targeted at people who already have significant experience with deep learning (e.g. people who have read chapters 1 through 8 of the book). We assume a lot of pre-existing knowledge.
 
-- [2017-Deep Learning Achievements Over the Past Year](https://parg.co/UCI): Great developments in text, voice, and computer vision technologies.
+- [2017~Deep Learning Achievements Over the Past Year](https://parg.co/UCI): Great developments in text, voice, and computer vision technologies.
 
 - [2019~Deep Learning:State of the Art (2019)](https://www.dropbox.com/s/v3rq3895r05xick/deep_learning_state_of_the_art.pdf?dl=0): Breakthrough Developments in 2017 & 2018
 
 ## Case Study
 
-- [2017-The-Terrible-Deep-Learning-List](https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List): 15 working examples to get you started with Deep Learning without learning any of the math.
+- [2017~The-Terrible-Deep-Learning-List](https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List): 15 working examples to get you started with Deep Learning without learning any of the math.
 
 - [Miles Deep - AI Porn Video Editor](https://github.com/ryanjay0/miles-deep)
 

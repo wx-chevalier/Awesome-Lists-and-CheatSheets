@@ -2,9 +2,9 @@
 
 # Overview
 
-- [2017-The Beginner’s Guide to Ethereum’s Roadmap](https://parg.co/U3v): Ethereum’s mission is to become a decentralized world computer that replaces server farms.
+- [2017~The Beginner’s Guide to Ethereum’s Roadmap](https://parg.co/U3v): Ethereum’s mission is to become a decentralized world computer that replaces server farms.
 
-- [2017-Ethereum Zero to Hero #Series#](https://parg.co/URV): This guide is not to mean to the end all or be all, rather a quick introduction that can get you started quickly and hopefully agnostic enough that won’t go out of date too fast.
+- [2017~Ethereum Zero to Hero #Series#](https://parg.co/URV): This guide is not to mean to the end all or be all, rather a quick introduction that can get you started quickly and hopefully agnostic enough that won’t go out of date too fast.
 
 - [Truffle ![code](https://ng-tech.icu/assets/code.svg)](http://truffleframework.com/docs/): Truffle is a world class development environment, testing framework and asset pipeline for Ethereum, aiming to make life as an Ethereum developer easier.
 
@@ -20,4 +20,4 @@
 
 # Smart Contract | 智能合约
 
-- [2017-智能合约简述](https://dbarobin.com/2018/01/24/blockchain-smart-contract/): 了解什么是智能合约概念，我们接下来看下怎么样去理解它。
+- [2017~智能合约简述](https://dbarobin.com/2018/01/24/blockchain-smart-contract/): 了解什么是智能合约概念，我们接下来看下怎么样去理解它。

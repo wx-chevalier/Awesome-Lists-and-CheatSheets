@@ -30,7 +30,7 @@
 
 - [json-editor ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/json-editor/json-editor): JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, foundation, and jQueryUI).
 
-- [2017-json-schema-tools ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/cloudflare/json-schema-tools): Packages for working with JSON Schema and JSON Hyper-Schema.
+- [2017~json-schema-tools ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/cloudflare/json-schema-tools): Packages for working with JSON Schema and JSON Hyper-Schema.
 
 - [Json Schema Linter](https://www.json-schema-linter.com/): The main purpose of the JSON schema linter is to catch issues and critical errors in schema specifications early and automatically.
 

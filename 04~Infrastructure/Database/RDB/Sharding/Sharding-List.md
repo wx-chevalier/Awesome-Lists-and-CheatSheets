@@ -10,6 +10,6 @@
 
 # Sharding Sphere
 
-- [2017-深度认识 Sharding-JDBC：做最轻量级的数据库中间层](http://www.lupaworld.com/article-263375-1.html): : Sharding-JDBC 采用在 JDBC 协议层扩展分库分表，是一个以 jar 形式提供服务的轻量级组件，其核心思路是小而美地完成最核心的事情。
+- [2017~深度认识 Sharding-JDBC：做最轻量级的数据库中间层](http://www.lupaworld.com/article-263375-1.html): : Sharding-JDBC 采用在 JDBC 协议层扩展分库分表，是一个以 jar 形式提供服务的轻量级组件，其核心思路是小而美地完成最核心的事情。
 
 - [2018~Sharding JDBC 源码分析系列 #Series#](https://www.iocoder.cn/categories/Sharding-JDBC/):

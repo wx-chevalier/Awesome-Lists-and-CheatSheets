@@ -1,6 +1,6 @@
 # GAN List
 
-- [2017-GAN by Example using Keras on TensorFlow Backend](https://parg.co/btF)
+- [2017~GAN by Example using Keras on TensorFlow Backend](https://parg.co/btF)
 
 - [How do GANs intuitively work?](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1#.4ckgimjdm)
 

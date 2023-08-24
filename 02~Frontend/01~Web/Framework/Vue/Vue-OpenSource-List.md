@@ -28,4 +28,4 @@
 
 # Form（表单）
 
-- [2017-An imperative guide to forms in Vue.js](https://parg.co/UGT): In this tutorial, I will walk you through the process of creating, validating, and utilising inputs from a form in a Vue.js 2.x application.
+- [2017~An imperative guide to forms in Vue.js](https://parg.co/UGT): In this tutorial, I will walk you through the process of creating, validating, and utilising inputs from a form in a Vue.js 2.x application.

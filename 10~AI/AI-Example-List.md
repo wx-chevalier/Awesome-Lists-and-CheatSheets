@@ -1,6 +1,6 @@
 # AI Examples | 示范
 
-- [2017-All-in-one Docker image for Deep Learning ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/saiprashanths/dl-docker): An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
+- [2017~All-in-one Docker image for Deep Learning ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/saiprashanths/dl-docker): An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 
 - [applied-ml ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/eugeneyan/applied-ml): 📚 Papers and blogs by organizations sharing their work on data science & machine learning in production.
 
@@ -18,7 +18,7 @@
 
 - [2015-Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures): Lectures on scientific computing with python, as IPython notebooks.
 
-- [2017-Top Deep Learning Projects ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/aymericdamien/TopDeepLearning): A list of popular github projects related to deep learning (ranked by stars).
+- [2017~Top Deep Learning Projects ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/aymericdamien/TopDeepLearning): A list of popular github projects related to deep learning (ranked by stars).
 
 - [2018~Seedbank ![code](https://ng-tech.icu/assets/code.svg)](https://research.google.com/seedbank/guide/tutorial): Browse seeds from a list of different kinds of machine learning examples and use the top level categories to narrow your search according to your interests.
 
@@ -32,15 +32,15 @@
 
 - [2015-TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples): This tutorial was designed for easily diving into TensorFlow, through examples. For readability, it includes both notebooks and source codes with explanation.
 
-- [2016-Deep Learning Using TensorFlow](https://github.com/anujdutt9/TensorFlow-DeepLearning): This repository contains the code for TensorFlow Tutorial for Deep Learning from Starting to End. All the code is written using Python3.
+- [2016~Deep Learning Using TensorFlow](https://github.com/anujdutt9/TensorFlow-DeepLearning): This repository contains the code for TensorFlow Tutorial for Deep Learning from Starting to End. All the code is written using Python3.
 
-- [2017-Deep Learning 21 Examples ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hzy46/Deep-Learning-21-Examples): 本工程是《21 个项目玩转深度学习———基于 TensorFlow 的实践详解》的配套代码，代码推荐的运行环境为：Ubuntu 14.04，Python 2.7、TensorFlow >= 1.4.0。请尽量使用类 UNIX 系统和 Python 2 运行本书的代码。
+- [2017~Deep Learning 21 Examples ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hzy46/Deep-Learning-21-Examples): 本工程是《21 个项目玩转深度学习———基于 TensorFlow 的实践详解》的配套代码，代码推荐的运行环境为：Ubuntu 14.04，Python 2.7、TensorFlow >= 1.4.0。请尽量使用类 UNIX 系统和 Python 2 运行本书的代码。
 
-- [2017-TensorFlow Models by Sarasra ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Sarasra/models): This repository contains a number of different models implemented in TensorFlow: the official models, the research models, the samples folder and the tutorials folder.
+- [2017~TensorFlow Models by Sarasra ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Sarasra/models): This repository contains a number of different models implemented in TensorFlow: the official models, the research models, the samples folder and the tutorials folder.
 
 - [Android TensorFlow Machine Learning Example ![code](https://ng-tech.icu/assets/code.svg)](http://6me.us/GbWFKx): This article is for those who are already familiar with machine learning and know how to the build model for machine learning(for this example I will be using a pre-trained model).
 
-- [2017-NakedTensor ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jostmey/NakedTensor): Bare bone examples of machine learning in TensorFlow.
+- [2017~NakedTensor ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jostmey/NakedTensor): Bare bone examples of machine learning in TensorFlow.
 
 - [2018~Deep Learning Using TensorFlow ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/anujdutt9/TensorFlow-DeepLearning): This repository contains the code for TensorFlow Tutorial for Deep Learning from Starting to End. All the code is written using Python3.
 

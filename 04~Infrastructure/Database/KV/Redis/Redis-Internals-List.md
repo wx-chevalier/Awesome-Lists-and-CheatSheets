@@ -6,7 +6,7 @@
 
 - [Redis 异步组件化模型](http://my.oschina.net/andylucc/blog/693981)
 
-- [2016-Redis 中的事件循环](https://draveness.me/redis-eventloop): 在目前的很多服务中，由于需要持续接受客户端或者用户的输入，所以需要一个事件循环来等待并处理外部事件，这篇文章主要会介绍 Redis 中的事件循环是如何处理事件的。
+- [2016~Redis 中的事件循环](https://draveness.me/redis-eventloop): 在目前的很多服务中，由于需要持续接受客户端或者用户的输入，所以需要一个事件循环来等待并处理外部事件，这篇文章主要会介绍 Redis 中的事件循环是如何处理事件的。
 
 - [2018~Redis 源码阅读——基于 epoll 的事件模型](https://blog.csdn.net/idwtwt/article/details/79460217): Redis 的事件模型实现基于 linux 的 epoll，sun 的 export,FreeBSD 和 Mac osx 的 queue，还有 select。
 

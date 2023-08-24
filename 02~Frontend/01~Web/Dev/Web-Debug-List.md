@@ -18,7 +18,7 @@
 
 - [Using the Chrome devtools new code coverage feature](https://parg.co/b4p)
 
-- [2017-Mastering Chrome Developer Tools: Next Level Front-End Development Techniques](https://parg.co/b2T)
+- [2017~Mastering Chrome Developer Tools: Next Level Front-End Development Techniques](https://parg.co/b2T)
 
 - [Emmet and css the forgotten part](https://raygun.com/blog/2015/04/emmet-and-css-the-forgotten-part/)
 
@@ -38,7 +38,7 @@
 
 - [How to get the most out of the JavaScript console](https://parg.co/b9o): One of the most basic debugging tools in JavaScript is console.log(). The console comes with several other useful methods that can add to a developer’s debugging toolkit.
 
-- [2017-Learn How To Debug JavaScript with Chrome DevTools](https://parg.co/bDf)
+- [2017~Learn How To Debug JavaScript with Chrome DevTools](https://parg.co/bDf)
 
 - [九个 Console 命令，让 js 调试更简单](http://www.ido321.com/677.html)
 
@@ -60,13 +60,13 @@
 
 # Memory Leak
 
-- [2017-Google Developers - 解决你的内存问题系列](https://developers.google.com/web/tools/chrome-devtools/memory-problems/): [内存术语](https://developers.google.com/web/tools/chrome-devtools/memory-problems/memory-101)
+- [2017~Google Developers - 解决你的内存问题系列](https://developers.google.com/web/tools/chrome-devtools/memory-problems/): [内存术语](https://developers.google.com/web/tools/chrome-devtools/memory-problems/memory-101)
 
-- [2017-Debugging memory leaks in web applications using iframes](https://www.bryntum.com/blog/debugging-memory-leaks-in-web-applications-using-iframes/)
+- [2017~Debugging memory leaks in web applications using iframes](https://www.bryntum.com/blog/debugging-memory-leaks-in-web-applications-using-iframes/)
 
-- [2017-How JavaScript works: memory management + how to handle 4 common memory leaks](https://parg.co/bnw)
+- [2017~How JavaScript works: memory management + how to handle 4 common memory leaks](https://parg.co/bnw)
 
-- [2017-JavaScript's Promise Leaks Memory](https://alexn.org/blog/2017/10/11/javascript-promise-leaks-memory.html)
+- [2017~JavaScript's Promise Leaks Memory](https://alexn.org/blog/2017/10/11/javascript-promise-leaks-memory.html)
 
 - [Understanding and Solving Internet Explorer Leak Patterns](<https://msdn.microsoft.com/en-us/library/bb250448(v=vs.85).aspx>)
 

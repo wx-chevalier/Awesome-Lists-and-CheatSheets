@@ -10,7 +10,7 @@
 
 - [有赞 APP IM SDK 组件架构设计](http://tech.youzan.com/you-zan-im-sdk-ke-hu-duan-she-ji/)
 
-- [2017-Build a Location-based Chatroom with Firebase and Vue.js](https://parg.co/bLH)[ssh-chat](https://github.com/shazow/ssh-chat)
+- [2017~Build a Location-based Chatroom with Firebase and Vue.js](https://parg.co/bLH)[ssh-chat](https://github.com/shazow/ssh-chat)
 
 - [Websocket based group chat app built with socket.io and react.](https://github.com/justadudewhohacks/websocket-chat)
 
@@ -36,6 +36,6 @@
 
 # WebRTC
 
-- [2017-A real world guide to WebRTC](https://deepstreamhub.com/tutorials/protocols/webrtc-intro/): The goal is that once you've read through it you've gained a solid, hands-on understanding of what it takes to build WebRTC apps and enough additional knowledge to know where to go next.
+- [2017~A real world guide to WebRTC](https://deepstreamhub.com/tutorials/protocols/webrtc-intro/): The goal is that once you've read through it you've gained a solid, hands-on understanding of what it takes to build WebRTC apps and enough additional knowledge to know where to go next.
 
 - [2022~WebRTC Nuts and Bolts ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/adalkiran/webrtc-nuts-and-bolts): A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation.

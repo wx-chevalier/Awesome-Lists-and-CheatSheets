@@ -16,16 +16,16 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2015-Data Mining, The Textbook》📚](https://www.springer.com/gp/book/9783319141411): This textbook explores the different aspects of data mining from the fundamentals to the complex data types and their applications, capturing the wide diversity of problem domains for data mining issues.
 
-- [2016-Dive into Machine Learning》📚](https://github.com/hangtwenty/dive-into-machine-learning): I learned Python by hacking first, and getting serious later. I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself.
+- [2016~Dive into Machine Learning》📚](https://github.com/hangtwenty/dive-into-machine-learning): I learned Python by hacking first, and getting serious later. I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself.
 
-- [2016-周志华-机器学习》📚](https://www.amazon.cn/dp/B01ARKEV1G)：机器学习》作为该领域的入门教材，在内容上尽可能涵盖机器学习基础知识的各方面。介绍了机器学习的基础知识，经典而常用的机器学习方法（决策树、神经网络、支持向量机、贝叶斯分类器、集成学习、聚类、降维与度量学习），特征选择与稀疏学习、计算学习理论、半监督学习、概率图模型、规则学习以及强化学习等。
+- [2016~周志华-机器学习》📚](https://www.amazon.cn/dp/B01ARKEV1G)：机器学习》作为该领域的入门教材，在内容上尽可能涵盖机器学习基础知识的各方面。介绍了机器学习的基础知识，经典而常用的机器学习方法（决策树、神经网络、支持向量机、贝叶斯分类器、集成学习、聚类、降维与度量学习），特征选择与稀疏学习、计算学习理论、半监督学习、概率图模型、规则学习以及强化学习等。
 
   - [《机器学习》（西瓜书）公式推导解析](https://github.com/datawhalechina/pumpkin-book)
   - [《机器学习》（西瓜书）代码实战](https://github.com/datawhalechina/machine-learning-toy-code)
 
-- [2016-Prateek Joshi-Python Real World Machine Learning》📚](https://parg.co/Y63): Learn to solve challenging data science problems by building powerful machine learning models using Python.
+- [2016~Prateek Joshi-Python Real World Machine Learning》📚](https://parg.co/Y63): Learn to solve challenging data science problems by building powerful machine learning models using Python.
 
-- [2016-Designing Machine Learning Systems with Python](https://parg.co/Y6O): Gain an understanding of the machine learning design process, Optimize machine learning systems for improved accuracy, Understand common programming tools and techniques for machine learning, Develop techniques and strategies for dealing with large amounts of data from a variety of sources, Build models to solve unique tasks.
+- [2016~Designing Machine Learning Systems with Python](https://parg.co/Y6O): Gain an understanding of the machine learning design process, Optimize machine learning systems for improved accuracy, Understand common programming tools and techniques for machine learning, Develop techniques and strategies for dealing with large amounts of data from a variety of sources, Build models to solve unique tasks.
 
 - [2018~Andrew NG-Machine Learning Yearning》📚](http://www.mlyearning.org/): This book is focused not on teaching you ML algorithms, but on how to make ML algorithms work. Some technical AI classes will give you a hammer; this book teaches you how to use the hammer. 中文版本参考[这里](https://github.com/AcceptedDoge/machine-learning-yearning-cn/)。
 
@@ -57,13 +57,13 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2015-Goodfellow, Bengio and Courville-The Deep Learning Textbook》📚](http://www.deeplearningbook.org/):中文译本[这里](https://exacity.github.io/deeplearningbook-chinese/Chapter1_introduction/)，The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free.
 
-- [2016-Stanford Deep Learning Tutorial》📚](http://deeplearning.stanford.edu/tutorial/): This tutorial will teach you the main ideas of Unsupervised Feature Learning and Deep Learning. By working through it, you will also get to implement several feature learning/deep learning algorithms, get to see them work for yourself, and learn how to apply/adapt these ideas to new problems.
+- [2016~Stanford Deep Learning Tutorial》📚](http://deeplearning.stanford.edu/tutorial/): This tutorial will teach you the main ideas of Unsupervised Feature Learning and Deep Learning. By working through it, you will also get to implement several feature learning/deep learning algorithms, get to see them work for yourself, and learn how to apply/adapt these ideas to new problems.
 
-- [2016-深度学习入门》📚](https://github.com/PaddlePaddle/book/blob/develop/README.md)：您现在在看的这本书是一本“交互式”电子书：每一章都可以运行在一个 Jupyter Notebook 里。我们把 Jupyter, PaddlePaddle, 以及各种被依赖的软件都打包进一个 Docker image 了。所以您不需要自己来安装各种软件，只需要安装 Docker 即可。
+- [2016~深度学习入门》📚](https://github.com/PaddlePaddle/book/blob/develop/README.md)：您现在在看的这本书是一本“交互式”电子书：每一章都可以运行在一个 Jupyter Notebook 里。我们把 Jupyter, PaddlePaddle, 以及各种被依赖的软件都打包进一个 Docker image 了。所以您不需要自己来安装各种软件，只需要安装 Docker 即可。
 
-- [2017-Neural Networks and Deep Learning》📚](http://neuralnetworksanddeeplearning.com/): Neural Networks and Deep Learning is a free online book. The book will teach you about: (1) Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data. (2) Deep learning, a powerful set of techniques for learning in neural networks
+- [2017~Neural Networks and Deep Learning》📚](http://neuralnetworksanddeeplearning.com/): Neural Networks and Deep Learning is a free online book. The book will teach you about: (1) Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data. (2) Deep learning, a powerful set of techniques for learning in neural networks
 
-- [2017-Deep Learning with Python》📚](https://github.com/fchollet/deep-learning-with-python-notebooks): Here we have only included the code samples themselves and immediately related surrounding comments.
+- [2017~Deep Learning with Python》📚](https://github.com/fchollet/deep-learning-with-python-notebooks): Here we have only included the code samples themselves and immediately related surrounding comments.
 
 - [2018~深度学习 500 问》📚](https://github.com/scutan90/DeepLearning-500-questions): 以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。
 
@@ -79,12 +79,12 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 # NLP | 自然语言处理
 
-- [2016-Text Data Management and Analysis》📚](https://dl.acm.org/citation.cfm?id=2915031): A Practical Introduction to Information Retrieval and Text Mining
+- [2016~Text Data Management and Analysis》📚](https://dl.acm.org/citation.cfm?id=2915031): A Practical Introduction to Information Retrieval and Text Mining
 
-- [2017-DL4NLP-Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP):
+- [2017~DL4NLP-Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP):
   State of the art resources for NLP sequence modeling tasks such as machine translation, image captioning, and dialog.
 
-- [2017-Li Deng-Deep Learning in Natural Language Processing》📚](https://parg.co/66P): this book provides comprehensive introduction to and up-to-date review of the state of art in applying deep learning to solve fundamental problems in NLP.
+- [2017~Li Deng-Deep Learning in Natural Language Processing》📚](https://parg.co/66P): this book provides comprehensive introduction to and up-to-date review of the state of art in applying deep learning to solve fundamental problems in NLP.
 
 - [2018~Dan Jurafsky-Speech and Language Processing-3rd》📚](https://web.stanford.edu/~jurafsky/slp3/): New pedagogical sequences on neural networks and their training, starting with logistic regression and continuing with embeddings, feed-forward nets, and RNNs.
 
@@ -92,7 +92,7 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 # Computer Vision | 计算机视觉
 
-- [2016-OpenCV: Computer Vision Projects with Python》📚](https://parg.co/Y6Q): Use OpenCV's Python bindings to capture video, manipulate images, and track objects. Learn about the different functions of OpenCV and their actual implementations.
+- [2016~OpenCV: Computer Vision Projects with Python》📚](https://parg.co/Y6Q): Use OpenCV's Python bindings to capture video, manipulate images, and track objects. Learn about the different functions of OpenCV and their actual implementations.
 
 - [2021~计算机视觉实战演练：算法与应用》📚](https://github.com/Charmve/computer-vision-in-action): 作者系迈微 AI 研习社创始人、CSDN 博客专家，主要分享机器学习算法、计算机视觉等相关内容，每周研读顶会论文，持续关注前沿技术动态。公众号底部有菜单分类，关注我们，一起学习成长。
 
@@ -102,7 +102,7 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2014-DataScience From Scratch》📚](http://shop.oreilly.com/product/0636920033400.do): In this book, you’ll learn how many of the most fundamental data science tools and algorithms work by implementing them from scratch.
 
-- [2016-Python Data Science Handbook》📚](https://github.com/jakevdp/PythonDataScienceHandbook):Jupyter Notebooks for the Python Data Science Handbook
+- [2016~Python Data Science Handbook》📚](https://github.com/jakevdp/PythonDataScienceHandbook):Jupyter Notebooks for the Python Data Science Handbook
 
 - [2019~Another Book on Data Science》📚](https://www.anotherbookondatascience.com): Learn R and Python in Parallel
 
@@ -110,9 +110,9 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 ## TensorFlow
 
-- [2016-Building Machine Learning Projects with TensorFlow》📚](https://parg.co/Y6s): Engaging projects that will teach you how complex data can be exploited to gain the most insight.
+- [2016~Building Machine Learning Projects with TensorFlow》📚](https://parg.co/Y6s): Engaging projects that will teach you how complex data can be exploited to gain the most insight.
 
-- [2017-TensorFlow Book》📚](https://github.com/BinRoot/TensorFlow-Book): Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
+- [2017~TensorFlow Book》📚](https://github.com/BinRoot/TensorFlow-Book): Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
 
 - [2019~简单粗暴 TensorFlow 2.0 | A Concise Handbook of TensorFlow 2.0》📚](https://tf.wiki): 这是一本简明的 TensorFlow 2.0 入门指导手册，基于 Keras 和 Eager Execution（即时运行）模式，力图让具备一定机器学习及 Python 基础的开发者们快速上手 TensorFlow 2.0。
 

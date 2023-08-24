@@ -76,7 +76,7 @@
 
 - [docsify ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/docsifyjs/docsify): A magical documentation site generator.
 
-- [2017-Docusaurus ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebook/docusaurus): Docusaurus is a project for easily building, deploying, and maintaining open source project websites.
+- [2017~Docusaurus ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebook/docusaurus): Docusaurus is a project for easily building, deploying, and maintaining open source project websites.
 
 - [Docup ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/egoist/docup): Docup is a single JavaScript file that fetches Markdown file and renders it as a beautiful one-page documentation.
 

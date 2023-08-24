@@ -28,7 +28,7 @@
 
 - [2018~Spark 比拼 Flink：下一代大数据计算引擎之争，谁主沉浮？](https://mp.weixin.qq.com/s/dRzPtdEqI6h3lRzmxsxEnw): 本文对 Spark 和 Flink 的技术与场景进行了全面分析与对比，且看下一代大数据计算引擎之争，谁主沉浮？
 
-- [2016-comparison-of-apache-stream-processing-frameworks](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1)
+- [2016~comparison-of-apache-stream-processing-frameworks](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1)
 
 # Engineering Practices | 工程实践
 

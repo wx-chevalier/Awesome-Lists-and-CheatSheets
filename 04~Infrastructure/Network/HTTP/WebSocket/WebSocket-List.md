@@ -4,7 +4,7 @@
 
 - [WebSocket 原理说明](https://www.qcloud.com/document/product/214/4150)
 
-- [2017-A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
+- [2017~A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 
 - [微信 ,QQ 这类 IM app 怎么做：谈谈 Websocket](http://www.jianshu.com/p/bcefda55bce4)
 
@@ -12,7 +12,7 @@
 
 - [Socket.io Game Demo](https://github.com/sgoedecke/socket-io-game): Building a multiplayer online game with socket.io.
 
-- [2017-How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://parg.co/UKu)
+- [2017~How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://parg.co/UKu)
 
 * **HTTP**:[Wikipedia HTTP Page](http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)[W3C List of HTTP related Drafts/Protocols](http://www.w3.org/Protocols/)[List of IETF HTTP/1.1 and HTTP/2.0 Drafts](http://tools.ietf.org/id/draft-ietf-httpbis)
 * **Server-Sent Event**:[W3C Server-Sent Events/EventSource Candidate Recommendation](http://www.w3.org/TR/eventsource/)[W3C Server-Sent Events/EventSource Draft](http://dev.w3.org/html5/eventsource/)

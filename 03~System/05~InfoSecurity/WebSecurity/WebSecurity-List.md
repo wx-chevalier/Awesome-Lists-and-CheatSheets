@@ -1,8 +1,8 @@
 # Web Security List
 
-- [2017-How I Hacked 40 Websites in 7 minutes](https://parg.co/U5b)
+- [2017~How I Hacked 40 Websites in 7 minutes](https://parg.co/U5b)
 
-- [2017-Common Security Issues in Web Applications #Series#](https://parg.co/Uu9): I hope this article will help developers to have simple understanding of some issues that appear to be in 80–85% of applications.
+- [2017~Common Security Issues in Web Applications #Series#](https://parg.co/Uu9): I hope this article will help developers to have simple understanding of some issues that appear to be in 80–85% of applications.
 
 - [A practical security guide for web developers](https://github.com/FallibleInc/security-guide-for-developers)
 
@@ -26,7 +26,7 @@
 
 - [2018~How to stop me harvesting credit card numbers and passwords from your site](https://parg.co/Uvz)
 
-- [2017-From Markdown to RCE in Atom](https://statuscode.ch/2017/11/from-markdown-to-rce-in-atom/): Recently I took a look at Atom, a text editor by GitHub. With a little bit of work, I was able to chain multiple vulnerabilities in Atom into an actual Remote Code Execution.
+- [2017~From Markdown to RCE in Atom](https://statuscode.ch/2017/11/from-markdown-to-rce-in-atom/): Recently I took a look at Atom, a text editor by GitHub. With a little bit of work, I was able to chain multiple vulnerabilities in Atom into an actual Remote Code Execution.
 
 - [2019~HTTP Security Headers - A Complete Guide](https://nullsweep.com/http-security-headers-a-complete-guide/): In this article, I will walk through the commonly evaluated headers, recommend security values for each, and give a sample header setting.
 
@@ -34,7 +34,7 @@
 
 # WebAPI
 
-- [2017-Improve Your Website Security in 5 Minutes With These HTTP Headers](https://parg.co/Upz)
+- [2017~Improve Your Website Security in 5 Minutes With These HTTP Headers](https://parg.co/Upz)
 
 - [REST_Security_Cheat_Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
 
@@ -80,7 +80,7 @@
 
 - [大话数据库 SQL 注入的 N 种姿势](http://www.freebuf.com/articles/web/98119.html)
 
-- [2017-NetSPI SQL Injection Wiki](https://sqlwiki.netspi.com/): This wiki's mission is to be a one stop resource for fully identifying, exploiting, and escalating SQL injection vulnerabilities across various Database Management Systems (DBMS).
+- [2017~NetSPI SQL Injection Wiki](https://sqlwiki.netspi.com/): This wiki's mission is to be a one stop resource for fully identifying, exploiting, and escalating SQL injection vulnerabilities across various Database Management Systems (DBMS).
 
 # WebShell
 

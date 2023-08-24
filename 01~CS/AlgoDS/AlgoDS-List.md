@@ -8,7 +8,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions)
 
-- [2017-Top Algorithms/Data Structures/Concepts every computer science student should know](https://parg.co/Nr6)
+- [2017~Top Algorithms/Data Structures/Concepts every computer science student should know](https://parg.co/Nr6)
 
 - [2019~Think in Math. Write in Code.](https://justinmeiners.github.io/think-in-math/): Programming languages are implementation tools, not thinking tools. They are strict formal languages invented to instruct machines in a human-friendly way. In contrast, thoughts are best expressed through a medium which is free and flexible.
 
@@ -32,9 +32,9 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2015-《algs4》 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/kevin-wayne/algs4)](https://github.com/kevin-wayne/algs4): Algorithms, 4th edition textbook code and libraries.
 
-- [2017-《Algorithm Design: Parallel and Sequential》📚](http://www.parallel-algorithms-book.com/): 15-210 aims to teach methods for designing, analyzing, and programming sequential and parallel algorithms and data structures.
+- [2017~《Algorithm Design: Parallel and Sequential》📚](http://www.parallel-algorithms-book.com/): 15-210 aims to teach methods for designing, analyzing, and programming sequential and parallel algorithms and data structures.
 
-- [2017-《Competitive Programmer's Handbook》📚](https://cses.fi/book.html): The purpose of this book is to give the reader a thorough introduction to competitive programming. The book is especially intended for students who want to learn algorithms and possibly participate in the International Olympiad in Informatics (IOI) or in the International Collegiate Programming Contest (ICPC).
+- [2017~《Competitive Programmer's Handbook》📚](https://cses.fi/book.html): The purpose of this book is to give the reader a thorough introduction to competitive programming. The book is especially intended for students who want to learn algorithms and possibly participate in the International Olympiad in Informatics (IOI) or in the International Collegiate Programming Contest (ICPC).
 
 - [2018~《The Algorithms》📚](https://github.com/TheAlgorithms): Open Source Book for Newbies to Learn Algorithms and Implement them in any Programming Language.
 
@@ -66,9 +66,9 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 # Java
 
-- [2017-AlgoDS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/sherxon/AlgoDS): Implementation of Algorithms and Data Structures, Interview Questions and Answers.
+- [2017~AlgoDS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/sherxon/AlgoDS): Implementation of Algorithms and Data Structures, Interview Questions and Answers.
 
-- [2017-Java 101: Datastructures and algorithms in Java](http://www.javaworld.com/article/2073390/core-java/datastructures-and-algorithms-part-1.html?nsdr=true): Datastructures and algorithms are essential to computer science, which is the study of data, its representation in memory, and its transformation from one form to another
+- [2017~Java 101: Datastructures and algorithms in Java](http://www.javaworld.com/article/2073390/core-java/datastructures-and-algorithms-part-1.html?nsdr=true): Datastructures and algorithms are essential to computer science, which is the study of data, its representation in memory, and its transformation from one form to another
 
 - [Introduction to Data Structures and Algorithms](http://www.idevelopment.info/data/Programming/data_structures/overview/Data_Structures_Algorithms_Introduction.shtml)
 
@@ -78,13 +78,13 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2015-itsy-bitsy-data-structures ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jamiebuilds/itsy-bitsy-data-structures): All the things you didn't know you wanted to know about data structures.
 
-- [2017-10 Common Data Structures Explained with Videos + Exercises](https://parg.co/bIC): Data structures are a critical part of software development, and one of the most common topics for developer job interview questions. The good news is that they’re basically just specialized formats for organizing and storing data. I’m going to teach you 10 of the most common data structures — right here in this short article.
+- [2017~10 Common Data Structures Explained with Videos + Exercises](https://parg.co/bIC): Data structures are a critical part of software development, and one of the most common topics for developer job interview questions. The good news is that they’re basically just specialized formats for organizing and storing data. I’m going to teach you 10 of the most common data structures — right here in this short article.
 
-- [2017-Basic javascript algorithms toolbox: starter kit](https://parg.co/b75): Here’s a list of javascript quick-to-write algos that are often useful.
+- [2017~Basic javascript algorithms toolbox: starter kit](https://parg.co/b75): Here’s a list of javascript quick-to-write algos that are often useful.
 
-- [2017-CS Playground React: Algos & Data Structures ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/UZd): In-Browser Algorithm and Data Structure Interview Prep.
+- [2017~CS Playground React: Algos & Data Structures ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/UZd): In-Browser Algorithm and Data Structure Interview Prep.
 
-- [2017-javascript-algorithms ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/trekhleb/javascript-algorithms): This repository contains JavaScript based examples of many popular algorithms and data structures.
+- [2017~javascript-algorithms ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/trekhleb/javascript-algorithms): This repository contains JavaScript based examples of many popular algorithms and data structures.
 
 - [2018~javascript-datastructures-algorithms ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/loiane/javascript-datastructures-algorithms): collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book.
 
@@ -94,13 +94,13 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2014-algorithm ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/qiwsir/algorithm): 如果要成为一个有一定水平的程序员，算法是必须要会的。算法，让你的程序变得更有灵气。
 
-- [2017-Problem Solving with Algorithms and Data Structures using Python》📚](http://6me.us/jgWZ)：中文版参考[这里](https://github.com/facert/python-data-structure-cn)。
+- [2017~Problem Solving with Algorithms and Data Structures using Python》📚](http://6me.us/jgWZ)：中文版参考[这里](https://github.com/facert/python-data-structure-cn)。
 
-- [2017-pygorithm ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/OmkarPathak/pygorithm): A Python module for learning all major algorithms
+- [2017~pygorithm ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/OmkarPathak/pygorithm): A Python module for learning all major algorithms
 
 # Go
 
-- [2017-go-algorithms ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/0xAX/go-algorithms): Algorithms and data structures for golang.
+- [2017~go-algorithms ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/0xAX/go-algorithms): Algorithms and data structures for golang.
 
 - [2018~DataViz ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Arafatk/DataViz?files=1): Build and visualize data structures in Golang.
 
@@ -112,4 +112,4 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 # Rust
 
-- [2017-Common data structures and algorithms in Rust ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/EbTech/rust-algorithms): A collection of classic data structures and algorithms, emphasizing beauty and clarity over full generality.
+- [2017~Common data structures and algorithms in Rust ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/EbTech/rust-algorithms): A collection of classic data structures and algorithms, emphasizing beauty and clarity over full generality.

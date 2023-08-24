@@ -10,7 +10,7 @@
 
 - [2018~Five Common Problems in GraphQL Apps (And How to Fix Them)](https://parg.co/UXd): In this article, we will learn to unlock the power of GraphQL without suffering its drawbacks.
 
-- [2017-Improve GraphQL Performance with Automatic Persisted Queries](https://parg.co/U3X): Lighten up your queries and get faster response times with new Apollo tools
+- [2017~Improve GraphQL Performance with Automatic Persisted Queries](https://parg.co/U3X): Lighten up your queries and get faster response times with new Apollo tools
 
 - [2018~Securing Your GraphQL API from Malicious Queries](https://parg.co/U1t): In this guest post he describes how they secured their GraphQL API from attackers.
 
@@ -30,7 +30,7 @@
 
 - [How to wrap a REST API with GraphQL](https://blog.graph.cool/how-to-wrap-a-rest-api-with-graphql-8bf3fb17547d): 3-step tutorial how to easily turn a REST API into a GraphQL API.
 
-- [2017-Apollo Server 1.0 — A GraphQL Server for all Node.js frameworks](https://parg.co/bWY): Use GraphQL with Express, Hapi, Koa, Lambda, Micro, Restify, etc.
+- [2017~Apollo Server 1.0 — A GraphQL Server for all Node.js frameworks](https://parg.co/bWY): Use GraphQL with Express, Hapi, Koa, Lambda, Micro, Restify, etc.
 
 - [2018~Building a Realtime GraphQL Server with Subscriptions](https://blog.graph.cool/tutorial-building-a-realtime-graphql-server-with-subscriptions-2758cfc6d427): GraphQL subscriptions allow clients to receive realtime updates from a GraphQL API upon specific events。
 
@@ -40,4 +40,4 @@
 
 # Apollo Server
 
-- [2017-Creating a structured, hot-reloadable GraphQL API with Express.js, Apollo Server and Webpack](https://hackernoon.com/creating-a-structured-hot-reloadable-graphql-api-with-express-js-de62c859643): We’ll walk through how to set up an API with Express and Apollo Server
+- [2017~Creating a structured, hot-reloadable GraphQL API with Express.js, Apollo Server and Webpack](https://hackernoon.com/creating-a-structured-hot-reloadable-graphql-api-with-express-js-de62c859643): We’ll walk through how to set up an API with Express and Apollo Server

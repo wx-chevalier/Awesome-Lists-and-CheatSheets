@@ -12,11 +12,11 @@
 
 ## OLAP
 
-- [2016-ClickHouse ![code](https://ng-tech.icu/assets/code.svg)](https://ClickHouse.yandex/): ClickHouse is an open source column-oriented database management system capable of real time generation of analytical data reports using SQL queries.
+- [2016~ClickHouse ![code](https://ng-tech.icu/assets/code.svg)](https://ClickHouse.yandex/): ClickHouse is an open source column-oriented database management system capable of real time generation of analytical data reports using SQL queries.
 
-- [2017-Druid ![code](https://ng-tech.icu/assets/code.svg)](http://druid.io/): Apache Druid (incubating) is a high performance analytics data store for event-driven data.
+- [2017~Druid ![code](https://ng-tech.icu/assets/code.svg)](http://druid.io/): Apache Druid (incubating) is a high performance analytics data store for event-driven data.
 
-- [2017-Mondrian ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pentaho/mondrian): Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time.
+- [2017~Mondrian ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pentaho/mondrian): Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time.
 
 - [2021~Pinot ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/linkedin/pinot): Pinot is a realtime distributed OLAP datastore, which is used at LinkedIn to deliver scalable real time analytics with low latency.
 
@@ -42,7 +42,7 @@
 
 - [2015-Caravel ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/airbnb/caravel): Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 
-- [2016-Redash ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/getredash/redash): Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [2016~Redash ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/getredash/redash): Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
 - [2020~Rath ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Kanaries/Rath)](https://github.com/Kanaries/Rath): RATH is beyond an open-source alternative to Data Analysis and Visualization tools such as Tableau. It automates your Exploratory Data Analysis workflow with an Augmented Analytic engine by discovering patterns, insights, causals and presents those insights with powerful auto-generated multi-dimensional data visualization.
 

@@ -1,6 +1,6 @@
 # Svg List
 
-- [2017-Svg 快速入门](https://www.villainhr.com/page/2017/04/17/SVG%20快速入门): SVG 全称是 Scalable Vector Graphics，即，矢量图。在 Web 中使用 SVG 可以解决位图放大失真的问题。首先，不要把 SVG 和 CSS，Canvas，HTML 搞混。他们之间并没有你中有我，我中有你的关系。SVG 是通过 XML 的形式写在 HTML 文档中的。
+- [2017~Svg 快速入门](https://www.villainhr.com/page/2017/04/17/SVG%20快速入门): SVG 全称是 Scalable Vector Graphics，即，矢量图。在 Web 中使用 SVG 可以解决位图放大失真的问题。首先，不要把 SVG 和 CSS，Canvas，HTML 搞混。他们之间并没有你中有我，我中有你的关系。SVG 是通过 XML 的形式写在 HTML 文档中的。
 
 - [Hero Patterns A collection of repeatable SVG background patterns for you to use on your web projects.](http://www.heropatterns.com/#appearance-settings)
 

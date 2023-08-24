@@ -1,20 +1,20 @@
 # Vue.js List | Vue.js 资料索引
 
-- [2017-Getting Started with Vue.js](https://sabe.io/tutorials/getting-started-with-vue-js): I’m writing this post to help people get started with very little knowledge required other than basic HTML, CSS and JavaScript.
+- [2017~Getting Started with Vue.js](https://sabe.io/tutorials/getting-started-with-vue-js): I’m writing this post to help people get started with very little knowledge required other than basic HTML, CSS and JavaScript.
 
-- [2017-How To Publish Your Vue.js Component On NPM](https://parg.co/UbD): In this article I’ll show you how to prepare your component so that it can be packaged and published on NPM.
+- [2017~How To Publish Your Vue.js Component On NPM](https://parg.co/UbD): In this article I’ll show you how to prepare your component so that it can be packaged and published on NPM.
 
-- [2017-Building Large-Scale Apps with VueJS 2 #Series#](https://parg.co/Ulw): As for this series I want to share some impediments to be overcome and solutions associated with building SPAs with Vue.
+- [2017~Building Large-Scale Apps with VueJS 2 #Series#](https://parg.co/Ulw): As for this series I want to share some impediments to be overcome and solutions associated with building SPAs with Vue.
 
-- [2017-Advanced Vue.js concepts: mixins, custom directives, filters, transitions, and state management](https://parg.co/UA1)
+- [2017~Advanced Vue.js concepts: mixins, custom directives, filters, transitions, and state management](https://parg.co/UA1)
 
 # Overview | 概览
 
-- [2016-尤雨溪：Vue 2.0，渐进式前端解决方案](https://parg.co/GS1): 前端框架的存在是为了解决什么问题？在众多的框架之中，Vue 独具魅力之处何在？为什么说其背后的核心思想是渐进式？
+- [2016~尤雨溪：Vue 2.0，渐进式前端解决方案](https://parg.co/GS1): 前端框架的存在是为了解决什么问题？在众多的框架之中，Vue 独具魅力之处何在？为什么说其背后的核心思想是渐进式？
 
 - [Vue 2.2 完整 API 清单](https://parg.co/bhC)：本文是 Vue 2.2 中完整的 API 介绍，可以作为手册随时查阅。
 
-- [2017-An overview of Vue.js and the future of the framework](https://parg.co/UmG): This post is far from being a guide. It’s another timeline attempt on Vue.js in a well-organized way, from the beginning, to what awaits us in version 3.0 of the framework.
+- [2017~An overview of Vue.js and the future of the framework](https://parg.co/UmG): This post is far from being a guide. It’s another timeline attempt on Vue.js in a well-organized way, from the beginning, to what awaits us in version 3.0 of the framework.
 
 - [Vue 和 React 的优点分别是什么？](https://www.zhihu.com/question/301860721)
 
@@ -24,7 +24,7 @@
 
 ## Case Study | 案例分析
 
-- [2017-Creating Beautiful Charts Using Vue Wrappers for Chart.js](https://www.sitepoint.com/creating-beautiful-charts-vue-chart-js/): In this article I will show you how to represent data in the form of various types of chart with the help of Chart.js and Vue.
+- [2017~Creating Beautiful Charts Using Vue Wrappers for Chart.js](https://www.sitepoint.com/creating-beautiful-charts-vue-chart-js/): In this article I will show you how to represent data in the form of various types of chart with the help of Chart.js and Vue.
 
 ## Comparison（比较）
 
@@ -40,7 +40,7 @@
 
 # Tutoria | 教程
 
-- [2017-Vue 2 Quickstart Tutorial 2017](https://medium.com/@s_eschweiler/vue-js-2-quickstart-tutorial-2017-246195cfbdd2#.x0l9g6j9r)
+- [2017~Vue 2 Quickstart Tutorial 2017](https://medium.com/@s_eschweiler/vue-js-2-quickstart-tutorial-2017-246195cfbdd2#.x0l9g6j9r)
 
 - [Vue Pokemon Battle Tutorial](https://medium.com/coding-artist/vue-js-pokemon-battle-tutorial-380cd72eb681#.x8wnb4s0f): A very detailed read that goes through the creation of a Pokemon Battle using Vue.
 

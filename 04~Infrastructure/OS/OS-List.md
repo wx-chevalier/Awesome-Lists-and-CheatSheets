@@ -28,9 +28,9 @@
 
 ### Scratch
 
-- [2017-《Operating System: From 0 to 1》📚](https://github.com/tuhdo/os01): Bootstrap yourself to write an OS from scratch. A book for self-learner.
+- [2017~《Operating System: From 0 to 1》📚](https://github.com/tuhdo/os01): Bootstrap yourself to write an OS from scratch. A book for self-learner.
 
-- [2017-《How to write a simple operating system》📚](http://mikeos.sourceforge.net/write-your-own-os.html)：This document shows you how to write and build your first operating system in x86 assembly language.
+- [2017~《How to write a simple operating system》📚](http://mikeos.sourceforge.net/write-your-own-os.html)：This document shows you how to write and build your first operating system in x86 assembly language.
 
 - [2020~《What is Linux From Scratch?》📚](http://www.linuxfromscratch.org/lfs/): Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own customized Linux system entirely from source.
 

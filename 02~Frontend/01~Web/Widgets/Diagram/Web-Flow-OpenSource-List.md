@@ -10,7 +10,7 @@
 
 - [2014-jsWorkFlow ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hemantsshetty/jsWorkflow): jsWorkflow, a jsPlumb based workfow API, helps to create JavaScript based workflow diagrams for various applications. It abstracts all the complexities involved in designing and managing workflows.
 
-- [2017-diagramjs ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bpmn-io/diagram-js): A toolbox for displaying and modifying diagrams on the web.
+- [2017~diagramjs ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bpmn-io/diagram-js): A toolbox for displaying and modifying diagrams on the web.
 
 - [2018~GGEditor ![code](https://ng-tech.icu/assets/code.svg)](http://ggeditor.com/): A visual graph editor based on G6 and React.
 

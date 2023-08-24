@@ -6,7 +6,7 @@
 
 # Message Oriental Middleware
 
-- [2017-Sandglass ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/celrenheit/sandglass): Sandglass is a distributed, horizontally scalable, persistent, time sorted message queue.
+- [2017~Sandglass ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/celrenheit/sandglass): Sandglass is a distributed, horizontally scalable, persistent, time sorted message queue.
 
 - [2018~PhxQueue ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Tencent/phxqueue): PhxQueue 是微信开源的一款基于 Paxos 协议实现的高可用、高吞吐和高可靠的分布式队列，保证 At-Least-Once Delivery，在微信内部广泛支持微信支付、公众平台等多个重要业务。
 
@@ -48,7 +48,7 @@
 
 # Job Scheduler
 
-- [2017-Elastic Job ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/elasticjob/elastic-job-lite): Elastic-Job is a distributed scheduled job solution. Elastic-Job is composited from 2 independent sub projects: Elastic-Job-Lite and Elastic-Job-Cloud.
+- [2017~Elastic Job ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/elasticjob/elastic-job-lite): Elastic-Job is a distributed scheduled job solution. Elastic-Job is composited from 2 independent sub projects: Elastic-Job-Lite and Elastic-Job-Cloud.
 
 - [TaskBotJS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/eropple/taskbotjs): The best JavaScript/TypeScript job processing framework on the planet.
 

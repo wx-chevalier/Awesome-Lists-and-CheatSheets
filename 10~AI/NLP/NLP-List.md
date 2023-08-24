@@ -6,11 +6,11 @@
 
 - [2015-NLP Tasks and Applications](http://www.cs.jhu.edu/~jason/465/PDFSlides/lect36-tasks.pdf)
 
-- [2016-Honest Guide to Machine Learning: Part Three Natural Language Processing](https://medium.com/axiomzenteam/honest-guide-to-machine-learning-part-three-54a1c71a9d64#.6m3avvq29): 中文译本[这里](http://www.jiqizhixin.com/article/2314)。
+- [2016~Honest Guide to Machine Learning: Part Three Natural Language Processing](https://medium.com/axiomzenteam/honest-guide-to-machine-learning-part-three-54a1c71a9d64#.6m3avvq29): 中文译本[这里](http://www.jiqizhixin.com/article/2314)。
 
-- [2016-Introduction to Natural Language Processing (NLP)](http://blog.algorithmia.com/introduction-natural-language-processing-nlp/)
+- [2016~Introduction to Natural Language Processing (NLP)](http://blog.algorithmia.com/introduction-natural-language-processing-nlp/)
 
-- [2017-Learning AI if You Suck at Math — P7 — The Magic of Natural Language Processing](https://parg.co/bR4)
+- [2017~Learning AI if You Suck at Math — P7 — The Magic of Natural Language Processing](https://parg.co/bR4)
 
 - [2020~nlp_overview ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/omarsar/nlp_overview): Overview of Modern Deep Learning Techniques Applied to Natural Language Processing.
 
@@ -22,11 +22,11 @@
 
 # Resource
 
-- [2017-DL4NLP 🗃️](https://github.com/andrewt3000/DL4NLP): Deep Learning for NLP resources.
+- [2017~DL4NLP 🗃️](https://github.com/andrewt3000/DL4NLP): Deep Learning for NLP resources.
 
-- [2017-Natural Language Processing Tasks and Selected References 🗃️](https://github.com/Kyubyong/nlp_tasks): I did my best to cover as many as possible tasks in NLP, but admittedly this is far from exhaustive purely due to my lack of knowledge.
+- [2017~Natural Language Processing Tasks and Selected References 🗃️](https://github.com/Kyubyong/nlp_tasks): I did my best to cover as many as possible tasks in NLP, but admittedly this is far from exhaustive purely due to my lack of knowledge.
 
-- [2017-Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html#optimization): This post is a collection of best practices for using neural networks in Natural Language Processing.
+- [2017~Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html#optimization): This post is a collection of best practices for using neural networks in Natural Language Processing.
 
 - [2020~NLPer-Arsenal ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/TingFree/NLPer-Arsenal)](https://github.com/TingFree/NLPer-Arsenal): NLP 人军火库，主要收录 NLP 竞赛策略实现、各任务教程、经验贴、学习资料以及会议时间等，如果对你有帮助，请给我们一个 star。
 

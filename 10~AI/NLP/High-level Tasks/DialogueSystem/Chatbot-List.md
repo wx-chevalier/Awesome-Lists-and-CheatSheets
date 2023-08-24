@@ -1,6 +1,6 @@
 # Chatbot List
 
-- [2016-How I Used Deep Learning To Train A Chatbot To Talk Like Me (Sorta)](https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me)
+- [2016~How I Used Deep Learning To Train A Chatbot To Talk Like Me (Sorta)](https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me)
 
 - [2018~ChatBotCourse 🎥](https://github.com/lcdevelop/ChatBotCourse): 自己动手做聊天机器人教程。
 

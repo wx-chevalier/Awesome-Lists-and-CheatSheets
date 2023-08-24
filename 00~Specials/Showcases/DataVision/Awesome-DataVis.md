@@ -38,7 +38,7 @@
 
 - [WebGL-Fluid-Simulation ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation): Play with fluids in your browser (works even on mobile)
 
-- [2017-bubbly-bg ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tipsy/bubbly-bg): Beautiful bubbly backgrounds in less than 1kB (750 bytes gzipped).
+- [2017~bubbly-bg ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tipsy/bubbly-bg): Beautiful bubbly backgrounds in less than 1kB (750 bytes gzipped).
 
 - [2021~vanta ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tengbao/vanta): Animated 3D backgrounds for your website
 

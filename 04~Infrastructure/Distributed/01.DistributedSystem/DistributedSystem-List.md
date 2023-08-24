@@ -24,7 +24,7 @@
 
 - [2013-《Distributed systems for fun and profit》📚](http://book.mixu.net/distsys/): In this text I've tried to provide a more accessible introduction to distributed systems. To me, that means two things: introducing the key concepts that you will need in order to have a good time reading more serious texts, and providing a narrative that covers things in enough detail that you get a gist of what's going on without getting stuck on details. It's 2013, you've got the Internet, and you can selectively read more about the topics you find most interesting.
 
-- [2017-《Designing Data Intensive Applications》📚](https://dataintensive.net/): This book will help you navigate the diverse and fast-changing landscape of technologies for storing and processing data.
+- [2017~《Designing Data Intensive Applications》📚](https://dataintensive.net/): This book will help you navigate the diverse and fast-changing landscape of technologies for storing and processing data.
 
   - [DDIA 中文翻译](https://github.com/Vonng/ddia): 这是 2017 年译者读过最好的一本技术类书籍，这么好的书没有中文翻译，实在是遗憾。某不才，愿为先进技术文化的传播贡献一份力量。既可以深入学习有趣的技术主题，又可以锻炼中英文语言文字功底，何乐而不为？
 

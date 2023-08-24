@@ -2,7 +2,7 @@
 
 # 前后端分离
 
-- [2017-前后端分离，是为了彼此更好](https://parg.co/bwq)
+- [2017~前后端分离，是为了彼此更好](https://parg.co/bwq)
 
 ## Isomorphic | 同构开发
 

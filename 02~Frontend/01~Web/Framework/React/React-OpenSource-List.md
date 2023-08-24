@@ -4,11 +4,11 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 # Showcase
 
-- [2017-A React TODOs example, explained](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)
+- [2017~A React TODOs example, explained](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)
 
-- [2017-Create a realtime football voting app using React, Redux, React-Router-v4 and Firebase](https://parg.co/bhD): In this series of tutorials, we’ll be creating a football voting app using React, Redux, Redux-Saga, React-Router v4, and Firebase. In this first part, we will setup the project. We’re going to use create-react-app to scaffold the initial project structure, tweak it a bit, and then add the necessary libraries that we’ll be using.
+- [2017~Create a realtime football voting app using React, Redux, React-Router-v4 and Firebase](https://parg.co/bhD): In this series of tutorials, we’ll be creating a football voting app using React, Redux, Redux-Saga, React-Router v4, and Firebase. In this first part, we will setup the project. We’re going to use create-react-app to scaffold the initial project structure, tweak it a bit, and then add the necessary libraries that we’ll be using.
 
-- [2017-How to Build a ToDo App Using React, Redux, and Webpack](https://parg.co/bMT): In this tutorial I’m going to show you how to create a simple “ToDo” app using React, Redux, a little bit of Node, and Cosmic JS.
+- [2017~How to Build a ToDo App Using React, Redux, and Webpack](https://parg.co/bMT): In this tutorial I’m going to show you how to create a simple “ToDo” app using React, Redux, a little bit of Node, and Cosmic JS.
 
 - [2018~react kanban ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/yogaboll/react-kanban): A Trello-like application built with React and Redux.
 
@@ -24,7 +24,7 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 ## Scratch
 
-- [2017-Didact ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hexacta/didact): This repository goes together with a series of posts that explains how to build React from scratch step by step.
+- [2017~Didact ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hexacta/didact): This repository goes together with a series of posts that explains how to build React from scratch step by step.
 
 - [2018~Gooact: React in 160 lines of JavaScript ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/Y5s): How to build own React clone in a matter of minutes.
 
@@ -88,7 +88,7 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 - [svgr ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/smooth-code/svgr): Transform SVG into React components
 
-- [2017-React Loadable ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/thejameskyle/react-loadable): A higher order component for loading components with promises.
+- [2017~React Loadable ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/thejameskyle/react-loadable): A higher order component for loading components with promises.
 
 - [hocs ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/deepsweet/hocs): A collection of Higher-Order Components for React and React Native.
 
@@ -100,7 +100,7 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 - [react-spring ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/drcmda/react-spring): Helping react-motion and animated to become best friends
 
-- [2017-react-move ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/tannerlinsley/react-move): Beautifully and deterministically animate anything in React.
+- [2017~react-move ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/tannerlinsley/react-move): Beautifully and deterministically animate anything in React.
 
 - [react-flight ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/jondot/react-flight): The best way to build animation compositions for React. Design and compose a component to start with, a component to end with, and Flight will take it from there.
 
@@ -112,4 +112,4 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 ## Test
 
-- [2017-react-cosmos ![code](https://ng-tech.icu/assets/code.svg)](https://cubox.pro/c/SwAGqu): Sandbox for developing and testing UI components in isolation
+- [2017~react-cosmos ![code](https://ng-tech.icu/assets/code.svg)](https://cubox.pro/c/SwAGqu): Sandbox for developing and testing UI components in isolation

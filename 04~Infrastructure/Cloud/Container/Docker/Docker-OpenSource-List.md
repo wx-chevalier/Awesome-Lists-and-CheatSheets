@@ -8,9 +8,9 @@
 
 - [2015-Docker 基础技术 #Series#](https://coolshell.cn/articles/17010.html): 我会用几篇文章来把这些技术给大家做个介绍，希望通过这些文章大家可以自己打造一个山寨版的 docker。
 
-- [2016-Docker Internals](http://docker-saigon.github.io/post/Docker-Internals/): A Deep Dive Into Docker For Engineers Interested In The Gritty Details.
+- [2016~Docker Internals](http://docker-saigon.github.io/post/Docker-Internals/): A Deep Dive Into Docker For Engineers Interested In The Gritty Details.
 
-- [2017-rubber-docker ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Fewbytes/rubber-docker): A workshop on Linux containers: Rebuild Docker from Scratch
+- [2017~rubber-docker ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Fewbytes/rubber-docker): A workshop on Linux containers: Rebuild Docker from Scratch
 
 - [2018~手把手教你写 Docker](https://parg.co/UvM): 模拟 Docker 实现一个简单的容器不到 200 行代码(包括空行、注释、异常处理)。
 
@@ -28,7 +28,7 @@
 
 - [2015-Flocker ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ClusterHQ/flocker): Flocker is an open-source Container Data Volume Manager for your Dockerized applications.
 
-- [2017-REX-Ray ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/thecodeteam/rexray): REX-Ray is a container storage orchestration engine enabling persistence for cloud native workloads
+- [2017~REX-Ray ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/thecodeteam/rexray): REX-Ray is a container storage orchestration engine enabling persistence for cloud native workloads
 
 - [GlusterFS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/gluster/glusterfs): Gluster is a software defined distributed storage that can scale to several petabytes. It provides interfaces for object, block and file storage.
 

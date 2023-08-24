@@ -1,6 +1,6 @@
 # C++
 
-- [2017-Data Structures and Algorithms Problems 🗃️](http://www.techiedelight.com/list-of-problems/): 一系列基于 C 实现的数据结构与算法问题的总结。
+- [2017~Data Structures and Algorithms Problems 🗃️](http://www.techiedelight.com/list-of-problems/): 一系列基于 C 实现的数据结构与算法问题的总结。
 
 - [Data Structure and Algorithms Problems](https://parg.co/UVm): 160+ Algorithm & Data Structure Problems using C++.
 

@@ -14,7 +14,7 @@
 
 - [react-native-nba-app](https://github.com/wwayne/react-native-nba-app)
 
-- [2017-Joplin ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/laurent22/joplin): a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+- [2017~Joplin ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/laurent22/joplin): a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 
 # Development Tools
 
@@ -36,7 +36,7 @@
 
 - [react-native-desktop](https://github.com/ptmt/react-native-desktop)
 
-- [2017-React Native Node ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/staltz/react-native-node): Run a separate Node.js process behind a React Native app.
+- [2017~React Native Node ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/staltz/react-native-node): Run a separate Node.js process behind a React Native app.
 
 - [2018~React Native DOM ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vincentriemer/react-native-dom): An experimental, comprehensive port of React Native to the web.
 
@@ -56,12 +56,12 @@
 
 - [react-native-pushy](https://github.com/reactnativecn/react-native-pushy)
 
-- [2017-react-native-interactable](https://github.com/wix/react-native-interactable): Experimental implementation of high performance interactable views in React Native.
+- [2017~react-native-interactable](https://github.com/wix/react-native-interactable): Experimental implementation of high performance interactable views in React Native.
 
 - [react-native-offline-utils](https://github.com/rauliyohmc/react-native-offline-utils): Handy toolbelt to deal nicely with offline/online connectivity in a React Native app. Smooth redux integration.
 
 - [React Navigation](https://github.com/react-community/react-navigation): React Navigation is born from the React Native community's need for an extensible yet easy-to-use navigation solution.
 
-- [2017-kittenTricks](https://github.com/akveo/kittenTricks): A react native mobile starter kit with over 40 screens and theme hot reload support.
+- [2017~kittenTricks](https://github.com/akveo/kittenTricks): A react native mobile starter kit with over 40 screens and theme hot reload support.
 
-- [2017-Reactive Search ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/appbaseio/reactivesearch): A React and React Native UI components library for building data-driven apps.
+- [2017~Reactive Search ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/appbaseio/reactivesearch): A React and React Native UI components library for building data-driven apps.

@@ -4,7 +4,7 @@
 
 # Office
 
-- [2017-Serverless LibreOffice ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vladgolubev/serverless-libreoffice): Convert any document to PDF with headless Libreoffice compiled to run on AWS Lambda
+- [2017~Serverless LibreOffice ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vladgolubev/serverless-libreoffice): Convert any document to PDF with headless Libreoffice compiled to run on AWS Lambda
 
 # LaTex
 

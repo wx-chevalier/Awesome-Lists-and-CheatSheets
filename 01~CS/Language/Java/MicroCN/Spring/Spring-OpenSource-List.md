@@ -12,7 +12,7 @@
 
 ## Boilerplate
 
-- [2016-zheng ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/shuzheng/zheng): 基于 Spring SpringMVC Mybatis 分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位 J2EE 企业级开发解决方案。
+- [2016~zheng ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/shuzheng/zheng): 基于 Spring SpringMVC Mybatis 分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位 J2EE 企业级开发解决方案。
 
 - [2018~XBoot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Exrick/xboot)](https://github.com/Exrick/xboot): 基于 Spring Boot 2.x 的一站式前后端分离快速开发平台 XBoot 微信小程序+Uniapp 前端：Vue+iView Admin 后端：Spring Boot 2.x/Spring Security/JWT/JPA+Mybatis-Plus/Redis/Elasticsearch/Activiti 分布式限流/同步锁/验证码/SnowFlake 雪花算法 ID 动态权限 数据权限 工作流 代码生成 定时任务 社交账号 短信登录 单点登录 OAuth2 开放平台 客服机器人 数据大屏 暗黑模式
 
@@ -90,9 +90,9 @@
 
 - [Spark ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/perwendel/spark): A simple expressive web framework for java. News: Spark now has a kotlin DSL.
 
-- [2017-Micronaut ![code](https://ng-tech.icu/assets/code.svg)](https://micronaut.io): A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.
+- [2017~Micronaut ![code](https://ng-tech.icu/assets/code.svg)](https://micronaut.io): A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.
 
-- [2017-Quarkus ![code](https://ng-tech.icu/assets/code.svg)](https://quarkus.io/#!): A Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards.
+- [2017~Quarkus ![code](https://ng-tech.icu/assets/code.svg)](https://quarkus.io/#!): A Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards.
 
 ## Auth
 

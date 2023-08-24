@@ -2,7 +2,7 @@
 
 - [2015-A Python Import Tutorial for Beginners](https://parg.co/bFN)
 
-- [2017-How Python does Unicode](https://www.b-list.org/weblog/2017/sep/05/how-python-does-unicode/)
+- [2017~How Python does Unicode](https://www.b-list.org/weblog/2017/sep/05/how-python-does-unicode/)
 
 # Modularity
 

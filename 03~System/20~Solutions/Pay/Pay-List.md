@@ -4,7 +4,7 @@
 
 - [凤凰牌老熊 : 支付系统设计系列文章](http://blog.lixf.cn/essay/2016/10/08/account-1/)
 
-- [2017- 探讨一下常见支付系统的对外接口](https://segmentfault.com/a/1190000008942039)
+- [2017~ 探讨一下常见支付系统的对外接口](https://segmentfault.com/a/1190000008942039)
 
 # 微信支付
 

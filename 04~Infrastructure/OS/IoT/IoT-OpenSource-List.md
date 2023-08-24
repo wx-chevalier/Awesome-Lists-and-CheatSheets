@@ -8,7 +8,7 @@
 
 - [PlatformIO ![code](https://ng-tech.icu/assets/code.svg)](https://platformio.org/): PlatformIO is an open source ecosystem for IoT development Cross-platform IDE and unified debugger. Remote unit testing and firmware updates
 
-- [2017-ThingsBoard ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/thingsboard/thingsboard): Open-source IoT Platform - Device management, data collection, processing and visualization.
+- [2017~ThingsBoard ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/thingsboard/thingsboard): Open-source IoT Platform - Device management, data collection, processing and visualization.
 
 - [2018~YodaOS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/yodaos-project/yodaos): This is a modern operating system for next generation interactive device, and it embraces Web community, uses JavaScript as the application language.
 
@@ -28,7 +28,7 @@
 
 - [2015-EMQ X Broker ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/emqx/emqx): Scalable Distributed MQTT Message Broker for IoT in 5G Era
 
-- [2016-thingsboard gateway ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/thingsboard/thingsboard-gateway): Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with ThingsBoard IoT Platform using OPC-UA and MQTT protocols
+- [2016~thingsboard gateway ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/thingsboard/thingsboard-gateway): Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with ThingsBoard IoT Platform using OPC-UA and MQTT protocols
 
 - [Haven ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/guardianproject/haven): Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors.
 

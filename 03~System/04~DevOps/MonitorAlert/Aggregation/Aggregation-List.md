@@ -4,7 +4,7 @@
 
 - [2015-How To Use Prometheus to Monitor Your Ubuntu 14.04 Server](https://parg.co/Ura)
 
-- [2017-Monitor your applications with Prometheus](https://blog.alexellis.io/prometheus-monitoring/): In this hands-on guide we will look at how to integrate Prometheus monitoring into an existing application. Monitoring an application can give you insights into how it is being used and when.
+- [2017~Monitor your applications with Prometheus](https://blog.alexellis.io/prometheus-monitoring/): In this hands-on guide we will look at how to integrate Prometheus monitoring into an existing application. Monitoring an application can give you insights into how it is being used and when.
 
 - [Grafana dashboards for MySQL and MongoDB monitoring using Prometheus ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/percona/grafana-dashboards)
 

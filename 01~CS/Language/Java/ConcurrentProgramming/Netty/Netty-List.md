@@ -6,7 +6,7 @@
 
 - [2015-Norman-《Netty in Action》📚](http://93.174.95.29/_ads/A861BBD08F8EADD7068C39B33DA23C16): Netty in Action introduces the Netty framework and shows you how to incorporate it into your Java network applications. You'll learn to write highly scalable applications without the need to dive into the low-level non-blocking APIs at the core of Java.
 
-- [2016-《Netty Learning》📚](https://github.com/code4craft/netty-learning): Netty 是 Java 世界知名的网络应用框架。本系列文章是 Netty 的源码导读。
+- [2016~《Netty Learning》📚](https://github.com/code4craft/netty-learning): Netty 是 Java 世界知名的网络应用框架。本系列文章是 Netty 的源码导读。
 
 - [2018~《深入浅出 Netty》 #Series#](https://www.infoq.cn/article/netty-in-depth): 为了便于大家集中学习 Netty，我们把已经发表的相关文章进行汇总和提取，形成一本迷你书，奉献给各位读者。
 

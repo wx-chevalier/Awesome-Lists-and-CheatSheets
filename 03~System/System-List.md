@@ -24,13 +24,13 @@
 
 ## Books
 
-- [2016-架构师特刊-微服务与 DevOps 技术内参》📚](http://q.infoqstatic.com/ppt/Microservice&DevOps.pdf)
+- [2016~架构师特刊-微服务与 DevOps 技术内参》📚](http://q.infoqstatic.com/ppt/Microservice&DevOps.pdf)
 
-- [2016-《Production Ready Microservices》📚](https://parg.co/U6C): Susan Fowler presents a set of microservice standards in depth, drawing from her experience standardizing over a thousand microservices at Uber. You’ll learn how to design microservices that are stable, reliable, scalable, fault tolerant, performant, monitored, documented, and prepared for any catastrophe.
+- [2016~《Production Ready Microservices》📚](https://parg.co/U6C): Susan Fowler presents a set of microservice standards in depth, drawing from her experience standardizing over a thousand microservices at Uber. You’ll learn how to design microservices that are stable, reliable, scalable, fault tolerant, performant, monitored, documented, and prepared for any catastrophe.
 
-- [2017-《Microservice Patterns》📚](https://microservices.io/patterns/index.html): A pattern language for microservices
+- [2017~《Microservice Patterns》📚](https://microservices.io/patterns/index.html): A pattern language for microservices
 
-- [2017-《The System Design Primer》📚](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep for the system design interview.
+- [2017~《The System Design Primer》📚](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep for the system design interview.
 
 - [《Software-Engineering-at-Google》📚](https://github.com/qiangmzsx/Software-Engineering-at-Google): 《Software Engineering at Google》的中文翻译版本。
 
@@ -42,7 +42,7 @@
 
 - [2018~从 Spring Cloud 开始，聊聊微服务架构实践之路](http://mp.weixin.qq.com/s/DZQU4s9YNx4fXsfwu5whIg): 平台的技术架构也完成了从传统的单体应用到微服务化的演进。
 
-- [2017-The System Design Primer 🗃️](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [2017~The System Design Primer 🗃️](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
 - [互联网公司经典技术架构 🗃️](https://github.com/davideuler/architecture.of.internet-product#): 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay 的架构。
 
@@ -60,4 +60,4 @@
 
 ## Series
 
-- [2017-Re：从 0 开始的微服务架构 #Series#](http://www.infoq.com/cn/minibooks/microservice--from-zero): 系列文章就是将以上过程给大家做个分享，不深究概念，不深入细节，只希望能够对微服务架构能够有一个相对全面的认识，从而能够帮助大家成功落地微服务架构。
+- [2017~Re：从 0 开始的微服务架构 #Series#](http://www.infoq.com/cn/minibooks/microservice--from-zero): 系列文章就是将以上过程给大家做个分享，不深究概念，不深入细节，只希望能够对微服务架构能够有一个相对全面的认识，从而能够帮助大家成功落地微服务架构。

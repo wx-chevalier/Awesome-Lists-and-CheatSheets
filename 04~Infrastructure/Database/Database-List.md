@@ -4,11 +4,11 @@
 
 - [2015-The Next 50 Years of Databases](http://www.cs.cmu.edu/~pavlo/blog/2015/09/the-next-50-years-of-databases.html): I know that it's been a year since my last post and that I still need to write part 3 in my series on the open research problems for transaction processing database systems.
 
-- [2016-Evolutionary Database Design](http://martinfowler.com/articles/evodb.html): Over the last decade we've developed and refined a number of techniques that allow a database design to evolve as an application develops.
+- [2016~Evolutionary Database Design](http://martinfowler.com/articles/evodb.html): Over the last decade we've developed and refined a number of techniques that allow a database design to evolve as an application develops.
 
-- [2017-The Rise of GPU Databases](https://parg.co/UZc): The recent but noticeable shift from CPUs to GPUs is mainly due to the unique benefits they bring to sectors like AdTech, finance, telco, retail, or security/IT . We examine where GPU databases shine.
+- [2017~The Rise of GPU Databases](https://parg.co/UZc): The recent but noticeable shift from CPUs to GPUs is mainly due to the unique benefits they bring to sectors like AdTech, finance, telco, retail, or security/IT . We examine where GPU databases shine.
 
-- [2017-2017 年数据库技术盘点](https://cloud.tencent.com/developer/article/1042652): 我们将从学术界、工程界的角度，从国外到国内，从数据库内核技术到数据库运维等多种角度，一起来回顾精彩的 2017。
+- [2017~2017 年数据库技术盘点](https://cloud.tencent.com/developer/article/1042652): 我们将从学术界、工程界的角度，从国外到国内，从数据库内核技术到数据库运维等多种角度，一起来回顾精彩的 2017。
 
 - [2019~国产数据库激荡 40 年](https://mp.weixin.qq.com/s/JgBbKHzVBbPxClEiNMH2Wg): 在被 Oracle、MySQL、DB2 等产品蚕食的中国数据库市场，国产自研数据库如何才能真正崛起？
 
@@ -18,7 +18,7 @@
 
 ## Comparison
 
-- [2017-Millions of Queries per Second](https://parg.co/Pwp): PostgreSQL and MySQL’s Peaceful Battle at Today’s Demanding Workloads
+- [2017~Millions of Queries per Second](https://parg.co/Pwp): PostgreSQL and MySQL’s Peaceful Battle at Today’s Demanding Workloads
 
 - [2019~Top 11 Open Source Database for Your Next Project](https://geekflare.com/open-source-database/amp/): Data is everything. And by extension, so are databases. Here are some fantastic open source options for your next kick-ass project.
 
@@ -46,7 +46,7 @@
 
 - [2015-Readings in Database Systems-5th》📚](http://www.redbook.io/): Readings in Database Systems (commonly known as the "Red Book") has offered readers an opinionated take on both classic and cutting-edge research in the field of data management since 1988.
 
-- [2017-Designing Data Intensive Applications》📚](https://dataintensive.net/): This book will help you navigate the diverse and fast-changing landscape of technologies for storing and processing data. We compare a broad variety of tools and approaches, so that you can see the strengths and weaknesses of each, and decide what’s best for your application.
+- [2017~Designing Data Intensive Applications》📚](https://dataintensive.net/): This book will help you navigate the diverse and fast-changing landscape of technologies for storing and processing data. We compare a broad variety of tools and approaches, so that you can see the strengths and weaknesses of each, and decide what’s best for your application.
 
 - [2019~Database Internal》📚](https://www.databass.dev): The book consists of two parts: Storage Engines and Distributed Systems since that’s where most of the differences between the vast majority of databases is coming from.
 
@@ -66,7 +66,7 @@
 
 ## Collection
 
-- [2016-Readings in Databases 🗃️](https://github.com/rxin/db-readings): A list of papers essential to understanding databases and building new data systems.
+- [2016~Readings in Databases 🗃️](https://github.com/rxin/db-readings): A list of papers essential to understanding databases and building new data systems.
 
 - [2019~DB-TUTORIAL 🗃️](https://github.com/dunwu/db-tutorial): 💾 db-tutorial 是一个数据库教程。
 
@@ -110,4 +110,4 @@
 
 - [List of NoSQL Database](http://nosql-database.org/)
 
-- [2017-Architect's Guide to NoSQL](http://www.datastax.com/wp-content/uploads/resources/whitepaper/DataStax_WP_Architects_Guide_to_NoSQL.pdf): This guide was created to help answer all these questions and more. In the following pages, you'll learn exactly what NoSQL is, why it's needed, how it works, what it should be used for, and (just as importantly) when it shouldn't be used
+- [2017~Architect's Guide to NoSQL](http://www.datastax.com/wp-content/uploads/resources/whitepaper/DataStax_WP_Architects_Guide_to_NoSQL.pdf): This guide was created to help answer all these questions and more. In the following pages, you'll learn exactly what NoSQL is, why it's needed, how it works, what it should be used for, and (just as importantly) when it shouldn't be used

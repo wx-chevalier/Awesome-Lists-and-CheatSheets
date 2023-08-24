@@ -12,11 +12,11 @@
 
 # Naive Bayes Classification
 
-- [2017-A practical explanation of a Naive Bayes classifier](https://parg.co/byp)
+- [2017~A practical explanation of a Naive Bayes classifier](https://parg.co/byp)
 
 # Support Vector Machine
 
-- [2017-An introduction to Support Vector Machines (SVM)](https://parg.co/byG)
+- [2017~An introduction to Support Vector Machines (SVM)](https://parg.co/byG)
 
 - [What is a Support Vector Machine, and Why Would I Use it?](http://www.kdnuggets.com/2017/02/yhat-support-vector-machine.html)
 

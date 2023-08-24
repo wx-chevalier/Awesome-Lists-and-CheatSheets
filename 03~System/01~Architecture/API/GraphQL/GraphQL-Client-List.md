@@ -10,7 +10,7 @@
 
 # DevOps
 
-- [2017-How to use GraphQL beyond the frontend, from GraphQL Summit 2017](https://dev-blog.apollodata.com/universal-graphql-5d4260a9a1b5)
+- [2017~How to use GraphQL beyond the frontend, from GraphQL Summit 2017](https://dev-blog.apollodata.com/universal-graphql-5d4260a9a1b5)
 
 - [2018~Caching GraphQL results in your CDN](https://dev-blog.apollodata.com/caching-graphql-results-in-your-cdn-54299832b8e2): How putting together Apollo Cache Control, Engine, and Automatic Persisted Queries makes it easy.
 

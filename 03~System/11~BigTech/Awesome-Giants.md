@@ -14,7 +14,7 @@
 
 # Google | 谷歌
 
-- [2017-老司机独家揭秘 Google 的软件工程实践](https://parg.co/SBP): 老司机 Fergus Henderson 已在 Google 工作了 10 年以上，拥有超过 15 年的商业类软件的行业经验。本文梳理并总结了 Google 软件开发中的关键工程实践，并揭示了其成功之道，值得业界各路人马参考借鉴。
+- [2017~老司机独家揭秘 Google 的软件工程实践](https://parg.co/SBP): 老司机 Fergus Henderson 已在 Google 工作了 10 年以上，拥有超过 15 年的商业类软件的行业经验。本文梳理并总结了 Google 软件开发中的关键工程实践，并揭示了其成功之道，值得业界各路人马参考借鉴。
 
 - [xg2xg ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jhuangtw-dev/xg2xg): by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 
@@ -34,7 +34,7 @@
 
 # 微信
 
-- [2017- 微信高并发资金交易系统设计方案：百亿红包背后的技术支撑](http://mp.weixin.qq.com/s/suBAJrP6uN2kFgHtGz16mw)：本文将为读者介绍百亿级别红包背后的系统高并发设计方案，包括微信红包的两大业务特点、微信红包系统的技术难点、解决高并发问题通常使用的方案，以及微信红包系统的高并发解决方案。
+- [2017~ 微信高并发资金交易系统设计方案：百亿红包背后的技术支撑](http://mp.weixin.qq.com/s/suBAJrP6uN2kFgHtGz16mw)：本文将为读者介绍百亿级别红包背后的系统高并发设计方案，包括微信红包的两大业务特点、微信红包系统的技术难点、解决高并发问题通常使用的方案，以及微信红包系统的高并发解决方案。
 
 ## Netflix
 
@@ -96,13 +96,13 @@
 
 # 大规模基础架构
 
-- [2017-深度解密京东登月平台基础架构](https://parg.co/bg7)：近日，京东发布登月机器学习平台，并在京东云上线，正式对外提供人工智能服务。登月机器学习平台的上线代表着京东人工智能技术从应用级服务到基础算法的全面对外开放，实践着京东 RaaS(零售即服务)的发展策略。今天我们邀请了 AI 与大数据部的工程师为大家深度解密京东登月平台基础架构。
+- [2017~深度解密京东登月平台基础架构](https://parg.co/bg7)：近日，京东发布登月机器学习平台，并在京东云上线，正式对外提供人工智能服务。登月机器学习平台的上线代表着京东人工智能技术从应用级服务到基础算法的全面对外开放，实践着京东 RaaS(零售即服务)的发展策略。今天我们邀请了 AI 与大数据部的工程师为大家深度解密京东登月平台基础架构。
 
-- [2016-Data Infrastructure At Airbnb](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c#.8y91c8qmk): At Airbnb we promote a data informed culture and use data as a key input for making decisions.
+- [2016~Data Infrastructure At Airbnb](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c#.8y91c8qmk): At Airbnb we promote a data informed culture and use data as a key input for making decisions.
 
 - [2018~Stream & Go: News Feeds for Over 300 Million End Users](https://parg.co/Uku): Stream is an API that enables developers to build news feeds and activity streams (try the API). We are used by over 500 companies and power the feeds of more than 300 million end users.
 
-- [2017-Distributed Systems-3rd edition》📚](https://parg.co/UeG): 1. Introduction 2. Architectures 3. Processes 4. Communication 5. Naming 6. Coordination 7. Replication 8. Fault tolerance 9. Security
+- [2017~Distributed Systems-3rd edition》📚](https://parg.co/UeG): 1. Introduction 2. Architectures 3. Processes 4. Communication 5. Naming 6. Coordination 7. Replication 8. Fault tolerance 9. Security
 
 # 创业公司的基础架构
 

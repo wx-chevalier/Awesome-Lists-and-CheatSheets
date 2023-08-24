@@ -22,7 +22,7 @@
 
 # Deployment
 
-- [Github Pages](): [2017-GitHub Pages and Single-Page Apps](https://dev.to/_evansalter/github-pages-and-single-page-apps)
+- [Github Pages](): [2017~GitHub Pages and Single-Page Apps](https://dev.to/_evansalter/github-pages-and-single-page-apps)
 
 ## Code Sandbox
 

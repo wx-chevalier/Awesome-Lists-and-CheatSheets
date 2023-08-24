@@ -28,7 +28,7 @@
 
 # MIS & Report | 信息系统与报表
 
-- [2017-amis ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/baidu/amis): 一种基于特定 JSON 格式生成 MIS 页面的工具。
+- [2017~amis ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/baidu/amis): 一种基于特定 JSON 格式生成 MIS 页面的工具。
 
 - [2020~Baserow ![code](https://ng-tech.icu/assets/code.svg)](https://cubox.pro/c/eKXL5I): Open source no-code database tool and Airtable alternative.
 
@@ -38,9 +38,9 @@
 
 # Page Builder
 
-- [2016-Structor ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ipselon/structor): Install Components > Prototype UI > Generate Source Code > Build Application.
+- [2016~Structor ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ipselon/structor): Install Components > Prototype UI > Generate Source Code > Build Application.
 
-- [2017-grapesjs ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/artf/grapesjs): Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
+- [2017~grapesjs ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/artf/grapesjs): Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
 
 - [2018~Pagedraw ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Pagedraw/pagedraw): Pagedraw is a UI builder for React web apps. It works like a Sketch or Figma style design tool, but emits good quality JSX code.
 

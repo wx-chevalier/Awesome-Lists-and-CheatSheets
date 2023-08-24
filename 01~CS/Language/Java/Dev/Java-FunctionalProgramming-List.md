@@ -1,12 +1,12 @@
 # Java Functional Programming List
 
-- [2017-Functional alternatives to the traditional for loop](https://parg.co/baJ)
+- [2017~Functional alternatives to the traditional for loop](https://parg.co/baJ)
 
-- [2017-Immutables ![code](https://ng-tech.icu/assets/code.svg)](http://immutables.github.io/): Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most comprehensive tool in this field!
+- [2017~Immutables ![code](https://ng-tech.icu/assets/code.svg)](http://immutables.github.io/): Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most comprehensive tool in this field!
 
-- [2017-Java 8 idioms #Series#](https://www.ibm.com/developerworks/java/library/j-java8idioms1/index.html): Think declaratively to adopt functional techniques in your Java programs.
+- [2017~Java 8 idioms #Series#](https://www.ibm.com/developerworks/java/library/j-java8idioms1/index.html): Think declaratively to adopt functional techniques in your Java programs.
 
-- [2017-Java Lambda Internals #Series#](https://github.com/CarpenterLee/JavaLambdaInternals): 本系列文章不打算去争论“什么才算是一门真正的函数式语言”这类问题。我们会将重点放在如何使用 Java Lambda 表达式，如何使用 stream，以及二者背后的原理。
+- [2017~Java Lambda Internals #Series#](https://github.com/CarpenterLee/JavaLambdaInternals): 本系列文章不打算去争论“什么才算是一门真正的函数式语言”这类问题。我们会将重点放在如何使用 Java Lambda 表达式，如何使用 stream，以及二者背后的原理。
 
 - [2018~精练代码：一次 Java 函数式编程的重构之旅](http://www.importnew.com/28139.html): 通过一次并发处理数据集的 Java 代码重构之旅，展示函数式编程如何使得代码更加精练。
 
@@ -24,6 +24,6 @@
 
 # Stream | 流
 
-- [2017-Java Streams cheat sheet](https://zeroturnaround.com/rebellabs/java-8-streams-cheat-sheet/): This blog post discusses the streams API, but if you’re impatient, here’s the 1 page Java 8 streams cheat sheet, click on it, save it, print it out!
+- [2017~Java Streams cheat sheet](https://zeroturnaround.com/rebellabs/java-8-streams-cheat-sheet/): This blog post discusses the streams API, but if you’re impatient, here’s the 1 page Java 8 streams cheat sheet, click on it, save it, print it out!
 
 - [2018~The Java 8 Stream API Tutorial](https://www.baeldung.com/java-8-streams): In this in-depth tutorial, we will go through the practical usage of Java 8 Streams from creation to parallel execution.

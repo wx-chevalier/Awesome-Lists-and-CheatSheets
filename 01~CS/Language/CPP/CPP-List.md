@@ -4,7 +4,7 @@
 
 # Tutorial
 
-- [2017-C++17/14/11](https://parg.co/b1f): A cheatsheet of modern C++ language and library features.
+- [2017~C++17/14/11](https://parg.co/b1f): A cheatsheet of modern C++ language and library features.
 
 - [2018~CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): a set of tried-and-true guidelines, rules, and best practices about coding in C++.
 

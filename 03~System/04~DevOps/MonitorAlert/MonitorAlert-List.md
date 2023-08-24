@@ -1,6 +1,6 @@
 # Monitor & Alert Links（监控与告警资料索引）
 
-- [2016-osquery For Security](https://medium.com/@clong/osquery-for-security-b66fffdf2daf): This post contains an overview of how to create an osquery config, centralize the log output, and start creating effective searches and alerts.
+- [2016~osquery For Security](https://medium.com/@clong/osquery-for-security-b66fffdf2daf): This post contains an overview of how to create an osquery config, centralize the log output, and start creating effective searches and alerts.
 
 - [2018~深入理解 iostat](https://mp.weixin.qq.com/s/nvDudsOmYxLUKblcAtCqng): 现在我们由浅到深地介绍这个工具，它输出的含义什么，介绍它的能力边界，介绍关于这个工具的常见误解。
 
@@ -12,7 +12,7 @@
 
 # Visualization Monitor | 可视化监控
 
-- [2017-新思路设计可视化大型微服务监控系统](https://mp.weixin.qq.com/s/UTcpXJcrIERHZYmLkt1gog):达达 - 京东到家的 Overwatch 系统已经在线上运行了一年有余，采用了创新性的可视化监控设计，并成功帮助达达。
+- [2017~新思路设计可视化大型微服务监控系统](https://mp.weixin.qq.com/s/UTcpXJcrIERHZYmLkt1gog):达达 - 京东到家的 Overwatch 系统已经在线上运行了一年有余，采用了创新性的可视化监控设计，并成功帮助达达。
 
 # 智能异常检测
 

@@ -2,7 +2,7 @@
 
 - [Java 线性查找和二分查找](http://blog.163.com/magicc_love/blog/static/185853662201471941758112/)
 
-- [2017-Wade ![code](https://ng-tech.icu/assets/code.svg) #JavaScript#](https://github.com/KingPixil/wade): Blazing fast, 1kb search.
+- [2017~Wade ![code](https://ng-tech.icu/assets/code.svg) #JavaScript#](https://github.com/KingPixil/wade): Blazing fast, 1kb search.
 
 - [教你如何迅速秒杀掉：99% 的海量数据处理面试题](http://blog.csdn.net/v_july_v/article/details/7382693)
 

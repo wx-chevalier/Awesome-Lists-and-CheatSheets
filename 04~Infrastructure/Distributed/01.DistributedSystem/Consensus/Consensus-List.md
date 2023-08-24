@@ -18,9 +18,9 @@
 
 - [不懂点 CAP 理论，你好意思说你是做分布式的吗？](https://parg.co/ULa): CAP 理论，被戏称为[帽子理论]。CAP 理论由 Eric Brewer 在 ACM 研讨会上提出，而后 CAP 被奉为分布式领域的重要理论。
 
-- [2016-2016 年，分布式数据库的那些事儿都在这里！](https://parg.co/b1g)
+- [2016~2016 年，分布式数据库的那些事儿都在这里！](https://parg.co/b1g)
 
-- [2016-腾讯金融级分布式数据库 TDSQL 的前世今生](http://blog.csdn.net/test_soy/article/details/53259136): TDSQL(Tencent Distributed MySQL，腾讯分布式 MySQL)是由腾讯技术工程事业群计费平台部针对金融联机交易场景开发的高一致性数据库集群产品。
+- [2016~腾讯金融级分布式数据库 TDSQL 的前世今生](http://blog.csdn.net/test_soy/article/details/53259136): TDSQL(Tencent Distributed MySQL，腾讯分布式 MySQL)是由腾讯技术工程事业群计费平台部针对金融联机交易场景开发的高一致性数据库集群产品。
 
 ## Eventually Consistency
 

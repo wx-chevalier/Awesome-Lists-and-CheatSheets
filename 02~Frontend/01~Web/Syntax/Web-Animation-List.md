@@ -1,20 +1,20 @@
 # Web Animation List
 
-- [2016-A Guide to Browser Scroll Animations](http://developer.telerik.com/featured/guide-browser-scroll-animations/?ref=mybridge.co): In this article, we'll look at multiple options for implementing scroll animations, from building them from scratch yourself to using some existing libraries.
+- [2016~A Guide to Browser Scroll Animations](http://developer.telerik.com/featured/guide-browser-scroll-animations/?ref=mybridge.co): In this article, we'll look at multiple options for implementing scroll animations, from building them from scratch yourself to using some existing libraries.
 
-- [2017-CSS Glitch Effect](https://parg.co/Uh7): An experimental glitch effect powered by CSS animations and the clip-path property. Inspired by the technique seen on the speakers page of the 404 conference.
+- [2017~CSS Glitch Effect](https://parg.co/Uh7): An experimental glitch effect powered by CSS animations and the clip-path property. Inspired by the technique seen on the speakers page of the 404 conference.
 
-- [2017-不会做动画的前端不是好开发](https://parg.co/bL0)：在动画方面能紧跟技术趋势的优秀前端实在是比较难找，本文则希望让那些想在动画方面有些提升的朋友有所帮助。
+- [2017~不会做动画的前端不是好开发](https://parg.co/bL0)：在动画方面能紧跟技术趋势的优秀前端实在是比较难找，本文则希望让那些想在动画方面有些提升的朋友有所帮助。
 
 - [Popmotion](http://popmotion.io/guides/get-started): Popmotion 提供了一个与以上两个动画框架的[特性对比](http://popmotion.io/guides/feature-comparison)。
 
 # CSS3 Animation
 
-- [2016-Smooth as Butter: Achieving 60 FPS Animations with CSS3](https://parg.co/bIT): We want to give you a hand in harnessing the power of CSS3 correctly. To do just that we need to understand a few things first.
+- [2016~Smooth as Butter: Achieving 60 FPS Animations with CSS3](https://parg.co/bIT): We want to give you a hand in harnessing the power of CSS3 correctly. To do just that we need to understand a few things first.
 
-- [2017-A quick introduction to CSS animations](https://parg.co/beF): In this article you’ll learn the basics CSS animations, which allows you to gradually change an element’s style from one state to another.
+- [2017~A quick introduction to CSS animations](https://parg.co/beF): In this article you’ll learn the basics CSS animations, which allows you to gradually change an element’s style from one state to another.
 
-- [2017-CSS Animations vs the Web Animations API: A Case Study](https://bitsofco.de/css-animations-vs-the-web-animations-api/): Last week, I wrote about how I created the bitsofcode logo animation with CSS. After that, it was suggested that I attempt a comparison between a CSS animation and the Web Animations API, so here it is!
+- [2017~CSS Animations vs the Web Animations API: A Case Study](https://bitsofco.de/css-animations-vs-the-web-animations-api/): Last week, I wrote about how I created the bitsofcode logo animation with CSS. After that, it was suggested that I attempt a comparison between a CSS animation and the Web Animations API, so here it is!
 
 - [Building performant expand & collapse animations](https://parg.co/bCz)
 
@@ -24,7 +24,7 @@
 
 - [2014-Myth Busting: CSS Animations vs. JavaScript](https://css-tricks.com/myth-busting-css-animations-vs-javascript/): Jack does a lot of work with animations in the browser and has discovered that the generic opinion that "CSS is faster" just isn't true. It's more than that, as well. I'll let him explain.
 
-- [2017-Discover the Power of CSS Transforms](https://www.heartinternet.uk/blog/discover-the-power-of-css-transforms/)
+- [2017~Discover the Power of CSS Transforms](https://www.heartinternet.uk/blog/discover-the-power-of-css-transforms/)
 
 - [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.gyk8ppgys)
 
@@ -46,7 +46,7 @@
 
 ## requestAnimationFrame
 
-- [2017-Gain Motion Superpowers with requestAnimationFrame](https://parg.co/bDt)
+- [2017~Gain Motion Superpowers with requestAnimationFrame](https://parg.co/bDt)
 
 - [intro-to-the-web-animations-api](https://pawelgrzybek.com/intro-to-the-web-animations-api/)
 
@@ -60,7 +60,7 @@
 
 - [react-overdrive ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/berzniz/react-overdrive): Super easy magic-move transitions for React apps. 能够在不同的页面间指定相同 ID 的元素，Overdrive 会自动为这两个元素之间添加转场动画。
 
-- [2017-flubber ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/veltman/flubber): Tools for smoother shape animations.
+- [2017~flubber ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/veltman/flubber): Tools for smoother shape animations.
 
 - [Anime.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/juliangarnier/anime)
 
@@ -70,7 +70,7 @@
 
 - [CSS3 动画实践 – 2017 京东集团开年大会项目有趣的动画实现](http://jdc.jd.com/archives/3337)
 
-- [2017-Rythm.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Okazari/Rythm.js): A javascript library that makes your page dance.
+- [2017~Rythm.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Okazari/Rythm.js): A javascript library that makes your page dance.
 
 - [turn.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/blasten/turn.js)
 

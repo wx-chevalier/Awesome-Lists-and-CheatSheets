@@ -4,4 +4,4 @@
 
 - [数据结构和算法系列 16 哈夫曼树](http://www.cnblogs.com/mcgrady/p/3329825.html)
 
-- [2017-Everything you need to know about tree data structures](https://parg.co/U6d): This post is to help you better understand the Tree Data Structure and to clarify any confusion you may have about it.
+- [2017~Everything you need to know about tree data structures](https://parg.co/U6d): This post is to help you better understand the Tree Data Structure and to clarify any confusion you may have about it.

@@ -39,7 +39,7 @@
 
 ## Classification
 
-- [2016-FastText ![code](https://ng-tech.icu/assets/code.svg)](https://fasttext.cc/): FastText is an open-source, free, lightweight library that allows users to learn text representations and text classifiers. It works on standard, generic hardware. Models can later be reduced in size to even fit on mobile devices.
+- [2016~FastText ![code](https://ng-tech.icu/assets/code.svg)](https://fasttext.cc/): FastText is an open-source, free, lightweight library that allows users to learn text representations and text classifiers. It works on standard, generic hardware. Models can later be reduced in size to even fit on mobile devices.
 
 ## Syntax & Semantic Analysis
 
@@ -85,7 +85,7 @@
 
 - [ChatterBot ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/gunthercox/ChatterBot): ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 
-- [2016-Hubot ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hubotio/hubot): Hubot is a framework to build chat bots, modeled after GitHub's Campfire bot of the same name, hubot. He's pretty cool. He's extendable with scripts and can work on many different chat services.
+- [2016~Hubot ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hubotio/hubot): Hubot is a framework to build chat bots, modeled after GitHub's Campfire bot of the same name, hubot. He's pretty cool. He's extendable with scripts and can work on many different chat services.
 
 - [2019~Botpress ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/botpress/botpress): The ultimate open-source conversational platform with built-in natural language processing (NLU), easy-to-use graphical interface and dialog manager.
 

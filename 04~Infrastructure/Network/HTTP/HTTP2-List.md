@@ -1,8 +1,8 @@
 # HTTP/2 学习与资料索引
 
-- [2017-A Comprehensive Guide To HTTP/2 Server Push](https://www.smashingmagazine.com/2017/04/guide-http2-server-push/)
+- [2017~A Comprehensive Guide To HTTP/2 Server Push](https://www.smashingmagazine.com/2017/04/guide-http2-server-push/)
 
-- [2017-HTTP/2 push is tougher than I thought](https://parg.co/bi4): HTTP/2 push is more complicated and low-level than I initially thought, but what really caught me off-guard is how inconsistent it is between browsers – I'd assumed it was a done deal & totally ready for production.
+- [2017~HTTP/2 push is tougher than I thought](https://parg.co/bi4): HTTP/2 push is more complicated and low-level than I initially thought, but what really caught me off-guard is how inconsistent it is between browsers – I'd assumed it was a done deal & totally ready for production.
 
 - [speed-up-your-sites-with-http-2](https://medium.com/@WebdesignerDepot/speed-up-your-sites-with-http-2-f6ee33cef6bd#.yzdpzial0)
 
@@ -24,4 +24,4 @@
 
 - [未来已到 ——HTTP/2](https://segmentfault.com/a/1190000007637735)
 
-- [2017-Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/): HTTP/2 will make our applications faster, simpler, and more robust — a rare combination — by allowing us to undo many of the HTTP/1.1 workarounds previously done within our applications and address these concerns within the transport layer itself.
+- [2017~Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/): HTTP/2 will make our applications faster, simpler, and more robust — a rare combination — by allowing us to undo many of the HTTP/1.1 workarounds previously done within our applications and address these concerns within the transport layer itself.

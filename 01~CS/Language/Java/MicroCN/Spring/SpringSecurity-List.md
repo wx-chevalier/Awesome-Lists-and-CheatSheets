@@ -10,7 +10,7 @@
 
 # JWT
 
-- [2017-Spring Boot Security Jwt Authentication](https://www.devglan.com/spring-security/spring-boot-jwt-auth): In this post we will be securing our REST APIs with JWT(JSOn Web Token) authentication. We will be using spring boot maven based configuration to develop and secure our APIs with seperate API for signup and generate token.
+- [2017~Spring Boot Security Jwt Authentication](https://www.devglan.com/spring-security/spring-boot-jwt-auth): In this post we will be securing our REST APIs with JWT(JSOn Web Token) authentication. We will be using spring boot maven based configuration to develop and secure our APIs with seperate API for signup and generate token.
 
 - [Securing Spring Boot with JWTs](https://auth0.com/blog/securing-spring-boot-with-jwts/): Learn how to set up a Spring Boot project using Java, and secure it with JWTs.
 
@@ -22,4 +22,4 @@
 
 # SQL Injection
 
-- [2016-A beginner’s guide to SQL injection and how you should prevent it](https://parg.co/bB1)
+- [2016~A beginner’s guide to SQL injection and how you should prevent it](https://parg.co/bB1)

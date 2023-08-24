@@ -32,7 +32,7 @@
 
 ## Showcase
 
-- [2017-explicit-architecture-php ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hgraca/explicit-architecture-php): This repository is a demo of Explicit Architecture, using the Symfony Demo Application.
+- [2017~explicit-architecture-php ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hgraca/explicit-architecture-php): This repository is a demo of Explicit Architecture, using the Symfony Demo Application.
 
 - [2019~Vlingo ![code](https://ng-tech.icu/assets/code.svg)](https://docs.vlingo.io/): The vlingo/PLATFORM was designed for building fluent domain models inside applications and services using a DDD mindset.
 

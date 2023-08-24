@@ -4,9 +4,9 @@
 
 - [2013-Tengine ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alibaba/tengine): A distribution of Nginx with some advanced features.
 
-- [2016-Kong ![code](https://ng-tech.icu/assets/code.svg)](https://getkong.org/): The open-source API Gateway and Microservices Management Layer, delivering high performance and reliability.
+- [2016~Kong ![code](https://ng-tech.icu/assets/code.svg)](https://getkong.org/): The open-source API Gateway and Microservices Management Layer, delivering high performance and reliability.
 
-- [2016-VeryNginx ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alexazhou/VeryNginx): A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
+- [2016~VeryNginx ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alexazhou/VeryNginx): A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 
 - [2018~HTTPS Portal ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/SteveLTN/https-portal): A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 
@@ -28,6 +28,6 @@
 
 - [2015-CometD ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/cometd/cometd): The CometD project, a scalable comet (server push) implementation for web messaging.
 
-- [2016-deepstream ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/deepstreamIO/deepstream.io): deepstream is an open source server inspired by concepts behind financial trading technology. It allows clients and backend services to sync data, send messages and make rpcs at very high speed and scale.
+- [2016~deepstream ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/deepstreamIO/deepstream.io): deepstream is an open source server inspired by concepts behind financial trading technology. It allows clients and backend services to sync data, send messages and make rpcs at very high speed and scale.
 
-- [2017-iot_push ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/1ssqq1lxr/iot_push): 基于 netty + mqtt 3.1.1 协议开发的物联网消息推送框架。
+- [2017~iot_push ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/1ssqq1lxr/iot_push): 基于 netty + mqtt 3.1.1 协议开发的物联网消息推送框架。

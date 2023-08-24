@@ -6,9 +6,9 @@
 
 - [AlgoWiki 🗃️](https://github.com/vicky002/AlgoWiki): Repository which contains links and resources on different topics of Computer Science. Join us
 
-- [2017-Quora-500 Data Structures and Algorithms practice problems and their solutions](https://parg.co/UGW)
+- [2017~Quora-500 Data Structures and Algorithms practice problems and their solutions](https://parg.co/UGW)
 
-- [2017-ngraph.path![code](https://ng-tech.icu/assets/code.svg)](https://github.com/anvaka/ngraph.path): Fast path finding for arbitrary graphs.
+- [2017~ngraph.path![code](https://ng-tech.icu/assets/code.svg)](https://github.com/anvaka/ngraph.path): Fast path finding for arbitrary graphs.
 
 - [DevDocs ![code](https://ng-tech.icu/assets/code.svg)](https://devdocs.io/): API Documentation Browser.
 
@@ -20,13 +20,13 @@
 
 - [Git Magic》📚](https://crypto.stanford.edu/~blynn/gitmagic/): Rather than go into details, we provide rough instructions for particular effects. After repeated use, gradually you will understand how each trick works, and how to tailor the recipes for your needs.
 
-- [2017-How open source licenses work and how to add them to your projects](https://parg.co/UAs)
+- [2017~How open source licenses work and how to add them to your projects](https://parg.co/UAs)
 
-- [2016-Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/): At this point you’ve undoubtedly heard about imperative programming vs declarative programming. You might have even searched for what those terms actually mean.
+- [2016~Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/): At this point you’ve undoubtedly heard about imperative programming vs declarative programming. You might have even searched for what those terms actually mean.
 
-- [2017-The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/): In them, I write about what I’ve learned on Software Architecture, how I think of it, and how I use that knowledge.
+- [2017~The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/): In them, I write about what I’ve learned on Software Architecture, how I think of it, and how I use that knowledge.
 
-- [2017-Software Engineering is different from Programming](https://medium.com/@samerbuna/software-engineering-is-different-from-programming-b108c135af26): All software engineers can program, but not all programmers can engineer software.
+- [2017~Software Engineering is different from Programming](https://medium.com/@samerbuna/software-engineering-is-different-from-programming-b108c135af26): All software engineers can program, but not all programmers can engineer software.
 
 # OpenSource
 

@@ -6,7 +6,7 @@
 
 - [Scrape any Website/Service/API with a single SQL Select Statement](https://hackernoon.com/scrape-any-website-service-api-with-a-single-sql-select-statement-8d60be1e9a49#.qk9dmtpdv)
 
-- [2016-什么样的爬虫才是好爬虫](https://parg.co/EBM): Robots 协议探究
+- [2016~什么样的爬虫才是好爬虫](https://parg.co/EBM): Robots 协议探究
 
 # Overview
 

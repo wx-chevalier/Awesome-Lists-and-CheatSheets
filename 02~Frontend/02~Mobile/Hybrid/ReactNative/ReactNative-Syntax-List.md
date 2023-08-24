@@ -6,7 +6,7 @@
 
 ## Style
 
-- [2016-Tips for styling your React Native apps](https://parg.co/beN): In this post I’ll go through a series of techniques for “theming” your react native application.
+- [2016~Tips for styling your React Native apps](https://parg.co/beN): In this post I’ll go through a series of techniques for “theming” your react native application.
 
 # UI
 
@@ -16,10 +16,10 @@
 
 ## List
 
-- [2016-Custom Pull to Refresh Animations in React Native](https://parg.co/bXO)
+- [2016~Custom Pull to Refresh Animations in React Native](https://parg.co/bXO)
 
-- [2016-Building infinite scroll in React Native](http://frontside.io/blog/2016/12/15/building-infinite-scroll-in-react-native.html)
+- [2016~Building infinite scroll in React Native](http://frontside.io/blog/2016/12/15/building-infinite-scroll-in-react-native.html)
 
-- [2017-Building a great scrollable list in React Native with FlatList](https://parg.co/bXs)
+- [2017~Building a great scrollable list in React Native with FlatList](https://parg.co/bXs)
 
-- [2017-How to use the FlatList Component — React Native Basics](https://parg.co/bXQ): Since v0.43 of React Native we’ve had access to two new list views, the FlatList and the SectionList. Today we will take a look at how to use the FlatList component.
+- [2017~How to use the FlatList Component — React Native Basics](https://parg.co/bXQ): Since v0.43 of React Native we’ve had access to two new list views, the FlatList and the SectionList. Today we will take a look at how to use the FlatList component.

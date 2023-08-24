@@ -4,7 +4,7 @@
 
 # Canvas
 
-- [2017-匠心打造 Canvas 签名组件](http://louiszhai.github.io/2017/07/07/canvas-draw/)
+- [2017~匠心打造 Canvas 签名组件](http://louiszhai.github.io/2017/07/07/canvas-draw/)
 
 - [HTML canvas tutorial](https://skilled.co/html-canvas/)
 

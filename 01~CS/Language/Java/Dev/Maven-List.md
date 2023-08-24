@@ -10,4 +10,4 @@
 
 - [maven-best-practices](http://www.kyleblaney.com/maven-best-practices/)
 
-- [2017-用 Maven 管理多模块项目的最佳实践](https://parg.co/AaN): 将介绍如何使用 Maven 来模块化管理项目及其依赖。
+- [2017~用 Maven 管理多模块项目的最佳实践](https://parg.co/AaN): 将介绍如何使用 Maven 来模块化管理项目及其依赖。

@@ -22,7 +22,7 @@
 
 - [cartoonify ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/danmacnish/cartoonify): Draw This is a polaroid camera that draws cartoons.
 
-- [2017-Fully convolutional watermark removal attack ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/marcbelmont/cnn-watermark-removal): Fully convolutional deep neural network to remove transparent overlays from images.
+- [2017~Fully convolutional watermark removal attack ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/marcbelmont/cnn-watermark-removal): Fully convolutional deep neural network to remove transparent overlays from images.
 
 - [im2markup ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/harvardnlp/im2markup): A general-purpose, deep learning-based system to decompile an image into presentational markup.
 
@@ -76,7 +76,7 @@
 
 # Others
 
-- [2017-用深度学习对对联 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/wb14123/seq2seq-couplet): This is a project use seq2seq model to play couplets (对对联)。This project is written with Tensorflow. You can try the demo at https://ai.binwang.me/couplet.
+- [2017~用深度学习对对联 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/wb14123/seq2seq-couplet): This is a project use seq2seq model to play couplets (对对联)。This project is written with Tensorflow. You can try the demo at https://ai.binwang.me/couplet.
 
 # Game | 游戏
 

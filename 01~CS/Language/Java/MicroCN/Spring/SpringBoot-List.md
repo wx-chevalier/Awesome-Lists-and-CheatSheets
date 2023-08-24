@@ -1,8 +1,8 @@
 # Spring Boot
 
-- [2017-Zen and the Art of Unit Testing](http://marcin-chwedczuk.github.io/zen-and-the-art-of-unit-testing): In this blog post we will concern ourselves with unit testing of classic 3-layer business applications.
+- [2017~Zen and the Art of Unit Testing](http://marcin-chwedczuk.github.io/zen-and-the-art-of-unit-testing): In this blog post we will concern ourselves with unit testing of classic 3-layer business applications.
 
-- [2017-Spring Boot metrics monitoring using Prometheus & Grafana](https://parg.co/UV0): In this post we'll discuss how to achieve the same goal, using another open source stack: Prometheus and Grafana.
+- [2017~Spring Boot metrics monitoring using Prometheus & Grafana](https://parg.co/UV0): In this post we'll discuss how to achieve the same goal, using another open source stack: Prometheus and Grafana.
 
 - [2018~SpringBoot 2 performance — servlet stack vs WebFlux reactive stack](https://parg.co/U7O): The intent of this experiment to compare the traditional servlet stack vs the reactive stack by capturing their performance under load.
 

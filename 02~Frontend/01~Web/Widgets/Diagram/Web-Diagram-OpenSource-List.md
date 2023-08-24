@@ -22,7 +22,7 @@
 
 - [roughViz.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jwilber/roughViz): Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 
-- [2017-recharts ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/recharts/recharts)](https://github.com/recharts/recharts): Redefined chart library built with React and D3.
+- [2017~recharts ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/recharts/recharts)](https://github.com/recharts/recharts): Redefined chart library built with React and D3.
 
 - [2020~visx ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/airbnb/visx): visx is a collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of react for updating the DOM.
 
@@ -54,7 +54,7 @@
 
 ## Map | 地图
 
-- [2017-maptalks.js](https://github.com/maptalks/maptalks.js): An open-source javascript library for map applications.
+- [2017~maptalks.js](https://github.com/maptalks/maptalks.js): An open-source javascript library for map applications.
 
 - [2018~deck.gl ![code](https://ng-tech.icu/assets/code.svg)](http://deck.gl/#/): deck.gl is a WebGL-powered framework for visual exploratory data analysis of large datasets.
 

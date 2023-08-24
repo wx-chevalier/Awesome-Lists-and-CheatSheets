@@ -8,7 +8,7 @@
 
 - [Codebrag ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/softwaremill/codebrag): Your daily code review tool. Codebrag is a simple code review tool that makes the process work for your team. NOW OPEN-SOURCE AND FREE!
 
-- [2016-整天说 Code Review 重要，你知道应该关注哪些关键点吗？](https://parg.co/Mgr)
+- [2016~整天说 Code Review 重要，你知道应该关注哪些关键点吗？](https://parg.co/Mgr)
 
 - [7 个 code review 的技巧](https://zhuanlan.zhihu.com/p/24562689)
 

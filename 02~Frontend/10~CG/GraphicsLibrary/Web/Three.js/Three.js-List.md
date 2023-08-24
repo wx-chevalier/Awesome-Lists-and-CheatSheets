@@ -14,7 +14,7 @@
 
 # Series
 
-- [2017-Into Vertex Shaders #Series#](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804): This is a series of tutorials about WebGL, Three.js, and Three.bas, my extension for complex and highly performant 3D animation systems.
+- [2017~Into Vertex Shaders #Series#](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804): This is a series of tutorials about WebGL, Three.js, and Three.bas, my extension for complex and highly performant 3D animation systems.
 
 - [2020~Three.js 零基础入门教程 #Series#](http://www.webgl3d.cn/Three.js/): 《Three.js 零基础入门教程》是一套很好的 Three.js 入门教程，每节课除了知识讲解，还提供了基本行行注释的案例源码，如果对视频讲解有需要，也可以选择赞助作者 Three.js 视频教程。
 

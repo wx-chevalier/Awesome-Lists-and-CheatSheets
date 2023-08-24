@@ -1,6 +1,6 @@
 # Vision
 
-- [2016-engineering-management 🗃️](https://github.com/charlax/engineering-management): A collection of inspiring resources related to engineering management and tech leadership
+- [2016~engineering-management 🗃️](https://github.com/charlax/engineering-management): A collection of inspiring resources related to engineering management and tech leadership
 
 - [2019~技术文章配图指南](https://draveness.me/sketch-and-sketch): 这可能是一篇很多博客的读者都期待的文章，我最终还是决定说一说如何为技术文章配图这一话题，过去的几年一直都有非常多的读者在博客、微博和公众号下面提出这样的问题 ——你的图是用什么工具画的？。
 

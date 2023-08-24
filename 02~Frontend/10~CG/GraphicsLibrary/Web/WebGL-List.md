@@ -2,9 +2,9 @@
 
 - [WebGL and Image Filter 101](https://parg.co/UvE): WebGL is the foundation of most of the 3D applications on the Web; more than that, it can also be used to enhance images effects.
 
-- [2017-Build a flappy bird copy with TypeScript & Pixi.js](https://parg.co/Uv5)
+- [2017~Build a flappy bird copy with TypeScript & Pixi.js](https://parg.co/Uv5)
 
-- [2017-WebGL 基础知识](http://eux.baidu.com/blog/2017/11/832)
+- [2017~WebGL 基础知识](http://eux.baidu.com/blog/2017/11/832)
 
 - [WebGL2 Fundamentals](https://webgl2fundamentals.org): WebGL2 from the ground up. No magic.
 
@@ -24,7 +24,7 @@
 
 # OpenSource
 
-- [2017-PicoGL.js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tsherif/picogl.js)](https://github.com/tsherif/picogl.js): PicoGL.js is a minimal WebGL 2 rendering library. It's meant for developers who understand the WebGL 2 rendering pipeline and want to use it, but with a more convenient API. Typical usage of PicoGL.js will involve creating programs, vertex buffers, vertex arrays, uniform buffers, framebuffers, textures, transform feedbacks, and combining them into draw calls.
+- [2017~PicoGL.js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tsherif/picogl.js)](https://github.com/tsherif/picogl.js): PicoGL.js is a minimal WebGL 2 rendering library. It's meant for developers who understand the WebGL 2 rendering pipeline and want to use it, but with a more convenient API. Typical usage of PicoGL.js will involve creating programs, vertex buffers, vertex arrays, uniform buffers, framebuffers, textures, transform feedbacks, and combining them into draw calls.
 
 - [Hilo3d ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hiloteam/Hilo3d): 🎮 A 3D WebGL Rendering Engine developed by Alibaba Group
 

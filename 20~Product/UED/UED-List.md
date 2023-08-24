@@ -4,7 +4,7 @@
 
 # Atomic Design
 
-- [2017-Atomic Design with React](https://cheesecakelabs.com/blog/atomic-design-react/): That was the moment in which we paused to rethink our architecture and how we could set the components in a more distributed and organized way.
+- [2017~Atomic Design with React](https://cheesecakelabs.com/blog/atomic-design-react/): That was the moment in which we paused to rethink our architecture and how we could set the components in a more distributed and organized way.
 
 - [2019~Design Systems and Front-End Architecture](https://noti.st/sturobson/yc1gwN/design-systems-and-front-end-architecture#suKJUUR): Design Systems are so hot right now, in this talk I will discuss the various parts that make up one and offer various takeaways to help you start or continue your current system.
 
@@ -96,7 +96,7 @@ UI 设计的主要工作都包括进去了，如果能够将这三本书很好�
 
 - [2014-Steve-Don’t Make Me Think, Revisited》📚](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf): A Common Sense Approach to Web Usability.
 
-- [2017-The Design of Everyday Things》📚](http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf): This is a starter kit for good design. It is intended to be enjoyable and informative for everyone: everyday people, technical people, designers, and nondesigners.
+- [2017~The Design of Everyday Things》📚](http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf): This is a starter kit for good design. It is intended to be enjoyable and informative for everyone: everyday people, technical people, designers, and nondesigners.
 
 # 色彩搭配
 
@@ -119,4 +119,4 @@ UI 设计的主要工作都包括进去了，如果能够将这三本书很好�
 
 - [2018~7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886): Improving your designs with tactics instead of talent.
 
-- [2017-Froala Design Blocks](https://github.com/froala/design-blocks): All blocks are based on the Bootstrap Library, and they are the building blocks for beautiful websites.
+- [2017~Froala Design Blocks](https://github.com/froala/design-blocks): All blocks are based on the Bootstrap Library, and they are the building blocks for beautiful websites.
