@@ -759,8 +759,8 @@
       - 4.7.7 ReverseEngineering [1]
         - [4.7.7.1 ReverseEngineering List](/03~System/05~InfoSecurity/ReverseEngineering/ReverseEngineering-List.md)
       - 4.7.8 Vulns [2]
-        - [4.7.8.1 VulnerabilityEnvironment OpenSource List](/03~System/05~InfoSecurity/Vulns/VulnerabilityEnvironment-OpenSource-List.md)
-        - [4.7.8.2 Vulns List](/03~System/05~InfoSecurity/Vulns/Vulns-List.md)
+        - [4.7.8.1 Vulns List](/03~System/05~InfoSecurity/Vulns/Vulns-List.md)
+        - [4.7.8.2 VulnsEnv OpenSource List](/03~System/05~InfoSecurity/Vulns/VulnsEnv-OpenSource-List.md)
       - 4.7.9 WebSecurity [2]
         - [4.7.9.1 WAF List](/03~System/05~InfoSecurity/WebSecurity/WAF-List.md)
         - [4.7.9.2 WebSecurity List](/03~System/05~InfoSecurity/WebSecurity/WebSecurity-List.md)
