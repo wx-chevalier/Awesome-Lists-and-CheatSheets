@@ -62,6 +62,8 @@
 
 - [2017~yedf2/handy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/yedf2/handy)](https://github.com/yedf2/handy): 🔥 简洁易用的 C++11 网络库 / 支持单机千万并发连接 / a simple C++11 network server framework。
 
+- [2018~ZLMediaKit/ZLToolKit ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ZLMediaKit/ZLToolKit)](https://github.com/ZLMediaKit/ZLToolKit): 一个基于 C++11 的轻量级网络框架，基于线程池技术可以实现大并发网络 IO
+
 - [2020~oneTBB ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/oneapi-src/oneTBB)](https://github.com/oneapi-src/oneTBB): oneTBB is a flexible C++ library that simplifies the work of adding parallelism to complex applications, even if you are not a threading expert.
 
 - [2022~alibaba/async_simple ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/alibaba/async_simple)](https://github.com/alibaba/async_simple): The async_simple is a library offering simple, light-weight and easy-to-use components to write asynchronous codes. The components offered include the Lazy (based on C++20 stackless coroutine), the Uthread (based on stackful coroutine) and the traditional Future/Promise.

@@ -76,8 +76,6 @@
 
 - [wandb ![code](https://ng-tech.icu/assets/code.svg)](https://docs.wandb.com/docs/started.html): Our tool wandb helps you track and visualize machine learning experiments.
 
-- [Streamlit ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/streamlit/streamlit): Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts.
-
 - [2021~lux ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/lux-org/lux): Python API for Intelligent Visual Data Discovery
 
 ## Utils & IDE

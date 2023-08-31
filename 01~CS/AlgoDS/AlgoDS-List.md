@@ -18,6 +18,8 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [Algorithm → AST → CSS](https://github.com/skidding/illustrated-algorithms): Inspired by Grokking Algorithms and python-execution-trace, this project aims to reveal the mechanics behind algorithms via interactive visualizations of their execution.
 
+- [VisuAlgo](https://visualgo.net/en): visualising data structures and algorithms through animation
+
 # Resource
 
 ## Site

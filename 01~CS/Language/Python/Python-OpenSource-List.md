@@ -89,3 +89,5 @@
 # UI
 
 - [2021~Gradio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gradio-app/gradio)](https://github.com/gradio-app/gradio): Gradio is an open-source Python library that is used to build machine learning and data science demos and web applications.
+
+- [Streamlit ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/streamlit/streamlit): Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts.
