@@ -1168,8 +1168,9 @@
         - 6.12.5.1 99~参考资料 [1]
           - [6.12.5.1.1 AI Canon](/10~AI/NLP/LLM/99~参考资料/2023-AI%20Canon.md)
         - 6.12.5.2 LLM Application [4]
-          - 6.12.5.2.1 Agent [1]
-            - [6.12.5.2.1.1 LLM Agent OpenSource List](/10~AI/NLP/LLM/LLM-Application/Agent/LLM-Agent-OpenSource-List.md)
+          - 6.12.5.2.1 Agent [2]
+            - [6.12.5.2.1.1 LLM Agent List](/10~AI/NLP/LLM/LLM-Application/Agent/LLM-Agent-List.md)
+            - [6.12.5.2.1.2 LLM Agent OpenSource List](/10~AI/NLP/LLM/LLM-Application/Agent/LLM-Agent-OpenSource-List.md)
           - 6.12.5.2.2 CustomData [1]
             - [6.12.5.2.2.1 LLM CustomData OpenSource List](/10~AI/NLP/LLM/LLM-Application/CustomData/LLM-CustomData-OpenSource-List.md)
           - [6.12.5.2.3 LLM Application OpenSource List](/10~AI/NLP/LLM/LLM-Application/LLM-Application-OpenSource-List.md)

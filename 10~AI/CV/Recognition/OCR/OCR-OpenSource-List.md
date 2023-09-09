@@ -13,3 +13,5 @@
 - [2019~PaddleOCR ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/PaddlePaddle/PaddleOCR): Awesome OCR toolkits based on PaddlePaddle（8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）.
 
 - [2020~mmocr ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/open-mmlab/mmocr): OpenMMLab Text Detection, Recognition and Understanding Toolbox
+
+- [2023-facebookresearch/nougat ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/facebookresearch/nougat)](https://github.com/facebookresearch/nougat): Neural Optical Understanding for Academic Documents.
