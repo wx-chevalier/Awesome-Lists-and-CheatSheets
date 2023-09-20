@@ -6,6 +6,8 @@
 
 - [2018~The Illustrated TLS Connection](https://tls.ulfheim.net): Every byte of a TLS connection explained and reproduced.
 
+- [2018~How HTTPS works ...in a comic! 🌈 🎉 🍕](https://howhttps.works/): Follow the adventures of Certificat, Browserbird, and Compugter as they explain why HTTPS is crucial for the future of the web and how it all works together. Don't let the bad crabs get you (you'll know what we mean in the comic). Get to know HTTPS and why it is essential to your privacy.
+
 # Internals
 
 - [https://en.wikipedia.org/wiki/Transport_Layer_Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)

@@ -34,6 +34,10 @@
 
 - [2023~DriverBox ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/iBUILDING-X/driver-box): 一款基于物联网开源框架 Edgex 打造的泛化协议接入服务。以插件化的形式融合了 Modbus、Bacnet、HTTP、MQTT 等主流协议，同时也支持基于 TCP 的各类私有化协议对接。
 
+# Database
+
+- [2022-IoTDB ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/apache/iotdb)](https://github.com/apache/iotdb): IoTDB (Internet of Things Database) is a data management system for time series data, which provides users with specific services including data collection, storage and analysis. Due to its light weight structure, high performance and usable features, together with its seamless integration with the Hadoop and Spark ecology, IoTDB meets the requirements of massive dataset storage, high throughput data input, and complex data analysis in the industrial IoT field.
+
 # Visual Tools
 
 - [node-red ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/node-red/node-red): A visual tool for wiring the Internet of Things.

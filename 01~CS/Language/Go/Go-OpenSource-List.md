@@ -52,6 +52,10 @@
 
 - [go-eagle ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/go-eagle/eagle): 🦅 一款小巧的基于 Go 构建的开发框架，可以快速构建 API 服务或者 Web 网站进行业务开发，遵循 SOLID 设计原则。
 
+## HTTP Server
+
+- [2023~eliben/static-server ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/eliben/static-server)](https://github.com/eliben/static-server): A simple, zero-configuration HTTP server CLI for serving static files
+
 # Dev
 
 - [GoPlus ![code](https://ng-tech.icu/assets/code.svg)](https://www.oschina.net/p/goplus): GoPlus（Go+）是一门静态类型语言，与 Go 语言完全兼容。其代码样式类似脚本，并且比 Go 更具可读性，专门用于数据科学。

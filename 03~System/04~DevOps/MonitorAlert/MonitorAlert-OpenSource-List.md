@@ -48,10 +48,6 @@
 
 - [2023~HertzBeat ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dromara/hertzbeat)](https://github.com/dromara/hertzbeat): An open source, real-time monitoring system with custom-monitor and agentless. Web, database, os, middleware, cloudnative, network and more.
 
-## Storage
-
-- [2023~OpenObserve ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/openobserve/openobserve)](https://github.com/openobserve/openobserve): 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
-
 # Visualization
 
 - [Grafana ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/grafana/grafana): The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
