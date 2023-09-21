@@ -47,3 +47,7 @@
 - [2023~Danswer ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/danswer-ai/danswer)](https://github.com/danswer-ai/danswer): Danswer allows you to ask natural language questions against internal documents and get back reliable answers backed by quotes and references from the source material so that you can always trust what you get back. You can connect to a number of common tools such as Slack, GitHub, Confluence, amongst others.
 
 - [2023~KnowledgeCanvas/knowledge ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/KnowledgeCanvas/knowledge)](https://github.com/KnowledgeCanvas/knowledge): Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
+
+# Chatbot Builder
+
+- [2023~Dialoqbase ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/n4ze3m/dialoqbase)](https://github.com/n4ze3m/dialoqbase): Dialoqbase is an open-source application designed to facilitate the creation of custom chatbots using a personalized knowledge base. The application leverages advanced language models to generate accurate and context-aware responses. Additionally, it utilizes PostgreSQL, a robust relational database management system, for efficient vector search operations and for storing the knowledge base.

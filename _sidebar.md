@@ -19,7 +19,7 @@
       - 1.4.6 DataVision [2]
         - [1.4.6.1 Awesome DataVis](/00~Specials/Showcases/DataVision/Awesome-DataVis.md)
         - [1.4.6.2 Hack Effect](/00~Specials/Showcases/DataVision/Hack%20Effect.md)
-    - [1.5 Tools & Projects [31]](/00~Specials/Tools%20&%20Projects/README.md)
+    - [1.5 Tools & Projects [32]](/00~Specials/Tools%20&%20Projects/README.md)
       - [1.5.1 Automation](/00~Specials/Tools%20&%20Projects/Automation.md)
       - [1.5.2 Awesome Media Tools](/00~Specials/Tools%20&%20Projects/Awesome-Media-Tools.md)
       - [1.5.3 Awesome Tools](/00~Specials/Tools%20&%20Projects/Awesome-Tools.md)
@@ -42,30 +42,32 @@
       - [1.5.12 File](/00~Specials/Tools%20&%20Projects/File.md)
       - 1.5.13 Financial [1]
         - [1.5.13.1 Financial Tools](/00~Specials/Tools%20&%20Projects/Financial/Financial-Tools.md)
-      - 1.5.14 Media [3]
-        - [1.5.14.1 AI Image Tools](/00~Specials/Tools%20&%20Projects/Media/AI%20Image%20Tools.md)
-        - [1.5.14.2 Image Cloud Store](/00~Specials/Tools%20&%20Projects/Media/Image%20Cloud%20Store.md)
-        - [1.5.14.3 Picture Upload](/00~Specials/Tools%20&%20Projects/Media/Picture%20Upload.md)
-      - [1.5.15 Network](/00~Specials/Tools%20&%20Projects/Network.md)
-      - [1.5.16 Newsletter](/00~Specials/Tools%20&%20Projects/Newsletter.md)
-      - [1.5.17 Notification](/00~Specials/Tools%20&%20Projects/Notification.md)
-      - 1.5.18 OS [3]
-        - [1.5.18.1 OS Backup](/00~Specials/Tools%20&%20Projects/OS/OS%20Backup.md)
-        - [1.5.18.2 OS Monitor](/00~Specials/Tools%20&%20Projects/OS/OS%20Monitor.md)
-        - [1.5.18.3 OS](/00~Specials/Tools%20&%20Projects/OS/OS.md)
-      - 1.5.19 OpenSource Alternatives [1]
-        - [1.5.19.1 Open source alternatives to everyday SaaS products](/00~Specials/Tools%20&%20Projects/OpenSource%20Alternatives/Open-source%20alternatives%20to%20everyday%20SaaS%20products.md)
-      - [1.5.20 Person](/00~Specials/Tools%20&%20Projects/Person.md)
-      - [1.5.21 Productivity](/00~Specials/Tools%20&%20Projects/Productivity.md)
-      - [1.5.22 Sandbox](/00~Specials/Tools%20&%20Projects/Sandbox.md)
-      - [1.5.23 ScreenShare & VNC](/00~Specials/Tools%20&%20Projects/ScreenShare%20&%20VNC.md)
-      - [1.5.24 Startup](/00~Specials/Tools%20&%20Projects/Startup.md)
-      - [1.5.25 Teamwork](/00~Specials/Tools%20&%20Projects/Teamwork.md)
-      - [1.5.26 Terminal](/00~Specials/Tools%20&%20Projects/Terminal.md)
-      - [1.5.27 Translate Tools](/00~Specials/Tools%20&%20Projects/Translate%20Tools.md)
-      - [1.5.28 UGC](/00~Specials/Tools%20&%20Projects/UGC.md)
-      - [1.5.29 Website Builder](/00~Specials/Tools%20&%20Projects/Website%20Builder.md)
-      - [1.5.30 消息推送](/00~Specials/Tools%20&%20Projects/消息推送.md)
+      - 1.5.14 Marketing [1]
+        - [1.5.14.1 EmailAutomation Tools List](/00~Specials/Tools%20&%20Projects/Marketing/EmailAutomation-Tools-List.md)
+      - 1.5.15 Media [3]
+        - [1.5.15.1 AI Image Tools](/00~Specials/Tools%20&%20Projects/Media/AI%20Image%20Tools.md)
+        - [1.5.15.2 Image Cloud Store](/00~Specials/Tools%20&%20Projects/Media/Image%20Cloud%20Store.md)
+        - [1.5.15.3 Picture Upload](/00~Specials/Tools%20&%20Projects/Media/Picture%20Upload.md)
+      - [1.5.16 Network](/00~Specials/Tools%20&%20Projects/Network.md)
+      - [1.5.17 Newsletter](/00~Specials/Tools%20&%20Projects/Newsletter.md)
+      - [1.5.18 Notification](/00~Specials/Tools%20&%20Projects/Notification.md)
+      - 1.5.19 OS [3]
+        - [1.5.19.1 OS Backup](/00~Specials/Tools%20&%20Projects/OS/OS%20Backup.md)
+        - [1.5.19.2 OS Monitor](/00~Specials/Tools%20&%20Projects/OS/OS%20Monitor.md)
+        - [1.5.19.3 OS](/00~Specials/Tools%20&%20Projects/OS/OS.md)
+      - 1.5.20 OpenSource Alternatives [1]
+        - [1.5.20.1 Open source alternatives to everyday SaaS products](/00~Specials/Tools%20&%20Projects/OpenSource%20Alternatives/Open-source%20alternatives%20to%20everyday%20SaaS%20products.md)
+      - [1.5.21 Person](/00~Specials/Tools%20&%20Projects/Person.md)
+      - [1.5.22 Productivity](/00~Specials/Tools%20&%20Projects/Productivity.md)
+      - [1.5.23 Sandbox](/00~Specials/Tools%20&%20Projects/Sandbox.md)
+      - [1.5.24 ScreenShare & VNC](/00~Specials/Tools%20&%20Projects/ScreenShare%20&%20VNC.md)
+      - [1.5.25 Startup](/00~Specials/Tools%20&%20Projects/Startup.md)
+      - [1.5.26 Teamwork](/00~Specials/Tools%20&%20Projects/Teamwork.md)
+      - [1.5.27 Terminal](/00~Specials/Tools%20&%20Projects/Terminal.md)
+      - [1.5.28 Translate Tools](/00~Specials/Tools%20&%20Projects/Translate%20Tools.md)
+      - [1.5.29 UGC](/00~Specials/Tools%20&%20Projects/UGC.md)
+      - [1.5.30 Website Builder](/00~Specials/Tools%20&%20Projects/Website%20Builder.md)
+      - [1.5.31 消息推送](/00~Specials/Tools%20&%20Projects/消息推送.md)
     - [1.6 Weekly [8]](/00~Specials/Weekly/README.md)
       - 1.6.1  [1]
         - 1.6.1.1  [2]

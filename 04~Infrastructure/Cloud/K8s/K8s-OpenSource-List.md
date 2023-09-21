@@ -46,6 +46,8 @@
 
 - [2022~Rancher Desktop ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rancher-sandbox/rancher-desktop/): Rancher Desktop is an open-source project to bring Kubernetes and container management to the desktop. Windows, macOS and Linux versions of Rancher Desktop are available for download, though do note that the Linux version is considered a tech preview.
 
+- [2023~Meshery ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/meshery/meshery)](https://github.com/meshery/meshery): A self-service engineering platform, Meshery, is the open source, cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications. Among other features, As an extensible platform, Meshery offers visual and collaborative GitOps, freeing you from the chains of YAML while managing Kubernetes multi-cluster deployments.
+
 ## Distribution
 
 - [2019~k3s ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rancher/k3s): Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb.
