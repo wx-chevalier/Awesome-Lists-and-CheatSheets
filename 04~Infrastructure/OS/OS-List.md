@@ -40,4 +40,6 @@
 
 - [2019~MIT6.828 🎥](https://zhuanlan.zhihu.com/p/74028717): 起 OS 的大厦框架。从 Lab1 的手把手教学到 Lab6 的放任你自由，很好地对学生的学习进行了引导。学完这个课程后，你也就拥有了一个属于你自己的完整的内核雏形！
 
+  - [woai3c/MIT6.828 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/woai3c/MIT6.828)](https://github.com/woai3c/MIT6.828): MIT6.828 是 MIT 开源的一门操作系统课程--理论与实践相结合的经典。只要你跟着项目一步一步走，做完 6 个实验，就能实现一个简单的操作系统内核。
+
 - [2019~CS140e 🎥](http://web.stanford.edu/class/cs140e/): CS140e 是 Stanford 的一门操作系统课程。与其他操作系统课程相比，该课程使用现代的程序设计语言 Rust 来编写实验代码；且所有代码运行在 Raspberry Pi 3 上，通过真实硬件进行实验，学习起来应该更有乐趣。

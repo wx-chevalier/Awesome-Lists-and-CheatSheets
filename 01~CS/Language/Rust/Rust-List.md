@@ -94,6 +94,8 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2020~REST Servers in Go #Series#](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/): My plan with this series is to implement a simple REST server using several different approaches, which should make it easy to compare and contrast these approaches and their relative merits.
 
+- [2023~Shuttle Launchpad #Series#](https://www.shuttle.rs/launchpad/issues): Dive into previous Launchpad issues that empower you with in-depth knowledge of Rust concepts while building real-world web applications.
+
 # Tutorial
 
 - [2018~Learning Rust](https://learning-rust.github.io/): Installation, Hello World, Cargo, Crates, Variable bindings, Functions, Primitive Data Types, Operators & Control Flows.

@@ -50,7 +50,7 @@
 
 - [2018~6.824: Distributed Systems](http://nil.csail.mit.edu/6.824/2018/index.html): It will present abstractions and implementation techniques for engineering distributed systems.
 
-- [2018~MIT-6.824 🎥](http://nil.csail.mit.edu/6.824/2018/schedule.html): Distributed Systems Engineering, What is a distributed system?, etc.
+  - [feixiao/Distributed-Systems ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/feixiao/Distributed-Systems)](https://github.com/feixiao/Distributed-Systems): MIT 课程《Distributed Systems》学习和翻译。
 
 - [PingCAP Talent Plan 🎥](https://github.com/pingcap/talent-plan): This is a series of training courses about writing distributed systems in Go and Rust. It is maintained by PingCAP for training and/or evaluating students, new employees, and new contributors to TiDB and TiKV.
 
