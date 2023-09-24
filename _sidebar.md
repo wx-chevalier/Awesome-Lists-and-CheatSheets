@@ -1068,7 +1068,7 @@
         - [5.7.6.1 OST List](/04~Infrastructure/OS/Theory/OST-List.md)
       - 5.7.7 Windows [1]
         - [5.7.7.1 Windows List](/04~Infrastructure/OS/Windows/Windows-List.md)
-  - 6 10~AI [14]
+  - 6 10~AI [15]
     - [6.1 AI Book List](/10~AI/AI-Book-List.md)
     - [6.2 AI Course List](/10~AI/AI-Course-List.md)
     - [6.3 AI Engineering List](/10~AI/AI-Engineering-List.md)
@@ -1112,141 +1112,143 @@
         - [6.10.5.4 Object Detection List](/10~AI/CV/Recognition/Object-Detection-List.md)
       - 6.10.6 Toolkits [1]
         - [6.10.6.1 OpenCV List](/10~AI/CV/Toolkits/OpenCV-List.md)
-    - 6.11 MachineLearning [6]
-      - 6.11.1 DeepLearning [2]
-        - [6.11.1.1 DeepLearning List](/10~AI/MachineLearning/DeepLearning/DeepLearning-List.md)
-        - [6.11.1.2 NeuralNetwork List](/10~AI/MachineLearning/DeepLearning/NeuralNetwork-List.md)
-      - 6.11.2 FeatureEngineering [4]
-        - [6.11.2.1 AI TimeSeries List](/10~AI/MachineLearning/FeatureEngineering/AI-TimeSeries-List.md)
-        - [6.11.2.2 FeatureEngineering List](/10~AI/MachineLearning/FeatureEngineering/FeatureEngineering-List.md)
-        - [6.11.2.3 Personas List](/10~AI/MachineLearning/FeatureEngineering/Personas-List.md)
-        - 6.11.2.4 RepresentationLearning [1]
-          - [6.11.2.4.1 RepresentationLearning List](/10~AI/MachineLearning/FeatureEngineering/RepresentationLearning/RepresentationLearning-List.md)
-      - 6.11.3 Inference [7]
-        - 6.11.3.1 EM [1]
-          - [6.11.3.1.1 EM List](/10~AI/MachineLearning/Inference/EM/EM-List.md)
-        - 6.11.3.2 Evaluation [1]
-          - [6.11.3.2.1 ModelEvaluation List](/10~AI/MachineLearning/Inference/Evaluation/ModelEvaluation-List.md)
-        - 6.11.3.3 GradientDescent [1]
-          - [6.11.3.3.1 GradientDescent List](/10~AI/MachineLearning/Inference/GradientDescent/GradientDescent-List.md)
-        - [6.11.3.4 Inference List](/10~AI/MachineLearning/Inference/Inference-List.md)
-        - 6.11.3.5 MonteCarlo [1]
-          - [6.11.3.5.1 MonteCarlo List](/10~AI/MachineLearning/Inference/MonteCarlo/MonteCarlo-List.md)
-        - 6.11.3.6 OnlineLearning [1]
-          - [6.11.3.6.1 OnlineLearning List](/10~AI/MachineLearning/Inference/OnlineLearning/OnlineLearning-List.md)
-        - 6.11.3.7 VariationalInference [1]
-          - [6.11.3.7.1 VariationalInference List](/10~AI/MachineLearning/Inference/VariationalInference/VariationalInference-List.md)
-      - 6.11.4 LearningAlgorithm [7]
-        - 6.11.4.1 Bayes [1]
-          - [6.11.4.1.1 Bayes List](/10~AI/MachineLearning/LearningAlgorithm/Bayes/Bayes-List.md)
-        - 6.11.4.2 Classification [3]
-          - [6.11.4.2.1 Classification List](/10~AI/MachineLearning/LearningAlgorithm/Classification/Classification-List.md)
-          - [6.11.4.2.2 DecisionTree List](/10~AI/MachineLearning/LearningAlgorithm/Classification/DecisionTree-List.md)
-          - [6.11.4.2.3 Regression List](/10~AI/MachineLearning/LearningAlgorithm/Classification/Regression-List.md)
-        - 6.11.4.3 Cluster [1]
-          - [6.11.4.3.1 Cluster List](/10~AI/MachineLearning/LearningAlgorithm/Cluster/Cluster-List.md)
-        - 6.11.4.4 Ensemble [1]
-          - [6.11.4.4.1 Ensemble List](/10~AI/MachineLearning/LearningAlgorithm/Ensemble/Ensemble-List.md)
-        - 6.11.4.5 GraphicalModel [1]
-          - [6.11.4.5.1 GraphicalModel List](/10~AI/MachineLearning/LearningAlgorithm/GraphicalModel/GraphicalModel-List.md)
-        - 6.11.4.6 Markov [1]
-          - [6.11.4.6.1 Markov List](/10~AI/MachineLearning/LearningAlgorithm/Markov/Markov-List.md)
-        - 6.11.4.7 Transfer [1]
-          - [6.11.4.7.1 TransferLearning List](/10~AI/MachineLearning/LearningAlgorithm/Transfer/TransferLearning-List.md)
-      - [6.11.5 MachineLearning Course List](/10~AI/MachineLearning/MachineLearning-Course-List.md)
-      - [6.11.6 MachineLearning List](/10~AI/MachineLearning/MachineLearning-List.md)
-    - 6.12 NLP [11]
-      - 6.12.1 DNN [2]
-        - [6.12.1.1 GAN List](/10~AI/NLP/DNN/GAN-List.md)
-        - [6.12.1.2 LSTM List](/10~AI/NLP/DNN/LSTM-List.md)
-      - 6.12.2 High level Tasks [3]
-        - 6.12.2.1 DialogueSystem [3]
-          - [6.12.2.1.1 ASR List](/10~AI/NLP/High-level%20Tasks/DialogueSystem/ASR-List.md)
-          - [6.12.2.1.2 Chatbot List](/10~AI/NLP/High-level%20Tasks/DialogueSystem/Chatbot-List.md)
-          - [6.12.2.1.3 DialogueSystem List](/10~AI/NLP/High-level%20Tasks/DialogueSystem/DialogueSystem-List.md)
-        - 6.12.2.2 MachineTranslation [1]
-          - [6.12.2.2.1 MachineTranslation List](/10~AI/NLP/High-level%20Tasks/MachineTranslation/MachineTranslation-List.md)
-        - 6.12.2.3 Voice [1]
-          - [6.12.2.3.1 Voice List](/10~AI/NLP/High-level%20Tasks/Voice/Voice-List.md)
-      - 6.12.3 InformationExtraction [2]
-        - [6.12.3.1 InformationExtraction List](/10~AI/NLP/InformationExtraction/InformationExtraction-List.md)
-        - [6.12.3.2 InformationRetrieval List](/10~AI/NLP/InformationExtraction/InformationRetrieval-List.md)
-      - 6.12.4 KnowledgeGraph [1]
-        - [6.12.4.1 KnowledgeGraph List](/10~AI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
-      - 6.12.5 LLM [6]
-        - 6.12.5.1 99~参考资料 [1]
-          - [6.12.5.1.1 AI Canon](/10~AI/NLP/LLM/99~参考资料/2023-AI%20Canon.md)
-        - 6.12.5.2 LLM Application [4]
-          - 6.12.5.2.1 Agent [2]
-            - [6.12.5.2.1.1 LLM Agent List](/10~AI/NLP/LLM/LLM-Application/Agent/LLM-Agent-List.md)
-            - [6.12.5.2.1.2 LLM Agent OpenSource List](/10~AI/NLP/LLM/LLM-Application/Agent/LLM-Agent-OpenSource-List.md)
-          - 6.12.5.2.2 CustomData [1]
-            - [6.12.5.2.2.1 LLM CustomData OpenSource List](/10~AI/NLP/LLM/LLM-Application/CustomData/LLM-CustomData-OpenSource-List.md)
-          - [6.12.5.2.3 LLM Application OpenSource List](/10~AI/NLP/LLM/LLM-Application/LLM-Application-OpenSource-List.md)
-          - 6.12.5.2.4 SDK [2]
-            - [6.12.5.2.4.1 LLM SDK OpenSource List](/10~AI/NLP/LLM/LLM-Application/SDK/LLM-SDK-OpenSource-List.md)
-            - [6.12.5.2.4.2 LangChain List](/10~AI/NLP/LLM/LLM-Application/SDK/LangChain-List.md)
-        - [6.12.5.3 LLM List](/10~AI/NLP/LLM/LLM-List.md)
-        - 6.12.5.4 LLM Model [3]
-          - 6.12.5.4.1 CodeGeneration [1]
-            - [6.12.5.4.1.1 CodeGeneration OpenSource List](/10~AI/NLP/LLM/LLM-Model/CodeGeneration/CodeGeneration-OpenSource-List.md)
-          - 6.12.5.4.2 LLaMA [2]
-            - [6.12.5.4.2.1 Dolly List](/10~AI/NLP/LLM/LLM-Model/LLaMA/Dolly-List.md)
-            - [6.12.5.4.2.2 LLaMA List](/10~AI/NLP/LLM/LLM-Model/LLaMA/LLaMA-List.md)
-          - 6.12.5.4.3 OpenAI [3]
-            - 6.12.5.4.3.1 GPT [2]
-              - [6.12.5.4.3.1.1 GPT List](/10~AI/NLP/LLM/LLM-Model/OpenAI/GPT/GPT-List.md)
-              - [6.12.5.4.3.1.2 OpenAI List](/10~AI/NLP/LLM/LLM-Model/OpenAI/GPT/OpenAI-List.md)
-            - [6.12.5.4.3.2 OpenAI List](/10~AI/NLP/LLM/LLM-Model/OpenAI/OpenAI-List.md)
-            - [6.12.5.4.3.3 OpenAI Site List](/10~AI/NLP/LLM/LLM-Model/OpenAI/OpenAI-Site-List.md)
-        - [6.12.5.5 LLM OpenSource List](/10~AI/NLP/LLM/LLM-OpenSource-List.md)
-        - 6.12.5.6 LLM Prompt [1]
-          - [6.12.5.6.1 Prompt List](/10~AI/NLP/LLM/LLM-Prompt/Prompt-List.md)
-      - [6.12.6 NLP List](/10~AI/NLP/NLP-List.md)
-      - [6.12.7 NLP OpenSource List](/10~AI/NLP/NLP-OpenSource-List.md)
-      - 6.12.8 RNN [1]
-        - [6.12.8.1 RecurrentNeuralNetwork List](/10~AI/NLP/RNN/RecurrentNeuralNetwork-List.md)
-      - 6.12.9 Speech [1]
-        - [6.12.9.1 NLP Speech OpenSource List](/10~AI/NLP/Speech/NLP-Speech-OpenSource-List.md)
-      - 6.12.10 SyntaxSemanticAnalysis [2]
-        - 6.12.10.1 SentenceAnalysis [3]
-          - [6.12.10.1.1 Representation List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/Representation-List.md)
-          - [6.12.10.1.2 StatisticalLanguageModel List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/StatisticalLanguageModel-List.md)
-          - [6.12.10.1.3 TopicModel List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/TopicModel-List.md)
-        - [6.12.10.2 SyntaxSemanticAnalysis List](/10~AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
-      - 6.12.11 Transformer [2]
-        - [6.12.11.1 Transformer List](/10~AI/NLP/Transformer/Transformer-List.md)
-        - [6.12.11.2 Transformer OpenSource List](/10~AI/NLP/Transformer/Transformer-OpenSource-List.md)
-    - 6.13 ReinforcementLearning [2]
-      - 6.13.1 DRL [1]
-        - [6.13.1.1 DeepReinforcementLearning](/10~AI/ReinforcementLearning/DRL/DeepReinforcementLearning.md)
-      - [6.13.2 ReinforcementLearning List](/10~AI/ReinforcementLearning/ReinforcementLearning-List.md)
-    - 6.14 Toolkits [6]
-      - [6.14.1 AI Toolkit List](/10~AI/Toolkits/AI-Toolkit-List.md)
-      - 6.14.2 CUDA [1]
-        - [6.14.2.1 CUDA List](/10~AI/Toolkits/CUDA/CUDA-List.md)
-      - 6.14.3 FederalLearning [1]
-        - [6.14.3.1 FederalLearning List](/10~AI/Toolkits/FederalLearning/FederalLearning-List.md)
-      - 6.14.4 Framework [4]
-        - [6.14.4.1 Metaflow](/10~AI/Toolkits/Framework/Metaflow/README.md)
+    - 6.11 DataScience [1]
+      - [6.11.1 DataScience List](/10~AI/DataScience/DataScience-List.md)
+    - 6.12 MachineLearning [6]
+      - 6.12.1 DeepLearning [2]
+        - [6.12.1.1 DeepLearning List](/10~AI/MachineLearning/DeepLearning/DeepLearning-List.md)
+        - [6.12.1.2 NeuralNetwork List](/10~AI/MachineLearning/DeepLearning/NeuralNetwork-List.md)
+      - 6.12.2 FeatureEngineering [4]
+        - [6.12.2.1 AI TimeSeries List](/10~AI/MachineLearning/FeatureEngineering/AI-TimeSeries-List.md)
+        - [6.12.2.2 FeatureEngineering List](/10~AI/MachineLearning/FeatureEngineering/FeatureEngineering-List.md)
+        - [6.12.2.3 Personas List](/10~AI/MachineLearning/FeatureEngineering/Personas-List.md)
+        - 6.12.2.4 RepresentationLearning [1]
+          - [6.12.2.4.1 RepresentationLearning List](/10~AI/MachineLearning/FeatureEngineering/RepresentationLearning/RepresentationLearning-List.md)
+      - 6.12.3 Inference [7]
+        - 6.12.3.1 EM [1]
+          - [6.12.3.1.1 EM List](/10~AI/MachineLearning/Inference/EM/EM-List.md)
+        - 6.12.3.2 Evaluation [1]
+          - [6.12.3.2.1 ModelEvaluation List](/10~AI/MachineLearning/Inference/Evaluation/ModelEvaluation-List.md)
+        - 6.12.3.3 GradientDescent [1]
+          - [6.12.3.3.1 GradientDescent List](/10~AI/MachineLearning/Inference/GradientDescent/GradientDescent-List.md)
+        - [6.12.3.4 Inference List](/10~AI/MachineLearning/Inference/Inference-List.md)
+        - 6.12.3.5 MonteCarlo [1]
+          - [6.12.3.5.1 MonteCarlo List](/10~AI/MachineLearning/Inference/MonteCarlo/MonteCarlo-List.md)
+        - 6.12.3.6 OnlineLearning [1]
+          - [6.12.3.6.1 OnlineLearning List](/10~AI/MachineLearning/Inference/OnlineLearning/OnlineLearning-List.md)
+        - 6.12.3.7 VariationalInference [1]
+          - [6.12.3.7.1 VariationalInference List](/10~AI/MachineLearning/Inference/VariationalInference/VariationalInference-List.md)
+      - 6.12.4 LearningAlgorithm [7]
+        - 6.12.4.1 Bayes [1]
+          - [6.12.4.1.1 Bayes List](/10~AI/MachineLearning/LearningAlgorithm/Bayes/Bayes-List.md)
+        - 6.12.4.2 Classification [3]
+          - [6.12.4.2.1 Classification List](/10~AI/MachineLearning/LearningAlgorithm/Classification/Classification-List.md)
+          - [6.12.4.2.2 DecisionTree List](/10~AI/MachineLearning/LearningAlgorithm/Classification/DecisionTree-List.md)
+          - [6.12.4.2.3 Regression List](/10~AI/MachineLearning/LearningAlgorithm/Classification/Regression-List.md)
+        - 6.12.4.3 Cluster [1]
+          - [6.12.4.3.1 Cluster List](/10~AI/MachineLearning/LearningAlgorithm/Cluster/Cluster-List.md)
+        - 6.12.4.4 Ensemble [1]
+          - [6.12.4.4.1 Ensemble List](/10~AI/MachineLearning/LearningAlgorithm/Ensemble/Ensemble-List.md)
+        - 6.12.4.5 GraphicalModel [1]
+          - [6.12.4.5.1 GraphicalModel List](/10~AI/MachineLearning/LearningAlgorithm/GraphicalModel/GraphicalModel-List.md)
+        - 6.12.4.6 Markov [1]
+          - [6.12.4.6.1 Markov List](/10~AI/MachineLearning/LearningAlgorithm/Markov/Markov-List.md)
+        - 6.12.4.7 Transfer [1]
+          - [6.12.4.7.1 TransferLearning List](/10~AI/MachineLearning/LearningAlgorithm/Transfer/TransferLearning-List.md)
+      - [6.12.5 MachineLearning Course List](/10~AI/MachineLearning/MachineLearning-Course-List.md)
+      - [6.12.6 MachineLearning List](/10~AI/MachineLearning/MachineLearning-List.md)
+    - 6.13 NLP [11]
+      - 6.13.1 DNN [2]
+        - [6.13.1.1 GAN List](/10~AI/NLP/DNN/GAN-List.md)
+        - [6.13.1.2 LSTM List](/10~AI/NLP/DNN/LSTM-List.md)
+      - 6.13.2 High level Tasks [3]
+        - 6.13.2.1 DialogueSystem [3]
+          - [6.13.2.1.1 ASR List](/10~AI/NLP/High-level%20Tasks/DialogueSystem/ASR-List.md)
+          - [6.13.2.1.2 Chatbot List](/10~AI/NLP/High-level%20Tasks/DialogueSystem/Chatbot-List.md)
+          - [6.13.2.1.3 DialogueSystem List](/10~AI/NLP/High-level%20Tasks/DialogueSystem/DialogueSystem-List.md)
+        - 6.13.2.2 MachineTranslation [1]
+          - [6.13.2.2.1 MachineTranslation List](/10~AI/NLP/High-level%20Tasks/MachineTranslation/MachineTranslation-List.md)
+        - 6.13.2.3 Voice [1]
+          - [6.13.2.3.1 Voice List](/10~AI/NLP/High-level%20Tasks/Voice/Voice-List.md)
+      - 6.13.3 InformationExtraction [2]
+        - [6.13.3.1 InformationExtraction List](/10~AI/NLP/InformationExtraction/InformationExtraction-List.md)
+        - [6.13.3.2 InformationRetrieval List](/10~AI/NLP/InformationExtraction/InformationRetrieval-List.md)
+      - 6.13.4 KnowledgeGraph [1]
+        - [6.13.4.1 KnowledgeGraph List](/10~AI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
+      - 6.13.5 LLM [6]
+        - 6.13.5.1 99~参考资料 [1]
+          - [6.13.5.1.1 AI Canon](/10~AI/NLP/LLM/99~参考资料/2023-AI%20Canon.md)
+        - 6.13.5.2 LLM Application [4]
+          - 6.13.5.2.1 Agent [2]
+            - [6.13.5.2.1.1 LLM Agent List](/10~AI/NLP/LLM/LLM-Application/Agent/LLM-Agent-List.md)
+            - [6.13.5.2.1.2 LLM Agent OpenSource List](/10~AI/NLP/LLM/LLM-Application/Agent/LLM-Agent-OpenSource-List.md)
+          - 6.13.5.2.2 CustomData [1]
+            - [6.13.5.2.2.1 LLM CustomData OpenSource List](/10~AI/NLP/LLM/LLM-Application/CustomData/LLM-CustomData-OpenSource-List.md)
+          - [6.13.5.2.3 LLM Application OpenSource List](/10~AI/NLP/LLM/LLM-Application/LLM-Application-OpenSource-List.md)
+          - 6.13.5.2.4 SDK [2]
+            - [6.13.5.2.4.1 LLM SDK OpenSource List](/10~AI/NLP/LLM/LLM-Application/SDK/LLM-SDK-OpenSource-List.md)
+            - [6.13.5.2.4.2 LangChain List](/10~AI/NLP/LLM/LLM-Application/SDK/LangChain-List.md)
+        - [6.13.5.3 LLM List](/10~AI/NLP/LLM/LLM-List.md)
+        - 6.13.5.4 LLM Model [3]
+          - 6.13.5.4.1 CodeGeneration [1]
+            - [6.13.5.4.1.1 CodeGeneration OpenSource List](/10~AI/NLP/LLM/LLM-Model/CodeGeneration/CodeGeneration-OpenSource-List.md)
+          - 6.13.5.4.2 LLaMA [2]
+            - [6.13.5.4.2.1 Dolly List](/10~AI/NLP/LLM/LLM-Model/LLaMA/Dolly-List.md)
+            - [6.13.5.4.2.2 LLaMA List](/10~AI/NLP/LLM/LLM-Model/LLaMA/LLaMA-List.md)
+          - 6.13.5.4.3 OpenAI [3]
+            - 6.13.5.4.3.1 GPT [2]
+              - [6.13.5.4.3.1.1 GPT List](/10~AI/NLP/LLM/LLM-Model/OpenAI/GPT/GPT-List.md)
+              - [6.13.5.4.3.1.2 OpenAI List](/10~AI/NLP/LLM/LLM-Model/OpenAI/GPT/OpenAI-List.md)
+            - [6.13.5.4.3.2 OpenAI List](/10~AI/NLP/LLM/LLM-Model/OpenAI/OpenAI-List.md)
+            - [6.13.5.4.3.3 OpenAI Site List](/10~AI/NLP/LLM/LLM-Model/OpenAI/OpenAI-Site-List.md)
+        - [6.13.5.5 LLM OpenSource List](/10~AI/NLP/LLM/LLM-OpenSource-List.md)
+        - 6.13.5.6 LLM Prompt [1]
+          - [6.13.5.6.1 Prompt List](/10~AI/NLP/LLM/LLM-Prompt/Prompt-List.md)
+      - [6.13.6 NLP List](/10~AI/NLP/NLP-List.md)
+      - [6.13.7 NLP OpenSource List](/10~AI/NLP/NLP-OpenSource-List.md)
+      - 6.13.8 RNN [1]
+        - [6.13.8.1 RecurrentNeuralNetwork List](/10~AI/NLP/RNN/RecurrentNeuralNetwork-List.md)
+      - 6.13.9 Speech [1]
+        - [6.13.9.1 NLP Speech OpenSource List](/10~AI/NLP/Speech/NLP-Speech-OpenSource-List.md)
+      - 6.13.10 SyntaxSemanticAnalysis [2]
+        - 6.13.10.1 SentenceAnalysis [3]
+          - [6.13.10.1.1 Representation List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/Representation-List.md)
+          - [6.13.10.1.2 StatisticalLanguageModel List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/StatisticalLanguageModel-List.md)
+          - [6.13.10.1.3 TopicModel List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/TopicModel-List.md)
+        - [6.13.10.2 SyntaxSemanticAnalysis List](/10~AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
+      - 6.13.11 Transformer [2]
+        - [6.13.11.1 Transformer List](/10~AI/NLP/Transformer/Transformer-List.md)
+        - [6.13.11.2 Transformer OpenSource List](/10~AI/NLP/Transformer/Transformer-OpenSource-List.md)
+    - 6.14 ReinforcementLearning [2]
+      - 6.14.1 DRL [1]
+        - [6.14.1.1 DeepReinforcementLearning](/10~AI/ReinforcementLearning/DRL/DeepReinforcementLearning.md)
+      - [6.14.2 ReinforcementLearning List](/10~AI/ReinforcementLearning/ReinforcementLearning-List.md)
+    - 6.15 Toolkits [6]
+      - [6.15.1 AI Toolkit List](/10~AI/Toolkits/AI-Toolkit-List.md)
+      - 6.15.2 CUDA [1]
+        - [6.15.2.1 CUDA List](/10~AI/Toolkits/CUDA/CUDA-List.md)
+      - 6.15.3 FederalLearning [1]
+        - [6.15.3.1 FederalLearning List](/10~AI/Toolkits/FederalLearning/FederalLearning-List.md)
+      - 6.15.4 Framework [4]
+        - [6.15.4.1 Metaflow](/10~AI/Toolkits/Framework/Metaflow/README.md)
           
-        - 6.14.4.2 PyTorch [2]
-          - [6.14.4.2.1 PyTorch List](/10~AI/Toolkits/Framework/PyTorch/PyTorch-List.md)
-          - [6.14.4.2.2 PyTorch OpenSource List](/10~AI/Toolkits/Framework/PyTorch/PyTorch-OpenSource-List.md)
-        - 6.14.4.3 Scikit [3]
-          - [6.14.4.3.1 Jupyter List](/10~AI/Toolkits/Framework/Scikit/Jupyter-List.md)
-          - [6.14.4.3.2 Scikit List](/10~AI/Toolkits/Framework/Scikit/Scikit-List.md)
-          - 6.14.4.3.3 Vis [1]
-            - [6.14.4.3.3.1 Vis List](/10~AI/Toolkits/Framework/Scikit/Vis/Vis-List.md)
-        - 6.14.4.4 TensorFlow [4]
-          - [6.14.4.4.1 Keras List](/10~AI/Toolkits/Framework/TensorFlow/Keras-List.md)
-          - [6.14.4.4.2 TFjs List](/10~AI/Toolkits/Framework/TensorFlow/TFjs-List.md)
-          - [6.14.4.4.3 TensorFlow Internals List](/10~AI/Toolkits/Framework/TensorFlow/TensorFlow-Internals-List.md)
-          - [6.14.4.4.4 TensorFlow List](/10~AI/Toolkits/Framework/TensorFlow/TensorFlow-List.md)
-      - 6.14.5 MLOps [1]
-        - [6.14.5.1 MLOps List](/10~AI/Toolkits/MLOps/MLOps-List.md)
-      - 6.14.6 Platform [1]
-        - [6.14.6.1 Platform List](/10~AI/Toolkits/Platform/Platform-List.md)
+        - 6.15.4.2 PyTorch [2]
+          - [6.15.4.2.1 PyTorch List](/10~AI/Toolkits/Framework/PyTorch/PyTorch-List.md)
+          - [6.15.4.2.2 PyTorch OpenSource List](/10~AI/Toolkits/Framework/PyTorch/PyTorch-OpenSource-List.md)
+        - 6.15.4.3 Scikit [3]
+          - [6.15.4.3.1 Jupyter List](/10~AI/Toolkits/Framework/Scikit/Jupyter-List.md)
+          - [6.15.4.3.2 Scikit List](/10~AI/Toolkits/Framework/Scikit/Scikit-List.md)
+          - 6.15.4.3.3 Vis [1]
+            - [6.15.4.3.3.1 Vis List](/10~AI/Toolkits/Framework/Scikit/Vis/Vis-List.md)
+        - 6.15.4.4 TensorFlow [4]
+          - [6.15.4.4.1 Keras List](/10~AI/Toolkits/Framework/TensorFlow/Keras-List.md)
+          - [6.15.4.4.2 TFjs List](/10~AI/Toolkits/Framework/TensorFlow/TFjs-List.md)
+          - [6.15.4.4.3 TensorFlow Internals List](/10~AI/Toolkits/Framework/TensorFlow/TensorFlow-Internals-List.md)
+          - [6.15.4.4.4 TensorFlow List](/10~AI/Toolkits/Framework/TensorFlow/TensorFlow-List.md)
+      - 6.15.5 MLOps [1]
+        - [6.15.5.1 MLOps List](/10~AI/Toolkits/MLOps/MLOps-List.md)
+      - 6.15.6 Platform [1]
+        - [6.15.6.1 Platform List](/10~AI/Toolkits/Platform/Platform-List.md)
   - 7 20~Product [6]
     - 7.1 Design [1]
       - [7.1.1 Design List](/20~Product/Design/Design-List.md)
