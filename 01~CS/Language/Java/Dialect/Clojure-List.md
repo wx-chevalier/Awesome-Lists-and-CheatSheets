@@ -6,6 +6,8 @@
 
 - [2016~《Clojure 入门教程》📚](https://wizardforcel.gitbooks.io/clojure-fpftj/content/1.html): 这篇文章的目的是以通俗易懂的方式引导大家进入 Clojure 的世界。文章涵盖了 cojure 的大量的特性，对每一个特性的介绍我力求简介。你不用一条一条往下看，尽管跳到你感兴趣的条目。
 
+- [2020~《Clojure for the Brave and True》📚](https://www.braveclojure.com/clojure-for-the-brave-and-true/): Clojure’s popularity continues to grow, with companies like Netflix using it to build everything from complex, distributed systems to simple microservices to user interfaces. In Clojure for the Brave and True, you'll learn to wield this awesome language to its fullest!
+
 ## Collection
 
 - [clojure-ebook-2](https://github.com/clojurians-org/clojure-ebook-2)
@@ -15,6 +17,10 @@
 ## Series
 
 - [2020~Clojure 趣学指南 #Series#](https://devinkin.github.io/tags/clojure/): 一系列对于 Clojure 的介绍文章。
+
+## WebSites
+
+- [ClojureDocs](https://clojuredocs.org/): ClojureDocs is a community-powered documentation and examples repository for the Clojure programming language.
 
 # Tutorial
 
