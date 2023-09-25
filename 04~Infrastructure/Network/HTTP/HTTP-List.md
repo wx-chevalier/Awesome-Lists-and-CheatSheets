@@ -14,7 +14,7 @@
 
 ## Books
 
-- [2018~HTTP/3 explained》📚](https://http3-explained.haxx.se/en/): This book effort was started in March 2018. The plan is to document HTTP/3 and its underlying protocol: QUIC. Why, how they work, protocol details, the implementations and more.
+- [2018~《HTTP/3 explained》📚](https://http3-explained.haxx.se/en/): This book effort was started in March 2018. The plan is to document HTTP/3 and its underlying protocol: QUIC. Why, how they work, protocol details, the implementations and more.
 
 ## Request
 

@@ -143,11 +143,11 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 # Books
 
-- [2004-SICP, Structure and Interpretation of Computer Programs》📚](http://sarabander.github.io/sicp/html/index.xhtml): 中文名为《计算机程序的构造和解释》哪怕过了 30 年在知识爆炸各种新技术层出不穷的今天，书中的内容不但没有过期而依然保持高价值，因为它讲的不是术而是道，即不是某一项具体的技术，而是通过 Scheme 这门 Lisp 方言和相关的例子，解释了计算机程序的本质和特征。
+- [2004-《SICP, Structure and Interpretation of Computer Programs》📚](http://sarabander.github.io/sicp/html/index.xhtml): 中文名为《计算机程序的构造和解释》哪怕过了 30 年在知识爆炸各种新技术层出不穷的今天，书中的内容不但没有过期而依然保持高价值，因为它讲的不是术而是道，即不是某一项具体的技术，而是通过 Scheme 这门 Lisp 方言和相关的例子，解释了计算机程序的本质和特征。
 
-- [2008-Clean Code: A Handbook of Agile Software Craftsmanship](http://6me.us/cA697D): 中文译名[代码整洁之道](https://book.douban.com/subject/3892588/)。
+- [2008-《Clean Code: A Handbook of Agile Software Craftsmanship》📚](http://6me.us/cA697D): 中文译名[代码整洁之道](https://book.douban.com/subject/3892588/)。
 
-- [2008-编程珠玑》📚](https://book.douban.com/subject/3227098/)：本书是计算机科学方面的经典名著。书的内容围绕程序设计人员面对的一系列实际问题展开。作者 Jon Bentley 以其独有的洞察力和创造力，引导读者理解这些问题并学会解决方法，而这些正是程序员实际编程生涯中至关重要的。
+- [2008-《编程珠玑》📚](https://book.douban.com/subject/3227098/)：本书是计算机科学方面的经典名著。书的内容围绕程序设计人员面对的一系列实际问题展开。作者 Jon Bentley 以其独有的洞察力和创造力，引导读者理解这些问题并学会解决方法，而这些正是程序员实际编程生涯中至关重要的。
 
 - [2010~计算机程序设计艺术》📚](http://6me.us/zzN)：《计算机程序设计艺术》系列被公认为计算机科学领域的权威之作，《美国科学家》杂志曾将这套书与爱因斯坦的《相对论》等书并列称为 20 世纪最重要的 12 本物理学著作。《计算机程序设计艺术》深入阐述了程序设计理论，对计算机领域的发展有着极为深远的影响。
 
