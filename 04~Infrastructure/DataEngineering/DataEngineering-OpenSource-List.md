@@ -68,6 +68,8 @@
 
 - [2021~DataEase ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dataease/dataease): DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化。DataEase 支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。
 
+- [2023~DataLens ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/datalens-tech/datalens)](https://github.com/datalens-tech/datalens): DataLens is a modern business intelligence and data visualization system. It was developed and extensively used as a primary BI tool in Yandex and is also available as a part of Yandex Cloud platform.
+
 ## Data Lake
 
 - [Apache Hudi ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/apache/incubator-hudi): Upserts, Deletes And Incremental Processing on Big Data.

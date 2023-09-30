@@ -92,6 +92,8 @@
 
 # GUI Framework
 
+- [2018~yewstack/yew ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/yewstack/yew)](https://github.com/yewstack/yew): Yew is a modern Rust framework for creating multi-threaded front-end web apps with WebAssembly.
+
 - [2019~Orbital Widget Toolkit ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/redox-os/orbtk): The Orbital Widget Toolkit is a multi platform (G)UI toolkit for building scalable user interfaces with the programming language Rust. It's based on the Entity Component System Pattern and provides a functional-reactive like API.
 
 - [Tauri ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -99,5 +101,7 @@
   - [Pake](https://github.com/tw93/Pake): 🤱🏻 Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 
 - [2022~Dioxus ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/2022-DioxusLabs/dioxus)](https://github.com/2022-DioxusLabs/dioxus): Dioxus is a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust.
+
+- [2023~redbadger/crux ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/redbadger/crux)](https://github.com/redbadger/crux): Cross-platform app development in Rust.
 
 # Other

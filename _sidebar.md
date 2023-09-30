@@ -52,10 +52,11 @@
       - [1.5.16 Network](/00~Specials/Tools%20&%20Projects/Network.md)
       - [1.5.17 Newsletter](/00~Specials/Tools%20&%20Projects/Newsletter.md)
       - [1.5.18 Notification](/00~Specials/Tools%20&%20Projects/Notification.md)
-      - 1.5.19 OS [3]
+      - 1.5.19 OS [4]
         - [1.5.19.1 OS Backup](/00~Specials/Tools%20&%20Projects/OS/OS%20Backup.md)
         - [1.5.19.2 OS Monitor](/00~Specials/Tools%20&%20Projects/OS/OS%20Monitor.md)
         - [1.5.19.3 OS](/00~Specials/Tools%20&%20Projects/OS/OS.md)
+        - [1.5.19.4 Terminal & CMD Tools](/00~Specials/Tools%20&%20Projects/OS/Terminal%20&%20CMD%20Tools.md)
       - 1.5.20 OSS Alternatives [1]
         - [1.5.20.1 Open source alternatives to everyday SaaS products](/00~Specials/Tools%20&%20Projects/OSS%20Alternatives/Open-source%20alternatives%20to%20everyday%20SaaS%20products.md)
       - [1.5.21 Person](/00~Specials/Tools%20&%20Projects/Person.md)
@@ -1051,7 +1052,7 @@
         - [5.7.2.1 IoT List](/04~Infrastructure/OS/IoT/IoT-List.md)
         - [5.7.2.2 IoT OpenSource List](/04~Infrastructure/OS/IoT/IoT-OpenSource-List.md)
         - [5.7.2.3 Raspberry List](/04~Infrastructure/OS/IoT/Raspberry-List.md)
-      - 5.7.3 Linux [10]
+      - 5.7.3 Linux [9]
         - [5.7.3.1 Linux Command List](/04~Infrastructure/OS/Linux/Linux-Command-List.md)
         - [5.7.3.2 Linux Kernel List](/04~Infrastructure/OS/Linux/Linux-Kernel-List.md)
         - [5.7.3.3 Linux List](/04~Infrastructure/OS/Linux/Linux-List.md)
@@ -1060,8 +1061,7 @@
         - [5.7.3.6 Linux Shell List](/04~Infrastructure/OS/Linux/Linux-Shell-List.md)
         - [5.7.3.7 Linux Storage List](/04~Infrastructure/OS/Linux/Linux-Storage-List.md)
         - [5.7.3.8 Linux SysProc List](/04~Infrastructure/OS/Linux/Linux-SysProc-List.md)
-        - [5.7.3.9 Terminal List](/04~Infrastructure/OS/Linux/Terminal-List.md)
-        - [5.7.3.10 eBPF List](/04~Infrastructure/OS/Linux/eBPF-List.md)
+        - [5.7.3.9 eBPF List](/04~Infrastructure/OS/Linux/eBPF-List.md)
       - [5.7.4 OS List](/04~Infrastructure/OS/OS-List.md)
       - [5.7.5 OS OpenSource List](/04~Infrastructure/OS/OS-OpenSource-List.md)
       - 5.7.6 Theory [1]
