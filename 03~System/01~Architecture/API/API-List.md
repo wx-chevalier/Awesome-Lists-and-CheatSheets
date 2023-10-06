@@ -47,9 +47,3 @@
 - [WSO2 ![code](https://ng-tech.icu/assets/code.svg)](https://wso2.com/api-management/): WSO2 API Manager is a 100% open source enterprise-class solution that supports API publishing, lifecycle management, application development, access control, rate limiting and analytics in one cleanly integrated system.
 
 - [DOClever ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/sx1989827/DOClever): DOClever 是一个商业化开源产品，完全免费。无论你是前端工程师，还是后端工程师，接口永远都是两者交互的桥梁，所以 DOClever 专为中小型团队量身打造，旨在解决接口的管理，测试与数据生成，实现真正的一体化解决方案。
-
-## API Request Builder
-
-- [2019~PostWoman ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/liyasthomas/postwoman): 👽 API request builder - A free, fast, and beautiful alternative to Postman.
-
-- [2019~grpcui ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/fullstorydev/grpcui): An interactive web UI for gRPC, along the lines of postman.

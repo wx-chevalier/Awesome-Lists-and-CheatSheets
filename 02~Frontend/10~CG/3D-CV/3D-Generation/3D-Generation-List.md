@@ -20,6 +20,8 @@
 
 - [2023~guochengqian/Magic123 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/guochengqian/Magic123)](https://github.com/guochengqian/Magic123): One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors.
 
+- [2023~Dreamgaussian ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dreamgaussian/dreamgaussian)](https://github.com/dreamgaussian/dreamgaussian): Generative Gaussian Splatting for Efficient 3D Content Creation.
+
 ## Human Head Reconstruction
 
 - [SizheAn/PanoHead ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/SizheAn/PanoHead)](https://github.com/SizheAn/PanoHead): Code Repository for CVPR 2023 Paper "PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 degree"

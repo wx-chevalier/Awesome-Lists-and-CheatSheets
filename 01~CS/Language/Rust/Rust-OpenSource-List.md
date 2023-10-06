@@ -60,6 +60,10 @@
 
 - [Rustface ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/atomashpolskiy/rustface): Face detection library for the Rust programming language
 
+## Deployment
+
+- [2023~Shuttle ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/shuttle-hq/shuttle)](https://github.com/shuttle-hq/shuttle): Shuttle is a Rust-native cloud development platform that lets you deploy your Rust apps for free.
+
 # Library
 
 ## Concurrency

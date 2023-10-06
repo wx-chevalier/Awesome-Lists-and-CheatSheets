@@ -8,6 +8,8 @@
 
 - [2022~Yao ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/YaoApp/yao): 🚀 A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 
+- [2022~Amplication ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/amplication/amplication)](https://github.com/amplication/amplication): Amplication is a robust, open-source development platform crafted to revolutionize the creation of scalable and secure Node.js applications. We eliminate repetitive coding tasks and deliver production-ready infrastructure code, meticulously tailored to your specifications and adhering to industry best practices.
+
 - [2021~ToolJet ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ToolJet/ToolJet)](https://github.com/ToolJet/ToolJet): ToolJet is an open-source low-code framework to build and deploy internal tools quickly without much effort from the engineering teams. You can connect to your data sources, such as databases (like PostgreSQL, MongoDB, Elasticsearch, etc), API endpoints (ToolJet supports importing OpenAPI spec & OAuth2 authorization), and external services (like Stripe, Slack, Google Sheets, Airtable) and use our pre-built UI widgets to build internal tools.
 
 - [refine ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/refinedev/refine): An open source, headless web application framework developed with flexibility in mind.
