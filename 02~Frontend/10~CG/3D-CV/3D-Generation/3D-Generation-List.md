@@ -20,7 +20,7 @@
 
 - [2023~guochengqian/Magic123 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/guochengqian/Magic123)](https://github.com/guochengqian/Magic123): One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors.
 
-- [2023~Dreamgaussian ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dreamgaussian/dreamgaussian)](https://github.com/dreamgaussian/dreamgaussian): Generative Gaussian Splatting for Efficient 3D Content Creation.
+- [2023~DreamGaussian ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dreamgaussian/dreamgaussian)](https://github.com/dreamgaussian/dreamgaussian): Generative Gaussian Splatting for Efficient 3D Content Creation.
 
 ## Human Head Reconstruction
 
