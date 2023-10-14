@@ -22,3 +22,5 @@
 
   - [Statistical Rethinking course winter 2022](https://github.com/rmcelreath/stat_rethinking_2022): Statistical Rethinking course winter 2022
   - [PyMC3 port of the book "Statistical Rethinking" by Richard McElreath (second edition)](https://github.com/pymc-devs/pymc-resources)
+
+- [2023~Introduction to Modern Statistics~2nd #Book#](https://openintro-ims2.netlify.app/): Data are messy, and statistical tools are imperfect. However, when you understand the strengths and weaknesses of these tools, you can use them to learn interesting things about the world.

@@ -6,7 +6,9 @@
 
 - [2021~Logto ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/logto-io/logto): 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support.
 
-- [2022~casdoor ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/casdoor/casdoor): An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
+- [2022~casdoor ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/casdoor/casdoor): An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS.
+
+- [2023~Obligator ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/anderspitman/obligator)](https://github.com/anderspitman/obligator): obligator is a relatively simple and opinionated OpenID Connect (OIDC) Provider (OP) server designed for self-hosters.
 
 ## RBAC
 
