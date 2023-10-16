@@ -18,7 +18,7 @@
 
 - [bashtop ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/aristocratos/bashtop): Linux resource monitor
 
-- [Cockpit ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/cockpit-project/cockpit): Cockpit is an interactive server admin interface. It is easy to use and very light weight. Cockpit interacts directly with the operating system from a real Linux session in a browser.
+- [2017~Cockpit ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/cockpit-project/cockpit): Cockpit is an interactive server admin interface. It is easy to use and very light weight. Cockpit interacts directly with the operating system from a real Linux session in a browser.
 
 - [2020~Spug ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/openspug/spug)](https://github.com/openspug/spug): 开源运维平台：面向中小型企业设计的轻量级无 Agent 的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 
