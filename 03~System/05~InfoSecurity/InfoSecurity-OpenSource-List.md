@@ -228,6 +228,8 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [2022~Villain ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/t3l3machus/Villain): Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.
 
+- [2023~jtesta/ssh-audit ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jtesta/ssh-audit)](https://github.com/jtesta/ssh-audit): SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
+
 ## JumpServer
 
 - [Jump Server ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jumpserver/jumpserver): Jumpserver 是全球首款完全开源的堡垒机，是符合 4A 的专业运维审计系统。

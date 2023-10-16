@@ -948,8 +948,9 @@
           - [5.3.8.6.1 SQL List](/04~Infrastructure/Database/RDB/SQL/SQL-List.md)
         - 5.3.8.7 SQLServer [1]
           - [5.3.8.7.1 SQLServer List](/04~Infrastructure/Database/RDB/SQLServer/SQLServer-List.md)
-        - 5.3.8.8 SQLite [1]
+        - 5.3.8.8 SQLite [2]
           - [5.3.8.8.1 SQLite List](/04~Infrastructure/Database/RDB/SQLite/SQLite-List.md)
+          - [5.3.8.8.2 SQLite OpenSource List](/04~Infrastructure/Database/RDB/SQLite/SQLite-OpenSource-List.md)
         - 5.3.8.9 Sharding [1]
           - [5.3.8.9.1 Sharding List](/04~Infrastructure/Database/RDB/Sharding/Sharding-List.md)
       - 5.3.9 TimeSeries [3]
@@ -1197,9 +1198,10 @@
         - 6.13.5.4 LLM Model [3]
           - 6.13.5.4.1 CodeGeneration [1]
             - [6.13.5.4.1.1 CodeGeneration OpenSource List](/10~AI/NLP/LLM/LLM-Model/CodeGeneration/CodeGeneration-OpenSource-List.md)
-          - 6.13.5.4.2 LLaMA [2]
+          - 6.13.5.4.2 LLaMA [3]
             - [6.13.5.4.2.1 Dolly List](/10~AI/NLP/LLM/LLM-Model/LLaMA/Dolly-List.md)
             - [6.13.5.4.2.2 LLaMA List](/10~AI/NLP/LLM/LLM-Model/LLaMA/LLaMA-List.md)
+            - [6.13.5.4.2.3 LLaMA OpenSource List](/10~AI/NLP/LLM/LLM-Model/LLaMA/LLaMA-OpenSource-List.md)
           - 6.13.5.4.3 OpenAI [3]
             - 6.13.5.4.3.1 GPT [2]
               - [6.13.5.4.3.1.1 GPT List](/10~AI/NLP/LLM/LLM-Model/OpenAI/GPT/GPT-List.md)
