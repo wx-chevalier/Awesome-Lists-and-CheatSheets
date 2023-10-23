@@ -28,6 +28,8 @@
 
 - [fbjs ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
 
+- [2023~proxy-memoize ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dai-shi/proxy-memoize)](https://github.com/dai-shi/proxy-memoize): This library utilizes Proxy and WeakMap, and provides memoization. The memoized function will re-evaluate the original function only if the used part of argument (object) is changed. It's intuitive in a sense and magical in another sense.
+
 # DataStructure
 
 - [Calculatorjs ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/fzred/calculatorjs): Accurately arithmetic library.

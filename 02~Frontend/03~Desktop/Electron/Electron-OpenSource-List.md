@@ -64,4 +64,6 @@
 
 - [electron-pdf](https://github.com/fraserxu/electron-pdf/tree/master): 📄 A command line tool to generate PDF from URL, HTML or Markdown files.
 
+- [2018~sindresorhus/electron-context-menu ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sindresorhus/electron-context-menu)](https://github.com/sindresorhus/electron-context-menu): Electron doesn't have a built-in context menu. You're supposed to handle that yourself. But it's both tedious and hard to get right. This module gives you a nice extensible context menu with spellchecking and items like Cut/Copy/Paste for text, Save Image for images, and Copy Link for links. It also adds an Inspect Element menu item when in development to quickly view items in the inspector like in Chrome.
+
 - [2019~electron-unhandled ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sindresorhus/electron-unhandled)](https://github.com/sindresorhus/electron-unhandled): Catch unhandled errors and promise rejections in your Electron app.

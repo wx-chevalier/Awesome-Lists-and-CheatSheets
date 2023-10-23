@@ -5,3 +5,11 @@
 - [2022~DiffusionNet ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nmwsharp/diffusion-net)](https://github.com/nmwsharp/diffusion-net): DiffusionNet is a general-purpose method for deep learning on surfaces such as 3D triangle meshes and point clouds. It is well-suited for tasks like segmentation, classification, feature extraction, etc.
 
 - [2023~threestudio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/threestudio-project/threestudio)](https://github.com/threestudio-project/threestudio): threestudio is a unified framework for 3D content creation from text prompts, single images, and few-shot images, by lifting 2D text-to-image generation models.
+
+# 3D Datasets
+
+- [2023~Objaverse-XL ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/allenai/objaverse-xl)](https://github.com/allenai/objaverse-xl): 🪐 Objaverse-XL is a Universe of 10M+ 3D Objects. Contains API Scripts for Downloading and Processing!
+
+# Showcase
+
+- [Dabble-Studio/3d-to-photo ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Dabble-Studio/3d-to-photo)](https://github.com/Dabble-Studio/3d-to-photo): 3D to Photo is an open-source package by Dabble, that combines threeJS and Stable diffusion to build a virtual photo studio for product photography. Load a 3D model into the browser and virtual shoot it in any kind of scene you can imagine.

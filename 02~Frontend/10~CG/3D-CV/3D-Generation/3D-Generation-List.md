@@ -1,4 +1,8 @@
-# Mesh Generation
+# 3D Generation
+
+- [2023~Awesome-Text-to-3D ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/yyeboah/Awesome-Text-to-3D)](https://github.com/yyeboah/Awesome-Text-to-3D): A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by awesome-NeRF.
+
+# OpenSource
 
 ## Image To Mesh
 
@@ -22,6 +26,8 @@
 
 - [2023~DreamGaussian ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dreamgaussian/dreamgaussian)](https://github.com/dreamgaussian/dreamgaussian): Generative Gaussian Splatting for Efficient 3D Content Creation.
 
+- [2023~GaussianDreamer ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hustvl/GaussianDreamer)](https://github.com/hustvl/GaussianDreamer): Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors.
+
 ## Human Head Reconstruction
 
 - [SizheAn/PanoHead ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/SizheAn/PanoHead)](https://github.com/SizheAn/PanoHead): Code Repository for CVPR 2023 Paper "PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 degree"
@@ -37,3 +43,5 @@
   - [kedzkiest/shap-e-local ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/kedzkiest/shap-e-local)](https://github.com/kedzkiest/shap-e-local): The code to run shap-e text-to-3d sample code locally.
 
 - [HeadSculpt ![code](https://ng-tech.icu/assets/code.svg)](https://brandonhan.uk/HeadSculpt/): HeadSculpt can create an assortment of head avatars, including humans (both celebrities and ordinary individuals) as well as non-human characters like superheroes, comic/game characters, paintings, and more.
+
+- [2023~Gorilla-Lab-SCUT/Fantasia3D ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Gorilla-Lab-SCUT/Fantasia3D)](https://github.com/Gorilla-Lab-SCUT/Fantasia3D): Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation.

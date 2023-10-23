@@ -16,6 +16,8 @@
 
 - [2023-AgentVerse ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/OpenBMB/AgentVerse)](https://github.com/OpenBMB/AgentVerse): 🤖 AgentVerse 🪐 provides a flexible framework that simplifies the process of building custom multi-agent environments for large language models (LLMs).
 
+- [2023~OpenBMB/XAgent ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/OpenBMB/XAgent)](https://github.com/OpenBMB/XAgent): XAgent is an open-source experimental Large Language Model (LLM) driven autonomous agent that can automatically solve various tasks. It is designed to be a general-purpose agent that can be applied to a wide range of tasks. Currently, XAgent is still in its early stage, and we are working hard to improve it.
+
 # AI Town
 
 - [2023~a16z-infra/ai-town ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/a16z-infra/ai-town)](https://github.com/a16z-infra/ai-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
