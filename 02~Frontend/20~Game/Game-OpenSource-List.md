@@ -4,6 +4,10 @@
 
 - [Ebiten ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hajimehoshi/ebiten): Ebiten is an open-source game library, with which you can develop 2D games with simple API for multi platforms in the Go programming language.
 
+# Showcase
+
+- [2019~ssloy/tinyraycaster ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ssloy/tinyraycaster)](https://github.com/ssloy/tinyraycaster): Project based learning: build your own 3D shooter in a weekend
+
 # Game AI
 
 - [2022~yuka ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Mugen87/yuka)](https://github.com/Mugen87/yuka): Yuka is a JavaScript library for developing Game AI.

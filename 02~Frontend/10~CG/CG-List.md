@@ -26,6 +26,8 @@
 
 - [2010~《Real-Time Rendering-3rd》📚](https://github.com/QianMo/Real-Time-Rendering-3rd-CN-Summary-Ebook): 在实时渲染和计算机图形学领域，《Real-Time Rendering》系列书籍一直备受推崇。有人说，它是实时渲染的圣经，也有人说，它是绝世武功的目录。其实《Real-Time Rendering》很像一整本图形学主流知识体系的论文综述，它涵盖了计算机图形和实时渲染的方方面面，可做论文综述合集了解全貌，也可作案头工具书日后查用。
 
+- [2012~《Learning Modern 3D Graphics Programming》](https://paroj.github.io/gltut/): Three dimensional graphics hardware is fast becoming, not merely a staple of computer systems, but an indispensable component. Many operating systems directly use and even require some degree of 3D rendering hardware. Even in the increasingly important mobile computing space, 3D graphics hardware is a standard feature of all but the lowest power devices.
+
 - [2020~《Computer Graphics from Scratch》📚](https://gabrielgambetta.com/computer-graphics-from-scratch/): Computer Graphics from Scratch demystifies the algorithms used in modern graphics software with basic programming and high school math.
 
 ### Graphic

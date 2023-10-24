@@ -24,6 +24,8 @@
 
 - [2023~QCAD ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/qcad/qcad)](https://github.com/qcad/qcad): QCAD - The Open Source 2D CAD. QCAD is a cross-platform CAD solution for Windows, macOS and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin).
 
+- [2023~dune3d ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dune3d/dune3d)](https://github.com/dune3d/dune3d): Dune 3D is a parametric 3D CAD application that supports STEP import/export, fillets and chamfers.
+
 ## Web CAD
 
 - [2020~partdesigner ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/marian42/partdesigner)](https://github.com/marian42/partdesigner): Create custom LEGO® Technic compatible construction parts for 3D printing
@@ -33,6 +35,12 @@
   - [sgenoud/blingmything ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sgenoud/blingmything)](https://github.com/sgenoud/blingmything): Simple modifications to 3D models
 
 - [2023~Chili3D ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/xiangechen/chili3d)](https://github.com/xiangechen/chili3d): Chili3D is a fast, web-based 3D CAD program that works in any modern browser. Built with TypeScript, Three.js, and Opencascade.js.
+
+# 3D Modeller
+
+- [2018~Wings3D ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dgud/wings)](https://github.com/dgud/wings): Wings3D is an advanced sub-division modeller inspired by the Nendo and Mirai modellers from Izware.
+
+  - [lingochen/wings3d ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lingochen/wings3d)](https://github.com/lingochen/wings3d): Wings3D in a browser. Wings3D is an advanced subdivision modeler that is both powerful and easy to use..
 
 # Rust CAD
 
