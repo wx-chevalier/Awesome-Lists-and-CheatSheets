@@ -781,11 +781,9 @@
         - [4.7.9.1 WAF List](/03~System/05~InfoSecurity/WebSecurity/WAF-List.md)
         - [4.7.9.2 WebSecurity List](/03~System/05~InfoSecurity/WebSecurity/WebSecurity-List.md)
     - 4.8 10~SoftwareEngineering [2]
-      - [4.8.1 SoftwareEngineering List](/03~System/10~SoftwareEngineering/SoftwareEngineering-List.md)
-      - 4.8.2 TechMgt [2]
-        - 4.8.2.1 Agile [1]
-          - [4.8.2.1.1 Agile List](/03~System/10~SoftwareEngineering/TechMgt/Agile/Agile-List.md)
-        - [4.8.2.2 TechMgt List](/03~System/10~SoftwareEngineering/TechMgt/TechMgt-List.md)
+      - 4.8.1 Agile [1]
+        - [4.8.1.1 Agile List](/03~System/10~SoftwareEngineering/Agile/Agile-List.md)
+      - [4.8.2 SoftwareEngineering List](/03~System/10~SoftwareEngineering/SoftwareEngineering-List.md)
     - 4.9 11~BigTech [7]
       - 4.9.1 Amazon [1]
         - 4.9.1.1 AWS [1]
@@ -1258,16 +1256,16 @@
       - 6.13.6 Platform [1]
         - [6.13.6.1 Platform List](/10~AI/Toolkits/Platform/Platform-List.md)
   - 7 20~Product [6]
-    - 7.1 Design [1]
-      - [7.1.1 Design List](/20~Product/Design/Design-List.md)
-    - 7.2 Growth [3]
-      - [7.2.1 GA List](/20~Product/Growth/GA-List.md)
-      - [7.2.2 Operation List](/20~Product/Growth/Operation-List.md)
-      - [7.2.3 UGC List](/20~Product/Growth/UGC-List.md)
-    - 7.3 PM [1]
-      - [7.3.1 PM List](/20~Product/PM/PM-List.md)
-    - [7.4 Product List](/20~Product/Product-List.md)
-    - [7.5 Product OpenSource List](/20~Product/Product-OpenSource-List.md)
+    - 7.1 Growth [3]
+      - [7.1.1 GA List](/20~Product/Growth/GA-List.md)
+      - [7.1.2 Operation List](/20~Product/Growth/Operation-List.md)
+      - [7.1.3 UGC List](/20~Product/Growth/UGC-List.md)
+    - [7.2 Product List](/20~Product/Product-List.md)
+    - [7.3 Product OpenSource List](/20~Product/Product-OpenSource-List.md)
+    - 7.4 ProductDesign [1]
+      - [7.4.1 ProductDesign List](/20~Product/ProductDesign/ProductDesign-List.md)
+    - 7.5 ProjectManagement [1]
+      - [7.5.1 PM List](/20~Product/ProjectManagement/PM-List.md)
     - 7.6 UED [3]
       - [7.6.1 ColorPalette List](/20~Product/UED/ColorPalette-List.md)
       - [7.6.2 Sketch List](/20~Product/UED/Sketch-List.md)
@@ -1293,9 +1291,14 @@
         - [8.3.4.1 Intelligent Manufacturing List](/30~Business/Industry/Intelligent-Manufacturing/Intelligent-Manufacturing-List.md)
         - [8.3.4.2 Intelligent Manufacturing OpenSource List](/30~Business/Industry/Intelligent-Manufacturing/Intelligent-Manufacturing-OpenSource-List.md)
       - [8.3.5 Internet List](/30~Business/Industry/Internet-List.md)
-    - 8.4 Management [2]
-      - [8.4.1 HR List](/30~Business/Management/HR-List.md)
+    - 8.4 Management [3]
+      - 8.4.1 HR [1]
+        - [8.4.1.1 HR List](/30~Business/Management/HR/HR-List.md)
       - [8.4.2 Management List](/30~Business/Management/Management-List.md)
+      - 8.4.3 TechMgt [2]
+        - 8.4.3.1 99~参考资料 [1]
+          - [8.4.3.1.1 技术管理资料索引](/30~Business/Management/TechMgt/99~参考资料/技术管理资料索引.md)
+        - [8.4.3.2 TechMgt List](/30~Business/Management/TechMgt/TechMgt-List.md)
   - 9 40~Hardware [3]
     - [9.1 CNC List](/40~Hardware/CNC-List.md)
     - 9.2 Electronic [4]

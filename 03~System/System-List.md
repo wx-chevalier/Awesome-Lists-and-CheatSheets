@@ -24,7 +24,7 @@
 
 ## Books
 
-- [2016~架构师特刊-微服务与 DevOps 技术内参》📚](http://q.infoqstatic.com/ppt/Microservice&DevOps.pdf)
+- [2016~架构师特刊-《微服务与 DevOps 技术内参》📚](http://q.infoqstatic.com/ppt/Microservice&DevOps.pdf)
 
 - [2016~《Production Ready Microservices》📚](https://parg.co/U6C): Susan Fowler presents a set of microservice standards in depth, drawing from her experience standardizing over a thousand microservices at Uber. You’ll learn how to design microservices that are stable, reliable, scalable, fault tolerant, performant, monitored, documented, and prepared for any catastrophe.
 
