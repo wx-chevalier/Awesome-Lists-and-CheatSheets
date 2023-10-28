@@ -45,3 +45,7 @@
 - [HeadSculpt ![code](https://ng-tech.icu/assets/code.svg)](https://brandonhan.uk/HeadSculpt/): HeadSculpt can create an assortment of head avatars, including humans (both celebrities and ordinary individuals) as well as non-human characters like superheroes, comic/game characters, paintings, and more.
 
 - [2023~Gorilla-Lab-SCUT/Fantasia3D ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Gorilla-Lab-SCUT/Fantasia3D)](https://github.com/Gorilla-Lab-SCUT/Fantasia3D): Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation.
+
+## Multiple View
+
+- [2023~SUDO-AI-3D/zero123plus ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/SUDO-AI-3D/zero123plus)](https://github.com/SUDO-AI-3D/zero123plus): a Single Image to Consistent Multi-view Diffusion Base Model.

@@ -28,6 +28,8 @@
 
 - [2023~SuanCaiYv/prim ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/SuanCaiYv/prim)](https://github.com/SuanCaiYv/prim): 使用纯 Rust 实现的即时通讯系统。
 
+- [2023~Yazi ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sxyazi/yazi)](https://github.com/sxyazi/yazi): Yazi ("duck" in Chinese) is a terminal file manager written in Rust, based on non-blocking async I/O. It aims to provide an efficient, user-friendly, and customizable file management experience.
+
 ## CLI Application
 
 - [2023~kamiyaa/joshuto ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/kamiyaa/joshuto)](https://github.com/kamiyaa/joshuto): ranger-like terminal file manager written in Rust.
