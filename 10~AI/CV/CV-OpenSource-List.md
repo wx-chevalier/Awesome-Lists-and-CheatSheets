@@ -6,7 +6,7 @@
 
 - [2020~MediaPipe ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/google/mediapipe)](https://github.com/google/mediapipe): Cross-platform, customizable ML solutions for live and streaming media.
 
-# Showcase
+# Showcases
 
 - [2023~roboflow/notebooks ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/roboflow/notebooks)](https://github.com/roboflow/notebooks): Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.
 

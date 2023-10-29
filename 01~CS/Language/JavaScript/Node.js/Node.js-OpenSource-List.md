@@ -1,6 +1,6 @@
 # Node.js OpenSource List
 
-# Showcase
+# Showcases
 
 - [piping-server ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/nwtgck/piping-server): Infinitely transfer between every device over pure HTTP: designed for everyone including people using Unix pipe and even for browser users.
 

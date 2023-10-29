@@ -1,6 +1,6 @@
 # Electron OpenSource List
 
-# Showcase
+# Showcases
 
 - [2016~electron-python-example ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fyears/electron-python-example)](https://github.com/fyears/electron-python-example): Electron as GUI of Python Applications.
 

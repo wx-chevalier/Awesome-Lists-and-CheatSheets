@@ -8,7 +8,7 @@
 
 - [2013-FrePPLe ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/frePPLe/frepple)](https://github.com/frePPLe/frepple): FrePPLe is an easy-to-use and easy-to-implement open source advanced planning and scheduling tool for manufacturing companies.
 
-## Showcase
+## Showcases
 
 - [2014-fjssp ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/StevenSun2014/fjssp)](https://github.com/StevenSun2014/fjssp): The Flexible Job Shop Problem (FJSP) is an extension of the classical job shop scheduling problem which allows an operation to be processed by any machine from a given set. The problem is to assign each operation to a machine and to order the operations on the machines, such that the maximal completion time (makespan) of all operations is minimi…
 

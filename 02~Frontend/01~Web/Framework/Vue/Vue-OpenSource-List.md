@@ -1,6 +1,6 @@
 # Vue.js OpenSouce List
 
-# Showcase
+# Showcases
 
 - [2020~mini-vue ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/cuixiaorui/mini-vue): Implement the simplest vue3 model for in-depth study of vue3 source code
 

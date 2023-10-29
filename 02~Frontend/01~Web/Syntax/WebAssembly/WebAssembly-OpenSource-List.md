@@ -2,7 +2,7 @@
 
 - [AssemblyScript ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/AssemblyScript/prototype): AssemblyScript defines a subset of TypeScript that it compiles to WebAssembly.
 
-# Showcase
+# Showcases
 
 - [2017~ROCKET - A RUST GAME RUNNING ON WASM](https://parg.co/UZJ): I thought it would be interesting to try to adapt my game Rocket to work on the browser through the wasm32-unknown-unknown target.
 

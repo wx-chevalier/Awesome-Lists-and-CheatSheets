@@ -1,6 +1,6 @@
 # JavaScript OpenSource List
 
-# Showcase
+# Showcases
 
 - [WarriorJS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/olistic/warriorjs): An exciting game of programming and Artificial Intelligence.
 

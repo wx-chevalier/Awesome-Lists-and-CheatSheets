@@ -4,7 +4,7 @@
 
 - [如何用游戏引擎改造 Hybrid App？](http://mp.weixin.qq.com/s/2vwV2vt7RW0vi_4RrzfjMQ): 在移动设备上，Hybrid 混合开发的性能问题一直为人诟病，对它的各种优化、hack 层出不穷，但你听说过用游戏引擎来优化 Hybrid 性能的吗？
 
-# Showcase
+# Showcases
 
 - [Games on GitHub](https://github.com/leereilly/games): Below is a list of open source games and game-related projects that can be found on GitHub.
 

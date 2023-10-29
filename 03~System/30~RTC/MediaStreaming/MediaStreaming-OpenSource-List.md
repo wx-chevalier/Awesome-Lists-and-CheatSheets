@@ -2,7 +2,7 @@
 
 # WebRTC
 
-## Showcase
+## Showcases
 
 - [2020~snapdrop ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/RobinLinus/snapdrop): A Progressive Web App for local file sharing
 

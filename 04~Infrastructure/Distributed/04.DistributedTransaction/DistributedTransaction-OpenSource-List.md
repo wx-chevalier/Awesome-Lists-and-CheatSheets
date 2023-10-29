@@ -1,6 +1,6 @@
 # Distributed Transaction OpenSource List
 
-# Showcase
+# Showcases
 
 - [2021~dtm ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dtm-labs/dtm)](https://github.com/dtm-labs/dtm): 🔥go 语言分布式事务管理器 a lightweight distributed transaction management service, support xa tcc saga
 

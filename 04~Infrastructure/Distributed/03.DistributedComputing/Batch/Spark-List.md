@@ -1,6 +1,6 @@
 # Spark List
 
-# Showcase
+# Showcases
 
 - [UserActionAnalyzePlatform ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/oeljeklaus-you/UserActionAnalyzePlatform): 电商用户行为分析大数据平台。
 

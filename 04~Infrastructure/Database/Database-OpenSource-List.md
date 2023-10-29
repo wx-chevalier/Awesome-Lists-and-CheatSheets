@@ -1,6 +1,6 @@
 # Database OpenSource List | 数据库相关开源工具索引
 
-# Showcase
+# Showcases
 
 ## RDB
 

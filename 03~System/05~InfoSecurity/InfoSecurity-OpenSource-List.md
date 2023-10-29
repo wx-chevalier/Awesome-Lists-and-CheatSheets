@@ -4,7 +4,7 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [Wazuh ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/wazuh/wazuh): Wazuh is a free and open source platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
 
-## Showcase
+## Showcases
 
 - [hacker-scripts ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/NARKOZ/hacker-scripts): Based on a true story
 

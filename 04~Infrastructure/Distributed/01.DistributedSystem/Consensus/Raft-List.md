@@ -22,6 +22,6 @@
 
 # OpenSource
 
-## Showcase
+## Showcases
 
 - [2023~eatonphil/goraft ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/eatonphil/goraft)](https://github.com/eatonphil/goraft): A basic Raft implementation in Go.

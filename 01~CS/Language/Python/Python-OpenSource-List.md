@@ -1,6 +1,6 @@
 # Python OpenSource List
 
-# Showcase
+# Showcases
 
 - [pytudes ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/norvig/pytudes): This project contains pytudes—Python programs for perfecting programming skills. Some are in Jupyter (IPython) notebooks, some in `*.py` files.
 

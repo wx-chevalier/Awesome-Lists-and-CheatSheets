@@ -2,7 +2,7 @@
 
 More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-chevalier/Awesome-Lists/blob/master/Web/Widgets/Web-Widgets-List.md).
 
-# Showcase
+# Showcases
 
 - [2017~A React TODOs example, explained](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)
 

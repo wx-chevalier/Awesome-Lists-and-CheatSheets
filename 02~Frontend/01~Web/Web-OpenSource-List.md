@@ -1,6 +1,6 @@
 # Web OpenSource List
 
-# Showcase
+# Showcases
 
 - [2020~vanillawebprojects ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 

@@ -8,7 +8,7 @@
 
 - [Spring Native ![code](https://ng-tech.icu/assets/code.svg)](https://docs.spring.io/spring-native/docs/current/reference/htmlsingle/#overview): Spring Native provides support for compiling Spring applications to native executables using the GraalVM native-image compiler.
 
-# Showcase
+# Showcases
 
 ## Boilerplate
 

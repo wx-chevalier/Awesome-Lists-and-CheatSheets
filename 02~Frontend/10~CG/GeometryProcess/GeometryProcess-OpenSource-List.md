@@ -108,7 +108,7 @@
 
 ## WebAssembly 集成
 
-### Showcase
+### Showcases
 
 - [three.js_and_WebAssembly_samples ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Nitta-K-git/three.js_and_WebAssembly_samples): sample codes of three.js and WebAssembly
 

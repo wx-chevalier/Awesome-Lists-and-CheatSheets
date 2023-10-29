@@ -16,7 +16,7 @@
 
 - [2023~grid-apps ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/GridSpace/grid-apps)](https://github.com/GridSpace/grid-apps): Browser-based Slicer for 3D Printing, CAM, Laser (Kiri:Moto) and mesh editor (Mesh:Tool)
 
-## Showcase
+## Showcases
 
 - [2023~LingDong-/t43 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/LingDong-/t43)](https://github.com/LingDong-/t43): A tiny 3D slicer written from scratch
 

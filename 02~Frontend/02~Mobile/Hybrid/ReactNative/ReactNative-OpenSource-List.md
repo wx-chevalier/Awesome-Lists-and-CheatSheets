@@ -2,7 +2,7 @@
 
 - [Hermes ![code](https://ng-tech.icu/assets/code.svg)](https://hermesengine.dev/): JavaScript engine optimized for React Native
 
-# Showcase
+# Showcases
 
 - [GitBook 阅读器](https://github.com/le0zh/gitbook-reader-rn)：使用 ReactNative 开发的 GitBook 阅读器，可以查看在线的书籍信息，在线阅读和下载。
 

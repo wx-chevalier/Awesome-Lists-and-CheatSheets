@@ -2,7 +2,7 @@
 
 # Collection
 
-## Showcase
+## Showcases
 
 - [2019~spikeSystem ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GuoZhaoran/spikeSystem): 笔者专门研究了一下“12306”的服务端架构,学习到了其系统设计上很多亮点，在这里和大家分享一下并模拟一个例子：如何在 100 万人同时抢 1 万张火车票时，系统提供正常、稳定的服务。
 

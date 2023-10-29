@@ -8,7 +8,7 @@
 
 - [2018~Vespa ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/vespa-engine/vespa)](https://github.com/vespa-engine/vespa): The open big data serving engine - Store, search, organize and make machine-learned inferences over big data at serving time.
 
-## Showcase
+## Showcases
 
 - [2018~MovieRecommender ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/bystc/MovieRecommender)](https://github.com/bystc/MovieRecommender): 基于 Mahout 实现协同过滤推荐算法的电影推荐系统。
 

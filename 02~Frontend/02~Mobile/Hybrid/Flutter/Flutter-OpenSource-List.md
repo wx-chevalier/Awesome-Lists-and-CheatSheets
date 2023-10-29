@@ -4,7 +4,7 @@
 
 - [2020~Kraken ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/openkraken/kraken): A high-performance, web standards-compliant rendering engine based on Flutter.
 
-# Showcase
+# Showcases
 
 - [gsy_github_app_flutter ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/CarGuo/gsy_github_app_flutter): 一款跨平台的开源 Github 客户端 App，提供更丰富的功能，更好体验，旨在更好的日常管理和维护个人 Github，提供更好更方便的驾车体验。
 

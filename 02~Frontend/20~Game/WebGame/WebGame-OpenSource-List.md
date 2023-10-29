@@ -1,6 +1,6 @@
 # Web Game OpenSource List
 
-# Showcase
+# Showcases
 
 - [2021~DuckEngine ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ksplatdev/DuckEngine): 2D Game Library for the web.
 

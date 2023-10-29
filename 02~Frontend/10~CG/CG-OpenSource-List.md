@@ -1,4 +1,4 @@
-# Showcase
+# Showcases
 
 - [2019~ssloy/tinykaboom ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ssloy/tinykaboom)](https://github.com/ssloy/tinykaboom): This repository is a teaching aid for my computer graphics lectures. It is not meant to produce the ultimate or even physically realistic renders. It is meant to be simple. This project is distributed under the DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE.
 

@@ -6,7 +6,7 @@
 
 - [VTK ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/kitware/vtk-js): VTK is an open-source software system for image processing, 3D graphics, volume rendering and visualization.
 
-# Showcase
+# Showcases
 
 - [sketch of three.js](https://ykob.github.io/sketch-threejs/): Interactive sketches made with three.js.
 

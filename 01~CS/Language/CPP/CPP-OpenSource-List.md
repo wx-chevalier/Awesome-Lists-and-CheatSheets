@@ -8,7 +8,7 @@
 
 - [2018~libui-node ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/parro-it/libui-node): Node bindings for libui, an awesome native UI library for Unix, OSX and Windows.
 
-# Showcase
+# Showcases
 
 - [2016~MyTinySTL ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Alinshans/MyTinySTL)](https://github.com/Alinshans/MyTinySTL): 基于 C++11 的 tinySTL，这是我的第一个项目，使用了中文文档与中文注释，有不规范或不当的地方还请海涵。刚开始是作为新手练习用途，直到现在已经发布了 2.x.x 版本。实现了大部分 STL 中的容器与函数，但仍存在许多不足与 bug 。从 2.x.x 版本开始，本项目会进入长期维护的阶段，即基本不会增加新的内容，只修复发现的 bug。如发现错误，还请在 Issues 中指出，欢迎 Fork 和 Pull requests 改善代码，谢谢！
 

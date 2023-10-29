@@ -12,6 +12,6 @@
 
 - [2023~Qbot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/UFund-Me/Qbot)](https://github.com/UFund-Me/Qbot): [updating ...] 自动量化交易机器人 Qbot is an AI-oriented quantitative investment platform, which aims to realize the potential, empower AI technologies in quantitative investment. https://ufund-me.github.io/Qbot :news: qbot-mini: https://github.com/Charmve/iQuant
 
-# Showcase
+# Showcases
 
 - [2023-waditu/czsc ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/waditu/czsc)](https://github.com/waditu/czsc): 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易

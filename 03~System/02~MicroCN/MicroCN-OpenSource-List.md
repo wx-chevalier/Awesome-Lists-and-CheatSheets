@@ -2,7 +2,7 @@
 
 - [Femas ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/polarismesh/femas): Cloud native multi-runtime microservice framework
 
-# Showcase
+# Showcases
 
 # PaaS
 

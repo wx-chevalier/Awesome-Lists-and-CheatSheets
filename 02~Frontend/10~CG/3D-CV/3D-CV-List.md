@@ -10,6 +10,6 @@
 
 - [2023~Objaverse-XL ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/allenai/objaverse-xl)](https://github.com/allenai/objaverse-xl): 🪐 Objaverse-XL is a Universe of 10M+ 3D Objects. Contains API Scripts for Downloading and Processing!
 
-# Showcase
+# Showcases
 
 - [Dabble-Studio/3d-to-photo ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Dabble-Studio/3d-to-photo)](https://github.com/Dabble-Studio/3d-to-photo): 3D to Photo is an open-source package by Dabble, that combines threeJS and Stable diffusion to build a virtual photo studio for product photography. Load a 3D model into the browser and virtual shoot it in any kind of scene you can imagine.

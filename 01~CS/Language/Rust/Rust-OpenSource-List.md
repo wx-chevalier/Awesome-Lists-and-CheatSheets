@@ -2,7 +2,7 @@
 
 本文包含了 Rust 相关的优秀开源框架与库，以及值得阅读的 Rust 优秀项目。
 
-# Showcase
+# Showcases
 
 - [native_spark ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rajasekarv/native_spark): A new arguably faster implementation of Apache Spark from scratch in Rust.
 

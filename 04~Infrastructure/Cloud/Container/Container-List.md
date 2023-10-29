@@ -30,6 +30,6 @@
 
 - [Podman Desktop ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/containers/podman-desktop): A graphical tool for developing on containers and Kubernetes.
 
-## Showcase
+## Showcases
 
 - [lucavallin/barco ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lucavallin/barco)](https://github.com/lucavallin/barco): barco is a project I worked on to learn more about Linux containers and the Linux kernel, based on other guides on the internet.

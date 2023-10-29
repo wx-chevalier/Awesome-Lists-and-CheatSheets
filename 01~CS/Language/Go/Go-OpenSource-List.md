@@ -1,6 +1,6 @@
 # Go OpenSource List | Go 开源工具与框架索引
 
-# Showcase
+# Showcases
 
 - [Slack-Term ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/erroneousboat/slack-term): A Slack client for your terminal.
 
