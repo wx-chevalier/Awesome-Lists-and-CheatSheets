@@ -1,14 +1,15 @@
   - 1 00~Specials [5]
     - [1.1 Awesome Specials](/00~Specials/Awesome-Specials.md)
-    - 1.2 Collections [8]
+    - 1.2 Collections [9]
       - [1.2.1 Awesome 3D Models](/00~Specials/Collections/Awesome-3D-Models.md)
       - [1.2.2 Awesome CS Docs](/00~Specials/Collections/Awesome-CS-Docs.md)
       - [1.2.3 Awesome CS Learnings](/00~Specials/Collections/Awesome-CS-Learnings.md)
       - [1.2.4 Awesome DataSets](/00~Specials/Collections/Awesome-DataSets.md)
       - [1.2.5 Awesome Entertainments](/00~Specials/Collections/Awesome-Entertainments.md)
       - [1.2.6 Awesome Names](/00~Specials/Collections/Awesome-Names.md)
-      - [1.2.7 Awesome Scholar](/00~Specials/Collections/Awesome-Scholar.md)
-      - [1.2.8 Awesome Vision](/00~Specials/Collections/Awesome-Vision.md)
+      - [1.2.7 Awesome PDF Books](/00~Specials/Collections/Awesome-PDF-Books.md)
+      - [1.2.8 Awesome Scholar](/00~Specials/Collections/Awesome-Scholar.md)
+      - [1.2.9 Awesome Vision](/00~Specials/Collections/Awesome-Vision.md)
     - 1.3 Showcases [6]
       - [1.3.1 Awesome Apps](/00~Specials/Showcases/Awesome-Apps.md)
       - [1.3.2 Awesome Clones](/00~Specials/Showcases/Awesome-Clones.md)
