@@ -338,8 +338,19 @@
         - [2.7.9.7 JavaScript OpenSource List](/01~CS/Language/JavaScript/JavaScript-OpenSource-List.md)
         - [2.7.9.8 JavaScript Pattern List](/01~CS/Language/JavaScript/JavaScript-Pattern-List.md)
         - [2.7.9.9 JavaScript TypeSystem List](/01~CS/Language/JavaScript/JavaScript-TypeSystem-List.md)
-        - [2.7.9.10 TypeScript List](/01~CS/Language/JavaScript/TypeScript-List.md)
-        - [2.7.9.11 TypeScript OpenSource List](/01~CS/Language/JavaScript/TypeScript-OpenSource-List.md)
+        - 2.7.9.10 Node.js [9]
+          - [2.7.9.10.1 NestJS List](/01~CS/Language/JavaScript/Node.js/NestJS-List.md)
+          - [2.7.9.10.2 Node Framework List](/01~CS/Language/JavaScript/Node.js/Node-Framework-List.md)
+          - [2.7.9.10.3 Node FullStack List](/01~CS/Language/JavaScript/Node.js/Node-FullStack-List.md)
+          - [2.7.9.10.4 Node Internals List](/01~CS/Language/JavaScript/Node.js/Node-Internals-List.md)
+          - [2.7.9.10.5 Node Syntax List](/01~CS/Language/JavaScript/Node.js/Node-Syntax-List.md)
+          - [2.7.9.10.6 Node Tuning List](/01~CS/Language/JavaScript/Node.js/Node-Tuning-List.md)
+          - [2.7.9.10.7 Node.js Dev List](/01~CS/Language/JavaScript/Node.js/Node.js-Dev-List.md)
+          - [2.7.9.10.8 Node.js List](/01~CS/Language/JavaScript/Node.js/Node.js-List.md)
+          - [2.7.9.10.9 Node.js OpenSource List](/01~CS/Language/JavaScript/Node.js/Node.js-OpenSource-List.md)
+        - 2.7.9.11 TypeScript [2]
+          - [2.7.9.11.1 TypeScript List](/01~CS/Language/JavaScript/TypeScript/TypeScript-List.md)
+          - [2.7.9.11.2 TypeScript OpenSource List](/01~CS/Language/JavaScript/TypeScript/TypeScript-OpenSource-List.md)
       - 2.7.10 Lisp [1]
         - [2.7.10.1 Lisp List](/01~CS/Language/Lisp/Lisp-List.md)
       - 2.7.11 PHP [2]
@@ -387,7 +398,7 @@
       - 2.9.7 VM [1]
         - [2.9.7.1 VM List](/01~CS/Theory/VM/VM-List.md)
   - 3 02~Frontend [7]
-    - 3.1 01~Web [11]
+    - 3.1 01~Web [10]
       - 3.1.1 Architecture [6]
         - [3.1.1.1 MicroFrontend List](/02~Frontend/01~Web/Architecture/MicroFrontend-List.md)
         - [3.1.1.2 Web Architecture List](/02~Frontend/01~Web/Architecture/Web-Architecture-List.md)
@@ -441,83 +452,73 @@
           - [3.1.4.7.5 Vue Syntax List](/02~Frontend/01~Web/Framework/Vue/Vue-Syntax-List.md)
           - [3.1.4.7.6 Vue Tuning List](/02~Frontend/01~Web/Framework/Vue/Vue-Tuning-List.md)
         - [3.1.4.8 Web Framework List](/02~Frontend/01~Web/Framework/Web-Framework-List.md)
-      - 3.1.5 Node.js [9]
-        - [3.1.5.1 NestJS List](/02~Frontend/01~Web/Node.js/NestJS-List.md)
-        - [3.1.5.2 Node Framework List](/02~Frontend/01~Web/Node.js/Node-Framework-List.md)
-        - [3.1.5.3 Node FullStack List](/02~Frontend/01~Web/Node.js/Node-FullStack-List.md)
-        - [3.1.5.4 Node Internals List](/02~Frontend/01~Web/Node.js/Node-Internals-List.md)
-        - [3.1.5.5 Node Syntax List](/02~Frontend/01~Web/Node.js/Node-Syntax-List.md)
-        - [3.1.5.6 Node Tuning List](/02~Frontend/01~Web/Node.js/Node-Tuning-List.md)
-        - [3.1.5.7 Node.js Dev List](/02~Frontend/01~Web/Node.js/Node.js-Dev-List.md)
-        - [3.1.5.8 Node.js List](/02~Frontend/01~Web/Node.js/Node.js-List.md)
-        - [3.1.5.9 Node.js OpenSource List](/02~Frontend/01~Web/Node.js/Node.js-OpenSource-List.md)
-      - 3.1.6 Syntax [5]
-        - 3.1.6.1 CSS [5]
-          - [3.1.6.1.1 CSS Architecture List](/02~Frontend/01~Web/Syntax/CSS/CSS-Architecture-List.md)
-          - [3.1.6.1.2 CSS Layout List](/02~Frontend/01~Web/Syntax/CSS/CSS-Layout-List.md)
-          - [3.1.6.1.3 CSS List](/02~Frontend/01~Web/Syntax/CSS/CSS-List.md)
-          - [3.1.6.1.4 CSS OpenSource List](/02~Frontend/01~Web/Syntax/CSS/CSS-OpenSource-List.md)
-          - [3.1.6.1.5 CSS Syntax List](/02~Frontend/01~Web/Syntax/CSS/CSS-Syntax-List.md)
-        - [3.1.6.2 HTML List](/02~Frontend/01~Web/Syntax/HTML-List.md)
-        - [3.1.6.3 Web Animation List](/02~Frontend/01~Web/Syntax/Web-Animation-List.md)
-        - [3.1.6.4 Web Syntax List](/02~Frontend/01~Web/Syntax/Web-Syntax-List.md)
-        - 3.1.6.5 WebAssembly [2]
-          - [3.1.6.5.1 WebAssembly List](/02~Frontend/01~Web/Syntax/WebAssembly/WebAssembly-List.md)
-          - [3.1.6.5.2 WebAssembly OpenSource List](/02~Frontend/01~Web/Syntax/WebAssembly/WebAssembly-OpenSource-List.md)
-      - 3.1.7 Tuning [8]
-        - [3.1.7.1 VirtualDOM List](/02~Frontend/01~Web/Tuning/VirtualDOM-List.md)
-        - [3.1.7.2 Web APM List](/02~Frontend/01~Web/Tuning/Web-APM-List.md)
-        - [3.1.7.3 Web ExperienceTuning List](/02~Frontend/01~Web/Tuning/Web-ExperienceTuning-List.md)
-        - [3.1.7.4 Web LoadTuning List](/02~Frontend/01~Web/Tuning/Web-LoadTuning-List.md)
-        - [3.1.7.5 Web PWA List](/02~Frontend/01~Web/Tuning/Web-PWA-List.md)
-        - [3.1.7.6 Web RenderTuning List](/02~Frontend/01~Web/Tuning/Web-RenderTuning-List.md)
-        - [3.1.7.7 Web SSR List](/02~Frontend/01~Web/Tuning/Web-SSR-List.md)
-        - [3.1.7.8 Web Tuning List](/02~Frontend/01~Web/Tuning/Web-Tuning-List.md)
-      - 3.1.8 Web APIs [5]
-        - [3.1.8.1 DOM List](/02~Frontend/01~Web/Web%20APIs/DOM-List.md)
-        - [3.1.8.2 Web Event List](/02~Frontend/01~Web/Web%20APIs/Web-Event-List.md)
-        - [3.1.8.3 Web Network List](/02~Frontend/01~Web/Web%20APIs/Web-Network-List.md)
-        - [3.1.8.4 Web Storage List](/02~Frontend/01~Web/Web%20APIs/Web-Storage-List.md)
-        - [3.1.8.5 Web Worker List](/02~Frontend/01~Web/Web%20APIs/Web-Worker-List.md)
-      - [3.1.9 Web List](/02~Frontend/01~Web/Web-List.md)
-      - [3.1.10 Web OpenSource List](/02~Frontend/01~Web/Web-OpenSource-List.md)
-      - [3.1.11 Widgets [8]](/02~Frontend/01~Web/Widgets/README.md)
-        - 3.1.11.1 Animation [1]
-          - [3.1.11.1.1 Animation OpenSource List](/02~Frontend/01~Web/Widgets/Animation/Animation-OpenSource-List.md)
-        - 3.1.11.2 Data Display [6]
-          - [3.1.11.2.1 Audio & Video](/02~Frontend/01~Web/Widgets/Data%20Display/Audio%20&%20Video.md)
-          - [3.1.11.2.2 Button & Icon](/02~Frontend/01~Web/Widgets/Data%20Display/Button%20&%20Icon.md)
-          - [3.1.11.2.3 Image OpenSource List](/02~Frontend/01~Web/Widgets/Data%20Display/Image-OpenSource-List.md)
-          - [3.1.11.2.4 Indicator List](/02~Frontend/01~Web/Widgets/Data%20Display/Indicator-List.md)
-          - [3.1.11.2.5 Web List OpenSource List](/02~Frontend/01~Web/Widgets/Data%20Display/Web-List-OpenSource-List.md)
-          - [3.1.11.2.6 Web Response & Fit List](/02~Frontend/01~Web/Widgets/Data%20Display/Web-Response%20&%20Fit-List.md)
-        - 3.1.11.3 Data Entry [6]
-          - [3.1.11.3.1 DateTime](/02~Frontend/01~Web/Widgets/Data%20Entry/DateTime.md)
-          - 3.1.11.3.2 Editor [2]
-            - [3.1.11.3.2.1 Web Editor List](/02~Frontend/01~Web/Widgets/Data%20Entry/Editor/Web-Editor-List.md)
-            - [3.1.11.3.2.2 Web Editor OpenSource List](/02~Frontend/01~Web/Widgets/Data%20Entry/Editor/Web-Editor-OpenSource-List.md)
-          - [3.1.11.3.3 Form List](/02~Frontend/01~Web/Widgets/Data%20Entry/Form-List.md)
-          - [3.1.11.3.4 Input List](/02~Frontend/01~Web/Widgets/Data%20Entry/Input-List.md)
-          - [3.1.11.3.5 Select](/02~Frontend/01~Web/Widgets/Data%20Entry/Select.md)
-          - 3.1.11.3.6 Table & Grid [2]
-            - [3.1.11.3.6.1 Table & Grid List](/02~Frontend/01~Web/Widgets/Data%20Entry/Table%20&%20Grid/Table%20&%20Grid-List.md)
-            - [3.1.11.3.6.2 Table & Grid OpenSource List](/02~Frontend/01~Web/Widgets/Data%20Entry/Table%20&%20Grid/Table%20&%20Grid-OpenSource-List.md)
-        - 3.1.11.4 Diagram [4]
-          - [3.1.11.4.1 D3 List](/02~Frontend/01~Web/Widgets/Diagram/D3-List.md)
-          - [3.1.11.4.2 Web Diagram OpenSource List](/02~Frontend/01~Web/Widgets/Diagram/Web-Diagram-OpenSource-List.md)
-          - [3.1.11.4.3 Web Draw OpenSource List](/02~Frontend/01~Web/Widgets/Diagram/Web-Draw-OpenSource-List.md)
-          - [3.1.11.4.4 Web Flow OpenSource List](/02~Frontend/01~Web/Widgets/Diagram/Web-Flow-OpenSource-List.md)
-        - 3.1.11.5 Feedback [1]
-          - [3.1.11.5.1 Feedback List](/02~Frontend/01~Web/Widgets/Feedback/Feedback-List.md)
-        - 3.1.11.6 Interaction [2]
-          - [3.1.11.6.1 Scroll](/02~Frontend/01~Web/Widgets/Interaction/Scroll.md)
-          - [3.1.11.6.2 Web Drag & Resize OpenSource List](/02~Frontend/01~Web/Widgets/Interaction/Web-Drag%20&%20Resize-OpenSource-List.md)
-        - 3.1.11.7 Layout [4]
-          - [3.1.11.7.1 Layout List](/02~Frontend/01~Web/Widgets/Layout/Layout-List.md)
-          - [3.1.11.7.2 Modal & Popup List](/02~Frontend/01~Web/Widgets/Layout/Modal%20&%20Popup-List.md)
-          - [3.1.11.7.3 Navigation](/02~Frontend/01~Web/Widgets/Layout/Navigation.md)
-          - [3.1.11.7.4 Panel List](/02~Frontend/01~Web/Widgets/Layout/Panel-List.md)
-        - [3.1.11.8 Other](/02~Frontend/01~Web/Widgets/Other.md)
+      - 3.1.5 Syntax [5]
+        - 3.1.5.1 CSS [5]
+          - [3.1.5.1.1 CSS Architecture List](/02~Frontend/01~Web/Syntax/CSS/CSS-Architecture-List.md)
+          - [3.1.5.1.2 CSS Layout List](/02~Frontend/01~Web/Syntax/CSS/CSS-Layout-List.md)
+          - [3.1.5.1.3 CSS List](/02~Frontend/01~Web/Syntax/CSS/CSS-List.md)
+          - [3.1.5.1.4 CSS OpenSource List](/02~Frontend/01~Web/Syntax/CSS/CSS-OpenSource-List.md)
+          - [3.1.5.1.5 CSS Syntax List](/02~Frontend/01~Web/Syntax/CSS/CSS-Syntax-List.md)
+        - [3.1.5.2 HTML List](/02~Frontend/01~Web/Syntax/HTML-List.md)
+        - [3.1.5.3 Web Animation List](/02~Frontend/01~Web/Syntax/Web-Animation-List.md)
+        - [3.1.5.4 Web Syntax List](/02~Frontend/01~Web/Syntax/Web-Syntax-List.md)
+        - 3.1.5.5 WebAssembly [2]
+          - [3.1.5.5.1 WebAssembly List](/02~Frontend/01~Web/Syntax/WebAssembly/WebAssembly-List.md)
+          - [3.1.5.5.2 WebAssembly OpenSource List](/02~Frontend/01~Web/Syntax/WebAssembly/WebAssembly-OpenSource-List.md)
+      - 3.1.6 Tuning [8]
+        - [3.1.6.1 VirtualDOM List](/02~Frontend/01~Web/Tuning/VirtualDOM-List.md)
+        - [3.1.6.2 Web APM List](/02~Frontend/01~Web/Tuning/Web-APM-List.md)
+        - [3.1.6.3 Web ExperienceTuning List](/02~Frontend/01~Web/Tuning/Web-ExperienceTuning-List.md)
+        - [3.1.6.4 Web LoadTuning List](/02~Frontend/01~Web/Tuning/Web-LoadTuning-List.md)
+        - [3.1.6.5 Web PWA List](/02~Frontend/01~Web/Tuning/Web-PWA-List.md)
+        - [3.1.6.6 Web RenderTuning List](/02~Frontend/01~Web/Tuning/Web-RenderTuning-List.md)
+        - [3.1.6.7 Web SSR List](/02~Frontend/01~Web/Tuning/Web-SSR-List.md)
+        - [3.1.6.8 Web Tuning List](/02~Frontend/01~Web/Tuning/Web-Tuning-List.md)
+      - 3.1.7 Web APIs [5]
+        - [3.1.7.1 DOM List](/02~Frontend/01~Web/Web%20APIs/DOM-List.md)
+        - [3.1.7.2 Web Event List](/02~Frontend/01~Web/Web%20APIs/Web-Event-List.md)
+        - [3.1.7.3 Web Network List](/02~Frontend/01~Web/Web%20APIs/Web-Network-List.md)
+        - [3.1.7.4 Web Storage List](/02~Frontend/01~Web/Web%20APIs/Web-Storage-List.md)
+        - [3.1.7.5 Web Worker List](/02~Frontend/01~Web/Web%20APIs/Web-Worker-List.md)
+      - [3.1.8 Web List](/02~Frontend/01~Web/Web-List.md)
+      - [3.1.9 Web OpenSource List](/02~Frontend/01~Web/Web-OpenSource-List.md)
+      - [3.1.10 Widgets [8]](/02~Frontend/01~Web/Widgets/README.md)
+        - 3.1.10.1 Animation [1]
+          - [3.1.10.1.1 Animation OpenSource List](/02~Frontend/01~Web/Widgets/Animation/Animation-OpenSource-List.md)
+        - 3.1.10.2 Data Display [6]
+          - [3.1.10.2.1 Audio & Video](/02~Frontend/01~Web/Widgets/Data%20Display/Audio%20&%20Video.md)
+          - [3.1.10.2.2 Button & Icon](/02~Frontend/01~Web/Widgets/Data%20Display/Button%20&%20Icon.md)
+          - [3.1.10.2.3 Image OpenSource List](/02~Frontend/01~Web/Widgets/Data%20Display/Image-OpenSource-List.md)
+          - [3.1.10.2.4 Indicator List](/02~Frontend/01~Web/Widgets/Data%20Display/Indicator-List.md)
+          - [3.1.10.2.5 Web List OpenSource List](/02~Frontend/01~Web/Widgets/Data%20Display/Web-List-OpenSource-List.md)
+          - [3.1.10.2.6 Web Response & Fit List](/02~Frontend/01~Web/Widgets/Data%20Display/Web-Response%20&%20Fit-List.md)
+        - 3.1.10.3 Data Entry [6]
+          - [3.1.10.3.1 DateTime](/02~Frontend/01~Web/Widgets/Data%20Entry/DateTime.md)
+          - 3.1.10.3.2 Editor [2]
+            - [3.1.10.3.2.1 Web Editor List](/02~Frontend/01~Web/Widgets/Data%20Entry/Editor/Web-Editor-List.md)
+            - [3.1.10.3.2.2 Web Editor OpenSource List](/02~Frontend/01~Web/Widgets/Data%20Entry/Editor/Web-Editor-OpenSource-List.md)
+          - [3.1.10.3.3 Form List](/02~Frontend/01~Web/Widgets/Data%20Entry/Form-List.md)
+          - [3.1.10.3.4 Input List](/02~Frontend/01~Web/Widgets/Data%20Entry/Input-List.md)
+          - [3.1.10.3.5 Select](/02~Frontend/01~Web/Widgets/Data%20Entry/Select.md)
+          - 3.1.10.3.6 Table & Grid [2]
+            - [3.1.10.3.6.1 Table & Grid List](/02~Frontend/01~Web/Widgets/Data%20Entry/Table%20&%20Grid/Table%20&%20Grid-List.md)
+            - [3.1.10.3.6.2 Table & Grid OpenSource List](/02~Frontend/01~Web/Widgets/Data%20Entry/Table%20&%20Grid/Table%20&%20Grid-OpenSource-List.md)
+        - 3.1.10.4 Diagram [4]
+          - [3.1.10.4.1 D3 List](/02~Frontend/01~Web/Widgets/Diagram/D3-List.md)
+          - [3.1.10.4.2 Web Diagram OpenSource List](/02~Frontend/01~Web/Widgets/Diagram/Web-Diagram-OpenSource-List.md)
+          - [3.1.10.4.3 Web Draw OpenSource List](/02~Frontend/01~Web/Widgets/Diagram/Web-Draw-OpenSource-List.md)
+          - [3.1.10.4.4 Web Flow OpenSource List](/02~Frontend/01~Web/Widgets/Diagram/Web-Flow-OpenSource-List.md)
+        - 3.1.10.5 Feedback [1]
+          - [3.1.10.5.1 Feedback List](/02~Frontend/01~Web/Widgets/Feedback/Feedback-List.md)
+        - 3.1.10.6 Interaction [2]
+          - [3.1.10.6.1 Scroll](/02~Frontend/01~Web/Widgets/Interaction/Scroll.md)
+          - [3.1.10.6.2 Web Drag & Resize OpenSource List](/02~Frontend/01~Web/Widgets/Interaction/Web-Drag%20&%20Resize-OpenSource-List.md)
+        - 3.1.10.7 Layout [4]
+          - [3.1.10.7.1 Layout List](/02~Frontend/01~Web/Widgets/Layout/Layout-List.md)
+          - [3.1.10.7.2 Modal & Popup List](/02~Frontend/01~Web/Widgets/Layout/Modal%20&%20Popup-List.md)
+          - [3.1.10.7.3 Navigation](/02~Frontend/01~Web/Widgets/Layout/Navigation.md)
+          - [3.1.10.7.4 Panel List](/02~Frontend/01~Web/Widgets/Layout/Panel-List.md)
+        - [3.1.10.8 Other](/02~Frontend/01~Web/Widgets/Other.md)
     - 3.2 02~Mobile [6]
       - 3.2.1 Android [5]
         - [3.2.1.1 Android Dev List](/02~Frontend/02~Mobile/Android/Android-Dev-List.md)
@@ -886,7 +887,7 @@
         - [5.2.5.3 DataVis OpenSource List](/04~Infrastructure/DataEngineering/DataVis/DataVis-OpenSource-List.md)
       - 5.2.6 DataWarehouse [1]
         - [5.2.6.1 Datawarehouse List](/04~Infrastructure/DataEngineering/DataWarehouse/Datawarehouse-List.md)
-      - 5.2.7 OLAP [5]
+      - 5.2.7 OLAP [6]
         - 5.2.7.1 ClickHouse [1]
           - [5.2.7.1.1 ClickHouse List](/04~Infrastructure/DataEngineering/OLAP/ClickHouse/ClickHouse-List.md)
         - 5.2.7.2 Greenplum [1]
@@ -894,8 +895,9 @@
         - 5.2.7.3 Hive [1]
           - [5.2.7.3.1 Hive List](/04~Infrastructure/DataEngineering/OLAP/Hive/Hive-List.md)
         - [5.2.7.4 OLAP List](/04~Infrastructure/DataEngineering/OLAP/OLAP-List.md)
-        - 5.2.7.5 Presto [1]
-          - [5.2.7.5.1 Presto List](/04~Infrastructure/DataEngineering/OLAP/Presto/Presto-List.md)
+        - [5.2.7.5 OLAP OpenSource List](/04~Infrastructure/DataEngineering/OLAP/OLAP-OpenSource-List.md)
+        - 5.2.7.6 Presto [1]
+          - [5.2.7.6.1 Presto List](/04~Infrastructure/DataEngineering/OLAP/Presto/Presto-List.md)
     - 5.3 Database [11]
       - [5.3.1 Database DIY List](/04~Infrastructure/Database/Database-DIY-List.md)
       - [5.3.2 Database List](/04~Infrastructure/Database/Database-List.md)

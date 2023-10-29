@@ -24,6 +24,8 @@
 
 - [2023~ByConity ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ByConity/ByConity)](https://github.com/ByConity/ByConity): ByConity is a data warehouse designed for changes in modern cloud architecture. It adopts a cloud-native architecture design to meet the requirements of data warehouse users for flexible scaling, separation of reads and writes, resource isolation, and strong data consistency. At the same time, it provides excellent query and write performance.
 
+- [2023~ScratchDB ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/scratchdata/ScratchDB)](https://github.com/scratchdata/ScratchDB): ScratchDB is a wrapper around Clickhouse that lets you input arbitrary JSON and perform analytical queries against it. It automatically creates tables and columns when new data is added.
+
 ## OLAP Browser
 
 - [2015-Metabase ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/metabase/metabase): The simplest, fastest way to get business intelligence and analytics to everyone in your company.
