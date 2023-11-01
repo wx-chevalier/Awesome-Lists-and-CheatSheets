@@ -52,6 +52,8 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [《Rust By Practice》📚](https://github.com/sunface/rust-by-practice): Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev.
 
+- [2020~《Rust Design Patterns》📚](https://rust-unofficial.github.io/patterns/intro.html): Rust is not object-oriented, and the combination of all its characteristics, such as functional elements, a strong type system, and the borrow checker, makes it unique. Because of this, Rust design patterns vary with respect to other traditional object-oriented programming languages.
+
 - [2022~《Zero To Production In Rust》📚](https://github.com/LukeMathWalker/zero-to-production): Zero To Production In Rust is an opinionated introduction to backend development using Rust.
 
 - [2022~《Rust 程序设计》📚](https://www.yuque.com/qyuhen/rust):
@@ -100,6 +102,6 @@ This file aggregates curated popular links for learning Rust. More reference abo
 
 - [2018~Learning Rust](https://learning-rust.github.io/): Installation, Hello World, Cargo, Crates, Variable bindings, Functions, Primitive Data Types, Operators & Control Flows.
 
-- [2018~Writing a Microservice in Rust](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/): Let me begin this article on Writing a Microservice in Rust by talking about C++.
+- [2018~Writing a Microservice in Rust #Series#](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/): Let me begin this article on Writing a Microservice in Rust by talking about C++.
 
-- [2023~Learn Rust 101](https://github.com/plabayo/learn-rust-101): A guide to aid you in your journey of becoming a Rustacean (Rust developer).
+- [2023~Learn Rust 101 #Series#](https://github.com/plabayo/learn-rust-101): A guide to aid you in your journey of becoming a Rustacean (Rust developer).

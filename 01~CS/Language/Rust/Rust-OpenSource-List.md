@@ -20,13 +20,15 @@
 
 - [Hackernews sauron ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ivanceras/hackernews-sauron): A fast, resilient, isomorphic hacker news clone in ~1k lines of rust.
 
+- [2020~willdoescode/nat ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/willdoescode/nat)](https://github.com/willdoescode/nat): `ls` alternative with useful info and a splash of color 🎨
+
+- [2021~mTvare6/hello-world.rs ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mTvare6/hello-world.rs)](https://github.com/mTvare6/hello-world.rs): 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
+
 - [2021~rnote ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/flxzt/rnote): A simple drawing application to create handwritten notes.
 
 - [komorebi ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/LGUG2Z/komorebi): komorebi is a tiling window manager that works as an extension to Microsoft's Desktop Window Manager in Windows 10 and above.
 
 - [2022~sniffnet ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GyulyVGC/sniffnet): Cross-platform application to monitor your network traffic with ease.
-
-- [2023~SuanCaiYv/prim ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/SuanCaiYv/prim)](https://github.com/SuanCaiYv/prim): 使用纯 Rust 实现的即时通讯系统。
 
 - [2023~Yazi ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sxyazi/yazi)](https://github.com/sxyazi/yazi): Yazi ("duck" in Chinese) is a terminal file manager written in Rust, based on non-blocking async I/O. It aims to provide an efficient, user-friendly, and customizable file management experience.
 

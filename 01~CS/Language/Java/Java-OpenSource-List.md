@@ -149,6 +149,8 @@
 
 - [2020~Cubic ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dromara/cubic)](https://github.com/dromara/cubic): 一站式问题定位平台，还在为线上问题而烦恼吗？分布式实例监控、线程栈监控、线程池监控、动态 arthas 命令集、依赖分析等等等，助你快速定位问题
 
+- [2023~unloggedio/unlogged-sdk ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/unloggedio/unlogged-sdk)](https://github.com/unloggedio/unlogged-sdk): Unlogged Java SDK enabled recording of code execution in a binary format.
+
 ## AOP Dynamic Tracing
 
 - [BTrace ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/btraceio/btrace): A safe, dynamic tracing tool for the Java platform
