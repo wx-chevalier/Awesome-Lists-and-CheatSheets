@@ -1,0 +1,3 @@
+# LLM Model List
+
+- [2023~OpenChat ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/imoneoi/openchat)](https://github.com/imoneoi/openchat): OpenChat is an innovative library of open-source language models, fine-tuned with C-RLFT - a strategy inspired by offline reinforcement learning. Our models learn from mixed-quality data without preference labels, delivering exceptional performance on par with ChatGPT, even with a 7B model. Despite our simple approach, we are committed to developing a high-performance, commercially viable, open-source large language model, and we continue to make significant strides toward this vision.

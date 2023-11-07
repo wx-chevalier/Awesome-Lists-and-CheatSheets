@@ -17,3 +17,9 @@
 # Package Manager
 
 - [tea ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/teaxyz/cli): From the creator of brew, tea is a standalone, binary download for all platforms that puts the entire open source ecosystem at your fingertips. Casually and effortlessly use the latest and greatest or the oldest and most mature from any layer of any stack. Break down the silos between programming communities, throw together scripts that use entirely separate tools and languages and share them with the world with a simple one-liner.
+
+# AutoCompletion
+
+- [2023~microsoft/inshellisense ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/microsoft/inshellisense)](https://github.com/microsoft/inshellisense): inshellisense provides IDE style autocomplete for shells. It's a terminal native runtime for autocomplete which has support for 600+ command line tools. inshellisense supports Windows, Linux, & MacOS.
+
+# Terminal Share
