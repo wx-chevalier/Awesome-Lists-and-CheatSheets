@@ -23,3 +23,5 @@
 - [2023~microsoft/inshellisense ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/microsoft/inshellisense)](https://github.com/microsoft/inshellisense): inshellisense provides IDE style autocomplete for shells. It's a terminal native runtime for autocomplete which has support for 600+ command line tools. inshellisense supports Windows, Linux, & MacOS.
 
 # Terminal Share
+
+- [2023~ekzhang/sshx ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ekzhang/sshx)](https://github.com/ekzhang/sshx): Fast, collaborative live terminal sharing over the web.

@@ -20,7 +20,7 @@
         - [1.3.6.1 Awesome DataVis](/00~Specials/Showcases/DataVision/Awesome-DataVis.md)
         - [1.3.6.2 Flower](/00~Specials/Showcases/DataVision/Flower.md)
         - [1.3.6.3 Hack Effect](/00~Specials/Showcases/DataVision/Hack%20Effect.md)
-    - [1.4 Tools & Projects [34]](/00~Specials/Tools%20&%20Projects/README.md)
+    - [1.4 Tools & Projects [33]](/00~Specials/Tools%20&%20Projects/README.md)
       - [1.4.1 Automation](/00~Specials/Tools%20&%20Projects/Automation.md)
       - [1.4.2 Awesome Media Tools](/00~Specials/Tools%20&%20Projects/Awesome-Media-Tools.md)
       - [1.4.3 Awesome Tools](/00~Specials/Tools%20&%20Projects/Awesome-Tools.md)
@@ -59,11 +59,12 @@
       - [1.4.18 Network](/00~Specials/Tools%20&%20Projects/Network.md)
       - [1.4.19 Newsletter](/00~Specials/Tools%20&%20Projects/Newsletter.md)
       - [1.4.20 Notification](/00~Specials/Tools%20&%20Projects/Notification.md)
-      - 1.4.21 OS [4]
+      - 1.4.21 OS [5]
         - [1.4.21.1 OS Backup](/00~Specials/Tools%20&%20Projects/OS/OS%20Backup.md)
         - [1.4.21.2 OS Monitor](/00~Specials/Tools%20&%20Projects/OS/OS%20Monitor.md)
         - [1.4.21.3 OS](/00~Specials/Tools%20&%20Projects/OS/OS.md)
         - [1.4.21.4 Terminal & CMD Tools](/00~Specials/Tools%20&%20Projects/OS/Terminal%20&%20CMD%20Tools.md)
+        - [1.4.21.5 Terminal](/00~Specials/Tools%20&%20Projects/OS/Terminal.md)
       - 1.4.22 OSS Alternatives [1]
         - [1.4.22.1 Open source alternatives to everyday SaaS products](/00~Specials/Tools%20&%20Projects/OSS%20Alternatives/Open-source%20alternatives%20to%20everyday%20SaaS%20products.md)
       - [1.4.23 Person](/00~Specials/Tools%20&%20Projects/Person.md)
@@ -72,11 +73,10 @@
       - [1.4.26 ScreenShare & VNC](/00~Specials/Tools%20&%20Projects/ScreenShare%20&%20VNC.md)
       - [1.4.27 Startup](/00~Specials/Tools%20&%20Projects/Startup.md)
       - [1.4.28 Teamwork](/00~Specials/Tools%20&%20Projects/Teamwork.md)
-      - [1.4.29 Terminal](/00~Specials/Tools%20&%20Projects/Terminal.md)
-      - [1.4.30 Translate Tools](/00~Specials/Tools%20&%20Projects/Translate%20Tools.md)
-      - [1.4.31 UGC](/00~Specials/Tools%20&%20Projects/UGC.md)
-      - [1.4.32 Website Builder](/00~Specials/Tools%20&%20Projects/Website%20Builder.md)
-      - [1.4.33 消息推送](/00~Specials/Tools%20&%20Projects/消息推送.md)
+      - [1.4.29 Translate Tools](/00~Specials/Tools%20&%20Projects/Translate%20Tools.md)
+      - [1.4.30 UGC](/00~Specials/Tools%20&%20Projects/UGC.md)
+      - [1.4.31 Website Builder](/00~Specials/Tools%20&%20Projects/Website%20Builder.md)
+      - [1.4.32 消息推送](/00~Specials/Tools%20&%20Projects/消息推送.md)
     - [1.5 Weekly [8]](/00~Specials/Weekly/README.md)
       - 1.5.1  [1]
         - 1.5.1.1  [2]
@@ -1088,18 +1088,20 @@
     - [6.6 AI Model OpenSource List](/10~AI/AI-Model-OpenSource-List.md)
     - [6.7 AI OpenSource List](/10~AI/AI-OpenSource-List.md)
     - [6.8 AI Showcase List](/10~AI/AI-Showcase-List.md)
-    - 6.9 Application [5]
+    - 6.9 Application [6]
       - [6.9.1 AI Application List](/10~AI/Application/AI-Application-List.md)
-      - 6.9.2 Assistant [1]
-        - [6.9.2.1 AI Assistant List](/10~AI/Application/Assistant/AI-Assistant-List.md)
-      - 6.9.3 AutoDriving [1]
-        - [6.9.3.1 AutoDriving List](/10~AI/Application/AutoDriving/AutoDriving-List.md)
-      - 6.9.4 RecommendSystem [3]
-        - [6.9.4.1 CTR List](/10~AI/Application/RecommendSystem/CTR-List.md)
-        - [6.9.4.2 RecommendSystem List](/10~AI/Application/RecommendSystem/RecommendSystem-List.md)
-        - [6.9.4.3 RecommendSystem OpenSource List](/10~AI/Application/RecommendSystem/RecommendSystem-OpenSource-List.md)
-      - 6.9.5 SNA [1]
-        - [6.9.5.1 SNA List](/10~AI/Application/SNA/SNA-List.md)
+      - 6.9.2 AIGC [1]
+        - [6.9.2.1 AIGC List](/10~AI/Application/AIGC/AIGC-List.md)
+      - 6.9.3 Assistant [1]
+        - [6.9.3.1 AI Assistant List](/10~AI/Application/Assistant/AI-Assistant-List.md)
+      - 6.9.4 AutoDriving [1]
+        - [6.9.4.1 AutoDriving List](/10~AI/Application/AutoDriving/AutoDriving-List.md)
+      - 6.9.5 RecommendSystem [3]
+        - [6.9.5.1 CTR List](/10~AI/Application/RecommendSystem/CTR-List.md)
+        - [6.9.5.2 RecommendSystem List](/10~AI/Application/RecommendSystem/RecommendSystem-List.md)
+        - [6.9.5.3 RecommendSystem OpenSource List](/10~AI/Application/RecommendSystem/RecommendSystem-OpenSource-List.md)
+      - 6.9.6 SNA [1]
+        - [6.9.6.1 SNA List](/10~AI/Application/SNA/SNA-List.md)
     - 6.10 CV [6]
       - 6.10.1 AIGC [3]
         - [6.10.1.1 AIGC OpenSource List](/10~AI/CV/AIGC/AIGC-OpenSource-List.md)
@@ -1193,16 +1195,18 @@
       - 6.12.5 LLM [6]
         - 6.12.5.1 99~参考资料 [1]
           - [6.12.5.1.1 AI Canon](/10~AI/NLP/LLM/99~参考资料/2023-AI%20Canon.md)
-        - 6.12.5.2 LLM Application [4]
+        - 6.12.5.2 LLM Application [5]
           - 6.12.5.2.1 Agent [2]
             - [6.12.5.2.1.1 LLM Agent List](/10~AI/NLP/LLM/LLM-Application/Agent/LLM-Agent-List.md)
             - [6.12.5.2.1.2 LLM Agent OpenSource List](/10~AI/NLP/LLM/LLM-Application/Agent/LLM-Agent-OpenSource-List.md)
           - 6.12.5.2.2 CustomData [1]
             - [6.12.5.2.2.1 LLM CustomData OpenSource List](/10~AI/NLP/LLM/LLM-Application/CustomData/LLM-CustomData-OpenSource-List.md)
           - [6.12.5.2.3 LLM Application OpenSource List](/10~AI/NLP/LLM/LLM-Application/LLM-Application-OpenSource-List.md)
-          - 6.12.5.2.4 SDK [2]
-            - [6.12.5.2.4.1 LLM SDK OpenSource List](/10~AI/NLP/LLM/LLM-Application/SDK/LLM-SDK-OpenSource-List.md)
-            - [6.12.5.2.4.2 LangChain List](/10~AI/NLP/LLM/LLM-Application/SDK/LangChain-List.md)
+          - 6.12.5.2.4 LLM DevOps [1]
+            - [6.12.5.2.4.1 LLM DevOps OpenSource List](/10~AI/NLP/LLM/LLM-Application/LLM-DevOps/LLM-DevOps-OpenSource-List.md)
+          - 6.12.5.2.5 SDK [2]
+            - [6.12.5.2.5.1 LLM SDK OpenSource List](/10~AI/NLP/LLM/LLM-Application/SDK/LLM-SDK-OpenSource-List.md)
+            - [6.12.5.2.5.2 LangChain List](/10~AI/NLP/LLM/LLM-Application/SDK/LangChain-List.md)
         - [6.12.5.3 LLM List](/10~AI/NLP/LLM/LLM-List.md)
         - 6.12.5.4 LLM Model [4]
           - 6.12.5.4.1 CodeGeneration [1]

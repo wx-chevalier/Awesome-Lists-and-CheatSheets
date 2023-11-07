@@ -24,6 +24,8 @@
 
 - [2022~microservice-rust-mysql ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/second-state/microservice-rust-mysql): A template project for building a database-driven microservice in Rust and run it in the WasmEdge sandbox.
 
+- [2023~Spin ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fermyon/spin)](https://github.com/fermyon/spin): Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
+
 # Compiler
 
 - [CoWasm ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/sagemathinc/cowasm): CoWasm: Collaborative WebAssembly for Servers and Browsers. Built using Zig. Supports Python with extension modules, including numpy.
