@@ -1,6 +1,6 @@
 # OpenTelemetry List
 
-# Resource
+# Resources
 
 ## Books
 

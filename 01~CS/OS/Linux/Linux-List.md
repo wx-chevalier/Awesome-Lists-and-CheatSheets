@@ -6,7 +6,7 @@
 
 # Overview
 
-# Resource
+# Resources
 
 ## Books
 

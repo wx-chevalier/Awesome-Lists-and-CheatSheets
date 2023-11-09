@@ -4,7 +4,7 @@
 
 - [2021~Game Engine: How I Implemented Skeletal Animation](https://vladh.net/articles/game-engine-skeletal-animation.html): In 2020, I started writing a 3D game engine from scratch in C++. This is a post about how I added skeletal animation to it. Drake is in it, so buckle up.
 
-# Resource
+# Resources
 
 ## Books
 

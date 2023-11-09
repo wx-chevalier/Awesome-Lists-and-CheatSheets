@@ -6,7 +6,7 @@
 
 - [2020~云原生时代消息中间件的演进路线](https://mp.weixin.qq.com/s/b3YGm8uMuOZNRhZdA7egSQ): 本文整理自作者于 2020 年云原生微服务大会上的分享《云原生时代的消息中间件演进》，主要探讨了传统的消息中间件如何持续进化为云原生的消息服务。
 
-# Resource
+# Resources
 
 ## Books
 

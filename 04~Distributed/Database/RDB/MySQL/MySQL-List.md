@@ -12,7 +12,7 @@
 
 - [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn)
 
-# Resource
+# Resources
 
 ## Books
 

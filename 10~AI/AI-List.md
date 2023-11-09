@@ -54,7 +54,7 @@
 
 ## Survey | 前沿调查
 
-# Resource | 资源
+# Resources | 资源
 
 ## Collection | 集合
 

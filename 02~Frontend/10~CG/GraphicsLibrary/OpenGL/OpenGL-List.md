@@ -1,6 +1,6 @@
 # OpenGL List
 
-# Resource
+# Resources
 
 ## Books
 

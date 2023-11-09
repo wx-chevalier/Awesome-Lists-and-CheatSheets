@@ -16,7 +16,7 @@
 
 - [2019~日处理数据量超 10 亿：友信金服基于 Flink 构建实时用户画像系统的实践](https://mp.weixin.qq.com/s/ptNHzhMu50pAOUMzTxaGfA): 友信金服用户画像项目正是以此为背景成立，旨在实现“数据驱动业务与运营”的集团战略。目前该系统支持日处理数据量超 10 亿，接入上百种合规数据源。
 
-# Resource
+# Resources
 
 ## Books
 

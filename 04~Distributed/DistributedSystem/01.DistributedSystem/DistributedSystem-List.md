@@ -12,7 +12,7 @@
 
 - [An introduction to distributed systems](https://github.com/aphyr/distsys-class): 一个基本的分布式系统简介
 
-# Resource
+# Resources
 
 ## Books
 

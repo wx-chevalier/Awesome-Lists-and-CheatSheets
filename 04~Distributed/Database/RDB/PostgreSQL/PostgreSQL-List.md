@@ -8,7 +8,7 @@
 
 # Overview
 
-# Resource
+# Resources
 
 ## Books
 

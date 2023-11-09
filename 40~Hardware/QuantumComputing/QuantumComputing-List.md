@@ -4,7 +4,7 @@
 
 - [2018~当前量子计算前沿是什么水平](https://www.zhihu.com/question/53050049/answer/343521753)
 
-# Resource
+# Resources
 
 ## Books
 

@@ -6,7 +6,7 @@
 
 - [2019~世界操作系统发展简史](https://mp.weixin.qq.com/s/lQYtuTkc1tzP7pejMYMCWg): 我们回顾操作系统的发展历史发现，操作系统已经发展了近半个世纪，其覆盖的范围包括：个人电脑端操作系统、工业应用操作系统以及移动端操作系统。
 
-# Resource
+# Resources
 
 ## Books
 

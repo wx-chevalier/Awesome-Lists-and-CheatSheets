@@ -4,7 +4,7 @@
 
 - [2015-Streaming 101 & 102](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102): In this post, I want to focus further on the data-processing patterns from last time, but in more detail, and within the context of concrete examples.
 
-# Resource
+# Resources
 
 ## Collection
 

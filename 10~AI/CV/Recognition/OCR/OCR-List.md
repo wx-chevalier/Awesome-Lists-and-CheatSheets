@@ -32,7 +32,7 @@
 
 ## Case Study
 
-# Resource
+# Resources
 
 ## Collection
 

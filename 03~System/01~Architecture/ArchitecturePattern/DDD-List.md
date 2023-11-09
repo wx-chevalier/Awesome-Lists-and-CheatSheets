@@ -12,7 +12,7 @@
 
 - [2022~Why Domain-Driven Design?](https://betterprogramming.pub/why-domain-driven-design-203099adf32a): The goal of this blog is to highlight the type of problems that DDD addresses and give a high-level introduction to the solution.
 
-# Resource
+# Resources
 
 ## Blog
 

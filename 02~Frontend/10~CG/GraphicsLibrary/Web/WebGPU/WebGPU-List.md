@@ -1,6 +1,6 @@
 # WebGPU List
 
-# Resource
+# Resources
 
 ## Series
 

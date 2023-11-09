@@ -20,7 +20,7 @@
 
 - [荔枝 FM 架构师刘耀华：异地多活 IDC 机房架构](http://geek.csdn.net/news/detail/53231)
 
-# Resource
+# Resources
 
 ## Books
 

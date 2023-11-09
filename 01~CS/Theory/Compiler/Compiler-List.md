@@ -18,7 +18,7 @@ There are massive curated links to help you study anything about Compiler head f
 
 - [2020~pl0c](https://github.com/ibara/pl0c): PL/0 to C compiler to teach basic compiler construction from a practical, hands-on perspective.
 
-# Resource
+# Resources
 
 ## Courses
 

@@ -1,6 +1,6 @@
 # Geometry Process List
 
-# Resource
+# Resources
 
 ## Blog
 

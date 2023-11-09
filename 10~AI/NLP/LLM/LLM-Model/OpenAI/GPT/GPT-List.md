@@ -1,6 +1,6 @@
 # GPT List
 
-# Resource
+# Resources
 
 ## Courses
 

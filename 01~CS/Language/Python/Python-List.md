@@ -34,7 +34,7 @@
 
 - [Python Cheatsheet](https://github.com/gto76/python-cheatsheet): Comprehensive Python Cheatsheet
 
-# Resource | 资源
+# Resources | 资源
 
 ## Books
 

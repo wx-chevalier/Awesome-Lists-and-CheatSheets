@@ -16,7 +16,7 @@
 
 - [2018~React Native at Airbnb ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/msQ): In 2016, we took a big bet on React Native. Two years later, we’re ready to share our experience with the world and show what’s next.
 
-# Resource
+# Resources
 
 ## Books
 

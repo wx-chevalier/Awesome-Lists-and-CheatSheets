@@ -18,7 +18,7 @@
 
 - [How Zendesk Serves TensorFlow Models in Production](https://medium.com/zendesk-engineering/how-zendesk-serves-tensorflow-models-in-production-751ee22f0f4b#.x0o7mpnd3)
 
-# Resource | 资源集锦
+# Resources | 资源集锦
 
 ## Collection
 

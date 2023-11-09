@@ -4,7 +4,7 @@
 
 - [2023~LLMsPracticalGuide ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Mooler0410/LLMsPracticalGuide)](https://github.com/Mooler0410/LLMsPracticalGuide): A curated (still actively updated) list of practical guide resources of LLMs. It's based on our survey paper: Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond. These sources aim to help practitioners navigate the vast landscape of large language models (LLMs) and their applications in natural language processing (NLP) applications. If you find any resources in our repository helpful, please feel free to use them (and don't forget to cite our paper!)
 
-# Resource
+# Resources
 
 ## Books
 

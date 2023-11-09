@@ -30,7 +30,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet): An overview of Go syntax and features.
 
-# Resource
+# Resources
 
 ## Books
 

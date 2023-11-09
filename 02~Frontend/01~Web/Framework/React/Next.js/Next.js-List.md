@@ -30,6 +30,8 @@
 
 - [2023~notion-clone-tutorial ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/AntonioErdeljac/notion-clone-tutorial)](https://github.com/AntonioErdeljac/notion-clone-tutorial): This is a repository for Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind | Full Course 2023.
 
+- [2023~Next.js Email Client ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/leerob/nextjs-postgres-email-client)](https://github.com/leerob/nextjs-postgres-email-client): This is a simple email client built with Next.js and Postgres. It's built to show off some of the features of the App Router, which enable you to build products.
+
 ## Library
 
 - [2023~Platforms Starter Kit ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/vercel/platforms)](https://github.com/vercel/platforms): A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.

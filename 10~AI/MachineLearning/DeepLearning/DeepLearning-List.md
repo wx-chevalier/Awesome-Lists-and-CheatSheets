@@ -44,7 +44,7 @@
 
 - [Miles Deep - AI Porn Video Editor](https://github.com/ryanjay0/miles-deep)
 
-# Resource
+# Resources
 
 ## Collection
 

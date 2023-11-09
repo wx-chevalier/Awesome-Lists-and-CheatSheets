@@ -18,7 +18,7 @@
 
 - [2017~阿里巴巴 Java 开发手册](https://github.com/alibaba/p3c)：《阿里巴巴 Java 开发手册》是阿里巴巴集团技术团队的集体经验总结，经历了多次大规模一线实战的检验及不断的完善，反馈给广大开发者。
 
-# Resource
+# Resources
 
 ## Books | 书籍
 

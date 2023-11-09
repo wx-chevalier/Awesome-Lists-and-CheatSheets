@@ -22,7 +22,7 @@
 
 - [初创公司应该如何做好持续集成和部署？](http://www.simlinux.com/archives/1638.html)
 
-# Resource
+# Resources
 
 ## Books
 

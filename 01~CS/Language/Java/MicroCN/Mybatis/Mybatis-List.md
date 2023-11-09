@@ -1,6 +1,6 @@
 # MyBatis List
 
-# Resource
+# Resources
 
 - [MyBatis 实现原理与源码解析系统 #Series#](http://www.iocoder.cn/MyBatis/good-collection/?title)
 

@@ -1,6 +1,6 @@
 # Tomcat List
 
-# Resource
+# Resources
 
 - [Understanding Apache Tomcat-Apache Tomcat Resources by Mulesoft #Series#](https://www.mulesoft.com/cn/tcat/understanding-apache-tomcat): Apache Tomcat is the world's most widely used web application server, with over one million downloads per month and over 70% penetration in the enterprise datacenter. Apache Tomcat is used to power everything from simple one server sites to large enterprise networks. The following is a collection of Apache Tomcat resources that will help you identify, monitor, troubleshoot, and resolve common problems with Apache Tomcat.
 

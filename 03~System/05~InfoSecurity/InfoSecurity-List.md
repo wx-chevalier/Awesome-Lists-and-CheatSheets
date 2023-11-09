@@ -28,7 +28,7 @@
 
 - [2022~How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything): How to systematically secure anything: a repository about security engineering
 
-# Resource
+# Resources
 
 ## Books
 
@@ -37,6 +37,8 @@
 - [《兜哥系列丛书》📚](https://github.com/duoergun0729): Web 安全之机器学习入门/Web 安全之深度学习实战/Web 安全之强化学习与 GAN 系列
 
 - [2020~《应急响应实战笔记》📚 ![star](https://img.shields.io/github/stars/Bypass007/Emergency-Response-Notes)](https://github.com/Bypass007/Emergency-Response-Notes): 这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析。
+
+- [2023~《云安全攻防入门》 📚 ![star](https://img.shields.io/github/stars/EvilAnne/lzCloudSecurity)](https://github.com/EvilAnne/lzCloudSecurity): 适用于初中级安全从业人员，乙方安全测试，甲方安全自检，网络安全爱好者等，企业安全防护与提高。
 
 ## Collection
 

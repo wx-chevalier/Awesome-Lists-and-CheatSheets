@@ -30,7 +30,7 @@ This file aggregates curated popular links for learning Redux. More reference ab
 
 - [Dissecting Twitter’s Redux Store](https://medium.com/statuscode/dissecting-twitters-redux-store-d7280b62c6b1#.wu5trgupx):
 
-# Resource
+# Resources
 
 ## Books
 

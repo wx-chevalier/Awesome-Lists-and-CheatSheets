@@ -8,7 +8,7 @@
 
 - [2019~What Do We Talk About When We Talk About Dashboards?](https://alper.datav.is/publications/dashboards/): In this paper, we explore the genre of dashboards through a two-prong approach.
 
-# Resource
+# Resources
 
 ## Books
 

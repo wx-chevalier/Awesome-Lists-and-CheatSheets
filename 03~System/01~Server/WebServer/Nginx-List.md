@@ -12,7 +12,7 @@
 
 - [Nginx 负载均衡系列](http://blog.csdn.net/zhangskd/article/details/50208527)
 
-# Resource
+# Resources
 
 ## Books
 

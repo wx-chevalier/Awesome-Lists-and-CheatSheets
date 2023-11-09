@@ -6,7 +6,7 @@
 
 - [2017~How does a relational database work](http://coding-geek.com/how-databases-work/): When it comes to relational databases, I can’t help thinking that something is missing. They’re used everywhere. There are many different databases: from the small and useful SQLite to the powerful Teradata. But, there are only a few articles that explain how a database works.
 
-# Resource
+# Resources
 
 ## Books
 

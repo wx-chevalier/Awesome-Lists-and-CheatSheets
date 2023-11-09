@@ -8,7 +8,7 @@
 
 - [2016~SQL Cheat Sheet](https://zeroturnaround.com/rebellabs/sql-cheat-sheet/): We realize that it’s hard to fit everything you need to know about SQL on a single A4 page.
 
-# Resource
+# Resources
 
 ## Courses
 

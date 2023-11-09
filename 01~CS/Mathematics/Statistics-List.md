@@ -14,7 +14,7 @@
 
 - [2017~The Mathematics of Machine Learning](http://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-machine-learning): Despite the immense possibilities of Machine and Deep Learning, a thorough mathematical understanding of many of these techniques is necessary for a good grasp of the inner workings of the algorithms and getting good results.
 
-# Resource
+# Resources
 
 ## Books
 

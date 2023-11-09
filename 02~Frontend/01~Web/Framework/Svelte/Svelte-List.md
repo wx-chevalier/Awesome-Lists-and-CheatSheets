@@ -8,7 +8,7 @@
 
 - [2021~Comparing Svelte and React](https://www.jackfranklin.co.uk/blog/comparing-svelte-and-react-javascript/): This is a post where I'll tell you about my preferences, and what I find easier or harder with either framework.
 
-# Resource
+# Resources
 
 # Internals
 

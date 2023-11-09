@@ -10,7 +10,7 @@
 
 - [2017~TypeScript at Slack](https://slack.engineering/typescript-at-slack-a81307fa288d)
 
-# Resource
+# Resources
 
 ## Books
 

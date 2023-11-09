@@ -12,7 +12,7 @@
 
 - [High-performance ES2015 and beyond](http://6me.us/2dRAT4): Over the last couple of months the V8 team focused on bringing the performance of newly added ES2015 and other even more recent JavaScript features on par with their transpiled ES5 counterparts.
 
-## Resource
+## Resources
 
 - [demystifying-js-engines](https://github.com/a0viedo/demystifying-js-engines): 一系列讲解 JavaScript 虚拟机构造的资源整合
 

@@ -1,6 +1,6 @@
 # Pytorch List
 
-# Resource
+# Resources
 
 ## Books
 

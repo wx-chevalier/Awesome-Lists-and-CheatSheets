@@ -1,6 +1,6 @@
 # Clojure List
 
-# Resource
+# Resources
 
 ## Books
 

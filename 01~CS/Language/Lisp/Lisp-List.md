@@ -4,7 +4,7 @@
 
 - [2009-The Scheme Programming Language》📚](http://www.scheme.com/tspl4/)
 
-# Resource
+# Resources
 
 ## Books
 

@@ -18,7 +18,7 @@
 
 - [2021~Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices): ✅ The Node.js best practices list (February 2021)
 
-# Resource
+# Resources
 
 ## Books & Course
 

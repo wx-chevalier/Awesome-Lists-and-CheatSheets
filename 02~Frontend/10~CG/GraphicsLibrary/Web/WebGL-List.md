@@ -14,7 +14,7 @@
 
 - [Unleash Your Inner Supercomputer Your Guide to GPGPU with WebGL](http://www.vizitsolutions.com/portfolio/webgl/gpgpu/index.html)
 
-# Resource
+# Resources
 
 ## Books
 

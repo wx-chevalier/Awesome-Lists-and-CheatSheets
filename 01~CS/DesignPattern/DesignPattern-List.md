@@ -28,7 +28,7 @@
 
 - [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87): Observable is just a function that takes an observer and returns a function.
 
-# Resource | 资料索引
+# Resources | 资料索引
 
 ## Collection
 

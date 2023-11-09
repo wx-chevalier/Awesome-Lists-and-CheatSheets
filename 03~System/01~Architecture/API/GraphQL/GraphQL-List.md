@@ -32,7 +32,7 @@ This file aggregates curated popular links for learning GraphQL. More reference 
 
 - [Give it a REST: use GraphQL for your APIs!](https://medium.com/@davidcelis/give-it-a-rest-use-graphql-for-your-apis-40a2761e6336#.4shk2q5lq)
 
-# Resource
+# Resources
 
 - [GraphQL Specification](http://facebook.github.io/graphql/October2016/): This is a Draft RFC Specification for GraphQL, a query language created by Facebook in 2012 for describing the capabilities and requirements of data models for client‐server applications.
 

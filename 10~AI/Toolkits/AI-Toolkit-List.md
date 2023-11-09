@@ -6,7 +6,7 @@
 
 - [2015-Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/): At the moment, deep learning is held together by an extremely successful tool. This tool doesn’t seem fundamental; it’s something we’ve stumbled on, with seemingly arbitrary details that change regularly. As a field, we don’t yet have some unifying insight or shared understanding. In fact, the field has several competing narratives!
 
-# Resource
+# Resources
 
 ## Courses
 

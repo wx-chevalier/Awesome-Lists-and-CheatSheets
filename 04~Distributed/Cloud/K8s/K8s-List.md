@@ -22,7 +22,7 @@
 
 - [2019~国外手机交友 APP Tinder 向 Kubernetes 迁移的过程](https://mp.weixin.qq.com/s/rTTeXk83nGdNcXQHzCjbVw): 大概两年前，Tinder 决定转向 Kubernetes。Kubernetes 通过不可变部署推动 Tinder Engine 向容器化以及低接触式运维发展。应用程序的构建、部署以及基础架构都可以由代码定义。
 
-# Resource
+# Resources
 
 ## Books
 

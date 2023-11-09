@@ -1,4 +1,4 @@
-# Resource
+# Resources
 
 ## Collection
 

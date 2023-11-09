@@ -2,7 +2,7 @@
 
 # Overview
 
-# Resource
+# Resources
 
 ## Books
 

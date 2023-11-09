@@ -20,7 +20,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [VisuAlgo](https://visualgo.net/en): visualising data structures and algorithms through animation
 
-# Resource
+# Resources
 
 ## Site
 

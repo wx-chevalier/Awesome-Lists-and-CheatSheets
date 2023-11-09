@@ -24,7 +24,7 @@
 
 - [2020~Recent database technology that should be on your radar ](https://lucperkins.dev/blog/new-db-tech-1/): In this post I’d like to talk about three recently minted database technologies that I find intriguing.
 
-# Resource
+# Resources
 
 ## Blog
 

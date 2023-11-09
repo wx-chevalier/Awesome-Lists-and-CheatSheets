@@ -1,6 +1,6 @@
 # Spring List
 
-# Resource
+# Resources
 
 ## Books
 

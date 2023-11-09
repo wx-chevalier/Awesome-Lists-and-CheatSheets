@@ -16,7 +16,7 @@
 
 - [OpenRefine ![code](https://ng-tech.icu/assets/code.svg)](https://openrefine.org): A free, open source, powerful tool for working with messy data.
 
-# Resource
+# Resources
 
 ## Blog
 

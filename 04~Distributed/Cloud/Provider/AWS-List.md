@@ -4,7 +4,7 @@
 
 - [2021~sst ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/serverless-stack/sst)](https://github.com/serverless-stack/sst): 💥 SST makes it easy to build full-stack serverless apps.
 
-# Resource
+# Resources
 
 ## Course
 

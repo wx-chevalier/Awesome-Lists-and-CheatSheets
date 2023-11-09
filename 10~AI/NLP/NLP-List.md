@@ -20,7 +20,7 @@
 
 - [2018~AMiner 自然语言处理研究报告](https://static.aminer.cn/misc/article/nlp.pdf): 自然语言处理是人工智能的一个重要应用领域，也是新一代计算机必须研究的课题。它的主要目的是克服人机对话中的各种限制，使用户能用自己的语言与计算机对话。本研究报告对自然语言进行了简单梳理。
 
-# Resource
+# Resources
 
 - [2017~DL4NLP 🗃️](https://github.com/andrewt3000/DL4NLP): Deep Learning for NLP resources.
 

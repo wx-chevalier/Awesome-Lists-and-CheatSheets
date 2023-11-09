@@ -10,7 +10,7 @@
 
 - [Presto 源码分析](http://blog.csdn.net/sinat_27545249/article/details/52502765)
 
-# Resource
+# Resources
 
 ## Blog | 博客
 

@@ -34,7 +34,7 @@
 
 - [2019~京东电商推荐系统实践](https://mp.weixin.qq.com/s/YTu4-L4SVpLKhQQ2MaB5Pw): 今天为大家分享下京东电商推荐系统实践方面的经验，主要包括：简介、排序模块、实时更新、召回和首轮排序、实验平台。
 
-# Resource
+# Resources
 
 ## Books
 

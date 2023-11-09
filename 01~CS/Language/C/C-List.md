@@ -14,7 +14,7 @@
 
 - [2022~Everything I wish I knew when learning C](https://tmewett.com/c-tips/): This page is a living collection of summaries, signposts, and advice for these broader points that made my journey with C and other compiled languages easier. I hope it’s useful to you!
 
-# Resource
+# Resources
 
 ## Books
 

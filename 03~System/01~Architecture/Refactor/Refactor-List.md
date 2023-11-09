@@ -2,7 +2,7 @@
 
 - [2017~Awesome Guidelines](https://github.com/Kristories/awesome-guidelines): A curated list of high quality coding style conventions and standards.
 
-# Resource
+# Resources
 
 ## Books
 

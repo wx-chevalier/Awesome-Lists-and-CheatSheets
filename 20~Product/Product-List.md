@@ -1,6 +1,6 @@
 # Product List | 产品与交互资源索引
 
-# Resource
+# Resources
 
 - [Awesome Product Design](https://github.com/teoga/awesome-product-design): A collection of bookmarks, resources, articles for product designers.
 

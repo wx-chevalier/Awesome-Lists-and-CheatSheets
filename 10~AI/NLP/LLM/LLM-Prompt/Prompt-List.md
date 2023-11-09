@@ -10,7 +10,7 @@
 
 - [2023~awesome-chatgpt-prompts ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts)](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better.
 
-# Resource
+# Resources
 
 ## Books
 

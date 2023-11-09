@@ -1,6 +1,6 @@
 # Python DataAnalysis List
 
-# Resource
+# Resources
 
 ## Courses
 

@@ -6,7 +6,7 @@
 
 - [Git 的基本概念与入门](http://www.epubit.com.cn/article/829)
 
-# Resource
+# Resources
 
 ## Books
 

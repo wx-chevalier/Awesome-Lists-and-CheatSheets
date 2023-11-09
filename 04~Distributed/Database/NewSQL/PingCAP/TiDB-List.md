@@ -10,7 +10,7 @@
 
 ## Case Study
 
-# Resource
+# Resources
 
 ## Books
 

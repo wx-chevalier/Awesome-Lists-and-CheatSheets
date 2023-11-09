@@ -12,7 +12,7 @@
 
 - [2019~日均 5 亿查询量的京东订单中心，为什么舍 MySQL 用 ES?](https://mp.weixin.qq.com/s/YTYif36zE1e6UsbshRXcRw): 京东到家订单数据存储在 MySQL 中，但显然只通过 DB 来支撑大量的查询是不可取的。同时对于一些复杂的查询，MySQL 支持得不够友好，所以订单中心系统使用了 Elasticsearch 来承载订单查询的主要压力。
 
-# Resource
+# Resources
 
 - [Awesome ElasticSearch ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dzharii/awesome-elasticsearch): A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!
 

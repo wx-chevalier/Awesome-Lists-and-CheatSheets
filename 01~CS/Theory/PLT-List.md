@@ -14,7 +14,7 @@
 
 - [Luna](https://github.com/tj/luna): Luna is an expressive, minimalistic, elegant programming language implemented in C. With cooperative thread concurrency at its core, async IO, and influences derived from languages such as Lua, io, Rust, Ruby, and C.
 
-# Resource
+# Resources
 
 ## Collection
 

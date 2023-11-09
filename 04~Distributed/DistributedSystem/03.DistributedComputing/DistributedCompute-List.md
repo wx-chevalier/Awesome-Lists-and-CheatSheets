@@ -10,7 +10,7 @@
 
 - [2019~端到端一致性,流系统 Spark/Flink/Kafka/DataFlow 对比总结(压箱宝具呕血之作)](https://zhuanlan.zhihu.com/p/77677075)
 
-# Resource
+# Resources
 
 ## Books
 

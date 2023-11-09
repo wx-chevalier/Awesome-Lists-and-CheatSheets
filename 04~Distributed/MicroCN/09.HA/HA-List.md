@@ -1,6 +1,6 @@
 # HA List
 
-# Resource
+# Resources
 
 ## Collection
 

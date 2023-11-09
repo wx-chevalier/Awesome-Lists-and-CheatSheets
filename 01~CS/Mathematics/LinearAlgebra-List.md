@@ -4,7 +4,7 @@
 
 - [Future Directions in Tensor-Based Computation and Modeling](http://www.cs.cornell.edu/CV/TenWork/FinalReport.pdf)
 
-# Resource
+# Resources
 
 ## Books
 

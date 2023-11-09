@@ -12,7 +12,7 @@
 
 - [听阿里巴巴 JVM 工程师为你分析常见 Java 故障案例](http://dbaplus.cn/news-21-173-1.html)
 
-# Resource
+# Resources
 
 ## Series
 
