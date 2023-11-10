@@ -30,8 +30,9 @@
       - [1.4.6 Dev IDE](/00~Specials/Tools%20&%20Projects/Dev-IDE.md)
       - [1.4.7 Dev Ops](/00~Specials/Tools%20&%20Projects/Dev-Ops.md)
       - [1.4.8 Dev PaaS](/00~Specials/Tools%20&%20Projects/Dev-PaaS.md)
-      - 1.4.9 DevOps [1]
-        - [1.4.9.1 API Tools](/00~Specials/Tools%20&%20Projects/DevOps/API%20Tools.md)
+      - 1.4.9 DevOps [2]
+        - [1.4.9.1 API Hub](/00~Specials/Tools%20&%20Projects/DevOps/API%20Hub.md)
+        - [1.4.9.2 API Tools](/00~Specials/Tools%20&%20Projects/DevOps/API%20Tools.md)
       - 1.4.10 Diagram [1]
         - [1.4.10.1 Plot Tools](/00~Specials/Tools%20&%20Projects/Diagram/Plot-Tools.md)
       - [1.4.11 ECommerce & Marketing](/00~Specials/Tools%20&%20Projects/ECommerce%20&%20Marketing.md)
@@ -260,7 +261,7 @@
         - [2.6.3.4 CPP List](/01~CS/Language/CPP/CPP-List.md)
         - [2.6.3.5 CPP OpenSource List](/01~CS/Language/CPP/CPP-OpenSource-List.md)
         - 2.6.3.6 Qt [2]
-          - [2.6.3.6.1 Qt List](/01~CS/Language/CPP/Qt/Qt-List.md)
+          - [2.6.3.6.1 QT List](/01~CS/Language/CPP/Qt/QT-List.md)
           - [2.6.3.6.2 Qt OpenSource List](/01~CS/Language/CPP/Qt/Qt-OpenSource-List.md)
       - 2.6.4 CSharp [1]
         - [2.6.4.1 WPF OpenSource List](/01~CS/Language/CSharp/WPF-OpenSource-List.md)
