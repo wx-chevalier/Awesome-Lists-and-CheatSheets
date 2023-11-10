@@ -259,8 +259,9 @@
         - [2.6.3.3 CPP ConcurrentProgramming List](/01~CS/Language/CPP/CPP-ConcurrentProgramming-List.md)
         - [2.6.3.4 CPP List](/01~CS/Language/CPP/CPP-List.md)
         - [2.6.3.5 CPP OpenSource List](/01~CS/Language/CPP/CPP-OpenSource-List.md)
-        - 2.6.3.6 QT [1]
-          - [2.6.3.6.1 QT List](/01~CS/Language/CPP/QT/QT-List.md)
+        - 2.6.3.6 Qt [2]
+          - [2.6.3.6.1 Qt List](/01~CS/Language/CPP/Qt/Qt-List.md)
+          - [2.6.3.6.2 Qt OpenSource List](/01~CS/Language/CPP/Qt/Qt-OpenSource-List.md)
       - 2.6.4 CSharp [1]
         - [2.6.4.1 WPF OpenSource List](/01~CS/Language/CSharp/WPF-OpenSource-List.md)
       - 2.6.5 Erlang [1]
