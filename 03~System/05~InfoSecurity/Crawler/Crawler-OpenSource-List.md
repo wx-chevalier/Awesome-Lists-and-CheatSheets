@@ -40,6 +40,8 @@
 
 - [2022~katana ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/projectdiscovery/katana): A next-generation crawling and spidering framework.
 
+- [2023~philippta/flyscrape ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/philippta/flyscrape)](https://github.com/philippta/flyscrape): flyscrape is a standalone and scriptable web scraper, combining the speed of Go with the flexibility of JavaScript. — Focus on data extraction rather than request juggling.
+
 ## Java
 
 - [Crawler4j ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/yasserg/crawler4j): crawler4j is an open source web crawler for Java which provides a simple interface for crawling the Web. Using it, you can setup a multi-threaded web crawler in few minutes.
