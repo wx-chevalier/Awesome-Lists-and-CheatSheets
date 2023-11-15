@@ -1,6 +1,6 @@
 # Three.js List
 
-# Book
+# Books
 
 - [Three.js Fundamentals 📚](https://threejsfundamentals.org/threejs/lessons/threejs-fundamentals.html): Three.js is a 3D library that tries to make it as easy as possible to get 3D content on a webpage.
 

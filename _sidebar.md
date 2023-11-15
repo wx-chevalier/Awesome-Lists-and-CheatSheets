@@ -1148,72 +1148,73 @@
         - 6.11.8.1 DRL [1]
           - [6.11.8.1.1 DeepReinforcementLearning](/10~AI/MachineLearning/ReinforcementLearning/DRL/DeepReinforcementLearning.md)
         - [6.11.8.2 ReinforcementLearning List](/10~AI/MachineLearning/ReinforcementLearning/ReinforcementLearning-List.md)
-    - 6.12 NLP [11]
-      - 6.12.1 DNN [2]
-        - [6.12.1.1 GAN List](/10~AI/NLP/DNN/GAN-List.md)
-        - [6.12.1.2 LSTM List](/10~AI/NLP/DNN/LSTM-List.md)
-      - 6.12.2 High level Tasks [3]
-        - 6.12.2.1 DialogueSystem [3]
-          - [6.12.2.1.1 ASR List](/10~AI/NLP/High-level%20Tasks/DialogueSystem/ASR-List.md)
-          - [6.12.2.1.2 Chatbot List](/10~AI/NLP/High-level%20Tasks/DialogueSystem/Chatbot-List.md)
-          - [6.12.2.1.3 DialogueSystem List](/10~AI/NLP/High-level%20Tasks/DialogueSystem/DialogueSystem-List.md)
-        - 6.12.2.2 MachineTranslation [1]
-          - [6.12.2.2.1 MachineTranslation List](/10~AI/NLP/High-level%20Tasks/MachineTranslation/MachineTranslation-List.md)
-        - 6.12.2.3 Voice [1]
-          - [6.12.2.3.1 Voice List](/10~AI/NLP/High-level%20Tasks/Voice/Voice-List.md)
-      - 6.12.3 InformationExtraction [2]
-        - [6.12.3.1 InformationExtraction List](/10~AI/NLP/InformationExtraction/InformationExtraction-List.md)
-        - [6.12.3.2 InformationRetrieval List](/10~AI/NLP/InformationExtraction/InformationRetrieval-List.md)
-      - 6.12.4 KnowledgeGraph [1]
-        - [6.12.4.1 KnowledgeGraph List](/10~AI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
-      - 6.12.5 LLM [6]
-        - 6.12.5.1 99~参考资料 [1]
-          - [6.12.5.1.1 AI Canon](/10~AI/NLP/LLM/99~参考资料/2023-AI%20Canon.md)
-        - 6.12.5.2 LLM Application [5]
-          - 6.12.5.2.1 Agent [2]
-            - [6.12.5.2.1.1 LLM Agent List](/10~AI/NLP/LLM/LLM-Application/Agent/LLM-Agent-List.md)
-            - [6.12.5.2.1.2 LLM Agent OpenSource List](/10~AI/NLP/LLM/LLM-Application/Agent/LLM-Agent-OpenSource-List.md)
-          - 6.12.5.2.2 CustomData [1]
-            - [6.12.5.2.2.1 LLM CustomData OpenSource List](/10~AI/NLP/LLM/LLM-Application/CustomData/LLM-CustomData-OpenSource-List.md)
-          - [6.12.5.2.3 LLM Application OpenSource List](/10~AI/NLP/LLM/LLM-Application/LLM-Application-OpenSource-List.md)
-          - 6.12.5.2.4 LLM DevOps [1]
-            - [6.12.5.2.4.1 LLM DevOps OpenSource List](/10~AI/NLP/LLM/LLM-Application/LLM-DevOps/LLM-DevOps-OpenSource-List.md)
-          - 6.12.5.2.5 SDK [2]
-            - [6.12.5.2.5.1 LLM SDK OpenSource List](/10~AI/NLP/LLM/LLM-Application/SDK/LLM-SDK-OpenSource-List.md)
-            - [6.12.5.2.5.2 LangChain List](/10~AI/NLP/LLM/LLM-Application/SDK/LangChain-List.md)
-        - [6.12.5.3 LLM List](/10~AI/NLP/LLM/LLM-List.md)
-        - 6.12.5.4 LLM Model [4]
-          - 6.12.5.4.1 CodeGeneration [1]
-            - [6.12.5.4.1.1 CodeGeneration OpenSource List](/10~AI/NLP/LLM/LLM-Model/CodeGeneration/CodeGeneration-OpenSource-List.md)
-          - [6.12.5.4.2 LLM Model List](/10~AI/NLP/LLM/LLM-Model/LLM-Model-List.md)
-          - 6.12.5.4.3 LLaMA [3]
-            - [6.12.5.4.3.1 Dolly List](/10~AI/NLP/LLM/LLM-Model/LLaMA/Dolly-List.md)
-            - [6.12.5.4.3.2 LLaMA List](/10~AI/NLP/LLM/LLM-Model/LLaMA/LLaMA-List.md)
-            - [6.12.5.4.3.3 LLaMA OpenSource List](/10~AI/NLP/LLM/LLM-Model/LLaMA/LLaMA-OpenSource-List.md)
-          - 6.12.5.4.4 OpenAI [3]
-            - 6.12.5.4.4.1 GPT [2]
-              - [6.12.5.4.4.1.1 GPT List](/10~AI/NLP/LLM/LLM-Model/OpenAI/GPT/GPT-List.md)
-              - [6.12.5.4.4.1.2 OpenAI List](/10~AI/NLP/LLM/LLM-Model/OpenAI/GPT/OpenAI-List.md)
-            - [6.12.5.4.4.2 OpenAI List](/10~AI/NLP/LLM/LLM-Model/OpenAI/OpenAI-List.md)
-            - [6.12.5.4.4.3 OpenAI Site List](/10~AI/NLP/LLM/LLM-Model/OpenAI/OpenAI-Site-List.md)
-        - [6.12.5.5 LLM OpenSource List](/10~AI/NLP/LLM/LLM-OpenSource-List.md)
-        - 6.12.5.6 LLM Prompt [1]
-          - [6.12.5.6.1 Prompt List](/10~AI/NLP/LLM/LLM-Prompt/Prompt-List.md)
-      - [6.12.6 NLP List](/10~AI/NLP/NLP-List.md)
+    - 6.12 NLP [10]
+      - 6.12.1 High level Tasks [3]
+        - 6.12.1.1 DialogueSystem [3]
+          - [6.12.1.1.1 ASR List](/10~AI/NLP/High-level%20Tasks/DialogueSystem/ASR-List.md)
+          - [6.12.1.1.2 Chatbot List](/10~AI/NLP/High-level%20Tasks/DialogueSystem/Chatbot-List.md)
+          - [6.12.1.1.3 DialogueSystem List](/10~AI/NLP/High-level%20Tasks/DialogueSystem/DialogueSystem-List.md)
+        - 6.12.1.2 MachineTranslation [1]
+          - [6.12.1.2.1 MachineTranslation List](/10~AI/NLP/High-level%20Tasks/MachineTranslation/MachineTranslation-List.md)
+        - 6.12.1.3 Voice [1]
+          - [6.12.1.3.1 Voice List](/10~AI/NLP/High-level%20Tasks/Voice/Voice-List.md)
+      - 6.12.2 InformationExtraction [2]
+        - [6.12.2.1 InformationExtraction List](/10~AI/NLP/InformationExtraction/InformationExtraction-List.md)
+        - [6.12.2.2 InformationRetrieval List](/10~AI/NLP/InformationExtraction/InformationRetrieval-List.md)
+      - 6.12.3 KnowledgeGraph [1]
+        - [6.12.3.1 KnowledgeGraph List](/10~AI/NLP/KnowledgeGraph/KnowledgeGraph-List.md)
+      - 6.12.4 LLM [6]
+        - 6.12.4.1 99~参考资料 [1]
+          - [6.12.4.1.1 AI Canon](/10~AI/NLP/LLM/99~参考资料/2023-AI%20Canon.md)
+        - 6.12.4.2 LLM Application [5]
+          - 6.12.4.2.1 Agent [2]
+            - [6.12.4.2.1.1 LLM Agent List](/10~AI/NLP/LLM/LLM-Application/Agent/LLM-Agent-List.md)
+            - [6.12.4.2.1.2 LLM Agent OpenSource List](/10~AI/NLP/LLM/LLM-Application/Agent/LLM-Agent-OpenSource-List.md)
+          - 6.12.4.2.2 CustomData [1]
+            - [6.12.4.2.2.1 LLM CustomData OpenSource List](/10~AI/NLP/LLM/LLM-Application/CustomData/LLM-CustomData-OpenSource-List.md)
+          - [6.12.4.2.3 LLM Application OpenSource List](/10~AI/NLP/LLM/LLM-Application/LLM-Application-OpenSource-List.md)
+          - 6.12.4.2.4 LLM DevOps [1]
+            - [6.12.4.2.4.1 LLM DevOps OpenSource List](/10~AI/NLP/LLM/LLM-Application/LLM-DevOps/LLM-DevOps-OpenSource-List.md)
+          - 6.12.4.2.5 SDK [2]
+            - [6.12.4.2.5.1 LLM SDK OpenSource List](/10~AI/NLP/LLM/LLM-Application/SDK/LLM-SDK-OpenSource-List.md)
+            - [6.12.4.2.5.2 LangChain List](/10~AI/NLP/LLM/LLM-Application/SDK/LangChain-List.md)
+        - [6.12.4.3 LLM List](/10~AI/NLP/LLM/LLM-List.md)
+        - 6.12.4.4 LLM Model [4]
+          - 6.12.4.4.1 CodeGeneration [1]
+            - [6.12.4.4.1.1 CodeGeneration OpenSource List](/10~AI/NLP/LLM/LLM-Model/CodeGeneration/CodeGeneration-OpenSource-List.md)
+          - [6.12.4.4.2 LLM Model List](/10~AI/NLP/LLM/LLM-Model/LLM-Model-List.md)
+          - 6.12.4.4.3 LLaMA [3]
+            - [6.12.4.4.3.1 Dolly List](/10~AI/NLP/LLM/LLM-Model/LLaMA/Dolly-List.md)
+            - [6.12.4.4.3.2 LLaMA List](/10~AI/NLP/LLM/LLM-Model/LLaMA/LLaMA-List.md)
+            - [6.12.4.4.3.3 LLaMA OpenSource List](/10~AI/NLP/LLM/LLM-Model/LLaMA/LLaMA-OpenSource-List.md)
+          - 6.12.4.4.4 OpenAI [3]
+            - 6.12.4.4.4.1 GPT [2]
+              - [6.12.4.4.4.1.1 GPT List](/10~AI/NLP/LLM/LLM-Model/OpenAI/GPT/GPT-List.md)
+              - [6.12.4.4.4.1.2 OpenAI List](/10~AI/NLP/LLM/LLM-Model/OpenAI/GPT/OpenAI-List.md)
+            - [6.12.4.4.4.2 OpenAI List](/10~AI/NLP/LLM/LLM-Model/OpenAI/OpenAI-List.md)
+            - [6.12.4.4.4.3 OpenAI Site List](/10~AI/NLP/LLM/LLM-Model/OpenAI/OpenAI-Site-List.md)
+        - [6.12.4.5 LLM OpenSource List](/10~AI/NLP/LLM/LLM-OpenSource-List.md)
+        - 6.12.4.6 LLM Prompt [1]
+          - [6.12.4.6.1 Prompt List](/10~AI/NLP/LLM/LLM-Prompt/Prompt-List.md)
+      - [6.12.5 NLP List](/10~AI/NLP/NLP-List.md)
+      - 6.12.6 NLP NN [2]
+        - 6.12.6.1 DNN [2]
+          - [6.12.6.1.1 GAN List](/10~AI/NLP/NLP-NN/DNN/GAN-List.md)
+          - [6.12.6.1.2 LSTM List](/10~AI/NLP/NLP-NN/DNN/LSTM-List.md)
+        - 6.12.6.2 RNN [1]
+          - [6.12.6.2.1 RecurrentNeuralNetwork List](/10~AI/NLP/NLP-NN/RNN/RecurrentNeuralNetwork-List.md)
       - [6.12.7 NLP OpenSource List](/10~AI/NLP/NLP-OpenSource-List.md)
-      - 6.12.8 RNN [1]
-        - [6.12.8.1 RecurrentNeuralNetwork List](/10~AI/NLP/RNN/RecurrentNeuralNetwork-List.md)
-      - 6.12.9 Speech [1]
-        - [6.12.9.1 NLP Speech OpenSource List](/10~AI/NLP/Speech/NLP-Speech-OpenSource-List.md)
-      - 6.12.10 SyntaxSemanticAnalysis [2]
-        - 6.12.10.1 SentenceAnalysis [3]
-          - [6.12.10.1.1 Representation List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/Representation-List.md)
-          - [6.12.10.1.2 StatisticalLanguageModel List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/StatisticalLanguageModel-List.md)
-          - [6.12.10.1.3 TopicModel List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/TopicModel-List.md)
-        - [6.12.10.2 SyntaxSemanticAnalysis List](/10~AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
-      - 6.12.11 Transformer [2]
-        - [6.12.11.1 Transformer List](/10~AI/NLP/Transformer/Transformer-List.md)
-        - [6.12.11.2 Transformer OpenSource List](/10~AI/NLP/Transformer/Transformer-OpenSource-List.md)
+      - 6.12.8 Speech [1]
+        - [6.12.8.1 NLP Speech OpenSource List](/10~AI/NLP/Speech/NLP-Speech-OpenSource-List.md)
+      - 6.12.9 SyntaxSemanticAnalysis [2]
+        - 6.12.9.1 SentenceAnalysis [3]
+          - [6.12.9.1.1 Representation List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/Representation-List.md)
+          - [6.12.9.1.2 StatisticalLanguageModel List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/StatisticalLanguageModel-List.md)
+          - [6.12.9.1.3 TopicModel List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/TopicModel-List.md)
+        - [6.12.9.2 SyntaxSemanticAnalysis List](/10~AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
+      - 6.12.10 Transformer [2]
+        - [6.12.10.1 Transformer List](/10~AI/NLP/Transformer/Transformer-List.md)
+        - [6.12.10.2 Transformer OpenSource List](/10~AI/NLP/Transformer/Transformer-OpenSource-List.md)
     - 6.13 Toolkits [6]
       - [6.13.1 AI Toolkit List](/10~AI/Toolkits/AI-Toolkit-List.md)
       - 6.13.2 CUDA [1]

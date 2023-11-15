@@ -8,7 +8,7 @@
 
 - [2019~Financial-Models-Numerical-Methods #Series#](https://github.com/cantaro86/Financial-Models-Numerical-Methods): Collection of notebooks about quantitative finance, with interactive python code.
 
-# Book
+# Books
 
 - [2020~《Quant Learning》📚](https://github.com/apachecn/quant-learning): Python 量化交易教程整理
 

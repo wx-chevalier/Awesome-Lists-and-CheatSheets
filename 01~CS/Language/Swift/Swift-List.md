@@ -25,6 +25,6 @@
 
 - [腾讯 Bugly 干货分享：浅谈 Swift 在实际项目中的应用][2]
 
-# Book & Resources
+# Books & Resources
 
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift?utm_source=tuicool&utm_medium=referral)
