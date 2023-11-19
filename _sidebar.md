@@ -20,7 +20,7 @@
         - [1.3.6.1 Awesome DataVis](/00~Specials/Showcases/DataVision/Awesome-DataVis.md)
         - [1.3.6.2 Flower](/00~Specials/Showcases/DataVision/Flower.md)
         - [1.3.6.3 Hack Effect](/00~Specials/Showcases/DataVision/Hack%20Effect.md)
-    - [1.4 Tools & Projects [33]](/00~Specials/Tools%20&%20Projects/README.md)
+    - [1.4 Tools & Projects [34]](/00~Specials/Tools%20&%20Projects/README.md)
       - [1.4.1 Automation](/00~Specials/Tools%20&%20Projects/Automation.md)
       - [1.4.2 Awesome Media Tools](/00~Specials/Tools%20&%20Projects/Awesome-Media-Tools.md)
       - [1.4.3 Awesome Tools](/00~Specials/Tools%20&%20Projects/Awesome-Tools.md)
@@ -68,16 +68,17 @@
         - [1.4.21.5 Terminal](/00~Specials/Tools%20&%20Projects/OS/Terminal.md)
       - 1.4.22 OSS Alternatives [1]
         - [1.4.22.1 Open source alternatives to everyday SaaS products](/00~Specials/Tools%20&%20Projects/OSS%20Alternatives/Open-source%20alternatives%20to%20everyday%20SaaS%20products.md)
-      - [1.4.23 Person](/00~Specials/Tools%20&%20Projects/Person.md)
-      - [1.4.24 Productivity](/00~Specials/Tools%20&%20Projects/Productivity.md)
-      - [1.4.25 Sandbox](/00~Specials/Tools%20&%20Projects/Sandbox.md)
-      - [1.4.26 ScreenShare & VNC](/00~Specials/Tools%20&%20Projects/ScreenShare%20&%20VNC.md)
-      - [1.4.27 Startup](/00~Specials/Tools%20&%20Projects/Startup.md)
-      - [1.4.28 Teamwork](/00~Specials/Tools%20&%20Projects/Teamwork.md)
-      - [1.4.29 Translate Tools](/00~Specials/Tools%20&%20Projects/Translate%20Tools.md)
-      - [1.4.30 UGC](/00~Specials/Tools%20&%20Projects/UGC.md)
-      - [1.4.31 Website Builder](/00~Specials/Tools%20&%20Projects/Website%20Builder.md)
-      - [1.4.32 消息推送](/00~Specials/Tools%20&%20Projects/消息推送.md)
+      - [1.4.23 Online IT Tools](/00~Specials/Tools%20&%20Projects/Online%20IT%20Tools.md)
+      - [1.4.24 Person](/00~Specials/Tools%20&%20Projects/Person.md)
+      - [1.4.25 Productivity](/00~Specials/Tools%20&%20Projects/Productivity.md)
+      - [1.4.26 Sandbox](/00~Specials/Tools%20&%20Projects/Sandbox.md)
+      - [1.4.27 ScreenShare & VNC](/00~Specials/Tools%20&%20Projects/ScreenShare%20&%20VNC.md)
+      - [1.4.28 Startup](/00~Specials/Tools%20&%20Projects/Startup.md)
+      - [1.4.29 Teamwork](/00~Specials/Tools%20&%20Projects/Teamwork.md)
+      - [1.4.30 Translate Tools](/00~Specials/Tools%20&%20Projects/Translate%20Tools.md)
+      - [1.4.31 UGC](/00~Specials/Tools%20&%20Projects/UGC.md)
+      - [1.4.32 Website Builder](/00~Specials/Tools%20&%20Projects/Website%20Builder.md)
+      - [1.4.33 消息推送](/00~Specials/Tools%20&%20Projects/消息推送.md)
     - [1.5 Weekly [8]](/00~Specials/Weekly/README.md)
       - 1.5.1  [1]
         - 1.5.1.1  [2]
@@ -513,9 +514,10 @@
         - [3.1.5.2 HTML List](/02~Frontend/01~Web/Syntax/HTML-List.md)
         - [3.1.5.3 Web Animation List](/02~Frontend/01~Web/Syntax/Web-Animation-List.md)
         - [3.1.5.4 Web Syntax List](/02~Frontend/01~Web/Syntax/Web-Syntax-List.md)
-        - 3.1.5.5 WebAssembly [2]
+        - 3.1.5.5 WebAssembly [3]
           - [3.1.5.5.1 WebAssembly List](/02~Frontend/01~Web/Syntax/WebAssembly/WebAssembly-List.md)
           - [3.1.5.5.2 WebAssembly OpenSource List](/02~Frontend/01~Web/Syntax/WebAssembly/WebAssembly-OpenSource-List.md)
+          - [3.1.5.5.3 WebAssembly Rust List](/02~Frontend/01~Web/Syntax/WebAssembly/WebAssembly-Rust-List.md)
       - 3.1.6 Tuning [8]
         - [3.1.6.1 VirtualDOM List](/02~Frontend/01~Web/Tuning/VirtualDOM-List.md)
         - [3.1.6.2 Web APM List](/02~Frontend/01~Web/Tuning/Web-APM-List.md)

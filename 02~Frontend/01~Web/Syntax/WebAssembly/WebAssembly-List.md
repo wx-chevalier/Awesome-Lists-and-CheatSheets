@@ -48,13 +48,7 @@
 
 - [2018~Writing WebAssembly By Hand](http://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html): However, it is actually possible to write WebAssembly directly by hand.
 
-## Rust
-
-- [2018~Our Vision for Rust and WebAssembly](https://rustwasm.github.io/2018/06/25/vision-for-rust-and-wasm.html): In a series of follow up posts, we will talk about the next steps for each major component of the Rust and WebAssembly ecosystem.
-
-- [Rust 🦀 and WebAssembly 🕸 #Series#](https://rustwasm.github.io/book/introduction.html): This small book describes how to use Rust and WebAssembly together.
-
-- [2021~Rust meets the web - a clash of programming paradigms](https://www.jakobmeier.ch/blogging/Rust_on_the_Web.html): Most code running on the web is event-based, garbage-collected, and dynamically typed. In stark contrast, Rust is a compiled language with static type- and memory-safety without a garbage-collector. What are the implications for a project that compiles Rust to WebAssembly? I try to answer this question with a fictive story and hands-on code examples.
+- [Wasm By Example #Tutorial#](https://wasmbyexample.dev/home.en-us.html): Wasm By Example is a concise, hands-on introduction to WebAssembly using code snippets and annotated WebAssembly example programs. Learn more about Wasm at the WebAssembly Introduction or browse the list of examples below.
 
 ## Go
 
