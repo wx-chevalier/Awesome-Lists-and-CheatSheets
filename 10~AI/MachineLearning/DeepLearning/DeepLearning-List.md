@@ -46,7 +46,11 @@
 
 # Resources
 
-## Collection
+## Books
+
+- [2023~《Understanding Deep Learning》 #Book#](https://udlbook.github.io/udlbook/):
+
+## Collections
 
 - [Deep Learning for Noobs [Part 1]](https://hackernoon.com/supervised-deep-learning-in-image-classification-for-noobs-part-1-9f831b6d430d#.byiv0mk3u)
 

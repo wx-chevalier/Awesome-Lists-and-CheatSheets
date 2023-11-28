@@ -1012,8 +1012,9 @@
         - 5.5.2.2 DistributedFS [2]
           - [5.5.2.2.1 DistributedFS List](/04~Infrastructure/DistributedSystem/02.DistributedStorage/DistributedFS/DistributedFS-List.md)
           - [5.5.2.2.2 HDFS List](/04~Infrastructure/DistributedSystem/02.DistributedStorage/DistributedFS/HDFS-List.md)
-        - 5.5.2.3 DistributedID [1]
+        - 5.5.2.3 DistributedID [2]
           - [5.5.2.3.1 DistributedID List](/04~Infrastructure/DistributedSystem/02.DistributedStorage/DistributedID/DistributedID-List.md)
+          - [5.5.2.3.2 DistributedID OpenSource List](/04~Infrastructure/DistributedSystem/02.DistributedStorage/DistributedID/DistributedID-OpenSource-List.md)
         - [5.5.2.4 DistributedStorage List](/04~Infrastructure/DistributedSystem/02.DistributedStorage/DistributedStorage-List.md)
         - [5.5.2.5 DistributedStorage OpenSource List](/04~Infrastructure/DistributedSystem/02.DistributedStorage/DistributedStorage-OpenSource-List.md)
         - 5.5.2.6 ObjectStorage [3]
@@ -1316,19 +1317,20 @@
         - 8.4.3.1 99~参考资料 [1]
           - [8.4.3.1.1 技术管理资料索引](/30~Business/Management/TechMgt/99~参考资料/技术管理资料索引.md)
         - [8.4.3.2 TechMgt List](/30~Business/Management/TechMgt/TechMgt-List.md)
-  - 9 40~Hardware [3]
+  - 9 40~Hardware [4]
     - [9.1 CNC List](/40~Hardware/CNC-List.md)
-    - 9.2 Electronic [4]
-      - 9.2.1 Chip [2]
-        - [9.2.1.1 Chip List](/40~Hardware/Electronic/Chip/Chip-List.md)
-        - [9.2.1.2 PCB List](/40~Hardware/Electronic/Chip/PCB-List.md)
-      - 9.2.2 GPU [1]
-        - [9.2.2.1 GPU List](/40~Hardware/Electronic/GPU/GPU-List.md)
-      - 9.2.3 MCU [1]
-        - [9.2.3.1 MCU List](/40~Hardware/Electronic/MCU/MCU-List.md)
-      - 9.2.4 SBC [1]
-        - [9.2.4.1 SBC List](/40~Hardware/Electronic/SBC/SBC-List.md)
-    - 9.3 QuantumComputing [1]
-      - [9.3.1 QuantumComputing List](/40~Hardware/QuantumComputing/QuantumComputing-List.md)
+    - [9.2 Camera List](/40~Hardware/Camera-List.md)
+    - 9.3 Electronic [4]
+      - 9.3.1 Chip [2]
+        - [9.3.1.1 Chip List](/40~Hardware/Electronic/Chip/Chip-List.md)
+        - [9.3.1.2 PCB List](/40~Hardware/Electronic/Chip/PCB-List.md)
+      - 9.3.2 GPU [1]
+        - [9.3.2.1 GPU List](/40~Hardware/Electronic/GPU/GPU-List.md)
+      - 9.3.3 MCU [1]
+        - [9.3.3.1 MCU List](/40~Hardware/Electronic/MCU/MCU-List.md)
+      - 9.3.4 SBC [1]
+        - [9.3.4.1 SBC List](/40~Hardware/Electronic/SBC/SBC-List.md)
+    - 9.4 QuantumComputing [1]
+      - [9.4.1 QuantumComputing List](/40~Hardware/QuantumComputing/QuantumComputing-List.md)
   - [10 INTRODUCTION](/INTRODUCTION.md)
   - [11 README en](/README-en.md)

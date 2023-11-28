@@ -32,6 +32,8 @@
 
 - [2023~Next.js Email Client ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/leerob/nextjs-postgres-email-client)](https://github.com/leerob/nextjs-postgres-email-client): This is a simple email client built with Next.js and Postgres. It's built to show off some of the features of the App Router, which enable you to build products.
 
+- [2023~digitalhippo ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/joschan21/digitalhippo)](https://github.com/joschan21/digitalhippo): A Modern Fullstack E-Commerce Marketplace for Digital Products.
+
 ## Library
 
 - [2023~Platforms Starter Kit ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/vercel/platforms)](https://github.com/vercel/platforms): A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.

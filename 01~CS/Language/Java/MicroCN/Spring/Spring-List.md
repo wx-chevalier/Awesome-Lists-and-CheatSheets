@@ -6,6 +6,8 @@
 
 - [《Spring 实战》-5th](https://github.com/PotoYang/spring-in-action-v5-translate): Spring 生态系统中的每个 Spring 版本、Spring Boot 和所有其他项目都释放了一些新的惊人功能，重新点燃了开发应用程序的乐趣。随着 Spring 5.0 发行版和 Spring Boot 2.0 发行版的出现，Spring 到达了一个具有里程碑意义的节点，可以享受的 Spring 越来越多，因此编写另一版 《Spring 实战》是不需要动脑筋的事情。
 
+- [2023~《深入 Spring，从源码开始！》 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/xuchengsheng/spring-reading)](https://github.com/xuchengsheng/spring-reading): 涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。
+
 ## Series
 
 - [2018~yinjihuan/Spring Cloud #Series#](https://github.com/yinjihuan/spring-cloud): 《Spring Cloud 微服务-全栈技术与案例解析》和《Spring Cloud 微服务 入门 实战与进阶》配套源码。
