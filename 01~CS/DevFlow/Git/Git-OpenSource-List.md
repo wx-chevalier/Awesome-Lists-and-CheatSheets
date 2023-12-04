@@ -42,6 +42,8 @@
 
 - [2022~git-sim ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/initialcommit-com/git-sim)](https://github.com/initialcommit-com/git-sim): Visually simulate Git operations in your own repos with a single terminal command.
 
+- [2023~AmrDeveloper/GQL ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/AmrDeveloper/GQL)](https://github.com/AmrDeveloper/GQL): Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
+
 # Github
 
 - [强力推荐！那些你不能错过的 GitHub 插件和工具](https://juejin.im/post/59ade28051882538fd72fa2c)

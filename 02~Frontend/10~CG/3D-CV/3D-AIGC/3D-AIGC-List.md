@@ -42,6 +42,8 @@
 
 - [2023~DreamCraft3D ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/deepseek-ai/DreamCraft3D)](https://github.com/deepseek-ai/DreamCraft3D): Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior
 
+- [2023~One-2-3-45 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/One-2-3-45/One-2-3-45)](https://github.com/One-2-3-45/One-2-3-45): One-2-3-45 rethinks how to leverage 2D diffusion models for 3D AIGC and introduces a novel forward-only paradigm that avoids time-consuming optimization.
+
 ## Human Head Reconstruction
 
 - [SizheAn/PanoHead ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/SizheAn/PanoHead)](https://github.com/SizheAn/PanoHead): Code Repository for CVPR 2023 Paper "PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 degree"

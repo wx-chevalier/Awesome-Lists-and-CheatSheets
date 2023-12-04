@@ -9,3 +9,5 @@
 - [ezy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/getezy/ezy): Fully-featured desktop gRPC/gRPC-Web client.
 
 - [2021~protoCURL ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/qaware/protocurl)](https://github.com/qaware/protocurl): protoCURL is cURL for Protobuf: The command-line tool for interacting with Protobuf over HTTP REST endpoints using human-readable text formats
+
+- [2023~gRPC-Gateway ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/grpc-ecosystem/grpc-gateway)](https://github.com/grpc-ecosystem/grpc-gateway): The gRPC-Gateway is a plugin of the Google protocol buffers compiler protoc. It reads protobuf service definitions and generates a reverse-proxy server which translates a RESTful HTTP API into gRPC. This server is generated according to the google.api.http annotations in your service definitions.
