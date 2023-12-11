@@ -46,6 +46,8 @@
 
   - [2023~ChaoningZhang/MobileSAM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ChaoningZhang/MobileSAM)](https://github.com/ChaoningZhang/MobileSAM): 📌 MobileSAM paper is available at ResearchGate and arXiv. The latest version will first appear on ResearchGate, since it takes time for arXiv to update the content.
 
+  - [2023~yformer/EfficientSAM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/yformer/EfficientSAM)](https://github.com/yformer/EfficientSAM): Leveraged Masked Image Pretraining for Efficient Segment Anything Resources.
+
 - [2023~Painter ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/baaivision/Painter)](https://github.com/baaivision/Painter): Painter & SegGPT Series: Vision Foundation Models from BAAI
 
 - [2023~Inpaint-Anything ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/geekyutao/Inpaint-Anything)](https://github.com/geekyutao/Inpaint-Anything): Users can select any object in an image by clicking on it. With powerful vision models, e.g., SAM, LaMa and Stable Diffusion (SD), Inpaint Anything is able to remove the object smoothly (i.e., Remove Anything). Further, prompted by user input text, Inpaint Anything can fill the object with any desired content (i.e., Fill Anything) or replace the background of it arbitrarily (i.e., Replace Anything).

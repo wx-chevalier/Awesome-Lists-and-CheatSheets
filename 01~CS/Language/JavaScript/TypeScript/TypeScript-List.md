@@ -24,7 +24,9 @@
 
 - [Awesome TypeScript 🗃️](https://github.com/dzharii/awesome-typescript): A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the awesome lists.
 
-- [Design Patterns in TypeScript ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/Ui8): Here are the implementations of the following design patterns in TypeScript.
+- [Design Patterns in TypeScript 🗃️ ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/Ui8): Here are the implementations of the following design patterns in TypeScript.
+
+- [The TypeHero 🗃️](https://typehero.dev/): Connect, collaborate, and grow with a community of TypeScript developers. Elevate your skills through interactive coding challenges, discussions, and knowledge sharing.
 
 ## Series
 

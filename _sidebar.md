@@ -33,8 +33,9 @@
       - 1.4.9 DevOps [2]
         - [1.4.9.1 API Hub](/00~Specials/Tools%20&%20Projects/DevOps/API%20Hub.md)
         - [1.4.9.2 API Tools](/00~Specials/Tools%20&%20Projects/DevOps/API%20Tools.md)
-      - 1.4.10 Diagram [1]
-        - [1.4.10.1 Plot Tools](/00~Specials/Tools%20&%20Projects/Diagram/Plot-Tools.md)
+      - 1.4.10 Diagram [2]
+        - [1.4.10.1 Diagram Tools](/00~Specials/Tools%20&%20Projects/Diagram/Diagram-Tools.md)
+        - [1.4.10.2 Plot Tools](/00~Specials/Tools%20&%20Projects/Diagram/Plot-Tools.md)
       - [1.4.11 ECommerce & Marketing](/00~Specials/Tools%20&%20Projects/ECommerce%20&%20Marketing.md)
       - [1.4.12 Encrypt](/00~Specials/Tools%20&%20Projects/Encrypt.md)
       - 1.4.13 File & Document [10]
