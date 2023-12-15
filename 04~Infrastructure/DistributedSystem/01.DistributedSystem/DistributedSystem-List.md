@@ -57,7 +57,11 @@
 
 - [2023~Maelstrom ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jepsen-io/maelstrom)](https://github.com/jepsen-io/maelstrom): Maelstrom is a workbench for learning distributed systems by writing your own. It uses the Jepsen testing library to test toy implementations of distributed systems. Maelstrom provides standardized tests for things like "a commutative set" or "a transactional key-value store", and lets you learn by writing implementations which those test suites can exercise. It's used as a part of a distributed systems workshop by Jepsen.
 
-## Paper
+## Challenges
+
+- [2023~Advent of Distributed Systems](https://aods.cryingpotato.com/): We’ve created a Maelstrom Go library which provides maelstrom.Node that handles all this boilerplate for you. It lets you register handler functions for each message type—similar to how http.Handler works in the standard library.
+
+## Papers
 
 - Fallacies of Distributed Computing
 
