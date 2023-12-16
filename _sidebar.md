@@ -466,8 +466,10 @@
         - [3.1.2.3 Browser OpenSource List](/02~Frontend/01~Web/Browser/Browser-OpenSource-List.md)
         - [3.1.2.4 Chrome Extension List](/02~Frontend/01~Web/Browser/Chrome-Extension-List.md)
       - 3.1.3 Dev [6]
-        - [3.1.3.1 Web Builder List](/02~Frontend/01~Web/Dev/Web-Builder-List.md)
-        - [3.1.3.2 Web Debug List](/02~Frontend/01~Web/Dev/Web-Debug-List.md)
+        - 3.1.3.1 Debug [2]
+          - [3.1.3.1.1 Web Debug List](/02~Frontend/01~Web/Dev/Debug/Web-Debug-List.md)
+          - [3.1.3.1.2 Web Debug OpenSource List](/02~Frontend/01~Web/Dev/Debug/Web-Debug-OpenSource-List.md)
+        - [3.1.3.2 Web Builder List](/02~Frontend/01~Web/Dev/Web-Builder-List.md)
         - [3.1.3.3 Web Dev List](/02~Frontend/01~Web/Dev/Web-Dev-List.md)
         - [3.1.3.4 Web E2ETest List](/02~Frontend/01~Web/Dev/Web-E2ETest-List.md)
         - [3.1.3.5 Web Test List](/02~Frontend/01~Web/Dev/Web-Test-List.md)
