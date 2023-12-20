@@ -8,6 +8,8 @@
 
 - [mojs ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mojs/mojs): The motion graphics toolbelt for the web
 
+- [2023~Swup ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/swup/swup)](https://github.com/swup/swup): Swup adds page transitions to server-rendered websites. It manages the complete page load lifecycle and smoothly animates between the current and next page. In addition, it offers many other quality-of-life improvements like caching, smart preloading, native browser history and enhanced accessibility.
+
 # Animation Effect
 
 - [Woah.css ![code](https://ng-tech.icu/assets/code.svg)](http://www.joerezendes.com/projects/Woah.css/): Animations for eccentric developers.
