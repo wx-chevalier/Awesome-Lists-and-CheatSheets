@@ -52,9 +52,10 @@
       - [1.4.14 File](/00~Specials/Tools%20&%20Projects/File.md)
       - 1.4.15 Financial [1]
         - [1.4.15.1 Financial Tools](/00~Specials/Tools%20&%20Projects/Financial/Financial-Tools.md)
-      - 1.4.16 Marketing [2]
+      - 1.4.16 Marketing [3]
         - [1.4.16.1 EmailAutomation Tools List](/00~Specials/Tools%20&%20Projects/Marketing/EmailAutomation-Tools-List.md)
         - [1.4.16.2 Survey Tools](/00~Specials/Tools%20&%20Projects/Marketing/Survey-Tools.md)
+        - [1.4.16.3 数据抓取](/00~Specials/Tools%20&%20Projects/Marketing/数据抓取.md)
       - 1.4.17 Media [3]
         - [1.4.17.1 AI Image Tools](/00~Specials/Tools%20&%20Projects/Media/AI%20Image%20Tools.md)
         - [1.4.17.2 Image Cloud Store](/00~Specials/Tools%20&%20Projects/Media/Image%20Cloud%20Store.md)
@@ -904,36 +905,38 @@
           - [5.2.5.2.1 OpenStack List](/04~Infrastructure/Cloud/VM/OpenStack/OpenStack-List.md)
         - 5.2.5.3 Xen [1]
           - [5.2.5.3.1 Xen List](/04~Infrastructure/Cloud/VM/Xen/Xen-List.md)
-    - 5.3 DataEngineering [7]
-      - 5.3.1 DataAggregation [4]
-        - [5.3.1.1 DataAggregation OpenSource List](/04~Infrastructure/DataEngineering/DataAggregation/DataAggregation-OpenSource-List.md)
-        - [5.3.1.2 DataPipeline List](/04~Infrastructure/DataEngineering/DataAggregation/DataPipeline-List.md)
-        - [5.3.1.3 ETL List](/04~Infrastructure/DataEngineering/DataAggregation/ETL-List.md)
-        - 5.3.1.4 Kettle [1]
-          - [5.3.1.4.1 Kettle List](/04~Infrastructure/DataEngineering/DataAggregation/Kettle/Kettle-List.md)
-      - [5.3.2 DataEngineering List](/04~Infrastructure/DataEngineering/DataEngineering-List.md)
-      - [5.3.3 DataEngineering OpenSource List](/04~Infrastructure/DataEngineering/DataEngineering-OpenSource-List.md)
-      - 5.3.4 DataLake [2]
-        - [5.3.4.1 DataLake List](/04~Infrastructure/DataEngineering/DataLake/DataLake-List.md)
-        - 5.3.4.2 Iceberg [1]
-          - [5.3.4.2.1 Iceberg List](/04~Infrastructure/DataEngineering/DataLake/Iceberg/Iceberg-List.md)
-      - 5.3.5 DataVis [3]
-        - [5.3.5.1 Cube List](/04~Infrastructure/DataEngineering/DataVis/Cube-List.md)
-        - [5.3.5.2 DataVis List](/04~Infrastructure/DataEngineering/DataVis/DataVis-List.md)
-        - [5.3.5.3 DataVis OpenSource List](/04~Infrastructure/DataEngineering/DataVis/DataVis-OpenSource-List.md)
-      - 5.3.6 DataWarehouse [1]
-        - [5.3.6.1 Datawarehouse List](/04~Infrastructure/DataEngineering/DataWarehouse/Datawarehouse-List.md)
-      - 5.3.7 OLAP [6]
-        - 5.3.7.1 ClickHouse [1]
-          - [5.3.7.1.1 ClickHouse List](/04~Infrastructure/DataEngineering/OLAP/ClickHouse/ClickHouse-List.md)
-        - 5.3.7.2 Greenplum [1]
-          - [5.3.7.2.1 Greenplum List](/04~Infrastructure/DataEngineering/OLAP/Greenplum/Greenplum-List.md)
-        - 5.3.7.3 Hive [1]
-          - [5.3.7.3.1 Hive List](/04~Infrastructure/DataEngineering/OLAP/Hive/Hive-List.md)
-        - [5.3.7.4 OLAP List](/04~Infrastructure/DataEngineering/OLAP/OLAP-List.md)
-        - [5.3.7.5 OLAP OpenSource List](/04~Infrastructure/DataEngineering/OLAP/OLAP-OpenSource-List.md)
-        - 5.3.7.6 Presto [1]
-          - [5.3.7.6.1 Presto List](/04~Infrastructure/DataEngineering/OLAP/Presto/Presto-List.md)
+    - 5.3 DataEngineering [8]
+      - 5.3.1 99~参考资料 [1]
+        - [5.3.1.1 2023~The Data Engineering Handbook](/04~Infrastructure/DataEngineering/99~参考资料/2023~The%20Data%20Engineering%20Handbook.md)
+      - 5.3.2 DataAggregation [4]
+        - [5.3.2.1 DataAggregation OpenSource List](/04~Infrastructure/DataEngineering/DataAggregation/DataAggregation-OpenSource-List.md)
+        - [5.3.2.2 DataPipeline List](/04~Infrastructure/DataEngineering/DataAggregation/DataPipeline-List.md)
+        - [5.3.2.3 ETL List](/04~Infrastructure/DataEngineering/DataAggregation/ETL-List.md)
+        - 5.3.2.4 Kettle [1]
+          - [5.3.2.4.1 Kettle List](/04~Infrastructure/DataEngineering/DataAggregation/Kettle/Kettle-List.md)
+      - [5.3.3 DataEngineering List](/04~Infrastructure/DataEngineering/DataEngineering-List.md)
+      - [5.3.4 DataEngineering OpenSource List](/04~Infrastructure/DataEngineering/DataEngineering-OpenSource-List.md)
+      - 5.3.5 DataLake [2]
+        - [5.3.5.1 DataLake List](/04~Infrastructure/DataEngineering/DataLake/DataLake-List.md)
+        - 5.3.5.2 Iceberg [1]
+          - [5.3.5.2.1 Iceberg List](/04~Infrastructure/DataEngineering/DataLake/Iceberg/Iceberg-List.md)
+      - 5.3.6 DataVis [3]
+        - [5.3.6.1 Cube List](/04~Infrastructure/DataEngineering/DataVis/Cube-List.md)
+        - [5.3.6.2 DataVis List](/04~Infrastructure/DataEngineering/DataVis/DataVis-List.md)
+        - [5.3.6.3 DataVis OpenSource List](/04~Infrastructure/DataEngineering/DataVis/DataVis-OpenSource-List.md)
+      - 5.3.7 DataWarehouse [1]
+        - [5.3.7.1 Datawarehouse List](/04~Infrastructure/DataEngineering/DataWarehouse/Datawarehouse-List.md)
+      - 5.3.8 OLAP [6]
+        - 5.3.8.1 ClickHouse [1]
+          - [5.3.8.1.1 ClickHouse List](/04~Infrastructure/DataEngineering/OLAP/ClickHouse/ClickHouse-List.md)
+        - 5.3.8.2 Greenplum [1]
+          - [5.3.8.2.1 Greenplum List](/04~Infrastructure/DataEngineering/OLAP/Greenplum/Greenplum-List.md)
+        - 5.3.8.3 Hive [1]
+          - [5.3.8.3.1 Hive List](/04~Infrastructure/DataEngineering/OLAP/Hive/Hive-List.md)
+        - [5.3.8.4 OLAP List](/04~Infrastructure/DataEngineering/OLAP/OLAP-List.md)
+        - [5.3.8.5 OLAP OpenSource List](/04~Infrastructure/DataEngineering/OLAP/OLAP-OpenSource-List.md)
+        - 5.3.8.6 Presto [1]
+          - [5.3.8.6.1 Presto List](/04~Infrastructure/DataEngineering/OLAP/Presto/Presto-List.md)
     - 5.4 Database [12]
       - [5.4.1 DBA Tools](/04~Infrastructure/Database/DBA-Tools.md)
       - [5.4.2 Database DIY List](/04~Infrastructure/Database/Database-DIY-List.md)

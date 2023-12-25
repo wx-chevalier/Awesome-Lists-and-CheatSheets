@@ -32,6 +32,8 @@
 
 - [croc ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/schollz/croc): Easily and securely send things from one computer to another 🐊 📦
 
+- [2023~termdbms ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mathaou/termdbms)](https://github.com/mathaou/termdbms): A TUI for viewing and editing databases, written in pure Go
+
 ## Storage
 
 - [minikeyvalue ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/geohot/minikeyvalue): A distributed key value store in under 1000 lines. Used in production at comma.ai
