@@ -25,3 +25,5 @@
 - [2022~Gluon ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gluon-framework/gluon)](https://github.com/gluon-framework/gluon): A framework for creating "desktop apps" from websites, using system installed browsers (not webviews) and NodeJS
 
 - [2023~Slint ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/slint-ui/slint)](https://github.com/slint-ui/slint): Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
+
+- [2023~WebUI ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/webui-dev/webui)](https://github.com/webui-dev/webui): WebUI is not a web-server solution or a framework, but it allows you to use any web browser as a GUI, with your preferred language in the backend and HTML5 in the frontend. All in a lightweight portable lib.

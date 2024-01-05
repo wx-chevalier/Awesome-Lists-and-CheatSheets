@@ -18,6 +18,8 @@
 
 ## Books
 
+- [2013~《Learn C the Hard Way》📚](https://learncodethehardway.org/c/): Learn C The Hard Way (LCTHW) is a practical book teaching real world useful C using the same proven Learn The Hard Way method. LCTHW teaches real robust C coding and defensive programming tactics on real hardware rather than abstract machines and pedantic theory. The book emphasizes breaking your code on purpose, and in the process teaches a plethora of important topics like data structures, algorithms, and automated testing. If you've wanted to become a better programmer then you need this book.
+
 - [2022~《C 程序设计》📚](https://www.yuque.com/qyuhen/c11)
 
 - [2023~《Beej's Guide to C Programming》📚](https://beej.us/guide/bgc/html/split/index.html): In the old days, C was a simpler language. A good number of the features contained in this book and a lot of the features in the Library Reference volume didn’t exist when K&R wrote the famous second edition of their book in 1988. Nevertheless, the language remains small at its core, and I hope I’ve presented it here in a way that starts with that simple core and builds outward.

@@ -25,8 +25,9 @@
       - [1.4.2 Awesome Media Tools](/00~Specials/Tools%20&%20Projects/Awesome-Media-Tools.md)
       - [1.4.3 Awesome Tools](/00~Specials/Tools%20&%20Projects/Awesome-Tools.md)
       - [1.4.4 Chat](/00~Specials/Tools%20&%20Projects/Chat.md)
-      - [1.4.5 Design [1]](/00~Specials/Tools%20&%20Projects/Design)
+      - [1.4.5 Design [2]](/00~Specials/Tools%20&%20Projects/Design)
         - [1.4.5.1 Resume List](/00~Specials/Tools%20&%20Projects/Design/Resume-List.md)
+        - [1.4.5.2 个人网站](/00~Specials/Tools%20&%20Projects/Design/个人网站.md)
       - [1.4.6 Dev IDE](/00~Specials/Tools%20&%20Projects/Dev-IDE.md)
       - [1.4.7 Dev Ops](/00~Specials/Tools%20&%20Projects/Dev-Ops.md)
       - [1.4.8 Dev PaaS](/00~Specials/Tools%20&%20Projects/Dev-PaaS.md)
@@ -487,8 +488,9 @@
           - [3.1.4.3.1 MobX List](/02~Frontend/01~Web/Framework/MobX/MobX-List.md)
           - [3.1.4.3.2 MobX OpenSource List](/02~Frontend/01~Web/Framework/MobX/MobX-OpenSource-List.md)
         - 3.1.4.4 React [7]
-          - 3.1.4.4.1 Next.js [1]
-            - [3.1.4.4.1.1 Next.js List](/02~Frontend/01~Web/Framework/React/Next.js/Next.js-List.md)
+          - 3.1.4.4.1 Next.js [2]
+            - [3.1.4.4.1.1 Auth.js List](/02~Frontend/01~Web/Framework/React/Next.js/Auth.js-List.md)
+            - [3.1.4.4.1.2 Next.js List](/02~Frontend/01~Web/Framework/React/Next.js/Next.js-List.md)
           - [3.1.4.4.2 React DesignPattern List](/02~Frontend/01~Web/Framework/React/React-DesignPattern-List.md)
           - [3.1.4.4.3 React Internals List](/02~Frontend/01~Web/Framework/React/React-Internals-List.md)
           - [3.1.4.4.4 React List](/02~Frontend/01~Web/Framework/React/React-List.md)
@@ -699,7 +701,7 @@
         - [3.6.5.1 WebGame List](/02~Frontend/20~Game/WebGame/WebGame-List.md)
         - [3.6.5.2 WebGame OpenSource List](/02~Frontend/20~Game/WebGame/WebGame-OpenSource-List.md)
     - [3.7 Frontend List](/02~Frontend/Frontend-List.md)
-  - 4 03~System [8]
+  - 4 03~System [9]
     - 4.1 01~Architecture [6]
       - 4.1.1 API [3]
         - [4.1.1.1 API List](/03~System/01~Architecture/API/API-List.md)
@@ -818,49 +820,51 @@
       - [4.6.6 XiaoMi List](/03~System/11~BigTech/XiaoMi-List.md)
       - [4.6.7 阿里巴巴 [1]](/03~System/11~BigTech/阿里巴巴/README.md)
         - [4.6.7.1 阿里](/03~System/11~BigTech/阿里巴巴/阿里.md)
-    - 4.7 MicroCN [7]
-      - 4.7.1 01.Gateway [3]
-        - [4.7.1.1 Gateway List](/03~System/MicroCN/01.Gateway/Gateway-List.md)
-        - [4.7.1.2 Gateway OpenSource List](/03~System/MicroCN/01.Gateway/Gateway-OpenSource-List.md)
-        - [4.7.1.3 LoadBalancing List](/03~System/MicroCN/01.Gateway/LoadBalancing-List.md)
-      - 4.7.2 02.RPC [5]
-        - 4.7.2.1 Framework [2]
-          - [4.7.2.1.1 BRPC List](/03~System/MicroCN/02.RPC/Framework/BRPC-List.md)
-          - [4.7.2.1.2 Dubbo List](/03~System/MicroCN/02.RPC/Framework/Dubbo-List.md)
-        - [4.7.2.2 RPC List](/03~System/MicroCN/02.RPC/RPC-List.md)
-        - [4.7.2.3 RPC OpenSource List](/03~System/MicroCN/02.RPC/RPC-OpenSource-List.md)
-        - [4.7.2.4 Serialization List](/03~System/MicroCN/02.RPC/Serialization-List.md)
-        - [4.7.2.5 gRPC List](/03~System/MicroCN/02.RPC/gRPC-List.md)
-      - 4.7.3 03.Configuration [1]
-        - [4.7.3.1 Configuration List](/03~System/MicroCN/03.Configuration/Configuration-List.md)
-      - 4.7.4 09.HA [8]
-        - 4.7.4.1 Cache [2]
-          - [4.7.4.1.1 CDN List](/03~System/MicroCN/09.HA/Cache/CDN-List.md)
-          - [4.7.4.1.2 Cache List](/03~System/MicroCN/09.HA/Cache/Cache-List.md)
-        - [4.7.4.2 HA List](/03~System/MicroCN/09.HA/HA-List.md)
-        - [4.7.4.3 HA OpenSource List](/03~System/MicroCN/09.HA/HA-OpenSource-List.md)
-        - [4.7.4.4 Observability](/03~System/MicroCN/09.HA/Observability/README.md)
+    - 4.7 99~参考资料 [1]
+      - [4.7.1 2023~Complete System Design with Implemented Case Studies and Code](/03~System/99~参考资料/2023~Complete%20System%20Design%20with%20Implemented%20Case%20Studies%20and%20Code.md)
+    - 4.8 MicroCN [7]
+      - 4.8.1 01.Gateway [3]
+        - [4.8.1.1 Gateway List](/03~System/MicroCN/01.Gateway/Gateway-List.md)
+        - [4.8.1.2 Gateway OpenSource List](/03~System/MicroCN/01.Gateway/Gateway-OpenSource-List.md)
+        - [4.8.1.3 LoadBalancing List](/03~System/MicroCN/01.Gateway/LoadBalancing-List.md)
+      - 4.8.2 02.RPC [5]
+        - 4.8.2.1 Framework [2]
+          - [4.8.2.1.1 BRPC List](/03~System/MicroCN/02.RPC/Framework/BRPC-List.md)
+          - [4.8.2.1.2 Dubbo List](/03~System/MicroCN/02.RPC/Framework/Dubbo-List.md)
+        - [4.8.2.2 RPC List](/03~System/MicroCN/02.RPC/RPC-List.md)
+        - [4.8.2.3 RPC OpenSource List](/03~System/MicroCN/02.RPC/RPC-OpenSource-List.md)
+        - [4.8.2.4 Serialization List](/03~System/MicroCN/02.RPC/Serialization-List.md)
+        - [4.8.2.5 gRPC List](/03~System/MicroCN/02.RPC/gRPC-List.md)
+      - 4.8.3 03.Configuration [1]
+        - [4.8.3.1 Configuration List](/03~System/MicroCN/03.Configuration/Configuration-List.md)
+      - 4.8.4 09.HA [8]
+        - 4.8.4.1 Cache [2]
+          - [4.8.4.1.1 CDN List](/03~System/MicroCN/09.HA/Cache/CDN-List.md)
+          - [4.8.4.1.2 Cache List](/03~System/MicroCN/09.HA/Cache/Cache-List.md)
+        - [4.8.4.2 HA List](/03~System/MicroCN/09.HA/HA-List.md)
+        - [4.8.4.3 HA OpenSource List](/03~System/MicroCN/09.HA/HA-OpenSource-List.md)
+        - [4.8.4.4 Observability](/03~System/MicroCN/09.HA/Observability/README.md)
           
-        - 4.7.4.5 QA [1]
-          - [4.7.4.5.1 QA List](/03~System/MicroCN/09.HA/QA/QA-List.md)
-        - 4.7.4.6 SRE [3]
-          - [4.7.4.6.1 DevSecOps List](/03~System/MicroCN/09.HA/SRE/DevSecOps-List.md)
-          - [4.7.4.6.2 Harden List](/03~System/MicroCN/09.HA/SRE/Harden-List.md)
-          - [4.7.4.6.3 RiskManagement List](/03~System/MicroCN/09.HA/SRE/RiskManagement-List.md)
-        - [4.7.4.7 SRE List](/03~System/MicroCN/09.HA/SRE-List.md)
-        - 4.7.4.8 TrafficManagement [2]
-          - [4.7.4.8.1 ResilienceService List](/03~System/MicroCN/09.HA/TrafficManagement/ResilienceService-List.md)
-          - [4.7.4.8.2 Spike List](/03~System/MicroCN/09.HA/TrafficManagement/Spike-List.md)
-      - 4.7.5 10.CloudNative [3]
-        - [4.7.5.1 CloudNative List](/03~System/MicroCN/10.CloudNative/CloudNative-List.md)
-        - 4.7.5.2 Serverless [1]
-          - [4.7.5.2.1 Serverless List](/03~System/MicroCN/10.CloudNative/Serverless/Serverless-List.md)
-        - 4.7.5.3 ServiceMesh [2]
-          - [4.7.5.3.1 Istio List](/03~System/MicroCN/10.CloudNative/ServiceMesh/Istio-List.md)
-          - [4.7.5.3.2 ServiceMesh List](/03~System/MicroCN/10.CloudNative/ServiceMesh/ServiceMesh-List.md)
-      - [4.7.6 MicroCN List](/03~System/MicroCN/MicroCN-List.md)
-      - [4.7.7 MicroCN OpenSource List](/03~System/MicroCN/MicroCN-OpenSource-List.md)
-    - [4.8 System List](/03~System/System-List.md)
+        - 4.8.4.5 QA [1]
+          - [4.8.4.5.1 QA List](/03~System/MicroCN/09.HA/QA/QA-List.md)
+        - 4.8.4.6 SRE [3]
+          - [4.8.4.6.1 DevSecOps List](/03~System/MicroCN/09.HA/SRE/DevSecOps-List.md)
+          - [4.8.4.6.2 Harden List](/03~System/MicroCN/09.HA/SRE/Harden-List.md)
+          - [4.8.4.6.3 RiskManagement List](/03~System/MicroCN/09.HA/SRE/RiskManagement-List.md)
+        - [4.8.4.7 SRE List](/03~System/MicroCN/09.HA/SRE-List.md)
+        - 4.8.4.8 TrafficManagement [2]
+          - [4.8.4.8.1 ResilienceService List](/03~System/MicroCN/09.HA/TrafficManagement/ResilienceService-List.md)
+          - [4.8.4.8.2 Spike List](/03~System/MicroCN/09.HA/TrafficManagement/Spike-List.md)
+      - 4.8.5 10.CloudNative [3]
+        - [4.8.5.1 CloudNative List](/03~System/MicroCN/10.CloudNative/CloudNative-List.md)
+        - 4.8.5.2 Serverless [1]
+          - [4.8.5.2.1 Serverless List](/03~System/MicroCN/10.CloudNative/Serverless/Serverless-List.md)
+        - 4.8.5.3 ServiceMesh [2]
+          - [4.8.5.3.1 Istio List](/03~System/MicroCN/10.CloudNative/ServiceMesh/Istio-List.md)
+          - [4.8.5.3.2 ServiceMesh List](/03~System/MicroCN/10.CloudNative/ServiceMesh/ServiceMesh-List.md)
+      - [4.8.6 MicroCN List](/03~System/MicroCN/MicroCN-List.md)
+      - [4.8.7 MicroCN OpenSource List](/03~System/MicroCN/MicroCN-OpenSource-List.md)
+    - [4.9 System List](/03~System/System-List.md)
   - 5 04~Infrastructure [6]
     - 5.1 10~Web3 [3]
       - 5.1.1 Blockchain [6]
