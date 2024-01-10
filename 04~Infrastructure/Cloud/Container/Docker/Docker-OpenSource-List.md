@@ -24,6 +24,10 @@
 
 - [2019~docker-slim ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/docker-slim/docker-slim): DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 
+## Image Tool
+
+- [wagoodman/dive ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/wagoodman/dive)](https://github.com/wagoodman/dive): A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image.
+
 # Storage | 存储
 
 - [2015-Flocker ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ClusterHQ/flocker): Flocker is an open-source Container Data Volume Manager for your Dockerized applications.
