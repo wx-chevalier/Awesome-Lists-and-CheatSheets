@@ -50,6 +50,8 @@
 
 - [ipywidgets ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jupyter-widgets/ipywidgets): ipywidgets, also known as jupyter-widgets or simply widgets, are interactive HTML widgets for Jupyter notebooks and the IPython kernel.
 
+- [2024~marimo ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/marimo-team/marimo)](https://github.com/marimo-team/marimo): A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
+
 # Library
 
 ## Framework
