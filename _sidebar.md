@@ -943,72 +943,73 @@
         - [5.3.8.5 OLAP OpenSource List](/04~Infrastructure/DataEngineering/OLAP/OLAP-OpenSource-List.md)
         - 5.3.8.6 Presto [1]
           - [5.3.8.6.1 Presto List](/04~Infrastructure/DataEngineering/OLAP/Presto/Presto-List.md)
-    - 5.4 Database [12]
+    - 5.4 Database [13]
       - [5.4.1 DBA Tools](/04~Infrastructure/Database/DBA-Tools.md)
-      - [5.4.2 Database DIY List](/04~Infrastructure/Database/Database-DIY-List.md)
-      - [5.4.3 Database List](/04~Infrastructure/Database/Database-List.md)
-      - [5.4.4 Database OpenSource List](/04~Infrastructure/Database/Database-OpenSource-List.md)
-      - 5.4.5 DocumentDB [4]
-        - [5.4.5.1 DocumentDB List](/04~Infrastructure/Database/DocumentDB/DocumentDB-List.md)
-        - 5.4.5.2 ElasticSearch [4]
-          - [5.4.5.2.1 ES Internals List](/04~Infrastructure/Database/DocumentDB/ElasticSearch/ES-Internals-List.md)
-          - [5.4.5.2.2 ES List](/04~Infrastructure/Database/DocumentDB/ElasticSearch/ES-List.md)
-          - [5.4.5.2.3 ES OpenSource List](/04~Infrastructure/Database/DocumentDB/ElasticSearch/ES-OpenSource-List.md)
-          - [5.4.5.2.4 ES Practices List](/04~Infrastructure/Database/DocumentDB/ElasticSearch/ES-Practices-List.md)
-        - 5.4.5.3 MongoDB [1]
-          - [5.4.5.3.1 MongoDB List](/04~Infrastructure/Database/DocumentDB/MongoDB/MongoDB-List.md)
-        - 5.4.5.4 SearchEngine [2]
-          - [5.4.5.4.1 SearchEngine List](/04~Infrastructure/Database/DocumentDB/SearchEngine/SearchEngine-List.md)
-          - [5.4.5.4.2 SearchEngine OpenSource List](/04~Infrastructure/Database/DocumentDB/SearchEngine/SearchEngine-OpenSource-List.md)
-      - 5.4.6 Graph [1]
-        - [5.4.6.1 GraphDB List](/04~Infrastructure/Database/Graph/GraphDB-List.md)
-      - 5.4.7 KV [4]
-        - [5.4.7.1 KV OpenSource List](/04~Infrastructure/Database/KV/KV-OpenSource-List.md)
-        - 5.4.7.2 LevelDB [1]
-          - [5.4.7.2.1 LevelDB List](/04~Infrastructure/Database/KV/LevelDB/LevelDB-List.md)
-        - 5.4.7.3 Redis [3]
-          - [5.4.7.3.1 Redis Cluster List](/04~Infrastructure/Database/KV/Redis/Redis-Cluster-List.md)
-          - [5.4.7.3.2 Redis Internals List](/04~Infrastructure/Database/KV/Redis/Redis-Internals-List.md)
-          - [5.4.7.3.3 Redis List](/04~Infrastructure/Database/KV/Redis/Redis-List.md)
-        - 5.4.7.4 RocksDB [1]
-          - [5.4.7.4.1 RocksDB List](/04~Infrastructure/Database/KV/RocksDB/RocksDB-List.md)
-      - 5.4.8 NewSQL [2]
-        - [5.4.8.1 NewSQL List](/04~Infrastructure/Database/NewSQL/NewSQL-List.md)
-        - 5.4.8.2 PingCAP [1]
-          - [5.4.8.2.1 TiDB List](/04~Infrastructure/Database/NewSQL/PingCAP/TiDB-List.md)
-      - 5.4.9 RDB [9]
-        - 5.4.9.1 H2 [1]
-          - [5.4.9.1.1 H2 List](/04~Infrastructure/Database/RDB/H2/H2-List.md)
-        - 5.4.9.2 MySQL [5]
-          - [5.4.9.2.1 MySQL Cluster List](/04~Infrastructure/Database/RDB/MySQL/MySQL-Cluster-List.md)
-          - [5.4.9.2.2 MySQL List](/04~Infrastructure/Database/RDB/MySQL/MySQL-List.md)
-          - [5.4.9.2.3 MySQL OpenSource List](/04~Infrastructure/Database/RDB/MySQL/MySQL-OpenSource-List.md)
-          - [5.4.9.2.4 MySQL StoreEngine List](/04~Infrastructure/Database/RDB/MySQL/MySQL-StoreEngine-List.md)
-          - [5.4.9.2.5 MySQL Tuning List](/04~Infrastructure/Database/RDB/MySQL/MySQL-Tuning-List.md)
-        - 5.4.9.3 Oracle [1]
-          - [5.4.9.3.1 Oracle List](/04~Infrastructure/Database/RDB/Oracle/Oracle-List.md)
-        - 5.4.9.4 PostgreSQL [2]
-          - [5.4.9.4.1 PostgreSQL List](/04~Infrastructure/Database/RDB/PostgreSQL/PostgreSQL-List.md)
-          - [5.4.9.4.2 PostgreSQL OpenSource List](/04~Infrastructure/Database/RDB/PostgreSQL/PostgreSQL-OpenSource-List.md)
-        - [5.4.9.5 RDB List](/04~Infrastructure/Database/RDB/RDB-List.md)
-        - 5.4.9.6 SQL [1]
-          - [5.4.9.6.1 SQL List](/04~Infrastructure/Database/RDB/SQL/SQL-List.md)
-        - 5.4.9.7 SQLServer [1]
-          - [5.4.9.7.1 SQLServer List](/04~Infrastructure/Database/RDB/SQLServer/SQLServer-List.md)
-        - 5.4.9.8 SQLite [2]
-          - [5.4.9.8.1 SQLite List](/04~Infrastructure/Database/RDB/SQLite/SQLite-List.md)
-          - [5.4.9.8.2 SQLite OpenSource List](/04~Infrastructure/Database/RDB/SQLite/SQLite-OpenSource-List.md)
-        - 5.4.9.9 Sharding [1]
-          - [5.4.9.9.1 Sharding List](/04~Infrastructure/Database/RDB/Sharding/Sharding-List.md)
-      - 5.4.10 TimeSeries [3]
-        - [5.4.10.1 InfluxDB List](/04~Infrastructure/Database/TimeSeries/InfluxDB-List.md)
-        - [5.4.10.2 Prometheus List](/04~Infrastructure/Database/TimeSeries/Prometheus-List.md)
-        - [5.4.10.3 TimeSeries Database List](/04~Infrastructure/Database/TimeSeries/TimeSeries-Database-List.md)
-      - 5.4.11 VectorDB [1]
-        - [5.4.11.1 VectorDB List](/04~Infrastructure/Database/VectorDB/VectorDB-List.md)
-      - 5.4.12 WideColumn [1]
-        - 5.4.12.1 HBase [1]
-          - [5.4.12.1.1 HBase List](/04~Infrastructure/Database/WideColumn/HBase/HBase-List.md)
+      - [5.4.2 Database AI OpenSource List](/04~Infrastructure/Database/Database-AI-OpenSource-List.md)
+      - [5.4.3 Database DIY List](/04~Infrastructure/Database/Database-DIY-List.md)
+      - [5.4.4 Database List](/04~Infrastructure/Database/Database-List.md)
+      - [5.4.5 Database OpenSource List](/04~Infrastructure/Database/Database-OpenSource-List.md)
+      - 5.4.6 DocumentDB [4]
+        - [5.4.6.1 DocumentDB List](/04~Infrastructure/Database/DocumentDB/DocumentDB-List.md)
+        - 5.4.6.2 ElasticSearch [4]
+          - [5.4.6.2.1 ES Internals List](/04~Infrastructure/Database/DocumentDB/ElasticSearch/ES-Internals-List.md)
+          - [5.4.6.2.2 ES List](/04~Infrastructure/Database/DocumentDB/ElasticSearch/ES-List.md)
+          - [5.4.6.2.3 ES OpenSource List](/04~Infrastructure/Database/DocumentDB/ElasticSearch/ES-OpenSource-List.md)
+          - [5.4.6.2.4 ES Practices List](/04~Infrastructure/Database/DocumentDB/ElasticSearch/ES-Practices-List.md)
+        - 5.4.6.3 MongoDB [1]
+          - [5.4.6.3.1 MongoDB List](/04~Infrastructure/Database/DocumentDB/MongoDB/MongoDB-List.md)
+        - 5.4.6.4 SearchEngine [2]
+          - [5.4.6.4.1 SearchEngine List](/04~Infrastructure/Database/DocumentDB/SearchEngine/SearchEngine-List.md)
+          - [5.4.6.4.2 SearchEngine OpenSource List](/04~Infrastructure/Database/DocumentDB/SearchEngine/SearchEngine-OpenSource-List.md)
+      - 5.4.7 Graph [1]
+        - [5.4.7.1 GraphDB List](/04~Infrastructure/Database/Graph/GraphDB-List.md)
+      - 5.4.8 KV [4]
+        - [5.4.8.1 KV OpenSource List](/04~Infrastructure/Database/KV/KV-OpenSource-List.md)
+        - 5.4.8.2 LevelDB [1]
+          - [5.4.8.2.1 LevelDB List](/04~Infrastructure/Database/KV/LevelDB/LevelDB-List.md)
+        - 5.4.8.3 Redis [3]
+          - [5.4.8.3.1 Redis Cluster List](/04~Infrastructure/Database/KV/Redis/Redis-Cluster-List.md)
+          - [5.4.8.3.2 Redis Internals List](/04~Infrastructure/Database/KV/Redis/Redis-Internals-List.md)
+          - [5.4.8.3.3 Redis List](/04~Infrastructure/Database/KV/Redis/Redis-List.md)
+        - 5.4.8.4 RocksDB [1]
+          - [5.4.8.4.1 RocksDB List](/04~Infrastructure/Database/KV/RocksDB/RocksDB-List.md)
+      - 5.4.9 NewSQL [2]
+        - [5.4.9.1 NewSQL List](/04~Infrastructure/Database/NewSQL/NewSQL-List.md)
+        - 5.4.9.2 PingCAP [1]
+          - [5.4.9.2.1 TiDB List](/04~Infrastructure/Database/NewSQL/PingCAP/TiDB-List.md)
+      - 5.4.10 RDB [9]
+        - 5.4.10.1 H2 [1]
+          - [5.4.10.1.1 H2 List](/04~Infrastructure/Database/RDB/H2/H2-List.md)
+        - 5.4.10.2 MySQL [5]
+          - [5.4.10.2.1 MySQL Cluster List](/04~Infrastructure/Database/RDB/MySQL/MySQL-Cluster-List.md)
+          - [5.4.10.2.2 MySQL List](/04~Infrastructure/Database/RDB/MySQL/MySQL-List.md)
+          - [5.4.10.2.3 MySQL OpenSource List](/04~Infrastructure/Database/RDB/MySQL/MySQL-OpenSource-List.md)
+          - [5.4.10.2.4 MySQL StoreEngine List](/04~Infrastructure/Database/RDB/MySQL/MySQL-StoreEngine-List.md)
+          - [5.4.10.2.5 MySQL Tuning List](/04~Infrastructure/Database/RDB/MySQL/MySQL-Tuning-List.md)
+        - 5.4.10.3 Oracle [1]
+          - [5.4.10.3.1 Oracle List](/04~Infrastructure/Database/RDB/Oracle/Oracle-List.md)
+        - 5.4.10.4 PostgreSQL [2]
+          - [5.4.10.4.1 PostgreSQL List](/04~Infrastructure/Database/RDB/PostgreSQL/PostgreSQL-List.md)
+          - [5.4.10.4.2 PostgreSQL OpenSource List](/04~Infrastructure/Database/RDB/PostgreSQL/PostgreSQL-OpenSource-List.md)
+        - [5.4.10.5 RDB List](/04~Infrastructure/Database/RDB/RDB-List.md)
+        - 5.4.10.6 SQL [1]
+          - [5.4.10.6.1 SQL List](/04~Infrastructure/Database/RDB/SQL/SQL-List.md)
+        - 5.4.10.7 SQLServer [1]
+          - [5.4.10.7.1 SQLServer List](/04~Infrastructure/Database/RDB/SQLServer/SQLServer-List.md)
+        - 5.4.10.8 SQLite [2]
+          - [5.4.10.8.1 SQLite List](/04~Infrastructure/Database/RDB/SQLite/SQLite-List.md)
+          - [5.4.10.8.2 SQLite OpenSource List](/04~Infrastructure/Database/RDB/SQLite/SQLite-OpenSource-List.md)
+        - 5.4.10.9 Sharding [1]
+          - [5.4.10.9.1 Sharding List](/04~Infrastructure/Database/RDB/Sharding/Sharding-List.md)
+      - 5.4.11 TimeSeries [3]
+        - [5.4.11.1 InfluxDB List](/04~Infrastructure/Database/TimeSeries/InfluxDB-List.md)
+        - [5.4.11.2 Prometheus List](/04~Infrastructure/Database/TimeSeries/Prometheus-List.md)
+        - [5.4.11.3 TimeSeries Database List](/04~Infrastructure/Database/TimeSeries/TimeSeries-Database-List.md)
+      - 5.4.12 VectorDB [1]
+        - [5.4.12.1 VectorDB List](/04~Infrastructure/Database/VectorDB/VectorDB-List.md)
+      - 5.4.13 WideColumn [1]
+        - 5.4.13.1 HBase [1]
+          - [5.4.13.1.1 HBase List](/04~Infrastructure/Database/WideColumn/HBase/HBase-List.md)
     - 5.5 DistributedSystem [5]
       - 5.5.1 01.DistributedSystem [2]
         - 5.5.1.1 Consensus [6]
@@ -1091,7 +1092,7 @@
         - [6.9.5.3 RecommendSystem OpenSource List](/10~AI/Application/RecommendSystem/RecommendSystem-OpenSource-List.md)
       - 6.9.6 SNA [1]
         - [6.9.6.1 SNA List](/10~AI/Application/SNA/SNA-List.md)
-    - 6.10 CV [6]
+    - 6.10 CV [7]
       - 6.10.1 AIGC [3]
         - [6.10.1.1 AIGC OpenSource List](/10~AI/CV/AIGC/AIGC-OpenSource-List.md)
         - 6.10.1.2 Diffusion [3]
@@ -1100,21 +1101,22 @@
           - [6.10.1.2.3 StableDiffusion List](/10~AI/CV/AIGC/Diffusion/StableDiffusion-List.md)
         - 6.10.1.3 DigitalTwin [1]
           - [6.10.1.3.1 DigitalTwin OpenSource List](/10~AI/CV/AIGC/DigitalTwin/DigitalTwin-OpenSource-List.md)
-      - [6.10.2 CV List](/10~AI/CV/CV-List.md)
-      - [6.10.3 CV OpenSource List](/10~AI/CV/CV-OpenSource-List.md)
-      - 6.10.4 NeuralNetwork [1]
-        - 6.10.4.1 CNN [1]
-          - [6.10.4.1.1 CNN List](/10~AI/CV/NeuralNetwork/CNN/CNN-List.md)
-      - 6.10.5 Recognition [4]
-        - [6.10.5.1 FaceRecognition List](/10~AI/CV/Recognition/FaceRecognition-List.md)
-        - [6.10.5.2 FaceSwapper List](/10~AI/CV/Recognition/FaceSwapper-List.md)
-        - 6.10.5.3 OCR [2]
-          - [6.10.5.3.1 OCR List](/10~AI/CV/Recognition/OCR/OCR-List.md)
-          - [6.10.5.3.2 OCR OpenSource List](/10~AI/CV/Recognition/OCR/OCR-OpenSource-List.md)
-        - [6.10.5.4 Object Detection List](/10~AI/CV/Recognition/Object-Detection-List.md)
-      - 6.10.6 Toolkits [1]
-        - [6.10.6.1 OpenCV List](/10~AI/CV/Toolkits/OpenCV-List.md)
-    - 6.11 MachineLearning [8]
+      - [6.10.2 CV Book List](/10~AI/CV/CV-Book-List.md)
+      - [6.10.3 CV List](/10~AI/CV/CV-List.md)
+      - [6.10.4 CV OpenSource List](/10~AI/CV/CV-OpenSource-List.md)
+      - 6.10.5 NeuralNetwork [1]
+        - 6.10.5.1 CNN [1]
+          - [6.10.5.1.1 CNN List](/10~AI/CV/NeuralNetwork/CNN/CNN-List.md)
+      - 6.10.6 Recognition [4]
+        - [6.10.6.1 FaceRecognition List](/10~AI/CV/Recognition/FaceRecognition-List.md)
+        - [6.10.6.2 FaceSwapper List](/10~AI/CV/Recognition/FaceSwapper-List.md)
+        - 6.10.6.3 OCR [2]
+          - [6.10.6.3.1 OCR List](/10~AI/CV/Recognition/OCR/OCR-List.md)
+          - [6.10.6.3.2 OCR OpenSource List](/10~AI/CV/Recognition/OCR/OCR-OpenSource-List.md)
+        - [6.10.6.4 Object Detection List](/10~AI/CV/Recognition/Object-Detection-List.md)
+      - 6.10.7 Toolkits [1]
+        - [6.10.7.1 OpenCV List](/10~AI/CV/Toolkits/OpenCV-List.md)
+    - 6.11 MachineLearning [9]
       - 6.11.1 DataScience [1]
         - [6.11.1.1 DataScience List](/10~AI/MachineLearning/DataScience/DataScience-List.md)
       - 6.11.2 DeepLearning [2]
@@ -1157,13 +1159,14 @@
           - [6.11.5.6.1 Markov List](/10~AI/MachineLearning/LearningAlgorithm/Markov/Markov-List.md)
         - 6.11.5.7 Transfer [1]
           - [6.11.5.7.1 TransferLearning List](/10~AI/MachineLearning/LearningAlgorithm/Transfer/TransferLearning-List.md)
-      - [6.11.6 MachineLearning Course List](/10~AI/MachineLearning/MachineLearning-Course-List.md)
-      - [6.11.7 MachineLearning List](/10~AI/MachineLearning/MachineLearning-List.md)
-      - 6.11.8 ReinforcementLearning [2]
-        - 6.11.8.1 DRL [1]
-          - [6.11.8.1.1 DeepReinforcementLearning](/10~AI/MachineLearning/ReinforcementLearning/DRL/DeepReinforcementLearning.md)
-        - [6.11.8.2 ReinforcementLearning List](/10~AI/MachineLearning/ReinforcementLearning/ReinforcementLearning-List.md)
-    - 6.12 NLP [10]
+      - [6.11.6 MachineLearning Book List](/10~AI/MachineLearning/MachineLearning-Book-List.md)
+      - [6.11.7 MachineLearning Course List](/10~AI/MachineLearning/MachineLearning-Course-List.md)
+      - [6.11.8 MachineLearning List](/10~AI/MachineLearning/MachineLearning-List.md)
+      - 6.11.9 ReinforcementLearning [2]
+        - 6.11.9.1 DRL [1]
+          - [6.11.9.1.1 DeepReinforcementLearning](/10~AI/MachineLearning/ReinforcementLearning/DRL/DeepReinforcementLearning.md)
+        - [6.11.9.2 ReinforcementLearning List](/10~AI/MachineLearning/ReinforcementLearning/ReinforcementLearning-List.md)
+    - 6.12 NLP [11]
       - 6.12.1 High level Tasks [3]
         - 6.12.1.1 DialogueSystem [3]
           - [6.12.1.1.1 ASR List](/10~AI/NLP/High-level%20Tasks/DialogueSystem/ASR-List.md)
@@ -1211,25 +1214,26 @@
         - [6.12.4.5 LLM OpenSource List](/10~AI/NLP/LLM/LLM-OpenSource-List.md)
         - 6.12.4.6 LLM Prompt [1]
           - [6.12.4.6.1 Prompt List](/10~AI/NLP/LLM/LLM-Prompt/Prompt-List.md)
-      - [6.12.5 NLP List](/10~AI/NLP/NLP-List.md)
-      - 6.12.6 NLP NN [2]
-        - 6.12.6.1 DNN [2]
-          - [6.12.6.1.1 GAN List](/10~AI/NLP/NLP-NN/DNN/GAN-List.md)
-          - [6.12.6.1.2 LSTM List](/10~AI/NLP/NLP-NN/DNN/LSTM-List.md)
-        - 6.12.6.2 RNN [1]
-          - [6.12.6.2.1 RecurrentNeuralNetwork List](/10~AI/NLP/NLP-NN/RNN/RecurrentNeuralNetwork-List.md)
-      - [6.12.7 NLP OpenSource List](/10~AI/NLP/NLP-OpenSource-List.md)
-      - 6.12.8 Speech [1]
-        - [6.12.8.1 NLP Speech OpenSource List](/10~AI/NLP/Speech/NLP-Speech-OpenSource-List.md)
-      - 6.12.9 SyntaxSemanticAnalysis [2]
-        - 6.12.9.1 SentenceAnalysis [3]
-          - [6.12.9.1.1 Representation List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/Representation-List.md)
-          - [6.12.9.1.2 StatisticalLanguageModel List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/StatisticalLanguageModel-List.md)
-          - [6.12.9.1.3 TopicModel List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/TopicModel-List.md)
-        - [6.12.9.2 SyntaxSemanticAnalysis List](/10~AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
-      - 6.12.10 Transformer [2]
-        - [6.12.10.1 Transformer List](/10~AI/NLP/Transformer/Transformer-List.md)
-        - [6.12.10.2 Transformer OpenSource List](/10~AI/NLP/Transformer/Transformer-OpenSource-List.md)
+      - [6.12.5 NLP Book List](/10~AI/NLP/NLP-Book-List.md)
+      - [6.12.6 NLP List](/10~AI/NLP/NLP-List.md)
+      - 6.12.7 NLP NN [2]
+        - 6.12.7.1 DNN [2]
+          - [6.12.7.1.1 GAN List](/10~AI/NLP/NLP-NN/DNN/GAN-List.md)
+          - [6.12.7.1.2 LSTM List](/10~AI/NLP/NLP-NN/DNN/LSTM-List.md)
+        - 6.12.7.2 RNN [1]
+          - [6.12.7.2.1 RecurrentNeuralNetwork List](/10~AI/NLP/NLP-NN/RNN/RecurrentNeuralNetwork-List.md)
+      - [6.12.8 NLP OpenSource List](/10~AI/NLP/NLP-OpenSource-List.md)
+      - 6.12.9 Speech [1]
+        - [6.12.9.1 NLP Speech OpenSource List](/10~AI/NLP/Speech/NLP-Speech-OpenSource-List.md)
+      - 6.12.10 SyntaxSemanticAnalysis [2]
+        - 6.12.10.1 SentenceAnalysis [3]
+          - [6.12.10.1.1 Representation List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/Representation-List.md)
+          - [6.12.10.1.2 StatisticalLanguageModel List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/StatisticalLanguageModel-List.md)
+          - [6.12.10.1.3 TopicModel List](/10~AI/NLP/SyntaxSemanticAnalysis/SentenceAnalysis/TopicModel-List.md)
+        - [6.12.10.2 SyntaxSemanticAnalysis List](/10~AI/NLP/SyntaxSemanticAnalysis/SyntaxSemanticAnalysis-List.md)
+      - 6.12.11 Transformer [2]
+        - [6.12.11.1 Transformer List](/10~AI/NLP/Transformer/Transformer-List.md)
+        - [6.12.11.2 Transformer OpenSource List](/10~AI/NLP/Transformer/Transformer-OpenSource-List.md)
     - 6.13 Toolkits [6]
       - [6.13.1 AI Toolkit List](/10~AI/Toolkits/AI-Toolkit-List.md)
       - 6.13.2 CUDA [1]
