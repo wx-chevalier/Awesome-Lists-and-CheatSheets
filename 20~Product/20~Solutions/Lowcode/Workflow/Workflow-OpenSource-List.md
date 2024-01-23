@@ -22,6 +22,8 @@
 
 - [2023~Snakemake ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/snakemake/snakemake)](https://github.com/snakemake/snakemake): The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.
 
+- [2023~weibocom/rill-flow ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/weibocom/rill-flow)](https://github.com/weibocom/rill-flow): Rill Flow is a high-performance, scalable distributed workflow orchestration service with the following core features.
+
 ## Rules Engine
 
 - [Drools ![code](https://ng-tech.icu/assets/code.svg)](https://www.drools.org/): Drools is a Business Rules Management System (BRMS) solution. It provides a core Business Rules Engine (BRE), a web authoring and rules management application (Drools Workbench) and an Eclipse IDE plugin for core development.

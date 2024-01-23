@@ -10,16 +10,17 @@
       - [1.2.7 Awesome PDF Books](/00~Specials/Collections/Awesome-PDF-Books.md)
       - [1.2.8 Awesome Scholar](/00~Specials/Collections/Awesome-Scholar.md)
       - [1.2.9 Awesome Vision](/00~Specials/Collections/Awesome-Vision.md)
-    - 1.3 Showcases [6]
-      - [1.3.1 Awesome Apps](/00~Specials/Showcases/Awesome-Apps.md)
-      - [1.3.2 Awesome Clones](/00~Specials/Showcases/Awesome-Clones.md)
-      - [1.3.3 Awesome Codebases](/00~Specials/Showcases/Awesome-Codebases.md)
-      - [1.3.4 Awesome Design Inspiration](/00~Specials/Showcases/Awesome-Design-Inspiration.md)
-      - [1.3.5 Coding as Vetren](/00~Specials/Showcases/Coding-as-Vetren.md)
-      - 1.3.6 DataVision [3]
-        - [1.3.6.1 Awesome DataVis](/00~Specials/Showcases/DataVision/Awesome-DataVis.md)
-        - [1.3.6.2 Flower](/00~Specials/Showcases/DataVision/Flower.md)
-        - [1.3.6.3 Hack Effect](/00~Specials/Showcases/DataVision/Hack%20Effect.md)
+    - 1.3 Showcases [7]
+      - [1.3.1 Awesome Animations](/00~Specials/Showcases/Awesome-Animations.md)
+      - [1.3.2 Awesome Apps](/00~Specials/Showcases/Awesome-Apps.md)
+      - [1.3.3 Awesome Clones](/00~Specials/Showcases/Awesome-Clones.md)
+      - [1.3.4 Awesome Codebases](/00~Specials/Showcases/Awesome-Codebases.md)
+      - [1.3.5 Awesome Design Inspiration](/00~Specials/Showcases/Awesome-Design-Inspiration.md)
+      - [1.3.6 Coding as Vetren](/00~Specials/Showcases/Coding-as-Vetren.md)
+      - 1.3.7 DataVision [3]
+        - [1.3.7.1 Awesome DataVis](/00~Specials/Showcases/DataVision/Awesome-DataVis.md)
+        - [1.3.7.2 Flower](/00~Specials/Showcases/DataVision/Flower.md)
+        - [1.3.7.3 Hack Effect](/00~Specials/Showcases/DataVision/Hack%20Effect.md)
     - [1.4 Tools & Projects [34]](/00~Specials/Tools%20&%20Projects/README.md)
       - [1.4.1 Automation](/00~Specials/Tools%20&%20Projects/Automation.md)
       - [1.4.2 Awesome Media Tools](/00~Specials/Tools%20&%20Projects/Awesome-Media-Tools.md)
@@ -543,8 +544,9 @@
       - [3.1.8 Web List](/02~Frontend/01~Web/Web-List.md)
       - [3.1.9 Web OpenSource List](/02~Frontend/01~Web/Web-OpenSource-List.md)
       - [3.1.10 Widgets [9]](/02~Frontend/01~Web/Widgets/README.md)
-        - 3.1.10.1 Animation [1]
+        - 3.1.10.1 Animation [2]
           - [3.1.10.1.1 Animation OpenSource List](/02~Frontend/01~Web/Widgets/Animation/Animation-OpenSource-List.md)
+          - [3.1.10.1.2 Web Loader OpenSource List](/02~Frontend/01~Web/Widgets/Animation/Web-Loader-OpenSource-List.md)
         - 3.1.10.2 Data Display [6]
           - [3.1.10.2.1 Audio & Video](/02~Frontend/01~Web/Widgets/Data%20Display/Audio%20&%20Video.md)
           - [3.1.10.2.2 Button & Icon](/02~Frontend/01~Web/Widgets/Data%20Display/Button%20&%20Icon.md)
@@ -774,8 +776,9 @@
         - [4.4.6.1 Flume List](/03~System/04~DevOps/LogAggregation/Flume-List.md)
         - [4.4.6.2 LogAggregation List](/03~System/04~DevOps/LogAggregation/LogAggregation-List.md)
       - 4.4.7 MonitorAlert [6]
-        - 4.4.7.1 APM [1]
+        - 4.4.7.1 APM [2]
           - [4.4.7.1.1 APM List](/03~System/04~DevOps/MonitorAlert/APM/APM-List.md)
+          - [4.4.7.1.2 APM StatusPage OpenSource List](/03~System/04~DevOps/MonitorAlert/APM/APM-StatusPage-OpenSource-List.md)
         - 4.4.7.2 Aggregation [2]
           - [4.4.7.2.1 Aggregation List](/03~System/04~DevOps/MonitorAlert/Aggregation/Aggregation-List.md)
           - 4.4.7.2.2 Prometheus [1]
