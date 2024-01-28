@@ -21,8 +21,7 @@
 
 - [2018~《Andrew NG-Machine Learning Yearning》📚](http://www.mlyearning.org/): This book is focused not on teaching you ML algorithms, but on how to make ML algorithms work. Some technical AI classes will give you a hammer; this book teaches you how to use the hammer.
 
-  - 中文版本参考[这里](https://github.com/AcceptedDoge/machine-learning-yearning-cn/)、[Machine Learning Yearning 中文版
-    ](https://github.com/deeplearning-ai/machine-learning-yearning-cn)。
+  - 中文版本参考[这里](https://github.com/AcceptedDoge/machine-learning-yearning-cn/)、[Machine Learning Yearning 中文版](https://github.com/deeplearning-ai/machine-learning-yearning-cn)。
 
 - [2018~《Artificial Intelligence: A Modern Approach-3rd Edition》📚](https://parg.co/Y6t):Artificial Intelligence: A Modern Approach, 3e offers the most comprehensive, up-to-date introduction to the theory and practice of artificial intelligence. Number one in its field, this textbook is ideal for one or two-semester, undergraduate or graduate-level courses in Artificial Intelligence.
 

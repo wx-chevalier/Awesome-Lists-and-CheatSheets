@@ -632,18 +632,10 @@
       - [3.4.5 Svg List](/02~Frontend/04~Media/Svg-List.md)
       - [3.4.6 Video List](/02~Frontend/04~Media/Video-List.md)
     - 3.5 10~CG [8]
-      - 3.5.1 01.RenderPipelines [1]
-        - [3.5.1.1 CollisionDetect List](/02~Frontend/10~CG/01.RenderPipelines/CollisionDetect-List.md)
-      - 3.5.2 3D CV [4]
-        - 3.5.2.1 3D AIGC [1]
-          - [3.5.2.1.1 3D AIGC List](/02~Frontend/10~CG/3D-CV/3D-AIGC/3D-AIGC-List.md)
-        - [3.5.2.2 3D CV List](/02~Frontend/10~CG/3D-CV/3D-CV-List.md)
-        - 3.5.2.3 3D Reconstruction [2]
-          - [3.5.2.3.1 3D Reconstruction List](/02~Frontend/10~CG/3D-CV/3D-Reconstruction/3D-Reconstruction-List.md)
-          - 3.5.2.3.2 NeRF [1]
-            - [3.5.2.3.2.1 NeRF List](/02~Frontend/10~CG/3D-CV/3D-Reconstruction/NeRF/NeRF-List.md)
-        - 3.5.2.4 3D Retrieval [1]
-          - [3.5.2.4.1 3D Retrieval List](/02~Frontend/10~CG/3D-CV/3D-Retrieval/3D-Retrieval-List.md)
+      - 3.5.1 01~RenderPipelines [1]
+        - [3.5.1.1 CollisionDetect List](/02~Frontend/10~CG/01~RenderPipelines/CollisionDetect-List.md)
+      - 3.5.2 99~参考资料 [1]
+        - [3.5.2.1 zwluoqi~计算机图形学系列丛书](/02~Frontend/10~CG/99~参考资料/zwluoqi~计算机图形学系列丛书.md)
       - [3.5.3 CG List](/02~Frontend/10~CG/CG-List.md)
       - [3.5.4 CG Math List](/02~Frontend/10~CG/CG-Math-List.md)
       - [3.5.5 CG OpenSource List](/02~Frontend/10~CG/CG-OpenSource-List.md)
@@ -1096,30 +1088,40 @@
         - [6.9.5.3 RecommendSystem OpenSource List](/10~AI/Application/RecommendSystem/RecommendSystem-OpenSource-List.md)
       - 6.9.6 SNA [1]
         - [6.9.6.1 SNA List](/10~AI/Application/SNA/SNA-List.md)
-    - 6.10 CV [7]
-      - 6.10.1 AIGC [3]
-        - [6.10.1.1 AIGC OpenSource List](/10~AI/CV/AIGC/AIGC-OpenSource-List.md)
-        - 6.10.1.2 Diffusion [3]
-          - [6.10.1.2.1 Diffusion List](/10~AI/CV/AIGC/Diffusion/Diffusion-List.md)
-          - [6.10.1.2.2 MidJourney List](/10~AI/CV/AIGC/Diffusion/MidJourney-List.md)
-          - [6.10.1.2.3 StableDiffusion List](/10~AI/CV/AIGC/Diffusion/StableDiffusion-List.md)
-        - 6.10.1.3 DigitalTwin [1]
-          - [6.10.1.3.1 DigitalTwin OpenSource List](/10~AI/CV/AIGC/DigitalTwin/DigitalTwin-OpenSource-List.md)
-      - [6.10.2 CV Book List](/10~AI/CV/CV-Book-List.md)
-      - [6.10.3 CV List](/10~AI/CV/CV-List.md)
-      - [6.10.4 CV OpenSource List](/10~AI/CV/CV-OpenSource-List.md)
-      - 6.10.5 NeuralNetwork [1]
-        - 6.10.5.1 CNN [1]
-          - [6.10.5.1.1 CNN List](/10~AI/CV/NeuralNetwork/CNN/CNN-List.md)
-      - 6.10.6 Recognition [4]
-        - [6.10.6.1 FaceRecognition List](/10~AI/CV/Recognition/FaceRecognition-List.md)
-        - [6.10.6.2 FaceSwapper List](/10~AI/CV/Recognition/FaceSwapper-List.md)
-        - 6.10.6.3 OCR [2]
-          - [6.10.6.3.1 OCR List](/10~AI/CV/Recognition/OCR/OCR-List.md)
-          - [6.10.6.3.2 OCR OpenSource List](/10~AI/CV/Recognition/OCR/OCR-OpenSource-List.md)
-        - [6.10.6.4 Object Detection List](/10~AI/CV/Recognition/Object-Detection-List.md)
-      - 6.10.7 Toolkits [1]
-        - [6.10.7.1 OpenCV List](/10~AI/CV/Toolkits/OpenCV-List.md)
+    - 6.10 CV [8]
+      - 6.10.1 3D CV [4]
+        - 6.10.1.1 3D AIGC [1]
+          - [6.10.1.1.1 3D AIGC List](/10~AI/CV/3D-CV/3D-AIGC/3D-AIGC-List.md)
+        - [6.10.1.2 3D CV List](/10~AI/CV/3D-CV/3D-CV-List.md)
+        - 6.10.1.3 3D Reconstruction [2]
+          - [6.10.1.3.1 3D Reconstruction List](/10~AI/CV/3D-CV/3D-Reconstruction/3D-Reconstruction-List.md)
+          - 6.10.1.3.2 NeRF [1]
+            - [6.10.1.3.2.1 NeRF List](/10~AI/CV/3D-CV/3D-Reconstruction/NeRF/NeRF-List.md)
+        - 6.10.1.4 3D Retrieval [1]
+          - [6.10.1.4.1 3D Retrieval List](/10~AI/CV/3D-CV/3D-Retrieval/3D-Retrieval-List.md)
+      - 6.10.2 AIGC [3]
+        - [6.10.2.1 AIGC OpenSource List](/10~AI/CV/AIGC/AIGC-OpenSource-List.md)
+        - 6.10.2.2 Diffusion [3]
+          - [6.10.2.2.1 Diffusion List](/10~AI/CV/AIGC/Diffusion/Diffusion-List.md)
+          - [6.10.2.2.2 MidJourney List](/10~AI/CV/AIGC/Diffusion/MidJourney-List.md)
+          - [6.10.2.2.3 StableDiffusion List](/10~AI/CV/AIGC/Diffusion/StableDiffusion-List.md)
+        - 6.10.2.3 DigitalTwin [1]
+          - [6.10.2.3.1 DigitalTwin OpenSource List](/10~AI/CV/AIGC/DigitalTwin/DigitalTwin-OpenSource-List.md)
+      - [6.10.3 CV Book List](/10~AI/CV/CV-Book-List.md)
+      - [6.10.4 CV List](/10~AI/CV/CV-List.md)
+      - [6.10.5 CV OpenSource List](/10~AI/CV/CV-OpenSource-List.md)
+      - 6.10.6 NeuralNetwork [1]
+        - 6.10.6.1 CNN [1]
+          - [6.10.6.1.1 CNN List](/10~AI/CV/NeuralNetwork/CNN/CNN-List.md)
+      - 6.10.7 Recognition [4]
+        - [6.10.7.1 FaceRecognition List](/10~AI/CV/Recognition/FaceRecognition-List.md)
+        - [6.10.7.2 FaceSwapper List](/10~AI/CV/Recognition/FaceSwapper-List.md)
+        - 6.10.7.3 OCR [2]
+          - [6.10.7.3.1 OCR List](/10~AI/CV/Recognition/OCR/OCR-List.md)
+          - [6.10.7.3.2 OCR OpenSource List](/10~AI/CV/Recognition/OCR/OCR-OpenSource-List.md)
+        - [6.10.7.4 Object Detection List](/10~AI/CV/Recognition/Object-Detection-List.md)
+      - 6.10.8 Toolkits [1]
+        - [6.10.8.1 OpenCV List](/10~AI/CV/Toolkits/OpenCV-List.md)
     - 6.11 MachineLearning [9]
       - 6.11.1 DataScience [1]
         - [6.11.1.1 DataScience List](/10~AI/MachineLearning/DataScience/DataScience-List.md)
