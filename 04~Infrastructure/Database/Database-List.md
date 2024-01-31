@@ -44,25 +44,25 @@
 
 - [2014-SQL for MySQL: A Beginner's Tutorial》📚](https://parg.co/oU1): This introduction to SQL for MySQL begins by discussing exactly how data is stored and maintained in a relational database, familiarizing readers with SQL INSERT, UPDATE, and DELETE statements.
 
-- [2015-Readings in Database Systems-5th》📚](http://www.redbook.io/): Readings in Database Systems (commonly known as the "Red Book") has offered readers an opinionated take on both classic and cutting-edge research in the field of data management since 1988.
+- [2015-《Readings in Database Systems-5th》📚](http://www.redbook.io/): Readings in Database Systems (commonly known as the "Red Book") has offered readers an opinionated take on both classic and cutting-edge research in the field of data management since 1988.
 
-- [2017~Designing Data Intensive Applications》📚](https://dataintensive.net/): This book will help you navigate the diverse and fast-changing landscape of technologies for storing and processing data. We compare a broad variety of tools and approaches, so that you can see the strengths and weaknesses of each, and decide what’s best for your application.
+- [2017~《Designing Data Intensive Applications》📚](https://dataintensive.net/): This book will help you navigate the diverse and fast-changing landscape of technologies for storing and processing data. We compare a broad variety of tools and approaches, so that you can see the strengths and weaknesses of each, and decide what’s best for your application.
 
-- [2019~Database Internal》📚](https://www.databass.dev): The book consists of two parts: Storage Engines and Distributed Systems since that’s where most of the differences between the vast majority of databases is coming from.
+- [2019~《Database Internal》📚](https://www.databass.dev): The book consists of two parts: Storage Engines and Distributed Systems since that’s where most of the differences between the vast majority of databases is coming from.
 
 ### SQL
 
-- [2018~SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL-4th Edition》📚](https://parg.co/oUa): SQL Queries for Mere Mortals has earned worldwide praise as the clearest, simplest tutorial on writing effective queries with the latest SQL standards and database applications. Now, author John L. Viescas has updated this hands-on classic with even more advanced and valuable techniques.
+- [2018~《SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL-4th Edition》📚](https://parg.co/oUa): SQL Queries for Mere Mortals has earned worldwide praise as the clearest, simplest tutorial on writing effective queries with the latest SQL standards and database applications. Now, author John L. Viescas has updated this hands-on classic with even more advanced and valuable techniques.
 
-- [2019~How to Teach People SQL》📚](https://dataschool.com/how-to-teach-people-sql/): This book will help you empathize with people learning SQL for the first time.
+- [2019~《How to Teach People SQL》📚](https://dataschool.com/how-to-teach-people-sql/): This book will help you empathize with people learning SQL for the first time.
 
-- [2019~Learn SQL》📚](https://dataschool.com/learn-sql/): Welcome to our PostgreSQL interactive SQL Tutorial! We’ve designed this specifically for tech-savvy folks to learn enough SQL to be able to do their own analysis and data fetching.
+- [2019~《Learn SQL》📚](https://dataschool.com/learn-sql/): Welcome to our PostgreSQL interactive SQL Tutorial! We’ve designed this specifically for tech-savvy folks to learn enough SQL to be able to do their own analysis and data fetching.
 
-- [2019~SQL Optimization》📚](https://dataschool.com/sql-optimization/): Get exposed to the most common techniques for improving query speed and database performance. Learn how to optimize queries by modifying SQL. Understand how indexes work and when to apply them.
+- [2019~《SQL Optimization》📚](https://dataschool.com/sql-optimization/): Get exposed to the most common techniques for improving query speed and database performance. Learn how to optimize queries by modifying SQL. Understand how indexes work and when to apply them.
 
 ### Datawarehouse
 
-- [2019~Cloud Data Management》📚](https://dataschool.com/data-governance/): Learn how to manage your data stack and set up processes to get the most out of your data in your organization.
+- [2019~《Cloud Data Management》📚](https://dataschool.com/data-governance/): Learn how to manage your data stack and set up processes to get the most out of your data in your organization.
 
 ## Collection
 

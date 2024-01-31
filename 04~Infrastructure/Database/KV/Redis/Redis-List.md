@@ -43,3 +43,5 @@
 - [2019~Redis Manager ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ngbdf/redis-manager): Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作。
 
 - [2019~Medis ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/luin/medis): 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
+
+- [2023~Tiny RDM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tiny-craft/tiny-rdm)](https://github.com/tiny-craft/tiny-rdm): Tiny RDM is a modern lightweight cross-platform Redis desktop manager available for Mac, Windows, and Linux.

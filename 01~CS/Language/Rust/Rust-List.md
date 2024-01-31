@@ -105,3 +105,5 @@ This file aggregates curated popular links for learning Rust. More reference abo
 - [2018~Writing a Microservice in Rust #Series#](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/): Let me begin this article on Writing a Microservice in Rust by talking about C++.
 
 - [2023~Learn Rust 101 #Series#](https://github.com/plabayo/learn-rust-101): A guide to aid you in your journey of becoming a Rustacean (Rust developer).
+
+- [2023~Mini-LSM #Series#](https://skyzh.github.io/mini-lsm/00-preface.html): In this tutorial, you will learn how to build a simple LSM-Tree storage engine in the Rust programming language. Build a simple key-value storage engine in a week.

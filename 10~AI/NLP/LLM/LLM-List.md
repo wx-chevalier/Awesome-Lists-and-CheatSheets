@@ -19,3 +19,5 @@
 ## Courses
 
 - [2023~mlabonne/llm-course ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mlabonne/llm-course)](https://github.com/mlabonne/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+
+- [2023~Hands-on LLMs Course: Learn to Train and Deploy a Real-Time Financial Advisor ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/iusztinpaul/hands-on-llms)](https://github.com/iusztinpaul/hands-on-llms): 🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴

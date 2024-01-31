@@ -70,7 +70,9 @@
 
 - [2020~fe interview](https://github.com/haizlin/fe-interview): 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上 5 点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖。
 
-- [2020~frontend-challenges ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/felipefialho/frontend-challenges): 💥 Listing some playful open-source's challenges of jobs to test your knowledge
+- [2020~frontend-challenges ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/felipefialho/frontend-challenges): 💥 Listing some playful open-source's challenges of jobs to test your knowledge.
+
+- [2021~Web-dev-mini-projects ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Ayushparikh-code/Web-dev-mini-projects)](https://github.com/Ayushparikh-code/Web-dev-mini-projects): The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!
 
 ## Courses | 课程
 
