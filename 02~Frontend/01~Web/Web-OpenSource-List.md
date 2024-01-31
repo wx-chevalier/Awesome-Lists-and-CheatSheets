@@ -102,6 +102,8 @@
 
 - [CSS Blocks ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/linkedin/css-blocks): CSS Blocks is an ergonomic, component-oriented CSS authoring system that compiles to high-performance stylesheets.
 
+- [2023~Open-Props ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/argyleink/open-props)](https://github.com/argyleink/open-props): CSS custom properties to help accelerate adaptive and consistent design.
+
 ## State Management
 
 - [Recoil ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebookexperimental/Recoil): Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.

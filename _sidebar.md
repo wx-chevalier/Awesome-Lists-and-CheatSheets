@@ -228,8 +228,9 @@
               - [2.2.3.9.3.2.2 Vector Search List](/01~CS/AlgoDS/Category/Optimization/Search/Vector%20Search/Vector-Search-List.md)
         - [2.2.3.10 Sort List](/01~CS/AlgoDS/Category/Sort-List.md)
         - [2.2.3.11 String List](/01~CS/AlgoDS/Category/String-List.md)
-        - 2.2.3.12 Tree [1]
-          - [2.2.3.12.1 Tree List](/01~CS/AlgoDS/Category/Tree/Tree-List.md)
+        - 2.2.3.12 Tree [2]
+          - [2.2.3.12.1 LSM Tree List](/01~CS/AlgoDS/Category/Tree/LSM%20Tree-List.md)
+          - [2.2.3.12.2 Tree List](/01~CS/AlgoDS/Category/Tree/Tree-List.md)
     - [2.3 CS List](/01~CS/CS-List.md)
     - 2.4 DesignPattern [6]
       - 2.4.1 Concurrent [4]
