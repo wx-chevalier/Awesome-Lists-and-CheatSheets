@@ -55,3 +55,7 @@
 - [Graphite ![code](https://ng-tech.icu/assets/code.svg)](https://graphiteapp.org/): Graphite is an enterprise-ready monitoring tool that runs equally well on cheap hardware or Cloud infrastructure.
 
 - [2016~statsd ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/etsy/statsd): Daemon for easy but powerful stats aggregation.
+
+# Notification
+
+- [2023~Apprise ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/caronc/apprise)](https://github.com/caronc/apprise): Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc.

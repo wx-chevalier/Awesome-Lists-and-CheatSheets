@@ -26,13 +26,15 @@
 
 - [2023~adrianhajdin/threads ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/adrianhajdin/threads)](https://github.com/adrianhajdin/threads): Develop Threads, Next.js 13 app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever!
 
-- [vercel/commerce ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/vercel/commerce)](https://github.com/vercel/commerce): A Next.js 13 and App Router-ready ecommerce template featuring.
+- [2023~vercel/commerce ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/vercel/commerce)](https://github.com/vercel/commerce): A Next.js 13 and App Router-ready ecommerce template featuring.
 
 - [2023~notion-clone-tutorial ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/AntonioErdeljac/notion-clone-tutorial)](https://github.com/AntonioErdeljac/notion-clone-tutorial): This is a repository for Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind | Full Course 2023.
 
 - [2023~Next.js Email Client ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/leerob/nextjs-postgres-email-client)](https://github.com/leerob/nextjs-postgres-email-client): This is a simple email client built with Next.js and Postgres. It's built to show off some of the features of the App Router, which enable you to build products.
 
 - [2023~digitalhippo ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/joschan21/digitalhippo)](https://github.com/joschan21/digitalhippo): A Modern Fullstack E-Commerce Marketplace for Digital Products.
+
+- [2023~Plura ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/webprodigies/plura-production)](https://github.com/webprodigies/plura-production): SaaS Website Builder, Project Management And Dashboard With Stripe using Nextjs14, Bun, Stripe Connect, Prisma, MySQL, Tailwind.
 
 ## Library
 
