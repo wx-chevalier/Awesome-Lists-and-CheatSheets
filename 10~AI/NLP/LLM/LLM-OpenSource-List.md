@@ -68,3 +68,7 @@
 ## LLMOps
 
 - [2023~Dify ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/langgenius/dify)](https://github.com/langgenius/dify): Dify is an easy-to-use LLMOps platform designed to empower more people to create sustainable, AI-native applications. With visual orchestration for various application types, Dify offers out-of-the-box, ready-to-use applications that can also serve as Backend-as-a-Service APIs. Unify your development process with one API for plugins and datasets integration, and streamline your operations using a single interface for prompt engineering, visual analytics, and continuous improvement.
+
+# 端侧大模型
+
+- [2023~OpenBMB/MiniCPM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/OpenBMB/MiniCPM)](https://github.com/OpenBMB/MiniCPM): MiniCPM 是面壁智能与清华大学自然语言处理实验室共同开源的系列端侧大模型，主体语言模型 MiniCPM-2B 仅有 24 亿（2.4B）的非词嵌入参数量。

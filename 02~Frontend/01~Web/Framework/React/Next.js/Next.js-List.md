@@ -36,6 +36,8 @@
 
 - [2023~Plura ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/webprodigies/plura-production)](https://github.com/webprodigies/plura-production): SaaS Website Builder, Project Management And Dashboard With Stripe using Nextjs14, Bun, Stripe Connect, Prisma, MySQL, Tailwind.
 
+- [2024~figma_clone ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/adrianhajdin/figma_clone)](https://github.com/adrianhajdin/figma_clone): Figma Clone using Next.js, Fabric.js and Liveblocks in TypeScript
+
 ## Library
 
 - [2023~Platforms Starter Kit ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/vercel/platforms)](https://github.com/vercel/platforms): A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
