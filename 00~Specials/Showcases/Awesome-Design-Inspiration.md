@@ -1,6 +1,8 @@
 # Awesome Designs
 
-- [design-resources-for-developers 🗃️](https://github.com/bradtraversy/design-resources-for-developers): Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+- [design-resources-for-developers 🗃️](https://github.com/bradtraversy/design-resources-for-developers): Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more.
+
+- [Web design inspiration catalog](https://www.curated.design/): Unleash your creativity with out-of-this-world web design inspiration from across the web.
 
 # Happy Birthday
 

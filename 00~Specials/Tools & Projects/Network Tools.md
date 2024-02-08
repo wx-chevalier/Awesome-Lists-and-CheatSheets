@@ -2,6 +2,8 @@
 
 - [gping ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/orf/gping): Ping, but with a graph.
 
+- [2023~NetBox ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/netbox-community/netbox)](https://github.com/netbox-community/netbox): NetBox exists to empower network engineers. Since its release in 2016, it has become the go-to solution for modeling and documenting network infrastructure for thousands of organizations worldwide. As a successor to legacy IPAM and DCIM applications, NetBox provides a cohesive, extensive, and accessible data model for all things networked. By providing a single robust user interface and programmable APIs for everything from cable maps to device configurations, NetBox serves as the central source of truth for the modern network.
+
 # Proxy
 
 - [Light Proxy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alibaba/lightproxy): 💎 Web debugging proxy with one-click certificate install & system proxy.

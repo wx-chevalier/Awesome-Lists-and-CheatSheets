@@ -44,6 +44,10 @@
 
 - [naive](https://github.com/hsiaosiyuan0/naive): This is a naive JavaScript engine implemented in pure Rust to improve my JavaScript knowledge.
 
+## Python Engine
+
+- [2023~RustPython ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/RustPython/RustPython)](https://github.com/RustPython/RustPython): A Python Interpreter written in Rust
+
 ## OpenGL
 
 - [2022~Stl-thumb ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/unlimitedbacon/stl-thumb)](https://github.com/unlimitedbacon/stl-thumb): Stl-thumb is a fast lightweight thumbnail generator for STL files. It can show previews for STL files in your file manager on Linux and Windows. It is written in Rust and uses OpenGL.
