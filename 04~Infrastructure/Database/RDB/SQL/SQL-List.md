@@ -20,6 +20,8 @@
 
 - [Lost at SQL: The SQL learning game #Series#](https://lost-at-sql.therobinlord.com/): A SQL learning game by Robin Lord to help you pick up basic SQL skills - so that you can use queries to get information.
 
+- [2023~SQL for the Weary #Series#](https://gvwilson.github.io/sql-tutorial/): notes and working examples that instructors can use to perform a lesson, do not expect novices with no prior SQL experience to be able to learn from them.
+
 # Schema Design
 
 - [Tutorial: Step by Step Database Design in SQL](https://www.linkedin.com/pulse/tutorial-step-database-design-sql-david-mccaldin): Database Design and Implementation is applicable for whatever industry your in. Here is a step by step approach to designing and implementing a database in your organisation, using specific data from a sweet shop case study I implemented during my M.Sc. in Software & Information Systems.
