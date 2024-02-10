@@ -8,7 +8,9 @@
 
 - [2019~BigDataGuide 📚 ![star](https://img.shields.io/github/stars/MoRan1607/BigDataGuide)](https://github.com/MoRan1607/BigDataGuide): 大数据学习指南，从零开始学习大数据开发，包含大数据学习各个阶段资汇总。
 
-- [2022~妙趣横生大数据 Juicy Big Data 📚 ![star](https://img.shields.io/github/stars/datawhalechina/juicy-bigdata) 📚](https://github.com/datawhalechina/juicy-bigdata): 当今的时代处处充斥着大数据的影子，大数据技术也为信息技术发展带来了重大的变革，并深刻影响着人们生活的方方面面。而我们旨在带领大家走进大数据时代的浪潮中，理解并能够使用目前主流的大数据处理架构 Hadoop 解决相应的问题，从小白到实践者。
+- [2022~《妙趣横生大数据 Juicy Big Data》 📚 ![star](https://img.shields.io/github/stars/datawhalechina/juicy-bigdata) 📚](https://github.com/datawhalechina/juicy-bigdata): 当今的时代处处充斥着大数据的影子，大数据技术也为信息技术发展带来了重大的变革，并深刻影响着人们生活的方方面面。而我们旨在带领大家走进大数据时代的浪潮中，理解并能够使用目前主流的大数据处理架构 Hadoop 解决相应的问题，从小白到实践者。
+
+- [2023~《Data Structures for Data-Intensive Applications: Tradeoffs and Design Guidelines》](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf): This book outlines the underlying design dimensions of data structures and shows how they can be combined to support (or fail to support) various workloads.
 
 ## Collection
 
