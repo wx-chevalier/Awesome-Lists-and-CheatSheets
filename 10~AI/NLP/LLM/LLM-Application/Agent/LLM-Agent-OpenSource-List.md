@@ -18,6 +18,8 @@
 
 - [2023~OpenBMB/XAgent ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/OpenBMB/XAgent)](https://github.com/OpenBMB/XAgent): XAgent is an open-source experimental Large Language Model (LLM) driven autonomous agent that can automatically solve various tasks. It is designed to be a general-purpose agent that can be applied to a wide range of tasks. Currently, XAgent is still in its early stage, and we are working hard to improve it.
 
+- [2023~Phidata ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/phidatahq/phidata)](https://github.com/phidatahq/phidata): Phidata is a toolkit for building AI Assistants using function calling. Function calling enables LLMs to achieve tasks by calling functions and intelligently choosing their next step based on the response, just like how humans solve problems.
+
 # AI Town
 
 - [2023~a16z-infra/ai-town ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/a16z-infra/ai-town)](https://github.com/a16z-infra/ai-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
