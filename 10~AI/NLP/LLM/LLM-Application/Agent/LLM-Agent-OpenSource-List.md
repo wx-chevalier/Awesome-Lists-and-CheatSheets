@@ -20,6 +20,8 @@
 
 - [2023~Phidata ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/phidatahq/phidata)](https://github.com/phidatahq/phidata): Phidata is a toolkit for building AI Assistants using function calling. Function calling enables LLMs to achieve tasks by calling functions and intelligently choosing their next step based on the response, just like how humans solve problems.
 
+- [2024~Agentkit ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/BCG-X-Official/agentkit)](https://github.com/BCG-X-Official/agentkit): AgentKit is a LangChain-based starter kit developed by BCG X to build Agent apps. Developers can use AgentKit to Quickly experiment on your constrained agent architecture with a beautiful UI.
+
 # AI Town
 
 - [2023~a16z-infra/ai-town ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/a16z-infra/ai-town)](https://github.com/a16z-infra/ai-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.

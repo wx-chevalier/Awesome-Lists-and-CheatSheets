@@ -7,3 +7,7 @@
 - [2023~LobeChat ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lobehub/lobe-chat)](https://github.com/lobehub/lobe-chat): LobeChat is a open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
 
 - [2023~Jan ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/janhq/jan)](https://github.com/janhq/jan): Jan is an open-source ChatGPT alternative that runs 100% offline on your computer.
+
+# Local LLM Apps
+
+- [2023~Reor ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/reorproject/reor)](https://github.com/reorproject/reor): Reor is an AI-powered desktop note-taking app: it automatically links related ideas, answers questions on your notes and provides semantic search. Everything is stored locally and you can edit your notes with an Obsidian-like markdown editor.

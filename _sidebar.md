@@ -8,9 +8,10 @@
       - [1.2.5 Awesome PDF Books](/00~Specials/Collections/Awesome-PDF-Books.md)
       - [1.2.6 Awesome Scholar](/00~Specials/Collections/Awesome-Scholar.md)
       - [1.2.7 Awesome Vision](/00~Specials/Collections/Awesome-Vision.md)
-    - 1.3 DateSets [2]
+    - 1.3 DateSets [3]
       - [1.3.1 Awesome 3D Models](/00~Specials/DateSets/Awesome-3D-Models.md)
       - [1.3.2 Awesome DataSets](/00~Specials/DateSets/Awesome-DataSets.md)
+      - [1.3.3 Awesome Hardware](/00~Specials/DateSets/Awesome-Hardware.md)
     - 1.4 Showcases [7]
       - [1.4.1 Awesome Animations](/00~Specials/Showcases/Awesome-Animations.md)
       - [1.4.2 Awesome Apps](/00~Specials/Showcases/Awesome-Apps.md)
@@ -22,13 +23,15 @@
         - [1.4.7.1 Awesome DataVis](/00~Specials/Showcases/DataVision/Awesome-DataVis.md)
         - [1.4.7.2 Flower](/00~Specials/Showcases/DataVision/Flower.md)
         - [1.4.7.3 Hack Effect](/00~Specials/Showcases/DataVision/Hack%20Effect.md)
-    - [1.5 Tools & Projects [35]](/00~Specials/Tools%20&%20Projects/README.md)
+    - [1.5 Tools & Projects [34]](/00~Specials/Tools%20&%20Projects/README.md)
       - [1.5.1 Automation](/00~Specials/Tools%20&%20Projects/Automation.md)
       - [1.5.2 Awesome Tools](/00~Specials/Tools%20&%20Projects/Awesome-Tools.md)
       - [1.5.3 Chat](/00~Specials/Tools%20&%20Projects/Chat.md)
-      - [1.5.4 Design [2]](/00~Specials/Tools%20&%20Projects/Design)
-        - [1.5.4.1 Resume List](/00~Specials/Tools%20&%20Projects/Design/Resume-List.md)
-        - [1.5.4.2 个人网站](/00~Specials/Tools%20&%20Projects/Design/个人网站.md)
+      - 1.5.4 Design [4]
+        - [1.5.4.1 Design Tools](/00~Specials/Tools%20&%20Projects/Design/Design%20Tools.md)
+        - [1.5.4.2 Resume List](/00~Specials/Tools%20&%20Projects/Design/Resume-List.md)
+        - [1.5.4.3 个人网站](/00~Specials/Tools%20&%20Projects/Design/个人网站.md)
+        - [1.5.4.4 随机头像](/00~Specials/Tools%20&%20Projects/Design/随机头像.md)
       - [1.5.5 Dev IDE](/00~Specials/Tools%20&%20Projects/Dev-IDE.md)
       - [1.5.6 Dev Ops](/00~Specials/Tools%20&%20Projects/Dev-Ops.md)
       - [1.5.7 Dev PaaS](/00~Specials/Tools%20&%20Projects/Dev-PaaS.md)

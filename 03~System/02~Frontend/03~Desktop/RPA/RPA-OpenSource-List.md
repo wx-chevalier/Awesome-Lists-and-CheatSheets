@@ -25,3 +25,7 @@
   - [2023~wxhelper ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ttttupup/wxhelper)](https://github.com/ttttupup/wxhelper): Hook WeChat / 微信逆向
 
 - [2023~WeChat-Hook ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/aixed/WeChat-Hook)](https://github.com/aixed/WeChat-Hook): PC wechat robot interface [wechat Hook] / PC 微信 3.8.0.41 接口 微信 Hook 微信机器人 微信 Hook 源码 PC 微信协议算法.
+
+# Windows
+
+- [2024~microsoft/UFO ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/microsoft/UFO)](https://github.com/microsoft/UFO): UFO is a UI-Focused dual-agent framework to fulfill user requests on Windows OS by seamlessly navigating and operating within individual or spanning multiple applications.
