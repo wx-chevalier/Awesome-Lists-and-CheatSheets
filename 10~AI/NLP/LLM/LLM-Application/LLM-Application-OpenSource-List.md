@@ -11,3 +11,5 @@
 # Local LLM Apps
 
 - [2023~Reor ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/reorproject/reor)](https://github.com/reorproject/reor): Reor is an AI-powered desktop note-taking app: it automatically links related ideas, answers questions on your notes and provides semantic search. Everything is stored locally and you can edit your notes with an Obsidian-like markdown editor.
+
+- [2023~Ollama ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ollama/ollama)](https://github.com/ollama/ollama): Get up and running with large language models locally.

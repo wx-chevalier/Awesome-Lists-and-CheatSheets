@@ -62,7 +62,7 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 - [2021~React Tracked ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dai-shi/react-tracked): State usage tracking with Proxies. Optimize re-renders for useState/useReducer, React Redux, Zustand and others.
 
-- [2021~million ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/aidenybai/million)](https://github.com/aidenybai/million): Million is an extremely fast and lightweight (<4kb) virtual DOM that makes React components up to 70% faster.
+- [2021~Million ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/aidenybai/million)](https://github.com/aidenybai/million): Million is an extremely fast and lightweight (<4kb) virtual DOM that makes React components up to 70% faster.
 
 # Development Libraries
 
