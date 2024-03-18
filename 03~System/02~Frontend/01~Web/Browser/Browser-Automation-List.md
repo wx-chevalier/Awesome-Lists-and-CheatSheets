@@ -39,3 +39,7 @@ Browser Automation 即所谓的自动化浏览器或者能够以脚本等方式�
 - [Horseman](https://github.com/johntitus/node-horseman):Run PhantomJS from Node
 
 # JSDOM
+
+# LLM
+
+- [Skyvern-AI/skyvern ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Skyvern-AI/skyvern)](https://github.com/Skyvern-AI/skyvern): Skyvern automates browser-based workflows using LLMs and computer vision. It provides a simple API endpoint to fully automate manual workflows, replacing brittle or unreliable automation solutions.

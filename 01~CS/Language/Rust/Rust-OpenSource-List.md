@@ -92,6 +92,10 @@
 
 - [SQLx ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/launchbadge/sqlx): SQLx is a modern SQL client built from the ground up for Rust, in Rust.
 
+## Network
+
+- [2024~Pingora ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/cloudflare/pingora)](https://github.com/cloudflare/pingora): A library for building fast, reliable and evolvable network services.
+
 ## Web Framework
 
 - [Rustless ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rustless/rustless): Rustless is a REST-like API micro-framework for Rust. It's designed to provide a simple DSL to easily develop RESTful APIs on top of the Iron web framework.

@@ -93,3 +93,7 @@
 - [2021~Gradio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gradio-app/gradio)](https://github.com/gradio-app/gradio): Gradio is an open-source Python library that is used to build machine learning and data science demos and web applications.
 
 - [Streamlit ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/streamlit/streamlit): Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts.
+
+- [2024~Avaiga/taipy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Avaiga/taipy)](https://github.com/Avaiga/taipy): Taipy is an open-source Python library for easy, end-to-end application development, featuring what-if analyses, smart pipeline execution, built-in scheduling, and deployment tools.
+
+- [2024~r0x0r/pywebview ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/r0x0r/pywebview)](https://github.com/r0x0r/pywebview): pywebview is a lightweight cross-platform wrapper around a webview component that allows to display HTML content in its own native GUI window. It gives you power of web technologies in your desktop application, hiding the fact that GUI is browser based. Available for Windows, macOS, Linux and Android. You can use pywebview either with a 3rd party web framework or on its own with a two way bridge between Python and DOM.

@@ -1,6 +1,4 @@
-# Browser
-
-# OpenSource
+# Browser OpenSource
 
 - [browsh ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/browsh-org/browsh): A fully interactive, realtime, and modern text-based browser rendered to TTYs and browsers
 

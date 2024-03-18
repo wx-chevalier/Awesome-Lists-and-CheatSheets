@@ -44,6 +44,8 @@
 
 - [2023~One-2-3-45 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/One-2-3-45/One-2-3-45)](https://github.com/One-2-3-45/One-2-3-45): One-2-3-45 rethinks how to leverage 2D diffusion models for 3D AIGC and introduces a novel forward-only paradigm that avoids time-consuming optimization.
 
+- [2023~TripoSR ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/VAST-AI-Research/TripoSR)](https://github.com/VAST-AI-Research/TripoSR): This is the official codebase for TripoSR, a state-of-the-art open-source model for fast feedforward 3D reconstruction from a single image, collaboratively developed by Tripo AI and Stability AI.
+
 ## Human Head Reconstruction
 
 - [SizheAn/PanoHead ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/SizheAn/PanoHead)](https://github.com/SizheAn/PanoHead): Code Repository for CVPR 2023 Paper "PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 degree"

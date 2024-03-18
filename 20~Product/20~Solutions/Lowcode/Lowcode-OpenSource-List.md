@@ -28,6 +28,8 @@
 
 - [2023~undb ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/undb-xyz/undb)](https://github.com/undb-xyz/undb): 🚀 Private first, unified, self-hosted no code database.
 
+- [2023~teableio/teable ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/teableio/teable)](https://github.com/teableio/teable): ✨ A Super fast, Real-time, Professional, Developer friendly, No code database
+
 # MIS & Report | 信息系统与报表
 
 - [2017~amis ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/baidu/amis): 一种基于特定 JSON 格式生成 MIS 页面的工具。
