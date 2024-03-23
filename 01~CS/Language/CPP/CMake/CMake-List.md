@@ -8,6 +8,8 @@
 
 - [2022~《Modern CMake》📚](https://cliutils.gitlab.io/modern-cmake/): In short, here are the most likely questions in your mind if you are considering Modern CMake:
 
+- [2023~《An Introduction to Modern CMake》📚](https://cliutils.gitlab.io/modern-cmake/): I'm talking about Modern CMake. CMake 3.5+, maybe even CMake 3.28+! It's clean, powerful, and elegant, so you can spend most of your time coding, not adding lines to an unreadable, unmaintainable Make (Or CMake 2) file. And CMake 3.11+ is supposed to be significantly faster, as well!
+
 # Make
 
 - [2022~make](https://www.gnu.org/software/make/manual/make.html): This file documents the GNU make utility, which determines automatically which pieces of a large program need to be recompiled, and issues the commands to recompile them.

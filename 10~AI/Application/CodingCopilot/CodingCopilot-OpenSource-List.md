@@ -11,3 +11,5 @@
 - [2023~ReactAgent ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/eylonmiz/react-agent)](https://github.com/eylonmiz/react-agent): ReactAgent is an experimental autonomous agent that uses GPT-4 language model to generate and compose React components from user stories. It is built with React, TailwindCSS, Typescript, Radix UI, Shandcn UI, and OpenAI API.
 
 - [2023~Magicoder ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ise-uiuc/magicoder)](https://github.com/ise-uiuc/magicoder): 🎩Magicoder is a model family empowered by 🪄OSS-Instruct, a novel approach to enlightening LLMs with open-source code snippets for generating low-bias and high-quality instruction data for code.
+
+- [2023~Auto Dev ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/unit-mesh/auto-dev)](https://github.com/unit-mesh/auto-dev): 🧙‍AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Document/Agent feature 🧪 included! 🚀
