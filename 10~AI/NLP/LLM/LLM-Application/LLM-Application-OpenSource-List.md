@@ -8,6 +8,8 @@
 
 - [2023~Jan ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/janhq/jan)](https://github.com/janhq/jan): Jan is an open-source ChatGPT alternative that runs 100% offline on your computer.
 
+- [2024~llm-answer-engine ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/developersdigest/llm-answer-engine)](https://github.com/developersdigest/llm-answer-engine): Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper
+
 # Local LLM Apps
 
 - [2023~Reor ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/reorproject/reor)](https://github.com/reorproject/reor): Reor is an AI-powered desktop note-taking app: it automatically links related ideas, answers questions on your notes and provides semantic search. Everything is stored locally and you can edit your notes with an Obsidian-like markdown editor.

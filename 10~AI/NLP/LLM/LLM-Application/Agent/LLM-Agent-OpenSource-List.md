@@ -22,6 +22,8 @@
 
 - [2024~Agentkit ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/BCG-X-Official/agentkit)](https://github.com/BCG-X-Official/agentkit): AgentKit is a LangChain-based starter kit developed by BCG X to build Agent apps. Developers can use AgentKit to Quickly experiment on your constrained agent architecture with a beautiful UI.
 
+- [2024~Codel ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/semanser/codel)](https://github.com/semanser/codel): ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.
+
 # AI Town
 
 - [2023~a16z-infra/ai-town ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/a16z-infra/ai-town)](https://github.com/a16z-infra/ai-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.

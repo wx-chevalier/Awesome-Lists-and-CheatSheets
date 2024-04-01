@@ -226,6 +226,8 @@
 
 # Tuning | 性能调优
 
+- [2024~Jampack ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/divriots/jampack)](https://github.com/divriots/jampack): Optimizes static websites for best user experience and best Core Web Vitals scores.
+
 ## APM
 
 - [LagRadar ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mobz/lag-radar): Add this to any javascript application and you can see when the app drops below 60fps as the radar sweep changes colour and gets janky.
