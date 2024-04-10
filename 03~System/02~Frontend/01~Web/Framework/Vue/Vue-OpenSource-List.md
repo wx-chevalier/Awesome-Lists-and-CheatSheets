@@ -1,4 +1,4 @@
-# Vue.js OpenSouce List
+# Vue.js OpenSource List
 
 # Showcases
 
@@ -17,6 +17,8 @@
 - [Vuido ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mimecorg/vuido): Create native desktop applications for Windows, OS X and Linux using Vue.js.
 
 - [2022~vue3-music ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/SmallRuralDog/vue3-music): VUE3+TS 开发的音乐播放器，界面模仿 QQ 音乐 mac 客户端，支持黑夜模式
+
+- [2024~Douyin-Vue ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/zyronon/douyin)](https://github.com/zyronon/douyin): douyin-vue 是一个模仿 抖音|TikTok 的移动端短视频项目，它基于 Vue、Vite 实现。使用了最新的 Vue 全家桶技术栈。Api 数据保存在项目本地，视频采集自抖音|TikTok，图集采集自小红书|Xiaohongshu，通过 axios-mock-adapter 库拦截 Api 并返回本地 json 数据，模拟出真实的后端请求
 
 ## Admin Template
 

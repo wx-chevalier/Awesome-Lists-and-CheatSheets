@@ -26,6 +26,8 @@
 
 - [2022~Jpom ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dromara/Jpom)](https://github.com/dromara/Jpom): 简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件。
 
+- [2024~OneUptime ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/OneUptime/oneuptime)](https://github.com/OneUptime/oneuptime): OneUptime is a comprehensive solution for monitoring and managing your online services. Whether you need to check the availability of your website, dashboard, API, or any other online resource, OneUptime can alert your team when downtime happens and keep your customers informed with a status page. OneUptime also helps you handle incidents, set up on-call rotations, run tests, secure your services, analyze logs, track performance, and debug errors.
+
 ## End-to-End Monitor
 
 - [2021~Monika ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hyperjumptech/monika): Monika is a command line application to monitor every part of your web app using a simple JSON configuration file. Get alert not only when your site is down but also when it's slow.

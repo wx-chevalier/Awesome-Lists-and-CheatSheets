@@ -51,3 +51,5 @@
 - [2023~Wowu/docker-rollout ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Wowu/docker-rollout)](https://github.com/Wowu/docker-rollout): Docker CLI plugin that updates Docker Compose services without downtime.
 
 - [2023~dockge ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/louislam/dockge)](https://github.com/louislam/dockge): A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager.
+
+- [2024~Runtipi ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/runtipi/runtipi)](https://github.com/runtipi/runtipi): Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨

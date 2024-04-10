@@ -7,3 +7,5 @@
 - [2022~pgvector ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/pgvector/pgvector)](https://github.com/pgvector/pgvector): Open-source vector similarity search for Postgres.
 
 - [2024~PGlite ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/electric-sql/pglite)](https://github.com/electric-sql/pglite): PGlite is a WASM Postgres build packaged into a TypeScript client library that enables you to run Postgres in the browser, Node.js and Bun, with no need to install any other dependencies. It is only 3.7mb gzipped.
+
+- [2024~pgmock ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/stackframe-projects/pgmock)](https://github.com/stackframe-projects/pgmock): pgmock is an in-memory PostgreSQL mock server for unit and E2E tests. It requires no external dependencies and runs entirely within WebAssembly on both Node.js and the browser.

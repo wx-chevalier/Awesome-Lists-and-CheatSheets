@@ -15,3 +15,5 @@
 - [2023~Reor ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/reorproject/reor)](https://github.com/reorproject/reor): Reor is an AI-powered desktop note-taking app: it automatically links related ideas, answers questions on your notes and provides semantic search. Everything is stored locally and you can edit your notes with an Obsidian-like markdown editor.
 
 - [2023~Ollama ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ollama/ollama)](https://github.com/ollama/ollama): Get up and running with large language models locally.
+
+- [2024~LLocalSearch ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nilsherzig/LLocalSearch)](https://github.com/nilsherzig/LLocalSearch): LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.

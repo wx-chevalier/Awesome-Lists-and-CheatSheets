@@ -15,3 +15,9 @@
 - [2023~Auto Dev ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/unit-mesh/auto-dev)](https://github.com/unit-mesh/auto-dev): 🧙‍AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Document/Agent feature 🧪 included! 🚀
 
 - [2024~OpenDevin ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/OpenDevin/OpenDevin)](https://github.com/OpenDevin/OpenDevin): Welcome to OpenDevin, an open-source project aiming to replicate Devin, an autonomous AI software engineer who is capable of executing complex engineering tasks and collaborating actively with users on software development projects. This project aspires to replicate, enhance, and innovate upon Devin through the power of the open-source community.
+
+- [2024~Plandex ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/plandex-ai/plandex)](https://github.com/plandex-ai/plandex): Plandex uses long-running agents to complete tasks that span multiple files and require many steps. It breaks up large tasks into smaller subtasks, then implements each one, continuing until it finishes the job. It helps you churn through your backlog, work with unfamiliar technologies, get unstuck, and spend less time on the boring stuff.
+
+# UI Generation
+
+- [2024~OpenUI ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/wandb/openui)](https://github.com/wandb/openui): Building UI components can be a slog. OpenUI aims to make the process fun, fast, and flexible. It's also a tool we're using at W&B to test and prototype our next generation tooling for building powerful applications on top of LLM's.

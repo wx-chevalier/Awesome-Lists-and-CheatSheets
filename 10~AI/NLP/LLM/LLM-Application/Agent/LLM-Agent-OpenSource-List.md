@@ -24,6 +24,8 @@
 
 - [2024~Codel ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/semanser/codel)](https://github.com/semanser/codel): ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.
 
+- [2024~SWE-agent ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/princeton-nlp/SWE-agent)](https://github.com/princeton-nlp/SWE-agent): SWE-agent turns LMs (e.g. GPT-4) into software engineering agents that can fix bugs and issues in real GitHub repositories.
+
 # AI Town
 
 - [2023~a16z-infra/ai-town ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/a16z-infra/ai-town)](https://github.com/a16z-infra/ai-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
