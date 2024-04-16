@@ -48,6 +48,10 @@
 
 - [mdserver-web ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/midoks/mdserver-web): 简单的 Linux 面板,感谢 BT.CN 写出如此好的 web 管理软件。我一看到，就知道这是我一直想要的页面化管理方式。复制了后台管理界面，按照自己想要的方式写了一版。
 
+## Desktop UI
+
+- [2024~FyneDesk ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/FyshOS/fynedesk)](https://github.com/FyshOS/fynedesk): FyneDesk is an easy to use Linux/Unix desktop environment following material design. It is built using the Fyne toolkit and is designed to be easy to use as well as easy to develop. We use the Go language and welcome any contributions or feedback for the project.
+
 # Shell Programming
 
 - [Bash Infinity ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/niieani/bash-oo-framework): Bash Infinity is a modern boilerplate / framework / standard library for bash

@@ -12,6 +12,8 @@
 
 - [2023~《LLMs from scratch》 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/rasbt/LLMs-from-scratch)](https://github.com/rasbt/LLMs-from-scratch): In Build a Large Language Model (from Scratch), you'll discover how LLMs work from the inside out. In this book, I'll guide you step by step through creating your own LLM, explaining each stage with clear text, diagrams, and examples.
 
+- [2024~《开源大模型食用指南》 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/datawhalechina/self-llm)](https://github.com/datawhalechina/self-llm): 本项目是一个围绕开源大模型、针对国内初学者、基于 AutoDL 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
+
 ## Collections
 
 - [2023~A Survey of Large Language Models 🗃️](https://github.com/RUCAIBox/LLMSurvey): A collection of papers and resources related to Large Language Models.

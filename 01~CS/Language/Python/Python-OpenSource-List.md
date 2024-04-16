@@ -36,6 +36,8 @@
 
 - [2022~ruff ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/charliermarsh/ruff)](https://github.com/charliermarsh/ruff): An extremely fast Python linter, written in Rust.
 
+- [2024~mtshiba/pylyzer ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mtshiba/pylyzer)](https://github.com/mtshiba/pylyzer): pylyzer is a static code analyzer / language server for Python, written in Rust.
+
 ## Tuning && Profiler
 
 - [Py-Spy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/benfred/py-spy): Py-Spy is a sampling profiler for Python programs. It lets you visualize what your Python program is spending time on without restarting the program or modifying the code in any way.
