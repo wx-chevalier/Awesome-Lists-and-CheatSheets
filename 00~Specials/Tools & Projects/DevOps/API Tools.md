@@ -8,6 +8,8 @@
 
 - [2023~Bruno ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/usebruno/bruno)](https://github.com/usebruno/bruno): usebruno/bruno Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 
+- [2024~ATAC ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Julien-cpsn/ATAC)](https://github.com/Julien-cpsn/ATAC): A simple API client (postman like) in your terminal.
+
 # API Docs
 
 - [2023~scalar ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/scalar/scalar)](https://github.com/scalar/scalar): Beautiful API references from Swagger/OpenAPI files ✨.

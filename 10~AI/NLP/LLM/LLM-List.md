@@ -18,6 +18,8 @@
 
 - [2023~A Survey of Large Language Models 🗃️](https://github.com/RUCAIBox/LLMSurvey): A collection of papers and resources related to Large Language Models.
 
+- [2024~动手学大模型应用开发 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/datawhalechina/llm-universe)](https://github.com/datawhalechina/llm-universe): 本项目是一个面向小白开发者的大模型应用开发教程，旨在基于阿里云服务器，结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门。
+
 ## Courses
 
 - [2023~mlabonne/llm-course ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mlabonne/llm-course)](https://github.com/mlabonne/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
