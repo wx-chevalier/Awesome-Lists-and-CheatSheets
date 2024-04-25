@@ -57,3 +57,5 @@
 # Visual Config
 
 - [2023~EasySpider ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/NaiboWang/EasySpider)](https://github.com/NaiboWang/EasySpider): A visual no-code/code-free web crawler/spider 一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务
+
+- [2024~mendableai/firecrawl ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mendableai/firecrawl)](https://github.com/mendableai/firecrawl): 🔥 Turn entire websites into LLM-ready markdown
