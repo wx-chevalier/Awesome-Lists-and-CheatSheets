@@ -32,7 +32,7 @@
 
 - [CaptainDuckDuck ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/githubsaturn/captainduckduck): Easiest app/database deployment platform and webserver package for your NodeJS, Python, Java applications. No Docker, nginx knowledge required!
 
-- [Coolify ![code](https://ng-tech.icu/assets/code.svg)](https://coollabs.io/coolify): An open-source, hassle-free, self-hostable Heroku & Netlify alternative
+- [2022~Coolify ![code](https://ng-tech.icu/assets/code.svg)](https://coollabs.io/coolify): An open-source, hassle-free, self-hostable Heroku & Netlify alternative
 
 - [URL to PDF Microservice ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alvarcarto/url-to-pdf-api): Web page PDF rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 

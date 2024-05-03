@@ -38,6 +38,8 @@
 
 - [2024~figma_clone ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/adrianhajdin/figma_clone)](https://github.com/adrianhajdin/figma_clone): Figma Clone using Next.js, Fabric.js and Liveblocks in TypeScript
 
+- [2024~fullstackweek-foods ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/felipemotarocha/fullstackweek-foods)](https://github.com/felipemotarocha/fullstackweek-foods): fullstackweek-foods
+
 ## Library
 
 - [2023~Platforms Starter Kit ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/vercel/platforms)](https://github.com/vercel/platforms): A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.

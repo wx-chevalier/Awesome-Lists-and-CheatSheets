@@ -1,3 +1,5 @@
 # GPU List
 
 - [2021~GPU architecture types explained](https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/): The behavior of the graphics pipeline is practically standard across platforms and APIs, yet GPU vendors come up with unique solutions to accelerate it, the two major architecture types being tile-based and immediate-mode rendering GPUs. In this article we explore how they work, present their strengths/weaknesses, and discuss some of the implications the underlying GPU architecture may have on the efficiency of certain rendering algorithms.
+
+- [2024~adam-maj/tiny-gpu ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/adam-maj/tiny-gpu)](https://github.com/adam-maj/tiny-gpu): A minimal GPU implementation in Verilog optimized for learning about how GPUs work from the ground up. Built with <15 files of fully documented Verilog, complete documentation on architecture & ISA, working matrix addition/multiplication kernels, and full support for kernel simulation & execution traces.

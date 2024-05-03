@@ -31,3 +31,5 @@
 # Others
 
 - [Datashader ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pyviz/datashader): Datashader is a data rasterization pipeline for automating the process of creating meaningful representations of large amounts of data.
+
+- [2023~Open MCT ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nasa/openmct)](https://github.com/nasa/openmct): Open MCT (Open Mission Control Technologies) is a next-generation mission control framework for visualization of data on desktop and mobile devices. It is developed at NASA's Ames Research Center, and is being used by NASA for data analysis of spacecraft missions, as well as planning and operation of experimental rover systems. As a generalizable and open source framework, Open MCT could be used as the basis for building applications for planning, operation, and analysis of any systems producing telemetry data.

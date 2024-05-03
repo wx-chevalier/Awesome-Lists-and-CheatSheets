@@ -90,6 +90,8 @@
 
 - [dagster ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dagster-io/dagster): A data orchestrator for machine learning, analytics, and ETL.
 
+- [2023~Hamilton ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/DAGWorks-Inc/hamilton)](https://github.com/DAGWorks-Inc/hamilton): The general purpose micro-orchestration framework for building dataflows from python functions. Express data, ML, LLM pipelines/workflows, and web requests in a simple declarative manner. Hamilton also comes with a UI to visualize, catalog, and monitor your dataflows.
+
 ## ETL
 
 - [awesome-etl ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pawl/awesome-etl#workflow-managementengines): A curated list of awesome ETL frameworks, libraries, and software.

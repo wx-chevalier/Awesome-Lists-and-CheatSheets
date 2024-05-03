@@ -10,6 +10,8 @@
 
 - [2024~ATAC ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Julien-cpsn/ATAC)](https://github.com/Julien-cpsn/ATAC): A simple API client (postman like) in your terminal.
 
+- [Hurl ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Orange-OpenSource/hurl): Hurl is a command line tool that runs HTTP requests defined in a simple plain text format.
+
 # API Docs
 
 - [2023~scalar ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/scalar/scalar)](https://github.com/scalar/scalar): Beautiful API references from Swagger/OpenAPI files ✨.

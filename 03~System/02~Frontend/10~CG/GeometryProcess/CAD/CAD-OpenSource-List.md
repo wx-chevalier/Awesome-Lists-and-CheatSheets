@@ -42,6 +42,8 @@
 
   - [lingochen/wings3d ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lingochen/wings3d)](https://github.com/lingochen/wings3d): Wings3D in a browser. Wings3D is an advanced subdivision modeler that is both powerful and easy to use..
 
+- [2024~ShapeUp-public ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/danielchasehooper/ShapeUp-public)](https://github.com/danielchasehooper/ShapeUp-public): A 3D Modeling tool using constructive solid geometry. More information about the project on my website
+
 # Rust CAD
 
 - [2022~Fornjot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hannobraun/fornjot)](https://github.com/hannobraun/fornjot): Fornjot is an early-stage b-rep CAD kernel written in the Rust programming language.

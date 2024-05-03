@@ -27,3 +27,5 @@
 - [Clojure By Example](http://kimh.github.io/clojure-by-example/#about-this-page): Recently, I needed to learn this completely new language Clojure but couldn't find what I wanted. So, I decided to create one while learning Clojure.
 
 - [2014-Clojure Koans ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/functional-koans/clojure-koans)](https://github.com/functional-koans/clojure-koans): The Clojure Koans are a fun way to get started with Clojure - no experience assumed or required. Follow the instructions below to start making tests pass!
+
+- [2020~Clojure 语言入门系列视频 #Series#](https://blog.3vyd.com/blog/posts-output/2020-12-12-clojure-intro/): 课程介绍、环境搭建、数据类型、分支语句、函数定义、数据结构、递归和高阶函数、leiningen 简介等；

@@ -30,6 +30,8 @@
 
 - [wagoodman/dive ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/wagoodman/dive)](https://github.com/wagoodman/dive): A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image.
 
+- [2024~docker-phobia ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/remorses/docker-phobia)](https://github.com/remorses/docker-phobia): analyze Docker images and make them slim.
+
 # Storage | 存储
 
 - [2015-Flocker ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ClusterHQ/flocker): Flocker is an open-source Container Data Volume Manager for your Dockerized applications.

@@ -133,3 +133,5 @@
 # AI Database
 
 - [2023~EVA ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/georgia-tech-db/eva)](https://github.com/georgia-tech-db/eva): EVA is a database system for building simpler and faster AI-powered applications.
+
+- [2024~Chat2DB ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/chat2db/Chat2DB)](https://github.com/chat2db/Chat2DB): 🔥🔥🔥AI-driven data management platform Over 1 million developers are using Chat2DB.
