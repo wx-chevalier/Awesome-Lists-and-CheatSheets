@@ -56,6 +56,8 @@
 
 - [WankkoRee/eaio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/WankkoRee/eaio)](https://github.com/WankkoRee/eaio): 一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。
 
+- [2023~electron-release-server ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ArekSredzki/electron-release-server)](https://github.com/ArekSredzki/electron-release-server): A fully featured, self-hosted release server for electron applications, compatible with auto-updater.
+
 # Development Libraries
 
 - [electron-json-storage ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/electron-userland/electron-json-storage): electron-json-storage implements an API somehow similar to localStorage to write and read JSON objects to/from the operating system application data directory.
