@@ -12,6 +12,8 @@
 
 - [2022~MirrorX ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/MirrorX-Desktop/MirrorX): MirrorX is a remote desktop control tool powered by Rust. With fully open-source client and server, native E2EE support, users can build SECURITY and FAST remote control network, which is fully under control of users.
 
+- [2024~Cap ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CapSoftware/Cap)](https://github.com/CapSoftware/Cap): Effortless, instant screen sharing. Open source and cross-platform.
+
 # Virtual Browser
 
 - [2022~Neko ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/m1k1o/neko)](https://github.com/m1k1o/neko): Welcome to Neko, a self-hosted virtual browser that runs in Docker and uses WebRTC technology.

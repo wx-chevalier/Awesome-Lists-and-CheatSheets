@@ -2,6 +2,8 @@
 
 - [2023~Plane ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/makeplane/plane)](https://github.com/makeplane/plane): 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 
+- [2024~Tegon ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tegonhq/tegon)](https://github.com/tegonhq/tegon): Tegon is an AI-first, open-source issue tracking software that uses AI to smartly automate manual task, workflows or provide more context to engineers for a given task.
+
 # Software Development
 
 - [Mattermost ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mattermost/mattermost-server): Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.

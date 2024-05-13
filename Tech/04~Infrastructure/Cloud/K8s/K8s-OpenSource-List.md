@@ -8,6 +8,10 @@
 
 - [Rainbond ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/goodrain/rainbond): Rainbond 是一个云原生多云应用管理平台，使用简单，不需要懂容器、Kubernetes 和底层复杂技术，支持管理多个 Kubernetes 集群，和管理企业应用全生命周期。主要功能包括应用开发环境、应用市场、微服务架构、应用交付、应用运维、应用级多云管理等。
 
+## Showcase
+
+- [2024~Megapixel99/nodejs-k8s ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Megapixel99/nodejs-k8s)](https://github.com/Megapixel99/nodejs-k8s): Attempt to recreate the core functionality of v1.29.1 Kubernetes in NodeJS, whle being fully compatible with the kubectl CLI
+
 ## Local Development
 
 - [2019~KinD ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/kubernetes-sigs/kind/): kind is a tool for running local Kubernetes clusters using Docker container "nodes". kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI.
