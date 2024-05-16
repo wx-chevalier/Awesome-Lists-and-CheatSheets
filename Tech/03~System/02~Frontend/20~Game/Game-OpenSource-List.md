@@ -8,6 +8,8 @@
 
 - [2019~ssloy/tinyraycaster ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ssloy/tinyraycaster)](https://github.com/ssloy/tinyraycaster): Project based learning: build your own 3D shooter in a weekend
 
+- [2024~Athena Crisis ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nkzw-tech/athena-crisis)](https://github.com/nkzw-tech/athena-crisis): Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
+
 # Game AI
 
 - [2022~yuka ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Mugen87/yuka)](https://github.com/Mugen87/yuka): Yuka is a JavaScript library for developing Game AI.
