@@ -4,6 +4,8 @@
 
 - [2024~Tegon ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tegonhq/tegon)](https://github.com/tegonhq/tegon): Tegon is an AI-first, open-source issue tracking software that uses AI to smartly automate manual task, workflows or provide more context to engineers for a given task.
 
+- [2024~Worklenz ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Worklenz/worklenz)](https://github.com/Worklenz/worklenz): Worklenz is a project management tool designed to help organizations improve their efficiency. It provides a comprehensive solution for managing projects, tasks, and collaboration within teams.
+
 # Software Development
 
 - [Mattermost ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mattermost/mattermost-server): Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
