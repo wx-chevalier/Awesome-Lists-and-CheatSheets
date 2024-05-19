@@ -26,6 +26,10 @@
 
 - [2024~SWE-agent ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/princeton-nlp/SWE-agent)](https://github.com/princeton-nlp/SWE-agent): SWE-agent turns LMs (e.g. GPT-4) into software engineering agents that can fix bugs and issues in real GitHub repositories.
 
+# Web Interaction Agent
+
+- [2024~Tarsier ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/reworkd/tarsier)](https://github.com/reworkd/tarsier): At Reworkd, we iterated on all these problems across tens of thousands of real web tasks to build a powerful perception system for web agents... Tarsier! In the video below, we use Tarsier to provide webpage perception for a minimalistic GPT-4 LangChain web agent.
+
 # AI Town
 
 - [2023~a16z-infra/ai-town ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/a16z-infra/ai-town)](https://github.com/a16z-infra/ai-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.

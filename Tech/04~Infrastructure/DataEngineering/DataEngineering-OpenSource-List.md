@@ -72,6 +72,8 @@
 
 - [2023~DataLens ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/datalens-tech/datalens)](https://github.com/datalens-tech/datalens): DataLens is a modern business intelligence and data visualization system. It was developed and extensively used as a primary BI tool in Yandex and is also available as a part of Yandex Cloud platform.
 
+- [2024~Quary ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/quarylabs/quary)](https://github.com/quarylabs/quary): 🔌 Connect to their Database, 📖 Write SQL queries to transform, organize, and document tables in a database.
+
 ## Data Lake
 
 - [Apache Hudi ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/apache/incubator-hudi): Upserts, Deletes And Incremental Processing on Big Data.
