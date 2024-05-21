@@ -42,6 +42,8 @@
 
 - [2024~Llama 3 implemented in pure NumPy](https://docs.likejazz.com/llama3.np/): Understand the exact structure with working implementation of the Llama 3 model.
 
+- [2024~llama3-from-scratch ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/naklecha/llama3-from-scratch)](https://github.com/naklecha/llama3-from-scratch): in this file, i implemented llama3 from scratch, one tensor and matrix multiplication at a time.
+
 # Browser
 
 - [2024~abi/secret-llama ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/abi/secret-llama)](https://github.com/abi/secret-llama): Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
