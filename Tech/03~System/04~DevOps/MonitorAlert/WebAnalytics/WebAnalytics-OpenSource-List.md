@@ -12,6 +12,8 @@
 
 - [2022~Serpbear ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/2022-towfiqi/serpbear)](https://github.com/2022-towfiqi/serpbear): SerpBear is an Open Source Search Engine Position Tracking App. It allows you to track your website's keyword positions in Google and get notified of their positions.
 
+- [2024~Openpanel ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Openpanel-dev/openpanel)](https://github.com/Openpanel-dev/openpanel): Openpanel is a simple analytics tool for logging events on web, apps and backend. We have tried to combine Mixpanel and Plausible in the same product.
+
 # Session Replay
 
 - [2021~rrweb ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/rrweb-io/rrweb)](https://github.com/rrweb-io/rrweb): rrweb refers to 'record and replay the web', which is a tool for recording and replaying users' interactions on the web.

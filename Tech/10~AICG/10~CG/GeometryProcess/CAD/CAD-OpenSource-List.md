@@ -36,6 +36,10 @@
 
 - [2023~Chili3D ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/xiangechen/chili3d)](https://github.com/xiangechen/chili3d): Chili3D is a fast, web-based 3D CAD program that works in any modern browser. Built with TypeScript, Three.js, and Opencascade.js.
 
+- [2024~CADmium ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CADmium-Co/CADmium)](https://github.com/CADmium-Co/CADmium): This project aims to create a new CAD program from scratch. It is small, it runs in a web browser, and the source code is available for free here on Github.
+
+- [2024~Nodi3d ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Nodi3d/nodi)](https://github.com/Nodi3d/nodi): Nodi is an online node-based geometry design tool & social development environment.
+
 # 3D Modeller
 
 - [2018~Wings3D ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dgud/wings)](https://github.com/dgud/wings): Wings3D is an advanced sub-division modeller inspired by the Nendo and Mirai modellers from Izware.

@@ -64,4 +64,6 @@
 
 - [Gum ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/charmbracelet/gum): A tool for glamorous shell scripts. Leverage the power of Bubbles and Lip Gloss in your scripts and aliases without writing any Go code!
 
+- [2024~Ph0enixKM/Amber ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Ph0enixKM/Amber)](https://github.com/Ph0enixKM/Amber): Programming language that compiles to Bash. It's a high level programming language that makes it easy to create shell scripts. It's particularly well suited for cloud services.
+
 # Performance

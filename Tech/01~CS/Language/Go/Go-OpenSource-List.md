@@ -218,6 +218,8 @@
 
 - [fyne ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/fyne-io/fyne): Cross platform GUI in Go inspired by Material Design
 
+- [2024~Spot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/roblillack/spot)](https://github.com/roblillack/spot): Spot is a simple, cross-platform, reactive GUI toolkit for Go using native widgets where available. It is designed to be easy to use and to provide a consistent API across different platforms.
+
 # Other
 
 - [gorush ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/appleboy/gorush): A push notification server written in Go (Golang).

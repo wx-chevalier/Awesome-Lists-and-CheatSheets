@@ -29,3 +29,5 @@
 - [2014-Clojure Koans ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/functional-koans/clojure-koans)](https://github.com/functional-koans/clojure-koans): The Clojure Koans are a fun way to get started with Clojure - no experience assumed or required. Follow the instructions below to start making tests pass!
 
 - [2020~Clojure 语言入门系列视频 #Series#](https://blog.3vyd.com/blog/posts-output/2020-12-12-clojure-intro/): 课程介绍、环境搭建、数据类型、分支语句、函数定义、数据结构、递归和高阶函数、leiningen 简介等；
+
+- [2024~Try Clojure #Series#](https://tryclojure.org/): Let's have some fun! Here on the right you have a REPL, a command line with a read-eval-print loop. Everything you write will be evaluated. Try to type some expressions as (+ 1 2) or click on code to auto insert. You can type (help) for more commands.

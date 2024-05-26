@@ -68,6 +68,8 @@
 
 - [Hub ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/activeloopai/Hub): Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it.
 
+- [2023~iterative/dvc ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/iterative/dvc)](https://github.com/iterative/dvc): Data Version Control or DVC is a command line tool and VS Code Extension to help you develop reproducible machine learning projects.
+
 ## Visualization
 
 - [TensorSpace.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tensorspace-team/tensorspace): Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js

@@ -6,6 +6,8 @@
 
 - [2024~Worklenz ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Worklenz/worklenz)](https://github.com/Worklenz/worklenz): Worklenz is a project management tool designed to help organizations improve their efficiency. It provides a comprehensive solution for managing projects, tasks, and collaboration within teams.
 
+- [2024~Namviek ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hudy9x/namviek)](https://github.com/hudy9x/namviek): This project is an open-source project manager for small teams with low budget. It includes essential features for running your team.
+
 # Software Development
 
 - [Mattermost ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mattermost/mattermost-server): Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
