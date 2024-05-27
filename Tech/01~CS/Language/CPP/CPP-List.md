@@ -26,6 +26,8 @@
 
 - [2022~《A Tour of C++》-3rd 📚](https://www.stroustrup.com/tour3.html): The ``tour'' is a quick (254 pages + index, historical information, etc.) tutorial overview of all of standard C++ (language and standard library) at a moderately high level for people who already know C++ or at least are experienced programmers. It covers C++20 plus a few likely features of C++23.
 
+- [2024~《C++ Core Guidelines》](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main): This is a living document under continuous improvement. Had it been an open-source (code) project, this would have been release 0.8. Copying, use, modification, and creation of derivative works from this project is licensed under an MIT-style license. Contributing to this project requires agreeing to a Contributor License. See the accompanying LICENSE file for details. We make this project available to “friendly users” to use, copy, modify, and derive from, hoping for constructive input.
+
 # Collection
 
 - [Master C++ Programming With Open-Source Books 🗃️](https://www.ossblog.org/master-c-programming-with-open-source-books/)
