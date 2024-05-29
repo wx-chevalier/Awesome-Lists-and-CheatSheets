@@ -5,3 +5,7 @@
 # OpenSource
 
 - [2023~Clickvote ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/clickvote/clickvote)](https://github.com/clickvote/clickvote): Clickvote takes the hassle of building your own reaction components around your content.
+
+## Showcase
+
+- [2024~CatsMiaow/nestjs-project-structure ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CatsMiaow/nestjs-project-structure)](https://github.com/CatsMiaow/nestjs-project-structure): Node.js framework NestJS project structure.
