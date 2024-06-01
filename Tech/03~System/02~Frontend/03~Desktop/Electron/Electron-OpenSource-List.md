@@ -58,6 +58,8 @@
 
 - [2023~electron-release-server ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ArekSredzki/electron-release-server)](https://github.com/ArekSredzki/electron-release-server): A fully featured, self-hosted release server for electron applications, compatible with auto-updater.
 
+- [2022~Doubleshotjs/doubleshot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Doubleshotjs/doubleshot)](https://github.com/Doubleshotjs/doubleshot): Doubleshot is a collection of tools for integrating the nodejs backend framework with electron to build a desktop application. At some point in the future, you can simply and quickly split it up and convert it to a web application.
+
 # Development Libraries
 
 - [electron-json-storage ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/electron-userland/electron-json-storage): electron-json-storage implements an API somehow similar to localStorage to write and read JSON objects to/from the operating system application data directory.

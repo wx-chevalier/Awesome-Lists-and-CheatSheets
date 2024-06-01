@@ -82,6 +82,8 @@
 
 - [2021~Astro ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/snowpackjs/astro): Astro is a fresh but familiar approach to building websites. Astro combines decades of proven performance best practices with the DX improvements of the component-oriented era. Use your favorite JavaScript framework and automatically ship the bare-minimum amount of JavaScript—by default.
 
+- [2022~egoist/tsup ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/egoist/tsup)](https://github.com/egoist/tsup): The simplest and fastest way to bundle your TypeScript libraries.
+
 ### Obfuscator
 
 - [JavaScript obfuscator ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/javascript-obfuscator/javascript-obfuscator): JavaScript Obfuscator is a powerful free obfuscator for JavaScript, containing a variety of features which provide protection for your source code.

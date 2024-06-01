@@ -46,6 +46,8 @@
 
 - [2023~TripoSR ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/VAST-AI-Research/TripoSR)](https://github.com/VAST-AI-Research/TripoSR): This is the official codebase for TripoSR, a state-of-the-art open-source model for fast feedforward 3D reconstruction from a single image, collaboratively developed by Tripo AI and Stability AI.
 
+- [2024~Era3D ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/pengHTYX/Era3D)](https://github.com/pengHTYX/Era3D): High-Resolution Multiview Diffusion using Efficient Row-wise Attention.
+
 ## Human Head Reconstruction
 
 - [SizheAn/PanoHead ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/SizheAn/PanoHead)](https://github.com/SizheAn/PanoHead): Code Repository for CVPR 2023 Paper "PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 degree"
