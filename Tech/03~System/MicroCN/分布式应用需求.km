@@ -1,0 +1,233 @@
+{
+    "root": {
+        "data": {
+            "id": "c6g1vvgr14g0",
+            "created": 1603027674946,
+            "text": "分布式应用\n  服务治理",
+            "expandState": "expand"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "c6g1walnkq00",
+                    "created": 1603027707894,
+                    "text": "Lifecycle\n生命周期",
+                    "layout_mind_offset": {
+                        "x": -49,
+                        "y": -1
+                    },
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c6g23rhx2tk0",
+                            "created": 1603028293223,
+                            "text": "Packaging\n打包",
+                            "layout_right_offset": {
+                                "x": 12,
+                                "y": -55
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6g2449ttzk0",
+                            "created": 1603028321032,
+                            "text": "Health Check\n健康检查"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z97opmpfc0",
+                            "created": 1608634146001,
+                            "text": "Deployment\n部署"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z97qstiy80",
+                            "created": 1608634150548,
+                            "text": "Scaling\n扩展"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z97dcsz1s0",
+                            "created": 1608634121281,
+                            "text": "Configuration\n配置"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c6g1wbk08ug0",
+                    "created": 1603027709971,
+                    "text": "Availability\n可用性",
+                    "layout_mind_offset": {
+                        "x": -58,
+                        "y": 9
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c6g24ew3vc80",
+                            "created": 1603028344147,
+                            "text": "Observability\n监控告警"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c6g24bdjqs00",
+                            "created": 1603028336494,
+                            "text": "Security\n安全"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c6g1wc1y2aw0",
+                    "created": 1603027711056,
+                    "text": "Networking\n网络",
+                    "layout_mind_offset": {
+                        "x": -470,
+                        "y": -492
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c6g23f2pvx40",
+                            "created": 1603028266182,
+                            "text": "Service Discovery\n服务发现",
+                            "layout_left_offset": {
+                                "x": -43,
+                                "y": -47
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z99nhmgqw0",
+                            "created": 1608634300069,
+                            "text": "A/B Test, Canary Rollouts"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z99ustle80",
+                            "created": 1608634315983,
+                            "text": "Retry, timeout, circuit breaker"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z9a1na8nk0",
+                            "created": 1608634330886,
+                            "text": "Point-to-point, pub/sub"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c6g1wci9x0w0",
+                    "created": 1603027712043,
+                    "text": "State\n状态",
+                    "layout_mind_offset": {
+                        "x": 67,
+                        "y": 12
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c7z88vhi4c80",
+                            "created": 1608631418002,
+                            "text": "Workflow Mgt\n工作流",
+                            "layout_left_offset": {
+                                "x": -52,
+                                "y": 0
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z9737jquo0",
+                            "created": 1608634099196,
+                            "text": "Idempotency\n幂等性"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z978a38dk0",
+                            "created": 1608634110233,
+                            "text": "Caching\n缓存"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c7z984kgq8w0",
+                    "created": 1608634180518,
+                    "text": "Binding\n服务绑定"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c7z98r7j44g0",
+                            "created": 1608634229802,
+                            "text": "Connectors"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z98up40cw0",
+                            "created": 1608634237395,
+                            "text": "Protocol Conversion"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z990ebw680",
+                            "created": 1608634249804,
+                            "text": "Message Transformation"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z9952pds00",
+                            "created": 1608634259985,
+                            "text": "Message Routing"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

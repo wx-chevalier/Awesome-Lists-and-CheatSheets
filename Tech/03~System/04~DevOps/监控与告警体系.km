@@ -1,0 +1,457 @@
+{
+    "root": {
+        "data": {
+            "id": "c4rgn5s7sy80",
+            "created": 1596874151421,
+            "text": "监控与告警体系",
+            "expandState": "expand",
+            "resource": [
+                null,
+                null
+            ]
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "c4rgp52ccyg0",
+                    "created": 1596874306585,
+                    "text": "监控目的",
+                    "layout_mind_offset": {
+                        "x": -422.66666600439294,
+                        "y": 106.66666044129306
+                    },
+                    "layout_right_offset": {
+                        "x": -414,
+                        "y": -67
+                    },
+                    "expandState": "expand",
+                    "resource": [
+                        null,
+                        null
+                    ]
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c4rh1pm8a4g0",
+                            "created": 1596875291693,
+                            "text": "实时采集监控数据",
+                            "layout_left_offset": {
+                                "x": -269,
+                                "y": -41
+                            },
+                            "layout_right_offset": {
+                                "x": -249,
+                                "y": -9
+                            },
+                            "expandState": "expand",
+                            "resource": [
+                                null,
+                                null
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4rh1vr4xrk0",
+                            "created": 1596875305051,
+                            "text": "实时反馈监控状态",
+                            "layout_left_offset": {
+                                "x": -275,
+                                "y": -42
+                            },
+                            "layout_right_offset": {
+                                "x": -249,
+                                "y": -9
+                            },
+                            "expandState": "expand",
+                            "resource": [
+                                null,
+                                null
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4rh1zjipwo0",
+                            "created": 1596875313297,
+                            "text": "预知故障和告警",
+                            "layout_right_offset": {
+                                "x": -249,
+                                "y": -9
+                            },
+                            "layout_left_offset": {
+                                "x": -261,
+                                "y": -52
+                            },
+                            "expandState": "expand",
+                            "resource": [
+                                null,
+                                null
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4rh206gqwo0",
+                            "created": 1596875314685,
+                            "text": "辅助定位故障",
+                            "layout_right_offset": {
+                                "x": -249,
+                                "y": -9
+                            },
+                            "layout_left_offset": {
+                                "x": -261,
+                                "y": -52
+                            },
+                            "expandState": "expand",
+                            "resource": [
+                                null,
+                                null
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4rh20jo0uw0",
+                            "created": 1596875315483,
+                            "text": "辅助性能调优",
+                            "layout_right_offset": {
+                                "x": -249,
+                                "y": -9
+                            },
+                            "layout_left_offset": {
+                                "x": -261,
+                                "y": -52
+                            },
+                            "expandState": "expand",
+                            "resource": [
+                                null,
+                                null
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4rh20uwkc80",
+                            "created": 1596875316162,
+                            "text": "辅助容量规划",
+                            "layout_right_offset": {
+                                "x": -249,
+                                "y": -9
+                            },
+                            "layout_left_offset": {
+                                "x": -261,
+                                "y": -52
+                            },
+                            "expandState": "expand",
+                            "resource": [
+                                null,
+                                null
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4rhfuvqc200",
+                            "created": 1596876400250,
+                            "text": "辅助自动化运维",
+                            "layout_left_offset": {
+                                "x": -265,
+                                "y": -51
+                            }
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c4rh2v42je80",
+                    "created": 1596875382020,
+                    "text": "监控手段",
+                    "layout_mind_offset": {
+                        "x": -2.0000188748031746,
+                        "y": -3.8333342936304575
+                    },
+                    "expandState": "expand",
+                    "resource": [
+                        null,
+                        null
+                    ]
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c4rhtaj9pcg0",
+                            "created": 1596877453059,
+                            "text": "黑盒监控"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c4rhtm24ugo0",
+                                    "created": 1596877478144,
+                                    "text": "外部端口探活，HTTP 探测，\n端到端功能监控"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c4rhtbtq5o00",
+                            "created": 1596877455868,
+                            "text": "白盒监控"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c4rhuyw4ok00",
+                                    "created": 1596877584444,
+                                    "text": "API"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c4rhv0nfg4g0",
+                                            "created": 1596877588271,
+                                            "text": "REST，JMX，OpenMetrics，其他"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c4rhv4m4wpc0",
+                                    "created": 1596877596900,
+                                    "text": "日志"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c4rhv7kgfi80",
+                                    "created": 1596877603329,
+                                    "text": "命令行"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c4rhva7152o0",
+                                    "created": 1596877609048,
+                                    "text": "主动上报"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c4rhvcb3kyg0",
+                                    "created": 1596877613647,
+                                    "text": "其他"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c4rh3qf7jfk0",
+                    "created": 1596875450174,
+                    "text": "统计告警",
+                    "layout_mind_offset": {
+                        "x": -227.99999245007825,
+                        "y": -111.99999682108569
+                    },
+                    "resource": [
+                        "Observability"
+                    ]
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c4rhvfsfn8g0",
+                            "created": 1596877621226,
+                            "text": "原始值、最大最小值、总和、\n平均值、数量、百分比、百分位"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4rhviy9n2o0",
+                            "created": 1596877628109,
+                            "text": "线性回归"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4rhvl7g2kg0",
+                            "created": 1596877633017,
+                            "text": "移动平均、加权移动平均"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4rhvn6ferk0",
+                            "created": 1596877637309,
+                            "text": "指数平滑"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4rhvpf3n340",
+                            "created": 1596877642187,
+                            "text": "聚类算法"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c4rh3r0ospk0",
+                    "created": 1596875451473,
+                    "text": "维度与精度",
+                    "layout_mind_offset": {
+                        "x": -17,
+                        "y": 173
+                    },
+                    "resource": [
+                        null,
+                        null
+                    ]
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c4rhsheovco0",
+                            "created": 1596877389656,
+                            "text": "站点、机房、集群、实例"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4rhsinv2kg0",
+                            "created": 1596877392387,
+                            "text": "环境、单元、分组、实例"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4rhskrt1k80",
+                            "created": 1596877396979,
+                            "text": "业务维度"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4rhsoccdk00",
+                            "created": 1596877404751,
+                            "text": "秒级、分钟级"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c4rh3rugnug0",
+                    "created": 1596875453273,
+                    "text": "监控方式",
+                    "layout_mind_offset": {
+                        "x": 58,
+                        "y": 142
+                    },
+                    "resource": [
+                        "Observability"
+                    ]
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c4rhswj1fkw0",
+                            "created": 1596877422570,
+                            "text": "Metrics"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4rhsymmlt40",
+                            "created": 1596877427141,
+                            "text": "Tracing"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4rht0ia09s0",
+                            "created": 1596877431231,
+                            "text": "Logging"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c4rh41awcc80",
+                    "created": 1596875473858,
+                    "text": "监控指标",
+                    "layout_mind_offset": {
+                        "x": 525,
+                        "y": -360
+                    },
+                    "resource": [
+                        "黄金指标"
+                    ]
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c4rhgger7kw0",
+                            "created": 1596876447113,
+                            "text": "系统指标"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4rhgm8xo0w0",
+                            "created": 1596876459822,
+                            "text": "程序指标"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4rhgot8ftc0",
+                            "created": 1596876465403,
+                            "text": "业务指标"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

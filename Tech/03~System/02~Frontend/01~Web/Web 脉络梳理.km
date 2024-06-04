@@ -1,0 +1,185 @@
+{
+    "root": {
+        "data": {
+            "id": "c74jtfhdgaw0",
+            "created": 1605515702365,
+            "text": "Web 脉络梳理"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "c74jtx0c5pc0",
+                    "created": 1605515740517,
+                    "text": "开发基础",
+                    "layout_mind_offset": {
+                        "x": -468,
+                        "y": -23
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c74jtyd83i00",
+                    "created": 1605515743473,
+                    "text": "Node",
+                    "layout_mind_offset": {
+                        "x": -362,
+                        "y": 177
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c74jtytumow0",
+                    "created": 1605515744478,
+                    "text": "大前端",
+                    "layout_mind_offset": {
+                        "x": -51,
+                        "y": 139
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c74jtzij9go0",
+                    "created": 1605515745971,
+                    "text": "工程化",
+                    "layout_mind_offset": {
+                        "x": -706,
+                        "y": -221.00000000000003
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c74jw17oehc0",
+                            "created": 1605515906396,
+                            "text": "构建与交付",
+                            "layout_left_offset": {
+                                "x": -37,
+                                "y": 151
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c74jw7elluw0",
+                            "created": 1605515919876,
+                            "text": "协作与共享",
+                            "layout_left_offset": {
+                                "x": -66,
+                                "y": -43.00000000000003
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c74jwnsp05k0",
+                                    "created": 1605515955556,
+                                    "text": "NPM 包"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c74jwpx88540",
+                                    "created": 1605515960184,
+                                    "text": "微前端"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c74jwvtil7k0",
+                                    "created": 1605515973020,
+                                    "text": "Module Federation"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c74jw9nnnag0",
+                            "created": 1605515924777,
+                            "text": "应用架构",
+                            "layout_left_offset": {
+                                "x": -36,
+                                "y": -33
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c74jwc9i0l40",
+                                    "created": 1605515930451,
+                                    "text": "SPA"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c74jwdzh8pk0",
+                                    "created": 1605515934199,
+                                    "text": "组件化"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c74jwgslw800",
+                                    "created": 1605515940314,
+                                    "text": "状态管理"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c74ju03dwco0",
+                    "created": 1605515747232,
+                    "text": "性能与体验优化",
+                    "layout_mind_offset": {
+                        "x": 493,
+                        "y": 7
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c74jvqgrkf40",
+                    "created": 1605515883001,
+                    "text": "跨端开发",
+                    "layout_mind_offset": {
+                        "x": 457,
+                        "y": 38.99999999999997
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c74jyf0ho740",
+                    "created": 1605516093165,
+                    "text": "框架使用",
+                    "layout_mind_offset": {
+                        "x": 377,
+                        "y": -216.99999999999997
+                    }
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

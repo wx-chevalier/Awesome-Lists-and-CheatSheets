@@ -1,0 +1,166 @@
+{
+    "root": {
+        "data": {
+            "id": "c7z6u3dylyg0",
+            "created": 1608627438629,
+            "text": "WebRTC"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "c7z7bfapqsw0",
+                    "created": 1608628796745,
+                    "text": "核心 API",
+                    "layout_mind_offset": {
+                        "x": 64.99999845027924,
+                        "y": 0
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c7z7bhpw2og0",
+                            "created": 1608628802017,
+                            "text": "MediaStream & getUserMedia"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z7breaw6w0",
+                            "created": 1608628823084,
+                            "text": "RTCPeerConnection"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z7bvm5nt40",
+                            "created": 1608628832266,
+                            "text": "RTCDataChannel"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c7z7c2276s00",
+                    "created": 1608628846296,
+                    "text": "信令服务"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c7z7c546asw0",
+                            "created": 1608628852946,
+                            "text": "用户与进出"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z7cbl0rds0",
+                            "created": 1608628867026,
+                            "text": "SDP Offer 与 Answer 协商"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z7cibf4ps0",
+                            "created": 1608628881682,
+                            "text": "ICE Candidate 交换"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z7cm4rnk00",
+                            "created": 1608628889987,
+                            "text": "离线"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c7z7cp7qas00",
+                    "created": 1608628896697,
+                    "text": "网络连接"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c7z7crw6z4w0",
+                            "created": 1608628902530,
+                            "text": "NAT 穿越/P2P 穿越"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z7cwmp0xs0",
+                            "created": 1608628912839,
+                            "text": "STUN/TURN 服务"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z7czitefs0",
+                            "created": 1608628919135,
+                            "text": "收集交换 Candidate，建立 ICE 连接"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c7z7d96bsmw0",
+                    "created": 1608628940148,
+                    "text": "相关协议"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c7z7dbc1q600",
+                            "created": 1608628944847,
+                            "text": "UDP 传输层协议"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z7de6ub5k0",
+                            "created": 1608628951063,
+                            "text": "SRTP/SRTCP 媒体通信会话协议"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z7dpbzkiw0",
+                            "created": 1608628975318,
+                            "text": "STUN/TURN 协议（NAT 相关）"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c7z7dwukcbc0",
+                            "created": 1608628991679,
+                            "text": "WebSocket、SDP 协议（信令与媒体协商）"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
