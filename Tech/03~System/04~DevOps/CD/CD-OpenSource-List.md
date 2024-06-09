@@ -29,3 +29,5 @@
 - [2019~Argo CD ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/argoproj/argo-cd): Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
 
 - [2019~Flux ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/fluxcd/flux): The GitOps Kubernetes operator.
+
+- [2024~piku ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/piku/piku)](https://github.com/piku/piku): piku, inspired by dokku, allows you do git push deployments to your own servers, no matter how small they are.
