@@ -30,6 +30,8 @@
 
 - [2020~《Computer Graphics from Scratch》📚](https://gabrielgambetta.com/computer-graphics-from-scratch/): Computer Graphics from Scratch demystifies the algorithms used in modern graphics software with basic programming and high school math.
 
+- [2020~《Scratchapixel 4.0》](https://www.scratchapixel.com/index.html#): This is a series of articles about computer graphics. It is written by Cédric Louvrier and Morgan McGuire. The articles are written in a way that is easy to understand and they are very informative. The articles cover a wide range of topics, from the basics of computer graphics to more advanced topics.
+
 ### Graphic
 
 - [2020~《WebGL Insights》📚](http://webglinsights.com/): WebGL Insights presents real-world techniques for intermediate and advanced WebGL developers by assembling contributions from experienced WebGL engine and application developers, GPU vendors, browser developers, researchers, and educators. By focusing on current and emerging techniques , WebGL Insights demonstrates the breadth and depth of WebGL. Readers will gain practical skills to solve problems related to performance, engine design, shader pipelines, rendering, mobile devices, testing, and more.

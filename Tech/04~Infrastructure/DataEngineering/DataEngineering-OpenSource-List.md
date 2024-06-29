@@ -10,6 +10,8 @@
 
 - [2020~Amundsen ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/amundsen-io/amundsen): Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 
+- [2024~OpenMetadata ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/open-metadata/OpenMetadata)](https://github.com/open-metadata/OpenMetadata): OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
+
 ## OLAP
 
 - [2016~ClickHouse ![code](https://ng-tech.icu/assets/code.svg)](https://ClickHouse.yandex/): ClickHouse is an open source column-oriented database management system capable of real time generation of analytical data reports using SQL queries.
