@@ -123,3 +123,7 @@
 - [microjob ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/wilk/microjob): A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads.
 
 - [piscina ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/piscinajs/piscina): A fast, efficient Node.js Worker Thread Pool implementation
+
+# Registry
+
+- [2021~Verdaccio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/verdaccio/verdaccio)](https://github.com/verdaccio/verdaccio): Verdaccio is a simple, zero-config-required local private npm registry. No need for an entire database just to get started! Verdaccio comes out of the box with its own tiny database, and the ability to proxy other registries (eg. npmjs.org), caching the downloaded modules along the way. For those looking to extend their storage capabilities, Verdaccio supports various community-made plugins to hook into services such as Amazon's s3, Google Cloud Storage or create your own plugin.

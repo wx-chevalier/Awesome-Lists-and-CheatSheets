@@ -16,6 +16,8 @@
 
 - [2023~Git-Heat-Map ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jmforsythe/Git-Heat-Map)](https://github.com/jmforsythe/Git-Heat-Map): Map showing the cpython repositiory, highlighting the files that Guido van Rossum changed the most.
 
+- [2024~orhun/git-cliff ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/orhun/git-cliff)](https://github.com/orhun/git-cliff): A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️.
+
 # Showcases
 
 - [2023~ugit: DIY Git in Python #Series#](https://www.leshenko.net/p/ugit/#): This tutorial is different from most Git internals tutorials because we're not going to talk about Git only with words but also with code! We're going to write in Python as we go.
