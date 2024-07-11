@@ -102,6 +102,8 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2018~Beginner Solutions in Go - The Basics, Clients, and Servers ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/oZc)
 
+- [2024~techschool/simplebank ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/techschool/simplebank)](https://github.com/techschool/simplebank): Backend master class: build a simple bank service in Go.
+
 ## Series
 
 - [2016~Go by Example #Series#](https://gobyexample.com/): Go by Example is a hands-on introduction to Go using annotated example programs. Check out the first example or browse the full list below.
