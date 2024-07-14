@@ -5,3 +5,5 @@
 - [2024~AeroSpace ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nikitabobko/AeroSpace)](https://github.com/nikitabobko/AeroSpace): AeroSpace is an i3-like tiling window manager for macOS.
 
 - [2024~ClipBook](https://clipbook.app/): ClipBook stores everything you copy and lets you quickly access your clipboard history whenever you need it.
+
+- [AltTab](https://alt-tab-macos.netlify.app/): AltTab brings the power of Windows’s “alt-tab” window switcher to macOS.

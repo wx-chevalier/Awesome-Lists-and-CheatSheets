@@ -14,6 +14,8 @@
 
 - [2024~Cap ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CapSoftware/Cap)](https://github.com/CapSoftware/Cap): Effortless, instant screen sharing. Open source and cross-platform.
 
+- [2024~BitWhip ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/bitwhip/bitwhip)](https://github.com/bitwhip/bitwhip): BitWHIP is a CLI WebRTC Agent written in Rust. These are some of the things you can do with it today.
+
 # Virtual Browser
 
 - [2022~Neko ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/m1k1o/neko)](https://github.com/m1k1o/neko): Welcome to Neko, a self-hosted virtual browser that runs in Docker and uses WebRTC technology.

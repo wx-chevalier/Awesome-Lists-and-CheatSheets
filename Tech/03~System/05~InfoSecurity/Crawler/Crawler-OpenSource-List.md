@@ -28,6 +28,8 @@
 
 - [Gerapy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Gerapy/Gerapy): Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Scrapyd-Client, Scrapyd-API, Django and Vue.js.
 
+- [2024~apify/crawlee-python ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/apify/crawlee-python)](https://github.com/apify/crawlee-python): Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
+
 ## Golang
 
 - [2015-go_spider ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hu17889/go_spider): An awesome Go concurrent Crawler(spider) framework. The crawler is flexible and modular. It can be expanded to an Individualized crawler easily or you can use the default crawl components only.

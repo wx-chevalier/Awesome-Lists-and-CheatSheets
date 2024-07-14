@@ -12,6 +12,8 @@
 
 - [2022~ILLA ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/illacloud/illa-builder)](https://github.com/illacloud/illa-builder): ILLA is a robust open source low-code platform for developers to build internal tools. By using ILLA's library of Components and Actions, developers can save massive amounts of time on building tools.
 
+- [2024~taubyte/tau ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/taubyte/tau)](https://github.com/taubyte/tau): Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
+
 # Self Hosting
 
 - [homelab ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/khuedoan/homelab): My self-hosting infrastructure, fully automated from empty disk to operating services.
