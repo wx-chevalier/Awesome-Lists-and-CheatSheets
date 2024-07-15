@@ -20,6 +20,8 @@
 
 - [2021~OpenReplay ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/openreplay/openreplay)](https://github.com/openreplay/openreplay): OpenReplay is a session replay suite you can host yourself, that lets you see what users do on your web app, helping you troubleshoot issues faster. It's the only open-source alternative to products such as FullStory and LogRocket.
 
+- [2021~microsoft/clarity ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/microsoft/clarity)](https://github.com/microsoft/clarity): A behavioral analytics library that uses dom mutations and user interactions to generate aggregated insights.
+
 - [2023~highlight ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/highlight/highlight)](https://github.com/highlight/highlight): highlight.io is a monitoring tool for the next generation of developers (like you!). Unlike the age-old, outdated tools out there, we aim to build a cohesive, modern and fully-featured monitoring solution, something we wished WE had. And it's all open source :)
 
 - [2023~Rety ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/leaverou/rety)](https://github.com/leaverou/rety): Record typing on one or more editors and replay it at will, to simulate live coding.
