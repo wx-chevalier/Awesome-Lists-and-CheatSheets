@@ -6,6 +6,8 @@ Browser Automation 即所谓的自动化浏览器或者能够以脚本等方式�
 
 - [browserless/chrome ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/browserless/chrome)](https://github.com/browserless/chrome): The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 
+- [2022~DrissionPage ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/g1879/DrissionPage)](https://github.com/g1879/DrissionPage): 基于 python 的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和 requests 的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
+
 # Headless Chrome
 
 - [chromeless ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/graphcool/chromeless): Chrome automation made simple. Runs locally or headless on AWS Lambda.
