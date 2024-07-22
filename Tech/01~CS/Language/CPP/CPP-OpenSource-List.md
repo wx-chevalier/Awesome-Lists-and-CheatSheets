@@ -34,6 +34,8 @@
 
 - [libtree ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/haampie/libtree): ldd as a tree with an option to bundle dependencies into a single folder
 
+- [2024~rr-debugger/rr ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/rr-debugger/rr)](https://github.com/rr-debugger/rr): rr is a lightweight tool for recording, replaying and debugging execution of applications (trees of processes and threads).
+
 ## Profile
 
 - [2017~MTuner ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/milostosic/MTuner)](https://github.com/milostosic/MTuner): MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms.
