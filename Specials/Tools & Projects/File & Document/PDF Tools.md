@@ -5,3 +5,5 @@
 - [2023~Frooodle/Stirling-PDF ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Frooodle/Stirling-PDF)](https://github.com/Frooodle/Stirling-PDF): This is a powerful locally hosted web based PDF manipulation tool using docker that allows you to perform various operations on PDF files, such as splitting merging, converting, reorganizing, adding images, rotating, compressing, and more. This locally hosted web application started as a 100% ChatGPT-made application and has evolved to include2024~ a wide range of features to handle all your PDF needs.
 
 - [2024~Sioyek ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ahrm/sioyek)](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer with a focus on textbooks and research papers.
+
+- [2023~opendatalab/MinerU ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/opendatalab/MinerU)](https://github.com/opendatalab/MinerU): A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持 PDF/网页/多格式电子书提取。
