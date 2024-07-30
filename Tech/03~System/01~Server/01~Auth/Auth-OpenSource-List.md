@@ -20,6 +20,8 @@
 
 - [2022~Nango ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nangoHQ/nango)](https://github.com/nangoHQ/nango): Pre-built OAuth flows & secure token management for 40+ APIs. 100% open source.
 
+- [2024~dromara/MaxKey ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dromara/MaxKey)](https://github.com/dromara/MaxKey): 🗝️MaxKey SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product，业界领先的 IAM-IDaas 身份管理和认证产品,支持 OAuth2.x、OpenID Connect、SAML2.0、JWT、CAS、SCIM 等 SSO 标准协议，基于 RBAC 统一权限控制，实现用户生命周期管理，开源、安全、合规、自主可控。
+
 ## Third-party Auth
 
 - [2020~JustAuth ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/justauth/JustAuth)](https://github.com/justauth/JustAuth): 🏆Gitee 最有价值开源项目 🚀💯 小而全而美的第三方登录开源组件。目前已支持 Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack 和 Line 等第三方平台的授权登录。Login, so easy!
