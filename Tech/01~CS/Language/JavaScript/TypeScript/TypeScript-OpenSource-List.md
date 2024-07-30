@@ -10,6 +10,8 @@
 
 - [2023~ts-reset ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/total-typescript/ts-reset)](https://github.com/total-typescript/ts-reset): A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 
+- [2024~JoshuaKGoldberg/TypeStat ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/JoshuaKGoldberg/TypeStat)](https://github.com/JoshuaKGoldberg/TypeStat): Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫
+
 # Development
 
 - [2023~TypeCell ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/TypeCellOS/TypeCell)](https://github.com/TypeCellOS/TypeCell): Welcome to TypeCell! An open source live programming environment. Together, we want to make it a lot easier to build software, and ultimately to understand, build and share knowledge.
