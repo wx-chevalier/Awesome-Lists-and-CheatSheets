@@ -57,23 +57,23 @@ include_directories(/usr/local/include/eigen3)
 
 - add_executable
 
-`add_executable`命令用于将多个源文件编译成可执行文件。举个例子，假设我们有两个源文件`main.cpp`和`helper.cpp`，它们需要被编译成一个可执行文件`myapp`，我们可以使用下面的代码：
+`add_executable` 命令用于将多个源文件编译成可执行文件。举个例子，假设我们有两个源文件 `main.cpp` 和 `helper.cpp`，它们需要被编译成一个可执行文件 `myapp`，我们可以使用下面的代码：
 
 ```
 add_executable(myapp main.cpp helper.cpp)
 ```
 
-其中，`myapp`表示生成的可执行文件的名称，`main.cpp`和`helper.cpp`表示源代码文件的名称。如果有多个源代码文件，可以将它们作为参数逐一列出。
+其中，`myapp` 表示生成的可执行文件的名称，`main.cpp` 和 `helper.cpp` 表示源代码文件的名称。如果有多个源代码文件，可以将它们作为参数逐一列出。
 
 - add_library
 
-`add_library`命令用于将多个源文件编译成静态库或动态库。举个例子，假设我们有两个源文件`foo.cpp`和`bar.cpp`，它们需要被编译成一个静态库`libfoobar.a`，我们可以使用下面的代码：
+`add_library` 命令用于将多个源文件编译成静态库或动态库。举个例子，假设我们有两个源文件 `foo.cpp` 和 `bar.cpp`，它们需要被编译成一个静态库`libfoobar.a`，我们可以使用下面的代码：
 
 ```
 add_library(foobar STATIC foo.cpp bar.cpp)
 ```
 
-其中，`foobar`表示生成的库的名称，`foo.cpp`和`bar.cpp`表示源代码文件的名称。`STATIC`表示生成静态库，`SHARED`表示生成动态库，`MODULE`表示生成插件库。如果不指定库类型，则默认生成静态库。
+其中，`foobar` 表示生成的库的名称，`foo.cpp` 和 `bar.cpp` 表示源代码文件的名称。`STATIC`表示生成静态库，`SHARED`表示生成动态库，`MODULE`表示生成插件库。如果不指定库类型，则默认生成静态库。
 
 - target_link_libraries
 
@@ -181,7 +181,7 @@ set(var [value])
 
 例如：
 
-```
+```sh
 # 第一种用法，生成代码文件列表
 #先直接设置SRC_LIST的值
 set(SRC_LIST add.h add.cpp)
@@ -208,7 +208,7 @@ add_executable(可执行程序名 代码文件名称)
 
 例如：
 
-```
+```h
 # 编译静态库
 add_library(add STATIC add.h add.cpp)
 add_library(add STATIC ${ADD_SRC} ${ADD_HDR})
