@@ -50,6 +50,8 @@
 
 - [2024~Unique3D ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/AiuniAI/Unique3D)](https://github.com/AiuniAI/Unique3D): Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image.
 
+- [2024~Stability-AI/stable-fast-3d ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Stability-AI/stable-fast-3d)](https://github.com/Stability-AI/stable-fast-3d): Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement.
+
 ## Human Head Reconstruction
 
 - [SizheAn/PanoHead ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/SizheAn/PanoHead)](https://github.com/SizheAn/PanoHead): Code Repository for CVPR 2023 Paper "PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 degree"

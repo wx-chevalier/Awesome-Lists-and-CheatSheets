@@ -45,3 +45,5 @@
 - [2019~Medis ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/luin/medis): 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 
 - [2023~Tiny RDM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tiny-craft/tiny-rdm)](https://github.com/tiny-craft/tiny-rdm): Tiny RDM is a modern lightweight cross-platform Redis desktop manager available for Mac, Windows, and Linux.
+
+- [2024~RedisInsight ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/RedisInsight/RedisInsight)](https://github.com/RedisInsight/RedisInsight): Redis Insight is a visual tool that provides capabilities to design, develop, and optimize your Redis application. Query, analyse and interact with your Redis data. Download it here!

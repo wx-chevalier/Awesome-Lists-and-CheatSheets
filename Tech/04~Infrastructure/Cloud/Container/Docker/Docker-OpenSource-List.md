@@ -55,3 +55,7 @@
 - [2023~dockge ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/louislam/dockge)](https://github.com/louislam/dockge): A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager.
 
 - [2024~Runtipi ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/runtipi/runtipi)](https://github.com/runtipi/runtipi): Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+
+# Network
+
+- [2024~Trayce ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/evanrolfe/trayce_gui)](https://github.com/evanrolfe/trayce_gui): TrayceGUI is a cross-platform desktop application which lets you interface with the TrayceAgent to monitor network requests in Docker containers.
