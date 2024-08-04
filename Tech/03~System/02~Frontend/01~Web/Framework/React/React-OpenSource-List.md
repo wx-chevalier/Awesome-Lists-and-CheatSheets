@@ -22,6 +22,8 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 - [2023~Invoice Dragon ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/LaniJ/invoice-dragon)](https://github.com/LaniJ/invoice-dragon): Invoice Dragon is a lightning-fast application that simplifies the process of generating professional Invoices and Receipts for your business needs.
 
+- [2024~MishanPoudel/Windows11-3.0 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/MishanPoudel/Windows11-3.0)](https://github.com/MishanPoudel/Windows11-3.0): Welcome to the Windows Clone app built with React.js! 🎉 Dive into this interactive simulation of the Windows operating system, packed with apps and features to play around with. Let’s get started!
+
 ## Scratch
 
 - [2017~Didact ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hexacta/didact): This repository goes together with a series of posts that explains how to build React from scratch step by step.
