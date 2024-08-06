@@ -1,3 +1,0 @@
-# Bookmark & Link Archive
-
-- [2023~Linkwarden ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/linkwarden/linkwarden)](https://github.com/linkwarden/linkwarden): Linkwarden is a self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages. The objective is to organize useful webpages and articles you find across the web in one place, and since useful webpages can go away (see the inevitability of Link Rot), Linkwarden also saves a copy of each webpage as a Screenshot and PDF, ensuring accessibility even if the original content is no longer available.

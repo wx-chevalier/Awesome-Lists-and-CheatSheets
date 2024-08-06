@@ -32,6 +32,8 @@
 
 - [2023~Yazi ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sxyazi/yazi)](https://github.com/sxyazi/yazi): Yazi ("duck" in Chinese) is a terminal file manager written in Rust, based on non-blocking async I/O. It aims to provide an efficient, user-friendly, and customizable file management experience.
 
+- [2024~lvkv/whenfs ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lvkv/whenfs)](https://github.com/lvkv/whenfs): WhenFS turns your Google Calendar into a FUSE filesystem. It whimsically supports the following features.
+
 ## CLI Application
 
 - [2023~kamiyaa/joshuto ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/kamiyaa/joshuto)](https://github.com/kamiyaa/joshuto): ranger-like terminal file manager written in Rust.
