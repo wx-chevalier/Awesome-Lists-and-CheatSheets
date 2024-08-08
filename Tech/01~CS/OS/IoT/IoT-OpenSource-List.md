@@ -36,7 +36,7 @@
 
 # Database
 
-- [2022-IoTDB ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/apache/iotdb)](https://github.com/apache/iotdb): IoTDB (Internet of Things Database) is a data management system for time series data, which provides users with specific services including data collection, storage and analysis. Due to its light weight structure, high performance and usable features, together with its seamless integration with the Hadoop and Spark ecology, IoTDB meets the requirements of massive dataset storage, high throughput data input, and complex data analysis in the industrial IoT field.
+- [2022~IoTDB ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/apache/iotdb)](https://github.com/apache/iotdb): IoTDB (Internet of Things Database) is a data management system for time series data, which provides users with specific services including data collection, storage and analysis. Due to its light weight structure, high performance and usable features, together with its seamless integration with the Hadoop and Spark ecology, IoTDB meets the requirements of massive dataset storage, high throughput data input, and complex data analysis in the industrial IoT field.
 
 # Visual Tools
 

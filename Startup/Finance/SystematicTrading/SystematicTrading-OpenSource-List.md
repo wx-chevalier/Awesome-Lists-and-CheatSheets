@@ -14,4 +14,4 @@
 
 # Showcases
 
-- [2023-waditu/czsc ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/waditu/czsc)](https://github.com/waditu/czsc): 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易
+- [2023~waditu/czsc ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/waditu/czsc)](https://github.com/waditu/czsc): 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易

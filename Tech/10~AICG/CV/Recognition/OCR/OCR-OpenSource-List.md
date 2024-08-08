@@ -14,7 +14,7 @@
 
 - [2020~mmocr ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/open-mmlab/mmocr): OpenMMLab Text Detection, Recognition and Understanding Toolbox
 
-- [2023-facebookresearch/nougat ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/facebookresearch/nougat)](https://github.com/facebookresearch/nougat): Neural Optical Understanding for Academic Documents.
+- [2023~facebookresearch/nougat ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/facebookresearch/nougat)](https://github.com/facebookresearch/nougat): Neural Optical Understanding for Academic Documents.
 
 - [2023~hiroi-sora/Umi-OCR ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR)](https://github.com/hiroi-sora/Umi-OCR): OCR software, free and offline. 开源、免费的离线 OCR 软件。支持截屏/粘贴/批量导入图片，段落排版/排除水印，扫描/生成二维码。内置多国语言库。
 

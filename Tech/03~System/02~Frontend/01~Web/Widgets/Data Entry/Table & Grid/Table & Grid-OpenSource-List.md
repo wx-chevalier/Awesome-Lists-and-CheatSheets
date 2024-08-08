@@ -24,7 +24,7 @@
 
 - [2022~react-datasheet-grid ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/nick-keller/react-datasheet-grid)](https://github.com/nick-keller/react-datasheet-grid): An Airtable-like / Excel-like component to create beautiful spreadsheets.
 
-- [2023-odoo/o-spreadsheet ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/odoo/o-spreadsheet)](https://github.com/odoo/o-spreadsheet): A standalone spreadsheet for the web, easily integrable and extendable.
+- [2023~odoo/o-spreadsheet ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/odoo/o-spreadsheet)](https://github.com/odoo/o-spreadsheet): A standalone spreadsheet for the web, easily integrable and extendable.
 
 ## Spreadsheet
 
