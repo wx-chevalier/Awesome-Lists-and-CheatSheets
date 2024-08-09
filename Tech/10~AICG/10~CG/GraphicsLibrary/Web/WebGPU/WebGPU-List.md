@@ -2,6 +2,10 @@
 
 # Resources
 
+## Books
+
+- [2024~《WebGPU Unleashed: A Practical Tutorial》](https://shi-yan.github.io/webgpuunleashed/): Welcome to "WebGPU Unleashed" - your gateway to the dynamic world of graphics programming. This free book will teach you graphics programming in JavaScript using WebGPU, drawing from my own learning journey.
+
 ## Series
 
 - [2020~WebGPU Fundamentals #Series#](https://webgpufundamentals.org/): A set of articles to help learn WebGPU.
