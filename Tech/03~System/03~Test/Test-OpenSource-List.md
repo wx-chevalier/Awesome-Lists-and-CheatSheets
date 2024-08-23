@@ -36,7 +36,7 @@
 
 - [Locust ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/locustio/locust): Scalable user load testing tool written in Python
 
-- [k6 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/loadimpact/k6): k6 is a modern load testing tool, building on Load Impact's years of experience. It provides a clean, approachable scripting API, distributed and cloud execution, and orchestration via a REST API.
+- [2021~grafana/k6 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/grafana/k6): k6 is a modern load testing tool, building on Load Impact's years of experience. It provides a clean, approachable scripting API, distributed and cloud execution, and orchestration via a REST API.
 
 - [plow ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/six-ddc/plow): A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying.
 

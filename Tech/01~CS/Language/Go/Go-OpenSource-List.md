@@ -26,6 +26,8 @@
 
 - [2022~tailscale/golink ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tailscale/golink)](https://github.com/tailscale/golink): golink is a private shortlink service for your tailnet. It lets you create short, memorable links for the websites you and your team use most. If you're new to golink, learn more in our announcement blog post.
 
+- [2024~baalimago/wd-41 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/baalimago/wd-41)](https://github.com/baalimago/wd-41): This is a simple static webserver which live reloads your web-browser on changes to the hosted files.
+
 ## CMD
 
 - [plow ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/six-ddc/plow): A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying.
