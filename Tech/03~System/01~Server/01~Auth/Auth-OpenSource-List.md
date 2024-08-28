@@ -14,6 +14,8 @@
 
 - [Casbin ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/casbin/casbin): An authorization library that supports access control models like ACL, RBAC, ABAC in Golang.
 
+- [2024~Permify ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Permify/permify)](https://github.com/Permify/permify): An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+
 ## OAuth
 
 - [2016~Hydra ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ory/hydra): OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language.

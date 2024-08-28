@@ -16,6 +16,8 @@
 
 - [2023~TypeCell ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/TypeCellOS/TypeCell)](https://github.com/TypeCellOS/TypeCell): Welcome to TypeCell! An open source live programming environment. Together, we want to make it a lot easier to build software, and ultimately to understand, build and share knowledge.
 
+- [2024~srcbookdev/srcbook ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/srcbookdev/srcbook)](https://github.com/srcbookdev/srcbook): TypeScript notebook for rapid prototyping.
+
 # Validation
 
 - [typescript-json ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/samchon/typescript-json): Super-fast Runtime validator (type checker) with only one line
