@@ -26,6 +26,8 @@
 
 - [2023~dockerc ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/NilsIrl/dockerc)](https://github.com/NilsIrl/dockerc): compile docker images to standalone portable binaries.
 
+- [2024~will-moss/isaiah ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/will-moss/isaiah)](https://github.com/will-moss/isaiah): Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease.
+
 ## Image Tool
 
 - [wagoodman/dive ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/wagoodman/dive)](https://github.com/wagoodman/dive): A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image.
