@@ -12,6 +12,8 @@
 
 - [2018~Stop building websites with infinite scroll!](https://logrocket.com/blog/infinite-scroll/): In this article, we will explain why you need to stop building websites with infinite scroll.
 
+- [2024~Web Design Museum](https://www.webdesignmuseum.org/): Web Design Museum exhibits thousands of screens and videos of old websites, mobile apps and software from 1990s to mid-00s
+
 # Enterprise Design（商业设计）
 
 - [2018~How white space killed an enterprise app (and why data density matters)](https://uxdesign.cc/how-white-space-killed-an-enterprise-app-and-why-data-density-matters-b3afad6a5f2a)

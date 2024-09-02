@@ -10,6 +10,8 @@
 
 - [2019~带你走进 WebGL 的随机美学](https://mp.weixin.qq.com/s/cKhkfRjw9vJ5epBbesDaIw): 大自然蕴含着各式各样的纹理，小到细胞菌落分布，大到宇宙星球表面。运用图形噪声，我们可以在 3d 场景中模拟它们，本文就带大家一起走进万能的图形噪声。
 
+- [2024~An Infinite Canvas Tutorial #Series# ![star](https://img.shields.io/github/stars/xiaoiver/infinite-canvas-tutorial)](https://github.com/xiaoiver/infinite-canvas-tutorial): The infinitecanvas showcases numerous examples ranging from design tools to creative boards, including some well-known products such as: Figma, Modyfi, Motiff, rnote, tldraw, excalidraw and so on.
+
 ## GPGPU
 
 - [Unleash Your Inner Supercomputer Your Guide to GPGPU with WebGL](http://www.vizitsolutions.com/portfolio/webgl/gpgpu/index.html)
