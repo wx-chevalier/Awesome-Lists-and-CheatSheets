@@ -8,6 +8,14 @@
 
 - [Gui Challenges ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/argyleink/gui-challenges): Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
 
+- [2015-todomvc ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tastejs/todomvc): Helping you select an `MV*` framework - Todo apps for React.js, Ember.js, Angular, and many more.
+
+- [2015-Real World ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/gothinkster/realworld): RealWorld solves this by allowing you to choose any frontend (React, Angular 2, & more) and any backend (Node, Django, & more) and see how they power a real world, beautifully designed fullstack app called "Conduit".
+
+- [ui-element-samples ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChrome/ui-element-samples): A collection of UI element samples written with vanilla web platform features.
+
+- [fbjs ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
+
 ## WebSite Clone
 
 - [Hulu Website Clone ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bradtraversy/hulu-webpage-clone): This is an HTML & CSS project with a bit of JavaScript. It is a clone of the Hulu homepage and part of a YouTube tutorial

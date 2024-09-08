@@ -9,3 +9,5 @@
 # OpenSource
 
 - [2023~ndavd/ncube ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ndavd/ncube)](https://github.com/ndavd/ncube): ncube allows you to visualize rotating hypercubes of arbitrary dimensions. It works by rotating the hyperdimensional vertices and applying a chain of perspective projections to them until the 3rd dimension is reached. Everything is generated in real time just from the dimension number.
+
+- [2023~Tidy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/zxch3n/tidy)](https://github.com/zxch3n/tidy): Tidy is designed specifically for tree layout. Graph and DAG data are not supported.

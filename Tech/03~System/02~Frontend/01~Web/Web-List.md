@@ -78,6 +78,8 @@
 
 - [2020~Web Dev For Beginners 🎥](https://github.com/microsoft/Web-Dev-For-Beginners): Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about JavaScript, CSS, and HTML basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 
+- [2023~The Odin Project (TOP) 🎥 ![star](https://img.shields.io/github/stars/TheOdinProject/curriculum)](https://github.com/TheOdinProject/curriculum): The Odin Project (TOP) is an open-source curriculum for learning full-stack web development. Our curriculum is divided into distinct courses, each covering the subject language in depth. Each course contains a listing of lessons interspersed with multiple projects. These projects give users the opportunity to practice what they are learning, thereby reinforcing and solidifying the theoretical knowledge learned in the lessons. Completed projects may then be included in the user's portfolio.
+
 ## Meeting
 
 - [2019~第十三届 D2 前端技术论坛精彩回顾 #Meeting#](https://www.yuque.com/d2forum/content/d213): 智能化和渲染技术，可视化技术和工程化技术，开发模式与语言框架。
@@ -87,16 +89,6 @@
 - [2021~浏览器工作原理与实践 #Series#](https://blog.poetries.top/browser-working-principle/): 极客浏览器工作原理与实践，追求重点和难点,剔除陈旧的知识。
 
 - [2022~《前端小课》 #Series#](https://github.com/lefex/FE):《前端小课》是通过图片、文字、代码、视频等多种方式写成的一本多媒体电子书。全书分为不同的小书，每本小书旨在讲透一个知识点。比如 CSS 布局、JavaScript 基础、动画。以最基础的编程知识为起点，即使不懂编程的小白也能够通过本书学会编程，顺利进入互联网行业。
-
-## Showcases
-
-- [2015-todomvc ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tastejs/todomvc): Helping you select an `MV*` framework - Todo apps for React.js, Ember.js, Angular, and many more.
-
-- [2015-Real World ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/gothinkster/realworld): RealWorld solves this by allowing you to choose any frontend (React, Angular 2, & more) and any backend (Node, Django, & more) and see how they power a real world, beautifully designed fullstack app called "Conduit".
-
-- [ui-element-samples ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChrome/ui-element-samples): A collection of UI element samples written with vanilla web platform features.
-
-- [fbjs ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
 
 # Tutorial
 
