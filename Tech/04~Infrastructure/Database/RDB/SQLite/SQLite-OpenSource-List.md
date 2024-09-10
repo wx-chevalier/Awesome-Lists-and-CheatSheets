@@ -19,3 +19,5 @@
 - [2018~sqlite-web ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/coleifer/sqlite-web)](https://github.com/coleifer/sqlite-web): Web-based SQLite database browser written in Python.
 
 - [2024~Sqlite Studio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/frectonz/sqlite-studio)](https://github.com/frectonz/sqlite-studio): Single binary, single command SQLite database explorer. SQLite studio supports opening both local SQLite DB files and libSQL servers.
+
+- [2024~dbcli/litecli ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dbcli/litecli)](https://github.com/dbcli/litecli): A command-line client for SQLite databases that has auto-completion and syntax highlighting.
