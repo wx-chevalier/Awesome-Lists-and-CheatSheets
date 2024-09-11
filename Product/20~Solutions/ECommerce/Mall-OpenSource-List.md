@@ -27,3 +27,7 @@
 # Shopify
 
 - [Hydrogen ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Shopify/hydrogen): React-based framework for building dynamic, Shopify-powered custom storefronts.
+
+# Next.js
+
+- [2024~Your Next Store ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/yournextstore/yournextstore)](https://github.com/yournextstore/yournextstore): Modern Commerce with Next.js and Stripe as the backend.
