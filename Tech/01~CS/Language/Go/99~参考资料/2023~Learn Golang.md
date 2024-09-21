@@ -1,0 +1,3880 @@
+# [LearnGolang](https://github.com/LearnGolang/LearnGolang)
+
+![LearnGolang](https://socialify.git.ci/LearnGolang/LearnGolang/image?description=0&descriptionEditable=%20&font=Bitter&forks=1&issues=1&name=1&owner=0&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+
+本项目是记录自己在学习 Go 语言的过程中遇到的优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的使用 Go 语言，尽可能的深入理解 Go 语言。学习 Go 语言，面向信仰编程！作者：[0e0w](https://github.com/0e0w)
+
+关于 Go 语言的学习教程，可以参考[《365 天深入理解 Go 语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
+
+本项目创建于 2020 年 8 月 10 日，最近一次更新时间为 2024 年 1 月 31 日。本项目会持续更新，直到海枯石烂。
+
+- [**0x01-Golang 资源**](https://github.com/LearnGolang/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
+  - |[01-中文资源](https://github.com/LearnGolang/LearnGolang#01-%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90)|[02-英文资源](https://github.com/LearnGolang/LearnGolang#02-%E8%8B%B1%E6%96%87%E8%B5%84%E6%BA%90)|[03-视频教程](https://github.com/LearnGolang/LearnGolang#03-%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)|[04-培训演讲](https://github.com/LearnGolang/LearnGolang#04-%E5%9F%B9%E8%AE%AD%E6%BC%94%E8%AE%B2)|[05-算法结构](https://github.com/LearnGolang/LearnGolang#05-%E7%AE%97%E6%B3%95%E7%BB%93%E6%9E%84)|[06-论坛版块](https://github.com/LearnGolang/LearnGolang#06-%E8%AE%BA%E5%9D%9B%E7%89%88%E5%9D%97)|[07-面试资料](https://github.com/LearnGolang/LearnGolang#07-%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99)|[08-其他资源](https://github.com/LearnGolang/LearnGolang#08-%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)|
+- [**0x02-Golang 标准**](https://github.com/LearnGolang/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
+  - |[01-命令参数](https://github.com/LearnGolang/LearnGolang#01-%E5%91%BD%E4%BB%A4%E5%8F%82%E6%95%B0)|[02-日志处理](https://github.com/LearnGolang/LearnGolang#02-%E6%97%A5%E5%BF%97%E5%A4%84%E7%90%86)|[03-网络框架](https://github.com/LearnGolang/LearnGolang#03-%E7%BD%91%E7%BB%9C%E6%A1%86%E6%9E%B6)|[04-配置文件](https://github.com/LearnGolang/LearnGolang#04-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)|[05-文件处理](https://github.com/LearnGolang/LearnGolang#05-%E6%96%87%E4%BB%B6%E5%A4%84%E7%90%86)|
+- [**0x03-Golang 框架**](https://github.com/LearnGolang/LearnGolang#0x03-golang%E6%A1%86%E6%9E%B6)
+  - |[01-命令参数](https://github.com/LearnGolang/LearnGolang#01-%E5%91%BD%E4%BB%A4%E5%8F%82%E6%95%B0-1)|[02-网络框架](https://github.com/LearnGolang/LearnGolang#02-%E7%BD%91%E7%BB%9C%E6%A1%86%E6%9E%B6)|[03-类型系统](https://github.com/LearnGolang/LearnGolang#03-%E7%B1%BB%E5%9E%8B%E7%B3%BB%E7%BB%9F)|[04-文件处理](https://github.com/LearnGolang/LearnGolang#04-%E6%96%87%E4%BB%B6%E5%A4%84%E7%90%86)|[05-数据处理](https://github.com/LearnGolang/LearnGolang#05-%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86)|[06-配置文件](https://github.com/LearnGolang/LearnGolang#06-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)|[07-协程并发](https://github.com/LearnGolang/LearnGolang#07-%E5%8D%8F%E7%A8%8B%E5%B9%B6%E5%8F%91)|[08-日志处理](https://github.com/LearnGolang/LearnGolang#08-%E6%97%A5%E5%BF%97%E5%A4%84%E7%90%86)|[09-错误处理](https://github.com/LearnGolang/LearnGolang#09-%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86)|[10-单元测试](https://github.com/LearnGolang/LearnGolang#10-%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)|[11-电子邮件](https://github.com/LearnGolang/LearnGolang#11-%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6)|[12-图形框架](https://github.com/LearnGolang/LearnGolang#12-%E5%9B%BE%E5%BD%A2%E6%A1%86%E6%9E%B6)|[13-Web 框架](https://github.com/LearnGolang/LearnGolang#13-web%E6%A1%86%E6%9E%B6)|[14-爬虫框架](https://github.com/LearnGolang/LearnGolang#14-%E7%88%AC%E8%99%AB%E6%A1%86%E6%9E%B6)|[15-时间日期](https://github.com/LearnGolang/LearnGolang#15-%E6%97%B6%E9%97%B4%E6%97%A5%E6%9C%9F)|[16-图像处理](https://github.com/LearnGolang/LearnGolang#16-%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86)|[17-消息队列](https://github.com/LearnGolang/LearnGolang#17-%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97)|[18-机器学习](https://github.com/LearnGolang/LearnGolang#18-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)|[19-交叉编译](https://github.com/LearnGolang/LearnGolang#19-%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91)|[20-定时任务](https://github.com/LearnGolang/LearnGolang#20-%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1)|[21-RSS 框架](https://github.com/LearnGolang/LearnGolang#21-RSS%E6%A1%86%E6%9E%B6)|[22-其他框架](https://github.com/LearnGolang/LearnGolang#22-%E5%85%B6%E4%BB%96%E6%A1%86%E6%9E%B6)|
+- [**0x04-Golang 项目**](https://github.com/LearnGolang/LearnGolang#0x04-golang%E9%A1%B9%E7%9B%AE)
+  - |[01-开源网站](https://github.com/LearnGolang/LearnGolang#01-%E5%BC%80%E6%BA%90%E7%BD%91%E7%AB%99)|[02-娱乐游戏](https://github.com/LearnGolang/LearnGolang#02-%E5%A8%B1%E4%B9%90%E6%B8%B8%E6%88%8F)|[03-爬虫项目](https://github.com/LearnGolang/LearnGolang#03-%E7%88%AC%E8%99%AB%E9%A1%B9%E7%9B%AE)|[04-图形项目](https://github.com/LearnGolang/LearnGolang#04-%E5%9B%BE%E5%BD%A2%E9%A1%B9%E7%9B%AE)|[05-量化投资](https://github.com/LearnGolang/LearnGolang#05-%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84)|[06-Web 项目](https://github.com/LearnGolang/LearnGolang#06-Web%E9%A1%B9%E7%9B%AE)|[07-其他项目](https://github.com/LearnGolang/LearnGolang#07-%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE)|
+- [**0x05-Golang 安全**](https://github.com/LearnGolang/LearnGolang#0x05-golang%E5%AE%89%E5%85%A8)
+  - |[01-域名收集](https://github.com/LearnGolang/LearnGolang#01-%E5%9F%9F%E5%90%8D%E6%94%B6%E9%9B%86)|[02-资产收集](https://github.com/LearnGolang/LearnGolang#02-%E8%B5%84%E4%BA%A7%E6%94%B6%E9%9B%86)|[03-端口扫描](https://github.com/LearnGolang/LearnGolang#03-%E7%AB%AF%E5%8F%A3%E6%89%AB%E6%8F%8F)|[04-漏洞扫描](https://github.com/LearnGolang/LearnGolang#04-%E6%BC%8F%E6%B4%9E%E6%89%AB%E6%8F%8F)|[05-密码爆破](https://github.com/LearnGolang/LearnGolang#05-%E5%AF%86%E7%A0%81%E7%88%86%E7%A0%B4)|[06-路径扫描](https://github.com/LearnGolang/LearnGolang#06-%E8%B7%AF%E5%BE%84%E6%89%AB%E6%8F%8F)|[07-Web 安全](https://github.com/LearnGolang/LearnGolang#07-web%E5%AE%89%E5%85%A8)|[08-病毒免杀](https://github.com/LearnGolang/LearnGolang#08-%E7%97%85%E6%AF%92%E5%85%8D%E6%9D%80)|[09-远控隧道](https://github.com/LearnGolang/LearnGolang#09-%E8%BF%9C%E6%8E%A7%E9%9A%A7%E9%81%93)|[10-内网渗透](https://github.com/LearnGolang/LearnGolang#10-%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F)|[11-蜜罐钓鱼](https://github.com/LearnGolang/LearnGolang#11-%E8%9C%9C%E7%BD%90%E9%92%93%E9%B1%BC)|[12-代码审计](https://github.com/LearnGolang/LearnGolang#12-%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)|[13-编码规范](https://github.com/LearnGolang/LearnGolang#13-%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83)|[14-应急响应](https://github.com/LearnGolang/LearnGolang#14-%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94)|[15-移动安全](https://github.com/LearnGolang/LearnGolang#15-%E7%A7%BB%E5%8A%A8%E5%AE%89%E5%85%A8)|[16-漏洞赏金](https://github.com/LearnGolang/LearnGolang#16-%E6%BC%8F%E6%B4%9E%E8%B5%8F%E9%87%91)|[17-其他项目](https://github.com/LearnGolang/LearnGolang#17-%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE)|
+- [**0x06-Golang 逆向**](https://github.com/LearnGolang/LearnGolang#0x06-golang%E9%80%86%E5%90%91)
+  - |[01-代码混淆](https://github.com/LearnGolang/LearnGolang#01-%E4%BB%A3%E7%A0%81%E6%B7%B7%E6%B7%86)|[02-授权许可](https://github.com/LearnGolang/LearnGolang#02-%E6%8E%88%E6%9D%83%E8%AE%B8%E5%8F%AF)|[03-逆向工程](https://github.com/LearnGolang/LearnGolang#03-%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B)|[04-恶意软件](https://github.com/LearnGolang/LearnGolang#04-%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6)|[05-其他项目](https://github.com/LearnGolang/LearnGolang#05-%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE)|
+- [**0x07-Golang 老师**](https://github.com/LearnGolang/LearnGolang#0x07-golang%E8%80%81%E5%B8%88)
+
+## 0x01-Golang 资源
+
+- https://go.dev/ref/spec
+- https://github.com/golang/go
+- https://github.com/LearnGolang
+- https://github.com/avelino/awesome-go
+- https://github.com/shockerli/go-awesome
+- https://github.com/yinggaozhen/awesome-go-cn
+- https://github.com/0voice/Introduction-to-Golang
+- https://github.com/trending/go
+
+### 01-中文资源
+
+- [ ] [《Go 语言原理》](https://github.com/GoYL/GoYL)@0e0w
+- [x] [《365 天深入理解 Go 语言》](https://github.com/LearnGolang/365Golang)@0e0w
+- [x] [《Go 语言圣经》](http://books.studygolang.com/gopl-zh/)@柴树杉译
+- [x] [《Go 入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻等译
+- [x] [《Go 程序设计语言》](https://item.jd.com/12187988.html)@李道兵译#100%#
+- [x] [《Go 语言程序设计》](https://item.jd.com/12989042.html)@刘洪泉译#100%#
+- [x] [《Go 语言趣学指南》](https://item.jd.com/12826232.html) @黄健宏译#100%#
+- [x] [《Go 语言 101》](https://gfw.go101.org/article/101.html)@老貘#100%#
+- [x] [《Go 细节和小技巧 101》](https://github.com/golang101/golang101/issues/127)@老貘
+- [x] [《Go 语言实战》](https://item.jd.com/12136974.html)@李兆海译#100%#
+- [x] [《Go 语言实战》]()@刘燕燕译#100%
+- [x] [《Go 语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕#100%
+- [x] [《Go 语言高级编程》](https://item.jd.com/12647494.html)@柴大曹大#100%
+- [x] [《Go 语言入门经典》](https://item.jd.com/12406722.html)@张海燕译#100%
+- [x] [《Go 语言精进之路》](https://item.jd.com/10042998533587.html)@白明
+- [x] [《Go 语言入门经典》](https://item.jd.com/13162162.html)@周家安
+- [x] [《白帽子安全开发实战》](https://item.jd.com/12774589.html)@赵海锋
+- [x] [《Go 语言专家编程》](https://item.jd.com/12920392.html)@任洪彩
+- [x] [《深入学习 Go 语言》](https://item.jd.com/12681768.html)@李晓钧
+- [x] [《Go 语言四十二章经》](https://github.com/ffhelicopter/Go42)@李骁
+- [x] [《Go 语言并发之道》](https://item.jd.com/12504386.html)@凯瑟琳
+- [x] [《Go 编程时光》](https://github.com/iswbm/GolangCodingTime)@王炳明
+- [ ] [《Go 语言编程》](https://item.jd.com/11067810.html)@许式伟
+- [x] [《Go 语言核心编程》](https://item.jd.com/12437839.html)@李文塔
+- [ ] [《Go 并发编程实战》](https://item.jd.com/12063141.html)@郝林
+- [ ] [《Go 并发编程实战》](https://item.jd.com/12712931.html)@汪明
+- [ ] [《Go 语言原本》](https://github.com/golang-design/under-the-hood)@欧长坤
+- [ ] [《Golang 修养之路》](https://github.com/aceld/golang)@刘丹冰
+- [ ] [《Go 语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
+- [ ] [《Go 语言项目开发上手指南》](https://item.jd.com/13371318.html)@谢伟
+- [ ] [《Go 语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉 史斌
+- [x] [《Go 语言极简一本通》](https://item.jd.com/13168780.html)@欢喜
+- [ ] [《Go 语言设计哲学》](https://github.com/eddycjy/go-design-book)@煎鱼
+- [ ] [《Go 语言底层原理剖析》](https://item.jd.com/13398708.html)@郑建勋
+- [ ] [《Go2 编程指南》](https://chai2010.cn/go2-book)@柴树杉
+- [ ] [《Go 语言设计与实现》](https://draveness.me/golang)@draveness
+- [ ] [《Go 语言开发实战》](https://item.jd.com/12622679.html)@千锋教育
+- [ ] [《Go 语言从入门到进阶实战》](https://item.jd.com/12380444.html)@徐波
+- [ ] [《Go 语言高并发与微服务实战》](https://item.jd.com/12857160.html)@朱荣鑫
+- [ ] [《Go 语言编程入门与实战技巧》](https://item.jd.com/40149409925.html)@黄靖钧
+- [ ] [《Go 语言从基础到中台微服务实战》](https://item.jd.com/13320222.html)@朱著显
+- [ ] [《Go 微服务实战》](https://item.jd.com/13131372.html)@刘金亮
+- [ ] [《胡文 Go.ogle》](https://github.com/LearnGolang/LearnGolang/blob/master/0x01-Golang%E8%B5%84%E6%BA%90/01-%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/%E8%83%A1%E6%96%87Go.ogle.pdf)@Fango
+- [ ] [《Go 简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@李松松
+- [ ] [《over-golang》](https://github.com/overnote/over-golang)@overnote
+- [ ] [《实效 Go 编程》](https://github.com/bingohuang/effective-go-zh-en)@黄庆兵
+- [ ] [《快学 Go 语言》](https://zhuanlan.zhihu.com/quickgo)@老钱
+- [ ] [《Go 命令教程》](https://github.com/hyper0x/go_command_tutorial)@郝林
+- [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx 译
+- [ ] [《Black Hat Go 中文》](https://github.com/YYRise/black-hat-go)@YYRise 译
+- [ ] [《Go 语言高性能编程》](https://github.com/geektutu/high-performance-go)@geektutu
+- [ ] [《Go 语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
+- [ ] [《Mastering*Go*中文》](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN)@hantmac 译
+- [ ] [《Go 实战开发》](https://github.com/astaxie/go-best-practice)@谢孟军
+- [ ] [《Go 语言入门教程》](http://c.biancheng.net/golang)@编程帮
+- [ ] [《机器学习：Go 语言实现》](https://item.jd.com/12473046.html)@谢文江等译
+- [ ] [《Go 语言学习室》](https://www.kancloud.cn/digest/batu-go/153520)@liuxinming
+- [ ] [《易百 Go 语言教程》](https://www.yiibai.com/go)@Maxsu
+- [ ] [《golang 语言学习笔记》](https://github.com/webtao520/golang_project)@webtao
+- [ ] [《Golang 标准库中文版》](https://github.com/jemygraw/GoStandardLibrary-Chinese)@金鑫
+- [ ] [《Go 语言学习与理解》](https://github.com/cyent/golang)@cyent
+- [ ] [《学习 Go 语言》](https://github.com/mikespook/Learning-Go-zh-cn)@mikespook
+- [ ] [《For-learning-Go-Tutorial》](https://github.com/KeKe-Li/For-learning-Go-Tutorial)@keke
+- [ ] [《Go-Learning-With-Hack》](https://github.com/lazybootsafe/Go-Learning-With-Hack) @Finger
+- [ ] [《Golang 学习笔记》](https://github.com/CharonChui/GolangStudyNote)@CharonChui
+- [ ] [《深入解析 Go》](https://github.com/tiancaiamao/go-internals)@tiancaiamao
+- [ ] [《The Uber Go Style Guide》](https://github.com/uber-go/guide)@Uber
+- [ ] [《Uber Go 语言编码规范》](https://github.com/xxjwxc/uber_go_guide_cn)@xxjwxc
+- [ ] [《Go 语言最佳实践》](https://github.com/llitfkitfk/go-best-practice)@田浩
+- [ ] [《Go 语言设计模式》](https://github.com/senghoo/golang-design-pattern)@senghoo
+- [ ] [《7 天用 Go 从零实现系列》](https://github.com/geektutu/7days-golang)@geektutu
+- [ ] [《Go 语言并发编程》](https://github.com/cizixs/go-concurrency-programming)@cizixs
+- [ ] [《Go 1.5 源码剖析》](https://github.com/qyuhen/book)@雨痕
+- [ ] [《深入 Go 并发编程研讨课》](https://github.com/smallnest/dive-to-gosync-workshop)@smallnest
+- [ ] [《go-internals-CN》](https://github.com/go-internals-cn/go-internals)@ray-g
+- [ ] [《inside-go》](https://github.com/jianfengye/inside-go)@jianfengye
+- [ ] [《Go-Questions》](https://github.com/qcrao/Go-Questions/wiki)@qcrao
+- [ ] [《练习 Golang 的并发模式》](https://github.com/loong/go-concurrency-exercises)@loong
+- [ ] [《Go 编程语言安全编码实践指南》](https://github.com/OWASP/Go-SCP)@OWASP
+- [ ] [《Golang100 天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
+- [ ] [《Go 语言精进之路》](https://github.com/golang-minibear2333/golang)@程序员小熊
+- [ ] [《Golang 的实战项目》](https://github.com/Leslie1sMe/golang)
+- [ ] [《Golang 从入门到跑路》](https://github.com/jiujuan/go-collection)
+- [ ] [《Go 语言之旅》](https://github.com/Go-zh/tour)@Go-zh
+- [ ] [《开始使用 Go》](https://docs.microsoft.com/zh-cn/learn/paths/go-first-steps/)@微软
+- [ ] [《Go 语言编码规范》](https://github.com/shockerli/go-code-guide)
+- [ ] [《神奇的 Go 语言》](https://wiki.jikexueyuan.com/project/magical-go/)
+- [ ] [《Go RPC 开发指南》](http://books.studygolang.com/go-rpc-programming-guide)
+- [ ] [《通过测试学习 Go 语言》](http://books.studygolang.com/learn-go-with-tests)
+- [ ] [《w3cschool-Go 教程》](https://www.w3cschool.cn/go/)
+- [ ] [《快速上手 Golang》](https://github.com/jackhu1990/golangman)
+- [ ] [《Go 指南》](https://tour.go-zh.org/welcome/1)
+- [ ] [《Go 语言实例教程从入门到进阶》](https://github.com/pibigstar/go-demo)
+- [ ] [《Go 网络编程》](http://books.studygolang.com/NPWG_zh)
+- [ ] [《跟煎鱼学 Go》](https://eddycjy.com/go-categories)
+- [ ] [《TopGoer 教程》](http://www.topgoer.com)
+- [ ] [《Go 开发者路线图》](https://github.com/Quorafind/golang-developer-roadmap-cn)
+- [ ] [《go-perfbook》](https://github.com/dgryski/go-perfbook)
+- [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
+- [ ] [《Golang 随笔》](https://github.com/cch123/golang-notes)
+- [ ] [《Go 语言筑基》](https://github.com/aixgl/gobook)@aixgl
+- [ ] [《Go Web 编程》](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)@谢孟军
+- [ ] [《Go Web 编程》](https://item.jd.com/12252845.html)@黄健宏译
+- [ ] [《通过例子学习 Go Web 编程》](http://books.studygolang.com/gowebexamples)
+- [ ] [《Go 语言 Web 应用开发》](https://github.com/unknwon/building-web-applications-in-go)@无闻
+- [ ] [《Go 语言学习指南》](https://github.com/coderit666/GoGuide)@dmxq
+- [ ] [《Go 开发从入门到高高手》](https://github.com/WuPeiqi/go_course)@武沛齐
+- [ ] [《Go 语言学习-cyent 笔记》](https://cyent.github.io/golang/)@cyent
+- [ ] https://github.com/aFlyBird0/from-golang-to-the-code-world
+
+### 02-英文资源
+
+- [ ] https://github.com/dariubs/GoBooks
+- [ ] [《Google's Go Style Guide》](https://golangweekly.com/link/131885/web)
+- [ ] [《Mastering Go》](https://github.com/PacktPublishing/Mastering-Go-Second-Edition)@Mihalis Tsoukalos
+- [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
+- [ ] [《An Introduction to Programming in Go》](http://www.golang-book.com/books/intro)
+- [ ] [《A Huge Number of Go Examples》](https://github.com/inancgumus/learngo)
+- [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
+- [x] [《Practical Go Lessons》](https://www.practical-go-lessons.com)@Maximilien Andile
+- [x] [《Black Hat Go》](https://github.com/blackhat-go/bhg)@Tom Steele
+- [ ] [《Build Web Application with Golang》](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
+- [ ] [《Building Web Apps With Go》](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
+- [ ] [《Concurrency in Go》]()
+- [ ] [《Effective Go》]()
+- [ ] [《go-internals》](https://github.com/teh-cmc/go-internals)
+- [ ] [《Go Bootcamp》](http://golangbootcamp.com/)
+- [ ] [《Go Cookbook》]()
+- [ ] [《gostart》](https://github.com/alco/gostart)
+- [ ] [《Go in Action》](https://www.manning.com/books/go-in-action)
+- [ ] [《Go In Practice》]()
+- [ ] [《Go Recipes》]()
+- [x] [《Go Succinctly》](https://github.com/thedevsir/gosuccinctly)
+- [ ] [《Learning Go》](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf)
+- [ ] [《Go by Example》](https://github.com/mmcgrana/gobyexample)
+- [ ] [《Programming in Go》]()
+- [ ] [《Hands On Go Programming》](https://github.com/PacktPublishing/Hands-On-Go-Programming)
+- [ ] [《Head First Go》]()
+- [x] [《Webapps in Go》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
+- [ ] [《Learning Go》](https://www.amazon.com/Learning-Go-Idiomatic-Real-World-Programming/dp/1492077216/)
+- [ ] [《Learning Go Programming》]()
+- [ ] [《Network Programming With Go》](https://nostarch.com/networkprogrammingwithgo)
+- [ ] [《Introducing Go》]()
+- [x] [《The Ultimate Go Notebook》](https://docs.google.com/document/d/1QQq8Yf90ar59OUQM6qRDS6Bwk5hfOCpcqw_WUX43YOg)
+- [ ] [《The-Little-Go-Book》](https://github.com/karlseguin/the-little-go-book)
+- [ ] [《Go With The Domain》](https://threedots.tech/newsletter)
+- [ ] [《The Way To Go》]()
+- [ ] [《Production Go》]()
+- [ ] [《ultimate go notebook》]()
+- [ ] [《Go Systems Programming》](https://github.com/PacktPublishing/Go-Systems-Programming)
+- [ ] [《Get Programming with Go》]()
+- [ ] [《GUI Application Development in Go》](https://github.com/PacktPublishing/Hands-On-GUI-Application-Development-in-Go)
+- [ ] [《Building Cross-Platform GUI Applications with Fyne》](https://github.com/PacktPublishing/Building-Cross-Platform-GUI-Applications-with-Fyne)
+- [ ] [《Writing A Compiler In Go》](https://compilerbook.com/)
+- [ ] [《Writing An Interpreter In Go》](https://interpreterbook.com/)
+- [ ] [《Get Programming with Go》]()
+- [ ] [《Network Programming With Go》](https://jan.newmarch.name/go/)
+- [ ] [《Spaceship Go A Journey to the Standard Library》](https://blasrodri.github.io/spaceship-go-gh-pages/)
+- [ ] [《The Go Programming Language》](http://www.gopl.io/)
+- [ ] [《Web Application with Go the Anti-Textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
+- [ ] [《Nonsequential and Distributed Programming with Go》]()
+- [ ] [《101+ coding interview problems in Go》](https://github.com/hoanhan101/algo)
+- [ ] [《Ultimate Go Notebook》](https://education.ardanlabs.com/courses/ultimate-go-notebook)@Kennedy
+- [ ] https://github.com/quii/learn-go-with-tests | Learn Go with test-driven development | 14.7k
+- [ ] https://github.com/hoanhan101/ultimate-go | The Ultimate Go Study Guide | 14.3k
+- [ ] https://github.com/ardanlabs/gotraining | Go Training Class Material | 9.1k
+- [ ] [《web-dev-golang-anti-textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)@thewhitetulip
+- [ ] [《100 Go Mistakes and How to Avoid Them》](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)@teivah
+- [ ] https://github.com/teivah/100-go-mistakes
+
+### 03-视频教程
+
+- [ ] [《Golang 进阶实战编程》](https://www.bilibili.com/video/BV1ox411R7Ci?p=5)@韩茹
+- [ ] [《22 讲通关 Go 语言》](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=536#/content)@飞雪无情
+- [ ] [《Go 语言从入门到实战》](https://time.geekbang.org/course/intro/100024001)@蔡超
+- [ ] [《Go 编程基础》](https://github.com/unknwon/go-fundamental-programming)@无闻
+- [ ] [《Go 语言第一课》](https://www.imooc.com/learn/345)@郝林
+- [ ] [《Go 语言核心 36 讲》](https://time.geekbang.org/column/intro/112)@郝林
+- [ ] [《20 个小时快速入门 go 语言》](https://www.bilibili.com/video/BV1UW411x7v2)@黑马
+- [ ] [《Go 语言开发实战教程》](https://www.bilibili.com/video/BV1kE41157q1)@黑马
+- [ ] [《Go 语言 GUI 编程》](https://www.bilibili.com/video/BV1uE411N7Dn)@黑马
+- [ ] [《Go 语言基础就业班》](https://www.bilibili.com/video/BV1QJ411V73q)@老男孩
+- [ ] [《Go 语言超详细入门教程》](https://www.bilibili.com/video/av47467197)@韩茹
+- [ ] [《Golang 合辑》](https://www.bilibili.com/video/BV1hv411x7we)@幼麟实验室
+- [ ] [《Go 语言之路》](https://space.bilibili.com/4638193/channel/detail?cid=66016)@李文周
+- [ ] [《Go Web 开发教程》](https://www.bilibili.com/video/BV1gJ411p7xC)@李文周
+- [ ] [《21 周搞定 Go 语言》](https://www.bilibili.com/video/BV16E411H7og)@沙河娜扎
+- [ ] [《Go 语言核心编程》](https://www.bilibili.com/video/BV1pt41127FZ)@韩顺平
+- [ ] [《Go 语言入门教程》](https://www.bilibili.com/video/BV1fD4y1m7TD)@杨旭
+- [ ] [《Golang 基础到项目实战》](https://study.163.com/course/courseMain.htm?courseId=1006508031)@知了海龙
+- [ ] [《Go 语言入门到精通》](https://study.163.com/course/courseMain.htm?courseId=1210620804)@江洲老师
+- [ ] [《Go 微服务实战 38 讲》](https://github.com/longjoy/micro-go-course)@朱荣鑫
+- [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)@Bill Kennedy
+
+### 04-培训演讲
+
+- [ ] [GopherCon 2022](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBfiSJSt-zPRbVSMDfK0EwQC)@Gopher Academy
+- [ ] [历届 GopherChina 大会资料](https://github.com/fanjindong/GopherChina)@fanjindong
+- [ ] [Go 语言项目开发实战](https://github.com/marmotedu/iam)@极客时间
+- [ ] https://www.youtube.com/c/GopherConEurope
+
+### 05-算法结构
+
+- [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)@halfrost
+- [ ] [《leetcode》](https://github.com/doocs/leetcode)@doocs
+- [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
+- [ ] [《algorithm》](https://github.com/dreddsa5dies/algorithm) @algorithm
+- [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)@labuladong
+- [ ] [《算法学习 Golang 版》](https://github.com/skyhee/Algorithms-Learning-With-Go)@skyhee
+- [ ] [《剑指 Offer - Golang 实现》](https://github.com/DinghaoLI/Coding-Interviews-Golang)@DinghaoLI
+- [ ] [《数据结构和算法-Golang 实现》](https://github.com/hunterhug/goa.c)@hunterhug
+- [ ] [《over-algorithm》](https://github.com/overnote/over-algorithm)@overnote
+- [ ] [《LeetCode-Go-Week》](https://github.com/wuqinqiang/LeetCode-Go-Week)@wuqinqiang
+- [ ] [《algorithm-pattern》](https://github.com/greyireland/algorithm-pattern)@greyireland
+- [ ] [《awesome-golang-leetcode》](https://github.com/kylesliu/awesome-golang-leetcode)@kylesliu
+- [ ] [《The Algorithms - Go》](https://github.com/TheAlgorithms/Go)@TheAlgorithms
+- [ ] [《Go 的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-go)@careermonk
+- [ ] [《用 Go 语言实现基础算法》](https://github.com/xiangdong1987/studyAlgorithm)@向东
+- [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)@labuladong
+- [ ] [《Golang 设计模式思想》](https://github.com/sevenelevenlee/go-patterns)@JKlee
+- [ ] [《通过 go 实现基本的 23 种设计模式》](https://github.com/medasz/Design-Patterns)@medasz
+- [ ] [《data-structures-questions》](https://github.com/KeKe-Li/data-structures-questions)@KeKe-Li
+- [ ] https://github.com/Allenxuxu/leetcode-in-go
+- [ ] https://github.com/HanTianPeng/go-algorithm
+- [ ] https://github.com/kingeasternsun/leetcode-cn
+- [ ] https://github.com/aceld/EasySJMS
+- [ ] https://github.com/krahets/hello-algo
+
+### 06-论坛版块
+
+- [ ] [Go 夜读](https://github.com/talkgo/night)
+- [ ] [Reddit 的 go 社区](https://www.reddit.com/r/golang)
+- [ ] [golang-nuts](https://groups.google.com/group/golang-nuts/)
+- [ ] [GopherChina](https://gopherchina.org/)
+- [ ] [GOCN Forum](https://gocn.vip)
+- [ ] https://igo.pub
+- [ ] https://talkgo.org
+- [ ] [studygolang](https://studygolang.com)
+- [ ] [golangtc](https://www.golangtc.com)
+- [ ] [golangschool](https://www.golangschool.com)
+- [ ] https://learnku.com/go
+
+### 07-面试资料
+
+- [ ] https://github.com/lifei6671/interview-go | Golang 面试题集合 | 1.5k
+- [ ] https://github.com/iswbm/golang-interview
+- [ ] https://github.com/luckygopher/go-interview
+
+### 08-其他资源
+
+- [ ] https://github.com/gocn/cool-go
+- [ ] https://github.com/mvdan/corpus
+- [ ] [Best Go Programming Tutorials Online](https://medium.com/quick-code/top-online-courses-to-learn-go-programming-language-golang-for-beginners-c228c615946c)
+- [ ] https://mojotv.cn/404#Golang
+- [ ] [GitHub-Chinese-Top-Charts#Go](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#Go)
+- [ ] https://github.com/gyuho/learn#go
+- [ ] https://github.com/gocn/knowledge
+- [ ] https://github.com/pingyeaa/go-home
+- [ ] https://github.com/TIGERB/easy-tips
+- [ ] https://github.com/kevwan/why-golang
+- [ ] https://github.com/preytaren/go-doc-zh
+- [ ] https://github.com/golang-design/history
+- [ ] https://github.com/unknwon/go-study-index
+- [ ] https://github.com/hwholiday/learning_tools
+- [ ] https://github.com/play-with-go/play-with-go
+- [ ] https://github.com/unixpickle/num-analysis
+- [ ] https://github.com/xiaobaiTech/golangFamily
+- [ ] https://github.com/eastmountyxz/Go-learning
+- [ ] https://github.com/pingyeaa/golang-examples
+- [ ] https://github.com/enocom/gopher-reading-list
+- [ ] https://github.com/study-core/go1.14.6-analysis
+- [ ] https://github.com/yangwenmai/learning-golang
+- [ ] https://github.com/bjmayor/GoPlayWithCompiler
+- [ ] https://github.com/polaris1119/dive-go-opensource
+- [ ] https://github.com/zboya/golang_runtime_reading
+- [ ] https://github.com/lukexwang/GoConcurrencyPatterns
+- [ ] https://github.com/Alikhll/golang-developer-roadmap
+- [ ] https://github.com/carolxiong/golang-study-base-master
+- [ ] https://github.com/GoesToEleven/GolangTraining
+- [ ] https://github.com/Junedayday/code_reading
+- [ ] https://github.com/thinkgos/golang-design-pattern
+- [ ] https://github.com/xiaowei520/go_interview
+- [ ] https://github.com/code-review-checklists/go-concurrency
+- [ ] https://github.com/golang-design/Go-Questions
+- [ ] https://www.cnblogs.com/apocelipes/p/13832224.html
+- [ ] https://github.com/aarons-talks/2021-04-24-GopherCon-Russia
+- [ ] https://github.com/golang/vulndb
+- [ ] https://github.com/eddycjy/go777
+- [ ] https://github.com/StefanSchroeder/Golang-Regex-Tutorial
+- [ ] https://github.com/xinliangnote/go-util
+- [ ] https://github.com/Roc-zhou/go-util-package
+- [ ] https://github.com/Vxer-Lee/Golang_Handbook
+- [ ] https://github.com/nikolaydubina/go-recipes
+- [ ] https://github.com/hackstoic/golang-open-source-projects
+- [ ] https://github.com/muhammadzakirramadhan/belajar-golang
+- [ ] https://github.com/latermonk/golang-start
+- [ ] https://github.com/Tinywan/golang-tutorial
+- [ ] https://github.com/GoTurkiye/training
+- [ ] https://github.com/wolf27w/golang-learn
+- [ ] https://github.com/pjh130/go
+- [ ] https://github.com/egonelbre/gophers | Go 语言吉祥物图标 | 2.5k
+- [ ] https://github.com/voidint/g
+- [ ] https://github.com/unknwon/go-code-convention
+- [ ] https://github.com/miekg/learninggo
+- [ ] https://github.com/buffge/gobyexample
+- [ ] https://github.com/halfrost/Halfrost-Field
+- [ ] https://github.com/xinliangnote/Go
+- [ ] https://github.com/chai2010/ugo-compiler-book
+- [ ] https://github.com/ssbandjl/golang-design-pattern
+- [ ] https://github.com/razeencheng/demo-go
+- [ ] https://github.com/GanZhiXiong/go_learning
+- [ ] https://github.com/akutz/go-generics-the-hard-way | 艰难的 Go 语言泛型 | 371
+- [ ] https://github.com/flysnow-org/gotour
+- [ ] https://github.com/jincheng9/go-tutorial
+- [ ] https://www.golangprojects.com
+- [ ] https://github.com/halfrost/Halfrost-Field
+- [ ] https://github.com/unknwon/flamego-basics
+- [ ] https://github.com/golang-standards/project-layout | Go 项目结构非官方建议 | 35.8k
+- [ ] https://github.com/ShiinaOrez/Tutor-Go
+- [ ] https://github.com/langwan/chihuo
+
+## 0x02-Golang 标准
+
+本章节用于记录学习 Go 语言官方标准库。
+
+- [ ] https://pkg.go.dev
+- [ ] https://studygolang.com/pkgdoc
+- [ ] https://github.com/LearnGolang/Gopkg
+- [ ] [《Go 语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
+- [ ] [《Go 官方博客》](https://blog.golang.org)@Go
+- [ ] [《Go 官方包文档》](https://golang.org/pkg)@Go
+
+### 01-命令参数
+
+### 02-日志处理
+
+### 03-网络框架
+
+### 04-配置文件
+
+### 05-文件处理
+
+### 06-静态资源
+
+## 0x03-Golang 框架
+
+本章节用于记录 Go 语言中的优秀第三方库，其中也包含少量的成品项目。站在巨人的肩膀上跑的更远！
+
+- https://github.com/topics/golang-library
+- https://github.com/topics/framework?l=go
+- https://github.com/topics/golang-application
+- https://pkg.go.dev
+- https://github.com/gogods
+- https://github.com/q191201771/naza | Go 语言基础库 | 368
+- https://github.com/darjun/go-daily-lib | Go 语言每日一库 | 2.2k
+- https://github.com/huntersudo/go-all
+
+### 01-命令参数
+
+- [x] https://github.com/topics/cli?l=go
+- [x] https://github.com/topics/command-line?l=go
+- [x] https://github.com/spf13/cobra | Go 语言命令参数交互指挥官 | 23.5k
+- [ ] https://github.com/urfave/cli | 构建简单快速有趣的命令行应用程序 | 16k
+- [ ] https://github.com/fatih/color | 构建彩色的命令参数应用程序 | 4.2k
+- [ ] https://github.com/mgutz/ansi | 创建彩色的字符串和代码 | 382
+- [ ] https://github.com/logrusorgru/aurora | Golang 的最终 ANSI 颜色 | 1.1k
+- [ ] https://github.com/schollz/progressbar | 线程安全进度条 | 1.6k
+- [ ] https://github.com/labstack/gommon | 终端颜色和日志记录包 | 396
+- [ ] https://github.com/AlecAivazis/survey | 构建交互提示的命令终端 | 2.3k
+- [ ] https://github.com/cheggaaa/pb | Go 语言的控制台进度栏 |2.8k
+- [ ] https://github.com/gookit/color | 控制台颜色渲染工具库 | 1.2K
+- [ ] https://github.com/manifoldco/promptui | 命令行应用程序的交互式提示 | 5.2k
+- [ ] https://github.com/k0kubun/pp
+- [ ] https://github.com/alecthomas/kong
+- [ ] https://github.com/jessevdk/go-flags
+- [ ] https://github.com/charmbracelet/bubbles
+- [ ] https://github.com/charmbracelet/bubbletea
+- [ ] https://github.com/briandowns/spinner
+- [ ] https://github.com/mgutz/ansi
+- [ ] https://github.com/alecthomas/kingpin
+- [ ] https://github.com/msoap/yandex-weather-cli
+- [ ] https://github.com/schachmat/wego
+- [ ] https://github.com/genuinetools/weather
+- [ ] https://github.com/charmbracelet/lipgloss
+- [ ] https://github.com/mattn/go-colorable
+- [ ] https://github.com/ozanh/ugo
+- [ ] https://github.com/maxlandon/readline
+- [ ] https://github.com/maxlandon/gonsole
+- [ ] https://github.com/gizak/termui
+- [ ] https://github.com/alecthomas/chroma
+- [ ] https://github.com/PierreKieffer/htui
+- [ ] https://github.com/go-cmd/cmd
+- [ ] https://github.com/cli/cli
+- [ ] https://github.com/charmbracelet/glow
+- [ ] https://github.com/jawher/mow.cli
+- [ ] https://github.com/skanehira/remonade
+- [ ] https://github.com/pterm/pterm
+- [ ] https://github.com/sachaos/viddy
+- [ ] https://github.com/desertbit/grumble
+- [ ] https://github.com/zalimeni/overdub
+- [ ] https://github.com/ogier/pflag
+- [ ] https://github.com/1pkg/gofire
+- [ ] https://github.com/1pkg/gomer
+- [ ] https://github.com/arthurvdiniz/goli
+- [ ] https://github.com/knqyf263/pet
+- [ ] https://github.com/LeakIX/LeakIXClient
+- [ ] https://github.com/charmbracelet/charm
+- [ ] https://github.com/muesli/mango
+- [ ] https://github.com/ivanpirog/coloredcobra
+- [ ] https://github.com/google/subcommands
+- [ ] https://github.com/dimiro1/banner
+
+### 02-网络框架
+
+- [ ] HTTP 请求响应
+- [ ] https://github.com/topics/request?l=go
+- [ ] https://github.com/Gogods/dshttp
+- [ ] https://golang.org/pkg/net/http | Golang 官方 HTTP 处理库
+- [ ] https://github.com/valyala/fasthttp | Go 的快速实现 HTTP | 15.2k
+- [ ] https://github.com/dean2021/firehttp | 专门用于开发安全工具的 HTTP 类库 | 14
+- [ ] https://github.com/julienschmidt/httprouter | 轻量级高性能 HTTP 请求路由器 | 12.4k
+- [ ] https://github.com/imroc/req | 一个用于人类的 HTTP 请求库 | 2.5k
+- [ ] https://github.com/anaskhan96/soup | Go 中的网页抓取工具 | 1.6k
+- [ ] https://github.com/idoubi/goz | 一个很棒的 HTTP 请求库 | 184
+- [ ] https://github.com/guonaihong/gout | HTTP 领域的瑞士军刀 | 1.1k
+- [ ] https://github.com/mozillazg/request | 友好的 HTTP 请求库 | 394
+- [ ] https://github.com/timakin/bodyclose | 检查 HTTP 响应是否正确关闭 | 181
+- [ ] https://github.com/kirinlabs/HttpRequest | 一个简化的 HTTP 客户端 | 104
+- [ ] https://github.com/zhshch2002/goreq | 一个优雅并简洁的 HTTP 请求库 | 16
+- [ ] https://github.com/telanflow/quick | 简洁高效的 HTTP 请求库 | 4
+- [ ] https://github.com/gorilla/mux | 执行 HTTP 请求的路由和分发 | 13.9k
+- [ ] https://github.com/aceld/zinx | 基于 Golang 轻量级 TCP 并发服务器框架 | 4.3k
+- [ ] https://github.com/asmcos/requests | Golang HTTP 客户端库 | 489
+- [ ] https://github.com/alexedwards/scs | Go 的 HTTP 会话管理 | 839
+- [ ] https://github.com/parnurzeal/gorequest | 简化的 HTTP 客户端 | 2.9k
+- [ ] https://github.com/celrenheit/lion |现代可扩展模块化的 HTTP 路由器 | 749
+- [ ] https://github.com/mssola/user_agent | 解析 HTTP 的 User Agent | 574
+- [ ] https://github.com/google/go-safeweb | 默认安全的 HTTP 服务器 | 362
+- [ ] https://github.com/levigross/grequests | 著名 Requests 库的 Go 克隆 | 1.7k
+- [ ] https://github.com/Greyh4t/zhttp | 对 HTTP 标准库的封装 | 9
+- [ ] https://github.com/moul/http2curl | 将 HTTP 请求转换为 CURL | 590
+- [ ] https://github.com/vmihailenco/treemux | 快速灵活的 HTTP 路由器 | 164
+- [ ] https://github.com/monaco-io/request | HTTP 请求和 HTTP 客户端 | 98
+- [ ] https://github.com/nahid/gohttp | HTTP 客户端 | 48
+- [ ] https://github.com/corpix/uarand | 随机 user-agent 生成器 | 48
+- [ ] https://github.com/projectdiscovery/rawhttp | 原始的 HTTP 客户端 | 23
+- [ ] https://github.com/go-resty/resty | 用于 Go 的简单 HTTP 和 REST 客户端库 | 4.3k
+- [ ] https://github.com/kitabisa/mubeng | 快速代理检查器和 IP 轮换器 | 430
+- [ ] https://github.com/xiecat/xhttp | 应用于扫描器场景下的 http 基础库 | 13
+- [ ] https://github.com/code-scan/Goal | Go Red-Team 工具类 | 35
+- [ ] https://github.com/astaxie/bat
+- [ ] https://github.com/1pkg/hedgehog
+- [ ] https://github.com/dimfeld/httptreemux
+- [ ] https://github.com/qiniu/http
+- [ ] https://github.com/ddliu/go-httpclient
+- [ ] https://github.com/tomnomnom/gahttp
+- [ ] https://github.com/thedevsaddam/govalidator
+- [ ] https://github.com/Albert-Zhan/httpc
+- [ ] https://github.com/mjwhitta/win
+- [ ] https://github.com/urfave/negroni
+- [ ] https://github.com/c26root/hb
+- [ ] https://github.com/DavidCai1993/request
+- [ ] https://github.com/PuerkitoBio/goquery
+- [ ] https://github.com/grokify/html-strip-tags-go
+- [ ] https://github.com/kataras/compress
+- [ ] https://github.com/gonetx/httpit
+- [ ] https://github.com/projectdiscovery/simplehttpserver
+- [ ] https://github.com/DonMcNamara/requestinator
+- [ ] https://github.com/nodauf/Swego
+- [ ] https://github.com/zMrKrabz/fhttp
+- [ ] https://github.com/PuerkitoBio/purell
+- [ ] https://github.com/temoto/robotstxt
+- [ ] https://github.com/abbot/go-http-auth
+- [ ] https://github.com/dghubble/sling
+- [ ] https://github.com/Qingluan/jupyter
+- [ ] https://github.com/benbjohnson/myapp
+- [ ] https://github.com/EmYiQing/http-parse
+- [ ] https://github.com/codesenberg/bombardier
+- [ ] https://github.com/utkusen/reqstress
+- [ ] https://github.com/vulcand/oxy
+- [ ] https://github.com/foolin/goview
+- [ ] https://github.com/six-ddc/plow
+- [ ] https://github.com/tsenart/vegeta
+- [ ] https://github.com/buger/goreplay
+- [ ] https://github.com/davecheney/httpstat
+- [ ] https://github.com/coyove/goflyway
+- [ ] https://github.com/DarthPestilane/easytcp
+- [ ] https://github.com/zalando/skipper
+- [ ] https://github.com/xujiajun/gorouter
+- [ ] https://github.com/antlabs/httparser
+- [ ] https://github.com/easonlin404/license-proxy
+- [ ] https://github.com/tidwall/evio
+- [ ] https://github.com/aofei/r2
+- [ ] https://github.com/shlin168/go-whois
+- [ ] https://github.com/hashicorp/go-retryablehttp
+- [ ] https://github.com/bujnlc8/kuafu
+- [ ] https://github.com/hashicorp/go-retryablehttp
+- [ ] https://github.com/codazoda/x3
+- [ ] https://github.com/go-fed/httpsig
+- [ ] https://github.com/fanux/lhttp
+- [ ] https://github.com/Mrs4s/go-cqhttp
+- [ ] https://github.com/SagerNet/badhttp
+- [ ] https://github.com/chaitin/blazehttp
+- [ ] FTP
+- [ ] https://github.com/jlaffaye/ftp
+- [ ] RDP
+- [ ] https://github.com/tomatome/grdp
+- [ ] IP 代理
+- [ ] https://github.com/topics/proxypool?l=go
+- [ ] https://github.com/henson/proxypool
+- [ ] https://github.com/a3kSec/purl
+- [ ] https://github.com/nccgroup/wstalker
+- [ ] https://github.com/GameXG/ProxyClient
+- [ ] https://github.com/akkuman/rotateproxy
+- [ ] https://github.com/CreditTone/superproxy
+- [ ] https://github.com/lqqyt2423/go-mitmproxy
+- [ ] https://github.com/kxg3030/shermie-proxy
+- [ ] https://github.com/yqcs/ipProxy
+- [ ] https://github.com/howmp/iisproxy
+- [ ] https://github.com/Ggasdfg321/SmallProxyPool
+- [ ] DNS 处理
+- [ ] https://github.com/miekg/dns
+- [ ] https://github.com/babolivier/go-doh-client
+- [ ] https://github.com/m13253/dns-over-https
+- [ ] https://github.com/mosajjal/dnsmonster
+- [ ] https://github.com/AlfredBerg/dnsline
+- [ ] https://github.com/awgh/madns
+- [ ] https://github.com/coredns/coredns
+- [ ] https://github.com/vaycore/DNStxt-exp
+- [ ] https://github.com/ogham/dog
+- [ ] 其他框架
+- [ ] https://github.com/fullstorydev/grpcurl
+- [ ] https://github.com/go-cierra/sockets
+- [ ] https://github.com/nakabonne/ali
+- [ ] https://github.com/digineo/go-ping
+- [ ] https://github.com/xiecat/xnetwork
+- [ ] https://github.com/slackhq/nebula
+
+### 03-类型系统
+
+- [ ] https://github.com/goplus/gop
+- [ ] https://github.com/88250/gulu
+- [ ] https://github.com/zyedidia/generic
+- [ ] https://github.com/go-ldap/ldap
+
+### 04-文件处理
+
+- [ ] TXT 文件
+- [ ] https://pkg.go.dev/os
+- [x] https://github.com/Gogods/dstxt
+- [ ] https://github.com/evilsocket/brutemachine | 通过接口来循环字典 | 46
+- [ ] https://github.com/alash3al/re-txt
+- [ ] https://github.com/qiniu/text
+- [ ] https://github.com/schollz/pluck
+- [ ] https://github.com/skyerhxx/TextBigDataProcess
+- [ ] https://github.com/AlaxLee/easyregexp
+- [ ] https://github.com/tomnomnom/securitytxt
+- [ ] https://github.com/1set/todotxt
+- [ ] https://github.com/golang/text
+- [ ] https://github.com/disclose/diosts
+- [ ] https://github.com/cybrcodr/txttools
+- [ ] https://github.com/Qingluan/FrameUtils
+- [ ] Excel 文件
+- [ ] https://github.com/tealeg/xlsx
+- [ ] https://github.com/qax-os/excelize
+- [ ] https://github.com/foolin/gocsv
+- [ ] https://github.com/jm33-m0/txt2csv
+- [ ] https://github.com/tmickleydoyle/shallow-explore
+- [ ] https://github.com/rkritchat/csvtogo
+- [ ] Word 文件
+- [ ] https://github.com/unidoc/unioffice
+- [ ] https://github.com/sajari/word2vec
+- [ ] https://github.com/mattn/docx2md
+- [ ] PDF 文件
+- [ ] https://github.com/pdfcpu/pdfcpu
+- [ ] https://github.com/mikeshimura/goreport
+- [ ] https://github.com/jung-kurt/gofpdf
+- [ ] https://github.com/signintech/gopdf
+- [ ] https://github.com/unidoc/unipdf
+- [ ] https://github.com/thecodingmachine/gotenberg
+- [ ] HTML 文件
+- [ ] https://github.com/jaytaylor/html2text
+- [ ] https://github.com/yosssi/ace
+- [ ] Others
+- [ ] https://github.com/sajari/docconv
+- [ ] https://github.com/cnf/structhash | Hash 计算 | 116
+- [ ] https://github.com/hpcloud/tail
+- [ ] https://github.com/antchfx/htmlquery
+- [ ] https://github.com/xuri/xgen
+- [ ] https://github.com/benoitkugler/textlayout
+- [ ] https://github.com/tidwall/bfile
+
+### 05-数据处理
+
+- [ ] MySQL
+- [ ] https://github.com/go-sql-driver/mysql
+- [ ] https://github.com/pingcap/tidb
+- [ ] https://github.com/jmoiron/sqlx
+- [ ] https://github.com/XiaoMi/Gaea
+- [ ] https://github.com/flike/kingshard
+- [ ] https://github.com/Andrew-M-C/go.mysqlx
+- [ ] https://github.com/cookieY/Yearning
+- [ ] https://github.com/vitessio/vitess
+- [ ] https://github.com/xelabs/go-mysqlstack
+- [ ] https://github.com/vitessio/vitess
+- [ ] https://github.com/niudaii/go-sql
+- [ ] MongoDB
+- [ ] https://gopkg.in/mgo.v2
+- [ ] https://github.com/Cgboal/SonarSearch
+- [ ] https://github.com/mongodb/mongo-go-driver
+- [ ] https://github.com/qiniu/qmgo
+- [ ] https://github.com/256dpi/lungo
+- [ ] https://github.com/btubbs/pgq
+- [ ] PostgreSQL
+- [ ] https://github.com/go-pg/pg
+- [ ] https://github.com/prest/prest
+- [ ] https://github.com/sosedoff/pgweb
+- [ ] Redis
+- [ ] https://github.com/go-redis/redis
+- [ ] https://github.com/HDT3213/godis
+- [ ] Others
+- [ ] https://github.com/jackc/pgx
+- [ ] https://github.com/boltdb/bolt
+- [ ] https://github.com/ideawu/ssdb
+- [ ] https://github.com/go-gorm/gorm
+- [ ] https://github.com/syndtr/goleveldb
+- [ ] https://github.com/didiyudha/sse-redis
+- [ ] https://github.com/shenghui0779/yiigo
+- [ ] https://github.com/denisenkom/go-mssqldb
+- [ ] https://github.com/rubenv/sql-migrate
+- [ ] https://github.com/syndtr/goleveldb
+- [ ] https://github.com/kashav/fsql
+- [ ] https://github.com/zombiezen/go-sqlite
+- [ ] https://github.com/xo/usql
+- [ ] https://github.com/hantmac/fuckdb
+- [ ] https://github.com/Masterminds/squirrel
+- [ ] https://github.com/lqs/sqlingo
+- [ ] https://github.com/volatiletech/sqlboiler
+- [ ] https://github.com/didi/gendry
+- [ ] https://github.com/codenotary/immudb
+- [ ] https://github.com/doug-martin/goqu
+- [ ] https://github.com/alash3al/sqler
+- [ ] https://github.com/uptrace/bun
+- [ ] https://github.com/dubbogo/arana
+- [ ] https://github.com/ariga/atlas
+- [ ] https://github.com/brokercap/Bifrost
+- [ ] https://github.com/VinGarcia/ksql
+
+### 06-配置文件
+
+- [x] JSON
+- [ ] https://github.com/topics/json?l=go
+- [ ] https://github.com/simeji/jid
+- [ ] https://github.com/lqiz/amoeba
+- [ ] https://github.com/Jeffail/gabs
+- [ ] https://github.com/tidwall/sjson
+- [ ] https://github.com/tidwall/pjson
+- [ ] https://github.com/json-iterator/go
+- [ ] https://github.com/buger/jsonparser
+- [ ] https://github.com/layeh/gopher-json
+- [ ] https://golang.org/pkg/encoding/json
+- [ ] https://github.com/Andrew-M-C/go.jsonvalue
+- [ ] https://github.com/alecthomas/jsonschema
+- [ ] https://github.com/tidwall/gjson
+- [ ] https://github.com/ChimeraCoder/gojson
+- [ ] https://github.com/valyala/fastjson
+- [ ] https://github.com/Qntfy/kazaam
+- [ ] https://github.com/elgs/gojq
+- [ ] https://github.com/wI2L/jsondiff
+- [ ] https://github.com/tidwall/jsonc
+- [ ] https://github.com/gulyasm/jsonui
+- [ ] https://github.com/a8m/djson
+- [ ] https://github.com/bcicen/jstream
+- [ ] https://github.com/Comcast/eel
+- [ ] https://github.com/m7shapan/njson
+- [ ] https://github.com/spyzhov/ajson
+- [ ] https://github.com/Anderson-Lu/gofasion
+- [ ] https://github.com/bradford-hamilton/dora
+- [ ] https://github.com/pkg/json
+- [ ] https://github.com/admpub/json5
+- [ ] https://github.com/bytedance/sonic | 一个极快的 JSON 序列化和反序列化库 | 291
+- [ ] https://github.com/artyom/json2yaml
+- [ ] https://github.com/goccy/go-json
+- [ ] https://github.com/tailscale/hujson
+- [ ] https://github.com/misakafs/json-to-go
+- [ ] https://github.com/Unknwon/goconfig
+- [ ] https://github.com/cristalhq/aconfig
+- [ ] https://github.com/mailru/easyjson
+- [ ] https://github.com/fiatjaf/jiq
+- [ ] https://github.com/caarlos0/jsonfmt
+- [ ] https://github.com/hajimehoshi/hitsumabushi
+- [ ] https://github.com/go-faster/jx
+- [ ] https://github.com/dolmen-go/jsonptr
+- [ ] https://github.com/tomnomnom/gron
+- [ ] https://github.com/antonmedv/fx
+- [ ] https://github.com/yudppp/json2struct
+- [x] YAML
+- [x] https://github.com/topics/yaml?l=go
+- [ ] https://gopkg.in/yaml.v2
+- [ ] https://gopkg.in/yaml.v3
+- [ ] https://github.com/go-yaml/yaml
+- [ ] https://github.com/go-yaml/yaml/tree/v3
+- [ ] https://github.com/kylelemons/go-gypsy
+- [ ] https://github.com/ghodss/yaml
+- [ ] https://github.com/bronze1man/yaml2json
+- [ ] https://github.com/goccy/go-yaml
+- [ ] https://github.com/mikefarah/yq
+- [ ] https://github.com/hillu/go-yara
+- [ ] https://github.com/PrasadG193/yaml2go
+- [x] INI
+- [x] https://github.com/topics/ini?l=go
+- [ ] https://github.com/go-ini/ini
+- [ ] https://gopkg.in/gcfg.v1
+- [ ] https://github.com/go-gcfg/gcfg
+- [x] TOML
+- [ ] https://github.com/BurntSushi/toml
+- [x] Others
+- [ ] https://github.com/knadh/koanf | JSON, TOML, YAML 解析 | 1.3k
+- [ ] https://github.com/antlr/antlr4
+- [ ] https://github.com/alash3al/re-txt
+- [ ] https://github.com/thedevsaddam/gojsonq
+- [ ] https://github.com/ugorji/go
+- [ ] https://github.com/spf13/viper
+- [ ] https://github.com/ilyakaznacheev/cleanenv
+- [ ] https://github.com/olebedev/config
+- [ ] https://github.com/gookit/config
+- [ ] https://github.com/hjson/hjson-go
+- [ ] https://github.com/joshbetz/config
+- [ ] https://github.com/One-com/gone/tree/master/jconf
+- [ ] https://github.com/alecthomas/participle
+- [ ] https://github.com/kris-nova/naml
+- [ ] https://github.com/TomWright/dasel
+- [ ] https://github.com/EFForg/yaya
+- [ ] https://github.com/xfali/fig
+
+### 07-协程并发
+
+- [ ] https://github.com/topics/concurrency?l=go
+- [ ] https://github.com/topics/goroutine?l=go
+- [ ] https://github.com/topics/pool?l=go
+- [x] https://github.com/panjf2000/ants | 高性能低损耗的 goroutine 池 | 5.6k
+- [ ] https://github.com/Jeffail/tunny | Go 的 goroutine 池 | 2.3k
+- [ ] https://github.com/alitto/pond | 简约高性能 goroutine 工作池 | 212
+- [ ] https://github.com/oklog/run | 管理 goroutine 生命周期的通用机制 | 921
+- [ ] https://github.com/xxjwxc/gowp | 并发限制 goroutine 池 | 283
+- [ ] https://github.com/dean2021/hackpool | 北半球最优雅的协程池 | 6
+- [ ] https://github.com/sugtex/gribbon | 简单高效协程池 | 7
+- [ ] https://github.com/sugtex/moles | 高性能协程池 | 8
+- [ ] https://github.com/letsfire/factory| Go 语言的协程池 | 13
+- [ ] https://github.com/ivpusic/grpool | 轻巧的 Goroutine 泳池 | 630
+- [ ] https://github.com/go-playground/pool | 有限的或无限制的 goroutine |612
+- [x] https://github.com/gammazero/workerpool | 并发限制 goroutine 池 | 759
+- [ ] https://github.com/wazsmwazsm/mortar | 简单好用的高性能任务池 | 67
+- [ ] https://github.com/hibiken/asynq | 简单可靠高效的分布式任务队列 | 1.9k
+- [ ] https://github.com/modern-go/concurrent | 并发实用程序 | 190
+- [ ] https://github.com/sherifabdlnaby/gpool | 上下文可调整的 goroutines | 78
+- [ ] https://github.com/sourcegraph/conc
+- [ ] https://github.com/marusama/cyclicbarrier
+- [ ] https://github.com/qianguozheng/go-workerpool
+- [ ] https://github.com/mdlayher/schedgroup
+- [ ] https://github.com/benmanns/goworker
+- [ ] https://github.com/remeh/sizedwaitgroup
+- [ ] https://github.com/enriquebris/goworkerpool
+- [ ] https://github.com/antonmashko/taskq
+- [ ] https://github.com/samsarahq/taskrunner
+- [ ] https://github.com/jiajunhuang/gotasks
+- [ ] https://github.com/LyricTian/queue
+- [ ] https://github.com/go-task/task
+- [ ] https://github.com/asaskevich/EventBus
+- [ ] https://github.com/uber-go/ratelimit
+- [ ] https://github.com/golang-queue/queue
+- [ ] https://github.com/valyala/bytebufferpool
+- [ ] https://github.com/alphadose/ZenQ
+- [ ] https://github.com/realjf/gopool
+
+### 08-日志处理
+
+- [ ] https://github.com/topics/log?l=go
+- [ ] https://github.com/topics/logger?l=go
+- [ ] https://github.com/topics/logging?l=go
+- [ ] https://golang.org/pkg/log | Go 语言官方日志库
+- [ ] https://github.com/sirupsen/logrus | 强大的 Go 日志第三分库 | 17.7k
+- [ ] https://github.com/uber-go/zap | uber 出品的日志库 | 12.5k
+- [ ] https://github.com/rs/zerolog | 零分配 JSON 记录器 | 4.6k
+- [ ] https://github.com/oklog/oklog | 分布式无协调日志管理系统 | 2.9k
+- [ ] https://github.com/golang/glog | Go 的分级执行日志 | 2.7k
+- [ ] https://github.com/loggie-io/loggie
+- [ ] https://github.com/kataras/golog
+- [ ] https://github.com/go-clog/clog
+- [ ] https://github.com/davecgh/go-spew
+- [ ] https://github.com/go-clog/clog
+- [ ] https://github.com/imroc/log
+- [ ] https://github.com/gookit/slog
+- [ ] https://github.com/foomo/logfrog
+- [ ] https://github.com/bp0lr/go-logger
+- [ ] https://github.com/chzyer/logex
+- [ ] https://github.com/sigstore/rekor
+- [ ] https://github.com/hashicorp/go-multierror
+- [ ] https://github.com/projectdiscovery/gologger
+- [ ] https://github.com/sanity-io/litter
+- [ ] https://github.com/apex/log
+- [ ] https://github.com/francoispqt/onelog
+- [ ] https://github.com/influxdata/go-syslog
+- [ ] https://github.com/phuslu/log
+- [ ] https://github.com/stern/stern
+- [ ] https://github.com/cihub/seelog
+- [ ] https://github.com/YoungPioneers/blog4go
+- [ ] https://github.com/mkideal/log
+- [ ] https://github.com/ian-kent/go-log
+- [ ] https://github.com/ianberdin/l
+- [ ] https://github.com/natefinch/lumberjack
+- [ ] https://github.com/hpcloud/tail
+- [ ] https://github.com/cihub/seelog
+- [ ] https://github.com/apex/log
+- [ ] https://github.com/inconshreveable/log15
+- [ ] https://github.com/denji/oklog
+- [ ] https://github.com/liushuochen/gotable
+- [ ] https://github.com/josharian/log10
+- [ ] https://github.com/google/mtail
+- [ ] https://github.com/keakon/golog
+- [ ] https://github.com/goreleaser/chglog
+- [ ] https://github.com/m-mizutani/zlog
+- [ ] https://github.com/evalphobia/logrus_sentry
+- [ ] https://github.com/go-logr/logr
+- [ ] https://github.com/charmbracelet/log
+
+### 09-错误处理
+
+- [ ] https://github.com/ducc/egg
+- [ ] https://github.com/pkg/errors
+- [ ] https://github.com/rotisserie/eris
+- [ ] https://github.com/joomcode/errorx
+- [ ] https://github.com/cockroachdb/errors
+- [ ] https://github.com/WAY29/errors
+
+### 10-单元测试
+
+- [ ] https://github.com/h2non/gock
+- [ ] https://github.com/onsi/ginkgo
+- [ ] https://github.com/fortio/fortio
+- [ ] https://github.com/stretchr/testify
+- [ ] https://github.com/pinterest/bender
+- [ ] https://github.com/felixge/sprof
+- [ ] https://github.com/WillAbides/benchdiff
+- [ ] https://github.com/frankban/quicktest
+- [ ] https://github.com/vmihailenco/go-cache-benchmark
+- [ ] https://github.com/360EntSecGroup-Skylar/goreporter
+- [ ] https://github.com/utkusen/reqstress
+- [ ] https://github.com/matryer/is
+- [ ] https://github.com/smartystreets/goconvey
+- [ ] https://github.com/lamoda/gonkey
+- [ ] https://github.com/cweill/gotests
+
+### 11-电子邮件
+
+- [ ] https://github.com/topics/mail?l=go
+- [ ] https://github.com/topics/email?l=go
+- [ ] https://github.com/topics/smtp?l=go
+- [ ] https://gopkg.in/gomail.v2 | 发送电子邮件的最佳方法
+- [ ] https://github.com/go-gomail/gomail | 发送电子邮件的最佳方法 | 3.2k
+- [ ] https://github.com/foxcpp/maddy | 可组合的多合一邮件服务器 | 2.3k
+- [ ] https://github.com/jordan-wright/email | 强大而灵活的 Go 电子邮件库 | 1.7k
+- [ ] https://github.com/domodwyer/mailyak | 优雅的 SMTP 电子邮件库 | 247
+- [ ] https://github.com/nikoksr/notify | 通知发送各种消息服务 | 789
+- [ ] https://github.com/davidbanham/marcel | 用于 golang 的电子邮件 MIME 艺术家 | 19
+- [ ] https://github.com/matcornic/hermes | 用于发送交易电子邮件 | 2.3k
+- [ ] https://github.com/albertito/chasquid | 简单安全易操作性的电子邮件服务器 | 434
+- [ ] https://github.com/emersion/go-imap | 用于客户端和服务器的 IMAP 库 | 1.2k
+- [ ] https://github.com/emersion/go-message | Internet 邮件格式的 Go 库 | 200
+- [ ] https://github.com/vanng822/go-premailer | Golang 中 HTML 邮件的内联样式 | 71
+- [x] https://github.com/xhit/go-simple-mail | 批量发送电子邮件 | 133
+- [ ] https://github.com/hectane/hectane | 用 Go 编写的轻量级 SMTP 客户端 | 205
+- [ ] (https://github.com/mailgun/mailgun-go | 使用 Mailgun API 发送邮件 | 520
+- [ ] https://github.com/mailhog/MailHog | 基于 Web 和 API 的 SMTP 测试 | 8.4k
+- [ ] https://github.com/mailhog/mhsendmail | 通过 MailHog 发送邮件 | 176
+- [ ] https://github.com/sendgrid/sendgrid-go| 通过 SendGrid api 批量发送邮件 | 724
+- [ ] https://github.com/toorop/tmail | Golang 的 SMTP 服务器 | 251
+- [ ] https://github.com/gopistolet/gopistolet | 用 Go 编写的邮件服务器 46
+- [ ] https://github.com/flashmob/go-guerrilla | Golang 编写的迷你 SMTP 服务器 | 2k
+- [ ] https://github.com/inbucket/inbucket | 一次性 Webmail 服务器 | 701
+- [ ] https://github.com/emersion/go-smtp | 用 Go 编写的 SMTP 客户端和服务器库 | 668
+- [ ] https://github.com/go-mail/mail | gomail 的另一个优秀分支 | 342
+- [ ] https://github.com/toorop/tmail | Golang SMTP 服务器 | 251
+- [ ] https://github.com/networkimprov/mnm | 构建电子邮件的合法替代品 | 177
+- [ ] https://github.com/gleez/smtpd | 轻量级高性能 ESMTP 电子邮件服务器 | 176
+- [ ] https://github.com/alash3al/go-smtpsrv | SMTP 服务器的程序包 | 90
+- [ ] https://github.com/rykov/paperboy | 使用 GoLang 构建电子邮件营销活动 | 413
+- [ ] https://github.com/jhillyerd/enmime | Go 的 MIME 邮件编码和解码包 | 252
+- [ ] https://github.com/eXeC64/nanolist | 轻量级邮件列表管理器 | 154
+- [ ] https://github.com/rodcorsi/mattermail | 最重要的电子邮件集成 | 145
+- [ ] https://github.com/DusanKasan/parsemail | Golang 的简单电子邮件解析 112
+- [ ] https://github.com/badoux/checkmail | 用于电子邮件验证的 Golang 软件包 | 573
+- [ ] https://github.com/muquit/mailsend-go | 通过 SMTP 协议发送邮件 | 90
+- [ ] https://github.com/AfterShip/email-verifier | 验证码电子邮件是否有效 | 222
+- [ ] https://github.com/go-email-validator/go-email-validator | Golang 电子邮件地址验证器 | 8
+- [ ] https://github.com/JojiiOfficial/Matrix-EmailBridge | 接收和发送电子邮件 | 52
+- [ ] https://github.com/chrj/smtpd | 转到 SMTP 服务器库 | 47
+- [ ] https://github.com/smancke/mailck | 用于基于 smtp 的电子邮件验证 | 46
+- [ ] https://github.com/hqd8080/go-sendmail | golang 定时发送邮件 | 2
+- [ ] https://github.com/go-mailer/send | Golang 邮件发送 | 14
+- [ ] https://github.com/ChinaArJun/forum | 一个简单的 WEB 邮件项目 | 4
+- [ ] https://github.com/lixuancn/mailservice | 发送邮件的服务 | 3
+- [ ] https://github.com/knadh/listmonk
+
+### 12-图形框架
+
+- [ ] https://github.com/andlabs/ui
+- [ ] https://github.com/ying32/govcl
+- [ ] https://github.com/kpfaulkner/goui
+- [ ] https://github.com/fyne-io/fyne
+- [ ] https://github.com/lxn/walk
+- [ ] https://github.com/aarzilli/gdlv
+- [ ] https://github.com/go-vgo/robotgo
+- [ ] https://github.com/tadvi/winc
+
+### 13-Web 框架
+
+- [ ] https://github.com/topics/web?l=go
+- [x] https://github.com/kataras/iris
+- [ ] https://github.com/beego/beego
+- [ ] https://github.com/gohugoio/hugo
+- [ ] https://github.com/gin-gonic/gin
+- [ ] https://github.com/gofiber/fiber
+- [ ] https://github.com/gogf/gf
+- [ ] https://github.com/wjpxxx/letgo
+- [ ] https://github.com/staaldraad/xxeserv
+- [ ] https://github.com/caddyserver/caddy
+- [ ] https://github.com/revel/revel
+- [ ] https://github.com/labstack/echo
+- [ ] https://github.com/go-martini/martini
+- [ ] https://github.com/fumeboy/nji
+- [ ] https://github.com/savsgio/atreugo
+- [ ] https://github.com/tal-tech/go-zero
+- [ ] https://github.com/karldoenitz/Tigo
+- [ ] https://github.com/System-Glitch/goyave
+- [ ] https://github.com/xinliangnote/go-gin-api
+- [ ] https://github.com/buildkite/terminal-to-html
+- [ ] https://github.com/gin-gonic/examples
+- [ ] https://github.com/gookit/rux
+- [ ] https://github.com/vicanso/elton
+- [ ] https://github.com/patrickhener/goshs
+- [ ] https://github.com/gphper/ginadmin
+- [ ] https://github.com/gotuna/gotuna
+- [ ] https://github.com/teambition/gear
+- [ ] https://github.com/flamego/flamego
+- [ ] https://github.com/go-macaron/macaron
+- [ ] https://github.com/coscms/forms
+- [ ] https://echo.labstack.com
+- [ ] https://www.snowlyg.com/chapter/0
+- [ ] https://github.com/confetti-framework/confetti
+- [ ] https://github.com/smallnest/go-web-framework-benchmark
+- [ ] https://github.com/qifengzhang007/GinSkeleton
+- [ ] https://github.com/wailsapp/wails
+- [ ] https://github.com/goal-web/goal
+- [ ] https://github.com/livebud/bud
+- [ ] https://github.com/wenlng/go-captcha
+- [ ] https://github.com/tiger1103/gfast
+- 前端 UI
+- [ ] https://github.com/vuejs/vue
+- [ ] https://github.com/layui/layui
+
+### 14-爬虫框架
+
+- [x] https://github.com/gocolly/colly
+- [ ] https://github.com/mvdan/xurls
+- [ ] https://github.com/zhshch2002/gospider
+- [ ] https://github.com/PuerkitoBio/gocrawl
+- [ ] https://github.com/crawlab-team/crawlab
+- [ ] https://github.com/el10savio/GoCrawler
+- [ ] https://github.com/china-muwenbo/gospider
+- [ ] https://github.com/geziyor/geziyor
+
+### 15-时间日期
+
+- [ ] https://github.com/jinzhu/now
+- [ ] https://github.com/rfyiamcool/timingwheel
+- [ ] https://github.com/nakabonne/tstorage
+- [ ] https://github.com/cappuccinotm/trn
+
+### 16-图像处理
+
+- [ ] https://github.com/anthonynsimon/bild
+- [ ] https://github.com/3d0c/gmf
+- [ ] https://github.com/hybridgroup/gocv
+- [ ] https://github.com/MindorksOpenSource/gogeom
+
+### 17-消息队列
+
+- [ ] https://github.com/nsqio/nsq
+- [ ] https://github.com/MasslessParticle/GoQ
+
+### 18-机器学习
+
+- [ ] https://github.com/sjwhitworth/golearn
+- [ ] https://github.com/replicate/cog
+
+### 19-交叉编译
+
+- [ ] https://github.com/Gogods/gox
+- [ ] https://github.com/mitchellh/gox
+- [ ] https://github.com/karalabe/xgo
+- [ ] https://github.com/laher/goxc
+- [ ] https://github.com/crazy-max/xgo
+- [ ] https://github.com/robertkrimen/gxc
+- [ ] https://github.com/workcha/crossCompile
+
+### 20-定时任务
+
+- [ ] https://github.com/robfig/cron
+- [ ] https://github.com/jasonlvhit/gocron
+
+### 21-RSS 框架
+
+- [ ] https://github.com/mmcdole/gofeed
+- [ ] https://github.com/gorilla/feeds
+- [ ] https://github.com/nkanaev/gofeed
+- [ ] https://github.com/x0e1f/alerteye
+
+### 22-静态资源
+
+- [ ] https://github.com/gobuffalo/packr
+- [ ] https://github.com/markbates/pkger
+- [ ] https://github.com/rakyll/statik
+- [ ] https://github.com/knadh/stuffbin
+
+### 23-其他框架
+
+- [ ] https://github.com/FiloSottile/age | 简单安全的加密工具 | 6k
+- [ ] https://github.com/xtaci/kcp-go
+- [ ] https://github.com/iancoleman/strcase
+- [ ] https://github.com/shaj13/libcache
+- [ ] https://github.com/gojuukaze/YTask
+- [ ] https://github.com/gocelery/gocelery
+- [ ] https://github.com/prometheus/client_golang
+- [ ] https://github.com/blugelabs/bluge
+- [ ] https://github.com/dzhou121/gonvim
+- [ ] https://github.com/RussellLuo/validating
+- [ ] https://github.com/owenrumney/go-sarif
+- [ ] https://github.com/google/gopacket
+- [ ] https://github.com/gomodule/redigo
+- [ ] https://github.com/mozillazg/go-pinyin
+- [ ] https://github.com/brutella/hc
+- [ ] https://github.com/asim/nitro
+- [ ] https://github.com/go-redis/cache
+- [ ] https://github.com/dushixiang/tcpwall
+- [ ] https://github.com/awesome-gocui/gocui
+- [ ] https://github.com/go-echarts/go-echarts
+- [ ] https://github.com/elastic/go-elasticsearch
+- [ ] https://github.com/mix-go/mix
+- [ ] https://github.com/LaYa-op/laya-go
+- [ ] https://github.com/vugu/vugu
+- [ ] https://gitea.com/xorm/xorm
+- [ ] https://github.com/hodgesds/perf-utils
+- [ ] https://github.com/snowlyg/gotransformer
+- [ ] https://github.com/go-kratos/kratos
+- [ ] https://github.com/fcharlie/buna
+- [ ] https://github.com/c-bata/go-prompt
+- [ ] https://github.com/cespare/xxhash
+- [ ] https://github.com/thinkgos/http-middlewares
+- [ ] https://github.com/allegro/bigcache
+- [ ] https://github.com/eiannone/keyboard
+- [ ] https://github.com/bojanz/address
+- [ ] https://github.com/silenceper/pool
+- [ ] https://github.com/BlackCodes/logbud
+- [ ] https://github.com/intel-go/nff-go
+- [ ] https://github.com/malfunkt/hyperfox
+- [ ] https://github.com/icodeface/grdp
+- [ ] https://github.com/Madnikulin50/gordp
+- [ ] https://github.com/admpub/email-verifier
+- [ ] https://github.com/traefik/yaegi
+- [ ] https://github.com/signintech/gopdf
+- [ ] https://github.com/gogf/focus
+- [ ] https://github.com/yourbasic/graph
+- [ ] https://github.com/xgfone/bt
+- [ ] https://github.com/rqlite/rqlite
+- [ ] https://github.com/ericlagergren/decimal
+- [ ] https://github.com/hajimehoshi/oto
+- [ ] https://github.com/genuinetools/img
+- [ ] https://github.com/pquerna/otp
+- [ ] https://github.com/go-kit/kit
+- [ ] https://github.com/kubernetes/klog
+- [ ] https://github.com/xlab/treeprint
+- [ ] https://github.com/influxdata/influxdb
+- [ ] https://github.com/influxdata/influxdb-client-go
+- [ ] https://github.com/zmap/zcrypto
+- [ ] https://github.com/rmb122/rogue_mysql_server
+- [ ] https://github.com/go-ffmt/ffmt
+- [ ] https://github.com/mitchellh/mapstructure
+- [ ] https://github.com/onsi/gomega
+- [ ] https://github.com/apuigsech/seekret
+- [ ] https://github.com/tidwall/redcon
+- [ ] https://github.com/avast/retry-go
+- [ ] https://github.com/markusmobius/go-domdistiller
+- [ ] https://github.com/gobuffalo/logger
+- [ ] https://github.com/kbinani/screenshot
+- [ ] https://github.com/beevik/ntp
+- [ ] https://github.com/coredhcp/coredhcp
+- [ ] https://github.com/rfyiamcool/gpool
+- [ ] https://github.com/jtguibas/cinema
+- [ ] https://github.com/aarzilli/nucular
+- [ ] https://github.com/go-delve/delve
+- [ ] https://github.com/wuhan005/jkit
+- [ ] https://github.com/rclone/rclone
+- [ ] https://github.com/diamondburned/handy
+- [ ] https://github.com/jinzhu/copier | 将值从一个 struct 复制到另一个 struct | 1.7k
+- [ ] https://github.com/radondb/radon
+- [ ] https://github.com/capnspacehook/taskmaster
+- [ ] https://github.com/vardius/gollback
+- [ ] https://github.com/go-pkgz/syncs
+- [ ] https://github.com/go-rod/rod
+- [ ] https://github.com/tidwall/pjson
+- [ ] https://github.com/benbjohnson/litestream
+- [ ] https://github.com/nlpodyssey/spago
+- [ ] https://github.com/go-bindata/go-bindata
+- [ ] https://github.com/link1st/go-stress-testing
+- [ ] https://github.com/gavv/httpexpect
+- [ ] https://github.com/vyrus001/msflib
+- [ ] https://github.com/prometheus/prometheus
+- [ ] https://github.com/labulaka521/crocodile
+- [ ] https://github.com/hidez8891/shm
+- [ ] https://github.com/asaskevich/govalidator
+- [ ] https://github.com/easy-bus/bus
+- [ ] https://github.com/benbjohnson/litestream
+- [ ] https://github.com/getlantern/systray
+- [ ] https://github.com/hbollon/go-edlib
+- [ ] https://github.com/hunterhug/rlock
+- [ ] https://github.com/akitasoftware/akita-cli
+- [ ] https://github.com/hunterhug/marmot
+- [ ] https://github.com/thoas/go-funk
+- [ ] https://github.com/mjibson/esc
+- [ ] https://github.com/gosnmp/gosnmp
+- [ ] https://github.com/gen2brain/go-unarr
+- [ ] https://github.com/dwisiswant0/discat
+- [ ] https://github.com/caibirdme/yql
+- [ ] https://github.com/rbrahul/gofp
+- [ ] https://github.com/znly/strobfus
+- [ ] https://github.com/golang/snappy
+- [ ] https://github.com/gorilla/websocket
+- [ ] https://github.com/andybalholm/cascadia
+- [ ] https://github.com/GoAdminGroup/go-admin
+- [ ] https://github.com/olekukonko/tablewriter
+- [ ] https://github.com/ns3777k/go-shodan
+- [ ] https://github.com/itchyny/gojq
+- [ ] https://github.com/fzipp/gofind
+- [ ] https://github.com/h2non/bimg
+- [ ] https://github.com/microsoft/onefuzz
+- [ ] https://github.com/nfnt/resize
+- [ ] https://github.com/ropnop/go-clr
+- [ ] https://github.com/changkun/midgard
+- [ ] https://github.com/Allenxuxu/gev
+- [ ] https://github.com/Allenxuxu/ringbuffer
+- [ ] https://github.com/Allenxuxu/eviop
+- [ ] https://github.com/hajimehoshi/ebiten
+- [ ] https://github.com/Allenxuxu/gev
+- [ ] https://github.com/jhump/protoreflect
+- [ ] https://github.com/storyicon/gos
+- [ ] https://github.com/AaronJan/Hunch
+- [ ] https://github.com/Knetic/govaluate
+- [ ] https://github.com/sevlyar/go-daemon
+- [ ] https://github.com/gin-contrib/httpsign
+- [ ] https://github.com/evilsocket/ftrace
+- [ ] https://github.com/gabriel-vasile/mimetype
+- [ ] https://github.com/segmentio/encoding
+- [ ] https://github.com/prometheus/client_golang
+- [ ] https://github.com/nytimes/gziphandler
+- [ ] https://github.com/crewjam/saml
+- [ ] https://github.com/neilotoole/sq
+- [ ] https://github.com/bilibili/gengine
+- [ ] https://github.com/eyebluecn/tank
+- [ ] https://github.com/flike/idgo
+- [ ] https://github.com/spf13/cast
+- [ ] https://github.com/bspaans/jit-compiler
+- [ ] https://github.com/inetaf/netaddr
+- [ ] https://github.com/jmattheis/goverter
+- [ ] https://github.com/briandowns/sky-island
+- [ ] https://github.com/panjf2000/gnet
+- [ ] https://github.com/gogo/protobuf
+- [ ] https://github.com/golang/protobuf
+- [ ] https://github.com/google/cel-go
+- [ ] https://github.com/Andrew-M-C/go.emoji
+- [ ] https://github.com/cloverstd/tcping
+- [ ] https://github.com/rakyll/hey
+- [ ] https://github.com/duolabmeng6/goefun
+- [ ] https://github.com/twitchtv/twirp
+- [ ] https://github.com/mehrdadrad/mylg
+- [ ] https://github.com/lukechampine/fastxor
+- [ ] https://github.com/mvdan/gogrep
+- [ ] https://github.com/dean2021/noodles
+- [ ] https://github.com/jf-tech/omniparser
+- [ ] https://github.com/stacktitan/smb
+- [ ] https://github.com/gomidi/midi
+- [ ] https://github.com/birchb1024/frangipanni
+- [ ] https://github.com/ThreeDotsLabs/watermill
+- [ ] https://github.com/blevesearch/bleve
+- [ ] https://github.com/eko/gocache
+- [ ] https://github.com/blackjack/webcam
+- [ ] https://github.com/olahol/melody
+- [ ] https://github.com/gmsec/micro
+- [ ] https://github.com/sf9v/gread
+- [ ] https://github.com/liip/sheriff
+- [ ] https://github.com/mvdan/benchinit
+- [ ] https://github.com/kjellkvinge/gocover
+- [ ] https://github.com/sj14/astral
+- [ ] https://github.com/buraksezer/consistent
+- [ ] https://github.com/esimov/triangle | 生成三角剖分图像的工具 | 1.7k
+- [ ] https://github.com/fullstorydev/grpchan
+- [ ] https://github.com/birchb1024/frangipanni | 将文本转换为漂亮的树状结构 | 977
+- [ ] https://github.com/rsc/tmplfunc
+- [ ] https://github.com/mdempsky/maligned
+- [ ] https://github.com/goyek/goyek
+- [ ] https://github.com/r3labs/diff
+- [ ] https://github.com/wumansgy/goEncrypt
+- [ ] https://github.com/kelseyhightower/envconfig
+- [ ] https://github.com/joshbohde/codel
+- [ ] https://github.com/cockroachdb/apd
+- [ ] https://github.com/FastFilter/xorfilter
+- [ ] https://github.com/flynn/noise
+- [ ] https://github.com/tinylib/msgp
+- [ ] https://github.com/gobwas/ws
+- [ ] https://github.com/diamondburned/arikawa
+- [ ] https://github.com/alecthomas/langx
+- [ ] https://github.com/bosun-monitor/bosun
+- [ ] https://github.com/ent/ent
+- [ ] https://github.com/pion/turn
+- [ ] https://github.com/grandecola/mmap
+- [ ] https://github.com/fabiolb/fabio
+- [ ] https://github.com/cortesi/modd
+- [ ] https://github.com/asciimoo/morty
+- [ ] https://github.com/containerd/ttrpc
+- [ ] https://github.com/Binject/debug
+- [ ] https://github.com/jba/codec
+- [ ] https://github.com/snowlyg/IrisAdminApi | iris 框架的后台 api 项目 | 562
+- [ ] https://github.com/mfonda/simhash
+- [ ] https://github.com/golandscape/sat
+- [ ] https://github.com/iovisor/gobpf
+- [ ] https://github.com/dundee/gdu
+- [ ] https://github.com/sohaha/zlsgo
+- [ ] https://github.com/google/periph
+- [ ] https://github.com/caarlos0/svu
+- [ ] https://github.com/jomei/notionapi
+- [ ] https://github.com/Humenger/FileFormat
+- [ ] https://github.com/r3labs/diff
+- [ ] https://github.com/uber-go/gopatch
+- [ ] https://github.com/maaslalani/slides
+- [ ] https://github.com/Darkweak/Souin
+- [ ] https://github.com/sajari/regression
+- [ ] https://github.com/liamg/flinch
+- [ ] https://github.com/loov/goda
+- [ ] https://github.com/emirpasic/gods
+- [ ] https://github.com/aojea/netkat
+- [ ] https://github.com/a-h/gemini
+- [ ] https://github.com/droptheplot/abcgo
+- [ ] https://github.com/alphasoc/nfr
+- [ ] https://github.com/dfava/cube
+- [ ] https://github.com/jtolio/gls
+- [ ] https://github.com/bizy01/parsedate
+- [ ] https://github.com/tilinna/clock
+- [ ] https://github.com/rs/curlie
+- [ ] https://github.com/gostaticanalysis/codegen
+- [ ] https://github.com/8treenet/freedom
+- [ ] https://github.com/a-h/templ
+- [ ] https://github.com/dshulyak/uring
+- [ ] https://github.com/goproxyio/goproxy
+- [ ] https://github.com/mileusna/useragent
+- [ ] https://github.com/pemistahl/lingua-go
+- [ ] https://github.com/go-fonts/liberation
+- [ ] https://github.com/golang/groupcache
+- [ ] https://github.com/vifraa/gopom
+- [ ] https://github.com/multiformats/go-multiaddr-dns
+- [ ] https://github.com/david415/ParasiticTraceroute
+- [ ] https://github.com/kerbyj/goLazagne
+- [ ] https://github.com/pquerna/otp
+- [ ] https://github.com/d5/tengo
+- [ ] https://github.com/bodgit/sevenzip
+- [ ] https://github.com/jondot/goweight
+- [ ] https://github.com/PureWhiteWu/fastrand
+- [ ] https://github.com/olivia-ai/olivia
+- [ ] https://github.com/ronaksoft/rony
+- [ ] https://github.com/a8m/syncmap
+- [ ] https://github.com/golangci/golangci-lint
+- [ ] https://github.com/gobwas/ws
+- [ ] https://github.com/casbin/casdoor
+- [ ] https://github.com/alexzorin/authy
+- [ ] https://github.com/yedf/dtm
+- [ ] https://github.com/gookit/validate
+- [ ] https://github.com/gojuno/minimock
+- [ ] https://github.com/Piosec/Golconda
+- [ ] https://github.com/txn2/txeh
+- [ ] https://github.com/hahwul/volt
+- [ ] https://github.com/CobaltZirs0n/gopackage
+- [ ] https://github.com/douyu/jupiter
+- [ ] https://github.com/charmbracelet/harmonica
+- [ ] https://github.com/hashicorp/go-bexpr
+- [ ] https://github.com/erda-project/erda-infra
+- [ ] https://github.com/a-urth/go-bindata
+- [ ] https://github.com/fcharlie/buna
+- [ ] https://github.com/deluan/bring
+- [ ] https://github.com/buraksezer/olric
+- [ ] https://github.com/filecoin-project/lotus
+- [ ] https://github.com/alexliesenfeld/health
+- [ ] https://github.com/ajstarks/svgo
+- [ ] https://github.com/jeandeaual/go-locale
+- [ ] https://github.com/smallnest/chanx
+- [ ] https://github.com/hakluke/haklistgen
+- [ ] https://github.com/complone/blast
+- [ ] https://github.com/fishworks/gofish
+- [ ] https://github.com/complone/blast
+- [ ] https://github.com/adhocore/gronx
+- [ ] https://github.com/lesismal/arpc
+- [ ] https://github.com/peterbourgon/ff
+- [ ] https://github.com/yakuter/ugin
+- [ ] https://github.com/vishvananda/netlink
+- [ ] https://github.com/go-goyave/goyave
+- [ ] https://github.com/atotto/clipboard
+- [ ] https://github.com/oleiade/lane
+- [ ] https://github.com/hunterhug/gocache
+- [ ] https://github.com/jrhy/mast
+- [ ] https://github.com/mosn/holmes
+- [ ] https://github.com/lxn/win
+- [ ] https://github.com/Gipcomp/winapi
+- [ ] https://github.com/brahma-adshonor/gohook
+- [ ] https://github.com/goplus/igo
+- [ ] https://github.com/cilium/ebpf
+- [ ] https://github.com/BoltApp/sleet
+- [ ] https://github.com/dustin/go-humanize | 人性化的格式转换库 | 2.9k
+- [ ] https://github.com/goreleaser/goreleaser
+- [ ] https://github.com/ariga/entcache
+- [ ] https://github.com/tomarrell/wrapcheck
+- [ ] https://github.com/cespare/percpu
+- [ ] https://github.com/VirusTotal/gyp
+- [ ] https://github.com/gordonklaus/portaudio
+- [ ] https://github.com/lotusirous/go-concurrency-patterns
+- [ ] https://github.com/pinkhello/go-starter
+- [ ] https://github.com/mgechev/revive
+- [ ] https://github.com/meowgorithm/defaults
+- [ ] https://github.com/hhhapz/doc
+- [ ] https://github.com/chromedp/chromedp
+- [ ] https://github.com/Mzack9999/roundrobin
+- [ ] https://github.com/meowgorithm/defaults
+- [ ] https://github.com/hunterhug/go_image | 图片处理 | 1
+- [ ] https://github.com/bytedance/gopkg
+- [ ] https://github.com/IllusionMan1212/gorc
+- [ ] https://github.com/mymmrac/the-line
+- [ ] https://github.com/serialx/hashring
+- [ ] https://github.com/smallnest/rpcx
+- [ ] https://github.com/1pkg/golatch
+- [ ] https://github.com/magefile/mage
+- [ ] https://github.com/rung/go-safecast
+- [ ] https://github.com/go-task/task
+- [ ] https://github.com/dariubs/uniq
+- [ ] https://github.com/Iceber/iouring-go
+- [ ] https://github.com/go-pay/gopay
+- [ ] https://github.com/zeromicro/go-zero
+- [ ] https://github.com/tianon/gosu
+- [ ] https://github.com/google/go-cmp
+- [ ] https://github.com/akutz/memconn
+- [ ] https://github.com/refraction-networking/utls
+- [ ] https://github.com/wcharczuk/go-chart
+- [ ] https://github.com/go-gota/gota
+- [ ] https://github.com/jianfengye/collection
+- [ ] https://github.com/zh-five/xdaemon
+- [ ] https://github.com/silenceshell/hcache
+- [ ] https://github.com/go-gorm/gen
+- [ ] https://github.com/satori/go.uuid
+- [ ] https://github.com/xntrik/hcltm
+- [ ] https://github.com/bp0lr/gauplus
+- [ ] https://github.com/lox/bkl
+- [ ] https://github.com/goretk/gore | 用于分析 Go 二进制文件的库 | 204
+- [ ] https://github.com/zh-five/xdaemon | 一个让 go 程序快速后台运行的库 | 44
+- [ ] https://github.com/periph/cmd
+- [ ] https://github.com/uber-go/dig
+- [ ] https://github.com/sevlyar/go-daemon
+- [ ] https://github.com/nikolaydubina/go-svgpan
+- [ ] https://github.com/zeebo/xxh3
+- [ ] https://github.com/piligo/gmssl
+- [ ] https://github.com/nadoo/ipset
+- [ ] https://github.com/40t/go-sniffer
+- [ ] https://github.com/shirou/gopsutil
+- [ ] https://github.com/bytedance/godlp
+- [ ] https://github.com/hello-bytes/gobase
+- [ ] https://github.com/niudaii/go-find
+- [ ] https://github.com/graymeta/stow
+- [ ] https://github.com/nknorg/nnet
+- [ ] https://github.com/integrii/flaggy
+- [ ] https://github.com/rogchap/v8go
+- [ ] https://github.com/ConsenSys/gnark
+- [ ] https://github.com/aceld/zmem
+- [ ] https://github.com/liangdas/mqant
+- [ ] https://github.com/pbrong/hrms
+- [ ] https://github.com/SimonWaldherr/golang-benchmarks
+- [ ] https://github.com/bugfan/conn
+- [ ] https://github.com/esrrhs/go-engine
+- [ ] https://github.com/gorgonia/gorgonia
+- [ ] https://github.com/yohamta/donburi
+- [ ] https://github.com/sethvargo/go-retry
+- [ ] https://github.com/goal-web/pipeline
+- [ ] https://github.com/liyue201/gostl
+- [ ] https://github.com/xlzd/gotp
+- [ ] https://github.com/heiyeluren/XMM
+- [ ] https://github.com/CrackerCat/go-security
+- [ ] https://github.com/olivere/elastic
+- [ ] https://github.com/justinas/alice | Go 的无痛中间件链接 | 2.5k
+- [ ] https://github.com/smallnest/rpcx
+- [ ] https://github.com/grpc/grpc-go
+- [ ] https://github.com/cloudwego/kitex
+- [ ] https://github.com/AlexStocks/getty
+- [ ] https://github.com/go-kratos/kratos
+- [ ] https://github.com/istio/istio
+- [ ] https://github.com/projectdiscovery/uncover
+- [ ] https://github.com/mazznoer/colorgrad | 颜色库 | 122
+- [ ] https://github.com/edoardottt/golazy
+- [ ] https://github.com/abdfnx/gomo
+- [ ] https://github.com/flanglet/kanzi-go
+- [ ] https://github.com/samber/lo
+- [ ] https://github.com/rakyll/statik | 将静态文件目录嵌入 Go 二进制文件中 |3.1k
+- [ ] https://github.com/OrangePeel-2019/go-bytool
+- [ ] https://github.com/iDvel/rime-ice
+- [ ] https://github.com/go-playground/validator
+- [ ] https://github.com/faiface/beep | 播放和音频处理 | 1.8k
+- [ ] https://github.com/snail007/gocron
+
+## 0x04-Golang 项目
+
+本章节用于记录 Go 语言中的优秀成品项目。努力学习这些优秀项目的设计模式与编码方式！
+
+- https://github.com/trending/go
+- https://github.com/trending/go?since=daily
+- https://github.com/trending/go?since=weekly
+- https://github.com/trending/go?since=monthly
+- https://github.com/0e0w/GolangCode
+
+### 01-开源网站
+
+- [ ] https://github.com/qor/qor
+- [ ] https://github.com/gogs/gogs
+- [ ] https://github.com/admpub/nging
+- [ ] https://github.com/ponzu-cms/ponzu
+- [ ] https://github.com/fesiong/goblog
+- [ ] https://github.com/go-sonic/sonic
+
+### 02-娱乐游戏
+
+- [ ] https://github.com/loig/ld47
+- [ ] https://github.com/c0nrad/pr0n
+- [ ] https://github.com/nickzuber/chs
+- [ ] https://github.com/Humpheh/goboy
+- [ ] https://github.com/dwg255/landlord
+- [ ] https://github.com/pokemium/magia
+- [ ] https://github.com/duanhf2012/origin
+- [ ] https://github.com/anyaschukin/Gomoku
+- [ ] https://github.com/SoftbearStudios/mk48
+- [ ] https://github.com/umarquez/0ms2-game
+- [ ] https://github.com/Akatsuki-py/OpenPokemonRed
+- [ ] https://github.com/duzhi5368/FKGoServer
+- [ ] https://github.com/A11Might/PacVim
+- [ ] https://github.com/maaslalani/confetty
+- [ ] https://github.com/xushiwei/Gobang
+- [ ] https://github.com/lunatikub/sugolver
+- [ ] https://github.com/EndlessCheng/mahjong-helper
+- [ ] https://github.com/Lallassu/bintris
+- [ ] https://github.com/cherry-game/cherry
+- [ ] https://github.com/name5566/leaf
+- [ ] https://github.com/otk-final/mahjong
+
+### 03-爬虫项目
+
+- [ ] https://github.com/yields/ant
+- [ ] https://github.com/hetianyi/digger
+- [ ] https://github.com/cnbattle/douyin
+- [ ] https://github.com/jaeles-project/gospider
+- [ ] https://github.com/PuerkitoBio/fetchbot
+- [ ] https://github.com/LMFrank/Go_Crawler
+- [ ] https://github.com/Qianlitp/crawlergo
+- [ ] https://github.com/projectdiscovery/katana
+- [ ] https://github.com/edermi/skweez
+- [ ] https://github.com/Le0nsec/SecCrawler
+- [ ] https://github.com/crawlab-team/crawlab
+- [ ] https://github.com/crawlab-team/crawlab-lite
+- [ ] https://github.com/Ciyfly/Argo
+
+### 04-图形项目
+
+- [ ] https://github.com/fyne-io/7guis
+- [ ] https://github.com/fyne-io/examples
+- [ ] https://github.com/fyne-io/pixeledit
+
+### 05-量化投资
+
+- [ ] https://github.com/topics/stock-market?l=go
+- [ ] https://github.com/achannarasappa/ticker
+- [ ] https://github.com/mop-tracker/mop
+- [ ] https://github.com/doneland/yquotes
+- [ ] https://github.com/nzai/stockrecorder
+- [ ] https://github.com/thetruetrade/gotrade
+- [ ] https://github.com/a7a2/bzza.com
+- [ ] https://github.com/nmapx/revolut-stocks-list
+- [ ] https://github.com/miaolz123/stockdb
+- [ ] https://github.com/ksred/go-stock-notifier
+- [ ] https://github.com/buth/stocker
+- [ ] https://github.com/phonegapX/QuantBot
+- [ ] https://github.com/axiaoxin-com/x-stock
+
+### 06-Web 项目
+
+- [ ] https://github.com/xiaodingding/iotfast
+- [ ] https://github.com/pretty66/iptables-web
+- [ ] https://github.com/jiaocoll/BeeScan-web
+- [ ] https://github.com/answerdev/answer
+- [ ] https://github.com/littlebutt/nasu
+- [ ] https://github.com/huichen/wukong
+- [ ] https://github.com/barats/ohUrlShortener
+
+### 07-其他项目
+
+- [ ] https://github.com/iawia002/annie
+- [ ] https://github.com/nkanaev/yarr
+- [ ] https://github.com/lsds/KungFu
+- [ ] https://github.com/mit-pdos/biscuit
+- [ ] https://github.com/bradfitz/shotizam
+- [ ] https://github.com/sqreen/go-agent
+- [ ] https://github.com/didi/sharingan | 流量录制回放工具 | 664
+- [ ] https://github.com/huhu/go-search-extension
+- [ ] https://github.com/berty/berty
+- [ ] https://github.com/u-root/gobusybox
+- [ ] https://github.com/AgeloVito/proxypool
+- [ ] https://github.com/cloudflare/gokey
+- [ ] https://github.com/CISOfy/lynis
+- [ ] https://github.com/wangbjun/go-micloud
+- [ ] https://github.com/screego/server
+- [ ] https://github.com/etcd-io/etcd
+- [ ] https://github.com/elliotchance/c2go
+- [ ] https://github.com/ArturSS7/TukTuk | 捕获和记录不同类型的请求的工具 | 185
+- [ ] https://github.com/pion/turn
+- [ ] https://github.com/irealing/shorturl
+- [ ] https://github.com/common-nighthawk/go-figure
+- [ ] https://github.com/SaturnsVoid/GoBot
+- [ ] https://github.com/godcong/fate
+- [ ] https://github.com/lanyi1998/DNSlog-GO
+- [ ] https://github.com/brianvoe/gofakeit
+- [ ] https://github.com/lanyulei/ferry
+- [ ] https://github.com/hashicorp/boundary
+- [ ] https://github.com/ReactiveX/RxGo
+- [ ] https://github.com/infinitbyte/gopa
+- [ ] https://github.com/bouk/babelfish
+- [ ] https://github.com/magma/magma
+- [ ] https://github.com/jtpereyda/boofuzz
+- [ ] https://github.com/dave/dst
+- [ ] https://github.com/suyashkumar/dicom
+- [ ] https://github.com/filebrowser/filebrowser
+- [ ] https://github.com/t94j0/satellite
+- [ ] https://github.com/zu1k/nali
+- [ ] https://github.com/moby/moby
+- [ ] https://github.com/kevinburke/go-bindata
+- [ ] https://gitee.com/ipvb/baligo
+- [ ] https://github.com/balibuild/bali
+- [ ] https://github.com/gomods/athens
+- [ ] https://github.com/Shpota/goxygen
+- [ ] https://github.com/robertkrimen/otto
+- [ ] https://github.com/fzipp/gocyclo
+- [ ] https://github.com/0xsha/CloudBrute
+- [ ] https://github.com/esimov/pigo
+- [ ] https://github.com/jwma/jump-jump
+- [ ] https://github.com/elvisNg/broccoliv2
+- [ ] https://github.com/eolinker/goku-api-gateway
+- [ ] https://github.com/lane-c-wagner/go-password-validator
+- [ ] https://github.com/dapr/dapr
+- [ ] https://github.com/cli/cli
+- [ ] https://github.com/thoas/picfit
+- [ ] https://github.com/galeone/tfgo
+- [ ] https://github.com/gopasspw/gopass
+- [ ] https://github.com/go-masonry/mortar
+- [ ] https://github.com/syncthing/syncthing
+- [ ] https://github.com/gogs/gogs
+- [ ] https://github.com/traefik/traefik
+- [ ] https://github.com/rsc/rf
+- [ ] https://github.com/project-flogo/core
+- [ ] https://github.com/uber-go/goleak
+- [ ] https://github.com/didi/nightingale
+- [ ] https://github.com/pingcap/failpoint
+- [ ] https://github.com/naiba/nezha
+- [ ] https://github.com/melbahja/goph
+- [ ] https://github.com/xxjwxc/gormt
+- [ ] https://github.com/amacneil/dbmate
+- [ ] https://github.com/elvin-du/tinyscript
+- [ ] https://github.com/onsi/gomega
+- [ ] https://github.com/cockroachdb/crlfmt
+- [ ] https://github.com/mvdan/gofumpt
+- [ ] https://github.com/google/go-licenses
+- [ ] https://github.com/mvdan/corpus
+- [ ] https://github.com/icattlecoder/godaemon
+- [ ] https://github.com/naiba/nocd
+- [ ] https://github.com/DimitarPetrov/stegify
+- [ ] https://github.com/ouqiang/gocron
+- [ ] https://github.com/zqjzqj/mtSecKill
+- [ ] https://github.com/tulir/gomuks
+- [ ] https://github.com/loov/goda
+- [ ] https://github.com/elastic/beats
+- [ ] https://github.com/knieriem/serport
+- [ ] https://github.com/tufanbarisyildirim/gonginx
+- [ ] https://github.com/google/gvisor
+- [ ] https://github.com/sensepost/gowitness
+- [ ] https://github.com/j3ssie/metabigor
+- [ ] https://github.com/orcaman/concurrent-map
+- [ ] https://github.com/aquasecurity/tracee
+- [ ] https://github.com/gojp/goreportcard
+- [ ] https://github.com/weblazy/websocket-cluster
+- [ ] https://github.com/eriklupander/rt
+- [ ] https://github.com/micro/micro
+- [ ] https://github.com/toorop/go-bittrex
+- [ ] https://github.com/zhangyunhao116/skipset
+- [ ] https://github.com/rootless-containers/rootlesskit
+- [ ] https://github.com/criyle/go-sandbox
+- [ ] https://github.com/GridProtectionAlliance/go2cs
+- [ ] https://github.com/gotranspile/cxgo
+- [ ] https://github.com/blizzy78/ebitenui
+- [ ] https://github.com/alexellis/k3sup
+- [ ] https://github.com/writeas/writefreely
+- [ ] https://github.com/google/grumpy
+- [ ] https://github.com/benbjohnson/hashfs
+- [ ] https://github.com/zhangyunhao116/skipset
+- [ ] https://github.com/Ripolak/minict
+- [ ] https://github.com/juicedata/juicefs
+- [ ] https://github.com/lu4p/chat-hotwire-go
+- [ ] https://github.com/github/hub
+- [ ] https://github.com/nuclio/nuclio
+- [ ] https://github.com/owncast/owncast
+- [ ] https://github.com/polaris1119/embed
+- [ ] https://github.com/huichen/sego
+- [ ] https://github.com/Tenderly/tenderly-cli
+- [ ] https://github.com/genuinetools/img
+- [ ] https://github.com/TheHackerDev/race-the-web
+- [ ] https://github.com/wuqinqiang/go-remind | 微信公众号提醒 | 1
+- [ ] https://github.com/alicfeng/mysql_markdown
+- [ ] https://github.com/brendonmatos/golive
+- [ ] https://github.com/gonum/plot
+- [ ] https://github.com/ethereum/go-ethereum
+- [ ] https://github.com/geohot/minikeyvalue
+- [ ] https://github.com/graphql-go/graphql
+- [ ] https://github.com/prometheus/node_exporter
+- [ ] https://github.com/golang/mobile
+- [ ] https://github.com/Xhofe/alist
+- [ ] https://github.com/golang/mock
+- [ ] https://github.com/goby-lang/goby | 用 Go 语言编写的另一种编程语言 | 3.2k
+- [ ] https://github.com/fission/fission
+- [ ] https://github.com/kubeless/kubeless
+- [ ] https://github.com/jesseduffield/lazygit
+- [ ] https://github.com/evanw/esbuild
+- [ ] https://github.com/ovh/cds
+- [ ] https://github.com/mosuka/blast
+- [ ] https://github.com/senghoo/schgo
+- [ ] https://github.com/tebeka/selenium
+- [ ] https://github.com/spf13/afero
+- [ ] https://github.com/philippgille/gokv
+- [ ] https://github.com/jitsucom/eventnative
+- [ ] https://github.com/ashleymcnamara/gophers
+- [ ] https://github.com/go-shiori/go-readability
+- [ ] https://github.com/linkerd/linkerd2
+- [ ] https://github.com/rollbar/rollbar-go
+- [ ] https://github.com/rancher/fleet
+- [ ] https://github.com/vardius/message-bus
+- [ ] https://github.com/karminski/pineapple
+- [ ] https://github.com/osdevisnot/sorvor
+- [ ] https://github.com/usnistgov/ndn-dpdk
+- [ ] https://github.com/sqshq/sampler
+- [ ] https://github.com/wtfutil/wtf
+- [ ] https://github.com/pion/ice
+- [ ] https://github.com/gruntwork-io/terragrunt
+- [ ] https://github.com/michelin/ChopChop
+- [ ] https://github.com/Hyperspace-Logistics/heart
+- [ ] https://github.com/yahoo/gryffin
+- [ ] https://github.com/pion/webrtc
+- [ ] https://github.com/gomodules/notify
+- [ ] https://github.com/caarlos0/env
+- [ ] https://github.com/moloch--/denim
+- [ ] https://github.com/chrislusf/seaweedfs
+- [ ] https://github.com/opencontainers/runc
+- [ ] https://github.com/hashicorp/memberlist
+- [ ] https://github.com/robpike/ivy
+- [ ] https://github.com/shanghai-edu/multissh
+- [ ] https://github.com/linkedin/Burrow
+- [ ] https://github.com/shengdoushi/base58
+- [ ] https://github.com/mmcloughlin/geohash
+- [ ] https://github.com/abadojack/whatlanggo
+- [ ] https://github.com/writeas/writefreely
+- [ ] https://github.com/mickael-kerjean/filestash
+- [ ] https://github.com/cloudreve/Cloudreve
+- [ ] https://github.com/rsumner31/yanff
+- [ ] https://github.com/pulumi/pulumi
+- [ ] https://github.com/infracost/infracost
+- [ ] https://github.com/owncloud/ocis
+- [ ] https://github.com/panther-labs/panther
+- [ ] https://github.com/rancher/rancher
+- [ ] https://github.com/hnrss/hnrss
+- [ ] https://github.com/ycd/toc
+- [ ] https://github.com/minio/kes
+- [ ] https://github.com/goreleaser/nfpm
+- [ ] https://github.com/TwinProduction/gatus
+- [ ] https://github.com/binwiederhier/pcopy
+- [ ] https://github.com/function61/varasto
+- [ ] https://github.com/asciimoo/wuzz
+- [ ] https://github.com/goharbor/harbor
+- [ ] https://github.com/ViRb3/wgcf
+- [ ] https://github.com/pa-m/sklearn
+- [ ] https://github.com/electricbubble/gwda
+- [ ] https://github.com/envoyproxy/protoc-gen-validate
+- [ ] https://github.com/pierrec/lz4
+- [ ] https://github.com/lampnick/doctron
+- [ ] https://github.com/gijit/gi
+- [ ] https://github.com/muesli/duf
+- [ ] https://github.com/ccssmnn/hego
+- [ ] https://github.com/itchyny/bed
+- [ ] https://github.com/evilsocket/ditto
+- [ ] https://github.com/jszwec/s3fs
+- [ ] https://github.com/moorara/konfig
+- [ ] https://github.com/sourcegraph/codenotify
+- [ ] https://github.com/master-of-servers/mose
+- [ ] https://github.com/AsynkronIT/protoactor-go
+- [ ] https://github.com/gwen001/github-regexp
+- [ ] https://github.com/cloudskiff/driftctl
+- [ ] https://github.com/evilsocket/arc
+- [ ] https://github.com/akyoto/asm
+- [ ] https://github.com/labulaka521/yuque_sync
+- [ ] https://github.com/DominicBreuker/pspy
+- [ ] https://github.com/phachon/mm-wiki
+- [ ] https://github.com/erbbysam/DNSGrep
+- [ ] https://github.com/lucas-clemente/quic-go
+- [ ] https://github.com/facebook/ent
+- [ ] https://github.com/liuggchen/wechatDatDecode
+- [ ] https://github.com/razor-1/localizer
+- [ ] https://github.com/cenkalti/backoff
+- [ ] https://github.com/owenrumney/squealer
+- [ ] https://github.com/gdamore/tcell
+- [ ] https://github.com/timtadh/lexmachine
+- [ ] https://github.com/dgraph-io/ristretto
+- [ ] https://github.com/mitchellh/gon
+- [ ] https://github.com/Clivern/Walrus
+- [ ] https://github.com/progrium/macdriver
+- [ ] https://github.com/hyperledger/fabric
+- [ ] https://github.com/kubernetes/kubectl
+- [ ] https://github.com/Neo23x0/signature-base
+- [ ] https://github.com/dwisiswant0/wadl-dumper
+- [ ] https://github.com/dwisiswant0/hinject
+- [ ] https://github.com/wasmerio/wasmer-go
+- [ ] https://github.com/zricethezav/gitleaks
+- [ ] https://github.com/cyanly/gotrade
+- [ ] https://github.com/helm/charts
+- [ ] https://github.com/boyter/scc
+- [ ] https://github.com/rs/cors
+- [ ] https://github.com/disintegration/imaging
+- [ ] https://github.com/3xxx/engineercms
+- [ ] https://github.com/benbjohnson/immutable
+- [ ] https://github.com/visma-prodsec/confused
+- [ ] https://github.com/dreadl0ck/maltego
+- [ ] https://github.com/cuelang/cue
+- [ ] https://github.com/makeworld-the-better-one/dither
+- [ ] https://github.com/go-gitea/gitea
+- [ ] https://github.com/restic/restic
+- [ ] https://github.com/hahwul/gitls
+- [ ] https://github.com/justinas/nosurf
+- [ ] https://github.com/hashicorp/terraform
+- [ ] https://github.com/russross/blackfriday
+- [ ] https://github.com/hunterhug/gomap
+- [ ] https://github.com/hunterhug/gosession
+- [ ] https://github.com/tailscale/tailscale
+- [ ] https://github.com/nickw8/vimkatas
+- [ ] https://github.com/Palexer/mdconv
+- [ ] https://github.com/huaxr/rx
+- [ ] https://github.com/moulco/moul
+- [ ] https://github.com/kitabisa/mubeng
+- [ ] https://github.com/thinkeridea/go-extend
+- [ ] https://github.com/axiaoxin-com/logging
+- [ ] https://github.com/containers/podman
+- [ ] https://github.com/link1st/go-stress-testing | Go 实现的压测工具 | 957
+- [ ] https://github.com/stashapp/stash
+- [ ] https://github.com/nickname32/discordhook
+- [ ] https://github.com/zntrio/typogenerator
+- [ ] https://github.com/hgascon/pulsar
+- [ ] https://github.com/xitongsys/pangolin
+- [ ] https://github.com/lifei6671/mindoc
+- [ ] https://github.com/wasmerio/wasmer-go
+- [ ] https://github.com/pyroscope-io/pyroscope
+- [ ] https://github.com/Allenxuxu/microservices
+- [ ] https://github.com/zyedidia/micro
+- [ ] https://github.com/matsuyoshi30/germanium
+- [ ] https://github.com/goava/di
+- [ ] https://github.com/moovweb/gvm
+- [ ] https://github.com/yinheli/sshw
+- [ ] https://github.com/photoprism/photoprism | 个人照片管理系统 | 13k
+- [ ] https://github.com/Jeffail/benthos
+- [ ] https://github.com/flopp/go-findfont
+- [ ] https://github.com/levidurfee/gowafp
+- [ ] https://github.com/apex/up
+- [ ] https://github.com/seqsense/s3sync
+- [ ] https://github.com/mdlayher/waveform
+- [ ] https://github.com/ayoisaiah/f2
+- [ ] https://github.com/visma-prodsec/confused
+- [ ] https://github.com/grafana/grizzly
+- [ ] https://github.com/chriswalz/bit
+- [ ] https://github.com/miguelpragier/handy
+- [ ] https://github.com/evolbioinfo/gotree
+- [ ] https://github.com/benjojo/sping
+- [ ] https://github.com/phuslu/log
+- [ ] https://github.com/ZZMarquis/gm
+- [ ] https://github.com/mazen160/go-random
+- [ ] https://github.com/chrislusf/seaweedfs
+- [ ] https://github.com/LockGit/gochat
+- [ ] https://github.com/mdlayher/consrv
+- [ ] https://github.com/gwuhaolin/livego
+- [ ] https://github.com/dolthub/dolt
+- [ ] https://github.com/markphelps/flipt
+- [ ] https://github.com/AdguardTeam/AdGuardHome
+- [ ] https://github.com/gokcehan/lf
+- [ ] https://github.com/gdamore/tcell
+- [ ] https://github.com/nurdism/neko
+- [ ] https://github.com/simonmittag/j8a
+- [ ] https://github.com/kyleconroy/sqlc
+- [ ] https://github.com/matsuyoshi30/song2
+- [ ] https://github.com/MetalBlueberry/chkb
+- [ ] https://github.com/theparanoids/ashirt-server
+- [ ] https://github.com/hashicorp/waypoint
+- [ ] https://github.com/authelia/authelia
+- [ ] https://github.com/temporalio/temporal
+- [ ] https://github.com/benhoyt/countwords
+- [ ] https://github.com/caarlos0/svu
+- [ ] https://github.com/google/gops
+- [ ] https://github.com/dropbox/kglb
+- [ ] https://github.com/earthly/earthly
+- [ ] https://github.com/liamg/gifwrap
+- [ ] https://github.com/heroiclabs/nakama
+- [ ] https://github.com/sahilm/fuzzy
+- [ ] https://github.com/dropbox/kglb
+- [ ] https://github.com/giorgisio/goav
+- [ ] https://github.com/samuelkarp/runj
+- [ ] https://github.com/sigstore/cosign
+- [ ] https://github.com/NCSC-NL/taranis3
+- [ ] https://github.com/schollz/find3
+- [ ] https://github.com/spiral/roadrunner
+- [ ] https://github.com/hashicorp/consul
+- [ ] https://github.com/matryer/xbar
+- [ ] https://github.com/briandowns/super-hacker
+- [ ] https://github.com/visma-prodsec/confused
+- [ ] https://github.com/projectdiscovery/chaos-client
+- [ ] https://github.com/americanexpress/earlybird
+- [ ] https://github.com/antonmedv/expr
+- [ ] https://github.com/beltran/gohive
+- [ ] https://github.com/hashicorp/serf
+- [ ] https://github.com/byebyebruce/lockstepserver
+- [ ] https://github.com/RussellLuo/timingwheel
+- [ ] https://github.com/alberliu/gim
+- [ ] https://github.com/vektra/mockery
+- [ ] https://github.com/jarcoal/httpmock
+- [ ] https://github.com/ldez/seihon
+- [ ] https://github.com/chaosblade-io/chaosblade
+- [ ] https://github.com/decred/dcrd
+- [ ] https://github.com/gookit/goutil
+- [ ] https://github.com/progrium/macbridge
+- [ ] https://github.com/FiloSottile/mkcert
+- [ ] https://github.com/fumeboy/typoverride
+- [ ] https://github.com/xxxserxxx/gotop
+- [ ] https://github.com/golang/crypto
+- [ ] https://github.com/baetyl/baetyl
+- [ ] https://github.com/gravitl/netmaker
+- [ ] https://github.com/akavel/up
+- [ ] https://github.com/cronokirby/safenum
+- [ ] https://github.com/aj-code/3gsocks
+- [ ] https://github.com/keys-pub/keys-ext
+- [ ] https://github.com/keys-pub/keys
+- [ ] https://github.com/mmcloughlin/mathfmt
+- [ ] https://github.com/distribworks/dkron
+- [ ] https://github.com/inetaf/netstack
+- [ ] https://github.com/bcicen/ctop
+- [ ] https://github.com/Jguer/yay
+- [ ] https://github.com/aunum/gold
+- [ ] https://github.com/ava-labs/avalanchego
+- [ ] https://github.com/drep-project/DREP-Chain
+- [ ] https://github.com/slok/grafterm
+- [ ] https://github.com/adhocore/fast
+- [ ] https://github.com/docuowl/docuowl
+- [ ] https://github.com/hakluke/hakcron
+- [ ] https://github.com/mhchlib/mconfig
+- [ ] https://github.com/hashicorp/packer
+- [ ] https://github.com/claudiodangelis/qrcp
+- [ ] https://github.com/miekg/pkcs11
+- [ ] https://github.com/adhocore/urlsh
+- [ ] https://github.com/werf/werf
+- [ ] https://github.com/gdamore/tcell
+- [ ] https://github.com/fzipp/canvas
+- [ ] https://github.com/ad-sho-loko/mille
+- [ ] https://github.com/nektos/act
+- [ ] https://github.com/junegunn/fzf
+- [ ] https://github.com/zhenghaoz/gorse
+- [ ] https://github.com/liamg/sunder
+- [ ] https://github.com/adonovan/spaghetti
+- [ ] https://github.com/deletescape/goop
+- [ ] https://github.com/bp0lr/gauplus
+- [ ] https://github.com/google/go-licenses
+- [ ] https://github.com/mitchellh/golicense
+- [ ] https://github.com/casbin/casbin
+- [ ] https://github.com/billziss-gh/hubfs
+- [ ] https://github.com/go-ego/riot
+- [ ] https://github.com/guitmz/gocave
+- [ ] https://github.com/alecthomas/mph
+- [ ] https://github.com/jesseduffield/lazydocker
+- [ ] https://github.com/pokemium/mettaur
+- [ ] https://github.com/pgaskin/dictutil
+- [ ] https://github.com/encoredev/encore
+- [ ] https://github.com/riltech/streamer
+- [ ] https://github.com/josephspurrier/goversioninfo
+- [ ] https://github.com/alibaba/sentinel-golang
+- [ ] https://github.com/Allenxuxu/gev
+- [ ] https://github.com/gen0cide/gscript
+- [ ] https://github.com/AlysonBee/GoVirtualFilesystem
+- [ ] https://github.com/jaypipes/ghw
+- [ ] https://github.com/RH12503/Triangula
+- [ ] https://github.com/sipt/shuttle
+- [ ] https://github.com/chrislusf/gleam
+- [ ] https://github.com/lyft/clutch
+- [ ] https://github.com/vcqr/captcha
+- [ ] https://github.com/jhunters/bigqueue
+- [ ] https://github.com/oxequa/realize
+- [ ] https://github.com/taoshihan1991/go-fly
+- [ ] https://github.com/dominikh/go-tools
+- [ ] https://github.com/ntt360/pmon2 | 进程管理工具 | 198
+- [ ] https://github.com/Marten4n6/EvilOSX
+- [ ] https://github.com/chromedp/chromedp
+- [ ] https://github.com/rook/rook
+- [ ] https://github.com/stefanprodan/podinfo
+- [ ] https://github.com/shenwei356/rush
+- [ ] https://github.com/mailchain/mailchain
+- [ ] https://github.com/HouzuoGuo/laitos
+- [ ] https://github.com/grafana/loki
+- [ ] https://github.com/esimov/facemask
+- [ ] https://github.com/agnivade/funnel
+- [ ] https://github.com/golang/gofrontend
+- [ ] https://github.com/grafov/hulk
+- [ ] https://github.com/skanehira/docui
+- [ ] https://github.com/ipinfo/cli
+- [ ] https://github.com/infracost/infracost
+- [ ] https://github.com/nfnt/resize
+- [ ] https://github.com/soundcloud/roshi
+- [ ] https://github.com/VictoriaMetrics/VictoriaMetrics
+- [ ] https://github.com/falcosecurity/falcosidekick
+- [ ] https://github.com/gaowanliang/LightUploader
+- [ ] https://github.com/rancher/kim
+- [ ] https://github.com/togettoyou/blockchain-real-estate
+- [ ] https://github.com/GoogleCloudPlatform/functions-framework-go
+- [ ] https://github.com/GoogleCloudPlatform/golang-samples
+- [ ] https://github.com/pldubouilh/gossa
+- [ ] https://github.com/rgburke/grv
+- [ ] https://github.com/ambientsound/pms
+- [ ] https://github.com/cheat/cheat
+- [ ] https://github.com/jsyzchen/pan
+- [ ] https://github.com/arl/statsviz
+- [ ] https://github.com/soolaugust/go-toolkit
+- [ ] https://github.com/fanux/sealos
+- [ ] https://github.com/audioo/iga
+- [ ] https://github.com/milvus-io/milvus
+- [ ] https://github.com/wille/cry
+- [ ] https://github.com/makeworld-the-better-one/amfora
+- [ ] https://github.com/jensneuse/graphql-go-tools
+- [ ] https://github.com/moiot/moha
+- [ ] https://github.com/accuknox/KubeArmor
+- [ ] https://github.com/rencalo770/gengine
+- [ ] https://github.com/derailed/popeye
+- [ ] https://github.com/rapidloop/rtop
+- [ ] https://github.com/perlin-network/noise
+- [ ] https://github.com/russross/blackfriday
+- [ ] https://github.com/mimuret/dtap
+- [ ] https://github.com/blacktop/go-macho
+- [ ] https://github.com/mpolden/echoip
+- [ ] https://github.com/mbrt/gmailctl
+- [ ] https://github.com/bridgecrewio/yor
+- [ ] https://github.com/matryer/xbar
+- [ ] https://github.com/chanify/chanify
+- [ ] https://github.com/rfyiamcool/go-shell
+- [ ] https://github.com/google/ko
+- [ ] https://github.com/liamg/aminal
+- [ ] https://github.com/ezeoleaf/GobotTweet
+- [ ] https://github.com/nakabonne/pbgopy
+- [ ] https://github.com/mmcloughlin/profile
+- [ ] https://github.com/luraproject/lura
+- [ ] https://github.com/shima-park/agollo
+- [ ] https://github.com/bfenetworks/bfe
+- [ ] https://github.com/accurics/terrascan
+- [ ] https://github.com/bits-and-blooms/bloom
+- [ ] https://github.com/fd0/machma
+- [ ] https://github.com/intenthq/anon
+- [ ] https://github.com/nanomsg/mangos
+- [ ] https://github.com/aaronjanse/3mux
+- [ ] https://github.com/udhos/goben
+- [ ] https://github.com/rodrigo-brito/ninjabot
+- [ ] https://github.com/AkihiroSuda/lima
+- [ ] https://github.com/wagoodman/dive
+- [ ] https://github.com/holoplot/go-avahi
+- [ ] https://github.com/Yawning/bulb
+- [ ] https://github.com/tamboto2000/golinkedin
+- [ ] https://github.com/MrCyjaneK/gosh
+- [ ] https://github.com/go-co-op/gocron
+- [ ] https://github.com/zllangct/ecs
+- [ ] https://github.com/prometheus/procfs
+- [ ] https://github.com/walles/moar
+- [ ] https://github.com/esimov/caire
+- [ ] https://github.com/google/wire
+- [ ] https://github.com/eyebluecn/tank
+- [ ] https://github.com/antlabs/strsim
+- [ ] https://github.com/FiloSottile/yubikey-agent
+- [ ] https://github.com/matrix-org/dendrite
+- [ ] https://github.com/d3mondev/puredns
+- [ ] https://github.com/xmsalsa/ybsshop
+- [ ] https://github.com/simeji/jid
+- [ ] https://github.com/containerd/nerdctl
+- [ ] https://github.com/Helcaraxan/gomod
+- [ ] https://github.com/gwuhaolin/livego
+- [ ] https://github.com/twpayne/chezmoi
+- [ ] https://github.com/hyfather/pipeline
+- [ ] https://github.com/bp0lr/gauplus
+- [ ] https://github.com/miguelmota/cointop
+- [ ] https://github.com/loft-sh/vcluster
+- [ ] https://github.com/TykTechnologies/tyk
+- [ ] https://github.com/alibaba/derrick
+- [ ] https://github.com/leandrofroes/manw
+- [ ] https://github.com/go-python/gopy
+- [ ] https://github.com/chubaofs/chubaofs
+- [ ] https://github.com/99designs/gqlgen
+- [ ] https://github.com/luraproject/lura
+- [ ] https://github.com/nanmu42/orly | 生成你自己的 O'RLY 动物书封面| 359
+- [ ] https://github.com/goburrow/quic
+- [ ] https://github.com/megaease/easegress
+- [ ] https://github.com/nakabonne/gosivy
+- [ ] https://github.com/smallnest/gen
+- [ ] https://github.com/grijul/otpgen
+- [ ] https://github.com/hashicorp/envconsul
+- [ ] https://github.com/qmuntal/gltf
+- [ ] https://github.com/Jguer/yay
+- [ ] https://github.com/golang/tools
+- [ ] https://github.com/xxjwxc/jump
+- [ ] https://github.com/free5gc/free5gc
+- [ ] https://github.com/issadarkthing/gomu
+- [ ] https://github.com/yyyar/gobetween
+- [ ] https://github.com/fhmq/hmq
+- [ ] https://github.com/hound-search/hound
+- [ ] https://github.com/RichardKnop/machinery
+- [ ] https://github.com/soreatu/cloudpan
+- [ ] https://github.com/sans-sroc/integrity
+- [ ] https://github.com/flike/kingbus
+- [ ] https://github.com/openkruise/kruise
+- [ ] https://github.com/mat/besticon
+- [ ] https://github.com/f-secure-foundry/GoTEE
+- [ ] https://github.com/DigitalChinaOpenSource/TiDB-for-PostgreSQL
+- [ ] https://github.com/f-secure-foundry/GoTEE
+- [ ] https://github.com/aloder/tojen
+- [ ] https://github.com/dop251/goja
+- [ ] https://github.com/knipferrc/fm
+- [ ] https://github.com/baidu/EasyFaaS
+- [ ] https://github.com/dgraph-io/badger
+- [ ] https://github.com/kris-nova/yamyams
+- [ ] https://github.com/gephi/gephi
+- [ ] https://github.com/dexidp/dex
+- [ ] https://github.com/CAFxX/gcnotifier
+- [ ] https://github.com/cortexproject/cortex
+- [ ] https://github.com/muesli/markscribe
+- [ ] https://github.com/ethersphere/swarm
+- [ ] https://github.com/mosn/layotto
+- [ ] https://github.com/kelindar/column
+- [ ] https://github.com/reconquest/orgalorg
+- [ ] https://github.com/juanfont/headscale
+- [ ] https://github.com/elves/elvish
+- [ ] https://github.com/JanDeDobbeleer/oh-my-posh
+- [ ] https://github.com/mattn/go-shellwords
+- [ ] https://github.com/youngyangyang04/fileHttpServer
+- [ ] https://github.com/hashicorp/raft
+- [ ] https://github.com/yunionio/cloudpods
+- [ ] https://github.com/alda-lang/alda
+- [ ] https://github.com/hacdias/webdav
+- [ ] https://github.com/johandry/terranova
+- [ ] https://github.com/caos/zitadel
+- [ ] https://github.com/jackluo2012/datacenter
+- [ ] https://github.com/Konstantin8105/c4go
+- [ ] https://github.com/home-assistant/core
+- [ ] https://github.com/blackarrowsec/fozar
+- [ ] https://github.com/jeessy2/ddns-go
+- [ ] https://github.com/clbanning/mxj
+- [ ] https://github.com/alda-lang/alda
+- [ ] https://github.com/mkdeb/mkdeb
+- [ ] https://github.com/matsuyoshi30/gitsu
+- [ ] https://github.com/seccomp/libseccomp-golang
+- [ ] https://github.com/XiaoMi/Gaea
+- [ ] https://github.com/PaesslerAG/gval
+- [ ] https://github.com/studygolang/studygolang
+- [ ] https://github.com/easychen/wecomchan
+- [ ] https://github.com/seknox/trasa
+- [ ] https://github.com/stevenjoezhang/live2d-widget
+- [ ] https://github.com/elastic/beats
+- [ ] https://github.com/sohaha/rosedb
+- [ ] https://github.com/cucumber/godog
+- [ ] https://github.com/dutchcoders/transfer.sh
+- [ ] https://github.com/alice-lg/alice-lg
+- [ ] https://github.com/influxdata/tdigest
+- [ ] https://github.com/writefreely/writefreely
+- [ ] https://github.com/SmartKeyerror/Psyduck
+- [ ] https://github.com/rverton/wonitor
+- [ ] https://github.com/nikolaydubina/calendarheatmap
+- [ ] https://github.com/signedsecurity/sigs3scann3r
+- [ ] https://github.com/tidwall/tile38
+- [ ] https://github.com/ahmetb/kubectx
+- [ ] https://github.com/AlkenePan/KAP
+- [ ] https://github.com/ethicalhackingplayground/gocrawler
+- [ ] https://github.com/goplus/gox
+- [ ] https://github.com/cnbattle/douyin
+- [ ] https://github.com/Maka8ka/NGLite
+- [ ] https://github.com/zzfly256/php-linter-go
+- [ ] https://github.com/samvrlewis/meshboi
+- [ ] https://github.com/hr3lxphr6j/bililive-go
+- [ ] https://github.com/amacneil/dbmate
+- [ ] https://github.com/tinode/chat
+- [ ] https://github.com/TruthHun/DocHub
+- [ ] https://github.com/hashicorp/hcl
+- [ ] https://github.com/halturin/ergo
+- [ ] https://github.com/txthinking/nami
+- [ ] https://github.com/cilium/hubble
+- [ ] https://github.com/icexin/eggos
+- [ ] https://github.com/Helcaraxan/gomod
+- [ ] https://github.com/kubernetes-sigs/krew
+- [ ] https://github.com/zxhjames/X-spreadsheet-online
+- [ ] https://github.com/nadoo/glider
+- [ ] https://github.com/skanehira/rtty
+- [ ] https://github.com/luno/rink
+- [ ] https://github.com/TasosY2K/espresso-bot
+- [ ] https://github.com/yandex/pandora
+- [ ] https://github.com/tidwall/btree
+- [ ] https://github.com/Dc4ts/ChangeTower
+- [ ] https://github.com/liu-jianhao/chitchat
+- [ ] https://github.com/DataHenHQ/till
+- [ ] https://github.com/alicebob/miniredis
+- [ ] https://github.com/cyberark/secretless-broker
+- [ ] https://github.com/j5s/dirtywords
+- [ ] https://github.com/brewlin/net-protocol
+- [ ] https://github.com/gotranspile/cxgo
+- [ ] https://github.com/aquilax/go-perlin
+- [ ] https://github.com/ICKelin/cframe
+- [ ] https://github.com/denisbrodbeck/machineid
+- [ ] https://github.com/hunterhug/go_image
+- [ ] https://github.com/guowei-gong/Joalarm
+- [ ] https://github.com/carbonblack/binee
+- [ ] https://github.com/volatiletech/authboss
+- [ ] https://github.com/gitsrc/IceFireDB
+- [ ] https://github.com/go-enry/go-enry
+- [ ] https://github.com/segator/jbinary
+- [ ] https://github.com/climech/grit
+- [ ] https://github.com/cnotch/ipchub
+- [ ] https://github.com/tophubs/TopList
+- [ ] https://github.com/wuhan005/siesta
+- [ ] https://github.com/rjkroege/edwood
+- [ ] https://github.com/mehrvarz/webcall
+- [ ] https://github.com/ory/kratos
+- [ ] https://github.com/fofapro/fapro
+- [ ] https://github.com/jonaslu/ain
+- [ ] https://github.com/dstpierre/gosaas
+- [ ] https://github.com/openacid/slim
+- [ ] https://github.com/gitpod-io/gitpod
+- [ ] https://github.com/lonng/etym
+- [ ] https://github.com/jpillora/overseer
+- [ ] https://github.com/yifengyou/go-keep
+- [ ] https://github.com/milvus-io/milvus
+- [ ] https://github.com/cdle/sillyGirl
+- [ ] https://github.com/slok/agebox
+- [ ] https://github.com/gotify/server
+- [ ] https://github.com/hiyosi/hawk
+- [ ] https://github.com/weaveworks/weave
+- [ ] https://github.com/openfaas/faasd
+- [ ] https://github.com/ddosify/ddosify | 高性能负载测试工具 | 1.6k
+- [ ] https://github.com/cenkalti/rain
+- [ ] https://github.com/swaggo/swag
+- [ ] https://github.com/rfyiamcool/go-netflow
+- [ ] https://github.com/aquasecurity/cfsec
+- [ ] https://github.com/ambertide/chip8
+- [ ] https://github.com/antonmedv/expr
+- [ ] https://github.com/projectdiscovery/hmap
+- [ ] https://github.com/deepfence/ThreatMapper
+- [ ] https://github.com/abiosoft/colima
+- [ ] https://github.com/Janusec/janusec
+- [ ] https://github.com/shuveb/containers-the-hard-way
+- [ ] https://github.com/evan-buss/openbooks
+- [ ] https://github.com/KubeOperator/KubePi
+- [ ] https://github.com/awgh/ratnet
+- [ ] https://github.com/xntrik/hcltm
+- [ ] https://github.com/vulsio/gost
+- [ ] https://github.com/smloli/panCheckUrl
+- [ ] https://github.com/parca-dev/parca
+- [ ] https://github.com/lima-vm/lima
+- [ ] https://github.com/minio/minio
+- [ ] https://github.com/therecipe/qt
+- [ ] https://github.com/siyuan-note/siyuan
+- [ ] https://github.com/go-kiss/monkey
+- [ ] https://github.com/kevwan/chatbot
+- [ ] https://github.com/willshang/go-crontab
+- [ ] https://github.com/GoogleContainerTools/skaffold
+- [ ] https://github.com/pressly/sup
+- [ ] https://github.com/dannypsnl/extend
+- [ ] https://github.com/seclab-ucr/SyzGen_setup
+- [ ] https://github.com/maxlandon/gondor
+- [ ] https://github.com/google/starlark-go
+- [ ] https://github.com/earthly/earthly
+- [ ] https://github.com/matrixorigin/matrixone
+- [ ] https://github.com/vmihailenco/msgpack
+- [ ] https://github.com/fastwego/feishu
+- [ ] https://github.com/alexballas/go2tv
+- [ ] https://github.com/superfly/dropspy
+- [ ] https://github.com/variadico/noti
+- [ ] https://github.com/yuriizinets/kyoto
+- [ ] https://github.com/osrg/gobgp
+- [ ] https://github.com/lmika/goseq
+- [ ] https://github.com/rule110-io/surge
+- [ ] https://github.com/coyim/coyim
+- [ ] https://github.com/evilsocket/ditto
+- [ ] https://github.com/target/goalert
+- [ ] https://github.com/xjblszyy/JiuJia
+- [ ] https://github.com/kubeedge/kubeedge
+- [ ] https://github.com/tylertreat/comcast
+- [ ] https://github.com/gobuffalo/plush
+- [ ] https://github.com/vmware-tanzu/octant
+- [ ] https://github.com/CortexFoundation/torrentfs
+- [ ] https://github.com/ycd/dstp
+- [ ] https://github.com/rayboot/tts-go
+- [ ] https://github.com/sigstore/fulcio
+- [ ] https://github.com/strang1ato/nhi
+- [ ] https://github.com/prometheus/alertmanager
+- [ ] https://github.com/crossplane/crossplane
+- [ ] https://github.com/ardanlabs/service
+- [ ] https://github.com/iangcarroll/cookiemonster
+- [ ] https://github.com/lkarlslund/azureimposter
+- [ ] https://github.com/aidansteele/cloudkey
+- [ ] https://github.com/mysticbinary/gotoscaffold
+- [ ] https://github.com/cbeuw/Cloak
+- [ ] https://github.com/galaxy-future/BridgX
+- [ ] https://github.com/chris124567/hulu
+- [ ] https://github.com/jcchavezs/porto
+- [ ] https://github.com/praetorian-inc/trident
+- [ ] https://github.com/dop251/goja
+- [ ] https://github.com/assetnote/kiterunner
+- [ ] https://github.com/glebarez/padre
+- [ ] https://github.com/hajimehoshi/gooslibc
+- [ ] https://github.com/evilsocket/shellz
+- [ ] https://github.com/chenjiandongx/clock
+- [ ] https://github.com/pkg/profile
+- [ ] https://github.com/songzhibin97/gkit
+- [ ] https://github.com/sourcegraph/sourcegraph
+- [ ] https://github.com/tkestack/kstone
+- [ ] https://github.com/LdDl/cnns
+- [ ] https://github.com/antonmedv/llama
+- [ ] https://github.com/mat/besticon
+- [ ] https://github.com/d5/tengo
+- [ ] https://github.com/oschina/kooder
+- [ ] https://github.com/TencentBlueKing/gopkg
+- [ ] https://github.com/gotvc/got
+- [ ] https://github.com/disksing/sao-gen-gen
+- [ ] https://github.com/IceFireDB/IceFireDB-Proxy
+- [ ] https://github.com/tkellogg/dura
+- [ ] https://github.com/rakyll/hey
+- [ ] https://github.com/lanyulei/ferry
+- [ ] https://github.com/smartcontractkit/chainlink
+- [ ] https://github.com/gourouting/singo
+- [ ] https://github.com/telepresenceio/telepresence
+- [ ] https://github.com/corneliusweig/rakkess
+- [ ] https://github.com/VillanCh/judgo
+- [ ] https://github.com/klauspost/compress
+- [ ] https://github.com/walinejs/waline
+- [ ] https://github.com/cshum/imagor
+- [ ] https://github.com/dreamans/syncd
+- [ ] https://github.com/nikitavoloboev/knowledge
+- [ ] https://github.com/michenriksen/gitrob
+- [ ] https://github.com/fsnotify/fsnotify
+- [ ] https://github.com/shunfei/cronsun
+- [ ] https://github.com/abdfnx/tran
+- [ ] https://github.com/benhoyt/goawk
+- [ ] https://github.com/TwiN/gatus
+- [ ] https://github.com/YaoApp/yao
+- [ ] https://github.com/firefart/stunner
+- [ ] https://github.com/marmotedu/iam
+- [ ] https://github.com/smarttang/w3a_SOC
+- [ ] https://github.com/zinclabs/zinc
+- [ ] https://github.com/binwiederhier/ntfy
+
+## 0x05-Golang 安全
+
+本章节收集汇总了大量的安全研究相关的项目。期待自己写的项目能够让大多数的人使用！
+
+- https://github.com/topics/tool?l=go
+- https://github.com/topics/poc?l=go
+- https://github.com/topics/cve?l=go
+- https://github.com/topics/recon?l=go
+- https://github.com/search?l=Go&q=cve
+- https://github.com/topics/redteam?l=go
+- https://github.com/topics/vulnerability?l=go
+- https://github.com/topics/security?l=go
+- https://github.com/topics/security-audit?l=go
+- https://github.com/topics/reconnaissance?l=go
+- https://github.com/topics/information-gathering?l=go
+- https://github.com/topics/vulnerability-scanner?l=go
+- https://github.com/parsiya/Go-Security
+- https://github.com/tomnomnom/hacks
+- https://github.com/parsiya/Hacking-with-Go
+- https://github.com/AV1080p/Hacking-With-Golang
+- https://github.com/dreddsa5dies/goHackTools
+- https://github.com/dreddsa5dies/hackerrankGo
+- https://github.com/dreddsa5dies/1000GoExamples
+- https://github.com/taielab/awesome-hacking-lists#go
+- https://github.com/Binject/awesome-go-security
+- https://github.com/Hack-with-Github/Awesome-Hacking
+- https://github.com/hahwul/WebHackersWeapons
+- https://github.com/he1m4n6a/Go_Security_Study
+
+### 01-域名收集
+
+- [ ] https://github.com/topics/subdomain?l=go
+- [ ] https://github.com/topics/subdomains?l=go
+- [ ] https://github.com/topics/subdomain-scanner?l=go
+- [ ] https://github.com/search?l=Go&q=subdomain
+- [ ] https://github.com/search?l=Go&q=domains
+- [ ] https://github.com/Goqi/MiFeng
+- [ ] https://github.com/signedsecurity/sigsubfind3r | 在线接口子域发现工具 | 7
+- [ ] https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域 | 4.2k
+- [ ] https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具 | 720
+- [ ] https://github.com/boy-hack/ksubdomain | 一款基于无状态的子域名爆破工具 | 19
+- [ ] https://github.com/evilsocket/dnssearch | 子域枚举工具 | 862
+- [ ] https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
+- [ ] https://github.com/ThreatUnkown/jsubfinder | 搜索网页的 js 分析隐藏的子域 | 68
+- [ ] https://github.com/OWASP/Amass | 深度攻击面映射和资产发现 |5.8k
+- [ ] https://github.com/hahwul/ras-fuzzer | 随机子域 Fuzzer | 41
+- [ ] https://github.com/netevert/delator | 利用证书透明性日志获取子域 | 48
+- [ ] https://github.com/edoardottt/scilla | 信息收集工具包括子域 | 143
+- [ ] https://github.com/Freek3r/GoDigDomain | 用 Go 语言编写的域名爆破工具 | 4
+- [ ] https://github.com/tomnomnom/assetfinder| 查找可能与给定域相关的域和子域 | 930
+- [ ] https://github.com/QSoloX/whoisyou | 获取域列表并输出主机名和 IP | 3
+- [ ] https://github.com/ody5sey/Noah | 网页标题获取工具 | 1
+- [ ] https://github.com/scanterog/crawler | 网站内域名爬虫 | 0
+- [ ] https://github.com/gwen001/github-subdomains| 在 GitHub 上找到子域 | 138
+- [ ] https://github.com/incogbyte/shosubgo | 通过 shodan 接口搜索子域 | 80
+- [ ] https://github.com/amar-myana/certdomainfinder | 通过 certspotter 搜索子域 | 9
+- [ ] https://github.com/pwn1sher/CertShooter | 通过 CertSpotter 搜索子域 | 1
+- [ ] https://github.com/projectdiscovery/chaos-client | Chaos API 收集子域 | 126
+- [ ] https://github.com/tismayil/rsdl | 使用 ping 方法进行子域名扫描
+- [ ] https://github.com/subfinder/goaltdns | 用 golang 编写的置换生成工具 | 103
+- [ ] https://github.com/tomnomnom/httprobe | 获取域列表 | 1.4k
+- [ ] https://github.com/AnikHasibul/crtscan | 从证书透明性日志扫描子域 | 3
+- [ ] https://github.com/tomsteele/blacksheepwall | Go 编写的主机名侦查工具 | 282
+- [ ] https://github.com/projectdiscovery/shuffledns | 使用 bruteforce 枚举有效的子域 | 376
+- [ ] https://github.com/projectdiscovery/dnsprobe | 查询 DNS 的工具 | 185
+- [ ] https://github.com/iepathos/brutall | 开源的跨平台多工具子域爆破攻击者 | 1
+- [ ] https://github.com/anshumanbh/brutesubs | 配合 Docker 进行域名爆破 | 226
+- [ ] https://github.com/bobesa/go-domain-util | 检查 url 是否包含子域 | 41
+- [ ] https://github.com/fengdingbo/subdomain-scanner | 使用 Golang 编写的子域名检测程 | 5
+- [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain | 扫描实时子域 | 1
+- [ ] https://github.com/mosunit/SubdomainEnumerator | 使用多种工具进行子域枚举| 1
+- [ ] https://github.com/mcrouse911/subdomainfinder | 子域名查找器 | 0
+- [ ] https://github.com/minix357/subsearch | 小型并发子域枚举工具 | 2
+- [ ] https://github.com/dryvenn/crawler | 简单的网页爬虫子域搜寻器 | 0
+- [ ] https://github.com/z3dc0ps/altsub-pro | 查找子域名的存活状态 | 1
+- [ ] https://github.com/Sam-Lane/subway | 通过虚拟托管 HTTP 请求来枚举子域 | 2
+- [ ] https://github.com/nscuro/fdnssearch | 从 Rapid7 Open Data 快速搜索 FDNS 数据集 | 9
+- [ ] https://github.com/jakejarvis/subtake | 基于 subjack 脚本进行子域接管侦察 | 90
+- [ ] https://github.com/jimen0/fdns | 并发 Rapid7 FDNS 数据集解析器 | 65
+- [ ] https://github.com/subfinder/research | 子域枚举工具 | 30
+- [ ] https://github.com/yunxu1/dnsub | 一款好用的子域名扫描工具 | 81
+- [ ] https://github.com/Q2h1Cg/dnsbrute | 快速的域蛮力工具 | 346
+- [ ] https://github.com/codeexpress/subdomainrecon | 子域枚举工具 | 12
+- [ ] https://github.com/daehee/mildew | Dotmil 子域发现工具 | 2
+- [ ] https://github.com/lc/gau| 获取任何给定域的已知 URL | 1.5k
+- [ ] https://github.com/timwhitez/gobusterdns | 内网轻量化子域名爆破工具 | 2
+- [ ] https://github.com/ZhuriLab/Starmap
+- [ ] https://github.com/5l1v3r1/sigsubs
+- [ ] https://github.com/michenriksen/aquatone
+- [ ] https://github.com/0x2E/sf
+- [ ] https://github.com/projectdiscovery/dnsx
+- [ ] https://github.com/canc3s/cIPR
+- [ ] https://github.com/canc3s/cDomain | 利用天眼查查询企业备案 | 81
+- [ ] https://github.com/canc3s/cSubsidiary | 利用天眼查查询企业子公司 | 139
+- [ ] https://github.com/drsigned/sigsubs
+- [ ] https://github.com/mhmdiaa/second-order
+- [ ] https://github.com/anshumanbh/tko-subs
+- [ ] https://github.com/tomnomnom/waybackurls
+- [ ] https://github.com/ReddyyZ/urlbrute
+- [ ] https://github.com/happal/taifun
+- [ ] https://github.com/bp0lr/dmut
+- [ ] https://github.com/MilindPurswani/takemeon
+- [ ] https://github.com/foae/extract-subdomains-from-https
+- [ ] https://github.com/Any3ite/subDomainFucker
+- [ ] https://github.com/medasz/subDomainsBrute
+- [ ] https://github.com/denismitr/subguess
+- [ ] https://github.com/iepathos/brutall
+- [ ] https://github.com/McRaeAlex/domainutils
+- [ ] https://github.com/vmnguyen/findweb
+- [ ] https://github.com/rverton/redAsset
+- [ ] https://github.com/mzfr/takeover
+- [ ] https://github.com/attacker34/brute
+- [ ] https://github.com/kevinborras/GokGok
+- [ ] https://github.com/dlion/guessTor
+- [ ] https://github.com/lc/brute53
+- [ ] https://github.com/zxsecurity/glugger
+- [ ] https://github.com/jimen0/resolver
+- [ ] https://github.com/PayUSecurity/dohbf
+- [ ] https://github.com/Cgboal/SonarSearch
+- [ ] https://github.com/McRaeAlex/domainutils
+- [ ] https://github.com/Kevintheminion18/assetfinder
+- [ ] https://github.com/amanvir/enumerator
+- [ ] https://github.com/attacker34/brute
+- [ ] https://github.com/jimen0/brute
+- [ ] https://github.com/goodlandsecurity/subfinder
+- [ ] https://github.com/Redislabs-Solution-Architects/dnstracer
+- [ ] https://github.com/netevert/dnsmorph
+- [ ] https://github.com/kmskrishna/gdn
+- [ ] https://github.com/TRYblog/DomainScan
+- [ ] https://github.com/edoardottt/cariddi
+- [ ] https://github.com/Josue87/AnalyticsRelationships
+- [ ] https://github.com/lanrat/certgraph
+- [ ] https://github.com/Josue87/resolveDomains
+- [ ] https://github.com/Josue87/gotator
+- [ ] https://github.com/Un4gi/dirtywords
+- [ ] https://github.com/pwnesia/dnstake
+- [ ] https://github.com/twiny/spidy
+- [ ] https://github.com/mstxq17/MoreFind
+- [ ] https://github.com/edoardottt/csprecon
+- [ ] https://github.com/dwisiswant0/tlder
+
+### 02-资产收集
+
+- [ ] https://github.com/Goqi/Banli | 一款简单好用的高危资产识别工具 | 99
+- [x] https://github.com/lcvvvv/kscan | 一款轻量级的资产发现工具 | 2.3k
+- [x] https://github.com/broken5/bscan | 强大简单实用高效的 HTTP 扫描器 | 663
+- [x] https://github.com/EdgeSecurityTeam/EHole | 红队重点攻击系统指纹探测工具 | 1.8k
+- [ ] https://github.com/l3m0n/whatweb | Web 应用指纹识别 | 150
+- [ ] https://github.com/boy-hack/goWhatweb | go 语言写的 web 指纹识别 | 65
+- [ ] https://github.com/zsdevX/DarkEye | 渗透测试情报收集工具 | 600
+- [ ] https://github.com/aeverj/weblive | 高并发网站信息获取工具 | 56
+- [ ] https://github.com/shmilylty/netspy | 一款快速探测内网可达网段工具 | 1.1k
+- [ ] https://github.com/zhzyker/dismap | 资产发现和识别工具 | 1.3k
+- [ ] https://github.com/Athena1337/blackJack | 重点系统指纹识别和目录扫描 | 27
+- [ ] https://github.com/xiecat/fofax | fofa API 的命令行查询工具 | 489
+- [ ] https://github.com/redtoolskobe/scaninfo
+- [ ] https://github.com/timwhitez/Doge-AliveCheck
+- [ ] https://github.com/inbug-team/SweetBabyScan
+- [ ] https://github.com/TardC/fofadump
+- [ ] https://github.com/i11us0ry/tool-iFofa
+- [ ] https://github.com/inspiringz/fofa
+- [ ] https://github.com/hanc00l/nemo_go
+- [ ] https://github.com/j5s/Suscan
+- [ ] https://github.com/lakevilladom/goSkylar
+- [ ] https://github.com/fe1w0/assetMap
+- [ ] https://github.com/wgpsec/ENScanGo
+- [ ] https://github.com/DSO-Lab/gwaf
+- [ ] https://github.com/hakuQAQ/Holmes
+- [ ] https://github.com/ShangRui-hash/white-hat-helper
+- [ ] https://github.com/ShangRui-hash/arp-spoofing-go
+- [ ] https://github.com/ErSuan/gotoscan
+- [ ] https://github.com/feiyu563/nbping
+- [ ] https://github.com/ffffffff0x/ones
+- [ ] https://github.com/binganao/TaiO
+- [ ] https://github.com/yqcs/heartsk_community
+- [ ] https://github.com/lcvvvv/httpfinger
+- [ ] https://github.com/mmM1ku/Mscan
+- [ ] https://github.com/yl2chen/cidranger
+- [ ] https://github.com/praetorian-inc/fingerprintx
+- [ ] https://github.com/channyein1337/jsleak
+- [ ] https://github.com/zan8in/pyxis
+- [ ] https://github.com/SleepingBag945/dddd
+
+### 03-端口扫描
+
+- [ ] https://github.com/topics/portscan?l=go
+- [ ] https://github.com/topics/portscanner?l=go
+- [ ] https://github.com/search?l=Go&q=portscan
+- [ ] https://github.com/topics/ip-scanner?l=go
+- [ ] https://github.com/topics/port-scanner?l=go
+- [ ] https://github.com/topics/network-scanner?l=go
+- [ ] https://github.com/malfunkt/iprange | 解析 IP 地址列表 | 38
+- [x] https://github.com/CTF-MissFeng/nmaps | 新一代端口及指纹扫描器 136
+- [x] https://github.com/projectdiscovery/naabu | Go 编写的端口扫描工具 | 848
+- [x] https://github.com/4dogs-cn/TXPortMap | 端口扫描器和 Banner 识别 | 252
+- [ ] https://github.com/v-byte-cpu/sx | 快速、现代、易于使用的网络扫描仪 | 793
+- [ ] https://github.com/1ndianl33t/urlprobe | 网址状态代码和内容长度检查器 | 133
+- [ ] https://github.com/theblackturtle/fprobe | 快速 HTTP 探测 | 146
+- [ ] https://github.com/phil-fly/portScan | 开源端口扫描以及 title 收集工具 | 4
+- [ ] https://github.com/nray-scanner/nray | 分布式端口扫描器 | 116
+- [ ] https://github.com/liamg/furious | 一款快速轻巧的端口扫描器 | 282
+- [ ] https://github.com/xs25cn/scanPort | golang 版高性能端口扫描工具 | 76
+- [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
+- [ ] https://github.com/bufsnake/Monkey | 基于 nmap、masscan、go socket 的端口扫描工具 | 14
+- [ ] https://github.com/AlphabugX/AScanPort | 高速多线程全端口扫描 | 37
+- [ ] https://github.com/zan8in/masscan
+- [ ] https://github.com/s0md3v/Smap
+- [ ] https://github.com/zyylhn/zscan
+- [ ] https://github.com/stanford-esrg/lzr
+- [ ] https://github.com/L-codes/MX1014
+- [ ] https://github.com/projectdiscovery/httpx
+- [ ] https://github.com/i11us0ry/goon
+- [ ] https://github.com/chinacase/portScan
+- [ ] https://github.com/abrander/pnmap
+- [ ] https://github.com/lcvvvv/gonmap
+- [ ] https://github.com/JustinTimperio/gomap
+- [ ] https://github.com/CTF-MissFeng/NmapTools
+- [ ] https://github.com/timest/goscan
+- [ ] https://github.com/lavalamp-/ipv666
+- [ ] https://github.com/theodesp/find-port
+- [ ] https://github.com/ivopetiz/network-scanner
+- [ ] https://github.com/ariagecheney/fyneIPinfo
+- [ ] https://github.com/FDlucifer/goportscan
+- [ ] https://github.com/amir-shiati/portscanner
+- [ ] https://github.com/youshu/GoScanner
+- [ ] https://github.com/sj14/portscan
+- [ ] https://github.com/anrosent/portscan
+- [ ] https://github.com/djhohnstein/portscanner
+- [ ] https://github.com/dtx/go-portscan
+- [ ] https://github.com/ancientlore/portscan
+- [ ] https://github.com/DaikiYamakawa/go-portscan
+- [ ] https://github.com/uknowsec/TailorScan
+- [ ] https://github.com/jpiechowka/go-tcp-turbo-scanner
+- [ ] https://github.com/dozyio/go-port-scanner
+- [ ] https://github.com/Ullaakut/nmap
+- [ ] https://github.com/nray-scanner/nray
+- [ ] https://github.com/lair-framework/go-nmap
+- [ ] https://github.com/dean2021/go-nmap
+- [ ] https://github.com/guitarpawat/portscan
+- [ ] https://github.com/colindickson/portscan
+- [ ] https://github.com/btsomogyi/portscan
+- [ ] https://github.com/freeddser/portscan
+- [ ] https://github.com/takish/portscan
+- [ ] https://github.com/amir-shiati/portscanner
+- [ ] https://github.com/byronzhu-haha/portscanner
+- [ ] https://github.com/svitlanaGalianova/portscanner
+- [ ] https://github.com/mangelsnc/portscanner
+- [ ] https://github.com/vilhelmbergsoe/portscanner
+- [ ] https://github.com/yuraant/go-portscanner
+- [ ] https://github.com/oldcookie/go-portscanner
+- [ ] https://github.com/bitmaskit/go-portscanner
+- [ ] https://github.com/Tanmay-N/Go-Portscanner
+- [ ] https://github.com/magisterquis/portscan2dns
+- [ ] https://github.com/wangxianzhuo/PortScan
+- [ ] https://github.com/dean2021/go-masscan
+- [ ] https://github.com/mspaulding06/portscan
+- [ ] https://github.com/lkiesow/go-scan-http
+- [ ] https://github.com/AlexsJones/schism
+- [ ] https://github.com/viiftw/glance
+- [ ] https://github.com/pojntfx/liwasc
+- [ ] https://github.com/aeverj/pscan
+- [ ] https://launchpad.net/gommap
+- [ ] https://github.com/RickGray/vscan-go
+- [ ] https://github.com/loong716/PortScan
+- [ ] https://github.com/jboursiquot/portscan
+- [ ] https://github.com/vus520/go-scan
+- [ ] https://github.com/ElCap1tan/gort
+- [ ] https://github.com/zs5460/portscan
+- [ ] https://github.com/Killeroo/Skimmer
+- [ ] https://github.com/mlesniak/port-scanner
+- [ ] https://github.com/ivopetiz/network-scanner
+- [ ] https://github.com/Trevilness/PortScanner
+- [ ] https://github.com/BurnyMcDull/portscan
+- [ ] https://github.com/Konstantin8105/port
+- [ ] https://github.com/Tanmay-N/Go-Portscanner
+- [ ] https://github.com/jcbritobr/port-scanner
+- [ ] https://github.com/vokomarov/netshark
+- [ ] https://github.com/tengzhangchao/PortScan
+- [ ] https://github.com/qq431169079/PortScanner-3
+- [ ] https://github.com/pwn1sher/Golang-PortScanner
+- [ ] https://github.com/snarlysodboxer/portscan-compare-notify
+- [ ] https://github.com/Insolent-M1nx/SimpleThread_PortScanner_Go
+- [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
+- [ ] https://github.com/Pingze-github/portScanner
+- [ ] https://github.com/KathanP19/protoscan
+- [ ] https://github.com/R4yGM/netscanner
+- [ ] https://github.com/marpie/nmap2json
+- [ ] https://github.com/charles-d-burton/scandalorian
+- [ ] https://github.com/schmalle/nmaputil
+- [ ] https://github.com/zyxpaomian/go-fping
+- [ ] https://github.com/3th1nk/cidr
+- [ ] https://github.com/LeakIX/l9tcpid
+- [ ] https://github.com/soreatu/PortScanner
+- [ ] https://github.com/rverton/webanalyze
+- [ ] https://github.com/projectdiscovery/wappalyzergo
+- [ ] https://github.com/leesoh/np
+- [ ] https://github.com/fsgo/hydra
+- [ ] https://github.com/m0sway/Yosakura
+- [ ] https://github.com/XinRoom/go-portScan
+
+### 04-漏洞扫描
+
+- [x] https://github.com/topics/pentesting?l=go
+- [x] https://github.com/topics/security?l=go
+- [x] https://github.com/topics/hacking?l=go
+- [x] https://github.com/topics/scanner?l=go
+- [x] https://github.com/topics/hacking-tool?l=go
+- [x] https://github.com/topics/security-tools?l=go
+- [x] https://github.com/topics/security-scanner?l=go
+- [x] https://github.com/topics/vulnerability-scanner?l=go
+- [ ] https://github.com/Goqi/Banli | 高危资产识别和高危漏洞扫描 | 203
+- [ ] https://github.com/projectdiscovery/nuclei | 基于 POC 模板的漏洞扫描工具 | 3.9k
+- [ ] https://github.com/opensec-cn/kunpeng | Golang 编写的开源 POC 框架 | 1.1k
+- [ ] https://github.com/shadow1ng/fscan | 一款内网扫描工具 | 48
+- [ ] https://github.com/k8gege/LadonGo | 全平台渗透扫描器框架 | 1.1k
+- [ ] https://github.com/bp0lr/wurl | 测试工作网址的工具 | 20
+- [ ] https://github.com/jaeles-project/jaeles | Web 应用程序测试的瑞士军刀 | 1.7k
+- [ ] https://github.com/zmap/zgrab2 | 快速和模块化的 Web 扫描器 | 1.1k
+- [x] https://github.com/marco-lancini/goscan | 互动式网络扫描仪 | 786
+- [ ] https://github.com/irealing/banner | Web 端口扫描工具 | 2
+- [ ] https://github.com/lovetrap/SafeScan | 关于扫描器的想法和实现 | 5
+- [ ] https://github.com/45253321/gogoscan | golang 编写的扫描器 | 0
+- [ ] https://github.com/optimic/WeblogicScanner | Weblogic 漏洞扫描 | 0
+- [ ] https://github.com/dean2021/titlesearch | 批量抓取域名 title 工具 | 1
+- [ ] https://github.com/yahoo/gryffin | 一个大规模的 Web 安全扫描平台 | 2k
+- [ ] https://github.com/AmyangXYZ/AssassinGo | 可扩展的并发信息收集和漏洞扫描框架 | 506
+- [ ] https://github.com/banzaicloud/dast-operator | 动态应用程序和 API 安全测试 | 89
+- [ ] https://github.com/hahwul/mzap | 多目标 ZAP 扫描 | 42
+- [ ] https://github.com/0x09AL/go-deliver | Go 编写的有效载荷交付工具 | 102
+- [ ] https://github.com/CosasDePuma/Elliot | 一个在夜间自动执行 OSINT 流程的框架 | 19
+- [ ] https://github.com/awake1t/linglong | 一款甲方资产巡航扫描系统 | 667
+- [ ] https://github.com/liamg/gitjacker | git 仓库泄漏利用工具 | 1.1k
+- [ ] https://github.com/leobeosab/sharingan | 进攻性安全侦察工具 | 71
+- [ ] https://github.com/chaitin/xray | 一款完善的安全评估工具 | 7.5k
+- [ ] https://github.com/gobysec/Goby| 一款新的网络安全测试工具 | 283
+- [ ] https://github.com/Adminisme/ServerScan | 高并发网络扫描服务探测工具 | 432
+- [ ] https://github.com/jjf012/gopoc | 用 cel-go 重现了 xray 的 poc 检测功能的轮子 | 62
+- [ ] https://github.com/netxfly/xsec-proxy-scanner | 速度快而小巧的代理扫描器 | 228
+- [ ] https://github.com/future-architect/vuls | Linux 漏洞扫描程序 | 8k
+- [ ] https://github.com/aquasecurity/trivy | 全面的容器漏洞扫描程序 | 8.7k
+- [ ] https://github.com/jmpews/goscan | golang 的扫描框架 | 39
+- [ ] https://github.com/HToTH/fuckcdn | 全网扫描找出真实 IP | 5
+- [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
+- [ ] https://github.com/yinqiwen/gscan | HTTPS IP 可用性扫描工具 | 490
+- [ ] https://github.com/zan8in/afrog | 一个新的被动扫描工具 | 166
+- [ ] https://github.com/wrenchonline/glint | 基于浏览器爬虫的扫描工具 | 200
+- [ ] https://github.com/yhy0/Jie
+- [ ] https://github.com/qian-shen/youzai
+- [ ] https://github.com/sairson/Yasso
+- [ ] https://github.com/veo/vscan
+- [ ] https://github.com/yhy0/RustScan
+- [ ] https://github.com/EmYiQing/XiuScan
+- [ ] https://github.com/CTF-MissFeng/GoScan
+- [ ] https://github.com/GGyao/YYScan
+- [ ] https://github.com/inbug-team/InCloud
+- [ ] https://github.com/ethicalhackingplayground/erebus
+- [ ] https://github.com/jweny/pocassist
+- [ ] https://github.com/CobaltZirs0n/RunExploit
+- [ ] https://github.com/inbug-team/InScan
+- [ ] https://github.com/rootklt/snowball
+- [ ] https://github.com/mumu0215/FlamiePaw
+- [ ] https://github.com/virink/xray-weblisten-ui
+- [ ] https://github.com/kjyc1/cat-8080-brute
+- [ ] https://github.com/markwh245/rapt0r
+- [ ] https://github.com/ATpiu/asset-scan
+- [ ] https://github.com/mumu0215/GetTitle
+- [ ] https://github.com/jpillora/icmpscan
+- [ ] https://github.com/peterhellberg/xip.name
+- [ ] https://github.com/jm33-m0/mec-ng
+- [ ] https://github.com/hahwul/hack-pet
+- [ ] https://github.com/s-index/go-cve-search
+- [ ] https://github.com/r0lh/vubase
+- [ ] https://github.com/dreddsa5dies/urlScrub
+- [ ] https://github.com/botherder/kraken
+- [ ] https://github.com/rverton/webanalyze
+- [ ] https://github.com/TeraSecTeam/ary
+- [ ] https://github.com/thunderbarca/Noah
+- [ ] https://github.com/wgpsec/AstaGo
+- [ ] https://github.com/blackcrw/wprecon
+- [ ] https://github.com/cyal1/host_scan
+- [ ] https://github.com/1ight-2020/Struts2Scanner
+- [ ] https://github.com/deepsecurity-pe/GoGhost
+- [ ] https://github.com/six2dez/reconftw
+- [ ] https://github.com/canc3s/shiro
+- [ ] https://github.com/sw33tLie/sns
+- [ ] https://github.com/x51/STS2G
+- [ ] https://github.com/liamg/pax
+- [ ] https://github.com/Any3ite/CVE-2014-6271
+- [ ] https://github.com/Any3ite/cdnCheck
+- [ ] https://github.com/Any3ite/CVE-2020-5902-F5BIG
+- [ ] https://github.com/r0lh/CVE-2019-8449
+- [ ] https://github.com/optiv/CVE-2020-15931
+- [ ] https://github.com/AkinoMaple/dedecms-admin-scan
+- [ ] https://github.com/luc10/struts-rce-cve-2017-9805
+- [ ] https://github.com/orf53975/weblogicExp
+- [ ] https://github.com/labrusca/Struts2-045-checker
+- [ ] https://github.com/Any3ite/phpstudy_backdoor
+- [ ] https://github.com/BurnyMcDull/CVE-2017-7921
+- [ ] https://github.com/anasbousselham/fortiscan
+- [ ] https://github.com/brompwnie/CVE-2019-5418-Scanner
+- [ ] https://github.com/1ight-2020/RuijieRCE
+- [ ] https://github.com/GreyOrder/CVE-2021-21978
+- [ ] https://github.com/GreyOrder/CVE-2021-26855
+- [ ] https://github.com/dwisiswant0/proxylogscan
+- [ ] https://github.com/SECFORCE/sparta
+- [ ] https://github.com/YE-Kits/hunter
+- [ ] https://github.com/coffeehb-org/autoscan
+- [ ] https://github.com/YanMu2020/SpringScan
+- [ ] https://github.com/sairson/FscanX
+- [ ] https://github.com/vaycore/vaycat
+- [ ] https://github.com/h4ckdepy/depypocs
+- [ ] https://github.com/ggg4566/PocStart
+- [ ] https://github.com/m0sway/JuD-Scan
+- [ ] https://github.com/WAY29/pocV
+- [ ] https://github.com/zema1/yarx
+- [ ] https://github.com/RedTeamWing/XScan
+- [ ] https://github.com/workcha/goScanner
+- [ ] https://github.com/ssssdl/GoHttpProxyScan
+- [ ] https://github.com/xm1k3/cent
+- [ ] https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner
+- [ ] https://github.com/yqcs/hvcs
+- [ ] https://github.com/AuFeng111/afscan
+- [ ] https://github.com/arminc/clair-scanner
+- [ ] https://github.com/De1os/Apollo
+- [ ] https://github.com/j3ssie/osmedeus
+- [ ] https://github.com/jstang9527/gofor
+- [ ] https://github.com/Arbor01/AnScan
+- [ ] https://github.com/AuFeng111/afscan
+- [ ] https://github.com/SummerSec/SpringExploit
+- [ ] https://github.com/yuyan-sec/RedisEXP
+- [ ] https://github.com/1n7erface/RequestTemplate
+- [ ] https://github.com/XTeam-Wing/X-Go
+- [ ] https://github.com/Ciyfly/woodpecker
+- [ ] https://github.com/sulab999/Taichi
+- [ ] https://github.com/lz520520/railgunlib
+- [ ] https://github.com/JKme/cube
+- [ ] https://github.com/SiJiDo/IEyes
+- [ ] https://github.com/lcvvvv/appfinger
+- [ ] https://github.com/u21h2/nacs
+- [ ] https://github.com/dwisiswant0/gollina
+- [ ] https://github.com/BEACON-CAI/quiet
+- [ ] https://github.com/jiaocoll/BeeScan-scan
+- [ ] https://github.com/hktalent/scan4all
+- [ ] https://github.com/nirsarkar/vscan
+- [ ] https://github.com/sairson/RunExploit
+- [ ] https://github.com/Ph33rr/cirrusgo
+- [ ] https://github.com/niudaii/zpscan
+- [ ] https://github.com/ShadowFl0w/YNM3000
+- [ ] https://github.com/StarCrossPortal/scalpel
+- [ ] https://github.com/sh1yan/Lscan
+- [ ] https://github.com/kvesta/vesta
+- [ ] https://github.com/TD0U/WeaverScan
+- [ ] https://github.com/chainreactors/gogo
+- [ ] https://github.com/chushuai/wscan
+- [ ] https://github.com/yhy0/ChYing
+
+### 05-密码爆破
+
+- [ ] https://github.com/topics/bruteforce?l=go
+- [ ] https://github.com/topics/brute-force?l=go
+- [ ] https://github.com/topics/brute-force-attacks?l=go
+- [ ] https://github.com/search?l=Go&q=bruteforce
+- [ ] https://github.com/Goqi/Banli | 一款简单好用的高危资产识别工具 | 99
+- [x] https://github.com/netxfly/x-crack | 年轻人的第一款弱口令扫描器 | 1.1k
+- [x] https://github.com/mandiant/gocrack | 密码破解工具 | 936
+- [x] https://github.com/awake1t/PortBrute | 一款跨平台小巧的端口/口令爆破工具 | 549
+- [x] https://github.com/ncsa/ssh-auditor | 扫描网络上弱 ssh 密码的最佳方法 | 499
+- [x] https://github.com/niudaii/go-crack | go 语言写的弱口令爆破工具 | 142
+- [x] https://github.com/phil-fly/goWeakPass |使用 golang 编写的服务弱口令检测 | 28
+- [ ] https://github.com/phil-fly/go-ipscan | 使用 icmp 检测获取当前网段存活主机 | 2
+- [ ] https://github.com/hack2fun/Gscan | 基于 golang 的高并发扫描器 | 15
+- [ ] https://github.com/netxfly/crack_ssh| SSH 口令扫描器 | 104
+- [x] https://github.com/oksbsb/crack | 基于 golang 的多并发爆破工具 | 5
+- [ ] https://gitlab.com/opennota/hydra | Hydra 用 Go 实现 | 1
+- [ ] https://github.com/lazytools/sshchecker | 快速专用的 ssh 暴力破解工具 | 5
+- [ ] https://github.com/insionng/genpassword | golang 生成密码字典 | 6
+- [ ] https://github.com/bigb0sss/goPassGen | 易于猜测的密码生成器 | 4
+- [ ] https://github.com/codexlynx/brutemq | 爆破 RabbitMQ 密码 | 1
+- [ ] https://github.com/china-muwenbo/goScanPort | 批量扫描 21 端口并爆破 FTP | 8
+- [ ] https://github.com/edermi/go-tomcat-mgmt-scanner | 查找和暴力破解 tomcat 管理后台 | 20
+- [ ] https://github.com/zhangqin/mysqlfuzz | 针对指定 ip 段的 mysql 爆破 | 1
+- [ ] https://github.com/dru1d-foofus/gorgon | 模块化跨平台暴力破解工具 | 3
+- [ ] https://github.com/wrfly/ssh-goburp | golang 写的一个 ssh 爆破小程序 | 0
+- [ ] https://github.com/vpereira/brucutu | 最酷的暴力破解工具 | 0
+- [ ] https://github.com/Leeon123/SSHcrack | 使用 golang 制作的 SSH 爆破工具 | 3
+- [x] https://github.com/fuzz7j/cDogScan | 多服务口令爆破、端口扫描等 | 53
+- [ ] https://github.com/Rak00n/GoSpray
+- [ ] https://github.com/F3eev/gobforce
+- [ ] https://github.com/deed02392/weakpass
+- [ ] https://github.com/ildarmf/bruteforce
+- [ ] https://github.com/joohoi/godance
+- [ ] https://github.com/dullgiulio/bruto
+- [ ] https://github.com/adrpino/sshackle
+- [ ] [golang-http-basic-auth-bruteforce](https://github.com/ruhman/golang-http-basic-auth-bruteforce)
+- [ ] https://github.com/mylamour/boomb
+- [ ] https://github.com/Leeon123/SSHcrack
+- [ ] https://github.com/vlad-s/gofindssh
+- [ ] https://github.com/skarnecki/lockpick
+- [ ] https://github.com/lazytools/sshchecker
+- [ ] https://github.com/Shadow26Wolf/quickbrute
+- [ ] https://github.com/djhohnstein/ghidorah
+- [ ] https://github.com/giteshnxtlvl/cook | 轻松创建单词列表和密码列表 | 231
+- [ ] https://github.com/kitabisa/ssb
+- [ ] https://github.com/sairson/goSQL
+
+### 06-目录扫描
+
+- [ ] https://github.com/topics/fuzzer?l=go
+- [ ] https://github.com/topics/fuzzing?l=go
+- [ ] https://github.com/topics/fuzz?l=go
+- [ ] https://github.com/topics/dirbuster?l=go
+- [ ] https://github.com/topics/webscan?l=go
+- [ ] https://github.com/Goqi/DirTurtle
+- [ ] https://github.com/l2-team/cmsfingers
+- [x] https://github.com/ffuf/ffuf | 用 Go 编写的快速网络模糊器 | 8.1k
+- [ ] https://github.com/adamtlangley/ffufme | ffuf 的目标练习 | 23
+- [ ] https://github.com/OJ/gobuster | 用于暴力破解的工具 | 3.8k
+- [ ] https://github.com/tomnomnom/meg | 主机路径扫描 | 774
+- [ ] https://github.com/1c3z/fileleak | 又一款文件泄露检测工具 | 33
+- [ ] https://github.com/dzonerzy/goWAPT | 瑞士军刀 wfuzz 的弟弟 | 285
+- [ ] https://github.com/liamg/scout | 发现 Web 未公开的文件目录 | 209
+- [ ] https://github.com/hihebark/gds | 在网站上搜索隐藏的路径 | 6
+- [ ] https://github.com/evilsocket/dirsearch | dirsearch 的 Go 实现 | 213
+- [ ] https://github.com/brem-hub/godirb | 快速的目录扫描工具 | 0
+- [ ] https://github.com/stefanoj3/dirstalk | dirbuster 和 dirb 的现代替代品 | 181
+- [ ] https://github.com/Matir/webborer | Go 编写的目录枚举工具 | 42
+- [ ] https://github.com/hakluke/hakrawler | 快速的 Web 搜寻器 | 1.9k
+- [ ] https://github.com/RedTeamPentesting/monsoon | 快速 HTTP 枚举器 | 177
+- [ ] https://github.com/C-Sto/recursebuster | 就像 gobuster，但是递归 | 201
+- [ ] https://github.com/graniet/GoFuzz | 用 Go 编写的请求模糊器 | 5
+- [x] https://github.com/corunb/Dirscan | Go 编写的高并发的目录扫描器 | 67
+- [ ] https://github.com/TardC/prad
+- [ ] https://github.com/hunyaio/yuhScan
+- [ ] https://github.com/assetnote/kiterunner
+- [ ] https://github.com/TRYblog/DirScan
+- [ ] https://github.com/M4DM0e/DirDar
+- [ ] https://github.com/vlad-s/gofuzzyourself
+- [ ] https://github.com/sueesmar/pluzz
+- [ ] https://github.com/ArenasDev/crapbuster
+- [ ] https://github.com/sdgdsffdsfff/lcyscan
+- [ ] https://github.com/yuxiaokui/webfinger
+- [ ] https://github.com/yghonem14/cngo
+- [ ] https://github.com/unstppbl/gowap
+- [ ] https://github.com/Static-Flow/gofingerprint
+- [ ] https://github.com/rabbitmask/MacOui
+- [ ] https://github.com/0xsapra/fuzzparam
+- [ ] https://github.com/j5s/Caesar
+- [ ] https://github.com/jiaocoll/GoWebBanner
+- [ ] https://github.com/ethicalhackingplayground/wordlistgen | 生成目标特定的单词列表 | 73
+- [ ] https://github.com/TRYblog/url-alive-scan
+- [ ] https://github.com/jayus0821/scan-j
+- [ ] https://github.com/bufsnake/blueming
+- [ ] https://github.com/brittonhayes/pillager
+- [ ] https://github.com/madneal/gshark
+- [ ] https://github.com/jiaocoll/GoBackupscan
+- [ ] https://github.com/ethicalhackingplayground/tprox
+- [ ] https://github.com/newbe3three/gotoscan
+- [ ] https://github.com/damit5/backupGen
+- [ ] https://github.com/carl1l/f403
+- [ ] https://github.com/pingc0y/URLFinder
+- [ ] https://github.com/musana/fuzzuli
+- [ ] https://github.com/yhy0/FuckFingerprint
+- [ ] https://github.com/MrEmpy/Mantra
+- [ ] https://github.com/chainreactors/spray
+
+### 07-Web 安全
+
+- [ ] https://github.com/topics/xss?l=go
+- [ ] https://github.com/topics/ssrf?l=go
+- [ ] https://github.com/topics/rce?l=go
+- [ ] https://github.com/topics/sql-injection?l=go
+- [ ] https://github.com/tprynn/web-methodology
+- [ ] https://github.com/Releasel0ck/Blind-SQL-Injector | 手工盲注辅助注入工具 | 23
+- [ ] https://github.com/yahoo/gryffin | 大规模的 Web 安全扫描平台 | 2k
+- [ ] https://github.com/yahoo/webseclab | Web 安全测试用例集 | 920
+- [ ] https://github.com/dstotijn/hetty | 用于安全性研究的 HTTP 工具包 | 2.9k
+- [ ] https://github.com/denandz/glorp | 基于 CLI 的 HTTP 拦截和重放代理 | 178
+- [ ] https://github.com/hahwul/jwt-hack | JWT 利用安全工具 | 122
+- [ ] https://github.com/Shivangx01b/CorsMe | 跨源资源共享错误配置扫描程序 | 105
+- [ ] https://github.com/Shivangx01b/BountyIt | 查找 xss、lfi、rce、ssti 等漏洞 | 33
+- [ ] https://github.com/Buzz2d0/xssfinder | XSS 被动扫描 | 120
+- [ ] https://github.com/pikpikcu/XRCross | Web 漏洞扫描工具 | 121
+- [ ] https://github.com/chennqqi/godnslog | 精美的 dnslog 日志服务器 | 253
+- [ ] https://github.com/projectdiscovery/interactsh | 一个 OOB 交互收集服务器和客户端库 | 1.4k
+- [ ] https://github.com/Buzz2d0/Hyuga | 检测带外流量的监控工具 | 217
+- [ ] https://github.com/hahwul/dalfox | 基于 Go 的参数分析和 XSS 扫描工具 | 957
+- [ ] https://github.com/dwisiswant0/crlfuzz | CRLF 漏洞扫描工具 | 205
+- [ ] https://github.com/teknogeek/ssrf-sheriff | SSRF 漏洞探测工具 | 205
+- [ ] https://github.com/gen0cide/hasherbasher | SQL 注入工具 | 29
+- [ ] https://github.com/AlphabugX/Alphalog
+- [ ] https://github.com/ssssdl/DnslogMsg4Wx
+- [ ] https://github.com/sukmoonlee/packetlog
+- [ ] https://github.com/vrechson/ademir
+- [ ] https://github.com/thatsn0tmysite/xsserve
+- [ ] https://github.com/EmYiQing/go-sqlmap
+- [ ] https://github.com/EgeBalci/zippo
+- [ ] https://github.com/drsigned/sigurlx
+- [ ] https://github.com/drsigned/sigurls
+- [ ] https://github.com/dowdyph0/transgo
+- [ ] https://github.com/KathanP19/Gxss
+- [ ] https://github.com/jweny/gosqlmap
+- [ ] https://github.com/rverton/xssmap
+- [ ] https://github.com/raz-varren/xsshell
+- [ ] https://github.com/blackbinn/wprecon
+- [ ] https://github.com/ryandamour/ssrfuzz
+- [ ] https://github.com/noobexploiter/headerssrfXD
+- [ ] https://github.com/ethicalhackingplayground/bxss
+- [ ] https://github.com/neex/1u.ms
+- [ ] https://github.com/Charlie-belmer/nosqli
+- [ ] https://github.com/ethicalhackingplayground/endzy
+- [ ] https://github.com/gorilla/csrf
+- [ ] https://github.com/R0X4R/ssrf-tool
+- [ ] https://github.com/ethicalhackingplayground/ssrf-tool
+- [ ] https://github.com/kleiton0x00/ppmap
+- [ ] https://github.com/EmYiQing/Gososerial
+- [ ] https://github.com/MorouU/nightingale
+- [ ] https://github.com/ShangRui-hash/xss-platform
+- [ ] https://github.com/yumusb/DNSLog-Platform-Golang
+- [ ] https://github.com/Charlie-belmer/nosqli
+- [ ] https://github.com/ferreiraklet/Jeeves
+- [ ] https://github.com/xiecat/wsm
+
+### 08-病毒免杀
+
+- [x] https://github.com/topics/shellcode?l=go
+- [x] https://github.com/search?l=Go&q=shellcode
+- [x] https://github.com/search?l=Go&q=bypass
+- [x] https://github.com/topics/shellcode-loader
+- [x] https://github.com/Goqi/Bianse
+- [ ] https://github.com/Getshell/BypassAV
+- [ ] https://github.com/xct/morbol | PE 文件的简单 AV 规避 | 13
+- [ ] https://github.com/ffuf/pencode | 复杂有效载荷编码器 | 73
+- [ ] https://github.com/jax777/shellcode-launch | go shellcode 加载器 | 22
+- [ ] https://github.com/Maka8ka/ShellGoder | GoLang Shellcode Loder | 1
+- [ ] https://github.com/An0ny-m0us/DesertFox | 远程文件分离免杀 | 30
+- [ ] https://github.com/wonderkun/go-packer | golang 打包二进制进行免杀 | 159
+- [ ] https://github.com/timwhitez/Doge-sRDI | Go 反射 DLL 注入的 Shellcode 实现 | 24
+- [ ] https://github.com/EgeBalci/HERCULES | 一种特殊的有效载荷生成器 | 540
+- [ ] https://github.com/petercunha/GoAT | 使用 Twitter 作为 C&C 服务器的木马 | 231
+- [ ] https://github.com/brimstone/go-shellcode | 将 shellcode 加载到新进程中 | 543
+- [ ] https://github.com/tanc7/EXOCET-AV-Evasion | 一种加密类型的恶意软件植入程序 | 27
+- [ ] https://github.com/0x9ef/golang-uacbypasser | 用 Go 实现和编写的 UAC 绕过技术 | 91
+- [ ] https://github.com/timwhitez/Doge-Loader | Go 语言写的的 Shellcode 加载器 | 207
+- [ ] https://github.com/D00MFist/Go4aRun | Go 写的 Shellcode 运行程序 | 166
+- [x] https://github.com/EddieIvan01/gld | Go shellcode 加载器 | 119
+- [x] https://github.com/bigb0sss/Bankai | 另一个 Go Shellcode 加载器 | 42
+- [ ] https://github.com/wei930630/go-shellcode-launcher | shellcode 本地加载器 | 1
+- [ ] https://github.com/Lmg66/shellcodeloading | shellcode 加载器 golang 分离免杀 | 4
+- [x] https://github.com/Print1n/go-shellcode | AES 和 Base64 和绕过杀毒 | 3
+- [ ] https://github.com/Esonhugh/goShellcodeLoader | go 语言下的 shellcode 加载工具 | 2
+- [ ] https://github.com/Ne0nd0g/go-shellcode | 使用 API 调用加载和执行 Shellcode | 427
+- [ ] https://github.com/hack2fun/BypassAV | CS 插件，快速生成免杀的可执行文件 | 514
+- [ ] https://github.com/pureqh/bypassAV | 免杀 shellcode 加载器 | 264
+- [ ] https://github.com/Binject/backdoorfactory | 将 shellcode 插入到二进制文件中 | 264
+- [ ] https://github.com/optiv/ScareCrow | 围绕 EDR 绕过设计的有效负载创建框架 | 1.1k
+- [ ] https://github.com/sh4hin/GoPurple | 各种 shellcode 注入技术的简单集合 | 251
+- [ ] https://github.com/Hangingsword/HouQing | 用于快速生成免杀的 EXE 可执行文件 | 30
+- [ ] https://github.com/insightglacier/go_meterpreter | Golang 实现的 x86 下的 Meterpreter | 29
+- [ ] https://github.com/yoda66/GoShellcode | shellcode 执行程序 | 43
+- [ ] https://github.com/saulpanders/payloadTests | 各种 shellcode 注入技术的 PoC | 1
+- [ ] https://github.com/qiushifengyu/golang-ReflectiveDLLInjection | golang 反射 DLL 注入 | 28
+- [ ] https://github.com/timwhitez/Doge-Assembly | 优秀的免杀软件 | 62
+- [ ] https://github.com/redcode-labs/SNOWCRASH | 多语言有效载荷生成器 | 202
+- [ ] https://github.com/EatonChips/dllogram | 生成指定 shellcode 的 exe 或 dll | 3
+- [ ] https://github.com/TRYblog/des.hex-encodefile | 随机 deskey 和 hex 加密 shellcode | 2
+- [ ] https://github.com/vyrus001/shellGo| Go 语言编写的 shellcode 测试器 | 51
+- [ ] https://github.com/pench3r/Golang-Shellcode-Loader | 远程网址执行 shellcode | 11
+- [ ] https://github.com/listinvest/runCLI | 使用各种方法在命令行中运行 shellcode | 0
+- [ ] https://github.com/TRYblog/go-shellcode-webimg-load | 图片隐写的远程 shellcode 加载器 | 26
+- [ ] https://github.com/metaStor/Bypass_Go | 分离免杀思想改造 | 14
+- [ ] https://github.com/yqcs/ZheTian
+- [ ] https://github.com/neox41/go-procinject
+- [ ] https://github.com/gobuffalo/packr
+- [ ] https://github.com/EgeBalci/sgn
+- [ ] https://github.com/mirtchovski/clamav
+- [ ] https://github.com/saferwall/saferwall
+- [ ] https://github.com/diljith369/AVDeceiver
+- [ ] https://github.com/heikipikker/HERCULES
+- [ ] https://github.com/berti/antivir1
+- [ ] https://github.com/tintofchaos/antivirus-from-scratch
+- [ ] https://github.com/EricMarcantonio/go-reverse-shell
+- [ ] https://github.com/buffermet/sewers
+- [ ] https://github.com/scopelemanuele/machinista
+- [ ] https://github.com/tanc7/EXOCET-AV-Evasion
+- [ ] https://github.com/xct/morbol
+- [ ] https://github.com/wahyuhadi/beacon-c2-go
+- [ ] https://github.com/optiv/Dent
+- [ ] https://github.com/ffuf/pencode
+- [ ] https://github.com/audibleblink/xordump
+- [ ] https://github.com/darkb1rd/DarkGld
+- [ ] https://github.com/sad0p/d0zer
+- [ ] https://github.com/Binject/shellcode
+- [ ] https://github.com/mukesh-610/loki-client
+- [ ] https://github.com/Mulvun/G0-Pr0cess-Inject0r
+- [ ] https://github.com/ryhanson/phishery
+- [ ] https://github.com/hack2fun/EventLogBypass
+- [ ] https://github.com/wahyuhadi/beacon-c2-go
+- [ ] https://github.com/BelodedAleksey/win_hack
+- [ ] https://github.com/BelodedAleksey/DLL_Injection
+- [ ] https://github.com/Binject/binjection
+- [ ] https://github.com/fengziHK/bypass_go
+- [ ] https://github.com/fcre1938/goShellCodeByPassVT
+- [ ] https://github.com/Maka8ka/Faygo
+- [ ] https://github.com/malware-unicorn/GoPEInjection
+- [ ] https://github.com/mattermost/mattermost-plugin-antivirus
+- [ ] https://github.com/mdsecactivebreach/o365-attack-toolkit
+- [ ] https://github.com/EgeBalci/amber
+- [ ] https://github.com/rluisr/coolink
+- [ ] https://github.com/MonaxGT/ProxyImperva
+- [ ] https://github.com/jamesbcook/shellcode-launcher
+- [ ] https://github.com/s1egesystems/GoProcessInject0r
+- [ ] https://github.com/mumu0215/golang-shellcode-loader
+- [ ] https://github.com/vyrus001/needle
+- [ ] https://github.com/theRealestAEP/GoLang
+- [ ] https://github.com/cephurs/GOback
+- [ ] https://github.com/mjwhitta/runsc
+- [ ] https://github.com/mu0gua/shellcode-remote-aes
+- [ ] https://github.com/TheWover/donut
+- [ ] https://github.com/listinvest/undonut
+- [ ] https://github.com/wahyuhadi/shellcode-aes
+- [ ] https://github.com/hcninja/scfmt
+- [ ] https://github.com/HildeTeamTNT/go-shellcode
+- [ ] https://github.com/wahyuhadi/kurawa
+- [ ] https://github.com/grantseltzer/goverlayfs
+- [ ] https://github.com/mumu0215/dupe
+- [ ] https://github.com/safe6Sec/GolangBypassAV
+- [ ] https://github.com/kira2040k/AVBypass
+- [ ] https://github.com/D00MFist/Go4aRun
+- [ ] https://github.com/rootklt/go-uuid-loader
+- [ ] https://github.com/NyDubh3/CuiRi
+- [ ] https://github.com/FourCoreLabs/EDRHunt
+- [ ] https://github.com/akkuman/gSigFlip
+- [ ] https://github.com/chriskaliX/Hades
+- [ ] https://github.com/TideSec/GoBypassAV
+
+### 09-远控隧道
+
+- [ ] https://github.com/topics/proxy?l=go
+- [ ] https://github.com/topics/tunnel?l=go
+- [ ] https://github.com/topics/reverse-proxy?l=go
+- [ ] https://github.com/Goqi/Duoli
+- [ ] https://github.com/fatedier/frp | 快速反向代理 | 40.3k
+- [ ] https://github.com/ehang-io/nps | 功能强大的内网穿透代理服务器 | 17.3k
+- [ ] https://github.com/drk1wi/Modlishka | 莫德利什卡，反向代理。 | 3.6k
+- [ ] https://github.com/ginuerzh/gost | GO 语言实现的安全隧道 | 7.8k
+- [ ] https://github.com/nicocha30/ligolo-ng
+- [ ] https://github.com/jpillora/chisel
+- [ ] https://github.com/xtaci/kcptun
+- [ ] https://github.com/ph4ntonn/Stowaway
+- [ ] https://github.com/canc3s/judas
+- [ ] https://github.com/bjdgyc/anylink
+- [ ] https://github.com/ort4u/Ortau
+- [ ] https://github.com/FunnyWolf/TFirewall
+- [ ] https://github.com/cntechpower/anywhere
+- [ ] https://github.com/uknowsec/frpModify
+- [ ] https://github.com/Dliv3/Venom
+- [ ] https://github.com/danielan/lonely-shell
+- [ ] https://github.com/sysdream/ligolo
+- [ ] https://github.com/sysdream/hershell
+- [ ] https://github.com/sysdream/chashell
+- [ ] https://github.com/cw1997/NATBypass
+- [ ] https://github.com/ph4ntonn/go-socks5
+- [ ] https://github.com/wywwzjj/Stowaway
+- [ ] https://github.com/LubyRuffy/tcptunnel
+- [ ] https://github.com/FireFart/goshell
+- [ ] https://github.com/ypcd/gstunnel
+- [ ] https://github.com/EddieIvan01/iox
+- [ ] https://github.com/ring04h/s5.go
+- [ ] https://github.com/Ridter/DomainHiding
+- [ ] https://github.com/imgproxy/imgproxy
+- [ ] https://github.com/knownsec/Portforward
+- [ ] https://github.com/TNK-Studio/gortal
+- [ ] https://github.com/gwuhaolin/lightsocks
+- [ ] https://github.com/xct/xc
+- [ ] https://github.com/snail007/goproxy
+- [ ] https://github.com/staaldraad/turner
+- [x] https://github.com/esrrhs/pingtunnel
+- [ ] https://github.com/whitehatnote/BlueShell
+- [ ] https://github.com/averagesecurityguy/c2
+- [ ] https://github.com/e3prom/ruse
+- [ ] https://github.com/google/martian
+- [ ] https://github.com/stripe/smokescreen
+- [ ] https://github.com/BitTheByte/Eagle
+- [ ] https://github.com/FunnyWolf/TFirewall
+- [ ] https://github.com/rhaidiz/broxy
+- [ ] https://github.com/p4gefau1t/trojan-go
+- [ ] https://github.com/AdguardTeam/dnsproxy
+- [ ] https://github.com/inconshreveable/ngrok
+- [ ] https://github.com/rabbitmask/Netstat
+- [x] https://github.com/WangYihang/Platypus
+- [ ] https://github.com/wrfly/gus-proxy
+- [ ] https://github.com/danielan/lonely-shell
+- [ ] https://github.com/crabkun/switcher
+- [ ] https://github.com/crabkun/crab
+- [ ] https://github.com/rancher/remotedialer
+- [ ] https://github.com/HTFTIMEONE/proxyPool
+- [ ] https://github.com/AmyangXYZ/GhostTunnel-Go
+- [ ] https://github.com/TheKingOfDuck/ReverseGoShell
+- [ ] https://github.com/mauri870/powershell-reverse-http
+- [ ] https://github.com/thinkgos/jocasta
+- [ ] https://github.com/yinqiwen/gsnova
+- [ ] https://github.com/canc3s/gnc
+- [ ] https://github.com/lu4p/ToRat
+- [ ] https://github.com/inlets/inlets
+- [ ] https://github.com/Lz1y/NatSocks
+- [ ] https://github.com/dushixiang/4dnat
+- [ ] https://github.com/lesnuages/hershell
+- [ ] https://github.com/redcode-labs/GoSH
+- [ ] https://github.com/Sandertv/gophertunnel
+- [ ] https://github.com/crowdsecurity/crowdsec
+- [ ] https://github.com/unixpickle/reverseproxy
+- [ ] https://github.com/slemire/reversetroll
+- [ ] https://github.com/pry0cc/soxy
+- [ ] https://github.com/ice-ice/dnstunnel
+- [ ] https://github.com/TeaWeb/build
+- [ ] https://github.com/projectdiscovery/proxify
+- [ ] https://github.com/maskedeken/gost-plugin
+- [ ] https://github.com/haxii/fastproxy
+- [ ] https://github.com/chroblert/JCRandomProxy
+- [ ] https://github.com/mthbernardes/GTRS
+- [ ] https://github.com/txthinking/brook
+- [ ] https://github.com/TerminalJockey/Gimic
+- [ ] https://github.com/ghostunnel/ghostunnel
+- [ ] https://github.com/blackarrowsec/pivotnacci
+- [ ] https://github.com/nodauf/Girsh
+- [ ] https://github.com/antoniomika/sish
+- [ ] https://github.com/fanpei91/sandwich
+- [ ] https://github.com/Dreamacro/clash
+- [ ] https://github.com/xjasonlyu/tun2socks
+- [ ] https://github.com/eaglexiang/eagle.tunnel.go
+- [ ] https://github.com/djhohnstein/cliProxy
+- [ ] https://github.com/redcode-labs/GodSpeed
+- [ ] https://github.com/muraenateam/muraena
+- [ ] https://github.com/esrrhs/spp
+- [ ] https://github.com/umputun/reproxy
+- [ ] https://github.com/tavenli/port-forward
+- [ ] https://github.com/hotnops/gtunnel
+- [ ] https://github.com/hashsecteam/scf-proxy
+- [ ] https://github.com/FunnyWolf/ligolo
+- [ ] https://github.com/google/huproxy
+- [ ] https://github.com/lochv/srt
+- [ ] https://github.com/net-byte/vtun
+- [ ] https://github.com/elazarl/goproxy
+- [ ] https://github.com/jafarlihi/rconn
+- [ ] https://github.com/mosn/mosn
+- [ ] https://github.com/njcx/gocmd
+- [ ] https://github.com/Daybr4ak/C2ReverseProxy
+- [ ] https://github.com/NMTech0x90/port_tunnel
+- [ ] https://github.com/mmatczuk/go-http-tunnel
+- [ ] https://github.com/codeHauler-1/NetProxy
+- [ ] https://github.com/txthinking/ipio
+- [ ] https://github.com/jafarlihi/rconn
+- [ ] https://github.com/duzhi5368/FKGoTrojan
+- [ ] https://github.com/iiiusky/webrtc-proxy
+- [ ] https://github.com/CTF-MissFeng/Ecloud
+- [ ] https://github.com/pibigstar/go-proxy
+- [ ] https://github.com/xandout/soxy
+- [ ] https://github.com/tnpitsecurity/ligolo-ng
+- [ ] https://github.com/lwch/natpass
+- [ ] https://github.com/EkiXu/reverse-shell-manager
+- [ ] https://github.com/studentmain/socks6
+- [ ] https://github.com/wzshiming/anyproxy
+- [ ] https://github.com/dtapps/go-ssh-tunnel
+- [ ] https://github.com/TRYblog/multiplexing_port_socks5
+- [ ] https://github.com/NHAS/reverse_ssh
+- [ ] https://github.com/kost/revsocks
+- [ ] https://github.com/chdav/GoWard
+- [ ] https://github.com/sleeyax/ja3rp
+- [ ] https://github.com/jiuzhou-zhao/lumos
+- [ ] https://github.com/goproxy/goproxy
+- [ ] https://github.com/Quiq/webauthn_proxy
+- [ ] https://github.com/tnpitsecurity/ligolo-ng
+- [ ] https://github.com/wuchunfu/IpProxyPool
+- [ ] https://github.com/justmao945/mallory
+- [ ] https://github.com/bykof/go-plantuml
+- [ ] https://github.com/enfein/mieru
+- [ ] https://github.com/xiaobei97/ligolo
+- [ ] https://github.com/lcvvvv/backway
+- [ ] https://github.com/longXboy/lunnel
+- [ ] https://github.com/kevwan/tproxy
+- [ ] https://github.com/yuxiaokui/gohtran
+- [ ] https://github.com/stripe/smokescreen
+- [ ] https://github.com/gowsp/wsp
+- [ ] https://github.com/grines/goc2
+- [ ] https://github.com/CMatri/MeetC2
+- [ ] https://github.com/apernet/hysteria
+- [ ] https://github.com/mzz2017/gg
+- [ ] https://github.com/zema1/suo5
+- [ ] https://github.com/pgrok/pgrok
+- [ ] https://github.com/cincly/ltx
+- [ ] https://github.com/Mob2003/rakshasa
+- [ ] https://github.com/3NailsInfoSec/DCVC2
+
+### 10-内网渗透
+
+- [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 225
+- [ ] https://github.com/uknowsec/keylogger | 键盘记录 | 40
+- [ ] https://github.com/TerminalJockey/CreepingVine
+- [ ] https://github.com/TerminalJockey/Skiddify
+- [ ] https://github.com/TerminalJockey/GShell
+- [ ] https://github.com/dennis-tra/pcp
+- [ ] https://github.com/S4R1N/Tritium
+- [ ] https://github.com/S4R1N/Hitman
+- [ ] https://github.com/schollz/croc
+- [ ] https://github.com/bitepeng/b0pass
+- [ ] https://github.com/BishopFox/sliver
+- [ ] https://github.com/maxlandon/wiregost
+- [ ] https://github.com/WAY29/ptg
+- [ ] https://github.com/Wd0g/GoShell
+- [ ] https://github.com/lanrat/allxfr
+- [ ] https://github.com/jm33-m0/emp3r0r
+- [ ] https://github.com/sensepost/godoh
+- [ ] https://github.com/Tylous/SourcePoint
+- [ ] https://github.com/Ne0nd0g/merlin
+- [ ] https://github.com/Rvn0xsy/goDomain
+- [ ] https://github.com/thedevsaddam/dl
+- [ ] https://github.com/sairson/WebGuard
+- [ ] https://github.com/1derian/go-nc
+- [ ] https://github.com/Li4n0/revsuit
+- [ ] https://github.com/lkarlslund/adalanche
+- [ ] https://github.com/wjlab/Darksteel
+- [ ] https://github.com/NetSPI/goddi
+- [ ] https://github.com/lzzbb/Adinfo
+
+### 11-蜜罐钓鱼
+
+- [ ] https://github.com/Goqi/Ziya
+- [ ] https://github.com/code-scan/LoginFish
+- [ ] https://github.com/gophish/gophish | 开源网络钓鱼工具包 | 5.7k
+- [ ] https://github.com/honeytrap/honeytrap | 高级的钓鱼框架 | 952
+- [ ] https://github.com/netricsag/bluephish
+- [ ] https://github.com/dsnezhkov/deepsea
+- [ ] https://github.com/dutchcoders/ares
+- [ ] https://github.com/cybercdh/kitphishr
+- [ ] https://github.com/phishdetect/phishdetect
+- [ ] https://github.com/wunderwuzzi23/KoiPhish
+- [ ] https://github.com/olihough86/stinkyphish
+- [ ] https://github.com/codeksion/PhishDroid
+- [ ] https://github.com/DarkAnHell/FastPhish
+- [ ] https://github.com/LarryLuTW/go-phishing
+- [ ] https://github.com/0x4445565A/sushiphish
+- [ ] https://github.com/bradleyjkemp/abwhose
+- [ ] https://github.com/e-XpertSolutions/punycode-attack
+- [ ] https://github.com/lateralusd/lateralus
+- [ ] https://github.com/andpalmier/phishflood
+- [ ] https://github.com/bradleyjkemp/submit-safebrowsing
+- [ ] https://github.com/ayoul3/phishkiller
+- [ ] https://github.com/deadvcr/GoPhish
+- [ ] https://github.com/stric-co/phishbeat
+- [ ] https://github.com/moorada/neferpitool
+- [ ] https://github.com/Nhoya/PhishingAlert
+- [ ] https://github.com/Krlier/Go-Phish
+- [ ] https://github.com/yasuflatland-lf/abuse-detector
+- [ ] https://github.com/ZedCode/autofill-pwn
+- [ ] https://github.com/lucasrosa/dds
+- [ ] https://github.com/sridharavinash/feugo
+- [ ] https://github.com/thc2cat/go-policyd
+- [ ] https://github.com/DanielPels/PhishingEye
+- [ ] https://github.com/jubairsaidi/urlinsane
+- [ ] https://github.com/cyberconsultant3199/Phishing-Modlishka
+- [ ] https://github.com/as535364/go-phishing
+- [ ] https://github.com/jusso-dev/go-phish
+- [ ] https://github.com/mgleon08/go-phishing
+- [ ] https://github.com/flowchartsman/kraken
+- [ ] https://github.com/nu11secur1ty/evilginx-phishing-attack2
+- [ ] https://github.com/ajm113/brutaLog
+- [ ] https://github.com/kgretzky/evilginx2
+- [ ] https://github.com/yunginnanet/HellPot
+- [ ] https://github.com/dutchcoders/troje
+- [ ] https://github.com/xiecat/goblin
+- [ ] https://github.com/MountCloud/FireBee
+- [ ] https://github.com/SkewwG/henggeFish
+- [ ] https://github.com/Rvn0xsy/Pricking
+- [ ] https://github.com/alpkeskin/mosint
+- [ ] https://github.com/burpheart/tcppc-go-fuzz
+- [ ] 蜜罐项目
+- [ ] https://github.com/hacklcx/HFish
+- [ ] https://github.com/seccome/Ehoney
+- [ ] https://github.com/decoymini/DecoyMini
+- [ ] https://github.com/r3aker/DeceptionDefense
+- [ ] https://github.com/IceMoon1995/ice
+- [ ] https://github.com/aau-network-security/riotpot
+- [ ] 邮件发送
+- [ ] 钓鱼模板
+- [ ] https://github.com/xHak9x/SocialPhish
+
+### 12-代码审计
+
+- [x] https://github.com/topics/static-analysis?l=go
+- [x] https://github.com/topics/static-code-analysis?l=go
+- [ ] https://github.com/Goqi/RiYue
+- [ ] https://github.com/0c34/govwa
+- [ ] https://github.com/tfsec/tfsec
+- [ ] https://github.com/ynqa/diffy
+- [ ] https://github.com/sergi/go-diff
+- [ ] https://github.com/securego/gosec
+- [ ] https://github.com/xfhg/intercept | 代码静态分析审计/SAST | 56
+- [ ] https://github.com/William-Yeh/fswatch
+- [ ] https://github.com/americanexpress/earlybird
+- [ ] https://github.com/Hardw01f/Vulnerability-goapp | Go 开发的易受攻击的 Web 应用程序 | 116
+- [ ] https://github.com/hhatto/gocloc
+- [ ] https://github.com/dengsgo/fileboy | 文件变更监听通知工具 | 361
+- [ ] https://github.com/quay/clair
+- [ ] https://github.com/super-l/codelines
+- [ ] https://github.com/MorouU/robin-go
+- [ ] https://github.com/pen4uin/golang-security
+- [ ] https://github.com/tenable/terrascan
+- [ ] https://github.com/insidersec/insider
+- [ ] https://github.com/ZupIT/horusec
+- [ ] https://github.com/wahyuhadi/rinjani
+- [ ] https://github.com/qax-os/goreporter
+- [ ] https://github.com/praetorian-inc/gokart
+- [ ] https://github.com/Contrast-Security-OSS/go-test-bench
+- [ ] https://github.com/google/osv-scanner
+- [ ] https://github.com/ossf/scorecard
+- [ ] https://github.com/ZhuriLab/Yi
+
+### 13-编码规范
+
+- [ ] [《腾讯-Go 安全指南》](https://github.com/Tencent/secguide/blob/main/Go%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md)@腾讯
+- [ ] [《奇安信-Go 安全编码规范》]()
+- [ ] [《Go 语言安全编码规范》](https://bloodzer0.github.io/ossa/application-security/sdl/go-scp/)
+
+### 14-应急响应
+
+- [ ] https://github.com/dreadl0ck/netcap | 安全和可扩展的网络流量分析框架 | 1.4k
+- [ ] https://github.com/gpaddis/logscan
+- [ ] https://github.com/Lengso/iplookup
+- [ ] https://github.com/c1982/shellboy
+- [ ] https://github.com/i11us0ry/winlog | Windows 信息收集 | 184
+
+### 15-移动安全
+
+Android
+
+- [x] https://github.com/APKTeam/AndroidSecurity
+- [ ] https://github.com/ndelphit/apkurlgrep
+- [ ] https://github.com/RedMapleTech/machodump
+- [ ] https://github.com/H21lab/gnbsim
+- [ ] https://github.com/shogo82148/androidbinary
+- [ ] https://github.com/aktsk/apk-medit
+- [ ] https://github.com/nicecp/GoIyov
+- [ ] https://github.com/tailscale/tailscale-android
+- [ ] https://github.com/sjatsh/unwxapkg
+- [ ] https://github.com/SeeFlowerX/estrace
+
+iOS
+
+- [ ] https://github.com/iOSSecurity/iOSSecurity
+- [ ] https://github.com/hcninja/ipanema
+- [ ] https://github.com/gofmt/iOSSniffer
+- [ ] https://github.com/blacktop/ipsw
+- [ ] https://github.com/aktsk/ipa-medit
+- [ ] https://github.com/Vxer-Lee/goiPhonessh
+- [ ] https://github.com/steeve/itool
+- [ ] https://github.com/togettoyou/super-signature
+- [ ] https://github.com/mwpcheung/gsalogin
+- [ ] https://github.com/fengjixuchui/iOSTracer
+
+### 16-漏洞赏金
+
+- [ ] https://github.com/sw33tLie/bbscope
+- [ ] https://github.com/jonhadfield/subtocheck | 子域接管检查器 | 0
+- [ ] https://github.com/Asjidkalam/SubRecon | 子域名接管扫描 |7
+- [ ] https://github.com/51gn3d/stko | 子域接管发现工具 | 2
+- [ ] https://github.com/LukaSikic/subzy | 子域接管漏洞检查程序 | 229
+- [ ] https://github.com/Ice3man543/SubOver | 强大的子域接管工具 | 538
+- [ ] https://github.com/haccer/subjack | Go 编写的子域接管工具 | 1.1k
+- [ ] https://github.com/edoardottt/lit-bb-hack-tools | 漏洞赏金和黑客工具 | 50
+- [ ] https://github.com/damit5/gitdorks_go
+- [ ] https://github.com/sairson/crawlergo-plus | 爬虫的暴力美学 | 25
+
+### 17-其他项目
+
+- [ ] https://github.com/gcla/termshark
+- [ ] https://github.com/bettercap/bettercap
+- [ ] https://github.com/dreadl0ck/netcap
+- [ ] https://github.com/levidurfee/gowafp
+- [ ] https://github.com/jeromer/mumbojumbo
+- [ ] https://github.com/m-mizutani/lurker
+- [ ] https://github.com/amanvir/enumerator
+- [ ] https://github.com/izanbf1803/Go-Steganography
+- [ ] https://github.com/ndelphit/apkurlgrep
+- [ ] https://github.com/stevenaldinger/decker
+- [ ] https://github.com/tucnak/telebot
+- [ ] https://github.com/n0ncetonic/nmapxml
+- [ ] https://github.com/omaidf/FaizEye
+- [ ] https://github.com/jpillora/renamer
+- [ ] https://github.com/jpillora/go-tcp-proxy
+- [ ] https://github.com/juju/utils
+- [ ] https://github.com/Emoe/kxss
+- [ ] https://github.com/C-Sto/dnsfwd
+- [ ] https://github.com/evilsocket/xray
+- [ ] https://github.com/dreadl0ck/netcap
+- [ ] https://github.com/chenziyi920/file-scanMD5
+- [ ] https://github.com/vulsio/go-exploitdb
+- [ ] https://github.com/vulsio/msfdb-list-updater
+- [ ] https://github.com/aquasecurity/vuln-list-update
+- [ ] https://github.com/vyrus001/go-mimikatz
+- [ ] https://github.com/jas502n/xray-crack
+- [ ] https://github.com/codingo/bbr
+- [ ] https://github.com/netxfly/sec_check
+- [ ] https://github.com/peterhellberg/xip.name
+- [ ] https://github.com/playGitboy/bruteHASH
+- [ ] https://github.com/iiiusky/WappalyzerParse
+- [ ] https://github.com/chaitin/cloudwalker
+- [ ] https://github.com/asalih/guardian
+- [ ] https://github.com/jptosso/coraza-waf
+- [ ] https://github.com/rinetd/ssh
+- [ ] https://github.com/dghubble/go-twitter
+- [ ] https://github.com/shazow/ssh-chat
+- [ ] https://github.com/IAmStoxe/urlgrab
+- [ ] https://github.com/m4ll0k/Aron
+- [ ] https://github.com/google/syzkaller
+- [ ] https://github.com/allyomalley/dnsobserver
+- [ ] https://github.com/chriskaliX/drdos-framework
+- [ ] https://github.com/OlivierLaflamme/Offensive-Go-Scripts
+- [ ] https://github.com/michenriksen/gitrob
+- [ ] https://github.com/maliceio/malice
+- [ ] https://github.com/ropnop/kerbrute
+- [ ] https://github.com/ysrc/yulong-hids
+- [ ] https://github.com/Threagile/threagile
+- [ ] https://github.com/amit-davidson/Chronos
+- [ ] https://github.com/kitabisa/teler
+- [ ] https://github.com/anchore/grype
+- [ ] https://github.com/skydive-project/skydive
+- [ ] https://github.com/AmyangXYZ/DNSSniffer
+- [ ] https://github.com/KnicKnic/go-powershell
+- [ ] https://github.com/tstillz/webshell-analyzer
+- [ ] https://github.com/tstillz/webshell-scan
+- [ ] https://github.com/samgha/vipas
+- [ ] https://github.com/kavishgr/tempomail
+- [ ] https://github.com/Threagile/threagile
+- [ ] https://github.com/ga0/netgraph
+- [ ] https://github.com/wallarm/gotestwaf
+- [ ] https://github.com/baidu-security/webshell-scanner-client
+- [ ] https://github.com/ShiftLeftSecurity/shiftleft-go-demo
+- [ ] https://github.com/dwisiswant0/unew
+- [ ] https://github.com/moonD4rk/HackBrowserData
+- [ ] https://github.com/cckuailong/HackChrome
+- [ ] https://github.com/signalsciences/waf-testing-framework
+- [ ] https://github.com/raviqqe/muffet | Go 中的快速网站链接检查器 | 1.7k
+- [ ] https://github.com/C4o/Juggler
+- [ ] https://github.com/utkusen/urlhunter
+- [ ] https://github.com/fesiong/cobweb
+- [ ] https://github.com/gorgonia/gorgonia
+- [ ] https://github.com/Shivangx01b/CorsMe
+- [ ] https://github.com/kerbyj/ctfengine
+- [ ] https://github.com/virink/VulWarning
+- [ ] https://github.com/tomsteele/pen-utils
+- [ ] https://github.com/esrrhs/fastreplace
+- [ ] https://github.com/anasbousselham/fortiscan
+- [ ] https://github.com/creekorful/trandoshan
+- [ ] https://github.com/lc/subjs
+- [ ] https://github.com/inguardians/peirates
+- [ ] https://github.com/magisterquis/sshhipot
+- [ ] https://github.com/guitmz/ezuri
+- [ ] https://github.com/projectdiscovery/mapcidr
+- [ ] https://github.com/microsoft/ethr
+- [ ] https://github.com/nicolasdilley/Gomela
+- [ ] https://github.com/edoardottt/pwdsafety
+- [ ] https://github.com/mBouamama/MyJWT
+- [ ] https://github.com/cdk-team/CDK
+- [ ] https://github.com/hahwul/MemBi
+- [ ] https://github.com/zmap/zdns
+- [ ] https://github.com/zmap/zlint
+- [ ] https://github.com/zmap/zannotate
+- [ ] https://github.com/hexops/autogold
+- [ ] https://github.com/juju/ratelimit
+- [ ] https://github.com/juicedata/juicesync
+- [ ] https://github.com/allegro/bigcache
+- [ ] https://github.com/hahwul/MobileHackersWeapons
+- [ ] https://github.com/N0MoreSecr3ts/wraith
+- [ ] https://github.com/jhchabran/gistfs
+- [ ] https://github.com/panther-labs/panther
+- [ ] https://github.com/maxlandon/wiregost
+- [ ] https://github.com/fabpot/local-php-security-checker
+- [ ] https://github.com/pkg/browser
+- [ ] https://github.com/XTLS/Xray-core
+- [ ] https://github.com/ArmyCyberInstitute/cmgr
+- [ ] https://github.com/drsigned/substko
+- [ ] https://github.com/drsigned/bypass403
+- [ ] https://github.com/drsigned/corsmisc
+- [ ] https://github.com/drsigned/sigdork
+- [ ] https://github.com/drsigned/lazyhunter
+- [ ] https://github.com/sundowndev/PhoneInfoga
+- [ ] https://github.com/mdempsky/deferfuzz
+- [ ] https://github.com/MiSecurity/x-patrol
+- [ ] https://github.com/unstppbl/gowap
+- [ ] https://github.com/ryandamour/crlfmap
+- [ ] https://github.com/ethicalhackingplayground/Zin
+- [ ] https://github.com/zricethezav/gitleaks
+- [ ] https://github.com/guanguans/id-validator
+- [ ] https://github.com/tiagorlampert/CHAOS
+- [ ] https://github.com/offftherecord/wmsg
+- [ ] https://github.com/owenrumney/squealer
+- [ ] https://github.com/iann0036/iamlive
+- [ ] https://github.com/xwb1989/sqlparser
+- [ ] https://github.com/abserari/ip-arp
+- [ ] https://github.com/dwisiswant0/nodep
+- [ ] https://github.com/gustavorobertux/goshock
+- [ ] https://github.com/chriskaliX/drdos-framework
+- [ ] https://github.com/evilsocket/shieldwall
+- [ ] https://github.com/liamg/traitor | 自动 Linux 提权操作 | 3.2k
+- [ ] https://github.com/brompwnie/botb
+- [ ] https://github.com/dwisiswant0/galer
+- [ ] https://github.com/Jrohy/trojan
+- [ ] https://github.com/yuin/gopher-lua
+- [ ] https://github.com/TRYblog/go-Tubi
+- [ ] https://github.com/EmYiQing/go-wafw00f
+- [ ] https://github.com/canc3s/cSubsidiary
+- [ ] https://github.com/sensepost/ruler
+- [ ] https://github.com/mlcsec/headi
+- [ ] https://github.com/neex/http2smugl
+- [ ] https://github.com/x3419/TorgoBot
+- [ ] https://github.com/mozilla/sops
+- [ ] https://github.com/optiv/Talon
+- [ ] https://github.com/flier/gohs
+- [ ] https://github.com/kgoins/ldsview
+- [ ] https://github.com/google/kctf
+- [ ] https://github.com/tomnomnom/gf
+- [ ] https://github.com/nodauf/Go-RouterSocks
+- [ ] https://github.com/deepfence/SecretScanner
+- [ ] https://github.com/rancher/security-scan
+- [ ] https://github.com/dwisiswant0/go-dork
+- [ ] https://github.com/SpectralOps/netz
+- [ ] https://github.com/redcode-labs/UnChain
+- [ ] https://github.com/redcode-labs/Sammler
+- [ ] https://github.com/msoap/shell2http
+- [ ] https://github.com/fireeye/goauditparser
+- [ ] https://github.com/jweny/check_jsonp_based_on_ast
+- [ ] https://github.com/bluesentinelsec/OffensiveGoLang
+- [ ] https://github.com/Tylous/Limelighter | 用于生成假代码签名证书或签署真实证书的工具 | 531
+- [ ] https://github.com/0xrawsec/whids | Windows 下的开源 EDR | 233
+- [ ] https://github.com/rajveermalviya/go-wayland
+- [ ] https://github.com/devanshbatham/Gorecon
+- [ ] https://github.com/njcx/RuleCat
+- [ ] https://github.com/EdgeSecurityTeam/Eeyes
+- [ ] https://github.com/aquasecurity/starboard
+- [ ] https://github.com/Alaa-abdulridha/SerpScan
+- [ ] https://github.com/nccgroup/ConMachi
+- [ ] https://github.com/Shopify/toxiproxy
+- [ ] https://github.com/BishopFox/smogcloud
+- [ ] https://github.com/redcode-labs/UnChain
+- [ ] https://github.com/redcode-labs/Sammler
+- [ ] https://github.com/Sakurasan/scf-proxy
+- [ ] https://github.com/kgoins/ldsview
+- [ ] https://github.com/Sndav/MultiHoneypot
+- [ ] https://github.com/crow821/mayfly
+- [ ] https://github.com/tidwall/wal
+- [ ] https://github.com/Becivells/iconhash
+- [ ] https://github.com/v-byte-cpu/sx
+- [ ] https://github.com/Beatrice950201/araneid
+- [ ] https://github.com/rabbitstack/fibratus
+- [ ] https://github.com/ConsT27/GiveMeMail
+- [ ] https://github.com/Tabll/gemnasium-db
+- [ ] https://github.com/sasdf/nyan
+- [ ] https://github.com/NithinChintala/amalloc
+- [ ] https://github.com/kha7iq/pingme
+- [ ] https://github.com/kgoins/ldsview
+- [ ] https://github.com/sebastianwebber/cmdr
+- [ ] https://github.com/davrodpin/mole
+- [ ] https://github.com/neex/http2smugl
+- [ ] https://github.com/jmmcatee/cracklord
+- [ ] https://github.com/ilyaglow/dor
+- [ ] https://github.com/hahwul/ws-smuggler
+- [ ] https://github.com/sw33tLie/sns
+- [ ] https://github.com/AkihiroSuda/sshocker
+- [ ] https://github.com/ropnop/kerbrute
+- [ ] https://github.com/koderover/Zadig
+- [ ] https://github.com/Sakurasan/basecode
+- [ ] https://github.com/eldadru/ksniff
+- [ ] https://github.com/Rvn0xsy/gxor
+- [ ] https://github.com/facebookincubator/nvdtools
+- [ ] https://github.com/tismayil/fockcache
+- [ ] https://github.com/bytedance/Elkeid
+- [ ] https://github.com/hashicorp/vault
+- [ ] https://github.com/ryandamour/crlfmap
+- [ ] https://github.com/KathanP19/Gxss
+- [ ] https://github.com/yddeng/seckill
+- [ ] https://github.com/SixGenInc/Noctilucent
+- [ ] https://github.com/alphasoc/flightsim
+- [ ] https://github.com/JohnHammond/katana
+- [ ] https://github.com/DominicBreuker/pspy
+- [ ] https://github.com/ren-zxcyq/nier
+- [ ] https://github.com/rabbitmask/MacOui
+- [ ] https://github.com/sorenisanerd/gotty
+- [ ] https://github.com/taielab/awesome-hacking-lists#go-642
+- [ ] https://github.com/microsoft/waflab
+- [ ] https://github.com/Cookie04DE/Sekura
+- [ ] https://github.com/evi1ox/WinRMShell
+- [ ] https://github.com/redcode-labs/Solaris
+- [ ] https://github.com/For-ACGN/fast-scanner
+- [ ] https://github.com/SPuerBRead/mqtts
+- [ ] https://github.com/six2dez/reconftw
+- [ ] https://github.com/CobaltZirs0n/goSQL
+- [ ] https://github.com/kayon/iploc
+- [ ] https://github.com/gl4ssesbo1/Nebula
+- [ ] https://github.com/vulsio/go-exploitdb
+- [ ] https://github.com/sonatype-nexus-community/nancy
+- [ ] https://github.com/CTF-MissFeng/report | 乙方渗透测试漏洞报告管理系统 | 104
+- [ ] https://github.com/Static-Flow/BurpSuiteTeamServer
+- [ ] https://github.com/Nikait/GoRAT
+- [ ] https://github.com/Ullaakut/camerattack
+- [ ] https://github.com/Ullaakut/Gorsair | 攻击暴露了 API 的 Docker | 698
+- [ ] https://github.com/sw33tLie/fleex
+- [ ] https://github.com/nim4/DBShield
+- [ ] https://github.com/slackhq/go-audit
+- [ ] https://github.com/cretz/bine
+- [ ] https://github.com/grines/scour
+- [ ] https://github.com/msfidelis/kafka-stress
+- [ ] https://github.com/s-rah/onionscan
+- [ ] https://github.com/projectdiscovery/cloudlist
+- [ ] https://github.com/seventh-letter/DictGenerate
+- [ ] https://github.com/Contrast-Security-OSS/go-test-bench
+- [ ] https://github.com/optiv/Go365
+- [ ] https://github.com/dpu/coremail-address-book
+- [ ] https://github.com/Piosec/Golconda
+- [ ] https://github.com/dean2021/goss
+- [ ] https://github.com/canc3s/OXID
+- [ ] https://github.com/go-tk/di
+- [ ] https://github.com/leoloobeek/keyring
+- [ ] https://github.com/nscuro/trivy
+- [ ] https://github.com/sw33tLie/sns
+- [ ] https://github.com/njcx/gonlconnector
+- [ ] https://github.com/j3ssie/goverview
+- [ ] https://github.com/robinson/gos7
+- [ ] https://github.com/TeaOSLab/EdgeAdmin
+- [ ] https://github.com/0xbug/biu-cli
+- [ ] https://github.com/blacktop/x86-cgo
+- [ ] https://github.com/canc3s/gnc
+- [ ] https://github.com/veo/Hattrick
+- [ ] https://github.com/deref/exo
+- [ ] https://github.com/goccmack/gocc
+- [ ] https://github.com/m-mizutani/octovy
+- [ ] https://github.com/shawn1m/overture
+- [ ] https://github.com/P1kAju/chainsaw
+- [ ] https://github.com/ctrsploit/ctrsploit
+- [ ] https://github.com/reviewdog/reviewdog
+- [ ] https://github.com/i5nipe/nipejs
+- [ ] https://github.com/CMatri/Gotato
+- [ ] https://github.com/awnumar/memguard
+- [ ] https://github.com/capnspacehook/pandorasbox
+- [ ] https://github.com/njcx/gomoon
+- [ ] https://github.com/timwhitez/doge-getsys
+- [ ] https://github.com/EmYiQing/SuperFastjsonScan
+- [ ] https://github.com/atredispartners/flamingo
+- [ ] https://github.com/0xTeles/jsleak
+- [ ] https://github.com/karrick/godirwalk
+- [ ] https://github.com/pureqh/ConfigFind
+- [ ] https://github.com/signedsecurity/sigurlfind3r
+- [ ] https://github.com/hupe1980/gopwn
+- [ ] https://github.com/Un4gi/fave
+- [ ] https://github.com/elysium-suite/aeacus
+- [ ] https://github.com/ariary/QueenSono
+- [ ] https://github.com/cckuailong/hostscan
+- [ ] https://github.com/C-Sto/BananaPhone
+- [ ] https://github.com/kgoins/backscanner
+- [ ] https://github.com/quarkslab/kdigger
+- [ ] https://github.com/scmn-dev/secman
+- [ ] https://github.com/adhocore/goic
+- [ ] https://github.com/praetorian-inc/snowcat
+- [ ] https://github.com/activecm/rita
+- [ ] https://github.com/aquasecurity/tfsec
+- [ ] https://github.com/Foxboron/sbctl
+- [ ] https://github.com/wireghoul/htshells
+- [ ] https://github.com/nearform/gammaray
+- [ ] https://github.com/containernetworking/cni
+- [ ] https://github.com/ahhh/GoRedLoot
+- [ ] https://github.com/cckuailong/Hyuga
+- [ ] https://github.com/thanm/dwarf-check
+- [ ] https://github.com/virusdefender/cert-copier
+- [ ] https://github.com/Rvn0xsy/zipcreater
+- [ ] https://github.com/bin3xish477/htf
+- [ ] https://github.com/ShangRui-hash/siusiu
+- [ ] https://github.com/informalsystems/gosec
+- [ ] https://github.com/chenjiandongx/sniffer
+- [ ] https://github.com/huichen/kunlun
+- [ ] https://github.com/Qv2ray/mmp-go
+- [ ] https://github.com/nodauf/GoMapEnum
+- [ ] https://github.com/CTF-go/CTFgo
+- [ ] https://github.com/vidar-team/Cardinal
+- [ ] https://github.com/thoughtworks/talisman
+- [ ] https://github.com/IceWhaleTech/CasaOS
+- [ ] https://github.com/FDlucifer/Proxy-Attackchain
+- [ ] https://github.com/sairson/hacktools
+- [ ] https://github.com/Ed1s0nZ/banana_blackmail
+- [ ] https://github.com/penghaojie/port
+- [ ] https://github.com/awesee/php2go
+- [ ] https://github.com/Its-Vichy/GoriaNet
+- [ ] https://github.com/kljensen/snowball
+- [ ] https://github.com/LeakIX/l9explore
+- [ ] https://github.com/LeakIX/l9plugins
+- [ ] https://github.com/shangzeng/GolangTools
+- [ ] https://github.com/phith0n/zkar
+- [ ] https://github.com/XmirrorSecurity/OpenSCA-cli
+- [ ] https://github.com/iasthc/hsuan-fuzz
+- [ ] https://github.com/thepudds/fzgen
+- [ ] https://github.com/Buzz2d0/nicu
+- [ ] https://github.com/gruntwork-io/cloud-nuke
+- [ ] https://github.com/argoproj/argo-events
+- [ ] https://github.com/rhysd/gocaml
+- [ ] https://github.com/u35s/ag
+- [ ] https://github.com/jkstack/natpass
+- [ ] https://github.com/Khan/genqlient
+- [ ] https://github.com/ariary/volana
+- [ ] https://github.com/b1gcat/DarkEye
+- [ ] https://github.com/dylandreimerink/edb
+- [ ] https://github.com/KpLi0rn/Gosqlmap-Beta
+- [ ] https://github.com/rabbitmask/Warden
+- [ ] https://github.com/ahmedkhlief/APT-Hunter
+- [ ] https://github.com/murphysec/murphysec
+- [ ] https://github.com/Arbor01/AnScan
+- [ ] https://github.com/WAY29/FileNotifier
+- [ ] https://github.com/devploit/dontgo403
+- [ ] https://github.com/corazawaf/coraza
+- [ ] https://github.com/chaitin/veinmind-tools
+- [ ] https://github.com/yujitounai/vulngo
+- [ ] https://github.com/ehids/ecapture
+- [ ] https://github.com/neuvector/neuvector | 云原生安全
+- [ ] https://github.com/ovotech/gitoops
+- [ ] https://github.com/zhizhuoshuma/cve_info_data
+- [ ] https://github.com/leveryd/go-sec-code
+- [ ] https://github.com/capnspacehook/taskmaster
+- [ ] https://github.com/89z/googleplay
+- [ ] https://github.com/bonjourmalware/melody
+- [ ] https://github.com/AkaAny/proc_injector
+- [ ] https://github.com/SecurityBrewery/catalyst
+- [ ] https://github.com/lcvvvv/echoes
+- [ ] https://github.com/DataDog/threatest
+- [ ] https://github.com/primait/nuvola
+- [ ] https://github.com/pipeline/proximity-core
+- [ ] https://github.com/doyensec/safeurl
+- [ ] https://github.com/selefra/selefra
+- [ ] https://github.com/projectdiscovery/notify
+- [ ] https://github.com/1derian/go-webshell
+- [ ] https://github.com/nu1r/GlangYsoserial.java | 一个生成 JAVA 反序列化流的 GO 库 | 2
+- [ ] https://github.com/f0ng/selistener
+
+## 06-Golang 逆向
+
+### 01-代码混淆
+
+- [ ] https://github.com/halfrost
+- [ ] https://github.com/boy-hack/go-strip
+- [ ] https://github.com/burrowers/garble
+- [ ] https://github.com/flew-software/filecrypt
+- [ ] https://github.com/unixpickle/gobfuscate
+- [ ] https://github.com/v0id-re/go-smash
+- [ ] https://abelsu7.top/2019/10/24/go-build-compress-using-upx
+
+### 02-授权许可
+
+- [ ] https://github.com/topics/license-management?l=go
+- [ ] https://github.com/xinjiayu/LicenseManager | 为 golang 的应用添加简单的 license 限制 | 6
+- [ ] https://github.com/furkansenharputlu/f-license
+- [ ] https://github.com/nishanths/license
+- [ ] https://github.com/tcnksm/license
+- [ ] https://github.com/src-d/go-license-detector
+- [ ] https://github.com/werbot/lime
+- [ ] https://github.com/k33nice/licenser
+- [ ] https://github.com/src-d/go-license-detector
+- [ ] https://github.com/go-enry/go-license-detector
+- [ ] https://github.com/google/licenseclassifier
+- [ ] https://github.com/frapposelli/wwhrd
+- [ ] https://github.com/boyter/lc
+- [ ] https://github.com/SaturnsVoid/SimpleLicensing
+- [ ] https://github.com/c4milo/licentia
+- [ ] https://github.com/Comcast/weasel
+- [ ] https://github.com/uw-labs/lichen
+- [ ] https://github.com/xakep666/licensevalidator
+- [ ] https://github.com/elastic/go-licence-detector
+- [ ] https://github.com/jcmturner/golick
+- [ ] https://github.com/eacp/gitgen
+- [ ] https://github.com/lispysnake/lispylicense
+- [ ] https://github.com/leaanthony/comply
+- [ ] https://github.com/prksu/license2l
+
+### 03-逆向工程
+
+- [ ] [Golang 汇编入门知识总结](https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA)
+- [ ] https://github.com/felberj/gotools
+- [ ] https://github.com/goretk/redress
+- [ ] https://github.com/liamg/extrude
+- [ ] https://www.4hou.com/posts/8OJ2
+- [ ] https://bbs.pediy.com/thread-263921.htm
+- [ ] https://mp.weixin.qq.com/s/22HqoBW-eVSf1Fzw7fxoFw
+- [ ] https://cujo.com/reverse-engineering-go-binaries-with-ghidra
+- [ ] https://www.anquanke.com/post/id/214940
+- [ ] https://bbs.pediy.com/thread-268042.htm
+- [ ] https://github.com/zznop/sploit
+- [ ] https://github.com/goretk/gore
+- [ ] https://github.com/0xjiayu/go_parser
+- [ ] https://github.com/lunixbochs/usercorn
+- [ ] https://github.com/e-m-b-a/emba
+- [ ] https://github.com/loov/lensm
+- [ ] https://github.com/myrtus0x0/SMAT
+- [ ] https://github.com/CarveSystems/gostringsr2
+- [ ] https://github.com/selfImprHuang/ReverseEngine
+- [ ] https://www.anquanke.com/member/122079
+- [ ] https://blog.lgf.im/2020/golang-reverse-thinking.html
+- [ ] https://github.com/rootkiter/GoReverseStudy
+
+### 04-恶意软件
+
+- [ ] https://github.com/wille/cry
+- [ ] https://github.com/petercunha/GoAT
+- [ ] https://github.com/redcode-labs/Coldfire
+- [ ] https://github.com/SaturnsVoid/GoBot2
+- [ ] https://github.com/hazcod/ransomwhere
+- [ ] https://github.com/NextronSystems/ransomware-simulator
+- [ ] https://paper.seebug.org/1357
+
+### 05-其他项目
+
+- [ ] https://github.com/akavel/rsrc
+- [ ] https://github.com/minio/c2goasm
+- [ ] https://github.com/system-pclub/GCatch
+- [ ] https://github.com/redcode-labs/Neurax
+- [ ] https://github.com/zhangyoufu/lumina
+- [ ] https://github.com/boy-hack/go-strip
+- [ ] https://github.com/jondot/goweight
+- [ ] https://github.com/nirhaas/gopacker
+- [ ] https://github.com/maruel/panicparse
+
+## 07-Golang 老师
+
+此处排名不分先后，向自己在学习 Go 语言过程中遇到的每一位优秀老师致敬。感谢感谢！
+
+一、Go 老师大神
+
+- 柴树杉-《Go 语言高级编程》作者，[@chai2010](https://github.com/chai2010)
+- 无闻-知名 Go 语言分享者，[@Unknwon](https://github.com/Unknwon)、[博客](https://unknwon.cn/)
+- 徐新华-studygolang 站长，[@polarisxu](https://github.com/polaris1119)
+- 杨文-Go 夜读发起人，[@yangwenmai](https://github.com/yangwenmai)
+- 陈剑煜《Go 语言编程之旅》作者，[@eddycjy](https://github.com/eddycjy)
+- 雨痕《Go 学习笔记》作者，[@Q.yuhen](https://github.com/qyuhen)
+- 谢孟军-beego 作者，[@astaxie](https://github.com/astaxie)
+- 老貘《Go 语言 101》作者，[@老貘](https://gfw.tapirgames.com)
+- 韩茹-千锋教育金牌讲师，[@rubyhan](https://github.com/rubyhan1314)
+- 李文周-Go 语言优秀讲师，[@Q1mi](https://www.liwenzhou.com/)
+- 白明-Go 语言第一课 FAQ，[@tonybai](https://tonybai.com)
+
+二、Go 语言参考
+
+- https://github.com/netxfly
+- https://github.com/foolin
+- https://github.com/schollz
+- https://github.com/Binject
+- https://github.com/gobuffalo
+- https://github.com/drsigned
+- https://github.com/projectdiscovery
+- https://github.com/aquasecurity
+- https://github.com/tomnomnom
+- https://github.com/evilsocket
+- https://github.com/hashicorp
+- https://github.com/kitabisa
+- https://github.com/optiv
+
+[![Stargazers over time](https://starchart.cc//LearnGolang/LearnGolang.svg)](https://starchart.cc/LearnGolang/LearnGolang)
