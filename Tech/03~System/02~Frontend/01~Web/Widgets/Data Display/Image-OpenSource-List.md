@@ -32,10 +32,6 @@
 
 - [2017~react-imgpro ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/nitin42/react-imgpro): Image Processing Component for React.
 
-# Carousel
-
-- [2022~Embla Carousel ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/davidjerleke/embla-carousel)](https://github.com/davidjerleke/embla-carousel): Embla Carousel is a bare bones carousel library with great fluid motion and awesome swipe precision. It's library agnostic, dependency free and 100% open source. Build awesome carousels by extending Embla Carousel with your own CSS and JavaScript.
-
 # Color
 
 - [2021~fast-average-color ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fast-average-color/fast-average-color)](https://github.com/fast-average-color/fast-average-color): A simple library that calculates average or dominant color of any images or videos in browser environment.

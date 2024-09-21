@@ -36,6 +36,8 @@
 
 - [2023~kamiyaa/joshuto ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/kamiyaa/joshuto)](https://github.com/kamiyaa/joshuto): ranger-like terminal file manager written in Rust.
 
+- [2024~achristmascarl/rainfrog ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/achristmascarl/rainfrog)](https://github.com/achristmascarl/rainfrog): the goal for rainfrog is to provide a lightweight, terminal-based alternative to pgadmin/dbeaver.
+
 ## JavaScript Engine
 
 - [boa](https://github.com/jasonwilliams/boa): Javascript engine written in Rust
