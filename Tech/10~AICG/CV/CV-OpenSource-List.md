@@ -6,6 +6,8 @@
 
 - [2020~MediaPipe ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/google/mediapipe)](https://github.com/google/mediapipe): Cross-platform, customizable ML solutions for live and streaming media.
 
+- [2024~roboflow/supervision ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/roboflow/supervision)](https://github.com/roboflow/supervision): We write your reusable computer vision tools. Whether you need to load your dataset from your hard drive, draw detections on an image or video, or count how many detections are in a zone. You can count on us! 🤝
+
 # Showcases
 
 - [2023~roboflow/notebooks ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/roboflow/notebooks)](https://github.com/roboflow/notebooks): Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.
@@ -85,24 +87,6 @@
 - [2022~MMYOLO ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/open-mmlab/mmyolo): MMYOLO is an open source toolbox for YOLO series algorithms based on PyTorch and MMDetection. It is a part of the OpenMMLab project.
 
 - [detrex ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/IDEA-Research/detrex): IDEA Open Source Toolbox for Transformer Based Object Detection Algorithms
-
-### 人脸检测
-
-- [2018~pico.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tehnokv/picojs): a face-detection library in 200 lines of JavaScript
-
-- [face-api.js ![code](https://ng-tech.icu/assets/code.svg)](): JavaScript API for Face Recognition in the Browser with tensorflow.js.
-
-- [2018~Faceswap ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/deepfakes/faceswap): Faceswap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.
-
-- [2019~faceai ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vipstone/faceai): 一款入门级的人脸、视频、文字检测以及识别的项目。
-
-- [SeetaFace ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/seetafaceengine/SeetaFace2): Open source, full stack face recognization toolkit.
-
-- [2019~超轻量级人脸检测模型 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB): 该模型设计是针对边缘计算设备或低算力设备(如用 ARM 推理)设计的实时超轻量级通用人脸检测模型，可以在低算力设备中如用 ARM 进行实时的通用场景的人脸检测推理，同样适用于移动端、PC。
-
-- [2020~Face Depixelizer ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tg-bomze/Face-Depixelizer): Face Depixelizer based on "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models" repository.
-
-- [2020~FaceX Zoo ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/JDAI-CV/FaceX-Zoo): FaceX-Zoo is a PyTorch toolbox for face recognition. It provides a training module with various supervisory heads and backbones towards state-of-the-art face recognition, as well as a standardized evaluation module which enables to evaluate the models in most of the popular benchmarks just by editing a simple configuration.
 
 ### Tracker
 
