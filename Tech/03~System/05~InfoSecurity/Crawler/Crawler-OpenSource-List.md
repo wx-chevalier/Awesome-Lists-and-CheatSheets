@@ -50,7 +50,11 @@
 
 - [2015-WebMagic ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/code4craft/webmagic)](https://github.com/code4craft/webmagic): A scalable crawler framework. It covers the whole lifecycle of crawler: downloading, url management, content extraction and persistent. It can simplify the development of a specific crawler.
 
-# Content Analysis | 内容分析
+# AI Crawler
+
+- [2024~unclecode/crawl4ai ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/unclecode/crawl4ai)](https://github.com/unclecode/crawl4ai): Crawl4AI simplifies asynchronous web crawling and data extraction, making it accessible for large language models (LLMs) and AI applications. 🆓🌐
+
+## Content Analysis | 内容分析
 
 - [Fathom ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mozilla/fathom): A framework for extracting meaning from web pages.
 
