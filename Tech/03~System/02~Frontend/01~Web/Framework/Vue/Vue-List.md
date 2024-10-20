@@ -38,7 +38,7 @@
 
 - [2018~《The Vue Handbook》![code](https://ng-tech.icu/assets/code.svg)](https://vuehandbook.com/): It targets beginners, covering the 20% that makes you accomplish the 80% of the job. It’s not a definitive guide to Vue, but it can be helpful when you are starting out.
 
-- [2021~《Vue3 入门指南与实战案例》![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/chengpeiquan/learning-vue3)](https://github.com/chengpeiquan/learning-vue3): 超过 230w+ 阅读人次的《Vue3 入门指南与实战案例》，关于前端工程化开发的基础知识点，以及 TypeScript 、 Vue 3 、 Pinia 的入门学习指南。
+- [2021~《Vue3 入门指南与实战案例》![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/chengpeiquan/learning-vue3)](https://github.com/chengpeiquan/learning-vue3): 超过 230w+ 阅读人次的《Vue3 入门指南与实战案例》，关于前端工程化开发的基础知识点，以及 TypeScript、Vue 3、Pinia 的入门学习指南。
 
 # Tutoria | 教程
 

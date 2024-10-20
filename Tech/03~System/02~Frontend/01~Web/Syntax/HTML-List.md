@@ -27,4 +27,8 @@
 
 - [2019~HTML 30 年进化史](https://mp.weixin.qq.com/s/Af52wIDTn02-c_7tnRJpnQ): 现在我们谈前端，大多数谈框架，对于前端最基础的 HTML 你了解多少呢？本文作者用近两万字为你详解 HTML 的进化史，涉及前身 SGML、到浏览器大战，HTML 模块的详解、HTML5 的进化……
 
-# HTML5
+# Resources
+
+## Books
+
+- [HTML for People #Book#](https://htmlforpeople.com/): 一本免费的 HTML 入门书籍，适合初学者阅读。

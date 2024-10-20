@@ -10,6 +10,8 @@
 
 - [2023~Obligator ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/anderspitman/obligator)](https://github.com/anderspitman/obligator): obligator is a relatively simple and opinionated OpenID Connect (OIDC) Provider (OP) server designed for self-hosters.
 
+- [2024~teamhanko/hanko ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/teamhanko/hanko)](https://github.com/teamhanko/hanko): Hanko is an open-source authentication and user management solution with a focus on moving the login beyond passwords while being 100% deployable today.
+
 ## RBAC
 
 - [Casbin ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/casbin/casbin): An authorization library that supports access control models like ACL, RBAC, ABAC in Golang.
