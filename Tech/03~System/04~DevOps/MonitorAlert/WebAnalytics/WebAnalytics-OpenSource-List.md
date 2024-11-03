@@ -26,6 +26,8 @@
 
 - [2023~Rety ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/leaverou/rety)](https://github.com/leaverou/rety): Record typing on one or more editors and replay it at will, to simulate live coding.
 
+- [2024~FrigadeHQ/trench ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/FrigadeHQ/trench)](https://github.com/FrigadeHQ/trench): Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions.
+
 # Error Track
 
 - [Sentry ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/getsentry/sentry): Sentry fundamentally is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application.

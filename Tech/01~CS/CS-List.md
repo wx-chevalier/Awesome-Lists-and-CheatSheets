@@ -13,3 +13,7 @@
 ## Courses
 
 - [1c7/Crash-Course-Computer-Science-Chinese ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/1c7/Crash-Course-Computer-Science-Chinese)](https://github.com/1c7/Crash-Course-Computer-Science-Chinese): 💻 计算机速成课 | Crash Course 字幕组 (全 40 集 2018-5-1 精校完成)。
+
+## Games
+
+- [nandgame](http://nandgame.com/): 一个交互式教育游戏，通过从最基本的 NAND 门开始，逐步构建计算机的各个组件。玩家可以通过组合逻辑门来构建更复杂的电路，最终创建一个完整的计算机系统。这个游戏让学习计算机体系结构变得有趣且直观。
