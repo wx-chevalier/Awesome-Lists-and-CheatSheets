@@ -16,6 +16,8 @@
 
 - [2023~Graphic Walker ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Kanaries/graphic-walker)](https://github.com/Kanaries/graphic-walker): Graphic Walker is a different type of open-source alternative to Tableau. It allows data scientists to analyze data and visualize patterns with simple drag-and-drop operations.
 
+- [2024~visprex/visprex ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/visprex/visprex)](https://github.com/visprex/visprex): Visualise your CSV files in seconds without sending your data anywhere.
+
 # Animation
 
 ## Math
