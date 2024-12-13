@@ -14,11 +14,11 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 ## Visually
 
-- [VisuAlgo](https://parg.co/ddd): visualising data structures and algorithms through animation
+- [VisuAlgo](https://visualgo.net/zh): visualising data structures and algorithms through animation
 
 - [Algorithm → AST → CSS](https://github.com/skidding/illustrated-algorithms): Inspired by Grokking Algorithms and python-execution-trace, this project aims to reveal the mechanics behind algorithms via interactive visualizations of their execution.
 
-- [VisuAlgo](https://visualgo.net/en): visualising data structures and algorithms through animation
+- [USFCA~Visualizing Algorithms](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html): The best way to understand complex data structures is to see them in action. We've developed interactive animations for a variety of data structures and algorithms. Our visualization tool is written in javascript using the HTML5 canvas element, and run in just about any modern browser -- including iOS devices like the iPhone and iPad, and even the web browser in the Kindle! (The frame rate is low enough in the Kindle that the visualizations aren't terribly useful, but the tree-based visualizations -- BSTs and AVL Trees -- seem to work well enough)
 
 # Resources
 
