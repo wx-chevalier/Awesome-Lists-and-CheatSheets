@@ -28,6 +28,8 @@
 
 - [2024~livekit/agents ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/livekit/agents)](https://github.com/livekit/agents): The Agents framework allows you to build AI-driven server programs that can see, hear, and speak in realtime. Your agent connects with end user devices through a LiveKit session. During that session, your agent can process text, audio, images, or video streaming from a user's device, and have an AI model generate any combination of those same modalities as output, and stream them back to the user.
 
+- [2024~TEN-framework/TEN-Agent ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/TEN-framework/TEN-Agent)](https://github.com/TEN-framework/TEN-Agent): TEN-Agent is a framework for building autonomous agents that can perform complex tasks. It is designed to be a general-purpose agent that can be applied to a wide range of tasks.
+
 # Web Interaction Agent
 
 - [2024~Tarsier ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/reworkd/tarsier)](https://github.com/reworkd/tarsier): At Reworkd, we iterated on all these problems across tens of thousands of real web tasks to build a powerful perception system for web agents... Tarsier! In the video below, we use Tarsier to provide webpage perception for a minimalistic GPT-4 LangChain web agent.
