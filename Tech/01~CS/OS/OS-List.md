@@ -40,6 +40,8 @@
 
 - [2024~jakeSteinburger/SpecOS ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jakeSteinburger/SpecOS)](https://github.com/jakeSteinburger/SpecOS): SpecOS is a 64 bit operating system kernel for x86-64 processors, still in quite early stages, written in (questionable quality) C. It is (not very) powerful.
 
+- [2024~Operating System in 1000 Lines](https://operating-system-in-1000-lines.vercel.app/en/): Operating System in 1000 Lines is a project that aims to build an operating system from scratch.
+
 ## Courses
 
 - [2019~MIT6.828 🎥](https://zhuanlan.zhihu.com/p/74028717): 起 OS 的大厦框架。从 Lab1 的手把手教学到 Lab6 的放任你自由，很好地对学生的学习进行了引导。学完这个课程后，你也就拥有了一个属于你自己的完整的内核雏形！
