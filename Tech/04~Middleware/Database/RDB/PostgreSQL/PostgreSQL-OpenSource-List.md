@@ -13,3 +13,5 @@
 # Management UI
 
 - [2024~achristmascarl/rainfrog ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/achristmascarl/rainfrog)](https://github.com/achristmascarl/rainfrog): the goal for rainfrog is to provide a lightweight, terminal-based alternative to pgadmin/dbeaver.
+
+- [2025~mathesar-foundation/mathesar ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mathesar-foundation/mathesar)](https://github.com/mathesar-foundation/mathesar): An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgres access control.
