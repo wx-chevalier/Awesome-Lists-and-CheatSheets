@@ -48,3 +48,5 @@
 ## Courses
 
 - [3Blue1Brown #Course#](https://www.3blue1brown.com/): 3blue1brown, or 3b1b for short, is primarily a YouTube channel about discovery and creativity in math. On this site, you can find written versions of many of these lessons, often with more interactive elements sprinkled in.
+
+- [2020~ossu/math ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ossu/math)](https://github.com/ossu/math): The OSSU curriculum is a complete education in mathematics using online materials. It's for those who want a proper grounding in concepts fundamental to all math disciplines, and for those who have the discipline, will, and good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
