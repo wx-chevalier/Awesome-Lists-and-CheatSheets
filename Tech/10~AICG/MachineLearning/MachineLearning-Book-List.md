@@ -1,6 +1,6 @@
 # Machine Learning | 机器学习
 
-- [2007-《Pattern Recognition And Machine Learning》📚](https://book.douban.com/subject/2061116/): The book is suitable for courses on machine learning, statistics, computer science, signal processing, computer vision, data mining, and bioinformatics.
+- [2007~《Pattern Recognition And Machine Learning》📚](https://book.douban.com/subject/2061116/): The book is suitable for courses on machine learning, statistics, computer science, signal processing, computer vision, data mining, and bioinformatics.
 
 - [2012-《Machine Learning A Probabilistic Perspective》📚](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020): This textbook offers a comprehensive and self-contained introduction to the field of machine learning, a unified, probabilistic approach. The coverage combines breadth and depth, offering necessary background material on such topics as probability, optimization, and linear algebra as well as discussion of recent developments in the field, including conditional random fields, L1 regularization, and deep learning.
 

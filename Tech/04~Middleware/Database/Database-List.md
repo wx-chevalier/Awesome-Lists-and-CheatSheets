@@ -34,7 +34,7 @@
 
 ## Books
 
-- [2007-Architecture of a Database System #Paper#](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf): This paper presents an architectural discussion of DBMS design principles, including process models, parallel architecture, storage system design, transaction system implementation, query processor and optimizer architectures, and typical shared components and utilities.
+- [2007~Architecture of a Database System #Paper#](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf): This paper presents an architectural discussion of DBMS design principles, including process models, parallel architecture, storage system design, transaction system implementation, query processor and optimizer architectures, and typical shared components and utilities.
 
 - [2010~Database System Concepts-6th》📚](http://codex.cs.yale.edu/avi/db-book/db6/slide-dir/index.html):
 
