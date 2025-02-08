@@ -7,9 +7,3 @@
 # Tutorial
 
 - [2019 年山东大学第五届“可视计算”暑期学校 3D 打印 DIY](http://irc.cs.sdu.edu.cn/~lulin/course/3DP/index2019.html): 本次 DIY 我们为同学们设计了一个自主搭建，DIY 一台三维扫描仪的题目。该 DIY 题目以制作三维扫描仪为载体，形成一个建模，打印，扫描的从数字模型到物理模型再到数字模型的闭环，涵盖三维建模，三维打印，电路搭建，编程等多个方面，是涉及多个学科的交叉型的实践项目，可以使同学们对三维建模，扫描和打印拥有一个更为全面的了解。
-
-# OpenSource
-
-- [Impossible Objects ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Matsemann/impossible-objects): Using math to make objects that look different / optical illusions.
-
-- [OpenScan ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/OpenScanEu/OpenScan): All you need to build your 3D Scanner
