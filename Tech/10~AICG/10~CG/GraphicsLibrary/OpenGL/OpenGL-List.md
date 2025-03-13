@@ -12,6 +12,10 @@
 
   - [《LearnOpenGL 中文版》📚](https://learnopengl-cn.github.io/): LearnOpenGL 的目标是使用易于理解的形式，使用清晰的例子，展现现代 OpenGL 的所有知识点，并与此同时为你以后的学习提供有用的参考。
 
+## Tutorials
+
+- [2024~VictorGordan/opengl-tutorials ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/VictorGordan/opengl-tutorials)](https://github.com/VictorGordan/opengl-tutorials): OpenGL tutorials that take you from a complete noob in Computer Graphics to an experienced programmer! :)
+
 # OpenSource
 
 - [2018~RenderDoc ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/baldurk/renderdoc)](https://github.com/baldurk/renderdoc): RenderDoc is a frame-capture based graphics debugger, currently available for Vulkan, D3D11, D3D12, OpenGL, and OpenGL ES development on Windows, Linux, Android, and Nintendo Switch™. It is completely open-source under the MIT license.

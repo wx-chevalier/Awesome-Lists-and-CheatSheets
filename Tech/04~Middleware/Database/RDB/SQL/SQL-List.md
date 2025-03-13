@@ -16,6 +16,8 @@
 
 - [2018~SQLBolt 🎥](https://sqlbolt.com/): Welcome to SQLBolt, a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
 
+- [2024~hristo2612/SQLNoir ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hristo2612/SQLNoir)](https://github.com/hristo2612/SQLNoir): SQLNoir is a tool that allows you to generate SQL queries from natural language.
+
 ## Series
 
 - [Lost at SQL: The SQL learning game #Series#](https://lost-at-sql.therobinlord.com/): A SQL learning game by Robin Lord to help you pick up basic SQL skills - so that you can use queries to get information.
