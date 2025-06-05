@@ -1,7 +1,5 @@
 # Showcases
 
-
-
 - [Boilerplate and Starter for Next JS 12+, Tailwind CSS 2.0 and TypeScript Twitter](https://github.com/ixartz/Next-js-Boilerplate): 🚀 Boilerplate and Starter for Next.js 12+, Tailwind CSS 2.0 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netlify + PostCSS + Tailwind CSS
 
 - [taxonomy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/shadcn/taxonomy): An open source application built using the new router, server components and everything new in Next.js 13.
@@ -33,3 +31,5 @@
 - [2024~fullstackweek-foods ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/felipemotarocha/fullstackweek-foods)](https://github.com/felipemotarocha/fullstackweek-foods): fullstackweek-foods
 
 - [2024~mfts/papermark ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mfts/papermark)](https://github.com/mfts/papermark): Papermark is an open-source project that allows you to create a customizable whiteboard for your team.
+
+- [2025~gitroomhq/postiz-app ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gitroomhq/postiz-app)](https://github.com/gitroomhq/postiz-app): 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖.
