@@ -11,3 +11,5 @@
 - [2024~Marker ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tk04/Marker)](https://github.com/tk04/Marker): An open-source, user-friendly UI for viewing and editing markdown files.
 
 - [lencx/ChatGPT ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lencx/ChatGPT)](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+- [2025~codexu/note-gen ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/codexu/note-gen)](https://github.com/codexu/note-gen): A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
