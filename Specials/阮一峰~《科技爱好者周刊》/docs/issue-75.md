@@ -12,7 +12,7 @@
 
 全世界都在制造电动汽车，美国一家媒体[认为](https://www.detroitnews.com/story/business/autos/2019/09/05/shift-electric-vehicles-radically-change-auto-factories/2208961001/)，汽车工人将大量失业，我觉得很有道理。
 
-传统汽车是机械装置，需要大量零件，单单是动力传动系统就多达2,000个零件。
+传统汽车是机械装置，需要大量零件，单单是动力传动系统就多达 2,000 个零件。
 
 ![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092601.jpg)
 
@@ -28,7 +28,7 @@
 
 这样一来，雇员就会非常少，那些跟机械装置相关的岗位，都会消失。
 
-顺着这个思路， **以后不管什么东西，也许都是电子装置** ，因为都会加入控制电路、联网和运算能力。比如，电饭煲、门锁、运动鞋、马桶，以前跟计算机完全没关系，现在都在变成电子装置。
+顺着这个思路，**以后不管什么东西，也许都是电子装置** ，因为都会加入控制电路、联网和运算能力。比如，电饭煲、门锁、运动鞋、马桶，以前跟计算机完全没关系，现在都在变成电子装置。
 
 ![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092603.jpg)
 
@@ -50,13 +50,13 @@ Udacity（优达学城）是美国最大的在线学习平台之一，很多人�
 
 Udacity 的课程质量，网上评价很不错，如果你刚开始学习软件开发，或者想感受一下硅谷的教学方式，趁着假期，建议可以看看这些免费课程。
 
-> - 视频课程： [《HTML and CSS 入门》](https://cn.udacity.com/course/html-and-css-syntax--ud001/?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse) -   （汉化）
-> - 视频课程：[《JavaScript 入门》](https://cn.udacity.com/course/intro-to-javascript--ud803/?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse)-   （汉化）
-> - 视频课程：[《Git 与版本管理》](https://cn.udacity.com/course/version-control-with-git--ud123/?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse)-   （汉化）
-> - 视频课程：[《Flutter 应用开发》](https://cn.udacity.com/course/build-native-mobile-apps-with-flutter--ud905/?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse)-   （未汉化）
-> - 视频课程：[《Kotlin 入门》](https://cn.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011/?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse)-   （未汉化）
-> - 视频课程：[《Shell 讲习班》](https://cn.udacity.com/course/shell-workshop--ud206/?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse) -   （汉化）
-> - 视频课程：[《教你写 README 文件》](https://cn.udacity.com/course/writing-readmes--ud777?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse)-   （汉化）
+> - 视频课程： [《HTML and CSS 入门》](https://cn.udacity.com/course/html-and-css-syntax--ud001/?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse) - （汉化）
+> - 视频课程：[《JavaScript 入门》](https://cn.udacity.com/course/intro-to-javascript--ud803/?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse)- （汉化）
+> - 视频课程：[《Git 与版本管理》](https://cn.udacity.com/course/version-control-with-git--ud123/?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse)- （汉化）
+> - 视频课程：[《Flutter 应用开发》](https://cn.udacity.com/course/build-native-mobile-apps-with-flutter--ud905/?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse)- （未汉化）
+> - 视频课程：[《Kotlin 入门》](https://cn.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011/?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse)- （未汉化）
+> - 视频课程：[《Shell 讲习班》](https://cn.udacity.com/course/shell-workshop--ud206/?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse) - （汉化）
+> - 视频课程：[《教你写 README 文件》](https://cn.udacity.com/course/writing-readmes--ud777?utm_source=wechat-kol-ruanyf&utm_medium=kol&utm_campaign=freecourse)- （汉化）
 
 ## 资讯
 
@@ -66,17 +66,17 @@ Udacity 的课程质量，网上评价很不错，如果你刚开始学习软件
 
 ![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090203.jpg)
 
-法国跑车公司布加迪制造的 Chiron 超级跑车，8月2日开出了304.77mph（490.5公里/小时）的最高速度，成为第一辆突破300mph的超级跑车。此前的最高记录是 Koenigsegg 跑车2017年创造的284.55mph。
+法国跑车公司布加迪制造的 Chiron 超级跑车，8 月 2 日开出了 304.77mph（490.5 公里/小时）的最高速度，成为第一辆突破 300mph 的超级跑车。此前的最高记录是 Koenigsegg 跑车 2017 年创造的 284.55mph。
 
-这种速度的跑车，基本上就是在地面上飞，但是必须保证不能脱离地面，因此有很高的技术难度。Chiron 最初于2016年推出，有16个汽缸，4个涡轮增压器，总功率输出为1500马力，价格超过300万美元。
+这种速度的跑车，基本上就是在地面上飞，但是必须保证不能脱离地面，因此有很高的技术难度。Chiron 最初于 2016 年推出，有 16 个汽缸，4 个涡轮增压器，总功率输出为 1500 马力，价格超过 300 万美元。
 
-2、[分解42](https://aperiodical.com/2019/09/42-is-the-answer-to-the-question-what-is-80538738812075974%C2%B3-80435758145817515%C2%B3-12602123297335631%C2%B3/)
+2、[分解 42](https://aperiodical.com/2019/09/42-is-the-answer-to-the-question-what-is-80538738812075974%C2%B3-80435758145817515%C2%B3-12602123297335631%C2%B3/)
 
-42 = (-80538738812075974)<sup>3</sup> + 80435758145817515<sup>3</sup> + 12602123297335631<sup>3</sup> 
+42 = (-80538738812075974)<sup>3</sup> + 80435758145817515<sup>3</sup> + 12602123297335631<sup>3</sup>
 
-数学家一直猜想，任意一个整数，只要不是`9n ± 4`的类型，都可以分解成三个整数的立方和，n = x<sup>3</sup> + y<sup>3</sup> + z<sup>3</sup>。2019年之前，100以下的自然数，只有`33`和`42`没有分解成功。
+数学家一直猜想，任意一个整数，只要不是`9n ± 4`的类型，都可以分解成三个整数的立方和，n = x<sup>3</sup> + y<sup>3</sup> + z<sup>3</sup>。2019 年之前，100 以下的自然数，只有`33`和`42`没有分解成功。
 
-2019年2月，`33`分解成功。9月初，另一个数学家宣布`42`也分解成功（上式）。目前，1000以下的自然数，还有114、165、390、579、627、633、732、906、921和975，没有找到分解方法。（@[AsuraXin](https://github.com/ruanyf/weekly/issues/837) 投稿）
+2019 年 2 月，`33`分解成功。9 月初，另一个数学家宣布`42`也分解成功（上式）。目前，1000 以下的自然数，还有 114、165、390、579、627、633、732、906、921 和 975，没有找到分解方法。（@[AsuraXin](https://github.com/ruanyf/weekly/issues/837) 投稿）
 
 3、[黑胶唱片销售额超过 CD](https://www.nme.com/news/music/vinyl-set-outsell-cds-first-time-since-1986-2545781)
 
@@ -84,25 +84,25 @@ Udacity 的课程质量，网上评价很不错，如果你刚开始学习软件
 
 ![](https://cdn.beekka.com/blogimg/asset/201909/bg2019090804.jpg)
 
-美国唱片业协会认为，2019年黑胶唱片的销售额将超过 CD，这是1986年后的第一次。今年上半年，黑胶唱片的销量是860万张，共2.241亿美元，CD 的销量是1860万张，共2.479亿美元。
+美国唱片业协会认为，2019 年黑胶唱片的销售额将超过 CD，这是 1986 年后的第一次。今年上半年，黑胶唱片的销量是 860 万张，共 2.241 亿美元，CD 的销量是 1860 万张，共 2.479 亿美元。
 
-黑胶唱片的销量一直在增长，上半年增长了12%，而 CD 几乎没增长，因此预计黑胶唱片将超过 CD。目前，黑胶唱片销售额占音乐业总收入的4％，Spotify和Apple Music等流媒体服务的付费订阅，占总收入的62％。
+黑胶唱片的销量一直在增长，上半年增长了 12%，而 CD 几乎没增长，因此预计黑胶唱片将超过 CD。目前，黑胶唱片销售额占音乐业总收入的 4％，Spotify 和 Apple Music 等流媒体服务的付费订阅，占总收入的 62％。
 
 4、[转基因蚊子实验失败](https://www.dw.com/en/genetically-modified-mosquitoes-breed-in-brazil/a-50414340)
 
 ![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091501.jpg)
 
-巴西为了遏制黄热病，2013年到2015年期间，曾经连续27个月，每月释放45万只基因改造过的埃及伊蚊的雄蚊。这些蚊子的下一代带有基因缺陷，无法长大。
+巴西为了遏制黄热病，2013 年到 2015 年期间，曾经连续 27 个月，每月释放 45 万只基因改造过的埃及伊蚊的雄蚊。这些蚊子的下一代带有基因缺陷，无法长大。
 
-卫生部门希望通过这个举措，将蚊子数量减少90％。但是现在发现，蚊子种群已经完全恢复，实验宣告失败。开始实验的时候就知道，约有3%～4%的幼蚊会长大进入成年期，科学家当时认为这个比例很低，无法达到种群恢复的目的，显然这种看法错了。
+卫生部门希望通过这个举措，将蚊子数量减少 90％。但是现在发现，蚊子种群已经完全恢复，实验宣告失败。开始实验的时候就知道，约有 3%～ 4%的幼蚊会长大进入成年期，科学家当时认为这个比例很低，无法达到种群恢复的目的，显然这种看法错了。
 
 5、[搞笑诺贝尔奖](https://tech.sina.com.cn/d/i/2019-09-13/doc-iicezueu5484732.shtml)
 
 ![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091502.jpg)
 
-第29届搞笑诺贝尔奖近日在哈佛大学颁发。该奖每年选出一些似乎毫无意义的科研项目。今年的获奖者如下。
+第 29 届搞笑诺贝尔奖近日在哈佛大学颁发。该奖每年选出一些似乎毫无意义的科研项目。今年的获奖者如下。
 
-**化学奖** ： 评估一个典型5岁孩童每天的唾液分泌总量。方法是先对食物称重，然后让孩子咀嚼这些食物，吐出来再次称重，以测量里面多了多少唾液。
+**化学奖** ： 评估一个典型 5 岁孩童每天的唾液分泌总量。方法是先对食物称重，然后让孩子咀嚼这些食物，吐出来再次称重，以测量里面多了多少唾液。
 
 **物理学奖** ：研究树袋熊排出方形粪便的方式和原因。树袋熊是已知的唯一一种会排出方形粪便的动物。
 
@@ -116,21 +116,21 @@ Udacity 的课程质量，网上评价很不错，如果你刚开始学习软件
 
 **医学奖**：证据表明食用披萨或有助于预防疾病、延年益寿，前提是要在意大利境内食用在意大利制作的披萨。
 
-**心理学奖** ：1988年，一个研究组发现，嘴里叼一支笔会让你微笑，也因此会更加快乐。开展这项研究的科学家 Strack 自己在2016年重新对这个问题进行了研究和实验，但却发现无法复现当年自己得出的结论。
+**心理学奖** ：1988 年，一个研究组发现，嘴里叼一支笔会让你微笑，也因此会更加快乐。开展这项研究的科学家 Strack 自己在 2016 年重新对这个问题进行了研究和实验，但却发现无法复现当年自己得出的结论。
 
 6、[人工智能威士忌](https://mackmyra.co.uk/products/intelligens)
 
 ![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091602.jpg)
 
-英国一家酿酒公司推出了，世界第一款人工智能创建的威士忌。它通过现有配方，结合销售数据和客户偏好，在超过7000万个选择之中，创建了一种金黄色的麦芽威士忌。该公司宣称，这种酒带有太妃糖、奶油香草、梨、苹果、白胡椒和烤橡木桶的清淡口感。
+英国一家酿酒公司推出了，世界第一款人工智能创建的威士忌。它通过现有配方，结合销售数据和客户偏好，在超过 7000 万个选择之中，创建了一种金黄色的麦芽威士忌。该公司宣称，这种酒带有太妃糖、奶油香草、梨、苹果、白胡椒和烤橡木桶的清淡口感。
 
 7、**一句话消息**
 
-> - [韩国2018年生育率](https://finance.sina.com.cn/stock/usstock/c/2019-09-01/doc-iicezueu2542877.shtml)降至0.98，即妇女一生中平均生育不足一胎，成为全球唯一一个生育率跌破1的国家。
+> - [韩国 2018 年生育率](https://finance.sina.com.cn/stock/usstock/c/2019-09-01/doc-iicezueu2542877.shtml)降至 0.98，即妇女一生中平均生育不足一胎，成为全球唯一一个生育率跌破 1 的国家。
 
 > - [Brave 浏览器](https://brave.com/wikipedia-verified-publisher/)有自家的加密货币 BAT，还有一个 BAT 按钮。只要是认证过的网站，用户按一下这个按钮，就可以把自己的 BAT 捐赠给该网站。
 
-> - [英国的指南针](https://www.theguardian.com/science/2019/aug/30/compasses-to-point-true-north-for-first-time-in-360-years)360年来第一次指向正北方。指南针指向的是地球的北磁极，通常与地理的北极不重合。但是，磁极一直在移动，最近会跟格林威治天文台在同一根经线上。
+> - [英国的指南针](https://www.theguardian.com/science/2019/aug/30/compasses-to-point-true-north-for-first-time-in-360-years)360 年来第一次指向正北方。指南针指向的是地球的北磁极，通常与地理的北极不重合。但是，磁极一直在移动，最近会跟格林威治天文台在同一根经线上。
 
 > - [纽约地铁](https://twitter.com/backspace/status/1164214916028489728)使用液晶屏替代纸制地图，引起批评，因为液晶屏的分辨率太低了，细节根本不清晰。
 
@@ -142,11 +142,11 @@ Udacity 的课程质量，网上评价很不错，如果你刚开始学习软件
 
 ![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082807.jpg)
 
-> - [哈伯望远镜](https://www.spacetelescope.org/news/heic1917/)2019年6月20日拍到了最新的土星全景照。
+> - [哈伯望远镜](https://www.spacetelescope.org/news/heic1917/)2019 年 6 月 20 日拍到了最新的土星全景照。
 
 ![](https://cdn.beekka.com/blogimg/asset/201909/bg2019091603.jpg)
 
-> - [苹果公司](https://www.apple.com/ipados/)正式发布 iPadOS，现在就可以安装升级。它将一些桌面电脑的功能引入了 iPad，比如 程序坞 dock 和支持直接插入U盘。苹果公司的产品线目前有五个操作系统：macOS、iOS、iPadOS、WatchOS、tvOS。
+> - [苹果公司](https://www.apple.com/ipados/)正式发布 iPadOS，现在就可以安装升级。它将一些桌面电脑的功能引入了 iPad，比如 程序坞 dock 和支持直接插入 U 盘。苹果公司的产品线目前有五个操作系统：macOS、iOS、iPadOS、WatchOS、tvOS。
 
 ![](https://cdn.beekka.com/blogimg/asset/201909/bg2019092501.jpg)
 
@@ -162,7 +162,7 @@ Udacity 的课程质量，网上评价很不错，如果你刚开始学习软件
 
 Node.js 应用都是单进程的，可以使用 cluster 模块将其变成一个多进程应用。本文通过一个简单的例子，介绍具体方法。
 
-2、[35岁以后油腻中年人该去哪？](https://mp.weixin.qq.com/s/AXmXQye9_puIFVn_okTEPw)（中文）
+2、[35 岁以后油腻中年人该去哪？](https://mp.weixin.qq.com/s/AXmXQye9_puIFVn_okTEPw)（中文）
 
 这些年有一个非常不太好的感触，一般来说，企业对员工好，这企业往往走不远，走得远的，往往是那种往死里压榨员工的企业。
 
@@ -174,9 +174,9 @@ Node.js 应用都是单进程的，可以使用 cluster 模块将其变成一个
 
 Y Combinator 是函数式编程的重要概念。本文较为通俗地一步步推导它，对函数式编程有兴趣朋友可以看看，文章很长。
 
-5、[10种最佳的 Python IDE](https://codinginfinite.com/best-python-ide-code-editors-top-10/)（英文）
+5、[10 种最佳的 Python IDE](https://codinginfinite.com/best-python-ide-code-editors-top-10/)（英文）
 
-本文介绍了10种 Python 编程 IDE（集成编程环境），每一种的简介和特点。
+本文介绍了 10 种 Python 编程 IDE（集成编程环境），每一种的简介和特点。
 
 6、[ReasonML 与 TypeScript 的对比](https://blog.dubenko.dev/typescript-vs-reason/)（英文）
 
@@ -190,13 +190,13 @@ Linux 是作为命令行下的服务器系统开发的，桌面环境一直不�
 
 追踪用户的常用手段，是使用 Cookie 保存用户 ID。但是，随着浏览器开始限制第三方 Cookie，新的追踪手段是使用浏览器指纹。本文介绍一些这方面的基本知识。
 
-9、[BitTorrent如何运作？](https://skerritt.blog/bit-torrent/)（英文）
+9、[BitTorrent 如何运作？](https://skerritt.blog/bit-torrent/)（英文）
 
 本文通俗地介绍 BT 下载的原理和算法，包括磁性链接如何运作。
 
-10、[我如何在40天里面写一个 C 语言编译器](https://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days)（英文）
+10、[我如何在 40 天里面写一个 C 语言编译器](https://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days)（英文）
 
-作者的编译器开发日记，第一天写了20行代码，发展到后来的4000行，记录了每一天所解决的问题。
+作者的编译器开发日记，第一天写了 20 行代码，发展到后来的 4000 行，记录了每一天所解决的问题。
 
 ## 工具
 
@@ -296,9 +296,9 @@ macOS 平台的一个开源 PDF 文件阅读器。
 
 1、[斯德哥尔摩的电话塔](https://twistedsifter.com/2014/08/stockholm-telephone-tower-connects-5000-lines/)
 
-100年前的电话，都需要人工转接，每一部电话线必须连接到电话局。
+100 年前的电话，都需要人工转接，每一部电话线必须连接到电话局。
 
-下图是瑞典首都斯德哥尔摩的电话塔。它从1887年至1913年是斯德哥尔摩主要的电话转接点之一，一共连接了大约5000条电话线。该塔在1913年退役，1953年因火灾而被拆除。
+下图是瑞典首都斯德哥尔摩的电话塔。它从 1887 年至 1913 年是斯德哥尔摩主要的电话转接点之一，一共连接了大约 5000 条电话线。该塔在 1913 年退役，1953 年因火灾而被拆除。
 
 ![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081102.jpg)
 
@@ -306,17 +306,17 @@ macOS 平台的一个开源 PDF 文件阅读器。
 
 2、[Guido van Rossum 老照片](https://www.zdnet.com/article/python-is-eating-the-world-how-one-developers-side-project-became-the-hottest-programming-language-on-the-planet/)
 
-1990年，34岁的荷兰程序员 Guido van Rossum，发布了一个个人的业余项目-- Python 语言。
+1990 年，34 岁的荷兰程序员 Guido van Rossum，发布了一个个人的业余项目-- Python 语言。
 
-1994年，他参加波兰的 Python 研讨会。
+1994 年，他参加波兰的 Python 研讨会。
 
 ![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081207.jpg)
 
-2001年，Python 基金会成立。
+2001 年，Python 基金会成立。
 
 ![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081206.jpg)
 
-2014年，他进入 Dropbox 公司工作。
+2014 年，他进入 Dropbox 公司工作。
 
 ![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081205.jpg)
 
@@ -324,7 +324,7 @@ macOS 平台的一个开源 PDF 文件阅读器。
 
 1、[时空旅行者宴会](https://baike.baidu.com/item/%E6%97%B6%E9%97%B4%E6%97%85%E8%A1%8C%E8%80%85%E5%AE%B4%E4%BC%9A)
 
-2009年6月28日，英国著名物理学家霍金举行了一次时间旅行者宴会，欢迎未来的人们回到现在，参加这个宴会。房间布置了气球、香槟和美食，挂著大大的标语，写着“欢迎时间旅行者”。
+2009 年 6 月 28 日，英国著名物理学家霍金举行了一次时间旅行者宴会，欢迎未来的人们回到现在，参加这个宴会。房间布置了气球、香槟和美食，挂著大大的标语，写着“欢迎时间旅行者”。
 
 ![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081104.jpg)
 
@@ -340,9 +340,9 @@ macOS 平台的一个开源 PDF 文件阅读器。
 
 但是，完全没有人赴会。霍金说：““我坐了很长时间，但没有人来。我用实验证明，时间旅行不可能。”
 
-1905年，爱因斯坦在相对论中断定，当接近光速的运动时，时间会很慢或静止，也就是说，当人乘坐接近光速的飞船去旅行，在旅行的过程中时间就会变慢，因此，当他再回到地球的时候就可能已经过了一个世纪。对他来 说，只要花很少的时间就能进入未来世界。但是，爱因斯坦指出：光速无法超越，时间不可能倒流。
+1905 年，爱因斯坦在相对论中断定，当接近光速的运动时，时间会很慢或静止，也就是说，当人乘坐接近光速的飞船去旅行，在旅行的过程中时间就会变慢，因此，当他再回到地球的时候就可能已经过了一个世纪。对他来 说，只要花很少的时间就能进入未来世界。但是，爱因斯坦指出：光速无法超越，时间不可能倒流。
 
-不过，霍金说：“从爱因斯坦的相对论来看，弯曲时空、回到过去的可能性的确存在。但是，让时空弯曲，可能引发能量摧毁（时空旅行所用的）飞船、甚至时空。”　
+不过，霍金说：“从爱因斯坦的相对论来看，弯曲时空、回到过去的可能性的确存在。但是，让时空弯曲，可能引发能量摧毁（时空旅行所用的）飞船、甚至时空。”
 
 2、[马斯克的脑机接口](https://arstechnica.com/science/2019/08/elon-musks-neuralink-both-an-evolution-and-a-plan-for-radical-change/)
 
@@ -356,7 +356,7 @@ macOS 平台的一个开源 PDF 文件阅读器。
 
 ![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081406.jpg)
 
-Neuralink 的计划是，通过一个小于8毫米的洞进入大脑，植入 4mm x 4mm 的芯片及相关的线路。该芯片将从位于耳后的无线硬件获得电源，并与之通信，就像当前的人工耳蜗植入一样。
+Neuralink 的计划是，通过一个小于 8 毫米的洞进入大脑，植入 4mm x 4mm 的芯片及相关的线路。该芯片将从位于耳后的无线硬件获得电源，并与之通信，就像当前的人工耳蜗植入一样。
 
 在大脑内部，芯片连接到一些小电路，这些小电路连到放在各个大脑区域的电极，监听神经元的电脉冲。芯片接收到神经活动的原始数据后，就会进行处理。电脉冲也可以通过这些电极发送到神经元，刺激大脑活动。
 
@@ -376,21 +376,21 @@ Neuralink 的计划是，通过一个小于8毫米的洞进入大脑，植入 4m
 
 2、
 
-德国工业设计大师 Dieter Rams 是功​​能主义的坚定信徒，他的设计理念就是他的名言：“少，但更好”（less but better）。
+德国工业设计大师 Dieter Rams 是功 ​​ 能主义的坚定信徒，他的设计理念就是他的名言：“少，但更好”（less but better）。
 
 -- [《伟大的产品做得少，但更好》](https://uxdesign.cc/great-products-do-less-things-but-better-5dde0ee3fc76)
 
 3、
 
-18岁的奥地利人安德烈亚斯·米哈维茨（Andreas Mihavecz）是没有食物的情况下，世界上活得最久的人。
+18 岁的奥地利人安德烈亚斯·米哈维茨（Andreas Mihavecz）是没有食物的情况下，世界上活得最久的人。
 
-1979年4月1日，他被警察关进一个地下室，后来被忘了。18天后的4月19日，才被发现。
+1979 年 4 月 1 日，他被警察关进一个地下室，后来被忘了。18 天后的 4 月 19 日，才被发现。
 
 -- [维基百科](https://en.wikipedia.org/wiki/Andreas_Mihavecz)
 
 4、
 
-Rekursiv 是上世纪80年代苏格兰科学家推出的一种 CPU，从未商业化，只做过几个实验板。唯一一个知道去向的成品，位于格拉斯哥市内一条河流的底部。
+Rekursiv 是上世纪 80 年代苏格兰科学家推出的一种 CPU，从未商业化，只做过几个实验板。唯一一个知道去向的成品，位于格拉斯哥市内一条河流的底部。
 
 -- [维基百科](https://en.wikipedia.org/wiki/Rekursiv)
 
@@ -404,12 +404,12 @@ Rekursiv 是上世纪80年代苏格兰科学家推出的一种 CPU，从未商�
 
 周刊讨论区的[《谁在招人？》](https://github.com/ruanyf/weekly/issues/798)，有大量工作/实习岗位，欢迎查看。
 
-如果你的团队需要招人，可以免费在那里张贴招聘信息。如果希望发在周刊上，请联系我（Email:  yifeng.ruan@gmail.com ），每条价格 300 元。
+如果你的团队需要招人，可以免费在那里张贴招聘信息。如果希望发在周刊上，请联系我（Email: yifeng.ruan@gmail.com ），每条价格 300 元。
 
-1、**高级前端工程师**  
- 
+1、**高级前端工程师**
+
 [易路软件](https://www.ersoft.cn/)聚焦企业人力资源 SaaS 领域，致力于以复杂薪酬计算为核心的“移动互联网+员工服务”研发及运营。工作地点：上海闵行区。
-  
+
 招聘前端工程师，参与公司产品研发，包括不限于 PC 端、H5、小程序、Node 服务。详细要求看[这里](https://github.com/ruanyf/weekly/issues/798#issuecomment-533874713)。
 
 2、**秘猿科技**
@@ -433,4 +433,3 @@ Rekursiv 是上世纪80年代苏格兰科学家推出的一种 CPU，从未商�
 ![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
-

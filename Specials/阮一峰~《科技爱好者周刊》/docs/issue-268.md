@@ -8,7 +8,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081801.webp)
 
-甘肃瓜州的戈壁滩上，有一座头像雕塑《汉武大帝》。两千多年前，汉武帝曾经派遣军队，在此处战胜过匈奴。这个头像高达12.5米，采用红砂岩材质，通过 3D 雕刻逐块拼装而成。（[via](https://www.sohu.com/a/542903530_120615216)）
+甘肃瓜州的戈壁滩上，有一座头像雕塑《汉武大帝》。两千多年前，汉武帝曾经派遣军队，在此处战胜过匈奴。这个头像高达 12.5 米，采用红砂岩材质，通过 3D 雕刻逐块拼装而成。（[via](https://www.sohu.com/a/542903530_120615216)）
 
 ## 生产力是形容机器，不是形容人
 
@@ -33,7 +33,7 @@
 
 他们只有几十个人，没有拿过一分钱风险投资，但是活得非常好，每年有几千万美元的收入。他们的书就是解释他们的创业哲学。
 
-我最近读完了他们的第四本书，正式的中文书名叫作《重来3：跳出疯狂的忙碌》（电子工业出版社，2020），英文书名为“It Doesn't Have to Be Crazy at Work”（直译就是《何必工作狂》）。
+我最近读完了他们的第四本书，正式的中文书名叫作《重来 3：跳出疯狂的忙碌》（电子工业出版社，2020），英文书名为“It Doesn't Have to Be Crazy at Work”（直译就是《何必工作狂》）。
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081908.webp)
 
@@ -47,7 +47,7 @@
 
 如果使用“生产力”评价一个人的价值，最终就一定变成追求更高的产出。这是没有止境的，机器可以 24x7 工作，人不能。
 
-软件行业一直有一种说法，我们要招聘10倍生产力的程序员。它的言下之意，就是要招聘10倍产出的人，这种目标并不可取。
+软件行业一直有一种说法，我们要招聘 10 倍生产力的程序员。它的言下之意，就是要招聘 10 倍产出的人，这种目标并不可取。
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082309.webp)
 
@@ -71,7 +71,7 @@
 
 现在最流行的软件模型是什么？一定是**云原生（cloud native），也就是软件的构建和使用都基于云环境**。互联网大厂都在转向该模式。
 
-**明天周六（8月26日）下午，深圳有一场技术沙龙**，介绍云原生如何让企业实现高效部署、资源优化、降低成本。
+**明天周六（8 月 26 日）下午，深圳有一场技术沙龙**，介绍云原生如何让企业实现高效部署、资源优化、降低成本。
 
 本次活动由稀土掘金社区 + 火山引擎云原生联合主办，邀请**字节的第一线工程师，分享开发经验**，以及云开发的真实体会。
 
@@ -87,7 +87,7 @@
 
 1、[猪肾移植](https://nyulangone.org/news/pig-kidney-xenotransplantation-performing-optimally-after-32-days-human-body)
 
-纽约大学的外科医生宣布，将一颗猪肾脏移植到了人体，目前已经成功工作了32天。
+纽约大学的外科医生宣布，将一颗猪肾脏移植到了人体，目前已经成功工作了 32 天。
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081905.webp)
 
@@ -101,7 +101,7 @@
 
 2、[毛伊岛火灾](https://www.civilbeat.org/2023/08/what-saved-the-miracle-house-in-lahaina/)
 
-美国夏威夷的毛伊岛，最近发生了美国100多年来最严重的火灾，造成重大伤亡。
+美国夏威夷的毛伊岛，最近发生了美国 100 多年来最严重的火灾，造成重大伤亡。
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082001.webp)
 
@@ -113,7 +113,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082003.webp)
 
-媒体目前分析，有两个原因。首先，火势从东面过来，这栋房子东面是一大片草地，起到隔离作用，而且草地也没有被烧掉。其次，房主2021年重新装修过，将屋顶改成彩钢板（上图是装修前），从而使得落在屋顶的火星不会点燃。
+媒体目前分析，有两个原因。首先，火势从东面过来，这栋房子东面是一大片草地，起到隔离作用，而且草地也没有被烧掉。其次，房主 2021 年重新装修过，将屋顶改成彩钢板（上图是装修前），从而使得落在屋顶的火星不会点燃。
 
 3、[Starship 改装](https://twitter.com/SpaceX/status/1692610662604702138)
 
@@ -129,11 +129,11 @@ SpaceX 公司发布了 Starship 火箭的改装照片，两个工人坐在顶部
 
 4、[激光庆祝](https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/laserstrahl-ueber-ditzingen-102.html)
 
-一家德国公司为了庆祝成立100周年，本月在总部向天空发射绿色激光，作为生日蜡烛。
+一家德国公司为了庆祝成立 100 周年，本月在总部向天空发射绿色激光，作为生日蜡烛。
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082306.webp)
 
-这个激光高达10公里，方圆80公里范围内都能看到，是目前世界最大的绿色激光。
+这个激光高达 10 公里，方圆 80 公里范围内都能看到，是目前世界最大的绿色激光。
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082307.webp)
 
@@ -147,7 +147,7 @@ SpaceX 公司发布了 Starship 火箭的改装照片，两个工人坐在顶部
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071803.webp)
 
-本文介绍 TypeScript 的一些使用技巧。  
+本文介绍 TypeScript 的一些使用技巧。
 
 2、[Docker 如何生成容器名](https://pet2cattle.com/2022/08/docker-container-names-generator)（英文）
 
@@ -167,11 +167,11 @@ SpaceX 公司发布了 Starship 火箭的改装照片，两个工人坐在顶部
 
 QEMU 是著名的虚拟机软件，本文演示如何用它新建一个树莓派虚拟机，可以用来上手 QEMU。
 
-5、[UUID（版本4）的一个冷知识](https://susam.net/blog/from-uuid-to-infinite-loops.html)（英文）
+5、[UUID（版本 4）的一个冷知识](https://susam.net/blog/from-uuid-to-infinite-loops.html)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072201.webp)
 
-UUID 意为全局唯一标识符，是一个十六进制的32位随机数。本文介绍一个冷知识，这个数字的第14位是固定不变的。
+UUID 意为全局唯一标识符，是一个十六进制的 32 位随机数。本文介绍一个冷知识，这个数字的第 14 位是固定不变的。
 
 6、[CSS 折叠翻页效果](https://thomaspark.co/2020/06/the-mad-magazine-fold-in-effect-in-css/)（英文）
 
@@ -193,7 +193,7 @@ JavaScript 正在引入 marco 语法，最新版的 Bun 打包器已经支持。
 
 ## 工具
 
-1、[Simple Statistics](http://simplestatistics.org/) 
+1、[Simple Statistics](http://simplestatistics.org/)
 
 ![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062814.webp)
 
@@ -291,17 +291,17 @@ WordPress 官方推出的练习场，可以在浏览器里面新建一个 WordPr
 
 2、[加大瓷砖图案](https://newsroom.ucla.edu/stories/a-coded-message-hidden-in-floor-247232)
 
-1969年，加州大学洛杉矶分校（UCLA）发出了第一条互联网消息。
+1969 年，加州大学洛杉矶分校（UCLA）发出了第一条互联网消息。
 
 当时，该校的两位教授通过网络发出两个字母“LO”。他们原想发送的是“LOGIN”。但是，只发出前两个字母，网络就崩溃了。
 
-2011年，为了纪念这个事件，在翻新该校的博尔特大厅（Boelter Hall）时，建筑师用两色的瓷砖，在地面上嵌入了二进制密码。
+2011 年，为了纪念这个事件，在翻新该校的博尔特大厅（Boelter Hall）时，建筑师用两色的瓷砖，在地面上嵌入了二进制密码。
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082006.webp)
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082005.webp)
 
-一共是14行，每行八块瓷砖，完整的分布图如下。
+一共是 14 行，每行八块瓷砖，完整的分布图如下。
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082007.webp)
 
@@ -315,7 +315,7 @@ WordPress 官方推出的练习场，可以在浏览器里面新建一个 WordPr
 
 1、**我们不是一家人**
 
-本文摘自 37signals 公司的《重来3》（电子工业出版社，2020）一书。
+本文摘自 37signals 公司的《重来 3》（电子工业出版社，2020）一书。
 
 有的公司喜欢宣扬“我们都是一家人”。不，你们不是一家人。
 
@@ -368,7 +368,7 @@ JavaScript 之所以流行，只是因为它在浏览器中具有垄断地位，
 
 5、
 
-芬兰首都赫尔辛基，每年的交通事故死亡人数非常少，不超过5个人。
+芬兰首都赫尔辛基，每年的交通事故死亡人数非常少，不超过 5 个人。
 
 一位美国记者采访当地官员，询问采用了什么高技术。官员答道：“我们没有使用任何高技术，只是强制要求放慢车速。”
 
@@ -385,4 +385,3 @@ JavaScript 之所以流行，只是因为它在浏览器中具有垄断地位，
 [名校毕业，不容易创业](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-71.html)（2019 #71）
 
 （完）
-

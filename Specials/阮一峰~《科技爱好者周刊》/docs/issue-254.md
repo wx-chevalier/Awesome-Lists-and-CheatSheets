@@ -16,7 +16,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050704.webp)
 
-它的意思是，某些系统的关键，不在于发展最强点，而在于避免最弱点。99%的地方都没有问题，只要1%的地方出现问题，整个系统就会失败。
+它的意思是，某些系统的关键，不在于发展最强点，而在于避免最弱点。99%的地方都没有问题，只要 1%的地方出现问题，整个系统就会失败。
 
 人体健康就是这样，有一个器官出现严重问题，哪怕其他器官完全正常，生活甚至生命就会受到影响。
 
@@ -48,11 +48,11 @@
 
 谁能想到，五一节之前，一家以色列公司联系我。他们的软件进入了中国市场，想在周刊上向中国程序员介绍一下自己。
 
-这家公司叫做 Bright Data（[英文官网](https://brightdata.com/?utm_source=organic-social-cn&utm_campaign=influencer_yuanyifeng&cam=tb_yuanyifeng)），中文名字是“亮数据”（[中文官网](https://www.bright.cn/?utm_source=organic-social-cn&utm_campaign=influencer_yuanyifeng&cam=tb_yuanyifeng)），成立于2014年。
+这家公司叫做 Bright Data（[英文官网](https://brightdata.com/?utm_source=organic-social-cn&utm_campaign=influencer_yuanyifeng&cam=tb_yuanyifeng)），中文名字是“亮数据”（[中文官网](https://www.bright.cn/?utm_source=organic-social-cn&utm_campaign=influencer_yuanyifeng&cam=tb_yuanyifeng)），成立于 2014 年。
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050103.webp)
 
-他们的产品是**互联网数据服务**，首页赫然写着“世界排名第一的互联网数据平台”。看上去业务做得很大，不少世界500强公司和欧美名校，都是他们的客户。
+他们的产品是**互联网数据服务**，首页赫然写着“世界排名第一的互联网数据平台”。看上去业务做得很大，不少世界 500 强公司和欧美名校，都是他们的客户。
 
 根据他们的说法，只要互联网可以公开访问的数据，都能提供。不管电子商务，还是 AI 训练，你想要什么样的大规模数据集，他们帮你解决。
 
@@ -62,8 +62,8 @@
 
 **（1）自助服务：** 你在他们的基础设施上，自己跑爬虫。他们为你提供下面的能力。
 
-> - 超过7200万的 IP 地址，随意切换国家城市。
-> - 覆盖全球195个国家地区、不同运营商的基础设施。
+> - 超过 7200 万的 IP 地址，随意切换国家城市。
+> - 覆盖全球 195 个国家地区、不同运营商的基础设施。
 > - CAPTCHA 解锁器，绕过网站的真人验证，99.99%成功率，不成功不收费。
 
 你可以自己写脚本，调用他们的 API，也可以使用他们的网络数据抓取工具 [Web Scraper IDE](https://www.bright.cn/products/web-scraper/?utm_source=organic-social-cn&utm_campaign=influencer_yuanyifeng&cam=tb_yuanyifeng)，只要填几个设置，就能大规模抓取数据。
@@ -82,7 +82,7 @@
 
 上面就是他们的产品介绍。需要说明的是，他们主要面向公司用户。个人程序员如果有需求，也可以使用。
 
-如果你感兴趣，想要什么数据集或者使用他们的基础设施，欢迎访问[中文官网](https://www.bright.cn/?utm_source=organic-social-cn&utm_campaign=influencer_yuanyifeng&cam=tb_yuanyifeng)，也可以扫描下方二维码，了解详情并注册，新用户有**7天免费试用期**。
+如果你感兴趣，想要什么数据集或者使用他们的基础设施，欢迎访问[中文官网](https://www.bright.cn/?utm_source=organic-social-cn&utm_campaign=influencer_yuanyifeng&cam=tb_yuanyifeng)，也可以扫描下方二维码，了解详情并注册，新用户有**7 天免费试用期**。
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050202.webp)
 
@@ -102,7 +102,7 @@
 
 2、[NBA 无人机直播](https://petapixel.com/2023/05/04/drone-camera-at-nba-game-is-lambasted-by-basketball-fans/)
 
-本月的波士顿凯尔特人和费城76人的 NBA 比赛中，出现了无人机直播。
+本月的波士顿凯尔特人和费城 76 人的 NBA 比赛中，出现了无人机直播。
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050907.webp)
 
@@ -116,7 +116,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050908.webp)
 
-这颗恒星距离地球12,000光年，已经进入了生命周期的晚期，体积急剧膨胀了1000倍以上，变成一颗红巨星（red-giant），吞噬了靠近它的行星。
+这颗恒星距离地球 12,000 光年，已经进入了生命周期的晚期，体积急剧膨胀了 1000 倍以上，变成一颗红巨星（red-giant），吞噬了靠近它的行星。
 
 天文学家认为，地球的结局也是这样。当太阳终结的时候，地球也将随之终结。
 
@@ -126,7 +126,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112301.webp)
 
-问题是这个模型的准确率只有95%，很多时候会判断错误。于是，亚马逊又在印度和哥斯达黎加，雇佣了很多外包工人，对把握不大的监控视频进行二次审核，提供模型准确率。
+问题是这个模型的准确率只有 95%，很多时候会判断错误。于是，亚马逊又在印度和哥斯达黎加，雇佣了很多外包工人，对把握不大的监控视频进行二次审核，提供模型准确率。
 
 于是就出现了非常科幻的场景：一群工人在仓库干活，另一群工人通过摄像头远程监控他们。软件模型用于判断，这两群工人是否都在尽职工作。高科技时代的劳动力处境，大概就是这样。
 
@@ -148,7 +148,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050804.webp)
 
-图像生成模型 Midjourney 在5月7日发布了5.1版，效果惊人，本文进行详细介绍。
+图像生成模型 Midjourney 在 5 月 7 日发布了 5.1 版，效果惊人，本文进行详细介绍。
 
 2、[Redis 与作者 antirez 的故事](https://blog.brachiosoft.com/redis)（繁体中文）
 
@@ -208,7 +208,7 @@ Svelte 是目前国外比较流行的一种前端框架，作者详细谈了自�
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051007.webp)
 
-浏览器的双语翻译插件，可以指定翻译引擎（10多种可选），并可以翻译 pdf、epub 电子书。（[@theowenyoung](https://github.com/ruanyf/weekly/issues/3100) 投稿）
+浏览器的双语翻译插件，可以指定翻译引擎（10 多种可选），并可以翻译 pdf、epub 电子书。（[@theowenyoung](https://github.com/ruanyf/weekly/issues/3100) 投稿）
 
 4、[ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web)
 
@@ -218,7 +218,7 @@ Svelte 是目前国外比较流行的一种前端框架，作者详细谈了自�
 
 注意，用户需要满足三个使用条件。
 
-> - Chrome 113 以上浏览器。 
+> - Chrome 113 以上浏览器。
 > - 下载训练数据约 4GB（只需下载一次）。
 > - 显卡最好有 6.4GB 以上显存。
 
@@ -298,7 +298,7 @@ Web Components 的英文入门教程，源码[开源](https://github.com/davatro
 
 1、[艺术鸟巢](https://www.thisiscolossal.com/2022/06/bird-houses-brooklyn-botanic-gardens/)
 
-美国纽约布鲁克林植物园，举办了一次鸟巢设计展，邀请了33位艺术家，请他们设计具有艺术气息的鸟巢。
+美国纽约布鲁克林植物园，举办了一次鸟巢设计展，邀请了 33 位艺术家，请他们设计具有艺术气息的鸟巢。
 
 ![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063007.webp)
 
@@ -394,11 +394,10 @@ AI 发展到最后，无非就是两种结果。一种是人类灵魂被证明�
 
 周刊得到国内新一代知识管理与协作平台 [FlowUs](https://flowus.cn?promotionChannel=GW_RYF_01) 的帮助，深表感谢。
 
-[FlowUS](https://flowus.cn?promotionChannel=GW_RYF_01)  = 文档 + 表格 + 网盘。你可以用它写文档、做主页、管理数据、存储文件等等。
+[FlowUS](https://flowus.cn?promotionChannel=GW_RYF_01) = 文档 + 表格 + 网盘。你可以用它写文档、做主页、管理数据、存储文件等等。
 
 每一期周刊同时发布在[ FlowUs 专栏](https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00)，欢迎大家也去开通自己的专栏和主页。
 
 ![](https://cdn.beekka.com/blogimg/asset/202303/bg2023030205.webp)
 
 （完）
-

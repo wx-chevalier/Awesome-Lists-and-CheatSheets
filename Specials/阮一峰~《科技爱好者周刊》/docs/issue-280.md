@@ -34,7 +34,7 @@
 >
 > **（2）效率更高**。人工点餐要跟店员沟通，为了避免出错，通常需要强调和重复，这样就比较慢。更不要提，有时候还听不清对方的话。
 >
->**（3）体验更好**。机器点餐时，你有时间思考和犹豫，不会有人催促你；即使点了奇怪的东西，也不会有人用异样的眼神看着你；如果点错了，可以无限次从头再来；就算不想要了，也不会尴尬。
+> **（3）体验更好**。机器点餐时，你有时间思考和犹豫，不会有人催促你；即使点了奇怪的东西，也不会有人用异样的眼神看着你；如果点错了，可以无限次从头再来；就算不想要了，也不会尴尬。
 
 因为上面这些原因，人们更愿意机器点餐，而不是找店员点餐，这是毫不奇怪的。
 
@@ -46,7 +46,7 @@
 
 越来越多的年轻人，长时间呆在家里，当宅男宅女，不与外界互动。一个很大原因就是，互联网提供了这种可能，让你不必与其他人交流，通过电脑就能完成各种事情，解决生活的基本需要。
 
-这是全世界的普遍现象，人们的外出都在减少。我看到一个[美国的统计](https://axios.com/2023/11/16/walking-americans-declines-map)，美国人每天步行次数（一次不少于250米）正在快速下降，2022年比2019年下降了36%。
+这是全世界的普遍现象，人们的外出都在减少。我看到一个[美国的统计](https://axios.com/2023/11/16/walking-americans-declines-map)，美国人每天步行次数（一次不少于 250 米）正在快速下降，2022 年比 2019 年下降了 36%。
 
 ![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112712.webp)
 
@@ -64,11 +64,11 @@
 
 1、[汤加的报废汽车](https://www.abc.net.au/news/science/2023-09-19/how-tonga-plans-to-recycle-its-mountain-of-scrap-cars/102614772)
 
-太平洋岛国汤加，面积很小，只有260平方公里，跟北京四环内差不多大小。
+太平洋岛国汤加，面积很小，只有 260 平方公里，跟北京四环内差不多大小。
 
 ![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092102.webp)
 
-它现在面临报废汽车难题。报废汽车已超过3万辆，再也找不到地方放置了。
+它现在面临报废汽车难题。报废汽车已超过 3 万辆，再也找不到地方放置了。
 
 ![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092103.webp)
 
@@ -88,7 +88,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112510.webp)
 
-一艘12米的无人船，在海上航行了16个小时，累计行程110海里，收集各种气象数据。
+一艘 12 米的无人船，在海上航行了 16 个小时，累计行程 110 海里，收集各种气象数据。
 
 ![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112511.webp)
 
@@ -108,15 +108,15 @@
 
 4、[海底数据中心](https://www.hinews.cn/news/system/2023/11/24/033078392.shtml)
 
-11月24日，世界首个商用的海底数据中心，在海南下水。
+11 月 24 日，世界首个商用的海底数据中心，在海南下水。
 
 ![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112512.webp)
 
-1300吨重的数据中心，被放入35米深的海底，里面包含了100台服务器。
+1300 吨重的数据中心，被放入 35 米深的海底，里面包含了 100 台服务器。
 
 ![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112513.webp)
 
-海底机房可以节省建设用地，以及冷却所需的淡水，能够减少40%到60%的耗能。
+海底机房可以节省建设用地，以及冷却所需的淡水，能够减少 40%到 60%的耗能。
 
 微软公司曾经试验过海底机房，但没有投入实际使用。中国这次放入海底的机房，会真的交付给客户。如果效果好，后续会在多个省份推广。
 
@@ -126,7 +126,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202311/bg2023113017.webp)
 
-一家美国公司最近设立了一个奖项（上图），只要哪一个开源的 AI 模型，能够首先赢得国际数学奥林匹克金奖，就能获得1000万美元。
+一家美国公司最近设立了一个奖项（上图），只要哪一个开源的 AI 模型，能够首先赢得国际数学奥林匹克金奖，就能获得 1000 万美元。
 
 这是一个指标意义的奖项。目前的 AI 只是大规模语言模型，本质上属于统计预测。如果有一天 AI 能够证明数学难题，就表明它具有推理分析能力，“奇点”大概也就来临了。
 
@@ -138,11 +138,11 @@
 
 本周，国产 CPU 龙芯 3A6000 发布。B 站有测试视频，它设置在 2.5GHz 时，性能跟 i5-14600K 接近，并可超频到 3GHz。国产芯片能达到这样的水平，让人刮目相看。
 
-2、[我在谷歌的18年](https://finance.sina.com.cn/stock/usstock/c/2023-11-24/doc-imzvsncv7037099.shtml)（中文）
+2、[我在谷歌的 18 年](https://finance.sina.com.cn/stock/usstock/c/2023-11-24/doc-imzvsncv7037099.shtml)（中文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112505.webp)
 
-作者在谷歌工作了18年，本月辞职。他写了这篇文章，痛批谷歌已经蜕变，不再有公司创立时的理想主义，成了一家充满官僚主义的平庸大公司。
+作者在谷歌工作了 18 年，本月辞职。他写了这篇文章，痛批谷歌已经蜕变，不再有公司创立时的理想主义，成了一家充满官僚主义的平庸大公司。
 
 本文是对此事的中文报道，另有[英文原文](https://ln.hixie.ch/?start=1700627373)和[中文译文](https://icloudnative.io/posts/reflecting-on-18-years-at-google/)。（[@yangchuansheng](https://github.com/ruanyf/weekly/issues/3660) 投稿）
 
@@ -164,13 +164,13 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080302.webp)
 
-Web Component 技术诞生已经10年了，至今没有流行。为什么这样一种浏览器原生支持的技术，发展不起来？作者分析了它的一些设计失误。
+Web Component 技术诞生已经 10 年了，至今没有流行。为什么这样一种浏览器原生支持的技术，发展不起来？作者分析了它的一些设计失误。
 
 6、[Deno Cron 发布](https://deno.com/blog/cron)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202311/bg2023113002.webp)
 
-JS 云服务 Deno Depoly 宣布，推出定时运行功能 Deno Cron。如果需要定时执行 JS 脚本，以后多一个选项。 
+JS 云服务 Deno Depoly 宣布，推出定时运行功能 Deno Cron。如果需要定时执行 JS 脚本，以后多一个选项。
 
 7、[六大平台的游戏开发评价](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)（英文）
 
@@ -186,7 +186,7 @@ JS 云服务 Deno Depoly 宣布，推出定时运行功能 Deno Cron。如果需
 
 ## [本周软件] 集算器
 
-[周刊（第273期）](https://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html)介绍过一个国产数据计算引擎 SPL。
+[周刊（第 273 期）](https://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html)介绍过一个国产数据计算引擎 SPL。
 
 当时忘了提，虽然这是一项底层技术，但为了让更多人使用它，开发团队做了一个非常好用的工具，中文叫做“[集算器](https://c.raqsoft.com.cn/article/1595816810031)”。
 
@@ -194,9 +194,9 @@ JS 云服务 Deno Depoly 宣布，推出定时运行功能 Deno Cron。如果需
 
 它的外观和[用法](http://d.raqsoft.com.cn:6999/esproc/tutorial/azysy.html)类似于 Excel，不懂编程的用户也能快速上手。但是，编程和计算能力要强得多，其实是一种**基于单元格的编程语言**。
 
-单元格编号就是变量名，比如上图的`A1 + 5`就等于17。这样引用上一步就很简单，整个流程写在一组单元格里，非常直观。
+单元格编号就是变量名，比如上图的`A1 + 5`就等于 17。这样引用上一步就很简单，整个流程写在一组单元格里，非常直观。
 
-这里有一个[例子](https://c.raqsoft.com.cn/article/1536756719594)，依靠大数据计算和丰富的内置函数，10行代码实现一个“[古诗机器人](https://c.raqsoft.com.cn/article/1536756719594)”，还挺好玩。
+这里有一个[例子](https://c.raqsoft.com.cn/article/1536756719594)，依靠大数据计算和丰富的内置函数，10 行代码实现一个“[古诗机器人](https://c.raqsoft.com.cn/article/1536756719594)”，还挺好玩。
 
 ![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112904.webp)
 
@@ -206,7 +206,7 @@ JS 云服务 Deno Depoly 宣布，推出定时运行功能 Deno Cron。如果需
 
 1、[Biome](https://biomejs.dev/)
 
-JS 语言格式化工具 Prettier，提出谁能用 Rust 语言重新实现它，并通过所有测试用例，就能获得2万美元，因为它们自己没有资源做这件事。
+JS 语言格式化工具 Prettier，提出谁能用 Rust 语言重新实现它，并通过所有测试用例，就能获得 2 万美元，因为它们自己没有资源做这件事。
 
 ![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112804.webp)
 
@@ -250,7 +250,7 @@ Python 的 Web 框架 streamlit 的一个组件库。（[@ObservedObserver](http
 
 ![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112504.webp)
 
-一个极简的 Python 脚本，只用115行，实现一个网页聊天室，使用 SSE 进行后端消息推送，对 Python 全栈开发感兴趣的朋友可以参考。（[@yuxiaoy1](https://github.com/ruanyf/weekly/issues/3659) 投稿）
+一个极简的 Python 脚本，只用 115 行，实现一个网页聊天室，使用 SSE 进行后端消息推送，对 Python 全栈开发感兴趣的朋友可以参考。（[@yuxiaoy1](https://github.com/ruanyf/weekly/issues/3659) 投稿）
 
 8、[Gmeek](https://github.com/Meekdai/Gmeek)
 
@@ -288,7 +288,7 @@ Python 的 Web 框架 streamlit 的一个组件库。（[@ObservedObserver](http
 
 ![](https://cdn.beekka.com/blogimg/asset/202311/bg2023113007.webp)
 
-12月4日~12月8日，在主要的中文博客网站，每天会集中上架一批不同技术主题的中文博客。（[@le0zh0u](https://github.com/ruanyf/weekly/issues/3683) 投稿）
+12 月 4 日~12 月 8 日，在主要的中文博客网站，每天会集中上架一批不同技术主题的中文博客。（[@le0zh0u](https://github.com/ruanyf/weekly/issues/3683) 投稿）
 
 3、[ataiva.com](https://ataiva.com/archives/)
 
@@ -300,7 +300,7 @@ Python 的 Web 框架 streamlit 的一个组件库。（[@ObservedObserver](http
 
 ![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112501.webp)
 
-微软推出的入门课程，介绍生成式 AI，一共12课。
+微软推出的入门课程，介绍生成式 AI，一共 12 课。
 
 ## 图片
 
@@ -322,7 +322,7 @@ Python 的 Web 框架 streamlit 的一个组件库。（[@ObservedObserver](http
 
 2、[金丝雀报警器](https://museumcrush.org/this-device-was-used-to-resuscitate-canaries-in-coal-mines/)
 
-1896年，一个英国工程师确认，煤矿爆炸是由于一氧化碳聚集造成的，需要找到一种方法，能够快速发现地下煤矿的一氧化碳泄漏。
+1896 年，一个英国工程师确认，煤矿爆炸是由于一氧化碳聚集造成的，需要找到一种方法，能够快速发现地下煤矿的一氧化碳泄漏。
 
 他想到了金丝雀，一氧化碳也会造成金丝雀中毒死亡，但是金丝雀比人类敏感，只要少量气体就有反应。人类看到金丝雀不行了，就知道一氧化碳泄漏了。
 
@@ -344,7 +344,7 @@ Python 的 Web 框架 streamlit 的一个组件库。（[@ObservedObserver](http
 
 最近的一项研究表明，互联网可能会助长人们的“知识错觉”，过度自信自己的技能水平。
 
-研究人员让实验的参与者，重复观看某种技能的视频，例如投飞镖或者跳霹雳舞的视频，最多可以看20次。
+研究人员让实验的参与者，重复观看某种技能的视频，例如投飞镖或者跳霹雳舞的视频，最多可以看 20 次。
 
 看完以后，参与者需要预估一下，自己对这项技能的掌握程度。
 
@@ -362,7 +362,7 @@ Python 的 Web 框架 streamlit 的一个组件库。（[@ObservedObserver](http
 
 如果你换一种心态：无论情况多糟糕，这始终是你自己的问题，并且你尽力来解决它。我认为这更有效。
 
--- [查理·芒格](https://www.butwhatfor.com/p/takeaway-tuesday-facing-adversity-charlie-munger)，美国著名投资家，本周去世，享年99岁
+-- [查理·芒格](https://www.butwhatfor.com/p/takeaway-tuesday-facing-adversity-charlie-munger)，美国著名投资家，本周去世，享年 99 岁
 
 2、
 
@@ -403,4 +403,3 @@ Python 的 Web 框架 streamlit 的一个组件库。（[@ObservedObserver](http
 [技术解决不了人类的对立](https://www.ruanyifeng.com/blog/2019/11/weekly-issue-83.html)（2019 #83）
 
 （完）
-

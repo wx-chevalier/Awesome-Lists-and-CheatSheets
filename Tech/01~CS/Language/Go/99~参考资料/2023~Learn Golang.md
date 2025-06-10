@@ -3061,7 +3061,7 @@
 - [ ] https://github.com/Goqi/Duoli
 - [ ] https://github.com/fatedier/frp | 快速反向代理 | 40.3k
 - [ ] https://github.com/ehang-io/nps | 功能强大的内网穿透代理服务器 | 17.3k
-- [ ] https://github.com/drk1wi/Modlishka | 莫德利什卡，反向代理。 | 3.6k
+- [ ] https://github.com/drk1wi/Modlishka | 莫德利什卡，反向代理。| 3.6k
 - [ ] https://github.com/ginuerzh/gost | GO 语言实现的安全隧道 | 7.8k
 - [ ] https://github.com/nicocha30/ligolo-ng
 - [ ] https://github.com/jpillora/chisel

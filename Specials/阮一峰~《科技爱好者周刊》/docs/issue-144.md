@@ -18,11 +18,11 @@
 
 挪威和孟加拉是两个截然不同的国家，但是它们有一个共同点：渔业都是两国的主要产业，很多人以打渔为生。
 
-挪威渔民非常有钱，挪威是世界上最富裕的国家之一，人均 GDP 接近8万美元。
+挪威渔民非常有钱，挪威是世界上最富裕的国家之一，人均 GDP 接近 8 万美元。
 
 ![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012603.jpg)
 
-孟加拉国属于世界最贫穷的国家，人均 GDP 大约2000美元。
+孟加拉国属于世界最贫穷的国家，人均 GDP 大约 2000 美元。
 
 ![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012604.jpg)
 
@@ -30,7 +30,7 @@
 
 你可能马上就会想到，他们的设备不一样，影响了收入。挪威渔民拥有大型现代化渔船，接受过各种培训，只要几个人就能捕到大量的鱼，所以收入高。孟加拉渔民只有小渔船，捕鱼能力有限，所以收入低。
 
-上个世纪70年代，发生了一件事情。挪威向孟加拉国赠送了现代化渔船，作为援助。
+上个世纪 70 年代，发生了一件事情。挪威向孟加拉国赠送了现代化渔船，作为援助。
 
 孟加拉渔民现在有了同样的设备，能够提高收入吗？
 
@@ -40,13 +40,13 @@
 
 一条现代化渔船，其实不仅仅是单纯的一条船，而是许多千丝万缕的因素联合在一起，使它能够建造出来，并得以良好地运行。
 
-这件事的启示就是， **一个国家比另一个国家富裕，很大程度上并不取决于人民是否努力工作** （孟加拉人的努力程度，事实上可能远胜于挪威人），也不取决于设备，而是取决于许多其他因素，比如资本、知识技能、基础设施、销售渠道等等。所有这些外部因素，才是国家富裕的根本原因，人民的努力不是决定性因素。
+这件事的启示就是，**一个国家比另一个国家富裕，很大程度上并不取决于人民是否努力工作** （孟加拉人的努力程度，事实上可能远胜于挪威人），也不取决于设备，而是取决于许多其他因素，比如资本、知识技能、基础设施、销售渠道等等。所有这些外部因素，才是国家富裕的根本原因，人民的努力不是决定性因素。
 
-这个道理放到人的身上，也是一样的。 **人与人的收入不一样，原因不是甲比乙更努力，而是很多外部因素综合起来的结果。** 甲拥有的资本、技能和环境条件超过了乙，使得甲所在的层次高于乙。一个餐厅服务员，无论怎样努力，收入恐怕都不会超过基金经理，道理就在这里。
+这个道理放到人的身上，也是一样的。**人与人的收入不一样，原因不是甲比乙更努力，而是很多外部因素综合起来的结果。** 甲拥有的资本、技能和环境条件超过了乙，使得甲所在的层次高于乙。一个餐厅服务员，无论怎样努力，收入恐怕都不会超过基金经理，道理就在这里。
 
 这告诉我们，如果你想真正地提高收入，努力仅仅是一部分的因素，更重要的是，你必须设法提升自己的资本、技能和环境的层次。
 
-就像[第21期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-21.html)说过的，你需要的不是“水平方向的努力”，而是“垂直方向的努力”。
+就像[第 21 期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-21.html)说过的，你需要的不是“水平方向的努力”，而是“垂直方向的努力”。
 
 ## Vue 3 PK React 17 特训营
 
@@ -54,27 +54,27 @@ React 和 Vue 是国内最流行的两个前端框架，孰优孰劣的争论，
 
 > - “ Vue 只适合小项目，大项目扛不起来”
 > - “ React 组件太复杂，代码组织乱！“
-> - “ Vue好上手，岗位多”
+> - “ Vue 好上手，岗位多”
 > - “ 大厂基本都用 React，不用 Vue ”
 
 其实大可不必，它们各有特点，都能解决前端开发的问题，你只要选择更适合自己风格的那种就可以了。这就像不同品牌的汽车，都能开到目的地，只是你开起来顺不顺手而已。
 
 不过，这两个框架的对比和争论，并非全无意义。
 
-> 1、面试时，React 和 Vue 各自的特点是常见的面试题。  
-> 2、如果你想做架构师或技术负责人，进行技术选型时，必须对各个框架都非常了解。  
+> 1、面试时，React 和 Vue 各自的特点是常见的面试题。
+> 2、如果你想做架构师或技术负责人，进行技术选型时，必须对各个框架都非常了解。
 > 3、通过对比，可以抽象出一些本质上共通的东西，比如算法、工程化方法、规范等等，帮你构建技术壁垒，保持核心竞争力。
 
-本周的课程资料，就是一个讲解 React 和 Vue 对比的视频课程 **《Vue3.0 PK React17 核心力特训营》** （上课时间：2月1日-2月3日每晚 8:00）。它从框架原理开始讲起，再到现实业务场景，最后抽象二者的底层，层层递进，帮你深入掌握这两个框架的异同。
+本周的课程资料，就是一个讲解 React 和 Vue 对比的视频课程 **《Vue3.0 PK React17 核心力特训营》** （上课时间：2 月 1 日-2 月 3 日每晚 8:00）。它从框架原理开始讲起，再到现实业务场景，最后抽象二者的底层，层层递进，帮你深入掌握这两个框架的异同。
 
 ![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012901.jpg)
 
-该课程由开课吧提供，主讲老师是前百度、360架构师、Vue 3.0 contributor 大圣老师。通过这个课程，你不仅能掌握 Vue3 和 React17 设计思路和面试技巧，也能对比框架生态，了解技术选型方法论、探究框架原理。此外，还有答疑和作业讲解，并能获得大圣老师精心总结的独家资料：
+该课程由开课吧提供，主讲老师是前百度、360 架构师、Vue 3.0 contributor 大圣老师。通过这个课程，你不仅能掌握 Vue3 和 React17 设计思路和面试技巧，也能对比框架生态，了解技术选型方法论、探究框架原理。此外，还有答疑和作业讲解，并能获得大圣老师精心总结的独家资料：
 
 > - 《Vue 和 React 框架大厂面试题通关指南.pdf》
 > - 《Vue3 & React17 进阶知识地图》
 
-训练营原价399元，周刊读者只需  **0.99元** ！优惠价仅限200名，微信扫描下面的二维码，就可以加入。
+训练营原价 399 元，周刊读者只需 **0.99 元** ！优惠价仅限 200 名，微信扫描下面的二维码，就可以加入。
 
 ![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012802.jpg)
 
@@ -90,7 +90,7 @@ React 和 Vue 是国内最流行的两个前端框架，孰优孰劣的争论，
 
 ![](https://cdn.beekka.com/blogimg/asset/202101/bg2021011906.jpg)
 
-该充电弓是世界功率最大的汽车充电装置，可以达到 900kW，同时也拥有世界“最快”充电速度，充电40秒，续航10公里。充满需要8分钟，可跑40公里。而且，它非常节省空间，适合部署在城市马路边。
+该充电弓是世界功率最大的汽车充电装置，可以达到 900kW，同时也拥有世界“最快”充电速度，充电 40 秒，续航 10 公里。充满需要 8 分钟，可跑 40 公里。而且，它非常节省空间，适合部署在城市马路边。
 
 2、[破解人脸识别](https://www.toutiao.com/i6922318320272278028/)
 
@@ -110,18 +110,17 @@ iPhone 的人脸识别使用 3D 摄像头，所以可以区分平面照片和真
 
 ![](https://cdn.beekka.com/blogimg/asset/202101/bg2021011103.jpg)
 
-以色列公司 Watergen 推出一款空气冷凝机，可直接转换空气中的水气成为饮用水，一天产量为5000-6000公升，如果一个人一天所需要的水量为1公升的话，则满足5000人的生存需求。
+以色列公司 Watergen 推出一款空气冷凝机，可直接转换空气中的水气成为饮用水，一天产量为 5000-6000 公升，如果一个人一天所需要的水量为 1 公升的话，则满足 5000 人的生存需求。
 
 它的原理是吸入空气，通过内部的热交换系统，将空气的温度降至露水点，从而获得液态水。它需要外部供电，Watergen 号称该系统的产水效率是其他系统的五倍以上，非常适合解决沙漠地区或者艰困环境的饮水问题。
 
 4、[白宫官网改版](https://wptavern.com/biden-white-house-sticks-with-wordpress-for-website-relaunch)
 
-1月20日，美国新总统拜登上任，白宫官网 [whitehouse.gov](https://www.whitehouse.gov/) 当天就改版了。
+1 月 20 日，美国新总统拜登上任，白宫官网 [whitehouse.gov](https://www.whitehouse.gov/) 当天就改版了。
 
 ![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012101.jpg)
 
-
-2017年，特朗普政府将白宫官网的 CMS（内容管理系统）从 Drupal 改成了 WordPress，原因是后者的维护和开发比较省钱，据说每年可以为美国纳税人节省300万美元。
+2017 年，特朗普政府将白宫官网的 CMS（内容管理系统）从 Drupal 改成了 WordPress，原因是后者的维护和开发比较省钱，据说每年可以为美国纳税人节省 300 万美元。
 
 这一次，拜登政府的改版沿用了 WordPress，并没有改回奥巴马时代的 Drupal，看来不打算推翻特朗普政府的这个决定。值得一提的是，改版后的官网性能表现很好，Lighthouse 得分接近满分。
 
@@ -137,25 +136,25 @@ iPhone 的人脸识别使用 3D 摄像头，所以可以区分平面照片和真
 
 6、**一句话消息**
 
-> - [加州的洛杉矶港](https://www.freightwaves.com/news/inside-californias-colossal-container-ship-traffic-jam/)去年下半年至今，有许多巨大的集装箱船，导致港口水道都堵住了。这是因为美国大量从亚洲进口货物，港口的46个泊位全部停满，还有几十艘集装箱船在港外下锚，等着泊位空出来。
+> - [加州的洛杉矶港](https://www.freightwaves.com/news/inside-californias-colossal-container-ship-traffic-jam/)去年下半年至今，有许多巨大的集装箱船，导致港口水道都堵住了。这是因为美国大量从亚洲进口货物，港口的 46 个泊位全部停满，还有几十艘集装箱船在港外下锚，等着泊位空出来。
 
 ![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012105.jpg)
 
 ![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012104.jpg)
 
-> - [谷歌](https://bodhi.fedoraproject.org/updates/FEDORA-2021-48866282e5%29)宣布，今年3月15日起，Chrome 浏览器的开源版本 Chromium 不再能够调用谷歌 API，这意味着Chromium 的书签、浏览记录等将都无法同步了。
+> - [谷歌](https://bodhi.fedoraproject.org/updates/FEDORA-2021-48866282e5%29)宣布，今年 3 月 15 日起，Chrome 浏览器的开源版本 Chromium 不再能够调用谷歌 API，这意味着 Chromium 的书签、浏览记录等将都无法同步了。
 
 ![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012506.jpg)
 
-> - [一种叫做 Brood X 的蝉](https://www.cicadamania.com/cicadas/category/types/magicicada/)是美国的主要蝉类，每17年繁殖一次。它上一次出现是2004年，它的卵会在地下等17年才孵化，今年又将重新出现。
+> - [一种叫做 Brood X 的蝉](https://www.cicadamania.com/cicadas/category/types/magicicada/)是美国的主要蝉类，每 17 年繁殖一次。它上一次出现是 2004 年，它的卵会在地下等 17 年才孵化，今年又将重新出现。
 
 ![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012106.jpg)
 
-> - [考古学家](https://www.caitlingreen.org/2020/12/another-medieval-chinese-coin-from-england.html)在英国发现两枚11世纪北宋时期的中国硬币。由于当地离海边不远，并出土过中国陶瓷，因此猜测中国硬币是中世纪的陶瓷商人携带过来的。
+> - [考古学家](https://www.caitlingreen.org/2020/12/another-medieval-chinese-coin-from-england.html)在英国发现两枚 11 世纪北宋时期的中国硬币。由于当地离海边不远，并出土过中国陶瓷，因此猜测中国硬币是中世纪的陶瓷商人携带过来的。
 
 ![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012208.jpg)
 
-> - [马斯克](https://www.cnbc.com/2021/01/22/elon-musk-tesla-ceo-donates-to-carbon-capture-technology-prize.html)宣布，一旦科学界找到最佳的二氧化碳捕捉技术，他将为该技术捐款1亿美元。
+> - [马斯克](https://www.cnbc.com/2021/01/22/elon-musk-tesla-ceo-donates-to-carbon-capture-technology-prize.html)宣布，一旦科学界找到最佳的二氧化碳捕捉技术，他将为该技术捐款 1 亿美元。
 
 ![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012806.jpg)
 
@@ -165,7 +164,7 @@ iPhone 的人脸识别使用 3D 摄像头，所以可以区分平面照片和真
 
 ![](https://cdn.beekka.com/blogimg/asset/202101/bg2021011512.jpg)
 
-中国有10万座水坝，是世界水坝最多的国家。本文以大量的图片，介绍不同类型水坝的知识。
+中国有 10 万座水坝，是世界水坝最多的国家。本文以大量的图片，介绍不同类型水坝的知识。
 
 2、[我开发付费 Chrome 插件的经历](https://blog.t9t.io/star-history-2021-01-21/)（中文）
 
@@ -189,7 +188,7 @@ iPhone 的人脸识别使用 3D 摄像头，所以可以区分平面照片和真
 
 Linux 系统有很多配置文件，比如`.bashrc`、`.vimrc`等等，一个很方便的管理方法，就是把它们放到一个 Git 仓库，然后使用 Stow 这个工具产生软链接。
 
-7、[2021年 favicon 的设置](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)（英文）
+7、[2021 年 favicon 的设置](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)（英文）
 
 网站的 favicon 应该怎么设置？这篇文章给出了最新的建议。
 
@@ -199,7 +198,7 @@ Linux 系统有很多配置文件，比如`.bashrc`、`.vimrc`等等，一个很
 
 9、[我怎样建立没有一家全职员工的公司](https://sahillavingia.com/work)（英文）
 
-作者讲述自己创立 Gumroad 这家公司，年收入达到1100万美元，但是没有一个全职员工，连作者自己都不是全职投入。这可以算是创业的理想境界。
+作者讲述自己创立 Gumroad 这家公司，年收入达到 1100 万美元，但是没有一个全职员工，连作者自己都不是全职投入。这可以算是创业的理想境界。
 
 10、[视频编码器的专利费](https://blog.mozilla.org/blog/2018/07/11/royalty-free-web-video-codecs/)（英文）
 
@@ -237,13 +236,13 @@ Python 的数据可视化图表生成工具，基于蚂蚁集团开源的 G2Plot
 
 ![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012214.jpg)
 
-一个开源的辅助驾驶系统，可以自动车道居中和自适应巡航控制，已经支持85种车型。（[@dllen](https://github.com/ruanyf/weekly/issues/1604) 投稿）
+一个开源的辅助驾驶系统，可以自动车道居中和自适应巡航控制，已经支持 85 种车型。（[@dllen](https://github.com/ruanyf/weekly/issues/1604) 投稿）
 
 6、[Swagger 文档导出](https://www.docs4dev.com/tools/zh/swagger2markup/)
 
 ![](https://cdn.beekka.com/blogimg/asset/202101/bg2021012215.jpg)
 
-一个在线工具，可以将 Swagger 文档（yaml 或者 json 格式）导出为PDF、Markdown、EPUB、HTML 等格式。（[@docs4dev](https://github.com/ruanyf/weekly/issues/1605) 投稿）
+一个在线工具，可以将 Swagger 文档（yaml 或者 json 格式）导出为 PDF、Markdown、EPUB、HTML 等格式。（[@docs4dev](https://github.com/ruanyf/weekly/issues/1605) 投稿）
 
 7、[Basemark](https://web.basemark.com/)
 
@@ -291,7 +290,7 @@ Python 的数据可视化图表生成工具，基于蚂蚁集团开源的 G2Plot
 
 该网站收集了全世界几十个国家的艺术家创作的 VR 视频，可以戴 VR 眼镜欣赏。
 
-6、[2020数学艺术展](http://www.ams.org/publicoutreach/math-imagery/2020-Exhibition)
+6、[2020 数学艺术展](http://www.ams.org/publicoutreach/math-imagery/2020-Exhibition)
 
 ![](https://cdn.beekka.com/blogimg/asset/202101/bg2021010902.jpg)
 
@@ -335,17 +334,17 @@ Paludarium 不仅可以控制内部温度和湿度，还具有喷雾和滴灌系
 
 1、[软件业的停滞](https://alarmingdevelopment.org/?p=1475)
 
-软件技术的进步，在1996年左右基本停滞了。
+软件技术的进步，在 1996 年左右基本停滞了。
 
-1996年之前，我们取得的软件成果：LISP，Algol，Basic，APL，Unix，C，SQL，Oracle，Smalltalk，Windows，C ++，LabView，HyperCard，Mathematica，Haskell，WWW，Python，Mosaic，Java，JavaScript，Ruby，Flash，Postgress。
+1996 年之前，我们取得的软件成果：LISP，Algol，Basic，APL，Unix，C，SQL，Oracle，Smalltalk，Windows，C ++，LabView，HyperCard，Mathematica，Haskell，WWW，Python，Mosaic，Java，JavaScript，Ruby，Flash，Postgress。
 
-1996年以后的软件成果：IntelliJ，Eclipse，ASP，Spring，Rails，Scala，AWS，Clojure，Heroku，V8，Go，Rust，React，Docker，Kubernetes，Wasm。
+1996 年以后的软件成果：IntelliJ，Eclipse，ASP，Spring，Rails，Scala，AWS，Clojure，Heroku，V8，Go，Rust，React，Docker，Kubernetes，Wasm。
 
 后面那些软件成果，都是对此前技术成果的增量改进。比如，Rails 通过良好的结构化方式将一堆现有技术粘合在一起，从而极大地提高了 Web 应用程序的生产率，但是它本身没有发明任何新东西。同样地，V8 通过扩展 Smalltalk 和 Java 中发明的技术，加速 JavaScript 执行速度。
 
-自从1996年以来，几乎所有东西都是巧妙地重新包装和重新设计了先前的发明。
+自从 1996 年以来，几乎所有东西都是巧妙地重新包装和重新设计了先前的发明。
 
-为什么1996年以后，软件技术突然停止了进展？1996年到底发生了什么？
+为什么 1996 年以后，软件技术突然停止了进展？1996 年到底发生了什么？
 
 我认为原因就是互联网开始繁荣。突然之间，程序员有史以来第一次可以迅速致富，大量聪明的有抱负的人涌入了硅谷。但是，你不能在创业公司做研究，基础技术需要很长时间酝酿，并且风险很大。合理的商业计划是利用 VC 的资金，将其投入到最优秀的程序员，让他们改进当前糟糕的技术，然后兑现获利。创业公司没有发明基础技术的时间。
 
@@ -363,7 +362,7 @@ Paludarium 不仅可以控制内部温度和湿度，还具有喷雾和滴灌系
 
 第二天，他做了一个更大的实验。他拿斧头砍一棵大山毛榉树。他听到树发出的深沉而悲惨的呻吟。
 
-克劳斯纳赶回屋子，给医生打电话：“请过来，快来。我想让其他人听到。太难以置信了！” 
+克劳斯纳赶回屋子，给医生打电话：“请过来，快来。我想让其他人听到。太难以置信了！”
 
 医生同意过来，听听耳机里面的声音。
 
@@ -375,13 +374,13 @@ Paludarium 不仅可以控制内部温度和湿度，还具有喷雾和滴灌系
 
 1、
 
-协和飞机是一架超音速客机，于1969年首飞，距今已经超过50年。1969年的人们大概以为，我们现在应该生活在太空中，或者到处都是飞行汽车，而不会想到今天最快的客机依然比协和飞机慢。
+协和飞机是一架超音速客机，于 1969 年首飞，距今已经超过 50 年。1969 年的人们大概以为，我们现在应该生活在太空中，或者到处都是飞行汽车，而不会想到今天最快的客机依然比协和飞机慢。
 
 -- [Lyn Alden](https://www.lynalden.com/ethereum-analysis/)
 
 2、
 
-我和其他工程师一样，都有 MacBook Pro。再过几年，所有这些机器都会被淘汰，被新的 ARM 芯片的型号取代。到那时，开发者会觉得，在ARM 机器上开发，但是在 x86 服务器上进行部署的想法，将是令人不舒服的。因此，苹果公司的“换芯”行动，会大大加速服务器的变革，从 x86 架构转向 ARM 架构。
+我和其他工程师一样，都有 MacBook Pro。再过几年，所有这些机器都会被淘汰，被新的 ARM 芯片的型号取代。到那时，开发者会觉得，在 ARM 机器上开发，但是在 x86 服务器上进行部署的想法，将是令人不舒服的。因此，苹果公司的“换芯”行动，会大大加速服务器的变革，从 x86 架构转向 ARM 架构。
 
 -- [Hacker News 读者](https://news.ycombinator.com/item?id=25834066)
 
@@ -405,11 +404,11 @@ C 语言很保守，变化和增长非常缓慢。这其实是一项吸引人的
 
 ## 回顾
 
-2020年的本周（第 93 期）：[漫游类的游戏，将会越来越多](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-93.html)
+2020 年的本周（第 93 期）：[漫游类的游戏，将会越来越多](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-93.html)
 
 ![](https://cdn.beekka.com/blogimg/asset/201912/bg2019121509.jpg)
 
-2019年的本周（第 41 期）：[如何看待互联网公司裁员？](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-41.html)
+2019 年的本周（第 41 期）：[如何看待互联网公司裁员？](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-41.html)
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019012501.jpg)
 

@@ -8,7 +8,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032108.webp)
 
-上图是2022年世界自然摄影奖的获奖作品，保加利亚中部城市旧扎戈拉的一只红隼，在一盏生锈的路灯里安家，彷佛很多人在大都市的处境。（[via](https://nicenews.com/environment/2022-world-nature-photography-awards/)）
+上图是 2022 年世界自然摄影奖的获奖作品，保加利亚中部城市旧扎戈拉的一只红隼，在一盏生锈的路灯里安家，彷佛很多人在大都市的处境。（[via](https://nicenews.com/environment/2022-world-nature-photography-awards/)）
 
 ## 本周话题：不要夸大 ChatGPT
 
@@ -25,8 +25,8 @@ ChatGPT 问世只有几个月，大家有没有发现，舆论的调门越来越
 一个国内的作者则[说](https://www.163.com/dy/article/I0OFPKOV05561KQ6.html)，它会“席卷一切”。
 
 > “ChatGPT 带来的这场风暴，正在席卷一切。
-> 
-> 随着不断的技术提升，可以预见，GPT类型的 AI，未来能替代的，也许是全行业！”
+>
+> 随着不断的技术提升，可以预见，GPT 类型的 AI，未来能替代的，也许是全行业！”
 
 还有人担心它会淘汰人类，有的文章标题堪称惊悚，《[AI 狂飙的时代，人还有价值吗？](https://www.bohaishibei.com/post/81415/)》。
 
@@ -36,7 +36,7 @@ ChatGPT 问世只有几个月，大家有没有发现，舆论的调门越来越
 
 ![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032801.webp)
 
-这种情绪反映在金融市场，就是“ChatGPT 概念股”被狂炒。一直微利 + 亏损的“汉王科技”，就在 ChatGPT 问世后，股价从11元炒到了40元。
+这种情绪反映在金融市场，就是“ChatGPT 概念股”被狂炒。一直微利 + 亏损的“汉王科技”，就在 ChatGPT 问世后，股价从 11 元炒到了 40 元。
 
 ![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032803.webp)
 
@@ -84,11 +84,11 @@ ChatGPT 的底层技术是 GPT，全称为“生成式预训练转换器”（Ge
 
 ![](https://cdn.beekka.com/blogimg/asset/202303/bg2023033003.webp)
 
-时间是4月13日下午，地点是方恒时尚中心（北京大钟寺地铁站旁）。现场座位有限，扫描上方二维码，了解详情并报名参加。不能到场的同学，可以扫码预约线上直播。
+时间是 4 月 13 日下午，地点是方恒时尚中心（北京大钟寺地铁站旁）。现场座位有限，扫描上方二维码，了解详情并报名参加。不能到场的同学，可以扫码预约线上直播。
 
 **2、[抖音 Android 基础技术大揭秘](https://www.bagevent.com/event/8426971?bag_track=001)**
 
-字节技术沙龙邀请了抖音 Android 团队的5位架构师，与社区交流抖音 Android 客户端的一些开发实践，分享内容如下。
+字节技术沙龙邀请了抖音 Android 团队的 5 位架构师，与社区交流抖音 Android 客户端的一些开发实践，分享内容如下。
 
 > 1. 抖音 Android 包大小代码优化实践
 > 1. 抖音启动性能监控平台建设实践
@@ -96,7 +96,7 @@ ChatGPT 的底层技术是 GPT，全称为“生成式预训练转换器”（Ge
 > 1. 静态代码分析在体验优化中的探索实践
 > 1. 抖音性能防劣化平台极致演绎之路
 
-时间是4月15日下午，扫描下方二维码或者[点击链接](https://www.bagevent.com/event/8426971?bag_track=001)，了解详情并且免费报名预约直播。
+时间是 4 月 15 日下午，扫描下方二维码或者[点击链接](https://www.bagevent.com/event/8426971?bag_track=001)，了解详情并且免费报名预约直播。
 
 ![](https://cdn.beekka.com/blogimg/asset/202303/bg2023033001.webp)
 
@@ -110,15 +110,15 @@ ChatGPT 的底层技术是 GPT，全称为“生成式预训练转换器”（Ge
 
 ![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122002.webp)
 
-根据他的设想，这个厂有75个实验室，每个实验室最多容纳400个生长仓，每年可以培养30,000个婴儿。 
+根据他的设想，这个厂有 75 个实验室，每个实验室最多容纳 400 个生长仓，每年可以培养 30,000 个婴儿。
 
 ![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122003.webp)
 
-胚胎放入生长仓后，就会有传感器24小时监控，并将生命体征、身体特征等数据实时发送到父母手机。父母还可以查看婴儿发育的高清图像，并通过扬声器与其交谈，或者穿上触觉背心感受婴儿的踢动。
+胚胎放入生长仓后，就会有传感器 24 小时监控，并将生命体征、身体特征等数据实时发送到父母手机。父母还可以查看婴儿发育的高清图像，并通过扬声器与其交谈，或者穿上触觉背心感受婴儿的踢动。
 
 ![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122004.webp)
 
-每个生长仓都有两个管道，一个将营养物质和氧气泵入人造脐带，另一个排出废物。 
+每个生长仓都有两个管道，一个将营养物质和氧气泵入人造脐带，另一个排出废物。
 
 一旦婴儿发育成熟，就可以从生长仓取出，交给父母养育。
 
@@ -138,11 +138,11 @@ ChatGPT 的底层技术是 GPT，全称为“生成式预训练转换器”（Ge
 
 3、[流行歌曲越来越短](https://www.billboard.com/pro/songs-getting-shorter-tiktok-streaming/)
 
-一项研究发现，从2000年开始，流行歌曲的长度越来越短。
+一项研究发现，从 2000 年开始，流行歌曲的长度越来越短。
 
 ![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122001.webp)
 
-一首歌的平均长度，从以前的4分10秒下降到大约3分30秒。2021年美国前50首最流行的歌曲，平均时长更短，仅为3分07秒，其中38%的歌曲甚至不到3分钟。
+一首歌的平均长度，从以前的 4 分 10 秒下降到大约 3 分 30 秒。2021 年美国前 50 首最流行的歌曲，平均时长更短，仅为 3 分 07 秒，其中 38%的歌曲甚至不到 3 分钟。
 
 研究者认为，这表明人们的关注周期越来越短，如果不能很快听到精彩部分，就会感到不耐烦，不再听下去。另外，Tiktok 短视频的流行，也加剧了这种趋势。
 
@@ -170,7 +170,7 @@ ChatGPT 的底层技术是 GPT，全称为“生成式预训练转换器”（Ge
 
 ![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122102.webp)
 
-加热方法是在镜片涂上一层极薄的、透明的金属涂层。这个涂层会吸收太阳的红外线，使得镜片升温8摄氏度，缺点是在没有灯光的夜间，它就不起作用。
+加热方法是在镜片涂上一层极薄的、透明的金属涂层。这个涂层会吸收太阳的红外线，使得镜片升温 8 摄氏度，缺点是在没有灯光的夜间，它就不起作用。
 
 ## 文章
 
@@ -202,9 +202,9 @@ Cloudflare R2 是一个新推出的对象存储服务，比起老牌的 AWS S3�
 
 ![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102201.webp)
 
-本文回顾了苹果官网的变化，从最早的样子一直到现在，可以勾起很多回忆。上图是1997年乔布斯回到苹果之前的主页，怪不得当时濒临破产。
+本文回顾了苹果官网的变化，从最早的样子一直到现在，可以勾起很多回忆。上图是 1997 年乔布斯回到苹果之前的主页，怪不得当时濒临破产。
 
-6、[AV1 视频编码支持情况（2022版）](https://bitmovin.com/av1-playback-support/)（英文）
+6、[AV1 视频编码支持情况（2022 版）](https://bitmovin.com/av1-playback-support/)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102205.webp)
 
@@ -404,7 +404,7 @@ AV1 是最新的视频编码格式，可以节省流量。本文介绍了它目�
 
 大多数书籍本应是一篇博客文章。大多数博客文章本应是一条微博。大多数微博本应不写。
 
--- [《发布 Newsletter 35年的35条教训》](https://www.cjchilvers.com/blog/35-lessons-from-35-years-of-newsletter-publishing/)
+-- [《发布 Newsletter 35 年的 35 条教训》](https://www.cjchilvers.com/blog/35-lessons-from-35-years-of-newsletter-publishing/)
 
 ## 历史上的本周
 
@@ -414,17 +414,16 @@ AV1 是最新的视频编码格式，可以节省流量。本文介绍了它目�
 
 [互联网不再稀缺](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-101.html)（2020 #101）
 
-[为什么过去10年，笔记本硬件发展缓慢？](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-51.html)（2019 #51）
+[为什么过去 10 年，笔记本硬件发展缓慢？](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-51.html)（2019 #51）
 
 ## 鸣谢
 
 周刊得到国内新一代知识管理与协作平台 [FlowUs](https://flowus.cn?promotionChannel=GW_RYF_01) 的帮助，深表感谢。
 
-[FlowUS](https://flowus.cn?promotionChannel=GW_RYF_01)  = 文档 + 表格 + 网盘。你可以用它写文档、做主页、管理数据、存储文件等等。
+[FlowUS](https://flowus.cn?promotionChannel=GW_RYF_01) = 文档 + 表格 + 网盘。你可以用它写文档、做主页、管理数据、存储文件等等。
 
 每一期周刊同时发布在[ FlowUs 专栏](https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00)，欢迎大家也去开通自己的专栏和主页。
 
 ![](https://cdn.beekka.com/blogimg/asset/202303/bg2023030205.webp)
 
 （完）
-

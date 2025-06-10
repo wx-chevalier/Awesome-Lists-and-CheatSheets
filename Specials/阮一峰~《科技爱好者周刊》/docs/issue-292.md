@@ -8,7 +8,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030705.webp)
 
-意大利佛罗伦萨新机场，宣布了设计方案。候机楼顶部将有一个7.7公顷的葡萄种植园，用来酿造当地著名的葡萄酒。（[via](https://www.euronews.com/travel/2024/02/14/wine-meets-travel-florences-new-airport-will-have-a-vineyard-on-its-roof)）
+意大利佛罗伦萨新机场，宣布了设计方案。候机楼顶部将有一个 7.7 公顷的葡萄种植园，用来酿造当地著名的葡萄酒。（[via](https://www.euronews.com/travel/2024/02/14/wine-meets-travel-florences-new-airport-will-have-a-vineyard-on-its-roof)）
 
 ## 所有代码都是技术债
 
@@ -52,18 +52,18 @@
 
 主流的 AI 模型，目前都是收费制。如果同时使用多个模型，每月是一笔不小的费用，而且过程很麻烦。
 
-> - GPT-4：20美元/月
-> - 文心一言：49.9元人民币/月
-> - Midjourney：10美元/月
-> - DALL-E：每张图片0.02美元
+> - GPT-4：20 美元/月
+> - 文心一言：49.9 元人民币/月
+> - Midjourney：10 美元/月
+> - DALL-E：每张图片 0.02 美元
 
 国内新出的“葫芦 AI”（HuLu AI），尝试解决这个问题。**它在同一个界面，提供上面四个模型的访问**，相当于“四合一”的国内镜像。
 
-这个服务刚刚推出，目前处在推广期，优惠力度很大，**只要298元，就可以永久无限量使用**，免除逐一访问 GPT4 / 文心一言 / Midjourney / DALL-E 的麻烦，而且访问速度快。
+这个服务刚刚推出，目前处在推广期，优惠力度很大，**只要 298 元，就可以永久无限量使用**，免除逐一访问 GPT4 / 文心一言 / Midjourney / DALL-E 的麻烦，而且访问速度快。
 
 ![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030706.webp)
 
-葫芦 AI 希望通过周刊，向国内的开发者介绍自己。推广期结束后，他们将恢复原价498元。
+葫芦 AI 希望通过周刊，向国内的开发者介绍自己。推广期结束后，他们将恢复原价 498 元。
 
 它有试用点数，只要扫描上方海报的二维码，就可以**免费试用**。大家觉得效果满意，再考虑付费。
 
@@ -85,7 +85,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121910.webp)
 
-这么一个小玩意，在亚马逊的售价居然为30英镑（270元人民币）。
+这么一个小玩意，在亚马逊的售价居然为 30 英镑（270 元人民币）。
 
 2、[无音爆的超音速客机](https://techxplore.com/news/2024-01-nasa-lockheed-martin-reveal-quiet.html)
 
@@ -95,7 +95,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011704.webp)
 
-这架飞机长约30米，细长的圆锥形机头几乎占其整架飞机的三分之一。据说这种结构可以消除导致音爆的冲击波。
+这架飞机长约 30 米，细长的圆锥形机头几乎占其整架飞机的三分之一。据说这种结构可以消除导致音爆的冲击波。
 
 由于它的机头太长，驾驶室几乎位于整机二分之一的位置。这样的超音速飞机即使没有音爆，也载不了多少乘客吧。
 
@@ -151,11 +151,11 @@
 
 3、[入行 15 年，我还是觉得编程很难](https://mp.weixin.qq.com/s/B7Z0ROkiBqqxVKkLNR9BxQ)（中文）
 
-腾讯技术专家对其15年程序人生的思考，总结了8点经验看法。
+腾讯技术专家对其 15 年程序人生的思考，总结了 8 点经验看法。
 
-4、[100万级安装量的开源作品，一年有多少打赏收入？](https://juejin.cn/post/7341593721100451880)（中文）
+4、[100 万级安装量的开源作品，一年有多少打赏收入？](https://juejin.cn/post/7341593721100451880)（中文）
 
-作者在自己的开源作品里面，放了一个赞赏码，一年带来330元的收入。（[@xxxily](https://github.com/ruanyf/weekly/issues/4092) 投稿）
+作者在自己的开源作品里面，放了一个赞赏码，一年带来 330 元的收入。（[@xxxily](https://github.com/ruanyf/weekly/issues/4092) 投稿）
 
 5、[HTML 的 Switch 控件](https://webkit.org/blog/15054/an-html-switch-control/)（英文）
 
@@ -247,7 +247,7 @@ Docker 容器里运行 Windows 系统，可选择 Win7，Win10，Win11 等，支
 
 ![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030503.webp)
 
-一个封面图片制作的在线工具。 [Demo](https://www.duelpeak.com/pages/poster)。（[@zobor](https://github.com/ruanyf/weekly/issues/4094) 投稿）
+一个封面图片制作的在线工具。[Demo](https://www.duelpeak.com/pages/poster)。（[@zobor](https://github.com/ruanyf/weekly/issues/4094) 投稿）
 
 11、[opfs-tools](https://github.com/hughfenghen/opfs-tools)
 
@@ -271,11 +271,11 @@ Docker 容器里运行 Windows 系统，可选择 Win7，Win10，Win11 等，支
 
 第一期活动的主题，就是现在最热门的 AI，由稀土掘金社区和扣子（coze.cn）共同发起。**本次活动通过动手实操的方式，让你的想法和创意在 AI 的帮助下落地。**
 
-活动分为3月16日的[北京场](https://www.bagevent.com/event/8791420?bag_track=ryf)和3月30日的[深圳场](https://www.bagevent.com/event/8796081?bag_track=ryf)，地点就在北京/深圳的字节工区。
+活动分为 3 月 16 日的[北京场](https://www.bagevent.com/event/8791420?bag_track=ryf)和 3 月 30 日的[深圳场](https://www.bagevent.com/event/8796081?bag_track=ryf)，地点就在北京/深圳的字节工区。
 
 所有线下参与的同学，除了能够接触 AI 开发以外，还都有机会获得掘金的丰富礼包、以及扣子（coze.cn）的官网推荐、API 内测和官方访谈。
 
-欢迎大家[点击链接](https://www.bagevent.com/event/8791420?bag_track=ryf)，或者扫码海报的二维码，报名参与，进行 AI 开发实操。 
+欢迎大家[点击链接](https://www.bagevent.com/event/8791420?bag_track=ryf)，或者扫码海报的二维码，报名参与，进行 AI 开发实操。
 
 ## 资源
 
@@ -325,7 +325,7 @@ Docker 容器里运行 Windows 系统，可选择 Win7，Win10，Win11 等，支
 
 ![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100801.webp)
 
-它讲述了一个美国人在1914年，登上最后一班从巴黎到伊斯坦布尔的“东方快车”的故事。
+它讲述了一个美国人在 1914 年，登上最后一班从巴黎到伊斯坦布尔的“东方快车”的故事。
 
 整个游戏场景，都发生在车厢内。下面是真实车厢的历史照片。
 
@@ -345,7 +345,7 @@ Docker 容器里运行 Windows 系统，可选择 Win7，Win10，Win11 等，支
 
 ![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030801.webp)
 
-ChatGPT 不理解任何材料，但可以利用这些材料，快速找到问题的合理答案。它会综合和模仿，有时表现得非常令人信服，就像某个知识渊博的人在谈论某个主题。  
+ChatGPT 不理解任何材料，但可以利用这些材料，快速找到问题的合理答案。它会综合和模仿，有时表现得非常令人信服，就像某个知识渊博的人在谈论某个主题。
 
 学术界的很多人也是这样，他们很聪明，吸收了说话和构建理论的方法，并且善于听起来令人信服。
 
@@ -373,7 +373,7 @@ ChatGPT 不理解任何材料，但可以利用这些材料，快速找到问题
 
 2、
 
-浏览器地址栏兼作搜索输入栏，这一定是史上最值钱的 UI 控件。谷歌为了成为这个控件的默认搜索引擎，每年支付 Firefox 4亿美元，Safari 150-200亿美元。
+浏览器地址栏兼作搜索输入栏，这一定是史上最值钱的 UI 控件。谷歌为了成为这个控件的默认搜索引擎，每年支付 Firefox 4 亿美元，Safari 150-200 亿美元。
 
 -- [《史上最值钱的 UI 控件》](https://blog.jim-nielsen.com/2023/most-profitable-ui-element-ever/)
 
@@ -406,4 +406,3 @@ ChatGPT 不理解任何材料，但可以利用这些材料，快速找到问题
 [远程办公暴露冗余岗位](https://www.ruanyifeng.com/blog/2020/02/weekly-issue-95.html)（2020 #95）
 
 （完）
-

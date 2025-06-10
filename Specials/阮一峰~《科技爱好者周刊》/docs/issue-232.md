@@ -6,7 +6,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112303.webp)
 
-一个英国钓鱼爱好者在法国，钓到了世界最大的金鱼，重达30公斤，已经活了20年。拍完照后，他就把金鱼放生了。（[via](https://baijiahao.baidu.com/s?id=1750192547565880670)）
+一个英国钓鱼爱好者在法国，钓到了世界最大的金鱼，重达 30 公斤，已经活了 20 年。拍完照后，他就把金鱼放生了。（[via](https://baijiahao.baidu.com/s?id=1750192547565880670)）
 
 ## 本周话题：好用的平面设计软件
 
@@ -34,15 +34,15 @@
 
 而且，它免费使用，专业用户才需要付费版。它还是一个网页应用，打开浏览器就能用，不必下载安装。
 
-我查了一下，它早就是国际上的行业第一了，估值达到[400亿美元](https://medium.com/@backscoop/canva-hits-40b-valuation-now-the-fifth-most-valua-f19b0c0013da)，排在全世界未上市的独角兽的第5位。
+我查了一下，它早就是国际上的行业第一了，估值达到[400 亿美元](https://medium.com/@backscoop/canva-hits-40b-valuation-now-the-fifth-most-valua-f19b0c0013da)，排在全世界未上市的独角兽的第 5 位。
 
 根据[报道](https://www.pingwest.com/a/273024)，它也是大型互联网公司里面唯一一家女性创办和主管的公司。
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112302.webp)
 
 > Melanie Perkins 并不是技术出身，她曾就读于西澳大利亚大学，主修传播、心理和商业。她大学期间兼职教平面设计的过程中，发现处于“垄断”地位的 Adobe 使用起来门槛很高，同时对于学生党来说价格昂贵。于是，做一个不需要技术经验、人人都可用的设计平台的想法开始在她脑中萌生。
-> 
-> 刚满19岁的她决定辍学，跟自己当时的同学、同时也是未来的丈夫 Cliff Obrecht 创立了一家名为 Fusion Books 的公司，提供了一种设计模板库，允许学生使用简单的拖放工具来个性化地设计自己的学校年鉴。
+>
+> 刚满 19 岁的她决定辍学，跟自己当时的同学、同时也是未来的丈夫 Cliff Obrecht 创立了一家名为 Fusion Books 的公司，提供了一种设计模板库，允许学生使用简单的拖放工具来个性化地设计自己的学校年鉴。
 
 Canva 从一个学生作品，成长到今天这样的规模，反映了平面设计工具的市场有多大。
 
@@ -74,7 +74,7 @@ Canva 从一个学生作品，成长到今天这样的规模，反映了平面�
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112305.webp)
 
-活动时间是12月10日（星期六）下午2点，抖音安卓工程师与观众现场交流。
+活动时间是 12 月 10 日（星期六）下午 2 点，抖音安卓工程师与观众现场交流。
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112304.webp)
 
@@ -84,19 +84,19 @@ Canva 从一个学生作品，成长到今天这样的规模，反映了平面�
 
 1、[步枪射击纪录](https://cowboystatedaily.com/2022/09/20/at-4-4-miles-wyoming-team-sets-new-rifle-shot-world-record/)
 
-美国怀俄明州的一群射击爱好者，创造了步枪命中最远目标的世界纪录，从7公里以外命中目标。
+美国怀俄明州的一群射击爱好者，创造了步枪命中最远目标的世界纪录，从 7 公里以外命中目标。
 
 ![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092402.webp)
 
-靶点是一个直径20厘米的橙色圆点，画在一块 3米 x 2.3米的白板上，放在7公里以外。他们射击了许多次，终于在第69次时，命中了目标。
+靶点是一个直径 20 厘米的橙色圆点，画在一块 3 米 x 2.3 米的白板上，放在 7 公里以外。他们射击了许多次，终于在第 69 次时，命中了目标。
 
 ![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092403.webp)
 
-他们故意将射击场地选在山区，海拔2000多米，那里的空气较稀薄，阻力小，有利于创造纪录。
+他们故意将射击场地选在山区，海拔 2000 多米，那里的空气较稀薄，阻力小，有利于创造纪录。
 
 ![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092404.webp)
 
-7公里的距离是非常惊人的，子弹需要在空中飞行24秒。而且，这个距离还必须考虑地球弧度，因为子弹这时的飞行轨迹已经不是直线了，更接近抛物线，好像炮弹落在目标上。
+7 公里的距离是非常惊人的，子弹需要在空中飞行 24 秒。而且，这个距离还必须考虑地球弧度，因为子弹这时的飞行轨迹已经不是直线了，更接近抛物线，好像炮弹落在目标上。
 
 2、[机器猫](https://www.sohu.com/a/452307124_747919)
 
@@ -104,7 +104,7 @@ Canva 从一个学生作品，成长到今天这样的规模，反映了平面�
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111712.webp)
 
-那是一个直径20厘米的毛茸茸小球，带有一根尾巴，需要充电。
+那是一个直径 20 厘米的毛茸茸小球，带有一根尾巴，需要充电。
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111713.webp)
 
@@ -116,7 +116,7 @@ Canva 从一个学生作品，成长到今天这样的规模，反映了平面�
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111715.webp)
 
-它喜欢日光浴，放在太阳下会露出很舒服的表情。它的售价约为2000元人民币，去年众筹的第一批产品被抢购一空。 
+它喜欢日光浴，放在太阳下会露出很舒服的表情。它的售价约为 2000 元人民币，去年众筹的第一批产品被抢购一空。
 
 3、[空间太阳能电站](https://www.pingwest.com/w/273590)
 
@@ -138,7 +138,7 @@ Canva 从一个学生作品，成长到今天这样的规模，反映了平面�
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112415.webp)
 
-这是通过体育场安装的14个高速摄像头实现的。它们时刻跟踪球的动向，一旦确定球越过了球门线，就会发送信号。
+这是通过体育场安装的 14 个高速摄像头实现的。它们时刻跟踪球的动向，一旦确定球越过了球门线，就会发送信号。
 
 ## 文章
 
@@ -160,7 +160,7 @@ Canva 从一个学生作品，成长到今天这样的规模，反映了平面�
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112203.webp)
 
-一位建筑师接受委托，改造深圳城中村的5栋贴在一起的楼。它们原本都是农民的自建房，最终被改造成一个非常漂亮的现代建筑（上图的彩色建筑物）。
+一位建筑师接受委托，改造深圳城中村的 5 栋贴在一起的楼。它们原本都是农民的自建房，最终被改造成一个非常漂亮的现代建筑（上图的彩色建筑物）。
 
 4、[HTML 的 `<template>` 元素](https://kittygiraudel.com/2022/09/30/templating-in-html/)（英文）
 
@@ -200,7 +200,7 @@ CNAME 域名指的是，将一个域名指向另一个域名的一种机制。�
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112410.webp)
 
-这是眼下最热门的 AI 作图模型，本周发布了[2.0版](https://stability.ai/blog/stable-diffusion-v2-release)。图片质量得到了提高，性能进行了优化。更重要的是，它只需要一个 GPU，家用 PC 就能运行。
+这是眼下最热门的 AI 作图模型，本周发布了[2.0 版](https://stability.ai/blog/stable-diffusion-v2-release)。图片质量得到了提高，性能进行了优化。更重要的是，它只需要一个 GPU，家用 PC 就能运行。
 
 2、[Diffusion Bee](https://diffusionbee.com/)
 
@@ -212,7 +212,7 @@ CNAME 域名指的是，将一个域名指向另一个域名的一种机制。�
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112413.webp)
 
-谷歌发起的一个项目，任何人都可以提交芯片设计，由代工厂以130纳米制程做出来。它的主要目的是建立开源的芯片设计生态，取代目前的封闭生态，参见[介绍文章](https://asianometry.substack.com/p/googles-open-source-hardware-dreams)。
+谷歌发起的一个项目，任何人都可以提交芯片设计，由代工厂以 130 纳米制程做出来。它的主要目的是建立开源的芯片设计生态，取代目前的封闭生态，参见[介绍文章](https://asianometry.substack.com/p/googles-open-source-hardware-dreams)。
 
 4、[Grape](https://www.grape.codes/)
 
@@ -254,7 +254,7 @@ CNAME 域名指的是，将一个域名指向另一个域名的一种机制。�
 
 一个 Python 命令行脚本，用来处理文本文件各种多余的空行空格，提供多种配置项。
 
-## 资源 
+## 资源
 
 1、[Lexica](https://lexica.art/)
 
@@ -278,13 +278,13 @@ Stable Diffusion 模型的搜索引擎，可以搜索这个 AI 作图模型所�
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112401.webp)
 
-一个代码小游戏。它从 GitHub 排名前100的仓库，随机返回一个文件，让你猜是哪一个仓库，参见[介绍文章](https://healeycodes.com/codeguessr)。（[@jerrylususu](https://github.com/ruanyf/weekly/issues/2754) 投稿）
+一个代码小游戏。它从 GitHub 排名前 100 的仓库，随机返回一个文件，让你猜是哪一个仓库，参见[介绍文章](https://healeycodes.com/codeguessr)。（[@jerrylususu](https://github.com/ruanyf/weekly/issues/2754) 投稿）
 
 5、[物联网开发板模拟器](https://wokwi.com/)
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112404.webp)
 
-这个网站模拟各种物联网开发板，比如树莓派 Pico、Arduino、ESP32等。你在网页上输入项目代码，可以看到硬件的模拟执行结果。（[@mingpepe](https://github.com/ruanyf/weekly/issues/2757) 投稿）
+这个网站模拟各种物联网开发板，比如树莓派 Pico、Arduino、ESP32 等。你在网页上输入项目代码，可以看到硬件的模拟执行结果。（[@mingpepe](https://github.com/ruanyf/weekly/issues/2757) 投稿）
 
 ## 图片与视频
 
@@ -292,15 +292,15 @@ Stable Diffusion 模型的搜索引擎，可以搜索这个 AI 作图模型所�
 
 你知道吗，把日历打印成下面的卡片，前面加一个活动窗口。只要移动窗口，就可以表示任意一个月份。
 
-下面是2022年7月，窗口右侧的红框表示周末。
+下面是 2022 年 7 月，窗口右侧的红框表示周末。
 
 ![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063001.webp)
 
-2022年6月。
+2022 年 6 月。
 
 ![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063002.webp)
 
-它的缺点是无法表示本月有多少天，到底有30天还是31天，看不出来。
+它的缺点是无法表示本月有多少天，到底有 30 天还是 31 天，看不出来。
 
 2、[富阳西站的消防演练](https://v.qq.com/x/page/j3362bbbh7h.html)
 
@@ -318,9 +318,9 @@ Stable Diffusion 模型的搜索引擎，可以搜索这个 AI 作图模型所�
 
 本周，我看到一条消息。
 
-澳大利亚证券交易所宣布，放弃开发基于区块链的交易系统。他们为了这个项目，努力了6年，至少花掉了1.65亿美元，最终还是做不出来。
+澳大利亚证券交易所宣布，放弃开发基于区块链的交易系统。他们为了这个项目，努力了 6 年，至少花掉了 1.65 亿美元，最终还是做不出来。
 
-这让我想起了2016年的一件往事。当时，我还在亚马逊云服务 AWS 担任技术主管。
+这让我想起了 2016 年的一件往事。当时，我还在亚马逊云服务 AWS 担任技术主管。
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112418.webp)
 
@@ -396,13 +396,13 @@ Stable Diffusion 模型的搜索引擎，可以搜索这个 AI 作图模型所�
 
 ## 历史上的本周
 
-2021年（第184期）：[政府的存储需求有多大？](https://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html)
+2021 年（第 184 期）：[政府的存储需求有多大？](https://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html)
 
-2020年（第134期）：[未来的游戏业比现在大100倍](https://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html)
+2020 年（第 134 期）：[未来的游戏业比现在大 100 倍](https://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html)
 
-2019年（第82期）：[就业要选发展最快的行业](https://www.ruanyifeng.com/blog/2019/11/weekly-issue-82.html)
+2019 年（第 82 期）：[就业要选发展最快的行业](https://www.ruanyifeng.com/blog/2019/11/weekly-issue-82.html)
 
-2018年（第31期）：[程序员的退休信号](https://www.ruanyifeng.com/blog/2018/11/weekly-issue-31.html)
+2018 年（第 31 期）：[程序员的退休信号](https://www.ruanyifeng.com/blog/2018/11/weekly-issue-31.html)
 
 ## 说明
 
@@ -423,4 +423,3 @@ Stable Diffusion 模型的搜索引擎，可以搜索这个 AI 作图模型所�
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072108.webp)
 
 （完）
-

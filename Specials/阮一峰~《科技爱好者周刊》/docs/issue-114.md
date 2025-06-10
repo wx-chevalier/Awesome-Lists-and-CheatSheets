@@ -10,7 +10,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062707.jpg)
 
-建于1995年的塔克拉玛干沙漠公路，全长552公里，穿越世界第二大流动沙漠。两旁的绿化带采用滴水灌溉，防止公路被沙漠吞没。（ 出处：[Instagram](https://www.instagram.com/p/CBkHgHlBGmT/)）
+建于 1995 年的塔克拉玛干沙漠公路，全长 552 公里，穿越世界第二大流动沙漠。两旁的绿化带采用滴水灌溉，防止公路被沙漠吞没。（ 出处：[Instagram](https://www.instagram.com/p/CBkHgHlBGmT/)）
 
 ## 本周话题：U 盘化生存和 Uber-job
 
@@ -40,7 +40,7 @@ Vue.js 3.0 最近发布了，作为一个主流的前端框架，大家都在对
 
 本周就介绍一门 Vue.js 3.0 的专题课给大家，由京程一灯提供。
 
-目前，市面上的 Vue.js 课程很多，但大部分是基础课程，而且往往没有及时更新。如果你希望全面升级 Vue.js 水平，掌握更多的开发技能，跟上 Vue.js 3.0，不妨看一下这个专题课  ---- **《 Vue 从无到有的思想精髓》** 。
+目前，市面上的 Vue.js 课程很多，但大部分是基础课程，而且往往没有及时更新。如果你希望全面升级 Vue.js 水平，掌握更多的开发技能，跟上 Vue.js 3.0，不妨看一下这个专题课 ---- **《 Vue 从无到有的思想精髓》** 。
 
 它深度讲解了 Vue.js 3.0 那些值得关注的新特性，以及如何进行性能优化，和 Vue.js 在小程序端的应用。这个课程一共有三节课，下面是《课程大纲》。
 
@@ -48,7 +48,7 @@ Vue.js 3.0 最近发布了，作为一个主流的前端框架，大家都在对
 
 注意，该课程适合已经了解 Vue.js 基础用法的开发者，最好有使用经验。目标是通过三节课，带你成为 Vue.js 开发高手。
 
-这个专题课原价98元，现在扫描下面二维码进群，**只要1元** ，无转发等套路。由于名额有限，仅限前100位扫码进群的同学。
+这个专题课原价 98 元，现在扫描下面二维码进群，**只要 1 元** ，无转发等套路。由于名额有限，仅限前 100 位扫码进群的同学。
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020063005.jpg)
 
@@ -76,7 +76,7 @@ Vue.js 3.0 最近发布了，作为一个主流的前端框架，大家都在对
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062601.jpg)
 
-世界气象组织最近认定，2018年10月31日巴西的一次闪电，是世界最长的闪电，长达700多公里，相当于从伦敦到瑞士巴塞尔。另外，还认定2019年3月4日在阿根廷北部的闪电，是世界持续时间最长的闪电，持续了整整16.73秒。
+世界气象组织最近认定，2018 年 10 月 31 日巴西的一次闪电，是世界最长的闪电，长达 700 多公里，相当于从伦敦到瑞士巴塞尔。另外，还认定 2019 年 3 月 4 日在阿根廷北部的闪电，是世界持续时间最长的闪电，持续了整整 16.73 秒。
 
 这些记录是通过新的卫星闪电成像技术计算得到的，由于以前没有该技术，所以这次的“世界之最”只针对最近几年有记录的这段时间。
 
@@ -84,7 +84,7 @@ Vue.js 3.0 最近发布了，作为一个主流的前端框架，大家都在对
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062706.jpg)
 
-广东顺德最近开张了一家机器人餐厅综合体，所谓“综合体”就是同时包括了中餐、火锅、快餐三大业态。这家餐厅一共有21种机器人，比如粉面机器人、早餐机器人、咖啡机器人、汉堡机器人、煲仔饭机器人等，总计可以制作近200种菜品。
+广东顺德最近开张了一家机器人餐厅综合体，所谓“综合体”就是同时包括了中餐、火锅、快餐三大业态。这家餐厅一共有 21 种机器人，比如粉面机器人、早餐机器人、咖啡机器人、汉堡机器人、煲仔饭机器人等，总计可以制作近 200 种菜品。
 
 不过，这家餐厅并不是完全自动化，仍然有人工服务。据报道，投资方计划在广东开出更多的这种机器人餐厅连锁店，并且还会研发其他品种的机器人，最终目标是实现无工作人员的餐厅。
 
@@ -114,9 +114,9 @@ Vue.js 3.0 最近发布了，作为一个主流的前端框架，大家都在对
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020063002.jpg)
 
-6月27日，滴滴出行首次面向上海的公众开放自动驾驶服务。用户报名后，可以在指定的测试路段，通过网约车，进行自动驾驶试乘。
+6 月 27 日，滴滴出行首次面向上海的公众开放自动驾驶服务。用户报名后，可以在指定的测试路段，通过网约车，进行自动驾驶试乘。
 
-体验过程长约20分钟，车辆的最高时速限定为50公里，会包括转弯、刹车、掉头等环节。每辆车的驾驶座配有1名工作人员，如遇突发情况，他会接管车辆。
+体验过程长约 20 分钟，车辆的最高时速限定为 50 公里，会包括转弯、刹车、掉头等环节。每辆车的驾驶座配有 1 名工作人员，如遇突发情况，他会接管车辆。
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020063003.jpg)
 
@@ -132,9 +132,9 @@ Redis 项目的创始人@antirez 宣布退出代码的日常开发，以后只�
 
 7、**一句话消息**
 
-> - [一名美国22岁男子](https://www.zdnet.com/article/ddos-botnet-coder-gets-13-months-in-prison/)因为发起和出售 DDOS 攻击，被法院判处13个月监禁。
+> - [一名美国 22 岁男子](https://www.zdnet.com/article/ddos-botnet-coder-gets-13-months-in-prison/)因为发起和出售 DDOS 攻击，被法院判处 13 个月监禁。
 
-> - [杭州乐高旗舰店](https://v.qq.com/x/page/g3105lxp524.html)开幕，工作人员用70万片积木，搭建接近真人大小的“西湖十景”断桥相会，请看下面的一分钟搭建视频。
+> - [杭州乐高旗舰店](https://v.qq.com/x/page/g3105lxp524.html)开幕，工作人员用 70 万片积木，搭建接近真人大小的“西湖十景”断桥相会，请看下面的一分钟搭建视频。
 
 <iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=g3105lxp524" allowFullScreen="true" width="600px" height="400px"></iframe>
 
@@ -146,7 +146,7 @@ Redis 项目的创始人@antirez 宣布退出代码的日常开发，以后只�
 
 <iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=k31046xsh92" allowFullScreen="true" width="600px" height="400px"></iframe>
 
-> - [北京丰台区](http://bj.people.com.cn/n2/2020/0628/c14540-34117196.html)出现类似“小坦克”的自动消毒车，可以360度喷洒消毒液，每小时消毒1万平米。它的瓶颈应该是供电，无法长时间连续使用。
+> - [北京丰台区](http://bj.people.com.cn/n2/2020/0628/c14540-34117196.html)出现类似“小坦克”的自动消毒车，可以 360 度喷洒消毒液，每小时消毒 1 万平米。它的瓶颈应该是供电，无法长时间连续使用。
 
 ![](https://cdn.beekka.com/blogimg/asset/202007/bg2020070118.jpg)
 
@@ -170,7 +170,7 @@ Redis 项目的创始人@antirez 宣布退出代码的日常开发，以后只�
 
 2、[Web Extension API 介绍](https://hacks.mozilla.org/2020/06/welcoming-safari-to-the-webextensions-community/)（英文）
 
-6月22日的 WWDC 大会中，苹果宣布 Safari 浏览器会使用 Web Extensions API 支持浏览器插件。这意味着只要使用这个 API，你的插件就可以同时在 Firefox，Chrome，Opera 、Edge 和 Safari 中运行。这里还有 MDN 上面的[ API 教程](https://developer.mozilla.org/zh-CN/docs/Mozilla/Add-ons/WebExtensions/What_are_WebExtensions)。
+6 月 22 日的 WWDC 大会中，苹果宣布 Safari 浏览器会使用 Web Extensions API 支持浏览器插件。这意味着只要使用这个 API，你的插件就可以同时在 Firefox，Chrome，Opera 、Edge 和 Safari 中运行。这里还有 MDN 上面的[ API 教程](https://developer.mozilla.org/zh-CN/docs/Mozilla/Add-ons/WebExtensions/What_are_WebExtensions)。
 
 3、[Apple WWDC 2020 对 Web 开发者的意义](https://insights.dice.com/2020/06/29/apple-wwdc-2020-highlights-big-things-web-developers/)（英文）
 
@@ -178,31 +178,31 @@ Redis 项目的创始人@antirez 宣布退出代码的日常开发，以后只�
 
 4、[苹果拒绝实现的 Web API](https://www.zdnet.com/article/apple-declined-to-implement-16-web-apis-in-safari-due-to-privacy-concerns/)（英文）
 
-苹果公司表示，Safari 不会支持16个 Web API，同时还会缩减一部分已实现的 API 的功能，理由是它们可以用来生成用户指纹，威胁用户隐私。
+苹果公司表示，Safari 不会支持 16 个 Web API，同时还会缩减一部分已实现的 API 的功能，理由是它们可以用来生成用户指纹，威胁用户隐私。
 
 5、[异步剪贴板 API 介绍](https://webkit.org/blog/10855/async-clipboard-api/)（英文）
 
-Safari 13.1添加了对 Async Clipboard API 的支持，使得网页可以通过这个 API 读写系统的剪贴板。这比当前通过 ClipboardEvent 的 DataTransfer 对象读写剪贴板，有很多优势。
+Safari 13.1 添加了对 Async Clipboard API 的支持，使得网页可以通过这个 API 读写系统的剪贴板。这比当前通过 ClipboardEvent 的 DataTransfer 对象读写剪贴板，有很多优势。
 
 6、[WebP 图像真的优于 JPEG 吗？](https://siipo.la/blog/is-webp-really-better-than-jpeg)（英文）
 
-谷歌声称，在同等质量的情况下，WebP 格式比 JPEG 体积小25 – 34％。作者对这个宣传有怀疑，实际测试发现，如果使用 MozJPEG 编码器，WebP 格式几乎没有优势。
+谷歌声称，在同等质量的情况下，WebP 格式比 JPEG 体积小 25 – 34％。作者对这个宣传有怀疑，实际测试发现，如果使用 MozJPEG 编码器，WebP 格式几乎没有优势。
 
-7、[我如何从 GitHub 赞助年收入10万美元](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)（英文）
+7、[我如何从 GitHub 赞助年收入 10 万美元](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062401.jpg)
 
-我一直很想知道， GitHub 的“赞助”功能是否真能拿到钱。这篇文章告诉我们，真的是可以的，作者介绍了一些技巧，使得他的一个开源项目，年赞助达到了11万美元。
+我一直很想知道，GitHub 的“赞助”功能是否真能拿到钱。这篇文章告诉我们，真的是可以的，作者介绍了一些技巧，使得他的一个开源项目，年赞助达到了 11 万美元。
 
 8、[如何不靠运气变得富有](https://github.com/fat-garage/how-to-get-rich-without-getting-lucky)（中文）
 
-Naval 是美国风险投资家，这是他的3小时长播客《如何不靠运气变得富有》的中文翻译，介绍了他的财富观，非常值得一读。（[@taosue](https://github.com/ruanyf/weekly/issues/1307) 投稿）
+Naval 是美国风险投资家，这是他的 3 小时长播客《如何不靠运气变得富有》的中文翻译，介绍了他的财富观，非常值得一读。（[@taosue](https://github.com/ruanyf/weekly/issues/1307) 投稿）
 
-9、[10个日常使用的 Linux 应用程序](https://fossbytes.com/best-linux-apps-free-open-source/)（英文）
+9、[10 个日常使用的 Linux 应用程序](https://fossbytes.com/best-linux-apps-free-open-source/)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062407.jpg)
 
-本文推荐10个常用的 Linux 应用程序，比如 BT 下载客户端 Fragments、虚拟机解决方案 GNOME Boxes、绘图程序 Krita。
+本文推荐 10 个常用的 Linux 应用程序，比如 BT 下载客户端 Fragments、虚拟机解决方案 GNOME Boxes、绘图程序 Krita。
 
 10、[Rust 学习路线图](https://zhuanlan.zhihu.com/p/146472398)（中文）
 
@@ -270,7 +270,7 @@ VS Code 的一个插件，使得 VS Code 可以用于个人的笔记和知识管
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062104.jpg)
 
-美国有一座铁路桥，高11英尺8英寸（3.56米），比常见的限高11英寸10英尺低了一点，导致桥下行驶的大卡车，经常会擦撞到车顶。
+美国有一座铁路桥，高 11 英尺 8 英寸（3.56 米），比常见的限高 11 英寸 10 英尺低了一点，导致桥下行驶的大卡车，经常会擦撞到车顶。
 
 有人实在看不下去了，就在桥边装了两个摄像头，把拍到的所有事故视频，做成一个网站，名字就叫“11 Foot 8”。
 
@@ -286,7 +286,7 @@ VS Code 的一个插件，使得 VS Code 可以用于个人的笔记和知识管
 
 5、[JavaScript 生成艺术图形教程](https://generativeartistry.com/tutorials/)
 
-这个教程介绍 JavaScript 如何生成8种艺术图形。
+这个教程介绍 JavaScript 如何生成 8 种艺术图形。
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062403.jpg)
 
@@ -300,15 +300,15 @@ VS Code 的一个插件，使得 VS Code 可以用于个人的笔记和知识管
 
 苹果的 Mac 电脑有一些配件，价格高得难以理解。
 
-Mac Pro 主机的四个轮子，5289元人民币。
+Mac Pro 主机的四个轮子，5289 元人民币。
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062003.jpg)
 
-显示器支架，7799元人民币。
+显示器支架，7799 元人民币。
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062004.jpg)
 
-Mac Pro 主机的四个支脚，2249元人民币。
+Mac Pro 主机的四个支脚，2249 元人民币。
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062005.jpg)
 
@@ -332,11 +332,11 @@ Reddit 有一个频道，专门让用户上传各种膨胀的锂电池的照片�
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062602.jpg)
 
-从印度到蒙古，斑头雁必须越过世界最高的喜马拉雅山脉，现在已知这些鸟类的飞行高度可以达到8500米。这是如何做到的？
+从印度到蒙古，斑头雁必须越过世界最高的喜马拉雅山脉，现在已知这些鸟类的飞行高度可以达到 8500 米。这是如何做到的？
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062603.jpg)
 
-8000米以上的高度，氧气极为稀薄，人类呼吸非常困难。但是，斑头雁可以顺畅地呼吸，这就是它们能飞越喜马拉雅山的主要原因：它们的肺远比人类的肺强大高效，即使在那样的高度，身体也能得到足够的供氧。
+8000 米以上的高度，氧气极为稀薄，人类呼吸非常困难。但是，斑头雁可以顺畅地呼吸，这就是它们能飞越喜马拉雅山的主要原因：它们的肺远比人类的肺强大高效，即使在那样的高度，身体也能得到足够的供氧。
 
 **鸟类的肺**
 
@@ -358,17 +358,17 @@ Reddit 有一个频道，专门让用户上传各种膨胀的锂电池的照片�
 
 恐龙的肺的进化，与地球环境的变化密切相关。
 
-几亿年前，陆地上刚刚出现植物，这时地球大气的氧气含量很高，超过了30%。相比之下，今天空气里的氧气含量只有21%。
+几亿年前，陆地上刚刚出现植物，这时地球大气的氧气含量很高，超过了 30%。相比之下，今天空气里的氧气含量只有 21%。
 
-由于氧气太多，使得呼吸效率低下的昆虫，可以繁殖得很大。蜻蜓的翼展能达到1米左右，蜈蚣长2米多，青蛙等两栖动物像饭桌一样大。
+由于氧气太多，使得呼吸效率低下的昆虫，可以繁殖得很大。蜻蜓的翼展能达到 1 米左右，蜈蚣长 2 米多，青蛙等两栖动物像饭桌一样大。
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020062605.jpg)
 
-氧气太多就容易发生燃烧，也容易与腐烂植物里面的碳元素结合，产生二氧化碳。因此时间一长，地球大气的氧气含量就开始下降了，从石炭纪（3亿年前）30％的高点，快速下降到二叠纪（2.5亿年前）的12％左右。地球上百分之九十五的生命体，由于无法适应氧气含量的下降而死亡，这是地球历史上最大的生物灭绝事件。
+氧气太多就容易发生燃烧，也容易与腐烂植物里面的碳元素结合，产生二氧化碳。因此时间一长，地球大气的氧气含量就开始下降了，从石炭纪（3 亿年前）30％的高点，快速下降到二叠纪（2.5 亿年前）的 12％左右。地球上百分之九十五的生命体，由于无法适应氧气含量的下降而死亡，这是地球历史上最大的生物灭绝事件。
 
-还活着的5％的生命体，必须适应低含量的氧气，才能生存下去。恐龙就是在那个时候出现的，慢慢进化出了高效的肺系统。
+还活着的 5％的生命体，必须适应低含量的氧气，才能生存下去。恐龙就是在那个时候出现的，慢慢进化出了高效的肺系统。
 
-后来，空气的含氧量又开始回升，达到20％以上。恐龙由于具有强大的肺，体积就越长越大。而且，它们空心的骨头，也有助于减轻整体重量。
+后来，空气的含氧量又开始回升，达到 20％以上。恐龙由于具有强大的肺，体积就越长越大。而且，它们空心的骨头，也有助于减轻整体重量。
 
 鸟类从恐龙演化而来，具有同样的肺系统，专门适应低含氧量的环境，这就是为什么它们能飞越珠穆朗玛峰的原因。
 
@@ -376,9 +376,9 @@ Reddit 有一个频道，专门让用户上传各种膨胀的锂电池的照片�
 
 1、
 
-创建一家大型互联网公司的最佳方法，就是帮助人们去做他们想做的事情，并使事情变得容易10倍。
+创建一家大型互联网公司的最佳方法，就是帮助人们去做他们想做的事情，并使事情变得容易 10 倍。
 
-人们想在网上写东西，但是大多数网站的发布门槛太高了，所以才有了推特，你只需要写一句话就能发布。 
+人们想在网上写东西，但是大多数网站的发布门槛太高了，所以才有了推特，你只需要写一句话就能发布。
 
 -- Evan Williams，Twitter 的创始人之一
 
@@ -406,11 +406,11 @@ Reddit 有一个频道，专门让用户上传各种膨胀的锂电池的照片�
 
 镜子创造了一种自恋文化。
 
--- David Perell 
+-- David Perell
 
 5、
 
-100年前的中国，四千个人里面才有一个中学生，其他都是文盲。
+100 年前的中国，四千个人里面才有一个中学生，其他都是文盲。
 
 -- [李敖](https://known.ifeng.com/a/20180123/44856075_0.shtml)
 
@@ -424,11 +424,11 @@ Reddit 有一个频道，专门让用户上传各种膨胀的锂电池的照片�
 
 ## 回顾
 
-2019年的本周（第 63 期）：[大鱼赢家通吃，小鱼很难存活](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-63.html)
+2019 年的本周（第 63 期）：[大鱼赢家通吃，小鱼很难存活](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-63.html)
 
 ![](https://cdn.beekka.com/blogimg/asset/201907/bg2019070402.jpg)
 
-2018年的本周（第 11 期）：[编程语言加速进化，通才越来越难](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-11.html)
+2018 年的本周（第 11 期）：[编程语言加速进化，通才越来越难](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-11.html)
 
 ![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062901.jpg)
 

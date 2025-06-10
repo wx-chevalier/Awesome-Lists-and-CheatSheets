@@ -4,19 +4,19 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100501.jpg)
 
-上周我看到一个[报道](https://www.cnet.com/news/the-t-mobile-g1-smartphone-almost-looked-like-a-blackberry/)，9月23日是安卓手机的十周年纪念日。
+上周我看到一个[报道](https://www.cnet.com/news/the-t-mobile-g1-smartphone-almost-looked-like-a-blackberry/)，9 月 23 日是安卓手机的十周年纪念日。
 
-十年前的2008年9月23日，HTC 发布了世界上第一台安卓手机 G1，3.2英寸屏幕，320x480分辨率，256MB内存， 1150mAh电池，并带有一个实体的全键盘。
+十年前的 2008 年 9 月 23 日，HTC 发布了世界上第一台安卓手机 G1，3.2 英寸屏幕，320x480 分辨率，256MB 内存，1150mAh 电池，并带有一个实体的全键盘。
 
 ![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100502.jpg)
 
 真不敢相信，智能手机真正开始普及，仅仅只有十年。
 
-这十年，人类的生活完全改变。十年前，每个人都以与现在完全不同的方式生活着。2008年，没人用手机付款，大家在地铁读书看报，或者听着 iPod，想要给别人发消息，只能用短信。那些只凭一个 App 就成为独角兽的公司，一家都不存在。许多人还没有意识到，只需要做出一个受欢迎的 App，你就能创业，如果成功还能发财。
+这十年，人类的生活完全改变。十年前，每个人都以与现在完全不同的方式生活着。2008 年，没人用手机付款，大家在地铁读书看报，或者听着 iPod，想要给别人发消息，只能用短信。那些只凭一个 App 就成为独角兽的公司，一家都不存在。许多人还没有意识到，只需要做出一个受欢迎的 App，你就能创业，如果成功还能发财。
 
-我敢预言，接下来的十年会有更大的变化，因为现在有了人工智能。2028年，我们的生活将是什么样？完全无法想象。我写过一本书叫做[《未来世界的幸存者》](http://survivor.ruanyifeng.com/)，预言大多数人在未来世界很难有出路，因为没法跟机器竞争。你要么会造机器，要么比机器强，否则怎么办呢。
+我敢预言，接下来的十年会有更大的变化，因为现在有了人工智能。2028 年，我们的生活将是什么样？完全无法想象。我写过一本书叫做[《未来世界的幸存者》](http://survivor.ruanyifeng.com/)，预言大多数人在未来世界很难有出路，因为没法跟机器竞争。你要么会造机器，要么比机器强，否则怎么办呢。
 
-这个《每周分享》专栏其实是那本书的延续，主题就是关注未来，关注那些将要流行的新技术和新趋势。有人说过，未来已经到来，只是还未流行。我们需要在未来变得流行之前，做好准备。假如2008年这个专栏就存在，那么我希望，安卓刚出来的时候，我们就知道这个东西会改变世界，带来无数机会，应该去学习如何开发 App。
+这个《每周分享》专栏其实是那本书的延续，主题就是关注未来，关注那些将要流行的新技术和新趋势。有人说过，未来已经到来，只是还未流行。我们需要在未来变得流行之前，做好准备。假如 2008 年这个专栏就存在，那么我希望，安卓刚出来的时候，我们就知道这个东西会改变世界，带来无数机会，应该去学习如何开发 App。
 
 ## 新闻
 
@@ -40,17 +40,17 @@
 
 这种 AR 界面的意义在于，未来的 UI 不必局限于设备之中，三维空间都可以是 UI。
 
-4、[5万年前的狼](https://www.theguardian.com/science/2018/sep/14/spectacular-ice-age-wolf-pup-and-caribou-dug-up-in-canada)
+4、[5 万年前的狼](https://www.theguardian.com/science/2018/sep/14/spectacular-ice-age-wolf-pup-and-caribou-dug-up-in-canada)
 
 ![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100506.jpg)
 
-加拿大在北方的冻土区，发现了一个冰河时期的狼的木乃伊。据检测，距今已有5万年。这头狼的保存情况好得惊人，皮毛、皮肤和肌肉组织都保存下来了，头部、尾部、爪子、皮肤和头发的细节都很好。
+加拿大在北方的冻土区，发现了一个冰河时期的狼的木乃伊。据检测，距今已有 5 万年。这头狼的保存情况好得惊人，皮毛、皮肤和肌肉组织都保存下来了，头部、尾部、爪子、皮肤和头发的细节都很好。
 
 5、[最后一个小儿麻痹症患者](https://www.washingtonpost.com/local/obituaries/david-salamone-who-contracted-polio-from-vaccine-and-helped-spur-changes-in-us-immunization-policy-dies-at-28/2018/09/15/5e86319e-b8f8-11e8-94eb-3bd52dfe917b_story.html?noredirect=on&utm_term=.cdbeea38f179)
 
 ![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100507.jpg)
 
-9月7日，美国最后一个小儿麻痹症患者 David Salamone 去世，享年28岁。他的特别之处在于，他不是自然感染，而是由于使用小儿麻痹症疫苗，而得了小儿麻痹症。
+9 月 7 日，美国最后一个小儿麻痹症患者 David Salamone 去世，享年 28 岁。他的特别之处在于，他不是自然感染，而是由于使用小儿麻痹症疫苗，而得了小儿麻痹症。
 
 我们知道，疫苗的本质是灭活的病毒，即丧失活性的病毒。美国原来采用是口服小儿麻痹症疫苗，优点是服用方便，成本较低，但是有可能使得极少数的儿童（每年个位数）由于无力抵抗灭活的病毒而得病。David Salamone 就是这样得病了，由于这个案例，美国政府决定疫苗从口服改为注射，灭活病毒含量大大下降，从此再也没有发生过由于疫苗而得病的案例。他就成了美国最后一个小儿麻痹症患者。
 
@@ -60,19 +60,19 @@
 
 畜牧业是人类蛋白质供给的主要来源之一，也是温室气体的主要来源之一。每一吨红肉的背后，都是大量的二氧化碳释放。
 
-为了减少温室气体，科学家提出，我们也可以食用细菌产生的蛋白质。有些细菌可以食用糖或氨，随着它们的生长，可以被干燥，碾成粉末，用作蛋白质供人类或牲畜食用。计算后发现，如果大规模应用，到2050年，细菌每年可替代175至3.07亿吨的饲料，减少土地使用量6％，温室气体排放减少7％。 
+为了减少温室气体，科学家提出，我们也可以食用细菌产生的蛋白质。有些细菌可以食用糖或氨，随着它们的生长，可以被干燥，碾成粉末，用作蛋白质供人类或牲畜食用。计算后发现，如果大规模应用，到 2050 年，细菌每年可替代 175 至 3.07 亿吨的饲料，减少土地使用量 6％，温室气体排放减少 7％。
 
 7、[PlayStation Classic](https://www.anandtech.com/show/13378/sony-playstation-classic)
 
 ![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100509.jpg)
 
-索尼会在12月3日发售 PlayStation Classic 游戏主机，用来玩早期的 PS 游戏。主机大小跟一本书差不多，价格99美元。但是，多少人愿意买个新机器玩老游戏，让人怀疑，尤其是老游戏的分辨率最高只能到720P。
+索尼会在 12 月 3 日发售 PlayStation Classic 游戏主机，用来玩早期的 PS 游戏。主机大小跟一本书差不多，价格 99 美元。但是，多少人愿意买个新机器玩老游戏，让人怀疑，尤其是老游戏的分辨率最高只能到 720P。
 
 8、[周口店保护棚](https://wap.xinmin.cn/content/31433493.html)
 
 ![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100510.jpg)
 
-四十多万年前，北京猿人生活的周口店遗址，最近在山上修了一个保护棚，把猿人洞的露天洞口遮蔽起来。保护棚长77.5米，宽54.5米，高35.7米。
+四十多万年前，北京猿人生活的周口店遗址，最近在山上修了一个保护棚，把猿人洞的露天洞口遮蔽起来。保护棚长 77.5 米，宽 54.5 米，高 35.7 米。
 
 保护棚分为内外两层叶片，外层叶片不仅可以遮风挡雨，而且设有种植槽，植物可以生长在棚顶。内层叶片尽量与洞内岩壁融为一体。
 
@@ -88,12 +88,12 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100513.jpg)
 
-10、__一句话新闻__
+10、**一句话新闻**
 
-* [Firefox](https://news.slashdot.org/story/18/09/13/1940252/mozilla-enables-webrender-by-default-on-firefox-nightly) 在 Windows 10 上面默认开启了 WebRender，使用 GPU 渲染网页，而不是传统的 CPU。这将大大改善网页的渲染性能，页面滚动和动画都会有更好的表现。 <br><br>
-* [大部分数据科学家](https://www.axios.com/academia-corporate-research-ai-9d525070-303d-47fd-b822-0fbffcac6740.html)都被互联网公司挖走了，美国高校的 AI 教育现在缺乏师资。<br><br>
-* [Uber CEO](https://techcrunch.com/2018/09/06/uber-ceo-ride-hailing-will-be-eclipsed-by-scooters-bikes-and-even-flying-taxis/) 称，该公司的目标是10年后人们不再拥有个人汽车，想要出门的时候，平台已经为你安排好了车。<br><br>
-* [UPS 快递公司](https://www.fastcompany.com/90229460/your-ups-deliveries-may-soon-arrive-in-electric-trucks)在伦敦用电动卡车，取代普通卡车送货。
+- [Firefox](https://news.slashdot.org/story/18/09/13/1940252/mozilla-enables-webrender-by-default-on-firefox-nightly) 在 Windows 10 上面默认开启了 WebRender，使用 GPU 渲染网页，而不是传统的 CPU。这将大大改善网页的渲染性能，页面滚动和动画都会有更好的表现。<br><br>
+- [大部分数据科学家](https://www.axios.com/academia-corporate-research-ai-9d525070-303d-47fd-b822-0fbffcac6740.html)都被互联网公司挖走了，美国高校的 AI 教育现在缺乏师资。<br><br>
+- [Uber CEO](https://techcrunch.com/2018/09/06/uber-ceo-ride-hailing-will-be-eclipsed-by-scooters-bikes-and-even-flying-taxis/) 称，该公司的目标是 10 年后人们不再拥有个人汽车，想要出门的时候，平台已经为你安排好了车。<br><br>
+- [UPS 快递公司](https://www.fastcompany.com/90229460/your-ups-deliveries-may-soon-arrive-in-electric-trucks)在伦敦用电动卡车，取代普通卡车送货。
 
 ![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100514.jpg)
 
@@ -111,7 +111,7 @@ Linux 内核与 Mac 内核虽然都源于 Unix，但是差别较大。Mac 内核
 
 一些虚拟私有网络的相关知识。
 
-4、[你不需要Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs)（英文）
+4、[你不需要 Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs)（英文）
 
 本文列举如何用 date-fns 或者原生方法，取代 moment.js。
 
@@ -121,7 +121,7 @@ Linux 内核与 Mac 内核虽然都源于 Unix，但是差别较大。Mac 内核
 
 6、[IPFS 介绍](https://blog.cloudflare.com/distributed-web-gateway/)（英文）
 
-IPFS 是一个具有 web 接口的分布式数据库，一旦写入，你的内容就将永远存在，且无法修改。本文是一篇很不错的介绍文章， Cloudflare 在文中宣布开通 IPFS 网关服务。如果你有自己的 IPFS 节点，就可以让 Cloudflare 的 CDN 网络分发你的内容。
+IPFS 是一个具有 web 接口的分布式数据库，一旦写入，你的内容就将永远存在，且无法修改。本文是一篇很不错的介绍文章，Cloudflare 在文中宣布开通 IPFS 网关服务。如果你有自己的 IPFS 节点，就可以让 Cloudflare 的 CDN 网络分发你的内容。
 
 7、 [ActivityPub 协议介绍](https://jeremydormitzer.com/blog/what-is-activitypub-and-how-will-it-change-the-internet/)（英文）
 
@@ -217,7 +217,7 @@ perkeep 是一个开源工具，可以将你的文件同步储存到多个节点
 
 1、[逃离东德](http://www.hisutton.com/The%20Escape%20of%20Bernd%20Boettger.html)
 
-第二次世界大战以后，德国分裂成东德和西德，两边处于敌对状态。28岁的工程师 Bernd Boettge 想逃离东德，到西方去。
+第二次世界大战以后，德国分裂成东德和西德，两边处于敌对状态。28 岁的工程师 Bernd Boettge 想逃离东德，到西方去。
 
 陆地边界都是封锁的，只有从海上偷渡。最初，他尝试游泳，但是很快体力耗尽，被抓住了。由于他是东德需要的工程师，所以没被关进监狱。
 
@@ -225,13 +225,13 @@ Bernd Boettge 不死心，决心第二次偷渡。为了能在水下呼吸，他
 
 ![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100522.jpg)
 
-发送机需要空气，因此他添加了一个橡胶的呼吸管，排气管则位于上方的圆柱形容器中。这个容器也起到浮子的作用。发动机带动螺旋桨，后面会拖着一个架子，他自己就挂在这个架子上。整个装置重约22磅（大约10公斤），足够轻，可以手里拿着穿过海滩，总成本大约50美元。
+发送机需要空气，因此他添加了一个橡胶的呼吸管，排气管则位于上方的圆柱形容器中。这个容器也起到浮子的作用。发动机带动螺旋桨，后面会拖着一个架子，他自己就挂在这个架子上。整个装置重约 22 磅（大约 10 公斤），足够轻，可以手里拿着穿过海滩，总成本大约 50 美元。
 
 ![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100523.jpg)
 
 他没办法测试，只能寄希望第一次下水就成功。如果再被抓住，肯定就完了。
 
-1968年9月8日，在黑暗的掩护下，他在格拉尔 - 米里茨（Graal-Müritz）的海面下水，慢慢穿过探照灯和巡逻船。在海里前进了25公里之后，成功到达了丹麦。
+1968 年 9 月 8 日，在黑暗的掩护下，他在格拉尔 - 米里茨（Graal-Müritz）的海面下水，慢慢穿过探照灯和巡逻船。在海里前进了 25 公里之后，成功到达了丹麦。
 
 ![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100524.jpg)
 
@@ -241,21 +241,21 @@ Bernd Boettge 不死心，决心第二次偷渡。为了能在水下呼吸，他
 
 ![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100525.jpg)
 
-1974年，Bernd Boettge 死于西班牙的一次潜水事故。至今不知道，这是真的事故，还是东德策划的暗杀。
+1974 年，Bernd Boettge 死于西班牙的一次潜水事故。至今不知道，这是真的事故，还是东德策划的暗杀。
 
 2、[拉里佩奇去了哪里？](https://www.bloombergquint.com/technology/2018/09/13/larry-page-is-a-no-show-with-google-under-a-harsh-spotlight)
 
-2018年9月5日，美国国会召开听证会。推特 CEO 和 Facebook 总裁都出席了，但是45岁的谷歌创始人拉里佩奇却没去。他的座位空着。Alphabet （谷歌的母公司）在一份声明中说，谷歌全球事务负责人参加了听证会，而"拉里佩奇正专注于其他项目和长期技术问题。"
+2018 年 9 月 5 日，美国国会召开听证会。推特 CEO 和 Facebook 总裁都出席了，但是 45 岁的谷歌创始人拉里佩奇却没去。他的座位空着。Alphabet （谷歌的母公司）在一份声明中说，谷歌全球事务负责人参加了听证会，而"拉里佩奇正专注于其他项目和长期技术问题。"
 
-问题是，拉里佩奇已经将近5年没有亮相，没有任何新闻报道，他消失了。2013年以来，他没有参与任何产品发布会或对外的电话会议。2015年以来，他没有接受过任何新闻采访。公司的日常管理交给了 Sundar Pichai，外界不知道他在干嘛。
+问题是，拉里佩奇已经将近 5 年没有亮相，没有任何新闻报道，他消失了。2013 年以来，他没有参与任何产品发布会或对外的电话会议。2015 年以来，他没有接受过任何新闻采访。公司的日常管理交给了 Sundar Pichai，外界不知道他在干嘛。
 
 ![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100526.jpg)
 
-2011年，他接替埃里克施密特，担任谷歌的 CEO。他每周工作80小时，大量阅读商业管理书籍，很快他就对管理和运营厌倦了，想把更多时间用于研发。一个前谷歌高管说，一次开会时，他对正在汇报的员工说"你做的事情很无聊"。另一次，有人请示他解决公司内部两个团队之间的矛盾，他回答说"你们不能自己解决吗？"
+2011 年，他接替埃里克施密特，担任谷歌的 CEO。他每周工作 80 小时，大量阅读商业管理书籍，很快他就对管理和运营厌倦了，想把更多时间用于研发。一个前谷歌高管说，一次开会时，他对正在汇报的员工说"你做的事情很无聊"。另一次，有人请示他解决公司内部两个团队之间的矛盾，他回答说"你们不能自己解决吗？"
 
-2015年谷歌重组，Sundar Pichai 成为谷歌的 CEO，佩奇担任母公司 Alphabet 的 CEO。从此，他更专注于那些疯狂的未来项目，比如自动驾驶飞行器、机器人、谷歌光纤等等，不再出现在公众场合，甚至谷歌内部员工也极少看见他。
+2015 年谷歌重组，Sundar Pichai 成为谷歌的 CEO，佩奇担任母公司 Alphabet 的 CEO。从此，他更专注于那些疯狂的未来项目，比如自动驾驶飞行器、机器人、谷歌光纤等等，不再出现在公众场合，甚至谷歌内部员工也极少看见他。
 
-拉里佩奇的隐居，让人感觉他像一个身体虚弱和衰老的名人，但实际上他比 Sundar Pichai 年轻。他的最后一次公开露面，是2014年的一次[TED 演讲](https://www.youtube.com/watch?v=mArrNRWQEso)，谈论谷歌的未来。此后，他就不再出现了，也不知道未来是否还会出现。
+拉里佩奇的隐居，让人感觉他像一个身体虚弱和衰老的名人，但实际上他比 Sundar Pichai 年轻。他的最后一次公开露面，是 2014 年的一次[TED 演讲](https://www.youtube.com/watch?v=mArrNRWQEso)，谈论谷歌的未来。此后，他就不再出现了，也不知道未来是否还会出现。
 
 ![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100527.jpg)
 
@@ -269,7 +269,7 @@ Bernd Boettge 不死心，决心第二次偷渡。为了能在水下呼吸，他
 
 2、
 
-巧克力是全世界最流行的食品之一，它的主要原料是可可豆。可可豆长在一种红色的豆荚里面。每个豆荚包裹额20～25个可可豆。好几个非洲国家的经济，就依赖这种树。
+巧克力是全世界最流行的食品之一，它的主要原料是可可豆。可可豆长在一种红色的豆荚里面。每个豆荚包裹额 20 ～ 25 个可可豆。好几个非洲国家的经济，就依赖这种树。
 
 ![](https://cdn.beekka.com/blogimg/asset/201810/bg2018100529.jpg)
 
@@ -303,7 +303,7 @@ Bernd Boettge 不死心，决心第二次偷渡。为了能在水下呼吸，他
 
 2、
 
-我已经投入了2,600多个小时，编写了62,176行代码（主要是C ++）。该游戏的收入为27.92美元，每小时收入约0.01美元。
+我已经投入了 2,600 多个小时，编写了 62,176 行代码（主要是 C ++）。该游戏的收入为 27.92 美元，每小时收入约 0.01 美元。
 
 -- [一个游戏开发者](https://infinitroid.com/blog/posts/did_i_just_waste_3_years)。他用了三年，独自一人开发游戏，放到 Steam 平台销售后，只有四个人购买。现在，他不得不考虑放弃这个游戏，这意味这三年时间都白费了。
 
@@ -311,9 +311,8 @@ Bernd Boettge 不死心，决心第二次偷渡。为了能在水下呼吸，他
 
 这个专栏每周五发布，同步更新在我的[个人网站](http://www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
 
-微信搜索"__阮一峰的网络日志__"或者扫描二维码，即可订阅。
+微信搜索"**阮一峰的网络日志**"或者扫描二维码，即可订阅。
 
 ![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
-

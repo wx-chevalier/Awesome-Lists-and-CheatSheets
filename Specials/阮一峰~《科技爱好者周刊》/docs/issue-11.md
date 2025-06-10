@@ -10,11 +10,11 @@
 
 =============================
 
-6月27日，TC39 委员会正式通过了[《ECMAScript 2018标准》](https://medium.com/front-end-hacking/javascript-whats-new-in-ecmascript-2018-es2018-17ede97f36d5)，新增了四个较大的语法点，以及几个较小的语法点。我看了一下后面还有50多个正在排队、等待进入标准的提案。如果算上 Stage 0 的提案，JS 可能还会增加100多个语法点。
+6 月 27 日，TC39 委员会正式通过了[《ECMAScript 2018 标准》](https://medium.com/front-end-hacking/javascript-whats-new-in-ecmascript-2018-es2018-17ede97f36d5)，新增了四个较大的语法点，以及几个较小的语法点。我看了一下后面还有 50 多个正在排队、等待进入标准的提案。如果算上 Stage 0 的提案，JS 可能还会增加 100 多个语法点。
 
 再过两个月，TC39 委员会的下一次会议，新的《ES2019 标准》就会启动，加入新的语法功能。以前我觉得类库变得快，现在才发现语言本身的变化更快。
 
-不仅是 JS，几乎所有的主流语言都有加速变动的趋势。JS 两个月加一次语法，Java 每半年发一次版本，C/C++ 几年发一个版本。另外，每个系统都在推自己的语言，安卓是 kotlin，iOS 是 swift，Fuchsia 是 dart，再加上Py、GO、Rust、wasm......新语言层出不穷，每种语言都在快速迭代，加入新的语法和功能。
+不仅是 JS，几乎所有的主流语言都有加速变动的趋势。JS 两个月加一次语法，Java 每半年发一次版本，C/C++ 几年发一个版本。另外，每个系统都在推自己的语言，安卓是 kotlin，iOS 是 swift，Fuchsia 是 dart，再加上 Py、GO、Rust、wasm......新语言层出不穷，每种语言都在快速迭代，加入新的语法和功能。
 
 我猜想，未来精通多门语言的人可能会非常少，因为每门语言都涉及很多东西，入门不难，精通很困难。每个人只懂一两个系统，这样带来的后果就是，万一你精通的那个系统不行了，换跑道会有很大难度。
 
@@ -38,14 +38,14 @@
 
 Deepin 是一个很有人气的国产 Linux 发行版。创始人兼 CTO 王勇在 Deepin 官网论坛发表声明，表示因个人原因离职。在离职声明里面，他谈到创立公司八年，遇到了很多困难。
 
-> * 写代码太累下班晚上要靠输液才能继续第二天继续上班
-> * 晚上陪客户喝酒，喝三场，吐了无数次，实在喝不下去了还要一口闷
-> * 很长一段时间天天加班，睡在公司，老婆只能把小朋友抱到公司楼下才能逼我回家
-> * 遇到人生很多惨痛的打击，不想再继续人生了，哭的痛不欲生
+> - 写代码太累下班晚上要靠输液才能继续第二天继续上班
+> - 晚上陪客户喝酒，喝三场，吐了无数次，实在喝不下去了还要一口闷
+> - 很长一段时间天天加班，睡在公司，老婆只能把小朋友抱到公司楼下才能逼我回家
+> - 遇到人生很多惨痛的打击，不想再继续人生了，哭的痛不欲生
 
-4、__90+岁老人的活力__
+4、**90+岁老人的活力**
 
-马来西亚总理马哈蒂尔92岁，整天出席竞选活动做演讲；朝鲜议长金永南90岁，出席世界杯开幕式会见普金。
+马来西亚总理马哈蒂尔 92 岁，整天出席竞选活动做演讲；朝鲜议长金永南 90 岁，出席世界杯开幕式会见普金。
 
 ![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062905.jpg)
 
@@ -57,21 +57,21 @@ Deepin 是一个很有人气的国产 Linux 发行版。创始人兼 CTO 王勇�
 
 ![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062907.jpg)
 
-Airbnb 是 React Native 的早期使用者，经过2年多的使用以后，他们现在宣布放弃React Native，改用基于 Native 技术的自有框架开发 App。
+Airbnb 是 React Native 的早期使用者，经过 2 年多的使用以后，他们现在宣布放弃 React Native，改用基于 Native 技术的自有框架开发 App。
 
-主要原因还是RN做不到百分百的跨平台抽象，有些问题必须针对特定平台单独写代码。这导致工程师必须熟悉三个平台（RN、安卓和iOS），才能用好RN。这要求实在太高了，大多数人只熟悉一两个平台，因此带来了一系列细节问题。
+主要原因还是 RN 做不到百分百的跨平台抽象，有些问题必须针对特定平台单独写代码。这导致工程师必须熟悉三个平台（RN、安卓和 iOS），才能用好 RN。这要求实在太高了，大多数人只熟悉一两个平台，因此带来了一系列细节问题。
 
 6、[海南：打造外国游客集聚区 区内可使用脸书推特](http://news.sina.com.cn/o/2018-06-21/doc-ihefphqm2432435.shtml)
 
-海南省人民政府办公厅6月21日发布文件称，将用三年时间提升旅游国际化水平。至2020年，入境游客量提升至200万人次，力争引进涉旅境外务工人员5万名。
+海南省人民政府办公厅 6 月 21 日发布文件称，将用三年时间提升旅游国际化水平。至 2020 年，入境游客量提升至 200 万人次，力争引进涉旅境外务工人员 5 万名。
 
-这份名为《提升海南旅游国际化水平三年行动计划（2018-2020年）》称，海南计划依托海口、三亚2座重点旅游城市，有计划打造外国游客集聚区。集聚区内，外国人可正常使用国外流行的Facebook、Twitter、YouTube。
+这份名为《提升海南旅游国际化水平三年行动计划（2018-2020 年）》称，海南计划依托海口、三亚 2 座重点旅游城市，有计划打造外国游客集聚区。集聚区内，外国人可正常使用国外流行的 Facebook、Twitter、YouTube。
 
 7、[VR180 视频](https://itsfoss.com/vr180-creator/)
 
 ![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062908.jpg)
 
-各种 VR 头盔、VR 眼镜，现在看到的都是360度的全景视频。谷歌提出了一种新的视频格式 VR180，即只录制180度的平面视频。它的原理很简单，就是两个镜头模仿人的双眼，播放的时候重合起来就会有立体效果。
+各种 VR 头盔、VR 眼镜，现在看到的都是 360 度的全景视频。谷歌提出了一种新的视频格式 VR180，即只录制 180 度的平面视频。它的原理很简单，就是两个镜头模仿人的双眼，播放的时候重合起来就会有立体效果。
 
 谷歌还推出了一个免费的视频编辑软件，可以编辑 VR180 视频。
 
@@ -79,7 +79,7 @@ Airbnb 是 React Native 的早期使用者，经过2年多的使用以后，他�
 
 ![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062909.jpg)
 
-Youtube宣布，如果你的订阅者超过10万，就可以向粉丝收赞助费，每月4.99美元。交钱的粉丝将拥有定制的头像徽章和独家表情。 中国人的发明又一次赢得了世界。 
+Youtube 宣布，如果你的订阅者超过 10 万，就可以向粉丝收赞助费，每月 4.99 美元。交钱的粉丝将拥有定制的头像徽章和独家表情。中国人的发明又一次赢得了世界。
 
 9、[自动弹起的摄像头](https://m.weibo.cn/status/4255846378496704)
 
@@ -87,11 +87,11 @@ Youtube宣布，如果你的订阅者超过10万，就可以向粉丝收赞助�
 
 ![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062910.jpg)
 
-10、__一句话新闻__
+10、**一句话新闻**
 
-* [WiFi 联盟制定 WPA2 认证的升级版 WPA3，让 WIFI 变得更安全。](https://www.wi-fi.org/news-events/newsroom/wi-fi-alliance-introduces-wi-fi-certified-wpa3-security)
-* [Electron 推出3.0版，Chrome、Node、V8 都有重大升级](https://electronjs.org/releases#3.0.0-beta.1)。
-* [MongoDB 4.0 将支持数据库事务（transaction）](https://www.mongodb.com/transactions)。
+- [WiFi 联盟制定 WPA2 认证的升级版 WPA3，让 WIFI 变得更安全。](https://www.wi-fi.org/news-events/newsroom/wi-fi-alliance-introduces-wi-fi-certified-wpa3-security)
+- [Electron 推出 3.0 版，Chrome、Node、V8 都有重大升级](https://electronjs.org/releases#3.0.0-beta.1)。
+- [MongoDB 4.0 将支持数据库事务（transaction）](https://www.mongodb.com/transactions)。
 
 ## 教程
 
@@ -125,7 +125,7 @@ Puppeteer 是谷歌推出的 Chrome 无头浏览器，是目前的浏览器自�
 
 ![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062914.jpg)
 
-苹果手表的最新系统 WatchOS5，可以在手表上浏览网页。WWDC 2018 放出一段8分钟视频，介绍网页如何适配苹果手表，还算挺简单的。
+苹果手表的最新系统 WatchOS5，可以在手表上浏览网页。WWDC 2018 放出一段 8 分钟视频，介绍网页如何适配苹果手表，还算挺简单的。
 
 7、[GPU 知识介绍](https://www.extremetech.com/gaming/269335-how-graphics-cards-work)（英文）
 
@@ -139,20 +139,20 @@ Python 语言之中，元组（tuple）和列表（list）都表示数据的序�
 
 ![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062915.jpg)
 
-* [转动的电风扇](https://codepen.io/zschaffter/pen/GdWQeV/)
-* [动态火焰效果](https://codepen.io/jkantner/pen/gKRKKb)
+- [转动的电风扇](https://codepen.io/zschaffter/pen/GdWQeV/)
+- [动态火焰效果](https://codepen.io/jkantner/pen/gKRKKb)
 
 ## 资源
 
-1、[机器学习50个最佳免费数据集](https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/)
+1、[机器学习 50 个最佳免费数据集](https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/)
 
-这里列出50个可以用来训练模型的免费大型数据集。
+这里列出 50 个可以用来训练模型的免费大型数据集。
 
 2、[2018 世界杯 API](http://worldcup.sfg.io/)
 
 ![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062916.jpg)
 
-这个网站的 API 返回世界杯的各种 JSON 数据，比如 [http://worldcup.sfg.io/matches](http://worldcup.sfg.io/matches) 是所有比赛数据（每分钟更新）。 
+这个网站的 API 返回世界杯的各种 JSON 数据，比如 [http://worldcup.sfg.io/matches](http://worldcup.sfg.io/matches) 是所有比赛数据（每分钟更新）。
 
 3、[Google Analytics 的替代品](https://hitmetrics.io/blog/google-analytics-alternatives)
 
@@ -206,19 +206,18 @@ Google Analytics 是网站访问量的监控工具，这篇文章介绍了几个
 
 ## 文摘
 
-1、__古代中国为什么领先欧洲？__
+1、**古代中国为什么领先欧洲？**
 
 ![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062919.jpg)
 
-
-《世界通史 : 1500年以前的世界》（by 【美】斯塔夫里阿诺斯">）这样解释，为什么古代中国比欧洲更先进？
+《世界通史 : 1500 年以前的世界》（by 【美】斯塔夫里阿诺斯">）这样解释，为什么古代中国比欧洲更先进？
 
 > 古代的西欧并不像中国那么富饶。
-> 
+>
 > 在适宜农作物生长的夏季的几个月里，季风给东亚大部分地区带来了充足的雨水；而在欧洲，雨水则多半集中在草木不生的冬季几个月里。由于这一原因，加上纬度较低的地区能够获得较多的太阳热，因此东亚具有较长较集中的耕作期，许多地方都是一年二熟。
-> 
-> 而且东亚的主要农作物稻米，比起西方种植的小麦、黑麦和其他粮食作物，其亩产量也要高得多。据估计，单位面积里生产的稻米所含的卡路里，是小麦所含卡路里的5倍。
-> 
+>
+> 而且东亚的主要农作物稻米，比起西方种植的小麦、黑麦和其他粮食作物，其亩产量也要高得多。据估计，单位面积里生产的稻米所含的卡路里，是小麦所含卡路里的 5 倍。
+>
 > 因而中国的生产率也就大大高于西方，而这又导致了中国的人口自农业出现至今也相应地比西方稠密。生产率及人口上的优势，转而又使中国能够更好地维持帝国的官僚机构和军事机构，更有力地抗击蛮族侵略者----必要时还能同化他们。
 
 总之，只有在工业革命后，科学技术使得地理因素不再那么重要，欧洲才超过了中国。
@@ -231,11 +230,11 @@ Google Analytics 是网站访问量的监控工具，这篇文章介绍了几个
 
 ## 本周图片
 
-1、[我在南疆的10天](http://news.migage.com/articles/%E6%88%91%E5%9C%A8%E5%8D%97%E7%96%86%E7%9A%8410%E5%A4%A9_1161211_9.html#p=1)（组图）
+1、[我在南疆的 10 天](http://news.migage.com/articles/%E6%88%91%E5%9C%A8%E5%8D%97%E7%96%86%E7%9A%8410%E5%A4%A9_1161211_9.html#p=1)（组图）
 
 ![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062920.jpg)
 
-2018年4月，我从北京飞抵喀什，开始了10天的南疆之旅。
+2018 年 4 月，我从北京飞抵喀什，开始了 10 天的南疆之旅。
 
 想象中的南疆是块神秘的领地，有不一样的语言，不一样的相貌，不一样的自然环境。旅程中，我见到了残存着中世纪气息的维吾尔老城，在戈壁中扩张的现代都市，到达中国最西端的县城，见到了塔吉克族和柯尔克孜族的村落，逐渐发现了一个想象之外的新疆，它并非任何一种刻板印象可以形容。
 
@@ -261,7 +260,6 @@ Emoji（颜文字）有一个鸭子符号，上面是各家的实现。你最喜
 
 ![](https://cdn.beekka.com/blogimg/asset/201806/bg2018062924.jpg)
 
-
 上面这件作品叫做《天网》，近看都是一个个按键。
 
 ## 本周金句
@@ -270,7 +268,7 @@ Emoji（颜文字）有一个鸭子符号，上面是各家的实现。你最喜
 
 创业公司为什么成功？这是最难的问题。
 
-大多数人只是指出非常明显的事情："创始人很聪明也很勤奋，企业文化也非常优秀。"问题在于，其他5000家创业公司也是如此，但都失败了。（[《幸存者偏见》](https://www.sonyaellenmann.com/2018/06/survivorship-bias-and-startup-hype.html)）
+大多数人只是指出非常明显的事情："创始人很聪明也很勤奋，企业文化也非常优秀。"问题在于，其他 5000 家创业公司也是如此，但都失败了。（[《幸存者偏见》](https://www.sonyaellenmann.com/2018/06/survivorship-bias-and-startup-hype.html)）
 
 2、
 
@@ -284,9 +282,8 @@ Emoji（颜文字）有一个鸭子符号，上面是各家的实现。你最喜
 
 这个专栏每周五发布，同步更新在我的[个人网站](http://www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
 
-微信搜索"__阮一峰的网络日志__"或者扫描二维码，即可订阅。
+微信搜索"**阮一峰的网络日志**"或者扫描二维码，即可订阅。
 
 ![image | left](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
-

@@ -58,21 +58,21 @@
 
 每到年末，都会有很多年度演讲，盘点过去一年。
 
-今年，掘金社区做了一个尝试，推出了 **“年度技术演讲”，专门盘点2023年的技术大事**。
+今年，掘金社区做了一个尝试，推出了 **“年度技术演讲”，专门盘点 2023 年的技术大事**。
 
 ![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122107.webp)
 
-活动时间是明年1月20日（星期六），上午是主论坛的技术嘉宾演讲，下午是分论坛的专业领域讨论会，涉及大前端、云、AI 等热点领域。
+活动时间是明年 1 月 20 日（星期六），上午是主论坛的技术嘉宾演讲，下午是分论坛的专业领域讨论会，涉及大前端、云、AI 等热点领域。
 
 这一年很不容易，终于过完了，主办方搭了一个场子，让大家聚在一起分享技术趋势，结交朋友。
 
 活动地点是深圳的万丽酒店，点击[这个链接](https://juejin.cn/meetings/talk2023?utm_source=ruanyifeng)，或扫描上方二维码，了解活动详情并**免费报名**。因为这次的场地是五星级酒店，座位有限，采用实名制，会有一个审核环节。
 
-## 2023年的冷知识
+## 2023 年的冷知识
 
 一个美国设计师每年底发一个帖子，总结他在这一年发现的有趣的东西。
 
-下面是他的[2023年的总结](https://medium.com/magnetic/52-things-i-learned-in-2023-a3bbb9f9323d)，其中有一些真的很有趣。
+下面是他的[2023 年的总结](https://medium.com/magnetic/52-things-i-learned-in-2023-a3bbb9f9323d)，其中有一些真的很有趣。
 
 1、
 
@@ -80,7 +80,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120414.webp)
 
-以提高“军人的士气、福利和娱乐”的名义，美国国防部在海外的美军基地运行着3,000多台老虎机，每年从中赚取1亿美元的收入。
+以提高“军人的士气、福利和娱乐”的名义，美国国防部在海外的美军基地运行着 3,000 多台老虎机，每年从中赚取 1 亿美元的收入。
 
 2、
 
@@ -88,7 +88,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121705.webp)
 
-疫情期间，搓衣板的销量增长了57%，不过其中40%是作为打击乐器出售的。
+疫情期间，搓衣板的销量增长了 57%，不过其中 40%是作为打击乐器出售的。
 
 3、
 
@@ -96,11 +96,11 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121706.webp)
 
-电商网站上，4元可以买到32张。根据商品说明，它们不反光，甚至防水，还不易脱落。
+电商网站上，4 元可以买到 32 张。根据商品说明，它们不反光，甚至防水，还不易脱落。
 
 4、
 
-一道闪电含有大约0.25千瓦时的能量，换算成电费，只有1角多的人民币。
+一道闪电含有大约 0.25 千瓦时的能量，换算成电费，只有 1 角多的人民币。
 
 ![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121703.webp)
 
@@ -116,7 +116,7 @@
 
 ## Google Gemini
 
-12月4日，谷歌公开了 AI 模型 [Gemini](https://deepmind.google/technologies/gemini/)，跟 GPT-4 相抗衡，外部开发者可以自由使用。
+12 月 4 日，谷歌公开了 AI 模型 [Gemini](https://deepmind.google/technologies/gemini/)，跟 GPT-4 相抗衡，外部开发者可以自由使用。
 
 1、[Gemini Pro 免费使用站点](https://googlegemini.co/)（[@lchh5](https://github.com/ruanyf/weekly/issues/3765) 投稿）
 
@@ -152,11 +152,11 @@
 
 本文总结了 Linux 安装字体的各种方法。
 
-3、[浏览器的67个调试技巧](https://alan.norbauer.com/articles/browser-debugging-tricks)（英文）
+3、[浏览器的 67 个调试技巧](https://alan.norbauer.com/articles/browser-debugging-tricks)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111107.webp)
 
-浏览器的开发者工具怎么调试 JS 脚本，本文介绍67个高级技巧。
+浏览器的开发者工具怎么调试 JS 脚本，本文介绍 67 个高级技巧。
 
 4、[ESLint 新规则：禁止常量运算式](https://eslint.org/blog/2022/07/interesting-bugs-caught-by-no-constant-binary-expression/)（英文）
 
@@ -242,7 +242,7 @@ ChatGPT 选出的每日热点新闻。（[@Y024](https://github.com/ruanyf/weekl
 
 ![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121802.webp)
 
-Emoji 搜索引擎，支持30种语言，[代码](https://github.com/rotick/searchemoji)开源。（[@dongnaebi](https://github.com/ruanyf/weekly/issues/3752) 投稿）
+Emoji 搜索引擎，支持 30 种语言，[代码](https://github.com/rotick/searchemoji)开源。（[@dongnaebi](https://github.com/ruanyf/weekly/issues/3752) 投稿）
 
 4、[中文版黑客新闻](https://dizkaz.com/)
 
@@ -322,7 +322,7 @@ Emoji 搜索引擎，支持30种语言，[代码](https://github.com/rotick/sear
 
 学生不再是学生，新手变成专家，大家开始组建家庭，所有对你的时间的要求都变得非常苛刻。
 
--- [Tim Carmody](https://kottke.org/23/11/snarkmarket-turns-20)，他在学生时代创办了一个网站，坚持了20年，他评论这件事到后来是多么困难。 
+-- [Tim Carmody](https://kottke.org/23/11/snarkmarket-turns-20)，他在学生时代创办了一个网站，坚持了 20 年，他评论这件事到后来是多么困难。
 
 2、
 
@@ -367,4 +367,3 @@ Emoji 搜索引擎，支持30种语言，[代码](https://github.com/rotick/sear
 [千万不要当完美主义者](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-86.html)（2019 #86）
 
 （完）
-

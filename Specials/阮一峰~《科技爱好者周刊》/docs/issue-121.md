@@ -10,7 +10,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081305.jpg)
 
-8月12日是“世界大象日”，西双版纳野象谷景区为大象准备了美食。（[via](http://big5.xinhuanet.com/gate/big5/www.xinhuanet.com/photo/2020-08/12/c_1126359736.htm)）
+8 月 12 日是“世界大象日”，西双版纳野象谷景区为大象准备了美食。（[via](http://big5.xinhuanet.com/gate/big5/www.xinhuanet.com/photo/2020-08/12/c_1126359736.htm)）
 
 ## 本周话题：为什么人类没有越来越闲？
 
@@ -20,19 +20,19 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081908.jpg)
 
-将近100年前的1930年，经济学家凯恩斯[预言](https://www.newstatesman.com/2020/08/why-bertrand-russells-argument-idleness-more-relevant-ever)，在一个世纪之内，生产力的提高将使发达国家的居民每周工作15个小时，还能保持体面的生活水平。
+将近 100 年前的 1930 年，经济学家凯恩斯[预言](https://www.newstatesman.com/2020/08/why-bertrand-russells-argument-idleness-more-relevant-ever)，在一个世纪之内，生产力的提高将使发达国家的居民每周工作 15 个小时，还能保持体面的生活水平。
 
-他的预测完全错误。今天，没有一个国家实现每周工作15小时，连接近的都没有，反而出现了996这样的工作制。我相信，再过100年，也不会有每周15小时工作制。
+他的预测完全错误。今天，没有一个国家实现每周工作 15 小时，连接近的都没有，反而出现了 996 这样的工作制。我相信，再过 100 年，也不会有每周 15 小时工作制。
 
-让我们想象一个假设的情景。一家工厂以前每天生产100个产品，随着技术进步，现在每天可以生产200个。如果能够全卖出去，那么工人的劳动时间并不会减少。
+让我们想象一个假设的情景。一家工厂以前每天生产 100 个产品，随着技术进步，现在每天可以生产 200 个。如果能够全卖出去，那么工人的劳动时间并不会减少。
 
-如果市场还是原来那样，只能卖出去100个，那么工厂就有50%的产能空出来了。这时，管理层有两个选择。
+如果市场还是原来那样，只能卖出去 100 个，那么工厂就有 50%的产能空出来了。这时，管理层有两个选择。
 
 选择一：工人只工作半天，保持工资不变。
 
 选择二：保留一半的工人，解雇其余的人。
 
-现实中，一定是第二种选择，因为这样有利于增加利润。所以，  **技术进步带来的收益，不会变为工人的空闲时间，而是变为一些工人更忙碌，另一些工人失业** ，真正的赢家就是资本家，增加的利润都归他们。
+现实中，一定是第二种选择，因为这样有利于增加利润。所以， **技术进步带来的收益，不会变为工人的空闲时间，而是变为一些工人更忙碌，另一些工人失业** ，真正的赢家就是资本家，增加的利润都归他们。
 
 这就是当今世界正在发生的事情，空闲的工人最终会被解雇。IT 行业最明显，因为技术进步对这个行业影响最大。
 
@@ -44,9 +44,9 @@
 
 用过的人都知道，Webpack 是一个没有易用性的软件，新人上手和理解很不容易。而且，它还在不断发新版本，添加新功能。
 
-Webpack 5.0 版已经开发了近两年，现在发到了beta 27，离正式发布依然很遥远。为什么5.0这么难产？原因就是它引入了两个新概念“微前端”（micro front-end）和“模块联合”（module federation），[官方文档](https://webpack.js.org/concepts/module-federation/)写得非常抽象。它们出来以后，学习者的难度恐怕又会上升了。
+Webpack 5.0 版已经开发了近两年，现在发到了 beta 27，离正式发布依然很遥远。为什么 5.0 这么难产？原因就是它引入了两个新概念“微前端”（micro front-end）和“模块联合”（module federation），[官方文档](https://webpack.js.org/concepts/module-federation/)写得非常抽象。它们出来以后，学习者的难度恐怕又会上升了。
 
-今天谈到 Webpack 的原因是，本周的课程资料是来自开课吧的《Webpack 教程》。刚刚出来的新教程，不收费，讲解构建和打包原理，这是理解Webpack 的基础，并教大家实现一个简易的 Webpack。
+今天谈到 Webpack 的原因是，本周的课程资料是来自开课吧的《Webpack 教程》。刚刚出来的新教程，不收费，讲解构建和打包原理，这是理解 Webpack 的基础，并教大家实现一个简易的 Webpack。
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020082101.jpg)
 
@@ -64,7 +64,7 @@ Webpack 5.0 版已经开发了近两年，现在发到了beta 27，离正式发�
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081308.jpg)
 
-巴西科学家为了研究眼泪的进化，检查了7种鸟类和爬行动物的眼泪，包括鹦鹉、老鹰、猫头鹰、乌龟、鳄鱼等。上图是从老鹰和鳄鱼收集眼泪。
+巴西科学家为了研究眼泪的进化，检查了 7 种鸟类和爬行动物的眼泪，包括鹦鹉、老鹰、猫头鹰、乌龟、鳄鱼等。上图是从老鹰和鳄鱼收集眼泪。
 
 结果发现，鸟类和爬行类动物的眼泪，与人类的很相似，均包含相似数量的电解质（钠和氯化物），不过猫头鹰和海龟的眼泪包含较高的尿素和蛋白质。这说明，眼泪基本上没有进化。
 
@@ -98,19 +98,19 @@ Webpack 5.0 版已经开发了近两年，现在发到了beta 27，离正式发�
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081502.jpg)
 
-一块砖头可以在15秒内充满电，然后供 LED 二极管亮大约11分钟。不过，它的电量偏小，每平方米的墙壁大约可以储能1.6瓦时，这意味着三米乘六米的一堵墙壁可以储能约20瓦时，还不具有实用价值。
+一块砖头可以在 15 秒内充满电，然后供 LED 二极管亮大约 11 分钟。不过，它的电量偏小，每平方米的墙壁大约可以储能 1.6 瓦时，这意味着三米乘六米的一堵墙壁可以储能约 20 瓦时，还不具有实用价值。
 
 5、[地表最高温度](https://bnonews.com/index.php/2020/08/temperature-at-californias-death-valley-reaches-130f/)
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081801.jpg)
 
-8月16日，美国加利福尼亚死亡谷的温度达到54.4摄氏度，是地表有记录以来的第三位最高温度。
+8 月 16 日，美国加利福尼亚死亡谷的温度达到 54.4 摄氏度，是地表有记录以来的第三位最高温度。
 
-100多年前的1913年7月10日，也是在这个地方，记录到地表最高温56.7°C，迄今没有被打破。为什么这个地方温度会成为全球之最，真是很奇怪的事情。死亡谷的纬度是北纬36.5度，跟山东省济南市在同一个纬度，也不算内陆地区，离海边只有200多公里。
+100 多年前的 1913 年 7 月 10 日，也是在这个地方，记录到地表最高温 56.7°C，迄今没有被打破。为什么这个地方温度会成为全球之最，真是很奇怪的事情。死亡谷的纬度是北纬 36.5 度，跟山东省济南市在同一个纬度，也不算内陆地区，离海边只有 200 多公里。
 
 6、**一句话消息**
 
-> - [美国法院](https://techcrunch.com/2020/08/07/goodbye-paramount-consent-decrees/)废除一项已经实施70年的禁令，允许电影制片公司拥有电影院。原因是 Netflix 等流媒体公司的兴起，使得该规定毫无意义。
+> - [美国法院](https://techcrunch.com/2020/08/07/goodbye-paramount-consent-decrees/)废除一项已经实施 70 年的禁令，允许电影制片公司拥有电影院。原因是 Netflix 等流媒体公司的兴起，使得该规定毫无意义。
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080805.jpg)
 
@@ -126,7 +126,7 @@ Webpack 5.0 版已经开发了近两年，现在发到了beta 27，离正式发�
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081803.jpg)
 
-> - [天文学家](https://phys.org/news/2020-08-fastest-star.html)发现宇宙中最快的恒星，运动速度达到光速的8%。
+> - [天文学家](https://phys.org/news/2020-08-fastest-star.html)发现宇宙中最快的恒星，运动速度达到光速的 8%。
 
 > - [微软公司](https://www.theverge.com/2020/8/17/21372487/microsoft-internet-explorer-11-support-end-365-legacy-edge)宣布，明年将终止对 IE 11 和旧版 Edge 浏览器的支持。
 
@@ -250,11 +250,11 @@ Airbnb 公司新的开源项目，可以将 JavaScript 代码转成 TypeScript �
 
 该网站专门收集理查德·斯托曼使用笔记本电脑的照片。
 
-3、[1940年纽约历史地图](https://1940s.nyc/map/)
+3、[1940 年纽约历史地图](https://1940s.nyc/map/)
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081402.jpg)
 
-这个网站提供1940年代的纽约在线地图，并且还可以查看各个地点的历史照片。
+这个网站提供 1940 年代的纽约在线地图，并且还可以查看各个地点的历史照片。
 
 4、[AI 还原古罗马皇帝](https://voshart.com/ROMAN-EMPEROR-PROJECT)
 
@@ -276,9 +276,9 @@ Airbnb 公司新的开源项目，可以将 JavaScript 代码转成 TypeScript �
 
 1、[NeXT 徽标](https://www.logodesignlove.com/next-logo-paul-rand)
 
-1986年，乔布斯向著名的平面设计师保罗·兰德（Paul Rand）支付了10万美元，要求为自己的 NeXT 计算机公司设计徽标。
+1986 年，乔布斯向著名的平面设计师保罗·兰德（Paul Rand）支付了 10 万美元，要求为自己的 NeXT 计算机公司设计徽标。
 
-下面就是最后的成品。1986年的10万美元，要比今天的100万美元更值钱。
+下面就是最后的成品。1986 年的 10 万美元，要比今天的 100 万美元更值钱。
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081606.jpg)
 
@@ -292,9 +292,9 @@ Airbnb 公司新的开源项目，可以将 JavaScript 代码转成 TypeScript �
 
 1、[姆潘巴现象](https://en.wikipedia.org/wiki/Mpemba_effect)
 
-1963年，坦桑尼亚的一个高中上烹饪课，学生们做冰淇淋。
+1963 年，坦桑尼亚的一个高中上烹饪课，学生们做冰淇淋。
 
-一个叫做姆潘巴（Erasto Mpemba）的学生，发现了一个奇怪的现象。两个装有相同体积水的容器，一个是35°C，另一个是100°C，同时放进冰箱，竟然是100°C的水首先开始结冰。也就是说，温度高的水会更快结冰，这是为什么？
+一个叫做姆潘巴（Erasto Mpemba）的学生，发现了一个奇怪的现象。两个装有相同体积水的容器，一个是 35°C，另一个是 100°C，同时放进冰箱，竟然是 100°C 的水首先开始结冰。也就是说，温度高的水会更快结冰，这是为什么？
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081507.jpg)
 
@@ -302,7 +302,7 @@ Airbnb 公司新的开源项目，可以将 JavaScript 代码转成 TypeScript �
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081506.jpg)
 
-2012年，英国皇家化学学会举行了一场竞赛，征集论文，对姆潘巴现象进行解释。共有22,000人参加，获胜者提出了两种解释。
+2012 年，英国皇家化学学会举行了一场竞赛，征集论文，对姆潘巴现象进行解释。共有 22,000 人参加，获胜者提出了两种解释。
 
 （1）过冷（Supercooling）。低温液体会在一定时间内存在过冷现象，低于凝固点仍维持液体。
 
@@ -310,7 +310,7 @@ Airbnb 公司新的开源项目，可以将 JavaScript 代码转成 TypeScript �
 
 2、[为什么咨询业不适合我？](https://medium.com/@karti/why-consulting-is-not-for-me-ffdbe09bb3c1)
 
-6个月前，我开了一家 IT 咨询公司。现在，我得出了结论，咨询业不是令人满意的职业，并不适合我。
+6 个月前，我开了一家 IT 咨询公司。现在，我得出了结论，咨询业不是令人满意的职业，并不适合我。
 
 作为顾问，我只了解客户业务和问题的一小部分，没法接触到全局的战略性工作。我想制造汽车，但是客户只要求我制造方向盘。
 
@@ -350,29 +350,29 @@ Web 和浏览器已经发展到令人恐怖的技术规模。微软完全放弃�
 
 在美国，大家都在谈 TikTok，为什么没有人谈 AirDroid？
 
-它也来自中国，下载量超过1亿，拥有对大量 Android 设备的完全访问权限。与 TikTok 相比，它拥有的数据量更多。
+它也来自中国，下载量超过 1 亿，拥有对大量 Android 设备的完全访问权限。与 TikTok 相比，它拥有的数据量更多。
 
 -- [Hacker News 读者](https://news.ycombinator.com/item?id=24173789)
 
 5、
 
-去年，苹果应用商店的销售额为5190亿美元（包括硬件），而亚马逊网站为3280亿美元。所以，前者才是美国最大的在线零售商。
+去年，苹果应用商店的销售额为 5190 亿美元（包括硬件），而亚马逊网站为 3280 亿美元。所以，前者才是美国最大的在线零售商。
 
--- [《亚马逊并不是最大的在线零售商》](https://www.forbes.com/sites/danrunkevicius/2020/08/17/apple-not-amazon-is-the-largest-online-retail-force/#43ce5d8764cb)  
+-- [《亚马逊并不是最大的在线零售商》](https://www.forbes.com/sites/danrunkevicius/2020/08/17/apple-not-amazon-is-the-largest-online-retail-force/#43ce5d8764cb)
 
 6、
 
-只是因为让游戏 Fortnite 在应用商店上架，苹果在过去三年就获得3.6亿美元纯利润（因为可以提成30%的销售额）。
+只是因为让游戏 Fortnite 在应用商店上架，苹果在过去三年就获得 3.6 亿美元纯利润（因为可以提成 30%的销售额）。
 
--- [《苹果从 Fortnite 获利3.6亿美元》](https://www.businessinsider.com/apple-made-360-million-from-fortnite-in-app-purchases-2020-8) 
+-- [《苹果从 Fortnite 获利 3.6 亿美元》](https://www.businessinsider.com/apple-made-360-million-from-fortnite-in-app-purchases-2020-8)
 
 ## 回顾
 
-2019年的本周（第 70 期）：[世界进入负利率时代，这意味什么](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-70.html)
+2019 年的本周（第 70 期）：[世界进入负利率时代，这意味什么](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-70.html)
 
 ![](https://cdn.beekka.com/blogimg/asset/201908/bg2019082201.jpg)
 
-2018年的本周（第 18 期）：[无人机攻击，难以防范](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-18.html)
+2018 年的本周（第 18 期）：[无人机攻击，难以防范](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-18.html)
 
 ![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081701.jpg)
 

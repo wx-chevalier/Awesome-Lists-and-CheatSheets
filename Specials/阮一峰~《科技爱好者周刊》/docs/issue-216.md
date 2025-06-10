@@ -10,7 +10,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072501.webp)
 
-7月23日，国家版本馆同时在北京、杭州、西安、广州落成，用来永久保存文化传承的物品。上图是西安分馆文济阁。（[via](http://www.news.cn/politics/2022-07/24/c_1128859823.htm)）
+7 月 23 日，国家版本馆同时在北京、杭州、西安、广州落成，用来永久保存文化传承的物品。上图是西安分馆文济阁。（[via](http://www.news.cn/politics/2022-07/24/c_1128859823.htm)）
 
 ## 本周话题：极简主义的胜利
 
@@ -82,7 +82,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062101.webp)
 
-Doom 是1993年发行的电脑游戏，后来代码开源了。它的硬件要求很低，所以被移植到了各种平台。
+Doom 是 1993 年发行的电脑游戏，后来代码开源了。它的硬件要求很低，所以被移植到了各种平台。
 
 最近，一个匈牙利程序员成功在智能灯泡的芯片上，让 Doom 运行起来。
 
@@ -90,7 +90,7 @@ Doom 是1993年发行的电脑游戏，后来代码开源了。它的硬件要�
 
 ![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062103.webp)
 
-他在宜家购买了一款 14.95 美元的智能灯泡，里面有基于 ARM 的 Cortex M33 处理器和约 108KB 的内存。他将芯片取出来，配上一个单独的主板，以及 8MB 闪存（作为硬盘）、电源连接器、音频和键盘接口，然后连上显示器和一个8键键盘，游戏就可以运行了。 
+他在宜家购买了一款 14.95 美元的智能灯泡，里面有基于 ARM 的 Cortex M33 处理器和约 108KB 的内存。他将芯片取出来，配上一个单独的主板，以及 8MB 闪存（作为硬盘）、电源连接器、音频和键盘接口，然后连上显示器和一个 8 键键盘，游戏就可以运行了。
 
 ![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062104.webp)
 
@@ -98,7 +98,7 @@ Doom 是1993年发行的电脑游戏，后来代码开源了。它的硬件要�
 
 ![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062217.webp)
 
-一个21岁的美国女大学生，设计了一款双层的飞机座椅，在设计比赛中获奖，得到了航空公司的关注。
+一个 21 岁的美国女大学生，设计了一款双层的飞机座椅，在设计比赛中获奖，得到了航空公司的关注。
 
 ![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062219.webp)
 
@@ -138,15 +138,15 @@ Doom 是1993年发行的电脑游戏，后来代码开源了。它的硬件要�
 
 <iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=v33492d04xo" allowFullScreen="true" width="600" height="400"></iframe>
 
-中国国产的首个大型客机机型 C919 完成了所有试飞任务，首批一共6架，在陕西渭南机场集体亮相。[上面视频](https://v.qq.com/x/page/v33492d04xo.html)就是6架 C919 的编队。
+中国国产的首个大型客机机型 C919 完成了所有试飞任务，首批一共 6 架，在陕西渭南机场集体亮相。[上面视频](https://v.qq.com/x/page/v33492d04xo.html)就是 6 架 C919 的编队。
 
-C919 属于单通道飞机（一个走道），标配168个座位，接下来就会交付航空公司，执行客运任务了。
+C919 属于单通道飞机（一个走道），标配 168 个座位，接下来就会交付航空公司，执行客运任务了。
 
-2、[80度转向的车轮](https://interestingengineering.com/axle-steering-angles-80-degrees)
+2、[80 度转向的车轮](https://interestingengineering.com/axle-steering-angles-80-degrees)
 
 <iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=r3349fxy0gl" allowFullScreen="true" width="600" height="400"></iframe>
 
-一家德国汽车零件公司开发了80度转向的车轮，实现了在很窄的空间里面360度调头，用它停车入位也变得非常简单。上面是该公司的[官方宣传视频](https://v.qq.com/x/page/r3349fxy0gl.html)，用一辆宝马汽车演示。
+一家德国汽车零件公司开发了 80 度转向的车轮，实现了在很窄的空间里面 360 度调头，用它停车入位也变得非常简单。上面是该公司的[官方宣传视频](https://v.qq.com/x/page/r3349fxy0gl.html)，用一辆宝马汽车演示。
 
 ## 文章
 
@@ -168,7 +168,7 @@ C919 属于单通道飞机（一个走道），标配168个座位，接下来就
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072609.webp)
 
-某些年份会增加或减少一秒钟，这就叫闰秒。这对计算机系统造成很大困扰，意味着一分钟可能有61秒或59秒。因此，谷歌、微软、Meta和亚马逊联合发声明，建议取消闰秒，参见 [Meta 的原文](https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/)。
+某些年份会增加或减少一秒钟，这就叫闰秒。这对计算机系统造成很大困扰，意味着一分钟可能有 61 秒或 59 秒。因此，谷歌、微软、Meta 和亚马逊联合发声明，建议取消闰秒，参见 [Meta 的原文](https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/)。
 
 4、[谷歌为什么要推出 Carbon 语言？](https://thenewstack.io/google-launches-carbon-an-experimental-replacement-for-c/)（英文）
 
@@ -196,7 +196,7 @@ Chrome 浏览器自带的开发者工具有很多功能，本文详细介绍如�
 
 很早以前，支付宝推出过超声波支付，就是用超声波发送支付请求，不需要网络连接就能付款。而且，人耳听不见超声波，用户不会感到被打扰。
 
-作者自己动手实现一个简单的演示，使用 quite.js 在网页上用超声波发送和接收数据（需要麦克风和喇叭）。 
+作者自己动手实现一个简单的演示，使用 quite.js 在网页上用超声波发送和接收数据（需要麦克风和喇叭）。
 
 8、[我怎么会想写 Ruby 解析器](https://mpov.timmorgan.org/i-built-a-ruby-parser/)（英文）
 
@@ -240,7 +240,7 @@ Chrome 浏览器自带的开发者工具有很多功能，本文详细介绍如�
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072804.webp)
 
-一个基于 openresty 的轻量级 API网关，方便 Web 应用的搭建，支持负载均衡、健康检查、服务熔断、服务限流、可视化管理等众多功能。（[@iamtsm](https://github.com/ruanyf/weekly/issues/2523) 投稿）
+一个基于 openresty 的轻量级 API 网关，方便 Web 应用的搭建，支持负载均衡、健康检查、服务熔断、服务限流、可视化管理等众多功能。（[@iamtsm](https://github.com/ruanyf/weekly/issues/2523) 投稿）
 
 7、[JSONT](https://www.jsont.run/)
 
@@ -308,7 +308,7 @@ Chrome 浏览器自带的开发者工具有很多功能，本文详细介绍如�
 
 2、[世界第一台 Web 服务器](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html)
 
-互联网的 Web 服务是欧洲核子研究中心的研究员蒂姆·伯纳斯-李发明的，时间是1989年。
+互联网的 Web 服务是欧洲核子研究中心的研究员蒂姆·伯纳斯-李发明的，时间是 1989 年。
 
 他当时用的是一台 NeXT 计算机，这就是世界上第一台 Web 服务器。
 
@@ -320,13 +320,13 @@ Chrome 浏览器自带的开发者工具有很多功能，本文详细介绍如�
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072702.webp)
 
-3、[232层的闪存芯片](https://spectrum.ieee.org/micron-is-first-to-deliver-3d-flash-chips-with-more-than-200-layers)
+3、[232 层的闪存芯片](https://spectrum.ieee.org/micron-is-first-to-deliver-3d-flash-chips-with-more-than-200-layers)
 
-美国内存大厂美光，世界第一个推出了232层的闪存芯片，一层层叠在一起，像高楼一样。
+美国内存大厂美光，世界第一个推出了 232 层的闪存芯片，一层层叠在一起，像高楼一样。
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072703.webp)
 
-但是，它封装在闪存块里面，也就几毫米的高度，闪存块的边长不超过1厘米。
+但是，它封装在闪存块里面，也就几毫米的高度，闪存块的边长不超过 1 厘米。
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072704.webp)
 
@@ -334,25 +334,25 @@ Chrome 浏览器自带的开发者工具有很多功能，本文详细介绍如�
 
 ## 文摘
 
-1、[一加仑汽油需要89吨植物](https://www.eurekalert.org/news-releases/654287)
+1、[一加仑汽油需要 89 吨植物](https://www.eurekalert.org/news-releases/654287)
 
-在美国，汽油的单位是加仑，1加仑等于3.785升。普通小汽车的油箱通常是15加仑，可以行驶500到600公里。
+在美国，汽油的单位是加仑，1 加仑等于 3.785 升。普通小汽车的油箱通常是 15 加仑，可以行驶 500 到 600 公里。
 
-一个生态学家经过估算，发现形成1加仑汽油，需要89吨的植物。他是这样计算的：
+一个生态学家经过估算，发现形成 1 加仑汽油，需要 89 吨的植物。他是这样计算的：
 
-> 1加仑汽油 = 4.87公斤原油。
+> 1 加仑汽油 = 4.87 公斤原油。
 >
-> 原油含有85%的碳，所以1加仑汽油需要4.14公斤碳（4.87公斤 * 85%）。
-> 
-> 1公斤碳需要约10.75吨有机物，所以1加仑汽油需要44.5吨的有机物（4.14公斤 * 10.75）。
+> 原油含有 85%的碳，所以 1 加仑汽油需要 4.14 公斤碳（4.87 公斤 \* 85%）。
 >
-> 植物大约有一半重量是有机物，所以1加仑汽油需要89吨植物（44.5 * 2）。
+> 1 公斤碳需要约 10.75 吨有机物，所以 1 加仑汽油需要 44.5 吨的有机物（4.14 公斤 \* 10.75）。
+>
+> 植物大约有一半重量是有机物，所以 1 加仑汽油需要 89 吨植物（44.5 \* 2）。
 
-这样的结果是非常惊人的。89吨植物足以组成一个小树林，但是最终只能形成1加仑汽油，体积相当于两大瓶可乐。
+这样的结果是非常惊人的。89 吨植物足以组成一个小树林，但是最终只能形成 1 加仑汽油，体积相当于两大瓶可乐。
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072819.webp)
 
-2021年，美国消耗了1348.3亿加仑的汽油，这需要多少吨古代植物才能生产这些汽油啊？
+2021 年，美国消耗了 1348.3 亿加仑的汽油，这需要多少吨古代植物才能生产这些汽油啊？
 
 这些经过亿万年才被固定下来的碳，最终在很短的时间内，以二氧化碳的形式重新释放到大气里面。这就是为什么应该尽快淘汰油车。
 
@@ -382,7 +382,7 @@ Chrome 浏览器自带的开发者工具有很多功能，本文详细介绍如�
 
 4、
 
-普通人每天接触多达1万条广告，它们遍布商店、广告牌、公共汽车站、网站、电视、报纸和邮箱中。
+普通人每天接触多达 1 万条广告，它们遍布商店、广告牌、公共汽车站、网站、电视、报纸和邮箱中。
 
 广告已经渗透到我们生活的方方面面，现在广告商们正在研究，如何才能攻克最后一块没有广告的净地——梦境。
 
@@ -394,17 +394,17 @@ Chrome 浏览器自带的开发者工具有很多功能，本文详细介绍如�
 
 他们无所畏惧地面对未知的代码库和未知的任务，尽管不知道如何完成，毅然开始着手做某事。让自己变得无所畏惧，是我发现的最好的学习加速器之一。
 
--- [《成为专业程序员10周年的感悟》](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)
+-- [《成为专业程序员 10 周年的感悟》](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)
 
 ## 历史上的本周
 
-2021年（第 168 期）：[游戏《底特律：变人》](https://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html)
+2021 年（第 168 期）：[游戏《底特律：变人》](https://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html)
 
-2020年（第 117 期）：[我不想让你记住我的脸](https://www.ruanyifeng.com/blog/2020/07/weekly-issue-117.html)
+2020 年（第 117 期）：[我不想让你记住我的脸](https://www.ruanyifeng.com/blog/2020/07/weekly-issue-117.html)
 
-2019年（第 66 期）：[创业不是零和游戏](https://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html)
+2019 年（第 66 期）：[创业不是零和游戏](https://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html)
 
-2018年（第 15 期）：[周刊的内容从何而来？](https://www.ruanyifeng.com/blog/2018/07/weekly-issue-15.html)
+2018 年（第 15 期）：[周刊的内容从何而来？](https://www.ruanyifeng.com/blog/2018/07/weekly-issue-15.html)
 
 ## 鸣谢
 
@@ -413,4 +413,3 @@ Chrome 浏览器自带的开发者工具有很多功能，本文详细介绍如�
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072108.webp)
 
 （完）
-

@@ -8,7 +8,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101507.webp)
 
-上图是最近落成的成都科幻馆，位于成都市郫都区菁蓉湖畔，可用于举办展览、会议等各种活动。10月18日，第81届世界科幻大会和雨果奖在这里开幕。（[via](https://www.ithome.com/0/724/950.htm)）
+上图是最近落成的成都科幻馆，位于成都市郫都区菁蓉湖畔，可用于举办展览、会议等各种活动。10 月 18 日，第 81 届世界科幻大会和雨果奖在这里开幕。（[via](https://www.ithome.com/0/724/950.htm)）
 
 ## 加密通信的最后一块拼图
 
@@ -50,9 +50,9 @@ ECH 非常巧妙地解决了域名加密。它采用双层格式，也就是说�
 
 ## [活动] 稀土掘金创新论坛
 
-下周六（10月28日），北京有一个高层次的“稀土掘金创新论坛”活动。
+下周六（10 月 28 日），北京有一个高层次的“稀土掘金创新论坛”活动。
 
-它的主题是“**AI 时代下的管理变革**”，邀请了13位中国互联网行业知名的专家、学者和企业高管，进行现场畅谈。 
+它的主题是“**AI 时代下的管理变革**”，邀请了 13 位中国互联网行业知名的专家、学者和企业高管，进行现场畅谈。
 
 ![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101813.webp)
 
@@ -60,7 +60,7 @@ ECH 非常巧妙地解决了域名加密。它采用双层格式，也就是说�
 
 活动地点是北京新云南皇冠假日酒店。**希望了解嘉宾见解和业内 AI 动态，进行面对面交流的朋友，不要错过了。**
 
-主论坛价值3999元的门票，限时开放**免费申请**。欢迎点击[这个链接](https://www.bagevent.com/event/8047254?bag_track=ruanyifeng)，或者扫描上方二维码，现在就可以预约主会场入场券，先到先得。
+主论坛价值 3999 元的门票，限时开放**免费申请**。欢迎点击[这个链接](https://www.bagevent.com/event/8047254?bag_track=ruanyifeng)，或者扫描上方二维码，现在就可以预约主会场入场券，先到先得。
 
 ## 科技动态
 
@@ -94,11 +94,11 @@ ECH 非常巧妙地解决了域名加密。它采用双层格式，也就是说�
 
 3、[录屏软件值多少钱？](https://www.atlassian.com/blog/announcements/atlassian-acquires-loom)
 
-澳大利亚软件巨头 Atlassian 上周宣布，以10亿美元收购录屏软件 Loom。谁能想到，一个录屏软件可以值这么多。
+澳大利亚软件巨头 Atlassian 上周宣布，以 10 亿美元收购录屏软件 Loom。谁能想到，一个录屏软件可以值这么多。
 
 ![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101304.webp)
 
-Loom 成立于2015年，只是一个 Chrome 插件（下图），后来陆续发布了桌面端和手机端。
+Loom 成立于 2015 年，只是一个 Chrome 插件（下图），后来陆续发布了桌面端和手机端。
 
 ![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101302.webp)
 
@@ -106,7 +106,7 @@ Loom 成立于2015年，只是一个 Chrome 插件（下图），后来陆续发
 
 ![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101303.webp)
 
-它对企业用户非常有用，有些事情说不清，录一段屏就能让别人明白。它现在有20万付费用户，每月生成500万段视频，就能价值10亿美元。
+它对企业用户非常有用，有些事情说不清，录一段屏就能让别人明白。它现在有 20 万付费用户，每月生成 500 万段视频，就能价值 10 亿美元。
 
 这件事告诉我们，一个很普通的功能，如果做到极致，也会身价非凡。
 
@@ -138,13 +138,13 @@ Loom 成立于2015年，只是一个 Chrome 插件（下图），后来陆续发
 
 ![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100513.webp)
 
-以前的 CSS 不支持嵌套的写法。但是，现在 Firefox 和 Safari 的正式版本，都已经支持这种写法了（上图）。 
+以前的 CSS 不支持嵌套的写法。但是，现在 Firefox 和 Safari 的正式版本，都已经支持这种写法了（上图）。
 
-4、[CSS 重置详解（2023版）](https://chriscoyier.net/2023/10/03/being-picky-about-a-css-reset-for-fun-pleasure/)（英文）
+4、[CSS 重置详解（2023 版）](https://chriscoyier.net/2023/10/03/being-picky-about-a-css-reset-for-fun-pleasure/)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101611.webp)
 
-著名 CSS 作者 Chris Coyier 的最新文章，解释浏览器的 CSS 重置（CSS reset）每一行的意思。 
+著名 CSS 作者 Chris Coyier 的最新文章，解释浏览器的 CSS 重置（CSS reset）每一行的意思。
 
 5、[我用 Web Components 开发了自己的网站](https://www.thesoftwarephilosopher.com/articles/2023-08-07-modern-90s-web-dev.html)（英文）
 
@@ -240,7 +240,7 @@ GUI（图形界面）是目前的主流，但是这些年来 CLI（命令行）�
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023083002.webp)
 
-这个网站收集各种数据库的资料，目前一共有900多个数据库。
+这个网站收集各种数据库的资料，目前一共有 900 多个数据库。
 
 3、[顶级域名统计](https://github.com/tb0hdan/domains/blob/master/STATS.md)
 
@@ -290,7 +290,7 @@ GUI（图形界面）是目前的主流，但是这些年来 CLI（命令行）�
 
 ![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111005.webp)
 
-## 文摘 
+## 文摘
 
 1、[人造重力](https://www.popularmechanics.com/space/rockets/a8965/why-dont-we-have-artificial-gravity-15425569/)
 
@@ -316,9 +316,9 @@ GUI（图形界面）是目前的主流，但是这些年来 CLI（命令行）�
 
 问题在于尺寸。为了产生足够的向心力，旋转速度必须很快，飞船体积越小，旋转速度就越快。由于人体经受不住快速旋转，所以就不得不建造大型飞船，才能把旋转变得非常缓慢。
 
-地球的重力为 1g，假设旋转速度为每天（24小时）旋转一圈，请问产生 1g 向心力的圆环需要多大？
+地球的重力为 1g，假设旋转速度为每天（24 小时）旋转一圈，请问产生 1g 向心力的圆环需要多大？
 
-计算结果是，这个圆环的直径约为371万公里，自转速度为486,000公里/小时。作为对比，地球直径是1.27万公里。
+计算结果是，这个圆环的直径约为 371 万公里，自转速度为 486,000 公里/小时。作为对比，地球直径是 1.27 万公里。
 
 ![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101807.webp)
 
@@ -340,7 +340,7 @@ GUI（图形界面）是目前的主流，但是这些年来 CLI（命令行）�
 
 人们一直有一种误解，认为 Tailwind 与 Bootstrap 是竞争关系。但是，它们是两个不同层面的东西。Bootstrap 提供了 CSS 组件，而 Tailwind 只是一种更快的 CSS 书写方式。
 
--- [Hacker News 用户](https://news.ycombinator.com/item?id=37144502)  
+-- [Hacker News 用户](https://news.ycombinator.com/item?id=37144502)
 
 3、
 
@@ -373,4 +373,3 @@ GUI（图形界面）是目前的主流，但是这些年来 CLI（命令行）�
 [韩剧《阿尔布拉罕宫的回忆》](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-77.html)（2019 #77）
 
 （完）
-

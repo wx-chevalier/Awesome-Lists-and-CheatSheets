@@ -16,7 +16,7 @@
 
 分辨模型的强弱，有一个关键指标，就是看它有多少个参数。一般来说，参数的数量越多，模型就越强。
 
-GPT-2 有15亿个参数，GPT-3 和 ChatGPT 有[1750亿个](https://developer.nvidia.com/zh-cn/blog/openai-presents-gpt-3-a-175-billion-parameters-language-model/)，GPT-4 没有公布这个指标，据传比上一代大5倍以上。
+GPT-2 有 15 亿个参数，GPT-3 和 ChatGPT 有[1750 亿个](https://developer.nvidia.com/zh-cn/blog/openai-presents-gpt-3-a-175-billion-parameters-language-model/)，GPT-4 没有公布这个指标，据传比上一代大 5 倍以上。
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050303.webp)
 
@@ -28,11 +28,11 @@ GPT-2 有15亿个参数，GPT-3 和 ChatGPT 有[1750亿个](https://developer.nv
 
 答案是不会的，因为参数受到训练材料的制约。必需有足够的训练材料，才能计算出这些参数，**如果参数无限增长，训练材料势必也要无限增长。**
 
-我看到的一种说法是，训练材料至少应该是参数的10倍。举例来说，一个区分猫照片和狗照片的模型，假定有1,000个参数，那么至少应该用10,000张图片来训练。 
+我看到的一种说法是，训练材料至少应该是参数的 10 倍。举例来说，一个区分猫照片和狗照片的模型，假定有 1,000 个参数，那么至少应该用 10,000 张图片来训练。
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050305.webp)
 
-ChatGPT 有1750亿个参数，那么训练材料最好不少于17500亿个词元（token）。“词元”就是各种单词和符号，以小说《红楼梦》为例，它有788,451字，就算100万个词元。那么， ChatGPT 的训练材料相当于175万本《红楼梦》。
+ChatGPT 有 1750 亿个参数，那么训练材料最好不少于 17500 亿个词元（token）。“词元”就是各种单词和符号，以小说《红楼梦》为例，它有 788,451 字，就算 100 万个词元。那么，ChatGPT 的训练材料相当于 175 万本《红楼梦》。
 
 根据[报道](https://www.sciencefocus.com/future-technology/gpt-3/)，ChatGPT 实际上用了 570 GB 的训练材料，来自维基百科、互联网图书馆、Reddit 论坛、推特等等。
 
@@ -42,19 +42,19 @@ ChatGPT 有1750亿个参数，那么训练材料最好不少于17500亿个词元
 
 我告诉大家，真的有学者写过[论文](https://epochai.org/blog/will-we-run-out-of-ml-data-evidence-from-projecting-dataset)，研究这个问题。
 
-过去10年来，AI 训练数据集的增长速度远快于全世界的数据存量的增长速度。如果这种趋势继续下去，耗尽数据存量是不可避免的。
+过去 10 年来，AI 训练数据集的增长速度远快于全世界的数据存量的增长速度。如果这种趋势继续下去，耗尽数据存量是不可避免的。
 
 论文给出了三个时间点。
 
-> - 2026年：用完一般的语言数据
-> - 2030年～2050年：用完所有的语言数据
-> - 2030年～2060年：用完所有的视觉数据
+> - 2026 年：用完一般的语言数据
+> - 2030 年～ 2050 年：用完所有的语言数据
+> - 2030 年～ 2060 年：用完所有的视觉数据
 
 也就是说，根据他们的预测，**大概三四年后，新的训练材料就会很难找**。最迟三十年后，全世界所有材料都不够 AI 的训练。
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050307.webp)
 
-上图是作者给的趋势图，虚线是训练材料的增长速度，红线和蓝线是模型增长速度的不同预测。到了2035年以后，这三根线就合在一起了，曲线变得越来越平。
+上图是作者给的趋势图，虚线是训练材料的增长速度，红线和蓝线是模型增长速度的不同预测。到了 2035 年以后，这三根线就合在一起了，曲线变得越来越平。
 
 作者认为，到了那时，由于没有足够的训练材料，AI 模型的发展速度可能就会显著放缓。
 
@@ -64,7 +64,7 @@ ChatGPT 有1750亿个参数，那么训练材料最好不少于17500亿个词元
 
 1、[车轮转向系统](https://topcarnews.net/hyundais-new-steering-system-may-make-parking-jobs-way-easier-s237901.html)
 
-韩国现代汽车发布了一项新技术，允许每个车轮独立转动90度。
+韩国现代汽车发布了一项新技术，允许每个车轮独立转动 90 度。
 
 ![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042801.webp)
 
@@ -132,7 +132,7 @@ ChatGPT 有1750亿个参数，那么训练材料最好不少于17500亿个词元
 
 ![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042407.webp)
 
-发明者称，它让你随时感受到爱人的浪漫心跳。它采用玫瑰金材质，报价是3000美元/对。
+发明者称，它让你随时感受到爱人的浪漫心跳。它采用玫瑰金材质，报价是 3000 美元/对。
 
 ![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042408.webp)
 
@@ -164,11 +164,11 @@ CodePen 是著名的网页实时编辑预览工具，本文教你怎么实现它
 
 WebGPU 是一种跨平台的解决方案，提供了统一的接口。推荐这篇长文。
 
-5、[我开发 PCalc 的30年](https://pcalc.com/mac/thirty.html)（英文）
+5、[我开发 PCalc 的 30 年](https://pcalc.com/mac/thirty.html)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122402.webp)
 
-作者在1992年为 Macintosh 电脑写了一个计算器 PCalc（上图）。后来，他一直维护这个项目30年，还把它移植到苹果公司的其他设备上，比如 iPhone 和 iWatch（下图）。作者回忆了他这30年。
+作者在 1992 年为 Macintosh 电脑写了一个计算器 PCalc（上图）。后来，他一直维护这个项目 30 年，还把它移植到苹果公司的其他设备上，比如 iPhone 和 iWatch（下图）。作者回忆了他这 30 年。
 
 ![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122403.webp)
 
@@ -394,11 +394,10 @@ Udemy 高分付费课程的中文字幕版。（[@lyf61](https://github.com/ruan
 
 周刊得到国内新一代知识管理与协作平台 [FlowUs](https://flowus.cn?promotionChannel=GW_RYF_01) 的帮助，深表感谢。
 
-[FlowUS](https://flowus.cn?promotionChannel=GW_RYF_01)  = 文档 + 表格 + 网盘。你可以用它写文档、做主页、管理数据、存储文件等等。
+[FlowUS](https://flowus.cn?promotionChannel=GW_RYF_01) = 文档 + 表格 + 网盘。你可以用它写文档、做主页、管理数据、存储文件等等。
 
 每一期周刊同时发布在[ FlowUs 专栏](https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00)，欢迎大家也去开通自己的专栏和主页。
 
 ![](https://cdn.beekka.com/blogimg/asset/202303/bg2023030205.webp)
 
 （完）
-

@@ -32,7 +32,7 @@
 
 很多煤矿地下有很长的矿道，一旦煤矿枯竭，这些矿道就没用了。英国科学家正在尝试，将这些矿道用来种粮食。
 
-矿道是巨大的温室，不用担心天气和季节，而且温度和湿度水平通常是恒定的，还有现成的水以及二氧化碳。矿道的照明将来自LED灯，或者光纤技术可以将太阳光反射到地面40米。科学家认为，在里面发展“垂直农业”，一来可以为矿山注入新的生命，二来可能比地面的粮食产量更高。
+矿道是巨大的温室，不用担心天气和季节，而且温度和湿度水平通常是恒定的，还有现成的水以及二氧化碳。矿道的照明将来自 LED 灯，或者光纤技术可以将太阳光反射到地面 40 米。科学家认为，在里面发展“垂直农业”，一来可以为矿山注入新的生命，二来可能比地面的粮食产量更高。
 
 3、[谷歌翻译改版](https://www.blog.google/products/translate/new-look-google-translate-web/)
 
@@ -44,15 +44,15 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010405.jpg)
 
-法国老妇人 Jeanne Calment 是可以确认的世界最长寿的人，生于1875年2月21日，死于1997年8月4日，活了122岁。最近，莫斯科国立大学的一位博士质疑这可能是一个骗局。
+法国老妇人 Jeanne Calment 是可以确认的世界最长寿的人，生于 1875 年 2 月 21 日，死于 1997 年 8 月 4 日，活了 122 岁。最近，莫斯科国立大学的一位博士质疑这可能是一个骗局。
 
-首先，该地区其他长寿老人的寿命，几乎都没有超过100岁，与 Jeanne Calment 相差太大，后者是一个突出的个例，这是很可疑的。其次，她过了100岁，行动还非常自如，也没有皮肤萎缩的迹象，这也很不寻常。最后，她早年的照片与晚年的照片，眼睛之间的距离不一致（上图）。因此，博士大胆推测，根据历史记录，1934年时 Jeanne Calment 的女儿死了，实际上可能是她本人死了，然后她女儿冒充了她，为了可以继续领取政府的年金。如果这个推测是真的，那么她女儿1997年去世，真实年龄是99岁。
+首先，该地区其他长寿老人的寿命，几乎都没有超过 100 岁，与 Jeanne Calment 相差太大，后者是一个突出的个例，这是很可疑的。其次，她过了 100 岁，行动还非常自如，也没有皮肤萎缩的迹象，这也很不寻常。最后，她早年的照片与晚年的照片，眼睛之间的距离不一致（上图）。因此，博士大胆推测，根据历史记录，1934 年时 Jeanne Calment 的女儿死了，实际上可能是她本人死了，然后她女儿冒充了她，为了可以继续领取政府的年金。如果这个推测是真的，那么她女儿 1997 年去世，真实年龄是 99 岁。
 
 5、[高通公司的笔记本芯片](https://gizmodo.com/the-snapdragon-8cx-is-qualcomms-first-purpose-built-chi-1830914214)
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010406.jpg)
 
-高通公司发布该公司的第一款笔记本专用 CPU“Snapdragon 8cx”。这款 ARM 芯片是7纳米制程，具有 4G 通信能力，可以在休眠时依然保持 4G 连接，而且它可以提供至少一整天的续航时间。
+高通公司发布该公司的第一款笔记本专用 CPU“Snapdragon 8cx”。这款 ARM 芯片是 7 纳米制程，具有 4G 通信能力，可以在休眠时依然保持 4G 连接，而且它可以提供至少一整天的续航时间。
 
 已经有很多人猜测，不久的将来，Apple 的 MacBook 系列将使用 ARM 芯片，而不是今天使用的英特尔芯片。
 
@@ -60,15 +60,15 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010407.jpg)
 
-德国大众汽车公司表示，该公司计划2026年推出最后一代汽油和柴油车，然后放弃内燃机汽车，全部转向电动汽车的生产。这是为了减少二氧化碳排放以应对气候变化。上图是大众最新的电动车型 ID Neo。
+德国大众汽车公司表示，该公司计划 2026 年推出最后一代汽油和柴油车，然后放弃内燃机汽车，全部转向电动汽车的生产。这是为了减少二氧化碳排放以应对气候变化。上图是大众最新的电动车型 ID Neo。
 
-大众公司预计，到了2050年，除了充电设施不足的地区可能仍会有一些汽柴油车型，其他地区将全部是电动车。
+大众公司预计，到了 2050 年，除了充电设施不足的地区可能仍会有一些汽柴油车型，其他地区将全部是电动车。
 
 7、[尿液生物砖](https://www.news.uct.ac.za/article/-2018-10-24-world-first-bio-bricks-from-urine)
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010408.jpg)
 
-开普敦大学（UCT）土木工程学院发明了一种尿液生成砖头的技术。它使用一种细菌分解尿液中的尿素，同时通过复杂的化学反应产生碳酸钙，进而形成砖头。本质上，这与贝壳的形成方式并无二致。这种技术不仅可以处理尿液，对防止地球变暖也有好处，因为生物砖是在室温下制造，而普通砖是在1400°C左右的温度下进行窑烧，会产生大量二氧化碳。
+开普敦大学（UCT）土木工程学院发明了一种尿液生成砖头的技术。它使用一种细菌分解尿液中的尿素，同时通过复杂的化学反应产生碳酸钙，进而形成砖头。本质上，这与贝壳的形成方式并无二致。这种技术不仅可以处理尿液，对防止地球变暖也有好处，因为生物砖是在室温下制造，而普通砖是在 1400°C 左右的温度下进行窑烧，会产生大量二氧化碳。
 
 尿液里面剩余的氮和钾，可以作为肥料。另外，尿液中的磷可转化为磷酸钙，磷酸钙是化肥的关键成分。
 
@@ -76,30 +76,25 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010409.jpg)
 
-前往火星是对宇航员心理的巨大考验。前往火星的旅程将持续几个月，这期间，宇航员被限制在一个不超过中型房车的空间里面。即使到达火星，与地球之间的通信将有长达45分钟的延迟，你说一句话，要等45分钟才能听到答复。
+前往火星是对宇航员心理的巨大考验。前往火星的旅程将持续几个月，这期间，宇航员被限制在一个不超过中型房车的空间里面。即使到达火星，与地球之间的通信将有长达 45 分钟的延迟，你说一句话，要等 45 分钟才能听到答复。
 
-SpaceX 公司设计当中的载人飞船 Big Falcon Rocket（简称 BFR），安排了40个舱室，可容纳200人以上的乘客，每个舱室可以容纳五六个人。正常情况下，每次前往火星大约是100人，每个舱室住两到三个人。此外，还有公共区域供乘客使用，用于娱乐和社交。根据 SpaceX 公司的规划，计划在2024年首飞。
+SpaceX 公司设计当中的载人飞船 Big Falcon Rocket（简称 BFR），安排了 40 个舱室，可容纳 200 人以上的乘客，每个舱室可以容纳五六个人。正常情况下，每次前往火星大约是 100 人，每个舱室住两到三个人。此外，还有公共区域供乘客使用，用于娱乐和社交。根据 SpaceX 公司的规划，计划在 2024 年首飞。
 
 9、[Oath 的价值](https://www.nbcnews.com/tech/tech-news/verizon-signals-its-yahoo-aol-divisions-are-almost-worthless-n946846)
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010410.jpg)
 
-2015年，Verizon 公司以44亿美元的价格收购了美国在线 AOL，2017年又以45亿美元的价格收购了雅虎，然后将它们合并成了一家新公司 Oath。Oath 拥有美国在线和雅虎的所有网络资产，包括 Yahoo.com、AOL.com、赫芬顿邮报、Tumblr 和 TechCrunch。
+2015 年，Verizon 公司以 44 亿美元的价格收购了美国在线 AOL，2017 年又以 45 亿美元的价格收购了雅虎，然后将它们合并成了一家新公司 Oath。Oath 拥有美国在线和雅虎的所有网络资产，包括 Yahoo.com、AOL.com、赫芬顿邮报、Tumblr 和 TechCrunch。
 
-当时，Oath 经过核算，登记了实物资产大概50多亿美元，商誉为48亿美元。所谓商誉，就是收购价减去实物资产，可以理解成网站本身的价值。2018年底，Oath 宣布一次性注销商誉46亿美元，将其计为亏损。也就是说，雅虎如今几乎一钱不值。
+当时，Oath 经过核算，登记了实物资产大概 50 多亿美元，商誉为 48 亿美元。所谓商誉，就是收购价减去实物资产，可以理解成网站本身的价值。2018 年底，Oath 宣布一次性注销商誉 46 亿美元，将其计为亏损。也就是说，雅虎如今几乎一钱不值。
 
-10、__一句话新闻__
+10、**一句话新闻**
 
-* [日本](https://www.japantimes.co.jp/news/2018/12/21/national/number-babies-born-japan-2018-lowest-since-records-began-population-decline-highest/#.XB5Fk2VfhhH)2018年的新生儿数量只有92万人，是有史以来最低的，比上一年下降了2.5万。日本人口危机正在加速。
-    
-* [嫦娥四号飞船](https://beta.scmp.com/news/china/article/2180453/chinas-change-4-lunar-spacecraft-poised-touch-down-dark-side-moon)于1月3日上午10点半成功在月球降落，成为有史以来第一个在月球背面登陆的飞行器。登陆后，它顺利放出了玉兔月球车，已经传回地球第一张月球背面的照片。
-    
-* [美联储](https://www.washingtonpost.com/business/2018/12/28/living-paycheck-paycheck-is-disturbingly-common-i-see-no-way-out/?noredirect=on&utm_term=.98e2d70f8fa5)的一份报告披露，40%的美国成年人表示，紧急情况下他们拿不出400美元现金，必须去借款或者变卖资产。
-    
-* [以太坊创始人 Vitalik Buterin](https://spectrum.ieee.org/computing/networks/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent) 表示，计划在一两年内，将以太坊的共识机制从挖矿（PoW）改成利益证明（PoS），可以将耗电量降低99%。
-    
-* [美国纽约时报广场](https://www.nytimes.com/2018/12/28/nyregion/how-to-dump-3000-pounds-of-confetti-on-times-square.html)每年都要跨年倒数，一到12月31日晚上12点，满天落下闪光的彩屑。这些彩屑都是志愿者在周围高楼顶上，手工倾倒下来，今年一共有1.5吨。
-    
+- [日本](https://www.japantimes.co.jp/news/2018/12/21/national/number-babies-born-japan-2018-lowest-since-records-began-population-decline-highest/#.XB5Fk2VfhhH)2018 年的新生儿数量只有 92 万人，是有史以来最低的，比上一年下降了 2.5 万。日本人口危机正在加速。
+- [嫦娥四号飞船](https://beta.scmp.com/news/china/article/2180453/chinas-change-4-lunar-spacecraft-poised-touch-down-dark-side-moon)于 1 月 3 日上午 10 点半成功在月球降落，成为有史以来第一个在月球背面登陆的飞行器。登陆后，它顺利放出了玉兔月球车，已经传回地球第一张月球背面的照片。
+- [美联储](https://www.washingtonpost.com/business/2018/12/28/living-paycheck-paycheck-is-disturbingly-common-i-see-no-way-out/?noredirect=on&utm_term=.98e2d70f8fa5)的一份报告披露，40%的美国成年人表示，紧急情况下他们拿不出 400 美元现金，必须去借款或者变卖资产。
+- [以太坊创始人 Vitalik Buterin](https://spectrum.ieee.org/computing/networks/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent) 表示，计划在一两年内，将以太坊的共识机制从挖矿（PoW）改成利益证明（PoS），可以将耗电量降低 99%。
+- [美国纽约时报广场](https://www.nytimes.com/2018/12/28/nyregion/how-to-dump-3000-pounds-of-confetti-on-times-square.html)每年都要跨年倒数，一到 12 月 31 日晚上 12 点，满天落下闪光的彩屑。这些彩屑都是志愿者在周围高楼顶上，手工倾倒下来，今年一共有 1.5 吨。
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010411.jpg)
 
@@ -109,9 +104,9 @@ SpaceX 公司设计当中的载人飞船 Big Falcon Rocket（简称 BFR），安
 
 本文通过实例讲解，如何设置事件监听断点和 watch 表达式。
 
-2、[让你的生活更轻松的9个 Bash 快捷别名](https://medium.com/@raimibinkarim/9-bash-aliases-to-make-your-life-easier-3e5855aa95fa)（英文）
+2、[让你的生活更轻松的 9 个 Bash 快捷别名](https://medium.com/@raimibinkarim/9-bash-aliases-to-make-your-life-easier-3e5855aa95fa)（英文）
 
-本文介绍9个实用的 Bash 函数，你可以参考他的方式，将自己常用的操作封装成函数，然后设置别名。
+本文介绍 9 个实用的 Bash 函数，你可以参考他的方式，将自己常用的操作封装成函数，然后设置别名。
 
 3、[HTTP 头信息的安全设置](https://int64software.com/blog/2018/11/05/hardening-website-security-part-1-http-security-headers/)（英文）
 
@@ -119,11 +114,11 @@ SpaceX 公司设计当中的载人飞船 Big Falcon Rocket（简称 BFR），安
 
 4、[25 个改变世界的芯片](https://spectrum.ieee.org/tech-history/silicon-revolution/25-microchips-that-shook-the-world)（英文）
 
-本文列出了人类历史上25个最重要的集成电路。
+本文列出了人类历史上 25 个最重要的集成电路。
 
 5、[为什么复印店老板都是湖南人？](https://github.com/hangyan/Papers/blob/master/papers/%E6%96%B0%E5%8C%96%E5%A4%8D%E5%8D%B0%E4%BA%A7%E4%B8%9A%E7%9A%84%E7%94%9F%E5%91%BD%E5%8F%B2_%E5%86%AF%E5%86%9B%E6%97%97.pdf)（中文）
 
-这是一篇2010年的论文，作者是北京大学社会学博士，他经过调查研究后发现，全国70%的复印店老板都是湖南新化人。（@[yuanjingsong](https://github.com/ruanyf/weekly/issues/135) 投稿）
+这是一篇 2010 年的论文，作者是北京大学社会学博士，他经过调查研究后发现，全国 70%的复印店老板都是湖南新化人。（@[yuanjingsong](https://github.com/ruanyf/weekly/issues/135) 投稿）
 
 6、[安卓设备如何启用加密 DNS？](https://www.techrepublic.com/article/how-to-use-cloudflare-encrypted-dns-on-android/)（英文）
 
@@ -135,13 +130,13 @@ DNS 查询默认是不加密的，本文介绍如何在安卓手机上通过 clo
 
 本文以一种通俗易懂的方式解释 IPFS 这个基于 IP 协议的文件系统的原理。
 
-8、[Erlang 语言的20年历史](https://www.erlang-solutions.com/blog/twenty-years-of-open-source-erlang.html)（英文）
+8、[Erlang 语言的 20 年历史](https://www.erlang-solutions.com/blog/twenty-years-of-open-source-erlang.html)（英文）
 
-2018年12月8日是 Erlang 语言发布20年的纪念日，本文从一个历史参与者的角度回顾了这20年。
+2018 年 12 月 8 日是 Erlang 语言发布 20 年的纪念日，本文从一个历史参与者的角度回顾了这 20 年。
 
 9、[如何写一个 Node 命令行验证码图像识别工具](https://www.chenng.cn/post/Node-command-line-tool-production.html)（中文）
 
-Node 命令行工具的开发实例，从 0 开始写。（@[ringcrl](https://github.com/ruanyf/weekly/issues/143)__ __投稿）
+Node 命令行工具的开发实例，从 0 开始写。（@[ringcrl](https://github.com/ruanyf/weekly/issues/143)\_\_ \_\_投稿）
 
 10、[为什么使用 F#?](https://fsharpforfunandprofit.com/why-use-fsharp/)（英文）
 
@@ -155,7 +150,7 @@ F# 语言的特点介绍。
 
 2、[React 视频课程](https://scrimba.com/g/glearnreact)（英文）
 
-React 的短视频课程，几分钟一集，共有45集。
+React 的短视频课程，几分钟一集，共有 45 集。
 
 3、[开源人物肖像](http://facesofopensource.com/)
 
@@ -175,11 +170,11 @@ CodeCademy 的 C++ 在线课程。
 
 该网站收集优秀程序员面试没通过的经历，用来鼓励面试失败者不要灰心。
 
-7、[30秒系列](https://github.com/30-seconds/30-seconds-of-code)
+7、[30 秒系列](https://github.com/30-seconds/30-seconds-of-code)
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010414.jpg)
 
-该系列专门收集30秒以内可以解答的问题。目前有以下6个库：（1）[30秒 JS 问题](https://github.com/30-seconds/30-seconds-of-code)；（2）[30秒 CSS 问题](https://30-seconds.github.io/30-seconds-of-css/)；（3）[30秒面试问题](https://30secondsofinterviews.org/)；（4）[30秒 React 问题](https://github.com/30-seconds/30-seconds-of-react)；（5）[30秒 Python 问题](https://github.com/kriadmin/30-seconds-of-python-code)；（6）[30秒 PHP 问题](https://github.com/appzcoder/30-seconds-of-php-code)。
+该系列专门收集 30 秒以内可以解答的问题。目前有以下 6 个库：（1）[30 秒 JS 问题](https://github.com/30-seconds/30-seconds-of-code)；（2）[30 秒 CSS 问题](https://30-seconds.github.io/30-seconds-of-css/)；（3）[30 秒面试问题](https://30secondsofinterviews.org/)；（4）[30 秒 React 问题](https://github.com/30-seconds/30-seconds-of-react)；（5）[30 秒 Python 问题](https://github.com/kriadmin/30-seconds-of-python-code)；（6）[30 秒 PHP 问题](https://github.com/appzcoder/30-seconds-of-php-code)。
 
 ## 工具
 
@@ -195,7 +190,7 @@ Linux 系统的命令行文件管理器，号称是最快的文件管理器。
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010415.jpg)
 
-输入一个产品的名字，该工具会根据谷歌的自动搜索提示，生成一张图，上面是经常与该产品进行对比的其他产品。（@[nivance](https://github.com/ruanyf/weekly/issues/99)__ __投稿）
+输入一个产品的名字，该工具会根据谷歌的自动搜索提示，生成一张图，上面是经常与该产品进行对比的其他产品。（@[nivance](https://github.com/ruanyf/weekly/issues/99)\_\_ \_\_投稿）
 
 4、[groupImg](https://github.com/victorqribeiro/groupImg)
 
@@ -223,7 +218,7 @@ groupImg 是一个 Python 脚本，使用 k-means 算法进行图片分类。我
 
 8、[cloc](https://github.com/AlDanial/cloc)
 
-统计代码行数的工具，可以用于压缩文件（如zip tar等），包括空行和特殊字符的处理与统计，生成多种格式的结果。安装简单且轻量，对于阅读源码，分析项目代码的场景非常实用。（@[tifazxy](https://github.com/ruanyf/weekly/issues/105) 投稿）
+统计代码行数的工具，可以用于压缩文件（如 zip tar 等），包括空行和特殊字符的处理与统计，生成多种格式的结果。安装简单且轻量，对于阅读源码，分析项目代码的场景非常实用。（@[tifazxy](https://github.com/ruanyf/weekly/issues/105) 投稿）
 
 9、[ssh-chat](https://github.com/shazow/ssh-chat)
 
@@ -247,9 +242,9 @@ Go 语言实现的 SSH 服务端，用于登录用户之间的聊天，可以用
 
 未来几十年将发生气候灾难，这几乎是必然的。同时，世界人口还将继续增长，这就要求世界农业生产的大幅度改变，尽量减少对气候的破坏，同时为多出来的数十亿人口提供食物。
 
-现在的情况是，农业使用了世界大约40％的土地，并且占人类温室气体排放量的四分之一。根据预测，全球人口将从目前的72亿增长到2050年的近100亿，而且随着收入增加，每个人会消费更多的肉类，农业对环境的影响正在迅速扩大。
+现在的情况是，农业使用了世界大约 40％的土地，并且占人类温室气体排放量的四分之一。根据预测，全球人口将从目前的 72 亿增长到 2050 年的近 100 亿，而且随着收入增加，每个人会消费更多的肉类，农业对环境的影响正在迅速扩大。
 
-2050年的世界农业需要比2010年多产出56％的卡路里。如果农民和牧场主通过开垦更多的森林来获得土地，那么根据计算，在现有的产出水平下，需要新增两个印度大小的土地，才能满足增加的粮食需求。另一方面，森林改造成农田的过程中，将释放大量的碳到大气中。
+2050 年的世界农业需要比 2010 年多产出 56％的卡路里。如果农民和牧场主通过开垦更多的森林来获得土地，那么根据计算，在现有的产出水平下，需要新增两个印度大小的土地，才能满足增加的粮食需求。另一方面，森林改造成农田的过程中，将释放大量的碳到大气中。
 
 可持续农业体系的关键，在于说服消费者少吃肉类和不要浪费粮食。牛肉和羊肉的生产，会释放出大量的碳。甚至鸡肉都是更好的选择，因为鸡肉的环境影响，只是牛肉的八分之一。目前，科学家还在研究如何让牛不排放甲烷（一种很强的温室气体）。
 
@@ -259,13 +254,13 @@ Go 语言实现的 SSH 服务端，用于登录用户之间的聊天，可以用
 
 2、[优质平庸](https://www.businessoffashion.com/articles/opinion/op-ed-how-premium-mediocre-conquered-fashion)
 
-2017年，有人发明了“优质平庸”（Premium Mediocre）这个词。它指的是一种营销手段，让消费者认为他们正在消费奢侈品，而实际上只是在消费普通商品，比如“精酿”啤酒、“手工”比萨饼、“烘焙师签名”汉堡等等都是“优质平庸”的例子。
+2017 年，有人发明了“优质平庸”（Premium Mediocre）这个词。它指的是一种营销手段，让消费者认为他们正在消费奢侈品，而实际上只是在消费普通商品，比如“精酿”啤酒、“手工”比萨饼、“烘焙师签名”汉堡等等都是“优质平庸”的例子。
 
 这种做法很简单，就是用一些额外的手段，让平庸的东西看上去更加优质，让消费者产生一种幻想，认为自己正在购买高级产品。营销人员通常采用的手段是，为商品名加上“首选”、“手工”、“收藏级”等词语。
 
 许多公司希望消费者愿意付出较高的价格，就用“负担得起的奢侈品”的定位来推销自己的产品。当然，他们销售的并不是奢侈品，而是把奢侈品的光环像面包粉一样，洒一点在平庸商品上面。这里的重点是，必须让消费者觉得，平庸的商品一点不平庸。
 
-“优质平庸”也延伸到了真正的奢侈品品牌。普通消费者买不起这些奢侈品，但是奢侈品公司仍然想赚他们的钱，就设法提供一些入门级的产品系列，将一些低成本的产品贴上自家的奢侈品品牌，比如 Prada 尼龙背包、路易威登帆布包、Gucci的塑料凉鞋等等。这个策略很成功，优质平庸市场的利润非常高，据统计，2015年小型皮具奢侈品的销售额达到57亿美元，预计到2020年将达到75亿美元。对于消费者来说，只要几百美元，就能买到奢侈品牌，很多人愿意尝试。
+“优质平庸”也延伸到了真正的奢侈品品牌。普通消费者买不起这些奢侈品，但是奢侈品公司仍然想赚他们的钱，就设法提供一些入门级的产品系列，将一些低成本的产品贴上自家的奢侈品品牌，比如 Prada 尼龙背包、路易威登帆布包、Gucci 的塑料凉鞋等等。这个策略很成功，优质平庸市场的利润非常高，据统计，2015 年小型皮具奢侈品的销售额达到 57 亿美元，预计到 2020 年将达到 75 亿美元。对于消费者来说，只要几百美元，就能买到奢侈品牌，很多人愿意尝试。
 
 这件事情的启示就是，商品的徽标比产品本身更重要，普通鸡蛋只能卖一块钱，但是标上“天然土鸡蛋”就能卖一块五。“优质平庸”的关键，就是商品有一个独一无二、消费者认同的徽标。
 
@@ -283,7 +278,7 @@ Go 语言实现的 SSH 服务端，用于登录用户之间的聊天，可以用
 
 2、[网站就是 Git 仓库](https://slashcrypto.org/2018/11/28/eBay-source-code-leak/)
 
-有人发现，eBay 日本的官网 `www.ebay.co.jp`  的就是一个 Git 仓库，而且可以浏览器访问 `.git` 目录。该漏洞现在已经修复。
+有人发现，eBay 日本的官网 `www.ebay.co.jp` 的就是一个 Git 仓库，而且可以浏览器访问 `.git` 目录。该漏洞现在已经修复。
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010423.jpg)
 
@@ -293,10 +288,7 @@ Go 语言实现的 SSH 服务端，用于登录用户之间的聊天，可以用
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010424.jpg)
 
-  
-
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010425.jpg)
-
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010426.jpg)
 
@@ -304,7 +296,7 @@ Go 语言实现的 SSH 服务端，用于登录用户之间的聊天，可以用
 
 1、[鬼屋](http://crookedhouse.org/grym-home/)
 
-我们常常看到鬼屋的影视作品。2015年，有一群英国人做了鬼屋的真实版。他们写好了剧本，租了一间乡间的老房子，精心布置好，然后用各种高技术，制造幽灵的效果。
+我们常常看到鬼屋的影视作品。2015 年，有一群英国人做了鬼屋的真实版。他们写好了剧本，租了一间乡间的老房子，精心布置好，然后用各种高技术，制造幽灵的效果。
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019010427.jpg)
 
@@ -326,7 +318,7 @@ Go 语言实现的 SSH 服务端，用于登录用户之间的聊天，可以用
 
 2、
 
-如果你在2018年购买了旗舰手机，又不玩游戏，那么可能在未来十年内你都不需要换手机。大多数人现在拥有的手机运算能力，已经远远超出了他们需要的水平。
+如果你在 2018 年购买了旗舰手机，又不玩游戏，那么可能在未来十年内你都不需要换手机。大多数人现在拥有的手机运算能力，已经远远超出了他们需要的水平。
 
 -- [《智能手机的销售已经进入衰退期》](http://nymag.com/intelligencer/2018/12/global-u-s-growth-in-smartphone-growth-starts-to-decline.html)
 
@@ -338,7 +330,7 @@ Go 语言实现的 SSH 服务端，用于登录用户之间的聊天，可以用
 
 4、
 
-谷歌想改进 TCP 协议，但是 TCP 协议是操作系统内核实现的，实际上没法改进。所以，他们选择在 UDP 协议的基础上，重新实现了一个不同的 TCP 协议，叫做 QUIC 协议。 
+谷歌想改进 TCP 协议，但是 TCP 协议是操作系统内核实现的，实际上没法改进。所以，他们选择在 UDP 协议的基础上，重新实现了一个不同的 TCP 协议，叫做 QUIC 协议。
 
 -- [《QUIC 协议的加密机制》](https://cryptologie.net/article/446/quic-crypto-and-simple-state-machines/)
 
@@ -346,10 +338,8 @@ Go 语言实现的 SSH 服务端，用于登录用户之间的聊天，可以用
 
 这个专栏每周五发布，同步更新在我的[个人网站](http://www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
 
-微信搜索“__阮一峰的网络日志__”或者扫描二维码，即可订阅。
+微信搜索“**阮一峰的网络日志**”或者扫描二维码，即可订阅。
 
 ![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
-
-

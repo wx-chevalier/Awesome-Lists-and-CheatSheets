@@ -30,7 +30,7 @@
 
 我问大家一个问题：手机 App 可以运行在桌面电脑，对于软件开发有什么影响呢？
 
-显然，直接影响就是一条， **以后还有必要开发桌面版软件吗？** 除了少数桌面专用软件，其他软件只要让手机 App 适配一下电脑，就不用发布专门的 Windows 版或 Mac 版了。
+显然，直接影响就是一条，**以后还有必要开发桌面版软件吗？** 除了少数桌面专用软件，其他软件只要让手机 App 适配一下电脑，就不用发布专门的 Windows 版或 Mac 版了。
 
 举例来说，Windows 运行微信，现在必须安装单独的 Windows 版，以后直接安装手机版可能就行了。对于用户来说，体验完全一致，不会有功能缺失；对于腾讯来说，可以少养一个团队，也不用操心跨平台移植的复杂性了。
 
@@ -40,7 +40,7 @@
 
 所以，Windows 的这个新功能，使得手机 App 的市场一下子扩大到了桌面电脑，这尤其对于小团队是重大利好。
 
-我的结论就是， **App 开发将从多端并存，进入全端时代。** 手机 App 会吃掉其他客户端，变得越来越重要；桌面 App 将会衰落，开发需求进一步变小。
+我的结论就是，**App 开发将从多端并存，进入全端时代。** 手机 App 会吃掉其他客户端，变得越来越重要；桌面 App 将会衰落，开发需求进一步变小。
 
 不过，这是一个长期的过程，还有很长的路要走。根据报道，微软这一次采用了英特尔公司的桥接技术，让 x86 架构的 CPU 可以解释 ARM 指令，听上去很像是即时编译。但是那样的话，要是 App 用到了谷歌服务框架，应该怎么处理呢？另一方面，谷歌的 ChromeOS 系统，早就实现了在 x86 CPU 上运行安卓 App（通过一个虚拟层），性能挺差的，体验也不好（比如窗口无法放大，很多操作不支持鼠标）。
 
@@ -52,7 +52,7 @@
 
 小程序，可以说是中国软件业的一个奇迹。
 
-2017年，微信发明了这个产品，立刻受到用户的认可。短短几年中，遍地开花，各大互联网公司（支付宝、百度、头条……）纷纷跟进支持。事实上，小程序已经成了一个独立的开发方向，跟 Web 和手机 App 一样重要。
+2017 年，微信发明了这个产品，立刻受到用户的认可。短短几年中，遍地开花，各大互联网公司（支付宝、百度、头条……）纷纷跟进支持。事实上，小程序已经成了一个独立的开发方向，跟 Web 和手机 App 一样重要。
 
 相应地，小程序开发者一直炙手可热，市场招聘需求巨大，越来越多的前端开发者转向小程序领域。
 
@@ -66,17 +66,17 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202107/bg2021070107.jpg)
 
-课程原价98元，现在跟周刊合作，读者只需象征性支付 **0.02元** 报名费。微信扫描下面二维码，进群后即可获取课程， **诚信教学，保证无套路。**
+课程原价 98 元，现在跟周刊合作，读者只需象征性支付 **0.02 元** 报名费。微信扫描下面二维码，进群后即可获取课程，**诚信教学，保证无套路。**
 
 ![](https://cdn.beekka.com/blogimg/asset/202107/bg2021070106.jpg)
 
-报名成功的读者，还可以获赠价值98元的专题课《前端面试防虐指南-手写代码篇》。
+报名成功的读者，还可以获赠价值 98 元的专题课《前端面试防虐指南-手写代码篇》。
 
 ## 科技动态
 
 1、[自动驾驶卡车实验](https://interestingengineering.com/self-driving-truck-completes-950-mile-trip-10-hours-faster-than-human-driver)
 
-一家美国自动驾驶公司，成功完成了重型卡车的自动驾驶实验，14个小时开完了1500公里，人类驾驶员一般需要24小时才能完成。
+一家美国自动驾驶公司，成功完成了重型卡车的自动驾驶实验，14 个小时开完了 1500 公里，人类驾驶员一般需要 24 小时才能完成。
 
 ![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060505.jpg)
 
@@ -84,11 +84,11 @@
 
 2、[如何数珍珠](https://countthings.com/case-studies/0001)
 
-有一家日本珍珠贸易公司，多年以来，都是人工清点珍珠的数量。他们将珍珠倒入一个小盘子，里面有100个坑，如果都填满了就是100颗珍珠。这样计数很慢，每到收获季节，就需要两个员工，数上整整两天。
+有一家日本珍珠贸易公司，多年以来，都是人工清点珍珠的数量。他们将珍珠倒入一个小盘子，里面有 100 个坑，如果都填满了就是 100 颗珍珠。这样计数很慢，每到收获季节，就需要两个员工，数上整整两天。
 
 ![](https://cdn.beekka.com/blogimg/asset/202105/bg2021052417.jpg)
 
-现在，他们使用一个叫做 “CountThings from Photos” 的安卓应用，只要对着盘子里面的珍珠，拍一张照片，手机就会自动计算出有多少颗珍珠，大大节省了人工，只要30分钟就够了。
+现在，他们使用一个叫做 “CountThings from Photos” 的安卓应用，只要对着盘子里面的珍珠，拍一张照片，手机就会自动计算出有多少颗珍珠，大大节省了人工，只要 30 分钟就够了。
 
 ![](https://cdn.beekka.com/blogimg/asset/202105/bg2021052418.jpg)
 
@@ -98,7 +98,7 @@
 
 BBC 报道，有一个英国毒品贩子，多年来逍遥法外，警方一直抓不到他。后来，警方发现有一个社交媒体账户，怀疑背后就是他，但是没有证据。
 
-有一天，这个账户发了一张手拿奶酪的照片（下图），警方根据照片上的指纹和掌纹，确定就是此人，从而将他抓获，判刑13年6个月。
+有一天，这个账户发了一张手拿奶酪的照片（下图），警方根据照片上的指纹和掌纹，确定就是此人，从而将他抓获，判刑 13 年 6 个月。
 
 ![](https://cdn.beekka.com/blogimg/asset/202105/bg2021052416.jpg)
 
@@ -124,17 +124,17 @@ BBC 报道，有一个英国毒品贩子，多年来逍遥法外，警方一直�
 
 6、
 
-[国内的创业公司宇树科技](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/unitrees-go1-robot-dog-looks-pretty-great-costs-just-usd-2700)，推出了面向消费市场的机器狗，售价1.6万~2.0万人民币，10月前发货。
+[国内的创业公司宇树科技](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/unitrees-go1-robot-dog-looks-pretty-great-costs-just-usd-2700)，推出了面向消费市场的机器狗，售价 1.6 万~2.0 万人民币，10 月前发货。
 
 ![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062102.jpg)
 
-这个机器狗能够自主跟随和避障，有强大的保持平衡能力，跌倒可以自己爬起来。负载能力约5公斤，慢速前进时续航1小时。它的价格只有国外的波士顿动力公司同类产品的十分之一。
+这个机器狗能够自主跟随和避障，有强大的保持平衡能力，跌倒可以自己爬起来。负载能力约 5 公斤，慢速前进时续航 1 小时。它的价格只有国外的波士顿动力公司同类产品的十分之一。
 
 ![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062103.jpg)
 
 7、
 
-中国最大的海洋科考船[“中山大学号”](https://china.huanqiu.com/article/43h6gCmStZe)，6月26日在上海交付使用。该船排水量6880吨，续航力15000海里，专门供中山大学海洋学院进行教学和科考使用。
+中国最大的海洋科考船[“中山大学号”](https://china.huanqiu.com/article/43h6gCmStZe)，6 月 26 日在上海交付使用。该船排水量 6880 吨，续航力 15000 海里，专门供中山大学海洋学院进行教学和科考使用。
 
 ![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062606.jpg)
 
@@ -156,7 +156,7 @@ BBC 报道，有一个英国毒品贩子，多年来逍遥法外，警方一直�
 
 ![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060305.jpg)
 
-QQ 宠物最早出现在2005年初的 QQ 贺岁版，同年6月正式上线。一年后同时在线用户数就突破了100万，成为了世界上最大的虚拟宠物品牌。
+QQ 宠物最早出现在 2005 年初的 QQ 贺岁版，同年 6 月正式上线。一年后同时在线用户数就突破了 100 万，成为了世界上最大的虚拟宠物品牌。
 
 2、[韩国的真人约会游戏](https://mp.weixin.qq.com/s/ICeg7ksh3KHbFSj00mbmvg)（中文）
 
@@ -172,13 +172,13 @@ QQ 宠物最早出现在2005年初的 QQ 贺岁版，同年6月正式上线。�
 
 作者演示静态网站（比如 GitHub Pages）如何通过 SQLite 数据库，实现查询功能，完全不需要后台脚本。
 
-这种操作的实现原理有两个：一是 SQLite 数据库以页为单位存储数据，每页默认是 4KB，可以按页读取数据；二是前端可以用 sql.js 模拟一个内存文件系统，从而实现按页读取文件。（[@joyc](https://github.com/ruanyf/weekly/issues/1820) 投稿） 
+这种操作的实现原理有两个：一是 SQLite 数据库以页为单位存储数据，每页默认是 4KB，可以按页读取数据；二是前端可以用 sql.js 模拟一个内存文件系统，从而实现按页读取文件。（[@joyc](https://github.com/ruanyf/weekly/issues/1820) 投稿）
 
 4、[Telegram 创始人和他的黑暗帝国](https://www.spiegel.de/international/world/the-telegram-billionaire-and-his-dark-empire-a-f27cb79f-86ae-48de-bdbd-8df604d07cc8)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202106/bg2021061502.jpg)
 
-德国《明镜》杂志的长篇英语报道，介绍聊天软件 Telegram 现年36岁的创始人帕维尔·杜罗夫 (Pavel Durov) （上图），以及 Telegram 的故事。
+德国《明镜》杂志的长篇英语报道，介绍聊天软件 Telegram 现年 36 岁的创始人帕维尔·杜罗夫 (Pavel Durov) （上图），以及 Telegram 的故事。
 
 5、[老电脑如何安装 Windows 11](https://allthings.how/how-to-install-windows-11-on-legacy-bios-without-secure-boot-or-tpm-2-0/)（英文）
 
@@ -210,7 +210,7 @@ Windows 11 发布测试版本后，很多人发现老电脑安装不了，因为
 
 ![](https://cdn.beekka.com/blogimg/asset/202106/bg2021061710.jpg)
 
-由于欧洲议会的规定，国外的网站都有一个讨厌的“Cookie  横幅”，询问用户是否接受 Cookie。
+由于欧洲议会的规定，国外的网站都有一个讨厌的“Cookie 横幅”，询问用户是否接受 Cookie。
 
 现在有一个新的 HTTP 提案（还未通过），用户只需设置一次，浏览器就可以用一个 HTTP 标头通知网站，不必放置 Cookie 横幅。
 
@@ -230,7 +230,7 @@ Nvidia 公司推出的一个人工智能照片编辑软件，可以免费下载�
 
 ![](https://cdn.beekka.com/blogimg/asset/202106/bg2021063011.jpg)
 
-一个命令行的 Git 用户管理器，适合需要不同身份，向不同仓库提交代码的情况。（[@gauseen](https://github.com/ruanyf/weekly/issues/1816)  投稿）
+一个命令行的 Git 用户管理器，适合需要不同身份，向不同仓库提交代码的情况。（[@gauseen](https://github.com/ruanyf/weekly/issues/1816) 投稿）
 
 4、[BookmarkHub](https://github.com/dudor/BookmarkHub/blob/main/README_cn.md)
 
@@ -296,7 +296,7 @@ Chrome 浏览器内置的“恐龙跳跃”小游戏，被网友从 JavaScript �
 
 1、[淹没的意大利村庄](https://www.smithsonianmag.com/smart-news/medieval-italian-village-briefly-surfaces-after-70-years-underwater-180977838/)
 
-1950年，意大利政府为了在山区建设一个人工湖，淹没了一个叫做库伦（Curon）的小村庄。这个村庄有一个14世纪的钟楼，因为太高，没有被全部淹没，形成了“水中高塔”的奇景。
+1950 年，意大利政府为了在山区建设一个人工湖，淹没了一个叫做库伦（Curon）的小村庄。这个村庄有一个 14 世纪的钟楼，因为太高，没有被全部淹没，形成了“水中高塔”的奇景。
 
 ![](https://cdn.beekka.com/blogimg/asset/202105/bg2021053007.jpg)
 
@@ -308,7 +308,7 @@ Chrome 浏览器内置的“恐龙跳跃”小游戏，被网友从 JavaScript �
 
 2、[摩天大楼顶上的午餐](https://historydaily.org/charles-ebbets-lunchtime-atop-a-skyscraper)
 
-《摩天大楼顶上的午餐》是一张著名的黑白照片，拍摄于1932年纽约的一个摩天大楼工地。11个工人坐在摩天大楼顶上的大梁上吃午饭，大梁距下方街道256米，而他们没有任何安全带等保护设施。
+《摩天大楼顶上的午餐》是一张著名的黑白照片，拍摄于 1932 年纽约的一个摩天大楼工地。11 个工人坐在摩天大楼顶上的大梁上吃午饭，大梁距下方街道 256 米，而他们没有任何安全带等保护设施。
 
 ![](https://cdn.beekka.com/blogimg/asset/202105/bg2021053001.jpg)
 
@@ -324,11 +324,11 @@ Chrome 浏览器内置的“恐龙跳跃”小游戏，被网友从 JavaScript �
 
 ![](https://cdn.beekka.com/blogimg/asset/202105/bg2021053004.jpg)
 
-##  文摘
+## 文摘
 
 1、[我为什么公开发表博客文章？](https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/)
 
-八年来，我在个人网站上发布了100多篇文章。有人问我，为什么一直坚持在写？
+八年来，我在个人网站上发布了 100 多篇文章。有人问我，为什么一直坚持在写？
 
 我想了想，写作博客其实对我有很多好处，所以我才会有动力。
 
@@ -358,7 +358,7 @@ Chrome 浏览器内置的“恐龙跳跃”小游戏，被网友从 JavaScript �
 
 1、
 
-Python 是我最喜欢的语言，但它替代不了 Bash。一行 Bash 代码就能完成的任务，Python 要写许多行，比如`mv`命令，Python 可能需要120行才能实现。
+Python 是我最喜欢的语言，但它替代不了 Bash。一行 Bash 代码就能完成的任务，Python 要写许多行，比如`mv`命令，Python 可能需要 120 行才能实现。
 
 Bash 把命令行环境的复杂性都抽象掉了，如果改用 Python 实现，就不得不自己处理这些复杂性。
 
@@ -378,7 +378,7 @@ Bash 把命令行环境的复杂性都抽象掉了，如果改用 Python 实现�
 
 4、
 
-2012年，牛津大学起诉印度德里大学的一个复印中心，复印盗版教材出售给学生。
+2012 年，牛津大学起诉印度德里大学的一个复印中心，复印盗版教材出售给学生。
 
 德里高等法院裁定，牛津大学败诉，学生使用盗版教材不违法。理由是原版教材的定价超出了印度学生的承受能力，学生永远不会成为原告的客户。
 
@@ -392,11 +392,11 @@ Bash 把命令行环境的复杂性都抽象掉了，如果改用 Python 实现�
 
 ## 历史上的本周
 
-2020年（第 114 期）：[U 盘化生存和 Uber-job](https://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html)
+2020 年（第 114 期）：[U 盘化生存和 Uber-job](https://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html)
 
-2019年（第 62 期）：[日本电影《编舟记》](https://www.ruanyifeng.com/blog/2019/06/weekly-issue-62.html)
+2019 年（第 62 期）：[日本电影《编舟记》](https://www.ruanyifeng.com/blog/2019/06/weekly-issue-62.html)
 
-2018年（第 11 期）：[编程语言越发复杂](https://www.ruanyifeng.com/blog/2018/06/weekly-issue-11.html)
+2018 年（第 11 期）：[编程语言越发复杂](https://www.ruanyifeng.com/blog/2018/06/weekly-issue-11.html)
 
 ## 订阅
 
@@ -407,4 +407,3 @@ Bash 把命令行环境的复杂性都抽象掉了，如果改用 Python 实现�
 ![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030402.jpg)
 
 （完）
-

@@ -8,7 +8,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052522.webp)
 
-“520”那一天，杭州市西湖区绿地出现了一朵巨型的 3D 打印玫瑰，直径2.4米。（[via](https://weibo.com/2097152664/N1jdzBewt)）
+“520”那一天，杭州市西湖区绿地出现了一朵巨型的 3D 打印玫瑰，直径 2.4 米。（[via](https://weibo.com/2097152664/N1jdzBewt)）
 
 ## 最酷的乐高作品
 
@@ -24,7 +24,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052210.webp)
 
-它的动力来自一个电动机，每分钟旋转375次。
+它的动力来自一个电动机，每分钟旋转 375 次。
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052404.webp)
 
@@ -40,13 +40,13 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052212.webp)
 
-上图中，一个8齿的小齿轮带动一个24齿的大齿轮。由于后者比前者大3倍，所以转速会放慢3倍。
+上图中，一个 8 齿的小齿轮带动一个 24 齿的大齿轮。由于后者比前者大 3 倍，所以转速会放慢 3 倍。
 
-接着，大齿轮上面再固定一个8齿的小齿轮，去带动一个更大的40齿的齿轮。
+接着，大齿轮上面再固定一个 8 齿的小齿轮，去带动一个更大的 40 齿的齿轮。
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052213.webp)
 
-因此，第三个齿轮的转速，就比第二个齿轮慢了5倍（40 / 8），相当比第一个齿轮慢了15倍（3 x 5）。
+因此，第三个齿轮的转速，就比第二个齿轮慢了 5 倍（40 / 8），相当比第一个齿轮慢了 15 倍（3 x 5）。
 
 不断重复这种做法，转速就会越来越慢。
 
@@ -54,7 +54,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052215.webp)
 
-作者甚至还用到了168齿的超级齿轮。
+作者甚至还用到了 168 齿的超级齿轮。
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052216.webp)
 
@@ -104,17 +104,17 @@
 
 **（4）资源占有少。** PAG 文件是二进制的，相比另一个著名动效工具 Lottie 的 SVG 文件，体积更小，解析时间更短。很多复杂的动效，只有 2 KB 左右。由于是二进制文件，图片、音频、视频都能打包进去，作为一个文件发布。
 
-**（5）自带开发工具 [PAG Viewer](https://pag.art/docs/pag-viewer.html)**。 它可以预览、替换和调整二进制包里面的图片和文字，用于上线前的效果确认，也方便复用动效资源。
+**（5）自带开发工具 [PAG Viewer](https://pag.art/docs/pag-viewer.html)**。它可以预览、替换和调整二进制包里面的图片和文字，用于上线前的效果确认，也方便复用动效资源。
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052203.webp)
 
-这样一个好用的工具，腾讯从2017年开始研发，已经6年了。它在腾讯的所有主要业务线上已经落地了上千个产品，微信、QQ、王者荣耀、小红书、知乎等都在使用它。微信视频直播间的各种礼物特效，王者荣耀的战报特效，就是用它实现的。
+这样一个好用的工具，腾讯从 2017 年开始研发，已经 6 年了。它在腾讯的所有主要业务线上已经落地了上千个产品，微信、QQ、王者荣耀、小红书、知乎等都在使用它。微信视频直播间的各种礼物特效，王者荣耀的战报特效，就是用它实现的。
 
 官网的[案例画廊](https://pag.art/case.html)和素材库网站“[动池](https://animate.art/)”，有大量作品展示，大家可以去看看。
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052204.webp)
 
-去年，腾讯[开源](https://github.com/tencent/libpag)了 PAG，详细的文档可以去 GitHub 搜 libpag，里面还有[源码仓库](https://github.com/tencent/libpag)，已经有3000多颗星了。也可以去官网 [pag.art](https://pag.art/) 了解更多产品相关信息。
+去年，腾讯[开源](https://github.com/tencent/libpag)了 PAG，详细的文档可以去 GitHub 搜 libpag，里面还有[源码仓库](https://github.com/tencent/libpag)，已经有 3000 多颗星了。也可以去官网 [pag.art](https://pag.art/) 了解更多产品相关信息。
 
 如果你对动效感兴趣，或者有这方面的产品需求，不妨尝试一下 PAG。
 
@@ -158,7 +158,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052512.webp)
 
-媒体一片哗然，质疑这种候车亭有什么用。而且，它的成本是每个1万美元。
+媒体一片哗然，质疑这种候车亭有什么用。而且，它的成本是每个 1 万美元。
 
 其实，洛杉矶市内的候车亭，是那种正常的大候车亭（下图），但是经常被滥用，还会被流浪汉占据。
 
@@ -206,7 +206,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052508.webp)
 
-英特尔发布了一个新的 CPU 指令集 x86S，只支持64位模式，可以简化 CPU 的设计。
+英特尔发布了一个新的 CPU 指令集 x86S，只支持 64 位模式，可以简化 CPU 的设计。
 
 6、[zip 域名的安全担忧](https://www.bleepingcomputer.com/news/security/new-zip-domains-spark-debate-among-cybersecurity-experts/)（英文）
 
@@ -250,7 +250,7 @@
 
 ## 工具
 
-1、[Convoy](https://github.com/frain-dev/convoy) 
+1、[Convoy](https://github.com/frain-dev/convoy)
 
 ![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040108.webp)
 
@@ -266,7 +266,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052302.webp)
 
-国内公司开发的一个跨平台桌面软件，用于 API 接口开发测试，类似于 Postman。（[@star7th](https://github.com/ruanyf/weekly/issues/3128) 投稿） 
+国内公司开发的一个跨平台桌面软件，用于 API 接口开发测试，类似于 Postman。（[@star7th](https://github.com/ruanyf/weekly/issues/3128) 投稿）
 
 4、[Shaku](https://github.com/JSerZANP/shaku)
 
@@ -322,17 +322,17 @@
 
 否则，你说为什么大家愿意周末飞来飞去，参加技术会议？网上什么不能做，线下参会还不就是为了认识人嘛。很多创业公司的合伙人，就是在技术会议上认识的。
 
-今天说这个话题，是为了宣布一个消息。**周刊非常荣幸，成为了今年的[“稀土开发者大会”](https://conf.juejin.cn/xdc2023/?utm_source=0525rrydrz)的协办媒体之一。** 大会马上举行了，就在6月30日到7月1日，欢迎大家参会。
+今天说这个话题，是为了宣布一个消息。**周刊非常荣幸，成为了今年的[“稀土开发者大会”](https://conf.juejin.cn/xdc2023/?utm_source=0525rrydrz)的协办媒体之一。** 大会马上举行了，就在 6 月 30 日到 7 月 1 日，欢迎大家参会。
 
 这个大会的主办者，是国内最大的技术社区之一的[稀土掘金社区](https://juejin.cn/?utm_source=0525ryfdrz)。前几年疫情时期，尽管非常困难，大会一直坚持举办，每次都邀请很多大公司的演讲者。
 
 今年更隆重，安排了十几个论坛和许多干货演讲，覆盖了当前几乎所有的开发热点领域。
 
-大会套票已经开始发售了，**学生票现在只要99元**。我印象中，这是国内技术大会最便宜的，差不多一张电影票的价格，但是你可以参加两天的所有活动，跟讲师线下交流。
+大会套票已经开始发售了，**学生票现在只要 99 元**。我印象中，这是国内技术大会最便宜的，差不多一张电影票的价格，但是你可以参加两天的所有活动，跟讲师线下交流。
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052507.webp)
 
-学生票不含餐，另有含餐的套票，使用**专属优惠码“ruanyifeng”** 可以799元购买大会尊享全票，适合公司为工程师购买。
+学生票不含餐，另有含餐的套票，使用**专属优惠码“ruanyifeng”** 可以 799 元购买大会尊享全票，适合公司为工程师购买。
 
 会议地点是北京望京附近的新云南皇冠假日酒店，酒店座位有限，大家如果想去，建议尽早购票，避免座位售罄。访问[大会官网链接](https://conf.juejin.cn/xdc2023/?utm_source=0525rrydrz)，或者扫描上方二维码，了解日程详情，并可以报名购票。
 
@@ -372,7 +372,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052206.webp)
 
-其他话题还包括“如果墨西哥赢得了1848年美墨战争？”、“如果印加帝国存在到今天？”。
+其他话题还包括“如果墨西哥赢得了 1848 年美墨战争？”、“如果印加帝国存在到今天？”。
 
 ![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052207.webp)
 
@@ -436,7 +436,7 @@
 
 虽然有很多杰出的工程师，一些世界级的研究人员，偶尔会有一些热情的产品经理，但总的来说，谷歌只是一个大集团，除了有钱之外，与大型政府组织没有什么不同。效率低下是公司规模扩大时的副作用。
 
--- [Reddit 读者评论](https://old.reddit.com/r/ArtificialInteligence/comments/12h2ppg/ive_tested_google_bard_vs_chatgpt_and_im_shocked/jfo3dmx/)，谷歌过去10年把钱花到了哪里
+-- [Reddit 读者评论](https://old.reddit.com/r/ArtificialInteligence/comments/12h2ppg/ive_tested_google_bard_vs_chatgpt_and_im_shocked/jfo3dmx/)，谷歌过去 10 年把钱花到了哪里
 
 4、
 
@@ -458,11 +458,10 @@
 
 周刊得到国内新一代知识管理与协作平台 [FlowUs](https://flowus.cn?promotionChannel=GW_RYF_01) 的帮助，深表感谢。
 
-[FlowUS](https://flowus.cn?promotionChannel=GW_RYF_01)  = 文档 + 表格 + 网盘。你可以用它写文档、做主页、管理数据、存储文件等等。
+[FlowUS](https://flowus.cn?promotionChannel=GW_RYF_01) = 文档 + 表格 + 网盘。你可以用它写文档、做主页、管理数据、存储文件等等。
 
 每一期周刊同时发布在[ FlowUs 专栏](https://ruanyf-weekly.flowus.cn/?code=FLOWUS&promotionChannel=WX_RYF_00)，欢迎大家也去开通自己的专栏和主页。
 
 ![](https://cdn.beekka.com/blogimg/asset/202303/bg2023030205.webp)
 
 （完）
-

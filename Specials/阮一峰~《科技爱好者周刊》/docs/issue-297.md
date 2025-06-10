@@ -8,7 +8,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041107.webp)
 
-香港中环布置了两百多个3米～5米的“发光蛋”，一部分在陆地上，一部分漂在海上。一到夜晚，它们就发出不同的光色与声效。（[via](https://www.sohu.com/a/766773393_123753)）
+香港中环布置了两百多个 3 米～ 5 米的“发光蛋”，一部分在陆地上，一部分漂在海上。一到夜晚，它们就发出不同的光色与声效。（[via](https://www.sohu.com/a/766773393_123753)）
 
 ## 饮水鸟玩具
 
@@ -56,7 +56,7 @@
 
 我觉得，这真是热量转换为能量的一个绝佳演示。但是，除了这个玩具，没听说过有其他的实际应用。
 
-我倒是看到过[一篇报道](https://www.cnn.com/2024/03/14/climate/drinking-bird-energy-power-gadgets-climate-intl/index.html) ，有人[提出](https://www.cell.com/device/fulltext/S2666-9986(24)00108-X)，将饮水鸟做成发电机，利用温度差发电。虽然我猜测，发电效率一定很差，但如果实现了，一定很有趣。
+我倒是看到过[一篇报道](https://www.cnn.com/2024/03/14/climate/drinking-bird-energy-power-gadgets-climate-intl/index.html) ，有人[提出](<https://www.cell.com/device/fulltext/S2666-9986(24)00108-X>)，将饮水鸟做成发电机，利用温度差发电。虽然我猜测，发电效率一定很差，但如果实现了，一定很有趣。
 
 ## 掘金动手实验室：HarmonyOS 活动
 
@@ -70,7 +70,7 @@
 
 活动的下半场，会分组进行头脑风暴，看看什么创意可以在鸿蒙上实现。如果具备实现条件，现场还能动手，让大家熟悉这个系统。可以多人一起参加，也可以一人为一组。
 
-**活动时间是本周日（4月21日）一整天，免费参加**，地点在上海漕河泾。参加者可以获得 HarmonyOS NEXT 内测名额，获胜者还有奖品。 
+**活动时间是本周日（4 月 21 日）一整天，免费参加**，地点在上海漕河泾。参加者可以获得 HarmonyOS NEXT 内测名额，获胜者还有奖品。
 
 报名和活动详情，请扫描上方海报的二维码，也可以点击[这个链接](https://www.bagevent.com/event/8819409?bag_track=ruanyifeng)。报名后，活动小助手会将你加入本次活动的微信社群，请务必注意微信好友申请！
 
@@ -78,25 +78,25 @@
 
 1、[恒星爆炸](https://phys.org/news/2024-04-huge-star-explosion-sky-lifetime.html)
 
-从现在到9月之间的某个时间，人类将可以亲眼看到恒星爆炸。
+从现在到 9 月之间的某个时间，人类将可以亲眼看到恒星爆炸。
 
 ![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041101.webp)
 
-距离地球3000光年的北冕座，存在一个双星系统，里面的两颗恒星离得很近。
+距离地球 3000 光年的北冕座，存在一个双星系统，里面的两颗恒星离得很近。
 
 ![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041103.webp)
 
-每隔80年左右，它们会运行到最接近的位置，彼此的引力将引发恒星内部物质的核爆炸。
+每隔 80 年左右，它们会运行到最接近的位置，彼此的引力将引发恒星内部物质的核爆炸。
 
 ![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041102.webp)
 
-爱尔兰学者约翰·伯明翰1866年发现了这个现象，然后它在1946年再次出现。现在，2024年它又将重现。
+爱尔兰学者约翰·伯明翰 1866 年发现了这个现象，然后它在 1946 年再次出现。现在，2024 年它又将重现。
 
-需要注意的是，这次爆炸还没有出现在我们眼前，但它其实发生在3000年前。
+需要注意的是，这次爆炸还没有出现在我们眼前，但它其实发生在 3000 年前。
 
 2、[迪拜暴雨](https://finance.eastmoney.com/a/202404173048968557.html)
 
-4月17日，迪拜下了1949年有气象记录以来，最大的一场暴雨。
+4 月 17 日，迪拜下了 1949 年有气象记录以来，最大的一场暴雨。
 
 ![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041707.webp)
 
@@ -128,7 +128,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041417.webp)
 
-菲律宾店员的工资是每小时3美元，是当地类似工作的两倍，而纽约州的最低工资是每小时16美元。
+菲律宾店员的工资是每小时 3 美元，是当地类似工作的两倍，而纽约州的最低工资是每小时 16 美元。
 
 ## 文章
 
@@ -158,13 +158,13 @@ UUID 指的是独一无二的 ID 标识符，本文讨论怎么让它对于用�
 
 Chrome 浏览器打开页面时，经常崩溃，作者就从闪退时产生的 Crash dump 文件，着手寻找崩溃原因。（[@linxiaowu66](https://github.com/ruanyf/weekly/issues/4277) 投稿）
 
-5、[理想的 PR 长度为50行](https://graphite.dev/blog/the-ideal-pr-is-50-lines-long)（英文）
+5、[理想的 PR 长度为 50 行](https://graphite.dev/blog/the-ideal-pr-is-50-lines-long)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021104.webp)
 
-GitHub 提交 PR 的最佳长度是多少？本文认为是50行，可接受范围为25行～100行。
+GitHub 提交 PR 的最佳长度是多少？本文认为是 50 行，可接受范围为 25 行～ 100 行。
 
-少于25行，代码变动会过于频繁和琐碎；多于100行，提交的复杂度和审查时间都会增加。
+少于 25 行，代码变动会过于频繁和琐碎；多于 100 行，提交的复杂度和审查时间都会增加。
 
 6、[为什么我不看好 Tailwind](https://nuejs.org/blog/tailwind-misinformation-engine/)（英文）
 
@@ -252,7 +252,7 @@ Chrome 浏览器截图 + 美化插件。（[@AydenGen](https://github.com/ruanyf
 
 ![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041806.webp)
 
-一个 JS 语言的前端动画引擎，基于 Skia 的WebAssembly 版本，在 Canvas 画布上生成动画。（[@sheepbox8646](https://github.com/ruanyf/weekly/issues/4287) 投稿）
+一个 JS 语言的前端动画引擎，基于 Skia 的 WebAssembly 版本，在 Canvas 画布上生成动画。（[@sheepbox8646](https://github.com/ruanyf/weekly/issues/4287) 投稿）
 
 ## AI 相关
 
@@ -300,7 +300,7 @@ Chrome 浏览器截图 + 美化插件。（[@AydenGen](https://github.com/ruanyf
 
 ![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041201.webp)
 
-高校校徽的矢量文件下载，目前收集了100多个校徽，还在不断增长中。（[@incidunt](https://github.com/ruanyf/weekly/issues/4252) 投稿）
+高校校徽的矢量文件下载，目前收集了 100 多个校徽，还在不断增长中。（[@incidunt](https://github.com/ruanyf/weekly/issues/4252) 投稿）
 
 2、[生成式 AI 和 LLM 学习资料](https://pankajpipada.com/posts/2024-04-15-genai-resources/)（英文）
 
@@ -318,7 +318,7 @@ Chrome 浏览器截图 + 美化插件。（[@AydenGen](https://github.com/ruanyf
 
 1、[勾股定理的错误图片](https://mathtourist.blogspot.com/2009/02/pondering-artists-perplexing-tribute-to.html)
 
-2009年1月号的《大学数学杂志》（CMJ）的封面，是一张勾股定理的插图。
+2009 年 1 月号的《大学数学杂志》（CMJ）的封面，是一张勾股定理的插图。
 
 ![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041409.webp)
 
@@ -332,23 +332,23 @@ Chrome 浏览器截图 + 美化插件。（[@AydenGen](https://github.com/ruanyf
 
 > 以下内容摘自科学作家瓦科拉夫·斯米尔（Vaclav Smil）的著作《数字不会撒谎》（Number Don't Lie）。
 
-1867年，美国加州的前州长找到了摄影师迈布里奇（Eadweard Muybridge，1830-1904），请他来解决一个古老的争议：**马的四条腿在奔跑时是否都离开了地面？**
+1867 年，美国加州的前州长找到了摄影师迈布里奇（Eadweard Muybridge，1830-1904），请他来解决一个古老的争议：**马的四条腿在奔跑时是否都离开了地面？**
 
 摄影师发现很难证明这一点，当时的快门不够快，他拍了许多照片，都看不清楚。
 
-他不得不设法缩短快门时间，最终在1878年造出了快门速度1/1000秒的相机（每秒钟拍1000张），可以用来拍高速移动的物体。
+他不得不设法缩短快门时间，最终在 1878 年造出了快门速度 1/1000 秒的相机（每秒钟拍 1000 张），可以用来拍高速移动的物体。
 
-1878年6月19日，结论性的一天来到了。摄影师在斯坦福大学的帕洛阿尔托农场，把底片装在一个高速滚动的圆盘上，拍摄了一系列奔跑的马。
+1878 年 6 月 19 日，结论性的一天来到了。摄影师在斯坦福大学的帕洛阿尔托农场，把底片装在一个高速滚动的圆盘上，拍摄了一系列奔跑的马。
 
 ![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110607.webp)
 
 显然，在疾驰时，马的四只蹄子都离开了地面。
 
-这种高速摄影的技巧被继承了下来，不断改进，速度从每秒1000张很快变成了每秒10000张。
+这种高速摄影的技巧被继承了下来，不断改进，速度从每秒 1000 张很快变成了每秒 10000 张。
 
-1940年，旋转镜面相机的专利设计将速率提高到每秒100万张。
+1940 年，旋转镜面相机的专利设计将速率提高到每秒 100 万张。
 
-1999年，艾哈迈德·泽维尔（Ahmed Zewail）因开发一种光谱仪而获得诺贝尔化学奖，该光谱仪可以在飞秒（10<sup>-15</sup>秒）上捕获化学反应的过渡态。
+1999 年，艾哈迈德·泽维尔（Ahmed Zewail）因开发一种光谱仪而获得诺贝尔化学奖，该光谱仪可以在飞秒（10<sup>-15</sup>秒）上捕获化学反应的过渡态。
 
 今天，我们可以使用强烈的超快激光脉冲来捕获仅相隔阿秒（10<sup>-18</sup>秒）的事件，这种快门速度使得人们甚至有可能看到电子的运动。
 
@@ -356,7 +356,7 @@ Chrome 浏览器截图 + 美化插件。（[@AydenGen](https://github.com/ruanyf
 
 1、
 
-1986年，第一批癌症的放疗机上市，型号是Therac-25，使用电脑控制。但是使用后，发生了几起严重事故，病人的放射剂量大大超标。
+1986 年，第一批癌症的放疗机上市，型号是 Therac-25，使用电脑控制。但是使用后，发生了几起严重事故，病人的放射剂量大大超标。
 
 事后发现，这不是硬件错误，而是软件错误。程序员没有考虑到键盘的连击，一旦操作人员击键速度快，发生连击，就会连续发出射线。
 
@@ -395,4 +395,3 @@ Chrome 浏览器截图 + 美化插件。（[@AydenGen](https://github.com/ruanyf
 [零利率时代](https://www.ruanyifeng.com/blog/2020/03/weekly-issue-100.html)（2020 #100）
 
 （完）
-

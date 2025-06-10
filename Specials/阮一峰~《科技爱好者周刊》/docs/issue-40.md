@@ -8,7 +8,7 @@
 
 我知道一个朋友，他很喜欢咖啡。
 
-但是，他喜欢的不是喝咖啡，而是制作咖啡。选购咖啡豆、研磨、泡制、萃取，他就是喜欢自己手动完成整个过程。他家里有很多咖啡器具，为了冲制一小杯咖啡，每天都乐此不疲，从头到尾制作一遍，看着咖啡豆变成一杯热腾腾的饮料，至少需要20分钟。
+但是，他喜欢的不是喝咖啡，而是制作咖啡。选购咖啡豆、研磨、泡制、萃取，他就是喜欢自己手动完成整个过程。他家里有很多咖啡器具，为了冲制一小杯咖啡，每天都乐此不疲，从头到尾制作一遍，看着咖啡豆变成一杯热腾腾的饮料，至少需要 20 分钟。
 
 他这样的咖啡爱好者似乎有一个共识：最好的咖啡一定不是电动机器制作的，而是手工冲制出来的。在他们看来，哪怕原料一样，电动咖啡机做出来的咖啡，就是没有手工咖啡品质好。确实，好像没有一家咖啡店宣传“本店咖啡是机器泡制的”，反而好一点咖啡店都标榜自己是手工咖啡。
 
@@ -22,9 +22,9 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011802.jpg)
 
-17世纪时，法国修道士梅森（Marin Mersenne）提出了一个质数计算公式：2^n - 1，称为梅森公式。符合该公式的质数，就称为梅森质数。比如，2的3次方等于8，8减1等于7，7就是梅森质数。
+17 世纪时，法国修道士梅森（Marin Mersenne）提出了一个质数计算公式：2^n - 1，称为梅森公式。符合该公式的质数，就称为梅森质数。比如，2 的 3 次方等于 8，8 减 1 等于 7，7 就是梅森质数。
 
-1996年，有人发起了 GIMPS 项目，世界各地的人们下载软件，在自己的计算机上通过梅森公式，寻找新的质数。2018年12月7日，佛罗里达州的一台计算机，发现了世界最大的质数。这个质数有24,862,048位，对应的梅森公式里面的 n 是 82,589,933。之前的世界记录是一年前该项目在田纳西州发现的，比现在的世界记录小了150多亿。你可以在官网下载这个质数，它太长了必须打包成 [zip 文件](https://www.mersenne.org/primes/digits/M82589933.zip)下载。
+1996 年，有人发起了 GIMPS 项目，世界各地的人们下载软件，在自己的计算机上通过梅森公式，寻找新的质数。2018 年 12 月 7 日，佛罗里达州的一台计算机，发现了世界最大的质数。这个质数有 24,862,048 位，对应的梅森公式里面的 n 是 82,589,933。之前的世界记录是一年前该项目在田纳西州发现的，比现在的世界记录小了 150 多亿。你可以在官网下载这个质数，它太长了必须打包成 [zip 文件](https://www.mersenne.org/primes/digits/M82589933.zip)下载。
 
 2、[食品味道不是专利](https://www.bbc.com/news/world-europe-46193818)
 
@@ -40,7 +40,7 @@
 
 美国政府宣布，打算关闭三个 60KHz 的长波电台，两个在科罗拉多州，一个在夏威夷州。上图为发送长波信号的天线。
 
-由于这些电台发送的无线电波用于授时，很多人担心，这会影响到许多电子设备，它们通过无线电波获得当前时间。另外，这三个电台每隔2分钟，发送了一个440赫兹（标准音高）的信号，用来给乐器校准音高。
+由于这些电台发送的无线电波用于授时，很多人担心，这会影响到许多电子设备，它们通过无线电波获得当前时间。另外，这三个电台每隔 2 分钟，发送了一个 440 赫兹（标准音高）的信号，用来给乐器校准音高。
 
 4、[机器裁判](https://spectrum.ieee.org/tech-talk/computing/software/fujitsu-plans-to-support-professional-judges-with-lidar-and-ai-at-gymnastics-meets)
 
@@ -48,7 +48,7 @@
 
 日本富士通公司使用激光雷达和人工智能软件，开发了一套体操的裁判系统，用来取代人工裁判。
 
-体操有大量的翻转和跳跃，还有很多细节，比如膝盖和肘部弯曲的角度。裁判按照自己的判断打分，常常引起争议。国际体操协会已同意将这套激光雷达系统纳入2019年世界锦标赛，以帮助裁判评估运动员的表现，同时计划到2020年实现全面自动化评分。
+体操有大量的翻转和跳跃，还有很多细节，比如膝盖和肘部弯曲的角度。裁判按照自己的判断打分，常常引起争议。国际体操协会已同意将这套激光雷达系统纳入 2019 年世界锦标赛，以帮助裁判评估运动员的表现，同时计划到 2020 年实现全面自动化评分。
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011806.jpg)
 
@@ -58,31 +58,31 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011807.jpg)
 
-2018年的联合国气候大会认为，气候变暖可能已经不可逆转了。我们无法将全球气温上升控制在1.5摄氏度以下，海水上升、珊瑚礁毁灭、沙漠扩散、冰川融化都无法避免了。
+2018 年的联合国气候大会认为，气候变暖可能已经不可逆转了。我们无法将全球气温上升控制在 1.5 摄氏度以下，海水上升、珊瑚礁毁灭、沙漠扩散、冰川融化都无法避免了。
 
-科学家描述2100年时，平均气温将比现在高3~5度，海平面上升0.74米至1.8米，足以淹没印度洋岛国，很多人口需要从低洼城市（比如珠江三角洲）搬迁（参见上面的想象图）。现在的地球人口总数是70亿，2100年可能达到110亿，随着人口增多，地球的生存环境将会变得更加恶劣。
+科学家描述 2100 年时，平均气温将比现在高 3~5 度，海平面上升 0.74 米至 1.8 米，足以淹没印度洋岛国，很多人口需要从低洼城市（比如珠江三角洲）搬迁（参见上面的想象图）。现在的地球人口总数是 70 亿，2100 年可能达到 110 亿，随着人口增多，地球的生存环境将会变得更加恶劣。
 
 6、[穿越南极大陆](https://www.wweek.com/news/2018/12/26/portland-man-becomes-the-first-person-to-cross-antarctica-without-assistance/)
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011808.jpg)
 
-33岁的美国人科林·奥布拉迪（Colin O&#x27;Brady）成为历史上第一个自力穿越南极大陆的人。他没有借助任何外力，比如机器、雪橇犬、风力，所有装备都放在一个雪橇上，重达170公斤。
+33 岁的美国人科林·奥布拉迪（Colin O&#x27;Brady）成为历史上第一个自力穿越南极大陆的人。他没有借助任何外力，比如机器、雪橇犬、风力，所有装备都放在一个雪橇上，重达 170 公斤。
 
-他在2018年11月出发，一共走了54天，总长度1482公里。
+他在 2018 年 11 月出发，一共走了 54 天，总长度 1482 公里。
 
 7、[瞳孔里的面孔](http://www.kurzweilai.net/reflected-hidden-faces-in-photographs-revealed-in-pupil)
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011809.jpg)
 
-现在的很多手机摄像头，能拍出4000万像素的图片。这么高的分辨率，可以从照片里面人物的瞳孔，提取出该人看到的人脸。
+现在的很多手机摄像头，能拍出 4000 万像素的图片。这么高的分辨率，可以从照片里面人物的瞳孔，提取出该人看到的人脸。
 
-英国一所大学的研究人员，最近就从照片瞳孔里面恢复了旁观者的图像。尽管分辨率低（全脸区域平均为322像素），但如果是熟人，就可以90%的成功率识别出这些图像到底是谁。研究人员提醒，不要轻易将高清晰度照片上传到公开的社交网站。
+英国一所大学的研究人员，最近就从照片瞳孔里面恢复了旁观者的图像。尽管分辨率低（全脸区域平均为 322 像素），但如果是熟人，就可以 90%的成功率识别出这些图像到底是谁。研究人员提醒，不要轻易将高清晰度照片上传到公开的社交网站。
 
 8、[智能校服](https://wallstreetcn.com/articles/3459044)
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011810.jpg)
 
-[《环球时报》英文版](http://www.globaltimes.cn/content/1132856.shtml)12月20日报道，贵州仁怀市第十一中学于2016年秋季开始使用“智能校服”，这款智能校服由贵州冠宇科技有限公司开发，其肩部位置植入了两块追踪芯片，可以实时定位到学生的位置。目前该所学校已有超过800名学生穿着这款智能校服。
+[《环球时报》英文版](http://www.globaltimes.cn/content/1132856.shtml)12 月 20 日报道，贵州仁怀市第十一中学于 2016 年秋季开始使用“智能校服”，这款智能校服由贵州冠宇科技有限公司开发，其肩部位置植入了两块追踪芯片，可以实时定位到学生的位置。目前该所学校已有超过 800 名学生穿着这款智能校服。
 
 校长表示，学校方面不会主动追踪学生的校外动态，只有在学生失踪或者逃学的时候，才会使用校服来进行协助定位。他还表示，在引入智能校服以后，学生的出勤率有显著提升。
 
@@ -90,19 +90,16 @@
 
 9、[欧盟资助开源软件](https://www.zdnet.com/article/eu-to-fund-bug-bounty-programs-for-14-open-source-projects-starting-january-2019/)
 
-很多开源项目都靠志愿者的奉献，并没有经费来源。现在，为了提高开源软件的安全性，欧盟宣布为14个开源项目的漏洞提供赏金计划。如果你发现了这些软件的漏洞，欧盟官方会向你支付奖金。每个项目的奖金总额在3万～9万欧元。
+很多开源项目都靠志愿者的奉献，并没有经费来源。现在，为了提高开源软件的安全性，欧盟宣布为 14 个开源项目的漏洞提供赏金计划。如果你发现了这些软件的漏洞，欧盟官方会向你支付奖金。每个项目的奖金总额在 3 万～ 9 万欧元。
 
-这14个开源项目如下：7-zip，Apache Kafka，Apache Tomcat，Digital Signature Services (DSS)，Drupal，Filezilla， FLUX TL，the GNU C Library (glibc)，KeePass，midPoint，Notepad++，PuTTY，the Symfony PHP framework，VLC Media Player，WSO2。
+这 14 个开源项目如下：7-zip，Apache Kafka，Apache Tomcat，Digital Signature Services (DSS)，Drupal，Filezilla，FLUX TL，the GNU C Library (glibc)，KeePass，midPoint，Notepad++，PuTTY，the Symfony PHP framework，VLC Media Player，WSO2。
 
-10、__一句话新闻__
+10、**一句话新闻**
 
-* [英国](https://www.theguardian.com/media/2018/aug/02/fifth-of-britons-feel-stressed-if-they-cant-access-internet-ofcom-report)一项统计发现，英国人醒着的时候，平均12分钟查看一次手机，即一小时会主动看5次手机。
-    
-* [视频节目网站 Netflix](https://qz.com/1505030/keeping-up-with-netflix-originals-is-basically-a-part-time-job-now/) 2018年的自制节目接近9万分钟（1500小时），其中电视剧58,000分钟，电影8500分钟，其他是纪录片、儿童节目等。
-    
-* [加州法院](https://www.forbes.com/sites/thomasbrewster/2019/01/14/feds-cant-force-you-to-unlock-your-iphone-with-finger-or-face-judge-rules/#58b1c02442b7)判决，美国警察不能强迫人们用手指或者脸部解锁手机。
-    
-* [美国工人](https://howmuch.net/articles/how-much-americans-make-in-wages)的近一半，2017年的税后收入不到3万美元。
+- [英国](https://www.theguardian.com/media/2018/aug/02/fifth-of-britons-feel-stressed-if-they-cant-access-internet-ofcom-report)一项统计发现，英国人醒着的时候，平均 12 分钟查看一次手机，即一小时会主动看 5 次手机。
+- [视频节目网站 Netflix](https://qz.com/1505030/keeping-up-with-netflix-originals-is-basically-a-part-time-job-now/) 2018 年的自制节目接近 9 万分钟（1500 小时），其中电视剧 58,000 分钟，电影 8500 分钟，其他是纪录片、儿童节目等。
+- [加州法院](https://www.forbes.com/sites/thomasbrewster/2019/01/14/feds-cant-force-you-to-unlock-your-iphone-with-finger-or-face-judge-rules/#58b1c02442b7)判决，美国警察不能强迫人们用手指或者脸部解锁手机。
+- [美国工人](https://howmuch.net/articles/how-much-americans-make-in-wages)的近一半，2017 年的税后收入不到 3 万美元。
 
 ## 教程
 
@@ -118,17 +115,17 @@
 
 本文是一篇译文，作者仿照《小王子》中的情节，通过小 printf 遇见的不同类型的程序员，最后悟出什么才是真正的程序员！（@[LanjianNUll](https://github.com/ruanyf/weekly/issues/185) 投稿）
 
-4、[2018年最佳笔记本电脑](https://www.techradar.com/news/mobile-computing/laptops/best-laptops-1304361)（英文）
+4、[2018 年最佳笔记本电脑](https://www.techradar.com/news/mobile-computing/laptops/best-laptops-1304361)（英文）
 
-这个网站评选了2018年最好的10款笔记本电脑。
+这个网站评选了 2018 年最好的 10 款笔记本电脑。
 
-5、[使用 Docker 部署React](https://medium.com/@manuel.pineault/deploying-reactjs-with-docker-ac16728c0896)（英文）
+5、[使用 Docker 部署 React](https://medium.com/@manuel.pineault/deploying-reactjs-with-docker-ac16728c0896)（英文）
 
 本文介绍如何制作 React 应用的 Docker 容器，并将其部署到服务器。
 
-6、[FizzBuzz 的10种语言解答](http://iolivia.me/posts/fizzbuzz-in-10-languages/)（英文）
+6、[FizzBuzz 的 10 种语言解答](http://iolivia.me/posts/fizzbuzz-in-10-languages/)（英文）
 
-FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答案，比较各种语言的不同。
+FizzBuzz 是考验编程初学者的经典题目，本文用 10 种语言写出答案，比较各种语言的不同。
 
 7、[去瑞典当工程师，是否值得？](http://hongchao.me/living-and-working-in-sweden-as-engineers/)（英文）
 
@@ -168,15 +165,15 @@ FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011813.jpg)
 
-在线还原1847年的欧几里得《几何原本》的彩色版本。（@[arbeitandy](https://github.com/ruanyf/weekly/issues/165) 投稿）
+在线还原 1847 年的欧几里得《几何原本》的彩色版本。（@[arbeitandy](https://github.com/ruanyf/weekly/issues/165) 投稿）
 
 5、[页面加载动画](https://medium.com/@ann.green/loading-indicators-e9d9ac9680b)
 
-这篇文章收集了近20个加载页面的优秀动画效果。
+这篇文章收集了近 20 个加载页面的优秀动画效果。
 
 6、[12 款助你学编程的免费游戏](https://zhuanlan.zhihu.com/p/23936161)
 
-本文中，我们评选出12个热门网站，你可以通过玩游戏学习编程。（@[Ynjxsjmh](https://github.com/ruanyf/weekly/issues/117#issuecomment-448841120) 投稿）
+本文中，我们评选出 12 个热门网站，你可以通过玩游戏学习编程。（@[Ynjxsjmh](https://github.com/ruanyf/weekly/issues/117#issuecomment-448841120) 投稿）
 
 7、[Python 算法与数据结构](http://interactivepython.org/runestone/static/pythonds/index.html)（第二版）
 
@@ -188,7 +185,7 @@ FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答
 
 1、[asciinema](https://asciinema.org/)
 
-一个录制、分享命令行操作的工具，支持Linux, macOS（@[kt286](https://github.com/ruanyf/weekly/issues/137) 投稿）
+一个录制、分享命令行操作的工具，支持 Linux, macOS（@[kt286](https://github.com/ruanyf/weekly/issues/137) 投稿）
 
 2、[C4](https://chai2010.cn/awesome-wasm-zh/examples/c4/)
 
@@ -246,21 +243,21 @@ FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答
 
 1、[苏联的航天飞机](https://edition.cnn.com/style/article/baikonur-buran-soviet-space-shuttle/index.html)
 
-***IMAGE REMOVED***
+**_IMAGE REMOVED_**
 
 哈萨克斯坦的拜科努尔航天发射场，有两艘废弃的前苏联航天飞机。
 
-冷战时期，美国航天飞机成功以后，苏联决定模仿开发自己的航天飞机，1980年开始建造。苏联航天飞机的第一次、也是唯一一次飞行是在1988年11月15日，该次飞行成功完成。但是这时，冷战已经接近尾声。俄罗斯总统鲍里斯·叶利钦最终于1993年6月30日取消了航天飞机的发展计划。苏联解体后，根本没有资金让它继续发展下去。
+冷战时期，美国航天飞机成功以后，苏联决定模仿开发自己的航天飞机，1980 年开始建造。苏联航天飞机的第一次、也是唯一一次飞行是在 1988 年 11 月 15 日，该次飞行成功完成。但是这时，冷战已经接近尾声。俄罗斯总统鲍里斯·叶利钦最终于 1993 年 6 月 30 日取消了航天飞机的发展计划。苏联解体后，根本没有资金让它继续发展下去。
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011822.jpg)
 
-（上图为1988年11月苏联航天飞机唯一一次发射。）
+（上图为 1988 年 11 月苏联航天飞机唯一一次发射。）
 
-苏联一共建造了三艘航天飞机，都被遗弃在哈萨克斯坦草原的仓库里面。其中真正飞行过的那艘，由于2002年的仓库倒塌，被压毁了，现在只剩下两艘。
+苏联一共建造了三艘航天飞机，都被遗弃在哈萨克斯坦草原的仓库里面。其中真正飞行过的那艘，由于 2002 年的仓库倒塌，被压毁了，现在只剩下两艘。
 
-2008年，一家德国博物馆曾希望以1200万美元，购买一架作为展品。但由于运输费用过高，该计划被放弃。这些航天器已经在灰尘、鸟粪、高温和冰雪下度过了近30年，完全成了废墟，谁也不知道，它们还将这样继续存放多久。
+2008 年，一家德国博物馆曾希望以 1200 万美元，购买一架作为展品。但由于运输费用过高，该计划被放弃。这些航天器已经在灰尘、鸟粪、高温和冰雪下度过了近 30 年，完全成了废墟，谁也不知道，它们还将这样继续存放多久。
 
-***IMAGE REMOVED***
+**_IMAGE REMOVED_**
 
 航天飞机仓库不对外开放，但是偷偷溜进去，也没有人管。上图为法国摄影记者潜入仓库。
 
@@ -288,15 +285,15 @@ FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答
 
 爱达荷州，一名伐木工人有一个儿子。父亲希望儿子也能成为一名伐木工人。但是这个小孩喜欢火箭，高中时为了好玩而制作火箭，甚至用父亲的乙炔，自己去焊接火箭。
 
-高中毕业后，他去了当地的爱达荷大学，学习机械工程。因为家里没钱，他不得不在假期里面做了4年的伐木工作，赚到学费。
+高中毕业后，他去了当地的爱达荷大学，学习机械工程。因为家里没钱，他不得不在假期里面做了 4 年的伐木工作，赚到学费。
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011826.jpg)
 
-大学毕业后，他来到加利福尼亚州，加入了一家传统的航天公司——休斯公司，工作了15年，成为了该公司 TR-106 火箭的首席工程师。TR-106 是航天工业有史以来制造的最强大的火箭之一。
+大学毕业后，他来到加利福尼亚州，加入了一家传统的航天公司——休斯公司，工作了 15 年，成为了该公司 TR-106 火箭的首席工程师。TR-106 是航天工业有史以来制造的最强大的火箭之一。
 
 工作过程中，他有了制造新型火箭的想法。但建造火箭是非常昂贵的，没有资本家愿意给一个爱达荷州出身的人，提供数十亿美元来创办自己的火箭公司。所以他只好在自家后院制造火箭，造出了历史上最大的业余爱好者的液体燃料火箭。伊隆·马斯克注意到这件事。
 
-后来，他作为创始人之一，加入了 SpaceX 公司，设计了Merlin发动机。现在他是推进系统的首席技术官，他的名字叫汤姆·穆勒（Tom Mueller）。
+后来，他作为创始人之一，加入了 SpaceX 公司，设计了 Merlin 发动机。现在他是推进系统的首席技术官，他的名字叫汤姆·穆勒（Tom Mueller）。
 
 ## 本周图片
 
@@ -310,7 +307,7 @@ FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答
 
 2、[Logo 的改变](https://boingboing.net/2018/12/13/interesting-logos-are-being-re.html)
 
-下图上排是以前的logo，下排是现在的logo。各公司都不约而同，选择了加粗的直线式无衬线字体，这样是为了更醒目、辨识度更高吗？
+下图上排是以前的 logo，下排是现在的 logo。各公司都不约而同，选择了加粗的直线式无衬线字体，这样是为了更醒目、辨识度更高吗？
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011829.jpg)
 
@@ -318,13 +315,11 @@ FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答
 
 3、[原版 Macintosh 手册](https://www.peterme.com/2007/08/27/thoughts-on-and-pics-of-the-original-macintosh-user-manual/)
 
-1984年，Macintosh 电脑发布。现在，有人把第一版的用户手册扫描，放到了网上。该手册专门用一章，介绍配套的便携包，强调 Macintosh 可以随身携带。
+1984 年，Macintosh 电脑发布。现在，有人把第一版的用户手册扫描，放到了网上。该手册专门用一章，介绍配套的便携包，强调 Macintosh 可以随身携带。
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011830.jpg)
 
-
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011831.jpg)
-
 
 ![](https://cdn.beekka.com/blogimg/asset/201901/bg2019011832.jpg)
 
@@ -360,9 +355,8 @@ FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答
 
 这个专栏每周五发布，同步更新在我的[个人网站](http://www.ruanyifeng.com/blog)、[微信公众号](http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97)和[语雀](https://yuque.com/ruanyf/share/)。
 
-微信搜索“__阮一峰的网络日志__”或者扫描二维码，即可订阅。
+微信搜索“**阮一峰的网络日志**”或者扫描二维码，即可订阅。
 
 ![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg)
 
 （完）
-

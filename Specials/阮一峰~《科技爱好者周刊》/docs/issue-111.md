@@ -10,7 +10,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202005/bg2020052902.jpg)
 
-板齿犀（Elasmotherium）是一类已经灭绝的大型犀牛，高2米，长5米，前额上有长达2米的角，约1600万年前灭绝。（[出处](https://twitter.com/robertnyman/status/1265626735032381446)）
+板齿犀（Elasmotherium）是一类已经灭绝的大型犀牛，高 2 米，长 5 米，前额上有长达 2 米的角，约 1600 万年前灭绝。（[出处](https://twitter.com/robertnyman/status/1265626735032381446)）
 
 ## 本周话题：智能电视的误区
 
@@ -20,7 +20,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061009.jpg)
 
-这是因为电视机的使用年限很长，可能达到10年。内置的操作系统不可能跟着更新这么久，事实上很多电视机自从出厂，就再也不更新系统了。以后，你一打开电视，就会看到过时的系统。
+这是因为电视机的使用年限很长，可能达到 10 年。内置的操作系统不可能跟着更新这么久，事实上很多电视机自从出厂，就再也不更新系统了。以后，你一打开电视，就会看到过时的系统。
 
 而且，为了压低成本，智能电视使用的 CPU、内存和储存，都是很差的配置，不可能有好的性能和体验。只要一两年，系统就会变得很卡，动不动就提醒你没有剩余空间了。
 
@@ -42,19 +42,19 @@
 
 但是，数据分析的知识点很散，涉及不同领域的基础知识和多种工具，很多学习者觉得无从下手，抓不住重点，学习起来常常毫无头绪。
 
-别急，这有一份由开课吧提供赞助，并由廖雪峰老师历时3个月精心打磨的 **《数据分析全套讲解》** 学习视频。本资料是最新升级版，包含了基础和进阶两大部分内容，从下面的内容介绍可以看出，覆盖的知识点是非常全面的。
+别急，这有一份由开课吧提供赞助，并由廖雪峰老师历时 3 个月精心打磨的 **《数据分析全套讲解》** 学习视频。本资料是最新升级版，包含了基础和进阶两大部分内容，从下面的内容介绍可以看出，覆盖的知识点是非常全面的。
 
 > **一、基础篇-数据分析必备技能**  
-> 44个知识点纯干货内容，每天2小时，5天掌握数据分析必备技能。  
->  
-> 学习内容：Excel 数据可视化，Python 数据可视化，SQL 数据操作，K-means聚类分析，数据挖掘逻辑回归。
-> 
+> 44 个知识点纯干货内容，每天 2 小时，5 天掌握数据分析必备技能。
+>
+> 学习内容：Excel 数据可视化，Python 数据可视化，SQL 数据操作，K-means 聚类分析，数据挖掘逻辑回归。
+>
 > **二、进阶篇-常用数据分析方法论**  
 > 介绍了验证分析与建模预测，理论与实战结合。
 >
 > 学习内容：数据集中趋势 ，假设检验，多元线性回归程序与可视化，逻辑回归模型，分类模型评估指标，AQI 分析与预测。
 
-这套全新的数据分析资料原价值1980元，现在有168个免费名额。需要的朋友请扫码下面的二维码，添加微信就可以免费领取。
+这套全新的数据分析资料原价值 1980 元，现在有 168 个免费名额。需要的朋友请扫码下面的二维码，添加微信就可以免费领取。
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061008.jpg)
 
@@ -66,9 +66,9 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061004.jpg)
 
-由于疫情期间用电需求下降，到6月10日为止，英国已经连续60天没有燃烧任何煤炭了。这是工业革命后从没有过的。英国现在只剩下四个燃煤电厂，4月10日英国国家电网让最后一台燃煤发电机停机，直到现在。
+由于疫情期间用电需求下降，到 6 月 10 日为止，英国已经连续 60 天没有燃烧任何煤炭了。这是工业革命后从没有过的。英国现在只剩下四个燃煤电厂，4 月 10 日英国国家电网让最后一台燃煤发电机停机，直到现在。
 
-十年前，英国约40％的电力来自煤炭。而现在，英国拥有世界上最大的海上风能产业，以及世界最大的风电场。这个风电厂位于约克郡，发电量占英国全国电力的5％。
+十年前，英国约 40％的电力来自煤炭。而现在，英国拥有世界上最大的海上风能产业，以及世界最大的风电场。这个风电厂位于约克郡，发电量占英国全国电力的 5％。
 
 2、[共享单车的新去处](https://twitter.com/shenzhilong001/status/1270523302138613763)
 
@@ -76,9 +76,9 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061006.jpg)
 
-缅甸教育部向中国收购了36.5万辆废弃的共享单车。这些车在仰光维修完毕后，免费发放给有需要的贫困的缅甸学生。
+缅甸教育部向中国收购了 36.5 万辆废弃的共享单车。这些车在仰光维修完毕后，免费发放给有需要的贫困的缅甸学生。
 
-长久以来，大批共享单车在中国遭人为损坏或丢弃。缅甸政府想到了国内数十万贫困学生缺乏交通工具，于去年底以每辆35元人民币的价格向中国收购了这些车。
+长久以来，大批共享单车在中国遭人为损坏或丢弃。缅甸政府想到了国内数十万贫困学生缺乏交通工具，于去年底以每辆 35 元人民币的价格向中国收购了这些车。
 
 3、[模仿特朗普的实验](https://www.businessinsider.com/twitter-donald-trump-suspendthepres-experiment-policies-suspension-glorifying-violence-2020-6)
 
@@ -86,23 +86,23 @@
 
 一个推特用户做了一个实验，注册了一个帐号，特拉普发什么推特，他就发一样的内容，不是转发，而是原文复制，除此以外不发其他内容。
 
-结果，推特官方三天就注意到了他，关闭帐号12小时，要求他在这段时间内删除违规言论。同样的话，特朗普可以说，你说就不行。媒体报道这件事以后，推特恢复了这个账号，并说关闭帐号是一个“失误”。
+结果，推特官方三天就注意到了他，关闭帐号 12 小时，要求他在这段时间内删除违规言论。同样的话，特朗普可以说，你说就不行。媒体报道这件事以后，推特恢复了这个账号，并说关闭帐号是一个“失误”。
 
 4、[桔子皮的功能](https://www.princeton.edu/news/2017/08/22/orange-new-green-how-orange-peels-revived-costa-rican-forest)
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020060801.jpg)
 
-美国生态学家16年前做了一个实验，说服哥斯达黎加国家公园，允许一家果汁公司将12000吨桔子皮，倾倒在一块贫瘠的土地上，卡车整整运送了1000次。
+美国生态学家 16 年前做了一个实验，说服哥斯达黎加国家公园，允许一家果汁公司将 12000 吨桔子皮，倾倒在一块贫瘠的土地上，卡车整整运送了 1000 次。
 
-16年后，他们重新访问这块土地，发现那里已经是一片郁郁葱葱的森林了，跟旁边的土地形成巨大的对比（上图），地面生物量（以树木的木材量计算）增加了176％。生态学家认为，这对如何回收食品工业的生产残余物，有很大的启示意义。
+16 年后，他们重新访问这块土地，发现那里已经是一片郁郁葱葱的森林了，跟旁边的土地形成巨大的对比（上图），地面生物量（以树木的木材量计算）增加了 176％。生态学家认为，这对如何回收食品工业的生产残余物，有很大的启示意义。
 
 5、[最老的游戏 Youtuber](https://www.theguardian.com/games/2020/jun/07/japans-video-gaming-grandma-90-plays-her-way-into-record-books)
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020060803.jpg)
 
-日本90岁的森滨子（Hamako Mori）老人，公认是世界年龄最大的游戏 Youtuber。她每天都会花至少3个小时打游戏，还在 Youtube 上面维护一个自己的频道。接受采访时，她说消灭游戏里面的敌人是一种绝佳的压力缓解剂。
+日本 90 岁的森滨子（Hamako Mori）老人，公认是世界年龄最大的游戏 Youtuber。她每天都会花至少 3 个小时打游戏，还在 Youtube 上面维护一个自己的频道。接受采访时，她说消灭游戏里面的敌人是一种绝佳的压力缓解剂。
 
-她从40年前的1981年开始玩游戏，已经玩过200多个游戏。她最喜欢的游戏包括侠盗猎车手（Grand Theft Auto）和奇幻角色扮演游戏《上古卷轴5：天际》。2014年，她的孙子为她建了一个 YouTube 频道"Gamer Grandma"，每月上传三四个视频，目前有30万订户。她谈到频道时说：“这件事很有趣，很多人关注你，你就不是一个人玩了。”现在，她正热切期待着 PlayStation 5 发布。
+她从 40 年前的 1981 年开始玩游戏，已经玩过 200 多个游戏。她最喜欢的游戏包括侠盗猎车手（Grand Theft Auto）和奇幻角色扮演游戏《上古卷轴 5：天际》。2014 年，她的孙子为她建了一个 YouTube 频道"Gamer Grandma"，每月上传三四个视频，目前有 30 万订户。她谈到频道时说：“这件事很有趣，很多人关注你，你就不是一个人玩了。”现在，她正热切期待着 PlayStation 5 发布。
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061201.jpg)
 
@@ -112,11 +112,11 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020060501.jpg)
 
-> - [Stack Overflow 的《2020年开发者调查》](https://insights.dice.com/2020/06/04/24-programming-languages-pay-top-salaries-scala/)显示，美国平均工资最高的程序员依次是Scala、Go 和 Objective-C。
+> - [Stack Overflow 的《2020 年开发者调查》](https://insights.dice.com/2020/06/04/24-programming-languages-pay-top-salaries-scala/)显示，美国平均工资最高的程序员依次是 Scala、Go 和 Objective-C。
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020060502.jpg)
 
-> - [StackOverflow 的《2020年开发者调查》](https://stackoverflow.blog/2020/06/05/why-the-developers-who-use-rust-love-it-so-much/)还显示，Rust 语言连续五年排名程序员最喜欢的编程语言。
+> - [StackOverflow 的《2020 年开发者调查》](https://stackoverflow.blog/2020/06/05/why-the-developers-who-use-rust-love-it-so-much/)还显示，Rust 语言连续五年排名程序员最喜欢的编程语言。
 
 > - [加密通信软件 Signal](https://signal.org/blog/blur-tools/) 开始提供”一键模糊脸部“的功能，防止在分享的照片中泄露周围人的脸部信息。
 
@@ -180,7 +180,7 @@ VS Code 是流行的代码编辑器，它不仅是一个本地软件，也是一
 
 10、[如何用 C 语言写一个简单的 CHIP-8 模拟器](https://cjting.me/2020/06/07/chip8-emulator/)（中文）
 
-CHIP-8 是一个很简单的虚拟机，有16个8位寄存器和35个指令，可以使用 4K 内存。作者在它上面实现俄罗斯方块，为将来写 GBA 模拟器做准备。（[@cj1128](https://github.com/ruanyf/weekly/issues/1286) 投稿）
+CHIP-8 是一个很简单的虚拟机，有 16 个 8 位寄存器和 35 个指令，可以使用 4K 内存。作者在它上面实现俄罗斯方块，为将来写 GBA 模拟器做准备。（[@cj1128](https://github.com/ruanyf/weekly/issues/1286) 投稿）
 
 ## 工具
 
@@ -222,7 +222,7 @@ CHIP-8 是一个很简单的虚拟机，有16个8位寄存器和35个指令，�
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061107.jpg)
 
-一个开源桌面软件，隔一段时间（默认25分钟）就跳出一个提示，提醒你离开电脑运动一下。（[@ketra21](https://github.com/ruanyf/weekly/issues/1276) 投稿）
+一个开源桌面软件，隔一段时间（默认 25 分钟）就跳出一个提示，提醒你离开电脑运动一下。（[@ketra21](https://github.com/ruanyf/weekly/issues/1276) 投稿）
 
 9、[chil](https://zhuanlan.zhihu.com/p/144169144)
 
@@ -234,7 +234,7 @@ HTML 代码的最小化工具，可以精简网页源码的体积。Rust 语言�
 
 ## 资源
 
-1、[JavaScript 的前20年](https://zenodo.org/record/3707008)
+1、[JavaScript 的前 20 年](https://zenodo.org/record/3707008)
 
 一本免费的英文电子书，回顾和介绍 JavaScript 是怎么发展起来的，从诞生直到 ES2015 标准的通过。
 
@@ -258,7 +258,7 @@ HTML 代码的最小化工具，可以精简网页源码的体积。Rust 语言�
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061011.jpg)
 
-今年是 PHP 语言诞生25周年，Jetbrains 公司制作了一个网页，列出这25年中 PHP 的各种大事，网页制作得非常精致。
+今年是 PHP 语言诞生 25 周年，Jetbrains 公司制作了一个网页，列出这 25 年中 PHP 的各种大事，网页制作得非常精致。
 
 ## 图片
 
@@ -268,11 +268,11 @@ HTML 代码的最小化工具，可以精简网页源码的体积。Rust 语言�
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061003.jpg)
 
-互联网出现以后，报纸的广告收入就自由落体般下跌，目前已经低于70年前的水平。
+互联网出现以后，报纸的广告收入就自由落体般下跌，目前已经低于 70 年前的水平。
 
 2、[苏联时代的太空插图](https://www.atlasobscura.com/articles/soviet-space-graphics)
 
-冷战期间，随着太空技术的发展，苏联出现了大量的太空知识杂志和大众科学杂志，最多时全国有200种。这些杂志上有大量关于太空的幻想插图。
+冷战期间，随着太空技术的发展，苏联出现了大量的太空知识杂志和大众科学杂志，最多时全国有 200 种。这些杂志上有大量关于太空的幻想插图。
 
 这些图显示了当时苏联科幻文学的发达，以及民众对太空探索的好奇。
 
@@ -286,13 +286,13 @@ HTML 代码的最小化工具，可以精简网页源码的体积。Rust 语言�
 
 ## 文摘
 
-1、[地球的15个临界点](https://www.resilience.org/stories/2020-06-08/collapse-of-civilisation-is-the-most-likely-outcome-top-climate-scientists/)
+1、[地球的 15 个临界点](https://www.resilience.org/stories/2020-06-08/collapse-of-civilisation-is-the-most-likely-outcome-top-climate-scientists/)
 
 澳大利亚国立大学教授威尔·斯特芬（Will Steffen）提出：“气候变化已经不可逆了，人类文明的崩溃将是最可能的结果。”
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061101.jpg)
 
-无论人类是否减少二氧化碳排放，都已经为时过晚，因为15个已知的全球气候临界点，已经有9个激活了。
+无论人类是否减少二氧化碳排放，都已经为时过晚，因为 15 个已知的全球气候临界点，已经有 9 个激活了。
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061103.jpg)
 
@@ -313,27 +313,27 @@ HTML 代码的最小化工具，可以精简网页源码的体积。Rust 语言�
 - [✓] 澳大利亚大堡礁开始消失
 - 海洋不再大量吸收碳元素
 
-上面15个变化，只要有一个成为现实，都将对气候造成巨大影响，严重威胁人类。
+上面 15 个变化，只要有一个成为现实，都将对气候造成巨大影响，严重威胁人类。
 
-目前已经有9个成为了现实。
+目前已经有 9 个成为了现实。
 
 ![](https://cdn.beekka.com/blogimg/asset/202006/bg2020061102.jpg)
 
 2、[Xbox 里面的父亲](https://www.facebook.com/Coyoter.Huang/posts/10216945532563571)
 
-一篇2014年的感人故事，儿子在Xbox里面发现了过世父亲的身影，故事发生在国外：
+一篇 2014 年的感人故事，儿子在 Xbox 里面发现了过世父亲的身影，故事发生在国外：
 
 Well, when i was 4, my dad bought a trusty XBox.  
-我4岁的时候，父亲买了一台Xbox
+我 4 岁的时候，父亲买了一台 Xbox
 
 you know, the first, ruggedy, blocky one from 2001.  
-你知道的，是那台坚硬、结实，2001年推出的Xbox
+你知道的，是那台坚硬、结实，2001 年推出的 Xbox
 
 we had tons and tons and tons of fun playing all kinds of games together  
 我们一起玩了许多游戏，而且玩得非常开心....
 
 until he died, when i was just 6.  
-...直到他去世为止，那年我才6岁
+...直到他去世为止，那年我才 6 岁
 
 i couldnt touch that console for 10 years.  
 在往后十年，我没有办法碰那台游戏机
@@ -362,7 +362,7 @@ yep, you guessed it
 his ghost still rolls around the track today.  
 父亲的灵魂至今仍在赛车场上奔驰着
 
-and so i played and played,and played,   
+and so i played and played,and played,  
 于是我一遍又一遍的挑战
 
 untill i was almost able to beat the ghost.  
@@ -393,7 +393,7 @@ just to ensure i wouldnt delete it.
 
 3、
 
-印度很大一部分人口（约50％）年龄低于24岁，这为印度提供了数十年的庞大劳动力。
+印度很大一部分人口（约 50％）年龄低于 24 岁，这为印度提供了数十年的庞大劳动力。
 
 -- [《印度为什么不是超级大国》](https://outsideplatoscave.substack.com/p/outside-platos-cave-5)
 
@@ -411,17 +411,17 @@ just to ensure i wouldnt delete it.
 
 6、
 
-阿波罗8号宇宙飞船有560万个零件，以及150万个系统和组件。即使它们每一个都有99.9％的可靠性，预期也会产生560个故障。
+阿波罗 8 号宇宙飞船有 560 万个零件，以及 150 万个系统和组件。即使它们每一个都有 99.9％的可靠性，预期也会产生 560 个故障。
 
 -- 宇航员[迈克尔·柯林斯](https://en.wikipedia.org/wiki/Michael_Collins_%28astronaut%29)（Michael Collins）
 
 ## 回顾
 
-2019年的本周（第 60 期）：[中国人的起源](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html)
+2019 年的本周（第 60 期）：[中国人的起源](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html)
 
 ![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061401.jpg)
 
-2018年的本周（第 8 期）：[日本的低生育率](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-8.html)
+2018 年的本周（第 8 期）：[日本的低生育率](http://www.ruanyifeng.com/blog/2018/06/weekly-issue-8.html)
 
 ![](https://cdn.beekka.com/blogimg/asset/201806/bg2018060801.jpg)
 

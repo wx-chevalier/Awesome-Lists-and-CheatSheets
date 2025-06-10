@@ -24,7 +24,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070313.webp)
 
-上图显示，这个产品得到了651票。于是，你就可以宣传这件事，“我们的产品排名 Product Hunt 当天（或者当周）第一。”
+上图显示，这个产品得到了 651 票。于是，你就可以宣传这件事，“我们的产品排名 Product Hunt 当天（或者当周）第一。”
 
 ![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070404.webp)
 
@@ -44,7 +44,7 @@
 
 这样的人投票给你的产品，并不意味着看好这个产品，更不意味着成为你的客户，而是意味着**他们非常可能抄袭你的想法**。
 
-Pruduct Hunt 的投票，不等于客户的投票。就算你的产品得了1000票，如果投票者不使用它，那就不会转化成你的客户，因此毫无用处。
+Pruduct Hunt 的投票，不等于客户的投票。就算你的产品得了 1000 票，如果投票者不使用它，那就不会转化成你的客户，因此毫无用处。
 
 启动一个新产品的正确方式，不是去 Product Hunt 打榜，而是**找到你的真正客户，面对他们宣传，直接把产品信息传递给他们**。
 
@@ -66,13 +66,13 @@ Product Hunt 的意义在于，可能会引起风险投资家的注意。另外�
 
 上周末，“稀土开发者大会 2024”在北京顺利举行，很多读者朋友都去了吧。
 
-现场非常热闹，1500多人到场，酒店的场地都挤满了，大家看看照片。
+现场非常热闹，1500 多人到场，酒店的场地都挤满了，大家看看照片。
 
 ![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070409.webp)
 
 人气最旺的，莫过于外场的 AI 展区、“海洋航行”主题 IP 体验区、动手实验室 Code Lab，那里可以跟产品互动，现场动手玩。
 
-下面告诉大家一个好消息，**5位主论坛嘉宾、12位出品人、70余位技术专家的所有演讲，已经全部上网了**。
+下面告诉大家一个好消息，**5 位主论坛嘉宾、12 位出品人、70 余位技术专家的所有演讲，已经全部上网了**。
 
 大家进入 [conf.juejin.cn](https://conf.juejin.cn/xdc2024/)，就可以查看所有演讲的录像。
 
@@ -84,7 +84,7 @@ Product Hunt 的意义在于，可能会引起风险投资家的注意。另外�
 
 1、[环保奥运会](https://www.cnn.com/2024/06/25/style/paris-2024-olympic-village/index.html)
 
-巴黎奥运会将于7月26日开幕。组委会宣布，这是一届环保的奥运会。
+巴黎奥运会将于 7 月 26 日开幕。组委会宣布，这是一届环保的奥运会。
 
 但是，它的环保措施让人有一种简陋的感觉，似乎更大的目的是为了省钱，毕竟巴黎市的财政并不宽裕。
 
@@ -110,7 +110,7 @@ Product Hunt 的意义在于，可能会引起风险投资家的注意。另外�
 
 2、[人造树冠](https://theconversation.com/what-makes-a-good-tree-we-used-ai-to-ask-birds-233281)
 
-澳大利亚东南部，曾经有数百万平方公里的森林，如今只剩下不到5%。
+澳大利亚东南部，曾经有数百万平方公里的森林，如今只剩下不到 5%。
 
 很多大树消失了，或者变成了电线杆，对于栖息的鸟类是一场灾难。
 
@@ -138,7 +138,7 @@ Product Hunt 的意义在于，可能会引起风险投资家的注意。另外�
 
 ![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070219.webp)
 
-一罐的容量是190毫升，售价为1.5美元（约11元人民币），不便宜。不过，它提醒我们，减肥可以吃果冻，既能产生饱腹感，而且热量低。
+一罐的容量是 190 毫升，售价为 1.5 美元（约 11 元人民币），不便宜。不过，它提醒我们，减肥可以吃果冻，既能产生饱腹感，而且热量低。
 
 4、[水下自行车](https://newatlas.com/marine/seabike-swimming-propeller/)
 
@@ -176,7 +176,7 @@ Product Hunt 的意义在于，可能会引起风险投资家的注意。另外�
 
 ![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070306.webp)
 
-从2020年到2021年，我在亚马逊（AWS 云）担任软件开发工程师（SDE）。有人说 SDE 代表”Someone Does Everything”（什么都做的人），这相当准确。（[@DoctorLai](https://github.com/ruanyf/weekly/issues/4739) 投稿）
+从 2020 年到 2021 年，我在亚马逊（AWS 云）担任软件开发工程师（SDE）。有人说 SDE 代表”Someone Does Everything”（什么都做的人），这相当准确。（[@DoctorLai](https://github.com/ruanyf/weekly/issues/4739) 投稿）
 
 4、[CSS 锚点定位](https://coryrylan.com/blog/flow-charts-with-css-anchor-positioning)（英文）
 
@@ -214,7 +214,7 @@ Chrome 125 引入了 CSS 锚点定位（Anchor Positioning），这种新语法�
 
 ![](https://cdn.beekka.com/blogimg/asset/202406/bg2024063006.webp)
 
-一个跨平台的文本编辑器，代码基础是现已结束的 Atom 编辑器。 
+一个跨平台的文本编辑器，代码基础是现已结束的 Atom 编辑器。
 
 3、[Onefetch](https://github.com/o2sh/onefetch)
 
@@ -224,7 +224,7 @@ Chrome 125 引入了 CSS 锚点定位（Anchor Positioning），这种新语法�
 
 4、[hashplate-cn](https://github.com/cunzaizhuyi/hashplate-cn)
 
-一个字符串的哈希函数，生成结果为中国车牌格式，比如“渝G·VGUA1”。（[@cunzaizhuyi](https://github.com/ruanyf/weekly/issues/4767) 投稿）
+一个字符串的哈希函数，生成结果为中国车牌格式，比如“渝 G·VGUA1”。（[@cunzaizhuyi](https://github.com/ruanyf/weekly/issues/4767) 投稿）
 
 5、[PIKIMOV](https://pikimov.com/)
 
@@ -282,7 +282,7 @@ Chrome 125 引入了 CSS 锚点定位（Anchor Positioning），这种新语法�
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082301.webp)
 
-这个网站恐怕绝无仅有，还保留着20年前的样貌，并且每天在更新。它是供电话拨号上网用户使用的，一直保留到了现在。大家可以感受一下20年前的网站是什么样的。
+这个网站恐怕绝无仅有，还保留着 20 年前的样貌，并且每天在更新。它是供电话拨号上网用户使用的，一直保留到了现在。大家可以感受一下 20 年前的网站是什么样的。
 
 2、[英文博客汇聚](https://infos.imhcg.cn/)
 
@@ -294,7 +294,7 @@ Chrome 125 引入了 CSS 锚点定位（Anchor Positioning），这种新语法�
 
 ![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070304.webp)
 
-一本 GPT4 生成的英语单词书，收入8000+常用单词，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事。（[@Ceelog](https://github.com/ruanyf/weekly/issues/4734) 投稿）
+一本 GPT4 生成的英语单词书，收入 8000+常用单词，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事。（[@Ceelog](https://github.com/ruanyf/weekly/issues/4734) 投稿）
 
 4、[ImageSearch](https://picfind.top/)
 
@@ -306,7 +306,7 @@ Chrome 125 引入了 CSS 锚点定位（Anchor Positioning），这种新语法�
 
 1、[贝勒尼基佛像](https://www.smithsonianmag.com/smart-news/buddha-statue-found-berenike-egypt-180982075/)
 
-2022年，考古学家在埃及港口城市贝勒尼基，发现了一尊佛像。
+2022 年，考古学家在埃及港口城市贝勒尼基，发现了一尊佛像。
 
 ![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070201.webp)
 
@@ -338,15 +338,15 @@ Chrome 125 引入了 CSS 锚点定位（Anchor Positioning），这种新语法�
 
 ![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070407.webp)
 
-因为直径增大一倍，星球的质量可能会增大10倍左右，引力可能会强两倍以上，具体取决于行星的成分。
+因为直径增大一倍，星球的质量可能会增大 10 倍左右，引力可能会强两倍以上，具体取决于行星的成分。
 
 这时，额外的重力一方面有利于生命的形成，因为会产生更厚的大气层，保护地表生命免受有害宇宙射线的伤害。
 
-另一方面，也将难以发射火箭离开地球。10倍重力的情况下，发射同样负载，火箭燃料需要增加三倍左右。
+另一方面，也将难以发射火箭离开地球。10 倍重力的情况下，发射同样负载，火箭燃料需要增加三倍左右。
 
 ![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070408.webp)
 
-如果要发射45吨负载（相当于阿波罗登月任务），那么火箭重量将达到大约400,000吨，相当于大金字塔的大小。
+如果要发射 45 吨负载（相当于阿波罗登月任务），那么火箭重量将达到大约 400,000 吨，相当于大金字塔的大小。
 
 想象一下，把金字塔那样的庞然大物发射上天，这只在理论上是可能的，实际上很难做到。
 
@@ -386,7 +386,7 @@ Chrome 125 引入了 CSS 锚点定位（Anchor Positioning），这种新语法�
 
 5、
 
-隐私可能是最近才出现的概念。我小时候住在一个3000人的小镇上，每个人都知道每个人在做什么。那时没有私人电话，邮政局长可以看到每个人收到的邮件。
+隐私可能是最近才出现的概念。我小时候住在一个 3000 人的小镇上，每个人都知道每个人在做什么。那时没有私人电话，邮政局长可以看到每个人收到的邮件。
 
 工业化导致了巨型城市的出现，大量人口的聚集产生了隐私感，而科技的发展可能使得隐私再次丧失。
 
@@ -403,4 +403,3 @@ Chrome 125 引入了 CSS 锚点定位（Anchor Positioning），这种新语法�
 [如果不能去美国上市](https://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html)（2020 #110）
 
 （完）
-

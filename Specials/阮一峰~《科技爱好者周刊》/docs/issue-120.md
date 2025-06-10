@@ -10,13 +10,13 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080205.jpg)
 
-8月5日，伦敦自然历史博物馆重新开馆。工作人员为蛇颈龙化石展品做清洁。（来源：[Instagram](https://www.instagram.com/p/CDNxThJHMcB/)）
+8 月 5 日，伦敦自然历史博物馆重新开馆。工作人员为蛇颈龙化石展品做清洁。（来源：[Instagram](https://www.instagram.com/p/CDNxThJHMcB/)）
 
 ## 本周话题：只有开放才能打败封锁
 
 美国搞技术封锁，不允许中国企业使用美国技术。今天就来谈谈，应该怎么应对这种局面。
 
-华为最近[宣布](https://www.sohu.com/a/412195424_114837)，9月15日以后，手机的麒麟芯片无法生产了，可能将成为绝响，因为台积电迫于美国的禁令，不再接受华为的订单了。
+华为最近[宣布](https://www.sohu.com/a/412195424_114837)，9 月 15 日以后，手机的麒麟芯片无法生产了，可能将成为绝响，因为台积电迫于美国的禁令，不再接受华为的订单了。
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081110.jpg)
 
@@ -30,7 +30,7 @@
 
 开源软件还有一个好处，它有助于推广技术，扩大影响力。中国拥有知识产权的技术或软件，变成世界主流的案例越多，美国的封锁就越不容易奏效。一项技术怎么才能变成业界的主流，开源是一个很有效的方法。
 
-所以我觉得， **政府应该把开源软件定为国家战略。** 鼓励国人多使用开源软件（比如 Linux），摆脱对专有技术的依赖；同时，鼓励企业和个人将自己的智力成果与全世界共享，打破美国的技术霸权。最终来说，只有开放才能打败封锁。
+所以我觉得，**政府应该把开源软件定为国家战略。** 鼓励国人多使用开源软件（比如 Linux），摆脱对专有技术的依赖；同时，鼓励企业和个人将自己的智力成果与全世界共享，打破美国的技术霸权。最终来说，只有开放才能打败封锁。
 
 ## 数据分析实战
 
@@ -97,13 +97,13 @@ Steam 游戏平台最近出现了一款 5D 国际游戏，除了棋盘是 3D 以
 
 印度是一个人多地少的国家，虽然日照充沛，但是缺乏发展太阳能的土地。古吉拉特邦想出了一个解决方法，就是把太阳能电池板架设在河道的上方，覆盖了一整条运河。
 
-这不仅解决了太阳能发电的用地问题，而且减少了运河的水份蒸发，增加了农业灌溉用水。目前已经完成了40公里。
+这不仅解决了太阳能发电的用地问题，而且减少了运河的水份蒸发，增加了农业灌溉用水。目前已经完成了 40 公里。
 
 5、[Mozilla 裁员](https://www.quirksmode.org/blog/archives/2020/08/the_cult_of_the.html)
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081309.jpg)
 
-Mozilla 本周宣布裁员250人。这其实不算意外，它的全球雇员超过1000人，但是主要产品都是免费的，这样的雇员规模可能确实太大了。
+Mozilla 本周宣布裁员 250 人。这其实不算意外，它的全球雇员超过 1000 人，但是主要产品都是免费的，这样的雇员规模可能确实太大了。
 
 裁员的一个后果就是，MDN 文档团队基本上被裁掉了，只剩下很少的人，MDN 以后可能都要靠志愿者维护。由于 MDN 是 Web 开发事实上的标准文档，这件事恐怕会对全球的开发者造成很大影响。这也反应了，文档是有代价的，优质文档很难免费提供。
 
@@ -119,16 +119,15 @@ Mozilla 本周宣布裁员250人。这其实不算意外，它的全球雇员超
 
 > - [马里兰大学](https://phys.org/news/2020-08-glass-like-wood-insulates-tough-blocks.html)的工程师发明了一种透明木材，可以替代玻璃，还比玻璃更坚硬，更隔热，可以阻挡紫外线。
 
-
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080722.jpg)
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080723.jpg)
 
-> - [波音747飞机](https://gizmodo.com/boeing-747s-still-use-floppy-disks-to-get-critical-soft-1844683811)仍然使用3.5英寸软盘，进行数据库更新。（[@regomne](https://gizmodo.com/boeing-747s-still-use-floppy-disks-to-get-critical-soft-1844683811) 投稿）
+> - [波音 747 飞机](https://gizmodo.com/boeing-747s-still-use-floppy-disks-to-get-critical-soft-1844683811)仍然使用 3.5 英寸软盘，进行数据库更新。（[@regomne](https://gizmodo.com/boeing-747s-still-use-floppy-disks-to-get-critical-soft-1844683811) 投稿）
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081302.jpg)
 
-> - [我国](https://hunan.voc.com.cn/article/202007/202007300905139132.html)研发成功世界最强马力的电力机车"神24"，可以牵引一万吨货物或者100节车厢。
+> - [我国](https://hunan.voc.com.cn/article/202007/202007300905139132.html)研发成功世界最强马力的电力机车"神 24"，可以牵引一万吨货物或者 100 节车厢。
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081306.jpg)
 
@@ -152,11 +151,11 @@ Deno 是一个 TypeScript 运行时，可以替代 Node.js。它有一个模块�
 
 财政部最近下发了一个文件，使用 arctan 函数调节国有金融企业的工资总额。这个函数到底有什么特别之处？
 
-5、[2020年值得推荐的13本 Java 书籍](https://medium.com/javarevisited/10-books-java-developers-should-read-in-2020-e6222f25cc72)（英文）
+5、[2020 年值得推荐的 13 本 Java 书籍](https://medium.com/javarevisited/10-books-java-developers-should-read-in-2020-e6222f25cc72)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080806.jpg)
 
-作者列了一个书单，推荐了13本 Java 学习书籍。
+作者列了一个书单，推荐了 13 本 Java 学习书籍。
 
 6、[如何在谷歌查找到任何信息](https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html)（英文）
 
@@ -172,7 +171,7 @@ Deno 是一个 TypeScript 运行时，可以替代 Node.js。它有一个模块�
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081004.jpg)
 
-作者做了一个有趣的实验，在冰箱里面放入传感器和树莓派，看看停电后，冷冻室能保持低温多长时间。结果发现，室温19°C的房间中，冷冻室每小时损失的冷度为2.6％，大约26小时后温度将达到0°。
+作者做了一个有趣的实验，在冰箱里面放入传感器和树莓派，看看停电后，冷冻室能保持低温多长时间。结果发现，室温 19°C 的房间中，冷冻室每小时损失的冷度为 2.6％，大约 26 小时后温度将达到 0°。
 
 ## 工具
 
@@ -190,7 +189,7 @@ WordPress 团队新发布的团队协作工具，有点类似公司内部的博�
 
 3、[Hasura GraphQL 引擎](https://github.com/hasura/graphql-engine/blob/master/translations/README.chinese.md)
 
-一个高性能的 GraphQL 服务器，提供 Postgres上开箱即用的实时GraphQL API。（[@shark-h](https://github.com/ruanyf/weekly/issues/1368) 投稿）
+一个高性能的 GraphQL 服务器，提供 Postgres 上开箱即用的实时 GraphQL API。（[@shark-h](https://github.com/ruanyf/weekly/issues/1368) 投稿）
 
 4、[codota](https://www.codota.com/)
 
@@ -230,7 +229,7 @@ WordPress 团队新发布的团队协作工具，有点类似公司内部的博�
 
 1、[技术树](https://github.com/github/archive-program/blob/master/TheTechTree.md)
 
-为了让后代了解我们如何开发和使用软件，GitHub 官方开出了一个书单，称为“技术树”（the Tech Tree），包括16个大类的200多本经典书籍。这些书籍的数字化版本，将存放在 GitHub 的北极仓库。
+为了让后代了解我们如何开发和使用软件，GitHub 官方开出了一个书单，称为“技术树”（the Tech Tree），包括 16 个大类的 200 多本经典书籍。这些书籍的数字化版本，将存放在 GitHub 的北极仓库。
 
 2、[谷歌职业证书](https://grow.google/certificates/)
 
@@ -262,7 +261,7 @@ BUI 是一个国产的移动端 H5 框架，这是框架作者写的系列教程
 
 《模拟城市》是一个电子游戏，要求玩家建设一个现代城市，可以养活尽可能多的人口。
 
-2010年，菲律宾的一个22岁的建筑专业学生，经过大量的计划和反复试验，在《模拟城市》里面创建一个拥有600万居民的极限城市。
+2010 年，菲律宾的一个 22 岁的建筑专业学生，经过大量的计划和反复试验，在《模拟城市》里面创建一个拥有 600 万居民的极限城市。
 
 ![](https://cdn.beekka.com/blogimg/asset/202008/bg2020080511.jpg)
 
@@ -296,23 +295,23 @@ lululemon 是一家运动服饰公司，主要生产健身裤。
 
 ![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071413.jpg)
 
-最近，lululemon 以5亿美元的巨资，收购了一家创业公司 Mirror。
+最近，lululemon 以 5 亿美元的巨资，收购了一家创业公司 Mirror。
 
-Mirror 的产品是一种用于家庭健身的全身镜，但实际上相当于一台巨型的悬挂在墙上的 iPad，价格为1,495美元。用户每月支付39美元的订阅费，就可以在这面镜子上看到健身课程，然后跟着一起做。这面镜子支持点播，以及老师的现场直播，从瑜伽到拳击都有课程。 
+Mirror 的产品是一种用于家庭健身的全身镜，但实际上相当于一台巨型的悬挂在墙上的 iPad，价格为 1,495 美元。用户每月支付 39 美元的订阅费，就可以在这面镜子上看到健身课程，然后跟着一起做。这面镜子支持点播，以及老师的现场直播，从瑜伽到拳击都有课程。
 
 ![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071415.jpg)
 
 ![](https://cdn.beekka.com/blogimg/asset/202007/bg2020071414.jpg)
 
-为什么生产健身裤的公司要收购开发智能镜子和健身视频的公司呢？ 
+为什么生产健身裤的公司要收购开发智能镜子和健身视频的公司呢？
 
-答案是这两家公司都针对同一个客户群体：富裕的新一代年轻人，他们喜欢锻炼身体，喜欢看着镜子里自己运动的样子。 
+答案是这两家公司都针对同一个客户群体：富裕的新一代年轻人，他们喜欢锻炼身体，喜欢看着镜子里自己运动的样子。
 
 通过这次收购，lululemon 可以增加收入（有了新产品），向现有的健身裤客户销售 Mirror，并且借助新的硬件产品在互联行业赢得一席之地。
 
 lululemon 可以用 Mirror 替换了商店中的所有镜子，客户可以在 Mirror 前面亲自尝试。在服饰商店体验瑜伽课程，这可能会对销售产生巨大影响。
 
-但是，也有一些证据表明，lululemon 客户对这种镜子 Mirror并不特别感兴趣。所以，最终到底会怎样，这是一个很好的收购，还是会像许多其他跨行业收购一样失败，现在还并不知道。
+但是，也有一些证据表明，lululemon 客户对这种镜子 Mirror 并不特别感兴趣。所以，最终到底会怎样，这是一个很好的收购，还是会像许多其他跨行业收购一样失败，现在还并不知道。
 
 ## 言论
 
@@ -348,15 +347,15 @@ SSD 固态硬盘变成主流，导致 Windows 10 在 HDD 机械硬盘上几乎�
 
 同时，我还会发布一个商业许可证，如果你不想将更改公诸于世，就必须购买商业许可。
 
---  [Hacker News 读者](https://news.ycombinator.com/item?id=24098725)
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=24098725)
 
 ## 回顾
 
-2019年的本周（第 69 期）：[做得好 vs 做得快](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html)
+2019 年的本周（第 69 期）：[做得好 vs 做得快](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html)
 
 ![](https://cdn.beekka.com/blogimg/asset/201908/bg2019081403.jpg)
 
-2018年的本周（第 17 期）：[全球变暖，在劫难逃](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-17.html)
+2018 年的本周（第 17 期）：[全球变暖，在劫难逃](http://www.ruanyifeng.com/blog/2018/08/weekly-issue-17.html)
 
 ![](https://cdn.beekka.com/blogimg/asset/201808/bg2018081001.jpg)
 

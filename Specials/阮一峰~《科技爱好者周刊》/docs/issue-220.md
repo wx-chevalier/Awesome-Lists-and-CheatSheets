@@ -18,7 +18,7 @@
 
 ![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082004.webp)
 
-它可以根据文本生成图片，有点像童话里面的“魔镜”。你告诉魔镜想看什么，它就向你展示什么。目前的[价格](https://www.163.com/dy/article/HCSNPB8F05118HA4.html)是15美元生成460张图片，平均每张图0.03美元（约为人民币两角）。
+它可以根据文本生成图片，有点像童话里面的“魔镜”。你告诉魔镜想看什么，它就向你展示什么。目前的[价格](https://www.163.com/dy/article/HCSNPB8F05118HA4.html)是 15 美元生成 460 张图片，平均每张图 0.03 美元（约为人民币两角）。
 
 人们马上发现，这个工具有实际用途。
 
@@ -46,7 +46,7 @@ Go 语言数据流操作的文章，图片描述是“一个毛绒绒的蓝色�
 
 ![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082005.webp)
 
-回答的平均数是5.25个小时，而 DALL·E 2 实际只花了22秒。这意味着，**人工智能可以节省99.9%的设计师时间！** 这些节省出来的时间，就可以用在其他方面，为公司创造更大价值。
+回答的平均数是 5.25 个小时，而 DALL·E 2 实际只花了 22 秒。这意味着，**人工智能可以节省 99.9%的设计师时间！** 这些节省出来的时间，就可以用在其他方面，为公司创造更大价值。
 
 其实，最经济的做法是，设计师负责跟客户（或项目经理）沟通，搞清楚对方想要什么设计，然后把需求输入软件，让 DALL·E 2 生成实际作品即可，最多再做一些人工的修补。
 
@@ -54,7 +54,7 @@ Go 语言数据流操作的文章，图片描述是“一个毛绒绒的蓝色�
 
 悲观的朋友也许觉得，这是人工智能抢走工作岗位的又一个例子。这种想法不算错，**但是从相反的角度看，这恰恰是人工智能带来的机会。**
 
-以前请不起设计师的项目，现在可以有设计资源了；以前只有5000元设计费的项目，现在可以省下这笔钱，还能有多个设计可以选择。这就是人工智能为所有人创造的机会。
+以前请不起设计师的项目，现在可以有设计资源了；以前只有 5000 元设计费的项目，现在可以省下这笔钱，还能有多个设计可以选择。这就是人工智能为所有人创造的机会。
 
 我们不应该想着去跟人工智能竞争，那样的结局肯定是悲观的，**而要把人工智能看成放大自己能力、扩大成果的一个机会。**
 
@@ -68,7 +68,7 @@ Go 语言数据流操作的文章，图片描述是“一个毛绒绒的蓝色�
 
 上月底，[稀土掘金社区](https://juejin.cn/?utm_source=ryfzk)办了[第二届开发者大会](https://conf.juejin.cn/xdc2022/?utm_source=ryfzk)。
 
-周刊发过活动预告，希望大家报名看现场直播。因为他们这一次请了[很多人](https://conf.juejin.cn/xdc2022/#s8?utm_source=ryfzk)，两天排了18个技术专场，近百场演讲。
+周刊发过活动预告，希望大家报名看现场直播。因为他们这一次请了[很多人](https://conf.juejin.cn/xdc2022/#s8?utm_source=ryfzk)，两天排了 18 个技术专场，近百场演讲。
 
 ![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081506.webp)
 
@@ -80,7 +80,7 @@ Go 语言数据流操作的文章，图片描述是“一个毛绒绒的蓝色�
 
 他主要讲了两点。第一点是 React Hooks 写法的一些缺点，其他框架（包括 Vue.js）如何克服。
 
-第二点比较有趣。他提到，**框架逐渐变成一个“中间层”。** 
+第二点比较有趣。他提到，**框架逐渐变成一个“中间层”。**
 
 框架的上层是一些全栈框架（比如 Next.js 和 Nuxt），将前后端打通。下层是一些二进制工具（下图），都不是用 JS 写的，主要用原生的编译语言实现。
 
@@ -96,13 +96,13 @@ Go 语言数据流操作的文章，图片描述是“一个毛绒绒的蓝色�
 
 他谈了一个 Java 开发者普遍关心的问题：**微服务 + 容器 + serverless 这些云工具，正在蚕食大型 Java 系统的市场**，那么 Java 和 Spring 框架应该怎样面对云原生的挑战？
 
-还有两个演讲也蛮有意思。（1）飞书的产品负责人陈满砚，介绍如何管理300人的团队，做出飞书这个产品。（2）中兴通讯的工程师陈旭，介绍可视化的多人实时编辑的算法实现。
+还有两个演讲也蛮有意思。（1）飞书的产品负责人陈满砚，介绍如何管理 300 人的团队，做出飞书这个产品。（2）中兴通讯的工程师陈旭，介绍可视化的多人实时编辑的算法实现。
 
 3、
 
 现在，[所有演讲视频](https://conf.juejin.cn/xdc2022/?utm_source=ryfzk)都上网了，就在稀土开发者大会的官网。
 
-这些演讲的 PPT 免费下载，一共78个文件，包括上面我提到的那几个。**官方把这些 PPT 做成了一本完整的掘金小册**，省得大家一个个下载了。 
+这些演讲的 PPT 免费下载，一共 78 个文件，包括上面我提到的那几个。**官方把这些 PPT 做成了一本完整的掘金小册**，省得大家一个个下载了。
 
 ![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082406.webp)
 
@@ -136,7 +136,7 @@ Go 语言数据流操作的文章，图片描述是“一个毛绒绒的蓝色�
 
 ![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032005.webp)
 
-手机使用摄像头接收光信号，进行解读。据称在5厘米的距离内，传输速率可达到 1.5kb/秒。
+手机使用摄像头接收光信号，进行解读。据称在 5 厘米的距离内，传输速率可达到 1.5kb/秒。
 
 ![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032006.webp)
 
@@ -146,7 +146,7 @@ Go 语言数据流操作的文章，图片描述是“一个毛绒绒的蓝色�
 
 3、[世界最薄的机械表](https://www.hodinkee.com/articles/richard-mille-sets-a-new-record-for-the-worlds-thinnest-watch-with-the-rm-up-01-ferrari)
 
-一家瑞士高档手表品牌，推出了世界最薄的机械表，只有1.75毫米厚。
+一家瑞士高档手表品牌，推出了世界最薄的机械表，只有 1.75 毫米厚。
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070906.webp)
 
@@ -164,15 +164,15 @@ Go 语言数据流操作的文章，图片描述是“一个毛绒绒的蓝色�
 
 表盘的左上角和左下角是旋转操作钮。右上角是外露的摆轮，右下角是合作方法拉利 Logo。
 
-它的售价也是天价，高达188.8万美元，全球限量发售150支。
+它的售价也是天价，高达 188.8 万美元，全球限量发售 150 支。
 
 4、[正方形显示器](https://www.lg.com/us/monitors/lg-28mq780-b)
 
-LG 公司最近发布了一款16:18的显示器。
+LG 公司最近发布了一款 16:18 的显示器。
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071002.webp)
 
-普通显示器的宽高比一般是16:9，所以这款显示器相当于两个普通显示器堆在一起。
+普通显示器的宽高比一般是 16:9，所以这款显示器相当于两个普通显示器堆在一起。
 
 这种接近正方形的显示器现在越来越多，此前 [Ezio](https://www.eizo.com/products/flexscan/ev2730q/) 也发布过一款。正方形显示器的好处是，上部和下部可以同时打开两个应用，都能完整显示。
 
@@ -208,7 +208,7 @@ DuckDuckGo 开始向所有用户免费开放 @duck.com 邮箱。这是一个邮�
 
 4、[为什么苹果一定会发布基于 ARM 的 Mac 电脑](https://www.mattrichman.net/why-apple-will-switch-to-arm-based-macs/)（英文）
 
-一篇2014年的文章，作者正确预言 Mac 电脑会改用 ARM 架构 CPU，分析得有理有据，很有眼光。
+一篇 2014 年的文章，作者正确预言 Mac 电脑会改用 ARM 架构 CPU，分析得有理有据，很有眼光。
 
 5、[如何使用 Next.js 搭建博客](https://www.joshwcomeau.com/blog/how-i-built-my-blog/)（英文）
 
@@ -218,7 +218,7 @@ DuckDuckGo 开始向所有用户免费开放 @duck.com 邮箱。这是一个邮�
 
 6、[Node.js 的性能差异：CJS vs ESM](https://github.com/nodejs/node/issues/44186)（英文）
 
-这是 Node.js 官方仓库的一个 issue。有人发现，Node.js 处理 CJS 模块比 ESM 模块快10倍，而且 Node 18 的性能不如 Node 16。
+这是 Node.js 官方仓库的一个 issue。有人发现，Node.js 处理 CJS 模块比 ESM 模块快 10 倍，而且 Node 18 的性能不如 Node 16。
 
 7、[Tauri vs Electron：真实项目的比较](https://www.levminer.com/blog/tauri-vs-electron)（英文）
 
@@ -228,11 +228,11 @@ Electron 是目前跨平台桌面软件的首选开发框架，Tauri 则是最�
 
 作者特意用 Tauri 写了一个桌面应用。本文是他的使用感受，以及两者的全方位比较。
 
-8、[103状态码：加载提示](https://developer.chrome.com/blog/early-hints/)（英文）
+8、[103 状态码：加载提示](https://developer.chrome.com/blog/early-hints/)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082002.webp)
 
-Chrome 浏览器新增了 HTTP 协议的103状态码，表示“加载提示”（early hints），即提示浏览器可以预加载某个资源，用来取代已经下线的 HTTP/2 的[服务器推送](https://developer.chrome.com/blog/removing-push/)功能。
+Chrome 浏览器新增了 HTTP 协议的 103 状态码，表示“加载提示”（early hints），即提示浏览器可以预加载某个资源，用来取代已经下线的 HTTP/2 的[服务器推送](https://developer.chrome.com/blog/removing-push/)功能。
 
 ## 工具
 
@@ -296,13 +296,13 @@ SVN 源代码仓库的 Web 管理界面，使用 PHP 开发。（[@witersen](htt
 
 1、[微服务框架 CloudWeGo 技术沙龙](https://www.bagevent.com/event/8261894?bag_track=001)
 
-上周向大家介绍过字节的微服务框架 [CloudWeGo](https://www.cloudwego.io/zh/)，支持了字节内部[10万+的微服务和1000万的容器实例](https://segmentfault.com/a/1190000042226107)，已经完全开源给外部使用，内外是同一套代码。
+上周向大家介绍过字节的微服务框架 [CloudWeGo](https://www.cloudwego.io/zh/)，支持了字节内部[10 万+的微服务和 1000 万的容器实例](https://segmentfault.com/a/1190000042226107)，已经完全开源给外部使用，内外是同一套代码。
 
 ![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081608.webp)
 
-CloudWeGo 团队会在明天（8月27日）下午2点的字节跳动技术沙龙，**直播分享字节系应用的后台架构**（比如[飞书的架构](https://segmentfault.com/a/1190000042187351)），以及如何快速搭建企业级微服务应用。没报名的同学可以抓紧时间[报名](https://www.bagevent.com/event/8261894?bag_track=001)，还有机会赢取会务组准备的大量礼品。
+CloudWeGo 团队会在明天（8 月 27 日）下午 2 点的字节跳动技术沙龙，**直播分享字节系应用的后台架构**（比如[飞书的架构](https://segmentfault.com/a/1190000042187351)），以及如何快速搭建企业级微服务应用。没报名的同学可以抓紧时间[报名](https://www.bagevent.com/event/8261894?bag_track=001)，还有机会赢取会务组准备的大量礼品。
 
-另外，这个框架是用 Go 写的，CloudWeGo 团队不满足于此，还想要更好的性能，所以尝试开发了**国内首个 Rust 语言的 RPC 框架**，也会在现场发布，欢迎关注。 
+另外，这个框架是用 Go 写的，CloudWeGo 团队不满足于此，还想要更好的性能，所以尝试开发了**国内首个 Rust 语言的 RPC 框架**，也会在现场发布，欢迎关注。
 
 ## 资源
 
@@ -334,9 +334,9 @@ CloudWeGo 团队会在明天（8月27日）下午2点的字节跳动技术沙龙
 
 ## 图片
 
-1、[50美元纸钞](https://www.hillelwayne.com/post/microscopy/)
+1、[50 美元纸钞](https://www.hillelwayne.com/post/microscopy/)
 
-下图是显微镜下的50美元纸钞。
+下图是显微镜下的 50 美元纸钞。
 
 ![](https://cdn.beekka.com/blogimg/asset/220204/bg2022040303.webp)
 
@@ -374,9 +374,9 @@ CloudWeGo 团队会在明天（8月27日）下午2点的字节跳动技术沙龙
 
 ![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081304.webp)
 
-这种专业的大头照非常贵，最便宜的也要200多美元一张。如果你想一次多拍几张，就要上千美元。
+这种专业的大头照非常贵，最便宜的也要 200 多美元一张。如果你想一次多拍几张，就要上千美元。
 
-有些摄影师还自带发型师和化妆师，为你做发型和化妆。这样的话，一张大头照就要收费1000美元或2000美元。
+有些摄影师还自带发型师和化妆师，为你做发型和化妆。这样的话，一张大头照就要收费 1000 美元或 2000 美元。
 
 ![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081305.webp)
 
@@ -386,7 +386,7 @@ CloudWeGo 团队会在明天（8月27日）下午2点的字节跳动技术沙龙
 
 现在，拍摄互联网使用的头像照片，已经在美国成为一个获利丰厚的新产业。
 
-不过研究表明，这笔钱是值得的。如果大头照有吸引力，你的 LinkedIn 页面就会获得多得多的浏览量。带有大头照的页面获得的浏览量，是没有头像页面的21倍，获得的好友请求是9倍。
+不过研究表明，这笔钱是值得的。如果大头照有吸引力，你的 LinkedIn 页面就会获得多得多的浏览量。带有大头照的页面获得的浏览量，是没有头像页面的 21 倍，获得的好友请求是 9 倍。
 
 反之，如果你的头像与老板心目中的形象不符，就会降低你拿到 offer 的概率。
 
@@ -420,19 +420,19 @@ CloudWeGo 团队会在明天（8月27日）下午2点的字节跳动技术沙龙
 
 5、
 
-任何一个人都是一条已经存在40亿年的生物繁殖链条的最终结果。40亿年中，这条链条每一环的繁殖都没有失败，才有了你。
+任何一个人都是一条已经存在 40 亿年的生物繁殖链条的最终结果。40 亿年中，这条链条每一环的繁殖都没有失败，才有了你。
 
 -- [Hacker News 读者](https://news.ycombinator.com/item?id=31848315)
 
 ## 历史上的本周
 
-2021年（第 172 期）：[我们会死于气候灾难吗？](https://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html)
+2021 年（第 172 期）：[我们会死于气候灾难吗？](https://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html)
 
-2020年（第 121 期）：[为什么人类没有越来越闲？](https://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html)
+2020 年（第 121 期）：[为什么人类没有越来越闲？](https://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html)
 
-2019年（第 70 期）：[世界进入负利率时代，这意味什么](https://www.ruanyifeng.com/blog/2019/08/weekly-issue-70.html)
+2019 年（第 70 期）：[世界进入负利率时代，这意味什么](https://www.ruanyifeng.com/blog/2019/08/weekly-issue-70.html)
 
-2018年（第 19 期）：[电影《头号玩家》描绘未来的虚拟世界](https://www.ruanyifeng.com/blog/2018/08/weekly-issue-19.html)
+2018 年（第 19 期）：[电影《头号玩家》描绘未来的虚拟世界](https://www.ruanyifeng.com/blog/2018/08/weekly-issue-19.html)
 
 ## 鸣谢
 
@@ -441,4 +441,3 @@ CloudWeGo 团队会在明天（8月27日）下午2点的字节跳动技术沙龙
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072108.webp)
 
 （完）
-

@@ -14,7 +14,7 @@
 
 周刊的《工具》部分，每周都有一些很有用的软件，有些对我的帮助也很大。
 
-[《周刊（第254期）》](https://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html)有一个作者自荐的“[沉浸式翻译](https://immersivetranslate.com/)”，就特别有用。
+[《周刊（第 254 期）》](https://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html)有一个作者自荐的“[沉浸式翻译](https://immersivetranslate.com/)”，就特别有用。
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080602.webp)
 
@@ -60,7 +60,7 @@ Calibre 每次只能导入一个文档。如果你想将多个 HTML 文件做成
 
 1、[AI 广播](https://techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/)
 
-美国俄勒冈州的一家电台宣布，主持人艾什莉每天上午10点至下午3点的节目，将完全由 AI 生成。
+美国俄勒冈州的一家电台宣布，主持人艾什莉每天上午 10 点至下午 3 点的节目，将完全由 AI 生成。
 
 ![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062405.webp)
 
@@ -98,7 +98,7 @@ AI 根据当天的新闻热点，生成讲稿，然后采用艾什莉的语音�
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080509.webp)
 
-进入八月后，智利的气温超过37.8℃，创下历史纪录。阿根廷首都布宜诺斯艾利斯平均气温超过30度，往年则是14.4℃。
+进入八月后，智利的气温超过 37.8℃，创下历史纪录。阿根廷首都布宜诺斯艾利斯平均气温超过 30 度，往年则是 14.4℃。
 
 全球变暖正在改变南半球的冬季，接下来北半球的冬季会不会也出现高温呢？
 
@@ -108,9 +108,9 @@ AI 根据当天的新闻热点，生成讲稿，然后采用艾什莉的语音�
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080911.webp)
 
-它大概是世界上拖延最久的太空任务。它的上一代 Luna 24 是1976年发射的，整整47年之前，此后俄罗斯再没有进行过任何探月活动。
+它大概是世界上拖延最久的太空任务。它的上一代 Luna 24 是 1976 年发射的，整整 47 年之前，此后俄罗斯再没有进行过任何探月活动。
 
-本次太空任务是上个世纪90年代规划的，2010年代开始开发，2021年完成组装和测试，原定2022年发射。最早参与这个项目的人员，很可能现在都已经退休了。
+本次太空任务是上个世纪 90 年代规划的，2010 年代开始开发，2021 年完成组装和测试，原定 2022 年发射。最早参与这个项目的人员，很可能现在都已经退休了。
 
 ## 文章
 
@@ -118,7 +118,7 @@ AI 根据当天的新闻热点，生成讲稿，然后采用艾什莉的语音�
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080907.webp)
 
-工信部[宣布](https://www.gov.cn/zhengce/202308/content_6897437.htm)，从9月开始推行手机 App 备案（包括小程序），类似现有的网站备案。明年4月起，未备案的 App 不得提供接入。
+工信部[宣布](https://www.gov.cn/zhengce/202308/content_6897437.htm)，从 9 月开始推行手机 App 备案（包括小程序），类似现有的网站备案。明年 4 月起，未备案的 App 不得提供接入。
 
 2、[Rhino Linux 介绍](https://linuxiac.com/rhino-linux-unveil-its-first-stable-2023-1-release/)（英文）
 
@@ -132,11 +132,11 @@ Rhino 是一个 Linux 发行版，基于 Ubuntu，但是采用滚动更新模式
 
 作者介绍了一种新鲜的做法，将 Mastodon 社交网络用作网站评论。它的最大好处是数据开放，不会被第三方控制，因为 Mastodon 是一个开放式、无中心的网络服务。
 
-4、[2048位的 RSA 密钥2030年可以破解吗？](https://articles.59.ca/doku.php?id=em:20482030)（英文）
+4、[2048 位的 RSA 密钥 2030 年可以破解吗？](https://articles.59.ca/doku.php?id=em:20482030)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071102.webp)
 
-有一种说法，随着计算能力的增长，2048位的 RSA 密钥在2030年将被破解，作者分析这种说法是否可信。
+有一种说法，随着计算能力的增长，2048 位的 RSA 密钥在 2030 年将被破解，作者分析这种说法是否可信。
 
 5、[Docker Compose 是怎么来的？](https://brianchristner.io/4000-stars-and-counting-a-trip-down-memory-lane/)（英文）
 
@@ -144,7 +144,7 @@ Rhino 是一个 Linux 发行版，基于 Ubuntu，但是采用滚动更新模式
 
 作者是 Docker 的第一批用户，也是最早的 Docker 教程作者之一，他回忆了 Docker 早期是怎么发展而来的。
 
-6、[如何使用 Favicon（2023版）](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)（英文）
+6、[如何使用 Favicon（2023 版）](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071304.webp)
 
@@ -264,7 +264,7 @@ LangChain 是目前最流行的生成式 AI 编程框架，作者用一张图讲
 
 1、[上个世纪的档案馆](https://www.vintag.es/2020/01/central-social-institution-prague.html)
 
-下面的照片是1937年的捷克斯洛伐克社会局的档案馆。它的墙高达四五米，上面密密麻麻有3000个抽屉。
+下面的照片是 1937 年的捷克斯洛伐克社会局的档案馆。它的墙高达四五米，上面密密麻麻有 3000 个抽屉。
 
 ![](https://cdn.beekka.com/blogimg/asset/202205/bg2022053002.webp)
 
@@ -290,13 +290,13 @@ LangChain 是目前最流行的生成式 AI 编程框架，作者用一张图讲
 
 1、[Nike 运动鞋的由来](https://every.to/superorganizers/fear-courage-and-willingness)
 
-上个世纪60年代初，22岁的菲利普·奈特（Phil Knight）刚刚从大学毕业。
+上个世纪 60 年代初，22 岁的菲利普·奈特（Phil Knight）刚刚从大学毕业。
 
 在大学里，他是校田径队的短跑运动员，对运动鞋很熟悉。离开学校后，他就开始做运动鞋生意，将便宜的日本运动鞋卖到美国。
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081007.webp)
 
-他发现一款​​名为 Tiger 的日本运动鞋，比美国市场上的任何运动鞋都更轻，可以让选手跑得更快。他决定专门进口这种鞋子。 
+他发现一款 ​​ 名为 Tiger 的日本运动鞋，比美国市场上的任何运动鞋都更轻，可以让选手跑得更快。他决定专门进口这种鞋子。
 
 ![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081008.webp)
 
@@ -306,11 +306,11 @@ LangChain 是目前最流行的生成式 AI 编程框架，作者用一张图讲
 
 他回忆说：“（它让）我陷入了深深的恐惧之中。每天晚上我都会和家人一起吃晚饭，把妈妈做的烤肉和蔬菜放在盘子里。然后我会和父亲坐在角落里，闷闷不乐地盯着电视。”
 
-他开始考虑转行，放弃运动鞋生意。但在此之前，他想再试一下。 
+他开始考虑转行，放弃运动鞋生意。但在此之前，他想再试一下。
 
 他给制造 Tiger 运动鞋的日本公司 Onitsuka 写了一封信，请求他们改变独家销售授权，允许他在美国销售这款鞋。
 
-他没有得到任何回音。几个月之后，他基本已经放弃了卖鞋。 
+他没有得到任何回音。几个月之后，他基本已经放弃了卖鞋。
 
 就这样过了一段日子，他还是不甘心。他后来回忆说：“我很焦虑，对未来感到恐惧，但是不知何故，我产生了一个疯狂的想法，而且越来越坚定。我不想放弃。”
 
@@ -333,7 +333,6 @@ LangChain 是目前最流行的生成式 AI 编程框架，作者用一张图讲
 简化系统的首选方法，就是将一个大系统，转变为多个更小的子系统组成的系统。
 
 -- [《系统、数学和爆炸》](https://pjonori.blog/posts/systems-math-explosions/)
-
 
 2、
 
@@ -366,4 +365,3 @@ LangChain 是目前最流行的生成式 AI 编程框架，作者用一张图讲
 [做得好 vs 做得快](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html)（2019 #69）
 
 （完）
-
