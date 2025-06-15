@@ -105,3 +105,7 @@
 # Path Trace
 
 - [2020~THREE.js-PathTracing-Renderer ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/erichlof/THREE.js-PathTracing-Renderer)](https://github.com/erichlof/THREE.js-PathTracing-Renderer): Real-time PathTracing with global illumination and progressive rendering, all on top of the Three.js WebGL framework.
+
+# Others
+
+- [sparkjsdev/spark ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sparkjsdev/spark)](https://github.com/sparkjsdev/spark): An advanced 3D Gaussian Splatting renderer for THREE.js.

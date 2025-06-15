@@ -354,7 +354,7 @@ for i in tqdm(range(10000)):
 
 # 基本数据类型
 
-可以使用内建函数进行强制类型转换(Casting )
+可以使用内建函数进行强制类型转换(Casting)
 
 ```py
 int(str)
@@ -1821,4 +1821,4 @@ def fetch_bigtable_rows(big_table, keys, other_silly_variable=None):
 
 # Links
 
-- https://mojotv.cn/2018/12/26/python-cheat-sheet Python快速入门和查询 
+- https://mojotv.cn/2018/12/26/python-cheat-sheet Python 快速入门和查询
