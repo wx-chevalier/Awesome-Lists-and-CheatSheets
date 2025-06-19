@@ -38,6 +38,8 @@
 
 - [2024~achristmascarl/rainfrog ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/achristmascarl/rainfrog)](https://github.com/achristmascarl/rainfrog): the goal for rainfrog is to provide a lightweight, terminal-based alternative to pgadmin/dbeaver.
 
+- [2025~bgreenwell/lstr ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/bgreenwell/lstr)](https://github.com/bgreenwell/lstr): A blazingly fast, minimalist directory tree viewer, written in Rust. Inspired by the command line program tree, with a powerful interactive mode.
+
 ## JavaScript Engine
 
 - [boa](https://github.com/jasonwilliams/boa): Javascript engine written in Rust
