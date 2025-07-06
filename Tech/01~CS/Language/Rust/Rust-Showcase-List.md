@@ -55,3 +55,7 @@
 ## OpenGL
 
 - [2022~Stl-thumb ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/unlimitedbacon/stl-thumb)](https://github.com/unlimitedbacon/stl-thumb): Stl-thumb is a fast lightweight thumbnail generator for STL files. It can show previews for STL files in your file manager on Linux and Windows. It is written in Rust and uses OpenGL.
+
+## Storage
+
+- [2025~rustfs/rustfs ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/rustfs/rustfs)](https://github.com/rustfs/rustfs): 🚀 High-performance distributed object storage for MinIO alternative.
