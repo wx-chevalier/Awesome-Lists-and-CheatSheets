@@ -57,3 +57,7 @@
 ## HTTP Server
 
 - [2023~eliben/static-server ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/eliben/static-server)](https://github.com/eliben/static-server): A simple, zero-configuration HTTP server CLI for serving static files
+
+## UI
+
+- [2025~putyy/res-downloader ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/putyy/res-downloader)](https://github.com/putyy/res-downloader): 一款基于 Go + Wails 的跨平台资源下载工具，简洁易用，支持多种资源嗅探与下载。
