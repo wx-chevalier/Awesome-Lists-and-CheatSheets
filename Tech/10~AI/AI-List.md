@@ -82,7 +82,7 @@
 
 ## Paper | 论文
 
-- [pwc](https://github.com/zziz/pwc): Papers with code. Sorted by stars. Updated weekly.
+- [pwc 🗃️](https://github.com/zziz/pwc): Papers with code. Sorted by stars. Updated weekly.
 
 - [Awesome - Most Cited Deep Learning Papers 🗃️](https://github.com/terryum/awesome-deep-learning-papers)
 
@@ -90,7 +90,9 @@
 
 ## Blog | 博客
 
-- [天池/AI 学习](https://tianchi.aliyun.com/learn/index.htm?spm=5176.11510297.5610718.9.1fd94546OoB1Hx&_lang=zh_CN): 机器学习从入门到深入的一系列课程
+- [天池/AI 学习](https://tianchi.aliyun.com/learn/index.htm?spm=5176.11510297.5610718.9.1fd94546OoB1Hx&_lang=zh_CN): 机器学习从入门到深入的一系列课程。
+
+- [2025~《通往 AGC 之路》](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e): 欢迎来到《通往 AGI 之路》知识库！这里提供了一个全面系统的 AI 学习路径，帮助您了解从 AI 常见名词到 AI 应用等各方面知识，更重要的是以希望引发您思考。
 
 ## Competition | 机器学习相关竞赛
 
