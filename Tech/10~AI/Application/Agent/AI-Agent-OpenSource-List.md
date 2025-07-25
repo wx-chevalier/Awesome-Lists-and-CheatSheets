@@ -37,3 +37,9 @@
 # AI Town
 
 - [2023~a16z-infra/ai-town ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/a16z-infra/ai-town)](https://github.com/a16z-infra/ai-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
+
+# Agent Flow
+
+- [2025~Sim Studio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/simstudioai/sim)](https://github.com/simstudioai/sim): Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+
+- [2025~bytedance/deer-flow ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/bytedance/deer-flow)](https://github.com/bytedance/deer-flow): DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
