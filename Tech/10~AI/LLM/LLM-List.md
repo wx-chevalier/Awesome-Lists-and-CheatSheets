@@ -14,6 +14,8 @@
 
 - [2024~《开源大模型食用指南》 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/datawhalechina/self-llm)](https://github.com/datawhalechina/self-llm): 本项目是一个围绕开源大模型、针对国内初学者、基于 AutoDL 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
 
+- [2024~赵鑫~《大语言模型》](https://github.com/LLMBook-zh/LLMBook-zh.github.io): 为了更好地普及和传播大模型技术的最新进展与技术体系，我们于 2023 年 3 月发表了大语言模型英文综述文章《A Survey of Large Language Models》，并不断进行更新完善，目前已经更新至第 14 个版本，95 页正文 1064 个参考文献。自英文综述文章上线后，陆续有读者询问该英文综述文章是否有对应的中文版本。为此，我们于 2023 年 8 月发布了该综述（v10）的中文翻译版。2023 年 12 月底，为了更好地提供大模型技术的中文参考资料，我们启动了中文书的编写工作，并且于 2024 年 4 月完成初稿，经过历时 5 个月的后续修正与完善，这本书终于出版了。
+
 ## Collections
 
 - [2023~A Survey of Large Language Models 🗃️](https://github.com/RUCAIBox/LLMSurvey): A collection of papers and resources related to Large Language Models.
