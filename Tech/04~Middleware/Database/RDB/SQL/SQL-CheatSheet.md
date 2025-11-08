@@ -261,7 +261,7 @@ ORDER BY customers.id
 
 取 "LEFT "或 "RIGHT "左边的表（本例中为 customers），并加入它，不管它是否有任何值。所以上面的语句显示了所有的用户/客户，即使他们没有销售任何东西。
 
-![联合查询](https://assets.ng-tech.icu/superbed/2021/08/14/611743c05132923bf8c3d1c3.jpg)
+![联合查询](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/superbed/2021/08/14/611743c05132923bf8c3d1c3.jpg)
 
 ```sql
 -- Having and without join

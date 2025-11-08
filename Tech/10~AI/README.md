@@ -1,6 +1,6 @@
 # DataScience & Artificial Intelligence MindMaps
 
-![数理统计](https://assets.ng-tech.icu/superbed/2021/08/14/611770ad5132923bf8e506b4.jpg)
+![数理统计](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/superbed/2021/08/14/611770ad5132923bf8e506b4.jpg)
 
 # Links
 

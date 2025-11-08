@@ -192,4 +192,4 @@ public class TimedLocking {
 
 为了解决线程活跃性问题，提高并发执行效率，一种可行的方案是降低锁的粒度。ConcurrentHashMap 可以看作这种思路的优秀实践，内部使用了分段锁(Lock Striping)的方式来降低锁的粒度，使用一个包含 16 个锁的数组，每个锁保护所有哈希桶的 1/16，其中第 N 个哈希桶，由 N%16 个锁来维护。其原理如下图所示:
 
-![image.png](https://assets.ng-tech.icu/item/20230430222859.png)
+![image.png](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20230430222859.png)

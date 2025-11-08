@@ -6,7 +6,7 @@
 
 由于 Alef 语言同时支持进程和线程并发体，而且在并发体中可以再次启动更多的并发体，导致了 Alef 的并发状态会异常复杂。同时 Alef 没有自动垃圾回收机制（Alef 因为保留的 C 语言灵活的指针特性，也导致了自动垃圾回收机制实现比较困难），各种资源充斥于不同的线程和进程之间，导致并发体的内存资源管理异常复杂。Alef 语言全部继承了 C 语言的语法，可以认为是增强了并发语法的 C 语言。下图是 Alef 语言文档中展示的一个可能的并发体状态：
 
-![Alef 并发模型](https://assets.ng-tech.icu/book/Andrew-Ng-DeepLearning-AI/ch1-6-alef.png)
+![Alef 并发模型](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/book/Andrew-Ng-DeepLearning-AI/ch1-6-alef.png)
 
 Alef 语言并发版本的“Hello World”程序如下：
 
@@ -180,7 +180,7 @@ print("Hello,", "World", "\n");
 
 从上面的程序中，除了猜测`print`函数可以支持多个参数外，我们很难看到 Newsqueak 语言相关的特性。由于 Newsqueak 语言和 Go 语言相关的特性主要是并发和管道。因此，我们这里通过一个并发版本的“素数筛”算法来略窥 Newsqueak 语言的特性。“素数筛”的原理如图：
 
-![素数筛](https://assets.ng-tech.icu/book/Andrew-Ng-DeepLearning-AI/ch1-5-prime-sieve.png)
+![素数筛](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/book/Andrew-Ng-DeepLearning-AI/ch1-5-prime-sieve.png)
 
 Newsqueak 语言并发版本的“素数筛”程序如下：
 

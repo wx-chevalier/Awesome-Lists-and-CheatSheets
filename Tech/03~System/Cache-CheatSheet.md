@@ -6,13 +6,13 @@ Caching is intended to speed up page loads by reducing latency, and also reduce 
 
 There are also other types of cache, such as client-side browser caches and DNS caches, but they're not the focus of this research.
 
-![image](https://assets.ng-tech.icu/item/202304181550368.png)
+![image](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/202304181550368.png)
 
 # CPU Cache
 
 由于内存的访问速度与 CPU 中寄存器的访问速度相去甚远，当我们需要对同一批数据(譬如数组或循环计数变量)进行多次操作时，CPU 会自动将值放到 CPU 缓存而不是内存中。CPU 缓存的访问速度仅次于 CPU 寄存器。其容量远小于内存，但速度却可以接近处理器的频率。当处理器发出内存访问请求时，会先查看缓存内是否有请求数据。如果存在(命中)，则不经访问内存直接返回该数据；如果不存在(失效)，则要先把内存中的相应数据载入缓存，再将其返回处理器。
 
-![](https://assets.ng-tech.icu/item/202304181550400.png)
+![](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/202304181550400.png)
 
 随着多核的发展，CPU 缓存又被细分为了 L1, L2, L3 这三个级别，级别越小越接近于 CPU，并且容量越小；一般来说，每个核上都会包含用于存放数据的 L1d Cache 与存放指令的 L1i Cache，以及独立的 L2 Cache，而往往同一个 CPU 插槽之间的核会共享 L3 Cache。在 Linux 设备上 `cat /proc/cpuinfo` 或者 `lscpu` 查看 CPU 情况。
 
@@ -40,7 +40,7 @@ CDN 的全称是 Content Delivery Network，即内容分发网络。其基本思
 
 客户端浏览器先检查是否有本地缓存是否过期，如果过期，则向 CDN 边缘节点发起请求，CDN 边缘节点会检测用户请求数据的缓存是否过期，如果没有过期，则直接响应用户请求，此时一个完成 http 请求结束；如果数据已经过期，那么 CDN 还需要向源站发出回源请求（back to the source request）,来拉取最新的数据。
 
-![image](https://assets.ng-tech.icu/item/202304181550420.png)
+![image](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/202304181550420.png)
 
 CDN 系统中，直接面向用户，负责给用户提供内容服务的的 Cache 设备都部署在整个 CDN 网络的边缘位置，所以将这一层称为边缘层。CDN 系统中，中心层负责全局的管理和控制，同时也保存了最多的内容 Cache。在边缘层设备未能命中 Cache 时，需要向中心层设备请求；而中心层未能命中时，则需要向源站请求。不同的 CDN 系统设计存在差异，中心层可能具备用户服务的能力，也可能只会向下一层提供服务。如果 CDN 系统比较庞大，边缘层向中心层请求内容太多，会造成中心层负载压力太大。此时，需要在中心层和边缘层之间部署一个区域层，负责一个区域的管理和控制，也可以提供一些内容 Cache 供边缘层访问。
 
@@ -56,10 +56,10 @@ CDN 系统中，直接面向用户，负责给用户提供内容服务的的 Cac
 
 ④ 本地缓存的工作机制：Get 操作
 
-![](https://assets.ng-tech.icu/item/202304181550436.jpg)
+![](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/202304181550436.jpg)
 
-![](https://assets.ng-tech.icu/item/202304181550458.jpg)
+![](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/202304181550458.jpg)
 
-![](https://assets.ng-tech.icu/item/202304181550474.jpg)
+![](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/202304181550474.jpg)
 
-![](https://assets.ng-tech.icu/item/202304181550491.jpg)
+![](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/202304181550491.jpg)

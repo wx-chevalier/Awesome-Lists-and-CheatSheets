@@ -4,7 +4,7 @@
 
 ![领域、子域到实体模型的关系](https://s3.ax1x.com/2021/02/04/y1jJ7q.png)
 
-![DDD 关键术语对比](https://assets.ng-tech.icu/item/20230420133528.png)
+![DDD 关键术语对比](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20230420133528.png)
 
 # 上下文映射
 

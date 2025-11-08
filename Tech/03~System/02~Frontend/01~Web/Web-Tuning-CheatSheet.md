@@ -1,6 +1,6 @@
 # Web 性能优化清单
 
-![Web 思维脑图](https://assets.ng-tech.icu/superbed/2021/07/30/610406af5132923bf8f9c5db.png)
+![Web 思维脑图](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/superbed/2021/07/30/610406af5132923bf8f9c5db.png)
 
 在 Web 开发中，几个关键性的指标列举如下：
 
