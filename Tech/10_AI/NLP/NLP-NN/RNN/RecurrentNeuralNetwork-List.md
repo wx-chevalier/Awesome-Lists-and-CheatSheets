@@ -1,6 +1,6 @@
 # Recurrent Neural Network List
 
-- [2017~Unfolding RNNs #Series#](http://suriyadeepan.github.io/2017-01-07-unfolding-rnn/): [RNN : Concepts and Architectures](http://suriyadeepan.github.io/2017-01-07-unfolding-rnn/)
+- [2017_Unfolding RNNs #Series#](http://suriyadeepan.github.io/2017-01-07-unfolding-rnn/): [RNN : Concepts and Architectures](http://suriyadeepan.github.io/2017-01-07-unfolding-rnn/)
 
 - [2015-RECURRENT NEURAL NETWORKS TUTORIAL](https://parg.co/bsS): Recurrent Neural Networks (RNNs) are popular models that have shown great promise in many NLP tasks. But despite their recent popularity I’ve only found a limited number of resources that throughly explain how RNNs work, and how to implement them. That’s what this tutorial is about. It’s a multi-part series in which I’m planning to cover the following.
 
@@ -18,7 +18,7 @@
 
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
-- [2018~Understanding The Recurrent Neural Network](https://medium.com/mindorks/understanding-the-recurrent-neural-network-44d593f112a2?source=userActivityShare-fe48c4221a4c-1524115570): What is Recurrent Neural Network (RNN)?
+- [2018_Understanding The Recurrent Neural Network](https://medium.com/mindorks/understanding-the-recurrent-neural-network-44d593f112a2?source=userActivityShare-fe48c4221a4c-1524115570): What is Recurrent Neural Network (RNN)?
 
 # LSTM
 

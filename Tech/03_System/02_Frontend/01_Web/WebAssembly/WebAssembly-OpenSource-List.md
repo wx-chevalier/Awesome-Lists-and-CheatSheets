@@ -4,7 +4,7 @@
 
 # Showcases
 
-- [2017~ROCKET - A RUST GAME RUNNING ON WASM](https://parg.co/UZJ): I thought it would be interesting to try to adapt my game Rocket to work on the browser through the wasm32-unknown-unknown target.
+- [2017_ROCKET - A RUST GAME RUNNING ON WASM](https://parg.co/UZJ): I thought it would be interesting to try to adapt my game Rocket to work on the browser through the wasm32-unknown-unknown target.
 
 - [Walt ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ballercat/walt): WAlt is an alternative syntax for WebAssembly text format. It's an experiment for using JavaScript syntax to write to as 'close to the metal' as possible.
 
@@ -18,15 +18,15 @@
 
 - [WebAssembly Micro Runtime ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/intel/wasm-micro-runtime): WebAssembly Micro Runtime (WAMR) is standalone WebAssembly (WASM) runtime with a small footprint. It includes a few components.
 
-- [2022~microservice-rust-mysql ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/second-state/microservice-rust-mysql): A template project for building a database-driven microservice in Rust and run it in the WasmEdge sandbox.
+- [2022_microservice-rust-mysql ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/second-state/microservice-rust-mysql): A template project for building a database-driven microservice in Rust and run it in the WasmEdge sandbox.
 
-- [2023~Spin ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fermyon/spin)](https://github.com/fermyon/spin): Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
+- [2023_Spin ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fermyon/spin)](https://github.com/fermyon/spin): Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 
 # Compiler
 
 - [CoWasm ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/sagemathinc/cowasm): CoWasm: Collaborative WebAssembly for Servers and Browsers. Built using Zig. Supports Python with extension modules, including numpy.
 
-- [2022~Cheerp ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/leaningtech/cheerp-meta)](https://github.com/leaningtech/cheerp-meta): a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript.
+- [2022_Cheerp ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/leaningtech/cheerp-meta)](https://github.com/leaningtech/cheerp-meta): a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript.
 
 # Interpreter & Runtime
 
@@ -44,4 +44,4 @@
 
 ## Go
 
-- [2022~wazero ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tetratelabs/wazero)](https://github.com/tetratelabs/wazero): wazero is a WebAssembly Core Specification 1.0 and 2.0 compliant runtime written in Go. It has zero dependencies, and doesn't rely on CGO. This means you can run applications in other languages and still keep cross compilation.
+- [2022_wazero ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tetratelabs/wazero)](https://github.com/tetratelabs/wazero): wazero is a WebAssembly Core Specification 1.0 and 2.0 compliant runtime written in Go. It has zero dependencies, and doesn't rely on CGO. This means you can run applications in other languages and still keep cross compilation.

@@ -56,4 +56,4 @@
 
 # Tunnel
 
-- [2023~go-gost/gost ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/go-gost/gost)](https://github.com/go-gost/gost): GO Simple Tunnel - a simple tunnel written in golang.
+- [2023_go-gost/gost ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/go-gost/gost)](https://github.com/go-gost/gost): GO Simple Tunnel - a simple tunnel written in golang.

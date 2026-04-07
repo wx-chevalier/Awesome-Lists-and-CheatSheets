@@ -4,11 +4,11 @@
 
 # Motion Library
 
-- [2018~Framer Motion ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/framer/motion): Open source, production-ready animation and gesture library for React.
+- [2018_Framer Motion ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/framer/motion): Open source, production-ready animation and gesture library for React.
 
 - [mojs ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mojs/mojs): The motion graphics toolbelt for the web
 
-- [2023~Swup ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/swup/swup)](https://github.com/swup/swup): Swup adds page transitions to server-rendered websites. It manages the complete page load lifecycle and smoothly animates between the current and next page. In addition, it offers many other quality-of-life improvements like caching, smart preloading, native browser history and enhanced accessibility.
+- [2023_Swup ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/swup/swup)](https://github.com/swup/swup): Swup adds page transitions to server-rendered websites. It manages the complete page load lifecycle and smoothly animates between the current and next page. In addition, it offers many other quality-of-life improvements like caching, smart preloading, native browser history and enhanced accessibility.
 
 # Animation Effect
 
@@ -28,15 +28,15 @@
 
 - [react-motion ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/chenglou/react-motion): A spring that solves your animation problems.
 
-- [2017~Popmotion ![code](https://ng-tech.icu/assets/code.svg)](https://popmotion.io/): A functional JavaScript motion library.
+- [2017_Popmotion ![code](https://ng-tech.icu/assets/code.svg)](https://popmotion.io/): A functional JavaScript motion library.
 
 - [react-move ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/react-tools/react-move): React Move 🌀 Beautiful, data-driven animations for React.
 
 - [popmotion ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Popmotion/popmotion): Simple animation libraries for delightful user interfaces.
 
-- [2017~animateplus ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bendc/animateplus): Animate Plus is a JavaScript animation library focusing on performance and authoring flexibility. It aims to deliver a steady 60 FPS and weighs less than 3 KB (minified and compressed), making it particularly well-suited for mobile
+- [2017_animateplus ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bendc/animateplus): Animate Plus is a JavaScript animation library focusing on performance and authoring flexibility. It aims to deliver a steady 60 FPS and weighs less than 3 KB (minified and compressed), making it particularly well-suited for mobile
 
-- [2017~Ant Motion ![code](https://ng-tech.icu/assets/code.svg)](https://motion.ant.design/): 使用 Ant Motion 能够快速在 React 框架中使用动画；我们提供了单项，组合动画，以及整套解决方案。
+- [2017_Ant Motion ![code](https://ng-tech.icu/assets/code.svg)](https://motion.ant.design/): 使用 Ant Motion 能够快速在 React 框架中使用动画；我们提供了单项，组合动画，以及整套解决方案。
 
 ## Plstopfic
 
@@ -58,7 +58,7 @@
 
 ## Carousel | 走马灯
 
-- [2017~A Content Slider ![code](https://ng-tech.icu/assets/code.svg)](https://inclusive-components.design/a-content-slider/): Here, we shall be creating something that fulfills the basic purpose of a carousel — to allow the traversal of content along a horizontal axis — without being too reverential about the characteristics of past implementations.
+- [2017_A Content Slider ![code](https://ng-tech.icu/assets/code.svg)](https://inclusive-components.design/a-content-slider/): Here, we shall be creating something that fulfills the basic purpose of a carousel — to allow the traversal of content along a horizontal axis — without being too reverential about the characteristics of past implementations.
 
 ## Parallax
 
@@ -68,4 +68,4 @@
 
 - [basicScroll ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/electerious/basicScroll): Standalone parallax scrolling for mobile and desktop with CSS variables.
 
-- [2018~react-parallax ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/RRutsche/react-parallax#readme): A React Component for parallax effect.
+- [2018_react-parallax ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/RRutsche/react-parallax#readme): A React Component for parallax effect.

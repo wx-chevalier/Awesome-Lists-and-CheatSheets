@@ -24,17 +24,17 @@
 
 - [DB 主从一致性架构优化 4 种方法](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959442&idx=1&sn=feb8ff75385d8031386e120ef3535329&scene=0#wechat_redirect)
 
-- [2017~分库分表需要考虑的问题及方案](https://parg.co/b1W)
+- [2017\_分库分表需要考虑的问题及方案](https://parg.co/b1W)
 
-- [2016~水平分库分表的关键步骤以及可能遇到的问题](https://parg.co/b1F)
+- [2016\_水平分库分表的关键步骤以及可能遇到的问题](https://parg.co/b1F)
 
-- [2017~Principles of Sharding for Relational Databases](https://parg.co/bjq): In this blog post, we’ll first look at key properties that impact a sharding project’s success.
+- [2017_Principles of Sharding for Relational Databases](https://parg.co/bjq): In this blog post, we’ll first look at key properties that impact a sharding project’s success.
 
 - [使用 Rust 构建分布式 Key-Value Store](https://zhuanlan.zhihu.com/p/31142786)
 
 # High Availability | 高可用性
 
-- [2018~MySQL High Availability at GitHub](https://githubengineering.com/mysql-high-availability-at-github/): This post illustrates GitHub’s MySQL high availability and master service discovery solution, which allows us to reliably run a cross-data-center operation, be tolerant of data center isolation, and achieve short outage times on a failure.
+- [2018_MySQL High Availability at GitHub](https://githubengineering.com/mysql-high-availability-at-github/): This post illustrates GitHub’s MySQL high availability and master service discovery solution, which allows us to reliably run a cross-data-center operation, be tolerant of data center isolation, and achieve short outage times on a failure.
 
 - [单表 60 亿记录等大数据场景的 MySQL 优化和运维之道 | 高可用架构](http://www.francissoung.com/2016/04/15/%E5%8D%95%E8%A1%A860%E4%BA%BF%E8%AE%B0%E5%BD%95%E7%AD%89%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9C%BA%E6%99%AF%E7%9A%84MySQL%E4%BC%98%E5%8C%96%E5%92%8C%E8%BF%90%E7%BB%B4%E4%B9%8B%E9%81%93/)
 
@@ -44,6 +44,6 @@
 
 - [MySQL Group Replication 官方文档中文版](http://storage.360buyimg.com/brickhaha/Mysql.pdf)：MySQL Group Replication(简称 MGR)是 MySQL 官方于 2016 年 12 月推出的一个全新的高可用与高扩展的解决方案。MySQL 组复制提供了高可用、高扩展、高可靠的 MySQL 集群服务。
 
-- [2017~五大常见的 MySQL 高可用方案](https://zhuanlan.zhihu.com/p/25960208)：这里只讨论常用高可用方案的优缺点以及高可用方案的选型。
+- [2017\_五大常见的 MySQL 高可用方案](https://zhuanlan.zhihu.com/p/25960208)：这里只讨论常用高可用方案的优缺点以及高可用方案的选型。
 
 # Replication

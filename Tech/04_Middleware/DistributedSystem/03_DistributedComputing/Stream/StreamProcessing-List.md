@@ -12,7 +12,7 @@
 
 ## Books
 
-- [2018~Kalavri-Stream Processing with Apache Flink》📚](https://www.safaribooksonline.com/library/view/stream-processing-with/9781491974285/): With this practical guide, you’ll learn how to use Apache Flink’s stream processing APIs to implement, continuously run, and maintain real-world applications.
+- [2018_Kalavri-Stream Processing with Apache Flink》📚](https://www.safaribooksonline.com/library/view/stream-processing-with/9781491974285/): With this practical guide, you’ll learn how to use Apache Flink’s stream processing APIs to implement, continuously run, and maintain real-world applications.
 
 ## Courses
 
@@ -26,9 +26,9 @@
 
 # Comparison | 对比
 
-- [2018~Spark 比拼 Flink：下一代大数据计算引擎之争，谁主沉浮？](https://mp.weixin.qq.com/s/dRzPtdEqI6h3lRzmxsxEnw): 本文对 Spark 和 Flink 的技术与场景进行了全面分析与对比，且看下一代大数据计算引擎之争，谁主沉浮？
+- [2018_Spark 比拼 Flink：下一代大数据计算引擎之争，谁主沉浮？](https://mp.weixin.qq.com/s/dRzPtdEqI6h3lRzmxsxEnw): 本文对 Spark 和 Flink 的技术与场景进行了全面分析与对比，且看下一代大数据计算引擎之争，谁主沉浮？
 
-- [2016~comparison-of-apache-stream-processing-frameworks](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1)
+- [2016_comparison-of-apache-stream-processing-frameworks](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1)
 
 # Engineering Practices | 工程实践
 

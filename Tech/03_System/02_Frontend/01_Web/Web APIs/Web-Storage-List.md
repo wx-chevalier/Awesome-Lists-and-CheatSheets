@@ -1,6 +1,6 @@
 # DOM Storage List
 
-- [2017~Web Cache - Everything you need to know](http://kamranahmed.info/blog/2017/03/14/quick-guide-to-http-caching/?rd=1): This is one is going to be specifically about the caching.
+- [2017_Web Cache - Everything you need to know](http://kamranahmed.info/blog/2017/03/14/quick-guide-to-http-caching/?rd=1): This is one is going to be specifically about the caching.
 
 - [Offline Storage for Progressive Web Apps](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.19w8r1c4o)
 
@@ -8,7 +8,7 @@
 
 - [cookie 规范(RFC 6265)翻译](https://github.com/renaesop/blog/issues/4)
 
-- [2021~CookieConsent ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/orestbida/cookieconsent)](https://github.com/orestbida/cookieconsent): 🍪 Simple cross-browser cookie-consent plugin written in vanilla js
+- [2021_CookieConsent ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/orestbida/cookieconsent)](https://github.com/orestbida/cookieconsent): 🍪 Simple cross-browser cookie-consent plugin written in vanilla js
 
 # FileSystem
 

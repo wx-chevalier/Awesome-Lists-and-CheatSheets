@@ -10,7 +10,7 @@
 
 - [Oasis Engine ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/oasis-engine/engine): Oasis Engine is a web-first and mobile-first high-performance real-time development platform.
 
-- [2023~igl ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/facebook/igl)](https://github.com/facebook/igl): Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It encapsulates common GPU functionality with a low-level cross-platform interface. IGL is designed to support multiple backends implemented on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan) with a common interface.
+- [2023_igl ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/facebook/igl)](https://github.com/facebook/igl): Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It encapsulates common GPU functionality with a low-level cross-platform interface. IGL is designed to support multiple backends implemented on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan) with a common interface.
 
 ## Draw
 
@@ -42,7 +42,7 @@
 
 ## WebGPU
 
-- [2023~Orillusion ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Orillusion/orillusion)](https://github.com/Orillusion/orillusion): Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard.
+- [2023_Orillusion ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Orillusion/orillusion)](https://github.com/Orillusion/orillusion): Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard.
 
 # D3.js
 

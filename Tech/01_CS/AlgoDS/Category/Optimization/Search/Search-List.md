@@ -2,11 +2,11 @@
 
 - [Java 线性查找和二分查找](http://blog.163.com/magicc_love/blog/static/185853662201471941758112/)
 
-- [2017~Wade ![code](https://ng-tech.icu/assets/code.svg) #JavaScript#](https://github.com/KingPixil/wade): Blazing fast, 1kb search.
+- [2017_Wade ![code](https://ng-tech.icu/assets/code.svg) #JavaScript#](https://github.com/KingPixil/wade): Blazing fast, 1kb search.
 
 - [教你如何迅速秒杀掉：99% 的海量数据处理面试题](http://blog.csdn.net/v_july_v/article/details/7382693)
 
-- [2018~Algorithms Behind Modern Storage Systems](https://queue.acm.org/detail.cfm?id=3220266): Different uses for read-optimized B-trees and write-optimized LSM-trees.
+- [2018_Algorithms Behind Modern Storage Systems](https://queue.acm.org/detail.cfm?id=3220266): Different uses for read-optimized B-trees and write-optimized LSM-trees.
 
 # B-Tree
 
@@ -16,7 +16,7 @@
 
 - [B- 树和 B+ 树的应用：数据搜索和数据库索引 ](http://blog.csdn.net/hguisu/article/details/7786014)
 
-- [2018~Bplustree ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/NicolasLM/bplustree): An on-disk B+tree for Python 3.
+- [2018_Bplustree ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/NicolasLM/bplustree): An on-disk B+tree for Python 3.
 
 # LSM
 

@@ -10,4 +10,4 @@
 
 # Actor
 
-- [2019~vlingo-actors ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vlingo/vlingo-actors): The vlingo/PLATFORM type safe Actor Model toolkit for reactive concurrency and resiliency using Java and other JVM languages.
+- [2019_vlingo-actors ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vlingo/vlingo-actors): The vlingo/PLATFORM type safe Actor Model toolkit for reactive concurrency and resiliency using Java and other JVM languages.

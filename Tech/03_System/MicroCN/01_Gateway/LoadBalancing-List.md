@@ -12,4 +12,4 @@
 
 - [负载均衡的那些算法们 ](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392075&idx=1&sn=fca2ebeca258e15f78a43c44bbb6153d&scene=0#wechat_redirect)
 
-- [2023~Load Balancing](https://samwho.dev/load-balancing/): In this post we're going to focus on the ways that a single load balancer might distribute HTTP requests to a set of servers. We'll start from the bottom and work our way up to modern load balancing algorithms.
+- [2023_Load Balancing](https://samwho.dev/load-balancing/): In this post we're going to focus on the ways that a single load balancer might distribute HTTP requests to a set of servers. We'll start from the bottom and work our way up to modern load balancing algorithms.

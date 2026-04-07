@@ -4,7 +4,7 @@
 
 # Dev Toolkits
 
-- [2019~dtool ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/guoxbin/dtool): dtool is a command-line tool collection to assist development.
+- [2019_dtool ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/guoxbin/dtool): dtool is a command-line tool collection to assist development.
 
 - [ripgrep ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/BurntSushi/ripgrep): ripgrep combines the usability of The Silver Searcher with the raw speed of grep.
 
@@ -20,17 +20,17 @@
 
 ## Deployment
 
-- [2023~Shuttle ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/shuttle-hq/shuttle)](https://github.com/shuttle-hq/shuttle): Shuttle is a Rust-native cloud development platform that lets you deploy your Rust apps for free.
+- [2023_Shuttle ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/shuttle-hq/shuttle)](https://github.com/shuttle-hq/shuttle): Shuttle is a Rust-native cloud development platform that lets you deploy your Rust apps for free.
 
 # Library
 
 ## Concurrency
 
-- [2017~actix ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/actix/actix): Actor framework for Rust.
+- [2017_actix ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/actix/actix): Actor framework for Rust.
 
-- [2019~tokio ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tokio-rs/tokio): A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [2019_tokio ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tokio-rs/tokio): A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 
-- [2021~Monoio ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bytedance/monoio): As a runtime based on io_uring, Monoio is designed to be the most efficient and performant Rust runtime.
+- [2021_Monoio ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bytedance/monoio): As a runtime based on io_uring, Monoio is designed to be the most efficient and performant Rust runtime.
 
 ## Bindings
 
@@ -44,7 +44,7 @@
 
 ## Network
 
-- [2024~Pingora ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/cloudflare/pingora)](https://github.com/cloudflare/pingora): A library for building fast, reliable and evolvable network services.
+- [2024_Pingora ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/cloudflare/pingora)](https://github.com/cloudflare/pingora): A library for building fast, reliable and evolvable network services.
 
 ## Web Framework
 
@@ -54,20 +54,19 @@
 
 - [warp ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/seanmonstar/warp): A super-easy, composable, web server framework for warp speeds.
 
-- [2021~Perseus ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/framesurge/perseus)](https://github.com/framesurge/perseus): A state-driven web development framework for Rust with full support for server-side rendering and static generation.
+- [2021_Perseus ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/framesurge/perseus)](https://github.com/framesurge/perseus): A state-driven web development framework for Rust with full support for server-side rendering and static generation.
 
 # GUI Framework
 
-- [2018~yewstack/yew ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/yewstack/yew)](https://github.com/yewstack/yew): Yew is a modern Rust framework for creating multi-threaded front-end web apps with WebAssembly.
+- [2018_yewstack/yew ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/yewstack/yew)](https://github.com/yewstack/yew): Yew is a modern Rust framework for creating multi-threaded front-end web apps with WebAssembly.
 
-- [2019~Orbital Widget Toolkit ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/redox-os/orbtk): The Orbital Widget Toolkit is a multi platform (G)UI toolkit for building scalable user interfaces with the programming language Rust. It's based on the Entity Component System Pattern and provides a functional-reactive like API.
+- [2019_Orbital Widget Toolkit ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/redox-os/orbtk): The Orbital Widget Toolkit is a multi platform (G)UI toolkit for building scalable user interfaces with the programming language Rust. It's based on the Entity Component System Pattern and provides a functional-reactive like API.
 
 - [Tauri ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
-
   - [Pake](https://github.com/tw93/Pake): 🤱🏻 Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 
-- [2022~Dioxus ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/2022-DioxusLabs/dioxus)](https://github.com/2022-DioxusLabs/dioxus): Dioxus is a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust.
+- [2022_Dioxus ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/2022-DioxusLabs/dioxus)](https://github.com/2022-DioxusLabs/dioxus): Dioxus is a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust.
 
-- [2023~redbadger/crux ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/redbadger/crux)](https://github.com/redbadger/crux): Cross-platform app development in Rust.
+- [2023_redbadger/crux ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/redbadger/crux)](https://github.com/redbadger/crux): Cross-platform app development in Rust.
 
 # Other

@@ -8,17 +8,17 @@
 
 - [Chinese NLP ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/didi/ChineseNLP): Shared tasks, datasets and state-of-the-art results for Chinese Natural Language Processing (NLP).
 
-- [2019~Transformers ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/huggingface/transformers): 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+- [2019_Transformers ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/huggingface/transformers): 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 
-- [2020~MiNLP ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/XiaoMi/MiNLP): 小米自然语言处理平台（MiNLP）具备词法、句法、语义分析等数十个功能模块，已经在公司业务中得到了广泛应用。
+- [2020_MiNLP ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/XiaoMi/MiNLP): 小米自然语言处理平台（MiNLP）具备词法、句法、语义分析等数十个功能模块，已经在公司业务中得到了广泛应用。
 
-- [2020~fastNLP ![code](https://ng-tech.icu/assets/code.svg)](https://cubox.pro/c/2M8iji): fastNLP 是一款轻量级的自然语言处理（NLP）工具包。你既可以用它来快速地完成一个 NLP 任务，也可以用它在研究中快速构建更复杂的模型。
+- [2020_fastNLP ![code](https://ng-tech.icu/assets/code.svg)](https://cubox.pro/c/2M8iji): fastNLP 是一款轻量级的自然语言处理（NLP）工具包。你既可以用它来快速地完成一个 NLP 任务，也可以用它在研究中快速构建更复杂的模型。
 
-- [2022~Haystack ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/deepset-ai/haystack): Haystack is an end-to-end framework that enables you to build powerful and production-ready pipelines for different search use cases. Whether you want to perform Question Answering or semantic document search, you can use the State-of-the-Art NLP models in Haystack to provide unique search experiences and allow your users to query in natural language. Haystack is built in a modular fashion so that you can combine the best technology from other open-source projects like Huggingface's Transformers, Elasticsearch, or Milvus.
+- [2022_Haystack ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/deepset-ai/haystack): Haystack is an end-to-end framework that enables you to build powerful and production-ready pipelines for different search use cases. Whether you want to perform Question Answering or semantic document search, you can use the State-of-the-Art NLP models in Haystack to provide unique search experiences and allow your users to query in natural language. Haystack is built in a modular fashion so that you can combine the best technology from other open-source projects like Huggingface's Transformers, Elasticsearch, or Milvus.
 
-- [2022~PaddleNLP ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/PaddlePaddle/PaddleNLP): Easy-to-use and powerful NLP library with Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including Neural Search, Question Answering, Information Extraction and Sentiment Analysis end-to-end system.
+- [2022_PaddleNLP ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/PaddlePaddle/PaddleNLP): Easy-to-use and powerful NLP library with Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including Neural Search, Question Answering, Information Extraction and Sentiment Analysis end-to-end system.
 
-- [2020~ParlAI ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebookresearch/ParlAI): A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
+- [2020_ParlAI ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebookresearch/ParlAI): A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 
 - [WantWords ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/thunlp/WantWords): Opposite to a regular (forward) dictionary that provides definitions for query words, a reverse dictionary returns words semantically matching the query descriptions.
 
@@ -26,20 +26,19 @@
 
 # Dialogue
 
-- [2022~Sketch ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/approximatelabs/sketch)](https://github.com/approximatelabs/sketch): Sketch is an AI code-writing assistant for pandas users that understands the context of your data, greatly improving the relevance of suggestions. Sketch is usable in seconds and doesn't require adding a plugin to your IDE.
+- [2022_Sketch ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/approximatelabs/sketch)](https://github.com/approximatelabs/sketch): Sketch is an AI code-writing assistant for pandas users that understands the context of your data, greatly improving the relevance of suggestions. Sketch is usable in seconds and doesn't require adding a plugin to your IDE.
 
 ## Language Representation
 
-- [2018~BERT ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/google-research/bert): BERT is method of pre-training language representations, meaning that we train a general-purpose "language understanding" model on a large text corpus (like Wikipedia), and then use that model for downstream NLP tasks that we care about (like question answering). [海量中文预训练 ALBERT 模型](https://github.com/brightmart/albert_zh)。
+- [2018_BERT ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/google-research/bert): BERT is method of pre-training language representations, meaning that we train a general-purpose "language understanding" model on a large text corpus (like Wikipedia), and then use that model for downstream NLP tasks that we care about (like question answering). [海量中文预训练 ALBERT 模型](https://github.com/brightmart/albert_zh)。
 
-- [2019~GPT2 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/openai/gpt-2): Code and models from the paper "Language Models are Unsupervised Multitask Learners".
-
-  - [2019~GPT2 Chinese ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Morizeyao/GPT2-Chinese): Chinese version of GPT2 training code, using BERT or BPE tokenizer.
-  - [2021~gpt neo ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/EleutherAI/gpt-neo): An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow.
+- [2019_GPT2 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/openai/gpt-2): Code and models from the paper "Language Models are Unsupervised Multitask Learners".
+  - [2019_GPT2 Chinese ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Morizeyao/GPT2-Chinese): Chinese version of GPT2 training code, using BERT or BPE tokenizer.
+  - [2021_gpt neo ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/EleutherAI/gpt-neo): An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow.
 
 ## Classification
 
-- [2016~FastText ![code](https://ng-tech.icu/assets/code.svg)](https://fasttext.cc/): FastText is an open-source, free, lightweight library that allows users to learn text representations and text classifiers. It works on standard, generic hardware. Models can later be reduced in size to even fit on mobile devices.
+- [2016_FastText ![code](https://ng-tech.icu/assets/code.svg)](https://fasttext.cc/): FastText is an open-source, free, lightweight library that allows users to learn text representations and text classifiers. It works on standard, generic hardware. Models can later be reduced in size to even fit on mobile devices.
 
 ## Syntax & Semantic Analysis
 
@@ -51,43 +50,42 @@
 
 - [gensim ![code](https://ng-tech.icu/assets/code.svg)](https://radimrehurek.com/gensim/): topic modelling for humans
 
-- [2019~pkuseg ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/lancopku/pkuseg-python): pkuseg 简单易用，支持细分领域分词，有效提升了分词准确度。
+- [2019_pkuseg ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/lancopku/pkuseg-python): pkuseg 简单易用，支持细分领域分词，有效提升了分词准确度。
 
-- [2019~Synonyms ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/huyingxi/Synonyms): 最好的中文近义词工具包。Synonyms 可以用于自然语言理解的很多任务：文本对齐，推荐算法，相似度计算，语义偏移，关键字提取，概念提取，自动摘要，搜索引擎等。
+- [2019_Synonyms ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/huyingxi/Synonyms): 最好的中文近义词工具包。Synonyms 可以用于自然语言理解的很多任务：文本对齐，推荐算法，相似度计算，语义偏移，关键字提取，概念提取，自动摘要，搜索引擎等。
 
 ## Knowledge Graph | 知识图谱
 
-- [2018~OpenKE ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/thunlp/OpenKE): An Open-Source Package for Knowledge Embedding (KE).
+- [2018_OpenKE ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/thunlp/OpenKE): An Open-Source Package for Knowledge Embedding (KE).
 
 - [基于医药知识图谱的智能问答系统 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/YeYzheng/KGQA-Based-On-medicine): 这是一个基于 Python 模块 REfO 实现的知识库问答初级系统. 该问答系统可以解析输入的自然语言问句生成 SPARQL 查询，进一步请求后台基于 TDB 知识库的 Apache Jena Fuseki 服务, 进而得到问题的结果。
 
-- [2019~KnowledgeGraphData ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ownthink/KnowledgeGraphData): 知识就是力量，知识图谱是人工智能新时代的产物，简单地说知识图谱就是通过关联关系将知识组成网状的结构，然后我们的人工智能可以通过这个图谱来认识其代表的这一个现实事件，这个事件可以是现实，也可以是虚构的。
+- [2019_KnowledgeGraphData ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ownthink/KnowledgeGraphData): 知识就是力量，知识图谱是人工智能新时代的产物，简单地说知识图谱就是通过关联关系将知识组成网状的结构，然后我们的人工智能可以通过这个图谱来认识其代表的这一个现实事件，这个事件可以是现实，也可以是虚构的。
 
 ## Speech
 
-- [2019~Project DeepSpeech ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mozilla/DeepSpeech): A TensorFlow implementation of Baidu's DeepSpeech architecture.
+- [2019_Project DeepSpeech ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mozilla/DeepSpeech): A TensorFlow implementation of Baidu's DeepSpeech architecture.
 
-- [2020~TTS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mozilla/TTS): TTS is a library for advanced Text-to-Speech generation. It's built on the latest research, was designed to achieve the best trade-off among ease-of-training, speed and quality. TTS comes with pretrained models, tools for measuring dataset quality and already used in 20+ languages for products and research projects.
+- [2020_TTS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mozilla/TTS): TTS is a library for advanced Text-to-Speech generation. It's built on the latest research, was designed to achieve the best trade-off among ease-of-training, speed and quality. TTS comes with pretrained models, tools for measuring dataset quality and already used in 20+ languages for products and research projects.
 
-- [2021~MockingBird ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/babysor/MockingBird): 🚀AI 拟声: 5 秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [2021_MockingBird ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/babysor/MockingBird): 🚀AI 拟声: 5 秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
-- [2022~Whisper ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/openai/whisper): Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multi-task model that can perform multilingual speech recognition as well as speech translation and language identification.
-
+- [2022_Whisper ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/openai/whisper): Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multi-task model that can perform multilingual speech recognition as well as speech translation and language identification.
   - [whisper.cpp ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ggerganov/whisper.cpp): High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model.
 
-- [2023~faster-whisper ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/guillaumekln/faster-whisper)](https://github.com/guillaumekln/faster-whisper): faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models.
+- [2023_faster-whisper ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/guillaumekln/faster-whisper)](https://github.com/guillaumekln/faster-whisper): faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models.
 
 ## Dialogue System & Bot
 
-- [2018~DeepPavlov ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/deepmipt/DeepPavlov): An open source library for building end-to-end dialog systems and training chatbots.
+- [2018_DeepPavlov ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/deepmipt/DeepPavlov): An open source library for building end-to-end dialog systems and training chatbots.
 
 - [Home Assistant ![code](https://ng-tech.icu/assets/code.svg)](https://home-assistant.io/): Home Assistant is an open-source home automation platform running on Python 3. Track and control all devices at home and automate control. Perfect to run on a Raspberry Pi.
 
 - [ChatterBot ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/gunthercox/ChatterBot): ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 
-- [2016~Hubot ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hubotio/hubot): Hubot is a framework to build chat bots, modeled after GitHub's Campfire bot of the same name, hubot. He's pretty cool. He's extendable with scripts and can work on many different chat services.
+- [2016_Hubot ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hubotio/hubot): Hubot is a framework to build chat bots, modeled after GitHub's Campfire bot of the same name, hubot. He's pretty cool. He's extendable with scripts and can work on many different chat services.
 
-- [2019~Botpress ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/botpress/botpress): The ultimate open-source conversational platform with built-in natural language processing (NLU), easy-to-use graphical interface and dialog manager.
+- [2019_Botpress ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/botpress/botpress): The ultimate open-source conversational platform with built-in natural language processing (NLU), easy-to-use graphical interface and dialog manager.
 
 - [Olivia ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/olivia-ai/olivia): Your new best friend built with an artificial neural networ.
 
@@ -107,12 +105,12 @@
 
 - [ASRT_SpeechRecognition ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/nl8590687/ASRT_SpeechRecognition): A Deep-Learning-Based Chinese Speech Recognition System.
 
-- [2019~Real-Time Voice Cloning ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/CorentinJ/Real-Time-Voice-Cloning): SV2TTS is a three-stage deep learning framework that allows to create a numerical representation of a voice from a few seconds of audio, and to use it to condition a text-to-speech model trained to generalize to new voices.
+- [2019_Real-Time Voice Cloning ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/CorentinJ/Real-Time-Voice-Cloning): SV2TTS is a three-stage deep learning framework that allows to create a numerical representation of a voice from a few seconds of audio, and to use it to condition a text-to-speech model trained to generalize to new voices.
 
-- [2020~TensorFlowTTS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/TensorSpeech/TensorFlowTTS): 😝 TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese)
+- [2020_TensorFlowTTS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/TensorSpeech/TensorFlowTTS): 😝 TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese)
 
-- [2020~Silero Models ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/snakers4/silero-models): Silero Models: pre-trained STT models and benchmarks made embarrassingly simple
+- [2020_Silero Models ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/snakers4/silero-models): Silero Models: pre-trained STT models and benchmarks made embarrassingly simple
 
 # TTS
 
-- [2022~TorToiSe ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/neonbjb/tortoise-tts)](https://github.com/neonbjb/tortoise-tts): A multi-voice TTS system trained with an emphasis on quality
+- [2022_TorToiSe ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/neonbjb/tortoise-tts)](https://github.com/neonbjb/tortoise-tts): A multi-voice TTS system trained with an emphasis on quality

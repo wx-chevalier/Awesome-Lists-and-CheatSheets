@@ -28,7 +28,7 @@
 
 - [fbjs ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebook/fbjs): A collection of utility libraries used by other Facebook JS projects.
 
-- [2023~proxy-memoize ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dai-shi/proxy-memoize)](https://github.com/dai-shi/proxy-memoize): This library utilizes Proxy and WeakMap, and provides memoization. The memoized function will re-evaluate the original function only if the used part of argument (object) is changed. It's intuitive in a sense and magical in another sense.
+- [2023_proxy-memoize ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dai-shi/proxy-memoize)](https://github.com/dai-shi/proxy-memoize): This library utilizes Proxy and WeakMap, and provides memoization. The memoized function will re-evaluate the original function only if the used part of argument (object) is changed. It's intuitive in a sense and magical in another sense.
 
 # DataStructure
 
@@ -40,7 +40,7 @@
 
 - [Microdiff ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/AsyncBanana/microdiff): Microdiff is a tiny (currently <1kb), fast, zero dependency object and array comparison library. It is significantly faster than most other deep comparison libraries, and has full TypeScript support.
 
-- [2023~Aimless.js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ChrisCavs/aimless.js)](https://github.com/ChrisCavs/aimless.js): Aimless is the missing JS randomness library. It's tiny (< 6kB), unopinionated, dependency-free, and provides a variety of helpful random number utilities. Best of all, it's compatible with all your favorite PRNGs.
+- [2023_Aimless.js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ChrisCavs/aimless.js)](https://github.com/ChrisCavs/aimless.js): Aimless is the missing JS randomness library. It's tiny (< 6kB), unopinionated, dependency-free, and provides a variety of helpful random number utilities. Best of all, it's compatible with all your favorite PRNGs.
 
 ## String
 
@@ -88,7 +88,7 @@
 
 - [AST Explorer ![code](https://ng-tech.icu/assets/code.svg)](https://astexplorer.net/)
 
-- [2020~Parsr ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/axa-group/Parsr): Transforms PDF, Documents and Images into Enriched Structured Data
+- [2020_Parsr ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/axa-group/Parsr): Transforms PDF, Documents and Images into Enriched Structured Data
 
 ## Interpreter
 

@@ -22,16 +22,16 @@
 
 # Crop & Compression | 裁剪与压缩
 
-- [2017~Cropper ![code](https://ng-tech.icu/assets/code.svg)](http://fengyuanchen.github.io/cropper/): 基于 jQuery 的图片裁剪工具
+- [2017_Cropper ![code](https://ng-tech.icu/assets/code.svg)](http://fengyuanchen.github.io/cropper/): 基于 jQuery 的图片裁剪工具
 
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop): An image cropping tool for React with no dependencies.
 
-- [2018~Pica ![code](https://ng-tech.icu/assets/code.svg)](http://nodeca.github.io/pica/demo/): Resize image in browser with high quality and high speed
+- [2018_Pica ![code](https://ng-tech.icu/assets/code.svg)](http://nodeca.github.io/pica/demo/): Resize image in browser with high quality and high speed
 
-- [2018~Squoosh ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChromeLabs/squoosh): Squoosh is an image compression web app that allows you to dive into the advanced options provided by various image compressors.
+- [2018_Squoosh ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChromeLabs/squoosh): Squoosh is an image compression web app that allows you to dive into the advanced options provided by various image compressors.
 
-- [2017~react-imgpro ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/nitin42/react-imgpro): Image Processing Component for React.
+- [2017_react-imgpro ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/nitin42/react-imgpro): Image Processing Component for React.
 
 # Color
 
-- [2021~fast-average-color ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fast-average-color/fast-average-color)](https://github.com/fast-average-color/fast-average-color): A simple library that calculates average or dominant color of any images or videos in browser environment.
+- [2021_fast-average-color ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/fast-average-color/fast-average-color)](https://github.com/fast-average-color/fast-average-color): A simple library that calculates average or dominant color of any images or videos in browser environment.

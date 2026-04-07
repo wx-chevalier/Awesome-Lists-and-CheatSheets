@@ -2,13 +2,13 @@
 
 - [1 分钟实现延迟消息功能](http://6me.us/wVHFB)
 
-- [2017~10w 定时任务，如何高效触发超时](http://6me.us/gZ8)
+- [2017_10w 定时任务，如何高效触发超时](http://6me.us/gZ8)
 
-- [2018~延迟任务调度系统技术选型与设计](http://blog.csdn.net/yigezei/article/details/79286225): 顾名思义，延迟任务的特点是延迟执行。
+- [2018\_延迟任务调度系统技术选型与设计](http://blog.csdn.net/yigezei/article/details/79286225): 顾名思义，延迟任务的特点是延迟执行。
 
 # Toolkits
 
-- [2019~crontab guru](https://crontab.guru/#5_0_*_8_*): The quick and simple editor for cron schedule expressions by Cronitor.
+- [2019_crontab guru](https://crontab.guru/#5_0_*_8_*): The quick and simple editor for cron schedule expressions by Cronitor.
 
 # OpenSource
 

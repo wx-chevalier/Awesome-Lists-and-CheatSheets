@@ -48,7 +48,7 @@
 
 - [模拟百万级 TCP 并发](http://mp.weixin.qq.com/s?__biz=MzIxMjAzMDA1MQ==&mid=2648945745&idx=1&sn=422c7dd658ba83a42f5753669716378f&chksm=8f5b535db82cda4b281dfab3858e4afa6e6b453d0b77f5dd5d3f8ca3e33184fa470803d4d21e#rd)
 
-- [2019~压测环境的设计和搭建 #Series#](https://mp.weixin.qq.com/s/hyXfme7Y5vz1x_viu1IbIQ): 从性能压测的设计、实现、执行、监控、问题定位和分析、应用场景等多个纬度对性能压测的全过程进行拆解，以帮助大家构建完整的性能压测的理论体系，并提供有例可依的实战。
+- [2019\_压测环境的设计和搭建 #Series#](https://mp.weixin.qq.com/s/hyXfme7Y5vz1x_viu1IbIQ): 从性能压测的设计、实现、执行、监控、问题定位和分析、应用场景等多个纬度对性能压测的全过程进行拆解，以帮助大家构建完整的性能压测的理论体系，并提供有例可依的实战。
 
 # Database
 
@@ -56,4 +56,4 @@
 
 # Chaos Engineering
 
-- [2018~Chaos Engineering](http://principlesofchaos.org): Chaos Engineering is the discipline of experimenting on a system in order to build confidence in the system’s capability to withstand turbulent conditions in production.
+- [2018_Chaos Engineering](http://principlesofchaos.org): Chaos Engineering is the discipline of experimenting on a system in order to build confidence in the system’s capability to withstand turbulent conditions in production.

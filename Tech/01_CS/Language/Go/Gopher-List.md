@@ -4,7 +4,7 @@ The Go gopher is an iconic mascot and one of the most distinctive features of th
 
 # Collection
 
-- [2019~Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack): This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language.
+- [2019_Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack): This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language.
 
 # Images
 

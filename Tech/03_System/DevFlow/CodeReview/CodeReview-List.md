@@ -4,11 +4,11 @@
 
 - [CRACKING THE CODE REVIEW, PART 1: PREPARING YOUR CODE REVIEW](https://www.lucidchart.com/techblog/2017/02/08/cracking-the-code-review-part-1-preparing-your-code-review/)
 
-- [2018~Modern Code Review: A Case Study at Google](https://sback.it/publications/icse2018seip.pdf): In this paper, we make an exploratory investigation of modern code review at Google.
+- [2018_Modern Code Review: A Case Study at Google](https://sback.it/publications/icse2018seip.pdf): In this paper, we make an exploratory investigation of modern code review at Google.
 
 - [Codebrag ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/softwaremill/codebrag): Your daily code review tool. Codebrag is a simple code review tool that makes the process work for your team. NOW OPEN-SOURCE AND FREE!
 
-- [2016~整天说 Code Review 重要，你知道应该关注哪些关键点吗？](https://parg.co/Mgr)
+- [2016\_整天说 Code Review 重要，你知道应该关注哪些关键点吗？](https://parg.co/Mgr)
 
 - [7 个 code review 的技巧](https://zhuanlan.zhihu.com/p/24562689)
 

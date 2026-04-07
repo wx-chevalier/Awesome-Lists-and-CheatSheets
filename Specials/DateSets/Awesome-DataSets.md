@@ -48,13 +48,13 @@
 
 ## Chinese | 中文文本
 
-- [2016~THUCTC](http://thuctc.thunlp.org/message): 清华大学新闻数据集
+- [2016_THUCTC](http://thuctc.thunlp.org/message): 清华大学新闻数据集
 
 - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua): 中华新华字典数据库和 API。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
 
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): 最全的中华古典文集数据库, 包含 5.5 万首唐诗、26 万首宋诗和 2.1 万首宋词. 唐宋两朝近 1.4 万古诗人, 和两宋时期 1.5K 词人. 数据来源于互联网。
 
-- [2019~ChineseGLUE ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/chineseGLUE/chineseGLUE): Language Understanding Evaluation benchmark for Chinese: datasets, baselines, pre-trained models,corpus and leaderboard.
+- [2019_ChineseGLUE ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/chineseGLUE/chineseGLUE): Language Understanding Evaluation benchmark for Chinese: datasets, baselines, pre-trained models,corpus and leaderboard.
 
 # Image DataSets | 图片数据
 
@@ -74,7 +74,7 @@
 
 - [Hidden Beauty of Flickr Pictures](http://www.di.unito.it/~schifane/dataset/beauty-icwsm15/): 15,000 Flickr photo IDs that have received ratings based on aesthetics, for image analysis.138KB, use Flickr API to get images
 
-- [2023~MultimodalC4 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/allenai/mmc4)](https://github.com/allenai/mmc4): MultimodalC4 is a multimodal extension of c4 that interleaves millions of images with text.
+- [2023_MultimodalC4 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/allenai/mmc4)](https://github.com/allenai/mmc4): MultimodalC4 is a multimodal extension of c4 that interleaves millions of images with text.
 
 ## Adults
 

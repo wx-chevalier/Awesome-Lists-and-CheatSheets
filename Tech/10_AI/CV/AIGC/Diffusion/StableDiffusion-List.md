@@ -28,15 +28,15 @@
 
 - [fast-stable-diffusion ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/TheLastBen/fast-stable-diffusion): fast-stable-diffusion colabs, +25-50% speed increase + memory efficient + DreamBooth
 
-- [2023~civitai ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/civitai/civitai)](https://github.com/civitai/civitai): Our goal with this project is to create a platform where people can share their stable diffusion models (textual inversions, hypernetworks, aesthetic gradients, VAEs, and any other crazy stuff people do to customize their AI generations), collaborate with others to improve them, and learn from each other's work. The platform allows users to create an account, upload their models, and browse models that have been shared by others. Users can also leave comments and feedback on each other's models to facilitate collaboration and knowledge sharing.
+- [2023_civitai ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/civitai/civitai)](https://github.com/civitai/civitai): Our goal with this project is to create a platform where people can share their stable diffusion models (textual inversions, hypernetworks, aesthetic gradients, VAEs, and any other crazy stuff people do to customize their AI generations), collaborate with others to improve them, and learn from each other's work. The platform allows users to create an account, upload their models, and browse models that have been shared by others. Users can also leave comments and feedback on each other's models to facilitate collaboration and knowledge sharing.
 
 ## Showcases
 
-- [2023~Stable-diffusion-person ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/KKGo1999/Stable-diffusion-person)](https://github.com/KKGo1999/Stable-diffusion-person): 本文介绍由基于 Stable-diffusion 的 Chilloutmix 模型（以及最新的 ControlNet）生成高清真实人像的方法及 Demo。
+- [2023_Stable-diffusion-person ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/KKGo1999/Stable-diffusion-person)](https://github.com/KKGo1999/Stable-diffusion-person): 本文介绍由基于 Stable-diffusion 的 Chilloutmix 模型（以及最新的 ControlNet）生成高清真实人像的方法及 Demo。
 
-- [2023~scribble-diffusion ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/replicate/scribble-diffusion)](https://github.com/replicate/scribble-diffusion): Turn your rough sketch into a refined image using AI.
+- [2023_scribble-diffusion ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/replicate/scribble-diffusion)](https://github.com/replicate/scribble-diffusion): Turn your rough sketch into a refined image using AI.
 
-- [2023~stable-diffusion-webui-colab ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/camenduru/stable-diffusion-webui-colab)](https://github.com/camenduru/stable-diffusion-webui-colab): stable diffusion webui colab.
+- [2023_stable-diffusion-webui-colab ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/camenduru/stable-diffusion-webui-colab)](https://github.com/camenduru/stable-diffusion-webui-colab): stable diffusion webui colab.
 
 ## StableDiffusion Implementation
 
@@ -44,10 +44,10 @@
 
 ## GUI & APP
 
-- [2022~Gauss ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/justjake/Gauss)](https://github.com/justjake/Gauss): A Stable Diffusion app for macOS built with SwiftUI and Apple's ml-stable-diffusion CoreML models.
+- [2022_Gauss ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/justjake/Gauss)](https://github.com/justjake/Gauss): A Stable Diffusion app for macOS built with SwiftUI and Apple's ml-stable-diffusion CoreML models.
 
-- [2023~ComfyUI ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)](https://github.com/comfyanonymous/ComfyUI): A powerful and modular stable diffusion GUI with a graph/nodes interface.
+- [2023_ComfyUI ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)](https://github.com/comfyanonymous/ComfyUI): A powerful and modular stable diffusion GUI with a graph/nodes interface.
 
-- [2023~Web Stable Diffusion ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mlc-ai/web-stable-diffusion)](https://github.com/mlc-ai/web-stable-diffusion): Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
+- [2023_Web Stable Diffusion ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mlc-ai/web-stable-diffusion)](https://github.com/mlc-ai/web-stable-diffusion): Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 
-- [2023~Opendream ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/varunshenoy/opendream)](https://github.com/varunshenoy/opendream): Opendream brings much needed and familiar features, such as layering, non-destructive editing, portability, and easy-to-write extensions, to your Stable Diffusion workflows. Check out our demo video.
+- [2023_Opendream ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/varunshenoy/opendream)](https://github.com/varunshenoy/opendream): Opendream brings much needed and familiar features, such as layering, non-destructive editing, portability, and easy-to-write extensions, to your Stable Diffusion workflows. Check out our demo video.

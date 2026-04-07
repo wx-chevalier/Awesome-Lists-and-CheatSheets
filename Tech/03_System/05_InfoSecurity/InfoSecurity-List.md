@@ -16,7 +16,7 @@
 
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
-- [2017~A penetration tester’s guide to sub-domain enumeration](https://parg.co/U6Y)
+- [2017_A penetration tester’s guide to sub-domain enumeration](https://parg.co/U6Y)
 
 # Overview
 
@@ -26,7 +26,7 @@
 
 - [Security 101 for SaaS startups](https://github.com/forter/security-101-for-saas-startups): Things I wish my first boss had told me
 
-- [2022~How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything): How to systematically secure anything: a repository about security engineering
+- [2022_How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything): How to systematically secure anything: a repository about security engineering
 
 # Resources
 
@@ -36,9 +36,9 @@
 
 - [《兜哥系列丛书》📚](https://github.com/duoergun0729): Web 安全之机器学习入门/Web 安全之深度学习实战/Web 安全之强化学习与 GAN 系列
 
-- [2020~《应急响应实战笔记》📚 ![star](https://img.shields.io/github/stars/Bypass007/Emergency-Response-Notes)](https://github.com/Bypass007/Emergency-Response-Notes): 这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析。
+- [2020\_《应急响应实战笔记》📚 ![star](https://img.shields.io/github/stars/Bypass007/Emergency-Response-Notes)](https://github.com/Bypass007/Emergency-Response-Notes): 这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析。
 
-- [2023~《云安全攻防入门》 📚 ![star](https://img.shields.io/github/stars/EvilAnne/lzCloudSecurity)](https://github.com/EvilAnne/lzCloudSecurity): 适用于初中级安全从业人员，乙方安全测试，甲方安全自检，网络安全爱好者等，企业安全防护与提高。
+- [2023\_《云安全攻防入门》 📚 ![star](https://img.shields.io/github/stars/EvilAnne/lzCloudSecurity)](https://github.com/EvilAnne/lzCloudSecurity): 适用于初中级安全从业人员，乙方安全测试，甲方安全自检，网络安全爱好者等，企业安全防护与提高。
 
 ## Collection
 
@@ -50,7 +50,7 @@
 
 - [jassics/security-study-plan ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jassics/security-study-plan)](https://github.com/jassics/security-study-plan): Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
 
-- [2023~PeiQi-WIKI-Book 🗃️ ![star](https://img.shields.io/github/stars/PeiQi0/PeiQi-WIKI-Book)](https://github.com/PeiQi0/PeiQi-WIKI-Book): PeiQi 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，CTF 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
+- [2023_PeiQi-WIKI-Book 🗃️ ![star](https://img.shields.io/github/stars/PeiQi0/PeiQi-WIKI-Book)](https://github.com/PeiQi0/PeiQi-WIKI-Book): PeiQi 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，CTF 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
 
 ## Courses
 
@@ -62,11 +62,11 @@
 
 # Tutorial
 
-- [2018~Kali Linux: Social Engineering Toolkit](https://linuxhint.com/kali-linux-set/): In this post i am going to show you the simple scenario of how to implement Social Engineering Attack in daily life.
+- [2018_Kali Linux: Social Engineering Toolkit](https://linuxhint.com/kali-linux-set/): In this post i am going to show you the simple scenario of how to implement Social Engineering Attack in daily life.
 
 - [CTF Wiki #Series#](https://ctf-wiki.github.io/ctf-wiki/): 作为一个自由的站点，围绕 CTF 近几年赛题，CTF Wiki 对 CTF 中的各个方向的知识和技术进行介绍，以便于初学者更好地学习 CTF 相关的知识。
 
-- [2021~100 Red Team Projects for Pentesters and Network Managers #Series#](https://github.com/kurogai/100-redteam-projects): Red Teaming is one of the most attractive fields in offensive security or ethical hacking. Every day professionals and students are learning, creating and exploiting all types of systems. The internet is not only the most common means through which people interact and chat, but also a place where they are constantly exposed to a world where anyone can be monitored, exploited, tracked or scammed.
+- [2021_100 Red Team Projects for Pentesters and Network Managers #Series#](https://github.com/kurogai/100-redteam-projects): Red Teaming is one of the most attractive fields in offensive security or ethical hacking. Every day professionals and students are learning, creating and exploiting all types of systems. The internet is not only the most common means through which people interact and chat, but also a place where they are constantly exposed to a world where anyone can be monitored, exploited, tracked or scammed.
 
 ## CheatSheet
 

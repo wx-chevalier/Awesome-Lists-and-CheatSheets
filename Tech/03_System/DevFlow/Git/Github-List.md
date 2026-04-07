@@ -6,4 +6,4 @@
 
 # Actions
 
-- [2019~Starter Workflows](https://github.com/actions/starter-workflows): These are the workflow files for helping people get started with GitHub Actions.
+- [2019_Starter Workflows](https://github.com/actions/starter-workflows): These are the workflow files for helping people get started with GitHub Actions.

@@ -8,7 +8,7 @@
 
 - [smalllinks ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/smallcase/smalllinks): Simple URL shortener built with Fastify. Uses PostgreSQL, Redis, and Kafka.
 
-- [2023~blogs.hn ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/surprisetalk/blogs.hn)](https://github.com/surprisetalk/blogs.hn): blogs.hn is for personal blogs! Non-technical blogs are okay too, but remember that the community is mostly folks from HackerNews.
+- [2023_blogs.hn ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/surprisetalk/blogs.hn)](https://github.com/surprisetalk/blogs.hn): blogs.hn is for personal blogs! Non-technical blogs are okay too, but remember that the community is mostly folks from HackerNews.
 
 # Dev Tools
 
@@ -39,7 +39,7 @@
 
 - [Nest ![code](https://ng-tech.icu/assets/code.svg)](https://nestjs.com/): A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
 
-- [2023~expressots/expressots ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/expressots/expressots)](https://github.com/expressots/expressots): A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🚀.
+- [2023_expressots/expressots ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/expressots/expressots)](https://github.com/expressots/expressots): A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🚀.
 
 ## HTTP Server
 
@@ -47,7 +47,7 @@
 
 - [coroute ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ethanent/coroute): The awesome Node.js HTTP reverse-proxy server.
 
-- [2019~Polka ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/lukeed/polka): Polka is an extremely minimal, highly performant Express.js alternative. Yes, you're right, Express is already super fast & not that big 🤔 — but Polka shows that there was (somehow) room for improvement!
+- [2019_Polka ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/lukeed/polka): Polka is an extremely minimal, highly performant Express.js alternative. Yes, you're right, Express is already super fast & not that big 🤔 — but Polka shows that there was (somehow) room for improvement!
 
 ## Command Line
 
@@ -69,15 +69,15 @@
 
 ## Database
 
-- [2017~RxDB ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pubkey/rxdb): The reactive, serverless, client-side, offline-first database for your next javascript-application.
+- [2017_RxDB ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pubkey/rxdb): The reactive, serverless, client-side, offline-first database for your next javascript-application.
 
-- [2018~AlaSQL ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/agershun/alasql): AlaSQL - ( à la SQL ) [ælæ ɛskju:ɛl] - is an open source SQL database for JavaScript with a strong focus on query speed and data source flexibility for both relational data and schemaless data. It works in the web browser, Node.js, and mobile apps.
+- [2018_AlaSQL ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/agershun/alasql): AlaSQL - ( à la SQL ) [ælæ ɛskju:ɛl] - is an open source SQL database for JavaScript with a strong focus on query speed and data source flexibility for both relational data and schemaless data. It works in the web browser, Node.js, and mobile apps.
 
-- [2018~lowdb ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/typicode/lowdb): ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser).
+- [2018_lowdb ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/typicode/lowdb): ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser).
 
-- [2019~nedb ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/louischatriot/nedb): The JavaScript Database, for Node.js, nw.js, electron and the browser.
+- [2019_nedb ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/louischatriot/nedb): The JavaScript Database, for Node.js, nw.js, electron and the browser.
 
-- [2021~Kysely ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/koskimas/kysely)](https://github.com/koskimas/kysely): Kysely (pronounce “Key-Seh-Lee”) is a type-safe and autocompletion-friendly typescript SQL query builder. Inspired by knex. Mainly developed for node.js but also runs on deno and in the browser.
+- [2021_Kysely ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/koskimas/kysely)](https://github.com/koskimas/kysely): Kysely (pronounce “Key-Seh-Lee”) is a type-safe and autocompletion-friendly typescript SQL query builder. Inspired by knex. Mainly developed for node.js but also runs on deno and in the browser.
 
 ## ORM
 
@@ -93,9 +93,9 @@
 
 - [Prisma ![code](https://ng-tech.icu/assets/code.svg)](https://www.prisma.io/): Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 
-- [2022~Orchid ORM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/romeerez/orchid-orm)](https://github.com/romeerez/orchid-orm): Postgres ORM, query builder, migration tool. First-class TypeScript support.
+- [2022_Orchid ORM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/romeerez/orchid-orm)](https://github.com/romeerez/orchid-orm): Postgres ORM, query builder, migration tool. First-class TypeScript support.
 
-- [2023~Drizzle ORM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/drizzle-team/drizzle-orm)](https://github.com/drizzle-team/drizzle-orm): Drizzle ORM is a TypeScript ORM for SQL databases designed with maximum type safety in mind. It comes with a drizzle-kit CLI companion for automatic SQL migrations generation. Drizzle ORM is meant to be a library, not a framework. It stays as an opt-in solution all the time at any levels.
+- [2023_Drizzle ORM ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/drizzle-team/drizzle-orm)](https://github.com/drizzle-team/drizzle-orm): Drizzle ORM is a TypeScript ORM for SQL databases designed with maximum type safety in mind. It comes with a drizzle-kit CLI companion for automatic SQL migrations generation. Drizzle ORM is meant to be a library, not a framework. It stays as an opt-in solution all the time at any levels.
 
 # SysProc
 
@@ -126,4 +126,4 @@
 
 # Registry
 
-- [2021~Verdaccio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/verdaccio/verdaccio)](https://github.com/verdaccio/verdaccio): Verdaccio is a simple, zero-config-required local private npm registry. No need for an entire database just to get started! Verdaccio comes out of the box with its own tiny database, and the ability to proxy other registries (eg. npmjs.org), caching the downloaded modules along the way. For those looking to extend their storage capabilities, Verdaccio supports various community-made plugins to hook into services such as Amazon's s3, Google Cloud Storage or create your own plugin.
+- [2021_Verdaccio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/verdaccio/verdaccio)](https://github.com/verdaccio/verdaccio): Verdaccio is a simple, zero-config-required local private npm registry. No need for an entire database just to get started! Verdaccio comes out of the box with its own tiny database, and the ability to proxy other registries (eg. npmjs.org), caching the downloaded modules along the way. For those looking to extend their storage capabilities, Verdaccio supports various community-made plugins to hook into services such as Amazon's s3, Google Cloud Storage or create your own plugin.

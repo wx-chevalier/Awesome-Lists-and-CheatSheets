@@ -12,13 +12,13 @@
 
 - [2012-《Advanced Bash Scripting Guide》📚](https://www.aquaclusters.com/app/home/project/public/Advanced-Bash-Scripting-Guide-1/wikibook/Advanced-Bash-Scripting-Guide/page/0/Advanced-Bash-Scripting-Guide): An in-depth exploration of the art of shell scripting.
 
-- [2020~《💡 Introduction to Bash Scripting》📚](https://github.com/bobbyiliev/introduction-to-bash-scripting): This is an open-source introduction to Bash scripting guide/ebook that will help you learn the basics of Bash scripting and start writing awesome Bash scripts that will help you automate your daily SysOps, DevOps, and Dev tasks. No matter if you are a DevOps/SysOps engineer, developer, or just a Linux enthusiast, you can use Bash scripts to combine different Linux commands and automate boring and repetitive daily tasks, so that you can focus on more productive and fun things.
+- [2020\_《💡 Introduction to Bash Scripting》📚](https://github.com/bobbyiliev/introduction-to-bash-scripting): This is an open-source introduction to Bash scripting guide/ebook that will help you learn the basics of Bash scripting and start writing awesome Bash scripts that will help you automate your daily SysOps, DevOps, and Dev tasks. No matter if you are a DevOps/SysOps engineer, developer, or just a Linux enthusiast, you can use Bash scripts to combine different Linux commands and automate boring and repetitive daily tasks, so that you can focus on more productive and fun things.
 
-- [2021~《The Linux Kernel Module Programming Guide》📚](https://github.com/sysprog21/lkmpg): This project keeps the Linux Kernel Module Programming Guide reasonably up to date, with working examples for recent 5.x kernel versions. The guide has been around since 2001 and most copies of it on the web only describe old 2.6.x kernels.
+- [2021\_《The Linux Kernel Module Programming Guide》📚](https://github.com/sysprog21/lkmpg): This project keeps the Linux Kernel Module Programming Guide reasonably up to date, with working examples for recent 5.x kernel versions. The guide has been around since 2001 and most copies of it on the web only describe old 2.6.x kernels.
 
-- [2022~《品读 Linux 0.11 核心代码》📚](https://github.com/sunym1993/flash-linux0.11-talk): 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码。
+- [2022\_《品读 Linux 0.11 核心代码》📚](https://github.com/sunym1993/flash-linux0.11-talk): 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码。
 
-- [2024~《Beyond Linux® From Scratch》](https://www.linuxfromscratch.org/blfs/view/stable-systemd/index.html): This book follows on from the Linux From Scratch book. It introduces and guides the reader through additions to the system including networking, graphical interfaces, sound support, and printer and scanner support.
+- [2024\_《Beyond Linux® From Scratch》](https://www.linuxfromscratch.org/blfs/view/stable-systemd/index.html): This book follows on from the Linux From Scratch book. It introduces and guides the reader through additions to the system including networking, graphical interfaces, sound support, and printer and scanner support.
 
 # Tutorial
 

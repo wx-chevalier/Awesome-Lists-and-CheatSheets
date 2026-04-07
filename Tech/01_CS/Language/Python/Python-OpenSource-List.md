@@ -6,9 +6,9 @@
 
 ## Examples
 
-- [2018~learn python ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/trekhleb/learn-python): 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
+- [2018_learn python ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/trekhleb/learn-python): 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 
-- [2021~GeekComputers Python Examples ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/geekcomputers/Python): This document helps to understand python in detail.And tells you More Information
+- [2021_GeekComputers Python Examples ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/geekcomputers/Python): This document helps to understand python in detail.And tells you More Information
 
 - [python-small-examples #Series#](https://github.com/jackzhenguo/python-small-examples): 告别枯燥，60 秒学会一个 Python 小例子，当前库已有 223 个实用的小例子 。
 
@@ -24,7 +24,7 @@
 
 ## Env
 
-- [2023~Rye ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mitsuhiko/rye)](https://github.com/mitsuhiko/rye): Rye is Armin's personal one-stop-shop for all his Python needs. It installs and manages Python installations, manages pyproject.toml files, installs and uninstalls dependencies, manages virtualenvs behind the scenes. It supports monorepos and global tool installations.
+- [2023_Rye ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mitsuhiko/rye)](https://github.com/mitsuhiko/rye): Rye is Armin's personal one-stop-shop for all his Python needs. It installs and manages Python installations, manages pyproject.toml files, installs and uninstalls dependencies, manages virtualenvs behind the scenes. It supports monorepos and global tool installations.
 
 ## Debug
 
@@ -34,9 +34,9 @@
 
 - [Pyre ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebook/pyre-check): Pyre is a fast, scalable type checker for large python codebases, designed to help improve code quality and development speed by flagging type errors interactively in your terminal or favorite editor.
 
-- [2022~ruff ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/charliermarsh/ruff)](https://github.com/charliermarsh/ruff): An extremely fast Python linter, written in Rust.
+- [2022_ruff ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/charliermarsh/ruff)](https://github.com/charliermarsh/ruff): An extremely fast Python linter, written in Rust.
 
-- [2024~mtshiba/pylyzer ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mtshiba/pylyzer)](https://github.com/mtshiba/pylyzer): pylyzer is a static code analyzer / language server for Python, written in Rust.
+- [2024_mtshiba/pylyzer ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mtshiba/pylyzer)](https://github.com/mtshiba/pylyzer): pylyzer is a static code analyzer / language server for Python, written in Rust.
 
 ## Tuning && Profiler
 
@@ -46,13 +46,13 @@
 
 - [Bowler ![code](https://ng-tech.icu/assets/code.svg)](https://pybowler.io/): Safe code refactoring for modern Python.
 
-- [2023~Scalene ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/plasma-umass/scalene)](https://github.com/plasma-umass/scalene): a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals.
+- [2023_Scalene ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/plasma-umass/scalene)](https://github.com/plasma-umass/scalene): a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals.
 
 ## Jupyter Notebooks
 
 - [ipywidgets ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jupyter-widgets/ipywidgets): ipywidgets, also known as jupyter-widgets or simply widgets, are interactive HTML widgets for Jupyter notebooks and the IPython kernel.
 
-- [2024~marimo ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/marimo-team/marimo)](https://github.com/marimo-team/marimo): A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
+- [2024_marimo ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/marimo-team/marimo)](https://github.com/marimo-team/marimo): A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 
 # Library
 
@@ -72,7 +72,7 @@
 
 ## Data Validation
 
-- [2022~Pydantic ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/pydantic/pydantic)](https://github.com/pydantic/pydantic): Data validation using Python type hints.
+- [2022_Pydantic ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/pydantic/pydantic)](https://github.com/pydantic/pydantic): Data validation using Python type hints.
 
 # Storage
 
@@ -88,14 +88,14 @@
 
 - [rebound ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/shobrook/rebound): Command-line tool that instantly fetches Stack Overflow results when you get a compiler error.
 
-- [2020~PyWebIO ![code](https://ng-tech.icu/assets/code.svg)](https://cubox.pro/c/OMTHaA): Write interactive web app in script way.
+- [2020_PyWebIO ![code](https://ng-tech.icu/assets/code.svg)](https://cubox.pro/c/OMTHaA): Write interactive web app in script way.
 
 # UI
 
-- [2021~Gradio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gradio-app/gradio)](https://github.com/gradio-app/gradio): Gradio is an open-source Python library that is used to build machine learning and data science demos and web applications.
+- [2021_Gradio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/gradio-app/gradio)](https://github.com/gradio-app/gradio): Gradio is an open-source Python library that is used to build machine learning and data science demos and web applications.
 
 - [Streamlit ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/streamlit/streamlit): Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts.
 
-- [2024~Avaiga/taipy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Avaiga/taipy)](https://github.com/Avaiga/taipy): Taipy is an open-source Python library for easy, end-to-end application development, featuring what-if analyses, smart pipeline execution, built-in scheduling, and deployment tools.
+- [2024_Avaiga/taipy ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Avaiga/taipy)](https://github.com/Avaiga/taipy): Taipy is an open-source Python library for easy, end-to-end application development, featuring what-if analyses, smart pipeline execution, built-in scheduling, and deployment tools.
 
-- [2024~r0x0r/pywebview ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/r0x0r/pywebview)](https://github.com/r0x0r/pywebview): pywebview is a lightweight cross-platform wrapper around a webview component that allows to display HTML content in its own native GUI window. It gives you power of web technologies in your desktop application, hiding the fact that GUI is browser based. Available for Windows, macOS, Linux and Android. You can use pywebview either with a 3rd party web framework or on its own with a two way bridge between Python and DOM.
+- [2024_r0x0r/pywebview ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/r0x0r/pywebview)](https://github.com/r0x0r/pywebview): pywebview is a lightweight cross-platform wrapper around a webview component that allows to display HTML content in its own native GUI window. It gives you power of web technologies in your desktop application, hiding the fact that GUI is browser based. Available for Windows, macOS, Linux and Android. You can use pywebview either with a 3rd party web framework or on its own with a two way bridge between Python and DOM.

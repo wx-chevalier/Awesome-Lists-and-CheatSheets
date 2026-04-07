@@ -8,7 +8,7 @@
 
 ## Books
 
-- [2020~Paradigms of Artificial Intelligence Programming》📚](https://github.com/norvig/paip-lisp): Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
+- [2020_Paradigms of Artificial Intelligence Programming》📚](https://github.com/norvig/paip-lisp): Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
 
 # Racket
 

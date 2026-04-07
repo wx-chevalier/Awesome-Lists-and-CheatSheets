@@ -36,7 +36,7 @@
 
 - [Locust ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/locustio/locust): Scalable user load testing tool written in Python
 
-- [2021~grafana/k6 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/grafana/k6): k6 is a modern load testing tool, building on Load Impact's years of experience. It provides a clean, approachable scripting API, distributed and cloud execution, and orchestration via a REST API.
+- [2021_grafana/k6 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/grafana/k6): k6 is a modern load testing tool, building on Load Impact's years of experience. It provides a clean, approachable scripting API, distributed and cloud execution, and orchestration via a REST API.
 
 - [plow ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/six-ddc/plow): A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying.
 
@@ -116,8 +116,8 @@
 
 - [garris/BackstopJS ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/garris/BackstopJS) ](https://github.com/garris/BackstopJS): BackstopJS automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
 
-- [2022~Touca ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/trytouca/trytouca)](https://github.com/trytouca/trytouca): Touca helps engineering teams find the unintended side-effects of their day to day code changes. It remotely compares the behavior and performance of your software against a previous trusted version and visualizes differences in near real-time.
+- [2022_Touca ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/trytouca/trytouca)](https://github.com/trytouca/trytouca): Touca helps engineering teams find the unintended side-effects of their day to day code changes. It remotely compares the behavior and performance of your software against a previous trusted version and visualizes differences in near real-time.
 
 # AI Test
 
-- [2024~lavague-ai/LaVague ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lavague-ai/LaVague)](https://github.com/lavague-ai/LaVague): Redefining internet surfing by transforming natural language instructions into seamless browser interactions.
+- [2024_lavague-ai/LaVague ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/lavague-ai/LaVague)](https://github.com/lavague-ai/LaVague): Redefining internet surfing by transforming natural language instructions into seamless browser interactions.

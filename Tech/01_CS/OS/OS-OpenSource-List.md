@@ -8,7 +8,7 @@
 
 ## Scratch
 
-- [2018~osmium/ ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/moratorium08/osmium)](https://github.com/moratorium08/osmium): A toy operating system written in Rust on RISC V(rv32im).
+- [2018_osmium/ ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/moratorium08/osmium)](https://github.com/moratorium08/osmium): A toy operating system written in Rust on RISC V(rv32im).
 
 - [bootOS ![code](https://ng-tech.icu/assets/code.svg) #Scratch#](https://github.com/nanochess/bootOS): bootOS is a monolithic operating system in 512 bytes of x86 machine code.
 
@@ -18,7 +18,7 @@
 
 - [Kerla ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/nuta/kerla): A new operating system kernel with Linux binary compatibility written in Rust.
 
-- [2022~HelenOS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/HelenOS/helenos): HelenOS is a portable microkernel-based multiserver operating system designed and implemented from scratch. It decomposes key operating system functionality such as file systems, networking, device drivers and graphical user interface into a collection of fine-grained user space components that interact with each other via message passing. A failure or crash of one component does not directly harm others. HelenOS is therefore flexible, modular, extensible, fault tolerant and easy to understand.
+- [2022_HelenOS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/HelenOS/helenos): HelenOS is a portable microkernel-based multiserver operating system designed and implemented from scratch. It decomposes key operating system functionality such as file systems, networking, device drivers and graphical user interface into a collection of fine-grained user space components that interact with each other via message passing. A failure or crash of one component does not directly harm others. HelenOS is therefore flexible, modular, extensible, fault tolerant and easy to understand.
 
 # File System
 

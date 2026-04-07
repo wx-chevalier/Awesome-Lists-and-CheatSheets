@@ -16,15 +16,15 @@
 
 - [Difference between Machine Learning, Data Science, AI, Deep Learning, and Statistics](http://6me.us/4cjZL): In this article, I clarify the various roles of the data scientist, and how data science compares and overlaps with related fields such as machine learning, deep learning, AI, statistics, IoT, operations research, and applied mathematics.
 
-- [2017~Teachable Machine](https://github.com/googlecreativelab/teachable-machine): Explore how machine learning works, live in the browser. No coding required.
+- [2017_Teachable Machine](https://github.com/googlecreativelab/teachable-machine): Explore how machine learning works, live in the browser. No coding required.
 
-- [2022~AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap): Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a data scientist, machine learning or an AI expert. We made these charts for our new employees to make them AI Experts but we wanted to share them here to help the community.
+- [2022_AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap): Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a data scientist, machine learning or an AI expert. We made these charts for our new employees to make them AI Experts but we wanted to share them here to help the community.
 
 ## CheatSheet | 清单
 
-- [2017~Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://parg.co/bad)
+- [2017_Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://parg.co/bad)
 
-- [2019~Data-Science--Cheat-Sheet #CheatSheet#](https://github.com/abhat222/Data-Science--Cheat-Sheet): List of Data Science Cheatsheets.
+- [2019_Data-Science--Cheat-Sheet #CheatSheet#](https://github.com/abhat222/Data-Science--Cheat-Sheet): List of Data Science Cheatsheets.
 
 ## Career
 
@@ -42,15 +42,15 @@
 
 - [learning 🗃️](https://github.com/amitness/learning): Becoming better at data science every day
 
-- [2021~Jack-Cherish/PythonPark 🗃️ ![star](https://img.shields.io/github/stars/Jack-Cherish/PythonPark)](https://github.com/Jack-Cherish/PythonPark): 这里是学习 Python 的乐园，保姆级教程：AI 实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、Python 基础、网络爬虫、大厂面经、程序人生、资源分享。我会逐渐完善它，持续输出中！
+- [2021_Jack-Cherish/PythonPark 🗃️ ![star](https://img.shields.io/github/stars/Jack-Cherish/PythonPark)](https://github.com/Jack-Cherish/PythonPark): 这里是学习 Python 的乐园，保姆级教程：AI 实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、Python 基础、网络爬虫、大厂面经、程序人生、资源分享。我会逐渐完善它，持续输出中！
 
 ## History | 历史
 
-- [2019~人工智能 60 年技术简史](https://mp.weixin.qq.com/s/SxdV0xVBBFyWIEwUfJnr4Q): 关于人工智能有很多的定义，它本身就是很多学科的交叉融合，不同的人关注它的不同方面，因此很难给出一个大家都认可的一个定义。我们下面通过时间的脉络来了解 AI 的反正过程。
+- [2019\_人工智能 60 年技术简史](https://mp.weixin.qq.com/s/SxdV0xVBBFyWIEwUfJnr4Q): 关于人工智能有很多的定义，它本身就是很多学科的交叉融合，不同的人关注它的不同方面，因此很难给出一个大家都认可的一个定义。我们下面通过时间的脉络来了解 AI 的反正过程。
 
 ## MindMap
 
-- [2019~nlp-roadmap](https://github.com/graykode/nlp-roadmap): ROADMAP(Mind Map) and KEYWORD for students those who have interest in learning NLP.
+- [2019_nlp-roadmap](https://github.com/graykode/nlp-roadmap): ROADMAP(Mind Map) and KEYWORD for students those who have interest in learning NLP.
 
 ## Survey | 前沿调查
 
@@ -62,23 +62,23 @@
 
 - [Distill 🗃️](http://distill.pub/): The web is a powerful medium to share new ways of thinking.
 
-- [2017~Awesome Data Science 🗃️](https://github.com/bulutyazilim/awesome-datascience): An open source Data Science repository to learn and apply towards solving real world problems.
+- [2017_Awesome Data Science 🗃️](https://github.com/bulutyazilim/awesome-datascience): An open source Data Science repository to learn and apply towards solving real world problems.
 
-- [2018~Deep Learning World 🗃️](https://github.com/astorfi/Deep-Learning-World): Organized Resources for Deep Learning Researchers and Developers.
+- [2018_Deep Learning World 🗃️](https://github.com/astorfi/Deep-Learning-World): Organized Resources for Deep Learning Researchers and Developers.
 
-- [2019~Virgilio ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/clone95/virgilio): Your new Mentor for Data Science E-Learning.
+- [2019_Virgilio ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/clone95/virgilio): Your new Mentor for Data Science E-Learning.
 
-- [2019~Deep Learning Drizzle 🗃️](https://github.com/kmario23/deep-learning-drizzle): Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
+- [2019_Deep Learning Drizzle 🗃️](https://github.com/kmario23/deep-learning-drizzle): Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 
 - [Awesome DataScience 🗃️](https://github.com/academic/awesome-datascience): 📝 An awesome Data Science repository to learn and apply for real world problems.
 
-- [2020~learning 🗃️](https://github.com/amitness/learning): Becoming 1% better at data science everyday
+- [2020_learning 🗃️](https://github.com/amitness/learning): Becoming 1% better at data science everyday
 
-- [2022~ml-surveys 🗃️](https://github.com/eugeneyan/ml-surveys): 📋 Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.
+- [2022_ml-surveys 🗃️](https://github.com/eugeneyan/ml-surveys): 📋 Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.
 
 ### DataScience
 
-- [2021~Learn-Datascience-For-Free 🗃️](https://github.com/therealsreehari/Learn-Datascience-For-Free): This Repository Consists of Free Resources needed for a person to learn Datascience from the beginning to end. This repository is divided into Four main Parts.
+- [2021_Learn-Datascience-For-Free 🗃️](https://github.com/therealsreehari/Learn-Datascience-For-Free): This Repository Consists of Free Resources needed for a person to learn Datascience from the beginning to end. This repository is divided into Four main Parts.
 
 ## Paper | 论文
 
@@ -92,7 +92,7 @@
 
 - [天池/AI 学习](https://tianchi.aliyun.com/learn/index.htm?spm=5176.11510297.5610718.9.1fd94546OoB1Hx&_lang=zh_CN): 机器学习从入门到深入的一系列课程。
 
-- [2025~《通往 AGC 之路》](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e): 欢迎来到《通往 AGI 之路》知识库！这里提供了一个全面系统的 AI 学习路径，帮助您了解从 AI 常见名词到 AI 应用等各方面知识，更重要的是以希望引发您思考。
+- [2025\_《通往 AGC 之路》](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e): 欢迎来到《通往 AGI 之路》知识库！这里提供了一个全面系统的 AI 学习路径，帮助您了解从 AI 常见名词到 AI 应用等各方面知识，更重要的是以希望引发您思考。
 
 ## Competition | 机器学习相关竞赛
 

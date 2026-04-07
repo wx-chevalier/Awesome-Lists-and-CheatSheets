@@ -1,11 +1,11 @@
 # Nest List
 
-- [2022~Microservices with NestJS, Kafka, and TypeScript](https://blog.logrocket.com/microservices-nestjs-kafka-typescript/): The microservices architecture is an increasingly popular architecture pattern that follows the SOA (Service Oriented Architecture) concept. It has several advantages and disadvantages, but one of its most significant benefits is that it allows for easier scalability compared to other architectures.
+- [2022_Microservices with NestJS, Kafka, and TypeScript](https://blog.logrocket.com/microservices-nestjs-kafka-typescript/): The microservices architecture is an increasingly popular architecture pattern that follows the SOA (Service Oriented Architecture) concept. It has several advantages and disadvantages, but one of its most significant benefits is that it allows for easier scalability compared to other architectures.
 
 # OpenSource
 
-- [2023~Clickvote ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/clickvote/clickvote)](https://github.com/clickvote/clickvote): Clickvote takes the hassle of building your own reaction components around your content.
+- [2023_Clickvote ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/clickvote/clickvote)](https://github.com/clickvote/clickvote): Clickvote takes the hassle of building your own reaction components around your content.
 
 ## Showcase
 
-- [2024~CatsMiaow/nestjs-project-structure ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CatsMiaow/nestjs-project-structure)](https://github.com/CatsMiaow/nestjs-project-structure): Node.js framework NestJS project structure.
+- [2024_CatsMiaow/nestjs-project-structure ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CatsMiaow/nestjs-project-structure)](https://github.com/CatsMiaow/nestjs-project-structure): Node.js framework NestJS project structure.

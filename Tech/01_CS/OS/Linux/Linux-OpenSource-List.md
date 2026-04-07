@@ -10,7 +10,7 @@
 
 - [hyper ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/zeit/hyper): A terminal built on web technologies.
 
-- [2021~Nu ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/nushell/nushell): Nu comes with a set of built-in commands (listed below). If a command is unknown, the command will shell-out and execute it (using cmd on Windows or bash on Linux and macOS), correctly passing through stdin, stdout, and stderr, so things like your daily git workflows and even vim will work just fine.
+- [2021_Nu ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/nushell/nushell): Nu comes with a set of built-in commands (listed below). If a command is unknown, the command will shell-out and execute it (using cmd on Windows or bash on Linux and macOS), correctly passing through stdin, stdout, and stderr, so things like your daily git workflows and even vim will work just fine.
 
 ## Share
 
@@ -38,7 +38,7 @@
 
 ## Utils
 
-- [2019~TLDR ![code](https://ng-tech.icu/assets/code.svg)](https://tldr.sh): The TLDR pages are a community effort to simplify the beloved man pages with practical examples.
+- [2019_TLDR ![code](https://ng-tech.icu/assets/code.svg)](https://tldr.sh): The TLDR pages are a community effort to simplify the beloved man pages with practical examples.
 
 ## Remote Shell
 
@@ -50,24 +50,24 @@
 
 ## Desktop UI
 
-- [2024~FyneDesk ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/FyshOS/fynedesk)](https://github.com/FyshOS/fynedesk): FyneDesk is an easy to use Linux/Unix desktop environment following material design. It is built using the Fyne toolkit and is designed to be easy to use as well as easy to develop. We use the Go language and welcome any contributions or feedback for the project.
+- [2024_FyneDesk ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/FyshOS/fynedesk)](https://github.com/FyshOS/fynedesk): FyneDesk is an easy to use Linux/Unix desktop environment following material design. It is built using the Fyne toolkit and is designed to be easy to use as well as easy to develop. We use the Go language and welcome any contributions or feedback for the project.
 
 ## System Restore
 
-- [2024~linuxmint/Timeshift ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/linuxmint/timeshift)](https://github.com/linuxmint/timeshift): Timeshift for Linux is an application that provides functionality similar to the System Restore feature in Windows and the Time Machine tool in Mac OS. Timeshift protects your system by taking incremental snapshots of the file system at regular intervals. These snapshots can be restored at a later date to undo all changes to the system.
+- [2024_linuxmint/Timeshift ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/linuxmint/timeshift)](https://github.com/linuxmint/timeshift): Timeshift for Linux is an application that provides functionality similar to the System Restore feature in Windows and the Time Machine tool in Mac OS. Timeshift protects your system by taking incremental snapshots of the file system at regular intervals. These snapshots can be restored at a later date to undo all changes to the system.
 
 # Shell Programming
 
 - [Bash Infinity ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/niieani/bash-oo-framework): Bash Infinity is a modern boilerplate / framework / standard library for bash
 
-- [2017~Bash Snippets ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alexanderepstein/Bash-Snippets): A collection of small bash scripts for heavy terminal users.
+- [2017_Bash Snippets ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alexanderepstein/Bash-Snippets): A collection of small bash scripts for heavy terminal users.
 
-- [2018~Shell Check ![code](https://ng-tech.icu/assets/code.svg)](https://www.shellcheck.net): ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts.
+- [2018_Shell Check ![code](https://ng-tech.icu/assets/code.svg)](https://www.shellcheck.net): ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts.
 
-- [2021~zx ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/google/zx): A tool for writing better scripts.
+- [2021_zx ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/google/zx): A tool for writing better scripts.
 
 - [Gum ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/charmbracelet/gum): A tool for glamorous shell scripts. Leverage the power of Bubbles and Lip Gloss in your scripts and aliases without writing any Go code!
 
-- [2024~Ph0enixKM/Amber ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Ph0enixKM/Amber)](https://github.com/Ph0enixKM/Amber): Programming language that compiles to Bash. It's a high level programming language that makes it easy to create shell scripts. It's particularly well suited for cloud services.
+- [2024_Ph0enixKM/Amber ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Ph0enixKM/Amber)](https://github.com/Ph0enixKM/Amber): Programming language that compiles to Bash. It's a high level programming language that makes it easy to create shell scripts. It's particularly well suited for cloud services.
 
 # Performance

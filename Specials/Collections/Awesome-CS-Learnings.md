@@ -10,9 +10,9 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [Computer Science: Open Source Society University](https://github.com/ossu/computer-science): The OSSU curriculum is a complete education in computer science using online materials.
 
-- [2018~Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets): Useful cheatsheets with everything you should know in one single-file. 🚀
+- [2018_Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets): Useful cheatsheets with everything you should know in one single-file. 🚀
 
-- [2016~成为专业程序员路上用到的各种优秀资料、神器及框架](https://github.com/stanzhai/be-a-professional-programmer): 成为一名专业程序员的道路上，需要坚持练习、学习与积累，技术方面既要有一定的广度，更要有自己的深度。
+- [2016\_成为专业程序员路上用到的各种优秀资料、神器及框架](https://github.com/stanzhai/be-a-professional-programmer): 成为一名专业程序员的道路上，需要坚持练习、学习与积累，技术方面既要有一定的广度，更要有自己的深度。
 
 - [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books): This list was originally a clone of stackoverflow - List of Freely Available Programming Books with contributions from Karan Bhangui and George Stocker.
 
@@ -24,9 +24,9 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [Project Based Learning 🗃️](https://github.com/practical-tutorials/project-based-learning#rust): A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
 
-- [2022~Professional Programming 🗃️](https://github.com/charlax/professional-programming): The goal of this page is to make you a more proficient developer. You'll find only resources that I've found truly inspiring, or that have become timeless classics.
+- [2022_Professional Programming 🗃️](https://github.com/charlax/professional-programming): The goal of this page is to make you a more proficient developer. You'll find only resources that I've found truly inspiring, or that have become timeless classics.
 
-- [2022~forthespada/CS-Books ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/https://github.com/forthespada/CS-Books)](https://github.com/https://github.com/forthespada/CS-Books): 🔥🔥 超过 1000 本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括 C/C++、Java、Python、Go 语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
+- [2022_forthespada/CS-Books ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/https://github.com/forthespada/CS-Books)](https://github.com/https://github.com/forthespada/CS-Books): 🔥🔥 超过 1000 本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括 C/C++、Java、Python、Go 语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
 
 ## Cheatsheets
 
@@ -48,15 +48,15 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 # Backend | 服务端应用程序
 
-- [2016~Back-End Developer Interview Questions](https://parg.co/UXF): A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
+- [2016_Back-End Developer Interview Questions](https://parg.co/UXF): A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 
-- [2018~后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+- [2018\_后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 
 - [Awesome design patterns 🗃️](https://github.com/DovAmir/awesome-design-patterns): A general, reusable solution to a commonly occurring problem within a given context in software design. It is a description or template for how to solve a problem that can be used in many different situations.
 
 - [Comic For What is BackEnd Developer](https://consolia-comic.com/comics/back-end)
 
-- [2017~The non-techie’s guide to servers](https://parg.co/bDN)
+- [2017_The non-techie’s guide to servers](https://parg.co/bDN)
 
 - [awesome-architecture 🗃️](https://github.com/toutiaoio/awesome-architecture): 架构师技术图谱包括：分布式、前端、大数据、存储、微服务、推荐系统、框架、消息队列、编程语言、设计模式、重构、集群等内容。
 
@@ -66,7 +66,7 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 # Others
 
-- [2017~awesome-indie](https://github.com/mezod/awesome-indie): Resources to help independent developers make money.
+- [2017_awesome-indie](https://github.com/mezod/awesome-indie): Resources to help independent developers make money.
 
 - [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese): 在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，真心希望本指南能给你带来一点小小的帮助。
 
@@ -96,7 +96,7 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 # Bonus
 
-- [2019~free-for.dev 🗃️](https://github.com/ripienaar/free-for-dev): Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all in order to make informed decisions.
+- [2019_free-for.dev 🗃️](https://github.com/ripienaar/free-for-dev): Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all in order to make informed decisions.
 
 # Collection | 资源合集
 
@@ -104,17 +104,17 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [2015-Papers We Love 🗃️](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
 
-- [2017~Awesome Creative Coding 🗃️](https://github.com/terkelg/awesome-creative-coding): Creative coding is a different discipline than programming systems in which the goal is to create something expressive instead of something functional. This is carefully curated list of awesome creative coding resources primarily for beginners/intermediates.
+- [2017_Awesome Creative Coding 🗃️](https://github.com/terkelg/awesome-creative-coding): Creative coding is a different discipline than programming systems in which the goal is to create something expressive instead of something functional. This is carefully curated list of awesome creative coding resources primarily for beginners/intermediates.
 
 - 博客集锦：[Over 2500 dev blogs dataset](https://github.com/abdelhai/devblogs)、[Awesome Dev Blog](https://github.com/abdelhai/awesome-dev-blogs)、[Software Engineering Blog](https://github.com/kilimchoi/engineering-blogs)
 
 - [One-Click-to-Be-Pro 🗃️](https://github.com/vic317yeh/One-Click-to-Be-Pro): 质量很高的优秀学习资源收集
 
-- [2016~dev-books 🗃️](http://www.dev-books.com/): analysed more than 40 000 000 questions and answers on stackoverflow.com to bring you the top of most mentioned books (5720 in total)
+- [2016_dev-books 🗃️](http://www.dev-books.com/): analysed more than 40 000 000 questions and answers on stackoverflow.com to bring you the top of most mentioned books (5720 in total)
 
-- [2017~Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [2017_Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
-- [2022~小林 x 图解计算机基础 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/xiaolincoder/CS-Base): 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
+- [2022\_小林 x 图解计算机基础 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/xiaolincoder/CS-Base): 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 
 # Sites
 
@@ -152,8 +152,7 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 - [2010~计算机程序设计艺术》📚](http://6me.us/zzN)：《计算机程序设计艺术》系列被公认为计算机科学领域的权威之作，《美国科学家》杂志曾将这套书与爱因斯坦的《相对论》等书并列称为 20 世纪最重要的 12 本物理学著作。《计算机程序设计艺术》深入阐述了程序设计理论，对计算机领域的发展有着极为深远的影响。
 
 - [2011-CSAPP: 深入理解计算机系统》📚](): 绝对的好书，从程序员的视角深入浅出地介绍了计算机系统底层原理，这里提供笔者搜集的[2011-深入理解计算机系统-2nd](https://drive.wps.cn/view/l/ded1ba6254884c569ff61d119109ed8c)。
-
-  - [2018~translationCSAPP 🎥](https://github.com/EugeneLiu/translationCSAPP): 中英双语字幕精校版 CSAPP CMU 15-213 课程 2015 Fall 视频翻译计划。
+  - [2018_translationCSAPP 🎥](https://github.com/EugeneLiu/translationCSAPP): 中英双语字幕精校版 CSAPP CMU 15-213 课程 2015 Fall 视频翻译计划。
   - [Exely/CSAPP-Labs ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Exely/CSAPP-Labs)](https://github.com/Exely/CSAPP-Labs): 《深入理解计算机系统》第三版的实验文件、解答与笔记。
 
 - [2012-数学之美](https://book.douban.com/subject/10750155/)：名为数学之美，实为信息技术(自然语言处理)中的数学原理(统计语言模型)之美。帮助读者更深刻地理解了大学所学的线性代数、概率论与数理统计和应该学而没学的随机过程、图论、机器学习的应用意义。笔者印象深刻看到了其中讲解 Tf-Idf 与信息论之间的关联，很有启发。
@@ -168,13 +167,13 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [2015-The Art Of Programming By July》📚](http://6me.us/oEiD): 编程之法：面试和算法心得
 
-- [2017~Mathematics for Computer Science》📚](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf):This text explains how to use mathematical models and methods to analyze problems that arise in computer science
+- [2017_Mathematics for Computer Science》📚](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf):This text explains how to use mathematical models and methods to analyze problems that arise in computer science
 
-- [2017~Software Foundations》📚](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html): This electronic book is a course on Software Foundations, the mathematical underpinnings of reliable software. Topics include basic concepts of logic, computer-assisted theorem proving, the Coq proof assistant, functional programming, operational semantics, Hoare logic, and static type systems.
+- [2017_Software Foundations》📚](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html): This electronic book is a course on Software Foundations, the mathematical underpinnings of reliable software. Topics include basic concepts of logic, computer-assisted theorem proving, the Coq proof assistant, functional programming, operational semantics, Hoare logic, and static type systems.
 
 - [Open Source Society University》📚](http://6me.us/eWa): This is a solid path for those of you who want to complete a Computer Science course on your own time, for free, with courses from the best universities in the World.
 
-- [2020~CtCI-3rd》📚](https://github.com/careercup/CtCI-6th-Edition): Crowdsourcing solutions for every widely used programming language. Contributions welcome.
+- [2020_CtCI-3rd》📚](https://github.com/careercup/CtCI-6th-Edition): Crowdsourcing solutions for every widely used programming language. Contributions welcome.
 
 # Vision | 行业与技术洞察
 
@@ -190,17 +189,17 @@ Awesome CS Collections 是对于那些横跨多个领域，注重 CS 学习的�
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 
-- [2017~The Developer’s Edge: How To Become A Senior Developer](http://6me.us/h8Zcz): This article is for all the developers, coders, programmers out there who are looking to make a jump in their career after having had a few years in the industry (or you may be just starting out but would like to see the sort of path you have to go on).
+- [2017_The Developer’s Edge: How To Become A Senior Developer](http://6me.us/h8Zcz): This article is for all the developers, coders, programmers out there who are looking to make a jump in their career after having had a few years in the industry (or you may be just starting out but would like to see the sort of path you have to go on).
 
-- [2017~Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
+- [2017_Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
 
-- [2016~Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/):Note that the knowledge for each level is cumulative; being at level n implies that you also know everything from the levels lower than n.
+- [2016_Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/):Note that the knowledge for each level is cumulative; being at level n implies that you also know everything from the levels lower than n.
 
-- [2017~Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know): A collection of (mostly) technical things every software developer should know.
+- [2017_Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know): A collection of (mostly) technical things every software developer should know.
 
 # Awesome Guides
 
-- [2020~Teach Yourself Computer Science](https://github.com/keithnull/TeachYourselfCS-CN): If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program 💸.
+- [2020_Teach Yourself Computer Science](https://github.com/keithnull/TeachYourselfCS-CN): If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program 💸.
 
 # Links
 

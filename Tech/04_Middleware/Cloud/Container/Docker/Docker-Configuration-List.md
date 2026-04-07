@@ -2,13 +2,13 @@
 
 # System
 
-- [2018~使用 docker 对容器资源进行限制](http://cizixs.com/2017/08/04/docker-resources-limit): 这篇文章就介绍如何使用 docker 来限制 CPU、内存和 IO，以及对应的 cgroups 文件。
+- [2018\_使用 docker 对容器资源进行限制](http://cizixs.com/2017/08/04/docker-resources-limit): 这篇文章就介绍如何使用 docker 来限制 CPU、内存和 IO，以及对应的 cgroups 文件。
 
 # Docker Storage
 
-- [2016~Docker : Storage Patterns for Persistence](https://parg.co/Ur8): We’ll go over several variants when it comes down to data persistence.
+- [2016_Docker : Storage Patterns for Persistence](https://parg.co/Ur8): We’ll go over several variants when it comes down to data persistence.
 
-- [2017~Managing Persistence for Docker Containers](https://thenewstack.io/methods-dealing-container-storage/)
+- [2017_Managing Persistence for Docker Containers](https://thenewstack.io/methods-dealing-container-storage/)
 
 - [copying-data-between-docker-containers](https://medium.com/@gchudnov/copying-data-between-docker-containers-26890935da3f)
 
@@ -22,11 +22,11 @@
 
 - [Docker Networking: Reborn](http://www.container42.com/2015/10/30/docker-networking-reborn/)
 
-- [2018~Demystifying Docker overlay networking](http://blog.nigelpoulton.com/demystifying-docker-overlay-networking/): We’ll explain the theory behind how it works.
+- [2018_Demystifying Docker overlay networking](http://blog.nigelpoulton.com/demystifying-docker-overlay-networking/): We’ll explain the theory behind how it works.
 
 # Dockerfile
 
-- [2018~An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps](https://parg.co/UyX): This post is filled with examples ranging from a simple Dockerfile to multistage production builds for Node.js web apps.
+- [2018_An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps](https://parg.co/UyX): This post is filled with examples ranging from a simple Dockerfile to multistage production builds for Node.js web apps.
 
 - [高效编写 Dockerfile 的几条准则](https://www.jianshu.com/p/a9d08ba3d979?from=groupmessage&isappinstalled=0): 写 Dockerfile 也像写代码一样，一份精心设计、Clean Code 的 Dockerfile 能在提高可读性的同时也大大提升 Docker 的使用效率。
 
@@ -36,7 +36,7 @@
 
 # Application
 
-- [2017~Create lean Node.js image with Docker multi-stage build](https://codefresh.io/blog/node_docker_multistage/)
+- [2017_Create lean Node.js image with Docker multi-stage build](https://codefresh.io/blog/node_docker_multistage/)
 
 - [3 tricks for mastering Docker with Python](https://hackernoon.com/3-tricks-for-mastering-docker-with-python-99876412348d?source=reading_list---------6-1---------)
 
@@ -48,11 +48,11 @@
 
 - [Docker Security CheatSheet](https://parg.co/d6b): The following tips should help you to secure a container based system.
 
-- [2019~Docker 容器安全的“终极武器” AIM](https://mp.weixin.qq.com/s/i9lMWgST6ZdRGxau5hGt9g): 我们需要关注 Docker 中的安全问题吗？这个得具体分析。Docker 拥有相当强大的安全保障能力，因此如果大家只使用官方 Docker 镜像而且不需要进行机器间通信，就完全没必要为安全而担心。
+- [2019_Docker 容器安全的“终极武器” AIM](https://mp.weixin.qq.com/s/i9lMWgST6ZdRGxau5hGt9g): 我们需要关注 Docker 中的安全问题吗？这个得具体分析。Docker 拥有相当强大的安全保障能力，因此如果大家只使用官方 Docker 镜像而且不需要进行机器间通信，就完全没必要为安全而担心。
 
 ## Optimization
 
-- [2017~Tips to Reduce Docker Image Sizes](https://parg.co/beS): Docker images can easily get to 2–3GB. Here’s some tips that can help reduce their sizes.
+- [2017_Tips to Reduce Docker Image Sizes](https://parg.co/beS): Docker images can easily get to 2–3GB. Here’s some tips that can help reduce their sizes.
 
 - [Dockerfile 最佳实践](http://dockone.io/article/132)
 

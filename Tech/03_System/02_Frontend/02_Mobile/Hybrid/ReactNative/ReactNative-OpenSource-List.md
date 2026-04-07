@@ -14,7 +14,7 @@
 
 - [react-native-nba-app](https://github.com/wwayne/react-native-nba-app)
 
-- [2017~Joplin ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/laurent22/joplin): a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+- [2017_Joplin ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/laurent22/joplin): a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 
 # Development Tools
 
@@ -22,11 +22,11 @@
 
 ## Boilerplates
 
-- [2018~snowflake ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bartonhammond/snowflake): A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku
+- [2018_snowflake ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bartonhammond/snowflake): A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku
 
-- [2018~Ignite ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/infinitered/ignite): The hottest CLI for React Native, boilerplates, plugins, generators, and more!
+- [2018_Ignite ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/infinitered/ignite): The hottest CLI for React Native, boilerplates, plugins, generators, and more!
 
-- [2018~React Native Starter ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ueno-llc/react-native-starter): Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
+- [2018_React Native Starter ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ueno-llc/react-native-starter): Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
 
 ## Publish
 
@@ -36,19 +36,19 @@
 
 - [react-native-desktop](https://github.com/ptmt/react-native-desktop)
 
-- [2017~React Native Node ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/staltz/react-native-node): Run a separate Node.js process behind a React Native app.
+- [2017_React Native Node ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/staltz/react-native-node): Run a separate Node.js process behind a React Native app.
 
-- [2018~React Native DOM ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vincentriemer/react-native-dom): An experimental, comprehensive port of React Native to the web.
+- [2018_React Native DOM ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vincentriemer/react-native-dom): An experimental, comprehensive port of React Native to the web.
 
 # Libraries
 
 - [NativeBase](https://github.com/GeekyAnts/NativeBase): Essential cross-platform UI components for React Native.
 
-- [2018~React Native Paper ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/U1m): Material Design for React Native (Android & iOS).
+- [2018_React Native Paper ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/U1m): Material Design for React Native (Android & iOS).
 
 - [Galio ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/galio-org/galio): Galio is a beautifully designed, Free and Open Source React Native Framework
 
-- [2022~Tamagui ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tamagui/tamagui)](https://github.com/tamagui/tamagui): Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄
+- [2022_Tamagui ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tamagui/tamagui)](https://github.com/tamagui/tamagui): Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄
 
 ## Widget
 
@@ -56,12 +56,12 @@
 
 - [react-native-pushy](https://github.com/reactnativecn/react-native-pushy)
 
-- [2017~react-native-interactable](https://github.com/wix/react-native-interactable): Experimental implementation of high performance interactable views in React Native.
+- [2017_react-native-interactable](https://github.com/wix/react-native-interactable): Experimental implementation of high performance interactable views in React Native.
 
 - [react-native-offline-utils](https://github.com/rauliyohmc/react-native-offline-utils): Handy toolbelt to deal nicely with offline/online connectivity in a React Native app. Smooth redux integration.
 
 - [React Navigation](https://github.com/react-community/react-navigation): React Navigation is born from the React Native community's need for an extensible yet easy-to-use navigation solution.
 
-- [2017~kittenTricks](https://github.com/akveo/kittenTricks): A react native mobile starter kit with over 40 screens and theme hot reload support.
+- [2017_kittenTricks](https://github.com/akveo/kittenTricks): A react native mobile starter kit with over 40 screens and theme hot reload support.
 
-- [2017~Reactive Search ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/appbaseio/reactivesearch): A React and React Native UI components library for building data-driven apps.
+- [2017_Reactive Search ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/appbaseio/reactivesearch): A React and React Native UI components library for building data-driven apps.

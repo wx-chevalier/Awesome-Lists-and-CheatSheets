@@ -10,13 +10,13 @@
 
 # Gitflow
 
-- [2017~简介我的 Git Work Flow](http://zhoulingyu.com/2017/05/08/Git-Work-Flow/)：统一的工作流程是至关重要的，不管对于哪一个行业的作业来说都一样。对于我们开发人员，工作流包含了开发时 Git 的使用规范、Repo 管理的规范、测试过程的规范、设计交互的管理规范等等。由于测试、交互等设计到更多的人员，本篇文章暂且不表，重点说 Git 的使用规范和 repo 管理的规范。
+- [2017\_简介我的 Git Work Flow](http://zhoulingyu.com/2017/05/08/Git-Work-Flow/)：统一的工作流程是至关重要的，不管对于哪一个行业的作业来说都一样。对于我们开发人员，工作流包含了开发时 Git 的使用规范、Repo 管理的规范、测试过程的规范、设计交互的管理规范等等。由于测试、交互等设计到更多的人员，本篇文章暂且不表，重点说 Git 的使用规范和 repo 管理的规范。
 
 - [Gitflow 有害论](http://insights.thoughtworkers.org/gitflow-consider-harmful/)
 
 - [Git 工作流分析](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
 
-- [2020~Please stop recommending Git Flow!](https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/): The end, right? Well, not quite. I can tell a few of you are unconvinced by this line of reasoning, so let’s dig deeper into why the gitflow branching model should die in a fire.
+- [2020_Please stop recommending Git Flow!](https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/): The end, right? Well, not quite. I can tell a few of you are unconvinced by this line of reasoning, so let’s dig deeper into why the gitflow branching model should die in a fire.
 
 ## Pull Request
 

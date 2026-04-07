@@ -2,7 +2,7 @@
 
 - [Service Workers Break the Browser’s Refresh Button by Default; Here’s Why](https://parg.co/Uue): Service Workers are like apps. You can’t safely upgrade an app while it’s still running. [How to Fix the Refresh Button When Using Service Workers](https://parg.co/Uu1)
 
-- [2017~JavaScript in parallel](http://50linesofco.de/post/2017-02-06-javascript-in-parallel-web-workers-transferables-and-sharedarraybuffer): Workers, transferable objects and SharedArrayBuffer
+- [2017_JavaScript in parallel](http://50linesofco.de/post/2017-02-06-javascript-in-parallel-web-workers-transferables-and-sharedarraybuffer): Workers, transferable objects and SharedArrayBuffer
 
 # Service Worker
 
@@ -10,9 +10,9 @@
 
 - [2017 - Send messages when you’re back online with Service Workers and Background Sync](http://6me.us/IrTKkz): When you send an SMS message but your phone doesn’t have great signal it will continue to try to send the message in the background, even if you close the app. Pretty useful right? In this post we’re going to see how to replicate this behaviour in a web application using the Background Sync API from the Service Worker.
 
-- [2017~Testing Service Workers](https://medium.com/dev-channel/testing-service-workers-318d7b016b19#.k65nmof59):In this post we’ll be looking at some of the approaches being taken to test service workers in the latest service worker libraries the Chrome DevRel team have been working on.
+- [2017_Testing Service Workers](https://medium.com/dev-channel/testing-service-workers-318d7b016b19#.k65nmof59):In this post we’ll be looking at some of the approaches being taken to test service workers in the latest service worker libraries the Chrome DevRel team have been working on.
 
-- [2017~Service Worker Mock](https://parg.co/bCD): A mock service worker environment generator.
+- [2017_Service Worker Mock](https://parg.co/bCD): A mock service worker environment generator.
 
 - [Awesome Service Workers 🗃️](https://github.com/TalAter/awesome-service-workers) : A collection of awesome resources for learning service workers.
 
@@ -32,22 +32,22 @@
 
 - [Experimenting With The Background Fetch API](https://parg.co/UEk): The service worker API is expanding as more ways to use the background dwelling worker emerge.
 
-- [2018~Service workers: the little heroes behind Progressive Web Apps](https://parg.co/UXo): Service workers are at the core of Progressive Web Apps. They allow caching of resources and push notifications, which are two of the main distinguishing features that have set native apps apart up to this point.
+- [2018_Service workers: the little heroes behind Progressive Web Apps](https://parg.co/UXo): Service workers are at the core of Progressive Web Apps. They allow caching of resources and push notifications, which are two of the main distinguishing features that have set native apps apart up to this point.
 
 ## Offline Storage
 
-- [2016~Offline Storage for Progressive Web Apps](https://medium.com/@addyosmani/offline-storage-for-progressive-web-apps-70d52695513c) : The current state of offline storage in the browser
+- [2016_Offline Storage for Progressive Web Apps](https://medium.com/@addyosmani/offline-storage-for-progressive-web-apps-70d52695513c) : The current state of offline storage in the browser
 
 - [IndexedDB API](https://developer.mozilla.org/en/docs/Web/API/IndexedDB_API) : API docs, key concepts, and sample code from Mozilla.
 
 - [CacheStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Cache) : API docs, and sample code from Mozilla.
 
-- [2017~Redux Offline](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
+- [2017_Redux Offline](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
 
-- [2017~The Offline Cookbook](https://parg.co/UZh): With ServiceWorker we gave up trying to solve offline, and gave developers the moving parts to go solve it themselves.
+- [2017_The Offline Cookbook](https://parg.co/UZh): With ServiceWorker we gave up trying to solve offline, and gave developers the moving parts to go solve it themselves.
 
 # Web Worker
 
-- [2017~How Web Workers can help with consistent, asynchronous tasks in JavaScript](https://medium.freecodecamp.org/how-web-workers-can-help-with-consistent-asynchronous-tasks-in-javascript-cd6d728fa4ee)
+- [2017_How Web Workers can help with consistent, asynchronous tasks in JavaScript](https://medium.freecodecamp.org/how-web-workers-can-help-with-consistent-asynchronous-tasks-in-javascript-cd6d728fa4ee)
 
-- [2018~How JavaScript works: The building blocks of Web Workers + 5 cases when you should use them](https://parg.co/Uig): We’ll offer an overview, discuss the different types of workers, how their building components come to play together, and what advantages and limitations they offer in different scenarios.
+- [2018_How JavaScript works: The building blocks of Web Workers + 5 cases when you should use them](https://parg.co/Uig): We’ll offer an overview, discuss the different types of workers, how their building components come to play together, and what advantages and limitations they offer in different scenarios.

@@ -1,30 +1,30 @@
 # Vue.js List | Vue.js 资料索引
 
-- [2017~Getting Started with Vue.js](https://sabe.io/tutorials/getting-started-with-vue-js): I’m writing this post to help people get started with very little knowledge required other than basic HTML, CSS and JavaScript.
+- [2017_Getting Started with Vue.js](https://sabe.io/tutorials/getting-started-with-vue-js): I’m writing this post to help people get started with very little knowledge required other than basic HTML, CSS and JavaScript.
 
-- [2017~How To Publish Your Vue.js Component On NPM](https://parg.co/UbD): In this article I’ll show you how to prepare your component so that it can be packaged and published on NPM.
+- [2017_How To Publish Your Vue.js Component On NPM](https://parg.co/UbD): In this article I’ll show you how to prepare your component so that it can be packaged and published on NPM.
 
-- [2017~Building Large-Scale Apps with VueJS 2 #Series#](https://parg.co/Ulw): As for this series I want to share some impediments to be overcome and solutions associated with building SPAs with Vue.
+- [2017_Building Large-Scale Apps with VueJS 2 #Series#](https://parg.co/Ulw): As for this series I want to share some impediments to be overcome and solutions associated with building SPAs with Vue.
 
-- [2017~Advanced Vue.js concepts: mixins, custom directives, filters, transitions, and state management](https://parg.co/UA1)
+- [2017_Advanced Vue.js concepts: mixins, custom directives, filters, transitions, and state management](https://parg.co/UA1)
 
 # Overview | 概览
 
-- [2016~尤雨溪：Vue 2.0，渐进式前端解决方案](https://parg.co/GS1): 前端框架的存在是为了解决什么问题？在众多的框架之中，Vue 独具魅力之处何在？为什么说其背后的核心思想是渐进式？
+- [2016\_尤雨溪：Vue 2.0，渐进式前端解决方案](https://parg.co/GS1): 前端框架的存在是为了解决什么问题？在众多的框架之中，Vue 独具魅力之处何在？为什么说其背后的核心思想是渐进式？
 
 - [Vue 2.2 完整 API 清单](https://parg.co/bhC)：本文是 Vue 2.2 中完整的 API 介绍，可以作为手册随时查阅。
 
-- [2017~An overview of Vue.js and the future of the framework](https://parg.co/UmG): This post is far from being a guide. It’s another timeline attempt on Vue.js in a well-organized way, from the beginning, to what awaits us in version 3.0 of the framework.
+- [2017_An overview of Vue.js and the future of the framework](https://parg.co/UmG): This post is far from being a guide. It’s another timeline attempt on Vue.js in a well-organized way, from the beginning, to what awaits us in version 3.0 of the framework.
 
 - [Vue 和 React 的优点分别是什么？](https://www.zhihu.com/question/301860721)
 
 ## Changelog（版本特性）
 
-- [2019~Vue 3 中那些激动人心的新功能](https://mp.weixin.qq.com/s/SWIVoLfPjUe8BM6Bld5S9g): Vue 3 带来了许多激动人心的新功能。值得庆幸的是，Vue 团队主要针对当前 API 做了添加和改进，没有引入多少重大更改。因此，熟悉 Vue 2 的开发人员应该可以很快习惯新语法。
+- [2019_Vue 3 中那些激动人心的新功能](https://mp.weixin.qq.com/s/SWIVoLfPjUe8BM6Bld5S9g): Vue 3 带来了许多激动人心的新功能。值得庆幸的是，Vue 团队主要针对当前 API 做了添加和改进，没有引入多少重大更改。因此，熟悉 Vue 2 的开发人员应该可以很快习惯新语法。
 
 ## Case Study | 案例分析
 
-- [2017~Creating Beautiful Charts Using Vue Wrappers for Chart.js](https://www.sitepoint.com/creating-beautiful-charts-vue-chart-js/): In this article I will show you how to represent data in the form of various types of chart with the help of Chart.js and Vue.
+- [2017_Creating Beautiful Charts Using Vue Wrappers for Chart.js](https://www.sitepoint.com/creating-beautiful-charts-vue-chart-js/): In this article I will show you how to represent data in the form of various types of chart with the help of Chart.js and Vue.
 
 ## Comparison（比较）
 
@@ -36,13 +36,13 @@
 
 ## Books | 书籍
 
-- [2018~《The Vue Handbook》![code](https://ng-tech.icu/assets/code.svg)](https://vuehandbook.com/): It targets beginners, covering the 20% that makes you accomplish the 80% of the job. It’s not a definitive guide to Vue, but it can be helpful when you are starting out.
+- [2018\_《The Vue Handbook》![code](https://ng-tech.icu/assets/code.svg)](https://vuehandbook.com/): It targets beginners, covering the 20% that makes you accomplish the 80% of the job. It’s not a definitive guide to Vue, but it can be helpful when you are starting out.
 
-- [2021~《Vue3 入门指南与实战案例》![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/chengpeiquan/learning-vue3)](https://github.com/chengpeiquan/learning-vue3): 超过 230w+ 阅读人次的《Vue3 入门指南与实战案例》，关于前端工程化开发的基础知识点，以及 TypeScript、Vue 3、Pinia 的入门学习指南。
+- [2021\_《Vue3 入门指南与实战案例》![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/chengpeiquan/learning-vue3)](https://github.com/chengpeiquan/learning-vue3): 超过 230w+ 阅读人次的《Vue3 入门指南与实战案例》，关于前端工程化开发的基础知识点，以及 TypeScript、Vue 3、Pinia 的入门学习指南。
 
 # Tutoria | 教程
 
-- [2017~Vue 2 Quickstart Tutorial 2017](https://medium.com/@s_eschweiler/vue-js-2-quickstart-tutorial-2017-246195cfbdd2#.x0l9g6j9r)
+- [2017_Vue 2 Quickstart Tutorial 2017](https://medium.com/@s_eschweiler/vue-js-2-quickstart-tutorial-2017-246195cfbdd2#.x0l9g6j9r)
 
 - [Vue Pokemon Battle Tutorial](https://medium.com/coding-artist/vue-js-pokemon-battle-tutorial-380cd72eb681#.x8wnb4s0f): A very detailed read that goes through the creation of a Pokemon Battle using Vue.
 

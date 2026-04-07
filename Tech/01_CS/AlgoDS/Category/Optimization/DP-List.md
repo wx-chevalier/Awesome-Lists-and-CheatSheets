@@ -8,9 +8,9 @@
 
 - [什么是动态规划？动态规划的意义是什么？](https://www.zhihu.com/question/23995189/answer/613096905): 现在，我们试着自己来一步步“重新发明”DP。
 
-- [2019~动态规划套路详解](https://zhuanlan.zhihu.com/p/78220312): 动态规划算法似乎是一种很高深莫测的算法，你会在一些面试或算法书籍的高级技巧部分看到相关内容，什么状态转移方程，重叠子问题，最优子结构等高大上的词汇也可能让你望而却步。
+- [2019\_动态规划套路详解](https://zhuanlan.zhihu.com/p/78220312): 动态规划算法似乎是一种很高深莫测的算法，你会在一些面试或算法书籍的高级技巧部分看到相关内容，什么状态转移方程，重叠子问题，最优子结构等高大上的词汇也可能让你望而却步。
 
-- [2019~tspvis ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jhackshaw/tspvis): Dynamic visualizations of algorithms for solving the traveling salesman problem.
+- [2019_tspvis ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jhackshaw/tspvis): Dynamic visualizations of algorithms for solving the traveling salesman problem.
 
 # 树型动态规划
 

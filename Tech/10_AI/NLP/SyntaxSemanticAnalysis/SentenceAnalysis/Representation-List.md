@@ -1,10 +1,10 @@
 # Document Representation List
 
-- [2016~NLP Research Lab Part 1: Distributed Representations](http://blog.districtdatalabs.com/nlp-research-lab-part-1-distributed-representations): How I Learned To Stop Worrying And Love Word Embeddings
+- [2016_NLP Research Lab Part 1: Distributed Representations](http://blog.districtdatalabs.com/nlp-research-lab-part-1-distributed-representations): How I Learned To Stop Worrying And Love Word Embeddings
 
 # Word Vectors
 
-- [2018~Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469): Understanding word vectors: A tutorial for "Reading and Writing Electronic Text," a class I teach at ITP.
+- [2018_Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469): Understanding word vectors: A tutorial for "Reading and Writing Electronic Text," a class I teach at ITP.
 
 # Word2Vec
 

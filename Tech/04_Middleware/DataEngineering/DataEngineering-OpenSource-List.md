@@ -8,25 +8,25 @@
 
 - [Apache Altas ![code](https://ng-tech.icu/assets/code.svg)](https://atlas.apache.org/#/): Atlas is a scalable and extensible set of core foundational governance services – enabling enterprises to effectively and efficiently meet their compliance requirements within Hadoop and allows integration with the whole enterprise data ecosystem.
 
-- [2020~Amundsen ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/amundsen-io/amundsen): Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+- [2020_Amundsen ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/amundsen-io/amundsen): Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 
-- [2024~OpenMetadata ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/open-metadata/OpenMetadata)](https://github.com/open-metadata/OpenMetadata): OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
+- [2024_OpenMetadata ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/open-metadata/OpenMetadata)](https://github.com/open-metadata/OpenMetadata): OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
 
 ## OLAP
 
-- [2016~ClickHouse ![code](https://ng-tech.icu/assets/code.svg)](https://ClickHouse.yandex/): ClickHouse is an open source column-oriented database management system capable of real time generation of analytical data reports using SQL queries.
+- [2016_ClickHouse ![code](https://ng-tech.icu/assets/code.svg)](https://ClickHouse.yandex/): ClickHouse is an open source column-oriented database management system capable of real time generation of analytical data reports using SQL queries.
 
-- [2017~Druid ![code](https://ng-tech.icu/assets/code.svg)](http://druid.io/): Apache Druid (incubating) is a high performance analytics data store for event-driven data.
+- [2017_Druid ![code](https://ng-tech.icu/assets/code.svg)](http://druid.io/): Apache Druid (incubating) is a high performance analytics data store for event-driven data.
 
-- [2017~Mondrian ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pentaho/mondrian): Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time.
+- [2017_Mondrian ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pentaho/mondrian): Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time.
 
-- [2021~Pinot ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/linkedin/pinot): Pinot is a realtime distributed OLAP datastore, which is used at LinkedIn to deliver scalable real time analytics with low latency.
+- [2021_Pinot ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/linkedin/pinot): Pinot is a realtime distributed OLAP datastore, which is used at LinkedIn to deliver scalable real time analytics with low latency.
 
-- [2021~Datafuse ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/datafuselabs/datafuse): A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy
+- [2021_Datafuse ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/datafuselabs/datafuse): A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy
 
-- [2023~ByConity ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ByConity/ByConity)](https://github.com/ByConity/ByConity): ByConity is a data warehouse designed for changes in modern cloud architecture. It adopts a cloud-native architecture design to meet the requirements of data warehouse users for flexible scaling, separation of reads and writes, resource isolation, and strong data consistency. At the same time, it provides excellent query and write performance.
+- [2023_ByConity ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ByConity/ByConity)](https://github.com/ByConity/ByConity): ByConity is a data warehouse designed for changes in modern cloud architecture. It adopts a cloud-native architecture design to meet the requirements of data warehouse users for flexible scaling, separation of reads and writes, resource isolation, and strong data consistency. At the same time, it provides excellent query and write performance.
 
-- [2023~ScratchDB ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/scratchdata/ScratchDB)](https://github.com/scratchdata/ScratchDB): ScratchDB is a wrapper around Clickhouse that lets you input arbitrary JSON and perform analytical queries against it. It automatically creates tables and columns when new data is added.
+- [2023_ScratchDB ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/scratchdata/ScratchDB)](https://github.com/scratchdata/ScratchDB): ScratchDB is a wrapper around Clickhouse that lets you input arbitrary JSON and perform analytical queries against it. It automatically creates tables and columns when new data is added.
 
 ## OLAP Browser
 
@@ -42,19 +42,18 @@
 
 - [Poli ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/shzlw/poli): An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
 
-- [2020~Cube.js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/cube-js/cube)](https://github.com/cube-js/cube): Cube is the semantic layer for building data applications. It helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application.
+- [2020_Cube.js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/cube-js/cube)](https://github.com/cube-js/cube): Cube is the semantic layer for building data applications. It helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application.
 
 - [2015-Caravel ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/airbnb/caravel): Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 
-- [2016~Redash ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/getredash/redash): Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [2016_Redash ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/getredash/redash): Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
-- [2020~Rath ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Kanaries/Rath)](https://github.com/Kanaries/Rath): RATH is beyond an open-source alternative to Data Analysis and Visualization tools such as Tableau. It automates your Exploratory Data Analysis workflow with an Augmented Analytic engine by discovering patterns, insights, causals and presents those insights with powerful auto-generated multi-dimensional data visualization.
+- [2020_Rath ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Kanaries/Rath)](https://github.com/Kanaries/Rath): RATH is beyond an open-source alternative to Data Analysis and Visualization tools such as Tableau. It automates your Exploratory Data Analysis workflow with an Augmented Analytic engine by discovering patterns, insights, causals and presents those insights with powerful auto-generated multi-dimensional data visualization.
 
 ## MPP
 
 - [Presto ![code](https://ng-tech.icu/assets/code.svg)](https://prestodb.io/): Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.
-
-  - [2022~Trino ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/trinodb/trino)](https://github.com/trinodb/trino):
+  - [2022_Trino ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/trinodb/trino)](https://github.com/trinodb/trino):
 
 - [Materialize ![code](https://ng-tech.icu/assets/code.svg)](https://materialize.com/docs/): Materialize is a streaming database for real-time applications. Materialize accepts input data from a variety of streaming sources (e.g. Kafka) and files (e.g. CSVs), and lets you query them using SQL.
 
@@ -68,23 +67,23 @@
 
 - [Davinci ![code](https://ng-tech.icu/assets/code.svg)](https://edp963.github.io/davinci/): Davinci 是一个 DVaaS（Data Visualization as a Service）平台解决方案，面向业务人员/数据工程师/数据分析师/数据科学家，致力于提供一站式数据可视化解决方案。既可作为公有云/私有云独立部署使用，也可作为可视化插件集成到三方系统。用户只需在可视化 UI 上简单配置即可服务多种数据可视化应用，并支持高级交互/行业分析/模式探索/社交智能等可视化功能。
 
-- [2020~Querybook ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pinterest/querybook): Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.
+- [2020_Querybook ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pinterest/querybook): Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.
 
-- [2021~DataEase ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dataease/dataease): DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化。DataEase 支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。
+- [2021_DataEase ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dataease/dataease): DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化。DataEase 支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。
 
-- [2023~DataLens ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/datalens-tech/datalens)](https://github.com/datalens-tech/datalens): DataLens is a modern business intelligence and data visualization system. It was developed and extensively used as a primary BI tool in Yandex and is also available as a part of Yandex Cloud platform.
+- [2023_DataLens ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/datalens-tech/datalens)](https://github.com/datalens-tech/datalens): DataLens is a modern business intelligence and data visualization system. It was developed and extensively used as a primary BI tool in Yandex and is also available as a part of Yandex Cloud platform.
 
-- [2024~Quary ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/quarylabs/quary)](https://github.com/quarylabs/quary): 🔌 Connect to their Database, 📖 Write SQL queries to transform, organize, and document tables in a database.
+- [2024_Quary ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/quarylabs/quary)](https://github.com/quarylabs/quary): 🔌 Connect to their Database, 📖 Write SQL queries to transform, organize, and document tables in a database.
 
 ## Data Lake
 
 - [Apache Hudi ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/apache/incubator-hudi): Upserts, Deletes And Incremental Processing on Big Data.
 
-- [2023~Paimon ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/apache/incubator-paimon)](https://github.com/apache/incubator-paimon): Apache Paimon(incubating) is a streaming data lake platform that supports high-speed data ingestion, change data tracking and efficient real-time analytics.
+- [2023_Paimon ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/apache/incubator-paimon)](https://github.com/apache/incubator-paimon): Apache Paimon(incubating) is a streaming data lake platform that supports high-speed data ingestion, change data tracking and efficient real-time analytics.
 
 ## Streaming Database
 
-- [2023~RisingWave ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/singularity-data/risingwave): RisingWave is a cloud-native streaming database that uses SQL as the interface language. It is designed to reduce the complexity and cost of building real-time applications. RisingWave consumes streaming data, performs continuous queries, and updates results dynamically. As a database system, RisingWave maintains results inside its own storage and allows users to access data efficiently.
+- [2023_RisingWave ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/singularity-data/risingwave): RisingWave is a cloud-native streaming database that uses SQL as the interface language. It is designed to reduce the complexity and cost of building real-time applications. RisingWave consumes streaming data, performs continuous queries, and updates results dynamically. As a database system, RisingWave maintains results inside its own storage and allows users to access data efficiently.
 
 # Data Aggregation
 
@@ -94,7 +93,7 @@
 
 - [dagster ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dagster-io/dagster): A data orchestrator for machine learning, analytics, and ETL.
 
-- [2023~Hamilton ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/DAGWorks-Inc/hamilton)](https://github.com/DAGWorks-Inc/hamilton): The general purpose micro-orchestration framework for building dataflows from python functions. Express data, ML, LLM pipelines/workflows, and web requests in a simple declarative manner. Hamilton also comes with a UI to visualize, catalog, and monitor your dataflows.
+- [2023_Hamilton ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/DAGWorks-Inc/hamilton)](https://github.com/DAGWorks-Inc/hamilton): The general purpose micro-orchestration framework for building dataflows from python functions. Express data, ML, LLM pipelines/workflows, and web requests in a simple declarative manner. Hamilton also comes with a UI to visualize, catalog, and monitor your dataflows.
 
 ## ETL
 
@@ -104,11 +103,11 @@
 
 - [dbt ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/fishtown-analytics/dbt): dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 
-- [2021~SeaTunnel ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/apache/incubator-seatunnel): SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
+- [2021_SeaTunnel ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/apache/incubator-seatunnel): SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
 
-- [2022~BitSail ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bytedance/bitsail): BitSail is a distributed high-performance data integration engine which supports batch, streaming and incremental scenarios. BitSail is widely used to synchronize hundreds of trillions of data every day.
+- [2022_BitSail ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bytedance/bitsail): BitSail is a distributed high-performance data integration engine which supports batch, streaming and incremental scenarios. BitSail is widely used to synchronize hundreds of trillions of data every day.
 
-- [2023~DataCap ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/EdurtIO/datacap): DataCap 是数据转换、集成和可视化的集成软件。支持多种数据源，文件类型，大数据相关数据库，关系型数据库，NoSQL 数据库等。通过软件可以实现管理多种数据源，对该源下的数据进行各种操作转换，制作数据图表，监控数据源等各种功能。
+- [2023_DataCap ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/EdurtIO/datacap): DataCap 是数据转换、集成和可视化的集成软件。支持多种数据源，文件类型，大数据相关数据库，关系型数据库，NoSQL 数据库等。通过软件可以实现管理多种数据源，对该源下的数据进行各种操作转换，制作数据图表，监控数据源等各种功能。
 
 ## CDC & Data Pipeline
 
@@ -120,6 +119,6 @@
 
 - [Arc ![code](https://ng-tech.icu/assets/code.svg)](https://arc.tripl.ai/): Arc is an opinionated framework for defining predictable, repeatable and manageable data transformation pipelines;
 
-- [2021~Vector ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vectordotdev/vector): Vector is a high-performance, end-to-end (agent & aggregator) observability data pipeline that puts you in control of your observability data. Collect, transform, and route all your logs, metrics, and traces to any vendors you want today and any other vendors you may want tomorrow. Vector enables dramatic cost reduction, novel data enrichment, and data security where you need it, not where it is most convenient for your vendors. Additionally, it is open source and up to 10x faster than every alternative in the space.
+- [2021_Vector ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vectordotdev/vector): Vector is a high-performance, end-to-end (agent & aggregator) observability data pipeline that puts you in control of your observability data. Collect, transform, and route all your logs, metrics, and traces to any vendors you want today and any other vendors you may want tomorrow. Vector enables dramatic cost reduction, novel data enrichment, and data security where you need it, not where it is most convenient for your vendors. Additionally, it is open source and up to 10x faster than every alternative in the space.
 
-- [2022~Airbyte ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/airbytehq/airbyte)](https://github.com/airbytehq/airbyte): Data integration platform for ELT pipelines from APIs, databases & files to databases, warehouses & lakes
+- [2022_Airbyte ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/airbytehq/airbyte)](https://github.com/airbytehq/airbyte): Data integration platform for ELT pipelines from APIs, databases & files to databases, warehouses & lakes

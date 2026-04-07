@@ -12,27 +12,27 @@ A curated list of Artificial Intelligence (AI) courses and books, aggerated with
 
 - [2014-DataScience From Scratch》📚](http://shop.oreilly.com/product/0636920033400.do): In this book, you’ll learn how many of the most fundamental data science tools and algorithms work by implementing them from scratch.
 
-- [2016~Python Data Science Handbook》📚](https://github.com/jakevdp/PythonDataScienceHandbook):Jupyter Notebooks for the Python Data Science Handbook
+- [2016_Python Data Science Handbook》📚](https://github.com/jakevdp/PythonDataScienceHandbook):Jupyter Notebooks for the Python Data Science Handbook
 
-- [2019~Another Book on Data Science》📚](https://www.anotherbookondatascience.com): Learn R and Python in Parallel
+- [2019_Another Book on Data Science》📚](https://www.anotherbookondatascience.com): Learn R and Python in Parallel
 
 # Toolkits
 
 ## TensorFlow
 
-- [2016~Building Machine Learning Projects with TensorFlow》📚](https://parg.co/Y6s): Engaging projects that will teach you how complex data can be exploited to gain the most insight.
+- [2016_Building Machine Learning Projects with TensorFlow》📚](https://parg.co/Y6s): Engaging projects that will teach you how complex data can be exploited to gain the most insight.
 
-- [2017~TensorFlow Book》📚](https://github.com/BinRoot/TensorFlow-Book): Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
+- [2017_TensorFlow Book》📚](https://github.com/BinRoot/TensorFlow-Book): Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
 
-- [2019~简单粗暴 TensorFlow 2.0 | A Concise Handbook of TensorFlow 2.0》📚](https://tf.wiki): 这是一本简明的 TensorFlow 2.0 入门指导手册，基于 Keras 和 Eager Execution（即时运行）模式，力图让具备一定机器学习及 Python 基础的开发者们快速上手 TensorFlow 2.0。
+- [2019\_简单粗暴 TensorFlow 2.0 | A Concise Handbook of TensorFlow 2.0》📚](https://tf.wiki): 这是一本简明的 TensorFlow 2.0 入门指导手册，基于 Keras 和 Eager Execution（即时运行）模式，力图让具备一定机器学习及 Python 基础的开发者们快速上手 TensorFlow 2.0。
 
-- [2019~深度学习开源书，基于 TensorFlow 2.0 实战》📚](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book): Open source Deep Learning book, based on TensorFlow 2.0 framework.
+- [2019\_深度学习开源书，基于 TensorFlow 2.0 实战》📚](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book): Open source Deep Learning book, based on TensorFlow 2.0 framework.
 
 ## PyTorch
 
-- [2019~《Deep Learning with PyTorch》📚](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf): This book is intended to be a starting point for software engineers, data scientists, and motivated students who are fluent in Python and want to become comfortable using PyTorch to build deep learning projects.
+- [2019\_《Deep Learning with PyTorch》📚](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf): This book is intended to be a starting point for software engineers, data scientists, and motivated students who are fluent in Python and want to become comfortable using PyTorch to build deep learning projects.
 
-- [2019~《Dive into DL PyTorch》📚](https://github.com/ShusenTang/Dive-into-DL-PyTorch): 本项目将《动手学深度学习》 原书中 MXNet 代码实现改为 PyTorch 实现。原书作者：阿斯顿·张、李沐、扎卡里 C. 立顿、亚历山大 J. 斯莫拉以及其他社区贡献者，GitHub 地址：https://github.com/d2l-ai/d2l-zh
+- [2019\_《Dive into DL PyTorch》📚](https://github.com/ShusenTang/Dive-into-DL-PyTorch): 本项目将《动手学深度学习》 原书中 MXNet 代码实现改为 PyTorch 实现。原书作者：阿斯顿·张、李沐、扎卡里 C. 立顿、亚历山大 J. 斯莫拉以及其他社区贡献者，GitHub 地址：https://github.com/d2l-ai/d2l-zh
 
 ---
 

@@ -6,7 +6,7 @@
 
 - [bfs: 支撑 Bilibili 的小文件存储系统](https://parg.co/RWU): bfs 是为了在 B 站遇到的一个急需解决的小问题开发的项目。
 
-- [2019~360 自研分布式海量小文件存储系统的设计与实现](https://mp.weixin.qq.com/s/xWMeU8W7Fy8vgSblyN1fOA): 本文介绍 360 基础架构团队自研的分布式海量小文件存储系统——NebulasFs。
+- [2019_360 自研分布式海量小文件存储系统的设计与实现](https://mp.weixin.qq.com/s/xWMeU8W7Fy8vgSblyN1fOA): 本文介绍 360 基础架构团队自研的分布式海量小文件存储系统——NebulasFs。
 
 # GridFS
 

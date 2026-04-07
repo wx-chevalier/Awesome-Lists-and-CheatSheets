@@ -2,7 +2,7 @@
 
 - [browsh ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/browsh-org/browsh): A fully interactive, realtime, and modern text-based browser rendered to TTYs and browsers
 
-- [2021~BrowserBox ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dosyago/BrowserBox)](https://github.com/dosyago/BrowserBox): Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own. Full scope double reverse web proxy with multi-tab, mobile-ready browser UI frontend. Plus co-browsing, advanced adaptive streaming, secure document viewing and more! But only in the Pro version. Get BB today! Se…
+- [2021_BrowserBox ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/dosyago/BrowserBox)](https://github.com/dosyago/BrowserBox): Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own. Full scope double reverse web proxy with multi-tab, mobile-ready browser UI frontend. Plus co-browsing, advanced adaptive streaming, secure document viewing and more! But only in the Pro version. Get BB today! Se…
 
 ## Engine
 
@@ -28,6 +28,6 @@
 
 - [headless-devtools ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/cowchimp/headless-devtools): Lets you perform Chrome DevTools actions from code by leveraging Headless Chrome+Puppeteer.
 
-- [2020~Kasaya ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/syscolabs/kasaya): A "WYSIWYG" scripting language and runtime for browser automation.
+- [2020_Kasaya ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/syscolabs/kasaya): A "WYSIWYG" scripting language and runtime for browser automation.
 
-- [2019~Playwright ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/microsoft/playwright): Playwright is a Node library to automate the Chromium, WebKit and Firefox browsers with a single API. It enables cross-browser web automation that is ever-green, capable, reliable and fast.
+- [2019_Playwright ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/microsoft/playwright): Playwright is a Node library to automate the Chromium, WebKit and Firefox browsers with a single API. It enables cross-browser web automation that is ever-green, capable, reliable and fast.

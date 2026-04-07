@@ -4,11 +4,11 @@
 
 # Overview
 
-- [2017~Why We Chose Typescript](https://redditblog.com/2017/06/30/why-we-chose-typescript/): Frontend engineering is in a very different state than it was when Reddit was first conceived.
+- [2017_Why We Chose Typescript](https://redditblog.com/2017/06/30/why-we-chose-typescript/): Frontend engineering is in a very different state than it was when Reddit was first conceived.
 
 ## Case Study
 
-- [2017~TypeScript at Slack](https://slack.engineering/typescript-at-slack-a81307fa288d)
+- [2017_TypeScript at Slack](https://slack.engineering/typescript-at-slack-a81307fa288d)
 
 # Resources
 
@@ -16,9 +16,9 @@
 
 - [2015-《TypeScript Handbook》📚](https://github.com/Microsoft/TypeScript-Handbook): The TypeScript Handbook is a comprehensive guide to the TypeScript language.
 
-- [2016~《TypeScript Deep Dive》📚](https://basarat.gitbooks.io/typescript/content/index.html): This is based on the lessons from Stack Overflow / DefinitelyTyped and general engagement with the TypeScript community. 中文版参考 [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)。
+- [2016\_《TypeScript Deep Dive》📚](https://basarat.gitbooks.io/typescript/content/index.html): This is based on the lessons from Stack Overflow / DefinitelyTyped and general engagement with the TypeScript community. 中文版参考 [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)。
 
-- [2023~《The Concise TypeScript Book》📚](https://github.com/gibbok/typescript-book): The Concise TypeScript Book provides a comprehensive and succinct overview of TypeScript's capabilities. It offers clear explanations covering all aspects found in the latest version of the language, from its powerful type system to advanced features. Whether you're a beginner or an experienced developer, this book is an invaluable resource to enhance your understanding and proficiency in TypeScript.
+- [2023\_《The Concise TypeScript Book》📚](https://github.com/gibbok/typescript-book): The Concise TypeScript Book provides a comprehensive and succinct overview of TypeScript's capabilities. It offers clear explanations covering all aspects found in the latest version of the language, from its powerful type system to advanced features. Whether you're a beginner or an experienced developer, this book is an invaluable resource to enhance your understanding and proficiency in TypeScript.
 
 ## Collection
 
@@ -30,25 +30,25 @@
 
 ## Series
 
-- [2018~Surviving the TypeScript Ecosystem #Series#](https://medium.com/@KevinBGreene/surviving-the-typescript-ecosystem-writing-type-safe-ish-javascript-code-1e8375819d2e): I won’t be explaining anything around the JavaScript ecosystem and I won’t be covering with any depth TypeScript features that are intuitive and/or consistent with other statically-typed languages.
+- [2018_Surviving the TypeScript Ecosystem #Series#](https://medium.com/@KevinBGreene/surviving-the-typescript-ecosystem-writing-type-safe-ish-javascript-code-1e8375819d2e): I won’t be explaining anything around the JavaScript ecosystem and I won’t be covering with any depth TypeScript features that are intuitive and/or consistent with other statically-typed languages.
 
-- [2019~TypeScript Evolution #Series#](https://mariusschulz.com/blog/series/typescript-evolution): The TypeScript Evolution series consists of 40 posts.
+- [2019_TypeScript Evolution #Series#](https://mariusschulz.com/blog/series/typescript-evolution): The TypeScript Evolution series consists of 40 posts.
 
-- [2023~TypeScript 教程 #Series#](https://github.com/wangdoc/typescript-tutorial): TypeScript 开源教程，介绍基本概念和用法，面向初学者。
+- [2023_TypeScript 教程 #Series#](https://github.com/wangdoc/typescript-tutorial): TypeScript 开源教程，介绍基本概念和用法，面向初学者。
 
 # Tutorial
 
-- [2016~Let's Learn TypeScript](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/17-typescript)
+- [2016_Let's Learn TypeScript](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/17-typescript)
 
-- [2017~Common TypeScript Error Messages](https://www.sitepen.com/blog/2017/11/01/common-typescript-error-messages/)
+- [2017_Common TypeScript Error Messages](https://www.sitepen.com/blog/2017/11/01/common-typescript-error-messages/)
 
-- [2018~Advanced functional programming in TypeScript](https://codewithstyle.info/advanced-functional-programming-typescript-monads-generators/): In this post, you’ll see how to take advantage of generators to make the monadic code more readable.
+- [2018_Advanced functional programming in TypeScript](https://codewithstyle.info/advanced-functional-programming-typescript-monads-generators/): In this post, you’ll see how to take advantage of generators to make the monadic code more readable.
 
 - [TypeScript Practical Introduction](https://parg.co/UsM): Let's learn TypeScript features through practical examples.
 
-- [2021~10 bad TypeScript habits to break this year](https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/): TypeScript and JavaScript have steadily evolved over the last years, and some of the habits we built over the last decades have become obsolete. Some might never have been meaningful. Here's a list of 10 habits that we all should break.
+- [2021_10 bad TypeScript habits to break this year](https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/): TypeScript and JavaScript have steadily evolved over the last years, and some of the habits we built over the last decades have become obsolete. Some might never have been meaningful. Here's a list of 10 habits that we all should break.
 
-- [2022~beginners-typescript ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/total-typescript/beginners-typescript-tutorial): An interactive TypeScript tutorial for beginners.
+- [2022_beginners-typescript ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/total-typescript/beginners-typescript-tutorial): An interactive TypeScript tutorial for beginners.
 
 ## Advanced Types
 

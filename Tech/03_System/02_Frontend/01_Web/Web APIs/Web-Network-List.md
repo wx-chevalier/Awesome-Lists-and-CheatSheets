@@ -4,7 +4,7 @@
 
 ## XMLHTTPRequest
 
-- [2016~前端必备 HTTP 技能之 XMLHttpRequest 对象详解](https://www.jianshu.com/p/7dc28f991f99): XMLHttpRequest(XHR)是一个 API 对象，其中的方法可以用来在浏览器和服务器端传输数据。这个对象是浏览器的 js 环境提供的。
+- [2016\_前端必备 HTTP 技能之 XMLHttpRequest 对象详解](https://www.jianshu.com/p/7dc28f991f99): XMLHttpRequest(XHR)是一个 API 对象，其中的方法可以用来在浏览器和服务器端传输数据。这个对象是浏览器的 js 环境提供的。
 
 - [你真的会使用 XMLHttpRequest 吗？](https://segmentfault.com/a/1190000004322487): 这篇文章就是参考 W3C 的 XMLHttpRequest 标准和结合一些实践验证总结而来的。
 
@@ -24,10 +24,10 @@
 
 ## CORS
 
-- [2017~CORS — a guided tour](https://parg.co/bOF): Cross-origin resource sharing
+- [2017_CORS — a guided tour](https://parg.co/bOF): Cross-origin resource sharing
 
 - [MDN-HTTP 访问控制(CORS)](https://parg.co/UGw)
 
-- [2018~Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors): In this article, we will dive deeper into this topic, trying to understand what problem CORS really solves. However, we will start with the Same-Origin Policy (SOP) concept.
+- [2018_Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors): In this article, we will dive deeper into this topic, trying to understand what problem CORS really solves. However, we will start with the Same-Origin Policy (SOP) concept.
 
 # File Transfer | 文件传输

@@ -1,10 +1,10 @@
 # Graphics List | 绘图基础资料索引
 
-- [2019~Images done right: Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-done-right-web-graphics-good-to-the-last-byte-optimization-techniques): Study the theory behind digital images and how humans perceive them—to improve the experience for your users.
+- [2019_Images done right: Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-done-right-web-graphics-good-to-the-last-byte-optimization-techniques): Study the theory behind digital images and how humans perceive them—to improve the experience for your users.
 
 # Canvas
 
-- [2017~匠心打造 Canvas 签名组件](http://louiszhai.github.io/2017/07/07/canvas-draw/)
+- [2017\_匠心打造 Canvas 签名组件](http://louiszhai.github.io/2017/07/07/canvas-draw/)
 
 - [HTML canvas tutorial](https://skilled.co/html-canvas/)
 

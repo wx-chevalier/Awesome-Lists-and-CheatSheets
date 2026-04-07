@@ -4,19 +4,19 @@
 
 # Overview
 
-- [2017~Java 老矣，尚能饭否？](http://www.infoq.com/cn/articles/is-java-out-of-date): 从 1995 年第一个版本发布到现在，Java 语言已经在跌宕起伏中走过了 22 年，最新的 Java 版本也已经迭代到 Java 9。
+- [2017_Java 老矣，尚能饭否？](http://www.infoq.com/cn/articles/is-java-out-of-date): 从 1995 年第一个版本发布到现在，Java 语言已经在跌宕起伏中走过了 22 年，最新的 Java 版本也已经迭代到 Java 9。
 
-- [2019~可能是国内第一篇全面解读 Java 现状及趋势的文章](https://mp.weixin.qq.com/s/-Q1qJY9nytCnyLKunb-x4Q): 基于以上两个原因，我们决定策划和撰写这份《2019 中国 Java 发展趋势报告》，要把 Java 在中国发展的独特性反映出来，同时也希望大家对 Java 有一个正确的认识：既不捧杀，也不要妖魔化。
+- [2019\_可能是国内第一篇全面解读 Java 现状及趋势的文章](https://mp.weixin.qq.com/s/-Q1qJY9nytCnyLKunb-x4Q): 基于以上两个原因，我们决定策划和撰写这份《2019 中国 Java 发展趋势报告》，要把 Java 在中国发展的独特性反映出来，同时也希望大家对 Java 有一个正确的认识：既不捧杀，也不要妖魔化。
 
 ## CheatSheet
 
 - [Java Programming Cheatsheet From Princeton](http://introcs.cs.princeton.edu/java/11cheatsheet/): This appendix summarizes the most commonly-used Java language features in the textbook.
 
-- [2017~Java 语法清单](https://zhuanlan.zhihu.com/p/25578170)
+- [2017_Java 语法清单](https://zhuanlan.zhihu.com/p/25578170)
 
 ## Case Study | 案例分析
 
-- [2017~阿里巴巴 Java 开发手册](https://github.com/alibaba/p3c)：《阿里巴巴 Java 开发手册》是阿里巴巴集团技术团队的集体经验总结，经历了多次大规模一线实战的检验及不断的完善，反馈给广大开发者。
+- [2017\_阿里巴巴 Java 开发手册](https://github.com/alibaba/p3c)：《阿里巴巴 Java 开发手册》是阿里巴巴集团技术团队的集体经验总结，经历了多次大规模一线实战的检验及不断的完善，反馈给广大开发者。
 
 # Resources
 
@@ -26,15 +26,14 @@
 
 - [2015-The CERT ® Oracle ® Secure Coding Standard for Java》📚](https://ptgmedia.pearsoncmg.com/images/9780321803955/samplepages/0321803957.pdf)
 
-- [2017~Think Java》📚](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
+- [2017_Think Java》📚](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
 
-- [2017~Introduction To Programming In Java》📚](http://introcs.cs.princeton.edu/java/home/): Princeton 出品的 Java 入门书籍
+- [2017_Introduction To Programming In Java》📚](http://introcs.cs.princeton.edu/java/home/): Princeton 出品的 Java 入门书籍
 
-- [2016~Think in Java》📚](https://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486): Thinking In Java should be read cover to cover by every Java programmer, then kept close at hand for frequent reference. The exercises are challenging, and the chapter on Collections is superb!
-
+- [2016_Think in Java》📚](https://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486): Thinking In Java should be read cover to cover by every Java programmer, then kept close at hand for frequent reference. The exercises are challenging, and the chapter on Collections is superb!
   - [Thinking in Java (Java 编程思想) 中文版](https://github.com/quanke/think-in-java)
 
-- [2017~《Effective Java》📚](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997): Since this Jolt-award winning classic was last updated in 2008, the Java programming environment has changed dramatically. Java 7 and Java 8 introduced new features and functions including, forEach() method in Iterable interface, default and static methods in Interfaces, Functional Interfaces and Lambda Expressions, Java Stream API for Bulk Data Operations on Collections, Java Time API, Collection API improvements, Concurrency API improvements, and Java IO improvements.
+- [2017\_《Effective Java》📚](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997): Since this Jolt-award winning classic was last updated in 2008, the Java programming environment has changed dramatically. Java 7 and Java 8 introduced new features and functions including, forEach() method in Iterable interface, default and static methods in Interfaces, Functional Interfaces and Lambda Expressions, Java Stream API for Bulk Data Operations on Collections, Java Time API, Collection API improvements, Concurrency API improvements, and Java IO improvements.
   - [Effective-Java-3rd-edition-Chinese-English-bilingual》📚](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual): Effective Java（第 3 版）各章节的中英文学习参考，希望对 Java 技术的提高有所帮助，欢迎通过 issue 或 pr 提出建议和修改意见。
 
 ### Concurrent
@@ -53,7 +52,7 @@
 
 ### Spring
 
-- Spring 中文文档系列：[Spring MVC 4.2.4.RELEASE 中文文档](https://spring-mvc.linesh.tw/)，[Spring Framework 5 中文文档](https://lfvepclr.gitbooks.io/spring-framework-5-doc-cn/content/)，[Spring Framework 中文文档](https://www.docs4dev.com/docs/zh/spring-framework/5.1.3.RELEASE/reference)，[2018~Spring Boot Reference Guide》📚](https://docs.spring.io/spring-boot/docs/2.1.x-SNAPSHOT/reference/html/)，中文版本参考 [SpringBoot 参考指南](https://www.gitbook.com/book/qbgbook/spring-boot-reference-guide-zh/details)。
+- Spring 中文文档系列：[Spring MVC 4.2.4.RELEASE 中文文档](https://spring-mvc.linesh.tw/)，[Spring Framework 5 中文文档](https://lfvepclr.gitbooks.io/spring-framework-5-doc-cn/content/)，[Spring Framework 中文文档](https://www.docs4dev.com/docs/zh/spring-framework/5.1.3.RELEASE/reference)，[2018_Spring Boot Reference Guide》📚](https://docs.spring.io/spring-boot/docs/2.1.x-SNAPSHOT/reference/html/)，中文版本参考 [SpringBoot 参考指南](https://www.gitbook.com/book/qbgbook/spring-boot-reference-guide-zh/details)。
 
 - [Spring Boot 编程思想》📚](https://mercyblitz.github.io/books/thinking-in-spring-boot/): 本书全名为《Spring Boot 编程思想》，是以 Spring Boot 2.0 为讨论的主线，讨论的范围将涵盖 Spring Boot 1.x 的所有版本，以及所关联的 Spring Framework 版本。
 
@@ -75,85 +74,85 @@
 
 - [来自 GeniusVJR 的学习笔记 #Blog#](https://github.com/GeniusVJR/LearningNotes)
 
-- [2019~Java3y #Blog#](https://github.com/ZhongFuCheng3y/3y): 从 Java 基础、JavaWeb 基础到常用的框架再到面试题都有完整的教程，几乎涵盖了 Java 后端必备的知识点
+- [2019_Java3y #Blog#](https://github.com/ZhongFuCheng3y/3y): 从 Java 基础、JavaWeb 基础到常用的框架再到面试题都有完整的教程，几乎涵盖了 Java 后端必备的知识点
 
 - [Java Specialists #Blog#](https://www.javaspecialists.eu/): From expert level specialists articles, to inhouse concurrency courses to emergency consulting.
 
 ## Collection | 其他资源集锦
 
-- [2017~在 Java 路上，我看过的一些书、源码和框架 🗃️](http://www.jianshu.com/p/4a41ee88bd82)
+- [2017\_在 Java 路上，我看过的一些书、源码和框架 🗃️](http://www.jianshu.com/p/4a41ee88bd82)
 
 - [Java 程序员们值得一看的好书推荐 🗃️](https://zhuanlan.zhihu.com/p/23444919)
 
-- [2017~Best Java Sites 🗃️](http://www.baeldung.com/java-blogs): There are several “Top Java Blogs” pages out there – but also a lot of noise. Some of these blogs are abandoned with the last postin 2008, some have simply switched focused from Java to something else. Others are gone altogether.
+- [2017_Best Java Sites 🗃️](http://www.baeldung.com/java-blogs): There are several “Top Java Blogs” pages out there – but also a lot of noise. Some of these blogs are abandoned with the last postin 2008, some have simply switched focused from Java to something else. Others are gone altogether.
 
 - [Java 学习中的 99 个实践问题 🗃️](https://github.com/shekhargulati/99-problems/blob/master/java8/README.md)
 
 - [Java 资源大全中文版 🗃️](https://github.com/jobbole/awesome-java-cn): Java 资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 
-- [2018~Java 学习指南 🗃️](https://github.com/Snailclimb/JavaGuide): 一份涵盖大部分 Java 程序员所需要掌握的核心知识，正在一步一步慢慢完善，期待您的参与。
+- [2018_Java 学习指南 🗃️](https://github.com/Snailclimb/JavaGuide): 一份涵盖大部分 Java 程序员所需要掌握的核心知识，正在一步一步慢慢完善，期待您的参与。
 
-- [2020~Java Family 🗃️](https://github.com/AobingJava/JavaFamily): 【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。
+- [2020_Java Family 🗃️](https://github.com/AobingJava/JavaFamily): 【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。
 
-- [2018~Java Interview 🗃️](https://github.com/crossoverJie/Java-Interview): 多数是一些 Java 基础知识、底层原理、算法详解。也有上层应用设计，其中不乏一些大厂面试真题。
+- [2018_Java Interview 🗃️](https://github.com/crossoverJie/Java-Interview): 多数是一些 Java 基础知识、底层原理、算法详解。也有上层应用设计，其中不乏一些大厂面试真题。
 
-- [2022~toBeBetterJavaer 🗃️](https://github.com/itwanger/toBeBetterJavaer): 一份通俗易懂、风趣幽默的 Java 学习指南，内容涵盖 Java 基础、Java 并发编程、Java 虚拟机、Java 企业级开发、Java 面试等核心知识点。学 Java，就认准 Java 程序员进阶之路 😄
+- [2022_toBeBetterJavaer 🗃️](https://github.com/itwanger/toBeBetterJavaer): 一份通俗易懂、风趣幽默的 Java 学习指南，内容涵盖 Java 基础、Java 并发编程、Java 虚拟机、Java 企业级开发、Java 面试等核心知识点。学 Java，就认准 Java 程序员进阶之路 😄
 
-- [2022~athena 🗃️ ![star](https://img.shields.io/github/stars/ZhongFuCheng3y/athena)](https://github.com/ZhongFuCheng3y/athena): 《对线面试官》是我连载了近一年一个讲人话面试系列，我曾经通过这些资料去斩获了不少的公司的 offer，基本涵盖了 Java 常问的知识点...
+- [2022_athena 🗃️ ![star](https://img.shields.io/github/stars/ZhongFuCheng3y/athena)](https://github.com/ZhongFuCheng3y/athena): 《对线面试官》是我连载了近一年一个讲人话面试系列，我曾经通过这些资料去斩获了不少的公司的 offer，基本涵盖了 Java 常问的知识点...
 
-- [2023~Java-Edge/Java-Interview-Tutorial 🗃️ ![star](https://img.shields.io/github/stars/Java-Edge/Java-Interview-Tutorial)](https://github.com/Java-Edge/Java-Interview-Tutorial): 建议 star，不支持 fork！涵盖互联网大厂数据库、缓存、DDD、设计模式、微服务架构、主流中间件框架原理及真实业务最佳实践。欢迎关注公众号：JavaEdge，一起交流学习！
+- [2023_Java-Edge/Java-Interview-Tutorial 🗃️ ![star](https://img.shields.io/github/stars/Java-Edge/Java-Interview-Tutorial)](https://github.com/Java-Edge/Java-Interview-Tutorial): 建议 star，不支持 fork！涵盖互联网大厂数据库、缓存、DDD、设计模式、微服务架构、主流中间件框架原理及真实业务最佳实践。欢迎关注公众号：JavaEdge，一起交流学习！
 
 ## Courses
 
-- [2018~The "REST with Spring" Classes 🎥](https://github.com/eugenp/tutorials): This project is a collection of small and focused tutorials - each covering a single and well defined area of development in the Java ecosystem. A strong focus of these is, of course, the Spring Framework - Spring, Spring Boot and Spring Securiyt. In additional to Spring, the following technologies are in focus: core Java, Jackson, HttpClient, Guava.
+- [2018_The "REST with Spring" Classes 🎥](https://github.com/eugenp/tutorials): This project is a collection of small and focused tutorials - each covering a single and well defined area of development in the Java ecosystem. A strong focus of these is, of course, the Spring Framework - Spring, Spring Boot and Spring Securiyt. In additional to Spring, the following technologies are in focus: core Java, Jackson, HttpClient, Guava.
 
-- [2019~Spring Boot 实践学习案例 🎥](https://github.com/JeffLi1993/springboot-learning-example): Spring boot 初学者及核心技术巩固的最佳实践。另外写博客，用 OpenWrite。
+- [2019_Spring Boot 实践学习案例 🎥](https://github.com/JeffLi1993/springboot-learning-example): Spring boot 初学者及核心技术巩固的最佳实践。另外写博客，用 OpenWrite。
 
 ## Series | 系列文章
 
 - [JCSprout #Series#](https://github.com/crossoverJie/JCSprout): Java Core Sprout: basic, concurrent, algorithm
 
-- [2020~重学 Java 设计模式 22 个互联网真实案例实战 #Series#](https://github.com/fuzhengwei/itstack-demo-design): 《技术好就一定能写出好代码吗？不能！再漂亮的马桶放到厨房都略显尴尬！无论是家里装修还是上道开车，只有通过实战才能快速将理论转变为技能。毕竟设计模式也是源于 克里斯托佛·亚历山大 的著作 《建筑模式语言》。
+- [2020\_重学 Java 设计模式 22 个互联网真实案例实战 #Series#](https://github.com/fuzhengwei/itstack-demo-design): 《技术好就一定能写出好代码吗？不能！再漂亮的马桶放到厨房都略显尴尬！无论是家里装修还是上道开车，只有通过实战才能快速将理论转变为技能。毕竟设计模式也是源于 克里斯托佛·亚历山大 的著作 《建筑模式语言》。
 
-- [2021~javacore #Series# ![star](https://img.shields.io/github/stars/dunwu/javacore)](https://github.com/dunwu/javacore): ☕ JavaCore 是对 Java 核心技术的经验总结。
+- [2021_javacore #Series# ![star](https://img.shields.io/github/stars/dunwu/javacore)](https://github.com/dunwu/javacore): ☕ JavaCore 是对 Java 核心技术的经验总结。
 
 ### Spring
 
 - [浅入浅出 Java Web #Series#](https://github.com/letiantian/another-tutorial-about-java-web): 浅入浅出 Java Web
 
-- [2017~Spring Cloud 系列文章](http://www.ityouknow.com/spring-cloud)
+- [2017_Spring Cloud 系列文章](http://www.ityouknow.com/spring-cloud)
 
-- [2016~Spring Boot 系列文章](http://www.ityouknow.com/spring-boot)
+- [2016_Spring Boot 系列文章](http://www.ityouknow.com/spring-boot)
 
-- [2016~Spring Boot For Beginners #Series#](https://github.com/in28minutes/SpringBootForBeginners): In this course, you will learn the cool things about Spring Boot and Spring Boot Starter Projects. We will develop a basic REST Service to manage questions of a survey.
+- [2016_Spring Boot For Beginners #Series#](https://github.com/in28minutes/SpringBootForBeginners): In this course, you will learn the cool things about Spring Boot and Spring Boot Starter Projects. We will develop a basic REST Service to manage questions of a survey.
 
-- [2017~Sprint Boot 完整教程 #Series#](https://blog.csdn.net/column/details/13466.html): 从功能性的角度开始讲解 Spring Boot 的用户，层层递进。全教程分为两个等级初级和高级，完美讲述了 Spring Boot 在开发过程中的使用。
+- [2017_Sprint Boot 完整教程 #Series#](https://blog.csdn.net/column/details/13466.html): 从功能性的角度开始讲解 Spring Boot 的用户，层层递进。全教程分为两个等级初级和高级，完美讲述了 Spring Boot 在开发过程中的使用。
 
 # Tutorial
 
-- [2021~DSA Bootcamp Java #Series#](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java): This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.
+- [2021_DSA Bootcamp Java #Series#](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java): This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.
 
 ## Java 8
 
-- [2017~Java 8 Tutorial](https://www.mkyong.com/tutorials/java-8-tutorials/): Some Java 8 examples, hope you like it.
+- [2017_Java 8 Tutorial](https://www.mkyong.com/tutorials/java-8-tutorials/): Some Java 8 examples, hope you like it.
 
-- [2017~Java 8 Top Tips by Jetbrains](https://blog.jetbrains.com/idea/2016/07/java-8-top-tips/)
+- [2017_Java 8 Top Tips by Jetbrains](https://blog.jetbrains.com/idea/2016/07/java-8-top-tips/)
 
 - [Java 8 简明教程](http://www.importnew.com/10360.html)
 
 ## Java 9
 
-- [2016~Java 9 Features](http://www.journaldev.com/13121/java-9-features-with-examples): Oracle Corporation is going to release Java SE 9 around end of March 2017. In this post, I’m going to discuss about “Java 9 Features” briefly with some examples. 中文译文参考[这里](http://6me.us/UFu)。
+- [2016_Java 9 Features](http://www.journaldev.com/13121/java-9-features-with-examples): Oracle Corporation is going to release Java SE 9 around end of March 2017. In this post, I’m going to discuss about “Java 9 Features” briefly with some examples. 中文译文参考[这里](http://6me.us/UFu)。
 
-- [2017~Top Resources to Get Started with Java 9](https://www.sitepoint.com/java-9-resources/)
+- [2017_Top Resources to Get Started with Java 9](https://www.sitepoint.com/java-9-resources/)
 
 - [Java 9 series: Variable Handles](https://www.voxxed.com/blog/2016/11/java-9-series-variable-handles/?utm_source=mybridge&utm_medium=ios&utm_campaign=read_more)
 
-- [2017~Java 8 Vs. Java 9: Get Ready for a New Era](https://www.romexsoft.com/blog/java-8-vs-java-9/): Learn what’s new in Java 9 - a comprehensive overview for business owners and developers.
+- [2017_Java 8 Vs. Java 9: Get Ready for a New Era](https://www.romexsoft.com/blog/java-8-vs-java-9/): Learn what’s new in Java 9 - a comprehensive overview for business owners and developers.
 
-- [2017~Java 9 Articles #Series#](https://blog.idrsolutions.com/2017/06/java-9-articles-series-index/): In this series we have put together some tutorials to explain what they are, why they are useful andquickly show you how to use them.
+- [2017_Java 9 Articles #Series#](https://blog.idrsolutions.com/2017/06/java-9-articles-series-index/): In this series we have put together some tutorials to explain what they are, why they are useful andquickly show you how to use them.
 
-- [2017~Wrapping up Java 9 new Features](https://aboullaite.me/wrapping-up-java-9-new-features/): In this write up we’re going to have quick, high level look at some of the new features;
+- [2017_Wrapping up Java 9 new Features](https://aboullaite.me/wrapping-up-java-9-new-features/): In this write up we’re going to have quick, high level look at some of the new features;
 
 ## Online Playground | 在线实践
 

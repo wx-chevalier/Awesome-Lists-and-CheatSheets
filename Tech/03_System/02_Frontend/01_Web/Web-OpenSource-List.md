@@ -2,7 +2,7 @@
 
 # Showcases
 
-- [2020~vanillawebprojects ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [2020_vanillawebprojects ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bradtraversy/vanillawebprojects): Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 
 - [YesPlayMusic ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/qier222/YesPlayMusic): 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
@@ -26,7 +26,7 @@
 
 ## Examples
 
-- [2021~50 Projects in 50 Days - HTML/CSS and JavaScript ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bradtraversy/50projects50days): 50+ mini web projects using HTML, CSS & JS
+- [2021_50 Projects in 50 Days - HTML/CSS and JavaScript ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bradtraversy/50projects50days): 50+ mini web projects using HTML, CSS & JS
 
 # Dev Tools
 
@@ -74,23 +74,23 @@
 
 - [Webpack ![code](https://ng-tech.icu/assets/code.svg)](https://webpack.js.org/): Webpack is a static module bundler for modern JavaScript applications.
 
-- [2017~Parcel ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/parcel-bundler/parcel): Blazing fast, zero configuration web application bundler.
+- [2017_Parcel ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/parcel-bundler/parcel): Blazing fast, zero configuration web application bundler.
 
 - [browserify ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/browserify/browserify): browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single `<script>` tag.
 
-- [2017~Backpack ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jaredpalmer/backpack): Backpack is minimalistic build system for Node.js. Inspired by Facebook's create-react-app, Zeit's Next.js, and Remy's Nodemon, Backpack lets you create modern Node.js apps and services with zero configuration.
+- [2017_Backpack ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jaredpalmer/backpack): Backpack is minimalistic build system for Node.js. Inspired by Facebook's create-react-app, Zeit's Next.js, and Remy's Nodemon, Backpack lets you create modern Node.js apps and services with zero configuration.
 
-- [2017~Microbundle ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/developit/microbundle): A zero-configuration bundler for tiny modules, powered by Rollup.
+- [2017_Microbundle ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/developit/microbundle): A zero-configuration bundler for tiny modules, powered by Rollup.
 
 - [FuseBox ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/fuse-box/fuse-box): FuseBox is a bundler/module loader that combines the power of webpack, JSPM and SystemJS.
 
-- [2019~Snowpack ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pikapkg/snowpack): Build web applications with less tooling and 10x faster iteration. No bundler required.
+- [2019_Snowpack ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pikapkg/snowpack): Build web applications with less tooling and 10x faster iteration. No bundler required.
 
-- [2020~Rome ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebookexperimental/rome): Rome is an experimental JavaScript toolchain. It includes a compiler, linter, formatter, bundler, testing framework and more. It aims to be a comprehensive tool for anything related to the processing of JavaScript source code.
+- [2020_Rome ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/facebookexperimental/rome): Rome is an experimental JavaScript toolchain. It includes a compiler, linter, formatter, bundler, testing framework and more. It aims to be a comprehensive tool for anything related to the processing of JavaScript source code.
 
-- [2021~Astro ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/snowpackjs/astro): Astro is a fresh but familiar approach to building websites. Astro combines decades of proven performance best practices with the DX improvements of the component-oriented era. Use your favorite JavaScript framework and automatically ship the bare-minimum amount of JavaScript—by default.
+- [2021_Astro ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/snowpackjs/astro): Astro is a fresh but familiar approach to building websites. Astro combines decades of proven performance best practices with the DX improvements of the component-oriented era. Use your favorite JavaScript framework and automatically ship the bare-minimum amount of JavaScript—by default.
 
-- [2022~egoist/tsup ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/egoist/tsup)](https://github.com/egoist/tsup): The simplest and fastest way to bundle your TypeScript libraries.
+- [2022_egoist/tsup ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/egoist/tsup)](https://github.com/egoist/tsup): The simplest and fastest way to bundle your TypeScript libraries.
 
 ### Obfuscator
 
@@ -104,7 +104,7 @@
 
 - [Stimulus ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/stimulusjs/stimulus): A modest JavaScript framework for the HTML you already have.
 
-- [2019~Neo ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/neomjs/neo): This is a new paradigm. If you want to enter a new era of making better Web Based User Interfaces, the following concepts will be addictive.
+- [2019_Neo ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/neomjs/neo): This is a new paradigm. If you want to enter a new era of making better Web Based User Interfaces, the following concepts will be addictive.
 
 ## HTML & CSS
 
@@ -112,7 +112,7 @@
 
 - [CSS Blocks ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/linkedin/css-blocks): CSS Blocks is an ergonomic, component-oriented CSS authoring system that compiles to high-performance stylesheets.
 
-- [2023~Open-Props ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/argyleink/open-props)](https://github.com/argyleink/open-props): CSS custom properties to help accelerate adaptive and consistent design.
+- [2023_Open-Props ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/argyleink/open-props)](https://github.com/argyleink/open-props): CSS custom properties to help accelerate adaptive and consistent design.
 
 ## State Management
 
@@ -128,23 +128,23 @@
 
 - [wepy ![code](https://ng-tech.icu/assets/code.svg)](https://tencent.github.io/wepy/): 让小程序支持组件化开发的框架，一个最受欢迎的小程序框架。
 
-- [2018~mpx ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/didi/mpx): A enhanced miniprogram framework with data reactivity and deep optimizition.
+- [2018_mpx ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/didi/mpx): A enhanced miniprogram framework with data reactivity and deep optimizition.
 
 - [Remax ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/remaxjs/remax): Remax 将 React 运行在小程序环境中，让你可以使用完整的 React 进行开发。
 
-- [2017~Taro ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/NervJS/taro): 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。
+- [2017_Taro ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/NervJS/taro): 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。
 
-- [2018~Chameleon ![code](https://ng-tech.icu/assets/code.svg)](https://cmljs.org/doc/): Chameleon /kəˈmiːlɪən/，简写 CML，中文名卡梅龙；中文意思变色龙，意味着就像变色龙一样能适应不同环境的跨端整体解决方案。
+- [2018_Chameleon ![code](https://ng-tech.icu/assets/code.svg)](https://cmljs.org/doc/): Chameleon /kəˈmiːlɪən/，简写 CML，中文名卡梅龙；中文意思变色龙，意味着就像变色龙一样能适应不同环境的跨端整体解决方案。
 
-- [2019~alita ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/areslabs/alita): 一套把 React Native 代码转换成微信小程序代码的转换引擎工具。我们不造轮子，不发明新框架，只是提供工具把 RN 扩展到微信小程序端。
+- [2019_alita ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/areslabs/alita): 一套把 React Native 代码转换成微信小程序代码的转换引擎工具。我们不造轮子，不发明新框架，只是提供工具把 RN 扩展到微信小程序端。
 
 - [uni-app ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dcloudio/uni-app): uni-app 是一个使用 Vue.js 开发跨平台应用的前端框架。
 
 ## Scaffold
 
-- [2018~@pika/web ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pikapkg/web): Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required.
+- [2018\_@pika/web ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pikapkg/web): Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required.
 
-- [2018~code-server ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/codercom/code-server): code-server is VS Code running on a remote server, accessible through the browser.
+- [2018_code-server ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/codercom/code-server): code-server is VS Code running on a remote server, accessible through the browser.
 
 ## Pattern Libraries
 
@@ -152,21 +152,21 @@
 
 - [Ant Design ![code](https://ng-tech.icu/assets/code.svg)](https://www.hugedomains.com/domain_profile.cfm?d=ant-design&e=com): An enterprise-class UI design language and React-based implementation.
 
-- [2019~Chakra UI ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/chakra-ui/chakra-ui): ⚡️Simple, Modular & Accessible UI Components for your React Applications.
+- [2019_Chakra UI ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/chakra-ui/chakra-ui): ⚡️Simple, Modular & Accessible UI Components for your React Applications.
 
-- [2020~headlessui ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tailwindlabs/headlessui): Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+- [2020_headlessui ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tailwindlabs/headlessui): Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 
 ### CSS Pattern Libraries
 
-- [2020~NES.css ![code](https://ng-tech.icu/assets/code.svg)](https://nostalgic-css.github.io/NES.css/): NES.css is NES-style (8bit-like) CSS Framework.
+- [2020_NES.css ![code](https://ng-tech.icu/assets/code.svg)](https://nostalgic-css.github.io/NES.css/): NES.css is NES-style (8bit-like) CSS Framework.
 
 ## SSR Fullstack
 
-- [2019~ssr ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ykfe/ssr): A most advanced ssr framework on Earth that implemented serverless-side render specification for faas and traditional web server.
+- [2019_ssr ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ykfe/ssr): A most advanced ssr framework on Earth that implemented serverless-side render specification for faas and traditional web server.
 
-- [2021~Remix ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/remix-run/remix): Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [2021_Remix ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/remix-run/remix): Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
-- [2022~Astro ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/withastro/astro): Build faster websites with Astro's next-gen island architecture 🏝✨
+- [2022_Astro ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/withastro/astro): Build faster websites with Astro's next-gen island architecture 🏝✨
 
 # Web APIs
 
@@ -190,7 +190,7 @@
 
 - [greenlet ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/developit/greenlet): Move an async function into its own thread, a simplified single-function version of workerize.
 
-- [2017~Comlink ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChromeLabs/comlink): Comlink’s goal is to make WebWorkers enjoyable. Comlink removes the mental barrier of thinking about postMessage and hides the fact that you are working with workers.
+- [2017_Comlink ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChromeLabs/comlink): Comlink’s goal is to make WebWorkers enjoyable. Comlink removes the mental barrier of thinking about postMessage and hides the fact that you are working with workers.
 
 ## Network
 
@@ -202,7 +202,7 @@
 
 - [2013-localForage ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/localForage/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 
-- [2023~kv.js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/HeyPuter/kv.js)](https://github.com/HeyPuter/kv.js): KV.JS is a fast, in-memory data store written in pure JavaScript, heavily inspired by Redis. It is capable of handling multiple data types, including strings, lists, sets, sorted sets, hashes, and geospatial indexes. Additionally, with more than 140 functions, KV.JS supports a vast variety of operations, ranging from SET, GET, EXPIRE, DEL to INCR, DECR, LPUSH, RPUSH, SADD, SREM, HSET, HGET, and many many more.
+- [2023_kv.js ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/HeyPuter/kv.js)](https://github.com/HeyPuter/kv.js): KV.JS is a fast, in-memory data store written in pure JavaScript, heavily inspired by Redis. It is capable of handling multiple data types, including strings, lists, sets, sorted sets, hashes, and geospatial indexes. Additionally, with more than 140 functions, KV.JS supports a vast variety of operations, ranging from SET, GET, EXPIRE, DEL to INCR, DECR, LPUSH, RPUSH, SADD, SREM, HSET, HGET, and many many more.
 
 ### Cookie
 
@@ -216,17 +216,17 @@
 
 - [LokiJS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/techfort/LokiJS): LokiJS is a document oriented database written in javascript, Its purpose is to store javascript objects as documents in a nosql fashion and retrieve them with a similar mechanism.
 
-- [2017~Lowdb ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/typicode/lowdb): Small JSON database for Node, Electron and the browser. Powered by Lodash.
+- [2017_Lowdb ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/typicode/lowdb): Small JSON database for Node, Electron and the browser. Powered by Lodash.
 
-- [2017~RxDB ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pubkey/rxdb): The reactive, serverless, client-side, offline-first database for your next javascript-application.
+- [2017_RxDB ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pubkey/rxdb): The reactive, serverless, client-side, offline-first database for your next javascript-application.
 
-- [2017~Dexie.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dfahlander/Dexie.js): Dexie.js is a wrapper library for indexedDB - the standard database in the browser.
+- [2017_Dexie.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dfahlander/Dexie.js): Dexie.js is a wrapper library for indexedDB - the standard database in the browser.
 
-- [2018~turtleDB ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/turtle-DB/turtleDB): turtleDB is a JavaScript framework and in-browser database for developers to build offline-first, collaborative web applications. It provides a developer-friendly API to access an in-browser database built on top of IndexedDB.
+- [2018_turtleDB ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/turtle-DB/turtleDB): turtleDB is a JavaScript framework and in-browser database for developers to build offline-first, collaborative web applications. It provides a developer-friendly API to access an in-browser database built on top of IndexedDB.
 
-- [2020~sql.js ![code](https://ng-tech.icu/assets/code.svg)](https://sql.js.org/#/): sql.js is a javascript SQL database. It allows you to create a relational database and query it entirely in the browser.
+- [2020_sql.js ![code](https://ng-tech.icu/assets/code.svg)](https://sql.js.org/#/): sql.js is a javascript SQL database. It allows you to create a relational database and query it entirely in the browser.
 
-- [2021~absurd-sql ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jlongster/absurd-sql): sqlite3 in ur indexeddb (hopefully a better backend soon)
+- [2021_absurd-sql ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jlongster/absurd-sql): sqlite3 in ur indexeddb (hopefully a better backend soon)
 
 ## Media | 媒介资源
 
@@ -236,15 +236,14 @@
 
 # Tuning | 性能调优
 
-- [2024~Jampack ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/divriots/jampack)](https://github.com/divriots/jampack): Optimizes static websites for best user experience and best Core Web Vitals scores.
+- [2024_Jampack ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/divriots/jampack)](https://github.com/divriots/jampack): Optimizes static websites for best user experience and best Core Web Vitals scores.
 
 ## APM
 
 - [LagRadar ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mobz/lag-radar): Add this to any javascript application and you can see when the app drops below 60fps as the radar sweep changes colour and gets janky.
 
 - [Lighthouse ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChrome/lighthouse): Lighthouse an alyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
-
-  - [2023~Unlighthouse ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/harlan-zw/unlighthouse)](https://github.com/harlan-zw/unlighthouse): Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
+  - [2023_Unlighthouse ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/harlan-zw/unlighthouse)](https://github.com/harlan-zw/unlighthouse): Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
 
 - [stats.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mrdoob/stats.js): JavaScript Performance Monitor.
 
@@ -260,11 +259,11 @@
 
 - [Lozad ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ApoorvSaxena/lozad.js): lozad.js is a light-weight library to lazy load elements using JavaScript.
 
-- [2018~whatcss ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jonroig/whatcss): WhatCSS.info: CSS StyleSheet Pageload Analyser/Optimizer 🤷
+- [2018_whatcss ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jonroig/whatcss): WhatCSS.info: CSS StyleSheet Pageload Analyser/Optimizer 🤷
 
-- [2018~instant.page ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/instantpage/instant.page): Make your site’s pages instant in 1 minute and improve your conversion rate by 1%.
+- [2018_instant.page ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/instantpage/instant.page): Make your site’s pages instant in 1 minute and improve your conversion rate by 1%.
 
-- [2018~lazysizes ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/aFarkas/lazysizes): lazysizes is a fast (jank-free), SEO-friendly and self-initializing lazyloader for images (including responsive images picture/srcset), iframes, scripts/widgets and much more.
+- [2018_lazysizes ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/aFarkas/lazysizes): lazysizes is a fast (jank-free), SEO-friendly and self-initializing lazyloader for images (including responsive images picture/srcset), iframes, scripts/widgets and much more.
 
 ### Image
 
@@ -290,7 +289,7 @@
 
 ## Experience Tuning
 
-- [2022~hotwired/turbo ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hotwired/turbo)](https://github.com/hotwired/turbo): Turbo uses complementary techniques to dramatically reduce the amount of custom JavaScript that most web applications will need to write: Turbo Drive accelerates links and form submissions by negating the need for full page reloads.
+- [2022_hotwired/turbo ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/hotwired/turbo)](https://github.com/hotwired/turbo): Turbo uses complementary techniques to dramatically reduce the amount of custom JavaScript that most web applications will need to write: Turbo Drive accelerates links and form submissions by negating the need for full page reloads.
 
 ### Polyfill
 
@@ -300,7 +299,7 @@
 
 # Micro-FE Framework
 
-- [2018~Micro Frontends](https://micro-frontends.org/): Techniques, strategies and recipes for building a modern web app with multiple teams using different JavaScript frameworks.
+- [2018_Micro Frontends](https://micro-frontends.org/): Techniques, strategies and recipes for building a modern web app with multiple teams using different JavaScript frameworks.
 
 - [Mooa ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/phodal/mooa): Mooa 是一个为 Angular 服务的微前端框架，[前端微服务化：使用微前端框架 Mooa 开发微前端应用](https://parg.co/o3F)。
 
@@ -316,4 +315,4 @@
 
 ## Sandbox
 
-- [2022~workerbox ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/markwylde/workerbox): A secure sandbox to execute untrusted user JavaScript, in a web browser, without any risk to your own domain/site/page.
+- [2022_workerbox ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/markwylde/workerbox): A secure sandbox to execute untrusted user JavaScript, in a web browser, without any risk to your own domain/site/page.

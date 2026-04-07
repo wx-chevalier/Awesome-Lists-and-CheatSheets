@@ -2,7 +2,7 @@
 
 # Admin/Dashboard
 
-- [2019~D2Admin ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/d2-projects/d2-admin): D2Admin is a fully open source and free enterprise back-end product front-end integration solution, using the latest front-end technology stack, has prepared most of the project preparations, and with a lot of sample code to help the management system agile development.
+- [2019_D2Admin ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/d2-projects/d2-admin): D2Admin is a fully open source and free enterprise back-end product front-end integration solution, using the latest front-end technology stack, has prepared most of the project preparations, and with a lot of sample code to help the management system agile development.
 
 # Grid Layout | 网格布局
 
@@ -12,7 +12,7 @@
 
 - [Simple-Grid ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ThisIsDallas/Simple-Grid): Basic Responsive Grid
 
-- [2017~Muuri ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/haltu/muuri): Muuri is a magical JavaScript layout engine that allows you to build all kinds of layouts and make them responsive, sortable, filterable, draggable and/or animated.
+- [2017_Muuri ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/haltu/muuri): Muuri is a magical JavaScript layout engine that allows you to build all kinds of layouts and make them responsive, sortable, filterable, draggable and/or animated.
 
 # Cascading Layout | 瀑布流布局
 

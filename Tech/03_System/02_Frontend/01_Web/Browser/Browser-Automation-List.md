@@ -6,29 +6,29 @@ Browser Automation 即所谓的自动化浏览器或者能够以脚本等方式�
 
 - [browserless/chrome ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/browserless/chrome)](https://github.com/browserless/chrome): The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 
-- [2022~DrissionPage ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/g1879/DrissionPage)](https://github.com/g1879/DrissionPage): 基于 python 的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和 requests 的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
+- [2022_DrissionPage ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/g1879/DrissionPage)](https://github.com/g1879/DrissionPage): 基于 python 的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和 requests 的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
 
 # Headless Chrome
 
 - [chromeless ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/graphcool/chromeless): Chrome automation made simple. Runs locally or headless on AWS Lambda.
 
-- [2017~Making Chrome Headless Undetectable](https://intoli.com/blog/making-chrome-headless-undetectable/)
+- [2017_Making Chrome Headless Undetectable](https://intoli.com/blog/making-chrome-headless-undetectable/)
 
-- [2017~Chrome Headless Docker](https://hub.docker.com/r/justinribeiro/chrome-headless/): What was once a container using the experimental build of headless_shell from tip, this container now runs and exposes stable Chrome headless via google-chome --headless.
+- [2017_Chrome Headless Docker](https://hub.docker.com/r/justinribeiro/chrome-headless/): What was once a container using the experimental build of headless_shell from tip, this container now runs and exposes stable Chrome headless via google-chome --headless.
 
-- [2017~Getting Started with Headless Chrome](https://parg.co/btk): Headless Chrome is shipping in Chrome 59. It's a way to run the Chrome browser in a headless environment. Essentially, running Chrome without chrome! It brings all modern web platform features provided by Chromium and the Blink rendering engine to the command line.
+- [2017_Getting Started with Headless Chrome](https://parg.co/btk): Headless Chrome is shipping in Chrome 59. It's a way to run the Chrome browser in a headless environment. Essentially, running Chrome without chrome! It brings all modern web platform features provided by Chromium and the Blink rendering engine to the command line.
 
-- [2017~Using headless Chrome as an automated screenshot tool](https://parg.co/btL)
+- [2017_Using headless Chrome as an automated screenshot tool](https://parg.co/btL)
 
 ## Puppeteer
 
-- [2017~THAL](https://github.com/emadehsan/thal): Getting started with Puppeteer and Chrome Headless for Web Scraping.
+- [2017_THAL](https://github.com/emadehsan/thal): Getting started with Puppeteer and Chrome Headless for Web Scraping.
 
-- [2017~GoogleChrome-Puppeteer ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChrome/puppeteer): Puppeteer is a Node library which provides a high-level API to control headless Chrome over the DevTools Protocol. It can also be configured to use full (non-headless) Chrome.
+- [2017_GoogleChrome-Puppeteer ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChrome/puppeteer): Puppeteer is a Node library which provides a high-level API to control headless Chrome over the DevTools Protocol. It can also be configured to use full (non-headless) Chrome.
 
-- [2017~A Guide to Automating & Scraping the Web with JavaScript (Chrome + Puppeteer + Node JS)](https://parg.co/US1): Learn to Automate and Scrape the web with Headless Chrome.
+- [2017_A Guide to Automating & Scraping the Web with JavaScript (Chrome + Puppeteer + Node JS)](https://parg.co/US1): Learn to Automate and Scrape the web with Headless Chrome.
 
-- [2018~puppeteer-examples ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChromeLabs/puppeteer-examples): Use case-driven examples for using Puppeteer and headless chrome
+- [2018_puppeteer-examples ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleChromeLabs/puppeteer-examples): Use case-driven examples for using Puppeteer and headless chrome
 
 # Selenium
 

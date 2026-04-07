@@ -12,7 +12,7 @@
 
 - [jQuery-HTML5 Sortable ![code](https://ng-tech.icu/assets/code.svg)](http://farhadi.ir/projects/html5sortable/): 基于 jQuery 的拖拽插件
 
-- [2018~react-window ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bvaughn/react-window): React components for efficiently rendering large lists and tabular data.
+- [2018_react-window ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bvaughn/react-window): React components for efficiently rendering large lists and tabular data.
 
 ## Virtualized List | 虚拟列表
 
@@ -30,7 +30,7 @@
 
 ## DataGrid | 数据表格
 
-- [2017~Handsontable ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/handsontable/handsontable): Handsontable Community Edition - JavaScript/HTML5 Spreadsheet Component for Web Apps.
+- [2017_Handsontable ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/handsontable/handsontable): Handsontable Community Edition - JavaScript/HTML5 Spreadsheet Component for Web Apps.
 
 - [Facebook-FixedDataTable ![code](https://ng-tech.icu/assets/code.svg)](http://facebook.github.io/fixed-data-table/getting-started.html): A React table component designed to allow presenting thousands of rows of data.
 
@@ -52,7 +52,7 @@
 
 # Calendar | 日历
 
-- [2018~TOAST UI Calendar](http://ui.toast.com/tui-calendar/): It is a full-featured calendar. Experience various view types, default popups, dragging or resizing schedules and customizable theme which is easy to use.
+- [2018_TOAST UI Calendar](http://ui.toast.com/tui-calendar/): It is a full-featured calendar. Experience various view types, default popups, dragging or resizing schedules and customizable theme which is easy to use.
 
 # Tag | 标签
 

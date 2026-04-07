@@ -2,11 +2,11 @@
 
 - [Slack-Term ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/erroneousboat/slack-term): A Slack client for your terminal.
 
-- [2019~TopList ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tophubs/TopList): 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用 Go 语言编写，多协程异步快速抓取信息。
+- [2019_TopList ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tophubs/TopList): 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用 Go 语言编写，多协程异步快速抓取信息。
 
 - [go-gin-api ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/xinliangnote/go-gin-api): 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用 等等。
 
-- [2020~7 days golang programs from scratch ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/geektutu/7days-golang): 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7 天用 Go 动手写/从零实现系列
+- [2020_7 days golang programs from scratch ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/geektutu/7days-golang): 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7 天用 Go 动手写/从零实现系列
 
 - [Gdu ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dundee/gdu): Disk usage analyzer with console interface written in Go
 
@@ -14,17 +14,17 @@
 
 - [filebrowser ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/filebrowser/filebrowser): filebrowser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files. It allows the creation of multiple users and each user can have its own directory. It can be used as a standalone app or as a middleware.
 
-- [2018~wtf ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/wtfutil/wtf)](https://github.com/wtfutil/wtf): WTF (aka 'wtfutil') is the personal information dashboard for your terminal, providing at-a-glance access to your very important but infrequently-needed stats and data.
+- [2018_wtf ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/wtfutil/wtf)](https://github.com/wtfutil/wtf): WTF (aka 'wtfutil') is the personal information dashboard for your terminal, providing at-a-glance access to your very important but infrequently-needed stats and data.
 
-- [2022~gopeed ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/monkeyWie/gopeed): High speed downloader that supports all platforms.
+- [2022_gopeed ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/monkeyWie/gopeed): High speed downloader that supports all platforms.
 
-- [2022~katana ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/projectdiscovery/katana): A next-generation crawling and spidering framework.
+- [2022_katana ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/projectdiscovery/katana): A next-generation crawling and spidering framework.
 
-- [2022~zpscan ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/niudaii/zpscan): 一个有点好用的信息收集工具。A somewhat useful information gathering tool.
+- [2022_zpscan ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/niudaii/zpscan): 一个有点好用的信息收集工具。A somewhat useful information gathering tool.
 
-- [2022~tailscale/golink ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tailscale/golink)](https://github.com/tailscale/golink): golink is a private shortlink service for your tailnet. It lets you create short, memorable links for the websites you and your team use most. If you're new to golink, learn more in our announcement blog post.
+- [2022_tailscale/golink ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/tailscale/golink)](https://github.com/tailscale/golink): golink is a private shortlink service for your tailnet. It lets you create short, memorable links for the websites you and your team use most. If you're new to golink, learn more in our announcement blog post.
 
-- [2024~baalimago/wd-41 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/baalimago/wd-41)](https://github.com/baalimago/wd-41): This is a simple static webserver which live reloads your web-browser on changes to the hosted files.
+- [2024_baalimago/wd-41 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/baalimago/wd-41)](https://github.com/baalimago/wd-41): This is a simple static webserver which live reloads your web-browser on changes to the hosted files.
 
 ## CMD
 
@@ -32,7 +32,7 @@
 
 - [croc ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/schollz/croc): Easily and securely send things from one computer to another 🐊 📦
 
-- [2023~termdbms ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mathaou/termdbms)](https://github.com/mathaou/termdbms): A TUI for viewing and editing databases, written in pure Go
+- [2023_termdbms ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mathaou/termdbms)](https://github.com/mathaou/termdbms): A TUI for viewing and editing databases, written in pure Go
 
 ## Storage
 
@@ -42,9 +42,9 @@
 
 ## Game
 
-- [2019~Snake ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tristangoossens/snake-go): This is a Terminal based snake game made by tristangoossens.
+- [2019_Snake ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tristangoossens/snake-go): This is a Terminal based snake game made by tristangoossens.
 
-- [2019~OpenDiablo2 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/OpenDiablo2/OpenDiablo2): OpenDiablo2 is an ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2. The engine is written in golang and is cross platform.
+- [2019_OpenDiablo2 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/OpenDiablo2/OpenDiablo2): OpenDiablo2 is an ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2. The engine is written in golang and is cross platform.
 
 ## Admin
 
@@ -56,8 +56,8 @@
 
 ## HTTP Server
 
-- [2023~eliben/static-server ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/eliben/static-server)](https://github.com/eliben/static-server): A simple, zero-configuration HTTP server CLI for serving static files
+- [2023_eliben/static-server ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/eliben/static-server)](https://github.com/eliben/static-server): A simple, zero-configuration HTTP server CLI for serving static files
 
 ## UI
 
-- [2025~putyy/res-downloader ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/putyy/res-downloader)](https://github.com/putyy/res-downloader): 一款基于 Go + Wails 的跨平台资源下载工具，简洁易用，支持多种资源嗅探与下载。
+- [2025_putyy/res-downloader ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/putyy/res-downloader)](https://github.com/putyy/res-downloader): 一款基于 Go + Wails 的跨平台资源下载工具，简洁易用，支持多种资源嗅探与下载。

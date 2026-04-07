@@ -10,4 +10,4 @@
 
 - [gym ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/openai/gym)
 
-- [2024~alessiodm/drl-zh #Course# ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/alessiodm/drl-zh)](https://github.com/alessiodm/drl-zh): This is a short and practical introductory course on foundational and classic deep reinforcement learning algorithms. By the end of the course, you will have written from scratch algorithms like DQN, SAC, PPO, as well as understood at a high-level the theory behind them.
+- [2024_alessiodm/drl-zh #Course# ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/alessiodm/drl-zh)](https://github.com/alessiodm/drl-zh): This is a short and practical introductory course on foundational and classic deep reinforcement learning algorithms. By the end of the course, you will have written from scratch algorithms like DQN, SAC, PPO, as well as understood at a high-level the theory behind them.

@@ -1,6 +1,6 @@
 # CSS 语法资料索引
 
-- [2017~Locally Scoped CSS Variables: What, How, and Why](https://parg.co/bLS): CSS Custom Properties (also popularly called CSS Variables) are here! This is really exciting because we finally have true variables in CSS!
+- [2017_Locally Scoped CSS Variables: What, How, and Why](https://parg.co/bLS): CSS Custom Properties (also popularly called CSS Variables) are here! This is really exciting because we finally have true variables in CSS!
 
 - [Basic CSS Selector Syntax Explained Using Cats](https://robots.thoughtbot.com/basic-css-selectors-explained-with-cats)
 
@@ -26,11 +26,11 @@
 
 # CSS Custom Properties/CSS Variables
 
-- [2018~Variable Order](http://kizu.ru/en/blog/variable-order/): Ordering a table with CSS Custom Properties and the order: property. Mind. Blowing.
+- [2018_Variable Order](http://kizu.ru/en/blog/variable-order/): Ordering a table with CSS Custom Properties and the order: property. Mind. Blowing.
 
-- [2018~Everything you need to know about CSS Variables](https://parg.co/UIJ): In this guide, I’ll show you how variables work natively in CSS, and how you can use them to make your life a lot easier.
+- [2018_Everything you need to know about CSS Variables](https://parg.co/UIJ): In this guide, I’ll show you how variables work natively in CSS, and how you can use them to make your life a lot easier.
 
-- [2016~Reactive Animations CSS Variables](http://slides.com/davidkhourshid/reactanim#/): This is the concept of describing a continuous series of events in a discrete way.
+- [2016_Reactive Animations CSS Variables](http://slides.com/davidkhourshid/reactanim#/): This is the concept of describing a continuous series of events in a discrete way.
 
 # 颜色与背景
 

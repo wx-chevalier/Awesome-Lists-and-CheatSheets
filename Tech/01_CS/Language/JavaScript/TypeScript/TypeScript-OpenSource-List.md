@@ -8,15 +8,15 @@
 
 - [deepkit-framework ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/deepkit/deepkit-framework): A new full-featured and high-performance web framework for sophisticated web applications.
 
-- [2023~ts-reset ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/total-typescript/ts-reset)](https://github.com/total-typescript/ts-reset): A 'CSS reset' for TypeScript, improving types for common JavaScript API's
+- [2023_ts-reset ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/total-typescript/ts-reset)](https://github.com/total-typescript/ts-reset): A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 
-- [2024~JoshuaKGoldberg/TypeStat ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/JoshuaKGoldberg/TypeStat)](https://github.com/JoshuaKGoldberg/TypeStat): Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫
+- [2024_JoshuaKGoldberg/TypeStat ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/JoshuaKGoldberg/TypeStat)](https://github.com/JoshuaKGoldberg/TypeStat): Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫
 
 # Development
 
-- [2023~TypeCell ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/TypeCellOS/TypeCell)](https://github.com/TypeCellOS/TypeCell): Welcome to TypeCell! An open source live programming environment. Together, we want to make it a lot easier to build software, and ultimately to understand, build and share knowledge.
+- [2023_TypeCell ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/TypeCellOS/TypeCell)](https://github.com/TypeCellOS/TypeCell): Welcome to TypeCell! An open source live programming environment. Together, we want to make it a lot easier to build software, and ultimately to understand, build and share knowledge.
 
-- [2024~srcbookdev/srcbook ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/srcbookdev/srcbook)](https://github.com/srcbookdev/srcbook): TypeScript notebook for rapid prototyping.
+- [2024_srcbookdev/srcbook ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/srcbookdev/srcbook)](https://github.com/srcbookdev/srcbook): TypeScript notebook for rapid prototyping.
 
 # Validation
 
@@ -24,4 +24,4 @@
 
 - [zod ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/colinhacks/zod): TypeScript-first schema validation with static type inference
 
-- [2024~ArkType ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/arktypeio/arktype)](https://github.com/arktypeio/arktype): ArkType is a runtime validation library that can infer TypeScript definitions 1:1 and reuse them as highly-optimized validators for your data.
+- [2024_ArkType ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/arktypeio/arktype)](https://github.com/arktypeio/arktype): ArkType is a runtime validation library that can infer TypeScript definitions 1:1 and reuse them as highly-optimized validators for your data.

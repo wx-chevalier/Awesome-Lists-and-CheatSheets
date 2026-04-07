@@ -8,4 +8,4 @@
 
 # Fingerprinting
 
-- [2020~Building an Advanced Fingerprinting Detector AI](https://cujo.com/building-an-advanced-fingerprinting-detector-ai/): In two earlier posts, we introduced the problem of browser fingerprinting and showed a static fingerprinting detector AI that is based on the raw text content of JavaScript files. Now we will refine the solution and take the dynamic behavior of JavaScript files into account.
+- [2020_Building an Advanced Fingerprinting Detector AI](https://cujo.com/building-an-advanced-fingerprinting-detector-ai/): In two earlier posts, we introduced the problem of browser fingerprinting and showed a static fingerprinting detector AI that is based on the raw text content of JavaScript files. Now we will refine the solution and take the dynamic behavior of JavaScript files into account.

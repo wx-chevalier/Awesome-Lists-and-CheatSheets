@@ -2,7 +2,7 @@
 
 # Web Bundler CheatSheet | Web 构建与打包工具盘点
 
-工欲善其事，必先利其器，当我们准备开始某个 Web 相关的项目时，合适的脚手架会让我们事半功倍。在 [2016~我的前端之路：工具化与工程化](https://parg.co/YOg)一文中，我们讨论了工具化与工程化相关的内容，其中重要的章节就是关于所谓的打包工具。Grunt、Glup 属于 Task Runner，即任务执行器；实际上，npm package.json 中定义的脚本也可以看做 Task Runner，而 Rollup，Parcel 以及 Webpack 则是属于 Bundler，即打包工具。
+工欲善其事，必先利其器，当我们准备开始某个 Web 相关的项目时，合适的脚手架会让我们事半功倍。在 [2016\_我的前端之路：工具化与工程化](https://parg.co/YOg)一文中，我们讨论了工具化与工程化相关的内容，其中重要的章节就是关于所谓的打包工具。Grunt、Glup 属于 Task Runner，即任务执行器；实际上，npm package.json 中定义的脚本也可以看做 Task Runner，而 Rollup，Parcel 以及 Webpack 则是属于 Bundler，即打包工具。
 
 ![webpack](https://user-images.githubusercontent.com/5803001/39966649-02e751a6-56e2-11e8-8af1-bbbd47aa7dbb.png)
 

@@ -6,7 +6,7 @@
 
 - [Episodes: How DNS Works](https://howdns.works/episodes/)
 
-- [2018~A cartoon intro to DNS over HTTPS](https://parg.co/mb7): So let’s look at how DNS over HTTPS and Trusted Recursive Resolver protect our users.
+- [2018_A cartoon intro to DNS over HTTPS](https://parg.co/mb7): So let’s look at how DNS over HTTPS and Trusted Recursive Resolver protect our users.
 
 # Internals
 
@@ -14,7 +14,7 @@
 
 - [从 Chrome 源码看 DNS 解析过程](https://mp.weixin.qq.com/s/K7rdF82yi-yGk5-aN9Se8A)
 
-- [2016~DNS 报文详解](https://parg.co/U8z): DNS【域名系统：(英文：Domain Name System，缩写：DNS)】是互联网的一项服务。它作为将域名和 IP 地址相互映射的一个分布式数据库，能够使人更方便地访问互联网。DNS 使用 TCP 和 UDP 端口 53。
+- [2016_DNS 报文详解](https://parg.co/U8z): DNS【域名系统：(英文：Domain Name System，缩写：DNS)】是互联网的一项服务。它作为将域名和 IP 地址相互映射的一个分布式数据库，能够使人更方便地访问互联网。DNS 使用 TCP 和 UDP 端口 53。
 
 # OpenSource
 
@@ -22,4 +22,4 @@
 
 ## Showcases
 
-- [2023~Implement DNS in a weekend ![code](https://ng-tech.icu/assets/code.svg)](https://implement-dns.wizardzines.com/index.html): There are also some bonus exercises if you want to implement a few more of the features a real DNS resolver would have.
+- [2023_Implement DNS in a weekend ![code](https://ng-tech.icu/assets/code.svg)](https://implement-dns.wizardzines.com/index.html): There are also some bonus exercises if you want to implement a few more of the features a real DNS resolver would have.

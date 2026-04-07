@@ -1,8 +1,8 @@
 # Workflow OpenSource List
 
-- [2022~Trigger.dev ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/triggerdotdev/trigger.dev)](https://github.com/triggerdotdev/trigger.dev): ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
+- [2022_Trigger.dev ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/triggerdotdev/trigger.dev)](https://github.com/triggerdotdev/trigger.dev): ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
 
-- [2023~windmill ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/windmill-labs/windmill)](https://github.com/windmill-labs/windmill): Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
+- [2023_windmill ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/windmill-labs/windmill)](https://github.com/windmill-labs/windmill): Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 
 ## Workflow management
 
@@ -16,13 +16,13 @@
 
 - [Prefect ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/PrefectHQ/prefect): Prefect is a new workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine. Users organize Tasks into Flows, and Prefect takes care of the rest.
 
-- [2021~Automatisch ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/automatisch/automatisch)](https://github.com/automatisch/automatisch): The open source Zapier alternative. Build workflow automation without spending time and money.
+- [2021_Automatisch ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/automatisch/automatisch)](https://github.com/automatisch/automatisch): The open source Zapier alternative. Build workflow automation without spending time and money.
 
-- [2021~Zeebe ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/camunda/zeebe)](https://github.com/camunda/zeebe): Zeebe provides visibility into and control over business processes that span multiple microservices. It is the engine that powers Camunda Platform 8.
+- [2021_Zeebe ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/camunda/zeebe)](https://github.com/camunda/zeebe): Zeebe provides visibility into and control over business processes that span multiple microservices. It is the engine that powers Camunda Platform 8.
 
-- [2023~Snakemake ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/snakemake/snakemake)](https://github.com/snakemake/snakemake): The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.
+- [2023_Snakemake ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/snakemake/snakemake)](https://github.com/snakemake/snakemake): The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.
 
-- [2023~weibocom/rill-flow ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/weibocom/rill-flow)](https://github.com/weibocom/rill-flow): Rill Flow is a high-performance, scalable distributed workflow orchestration service with the following core features.
+- [2023_weibocom/rill-flow ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/weibocom/rill-flow)](https://github.com/weibocom/rill-flow): Rill Flow is a high-performance, scalable distributed workflow orchestration service with the following core features.
 
 ## Rules Engine
 

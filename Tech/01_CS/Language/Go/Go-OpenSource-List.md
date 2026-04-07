@@ -26,13 +26,13 @@
 
 ## Build
 
-- [2023~GoReleaser ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/goreleaser/goreleaser)](https://github.com/goreleaser/goreleaser): GoReleaser builds Go binaries for several platforms, creates a GitHub release and then pushes a Homebrew formula to a tap repository. All that wrapped in your favorite CI.
+- [2023_GoReleaser ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/goreleaser/goreleaser)](https://github.com/goreleaser/goreleaser): GoReleaser builds Go binaries for several platforms, creates a GitHub release and then pushes a Homebrew formula to a tap repository. All that wrapped in your favorite CI.
 
 # Framework
 
 - [go-zero ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/kevwan/go-zero): go-zero 是一个集成了各种工程实践的 web 和 rpc 框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。
 
-- [2020~Kratos ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/go-kratos/kratos): Kratos 一套轻量级 Go 微服务框架，包含大量微服务相关框架及工具。
+- [2020_Kratos ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/go-kratos/kratos): Kratos 一套轻量级 Go 微服务框架，包含大量微服务相关框架及工具。
 
 ## Utils
 
@@ -42,7 +42,7 @@
 
 ### Dependence Injection
 
-- [2018~wire ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/google/wire): Compile-time Dependency Injection for Go
+- [2018_wire ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/google/wire): Compile-time Dependency Injection for Go
 
 ## Configuration
 
@@ -56,7 +56,7 @@
 
 ## Concurrency
 
-- [2023~conc ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sourcegraph/conc)](https://github.com/sourcegraph/conc): conc is your toolbelt for structured concurrency in go, making common tasks easier and safer.
+- [2023_conc ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/sourcegraph/conc)](https://github.com/sourcegraph/conc): conc is your toolbelt for structured concurrency in go, making common tasks easier and safer.
 
 ## Log
 
@@ -70,13 +70,13 @@
 
 - [gojay ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/francoispqt/gojay): Highly performant JSON encoder/decoder with powerful stream API for Golang.
 
-- [2018~jstream ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bcicen/jstream): jstream is a streaming JSON parser and value extraction library for Go.
+- [2018_jstream ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/bcicen/jstream): jstream is a streaming JSON parser and value extraction library for Go.
 
-- [2019~Package validator ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/go-playground/validator): 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
+- [2019_Package validator ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/go-playground/validator): 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
 
 # Network
 
-- [2017~req ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/imroc/req): A golang http request library for humans.
+- [2017_req ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/imroc/req): A golang http request library for humans.
 
 - [Broxy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rhaidiz/broxy): Broxy is an open source intercept proxy written in Go.
 
@@ -86,7 +86,7 @@
 
 ## RPC
 
-- [2021~netpoll ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/cloudwego/netpoll): A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
+- [2021_netpoll ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/cloudwego/netpoll): A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
 
 # Storage
 
@@ -94,7 +94,7 @@
 
 - [2015-fsnotify ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/fsnotify/fsnotify): Cross-platform file system notifications for Go.
 
-- [2019~statik ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rakyll/statik): statik allows you to embed a directory of static files into your Go binary to be later served from an http.FileSystem.
+- [2019_statik ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rakyll/statik): statik allows you to embed a directory of static files into your Go binary to be later served from an http.FileSystem.
 
 ## Database
 
@@ -144,7 +144,7 @@
 
 ## HTTPS
 
-- [2018~CertMagic ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mholt/certmagic): Caddy's automagic TLS features, now for your own Go programs, in one powerful and easy-to-use library!
+- [2018_CertMagic ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/mholt/certmagic): Caddy's automagic TLS features, now for your own Go programs, in one powerful and easy-to-use library!
 
 ## GraphQL
 
@@ -160,7 +160,7 @@
 
 - [fyne ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/fyne-io/fyne): Cross platform GUI in Go inspired by Material Design
 
-- [2024~Spot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/roblillack/spot)](https://github.com/roblillack/spot): Spot is a simple, cross-platform, reactive GUI toolkit for Go using native widgets where available. It is designed to be easy to use and to provide a consistent API across different platforms.
+- [2024_Spot ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/roblillack/spot)](https://github.com/roblillack/spot): Spot is a simple, cross-platform, reactive GUI toolkit for Go using native widgets where available. It is designed to be easy to use and to provide a consistent API across different platforms.
 
 # Other
 
@@ -174,4 +174,4 @@
 
 - [mkcert ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/FiloSottile/mkcert): mkcert is a simple tool for making locally-trusted development certificates. It requires no configuration.
 
-- [2022~PureGo ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ebitengine/purego)](https://github.com/ebitengine/purego): A library for calling C functions from Go without Cgo.
+- [2022_PureGo ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ebitengine/purego)](https://github.com/ebitengine/purego): A library for calling C functions from Go without Cgo.

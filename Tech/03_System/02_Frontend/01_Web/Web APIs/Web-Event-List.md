@@ -64,7 +64,7 @@
 
 ## Parallaxing
 
-- [2016~Performant Parallaxing](https://developers.google.com/web/updates/2016/12/performant-parallaxing): In this article we’ll discuss a solution that is both performant and, just as importantly, works cross-browser
+- [2016_Performant Parallaxing](https://developers.google.com/web/updates/2016/12/performant-parallaxing): In this article we’ll discuss a solution that is both performant and, just as importantly, works cross-browser
 
 ## ScrollSpy | 滚动监听
 
@@ -78,9 +78,9 @@
 
 ## IntersectionObserver
 
-- [2017~IntersectionObserver’s Coming into View](https://developers.google.com/web/updates/2016/04/intersectionobserver): Making this visibility test more efficient is what IntersectionObserver was designed for.
+- [2017_IntersectionObserver’s Coming into View](https://developers.google.com/web/updates/2016/04/intersectionobserver): Making this visibility test more efficient is what IntersectionObserver was designed for.
 
-- [2018~Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://parg.co/Uiu): In this article, we are going to go out of the scroll darkness and talk about the modern way of lazy-loading resources.
+- [2018_Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://parg.co/Uiu): In this article, we are going to go out of the scroll darkness and talk about the modern way of lazy-loading resources.
 
 ## MutationObserver
 

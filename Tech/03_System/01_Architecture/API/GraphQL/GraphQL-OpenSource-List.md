@@ -29,7 +29,7 @@
 
 - [GraphQL Mesh ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Urigo/graphql-mesh/blob/master/README.md): GraphQL Mesh allows you to use GraphQL query language to access data in remote APIs that don't run GraphQL (and also ones that do run GraphQL). It can be used as a gateway to other services, or run as a local GraphQL schema that aggregates data from remote APIs.
 
-- [2021~Hasura GraphQL Engine ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hasura/graphql-engine): Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- [2021_Hasura GraphQL Engine ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hasura/graphql-engine): Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 
 ## Utility
 
@@ -39,4 +39,4 @@
 
 - [Apollo Client ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/apollographql/apollo-client): A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 
-- [2018~graphql.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/f/graphql.js): A Simple and Isomorphic GraphQL Client for JavaScript.
+- [2018_graphql.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/f/graphql.js): A Simple and Isomorphic GraphQL Client for JavaScript.

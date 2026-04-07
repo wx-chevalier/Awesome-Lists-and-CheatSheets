@@ -24,11 +24,10 @@
 
 - [2013-《Distributed systems for fun and profit》📚](http://book.mixu.net/distsys/): In this text I've tried to provide a more accessible introduction to distributed systems. To me, that means two things: introducing the key concepts that you will need in order to have a good time reading more serious texts, and providing a narrative that covers things in enough detail that you get a gist of what's going on without getting stuck on details. It's 2013, you've got the Internet, and you can selectively read more about the topics you find most interesting.
 
-- [2017~《Designing Data Intensive Applications》📚](https://dataintensive.net/): This book will help you navigate the diverse and fast-changing landscape of technologies for storing and processing data.
-
+- [2017\_《Designing Data Intensive Applications》📚](https://dataintensive.net/): This book will help you navigate the diverse and fast-changing landscape of technologies for storing and processing data.
   - [DDIA 中文翻译](https://github.com/Vonng/ddia): 这是 2017 年译者读过最好的一本技术类书籍，这么好的书没有中文翻译，实在是遗憾。某不才，愿为先进技术文化的传播贡献一份力量。既可以深入学习有趣的技术主题，又可以锻炼中英文语言文字功底，何乐而不为？
 
-- [2018~Programming Models for Distributed Computation》📚](https://github.com/heathermiller/dist-prog-book): This is a book about the programming constructs we use to build distributed systems. These range from the small, RPC, futures, actors, to the large; systems built up of these components like MapReduce and Spark. We explore issues and concerns central to distributed systems like consistency, availability, and fault tolerance, from the lens of the programming models and frameworks that the programmer uses to build these systems.
+- [2018_Programming Models for Distributed Computation》📚](https://github.com/heathermiller/dist-prog-book): This is a book about the programming constructs we use to build distributed systems. These range from the small, RPC, futures, actors, to the large; systems built up of these components like MapReduce and Spark. We explore issues and concerns central to distributed systems like consistency, availability, and fault tolerance, from the lens of the programming models and frameworks that the programmer uses to build these systems.
 
 ## Blog
 
@@ -42,24 +41,23 @@
 
 - [Cloud Native Landscape 🗃️](https://github.com/cncf/landscape): Static Cloud Native Landscapes and Interactive Landscape that filters and sorts hundreds of cloud native projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 
-- [2019~分布式系统领域经典论文翻译集 🗃️](https://zhuanlan.zhihu.com/p/91434149)
+- [2019\_分布式系统领域经典论文翻译集 🗃️](https://zhuanlan.zhihu.com/p/91434149)
 
-- [2019~A Distributed Systems Reading List 🗃️](https://dancres.github.io/Pages/): I often argue that the toughest thing about distributed systems is changing the way you think. The below is a collection of material I've found useful for motivating these changes.
+- [2019_A Distributed Systems Reading List 🗃️](https://dancres.github.io/Pages/): I often argue that the toughest thing about distributed systems is changing the way you think. The below is a collection of material I've found useful for motivating these changes.
 
 ## Courses
 
-- [2018~6.824: Distributed Systems](http://nil.csail.mit.edu/6.824/2018/index.html): It will present abstractions and implementation techniques for engineering distributed systems.
-
+- [2018_6.824: Distributed Systems](http://nil.csail.mit.edu/6.824/2018/index.html): It will present abstractions and implementation techniques for engineering distributed systems.
   - [feixiao/Distributed-Systems ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/feixiao/Distributed-Systems)](https://github.com/feixiao/Distributed-Systems): MIT 课程《Distributed Systems》学习和翻译。
   - [chaozh/MIT-6.824 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/chaozh/MIT-6.824)](https://github.com/chaozh/MIT-6.824):
 
 - [PingCAP Talent Plan 🎥](https://github.com/pingcap/talent-plan): This is a series of training courses about writing distributed systems in Go and Rust. It is maintained by PingCAP for training and/or evaluating students, new employees, and new contributors to TiDB and TiKV.
 
-- [2023~Maelstrom ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jepsen-io/maelstrom)](https://github.com/jepsen-io/maelstrom): Maelstrom is a workbench for learning distributed systems by writing your own. It uses the Jepsen testing library to test toy implementations of distributed systems. Maelstrom provides standardized tests for things like "a commutative set" or "a transactional key-value store", and lets you learn by writing implementations which those test suites can exercise. It's used as a part of a distributed systems workshop by Jepsen.
+- [2023_Maelstrom ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jepsen-io/maelstrom)](https://github.com/jepsen-io/maelstrom): Maelstrom is a workbench for learning distributed systems by writing your own. It uses the Jepsen testing library to test toy implementations of distributed systems. Maelstrom provides standardized tests for things like "a commutative set" or "a transactional key-value store", and lets you learn by writing implementations which those test suites can exercise. It's used as a part of a distributed systems workshop by Jepsen.
 
 ## Challenges
 
-- [2023~Advent of Distributed Systems](https://aods.cryingpotato.com/): We’ve created a Maelstrom Go library which provides maelstrom.Node that handles all this boilerplate for you. It lets you register handler functions for each message type—similar to how http.Handler works in the standard library.
+- [2023_Advent of Distributed Systems](https://aods.cryingpotato.com/): We’ve created a Maelstrom Go library which provides maelstrom.Node that handles all this boilerplate for you. It lets you register handler functions for each message type—similar to how http.Handler works in the standard library.
 
 ## Papers
 
@@ -83,4 +81,4 @@
 
 ## Series
 
-- [2020~Patterns of Distributed Systems #Series#](https://martinfowler.com/articles/patterns-of-distributed-systems/): This article recognizes and develops these solutions as patterns, with which we can build up an understanding of how to better understand, communicate and teach distributed system design. [《分布式系统模式》中文版](https://github.com/dreamhead/patterns-of-distributed-systems)。
+- [2020_Patterns of Distributed Systems #Series#](https://martinfowler.com/articles/patterns-of-distributed-systems/): This article recognizes and develops these solutions as patterns, with which we can build up an understanding of how to better understand, communicate and teach distributed system design. [《分布式系统模式》中文版](https://github.com/dreamhead/patterns-of-distributed-systems)。

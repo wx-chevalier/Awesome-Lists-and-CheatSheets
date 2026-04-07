@@ -12,15 +12,14 @@
 
 - [2014-math-as-code](https://github.com/Jam3/math-as-code): This is a reference to ease developers into mathematical notation by showing comparisons with JavaScript code.
 
-- [2017~The Mathematics of Machine Learning](http://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-machine-learning): Despite the immense possibilities of Machine and Deep Learning, a thorough mathematical understanding of many of these techniques is necessary for a good grasp of the inner workings of the algorithms and getting good results.
+- [2017_The Mathematics of Machine Learning](http://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-machine-learning): Despite the immense possibilities of Machine and Deep Learning, a thorough mathematical understanding of many of these techniques is necessary for a good grasp of the inner workings of the algorithms and getting good results.
 
 # Resources
 
 ## Books
 
-- [2019~Richard McElreath-Statistical Rethinking 📚](https://xcelab.net/rm/statistical-rethinking/): Statistical Rethinking: A Bayesian Course with Examples in R and Stan builds your knowledge of and confidence in making inferences from data. Reflecting the need for scripting in today's model-based statistics, the book pushes you to perform step-by-step calculations that are usually automated. This unique computational approach ensures that you understand enough of the details to make reasonable choices and interpretations in your own modeling work.
-
+- [2019_Richard McElreath-Statistical Rethinking 📚](https://xcelab.net/rm/statistical-rethinking/): Statistical Rethinking: A Bayesian Course with Examples in R and Stan builds your knowledge of and confidence in making inferences from data. Reflecting the need for scripting in today's model-based statistics, the book pushes you to perform step-by-step calculations that are usually automated. This unique computational approach ensures that you understand enough of the details to make reasonable choices and interpretations in your own modeling work.
   - [Statistical Rethinking course winter 2022](https://github.com/rmcelreath/stat_rethinking_2022): Statistical Rethinking course winter 2022
   - [PyMC3 port of the book "Statistical Rethinking" by Richard McElreath (second edition)](https://github.com/pymc-devs/pymc-resources)
 
-- [2023~Introduction to Modern Statistics~2nd #Book#](https://openintro-ims2.netlify.app/): Data are messy, and statistical tools are imperfect. However, when you understand the strengths and weaknesses of these tools, you can use them to learn interesting things about the world.
+- [2023_Introduction to Modern Statistics~2nd #Book#](https://openintro-ims2.netlify.app/): Data are messy, and statistical tools are imperfect. However, when you understand the strengths and weaknesses of these tools, you can use them to learn interesting things about the world.

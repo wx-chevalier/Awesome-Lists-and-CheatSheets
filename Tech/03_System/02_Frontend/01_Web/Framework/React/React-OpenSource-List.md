@@ -4,37 +4,37 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 # Showcases
 
-- [2017~A React TODOs example, explained](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)
+- [2017_A React TODOs example, explained](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)
 
-- [2017~Create a realtime football voting app using React, Redux, React-Router-v4 and Firebase](https://parg.co/bhD): In this series of tutorials, we’ll be creating a football voting app using React, Redux, Redux-Saga, React-Router v4, and Firebase. In this first part, we will setup the project. We’re going to use create-react-app to scaffold the initial project structure, tweak it a bit, and then add the necessary libraries that we’ll be using.
+- [2017_Create a realtime football voting app using React, Redux, React-Router-v4 and Firebase](https://parg.co/bhD): In this series of tutorials, we’ll be creating a football voting app using React, Redux, Redux-Saga, React-Router v4, and Firebase. In this first part, we will setup the project. We’re going to use create-react-app to scaffold the initial project structure, tweak it a bit, and then add the necessary libraries that we’ll be using.
 
-- [2017~How to Build a ToDo App Using React, Redux, and Webpack](https://parg.co/bMT): In this tutorial I’m going to show you how to create a simple “ToDo” app using React, Redux, a little bit of Node, and Cosmic JS.
+- [2017_How to Build a ToDo App Using React, Redux, and Webpack](https://parg.co/bMT): In this tutorial I’m going to show you how to create a simple “ToDo” app using React, Redux, a little bit of Node, and Cosmic JS.
 
-- [2018~react kanban ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/yogaboll/react-kanban): A Trello-like application built with React and Redux.
+- [2018_react kanban ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/yogaboll/react-kanban): A Trello-like application built with React and Redux.
 
-- [2018~devhub ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/devhubapp/devhub): DevHub: TweetDeck for GitHub - Android, iOS, Web & Desktop
+- [2018_devhub ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/devhubapp/devhub): DevHub: TweetDeck for GitHub - Android, iOS, Web & Desktop
 
 - [x ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/DustinBrett/x): Desktop environment in the browser.
 
-- [2021~Podcastr ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/josepholiveira/podcastr): A platform built for podcast broadcasting. Developed during @Rocketseat NLW#05 free training.
+- [2021_Podcastr ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/josepholiveira/podcastr): A platform built for podcast broadcasting. Developed during @Rocketseat NLW#05 free training.
 
-- [2021~Fakeflix ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Th3Wall/Fakeflix): Not the usual clone that you can find on the web.
+- [2021_Fakeflix ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Th3Wall/Fakeflix): Not the usual clone that you can find on the web.
 
-- [2023~Invoice Dragon ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/LaniJ/invoice-dragon)](https://github.com/LaniJ/invoice-dragon): Invoice Dragon is a lightning-fast application that simplifies the process of generating professional Invoices and Receipts for your business needs.
+- [2023_Invoice Dragon ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/LaniJ/invoice-dragon)](https://github.com/LaniJ/invoice-dragon): Invoice Dragon is a lightning-fast application that simplifies the process of generating professional Invoices and Receipts for your business needs.
 
-- [2024~MishanPoudel/Windows11-3.0 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/MishanPoudel/Windows11-3.0)](https://github.com/MishanPoudel/Windows11-3.0): Welcome to the Windows Clone app built with React.js! 🎉 Dive into this interactive simulation of the Windows operating system, packed with apps and features to play around with. Let’s get started!
+- [2024_MishanPoudel/Windows11-3.0 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/MishanPoudel/Windows11-3.0)](https://github.com/MishanPoudel/Windows11-3.0): Welcome to the Windows Clone app built with React.js! 🎉 Dive into this interactive simulation of the Windows operating system, packed with apps and features to play around with. Let’s get started!
 
 ## Scratch
 
-- [2017~Didact ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hexacta/didact): This repository goes together with a series of posts that explains how to build React from scratch step by step.
+- [2017_Didact ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/hexacta/didact): This repository goes together with a series of posts that explains how to build React from scratch step by step.
 
-- [2018~Gooact: React in 160 lines of JavaScript ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/Y5s): How to build own React clone in a matter of minutes.
+- [2018_Gooact: React in 160 lines of JavaScript ![code](https://ng-tech.icu/assets/code.svg)](https://parg.co/Y5s): How to build own React clone in a matter of minutes.
 
 ## Boilerplate
 
-- [2020~bulletproof-react ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alan2207/bulletproof-react): 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
+- [2020_bulletproof-react ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/alan2207/bulletproof-react): 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 
-- [2021~Windows 11 in React ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/blueedgetechno/windows11): This open source project is made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS (SCSS), and Js.
+- [2021_Windows 11 in React ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/blueedgetechno/windows11): This open source project is made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS (SCSS), and Js.
 
 # Internals
 
@@ -62,9 +62,9 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 - [why-did-you-update ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/garbles/why-did-you-update): Puts your console on blast when React is making unnecessary updates.
 
-- [2021~React Tracked ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dai-shi/react-tracked): State usage tracking with Proxies. Optimize re-renders for useState/useReducer, React Redux, Zustand and others.
+- [2021_React Tracked ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/dai-shi/react-tracked): State usage tracking with Proxies. Optimize re-renders for useState/useReducer, React Redux, Zustand and others.
 
-- [2021~Million ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/aidenybai/million)](https://github.com/aidenybai/million): Million is an extremely fast and lightweight (<4kb) virtual DOM that makes React components up to 70% faster.
+- [2021_Million ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/aidenybai/million)](https://github.com/aidenybai/million): Million is an extremely fast and lightweight (<4kb) virtual DOM that makes React components up to 70% faster.
 
 # Development Libraries
 
@@ -76,13 +76,13 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 ## Component Libraries
 
-- [2020~Radix ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/radix-ui/primitives)](https://github.com/radix-ui/primitives): Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
+- [2020_Radix ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/radix-ui/primitives)](https://github.com/radix-ui/primitives): Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 
 ## Data Fetch
 
-- [2019~SWR ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/zeit/swr): SWR is a React Hooks library for remote data fetching. The name “SWR” is derived from stale-while-revalidate, a HTTP cache invalidation strategy popularized by RFC 5861. SWR first returns the data from cache (stale), then sends the fetch request (revalidate), and finally comes with the up-to-date data again.
+- [2019_SWR ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/zeit/swr): SWR is a React Hooks library for remote data fetching. The name “SWR” is derived from stale-while-revalidate, a HTTP cache invalidation strategy popularized by RFC 5861. SWR first returns the data from cache (stale), then sends the fetch request (revalidate), and finally comes with the up-to-date data again.
 
-- [2019~React Query ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tannerlinsley/react-query): ⚛️ Hooks for fetching, caching and updating asynchronous data in React.
+- [2019_React Query ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tannerlinsley/react-query): ⚛️ Hooks for fetching, caching and updating asynchronous data in React.
 
 ## Component Utilities
 
@@ -90,7 +90,7 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 - [svgr ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/smooth-code/svgr): Transform SVG into React components
 
-- [2017~React Loadable ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/thejameskyle/react-loadable): A higher order component for loading components with promises.
+- [2017_React Loadable ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/thejameskyle/react-loadable): A higher order component for loading components with promises.
 
 - [hocs ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/deepsweet/hocs): A collection of Higher-Order Components for React and React Native.
 
@@ -102,7 +102,7 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 - [react-spring ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/drcmda/react-spring): Helping react-motion and animated to become best friends
 
-- [2017~react-move ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/tannerlinsley/react-move): Beautifully and deterministically animate anything in React.
+- [2017_react-move ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/tannerlinsley/react-move): Beautifully and deterministically animate anything in React.
 
 - [react-flight ![code](https://ng-tech.icu/assets/code.svg) ](https://github.com/jondot/react-flight): The best way to build animation compositions for React. Design and compose a component to start with, a component to end with, and Flight will take it from there.
 
@@ -114,4 +114,4 @@ More Web Widgets can be found in [Web Widgets Links](https://github.com/wx-cheva
 
 ## Test
 
-- [2017~react-cosmos ![code](https://ng-tech.icu/assets/code.svg)](https://cubox.pro/c/SwAGqu): Sandbox for developing and testing UI components in isolation
+- [2017_react-cosmos ![code](https://ng-tech.icu/assets/code.svg)](https://cubox.pro/c/SwAGqu): Sandbox for developing and testing UI components in isolation

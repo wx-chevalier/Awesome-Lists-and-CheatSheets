@@ -10,11 +10,11 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 ## Collection
 
-- [2017~Scanners Box ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/We5ter/Scanners-Box): Scanners Box is a collection of open source scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc.
+- [2017_Scanners Box ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/We5ter/Scanners-Box): Scanners Box is a collection of open source scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc.
 
 - [awesome-pentest ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/enaqx/awesome-pentest): A collection of awesome penetration testing resources, tools and other shiny things
 
-- [2024~hackingtool ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Z4nzu/hackingtool): All in One Hacking tool For Hackers🥇
+- [2024_hackingtool ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/Z4nzu/hackingtool): All in One Hacking tool For Hackers🥇
 
 # Universal Penetration Tools/Scanners
 
@@ -56,19 +56,19 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [洞察 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/creditease-sec/insight): 洞察-宜信集应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的平台。
 
-- [2018~Fuxi Scanner ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jeffzh3ng/Fuxi-Scanner): Fuxi Scanner is an open source network security vulnerability scanner, it comes with multiple functions.
+- [2018_Fuxi Scanner ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jeffzh3ng/Fuxi-Scanner): Fuxi Scanner is an open source network security vulnerability scanner, it comes with multiple functions.
 
-- [2017~Wfuzz ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/xmendez/wfuzz): Wfuzz has been created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.
+- [2017_Wfuzz ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/xmendez/wfuzz): Wfuzz has been created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.
 
-- [2018~Tide ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/TideSec/tide): 目前实现了网络空间资产探测、指纹检索、漏洞检测、漏洞全生命周期管理、poc 定向检测、暗链检测、挂马监测、敏感字检测、DNS 监测、网站可用性监测、漏洞库管理、安全预警等等~
+- [2018_Tide ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/TideSec/tide): 目前实现了网络空间资产探测、指纹检索、漏洞检测、漏洞全生命周期管理、poc 定向检测、暗链检测、挂马监测、敏感字检测、DNS 监测、网站可用性监测、漏洞库管理、安全预警等等~
 
-- [2018~Archery ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/archerysec/archerysec): Centralize Vulnerability Assessment and Management for DevSecOps Team.
+- [2018_Archery ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/archerysec/archerysec): Centralize Vulnerability Assessment and Management for DevSecOps Team.
 
 ## Scanner
 
 - [w3af ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/andresriancho/w3af): w3af: web application attack and audit framework, the open source web vulnerability scanner.
 
-- [2016~Nikto ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/sullo/nikto): Nikto web server scanner
+- [2016_Nikto ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/sullo/nikto): Nikto web server scanner
 
 - [reNgine ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/yogeshojha/rengine): reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
 
@@ -76,9 +76,9 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 ## Security Compliance
 
-- [2021~scorecard ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ossf/scorecard): Security Scorecards - Security health metrics for Open Source
+- [2021_scorecard ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ossf/scorecard): Security Scorecards - Security health metrics for Open Source
 
-- [2021~RiskScanner ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/riskscanner/riskscanner): RiskScanner 是开源的多云安全合规扫描平台，通过 Cloud Custodian 的 YAML DSL 定义扫描规则，实现对主流公(私)有云资源的安全合规扫描及使用优化建议。
+- [2021_RiskScanner ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/riskscanner/riskscanner): RiskScanner 是开源的多云安全合规扫描平台，通过 Cloud Custodian 的 YAML DSL 定义扫描规则，实现对主流公(私)有云资源的安全合规扫描及使用优化建议。
 
 ## IDS & WAF
 
@@ -98,9 +98,9 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 # Vulns & Pocs
 
-- [2021~security-research ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/google/security-research): This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
+- [2021_security-research ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/google/security-research): This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 
-- [2021~Nuclei Templates ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/projectdiscovery/nuclei-templates): Community curated list of templates for the nuclei engine to find security vulnerabilities.
+- [2021_Nuclei Templates ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/projectdiscovery/nuclei-templates): Community curated list of templates for the nuclei engine to find security vulnerabilities.
 
 - [PoC-in-GitHub ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/nomi-sec/PoC-in-GitHub): 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 
@@ -110,7 +110,7 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [SecLists ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/danielmiessler/SecLists): SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
-- [2019~PayloadsAllTheThings ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/swisskyrepo/PayloadsAllTheThings): A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [2019_PayloadsAllTheThings ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/swisskyrepo/PayloadsAllTheThings): A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ## Vulnerability Environment | 漏洞环境
 
@@ -156,13 +156,13 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [mxrch/GHunt ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/mxrch/GHunt)](https://github.com/mxrch/GHunt): GHunt (v2) is an offensive Google framework, designed to evolve efficiently.
 
-- [2022~mosint ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/2022-alpkeskin/mosint)](https://github.com/2022-alpkeskin/mosint): MOSINT is a fastest OSINT Tool for emails. It helps you gather information about the target email.
+- [2022_mosint ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/2022-alpkeskin/mosint)](https://github.com/2022-alpkeskin/mosint): MOSINT is a fastest OSINT Tool for emails. It helps you gather information about the target email.
 
 - [Digital-Privacy ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ffffffff0x/Digital-Privacy): 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗
 
-- [2020~Osintgram ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Datalux/Osintgram)](https://github.com/Datalux/Osintgram): Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
+- [2020_Osintgram ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Datalux/Osintgram)](https://github.com/Datalux/Osintgram): Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 
-- [2022~octosuite ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/bellingcat/octosuite)](https://github.com/bellingcat/octosuite): A framework for gathering open-source intelligence on GitHub users, repositories and organizations.
+- [2022_octosuite ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/bellingcat/octosuite)](https://github.com/bellingcat/octosuite): A framework for gathering open-source intelligence on GitHub users, repositories and organizations.
 
 ## Leakage
 
@@ -186,7 +186,7 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [wydomain ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ring04h/wydomain): To Discover Subdomains Of Your Target Domain
 
-- [2021~Subfinder ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/projectdiscovery/subfinder): Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+- [2021_Subfinder ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/projectdiscovery/subfinder): Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 
 ### Weak Passwd & Brute Force | 弱口令与暴力破解
 
@@ -226,11 +226,11 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [Lynis ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/CISOfy/lynis): Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 
-- [2022~Villain ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/t3l3machus/Villain): Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.
+- [2022_Villain ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/t3l3machus/Villain): Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.
 
-- [2023~jtesta/ssh-audit ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jtesta/ssh-audit)](https://github.com/jtesta/ssh-audit): SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
+- [2023_jtesta/ssh-audit ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/jtesta/ssh-audit)](https://github.com/jtesta/ssh-audit): SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 
-- [2023~Lynis ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CISOfy/lynis)](https://github.com/CISOfy/lynis): Lynis is a security auditing tool for systems based on UNIX like Linux, macOS, BSD, and others. It performs an in-depth security scan and runs on the system itself. The primary goal is to test security defenses and provide tips for further system hardening. It will also scan for general system information, vulnerable software packages, and possible configuration issues. Lynis was commonly used by system administrators and auditors to assess the security defenses of their systems. Besides the "blue team," nowadays penetration testers also have Lynis in their toolkit.
+- [2023_Lynis ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CISOfy/lynis)](https://github.com/CISOfy/lynis): Lynis is a security auditing tool for systems based on UNIX like Linux, macOS, BSD, and others. It performs an in-depth security scan and runs on the system itself. The primary goal is to test security defenses and provide tips for further system hardening. It will also scan for general system information, vulnerable software packages, and possible configuration issues. Lynis was commonly used by system administrators and auditors to assess the security defenses of their systems. Besides the "blue team," nowadays penetration testers also have Lynis in their toolkit.
 
 ## JumpServer
 
@@ -254,7 +254,7 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 ## Sniff
 
-- [2023~Sniffnet ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/GyulyVGC/sniffnet)](https://github.com/GyulyVGC/sniffnet): Sniffnet is a fully free, open-source software which needs your support to be maintained on a regular basis.
+- [2023_Sniffnet ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/GyulyVGC/sniffnet)](https://github.com/GyulyVGC/sniffnet): Sniffnet is a fully free, open-source software which needs your support to be maintained on a regular basis.
 
 ## DNS
 
@@ -280,7 +280,7 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 ## WiFi
 
-- [2018~trackerjacker ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/calebmadrigal/trackerjacker): Like nmap for mapping wifi networks you're not connected to, plus device tracking.
+- [2018_trackerjacker ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/calebmadrigal/trackerjacker): Like nmap for mapping wifi networks you're not connected to, plus device tracking.
 
 # Mobile | 移动端工具
 
@@ -290,7 +290,7 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 - [PoisonTap ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/samyk/poisontap)
 
-- [2018~kbd-audio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ggerganov/kbd-audio)](https://github.com/ggerganov/kbd-audio): This is a collection of command-line and GUI tools for capturing and analyzing audio data.
+- [2018_kbd-audio ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/ggerganov/kbd-audio)](https://github.com/ggerganov/kbd-audio): This is a collection of command-line and GUI tools for capturing and analyzing audio data.
 
 # Reverse Engineering | 逆向与破解
 
@@ -300,7 +300,7 @@ List of Security Archives Tools and software, generally for facilitate security 
 
 # Code Security
 
-- [2022~osv-scanner ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/google/osv-scanner)](https://github.com/google/osv-scanner): Use OSV-Scanner to find existing vulnerabilities affecting your project's dependencies.
+- [2022_osv-scanner ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/google/osv-scanner)](https://github.com/google/osv-scanner): Use OSV-Scanner to find existing vulnerabilities affecting your project's dependencies.
 
 # Links
 

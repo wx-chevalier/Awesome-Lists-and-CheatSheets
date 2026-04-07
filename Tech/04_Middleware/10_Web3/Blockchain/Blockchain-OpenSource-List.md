@@ -2,11 +2,11 @@
 
 - [blockchain-cli ![code](https://ng-tech.icu/assets/code.svg) #JavaScript#](https://github.com/seanseany/blockchain-cli): A minimal blockchain command-line interface.
 
-- [2017~Naivecoin #Series#](https://lhartikk.github.io/): a tutorial for building a cryptocurrency.
+- [2017_Naivecoin #Series#](https://lhartikk.github.io/): a tutorial for building a cryptocurrency.
 
 # Showcases
 
-- [2021~A from-scratch tour of Bitcoin in Python](http://karpathy.github.io/2021/06/21/blockchain/): We are going to create, digitally sign, and broadcast a Bitcoin transaction in pure Python, from scratch, and with zero dependencies.
+- [2021_A from-scratch tour of Bitcoin in Python](http://karpathy.github.io/2021/06/21/blockchain/): We are going to create, digitally sign, and broadcast a Bitcoin transaction in pure Python, from scratch, and with zero dependencies.
 
 # Cryptocurrency
 

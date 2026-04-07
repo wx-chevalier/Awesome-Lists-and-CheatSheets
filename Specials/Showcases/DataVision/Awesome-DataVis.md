@@ -4,7 +4,7 @@
 
 - [大屏数据展示模板 ![code](https://ng-tech.icu/assets/code.svg)](https://gitee.com/lvyeyou/DaShuJuZhiDaPingZhanShi): 各类大屏展示模板持续更新中...
 
-- [2023~CelestiaProject/Celestia ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CelestiaProject/Celestia)](https://github.com/CelestiaProject/Celestia): A real-time space simulation that lets you experience our universe in three dimensions.
+- [2023_CelestiaProject/Celestia ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/CelestiaProject/Celestia)](https://github.com/CelestiaProject/Celestia): A real-time space simulation that lets you experience our universe in three dimensions.
 
 ## 文字
 
@@ -40,9 +40,9 @@
 
 - [WebGL-Fluid-Simulation ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation): Play with fluids in your browser (works even on mobile)
 
-- [2017~bubbly-bg ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tipsy/bubbly-bg): Beautiful bubbly backgrounds in less than 1kB (750 bytes gzipped).
+- [2017_bubbly-bg ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tipsy/bubbly-bg): Beautiful bubbly backgrounds in less than 1kB (750 bytes gzipped).
 
-- [2021~vanta ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tengbao/vanta): Animated 3D backgrounds for your website
+- [2021_vanta ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/tengbao/vanta): Animated 3D backgrounds for your website
 
 ## Particle | 粒子效果
 
@@ -60,4 +60,4 @@
 
 # Cloud
 
-- [2023~CSS3DClouds](https://spite.github.io/CSS3DClouds/): An experiment on creating volumetric 3d-like clouds with CSS3 3D Transforms and a bit of Javascript.
+- [2023_CSS3DClouds](https://spite.github.io/CSS3DClouds/): An experiment on creating volumetric 3d-like clouds with CSS3 3D Transforms and a bit of Javascript.

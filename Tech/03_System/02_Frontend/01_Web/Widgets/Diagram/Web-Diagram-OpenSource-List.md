@@ -22,15 +22,15 @@
 
 - [roughViz.js ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/jwilber/roughViz): Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 
-- [2017~recharts ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/recharts/recharts)](https://github.com/recharts/recharts): Redefined chart library built with React and D3.
+- [2017_recharts ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/recharts/recharts)](https://github.com/recharts/recharts): Redefined chart library built with React and D3.
 
-- [2020~visx ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/airbnb/visx): visx is a collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of react for updating the DOM.
+- [2020_visx ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/airbnb/visx): visx is a collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of react for updating the DOM.
 
-- [2020~BizCharts ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/alibaba/BizCharts)](https://github.com/alibaba/BizCharts): Powerful data visualization library based on G2 and React.
+- [2020_BizCharts ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/alibaba/BizCharts)](https://github.com/alibaba/BizCharts): Powerful data visualization library based on G2 and React.
 
-- [2021~charts.css ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ChartsCSS/charts.css): Open source CSS framework for data visualization.
+- [2021_charts.css ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/ChartsCSS/charts.css): Open source CSS framework for data visualization.
 
-- [2021~vizzu-lib ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vizzuhq/vizzu-lib): Library for animated data visualizations and data stories.
+- [2021_vizzu-lib ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vizzuhq/vizzu-lib): Library for animated data visualizations and data stories.
 
 ## Realtime（实时图表）
 
@@ -44,7 +44,7 @@
 
 # Graph & Network
 
-- [2018~Cytoscape.js ![code](https://ng-tech.icu/assets/code.svg)](http://js.cytoscape.org/): Graph theory / network library for analysis and visualisation.
+- [2018_Cytoscape.js ![code](https://ng-tech.icu/assets/code.svg)](http://js.cytoscape.org/): Graph theory / network library for analysis and visualisation.
 
 - [react-network-diagrams ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/esnet/react-network-diagrams): Contains ESnet network mapping and circuit rendering code, as used in the ESnet portal.
 
@@ -54,9 +54,9 @@
 
 ## Map | 地图
 
-- [2017~maptalks.js](https://github.com/maptalks/maptalks.js): An open-source javascript library for map applications.
+- [2017_maptalks.js](https://github.com/maptalks/maptalks.js): An open-source javascript library for map applications.
 
-- [2018~deck.gl ![code](https://ng-tech.icu/assets/code.svg)](http://deck.gl/#/): deck.gl is a WebGL-powered framework for visual exploratory data analysis of large datasets.
+- [2018_deck.gl ![code](https://ng-tech.icu/assets/code.svg)](http://deck.gl/#/): deck.gl is a WebGL-powered framework for visual exploratory data analysis of large datasets.
 
 # Application
 
@@ -74,4 +74,4 @@
 
 # Math
 
-- [2022~Mafs ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/stevenpetryk/mafs)](https://github.com/stevenpetryk/mafs): Mafs is a set of opinionated React components for creating math visualizations.
+- [2022_Mafs ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/stevenpetryk/mafs)](https://github.com/stevenpetryk/mafs): Mafs is a set of opinionated React components for creating math visualizations.

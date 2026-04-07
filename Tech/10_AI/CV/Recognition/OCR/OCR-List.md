@@ -1,10 +1,10 @@
 # OCR List
 
-- [2017~Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning]()
+- [2017_Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning]()
 
-- [2017~Deep image prior ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/DmitryUlyanov/deep-image-prior): Image restoration with neural networks but without learning.
+- [2017_Deep image prior ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/DmitryUlyanov/deep-image-prior): Image restoration with neural networks but without learning.
 
-- [2017~How to break a CAPTCHA system in 15 minutes with Machine Learning](https://parg.co/UsP): Let’s hack the world’s most popular Wordpress CAPTCHA Plug-in.
+- [2017_How to break a CAPTCHA system in 15 minutes with Machine Learning](https://parg.co/UsP): Let’s hack the world’s most popular Wordpress CAPTCHA Plug-in.
 
 - [digit-classifier](https://github.com/karandesai-96/digit-classifier)
 
@@ -28,7 +28,7 @@
 
 ## Engineering Practices
 
-- [2018~Dropbox-Using machine learning to index text from billions of images](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/): So now, when a user searches for English text that appears in one of these files, it will show up in the search results. This blog post describes how we built this feature.
+- [2018_Dropbox-Using machine learning to index text from billions of images](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/): So now, when a user searches for English text that appears in one of these files, it will show up in the search results. This blog post describes how we built this feature.
 
 ## Case Study
 
@@ -36,7 +36,7 @@
 
 ## Collection
 
-- [2019~最全 OCR 相关资料整理 🗃️](https://mp.weixin.qq.com/s/OXmWLuZR2mzEz7drn4xGDQ)
+- [2019\_最全 OCR 相关资料整理 🗃️](https://mp.weixin.qq.com/s/OXmWLuZR2mzEz7drn4xGDQ)
 
 # Tutorial
 

@@ -22,7 +22,7 @@
 
 ## Distributed FS
 
-- [2020~JuiceFS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+- [2020_JuiceFS ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 
 ## Object Storage
 
@@ -40,10 +40,10 @@
 
 - MogileFS
 
-- [2019~MinIO ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/minio/minio): MinIO is a high performance object storage server compatible with Amazon S3 APIs.
+- [2019_MinIO ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/minio/minio): MinIO is a high performance object storage server compatible with Amazon S3 APIs.
 
-- [2019~Dragonfly ![code](https://ng-tech.icu/assets/code.svg)](https://d7y.io/en-us/index.html): An Open-source P2P-based Image and File Distribution System.
+- [2019_Dragonfly ![code](https://ng-tech.icu/assets/code.svg)](https://d7y.io/en-us/index.html): An Open-source P2P-based Image and File Distribution System.
 
-- [2020~Garage ![code](https://ng-tech.icu/assets/code.svg)](https://garagehq.deuxfleurs.fr/): An open-source distributed object storage service tailored for self-hosting.
+- [2020_Garage ![code](https://ng-tech.icu/assets/code.svg)](https://garagehq.deuxfleurs.fr/): An open-source distributed object storage service tailored for self-hosting.
 
 ## Block Storage

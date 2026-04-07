@@ -10,13 +10,13 @@
 
 ## Showcase
 
-- [2024~Megapixel99/nodejs-k8s ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Megapixel99/nodejs-k8s)](https://github.com/Megapixel99/nodejs-k8s): Attempt to recreate the core functionality of v1.29.1 Kubernetes in NodeJS, whle being fully compatible with the kubectl CLI
+- [2024_Megapixel99/nodejs-k8s ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/Megapixel99/nodejs-k8s)](https://github.com/Megapixel99/nodejs-k8s): Attempt to recreate the core functionality of v1.29.1 Kubernetes in NodeJS, whle being fully compatible with the kubectl CLI
 
 ## Local Development
 
-- [2019~KinD ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/kubernetes-sigs/kind/): kind is a tool for running local Kubernetes clusters using Docker container "nodes". kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI.
+- [2019_KinD ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/kubernetes-sigs/kind/): kind is a tool for running local Kubernetes clusters using Docker container "nodes". kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI.
 
-- [2023~kwok ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/kubernetes-sigs/kwok)](https://github.com/kubernetes-sigs/kwok): KWOK is a toolkit that enables setting up a cluster of thousands of Nodes in seconds. Under the scene, all Nodes are simulated to behave like real ones, so the overall approach employs a pretty low resource footprint that you can easily play around on your laptop.
+- [2023_kwok ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/kubernetes-sigs/kwok)](https://github.com/kubernetes-sigs/kwok): KWOK is a toolkit that enables setting up a cluster of thousands of Nodes in seconds. Under the scene, all Nodes are simulated to behave like real ones, so the overall approach employs a pretty low resource footprint that you can easily play around on your laptop.
 
 ## Cluster Management
 
@@ -26,7 +26,7 @@
 
 - [Rancher ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rancher/rancher): Rancher is an open source project that provides a container management platform built for organizations that deploy containers in production. Rancher makes it easy to run Kubernetes everywhere, meet IT requirements, and empower DevOps teams.
 
-- [2021~VMware Tanzu Community Edition ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vmware-tanzu/community-edition): VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.
+- [2021_VMware Tanzu Community Edition ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vmware-tanzu/community-edition): VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.
 
 - [Sealos ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/fanux/sealos): 一条命令离线安装高可用 kubernetes，3min 装完，500M，100 年证书，版本不要太全，生产环境稳如老狗
 
@@ -38,35 +38,35 @@
 
 - [Lens ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/lensapp/lens): Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It is a standalone application for MacOS, Windows and Linux operating systems. It is open source and free.
 
-- [2020~Kuboard ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/eip-work/kuboard-press)](https://github.com/eip-work/kuboard-press): Kuboard 是一款专为 Kubernetes 设计的免费管理界面，兼容 Kubernetes 版本 1.13 及以上。Kuboard 每周发布一个 beta 版本，最长每月发布一个正式版本，经过两年的不断迭代和优化，已经具备多集群管理、权限管理、监控套件、日志套件等丰富的功能，并且有 1000+ 的企业将 Kuboard 应用于其生产环境。Kuboard 自 2019 年 8 月发布第一个版本以来，得到了众多用户的认可，目前已经获得了 10000+ GitHub Star
+- [2020_Kuboard ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/eip-work/kuboard-press)](https://github.com/eip-work/kuboard-press): Kuboard 是一款专为 Kubernetes 设计的免费管理界面，兼容 Kubernetes 版本 1.13 及以上。Kuboard 每周发布一个 beta 版本，最长每月发布一个正式版本，经过两年的不断迭代和优化，已经具备多集群管理、权限管理、监控套件、日志套件等丰富的功能，并且有 1000+ 的企业将 Kuboard 应用于其生产环境。Kuboard 自 2019 年 8 月发布第一个版本以来，得到了众多用户的认可，目前已经获得了 10000+ GitHub Star
 
-- [2021~pixie ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pixie-labs/pixie): Instant Kubernetes-Native Application Observability
+- [2021_pixie ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/pixie-labs/pixie): Instant Kubernetes-Native Application Observability
 
 - [k9s ![code](https://ng-tech.icu/assets/code.svg)](https://k9scli.io/): K9s is a terminal based UI to interact with your Kubernetes clusters. The aim of this project is to make it easier to navigate, observe and manage your deployed applications in the wild. K9s continually watches Kubernetes for changes and offers subsequent commands to interact with your observed resources.
 
-- [2021~scope ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/weaveworks/scope): Monitoring, visualisation & management for Docker & Kubernetes
+- [2021_scope ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/weaveworks/scope): Monitoring, visualisation & management for Docker & Kubernetes
 
-- [2021~KubePi ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/KubeOperator/KubePi): KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板
+- [2021_KubePi ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/KubeOperator/KubePi): KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板
 
-- [2022~Rancher Desktop ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rancher-sandbox/rancher-desktop/): Rancher Desktop is an open-source project to bring Kubernetes and container management to the desktop. Windows, macOS and Linux versions of Rancher Desktop are available for download, though do note that the Linux version is considered a tech preview.
+- [2022_Rancher Desktop ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rancher-sandbox/rancher-desktop/): Rancher Desktop is an open-source project to bring Kubernetes and container management to the desktop. Windows, macOS and Linux versions of Rancher Desktop are available for download, though do note that the Linux version is considered a tech preview.
 
-- [2023~Meshery ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/meshery/meshery)](https://github.com/meshery/meshery): A self-service engineering platform, Meshery, is the open source, cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications. Among other features, As an extensible platform, Meshery offers visual and collaborative GitOps, freeing you from the chains of YAML while managing Kubernetes multi-cluster deployments.
+- [2023_Meshery ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/meshery/meshery)](https://github.com/meshery/meshery): A self-service engineering platform, Meshery, is the open source, cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications. Among other features, As an extensible platform, Meshery offers visual and collaborative GitOps, freeing you from the chains of YAML while managing Kubernetes multi-cluster deployments.
 
-- [2025~kubetail-org/Kubetail ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/kubetail-org/kubetail)](https://github.com/kubetail-org/kubetail): Kubetail is a general-purpose logging dashboard for Kubernetes, optimized for tailing logs across across multi-container workloads in real-time. With Kubetail, you can view logs from all the containers in a workload (e.g. Deployment or DaemonSet) merged into a single, chronological timeline, delivered to your browser or terminal.
+- [2025_kubetail-org/Kubetail ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/kubetail-org/kubetail)](https://github.com/kubetail-org/kubetail): Kubetail is a general-purpose logging dashboard for Kubernetes, optimized for tailing logs across across multi-container workloads in real-time. With Kubetail, you can view logs from all the containers in a workload (e.g. Deployment or DaemonSet) merged into a single, chronological timeline, delivered to your browser or terminal.
 
 ## Distribution
 
-- [2019~k3s ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rancher/k3s): Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb.
+- [2019_k3s ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rancher/k3s): Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb.
 
-- [2020~Microk8s ![code](https://ng-tech.icu/assets/code.svg)](https://microk8s.io/): Super-simple production-grade upstream K8s. One-command install on 42 flavours of Linux. Made for developers and devops. Great for edge and IoT.
+- [2020_Microk8s ![code](https://ng-tech.icu/assets/code.svg)](https://microk8s.io/): Super-simple production-grade upstream K8s. One-command install on 42 flavours of Linux. Made for developers and devops. Great for edge and IoT.
 
-- [2020~k3d ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rancher/k3d/): Little helper to run Rancher Lab's k3s in Docker.
+- [2020_k3d ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/rancher/k3d/): Little helper to run Rancher Lab's k3s in Docker.
 
-- [2020~k0s ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/k0sproject/k0s): k0s is yet another Kubernetes distro. Yes. But we do some of the things pretty different from other distros out there.
+- [2020_k0s ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/k0sproject/k0s): k0s is yet another Kubernetes distro. Yes. But we do some of the things pretty different from other distros out there.
 
 ## Application Management
 
-- [2019~kruise ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/openkruise/kruise): Automate application workloads management on Kubernetes
+- [2019_kruise ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/openkruise/kruise): Automate application workloads management on Kubernetes
 
 - [Helm ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/kubernetes/helm): Helm is a tool for managing Kubernetes charts. Charts are packages of pre-configured Kubernetes resources.
 
@@ -94,7 +94,7 @@
 
 ## CI & CD
 
-- [2018~Kubernetes Client ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/kubernetes-client): This organization hosts Kubernetes API client libraries.
+- [2018_Kubernetes Client ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/kubernetes-client): This organization hosts Kubernetes API client libraries.
 
 - [Skaffold ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleCloudPlatform/skaffold): Skaffold is a command line tool that facilitates continuous development for Kubernetes applications.
 
@@ -102,7 +102,7 @@
 
 - [kaniko ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/GoogleContainerTools/kaniko): kaniko is a tool to build container images from a Dockerfile, inside a container or Kubernetes cluster.
 
-- [2021~BotKube ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/infracloudio/botkube): An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices.
+- [2021_BotKube ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/infracloudio/botkube): An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices.
 
 ## HA
 
