@@ -8,7 +8,7 @@
 
 ## Books
 
-- [2011~《3D Math Primer for Graphics and Game Development》📚](https://gamemath.com/book/intro.html): Also, this book was published in 2011. In 2011, League of Legends was two years old, Skyrim had just been released, and the PS4 was still two years away. But we're proud to say that most of the material in this book, like Bilbo when he still had The Ring, hasn't aged a day. Vectors and matrices work the same way, still equals , and people still use Blinn-Phong.
+- [2011\_《3D Math Primer for Graphics and Game Development》📚](https://gamemath.com/book/intro.html): Also, this book was published in 2011. In 2011, League of Legends was two years old, Skyrim had just been released, and the PS4 was still two years away. But we're proud to say that most of the material in this book, like Bilbo when he still had The Ring, hasn't aged a day. Vectors and matrices work the same way, still equals , and people still use Blinn-Phong.
 
 - [2021\_《Basic Computer Games》📚](https://github.com/coding-horror/basic-computer-games): An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages.
 
