@@ -14,7 +14,7 @@
 
 - [2020\_《💡 Introduction to Bash Scripting》📚](https://github.com/bobbyiliev/introduction-to-bash-scripting): This is an open-source introduction to Bash scripting guide/ebook that will help you learn the basics of Bash scripting and start writing awesome Bash scripts that will help you automate your daily SysOps, DevOps, and Dev tasks. No matter if you are a DevOps/SysOps engineer, developer, or just a Linux enthusiast, you can use Bash scripts to combine different Linux commands and automate boring and repetitive daily tasks, so that you can focus on more productive and fun things.
 
-- [2021\_《The Linux Kernel Module Programming Guide》📚](https://github.com/sysprog21/lkmpg): This project keeps the Linux Kernel Module Programming Guide reasonably up to date, with working examples for recent 5.x kernel versions. The guide has been around since 2001 and most copies of it on the web only describe old 2.6.x kernels.
+- [2021~《The Linux Kernel Module Programming Guide》📚](https://github.com/sysprog21/lkmpg): This project keeps the Linux Kernel Module Programming Guide reasonably up to date, with working examples for recent 5.x kernel versions. The guide has been around since 2001 and most copies of it on the web only describe old 2.6.x kernels.
 
 - [2022\_《品读 Linux 0.11 核心代码》📚](https://github.com/sunym1993/flash-linux0.11-talk): 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码。
 

@@ -6,4 +6,4 @@
 
 - [2019_Re-decentralizing the Web, for good this time](https://ruben.verborgh.org/articles/redecentralizing-the-web/): This chapter explains the history of decentralization in a Web context, and details Tim Berners-Lee’s role in the continued battle for a free and open Web.
 
-- [2021\_对 Web3.0 概念的梳理](https://mp.weixin.qq.com/s/vJM6TIZT2f-tnQ49cpMnrw): 限于篇幅，本文不可能对这些概念一一讲解。本文的主要目标是尝试在这成堆的概念中，寻找出有关 Web3.0 的主要脉络。
+- [2021~对 Web3.0 概念的梳理](https://mp.weixin.qq.com/s/vJM6TIZT2f-tnQ49cpMnrw): 限于篇幅，本文不可能对这些概念一一讲解。本文的主要目标是尝试在这成堆的概念中，寻找出有关 Web3.0 的主要脉络。

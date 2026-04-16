@@ -68,11 +68,11 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2020\_《Go 语言原本》📚](https://golang.design/under-the-hood/): 本书就是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍。
 
-- [2021\_《Practical Go Lessons》📚](https://www.practical-go-lessons.com): This book is about Go. My main objective is to teach you the language in a progressive way. I also tried to clarify and explain some common computer science notions that can be difficult to grasp, especially for newcomers.
+- [2021~《Practical Go Lessons》📚](https://www.practical-go-lessons.com): This book is about Go. My main objective is to teach you the language in a progressive way. I also tried to clarify and explain some common computer science notions that can be difficult to grasp, especially for newcomers.
 
-- [2021\_《Go 语言高性能编程》📚](https://geektutu.com/post/high-performance-go.html): 通过学习一些著名的开源项目和 Go 的源码，也掌握了很多编程的技巧，知道怎么写才能获得更好的性能。这些技巧是零散的，我一直希望能够将这些技巧系统地整理出来，不断地完善，最终形成一本高性能编程的指南。因此，开启了 Go 语言高性能编程 这个电子书项目。这个项目刚起步，处于一个逐步完善的过程，与各位童鞋共勉。
+- [2021~《Go 语言高性能编程》📚](https://geektutu.com/post/high-performance-go.html): 通过学习一些著名的开源项目和 Go 的源码，也掌握了很多编程的技巧，知道怎么写才能获得更好的性能。这些技巧是零散的，我一直希望能够将这些技巧系统地整理出来，不断地完善，最终形成一本高性能编程的指南。因此，开启了 Go 语言高性能编程 这个电子书项目。这个项目刚起步，处于一个逐步完善的过程，与各位童鞋共勉。
 
-- [2021\_《Golang Notes》📚](https://github.com/cch123/golang-notes): 主要是源码分析，可能也会有一些使用上的知识点。
+- [2021~《Golang Notes》📚](https://github.com/cch123/golang-notes): 主要是源码分析，可能也会有一些使用上的知识点。
 
 - [2022\_《Go 程序设计》📚](https://www.yuque.com/qyuhen/go)
 
@@ -92,7 +92,7 @@ This file aggregates curated popular links for learning Golang. More reference a
 
 - [2017_Golang Guide: A List of Top Golang Frameworks, IDEs & Tools 🗃️](https://parg.co/oGO)
 
-- [2021\_最全空降 Golang 资料补给包 🗃️](https://github.com/0voice/Introduction-to-Golang): 【未来服务器端编程语言】最全空降 golang 资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享 ppt
+- [2021~最全空降 Golang 资料补给包 🗃️](https://github.com/0voice/Introduction-to-Golang): 【未来服务器端编程语言】最全空降 golang 资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享 ppt
 
 - [2021_Awesome Go Books 🗃️](https://github.com/dariubs/GoBooks): List of Golang books.
 

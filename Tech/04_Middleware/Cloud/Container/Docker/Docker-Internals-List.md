@@ -8,7 +8,7 @@
 
 - [Docker 核心技术与实现原理](https://draveness.me/docker): 作为在生产环境中广泛应用的产品，Docker 有着非常成熟的社区以及大量的使用者，代码库中的内容也变得非常庞大。
 
-- [2021\_万字长文：彻底搞懂容器镜像构建](https://zhuanlan.zhihu.com/p/357107501): 我将在这篇文章中深入 Docker 的源码，与你聊聊镜像构建的原理。
+- [2021~万字长文：彻底搞懂容器镜像构建](https://zhuanlan.zhihu.com/p/357107501): 我将在这篇文章中深入 Docker 的源码，与你聊聊镜像构建的原理。
 
 # cgroup
 

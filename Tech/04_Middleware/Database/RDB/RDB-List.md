@@ -24,7 +24,7 @@
 
 # Query Processing
 
-- [2021\_比开源快 30 倍的自研 SQL Parser 设计与实践](https://zhuanlan.zhihu.com/p/380801055?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=57299368411136): 本文通过介绍词法语法分析器技术和业界的做法，以及过去使用自动生成的词法语法分析器遇到的问题，分享自研 SQL Parser 的设计与实践，以及其带来的性能和功能的提升。
+- [2021~比开源快 30 倍的自研 SQL Parser 设计与实践](https://zhuanlan.zhihu.com/p/380801055?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=57299368411136): 本文通过介绍词法语法分析器技术和业界的做法，以及过去使用自动生成的词法语法分析器遇到的问题，分享自研 SQL Parser 的设计与实践，以及其带来的性能和功能的提升。
 
 # Index（索引）
 

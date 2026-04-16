@@ -26,7 +26,7 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [程序员进阶之算法练习 #Series#](https://cloud.tencent.com/developer/article/1365773)
 
-- [2021\_《algorithm-note》中文版](https://github.com/Dairongpeng/algorithm-note): 该系列包括数组，链表，树，图，递归，DP，有序表等相关数据结构与算法的讲解及代码实现。
+- [2021~《algorithm-note》中文版](https://github.com/Dairongpeng/algorithm-note): 该系列包括数组，链表，树，图，递归，DP，有序表等相关数据结构与算法的讲解及代码实现。
 
 ## Books
 
@@ -44,9 +44,9 @@ This series collect curated, worthy and up-to-date links/reading list for Algori
 
 - [2018\_《Algorithms》📚](http://jeffe.cs.illinois.edu/teaching/algorithms/?#book): This textbook grew out of a collection of lecture notes that I wrote for various algorithms classes at the University of Illinois at Urbana-Champaign, which I have been teaching about once a year since January 1999.
 
-- [2021\_《labuladong 的算法小抄》📚](https://labuladong.gitbook.io/algo/): 本网站目前可以手把手带你解决 150 道 LeetCode 算法问题，而且在不断更新，全部基于 LeetCode 的题目，涵盖了所有题型和技巧。我已经把在每篇文章的开头加上了该文章可以解决的 LeetCode 题目链接，可以看完文章立即去拿下对应题目。
+- [2021~《labuladong 的算法小抄》📚](https://labuladong.gitbook.io/algo/): 本网站目前可以手把手带你解决 150 道 LeetCode 算法问题，而且在不断更新，全部基于 LeetCode 的题目，涵盖了所有题型和技巧。我已经把在每篇文章的开头加上了该文章可以解决的 LeetCode 题目链接，可以看完文章立即去拿下对应题目。
 
-- [2021\_《algorithm-base》📚](https://github.com/chefyuan/algorithm-base): 专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！
+- [2021~《algorithm-base》📚](https://github.com/chefyuan/algorithm-base): 专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！
 
 - [2022\_《算法通关手册（LeetCode）》📚](https://algo.itcharge.cn/): 本书不仅仅只是一本算法题解书，更是一本算法与数据结构基础知识的讲解书。本书易于理解，没有大跨度的思维跳跃，书中使用部分图示、例子来帮助理解。本书先从基础的数据结构和算法开始讲解，再针对不同分类的数据结构和算法，进行具体题目的讲解分析。让读者可以通过「算法基础理论学习」和「编程实战学习」相结合的方式，彻底的掌握算法知识。
 

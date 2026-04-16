@@ -43,7 +43,7 @@
 
 - [2018_Reinforcement Learning: An Introduction-Second Edition》📚](https://parg.co/Y6M): This textbook provides a clear and simple account of the key ideas and algorithms of reinforcement learning that is accessible to readers in all the related disciplines. Familiarity with elementary concepts of probability is required.
 
-- [2021\_蘑菇书 EasyRL》📚](https://github.com/datawhalechina/easy-rl): 李宏毅老师的《深度强化学习》是强化学习领域经典的中文视频之一。李老师幽默风趣的上课风格让晦涩难懂的强化学习理论变得轻松易懂，他会通过很多有趣的例子来讲解强化学习理论。比如老师经常会用玩 Atari 游戏的例子来讲解强化学习算法。此外，为了教程的完整性，我们整理了周博磊老师的《强化学习纲要》、李科浇老师的《世界冠军带你从零实践强化学习》以及多个强化学习的经典资料作为补充。对于想入门强化学习又想看中文讲解的人来说绝对是非常推荐的。
+- [2021~蘑菇书 EasyRL》📚](https://github.com/datawhalechina/easy-rl): 李宏毅老师的《深度强化学习》是强化学习领域经典的中文视频之一。李老师幽默风趣的上课风格让晦涩难懂的强化学习理论变得轻松易懂，他会通过很多有趣的例子来讲解强化学习理论。比如老师经常会用玩 Atari 游戏的例子来讲解强化学习算法。此外，为了教程的完整性，我们整理了周博磊老师的《强化学习纲要》、李科浇老师的《世界冠军带你从零实践强化学习》以及多个强化学习的经典资料作为补充。对于想入门强化学习又想看中文讲解的人来说绝对是非常推荐的。
 
 # DeepLearning | 深度学习
 
@@ -67,4 +67,4 @@
 
 - [2020\_《Dive into Deep Learning (D2L.ai)》📚](https://github.com/d2l-ai/d2l-en): Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.
 
-- [2021\_《动手学习深度学习》📚 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes): 《动手学习深度学习》是李沐老师（AWS 资深首席科学家，美国卡内基梅隆大学计算机系博士）主讲的一系列深度学习视频。本项目收集了我们在寒假期间学习《动手学习深度学习》过程中详细的 markdown 笔记和相关的 jupyter 代码。赠人玫瑰，手留余香，我们将所有的 markdown 笔记开源，希望在自己学习的同时，也对大家学习掌握李沐老师的《动手学习深度学习》有所帮助。
+- [2021~《动手学习深度学习》📚 ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes): 《动手学习深度学习》是李沐老师（AWS 资深首席科学家，美国卡内基梅隆大学计算机系博士）主讲的一系列深度学习视频。本项目收集了我们在寒假期间学习《动手学习深度学习》过程中详细的 markdown 笔记和相关的 jupyter 代码。赠人玫瑰，手留余香，我们将所有的 markdown 笔记开源，希望在自己学习的同时，也对大家学习掌握李沐老师的《动手学习深度学习》有所帮助。

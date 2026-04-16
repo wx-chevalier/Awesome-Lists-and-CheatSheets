@@ -6,7 +6,7 @@
 
 # Resources
 
-- [2021\_《Real-Time Rendering 4th》 🗃️](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection): Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of `<Real-Time Rendering 4th (RTR4)> `Bibliography
+- [2021~《Real-Time Rendering 4th》 🗃️](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection): Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of `<Real-Time Rendering 4th (RTR4)> `Bibliography
 
 - [计算机图形学笔记 #Series#](https://blog.csdn.net/qq_38065509/category_9873936.html)
 

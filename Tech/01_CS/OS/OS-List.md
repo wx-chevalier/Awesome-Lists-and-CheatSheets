@@ -16,7 +16,7 @@
 
 - [2019\_《Inside the Machine》📚](http://joe90.yolasite.com/resources/InsidetheMachine.pdf): An Illustrated Introduction to Microprocessors and Computer Architecture.
 
-- [2021\_《计算机体系结构基础》📚](https://foxsen.github.io/archbase/): 这套教材的编写突出以下特点：一是系统性，体系是“系统的系统”，很难脱离软硬件环境纯粹就体系结构本身讲解计算机体系结构，需要对体系结构、基础软件、电路和器件融会贯通；二是基础性，计算机体系结构千变万化，但几十年发展沉淀下来的原理性的东西不多，希望从体系结构快速发展的很多现象中找出一些内在的、本质的东西；三是实践性，计算机体系结构是实践性很强的学科，要设计在“硅”上运行而不是在“纸”上运行的体系结构。
+- [2021~《计算机体系结构基础》📚](https://foxsen.github.io/archbase/): 这套教材的编写突出以下特点：一是系统性，体系是“系统的系统”，很难脱离软硬件环境纯粹就体系结构本身讲解计算机体系结构，需要对体系结构、基础软件、电路和器件融会贯通；二是基础性，计算机体系结构千变万化，但几十年发展沉淀下来的原理性的东西不多，希望从体系结构快速发展的很多现象中找出一些内在的、本质的东西；三是实践性，计算机体系结构是实践性很强的学科，要设计在“硅”上运行而不是在“纸”上运行的体系结构。
 
 - [2024\_《30 天自制操作系统》 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/yourtion/30dayMakeOS)](https://github.com/yourtion/30dayMakeOS): 自己制作一个操作系统的过程，阅读过程会一边汉化源码，一边执行还有根据一些相关的内容进行代码的书写，欢迎大家交流。
 

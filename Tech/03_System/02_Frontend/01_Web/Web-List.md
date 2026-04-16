@@ -18,7 +18,7 @@
 
 - [2019\_前端开发 20 年变迁史](https://mp.weixin.qq.com/s/cDsYO1AsYXOjZVpSwBq2HA): 我们经历了前端的洪荒时代、Prototype 时代、jQuery 时代、后 jQuery 时期、三大框架割据时代，这其中均是由国外开发者主导，直到如今的小程序时代，才是中国开发者独创的。
 
-- [2021\_五分钟了解互联网 Web 技术发展史](https://mp.weixin.qq.com/s/HUknNfaxNULc4Yvf5ajRBA): 1991 年 8 月，第一个静态页面诞生了，这是由 Tim Berners-Lee 发布的，想要告诉人们什么是万维网。从静态页面到 Ajax 技术，从 Server Side Render 到 React Server Components，历史的车轮滚滚向前，一个又一个技术诞生和沉寂。
+- [2021~五分钟了解互联网 Web 技术发展史](https://mp.weixin.qq.com/s/HUknNfaxNULc4Yvf5ajRBA): 1991 年 8 月，第一个静态页面诞生了，这是由 Tim Berners-Lee 发布的，想要告诉人们什么是万维网。从静态页面到 Ajax 技术，从 Server Side Render 到 React Server Components，历史的车轮滚滚向前，一个又一个技术诞生和沉寂。
 
 ## Vision | 领袖意见
 
@@ -28,7 +28,7 @@
 
 ## Practices | 大厂实践
 
-- [2021\_字节跳动的现代 Web 开发实践](https://mp.weixin.qq.com/s/0VDBAgEvqB1xiUs540Fu9A): 今天这场分享的主题，就是字节跳动如何把现代 Web 开发转化成具体的技术栈和研发工具体系，在内部广泛落地和从中获益。
+- [2021~字节跳动的现代 Web 开发实践](https://mp.weixin.qq.com/s/0VDBAgEvqB1xiUs540Fu9A): 今天这场分享的主题，就是字节跳动如何把现代 Web 开发转化成具体的技术栈和研发工具体系，在内部广泛落地和从中获益。
 
 # Resources | 资源
 
@@ -86,7 +86,7 @@
 
 ## Series
 
-- [2021\_浏览器工作原理与实践 #Series#](https://blog.poetries.top/browser-working-principle/): 极客浏览器工作原理与实践，追求重点和难点,剔除陈旧的知识。
+- [2021~浏览器工作原理与实践 #Series#](https://blog.poetries.top/browser-working-principle/): 极客浏览器工作原理与实践，追求重点和难点,剔除陈旧的知识。
 
 - [2022\_《前端小课》 #Series#](https://github.com/lefex/FE):《前端小课》是通过图片、文字、代码、视频等多种方式写成的一本多媒体电子书。全书分为不同的小书，每本小书旨在讲透一个知识点。比如 CSS 布局、JavaScript 基础、动画。以最基础的编程知识为起点，即使不懂编程的小白也能够通过本书学会编程，顺利进入互联网行业。
 

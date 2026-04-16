@@ -8,7 +8,7 @@
 
 ## Books
 
-- [2023\_《构筑大语言模型应用：应用开发与架构设计》 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/phodal/aigc)](https://github.com/phodal/aigc): 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 Prompt 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 LLM 应用开发的模式和架构设计。
+- [2023\_《构筑大语言模型应用：应用开发与架构设计》\_ ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/phodal/aigc)](https://github.com/phodal/aigc): 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 Prompt 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 LLM 应用开发的模式和架构设计。
 
 - [2023\_《LLMs from scratch》 ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/rasbt/LLMs-from-scratch)](https://github.com/rasbt/LLMs-from-scratch): In Build a Large Language Model (from Scratch), you'll discover how LLMs work from the inside out. In this book, I'll guide you step by step through creating your own LLM, explaining each stage with clear text, diagrams, and examples.
 
