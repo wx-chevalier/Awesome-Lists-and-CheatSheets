@@ -30,7 +30,7 @@
 
 # Consensus Algorithms
 
-- [In search of a simple consensus algorithm](http://rystsov.info/2017/02/15/simple-consensus.html)
+- [In search of a simple consensus algorithm](http://rystsov.com/2017/02/15/simple-consensus.html)
 
 # OpenSource
 
