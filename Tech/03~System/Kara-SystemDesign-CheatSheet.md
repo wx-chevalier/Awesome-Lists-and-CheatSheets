@@ -5688,7 +5688,7 @@ Here are the resources that were referenced while creating this course.
 - [IBM Blogs](https://www.ibm.com/blogs)
 - [Fastly Blogs](https://www.fastly.com/blog)
 - [NS1 Blogs](https://ns1.com/blog)
-- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+- [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [AWS Blogs](https://aws.amazon.com/blogs)
 - [Martin Fowler](https://martinfowler.com)
